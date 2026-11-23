@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expandsAt_transport
 -- name    : GlobalTheory.expandsAt_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:23:53.057477+00:00
 -- url     : https://prove2.me/theorems/2b414059-bdf3-4784-9172-d5a92d78bd4b

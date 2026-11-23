@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermD_exists_pullSec
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.exists_pullSec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:39.207456+00:00
 -- url     : https://prove2.me/theorems/12b1e184-d6f4-4a0f-9b6d-0f1905792005

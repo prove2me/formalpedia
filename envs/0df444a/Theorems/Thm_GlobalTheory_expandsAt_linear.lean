@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expandsAt_linear
 -- name    : GlobalTheory.expandsAt_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:25:03.810791+00:00
 -- url     : https://prove2.me/theorems/f4a1a5cf-d28f-49ac-ac64-1cc7464a0f41

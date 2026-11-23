@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polyDeriv_monomial
 -- name    : GlobalTheory.polyDeriv_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:10.419831+00:00
 -- url     : https://prove2.me/theorems/c72ee24f-ddf9-4323-acba-47139d87048c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValPl_addv_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValPl.addv_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:20.189669+00:00
 -- url     : https://prove2.me/theorems/17781b1b-1cb3-4949-8ae6-94740a7ccc2d

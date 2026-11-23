@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_HXm_eq_map
 -- name    : Formalism.L2.Col.HXm_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:56.010273+00:00
 -- url     : https://prove2.me/theorems/46677deb-232e-4ed6-9a0f-a67b739f63c7

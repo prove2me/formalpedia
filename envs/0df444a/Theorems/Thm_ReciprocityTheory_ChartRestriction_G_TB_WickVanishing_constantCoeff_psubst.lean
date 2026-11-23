@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_constantCoeff_psubst
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.constantCoeff_psubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:26.116958+00:00
 -- url     : https://prove2.me/theorems/e2ecd9bc-dc70-420f-96d6-d4b7c4ccc6ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_isAffineHom_left
 -- name    : GlobalTheory.ToSplit.isAffineHom_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:27.240159+00:00
 -- url     : https://prove2.me/theorems/fdca9b55-157a-47f1-a1ac-afd77af55a05

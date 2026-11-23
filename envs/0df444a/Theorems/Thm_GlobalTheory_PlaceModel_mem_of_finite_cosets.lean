@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceModel_mem_of_finite_cosets
 -- name    : GlobalTheory.PlaceModel.mem_of_finite_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:20.185793+00:00
 -- url     : https://prove2.me/theorems/556c63d6-d0b2-4f5c-ba65-d1d552c60ddc

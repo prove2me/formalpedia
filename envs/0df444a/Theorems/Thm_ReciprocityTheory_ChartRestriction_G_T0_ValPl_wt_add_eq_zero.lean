@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValPl_wt_add_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValPl.wt_add_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:22.324395+00:00
 -- url     : https://prove2.me/theorems/508c8f4d-f899-43ed-96c5-85ea3c3ef2dc

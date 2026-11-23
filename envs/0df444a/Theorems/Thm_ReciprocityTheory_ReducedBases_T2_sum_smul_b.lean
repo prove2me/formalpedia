@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_sum_smul_b
 -- name    : ReciprocityTheory.ReducedBases.T2.sum_smul_b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:21:59.525807+00:00
 -- url     : https://prove2.me/theorems/7e99eefc-f0ff-4850-a225-92501496c2cc

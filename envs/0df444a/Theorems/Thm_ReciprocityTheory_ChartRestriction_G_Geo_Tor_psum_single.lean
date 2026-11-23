@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_psum_single
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.psum_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:30:01.470035+00:00
 -- url     : https://prove2.me/theorems/746553fb-e3ff-4f9b-a13c-37699fdebbf4

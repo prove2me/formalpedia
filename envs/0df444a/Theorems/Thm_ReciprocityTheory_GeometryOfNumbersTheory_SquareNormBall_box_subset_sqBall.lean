@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_SquareNormBall_box_subset_sqBall
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.SquareNormBall.box_subset_sqBall
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:54.18503+00:00
 -- url     : https://prove2.me/theorems/a1d57ca0-7402-45d7-ada8-715aa91591d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_L2DbarEstimates_F_EulerCharacteristicLength_primitive_contDiff__2a60c3cf0d38
 -- name    : P2M_ReciprocityTheory_L2DbarEstimates_F_EulerCharacteristicLength_primitive_contDiff__2a60c3cf0d38
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:31:06.818817+00:00
 -- url     : https://prove2.me/theorems/94170e07-374a-480a-9051-dd2b2760b745

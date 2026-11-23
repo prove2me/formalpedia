@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_gtA_countable
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.gtA_countable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:14.666896+00:00
 -- url     : https://prove2.me/theorems/8c2bde62-4616-4886-a10d-a45938856f14

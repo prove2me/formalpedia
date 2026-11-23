@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_leviV_ofReal_sum
 -- name    : ReciprocityTheory.L2DbarEstimates.leviV_ofReal_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:52:47.072809+00:00
 -- url     : https://prove2.me/theorems/3b8fd2f0-b284-419b-92d3-117ed81ea55c

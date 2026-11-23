@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_Kernel_lintegral_ofReal
 -- name    : ReciprocityTheory.L2DbarEstimates.B.Kernel.lintegral_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:41.696966+00:00
 -- url     : https://prove2.me/theorems/36f5fdb0-16c4-4e28-a026-1e6266e1b896

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_SquareNormBall_sqBall_isClosed
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.SquareNormBall.sqBall_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:53.563445+00:00
 -- url     : https://prove2.me/theorems/184aa16d-4a32-48a4-96f5-457fd9ad1874

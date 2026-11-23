@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_residueTrdegLe
 -- name    : ReciprocityTheory.MultiplicativeHeights.residueTrdegLe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:50:00.839125+00:00
 -- url     : https://prove2.me/theorems/ce960515-77c2-40f2-ad08-4f89f2f9b14f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_EulerCharacteristicLength_P_nonneg
 -- name    : ReciprocityTheory.L2DbarEstimates.F.EulerCharacteristicLength.P_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:31:13.290261+00:00
 -- url     : https://prove2.me/theorems/f6509c83-2d4f-4687-babb-415b5d046e55

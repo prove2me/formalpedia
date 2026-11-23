@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_G2_dof_add
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.G2.dof_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:10.880797+00:00
 -- url     : https://prove2.me/theorems/69f1e240-e957-4a73-bc04-a13d16ad1408

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedFibreTerm_vanish_of_terms_vanish
 -- name    : GlobalTheory.ClosedFibreTerm.vanish_of_terms_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:28:15.964857+00:00
 -- url     : https://prove2.me/theorems/3b4b68c1-fc2a-4703-98d5-de3d973247e4

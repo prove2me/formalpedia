@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polyDerivLinear_apply
 -- name    : GlobalTheory.polyDerivLinear_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:17.131125+00:00
 -- url     : https://prove2.me/theorems/3ee35d72-551b-4449-9e57-c18c8da84d47

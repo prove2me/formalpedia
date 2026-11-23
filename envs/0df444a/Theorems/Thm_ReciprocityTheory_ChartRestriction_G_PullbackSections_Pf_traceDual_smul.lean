@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_traceDual_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.traceDual_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:25:20.401804+00:00
 -- url     : https://prove2.me/theorems/bd74d92c-9b39-496b-9a22-367752a943f6

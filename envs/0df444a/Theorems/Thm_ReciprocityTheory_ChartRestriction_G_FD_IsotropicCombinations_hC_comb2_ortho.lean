@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicCombinations_hC_comb2_ortho
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicCombinations.hC_comb2_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:26:02.694095+00:00
 -- url     : https://prove2.me/theorems/b968078b-008a-40ad-b40e-08197cc38c79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_exp_cut
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.exp_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:14.440397+00:00
 -- url     : https://prove2.me/theorems/3013eb44-714b-4343-baf2-827189c9bb4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_ae_eq_eqOn
 -- name    : ReciprocityTheory.L2DbarEstimates.C.ae_eq_eqOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:50.061213+00:00
 -- url     : https://prove2.me/theorems/bed604cd-fa5c-4d33-81b9-e2483b7d8d4d

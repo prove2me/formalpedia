@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_measurableSet_image_of_isLocalHomeomorph
 -- name    : ReciprocityTheory.L2DbarEstimates.measurableSet_image_of_isLocalHomeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:22:13.961737+00:00
 -- url     : https://prove2.me/theorems/90bd33e8-bbeb-4804-8e90-d45a52198737

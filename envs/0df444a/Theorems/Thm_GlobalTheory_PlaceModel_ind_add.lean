@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceModel_ind_add
 -- name    : GlobalTheory.PlaceModel.ind_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:40.418938+00:00
 -- url     : https://prove2.me/theorems/2da39174-8442-4424-9311-5d4eee50625d

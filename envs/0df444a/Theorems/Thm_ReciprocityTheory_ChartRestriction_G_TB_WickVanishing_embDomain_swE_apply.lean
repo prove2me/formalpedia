@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_embDomain_swE_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.embDomain_swE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:49.432803+00:00
 -- url     : https://prove2.me/theorems/1fc54c3c-559d-4fd7-b81a-b4afa32f3955

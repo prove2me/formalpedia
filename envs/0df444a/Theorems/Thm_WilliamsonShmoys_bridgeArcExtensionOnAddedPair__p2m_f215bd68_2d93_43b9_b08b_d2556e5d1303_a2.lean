@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_bridgeArcExtensionOnAddedPair__p2m_f215bd68_2d93_43b9_b08b_d2556e5d1303_a2
 -- name    : WilliamsonShmoys.bridgeArcExtensionOnAddedPair__p2m_f215bd68_2d93_43b9_b08b_d2556e5d1303_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:18:19.419746+00:00
 -- url     : https://prove2.me/theorems/9dfe0532-ed99-405e-bfc5-18372295d9b2

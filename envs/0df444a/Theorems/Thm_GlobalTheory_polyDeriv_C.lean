@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polyDeriv_C
 -- name    : GlobalTheory.polyDeriv_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:04.441752+00:00
 -- url     : https://prove2.me/theorems/95874da8-21f5-4bbf-9837-ce2c3099f563

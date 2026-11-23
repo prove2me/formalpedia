@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_fin_two_finsupp_eq_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.fin_two_finsupp_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:58.527716+00:00
 -- url     : https://prove2.me/theorems/ae793a3e-08b7-4482-b33c-daf7480aba20

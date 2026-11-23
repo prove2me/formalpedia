@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expandsAt_iff_stalks
 -- name    : GlobalTheory.expandsAt_iff_stalks
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:29:20.17274+00:00
 -- url     : https://prove2.me/theorems/e853d50c-48e4-43a8-a4d4-fefa7bccb23b

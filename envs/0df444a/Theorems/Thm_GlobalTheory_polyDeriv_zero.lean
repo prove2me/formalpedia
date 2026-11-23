@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polyDeriv_zero
 -- name    : GlobalTheory.polyDeriv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:11.816846+00:00
 -- url     : https://prove2.me/theorems/5a23c18b-48f0-4b37-b4fe-a5bebb6f8ff0

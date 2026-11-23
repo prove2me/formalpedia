@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TorusEnd_valAt__eval__5db942836e7d
 -- name    : P2M_GlobalTheory_TorusEnd_valAt__eval__5db942836e7d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:54.194086+00:00
 -- url     : https://prove2.me/theorems/a211fe3a-a000-4c56-abd2-9fae1974a63e

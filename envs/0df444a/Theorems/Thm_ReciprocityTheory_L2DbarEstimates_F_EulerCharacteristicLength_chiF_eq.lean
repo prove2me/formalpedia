@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_EulerCharacteristicLength_chiF_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.F.EulerCharacteristicLength.chiF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:30:01.7195+00:00
 -- url     : https://prove2.me/theorems/1ccf1017-fe43-45e4-80a1-721cb8828ee6

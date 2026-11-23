@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValuationResidueLemmas_wt_nonneg_of_add
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValuationResidueLemmas.wt_nonneg_of_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:40.454235+00:00
 -- url     : https://prove2.me/theorems/2fbc8081-7229-4a1d-9f77-a5d6ff3a78ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expandsAt_secIsMul
 -- name    : GlobalTheory.expandsAt_secIsMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:03:15.939448+00:00
 -- url     : https://prove2.me/theorems/97849467-c1f2-4ae4-83b2-794beb5d8b44

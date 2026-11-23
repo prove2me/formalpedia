@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_isFieldGraph_graph
 -- name    : GlobalTheory.JetConj.isFieldGraph_graph
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:31.299609+00:00
 -- url     : https://prove2.me/theorems/be8b7de3-d0f0-4614-b4e7-b665a13f77ca

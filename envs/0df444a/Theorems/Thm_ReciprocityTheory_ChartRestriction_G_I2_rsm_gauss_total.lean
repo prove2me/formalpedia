@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_rsm_gauss_total
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.rsm_gauss_total
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:24:36.41419+00:00
 -- url     : https://prove2.me/theorems/f4669aa0-d623-4908-995c-0ad05bc497b7

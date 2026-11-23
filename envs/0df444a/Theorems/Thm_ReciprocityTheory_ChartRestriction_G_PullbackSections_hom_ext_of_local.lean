@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_hom_ext_of_local
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.hom_ext_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:20.585463+00:00
 -- url     : https://prove2.me/theorems/ef4b61e7-e5ba-43b8-9f22-7991558f45bf

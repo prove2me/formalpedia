@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceModel_ind_nsmul_mem
 -- name    : GlobalTheory.PlaceModel.ind_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:13.61065+00:00
 -- url     : https://prove2.me/theorems/12a9de1e-61d8-4352-9894-b338640723e8

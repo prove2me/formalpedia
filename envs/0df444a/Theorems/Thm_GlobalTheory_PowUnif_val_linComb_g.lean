@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowUnif_val_linComb_g
 -- name    : GlobalTheory.PowUnif.val_linComb_g
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:28.121769+00:00
 -- url     : https://prove2.me/theorems/9f3d049e-bf9c-4144-ac3f-3e23f5267567

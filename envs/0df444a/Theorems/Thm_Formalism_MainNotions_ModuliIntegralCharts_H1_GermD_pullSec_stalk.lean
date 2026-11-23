@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermD_pullSec_stalk
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.pullSec_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:30:00.226562+00:00
 -- url     : https://prove2.me/theorems/3e19a5a8-fac4-40f4-b622-a463ac3a4975

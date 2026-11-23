@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_degenerationData_psi_quadratic_generators_linear
 -- name    : GlobalTheory.T.degenerationData_psi_quadratic_generators_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:44:40.379017+00:00
 -- url     : https://prove2.me/theorems/d62785ba-21f1-45af-bb87-3ed9aafed348

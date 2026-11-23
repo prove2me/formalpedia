@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceModel_IsBichar_nsmul
 -- name    : GlobalTheory.PlaceModel.IsBichar.nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:13.616261+00:00
 -- url     : https://prove2.me/theorems/4d0e5e7f-307b-4737-925b-1183d56da4c3

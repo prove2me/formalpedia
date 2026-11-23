@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUPf_diffOn_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUPf.diffOn_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:20:58.16+00:00
 -- url     : https://prove2.me/theorems/1f381149-cefe-492e-9d53-2214c116166b

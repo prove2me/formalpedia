@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_E_tsupport_dTw_subset
 -- name    : ReciprocityTheory.L2DbarEstimates.E.tsupport_dTw_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:53.335022+00:00
 -- url     : https://prove2.me/theorems/54109021-ef4c-4acc-8e38-79aaa4155322

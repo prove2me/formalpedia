@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValPl_addv_mem_placesOver
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValPl.addv_mem_placesOver
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:53:20.287267+00:00
 -- url     : https://prove2.me/theorems/93a0b9ec-9d2f-4cfa-ba39-db40e1ae9939

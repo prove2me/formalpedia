@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_norm_sq_comb
 -- name    : ReciprocityTheory.ReducedBases.T2.norm_sq_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:22:07.186412+00:00
 -- url     : https://prove2.me/theorems/c9144df6-7eb1-4e4c-99c6-7d5968bf2da1

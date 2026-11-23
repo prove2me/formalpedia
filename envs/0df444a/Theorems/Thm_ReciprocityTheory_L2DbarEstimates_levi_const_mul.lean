@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_levi_const_mul
 -- name    : ReciprocityTheory.L2DbarEstimates.levi_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:30:45.483389+00:00
 -- url     : https://prove2.me/theorems/7300a28d-5c3a-4506-9872-ca64b6493e54

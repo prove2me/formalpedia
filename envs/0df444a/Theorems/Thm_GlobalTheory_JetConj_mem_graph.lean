@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_mem_graph
 -- name    : GlobalTheory.JetConj.mem_graph
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:02.501178+00:00
 -- url     : https://prove2.me/theorems/5648b70a-241e-4449-91d2-11a0d96d3c6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_dpolyOf_add_P
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.dpolyOf_add_P
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:09.176363+00:00
 -- url     : https://prove2.me/theorems/f2631de8-cc19-46ae-8f67-7552c2087240

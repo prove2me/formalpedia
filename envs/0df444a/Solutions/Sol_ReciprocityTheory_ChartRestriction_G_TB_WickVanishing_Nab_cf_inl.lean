@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.cf_inl
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T13:43:42.324797+00:00
+-- url     : https://prove2.me/submissions/593d7851-e4d4-4668-b3ab-640dfdc15d20
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ConnectionKillsSeries
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_LogChain
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_ConnectionKillsSeries
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open MvPowerSeries ReciprocityTheory.ChartRestriction.G.Geo.Tor.Germ
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.TB ReciprocityTheory.ChartRestriction.G.TB.WickVanishing ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab
+variable {R : Type} [CommRing R] {d : ℕ} {O : Type} [CommRing O] [StarRing O]
+variable (k : Type) [CommRing k] [Algebra ℚ k] [Algebra R k]
+namespace ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab
+theorem _root_.solution (B : FB R d O) (h : PS k 2 d) (u φ : Fin d → k) (j : Fin d) :
+    cf k B h u φ (Sum.inl j) =
+      liftX k (∑ i : Fin d, C (u i) * ev (n := 1) ![pt k d 0, 0] (pderiv k ((1 : Fin 2), i) (B.FK k j))) := rfl
+end ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab

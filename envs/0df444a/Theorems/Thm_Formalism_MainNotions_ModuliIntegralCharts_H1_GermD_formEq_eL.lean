@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermD_formEq_eL
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.formEq_eL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:52.591657+00:00
 -- url     : https://prove2.me/theorems/b5b701fa-3f01-429a-abcf-f8d82475a3a0

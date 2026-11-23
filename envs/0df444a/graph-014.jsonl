@@ -72480,7 +72480,7 @@
 {"parent": "OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutSourceRowsProgram.sourceRows_present_from_rows", "child": "OAIQ081S144", "via": ["solution", "statement"]}
 {"parent": "OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutSourceRowsProgram.sourceRows_present_from_rows", "child": "SubexponentialSAT", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P34.rank_copy_complexity", "child": "QAlgorithms_Papers_Independent_Extend50_P34", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.bridgeArcExtensionOnAddedPair__p2m_f215bd68_2d93_43b9_b08b_d2556e5d1303_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.bridgeArcExtensionOnAddedPair__p2m_f215bd68_2d93_43b9_b08b_d2556e5d1303_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_triangulation_extension__p2m_8d118255_640d_459b_9d55_e13b141f8172_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P36.qubit_werner_two_sided", "child": "QAlgorithms_Papers_Independent_Extend50_P36", "via": ["statement"]}
 {"parent": "RiskSharingProjects_TimeDependent_asymmetricOutcomes", "child": "RiskSharingProjects_TimeDependent_Action", "via": ["statement"]}

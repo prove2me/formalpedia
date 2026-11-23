@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polyDeriv_one
 -- name    : GlobalTheory.polyDeriv_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:15.309832+00:00
 -- url     : https://prove2.me/theorems/6e33d566-1ebc-4c99-b4a8-804f342d7adf
