@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_formal_group_points_param_of
 -- name    : Formalism.ELL.formal_group_points_param_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:15.137385+00:00
 -- url     : https://prove2.me/theorems/a8c7972f-5ca3-47fb-b8f9-f1b2406a7292

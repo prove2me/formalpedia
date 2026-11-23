@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_coeff_prodpow_eq_zero
 -- name    : Formalism.FT.SymmetricSeries.coeff_prodpow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:25:17.965441+00:00
 -- url     : https://prove2.me/theorems/a0ffd96e-eae0-4d45-beb9-a5cb6ab229fb

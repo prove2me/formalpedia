@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_exists_injective_shift_of_orbZ
 -- name    : Formalism.FourierDecayAlt.P.A5x9.exists_injective_shift_of_orbZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:04.325177+00:00
 -- url     : https://prove2.me/theorems/d62e67eb-b27f-4394-8ef4-8c81fda76884

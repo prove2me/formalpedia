@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_section_exists
 -- name    : Formalism.FourierDecayAlt.P.A5x8.section_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:16:47.562381+00:00
 -- url     : https://prove2.me/theorems/b2397a3b-9ab2-48fa-84f5-e599730bbeb2

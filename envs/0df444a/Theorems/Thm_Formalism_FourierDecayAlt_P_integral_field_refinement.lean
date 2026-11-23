@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_integral_field_refinement
 -- name    : Formalism.FourierDecayAlt.P.integral_field_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:36.494329+00:00
 -- url     : https://prove2.me/theorems/b82069ec-ce8a-497c-8089-35017eaadadb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_coeff_mapDomain_of_symm
 -- name    : Formalism.FT.SymmetricSeries.coeff_mapDomain_of_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:32.946252+00:00
 -- url     : https://prove2.me/theorems/51df01f1-66d7-4e83-9e66-44d48663a75a

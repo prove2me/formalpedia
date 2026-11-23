@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_sec_lowJ_surj
 -- name    : Formalism.FourierDecayAlt.P.A5x8.sec_lowJ_surj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:12.109096+00:00
 -- url     : https://prove2.me/theorems/8daf3272-124b-4269-9a7a-b2d6301c420f

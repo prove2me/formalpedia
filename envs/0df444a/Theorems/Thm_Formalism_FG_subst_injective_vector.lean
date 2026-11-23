@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_subst_injective_vector
 -- name    : Formalism.FG.subst_injective_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:17:37.768772+00:00
 -- url     : https://prove2.me/theorems/2405f129-06ab-434c-8f14-ef6f8e758fa9

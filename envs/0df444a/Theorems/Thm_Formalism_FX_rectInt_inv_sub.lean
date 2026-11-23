@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_rectInt_inv_sub
 -- name    : Formalism.FX.rectInt_inv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:43:11.358433+00:00
 -- url     : https://prove2.me/theorems/51c2288a-86ea-4a69-9db2-911fda873109

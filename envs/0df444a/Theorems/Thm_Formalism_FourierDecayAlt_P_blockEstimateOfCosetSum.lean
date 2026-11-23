@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_blockEstimateOfCosetSum
 -- name    : Formalism.FourierDecayAlt.P.blockEstimateOfCosetSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:34.486814+00:00
 -- url     : https://prove2.me/theorems/0dd2da83-f1fe-454d-a3c3-8e3d71113b35

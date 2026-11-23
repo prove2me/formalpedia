@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_integral_lattice_refinement_identity
 -- name    : Formalism.FourierDecayAlt.P.integral_lattice_refinement_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:48.060505+00:00
 -- url     : https://prove2.me/theorems/ddf9a7d4-8808-4e76-bec8-6f8200ba7b17

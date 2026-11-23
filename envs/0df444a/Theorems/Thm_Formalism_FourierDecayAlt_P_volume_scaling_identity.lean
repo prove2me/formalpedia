@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_volume_scaling_identity
 -- name    : Formalism.FourierDecayAlt.P.volume_scaling_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:02:01.543823+00:00
 -- url     : https://prove2.me/theorems/522a6f78-c3d6-4ae4-b4f1-a3cd0e097756

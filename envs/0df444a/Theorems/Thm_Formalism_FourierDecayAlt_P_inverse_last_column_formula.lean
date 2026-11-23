@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_inverse_last_column_formula
 -- name    : Formalism.FourierDecayAlt.P.inverse_last_column_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:02:37.788588+00:00
 -- url     : https://prove2.me/theorems/aeca2718-ddfd-4718-b113-f8ac8f753a08

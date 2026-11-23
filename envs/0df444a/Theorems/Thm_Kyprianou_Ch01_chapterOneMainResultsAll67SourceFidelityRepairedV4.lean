@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_chapterOneMainResultsAll67SourceFidelityRepairedV4
 -- name    : Kyprianou.Ch01.chapterOneMainResultsAll67SourceFidelityRepairedV4
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T23:41:59.097844+00:00
 -- url     : https://prove2.me/theorems/735620bc-c0e4-4ce8-862c-b434b7f2c1c5

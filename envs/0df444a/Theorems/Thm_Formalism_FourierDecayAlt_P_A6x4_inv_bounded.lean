@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x4_inv_bounded
 -- name    : Formalism.FourierDecayAlt.P.A6x4.inv_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:27:24.360801+00:00
 -- url     : https://prove2.me/theorems/c60fd700-979c-48a1-8cf0-cd9f104b2398

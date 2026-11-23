@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_shf_isInt
 -- name    : Formalism.FourierDecayAlt.P.A5x9.shf_isInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:11.256221+00:00
 -- url     : https://prove2.me/theorems/b026b477-e0cb-4134-b721-b93e6559bc19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_grp_orbZ_det
 -- name    : Formalism.FourierDecayAlt.P.A5x9.grp_orbZ_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:59.331913+00:00
 -- url     : https://prove2.me/theorems/6d83e62f-38fb-4c14-8e7f-30f5af38dac5

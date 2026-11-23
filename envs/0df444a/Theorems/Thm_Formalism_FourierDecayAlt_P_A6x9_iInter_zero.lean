@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_iInter_zero
 -- name    : Formalism.FourierDecayAlt.P.A6x9.iInter_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:01.479418+00:00
 -- url     : https://prove2.me/theorems/f1ae3b49-e9a0-4a3d-b775-0b7babecbe18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x3_volL_refine
 -- name    : Formalism.FourierDecayAlt.P.A6x3.volL_refine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:02:13.573204+00:00
 -- url     : https://prove2.me/theorems/cbf877e5-a750-4c51-8b9f-be1880bfbc1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_saturation_basic_properties
 -- name    : Formalism.HN.saturation_basic_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:57.522468+00:00
 -- url     : https://prove2.me/theorems/5ccff08a-49c1-47be-9955-ad9d52ea5dff

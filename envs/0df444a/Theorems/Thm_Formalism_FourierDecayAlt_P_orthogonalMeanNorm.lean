@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_orthogonalMeanNorm
 -- name    : Formalism.FourierDecayAlt.P.orthogonalMeanNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:42.740706+00:00
 -- url     : https://prove2.me/theorems/95299f47-eff5-465c-a67a-f708e70d6b70

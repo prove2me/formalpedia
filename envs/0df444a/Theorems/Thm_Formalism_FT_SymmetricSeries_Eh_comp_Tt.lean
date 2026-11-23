@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_Eh_comp_Tt
 -- name    : Formalism.FT.SymmetricSeries.Eh_comp_Tt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:20.564597+00:00
 -- url     : https://prove2.me/theorems/172f79fa-3234-4d19-bf5b-c0ae938339fc

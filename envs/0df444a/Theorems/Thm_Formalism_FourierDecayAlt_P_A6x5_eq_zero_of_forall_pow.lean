@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x5_eq_zero_of_forall_pow
 -- name    : Formalism.FourierDecayAlt.P.A6x5.eq_zero_of_forall_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:15.262846+00:00
 -- url     : https://prove2.me/theorems/3f47da65-dadb-4c1f-a59b-86b551d8bdf3

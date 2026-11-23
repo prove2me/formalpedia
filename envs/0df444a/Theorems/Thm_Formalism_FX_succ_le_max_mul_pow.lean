@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_succ_le_max_mul_pow
 -- name    : Formalism.FX.succ_le_max_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:43:23.218837+00:00
 -- url     : https://prove2.me/theorems/d7691516-846f-44c2-a92c-8448a12c96bd

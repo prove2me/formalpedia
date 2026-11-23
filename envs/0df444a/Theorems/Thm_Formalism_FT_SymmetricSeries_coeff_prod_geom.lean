@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_coeff_prod_geom
 -- name    : Formalism.FT.SymmetricSeries.coeff_prod_geom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:30.497473+00:00
 -- url     : https://prove2.me/theorems/c7afd4b2-52d6-4a78-b4b1-3440ceb43531

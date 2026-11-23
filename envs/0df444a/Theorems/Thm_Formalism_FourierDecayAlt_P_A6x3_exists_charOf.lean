@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x3_exists_charOf
 -- name    : Formalism.FourierDecayAlt.P.A6x3.exists_charOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:03:13.278742+00:00
 -- url     : https://prove2.me/theorems/7cf15490-c65d-4b54-b713-5ab97002ef0c

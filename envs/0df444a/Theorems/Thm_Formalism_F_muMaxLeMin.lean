@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_muMaxLeMin
 -- name    : Formalism.F.muMaxLeMin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:56.545711+00:00
 -- url     : https://prove2.me/theorems/175372b4-57e2-4657-b97e-6f9de631ea83

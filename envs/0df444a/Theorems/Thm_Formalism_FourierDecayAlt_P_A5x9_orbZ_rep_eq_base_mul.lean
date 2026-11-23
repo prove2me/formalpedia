@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_orbZ_rep_eq_base_mul
 -- name    : Formalism.FourierDecayAlt.P.A5x9.orbZ_rep_eq_base_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:14.236802+00:00
 -- url     : https://prove2.me/theorems/468db175-ba38-4d5e-9dc8-00e7bbd1fcdc

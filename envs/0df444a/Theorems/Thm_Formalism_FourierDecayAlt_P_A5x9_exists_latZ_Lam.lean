@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_exists_latZ_Lam
 -- name    : Formalism.FourierDecayAlt.P.A5x9.exists_latZ_Lam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:15:56.703842+00:00
 -- url     : https://prove2.me/theorems/0cac1efe-0bab-4669-84b9-19e7d1d3d6cc

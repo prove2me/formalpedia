@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherDensityUnit_integrability
 -- name    : Kyprianou.Ch03.esscherDensityUnit_integrability
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:00:14.408926+00:00
 -- url     : https://prove2.me/theorems/435eff69-7b17-42cb-ac04-73affb53e7e3

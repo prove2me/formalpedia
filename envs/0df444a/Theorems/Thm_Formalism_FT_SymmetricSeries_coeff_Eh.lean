@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_coeff_Eh
 -- name    : Formalism.FT.SymmetricSeries.coeff_Eh
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:46.784264+00:00
 -- url     : https://prove2.me/theorems/58f79f60-7490-40f5-902e-b2a295908812

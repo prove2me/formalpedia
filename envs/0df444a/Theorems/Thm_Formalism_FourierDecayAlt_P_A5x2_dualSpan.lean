@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x2_dualSpan
 -- name    : Formalism.FourierDecayAlt.P.A5x2.dualSpan
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:43:45.368547+00:00
 -- url     : https://prove2.me/theorems/4e6461b4-62b3-433e-b5c9-bbd43d90f1ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_sec_lastE_vecMul
 -- name    : Formalism.FourierDecayAlt.P.A5x8.sec_lastE_vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:21.756059+00:00
 -- url     : https://prove2.me/theorems/716c5fbf-67f1-42b9-9f26-158945bed2ae

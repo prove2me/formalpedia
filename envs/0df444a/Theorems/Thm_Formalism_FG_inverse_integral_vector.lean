@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_inverse_integral_vector
 -- name    : Formalism.FG.inverse_integral_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:20:08.898557+00:00
 -- url     : https://prove2.me/theorems/86b0749c-aaa7-467f-a779-9f89ce11e334

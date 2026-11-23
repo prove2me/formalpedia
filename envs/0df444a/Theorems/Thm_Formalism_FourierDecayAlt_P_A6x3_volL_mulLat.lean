@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x3_volL_mulLat
 -- name    : Formalism.FourierDecayAlt.P.A6x3.volL_mulLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:50.28949+00:00
 -- url     : https://prove2.me/theorems/dda7c595-99d5-4170-8f4c-29441cba1715

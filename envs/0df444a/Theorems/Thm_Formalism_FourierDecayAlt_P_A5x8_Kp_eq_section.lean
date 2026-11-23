@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_Kp_eq_section
 -- name    : Formalism.FourierDecayAlt.P.A5x8.Kp_eq_section
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:12:03.364615+00:00
 -- url     : https://prove2.me/theorems/bc04bbce-51fd-48fb-ae05-efbf9d45502b

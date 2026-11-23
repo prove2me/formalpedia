@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_bnx_pow_reduce
 -- name    : Formalism.DworkPowerSeriesWeights.bnx_pow_reduce
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:55:45.057894+00:00
 -- url     : https://prove2.me/theorems/df8da664-bf8a-45d4-a5d5-51627ad8ae35

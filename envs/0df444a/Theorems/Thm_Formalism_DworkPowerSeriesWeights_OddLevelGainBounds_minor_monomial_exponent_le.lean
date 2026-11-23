@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_OddLevelGainBounds_minor_monomial_exponent_le
 -- name    : Formalism.DworkPowerSeriesWeights.OddLevelGainBounds.minor_monomial_exponent_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:53:12.248216+00:00
 -- url     : https://prove2.me/theorems/54e2f496-849f-4a7c-9379-adf151d773ff

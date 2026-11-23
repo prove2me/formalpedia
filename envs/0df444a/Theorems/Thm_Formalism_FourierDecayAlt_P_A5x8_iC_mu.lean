@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_iC_mu
 -- name    : Formalism.FourierDecayAlt.P.A5x8.iC_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:49.583719+00:00
 -- url     : https://prove2.me/theorems/321b848d-c820-408f-8f5b-8345a9c96ddc

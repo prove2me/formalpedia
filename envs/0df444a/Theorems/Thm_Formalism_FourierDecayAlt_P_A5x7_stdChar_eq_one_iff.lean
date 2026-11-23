@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x7_stdChar_eq_one_iff
 -- name    : Formalism.FourierDecayAlt.P.A5x7.stdChar_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:36.5628+00:00
 -- url     : https://prove2.me/theorems/3a4d1c4c-6d06-44b0-85e7-eebdcd354f58

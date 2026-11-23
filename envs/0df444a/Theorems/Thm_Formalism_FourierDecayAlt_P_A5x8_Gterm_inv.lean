@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_Gterm_inv
 -- name    : Formalism.FourierDecayAlt.P.A5x8.Gterm_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:33.541346+00:00
 -- url     : https://prove2.me/theorems/d3147943-a931-4bb0-926e-95127b8f8483

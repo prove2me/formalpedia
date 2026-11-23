@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FN_partialBoxVolumeScaling
 -- name    : Formalism.FN.partialBoxVolumeScaling
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:12.31338+00:00
 -- url     : https://prove2.me/theorems/528ba116-7d8c-4c8b-b4eb-d970002b8c11

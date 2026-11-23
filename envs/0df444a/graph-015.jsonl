@@ -44187,7 +44187,7 @@
 {"parent": "QAlgorithms_Papers_Independent_Intakethird100_P64", "child": "QAlgorithms_Papers_Independent_Gap48_P20", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Intakethird100_P64", "child": "QAlgorithms_Defs_Ensemble", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P81.prior_entanglement_preparation", "child": "QAlgorithms_Papers_Independent_Intakethird100_P81", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_triangulation_supergraph_exact_edge_count__p2m_9fa2b5a7_e492_409e_9c7c_44f6f21de4a2_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_triangulation_supergraph_exact_edge_count__p2m_9fa2b5a7_e492_409e_9c7c_44f6f21de4a2_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.disconnected_has_unreachable_pair__p2m_0dfd7289_30fc_4048_8084_2297688a9abc_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.drawable_graph_has_euler_extension_exists_maximal_extension__p2m_76f2ce3c_d450_4358_bc4a_f7783646ef08_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "FiniteEnergyPlane.hasDerivAt_im_conj_mul_of_eigenEq", "child": "FiniteEnergyPlane_Winding", "via": ["solution", "statement"]}
@@ -45430,7 +45430,7 @@
 {"parent": "AvramDividend.Classical.avram_wave6_06_original_inclusive_random_clock_real_cash_aestronglyMeasurable", "child": "AvramDividend.Classical.avram_wave6_06_original_random_upper_clock_complete_stieltjes_cash_measurable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_06_original_inclusive_random_clock_real_cash_aestronglyMeasurable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_06_original_inclusive_random_clock_real_cash_aestronglyMeasurable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_edge_bound__p2m_1dbaee3e_ce5f_437b_b54c_6804519e37e5_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_edge_bound__p2m_1dbaee3e_ce5f_437b_b54c_6804519e37e5_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess_V3HRepair_FellerCoordinatePolynomialContinuity", "child": "MarkovProcess_V3H_FiniteTime_CoordinateProductActiveReduction_0fcd6a29", "via": ["statement"]}
 {"parent": "MarkovProcess_V3HRepair_FellerCoordinatePolynomialContinuity", "child": "MarkovProcess_V3H_Feller_BackwardC0Integral_1512e54f", "via": ["statement"]}
 {"parent": "MarkovProcess_V3HRepair_FellerCoordinatePolynomialContinuity", "child": "MarkovProcess_V3HRepair_FellerCoordinateProductContinuityV6", "via": ["statement"]}

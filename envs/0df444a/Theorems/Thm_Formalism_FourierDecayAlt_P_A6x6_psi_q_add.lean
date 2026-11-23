@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x6_psi_q_add
 -- name    : Formalism.FourierDecayAlt.P.A6x6.psi_q_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:06:07.412339+00:00
 -- url     : https://prove2.me/theorems/a0c59297-cb75-4cc9-b98d-8e853a5951a4

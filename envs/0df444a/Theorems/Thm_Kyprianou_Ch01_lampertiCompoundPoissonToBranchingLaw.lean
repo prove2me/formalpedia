@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_lampertiCompoundPoissonToBranchingLaw
 -- name    : Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:18:03.132201+00:00
 -- url     : https://prove2.me/theorems/6c308a61-4553-4120-ad0f-ee8f113bc0c2

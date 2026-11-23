@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_satBasic
 -- name    : Formalism.HN.satBasic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:14.031998+00:00
 -- url     : https://prove2.me/theorems/833b3836-e909-4ace-a747-61a6c066b2c8

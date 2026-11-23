@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_isUnit_orbZ_det
 -- name    : Formalism.FourierDecayAlt.P.A5x9.isUnit_orbZ_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:12.317931+00:00
 -- url     : https://prove2.me/theorems/52bacda9-d485-47c0-b695-95dd8b3cf2d3

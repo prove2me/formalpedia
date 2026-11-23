@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_LFunctionPartialSum_G_differentiableOn
 -- name    : Formalism.FX.LFunctionPartialSum.G_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:46:14.324814+00:00
 -- url     : https://prove2.me/theorems/acf314e6-ab25-4e79-9f04-053a161257ab

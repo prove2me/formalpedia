@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rootsFinite
 -- name    : Formalism.FourierDecayAlt.P.rootsFinite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:04.997718+00:00
 -- url     : https://prove2.me/theorems/6f10b3ae-9382-4a23-b4a1-b3da36e24bec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x5_good_equiv
 -- name    : Formalism.FourierDecayAlt.P.A5x5.good_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:26:30.073357+00:00
 -- url     : https://prove2.me/theorems/106dcd8b-6102-4897-85f9-144726a6f8ac

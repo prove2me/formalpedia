@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_LFunctionPartialSum_LFunction_eq_G_of_one_lt
 -- name    : Formalism.FX.LFunctionPartialSum.LFunction_eq_G_of_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:46:17.808203+00:00
 -- url     : https://prove2.me/theorems/78517eb6-4c93-44e8-8b07-0a2020f57e3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x4_isoCount
 -- name    : Formalism.FourierDecayAlt.P.A5x4.isoCount
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:43:56.654872+00:00
 -- url     : https://prove2.me/theorems/60c133fd-59dc-4544-9d84-234ff7a872c4

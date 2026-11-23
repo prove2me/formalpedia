@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_bnx_torus_cong
 -- name    : Formalism.DworkPowerSeriesWeights.bnx_torus_cong
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:54:40.03501+00:00
 -- url     : https://prove2.me/theorems/4b104baa-054a-424d-91b2-8a0b3896134b

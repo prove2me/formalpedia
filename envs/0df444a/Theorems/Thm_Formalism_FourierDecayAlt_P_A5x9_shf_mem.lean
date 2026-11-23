@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_shf_mem
 -- name    : Formalism.FourierDecayAlt.P.A5x9.shf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:28.171835+00:00
 -- url     : https://prove2.me/theorems/73ee5aea-5778-4a1d-af52-73ec56a231ce

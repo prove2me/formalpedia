@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_lampertiCompoundPoissonToBranchingLawNonexplosive
 -- name    : Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLawNonexplosive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T10:18:22.486693+00:00
 -- url     : https://prove2.me/theorems/ac1b29c6-5525-4344-a03d-7469824736ed

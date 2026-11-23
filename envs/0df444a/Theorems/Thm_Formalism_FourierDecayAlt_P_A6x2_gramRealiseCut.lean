@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x2_gramRealiseCut
 -- name    : Formalism.FourierDecayAlt.P.A6x2.gramRealiseCut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:27:07.852851+00:00
 -- url     : https://prove2.me/theorems/ae618e10-7a4f-4083-be36-3c039ae3aa71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_boundedSubsequence
 -- name    : Formalism.FourierDecayAlt.P.boundedSubsequence
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:59.28692+00:00
 -- url     : https://prove2.me/theorems/d91429cc-0c24-4816-8d36-3a037b4bd480

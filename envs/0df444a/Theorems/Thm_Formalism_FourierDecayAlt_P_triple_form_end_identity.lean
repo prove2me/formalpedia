@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_triple_form_end_identity
 -- name    : Formalism.FourierDecayAlt.P.triple_form_end_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:38.849832+00:00
 -- url     : https://prove2.me/theorems/ff0733f9-0712-4918-9d0c-6dff1da0df3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherExponentialDensityConsistent
 -- name    : Kyprianou.Ch03.esscherExponentialDensityConsistent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:46:59.948202+00:00
 -- url     : https://prove2.me/theorems/e3a86319-9495-4436-9711-a58e40a594bc

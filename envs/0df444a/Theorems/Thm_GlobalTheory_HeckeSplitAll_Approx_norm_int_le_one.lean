@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplitAll_Approx_norm_int_le_one
 -- name    : GlobalTheory.HeckeSplitAll.Approx.norm_int_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:47.376677+00:00
 -- url     : https://prove2.me/theorems/d31b9836-14a4-405c-acd5-df424b8dab3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_lift_abs
 -- name    : Formalism.FourierDecayAlt.P.A5x9.lift_abs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:08.716629+00:00
 -- url     : https://prove2.me/theorems/b9c01bd2-b934-4c91-abd0-1fcb0f0d7187

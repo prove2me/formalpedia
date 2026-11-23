@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmSimpleMarkRawCampbellSecondMomentV1
 -- name    : Kyprianou.Ch02.prmSimpleMarkRawCampbellSecondMomentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:20:59.603794+00:00
 -- url     : https://prove2.me/theorems/b77faaa8-c9cf-4217-9416-72010d43cc46

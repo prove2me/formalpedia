@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_InvIntVAux_main
 -- name    : Formalism.FG.InvIntVAux.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:16:10.164474+00:00
 -- url     : https://prove2.me/theorems/d2e0bb6a-f4e7-4c14-b729-67a7b6c02dfc

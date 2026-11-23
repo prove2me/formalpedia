@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_finiteSaturated
 -- name    : Formalism.F.finiteSaturated
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:37:21.388914+00:00
 -- url     : https://prove2.me/theorems/417fa857-f1c8-4ed2-b938-ed134bcc9518

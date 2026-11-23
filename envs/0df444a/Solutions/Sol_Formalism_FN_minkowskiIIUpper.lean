@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for Formalism.FN.minkowskiIIUpper
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T19:01:35.873221+00:00
+-- url     : https://prove2.me/submissions/38d672c2-2f8b-4229-8a3d-41a4bc909c7d
+
+import Definitions.Def_Formalism_SuccessiveMinima_SuccessiveMinimaProofs_MinkCore
+import Definitions.Def_Formalism_SuccessiveMinima_SuccessiveMinimaProofs_GjLevel
+import Definitions.Def_Formalism_SuccessiveMinima_SuccessiveMinimaProofs_GjScale
+import Definitions.Def_Formalism_SuccessiveMinima_SuccessiveMinimaProofs_SuccMin
+import Definitions.Def_Formalism_SuccessiveMinima_SuccessiveMinimaProofs_AdaptedBasis
+import Definitions.Def_Formalism_SuccessiveMinima_SuccessiveMinimaProofs_MeasureEqCovolumeMulVolumeImage
+import Definitions.Def_Formalism_SuccessiveMinima_SuccessiveMinimaProofs_NewtonSlope
+import Definitions.Def_Formalism_SuccessiveMinima_SuccessiveMinimaProofs_MinkowskiIILowerOf
+import Definitions.Def_Formalism_SuccessiveMinima_SuccessiveMinimaProofs_NPWDivision
+import Definitions.Def_Formalism_SuccessiveMinima_SuccessiveMinimaProofs_NPUnit
+import Definitions.Def_Formalism_SuccessiveMinima_MinkowskiIIUpper
+import Theorems.Thm_Formalism_FN_existsAdaptedBasis
+import Theorems.Thm_Formalism_FN_existsSuccessiveMinimaVectors
+import Theorems.Thm_Formalism_FN_minkCore_of
+import Theorems.Thm_Formalism_FN_minkowskiIIUpper_of
+import Theorems.Thm_Formalism_FN_partialBoxVolumeMonotoneStep
+import Theorems.Thm_Formalism_FN_partialBoxVolumeScaling
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FN
+namespace Formalism.FN
+theorem _root_.solution : MinkowskiIIUpper :=
+  minkowskiIIUpper_of (minkCore_of partialBoxVolumeMonotoneStep partialBoxVolumeScaling) existsSuccessiveMinimaVectors
+    existsAdaptedBasis
+end Formalism.FN

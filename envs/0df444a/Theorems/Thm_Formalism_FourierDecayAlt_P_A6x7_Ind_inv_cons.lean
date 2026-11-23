@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x7_Ind_inv_cons
 -- name    : Formalism.FourierDecayAlt.P.A6x7.Ind.inv_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:09.497477+00:00
 -- url     : https://prove2.me/theorems/c0df7fd0-ef2f-4ee4-96ff-497aca491136

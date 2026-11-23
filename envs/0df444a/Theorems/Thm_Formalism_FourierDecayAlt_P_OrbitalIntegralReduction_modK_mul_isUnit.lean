@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_modK_mul_isUnit
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.modK_mul_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:16:48.087186+00:00
 -- url     : https://prove2.me/theorems/e002edfc-7791-4aa4-bf52-8a089f8244b5

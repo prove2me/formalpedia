@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_finite_saturated_rank_le_covol_le
 -- name    : Formalism.F.finite_saturated_rank_le_covol_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:35.006202+00:00
 -- url     : https://prove2.me/theorems/e440a31b-2c6e-4685-8890-62115651d2b2

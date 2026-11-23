@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_sum_card_eq_zero
 -- name    : Formalism.FourierDecayAlt.P.A5x9.sum_card_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:33.86405+00:00
 -- url     : https://prove2.me/theorems/a8ced2e2-f31d-4837-97ef-cb1b9fa24944

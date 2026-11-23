@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_hsymm_isHomogeneous
 -- name    : Formalism.FT.SymmetricSeries.hsymm_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:25:05.862542+00:00
 -- url     : https://prove2.me/theorems/924a0e84-8dec-4f5d-8d96-1b9209429811

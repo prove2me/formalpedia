@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_jetPair_poly
 -- name    : Formalism.DworkPowerSeriesWeights.jetPair_poly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:59:17.363663+00:00
 -- url     : https://prove2.me/theorems/2ccb42d6-ed2b-45c2-b510-159ec53cb02e

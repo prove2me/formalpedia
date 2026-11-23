@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_tTerm_fin
 -- name    : Formalism.FourierDecayAlt.P.A5x8.tTerm_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:40.980127+00:00
 -- url     : https://prove2.me/theorems/4611359d-4f90-48bb-992c-8c9159c82040

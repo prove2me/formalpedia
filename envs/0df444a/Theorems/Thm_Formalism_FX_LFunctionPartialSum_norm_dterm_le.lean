@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_LFunctionPartialSum_norm_dterm_le
 -- name    : Formalism.FX.LFunctionPartialSum.norm_dterm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:43:12.584588+00:00
 -- url     : https://prove2.me/theorems/98215d55-965e-4412-8845-1fd3bc129382

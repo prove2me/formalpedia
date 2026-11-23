@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_isPP_of_int
 -- name    : Formalism.FourierDecayAlt.P.A5x9.isPP_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:09.881805+00:00
 -- url     : https://prove2.me/theorems/87536643-b59e-4731-9985-91ebef9a031b

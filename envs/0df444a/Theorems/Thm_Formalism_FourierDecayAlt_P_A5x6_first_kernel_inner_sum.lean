@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x6_first_kernel_inner_sum
 -- name    : Formalism.FourierDecayAlt.P.A5x6.first_kernel_inner_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:14.469068+00:00
 -- url     : https://prove2.me/theorems/6bf45f04-a91f-4890-8872-ec0efa66a272

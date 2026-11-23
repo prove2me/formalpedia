@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_pow_diff0
 -- name    : Formalism.FourierDecayAlt.P.A6x9.pow_diff0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:06:02.929728+00:00
 -- url     : https://prove2.me/theorems/2c9c737e-ce40-4c23-b0bc-04122c674cdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_prodpow_hom
 -- name    : Formalism.FT.SymmetricSeries.prodpow_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:38.997793+00:00
 -- url     : https://prove2.me/theorems/51939eee-a8d2-404f-b1b0-b0bfa90cc6ca

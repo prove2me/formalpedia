@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_esymm_hsymm_rel
 -- name    : Formalism.FT.SymmetricSeries.esymm_hsymm_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:56:04.510869+00:00
 -- url     : https://prove2.me/theorems/94121117-22de-4849-b08f-b9f51fef3ebf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisorInequality_places_ell_weighted_sum_le_one
 -- name    : Formalism.DivisorInequality.places_ell_weighted_sum_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:50.202121+00:00
 -- url     : https://prove2.me/theorems/9f746099-8990-45e2-b3d2-2937e051700a

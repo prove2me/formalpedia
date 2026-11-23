@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_zero_kernel_all_ones
 -- name    : Formalism.FourierDecayAlt.P.zero_kernel_all_ones
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:34.694339+00:00
 -- url     : https://prove2.me/theorems/c775d51c-bd42-4eca-ac91-094414f38c25

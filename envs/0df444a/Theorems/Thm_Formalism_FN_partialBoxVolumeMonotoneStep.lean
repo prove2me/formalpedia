@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FN_partialBoxVolumeMonotoneStep
 -- name    : Formalism.FN.partialBoxVolumeMonotoneStep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:07.212396+00:00
 -- url     : https://prove2.me/theorems/a822c92b-8433-4351-87e5-85fcc2cfa41d

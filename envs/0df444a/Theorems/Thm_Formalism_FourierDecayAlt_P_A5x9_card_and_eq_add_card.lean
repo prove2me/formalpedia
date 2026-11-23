@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_card_and_eq_add_card
 -- name    : Formalism.FourierDecayAlt.P.A5x9.card_and_eq_add_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:37.365996+00:00
 -- url     : https://prove2.me/theorems/bcac96a7-f629-4c8f-a9e9-36bb107d1232

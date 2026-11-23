@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_divisor_weight_bound
 -- name    : Formalism.FX.divisor_weight_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:43:26.681209+00:00
 -- url     : https://prove2.me/theorems/b44000d9-8fde-4f5f-bcc5-dd0db3b839f8

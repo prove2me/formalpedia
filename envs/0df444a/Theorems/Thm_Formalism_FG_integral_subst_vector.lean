@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_integral_subst_vector
 -- name    : Formalism.FG.integral_subst_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:31.258439+00:00
 -- url     : https://prove2.me/theorems/7dc88ef2-d082-4596-b2da-fb32c3ce7199

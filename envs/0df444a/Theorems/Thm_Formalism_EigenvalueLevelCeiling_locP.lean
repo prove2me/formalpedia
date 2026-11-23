@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_locP
 -- name    : Formalism.EigenvalueLevelCeiling.locP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:34:46.069714+00:00
 -- url     : https://prove2.me/theorems/b4397dc9-39fc-4872-a3a4-181dfdda87b1

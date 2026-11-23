@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_iA_eZ
 -- name    : Formalism.FourierDecayAlt.P.A5x8.iA_eZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:40.742544+00:00
 -- url     : https://prove2.me/theorems/9ebc90f8-f1c3-4143-8d9d-4831e95ce224

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gramRealisation
 -- name    : Formalism.FourierDecayAlt.P.gramRealisation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:21.0284+00:00
 -- url     : https://prove2.me/theorems/0e73edc2-9903-4d8d-a9be-2ed6191d450b

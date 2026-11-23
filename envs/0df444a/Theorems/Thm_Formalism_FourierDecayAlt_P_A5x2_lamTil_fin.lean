@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x2_lamTil_fin
 -- name    : Formalism.FourierDecayAlt.P.A5x2.lamTil_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:29.536341+00:00
 -- url     : https://prove2.me/theorems/ce401f44-c2e4-4489-b04f-4a6d8522332b

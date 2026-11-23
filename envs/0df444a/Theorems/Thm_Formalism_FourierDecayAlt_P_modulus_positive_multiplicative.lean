@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_modulus_positive_multiplicative
 -- name    : Formalism.FourierDecayAlt.P.modulus_positive_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:15.412871+00:00
 -- url     : https://prove2.me/theorems/242572be-20de-483d-b111-bd73b6547619

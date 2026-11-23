@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsParam_integral_w
 -- name    : Formalism.ELL.FormalGroupPointsParam.integral_w
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:17:46.610446+00:00
 -- url     : https://prove2.me/theorems/9f243c60-7c57-4459-b805-805b67b5f5d2

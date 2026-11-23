@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_wChordSeries
 -- name    : Formalism.ELL.wChordSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:02:55.486548+00:00
 -- url     : https://prove2.me/theorems/33ee1c05-7a76-4ba5-ad1b-061bc3c31db4

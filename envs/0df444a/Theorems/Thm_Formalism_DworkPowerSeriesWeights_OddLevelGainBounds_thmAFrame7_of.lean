@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_OddLevelGainBounds_thmAFrame7_of
 -- name    : Formalism.DworkPowerSeriesWeights.OddLevelGainBounds.thmAFrame7_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:54:00.44878+00:00
 -- url     : https://prove2.me/theorems/8a967214-563f-469d-acae-7451b522768c

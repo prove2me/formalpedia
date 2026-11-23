@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x2_lamTil_eLast
 -- name    : Formalism.FourierDecayAlt.P.A5x2.lamTil_eLast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:02:06.584571+00:00
 -- url     : https://prove2.me/theorems/c973fbba-038d-4de6-aeb0-966b6a42483b

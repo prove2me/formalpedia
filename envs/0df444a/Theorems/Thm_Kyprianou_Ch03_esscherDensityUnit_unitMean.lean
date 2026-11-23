@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherDensityUnit_unitMean
 -- name    : Kyprianou.Ch03.esscherDensityUnit_unitMean
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:00:19.842757+00:00
 -- url     : https://prove2.me/theorems/f54dc242-1aeb-4d84-a4f3-3e6ad7e7a7fc

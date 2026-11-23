@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_top_intTT_eq
 -- name    : Formalism.FourierDecayAlt.P.A5x9.top_intTT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:29.821223+00:00
 -- url     : https://prove2.me/theorems/760a122f-1da6-4add-8d97-68570b71fbd3

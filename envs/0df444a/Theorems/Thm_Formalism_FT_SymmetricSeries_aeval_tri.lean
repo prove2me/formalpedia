@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_aeval_tri
 -- name    : Formalism.FT.SymmetricSeries.aeval_tri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:43.575335+00:00
 -- url     : https://prove2.me/theorems/a8220eb3-a44e-4332-b240-a17b01792059

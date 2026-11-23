@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_iso_card
 -- name    : Formalism.FourierDecayAlt.P.A5x8.iso_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:04.727579+00:00
 -- url     : https://prove2.me/theorems/58c57a7c-2717-4102-beff-0444a04a7fb1

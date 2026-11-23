@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_integral_points_finite
 -- name    : Formalism.FourierDecayAlt.P.integral_points_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:26:17.116265+00:00
 -- url     : https://prove2.me/theorems/e73665d8-5cfc-465c-8d24-6f05d19a46b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x7_minor_lemma
 -- name    : Formalism.FourierDecayAlt.P.A5x7.minor_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:27.617667+00:00
 -- url     : https://prove2.me/theorems/8ff2d6e5-2137-4fb5-b2aa-c43163041b18

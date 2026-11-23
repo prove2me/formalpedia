@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_shift_functional_equation
 -- name    : Formalism.FG.shift_functional_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:45.52152+00:00
 -- url     : https://prove2.me/theorems/77d740fd-eaaf-484f-adc3-fccb614aabe6

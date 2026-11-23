@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BoxAverageLimits_tendsto_LIMf
 -- name    : Formalism.FourierDecayAlt.P.BoxAverageLimits.tendsto_LIMf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:29.953151+00:00
 -- url     : https://prove2.me/theorems/5555061a-9cd5-420f-a989-92d1db166be0

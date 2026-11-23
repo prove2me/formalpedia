@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_shiftInv_isSat_iff
 -- name    : Formalism.HN.shiftInv_isSat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:46.237789+00:00
 -- url     : https://prove2.me/theorems/791e148d-3262-40b1-a364-138c0f35f5cd

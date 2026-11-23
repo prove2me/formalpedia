@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FN_minkCore_of
 -- name    : Formalism.FN.minkCore_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:15.464639+00:00
 -- url     : https://prove2.me/theorems/771b4131-23bd-494c-890c-7d12aad66fab

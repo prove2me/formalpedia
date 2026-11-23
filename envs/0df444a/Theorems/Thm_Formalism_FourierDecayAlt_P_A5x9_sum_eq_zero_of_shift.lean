@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_sum_eq_zero_of_shift
 -- name    : Formalism.FourierDecayAlt.P.A5x9.sum_eq_zero_of_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:27.730032+00:00
 -- url     : https://prove2.me/theorems/c789903e-fafc-4e20-aff1-68e6e8309e1a

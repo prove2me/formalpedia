@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rootsSeparated
 -- name    : Formalism.FourierDecayAlt.P.rootsSeparated
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:24.318039+00:00
 -- url     : https://prove2.me/theorems/054783fc-c2e5-4ba3-85ff-38a3bd203d41

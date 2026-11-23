@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_characterOrthogonalityDual
 -- name    : Formalism.FourierDecayAlt.P.characterOrthogonalityDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:50.269814+00:00
 -- url     : https://prove2.me/theorems/016f343c-be5e-4558-8e6d-4bbec84ac5c5

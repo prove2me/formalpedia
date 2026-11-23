@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_jetPair_mul_X
 -- name    : Formalism.DworkPowerSeriesWeights.jetPair_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:02:45.899946+00:00
 -- url     : https://prove2.me/theorems/e32111aa-cc45-47a0-a70b-9ba58bcb22ec

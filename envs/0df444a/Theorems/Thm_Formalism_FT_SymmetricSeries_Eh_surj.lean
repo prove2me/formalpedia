@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_Eh_surj
 -- name    : Formalism.FT.SymmetricSeries.Eh_surj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:33.140473+00:00
 -- url     : https://prove2.me/theorems/dc307ec1-393f-41aa-876f-a0df8652220b

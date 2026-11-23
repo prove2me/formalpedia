@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_generic_minor_norm
 -- name    : Formalism.DworkPowerSeriesWeights.generic_minor_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:03:12.347847+00:00
 -- url     : https://prove2.me/theorems/7e18abeb-d986-4d64-b4af-a23e6b0b825d

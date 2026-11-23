@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_mem_latZ_rank1
 -- name    : Formalism.FourierDecayAlt.P.A5x9.mem_latZ_rank1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:10.110486+00:00
 -- url     : https://prove2.me/theorems/7700e01f-2237-43bb-967b-b906d63f81d2

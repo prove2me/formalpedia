@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_averaged_kernel_periodic_psd
 -- name    : Formalism.FourierDecayAlt.P.averaged_kernel_periodic_psd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:02.86186+00:00
 -- url     : https://prove2.me/theorems/81362f73-60f4-47f9-9ec6-74d68977de00

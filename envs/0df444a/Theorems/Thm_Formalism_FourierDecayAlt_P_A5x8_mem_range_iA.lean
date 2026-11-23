@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_mem_range_iA
 -- name    : Formalism.FourierDecayAlt.P.A5x8.mem_range_iA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:18.407909+00:00
 -- url     : https://prove2.me/theorems/5dddaaae-cd9b-44bd-b836-3040d623b99c

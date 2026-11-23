@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_coeff_bound_vector
 -- name    : Formalism.FG.coeff_bound_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:23.466357+00:00
 -- url     : https://prove2.me/theorems/e1c48446-2598-4d1e-a2e0-17380fcf5bd9

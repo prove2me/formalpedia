@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_iota_injective
 -- name    : Formalism.FourierDecayAlt.P.A5x8.iota_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:54.259227+00:00
 -- url     : https://prove2.me/theorems/136f92de-1d18-4416-accd-51182e81f9c5

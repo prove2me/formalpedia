@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_posSemidefEntryBound
 -- name    : Formalism.FourierDecayAlt.P.posSemidefEntryBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:58.788152+00:00
 -- url     : https://prove2.me/theorems/2d85a7ea-fea7-4ae5-8a84-4406c49a7253

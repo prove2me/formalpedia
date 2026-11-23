@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_bnx_norm_ge
 -- name    : Formalism.DworkPowerSeriesWeights.bnx_norm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:56:15.708434+00:00
 -- url     : https://prove2.me/theorems/a2bf21b2-4504-4935-9940-f3fb2837ce48

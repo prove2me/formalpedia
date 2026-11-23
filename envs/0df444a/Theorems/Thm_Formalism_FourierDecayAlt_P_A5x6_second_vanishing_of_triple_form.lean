@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x6_second_vanishing_of_triple_form
 -- name    : Formalism.FourierDecayAlt.P.A5x6.second_vanishing_of_triple_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:31.369804+00:00
 -- url     : https://prove2.me/theorems/0cf19d3e-816b-4228-920b-0a24e77e8987

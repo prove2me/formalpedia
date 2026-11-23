@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_CongrVAux_prod_pow_sub_of_forall_sub
 -- name    : Formalism.FG.CongrVAux.prod_pow_sub_of_forall_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:37:23.880645+00:00
 -- url     : https://prove2.me/theorems/a891a055-a81f-44ff-9c2b-d0dd02ee06a5

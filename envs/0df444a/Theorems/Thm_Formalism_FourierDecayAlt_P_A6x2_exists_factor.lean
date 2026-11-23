@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x2_exists_factor
 -- name    : Formalism.FourierDecayAlt.P.A6x2.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:27.825782+00:00
 -- url     : https://prove2.me/theorems/204cbe5f-483b-4d25-9c92-3799da11eda4

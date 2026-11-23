@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x7_mem_subring_iff
 -- name    : Formalism.FourierDecayAlt.P.A5x7.mem_subring_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:37.196648+00:00
 -- url     : https://prove2.me/theorems/d6c2891e-45d6-437d-842d-539bf68bc4ea

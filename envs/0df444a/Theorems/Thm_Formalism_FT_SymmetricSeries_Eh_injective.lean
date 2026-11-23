@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_Eh_injective
 -- name    : Formalism.FT.SymmetricSeries.Eh_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:25.118874+00:00
 -- url     : https://prove2.me/theorems/070349b5-4b55-4a1b-95d9-bde5cc64ff73

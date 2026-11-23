@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_monoShapeLow
 -- name    : Formalism.DworkPowerSeriesWeights.monoShapeLow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:58:47.324505+00:00
 -- url     : https://prove2.me/theorems/ffd6f1f7-1b07-454a-8e2c-b4e448a67747

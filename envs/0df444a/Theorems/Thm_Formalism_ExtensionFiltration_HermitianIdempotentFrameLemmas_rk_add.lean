@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_HermitianIdempotentFrameLemmas_rk_add
 -- name    : Formalism.ExtensionFiltration.HermitianIdempotentFrameLemmas.rk_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:30.62536+00:00
 -- url     : https://prove2.me/theorems/6a14a79e-5540-4f2c-8bfc-cb1186a41fc5

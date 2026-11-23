@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_hasSubst_hv
 -- name    : Formalism.FT.SymmetricSeries.hasSubst_hv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:50:18.198212+00:00
 -- url     : https://prove2.me/theorems/331f95e0-9a42-4abf-b2de-2ece52822c8b

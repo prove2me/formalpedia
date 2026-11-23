@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_jetPair_mul_linForm
 -- name    : Formalism.DworkPowerSeriesWeights.jetPair_mul_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:13:31.042038+00:00
 -- url     : https://prove2.me/theorems/61e05942-10cd-4498-ba8f-ad99eff43f94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_head_size_add_block
 -- name    : Formalism.FourierDecayAlt.P.head_size_add_block
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:17.234329+00:00
 -- url     : https://prove2.me/theorems/1476f849-b621-48b8-9d4c-d2434793982f

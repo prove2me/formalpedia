@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_LFunctionPartialSum_summable_dterm
 -- name    : Formalism.FX.LFunctionPartialSum.summable_dterm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:53:05.128965+00:00
 -- url     : https://prove2.me/theorems/a23aed2a-34c8-4902-a6e2-1880b99b56f3

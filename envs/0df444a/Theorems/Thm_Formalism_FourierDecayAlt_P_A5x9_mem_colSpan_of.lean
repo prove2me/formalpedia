@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_mem_colSpan_of
 -- name    : Formalism.FourierDecayAlt.P.A5x9.mem_colSpan_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:50.562962+00:00
 -- url     : https://prove2.me/theorems/e8fa8125-41da-4526-b3af-23943c4eefbe

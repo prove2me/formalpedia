@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_compactOpenChoice
 -- name    : Formalism.FourierDecayAlt.P.compactOpenChoice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:17.383368+00:00
 -- url     : https://prove2.me/theorems/1e9bcd38-0a2a-429d-bd94-d321fbd47f12

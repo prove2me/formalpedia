@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_A5x3_sum_over_dual__ff440f43ee65
 -- name    : P2M_Formalism_FourierDecayAlt_P_A5x3_sum_over_dual__ff440f43ee65
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:02:39.833808+00:00
 -- url     : https://prove2.me/theorems/32d168d3-4c4f-4798-b2a3-a1e37682f81d

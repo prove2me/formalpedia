@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_parsevalGroup_statement
 -- name    : Formalism.FourierDecayAlt.P.parsevalGroup_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:47.276799+00:00
 -- url     : https://prove2.me/theorems/68a0b639-e4b6-4105-9f5e-ccfaea63a17c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_LFunctionPartialSum_partial_tendsto_G
 -- name    : Formalism.FX.LFunctionPartialSum.partial_tendsto_G
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:46:41.072742+00:00
 -- url     : https://prove2.me/theorems/0d820234-175a-4891-b7c9-cb97998c8971

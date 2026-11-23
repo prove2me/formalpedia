@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_equiv_of_birel
 -- name    : Formalism.FourierDecayAlt.P.A5x9.equiv_of_birel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:46.917537+00:00
 -- url     : https://prove2.me/theorems/6a687ebd-806d-42ca-9546-ab81887eef9f

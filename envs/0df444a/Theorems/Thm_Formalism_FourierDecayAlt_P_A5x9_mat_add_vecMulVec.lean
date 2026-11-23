@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_mat_add_vecMulVec
 -- name    : Formalism.FourierDecayAlt.P.A5x9.mat_add_vecMulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:24.312241+00:00
 -- url     : https://prove2.me/theorems/1ab1412d-3655-49ef-832f-66a0fc63b06c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_cnt_msk_Lam
 -- name    : Formalism.FourierDecayAlt.P.A5x9.cnt_msk_Lam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:15:07.206301+00:00
 -- url     : https://prove2.me/theorems/c07e64da-9095-49a7-ac13-bb1f7244918f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_hsymm_eq_sum_monomial
 -- name    : Formalism.FT.SymmetricSeries.hsymm_eq_sum_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:25:07.072149+00:00
 -- url     : https://prove2.me/theorems/4fc7fc1d-a2aa-4d3b-a16a-62c258ca573d

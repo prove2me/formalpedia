@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FN_minkowskiIIUpper
 -- name    : Formalism.FN.minkowskiIIUpper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:10.142087+00:00
 -- url     : https://prove2.me/theorems/e8bd0a51-dcc4-4be7-a96f-fd0be7f13452

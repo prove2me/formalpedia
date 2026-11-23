@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_sec_mulVec_int
 -- name    : Formalism.FourierDecayAlt.P.A5x8.sec_mulVec_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:19.84311+00:00
 -- url     : https://prove2.me/theorems/0ee6bce1-ea59-4e23-8637-65786c50e42f

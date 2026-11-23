@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FN_existsSuccessiveMinimaVectors
 -- name    : Formalism.FN.existsSuccessiveMinimaVectors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:25:06.688986+00:00
 -- url     : https://prove2.me/theorems/d7a59643-091d-408b-aa12-7ff58d66014f

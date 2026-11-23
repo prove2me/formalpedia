@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_grp_mem_PPsub
 -- name    : Formalism.FourierDecayAlt.P.A5x9.grp_mem_PPsub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:15.922117+00:00
 -- url     : https://prove2.me/theorems/25a863b0-c4ae-46b0-ba5a-0dfc083333ec

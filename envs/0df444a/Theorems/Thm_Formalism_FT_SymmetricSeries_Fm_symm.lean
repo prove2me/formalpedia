@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_Fm_symm
 -- name    : Formalism.FT.SymmetricSeries.Fm_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:41.600672+00:00
 -- url     : https://prove2.me/theorems/d94e912b-85cb-4903-8032-177e18c62fcd

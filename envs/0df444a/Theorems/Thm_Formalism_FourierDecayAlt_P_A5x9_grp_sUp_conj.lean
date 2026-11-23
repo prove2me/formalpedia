@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_grp_sUp_conj
 -- name    : Formalism.FourierDecayAlt.P.A5x9.grp_sUp_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:04.439557+00:00
 -- url     : https://prove2.me/theorems/43c86559-689c-49be-8dee-d61ff597a593

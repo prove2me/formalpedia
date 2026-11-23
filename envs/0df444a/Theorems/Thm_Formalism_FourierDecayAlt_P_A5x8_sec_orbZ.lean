@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_sec_orbZ
 -- name    : Formalism.FourierDecayAlt.P.A5x8.sec_orbZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:28.820467+00:00
 -- url     : https://prove2.me/theorems/a4d58581-345e-4674-849d-6515afd8e4ec

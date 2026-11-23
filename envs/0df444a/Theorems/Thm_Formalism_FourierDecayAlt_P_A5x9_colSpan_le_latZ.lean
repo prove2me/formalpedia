@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_colSpan_le_latZ
 -- name    : Formalism.FourierDecayAlt.P.A5x9.colSpan_le_latZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:51.247516+00:00
 -- url     : https://prove2.me/theorems/aaf98374-7da7-413e-ba09-e2ae70cf1aa8

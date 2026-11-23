@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_sec_upJ_int
 -- name    : Formalism.FourierDecayAlt.P.A5x8.sec_upJ_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:21.138746+00:00
 -- url     : https://prove2.me/theorems/8e264c11-c3fe-4a31-ada6-49a1418cb1ff

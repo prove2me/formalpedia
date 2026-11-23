@@ -71311,7 +71311,7 @@
 {"parent": "VehicleRoutingSurvey_RuralPostman1979_Part07", "child": "VehicleRoutingSurvey_RuralPostman1979_Part05", "via": ["statement"]}
 {"parent": "VehicleRoutingSurvey_RuralPostman1979_Part07", "child": "VehicleRoutingSurvey_RuralPostman1979_Part06", "via": ["statement"]}
 {"parent": "AvgPHETH_Supplement_rawRestr", "child": "AvgPHETH_Supplement_restrictRound", "via": ["statement"]}
-{"parent": "ZInQ.Literature.tyzRow5b", "child": "ZInQLiterature", "via": ["statement"]}
+{"parent": "ZInQ.Literature.tyzRow5b", "child": "ZInQLiterature", "via": ["solution", "statement"]}
 {"parent": "RH1E6S10.part_009_3", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S10.part_009_3", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S10.part_009_3", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiShiftedFirstNegativePassage
 -- name    : Kyprianou.Ch01.reverseLampertiShiftedFirstNegativePassage
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:15:08.199512+00:00
 -- url     : https://prove2.me/theorems/fd88b739-8077-4a83-907a-d71b41a19e9f

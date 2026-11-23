@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_smallUnits
 -- name    : Formalism.FourierDecayAlt.P.smallUnits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:21.608911+00:00
 -- url     : https://prove2.me/theorems/a141725b-641b-4c28-92ee-2dec5c4aba84

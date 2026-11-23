@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x7_int_iff
 -- name    : Formalism.FourierDecayAlt.P.A5x7.int_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:08:37.942532+00:00
 -- url     : https://prove2.me/theorems/10d261c3-98da-423d-9c69-c4a3b20ed776

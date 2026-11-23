@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x5_good_corner
 -- name    : Formalism.FourierDecayAlt.P.A5x5.good_corner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:10.984837+00:00
 -- url     : https://prove2.me/theorems/d9cac050-f850-4af0-8871-95d299e15742

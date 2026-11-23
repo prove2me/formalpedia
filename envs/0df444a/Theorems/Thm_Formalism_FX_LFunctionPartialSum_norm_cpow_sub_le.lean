@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_LFunctionPartialSum_norm_cpow_sub_le
 -- name    : Formalism.FX.LFunctionPartialSum.norm_cpow_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:43:01.086132+00:00
 -- url     : https://prove2.me/theorems/5999561f-22c6-4dbc-8847-57a25568fb17

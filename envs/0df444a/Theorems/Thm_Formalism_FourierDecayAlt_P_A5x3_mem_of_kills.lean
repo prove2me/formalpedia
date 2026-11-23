@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x3_mem_of_kills
 -- name    : Formalism.FourierDecayAlt.P.A5x3.mem_of_kills
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:43:57.725836+00:00
 -- url     : https://prove2.me/theorems/a6a85248-a81e-4614-a380-f653a4679ecf

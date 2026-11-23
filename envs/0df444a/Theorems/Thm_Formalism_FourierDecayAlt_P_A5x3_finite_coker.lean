@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x3_finite_coker
 -- name    : Formalism.FourierDecayAlt.P.A5x3.finite_coker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:26:23.338237+00:00
 -- url     : https://prove2.me/theorems/7b03b562-20cf-4492-9c6e-d5ddbc517853

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_InjVAux_Good_pow
 -- name    : Formalism.FG.InjVAux.Good.pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:10:33.711853+00:00
 -- url     : https://prove2.me/theorems/2f74f033-f249-416a-9f66-ad310feff5b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_A5x9_Lam_mul__36cdfb417c73
 -- name    : P2M_Formalism_FourierDecayAlt_P_A5x9_Lam_mul__36cdfb417c73
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:12:16.289293+00:00
 -- url     : https://prove2.me/theorems/1e0b5502-e66d-4ab7-af0f-2e38f077ffd2

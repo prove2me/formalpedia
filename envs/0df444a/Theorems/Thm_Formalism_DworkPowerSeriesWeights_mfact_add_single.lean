@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_mfact_add_single
 -- name    : Formalism.DworkPowerSeriesWeights.mfact_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:58:04.280035+00:00
 -- url     : https://prove2.me/theorems/a04a2383-fceb-4ca9-ab31-0f14fc0abde7

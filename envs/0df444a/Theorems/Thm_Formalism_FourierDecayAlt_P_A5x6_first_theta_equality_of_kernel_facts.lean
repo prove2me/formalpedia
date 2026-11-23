@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x6_first_theta_equality_of_kernel_facts
 -- name    : Formalism.FourierDecayAlt.P.A5x6.first_theta_equality_of_kernel_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:44.895485+00:00
 -- url     : https://prove2.me/theorems/08a05cf2-5fa7-45d1-a726-ed0e67441cbe

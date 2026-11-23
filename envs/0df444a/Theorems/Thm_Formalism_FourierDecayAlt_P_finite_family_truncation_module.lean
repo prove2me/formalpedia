@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_finite_family_truncation_module
 -- name    : Formalism.FourierDecayAlt.P.finite_family_truncation_module
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:04:53.237126+00:00
 -- url     : https://prove2.me/theorems/91eca956-0711-475b-9287-cfb71984ec08

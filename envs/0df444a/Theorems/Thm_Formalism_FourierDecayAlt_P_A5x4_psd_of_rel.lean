@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x4_psd_of_rel
 -- name    : Formalism.FourierDecayAlt.P.A5x4.psd_of_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:20.157046+00:00
 -- url     : https://prove2.me/theorems/17774155-f152-4428-bc26-8d2f6180d0f4

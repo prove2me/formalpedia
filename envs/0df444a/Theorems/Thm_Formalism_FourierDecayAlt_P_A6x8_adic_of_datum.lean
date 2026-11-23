@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x8_adic_of_datum
 -- name    : Formalism.FourierDecayAlt.P.A6x8.adic_of_datum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:45:21.199812+00:00
 -- url     : https://prove2.me/theorems/da04f4bc-761e-4a0d-8895-13ef232a7ead

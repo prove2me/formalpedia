@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.esscherExponentialDensityConsistent
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T14:58:53.67808+00:00
 -- url     : https://prove2.me/submissions/1854b55c-6e2e-4a61-b602-e459d887d628
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

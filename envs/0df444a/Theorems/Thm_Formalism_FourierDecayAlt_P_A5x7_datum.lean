@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x7_datum
 -- name    : Formalism.FourierDecayAlt.P.A5x7.datum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:57:19.302877+00:00
 -- url     : https://prove2.me/theorems/7e11b166-c3bb-4b49-a6e7-4c4cf5319c7e

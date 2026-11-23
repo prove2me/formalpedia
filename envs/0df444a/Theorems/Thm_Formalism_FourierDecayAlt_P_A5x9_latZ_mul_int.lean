@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_latZ_mul_int
 -- name    : Formalism.FourierDecayAlt.P.A5x9.latZ_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:07.356606+00:00
 -- url     : https://prove2.me/theorems/0c029647-2703-4f8e-be2e-7d38e23ff6bd

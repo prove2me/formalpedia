@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x3_sum_over_S
 -- name    : Formalism.FourierDecayAlt.P.A5x3.sum_over_S
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:25:59.2078+00:00
 -- url     : https://prove2.me/theorems/5f7f00a5-d618-484d-a7af-1c8f6aedc7f5

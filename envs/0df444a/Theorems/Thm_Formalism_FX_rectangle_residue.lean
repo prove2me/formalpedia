@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_rectangle_residue
 -- name    : Formalism.FX.rectangle_residue
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:43:46.227093+00:00
 -- url     : https://prove2.me/theorems/e1915de1-e9ce-4771-a363-7823a0adadb4

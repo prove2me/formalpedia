@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_posSemidefClosed
 -- name    : Formalism.FourierDecayAlt.P.posSemidefClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:50.211288+00:00
 -- url     : https://prove2.me/theorems/76ae0415-3811-43cc-8053-ec648a6ecedb

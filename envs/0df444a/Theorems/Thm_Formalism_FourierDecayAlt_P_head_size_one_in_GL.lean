@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_head_size_one_in_GL
 -- name    : Formalism.FourierDecayAlt.P.head_size_one_in_GL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:04:51.362178+00:00
 -- url     : https://prove2.me/theorems/76012d94-cd32-4659-8b02-b5d1ef763e5c

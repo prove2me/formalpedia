@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_modK_pow
 -- name    : Formalism.FourierDecayAlt.P.A6x9.modK_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:50.926409+00:00
 -- url     : https://prove2.me/theorems/cb8229dc-c64f-47c7-b44b-e4df619eaf8b

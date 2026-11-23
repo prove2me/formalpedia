@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.esscherDensity_integrabilityAndUnitMean
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T15:05:59.664411+00:00
 -- url     : https://prove2.me/submissions/fb169f6d-880c-4328-a6e3-44f82a60a4e1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

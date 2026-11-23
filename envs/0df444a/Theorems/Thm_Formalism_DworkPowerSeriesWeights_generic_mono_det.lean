@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_generic_mono_det
 -- name    : Formalism.DworkPowerSeriesWeights.generic_mono_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:58:46.10927+00:00
 -- url     : https://prove2.me/theorems/8dbd394d-4814-4ee7-8b84-651736ef27fb

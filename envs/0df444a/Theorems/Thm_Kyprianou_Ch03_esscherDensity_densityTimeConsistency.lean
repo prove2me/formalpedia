@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherDensity_densityTimeConsistency
 -- name    : Kyprianou.Ch03.esscherDensity_densityTimeConsistency
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T14:57:15.48262+00:00
 -- url     : https://prove2.me/theorems/fc035ebe-d1ba-4be7-a15c-9f71d68f1653

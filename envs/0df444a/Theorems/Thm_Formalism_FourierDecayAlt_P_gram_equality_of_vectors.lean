@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_equality_of_vectors
 -- name    : Formalism.FourierDecayAlt.P.gram_equality_of_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:09.99381+00:00
 -- url     : https://prove2.me/theorems/89db8533-85a8-4fae-9c69-8ed73bccc03e

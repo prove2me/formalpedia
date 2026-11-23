@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FN_AdaptedBasisExistence_adapted_basis_exists
 -- name    : Formalism.FN.AdaptedBasisExistence.adapted_basis_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:46.270187+00:00
 -- url     : https://prove2.me/theorems/9cad35e1-e63b-43d0-98c5-8a33adf8acd7

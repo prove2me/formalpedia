@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_cnt_nrm_exists
 -- name    : Formalism.FourierDecayAlt.P.A5x9.cnt_nrm_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:50.549656+00:00
 -- url     : https://prove2.me/theorems/a63927d2-8c59-460c-a8ff-c22de18fb8dd

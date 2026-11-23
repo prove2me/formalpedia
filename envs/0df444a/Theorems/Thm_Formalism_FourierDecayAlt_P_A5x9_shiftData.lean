@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_shiftData
 -- name    : Formalism.FourierDecayAlt.P.A5x9.shiftData
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:31.581668+00:00
 -- url     : https://prove2.me/theorems/1e9833be-0917-468f-ac7a-37b587eea218

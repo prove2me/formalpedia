@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x2_normsq_eq_inner
 -- name    : Formalism.FourierDecayAlt.P.A6x2.normsq_eq_inner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:22.025623+00:00
 -- url     : https://prove2.me/theorems/ecff0fa0-9965-45d1-9fec-14fca017aebc

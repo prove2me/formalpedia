@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_binomial_coefficient_extraction
 -- name    : Formalism.DworkPowerSeriesWeights.binomial_coefficient_extraction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:54:21.183806+00:00
 -- url     : https://prove2.me/theorems/d739d82a-6fdd-4308-8169-2b450fe4e280

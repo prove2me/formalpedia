@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_apply_ne_of_isPrimitiveRoot
 -- name    : GroundTheory.PAdicHodge.apply_ne_of_isPrimitiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:38.433808+00:00
 -- url     : https://prove2.me/theorems/7d077b04-8710-47be-a224-1b81aa94f2cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_added_block_kernel_support
 -- name    : Formalism.FourierDecayAlt.P.added_block_kernel_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:20.021802+00:00
 -- url     : https://prove2.me/theorems/bb499be5-5b55-4727-a069-800f2d1e07ac

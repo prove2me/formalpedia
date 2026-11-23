@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_annihilatorCharacters
 -- name    : Formalism.FourierDecayAlt.P.annihilatorCharacters
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:57.827925+00:00
 -- url     : https://prove2.me/theorems/0db5786f-ae37-42c5-b25f-294bcd937ddc

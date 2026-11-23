@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_bnx_norm_one
 -- name    : Formalism.DworkPowerSeriesWeights.bnx_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:59:56.25672+00:00
 -- url     : https://prove2.me/theorems/a8334bc3-f18e-406c-84c0-d07a010953bd

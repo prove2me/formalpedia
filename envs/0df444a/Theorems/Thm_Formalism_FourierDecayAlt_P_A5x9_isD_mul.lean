@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_isD_mul
 -- name    : Formalism.FourierDecayAlt.P.A5x9.isD_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:01.585862+00:00
 -- url     : https://prove2.me/theorems/dcd4ab1e-85b6-46e7-b02a-8527a100ab0d
