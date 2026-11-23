@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_noConst_fixPt
 -- name    : Formalism.BaseCaseIdentities.Data.noConst_fixPt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:59.90759+00:00
 -- url     : https://prove2.me/theorems/87b62c7a-e387-4406-990c-4c832990cb39

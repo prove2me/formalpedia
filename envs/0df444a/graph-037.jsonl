@@ -61799,10 +61799,10 @@
 {"parent": "PI.CMT.coe_conj", "child": "Formalism_PeriodIntegrals_CMTraceOnto", "via": ["solution", "statement"]}
 {"parent": "Formalism_HarderNarasimhan_StatementFrame", "child": "Formalism_HarderNarasimhan_StatementPl", "via": ["statement"]}
 {"parent": "Formalism_HarderNarasimhan_StatementFrame", "child": "Formalism_CorankShare_StatementFR", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.PlaceSumConjugation.plOver_conj", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.PlaceSumConjugation.plOver_conj", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.PlaceSumConjugation.plOver_conj", "child": "Formalism_QuotientMetricDivisors_Complement2Normaliser", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.PlaceSumConjugation.plOver_conj", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondComplementParameterBounds", "via": ["statement"]}
+{"parent": "Formalism.DivisionValues.PlaceSumConjugation.plOver_conj", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.PlaceSumConjugation.plOver_conj", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.PlaceSumConjugation.plOver_conj", "child": "Formalism_QuotientMetricDivisors_Complement2Normaliser", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.PlaceSumConjugation.plOver_conj", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondComplementParameterBounds", "via": ["solution", "statement"]}
 {"parent": "Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_LeIffLtColHeight", "child": "Formalism_ThetaLogCoordinates_JacobiPathWeights_StatementA", "via": ["statement"]}
 {"parent": "Formalism_MahlerMeasure_WithMargin", "child": "Formalism_MahlerMeasure_StatementTM", "via": ["statement"]}
 {"parent": "Formalism_MahlerMeasure_WithMargin", "child": "Formalism_MahlerMeasure_TieVars", "via": ["statement"]}
@@ -68965,11 +68965,11 @@
 {"parent": "Formalism.FourierDecayAlt.P.Jx5.ka_eq", "child": "Formalism_HermitianCurvature_StatementJ", "via": ["solution", "statement"]}
 {"parent": "Csg.CSG.stageGame_A_mono", "child": "Csg_Basic", "via": ["solution", "statement"]}
 {"parent": "Csg.CSG.stageGame_A_mono", "child": "Csg_CsgMonotone", "via": ["solution", "statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramified_basic_bound", "child": "Formalism_MirabolicMackeyTheory_StatementT", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramified_basic_bound", "child": "Formalism_LogFactorialIndices_SignedSubspaceIndex_LogProductFormula", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramified_basic_bound", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramified_basic_bound", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsChain", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramified_basic_bound", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_RamBasic", "via": ["statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramified_basic_bound", "child": "Formalism_MirabolicMackeyTheory_StatementT", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramified_basic_bound", "child": "Formalism_LogFactorialIndices_SignedSubspaceIndex_LogProductFormula", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramified_basic_bound", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramified_basic_bound", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsChain", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramified_basic_bound", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_RamBasic", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13.part_031_0", "child": "ArdaRH65K_DlvpTheta", "via": ["statement"]}
 {"parent": "RH1E6S13.part_031_0", "child": "ArdaRH65K_RS_B2", "via": ["statement"]}
 {"parent": "RH1E6S13.part_031_0", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
@@ -71449,7 +71449,7 @@
 {"parent": "Formalism_LocalToGlobal_SiegelLatticeTheory_HaarTransversals_UnitaryHaarProducts_UnipLatPf", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_HaarTransversals_UnitaryHaarProducts_UnipLat", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bridge20261122_original_trueband_given_compensated_Lp2_and_gaussian_caplinear", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bridge20261122_original_trueband_given_compensated_Lp2_and_gaussian_caplinear", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "X25519Dalek.fnOk_projectivePoint_as_affine", "child": "X25519Dalek_Spec", "via": ["statement"]}
+{"parent": "X25519Dalek.fnOk_projectivePoint_as_affine", "child": "X25519Dalek_Spec", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd8.comm_Ts_star", "child": "Formalism_HermitianCurvature_StatementWd", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd8.comm_Ts_star", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ScalarCommuteTransposedRMatrixEntry", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd8.comm_Ts_star", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LiftMatrixTransferConjTransposeCommute", "via": ["statement"]}
@@ -72305,8 +72305,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.L3.WA.mem_conjIdeal_iff", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_LocDual", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.L3.WA.mem_conjIdeal_iff", "child": "Formalism_PeriodIntegrals_HermitianGenusExtension_SemilocalHermitianLattices_AlgebraMapNeZeroOfMemHcompl", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.L3.WA.mem_conjIdeal_iff", "child": "Formalism_PeriodIntegrals_HermitianGenusExtension_SemilocalHermitianLattices_ExistsSqAbsNormOfInert", "via": ["solution", "statement"]}
-{"parent": "Formalism.ThetaLiftIndependence.FiniteFieldPlancherel.orth", "child": "Formalism_ThetaLiftIndependence_Statement", "via": ["statement"]}
-{"parent": "Formalism.ThetaLiftIndependence.FiniteFieldPlancherel.orth", "child": "Formalism_ThetaLiftIndependence_ThetaOrbitSums_FFPlancherel", "via": ["statement"]}
+{"parent": "Formalism.ThetaLiftIndependence.FiniteFieldPlancherel.orth", "child": "Formalism_ThetaLiftIndependence_Statement", "via": ["solution", "statement"]}
+{"parent": "Formalism.ThetaLiftIndependence.FiniteFieldPlancherel.orth", "child": "Formalism_ThetaLiftIndependence_ThetaOrbitSums_FFPlancherel", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13_D039_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S13.part_039_1", "child": "ArdaRS_Dyadic", "via": ["statement"]}
 {"parent": "RH1E6S13.part_039_1", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
@@ -83228,10 +83228,10 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.conjIdeal_isMaximal", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassSt", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.conjIdeal_isMaximal", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SquarefreeRootShift_ArithP", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SquarefreeRootShift_SumLeProdOfTwoLe", "via": ["statement"]}
-{"parent": "Formalism.DimensionVariation.divIneqRecordFree6", "child": "Formalism_ThetaSupremumBounds_FinalJ", "via": ["statement"]}
-{"parent": "Formalism.DimensionVariation.divIneqRecordFree6", "child": "Formalism_ThetaSupremumBounds_GaussianShiftBounds_GlobalBoundRefinements", "via": ["statement"]}
-{"parent": "Formalism.DimensionVariation.divIneqRecordFree6", "child": "Formalism_ThetaSupremumBounds_LiftOperatorBoundOfFockJet", "via": ["statement"]}
-{"parent": "Formalism.DimensionVariation.divIneqRecordFree6", "child": "Formalism_ThetaSupremumBounds_DivIneqRecordTwoConst6", "via": ["statement"]}
+{"parent": "Formalism.DimensionVariation.divIneqRecordFree6", "child": "Formalism_ThetaSupremumBounds_FinalJ", "via": ["solution", "statement"]}
+{"parent": "Formalism.DimensionVariation.divIneqRecordFree6", "child": "Formalism_ThetaSupremumBounds_GaussianShiftBounds_GlobalBoundRefinements", "via": ["solution", "statement"]}
+{"parent": "Formalism.DimensionVariation.divIneqRecordFree6", "child": "Formalism_ThetaSupremumBounds_LiftOperatorBoundOfFockJet", "via": ["solution", "statement"]}
+{"parent": "Formalism.DimensionVariation.divIneqRecordFree6", "child": "Formalism_ThetaSupremumBounds_DivIneqRecordTwoConst6", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.ConjugateWeightGram.gramMat_eq", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DualMu", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.ConjugateWeightGram.gramMat_eq", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.ConjugateWeightGram.gramMat_eq", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DivIntoDual", "via": ["solution", "statement"]}
@@ -86024,17 +86024,17 @@
 {"parent": "Formalism_LocalToGlobal_SiegelLatticeTheory_CokernelGLCounts_RankPointCounts_TwoLeAbsNormPrime", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_CokernelGLCounts_RankPointCounts_TorsionTotientBound", "via": ["statement"]}
 {"parent": "PI.LevelKSplit.W.SemiG.Dat.fe", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_SemiGen", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.SemiG.Dat.fe", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["solution", "statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_IdxChange", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DivIntoDual", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_DivIntoDualShift", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TwistedLatticeNaturality", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LocBasis", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ImageLcv", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LcvBasis", "via": ["statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_IdxChange", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DivIntoDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_DivIntoDualShift", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TwistedLatticeNaturality", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LocBasis", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ImageLcv", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_vw_nat_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LcvBasis", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.SemiG.Dat.pz_apply", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_SemiGen", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.SemiG.Dat.pz_apply", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_MainNotions_BridgeLemma__planeMap_apply_alt_8549fdd1aaf1", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_CayleyDegreeNondegeneracy_ProdNormEmbeddingsEqAbsNorm", "via": ["solution", "statement"]}
@@ -92834,20 +92834,20 @@
 {"parent": "Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.qlen_le_of_sup", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_IndexBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.qlen_le_of_sup", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxRules", "via": ["solution", "statement"]}
 {"parent": "Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.qlen_le_of_sup", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_LocBasic", "via": ["solution", "statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxFull", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_Mirabolic", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_LemmaGG", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_RamBasic", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OnExport", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_AbsorbLocalConditions", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_ThreeForms", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OrthogonalityOfMackey", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_ErrSum", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OnLocal", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicIsMackey", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_UnipotentNumeric", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxRules", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxPsiGood", "via": ["statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxFull", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_Mirabolic", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_LemmaGG", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_RamBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OnExport", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_AbsorbLocalConditions", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_ThreeForms", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OrthogonalityOfMackey", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_ErrSum", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OnLocal", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicIsMackey", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_UnipotentNumeric", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxRules", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.ramBasic", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxPsiGood", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.muK_rightInvariant", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_KFacts", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.muK_rightInvariant", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_KFactsA", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdUniqW.continuous_trace_tens", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_AdeleLC", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_Test_aug_eq_sum
 -- name    : Formalism.L2.DIV.Test.aug_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:45.040235+00:00
 -- url     : https://prove2.me/theorems/163020d4-c25f-485c-8cc1-efc5822ae823

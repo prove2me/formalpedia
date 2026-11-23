@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFamily_isIntegral_cc
 -- name    : GlobalTheory.DualFamily.isIntegral_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:42.62255+00:00
 -- url     : https://prove2.me/theorems/2492bd2b-626c-4b02-8e08-340e653e397f

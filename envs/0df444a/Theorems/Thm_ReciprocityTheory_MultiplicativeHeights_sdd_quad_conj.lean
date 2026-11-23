@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sdd_quad_conj
 -- name    : ReciprocityTheory.MultiplicativeHeights.sdd_quad_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:30.190937+00:00
 -- url     : https://prove2.me/theorems/57477834-5ffa-478f-ad74-fa42613a1e85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_mem_dual_iff
 -- name    : Formalism.L2.DIV.mem_dual_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:29.170818+00:00
 -- url     : https://prove2.me/theorems/ba8280b9-6018-4f10-a3ad-1b5e2cbc2ef3

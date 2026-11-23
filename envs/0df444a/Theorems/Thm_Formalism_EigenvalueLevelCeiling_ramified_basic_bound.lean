@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ramified_basic_bound
 -- name    : Formalism.EigenvalueLevelCeiling.ramified_basic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:51:37.744911+00:00
 -- url     : https://prove2.me/theorems/8ec123b5-827f-4122-a8a7-71ba5655a5b1

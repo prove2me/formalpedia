@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ramw_conjPl
 -- name    : Formalism.EigenvalueLevelCeiling.ramw_conjPl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:52:28.860801+00:00
 -- url     : https://prove2.me/theorems/d0d48272-0265-4e7c-98b0-aae6ff5217fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_projectivePoint_as_affine_tail
 -- name    : X25519Dalek.projectivePoint_as_affine_tail
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-23T14:45:59.459162+00:00
 -- url     : https://prove2.me/theorems/7d0a684e-ff26-4db8-99be-6c176c355f0e

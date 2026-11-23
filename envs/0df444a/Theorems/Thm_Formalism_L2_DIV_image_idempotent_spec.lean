@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_image_idempotent_spec
 -- name    : Formalism.L2.DIV.image_idempotent_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:40:27.933439+00:00
 -- url     : https://prove2.me/theorems/d175e5ca-79a1-496e-aebb-c89d602222b8

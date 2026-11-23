@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_isMultiHomogeneous_map_ring
 -- name    : ReciprocityTheory.MultiplicativeHeights.isMultiHomogeneous_map_ring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:13.950807+00:00
 -- url     : https://prove2.me/theorems/8b6f26e2-c4c9-4243-8b90-d70149c969e4

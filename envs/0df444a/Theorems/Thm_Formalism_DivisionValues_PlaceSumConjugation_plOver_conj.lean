@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_PlaceSumConjugation_plOver_conj
 -- name    : Formalism.DivisionValues.PlaceSumConjugation.plOver_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:06:58.314395+00:00
 -- url     : https://prove2.me/theorems/059b2bc1-aff2-465b-b884-b18709afce86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_trace_inv_of_pow_eq_one
 -- name    : Formalism.L2.DIV.trace_inv_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:22.107339+00:00
 -- url     : https://prove2.me/theorems/82846a85-4ba1-4cd5-b228-387f0f591863

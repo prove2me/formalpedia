@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiZeroBranchingTimeAbsorbed
 -- name    : Kyprianou.Ch01.reverseLampertiZeroBranchingTimeAbsorbed
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-23T13:33:45.117735+00:00
 -- url     : https://prove2.me/theorems/0c1901d1-2c2c-4f19-b306-073dc21c84f1

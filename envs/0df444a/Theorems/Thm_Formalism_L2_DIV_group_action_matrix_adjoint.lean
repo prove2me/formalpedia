@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_group_action_matrix_adjoint
 -- name    : Formalism.L2.DIV.group_action_matrix_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:41:40.024904+00:00
 -- url     : https://prove2.me/theorems/325a34ee-8d42-4e14-85d4-3e9c8fe7588d

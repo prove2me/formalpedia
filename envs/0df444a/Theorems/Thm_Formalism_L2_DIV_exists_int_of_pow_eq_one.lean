@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_exists_int_of_pow_eq_one
 -- name    : Formalism.L2.DIV.exists_int_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:44.750854+00:00
 -- url     : https://prove2.me/theorems/352f0776-ca36-4581-afcc-699cdd7a88ba

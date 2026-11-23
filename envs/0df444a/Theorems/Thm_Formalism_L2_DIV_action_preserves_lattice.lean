@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_action_preserves_lattice
 -- name    : Formalism.L2.DIV.action_preserves_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:41:42.849591+00:00
 -- url     : https://prove2.me/theorems/4c3dc3e2-5213-4cc4-8c0d-e5595adb0797

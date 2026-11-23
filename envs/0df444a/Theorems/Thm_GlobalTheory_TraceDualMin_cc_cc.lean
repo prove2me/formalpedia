@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDualMin_cc_cc
 -- name    : GlobalTheory.TraceDualMin.cc_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:23.013899+00:00
 -- url     : https://prove2.me/theorems/adb4bd12-6e01-4dcc-afef-ee379d3886cf

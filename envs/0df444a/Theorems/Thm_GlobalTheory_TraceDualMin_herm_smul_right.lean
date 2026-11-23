@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDualMin_herm_smul_right
 -- name    : GlobalTheory.TraceDualMin.herm_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:16.792327+00:00
 -- url     : https://prove2.me/theorems/e8eedab2-1521-4cb8-86b4-270824b9844b

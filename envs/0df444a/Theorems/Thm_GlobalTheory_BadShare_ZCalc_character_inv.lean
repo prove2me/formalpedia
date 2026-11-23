@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_ZCalc_character_inv
 -- name    : GlobalTheory.BadShare.ZCalc.character_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:01.480363+00:00
 -- url     : https://prove2.me/theorems/76d0a6ce-0f89-478a-b09d-3aa45dc9929b

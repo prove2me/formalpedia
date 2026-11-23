@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_isSmooth_piTensor
 -- name    : GlobalTheory.SmGL.isSmooth_piTensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:47.74015+00:00
 -- url     : https://prove2.me/theorems/bb5e43a9-6096-4923-a20a-e1952552403a

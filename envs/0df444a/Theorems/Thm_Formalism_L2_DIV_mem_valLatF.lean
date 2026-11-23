@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_mem_valLatF
 -- name    : Formalism.L2.DIV.mem_valLatF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:46:05.360565+00:00
 -- url     : https://prove2.me/theorems/10330201-2815-4159-80b6-51584ed0942f

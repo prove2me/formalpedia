@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_conj_mem
 -- name    : GlobalTheory.RootEx.Model.conj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:55.674024+00:00
 -- url     : https://prove2.me/theorems/af15b87f-8598-481f-8934-765c1e720f10

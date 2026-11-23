@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_Related_refl
 -- name    : GlobalTheory.JetSer.Related.refl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:35.908806+00:00
 -- url     : https://prove2.me/theorems/8028419f-cf6a-4737-8de4-9bcb92de1eea

@@ -89358,11 +89358,11 @@
 {"parent": "QEC.Coding.CSSGibbs.selectedProjector_compl", "child": "QEC_Coding_CSS_GibbsSyndrome_Selection", "via": ["solution", "statement"]}
 {"parent": "StationarityTest.lemma_3_3", "child": "StationarityTest_Fisher", "via": ["statement"]}
 {"parent": "StationarityTest.lemma_3_3", "child": "StationarityTest_Geometry", "via": ["statement"]}
-{"parent": "GrothendieckLB.corollary_8_2", "child": "GrothendieckLB_DeltaPlus", "via": ["statement"]}
-{"parent": "GrothendieckLB.corollary_8_2", "child": "GrothendieckLB_p3NormSq", "via": ["statement"]}
-{"parent": "GrothendieckLB.corollary_8_2", "child": "GrothendieckLB_IsTernaryFn", "via": ["statement"]}
-{"parent": "GrothendieckLB.corollary_8_2", "child": "GrothendieckLB_p1Norm", "via": ["statement"]}
-{"parent": "GrothendieckLB.corollary_8_2", "child": "ABPOnline_cG", "via": ["statement"]}
+{"parent": "GrothendieckLB.corollary_8_2", "child": "GrothendieckLB_DeltaPlus", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.corollary_8_2", "child": "GrothendieckLB_p3NormSq", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.corollary_8_2", "child": "GrothendieckLB_IsTernaryFn", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.corollary_8_2", "child": "GrothendieckLB_p1Norm", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.corollary_8_2", "child": "ABPOnline_cG", "via": ["solution", "statement"]}
 {"parent": "TargetedSamplers_InPrBPTC", "child": "TargetedSamplers_InPrRTC", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.GramEntries.Block2.entryEval2_2_e", "child": "OAIQ106E151", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramEntries.Block2.entryEval2_2_e", "child": "MUBSix", "via": ["solution", "statement"]}

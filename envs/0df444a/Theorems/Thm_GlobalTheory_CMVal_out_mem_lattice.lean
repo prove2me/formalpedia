@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_out_mem_lattice
 -- name    : GlobalTheory.CMVal.out_mem_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:59.437828+00:00
 -- url     : https://prove2.me/theorems/5130b0e0-b1a5-4248-8367-469b44ff3c9e

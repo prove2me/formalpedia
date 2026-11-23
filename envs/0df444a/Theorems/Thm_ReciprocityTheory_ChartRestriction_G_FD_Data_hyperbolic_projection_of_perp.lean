@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_hyperbolic_projection_of_perp
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.hyperbolic_projection_of_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:43:27.700803+00:00
 -- url     : https://prove2.me/theorems/f181d686-b5cb-41e5-8563-24f213cce958

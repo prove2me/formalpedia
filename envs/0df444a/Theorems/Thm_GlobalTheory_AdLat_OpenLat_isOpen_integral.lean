@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_OpenLat_isOpen_integral
 -- name    : GlobalTheory.AdLat.OpenLat.isOpen_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:45.250017+00:00
 -- url     : https://prove2.me/theorems/70834da0-d1c9-47bc-9b71-da1ac012c0db

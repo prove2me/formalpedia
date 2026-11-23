@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_vw_nat_nonneg
 -- name    : Formalism.DivisionValues.shift_vw_nat_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:11:56.280388+00:00
 -- url     : https://prove2.me/theorems/f7e25621-3d4d-42b1-8c62-b559c4dd2124

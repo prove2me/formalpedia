@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_star_of_pow_eq_one
 -- name    : Formalism.L2.DIV.star_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:46:01.870845+00:00
 -- url     : https://prove2.me/theorems/913c736a-60b6-495e-ad6d-79e848b031c2

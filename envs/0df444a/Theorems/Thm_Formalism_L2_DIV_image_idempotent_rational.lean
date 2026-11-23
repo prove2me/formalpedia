@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_image_idempotent_rational
 -- name    : Formalism.L2.DIV.image_idempotent_rational
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:28.729889+00:00
 -- url     : https://prove2.me/theorems/f857b57f-6553-4a52-a9fd-bbf65fdf2224

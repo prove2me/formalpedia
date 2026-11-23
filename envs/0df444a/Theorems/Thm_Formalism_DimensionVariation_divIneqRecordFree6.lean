@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_divIneqRecordFree6
 -- name    : Formalism.DimensionVariation.divIneqRecordFree6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:54:03.614807+00:00
 -- url     : https://prove2.me/theorems/a577fbee-f631-4c01-935d-4dd36ff8c729

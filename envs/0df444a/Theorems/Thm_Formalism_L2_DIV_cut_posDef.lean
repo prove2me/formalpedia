@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_cut_posDef
 -- name    : Formalism.L2.DIV.cut_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:44.297605+00:00
 -- url     : https://prove2.me/theorems/2436c427-082a-4902-8681-37bc9a18fc37

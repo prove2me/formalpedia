@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_involutionPerm_apply
 -- name    : ReciprocityTheory.PGsh.Up.involutionPerm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:46:50.016428+00:00
 -- url     : https://prove2.me/theorems/48f7330f-104f-4d97-b7c7-81e96f535ef2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_fixPt_close
 -- name    : Formalism.BaseCaseIdentities.Data.fixPt_close
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:14.516722+00:00
 -- url     : https://prove2.me/theorems/2c237a9f-8934-46b1-bdaf-8549f5eee983

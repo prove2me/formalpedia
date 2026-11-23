@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_one_add_pow_prime_pow_eq_one
 -- name    : KStar.Tree.one_add_pow_prime_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:52.65079+00:00
 -- url     : https://prove2.me/theorems/1613a9af-09c7-4e11-bae9-66b9c0a960f7

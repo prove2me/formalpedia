@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_schur_scalar
 -- name    : Formalism.L2.DIV.schur_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:58.432221+00:00
 -- url     : https://prove2.me/theorems/a10edb00-5bb5-42ce-b444-3e09ccac3552

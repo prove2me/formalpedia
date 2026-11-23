@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_actMat_unitary
 -- name    : Formalism.L2.DIV.CSD.actMat_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:20.769042+00:00
 -- url     : https://prove2.me/theorems/6352d6d6-3f6b-49a3-a5e4-ec00b8ae93b0

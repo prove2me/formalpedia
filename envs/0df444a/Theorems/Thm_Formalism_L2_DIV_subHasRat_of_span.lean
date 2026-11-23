@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_subHasRat_of_span
 -- name    : Formalism.L2.DIV.subHasRat_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:17.947813+00:00
 -- url     : https://prove2.me/theorems/1d517d3e-8ce7-4e68-b2b9-5e8627ac823d

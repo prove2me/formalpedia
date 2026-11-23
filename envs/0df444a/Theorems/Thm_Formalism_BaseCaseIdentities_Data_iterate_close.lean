@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_iterate_close
 -- name    : Formalism.BaseCaseIdentities.Data.iterate_close
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:53.839551+00:00
 -- url     : https://prove2.me/theorems/cb15d69f-151e-4d37-a504-31629d23f544

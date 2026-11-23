@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_NPB_eval_psi
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.NPB.eval_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:44:35.685493+00:00
 -- url     : https://prove2.me/theorems/c1cef54a-8ff2-41e2-a792-1281d8d8500d

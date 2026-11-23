@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_evalFr_substFr
 -- name    : Formalism.L2.LamCM.evalFr_substFr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:12.61584+00:00
 -- url     : https://prove2.me/theorems/be553757-f96a-4638-9cfe-94dadbda3340

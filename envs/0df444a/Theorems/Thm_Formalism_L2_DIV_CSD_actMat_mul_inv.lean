@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_actMat_mul_inv
 -- name    : Formalism.L2.DIV.CSD.actMat_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:25.065862+00:00
 -- url     : https://prove2.me/theorems/735be57e-d9b1-48e3-b6eb-ebbaf8daa312

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_coeff_iterate_zero
 -- name    : Formalism.BaseCaseIdentities.Data.coeff_iterate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:01.404268+00:00
 -- url     : https://prove2.me/theorems/481acfd5-10be-4482-89dd-fdf209355aad

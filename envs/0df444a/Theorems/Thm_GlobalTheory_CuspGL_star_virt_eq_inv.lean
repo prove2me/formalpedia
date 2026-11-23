@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_star_virt_eq_inv
 -- name    : GlobalTheory.CuspGL.star_virt_eq_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:32.587151+00:00
 -- url     : https://prove2.me/theorems/5baf3458-5a49-4f18-9846-f1bd402f5777

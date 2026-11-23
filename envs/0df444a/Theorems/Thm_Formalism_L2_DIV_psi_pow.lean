@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_psi_pow
 -- name    : Formalism.L2.DIV.psi_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:59.605026+00:00
 -- url     : https://prove2.me/theorems/2096460e-bed1-46eb-ac39-96698c6d44fc

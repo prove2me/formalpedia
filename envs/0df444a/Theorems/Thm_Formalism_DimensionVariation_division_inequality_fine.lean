@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_division_inequality_fine
 -- name    : Formalism.DimensionVariation.division_inequality_fine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:10:11.559316+00:00
 -- url     : https://prove2.me/theorems/165fd72f-d768-417e-9a0e-e8cba95b6682

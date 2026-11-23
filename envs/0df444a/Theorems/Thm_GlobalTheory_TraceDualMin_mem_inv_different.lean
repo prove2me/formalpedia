@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDualMin_mem_inv_different
 -- name    : GlobalTheory.TraceDualMin.mem_inv_different
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:50:04.312141+00:00
 -- url     : https://prove2.me/theorems/fd1e9e6e-6ff3-4089-8612-26beea155829

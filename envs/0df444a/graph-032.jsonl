@@ -41247,7 +41247,6 @@
 {"parent": "AvramDividend.Classical.avram_mix_fin28_original_one_clock_positive_event_cash_budget", "child": "AvramDividend.Classical.avram_ubv_finite12_positive_clock_initial_measurable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_mix_fin28_original_one_clock_positive_event_cash_budget", "child": "AvramDividend.Classical.avram_b235_original_finiteactivity_ruinclipped_stopped_cash_initial_condexp_upper", "via": ["solution"]}
 {"parent": "DenseLanguageGeneration.PatientScope.charging", "child": "DenseLanguageGeneration_PatientScope_criticalChain", "via": ["solution"]}
-{"parent": "LargeSupplyFPA.Asymptotic.theorem_3", "child": "LargeSupplyFPA_Asymptotic_Thresholds", "via": ["solution"]}
 {"parent": "LargeSupplyFPA.Asymptotic.lemma_5", "child": "LargeSupplyFPA_Asymptotic_Thresholds", "via": ["solution"]}
 {"parent": "StratifyMarkets.DoubleAuction.lemma_4_13", "child": "StratifyMarkets.DoubleAuction.theorem_3_1", "via": ["solution"]}
 {"parent": "StratifyMarkets.DoubleAuction.lemma_4_13", "child": "StratifyMarkets.DoubleAuction.lemma_4_12", "via": ["solution"]}
@@ -41321,12 +41320,9 @@
 {"parent": "InfoLossLAR.WorstCase.theorem_9_9", "child": "InfoLossLAR.WorstCase.Integration.fixedFamily_admitsGaussianAFT", "via": ["solution"]}
 {"parent": "StratifyMarkets.DoubleAuction.lemma_4_4", "child": "StratifyMarkets.DoubleAuction.theorem_4_2", "via": ["solution"]}
 {"parent": "StratifyMarkets.DoubleAuction.lemma_4_8", "child": "StratifyMarkets.DoubleAuction.theorem_4_2", "via": ["solution"]}
-{"parent": "LargeSupplyFPA.Asymptotic.theorem_2", "child": "LargeSupplyFPA.Asymptotic.corollary_1", "via": ["solution"]}
 {"parent": "LargeSupplyFPA.Asymptotic.theorem_2", "child": "LargeSupplyFPA_Asymptotic_Extremizing", "via": ["solution"]}
-{"parent": "LargeSupplyFPA.Asymptotic.theorem_2", "child": "LargeSupplyFPA.Asymptotic.lemma_6", "via": ["solution"]}
 {"parent": "LargeSupplyFPA.Asymptotic.theorem_2", "child": "LargeSupplyFPA_Asymptotic_Smoothing", "via": ["solution"]}
 {"parent": "LargeSupplyFPA.Asymptotic.theorem_2", "child": "LargeSupplyFPA_Asymptotic_Thresholds", "via": ["solution"]}
-{"parent": "LargeSupplyFPA.Asymptotic.theorem_2", "child": "LargeSupplyFPA.Asymptotic.theorem_3", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_bvb_original_BV_uniform_expected_cash_terminal_positive_gap_vanishes", "child": "AvramDividend.Classical.avram_redux6_bv_single_clock_top_cap_expected_budget", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_bvb_original_BV_uniform_expected_cash_terminal_positive_gap_vanishes", "child": "AvramDividend.Classical.avram_p3_grid3_strict_prefix_margin_sequence", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_bvb_original_BV_uniform_expected_cash_terminal_positive_gap_vanishes", "child": "AvramDividend.Classical.avram_bv_finitecap_original_strict_physical_expected_cash_budget", "via": ["solution"]}

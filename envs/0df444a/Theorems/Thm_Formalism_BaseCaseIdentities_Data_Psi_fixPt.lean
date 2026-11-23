@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_Psi_fixPt
 -- name    : Formalism.BaseCaseIdentities.Data.Psi_fixPt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:04.541242+00:00
 -- url     : https://prove2.me/theorems/4997236a-f482-41c5-86f0-257cfd095060

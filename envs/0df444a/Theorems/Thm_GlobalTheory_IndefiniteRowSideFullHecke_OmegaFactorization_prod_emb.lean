@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OmegaFactorization_prod_emb
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OmegaFactorization.prod_emb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:08.457918+00:00
 -- url     : https://prove2.me/theorems/56d11d6c-75e5-48d1-bd65-eb1db2b36e2b

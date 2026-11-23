@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W5_prime_sum_le
 -- name    : Formalism.DivisionValues.W5.prime_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:22:32.311229+00:00
 -- url     : https://prove2.me/theorems/719ced15-856e-406b-a302-0119877e136c

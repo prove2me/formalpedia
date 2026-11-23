@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_ptNs_hasSubst
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.ptNs_hasSubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:44:55.231591+00:00
 -- url     : https://prove2.me/theorems/bfc0959c-3ebc-45f4-84d8-bf0ceab8c75b

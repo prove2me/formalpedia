@@ -47146,8 +47146,6 @@
 {"parent": "PatternRangeCounting1593.RangeCounting.lemma_4_3", "child": "PatternRangeCounting1593_RangeCounting_KOInterface", "via": ["statement"]}
 {"parent": "OAI.Problem367.StoppedRowNormalization.stopped_channel_normalization", "child": "Q243FI001", "via": ["solution", "statement"]}
 {"parent": "DataDepProb_Discrete_Amp", "child": "DataDepProb_Discrete_Simplex", "via": ["statement"]}
-{"parent": "LargeSupplyFPA.Asymptotic.theorem_3", "child": "LargeSupplyFPA_Asymptotic_Model", "via": ["solution", "statement"]}
-{"parent": "LargeSupplyFPA.Asymptotic.theorem_3", "child": "LargeSupplyFPA_Asymptotic_Assumptions", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXQConcreteCoherence.correctionRegion_chart_iff", "child": "QEC_Coding_FiniteAlternatingConstruction_RXQBlockTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXQConcreteCoherence.correctionRegion_chart_iff", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_RXQConcreteCoherence", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXQConcreteCoherence.correctionRegion_chart_iff", "child": "QEC.Coding.BDL26RZMap1CoordinateBridge.tannerCoboundary1_canonicalBasis_apply", "via": ["solution", "statement"]}

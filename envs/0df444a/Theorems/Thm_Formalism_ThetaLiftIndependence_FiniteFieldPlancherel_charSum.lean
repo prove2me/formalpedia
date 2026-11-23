@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_FiniteFieldPlancherel_charSum
 -- name    : Formalism.ThetaLiftIndependence.FiniteFieldPlancherel.charSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:24.404131+00:00
 -- url     : https://prove2.me/theorems/3f4e01bb-c514-4ad0-974f-ff0762df87fb

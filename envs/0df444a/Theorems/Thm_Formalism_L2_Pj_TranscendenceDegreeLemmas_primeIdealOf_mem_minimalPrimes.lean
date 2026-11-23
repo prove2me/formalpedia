@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_TranscendenceDegreeLemmas_primeIdealOf_mem_minimalPrimes
 -- name    : Formalism.L2.Pj.TranscendenceDegreeLemmas.primeIdealOf_mem_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:26.639798+00:00
 -- url     : https://prove2.me/theorems/e3612dbf-bae9-4a50-a21d-08cb14eb9ca4

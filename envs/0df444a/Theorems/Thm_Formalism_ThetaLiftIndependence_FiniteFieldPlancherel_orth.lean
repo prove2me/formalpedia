@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_FiniteFieldPlancherel_orth
 -- name    : Formalism.ThetaLiftIndependence.FiniteFieldPlancherel.orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:47:44.374301+00:00
 -- url     : https://prove2.me/theorems/42f8eac9-d309-4c7b-b31d-aa86da5a53e1

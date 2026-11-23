@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_Test_idemOf_one_coeff
 -- name    : Formalism.L2.DIV.Test.idemOf_one_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:42:26.54374+00:00
 -- url     : https://prove2.me/theorems/93201e6a-e209-4894-b183-286f92b83732

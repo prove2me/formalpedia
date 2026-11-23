@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_corollary_8_2
 -- name    : GrothendieckLB.corollary_8_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:51:36.215108+00:00
 -- url     : https://prove2.me/theorems/a8d7123d-c943-4a59-bd30-6d746dfd226e

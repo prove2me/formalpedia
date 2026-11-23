@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_IsAbsIrrChar_map_inv
 -- name    : Formalism.L2.DIV.IsAbsIrrChar.map_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:40:44.350829+00:00
 -- url     : https://prove2.me/theorems/c374a32b-ea81-4cf6-9516-05525976dfa0

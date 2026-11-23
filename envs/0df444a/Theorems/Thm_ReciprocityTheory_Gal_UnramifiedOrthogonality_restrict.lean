@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_UnramifiedOrthogonality_restrict
 -- name    : ReciprocityTheory.Gal.UnramifiedOrthogonality.restrict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:36:30.393506+00:00
 -- url     : https://prove2.me/theorems/16c890f8-3483-4bf3-bd62-3ee463d20b29

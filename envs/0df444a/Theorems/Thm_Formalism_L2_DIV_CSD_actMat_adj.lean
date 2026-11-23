@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_actMat_adj
 -- name    : Formalism.L2.DIV.CSD.actMat_adj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:42:54.889934+00:00
 -- url     : https://prove2.me/theorems/b82a8e99-fdaf-48db-a2e0-b47dc91d0530

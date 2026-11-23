@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ramBasic
 -- name    : Formalism.EigenvalueLevelCeiling.ramBasic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:19:09.258897+00:00
 -- url     : https://prove2.me/theorems/60f72cb7-fe9e-430e-9b1d-80d6bf600a83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sdd_star_self_eig
 -- name    : ReciprocityTheory.MultiplicativeHeights.sdd_star_self_eig
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:30.542439+00:00
 -- url     : https://prove2.me/theorems/b5a164a5-e8f3-4be3-8494-e5659a18239f

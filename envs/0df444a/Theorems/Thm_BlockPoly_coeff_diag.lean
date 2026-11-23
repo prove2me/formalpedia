@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockPoly_coeff_diag
 -- name    : BlockPoly.coeff_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:34:09.580472+00:00
 -- url     : https://prove2.me/theorems/7dcdf1ff-bd3d-4a2c-806f-6bcd28164de0

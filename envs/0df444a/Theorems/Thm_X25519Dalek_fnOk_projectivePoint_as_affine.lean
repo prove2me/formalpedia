@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_projectivePoint_as_affine
 -- name    : X25519Dalek.fnOk_projectivePoint_as_affine
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T22:21:38.772087+00:00
 -- url     : https://prove2.me/theorems/d9c21c86-3f9d-4d3c-8673-59a831416ca1

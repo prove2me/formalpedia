@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OmegaFactorization_wirtWord_cons
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OmegaFactorization.wirtWord_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:22.303439+00:00
 -- url     : https://prove2.me/theorems/3929a7aa-e51d-49fa-85c6-06019e654d73

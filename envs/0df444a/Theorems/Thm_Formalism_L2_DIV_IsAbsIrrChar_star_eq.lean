@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_IsAbsIrrChar_star_eq
 -- name    : Formalism.L2.DIV.IsAbsIrrChar.star_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:42.519261+00:00
 -- url     : https://prove2.me/theorems/0eaa43ac-61e0-4a4b-b75a-9e16e35729e4

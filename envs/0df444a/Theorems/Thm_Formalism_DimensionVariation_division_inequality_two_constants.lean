@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_division_inequality_two_constants
 -- name    : Formalism.DimensionVariation.division_inequality_two_constants
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:10:29.54286+00:00
 -- url     : https://prove2.me/theorems/e0b9cc26-ef26-449d-8bbb-f981b3678a08

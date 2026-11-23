@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_lvlIdem_mulVec_of_mem
 -- name    : Formalism.L2.DIV.CSD.lvlIdem_mulVec_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:41:32.761233+00:00
 -- url     : https://prove2.me/theorems/d9f06518-0215-430c-aeef-8d44bd38d169

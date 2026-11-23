@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_LocalEulerChar_restrict
 -- name    : ReciprocityTheory.Gal.LocalEulerChar.restrict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:36:46.144225+00:00
 -- url     : https://prove2.me/theorems/5c0cdd9f-5880-4ff0-8808-e4772fe19ad3
