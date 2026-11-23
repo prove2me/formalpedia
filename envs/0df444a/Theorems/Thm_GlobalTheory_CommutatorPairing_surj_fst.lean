@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPairing_surj_fst
 -- name    : GlobalTheory.CommutatorPairing.surj_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:39:38.523454+00:00
 -- url     : https://prove2.me/theorems/3cde61c6-7f1d-4e37-afb6-1c5fec8324cd

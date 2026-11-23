@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_near_vsq_pos
 -- name    : ReciprocityTheory.L2DbarEstimates.H.near_vsq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:44.541066+00:00
 -- url     : https://prove2.me/theorems/e6846685-09dc-4a31-b043-f6df24d78ec3

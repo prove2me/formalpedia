@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_equiv_of_proportional
 -- name    : GlobalTheory.AddLaw.equiv_of_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:15.785696+00:00
 -- url     : https://prove2.me/theorems/6989f638-fccf-4de7-9370-4aa192313edb

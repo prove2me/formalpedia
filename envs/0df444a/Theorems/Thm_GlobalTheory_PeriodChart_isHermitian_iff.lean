@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_isHermitian_iff
 -- name    : GlobalTheory.PeriodChart.isHermitian_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:40:41.54826+00:00
 -- url     : https://prove2.me/theorems/1a3653f0-45cf-49ae-8d68-79695c333aca

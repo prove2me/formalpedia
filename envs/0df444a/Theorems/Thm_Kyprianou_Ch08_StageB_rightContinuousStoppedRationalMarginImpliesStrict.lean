@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_rightContinuousStoppedRationalMarginImpliesStrict
 -- name    : Kyprianou.Ch08.StageB.rightContinuousStoppedRationalMarginImpliesStrict
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:45:48.308574+00:00
 -- url     : https://prove2.me/theorems/b39a75fc-d0fe-48fc-af01-1d535ea157d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_uv_trans
 -- name    : GlobalTheory.LinDescent.uv_trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:37:24.944507+00:00
 -- url     : https://prove2.me/theorems/d4b53312-0e1e-4e22-90d7-0d6a476047d6

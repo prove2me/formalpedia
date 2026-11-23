@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TorusCompat_unique
 -- name    : GlobalTheory.UU.TorusCompat.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:41:49.192857+00:00
 -- url     : https://prove2.me/theorems/7f543568-7432-4f16-a7d5-5676f90c5a0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsCoaction_injective
 -- name    : GlobalTheory.IsCoaction.injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:53.000862+00:00
 -- url     : https://prove2.me/theorems/d5bdef32-a00e-4dcf-8bd1-83b7541d06e0

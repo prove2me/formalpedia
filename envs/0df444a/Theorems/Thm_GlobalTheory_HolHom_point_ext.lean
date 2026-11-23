@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_point_ext
 -- name    : GlobalTheory.HolHom.point_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:09.640264+00:00
 -- url     : https://prove2.me/theorems/fa3a4558-c321-419d-8c80-c791103f1a6f

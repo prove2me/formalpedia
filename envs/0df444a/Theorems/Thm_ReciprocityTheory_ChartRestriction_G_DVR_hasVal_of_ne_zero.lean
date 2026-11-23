@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_hasVal_of_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.hasVal_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:53.118054+00:00
 -- url     : https://prove2.me/theorems/0edfe702-d857-46d1-9c60-8e6f835e9026

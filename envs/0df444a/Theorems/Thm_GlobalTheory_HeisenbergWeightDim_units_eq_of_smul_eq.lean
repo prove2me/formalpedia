@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergWeightDim_units_eq_of_smul_eq
 -- name    : GlobalTheory.HeisenbergWeightDim.units_eq_of_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:35.279115+00:00
 -- url     : https://prove2.me/theorems/4800c478-01d6-48ec-88de-e5cd4e24db6a

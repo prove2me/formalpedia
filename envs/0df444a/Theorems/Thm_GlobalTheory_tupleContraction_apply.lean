@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tupleContraction_apply
 -- name    : GlobalTheory.tupleContraction_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:53.501616+00:00
 -- url     : https://prove2.me/theorems/43269b37-0bac-4701-9387-91ceeffdbcf3

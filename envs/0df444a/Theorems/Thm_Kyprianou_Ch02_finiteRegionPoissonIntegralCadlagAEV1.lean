@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_finiteRegionPoissonIntegralCadlagAEV1
 -- name    : Kyprianou.Ch02.finiteRegionPoissonIntegralCadlagAEV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:00:05.246417+00:00
 -- url     : https://prove2.me/theorems/bac8edbf-fc85-46c9-a22d-906bae94fa75

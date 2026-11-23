@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_HolAt_comp
 -- name    : GlobalTheory.HolHom.HolAt.comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:45:24.445305+00:00
 -- url     : https://prove2.me/theorems/8495810e-f24a-453a-9683-cb5adce6d1f5

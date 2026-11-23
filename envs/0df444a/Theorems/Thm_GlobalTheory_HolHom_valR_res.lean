@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_valR_res
 -- name    : GlobalTheory.HolHom.valR_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:03.442373+00:00
 -- url     : https://prove2.me/theorems/5e7465e2-4b03-48e6-b359-c1aa2a9bd0c2

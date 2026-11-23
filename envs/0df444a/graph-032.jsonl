@@ -50427,9 +50427,9 @@
 {"parent": "ImplicitParityWL_Supplement_MatrixGraph", "child": "ImplicitParityWL_CompiledGraph", "via": ["statement"]}
 {"parent": "InducedExpanderTest989_Structural_Supplement_Distance", "child": "InducedExpanderTest989_Structural_Graph", "via": ["statement"]}
 {"parent": "RPLib_S4_EtShPullComp", "child": "RPLib_S4_EtShConst", "via": ["statement"]}
-{"parent": "Kyprianou.compensatedGeneralRegionMartingaleCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.compensatedGeneralRegionMartingaleCh02V3", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.compensatedGeneralRegionMartingaleCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.compensatedGeneralRegionMartingaleCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.compensatedGeneralRegionMartingaleCh02V3", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.compensatedGeneralRegionMartingaleCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreABound5d", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreABound1", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreABound5d", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreABound5a1", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreABound5d", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreALeaf", "via": ["statement"]}
@@ -87669,8 +87669,8 @@
 {"parent": "OptTwoSrcExt_Supplement_IsNMExt", "child": "FuzzyExtractors_Hamming_Basic", "via": ["statement"]}
 {"parent": "MonoTestDAG.Supplement.theorem_5_6", "child": "MonoTestDAG_Tester", "via": ["statement"]}
 {"parent": "MonoTestDAG.Supplement.theorem_5_6", "child": "MonoTestDAG_numTR", "via": ["statement"]}
-{"parent": "Kyprianou.Ch02.chapterTwoMainResultsV5", "child": "Kyprianou_Ch02_ChapterCertificationV5", "via": ["statement"]}
-{"parent": "Kyprianou.Ch02.chapterTwoMainResultsV5", "child": "Kyprianou_Ch02_ChapterCertificationV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch02.chapterTwoMainResultsV5", "child": "Kyprianou_Ch02_ChapterCertificationV5", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch02.chapterTwoMainResultsV5", "child": "Kyprianou_Ch02_ChapterCertificationV2", "via": ["solution", "statement"]}
 {"parent": "IntervalToDynamic_Supplement_RandomizedLearner", "child": "ModernOnlineLearning_Dynamic_Defs", "via": ["statement"]}
 {"parent": "APFPaper5.K1.table_linearizes", "child": "APFPaper5.K1.leastBill_pos_iff", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.table_linearizes", "child": "APFPaper5.K1.exchanged_eq_ledger_add_orientation", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointQuot_locally_const_desc
 -- name    : GlobalTheory.PointQuot.locally_const_desc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:16.231684+00:00
 -- url     : https://prove2.me/theorems/cd62fe82-e0a5-4fc2-bd1c-5f8947d3f742

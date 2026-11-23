@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_isoVal_trans
 -- name    : GlobalTheory.FieldBaseChange.isoVal_trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:16:29.147803+00:00
 -- url     : https://prove2.me/theorems/3da0f183-3d1a-4cce-b63c-c6a91a50a662

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_contDiffOn_nat
 -- name    : GlobalTheory.SCV.contDiffOn_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:44.005345+00:00
 -- url     : https://prove2.me/theorems/fa0e122d-89fb-4b46-b902-401b748eb166

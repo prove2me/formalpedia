@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_rankAtStalk_eq_card
 -- name    : GlobalTheory.FreeQuotient.rankAtStalk_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:57.652881+00:00
 -- url     : https://prove2.me/theorems/b0f08356-fe4c-46b4-b1e8-eea77c078e2c

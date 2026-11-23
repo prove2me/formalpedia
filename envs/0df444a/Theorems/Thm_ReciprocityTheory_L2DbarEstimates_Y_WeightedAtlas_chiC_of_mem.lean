@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_chiC_of_mem
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.chiC_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:40.367483+00:00
 -- url     : https://prove2.me/theorems/cdff02e9-80c3-4118-83ec-692242c29a34

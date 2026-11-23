@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_nn_apply
 -- name    : GlobalTheory.AnArc.nn_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:51.762745+00:00
 -- url     : https://prove2.me/theorems/3c64aa0d-a9e5-4e68-8aa9-b869a7a1472e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SecGlue_spMap_comp__8f671bc530ae
 -- name    : P2M_GlobalTheory_SecGlue_spMap_comp__8f671bc530ae
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:44:25.262452+00:00
 -- url     : https://prove2.me/theorems/cd767d04-c575-415b-b4cb-28b34960a608

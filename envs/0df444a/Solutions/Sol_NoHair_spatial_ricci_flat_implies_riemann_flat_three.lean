@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.spatial_ricci_flat_implies_riemann_flat_three
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T11:47:21.761298+00:00
 -- url     : https://prove2.me/submissions/60aaf14a-8c90-4168-bc1f-b277aec4a382
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_levi_civita_lowered_curvature_skew
 import Theorems.Thm_NoHair_three_dimensional_curvature_determined_by_ricci

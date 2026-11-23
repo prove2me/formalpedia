@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tupleCoface_zero
 -- name    : GlobalTheory.tupleCoface_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:56.756873+00:00
 -- url     : https://prove2.me/theorems/9da069f0-bfe3-4e7a-9757-2adbd3359ed8

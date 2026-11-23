@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_values_natural
 -- name    : GlobalTheory.values_natural
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:46:18.337342+00:00
 -- url     : https://prove2.me/theorems/914e07b6-cea4-413b-84ea-2eb3e2028b3c

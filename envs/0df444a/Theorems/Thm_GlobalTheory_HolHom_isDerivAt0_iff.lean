@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_isDerivAt0_iff
 -- name    : GlobalTheory.HolHom.isDerivAt0_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:45:31.191787+00:00
 -- url     : https://prove2.me/theorems/dcaecad5-2efa-4fdc-a535-aa947b3f24b7

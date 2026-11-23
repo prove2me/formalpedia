@@ -77979,8 +77979,8 @@
 {"parent": "Csg.idsUnifQ_mem", "child": "Csg_IntrusionDetectionReach", "via": ["solution", "statement"]}
 {"parent": "Csg.idsUnifQ_mem", "child": "Csg_ReachCertificate", "via": ["solution", "statement"]}
 {"parent": "Csg.idsUnifQ_mem", "child": "Csg_IntrusionDetection", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.isGen_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_PullCub", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.isGen_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_OneArcSt", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.isGen_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_PullCub", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.isGen_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_OneArcSt", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PositiveDefiniteness_Development", "child": "Formalism_PeriodIntegrals_FinOrdAd", "via": ["statement"]}
 {"parent": "P2M_Formalism_FourierDecayAlt_P_Wd7_eU_apply__f51f2867f050", "child": "Formalism_HermitianCurvature_StatementWd", "via": ["statement"]}
 {"parent": "P2M_Formalism_FourierDecayAlt_P_Wd7_eU_apply__f51f2867f050", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_EntryCommuteTransposedRMatrix", "via": ["statement"]}
@@ -81001,8 +81001,8 @@
 {"parent": "Formalism.FX.LFunctionPartialSum.norm_dterm_le", "child": "Formalism_LFunctionBounds_LFunctionBoundsProofs_LFunctionEqGOfOneLt", "via": ["statement"]}
 {"parent": "Formalism.CountingSumsFrames.window_dim_ratio_le_exp", "child": "Formalism_PolynomialDimension_DigitSumValuationBound", "via": ["statement"]}
 {"parent": "Formalism.CountingSumsFrames.window_dim_ratio_le_exp", "child": "Formalism_PolynomialDimension_MultinomialDepth_SegmentTopRoomPublished", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.IsCub.comm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.IsCub.comm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_CubeVal", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.IsCub.comm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.IsCub.comm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_CubeVal", "via": ["solution", "statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomMapOfEq", "child": "Formalism.H.dualEquiv_apply", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomMapOfEq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteDimensionalOfOrtho", "via": ["statement"]}
 {"parent": "Formalism.CountingSumsFrames.glAct_eq_sum", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_TheoremM", "via": ["solution", "statement"]}

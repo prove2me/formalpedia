@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_IsUnimod_smul_cancel
 -- name    : GlobalTheory.HeckeTate.IsUnimod.smul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:05.698936+00:00
 -- url     : https://prove2.me/theorems/c5907372-cd35-4369-a5e7-3e02e062cd40

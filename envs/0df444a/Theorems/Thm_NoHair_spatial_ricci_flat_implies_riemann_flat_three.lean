@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_spatial_ricci_flat_implies_riemann_flat_three
 -- name    : NoHair.spatial_ricci_flat_implies_riemann_flat_three
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T11:46:45.382948+00:00
 -- url     : https://prove2.me/theorems/d98caff5-8861-41d9-9217-f3c704f6ccf1

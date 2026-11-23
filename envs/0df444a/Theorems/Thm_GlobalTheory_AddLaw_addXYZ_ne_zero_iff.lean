@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_addXYZ_ne_zero_iff
 -- name    : GlobalTheory.AddLaw.addXYZ_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:55.387592+00:00
 -- url     : https://prove2.me/theorems/ac48f70a-c129-4242-aa17-d865fab3ec88

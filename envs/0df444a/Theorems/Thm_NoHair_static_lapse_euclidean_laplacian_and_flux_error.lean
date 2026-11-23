@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_static_lapse_euclidean_laplacian_and_flux_error
 -- name    : NoHair.static_lapse_euclidean_laplacian_and_flux_error
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T11:39:22.851793+00:00
 -- url     : https://prove2.me/theorems/2c8031a5-a4a3-4dc8-a9c9-7a513f02c1f3

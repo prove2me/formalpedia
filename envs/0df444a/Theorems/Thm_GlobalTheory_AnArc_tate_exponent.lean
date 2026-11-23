@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_tate_exponent
 -- name    : GlobalTheory.AnArc.tate_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:09.450837+00:00
 -- url     : https://prove2.me/theorems/2d9071dd-9a2c-4d77-a7b4-406f15ccf813

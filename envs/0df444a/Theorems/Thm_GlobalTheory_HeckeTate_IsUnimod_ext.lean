@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_IsUnimod_ext
 -- name    : GlobalTheory.HeckeTate.IsUnimod.ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:43:44.088005+00:00
 -- url     : https://prove2.me/theorems/26b00e0e-771c-42e9-b029-7b98a8af8c4b

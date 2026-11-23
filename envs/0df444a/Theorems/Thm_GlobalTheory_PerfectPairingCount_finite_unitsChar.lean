@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairingCount_finite_unitsChar
 -- name    : GlobalTheory.PerfectPairingCount.finite_unitsChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:23.298188+00:00
 -- url     : https://prove2.me/theorems/4d391c10-7e4c-4bb5-a9d5-41d17b5f0b7c

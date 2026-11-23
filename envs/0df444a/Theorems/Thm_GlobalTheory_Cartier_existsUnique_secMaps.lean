@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_existsUnique_secMaps
 -- name    : GlobalTheory.Cartier.existsUnique_secMaps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:07:54.589405+00:00
 -- url     : https://prove2.me/theorems/2c31e420-7fce-4f0e-98fa-357b1a38635d

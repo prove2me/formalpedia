@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_le_preimage_iff
 -- name    : GlobalTheory.HolHom.le_preimage_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:53.144479+00:00
 -- url     : https://prove2.me/theorems/ea9923b8-0ec5-49fb-9577-6fbd59f7873b

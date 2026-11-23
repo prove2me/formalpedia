@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodTate_rt_pow
 -- name    : GlobalTheory.PeriodTate.rt_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:41:26.244465+00:00
 -- url     : https://prove2.me/theorems/5bae5041-b6ec-4706-8185-08fa26cd681e

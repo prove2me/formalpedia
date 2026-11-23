@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteAbelianWeights_mem_weightSpace_iff
 -- name    : GlobalTheory.FiniteAbelianWeights.mem_weightSpace_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:09.704581+00:00
 -- url     : https://prove2.me/theorems/b63fa0dc-a036-4c81-ae9b-325b2349430d

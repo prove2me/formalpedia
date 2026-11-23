@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_datum_free_int
 -- name    : GlobalTheory.datum_free_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:57.059197+00:00
 -- url     : https://prove2.me/theorems/8ddd3031-a9c4-415a-a1c3-1e7aae1099a0

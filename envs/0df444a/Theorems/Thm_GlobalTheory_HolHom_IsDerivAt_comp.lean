@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_IsDerivAt_comp
 -- name    : GlobalTheory.HolHom.IsDerivAt.comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:45:46.052662+00:00
 -- url     : https://prove2.me/theorems/25f7a24d-7c17-4e1a-99f0-23b3ecbfdb98

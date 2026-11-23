@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_exists_move
 -- name    : GlobalTheory.FieldBaseChange.exists_move
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:17:53.482981+00:00
 -- url     : https://prove2.me/theorems/fe6b5a51-2341-4de7-904e-97cdc77b18a2

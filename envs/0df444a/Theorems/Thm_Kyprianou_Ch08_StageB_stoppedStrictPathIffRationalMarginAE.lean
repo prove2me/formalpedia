@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_stoppedStrictPathIffRationalMarginAE
 -- name    : Kyprianou.Ch08.StageB.stoppedStrictPathIffRationalMarginAE
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:32:24.649889+00:00
 -- url     : https://prove2.me/theorems/582debc4-35af-4163-8545-1b9244cd563d

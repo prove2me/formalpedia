@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergWeightDim_comm_mul_left
 -- name    : GlobalTheory.HeisenbergWeightDim.comm_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:57.193796+00:00
 -- url     : https://prove2.me/theorems/50e7c97c-0678-4ec6-8df8-97d2eff18c5c

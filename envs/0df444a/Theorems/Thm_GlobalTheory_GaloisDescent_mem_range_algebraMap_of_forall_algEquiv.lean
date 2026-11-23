@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_mem_range_algebraMap_of_forall_algEquiv
 -- name    : GlobalTheory.GaloisDescent.mem_range_algebraMap_of_forall_algEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:21.582801+00:00
 -- url     : https://prove2.me/theorems/37305f47-0dfd-4af6-87ed-7f3fd809ca1b

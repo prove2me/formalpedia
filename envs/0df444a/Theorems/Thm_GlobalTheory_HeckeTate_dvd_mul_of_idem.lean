@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_dvd_mul_of_idem
 -- name    : GlobalTheory.HeckeTate.dvd_mul_of_idem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:28.694838+00:00
 -- url     : https://prove2.me/theorems/62a4d8b6-0e6c-448f-b18a-c4b2ac827ec6

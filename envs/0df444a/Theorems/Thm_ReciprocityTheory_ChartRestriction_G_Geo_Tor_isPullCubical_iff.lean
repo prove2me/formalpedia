@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_isPullCubical_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.isPullCubical_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:17:53.800882+00:00
 -- url     : https://prove2.me/theorems/25128a36-be8a-4234-a55b-e529c97465f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_smul_mem_mults
 -- name    : GlobalTheory.HeckeTate.smul_mem_mults
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:36.357773+00:00
 -- url     : https://prove2.me/theorems/f8539739-d5ff-41d0-92a1-37aa0a9288e6

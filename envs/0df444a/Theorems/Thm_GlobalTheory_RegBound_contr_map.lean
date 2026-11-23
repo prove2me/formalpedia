@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_contr_map
 -- name    : GlobalTheory.RegBound.contr_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:18:25.673798+00:00
 -- url     : https://prove2.me/theorems/6d9a3702-3d6a-4b27-a17a-ba671e12bec9

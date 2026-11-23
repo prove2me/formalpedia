@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_glue_sec
 -- name    : GlobalTheory.LinDescent.glue_sec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:38:37.014334+00:00
 -- url     : https://prove2.me/theorems/0fa75270-d99c-42c1-95c8-31d60ac2e40f

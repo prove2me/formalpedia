@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_eta_congr
 -- name    : GlobalTheory.Moduli.LevelAction.eta_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:37:29.689393+00:00
 -- url     : https://prove2.me/theorems/24394d0c-a769-4e0b-be87-cfc9d8d6a106

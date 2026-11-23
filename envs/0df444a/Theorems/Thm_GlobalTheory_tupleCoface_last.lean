@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tupleCoface_last
 -- name    : GlobalTheory.tupleCoface_last
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:00.612694+00:00
 -- url     : https://prove2.me/theorems/bcc43ce1-503b-4ed1-8119-383fab3b8ebe

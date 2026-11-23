@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH1E6S15_part_062_2
 -- name    : RH1E6S15.part_062_2
--- status  : Open
+-- status  : Proved
 -- author  : @@bwdaugherty
 -- created : 2026-11-23T11:38:35.773626+00:00
 -- url     : https://prove2.me/theorems/b04d27e2-0faa-43e5-a010-0b9453ef5e01

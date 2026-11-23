@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_exists_cong_pow
+-- name    : GlobalTheory.CubeLift.exists_cong_pow
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T11:50:40.522936+00:00
+-- url     : https://prove2.me/theorems/0879f8d9-54d2-4611-bca6-08f2faf6927d
+-- title:
+--   Cube Lift: exists cong pow
+-- statement:
+--   The Cube Lift construction uses the exists cong pow property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UniformizationProofs/IsNilpotentOfRd.lean#L266-L270
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UniformizationProofs/IsNilpotentOfRd.lean#L266-L270
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UniformizationProofs_IsNilpotentOfRd
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open AddMonoidAlgebra
+open GlobalTheory GlobalTheory.CubeLift
+variable {A : Type} [CommRing A] {X Y W : Type} [AddCommGroup X] [AddCommGroup Y] [AddCommGroup W]
+
+theorem GlobalTheory.CubeLift.exists_cong_pow {J : Ideal A} (hJ : IsNilpotent J) :
+    ∃ n : ℕ, ∀ u : (A[X])ˣ, u ∈ cong (J ^ (n + 1)) → u = 1 := by sorry

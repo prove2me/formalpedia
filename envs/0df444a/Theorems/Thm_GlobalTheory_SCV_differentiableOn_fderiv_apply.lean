@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_differentiableOn_fderiv_apply
 -- name    : GlobalTheory.SCV.differentiableOn_fderiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:57:41.449214+00:00
 -- url     : https://prove2.me/theorems/38b42e83-dd17-4f78-87c8-906e15ac5f32

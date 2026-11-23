@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootUnit_gs_id
 -- name    : GlobalTheory.RootUnit.gs_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:34.857601+00:00
 -- url     : https://prove2.me/theorems/e5f3745b-2c16-4fde-bf0a-4615822bb773

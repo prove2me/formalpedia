@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_IsCub_N_split
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.IsCub.N_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:00.056086+00:00
 -- url     : https://prove2.me/theorems/cb5fc37e-50bf-48ac-a292-38b131def71c

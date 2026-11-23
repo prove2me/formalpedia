@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_stoppedStrictPathEventNullMeasurable
 -- name    : Kyprianou.Ch08.StageB.stoppedStrictPathEventNullMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:29:10.26321+00:00
 -- url     : https://prove2.me/theorems/67941d4c-78d8-4452-8774-492f9a0f098c

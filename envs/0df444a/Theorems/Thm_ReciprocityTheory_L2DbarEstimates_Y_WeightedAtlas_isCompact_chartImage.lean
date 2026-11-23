@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_isCompact_chartImage
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.isCompact_chartImage
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:51.063808+00:00
 -- url     : https://prove2.me/theorems/b5190ab3-8c2e-44ec-a5b1-a3a7118fe646

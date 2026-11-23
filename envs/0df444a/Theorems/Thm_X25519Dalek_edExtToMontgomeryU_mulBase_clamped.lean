@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_edExtToMontgomeryU_mulBase_clamped
 -- name    : X25519Dalek.edExtToMontgomeryU_mulBase_clamped
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-23T10:23:52.281185+00:00
 -- url     : https://prove2.me/theorems/ee5eb542-c4b4-4506-872b-1744caf9aabb

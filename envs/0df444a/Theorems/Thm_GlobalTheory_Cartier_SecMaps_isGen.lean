@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_SecMaps_isGen
 -- name    : GlobalTheory.Cartier.SecMaps.isGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:51.40537+00:00
 -- url     : https://prove2.me/theorems/b41781c8-78c0-4457-9b59-7185d0cfaac2

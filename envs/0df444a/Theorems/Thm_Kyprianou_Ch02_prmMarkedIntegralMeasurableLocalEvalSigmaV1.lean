@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmMarkedIntegralMeasurableLocalEvalSigmaV1
 -- name    : Kyprianou.Ch02.prmMarkedIntegralMeasurableLocalEvalSigmaV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:26:33.880798+00:00
 -- url     : https://prove2.me/theorems/8d0368ae-348b-43cf-b73d-c765b4259a55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_differentiableOn_tsum_of_locally_normal
 -- name    : GlobalTheory.SCV.differentiableOn_tsum_of_locally_normal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:40:23.659154+00:00
 -- url     : https://prove2.me/theorems/fa53c2d3-996a-4360-9ebf-3005788e4fc1

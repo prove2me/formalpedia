@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_H_F
 -- name    : GlobalTheory.AnArc.H_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:59.319642+00:00
 -- url     : https://prove2.me/theorems/a7a2b73e-aea7-49b8-9021-673746e891e5

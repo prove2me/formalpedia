@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_levi_civita_lowered_curvature_skew
 -- name    : NoHair.levi_civita_lowered_curvature_skew
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T11:46:43.022146+00:00
 -- url     : https://prove2.me/theorems/241014b1-c1de-4268-ab72-3afdef921cfd

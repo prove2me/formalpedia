@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_isOpen_of_isHolTo
 -- name    : GlobalTheory.HolHom.isOpen_of_isHolTo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:02.806325+00:00
 -- url     : https://prove2.me/theorems/f6c722ef-590e-45f9-b8d1-51ac576951ef
