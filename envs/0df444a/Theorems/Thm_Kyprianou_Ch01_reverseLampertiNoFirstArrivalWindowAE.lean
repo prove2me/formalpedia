@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNoFirstArrivalWindowAE
 -- name    : Kyprianou.Ch01.reverseLampertiNoFirstArrivalWindowAE
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:02:44.90861+00:00
 -- url     : https://prove2.me/theorems/e493ee2c-47d8-4b91-bbee-396672b0ff01

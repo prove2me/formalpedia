@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_chain_coupled_bound
 -- name    : Formalism.DimensionVariation.chain_coupled_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:11:22.082114+00:00
 -- url     : https://prove2.me/theorems/06943808-3a81-4239-b6c8-e683db84d2a0

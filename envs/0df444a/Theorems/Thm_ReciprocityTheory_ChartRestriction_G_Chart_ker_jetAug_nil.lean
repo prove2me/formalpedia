@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_ker_jetAug_nil
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.ker_jetAug_nil
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:53:00.317921+00:00
 -- url     : https://prove2.me/theorems/f240ba66-497e-44a5-9ce5-3094cc5b898b

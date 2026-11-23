@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W8_sum_ph_le_logFact
 -- name    : Formalism.DivisionValues.W8.sum_ph_le_logFact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:22:37.76056+00:00
 -- url     : https://prove2.me/theorems/9e6376ce-9beb-4524-88ec-36ebcf92c5c5

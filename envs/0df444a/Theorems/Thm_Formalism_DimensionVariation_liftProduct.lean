@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_liftProduct
 -- name    : Formalism.DimensionVariation.liftProduct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:12:21.577899+00:00
 -- url     : https://prove2.me/theorems/bb483c6b-e56e-4b67-a701-952b18798278

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_eval_first_point_rename
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.eval_first_point_rename
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:01.625815+00:00
 -- url     : https://prove2.me/theorems/cf6cc746-8c6e-4412-a427-6fc027f7d1a2

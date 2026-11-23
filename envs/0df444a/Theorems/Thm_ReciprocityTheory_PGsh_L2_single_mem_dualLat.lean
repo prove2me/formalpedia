@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_single_mem_dualLat
 -- name    : ReciprocityTheory.PGsh.L2.single_mem_dualLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:12.903505+00:00
 -- url     : https://prove2.me/theorems/e4c22db2-3d67-481f-82a8-5a2270d26be8

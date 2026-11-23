@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_mem_OO_of_vw_nonneg
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.mem_OO_of_vw_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:17:02.866717+00:00
 -- url     : https://prove2.me/theorems/29d63186-9c9f-4d7c-bac8-30375d1a2893

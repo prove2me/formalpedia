@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_gram_change
 -- name    : Formalism.DivisionValues.StepBAux.gram_change
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:40:09.00398+00:00
 -- url     : https://prove2.me/theorems/e1f133e8-6493-4b74-9858-eb1e5797cce1

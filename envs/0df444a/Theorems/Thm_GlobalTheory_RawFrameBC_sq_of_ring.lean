@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawFrameBC_sq_of_ring
 -- name    : GlobalTheory.RawFrameBC.sq_of_ring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:44:06.287394+00:00
 -- url     : https://prove2.me/theorems/78de297c-ca4e-4cbf-a395-c31fe43c69c4

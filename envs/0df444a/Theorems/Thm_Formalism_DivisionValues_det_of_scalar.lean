@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_det_of_scalar
 -- name    : Formalism.DivisionValues.det_of_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:32.274007+00:00
 -- url     : https://prove2.me/theorems/c9430088-328b-499f-8c3f-6a7232ce6452

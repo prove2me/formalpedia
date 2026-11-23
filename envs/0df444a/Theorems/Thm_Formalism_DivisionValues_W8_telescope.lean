@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W8_telescope
 -- name    : Formalism.DivisionValues.W8.telescope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:31.348771+00:00
 -- url     : https://prove2.me/theorems/23b96a90-f127-47ba-acd6-ec79b8eb70c8

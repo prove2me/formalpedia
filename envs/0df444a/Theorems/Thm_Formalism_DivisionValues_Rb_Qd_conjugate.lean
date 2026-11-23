@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_Rb_Qd_conjugate
 -- name    : Formalism.DivisionValues.Rb.Qd_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:18:27.414805+00:00
 -- url     : https://prove2.me/theorems/09dbf75d-0280-469c-978a-d5ce93030f4c

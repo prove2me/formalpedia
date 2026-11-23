@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_idx_change_img
 -- name    : Formalism.DivisionValues.StepBAux.idx_change_img
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:03:40.975509+00:00
 -- url     : https://prove2.me/theorems/a5f92978-28b5-4ded-b633-dc504fa92348

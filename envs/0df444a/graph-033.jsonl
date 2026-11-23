@@ -95163,7 +95163,7 @@
 {"parent": "Kyprianou.Ch03.firstPassageTransform_consequence_positive", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0178", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0178", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.source_technicalEsscherDensityConsistency_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.source_technicalEsscherDensityConsistency_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
 {"parent": "NearlyOptimalPPR.Computation.recursive_running_call_production", "child": "NearlyOptimalPPR_Computation_work_analysis", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.checked_D8_217", "child": "RealPinwheel_FiveSixths_WitnessD8_217", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_702", "child": "OAIQ259US022", "via": ["solution", "statement"]}

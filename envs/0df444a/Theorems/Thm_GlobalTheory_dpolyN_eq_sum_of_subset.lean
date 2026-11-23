@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dpolyN_eq_sum_of_subset
 -- name    : GlobalTheory.dpolyN_eq_sum_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:55.731814+00:00
 -- url     : https://prove2.me/theorems/068da712-a832-4e99-ae7d-74005ceae51d

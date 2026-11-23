@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_chain_spectrum
 -- name    : Formalism.DivisionValues.chain_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:46.101483+00:00
 -- url     : https://prove2.me/theorems/76deb034-558a-4e09-9b06-40920020299a

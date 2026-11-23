@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_IsPullUnifPre_toIsPullUnif
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.IsPullUnifPre.toIsPullUnif
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:16.598808+00:00
 -- url     : https://prove2.me/theorems/04eee14e-3e85-44cf-90b4-3a37e207e2e8

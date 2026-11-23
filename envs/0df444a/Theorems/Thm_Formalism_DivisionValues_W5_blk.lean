@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W5_blk
 -- name    : Formalism.DivisionValues.W5.blk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:20:58.044902+00:00
 -- url     : https://prove2.me/theorems/3a232723-7b92-471f-bc17-601a412a097a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_division_inequality_explicit
 -- name    : Formalism.DimensionVariation.division_inequality_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:07:09.897398+00:00
 -- url     : https://prove2.me/theorems/85c15791-a69e-4f84-b489-ec210d1fe2b7

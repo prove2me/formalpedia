@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_noConst_zvec
 -- name    : Formalism.BaseCaseIdentities.Data.noConst_zvec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:29.620806+00:00
 -- url     : https://prove2.me/theorems/173cbd62-97b6-4bc0-9cc2-785a42e215d1

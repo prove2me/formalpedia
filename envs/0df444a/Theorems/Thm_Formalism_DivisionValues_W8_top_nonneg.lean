@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W8_top_nonneg
 -- name    : Formalism.DivisionValues.W8.top_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:27.101802+00:00
 -- url     : https://prove2.me/theorems/34bd7197-1719-4c23-81d9-80dd7c4ef520

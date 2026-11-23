@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_valuation_det_eq_of_span_eq_alt
 -- name    : ReciprocityTheory.PGsh.L2.valuation_det_eq_of_span_eq_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:57.899128+00:00
 -- url     : https://prove2.me/theorems/ab827a0d-d30d-48ce-97d0-d67b86ec3540

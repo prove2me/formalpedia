@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_OrdGE_X
 -- name    : Formalism.BaseCaseIdentities.OrdGE.X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:18.773733+00:00
 -- url     : https://prove2.me/theorems/031a6d00-22b6-4b2b-9909-9c843b64214c

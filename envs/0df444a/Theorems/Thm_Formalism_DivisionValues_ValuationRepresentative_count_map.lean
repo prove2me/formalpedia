@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ValuationRepresentative_count_map
 -- name    : Formalism.DivisionValues.ValuationRepresentative.count_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:19:51.117377+00:00
 -- url     : https://prove2.me/theorems/63cc38fe-7052-4925-ae68-831743e1400d

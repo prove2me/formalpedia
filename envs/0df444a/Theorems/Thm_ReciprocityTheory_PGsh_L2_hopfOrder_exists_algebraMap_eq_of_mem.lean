@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_hopfOrder_exists_algebraMap_eq_of_mem
 -- name    : ReciprocityTheory.PGsh.L2.hopfOrder_exists_algebraMap_eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:50.504468+00:00
 -- url     : https://prove2.me/theorems/7d309ef7-aaa2-4627-a99c-54c81b9a809e

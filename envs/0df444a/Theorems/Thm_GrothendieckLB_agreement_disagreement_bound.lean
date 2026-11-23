@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_agreement_disagreement_bound
 -- name    : GrothendieckLB.agreement_disagreement_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:52:45.528578+00:00
 -- url     : https://prove2.me/theorems/a332a604-c7be-46ca-8062-28d2cebd3ce5

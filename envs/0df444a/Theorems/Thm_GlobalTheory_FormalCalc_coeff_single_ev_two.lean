@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_coeff_single_ev_two
 -- name    : GlobalTheory.FormalCalc.coeff_single_ev_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:17:56.721952+00:00
 -- url     : https://prove2.me/theorems/b44738ec-2e7f-4ba7-847f-6bad8cb58478

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CombMinor_det_mem
 -- name    : GlobalTheory.CombMinor.det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:40.75641+00:00
 -- url     : https://prove2.me/theorems/02b29512-daaf-485f-965c-69164e645c4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_DualLatticeDivisor_mem_range_of_vw_nonneg
 -- name    : Formalism.DivisionValues.DualLatticeDivisor.mem_range_of_vw_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:13:16.485793+00:00
 -- url     : https://prove2.me/theorems/6cc7cd9a-78d0-40e9-8707-03ff92311c19

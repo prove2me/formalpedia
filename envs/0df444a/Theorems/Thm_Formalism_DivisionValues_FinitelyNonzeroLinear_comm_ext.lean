@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_comm_ext
 -- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.comm_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:55:56.618135+00:00
 -- url     : https://prove2.me/theorems/0b2e3064-5b4d-4695-a1ef-97c967bb27ff

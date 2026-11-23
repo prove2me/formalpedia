@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_Rb_place_ineq
 -- name    : Formalism.DivisionValues.Rb.place_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:18:51.730336+00:00
 -- url     : https://prove2.me/theorems/72d067fc-9259-4262-a919-32aa3de006db

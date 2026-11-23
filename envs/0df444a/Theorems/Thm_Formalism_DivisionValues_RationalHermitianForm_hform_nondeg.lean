@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_RationalHermitianForm_hform_nondeg
 -- name    : Formalism.DivisionValues.RationalHermitianForm.hform_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:44:29.868431+00:00
 -- url     : https://prove2.me/theorems/0622014f-b153-4b3e-a990-0a0e8042a2ca

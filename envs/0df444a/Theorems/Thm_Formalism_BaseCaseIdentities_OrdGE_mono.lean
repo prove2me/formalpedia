@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_OrdGE_mono
 -- name    : Formalism.BaseCaseIdentities.OrdGE.mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:59.913559+00:00
 -- url     : https://prove2.me/theorems/955c2ad9-5b99-4e4d-b3df-eb5d2f3a53b3

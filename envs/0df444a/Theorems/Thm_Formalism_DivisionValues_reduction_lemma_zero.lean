@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_reduction_lemma_zero
 -- name    : Formalism.DivisionValues.reduction_lemma_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:21:19.878474+00:00
 -- url     : https://prove2.me/theorems/a3a6acfb-8f32-46c0-b865-9bb2266c4114

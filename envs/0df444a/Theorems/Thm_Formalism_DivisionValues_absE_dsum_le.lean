@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_absE_dsum_le
 -- name    : Formalism.DivisionValues.absE_dsum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:22.879411+00:00
 -- url     : https://prove2.me/theorems/ac0e72ac-df2c-4811-b95e-26a1f08af665

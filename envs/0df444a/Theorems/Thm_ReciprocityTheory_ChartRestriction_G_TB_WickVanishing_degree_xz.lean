@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_degree_xz
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.degree_xz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:42.1618+00:00
 -- url     : https://prove2.me/theorems/1bd89c37-ba8c-47b6-9245-efce7362ea7b

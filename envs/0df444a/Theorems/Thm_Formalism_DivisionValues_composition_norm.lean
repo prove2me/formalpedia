@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_composition_norm
 -- name    : Formalism.DivisionValues.composition_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:42.670916+00:00
 -- url     : https://prove2.me/theorems/c5d38ece-8a76-48b2-8090-0e0382aaa496

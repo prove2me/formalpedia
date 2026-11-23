@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_valuation_basic_properties
 -- name    : Formalism.DivisionValues.valuation_basic_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:53:08.112158+00:00
 -- url     : https://prove2.me/theorems/a309d628-72f6-4be4-95c5-6338c015ea48

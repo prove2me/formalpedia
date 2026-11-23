@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_coboundary_of_restrict
 -- name    : GlobalTheory.CatCoh.Desc.coboundary_of_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:36.777835+00:00
 -- url     : https://prove2.me/theorems/c2533137-3aa3-42a4-93d3-8eee076a3597

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_coeff_Psi
 -- name    : Formalism.BaseCaseIdentities.Data.coeff_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:54.651981+00:00
 -- url     : https://prove2.me/theorems/4ffcb185-fb5f-4d5d-a15b-662647dbb40b

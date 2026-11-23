@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_span_mk_top
 -- name    : ReciprocityTheory.PGsh.Up.span_mk_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:06.844682+00:00
 -- url     : https://prove2.me/theorems/1e525723-8c7d-4492-ac39-93468196757c

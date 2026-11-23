@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_conjT_mul_mul_apply
 -- name    : Formalism.DivisionValues.conjT_mul_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:27.396846+00:00
 -- url     : https://prove2.me/theorems/33154166-5c8c-48f4-8066-a399ed9ffd9f

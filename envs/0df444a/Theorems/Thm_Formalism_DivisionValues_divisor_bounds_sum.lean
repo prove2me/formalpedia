@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_divisor_bounds_sum
 -- name    : Formalism.DivisionValues.divisor_bounds_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:33.554544+00:00
 -- url     : https://prove2.me/theorems/2b0de509-17d5-48c3-ab34-3695a56b5fb6

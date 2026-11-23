@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_exists_initial
 -- name    : GlobalTheory.CatCoh.Desc.exists_initial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:29.596795+00:00
 -- url     : https://prove2.me/theorems/74f6bf08-b810-4b07-9a3c-946d6257af59

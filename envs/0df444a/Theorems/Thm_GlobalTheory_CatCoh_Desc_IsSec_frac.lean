@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_IsSec_frac
 -- name    : GlobalTheory.CatCoh.Desc.IsSec.frac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:23.64152+00:00
 -- url     : https://prove2.me/theorems/e8bd80f5-fbcc-49af-99f8-115f42dd9cce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W8_sum_univ_cast
 -- name    : Formalism.DivisionValues.W8.sum_univ_cast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:19.424797+00:00
 -- url     : https://prove2.me/theorems/77d64d55-3629-4fc7-96e3-1ec1327982de

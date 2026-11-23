@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W5_logp
 -- name    : Formalism.DivisionValues.W5.logp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:51:23.984948+00:00
 -- url     : https://prove2.me/theorems/1a20ec96-9626-4b92-92ca-19a9edca399f

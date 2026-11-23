@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_divisor_bounds_first
 -- name    : Formalism.BranchingDeterminantCap.divisor_bounds_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:04.631751+00:00
 -- url     : https://prove2.me/theorems/fea403f7-1e0f-425d-a502-d9df03fec828

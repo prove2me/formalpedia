@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_tableM_isUnit
 -- name    : ReciprocityTheory.PGsh.L2.tableM_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:24.886637+00:00
 -- url     : https://prove2.me/theorems/46bc7dc3-2a85-4967-a675-2a9cbbad3bcb

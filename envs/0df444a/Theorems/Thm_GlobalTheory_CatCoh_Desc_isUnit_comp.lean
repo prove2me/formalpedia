@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_isUnit_comp
 -- name    : GlobalTheory.CatCoh.Desc.isUnit_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:32.714304+00:00
 -- url     : https://prove2.me/theorems/f98e3cdf-5301-4aa4-a11a-4b97f5235fcd

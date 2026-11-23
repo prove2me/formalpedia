@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_lift_first_descent
 -- name    : Formalism.DimensionVariation.lift_first_descent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:12:08.126099+00:00
 -- url     : https://prove2.me/theorems/ae910252-878a-42ac-b9af-39d1ae520c50

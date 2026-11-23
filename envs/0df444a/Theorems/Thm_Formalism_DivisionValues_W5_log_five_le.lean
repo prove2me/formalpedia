@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W5_log_five_le
 -- name    : Formalism.DivisionValues.W5.log_five_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:20:45.012357+00:00
 -- url     : https://prove2.me/theorems/c3a75447-a92c-41c4-bbd7-2fe3a3589019

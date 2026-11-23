@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_mem_of_mem_span_fraction
 -- name    : GlobalTheory.exists_smul_mem_of_mem_span_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:56.77071+00:00
 -- url     : https://prove2.me/theorems/aa43006a-4770-45fc-8cf6-ff74c98d6c8a

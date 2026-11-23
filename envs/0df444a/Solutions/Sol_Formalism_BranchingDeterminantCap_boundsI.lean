@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.BranchingDeterminantCap.boundsI
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T14:35:37.729569+00:00
+-- url     : https://prove2.me/submissions/80b7b983-a886-4ec5-aaa4-a80ecfd567e0
+
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_BoundsIVal
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchScale
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchMap
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_XiNorm
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_GoodDual
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_Interlace
+import Definitions.Def_Formalism_BranchSandwichDivisors_StatementJ
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_MapScale
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_Numeric
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_OrthSum
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_StepDiii
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_Transfer
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_TransferMean
+import Definitions.Def_Formalism_BranchSandwichDivisors_DivFromPassageAndNorm
+import Theorems.Thm_Formalism_BranchingDeterminantCap_divisor_bounds_first
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.BranchingDeterminantCap
+namespace Formalism.BranchingDeterminantCap
+theorem _root_.solution : BoundsI := divisor_bounds_first
+end Formalism.BranchingDeterminantCap

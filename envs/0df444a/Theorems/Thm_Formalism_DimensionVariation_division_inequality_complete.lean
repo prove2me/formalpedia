@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_division_inequality_complete
 -- name    : Formalism.DimensionVariation.division_inequality_complete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:53:21.234909+00:00
 -- url     : https://prove2.me/theorems/f56a4130-23ec-4506-960a-97865a28a3d1

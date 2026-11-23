@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_iSup_simEig_top
 -- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.iSup_simEig_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:14:06.476724+00:00
 -- url     : https://prove2.me/theorems/b07bcb76-b255-417d-a200-3c987726c541

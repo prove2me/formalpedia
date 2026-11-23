@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_liftOperatorBound
 -- name    : Formalism.DimensionVariation.liftOperatorBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:55:08.073799+00:00
 -- url     : https://prove2.me/theorems/31961a8d-c965-4686-82fe-f63b78982a22

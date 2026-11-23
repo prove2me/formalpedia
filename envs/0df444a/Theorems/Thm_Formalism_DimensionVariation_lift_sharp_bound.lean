@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_lift_sharp_bound
 -- name    : Formalism.DimensionVariation.lift_sharp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:12:46.326797+00:00
 -- url     : https://prove2.me/theorems/4adb6367-f498-4b3e-a4d3-eb74760db8db

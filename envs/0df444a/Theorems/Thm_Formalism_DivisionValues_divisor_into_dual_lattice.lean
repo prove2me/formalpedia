@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_divisor_into_dual_lattice
 -- name    : Formalism.DivisionValues.divisor_into_dual_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:51.077319+00:00
 -- url     : https://prove2.me/theorems/ed125579-4e0f-4fd6-ae19-0ba987de21e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_localization_eq_and_conj_eq_of_semilocalization_eq
 -- name    : Formalism.DivisionValues.StepBAux.localization_eq_and_conj_eq_of_semilocalization_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:04:07.009526+00:00
 -- url     : https://prove2.me/theorems/cd9c92b1-851c-459f-b6c4-e2906c195efa

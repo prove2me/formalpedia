@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_technicalEsscherDensityConsistency_v2
 -- name    : Kyprianou.Ch08.StageB.source_technicalEsscherDensityConsistency_v2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T11:24:37.014202+00:00
 -- url     : https://prove2.me/theorems/a3a9ccea-f5f8-4e86-b430-1e9b2ca586ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjModFinIso_projective_of_isTorsionFree
 -- name    : GlobalTheory.ProjModFinIso.projective_of_isTorsionFree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:42.524101+00:00
 -- url     : https://prove2.me/theorems/b7d9050a-3109-4afb-9b2b-266742f3e6be

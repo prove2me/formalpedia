@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_Zb_dom
+-- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.Zb_dom
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T14:43:52.643683+00:00
+-- url     : https://prove2.me/theorems/d74ebe54-b691-4318-aeb3-9bccbc0951fb
+-- title:
+--   Data: Zb dom
+-- statement:
+--   The Data construction uses the Zb dom property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/FundamentalDomains/SpanColsMul.lean#L120-L129
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/FundamentalDomains/SpanColsMul.lean#L120-L129
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_IsotropicOutsideLine
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_MajPos
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_SpanColsMul
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.FD
+open NumberField Complex Matrix
+open scoped ComplexConjugate
+variable {E : Type} [Field E] [NumberField E] [IsCMField E]
+open ReciprocityTheory.ChartRestriction.G.FD.Data
+variable {r : ℕ} (X : Data E r)
+
+theorem ReciprocityTheory.ChartRestriction.G.FD.Data.Zb_dom (u : Fin 2 → Fin r → E) (hu : ∀ i k, herm X.Gm (u i) (u k) = 0)
+    (b : X.Ψ → Fin 2 → Fin 2 → ℂ) (hb : IsHermFam b) {x : Frame X.Ψ r} (hx : x ∈ X.dom) :
+    X.Zb u b x ∈ X.dom := by sorry

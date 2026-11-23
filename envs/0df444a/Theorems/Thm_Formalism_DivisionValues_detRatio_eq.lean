@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_detRatio_eq
 -- name    : Formalism.DivisionValues.detRatio_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:39.908856+00:00
 -- url     : https://prove2.me/theorems/c4bfd72e-a227-465a-8c61-a05d97a0776d

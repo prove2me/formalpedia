@@ -82363,11 +82363,11 @@
 {"parent": "KarpLiptonOM.lemma_A_3_8", "child": "CookPvsNP_defs", "via": ["statement"]}
 {"parent": "KarpLiptonOM.lemma_A_3_8", "child": "KarpLiptonOM_PH", "via": ["statement"]}
 {"parent": "PathORAMCap.lemma_4_21", "child": "PathORAMCap_QLaw", "via": ["statement"]}
-{"parent": "GrothendieckLB.agreement_disagreement_bound", "child": "GrothendieckLB_disagreePart", "via": ["statement"]}
-{"parent": "GrothendieckLB.agreement_disagreement_bound", "child": "GrothendieckLB_B1", "via": ["statement"]}
-{"parent": "GrothendieckLB.agreement_disagreement_bound", "child": "GrothendieckLB_D1", "via": ["statement"]}
-{"parent": "GrothendieckLB.agreement_disagreement_bound", "child": "GrothendieckLB_IsSignFn", "via": ["statement"]}
-{"parent": "GrothendieckLB.agreement_disagreement_bound", "child": "GrothendieckLB_agreePart", "via": ["statement"]}
+{"parent": "GrothendieckLB.agreement_disagreement_bound", "child": "GrothendieckLB_disagreePart", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.agreement_disagreement_bound", "child": "GrothendieckLB_B1", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.agreement_disagreement_bound", "child": "GrothendieckLB_D1", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.agreement_disagreement_bound", "child": "GrothendieckLB_IsSignFn", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.agreement_disagreement_bound", "child": "GrothendieckLB_agreePart", "via": ["solution", "statement"]}
 {"parent": "HalfIndMatch_greedyOut", "child": "HalfIndMatch_IsInducedMatching", "via": ["statement"]}
 {"parent": "MCPoise_auxGraph", "child": "MCPoise_AVert", "via": ["statement"]}
 {"parent": "QEC_Bounds_BPTDisentangling_NoCloning_ProductUnitary", "child": "QEC_Bounds_BPTDisentangling_NoCloning_PartialTrace", "via": ["statement"]}

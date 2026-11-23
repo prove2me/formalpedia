@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_isLocBasis_image
 -- name    : Formalism.DivisionValues.StepBAux.isLocBasis_image
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:19:34.7258+00:00
 -- url     : https://prove2.me/theorems/281ef90e-74a6-445c-a5ca-19beb3e03d52

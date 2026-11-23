@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_coeff_mul_X_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.coeff_mul_X_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:50.986486+00:00
 -- url     : https://prove2.me/theorems/b0ed10d3-532b-4e9f-b7e3-fb728fac0b15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_v_intCast_eq_one
 -- name    : ReciprocityTheory.PGsh.Up.U3.v_intCast_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:17.306571+00:00
 -- url     : https://prove2.me/theorems/2c98c0b7-8fce-4109-b1a0-151a10e370b0

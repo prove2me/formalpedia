@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNoJumpStateRemainsInitial
 -- name    : Kyprianou.Ch01.reverseLampertiNoJumpStateRemainsInitial
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-23T13:33:44.336614+00:00
 -- url     : https://prove2.me/theorems/9382d922-6a41-404a-99f0-f54469c1d381

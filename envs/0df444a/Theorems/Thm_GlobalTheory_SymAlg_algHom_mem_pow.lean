@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymAlg_algHom_mem_pow
 -- name    : GlobalTheory.SymAlg.algHom_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:01.529799+00:00
 -- url     : https://prove2.me/theorems/292017c4-1269-41f0-b8b8-5dac4c897437

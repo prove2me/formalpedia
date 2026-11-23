@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_cosetCoordinateMatrix_add
 -- name    : ReciprocityTheory.PGsh.L2.cosetCoordinateMatrix_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:25:07.713401+00:00
 -- url     : https://prove2.me/theorems/6d5a5c67-0b77-4d60-b4f5-20c51e3fa387

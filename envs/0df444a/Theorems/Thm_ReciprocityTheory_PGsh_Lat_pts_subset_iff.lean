@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Lat_pts_subset_iff
 -- name    : ReciprocityTheory.PGsh.Lat.pts_subset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:19:35.606487+00:00
 -- url     : https://prove2.me/theorems/b06580e2-049b-4f8e-b4ab-f3cdab04e9bd

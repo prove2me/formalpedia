@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for Formalism.DivisionValues.reduction_lemma_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T14:40:38.223706+00:00
+-- url     : https://prove2.me/submissions/9382b806-2ee7-4689-b813-6a0ccf812a83
+
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjTransposeEqOfPosDef
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaFirst
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaSecond
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SpecDet
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionSecondStep
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_VwEqZeroOfNotMem
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionThirdStepMean
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsSum
+import Definitions.Def_Formalism_LogFactorialIndices_SignedSubspaceIndex_SumInterlacedBoundFails
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_TheoremFSharp
+import Definitions.Def_Formalism_QuotientMetricDivisors_ReductionLemmaZero
+import Theorems.Thm_Formalism_DivisionValues_gram_determinant_quotient_metric
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.DivisionValues
+namespace Formalism.DivisionValues
+theorem _root_.solution : GramDeterminantQuotientMetric := gram_determinant_quotient_metric
+end Formalism.DivisionValues

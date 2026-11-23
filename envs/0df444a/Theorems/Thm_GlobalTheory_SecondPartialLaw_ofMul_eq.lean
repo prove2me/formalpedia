@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecondPartialLaw_ofMul_eq
 -- name    : GlobalTheory.SecondPartialLaw.ofMul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:24:43.849744+00:00
 -- url     : https://prove2.me/theorems/f2aca132-4a8f-4bc8-ab06-15b15bfd3c1c

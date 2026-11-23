@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_4_esscher_shifted_v2
 -- name    : Kyprianou.Ch08.StageB.source_result8_4_esscher_shifted_v2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:20:45.936221+00:00
 -- url     : https://prove2.me/theorems/c7acd269-7433-4157-91de-87806fb949a6

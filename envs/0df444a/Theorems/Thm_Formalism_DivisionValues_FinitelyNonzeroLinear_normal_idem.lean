@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_normal_idem
 -- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.normal_idem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:56:37.615911+00:00
 -- url     : https://prove2.me/theorems/4a5879db-f291-4e40-bdfa-ca3c1d4da12a

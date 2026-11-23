@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_noConst_zero
 -- name    : Formalism.BaseCaseIdentities.Data.noConst_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:47.966167+00:00
 -- url     : https://prove2.me/theorems/e4189318-c777-483f-9051-7d441406233a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_error_absorption
 -- name    : Formalism.DivisionValues.error_absorption
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:29.884805+00:00
 -- url     : https://prove2.me/theorems/5d50847e-58cd-4133-bfa1-3118e1cf3f10

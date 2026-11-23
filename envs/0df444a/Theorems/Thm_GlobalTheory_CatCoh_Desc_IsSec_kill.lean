@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_IsSec_kill
 -- name    : GlobalTheory.CatCoh.Desc.IsSec.kill
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:25:46.393446+00:00
 -- url     : https://prove2.me/theorems/df480e08-8075-4bae-91c7-63126e9c28d7

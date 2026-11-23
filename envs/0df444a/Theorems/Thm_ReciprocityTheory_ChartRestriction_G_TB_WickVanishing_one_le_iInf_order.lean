@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_one_le_iInf_order
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.one_le_iInf_order
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:05.059798+00:00
 -- url     : https://prove2.me/theorems/629dabda-9f57-44bc-a87b-50f409abe9b0

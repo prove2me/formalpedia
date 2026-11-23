@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_divisor_inequality_assembly
 -- name    : Formalism.DivisionValues.divisor_inequality_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:29.416113+00:00
 -- url     : https://prove2.me/theorems/eb05ea42-4d13-45e6-b047-52dab3eee41b

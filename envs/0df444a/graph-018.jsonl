@@ -53650,8 +53650,8 @@
 {"parent": "BaconOQEC_SX", "child": "BaconOQEC_Bits", "via": ["statement"]}
 {"parent": "OAI.MaximalSeshadri.Geometry.projective_tensor_euler_difference", "child": "SeshadriPrelim6", "via": ["statement"]}
 {"parent": "OAI.MaximalSeshadri.Geometry.projective_tensor_euler_difference", "child": "MaximalSeshadriConstants", "via": ["statement"]}
-{"parent": "ReusableMatching.lemma_8", "child": "ReusableMatching_criticalThreshold", "via": ["statement"]}
-{"parent": "ReusableMatching.lemma_8", "child": "ReusableMatching_ThreeRegimes", "via": ["statement"]}
+{"parent": "ReusableMatching.lemma_8", "child": "ReusableMatching_criticalThreshold", "via": ["solution", "statement"]}
+{"parent": "ReusableMatching.lemma_8", "child": "ReusableMatching_ThreeRegimes", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaMomentResources.resources", "child": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedSourceCountExecutionFactory.Seed.finish", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaMomentResources.resources", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaSourceCertificate", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaMomentResources.resources", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaQueryModel", "via": ["solution", "statement"]}

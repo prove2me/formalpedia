@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W5_head_num
 -- name    : Formalism.DivisionValues.W5.head_num
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:21:11.144097+00:00
 -- url     : https://prove2.me/theorems/c26cd05e-0947-4911-a906-47e85897f06b

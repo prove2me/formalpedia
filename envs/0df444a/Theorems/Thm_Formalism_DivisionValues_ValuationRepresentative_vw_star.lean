@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ValuationRepresentative_vw_star
 -- name    : Formalism.DivisionValues.ValuationRepresentative.vw_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:53:11.895445+00:00
 -- url     : https://prove2.me/theorems/7ffd58f7-d034-4609-86ea-e87d9f2f4b66

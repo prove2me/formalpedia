@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_eq_zero_of_sum_mul_coset_eq_zero
 -- name    : ReciprocityTheory.PGsh.L2.eq_zero_of_sum_mul_coset_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:51.721108+00:00
 -- url     : https://prove2.me/theorems/cadd879f-05bf-442e-a157-4c67176a370a

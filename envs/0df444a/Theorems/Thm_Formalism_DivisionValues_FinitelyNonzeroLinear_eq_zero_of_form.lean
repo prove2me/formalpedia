@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_eq_zero_of_form
 -- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.eq_zero_of_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:14:14.572337+00:00
 -- url     : https://prove2.me/theorems/5565a6e3-e6a6-45b2-ad5b-cdbeeb393d41

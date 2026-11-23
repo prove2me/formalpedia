@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W5_place_sum_over_primes
 -- name    : Formalism.DivisionValues.W5.place_sum_over_primes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:23:09.551551+00:00
 -- url     : https://prove2.me/theorems/f7b9a2ca-01b1-46a7-9cc6-0f322ef4b3cb

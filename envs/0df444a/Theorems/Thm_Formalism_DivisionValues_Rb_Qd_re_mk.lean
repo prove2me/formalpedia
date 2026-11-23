@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_Rb_Qd_re_mk
 -- name    : Formalism.DivisionValues.Rb.Qd_re_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:18:51.836743+00:00
 -- url     : https://prove2.me/theorems/545ee1ca-b85c-4f6a-943c-60da6ff97115

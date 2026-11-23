@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_pullbackQuotient_apply_out
 -- name    : ReciprocityTheory.PGsh.L2.pullbackQuotient_apply_out
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:48.263383+00:00
 -- url     : https://prove2.me/theorems/7aec1cec-a4c9-4cd3-b1fa-fcbf7127793c

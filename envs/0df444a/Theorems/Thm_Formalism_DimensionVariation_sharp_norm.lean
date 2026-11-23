@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_sharp_norm
 -- name    : Formalism.DimensionVariation.sharp_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:56:23.162422+00:00
 -- url     : https://prove2.me/theorems/345d64e1-7c0c-4943-b88f-f1c1c5c0d30d

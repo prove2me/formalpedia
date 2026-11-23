@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_eq_of_ordGE
 -- name    : Formalism.BaseCaseIdentities.eq_of_ordGE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:32.588372+00:00
 -- url     : https://prove2.me/theorems/43d6b859-6940-4f57-a5bc-7dfffce6843e

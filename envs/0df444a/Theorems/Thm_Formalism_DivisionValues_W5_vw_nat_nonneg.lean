@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W5_vw_nat_nonneg
 -- name    : Formalism.DivisionValues.W5.vw_nat_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:23:12.552794+00:00
 -- url     : https://prove2.me/theorems/ac2b3d95-a12f-47c2-a9bd-37c8845d921b

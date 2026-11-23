@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_OrdGE_mul
 -- name    : Formalism.BaseCaseIdentities.OrdGE.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:00.476812+00:00
 -- url     : https://prove2.me/theorems/dba294c9-3dfa-4933-82bd-65fa29dc77e1

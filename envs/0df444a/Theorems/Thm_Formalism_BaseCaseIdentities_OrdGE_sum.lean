@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_OrdGE_sum
 -- name    : Formalism.BaseCaseIdentities.OrdGE.sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:12.963803+00:00
 -- url     : https://prove2.me/theorems/fc596dc2-5d94-44c8-8296-bf76fb3309c9

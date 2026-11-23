@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_vanishing_H1_inverting_morphisms
 -- name    : GlobalTheory.CatCoh.Desc.vanishing_H1_inverting_morphisms
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:36.84015+00:00
 -- url     : https://prove2.me/theorems/b8541ee7-647c-4c41-af6f-4d7bf6609549

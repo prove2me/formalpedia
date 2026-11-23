@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_liftOperatorBound_of_fockJet
 -- name    : Formalism.DimensionVariation.liftOperatorBound_of_fockJet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:11:29.298461+00:00
 -- url     : https://prove2.me/theorems/1969b318-192b-49a7-828f-834dec7a9e2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ValuationRepresentative_dvd_map_iff
 -- name    : Formalism.DivisionValues.ValuationRepresentative.dvd_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:19:44.768072+00:00
 -- url     : https://prove2.me/theorems/42781232-9f87-46bb-821e-a4aaf2f0edb5

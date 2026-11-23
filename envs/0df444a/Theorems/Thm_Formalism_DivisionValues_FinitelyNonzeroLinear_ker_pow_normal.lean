@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_ker_pow_normal
 -- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.ker_pow_normal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:14:08.961809+00:00
 -- url     : https://prove2.me/theorems/2fabfd99-ec13-490f-8d6c-327810a6c521

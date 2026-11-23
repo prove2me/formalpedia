@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_noConst_Psi
 -- name    : Formalism.BaseCaseIdentities.Data.noConst_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:12.631383+00:00
 -- url     : https://prove2.me/theorems/7abf7378-05f6-4a8d-a8c6-bb036d5920c4

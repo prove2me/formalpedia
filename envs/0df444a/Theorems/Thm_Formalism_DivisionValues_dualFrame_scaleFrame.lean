@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_dualFrame_scaleFrame
 -- name    : Formalism.DivisionValues.dualFrame_scaleFrame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:49.802706+00:00
 -- url     : https://prove2.me/theorems/1e342cb5-5a7f-4ac2-b83c-e9aa26a23f49

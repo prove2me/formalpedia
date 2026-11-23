@@ -21904,7 +21904,7 @@
 {"parent": "BinaryExtForm.HypercubeRank.Supplement.theorem_3_2", "child": "BinaryExtForm_HypercubeRank_Supplement_Formulation", "via": ["statement"]}
 {"parent": "Formalism.InvariantFactorPaths.L4.sl2_raise_pow_succ_lower_apply_eq", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_Sl2RaisePowSuccLowerApplyEq", "via": ["statement"]}
 {"parent": "Formalism.InvariantFactorPaths.L4.sl2_raise_pow_succ_lower_apply_eq", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_StatementD", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Chart.ker_jetAug_nil", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_UniversalCharts_SpanXLeKerAevalZero", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Chart.ker_jetAug_nil", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_UniversalCharts_SpanXLeKerAevalZero", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.biLe_one", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_StatementE", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.biLe_one", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_MinorProdBlockDegree", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_ExistsIrrCharAdd", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_ExistsCharacterQuotientOfInjectiveIntertwiningStatement", "via": ["statement"]}
@@ -81229,22 +81229,22 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsAnisotropicOrthogonalBasisHermitian", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_IsHermForm", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsAnisotropicOrthogonalBasisHermitian", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["statement"]}
 {"parent": "GlobalTheory.Retract.geometricallyConnected", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_LocallyOfFinitePresentation", "via": ["solution", "statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_GoodDual", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_XiNorm", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Numeric", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_StepDiii", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Transfer", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchScale", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MapScale", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BoundsIVal", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchMap", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_OrthSum", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_StatementJ", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_TransferMean", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_DivFromPassageAndNorm", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Interlace", "via": ["statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_GoodDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_XiNorm", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Numeric", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_StepDiii", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Transfer", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchScale", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MapScale", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BoundsIVal", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchMap", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_OrthSum", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_StatementJ", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_TransferMean", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_DivFromPassageAndNorm", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsI", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Interlace", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Retract.isFinite", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_LocallyOfFinitePresentation", "via": ["solution", "statement"]}
 {"parent": "CycleCanceling_MinMean_Supplement_PairError", "child": "CycleCanceling_MinMean_EpsOptimal", "via": ["statement"]}
 {"parent": "Formalism.BranchingDeterminantCap.bmG_sumA", "child": "Formalism_GradedWeylDivisibility_FinalC", "via": ["solution", "statement"]}
@@ -81668,22 +81668,22 @@
 {"parent": "ReciprocityTheory.MultiplicativeHeights.torusMean_holds", "child": "ReciprocityTheory_SemistableReduction_SphereLogIntegrableStatement", "via": ["statement"]}
 {"parent": "ReciprocityTheory.MultiplicativeHeights.torusMean_holds", "child": "ReciprocityTheory_SemistableReduction_TorusMeanD", "via": ["statement"]}
 {"parent": "ReciprocityTheory.MultiplicativeHeights.torusMean_holds", "child": "ReciprocityTheory_SemistableReduction_TorusMean", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_GoodDual", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_XiNorm", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Numeric", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_StepDiii", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Transfer", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchScale", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MapScale", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BoundsIVal", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchMap", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_OrthSum", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_StatementJ", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_TransferMean", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_DivFromPassageAndNorm", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Interlace", "via": ["statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_GoodDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_XiNorm", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Numeric", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_StepDiii", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Transfer", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchScale", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MapScale", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BoundsIVal", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchMap", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_OrthSum", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_StatementJ", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_TransferMean", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_DivFromPassageAndNorm", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.boundsIVal", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Interlace", "via": ["solution", "statement"]}
 {"parent": "Formalism.BranchingDeterminantCap.bmA_four_mid", "child": "Formalism_GradedWeylDivisibility_FinalC", "via": ["solution", "statement"]}
 {"parent": "Formalism.BranchingDeterminantCap.bmA_four_mid", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq", "via": ["solution", "statement"]}
 {"parent": "Formalism.BranchingDeterminantCap.bmA_four_mid", "child": "Formalism_BranchSandwichDivisors_StatementW", "via": ["solution", "statement"]}
@@ -82513,11 +82513,11 @@
 {"parent": "ReciprocityTheory.MultiplicativeHeights.Closed.sphereLogIntegrable", "child": "ReciprocityTheory_SemistableReduction_TorusMean", "via": ["statement"]}
 {"parent": "ReciprocityTheory.MultiplicativeHeights.Closed.sphereLogIntegrable", "child": "ReciprocityTheory_SemistableReduction_SphereTorus", "via": ["statement"]}
 {"parent": "ReciprocityTheory.MultiplicativeHeights.Closed.sphereLogIntegrable", "child": "ReciprocityTheory_SemistableReduction_IntCores", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.divisor_bounds_first", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_GoodDual", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.divisor_bounds_first", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_DualLattice", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.divisor_bounds_first", "child": "Formalism_BranchSandwichDivisors_StatementL", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.divisor_bounds_first", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_DualBasic", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.divisor_bounds_first", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_RatHerm", "via": ["statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.divisor_bounds_first", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_GoodDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.divisor_bounds_first", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_DualLattice", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.divisor_bounds_first", "child": "Formalism_BranchSandwichDivisors_StatementL", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.divisor_bounds_first", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_DualBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.divisor_bounds_first", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_RatHerm", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_G_FD_PerpBasisExistence_herm_sum_left__9bdb38af119e", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_OrthogonalComplementLines", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_G_FD_PerpBasisExistence_herm_sum_left__9bdb38af119e", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_PerpBasisExistence", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_G_FD_PerpBasisExistence_herm_sum_left__9bdb38af119e", "child": "ReciprocityTheory_SemistableReduction_TorsionNonvanishStatement", "via": ["solution", "statement"]}
@@ -84761,10 +84761,10 @@
 {"parent": "Formalism.CountingSumsFrames.Har4.yFact_ne_zero", "child": "Formalism_PolynomialDimension_MultinomialDepth_SqrtFockGaussLatticeComparisonHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.Har4.yFact_ne_zero", "child": "Formalism_PolynomialDimension_StatementHar", "via": ["solution", "statement"]}
 {"parent": "Bl.FirstLemmaL.goal1", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_CapelliComplements_FirstLemmaL", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.exists_smul_mem_of_mem_span_fraction", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["statement"]}
-{"parent": "GlobalTheory.exists_smul_mem_of_mem_span_fraction", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_Imports", "via": ["statement"]}
-{"parent": "GlobalTheory.exists_smul_mem_of_mem_span_fraction", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExistsSmulMemOfMemSpanFraction", "via": ["statement"]}
-{"parent": "GlobalTheory.exists_smul_mem_of_mem_span_fraction", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
+{"parent": "GlobalTheory.exists_smul_mem_of_mem_span_fraction", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.exists_smul_mem_of_mem_span_fraction", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_Imports", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.exists_smul_mem_of_mem_span_fraction", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExistsSmulMemOfMemSpanFraction", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.exists_smul_mem_of_mem_span_fraction", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}
 {"parent": "Formalism.CohomologicalDescent.HeightDescentMinors.prod_Ioo_eq_prod_range", "child": "Formalism_PieriBlockIdeals_CapelliCentralEnveloping", "via": ["solution", "statement"]}
 {"parent": "Formalism.CohomologicalDescent.HeightDescentMinors.prod_Ioo_eq_prod_range", "child": "Formalism_PieriBlockIdeals_PieriColumnMinors_HeightDescentMinors", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.Har2.ctrDiv_mem", "child": "Formalism_PolynomialDimension_MultinomialDepth_HarmonicDecompositionHolds", "via": ["solution", "statement"]}
