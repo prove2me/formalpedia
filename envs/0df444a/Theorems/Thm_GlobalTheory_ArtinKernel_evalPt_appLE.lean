@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_evalPt_appLE
 -- name    : GlobalTheory.ArtinKernel.evalPt_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:39.602924+00:00
 -- url     : https://prove2.me/theorems/c92ba7a5-8831-4f9a-a7f9-c15c91af348d

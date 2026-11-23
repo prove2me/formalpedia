@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_top_le_const
 -- name    : GlobalTheory.ArtinKernel.top_le_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:08.136217+00:00
 -- url     : https://prove2.me/theorems/2f76aa52-3204-4df0-8051-984366c189a3

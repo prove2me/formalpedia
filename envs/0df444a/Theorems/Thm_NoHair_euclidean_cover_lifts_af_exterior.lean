@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_euclidean_cover_lifts_af_exterior
 -- name    : NoHair.euclidean_cover_lifts_af_exterior
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T10:58:54.693057+00:00
 -- url     : https://prove2.me/theorems/6829e9c1-fbbc-47b3-8991-bdb12503cc5a

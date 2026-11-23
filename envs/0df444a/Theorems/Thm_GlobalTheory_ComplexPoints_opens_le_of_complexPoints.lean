@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPoints_opens_le_of_complexPoints
 -- name    : GlobalTheory.ComplexPoints.opens_le_of_complexPoints
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:27.145062+00:00
 -- url     : https://prove2.me/theorems/1b124962-e0a4-42e7-8fed-9f67eef12d22

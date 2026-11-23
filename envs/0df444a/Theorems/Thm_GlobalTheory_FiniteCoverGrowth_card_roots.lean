@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCoverGrowth_card_roots
 -- name    : GlobalTheory.FiniteCoverGrowth.card_roots
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:05:57.821805+00:00
 -- url     : https://prove2.me/theorems/b2f9bf41-f9b7-4885-9d7f-141acb13fb16

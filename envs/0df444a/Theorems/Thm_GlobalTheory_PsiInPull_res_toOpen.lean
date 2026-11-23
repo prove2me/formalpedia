@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiInPull_res_toOpen
 -- name    : GlobalTheory.PsiInPull.res_toOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:31.752879+00:00
 -- url     : https://prove2.me/theorems/3eb7c5b2-7d4e-4c36-9c82-187e66b1cf90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolTorsion_isHolTo_congr
 -- name    : GlobalTheory.HolTorsion.isHolTo_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:01.970184+00:00
 -- url     : https://prove2.me/theorems/f2f1df84-d0fa-49ad-9587-f46f76903a57

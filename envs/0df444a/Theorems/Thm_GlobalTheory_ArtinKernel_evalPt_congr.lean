@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_evalPt_congr
 -- name    : GlobalTheory.ArtinKernel.evalPt_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:57.918245+00:00
 -- url     : https://prove2.me/theorems/6104a34a-71f8-46b3-ad9e-a8982c9f426d

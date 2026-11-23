@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPoints_exists_geomPoint_mem
 -- name    : GlobalTheory.ComplexPoints.exists_geomPoint_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:07:10.759846+00:00
 -- url     : https://prove2.me/theorems/2d4db801-d390-4cee-8da5-fc27b2b126bf

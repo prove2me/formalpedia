@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedCoord_eventually_le
 -- name    : GlobalTheory.AdaptedCoord.eventually_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:36.456942+00:00
 -- url     : https://prove2.me/theorems/8e32b6bf-752c-453c-a763-9c1fae890d96

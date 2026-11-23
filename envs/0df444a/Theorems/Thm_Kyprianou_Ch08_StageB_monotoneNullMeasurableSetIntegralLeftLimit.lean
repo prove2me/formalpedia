@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_monotoneNullMeasurableSetIntegralLeftLimit
 -- name    : Kyprianou.Ch08.StageB.monotoneNullMeasurableSetIntegralLeftLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T10:45:48.363567+00:00
 -- url     : https://prove2.me/theorems/23c0e5e8-b9b9-499a-9824-f3e0c6932d16

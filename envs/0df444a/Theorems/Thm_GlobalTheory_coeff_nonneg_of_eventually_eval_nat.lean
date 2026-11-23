@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_nonneg_of_eventually_eval_nat
 -- name    : GlobalTheory.coeff_nonneg_of_eventually_eval_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:32.469597+00:00
 -- url     : https://prove2.me/theorems/8f1c2e67-ef94-41d9-aebd-9dc0beb138a5

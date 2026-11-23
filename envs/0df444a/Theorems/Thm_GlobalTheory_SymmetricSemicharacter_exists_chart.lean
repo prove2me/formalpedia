@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmetricSemicharacter_exists_chart
 -- name    : GlobalTheory.SymmetricSemicharacter.exists_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:07:36.564013+00:00
 -- url     : https://prove2.me/theorems/2eb81cab-6fcb-4974-971d-7e675c800494

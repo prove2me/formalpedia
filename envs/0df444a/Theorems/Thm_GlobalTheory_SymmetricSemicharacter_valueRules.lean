@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmetricSemicharacter_valueRules
 -- name    : GlobalTheory.SymmetricSemicharacter.valueRules
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:07:31.300884+00:00
 -- url     : https://prove2.me/theorems/09495390-df1a-407d-b9b2-423b2a750511

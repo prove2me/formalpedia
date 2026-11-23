@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_sub_eq_one
 -- name    : GlobalTheory.LevelFibre.sub_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:24.024806+00:00
 -- url     : https://prove2.me/theorems/a70b3dbe-4958-4653-9d0e-872ad4ed7b9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_val_symGen
 -- name    : GlobalTheory.SymLiftOdd.val_symGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:07.274843+00:00
 -- url     : https://prove2.me/theorems/45a2510d-33fc-4740-a7cf-e8f1182906f7

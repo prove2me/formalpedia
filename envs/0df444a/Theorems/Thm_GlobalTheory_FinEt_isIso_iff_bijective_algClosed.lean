@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_isIso_iff_bijective_algClosed
 -- name    : GlobalTheory.FinEt.isIso_iff_bijective_algClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:10:24.114564+00:00
 -- url     : https://prove2.me/theorems/07f044a3-9ecb-47d9-9e45-355438a7e39e

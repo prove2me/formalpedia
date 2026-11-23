@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_countable_of_isDiscrete_finiteDimensional
 -- name    : GlobalTheory.countable_of_isDiscrete_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:09.94819+00:00
 -- url     : https://prove2.me/theorems/4ea73ecc-eb61-4578-9bc5-0e7f998c9eb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har2_finrank_har
 -- name    : Formalism.CountingSumsFrames.Har2.finrank_har
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:36:47.987715+00:00
 -- url     : https://prove2.me/theorems/58207eff-5c83-4306-ba12-222860ff39d4

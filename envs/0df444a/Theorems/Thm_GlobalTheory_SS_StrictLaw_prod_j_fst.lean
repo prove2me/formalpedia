@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictLaw_prod_j_fst
 -- name    : GlobalTheory.SS.StrictLaw.prod_j_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:59:53.259275+00:00
 -- url     : https://prove2.me/theorems/4edda264-6631-4c32-9ae4-edbcbbfd504f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_asymptotically_flat_end_proper_cylinder
 -- name    : NoHair.asymptotically_flat_end_proper_cylinder
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T11:07:02.611362+00:00
 -- url     : https://prove2.me/theorems/f69de764-6908-4b39-b20f-f400ec80dead

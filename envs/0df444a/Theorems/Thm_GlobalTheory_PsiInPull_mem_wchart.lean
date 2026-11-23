@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiInPull_mem_wchart
 -- name    : GlobalTheory.PsiInPull.mem_wchart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:32.365433+00:00
 -- url     : https://prove2.me/theorems/5224a792-b5a0-432c-89c9-e5cd83295481

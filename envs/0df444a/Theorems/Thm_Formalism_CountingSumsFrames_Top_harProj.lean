@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_harProj
 -- name    : Formalism.CountingSumsFrames.Top.harProj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:33:52.214705+00:00
 -- url     : https://prove2.me/theorems/abb39e76-b02e-4999-8803-0f40a9f7e05c

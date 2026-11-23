@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasisOfType_finrank_eq
 -- name    : GlobalTheory.IsSymplecticBasisOfType.finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:10:01.096955+00:00
 -- url     : https://prove2.me/theorems/4969f01a-4845-4632-bcee-62e9a7e7feb7

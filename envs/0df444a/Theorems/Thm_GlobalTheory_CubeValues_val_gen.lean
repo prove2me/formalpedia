@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeValues_val_gen
 -- name    : GlobalTheory.CubeValues.val_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:05:50.213975+00:00
 -- url     : https://prove2.me/theorems/b32eb342-4d3f-4f76-926a-4029d5e142a7

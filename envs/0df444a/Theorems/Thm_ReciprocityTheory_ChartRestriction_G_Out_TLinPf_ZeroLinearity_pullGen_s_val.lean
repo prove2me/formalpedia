@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_ZeroLinearity_pullGen_s_val
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.ZeroLinearity.pullGen_s_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:05:33.804799+00:00
 -- url     : https://prove2.me/theorems/2dbb931f-aaa5-4538-82c4-cdee0f9c1202

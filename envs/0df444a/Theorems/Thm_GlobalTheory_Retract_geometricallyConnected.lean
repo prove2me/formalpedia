@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_geometricallyConnected
 -- name    : GlobalTheory.Retract.geometricallyConnected
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:12:54.778198+00:00
 -- url     : https://prove2.me/theorems/b5de7b07-9462-4a6a-8042-c887ed915216

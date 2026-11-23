@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_rationalLowerEnvelopeIntegralEq
 -- name    : Kyprianou.Ch08.StageB.rationalLowerEnvelopeIntegralEq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T10:53:13.504798+00:00
 -- url     : https://prove2.me/theorems/746f8225-c5b8-493f-a5ac-787563c0d855

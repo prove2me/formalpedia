@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstThickening_res_app
 -- name    : GlobalTheory.ConstThickening.res_app
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:46.398527+00:00
 -- url     : https://prove2.me/theorems/8ed10685-e886-45b7-bbbd-362b58e746b3

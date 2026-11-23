@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_dvd_form_sub
 -- name    : GlobalTheory.SimAlg.dvd_form_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:55.718892+00:00
 -- url     : https://prove2.me/theorems/74342d32-1975-44e2-a9d0-da9bb32e982d

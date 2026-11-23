@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_conjugate_mem_iff
 -- name    : GlobalTheory.PeriodCoord.conjugate_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:53.586149+00:00
 -- url     : https://prove2.me/theorems/70e68099-cfb2-48d6-87fa-360dd75578b3

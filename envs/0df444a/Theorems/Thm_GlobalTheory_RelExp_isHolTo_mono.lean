@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelExp_isHolTo_mono
 -- name    : GlobalTheory.RelExp.isHolTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:43.689799+00:00
 -- url     : https://prove2.me/theorems/eb4c67c2-a0ce-455d-8040-c79ae8cdb76c

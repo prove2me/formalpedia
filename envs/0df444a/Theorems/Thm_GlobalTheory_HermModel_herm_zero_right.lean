@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermModel_herm_zero_right
 -- name    : GlobalTheory.HermModel.herm_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:04.439772+00:00
 -- url     : https://prove2.me/theorems/479743df-189c-4cb1-92fb-dcefe8b56011

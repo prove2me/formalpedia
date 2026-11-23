@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasisOfType_apply_eq_sum
 -- name    : GlobalTheory.IsSymplecticBasisOfType.apply_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:50.261244+00:00
 -- url     : https://prove2.me/theorems/4cef0d5f-839d-4ed2-bcd5-56b8c9aac0e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifPullRig_gm_res_pull
 -- name    : GlobalTheory.UnifPullRig.gm_res_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:23.982423+00:00
 -- url     : https://prove2.me/theorems/738daf53-4976-4694-b715-aab73ea39e87

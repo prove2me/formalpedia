@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasisOfType_toMatrix_eq
 -- name    : GlobalTheory.IsSymplecticBasisOfType.toMatrix_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:10:03.541836+00:00
 -- url     : https://prove2.me/theorems/5144f922-761e-4d9c-a24e-5c12997433bc

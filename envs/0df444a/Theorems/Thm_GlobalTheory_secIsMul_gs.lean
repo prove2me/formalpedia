@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_secIsMul_gs
 -- name    : GlobalTheory.secIsMul_gs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:53.670393+00:00
 -- url     : https://prove2.me/theorems/09d51d5f-f262-4424-99a4-daec9b48844b

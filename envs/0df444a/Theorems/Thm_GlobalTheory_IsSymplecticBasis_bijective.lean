@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasis_bijective
 -- name    : GlobalTheory.IsSymplecticBasis.bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:31:08.688892+00:00
 -- url     : https://prove2.me/theorems/443ddf07-16d9-4ecd-8f3a-1e9364cf5efa

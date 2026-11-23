@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherTripletWitness_property2
 -- name    : Kyprianou.Ch03.esscherTripletWitness_property2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:07:54.822408+00:00
 -- url     : https://prove2.me/theorems/99765da3-e9db-486d-95f1-24d2a38ebd68

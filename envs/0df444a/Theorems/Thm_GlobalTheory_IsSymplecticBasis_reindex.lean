@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasis_reindex
 -- name    : GlobalTheory.IsSymplecticBasis.reindex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:50.665618+00:00
 -- url     : https://prove2.me/theorems/32dbaa32-db54-4a85-91bc-bf230fd3895f

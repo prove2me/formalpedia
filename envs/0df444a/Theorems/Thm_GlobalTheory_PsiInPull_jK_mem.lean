@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiInPull_jK_mem
 -- name    : GlobalTheory.PsiInPull.jK_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:21.427655+00:00
 -- url     : https://prove2.me/theorems/463d6edc-49f1-4366-8c1c-9f6f4a34417f

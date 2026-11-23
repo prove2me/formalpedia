@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ComplexPoints_eq_of_valAt__eq_437ab7d0d2f0
 -- name    : P2M_GlobalTheory_ComplexPoints_eq_of_valAt__eq_437ab7d0d2f0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:17.046793+00:00
 -- url     : https://prove2.me/theorems/ad8c5a58-9a57-4d7d-a5ba-02b59f59b5e0

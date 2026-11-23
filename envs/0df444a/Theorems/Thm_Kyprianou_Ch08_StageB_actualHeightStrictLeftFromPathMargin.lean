@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actualHeightStrictLeftFromPathMargin
 -- name    : Kyprianou.Ch08.StageB.actualHeightStrictLeftFromPathMargin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T10:05:16.743276+00:00
 -- url     : https://prove2.me/theorems/ea08ebfa-d932-42e6-8306-2d4518ebe8e4

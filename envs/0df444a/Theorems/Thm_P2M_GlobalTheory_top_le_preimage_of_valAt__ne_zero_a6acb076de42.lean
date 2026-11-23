@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_top_le_preimage_of_valAt__ne_zero_a6acb076de42
 -- name    : P2M_GlobalTheory_top_le_preimage_of_valAt__ne_zero_a6acb076de42
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:03:51.975787+00:00
 -- url     : https://prove2.me/theorems/c85f94e9-b392-4815-8070-e27242e3e874

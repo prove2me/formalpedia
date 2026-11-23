@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_connectedSpace
 -- name    : GlobalTheory.Retract.connectedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:16.193734+00:00
 -- url     : https://prove2.me/theorems/dfd00373-0313-4ac6-b8d1-c690da8a2808

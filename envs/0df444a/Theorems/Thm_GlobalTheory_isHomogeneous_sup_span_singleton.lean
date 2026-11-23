@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isHomogeneous_sup_span_singleton
 -- name    : GlobalTheory.isHomogeneous_sup_span_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:25.911784+00:00
 -- url     : https://prove2.me/theorems/5c314342-fee6-44c1-99c8-1c8e171c09b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thetaLinForm_apply
 -- name    : GlobalTheory.thetaLinForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:00.719797+00:00
 -- url     : https://prove2.me/theorems/615b3007-435c-48e4-8dfd-5979e843d509

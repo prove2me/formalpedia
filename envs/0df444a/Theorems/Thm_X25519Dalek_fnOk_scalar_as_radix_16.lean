@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_scalar_as_radix_16
 -- name    : X25519Dalek.fnOk_scalar_as_radix_16
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T21:38:43.779996+00:00
 -- url     : https://prove2.me/theorems/6789a8d4-7d89-4182-badc-280bb0e5aef7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_realMap_realAct
 -- name    : GlobalTheory.HermSign.realMap_realAct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:07:33.911811+00:00
 -- url     : https://prove2.me/theorems/5c55460d-1fdd-45ab-98b3-6ca15458f77e

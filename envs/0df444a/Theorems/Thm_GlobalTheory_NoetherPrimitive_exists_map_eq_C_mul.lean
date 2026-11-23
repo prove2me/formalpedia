@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherPrimitive_exists_map_eq_C_mul
 -- name    : GlobalTheory.NoetherPrimitive.exists_map_eq_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:07:58.697195+00:00
 -- url     : https://prove2.me/theorems/c40386d5-e8fd-41de-aebe-3eb3dc494782

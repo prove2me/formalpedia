@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickGlue_surjective_toSpec
 -- name    : GlobalTheory.ThickGlue.surjective_toSpec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:04:34.213054+00:00
 -- url     : https://prove2.me/theorems/97e07e53-cf55-469f-b0d5-1e2241661f42

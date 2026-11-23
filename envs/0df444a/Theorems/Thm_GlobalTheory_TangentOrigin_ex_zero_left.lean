@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentOrigin_ex_zero_left
 -- name    : GlobalTheory.TangentOrigin.ex_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:01:37.71166+00:00
 -- url     : https://prove2.me/theorems/ed5f46e9-3f78-4e90-bb06-b6afc6426953

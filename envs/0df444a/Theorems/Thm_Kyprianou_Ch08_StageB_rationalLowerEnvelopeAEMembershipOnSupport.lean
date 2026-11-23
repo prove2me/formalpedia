@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_rationalLowerEnvelopeAEMembershipOnSupport
 -- name    : Kyprianou.Ch08.StageB.rationalLowerEnvelopeAEMembershipOnSupport
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T10:57:03.984287+00:00
 -- url     : https://prove2.me/theorems/33c4ab00-9e82-4373-bbdc-d3e50ba5854c

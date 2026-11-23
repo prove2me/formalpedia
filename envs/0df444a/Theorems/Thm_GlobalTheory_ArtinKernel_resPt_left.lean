@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_resPt_left
 -- name    : GlobalTheory.ArtinKernel.resPt_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:57.305609+00:00
 -- url     : https://prove2.me/theorems/c8f80566-8222-4d71-946f-e5ab0f14eb69

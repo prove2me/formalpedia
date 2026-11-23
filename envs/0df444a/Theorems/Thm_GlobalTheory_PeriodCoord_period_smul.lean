@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_period_smul
 -- name    : GlobalTheory.PeriodCoord.period_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:10.814362+00:00
 -- url     : https://prove2.me/theorems/70ccbeec-52d4-4a72-b12d-dbd42a5dc0d6

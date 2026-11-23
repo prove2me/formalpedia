@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TauPull_jK_mem
 -- name    : GlobalTheory.TauPull.jK_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:53.1782+00:00
 -- url     : https://prove2.me/theorems/1973a363-facf-400f-938d-85b8a08baa47

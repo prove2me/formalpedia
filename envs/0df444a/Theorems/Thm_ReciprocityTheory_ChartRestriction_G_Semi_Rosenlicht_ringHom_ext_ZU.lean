@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Rosenlicht_ringHom_ext_ZU
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Rosenlicht.ringHom_ext_ZU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:50:50.570161+00:00
 -- url     : https://prove2.me/theorems/11aceba7-6106-4a6c-8a77-13dd3e6bb59d

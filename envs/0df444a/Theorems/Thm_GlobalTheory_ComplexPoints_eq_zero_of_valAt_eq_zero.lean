@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPoints_eq_zero_of_valAt_eq_zero
 -- name    : GlobalTheory.ComplexPoints.eq_zero_of_valAt_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:07:03.937343+00:00
 -- url     : https://prove2.me/theorems/bd6ab91e-b984-4558-9733-d6fce3ea9ea2

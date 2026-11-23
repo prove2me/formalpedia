@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentOrigin_tangent_comp
 -- name    : GlobalTheory.TangentOrigin.tangent_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:06.210541+00:00
 -- url     : https://prove2.me/theorems/2a2ae95c-c086-4939-b3a5-7f89127b330a

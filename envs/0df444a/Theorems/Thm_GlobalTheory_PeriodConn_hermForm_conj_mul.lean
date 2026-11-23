@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodConn_hermForm_conj_mul
 -- name    : GlobalTheory.PeriodConn.hermForm_conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:07:43.812259+00:00
 -- url     : https://prove2.me/theorems/50e18e19-8b25-452d-920e-78a75b56160f

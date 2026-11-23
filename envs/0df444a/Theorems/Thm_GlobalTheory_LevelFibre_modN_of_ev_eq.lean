@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_modN_of_ev_eq
 -- name    : GlobalTheory.LevelFibre.modN_of_ev_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:07:27.539882+00:00
 -- url     : https://prove2.me/theorems/31b315fc-a4a1-437c-a746-2782fc8e6591

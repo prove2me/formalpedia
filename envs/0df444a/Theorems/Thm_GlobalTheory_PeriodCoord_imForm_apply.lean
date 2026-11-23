@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_imForm_apply
 -- name    : GlobalTheory.PeriodCoord.imForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:05:56.057804+00:00
 -- url     : https://prove2.me/theorems/f2556ea8-e4dc-48d3-bb58-5875059ff7d6

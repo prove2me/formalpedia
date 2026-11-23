@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_IsCob_add
 -- name    : GlobalTheory.KS.IsCob.add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:52.868145+00:00
 -- url     : https://prove2.me/theorems/67528ae8-7840-44c5-898f-10cb49b0342f

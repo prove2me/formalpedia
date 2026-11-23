@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_K_upUni_det
+-- name    : Formalism.FourierDecayAlt.P.K.upUni_det
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T11:28:58.395107+00:00
+-- url     : https://prove2.me/theorems/7ef554dc-80ba-4278-979a-3a38ee90e7a7
+-- title:
+--   K: up Uni det
+-- statement:
+--   The K construction uses the up Uni det property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/AntidiagMulDiagonal.lean#L23-L25
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/AntidiagMulDiagonal.lean#L23-L25
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementK
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RecText
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AntidiagMulDiagonal
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.K
+open Matrix Finset Real Formalism.FourierDecayAlt.K
+variable {K : Type} [Field K] {n : ℕ}
+
+theorem Formalism.FourierDecayAlt.P.K.upUni_det {a : Matrix (Fin n) (Fin n) K} (ha : IsUpUni a) : a.det = 1 := by sorry

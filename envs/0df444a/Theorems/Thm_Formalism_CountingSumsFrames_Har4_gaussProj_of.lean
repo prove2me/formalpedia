@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har4_gaussProj_of
 -- name    : Formalism.CountingSumsFrames.Har4.gaussProj_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:37:59.544395+00:00
 -- url     : https://prove2.me/theorems/d76ebbf2-f7e3-403d-9811-b4b08dd7776a

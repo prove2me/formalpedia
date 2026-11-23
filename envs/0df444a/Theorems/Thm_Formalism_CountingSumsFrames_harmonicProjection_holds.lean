@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_harmonicProjection_holds
 -- name    : Formalism.CountingSumsFrames.harmonicProjection_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:41:34.442142+00:00
 -- url     : https://prove2.me/theorems/86eb9b68-a835-4a3d-ad5d-d8733a81f439

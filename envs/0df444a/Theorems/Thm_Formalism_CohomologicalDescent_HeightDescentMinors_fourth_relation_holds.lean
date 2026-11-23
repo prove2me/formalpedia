@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_fourth_relation_holds
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.fourth_relation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:55.303412+00:00
 -- url     : https://prove2.me/theorems/4a39bd3f-3f90-43a7-b272-0281f2c3e890
