@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_nsq_root
 -- name    : ReciprocityTheory.ChartRestriction.DS.nsq_root
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:38:31.362855+00:00
 -- url     : https://prove2.me/theorems/6f1ae1e8-5753-4fbc-8c86-d57b47daee05

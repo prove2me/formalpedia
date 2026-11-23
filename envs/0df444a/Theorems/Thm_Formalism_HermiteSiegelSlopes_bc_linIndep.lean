@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_bc_linIndep
 -- name    : Formalism.HermiteSiegelSlopes.bc_linIndep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:01:13.949859+00:00
 -- url     : https://prove2.me/theorems/8cc2115d-9d9a-4095-96c3-4e43f0d59a12

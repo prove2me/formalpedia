@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sfac_pos
 -- name    : Formalism.HermitianLatticeCounting.P.sfac_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:55.58096+00:00
 -- url     : https://prove2.me/theorems/26aec753-5809-4f7e-b6e8-c8f0e11d6ed1

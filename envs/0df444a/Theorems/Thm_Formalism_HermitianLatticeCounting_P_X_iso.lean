@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_X_iso
 -- name    : Formalism.HermitianLatticeCounting.P.X_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:39:06.961034+00:00
 -- url     : https://prove2.me/theorems/66fea533-b97b-4f74-a4df-f9d2fb3ae3f6

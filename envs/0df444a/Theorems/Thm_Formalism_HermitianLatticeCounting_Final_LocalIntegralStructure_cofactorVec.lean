@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_cofactorVec
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.cofactorVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:48:50.462267+00:00
 -- url     : https://prove2.me/theorems/3ac30019-d959-450b-88c1-f5720719c5bb

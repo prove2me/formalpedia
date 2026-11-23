@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_eich_perp
 -- name    : Formalism.HermitianLatticeCounting.P.eich_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:03:08.541695+00:00
 -- url     : https://prove2.me/theorems/b1503e39-9340-46b8-b814-cebea11ea6be

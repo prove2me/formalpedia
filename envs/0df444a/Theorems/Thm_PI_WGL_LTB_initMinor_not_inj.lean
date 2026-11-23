@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_initMinor_not_inj
 -- name    : PI.WGL.LTB.initMinor_not_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:26.373804+00:00
 -- url     : https://prove2.me/theorems/0fca5753-11a0-43ad-9feb-463c7ccbc15d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_initMinor_perm
 -- name    : PI.WGL.LTB.initMinor_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:33.503698+00:00
 -- url     : https://prove2.me/theorems/e94ebeb5-390e-40f5-85eb-1904d03845cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_massRatio_bound_of_top
 -- name    : Formalism.HermitianLatticeCounting.P.massRatio_bound_of_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:23.234575+00:00
 -- url     : https://prove2.me/theorems/7bd5f0de-5e6e-46ce-b6d4-491c70e69560

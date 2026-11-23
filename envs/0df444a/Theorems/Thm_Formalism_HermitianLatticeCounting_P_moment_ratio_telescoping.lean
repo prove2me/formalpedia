@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_moment_ratio_telescoping
 -- name    : Formalism.HermitianLatticeCounting.P.moment_ratio_telescoping
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:50.053957+00:00
 -- url     : https://prove2.me/theorems/0d61d190-be5f-4ba4-a071-a0690ed4c640

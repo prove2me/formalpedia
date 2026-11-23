@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_mul_cutoff_of_gt
 -- name    : Formalism.HermitianLatticeCounting.P.mul_cutoff_of_gt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:43.644205+00:00
 -- url     : https://prove2.me/theorems/dc403b9d-3c73-4873-b9db-b69160717fb6

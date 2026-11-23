@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_eT_commutesCAR
 -- name    : ReciprocityTheory.ChartRestriction.DS.eT_commutesCAR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:46.329789+00:00
 -- url     : https://prove2.me/theorems/f68bd6d4-7c70-4b4e-869a-71c6beb9759b

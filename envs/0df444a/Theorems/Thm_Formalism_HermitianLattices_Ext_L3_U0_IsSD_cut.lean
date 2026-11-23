@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_IsSD_cut
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.IsSD.cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:40:05.637793+00:00
 -- url     : https://prove2.me/theorems/ca067aed-6245-4db8-873e-9e02335cf5f5

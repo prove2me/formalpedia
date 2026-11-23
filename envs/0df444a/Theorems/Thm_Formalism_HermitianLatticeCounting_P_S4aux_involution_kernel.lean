@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_involution_kernel
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.involution_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:00:41.219018+00:00
 -- url     : https://prove2.me/theorems/88b459c2-63aa-4949-af74-4f771591ba0d

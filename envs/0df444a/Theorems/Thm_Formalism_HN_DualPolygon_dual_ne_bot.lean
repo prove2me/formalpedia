@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_dual_ne_bot
 -- name    : Formalism.HN.DualPolygon.dual_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:55:46.043213+00:00
 -- url     : https://prove2.me/theorems/81c6a232-15e1-4860-a622-688a0f039903

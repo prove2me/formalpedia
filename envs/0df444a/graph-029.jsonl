@@ -56982,7 +56982,7 @@
 {"parent": "QEC.Distillation.OneQubitMagic.tResourceAxisAngle_sin", "child": "QEC_Distillation_Universality_TPhaseGeneratedUniversality", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.OneQubitMagic.tResourceAxisAngle_sin", "child": "QEC_Distillation_Universality_SU2GeneratedDensity", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg20859", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "BeyondGomoryHu.Units.lemma_4_8", "child": "BeyondGomoryHu_Units_Hierarchy", "via": ["statement"]}
+{"parent": "BeyondGomoryHu.Units.lemma_4_8", "child": "BeyondGomoryHu_Units_Hierarchy", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB3_1_4I1R14H_sound", "child": "OAIQ254M004", "via": ["statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.cyclicAlgebraNormOneDenominatorPlaces_eq_empty_iff", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Arithmetic_IntrinsicStrongApproximation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.cyclicAlgebraNormOneDenominatorPlaces_eq_empty_iff", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Arithmetic_PrasadSpecialization", "via": ["solution", "statement"]}

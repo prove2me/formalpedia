@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CyclotomicRankTwoSVP_Main_multiplication_bounds
 -- name    : CyclotomicRankTwoSVP.Main.multiplication_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:52:57.075571+00:00
 -- url     : https://prove2.me/theorems/62340a75-a4b9-42c4-962f-5e61a3f5662e

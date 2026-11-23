@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskTheory_Generator_lemma_B1_ii
 -- name    : TailRiskTheory.Generator.lemma_B1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:40.919454+00:00
 -- url     : https://prove2.me/theorems/64d7300c-b99a-4eeb-a21e-658df068b29a

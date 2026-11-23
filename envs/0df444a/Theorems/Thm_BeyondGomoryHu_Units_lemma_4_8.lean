@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeyondGomoryHu_Units_lemma_4_8
 -- name    : BeyondGomoryHu.Units.lemma_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T06:52:02.863101+00:00
 -- url     : https://prove2.me/theorems/32ec71f0-721b-4878-acc1-c54aa9b55d52

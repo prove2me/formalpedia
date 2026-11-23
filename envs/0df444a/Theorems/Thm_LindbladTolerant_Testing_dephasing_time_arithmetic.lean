@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladTolerant_Testing_dephasing_time_arithmetic
 -- name    : LindbladTolerant.Testing.dephasing_time_arithmetic
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:04:28.385425+00:00
 -- url     : https://prove2.me/theorems/4b6bd224-5a49-4c36-b1ab-8d120fa12803

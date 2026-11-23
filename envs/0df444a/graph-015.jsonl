@@ -59467,7 +59467,7 @@
 {"parent": "AvramDividend.Classical.avram_wave7_03_original_bounded_real_random_clock_full_stieltjes_mean_eq", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_03_original_bounded_real_random_clock_full_stieltjes_mean_eq", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "ProxFlatIP.lemma_2", "child": "ProxFlatIP_Kappa", "via": ["statement"]}
-{"parent": "ZeroOneIALM.display_15", "child": "ZeroOneIALM_Prox", "via": ["statement"]}
+{"parent": "ZeroOneIALM.display_15", "child": "ZeroOneIALM_Prox", "via": ["solution", "statement"]}
 {"parent": "OAI.PolycyclicRecognition.CartanWordModel.exists_invertible_height_factor_of_stationary_mean", "child": "PolycyclicRecognition", "via": ["solution", "statement"]}
 {"parent": "OAI.PolycyclicRecognition.CartanWordModel.exists_invertible_height_factor_of_stationary_mean", "child": "OAIQ093D027", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_06_original_jump_threshold_iff_leftLim", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}

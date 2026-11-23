@@ -87500,7 +87500,7 @@
 {"parent": "row23_rh_supp_RH66388EdgePiece06", "child": "row23_rh_supp_RH66388FastPiece06Prefixes", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH66388EdgePiece06", "child": "row23_rh_supp_RH66388EdgeCandidate", "via": ["statement"]}
 {"parent": "DvorakNorin2018.lexicographic_cloud_minimum", "child": "DvorakNorin2018_CloudNormalization", "via": ["solution", "statement"]}
-{"parent": "IntegerRootsFN.Main.candidate_filtering_machine", "child": "IntegerRootsFN_Main_CandidatePipeline", "via": ["statement"]}
+{"parent": "IntegerRootsFN.Main.candidate_filtering_machine", "child": "IntegerRootsFN_Main_CandidatePipeline", "via": ["solution", "statement"]}
 {"parent": "KSATSingleFlip.Connect.observation_5_3", "child": "KSATSingleFlip_Connect_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeCheck56_2_3", "child": "OAIQ259US010", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeCheck56_2_3", "child": "OAIQ259US012", "via": ["solution", "statement"]}

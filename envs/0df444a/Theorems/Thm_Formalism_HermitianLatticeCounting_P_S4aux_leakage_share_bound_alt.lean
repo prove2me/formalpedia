@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_leakage_share_bound_alt
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.leakage_share_bound_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:00:22.541598+00:00
 -- url     : https://prove2.me/theorems/fa383348-a316-42b5-836a-3f89e166c01f

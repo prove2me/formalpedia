@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slt_big_one_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.slt_big_one_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:46.529978+00:00
 -- url     : https://prove2.me/theorems/42eb7c38-8f40-4247-98b3-d1fe21867631

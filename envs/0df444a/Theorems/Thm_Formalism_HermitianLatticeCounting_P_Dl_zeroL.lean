@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_Dl_zeroL
 -- name    : Formalism.HermitianLatticeCounting.P.Dl_zeroL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:05.226536+00:00
 -- url     : https://prove2.me/theorems/f9c88676-af82-4e24-a67e-ea1ec3d54131

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_full_group_incidences
 -- name    : ChenCapacityTerminals.Exact.full_group_incidences
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:26:31.236801+00:00
 -- url     : https://prove2.me/theorems/055d1d7d-a4bb-47b4-a8da-2ab3e5344a6f

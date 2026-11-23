@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_invSqrtPowLeExp
 -- name    : Formalism.HermitianLatticeCounting.P.invSqrtPowLeExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:12.552184+00:00
 -- url     : https://prove2.me/theorems/4244d397-3cf4-4b0b-9660-ec75c08a40de

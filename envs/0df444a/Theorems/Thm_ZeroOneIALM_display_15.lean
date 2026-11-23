@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneIALM_display_15
 -- name    : ZeroOneIALM.display_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:29:48.140725+00:00
 -- url     : https://prove2.me/theorems/f1968fc1-b0cc-449c-bd5d-544eac46b735

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ideal_count_le_weighted_of_hyp
 -- name    : Formalism.HermitianLatticeCounting.P.ideal_count_le_weighted_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:15.892811+00:00
 -- url     : https://prove2.me/theorems/4a938695-7234-4c23-8999-f671bfe06a7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_finrank_real
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_finrank_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:50.351795+00:00
 -- url     : https://prove2.me/theorems/91750e65-3975-4a92-a0f5-3705d50452b3

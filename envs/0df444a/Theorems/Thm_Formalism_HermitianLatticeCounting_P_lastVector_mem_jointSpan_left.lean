@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lastVector_mem_jointSpan_left
 -- name    : Formalism.HermitianLatticeCounting.P.lastVector_mem_jointSpan_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:55.686784+00:00
 -- url     : https://prove2.me/theorems/8e084ada-d413-4df0-a63b-1e0b88e88d1b

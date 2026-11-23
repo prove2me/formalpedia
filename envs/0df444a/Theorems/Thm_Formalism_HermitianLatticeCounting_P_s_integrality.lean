@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s_integrality
 -- name    : Formalism.HermitianLatticeCounting.P.s_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:45.716468+00:00
 -- url     : https://prove2.me/theorems/3e824dda-067b-4d00-95fd-778f3159fe6d

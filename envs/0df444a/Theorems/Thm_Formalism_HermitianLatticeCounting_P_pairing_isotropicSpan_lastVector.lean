@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_pairing_isotropicSpan_lastVector
 -- name    : Formalism.HermitianLatticeCounting.P.pairing_isotropicSpan_lastVector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:39:24.956296+00:00
 -- url     : https://prove2.me/theorems/74c30c61-96cf-481f-b050-ec06c7cd1306

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_dot_root_left
 -- name    : ReciprocityTheory.ChartRestriction.DS.dot_root_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:47.150278+00:00
 -- url     : https://prove2.me/theorems/a724a075-c076-4d69-8e72-b2b3f0b98c39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedAuctionComplexity_Main_conditional_edge_view
 -- name    : CorrelatedAuctionComplexity.Main.conditional_edge_view
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:34:30.784001+00:00
 -- url     : https://prove2.me/theorems/d35c37b8-c19f-431f-93e5-c251204e556b

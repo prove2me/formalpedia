@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedAuctionComplexity_Main_anchored_payoff_difference
 -- name    : CorrelatedAuctionComplexity.Main.anchored_payoff_difference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:34:18.913972+00:00
 -- url     : https://prove2.me/theorems/93e6d964-8e95-4058-98ef-532bc0eabf89

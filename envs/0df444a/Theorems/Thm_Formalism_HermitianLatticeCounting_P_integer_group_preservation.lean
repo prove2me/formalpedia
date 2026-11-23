@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integer_group_preservation
 -- name    : Formalism.HermitianLatticeCounting.P.integer_group_preservation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:56.946258+00:00
 -- url     : https://prove2.me/theorems/55b87517-0355-43f8-972d-877f3f07b7c1

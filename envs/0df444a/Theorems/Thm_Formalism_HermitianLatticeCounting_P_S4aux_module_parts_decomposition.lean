@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_module_parts_decomposition
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.module_parts_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:00:45.395067+00:00
 -- url     : https://prove2.me/theorems/15abea19-1121-4487-a4c3-2eb0dc748a7b

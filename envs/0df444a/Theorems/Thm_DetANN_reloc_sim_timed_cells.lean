@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_reloc_sim_timed_cells
 -- name    : DetANN.reloc_sim_timed_cells
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:54:18.01749+00:00
 -- url     : https://prove2.me/theorems/06695a89-4ce9-425b-b82c-f8e2b52a55e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanB_congrP_algebraMap_iff_sub_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanB.congrP_algebraMap_iff_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:33:28.027936+00:00
 -- url     : https://prove2.me/theorems/82ad245e-03f3-443b-b967-882e88ab12d2

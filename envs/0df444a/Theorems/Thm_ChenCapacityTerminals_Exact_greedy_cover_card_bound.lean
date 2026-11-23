@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_greedy_cover_card_bound
 -- name    : ChenCapacityTerminals.Exact.greedy_cover_card_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:24:16.12781+00:00
 -- url     : https://prove2.me/theorems/0235a1eb-7195-4dd3-a463-a8b6c558048f

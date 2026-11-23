@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_relIndex_intersection
 -- name    : Formalism.HermitianLatticeCounting.P.relIndex_intersection
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:01.303326+00:00
 -- url     : https://prove2.me/theorems/36994a58-794f-4e80-8bf0-795a33c7a49d

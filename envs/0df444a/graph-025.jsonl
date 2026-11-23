@@ -35554,7 +35554,7 @@
 {"parent": "SPFacilityGraph_IsSP", "child": "SPFacilityGraph_MetricGraph_dist", "via": ["statement"]}
 {"parent": "SPFacilityGraph_IsSP", "child": "SPFacilityGraph_Profile", "via": ["statement"]}
 {"parent": "BernoulliQPTAS.Scheduling.lemma_2_1", "child": "BernoulliQPTAS_Scheduling_Objective", "via": ["statement"]}
-{"parent": "CorrelatedAuctionComplexity.Main.anchored_payoff_difference", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["statement"]}
+{"parent": "CorrelatedAuctionComplexity.Main.anchored_payoff_difference", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.mpower0_22_r4_eq_g", "child": "OAIQ098G1466", "via": ["solution", "statement"]}
 {"parent": "MajorityDepthThree.Exact.clique_counts", "child": "MajorityDepthThree_Exact_Circuits", "via": ["statement"]}
 {"parent": "MajorityDepthThree.Exact.clique_counts", "child": "MajorityDepthThree_Exact_Restrictions", "via": ["statement"]}
@@ -40147,8 +40147,8 @@
 {"parent": "FairShareAlmostAll.Slack.serve_fractional_agents", "child": "FairShareAlmostAll_Slack_FiniteAllocation", "via": ["statement"]}
 {"parent": "FairShareAlmostAll.Slack.serve_fractional_agents", "child": "FairShareAlmostAll_Slack_Buckets", "via": ["statement"]}
 {"parent": "FairShareAlmostAll.Slack.serve_fractional_agents", "child": "FairShareAlmostAll_Slack_Instance", "via": ["statement"]}
-{"parent": "LinearChoresCLS.cls_membership", "child": "NetworkEquilibriumCLS_LinearNash_Complexity", "via": ["statement"]}
-{"parent": "LinearChoresCLS.cls_membership", "child": "LinearChoresCLS_ChoresSearch", "via": ["statement"]}
+{"parent": "LinearChoresCLS.cls_membership", "child": "NetworkEquilibriumCLS_LinearNash_Complexity", "via": ["solution", "statement"]}
+{"parent": "LinearChoresCLS.cls_membership", "child": "LinearChoresCLS_ChoresSearch", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm28_1_0_4.contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm28_1_0_4.contains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm28_1_0_4.contains_g", "child": "OAIQ098G1108", "via": ["solution", "statement"]}
@@ -42174,7 +42174,7 @@
 {"parent": "PauliUnclonable531.Pauli.quadratic_sandwich", "child": "PauliUnclonable531_Pauli_Correlations", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.integral_hyperbolic_sublevel_finite", "child": "OAI_NumberTheory_DirichletL_Eisenstein_FundamentalDomain", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.integral_hyperbolic_sublevel_finite", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_GlobalBinLoss", "via": ["solution", "statement"]}
-{"parent": "CorrelatedAuctionComplexity.Main.conditional_edge_view", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["statement"]}
+{"parent": "CorrelatedAuctionComplexity.Main.conditional_edge_view", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["solution", "statement"]}
 {"parent": "ChvatalOneHard398_SAT_Residue", "child": "ChvatalOneHard398_SAT_Functional", "via": ["statement"]}
 {"parent": "BarelyTestable.LowerBound.load_second_moment", "child": "BarelyTestable_LowerBound_Loads", "via": ["statement"]}
 {"parent": "MemOracleLB.Optimization.lemma_2_2", "child": "MemOracleLB_Optimization_Probability", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_massRatio_bound_of_mid
 -- name    : Formalism.HermitianLatticeCounting.P.massRatio_bound_of_mid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:16.088061+00:00
 -- url     : https://prove2.me/theorems/801c9660-a587-4cec-9f36-e55d89e2b8bb

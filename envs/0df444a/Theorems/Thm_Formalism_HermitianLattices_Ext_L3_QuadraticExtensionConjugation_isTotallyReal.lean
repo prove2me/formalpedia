@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadraticExtensionConjugation_isTotallyReal
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadraticExtensionConjugation.isTotallyReal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:36:44.766155+00:00
 -- url     : https://prove2.me/theorems/bb1000e5-eccc-4a6a-abe6-a77227556d8f

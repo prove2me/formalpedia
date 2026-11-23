@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_dc_aeval_eigen
 -- name    : ReciprocityTheory.ChartRestriction.DS.dc_aeval_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:26.507774+00:00
 -- url     : https://prove2.me/theorems/a5c83b39-965f-420b-8471-95ba5ed0de51

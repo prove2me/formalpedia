@@ -37551,8 +37551,8 @@
 {"parent": "GrigorchukPak.superpolynomial_and_subexponential_card_wordBall", "child": "Garrido.isExponentiallyBounded_grigorchukGroup", "via": ["solution"]}
 {"parent": "GrigorchukPak.superpolynomial_and_subexponential_card_wordBall", "child": "Garrido_Grigorchuk", "via": ["solution", "statement"]}
 {"parent": "GrigorchukPak.superpolynomial_and_subexponential_card_wordBall", "child": "GrigorchukPak.superpolynomial_and_exp_rpow_le_card_wordBall", "via": ["solution"]}
-{"parent": "GrothendieckConstant.affine_constraint_transfer", "child": "GrothendieckConstantDefs", "via": ["statement"]}
-{"parent": "GrothendieckConstant.affine_constraint_transfer", "child": "KrivineSchemeDefs", "via": ["statement"]}
+{"parent": "GrothendieckConstant.affine_constraint_transfer", "child": "GrothendieckConstantDefs", "via": ["solution", "statement"]}
+{"parent": "GrothendieckConstant.affine_constraint_transfer", "child": "KrivineSchemeDefs", "via": ["solution", "statement"]}
 {"parent": "GrothendieckConstant.coeff_hermite_moments", "child": "KrivineSchemeDefs", "via": ["solution", "statement"]}
 {"parent": "GrothendieckConstant.exists_grothendieck_bound", "child": "GrothendieckConstantDefs", "via": ["solution", "statement"]}
 {"parent": "GrothendieckConstant.grothendieckConst_bounds", "child": "GrothendieckConstantDefs", "via": ["solution", "statement"]}

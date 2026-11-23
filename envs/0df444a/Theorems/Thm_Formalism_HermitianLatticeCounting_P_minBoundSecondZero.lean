@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_minBoundSecondZero
 -- name    : Formalism.HermitianLatticeCounting.P.minBoundSecondZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:22.782817+00:00
 -- url     : https://prove2.me/theorems/598b7d94-36a4-4c0a-8a08-b55d762f0f09

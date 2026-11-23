@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_GoodMap_inN
 -- name    : Formalism.HermitianLatticeCounting.P.GoodMap.inN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:52.450104+00:00
 -- url     : https://prove2.me/theorems/54e16740-f517-4e99-b351-cc91790b46f4

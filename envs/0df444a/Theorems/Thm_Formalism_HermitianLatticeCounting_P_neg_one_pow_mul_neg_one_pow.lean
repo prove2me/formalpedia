@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_neg_one_pow_mul_neg_one_pow
 -- name    : Formalism.HermitianLatticeCounting.P.neg_one_pow_mul_neg_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:32.736267+00:00
 -- url     : https://prove2.me/theorems/2145aec6-c26a-41fe-ae67-20c1ee4e810b

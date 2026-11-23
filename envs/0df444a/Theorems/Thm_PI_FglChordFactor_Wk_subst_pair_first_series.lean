@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_subst_pair_first_series
 -- name    : PI.FglChordFactor.Wk.subst_pair_first_series
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:59:34.69862+00:00
 -- url     : https://prove2.me/theorems/fdbe2436-d830-4a67-a9b4-852b638a12a6

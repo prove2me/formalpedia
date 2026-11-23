@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_finrank_Xa
 -- name    : Formalism.HermitianLatticeCounting.P.finrank_Xa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:53:12.61654+00:00
 -- url     : https://prove2.me/theorems/9abf3334-b881-4c22-8e8d-ac1a291e6a9c

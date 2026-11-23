@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integral_complex_radial_eq_two_pi_mul_integral_Ioi
 -- name    : Formalism.HermitianLatticeCounting.P.integral_complex_radial_eq_two_pi_mul_integral_Ioi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:58.254807+00:00
 -- url     : https://prove2.me/theorems/b115530e-b257-45e3-9f04-2bd3b7a3cf62

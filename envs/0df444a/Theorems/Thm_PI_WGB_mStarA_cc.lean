@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_mStarA_cc
 -- name    : PI.WGB.mStarA_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:10.634964+00:00
 -- url     : https://prove2.me/theorems/c3f776b9-d8d2-495d-a688-206223b53b4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_tcoef_expand
 -- name    : ReciprocityTheory.ChartRestriction.DS.tcoef_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:44.591799+00:00
 -- url     : https://prove2.me/theorems/ec77d19d-9fc2-44d1-ab62-7270fdfd7f82

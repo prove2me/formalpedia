@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_conjO_mem_hcompl
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.conjO_mem_hcompl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:42:34.640716+00:00
 -- url     : https://prove2.me/theorems/e1cc0983-9779-47a4-b694-dfcdda875bda

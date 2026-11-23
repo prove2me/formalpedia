@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_radius_sq_pow_card_places
 -- name    : Formalism.HermitianLatticeCounting.P.radius_sq_pow_card_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:35.34838+00:00
 -- url     : https://prove2.me/theorems/0629f728-8e13-4350-891b-36c838c1182c

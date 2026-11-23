@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_cpT_cmT_isCAR
 -- name    : ReciprocityTheory.ChartRestriction.DS.cpT_cmT_isCAR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:38.098588+00:00
 -- url     : https://prove2.me/theorems/cabbe6a8-66ed-4f0b-a59b-c6b90431f6a4

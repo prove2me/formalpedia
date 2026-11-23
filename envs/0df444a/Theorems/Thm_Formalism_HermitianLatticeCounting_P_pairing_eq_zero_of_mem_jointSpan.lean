@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_pairing_eq_zero_of_mem_jointSpan
 -- name    : Formalism.HermitianLatticeCounting.P.pairing_eq_zero_of_mem_jointSpan
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:40.336163+00:00
 -- url     : https://prove2.me/theorems/eea3a3d0-ebaa-4e1b-9790-be16d52dbab0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_mem_Xa_iff
 -- name    : Formalism.HermitianLatticeCounting.P.mem_Xa_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:01:37.160007+00:00
 -- url     : https://prove2.me/theorems/b6423100-70ad-4987-be36-5cbd6de7e3e5

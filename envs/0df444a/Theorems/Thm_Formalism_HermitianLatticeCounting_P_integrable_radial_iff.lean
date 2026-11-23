@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integrable_radial_iff
 -- name    : Formalism.HermitianLatticeCounting.P.integrable_radial_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:59.448875+00:00
 -- url     : https://prove2.me/theorems/66b85a2b-9e6c-4771-a58e-31f454c9604b

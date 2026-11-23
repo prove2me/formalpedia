@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IdealNormInequalities_card_filter_resChar_le
 -- name    : Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.card_filter_resChar_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:32:58.908908+00:00
 -- url     : https://prove2.me/theorems/4cd1bcc8-aca3-45f3-ba11-70e6855200bf

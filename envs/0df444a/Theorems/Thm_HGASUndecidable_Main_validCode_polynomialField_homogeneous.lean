@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HGASUndecidable_Main_validCode_polynomialField_homogeneous
 -- name    : HGASUndecidable.Main.validCode_polynomialField_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:49:31.187746+00:00
 -- url     : https://prove2.me/theorems/616f9e77-1c7c-40a5-91e8-5b171bc9e4e1

@@ -46210,7 +46210,7 @@
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_7_15_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_7_15_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "IntegerRootsFN_Main_ApproximationConstruction", "child": "IntegerRootsFN_Main_Binary", "via": ["statement"]}
-{"parent": "DistributedMWC440.UpperBound.lemma_4_6", "child": "DistributedMWC440_UpperBound_Operations", "via": ["statement"]}
+{"parent": "DistributedMWC440.UpperBound.lemma_4_6", "child": "DistributedMWC440_UpperBound_Operations", "via": ["solution", "statement"]}
 {"parent": "UnitalMIP.proposition_3_8", "child": "UnitalMIP_HasMaxMixedMarginals", "via": ["statement"]}
 {"parent": "UnitalMIP.proposition_3_8", "child": "UnitalMIP_rhoMax", "via": ["statement"]}
 {"parent": "UnitalMIP.proposition_3_8", "child": "UnitalMIP_canonicalState", "via": ["statement"]}
@@ -60685,7 +60685,7 @@
 {"parent": "JinMaoSubsetSum.lemma_3_2_dilation_count", "child": "JinMaoSubsetSum_qvol", "via": ["statement"]}
 {"parent": "JinMaoSubsetSum.lemma_3_2_dilation_count", "child": "JinMaoSubsetSum_zonotope", "via": ["statement"]}
 {"parent": "LpSubspaceCoreset.SmallP.theorem_A_9", "child": "LpSubspaceCoreset_SmallP_Process", "via": ["statement"]}
-{"parent": "CyclotomicRankTwoSVP.Main.multiplication_bounds", "child": "CyclotomicRankTwoSVP_Main_Checker", "via": ["statement"]}
+{"parent": "CyclotomicRankTwoSVP.Main.multiplication_bounds", "child": "CyclotomicRankTwoSVP_Main_Checker", "via": ["solution", "statement"]}
 {"parent": "FlowLatRound_TiltedModel", "child": "FlowLatRound_LabeledTree", "via": ["statement"]}
 {"parent": "FlowLatRound_TiltedModel", "child": "FlowLatRound_FlowGraph", "via": ["statement"]}
 {"parent": "DetTerminalEmbedding1373_Real_queryProgram", "child": "DetTerminalEmbedding1373_Real_machine", "via": ["statement"]}
@@ -72747,7 +72747,7 @@
 {"parent": "QEC.Coding.BDL26OwnerIncidenceMasks.witnessNextOwner_eq", "child": "QEC_Coding_FiniteAlternatingConstruction_TopOwnerIsolation", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.arithmeticDirichlet_support_nonzero", "child": "OAI_NumberTheory_DirichletL_Eisenstein_RamifiedGaussSeries", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.arithmeticDirichlet_support_nonzero", "child": "OAI_NumberTheory_DirichletL_Eisenstein_GaussFactorization", "via": ["solution", "statement"]}
-{"parent": "GrothendieckPD.Digits.theorem_4_1", "child": "GrothendieckPD_Digits_FiniteGames", "via": ["statement"]}
+{"parent": "GrothendieckPD.Digits.theorem_4_1", "child": "GrothendieckPD_Digits_FiniteGames", "via": ["solution", "statement"]}
 {"parent": "EuclidKSteiner.lemma_4_1", "child": "EuclidKSteiner_GraphSetting", "via": ["statement"]}
 {"parent": "RandomStreamCI.CodeIntersection.conditional_min_entropy", "child": "RandomStreamCI_CodeIntersection_Branching", "via": ["statement"]}
 {"parent": "OAI.TamingCompatibility.GeometricHilbert.Hermitian.separating_probability_smooth_defect", "child": "OAIQ239Tc034", "via": ["solution", "statement"]}
@@ -75583,8 +75583,8 @@
 {"parent": "ArbLindbladLearn_decode", "child": "ArbLindbladLearn_Coeffs", "via": ["statement"]}
 {"parent": "ArbLindbladLearn_decode", "child": "ArbLindbladLearn_MState", "via": ["statement"]}
 {"parent": "MemSampleNGCA.Main.eq_40", "child": "MemSampleNGCA_Main_NGCA", "via": ["statement"]}
-{"parent": "IntegerRootsFN.Main.proposition_A_3", "child": "IntegerRootsFN_Main_Binary", "via": ["statement"]}
-{"parent": "IntegerRootsFN.Main.proposition_A_3", "child": "IntegerRootsFN_Main_ElementarySearch", "via": ["statement"]}
+{"parent": "IntegerRootsFN.Main.proposition_A_3", "child": "IntegerRootsFN_Main_Binary", "via": ["solution", "statement"]}
+{"parent": "IntegerRootsFN.Main.proposition_A_3", "child": "IntegerRootsFN_Main_ElementarySearch", "via": ["solution", "statement"]}
 {"parent": "OAIQ240Bp014", "child": "OAIQ240Bp012", "via": ["statement"]}
 {"parent": "OAIQ240Bp014", "child": "OAIQ240Bp011", "via": ["statement"]}
 {"parent": "OAIQ240Bp014", "child": "BallPacking", "via": ["statement"]}
@@ -77707,8 +77707,8 @@
 {"parent": "SwapDisk.Main.theorem_D_7", "child": "SwapDisk_Main_Protocol", "via": ["statement"]}
 {"parent": "OAI.TotientAsymptotic.real_coordinate_deviation", "child": "OAIQ233A000", "via": ["solution", "statement"]}
 {"parent": "OAI.TotientAsymptotic.real_coordinate_deviation", "child": "TotientAsymptotic", "via": ["solution", "statement"]}
-{"parent": "IntegerRootsFN.Main.proposition_3_4", "child": "IntegerRootsFN_Main_Binary", "via": ["statement"]}
-{"parent": "IntegerRootsFN.Main.proposition_3_4", "child": "IntegerRootsFN_Main_ApproximationConstruction", "via": ["statement"]}
+{"parent": "IntegerRootsFN.Main.proposition_3_4", "child": "IntegerRootsFN_Main_Binary", "via": ["solution", "statement"]}
+{"parent": "IntegerRootsFN.Main.proposition_3_4", "child": "IntegerRootsFN_Main_ApproximationConstruction", "via": ["solution", "statement"]}
 {"parent": "FlexRigidity_sandQ", "child": "QAlgorithms_Papers_Independent_Dependency50_P35", "via": ["statement"]}
 {"parent": "FlexRigidity_sandQ", "child": "QAlgorithms_Defs_Channel", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26UniformHistoryObstruction.topOutput_coarse", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_HistoryWitness", "via": ["solution", "statement"]}
@@ -78051,8 +78051,8 @@
 {"parent": "DynColorWC.Main.theorem_2", "child": "DynColorWC_Main_Model", "via": ["statement"]}
 {"parent": "DynColorWC.Main.theorem_2", "child": "DynColorWC_Main_Decomposition", "via": ["statement"]}
 {"parent": "DynColorWC.Main.theorem_2", "child": "DynColorWC_Main_AlmostClique", "via": ["statement"]}
-{"parent": "BipMatchNC.Weighted.theorem_1_1", "child": "BipMatchNC_Weighted_Problems", "via": ["statement"]}
-{"parent": "BipMatchNC.Weighted.theorem_1_1", "child": "BipMatchNC_Weighted_NC", "via": ["statement"]}
+{"parent": "BipMatchNC.Weighted.theorem_1_1", "child": "BipMatchNC_Weighted_Problems", "via": ["solution", "statement"]}
+{"parent": "BipMatchNC.Weighted.theorem_1_1", "child": "BipMatchNC_Weighted_NC", "via": ["solution", "statement"]}
 {"parent": "CalibratedMA.Randomized.eq_2", "child": "CalibratedMA_Randomized_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.residueAdditive_three_congr", "child": "OAI_NumberTheory_DirichletL_Eisenstein_WhittakerContinuation", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.residueAdditive_three_congr", "child": "OAI_NumberTheory_DirichletL_Eisenstein_GaussFactorization", "via": ["solution", "statement"]}

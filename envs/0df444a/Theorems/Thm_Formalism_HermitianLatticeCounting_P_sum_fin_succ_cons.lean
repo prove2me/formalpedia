@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sum_fin_succ_cons
 -- name    : Formalism.HermitianLatticeCounting.P.sum_fin_succ_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:59.485796+00:00
 -- url     : https://prove2.me/theorems/2c5a35a7-0bf9-4093-a798-72341930ed98

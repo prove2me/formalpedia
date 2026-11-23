@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_orth_span
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.orth_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:14.405251+00:00
 -- url     : https://prove2.me/theorems/e5b2085e-adf2-45d2-8c94-c7ed59d6fdb8

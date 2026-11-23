@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExpSeriesBivariate_ExpSeriesAddition_inLam_zero
 -- name    : Formalism.HermitianLattices.ExpSeriesBivariate.ExpSeriesAddition.inLam_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:10:19.02435+00:00
 -- url     : https://prove2.me/theorems/d95164c8-cf0d-48ac-a111-59e3027c0545

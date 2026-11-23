@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_perp_span
 -- name    : Formalism.HermitianLatticeCounting.P.perp_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:32.506816+00:00
 -- url     : https://prove2.me/theorems/f74477d2-0f8a-4f88-b448-533a584de985

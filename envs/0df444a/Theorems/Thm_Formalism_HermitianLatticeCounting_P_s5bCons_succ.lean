@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5bCons_succ
 -- name    : Formalism.HermitianLatticeCounting.P.s5bCons_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:50.185793+00:00
 -- url     : https://prove2.me/theorems/eabc89fd-ae9b-451b-9d8e-47e29ef2505c

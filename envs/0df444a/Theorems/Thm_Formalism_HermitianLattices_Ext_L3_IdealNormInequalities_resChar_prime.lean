@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IdealNormInequalities_resChar_prime
 -- name    : Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.resChar_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:30:56.153079+00:00
 -- url     : https://prove2.me/theorems/162f0b8b-5e96-4bdb-8244-8f585c72ff40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_mul_cutoff_of_le
 -- name    : Formalism.HermitianLatticeCounting.P.mul_cutoff_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:28.734858+00:00
 -- url     : https://prove2.me/theorems/8f9aba8f-cfc5-42df-b663-df1d5281bb0a

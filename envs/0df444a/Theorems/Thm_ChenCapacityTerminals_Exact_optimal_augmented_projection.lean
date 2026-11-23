@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_optimal_augmented_projection
 -- name    : ChenCapacityTerminals.Exact.optimal_augmented_projection
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:04:03.60126+00:00
 -- url     : https://prove2.me/theorems/443fc7f1-e24d-4b79-95a4-4155fd37752b

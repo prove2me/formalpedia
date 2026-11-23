@@ -69015,7 +69015,7 @@
 {"parent": "LargeCongestion.Poisson.lemma_1_eq_21_corrected", "child": "LargeCongestion_Poisson_Game", "via": ["solution", "statement"]}
 {"parent": "PathoSubgrad.Circle.proposition_6_v", "child": "PathoSubgrad_Circle_Setting", "via": ["statement"]}
 {"parent": "PathoSubgrad.Circle.proposition_6_v", "child": "PathoSubgrad_Circle_Construction", "via": ["statement"]}
-{"parent": "TailRiskTheory.Generator.lemma_B1_ii", "child": "TailRiskTheory_Generator_Model", "via": ["statement"]}
+{"parent": "TailRiskTheory.Generator.lemma_B1_ii", "child": "TailRiskTheory_Generator_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap20.P07.isometricCapacity_eq", "child": "QAlgorithms_Papers_Independent_Gap20_P07", "via": ["statement"]}
 {"parent": "RemanProcure.Noncongestive.claim_A5_l1", "child": "RemanProcure_Noncongestive_Model", "via": ["solution", "statement"]}
 {"parent": "RamanujanLostNotebook.PartII.entry_9_1_1_n073", "child": "RamanujanLostNotebook_PartII_ch09_ch09LambdaRegular", "via": ["statement"]}

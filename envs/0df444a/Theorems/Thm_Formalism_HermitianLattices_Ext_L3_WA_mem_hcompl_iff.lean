@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_mem_hcompl_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.mem_hcompl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:27:35.794986+00:00
 -- url     : https://prove2.me/theorems/de6fd6a9-2f81-424e-b84e-43121c6a306c

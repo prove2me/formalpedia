@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExpSeriesBivariate_ExpSeriesAddition_CT_mul
 -- name    : Formalism.HermitianLattices.ExpSeriesBivariate.ExpSeriesAddition.CT.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:45.84567+00:00
 -- url     : https://prove2.me/theorems/580f7690-5eae-4298-a433-9be4255a12a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prod_lt_one_of_lt_one
 -- name    : Formalism.HermitianLatticeCounting.P.prod_lt_one_of_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:45.709573+00:00
 -- url     : https://prove2.me/theorems/94bcca12-708d-4de7-9bdd-79cc48b23591

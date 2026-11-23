@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_rhoSq_ge
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.rhoSq_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:18:34.943441+00:00
 -- url     : https://prove2.me/theorems/00da8fdb-6e18-4cee-be6e-0d66177fa519
