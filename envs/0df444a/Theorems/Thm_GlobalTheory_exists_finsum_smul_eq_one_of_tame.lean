@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finsum_smul_eq_one_of_tame
 -- name    : GlobalTheory.exists_finsum_smul_eq_one_of_tame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:45.192958+00:00
 -- url     : https://prove2.me/theorems/c7cba900-0af9-4a9b-a119-a06cd315ebf7

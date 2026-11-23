@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actualHeightUnrestrictedUpcrossingNormalisation
 -- name    : Kyprianou.Ch08.StageB.actualHeightUnrestrictedUpcrossingNormalisation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:56:14.848192+00:00
 -- url     : https://prove2.me/theorems/0cde6f5b-ab0b-4d17-acf2-e7111fd93b8f

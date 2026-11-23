@@ -78834,8 +78834,8 @@
 {"parent": "row23_rh_supp_RHRow23LowSlabTwentySecond66388", "child": "row23_rh_supp_RHRow23LowSlabTwentyFirst66388", "via": ["statement"]}
 {"parent": "Polychromatic418967fa_Branch271", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
 {"parent": "Polychromatic418967fa_Branch271", "child": "Polychromatic418967fa_Branch271_Segment001", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jump6_B_infinite_activity_expected_positive_clock_reward_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jump6_B_infinite_activity_expected_positive_clock_reward_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_jump6_B_infinite_activity_expected_positive_clock_reward_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_jump6_B_infinite_activity_expected_positive_clock_reward_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece31Block05", "child": "row23_rh_supp_RH67156FastPiece31Data", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabTwentyFirstCell01", "child": "row23_rh_supp_RHLowSlabTwentyFirstPilot", "via": ["statement"]}
 {"parent": "RH1E6S10.part_026_0", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}

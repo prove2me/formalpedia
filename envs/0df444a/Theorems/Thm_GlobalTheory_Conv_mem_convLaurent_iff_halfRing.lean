@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_mem_convLaurent_iff_halfRing
 -- name    : GlobalTheory.Conv.mem_convLaurent_iff_halfRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:21.310903+00:00
 -- url     : https://prove2.me/theorems/3cde03c3-d062-4b78-9a57-8bf38c4f53ee

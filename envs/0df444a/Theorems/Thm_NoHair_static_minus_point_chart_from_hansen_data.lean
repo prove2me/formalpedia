@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_static_minus_point_chart_from_hansen_data
 -- name    : NoHair.static_minus_point_chart_from_hansen_data
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T12:28:57.034149+00:00
 -- url     : https://prove2.me/theorems/a223e28c-4ff9-4393-bba4-3bff6a897fbd

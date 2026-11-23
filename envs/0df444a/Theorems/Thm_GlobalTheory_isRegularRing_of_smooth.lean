@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isRegularRing_of_smooth
 -- name    : GlobalTheory.isRegularRing_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:44:03.453728+00:00
 -- url     : https://prove2.me/theorems/30a8050c-fb90-4375-b7c7-b29df752a3a8

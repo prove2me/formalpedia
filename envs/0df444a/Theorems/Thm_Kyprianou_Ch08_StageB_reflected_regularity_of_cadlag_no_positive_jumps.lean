@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_reflected_regularity_of_cadlag_no_positive_jumps
 -- name    : Kyprianou.Ch08.StageB.reflected_regularity_of_cadlag_no_positive_jumps
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:08:28.384844+00:00
 -- url     : https://prove2.me/theorems/e0ba16c8-1db5-4a54-b556-939133c79581

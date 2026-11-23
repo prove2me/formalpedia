@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionIndependentIncrementsV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionIndependentIncrementsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T08:56:03.936621+00:00
 -- url     : https://prove2.me/theorems/61da0440-abd3-4e34-b648-069afb99c468

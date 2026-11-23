@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.sourceReflectedPathRegularityAE
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T12:21:30.89966+00:00
 -- url     : https://prove2.me/submissions/dbd7ee4a-47e7-40fa-bf06-d00325e2dcc4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Topology.Order.LeftRight
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D

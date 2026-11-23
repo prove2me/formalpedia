@@ -83130,8 +83130,8 @@
 {"parent": "IntADSat_Supplement_DeterminedByCatFamily", "child": "IntADSat_Supplement_InCatFamily", "via": ["statement"]}
 {"parent": "APFPaper5.K2.atomTable_eq_recordForm", "child": "APFPaper5_K2_StateClass", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.atomTable_eq_recordForm", "child": "APFPaper5_K2_HoldScore", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.markedCompoundPoissonRandomMeasureCh02V5", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.markedCompoundPoissonRandomMeasureCh02V5", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.markedCompoundPoissonRandomMeasureCh02V5", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.markedCompoundPoissonRandomMeasureCh02V5", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["solution", "statement"]}
 {"parent": "AlgebraicGeometry.Scheme.Modules.ProjPresentation.appLE_awayToSection_eq_of_specMap", "child": "AlgebraicGeometry_ProjPresentationHeight", "via": ["solution", "statement"]}
 {"parent": "ManolescuPiccirillo.rasmussenS_reidemeister", "child": "ManolescuPiccirillo_Lee2", "via": ["statement"]}
 {"parent": "ManolescuPiccirillo.rasmussenS_reidemeister", "child": "ManolescuPiccirillo_PD", "via": ["statement"]}

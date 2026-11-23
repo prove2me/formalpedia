@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionStripEvalSigmaJointIndependentV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionStripEvalSigmaJointIndependentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:26:23.103036+00:00
 -- url     : https://prove2.me/theorems/d27fd8ec-cea4-40ea-a51c-87a0ce9d4468

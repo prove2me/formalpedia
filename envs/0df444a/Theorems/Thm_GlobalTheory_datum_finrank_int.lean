@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_datum_finrank_int
 -- name    : GlobalTheory.datum_finrank_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:13:36.747802+00:00
 -- url     : https://prove2.me/theorems/5f53029d-dad3-46f1-89ea-7788c5f6762e

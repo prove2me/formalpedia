@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_faithfulSMul_of_isBaseChange
 -- name    : GlobalTheory.faithfulSMul_of_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:28:47.695005+00:00
 -- url     : https://prove2.me/theorems/998d3a20-5327-49e8-8264-698143dcde5d

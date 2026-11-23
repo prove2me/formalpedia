@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_2_v2_actual_height_law
 -- name    : Kyprianou.Ch08.StageB.source_result8_2_v2_actual_height_law
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T16:43:11.788483+00:00
 -- url     : https://prove2.me/theorems/3eded364-8075-43f9-bae4-12db613bec33

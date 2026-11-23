@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actualHeightSourceNoDrawdownNullMeasurable
 -- name    : Kyprianou.Ch08.StageB.actualHeightSourceNoDrawdownNullMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T10:45:59.340796+00:00
 -- url     : https://prove2.me/theorems/f9a67c26-a56c-47f5-b513-f3c8dd594026

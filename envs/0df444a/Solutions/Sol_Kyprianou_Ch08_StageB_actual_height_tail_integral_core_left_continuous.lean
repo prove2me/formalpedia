@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.actual_height_tail_integral_core_left_continuous
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T09:41:11.755923+00:00
 -- url     : https://prove2.me/submissions/a9a83bb2-c99d-4913-9303-4fa087fb0293
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Mathlib.Topology.Order.LeftRight

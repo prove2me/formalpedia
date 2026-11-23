@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OptimalTraceDistance.Estimation.rounded_algorithm_realization
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-23T10:11:32.396056+00:00
 -- url     : https://prove2.me/submissions/41c933f1-3459-48d9-b316-05e0b6932565
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OptimalTraceDistance_Estimation_RoundedAlgorithm
 import Theorems.Thm_QAlgorithms_Papers_RoadmapL03_keyl_expectedSquaredFrobeniusError

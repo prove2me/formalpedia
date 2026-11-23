@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_poissonAdmissibleFiltrationSInfV1
 -- name    : Kyprianou.Ch02.poissonAdmissibleFiltrationSInfV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:27:20.169943+00:00
 -- url     : https://prove2.me/theorems/7635fae0-6913-4086-a999-034ed007e62d

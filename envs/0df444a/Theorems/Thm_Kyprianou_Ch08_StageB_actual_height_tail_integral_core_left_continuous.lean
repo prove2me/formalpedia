@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_tail_integral_core_left_continuous
 -- name    : Kyprianou.Ch08.StageB.actual_height_tail_integral_core_left_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:58:00.330859+00:00
 -- url     : https://prove2.me/theorems/2009363d-eef9-4af6-8fe2-05d306fd4366

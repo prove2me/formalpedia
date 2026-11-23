@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actualHeightIntegralStrictLeftLimit
 -- name    : Kyprianou.Ch08.StageB.actualHeightIntegralStrictLeftLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:48:32.035425+00:00
 -- url     : https://prove2.me/theorems/cade7bf0-28cb-43f9-b50a-18cc573d5092

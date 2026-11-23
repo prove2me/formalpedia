@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowUnif_val_res
 -- name    : GlobalTheory.PowUnif.val_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:29:43.34003+00:00
 -- url     : https://prove2.me/theorems/eaada236-6f8d-4c50-8248-1ff6a502d403

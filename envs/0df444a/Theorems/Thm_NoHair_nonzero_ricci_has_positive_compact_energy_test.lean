@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_nonzero_ricci_has_positive_compact_energy_test
 -- name    : NoHair.nonzero_ricci_has_positive_compact_energy_test
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T12:28:56.478806+00:00
 -- url     : https://prove2.me/theorems/e7cbac3b-f121-4e36-84cc-eaacb45b9ad9

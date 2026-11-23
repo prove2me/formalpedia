@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_runningSup_path_structure_of_cadlag
 -- name    : Kyprianou.Ch08.StageB.runningSup_path_structure_of_cadlag
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:08:25.590033+00:00
 -- url     : https://prove2.me/theorems/c4d424d4-b357-4c20-b0b8-e20ca612e75a

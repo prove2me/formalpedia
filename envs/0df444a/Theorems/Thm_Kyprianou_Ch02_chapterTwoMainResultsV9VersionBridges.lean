@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_chapterTwoMainResultsV9VersionBridges
 -- name    : Kyprianou.Ch02.chapterTwoMainResultsV9VersionBridges
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-23T10:21:43.350116+00:00
 -- url     : https://prove2.me/theorems/f3de990b-f851-47bb-b3eb-98dd37eac78a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsCocycle_appLE_section
 -- name    : GlobalTheory.EpsCocycle.appLE_section
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:29:11.223522+00:00
 -- url     : https://prove2.me/theorems/b08aca46-794a-4d25-bf8f-2096d73d3636

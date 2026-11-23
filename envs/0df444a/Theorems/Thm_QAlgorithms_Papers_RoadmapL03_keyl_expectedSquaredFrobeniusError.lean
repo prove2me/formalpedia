@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_RoadmapL03_keyl_expectedSquaredFrobeniusError
 -- name    : QAlgorithms.Papers.RoadmapL03.keyl_expectedSquaredFrobeniusError
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T18:47:02.20747+00:00
 -- url     : https://prove2.me/theorems/e933b3f4-c534-4a22-8b57-e3b0f0bf665d

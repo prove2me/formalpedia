@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_IsGaloisCover_existsUnique_desc
 -- name    : GlobalTheory.ZM.IsGaloisCover.existsUnique_desc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:15:26.857694+00:00
 -- url     : https://prove2.me/theorems/7cfad7f4-f136-44ea-a377-10027813e618

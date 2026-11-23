@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_completedPoissonFiltrationExistsGeneralV1
 -- name    : Kyprianou.Ch02.completedPoissonFiltrationExistsGeneralV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:01:11.263852+00:00
 -- url     : https://prove2.me/theorems/108b536a-1e50-4c9e-a846-76982d9389ce

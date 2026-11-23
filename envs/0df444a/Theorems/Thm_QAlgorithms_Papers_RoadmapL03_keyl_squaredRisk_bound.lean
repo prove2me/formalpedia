@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_RoadmapL03_keyl_squaredRisk_bound
 -- name    : QAlgorithms.Papers.RoadmapL03.keyl_squaredRisk_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-23T11:40:25.740936+00:00
 -- url     : https://prove2.me/theorems/332931c4-d826-4bb3-a289-5687f0523d9b

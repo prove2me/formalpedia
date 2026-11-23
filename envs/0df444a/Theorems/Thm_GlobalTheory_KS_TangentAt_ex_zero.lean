@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_TangentAt_ex_zero
 -- name    : GlobalTheory.KS.TangentAt.ex_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:29:08.212537+00:00
 -- url     : https://prove2.me/theorems/ca77ffe9-ab55-43ae-9369-8d26f5210d3c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.prmFiniteRegionIndependentIncrementsV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T11:15:06.127739+00:00
 -- url     : https://prove2.me/submissions/f800e431-8979-4f46-813d-1a5df6408e2f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KLSModular_LevyStochCalc_Poisson_RandomMeasure

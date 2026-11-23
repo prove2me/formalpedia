@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilMul_commIs_iff
 -- name    : GlobalTheory.WeilMul.commIs_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:26.117504+00:00
 -- url     : https://prove2.me/theorems/eba515a5-8a70-46e6-95b5-0c3d4234692f

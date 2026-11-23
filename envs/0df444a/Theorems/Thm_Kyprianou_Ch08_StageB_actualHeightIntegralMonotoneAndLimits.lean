@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actualHeightIntegralMonotoneAndLimits
 -- name    : Kyprianou.Ch08.StageB.actualHeightIntegralMonotoneAndLimits
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:40:18.123082+00:00
 -- url     : https://prove2.me/theorems/ee3350ad-787b-4c66-9ad7-f36a3844271a

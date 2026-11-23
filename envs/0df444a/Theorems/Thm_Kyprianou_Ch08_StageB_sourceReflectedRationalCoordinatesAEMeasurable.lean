@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_sourceReflectedRationalCoordinatesAEMeasurable
 -- name    : Kyprianou.Ch08.StageB.sourceReflectedRationalCoordinatesAEMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:29:28.170209+00:00
 -- url     : https://prove2.me/theorems/bbb3a632-36a6-45e2-8332-7c6135ae05ff

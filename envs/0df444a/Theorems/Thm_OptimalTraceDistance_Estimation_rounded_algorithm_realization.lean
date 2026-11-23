@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalTraceDistance_Estimation_rounded_algorithm_realization
 -- name    : OptimalTraceDistance.Estimation.rounded_algorithm_realization
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-23T10:11:04.474146+00:00
 -- url     : https://prove2.me/theorems/245927bd-6e92-4831-8837-95829fc03dff

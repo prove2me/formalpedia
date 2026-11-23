@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actualHeightIntegralUnitLimit
 -- name    : Kyprianou.Ch08.StageB.actualHeightIntegralUnitLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:48:36.278423+00:00
 -- url     : https://prove2.me/theorems/0ddc9d31-a2da-44ae-9ee4-037e25febe81

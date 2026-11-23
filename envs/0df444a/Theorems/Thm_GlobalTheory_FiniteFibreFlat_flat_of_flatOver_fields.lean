@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFibreFlat_flat_of_flatOver_fields
 -- name    : GlobalTheory.FiniteFibreFlat.flat_of_flatOver_fields
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:16:52.759806+00:00
 -- url     : https://prove2.me/theorems/945c9935-480a-4e0c-9102-9fd96f9a49fc

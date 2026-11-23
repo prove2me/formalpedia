@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch08.StageB.source_result8_2_v2_actual_height_law
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T00:05:48.890796+00:00
 -- url     : https://prove2.me/submissions/8bfd4cc2-23ed-4ca8-9cd0-ebedaa04ea7f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Theorems.Thm_Kyprianou_Ch08_StageB_exists_pos_tail_measure_of_log_stieltjes_link

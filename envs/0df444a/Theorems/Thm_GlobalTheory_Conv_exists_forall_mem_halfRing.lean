@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_exists_forall_mem_halfRing
 -- name    : GlobalTheory.Conv.exists_forall_mem_halfRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:35.070804+00:00
 -- url     : https://prove2.me/theorems/0e235a29-dc93-4aa1-8ea7-6a6b579c6bfc

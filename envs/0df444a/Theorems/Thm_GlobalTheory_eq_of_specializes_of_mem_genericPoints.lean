@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_specializes_of_mem_genericPoints
 -- name    : GlobalTheory.eq_of_specializes_of_mem_genericPoints
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:52.881994+00:00
 -- url     : https://prove2.me/theorems/0b961f75-9fb9-45a1-8206-e73e68cf8b22

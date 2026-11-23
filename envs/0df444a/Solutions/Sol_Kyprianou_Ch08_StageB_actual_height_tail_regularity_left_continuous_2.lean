@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch08.StageB.actual_height_tail_regularity_left_continuous
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T09:21:20.304139+00:00
 -- url     : https://prove2.me/submissions/b39046fe-10f7-4564-9a62-13e845e4565c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_tail_integral_core_left_continuous

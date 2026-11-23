@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isSymplecticFamily_span_eq
 -- name    : GlobalTheory.exists_isSymplecticFamily_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:30:51.061821+00:00
 -- url     : https://prove2.me/theorems/e70e4fd5-54f1-4005-bea2-7327b7ed16d1

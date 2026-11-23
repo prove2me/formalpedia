@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLocusPull_gs_secOn
 -- name    : GlobalTheory.AbLocusPull.gs_secOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:25:06.756617+00:00
 -- url     : https://prove2.me/theorems/d24af957-9678-4231-b89b-b98b92147fdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actualHeightDiscountedCompactPathUSC
 -- name    : Kyprianou.Ch08.StageB.actualHeightDiscountedCompactPathUSC
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T10:05:06.787322+00:00
 -- url     : https://prove2.me/theorems/3fc8f83c-bf5a-4a35-bbc5-c1eb01045c2e

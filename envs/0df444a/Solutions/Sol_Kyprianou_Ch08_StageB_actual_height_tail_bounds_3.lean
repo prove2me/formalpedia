@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for Kyprianou.Ch08.StageB.actual_height_tail_bounds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T23:49:27.6858+00:00
 -- url     : https://prove2.me/submissions/0da8c303-7217-4062-965e-b892a7384d5b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_tail_integral_core_left_continuous

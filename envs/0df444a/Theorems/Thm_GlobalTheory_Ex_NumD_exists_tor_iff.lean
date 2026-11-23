@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_exists_tor_iff
 -- name    : GlobalTheory.Ex.NumD.exists_tor_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:29:48.389635+00:00
 -- url     : https://prove2.me/theorems/5fbfc0f9-8710-40f7-a441-cceae46cc4ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_markedCompoundPoissonRandomMeasureCh02V6
 -- name    : Kyprianou.markedCompoundPoissonRandomMeasureCh02V6
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-17T12:47:25.500196+00:00
 -- url     : https://prove2.me/theorems/97f0123b-b6ba-4231-ab3d-a48f9d5a90e2

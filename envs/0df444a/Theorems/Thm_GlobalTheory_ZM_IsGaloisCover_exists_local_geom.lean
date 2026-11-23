@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_IsGaloisCover_exists_local_geom
 -- name    : GlobalTheory.ZM.IsGaloisCover.exists_local_geom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:20.87626+00:00
 -- url     : https://prove2.me/theorems/b489c9e6-0e14-4bdd-bb98-93a1b4206910

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndivisibleSection_prod_fam_zero
 -- name    : GlobalTheory.IndivisibleSection.prod_fam_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:18:13.580205+00:00
 -- url     : https://prove2.me/theorems/614c03d1-45db-478b-b4cf-65c81da05cfa

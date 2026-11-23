@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_sourceReflectedPathRegularityAE
 -- name    : Kyprianou.Ch08.StageB.sourceReflectedPathRegularityAE
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:29:28.605274+00:00
 -- url     : https://prove2.me/theorems/ad597f58-770f-473c-afa0-c8290c6db343

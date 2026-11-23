@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowUnif_exists_chart
 -- name    : GlobalTheory.PowUnif.exists_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:29:24.083956+00:00
 -- url     : https://prove2.me/theorems/4b11e0c4-26bb-4924-8ee5-011838fb99ec

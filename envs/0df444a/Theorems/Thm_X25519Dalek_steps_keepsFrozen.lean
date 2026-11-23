@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_steps_keepsFrozen
 -- name    : X25519Dalek.steps_keepsFrozen
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-23T12:09:31.473288+00:00
 -- url     : https://prove2.me/theorems/071b8c16-e630-4bd7-bbc0-a81a117e8b23

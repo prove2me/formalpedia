@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSInh_isOpen_dom
 -- name    : GlobalTheory.KSInh.isOpen_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:25.671256+00:00
 -- url     : https://prove2.me/theorems/e4ba2024-294f-485e-b210-d6fb9d66d8dc

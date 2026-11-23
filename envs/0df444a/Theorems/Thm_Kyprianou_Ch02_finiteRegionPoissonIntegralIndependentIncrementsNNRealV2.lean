@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_finiteRegionPoissonIntegralIndependentIncrementsNNRealV2
 -- name    : Kyprianou.Ch02.finiteRegionPoissonIntegralIndependentIncrementsNNRealV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:07:27.256346+00:00
 -- url     : https://prove2.me/theorems/707a26fd-f2b5-4329-affd-0df40c35e992

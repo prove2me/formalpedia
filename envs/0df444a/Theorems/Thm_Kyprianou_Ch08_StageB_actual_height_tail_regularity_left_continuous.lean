@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_tail_regularity_left_continuous
 -- name    : Kyprianou.Ch08.StageB.actual_height_tail_regularity_left_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:04:01.284093+00:00
 -- url     : https://prove2.me/theorems/8dca645c-459c-443d-b349-8419d539f680

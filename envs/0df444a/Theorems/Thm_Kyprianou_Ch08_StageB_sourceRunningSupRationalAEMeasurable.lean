@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_sourceRunningSupRationalAEMeasurable
 -- name    : Kyprianou.Ch08.StageB.sourceRunningSupRationalAEMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:27:25.507749+00:00
 -- url     : https://prove2.me/theorems/2474ab10-2d7e-443d-8497-d6f7e6455b8c

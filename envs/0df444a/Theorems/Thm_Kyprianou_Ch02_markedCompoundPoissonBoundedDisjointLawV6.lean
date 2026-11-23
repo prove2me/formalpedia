@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_markedCompoundPoissonBoundedDisjointLawV6
 -- name    : Kyprianou.Ch02.markedCompoundPoissonBoundedDisjointLawV6
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-23T11:46:28.501971+00:00
 -- url     : https://prove2.me/theorems/487b22b9-5fa9-43d1-9bcf-73f9885f197b

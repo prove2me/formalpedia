@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsestCutOracle_Main_zero_weights_reduction
 -- name    : SparsestCutOracle.Main.zero_weights_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:37:52.061377+00:00
 -- url     : https://prove2.me/theorems/8eca55df-75e3-47b1-b09f-b754f36d3866

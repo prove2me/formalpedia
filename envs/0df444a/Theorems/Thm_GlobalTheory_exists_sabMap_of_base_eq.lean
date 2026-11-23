@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sabMap_of_base_eq
 -- name    : GlobalTheory.exists_sabMap_of_base_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:23.965144+00:00
 -- url     : https://prove2.me/theorems/70f51ce2-9785-4a8a-9c7b-393d3d92e17a

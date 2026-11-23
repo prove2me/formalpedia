@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionDisjointMarkedStripIntegralsIndependentV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionDisjointMarkedStripIntegralsIndependentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:13:28.747796+00:00
 -- url     : https://prove2.me/theorems/32b9289c-d86a-474c-9cdc-49b764657527

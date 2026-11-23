@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowUnif_le_wchart_iff
 -- name    : GlobalTheory.PowUnif.le_wchart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:29:26.596742+00:00
 -- url     : https://prove2.me/theorems/a102d211-2cfb-4990-b1bb-50bea49ff348

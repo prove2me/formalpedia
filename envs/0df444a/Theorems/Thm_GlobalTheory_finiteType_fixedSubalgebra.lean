@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finiteType_fixedSubalgebra
 -- name    : GlobalTheory.finiteType_fixedSubalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:49.674426+00:00
 -- url     : https://prove2.me/theorems/4780e25d-7af2-4d06-8e65-ee23a903975e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_ImmSep_eq_of_crd_eq
 -- name    : GlobalTheory.ZH.ImmSep.eq_of_crd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:26.400353+00:00
 -- url     : https://prove2.me/theorems/bd3c3cfc-9ea1-4d7d-bc73-ebb1f12052ae

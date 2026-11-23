@@ -72764,7 +72764,7 @@
 {"parent": "OAI.CubicEisenstein.kernelQuotientBarrier_laplace_defect", "child": "OAI_NumberTheory_DirichletL_MeanSquare_UnitRows", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelQuotientBarrier_laplace_defect", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspHeight", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelQuotientBarrier_laplace_defect", "child": "OAI_NumberTheory_DirichletL_Eisenstein_BarrierPotential", "via": ["solution", "statement"]}
-{"parent": "SparsestCutOracle.Main.zero_weights_reduction", "child": "SparsestCutOracle_Main_Guarantees", "via": ["statement"]}
+{"parent": "SparsestCutOracle.Main.zero_weights_reduction", "child": "SparsestCutOracle_Main_Guarantees", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ConnectedSetCounting.graph_adj_iff", "child": "QEC_Coding_FiniteAlternatingConstruction_ConnectedSetCounting", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ConnectedSetCounting.graph_adj_iff", "child": "QEC_Coding_FiniteAlternatingConstruction_GraphQuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ConnectedSetCounting.graph_adj_iff", "child": "QEC_Locality_Graph_ConnectedSetCounting", "via": ["solution", "statement"]}

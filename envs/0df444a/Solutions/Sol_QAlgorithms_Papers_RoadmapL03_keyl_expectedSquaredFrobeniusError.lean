@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.RoadmapL03.keyl_expectedSquaredFrobeniusError
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-23T11:41:17.341613+00:00
 -- url     : https://prove2.me/submissions/57a5163a-652d-4a78-879a-62d03c67f1d4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QAlgorithms_Papers_RoadmapL03_keyl_born_realization
 import Theorems.Thm_QAlgorithms_Papers_RoadmapL03_keyl_squaredRisk_bound

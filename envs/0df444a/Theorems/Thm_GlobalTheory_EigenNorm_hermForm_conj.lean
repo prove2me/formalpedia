@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenNorm_hermForm_conj
 -- name    : GlobalTheory.EigenNorm.hermForm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:29:44.537825+00:00
 -- url     : https://prove2.me/theorems/6dc90777-e2d6-4865-ba86-d6704696ce96

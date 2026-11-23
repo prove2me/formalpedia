@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_hansen_potential_of_lapse_radius
 -- name    : NoHair.hansen_potential_of_lapse_radius
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T12:28:55.91937+00:00
 -- url     : https://prove2.me/theorems/66bbdeba-1f6c-4e60-ad94-775a3782d164

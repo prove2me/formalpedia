@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH1E6S15_group_069
 -- name    : RH1E6S15.group_069
--- status  : Open
+-- status  : Proved
 -- author  : @@bwdaugherty
 -- created : 2026-11-23T12:06:02.121664+00:00
 -- url     : https://prove2.me/theorems/1db5a772-7e7f-41cd-b046-b224b290c677

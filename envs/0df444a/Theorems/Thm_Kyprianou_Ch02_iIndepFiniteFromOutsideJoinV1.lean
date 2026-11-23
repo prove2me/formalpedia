@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_iIndepFiniteFromOutsideJoinV1
 -- name    : Kyprianou.Ch02.iIndepFiniteFromOutsideJoinV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:16:05.440979+00:00
 -- url     : https://prove2.me/theorems/d8c19028-1bfb-49de-a7ec-baae5b9db37d

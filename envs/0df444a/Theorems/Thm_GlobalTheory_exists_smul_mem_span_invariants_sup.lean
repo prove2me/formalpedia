@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_mem_span_invariants_sup
 -- name    : GlobalTheory.exists_smul_mem_span_invariants_sup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:48.1508+00:00
 -- url     : https://prove2.me/theorems/4acaeeda-ed1c-47ac-8b72-025c3b21a73f

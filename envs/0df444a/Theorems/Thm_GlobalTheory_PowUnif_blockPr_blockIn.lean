@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowUnif_blockPr_blockIn
 -- name    : GlobalTheory.PowUnif.blockPr_blockIn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:29:44.773859+00:00
 -- url     : https://prove2.me/theorems/fd67b484-1a89-41f5-815d-d574948213d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_tr_self
 -- name    : GlobalTheory.VolFin.tr_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:11:58.483362+00:00
 -- url     : https://prove2.me/theorems/9d4dcaf4-0aa7-4afd-b6bd-4e65dcfaa118

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_genericPoints_subset_range_of_isDominant
 -- name    : GlobalTheory.genericPoints_subset_range_of_isDominant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:53.79179+00:00
 -- url     : https://prove2.me/theorems/37df498c-9eb5-4aaf-8ad8-8519d8af29dc

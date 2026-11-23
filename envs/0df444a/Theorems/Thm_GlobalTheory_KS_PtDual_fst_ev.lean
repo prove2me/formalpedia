@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_PtDual_fst_ev
 -- name    : GlobalTheory.KS.PtDual.fst_ev
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:23:49.755912+00:00
 -- url     : https://prove2.me/theorems/b915869a-7d0a-4ea3-a104-a7bbbd3eff7b

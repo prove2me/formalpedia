@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseRing_finiteDimensional_KA
 -- name    : GlobalTheory.BaseRing.finiteDimensional_KA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:18:03.027628+00:00
 -- url     : https://prove2.me/theorems/01d3b78c-8adf-47d3-905b-8c92de79d426

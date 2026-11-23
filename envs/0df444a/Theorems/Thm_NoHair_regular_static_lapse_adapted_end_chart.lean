@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_regular_static_lapse_adapted_end_chart
 -- name    : NoHair.regular_static_lapse_adapted_end_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T12:14:04.288797+00:00
 -- url     : https://prove2.me/theorems/27a972a3-c871-4112-bc97-d4271ac79234

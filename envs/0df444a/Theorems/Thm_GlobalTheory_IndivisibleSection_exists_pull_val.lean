@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndivisibleSection_exists_pull_val
 -- name    : GlobalTheory.IndivisibleSection.exists_pull_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:25:56.168033+00:00
 -- url     : https://prove2.me/theorems/e4dfef05-096a-48fc-bc13-3d9728eafeec

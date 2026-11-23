@@ -59121,7 +59121,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.Wd7.mul_eU_apply", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_EntryCommuteTransposedRMatrix", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd7.mul_eU_apply", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ScalarCommuteTransposedRMatrixEntry", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd7.mul_eU_apply", "child": "Formalism_HermitianCurvature_StatementWd", "via": ["statement"]}
-{"parent": "Formalism.L2.Pj.nval_mul", "child": "Formalism_LocalToGlobal_ProjectiveLattices_OneLtAbsNormReal", "via": ["statement"]}
+{"parent": "Formalism.L2.Pj.nval_mul", "child": "Formalism_LocalToGlobal_ProjectiveLattices_OneLtAbsNormReal", "via": ["solution", "statement"]}
 {"parent": "CCS.resid_res", "child": "EventStructures_LTS_Basic", "via": ["solution", "statement"]}
 {"parent": "CCS.resid_res", "child": "EventStructures_CCS_Bisimulation", "via": ["solution", "statement"]}
 {"parent": "CCS.resid_res", "child": "EventStructures_CCS_Semantics", "via": ["solution", "statement"]}
@@ -65572,7 +65572,7 @@
 {"parent": "Formalism_SharpRestriction_Divisibility_HookProducts_RBTieMu", "child": "Formalism_HarderNarasimhan_ShiftInvariance", "via": ["statement"]}
 {"parent": "Formalism_SharpRestriction_Divisibility_HookProducts_RBTieMu", "child": "Formalism_LocalRingCardinality_DataArith", "via": ["statement"]}
 {"parent": "Formalism_SharpRestriction_Divisibility_HookProducts_RBTieMu", "child": "Formalism_SharpRestriction_Divisibility_HookProducts_RBTieSlope", "via": ["statement"]}
-{"parent": "X25519Dalek.fnOk_fe51_pow22501", "child": "X25519Dalek_Spec", "via": ["statement"]}
+{"parent": "X25519Dalek.fnOk_fe51_pow22501", "child": "X25519Dalek_Spec", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.ColumnFamilies.qs_rem_mem", "child": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_QsRemIffAdd", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.ColumnFamilies.qs_rem_mem", "child": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_QsMnTranspose", "via": ["solution", "statement"]}
 {"parent": "Csg_RewardUntilCertificate", "child": "Csg_Basic", "via": ["statement"]}
@@ -81014,10 +81014,10 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.BoxSum.mem_boxSet_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AbsNormEqProdOfMem", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.VecSplit.mem_adjoin_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ConjOMemHcompl", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.VecSplit.mem_adjoin_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsUnimodularAtAdjoinIff", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch01.reverseLampertiNonexplosiveOffDiagonalGenerator", "child": "Kyprianou_Ch01_BranchingClocks", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.reverseLampertiNonexplosiveOffDiagonalGenerator", "child": "Kyprianou_Ch01_BranchingGenerator", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.reverseLampertiNonexplosiveOffDiagonalGenerator", "child": "Kyprianou_Ch01_LampertiInverse", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.reverseLampertiNonexplosiveOffDiagonalGenerator", "child": "LeanLevy_Processes_CompoundPoisson", "via": ["statement"]}
+{"parent": "Kyprianou.Ch01.reverseLampertiNonexplosiveOffDiagonalGenerator", "child": "Kyprianou_Ch01_BranchingClocks", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch01.reverseLampertiNonexplosiveOffDiagonalGenerator", "child": "Kyprianou_Ch01_BranchingGenerator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch01.reverseLampertiNonexplosiveOffDiagonalGenerator", "child": "Kyprianou_Ch01_LampertiInverse", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch01.reverseLampertiNonexplosiveOffDiagonalGenerator", "child": "LeanLevy_Processes_CompoundPoisson", "via": ["solution", "statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsBasisLocF", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["statement"]}
 {"parent": "Formalism.CountingSumsFrames.Har4.hXY_mem_PolAB", "child": "Formalism_PolynomialDimension_MultinomialDepth_SqrtFockGaussLatticeComparisonHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.Har4.hXY_mem_PolAB", "child": "Formalism_PolynomialDimension_StatementHar", "via": ["solution", "statement"]}
