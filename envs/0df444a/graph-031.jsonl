@@ -65560,9 +65560,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg31816", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_length_65_ca", "child": "OAIQ229C022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42618", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "SaglamGV.lemma_3_1", "child": "SaglamGV_Fourier", "via": ["statement"]}
-{"parent": "SaglamGV.lemma_3_1", "child": "SaglamGV_Code", "via": ["statement"]}
-{"parent": "SaglamGV.lemma_3_1", "child": "SaglamGV_Walk", "via": ["statement"]}
+{"parent": "SaglamGV.lemma_3_1", "child": "SaglamGV_Fourier", "via": ["solution", "statement"]}
+{"parent": "SaglamGV.lemma_3_1", "child": "SaglamGV_Code", "via": ["solution", "statement"]}
+{"parent": "SaglamGV.lemma_3_1", "child": "SaglamGV_Walk", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35462", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32231", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28123", "child": "OAIQ259US007", "via": ["statement"]}

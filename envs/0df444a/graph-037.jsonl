@@ -78208,10 +78208,10 @@
 {"parent": "Formalism.ZeroFreeDirichlet.lfunction_polynomial_growth", "child": "Formalism_LFunctionBounds_LFunctionBoundsProofs_LPartialSum", "via": ["statement"]}
 {"parent": "Formalism.ZeroFreeDirichlet.lfunction_polynomial_growth", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LGrowth", "via": ["statement"]}
 {"parent": "Formalism.ZeroFreeDirichlet.lfunction_polynomial_growth", "child": "Formalism_LandauZeroFreeBounds_NoZeroComplexOf", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_latS", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_latS", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_latS", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsScale", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_latS", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["statement"]}
+{"parent": "Formalism.UG.P.csScale_latS", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csScale_latS", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csScale_latS", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsScale", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csScale_latS", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitKronecker_EqZeroOfMulVec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitKronecker_PosDefFormNeZero", "via": ["statement"]}
 {"parent": "Formalism.BranchingDeterminantCap.xn_minor_perm", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LFockbLemmas", "via": ["solution", "statement"]}
 {"parent": "Formalism.BranchingDeterminantCap.xn_minor_perm", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LBidetMinor", "via": ["solution", "statement"]}
@@ -78583,10 +78583,10 @@
 {"parent": "Formalism.InvariantFactorPaths.G7.LemTwo.coeff_swap2", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_TopsChoicePartA", "via": ["statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.LemTwo.coeff_swap2", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_LemmaTwoOf", "via": ["statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.LemTwo.coeff_swap2", "child": "Formalism_GaussJetBounds_GaussJetProofs_SubstitutionWeightBound", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_sigR_mem", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_sigR_mem", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_sigR_mem", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsScale", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_sigR_mem", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["statement"]}
+{"parent": "Formalism.UG.P.csScale_sigR_mem", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csScale_sigR_mem", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csScale_sigR_mem", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsScale", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csScale_sigR_mem", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["solution", "statement"]}
 {"parent": "Csg.skirmish_home_mem_LFpre1_safe_safe_safe", "child": "Csg_Skirmish", "via": ["solution", "statement"]}
 {"parent": "Csg.skirmish_home_mem_LFpre1_safe_safe_safe", "child": "Csg_QualitativeAlmostSure", "via": ["solution", "statement"]}
 {"parent": "Csg.skirmish_home_mem_LFpre1_safe_safe_safe", "child": "Csg_QualitativeLimitSure", "via": ["solution", "statement"]}
@@ -79308,10 +79308,10 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.pt_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_OneArcSt", "via": ["solution", "statement"]}
 {"parent": "ZeroFreeRRG.Hardcore.l421_continue", "child": "ZeroFreeRRG_Hardcore_BetheFunctional", "via": ["statement"]}
 {"parent": "ZeroFreeRRG.Hardcore.l421_continue", "child": "ZeroFreeRRG_Hardcore_Truncation", "via": ["statement"]}
-{"parent": "Formalism.UG.P.levelaf_denom", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelaf", "via": ["statement"]}
-{"parent": "Formalism.UG.P.levelaf_denom", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["statement"]}
-{"parent": "Formalism.UG.P.levelaf_denom", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stabstd", "via": ["statement"]}
-{"parent": "Formalism.UG.P.levelaf_denom", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_GlintPrincRelIndexNeZero", "via": ["statement"]}
+{"parent": "Formalism.UG.P.levelaf_denom", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelaf", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.levelaf_denom", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.levelaf_denom", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stabstd", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.levelaf_denom", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_GlintPrincRelIndexNeZero", "via": ["solution", "statement"]}
 {"parent": "StableMSR.Recovery.WindowPorts.counted_state_addresses", "child": "StableMSR_WindowPorts", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicArithmetic_OrbitLabellings_BeSConstantCoeffEqZeroAndWtGe", "child": "Development_AutomorphicArithmetic_OrbitLabellings_ColDefs", "via": ["statement"]}
 {"parent": "Development_AutomorphicArithmetic_OrbitLabellings_BeSConstantCoeffEqZeroAndWtGe", "child": "Formalism_GaussJetBounds_OneLetterRadius", "via": ["statement"]}
@@ -96859,10 +96859,10 @@
 {"parent": "Formalism.HN.DualPolygon.twist_int", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensHH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensHL", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensHH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensVDx", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsScale", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_glob", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csScale_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge", "via": ["statement"]}
+{"parent": "Formalism.UG.P.csScale_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsScale", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csScale_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csScale_glob", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csScale_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge", "via": ["solution", "statement"]}
 {"parent": "Formalism_LocalRingCardinality_SpanPowerMembership_NZTypeB", "child": "Formalism_LocalRingCardinality_SpanPowerMembership_NZTypeA", "via": ["statement"]}
 {"parent": "Formalism.UG.P.Jpq_zero", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.Jpq_zero", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Upqcpt", "via": ["solution", "statement"]}

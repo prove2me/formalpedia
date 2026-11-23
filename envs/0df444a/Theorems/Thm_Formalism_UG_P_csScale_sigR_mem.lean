@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csScale_sigR_mem
 -- name    : Formalism.UG.P.csScale_sigR_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:11:46.674712+00:00
 -- url     : https://prove2.me/theorems/67d8579f-4015-4f82-a58d-bb3a83162e01

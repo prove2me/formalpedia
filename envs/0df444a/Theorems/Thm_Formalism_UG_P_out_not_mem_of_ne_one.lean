@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_out_not_mem_of_ne_one
 -- name    : Formalism.UG.P.out_not_mem_of_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:58.435148+00:00
 -- url     : https://prove2.me/theorems/ce035416-b9c5-4f61-ab3e-163dcdd20ee8

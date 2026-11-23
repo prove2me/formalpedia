@@ -55599,7 +55599,7 @@
 {"parent": "BipDijoin_IsVinfIrreducible", "child": "BipDijoin_IsStrongEnd", "via": ["statement"]}
 {"parent": "QEC.Coding.ProbabilisticConstruction.Resampling.expected_totalSteps_le", "child": "QEC_Coding_ProbabilisticConstruction_Resampling_Expectation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.ProbabilisticConstruction.Resampling.expected_totalSteps_le", "child": "QEC_Coding_ProbabilisticConstruction_Resampling_OccurrenceCounting", "via": ["solution", "statement"]}
-{"parent": "BhangaleHypergraph.Main.avoiding_amplification", "child": "BhangaleHypergraph_Main_Restricted", "via": ["statement"]}
+{"parent": "BhangaleHypergraph.Main.avoiding_amplification", "child": "BhangaleHypergraph_Main_Restricted", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r2_5_eq_g", "child": "OAIQ098G400", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r2_5_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
 {"parent": "TwoReLULayers.DepthCollapse.cover_refinement", "child": "TwoReLULayers_DepthCollapse_Construction", "via": ["statement"]}

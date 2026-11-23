@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoserSchneckenreither_evaluation_typability_counterexample
 -- name    : MoserSchneckenreither.evaluation_typability_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-21T08:58:18.303745+00:00
 -- url     : https://prove2.me/theorems/3b07d9be-6b09-4d36-9300-8b56f25efff7

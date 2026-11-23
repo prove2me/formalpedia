@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_pairMat_snd
 -- name    : Formalism.UG.P.pairMat_snd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:27.578619+00:00
 -- url     : https://prove2.me/theorems/c85c3a59-6929-4e10-b2a7-c4c7e67098cd

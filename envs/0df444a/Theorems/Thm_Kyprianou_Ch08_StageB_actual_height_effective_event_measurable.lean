@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_effective_event_measurable
 -- name    : Kyprianou.Ch08.StageB.actual_height_effective_event_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T02:57:50.648182+00:00
 -- url     : https://prove2.me/theorems/9977a4ec-637c-4542-8ae5-6d6072bbf453

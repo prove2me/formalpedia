@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeGL_apply
 -- name    : Formalism.UG.P.satakeGL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:17.195796+00:00
 -- url     : https://prove2.me/theorems/831ad179-d85d-4904-9ca5-3039de993322

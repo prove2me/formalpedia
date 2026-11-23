@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wlocal_E_mul_E
 -- name    : Formalism.UG.P.wlocal_E_mul_E
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:34.167286+00:00
 -- url     : https://prove2.me/theorems/2847f6e8-97b6-4ca3-adac-bcc3b9b00eff

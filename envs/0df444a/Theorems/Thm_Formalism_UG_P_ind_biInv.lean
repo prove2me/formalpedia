@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_ind_biInv
 -- name    : Formalism.UG.P.ind_biInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:27.707133+00:00
 -- url     : https://prove2.me/theorems/28e18b7d-d1c0-4181-aaaa-e0438e64bc26

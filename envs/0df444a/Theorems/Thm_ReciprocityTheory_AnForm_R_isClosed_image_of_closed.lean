@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isClosed_image_of_closed
 -- name    : ReciprocityTheory.AnForm.R.isClosed_image_of_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:49.714561+00:00
 -- url     : https://prove2.me/theorems/d5be107b-2411-4a77-b945-151d04c54f2c

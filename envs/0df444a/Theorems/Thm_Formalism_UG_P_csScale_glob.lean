@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csScale_glob
 -- name    : Formalism.UG.P.csScale_glob
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:37:37.657877+00:00
 -- url     : https://prove2.me/theorems/eb36f4c7-3da8-4995-a52e-e40ed14d1bce

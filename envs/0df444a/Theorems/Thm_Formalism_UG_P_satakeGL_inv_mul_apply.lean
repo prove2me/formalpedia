@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeGL_inv_mul_apply
 -- name    : Formalism.UG.P.satakeGL_inv_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:03.756709+00:00
 -- url     : https://prove2.me/theorems/d7884f8f-7e35-4ae8-b711-585a1d5c33bd

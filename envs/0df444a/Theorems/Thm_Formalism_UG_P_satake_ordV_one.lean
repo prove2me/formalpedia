@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_ordV_one
 -- name    : Formalism.UG.P.satake_ordV_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:32.544797+00:00
 -- url     : https://prove2.me/theorems/0a8de99e-1de6-431b-97d4-5d0a131b4514

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarCoord_sigR_tmul
 -- name    : GlobalTheory.CompanionTheory.SW.HaarCoord.sigR_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:35.850929+00:00
 -- url     : https://prove2.me/theorems/aa946b7b-fd3c-45a1-8acb-714077939826

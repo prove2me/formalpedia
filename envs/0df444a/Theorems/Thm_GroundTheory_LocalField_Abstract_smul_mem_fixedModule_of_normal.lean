@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_smul_mem_fixedModule_of_normal
 -- name    : GroundTheory.LocalField.Abstract.smul_mem_fixedModule_of_normal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:51.529804+00:00
 -- url     : https://prove2.me/theorems/e454d25f-6684-4f10-8896-9e985d76bf34

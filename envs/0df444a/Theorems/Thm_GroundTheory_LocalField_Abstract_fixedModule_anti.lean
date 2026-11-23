@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_fixedModule_anti
 -- name    : GroundTheory.LocalField.Abstract.fixedModule_anti
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:24:01.039911+00:00
 -- url     : https://prove2.me/theorems/66a1d268-7cd2-477e-a7f6-8a2c944c3141

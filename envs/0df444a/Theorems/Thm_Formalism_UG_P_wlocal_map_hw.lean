@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wlocal_map_hw
 -- name    : Formalism.UG.P.wlocal_map_hw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:00:00.949768+00:00
 -- url     : https://prove2.me/theorems/e5c033b2-5768-4476-8148-ca341c396fda

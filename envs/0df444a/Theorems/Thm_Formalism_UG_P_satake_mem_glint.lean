@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_mem_glint
 -- name    : Formalism.UG.P.satake_mem_glint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:30.555976+00:00
 -- url     : https://prove2.me/theorems/582cf634-3f19-4dcb-96fd-370c174ae25d

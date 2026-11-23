@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stdform_sig_neg_one
 -- name    : Formalism.UG.P.stdform_sig_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:29:28.214827+00:00
 -- url     : https://prove2.me/theorems/e7e5732a-7ff4-4847-bbe0-fd5fb0b3be0a

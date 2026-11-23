@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedAuctionComplexity_Main_not_gadget_correct
 -- name    : CorrelatedAuctionComplexity.Main.not_gadget_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:33:20.08861+00:00
 -- url     : https://prove2.me/theorems/1ab49d1c-322a-42c0-bce1-b3187499b140

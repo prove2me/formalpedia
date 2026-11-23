@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_unitsLevel
 -- name    : GroundTheory.Global.mem_unitsLevel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:50.803102+00:00
 -- url     : https://prove2.me/theorems/24cb8e73-c79c-478b-aa03-b9fae81b6bea

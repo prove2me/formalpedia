@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HermTop_isTopRing
 -- name    : GlobalTheory.CompanionTheory.SW.HermTop.isTopRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:23:07.849791+00:00
 -- url     : https://prove2.me/theorems/40a8a17c-67d6-4cc1-a479-5b0dbe8a7381

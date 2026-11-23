@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoserSchneckenreither_fixed_residual_counterexample
 -- name    : MoserSchneckenreither.fixed_residual_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-21T08:57:51.962266+00:00
 -- url     : https://prove2.me/theorems/9a328890-7349-4524-9973-2d7911be1537

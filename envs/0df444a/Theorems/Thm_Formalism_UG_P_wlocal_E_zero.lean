@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wlocal_E_zero
 -- name    : Formalism.UG.P.wlocal_E_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:41.533796+00:00
 -- url     : https://prove2.me/theorems/382379fa-8977-45ee-8662-d6bce6a7a8cf

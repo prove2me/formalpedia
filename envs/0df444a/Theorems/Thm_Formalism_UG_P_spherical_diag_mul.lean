@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_spherical_diag_mul
 -- name    : Formalism.UG.P.spherical_diag_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:02.584875+00:00
 -- url     : https://prove2.me/theorems/4132d27c-ff1b-4fd8-9445-3508aa4fad27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleClassGroup_mk_diagonal
 -- name    : GroundTheory.Global.IdeleClassGroup.mk_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:32.581057+00:00
 -- url     : https://prove2.me/theorems/83f5ca14-676d-421e-89e1-eed7121c7c7b

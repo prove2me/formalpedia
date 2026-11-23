@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hermitian_correspondence_surjective_holds
 -- name    : Formalism.UG.P.hermitian_correspondence_surjective_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:27.889896+00:00
 -- url     : https://prove2.me/theorems/74fec153-33c2-4beb-84e7-46dfcf7d4c5d

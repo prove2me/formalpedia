@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_exists_equiv
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:23.378459+00:00
 -- url     : https://prove2.me/theorems/551b41df-a7ed-4b6e-8f62-6076c0f24eb2

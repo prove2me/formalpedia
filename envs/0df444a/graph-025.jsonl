@@ -30861,7 +30861,7 @@
 {"parent": "NashAmplification.Filtering.theorem_1_1", "child": "NashAmplification_Filtering_Encoding", "via": ["statement"]}
 {"parent": "WeightedThreeSetPacking.Main.lemma_3_1", "child": "WeightedThreeSetPacking_Main_Analysis", "via": ["statement"]}
 {"parent": "RGGThreshold_kappaTri", "child": "RGGThreshold_gaussCDF", "via": ["statement"]}
-{"parent": "CorrelatedAuctionComplexity.Main.not_gadget_correct", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["statement"]}
+{"parent": "CorrelatedAuctionComplexity.Main.not_gadget_correct", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["solution", "statement"]}
 {"parent": "ZonotopeContainment.AdaptiveSampling.lemma_2_4", "child": "ZonotopeContainment_AdaptiveSampling_LocalGaussian", "via": ["solution", "statement"]}
 {"parent": "LindbladStructLearn_adjTermCoeff", "child": "LindbladStructLearn_pauliPhase", "via": ["statement"]}
 {"parent": "LindbladStructLearn_adjTermCoeff", "child": "LindbladStructLearn_pauliProd", "via": ["statement"]}
@@ -32550,7 +32550,7 @@
 {"parent": "HarmonicKServer.Competitive.potential_interface", "child": "HarmonicKServer_Competitive_Framework", "via": ["statement"]}
 {"parent": "RankingQueryCost.Joint.lemma_4_9", "child": "RankingQueryCost_Joint_Scale", "via": ["statement"]}
 {"parent": "RankingQueryCost.Joint.lemma_4_9", "child": "RankingQueryCost_Joint_Interaction", "via": ["statement"]}
-{"parent": "CorrelatedAuctionComplexity.Main.sum_gadget_correct", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["statement"]}
+{"parent": "CorrelatedAuctionComplexity.Main.sum_gadget_correct", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["solution", "statement"]}
 {"parent": "LeakageSpectral.Shannon.lemma_1", "child": "LeakageSpectral_Shannon_JointLaw", "via": ["statement"]}
 {"parent": "LeakageSpectral.Shannon.lemma_1", "child": "LeakageSpectral_Shannon_Divergences", "via": ["statement"]}
 {"parent": "LeakageSpectral.Shannon.lemma_1", "child": "LeakageSpectral_Shannon_ShareModel", "via": ["statement"]}
@@ -41600,7 +41600,7 @@
 {"parent": "QStateSearch.one_query_bound", "child": "QStateSearch_ctrlQuery", "via": ["statement"]}
 {"parent": "QStateSearch.one_query_bound", "child": "QStateSearch_overlap", "via": ["statement"]}
 {"parent": "QStateSearch.one_query_bound", "child": "QStateSearch_refl", "via": ["statement"]}
-{"parent": "CorrelatedAuctionComplexity.Main.ppad_complete", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["statement"]}
+{"parent": "CorrelatedAuctionComplexity.Main.ppad_complete", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["solution", "statement"]}
 {"parent": "NKtLB_rK", "child": "NKtLB_Machine", "via": ["statement"]}
 {"parent": "NKtLB_rK", "child": "NKtLB_prob", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm25_0_1_9.s5_eq_g", "child": "OAIQ098G1027", "via": ["solution", "statement"]}

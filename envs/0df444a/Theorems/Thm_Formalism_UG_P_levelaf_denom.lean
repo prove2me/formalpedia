@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelaf_denom
 -- name    : Formalism.UG.P.levelaf_denom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:11:27.242706+00:00
 -- url     : https://prove2.me/theorems/d77e22c3-59a3-4503-8fca-ab403344e341

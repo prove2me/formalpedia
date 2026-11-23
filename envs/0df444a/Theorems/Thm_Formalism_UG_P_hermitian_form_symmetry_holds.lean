@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hermitian_form_symmetry_holds
 -- name    : Formalism.UG.P.hermitian_form_symmetry_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:05.967206+00:00
 -- url     : https://prove2.me/theorems/a79d9db0-c8ec-4c99-95fe-e1fc79330494

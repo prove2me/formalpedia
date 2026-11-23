@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakePairs_card
 -- name    : Formalism.UG.P.satakePairs_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:14.543056+00:00
 -- url     : https://prove2.me/theorems/98fc1b83-b46b-4220-abd2-0ce01c45e2f9

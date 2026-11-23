@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedAuctionComplexity_Main_sum_gadget_correct
 -- name    : CorrelatedAuctionComplexity.Main.sum_gadget_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:33:54.548551+00:00
 -- url     : https://prove2.me/theorems/3d174eff-025b-422d-bfe6-5bb1b5964dc5

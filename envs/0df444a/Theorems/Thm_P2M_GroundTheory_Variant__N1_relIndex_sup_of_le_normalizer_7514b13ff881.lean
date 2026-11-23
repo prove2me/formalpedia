@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_relIndex_sup_of_le_normalizer_7514b13ff881
 -- name    : P2M_GroundTheory_Variant__N1_relIndex_sup_of_le_normalizer_7514b13ff881
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:39.804328+00:00
 -- url     : https://prove2.me/theorems/2c6e61ee-1457-4c17-9f59-6ef05a3c473c

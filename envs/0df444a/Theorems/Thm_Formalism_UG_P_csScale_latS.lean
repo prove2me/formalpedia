@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csScale_latS
 -- name    : Formalism.UG.P.csScale_latS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:11:41.793822+00:00
 -- url     : https://prove2.me/theorems/910b2846-107f-48a7-8fb0-e452aeb9a8c3

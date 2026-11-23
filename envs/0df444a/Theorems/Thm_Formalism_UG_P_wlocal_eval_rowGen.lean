@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wlocal_eval_rowGen
 -- name    : Formalism.UG.P.wlocal_eval_rowGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:29:00.393481+00:00
 -- url     : https://prove2.me/theorems/4fb21bc3-7839-4775-add7-308b8b4a780b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoStepUnipotent_st_half
 -- name    : GlobalTheory.TwoStepUnipotent.st_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:24:38.311461+00:00
 -- url     : https://prove2.me/theorems/addbc039-8ec8-4dbb-a786-e53d3cfa1a9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelv_S_le_range
 -- name    : Formalism.UG.P.levelv_S_le_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:09.812969+00:00
 -- url     : https://prove2.me/theorems/b9e756f1-d08e-4683-9033-d0e4a6ed25be

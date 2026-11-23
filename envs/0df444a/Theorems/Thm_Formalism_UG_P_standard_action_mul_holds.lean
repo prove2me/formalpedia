@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_standard_action_mul_holds
 -- name    : Formalism.UG.P.standard_action_mul_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:14.341966+00:00
 -- url     : https://prove2.me/theorems/4fbaccb3-6e7c-453f-b79a-98de2afd859c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_out_mem_of_eq_one
 -- name    : Formalism.UG.P.out_mem_of_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:45.779228+00:00
 -- url     : https://prove2.me/theorems/ad2b3534-adb8-4436-b4fe-abc40828e2f4

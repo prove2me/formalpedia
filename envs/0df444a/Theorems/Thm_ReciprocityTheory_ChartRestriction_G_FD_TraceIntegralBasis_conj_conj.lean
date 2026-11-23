@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TraceIntegralBasis_conj_conj
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TraceIntegralBasis.conj_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:32.538999+00:00
 -- url     : https://prove2.me/theorems/f3d7fe88-bbb4-49e9-b71e-33b8c5d6d6f9

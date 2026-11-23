@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_spherical_upper_mul
 -- name    : Formalism.UG.P.spherical_upper_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:05.366655+00:00
 -- url     : https://prove2.me/theorems/a46f3e0e-afa9-48bf-89aa-4a9395dc27a0

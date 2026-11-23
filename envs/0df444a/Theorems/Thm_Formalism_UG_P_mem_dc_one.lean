@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_mem_dc_one
 -- name    : Formalism.UG.P.mem_dc_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:51.794487+00:00
 -- url     : https://prove2.me/theorems/fbcc1601-0522-4fe1-ac5b-e14afe4a1fa7

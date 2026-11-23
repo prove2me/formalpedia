@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelv_denom_family
 -- name    : Formalism.UG.P.levelv_denom_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:22:12.847185+00:00
 -- url     : https://prove2.me/theorems/877b16bb-478d-4762-80fe-11e7e31fe7f6

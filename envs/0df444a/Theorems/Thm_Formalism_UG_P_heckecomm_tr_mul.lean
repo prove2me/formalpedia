@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_heckecomm_tr_mul
 -- name    : Formalism.UG.P.heckecomm_tr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:36.663969+00:00
 -- url     : https://prove2.me/theorems/64eae4db-c8eb-43f5-b880-54c3ebbcded6

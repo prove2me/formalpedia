@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_unitsLevel_zero
 -- name    : GroundTheory.Global.unitsLevel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:22:50.513005+00:00
 -- url     : https://prove2.me/theorems/9b48452e-0b43-4d61-ad4a-069ab76ccc86

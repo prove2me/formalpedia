@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_sigma_involution_holds
 -- name    : Formalism.UG.P.sigma_involution_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:00.814933+00:00
 -- url     : https://prove2.me/theorems/45d3d1c5-4b1d-4a35-bd10-41b41d8ef89a

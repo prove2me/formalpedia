@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeN_diag
 -- name    : Formalism.UG.P.satakeN_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:12.794104+00:00
 -- url     : https://prove2.me/theorems/619e3851-94c9-4731-b261-1512dec19ce7

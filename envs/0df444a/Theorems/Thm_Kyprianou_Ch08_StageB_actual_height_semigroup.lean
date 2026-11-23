@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_semigroup
 -- name    : Kyprianou.Ch08.StageB.actual_height_semigroup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T20:34:23.189706+00:00
 -- url     : https://prove2.me/theorems/47fdba96-7849-46b6-87b0-6cea26c5eadd

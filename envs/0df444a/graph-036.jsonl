@@ -82673,7 +82673,7 @@
 {"parent": "RH1E6S10.part_000_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S10.part_000_2", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S10.part_000_2", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
-{"parent": "MoserSchneckenreither.evaluation_typability_counterexample", "child": "MoserSchneckenreither_Typing", "via": ["statement"]}
+{"parent": "MoserSchneckenreither.evaluation_typability_counterexample", "child": "MoserSchneckenreither_Typing", "via": ["solution", "statement"]}
 {"parent": "PreservePast_Supplement_gaussPopData", "child": "PreservePast_Supplement_singList", "via": ["statement"]}
 {"parent": "PreservePast_Supplement_gaussPopData", "child": "PreservePast_Supplement_gaussShift", "via": ["statement"]}
 {"parent": "RH1E6S09_D000_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
@@ -99520,8 +99520,8 @@
 {"parent": "RH1E6S09.part_081_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S09.part_081_3", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S09.part_081_3", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
-{"parent": "MoserSchneckenreither.fixed_residual_counterexample", "child": "MoserSchneckenreither_RootPotential", "via": ["statement"]}
-{"parent": "MoserSchneckenreither.fixed_residual_counterexample", "child": "MoserSchneckenreither_Typing", "via": ["statement"]}
+{"parent": "MoserSchneckenreither.fixed_residual_counterexample", "child": "MoserSchneckenreither_RootPotential", "via": ["solution", "statement"]}
+{"parent": "MoserSchneckenreither.fixed_residual_counterexample", "child": "MoserSchneckenreither_Typing", "via": ["solution", "statement"]}
 {"parent": "RH1E6S10_D078_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHRow23LowSlabSeventeenth66388", "child": "row23_rh_supp_RHRow23LowSlabSixteenth66388", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHRow23LowSlabSeventeenth66388", "child": "row23_rh_supp_RHLowSlabSeventeenthFinal", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_prod_X_pow_fun
 -- name    : Formalism.UG.P.prod_X_pow_fun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:02.46617+00:00
 -- url     : https://prove2.me/theorems/5cddb0c5-50ec-489a-a81e-5e6425711742

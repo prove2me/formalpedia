@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_dG_val
 -- name    : Formalism.UG.P.tjcosets_dG_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:22.479947+00:00
 -- url     : https://prove2.me/theorems/45395815-9451-469a-b233-9501a274ecea

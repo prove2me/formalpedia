@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_red_iso
 -- name    : Formalism.UG.P.tjcosets_red_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:38.305834+00:00
 -- url     : https://prove2.me/theorems/3183b58f-1629-4cab-853a-e4fed8d4f8a7

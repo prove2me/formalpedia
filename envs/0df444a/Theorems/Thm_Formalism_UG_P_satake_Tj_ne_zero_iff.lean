@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_Tj_ne_zero_iff
 -- name    : Formalism.UG.P.satake_Tj_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:03.692797+00:00
 -- url     : https://prove2.me/theorems/82b4337e-e6e3-4551-b638-d68bbe94ff1a

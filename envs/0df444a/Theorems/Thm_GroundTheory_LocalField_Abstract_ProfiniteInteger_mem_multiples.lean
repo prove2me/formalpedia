@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ProfiniteInteger_mem_multiples
 -- name    : GroundTheory.LocalField.Abstract.ProfiniteInteger.mem_multiples
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:26.238855+00:00
 -- url     : https://prove2.me/theorems/aa6e5ba4-2f10-405f-849f-0a032dce69a3

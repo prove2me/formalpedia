@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_split_map_snd_mul
 -- name    : Formalism.UG.P.split_map_snd_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:15.109401+00:00
 -- url     : https://prove2.me/theorems/987e56a6-2da8-4bc7-9af1-6debd1e5748e

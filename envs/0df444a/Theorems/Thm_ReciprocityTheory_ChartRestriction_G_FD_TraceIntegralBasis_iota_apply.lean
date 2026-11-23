@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TraceIntegralBasis_iota_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TraceIntegralBasis.iota_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:54.636813+00:00
 -- url     : https://prove2.me/theorems/c90d7b76-7055-4407-b751-fff5f9521fc1

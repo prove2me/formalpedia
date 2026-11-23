@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelaf_adele_denom
 -- name    : Formalism.UG.P.levelaf_adele_denom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:29.821796+00:00
 -- url     : https://prove2.me/theorems/94582def-114e-4a6a-8700-b6057db3be85

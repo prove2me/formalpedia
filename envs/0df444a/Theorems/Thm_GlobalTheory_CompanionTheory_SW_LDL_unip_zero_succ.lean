@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LDL_unip_zero_succ
 -- name    : GlobalTheory.CompanionTheory.SW.LDL.unip_zero_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:23.053173+00:00
 -- url     : https://prove2.me/theorems/e9a2fb40-5541-4179-87cf-f0a5ccf0ea03
