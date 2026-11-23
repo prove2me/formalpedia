@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_rank_conj_mul
 -- name    : Formalism.FourierDecayAlt.P.S3x5.rank_conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:47:11.569691+00:00
 -- url     : https://prove2.me/theorems/6d56bcd4-384b-49be-a32e-95130ed92d77

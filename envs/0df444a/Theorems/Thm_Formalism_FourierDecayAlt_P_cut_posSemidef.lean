@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cut_posSemidef
 -- name    : Formalism.FourierDecayAlt.P.cut_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:02:34.320294+00:00
 -- url     : https://prove2.me/theorems/05a03899-5d73-4344-84ed-47c613dc88e1

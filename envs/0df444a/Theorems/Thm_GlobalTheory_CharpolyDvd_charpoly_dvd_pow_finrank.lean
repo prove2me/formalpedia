@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharpolyDvd_charpoly_dvd_pow_finrank
 -- name    : GlobalTheory.CharpolyDvd.charpoly_dvd_pow_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:07.000598+00:00
 -- url     : https://prove2.me/theorems/c361ed7a-f432-4108-8cdd-ae309d36a711

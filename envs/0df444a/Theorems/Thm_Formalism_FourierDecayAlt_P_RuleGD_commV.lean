@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RuleGD_commV
 -- name    : Formalism.FourierDecayAlt.P.RuleGD.commV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:41:04.78808+00:00
 -- url     : https://prove2.me/theorems/c1120e31-33d2-4b33-9b91-1dd3ce18fa76

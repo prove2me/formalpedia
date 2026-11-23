@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Radical_conj_mem
 -- name    : GlobalTheory.RootEx.Radical.conj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:36.861799+00:00
 -- url     : https://prove2.me/theorems/f6c47651-01c9-4adc-80e5-d1e803e7b41e

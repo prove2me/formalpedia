@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_nd_count
 -- name    : Formalism.FourierDecayAlt.P.S3x5.nd_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:43:23.461157+00:00
 -- url     : https://prove2.me/theorems/27af92c3-67cf-4d59-99e9-883ce6aa2c10

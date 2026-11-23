@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_c_count_succ
 -- name    : Formalism.FourierDecayAlt.P.S3x6.c_count_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:47:25.428772+00:00
 -- url     : https://prove2.me/theorems/612d594c-3a03-4d0a-8931-3ddc0ddc709c

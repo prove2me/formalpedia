@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_star_lowering_constant
 -- name    : Formalism.FourierDecayAlt.P.Mx5.star_lowering_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:15:08.31628+00:00
 -- url     : https://prove2.me/theorems/d1f660c4-e030-41b3-9f6c-10f677fc302d

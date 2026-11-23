@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_restrict_form_apply
 -- name    : Formalism.FourierDecayAlt.P.S3x6.restrict_form_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:26.387809+00:00
 -- url     : https://prove2.me/theorems/5bd78e6d-4c4f-47f2-9086-c92761d939f6

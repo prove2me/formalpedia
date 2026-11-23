@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_block_count
 -- name    : Formalism.FourierDecayAlt.P.S3x5.block_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:42:51.556869+00:00
 -- url     : https://prove2.me/theorems/4d9cdfe3-0192-4aa7-a3c9-29ea05399dc5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_truncated_average_norm_formula
 -- name    : Formalism.FourierDecayAlt.P.truncated_average_norm_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:02:48.872872+00:00
 -- url     : https://prove2.me/theorems/322c47ef-6acf-4758-9929-687afce580fe

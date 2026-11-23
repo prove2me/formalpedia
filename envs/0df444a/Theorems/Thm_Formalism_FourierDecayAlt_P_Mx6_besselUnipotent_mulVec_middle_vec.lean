@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_besselUnipotent_mulVec_middle_vec
 -- name    : Formalism.FourierDecayAlt.P.Mx6.besselUnipotent_mulVec_middle_vec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:31:48.67205+00:00
 -- url     : https://prove2.me/theorems/b0a67c1e-34b7-4add-8c30-09d2bc22dda1

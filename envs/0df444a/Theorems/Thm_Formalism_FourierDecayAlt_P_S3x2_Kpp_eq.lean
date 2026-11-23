@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x2_Kpp_eq
 -- name    : Formalism.FourierDecayAlt.P.S3x2.Kpp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:02:20.932698+00:00
 -- url     : https://prove2.me/theorems/32a5a5f5-3469-433d-8a32-8b457e1897de

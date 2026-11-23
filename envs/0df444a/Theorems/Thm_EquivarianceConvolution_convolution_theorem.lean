@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquivarianceConvolution_convolution_theorem
 -- name    : EquivarianceConvolution.convolution_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T20:00:32.081668+00:00
 -- url     : https://prove2.me/theorems/336a2e37-3f53-4691-96ae-0d2ccf78d847

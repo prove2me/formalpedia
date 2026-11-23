@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_nabla_star_gamma_inv_comm
 -- name    : Formalism.FourierDecayAlt.P.Mx6.nabla_star_gamma_inv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:17:07.378554+00:00
 -- url     : https://prove2.me/theorems/27a8d24e-7f68-4919-beba-a7cc0da6af32

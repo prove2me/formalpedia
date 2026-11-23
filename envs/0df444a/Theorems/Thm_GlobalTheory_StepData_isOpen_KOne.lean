@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_isOpen_KOne
 -- name    : GlobalTheory.StepData.isOpen_KOne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:57:18.905151+00:00
 -- url     : https://prove2.me/theorems/d29abc85-7639-4281-beda-54e236bf0d1f

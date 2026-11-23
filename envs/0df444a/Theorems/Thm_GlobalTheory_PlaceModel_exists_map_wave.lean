@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceModel_exists_map_wave
 -- name    : GlobalTheory.PlaceModel.exists_map_wave
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:37:20.595784+00:00
 -- url     : https://prove2.me/theorems/01f19bc3-92f4-4ce2-ae8a-8e52443339e1

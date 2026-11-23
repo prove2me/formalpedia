@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_densityProduct_le_exp
 -- name    : Formalism.FourierDecayAlt.P.S3x5.densityProduct_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:43:28.080328+00:00
 -- url     : https://prove2.me/theorems/b24ed9cd-e360-4638-9ac7-28b17a8e3377

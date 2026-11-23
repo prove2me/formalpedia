@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_exists_isotropic_completion
 -- name    : Formalism.FourierDecayAlt.P.S3x6.exists_isotropic_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:22.983549+00:00
 -- url     : https://prove2.me/theorems/923631d1-0555-4f69-9f0d-addbb7be13b7

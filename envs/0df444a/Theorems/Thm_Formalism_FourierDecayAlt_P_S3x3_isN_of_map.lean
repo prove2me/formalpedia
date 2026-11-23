@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_isN_of_map
 -- name    : Formalism.FourierDecayAlt.P.S3x3.isN_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:00:43.143059+00:00
 -- url     : https://prove2.me/theorems/77da01cf-56d6-4a9f-855f-1abeb44d246d

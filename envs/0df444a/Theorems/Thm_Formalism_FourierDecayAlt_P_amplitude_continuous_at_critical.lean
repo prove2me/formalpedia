@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_amplitude_continuous_at_critical
 -- name    : Formalism.FourierDecayAlt.P.amplitude_continuous_at_critical
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:39.784802+00:00
 -- url     : https://prove2.me/theorems/f2eb6fda-aca4-4915-9aea-6c5f6b062322

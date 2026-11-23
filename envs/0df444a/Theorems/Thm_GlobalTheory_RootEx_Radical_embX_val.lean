@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Radical_embX_val
 -- name    : GlobalTheory.RootEx.Radical.embX_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:29.730146+00:00
 -- url     : https://prove2.me/theorems/f5f0885f-db21-4528-a383-3839ce3264fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_hermite_rows_8_to_16
 -- name    : GrothendieckLB.Supplement.cq_hermite_rows_8_to_16
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T20:49:23.246624+00:00
 -- url     : https://prove2.me/theorems/cfaae610-b5d8-4b39-95a0-065684994cba

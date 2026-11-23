@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_m_curvature_proof
 -- name    : Formalism.FourierDecayAlt.P.m_curvature_proof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:24.920544+00:00
 -- url     : https://prove2.me/theorems/0aa88eab-daa8-450a-9d95-4388b8b06bc0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_commutator_l_sq
 -- name    : Formalism.FourierDecayAlt.P.Mx6.commutator_l_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:17:07.368731+00:00
 -- url     : https://prove2.me/theorems/bb0eb1af-43cc-4057-9825-5600b4173617

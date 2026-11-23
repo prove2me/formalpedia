@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Radical_Uni_mul
 -- name    : GlobalTheory.RootEx.Radical.Uni.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:25.418295+00:00
 -- url     : https://prove2.me/theorems/5dafc1d7-1250-4d35-a5f8-94a4a751066f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_card_root_le
 -- name    : Formalism.FourierDecayAlt.P.S3x5.card_root_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:43:38.113865+00:00
 -- url     : https://prove2.me/theorems/13d323fc-cd04-4614-ab6c-0c0a32d7aeb6

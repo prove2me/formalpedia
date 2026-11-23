@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ReversedIndexLastBlock_a2oneKernel
 -- name    : Formalism.FourierDecayAlt.P.ReversedIndexLastBlock.a2oneKernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:40:57.08644+00:00
 -- url     : https://prove2.me/theorems/3058b11d-f61f-459d-ac8f-064d08a3f9f3

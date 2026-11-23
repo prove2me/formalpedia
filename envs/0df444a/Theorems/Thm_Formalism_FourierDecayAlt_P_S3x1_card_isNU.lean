@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x1_card_isNU
 -- name    : Formalism.FourierDecayAlt.P.S3x1.card_isNU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:41:48.10995+00:00
 -- url     : https://prove2.me/theorems/8e3041dd-b4e9-4f14-a98a-a81f8c803853

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_det_eight_at_good_point
 -- name    : Formalism.FourierDecayAlt.P.Mx7.det_eight_at_good_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:34:17.151799+00:00
 -- url     : https://prove2.me/theorems/cdbad096-e425-4b86-8312-f6d6ecd86f81

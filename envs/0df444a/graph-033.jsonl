@@ -92369,7 +92369,7 @@
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_299", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_708", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_708", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result8_9_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.source_result8_9_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D7_0032", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D7_0032", "child": "RealPinwheel_FiveSixths_CodeFunctionD7", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0411", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
@@ -92451,7 +92451,7 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D8_0192", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D8_0192", "child": "RealPinwheel_FiveSixths_CodeFunctionD8", "via": ["solution", "statement"]}
 {"parent": "Lax109476Proofs.RamSearchLoop.searchLoop_spec_native", "child": "EdgeSublinearMWIS_Main_NativeBoundsInterfaces", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result8_7_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.source_result8_7_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.SignedSupport.gram_eq_target_vertices", "child": "DeletionCode_SupportComponents", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.SignedSupport.gram_eq_target_vertices", "child": "DeletionCode_SignedSupport", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeP9_0168", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
@@ -95141,7 +95141,7 @@
 {"parent": "AvramDividend.Classical.avram_pj_workerC_original_zero_clock_local_gap_eq", "child": "AvramDividend.Classical.avram_pj_workerC_actual_jump_measure_positive_time_ae", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_pj_workerC_original_zero_clock_local_gap_eq", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_pj_workerC_original_zero_clock_local_gap_eq", "child": "AvramDividend.Classical.avram_bva92_original_mapped_compensator_zero_time_supported_real_integral", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result8_8_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.source_result8_8_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1062", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1062", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_416", "child": "OAIQ259US022", "via": ["solution", "statement"]}

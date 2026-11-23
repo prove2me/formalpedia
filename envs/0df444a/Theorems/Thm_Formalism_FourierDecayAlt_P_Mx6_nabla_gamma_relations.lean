@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_nabla_gamma_relations
 -- name    : Formalism.FourierDecayAlt.P.Mx6.nabla_gamma_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:32:52.778892+00:00
 -- url     : https://prove2.me/theorems/f05098f8-d3fc-4378-8cb1-be8613c881a6

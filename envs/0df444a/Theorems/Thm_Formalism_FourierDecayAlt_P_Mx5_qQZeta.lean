@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_qQZeta
 -- name    : Formalism.FourierDecayAlt.P.Mx5.qQZeta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:25:54.224288+00:00
 -- url     : https://prove2.me/theorems/987ae371-dc35-45c8-ad8c-1915e1f6f6bc

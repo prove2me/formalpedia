@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_card_norm_one
 -- name    : Formalism.FourierDecayAlt.P.S3x6.card_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:47:42.876033+00:00
 -- url     : https://prove2.me/theorems/bc63314c-8207-4caa-9ee8-b5db5f7b96de

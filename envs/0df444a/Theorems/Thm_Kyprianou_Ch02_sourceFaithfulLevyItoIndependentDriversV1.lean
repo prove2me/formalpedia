@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_sourceFaithfulLevyItoIndependentDriversV1
 -- name    : Kyprianou.Ch02.sourceFaithfulLevyItoIndependentDriversV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:45:20.957834+00:00
 -- url     : https://prove2.me/theorems/8649e2dc-75b0-4563-ae5f-39d894a26849

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_TransferFactor_Cm_act
 -- name    : GlobalTheory.JR.TransferFactor.Cm_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:14.060835+00:00
 -- url     : https://prove2.me/theorems/637286d1-2548-4f17-bf0a-8bc54de62786

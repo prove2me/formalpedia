@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteSimpleCharToRawKLSV1
 -- name    : Kyprianou.Ch02.prmFiniteSimpleCharToRawKLSV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:34:47.189602+00:00
 -- url     : https://prove2.me/theorems/01da34d4-3a47-4d17-b697-e4095095f774

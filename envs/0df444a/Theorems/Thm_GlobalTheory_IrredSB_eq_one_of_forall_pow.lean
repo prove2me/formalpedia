@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSB_eq_one_of_forall_pow
 -- name    : GlobalTheory.IrredSB.eq_one_of_forall_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:08.263827+00:00
 -- url     : https://prove2.me/theorems/05401eb5-51f6-49a8-842c-ddb97dd25e81

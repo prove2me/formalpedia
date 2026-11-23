@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_exists_box_subset
 -- name    : GlobalTheory.LocMod.Inhab.exists_box_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:09.275372+00:00
 -- url     : https://prove2.me/theorems/6d8d1bfe-d829-42d9-82cd-08466c6f1c47

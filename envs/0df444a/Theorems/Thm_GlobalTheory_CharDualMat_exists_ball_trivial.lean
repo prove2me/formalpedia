@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharDualMat_exists_ball_trivial
 -- name    : GlobalTheory.CharDualMat.exists_ball_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:05:51.517811+00:00
 -- url     : https://prove2.me/theorems/9bd4a8f4-4e5d-4f07-a578-2d162572fb89

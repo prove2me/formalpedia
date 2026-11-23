@@ -1,0 +1,43 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_continuous_ext
+-- name    : GlobalTheory.RootEx.QuotStep.continuous_ext
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T21:03:54.871377+00:00
+-- url     : https://prove2.me/theorems/0aa8682d-8848-4ebb-a43b-3f4bd42226c2
+-- title:
+--   Quot Step: continuous ext
+-- statement:
+--   The Quot Step construction uses the continuous ext property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/TwistedOperators/WeilFormulaRootExchangeParabolicIntersection.lean#L171-L174
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/TwistedOperators/WeilFormulaRootExchangeParabolicIntersection.lean#L171-L174
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSum
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Divisors_T2SpaceGeneralLinearGroup
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_MeasurePreservingTriangular
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_NormalizedAbsCharacterization
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_LinearChangeOfVariablesLocalFieldMatrix
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_UnipotentRadicalBasic
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_RootExchangeUnipotentHaarAndModulus
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_WeilFormulaRootExchangeParabolicIntersection
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MeasureTheory ValuativeRel Matrix GlobalTheory.SplitWeil GlobalTheory.RootEx
+open scoped Pointwise
+noncomputable section
+open GlobalTheory GlobalTheory.RootEx GlobalTheory.RootEx.QuotStep
+variable {k : Type} [Field k] {ι : Type} [Fintype ι] [DecidableEq ι]
+variable {b : ι → ℕ} {S : ι × ι → Prop}
+variable (hS : ∀ rs, S rs → b rs.1 < b rs.2)
+variable [ValuativeRel k] [TopologicalSpace k] [IsNonarchimedeanLocalField k]
+omit [Fintype ι] [DecidableEq ι] [ValuativeRel k] [IsNonarchimedeanLocalField k]
+
+theorem GlobalTheory.RootEx.QuotStep.continuous_ext (S : ι × ι → Prop) (r s : ι) : Continuous fun e : {rs // S rs} → k => ext S e r s := by sorry

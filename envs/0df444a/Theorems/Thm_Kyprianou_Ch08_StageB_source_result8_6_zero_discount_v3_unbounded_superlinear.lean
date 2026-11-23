@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_6_zero_discount_v3_unbounded_superlinear
 -- name    : Kyprianou.Ch08.StageB.source_result8_6_zero_discount_v3_unbounded_superlinear
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:03:59.197062+00:00
 -- url     : https://prove2.me/theorems/46e52bf2-2cc7-4783-ad48-f98494a5d3b4

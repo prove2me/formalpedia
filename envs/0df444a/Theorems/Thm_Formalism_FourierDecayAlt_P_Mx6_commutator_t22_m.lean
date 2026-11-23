@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_commutator_t22_m
 -- name    : Formalism.FourierDecayAlt.P.Mx6.commutator_t22_m
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:32:26.963452+00:00
 -- url     : https://prove2.me/theorems/fd404ea0-6aed-425e-a8f7-bbac296a1a45

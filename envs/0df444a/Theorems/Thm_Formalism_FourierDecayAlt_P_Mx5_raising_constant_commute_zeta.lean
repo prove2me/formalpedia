@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_raising_constant_commute_zeta
 -- name    : Formalism.FourierDecayAlt.P.Mx5.raising_constant_commute_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:01.42063+00:00
 -- url     : https://prove2.me/theorems/71bbd128-cc0b-4531-824e-bfa922f0b476

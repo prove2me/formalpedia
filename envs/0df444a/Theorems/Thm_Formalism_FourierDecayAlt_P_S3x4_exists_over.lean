@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x4_exists_over
 -- name    : Formalism.FourierDecayAlt.P.S3x4.exists_over
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:42:58.863768+00:00
 -- url     : https://prove2.me/theorems/6aec4d4b-8dc1-4730-a52d-58c1fd96c29b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x2_lift_decomp
 -- name    : Formalism.FourierDecayAlt.P.S3x2.lift_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:23:16.786639+00:00
 -- url     : https://prove2.me/theorems/4a6baab4-16f2-4dc1-a2d3-9d8ba7c30a2c

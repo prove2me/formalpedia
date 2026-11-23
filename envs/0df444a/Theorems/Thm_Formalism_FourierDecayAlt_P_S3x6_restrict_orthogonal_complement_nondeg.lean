@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_restrict_orthogonal_complement_nondeg
 -- name    : Formalism.FourierDecayAlt.P.S3x6.restrict_orthogonal_complement_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:24:12.127257+00:00
 -- url     : https://prove2.me/theorems/8b3be152-ac50-4b74-92d7-aed406fdd41f

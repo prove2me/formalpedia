@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_d_fconj_mul
 -- name    : Formalism.FourierDecayAlt.P.S3x6.d_fconj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:26.452343+00:00
 -- url     : https://prove2.me/theorems/2b4909c7-a956-47a6-b9f7-561701cc30aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_DualLattice_stdChar_continuous
 -- name    : GlobalTheory.JR.DualLattice.stdChar_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:27.334197+00:00
 -- url     : https://prove2.me/theorems/566c56f3-a826-425c-85e2-66827139bd28

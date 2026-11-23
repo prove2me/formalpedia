@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_exists_sigma
 -- name    : Formalism.FourierDecayAlt.P.S3x6.exists_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:24:03.181383+00:00
 -- url     : https://prove2.me/theorems/a12be115-c629-4ea7-81f1-06f62af9041a

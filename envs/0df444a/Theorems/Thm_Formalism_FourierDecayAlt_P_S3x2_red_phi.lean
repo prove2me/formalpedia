@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x2_red_phi
 -- name    : Formalism.FourierDecayAlt.P.S3x2.red_phi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:06:39.374099+00:00
 -- url     : https://prove2.me/theorems/75de85e0-0996-4f4a-a311-0bdc58cd8f79

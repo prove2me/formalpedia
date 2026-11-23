@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ModuleNorm_distribHaarChar_eq_norm
 -- name    : GlobalTheory.JR.ModuleNorm.distribHaarChar_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:37:47.221814+00:00
 -- url     : https://prove2.me/theorems/afa460b2-8e98-46b1-9bef-ee85e7e6014a

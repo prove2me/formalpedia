@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weight_exact
 -- name    : Formalism.FourierDecayAlt.P.weight_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:03:40.830547+00:00
 -- url     : https://prove2.me/theorems/cbfdf87b-f894-4aa7-9974-d8aa3f34abad

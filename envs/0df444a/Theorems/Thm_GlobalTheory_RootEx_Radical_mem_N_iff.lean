@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Radical_mem_N_iff
 -- name    : GlobalTheory.RootEx.Radical.mem_N_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:29.617961+00:00
 -- url     : https://prove2.me/theorems/e4dfda96-6451-4abe-9246-4d4bbc04c20b

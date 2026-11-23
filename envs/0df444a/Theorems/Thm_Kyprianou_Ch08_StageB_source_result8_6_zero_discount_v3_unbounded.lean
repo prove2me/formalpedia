@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_6_zero_discount_v3_unbounded
 -- name    : Kyprianou.Ch08.StageB.source_result8_6_zero_discount_v3_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:47:59.14992+00:00
 -- url     : https://prove2.me/theorems/a0241ec9-2428-449a-960c-a4c43d89bc0d

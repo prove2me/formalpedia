@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_RegSS_adj_algebraMap
+-- name    : GlobalTheory.RegSS.adj_algebraMap
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T21:04:56.394827+00:00
+-- url     : https://prove2.me/theorems/8af7f095-485e-4d2b-9091-d23070703dd1
+-- title:
+--   Reg SS: adj algebra Map
+-- statement:
+--   The Reg SS construction uses the adj algebra Map property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/TwistedOperators/NotCompactOfIdempotent.lean#L375-L380
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/TwistedOperators/NotCompactOfIdempotent.lean#L375-L380
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_BlockTheory_TwistedDiscreteSeries_CentralizerTensorForms
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_NotCompactOfIdempotent
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix Formalism.UG NumberField GlobalTheory.IndefiniteRowSideFullHecke.CentralizerTensorForms
+open scoped TensorProduct
+open GlobalTheory GlobalTheory.RegSS
+variable {A : Type} [CommRing A] {n : Type} [Fintype n] [DecidableEq n]
+open Matrix NumberField
+open scoped TensorProduct
+variable {A : Type} [CommRing A] {n : Type} [Fintype n] [DecidableEq n]
+
+theorem GlobalTheory.RegSS.adj_algebraMap (σ : A →+* A) {J : Matrix n n A} (hJ : IsUnit J.det)
+    (e : A) :
+    _root_.GlobalTheory.IndefiniteRowSideFullHecke.CentralizerTensorForms.adj σ J (algebraMap A (Matrix n n A) e) =
+      algebraMap A (Matrix n n A) (σ e) := by sorry

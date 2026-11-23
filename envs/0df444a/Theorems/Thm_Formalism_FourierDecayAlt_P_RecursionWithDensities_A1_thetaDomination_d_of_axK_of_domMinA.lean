@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RecursionWithDensities_A1_thetaDomination_d_of_axK_of_domMinA
 -- name    : Formalism.FourierDecayAlt.P.RecursionWithDensities.A1.thetaDomination_d_of_axK_of_domMinA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:37:33.460458+00:00
 -- url     : https://prove2.me/theorems/f48bf989-d1f1-447c-9ebc-655aaf959a9e

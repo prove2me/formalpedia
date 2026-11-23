@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_form_norm_orthonormal_coords
 -- name    : Formalism.FourierDecayAlt.P.S3x6.form_norm_orthonormal_coords
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:06.266215+00:00
 -- url     : https://prove2.me/theorems/177ac051-9c2d-4b7c-85c2-70379934bf83

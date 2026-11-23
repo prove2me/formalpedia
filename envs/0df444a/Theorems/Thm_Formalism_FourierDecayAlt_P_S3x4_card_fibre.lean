@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x4_card_fibre
 -- name    : Formalism.FourierDecayAlt.P.S3x4.card_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:42:42.61828+00:00
 -- url     : https://prove2.me/theorems/87ba15c5-ff7b-4ab3-b9bb-2cb8bf771d2c

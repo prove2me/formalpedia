@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lower_left_commute_model
 -- name    : Formalism.FourierDecayAlt.P.lower_left_commute_model
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:29.504937+00:00
 -- url     : https://prove2.me/theorems/5ed77759-53e9-423b-b85e-d82f722cf72a

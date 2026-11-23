@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_exists_orthonormal
 -- name    : Formalism.FourierDecayAlt.P.S3x6.exists_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:37.473932+00:00
 -- url     : https://prove2.me/theorems/a8bc88f0-280e-4a0f-aacb-fc8d0dc21c3f

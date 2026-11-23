@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_wq_deg
 -- name    : Formalism.FourierDecayAlt.P.Mx5.wq_deg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:47.545247+00:00
 -- url     : https://prove2.me/theorems/b6d502f1-3f01-45a0-bdf1-a8690d934086

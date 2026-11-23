@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_exists_trace_ne
 -- name    : Formalism.FourierDecayAlt.P.S3x5.exists_trace_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:43:20.352523+00:00
 -- url     : https://prove2.me/theorems/2dc6c574-be8a-4117-b913-e49b726890eb

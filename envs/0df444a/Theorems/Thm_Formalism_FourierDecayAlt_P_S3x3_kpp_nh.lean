@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_kpp_nh
 -- name    : Formalism.FourierDecayAlt.P.S3x3.kpp_nh
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:42:35.202705+00:00
 -- url     : https://prove2.me/theorems/de0d2264-25c2-4dc3-baf2-5b7b55039dae

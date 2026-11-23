@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_index_Knat
 -- name    : Formalism.FourierDecayAlt.P.S3x3.index_Knat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:42:31.244817+00:00
 -- url     : https://prove2.me/theorems/4adb4f4c-d014-4e93-817c-cfde0e94654e

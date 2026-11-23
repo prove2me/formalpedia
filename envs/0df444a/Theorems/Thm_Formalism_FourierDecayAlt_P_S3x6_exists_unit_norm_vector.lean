@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_exists_unit_norm_vector
 -- name    : Formalism.FourierDecayAlt.P.S3x6.exists_unit_norm_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:18.693009+00:00
 -- url     : https://prove2.me/theorems/94e17052-f3f7-44f2-b5f6-16585f2e24e4

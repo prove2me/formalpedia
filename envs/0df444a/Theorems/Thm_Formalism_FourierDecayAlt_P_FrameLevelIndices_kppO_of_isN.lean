@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameLevelIndices_kppO_of_isN
 -- name    : Formalism.FourierDecayAlt.P.FrameLevelIndices.kppO_of_isN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:59:31.232115+00:00
 -- url     : https://prove2.me/theorems/e4af1aaf-963c-4914-b811-1012b2fbbbf5

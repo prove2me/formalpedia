@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_OpELevi_ext_free
 -- name    : GlobalTheory.RootEx.OpELevi.ext_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:56.56662+00:00
 -- url     : https://prove2.me/theorems/96be0c76-c551-4b43-a555-34f71387d80c

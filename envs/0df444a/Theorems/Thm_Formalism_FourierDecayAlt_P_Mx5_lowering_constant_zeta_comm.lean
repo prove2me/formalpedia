@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_lowering_constant_zeta_comm
 -- name    : Formalism.FourierDecayAlt.P.Mx5.lowering_constant_zeta_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:37.09325+00:00
 -- url     : https://prove2.me/theorems/cdb9cfd3-5fc6-4954-9137-801534c6b203

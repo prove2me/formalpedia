@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_factor_bounds
 -- name    : Formalism.FourierDecayAlt.P.S3x5.factor_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:40.166497+00:00
 -- url     : https://prove2.me/theorems/3040d25f-a2ce-46b8-8515-533b754516eb

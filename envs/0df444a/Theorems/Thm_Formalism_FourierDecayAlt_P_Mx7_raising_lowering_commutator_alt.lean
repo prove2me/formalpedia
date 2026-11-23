@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_raising_lowering_commutator_alt
 -- name    : Formalism.FourierDecayAlt.P.Mx7.raising_lowering_commutator_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:41:47.849647+00:00
 -- url     : https://prove2.me/theorems/db6055c7-21bb-4804-aaff-399d96c7c13b

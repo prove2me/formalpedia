@@ -56991,9 +56991,9 @@
 {"parent": "OAIQ239Tc020", "child": "OAIQ239Tc016", "via": ["statement"]}
 {"parent": "OAIQ239Tc020", "child": "OAIQ239Tc014", "via": ["statement"]}
 {"parent": "OAIQ239Tc020", "child": "OAIQ239Tc015", "via": ["statement"]}
-{"parent": "anoise46_direct_pointwise_upper_bound_f213822f", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "anoise46_direct_pointwise_upper_bound_f213822f", "child": "AvramDividend.Classical.avram_anoise34_dyadic_mark_cell_endpoint_error", "via": ["statement"]}
-{"parent": "anoise46_direct_pointwise_upper_bound_f213822f", "child": "AvramDividend.Classical.avram_anoise43_unit_dyadic_halfopen_cover", "via": ["statement"]}
+{"parent": "anoise46_direct_pointwise_upper_bound_f213822f", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "anoise46_direct_pointwise_upper_bound_f213822f", "child": "AvramDividend.Classical.avram_anoise34_dyadic_mark_cell_endpoint_error", "via": ["solution", "statement"]}
+{"parent": "anoise46_direct_pointwise_upper_bound_f213822f", "child": "AvramDividend.Classical.avram_anoise43_unit_dyadic_halfopen_cover", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26PairedDecoderGibbs.ground_mul_hamiltonian", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_PairedDecoderChannel", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26PairedDecoderGibbs.ground_mul_hamiltonian", "child": "QEC_Coding_CSS_GibbsSyndrome_Translation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26PairedDecoderGibbs.ground_mul_hamiltonian", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_PairedDecoderGibbs", "via": ["solution", "statement"]}

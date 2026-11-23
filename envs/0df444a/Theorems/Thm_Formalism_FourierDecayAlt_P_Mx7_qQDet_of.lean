@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_qQDet_of
 -- name    : Formalism.FourierDecayAlt.P.Mx7.qQDet_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:41:50.162543+00:00
 -- url     : https://prove2.me/theorems/b0eedca4-7966-4d22-9fe4-78a1028c9902

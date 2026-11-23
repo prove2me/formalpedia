@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PositiveSemidefinitePullback_Nst_mono
 -- name    : Formalism.FourierDecayAlt.P.PositiveSemidefinitePullback.Nst_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:35:35.935527+00:00
 -- url     : https://prove2.me/theorems/025418dd-bdac-4a1e-99e7-735f3dcf0b8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ModuleNorm_distribHaarChar_pi_two
 -- name    : GlobalTheory.JR.ModuleNorm.distribHaarChar_pi_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:06.240812+00:00
 -- url     : https://prove2.me/theorems/0d2655da-e03f-4485-8344-a890b2986ac8

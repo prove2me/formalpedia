@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_smallJumpLimitStochasticUniformCoreV1
 -- name    : Kyprianou.Ch02.smallJumpLimitStochasticUniformCoreV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:13:04.105196+00:00
 -- url     : https://prove2.me/theorems/8fea329a-eac9-4934-aecf-f879509f7696

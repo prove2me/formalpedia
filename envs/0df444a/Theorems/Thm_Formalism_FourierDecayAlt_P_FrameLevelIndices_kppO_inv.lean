@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameLevelIndices_kppO_inv
 -- name    : Formalism.FourierDecayAlt.P.FrameLevelIndices.kppO_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:59:38.377031+00:00
 -- url     : https://prove2.me/theorems/00697a73-445c-427f-9c57-8682f2fac767

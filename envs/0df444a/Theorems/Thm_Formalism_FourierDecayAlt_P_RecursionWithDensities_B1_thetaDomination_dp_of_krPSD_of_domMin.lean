@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RecursionWithDensities_B1_thetaDomination_dp_of_krPSD_of_domMin
 -- name    : Formalism.FourierDecayAlt.P.RecursionWithDensities.B1.thetaDomination_dp_of_krPSD_of_domMin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:38:33.349786+00:00
 -- url     : https://prove2.me/theorems/a785bd1b-43f0-4d1b-aad2-415945dbcbdc

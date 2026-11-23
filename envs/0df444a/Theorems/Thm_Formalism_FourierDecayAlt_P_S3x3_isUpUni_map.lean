@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_isUpUni_map
 -- name    : Formalism.FourierDecayAlt.P.S3x3.isUpUni_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:42:26.230437+00:00
 -- url     : https://prove2.me/theorems/d68d7a71-8135-47f7-92c0-00d37018ebb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_lowering_relation_diagonal_right
 -- name    : Formalism.FourierDecayAlt.P.Mx6.lowering_relation_diagonal_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:16:57.841856+00:00
 -- url     : https://prove2.me/theorems/3af0eaa6-322c-4d1b-a3f2-d95276ec516c

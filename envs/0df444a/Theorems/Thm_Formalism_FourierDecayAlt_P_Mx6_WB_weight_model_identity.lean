@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_WB_weight_model_identity
 -- name    : Formalism.FourierDecayAlt.P.Mx6.WB.weight_model_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:12:52.136154+00:00
 -- url     : https://prove2.me/theorems/ab5a9a26-ae62-4212-815b-99e80864f44f

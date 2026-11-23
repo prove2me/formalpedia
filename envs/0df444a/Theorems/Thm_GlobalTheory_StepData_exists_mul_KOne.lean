@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_exists_mul_KOne
 -- name    : GlobalTheory.StepData.exists_mul_KOne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:57:17.887175+00:00
 -- url     : https://prove2.me/theorems/2269c391-2325-4284-a5af-63bb6cf1dbdb

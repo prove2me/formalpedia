@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_qQLeading
 -- name    : Formalism.FourierDecayAlt.P.Mx5.qQLeading
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:25:51.198812+00:00
 -- url     : https://prove2.me/theorems/c076544e-7769-4d70-9c08-39b4f550035f

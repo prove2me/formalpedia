@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_level_nabla_relations
 -- name    : Formalism.FourierDecayAlt.P.level_nabla_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:06:54.592796+00:00
 -- url     : https://prove2.me/theorems/895c8778-57fa-43c6-9b06-dc5a673c3e08

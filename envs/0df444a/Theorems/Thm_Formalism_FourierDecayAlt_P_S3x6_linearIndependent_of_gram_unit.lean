@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_linearIndependent_of_gram_unit
 -- name    : Formalism.FourierDecayAlt.P.S3x6.linearIndependent_of_gram_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:25.691101+00:00
 -- url     : https://prove2.me/theorems/8402972d-0a5c-44d8-b6a1-4ebc920c70d1

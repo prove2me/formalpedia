@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.smallJumpLimitCadlagCorrected
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T19:36:06.210563+00:00
 -- url     : https://prove2.me/submissions/0de83211-d4a6-4571-b512-bc047caf2212
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch02_smallJumpLimitStochasticUniformCoreV1
 import Theorems.Thm_Kyprianou_Ch02_cadlagNNRealDiscontinuitiesCountableV1

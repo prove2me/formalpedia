@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_exists_G
 -- name    : Formalism.FourierDecayAlt.P.S3x5.exists_G
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:43:16.417489+00:00
 -- url     : https://prove2.me/theorems/26c08a83-ba0a-4c3d-8a8f-5ebe4ad61a9c

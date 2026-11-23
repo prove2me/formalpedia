@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_raising_relation_self
 -- name    : Formalism.FourierDecayAlt.P.Mx6.raising_relation_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:33:05.999931+00:00
 -- url     : https://prove2.me/theorems/ae6c0d44-a374-4c02-bb25-ea681d2d0b02

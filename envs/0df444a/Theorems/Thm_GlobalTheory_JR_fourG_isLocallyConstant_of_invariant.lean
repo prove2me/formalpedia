@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_fourG_isLocallyConstant_of_invariant
 -- name    : GlobalTheory.JR.fourG_isLocallyConstant_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:50:02.328916+00:00
 -- url     : https://prove2.me/theorems/30891a78-8e03-4ecb-b72e-4c78424cc466

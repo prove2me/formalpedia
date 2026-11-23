@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PhaseFunctionDerivatives_d_ampCrit_of
 -- name    : Formalism.FourierDecayAlt.P.PhaseFunctionDerivatives.d_ampCrit_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:30:21.784625+00:00
 -- url     : https://prove2.me/theorems/8851d456-5c1a-432c-83b3-0fae8cfa4319

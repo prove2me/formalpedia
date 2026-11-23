@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_WB_scalar_partial_fraction_identity
 -- name    : Formalism.FourierDecayAlt.P.Mx6.WB.scalar_partial_fraction_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:31:07.065459+00:00
 -- url     : https://prove2.me/theorems/3e1ce901-3684-4594-b87a-7e61da487265

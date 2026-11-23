@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharDualMat_mem_integer_of_dual
 -- name    : GlobalTheory.CharDualMat.mem_integer_of_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:36:45.753102+00:00
 -- url     : https://prove2.me/theorems/75d90673-bbb4-4f00-bb9a-73c09e911d9a

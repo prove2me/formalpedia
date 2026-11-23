@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RecursionWithDensities_A1_majorantPSDA
 -- name    : Formalism.FourierDecayAlt.P.RecursionWithDensities.A1.majorantPSDA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:20:54.060957+00:00
 -- url     : https://prove2.me/theorems/6ad88bb4-1d5c-4230-90d5-f2cfdd8fe09f

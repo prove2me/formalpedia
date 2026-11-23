@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_isNU_hEmb_mul
 -- name    : Formalism.FourierDecayAlt.P.S3x3.isNU_hEmb_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:42:46.913618+00:00
 -- url     : https://prove2.me/theorems/24e7d50c-cd20-4780-871b-b69117bba3fe

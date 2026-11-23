@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_star_raising_constant
 -- name    : Formalism.FourierDecayAlt.P.Mx5.star_raising_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:09.77695+00:00
 -- url     : https://prove2.me/theorems/df95bfa9-6f0f-444f-9839-f4ffaf668275

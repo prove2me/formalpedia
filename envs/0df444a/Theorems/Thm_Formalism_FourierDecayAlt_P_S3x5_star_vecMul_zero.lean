@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_star_vecMul_zero
 -- name    : Formalism.FourierDecayAlt.P.S3x5.star_vecMul_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:47:13.508798+00:00
 -- url     : https://prove2.me/theorems/185fad3a-6957-4118-92bf-279a920cef18

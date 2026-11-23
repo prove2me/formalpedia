@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_smallJumpLimitCadlagCorrected
 -- name    : Kyprianou.smallJumpLimitCadlagCorrected
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:20:27.632702+00:00
 -- url     : https://prove2.me/theorems/233e3a22-f598-4570-884c-5831c45da03e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Radical_Uni_inv
 -- name    : GlobalTheory.RootEx.Radical.Uni.inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:52.021189+00:00
 -- url     : https://prove2.me/theorems/f80415dd-295f-4d88-81a7-b821fa7f77a0

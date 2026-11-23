@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_d_li_of_rank
 -- name    : Formalism.FourierDecayAlt.P.S3x6.d_li_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:09.000412+00:00
 -- url     : https://prove2.me/theorems/27f3467e-d36b-4067-ba29-76f9461a24b4

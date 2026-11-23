@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_d_densP
 -- name    : Formalism.FourierDecayAlt.P.S3x6.d_densP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:47:59.560337+00:00
 -- url     : https://prove2.me/theorems/6bc5ad81-63b3-41d1-a0f3-873fd1d02eea

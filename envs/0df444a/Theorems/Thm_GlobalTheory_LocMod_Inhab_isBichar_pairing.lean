@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_isBichar_pairing
 -- name    : GlobalTheory.LocMod.Inhab.isBichar_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:51.012274+00:00
 -- url     : https://prove2.me/theorems/036bebd3-4c9a-4057-b5ad-a03f5e54ca38

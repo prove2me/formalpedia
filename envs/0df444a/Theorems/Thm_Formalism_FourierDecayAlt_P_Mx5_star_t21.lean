@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_star_t21
 -- name    : Formalism.FourierDecayAlt.P.Mx5.star_t21
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:25:50.859725+00:00
 -- url     : https://prove2.me/theorems/b3d5fea1-2dfe-4ee7-b5f2-bda074f80cb2

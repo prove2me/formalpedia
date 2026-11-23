@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_factor_pos
 -- name    : Formalism.FourierDecayAlt.P.S3x5.factor_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:55:20.608441+00:00
 -- url     : https://prove2.me/theorems/90afea30-c1dc-4787-ad6d-f863b8a64365
