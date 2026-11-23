@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_Ps1_posSet_subset_Uset
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.Ps1.posSet_subset_Uset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:10.515052+00:00
 -- url     : https://prove2.me/theorems/37326cb4-3764-4584-a3db-56075e6da1b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ValuationRepresentative_map_cO_map_cO
 -- name    : Formalism.DivisionValues.ValuationRepresentative.map_cO_map_cO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:04:51.08644+00:00
 -- url     : https://prove2.me/theorems/92664f27-ebda-45a1-8e50-e77ac4c42ac2

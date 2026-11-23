@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setLAverage_subgroup_eq
 -- name    : GlobalTheory.setLAverage_subgroup_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:37.815749+00:00
 -- url     : https://prove2.me/theorems/cfb4b575-fecf-4c18-ac6d-dcd3599c782f

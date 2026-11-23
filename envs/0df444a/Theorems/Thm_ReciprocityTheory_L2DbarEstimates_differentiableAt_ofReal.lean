@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_differentiableAt_ofReal
 -- name    : ReciprocityTheory.L2DbarEstimates.differentiableAt_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:49:01.88781+00:00
 -- url     : https://prove2.me/theorems/f01fa94d-8376-42be-81af-608a819acf83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_PC_isPoly_upper_left_entry
 -- name    : Formalism.FourierDecayAlt.P.Mx6.PC.isPoly_upper_left_entry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:14:21.263828+00:00
 -- url     : https://prove2.me/theorems/68402a70-193f-4055-a83f-86a4f568b616

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_PC_isPoly_quartic_sum
 -- name    : Formalism.FourierDecayAlt.P.Mx6.PC.isPoly_quartic_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:13:31.264017+00:00
 -- url     : https://prove2.me/theorems/006d8bb4-f0cc-4c82-a233-3189498667d2

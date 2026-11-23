@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_mem_unitBallRing
 -- name    : ReciprocityTheory.MultiplicativeHeights.mem_unitBallRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:49:43.458738+00:00
 -- url     : https://prove2.me/theorems/d55117df-9535-4f79-87c5-34057c2bec74

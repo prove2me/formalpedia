@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_AdLat_adele_one_integral
+-- name    : GlobalTheory.AdLat.adele_one_integral
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T07:08:25.456936+00:00
+-- url     : https://prove2.me/theorems/713a7f11-ad00-4754-a509-ec2c392a2d4c
+-- title:
+--   Ad Lat: adele one integral
+-- statement:
+--   The Ad Lat construction uses the adele one integral property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UnitaryExistence/AdelicCompletionFractionalIdealProperties.lean#L31-L34
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UnitaryExistence/AdelicCompletionFractionalIdealProperties.lean#L31-L34
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ExistenceOfLattices_Hat1
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_AdelicCompletionFractionalIdealProperties
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField IsDedekindDomain GlobalTheory.AdLat
+open scoped TensorProduct Matrix nonZeroDivisors
+open GlobalTheory GlobalTheory.AdLat
+variable (F : Type) {E : Type} [Field F] [NumberField F] [Field E] [Algebra F E]
+
+theorem GlobalTheory.AdLat.adele_one_integral (v : HeightOneSpectrum (𝓞 F)) :
+    (1 : FiniteAdeleRing (𝓞 F) F) v ∈ v.adicCompletionIntegers F := by sorry

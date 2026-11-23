@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_AdmissibleUnits_inj
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:09:22.974838+00:00
 -- url     : https://prove2.me/theorems/7a87dce8-4acd-458e-917a-6e6c106045f3

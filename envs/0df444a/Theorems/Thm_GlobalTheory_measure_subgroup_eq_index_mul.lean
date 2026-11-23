@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_measure_subgroup_eq_index_mul
 -- name    : GlobalTheory.measure_subgroup_eq_index_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:25.884013+00:00
 -- url     : https://prove2.me/theorems/8d541c81-9126-450d-8a06-1ff4fd6295ee

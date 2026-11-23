@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_carter_robinson_axisymmetric_vacuum
 -- name    : NoHair.carter_robinson_axisymmetric_vacuum
--- status  : Open
+-- status  : Disproved
 -- author  : @LG
 -- created : 2026-10-05T00:16:13.171389+00:00
 -- url     : https://prove2.me/theorems/c1ba0257-5234-44a8-b70e-6fa6d1e74348

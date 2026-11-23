@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Gwa1_inverse_omega_holds
 -- name    : UpperTheory.Reformulated.B.Gwa1.inverse_omega_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:49:50.418783+00:00
 -- url     : https://prove2.me/theorems/3775603f-a5ea-433e-acfe-b588baf7248b

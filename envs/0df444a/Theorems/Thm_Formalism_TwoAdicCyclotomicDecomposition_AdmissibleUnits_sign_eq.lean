@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_AdmissibleUnits_sign_eq
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.sign_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:48:36.759212+00:00
 -- url     : https://prove2.me/theorems/193579b3-735f-4f0d-a31c-0a736631a805

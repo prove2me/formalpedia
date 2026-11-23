@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_PC_isPoly_QQr
 -- name    : Formalism.FourierDecayAlt.P.Mx6.PC.isPoly_QQr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:30:36.990803+00:00
 -- url     : https://prove2.me/theorems/41035e9f-e102-4983-a2a3-abd79d9eef72

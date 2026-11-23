@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandThinning_upset_bound_eq_4_1
 -- name    : TalagrandThinning.upset_bound_eq_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:45:41.14253+00:00
 -- url     : https://prove2.me/theorems/f90b388f-487e-4170-b730-1199b26e809b

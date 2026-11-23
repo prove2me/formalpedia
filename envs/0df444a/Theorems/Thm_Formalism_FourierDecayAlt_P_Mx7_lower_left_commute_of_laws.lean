@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_lower_left_commute_of_laws
 -- name    : Formalism.FourierDecayAlt.P.Mx7.lower_left_commute_of_laws
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:34:26.667822+00:00
 -- url     : https://prove2.me/theorems/2c81acfb-cabf-4066-8c42-b451a2091f6c

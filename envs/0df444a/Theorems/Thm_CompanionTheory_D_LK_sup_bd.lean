@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_sup_bd
 -- name    : CompanionTheory.D.LK.sup_bd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:43.454346+00:00
 -- url     : https://prove2.me/theorems/883caff1-220b-4169-b3c1-33c5e592eaf7

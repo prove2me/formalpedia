@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_isPoly_kap
 -- name    : Formalism.FourierDecayAlt.P.Mx7.isPoly_kap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:11:29.1303+00:00
 -- url     : https://prove2.me/theorems/74421f55-4e9c-4663-a886-502ca1bb15d3

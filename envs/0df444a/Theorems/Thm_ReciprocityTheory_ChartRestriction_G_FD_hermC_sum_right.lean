@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_hermC_sum_right
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.hermC_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:38.346799+00:00
 -- url     : https://prove2.me/theorems/3eab3389-a0d1-44bd-aa7e-9e51ed9b269b

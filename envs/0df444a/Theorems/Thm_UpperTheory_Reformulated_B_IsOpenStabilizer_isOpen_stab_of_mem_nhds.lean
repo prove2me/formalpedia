@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_IsOpenStabilizer_isOpen_stab_of_mem_nhds
 -- name    : UpperTheory.Reformulated.B.IsOpenStabilizer.isOpen_stab_of_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:49:50.186723+00:00
 -- url     : https://prove2.me/theorems/b62dcbf4-909b-459a-8e5c-77eea7df3924

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Descent_freeIso_hom
 -- name    : GlobalTheory.Descent.freeIso_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:48:55.85134+00:00
 -- url     : https://prove2.me/theorems/5e694ebc-99d8-4497-bf32-e8a671f2468b

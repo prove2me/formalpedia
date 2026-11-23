@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_LB_res_dg
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.LB.res_dg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:48:56.292144+00:00
 -- url     : https://prove2.me/theorems/0e95a82c-1ca3-4059-b7ba-f131ac55d2a1

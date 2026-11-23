@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integrableOn_subgroup_iff
 -- name    : GlobalTheory.integrableOn_subgroup_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:43.157207+00:00
 -- url     : https://prove2.me/theorems/9c4c746f-0df4-4a6f-900c-21ed074c2d87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_isPoly_lowering_constant
 -- name    : Formalism.FourierDecayAlt.P.Mx7.isPoly_lowering_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:23:53.391189+00:00
 -- url     : https://prove2.me/theorems/078f7e1f-582e-4fe9-938a-0160037cfee7

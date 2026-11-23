@@ -42408,9 +42408,9 @@
 {"parent": "Formalism_GrowthSums_FactorialBaseGrowth_LogCoef", "child": "Formalism_GrowthSums_StatementC", "via": ["statement"]}
 {"parent": "Formalism_GrowthSums_FactorialBaseGrowth_LogCoef", "child": "Formalism_GrowthSums_FactorialBaseGrowth_Harmonic", "via": ["statement"]}
 {"parent": "LinearSetReconciliation327_Main_HintRowOps20261120", "child": "LinearSetReconciliation327_Main_HintRowDot20261120", "via": ["statement"]}
-{"parent": "Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.inj", "child": "Formalism_TameInertiaTowers_CentralOrderTwo_OrderOfThreeUnitsTwoPow", "via": ["statement"]}
-{"parent": "Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.inj", "child": "Formalism_TameInertiaTowers_StatementGroup", "via": ["statement"]}
-{"parent": "Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.inj", "child": "Formalism_TameInertiaTowers_CentralOrderTwo_TwoAdic", "via": ["statement"]}
+{"parent": "Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.inj", "child": "Formalism_TameInertiaTowers_CentralOrderTwo_OrderOfThreeUnitsTwoPow", "via": ["solution", "statement"]}
+{"parent": "Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.inj", "child": "Formalism_TameInertiaTowers_StatementGroup", "via": ["solution", "statement"]}
+{"parent": "Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.inj", "child": "Formalism_TameInertiaTowers_CentralOrderTwo_TwoAdic", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmMove", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CovariantVectorMove_SumPermsSignSquared", "via": ["statement"]}
 {"parent": "RH1E6S11.part_079_3", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S11.part_079_3", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}
@@ -61890,8 +61890,8 @@
 {"parent": "Formalism_FormalGroupWitt_FormalGroupWittProofs_FunctionalEquationSubstVector", "child": "Formalism_TorsionNormIteration_InverseIntegralClasses_MemSpanOfNormLe", "via": ["statement"]}
 {"parent": "Formalism_FormalGroupWitt_FormalGroupWittProofs_FunctionalEquationSubstVector", "child": "Lemmata_MultivariateIntegrals_IntegralMv", "via": ["statement"]}
 {"parent": "Formalism_FormalGroupWitt_FormalGroupWittProofs_FunctionalEquationSubstVector", "child": "Formalism_FormalGroupWitt_FormalGroupWittProofs_IntegralSubstVector", "via": ["statement"]}
-{"parent": "Formalism.LT.CoeffP.Bd.pow", "child": "Formalism_TorsionNormIteration_InvIntegralOfClass", "via": ["statement"]}
-{"parent": "Formalism.LT.CoeffP.Bd.pow", "child": "Formalism_TorsionNormIteration_InverseIntegralClasses_SigmaNormLeOne", "via": ["statement"]}
+{"parent": "Formalism.LT.CoeffP.Bd.pow", "child": "Formalism_TorsionNormIteration_InvIntegralOfClass", "via": ["solution", "statement"]}
+{"parent": "Formalism.LT.CoeffP.Bd.pow", "child": "Formalism_TorsionNormIteration_InverseIntegralClasses_SigmaNormLeOne", "via": ["solution", "statement"]}
 {"parent": "PI.GGMirBoundW.colM_ll", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MirabolicBound_Development", "via": ["solution", "statement"]}
 {"parent": "PI.GGMirBoundW.colM_ll", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MirabolicBound_LastRowMul", "via": ["solution", "statement"]}
 {"parent": "Formalism.F.shortVector", "child": "Formalism_LatticeSlopes_LatticeSlopesProofs_SlopeLeMuMaxOf", "via": ["statement"]}
@@ -83057,8 +83057,8 @@
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardStabilizerAutSub", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AdjoinMemGenusIff", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardStabilizerAutSub", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomMapOfEq", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardStabilizerAutSub", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteRepSetOfOrtho", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.ValuationRepresentative.map_cO_map_cO", "child": "Formalism_QuotientMetricDivisors_ProdFormula", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.ValuationRepresentative.map_cO_map_cO", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}
+{"parent": "Formalism.DivisionValues.ValuationRepresentative.map_cO_map_cO", "child": "Formalism_QuotientMetricDivisors_ProdFormula", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.ValuationRepresentative.map_cO_map_cO", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.Rb.metMat_posDef", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjTransposeEqOfPosDef", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.Rb.metMat_posDef", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SpecDet", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.Rb.metMat_posDef", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_tri_ne
 -- name    : CompanionTheory.D.LK.tri_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:25:47.814801+00:00
 -- url     : https://prove2.me/theorems/91da34c2-97d0-4f52-8fb4-13a3b9d6bf3b

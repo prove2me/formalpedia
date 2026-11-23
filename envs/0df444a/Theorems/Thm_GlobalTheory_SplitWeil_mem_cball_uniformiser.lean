@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_mem_cball_uniformiser
 -- name    : GlobalTheory.SplitWeil.mem_cball_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:49:06.641006+00:00
 -- url     : https://prove2.me/theorems/935d3aa3-6861-4143-8614-640a7b2a0663

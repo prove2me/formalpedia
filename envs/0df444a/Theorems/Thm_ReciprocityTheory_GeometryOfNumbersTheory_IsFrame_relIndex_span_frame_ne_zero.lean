@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_IsFrame_relIndex_span_frame_ne_zero
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.IsFrame.relIndex_span_frame_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:48:16.747884+00:00
 -- url     : https://prove2.me/theorems/08da1a8d-864e-4504-8928-edfe2d68cd85

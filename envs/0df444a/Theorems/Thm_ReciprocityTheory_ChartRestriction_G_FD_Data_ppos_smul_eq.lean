@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_ppos_smul_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.ppos_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:48.738799+00:00
 -- url     : https://prove2.me/theorems/21cdb370-9df3-44ce-860a-2ad05e458e48

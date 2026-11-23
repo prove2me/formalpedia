@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_injOn_source_of_chart
 -- name    : ReciprocityTheory.L2DbarEstimates.injOn_source_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:50:00.1789+00:00
 -- url     : https://prove2.me/theorems/5c44403d-c3c5-4b6f-a507-eb0fd453697c

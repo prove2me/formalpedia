@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_IsUT_flip
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.IsUT.flip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:49:06.058376+00:00
 -- url     : https://prove2.me/theorems/e6960ac4-0325-45a3-a6cc-a5d79a68931f

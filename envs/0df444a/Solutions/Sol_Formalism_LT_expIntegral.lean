@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.LT.expIntegral
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T07:06:34.10482+00:00
+-- url     : https://prove2.me/submissions/461ab913-86e6-45a2-99fe-f8cd8cd9579a
+
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_SolveExistsProof
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_InvInt
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_SigmaNormLeOne
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_MemSpanOfNormLe
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_NormSigmaLeOne
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_MapSubtypeInjective
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_CoeffSubstAddCMulXPow
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_IsHomOfSubstEqSmul
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_TorsionNormIterProof
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_NormNatCastOfNotDvd
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_LTLemma
+import Definitions.Def_Formalism_TorsionNormIteration_LubinTateExample
+import Theorems.Thm_Formalism_LT_exp_integral
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.LT
+universe u v
+namespace Formalism.LT
+theorem _root_.solution : ExpIntegral.{u} := exp_integral
+end Formalism.LT

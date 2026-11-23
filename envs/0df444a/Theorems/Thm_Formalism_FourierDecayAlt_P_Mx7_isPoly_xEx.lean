@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_isPoly_xEx
 -- name    : Formalism.FourierDecayAlt.P.Mx7.isPoly_xEx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:14:29.824455+00:00
 -- url     : https://prove2.me/theorems/a1c2d350-7788-4141-851e-7fd6607c120e

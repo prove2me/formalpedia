@@ -10614,7 +10614,7 @@
 {"parent": "NoAdjacentMinimalDrawing", "child": "CrossingNumber", "via": ["solution", "statement"]}
 {"parent": "NoAdjacentMinimalDrawing", "child": "NatSInfRangeAttained", "via": ["solution"]}
 {"parent": "NoAdjacentMinimalDrawing", "child": "OrdinaryPolygonalDrawingNonempty", "via": ["solution"]}
-{"parent": "NoHair.carter_robinson_axisymmetric_vacuum", "child": "NoHair_kerrNewman", "via": ["statement"]}
+{"parent": "NoHair.carter_robinson_axisymmetric_vacuum", "child": "NoHair_kerrNewman", "via": ["solution", "statement"]}
 {"parent": "NoHair.hawking_analytic_nondegenerate_vacuum", "child": "NoHair_kerrNewman", "via": ["statement"]}
 {"parent": "NoHair.israel_static_electrovac", "child": "NoHair_kerrNewman", "via": ["statement"]}
 {"parent": "NoHair.israel_static_vacuum", "child": "NoHair_kerrNewman", "via": ["solution", "statement"]}
