@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageMatch_realizationwise_bound
 -- name    : TwoStageMatch.realizationwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:33.656871+00:00
 -- url     : https://prove2.me/theorems/0788d131-7523-4d75-924b-94a5c3395e8c

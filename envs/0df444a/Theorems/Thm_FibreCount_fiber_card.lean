@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FibreCount_fiber_card
 -- name    : FibreCount.fiber_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:30.351072+00:00
 -- url     : https://prove2.me/theorems/303dbbc5-1f10-476d-a088-366fa0b97bd0

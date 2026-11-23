@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_valAt__appLE_1af07a5a9e22
 -- name    : P2M_GlobalTheory_valAt__appLE_1af07a5a9e22
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:39.459439+00:00
 -- url     : https://prove2.me/theorems/51a2d209-c956-461e-a9d2-20684c2c59ec

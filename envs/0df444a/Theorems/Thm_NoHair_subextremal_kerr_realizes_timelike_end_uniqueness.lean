@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_subextremal_kerr_realizes_timelike_end_uniqueness
 -- name    : NoHair.subextremal_kerr_realizes_timelike_end_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T10:05:32.88283+00:00
 -- url     : https://prove2.me/theorems/b58c58b1-5a12-4446-90e3-20e8abc4ac38

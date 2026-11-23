@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_unitary_group_admissible
 -- name    : CompanionTheory.D.gk.admitted.unitary_group_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:51:58.602836+00:00
 -- url     : https://prove2.me/theorems/ef285656-56f5-47c3-89c7-ca189cbdffd3

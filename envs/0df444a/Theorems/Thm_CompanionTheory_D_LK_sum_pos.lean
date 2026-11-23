@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_sum_pos
 -- name    : CompanionTheory.D.LK.sum_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:28.827655+00:00
 -- url     : https://prove2.me/theorems/d8e63693-e2af-452f-b7e5-0d05014fd1ba

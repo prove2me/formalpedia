@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_mem_ratSecs_iff_stalk
 -- name    : GlobalTheory.Cartier.mem_ratSecs_iff_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:05.625266+00:00
 -- url     : https://prove2.me/theorems/38cb6bbc-d43e-4f8e-88ac-590c239083b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_eval_const_of_vars_empty
 -- name    : ReciprocityTheory.MultiplicativeHeights.eval_const_of_vars_empty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:10.705622+00:00
 -- url     : https://prove2.me/theorems/ec93b2b0-b153-40e3-a264-7956782e48fc

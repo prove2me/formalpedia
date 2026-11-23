@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.static_conformal_halves_scalar_flat
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T10:01:04.997918+00:00
 -- url     : https://prove2.me/submissions/d7c8c328-9e5f-4082-a5c2-da3b6bca3840
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_spatial_conformal_scalar_curvature_three
 import Definitions.Def_NoHair_staticHorizonGeometry

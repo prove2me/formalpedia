@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_hermitianDiagonalization
 -- name    : DensInertW.hermitianDiagonalization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:51:13.831549+00:00
 -- url     : https://prove2.me/theorems/8de127b8-db0e-430d-bfd0-b284ab0e6940

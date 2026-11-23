@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_FinOfPIAux_sum_eq_zero
 -- name    : CompanionTheory.D.gk.admitted.FinOfPIAux.sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:30:16.496072+00:00
 -- url     : https://prove2.me/theorems/4d3f0113-0aa5-4cb9-a7f6-5f64a9ae632b

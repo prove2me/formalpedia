@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageMatch_theorem_1
 -- name    : TwoStageMatch.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:50.663194+00:00
 -- url     : https://prove2.me/theorems/c55811b2-a7c4-45dd-aa8f-e2cd840e24a7

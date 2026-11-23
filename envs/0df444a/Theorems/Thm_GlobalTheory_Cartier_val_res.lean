@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_val_res
 -- name    : GlobalTheory.Cartier.val_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:25.116921+00:00
 -- url     : https://prove2.me/theorems/6f9a0304-0bbf-4b89-8600-96ced8ed3713

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Rand_prob_exists_le
 -- name    : Formalism.BehrendSets.Rand.prob_exists_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:44.572054+00:00
 -- url     : https://prove2.me/theorems/77041fa0-23c9-4f54-b0f1-9ad645e3e794

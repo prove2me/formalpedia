@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_E3_core
 -- name    : Formalism.BehrendSets.E3.core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:45.426443+00:00
 -- url     : https://prove2.me/theorems/84b5f25d-1b7f-4865-b8af-5f823d7cc385

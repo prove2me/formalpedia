@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_SecMaps_on
 -- name    : GlobalTheory.Cartier.SecMaps.on
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:31.01587+00:00
 -- url     : https://prove2.me/theorems/d87055fb-eec3-4b22-a952-276e62a130ad

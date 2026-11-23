@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_SecMaps_ratSecs_eq
 -- name    : GlobalTheory.Cartier.SecMaps.ratSecs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:02.161653+00:00
 -- url     : https://prove2.me/theorems/da9f8f6c-80d2-47d3-89d8-37517316b99c

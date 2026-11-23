@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_trivStab
 -- name    : Formalism.BehrendSets.trivStab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:38:06.589778+00:00
 -- url     : https://prove2.me/theorems/681eb2a1-3e46-40c4-a67a-44f504e5c045

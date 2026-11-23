@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafLES_map_f_injective_of_surjective
 -- name    : GlobalTheory.SheafLES.map_f_injective_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:22.876639+00:00
 -- url     : https://prove2.me/theorems/ebd09bec-b150-4fed-ba0a-50e5f9fa6e99

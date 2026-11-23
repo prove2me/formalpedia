@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_perm_expand
 -- name    : GroundTheory.Automorphic.HarishChandra.perm_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:59.011891+00:00
 -- url     : https://prove2.me/theorems/6fcfd763-221d-48ab-8a65-48caca27a014

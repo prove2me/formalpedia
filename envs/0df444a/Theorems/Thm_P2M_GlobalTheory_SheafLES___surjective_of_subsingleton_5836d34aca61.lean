@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SheafLES___surjective_of_subsingleton_5836d34aca61
 -- name    : P2M_GlobalTheory_SheafLES___surjective_of_subsingleton_5836d34aca61
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:07:08.447822+00:00
 -- url     : https://prove2.me/theorems/5877b52c-55ef-474f-b16b-8a6582be6950

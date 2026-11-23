@@ -20644,7 +20644,7 @@
 {"parent": "Groundwork.query0_eq", "child": "StepMachines_Prog_Brute", "via": ["solution", "statement"]}
 {"parent": "Groundwork.query0_eq", "child": "StepMachines_Prog_Range", "via": ["solution", "statement"]}
 {"parent": "Groundwork.query0_eq", "child": "StepMachines_Prog_Chunks", "via": ["solution", "statement"]}
-{"parent": "TwoStageMatch.realizationwise_bound", "child": "TwoStageMatch_Algorithm1", "via": ["statement"]}
+{"parent": "TwoStageMatch.realizationwise_bound", "child": "TwoStageMatch_Algorithm1", "via": ["solution", "statement"]}
 {"parent": "CountKSatRate.Cert.polyT_roundS", "child": "CountKSat_Poly", "via": ["solution", "statement"]}
 {"parent": "CountKSatRate.Cert.polyT_roundS", "child": "PaddedDescent_F_CertNet", "via": ["solution", "statement"]}
 {"parent": "CountKSatRate.Cert.polyT_roundS", "child": "CountKSat_InOut", "via": ["solution", "statement"]}
@@ -57721,7 +57721,7 @@
 {"parent": "ClauseBound.Alg.TopArith.root9_spec", "child": "ClauseBound_Alg_Top", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Alg.TopArith.root9_spec", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Alg.TopArith.root9_spec", "child": "ClauseBound_Alg_TopArith", "via": ["solution", "statement"]}
-{"parent": "SecSampling.theorem_4", "child": "SecSampling_ColoredLastZero", "via": ["statement"]}
+{"parent": "SecSampling.theorem_4", "child": "SecSampling_ColoredLastZero", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.stLayersE", "child": "PaddedDescent_F_MarkSums", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.stLayersE", "child": "PaddedDescent_F_Interfaces", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.stLayersE", "child": "PaddedDescent_F_MarkLayers", "via": ["solution", "statement"]}
@@ -61215,7 +61215,7 @@
 {"parent": "GeneralPieces.Series.eps_mul_sub", "child": "ClauseBound_Boson_Scalars", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Series.eps_mul_sub", "child": "GeneralPieces_Series_Deriv", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Series.eps_mul_sub", "child": "GeneralPieces_Series_Rings", "via": ["solution", "statement"]}
-{"parent": "TwoStageMatch.theorem_1", "child": "TwoStageMatch_CompetitiveRatio", "via": ["statement"]}
+{"parent": "TwoStageMatch.theorem_1", "child": "TwoStageMatch_CompetitiveRatio", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_PartialObs_twAdmissible", "child": "BauerleRiederMDP_PartialObs_Market_returnLaw", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_PartialObs_twAdmissible", "child": "BauerleRiederMDP_PartialObs_wealth", "via": ["statement"]}
 {"parent": "OmniThreshold.lemma_1", "child": "OmniThreshold_FlowNetwork", "via": ["statement"]}
@@ -65225,7 +65225,7 @@
 {"parent": "CircuitLowerBound.Sched.bt_unary", "child": "ToTuring_Poly_Words", "via": ["solution", "statement"]}
 {"parent": "CircuitLowerBound.Sched.bt_unary", "child": "ToTuring_Lib_List3", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_PDMDP_JumpModel_IsUpperBounding", "child": "BauerleRiederMDP_PDMDP_JumpModel", "via": ["statement"]}
-{"parent": "SecSampling.theorem_1", "child": "SecSampling_AOSp", "via": ["statement"]}
+{"parent": "SecSampling.theorem_1", "child": "SecSampling_AOSp", "via": ["solution", "statement"]}
 {"parent": "Wrap.everyMachineCanBeWrapped_of", "child": "CircuitLowerBound_Tab_Sound", "via": ["solution", "statement"]}
 {"parent": "Wrap.everyMachineCanBeWrapped_of", "child": "Wrap_Coding", "via": ["solution", "statement"]}
 {"parent": "Wrap.everyMachineCanBeWrapped_of", "child": "ToTuring_Closure_Basic", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscrNeWork_zeta6
 -- name    : DiscrNeWork.zeta6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:42.995882+00:00
 -- url     : https://prove2.me/theorems/d979816d-45af-460c-a070-8c4e73ec34e0

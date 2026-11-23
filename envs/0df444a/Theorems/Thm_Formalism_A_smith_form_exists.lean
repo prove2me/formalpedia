@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_A_smith_form_exists
 -- name    : Formalism.A.smith_form_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:26.385934+00:00
 -- url     : https://prove2.me/theorems/9c045d92-1db9-403c-ba0c-16b26728eb1d

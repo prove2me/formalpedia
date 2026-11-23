@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_A_nonempty_smith_normal_form
 -- name    : Formalism.A.nonempty_smith_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:24.999633+00:00
 -- url     : https://prove2.me/theorems/a85b1f69-08f1-4c5c-a471-b49a45980950

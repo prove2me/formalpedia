@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_radJ_pos
 -- name    : ReciprocityTheory.MultiplicativeHeights.radJ_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:16.103808+00:00
 -- url     : https://prove2.me/theorems/4acf3b5a-4654-4adf-a932-010ac5894e11

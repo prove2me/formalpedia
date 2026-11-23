@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_CoefMap_pullCohomologyOne_eq_of_natTrans
 -- name    : GlobalTheory.CatCoh.CoefMap.pullCohomologyOne_eq_of_natTrans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:11.849325+00:00
 -- url     : https://prove2.me/theorems/be1dc9b9-be0e-4aec-a235-118066de2407

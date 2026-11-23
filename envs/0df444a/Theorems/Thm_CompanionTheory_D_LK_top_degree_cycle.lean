@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_top_degree_cycle
 -- name    : CompanionTheory.D.LK.top_degree_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:18.259212+00:00
 -- url     : https://prove2.me/theorems/ecdfc345-d6e6-487a-b879-11b9a5f3b90a

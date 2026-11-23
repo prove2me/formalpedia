@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_PlacePermOperatorBicommutantSpan_weil_id
 -- name    : CompanionTheory.PlacePermOperatorBicommutantSpan.weil_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:33:05.855913+00:00
 -- url     : https://prove2.me/theorems/fcf66b75-dd86-47a5-b1cc-993df24282d7

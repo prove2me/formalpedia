@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_sum_wdb_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.sum_wdb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:23.816193+00:00
 -- url     : https://prove2.me/theorems/e386739b-ae4b-4b46-abaa-10ed1ff8c769

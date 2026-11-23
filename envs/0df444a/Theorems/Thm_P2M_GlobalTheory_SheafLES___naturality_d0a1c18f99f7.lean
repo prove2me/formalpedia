@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SheafLES___naturality_d0a1c18f99f7
 -- name    : P2M_GlobalTheory_SheafLES___naturality_d0a1c18f99f7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:07:09.221845+00:00
 -- url     : https://prove2.me/theorems/11e343e6-772d-4b07-8c9b-34b71c55c8e7

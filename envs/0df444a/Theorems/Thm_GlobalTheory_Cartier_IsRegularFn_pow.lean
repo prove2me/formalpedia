@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_IsRegularFn_pow
 -- name    : GlobalTheory.Cartier.IsRegularFn.pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:26.320081+00:00
 -- url     : https://prove2.me/theorems/939157b4-4b8c-4efc-9364-941c2172d58c

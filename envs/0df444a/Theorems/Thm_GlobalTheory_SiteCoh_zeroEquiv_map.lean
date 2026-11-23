@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiteCoh_zeroEquiv_map
 -- name    : GlobalTheory.SiteCoh.zeroEquiv_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:27.492043+00:00
 -- url     : https://prove2.me/theorems/e9868df1-a0d4-4bf2-8a27-c84facd19f1c

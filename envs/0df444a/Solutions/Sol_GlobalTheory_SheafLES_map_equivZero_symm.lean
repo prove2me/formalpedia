@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for GlobalTheory.SheafLES.map_equivZero_symm
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T10:24:22.356574+00:00
+-- url     : https://prove2.me/submissions/8ca748de-bc4a-4206-8e0a-0686c025e326
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_MapFOneInjectiveOfSectionsSurjective
+import Theorems.Thm_GlobalTheory_SheafLES_equivZero_map
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe w' v u
+open CategoryTheory Limits Abelian Opposite
+noncomputable section
+open GlobalTheory
+open GlobalTheory.SheafLES
+variable {C : Type u} [Category.{v} C] {J : GrothendieckTopology C}
+  [HasSheafify J AddCommGrpCat.{v}]
+variable [HasExt.{w'} (Sheaf J AddCommGrpCat.{v})]
+variable {F G K : Sheaf J AddCommGrpCat.{v}}
+namespace GlobalTheory.SheafLES
+theorem _root_.solution (f : F ⟶ G) (U : C) (s : F.obj.obj (op U)) :
+    map f 0 U ((equivZero.{w'} F U).symm s) = (equivZero G U).symm (f.hom.app (op U) s) := by
+  apply (equivZero G U).injective
+  rw [equivZero_map, AddEquiv.apply_symm_apply, AddEquiv.apply_symm_apply]
+end GlobalTheory.SheafLES

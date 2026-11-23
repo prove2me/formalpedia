@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_multiDiff_pow
 -- name    : GlobalTheory.multiDiff_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:03:32.349123+00:00
 -- url     : https://prove2.me/theorems/34d35470-486d-46b4-b36f-d3151e2079d6

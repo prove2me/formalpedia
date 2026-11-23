@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_spatial_conformal_scalar_curvature_three
 -- name    : NoHair.spatial_conformal_scalar_curvature_three
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:56:14.421798+00:00
 -- url     : https://prove2.me/theorems/1fdfbd28-7947-4ee7-a418-86af27811975

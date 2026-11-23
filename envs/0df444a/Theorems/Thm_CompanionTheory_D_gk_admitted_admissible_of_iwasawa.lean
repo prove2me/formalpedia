@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_admissible_of_iwasawa
 -- name    : CompanionTheory.D.gk.admitted.admissible_of_iwasawa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:31:30.497411+00:00
 -- url     : https://prove2.me/theorems/94acf7b7-7503-4313-9182-364b5778a81d

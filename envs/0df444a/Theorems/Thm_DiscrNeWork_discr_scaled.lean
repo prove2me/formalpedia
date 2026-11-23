@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscrNeWork_discr_scaled
 -- name    : DiscrNeWork.discr_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:32.692179+00:00
 -- url     : https://prove2.me/theorems/acd47d29-a494-453d-8c79-9117cdc20c6f

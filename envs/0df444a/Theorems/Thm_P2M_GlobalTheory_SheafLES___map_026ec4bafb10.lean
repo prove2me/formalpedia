@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SheafLES___map_026ec4bafb10
 -- name    : P2M_GlobalTheory_SheafLES___map_026ec4bafb10
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:40.533382+00:00
 -- url     : https://prove2.me/theorems/eb381f55-929f-4401-890d-70b774016467

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_vars_coeffIn_subset
 -- name    : ReciprocityTheory.MultiplicativeHeights.vars_coeffIn_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:56.576358+00:00
 -- url     : https://prove2.me/theorems/639b63c2-eb80-4993-a4a7-e6902c43cae5

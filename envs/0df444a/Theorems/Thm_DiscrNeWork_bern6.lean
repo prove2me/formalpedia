@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscrNeWork_bern6
 -- name    : DiscrNeWork.bern6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:35.370807+00:00
 -- url     : https://prove2.me/theorems/3586b8ea-6272-4ede-92e3-a7a369aa1bd8

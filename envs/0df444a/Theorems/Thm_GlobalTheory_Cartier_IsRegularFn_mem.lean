@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_IsRegularFn_mem
 -- name    : GlobalTheory.Cartier.IsRegularFn.mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:00:23.380155+00:00
 -- url     : https://prove2.me/theorems/3f35951a-0170-4ef3-a7b9-c0fa199d06ea

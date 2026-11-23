@@ -1,0 +1,29 @@
+-- Prove2me | Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_IntertwinerFixesOfLocalVacuum
+-- name    : Development_AbelianVarietyTheory_Proofs_DivisorProofs_IntertwinerFixesOfLocalVacuum
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-23T10:13:42.2478+00:00
+-- url     : https://prove2.me/theorems/b9e0fd9c-43ac-4b5e-b7c0-d04c6c4642ce
+-- title:
+--   Intertwiner Fixes Of Local Vacuum
+-- statement:
+--   Definitions and structural lemmas for Intertwiner Fixes Of Local Vacuum, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/IntertwinerFixesOfLocalVacuum.lean
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FoundationProofs_IsHeisTrivial
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Classical GlobalTheory.FinWeil
+open scoped BigOperators
+namespace GlobalTheory.FinWeil
+end GlobalTheory.FinWeil
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_algHom_surjective
 -- name    : GlobalTheory.Retract.algHom_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:49.29763+00:00
 -- url     : https://prove2.me/theorems/2bb50655-9df6-42d4-b88f-5fbe29584338

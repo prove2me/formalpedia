@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_landau_window
 -- name    : Deduction.landau_window
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:35:42.014655+00:00
 -- url     : https://prove2.me/theorems/dcc3a65d-559c-4e2a-a3f2-1e71c1aa0fee

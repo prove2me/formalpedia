@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_nonzeroLocus_secPull
 -- name    : GlobalTheory.Cartier.nonzeroLocus_secPull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:32.204403+00:00
 -- url     : https://prove2.me/theorems/da417e2b-3935-4737-ad0e-a0d31c12e04a

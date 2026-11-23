@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_Qcqs_baseRingHom_top
 -- name    : GlobalTheory.QCoh.Qcqs.baseRingHom_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:59.019133+00:00
 -- url     : https://prove2.me/theorems/758d4c7e-a8cd-4df1-b8e7-7c06729a918e

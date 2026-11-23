@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_IsRegularFn_dvd_of_germ
 -- name    : GlobalTheory.Cartier.IsRegularFn.dvd_of_germ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:07:51.223357+00:00
 -- url     : https://prove2.me/theorems/5b4348e8-0b5d-4748-9829-4e210685daeb

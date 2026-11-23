@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sphereMeasure_isProbability
 -- name    : ReciprocityTheory.MultiplicativeHeights.sphereMeasure_isProbability
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:08.723688+00:00
 -- url     : https://prove2.me/theorems/8d6d7485-115a-4ea7-b551-5ed7611271b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_K_type_count
 -- name    : CompanionTheory.D.LK.K_type_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:13.003138+00:00
 -- url     : https://prove2.me/theorems/5e9d8afe-3f1f-4378-9eaa-83d40eca8c1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_toSpecZero_appLE_basicOpen
 -- name    : ReciprocityTheory.AnForm.R.toSpecZero_appLE_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:05:47.038052+00:00
 -- url     : https://prove2.me/theorems/ed7d52e3-efe3-4ec7-97a5-363bae0437d4

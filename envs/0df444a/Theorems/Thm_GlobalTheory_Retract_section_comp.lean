@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_section_comp
 -- name    : GlobalTheory.Retract.section_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:40.52529+00:00
 -- url     : https://prove2.me/theorems/ef3d9201-aa59-474f-986e-1fd2c70ad92a

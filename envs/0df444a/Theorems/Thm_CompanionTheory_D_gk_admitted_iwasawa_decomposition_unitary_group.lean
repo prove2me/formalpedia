@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_iwasawa_decomposition_unitary_group
 -- name    : CompanionTheory.D.gk.admitted.iwasawa_decomposition_unitary_group
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:51:24.791547+00:00
 -- url     : https://prove2.me/theorems/abff8658-c41f-4600-96c7-27ac8f676755

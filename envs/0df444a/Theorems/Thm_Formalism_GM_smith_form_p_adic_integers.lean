@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_smith_form_p_adic_integers
 -- name    : Formalism.GM.smith_form_p_adic_integers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:27:15.619441+00:00
 -- url     : https://prove2.me/theorems/d5705534-232a-4630-b807-2d0d7e90f861

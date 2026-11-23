@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_multiDiff_polynomial_eval
 -- name    : GlobalTheory.multiDiff_polynomial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:59:47.743073+00:00
 -- url     : https://prove2.me/theorems/041923b5-e467-4c0b-8c3f-01a793f7e7e9

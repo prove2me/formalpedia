@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_PlacePermOperatorBicommutantSpan_impl_fou_chiB
 -- name    : CompanionTheory.PlacePermOperatorBicommutantSpan.impl_fou_chiB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:41.422499+00:00
 -- url     : https://prove2.me/theorems/28992732-024e-4215-a70b-2f47d77939de

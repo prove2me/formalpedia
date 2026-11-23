@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_multAlg_of
 -- name    : CompanionTheory.D.LK.multAlg_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:11.225809+00:00
 -- url     : https://prove2.me/theorems/bf7453df-99e8-429c-a49a-cab05a921097

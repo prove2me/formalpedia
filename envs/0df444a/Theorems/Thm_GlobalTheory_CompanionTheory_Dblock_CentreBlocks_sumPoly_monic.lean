@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dblock_CentreBlocks_sumPoly_monic
 -- name    : GlobalTheory.CompanionTheory.Dblock.CentreBlocks.sumPoly_monic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:59.467602+00:00
 -- url     : https://prove2.me/theorems/65ebc7bd-0007-4664-8003-d5013a3c5edd

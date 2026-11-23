@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_factHCMono
 -- name    : Formalism.BasicNotions.factHCMono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:34.056266+00:00
 -- url     : https://prove2.me/theorems/c1306aa0-13ee-469f-b282-cded53332796

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Select_moments
 -- name    : Formalism.BehrendSets.Select.moments
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:36:04.646324+00:00
 -- url     : https://prove2.me/theorems/7ce06093-23b9-4d87-b705-dd83fb7b7d78

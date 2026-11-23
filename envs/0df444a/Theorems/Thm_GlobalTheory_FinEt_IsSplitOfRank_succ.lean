@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_IsSplitOfRank_succ
 -- name    : GlobalTheory.FinEt.IsSplitOfRank.succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:48.499176+00:00
 -- url     : https://prove2.me/theorems/a7fa336c-cfa8-4c63-ab57-ef594c6ef072

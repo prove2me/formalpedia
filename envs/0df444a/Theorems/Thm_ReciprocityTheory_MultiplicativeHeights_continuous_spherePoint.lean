@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_continuous_spherePoint
 -- name    : ReciprocityTheory.MultiplicativeHeights.continuous_spherePoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:00.655912+00:00
 -- url     : https://prove2.me/theorems/2caaa0fa-89a5-44f2-ab51-8ddeb26b062e

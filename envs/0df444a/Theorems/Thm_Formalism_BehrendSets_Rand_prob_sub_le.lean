@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Rand_prob_sub_le
 -- name    : Formalism.BehrendSets.Rand.prob_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:40.438291+00:00
 -- url     : https://prove2.me/theorems/4f5c4abd-5f6d-419f-83a2-c9077586c8d5

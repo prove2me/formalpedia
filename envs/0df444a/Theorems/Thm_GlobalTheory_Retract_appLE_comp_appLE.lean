@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_appLE_comp_appLE
 -- name    : GlobalTheory.Retract.appLE_comp_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:51.138716+00:00
 -- url     : https://prove2.me/theorems/5af922ad-8b7e-4e64-ae06-d108ab911f5b

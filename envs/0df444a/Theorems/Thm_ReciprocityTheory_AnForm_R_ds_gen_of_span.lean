@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_ds_gen_of_span
 -- name    : ReciprocityTheory.AnForm.R.ds_gen_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:01.172666+00:00
 -- url     : https://prove2.me/theorems/6d46ad81-52fc-44ac-9d8f-3f554a5fdf35

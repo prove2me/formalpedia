@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_acyclic_iff_cech
 -- name    : GlobalTheory.cubeComplex_acyclic_iff_cech
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:41:54.910261+00:00
 -- url     : https://prove2.me/theorems/a3e82c57-2664-405b-b16f-77d981caf7da

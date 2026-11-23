@@ -1,0 +1,45 @@
+-- Prove2me | solution 1 for Kyprianou.Ch02.finiteRegionPRMFiniteSupportAllNaturalWindowsV1
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-23T10:13:02.965483+00:00
+-- url     : https://prove2.me/submissions/1edf4f36-7e3b-4733-a666-e3b6e861e479
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib
+import Definitions.Def_KLSModular_LevyStochCalc_Poisson_RandomMeasure
+import Definitions.Def_LevyStochCalc_Probability_IntegerValuedMeasure_F000
+import Theorems.Thm_Kyprianou_Ch02_integerValuedFiniteSupportV1
+import Theorems.Thm_Kyprianou_Ch02_finiteRegionPRMIntegerValuedAllNaturalWindowsV1
+open MeasureTheory ProbabilityTheory
+open scoped ENNReal NNReal
+set_option autoImplicit false
+
+theorem solution
+    {Ω : Type} [MeasurableSpace Ω] (P : Measure Ω)
+    [IsProbabilityMeasure P] (ν : Measure ℝ) [SigmaFinite ν]
+    (N : LevyStochCalc.Poisson.PoissonRandomMeasure.{0, 0, 0} P ν)
+    (B : Set ℝ) (hB : MeasurableSet B)
+    (hfinite : ν B < ⊤) :
+    ∀ᵐ ω ∂P, ∀ T : ℕ, ∃ s : Finset (ℝ × ℝ),
+      N.N ω ((Set.Ioc (0 : ℝ) (T : ℝ) ×ˢ B) \ (s : Set (ℝ × ℝ))) = 0 := by
+  filter_upwards
+    [Kyprianou.Ch02.finiteRegionPRMIntegerValuedAllNaturalWindowsV1
+      P ν N B hB hfinite] with ω hω
+  intro T
+  let R : Set (ℝ × ℝ) := Set.Ioc (0 : ℝ) (T : ℝ) ×ˢ B
+  obtain ⟨s, hs⟩ :=
+    Kyprianou.Ch02.integerValuedFiniteSupportV1
+      ((N.N ω).restrict R) (hω T)
+  refine ⟨s, ?_⟩
+  have hz : (N.N ω).restrict R (s : Set (ℝ × ℝ))ᶜ = 0 :=
+    MeasureTheory.ae_iff.mp hs
+  rw [Measure.restrict_apply (s.measurableSet.compl)] at hz
+  have hset :
+      R \ (s : Set (ℝ × ℝ)) =
+        (s : Set (ℝ × ℝ))ᶜ ∩ R := by
+    ext p
+    simp [Set.diff_eq, Set.inter_comm]
+  change N.N ω (R \ (s : Set (ℝ × ℝ))) = 0
+  rw [hset]
+  exact hz

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_val_recursion
 -- name    : DensInertW.val_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:13.524786+00:00
 -- url     : https://prove2.me/theorems/60d249e3-8163-4084-bbcf-9df31d2eb6d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_euclidean_chart_from_static_completion
 -- name    : NoHair.euclidean_chart_from_static_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T10:08:36.38281+00:00
 -- url     : https://prove2.me/theorems/2bb3f845-782f-4256-93fd-eb6fa8efdcee

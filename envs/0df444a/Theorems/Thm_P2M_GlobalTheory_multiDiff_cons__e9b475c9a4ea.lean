@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_multiDiff_cons__e9b475c9a4ea
 -- name    : P2M_GlobalTheory_multiDiff_cons__e9b475c9a4ea
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:08.403993+00:00
 -- url     : https://prove2.me/theorems/3a500c10-0cc9-4c3b-a465-39398dd898a8

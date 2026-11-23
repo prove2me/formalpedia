@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.spatial_conformal_scalar_curvature_three
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:58:04.446277+00:00
 -- url     : https://prove2.me/submissions/a4fd6f4e-7ae3-4686-855a-880f2f59be08
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_spatial_conformal_connection
 import Theorems.Thm_NoHair_spatial_conformal_ricci_three

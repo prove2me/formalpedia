@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_lowKMultOneP_of
 -- name    : CompanionTheory.D.LK.lowKMultOneP_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:13.130004+00:00
 -- url     : https://prove2.me/theorems/cf13a51f-c833-4de5-a8c1-1881afc3c61f

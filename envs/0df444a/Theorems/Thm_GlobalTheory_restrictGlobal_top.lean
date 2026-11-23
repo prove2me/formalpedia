@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_restrictGlobal_top
 -- name    : GlobalTheory.restrictGlobal_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:46.232998+00:00
 -- url     : https://prove2.me/theorems/2a1850cd-d0cf-4c80-a25f-79bb0a9f6ce3

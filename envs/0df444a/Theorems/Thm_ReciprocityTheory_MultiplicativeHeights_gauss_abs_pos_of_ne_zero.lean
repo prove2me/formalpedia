@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gauss_abs_pos_of_ne_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.gauss_abs_pos_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:01.464707+00:00
 -- url     : https://prove2.me/theorems/561c42c2-af6e-473e-bffd-fba3c32fac66

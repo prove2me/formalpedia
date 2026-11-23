@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_E3_idx_eq
 -- name    : Formalism.BehrendSets.E3.idx_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:10:04.21183+00:00
 -- url     : https://prove2.me/theorems/8e2cec15-4fa8-4d6f-ad1c-eb1ec401ddc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_static_conformal_halves_scalar_flat
 -- name    : NoHair.static_conformal_halves_scalar_flat
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:55:58.086843+00:00
 -- url     : https://prove2.me/theorems/013adbba-9736-4c9b-8297-b5c9f57dd242

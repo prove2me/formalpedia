@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_mem_letters
 -- name    : GroundTheory.Automorphic.HarishChandra.mem_letters
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:07:04.048639+00:00
 -- url     : https://prove2.me/theorems/52d449c8-6f5f-4c7f-8e6e-8e801233ce7e

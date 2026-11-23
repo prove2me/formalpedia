@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_genCO_of
 -- name    : CompanionTheory.D.LK.genCO_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:28.490534+00:00
 -- url     : https://prove2.me/theorems/da1e3964-d89a-4cd4-8c66-eb2a50e53b47

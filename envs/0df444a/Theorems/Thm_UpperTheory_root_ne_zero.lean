@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_root_ne_zero
 -- name    : UpperTheory.root_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:03.522309+00:00
 -- url     : https://prove2.me/theorems/9036e197-3752-4aff-919c-0f9f46f2eee6

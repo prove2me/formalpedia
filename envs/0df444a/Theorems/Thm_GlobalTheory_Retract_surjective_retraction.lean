@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_surjective_retraction
 -- name    : GlobalTheory.Retract.surjective_retraction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:49.98765+00:00
 -- url     : https://prove2.me/theorems/e3946176-7b1c-456e-98df-9f3d7abf6f1a

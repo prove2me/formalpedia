@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_IsRegularFn_mul_right_cancel
 -- name    : GlobalTheory.Cartier.IsRegularFn.mul_right_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:59:52.766815+00:00
 -- url     : https://prove2.me/theorems/1e974c07-7c4c-4be8-a433-306045472c55

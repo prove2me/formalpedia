@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_bijOn_ratOf
 -- name    : GlobalTheory.Cartier.bijOn_ratOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:00.292316+00:00
 -- url     : https://prove2.me/theorems/2e2e3841-113d-48e0-b93a-d0e16eda07ad

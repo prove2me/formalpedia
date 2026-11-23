@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafLES_map_f_one_injective_of_sections_surjective
 -- name    : GlobalTheory.SheafLES.map_f_one_injective_of_sections_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:25.252664+00:00
 -- url     : https://prove2.me/theorems/a12451b5-4f02-4140-a7bc-931708331cca

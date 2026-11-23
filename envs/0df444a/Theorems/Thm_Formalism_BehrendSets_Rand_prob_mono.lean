@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Rand_prob_mono
 -- name    : Formalism.BehrendSets.Rand.prob_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:10:03.130721+00:00
 -- url     : https://prove2.me/theorems/33158c0c-4d58-493d-8767-fff4ab73b0e8

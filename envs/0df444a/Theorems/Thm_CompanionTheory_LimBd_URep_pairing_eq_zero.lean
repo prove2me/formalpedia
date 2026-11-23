@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_pairing_eq_zero
 -- name    : CompanionTheory.LimBd.URep.pairing_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:31:52.868553+00:00
 -- url     : https://prove2.me/theorems/9f4fcc53-f64a-43a4-8fe5-ea29de426679

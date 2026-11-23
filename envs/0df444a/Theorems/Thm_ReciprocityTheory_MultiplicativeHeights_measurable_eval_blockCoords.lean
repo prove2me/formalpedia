@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_measurable_eval_blockCoords
 -- name    : ReciprocityTheory.MultiplicativeHeights.measurable_eval_blockCoords
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:12.56851+00:00
 -- url     : https://prove2.me/theorems/023d5ea8-3982-4273-9482-13fa5023dafd

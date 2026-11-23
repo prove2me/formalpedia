@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_integrableOn_log_circ
 -- name    : ReciprocityTheory.MultiplicativeHeights.integrableOn_log_circ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:52.805807+00:00
 -- url     : https://prove2.me/theorems/f1e7c2a4-8efd-4c3c-9276-9409941da8d9

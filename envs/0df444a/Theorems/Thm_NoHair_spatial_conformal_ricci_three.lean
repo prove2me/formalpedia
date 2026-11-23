@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_spatial_conformal_ricci_three
 -- name    : NoHair.spatial_conformal_ricci_three
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:57:39.238279+00:00
 -- url     : https://prove2.me/theorems/cad8e65c-fc46-4397-ab1b-ec3d74149895

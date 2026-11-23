@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_casK_inN
 -- name    : CompanionTheory.D.LK.casK_inN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:23.765045+00:00
 -- url     : https://prove2.me/theorems/0c469aec-ce4f-49b6-8a52-23f30c58a7cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_TorusLexOrder_integrable_of_bdd
 -- name    : ReciprocityTheory.MultiplicativeHeights.TorusLexOrder.integrable_of_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:00:01.180024+00:00
 -- url     : https://prove2.me/theorems/20c22c24-282d-4100-87bf-78b042596312

@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for CompanionTheory.D.gk.admitted.admissible_of_iwasawa
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T10:22:11.699706+00:00
+-- url     : https://prove2.me/submissions/a973be9b-e5e7-4e2d-a895-03cdc48d2d29
+
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_AdmissibleOfFiniteRank
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_FinOfPI
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_SmallPI
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_GoodPI
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_Transfer
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_ExistsAvg
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_IwasawaDecompositionSecondModel
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_Garding
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_AdmissibleOfIwasawa
+import Theorems.Thm_CompanionTheory_D_gk_admitted_admissible_of_finite_rank
+import Theorems.Thm_CompanionTheory_D_gk_admitted_exists_averaging_operator
+import Theorems.Thm_CompanionTheory_D_gk_admitted_finite_rank_of_irreducible_unitary
+import Theorems.Thm_CompanionTheory_D_gk_admitted_goodPI_of
+import Theorems.Thm_CompanionTheory_D_gk_admitted_small_irreducible_representation
+import Theorems.Thm_CompanionTheory_D_gk_admitted_transfer_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open CompanionTheory CompanionTheory.D CompanionTheory.D.gk CompanionTheory.D.gk.admitted
+namespace CompanionTheory.D.gk.admitted
+theorem _root_.solution {n : ℕ} {ε : Fin n → Bool} (h : Iwa ε) : AdmUJ ε :=
+  admissible_of_finite_rank finite_rank_of_irreducible_unitary (goodPI_of small_irreducible_representation) transfer_holds exists_averaging_operator h
+end CompanionTheory.D.gk.admitted

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AZ_one
 -- name    : Formalism.AZ_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:32.689287+00:00
 -- url     : https://prove2.me/theorems/d47d3e75-1fb8-4019-adce-4115b810826f

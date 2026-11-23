@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_log_norm_leadingCoeff_le
 -- name    : ReciprocityTheory.MultiplicativeHeights.log_norm_leadingCoeff_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:56.008799+00:00
 -- url     : https://prove2.me/theorems/56e8ae1f-cc49-4777-a13e-ab846991f976

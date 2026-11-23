@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_norm_torusPoint
 -- name    : ReciprocityTheory.MultiplicativeHeights.norm_torusPoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:19.671426+00:00
 -- url     : https://prove2.me/theorems/9b3858dc-46d2-4169-b5cd-8461cf148bbd

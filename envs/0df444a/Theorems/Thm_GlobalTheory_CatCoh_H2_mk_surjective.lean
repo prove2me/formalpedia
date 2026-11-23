@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_H2_mk_surjective
 -- name    : GlobalTheory.CatCoh.H2.mk_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:33.736824+00:00
 -- url     : https://prove2.me/theorems/4ff3da80-7c36-46dd-afde-3737d01e9faf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_toFinsupp_expand
 -- name    : GroundTheory.Automorphic.HarishChandra.toFinsupp_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:06:57.81153+00:00
 -- url     : https://prove2.me/theorems/0b0b56e0-74ca-4aca-a9b0-0915cd6e5e05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_valAt__units_zpow_e1282b23a243
 -- name    : P2M_GlobalTheory_valAt__units_zpow_e1282b23a243
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:07.158212+00:00
 -- url     : https://prove2.me/theorems/2bc87654-23df-42c1-bbf2-ef7be75d0c35

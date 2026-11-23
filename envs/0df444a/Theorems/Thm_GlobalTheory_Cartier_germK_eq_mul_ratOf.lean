@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_germK_eq_mul_ratOf
 -- name    : GlobalTheory.Cartier.germK_eq_mul_ratOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:07:43.515792+00:00
 -- url     : https://prove2.me/theorems/61d7c69f-3ff5-4939-9c01-9ce84372f550

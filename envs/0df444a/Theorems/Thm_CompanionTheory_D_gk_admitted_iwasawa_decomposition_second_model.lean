@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_iwasawa_decomposition_second_model
 -- name    : CompanionTheory.D.gk.admitted.iwasawa_decomposition_second_model
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:31:45.209174+00:00
 -- url     : https://prove2.me/theorems/19dba9c4-0ba9-4701-93c6-03230a4f51ec

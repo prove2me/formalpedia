@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DensSplitW_fiberCard_holds
 -- name    : PI.DensSplitW.fiberCard_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:16:33.724802+00:00
 -- url     : https://prove2.me/theorems/81e2f4ab-4b6c-46f7-8ac1-52b0134614cf

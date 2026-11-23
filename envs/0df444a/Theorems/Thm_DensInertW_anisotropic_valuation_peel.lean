@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_anisotropic_valuation_peel
 -- name    : DensInertW.anisotropic_valuation_peel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:07.2158+00:00
 -- url     : https://prove2.me/theorems/4e2494d6-ee4a-4e56-9cc3-df7d3b5207c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_valuation_count
 -- name    : DensInertW.valuation_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:40:21.196557+00:00
 -- url     : https://prove2.me/theorems/6aba7bdf-360b-40c9-8498-925f572f4cf5

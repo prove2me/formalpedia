@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscrNeWork_eisenstein_six_lattice_eq
 -- name    : DiscrNeWork.eisenstein_six_lattice_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:35.468899+00:00
 -- url     : https://prove2.me/theorems/8772f032-685b-4a4c-a566-a416795e1f7c

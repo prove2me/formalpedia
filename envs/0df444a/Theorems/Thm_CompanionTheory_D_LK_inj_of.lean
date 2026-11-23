@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_inj_of
 -- name    : CompanionTheory.D.LK.inj_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:42.262675+00:00
 -- url     : https://prove2.me/theorems/36e36116-3323-495d-984e-13506e5427bd

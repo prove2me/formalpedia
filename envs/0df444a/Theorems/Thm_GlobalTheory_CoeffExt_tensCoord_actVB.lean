@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_tensCoord_actVB
 -- name    : GlobalTheory.CoeffExt.tensCoord_actVB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:05:10.537403+00:00
 -- url     : https://prove2.me/theorems/52e08a07-8cc1-49e3-8b6d-d775163aa8ab

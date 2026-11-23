@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerr_horizon_generator_at_positive_root
 -- name    : NoHair.kerr_horizon_generator_at_positive_root
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T10:05:24.916509+00:00
 -- url     : https://prove2.me/theorems/6e328bbb-8d15-49c8-999b-ffc3876a21af

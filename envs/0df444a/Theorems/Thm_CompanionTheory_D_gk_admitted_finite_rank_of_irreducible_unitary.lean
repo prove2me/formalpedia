@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_finite_rank_of_irreducible_unitary
 -- name    : CompanionTheory.D.gk.admitted.finite_rank_of_irreducible_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:51:20.443915+00:00
 -- url     : https://prove2.me/theorems/26e0f333-5ccf-4a2a-88c8-a857a3f198df

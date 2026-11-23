@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechAugHomology_comp
 -- name    : GlobalTheory.cechAugHomology_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:00.914358+00:00
 -- url     : https://prove2.me/theorems/4a6ae200-0a4b-4e0f-a9ed-b0dadd4d847d
