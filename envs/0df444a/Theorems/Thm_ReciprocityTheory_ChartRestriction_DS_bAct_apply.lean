@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_bAct_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.bAct_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:13.040621+00:00
 -- url     : https://prove2.me/theorems/20e93c9f-cf8f-42d6-b1c1-1ea20d1de0d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_x25519_test_vectors_5_2
 -- name    : X25519Dalek.x25519_test_vectors_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T22:31:20.064802+00:00
 -- url     : https://prove2.me/theorems/f3f0ca6e-443a-45e6-bfe1-22c496d69287

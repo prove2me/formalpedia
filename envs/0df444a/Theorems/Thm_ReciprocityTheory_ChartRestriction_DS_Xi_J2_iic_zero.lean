@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_J2_iic_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.J2.iic_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:43.314806+00:00
 -- url     : https://prove2.me/theorems/b93b5a5c-de3d-430d-85f1-ee4f9652e0d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_k_mul
 -- name    : GlobalTheory.RealWeil.Osc.k_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:38.489334+00:00
 -- url     : https://prove2.me/theorems/2d8f62fb-618c-4103-871f-ba05229f9ccf

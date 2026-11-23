@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_intw_smul
 -- name    : GlobalTheory.RealWeil.Osc.intw_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:54.242212+00:00
 -- url     : https://prove2.me/theorems/9c056e93-3234-4285-8805-c6bf9fb3b8e2

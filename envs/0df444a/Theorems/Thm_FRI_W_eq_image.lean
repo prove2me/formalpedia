@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_W_eq_image
 -- name    : FRI_W_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:09:46.488433+00:00
 -- url     : https://prove2.me/theorems/70784d1d-e306-42cd-b829-b5189acc7cbd

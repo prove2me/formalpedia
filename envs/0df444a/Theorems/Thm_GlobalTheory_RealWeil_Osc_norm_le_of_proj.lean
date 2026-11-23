@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_norm_le_of_proj
 -- name    : GlobalTheory.RealWeil.Osc.norm_le_of_proj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:41.835157+00:00
 -- url     : https://prove2.me/theorems/1334fc52-fa66-41b8-a180-ca71c3ab2b3b

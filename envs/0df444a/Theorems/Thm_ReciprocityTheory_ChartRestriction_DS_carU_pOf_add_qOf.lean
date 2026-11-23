@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_carU_pOf_add_qOf
 -- name    : ReciprocityTheory.ChartRestriction.DS.carU_pOf_add_qOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:10:02.829297+00:00
 -- url     : https://prove2.me/theorems/b9e3af65-2917-434f-afd4-19c9a457160f

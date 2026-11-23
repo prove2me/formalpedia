@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_inner_integral
 -- name    : GlobalTheory.RealWeil.Osc.inner_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:39.476918+00:00
 -- url     : https://prove2.me/theorems/e64d5ecb-18a8-490d-9bda-9a3b0cb07f6c

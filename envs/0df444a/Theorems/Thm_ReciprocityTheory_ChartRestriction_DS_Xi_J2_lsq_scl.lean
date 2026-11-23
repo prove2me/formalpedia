@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_J2_lsq_scl
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.J2.lsq_scl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:34.554882+00:00
 -- url     : https://prove2.me/theorems/cb44c01c-21c4-4e8d-861a-4329a71bd6d9

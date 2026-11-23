@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_BadEvent_eq_FoldingBadEvent
 -- name    : FRI_BadEvent_eq_FoldingBadEvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:07:25.7019+00:00
 -- url     : https://prove2.me/theorems/8268f763-9041-447d-baa2-c41aa58627f9

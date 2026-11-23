@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_expPartialHomeomorph_symm_one
+-- name    : CompanionTheory.D.Upq.expPartialHomeomorph_symm_one
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T09:27:51.974919+00:00
+-- url     : https://prove2.me/theorems/98948f36-a0f6-4054-bede-d7d812b55704
+-- title:
+--   Upq: exp Partial Homeomorph symm one
+-- statement:
+--   The Upq construction uses the exp Partial Homeomorph symm one property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/CompanionTheory/HarishChandraModules/BesselParameterIntegrals/ContDiffOnExpPartialHomeomorphSymm.lean#L52-L54
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/CompanionTheory/HarishChandraModules/BesselParameterIntegrals/ContDiffOnExpPartialHomeomorphSymm.lean#L52-L54
+
+import Mathlib
+import Definitions.Def_CompanionTheory_HarishChandraModules_BesselParameterIntegrals_ContDiffOnExpPartialHomeomorphSymm
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open CompanionTheory CompanionTheory.D CompanionTheory.D.Upq
+open scoped Manifold ContDiff Topology
+open NormedSpace Set
+set_option linter.unusedSectionVars false
+variable (𝕂 : Type*) [RCLike 𝕂] (𝔸 : Type*) [NormedRing 𝔸] [NormedAlgebra 𝕂 𝔸] [CompleteSpace 𝔸]
+
+theorem CompanionTheory.D.Upq.expPartialHomeomorph_symm_one : (expPartialHomeomorph 𝕂 𝔸).symm 1 = 0 := by sorry

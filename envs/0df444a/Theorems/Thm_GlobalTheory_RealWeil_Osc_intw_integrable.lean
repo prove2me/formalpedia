@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_intw_integrable
 -- name    : GlobalTheory.RealWeil.Osc.intw_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:33.985031+00:00
 -- url     : https://prove2.me/theorems/bbd7b9ca-b904-4830-9e91-6fac1126df0f

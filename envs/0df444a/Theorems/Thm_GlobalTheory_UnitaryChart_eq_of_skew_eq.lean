@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryChart_eq_of_skew_eq
 -- name    : GlobalTheory.UnitaryChart.eq_of_skew_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:40.45413+00:00
 -- url     : https://prove2.me/theorems/b7c6b44b-e445-4910-970e-a11d56bbe95a

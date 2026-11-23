@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_shifted_two_sided_upcrossing_eq_original
 -- name    : Kyprianou.Ch08.StageB.shifted_two_sided_upcrossing_eq_original
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T08:40:04.534246+00:00
 -- url     : https://prove2.me/theorems/be8edb43-8b54-4fe3-97ce-0862ebc49735

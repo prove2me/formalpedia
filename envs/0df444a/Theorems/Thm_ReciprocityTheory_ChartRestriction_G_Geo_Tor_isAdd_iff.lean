@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_isAdd_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.isAdd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:28:40.158738+00:00
 -- url     : https://prove2.me/theorems/b7cda161-5a18-4ef9-8fd0-48d925a064e3

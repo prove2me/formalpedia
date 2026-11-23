@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_in_D0_of_in_W0_classical
 -- name    : FRI_in_D0_of_in_W0_classical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:08:55.208892+00:00
 -- url     : https://prove2.me/theorems/9867ae24-cd13-47b4-8a1e-afe4cdfb6bdc

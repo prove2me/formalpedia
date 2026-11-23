@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_small_step_positive
 -- name    : Kyprianou.Ch08.StageB.actual_height_small_step_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T08:21:01.357809+00:00
 -- url     : https://prove2.me/theorems/8caa791e-d2d6-439f-b551-2f462ed4638e

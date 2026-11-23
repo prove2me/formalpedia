@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InhabA_star_det_mul_det
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InhabA.star_det_mul_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:05:40.196271+00:00
 -- url     : https://prove2.me/theorems/8a98ff30-7b70-47da-83c5-489859eed772

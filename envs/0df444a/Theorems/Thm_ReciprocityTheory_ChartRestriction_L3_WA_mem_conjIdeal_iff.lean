@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_mem_conjIdeal_iff
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.mem_conjIdeal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:39:36.497844+00:00
 -- url     : https://prove2.me/theorems/52d59875-1a24-42f9-9a85-bfab1acdf3b4

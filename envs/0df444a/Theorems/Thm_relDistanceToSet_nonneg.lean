@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_relDistanceToSet_nonneg
 -- name    : relDistanceToSet_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:07:39.081317+00:00
 -- url     : https://prove2.me/theorems/6a514e34-faff-4e7f-ae31-a555503c6668

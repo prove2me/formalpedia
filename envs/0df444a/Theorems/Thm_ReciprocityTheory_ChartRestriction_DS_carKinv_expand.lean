@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_carKinv_expand
 -- name    : ReciprocityTheory.ChartRestriction.DS.carKinv_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:17.921184+00:00
 -- url     : https://prove2.me/theorems/621fa80f-ee83-4ad8-a02a-c6fb9007bf30

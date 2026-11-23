@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Castro2006_H2_equiv_extClasses
 -- name    : Castro2006.H2_equiv_extClasses
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T20:42:29.360206+00:00
 -- url     : https://prove2.me/theorems/92c63085-ac12-40d1-96e2-5424642fe0ea

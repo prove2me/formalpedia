@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_sc_anti
 -- name    : CompanionTheory.D.LK.sc_anti
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:46.280505+00:00
 -- url     : https://prove2.me/theorems/f74d1ba2-b9f3-479d-a9bf-ce108967ef0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_closure_mapsTo_of_genSub
 -- name    : ReciprocityTheory.ChartRestriction.DS.closure_mapsTo_of_genSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:52.57443+00:00
 -- url     : https://prove2.me/theorems/978547d4-5805-4fd3-b56a-b2832a77f16a

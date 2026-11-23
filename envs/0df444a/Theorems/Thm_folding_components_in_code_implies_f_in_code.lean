@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_folding_components_in_code_implies_f_in_code
 -- name    : folding_components_in_code_implies_f_in_code
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:07:04.1221+00:00
 -- url     : https://prove2.me/theorems/243ae38c-883e-4d15-a423-00a653ce8b42

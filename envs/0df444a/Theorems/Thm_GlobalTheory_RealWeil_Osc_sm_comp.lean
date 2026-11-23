@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_sm_comp
 -- name    : GlobalTheory.RealWeil.Osc.sm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:52.917252+00:00
 -- url     : https://prove2.me/theorems/04eef725-f61f-49ff-8bdb-38d64ab887af

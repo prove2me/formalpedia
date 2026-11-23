@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_State_step
 -- name    : FRI_State_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:07:13.469648+00:00
 -- url     : https://prove2.me/theorems/05999071-7daf-4e60-87db-5e495f759bd7

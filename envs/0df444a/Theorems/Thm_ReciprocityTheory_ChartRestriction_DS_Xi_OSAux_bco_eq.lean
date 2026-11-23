@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_bco_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.bco_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:42.698456+00:00
 -- url     : https://prove2.me/theorems/035e368c-b7db-4d90-bb87-2d4e8b2f5e49

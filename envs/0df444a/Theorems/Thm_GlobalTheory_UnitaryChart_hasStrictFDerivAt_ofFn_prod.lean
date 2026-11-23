@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryChart_hasStrictFDerivAt_ofFn_prod
 -- name    : GlobalTheory.UnitaryChart.hasStrictFDerivAt_ofFn_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:35.567802+00:00
 -- url     : https://prove2.me/theorems/023dcc8b-51ef-4cca-b491-19495a2b05e6

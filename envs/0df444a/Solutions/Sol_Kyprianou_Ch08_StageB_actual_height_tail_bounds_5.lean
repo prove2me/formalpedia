@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for Kyprianou.Ch08.StageB.actual_height_tail_bounds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T08:04:54.783621+00:00
 -- url     : https://prove2.me/submissions/a90c1212-3329-464d-a36f-4937c5dd8fce
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D

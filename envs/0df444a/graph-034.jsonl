@@ -2420,7 +2420,7 @@
 {"parent": "WeldedPath.compressed_assertion_projection_bound", "child": "WeldedPath_exactCpO", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_125", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_125", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "Castro2006.classification", "child": "Castro2006_classDefs", "via": ["statement"]}
+{"parent": "Castro2006.classification", "child": "Castro2006_classDefs", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.compoundPoissonCompactUpperBoundAE", "child": "Kyprianou.Ch01.cadlag_runningSup_bddAbove", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.compoundPoissonCompactUpperBoundAE", "child": "LeanLevy_Processes_Cadlag", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.compoundPoissonCompactUpperBoundAE", "child": "ProbabilityTheory.compoundPoisson_ae_isCadlag", "via": ["solution", "statement"]}

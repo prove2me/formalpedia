@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_State_succ_iff_verifier_accepts
 -- name    : FRI_State_succ_iff_verifier_accepts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:01:14.964844+00:00
 -- url     : https://prove2.me/theorems/1aa073db-d718-42bb-9624-fb76ea0cc1dc

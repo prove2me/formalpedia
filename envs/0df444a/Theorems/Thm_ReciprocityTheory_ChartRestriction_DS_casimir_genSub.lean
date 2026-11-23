@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_casimir_genSub
 -- name    : ReciprocityTheory.ChartRestriction.DS.casimir_genSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:01:40.586299+00:00
 -- url     : https://prove2.me/theorems/8403fade-4b14-4cfa-a36e-497835f2343f

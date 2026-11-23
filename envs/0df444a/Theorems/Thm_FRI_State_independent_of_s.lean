@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_State_independent_of_s
 -- name    : FRI_State_independent_of_s
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:00:55.628733+00:00
 -- url     : https://prove2.me/theorems/135ff025-9410-4f81-b13c-edc1ae2eccff

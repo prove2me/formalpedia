@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_W_subset_D0
 -- name    : FRI_W_subset_D0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:07:24.848794+00:00
 -- url     : https://prove2.me/theorems/e372f03a-03ad-4347-a17b-ec0ae7cb0f89

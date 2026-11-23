@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_quad_coord_eq
 -- name    : PIW.AdelicOrbitU.quad_coord_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:29.360307+00:00
 -- url     : https://prove2.me/theorems/d6393e9e-33eb-4531-830d-3bbdc8ac5d32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_prod_tail_zero
 -- name    : FRI_prod_tail_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:03:31.971831+00:00
 -- url     : https://prove2.me/theorems/86eb287c-8b6a-413e-8900-1255080c4ac0

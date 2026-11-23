@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_twist_hasDerivAt_det_exp
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.twist_hasDerivAt_det_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:01:52.411654+00:00
 -- url     : https://prove2.me/theorems/6bd4857f-e12a-4bc8-a7f7-0284ebc47322

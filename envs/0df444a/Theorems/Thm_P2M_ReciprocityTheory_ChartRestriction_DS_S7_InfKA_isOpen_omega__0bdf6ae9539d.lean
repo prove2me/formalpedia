@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_S7_InfKA_isOpen_omega__0bdf6ae9539d
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_S7_InfKA_isOpen_omega__0bdf6ae9539d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:12:22.430854+00:00
 -- url     : https://prove2.me/theorems/8ebcdf98-5392-42c0-84d5-e9cda12f4a15

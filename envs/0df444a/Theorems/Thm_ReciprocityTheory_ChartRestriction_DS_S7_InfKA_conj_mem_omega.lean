@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InfKA_conj_mem_omega
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InfKA.conj_mem_omega
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:47:05.465828+00:00
 -- url     : https://prove2.me/theorems/353309a7-a0b9-4091-aa49-4f449697a159

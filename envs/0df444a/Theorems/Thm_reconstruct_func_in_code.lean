@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_reconstruct_func_in_code
 -- name    : reconstruct_func_in_code
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:58:35.011545+00:00
 -- url     : https://prove2.me/theorems/f8760a7a-d6a8-4f61-9815-bc5ade01fca6

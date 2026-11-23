@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_car_anti_abs
 -- name    : ReciprocityTheory.ChartRestriction.DS.car_anti_abs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:24.651202+00:00
 -- url     : https://prove2.me/theorems/762441f1-d929-40f0-b14d-e62137e9b066

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_tail_multiplicative
 -- name    : Kyprianou.Ch08.StageB.actual_height_tail_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T19:05:03.217515+00:00
 -- url     : https://prove2.me/theorems/027be585-204d-4aae-93f8-d5329c6a8b14

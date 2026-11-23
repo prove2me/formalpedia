@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_State_false_implies_no_bad_event
 -- name    : FRI_State_false_implies_no_bad_event
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:00:43.296267+00:00
 -- url     : https://prove2.me/theorems/add84863-a42c-430b-9ddf-aae6327e880f

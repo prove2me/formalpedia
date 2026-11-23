@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_actM_mem_layer_of_inK
 -- name    : ReciprocityTheory.ChartRestriction.DS.actM_mem_layer_of_inK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:57.223632+00:00
 -- url     : https://prove2.me/theorems/b9e3fc49-18d5-43c0-909c-1b660e4f7f43

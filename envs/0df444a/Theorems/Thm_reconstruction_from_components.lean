@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_reconstruction_from_components
 -- name    : reconstruction_from_components
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:54:03.305251+00:00
 -- url     : https://prove2.me/theorems/f0c5553b-cdf2-44b9-84cd-f8919228d003

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_swap_img
 -- name    : ReciprocityTheory.ReducedBases.T2.swap_img
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:34:55.706798+00:00
 -- url     : https://prove2.me/theorems/ae259d94-a48f-44dd-a63c-b9f176c68f18

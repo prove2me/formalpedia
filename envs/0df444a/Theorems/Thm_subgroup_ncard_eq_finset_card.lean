@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_subgroup_ncard_eq_finset_card
 -- name    : subgroup_ncard_eq_finset_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:56:31.564325+00:00
 -- url     : https://prove2.me/theorems/c98d5ec9-e14e-4ef1-81e2-c2f0ed3a4deb

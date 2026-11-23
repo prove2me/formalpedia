@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefA_high
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefA_high
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:32.911981+00:00
 -- url     : https://prove2.me/theorems/26c39179-09c3-42df-aef1-c234d97a5fa2

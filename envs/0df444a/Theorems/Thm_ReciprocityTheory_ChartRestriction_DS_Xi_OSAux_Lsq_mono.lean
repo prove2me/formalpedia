@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_Lsq_mono
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.Lsq_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:09.376688+00:00
 -- url     : https://prove2.me/theorems/a302bcf3-6b4f-437a-8457-302600ffef23

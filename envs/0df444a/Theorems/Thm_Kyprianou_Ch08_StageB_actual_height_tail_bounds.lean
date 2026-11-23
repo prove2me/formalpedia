@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_tail_bounds
 -- name    : Kyprianou.Ch08.StageB.actual_height_tail_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T19:04:47.584835+00:00
 -- url     : https://prove2.me/theorems/7b9a2094-1363-40e2-b3b1-f5bcd128e97f

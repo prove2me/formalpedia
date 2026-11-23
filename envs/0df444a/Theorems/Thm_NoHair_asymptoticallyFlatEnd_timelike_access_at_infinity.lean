@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_asymptoticallyFlatEnd_timelike_access_at_infinity
 -- name    : NoHair.asymptoticallyFlatEnd_timelike_access_at_infinity
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:00:31.573369+00:00
 -- url     : https://prove2.me/theorems/14a70bf7-b1e8-4d89-a611-39ac2fa304a5

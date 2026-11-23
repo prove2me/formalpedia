@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_x25519_eq_curve25519
 -- name    : X25519Dalek.x25519_eq_curve25519
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T22:46:16.837966+00:00
 -- url     : https://prove2.me/theorems/b4df379c-5d97-4107-a72e-c562c7466594

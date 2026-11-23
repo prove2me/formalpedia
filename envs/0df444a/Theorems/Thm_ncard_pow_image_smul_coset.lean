@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ncard_pow_image_smul_coset
 -- name    : ncard_pow_image_smul_coset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:56:32.621066+00:00
 -- url     : https://prove2.me/theorems/a0d76473-6cd2-4f16-8e56-e0c0b986b42d

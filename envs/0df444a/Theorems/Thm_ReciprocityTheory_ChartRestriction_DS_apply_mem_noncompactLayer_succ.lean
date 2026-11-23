@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_apply_mem_noncompactLayer_succ
 -- name    : ReciprocityTheory.ChartRestriction.DS.apply_mem_noncompactLayer_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:28.35594+00:00
 -- url     : https://prove2.me/theorems/498fe5e2-dc98-48b1-a9c8-9f43097bf2d8

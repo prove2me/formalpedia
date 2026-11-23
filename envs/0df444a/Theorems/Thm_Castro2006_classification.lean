@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Castro2006_classification
 -- name    : Castro2006.classification
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T20:43:10.277009+00:00
 -- url     : https://prove2.me/theorems/dbedf049-6eed-42d2-9532-1cfec56fc6de

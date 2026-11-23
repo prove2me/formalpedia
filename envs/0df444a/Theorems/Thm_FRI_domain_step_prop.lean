@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_domain_step_prop
 -- name    : FRI_domain_step_prop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:04:57.55578+00:00
 -- url     : https://prove2.me/theorems/a72369b9-2b56-4493-bac0-85bc7e3750d7

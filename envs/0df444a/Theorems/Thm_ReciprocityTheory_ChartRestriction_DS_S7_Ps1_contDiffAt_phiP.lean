@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_Ps1_contDiffAt_phiP
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.Ps1.contDiffAt_phiP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:15:34.123533+00:00
 -- url     : https://prove2.me/theorems/a52770c7-8d67-4248-b009-e58299c13ea8

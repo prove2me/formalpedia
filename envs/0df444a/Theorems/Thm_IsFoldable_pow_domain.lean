@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsFoldable_pow_domain
 -- name    : IsFoldable_pow_domain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:03:43.038675+00:00
 -- url     : https://prove2.me/theorems/91426bac-7180-4625-b2d6-d5e69bb491ee

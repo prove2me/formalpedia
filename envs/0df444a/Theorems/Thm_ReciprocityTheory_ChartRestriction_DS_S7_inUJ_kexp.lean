@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_inUJ_kexp
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.inUJ_kexp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:59:20.223075+00:00
 -- url     : https://prove2.me/theorems/80b1c89c-1a1b-4ce2-a204-d0f6dde94e52

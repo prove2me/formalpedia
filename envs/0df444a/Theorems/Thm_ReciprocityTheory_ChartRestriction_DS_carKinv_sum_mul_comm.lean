@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_carKinv_sum_mul_comm
 -- name    : ReciprocityTheory.ChartRestriction.DS.carKinv_sum_mul_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:18.390082+00:00
 -- url     : https://prove2.me/theorems/f00737ca-33a4-40bc-b326-452963d1de9c

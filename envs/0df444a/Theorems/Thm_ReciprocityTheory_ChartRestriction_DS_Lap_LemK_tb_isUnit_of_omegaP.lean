@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_tb_isUnit_of_omegaP
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.tb_isUnit_of_omegaP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:03:49.768896+00:00
 -- url     : https://prove2.me/theorems/9f0e14fb-40fc-4a55-92d4-71e26a408272

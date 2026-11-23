@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_trace_pow_two_diag_conj
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.trace_pow_two_diag_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:06:54.410531+00:00
 -- url     : https://prove2.me/theorems/778e3662-0361-40f7-9b86-a501431b20bd

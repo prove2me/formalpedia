@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ncard_zpowers_eq_orderOf
 -- name    : ncard_zpowers_eq_orderOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:00:06.925461+00:00
 -- url     : https://prove2.me/theorems/fbe3c097-a208-4f6e-8f88-52e5ebe49ec1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_ballFiniteVG
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.ballFiniteVG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:10:29.84981+00:00
 -- url     : https://prove2.me/theorems/bf434ed4-f6b8-48b5-8c8a-de450026fe0a

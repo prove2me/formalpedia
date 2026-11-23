@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_PsW_contDiffOn_Fw
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.PsW.contDiffOn_Fw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:41:43.280859+00:00
 -- url     : https://prove2.me/theorems/ec519553-b7fe-4df1-9d1a-9b8318ee0500

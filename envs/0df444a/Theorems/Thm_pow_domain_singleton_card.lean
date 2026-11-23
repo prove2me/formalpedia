@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_pow_domain_singleton_card
 -- name    : pow_domain_singleton_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:03:23.262525+00:00
 -- url     : https://prove2.me/theorems/403a3676-4069-44ea-bc4b-a7ad2bd18d38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryChart_exists_skew_coord
 -- name    : GlobalTheory.UnitaryChart.exists_skew_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:36.549904+00:00
 -- url     : https://prove2.me/theorems/49bfb713-b564-4d43-81ae-355ebbab53f3

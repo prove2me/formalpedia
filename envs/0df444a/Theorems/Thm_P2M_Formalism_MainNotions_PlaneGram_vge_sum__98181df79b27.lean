@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_vge_sum__98181df79b27
 -- name    : P2M_Formalism_MainNotions_PlaneGram_vge_sum__98181df79b27
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:07.418424+00:00
 -- url     : https://prove2.me/theorems/2e0fa63d-5f2a-4d2d-b678-cbb39c983887

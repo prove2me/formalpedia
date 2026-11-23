@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_exists_hasConductor_of_continuous
 -- name    : GlobalTheory.SplitWeil.exists_hasConductor_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:04:39.43027+00:00
 -- url     : https://prove2.me/theorems/e3bb5179-c441-4895-ab06-6055b8a647a0

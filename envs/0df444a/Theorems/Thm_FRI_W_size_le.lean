@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_W_size_le
 -- name    : FRI_W_size_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:09:44.083335+00:00
 -- url     : https://prove2.me/theorems/77f238ee-08e5-4136-a317-70adce41579a

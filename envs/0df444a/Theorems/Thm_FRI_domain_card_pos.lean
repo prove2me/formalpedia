@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_domain_card_pos
 -- name    : FRI_domain_card_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:59:40.480816+00:00
 -- url     : https://prove2.me/theorems/d32a2832-44fa-494c-9aae-ebd34972b064

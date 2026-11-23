@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_uniform_measure_eq_card_div
 -- name    : uniform_measure_eq_card_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:08:24.25834+00:00
 -- url     : https://prove2.me/theorems/5039fb1d-ee3b-4159-a2b1-0d33c317a362

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_ncV_kStable
 -- name    : ReciprocityTheory.ChartRestriction.DS.ncV_kStable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:02:11.345678+00:00
 -- url     : https://prove2.me/theorems/13711681-3254-496e-909e-8169c2e85a04

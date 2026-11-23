@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_hs_exp_leVG
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.hs_exp_leVG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:53:49.200014+00:00
 -- url     : https://prove2.me/theorems/68718aab-e503-4f72-b671-2a645fe8fd3f

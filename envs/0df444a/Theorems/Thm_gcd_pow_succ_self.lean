@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_gcd_pow_succ_self
 -- name    : gcd_pow_succ_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:03:14.337663+00:00
 -- url     : https://prove2.me/theorems/0d4a2853-608a-49c2-be90-329643c06fef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_pow_domain_is_coset
 -- name    : pow_domain_is_coset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:03:35.534424+00:00
 -- url     : https://prove2.me/theorems/0b144a5c-6d2b-47d7-85bc-0932af8eddd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Lagrange_interpolate_eq_of_degree_lt
 -- name    : Lagrange.interpolate_eq_of_degree_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:07:15.364283+00:00
 -- url     : https://prove2.me/theorems/c96c7a66-0e8d-42e1-8e72-5ef9bba51985

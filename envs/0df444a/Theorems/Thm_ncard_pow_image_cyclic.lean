@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ncard_pow_image_cyclic
 -- name    : ncard_pow_image_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:54:17.118648+00:00
 -- url     : https://prove2.me/theorems/1fbdd235-5a0c-44fb-bb6c-8e60059e8c55

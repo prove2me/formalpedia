@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_car_sum_sq_zero_of_anti
 -- name    : ReciprocityTheory.ChartRestriction.DS.car_sum_sq_zero_of_anti
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:27.628892+00:00
 -- url     : https://prove2.me/theorems/66ff162f-db5d-4c43-b993-65e1ad6c881b

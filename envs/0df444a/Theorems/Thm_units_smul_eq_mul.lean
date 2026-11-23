@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_units_smul_eq_mul
 -- name    : units_smul_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:01:23.288305+00:00
 -- url     : https://prove2.me/theorems/743a284e-bcd2-425b-8dc6-bc5b43a64f1e

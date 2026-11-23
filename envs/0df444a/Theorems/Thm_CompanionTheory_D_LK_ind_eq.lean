@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_ind_eq
 -- name    : CompanionTheory.D.LK.ind_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:31.861028+00:00
 -- url     : https://prove2.me/theorems/0c2fd807-d29a-4422-957b-f4b2e46dfae9

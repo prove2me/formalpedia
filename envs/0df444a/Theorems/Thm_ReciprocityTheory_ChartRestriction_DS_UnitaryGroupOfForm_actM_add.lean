@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_UnitaryGroupOfForm_actM_add
 -- name    : ReciprocityTheory.ChartRestriction.DS.UnitaryGroupOfForm.actM_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:03.543267+00:00
 -- url     : https://prove2.me/theorems/57bca316-e4c5-4d28-95bb-5d96ff20eeec

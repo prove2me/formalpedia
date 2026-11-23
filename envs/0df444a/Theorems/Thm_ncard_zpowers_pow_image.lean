@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ncard_zpowers_pow_image
 -- name    : ncard_zpowers_pow_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:00:14.583533+00:00
 -- url     : https://prove2.me/theorems/4ebfcdc6-0cf0-4084-9ee3-c824a5936bf2

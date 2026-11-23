@@ -94919,8 +94919,8 @@
 {"parent": "KoanaKPaths.Machine.compareEq_exec", "child": "KoanaKPaths_Runtime_SubsetArrays", "via": ["solution", "statement"]}
 {"parent": "KoanaKPaths.Machine.compareEq_exec", "child": "IntMul_SS_Defs2", "via": ["solution", "statement"]}
 {"parent": "KoanaKPaths.Machine.compareEq_exec", "child": "KoanaKPaths_Runtime_NatParser", "via": ["solution", "statement"]}
-{"parent": "Castro2006.H2_equiv_extClasses", "child": "Castro2006_action", "via": ["statement"]}
-{"parent": "Castro2006.H2_equiv_extClasses", "child": "Castro2006_extQuot", "via": ["statement"]}
+{"parent": "Castro2006.H2_equiv_extClasses", "child": "Castro2006_action", "via": ["solution", "statement"]}
+{"parent": "Castro2006.H2_equiv_extClasses", "child": "Castro2006_extQuot", "via": ["solution", "statement"]}
 {"parent": "RH1E5_Data032", "child": "RH1E5_Data031", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0236", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0236", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}

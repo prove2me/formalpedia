@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_k_inv
 -- name    : GlobalTheory.RealWeil.Osc.k_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:21.214202+00:00
 -- url     : https://prove2.me/theorems/3b09012c-ea3c-43bd-9155-b605d1c91894

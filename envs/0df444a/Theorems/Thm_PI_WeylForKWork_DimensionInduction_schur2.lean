@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_DimensionInduction_schur2
 -- name    : PI.WeylForKWork.DimensionInduction.schur2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:58:55.907037+00:00
 -- url     : https://prove2.me/theorems/5d84a79f-c526-4bd1-8049-20dc5c7aecb8

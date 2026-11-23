@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ncard_coset_image_eq_ncard_subgroup
 -- name    : ncard_coset_image_eq_ncard_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:01:22.931165+00:00
 -- url     : https://prove2.me/theorems/aeba8588-c6af-4012-bb58-dc268116c7ee

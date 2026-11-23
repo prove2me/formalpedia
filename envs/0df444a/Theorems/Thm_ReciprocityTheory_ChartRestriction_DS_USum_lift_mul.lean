@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_USum_lift_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.USum.lift_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:37.071991+00:00
 -- url     : https://prove2.me/theorems/f7d56273-bc0e-4cd2-86e6-183c207a5b48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_IsFrame_length_eq_latticeRank
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.IsFrame.length_eq_latticeRank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:48:17.105601+00:00
 -- url     : https://prove2.me/theorems/1bf886b2-237e-46d6-b202-00e30c6dedb5

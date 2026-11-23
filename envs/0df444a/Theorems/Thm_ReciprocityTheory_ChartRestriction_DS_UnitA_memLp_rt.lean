@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_UnitA_memLp_rt
 -- name    : ReciprocityTheory.ChartRestriction.DS.UnitA.memLp_rt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:06:51.85053+00:00
 -- url     : https://prove2.me/theorems/762134dd-1f4b-4fef-968b-8a05e6241344

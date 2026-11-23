@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_mem_hcompl_iff
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.mem_hcompl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:39:29.1716+00:00
 -- url     : https://prove2.me/theorems/de2fc8a0-7462-4846-aec8-ed72f33e5a93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryChart_unitary_list_prod
 -- name    : GlobalTheory.UnitaryChart.unitary_list_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:39.731404+00:00
 -- url     : https://prove2.me/theorems/852d09f8-8c45-496b-9943-94627d3606f0

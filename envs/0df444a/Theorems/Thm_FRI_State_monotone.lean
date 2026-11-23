@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_State_monotone
 -- name    : FRI_State_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:07:12.126204+00:00
 -- url     : https://prove2.me/theorems/3a0e33bf-5532-4819-a67f-42dacd957ae2

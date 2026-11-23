@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CasPsA_conj_single_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CasPsA.conj_single_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:04:00.968811+00:00
 -- url     : https://prove2.me/theorems/22e7ba3a-57a3-42ec-a6f7-393ae18bdec6

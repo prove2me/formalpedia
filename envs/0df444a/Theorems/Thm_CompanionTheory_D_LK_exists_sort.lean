@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_exists_sort
 -- name    : CompanionTheory.D.LK.exists_sort
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:42.048724+00:00
 -- url     : https://prove2.me/theorems/267b4b22-ef91-481f-84b7-ed494244fdb0

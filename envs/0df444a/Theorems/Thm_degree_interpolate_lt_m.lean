@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_degree_interpolate_lt_m
 -- name    : degree_interpolate_lt_m
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:05:04.865289+00:00
 -- url     : https://prove2.me/theorems/91c7a78b-b715-41eb-8473-43367dca1f93

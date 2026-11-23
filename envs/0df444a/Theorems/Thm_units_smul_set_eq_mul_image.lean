@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_units_smul_set_eq_mul_image
 -- name    : units_smul_set_eq_mul_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:03:00.313124+00:00
 -- url     : https://prove2.me/theorems/7d57ca84-84b5-47a5-8873-750446869337

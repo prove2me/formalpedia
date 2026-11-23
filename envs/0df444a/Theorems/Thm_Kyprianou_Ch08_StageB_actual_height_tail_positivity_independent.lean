@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_tail_positivity_independent
 -- name    : Kyprianou.Ch08.StageB.actual_height_tail_positivity_independent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T08:00:59.979247+00:00
 -- url     : https://prove2.me/theorems/85ad9894-7b95-48d6-b681-4d5fb4aa3618
