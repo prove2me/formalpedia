@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_eulY_of_mem
 -- name    : Formalism.CountingSumsFrames.eulY_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:43:54.974813+00:00
 -- url     : https://prove2.me/theorems/03af9bd1-1467-4bfe-b7e5-88d8abc76384

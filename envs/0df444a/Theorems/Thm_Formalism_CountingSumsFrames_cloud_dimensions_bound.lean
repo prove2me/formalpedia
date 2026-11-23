@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_cloud_dimensions_bound
 -- name    : Formalism.CountingSumsFrames.cloud_dimensions_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:42:03.888813+00:00
 -- url     : https://prove2.me/theorems/1c874e97-cca5-43d4-a23a-f8a700e674f6

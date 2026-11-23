@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_IsGoodCMCurve_numberField
 -- name    : GlobalTheory.Published.IsGoodCMCurve.numberField
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:13.841052+00:00
 -- url     : https://prove2.me/theorems/79fbac75-096f-414b-bb29-49868894e282

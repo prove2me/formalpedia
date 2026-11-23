@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_divPow_mem_of_generators
 -- name    : Formalism.CountingSumsFrames.divPow_mem_of_generators
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:43:22.827011+00:00
 -- url     : https://prove2.me/theorems/554274dc-507d-47c6-8355-a6b9de77be03

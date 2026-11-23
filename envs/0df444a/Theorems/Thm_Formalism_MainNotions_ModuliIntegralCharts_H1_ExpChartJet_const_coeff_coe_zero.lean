@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_const_coeff_coe_zero
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJet.const_coeff_coe_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:44.029802+00:00
 -- url     : https://prove2.me/theorems/92511d91-21cd-42bb-9ac1-c9e04ad911c7

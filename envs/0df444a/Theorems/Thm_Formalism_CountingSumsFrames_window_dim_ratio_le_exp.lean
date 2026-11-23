@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_window_dim_ratio_le_exp
 -- name    : Formalism.CountingSumsFrames.window_dim_ratio_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:47:35.484116+00:00
 -- url     : https://prove2.me/theorems/98261165-b0f7-4da6-bf9b-1172d688665d

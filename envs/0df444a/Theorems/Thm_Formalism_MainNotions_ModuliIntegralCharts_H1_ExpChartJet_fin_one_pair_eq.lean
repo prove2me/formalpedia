@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_fin_one_pair_eq
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJet.fin_one_pair_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:59.610813+00:00
 -- url     : https://prove2.me/theorems/057ae417-bbd2-4e6b-96e7-5bd5be09f1bb

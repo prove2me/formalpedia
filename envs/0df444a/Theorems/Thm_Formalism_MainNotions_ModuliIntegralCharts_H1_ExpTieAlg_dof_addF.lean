@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieAlg_dof_addF
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieAlg.dof_addF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:58.668792+00:00
 -- url     : https://prove2.me/theorems/585aef1c-6af9-4b39-89cd-ba661c9d5232

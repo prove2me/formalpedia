@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_laplacianDivPow_eq
 -- name    : Formalism.CountingSumsFrames.laplacianDivPow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:43.871348+00:00
 -- url     : https://prove2.me/theorems/1ef6bc1c-5883-49f8-a49c-4ffaef54c179

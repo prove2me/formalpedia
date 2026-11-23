@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_kapI
 -- name    : Formalism.CountingSumsFrames.Top.kapI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:55:06.329963+00:00
 -- url     : https://prove2.me/theorems/06d9d61e-45ac-4e58-98e9-90b0355055ed

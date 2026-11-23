@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_nV_cast
 -- name    : GlobalTheory.LowestKType.nV_cast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:07.245426+00:00
 -- url     : https://prove2.me/theorems/3b85de11-d262-47c1-b2e7-f0a2be3330ae

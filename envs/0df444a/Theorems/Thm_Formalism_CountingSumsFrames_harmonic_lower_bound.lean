@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_harmonic_lower_bound
 -- name    : Formalism.CountingSumsFrames.harmonic_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:46.277792+00:00
 -- url     : https://prove2.me/theorems/149b8736-7d7b-4dd9-98d2-c134d76e840b

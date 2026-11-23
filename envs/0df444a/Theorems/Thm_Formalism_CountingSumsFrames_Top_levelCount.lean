@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_levelCount
 -- name    : Formalism.CountingSumsFrames.Top.levelCount
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:36:17.182851+00:00
 -- url     : https://prove2.me/theorems/f0c94fca-9864-46ed-9def-c941f9d1e660

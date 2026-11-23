@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_CycleTypeFiniteOrder_exists_dvd
 -- name    : Formalism.CyclotomicNorms.CycleTypeFiniteOrder.exists_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:51:03.769019+00:00
 -- url     : https://prove2.me/theorems/dba49e12-365f-4e40-868a-5c3b5fef4f81

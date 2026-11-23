@@ -24504,7 +24504,7 @@
 {"parent": "GeneralPieces.Series.terms_vac", "child": "GeneralPieces_Series_ReadOff", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Series.terms_vac", "child": "ClauseBound_Boson_Basic", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_NoArbitrage_Portfolio", "child": "BauerleRiederMDP_NoArbitrage_FinancialMarket", "via": ["statement"]}
-{"parent": "TwoStageMatch.proposition_ec1", "child": "TwoStageMatch_Lagrangian", "via": ["statement"]}
+{"parent": "TwoStageMatch.proposition_ec1", "child": "TwoStageMatch_Lagrangian", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.expD_of_sq_zero", "child": "GeneralPieces_GenF_Taylor", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.expD_of_sq_zero", "child": "GeneralPieces_GenF_Exp", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalCountFrontendBudget.frontend_margin", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_CountFrontend", "via": ["solution", "statement"]}

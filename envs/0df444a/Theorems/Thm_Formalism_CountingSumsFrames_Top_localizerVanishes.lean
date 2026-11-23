@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_localizerVanishes
 -- name    : Formalism.CountingSumsFrames.Top.localizerVanishes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:38:41.207795+00:00
 -- url     : https://prove2.me/theorems/bd3a71c6-bdcb-4b42-9146-7b175d62c29d

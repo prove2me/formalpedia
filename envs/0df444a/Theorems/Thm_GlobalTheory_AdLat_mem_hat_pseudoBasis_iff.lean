@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_mem_hat_pseudoBasis_iff
 -- name    : GlobalTheory.AdLat.mem_hat_pseudoBasis_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:38:48.064624+00:00
 -- url     : https://prove2.me/theorems/43410526-b144-4f18-a6a2-a13cc9a98d77

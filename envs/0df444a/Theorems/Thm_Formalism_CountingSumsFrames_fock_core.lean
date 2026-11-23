@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_fock_core
 -- name    : Formalism.CountingSumsFrames.fock_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:34.245123+00:00
 -- url     : https://prove2.me/theorems/1f5afe55-9977-4a40-958b-3add58f1836f

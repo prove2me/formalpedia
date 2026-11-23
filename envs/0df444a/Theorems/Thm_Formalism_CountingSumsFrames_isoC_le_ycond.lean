@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_isoC_le_ycond
 -- name    : Formalism.CountingSumsFrames.isoC_le_ycond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:25:56.341804+00:00
 -- url     : https://prove2.me/theorems/fb4ccba5-a5d5-4334-932b-e6f4e17b5dce

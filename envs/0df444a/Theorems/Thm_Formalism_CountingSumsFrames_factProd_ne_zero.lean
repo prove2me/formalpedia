@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_factProd_ne_zero
 -- name    : Formalism.CountingSumsFrames.factProd_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:13.674869+00:00
 -- url     : https://prove2.me/theorems/1b2dbc24-0183-4b48-b502-f2f4e83ec3f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_fock_log_le
 -- name    : Formalism.CountingSumsFrames.fock_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:39.505709+00:00
 -- url     : https://prove2.me/theorems/458e6c36-b7a2-48e3-8b7c-132e3d9fe070

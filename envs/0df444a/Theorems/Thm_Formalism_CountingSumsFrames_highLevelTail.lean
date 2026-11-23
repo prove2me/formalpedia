@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_highLevelTail
 -- name    : Formalism.CountingSumsFrames.highLevelTail
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:33.612938+00:00
 -- url     : https://prove2.me/theorems/fac0547a-627e-4a66-b45d-25e93b2059ef

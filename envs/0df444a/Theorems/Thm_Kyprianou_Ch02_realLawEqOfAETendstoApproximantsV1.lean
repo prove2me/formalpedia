@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_realLawEqOfAETendstoApproximantsV1
 -- name    : Kyprianou.Ch02.realLawEqOfAETendstoApproximantsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:42:07.922802+00:00
 -- url     : https://prove2.me/theorems/d64b8281-d73b-4167-9e82-318c02b53d66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_CycleTypeFiniteOrder_eval_pow_map
 -- name    : Formalism.CyclotomicNorms.CycleTypeFiniteOrder.eval_pow_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:50:17.737719+00:00
 -- url     : https://prove2.me/theorems/94ee05c0-2a22-41cd-aefa-7ab83ade8177

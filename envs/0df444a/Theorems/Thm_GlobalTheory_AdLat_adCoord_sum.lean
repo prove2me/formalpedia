@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_adCoord_sum
 -- name    : GlobalTheory.AdLat.adCoord_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:38:42.824701+00:00
 -- url     : https://prove2.me/theorems/2a1fbf8b-e654-44aa-9d3e-d0947df40019

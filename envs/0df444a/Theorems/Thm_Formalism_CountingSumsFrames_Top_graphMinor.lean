@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_graphMinor
 -- name    : Formalism.CountingSumsFrames.Top.graphMinor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:35:34.362618+00:00
 -- url     : https://prove2.me/theorems/b1c91f85-174d-41e3-bca0-1982fa319daf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_digit_one_letter
 -- name    : Formalism.CountingSumsFrames.digit_one_letter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:43:28.628368+00:00
 -- url     : https://prove2.me/theorems/5422a086-31bf-4569-a0e9-7c1ded717032

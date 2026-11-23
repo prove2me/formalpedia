@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_digit_class_size
 -- name    : Formalism.CountingSumsFrames.digit_class_size
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:43:52.318606+00:00
 -- url     : https://prove2.me/theorems/4b36174b-337c-4621-bdd6-5934ea754092

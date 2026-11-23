@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_segment_window_ratio
 -- name    : Formalism.CountingSumsFrames.segment_window_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:47:00.554612+00:00
 -- url     : https://prove2.me/theorems/07f3cb28-fbff-4058-b2a2-96b9f48e6d28

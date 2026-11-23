@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_diagMul_divPow_mem_fockLattice
 -- name    : Formalism.CountingSumsFrames.diagMul_divPow_mem_fockLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:14.727806+00:00
 -- url     : https://prove2.me/theorems/0dc0ccca-59c9-46a8-bcb0-3b27e2651050

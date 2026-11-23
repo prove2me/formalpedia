@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiJointFirstArrivalSurvivalMass
 -- name    : Kyprianou.Ch01.reverseLampertiJointFirstArrivalSurvivalMass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:42:19.033407+00:00
 -- url     : https://prove2.me/theorems/8ecdd07d-6461-43f0-b1bd-f909d49e7cf4

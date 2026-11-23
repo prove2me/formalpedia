@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_glAct_wtsp
 -- name    : Formalism.CountingSumsFrames.glAct_wtsp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:02.339572+00:00
 -- url     : https://prove2.me/theorems/2aa9cfae-a1cc-4cba-803a-9026cadf7268

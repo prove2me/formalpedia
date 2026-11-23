@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_linearSubst_pairing
 -- name    : Formalism.CountingSumsFrames.linearSubst_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:16.964789+00:00
 -- url     : https://prove2.me/theorems/946ad838-5944-4bee-a8a1-f3f90df97074

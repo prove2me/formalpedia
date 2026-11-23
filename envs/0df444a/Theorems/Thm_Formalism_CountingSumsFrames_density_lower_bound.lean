@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_density_lower_bound
 -- name    : Formalism.CountingSumsFrames.density_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:01.677736+00:00
 -- url     : https://prove2.me/theorems/841eed24-3965-486f-95f5-886c34559276

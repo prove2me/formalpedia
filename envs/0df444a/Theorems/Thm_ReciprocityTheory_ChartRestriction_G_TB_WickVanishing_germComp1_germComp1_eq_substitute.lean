@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_germComp1_germComp1_eq_substitute
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.germComp1_germComp1_eq_substitute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:39.306005+00:00
 -- url     : https://prove2.me/theorems/5aa3595e-95a0-40d3-b868-18905584f90d

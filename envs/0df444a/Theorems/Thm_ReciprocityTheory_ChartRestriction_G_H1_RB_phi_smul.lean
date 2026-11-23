@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_RB_phi_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.RB.phi_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:07.695606+00:00
 -- url     : https://prove2.me/theorems/8a69eb64-3c98-446a-9e32-e68c9ae36831

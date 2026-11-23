@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_isotypicProjection_holds
 -- name    : Formalism.CountingSumsFrames.isotypicProjection_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:49.145977+00:00
 -- url     : https://prove2.me/theorems/10b841c4-5947-4e10-8af2-35db0400d3d0

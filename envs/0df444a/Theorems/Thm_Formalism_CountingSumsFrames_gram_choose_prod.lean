@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_gram_choose_prod
 -- name    : Formalism.CountingSumsFrames.gram_choose_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:05.287801+00:00
 -- url     : https://prove2.me/theorems/0abfcc04-2f11-4546-9980-5d97228118ce

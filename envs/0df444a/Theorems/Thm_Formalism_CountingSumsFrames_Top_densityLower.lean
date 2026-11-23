@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_densityLower
 -- name    : Formalism.CountingSumsFrames.Top.densityLower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:35:48.320177+00:00
 -- url     : https://prove2.me/theorems/04d881c2-840c-4dfc-9f67-b6335f25662c

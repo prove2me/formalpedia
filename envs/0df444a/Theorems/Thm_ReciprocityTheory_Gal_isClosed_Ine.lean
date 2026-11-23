@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_isClosed_Ine
 -- name    : ReciprocityTheory.Gal.isClosed_Ine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:19:40.217071+00:00
 -- url     : https://prove2.me/theorems/1986a4cb-0290-49eb-abaf-cf9b2e47b5c8

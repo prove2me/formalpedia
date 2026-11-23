@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_SmoothCutoff_prim_monotone
 -- name    : ReciprocityTheory.L2DbarEstimates.I.SmoothCutoff.prim_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:31:12.387378+00:00
 -- url     : https://prove2.me/theorems/d8beecde-013e-4cb5-92ea-ca4053f26f6b

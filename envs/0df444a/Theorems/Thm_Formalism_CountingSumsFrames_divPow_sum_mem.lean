@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_divPow_sum_mem
 -- name    : Formalism.CountingSumsFrames.divPow_sum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:43:22.448317+00:00
 -- url     : https://prove2.me/theorems/5be4daff-d610-4baa-a15b-228fc58d251e

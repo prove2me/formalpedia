@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_binomial_tail_bound
 -- name    : Formalism.CountingSumsFrames.binomial_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:38:11.680292+00:00
 -- url     : https://prove2.me/theorems/8d2fbf04-413a-4c70-aa93-db5d9e1da34a

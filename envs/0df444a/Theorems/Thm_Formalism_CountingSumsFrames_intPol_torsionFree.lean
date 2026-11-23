@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_intPol_torsionFree
 -- name    : Formalism.CountingSumsFrames.intPol_torsionFree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:46.257054+00:00
 -- url     : https://prove2.me/theorems/028afa7c-86d7-4126-9ce5-a012afbd0986

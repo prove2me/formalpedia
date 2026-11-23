@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_hwt_pos
 -- name    : Formalism.CountingSumsFrames.hwt_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:47.491242+00:00
 -- url     : https://prove2.me/theorems/98e9e084-429d-4c4d-961a-a9a51de627c5

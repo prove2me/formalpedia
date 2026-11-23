@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_fock_key
 -- name    : Formalism.CountingSumsFrames.fock_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:27.579573+00:00
 -- url     : https://prove2.me/theorems/83bbcedc-2327-42c5-930f-80b4b7a5eba1

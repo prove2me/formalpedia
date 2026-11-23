@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_Sqf_monicOf_coeffs
 -- name    : Formalism.CyclotomicNorms.Sqf.monicOf_coeffs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:13:15.476447+00:00
 -- url     : https://prove2.me/theorems/9027235a-d02e-4b24-998f-6d0071859605

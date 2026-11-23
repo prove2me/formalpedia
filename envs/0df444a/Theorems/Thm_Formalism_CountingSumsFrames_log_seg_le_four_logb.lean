@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_log_seg_le_four_logb
 -- name    : Formalism.CountingSumsFrames.log_seg_le_four_logb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:17.623478+00:00
 -- url     : https://prove2.me/theorems/ef6e550c-d178-4c11-b208-e6c024283058

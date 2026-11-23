@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_tail_bound
 -- name    : Formalism.CountingSumsFrames.tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:47:01.737369+00:00
 -- url     : https://prove2.me/theorems/7f1f9eb0-f5b9-444d-9511-ea987a362d87

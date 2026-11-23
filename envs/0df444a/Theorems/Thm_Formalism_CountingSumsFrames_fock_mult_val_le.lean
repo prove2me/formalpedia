@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_fock_mult_val_le
 -- name    : Formalism.CountingSumsFrames.fock_mult_val_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:12.387191+00:00
 -- url     : https://prove2.me/theorems/58d582b6-93d9-4707-9338-45f398ca37cb

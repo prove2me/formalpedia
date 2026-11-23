@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_subst_single_point_family
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.subst_single_point_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:52.268077+00:00
 -- url     : https://prove2.me/theorems/ae3072ba-1169-4e52-8297-9cfe0647fec2

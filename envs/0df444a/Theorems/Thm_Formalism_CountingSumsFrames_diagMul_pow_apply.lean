@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_diagMul_pow_apply
 -- name    : Formalism.CountingSumsFrames.diagMul_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:17.68463+00:00
 -- url     : https://prove2.me/theorems/6a8a5a2f-08be-48af-bbe2-dfe3647eb1b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_mean_share_first
 -- name    : Formalism.CountingSumsFrames.mean_share_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:16.77427+00:00
 -- url     : https://prove2.me/theorems/4f637a5e-353a-45db-80dc-65d9005a8094

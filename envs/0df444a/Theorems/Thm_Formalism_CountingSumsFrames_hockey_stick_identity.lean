@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_hockey_stick_identity
 -- name    : Formalism.CountingSumsFrames.hockey_stick_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:45.026681+00:00
 -- url     : https://prove2.me/theorems/c1f4068f-b6d5-46a7-a9a3-0bdfb40ef142

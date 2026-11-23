@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_RB_phi_self
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.RB.phi_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:41:43.840349+00:00
 -- url     : https://prove2.me/theorems/7807b619-110b-47ca-acf1-d567ad0d025a

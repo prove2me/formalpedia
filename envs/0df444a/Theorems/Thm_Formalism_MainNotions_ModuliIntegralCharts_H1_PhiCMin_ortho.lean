@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PhiCMin_ortho
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PhiCMin.ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:45:09.097809+00:00
 -- url     : https://prove2.me/theorems/1d64890b-ed7f-4dca-b969-f57a1acd3cd3

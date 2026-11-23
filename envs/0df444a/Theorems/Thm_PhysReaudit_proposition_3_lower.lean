@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhysReaudit_proposition_3_lower
 -- name    : PhysReaudit.proposition_3_lower
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:21.863224+00:00
 -- url     : https://prove2.me/theorems/4316c261-6e80-456e-a085-b7e100a0a454

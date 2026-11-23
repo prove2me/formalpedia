@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoefEmbed_norm_le_one
 -- name    : GlobalTheory.CoefEmbed.norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:41.699606+00:00
 -- url     : https://prove2.me/theorems/b81cee50-0034-4b42-81c4-b4b24c540637

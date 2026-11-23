@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeToNormalVanishing_sum_shift
 -- name    : GlobalTheory.PrimeToNormalVanishing.sum_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:24.567909+00:00
 -- url     : https://prove2.me/theorems/12c1f510-36e6-4086-8c96-30ba38d2bbc4

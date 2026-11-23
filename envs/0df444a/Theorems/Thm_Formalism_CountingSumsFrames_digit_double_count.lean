@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_digit_double_count
 -- name    : Formalism.CountingSumsFrames.digit_double_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:43:13.881174+00:00
 -- url     : https://prove2.me/theorems/6d3756bf-4c5c-4b12-8a8e-27b4bfe9ac70

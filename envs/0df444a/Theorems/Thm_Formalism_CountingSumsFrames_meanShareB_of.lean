@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_meanShareB_of
 -- name    : Formalism.CountingSumsFrames.meanShareB_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:26.687797+00:00
 -- url     : https://prove2.me/theorems/be1c1db5-b0ab-4e0e-b7e3-8b4821d95018

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_slTwo
 -- name    : Formalism.CountingSumsFrames.Top.slTwo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:41:58.559351+00:00
 -- url     : https://prove2.me/theorems/c3cc4351-f5e5-4f6f-b7c4-f0f88696a266

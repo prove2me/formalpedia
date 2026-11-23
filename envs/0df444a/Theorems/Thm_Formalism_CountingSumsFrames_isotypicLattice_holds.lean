@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_isotypicLattice_holds
 -- name    : Formalism.CountingSumsFrames.isotypicLattice_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:47.272279+00:00
 -- url     : https://prove2.me/theorems/7dfe3f10-2a4a-4eb8-ac62-f7c82fe1f338

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_mat_comm_scalar
 -- name    : Formalism.CountingSumsFrames.mat_comm_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:22.302437+00:00
 -- url     : https://prove2.me/theorems/74d8f824-0e05-45d5-a924-d4765f9aa944

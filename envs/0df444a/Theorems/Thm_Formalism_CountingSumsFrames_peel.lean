@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_peel
 -- name    : Formalism.CountingSumsFrames.peel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:45:48.869684+00:00
 -- url     : https://prove2.me/theorems/a3fd3885-56af-4905-940e-64240a3e36d4

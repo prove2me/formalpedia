@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_ycond_min
 -- name    : Formalism.CountingSumsFrames.ycond_min
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:24:06.089331+00:00
 -- url     : https://prove2.me/theorems/b2ebd848-1396-40f1-936f-6a2cc830c948

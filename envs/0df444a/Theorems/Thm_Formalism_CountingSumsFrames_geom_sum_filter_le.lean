@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_geom_sum_filter_le
 -- name    : Formalism.CountingSumsFrames.geom_sum_filter_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:02.481812+00:00
 -- url     : https://prove2.me/theorems/f4d25110-d707-4421-be6e-0dc3bc426a01

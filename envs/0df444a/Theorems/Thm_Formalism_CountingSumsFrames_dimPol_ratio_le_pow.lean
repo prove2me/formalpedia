@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_dimPol_ratio_le_pow
 -- name    : Formalism.CountingSumsFrames.dimPol_ratio_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:43:13.96217+00:00
 -- url     : https://prove2.me/theorems/93e6eb51-b7dc-4ccb-b646-3b5ce10294aa

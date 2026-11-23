@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_gram_weylDim_cons
 -- name    : Formalism.CountingSumsFrames.gram_weylDim_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:28.223916+00:00
 -- url     : https://prove2.me/theorems/9ee02291-d1ec-4bf3-93a5-fc755b0d04f8

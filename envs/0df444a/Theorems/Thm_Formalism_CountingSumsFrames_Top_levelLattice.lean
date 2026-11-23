@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_levelLattice
 -- name    : Formalism.CountingSumsFrames.Top.levelLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:35:51.344088+00:00
 -- url     : https://prove2.me/theorems/81800eab-06b8-4378-98ae-859abf126ea6

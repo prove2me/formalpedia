@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_depth_le_square_bound
 -- name    : Formalism.CountingSumsFrames.depth_le_square_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:42:12.132803+00:00
 -- url     : https://prove2.me/theorems/e24fc1a9-83bf-4f5e-9432-6f7104b1dbd1

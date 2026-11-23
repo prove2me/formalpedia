@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_one_sub_mul_mul_le
 -- name    : Formalism.CountingSumsFrames.one_sub_mul_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:27.997674+00:00
 -- url     : https://prove2.me/theorems/ef50e520-ec89-4685-934c-c812d08f2f6b

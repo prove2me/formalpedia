@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_ycond_late
 -- name    : Formalism.InvariantFactorPaths.L4.ycond_late
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:04:21.117481+00:00
 -- url     : https://prove2.me/theorems/68645d5b-eb54-409b-b65b-8f30f952a4ab

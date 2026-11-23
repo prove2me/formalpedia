@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_harmonic_level_count
 -- name    : Formalism.CountingSumsFrames.harmonic_level_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:19.431949+00:00
 -- url     : https://prove2.me/theorems/d89915be-112f-49b6-a345-07599fad2a47

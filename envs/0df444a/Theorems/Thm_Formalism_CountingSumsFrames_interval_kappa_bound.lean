@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_interval_kappa_bound
 -- name    : Formalism.CountingSumsFrames.interval_kappa_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:08.436964+00:00
 -- url     : https://prove2.me/theorems/0130f91a-16dc-4cbe-b0d7-52b3a5343ee1

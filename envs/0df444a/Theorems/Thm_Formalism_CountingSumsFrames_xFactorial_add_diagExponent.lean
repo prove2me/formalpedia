@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_xFactorial_add_diagExponent
 -- name    : Formalism.CountingSumsFrames.xFactorial_add_diagExponent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:22.853776+00:00
 -- url     : https://prove2.me/theorems/f12956d3-8b23-45a3-ad8b-0d9a941b8598

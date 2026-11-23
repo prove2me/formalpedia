@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_eulX_of_mem
 -- name    : Formalism.CountingSumsFrames.eulX_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:43:47.899798+00:00
 -- url     : https://prove2.me/theorems/f17a76d2-fe05-4dc0-95b9-24be9fae11b6

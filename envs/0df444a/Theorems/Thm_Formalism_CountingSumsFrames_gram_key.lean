@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_gram_key
 -- name    : Formalism.CountingSumsFrames.gram_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:05.522299+00:00
 -- url     : https://prove2.me/theorems/f060d66f-bb3e-477c-8881-378f0fc04def

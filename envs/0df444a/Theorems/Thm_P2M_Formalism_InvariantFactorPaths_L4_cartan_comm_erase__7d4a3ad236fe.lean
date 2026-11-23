@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_L4_cartan_comm_erase__7d4a3ad236fe
 -- name    : P2M_Formalism_InvariantFactorPaths_L4_cartan_comm_erase__7d4a3ad236fe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:05:37.327226+00:00
 -- url     : https://prove2.me/theorems/b6b58032-8973-4307-9403-7e6bf3ac1eef

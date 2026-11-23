@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_r_eq
 -- name    : GlobalTheory.LowestKType.r_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:52.981931+00:00
 -- url     : https://prove2.me/theorems/528ced62-b3c7-4033-92c8-d2f71b38741a

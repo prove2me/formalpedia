@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_germCompOne_identityPoint_left
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.germCompOne_identityPoint_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:21.3038+00:00
 -- url     : https://prove2.me/theorems/8a488949-0701-4674-b687-fc82fbd94793

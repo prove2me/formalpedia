@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_ev_sub
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.ev_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:20.072089+00:00
 -- url     : https://prove2.me/theorems/efe9ed42-5994-4f0e-abc3-07c1b8b4da9e

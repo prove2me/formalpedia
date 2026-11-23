@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_nV_eq
 -- name    : GlobalTheory.LowestKType.nV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:07.100162+00:00
 -- url     : https://prove2.me/theorems/92948b73-9960-4781-af5d-1be45396897b

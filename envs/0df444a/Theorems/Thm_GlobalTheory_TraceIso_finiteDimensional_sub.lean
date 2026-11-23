@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceIso_finiteDimensional_sub
 -- name    : GlobalTheory.TraceIso.finiteDimensional_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:37.034714+00:00
 -- url     : https://prove2.me/theorems/2d933a6d-4396-4ad2-ae4b-5eb6d1957172

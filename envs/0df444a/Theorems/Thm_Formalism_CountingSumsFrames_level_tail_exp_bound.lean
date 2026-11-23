@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_level_tail_exp_bound
 -- name    : Formalism.CountingSumsFrames.level_tail_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:08.927156+00:00
 -- url     : https://prove2.me/theorems/d79a6bdb-c3c5-4543-a513-d0477be78589

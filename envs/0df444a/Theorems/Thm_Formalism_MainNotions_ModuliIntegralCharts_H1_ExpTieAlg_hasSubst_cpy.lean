@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieAlg_hasSubst_cpy
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieAlg.hasSubst_cpy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:48:23.284929+00:00
 -- url     : https://prove2.me/theorems/42ba3109-9f28-47aa-9aa3-589a7b282295

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_gaussLemmaH
 -- name    : Formalism.CountingSumsFrames.Top.gaussLemmaH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:35:44.47197+00:00
 -- url     : https://prove2.me/theorems/acf08b76-5a7e-4346-a956-1d4140b8ffc1

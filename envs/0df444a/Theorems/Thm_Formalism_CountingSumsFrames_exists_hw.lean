@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_exists_hw
 -- name    : Formalism.CountingSumsFrames.exists_hw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:18.19591+00:00
 -- url     : https://prove2.me/theorems/186c4ab7-32e0-440a-b15d-a6d5a1667da6

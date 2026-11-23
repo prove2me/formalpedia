@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_CycleTypeFiniteOrder_blocks_disjoint
 -- name    : Formalism.CyclotomicNorms.CycleTypeFiniteOrder.blocks_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:38.277733+00:00
 -- url     : https://prove2.me/theorems/310d94a2-5d25-46f9-9fbd-5389c0b095e7

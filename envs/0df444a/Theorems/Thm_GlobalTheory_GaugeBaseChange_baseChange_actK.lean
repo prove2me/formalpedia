@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeBaseChange_baseChange_actK
 -- name    : GlobalTheory.GaugeBaseChange.baseChange_actK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:42:42.034786+00:00
 -- url     : https://prove2.me/theorems/97d3f2fc-c9fd-487b-b547-62e854efd229

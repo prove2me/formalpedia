@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumInverseCharacter_dvd_right
 -- name    : GlobalTheory.DatumInverseCharacter.dvd_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:41:57.254735+00:00
 -- url     : https://prove2.me/theorems/a75278b0-b1ca-48f3-a97f-3a86fc3b4ab8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_exists_half_r
 -- name    : GlobalTheory.LowestKType.exists_half_r
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:09.085301+00:00
 -- url     : https://prove2.me/theorems/54cdd71e-a278-40fc-97bb-e495572f0302

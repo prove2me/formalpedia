@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_gaussLemmaPairing_holds
 -- name    : Formalism.CountingSumsFrames.gaussLemmaPairing_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:35.967136+00:00
 -- url     : https://prove2.me/theorems/273adba6-0eb2-4cf1-8db3-624a7f9f1e31

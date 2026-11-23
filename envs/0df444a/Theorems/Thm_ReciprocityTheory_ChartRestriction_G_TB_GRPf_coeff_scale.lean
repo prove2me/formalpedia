@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GRPf_coeff_scale
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GRPf.coeff_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:30.641156+00:00
 -- url     : https://prove2.me/theorems/26290773-e549-4dad-83c0-b59b1aad7d96

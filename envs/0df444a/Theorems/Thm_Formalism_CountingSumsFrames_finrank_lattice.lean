@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_finrank_lattice
 -- name    : Formalism.CountingSumsFrames.finrank_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:38:29.197789+00:00
 -- url     : https://prove2.me/theorems/9a337126-f14b-4944-b123-2f109ba99fb2
