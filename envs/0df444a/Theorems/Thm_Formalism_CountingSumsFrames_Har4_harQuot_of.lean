@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har4_harQuot_of
 -- name    : Formalism.CountingSumsFrames.Har4.harQuot_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:38:26.947602+00:00
 -- url     : https://prove2.me/theorems/4c2b1a1d-1ad2-4df7-a1e3-08e6b44a3df8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Dil_exists_lift
 -- name    : GlobalTheory.SS.Dil.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:14.456046+00:00
 -- url     : https://prove2.me/theorems/67446509-4ddb-46f4-af6b-9654cc957fa1

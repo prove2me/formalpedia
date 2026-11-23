@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_linear_prime_holds
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.linear_prime_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:31:55.985676+00:00
 -- url     : https://prove2.me/theorems/822e8f8e-456c-4baf-88d6-640dbd4495e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_binomialAction_comp_eq_mul
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.binomialAction_comp_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:30:36.281085+00:00
 -- url     : https://prove2.me/theorems/a180afc4-dbda-4841-abad-f0f0a13c4a1e

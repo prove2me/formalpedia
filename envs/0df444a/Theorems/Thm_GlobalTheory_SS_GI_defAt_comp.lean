@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_defAt_comp
 -- name    : GlobalTheory.SS.GI.defAt_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:54.753306+00:00
 -- url     : https://prove2.me/theorems/79bb26df-0fba-43a1-afa6-70c43af3a331

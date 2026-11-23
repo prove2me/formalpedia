@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_over_hom_ext_of_isPullback
 -- name    : GlobalTheory.ExtUnique.over_hom_ext_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:42:56.267651+00:00
 -- url     : https://prove2.me/theorems/771d5889-bc2a-4de4-97c1-1668060a59da

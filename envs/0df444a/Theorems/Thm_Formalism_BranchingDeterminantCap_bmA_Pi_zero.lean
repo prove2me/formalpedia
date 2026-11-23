@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmA_Pi_zero
 -- name    : Formalism.BranchingDeterminantCap.bmA_Pi_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:19:27.046939+00:00
 -- url     : https://prove2.me/theorems/853b9c02-c0a0-47bf-a7c3-01d95679af6a

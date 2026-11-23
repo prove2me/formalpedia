@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Slope_weight_two
 -- name    : GlobalTheory.SS.Slope.weight_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:57.070216+00:00
 -- url     : https://prove2.me/theorems/526df44b-904a-41c7-b037-eed5e4448cca

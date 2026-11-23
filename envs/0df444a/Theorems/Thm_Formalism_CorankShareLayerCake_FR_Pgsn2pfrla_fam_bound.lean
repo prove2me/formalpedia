@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CorankShareLayerCake_FR_Pgsn2pfrla_fam_bound
 -- name    : Formalism.CorankShareLayerCake.FR.Pgsn2pfrla.fam_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:34:09.207808+00:00
 -- url     : https://prove2.me/theorems/56fcb899-cc3e-45df-bf13-17da2aaf7546

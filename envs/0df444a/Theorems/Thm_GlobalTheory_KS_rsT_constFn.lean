@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_rsT_constFn
 -- name    : GlobalTheory.KS.rsT_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:45:53.826946+00:00
 -- url     : https://prove2.me/theorems/bb4d5c5f-f44a-4413-9042-c8f107c1e56e

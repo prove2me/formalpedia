@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_size_discriminant_bound
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.size_discriminant_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:35:58.971369+00:00
 -- url     : https://prove2.me/theorems/f6e79575-8e3e-48b9-b6ff-aa5d59f6bc1b

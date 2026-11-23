@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_RF_rep_span
 -- name    : CompanionTheory.D.gk.RF.rep_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:39:55.236167+00:00
 -- url     : https://prove2.me/theorems/26d027d2-6dcc-432c-bc31-ccf257f6964a

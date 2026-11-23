@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePointValues_fromSpec_comp
 -- name    : GlobalTheory.AffinePointValues.fromSpec_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:57.097638+00:00
 -- url     : https://prove2.me/theorems/dd7fb9b2-c34f-4751-b270-1b15add78132

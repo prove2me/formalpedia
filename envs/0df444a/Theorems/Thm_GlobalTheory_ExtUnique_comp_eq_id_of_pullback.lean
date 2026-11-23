@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_comp_eq_id_of_pullback
 -- name    : GlobalTheory.ExtUnique.comp_eq_id_of_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:39.766885+00:00
 -- url     : https://prove2.me/theorems/612d4b23-e9e6-413c-9ad3-1744439bd402

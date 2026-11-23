@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SmallOrderPrimeLosses_size_ninth_power_bound
 -- name    : Formalism.LFunctionChainParameters.SmallOrderPrimeLosses.size_ninth_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:36:42.278246+00:00
 -- url     : https://prove2.me/theorems/8a630c36-262c-4f97-b246-928fd1199639

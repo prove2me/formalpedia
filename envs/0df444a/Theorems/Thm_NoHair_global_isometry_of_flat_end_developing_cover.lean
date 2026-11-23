@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_global_isometry_of_flat_end_developing_cover
 -- name    : NoHair.global_isometry_of_flat_end_developing_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T10:49:31.668314+00:00
 -- url     : https://prove2.me/theorems/e132f0db-f0d4-44af-867d-d166c34e5f8b

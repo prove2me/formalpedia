@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_map_mem_span_linForm
 -- name    : GlobalTheory.Chow.map_mem_span_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:37.505365+00:00
 -- url     : https://prove2.me/theorems/a6bda00e-f989-4635-9b8f-3d9a5889c7e9

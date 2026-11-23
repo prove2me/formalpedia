@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionCadlagWithFiniteStripsV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionCadlagWithFiniteStripsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:20:39.681802+00:00
 -- url     : https://prove2.me/theorems/354507ab-700a-49c4-9dc1-ffa67e5faf0a

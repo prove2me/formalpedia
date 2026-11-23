@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actualHeightRestrictedIntegralExhausts
 -- name    : Kyprianou.Ch08.StageB.actualHeightRestrictedIntegralExhausts
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:56:14.51059+00:00
 -- url     : https://prove2.me/theorems/30d48b50-cd89-409a-9b4a-664a7d5b4e5a

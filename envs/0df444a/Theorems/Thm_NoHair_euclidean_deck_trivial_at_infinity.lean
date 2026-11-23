@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_euclidean_deck_trivial_at_infinity
 -- name    : NoHair.euclidean_deck_trivial_at_infinity
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T10:49:38.012741+00:00
 -- url     : https://prove2.me/theorems/02aa004a-e658-420c-a384-64cd0f38563f

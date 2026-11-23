@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_RF_rep_basis
 -- name    : CompanionTheory.D.gk.RF.rep_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:40:12.782673+00:00
 -- url     : https://prove2.me/theorems/2d84b912-2661-429b-b168-8ddb4d404187

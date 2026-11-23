@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_r3_unit_of_laws
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.r3_unit_of_laws
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:32:24.459082+00:00
 -- url     : https://prove2.me/theorems/623afefc-f847-4962-89fa-3fde8168b113

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionZero_mem_subGrading
 -- name    : GlobalTheory.TorsionZero.mem_subGrading
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:44.718732+00:00
 -- url     : https://prove2.me/theorems/c2bfd5d1-c56b-420f-add2-1a36e8463d1e

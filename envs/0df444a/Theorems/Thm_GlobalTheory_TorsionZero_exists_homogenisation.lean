@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionZero_exists_homogenisation
 -- name    : GlobalTheory.TorsionZero.exists_homogenisation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:55.568268+00:00
 -- url     : https://prove2.me/theorems/76d825be-c3d6-4291-a3fb-3b896410dc27

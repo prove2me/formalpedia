@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xn_U
 -- name    : Formalism.BranchingDeterminantCap.xn_U
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:30:04.573621+00:00
 -- url     : https://prove2.me/theorems/d5f1bdc5-20f7-4cd6-b94c-4f78f9089b4b

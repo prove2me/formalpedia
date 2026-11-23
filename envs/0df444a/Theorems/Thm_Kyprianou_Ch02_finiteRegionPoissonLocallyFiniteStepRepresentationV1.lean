@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_finiteRegionPoissonLocallyFiniteStepRepresentationV1
 -- name    : Kyprianou.Ch02.finiteRegionPoissonLocallyFiniteStepRepresentationV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:45:45.540235+00:00
 -- url     : https://prove2.me/theorems/d17f62e1-b633-4f68-826e-8975dd391109

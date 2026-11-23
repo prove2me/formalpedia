@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_isMonHom_of_pullback
 -- name    : GlobalTheory.ExtUnique.isMonHom_of_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:34.249719+00:00
 -- url     : https://prove2.me/theorems/bb77645d-78c9-453c-aab7-a6b888ddea6e

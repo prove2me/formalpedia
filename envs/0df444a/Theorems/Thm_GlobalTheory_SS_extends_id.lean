@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_extends_id
 -- name    : GlobalTheory.SS.extends_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:50:04.75651+00:00
 -- url     : https://prove2.me/theorems/3bc2d439-4407-4692-877a-4d2c6531e553

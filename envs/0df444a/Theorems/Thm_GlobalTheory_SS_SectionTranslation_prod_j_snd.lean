@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_SectionTranslation_prod_j_snd
 -- name    : GlobalTheory.SS.SectionTranslation.prod_j_snd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:29.758216+00:00
 -- url     : https://prove2.me/theorems/13bd9fe2-ede1-4a35-bc23-0c0c3dcab45f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_linComb_cover
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.linComb_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:07.199643+00:00
 -- url     : https://prove2.me/theorems/8464b389-a0a6-4880-8628-45dc64ffdb6f

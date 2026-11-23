@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_pbT_constFn
 -- name    : GlobalTheory.KS.pbT_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:47:03.510839+00:00
 -- url     : https://prove2.me/theorems/6c468ecf-e705-4618-8fbb-0dd4829075a8

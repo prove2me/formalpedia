@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvVal_existsUnique_sec_eq_mul_gen
 -- name    : GlobalTheory.EvVal.existsUnique_sec_eq_mul_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:52:47.779862+00:00
 -- url     : https://prove2.me/theorems/93a4bf4d-9876-44c3-8b5a-d3e495778dc8

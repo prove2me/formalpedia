@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_coe_prod_frac
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.coe_prod_frac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:48:27.791533+00:00
 -- url     : https://prove2.me/theorems/8773944a-43a9-4861-803a-3910d40ccc91

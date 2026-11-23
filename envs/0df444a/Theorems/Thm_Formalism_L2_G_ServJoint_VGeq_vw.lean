@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_ServJoint_VGeq_vw
 -- name    : Formalism.L2.G.ServJoint.VGeq.vw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:50:03.591945+00:00
 -- url     : https://prove2.me/theorems/e41871dd-85c7-4974-8056-32bf0d5b6821

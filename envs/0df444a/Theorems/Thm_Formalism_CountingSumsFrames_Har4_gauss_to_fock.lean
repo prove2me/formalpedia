@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har4_gauss_to_fock
 -- name    : Formalism.CountingSumsFrames.Har4.gauss_to_fock
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:38:01.517029+00:00
 -- url     : https://prove2.me/theorems/d17c7c5f-f2bb-4679-87c4-e0d87d2d7a75

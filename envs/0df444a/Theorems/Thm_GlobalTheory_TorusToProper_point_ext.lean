@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusToProper_point_ext
 -- name    : GlobalTheory.TorusToProper.point_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:47:11.713042+00:00
 -- url     : https://prove2.me/theorems/15afeeb9-cc7f-4c87-99e5-6ee7684f0748

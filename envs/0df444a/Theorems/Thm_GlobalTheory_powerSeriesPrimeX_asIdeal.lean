@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_powerSeriesPrimeX_asIdeal
 -- name    : GlobalTheory.powerSeriesPrimeX_asIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:57.875465+00:00
 -- url     : https://prove2.me/theorems/b38447e7-09dd-4267-9510-a285be86f316

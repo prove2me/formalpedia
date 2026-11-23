@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpDense_pushPt_mul
 -- name    : GlobalTheory.GrpDense.pushPt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:13.747641+00:00
 -- url     : https://prove2.me/theorems/1e7a0c41-9cc0-4385-9306-331f84dd30b2

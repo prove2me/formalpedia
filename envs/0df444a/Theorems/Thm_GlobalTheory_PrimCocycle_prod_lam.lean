@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimCocycle_prod_lam
 -- name    : GlobalTheory.PrimCocycle.prod_lam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:47:23.200292+00:00
 -- url     : https://prove2.me/theorems/208dbda7-bfba-4576-991c-9cb3c4280b1d

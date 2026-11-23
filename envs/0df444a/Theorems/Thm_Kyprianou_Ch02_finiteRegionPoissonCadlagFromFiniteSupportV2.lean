@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_finiteRegionPoissonCadlagFromFiniteSupportV2
 -- name    : Kyprianou.Ch02.finiteRegionPoissonCadlagFromFiniteSupportV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:23:19.923053+00:00
 -- url     : https://prove2.me/theorems/805711a8-430a-4fe5-8eed-4ff947ba6151

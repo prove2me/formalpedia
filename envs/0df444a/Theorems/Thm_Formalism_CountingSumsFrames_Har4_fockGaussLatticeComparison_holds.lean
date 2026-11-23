@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har4_fockGaussLatticeComparison_holds
 -- name    : Formalism.CountingSumsFrames.Har4.fockGaussLatticeComparison_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:34:48.175917+00:00
 -- url     : https://prove2.me/theorems/8592b3de-3b68-46cf-b93c-80821d92e6be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionAllMeasurableCountNatV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionAllMeasurableCountNatV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T10:42:54.283184+00:00
 -- url     : https://prove2.me/theorems/f3bf130d-e048-43a4-a7ad-dc911845c899

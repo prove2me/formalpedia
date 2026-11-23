@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_Via_unique
 -- name    : GlobalTheory.SS.GI.Via.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:53.858321+00:00
 -- url     : https://prove2.me/theorems/15b953d4-a2e7-497e-a099-ac45985f4481

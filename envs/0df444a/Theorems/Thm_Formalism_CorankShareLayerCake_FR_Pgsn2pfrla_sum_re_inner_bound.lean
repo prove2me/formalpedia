@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CorankShareLayerCake_FR_Pgsn2pfrla_sum_re_inner_bound
 -- name    : Formalism.CorankShareLayerCake.FR.Pgsn2pfrla.sum_re_inner_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:17:20.643223+00:00
 -- url     : https://prove2.me/theorems/46eba78f-32f4-4927-beb8-bc36fefdd9d4

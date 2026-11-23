@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndivisibleSection_gs_scal
 -- name    : GlobalTheory.IndivisibleSection.gs_scal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:42.285982+00:00
 -- url     : https://prove2.me/theorems/c14ea6ee-329e-4ac2-9573-6f87f228176c

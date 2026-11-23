@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_Via_comp_pullback
 -- name    : GlobalTheory.SS.GI.Via.comp_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:41.5655+00:00
 -- url     : https://prove2.me/theorems/8f2b06a1-92da-4383-bca1-14d21801be38

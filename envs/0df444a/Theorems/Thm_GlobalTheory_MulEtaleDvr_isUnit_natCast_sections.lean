@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulEtaleDvr_isUnit_natCast_sections
 -- name    : GlobalTheory.MulEtaleDvr.isUnit_natCast_sections
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:47:18.003509+00:00
 -- url     : https://prove2.me/theorems/794873a3-2480-42e9-9b39-d1931c77b321

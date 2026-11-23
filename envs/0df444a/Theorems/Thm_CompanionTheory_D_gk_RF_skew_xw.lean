@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_RF_skew_xw
 -- name    : CompanionTheory.D.gk.RF.skew_xw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:41:31.721717+00:00
 -- url     : https://prove2.me/theorems/318b8ad8-e117-49b9-8f8b-f8d091070413

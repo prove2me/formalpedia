@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_LB_isGen_pullGen
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.LB.isGen_pullGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:18:51.192296+00:00
 -- url     : https://prove2.me/theorems/1b36a19a-c433-4b56-ba99-8e8ed322851c

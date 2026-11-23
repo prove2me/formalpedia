@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har2_exists_laplacian_eq
 -- name    : Formalism.CountingSumsFrames.Har2.exists_laplacian_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:34:30.418699+00:00
 -- url     : https://prove2.me/theorems/7be2ae10-e07a-49c5-9175-98cf82727276

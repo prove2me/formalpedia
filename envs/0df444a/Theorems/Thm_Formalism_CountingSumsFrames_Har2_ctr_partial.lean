@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har2_ctr_partial
 -- name    : Formalism.CountingSumsFrames.Har2.ctr_partial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:35:06.899777+00:00
 -- url     : https://prove2.me/theorems/3c04dd3e-3f58-4825-9c80-83a71703cbb1

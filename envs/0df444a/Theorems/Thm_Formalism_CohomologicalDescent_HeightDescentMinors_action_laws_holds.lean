@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_action_laws_holds
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.action_laws_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:41.998439+00:00
 -- url     : https://prove2.me/theorems/6c126c2e-82ec-44e4-965b-ad11b3ee1f5a

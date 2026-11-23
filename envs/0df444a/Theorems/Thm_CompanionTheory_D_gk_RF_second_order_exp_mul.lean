@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_RF_second_order_exp_mul
 -- name    : CompanionTheory.D.gk.RF.second_order_exp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:39:55.427507+00:00
 -- url     : https://prove2.me/theorems/d07464cb-c7dd-49a2-b02b-b78404f4b75c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_Canon_gW_self
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.Canon.gW_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:47:19.69671+00:00
 -- url     : https://prove2.me/theorems/25c1c1b8-1f68-4418-897d-a6d5107f7293

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_roots_product_holds
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.roots_product_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:32:41.039674+00:00
 -- url     : https://prove2.me/theorems/7bd2eead-260a-477c-b4c6-3f096b093635

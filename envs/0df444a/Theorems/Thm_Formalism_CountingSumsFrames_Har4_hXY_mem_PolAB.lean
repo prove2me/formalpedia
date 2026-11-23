@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har4_hXY_mem_PolAB
 -- name    : Formalism.CountingSumsFrames.Har4.hXY_mem_PolAB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:35:10.173089+00:00
 -- url     : https://prove2.me/theorems/a90df9a1-971a-418d-95d6-845497322a40

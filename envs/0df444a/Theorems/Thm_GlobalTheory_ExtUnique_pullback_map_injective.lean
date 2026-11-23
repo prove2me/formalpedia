@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_pullback_map_injective
 -- name    : GlobalTheory.ExtUnique.pullback_map_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:42:37.696515+00:00
 -- url     : https://prove2.me/theorems/74c39e4e-9816-4d68-a6ee-65606855e3ce

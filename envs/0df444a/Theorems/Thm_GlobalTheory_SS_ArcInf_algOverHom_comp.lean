@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_algOverHom_comp
 -- name    : GlobalTheory.SS.ArcInf.algOverHom_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:25.385608+00:00
 -- url     : https://prove2.me/theorems/e9f8d91e-3064-41a7-96a5-5b762f1a5ccf

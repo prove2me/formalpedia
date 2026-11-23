@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteWindowDiracLawV1
 -- name    : Kyprianou.Ch02.prmFiniteWindowDiracLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T10:00:42.797742+00:00
 -- url     : https://prove2.me/theorems/bcee54e1-d7b5-40f5-a6a0-0f58769ebcee

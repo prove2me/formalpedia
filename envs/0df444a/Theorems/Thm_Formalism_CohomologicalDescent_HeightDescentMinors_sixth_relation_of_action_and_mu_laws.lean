@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_sixth_relation_of_action_and_mu_laws
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.sixth_relation_of_action_and_mu_laws
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:32:33.809578+00:00
 -- url     : https://prove2.me/theorems/6d56c838-da65-4389-b89f-efbf1ca0fef0

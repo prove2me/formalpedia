@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Dil_chain
 -- name    : GlobalTheory.SS.Dil.chain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:48:43.596379+00:00
 -- url     : https://prove2.me/theorems/fb16d98c-fa92-4272-8b91-bb1f0abef725

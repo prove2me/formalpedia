@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_rootsDescent_of_roots_and_fourth_relation
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.rootsDescent_of_roots_and_fourth_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:32:44.327077+00:00
 -- url     : https://prove2.me/theorems/1ca07061-4a71-4d0e-94ea-5dcb702fe149

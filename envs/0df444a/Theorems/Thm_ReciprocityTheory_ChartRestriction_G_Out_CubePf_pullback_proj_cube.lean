@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_pullback_proj_cube
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.pullback_proj_cube
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:48:06.643716+00:00
 -- url     : https://prove2.me/theorems/e2b6a38c-cff8-4a85-b2db-1029b538ba55

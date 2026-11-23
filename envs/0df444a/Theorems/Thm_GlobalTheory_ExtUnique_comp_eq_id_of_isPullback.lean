@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_comp_eq_id_of_isPullback
 -- name    : GlobalTheory.ExtUnique.comp_eq_id_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:41.66255+00:00
 -- url     : https://prove2.me/theorems/be37eb17-e31b-4b84-949c-e2fde479c054

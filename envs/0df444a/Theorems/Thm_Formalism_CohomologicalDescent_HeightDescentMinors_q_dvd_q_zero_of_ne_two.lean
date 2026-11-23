@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_q_dvd_q_zero_of_ne_two
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.q_dvd_q_zero_of_ne_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:32:28.274376+00:00
 -- url     : https://prove2.me/theorems/61d52c94-0186-406d-84ce-3483af5c35c3

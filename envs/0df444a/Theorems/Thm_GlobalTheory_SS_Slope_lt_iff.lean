@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Slope_lt_iff
 -- name    : GlobalTheory.SS.Slope.lt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:47:15.067738+00:00
 -- url     : https://prove2.me/theorems/30ce123a-f713-412d-b5e3-0bdc17ebe6fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_defAt_iff
 -- name    : GlobalTheory.SS.GI.defAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:45:14.974571+00:00
 -- url     : https://prove2.me/theorems/8b43047e-e6e2-41b0-ac99-75e9dbb2efbc

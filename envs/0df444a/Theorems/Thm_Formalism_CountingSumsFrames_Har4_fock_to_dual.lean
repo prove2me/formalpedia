@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har4_fock_to_dual
 -- name    : Formalism.CountingSumsFrames.Har4.fock_to_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:37:52.345661+00:00
 -- url     : https://prove2.me/theorems/4568bd44-37bc-4927-a3f3-65d94c016d4d

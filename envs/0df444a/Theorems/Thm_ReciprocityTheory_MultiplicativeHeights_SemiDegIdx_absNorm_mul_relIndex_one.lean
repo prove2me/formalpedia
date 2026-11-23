@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_absNorm_mul_relIndex_one
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.absNorm_mul_relIndex_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:47:16.058207+00:00
 -- url     : https://prove2.me/theorems/95b45f37-ad1a-4d6b-969c-ae017dc1707d

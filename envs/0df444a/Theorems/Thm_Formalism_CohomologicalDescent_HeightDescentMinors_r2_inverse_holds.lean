@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_r2_inverse_holds
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.r2_inverse_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:32:30.927909+00:00
 -- url     : https://prove2.me/theorems/17d74abc-6bf4-4d23-a5a9-cc425a4d7620

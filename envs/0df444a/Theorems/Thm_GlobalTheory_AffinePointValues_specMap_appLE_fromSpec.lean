@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePointValues_specMap_appLE_fromSpec
 -- name    : GlobalTheory.AffinePointValues.specMap_appLE_fromSpec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:55.3928+00:00
 -- url     : https://prove2.me/theorems/d3cb6180-9577-4ea1-89fe-be1f6700e7e2

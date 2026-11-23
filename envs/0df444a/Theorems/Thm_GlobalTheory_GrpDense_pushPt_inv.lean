@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpDense_pushPt_inv
 -- name    : GlobalTheory.GrpDense.pushPt_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:28.723553+00:00
 -- url     : https://prove2.me/theorems/4aca339b-eb16-47c3-a862-6ae74cd2d143

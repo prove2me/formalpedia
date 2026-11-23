@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Dil_gr_sub
 -- name    : GlobalTheory.SS.Dil.gr_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:01.881036+00:00
 -- url     : https://prove2.me/theorems/8eabaf80-d451-410a-b926-f289cffb8d54

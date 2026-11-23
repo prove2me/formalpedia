@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Slope_exists_min
 -- name    : GlobalTheory.SS.Slope.exists_min
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:56.315215+00:00
 -- url     : https://prove2.me/theorems/869dc92f-390f-476f-a928-6bf0c5fc8730

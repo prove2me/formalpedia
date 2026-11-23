@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_exists_prodMap_apply
 -- name    : GlobalTheory.SS.GI.exists_prodMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:47:17.371282+00:00
 -- url     : https://prove2.me/theorems/73984eac-7d02-4edd-9e25-bc0bfe129a11

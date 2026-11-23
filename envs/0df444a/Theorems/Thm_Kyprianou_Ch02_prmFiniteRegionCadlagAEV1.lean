@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionCadlagAEV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionCadlagAEV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T08:56:00.738334+00:00
 -- url     : https://prove2.me/theorems/f58b6102-786a-4d3a-a82a-e8e07dcceb88

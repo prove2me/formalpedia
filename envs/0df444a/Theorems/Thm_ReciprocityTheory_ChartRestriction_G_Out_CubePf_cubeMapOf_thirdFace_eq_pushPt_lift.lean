@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_cubeMapOf_thirdFace_eq_pushPt_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.cubeMapOf_thirdFace_eq_pushPt_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:44:49.083589+00:00
 -- url     : https://prove2.me/theorems/dec5c525-21fc-4521-821d-b7f8b141fadb

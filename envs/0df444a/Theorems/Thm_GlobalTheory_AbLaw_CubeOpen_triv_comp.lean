@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeOpen_triv_comp
 -- name    : GlobalTheory.AbLaw.CubeOpen.triv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:32.807331+00:00
 -- url     : https://prove2.me/theorems/209955c8-b0f6-4f87-9281-a06817d5fd77

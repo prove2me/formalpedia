@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_fixed_relation_holds
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.fixed_relation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:31:34.722451+00:00
 -- url     : https://prove2.me/theorems/3865e86d-c10d-4a2d-af72-2e98ec396cbc

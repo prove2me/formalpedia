@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Dil_dd_algebraMap
 -- name    : GlobalTheory.SS.Dil.dd_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:48:50.810496+00:00
 -- url     : https://prove2.me/theorems/85ea842a-f12f-45a0-928a-b563b4d9dd2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har4_glAct_mem_PolAB
 -- name    : Formalism.CountingSumsFrames.Har4.glAct_mem_PolAB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:31:49.167666+00:00
 -- url     : https://prove2.me/theorems/d31a951f-4893-4580-a95a-ebd59560de2e

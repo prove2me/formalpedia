@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_aeval_eq_zero_of_mem_elimIdeal
 -- name    : GlobalTheory.Chow.aeval_eq_zero_of_mem_elimIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:27.309795+00:00
 -- url     : https://prove2.me/theorems/4c315de3-975a-460b-84e8-b94532606649

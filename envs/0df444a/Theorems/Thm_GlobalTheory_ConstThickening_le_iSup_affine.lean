@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstThickening_le_iSup_affine
 -- name    : GlobalTheory.ConstThickening.le_iSup_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:45:54.804463+00:00
 -- url     : https://prove2.me/theorems/a9af0e7f-b3df-49b0-aeb7-b3dcb350f30c

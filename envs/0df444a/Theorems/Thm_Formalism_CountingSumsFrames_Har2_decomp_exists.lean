@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har2_decomp_exists
 -- name    : Formalism.CountingSumsFrames.Har2.decomp_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:15:06.982617+00:00
 -- url     : https://prove2.me/theorems/46d70bcc-4d1c-4969-9998-4fad595f1f47

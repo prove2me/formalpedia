@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_IntervalBounds_basics
 -- name    : Formalism.CountingSumsFrames.IntervalBounds.basics
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:41:34.918737+00:00
 -- url     : https://prove2.me/theorems/f00809c4-1ecb-4ad6-b774-0a81bdfedc1b

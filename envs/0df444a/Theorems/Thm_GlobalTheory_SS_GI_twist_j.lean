@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_twist_j
 -- name    : GlobalTheory.SS.GI.twist_j
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:55.382638+00:00
 -- url     : https://prove2.me/theorems/a92c8819-0595-45ab-85c3-3faf79aaf59c
