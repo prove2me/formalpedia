@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_iterAffine
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.iterAffine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:48:27.074203+00:00
 -- url     : https://prove2.me/theorems/c11f795c-920a-47de-8f1d-b1cc325bb8e7

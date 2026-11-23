@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_rho_zero_of_k
 -- name    : GlobalTheory.InducedPBW.rho_zero_of_k
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:35.486323+00:00
 -- url     : https://prove2.me/theorems/13f448ae-ff02-48fd-ab72-44d42d1650cd

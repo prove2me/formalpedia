@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_boundary_gaussian_bessel
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:45:09.230809+00:00
 -- url     : https://prove2.me/submissions/b743bad0-1307-4418-adb4-eb2b5376fe32
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_gaussian_hermite_diagonal_bessel
 import Theorems.Thm_GrothendieckLB_Supplement_cq_boundary_mixed_hermite_identity

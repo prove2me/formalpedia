@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_CmData_selfDual_img
 -- name    : Formalism.L2.Th1.H.CmData.selfDual_img
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:38.919612+00:00
 -- url     : https://prove2.me/theorems/0cae21d8-edec-4da4-aee4-26849f10ada3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FormDomination_sum_baseGram_le
 -- name    : Formalism.FourierDecayAlt.P.FormDomination.sum_baseGram_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:30:59.860838+00:00
 -- url     : https://prove2.me/theorems/8a210d4a-45f2-45a0-9ef1-40f48bd5d8cf

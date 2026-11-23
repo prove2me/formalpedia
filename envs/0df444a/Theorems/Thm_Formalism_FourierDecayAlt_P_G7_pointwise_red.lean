@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G7_pointwise_red
 -- name    : Formalism.FourierDecayAlt.P.G7.pointwise_red
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:43:14.235864+00:00
 -- url     : https://prove2.me/theorems/2d4adf12-95e6-4a88-813d-9e35a7f75d6e

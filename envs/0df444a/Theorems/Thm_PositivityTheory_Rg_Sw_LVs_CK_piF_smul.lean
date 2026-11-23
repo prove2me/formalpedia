@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_piF_smul
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.piF_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:42.050978+00:00
 -- url     : https://prove2.me/theorems/2779efce-d115-4470-ab2d-9d407124c099

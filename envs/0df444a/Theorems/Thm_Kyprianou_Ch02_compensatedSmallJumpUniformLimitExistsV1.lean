@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_compensatedSmallJumpUniformLimitExistsV1
 -- name    : Kyprianou.Ch02.compensatedSmallJumpUniformLimitExistsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:42:18.354391+00:00
 -- url     : https://prove2.me/theorems/84ff5197-053b-4e8a-be0f-af231b037803

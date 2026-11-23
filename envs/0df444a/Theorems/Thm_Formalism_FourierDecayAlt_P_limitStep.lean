@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_limitStep
 -- name    : Formalism.FourierDecayAlt.P.limitStep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:05.977741+00:00
 -- url     : https://prove2.me/theorems/db390d91-fe38-4f8f-908d-1809a08b0ca5

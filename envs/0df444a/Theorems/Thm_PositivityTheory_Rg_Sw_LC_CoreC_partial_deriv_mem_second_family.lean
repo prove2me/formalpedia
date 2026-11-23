@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_partial_deriv_mem_second_family
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.partial_deriv_mem_second_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:26:12.003958+00:00
 -- url     : https://prove2.me/theorems/f99b293d-955f-43ae-8a65-54e6896283b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dual_size_identity
 -- name    : Formalism.FourierDecayAlt.P.dual_size_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:42.988479+00:00
 -- url     : https://prove2.me/theorems/b3dae233-afe9-46f1-9509-ad3ca44479fd

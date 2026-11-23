@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_fischer_zero_right
 -- name    : GroundTheory.Automorphic.HarishChandra.fischer_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:46:47.245605+00:00
 -- url     : https://prove2.me/theorems/4f4fde47-de71-4d15-a1b8-cd27fcd6924b

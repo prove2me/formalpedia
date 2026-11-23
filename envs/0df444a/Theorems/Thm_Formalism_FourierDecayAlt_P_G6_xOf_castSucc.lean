@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G6_xOf_castSucc
 -- name    : Formalism.FourierDecayAlt.P.G6.xOf_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:55:21.185799+00:00
 -- url     : https://prove2.me/theorems/f537dd8e-6594-4a6d-8be9-926a98fb778c

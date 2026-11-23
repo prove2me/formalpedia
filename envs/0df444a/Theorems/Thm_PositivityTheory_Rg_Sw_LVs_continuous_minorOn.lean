@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_continuous_minorOn
 -- name    : PositivityTheory.Rg.Sw.LVs.continuous_minorOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:48:48.271034+00:00
 -- url     : https://prove2.me/theorems/1fa8fef0-4bf1-47ce-adea-9c7b2086aa2a

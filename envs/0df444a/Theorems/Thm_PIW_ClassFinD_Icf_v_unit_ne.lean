@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ClassFinD_Icf_v_unit_ne
 -- name    : PIW.ClassFinD.Icf.v_unit_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:36.334041+00:00
 -- url     : https://prove2.me/theorems/e299ca50-d52a-49f4-9535-e2c26fd9db97

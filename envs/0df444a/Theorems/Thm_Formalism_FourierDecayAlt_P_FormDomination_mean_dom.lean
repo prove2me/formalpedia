@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FormDomination_mean_dom
 -- name    : Formalism.FourierDecayAlt.P.FormDomination.mean_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:30:57.994622+00:00
 -- url     : https://prove2.me/theorems/9621b12a-32a6-4876-998c-e006501ed3b0

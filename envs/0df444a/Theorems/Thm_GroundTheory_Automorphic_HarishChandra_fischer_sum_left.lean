@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_fischer_sum_left
 -- name    : GroundTheory.Automorphic.HarishChandra.fischer_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:41.332856+00:00
 -- url     : https://prove2.me/theorems/2395e9c8-b59b-4051-b4f4-10a504e67c90

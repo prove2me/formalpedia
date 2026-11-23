@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_6_zero_discount_v3_bv_small_jump_slope
 -- name    : Kyprianou.Ch08.StageB.source_result8_6_zero_discount_v3_bv_small_jump_slope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:24:14.199854+00:00
 -- url     : https://prove2.me/theorems/970fb450-6708-4abd-a149-52df1277a1d7

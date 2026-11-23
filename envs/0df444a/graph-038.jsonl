@@ -5880,9 +5880,9 @@
 {"parent": "Formalism.FourierDecayAlt.P.Wd9.J_conjTranspose", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd9.J_conjTranspose", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SecondEmbedMulFirstEmbedApply", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd9.J_conjTranspose", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DiagScalarCommuteOfEntries", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.c_pos_truncated", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Interlace", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.c_pos_truncated", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdmissibleRecOfAdmissibleWord", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.c_pos_truncated", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.c_pos_truncated", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Interlace", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.c_pos_truncated", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdmissibleRecOfAdmissibleWord", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.c_pos_truncated", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_SimeqSubst1", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_TendstoCoeffOfCont", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_SimeqSubst1", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_ConstantCoeffFormalSMul", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_SimeqSubst1", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_Development", "via": ["statement"]}
@@ -6718,10 +6718,10 @@
 {"parent": "FracTruthSched_PaddedConstruction", "child": "FracTruthSched_incident", "via": ["statement"]}
 {"parent": "FracTruthSched_PaddedConstruction", "child": "FracTruthSched_relabel", "via": ["statement"]}
 {"parent": "FracTruthSched_PaddedConstruction", "child": "FracTruthSched_FracMech", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.coordinatewise_median_amplification_uniform", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.coordinatewise_median_amplification_uniform", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.coordinatewise_median_amplification_uniform", "child": "QuantumLTF_Membership_readFp", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.coordinatewise_median_amplification_uniform", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.coordinatewise_median_amplification_uniform", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.coordinatewise_median_amplification_uniform", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.coordinatewise_median_amplification_uniform", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.coordinatewise_median_amplification_uniform", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd4.swap_mul_secondEmbed", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstEmbeddingOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd4.swap_mul_secondEmbed", "child": "Formalism_HermitianCurvature_StatementWd", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd4.swap_mul_secondEmbed", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SecondEmbedMulFirstEmbedApply", "via": ["solution", "statement"]}
@@ -6872,8 +6872,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.Wd8.io_mul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ScalarCommuteTransposedRMatrixEntry", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.M.PhiIntegrality.bnd_monomial", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_PhiInt", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.M.PhiIntegrality.bnd_monomial", "child": "Formalism_MahlerMeasure_IsIntegral", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.dual_size_identity", "child": "Formalism_HermitianCurvature_Statement", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.dual_size_identity", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DualVolumePowerIdentity", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.dual_size_identity", "child": "Formalism_HermitianCurvature_Statement", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.dual_size_identity", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DualVolumePowerIdentity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Sz3.b_lt", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_VandermondeRatioHarmonic", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Sz3.b_lt", "child": "Formalism_HermitianCurvature_StatementSz", "via": ["solution", "statement"]}
 {"parent": "Formalism.G0.DetValP.sum_cov_zero", "child": "Formalism_SubspaceCounting_StatementW", "via": ["solution", "statement"]}
@@ -8041,9 +8041,9 @@
 {"parent": "PI.UnitaryGroupMassFormula.PhGram.cc_lg", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GramSubstitutionIntegral_IntegralSubst", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.PhGram.cc_lg", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_BiadditiveCubes_ConstantCoeffLogEqZero", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.PhGram.cc_lg", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GramSubstitutionIntegral_HasSubstGood", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.frame_of_steps", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Interlace", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.frame_of_steps", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdmissibleRecOfAdmissibleWord", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.frame_of_steps", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.frame_of_steps", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Interlace", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.frame_of_steps", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdmissibleRecOfAdmissibleWord", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.frame_of_steps", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GaloisTorsionConjugacy_AddLaw", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_MulStableIntegral", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GaloisTorsionConjugacy_AddLaw", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GaloisTorsionConjugacy_WpBridge", "via": ["statement"]}
 {"parent": "PI.GalTorsConj.W.wp_add_mem", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GaloisTorsionConjugacy_WpBridge", "via": ["solution", "statement"]}
@@ -8313,8 +8313,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.Wd5.free_io", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_QEFirstMulSecondEqSwap", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd5.free_io", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_KroneckerEmbedMulApply", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd5.free_io", "child": "Formalism_HermitianCurvature_StatementWd", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.limitStep", "child": "Formalism_HermitianCurvature_StatementTB", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.limitStep", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FinitePointSets", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.limitStep", "child": "Formalism_HermitianCurvature_StatementTB", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.limitStep", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FinitePointSets", "via": ["solution", "statement"]}
 {"parent": "Formalism.G0.TopsWeightFunctionBounds.even_mod", "child": "Formalism_SubspaceCounting_TopsChoiceSecondBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.G0.TopsWeightFunctionBounds.even_mod", "child": "Formalism_SubspaceCounting_SubspaceCountingProofs_TopsChoicePartB", "via": ["solution", "statement"]}
 {"parent": "PI.BeDiagZp.Asm.simeq_congr", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_DiagonalPadicSubstitution_SubstOps", "via": ["solution", "statement"]}
@@ -30615,9 +30615,9 @@
 {"parent": "ReciprocityTheory.CA.ModDepthGE.of_quotSMulTop", "child": "ReciprocityTheory_CommutativeAlgebra_CohenMacaulay_ExistsIsRegularAppendOfModDepthGE", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.CA.ModDepthGE.of_quotSMulTop", "child": "ReciprocityTheory_CommutativeAlgebra_CohenMacaulay_ModDepthGE", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.CA.ModDepthGE.of_quotSMulTop", "child": "Lemmata_GeneralBFactSide_Imports", "via": ["solution", "statement"]}
-{"parent": "Formalism.REAL.pfil_compact_stable", "child": "Formalism_RealPlaceAnalysis_StatementU", "via": ["statement"]}
-{"parent": "Formalism.REAL.pfil_compact_stable", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_NoncompactGeneratorRaisesPfil", "via": ["statement"]}
-{"parent": "Formalism.REAL.pfil_compact_stable", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["statement"]}
+{"parent": "Formalism.REAL.pfil_compact_stable", "child": "Formalism_RealPlaceAnalysis_StatementU", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.pfil_compact_stable", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_NoncompactGeneratorRaisesPfil", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.pfil_compact_stable", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.ProjGramW.idxAt_antisymm", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_IndexBasic", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.ProjGramW.idxAt_antisymm", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProjectionGramMatrices_AlgebraMapNeZeroOfNotMem", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.ProjGramW.idxAt_antisymm", "child": "Formalism_PeriodIntegrals_IdxCalc", "via": ["solution", "statement"]}
@@ -33662,9 +33662,9 @@
 {"parent": "GlobalTheory.CompanionTheory.SW.Slice.fibFam_orbit", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_DisintegrationDensityFormula", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.Slice.fibFam_orbit", "child": "Formalism_UnipotentAdelicQuotients_SWXSDefs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.Slice.fibFam_orbit", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_MeasureEqHaarProdOfLeftInvariant", "via": ["solution", "statement"]}
-{"parent": "Formalism.REAL.poincare_filtration_succ", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.poincare_filtration_succ", "child": "Formalism_RealPlaceAnalysis_StatementU", "via": ["statement"]}
-{"parent": "Formalism.REAL.poincare_filtration_succ", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_NoncompactGeneratorRaisesPfil", "via": ["statement"]}
+{"parent": "Formalism.REAL.poincare_filtration_succ", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.poincare_filtration_succ", "child": "Formalism_RealPlaceAnalysis_StatementU", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.poincare_filtration_succ", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_NoncompactGeneratorRaisesPfil", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_IsIntegralCc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
 {"parent": "ReciprocityTheory.L2DbarEstimates.sqNorm_pos", "child": "ReciprocityTheory_L2DbarEstimates_SkodaWeights_Matrix", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Global_traceForm__apply_f7b017a4f6bf", "child": "GroundTheory_GlobalFields_TateThesis_Gaussian", "via": ["solution", "statement"]}
@@ -48566,10 +48566,10 @@
 {"parent": "OBdd.independentOf_lt_root", "child": "Bdd_DecisionTree", "via": ["solution", "statement"]}
 {"parent": "OBdd.independentOf_lt_root", "child": "Bdd_Nary", "via": ["solution", "statement"]}
 {"parent": "OBdd.independentOf_lt_root", "child": "Bdd_Basic", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_l", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_l", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_l", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_MinusLetterFrameOfData", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_l", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_CommuteInvLeft", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_l", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_l", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_l", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_MinusLetterFrameOfData", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_l", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_CommuteInvLeft", "via": ["solution", "statement"]}
 {"parent": "Formalism.DworkPowerSeriesWeights.coefficient_bound_membership", "child": "Formalism_GaussJetBounds_StatementS", "via": ["solution", "statement"]}
 {"parent": "Formalism.DworkPowerSeriesWeights.coefficient_bound_membership", "child": "Formalism_GaussJetBounds_GaussJetProofs_CoefficientBoundMembership", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LatFin.finite_automorphisms", "child": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsIntMulIntegral", "via": ["statement"]}
@@ -50486,10 +50486,10 @@
 {"parent": "CompanionTheory.LimBd.URep.UnitaryRep.comp_mem_intertwiners", "child": "CompanionTheory_AutomorphicTheory_SchurLimitBounds_SchurOrthogonality_URepBasic", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory.D.gk.admitted.CholeskyDecomposition.Adapted.conj_tri", "child": "CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_IwaChol", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory.D.gk.admitted.CholeskyDecomposition.Adapted.conj_tri", "child": "CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_IwaCore", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr5.free_l", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr5.free_l", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr5.free_l", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FreeOf2OfFourEntries", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr5.free_l", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_QEFirstMulSecondEqSwap", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr5.free_l", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr5.free_l", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr5.free_l", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FreeOf2OfFourEntries", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr5.free_l", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_QEFirstMulSecondEqSwap", "via": ["solution", "statement"]}
 {"parent": "Formalism.rint_Gz", "child": "Formalism_DefsOC", "via": ["solution", "statement"]}
 {"parent": "Formalism.rint_Gz", "child": "Formalism_ZetaNonvanishing_Assembly", "via": ["solution", "statement"]}
 {"parent": "Formalism.rint_Gz", "child": "Formalism_ZetaNonvanishing_MeasurableGchi", "via": ["solution", "statement"]}
@@ -50589,10 +50589,10 @@
 {"parent": "jets_phase_weights", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JetIntegrality_GlueHoldsVar", "via": ["statement"]}
 {"parent": "jets_phase_weights", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JetIntegrality_InvOmega", "via": ["statement"]}
 {"parent": "jets_phase_weights", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JetIntegrality_SecondJetIntegralGeneralHolds", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_m", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_m", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_m", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_MinusLetterFrameOfData", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_m", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_CommuteInvLeft", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_m", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_m", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_m", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_MinusLetterFrameOfData", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr10.free_m", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_CommuteInvLeft", "via": ["solution", "statement"]}
 {"parent": "Formalism_GaussJetBounds_OneLetterGaussJets_GainDominatesOddLevelSum", "child": "Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_CompanionTheory", "via": ["statement"]}
 {"parent": "Formalism_GaussJetBounds_OneLetterGaussJets_GainDominatesOddLevelSum", "child": "Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_OneLetterUnramifiedBound", "via": ["statement"]}
 {"parent": "Formalism_GaussJetBounds_OneLetterGaussJets_GainDominatesOddLevelSum", "child": "Formalism_GaussJetBounds_OneLetterGaussJets_SizesRows7", "via": ["statement"]}
@@ -51469,8 +51469,8 @@
 {"parent": "GlobalTheory.CompanionTheory.SW.GaussOne.beta_neg_one", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.GaussOne.beta_neg_one", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_RealGaussianFourierTransform", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.GaussOne.beta_neg_one", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_SimultaneousNormalFormMajorant", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.germ_of_rate", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AffineChangeOfVariables", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.germ_of_rate", "child": "Formalism_HermitianCurvature_StatementG", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.germ_of_rate", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AffineChangeOfVariables", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.germ_of_rate", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.BlockAlg.blockOne_succ_zero", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.BlockAlg.blockOne_succ_zero", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_BlockOneDetHermitianGram", "via": ["solution", "statement"]}
 {"parent": "FlowJobHardness.FlowShopGap.Supplement.theorem_1_2", "child": "FlowJobHardness_FlowShopGap_Supplement_Algorithms", "via": ["statement"]}
@@ -51644,11 +51644,11 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsIsLUBHeightRpowLowerSemicontinuousOn", "child": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsPosLeLatticeHeightAtFrameStatement", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsIsLUBHeightRpowLowerSemicontinuousOn", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_CuspidalExponentialDecay", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsIsLUBHeightRpowLowerSemicontinuousOn", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_WeightFunctionOnFrames", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.G7.mp_mulVec", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdditiveCharacterPsi", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.G7.mp_mulVec", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PhaseFunctionCriticalPoints", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.G7.mp_mulVec", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AffineChangeOfVariables", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.G7.mp_mulVec", "child": "Formalism_HermitianCurvature_StatementG", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.G7.mp_mulVec", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralConvergesAbs", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.G7.mp_mulVec", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdditiveCharacterPsi", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.G7.mp_mulVec", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PhaseFunctionCriticalPoints", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.G7.mp_mulVec", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AffineChangeOfVariables", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.G7.mp_mulVec", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.G7.mp_mulVec", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralConvergesAbs", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BallB.isLattice_span", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AlgebraMapIntCastSmul", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BallB.isLattice_span", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AbsNormSpanSingletonEq", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BallB.isLattice_span", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLand", "via": ["solution", "statement"]}
@@ -51915,8 +51915,8 @@
 {"parent": "GlobalTheory.CompanionTheory.SW.KAlg.coord_inj", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_TensorInvolutionAlgebraProperties", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.KAlg.coord_inj", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.quotMeasure_eq_zero_iff", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_ExistsIsFundamentalDomainAndQuotMeasureEq", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.G5.inv_blk", "child": "Formalism_HermitianCurvature_StatementG", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.G5.inv_blk", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ContinuousInvUpper", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.G5.inv_blk", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.G5.inv_blk", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ContinuousInvUpper", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.ZeroFreeRegionGL2.log_nonexceptional_bound", "child": "Formalism_GL3MeanSquares_SecondEstimateOfIntervalHypothesis", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.ZeroFreeRegionGL2.log_nonexceptional_bound", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_NumericalZeroDensityBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.ZeroFreeRegionGL2.log_nonexceptional_bound", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_WeightedVonMangoldtSumIdentity", "via": ["solution", "statement"]}
@@ -59863,7 +59863,7 @@
 {"parent": "GroundTheory.Automorphic.HermitianForm.isometric_prod_comm", "child": "GroundTheory_AutomorphicForms_HermitianOrthogonal", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.ProfCoh.torsNMap_injective", "child": "GroundTheory_ProfiniteCohomology_LocalEulerCharacteristic_AdditiveDefs", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.ProfCoh.torsNMap_injective", "child": "GroundTheory_ProfiniteCohomology_LocalEulerCharacteristic_AdditiveSnake", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.landau_exp_summable", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_LandauSummableOfExpDirichletSeriesEntire", "via": ["statement"]}
+{"parent": "GlobalTheory.landau_exp_summable", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_LandauSummableOfExpDirichletSeriesEntire", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_BasicNotions_Examples__CD_hasStrict_logA_de7a3d570658", "child": "Formalism_LocalRingCardinality_SpanPowerMembership_HasStrictFDerivAtExpZero", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_IndLine_Iwasawa_Hyp_q__f8a8d2591abe", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MapStarMul", "via": ["solution", "statement"]}
 {"parent": "SPP.G_lt_F_of_not_isPrimePow", "child": "MillerRabin_Val2", "via": ["solution", "statement"]}

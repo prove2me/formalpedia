@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ClassFinD_Icf_v_unit_mul_inv
 -- name    : PIW.ClassFinD.Icf.v_unit_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:48:30.548538+00:00
 -- url     : https://prove2.me/theorems/f3e877a5-9f61-4827-a460-f351edd38e4a

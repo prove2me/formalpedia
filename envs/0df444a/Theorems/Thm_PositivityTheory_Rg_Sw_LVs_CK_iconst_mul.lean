@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_iconst_mul
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.iconst_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:31.402089+00:00
 -- url     : https://prove2.me/theorems/4ec7878b-fda8-4f72-a24a-01626020fa0a

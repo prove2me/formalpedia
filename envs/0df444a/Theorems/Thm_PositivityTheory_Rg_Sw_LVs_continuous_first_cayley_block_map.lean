@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_continuous_first_cayley_block_map
 -- name    : PositivityTheory.Rg.Sw.LVs.continuous_first_cayley_block_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:17.088828+00:00
 -- url     : https://prove2.me/theorems/a669e63e-1722-454a-9d37-b81cf6e02f24

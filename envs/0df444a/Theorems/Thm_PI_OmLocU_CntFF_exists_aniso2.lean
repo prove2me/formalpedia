@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_CntFF_exists_aniso2
 -- name    : PI.OmLocU.CntFF.exists_aniso2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:37.658158+00:00
 -- url     : https://prove2.me/theorems/caa8cfc3-071a-4a5b-8d2f-fa0568f517eb

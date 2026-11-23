@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr2_pos_div
 -- name    : Formalism.FourierDecayAlt.P.Fr2.pos_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:34:19.840205+00:00
 -- url     : https://prove2.me/theorems/5b714993-ab8d-4152-9940-130d65c45304

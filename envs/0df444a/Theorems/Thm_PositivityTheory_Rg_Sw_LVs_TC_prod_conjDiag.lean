@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_prod_conjDiag
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.prod_conjDiag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:15.965799+00:00
 -- url     : https://prove2.me/theorems/17425b38-c3f4-4655-a762-785e6f35206a

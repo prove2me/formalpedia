@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_landau_exp_summable
 -- name    : GlobalTheory.landau_exp_summable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:46.275824+00:00
 -- url     : https://prove2.me/theorems/9d9467b7-06c2-4296-9b9c-d47b0ee82e28

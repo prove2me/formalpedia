@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_continuousOn_iteratedFDeriv_translate
 -- name    : PositivityTheory.Rg.Sw.LVs.continuousOn_iteratedFDeriv_translate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:14.802216+00:00
 -- url     : https://prove2.me/theorems/c6f33183-057b-4c60-859f-98fdfa26d16a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreBb_op_smul
 -- name    : PositivityTheory.Rg.Sw.LC.CoreBb.op_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:24:29.020811+00:00
 -- url     : https://prove2.me/theorems/943a22b4-7070-4852-a014-fff20ee55a94

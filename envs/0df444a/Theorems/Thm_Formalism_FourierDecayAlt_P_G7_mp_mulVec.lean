@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G7_mp_mulVec
 -- name    : Formalism.FourierDecayAlt.P.G7.mp_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:20:20.190588+00:00
 -- url     : https://prove2.me/theorems/291b4187-ab42-4306-bbce-7e9b778c4390

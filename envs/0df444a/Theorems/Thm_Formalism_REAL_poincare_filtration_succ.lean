@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_poincare_filtration_succ
 -- name    : Formalism.REAL.poincare_filtration_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:10:06.045939+00:00
 -- url     : https://prove2.me/theorems/05d04616-5784-4e35-883e-df517dc389bf

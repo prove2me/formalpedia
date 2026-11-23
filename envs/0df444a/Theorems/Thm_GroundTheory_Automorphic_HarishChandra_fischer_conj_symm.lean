@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_fischer_conj_symm
 -- name    : GroundTheory.Automorphic.HarishChandra.fischer_conj_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:36.084056+00:00
 -- url     : https://prove2.me/theorems/6142298d-6831-48d9-a42f-2fba1f2f421b

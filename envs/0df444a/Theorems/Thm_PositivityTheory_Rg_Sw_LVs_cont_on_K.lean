@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_cont_on_K
 -- name    : PositivityTheory.Rg.Sw.LVs.cont_on_K
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:08.731122+00:00
 -- url     : https://prove2.me/theorems/5b7af234-fd7b-484f-8ad4-2d898705bc78

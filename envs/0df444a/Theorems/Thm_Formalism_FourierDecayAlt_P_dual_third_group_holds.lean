@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dual_third_group_holds
 -- name    : Formalism.FourierDecayAlt.P.dual_third_group_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:17:55.561674+00:00
 -- url     : https://prove2.me/theorems/2a1f7a8f-c7f8-4d20-87ca-67eedb4615a9

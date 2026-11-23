@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiscFubiniVolume_J_bound
 -- name    : Formalism.FourierDecayAlt.P.DiscFubiniVolume.J_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:02:52.702795+00:00
 -- url     : https://prove2.me/theorems/e9068937-d5f9-4cf9-b0bf-777b49f19253

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_boundary_trace_mean_square
 -- name    : GrothendieckLB.Supplement.cq_boundary_trace_mean_square
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:07:23.074575+00:00
 -- url     : https://prove2.me/theorems/bdba8f2c-3081-40c8-af04-b21c34cc7297

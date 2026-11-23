@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_HenselStep_red_smul_iff
 -- name    : GlobalTheory.CompanionTheory.UnrDens.HenselStep.red_smul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:41.745802+00:00
 -- url     : https://prove2.me/theorems/19b2ce59-cdd9-48bb-8f7d-9be1b75d8920

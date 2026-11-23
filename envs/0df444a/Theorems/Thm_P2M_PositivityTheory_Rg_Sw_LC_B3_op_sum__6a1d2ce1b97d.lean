@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_LC_B3_op_sum__6a1d2ce1b97d
 -- name    : P2M_PositivityTheory_Rg_Sw_LC_B3_op_sum__6a1d2ce1b97d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:38:50.2888+00:00
 -- url     : https://prove2.me/theorems/4796b64b-0295-440e-a65b-62f5ea9668e9

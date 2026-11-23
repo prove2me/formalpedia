@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G7_embedding_coordMap
 -- name    : Formalism.FourierDecayAlt.P.G7.embedding_coordMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:48:53.941812+00:00
 -- url     : https://prove2.me/theorems/3b96c661-d37d-4d08-b5ac-8bfac362828a

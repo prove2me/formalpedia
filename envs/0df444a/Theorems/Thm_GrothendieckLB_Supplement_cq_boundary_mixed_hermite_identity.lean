@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_boundary_mixed_hermite_identity
 -- name    : GrothendieckLB.Supplement.cq_boundary_mixed_hermite_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:43:16.406618+00:00
 -- url     : https://prove2.me/theorems/0f7206e9-87f5-4d3f-ae81-da078a68b093

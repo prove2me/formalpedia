@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_boundary_trace_mean_square
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:30:57.339796+00:00
 -- url     : https://prove2.me/submissions/8afcc919-0b25-4d40-b576-b5e5787f5d67
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_diagonal_hermite_sobolev_bound
 import Theorems.Thm_GrothendieckLB_Supplement_cq_boundary_gaussian_bessel

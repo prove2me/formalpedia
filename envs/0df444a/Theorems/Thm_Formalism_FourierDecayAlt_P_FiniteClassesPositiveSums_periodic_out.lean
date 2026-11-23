@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FiniteClassesPositiveSums_periodic_out
 -- name    : Formalism.FourierDecayAlt.P.FiniteClassesPositiveSums.periodic_out
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:30:37.649805+00:00
 -- url     : https://prove2.me/theorems/0080811e-7abb-452d-a9e9-b0c53dcdfaa2

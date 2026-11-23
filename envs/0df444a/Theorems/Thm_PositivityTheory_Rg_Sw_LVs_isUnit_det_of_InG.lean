@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_isUnit_det_of_InG
 -- name    : PositivityTheory.Rg.Sw.LVs.isUnit_det_of_InG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:02.328614+00:00
 -- url     : https://prove2.me/theorems/dcb7b94f-677f-4e8a-9fef-0bfae659a430

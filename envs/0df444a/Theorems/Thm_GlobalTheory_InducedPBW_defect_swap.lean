@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_defect_swap
 -- name    : GlobalTheory.InducedPBW.defect_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:35.364802+00:00
 -- url     : https://prove2.me/theorems/e41c9b39-ea52-4f32-ac95-d926c13605c1

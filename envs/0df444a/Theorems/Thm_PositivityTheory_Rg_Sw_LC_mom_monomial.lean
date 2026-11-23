@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_mom_monomial
 -- name    : PositivityTheory.Rg.Sw.LC.mom_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:46:29.367464+00:00
 -- url     : https://prove2.me/theorems/62b9a548-48b1-48ea-b57e-72a82833557c

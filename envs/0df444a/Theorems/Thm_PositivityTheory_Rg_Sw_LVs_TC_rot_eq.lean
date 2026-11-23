@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_rot_eq
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.rot_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:48:53.665661+00:00
 -- url     : https://prove2.me/theorems/1f7bd954-2684-4887-b8c3-b257986e238d

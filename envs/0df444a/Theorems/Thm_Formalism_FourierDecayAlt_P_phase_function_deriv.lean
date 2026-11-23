@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_phase_function_deriv
 -- name    : Formalism.FourierDecayAlt.P.phase_function_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:18.479529+00:00
 -- url     : https://prove2.me/theorems/f662bb70-acf7-484f-ad0d-b052e2c8db34

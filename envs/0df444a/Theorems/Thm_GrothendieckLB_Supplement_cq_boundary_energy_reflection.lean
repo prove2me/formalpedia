@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_boundary_energy_reflection
 -- name    : GrothendieckLB.Supplement.cq_boundary_energy_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:25:12.945668+00:00
 -- url     : https://prove2.me/theorems/fa0acefd-1fd5-41e2-91e4-044011e7272b

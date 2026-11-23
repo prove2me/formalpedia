@@ -79755,9 +79755,9 @@
 {"parent": "DistLTLSynth.Char.theorem_6_12", "child": "DistLTLSynth_Char_LTL", "via": ["solution", "statement"]}
 {"parent": "DistLTLSynth.Char.theorem_6_12", "child": "DistLTLSynth_Char_CounterFormula", "via": ["solution", "statement"]}
 {"parent": "PPRInstOpt.UnknownN.instance_optimality", "child": "PPRInstOpt_UnknownN_QueryModel", "via": ["statement"]}
-{"parent": "anoise46_direct_finite_geometric_sum_bc28acbe", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "anoise46_direct_finite_geometric_sum_bc28acbe", "child": "AvramDividend.Classical.avram_anoise34_dyadic_mark_cell_endpoint_error", "via": ["statement"]}
-{"parent": "anoise46_direct_finite_geometric_sum_bc28acbe", "child": "AvramDividend.Classical.avram_anoise43_unit_dyadic_halfopen_cover", "via": ["statement"]}
+{"parent": "anoise46_direct_finite_geometric_sum_bc28acbe", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "anoise46_direct_finite_geometric_sum_bc28acbe", "child": "AvramDividend.Classical.avram_anoise34_dyadic_mark_cell_endpoint_error", "via": ["solution", "statement"]}
+{"parent": "anoise46_direct_finite_geometric_sum_bc28acbe", "child": "AvramDividend.Classical.avram_anoise43_unit_dyadic_halfopen_cover", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CanonicalRootWitnessCounterexample.eta_Q_query_zero", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_CanonicalHistoryMarks", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CanonicalRootWitnessCounterexample.eta_Q_query_zero", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_CanonicalRootWitnessCounterexample", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CanonicalRootWitnessCounterexample.eta_Q_query_zero", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_UniformIsolation", "via": ["solution", "statement"]}

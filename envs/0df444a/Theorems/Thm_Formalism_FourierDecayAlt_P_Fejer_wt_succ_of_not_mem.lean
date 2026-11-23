@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fejer_wt_succ_of_not_mem
+-- name    : Formalism.FourierDecayAlt.P.Fejer.wt_succ_of_not_mem
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T19:55:51.784811+00:00
+-- url     : https://prove2.me/theorems/9b3bd28c-599e-4a16-8f83-1803b95bd712
+-- title:
+--   Fejer: wt succ of not mem
+-- statement:
+--   The Fejer construction uses the wt succ of not mem property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/FacSuccOfNotMem.lean#L41-L48
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/FacSuccOfNotMem.lean#L41-L48
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementH
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Herglotz
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FacSuccOfNotMem
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.Fejer
+open Real Finset Formalism.FourierDecayAlt.P.Herglotz
+variable {d : ℕ}
+
+theorem Formalism.FourierDecayAlt.P.Fejer.wt_succ_of_not_mem (N : ℕ) (τ : Fin d → ℤ)
+    (hτ : τ ∉ Fintype.piFinset (fun _ : Fin d => Finset.Icc (-(N : ℤ)) N)) :
+    wt (N + 1) τ = 0 := by sorry

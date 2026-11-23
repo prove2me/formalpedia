@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_iteratedFDeriv_left_mul
 -- name    : PositivityTheory.Rg.Sw.LVs.iteratedFDeriv_left_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:08.777357+00:00
 -- url     : https://prove2.me/theorems/6a1b909f-5964-4573-be07-6f11c6abbcfa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Adopt_adelicSchwartzSpace_closed_under_conj_reflection
 -- name    : GlobalTheory.Adopt.adelicSchwartzSpace_closed_under_conj_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:36:54.593535+00:00
 -- url     : https://prove2.me/theorems/98b64170-4056-4d26-aba2-bd9ee66695b8

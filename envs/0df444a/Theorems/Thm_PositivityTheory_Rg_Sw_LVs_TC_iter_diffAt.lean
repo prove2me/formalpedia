@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_iter_diffAt
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.iter_diffAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:48:30.552722+00:00
 -- url     : https://prove2.me/theorems/d0e94f0d-4732-4947-b98b-fba409c9cd70

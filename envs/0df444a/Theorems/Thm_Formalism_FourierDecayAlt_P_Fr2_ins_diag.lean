@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr2_ins_diag
 -- name    : Formalism.FourierDecayAlt.P.Fr2.ins_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:32:41.552574+00:00
 -- url     : https://prove2.me/theorems/2ae3a77f-b528-480d-bfae-10004e46ceca

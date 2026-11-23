@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr11_mult_single
 -- name    : Formalism.FourierDecayAlt.P.Fr11.mult_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:32:44.720644+00:00
 -- url     : https://prove2.me/theorems/9946e724-b6d0-4075-acfd-b08059c749fe

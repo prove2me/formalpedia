@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr11_mult_cons
 -- name    : Formalism.FourierDecayAlt.P.Fr11.mult_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:33:03.827874+00:00
 -- url     : https://prove2.me/theorems/0aaf75e5-4679-4084-a246-b362d443f855

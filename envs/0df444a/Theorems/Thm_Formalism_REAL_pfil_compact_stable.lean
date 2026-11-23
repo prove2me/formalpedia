@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pfil_compact_stable
 -- name    : Formalism.REAL.pfil_compact_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:55.891621+00:00
 -- url     : https://prove2.me/theorems/17d9c466-9156-46a8-88b4-3d8467631f51

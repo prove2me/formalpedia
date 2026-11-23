@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_map_sum_sb
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.map_sum_sb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:40:05.420239+00:00
 -- url     : https://prove2.me/theorems/bdffe25b-8346-4355-b973-65e60c567b2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_integrable_of_continuous_K
 -- name    : PositivityTheory.Rg.Sw.LVs.integrable_of_continuous_K
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:48.045805+00:00
 -- url     : https://prove2.me/theorems/ee14999f-6d95-4897-9fbb-bb9a7fc1fd08

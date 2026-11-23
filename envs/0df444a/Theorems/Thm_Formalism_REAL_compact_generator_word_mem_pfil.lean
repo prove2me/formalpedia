@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_generator_word_mem_pfil
 -- name    : Formalism.REAL.compact_generator_word_mem_pfil
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:06:14.475687+00:00
 -- url     : https://prove2.me/theorems/8f4aa935-3213-4d72-a2e2-db74de1c01f2

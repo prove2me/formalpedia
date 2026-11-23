@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_contr_sum
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.contr_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:26:11.749866+00:00
 -- url     : https://prove2.me/theorems/765b5fa4-1106-4820-a8b4-a86f1a29263e

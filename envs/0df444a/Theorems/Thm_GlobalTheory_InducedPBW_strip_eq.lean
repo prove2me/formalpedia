@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_strip_eq
 -- name    : GlobalTheory.InducedPBW.strip_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:44.644808+00:00
 -- url     : https://prove2.me/theorems/0b488d72-7bea-43f5-ada1-1557afaa1ff7

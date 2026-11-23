@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_coordinatewise_median_amplification_uniform
 -- name    : QuantumLTF.Membership.coordinatewise_median_amplification_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:32:53.732784+00:00
 -- url     : https://prove2.me/theorems/62500608-be2e-4ca3-b8e3-f9f80d22ec5a

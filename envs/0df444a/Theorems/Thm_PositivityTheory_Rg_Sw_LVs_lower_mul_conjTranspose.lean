@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_lower_mul_conjTranspose
 -- name    : PositivityTheory.Rg.Sw.LVs.lower_mul_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:14.436664+00:00
 -- url     : https://prove2.me/theorems/2c04363e-ba30-4e1d-9243-836b4d134c0d

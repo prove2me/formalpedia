@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_rit_contDiffOn
 -- name    : PositivityTheory.Rg.Sw.LVs.rit_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:49.290095+00:00
 -- url     : https://prove2.me/theorems/ce188904-33ed-444e-a02e-06befc072266

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_of_steps
 -- name    : Formalism.FourierDecayAlt.P.frame_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:03.067492+00:00
 -- url     : https://prove2.me/theorems/c5eb415d-1e60-4742-ae19-fc99fb0eacd6

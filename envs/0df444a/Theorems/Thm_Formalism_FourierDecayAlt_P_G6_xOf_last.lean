@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G6_xOf_last
 -- name    : Formalism.FourierDecayAlt.P.G6.xOf_last
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:55:39.073473+00:00
 -- url     : https://prove2.me/theorems/de1b3b06-6a9d-462e-bbd4-3e576b00a31f

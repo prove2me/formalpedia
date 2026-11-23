@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_boundary_gaussian_bessel
 -- name    : GrothendieckLB.Supplement.cq_boundary_gaussian_bessel
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:25:21.806851+00:00
 -- url     : https://prove2.me/theorems/3f026499-a82b-4500-b4fc-e9d7aaa4376b

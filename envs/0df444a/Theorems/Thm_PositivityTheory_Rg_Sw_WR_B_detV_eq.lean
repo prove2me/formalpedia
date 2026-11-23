@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_detV_eq
 -- name    : PositivityTheory.Rg.Sw.WR.B.detV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:29.896365+00:00
 -- url     : https://prove2.me/theorems/82dde161-b959-453e-80d2-64c42599fa13

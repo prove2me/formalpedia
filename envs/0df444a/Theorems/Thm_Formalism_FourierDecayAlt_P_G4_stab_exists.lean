@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G4_stab_exists
 -- name    : Formalism.FourierDecayAlt.P.G4.stab_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:39:31.945669+00:00
 -- url     : https://prove2.me/theorems/aaabe62c-7b7e-49a1-97a6-74031f0bb9c2

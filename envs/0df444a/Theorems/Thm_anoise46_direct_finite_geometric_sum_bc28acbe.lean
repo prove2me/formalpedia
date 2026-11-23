@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_anoise46_direct_finite_geometric_sum_bc28acbe
 -- name    : anoise46_direct_finite_geometric_sum_bc28acbe
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T14:55:35.419334+00:00
 -- url     : https://prove2.me/theorems/d7246a56-17d5-4b84-b616-bb53c32f6ea6

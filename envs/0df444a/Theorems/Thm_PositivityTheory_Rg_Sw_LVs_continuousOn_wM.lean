@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_continuousOn_wM
 -- name    : PositivityTheory.Rg.Sw.LVs.continuousOn_wM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:24.034557+00:00
 -- url     : https://prove2.me/theorems/e6c54a2c-df7d-4d28-afd1-e0b5b63aa0b4
