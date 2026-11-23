@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspRep_contDiffAt_extZero
 -- name    : GlobalTheory.CuspRep.contDiffAt_extZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:03:25.854115+00:00
 -- url     : https://prove2.me/theorems/7cb73e07-5b14-4995-b51e-9a7ba0acc0e6

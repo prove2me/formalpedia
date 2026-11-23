@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_holo_bound
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.holo_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:30:59.583983+00:00
 -- url     : https://prove2.me/theorems/eb9e139f-69de-4aba-bdd1-5c3dcb35a78d

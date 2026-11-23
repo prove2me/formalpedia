@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspRep_fderiv_extZero
 -- name    : GlobalTheory.CuspRep.fderiv_extZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:21:19.110854+00:00
 -- url     : https://prove2.me/theorems/b5b20e40-ff20-4aa9-a889-2674033a91c5

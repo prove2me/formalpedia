@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_adj_eq
 -- name    : GlobalTheory.Tw.Model.adj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:10:46.071804+00:00
 -- url     : https://prove2.me/theorems/1ca37c95-8fea-4782-be8f-2b4016c06a6c

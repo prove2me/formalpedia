@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_B_norm_osc
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.B_norm_osc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:29:43.312999+00:00
 -- url     : https://prove2.me/theorems/f8e800f0-e781-4bf8-9666-1a80ee718859

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteSimpleMarkCharExponentKLSV1
 -- name    : Kyprianou.Ch02.prmFiniteSimpleMarkCharExponentKLSV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:34:42.154169+00:00
 -- url     : https://prove2.me/theorems/010cf0da-266b-486f-b733-98fd6d9acbb1

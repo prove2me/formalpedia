@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_D_amp
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.D_amp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:30:01.756515+00:00
 -- url     : https://prove2.me/theorems/72d6e510-7a46-4cce-ade1-e2f6b582b8bd

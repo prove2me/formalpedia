@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x3_rk_succ
 -- name    : Formalism.FourierDecayAlt.P.S6x3.rk_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:24.201823+00:00
 -- url     : https://prove2.me/theorems/11fa13a7-b91c-4dca-8f5e-5fa85f14dfca

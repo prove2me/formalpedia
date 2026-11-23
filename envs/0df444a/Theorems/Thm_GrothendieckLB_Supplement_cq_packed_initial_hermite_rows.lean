@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_packed_initial_hermite_rows
 -- name    : GrothendieckLB.Supplement.cq_packed_initial_hermite_rows
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:38:47.328241+00:00
 -- url     : https://prove2.me/theorems/60042ff0-8527-483f-852b-8070bc355ba3

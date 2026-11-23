@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_tripleIndependentCharFunOfLevyV1
 -- name    : Kyprianou.Ch02.tripleIndependentCharFunOfLevyV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:13:29.130148+00:00
 -- url     : https://prove2.me/theorems/9b8427df-f5f9-4b02-8317-88d078ae00da

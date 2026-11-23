@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz4_vand_words_ratio
 -- name    : Formalism.FourierDecayAlt.P.Sz4.vand_words_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:32:03.171148+00:00
 -- url     : https://prove2.me/theorems/544f1507-1c50-480c-b847-a8b61a8135d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_F_symm
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.F_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:30:56.724985+00:00
 -- url     : https://prove2.me/theorems/69b4963a-478d-40e8-81c4-44e818442117

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_nonlinear_head_check
 -- name    : GrothendieckLB.Supplement.cq_nonlinear_head_check
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T18:08:53.786803+00:00
 -- url     : https://prove2.me/theorems/7286b935-9e05-49d4-81b5-23facaf49129

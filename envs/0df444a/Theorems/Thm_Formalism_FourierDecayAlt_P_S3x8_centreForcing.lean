@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x8_centreForcing
 -- name    : Formalism.FourierDecayAlt.P.S3x8.centreForcing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:25:47.256866+00:00
 -- url     : https://prove2.me/theorems/7a832b2a-4709-45f4-b2f1-785e1091dd19

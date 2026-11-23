@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz2_geom_le
 -- name    : Formalism.FourierDecayAlt.P.Sz2.geom_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:32:00.249126+00:00
 -- url     : https://prove2.me/theorems/597effa2-520e-484d-9620-dc51755d7314

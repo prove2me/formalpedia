@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Model_eta_real_place
 -- name    : GlobalTheory.QuadSymbol.Model.eta_real_place
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:25:22.979722+00:00
 -- url     : https://prove2.me/theorems/ce0d49fb-47ac-43c9-a275-dda16b275041

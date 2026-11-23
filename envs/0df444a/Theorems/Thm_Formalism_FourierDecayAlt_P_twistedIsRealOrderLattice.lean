@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_twistedIsRealOrderLattice
 -- name    : Formalism.FourierDecayAlt.P.twistedIsRealOrderLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:19:29.762936+00:00
 -- url     : https://prove2.me/theorems/99a63cbf-699b-43de-9bac-3a990d0c28cb

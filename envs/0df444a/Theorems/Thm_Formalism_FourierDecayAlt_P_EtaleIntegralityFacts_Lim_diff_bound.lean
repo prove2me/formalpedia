@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Lim_diff_bound
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Lim.diff_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:56:09.248426+00:00
 -- url     : https://prove2.me/theorems/a752dbb3-6c38-4132-a888-147866654e75

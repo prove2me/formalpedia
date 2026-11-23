@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_bump_cutoff_spec
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.bump_cutoff_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:30:59.070203+00:00
 -- url     : https://prove2.me/theorems/bdf02691-9924-46d3-a40d-4e499791288d

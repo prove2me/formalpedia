@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_pos_of_hasDerivAt_dlambdaEnergy_ball
 -- name    : FiniteEnergyPlane.pos_of_hasDerivAt_dlambdaEnergy_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-22T19:27:13.425863+00:00
 -- url     : https://prove2.me/theorems/15bed673-a52c-4f94-818e-b9ff4da8f3d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_price_partial_gaussian_bound
 -- name    : GrothendieckLB.Supplement.cq_price_partial_gaussian_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:17:06.539402+00:00
 -- url     : https://prove2.me/theorems/129ac1b4-1df2-44cd-9086-3d846ec14f06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SchurNormSquareBounds_row_le
 -- name    : Formalism.FourierDecayAlt.P.SchurNormSquareBounds.row_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:26:22.1048+00:00
 -- url     : https://prove2.me/theorems/2486fad2-b881-499f-832c-64c87ac50ae4

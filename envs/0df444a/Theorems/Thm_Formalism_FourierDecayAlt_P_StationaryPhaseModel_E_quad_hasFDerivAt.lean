@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_E_quad_hasFDerivAt
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.E_quad_hasFDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:11:55.222796+00:00
 -- url     : https://prove2.me/theorems/c9387b99-37dd-4daa-a8d5-f6204d41072b

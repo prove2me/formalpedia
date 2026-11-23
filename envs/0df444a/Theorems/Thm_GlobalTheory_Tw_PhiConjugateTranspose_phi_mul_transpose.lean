@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PhiConjugateTranspose_phi_mul_transpose
 -- name    : GlobalTheory.Tw.PhiConjugateTranspose.phi_mul_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:24:38.82481+00:00
 -- url     : https://prove2.me/theorems/dd90ce79-5b9e-44ac-a11f-d71a0e0a2d78

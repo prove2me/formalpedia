@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_exists_orbit
 -- name    : GlobalTheory.IwahoriInj.exists_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:31:55.602802+00:00
 -- url     : https://prove2.me/theorems/d82c33d6-f8bc-4047-8c01-2962c5f15a23

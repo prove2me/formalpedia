@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgBcC_LfSt_ChainPf_Cact_locSupp_pd
 -- name    : PositivityTheory.RgBcC.LfSt.ChainPf.Cact.locSupp_pd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:25:17.111179+00:00
 -- url     : https://prove2.me/theorems/f1803bfb-cca2-4f8e-bf81-fb9d7ca0d988

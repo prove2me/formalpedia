@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SchurNormSquareBounds_norm_sq_sum_le
 -- name    : Formalism.FourierDecayAlt.P.SchurNormSquareBounds.norm_sq_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:26:04.532182+00:00
 -- url     : https://prove2.me/theorems/76d5a724-1d67-4cfa-9940-1837438ec5d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SecondPolynomialClauses_third_polynomial_prime_combination
 -- name    : Formalism.FourierDecayAlt.P.SecondPolynomialClauses.third_polynomial_prime_combination
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:26:24.337955+00:00
 -- url     : https://prove2.me/theorems/6324f913-65ac-4621-911e-f8095472f4d1

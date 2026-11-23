@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x8_keyCm
 -- name    : Formalism.FourierDecayAlt.P.S3x8.keyCm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:10:56.680614+00:00
 -- url     : https://prove2.me/theorems/12f5a6ad-bd53-449a-b653-a543dd19a8ec

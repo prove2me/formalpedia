@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StandardCharacterExists_strictUpper_smul
 -- name    : Formalism.FourierDecayAlt.P.StandardCharacterExists.strictUpper_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:29:38.293052+00:00
 -- url     : https://prove2.me/theorems/83b02fcb-6991-43e2-8374-fd35994e13ed

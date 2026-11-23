@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x8_halfStab
 -- name    : Formalism.FourierDecayAlt.P.S3x8.halfStab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:14:56.009907+00:00
 -- url     : https://prove2.me/theorems/51c832b8-8441-4bf4-8428-910c035272f1

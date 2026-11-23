@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_Semilocal_krylov_map_ringHom
 -- name    : GlobalTheory.RegSS.Semilocal.krylov_map_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:26:39.915803+00:00
 -- url     : https://prove2.me/theorems/00b22ce9-6af9-4277-a8a5-8f93e445fc2b

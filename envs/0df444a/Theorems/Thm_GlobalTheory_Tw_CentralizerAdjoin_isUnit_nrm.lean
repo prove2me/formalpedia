@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_CentralizerAdjoin_isUnit_nrm
 -- name    : GlobalTheory.Tw.CentralizerAdjoin.isUnit_nrm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:12:41.070609+00:00
 -- url     : https://prove2.me/theorems/e4593b15-0877-44be-8980-47d951ff7e55

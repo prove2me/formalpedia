@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_initMinor_mem
 -- name    : Formalism.GradedWeylDivisibility.initMinor_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:09:37.027134+00:00
 -- url     : https://prove2.me/theorems/4cabe617-b938-43f1-a24d-eb2791b36a2e

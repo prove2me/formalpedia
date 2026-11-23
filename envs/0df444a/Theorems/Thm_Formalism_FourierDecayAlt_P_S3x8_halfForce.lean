@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x8_halfForce
 -- name    : Formalism.FourierDecayAlt.P.S3x8.halfForce
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:14:43.752426+00:00
 -- url     : https://prove2.me/theorems/8f7d6dd0-fc59-4e3c-a990-a96f9d1e74fd

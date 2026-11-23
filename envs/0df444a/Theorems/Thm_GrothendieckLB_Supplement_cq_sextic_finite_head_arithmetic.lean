@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_sextic_finite_head_arithmetic
 -- name    : GrothendieckLB.Supplement.cq_sextic_finite_head_arithmetic
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T17:30:31.468336+00:00
 -- url     : https://prove2.me/theorems/2e1fef03-318f-4f0a-b036-299c7cbbce85

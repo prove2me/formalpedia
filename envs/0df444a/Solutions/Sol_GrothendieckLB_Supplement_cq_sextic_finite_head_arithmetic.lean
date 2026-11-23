@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_sextic_finite_head_arithmetic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T17:54:17.630367+00:00
 -- url     : https://prove2.me/submissions/37878905-5154-4cba-9ee8-3842a0caff46
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_cq_sextic_nonlinear_rational_bounds
 import Mathlib.Analysis.Real.Pi.Bounds

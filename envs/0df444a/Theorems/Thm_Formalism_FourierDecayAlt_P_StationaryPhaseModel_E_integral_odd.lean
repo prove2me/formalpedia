@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_E_integral_odd
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.E_integral_odd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:30:40.452412+00:00
 -- url     : https://prove2.me/theorems/ce7a06c9-4f07-499b-8a7e-2886538a6b34

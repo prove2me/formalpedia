@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_B_finrank
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.B_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:29:51.452989+00:00
 -- url     : https://prove2.me/theorems/c5ecece9-1f6f-485f-8e0c-694f8fc39768

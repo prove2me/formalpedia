@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for GlobalTheory.CompanionTheory.HeckeFixed.coe_eK
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T21:34:54.940029+00:00
+-- url     : https://prove2.me/submissions/f544aeb8-633f-4c15-8c81-ec40b8dec6e7
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Foundations_SmoothPartStable
+import Definitions.Def_Development_WeilBound_RepresentationTheoryGL_TwistedFactors_LocalBaseChange_TwistedIndependenceLemma_TwistedIndependence
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_BlockDecomposition_HeckeCharacterExistsUnique
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open GlobalTheory.PRep
+attribute [local instance] Subgroup.fintypeQuotientOfFiniteIndex
+open GlobalTheory GlobalTheory.CompanionTheory GlobalTheory.CompanionTheory.HeckeFixed
+variable {G V : Type} [Group G] [AddCommGroup V] [Module ℂ V]
+variable [TopologicalSpace G]
+variable [IsTopologicalGroup G]
+variable {π : Representation ℂ G V} (hπ : IsSmooth π) {K : Subgroup G}
+  (hKc : IsCompact (K : Set G))
+namespace GlobalTheory.CompanionTheory.HeckeFixed
+theorem _root_.solution (v : V) : (eK π hπ hKc v : V) =
+    (Submodule.projectionOnto _ _ (isCompl_res hπ hKc) v : V) := rfl
+end GlobalTheory.CompanionTheory.HeckeFixed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmKLSFiniteSimpleFibreWeightedCountCharV1
 -- name    : Kyprianou.Ch02.prmKLSFiniteSimpleFibreWeightedCountCharV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:10:20.363312+00:00
 -- url     : https://prove2.me/theorems/93fcc15e-eb60-43c4-8044-dfb0d987fcc3

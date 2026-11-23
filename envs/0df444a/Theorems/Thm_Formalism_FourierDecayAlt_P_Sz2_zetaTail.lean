@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz2_zetaTail
 -- name    : Formalism.FourierDecayAlt.P.Sz2.zetaTail
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:32:12.959432+00:00
 -- url     : https://prove2.me/theorems/aaa143f7-0f16-4f44-bfc8-39f544a4b15c

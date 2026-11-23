@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_montgomeryPoint_mul_v2
 -- name    : X25519Dalek.fnOk_montgomeryPoint_mul_v2
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-23T19:14:13.731738+00:00
 -- url     : https://prove2.me/theorems/e7e84b90-0c21-4643-93d7-b030421ac6ff

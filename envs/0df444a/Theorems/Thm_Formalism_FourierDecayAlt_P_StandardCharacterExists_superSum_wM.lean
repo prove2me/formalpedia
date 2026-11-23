@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StandardCharacterExists_superSum_wM
 -- name    : Formalism.FourierDecayAlt.P.StandardCharacterExists.superSum_wM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:29:41.529078+00:00
 -- url     : https://prove2.me/theorems/4114bbc8-1e3a-4d26-a55b-3bf0117bf247

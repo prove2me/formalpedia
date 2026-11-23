@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_head_coefficient_enclosures
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T17:32:33.32738+00:00
 -- url     : https://prove2.me/submissions/b7f12067-a45b-4da7-bacd-94c906530413
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_theorem_5_1
 import Theorems.Thm_GrothendieckLB_Supplement_cqA_sextic_reduction

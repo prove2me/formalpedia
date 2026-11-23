@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_betaFactorisation
 -- name    : Formalism.FourierDecayAlt.P.betaFactorisation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:17:59.172285+00:00
 -- url     : https://prove2.me/theorems/bd9f8d59-14ee-424e-9558-a16c42118ac6

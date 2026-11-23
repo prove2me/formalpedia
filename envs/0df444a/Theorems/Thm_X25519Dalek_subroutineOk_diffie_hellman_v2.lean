@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_subroutineOk_diffie_hellman_v2
 -- name    : X25519Dalek.subroutineOk_diffie_hellman_v2
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-23T19:14:15.111506+00:00
 -- url     : https://prove2.me/theorems/3f0ca5eb-2640-4df4-9ee6-96ddf7c424fc

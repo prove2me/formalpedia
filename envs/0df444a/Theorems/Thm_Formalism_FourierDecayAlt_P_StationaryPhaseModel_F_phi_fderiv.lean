@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_F_phi_fderiv
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.F_phi_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:13:59.006269+00:00
 -- url     : https://prove2.me/theorems/ceacbd2c-f4de-4916-a651-162ef41b25c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_a_zero_le_one_sixty
 -- name    : Formalism.FourierDecayAlt.P.a_zero_le_one_sixty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:45.397534+00:00
 -- url     : https://prove2.me/theorems/b5851256-9d35-467e-9795-6d75586b453a

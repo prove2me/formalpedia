@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_d_unitaryOrder
 -- name    : Formalism.FourierDecayAlt.P.S3x6.d_unitaryOrder
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:12.394436+00:00
 -- url     : https://prove2.me/theorems/30d37c82-7d21-4bcf-9708-03c6d7f87db2

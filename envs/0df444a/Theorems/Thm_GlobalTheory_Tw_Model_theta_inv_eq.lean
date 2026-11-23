@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_theta_inv_eq
 -- name    : GlobalTheory.Tw.Model.theta_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:47.918478+00:00
 -- url     : https://prove2.me/theorems/f8f5562b-17e9-4915-9265-8c15c8f8c361

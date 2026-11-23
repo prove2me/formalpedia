@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for FiniteEnergyPlane.exists_pageFamily_injective_fderiv
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-11-22T19:49:48.612392+00:00
 -- url     : https://prove2.me/submissions/c9d79973-5a99-4ecc-bd40-131f7283021d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_OpenBook
 import Mathlib

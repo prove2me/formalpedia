@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgBcC_LfSt_ChainPf_Cact_hasFDerivAt_int
 -- name    : PositivityTheory.RgBcC.LfSt.ChainPf.Cact.hasFDerivAt_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:25:13.503947+00:00
 -- url     : https://prove2.me/theorems/cd1b69bf-39f2-4c88-876a-d5e5e65157ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SecondPolynomialClauses_second_polynomial_first_clause
 -- name    : Formalism.FourierDecayAlt.P.SecondPolynomialClauses.second_polynomial_first_clause
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:26:14.367164+00:00
 -- url     : https://prove2.me/theorems/f39a82be-4379-4868-9f82-9a09e40b4b6a

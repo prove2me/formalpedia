@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PolynomialTheoremsAssembly_p3aOfParts_ok
 -- name    : Formalism.FourierDecayAlt.P.PolynomialTheoremsAssembly.p3aOfParts_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:31:16.686377+00:00
 -- url     : https://prove2.me/theorems/d47d78b4-7c75-47f8-919c-9c0467fefb09

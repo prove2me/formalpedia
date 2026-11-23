@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_E_osc_quad_neg
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.E_osc_quad_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:30:26.216465+00:00
 -- url     : https://prove2.me/theorems/59ad9975-7697-4c2b-88f8-9a4e3128dc0b

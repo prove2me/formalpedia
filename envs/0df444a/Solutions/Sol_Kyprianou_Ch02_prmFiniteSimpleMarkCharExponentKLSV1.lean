@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.prmFiniteSimpleMarkCharExponentKLSV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T21:12:14.325546+00:00
 -- url     : https://prove2.me/submissions/76a50b79-dac6-45bd-82de-30caa7688e95
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KLSModular_LevyStochCalc_Poisson_RandomMeasure

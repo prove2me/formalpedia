@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_packed_full_coefficient_bounds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:19:08.517985+00:00
 -- url     : https://prove2.me/submissions/13e4905a-ed50-4a5f-b1e9-01af97baf8f3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_cq_packed_center_products_0_to_63
 import Theorems.Thm_GrothendieckLB_Supplement_cq_packed_center_products_64_to_127

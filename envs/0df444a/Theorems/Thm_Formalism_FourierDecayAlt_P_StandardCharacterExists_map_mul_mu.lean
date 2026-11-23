@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StandardCharacterExists_map_mul_mu
 -- name    : Formalism.FourierDecayAlt.P.StandardCharacterExists.map_mul_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:26:36.978528+00:00
 -- url     : https://prove2.me/theorems/6645a1c5-3aa7-41bd-bf79-6b18a9da996e

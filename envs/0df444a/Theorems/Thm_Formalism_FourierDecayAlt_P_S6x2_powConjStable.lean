@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x2_powConjStable
 -- name    : Formalism.FourierDecayAlt.P.S6x2.powConjStable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:11:55.949505+00:00
 -- url     : https://prove2.me/theorems/d1f7b444-6eac-4237-baac-d60c88be2c42

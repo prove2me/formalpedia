@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StandardCharacterExists_scalePi
 -- name    : Formalism.FourierDecayAlt.P.StandardCharacterExists.scalePi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:29:53.103139+00:00
 -- url     : https://prove2.me/theorems/a74b6037-0844-4abc-a412-6c2a0fd4f3d5

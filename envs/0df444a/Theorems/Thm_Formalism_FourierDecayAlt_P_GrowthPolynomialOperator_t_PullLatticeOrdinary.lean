@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_PullLatticeOrdinary
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_PullLatticeOrdinary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:46:31.830561+00:00
 -- url     : https://prove2.me/theorems/7be6b40a-32a5-4910-af93-47c3bccd26b1

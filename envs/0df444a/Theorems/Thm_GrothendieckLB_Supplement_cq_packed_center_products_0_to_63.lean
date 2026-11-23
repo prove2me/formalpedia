@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_packed_center_products_0_to_63
 -- name    : GrothendieckLB.Supplement.cq_packed_center_products_0_to_63
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:16:54.833952+00:00
 -- url     : https://prove2.me/theorems/4c389779-8d77-49f0-a02d-188908ee9f11

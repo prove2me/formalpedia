@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_Inj_trans
 -- name    : GlobalTheory.IwahoriInj.Inj.trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:03.451889+00:00
 -- url     : https://prove2.me/theorems/b6b7c58b-0b43-4c41-8d9a-59e143c9c6e7

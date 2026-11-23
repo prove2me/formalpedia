@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_threshold_products
 -- name    : Formalism.FourierDecayAlt.P.threshold_products
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:28.3888+00:00
 -- url     : https://prove2.me/theorems/bb24c9ad-145e-4866-b56f-a30257ccb6c1

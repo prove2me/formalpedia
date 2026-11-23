@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_transfer_rtt_entries
 -- name    : Formalism.FourierDecayAlt.P.transfer_rtt_entries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:41.033392+00:00
 -- url     : https://prove2.me/theorems/226f0911-3bae-45f7-8484-390a3650cd30

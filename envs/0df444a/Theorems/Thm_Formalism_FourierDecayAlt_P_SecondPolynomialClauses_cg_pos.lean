@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SecondPolynomialClauses_cg_pos
 -- name    : Formalism.FourierDecayAlt.P.SecondPolynomialClauses.cg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:28.505003+00:00
 -- url     : https://prove2.me/theorems/a9ee6b4e-74ed-45f0-9b54-ea9a78cf9890

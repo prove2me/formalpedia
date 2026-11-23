@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x2_typedModel
 -- name    : Formalism.FourierDecayAlt.P.S6x2.typedModel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:19:50.356289+00:00
 -- url     : https://prove2.me/theorems/02a01989-a519-43a4-93c6-e8df90dc2809

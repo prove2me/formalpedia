@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_head_integer_degrees_53_to_251
 -- name    : GrothendieckLB.Supplement.cq_head_integer_degrees_53_to_251
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T20:04:35.223877+00:00
 -- url     : https://prove2.me/theorems/fc28e7f8-2588-498a-8ea6-e8d0e220ae2b

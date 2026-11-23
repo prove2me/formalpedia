@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_different_power_conj_stable
 -- name    : Formalism.FourierDecayAlt.P.different_power_conj_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:38:57.186162+00:00
 -- url     : https://prove2.me/theorems/34d8b7b0-3fe0-415d-b1c8-b0bd87eb781f

@@ -1,0 +1,29 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz1_glCard_ne_zero
+-- name    : Formalism.FourierDecayAlt.P.Sz1.glCard_ne_zero
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T21:35:31.633039+00:00
+-- url     : https://prove2.me/theorems/43debb1e-f506-49ef-b9dc-9f8469a9bd01
+-- title:
+--   Sz1: gl Card ne zero
+-- statement:
+--   The Sz1 construction uses the gl Card ne zero property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/MassRatioFormula.lean#L57-L60
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/MassRatioFormula.lean#L57-L60
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementSz
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_MassRatioFormula
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.Sz1
+open Finset Formalism.FourierDecayAlt.Sz
+
+theorem Formalism.FourierDecayAlt.P.Sz1.glCard_ne_zero (k : ℕ) (q : ℝ) (hq : 1 < q) : glCard k q ≠ 0 := by sorry

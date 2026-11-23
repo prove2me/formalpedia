@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_head_coefficient_enclosures
 -- name    : GrothendieckLB.Supplement.cq_head_coefficient_enclosures
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T16:36:07.105314+00:00
 -- url     : https://prove2.me/theorems/1affdd31-aa38-4623-a872-ea9c2d721a4f

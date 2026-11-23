@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz4_lin_bound
 -- name    : Formalism.FourierDecayAlt.P.Sz4.lin_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:25:53.295456+00:00
 -- url     : https://prove2.me/theorems/9c613e97-971b-44a2-b4bf-b0316894f45d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_F_dg_eq
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.F_dg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:35:00.029042+00:00
 -- url     : https://prove2.me/theorems/d3e4602d-a9b0-4382-8d17-f194a5f38795

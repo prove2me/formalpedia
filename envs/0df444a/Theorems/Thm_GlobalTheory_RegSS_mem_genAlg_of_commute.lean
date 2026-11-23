@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_mem_genAlg_of_commute
 -- name    : GlobalTheory.RegSS.mem_genAlg_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:24:33.396259+00:00
 -- url     : https://prove2.me/theorems/b4c468fc-c5a2-4979-b98f-96ab8f0dbe5e

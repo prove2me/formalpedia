@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_D_cut_nonneg
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.D_cut_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:30:00.133841+00:00
 -- url     : https://prove2.me/theorems/3b6f8431-78f8-47b7-a439-130309829550

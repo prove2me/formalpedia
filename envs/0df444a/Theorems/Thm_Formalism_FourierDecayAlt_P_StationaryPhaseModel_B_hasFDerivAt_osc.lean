@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_B_hasFDerivAt_osc
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.B_hasFDerivAt_osc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:29:48.80212+00:00
 -- url     : https://prove2.me/theorems/413ed3b1-c39f-4771-a687-3af62576a891

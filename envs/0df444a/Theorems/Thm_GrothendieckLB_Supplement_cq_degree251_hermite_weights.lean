@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_degree251_hermite_weights
 -- name    : GrothendieckLB.Supplement.cq_degree251_hermite_weights
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T20:42:15.760817+00:00
 -- url     : https://prove2.me/theorems/3670c85e-6378-41de-a0cf-243d20df847b

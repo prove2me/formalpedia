@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x8_invOm
 -- name    : Formalism.FourierDecayAlt.P.S3x8.invOm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:15:40.7224+00:00
 -- url     : https://prove2.me/theorems/31a4bee6-0103-4b0a-b781-d48e41ef43fc

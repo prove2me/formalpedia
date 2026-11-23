@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_B_norm_dirv
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.B_norm_dirv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:29:48.376313+00:00
 -- url     : https://prove2.me/theorems/863fb9c3-acd0-48fb-9e55-ecc38bda0bf4

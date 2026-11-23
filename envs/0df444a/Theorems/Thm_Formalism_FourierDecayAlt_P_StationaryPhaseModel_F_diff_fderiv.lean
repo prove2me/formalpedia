@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_F_diff_fderiv
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.F_diff_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:30:46.639515+00:00
 -- url     : https://prove2.me/theorems/41f7c682-9ce2-4c22-a56d-594b832b5eab

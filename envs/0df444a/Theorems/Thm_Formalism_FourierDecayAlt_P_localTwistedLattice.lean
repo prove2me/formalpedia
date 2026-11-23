@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_localTwistedLattice
 -- name    : Formalism.FourierDecayAlt.P.localTwistedLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:23.226693+00:00
 -- url     : https://prove2.me/theorems/382a0f15-2865-4fcd-8caf-75e2dfa3f079

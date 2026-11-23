@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x6_approx
 -- name    : Formalism.FourierDecayAlt.P.S6x6.approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:37:43.439783+00:00
 -- url     : https://prove2.me/theorems/bac86e6c-303b-49ef-88b2-18f8b2a05d51

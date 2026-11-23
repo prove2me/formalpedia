@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_third_polynomial_prime_combine
 -- name    : Formalism.FourierDecayAlt.P.third_polynomial_prime_combine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:28.921244+00:00
 -- url     : https://prove2.me/theorems/dfff4bfa-f3dd-43a6-93af-3aad02de6063

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_packed_full_coefficient_bounds
 -- name    : GrothendieckLB.Supplement.cq_packed_full_coefficient_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:09:25.152053+00:00
 -- url     : https://prove2.me/theorems/f54c8238-ae07-4431-bfff-696dab8fc467

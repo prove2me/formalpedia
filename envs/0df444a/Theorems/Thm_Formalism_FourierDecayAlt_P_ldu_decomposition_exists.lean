@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ldu_decomposition_exists
 -- name    : Formalism.FourierDecayAlt.P.ldu_decomposition_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:01.273861+00:00
 -- url     : https://prove2.me/theorems/05dc84f1-f43f-4006-893b-92b00aac7ec8

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_sextic_nonlinear_rational_bounds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T18:09:58.108287+00:00
 -- url     : https://prove2.me/submissions/6ced4b79-2df5-46cd-91cc-4b3d293f1114
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_GrothendieckLB_Supplement_cqSexticHead
 import Theorems.Thm_GrothendieckLB_Supplement_cq_nonlinear_head_check

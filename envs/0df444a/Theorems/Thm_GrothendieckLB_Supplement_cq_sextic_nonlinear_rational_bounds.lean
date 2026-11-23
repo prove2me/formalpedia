@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_sextic_nonlinear_rational_bounds
 -- name    : GrothendieckLB.Supplement.cq_sextic_nonlinear_rational_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T17:50:31.445091+00:00
 -- url     : https://prove2.me/theorems/d298d7e6-d2fe-4567-992f-555081641f9e

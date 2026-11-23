@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for X25519Dalek.fnOk_montgomeryPoint_mul_clamped_v2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-23T19:42:22.408293+00:00
 -- url     : https://prove2.me/submissions/382f5c38-63c2-4ee2-9f54-8082824c55e1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_X25519Dalek_PlacedObj
 import Definitions.Def_X25519Dalek_Rfc7748

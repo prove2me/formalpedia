@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x3_rk_eq
 -- name    : Formalism.FourierDecayAlt.P.S6x3.rk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:20:24.449124+00:00
 -- url     : https://prove2.me/theorems/efb49847-51b5-429d-889f-9b9ab2f316a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_contDiffOn_dlambdaEnergy_ball_family
 -- name    : FiniteEnergyPlane.contDiffOn_dlambdaEnergy_ball_family
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-22T19:27:10.199689+00:00
 -- url     : https://prove2.me/theorems/df38b5c7-1639-4ddb-b619-f36bfd32c6cb

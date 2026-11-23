@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_bideterminantMem
 -- name    : Formalism.GradedWeylDivisibility.bideterminantMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:50.789989+00:00
 -- url     : https://prove2.me/theorems/65cac145-9225-4d37-ae3a-d60c446f4108

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_D_bilC_norm
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.D_bilC_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:30:02.484323+00:00
 -- url     : https://prove2.me/theorems/7e649da4-ba4f-459c-8e77-29f432fe76af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspRep_exists_bound
 -- name    : GlobalTheory.CuspRep.exists_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:21:04.63701+00:00
 -- url     : https://prove2.me/theorems/f0805236-cd34-46a8-a217-219b215fbb87

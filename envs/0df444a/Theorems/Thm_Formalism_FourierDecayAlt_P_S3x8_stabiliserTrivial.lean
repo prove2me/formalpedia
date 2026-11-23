@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x8_stabiliserTrivial
 -- name    : Formalism.FourierDecayAlt.P.S3x8.stabiliserTrivial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:15:59.316736+00:00
 -- url     : https://prove2.me/theorems/503a65ef-4483-4fc4-8c3b-02dc521da2db

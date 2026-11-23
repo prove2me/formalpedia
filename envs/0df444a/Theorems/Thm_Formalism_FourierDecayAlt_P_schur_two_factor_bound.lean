@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_schur_two_factor_bound
 -- name    : Formalism.FourierDecayAlt.P.schur_two_factor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:38:56.533145+00:00
 -- url     : https://prove2.me/theorems/4a0baf58-3331-423a-b8ca-4abd749d713b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_pairing_top_degree
 -- name    : Formalism.FourierDecayAlt.P.pairing_top_degree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:34.953189+00:00
 -- url     : https://prove2.me/theorems/6d784d9f-b381-4a43-9556-a400262e8ac0

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch02.prmFiniteRegionCharExponentV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T18:35:35.92892+00:00
 -- url     : https://prove2.me/submissions/1acec66f-2e18-44a6-bf25-0b0a55a80b60
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KLSModular_LevyStochCalc_Poisson_RandomMeasure

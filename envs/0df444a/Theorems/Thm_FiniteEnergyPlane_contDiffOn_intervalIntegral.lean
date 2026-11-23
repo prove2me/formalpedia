@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_contDiffOn_intervalIntegral
 -- name    : FiniteEnergyPlane.contDiffOn_intervalIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-23T21:11:54.725008+00:00
 -- url     : https://prove2.me/theorems/6cae3c8a-a966-4467-b7f3-53b45e285285

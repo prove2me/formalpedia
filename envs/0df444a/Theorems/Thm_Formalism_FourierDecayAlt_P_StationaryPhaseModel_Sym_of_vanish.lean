@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_Sym_of_vanish
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.Sym.of_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:06:10.196277+00:00
 -- url     : https://prove2.me/theorems/dc06498c-6253-44f1-817b-2fd0f58d5419

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SecondPolynomialClauses_p2cOfParts_ok
 -- name    : Formalism.FourierDecayAlt.P.SecondPolynomialClauses.p2cOfParts_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:26:10.539615+00:00
 -- url     : https://prove2.me/theorems/d4982965-8922-4ee4-aa87-d52f049b30d0

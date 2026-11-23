@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_degree251_hermite_weights
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:29:31.663378+00:00
 -- url     : https://prove2.me/submissions/39a83a5d-a275-4c84-b3cd-02537d99c9bd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_cq_hermite251_initial_grid
 import Theorems.Thm_GrothendieckLB_Supplement_cq_hermite_rows_0_to_8

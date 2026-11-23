@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x6_locAt_sum
 -- name    : Formalism.FourierDecayAlt.P.S6x6.locAt_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:24:35.54474+00:00
 -- url     : https://prove2.me/theorems/f77be63f-5a4a-4d08-9c7c-6e819a1196c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SecondPolynomialClauses_unipotent_degree_three_of_parts
 -- name    : Formalism.FourierDecayAlt.P.SecondPolynomialClauses.unipotent_degree_three_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:26:44.719931+00:00
 -- url     : https://prove2.me/theorems/124865a3-3648-422f-a402-3c84946221d2

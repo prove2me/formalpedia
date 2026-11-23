@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_theta_lower_bound
 -- name    : Formalism.FourierDecayAlt.P.theta_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:11.271869+00:00
 -- url     : https://prove2.me/theorems/759bba6d-cc68-476e-9b21-a776c02e7a90

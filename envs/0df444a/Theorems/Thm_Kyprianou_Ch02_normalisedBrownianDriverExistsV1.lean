@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_normalisedBrownianDriverExistsV1
 -- name    : Kyprianou.Ch02.normalisedBrownianDriverExistsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:26:04.852015+00:00
 -- url     : https://prove2.me/theorems/d8ad8215-6906-471f-b34f-fb1e23f421e9
