@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_mixedGaussian_eq
 -- name    : DedekindZeta.Theta.mixedGaussian_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:54:43.7198+00:00
 -- url     : https://prove2.me/theorems/7959055b-8ed0-4703-99be-dd98a40d02d8

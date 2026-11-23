@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_DivisionValues_GluingInclusion_matLat_lattice__63e4ff29817d
 -- name    : P2M_Formalism_DivisionValues_GluingInclusion_matLat_lattice__63e4ff29817d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:08:33.626292+00:00
 -- url     : https://prove2.me/theorems/48b6cfd7-cb08-434c-b589-ae719486cdf3

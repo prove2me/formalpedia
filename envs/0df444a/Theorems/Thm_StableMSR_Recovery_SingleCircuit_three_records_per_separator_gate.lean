@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleCircuit_three_records_per_separator_gate
 -- name    : StableMSR.Recovery.SingleCircuit.three_records_per_separator_gate
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T00:04:33.920795+00:00
 -- url     : https://prove2.me/theorems/37b9a10f-8c8e-4b5a-be52-b67ae6265604

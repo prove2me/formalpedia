@@ -18282,10 +18282,10 @@
 {"parent": "BilateralRegret.term_II", "child": "BilateralRegret_sbPrice", "via": ["statement"]}
 {"parent": "CongestionTaxes.c_convex", "child": "CongestionTaxes_Assumption1", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.exists_maximum_planar_supergraph__p2m_c11f1659_d0fc_4751_a84f_f498781343a5_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "BayesClock.equation_1", "child": "BayesClock_OPT", "via": ["statement"]}
-{"parent": "BayesClock.equation_1", "child": "BayesClock_IsDownwardClosed", "via": ["statement"]}
-{"parent": "BayesClock.equation_1", "child": "BayesClock_LowHighTerms", "via": ["statement"]}
-{"parent": "BayesClock.equation_1", "child": "BayesClock_maximalSets", "via": ["statement"]}
+{"parent": "BayesClock.equation_1", "child": "BayesClock_OPT", "via": ["solution", "statement"]}
+{"parent": "BayesClock.equation_1", "child": "BayesClock_IsDownwardClosed", "via": ["solution", "statement"]}
+{"parent": "BayesClock.equation_1", "child": "BayesClock_LowHighTerms", "via": ["solution", "statement"]}
+{"parent": "BayesClock.equation_1", "child": "BayesClock_maximalSets", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_49e59269_0942_49a7_bb42_8d7dcf799486_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "ProjFPOracle.lemma_6", "child": "ProjFPOracle_Assumption1W", "via": ["statement"]}
 {"parent": "ProjFPOracle.lemma_6", "child": "ProjFPOracle_vbar", "via": ["statement"]}
@@ -31848,10 +31848,10 @@
 {"parent": "RecoveringBandits.lemma_3", "child": "RecoveringBandits_supp", "via": ["statement"]}
 {"parent": "RecoveringBandits.lemma_3", "child": "RecoveringBandits_roundUp", "via": ["statement"]}
 {"parent": "RecoveringBandits.lemma_3", "child": "RecoveringBandits_F", "via": ["statement"]}
-{"parent": "AdditiveConvexity.lemma_1", "child": "AdditiveConvexity_chainDomain", "via": ["statement"]}
-{"parent": "AdditiveConvexity.lemma_1", "child": "AdditiveConvexity_IncreasingInCoord", "via": ["statement"]}
-{"parent": "AdditiveConvexity.lemma_1", "child": "AdditiveConvexity_transformSet", "via": ["statement"]}
-{"parent": "AdditiveConvexity.lemma_1", "child": "AdditiveConvexity_serialSet", "via": ["statement"]}
+{"parent": "AdditiveConvexity.lemma_1", "child": "AdditiveConvexity_chainDomain", "via": ["solution", "statement"]}
+{"parent": "AdditiveConvexity.lemma_1", "child": "AdditiveConvexity_IncreasingInCoord", "via": ["solution", "statement"]}
+{"parent": "AdditiveConvexity.lemma_1", "child": "AdditiveConvexity_transformSet", "via": ["solution", "statement"]}
+{"parent": "AdditiveConvexity.lemma_1", "child": "AdditiveConvexity_serialSet", "via": ["solution", "statement"]}
 {"parent": "PerfCorrMSQ.proposition_5_1", "child": "PerfCorrMSQ_Scaled", "via": ["statement"]}
 {"parent": "PerfCorrMSQ.proposition_5_1", "child": "ErlangA_Diffusion_SDE", "via": ["statement"]}
 {"parent": "PerfCorrMSQ.proposition_5_1", "child": "PuhaWardFluid_Limit_Paths", "via": ["statement"]}
@@ -55052,10 +55052,10 @@
 {"parent": "BFVBound.bfv_cubic_sharp", "child": "QuantumMaxCutBFVProductRounding", "via": ["solution", "statement"]}
 {"parent": "SalesEffort.delta_one_lower", "child": "SalesEffort_Model", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_06_original_two_predictable_weights_variance_factorisation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "OnlineSaddlePoint.theorem_1", "child": "OnlineSaddlePoint_IsStronglyConvexConcaveOn", "via": ["statement"]}
-{"parent": "OnlineSaddlePoint.theorem_1", "child": "OnlineSaddlePoint_IsLipschitzPayoff", "via": ["statement"]}
-{"parent": "OnlineSaddlePoint.theorem_1", "child": "OnlineSaddlePoint_spRegret", "via": ["statement"]}
-{"parent": "OnlineSaddlePoint.theorem_1", "child": "OnlineSaddlePoint_IsSPFTLRun", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.theorem_1", "child": "OnlineSaddlePoint_IsStronglyConvexConcaveOn", "via": ["solution", "statement"]}
+{"parent": "OnlineSaddlePoint.theorem_1", "child": "OnlineSaddlePoint_IsLipschitzPayoff", "via": ["solution", "statement"]}
+{"parent": "OnlineSaddlePoint.theorem_1", "child": "OnlineSaddlePoint_spRegret", "via": ["solution", "statement"]}
+{"parent": "OnlineSaddlePoint.theorem_1", "child": "OnlineSaddlePoint_IsSPFTLRun", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_02_original_BV_initial_atom_discounted_grid_sampled_nonnegative_budget", "child": "AvramDividend.Classical.avram_wave7_02_original_BV_discounted_full_right_dividend_grid_sampled_nonnegative_budget", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_02_original_BV_initial_atom_discounted_grid_sampled_nonnegative_budget", "child": "AvramDividend.Classical.avram_wave7_02_original_initial_postpayment_HJB_value_and_full_stieltjes_singleton", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_02_original_BV_initial_atom_discounted_grid_sampled_nonnegative_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}

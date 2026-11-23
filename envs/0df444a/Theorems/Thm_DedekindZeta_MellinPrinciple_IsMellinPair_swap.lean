@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_MellinPrinciple_IsMellinPair_swap
 -- name    : DedekindZeta.MellinPrinciple.IsMellinPair.swap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:47:09.606052+00:00
 -- url     : https://prove2.me/theorems/90a26b2f-b16f-483a-bc11-fb7695915580

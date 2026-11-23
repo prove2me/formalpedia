@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_stageValue_draw
 -- name    : Csg.rpsCSG_stageValue_draw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:43:15.73428+00:00
 -- url     : https://prove2.me/theorems/d65c6372-a47e-4a73-acba-32cd39f9a101

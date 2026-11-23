@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_isZLattice_idealLattice
 -- name    : DedekindZeta.Theta.isZLattice_idealLattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:54:09.749447+00:00
 -- url     : https://prove2.me/theorems/bbb9016a-7c2e-416e-933b-772353281f23

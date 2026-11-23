@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_lStepF_eq
 -- name    : Comp.ModelData.lStepF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:46:45.971812+00:00
 -- url     : https://prove2.me/theorems/0f91143c-2578-4ccd-8f71-629f37e9cb95

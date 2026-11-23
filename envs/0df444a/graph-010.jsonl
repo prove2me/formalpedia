@@ -68180,7 +68180,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Gap20.P04.generalizedDephasingStructure", "child": "QAlgorithms_Papers_Independent_Gap20_P04", "via": ["solution", "statement"]}
 {"parent": "NCPSeqOpt.AugLag.proof_4_1_bounded_multipliers", "child": "MoreauProx_Decomposition_Cones", "via": ["solution", "statement"]}
 {"parent": "NCPSeqOpt.AugLag.proof_4_1_bounded_multipliers", "child": "NCPSeqOpt_AugLag_Setting", "via": ["solution", "statement"]}
-{"parent": "TailRiskTheory.Generator.lemma_B1_i", "child": "TailRiskTheory_Generator_Model", "via": ["statement"]}
+{"parent": "TailRiskTheory.Generator.lemma_B1_i", "child": "TailRiskTheory_Generator_Model", "via": ["solution", "statement"]}
 {"parent": "PriorityAlloc.DAFlex.eq_H_2", "child": "PriorityAlloc_DAFlex_Model", "via": ["solution", "statement"]}
 {"parent": "MoreauChance.Consistency.theorem_5_4", "child": "MoreauChance_Consistency_Basic", "via": ["statement"]}
 {"parent": "MoreauChance.Consistency.theorem_5_4", "child": "MoreauChance_Consistency_Setting", "via": ["solution", "statement"]}
@@ -69304,7 +69304,7 @@
 {"parent": "RamanujanLostNotebook_PartI_ch14_ch14A", "child": "RamanujanLostNotebook_PartI_ch14_ch14Chi3", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.chat03_killed_scale_grid_optional_stopping_of_martingale", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "FMLPricing.BranchBound.proposition_7", "child": "FMLPricing_BranchBound_Model", "via": ["solution", "statement"]}
-{"parent": "TailRiskTheory.Generator.lemma_B1_iii", "child": "TailRiskTheory_Generator_Model", "via": ["statement"]}
+{"parent": "TailRiskTheory.Generator.lemma_B1_iii", "child": "TailRiskTheory_Generator_Model", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.causal_volterra_primitive_from_derivative_resolvent", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.causal_volterra_primitive_from_derivative_resolvent", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "BudgetMgmt.Profit.lemma_B_3", "child": "BudgetMgmt_Profit_Model", "via": ["solution", "statement"]}

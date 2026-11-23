@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_goldenRatio_ge
 -- name    : SumProduct.goldenRatio_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:55:52.819397+00:00
 -- url     : https://prove2.me/theorems/8402858d-d456-4891-9097-13b6e2bc25f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleSearch_singleton_labelled_component_language
 -- name    : StableMSR.Recovery.SingleSearch.singleton_labelled_component_language
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T23:59:38.817801+00:00
 -- url     : https://prove2.me/theorems/d28b77a5-cf77-4f8a-9e83-da95cb859762

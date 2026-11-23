@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_inv_inv_real_smul
 -- name    : Formalism.DivisionValues.inv_inv_real_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:08:12.039478+00:00
 -- url     : https://prove2.me/theorems/b94f0129-7202-47c8-abce-c9aa7aac3bd5

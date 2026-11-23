@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_isUnitIn_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.isUnitIn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:09:22.712943+00:00
 -- url     : https://prove2.me/theorems/cef5e3ea-f4bd-4de8-a01f-7f0c6cfbf674

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleSearch_singleton_tight_block_progress
 -- name    : StableMSR.Recovery.SingleSearch.singleton_tight_block_progress
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T23:59:22.97197+00:00
 -- url     : https://prove2.me/theorems/9af9ba33-7a75-441c-a960-8613348797b0

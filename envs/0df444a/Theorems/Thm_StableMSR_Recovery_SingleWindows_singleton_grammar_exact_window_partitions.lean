@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleWindows_singleton_grammar_exact_window_partitions
 -- name    : StableMSR.Recovery.SingleWindows.singleton_grammar_exact_window_partitions
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T00:03:17.107713+00:00
 -- url     : https://prove2.me/theorems/bf452bd2-91ff-4e0a-8560-31bacde95f3f

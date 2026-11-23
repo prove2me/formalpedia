@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_coe_iter_le_afInner
 -- name    : Comp.CsgQ.coe_iter_le_afInner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:08:07.393892+00:00
 -- url     : https://prove2.me/theorems/fe868605-3fbe-48ef-8b2c-d372a6e76a85

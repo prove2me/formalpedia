@@ -1658,7 +1658,7 @@
 {"parent": "ThreeSum.LightDownsetAddress.program_procs", "child": "ThreeSum.LightSubsetSetup.program_procs", "via": ["statement"]}
 {"parent": "ThreeSum.LightDownsetAddress.program_procs", "child": "Submission_ThreeSum_LightDownsetAddress", "via": ["solution", "statement"]}
 {"parent": "OAI.FreeGroupFactorMain.WeightedFock.pRightEdge_mem_weightedCommutant", "child": "FreeGroupFactorProof18", "via": ["solution", "statement"]}
-{"parent": "ReverseLogisticsNEBS.proposition_1", "child": "ReverseLogisticsNEBS_Inst", "via": ["statement"]}
+{"parent": "ReverseLogisticsNEBS.proposition_1", "child": "ReverseLogisticsNEBS_Inst", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightCacheEnumeration.visits_low_succ", "child": "Submission_Weighted_LightEnumeration", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightCacheEnumeration.visits_low_succ", "child": "Submission_ThreeSum_LightSubsetEnumeration", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightCacheEnumeration.visits_low_succ", "child": "Submission_Weighted_Addresses", "via": ["solution", "statement"]}

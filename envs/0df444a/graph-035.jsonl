@@ -99551,7 +99551,7 @@
 {"parent": "RH1E6S04.part_015_0", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04.part_015_0", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S05_D036_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "MasulloAudit.trace_formula_rational_source_form", "child": "MasulloRH_RationalTrace", "via": ["statement"]}
+{"parent": "MasulloAudit.trace_formula_rational_source_form", "child": "MasulloRH_RationalTrace", "via": ["solution", "statement"]}
 {"parent": "SourceProof_f993fbc9ff9a1b70b006b96e", "child": "LevyStochCalc_Poisson_ProfileCharacter_F001", "via": ["statement"]}
 {"parent": "SourceProof_98f8d351dfc96ce2a734c0bf", "child": "SourceProof_64b57ddfa082ba813e2cbaf7", "via": ["statement"]}
 {"parent": "SourceProof_98f8d351dfc96ce2a734c0bf", "child": "LevyStochCalc_Poisson_CompensatedDensityMarkApprox_F000", "via": ["statement"]}

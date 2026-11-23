@@ -3234,8 +3234,8 @@
 {"parent": "LevyStochCalc_Driver_CellConditionalIsometryPoisson_F000", "child": "LevyStochCalc_Driver_CellConditionalIsometry_F001", "via": ["statement"]}
 {"parent": "LevyStochCalc_Ito_PicardBieleckiNorm_F001", "child": "LevyStochCalc_Ito_PicardBieleckiNorm_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc_Ito_PicardBieleckiNorm_F001", "child": "SourceProof_18a36b239cd6db9b2d40a2d3", "via": ["statement"]}
-{"parent": "MasulloRH.omitted_spectral_mass_zero", "child": "ConnesRZ_weil_defs", "via": ["statement"]}
-{"parent": "MasulloRH.omitted_spectral_mass_zero", "child": "MasulloRH_RationalTrace", "via": ["statement"]}
+{"parent": "MasulloRH.omitted_spectral_mass_zero", "child": "ConnesRZ_weil_defs", "via": ["solution", "statement"]}
+{"parent": "MasulloRH.omitted_spectral_mass_zero", "child": "MasulloRH_RationalTrace", "via": ["solution", "statement"]}
 {"parent": "RH1E6S07_D011_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "LevyStochCalc.Brownian.Ito.eval_lintegral_sq_finite", "child": "LevyStochCalc_Brownian_ItoL2CompletionConvergence_F002", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05.part_019_3", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
@@ -46686,7 +46686,7 @@
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_RXPrimitiveC2QEndpoint_OldXAllOddCoreFirstCutStripOrder_QECert", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_RXPrimitiveC2QEndpoint_OldXAllOddCorePorts_QECert", "via": ["statement"]}
 {"parent": "MasulloGRH.strong_recurrence_inv_partial_euler", "child": "MasulloGRH_IdeleNorm", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.strong_recurrence_inv_partial_euler", "child": "MasulloGRH_MellinRpos", "via": ["statement"]}
-{"parent": "MasulloRH.sparse_subpower_square_prime_energy", "child": "MasulloRH_RegularizedTrace", "via": ["statement"]}
+{"parent": "MasulloRH.sparse_subpower_square_prime_energy", "child": "MasulloRH_RegularizedTrace", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06_D006_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S05_D050_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "LevyStochCalc_Driver_JointChaosComplex_F000", "child": "LevyStochCalc_Driver_JointChaosBlock_F000", "via": ["statement"]}
@@ -47231,7 +47231,7 @@
 {"parent": "RH1E6S06.group_015", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S06.group_015", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06.group_015", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "MasulloRH.logDeriv_on_strip_complement", "child": "MasulloRH_RegularizedTrace", "via": ["statement"]}
+{"parent": "MasulloRH.logDeriv_on_strip_complement", "child": "MasulloRH_RegularizedTrace", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04_D065_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S06.group_073", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S06.group_073", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
@@ -51791,7 +51791,7 @@
 {"parent": "LevyStochCalc_Brownian_ItoFiltrationChange_F001", "child": "LevyStochCalc_Brownian_ItoDriverLinear_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc_Brownian_ItoFiltrationChange_F001", "child": "LevyStochCalc_Brownian_ItoAlgebraAssociativity_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc_Brownian_ItoFiltrationChange_F001", "child": "SourceProof_d2f9dc9e3005aab0038c8983", "via": ["statement"]}
-{"parent": "MasulloRH.cofinal_one_sided_trace_windows", "child": "MasulloRH_RationalTrace", "via": ["statement"]}
+{"parent": "MasulloRH.cofinal_one_sided_trace_windows", "child": "MasulloRH_RationalTrace", "via": ["solution", "statement"]}
 {"parent": "HodgeComputer.FourPlusTwoResidual.degreeSix_coreCertificate_iff_strict", "child": "HodgeComputerFourPlusTwoCore", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04.part_048_1", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S04.part_048_1", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}

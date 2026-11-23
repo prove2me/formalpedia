@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinVolEllipsoid_eq_9
 -- name    : MinVolEllipsoid.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:46:16.241493+00:00
 -- url     : https://prove2.me/theorems/a780d631-d1c3-4e09-a11b-106a08928880

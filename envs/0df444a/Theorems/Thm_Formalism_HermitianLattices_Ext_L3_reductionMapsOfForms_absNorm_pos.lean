@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_reductionMapsOfForms_absNorm_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.reductionMapsOfForms.absNorm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:05:35.058924+00:00
 -- url     : https://prove2.me/theorems/859321c5-7f7a-42a7-81f3-3080ac85fb1e

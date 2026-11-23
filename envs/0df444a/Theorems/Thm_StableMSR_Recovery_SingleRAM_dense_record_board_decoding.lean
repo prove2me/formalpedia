@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleRAM_dense_record_board_decoding
 -- name    : StableMSR.Recovery.SingleRAM.dense_record_board_decoding
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T00:09:15.63959+00:00
 -- url     : https://prove2.me/theorems/8a4579b0-3bd5-406c-8a9d-b598ae076e85

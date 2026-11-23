@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_frobenius_norm_rational
 -- name    : Formalism.DivisionValues.frobenius_norm_rational
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:05:44.584935+00:00
 -- url     : https://prove2.me/theorems/a4b6f9df-0c8d-493f-935b-bb5fd25fd20f

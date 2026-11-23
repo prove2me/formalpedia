@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_idealLattice_eq_comap
 -- name    : DedekindZeta.Theta.idealLattice_eq_comap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:54:10.819095+00:00
 -- url     : https://prove2.me/theorems/9ff9061e-567f-4718-9b6c-7e48992a015d

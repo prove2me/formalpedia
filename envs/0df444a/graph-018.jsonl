@@ -31740,7 +31740,7 @@
 {"parent": "AvramDividend.Classical.avram_p2_l_mesh_full_grid_local_mark_continuity", "child": "AvramDividend.Classical.avram_p2_h_cadlag_any_right_closed_uniform_locator_has_sided_limits", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_l_mesh_full_grid_local_mark_continuity", "child": "AvramDividend.Classical.avram_p2_h_cadlag_generic_finite_large_jumps_on_horizon", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_l_mesh_full_grid_local_mark_continuity", "child": "AvramDividend.Classical.avram_p2_h_cadlag_uniform_test_zero_outside_all_large_jump_cells", "via": ["solution", "statement"]}
-{"parent": "ResAllocGaps.hindsight_ge_online", "child": "ResAllocGaps_OnlinePolicy", "via": ["statement"]}
+{"parent": "ResAllocGaps.hindsight_ge_online", "child": "ResAllocGaps_OnlinePolicy", "via": ["solution", "statement"]}
 {"parent": "WidthK.Refine.maskP_nil_right", "child": "SparsifyWidthK_Interfaces", "via": ["solution", "statement"]}
 {"parent": "WidthK.Refine.maskP_nil_right", "child": "SparsifyWidthK_Refine", "via": ["solution", "statement"]}
 {"parent": "WidthK.Refine.maskP_nil_right", "child": "StepMachines_Math_SparsifyProg", "via": ["solution", "statement"]}

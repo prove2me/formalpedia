@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_idealPowerSpanBounds_map_pow_le_span_sup
 -- name    : Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.map_pow_le_span_sup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:55:46.997576+00:00
 -- url     : https://prove2.me/theorems/99abe03e-76a2-4992-ad90-5f9a737f095f

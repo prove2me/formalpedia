@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_expect_initial
 -- name    : Csg.rpsCSG_expect_initial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:17:07.14703+00:00
 -- url     : https://prove2.me/theorems/e3ba6f9e-85e3-4da6-b969-38bb2c49aef4

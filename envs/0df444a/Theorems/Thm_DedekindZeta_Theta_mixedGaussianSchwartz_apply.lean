@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_mixedGaussianSchwartz_apply
 -- name    : DedekindZeta.Theta.mixedGaussianSchwartz_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:51:14.467374+00:00
 -- url     : https://prove2.me/theorems/3d97c687-9eb8-4567-ba4b-6cfffb50bfee

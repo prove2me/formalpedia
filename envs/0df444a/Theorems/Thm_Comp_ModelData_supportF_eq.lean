@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_supportF_eq
 -- name    : Comp.ModelData.supportF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:38:20.397084+00:00
 -- url     : https://prove2.me/theorems/dd1d3bf3-39ec-4356-9c73-492e24ab12da

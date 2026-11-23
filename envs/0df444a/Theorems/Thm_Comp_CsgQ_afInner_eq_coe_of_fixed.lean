@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_afInner_eq_coe_of_fixed
 -- name    : Comp.CsgQ.afInner_eq_coe_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:58:31.137684+00:00
 -- url     : https://prove2.me/theorems/004921fb-c82f-4eb0-a273-2cd160252678

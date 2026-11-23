@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_bF_eq_univ_iff
 -- name    : Comp.ModelData.bF_eq_univ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:46:19.171295+00:00
 -- url     : https://prove2.me/theorems/31bfc7e7-f09c-41bd-9aec-79c20797d2e1

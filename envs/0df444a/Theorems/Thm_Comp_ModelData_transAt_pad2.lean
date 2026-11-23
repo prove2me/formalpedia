@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_transAt_pad2
 -- name    : Comp.ModelData.transAt_pad2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:52:42.54483+00:00
 -- url     : https://prove2.me/theorems/5181f226-f2fe-40e4-be14-de58be63d251

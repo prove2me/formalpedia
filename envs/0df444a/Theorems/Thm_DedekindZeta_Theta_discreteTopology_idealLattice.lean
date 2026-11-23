@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_discreteTopology_idealLattice
 -- name    : DedekindZeta.Theta.discreteTopology_idealLattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:54:04.431796+00:00
 -- url     : https://prove2.me/theorems/1ce5a6ba-6681-48f0-bdf4-539d89141849

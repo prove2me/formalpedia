@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_padFin1_eq_self
 -- name    : Comp.ModelData.padFin1_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:52:00.916112+00:00
 -- url     : https://prove2.me/theorems/0d93573c-e285-4819-a9ab-654ead3d312b

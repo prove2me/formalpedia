@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesClock_equation_1
 -- name    : BayesClock.equation_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:15:12.22921+00:00
 -- url     : https://prove2.me/theorems/57697d5f-0475-488b-ba6a-c45682ffafb1

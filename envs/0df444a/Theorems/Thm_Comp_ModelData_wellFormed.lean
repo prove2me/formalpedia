@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_wellFormed
 -- name    : Comp.ModelData.wellFormed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:37:22.970804+00:00
 -- url     : https://prove2.me/theorems/ef43e392-2498-4e64-ac0e-4710fd48f66e

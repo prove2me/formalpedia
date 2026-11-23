@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_bF_eq
 -- name    : Comp.ModelData.bF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:42:29.670578+00:00
 -- url     : https://prove2.me/theorems/2143e41d-37f5-4e3e-898a-d6b3e6601010

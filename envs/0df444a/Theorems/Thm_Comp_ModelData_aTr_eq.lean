@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_aTr_eq
 -- name    : Comp.ModelData.aTr_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:46:15.807903+00:00
 -- url     : https://prove2.me/theorems/9bd8294d-3911-4f49-b2ed-73c14a728eca

@@ -36075,7 +36075,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm1_0_0_5.sums_eq_g", "child": "OAIQ098G937", "via": ["solution", "statement"]}
 {"parent": "BarelyTestable.LowerBound.soundness", "child": "BarelyTestable_LowerBound_Construction", "via": ["statement"]}
 {"parent": "RankingQueryCost_Joint_Flow", "child": "RankingQueryCost_Joint_Scale", "via": ["statement"]}
-{"parent": "OptimalTraceDistance.Estimation.lemma_B_1", "child": "OptimalTraceDistance_Estimation_Algorithm2", "via": ["statement"]}
+{"parent": "OptimalTraceDistance.Estimation.lemma_B_1", "child": "OptimalTraceDistance_Estimation_Algorithm2", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_top11_original_zero_nu_global_continuous_ae", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "ChoresTIE197.Main.theorem_3_5", "child": "ChoresTIE197_Main_Families", "via": ["statement"]}
 {"parent": "TarskiQuasiFPT.UpperBound.lemma_3", "child": "TarskiQuasiFPT_UpperBound_Grid", "via": ["statement"]}
@@ -40426,7 +40426,7 @@
 {"parent": "DSICCompComp.lemma_B_5", "child": "DSICCompComp_hardDist", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm12_1_1_13.s5_eq_g", "child": "OAIQ098G818", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm12_1_1_13.s5_eq_g", "child": "OAIQ098G813", "via": ["solution", "statement"]}
-{"parent": "LocalProbeMIS871.Greedy.lemma_3_3", "child": "LocalProbeMIS871_Greedy_Elimination", "via": ["statement"]}
+{"parent": "LocalProbeMIS871.Greedy.lemma_3_3", "child": "LocalProbeMIS871_Greedy_Elimination", "via": ["solution", "statement"]}
 {"parent": "PhyloCSP.equation_2", "child": "PhyloCSP_Consistent", "via": ["statement"]}
 {"parent": "PhyloCSP.equation_2", "child": "PhyloCSP_pPred", "via": ["statement"]}
 {"parent": "RobustFracMP.lemma_3_7", "child": "RobustFracMP_mpRadius", "via": ["statement"]}
@@ -46054,7 +46054,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.tm1_25_1.s4_eq_g", "child": "OAIQ098G1552", "via": ["solution", "statement"]}
 {"parent": "CountingLLL_DetCount_Expansion", "child": "CountingLLL_DetCount_CSP", "via": ["statement"]}
 {"parent": "CountingLLL_DetCount_Expansion", "child": "CountingLLL_DetCount_TwoTree", "via": ["statement"]}
-{"parent": "LocalProbeMIS871.Greedy.theorem_1_1", "child": "LocalProbeMIS871_Greedy_Elimination", "via": ["statement"]}
+{"parent": "LocalProbeMIS871.Greedy.theorem_1_1", "child": "LocalProbeMIS871_Greedy_Elimination", "via": ["solution", "statement"]}
 {"parent": "LowRandomnessDP.KNorm.theorem_2_10", "child": "LowRandomnessDP_KNorm_Sampling", "via": ["statement"]}
 {"parent": "OnlineRealSampling.Exact.proposition_6_1", "child": "OnlineRealSampling_Exact_Online", "via": ["statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalScaleVector_le_caps", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ScaleCaps", "via": ["solution", "statement"]}

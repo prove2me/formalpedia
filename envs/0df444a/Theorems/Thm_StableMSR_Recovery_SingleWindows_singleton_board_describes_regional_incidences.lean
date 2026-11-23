@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleWindows_singleton_board_describes_regional_incidences
 -- name    : StableMSR.Recovery.SingleWindows.singleton_board_describes_regional_incidences
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T00:03:16.877372+00:00
 -- url     : https://prove2.me/theorems/f47b9553-c869-4e53-a792-685e5add3145

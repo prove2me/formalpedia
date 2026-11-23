@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_idxChange_sum_smul_act
 -- name    : Formalism.DivisionValues.idxChange_sum_smul_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:06:37.94879+00:00
 -- url     : https://prove2.me/theorems/37409fbc-b6f0-43d4-ad24-1d6a015767d5

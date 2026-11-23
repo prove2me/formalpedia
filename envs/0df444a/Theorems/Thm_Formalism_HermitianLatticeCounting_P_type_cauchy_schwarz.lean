@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_type_cauchy_schwarz
 -- name    : Formalism.HermitianLatticeCounting.P.type_cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:08:15.973342+00:00
 -- url     : https://prove2.me/theorems/d22e7903-0935-42a0-b31a-addabf9e31fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_answers_sureSafe
 -- name    : Comp.CsgQ.answers_sureSafe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:35:42.915741+00:00
 -- url     : https://prove2.me/theorems/fc5b3a2f-6e16-4379-a4bb-35659adf0e19

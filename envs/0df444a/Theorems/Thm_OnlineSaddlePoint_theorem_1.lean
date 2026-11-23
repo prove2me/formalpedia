@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineSaddlePoint_theorem_1
 -- name    : OnlineSaddlePoint.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:14:08.695578+00:00
 -- url     : https://prove2.me/theorems/1f586430-3f11-4da4-8af0-abe425b65c8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleRAM_native_circuit_record_emitter
 -- name    : StableMSR.Recovery.SingleRAM.native_circuit_record_emitter
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T00:09:19.077577+00:00
 -- url     : https://prove2.me/theorems/c77e1dfe-32df-4d34-9462-796a56427274

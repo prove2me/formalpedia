@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_isUnitIn_algebraMap_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.isUnitIn_algebraMap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:09:25.893848+00:00
 -- url     : https://prove2.me/theorems/460de65a-c23d-4e7e-99b2-2f21dff49f16

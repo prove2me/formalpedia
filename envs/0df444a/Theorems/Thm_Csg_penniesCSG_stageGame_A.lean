@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_penniesCSG_stageGame_A
 -- name    : Csg.penniesCSG_stageGame_A
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:14:41.882083+00:00
 -- url     : https://prove2.me/theorems/e8b203ed-fd32-4019-ac99-489a0036ecff

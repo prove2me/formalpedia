@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_idxChange_cnt_ideal_zero
 -- name    : Formalism.DivisionValues.idxChange_cnt_ideal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:06:12.911662+00:00
 -- url     : https://prove2.me/theorems/d8214dbc-1850-4b46-a713-5f4d0c40e073

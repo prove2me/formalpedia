@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleSearch_deletion_piece_geometry
 -- name    : StableMSR.Recovery.SingleSearch.deletion_piece_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T23:59:26.234794+00:00
 -- url     : https://prove2.me/theorems/07d11d1c-8a8f-49e0-b318-c33cabcda1fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_idxChange_linIndep_act
 -- name    : Formalism.DivisionValues.idxChange_linIndep_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:06:20.468218+00:00
 -- url     : https://prove2.me/theorems/51cba165-b397-4283-a3be-0a598b3dceb4

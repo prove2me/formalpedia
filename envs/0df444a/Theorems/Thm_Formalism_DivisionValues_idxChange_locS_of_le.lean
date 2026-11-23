@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_idxChange_locS_of_le
 -- name    : Formalism.DivisionValues.idxChange_locS_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:06:35.168452+00:00
 -- url     : https://prove2.me/theorems/8540cd57-491b-4756-97dc-1e7e118e8cff

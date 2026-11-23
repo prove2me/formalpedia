@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_traceFormLin_mixedEmbedding
 -- name    : DedekindZeta.Theta.traceFormLin_mixedEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:54:00.005977+00:00
 -- url     : https://prove2.me/theorems/6c09e33b-a9a3-4ff0-a49e-b83c94197b21

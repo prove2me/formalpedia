@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_reachBounded_initial_zero
 -- name    : Csg.rpsCSG_reachBounded_initial_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:18:55.856943+00:00
 -- url     : https://prove2.me/theorems/8d01238b-ebef-4b9a-91b8-d938821decf9

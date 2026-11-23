@@ -80824,10 +80824,10 @@
 {"parent": "APFPaper5.K2.exists_rearranges_of_nothingDrawn", "child": "APFPaper5.K1.orientationForm_zero_of_symm", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.exists_rearranges_of_nothingDrawn", "child": "APFPaper5.K1.tableForm_isBilinear", "via": ["solution", "statement"]}
 {"parent": "QCollLB_Supplement_testProb", "child": "QCollLB_OneRound", "via": ["statement"]}
-{"parent": "CalibeatBandit.Supplement.theorem_3_6", "child": "CalibeatBandit_rewardLoss", "via": ["statement"]}
-{"parent": "CalibeatBandit.Supplement.theorem_3_6", "child": "CalibeatBandit_swapRegret", "via": ["statement"]}
-{"parent": "CalibeatBandit.Supplement.theorem_3_6", "child": "CalibeatBandit_Supplement_QProtocolRun", "via": ["statement"]}
-{"parent": "CalibeatBandit.Supplement.theorem_3_6", "child": "CalibeatBandit_IsProbVec", "via": ["statement"]}
+{"parent": "CalibeatBandit.Supplement.theorem_3_6", "child": "CalibeatBandit_rewardLoss", "via": ["solution", "statement"]}
+{"parent": "CalibeatBandit.Supplement.theorem_3_6", "child": "CalibeatBandit_swapRegret", "via": ["solution", "statement"]}
+{"parent": "CalibeatBandit.Supplement.theorem_3_6", "child": "CalibeatBandit_Supplement_QProtocolRun", "via": ["solution", "statement"]}
+{"parent": "CalibeatBandit.Supplement.theorem_3_6", "child": "CalibeatBandit_IsProbVec", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLowSlabFourteenthCell07", "child": "row23_rh_supp_RHLowSlabFourteenthPilot", "via": ["statement"]}
 {"parent": "APFPaper5.K3.Carrying.difference_of_two_ways_with_the_same_ends", "child": "APFPaper5_K3_what_a_charge_on_carrying_does_Vocabulary", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg25688", "child": "OAIQ259US007", "via": ["statement"]}

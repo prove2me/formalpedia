@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdditiveConvexity_lemma_1
 -- name    : AdditiveConvexity.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:50:53.574623+00:00
 -- url     : https://prove2.me/theorems/d7b0d246-567f-48ff-8e22-96220a4ccdb7

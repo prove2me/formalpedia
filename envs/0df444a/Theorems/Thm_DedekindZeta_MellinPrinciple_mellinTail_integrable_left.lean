@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_MellinPrinciple_mellinTail_integrable_left
 -- name    : DedekindZeta.MellinPrinciple.mellinTail_integrable_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:55:20.459881+00:00
 -- url     : https://prove2.me/theorems/a4ce6d6f-4596-4a50-8146-c755cbf641b9

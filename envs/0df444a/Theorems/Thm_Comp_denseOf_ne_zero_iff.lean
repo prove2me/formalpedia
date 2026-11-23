@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_denseOf_ne_zero_iff
 -- name    : Comp.denseOf_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:48:07.36279+00:00
 -- url     : https://prove2.me/theorems/a7bee103-6c5a-4881-88c5-5612fc1f7805

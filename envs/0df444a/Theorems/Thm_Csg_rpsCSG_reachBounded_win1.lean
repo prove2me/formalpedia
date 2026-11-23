@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_reachBounded_win1
 -- name    : Csg.rpsCSG_reachBounded_win1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:17:16.920163+00:00
 -- url     : https://prove2.me/theorems/63df9e3f-ae7d-4cff-bbad-37a71774b335

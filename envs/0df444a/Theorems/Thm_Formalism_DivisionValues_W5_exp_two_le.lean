@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W5_exp_two_le
 -- name    : Formalism.DivisionValues.W5.exp_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:07:28.418744+00:00
 -- url     : https://prove2.me/theorems/a78138d7-d36c-42db-bef1-fa1cb609b16a

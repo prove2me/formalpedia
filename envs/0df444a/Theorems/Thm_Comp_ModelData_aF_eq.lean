@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_aF_eq
 -- name    : Comp.ModelData.aF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:46:33.836076+00:00
 -- url     : https://prove2.me/theorems/8ed9b259-d064-4df2-89e9-ff40b511fc39

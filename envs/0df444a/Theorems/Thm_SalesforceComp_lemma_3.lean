@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesforceComp_lemma_3
 -- name    : SalesforceComp.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:25:21.968433+00:00
 -- url     : https://prove2.me/theorems/05bd6977-e8e4-4031-9399-5ff573dfe4ed

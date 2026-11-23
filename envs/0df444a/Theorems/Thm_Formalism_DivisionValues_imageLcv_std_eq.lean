@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_imageLcv_std_eq
 -- name    : Formalism.DivisionValues.imageLcv_std_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:07:56.171875+00:00
 -- url     : https://prove2.me/theorems/d1b25365-ab61-4f18-83eb-4638891f2721

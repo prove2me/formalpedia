@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W8_log_nat_le
 -- name    : Formalism.DivisionValues.W8.log_nat_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:05:41.71103+00:00
 -- url     : https://prove2.me/theorems/30296c42-6e0c-4f39-98d3-649575d556a8

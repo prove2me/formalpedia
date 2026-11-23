@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stageB_dn
 -- name    : stageB_dn
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T23:54:44.114486+00:00
 -- url     : https://prove2.me/theorems/2394d9d3-d582-49b6-9093-ebd0ef361a06

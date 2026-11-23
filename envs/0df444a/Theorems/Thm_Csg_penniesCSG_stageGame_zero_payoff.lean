@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_penniesCSG_stageGame_zero_payoff
 -- name    : Csg.penniesCSG_stageGame_zero_payoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:14:41.36968+00:00
 -- url     : https://prove2.me/theorems/9476b0d5-cf56-4bf0-8df6-cb11432dac65

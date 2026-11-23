@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleRAM_fixed_circuit_packing_expressions
 -- name    : StableMSR.Recovery.SingleRAM.fixed_circuit_packing_expressions
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T00:08:47.920022+00:00
 -- url     : https://prove2.me/theorems/cd330d38-a9c1-4c34-bce4-bf13734a9ad0

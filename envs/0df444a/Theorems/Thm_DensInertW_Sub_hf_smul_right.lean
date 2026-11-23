@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_DensInertW_Sub_hf_smul_right
+-- name    : DensInertW.Sub.hf_smul_right
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T00:19:52.932805+00:00
+-- url     : https://prove2.me/theorems/ae53aa60-705d-4c8b-a363-7d840feef379
+-- title:
+--   Sub: hf smul right
+-- statement:
+--   The Sub construction uses the hf smul right property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/InertDensity/FinrankInfKerAddOne.lean#L53-L57
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/InertDensity/FinrankInfKerAddOne.lean#L53-L57
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_AnisoPeelAlt
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_FinrankInfKerAddOne
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset Module
+open DensInertW DensInertW.Sub
+variable {L : Type} [Field L]
+variable {n : ℕ} {q : ℕ} {M : Matrix (Fin n) (Fin n) L}
+
+theorem DensInertW.Sub.hf_smul_right (x : Fin n → L) (c : L) (y : Fin n → L) :
+    hf q M x (c • y) = c ^ q * hf q M x y := by sorry

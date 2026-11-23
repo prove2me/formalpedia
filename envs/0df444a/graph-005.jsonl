@@ -12913,8 +12913,8 @@
 {"parent": "actuarial_c_first_year_death", "child": "actuarial_c_death", "via": ["solution", "statement"]}
 {"parent": "actuarial_c_first_year_death", "child": "actuarial_c_path", "via": ["solution", "statement"]}
 {"parent": "actuarial_c_first_year_death", "child": "actuarial_c_epv", "via": ["solution", "statement"]}
-{"parent": "LindelofHypothesis.mu_half_le_thirteen_div_eightyfour", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["statement"]}
-{"parent": "LindelofHypothesis.mu_half_le_thirteen_div_eightyfour", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["statement"]}
+{"parent": "LindelofHypothesis.mu_half_le_thirteen_div_eightyfour", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["solution", "statement"]}
+{"parent": "LindelofHypothesis.mu_half_le_thirteen_div_eightyfour", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["solution", "statement"]}
 {"parent": "PeriodicMAB.Upper.lemma_10", "child": "PeriodicMAB_Upper_Spectral", "via": ["solution", "statement"]}
 {"parent": "PeriodicMAB.Upper.lemma_10", "child": "PeriodicMAB_Upper_Policy", "via": ["solution", "statement"]}
 {"parent": "PeriodicMAB.Upper.lemma_10", "child": "PeriodicMAB_Upper_Model", "via": ["solution", "statement"]}
@@ -13409,8 +13409,8 @@
 {"parent": "StableMatching.stable_matchings_distribLattice", "child": "StableMatching_GaleShapley", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Nannicini.sparse_blockEncoding", "child": "QAlgorithms_Defs_BlockEncoding", "via": ["statement"]}
 {"parent": "QAlgorithms.Nannicini.sparse_blockEncoding", "child": "QAlgorithms_Nannicini_Ch07a_Model", "via": ["statement"]}
-{"parent": "LindelofHypothesis.ingham_primeGap_of_lindelof", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["statement"]}
-{"parent": "LindelofHypothesis.ingham_primeGap_of_lindelof", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["statement"]}
+{"parent": "LindelofHypothesis.ingham_primeGap_of_lindelof", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["solution", "statement"]}
+{"parent": "LindelofHypothesis.ingham_primeGap_of_lindelof", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["solution", "statement"]}
 {"parent": "SpectralGapConjecture.bourgain_gamburd_SU2", "child": "SpectralGapConjecture_HeckeSU", "via": ["statement"]}
 {"parent": "ChapterFreeFieldBornFiberBounds", "child": "ChapterFreeFieldBornQuotient", "via": ["statement"]}
 {"parent": "ChapterFreeFieldBornFiberBounds", "child": "ChapterFreeFieldBornSurj", "via": ["statement"]}
@@ -16299,8 +16299,8 @@
 {"parent": "ContJRP.Align.lemma_2_4_component_coefficients", "child": "ContJRP_Align_Policy", "via": ["solution", "statement"]}
 {"parent": "ContJRP.Align.lemma_2_4_component_coefficients", "child": "ContJRP_Align_Model", "via": ["solution", "statement"]}
 {"parent": "ContJRP.Align.lemma_2_4_component_coefficients", "child": "ContJRP_Align_Alignment", "via": ["solution", "statement"]}
-{"parent": "LindelofHypothesis.mu_half_le_one_sixth", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["statement"]}
-{"parent": "LindelofHypothesis.mu_half_le_one_sixth", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["statement"]}
+{"parent": "LindelofHypothesis.mu_half_le_one_sixth", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["solution", "statement"]}
+{"parent": "LindelofHypothesis.mu_half_le_one_sixth", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["solution", "statement"]}
 {"parent": "actuarial_c_alive_zero", "child": "actuarial_c_alive", "via": ["solution", "statement"]}
 {"parent": "ClassNumberFormula.kronecker_is_dirichlet_character", "child": "ClassNumberFormula_Kronecker", "via": ["solution", "statement"]}
 {"parent": "CondPortOT.SingDual.lemma_A_4", "child": "CondPortOT_SingDual_Setting", "via": ["statement"]}

@@ -58157,10 +58157,10 @@
 {"parent": "StrongWeakEq.TwoState.display_4_11", "child": "StrongWeakEq_Existence_SecondOrder", "via": ["solution", "statement"]}
 {"parent": "StrongWeakEq.TwoState.display_4_11", "child": "StrongWeakEq_TwoState_Example43", "via": ["solution", "statement"]}
 {"parent": "StrongWeakEq.TwoState.display_4_11", "child": "StrongWeakEq_TwoState_TwoStateModel", "via": ["solution", "statement"]}
-{"parent": "StrongWeakEq.TwoState.display_4_12", "child": "StrongWeakEq_Existence_Model", "via": ["statement"]}
-{"parent": "StrongWeakEq.TwoState.display_4_12", "child": "StrongWeakEq_Existence_SecondOrder", "via": ["statement"]}
-{"parent": "StrongWeakEq.TwoState.display_4_12", "child": "StrongWeakEq_TwoState_Example43", "via": ["statement"]}
-{"parent": "StrongWeakEq.TwoState.display_4_12", "child": "StrongWeakEq_TwoState_TwoStateModel", "via": ["statement"]}
+{"parent": "StrongWeakEq.TwoState.display_4_12", "child": "StrongWeakEq_Existence_Model", "via": ["solution", "statement"]}
+{"parent": "StrongWeakEq.TwoState.display_4_12", "child": "StrongWeakEq_Existence_SecondOrder", "via": ["solution", "statement"]}
+{"parent": "StrongWeakEq.TwoState.display_4_12", "child": "StrongWeakEq_TwoState_Example43", "via": ["solution", "statement"]}
+{"parent": "StrongWeakEq.TwoState.display_4_12", "child": "StrongWeakEq_TwoState_TwoStateModel", "via": ["solution", "statement"]}
 {"parent": "StrongWeakEq.TwoState.display_4_3", "child": "StrongWeakEq_Existence_Model", "via": ["solution", "statement"]}
 {"parent": "StrongWeakEq.TwoState.display_4_3", "child": "StrongWeakEq_Existence_SecondOrder", "via": ["solution", "statement"]}
 {"parent": "StrongWeakEq.TwoState.display_4_3", "child": "StrongWeakEq_TwoState_TwoStateModel", "via": ["solution", "statement"]}

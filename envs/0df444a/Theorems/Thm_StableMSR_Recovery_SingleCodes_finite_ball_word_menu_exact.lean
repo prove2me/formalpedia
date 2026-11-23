@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleCodes_finite_ball_word_menu_exact
 -- name    : StableMSR.Recovery.SingleCodes.finite_ball_word_menu_exact
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T00:08:30.398253+00:00
 -- url     : https://prove2.me/theorems/e9c3533f-c01a-4753-b2d6-8e95a2c164e4

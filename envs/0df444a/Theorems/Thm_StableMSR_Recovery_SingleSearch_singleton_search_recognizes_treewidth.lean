@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleSearch_singleton_search_recognizes_treewidth
 -- name    : StableMSR.Recovery.SingleSearch.singleton_search_recognizes_treewidth
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T23:59:37.564395+00:00
 -- url     : https://prove2.me/theorems/ad7b12d1-2d05-4da3-95f7-c20d0413fa8a

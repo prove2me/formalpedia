@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleCodes_regional_circuit_input_exact
 -- name    : StableMSR.Recovery.SingleCodes.regional_circuit_input_exact
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T00:07:51.320424+00:00
 -- url     : https://prove2.me/theorems/0ae01394-c8da-428f-b18e-5a920bbcd3fd

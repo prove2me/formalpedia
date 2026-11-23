@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_vw_pow
 -- name    : Formalism.DivisionValues.StepBAux.vw_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:05:47.025354+00:00
 -- url     : https://prove2.me/theorems/53a98c1c-d535-43b4-9254-274ad9ff8d53

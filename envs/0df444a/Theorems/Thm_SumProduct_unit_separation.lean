@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_unit_separation
 -- name    : SumProduct.unit_separation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:56:08.926339+00:00
 -- url     : https://prove2.me/theorems/cfe27240-eac7-4290-aeeb-159241dcba49

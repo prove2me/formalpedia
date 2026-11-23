@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_padSat1_aF
 -- name    : Comp.ModelData.padSat1_aF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:45:44.102975+00:00
 -- url     : https://prove2.me/theorems/6e4a36f9-246a-4204-9ffe-1e721e9e0d46

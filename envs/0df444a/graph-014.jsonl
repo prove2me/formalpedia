@@ -86578,7 +86578,7 @@
 {"parent": "BroadieKaya_SV_HestonModel", "child": "BroadieKaya_SV_SquareRootProcesses", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P51.corollary_4_27", "child": "QAlgorithms_Papers_Independent_Intakenext100_P51", "via": ["statement"]}
 {"parent": "OAI.GeneralMahler.SCal.Grid.Nodes.by660_680", "child": "OAIQ026G002", "via": ["solution", "statement"]}
-{"parent": "SalesforceComp.lemma_3", "child": "SalesforceComp_Model", "via": ["statement"]}
+{"parent": "SalesforceComp.lemma_3", "child": "SalesforceComp_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.GeneralMahler.ProjField.C_bound", "child": "OAIQ026G002", "via": ["solution", "statement"]}
 {"parent": "OAI.GeneralMahler.ProjField.C_bound", "child": "GeneralMahler", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.ParameterizedSubMarkovKernelSemigroup.IsConservative.continuousProcess_condExp_shift_stoppingTime", "child": "MarkovProcess_V3H_Parameterized_ContinuousProcessProperties_61cc1965", "via": ["solution", "statement"]}
@@ -97954,11 +97954,11 @@
 {"parent": "RecursiveStopping.Infinite.display_32", "child": "RecursiveStopping_MarkovFlow", "via": ["statement"]}
 {"parent": "RecursiveStopping.Infinite.display_32", "child": "RecursiveStopping_Infinite_Gam", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_partition_106", "child": "OAIQ019N049", "via": ["solution", "statement"]}
-{"parent": "MinVolEllipsoid.eq_9", "child": "MinVolEllipsoid_GenCopositive", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_9", "child": "MinVolEllipsoid_liftCone", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_9", "child": "MinVolEllipsoid_Zval", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_9", "child": "MinVolEllipsoid_borderedMatrix", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_9", "child": "MinVolEllipsoid_stackAb", "via": ["statement"]}
+{"parent": "MinVolEllipsoid.eq_9", "child": "MinVolEllipsoid_GenCopositive", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.eq_9", "child": "MinVolEllipsoid_liftCone", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.eq_9", "child": "MinVolEllipsoid_Zval", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.eq_9", "child": "MinVolEllipsoid_borderedMatrix", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.eq_9", "child": "MinVolEllipsoid_stackAb", "via": ["solution", "statement"]}
 {"parent": "SpectralParab.proposition_4_8", "child": "SpectralParab_ParabolicReg", "via": ["statement"]}
 {"parent": "SpectralParab.proposition_4_8", "child": "SpectralParab_EigBlocks", "via": ["statement"]}
 {"parent": "SpectralParab.proposition_4_8", "child": "SpectralParab_SymMatSpace", "via": ["statement"]}

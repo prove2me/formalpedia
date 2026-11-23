@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResAllocGaps_hindsight_ge_online
 -- name    : ResAllocGaps.hindsight_ge_online
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:30:14.895894+00:00
 -- url     : https://prove2.me/theorems/4ee18954-1f8d-4f83-a3ac-0d362728bd90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_maximal_sum_bound
 -- name    : Formalism.HermitianLatticeCounting.P.maximal_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:08:08.593543+00:00
 -- url     : https://prove2.me/theorems/a41c31dd-9b66-46c6-9176-47842bb78ed9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_israel_static_electrovac
 -- name    : NoHair.israel_static_electrovac
--- status  : Open
+-- status  : Disproved
 -- author  : @LG
 -- created : 2026-10-04T22:55:25.75193+00:00
 -- url     : https://prove2.me/theorems/ae80f2c5-e7b6-4f5e-ab99-ed248fa30fca

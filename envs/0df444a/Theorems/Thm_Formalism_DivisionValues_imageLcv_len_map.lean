@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_imageLcv_len_map
 -- name    : Formalism.DivisionValues.imageLcv_len_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:07:03.77731+00:00
 -- url     : https://prove2.me/theorems/5905f73f-9539-4d75-af7f-977773514ea2

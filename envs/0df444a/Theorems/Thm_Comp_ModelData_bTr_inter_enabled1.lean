@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_bTr_inter_enabled1
 -- name    : Comp.ModelData.bTr_inter_enabled1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:42:21.599166+00:00
 -- url     : https://prove2.me/theorems/b2fcbd18-f0bc-4491-9937-59d78b18d96d

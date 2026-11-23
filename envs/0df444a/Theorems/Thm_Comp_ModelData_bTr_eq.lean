@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_bTr_eq
 -- name    : Comp.ModelData.bTr_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:45:28.997927+00:00
 -- url     : https://prove2.me/theorems/afe781bb-909a-41e9-9748-c6d6299dbd42

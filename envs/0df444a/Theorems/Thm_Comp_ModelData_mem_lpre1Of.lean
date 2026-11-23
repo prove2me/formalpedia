@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_mem_lpre1Of
 -- name    : Comp.ModelData.mem_lpre1Of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:46:55.217856+00:00
 -- url     : https://prove2.me/theorems/b2d55cfc-945c-40d2-8fb2-c518d6c9d141

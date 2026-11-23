@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_expect_win1
 -- name    : Csg.rpsCSG_expect_win1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:16:54.896278+00:00
 -- url     : https://prove2.me/theorems/1787ae0f-9365-4d97-b2c6-0d2a91d70ba0
