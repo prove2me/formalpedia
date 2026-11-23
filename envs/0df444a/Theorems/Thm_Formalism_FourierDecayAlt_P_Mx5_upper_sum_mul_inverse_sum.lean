@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_upper_sum_mul_inverse_sum
 -- name    : Formalism.FourierDecayAlt.P.Mx5.upper_sum_mul_inverse_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:08.844498+00:00
 -- url     : https://prove2.me/theorems/263dda2c-817a-404e-90b0-2f19590dd8a5

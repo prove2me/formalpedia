@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_off_term
 -- name    : Formalism.FourierDecayAlt.P.Mx5.off_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:36.792285+00:00
 -- url     : https://prove2.me/theorems/37289055-904d-469c-804b-2f2c67cddc49

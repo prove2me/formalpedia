@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_DSUniq_toProd_injective__e149abdd9e22
 -- name    : P2M_GlobalTheory_CompanionTheory_DSUniq_toProd_injective__e149abdd9e22
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:33.848222+00:00
 -- url     : https://prove2.me/theorems/af938c2a-a036-4254-99bf-44a713737e56

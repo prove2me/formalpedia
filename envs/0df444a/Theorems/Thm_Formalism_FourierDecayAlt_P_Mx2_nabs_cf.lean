@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx2_nabs_cf
 -- name    : Formalism.FourierDecayAlt.P.Mx2.nabs_cf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:07:24.520695+00:00
 -- url     : https://prove2.me/theorems/186a3010-9a4d-42e9-94a8-c3f2e11ecf16

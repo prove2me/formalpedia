@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_PC_isPoly_m0A
 -- name    : Formalism.FourierDecayAlt.P.Mx6.PC.isPoly_m0A
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:13:29.108824+00:00
 -- url     : https://prove2.me/theorems/5ef4d6b3-e0db-480d-a447-da0c92522630

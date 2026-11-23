@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_coordinate_commute_raising
 -- name    : Formalism.FourierDecayAlt.P.Mx5.coordinate_commute_raising
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:27:25.290802+00:00
 -- url     : https://prove2.me/theorems/f288480c-870c-4964-98ea-c6771828fdfe

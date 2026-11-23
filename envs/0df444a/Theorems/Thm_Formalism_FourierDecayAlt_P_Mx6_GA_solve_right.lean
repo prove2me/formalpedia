@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_GA_solve_right
 -- name    : Formalism.FourierDecayAlt.P.Mx6.GA.solve_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:33.055598+00:00
 -- url     : https://prove2.me/theorems/9a019d86-6ee4-4aac-ac15-f462e36141c2

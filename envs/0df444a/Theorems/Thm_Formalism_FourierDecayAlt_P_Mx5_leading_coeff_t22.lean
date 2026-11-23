@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_leading_coeff_t22
 -- name    : Formalism.FourierDecayAlt.P.Mx5.leading_coeff_t22
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:13:21.863962+00:00
 -- url     : https://prove2.me/theorems/879a316f-6f75-4906-a86d-b03a6eec6a95

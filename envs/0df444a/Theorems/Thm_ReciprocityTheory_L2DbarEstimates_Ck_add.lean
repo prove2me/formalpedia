@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Ck_add
 -- name    : ReciprocityTheory.L2DbarEstimates.Ck.add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:16:26.23253+00:00
 -- url     : https://prove2.me/theorems/b28b29b9-5000-412b-83b1-eaf4e1c15aef

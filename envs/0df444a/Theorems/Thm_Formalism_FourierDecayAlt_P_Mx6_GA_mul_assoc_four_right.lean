@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_GA_mul_assoc_four_right
 -- name    : Formalism.FourierDecayAlt.P.Mx6.GA.mul_assoc_four_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:23.9956+00:00
 -- url     : https://prove2.me/theorems/91e3a70a-1c7d-466b-b21d-8b8e6d45c3d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx2_partialDerivBar_mul_fn
 -- name    : Formalism.FourierDecayAlt.P.Mx2.partialDerivBar_mul_fn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:05:49.955801+00:00
 -- url     : https://prove2.me/theorems/d6f97d1f-0e25-4097-a7c3-1ebcf02bb156

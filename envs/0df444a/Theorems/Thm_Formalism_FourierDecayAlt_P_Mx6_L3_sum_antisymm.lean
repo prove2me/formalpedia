@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_L3_sum_antisymm
 -- name    : Formalism.FourierDecayAlt.P.Mx6.L3.sum_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:50.893187+00:00
 -- url     : https://prove2.me/theorems/59e7ecb7-3373-494f-a2b9-b96117768f29

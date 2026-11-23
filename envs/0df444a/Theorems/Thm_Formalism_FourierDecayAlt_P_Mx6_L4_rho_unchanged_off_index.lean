@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_L4_rho_unchanged_off_index
 -- name    : Formalism.FourierDecayAlt.P.Mx6.L4.rho_unchanged_off_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:58.128193+00:00
 -- url     : https://prove2.me/theorems/40cc2173-89ff-420a-add8-b4777f8fc1dc

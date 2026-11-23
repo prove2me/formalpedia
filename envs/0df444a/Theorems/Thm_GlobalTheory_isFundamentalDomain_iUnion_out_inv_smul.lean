@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isFundamentalDomain_iUnion_out_inv_smul
 -- name    : GlobalTheory.isFundamentalDomain_iUnion_out_inv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:19.081187+00:00
 -- url     : https://prove2.me/theorems/f62c3ce2-cb9c-4ae4-87dc-7fd65044dee0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_IsPoly_sum
 -- name    : Formalism.FourierDecayAlt.P.Mx7.IsPoly.sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:15:23.21542+00:00
 -- url     : https://prove2.me/theorems/b6443627-0951-41c5-b815-ed4b72a31e47

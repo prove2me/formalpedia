@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Holo_add
 -- name    : ReciprocityTheory.L2DbarEstimates.Holo.add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:16:36.516137+00:00
 -- url     : https://prove2.me/theorems/cec111f4-3229-4190-8e46-123c744a4c2c

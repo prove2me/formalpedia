@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_quartic_sum_gamma_inv_comm
 -- name    : Formalism.FourierDecayAlt.P.Mx5.quartic_sum_gamma_inv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:01.025859+00:00
 -- url     : https://prove2.me/theorems/d4cadfda-da1e-467f-8893-657f40437175

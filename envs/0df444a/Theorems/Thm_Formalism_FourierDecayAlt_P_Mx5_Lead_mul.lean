@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_Lead_mul
 -- name    : Formalism.FourierDecayAlt.P.Mx5.Lead.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:08:42.95283+00:00
 -- url     : https://prove2.me/theorems/4dbee954-76d3-468a-a804-f4f37d9b1986

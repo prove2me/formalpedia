@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_upper_sum_gamma_inv_comm
 -- name    : Formalism.FourierDecayAlt.P.Mx5.upper_sum_gamma_inv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:28.596073+00:00
 -- url     : https://prove2.me/theorems/f6d7ef39-553e-4a53-a9ea-f1000f419a70

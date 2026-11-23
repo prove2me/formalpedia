@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_measure_le_of_isFundamentalDomain_of_ae_covers
 -- name    : GlobalTheory.measure_le_of_isFundamentalDomain_of_ae_covers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:22.146503+00:00
 -- url     : https://prove2.me/theorems/4367a246-1408-4daa-8bc8-9e9b42892668

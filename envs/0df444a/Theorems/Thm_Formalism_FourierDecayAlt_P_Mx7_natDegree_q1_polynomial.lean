@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_natDegree_q1_polynomial
 -- name    : Formalism.FourierDecayAlt.P.Mx7.natDegree_q1_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:24:39.601161+00:00
 -- url     : https://prove2.me/theorems/62626ae2-8f7a-433d-a2d4-c1f68b9d28c2

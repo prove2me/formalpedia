@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandThinning_lemma_3_2
 -- name    : TalagrandThinning.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:45:31.794663+00:00
 -- url     : https://prove2.me/theorems/7c4e2ab0-5e41-4d27-8129-c79837f18e58

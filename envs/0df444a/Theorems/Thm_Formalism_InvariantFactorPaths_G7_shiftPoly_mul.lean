@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_shiftPoly_mul
 -- name    : Formalism.InvariantFactorPaths.G7.shiftPoly_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:27:42.692874+00:00
 -- url     : https://prove2.me/theorems/80b830bd-edc7-450b-a869-75812e16c3d9

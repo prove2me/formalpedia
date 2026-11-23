@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandThinning_fourier_basis_eq_2_1
 -- name    : TalagrandThinning.fourier_basis_eq_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:43:58.200483+00:00
 -- url     : https://prove2.me/theorems/b7845e01-082d-4058-83ec-b1b0585862cb

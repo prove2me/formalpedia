@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CatalyticTreeEval_Main_corollary_4_7_resource_estimates
 -- name    : CatalyticTreeEval.Main.corollary_4_7_resource_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-22T23:24:20.004561+00:00
 -- url     : https://prove2.me/theorems/c7de1d4b-3fc8-4555-8106-c8d7a4822dc5

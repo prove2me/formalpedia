@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_GA_assoc_var
 -- name    : Formalism.FourierDecayAlt.P.Mx6.GA.assoc_var
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:25.36591+00:00
 -- url     : https://prove2.me/theorems/f075a6d8-25c2-467c-8a07-f6e4e36a5b08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_GA_gauss_rtt
 -- name    : Formalism.FourierDecayAlt.P.Mx6.GA.gauss_rtt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:35.470018+00:00
 -- url     : https://prove2.me/theorems/53eed46f-e288-47f0-a476-6a2641e69c6d

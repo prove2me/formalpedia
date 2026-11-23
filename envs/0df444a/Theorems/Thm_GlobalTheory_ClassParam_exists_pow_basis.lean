@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_exists_pow_basis
 -- name    : GlobalTheory.ClassParam.exists_pow_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:27:12.20559+00:00
 -- url     : https://prove2.me/theorems/8ecfff54-bd8c-4ecd-9e19-9e71655fe0fa

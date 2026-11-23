@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_Model_secondCountable_and_t2_local_field
 -- name    : GlobalTheory.SplitWeil.Model.secondCountable_and_t2_local_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:27:53.916984+00:00
 -- url     : https://prove2.me/theorems/061820dd-9f9f-41aa-8c88-967f9496b2c2

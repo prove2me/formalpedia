@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setLIntegral_subgroup_eq_index_mul
 -- name    : GlobalTheory.setLIntegral_subgroup_eq_index_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:12.752512+00:00
 -- url     : https://prove2.me/theorems/5c47201a-e959-42f1-9363-51c19cd5812b

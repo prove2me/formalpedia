@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_bddAbove_norm_coeff
 -- name    : Formalism.DworkPowerSeriesWeights.bddAbove_norm_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:11.286347+00:00
 -- url     : https://prove2.me/theorems/5e68a2b2-f8cf-452b-955c-6708f6c0fad6

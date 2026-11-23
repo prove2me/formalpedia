@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setLIntegral_subgroup_eq_tsum
 -- name    : GlobalTheory.setLIntegral_subgroup_eq_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:28.182963+00:00
 -- url     : https://prove2.me/theorems/0afb89e9-a6ef-4ee5-a194-8b99fdbe567a

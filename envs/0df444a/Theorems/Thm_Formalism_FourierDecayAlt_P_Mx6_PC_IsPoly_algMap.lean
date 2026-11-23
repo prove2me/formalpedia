@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_PC_IsPoly_algMap
 -- name    : Formalism.FourierDecayAlt.P.Mx6.PC.IsPoly.algMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:12:48.589831+00:00
 -- url     : https://prove2.me/theorems/d01d896c-e0a2-46ed-975e-557492206cc0

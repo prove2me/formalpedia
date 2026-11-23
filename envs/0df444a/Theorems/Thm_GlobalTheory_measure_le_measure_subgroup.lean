@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_measure_le_measure_subgroup
 -- name    : GlobalTheory.measure_le_measure_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:34.291877+00:00
 -- url     : https://prove2.me/theorems/dc05ffc9-e53e-4f46-a605-31c117f7fb1a

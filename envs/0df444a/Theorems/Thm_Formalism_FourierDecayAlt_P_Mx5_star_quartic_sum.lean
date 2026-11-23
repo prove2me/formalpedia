@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_star_quartic_sum
 -- name    : Formalism.FourierDecayAlt.P.Mx5.star_quartic_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:29:24.483123+00:00
 -- url     : https://prove2.me/theorems/05e521a6-ad1b-4edd-95e0-e6280a5d6d6d

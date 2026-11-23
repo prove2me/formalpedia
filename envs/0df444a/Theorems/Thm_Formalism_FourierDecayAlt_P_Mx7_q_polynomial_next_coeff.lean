@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_q_polynomial_next_coeff
 -- name    : Formalism.FourierDecayAlt.P.Mx7.q_polynomial_next_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:24:46.757647+00:00
 -- url     : https://prove2.me/theorems/477641f5-99e9-4759-8061-7d36494d97a1

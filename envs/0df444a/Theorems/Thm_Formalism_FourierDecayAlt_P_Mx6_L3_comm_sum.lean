@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_L3_comm_sum
 -- name    : Formalism.FourierDecayAlt.P.Mx6.L3.comm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:13:17.194627+00:00
 -- url     : https://prove2.me/theorems/17d782fb-ddcb-42cc-9765-4797b686bb2a

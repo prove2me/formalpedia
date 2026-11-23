@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StateSynthNP_error_propagation
 -- name    : StateSynthNP.error_propagation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:40.16919+00:00
 -- url     : https://prove2.me/theorems/fb0ffec9-bbb0-4890-a125-cd4c65d532ec

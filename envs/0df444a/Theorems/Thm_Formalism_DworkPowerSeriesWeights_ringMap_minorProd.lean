@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_ringMap_minorProd
 -- name    : Formalism.DworkPowerSeriesWeights.ringMap_minorProd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:30.597127+00:00
 -- url     : https://prove2.me/theorems/079a8362-ae66-408c-a98d-9c903c344237

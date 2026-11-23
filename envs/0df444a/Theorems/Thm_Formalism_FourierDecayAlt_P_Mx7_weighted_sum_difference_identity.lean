@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_weighted_sum_difference_identity
 -- name    : Formalism.FourierDecayAlt.P.Mx7.weighted_sum_difference_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:25:04.143987+00:00
 -- url     : https://prove2.me/theorems/c682eeb2-b553-47de-9fb0-9d24bd638aed

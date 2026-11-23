@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_q_polynomial_monic
 -- name    : Formalism.FourierDecayAlt.P.Mx7.q_polynomial_monic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:24:39.506469+00:00
 -- url     : https://prove2.me/theorems/903ff5b3-e035-47be-ac54-a5b21f1644d4

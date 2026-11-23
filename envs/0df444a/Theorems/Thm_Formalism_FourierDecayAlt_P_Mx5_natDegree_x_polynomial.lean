@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_natDegree_x_polynomial
 -- name    : Formalism.FourierDecayAlt.P.Mx5.natDegree_x_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:48.617368+00:00
 -- url     : https://prove2.me/theorems/adbcd224-1428-46f9-bc0a-760e77de7f5f

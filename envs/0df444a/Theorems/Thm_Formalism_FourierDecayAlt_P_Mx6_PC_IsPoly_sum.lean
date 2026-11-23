@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_PC_IsPoly_sum
 -- name    : Formalism.FourierDecayAlt.P.Mx6.PC.IsPoly.sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:08:21.947935+00:00
 -- url     : https://prove2.me/theorems/ba746257-326a-480d-b72b-443d47ab092e

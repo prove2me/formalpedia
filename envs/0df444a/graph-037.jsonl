@@ -79151,7 +79151,7 @@
 {"parent": "Formalism.FG.InvIntVAux.Low.add", "child": "Formalism_FormalGroupWitt_FormalGroupWittProofs_InvIntV", "via": ["solution", "statement"]}
 {"parent": "Formalism.FG.InvIntVAux.Low.add", "child": "Formalism_FormalGroupWitt_SubstInjectiveV", "via": ["solution", "statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomFix", "child": "Formalism_HermitianLattices_StatementLat", "via": ["statement"]}
-{"parent": "CatalyticTreeEval.Main.corollary_4_7_resource_estimates", "child": "CatalyticTreeEval_Main_Framework", "via": ["statement"]}
+{"parent": "CatalyticTreeEval.Main.corollary_4_7_resource_estimates", "child": "CatalyticTreeEval_Main_Framework", "via": ["solution", "statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNormRepresentation", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_AddMulInvMem", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNormRepresentation", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomFrame", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_DefPosDef", "child": "Formalism_PeriodIntegrals_FinOrdAd", "via": ["statement"]}
@@ -80908,9 +80908,9 @@
 {"parent": "Formalism.CountingSumsFrames.Har2.cPoint_zero", "child": "Formalism_PolynomialDimension_MultinomialDepth_HarmonicDecompositionHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqCount", "child": "Formalism_LandauZeroFreeBounds_LogDerivRegionChiOf", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqCount", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_lt_absNorm", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFilterResCharLe", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_lt_absNorm", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_lt_absNorm", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_EulerFacMulConjInvSplit", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_lt_absNorm", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFilterResCharLe", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_lt_absNorm", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_lt_absNorm", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_EulerFacMulConjInvSplit", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.harmonicProjection_holds", "child": "Formalism_PolynomialDimension_StatementHar", "via": ["statement"]}
 {"parent": "Formalism.CountingSumsFrames.harmonicProjection_holds", "child": "Formalism_PolynomialDimension_MultinomialDepth_HarmonicDecompositionHolds", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqPage", "child": "Formalism_LandauZeroFreeBounds_Statement", "via": ["statement"]}
@@ -96132,10 +96132,10 @@
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaLog", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_Legendre", "via": ["statement"]}
 {"parent": "Mdp.DiscountedMDP.policy_iteration_correct", "child": "Mdp_ValueIteration", "via": ["solution", "statement"]}
 {"parent": "Mdp.DiscountedMDP.policy_iteration_correct", "child": "Mdp_PolicyIteration", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr5.io_fn_comm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr5.io_fn_comm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FreeOf2OfFourEntries", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr5.io_fn_comm", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Fr5.io_fn_comm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_QEFirstMulSecondEqSwap", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr5.io_fn_comm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr5.io_fn_comm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FreeOf2OfFourEntries", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr5.io_fn_comm", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Fr5.io_fn_comm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_QEFirstMulSecondEqSwap", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13.part_080_1", "child": "ArdaRH65K_RS_B2", "via": ["statement"]}
 {"parent": "RH1E6S13.part_080_1", "child": "ArdaRH65K_RS5_Sound", "via": ["statement"]}
 {"parent": "RH1E6S13.part_080_1", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}

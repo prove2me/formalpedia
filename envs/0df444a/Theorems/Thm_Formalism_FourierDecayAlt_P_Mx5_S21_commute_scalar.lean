@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_S21_commute_scalar
 -- name    : Formalism.FourierDecayAlt.P.Mx5.S21_commute_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:24.529927+00:00
 -- url     : https://prove2.me/theorems/d99e4ff4-4ef4-4159-81d8-868565c98bcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx2_multiplierPair_neg
 -- name    : Formalism.FourierDecayAlt.P.Mx2.multiplierPair_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:05:23.798384+00:00
 -- url     : https://prove2.me/theorems/95a9570f-5ea0-4427-8a2c-c1e20d3a5633
