@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_CompatibleChartOperations_mem_ball
 -- name    : Formalism.L2.Th1.E.CompatibleChartOperations.mem_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:30:00.532455+00:00
 -- url     : https://prove2.me/theorems/8e9afaa2-6086-4351-af35-e5fb52b6f286

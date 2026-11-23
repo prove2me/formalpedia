@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormUnit_nontrivial_of_resAlg
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormUnit.nontrivial_of_resAlg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:25:46.342765+00:00
 -- url     : https://prove2.me/theorems/46a8bd16-6df3-44d2-ad82-ad14d1719b66

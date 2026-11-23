@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_compensatedFiniteRegionMartingaleUnderCompletedFiltrationV1
 -- name    : Kyprianou.Ch02.compensatedFiniteRegionMartingaleUnderCompletedFiltrationV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:01:10.293878+00:00
 -- url     : https://prove2.me/theorems/89e17745-47c4-4224-bd90-6f1211a31795

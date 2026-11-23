@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_wpNumEq_of
 -- name    : Formalism.L2.Th1.A.wpNumEq_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:24:11.070822+00:00
 -- url     : https://prove2.me/theorems/4a92d815-a6de-4eb0-ae2e-4e28fe4ea4cd

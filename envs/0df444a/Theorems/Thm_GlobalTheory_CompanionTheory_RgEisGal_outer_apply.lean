@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_outer_apply
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.outer_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:21.646806+00:00
 -- url     : https://prove2.me/theorems/f3dc1c85-8ce9-4751-9303-234a64b7a517

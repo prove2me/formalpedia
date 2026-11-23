@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_differentiable_aff_line
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.differentiable_aff_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:28:35.370848+00:00
 -- url     : https://prove2.me/theorems/32f09f2b-d432-4bc8-adb8-6683ad5a2bb0

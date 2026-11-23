@@ -26113,10 +26113,10 @@
 {"parent": "RH1E6S13.part_007_0", "child": "ArdaRH65K_DlvpTheta", "via": ["statement"]}
 {"parent": "Formalism.TwoAdicCyclotomicDecomposition.UnitConjugation.ne_zero_of_sq", "child": "Formalism_TameInertiaTowers_StatementField", "via": ["solution", "statement"]}
 {"parent": "Formalism.TwoAdicCyclotomicDecomposition.UnitConjugation.ne_zero_of_sq", "child": "Formalism_TameInertiaTowers_CentralOrderTwo_ConjEqInvOfPowEqOne", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.det_matrix_xy", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralConvergesAbs", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.det_matrix_xy", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CuspidalIrreducibleSubrep", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.det_matrix_xy", "child": "Formalism_HermitianCurvature_StatementG", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.det_matrix_xy", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdditiveCharacterPsi", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.det_matrix_xy", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralConvergesAbs", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.det_matrix_xy", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CuspidalIrreducibleSubrep", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.det_matrix_xy", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.det_matrix_xy", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdditiveCharacterPsi", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Interlace.antitone_on", "child": "Formalism_HermitianCurvature_StatementI", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Interlace.antitone_on", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Interlace", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.Gal.continuousSMul_intCl", "child": "ReciprocityTheory_GaloisValuations_GlobalB", "via": ["solution", "statement"]}

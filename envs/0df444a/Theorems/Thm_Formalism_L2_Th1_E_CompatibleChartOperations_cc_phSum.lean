@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_CompatibleChartOperations_cc_phSum
 -- name    : Formalism.L2.Th1.E.CompatibleChartOperations.cc_phSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:27:15.486265+00:00
 -- url     : https://prove2.me/theorems/a1cee913-290d-412d-b740-037f18c4aa76

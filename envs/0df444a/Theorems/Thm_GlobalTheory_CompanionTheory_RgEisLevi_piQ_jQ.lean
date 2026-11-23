@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_piQ_jQ
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.piQ_jQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:38.315357+00:00
 -- url     : https://prove2.me/theorems/4cc97bf1-be5b-45f9-a73d-79cdea892e80

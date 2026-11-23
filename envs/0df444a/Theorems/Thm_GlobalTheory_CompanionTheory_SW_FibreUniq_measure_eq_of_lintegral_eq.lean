@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreUniq_measure_eq_of_lintegral_eq
 -- name    : GlobalTheory.CompanionTheory.SW.FibreUniq.measure_eq_of_lintegral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:53.522724+00:00
 -- url     : https://prove2.me/theorems/46d4be3b-abe0-407b-ae46-103bdbf439a7

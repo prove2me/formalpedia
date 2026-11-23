@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubeR_inv_wU_subst
 -- name    : Formalism.L2.Th1.A.CubeR.inv_wU_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:36.7348+00:00
 -- url     : https://prove2.me/theorems/2c6542ef-8aca-4d58-b4d5-8fe2f417cd01

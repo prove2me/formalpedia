@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gauss_sum_modulus_of_lattice
 -- name    : Formalism.FourierDecayAlt.P.gauss_sum_modulus_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:39.708803+00:00
 -- url     : https://prove2.me/theorems/4aee3f59-f6b7-450e-8573-1ebd030a19e6

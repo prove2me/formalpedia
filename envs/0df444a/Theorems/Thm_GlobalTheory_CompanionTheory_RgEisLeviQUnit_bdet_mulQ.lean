@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_bdet_mulQ
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.bdet_mulQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:29.808038+00:00
 -- url     : https://prove2.me/theorems/189261fa-cb9b-4842-bcce-6fdd07f93e32

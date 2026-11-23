@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_Sandwich_iInter_ballV
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.Sandwich.iInter_ballV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:42.221713+00:00
 -- url     : https://prove2.me/theorems/26b0dc85-7a20-4303-9ba7-21b2d4802670

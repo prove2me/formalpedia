@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_Sandwich_ballV_subset
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.Sandwich.ballV_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:31.903084+00:00
 -- url     : https://prove2.me/theorems/419f665a-dc40-475a-82e5-58ad49e7e2be

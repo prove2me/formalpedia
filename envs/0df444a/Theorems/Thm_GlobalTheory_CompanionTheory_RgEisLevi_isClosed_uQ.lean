@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_isClosed_uQ
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.isClosed_uQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:27.478236+00:00
 -- url     : https://prove2.me/theorems/63ffd98d-cc31-4c65-98fc-dc57c72e2850

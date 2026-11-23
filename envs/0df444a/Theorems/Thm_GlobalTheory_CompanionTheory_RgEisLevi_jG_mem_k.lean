@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_jG_mem_k
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.jG_mem_k
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:13.301656+00:00
 -- url     : https://prove2.me/theorems/c12621ef-c3c1-41a5-8174-8b8bd0e1cb68

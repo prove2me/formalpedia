@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_laplace_scaled_integral_tendsto
 -- name    : AvramDividend.Classical.laplace_scaled_integral_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:24:03.02201+00:00
 -- url     : https://prove2.me/theorems/c643cff4-e58d-480a-bc94-3ab7d21bbb9d

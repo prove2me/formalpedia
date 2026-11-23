@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveSer_om_coeff_one
 -- name    : Formalism.L2.Th1.A.CurveSer.om_coeff_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:07:13.706635+00:00
 -- url     : https://prove2.me/theorems/eb864691-8547-4773-8c46-5df38d6c8a1d

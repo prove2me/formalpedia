@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_Sandwich_antitone_ballV
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.Sandwich.antitone_ballV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:42.666804+00:00
 -- url     : https://prove2.me/theorems/fa2c5d5f-5360-43bf-bec8-b1b18ed69889

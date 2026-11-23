@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_compensatedGeneralRegionMartingaleCh02V3
 -- name    : Kyprianou.compensatedGeneralRegionMartingaleCh02V3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T19:21:55.288243+00:00
 -- url     : https://prove2.me/theorems/4ebdce06-f44e-471e-89e0-2d30a53b5aee

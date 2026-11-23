@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_contDiff_inv_entry_of
 -- name    : PositivityTheory.Rg.Sw.WR.B.contDiff_inv_entry_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:27:03.785036+00:00
 -- url     : https://prove2.me/theorems/0410ca42-1ed7-4061-8f8a-4bf7cf233ce6

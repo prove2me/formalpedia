@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_GramDiff_cT_smul
 -- name    : GlobalTheory.CompanionTheory.UnrDens.GramDiff.cT_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:28:54.016879+00:00
 -- url     : https://prove2.me/theorems/1b16dbd5-68af-49bb-85ee-ce6c6992a616

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_factor
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:40.920738+00:00
 -- url     : https://prove2.me/theorems/f04e481a-18a7-4024-9783-18cef2f7946b

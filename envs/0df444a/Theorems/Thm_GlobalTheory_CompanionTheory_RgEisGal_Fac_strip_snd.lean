@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_Fac_strip_snd
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.Fac_strip_snd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:28:35.851805+00:00
 -- url     : https://prove2.me/theorems/8a711a37-0cd4-414e-b79e-e0c8a215a859

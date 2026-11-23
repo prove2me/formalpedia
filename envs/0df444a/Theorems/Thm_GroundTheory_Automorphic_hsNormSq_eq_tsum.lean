@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hsNormSq_eq_tsum
 -- name    : GroundTheory.Automorphic.hsNormSq_eq_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:28.426699+00:00
 -- url     : https://prove2.me/theorems/9bafb1c6-8d27-4a21-a5cc-590b4e5bfd00

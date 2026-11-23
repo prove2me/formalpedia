@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_first_family_partner_iff
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.first_family_partner_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:27:15.564277+00:00
 -- url     : https://prove2.me/theorems/6195d078-2382-45fb-a4b3-11c32ecb0827

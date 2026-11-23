@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_oc_coneI
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.oc_coneI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:28:48.344925+00:00
 -- url     : https://prove2.me/theorems/95af7c49-68e1-4699-9fb1-eae415d488de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubeR_map_cubic_lhs
 -- name    : Formalism.L2.Th1.A.CubeR.map_cubic_lhs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:17:48.571435+00:00
 -- url     : https://prove2.me/theorems/fc61b793-7a60-4223-993f-609c9bbbb74d

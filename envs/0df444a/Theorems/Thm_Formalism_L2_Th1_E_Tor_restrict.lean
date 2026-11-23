@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Tor_restrict
 -- name    : Formalism.L2.Th1.E.Tor.restrict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:26:10.118961+00:00
 -- url     : https://prove2.me/theorems/e5866f0c-db22-4e83-a182-67a560d09a3a

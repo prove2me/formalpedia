@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveL_inv_mul_wSer
 -- name    : Formalism.L2.Th1.A.CurveL.inv_mul_wSer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:06:28.778189+00:00
 -- url     : https://prove2.me/theorems/c2761635-28ce-4e44-9f50-1a3c4fcbeeca

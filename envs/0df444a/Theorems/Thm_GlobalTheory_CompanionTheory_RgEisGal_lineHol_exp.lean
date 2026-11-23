@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_lineHol_exp
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.lineHol_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:02.425244+00:00
 -- url     : https://prove2.me/theorems/56426607-a9fe-4de3-95c4-192caff1f0c5

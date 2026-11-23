@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Lim_det_mem
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Lim.det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:56:17.780305+00:00
 -- url     : https://prove2.me/theorems/bd5cbe17-2b2f-43d2-9400-526eacbecf04

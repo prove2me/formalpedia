@@ -46062,7 +46062,7 @@
 {"parent": "OAIQ098D129", "child": "OAIQ098D005", "via": ["statement"]}
 {"parent": "OAIQ098D129", "child": "OAIQ098D003", "via": ["statement"]}
 {"parent": "OAIQ098D129", "child": "OAIQ098D004", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_maximal_graph_edge_count__p2m_9bca3399_bc88_49f7_b83e_2aaaeb9cb6a3_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_maximal_graph_edge_count__p2m_9bca3399_bc88_49f7_b83e_2aaaeb9cb6a3_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_02_actual_discounted_stopped_Taylor_intrinsic_canonical_compensated_L1_limit", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_02_actual_discounted_stopped_Taylor_intrinsic_canonical_compensated_L1_limit", "child": "AvramDividend.Classical.avram_wave6_02_actual_discounted_stopped_Taylor_canonical_Lp2_isometric_limit", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_02_actual_discounted_stopped_Taylor_intrinsic_canonical_compensated_L1_limit", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}

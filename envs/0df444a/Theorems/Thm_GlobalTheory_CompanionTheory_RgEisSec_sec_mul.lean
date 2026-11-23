@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisSec_sec_mul
 -- name    : GlobalTheory.CompanionTheory.RgEisSec.sec_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:45.7811+00:00
 -- url     : https://prove2.me/theorems/e91218b4-1115-4148-bf76-69f4ab2ae3a8

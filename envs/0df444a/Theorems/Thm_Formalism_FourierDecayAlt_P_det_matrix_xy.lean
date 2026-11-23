@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_det_matrix_xy
 -- name    : Formalism.FourierDecayAlt.P.det_matrix_xy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:10:00.598809+00:00
 -- url     : https://prove2.me/theorems/320b097e-bf07-4ceb-b9bf-911bc6c668ad

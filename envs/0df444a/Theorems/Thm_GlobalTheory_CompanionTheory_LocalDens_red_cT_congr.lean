@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_red_cT_congr
 -- name    : GlobalTheory.CompanionTheory.LocalDens.red_cT_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:34.694515+00:00
 -- url     : https://prove2.me/theorems/f2a88263-b3c0-4217-b7ae-af9638103b97

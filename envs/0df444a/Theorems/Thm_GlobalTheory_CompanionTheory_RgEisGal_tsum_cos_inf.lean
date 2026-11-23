@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_tsum_cos_inf
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.tsum_cos_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:01.432872+00:00
 -- url     : https://prove2.me/theorems/b3e056fe-352b-46c1-9cbe-886f8ef63ef5

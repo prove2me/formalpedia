@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Averaging_setLIntegral_mul_right_eq
 -- name    : GlobalTheory.CompanionTheory.SW.Averaging.setLIntegral_mul_right_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:56.475321+00:00
 -- url     : https://prove2.me/theorems/f9ebc0d5-d2f3-4408-8fa1-8d7e135f4868

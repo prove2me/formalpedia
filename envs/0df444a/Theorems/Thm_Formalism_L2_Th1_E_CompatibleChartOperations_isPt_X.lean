@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_CompatibleChartOperations_isPt_X
 -- name    : Formalism.L2.Th1.E.CompatibleChartOperations.isPt_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:27:59.045628+00:00
 -- url     : https://prove2.me/theorems/8b1366b7-3438-447a-a571-443f7845c9aa

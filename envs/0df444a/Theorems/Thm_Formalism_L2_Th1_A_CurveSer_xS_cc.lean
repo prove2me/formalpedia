@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveSer_xS_cc
 -- name    : Formalism.L2.Th1.A.CurveSer.xS_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:31.692904+00:00
 -- url     : https://prove2.me/theorems/9cf6b496-afaf-4c56-9b5d-27323333be99

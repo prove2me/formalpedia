@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisPar_closed_uQ
 -- name    : GlobalTheory.CompanionTheory.RgEisPar.closed_uQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:52.294098+00:00
 -- url     : https://prove2.me/theorems/515a7e99-6449-4a26-bf71-35faa819dfd0

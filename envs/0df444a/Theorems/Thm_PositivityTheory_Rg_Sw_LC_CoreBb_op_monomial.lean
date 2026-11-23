@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreBb_op_monomial
 -- name    : PositivityTheory.Rg.Sw.LC.CoreBb.op_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:16:33.015797+00:00
 -- url     : https://prove2.me/theorems/542c7531-84ca-4948-a05a-e39dd7f9dede

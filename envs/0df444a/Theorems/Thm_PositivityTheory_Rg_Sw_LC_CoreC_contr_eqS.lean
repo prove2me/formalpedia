@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_contr_eqS
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.contr_eqS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:27:15.71656+00:00
 -- url     : https://prove2.me/theorems/61604845-a87e-474d-b605-1bb22ebd07b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermDiag_diagble_of_congr
 -- name    : GlobalTheory.CompanionTheory.HermDiag.diagble_of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:28:15.519322+00:00
 -- url     : https://prove2.me/theorems/3b2a47e3-2da5-431b-bf84-12cd9e884e4a

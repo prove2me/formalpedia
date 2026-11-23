@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_Sandwich_nhdsNE_Fv
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.Sandwich.nhdsNE_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:30:03.750286+00:00
 -- url     : https://prove2.me/theorems/d0fd1a24-a7cd-47a9-9af9-c90d9f71dfd0

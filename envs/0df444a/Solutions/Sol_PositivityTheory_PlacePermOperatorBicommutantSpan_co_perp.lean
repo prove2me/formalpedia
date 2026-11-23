@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for PositivityTheory.PlacePermOperatorBicommutantSpan.co_perp
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T19:37:04.459804+00:00
+-- url     : https://prove2.me/submissions/f063ddae-2055-4e69-8815-b502622c3399
+
+import Definitions.Def_CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData
+import Definitions.Def_Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MeasureTheory Topology Set
+open scoped ENNReal ComplexConjugate
+noncomputable section
+open PositivityTheory PositivityTheory.PlacePermOperatorBicommutantSpan
+open GlobalTheory.CompanionTheory.SW.Core
+variable {V : Type} [AddCommGroup V] [TopologicalSpace V]
+variable [MeasurableSpace V] {χ : V → V → ℂ} {μ : Measure V}
+variable (h : NADual V χ μ)
+include h
+namespace PositivityTheory.PlacePermOperatorBicommutantSpan
+theorem _root_.solution {L : AddSubgroup V} (hL : CO L) : CO (perpG h L) :=
+  ⟨(h.2.2.2.2.2.2.2.2.2.2.2.2 L hL.1 hL.2).1, (h.2.2.2.2.2.2.2.2.2.2.2.2 L hL.1 hL.2).2.1⟩
+end PositivityTheory.PlacePermOperatorBicommutantSpan

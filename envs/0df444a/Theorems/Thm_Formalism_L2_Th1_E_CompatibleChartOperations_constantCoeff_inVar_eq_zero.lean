@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_CompatibleChartOperations_constantCoeff_inVar_eq_zero
 -- name    : Formalism.L2.Th1.E.CompatibleChartOperations.constantCoeff_inVar_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:28:11.888484+00:00
 -- url     : https://prove2.me/theorems/80b4934f-d4e6-4322-b561-59c7d327a4b8

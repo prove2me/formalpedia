@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_FP_eq_integral_Fi
 -- name    : PositivityTheory.Rg.Sw.WR.D.FP_eq_integral_Fi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:27:37.723531+00:00
 -- url     : https://prove2.me/theorems/209c7b05-ff36-4732-8007-80dbc6f62cd8

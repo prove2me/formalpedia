@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_compensatedBandIsL2MartingaleCorrected
 -- name    : Kyprianou.compensatedBandIsL2MartingaleCorrected
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:19:52.594539+00:00
 -- url     : https://prove2.me/theorems/7e5adf31-3c73-406e-bb59-84b22f42d4ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_red_pow_smul
 -- name    : GlobalTheory.CompanionTheory.LocalDens.red_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:28:26.08916+00:00
 -- url     : https://prove2.me/theorems/9fba6fe3-f228-4372-baed-6ec0fd677637

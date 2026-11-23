@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.compensatedGeneralRegionMartingaleCh02V3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T12:05:32.331231+00:00
 -- url     : https://prove2.me/submissions/b1108e6c-c2b5-4b81-93ff-7ff7e7c25998
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch02_CompletedPoissonFiltration

@@ -69379,8 +69379,8 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2188_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2188_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.ExpanderCodes.QuaternionGenerators.base_sq", "child": "QEC_Coding_ExpanderCodes_QuaternionGenerators", "via": ["solution", "statement"]}
-{"parent": "HodgeComputer.CycleQ2.normalChart_residue_solvable", "child": "HodgeComputerNormalChart", "via": ["statement"]}
-{"parent": "HodgeComputer.CycleQ2.normalChart_residue_solvable", "child": "HodgeComputerCycleQ2", "via": ["statement"]}
+{"parent": "HodgeComputer.CycleQ2.normalChart_residue_solvable", "child": "HodgeComputerNormalChart", "via": ["solution", "statement"]}
+{"parent": "HodgeComputer.CycleQ2.normalChart_residue_solvable", "child": "HodgeComputerCycleQ2", "via": ["solution", "statement"]}
 {"parent": "OAI.LocalReflectionBrackets.canonical_zeroFourierCoefficient", "child": "OAI_NumberTheory_DirichletL_GaussSum_ReflectionBrackets", "via": ["solution", "statement"]}
 {"parent": "OAI.LocalReflectionBrackets.canonical_zeroFourierCoefficient", "child": "OAI_NumberTheory_DirichletL_CubicSieve_LocalBrackets", "via": ["solution", "statement"]}
 {"parent": "OAI.EisensteinSchwartzPoisson.paperFourier_comp_mul", "child": "OAI_NumberTheory_DirichletL_GaussSum_SexticRadialPoisson", "via": ["solution", "statement"]}

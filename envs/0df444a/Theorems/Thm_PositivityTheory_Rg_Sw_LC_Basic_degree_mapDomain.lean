@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_degree_mapDomain
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.degree_mapDomain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:17:00.416168+00:00
 -- url     : https://prove2.me/theorems/c0b61ff6-64bf-4e09-bd73-61d8a800748b

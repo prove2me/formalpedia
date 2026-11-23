@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_CosetStep_val_eq_one_of_not_mem
 -- name    : GlobalTheory.CompanionTheory.Equi.CosetStep.val_eq_one_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:28:36.081506+00:00
 -- url     : https://prove2.me/theorems/69e67528-7eed-4835-a912-7380b68e8b04

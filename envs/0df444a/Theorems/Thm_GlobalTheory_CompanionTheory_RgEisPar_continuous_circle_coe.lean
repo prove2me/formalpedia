@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisPar_continuous_circle_coe
 -- name    : GlobalTheory.CompanionTheory.RgEisPar.continuous_circle_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:40.273576+00:00
 -- url     : https://prove2.me/theorems/e7393ffe-d1c8-4c20-95a4-c5e61f5304e5

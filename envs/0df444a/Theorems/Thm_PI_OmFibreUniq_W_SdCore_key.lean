@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdCore_key
 -- name    : PI.OmFibreUniq.W.SdCore.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:52.909018+00:00
 -- url     : https://prove2.me/theorems/83845012-6630-48b0-8de2-37fc375b1c14

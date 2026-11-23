@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RiemannCore_tile_disjoint
 -- name    : GlobalTheory.CompanionTheory.RiemannCore.tile_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:50.116732+00:00
 -- url     : https://prove2.me/theorems/5df9ad91-d188-4fd8-9921-a0336a76f380

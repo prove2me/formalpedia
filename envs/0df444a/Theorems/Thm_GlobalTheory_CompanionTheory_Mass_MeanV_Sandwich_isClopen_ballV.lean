@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_Sandwich_isClopen_ballV
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.Sandwich.isClopen_ballV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:11.860844+00:00
 -- url     : https://prove2.me/theorems/79e9d821-ce8c-4db2-8777-6b101736da9b

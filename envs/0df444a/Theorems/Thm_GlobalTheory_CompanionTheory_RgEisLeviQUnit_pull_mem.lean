@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_pull_mem
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.pull_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:52.371373+00:00
 -- url     : https://prove2.me/theorems/59a069d6-ec90-49a7-9698-301e7c94c476

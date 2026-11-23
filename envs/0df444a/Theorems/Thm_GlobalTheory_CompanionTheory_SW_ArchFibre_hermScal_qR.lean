@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArchFibre_hermScal_qR
 -- name    : GlobalTheory.CompanionTheory.SW.ArchFibre.hermScal_qR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:27:40.303864+00:00
 -- url     : https://prove2.me/theorems/be4c030c-2f3a-47f0-a96c-d8f86003cba7
