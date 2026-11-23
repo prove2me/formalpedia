@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_height_constant_bound
 -- name    : Formalism.DivisionValues.height_constant_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:43:15.891459+00:00
 -- url     : https://prove2.me/theorems/bdb3c4bf-8ba8-494b-a64f-075aed8e487b

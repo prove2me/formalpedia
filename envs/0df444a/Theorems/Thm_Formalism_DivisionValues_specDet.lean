@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_specDet
 -- name    : Formalism.DivisionValues.specDet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:21:50.259389+00:00
 -- url     : https://prove2.me/theorems/80826661-8960-4c3d-b463-8067e1e4cb2e

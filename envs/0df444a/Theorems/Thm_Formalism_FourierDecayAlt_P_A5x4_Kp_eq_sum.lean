@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x4_Kp_eq_sum
 -- name    : Formalism.FourierDecayAlt.P.A5x4.Kp_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:26:06.072887+00:00
 -- url     : https://prove2.me/theorems/079b601b-4845-4244-b3d7-6a70f62fa5b7

@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_GeneralLinearIntegersOpenCompact_conj_entry
+-- name    : Formalism.DoubleCosetMeasures.P.GeneralLinearIntegersOpenCompact.conj_entry
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T17:50:36.24232+00:00
+-- url     : https://prove2.me/theorems/b3d158a0-1cac-43b1-9dd4-48aaab79c3ff
+-- title:
+--   General Linear Integers Open Compact: conj entry
+-- statement:
+--   The General Linear Integers Open Compact construction uses the conj entry property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/DoubleCosetMeasures/LowerUnipotentOrbits/IsClosedLowUni.lean#L58-L64
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/DoubleCosetMeasures/LowerUnipotentOrbits/IsClosedLowUni.lean#L58-L64
+
+import Definitions.Def_Formalism_DoubleCosetMeasures_Statement
+import Definitions.Def_Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_GLRealOpen
+import Definitions.Def_Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_GlR
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_IsClosedLowUni
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MeasureTheory Measure Topology Matrix
+open Formalism Formalism.DoubleCosetMeasures Formalism.DoubleCosetMeasures.P
+open Formalism.DoubleCosetMeasures.P.GeneralLinearIntegersOpenCompact
+variable {K : Type} [CommRing K]
+
+theorem Formalism.DoubleCosetMeasures.P.GeneralLinearIntegersOpenCompact.conj_entry {n : ℕ} (δ : Fin n → Kˣ) (g : GL (Fin n) K) (a b : Fin n) :
+    (((Dg δ)⁻¹ * g * Dg δ : GL (Fin n) K) : Matrix (Fin n) (Fin n) K) a b =
+      (((δ a)⁻¹ : Kˣ) : K) * (g : Matrix (Fin n) (Fin n) K) a b * (δ b : K) := by sorry

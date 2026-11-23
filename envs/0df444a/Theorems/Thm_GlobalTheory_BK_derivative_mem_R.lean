@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_derivative_mem_R
 -- name    : GlobalTheory.BK.derivative_mem_R
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:22.638815+00:00
 -- url     : https://prove2.me/theorems/d5a0efcd-fd65-4434-8972-c555e4e925f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_isSemisimpleRepresentation_of_iSup_range
 -- name    : GlobalTheory.ClassFin.isSemisimpleRepresentation_of_iSup_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:32.035704+00:00
 -- url     : https://prove2.me/theorems/28b6a0f0-f123-4ab8-ae29-2daffc93eeb3

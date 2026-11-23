@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_doubleCoset_permGL_injective
 -- name    : GroundTheory.Automorphic.doubleCoset_permGL_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:38:54.115259+00:00
 -- url     : https://prove2.me/theorems/94b6bda0-7838-4dd0-aec0-b418002bfd29

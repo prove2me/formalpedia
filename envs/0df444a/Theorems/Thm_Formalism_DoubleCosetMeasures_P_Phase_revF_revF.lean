@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_Phase_revF_revF
 -- name    : Formalism.DoubleCosetMeasures.P.Phase.revF_revF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:13:37.996821+00:00
 -- url     : https://prove2.me/theorems/30999a4d-86f7-4efd-8c6c-72445674aad9

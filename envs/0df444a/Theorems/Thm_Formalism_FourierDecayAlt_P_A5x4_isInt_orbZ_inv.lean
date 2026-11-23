@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x4_isInt_orbZ_inv
 -- name    : Formalism.FourierDecayAlt.P.A5x4.isInt_orbZ_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:26:39.768441+00:00
 -- url     : https://prove2.me/theorems/40fb2e8b-0c2e-4325-86df-96fcec7a9692

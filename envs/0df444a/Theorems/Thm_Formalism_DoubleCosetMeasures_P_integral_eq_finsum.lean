@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_integral_eq_finsum
 -- name    : Formalism.DoubleCosetMeasures.P.integral_eq_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:54:23.525487+00:00
 -- url     : https://prove2.me/theorems/b211f357-f485-461a-aabe-3313c181932d

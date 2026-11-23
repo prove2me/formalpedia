@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x7_blk_lt_length
 -- name    : Formalism.FourierDecayAlt.P.A5x7.blk_lt_length
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:27:00.353397+00:00
 -- url     : https://prove2.me/theorems/964d8afe-9c5a-47b1-ad70-d8aa6415af26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CL_W_wach_module_nonempty
 -- name    : Formalism.CL.W.wach_module_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:08.987074+00:00
 -- url     : https://prove2.me/theorems/2477d0f6-92d5-4bfe-bde7-6973c11694aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvKM_norm_le_polar
 -- name    : DiscreteGroups.sglob.LConvKM.norm_le_polar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:42.981553+00:00
 -- url     : https://prove2.me/theorems/2a2eb80a-cac1-4762-b467-ee3e6265a863

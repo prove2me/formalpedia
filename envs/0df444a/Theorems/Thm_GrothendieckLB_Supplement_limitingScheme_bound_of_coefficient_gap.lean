@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_limitingScheme_bound_of_coefficient_gap
 -- name    : GrothendieckLB.Supplement.limitingScheme_bound_of_coefficient_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T15:48:28.893283+00:00
 -- url     : https://prove2.me/theorems/ae59a9d3-87e7-485f-ab03-f75ad2be0184

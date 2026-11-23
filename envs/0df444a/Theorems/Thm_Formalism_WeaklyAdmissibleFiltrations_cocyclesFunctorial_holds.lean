@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_cocyclesFunctorial_holds
 -- name    : Formalism.WeaklyAdmissibleFiltrations.cocyclesFunctorial_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:35.363955+00:00
 -- url     : https://prove2.me/theorems/361ee81f-a601-4251-9240-c78d924f45c9

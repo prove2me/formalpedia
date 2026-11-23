@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for Formalism.DivisionValues.stepA
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T17:50:41.990354+00:00
+-- url     : https://prove2.me/submissions/7d7828c8-9eb9-43ff-b94f-e947f8246b0e
+
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjTransposeEqOfPosDef
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaFirst
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaSecond
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SpecDet
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionSecondStep
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_VwEqZeroOfNotMem
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionThirdStepMean
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsSum
+import Definitions.Def_Formalism_LogFactorialIndices_SignedSubspaceIndex_SumInterlacedBoundFails
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_TheoremFSharp
+import Definitions.Def_Formalism_QuotientMetricDivisors_ReductionLemmaZero
+import Theorems.Thm_Formalism_DivisionValues_reduction_first_step
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.DivisionValues
+namespace Formalism.DivisionValues
+theorem _root_.solution : StepA := reduction_first_step
+end Formalism.DivisionValues

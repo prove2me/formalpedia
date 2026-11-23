@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_h_eq_card_H0hat
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.h_eq_card_H0hat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:32.794817+00:00
 -- url     : https://prove2.me/theorems/d088a390-ff14-4a40-bdf2-0d4201b8a18c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_mem_Ubar_iff
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.mem_Ubar_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:33.477868+00:00
 -- url     : https://prove2.me/theorems/13bd9d87-86d0-42fe-902b-3edcce0363fb

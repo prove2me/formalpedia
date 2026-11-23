@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_wtGe_one
 -- name    : Formalism.DworkPowerSeriesWeights.wtGe_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:15:58.76614+00:00
 -- url     : https://prove2.me/theorems/c8800ae5-53cc-490d-a3b1-641f8303ad05

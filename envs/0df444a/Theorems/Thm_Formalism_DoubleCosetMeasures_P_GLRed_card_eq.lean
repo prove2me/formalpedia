@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_GLRed_card_eq
 -- name    : Formalism.DoubleCosetMeasures.P.GLRed.card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:36.024188+00:00
 -- url     : https://prove2.me/theorems/5aebfcb0-95d7-4f75-b17c-e8975226c016

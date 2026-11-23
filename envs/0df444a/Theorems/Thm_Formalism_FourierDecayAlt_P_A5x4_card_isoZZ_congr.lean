@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x4_card_isoZZ_congr
 -- name    : Formalism.FourierDecayAlt.P.A5x4.card_isoZZ_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:48:39.095375+00:00
 -- url     : https://prove2.me/theorems/3fbf253d-8f04-4336-bc1a-82c6dcea5d3a

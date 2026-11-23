@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_smulLat_lattice
 -- name    : Formalism.DivisionValues.shift_smulLat_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:42.259606+00:00
 -- url     : https://prove2.me/theorems/03d7a352-11e3-4482-8b18-4c8f5bae2c10

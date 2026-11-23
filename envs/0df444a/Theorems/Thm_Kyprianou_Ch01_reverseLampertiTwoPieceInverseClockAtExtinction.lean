@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiTwoPieceInverseClockAtExtinction
 -- name    : Kyprianou.Ch01.reverseLampertiTwoPieceInverseClockAtExtinction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:26:10.694547+00:00
 -- url     : https://prove2.me/theorems/f776ceae-39b8-4f8c-9f9d-b815535dfacf

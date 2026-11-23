@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.esscherChangeOfMeasurePreservesLevyAndTriplet
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T15:12:59.573423+00:00
 -- url     : https://prove2.me/submissions/ba7e7791-6e0e-4e86-b721-d17b6944f392
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

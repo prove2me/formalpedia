@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_latticeCoset
 -- name    : Formalism.DoubleCosetMeasures.P.latticeCoset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:55:47.271266+00:00
 -- url     : https://prove2.me/theorems/573cc29e-4f47-4368-abd5-17050149bffe

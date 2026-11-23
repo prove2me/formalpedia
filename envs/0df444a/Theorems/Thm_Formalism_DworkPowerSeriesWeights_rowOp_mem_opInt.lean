@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_rowOp_mem_opInt
 -- name    : Formalism.DworkPowerSeriesWeights.rowOp_mem_opInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:04:20.100934+00:00
 -- url     : https://prove2.me/theorems/f0dff997-50cb-43a7-b1c8-5e7d27a23a45

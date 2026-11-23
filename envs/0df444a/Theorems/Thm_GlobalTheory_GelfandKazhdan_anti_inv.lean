@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GelfandKazhdan_anti_inv
 -- name    : GlobalTheory.GelfandKazhdan.anti_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:23.001209+00:00
 -- url     : https://prove2.me/theorems/aedfbdb2-0784-4ed9-a332-edab43f0f351

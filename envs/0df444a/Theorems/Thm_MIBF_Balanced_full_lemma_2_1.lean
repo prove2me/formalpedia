@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIBF_Balanced_full_lemma_2_1
 -- name    : MIBF.Balanced.full_lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:58:02.782735+00:00
 -- url     : https://prove2.me/theorems/437d1af8-aa18-402d-8fda-103fcbf2e82e

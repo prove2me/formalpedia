@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_decomp
 -- name    : Formalism.DivisionValues.shift_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:11:11.426085+00:00
 -- url     : https://prove2.me/theorems/85074370-db93-4ea1-8735-3f412aef18ff

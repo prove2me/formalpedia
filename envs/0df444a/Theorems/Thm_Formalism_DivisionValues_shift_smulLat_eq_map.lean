@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_smulLat_eq_map
 -- name    : Formalism.DivisionValues.shift_smulLat_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:15.158312+00:00
 -- url     : https://prove2.me/theorems/26aee18d-22b6-4424-97c5-84d0ef582754

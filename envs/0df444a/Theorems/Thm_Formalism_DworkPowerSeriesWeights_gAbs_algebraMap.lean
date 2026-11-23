@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_gAbs_algebraMap
 -- name    : Formalism.DworkPowerSeriesWeights.gAbs_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:57:50.287216+00:00
 -- url     : https://prove2.me/theorems/b382f7fa-238c-4003-a2f2-0c7bf55f721f

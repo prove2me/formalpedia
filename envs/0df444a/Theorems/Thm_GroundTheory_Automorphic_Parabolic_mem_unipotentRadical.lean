@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_mem_unipotentRadical
 -- name    : GroundTheory.Automorphic.Parabolic.mem_unipotentRadical
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:58:03.30031+00:00
 -- url     : https://prove2.me/theorems/09780407-82bb-472a-aa5e-eda49bc22a4e

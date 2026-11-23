@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_charZero_wittVector_of_field
 -- name    : GlobalTheory.charZero_wittVector_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:59.505928+00:00
 -- url     : https://prove2.me/theorems/4b8eb845-f724-44ba-8998-4b92cfa87f72

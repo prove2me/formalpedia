@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvKM_isClosed_capSet
 -- name    : DiscreteGroups.sglob.LConvKM.isClosed_capSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:39.689121+00:00
 -- url     : https://prove2.me/theorems/8ec5ba5b-9a42-4310-b37b-26e03d6bbca3

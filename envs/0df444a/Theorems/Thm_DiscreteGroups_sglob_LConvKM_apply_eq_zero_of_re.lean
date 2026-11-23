@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvKM_apply_eq_zero_of_re
 -- name    : DiscreteGroups.sglob.LConvKM.apply_eq_zero_of_re
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:26.081145+00:00
 -- url     : https://prove2.me/theorems/b10ed6d8-db37-4fa3-b8eb-81aaf6d898ad

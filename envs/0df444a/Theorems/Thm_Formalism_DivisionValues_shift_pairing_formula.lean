@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_pairing_formula
 -- name    : Formalism.DivisionValues.shift_pairing_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:30.889599+00:00
 -- url     : https://prove2.me/theorems/98e352e1-c6ec-45de-8202-c306e1ec1611

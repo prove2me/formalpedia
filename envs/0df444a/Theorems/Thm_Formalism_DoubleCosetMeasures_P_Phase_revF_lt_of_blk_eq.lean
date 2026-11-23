@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_Phase_revF_lt_of_blk_eq
 -- name    : Formalism.DoubleCosetMeasures.P.Phase.revF_lt_of_blk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:26:59.709923+00:00
 -- url     : https://prove2.me/theorems/bceca985-c8d3-4c15-a0ce-6ff7be2596bf

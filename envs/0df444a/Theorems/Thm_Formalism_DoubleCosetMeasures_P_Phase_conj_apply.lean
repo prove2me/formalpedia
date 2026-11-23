@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_Phase_conj_apply
 -- name    : Formalism.DoubleCosetMeasures.P.Phase.conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:26:43.23668+00:00
 -- url     : https://prove2.me/theorems/88006155-c7a3-494d-8a40-8d74551bc39a

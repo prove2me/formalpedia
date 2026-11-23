@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiOffDiagonalOneArrivalEventError
 -- name    : Kyprianou.Ch01.reverseLampertiOffDiagonalOneArrivalEventError
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:52:41.564658+00:00
 -- url     : https://prove2.me/theorems/edbf201e-bdd7-41bb-b968-3fc58ad2e89b

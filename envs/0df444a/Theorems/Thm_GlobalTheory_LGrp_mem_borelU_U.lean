@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_mem_borelU_U
 -- name    : GlobalTheory.LGrp.mem_borelU_U
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:20.942053+00:00
 -- url     : https://prove2.me/theorems/03bd989d-3043-40c6-a83a-20ec9079969e

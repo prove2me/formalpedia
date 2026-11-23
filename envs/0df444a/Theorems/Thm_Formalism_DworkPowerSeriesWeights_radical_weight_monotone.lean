@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_radical_weight_monotone
 -- name    : Formalism.DworkPowerSeriesWeights.radical_weight_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:09:34.266432+00:00
 -- url     : https://prove2.me/theorems/a5a198e1-8f49-4419-8290-95fc8fd41562

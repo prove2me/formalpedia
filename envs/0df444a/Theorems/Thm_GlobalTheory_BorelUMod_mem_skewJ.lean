@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_mem_skewJ
 -- name    : GlobalTheory.BorelUMod.mem_skewJ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:42.430721+00:00
 -- url     : https://prove2.me/theorems/a387ae4e-84d8-4ae8-bb60-db743c21fabc

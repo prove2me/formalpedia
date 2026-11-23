@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_isOpen_intSub
 -- name    : Formalism.DoubleCosetMeasures.P.isOpen_intSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:54:27.472697+00:00
 -- url     : https://prove2.me/theorems/0b95d288-70e8-4c3a-88e0-fdf948796917

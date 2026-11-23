@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_shiftIdeal_ne_zero
 -- name    : Formalism.DivisionValues.shift_shiftIdeal_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:29.94177+00:00
 -- url     : https://prove2.me/theorems/a8548b94-0151-4308-8b30-63bde1beafc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_residuallyGenericExists
 -- name    : Formalism.DworkPowerSeriesWeights.residuallyGenericExists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:40:59.605249+00:00
 -- url     : https://prove2.me/theorems/2a62a9d1-87eb-4af7-990e-f4fb3ca18853

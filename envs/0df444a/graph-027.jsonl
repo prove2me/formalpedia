@@ -47335,7 +47335,7 @@
 {"parent": "OAI.CubicEisenstein.kernelCuspAverageFamily_analyticAt_of_isUnit", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SeedHeight", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bva22_original_finiteactivity_standing_two_clock_source_ledger", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "DistributedMWC440.UpperBound.lemma_7_3", "child": "DistributedMWC440_UpperBound_Operations", "via": ["statement"]}
-{"parent": "MIBF.Balanced.full_lemma_2_1", "child": "MIBF_Balanced_EdgeValue", "via": ["statement"]}
+{"parent": "MIBF.Balanced.full_lemma_2_1", "child": "MIBF_Balanced_EdgeValue", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZPhysicalStarTransport.two_run", "child": "QEC.Coding.BDL26RZErrorPullback.two_run", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZPhysicalStarTransport.two_run", "child": "QEC_Coding_FiniteAlternatingConstruction_GraphQuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZPhysicalStarTransport.two_run", "child": "QEC_Coding_FiniteAlternatingConstruction_RZFiniteBlockTransport", "via": ["solution", "statement"]}

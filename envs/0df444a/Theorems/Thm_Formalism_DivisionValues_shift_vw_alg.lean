@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_vw_alg
 -- name    : Formalism.DivisionValues.shift_vw_alg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:44.882942+00:00
 -- url     : https://prove2.me/theorems/5899c508-3425-484a-a11c-3055382643f8

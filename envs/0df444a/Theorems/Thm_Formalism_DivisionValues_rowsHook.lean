@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_rowsHook
 -- name    : Formalism.DivisionValues.rowsHook
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:24:44.030885+00:00
 -- url     : https://prove2.me/theorems/18d0ac37-c24a-442b-ad0a-4446f9602f39

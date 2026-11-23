@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_logarithm_weight_comparison
 -- name    : Formalism.DworkPowerSeriesWeights.logarithm_weight_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:50:42.144209+00:00
 -- url     : https://prove2.me/theorems/583cacd8-3e84-48aa-8533-0bfc7377a4bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_homPreservesCochains_holds
 -- name    : Formalism.CoboundaryTransfers.homPreservesCochains_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:30.619803+00:00
 -- url     : https://prove2.me/theorems/ea58d70b-ffb1-40b6-ab21-b0b733837445

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x4_isoZZ_trans
 -- name    : Formalism.FourierDecayAlt.P.A5x4.isoZZ_trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:26:18.264595+00:00
 -- url     : https://prove2.me/theorems/0e9770eb-7178-4054-86ad-57616d93e0ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHMult_occurs_of_finset
 -- name    : GlobalTheory.JHMult.occurs_of_finset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:33.8964+00:00
 -- url     : https://prove2.me/theorems/f696a384-e36c-4ab9-8bee-4223bb774103

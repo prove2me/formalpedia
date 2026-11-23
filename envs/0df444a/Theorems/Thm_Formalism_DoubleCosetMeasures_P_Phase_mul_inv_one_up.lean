@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_Phase_mul_inv_one_up
 -- name    : Formalism.DoubleCosetMeasures.P.Phase.mul_inv_one_up
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:23:34.031708+00:00
 -- url     : https://prove2.me/theorems/268210d8-4d7f-499a-af82-01ad4454e2e4

@@ -99623,7 +99623,7 @@
 {"parent": "RH1E6S06.part_028_2", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S06.part_028_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06.part_028_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "MultibrotCorr.theorem_3_1", "child": "mcorr_branches", "via": ["statement"]}
+{"parent": "MultibrotCorr.theorem_3_1", "child": "mcorr_branches", "via": ["solution", "statement"]}
 {"parent": "RandomSizeStable.Stability.RankCutCert.cellsHigh_01", "child": "RandomSizeStable_Stability_RankCutCert", "via": ["solution", "statement"]}
 {"parent": "RiemannMasullo.elementarySchwartz_polynomial_operator_continuous_seminorm", "child": "RiemannMasullo_ElementarySchwartzTopology", "via": ["solution", "statement"]}
 {"parent": "MasulloRH.finite_high_zero_interpolating_mellin_kernels", "child": "MasulloRH_RationalTrace", "via": ["solution", "statement"]}

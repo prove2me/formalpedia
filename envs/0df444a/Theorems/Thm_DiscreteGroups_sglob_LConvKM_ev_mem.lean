@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvKM_ev_mem
 -- name    : DiscreteGroups.sglob.LConvKM.ev_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:35:08.243828+00:00
 -- url     : https://prove2.me/theorems/f8b92c1f-26bf-48e7-8553-7850d3881311

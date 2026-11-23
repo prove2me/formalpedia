@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x7_cos_eq_iff
 -- name    : Formalism.FourierDecayAlt.P.A5x7.cos_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:57:31.24812+00:00
 -- url     : https://prove2.me/theorems/ed10aac7-e890-45a7-8c7b-87dc8b67b6e2

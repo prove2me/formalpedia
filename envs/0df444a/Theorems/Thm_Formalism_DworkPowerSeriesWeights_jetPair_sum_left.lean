@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_jetPair_sum_left
 -- name    : Formalism.DworkPowerSeriesWeights.jetPair_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:02:46.270721+00:00
 -- url     : https://prove2.me/theorems/822e7e3d-b8ea-401a-9c49-fe3d075bf3f1

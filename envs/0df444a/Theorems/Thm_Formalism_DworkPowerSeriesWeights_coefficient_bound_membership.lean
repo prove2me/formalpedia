@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_coefficient_bound_membership
 -- name    : Formalism.DworkPowerSeriesWeights.coefficient_bound_membership
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:57:40.289113+00:00
 -- url     : https://prove2.me/theorems/3c155113-4d18-452d-8434-84f96281cb4d

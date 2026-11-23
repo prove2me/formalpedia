@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x5_modK_neg
 -- name    : Formalism.FourierDecayAlt.P.A5x5.modK_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:13:24.707318+00:00
 -- url     : https://prove2.me/theorems/42701a19-f0dd-4dc5-9d6c-2e5a9839f82e

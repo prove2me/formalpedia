@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_Vol_piece_sub_mul_cong
 -- name    : Formalism.DoubleCosetMeasures.P.Vol.piece_sub_mul_cong
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:54:33.357931+00:00
 -- url     : https://prove2.me/theorems/832dda1b-ce5a-4d11-a97c-3b7cc157bd79

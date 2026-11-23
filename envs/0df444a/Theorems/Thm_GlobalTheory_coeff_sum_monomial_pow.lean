@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_sum_monomial_pow
 -- name    : GlobalTheory.coeff_sum_monomial_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:04.898733+00:00
 -- url     : https://prove2.me/theorems/a3863ff7-747d-4fe8-8f13-20085360c1d8

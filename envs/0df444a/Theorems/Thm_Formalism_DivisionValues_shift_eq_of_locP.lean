@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_eq_of_locP
 -- name    : Formalism.DivisionValues.shift_eq_of_locP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:48:47.802643+00:00
 -- url     : https://prove2.me/theorems/24810380-105a-461c-adce-d87cde7e5d96

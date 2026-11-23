@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_divIntoDualShift
 -- name    : Formalism.DivisionValues.divIntoDualShift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:56.284024+00:00
 -- url     : https://prove2.me/theorems/0b206ccb-2a53-4144-ad91-3b2b753f76b5

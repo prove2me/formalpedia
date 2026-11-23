@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_derivative_mem_away
 -- name    : GlobalTheory.BK.derivative_mem_away
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:20.957807+00:00
 -- url     : https://prove2.me/theorems/71451461-9512-4637-8f1c-d06de97649b1

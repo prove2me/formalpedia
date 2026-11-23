@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_dosetVol
 -- name    : Formalism.DoubleCosetMeasures.P.dosetVol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:07:41.886069+00:00
 -- url     : https://prove2.me/theorems/98670ac4-a6ee-4799-a591-a0014d56f891

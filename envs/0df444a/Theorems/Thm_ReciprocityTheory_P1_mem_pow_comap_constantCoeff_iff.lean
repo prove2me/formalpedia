@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_P1_mem_pow_comap_constantCoeff_iff
 -- name    : ReciprocityTheory.P1.mem_pow_comap_constantCoeff_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:21:43.622372+00:00
 -- url     : https://prove2.me/theorems/6e47e174-f108-4e15-940e-cc8779f742e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BSP_isUnit_l_disc
 -- name    : GlobalTheory.BSP.isUnit_l_disc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:40.890879+00:00
 -- url     : https://prove2.me/theorems/d0b6f88b-5c45-4514-87bd-5f0c3df48189

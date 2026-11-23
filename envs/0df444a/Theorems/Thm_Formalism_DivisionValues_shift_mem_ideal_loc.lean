@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_mem_ideal_loc
 -- name    : Formalism.DivisionValues.shift_mem_ideal_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:02.541643+00:00
 -- url     : https://prove2.me/theorems/aba174d7-8ada-4df1-9c03-d110bd7ec989

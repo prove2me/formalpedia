@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_simpleAdd
 -- name    : Formalism.DoubleCosetMeasures.P.simpleAdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:24:58.837383+00:00
 -- url     : https://prove2.me/theorems/6c454462-3f01-431d-8e31-1af2f52f9b5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiSingleMarkedJumpWindowAE
 -- name    : Kyprianou.Ch01.reverseLampertiSingleMarkedJumpWindowAE
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:02:49.887794+00:00
 -- url     : https://prove2.me/theorems/013d7d8e-13c6-4393-9cd6-07335b5aa214

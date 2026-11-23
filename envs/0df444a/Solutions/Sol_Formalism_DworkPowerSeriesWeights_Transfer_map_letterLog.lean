@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.DworkPowerSeriesWeights.Transfer.map_letterLog
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T17:56:53.30544+00:00
+-- url     : https://prove2.me/submissions/98038b88-6aa3-4fe6-ae15-bced1e43948f
+
+import Definitions.Def_Formalism_GaussJetBounds_FrameJetEval
+import Definitions.Def_Formalism_GaussJetBounds_GaussJetProofs_Transfer
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators
+open Formalism Formalism.DworkPowerSeriesWeights
+open Formalism.IncomingBounds MvPowerSeries
+open Formalism.DworkPowerSeriesWeights.Transfer
+variable {F K : Type} [Field F] [Field K] (φ : F →+* K) {d : ℕ}
+namespace Formalism.DworkPowerSeriesWeights.Transfer
+theorem _root_.solution (l : ℕ) (x : V2 d) :
+    map φ (letterLog (K := F) l x) = letterLog l x := by
+  ext n
+  rw [MvPowerSeries.coeff_map]
+  change φ (letterLog (K := F) l x n) = letterLog (K := K) l x n
+  simp only [letterLog]
+  rw [map_sum]
+  refine Finset.sum_congr rfl fun e _ => ?_
+  split_ifs <;> simp
+end Formalism.DworkPowerSeriesWeights.Transfer

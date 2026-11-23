@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_wach_lattice_nonempty_gamma
 -- name    : Formalism.CoboundaryTransfers.wach_lattice_nonempty_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:48:54.078173+00:00
 -- url     : https://prove2.me/theorems/6836a5d2-9d2a-4d87-9921-e0995979e4dc

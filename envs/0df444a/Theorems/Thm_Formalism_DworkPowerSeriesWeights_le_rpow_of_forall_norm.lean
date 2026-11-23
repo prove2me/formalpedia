@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_le_rpow_of_forall_norm
 -- name    : Formalism.DworkPowerSeriesWeights.le_rpow_of_forall_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:58:42.630086+00:00
 -- url     : https://prove2.me/theorems/6cbec74d-d097-4ce6-bd93-62c9e96adb02

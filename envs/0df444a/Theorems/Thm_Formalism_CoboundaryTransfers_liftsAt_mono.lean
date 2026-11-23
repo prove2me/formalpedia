@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_liftsAt_mono
 -- name    : Formalism.CoboundaryTransfers.liftsAt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:34.092805+00:00
 -- url     : https://prove2.me/theorems/85528076-3be2-4108-b80e-8d4369c4dd24

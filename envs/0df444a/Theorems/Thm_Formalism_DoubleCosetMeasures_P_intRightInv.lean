@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_intRightInv
 -- name    : Formalism.DoubleCosetMeasures.P.intRightInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:54:27.167799+00:00
 -- url     : https://prove2.me/theorems/7f2a415b-515d-4a49-9ddf-1eaae98331fb

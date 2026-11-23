@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_isSmooth_extTensor
 -- name    : GlobalTheory.SmGL.isSmooth_extTensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:00.08481+00:00
 -- url     : https://prove2.me/theorems/5fa051b7-08de-4784-97f8-dca1614dac0f

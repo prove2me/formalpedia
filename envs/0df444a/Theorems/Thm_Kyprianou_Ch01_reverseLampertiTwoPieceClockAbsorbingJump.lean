@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiTwoPieceClockAbsorbingJump
 -- name    : Kyprianou.Ch01.reverseLampertiTwoPieceClockAbsorbingJump
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:19:05.616847+00:00
 -- url     : https://prove2.me/theorems/ece08aa2-cef0-41f5-a9aa-682cf0a1bf19

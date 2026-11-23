@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_Vol_measure_uniformizerMatrixSet_mul_card
 -- name    : Formalism.DoubleCosetMeasures.P.Vol.measure_uniformizerMatrixSet_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:54:04.876327+00:00
 -- url     : https://prove2.me/theorems/5e299481-fb39-4deb-97f5-982403245e94

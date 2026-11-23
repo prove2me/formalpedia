@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_WachMod_cocycle_mem_Zf
 -- name    : Formalism.CoboundaryTransfers.WachMod.cocycle_mem_Zf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:35:42.608057+00:00
 -- url     : https://prove2.me/theorems/97db39be-7e9c-43c8-8524-64ade0466d01

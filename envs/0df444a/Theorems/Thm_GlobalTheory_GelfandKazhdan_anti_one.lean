@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GelfandKazhdan_anti_one
 -- name    : GlobalTheory.GelfandKazhdan.anti_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:07.584569+00:00
 -- url     : https://prove2.me/theorems/9cd93f3a-0809-4f50-9628-2a9af4f21301

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_suppCompact
 -- name    : Formalism.DoubleCosetMeasures.P.suppCompact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:07:57.594333+00:00
 -- url     : https://prove2.me/theorems/adafb8d2-0bca-4bc9-a079-34a88585c378

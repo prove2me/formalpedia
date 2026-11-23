@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_asmA_top
 -- name    : Formalism.DworkPowerSeriesWeights.asmA_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:59:07.386145+00:00
 -- url     : https://prove2.me/theorems/6e0d51b6-6716-4ed7-8013-0dd256b009b7

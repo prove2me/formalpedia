@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_differentialsComplex_holds
 -- name    : Formalism.CoboundaryTransfers.differentialsComplex_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:51.310639+00:00
 -- url     : https://prove2.me/theorems/7f9f2f5b-bcbc-41ba-a8fc-917791afab2a

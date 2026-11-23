@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProofStatement_main
 -- name    : GlobalTheory.ProofStatement.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:51.332153+00:00
 -- url     : https://prove2.me/theorems/f1b5596e-3a03-4e76-a6d7-f98e6765de24

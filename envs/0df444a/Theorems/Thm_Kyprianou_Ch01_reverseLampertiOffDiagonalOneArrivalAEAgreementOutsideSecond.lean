@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiOffDiagonalOneArrivalAEAgreementOutsideSecond
 -- name    : Kyprianou.Ch01.reverseLampertiOffDiagonalOneArrivalAEAgreementOutsideSecond
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:11:52.369687+00:00
 -- url     : https://prove2.me/theorems/8804474f-52a6-4a1f-9ba2-5fefc5be3eea

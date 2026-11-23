@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCFR_isOpen_ker
 -- name    : ReciprocityTheory.Neutral.Bridge.HCFR.isOpen_ker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:59:41.091192+00:00
 -- url     : https://prove2.me/theorems/dca0258d-9501-4e3f-822f-c3a33f1dada1

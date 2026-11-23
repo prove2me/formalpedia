@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_shp_qi_of_bij
 -- name    : ReciprocityTheory.Coh.shp_qi_of_bij
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:43:09.317085+00:00
 -- url     : https://prove2.me/theorems/6de6c0a0-cd15-49a2-8f4d-a578e61acf54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiTwoPieceClockSingleJump
 -- name    : Kyprianou.Ch01.reverseLampertiTwoPieceClockSingleJump
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:13:47.66206+00:00
 -- url     : https://prove2.me/theorems/e04a784f-5925-49ab-a4b0-00079e53511b

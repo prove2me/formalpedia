@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_adjJ_mul
 -- name    : GlobalTheory.BorelUMod.adjJ_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:27.972037+00:00
 -- url     : https://prove2.me/theorems/6628bc78-40a3-4e0a-9e22-98cc494bf349

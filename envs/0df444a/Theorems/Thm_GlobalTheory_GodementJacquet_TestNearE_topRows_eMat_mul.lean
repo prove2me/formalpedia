@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_TestNearE_topRows_eMat_mul
 -- name    : GlobalTheory.GodementJacquet.TestNearE.topRows_eMat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:46:11.453216+00:00
 -- url     : https://prove2.me/theorems/33bfe6bd-c882-41e4-914e-de7f5b52d25e

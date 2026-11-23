@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_cochainsSubmodules_holds
 -- name    : Formalism.CoboundaryTransfers.cochainsSubmodules_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:59.801076+00:00
 -- url     : https://prove2.me/theorems/59343e99-40d5-46db-8540-26197101fadc

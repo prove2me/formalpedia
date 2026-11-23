@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_chase_hom_Q
 -- name    : Formalism.CoboundaryTransfers.chase_hom_Q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:10.175566+00:00
 -- url     : https://prove2.me/theorems/f78fa87a-8f83-4b04-84c7-cd95e872d572

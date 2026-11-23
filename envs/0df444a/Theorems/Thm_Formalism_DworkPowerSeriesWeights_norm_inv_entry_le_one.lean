@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_norm_inv_entry_le_one
 -- name    : Formalism.DworkPowerSeriesWeights.norm_inv_entry_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:02:57.498406+00:00
 -- url     : https://prove2.me/theorems/9a3444ac-7860-4995-a071-f8890da9f0ec

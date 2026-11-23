@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_lamLin_mul
 -- name    : Formalism.DoubleCosetMeasures.P.lamLin_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:08:01.491819+00:00
 -- url     : https://prove2.me/theorems/b28d6df0-0370-47c0-8931-f6c41e66a7d5

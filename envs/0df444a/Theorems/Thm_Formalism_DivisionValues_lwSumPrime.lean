@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_lwSumPrime
 -- name    : Formalism.DivisionValues.lwSumPrime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:46:44.480651+00:00
 -- url     : https://prove2.me/theorems/5fa2f021-7394-424d-94d5-b7c7a32fa8eb

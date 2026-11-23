@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.reverseLampertiOffDiagonalOneArrivalAEAgreementOutsideSecond
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T14:17:11.477797+00:00
 -- url     : https://prove2.me/submissions/d32e6295-49cf-4f44-a409-bc6b8fef2fe7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_BranchingClocks

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvKM_isCompact_capSet
 -- name    : DiscreteGroups.sglob.LConvKM.isCompact_capSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:29.8917+00:00
 -- url     : https://prove2.me/theorems/450a7d83-c8c5-42c2-9ada-547f60eb9957

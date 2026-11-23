@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_cokEquiv_eZ
 -- name    : Formalism.DoubleCosetMeasures.P.cokEquiv_eZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:07:40.402942+00:00
 -- url     : https://prove2.me/theorems/1249e87c-bedc-4b3f-a6e8-26a746fdd860

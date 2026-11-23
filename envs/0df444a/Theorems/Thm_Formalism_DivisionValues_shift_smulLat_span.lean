@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_smulLat_span
 -- name    : Formalism.DivisionValues.shift_smulLat_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:19.650812+00:00
 -- url     : https://prove2.me/theorems/c139ff99-df47-480f-98b3-961f6dc32dee

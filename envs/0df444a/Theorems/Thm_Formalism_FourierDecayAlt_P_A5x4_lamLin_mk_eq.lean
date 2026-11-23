@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x4_lamLin_mk_eq
 -- name    : Formalism.FourierDecayAlt.P.A5x4.lamLin_mk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:48:58.804842+00:00
 -- url     : https://prove2.me/theorems/a089fca3-bc75-4be1-b2b0-3f1fbbb4f45f

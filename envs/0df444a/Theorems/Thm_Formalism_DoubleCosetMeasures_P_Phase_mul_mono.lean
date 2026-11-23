@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_Phase_mul_mono
 -- name    : Formalism.DoubleCosetMeasures.P.Phase.mul_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:45:26.616112+00:00
 -- url     : https://prove2.me/theorems/68e50e98-2a28-4d40-a7e0-d6af5474d8e9

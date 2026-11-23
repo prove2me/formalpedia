@@ -48016,7 +48016,7 @@
 {"parent": "MaskingHardness.Supplement.theorem_4_1", "child": "MaskingHardness_IsNoisyChannel", "via": ["statement"]}
 {"parent": "MaskingHardness.Supplement.theorem_4_1", "child": "MaskingHardness_IsDist", "via": ["statement"]}
 {"parent": "TrapdoorHCF.CCA2.Supplement.lemma_11", "child": "TrapdoorHCF_CCA2_Supplement_CPA", "via": ["statement"]}
-{"parent": "HarmonicRanking.Main.Supplement.theorem_B_3", "child": "HarmonicRanking_Main_Supplement_PriceLP", "via": ["statement"]}
+{"parent": "HarmonicRanking.Main.Supplement.theorem_B_3", "child": "HarmonicRanking_Main_Supplement_PriceLP", "via": ["solution", "statement"]}
 {"parent": "UnionVolEst.Supplement.theorem_21", "child": "UnionVolEst_IsAlmostLinftyClose", "via": ["statement"]}
 {"parent": "UnionVolEst.Supplement.theorem_21", "child": "UnionVolEst_Supplement_hitRunLaw", "via": ["statement"]}
 {"parent": "MaxCompForest.Supplement.theorem_4_2", "child": "MaxCompForest_encIndices", "via": ["statement"]}
@@ -50904,9 +50904,9 @@
 {"parent": "ByzSigT.Supplement.theorem_5_1", "child": "ByzSigT_Secure", "via": ["statement"]}
 {"parent": "CatalyticMatching.General.Supplement.unique_rank_increase", "child": "CatalyticMatching_General_Supplement_MixedMatrix", "via": ["statement"]}
 {"parent": "PNormRegLib_AddressBound", "child": "PNormReg_Machine", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_5_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_5_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_5_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.exercise2_5_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_5_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_5_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "MaxCutMatrix2027_Upper_Supplement_CSP", "child": "MaxCutMatrix2027_Upper_RAM", "via": ["statement"]}
 {"parent": "PreprocOWS_Supplement_searchWin", "child": "PreprocOWS_chal", "via": ["statement"]}
 {"parent": "PreprocOWS_Supplement_searchWin", "child": "PreprocOWS_vnormSq", "via": ["statement"]}

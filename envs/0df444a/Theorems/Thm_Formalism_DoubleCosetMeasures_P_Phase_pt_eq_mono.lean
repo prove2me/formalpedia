@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_Phase_pt_eq_mono
 -- name    : Formalism.DoubleCosetMeasures.P.Phase.pt_eq_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:07:16.617465+00:00
 -- url     : https://prove2.me/theorems/7a955631-4507-47c7-993c-7a341b773965

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_wach_lattice_nonempty_Q
 -- name    : Formalism.CoboundaryTransfers.wach_lattice_nonempty_Q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:35.62626+00:00
 -- url     : https://prove2.me/theorems/c4632b96-fc25-444b-acdd-6456ddba4931

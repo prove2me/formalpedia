@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_WachMod_cocycle_of_isCob1
 -- name    : Formalism.CoboundaryTransfers.WachMod.cocycle_of_isCob1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:32:54.034439+00:00
 -- url     : https://prove2.me/theorems/188dfb70-0f60-4abe-a5b5-a0e155e83c24

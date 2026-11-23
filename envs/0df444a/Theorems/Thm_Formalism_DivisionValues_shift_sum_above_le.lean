@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_sum_above_le
 -- name    : Formalism.DivisionValues.shift_sum_above_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:45.453384+00:00
 -- url     : https://prove2.me/theorems/5afd1e2b-6e5c-4288-942a-a34eadb8a295

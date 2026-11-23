@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_WachMod_mem_coboundaries_of_isOneCoboundary
 -- name    : Formalism.CoboundaryTransfers.WachMod.mem_coboundaries_of_isOneCoboundary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:32:40.495358+00:00
 -- url     : https://prove2.me/theorems/dff36a16-0ce1-4545-b780-cbb6510b36be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicRanking_Main_Supplement_theorem_B_3
 -- name    : HarmonicRanking.Main.Supplement.theorem_B_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T14:49:44.974749+00:00
 -- url     : https://prove2.me/theorems/15c757e3-5c2a-43be-804b-450fbb3afd14

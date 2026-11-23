@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_ThmBab_b
 -- name    : UpperTheory.V.ThmBab.b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:56.838311+00:00
 -- url     : https://prove2.me/theorems/0009f01f-21de-4420-8ef0-0931c9be8358

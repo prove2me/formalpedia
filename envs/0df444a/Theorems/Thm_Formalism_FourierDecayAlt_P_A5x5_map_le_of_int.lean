@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x5_map_le_of_int
 -- name    : Formalism.FourierDecayAlt.P.A5x5.map_le_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:26:44.984387+00:00
 -- url     : https://prove2.me/theorems/39eb4bc3-7e02-4c70-9638-0f8827bbbc54

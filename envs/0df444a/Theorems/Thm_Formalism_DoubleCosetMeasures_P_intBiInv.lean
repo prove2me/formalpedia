@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_intBiInv
 -- name    : Formalism.DoubleCosetMeasures.P.intBiInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:55:05.45301+00:00
 -- url     : https://prove2.me/theorems/595bda3b-b78c-4e18-aefc-966a9c738b86

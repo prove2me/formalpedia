@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_small_quot
+-- name    : Formalism.FourierDecayAlt.P.A6x9.small_quot
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T18:06:27.730849+00:00
+-- url     : https://prove2.me/theorems/3eff717e-8f17-4b6e-b624-066ce78ae945
+-- title:
+--   A6x9: small quot
+-- statement:
+--   The A6x9 construction uses the small quot property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/PadicChangeOfVariables.lean#L345-L349
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/PadicChangeOfVariables.lean#L345-L349
+
+import Definitions.Def_Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_KernelNonzeroModulusDeterminantEq
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralLatticeRefinementIdentity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PadicChangeOfVariables
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix Formalism.DoubleCosetMeasures Formalism.FourierDecayAlt.A5 Formalism.FourierDecayAlt.A6 Filter Topology
+open scoped ComplexConjugate
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.A6x9
+variable {K : Type} [CommRing K]
+variable [TopologicalSpace K] [IsTopologicalRing K] {R : Subring K} {ψ : AddChar K ℂ}
+variable (π : Kˣ)
+variable (hd : LocalDatum K R ψ) (hn : ∀ n : ℕ, n ≠ 0 → IsUnit (n : K))
+  (hπ : (π : K) ∈ R) (hπ' : ∀ x : K, ∃ m : ℕ, (π : K) ^ m * x ∈ R) {m k k' i : ℕ} {si z0 z0i : K}
+  (hs : ((m + 1 : ℕ) : K) * si = 1) (hk : (π : K) ^ k * si ∈ R) (hz0 : z0 * z0i = 1)
+  (hk' : (π : K) ^ k' * z0i ∈ R)
+include hπ hk'
+
+theorem Formalism.FourierDecayAlt.P.A6x9.small_quot {b : K} (hb : b ∈ mulR R ((π : K) ^ (k + 1 + k' + i))) :
+    b * z0i ∈ mulR R ((π : K) ^ (k + 1)) := by sorry

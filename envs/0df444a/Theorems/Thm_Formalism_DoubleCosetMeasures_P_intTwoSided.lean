@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_intTwoSided
 -- name    : Formalism.DoubleCosetMeasures.P.intTwoSided
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:28:14.916192+00:00
 -- url     : https://prove2.me/theorems/5df1792b-d831-4030-9597-aa7a2f8b3bb3

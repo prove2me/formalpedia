@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvKM_ray
 -- name    : DiscreteGroups.sglob.LConvKM.ray
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:07.846128+00:00
 -- url     : https://prove2.me/theorems/29a0871a-529b-4988-a75c-843571cd3643

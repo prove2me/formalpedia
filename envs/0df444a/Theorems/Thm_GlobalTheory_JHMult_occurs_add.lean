@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHMult_occurs_add
 -- name    : GlobalTheory.JHMult.occurs_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:17.920332+00:00
 -- url     : https://prove2.me/theorems/42640e41-db0e-41b9-8174-96f50e0063da

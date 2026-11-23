@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BSP_norm_toDisc_pow_le
 -- name    : GlobalTheory.BSP.norm_toDisc_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:31.098889+00:00
 -- url     : https://prove2.me/theorems/b76f4440-c18d-464d-8dfa-13ea71a7036a

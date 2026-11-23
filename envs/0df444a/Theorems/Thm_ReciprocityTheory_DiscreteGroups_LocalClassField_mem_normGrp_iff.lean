@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_mem_normGrp_iff
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.mem_normGrp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:46:54.562721+00:00
 -- url     : https://prove2.me/theorems/3aa72440-d58c-4b56-9c31-7b2cd729e2a6

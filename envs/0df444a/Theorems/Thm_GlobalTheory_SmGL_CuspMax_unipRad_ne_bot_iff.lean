@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_CuspMax_unipRad_ne_bot_iff
 -- name    : GlobalTheory.SmGL.CuspMax.unipRad_ne_bot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:49.912805+00:00
 -- url     : https://prove2.me/theorems/56a66f61-2df6-4be7-880e-8756ef94d87c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvKM_diag_bound
 -- name    : DiscreteGroups.sglob.LConvKM.diag_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:24.770941+00:00
 -- url     : https://prove2.me/theorems/5a385a44-4f7c-40d9-a4d0-5468809ba9c3

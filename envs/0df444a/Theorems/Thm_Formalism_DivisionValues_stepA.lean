@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_stepA
 -- name    : Formalism.DivisionValues.stepA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:47.414807+00:00
 -- url     : https://prove2.me/theorems/ddd24e6b-6eec-4487-be13-8ee81b0b56c2

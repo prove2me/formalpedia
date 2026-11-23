@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_isWeight_zero
 -- name    : GlobalTheory.BorelUMod.isWeight_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:40.457439+00:00
 -- url     : https://prove2.me/theorems/be95422f-3b98-45b8-8b0d-6c7a586cb369

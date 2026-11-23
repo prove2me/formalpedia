@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_smul_mem_locP
 -- name    : Formalism.DivisionValues.shift_smul_mem_locP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:11.50099+00:00
 -- url     : https://prove2.me/theorems/ea305c90-baf3-4264-bac1-fb8b24f3a0da

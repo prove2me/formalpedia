@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_count_shiftIdeal
 -- name    : Formalism.DivisionValues.shift_count_shiftIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:01.00773+00:00
 -- url     : https://prove2.me/theorems/d0876edf-db31-4e85-8af3-7899727d8cf3

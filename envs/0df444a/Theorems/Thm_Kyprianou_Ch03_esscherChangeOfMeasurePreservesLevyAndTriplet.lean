@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherChangeOfMeasurePreservesLevyAndTriplet
 -- name    : Kyprianou.Ch03.esscherChangeOfMeasurePreservesLevyAndTriplet
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:40:41.645956+00:00
 -- url     : https://prove2.me/theorems/f153b64d-c555-49f6-9313-bb720412692a

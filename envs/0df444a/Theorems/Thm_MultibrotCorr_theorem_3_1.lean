@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultibrotCorr_theorem_3_1
 -- name    : MultibrotCorr.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T23:36:08.100364+00:00
 -- url     : https://prove2.me/theorems/245cada4-cc53-448a-8f4f-d866f977c58e

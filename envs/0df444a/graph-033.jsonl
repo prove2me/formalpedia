@@ -88291,10 +88291,10 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_10", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_11", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_11", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.esscherTripletWitness_property1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.esscherTripletWitness_property1", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.esscherTripletWitness_property1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.esscherTripletWitness_property1", "child": "Kyprianou_Ch03_EsscherDensity", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.esscherTripletWitness_property1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.esscherTripletWitness_property1", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.esscherTripletWitness_property1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.esscherTripletWitness_property1", "child": "Kyprianou_Ch03_EsscherDensity", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.checked_D8_216", "child": "RealPinwheel_FiveSixths_WitnessD8_216", "via": ["solution", "statement"]}
 {"parent": "DiazModulus.dalag_prop_12_13_ii_i", "child": "DiazModulus", "via": ["solution", "statement"]}
 {"parent": "RH1E5_Data000", "child": "ArdaRS_BandSharp", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_int_of_nonneg
 -- name    : Formalism.DivisionValues.shift_int_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:12:31.962101+00:00
 -- url     : https://prove2.me/theorems/71f2b9b3-59dd-4a7e-a899-53615eb96a4d

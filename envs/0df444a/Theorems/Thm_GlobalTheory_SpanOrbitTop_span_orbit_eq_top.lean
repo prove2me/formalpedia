@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanOrbitTop_span_orbit_eq_top
 -- name    : GlobalTheory.SpanOrbitTop.span_orbit_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:28.502945+00:00
 -- url     : https://prove2.me/theorems/590958c9-6319-488a-bd6f-4d2ca2290e27

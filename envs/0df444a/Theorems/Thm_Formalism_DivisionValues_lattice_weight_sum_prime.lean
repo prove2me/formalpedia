@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_lattice_weight_sum_prime
 -- name    : Formalism.DivisionValues.lattice_weight_sum_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:17.253803+00:00
 -- url     : https://prove2.me/theorems/7130e1c0-b1d1-4029-9d4a-033be906885a

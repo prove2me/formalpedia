@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvKM_re_add_le
 -- name    : DiscreteGroups.sglob.LConvKM.re_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:40.37383+00:00
 -- url     : https://prove2.me/theorems/2773154c-3215-4311-8965-0763c573d33a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_bnx_coeff_subst
 -- name    : Formalism.DworkPowerSeriesWeights.bnx_coeff_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:59:23.696062+00:00
 -- url     : https://prove2.me/theorems/2f2a4586-acef-4411-b5dd-ae029cdfd57d

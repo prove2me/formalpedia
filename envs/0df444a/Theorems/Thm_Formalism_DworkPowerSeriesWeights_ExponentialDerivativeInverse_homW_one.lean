@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_ExponentialDerivativeInverse_homW_one
 -- name    : Formalism.DworkPowerSeriesWeights.ExponentialDerivativeInverse.homW_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:56:31.807622+00:00
 -- url     : https://prove2.me/theorems/545c1362-d7ef-408a-9009-a4e074ef5244

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x5_lat_map
 -- name    : Formalism.FourierDecayAlt.P.A5x5.lat_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:44:59.955879+00:00
 -- url     : https://prove2.me/theorems/d5f47e28-506f-47c4-964b-a85526b09359

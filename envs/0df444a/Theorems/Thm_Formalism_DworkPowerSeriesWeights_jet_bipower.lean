@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_jet_bipower
 -- name    : Formalism.DworkPowerSeriesWeights.jet_bipower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:03:02.004826+00:00
 -- url     : https://prove2.me/theorems/dcbae81f-d168-4994-ab0b-7e90849f0f99

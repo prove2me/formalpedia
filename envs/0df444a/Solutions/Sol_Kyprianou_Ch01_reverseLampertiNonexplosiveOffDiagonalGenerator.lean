@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.reverseLampertiNonexplosiveOffDiagonalGenerator
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T12:35:47.845955+00:00
 -- url     : https://prove2.me/submissions/943d44da-85d8-4136-8d0e-4dc95909cda1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_BranchingClocks

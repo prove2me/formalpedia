@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_spectral_determinant_formula
 -- name    : Formalism.DivisionValues.spectral_determinant_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:24.541519+00:00
 -- url     : https://prove2.me/theorems/0b411cb3-b23a-425a-b9dd-9c7f31189701
