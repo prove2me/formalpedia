@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerNav_construction_navigable
 -- name    : SteinerNav.construction_navigable
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:47:32.560805+00:00
 -- url     : https://prove2.me/theorems/09cee49c-1f06-4413-96b7-1dec10d519f1

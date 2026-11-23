@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreshSig_Layered_theorem_3_3
 -- name    : FreshSig.Layered.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T01:44:23.177464+00:00
 -- url     : https://prove2.me/theorems/c81a6daa-c3b6-4b0a-9f11-a371725ee7f9

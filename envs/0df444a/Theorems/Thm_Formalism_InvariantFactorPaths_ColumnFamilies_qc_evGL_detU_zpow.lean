@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qc_evGL_detU_zpow
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qc_evGL_detU_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:48:25.227163+00:00
 -- url     : https://prove2.me/theorems/bc4d3799-324e-4c92-a953-4789d71759ea

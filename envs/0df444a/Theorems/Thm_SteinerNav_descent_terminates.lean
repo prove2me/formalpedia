@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerNav_descent_terminates
 -- name    : SteinerNav.descent_terminates
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:47:39.202669+00:00
 -- url     : https://prove2.me/theorems/c02f5324-edc8-4fdf-90c3-d900523dd7a7

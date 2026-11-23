@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsestCutOracle_Main_sdp_opt_le
 -- name    : SparsestCutOracle.Main.sdp_opt_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:40:46.765331+00:00
 -- url     : https://prove2.me/theorems/c0c39899-7d1e-4058-ab06-281eddf78e54

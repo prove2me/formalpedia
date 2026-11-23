@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_tails_range
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.tails_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:37.218337+00:00
 -- url     : https://prove2.me/theorems/ea0a7f02-3c85-42a7-9adc-8e52cebf527a

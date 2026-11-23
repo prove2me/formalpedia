@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZonotopeContainment_AdaptiveSampling_feasibility
 -- name    : ZonotopeContainment.AdaptiveSampling.feasibility
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:17:45.142875+00:00
 -- url     : https://prove2.me/theorems/6b6e3ca0-3823-4efa-bbb6-991c7064d64f

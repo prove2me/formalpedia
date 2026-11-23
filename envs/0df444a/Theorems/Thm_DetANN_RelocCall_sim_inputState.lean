@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_RelocCall_sim_inputState
 -- name    : DetANN.RelocCall.sim_inputState
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:48:03.315671+00:00
 -- url     : https://prove2.me/theorems/0a847eff-11ef-4eef-b6b5-8c84fdc9051c

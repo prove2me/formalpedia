@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_mem_integral_gl_of_middle_block
 -- name    : Formalism.FourierDecayAlt.P.S3x3.mem_integral_gl_of_middle_block
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:00:38.099198+00:00
 -- url     : https://prove2.me/theorems/67979416-5d28-4918-ae4f-ac4359a31801

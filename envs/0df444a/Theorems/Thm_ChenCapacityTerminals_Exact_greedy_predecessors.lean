@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_greedy_predecessors
 -- name    : ChenCapacityTerminals.Exact.greedy_predecessors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:21:08.865362+00:00
 -- url     : https://prove2.me/theorems/7dcdb2c7-a460-43dc-8386-afe0eb97c421

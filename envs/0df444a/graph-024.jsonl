@@ -29374,10 +29374,10 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound950_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G677", "child": "OAIQ098G027", "via": ["statement"]}
 {"parent": "OAIQ098G677", "child": "OAIQ098G470", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.theorem_2", "child": "KhintchineTwoRegime_Abound", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.theorem_2", "child": "KhintchineTwoRegime_Cn", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.theorem_2", "child": "KhintchineTwoRegime_sixProfile", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.theorem_2", "child": "KhintchineTwoRegime_K", "via": ["statement"]}
+{"parent": "KhintchineTwoRegime.theorem_2", "child": "KhintchineTwoRegime_Abound", "via": ["solution", "statement"]}
+{"parent": "KhintchineTwoRegime.theorem_2", "child": "KhintchineTwoRegime_Cn", "via": ["solution", "statement"]}
+{"parent": "KhintchineTwoRegime.theorem_2", "child": "KhintchineTwoRegime_sixProfile", "via": ["solution", "statement"]}
+{"parent": "KhintchineTwoRegime.theorem_2", "child": "KhintchineTwoRegime_K", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.positiveHeightPower_contDiffAt", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SmoothCuspCutoffs", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.positiveHeightPower_contDiffAt", "child": "OAI_NumberTheory_DirichletL_CubicSieve_LogarithmicTargets", "via": ["solution", "statement"]}
 {"parent": "LearnVsOpt.vertexSel_valid", "child": "LearnVsOpt_Selection", "via": ["statement"]}

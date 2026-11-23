@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_majorant_barrier
 -- name    : GrothendieckLB.majorant_barrier
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:20:37.162862+00:00
 -- url     : https://prove2.me/theorems/75b4bf47-8edd-4516-8bf8-1b33ffb2c362

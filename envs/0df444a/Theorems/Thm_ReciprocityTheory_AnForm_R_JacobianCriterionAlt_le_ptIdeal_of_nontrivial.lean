@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_le_ptIdeal_of_nontrivial
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.le_ptIdeal_of_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:49:31.771535+00:00
 -- url     : https://prove2.me/theorems/9af80da8-7c2b-445c-8d14-e2409286fb18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CyclotomicRankTwoSVP_Main_coefficient_inner_product
 -- name    : CyclotomicRankTwoSVP.Main.coefficient_inner_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:51:09.168381+00:00
 -- url     : https://prove2.me/theorems/21c849f3-b718-422c-8dd8-f16bb798eea0

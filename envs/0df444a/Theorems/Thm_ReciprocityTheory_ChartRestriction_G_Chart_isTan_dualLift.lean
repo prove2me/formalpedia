@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_isTan_dualLift
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.isTan_dualLift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:33:29.209611+00:00
 -- url     : https://prove2.me/theorems/9cdf913b-0085-4094-bb0a-aecf233ace72

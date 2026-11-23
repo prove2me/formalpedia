@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosIndexNash_PPADS_constant_shift_invariance
 -- name    : PosIndexNash.PPADS.constant_shift_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:48:30.438603+00:00
 -- url     : https://prove2.me/theorems/fdcaea71-f14c-4347-bbbb-a4407d2e7235

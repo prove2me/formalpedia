@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_numerical_estimate_size_conditions
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.numerical_estimate_size_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:58.972304+00:00
 -- url     : https://prove2.me/theorems/dc90a4e1-aeca-4c75-a0e7-3826c85e52fb

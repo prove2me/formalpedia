@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_SquareUnits_exists_sec_of_pullGen
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.SquareUnits.exists_sec_of_pullGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:36:32.582811+00:00
 -- url     : https://prove2.me/theorems/8151d257-b364-4cc7-ace5-14ee3fe4ee21

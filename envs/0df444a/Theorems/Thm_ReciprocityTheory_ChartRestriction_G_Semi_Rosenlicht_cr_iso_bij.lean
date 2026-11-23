@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Rosenlicht_cr_iso_bij
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Rosenlicht.cr_iso_bij
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:49:36.633142+00:00
 -- url     : https://prove2.me/theorems/d8c3f67b-981e-483e-b636-e60f2f96d558

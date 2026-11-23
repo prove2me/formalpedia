@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustToDynamics_step1_invariant_ellipsoid
 -- name    : RobustToDynamics.step1_invariant_ellipsoid
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:37:08.818149+00:00
 -- url     : https://prove2.me/theorems/fe64c065-666f-4a6a-9cb7-b4fbee4c80df

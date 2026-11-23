@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerNav_lemma_6_5
 -- name    : SteinerNav.lemma_6_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:47:54.891414+00:00
 -- url     : https://prove2.me/theorems/0ce648f3-e713-4450-9349-864d6d4f6127

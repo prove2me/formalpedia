@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_card_GL_subtype
 -- name    : Formalism.FourierDecayAlt.P.S3x3.card_GL_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:06:39.931603+00:00
 -- url     : https://prove2.me/theorems/a24cc9d5-de4e-477d-8124-64f5f8f3f253

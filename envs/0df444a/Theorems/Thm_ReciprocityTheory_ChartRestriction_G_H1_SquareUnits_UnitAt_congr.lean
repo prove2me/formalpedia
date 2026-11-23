@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_SquareUnits_UnitAt_congr
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.SquareUnits.UnitAt.congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:35:58.349557+00:00
 -- url     : https://prove2.me/theorems/96231b48-74db-47b7-acb6-014d3dfa7841

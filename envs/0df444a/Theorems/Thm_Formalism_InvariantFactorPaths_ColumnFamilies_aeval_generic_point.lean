@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_aeval_generic_point
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.aeval_generic_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:48:14.34983+00:00
 -- url     : https://prove2.me/theorems/841bc6c3-ed34-4f5f-8c2b-8a1f5ddd9110

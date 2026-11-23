@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimalAccess_claim_2
 -- name    : MinimalAccess.claim_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:44:33.515448+00:00
 -- url     : https://prove2.me/theorems/fc36cd80-66b4-4189-a9fd-93bfccc6276d

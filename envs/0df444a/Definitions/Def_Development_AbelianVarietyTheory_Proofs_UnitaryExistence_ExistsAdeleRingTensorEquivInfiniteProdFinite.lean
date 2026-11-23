@@ -1,0 +1,29 @@
+-- Prove2me | Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExistsAdeleRingTensorEquivInfiniteProdFinite
+-- name    : Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExistsAdeleRingTensorEquivInfiniteProdFinite
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-23T03:54:56.956049+00:00
+-- url     : https://prove2.me/theorems/59274422-2efb-469c-b281-9a8b8837883d
+-- title:
+--   Exists Adele Ring Tensor Equiv Infinite Prod Finite
+-- statement:
+--   Definitions and structural lemmas for Exists Adele Ring Tensor Equiv Infinite Prod Finite, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UnitaryExistence/ExistsAdeleRingTensorEquivInfiniteProdFinite.lean
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ExistenceOfLattices_Hat1
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField IsDedekindDomain GlobalTheory.AdLat
+open scoped TensorProduct Topology Matrix
+namespace GlobalTheory.AdSplit
+end GlobalTheory.AdSplit
+
+

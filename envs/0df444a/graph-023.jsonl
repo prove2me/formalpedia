@@ -2926,7 +2926,7 @@
 {"parent": "OAI.FiniteGaussPhase.canonicalProductGauss_cross_factors", "child": "OAI_NumberTheory_DirichletL_PrimeRows_ActiveGaussFactorization", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.verticalFiber_bundleCoboundary_verticalFiberPrimitiveWord", "child": "QEC_Coding_FiberBundle_CohomologyDistance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.verticalFiber_bundleCoboundary_verticalFiberPrimitiveWord", "child": "QEC_Coding_FiberBundle_CohomologyRepresentatives", "via": ["solution", "statement"]}
-{"parent": "SteinerNav.annuli_cover_targets", "child": "SteinerNav_aspectRatio", "via": ["statement"]}
+{"parent": "SteinerNav.annuli_cover_targets", "child": "SteinerNav_aspectRatio", "via": ["solution", "statement"]}
 {"parent": "RegevRecon_Messages", "child": "RegevRecon_Law", "via": ["statement"]}
 {"parent": "PrivLittlestone.eq_22", "child": "PrivLittlestone_selT", "via": ["statement"]}
 {"parent": "PrivLittlestone.eq_22", "child": "PrivLittlestone_IsWitnessAssignment", "via": ["statement"]}

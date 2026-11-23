@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KLTNuclear_Lasso_cone_step
 -- name    : KLTNuclear.Lasso.cone_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:52:24.022762+00:00
 -- url     : https://prove2.me/theorems/0d9999da-59b1-40e0-8780-a2e58cf4de92

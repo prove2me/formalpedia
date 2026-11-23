@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_grad_add
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.grad_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:49:57.036812+00:00
 -- url     : https://prove2.me/theorems/5d371a65-3b35-4497-b529-48355e49cfda

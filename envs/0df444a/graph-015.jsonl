@@ -2222,11 +2222,11 @@
 {"parent": "FastCore.proposition_1_1", "child": "FastCore_IsBidProfile", "via": ["statement"]}
 {"parent": "FastCore.proposition_1_1", "child": "FastCore_IsWinOrac", "via": ["statement"]}
 {"parent": "FastCore.proposition_1_1", "child": "FastCore_Reachable", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.theorem_1", "child": "MinVolEllipsoid_GenCopositive", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.theorem_1", "child": "MinVolEllipsoid_liftCone", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.theorem_1", "child": "MinVolEllipsoid_borderedMatrix", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.theorem_1", "child": "ConvexOptimization_ellipsoidBody", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.theorem_1", "child": "MinVolEllipsoid_ineq3Right", "via": ["statement"]}
+{"parent": "MinVolEllipsoid.theorem_1", "child": "MinVolEllipsoid_GenCopositive", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.theorem_1", "child": "MinVolEllipsoid_liftCone", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.theorem_1", "child": "MinVolEllipsoid_borderedMatrix", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.theorem_1", "child": "ConvexOptimization_ellipsoidBody", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.theorem_1", "child": "MinVolEllipsoid_ineq3Right", "via": ["solution", "statement"]}
 {"parent": "MFCLearn_Lifted", "child": "MFCLearn_Model", "via": ["statement"]}
 {"parent": "MultimodularDocks_cost", "child": "MultimodularDocks_Instance", "via": ["statement"]}
 {"parent": "OAI.CycleClique.patterns_17_8_44_verified", "child": "OAIQ107D007", "via": ["statement"]}
@@ -6636,10 +6636,10 @@
 {"parent": "MixedManna.lemma_16", "child": "MixedManna_IsAdmissibleDelta", "via": ["statement"]}
 {"parent": "MixedManna.lemma_16", "child": "MixedManna_IsLemkePath", "via": ["statement"]}
 {"parent": "HellmanLevy_Bayes_ckRel", "child": "HellmanLevy_Bayes_BayesianGame", "via": ["statement"]}
-{"parent": "MinimalAccess.claim_2", "child": "MinimalAccess_DeferredAcceptance", "via": ["statement"]}
-{"parent": "MinimalAccess.claim_2", "child": "MinimalAccess_StudentTypes", "via": ["statement"]}
-{"parent": "MinimalAccess.claim_2", "child": "MinimalAccess_AdjustedPriorities", "via": ["statement"]}
-{"parent": "MinimalAccess.claim_2", "child": "MinimalAccess_Model", "via": ["statement"]}
+{"parent": "MinimalAccess.claim_2", "child": "MinimalAccess_DeferredAcceptance", "via": ["solution", "statement"]}
+{"parent": "MinimalAccess.claim_2", "child": "MinimalAccess_StudentTypes", "via": ["solution", "statement"]}
+{"parent": "MinimalAccess.claim_2", "child": "MinimalAccess_AdjustedPriorities", "via": ["solution", "statement"]}
+{"parent": "MinimalAccess.claim_2", "child": "MinimalAccess_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P63.rank_one_sum_domination", "child": "QAlgorithms_Papers_Independent_Intake100_P63", "via": ["statement"]}
 {"parent": "QueueSignal.unique_crossing", "child": "QueueSignal_QueueModel", "via": ["solution", "statement"]}
 {"parent": "QueueSignal.unique_crossing", "child": "QueueSignal_SignalingGame", "via": ["statement"]}
@@ -7376,7 +7376,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P28.renyi_kl_sharpness_and_limits", "child": "QAlgorithms_Papers_Independent_Intakenext100_P28", "via": ["statement"]}
 {"parent": "OAI.AffineBernstein.balanced_constant_hessian", "child": "OAIQ22Ab000", "via": ["solution", "statement"]}
 {"parent": "OAI.AffineBernstein.balanced_constant_hessian", "child": "AffineBernstein", "via": ["solution", "statement"]}
-{"parent": "RobustToDynamics.step1_invariant_ellipsoid", "child": "RobustToDynamics_ellipsoid", "via": ["statement"]}
+{"parent": "RobustToDynamics.step1_invariant_ellipsoid", "child": "RobustToDynamics_ellipsoid", "via": ["solution", "statement"]}
 {"parent": "KallMayerSLP_Multistage_ex31Cell", "child": "KallMayerSLP_Multistage_ex31Support", "via": ["statement"]}
 {"parent": "KallMayerSLP_Multistage_ex31Cell", "child": "KallMayerSLP_Multistage_ex31Node", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P89.symmetric_shift_lowerBound", "child": "QAlgorithms_Papers_Independent_Intake100_P89", "via": ["statement"]}

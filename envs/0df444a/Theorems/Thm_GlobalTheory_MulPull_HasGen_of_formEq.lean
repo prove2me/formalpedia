@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulPull_HasGen_of_formEq
 -- name    : GlobalTheory.MulPull.HasGen.of_formEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:32:31.602818+00:00
 -- url     : https://prove2.me/theorems/f5a9d23d-623a-426b-9184-348e98dc3bc8

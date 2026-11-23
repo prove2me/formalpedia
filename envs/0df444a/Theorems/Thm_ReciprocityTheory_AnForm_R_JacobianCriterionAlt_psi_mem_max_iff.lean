@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_psi_mem_max_iff
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.psi_mem_max_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:49:37.072562+00:00
 -- url     : https://prove2.me/theorems/6f2079a7-c340-447c-a173-1e6ab4699542

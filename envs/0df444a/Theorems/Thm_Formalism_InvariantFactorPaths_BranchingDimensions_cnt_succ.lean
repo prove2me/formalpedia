@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_cnt_succ
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.cnt_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:46:33.045563+00:00
 -- url     : https://prove2.me/theorems/a62be477-8f4c-4c6b-af3b-d8b99a319d68

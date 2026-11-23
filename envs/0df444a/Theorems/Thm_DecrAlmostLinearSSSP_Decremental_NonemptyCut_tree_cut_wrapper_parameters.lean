@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecrAlmostLinearSSSP_Decremental_NonemptyCut_tree_cut_wrapper_parameters
 -- name    : DecrAlmostLinearSSSP.Decremental.NonemptyCut.tree_cut_wrapper_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:46:18.126698+00:00
 -- url     : https://prove2.me/theorems/469d1377-285c-49dd-a0d1-7a369cb4b3fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_fT_concave
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.fT_concave
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:46:28.710868+00:00
 -- url     : https://prove2.me/theorems/779f1fad-6bac-47f5-b4f5-ded423dfe473

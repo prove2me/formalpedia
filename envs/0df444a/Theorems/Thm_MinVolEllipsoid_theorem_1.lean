@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinVolEllipsoid_theorem_1
 -- name    : MinVolEllipsoid.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:45:47.109+00:00
 -- url     : https://prove2.me/theorems/f18f610e-6ae9-421c-ae64-1282369f6626

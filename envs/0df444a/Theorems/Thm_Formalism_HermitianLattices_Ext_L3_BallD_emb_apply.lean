@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallD_emb_apply
 -- name    : Formalism.HermitianLattices.Ext.L3.BallD.emb_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:49:40.036609+00:00
 -- url     : https://prove2.me/theorems/e9490c1f-c9b2-4db9-8a7e-623ebbd88c58

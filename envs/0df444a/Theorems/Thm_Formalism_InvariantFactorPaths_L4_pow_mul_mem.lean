@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pow_mul_mem
+-- name    : Formalism.InvariantFactorPaths.L4.pow_mul_mem
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T04:02:43.747399+00:00
+-- url     : https://prove2.me/theorems/c768fff0-5199-48a9-b217-0593796b129e
+-- title:
+--   L4: pow mul mem
+-- statement:
+--   The L4 construction uses the pow mul mem property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/ThetaLogCoordinates/FockResolutionOnto/FockMonomialProofs/FiltrationBotHolds.lean#L13-L38
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/ThetaLogCoordinates/FockResolutionOnto/FockMonomialProofs/FiltrationBotHolds.lean#L13-L38
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_StatementB
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_MulEarlyLettersHolds
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_InitPartZeroXMul
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_FiltrationBotHolds
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.L4
+open Formalism.GM Formalism.GM.M Formalism.GM.MeanGammaLemmas Formalism.CountingSumsFrames MvPolynomial Finset
+variable {p : ℕ} [Fact p.Prime] {σ : Type}
+
+theorem Formalism.InvariantFactorPaths.L4.pow_mul_mem (v : σ) (e : ℕ) (Q : Set (σ →₀ ℕ)) (g : MvPolynomial σ ℚ_[p]) :
+    X v ^ e * g ∈ restrictSupport ℚ_[p] Q ↔ g ∈ restrictSupport ℚ_[p] {m | Finsupp.single v e + m ∈ Q} := by sorry

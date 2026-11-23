@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_WGT_finsum_prop_eq_sum
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.WGT.finsum_prop_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:27.106807+00:00
 -- url     : https://prove2.me/theorems/00c71149-eb5d-4008-8677-733a4ad46a4d

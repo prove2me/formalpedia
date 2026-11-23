@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1_LeadAt_sum
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1.LeadAt.sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:29:41.314957+00:00
 -- url     : https://prove2.me/theorems/d256ae46-d27c-41b0-b01f-2c7afacf3ab4

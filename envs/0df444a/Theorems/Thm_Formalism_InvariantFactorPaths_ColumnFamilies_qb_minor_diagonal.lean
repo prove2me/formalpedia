@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_minor_diagonal
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_minor_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:48:01.614686+00:00
 -- url     : https://prove2.me/theorems/471face8-d399-4b85-8dec-247caced7944

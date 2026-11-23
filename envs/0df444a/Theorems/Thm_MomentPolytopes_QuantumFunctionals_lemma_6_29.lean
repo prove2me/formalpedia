@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentPolytopes_QuantumFunctionals_lemma_6_29
 -- name    : MomentPolytopes.QuantumFunctionals.lemma_6_29
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T01:02:30.04098+00:00
 -- url     : https://prove2.me/theorems/42f5ec83-38e3-4358-a942-3f8e920de651

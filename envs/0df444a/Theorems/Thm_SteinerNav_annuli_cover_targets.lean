@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerNav_annuli_cover_targets
 -- name    : SteinerNav.annuli_cover_targets
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:47:30.869751+00:00
 -- url     : https://prove2.me/theorems/f45cb4d1-e332-48fa-b50c-bde28e8832aa

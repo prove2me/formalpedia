@@ -38820,7 +38820,7 @@
 {"parent": "QEC.Coding.BDL26GraphQuantitativeBounds.doubleCylinderFace_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_GraphQuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U63.entry2_1_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.tableRational_hundred_g", "child": "OAIQ098G379", "via": ["solution", "statement"]}
-{"parent": "PPSLattice.claim_4_11", "child": "PPSLattice_FigCompilerValid", "via": ["statement"]}
+{"parent": "PPSLattice.claim_4_11", "child": "PPSLattice_FigCompilerValid", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26LevelTwoDecoder.decoderData_selected_one", "child": "QEC_Coding_FiniteAlternatingConstruction_LevelTwoDecoder", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26LevelTwoDecoder.decoderData_selected_one", "child": "QEC_Coding_FiniteAlternatingConstruction_LevelTwoDistance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26LevelTwoDecoder.decoderData_selected_one", "child": "QEC_Coding_FourDimensionalToricCode_Decoder_Assembly", "via": ["solution", "statement"]}

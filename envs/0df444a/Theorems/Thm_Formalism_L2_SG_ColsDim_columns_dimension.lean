@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_ColsDim_columns_dimension
 -- name    : Formalism.L2.SG.ColsDim.columns_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:52:40.796402+00:00
 -- url     : https://prove2.me/theorems/daab3543-972b-4ce9-96fc-2f2eed009187

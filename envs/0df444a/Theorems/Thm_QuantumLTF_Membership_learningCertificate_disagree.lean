@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_learningCertificate_disagree
 -- name    : QuantumLTF.Membership.learningCertificate_disagree
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:59:12.151378+00:00
 -- url     : https://prove2.me/theorems/602ccf8a-6274-4837-a4d9-1d12cbc54d8c

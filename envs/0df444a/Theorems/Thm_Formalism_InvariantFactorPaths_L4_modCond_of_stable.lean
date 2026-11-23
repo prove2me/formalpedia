@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_modCond_of_stable
 -- name    : Formalism.InvariantFactorPaths.L4.modCond_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:36:37.707061+00:00
 -- url     : https://prove2.me/theorems/f509755e-8669-4d2d-9469-3439c462082a

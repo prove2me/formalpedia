@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_red_surjective
 -- name    : Formalism.FourierDecayAlt.P.S3x3.red_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:54:13.402382+00:00
 -- url     : https://prove2.me/theorems/4eb9c584-89bc-4b97-bf5f-25df69f2f0da

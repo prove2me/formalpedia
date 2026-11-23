@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ChenCapacityTerminals.Exact.greedy_predecessors
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:33:33.618836+00:00
 -- url     : https://prove2.me/submissions/9d7ad649-69b3-42d6-8cd6-4edf66a00d6a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_ChenCapacityTerminals_Exact_Construction
 import Theorems.Thm_ChenCapacityTerminals_Exact_greedy_cover_card_bound

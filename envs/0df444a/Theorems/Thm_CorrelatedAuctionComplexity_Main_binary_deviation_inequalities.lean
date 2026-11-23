@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedAuctionComplexity_Main_binary_deviation_inequalities
 -- name    : CorrelatedAuctionComplexity.Main.binary_deviation_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:34:41.757327+00:00
 -- url     : https://prove2.me/theorems/7df2d4da-dc8e-42e0-963c-f44b65eeff4b

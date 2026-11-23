@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_weak_core
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.weak_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:42:50.739801+00:00
 -- url     : https://prove2.me/theorems/4a13525c-c7c6-4b35-8d0e-ea4191f8f548

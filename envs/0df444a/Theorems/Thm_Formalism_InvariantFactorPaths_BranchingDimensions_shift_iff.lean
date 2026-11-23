@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_shift_iff
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.shift_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:46.514471+00:00
 -- url     : https://prove2.me/theorems/a7e9e0bb-0ac7-493d-8f93-c3f922247186

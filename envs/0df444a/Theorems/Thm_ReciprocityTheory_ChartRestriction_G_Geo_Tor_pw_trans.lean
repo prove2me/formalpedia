@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_pw_trans
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.pw_trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:42:48.370428+00:00
 -- url     : https://prove2.me/theorems/ef8be799-50f7-471c-ae46-88c7c2fbc01e

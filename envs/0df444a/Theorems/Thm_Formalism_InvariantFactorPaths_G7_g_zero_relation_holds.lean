@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_g_zero_relation_holds
 -- name    : Formalism.InvariantFactorPaths.G7.g_zero_relation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:10:49.544442+00:00
 -- url     : https://prove2.me/theorems/7fc2f68d-2035-44c6-9a60-0aed42da53bc

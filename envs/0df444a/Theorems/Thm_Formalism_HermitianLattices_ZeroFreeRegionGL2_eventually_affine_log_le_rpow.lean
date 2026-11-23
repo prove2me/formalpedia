@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_eventually_affine_log_le_rpow
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.eventually_affine_log_le_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:40:52.101807+00:00
 -- url     : https://prove2.me/theorems/7faa2f9a-2285-414d-ba1d-8104ea0fcd82

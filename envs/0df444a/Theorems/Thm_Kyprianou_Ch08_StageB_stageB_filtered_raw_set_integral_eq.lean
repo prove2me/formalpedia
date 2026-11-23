@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_stageB_filtered_raw_set_integral_eq
 -- name    : Kyprianou.Ch08.StageB.stageB_filtered_raw_set_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T03:31:39.600994+00:00
 -- url     : https://prove2.me/theorems/8ef01c4b-7059-4374-9c88-a11ff8966da9

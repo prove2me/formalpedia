@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_det_of_isN
 -- name    : Formalism.FourierDecayAlt.P.S3x3.det_of_isN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:40:37.703665+00:00
 -- url     : https://prove2.me/theorems/5c438047-022f-4587-b995-f2c55fdbdc05

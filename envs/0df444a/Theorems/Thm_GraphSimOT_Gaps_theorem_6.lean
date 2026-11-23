@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphSimOT_Gaps_theorem_6
 -- name    : GraphSimOT.Gaps.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T18:06:59.960905+00:00
 -- url     : https://prove2.me/theorems/c4c8aa69-2a55-4a80-b647-fb62f31d8d92

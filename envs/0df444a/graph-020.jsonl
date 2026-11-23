@@ -94329,9 +94329,9 @@
 {"parent": "InvMarketMaking_LOB_dkwConfig", "child": "InvMarketMaking_LOB_grid", "via": ["statement"]}
 {"parent": "QEC.Coding.FiberBundle.RandomBase.exists_check_four_fifths_counique", "child": "QEC_Coding_FiberBundle_RandomBase_Expansion", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.RandomBase.exists_check_four_fifths_counique", "child": "QEC_Coding_FiberBundle_RandomBase_Distance", "via": ["solution", "statement"]}
-{"parent": "TIESharp.theorem_3_1", "child": "TIESharp_IsTIE", "via": ["statement"]}
-{"parent": "TIESharp.theorem_3_1", "child": "TIESharp_IsFeasible", "via": ["statement"]}
-{"parent": "TIESharp.theorem_3_1", "child": "TIESharp_IsRApprox", "via": ["statement"]}
+{"parent": "TIESharp.theorem_3_1", "child": "TIESharp_IsTIE", "via": ["solution", "statement"]}
+{"parent": "TIESharp.theorem_3_1", "child": "TIESharp_IsFeasible", "via": ["solution", "statement"]}
+{"parent": "TIESharp.theorem_3_1", "child": "TIESharp_IsRApprox", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2956_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2956_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2956_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}

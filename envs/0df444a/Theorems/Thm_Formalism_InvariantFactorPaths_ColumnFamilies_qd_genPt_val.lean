@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_genPt_val
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_genPt_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:48:54.962744+00:00
 -- url     : https://prove2.me/theorems/33d8b159-ef5a-4f35-b603-6ec8dbbd5f7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZonotopeContainment_AdaptiveSampling_update_identities
 -- name    : ZonotopeContainment.AdaptiveSampling.update_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:22:57.595196+00:00
 -- url     : https://prove2.me/theorems/37174f44-b88d-4f2f-a11f-43fc6afd329c

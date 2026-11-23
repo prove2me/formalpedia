@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.L4.modCond_of_stable
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T04:08:12.658853+00:00
+-- url     : https://prove2.me/submissions/bd8d1d04-6547-48c9-9515-ab97fcb900d3
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_StatementE
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_FiltrationBotHolds
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_ResInto
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_MulEarlyLettersModP
+import Theorems.Thm_Formalism_InvariantFactorPaths_L4_dw_cons
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.L4
+open Formalism.GM Formalism.GM.M Formalism.GM.MeanGammaLemmas Formalism.CountingSumsFrames MvPolynomial Finset
+variable (p : ℕ) [Fact p.Prime] {N r : ℕ} [NeZero r] (LL : Letters N) (j : ℕ)
+variable (M : WithTop ℤ)
+namespace Formalism.InvariantFactorPaths.L4
+theorem _root_.solution (S : Set (MvPolynomial (Fin N × Fin r) ℚ_[p]))
+    (hS : ∀ x ∈ S, ∀ c : Fin r, c ≠ 0 → ∀ k, dpow p LL j c k x ∈ S)
+    (hs : ∀ x ∈ S, ∀ m : Fin N × Fin r →₀ ℕ, ¬ (((wt LL j 0 m : ℤ) : WithTop ℤ) ≤ M) → ‖coeff m x‖ < 1) :
+    ∀ x ∈ S, ModCond p LL j M x := by
+  intro x hx l hl
+  have : dw p LL j l x ∈ S := by
+    induction l with
+    | nil => exact hx
+    | cons ck l ih =>
+      rw [dw_cons]
+      exact hS _ (ih fun a ha => hl a (List.mem_cons_of_mem _ ha)) _ (hl ck List.mem_cons_self) _
+  exact hs _ this
+end Formalism.InvariantFactorPaths.L4

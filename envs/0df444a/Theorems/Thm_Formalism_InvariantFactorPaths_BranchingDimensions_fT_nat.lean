@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_fT_nat
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.fT_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:46:28.09379+00:00
 -- url     : https://prove2.me/theorems/09814c8b-a29b-4053-83a3-74775d32009e

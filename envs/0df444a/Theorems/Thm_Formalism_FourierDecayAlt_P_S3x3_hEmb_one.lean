@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_hEmb_one
 -- name    : Formalism.FourierDecayAlt.P.S3x3.hEmb_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:23:20.682423+00:00
 -- url     : https://prove2.me/theorems/c78a4133-630c-45c7-891d-3b7016d06268

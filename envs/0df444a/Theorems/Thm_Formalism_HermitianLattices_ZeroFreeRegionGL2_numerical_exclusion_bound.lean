@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_numerical_exclusion_bound
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.numerical_exclusion_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:40:28.674832+00:00
 -- url     : https://prove2.me/theorems/36aef97e-8360-4559-b719-f58f00b44a7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_unchanged_source_capacity
 -- name    : ChenCapacityTerminals.Exact.unchanged_source_capacity
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:28:43.054711+00:00
 -- url     : https://prove2.me/theorems/e8cd190c-ce7c-4c44-8a18-c6923b02898c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreshSig_Layered_lemma_3_2
 -- name    : FreshSig.Layered.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T01:44:14.256998+00:00
 -- url     : https://prove2.me/theorems/ce19cb0b-deb0-4168-92e4-7d14e184cbbf

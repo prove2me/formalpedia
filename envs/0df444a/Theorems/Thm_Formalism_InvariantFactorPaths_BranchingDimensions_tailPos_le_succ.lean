@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_tailPos_le_succ
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.tailPos_le_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:32.738801+00:00
 -- url     : https://prove2.me/theorems/62ad8751-6518-467e-ab3f-43d365bc3df8

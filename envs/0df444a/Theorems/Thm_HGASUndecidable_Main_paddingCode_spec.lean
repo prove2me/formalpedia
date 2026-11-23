@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HGASUndecidable_Main_paddingCode_spec
 -- name    : HGASUndecidable.Main.paddingCode_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:27:19.256819+00:00
 -- url     : https://prove2.me/theorems/ceff992d-63d5-48d5-b021-fc6e1a92ff5a

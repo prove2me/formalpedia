@@ -35878,13 +35878,13 @@
 {"parent": "QMAPerfectCompleteness.Main.CertificateBlockCorrectness.mid_transports", "child": "QMAPerfectCompleteness_Proof_CertificateHadamardCoordinates", "via": ["solution", "statement"]}
 {"parent": "QMAPerfectCompleteness.Main.CertificateBlockCorrectness.mid_transports", "child": "QMAPerfectCompleteness_Proof_BlockEncoding", "via": ["solution", "statement"]}
 {"parent": "QMAPerfectCompleteness.Main.CertificateBlockCorrectness.mid_transports", "child": "QMAPerfectCompleteness_Proof_BlockLogicalSelect", "via": ["solution", "statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_disagree", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_memOracle", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_ltf", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_readFp", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_memOracle", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_4_assembly", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
 {"parent": "RPLib_S3_SBGalB", "child": "RPLib_S3_SBGalA", "via": ["statement"]}
 {"parent": "FengLiYangMatching_General_Supplement_Score", "child": "FengLiYangMatching_General_Local", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg23624", "child": "OAIQ259US007", "via": ["solution", "statement"]}

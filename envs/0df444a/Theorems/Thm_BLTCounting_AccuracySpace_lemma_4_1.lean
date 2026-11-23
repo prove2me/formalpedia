@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BLTCounting_AccuracySpace_lemma_4_1
 -- name    : BLTCounting.AccuracySpace.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:34:23.646903+00:00
 -- url     : https://prove2.me/theorems/d860e7e3-9f42-4b50-bf95-36de0b85807c

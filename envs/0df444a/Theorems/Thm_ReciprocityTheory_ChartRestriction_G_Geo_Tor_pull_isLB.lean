@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_pull_isLB
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.pull_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:12.223294+00:00
 -- url     : https://prove2.me/theorems/9f68785e-3489-41b6-aaf6-f2d25e537c0b

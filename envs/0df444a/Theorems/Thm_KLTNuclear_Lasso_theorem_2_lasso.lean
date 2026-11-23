@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KLTNuclear_Lasso_theorem_2_lasso
 -- name    : KLTNuclear.Lasso.theorem_2_lasso
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:52:20.497137+00:00
 -- url     : https://prove2.me/theorems/f852ed94-9199-4133-8afe-955272c7fd6f

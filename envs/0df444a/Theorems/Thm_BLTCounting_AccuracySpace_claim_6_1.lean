@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BLTCounting_AccuracySpace_claim_6_1
 -- name    : BLTCounting.AccuracySpace.claim_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:34:12.866809+00:00
 -- url     : https://prove2.me/theorems/72c4b025-38ab-4381-bc8b-20f374d954a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_sum_wtT
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_sum_wtT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:54.543854+00:00
 -- url     : https://prove2.me/theorems/35de9a95-4d1f-429e-aa23-cfa795a61ec2

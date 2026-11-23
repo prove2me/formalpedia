@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerNav_expected_type3_edges
 -- name    : SteinerNav.expected_type3_edges
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:47:38.94182+00:00
 -- url     : https://prove2.me/theorems/7d01dc42-2205-414a-9f8b-5ea1dd644a2e

@@ -75251,10 +75251,10 @@
 {"parent": "XinMartingaleInventory_Minimax_thresholds", "child": "XinMartingaleInventory_Minimax_inventoryModel", "via": ["statement"]}
 {"parent": "AdaGradDHS.Diag.eq_13_dual_norm_sum", "child": "AdaGradDHS_Diag_accNorm", "via": ["solution", "statement"]}
 {"parent": "EPRPharma_Params_Standing", "child": "EPRPharma_Params", "via": ["statement"]}
-{"parent": "FlexMargin.eq_5_reduction", "child": "FlexMargin_betaCoef", "via": ["statement"]}
-{"parent": "FlexMargin.eq_5_reduction", "child": "FlexMargin_dmgi5", "via": ["statement"]}
-{"parent": "FlexMargin.eq_5_reduction", "child": "FlexMargin_InQ", "via": ["statement"]}
-{"parent": "FlexMargin.eq_5_reduction", "child": "FlexMargin_dmgi", "via": ["statement"]}
+{"parent": "FlexMargin.eq_5_reduction", "child": "FlexMargin_betaCoef", "via": ["solution", "statement"]}
+{"parent": "FlexMargin.eq_5_reduction", "child": "FlexMargin_dmgi5", "via": ["solution", "statement"]}
+{"parent": "FlexMargin.eq_5_reduction", "child": "FlexMargin_InQ", "via": ["solution", "statement"]}
+{"parent": "FlexMargin.eq_5_reduction", "child": "FlexMargin_dmgi", "via": ["solution", "statement"]}
 {"parent": "PriceQualityService_yValue", "child": "PriceQualityService_netValue", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P44.prepOptimality", "child": "QAlgorithms_Papers_Independent_Extend50_P44", "via": ["statement"]}
 {"parent": "SuReturnsAudit.OptimalPolicy.newsvendor_general_law", "child": "SupplyChainTheory_contracts", "via": ["statement"]}
@@ -88421,10 +88421,10 @@
 {"parent": "QAlgorithms_Papers_Independent_Intake100_P12", "child": "QAlgorithms_Defs_Channel", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Intake100_P12", "child": "QAlgorithms_Papers_Independent_Dependency50_P26", "via": ["statement"]}
 {"parent": "CombOpt.TotalUnimodularity.minimal_face_eq_affine", "child": "CombOpt_TotalUnimodularity_IsMinimalNonemptyFace", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_8", "child": "MinVolEllipsoid_liftCone", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_8", "child": "MinVolEllipsoid_Zval", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_8", "child": "MinVolEllipsoid_borderedMatrix", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_8", "child": "MinVolEllipsoid_GenCopositive", "via": ["statement"]}
+{"parent": "MinVolEllipsoid.eq_8", "child": "MinVolEllipsoid_liftCone", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.eq_8", "child": "MinVolEllipsoid_Zval", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.eq_8", "child": "MinVolEllipsoid_borderedMatrix", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.eq_8", "child": "MinVolEllipsoid_GenCopositive", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_supergraph_edge_count__p2m_8d45bf42_38ea_432e_b84b_d41270aef8ba_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "CombOpt_TJoin_Graph_IsTJoin", "child": "CombOpt_TJoin_Graph", "via": ["statement"]}
 {"parent": "CombOpt_TJoin_Graph_IsTJoin", "child": "CombOpt_TJoin_Graph_cut", "via": ["statement"]}

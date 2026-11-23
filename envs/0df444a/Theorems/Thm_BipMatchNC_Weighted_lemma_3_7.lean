@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BipMatchNC_Weighted_lemma_3_7
 -- name    : BipMatchNC.Weighted.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T20:13:21.534418+00:00
 -- url     : https://prove2.me/theorems/9b6eb850-33c4-4b87-adb3-4a6aeded9c4a

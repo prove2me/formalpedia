@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_gmap_locS_comm
 -- name    : Formalism.HermitianLatticesTheory.gmap_locS_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:43:18.5668+00:00
 -- url     : https://prove2.me/theorems/18a87334-792d-4825-b44c-6cc33af35b07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_mapCoord_alg
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_mapCoord_alg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:49:36.96835+00:00
 -- url     : https://prove2.me/theorems/f40b27b7-9af7-4d92-889f-d45143cbd3f3

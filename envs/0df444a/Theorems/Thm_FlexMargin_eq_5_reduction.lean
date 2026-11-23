@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexMargin_eq_5_reduction
 -- name    : FlexMargin.eq_5_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:45:52.708528+00:00
 -- url     : https://prove2.me/theorems/dd838f5b-fdfc-4f97-abd2-c78c25019c12

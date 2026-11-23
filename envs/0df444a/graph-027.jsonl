@@ -45199,7 +45199,7 @@
 {"parent": "QEC.Coding.BDL26CSSDaviesLocality.region_eq", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_DaviesLocality", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CSSDaviesLocality.region_eq", "child": "QEC_Coding_CSS_DaviesLocality", "via": ["solution", "statement"]}
 {"parent": "TernarySync_Alphabet_RandomSource", "child": "TernarySync_Alphabet_Brinkhuis", "via": ["statement"]}
-{"parent": "CyclotomicRankTwoSVP.Main.coefficient_inner_product", "child": "CyclotomicRankTwoSVP_Main_Arithmetic", "via": ["statement"]}
+{"parent": "CyclotomicRankTwoSVP.Main.coefficient_inner_product", "child": "CyclotomicRankTwoSVP_Main_Arithmetic", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CanonicalRootWitnessCounterexample.mid_Z_parent", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_CanonicalHistoryMarks", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CanonicalRootWitnessCounterexample.mid_Z_parent", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_CanonicalRootWitnessCounterexample", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CanonicalRootWitnessCounterexample.mid_Z_parent", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_UniformIsolation", "via": ["solution", "statement"]}
@@ -46654,7 +46654,7 @@
 {"parent": "CatalystQLB.Query.eq_85", "child": "CatalystQLB_Query_expectFGX", "via": ["statement"]}
 {"parent": "OAI.QRH_b83dbbd.SmoothMobiusCorrection.prime_norm_two_le", "child": "OAI_NumberTheory_DirichletL_Hecke_MobiusEulerCorrection", "via": ["solution", "statement"]}
 {"parent": "OAI.QRH_b83dbbd.SmoothMobiusCorrection.prime_norm_two_le", "child": "OAI_NumberTheory_DirichletL_Mellin_SixthPowerAverage", "via": ["solution", "statement"]}
-{"parent": "MomentPolytopes.QuantumFunctionals.lemma_6_29", "child": "MomentPolytopes_QuantumFunctionals_Spectra", "via": ["statement"]}
+{"parent": "MomentPolytopes.QuantumFunctionals.lemma_6_29", "child": "MomentPolytopes_QuantumFunctionals_Spectra", "via": ["solution", "statement"]}
 {"parent": "QuantumSymmetryBreaking.CycleColoring.lemma_5_7", "child": "QuantumSymmetryBreaking_CycleColoring_FiniteRealization", "via": ["statement"]}
 {"parent": "QuantumSymmetryBreaking.CycleColoring.lemma_5_7", "child": "QuantumSymmetryBreaking_CycleColoring_InfiniteConstruction", "via": ["statement"]}
 {"parent": "TensorBeyond.Main.theorem_1_1", "child": "KXorTPCA_Reduction_Machine", "via": ["statement"]}
@@ -50765,7 +50765,7 @@
 {"parent": "FreeWeaver.Walk.lemma_4_7", "child": "FreeWeaver_Walk_FreeModel", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_2_21_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_2_21_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
-{"parent": "SepMeasures.lemma_2_4", "child": "SepMeasures_Hyp", "via": ["statement"]}
+{"parent": "SepMeasures.lemma_2_4", "child": "SepMeasures_Hyp", "via": ["solution", "statement"]}
 {"parent": "OAI.Yau.Target.sphere_eigen_global_neighborhood_compactness", "child": "YauCounterexample", "via": ["solution", "statement"]}
 {"parent": "OAI.Yau.Target.sphere_eigen_global_neighborhood_compactness", "child": "OAIQ237Ny004", "via": ["solution", "statement"]}
 {"parent": "OAI.TotientAsymptotic.ppt_regular_head_witness", "child": "OAIQ233A000", "via": ["solution", "statement"]}
@@ -53882,7 +53882,7 @@
 {"parent": "QEC.Coding.BDL26RandomPerturbation.master_selected_scan", "child": "QEC_Coding_ProbabilisticConstruction_SphericalCap_JointTriangleHit", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.master_selected_scan", "child": "QEC_Coding_ProbabilisticConstruction_Resampling_ParameterizedExecution", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.master_selected_scan", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_JointExecution", "via": ["solution", "statement"]}
-{"parent": "GraphSimOT.Gaps.theorem_2", "child": "GraphSimOT_Gaps_Distances", "via": ["statement"]}
+{"parent": "GraphSimOT.Gaps.theorem_2", "child": "GraphSimOT_Gaps_Distances", "via": ["solution", "statement"]}
 {"parent": "CircTrichotomy.theorem_E_9", "child": "CircTrichotomy_OccComputable", "via": ["statement"]}
 {"parent": "FOMCMonDep.theorem_4_3", "child": "MonDepMW_RunsWithin", "via": ["statement"]}
 {"parent": "FOMCMonDep.theorem_4_3", "child": "FOMCMonDep_treeCode", "via": ["statement"]}
@@ -61937,8 +61937,8 @@
 {"parent": "GapAgnosticGS.lemma_3_1", "child": "GapAgnosticGS_pStar", "via": ["statement"]}
 {"parent": "GapAgnosticGS.lemma_3_1", "child": "GapAgnosticGS_energy", "via": ["statement"]}
 {"parent": "GapAgnosticGS.lemma_3_1", "child": "GapAgnosticGS_envH", "via": ["statement"]}
-{"parent": "SepMeasures.theorem_1_3", "child": "SepMeasures_CutValue", "via": ["statement"]}
-{"parent": "SepMeasures.theorem_1_3", "child": "SepMeasures_Families", "via": ["statement"]}
+{"parent": "SepMeasures.theorem_1_3", "child": "SepMeasures_CutValue", "via": ["solution", "statement"]}
+{"parent": "SepMeasures.theorem_1_3", "child": "SepMeasures_Families", "via": ["solution", "statement"]}
 {"parent": "OAIQ225Ag003", "child": "HarmonicArtin", "via": ["statement"]}
 {"parent": "OAIQ225Ag003", "child": "OAIQ225Ag001", "via": ["statement"]}
 {"parent": "OAIQ225Ag003", "child": "OAIQ225Ag000", "via": ["statement"]}
@@ -70754,8 +70754,8 @@
 {"parent": "QuantumCycleColoring.FourColor.theorem_5_6", "child": "FuchsVdGraaf_IsPOVM", "via": ["statement"]}
 {"parent": "PermDiameter.Binary.lemma_3_3", "child": "PermDiameter_Binary_LengthGap", "via": ["statement"]}
 {"parent": "PermDiameter.Binary.lemma_3_3", "child": "PermDiameter_Binary_WordLength", "via": ["statement"]}
-{"parent": "BipMatchNC.Weighted.lemma_3_7", "child": "BipMatchNC_Weighted_Graph", "via": ["statement"]}
-{"parent": "BipMatchNC.Weighted.lemma_3_7", "child": "BipMatchNC_Weighted_Bipartite", "via": ["statement"]}
+{"parent": "BipMatchNC.Weighted.lemma_3_7", "child": "BipMatchNC_Weighted_Graph", "via": ["solution", "statement"]}
+{"parent": "BipMatchNC.Weighted.lemma_3_7", "child": "BipMatchNC_Weighted_Bipartite", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_1_17_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_1_17_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.cubeLogRange_sq_small_power", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ClosedRecursion", "via": ["solution", "statement"]}
@@ -72595,10 +72595,10 @@
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.gramRow16_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.gramRow0_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.gramRow0_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
-{"parent": "FreshSig.Layered.lemma_3_1", "child": "FreshSig_Layered_Term", "via": ["statement"]}
-{"parent": "FreshSig.Layered.lemma_3_1", "child": "FreshSig_Layered_Execution", "via": ["statement"]}
-{"parent": "FreshSig.Layered.lemma_3_1", "child": "FreshSig_Layered_EpochScheme", "via": ["statement"]}
-{"parent": "FreshSig.Layered.lemma_3_1", "child": "FreshSig_Layered_SigComp", "via": ["statement"]}
+{"parent": "FreshSig.Layered.lemma_3_1", "child": "FreshSig_Layered_Term", "via": ["solution", "statement"]}
+{"parent": "FreshSig.Layered.lemma_3_1", "child": "FreshSig_Layered_Execution", "via": ["solution", "statement"]}
+{"parent": "FreshSig.Layered.lemma_3_1", "child": "FreshSig_Layered_EpochScheme", "via": ["solution", "statement"]}
+{"parent": "FreshSig.Layered.lemma_3_1", "child": "FreshSig_Layered_SigComp", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelEisensteinL2Correction_graph", "child": "OAI_NumberTheory_DirichletL_Eisenstein_MeromorphicResolvent", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelEisensteinL2Correction_graph", "child": "OAI_NumberTheory_DirichletL_Eisenstein_FredholmAlternative", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelSourceProjection_cubicEisensteinResidue_ne_zero", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspAverage", "via": ["solution", "statement"]}
@@ -72929,7 +72929,7 @@
 {"parent": "OAI.MaximalSeshadri.PlaneCech.toric_H1_finite_s01", "child": "Q223SES005", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_21_13_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_21_13_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
-{"parent": "GraphSimOT.Gaps.lemma_51", "child": "GraphSimOT_Gaps_Spectral", "via": ["statement"]}
+{"parent": "GraphSimOT.Gaps.lemma_51", "child": "GraphSimOT_Gaps_Spectral", "via": ["solution", "statement"]}
 {"parent": "MoneyBurningTrade.IndependentSurplus.lemma_4_8", "child": "MoneyBurningTrade_IndependentSurplus_IndependentPriors", "via": ["statement"]}
 {"parent": "MoneyBurningTrade.IndependentSurplus.lemma_4_8", "child": "MoneyBurningTrade_IndependentSurplus_Objectives", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26TransposedStoppedDecoder.pairedCorrection_phase", "child": "QEC_Coding_FiniteAlternatingConstruction_TransposedStoppedDecoder_Base", "via": ["solution", "statement"]}
@@ -74611,7 +74611,7 @@
 {"parent": "RSBeyondJohnson_FirstOrder_Interpolation", "child": "RSListDecodingCapacity_AllRates_Decoding", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_5_8_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_5_8_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
-{"parent": "SparsestCutOracle.Main.sdp_opt_le", "child": "SparsestCutOracle_Main_SDP", "via": ["statement"]}
+{"parent": "SparsestCutOracle.Main.sdp_opt_le", "child": "SparsestCutOracle_Main_SDP", "via": ["solution", "statement"]}
 {"parent": "GL2QFT_AGamma", "child": "GL2QFT_Irreps", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_0_1_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_0_1_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
@@ -77169,7 +77169,7 @@
 {"parent": "OAI.SmoothMobiusCorrection.dampedSeries_euler", "child": "OAI_NumberTheory_DirichletL_Mellin_SixthPowerAverage", "via": ["solution", "statement"]}
 {"parent": "BootstrapRecolorVerify.MetricGap.theorem_1_1_metric_gap", "child": "BootstrapRecolorVerify_MetricGap_MetricLP", "via": ["statement"]}
 {"parent": "HDXNbhdPCP.Main.lemma_2_13", "child": "HDXNbhdPCP_Main_Complex", "via": ["statement"]}
-{"parent": "GraphSimOT.Gaps.theorem_6", "child": "GraphSimOT_Gaps_Distances", "via": ["statement"]}
+{"parent": "GraphSimOT.Gaps.theorem_6", "child": "GraphSimOT_Gaps_Distances", "via": ["solution", "statement"]}
 {"parent": "DynMaxMatchEC.Main.theorem_5_1", "child": "DynMaxMatchEC_Main_EdgeColoring", "via": ["statement"]}
 {"parent": "DynMaxMatchEC.Main.theorem_5_1", "child": "DynMaxMatchEC_Main_Model", "via": ["statement"]}
 {"parent": "DynMaxMatchEC.Main.theorem_5_1", "child": "DynBrooks_Machine", "via": ["statement"]}
@@ -80303,10 +80303,10 @@
 {"parent": "OAI.MUB6.Certificate.GramEntries.Block3.entryEval19_8_e", "child": "OAIQ106E018", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.GramEntries.Block3.entryEval19_8_e", "child": "OAIQ106E025", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramEntries.Block3.entryEval19_8_e", "child": "MUBSix", "via": ["solution", "statement"]}
-{"parent": "FreshSig.Layered.theorem_3_3", "child": "FreshSig_Layered_Term", "via": ["statement"]}
-{"parent": "FreshSig.Layered.theorem_3_3", "child": "FreshSig_Layered_Execution", "via": ["statement"]}
-{"parent": "FreshSig.Layered.theorem_3_3", "child": "FreshSig_Layered_EpochScheme", "via": ["statement"]}
-{"parent": "FreshSig.Layered.theorem_3_3", "child": "FreshSig_Layered_SigComp", "via": ["statement"]}
+{"parent": "FreshSig.Layered.theorem_3_3", "child": "FreshSig_Layered_Term", "via": ["solution", "statement"]}
+{"parent": "FreshSig.Layered.theorem_3_3", "child": "FreshSig_Layered_Execution", "via": ["solution", "statement"]}
+{"parent": "FreshSig.Layered.theorem_3_3", "child": "FreshSig_Layered_EpochScheme", "via": ["solution", "statement"]}
+{"parent": "FreshSig.Layered.theorem_3_3", "child": "FreshSig_Layered_SigComp", "via": ["solution", "statement"]}
 {"parent": "OAI.QuadraticAllOddCRT.quadraticRaySign_root", "child": "OAI_NumberTheory_DirichletL_RowCompletion_ThetaNonvanishing", "via": ["solution", "statement"]}
 {"parent": "OAI.QuadraticAllOddCRT.quadraticRaySign_root", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspResidues", "via": ["solution", "statement"]}
 {"parent": "OAI.QuadraticAllOddCRT.quadraticRaySign_root", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ConjugateLevelAction", "via": ["solution", "statement"]}
@@ -81224,7 +81224,7 @@
 {"parent": "OneTrap.Core.lemma_B_2", "child": "OneTrap_Core_Search", "via": ["statement"]}
 {"parent": "OneTrap.Core.lemma_B_2", "child": "OneTrap_Core_Model", "via": ["statement"]}
 {"parent": "SparsestCutOracle_Main_FairFlow", "child": "SparsestCutOracle_Main_Guarantees", "via": ["statement"]}
-{"parent": "LogConcaveLattice.Lift.lemma_2_2", "child": "LogConcaveLattice_Lift_Lattice", "via": ["statement"]}
+{"parent": "LogConcaveLattice.Lift.lemma_2_2", "child": "LogConcaveLattice_Lift_Lattice", "via": ["solution", "statement"]}
 {"parent": "PlanarDFVS.SingleExp.protected_bimodal_solver", "child": "PlanarDFVS_SingleExp_Interfaces", "via": ["statement"]}
 {"parent": "OAI.TamingCompatibility.GeometricHilbert.GeometricNormalCharts.actual_cutoff_time_integral", "child": "OAIQ239Tc018", "via": ["solution", "statement"]}
 {"parent": "OAI.TamingCompatibility.GeometricHilbert.GeometricNormalCharts.actual_cutoff_time_integral", "child": "TamingCompatibility", "via": ["solution", "statement"]}
@@ -84017,10 +84017,10 @@
 {"parent": "QEC.Coding.BDL26ConnectedSetCounting.mem_levelTwoSets", "child": "QEC_Locality_Graph_ConnectedSetCounting", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeSupportMetadata.atlas_rows_cost", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeStateRows", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeSupportMetadata.atlas_rows_cost", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeSupportMetadata", "via": ["solution", "statement"]}
-{"parent": "FreshSig.Layered.lemma_3_2", "child": "FreshSig_Layered_Term", "via": ["statement"]}
-{"parent": "FreshSig.Layered.lemma_3_2", "child": "FreshSig_Layered_Execution", "via": ["statement"]}
-{"parent": "FreshSig.Layered.lemma_3_2", "child": "FreshSig_Layered_EpochScheme", "via": ["statement"]}
-{"parent": "FreshSig.Layered.lemma_3_2", "child": "FreshSig_Layered_SigComp", "via": ["statement"]}
+{"parent": "FreshSig.Layered.lemma_3_2", "child": "FreshSig_Layered_Term", "via": ["solution", "statement"]}
+{"parent": "FreshSig.Layered.lemma_3_2", "child": "FreshSig_Layered_Execution", "via": ["solution", "statement"]}
+{"parent": "FreshSig.Layered.lemma_3_2", "child": "FreshSig_Layered_EpochScheme", "via": ["solution", "statement"]}
+{"parent": "FreshSig.Layered.lemma_3_2", "child": "FreshSig_Layered_SigComp", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeStateRows.map_operations", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_PaidRowsComposition", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeStateRows.map_operations", "child": "QEC_Coding_FiniteAlternatingConstruction_NativePresentationGenerator", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeStateRows.map_operations", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeStateRows", "via": ["solution", "statement"]}

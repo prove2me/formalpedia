@@ -48433,11 +48433,11 @@
 {"parent": "KLTNuclear.Completion.proposition_1", "child": "KLTNuclear_Completion_Model", "via": ["statement"]}
 {"parent": "KLTNuclear.Completion.theorem_1_completion", "child": "KLTNuclear_Completion_Model", "via": ["statement"]}
 {"parent": "KLTNuclear.Completion.theorem_4", "child": "KLTNuclear_Completion_Model", "via": ["statement"]}
-{"parent": "KLTNuclear.Lasso.cone_step", "child": "KLTNuclear_Lasso_Model", "via": ["statement"]}
+{"parent": "KLTNuclear.Lasso.cone_step", "child": "KLTNuclear_Lasso_Model", "via": ["solution", "statement"]}
 {"parent": "KLTNuclear.Lasso.gaussian_tail", "child": "KLTNuclear_Lasso_Model", "via": ["solution", "statement"]}
 {"parent": "KLTNuclear.Lasso.noise_sup_bound", "child": "KLTNuclear_Lasso_Model", "via": ["statement"]}
 {"parent": "KLTNuclear.Lasso.theorem_14", "child": "KLTNuclear_Lasso_Model", "via": ["statement"]}
-{"parent": "KLTNuclear.Lasso.theorem_2_lasso", "child": "KLTNuclear_Lasso_Model", "via": ["statement"]}
+{"parent": "KLTNuclear.Lasso.theorem_2_lasso", "child": "KLTNuclear_Lasso_Model", "via": ["solution", "statement"]}
 {"parent": "KLTNuclear.Oracle.basic_inequality", "child": "KLTNuclear_Oracle_Model", "via": ["solution", "statement"]}
 {"parent": "KLTNuclear.Oracle.eq_2_1", "child": "KLTNuclear_Oracle_Model", "via": ["statement"]}
 {"parent": "KLTNuclear.Oracle.eq_2_10", "child": "KLTNuclear_Oracle_Model", "via": ["solution", "statement"]}
