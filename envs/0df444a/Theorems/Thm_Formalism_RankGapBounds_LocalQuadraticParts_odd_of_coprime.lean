@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_odd_of_coprime
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.odd_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:06.720654+00:00
 -- url     : https://prove2.me/theorems/2834dd39-d3da-4f14-8f8c-5c5ea256b6ef

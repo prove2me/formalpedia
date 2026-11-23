@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_re_inner_self_indexArray
 -- name    : Formalism.REAL.re_inner_self_indexArray
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:55.859126+00:00
 -- url     : https://prove2.me/theorems/b034163c-7c0e-4e68-901c-1164f1a296a4

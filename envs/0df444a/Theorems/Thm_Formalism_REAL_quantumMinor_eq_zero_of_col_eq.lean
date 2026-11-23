@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_quantumMinor_eq_zero_of_col_eq
 -- name    : Formalism.REAL.quantumMinor_eq_zero_of_col_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:06:48.927886+00:00
 -- url     : https://prove2.me/theorems/4893b84e-5269-443c-bb42-d350400cd272

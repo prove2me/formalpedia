@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_parabolic_character_holds
 -- name    : Formalism.REAL.parabolic_character_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:30.298324+00:00
 -- url     : https://prove2.me/theorems/a0b623a6-4fdb-4776-8ad0-01f9096b82ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1alg_comm_iff
 -- name    : Formalism.REAL.f1alg_comm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:08.630048+00:00
 -- url     : https://prove2.me/theorems/c25347cc-ae5a-4f64-8516-241839c4cab7

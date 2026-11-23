@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_isotypic_part_le_of_forall
 -- name    : Formalism.REAL.isotypic_part_le_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:57.94746+00:00
 -- url     : https://prove2.me/theorems/dcde8976-ff4e-4d66-a92f-3fb9ac4bd35a

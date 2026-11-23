@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_prod_factorial_support_sub_single
 -- name    : Formalism.REAL.prod_factorial_support_sub_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:49.277338+00:00
 -- url     : https://prove2.me/theorems/e931fa0c-b15d-457c-b318-525ff5908e5f

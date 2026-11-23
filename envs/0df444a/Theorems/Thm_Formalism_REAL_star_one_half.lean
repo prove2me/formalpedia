@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_star_one_half
 -- name    : Formalism.REAL.star_one_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:20.758384+00:00
 -- url     : https://prove2.me/theorems/6f43184e-21ff-427a-bc86-d0ae6331dc7d

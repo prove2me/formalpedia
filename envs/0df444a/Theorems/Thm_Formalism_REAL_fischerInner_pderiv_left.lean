@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fischerInner_pderiv_left
 -- name    : Formalism.REAL.fischerInner_pderiv_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:55:14.028447+00:00
 -- url     : https://prove2.me/theorems/f7fb3356-95c5-47e8-8d9f-40ba0d00ab15

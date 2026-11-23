@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_matrix_exp_mul_exp_neg
 -- name    : Formalism.REAL.matrix_exp_mul_exp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:33.060809+00:00
 -- url     : https://prove2.me/theorems/d762c666-5ed1-49af-97d2-d6e9f47451d9

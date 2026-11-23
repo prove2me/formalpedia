@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_CharId_F_gen
 -- name    : Formalism.REAL.CharId_F_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:28.194901+00:00
 -- url     : https://prove2.me/theorems/d7f143f1-953f-4839-947f-36db15cbe1bb

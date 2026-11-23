@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unitsEquivIntProd_symm_apply
 -- name    : GroundTheory.LocalField.unitsEquivIntProd_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:57.776495+00:00
 -- url     : https://prove2.me/theorems/965c7112-770d-489c-97ed-6ef67e5c36e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_algebra_neg_mem
 -- name    : Formalism.REAL.lie_algebra_neg_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:18.993911+00:00
 -- url     : https://prove2.me/theorems/606ada02-438d-4dba-b07d-fa7767670a02

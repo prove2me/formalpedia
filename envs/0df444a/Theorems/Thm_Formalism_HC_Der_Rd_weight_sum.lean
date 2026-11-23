@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_weight_sum
 -- name    : Formalism.HC.Der.Rd.weight_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:42.939719+00:00
 -- url     : https://prove2.me/theorems/08b298ae-ffd4-4f92-abfd-e9feb07553f1

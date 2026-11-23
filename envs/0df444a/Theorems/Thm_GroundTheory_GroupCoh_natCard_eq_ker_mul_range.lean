@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_natCard_eq_ker_mul_range
 -- name    : GroundTheory.GroupCoh.natCard_eq_ker_mul_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:44.035502+00:00
 -- url     : https://prove2.me/theorems/7bdce464-9636-4134-80c1-b7be908c63d2

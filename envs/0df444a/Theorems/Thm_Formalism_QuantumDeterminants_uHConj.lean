@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_uHConj
 -- name    : Formalism.QuantumDeterminants.uHConj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:55:45.557883+00:00
 -- url     : https://prove2.me/theorems/53a17649-ff61-403e-a972-a190d50e48e8

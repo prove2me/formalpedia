@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_quantumMinor_eq_sum_term
 -- name    : Formalism.REAL.quantumMinor_eq_sum_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:31.376664+00:00
 -- url     : https://prove2.me/theorems/32e35fa6-7fed-4b50-9c65-d240ba0977cb

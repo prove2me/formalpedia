@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_height_functional_add
 -- name    : Formalism.REAL.height_functional_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:15.740961+00:00
 -- url     : https://prove2.me/theorems/cfeb209c-4f25-4ccb-be5f-c37afffcf326

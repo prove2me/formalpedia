@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_cN_primePow
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.cN_primePow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:03.953875+00:00
 -- url     : https://prove2.me/theorems/469bab70-e36b-429b-a8c8-26ac528a73cd

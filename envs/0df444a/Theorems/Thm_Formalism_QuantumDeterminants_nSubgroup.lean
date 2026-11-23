@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_nSubgroup
 -- name    : Formalism.QuantumDeterminants.nSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:43:04.409297+00:00
 -- url     : https://prove2.me/theorems/f66e619b-dc50-4d81-81c7-0ea714336ac7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_WeightedMeanData_Data_sumA_nonneg
 -- name    : Formalism.RankGapBounds.WeightedMeanData.Data.sumA_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:54.702584+00:00
 -- url     : https://prove2.me/theorems/7931182b-dc49-4e6c-bdee-c8326bdc0c4a

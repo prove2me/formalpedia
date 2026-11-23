@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_prod_ofFn_apply_of_eigen
 -- name    : Formalism.REAL.prod_ofFn_apply_of_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:49.577739+00:00
 -- url     : https://prove2.me/theorems/5509749a-4bb1-4b5c-aaee-34916630d35e

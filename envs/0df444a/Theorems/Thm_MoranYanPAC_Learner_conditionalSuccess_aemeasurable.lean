@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoranYanPAC_Learner_conditionalSuccess_aemeasurable
 -- name    : MoranYanPAC.Learner.conditionalSuccess_aemeasurable
--- status  : Open
+-- status  : Disproved
 -- author  : @dbenbenn
 -- created : 2026-11-20T15:32:40.746332+00:00
 -- url     : https://prove2.me/theorems/63b90627-0b2c-4347-80d3-a4391d32191e

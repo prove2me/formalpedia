@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RQCMoments_lemma_4_7
 -- name    : RQCMoments.lemma_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-11T04:08:19.8683+00:00
 -- url     : https://prove2.me/theorems/037aa008-2993-41c5-ad2f-8bb2c633e771

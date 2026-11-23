@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pointwiseAction_mul_permutePositions
 -- name    : Formalism.REAL.pointwiseAction_mul_permutePositions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:38.588092+00:00
 -- url     : https://prove2.me/theorems/1e199e5b-13c7-4bd7-8f26-65d1191c8caa

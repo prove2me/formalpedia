@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_KerModRange_ker_map_eq_range_map
 -- name    : GroundTheory.GroupCoh.KerModRange.ker_map_eq_range_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:42.001873+00:00
 -- url     : https://prove2.me/theorems/01f834b2-304b-44c0-b25b-bf8f7bd23060

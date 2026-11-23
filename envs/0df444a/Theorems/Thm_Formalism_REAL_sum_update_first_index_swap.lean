@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sum_update_first_index_swap
 -- name    : Formalism.REAL.sum_update_first_index_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:17.600669+00:00
 -- url     : https://prove2.me/theorems/289c65ec-6639-44c7-be35-3c0fab248149

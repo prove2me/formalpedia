@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_self_mem_lowering_span
 -- name    : Formalism.REAL.self_mem_lowering_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:14.137918+00:00
 -- url     : https://prove2.me/theorems/56ff93e8-6ce4-4250-bffa-d936e0221949

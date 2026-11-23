@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_firstPositionSlice_pointwiseAction
 -- name    : Formalism.REAL.firstPositionSlice_pointwiseAction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:15.556271+00:00
 -- url     : https://prove2.me/theorems/2ea34b0f-84f2-4268-a1ea-b7d76e307d03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_isClosedEmbeddingMatrix
 -- name    : Formalism.REAL.isClosedEmbeddingMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:55:23.926816+00:00
 -- url     : https://prove2.me/theorems/c528977b-438b-414c-b20f-6fe6b3d66a7b

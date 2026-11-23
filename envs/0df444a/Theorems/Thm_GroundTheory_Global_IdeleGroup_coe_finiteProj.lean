@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_coe_finiteProj
 -- name    : GroundTheory.Global.IdeleGroup.coe_finiteProj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:33.078775+00:00
 -- url     : https://prove2.me/theorems/164ae541-b1ac-4bd6-842f-07343a6b7365

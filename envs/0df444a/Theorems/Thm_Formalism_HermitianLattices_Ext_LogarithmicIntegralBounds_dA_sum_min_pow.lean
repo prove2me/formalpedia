@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_dA_sum_min_pow
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_sum_min_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:51.018402+00:00
 -- url     : https://prove2.me/theorems/f6440dc9-1507-4a19-8f6a-1621ed963603

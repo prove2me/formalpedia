@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mem_symmetricArrays
 -- name    : Formalism.REAL.mem_symmetricArrays
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:26.83381+00:00
 -- url     : https://prove2.me/theorems/faf9bc84-ea25-4fe2-8938-0b4908f35e23

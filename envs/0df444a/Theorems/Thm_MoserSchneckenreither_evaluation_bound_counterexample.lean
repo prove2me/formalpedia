@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoserSchneckenreither_evaluation_bound_counterexample
 -- name    : MoserSchneckenreither.evaluation_bound_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-21T08:58:07.878273+00:00
 -- url     : https://prove2.me/theorems/d363cd4b-8cb9-4e58-b1fc-61c78b425743

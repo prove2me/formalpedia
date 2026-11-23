@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_tile_disjoint
 -- name    : GlobalTheory.RandomTops.tile_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:06.614802+00:00
 -- url     : https://prove2.me/theorems/9e26c906-b10b-4a3a-a9af-1bf73dd9ace4

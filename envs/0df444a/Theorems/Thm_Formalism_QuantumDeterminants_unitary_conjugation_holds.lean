@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_unitary_conjugation_holds
 -- name    : Formalism.QuantumDeterminants.unitary_conjugation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:19.006727+00:00
 -- url     : https://prove2.me/theorems/73c5c9f2-aec5-4a2a-9f33-dd43b7765d81

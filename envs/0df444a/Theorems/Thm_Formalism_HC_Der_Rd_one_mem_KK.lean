@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_one_mem_KK
 -- name    : Formalism.HC.Der.Rd.one_mem_KK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:06:49.473691+00:00
 -- url     : https://prove2.me/theorems/71972565-85d5-49b9-8167-5b03d3b0a7aa

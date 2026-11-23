@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_UG_inclusion_injective
 -- name    : Formalism.UG.P.UG_inclusion_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:12:23.733641+00:00
 -- url     : https://prove2.me/theorems/e87d58e9-431b-476b-a76d-02d410ab5385

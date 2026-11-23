@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s1c2_gram_f
 -- name    : Formalism.HermitianLatticeCounting.P.s1c2_gram_f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:17:32.426821+00:00
 -- url     : https://prove2.me/theorems/ab53395b-9d43-4bcf-9dc3-b39dc86d0c50

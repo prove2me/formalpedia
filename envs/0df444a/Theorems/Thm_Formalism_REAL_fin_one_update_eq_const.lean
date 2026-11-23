@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fin_one_update_eq_const
 -- name    : Formalism.REAL.fin_one_update_eq_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:27.575873+00:00
 -- url     : https://prove2.me/theorems/a5987ef1-ca00-4745-a6c1-10bdd86b44e5

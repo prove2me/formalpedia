@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_hermitian_of_mem_hermitian_part
 -- name    : Formalism.REAL.hermitian_of_mem_hermitian_part
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:17.0488+00:00
 -- url     : https://prove2.me/theorems/f71484e5-931d-4734-9b58-b7d1b1238468

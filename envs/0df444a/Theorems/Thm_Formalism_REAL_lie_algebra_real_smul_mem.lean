@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_algebra_real_smul_mem
 -- name    : Formalism.REAL.lie_algebra_real_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:51.443276+00:00
 -- url     : https://prove2.me/theorems/499e7143-841c-4b6c-9b98-95bbd4e53257

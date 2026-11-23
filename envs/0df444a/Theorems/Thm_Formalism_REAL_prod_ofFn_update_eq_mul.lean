@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_prod_ofFn_update_eq_mul
 -- name    : Formalism.REAL.prod_ofFn_update_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:54.994952+00:00
 -- url     : https://prove2.me/theorems/c989624f-4f1e-4d0d-9589-75e54685b105

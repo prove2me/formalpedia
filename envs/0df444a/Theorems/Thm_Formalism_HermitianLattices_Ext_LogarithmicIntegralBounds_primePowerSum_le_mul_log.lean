@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_primePowerSum_le_mul_log
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.primePowerSum_le_mul_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:18:40.69269+00:00
 -- url     : https://prove2.me/theorems/96acbfea-e18a-45a6-b28b-55dd1ca64741

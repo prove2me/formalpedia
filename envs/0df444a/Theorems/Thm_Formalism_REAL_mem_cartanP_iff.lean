@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mem_cartanP_iff
 -- name    : Formalism.REAL.mem_cartanP_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:25.503361+00:00
 -- url     : https://prove2.me/theorems/1fc5017c-e06d-4a11-b467-4ae9efd7d0e3

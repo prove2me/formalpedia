@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_noncompact_generator_raises_pfil
 -- name    : Formalism.REAL.noncompact_generator_raises_pfil
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:38.265803+00:00
 -- url     : https://prove2.me/theorems/fe9c003e-dfb4-4be9-816c-c074ae41737e

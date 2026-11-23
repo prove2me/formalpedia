@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gn_Hpk_mulVec_lo
 -- name    : Formalism.QuantumDeterminants.gn_Hpk_mulVec_lo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:04.044922+00:00
 -- url     : https://prove2.me/theorems/52e41230-3355-4011-8e16-78b99623eb41

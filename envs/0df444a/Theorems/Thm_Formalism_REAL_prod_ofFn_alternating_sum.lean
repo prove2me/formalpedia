@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_prod_ofFn_alternating_sum
 -- name    : Formalism.REAL.prod_ofFn_alternating_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:03.576442+00:00
 -- url     : https://prove2.me/theorems/5b44718e-90fd-44ff-aca9-d9b72a44f65c

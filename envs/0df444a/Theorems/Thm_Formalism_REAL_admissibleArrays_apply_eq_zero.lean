@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_admissibleArrays_apply_eq_zero
 -- name    : Formalism.REAL.admissibleArrays_apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:15.863412+00:00
 -- url     : https://prove2.me/theorems/1a14e890-7be1-416c-8a59-6967751a1c8a

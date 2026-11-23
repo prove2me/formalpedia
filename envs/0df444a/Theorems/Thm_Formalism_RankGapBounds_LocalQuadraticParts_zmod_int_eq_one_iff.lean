@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_zmod_int_eq_one_iff
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.zmod_int_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:54.260991+00:00
 -- url     : https://prove2.me/theorems/1568f3b9-3f01-49dc-ad3c-e5a8b3a237b4

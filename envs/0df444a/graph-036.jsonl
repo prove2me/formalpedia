@@ -18403,10 +18403,10 @@
 {"parent": "RH1E6S06.part_054_0", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06.part_054_0", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "MoranYanPAC.Learner.conditionalSuccess_aemeasurable", "child": "PrivLittlestone_localUniverse", "via": ["statement"]}
-{"parent": "MoranYanPAC.Learner.conditionalSuccess_aemeasurable", "child": "UnderstandingML_Online", "via": ["statement"]}
-{"parent": "MoranYanPAC.Learner.conditionalSuccess_aemeasurable", "child": "MoranYanPAC_Learner", "via": ["statement"]}
-{"parent": "MoranYanPAC.Learner.conditionalSuccess_aemeasurable", "child": "MoranYanPAC_Main_PACExperiment", "via": ["statement"]}
-{"parent": "MoranYanPAC.Learner.conditionalSuccess_aemeasurable", "child": "MoranYanPAC_Main_Candidates", "via": ["statement"]}
+{"parent": "MoranYanPAC.Learner.conditionalSuccess_aemeasurable", "child": "UnderstandingML_Online", "via": ["solution", "statement"]}
+{"parent": "MoranYanPAC.Learner.conditionalSuccess_aemeasurable", "child": "MoranYanPAC_Learner", "via": ["solution", "statement"]}
+{"parent": "MoranYanPAC.Learner.conditionalSuccess_aemeasurable", "child": "MoranYanPAC_Main_PACExperiment", "via": ["solution", "statement"]}
+{"parent": "MoranYanPAC.Learner.conditionalSuccess_aemeasurable", "child": "MoranYanPAC_Main_Candidates", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06.part_059_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S06.part_059_2", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S06.part_059_2", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}

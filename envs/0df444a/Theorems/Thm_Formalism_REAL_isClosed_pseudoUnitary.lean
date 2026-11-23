@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_isClosed_pseudoUnitary
 -- name    : Formalism.REAL.isClosed_pseudoUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:24.580881+00:00
 -- url     : https://prove2.me/theorems/8082fd23-af69-4a4d-8d98-7538d431e059

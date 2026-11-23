@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_star_one_div_two_I
 -- name    : Formalism.REAL.star_one_div_two_I
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:08.289431+00:00
 -- url     : https://prove2.me/theorems/6383d03e-5800-409b-924b-7c455bf9d74d

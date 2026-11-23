@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_rho_apply
 -- name    : PI.DvRows.GramDeterminantPositive.rho_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:33.306201+00:00
 -- url     : https://prove2.me/theorems/f924fdf9-c07d-445f-8492-7882f4672585

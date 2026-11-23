@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_BesselUnipotentEquiv_star_psi_inv
 -- name    : Formalism.QuantumDeterminants.BesselUnipotentEquiv.star_psi_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:45:25.00442+00:00
 -- url     : https://prove2.me/theorems/7756d31c-ce89-4e38-8e23-c66bd0198d10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_mul_mem_KK
 -- name    : Formalism.HC.Der.Rd.mul_mem_KK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:21.345547+00:00
 -- url     : https://prove2.me/theorems/466f935b-999e-4c5f-aa42-f5945cfe4b84

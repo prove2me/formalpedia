@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gnExt_mulVec
 -- name    : Formalism.QuantumDeterminants.gnExt_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:03.655798+00:00
 -- url     : https://prove2.me/theorems/87ec4dae-3952-4f3c-8a26-e3a3b1e9c308

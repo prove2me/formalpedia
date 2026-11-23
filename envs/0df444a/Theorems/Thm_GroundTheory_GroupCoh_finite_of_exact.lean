@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_finite_of_exact
 -- name    : GroundTheory.GroupCoh.finite_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:42.313567+00:00
 -- url     : https://prove2.me/theorems/3575d156-3dea-4113-bcb8-d6ef8e81723e

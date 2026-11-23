@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_isInducing_coeMatrix
 -- name    : Formalism.REAL.isInducing_coeMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:41.921334+00:00
 -- url     : https://prove2.me/theorems/335b339b-8c3f-44e0-a340-b93d64c49d3a

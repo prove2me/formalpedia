@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_poincare_filtration_zero
 -- name    : Formalism.REAL.poincare_filtration_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:43.603693+00:00
 -- url     : https://prove2.me/theorems/5a0e3122-3918-4af9-ac6a-81e1d7e2f6f6

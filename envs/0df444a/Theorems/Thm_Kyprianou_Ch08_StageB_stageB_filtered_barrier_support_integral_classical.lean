@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_stageB_filtered_barrier_support_integral_classical
 -- name    : Kyprianou.Ch08.StageB.stageB_filtered_barrier_support_integral_classical
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T03:36:02.207803+00:00
 -- url     : https://prove2.me/theorems/4c7134b9-7d3e-4c70-a4d7-5fe33e86665c

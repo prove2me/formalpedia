@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rdLin_of
 -- name    : Formalism.REAL.rdLin_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:08.853301+00:00
 -- url     : https://prove2.me/theorems/b24d7184-6099-4134-ae96-4ad5b061dae4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_sig_data
 -- name    : Formalism.UG.P.sig_data
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:11:32.604898+00:00
 -- url     : https://prove2.me/theorems/7d993df8-ae02-49df-98c8-fe56f3fedee3

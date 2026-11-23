@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_tendsto_slope_exp_smul
 -- name    : Formalism.REAL.tendsto_slope_exp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:20.805367+00:00
 -- url     : https://prove2.me/theorems/0772f551-d1c9-4873-a8e7-2f8444479c15

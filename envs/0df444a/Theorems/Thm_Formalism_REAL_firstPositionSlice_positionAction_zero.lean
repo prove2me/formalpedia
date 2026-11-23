@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_firstPositionSlice_positionAction_zero
 -- name    : Formalism.REAL.firstPositionSlice_positionAction_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:37.961808+00:00
 -- url     : https://prove2.me/theorems/5dd11fad-ef7e-4f83-83fb-1c1ae6c87610

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1auxiliary_entry_le
 -- name    : Formalism.REAL.f1auxiliary_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:18.700887+00:00
 -- url     : https://prove2.me/theorems/fb78fcdc-622c-4f33-b4cf-b22b08de96dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_psiChar
 -- name    : Formalism.QuantumDeterminants.psiChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:13.008878+00:00
 -- url     : https://prove2.me/theorems/05dc6aa6-dcfa-42e2-8592-96adbb9dd791

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csGlob_intAdApprox
 -- name    : Formalism.UG.P.csGlob_intAdApprox
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:59:12.43287+00:00
 -- url     : https://prove2.me/theorems/4deab992-ded3-49f5-a92c-b7e0a771cf1a

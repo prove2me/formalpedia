@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1alg_inK_iff
 -- name    : Formalism.REAL.f1alg_inK_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:09:41.289669+00:00
 -- url     : https://prove2.me/theorems/2a173c3c-9615-4545-856a-058c9f537991

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_permutePositions_apply
 -- name    : Formalism.REAL.permutePositions_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:48.332895+00:00
 -- url     : https://prove2.me/theorems/1f59bbe6-f2aa-4e64-a8e4-4fadce0be234

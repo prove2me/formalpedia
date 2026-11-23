@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_exists_primePowerSum_le_mul_log
 -- name    : QH.exists_primePowerSum_le_mul_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:20.990137+00:00
 -- url     : https://prove2.me/theorems/a311aab5-ae89-4b41-958e-eaa52e742091

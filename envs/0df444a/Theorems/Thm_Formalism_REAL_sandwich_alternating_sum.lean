@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sandwich_alternating_sum
 -- name    : Formalism.REAL.sandwich_alternating_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:58.077449+00:00
 -- url     : https://prove2.me/theorems/020044db-2ce6-42cb-850f-ef90c2c71fc6

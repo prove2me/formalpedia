@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_uW_contDiffOn
 -- name    : Formalism.QuantumDeterminants.uW_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:09.370063+00:00
 -- url     : https://prove2.me/theorems/74ed2a9d-4b99-4ff6-9602-378e39bd34eb

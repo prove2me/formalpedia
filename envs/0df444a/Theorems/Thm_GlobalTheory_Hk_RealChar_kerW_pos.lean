@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_kerW_pos
 -- name    : GlobalTheory.Hk.RealChar.kerW_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:40.927824+00:00
 -- url     : https://prove2.me/theorems/a1a8e582-1123-4ce8-8fe2-c278749f53d2

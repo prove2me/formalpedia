@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_bc_mem
 -- name    : Formalism.UG.P.bc_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:52:07.236127+00:00
 -- url     : https://prove2.me/theorems/4ce61391-1101-47f2-93f5-0aeddaae54c1

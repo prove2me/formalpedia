@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_kept_iff
 -- name    : Formalism.HC.HostRaw.kept_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:51.481445+00:00
 -- url     : https://prove2.me/theorems/f59687b1-a84c-4769-aed7-f935b32add5d

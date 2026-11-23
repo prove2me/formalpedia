@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_ite_zero_eq_mul_ite
 -- name    : Formalism.REAL.ite_zero_eq_mul_ite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:26.11598+00:00
 -- url     : https://prove2.me/theorems/84a1c0ba-1ca9-4755-8427-e7154182cc77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_card_KK
 -- name    : Formalism.HC.Der.Rd.card_KK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:06:26.182807+00:00
 -- url     : https://prove2.me/theorems/eb2c4463-cc38-447a-acbf-5a38185f0edc

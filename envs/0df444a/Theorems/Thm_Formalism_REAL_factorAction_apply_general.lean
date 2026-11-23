@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_factorAction_apply_general
 -- name    : Formalism.REAL.factorAction_apply_general
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:18.003184+00:00
 -- url     : https://prove2.me/theorems/633b0181-28e2-45dc-b49f-8dccde4d753d

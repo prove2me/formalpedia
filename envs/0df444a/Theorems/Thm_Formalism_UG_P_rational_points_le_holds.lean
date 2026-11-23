@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_rational_points_le_holds
 -- name    : Formalism.UG.P.rational_points_le_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:43.407066+00:00
 -- url     : https://prove2.me/theorems/f1444534-b17f-45cf-b2f3-e56794cc85d2

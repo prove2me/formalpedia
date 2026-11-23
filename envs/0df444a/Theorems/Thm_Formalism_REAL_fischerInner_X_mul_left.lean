@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fischerInner_X_mul_left
 -- name    : Formalism.REAL.fischerInner_X_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:55:32.731421+00:00
 -- url     : https://prove2.me/theorems/03adacb7-8eb1-488c-a960-38937e6b860e

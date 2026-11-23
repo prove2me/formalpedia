@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_reverse_of_fn_noncompact
 -- name    : Formalism.REAL.reverse_of_fn_noncompact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:02.336913+00:00
 -- url     : https://prove2.me/theorems/7e01d2cc-75f8-4e9f-adfc-ad9f8eb05615

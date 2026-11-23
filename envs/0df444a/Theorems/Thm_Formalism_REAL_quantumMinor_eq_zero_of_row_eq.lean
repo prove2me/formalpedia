@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_quantumMinor_eq_zero_of_row_eq
 -- name    : Formalism.REAL.quantumMinor_eq_zero_of_row_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:07:49.358676+00:00
 -- url     : https://prove2.me/theorems/d39eacea-9b18-45ce-ae4b-94e9e01160be

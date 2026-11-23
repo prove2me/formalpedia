@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lower_mul_raise
 -- name    : Formalism.REAL.lower_mul_raise
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:57.009791+00:00
 -- url     : https://prove2.me/theorems/8f56db9f-6a35-4b20-ae63-b3b8d2434841

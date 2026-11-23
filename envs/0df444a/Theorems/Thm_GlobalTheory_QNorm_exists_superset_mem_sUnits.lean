@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_superset_mem_sUnits
 -- name    : GlobalTheory.QNorm.exists_superset_mem_sUnits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:44:43.206194+00:00
 -- url     : https://prove2.me/theorems/5f23d0b7-0703-4c48-b679-86de018e31b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_unipotent_subgroup_holds
 -- name    : Formalism.QuantumDeterminants.unipotent_subgroup_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:34:06.171741+00:00
 -- url     : https://prove2.me/theorems/3a8302e1-9b84-451d-932f-84f5c675c843

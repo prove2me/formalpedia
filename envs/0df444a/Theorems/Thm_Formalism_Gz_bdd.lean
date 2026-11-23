@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Gz_bdd
 -- name    : Formalism.Gz_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:40.272805+00:00
 -- url     : https://prove2.me/theorems/cba76e56-5668-4b4c-bcf9-28248d0faa4c
