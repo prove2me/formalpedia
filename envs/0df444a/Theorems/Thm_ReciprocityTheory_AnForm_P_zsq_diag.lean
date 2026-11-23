@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_zsq_diag
 -- name    : ReciprocityTheory.AnForm.P.zsq_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:09.88228+00:00
 -- url     : https://prove2.me/theorems/683c372a-2679-485b-8f45-b3400b6e317b

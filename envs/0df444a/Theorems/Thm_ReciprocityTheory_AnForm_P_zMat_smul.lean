@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_zMat_smul
 -- name    : ReciprocityTheory.AnForm.P.zMat_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:14.226273+00:00
 -- url     : https://prove2.me/theorems/ad3ed3da-baba-4e2c-b23c-7934d9f780df

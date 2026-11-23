@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_conj_le
 -- name    : GlobalTheory.SW.Nbr.conj_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:21.045476+00:00
 -- url     : https://prove2.me/theorems/6c336396-8b1f-4b41-bb99-5d3c5fa01561

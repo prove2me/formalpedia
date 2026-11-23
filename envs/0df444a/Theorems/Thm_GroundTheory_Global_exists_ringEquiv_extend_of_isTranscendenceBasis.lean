@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_ringEquiv_extend_of_isTranscendenceBasis
 -- name    : GroundTheory.Global.exists_ringEquiv_extend_of_isTranscendenceBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:28.377853+00:00
 -- url     : https://prove2.me/theorems/9bc23064-73aa-4b59-9b6c-e46732c76581

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.reverseLampertiFirstJumpWeightedMixtureMeasurable
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T15:34:31.587907+00:00
 -- url     : https://prove2.me/submissions/52654a88-cf6f-4072-b100-a81128301929
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_BranchingClocks

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_det_ne_zero_of_ortho
 -- name    : GlobalTheory.FrameNet.det_ne_zero_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:13.231266+00:00
 -- url     : https://prove2.me/theorems/5a35e6ef-87d6-47d9-b898-e98154417894

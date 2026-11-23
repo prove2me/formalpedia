@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH1E6S16_group_033
 -- name    : RH1E6S16.group_033
--- status  : Open
+-- status  : Proved
 -- author  : @@bwdaugherty
 -- created : 2026-11-23T15:58:03.400228+00:00
 -- url     : https://prove2.me/theorems/b8fe2130-78b3-4033-9be3-2b21386067fc

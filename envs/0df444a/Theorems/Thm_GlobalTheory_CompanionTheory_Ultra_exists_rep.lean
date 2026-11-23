@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_exists_rep
 -- name    : GlobalTheory.CompanionTheory.Ultra.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:16.036463+00:00
 -- url     : https://prove2.me/theorems/af96155e-3259-489a-9c14-bf5058a7ccdb

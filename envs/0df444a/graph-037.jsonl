@@ -74873,7 +74873,7 @@
 {"parent": "Formalism.NG.ColumnGeneratorDecomposition.map_sigRel", "child": "Formalism_CharacterColumnKernels_StatementColKer", "via": ["statement"]}
 {"parent": "Formalism.NG.ColumnGeneratorDecomposition.map_sigRel", "child": "Formalism_CharacterColumnKernels_IdempotentNormalForms_LengthKerOfDetEqZero", "via": ["statement"]}
 {"parent": "SubspaceEvasion312.Explicit.constant_alphabet_design_entries", "child": "SubspaceEvasion312_Explicit_effective", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_a77_original_simpleFunc_physical_mark_fibre_exact", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_a77_original_simpleFunc_physical_mark_fibre_exact", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Formalism.FT.SymmetricSeries.Ee_comp_Tt", "child": "Formalism_ArtinHasse_Statement", "via": ["statement"]}
 {"parent": "Formalism.FT.SymmetricSeries.Ee_comp_Tt", "child": "Formalism_ArtinHasse_ArtinHasseProofs_SymmSeries", "via": ["statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.fockPos", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylIntRat", "via": ["statement"]}

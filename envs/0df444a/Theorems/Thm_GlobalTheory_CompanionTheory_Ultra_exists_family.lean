@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_exists_family
 -- name    : GlobalTheory.CompanionTheory.Ultra.exists_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:21.023961+00:00
 -- url     : https://prove2.me/theorems/35aa48fe-2fd3-4f7f-8f5e-ab8bccf76f39

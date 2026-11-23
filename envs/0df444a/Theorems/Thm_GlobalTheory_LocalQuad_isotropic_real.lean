@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_isotropic_real
 -- name    : GlobalTheory.LocalQuad.isotropic_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:46.708881+00:00
 -- url     : https://prove2.me/theorems/5a17baa8-dab8-4738-8c1b-b1229cef5a47

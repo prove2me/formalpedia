@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_ae_eq_of_fg
 -- name    : GlobalTheory.CompanionTheory.Ultra.ae_eq_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:22.148792+00:00
 -- url     : https://prove2.me/theorems/64895190-2307-4ef8-a987-3eb5d015a8f6

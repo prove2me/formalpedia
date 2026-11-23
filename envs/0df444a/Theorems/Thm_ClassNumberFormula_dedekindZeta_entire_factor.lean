@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_dedekindZeta_entire_factor
 -- name    : ClassNumberFormula.dedekindZeta_entire_factor
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-23T15:52:21.254567+00:00
 -- url     : https://prove2.me/theorems/f3734e35-3b47-4d3d-b936-2242b70b2da3

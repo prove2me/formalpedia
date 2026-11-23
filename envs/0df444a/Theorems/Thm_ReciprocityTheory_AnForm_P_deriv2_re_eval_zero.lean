@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_deriv2_re_eval_zero
 -- name    : ReciprocityTheory.AnForm.P.deriv2_re_eval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:11.285143+00:00
 -- url     : https://prove2.me/theorems/cd2d18c5-a7ec-4ead-b984-383069403383

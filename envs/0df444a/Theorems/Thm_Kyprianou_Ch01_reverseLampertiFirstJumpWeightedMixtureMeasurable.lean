@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiFirstJumpWeightedMixtureMeasurable
 -- name    : Kyprianou.Ch01.reverseLampertiFirstJumpWeightedMixtureMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:21:23.2038+00:00
 -- url     : https://prove2.me/theorems/8ee2a3e9-4e85-465c-b37e-edc5ad8c4660

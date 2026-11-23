@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLineZeros_exists_of_fixed
 -- name    : GlobalTheory.HermLineZeros.exists_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:33.155467+00:00
 -- url     : https://prove2.me/theorems/44eb5677-a89f-4cb2-b3eb-fc2e09a9c924

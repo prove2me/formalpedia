@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_UnitaryOsc_continuous_dP
 -- name    : GlobalTheory.RealWeil.UnitaryOsc.continuous_dP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:20.526267+00:00
 -- url     : https://prove2.me/theorems/978bbc44-36fb-43f4-9a90-7866370de292

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_E_FockPermanent_pderiv_lin
 -- name    : Formalism.E.FockPermanent.pderiv_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:01.642828+00:00
 -- url     : https://prove2.me/theorems/ef561767-cb77-4abc-b849-e90b401265ac

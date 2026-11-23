@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_zMat_of_le_one
 -- name    : ReciprocityTheory.AnForm.P.zMat_of_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:11.63726+00:00
 -- url     : https://prove2.me/theorems/afa52e55-3c27-4b00-85ab-b988eb48b686

@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_MonicRootExtension_maximalIdeal_eq
+-- name    : GlobalTheory.MonicRootExtension.maximalIdeal_eq
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T16:28:38.411628+00:00
+-- url     : https://prove2.me/theorems/bd10f496-3f65-42a3-b953-411df206bce7
+-- title:
+--   Monic Root Extension: maximal Ideal eq
+-- statement:
+--   The Monic Root Extension construction uses the maximal Ideal eq property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ExistsRegularLocalExtensionWithSimpleRoot.lean#L33-L35
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ExistsRegularLocalExtensionWithSimpleRoot.lean#L33-L35
+
+import Mathlib
+import Definitions.Def_GroundTheory_ArithmeticGeometry_SchemeCohomology_RegularSmooth
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SemiabelianSchemes_PrecompleteBases_IsPrecompleteOfBasis
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsRegularLocalExtensionWithSimpleRoot
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open IsLocalRing Polynomial
+open GlobalTheory GlobalTheory.MonicRootExtension
+variable {A : Type} [CommRing A] [IsLocalRing A] (M : A[X]) (hM : M.Monic)
+  (hirr : Irreducible (M.map (residue A)))
+include hM hirr
+
+theorem GlobalTheory.MonicRootExtension.maximalIdeal_eq [IsLocalRing (AdjoinRoot M)] :
+    (maximalIdeal A).map (algebraMap A (AdjoinRoot M)) = maximalIdeal (AdjoinRoot M) := by sorry

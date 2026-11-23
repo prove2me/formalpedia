@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_exists_finite_affine_cover
 -- name    : GlobalTheory.CompanionTheory.Ultra.exists_finite_affine_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:12.762806+00:00
 -- url     : https://prove2.me/theorems/67d0ef44-4a5e-419e-9b79-7fc67f0bc549

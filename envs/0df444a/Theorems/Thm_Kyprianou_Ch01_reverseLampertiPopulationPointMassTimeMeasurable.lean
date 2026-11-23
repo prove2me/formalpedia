@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiPopulationPointMassTimeMeasurable
 -- name    : Kyprianou.Ch01.reverseLampertiPopulationPointMassTimeMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:32:14.822931+00:00
 -- url     : https://prove2.me/theorems/698ed7cc-f45b-4c92-8bf6-e83671f8b619

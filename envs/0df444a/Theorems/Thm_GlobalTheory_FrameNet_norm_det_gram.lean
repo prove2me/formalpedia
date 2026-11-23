@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_norm_det_gram
 -- name    : GlobalTheory.FrameNet.norm_det_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:35.895246+00:00
 -- url     : https://prove2.me/theorems/da4b59d6-2e44-4c03-b40e-e0c390d6c745

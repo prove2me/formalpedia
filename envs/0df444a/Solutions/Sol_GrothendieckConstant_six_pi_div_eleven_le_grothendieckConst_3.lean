@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for GrothendieckConstant.six_pi_div_eleven_le_grothendieckConst
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T15:45:38.958784+00:00
 -- url     : https://prove2.me/submissions/a3fa0f59-b55d-405e-a7a1-baff12f5c727
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckConstant_affine_constraint_transfer
 import Theorems.Thm_GrothendieckConstant_coeff_hermite_moments

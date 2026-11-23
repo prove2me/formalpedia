@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_valuation_surjective
 -- name    : GroundTheory.FunctionField.Place.valuation_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:34.682309+00:00
 -- url     : https://prove2.me/theorems/8ef9ff90-58e2-4fd4-80c7-8630de321f04

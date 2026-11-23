@@ -48875,7 +48875,7 @@
 {"parent": "APFB02.hold_undone", "child": "APFPaper5.K3.undoneWhereItLands_of_turnsLoseNothing", "via": ["solution", "statement"]}
 {"parent": "APFB02.hold_undone", "child": "APFPaper5.K3.one_way_is_not_undone", "via": ["solution", "statement"]}
 {"parent": "APFB02.hold_undone", "child": "APFPaper5.K3.undone_of_each_kind", "via": ["solution", "statement"]}
-{"parent": "DistributionTheoryMission.tensor_tests", "child": "liuyao_ca_fd889115_k1_Distributions_KernelTargets", "via": ["statement"]}
+{"parent": "DistributionTheoryMission.tensor_tests", "child": "liuyao_ca_fd889115_k1_Distributions_KernelTargets", "via": ["solution", "statement"]}
 {"parent": "PaceSSSP517_Certified_Supplement_TraceStatistics", "child": "PaceSSSP517_Certified_Resources", "via": ["statement"]}
 {"parent": "CompPermOracle_Supplement_sparsity", "child": "CompPermOracle_PartialPerm", "via": ["statement"]}
 {"parent": "IAFTRL.lemma_C_10", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}

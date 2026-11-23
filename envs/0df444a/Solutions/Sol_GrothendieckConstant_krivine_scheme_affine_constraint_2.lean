@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for GrothendieckConstant.krivine_scheme_affine_constraint
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T14:32:21.940253+00:00
 -- url     : https://prove2.me/submissions/abe758d5-541f-48b1-9aa2-5be188fc1fdb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckConstant_coeff_hermite_moments
 import Theorems.Thm_GrothendieckLB_eq_35_36

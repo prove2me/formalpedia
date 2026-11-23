@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_maDens_comp_symm_eq_zero
 -- name    : ReciprocityTheory.AnForm.M.PLC.maDens_comp_symm_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:58:07.307812+00:00
 -- url     : https://prove2.me/theorems/2e903bf7-c233-48a5-8372-b87da52c4902

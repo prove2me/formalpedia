@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Metaplectic_hasTemperateGrowth_eChar
 -- name    : GlobalTheory.Published.Metaplectic.hasTemperateGrowth_eChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:55.054519+00:00
 -- url     : https://prove2.me/theorems/1d07df38-f968-4608-926c-201c06905e05

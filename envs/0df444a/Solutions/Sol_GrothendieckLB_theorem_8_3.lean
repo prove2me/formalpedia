@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.theorem_8_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T15:35:39.745664+00:00
 -- url     : https://prove2.me/submissions/c87b3b4f-26b8-4d74-89a6-7ad6b5a06276
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_GrothendieckLB_IsTernaryFn

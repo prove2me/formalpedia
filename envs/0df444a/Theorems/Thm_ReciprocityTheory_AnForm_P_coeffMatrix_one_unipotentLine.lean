@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_coeffMatrix_one_unipotentLine
 -- name    : ReciprocityTheory.AnForm.P.coeffMatrix_one_unipotentLine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:11.648199+00:00
 -- url     : https://prove2.me/theorems/8221260d-d5fb-4c5a-8db1-fe306e680b4b

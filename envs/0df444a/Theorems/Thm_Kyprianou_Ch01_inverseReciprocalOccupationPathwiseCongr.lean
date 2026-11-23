@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseReciprocalOccupationPathwiseCongr
 -- name    : Kyprianou.Ch01.inverseReciprocalOccupationPathwiseCongr
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T16:04:36.270407+00:00
 -- url     : https://prove2.me/theorems/ad7f6376-ad29-4d73-8566-cbde4c94c094

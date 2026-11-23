@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Col_Hf_sum_l
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Col.Hf_sum_l
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:47.625585+00:00
 -- url     : https://prove2.me/theorems/c21ff1b1-f9c1-4ede-abeb-a9ec1c7f8f30

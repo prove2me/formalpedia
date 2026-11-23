@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckConstant_krivine_scheme_affine_constraint
 -- name    : GrothendieckConstant.krivine_scheme_affine_constraint
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-09-23T18:43:08.734577+00:00
 -- url     : https://prove2.me/theorems/ce6a31ee-d61e-4951-95cf-e878e3befca2

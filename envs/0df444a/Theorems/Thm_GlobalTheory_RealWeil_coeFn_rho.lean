@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_coeFn_rho
 -- name    : GlobalTheory.RealWeil.coeFn_rho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:02.82632+00:00
 -- url     : https://prove2.me/theorems/dde9a7f6-f7cf-433e-a0f1-b04effbdbc21

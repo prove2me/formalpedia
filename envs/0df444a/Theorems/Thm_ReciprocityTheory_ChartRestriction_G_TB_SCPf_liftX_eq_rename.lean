@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_liftX_eq_rename
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.liftX_eq_rename
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:10.223819+00:00
 -- url     : https://prove2.me/theorems/2f85b5c4-2d6a-40b3-a42b-13f8b16464c7

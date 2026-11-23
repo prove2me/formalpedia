@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLineZeros_exists_conj_ne
 -- name    : GlobalTheory.HermLineZeros.exists_conj_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:25.93682+00:00
 -- url     : https://prove2.me/theorems/798cdeaf-ae8d-4f2d-bd48-d536219cb5c5

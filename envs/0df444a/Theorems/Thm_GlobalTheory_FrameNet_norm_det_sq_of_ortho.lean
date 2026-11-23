@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_norm_det_sq_of_ortho
 -- name    : GlobalTheory.FrameNet.norm_det_sq_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:11.956771+00:00
 -- url     : https://prove2.me/theorems/f53f1e16-c7ec-4229-acd9-305237da3c50

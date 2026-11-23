@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiJointPopulationMeasurableVersion
 -- name    : Kyprianou.Ch01.reverseLampertiJointPopulationMeasurableVersion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:38:14.951293+00:00
 -- url     : https://prove2.me/theorems/9c2615a4-379a-43e1-85d4-e8ea4b148ce9

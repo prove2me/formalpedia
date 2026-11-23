@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiFirstJumpRestartKernelIntegrable
 -- name    : Kyprianou.Ch01.reverseLampertiFirstJumpRestartKernelIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:54:28.970795+00:00
 -- url     : https://prove2.me/theorems/1e5cc208-8c23-42cd-b6a2-e9d5a6299b78

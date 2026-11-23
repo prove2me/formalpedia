@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_fderiv_line_zero
 -- name    : ReciprocityTheory.AnForm.P.fderiv_line_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:13.044806+00:00
 -- url     : https://prove2.me/theorems/721afc03-4a87-402b-801b-5a1ee4714905

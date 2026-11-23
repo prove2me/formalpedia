@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.reverseLampertiJointPopulationMeasurableVersion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T16:09:07.360739+00:00
 -- url     : https://prove2.me/submissions/56b66611-caea-4712-a1cd-7de9c6649bb9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_BranchingClocks

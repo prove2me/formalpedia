@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Col_Hf_smul_r
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Col.Hf_smul_r
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:42.323961+00:00
 -- url     : https://prove2.me/theorems/6d8ee617-05ae-4df8-b9dd-8c7a9c0611b3

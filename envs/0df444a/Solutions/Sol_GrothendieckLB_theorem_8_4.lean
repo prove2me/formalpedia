@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.theorem_8_4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T15:21:15.518913+00:00
 -- url     : https://prove2.me/submissions/79a4f74a-a50d-48c9-8676-1272728bbb82
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_GrothendieckLB_IsSignFn

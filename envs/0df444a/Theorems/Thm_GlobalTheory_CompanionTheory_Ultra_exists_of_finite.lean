@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_exists_of_finite
 -- name    : GlobalTheory.CompanionTheory.Ultra.exists_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:19.11102+00:00
 -- url     : https://prove2.me/theorems/8be0e1af-c447-454e-b18f-882a27d97c05

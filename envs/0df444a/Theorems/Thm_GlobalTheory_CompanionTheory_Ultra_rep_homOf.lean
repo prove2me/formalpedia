@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_rep_homOf
 -- name    : GlobalTheory.CompanionTheory.Ultra.rep_homOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:17.155921+00:00
 -- url     : https://prove2.me/theorems/53b8a113-4cbb-4102-84c8-e463cdcece1e

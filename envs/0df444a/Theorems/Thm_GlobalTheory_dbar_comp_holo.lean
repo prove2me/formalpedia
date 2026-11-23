@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dbar_comp_holo
 -- name    : GlobalTheory.dbar_comp_holo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:43.88303+00:00
 -- url     : https://prove2.me/theorems/95657ec5-d1b8-4083-882e-1d6ee7e24a60

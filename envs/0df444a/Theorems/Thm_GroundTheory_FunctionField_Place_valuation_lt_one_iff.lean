@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_valuation_lt_one_iff
 -- name    : GroundTheory.FunctionField.Place.valuation_lt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:04.295111+00:00
 -- url     : https://prove2.me/theorems/08054ab9-4c37-45a1-87e9-1f908e977c46

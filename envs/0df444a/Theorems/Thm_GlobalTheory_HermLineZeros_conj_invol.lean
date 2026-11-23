@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLineZeros_conj_invol
 -- name    : GlobalTheory.HermLineZeros.conj_invol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:18.957595+00:00
 -- url     : https://prove2.me/theorems/8883a0a7-6869-4a22-b4d8-8f51951dc7a7

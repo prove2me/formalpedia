@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_exists_limitingScheme_cqCorr
 -- name    : GrothendieckLB.Supplement.exists_limitingScheme_cqCorr
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T15:48:59.745595+00:00
 -- url     : https://prove2.me/theorems/f61bf4db-a635-48ec-8d5d-7a279d3e6907

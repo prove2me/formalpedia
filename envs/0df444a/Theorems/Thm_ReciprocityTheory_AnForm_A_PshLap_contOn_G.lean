@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_contOn_G
 -- name    : ReciprocityTheory.AnForm.A.PshLap.contOn_G
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:54:32.01349+00:00
 -- url     : https://prove2.me/theorems/00e10936-0d86-4641-8a08-b6040bb51a8b

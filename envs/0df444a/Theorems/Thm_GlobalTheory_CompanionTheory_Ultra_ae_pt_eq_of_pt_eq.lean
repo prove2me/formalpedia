@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_ae_pt_eq_of_pt_eq
 -- name    : GlobalTheory.CompanionTheory.Ultra.ae_pt_eq_of_pt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:04.583211+00:00
 -- url     : https://prove2.me/theorems/5c4bf163-7ba7-4fd6-938f-f013791f163e

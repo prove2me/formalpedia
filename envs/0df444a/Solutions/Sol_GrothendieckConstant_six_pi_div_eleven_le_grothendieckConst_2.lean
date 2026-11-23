@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for GrothendieckConstant.six_pi_div_eleven_le_grothendieckConst
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-22T18:09:50.876006+00:00
 -- url     : https://prove2.me/submissions/96fe8574-b57b-40f4-82a4-e9c734d8260b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_GrothendieckConstantDefs
