@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for Formalism.DivisionValues.divisor_inequality_explicit
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T17:36:24.842185+00:00
+-- url     : https://prove2.me/submissions/4957a29b-03dc-4d3d-bc97-af4fdc3040d8
+
+import Mathlib
+import Definitions.Def_Formalism_QuotientMetricDivisors_ScalarLiftLowerBoundFull
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjugateWeightLatticeOfGeneral
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_CommutingTwist
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_AuxStatement14
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ClassSumDualGeOfFamily
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_PlaceSumSquares
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DescendedNorm
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondComplementParameterBounds
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_WeightedPlaceLogSum
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_GlobalBoundRefinements
+import Theorems.Thm_Formalism_DivisionValues_DivisorInequalityBounds_divIneqRecord_of
+import Theorems.Thm_Formalism_DivisionValues_WeightedPlaceLogSum
+import Theorems.Thm_Formalism_DivisionValues_divisor_inequality
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module NumberField IsDedekindDomain
+open scoped Matrix ComplexOrder InnerProductSpace
+noncomputable section
+open Formalism Formalism.DivisionValues
+namespace Formalism.DivisionValues
+theorem _root_.solution : DivIneqRecord := DivisorInequalityBounds.divIneqRecord_of divisor_inequality
+end Formalism.DivisionValues

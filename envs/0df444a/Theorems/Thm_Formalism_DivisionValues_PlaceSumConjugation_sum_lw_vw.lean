@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_PlaceSumConjugation_sum_lw_vw
 -- name    : Formalism.DivisionValues.PlaceSumConjugation.sum_lw_vw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:59:48.253945+00:00
 -- url     : https://prove2.me/theorems/ac8fb124-40a3-485b-8f3c-031c3a9e4a36

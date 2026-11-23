@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_checkFun_checkFun
 -- name    : GlobalTheory.LGrp.checkFun_checkFun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:28.208296+00:00
 -- url     : https://prove2.me/theorems/c8ace95f-2ce4-4ef9-b6e5-5d9105a62d3b

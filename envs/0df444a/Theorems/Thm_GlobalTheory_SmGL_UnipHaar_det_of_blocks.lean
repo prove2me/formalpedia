@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnipHaar_det_of_blocks
 -- name    : GlobalTheory.SmGL.UnipHaar.det_of_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:00.0448+00:00
 -- url     : https://prove2.me/theorems/f9c2c3b2-1427-4810-bfd5-07d6669497a9

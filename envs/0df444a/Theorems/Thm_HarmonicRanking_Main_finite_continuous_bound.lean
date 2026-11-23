@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicRanking_Main_finite_continuous_bound
 -- name    : HarmonicRanking.Main.finite_continuous_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:35:47.532616+00:00
 -- url     : https://prove2.me/theorems/21d52a91-72a1-4b07-9df6-077c577ff40e

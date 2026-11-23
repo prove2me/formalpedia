@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_prismOp_succ
 -- name    : ReciprocityTheory.Coh.prismOp_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:57.363507+00:00
 -- url     : https://prove2.me/theorems/0b010c2e-96c3-4971-89ec-a21c7b8f4030

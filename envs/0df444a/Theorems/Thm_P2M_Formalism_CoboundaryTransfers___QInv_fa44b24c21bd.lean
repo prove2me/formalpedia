@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CoboundaryTransfers___QInv_fa44b24c21bd
 -- name    : P2M_Formalism_CoboundaryTransfers___QInv_fa44b24c21bd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:39.918203+00:00
 -- url     : https://prove2.me/theorems/f6486aed-9e61-485d-a2df-27a981bb0ce5

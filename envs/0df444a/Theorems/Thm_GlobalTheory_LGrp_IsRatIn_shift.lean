@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_IsRatIn_shift
 -- name    : GlobalTheory.LGrp.IsRatIn.shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:28.664645+00:00
 -- url     : https://prove2.me/theorems/d893d982-919b-4511-aade-f97aa56eec3b

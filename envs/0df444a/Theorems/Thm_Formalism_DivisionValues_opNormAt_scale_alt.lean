@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_opNormAt_scale_alt
 -- name    : Formalism.DivisionValues.opNormAt_scale_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:39.94425+00:00
 -- url     : https://prove2.me/theorems/5e3a6315-cc4c-426c-98ce-28e360b81cb8

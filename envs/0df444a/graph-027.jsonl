@@ -45363,7 +45363,7 @@
 {"parent": "QEC.Coding.BDL26NativePresentationGenerator.triangle_labels", "child": "QEC.Coding.BDL26ReplacementEmbedding.foldedSquare_top", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativePresentationGenerator.triangle_labels", "child": "QEC.Coding.ProbabilisticConstruction.SphericalCap.barycenterMap_apply", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativePresentationGenerator.triangle_labels", "child": "QEC.Coding.BDL26TannerLocalRegularity.baseQ0DoubleCylinderEdge_card", "via": ["solution", "statement"]}
-{"parent": "HarmonicRanking.Main.finite_continuous_bound", "child": "HarmonicRanking_Main_Network", "via": ["statement"]}
+{"parent": "HarmonicRanking.Main.finite_continuous_bound", "child": "HarmonicRanking_Main_Network", "via": ["solution", "statement"]}
 {"parent": "LeakageRefresh.Continual.lemma_4_12", "child": "LeakageRefresh_Continual_OneRound", "via": ["statement"]}
 {"parent": "LeakageRefresh.Continual.lemma_4_12", "child": "LeakageRefresh_Continual_Encoding", "via": ["statement"]}
 {"parent": "LeakageRefresh.Continual.lemma_4_12", "child": "LeakageRefresh_Continual_LeakageModel", "via": ["statement"]}

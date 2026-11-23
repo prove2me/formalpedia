@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_isUnram_absPow
 -- name    : GlobalTheory.SmGL.isUnram_absPow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:24:54.051542+00:00
 -- url     : https://prove2.me/theorems/13feb8ba-cbf8-47a6-aace-e8373b3d73da

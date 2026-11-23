@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_zv_not_dvd_of_dvd_sub_one
 -- name    : Formalism.WindowSums.zv_not_dvd_of_dvd_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:05.685014+00:00
 -- url     : https://prove2.me/theorems/da7aed35-7041-4112-8fe7-16472be0e35d

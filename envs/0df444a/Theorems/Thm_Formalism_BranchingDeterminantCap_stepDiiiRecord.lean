@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_stepDiiiRecord
 -- name    : Formalism.BranchingDeterminantCap.stepDiiiRecord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:26:37.485639+00:00
 -- url     : https://prove2.me/theorems/67697669-a75e-4d43-91e5-4a3fd33cd1d8

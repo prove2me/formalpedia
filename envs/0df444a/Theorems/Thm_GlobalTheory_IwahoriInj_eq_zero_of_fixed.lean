@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_eq_zero_of_fixed
 -- name    : GlobalTheory.IwahoriInj.eq_zero_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:42.799751+00:00
 -- url     : https://prove2.me/theorems/cffc6760-a30a-4847-b27f-b05fc6f3bfc8

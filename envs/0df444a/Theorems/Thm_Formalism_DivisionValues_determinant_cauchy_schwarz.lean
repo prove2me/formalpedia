@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_determinant_cauchy_schwarz
 -- name    : Formalism.DivisionValues.determinant_cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:31.884205+00:00
 -- url     : https://prove2.me/theorems/de9b22e0-1732-4d40-8e0a-7239dcb39adb

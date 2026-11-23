@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_elem_mem
 -- name    : GlobalTheory.IwahoriInj.elem_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:20.629425+00:00
 -- url     : https://prove2.me/theorems/cb427a31-9c38-4d06-bff2-dfe476452d9f

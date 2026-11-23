@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnipHaar_continuous_conj
 -- name    : GlobalTheory.SmGL.UnipHaar.continuous_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:22.1698+00:00
 -- url     : https://prove2.me/theorems/8e2efab3-a95a-4140-bd5c-f10b14e62d72

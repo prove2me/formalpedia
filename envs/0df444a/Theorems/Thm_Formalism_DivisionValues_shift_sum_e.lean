@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_sum_e
 -- name    : Formalism.DivisionValues.shift_sum_e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:11:36.480191+00:00
 -- url     : https://prove2.me/theorems/812f94c7-ae17-40fd-9771-9440be2324af

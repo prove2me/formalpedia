@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_detRatio_of_scalar
 -- name    : Formalism.DivisionValues.detRatio_of_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:31.1467+00:00
 -- url     : https://prove2.me/theorems/fe41bf04-dd8b-4bb1-8ab1-365c9e2249e2

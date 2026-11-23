@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_PairingDivisionLocalBalance_sum_valuation_nat
 -- name    : Formalism.PairingDivisionLocalBalance.sum_valuation_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:23:16.830351+00:00
 -- url     : https://prove2.me/theorems/9ad00868-a369-4128-bd2d-a61db0bbc9f4

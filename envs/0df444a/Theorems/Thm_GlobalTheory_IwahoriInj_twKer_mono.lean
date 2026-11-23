@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_twKer_mono
 -- name    : GlobalTheory.IwahoriInj.twKer_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:14.72355+00:00
 -- url     : https://prove2.me/theorems/9a53e07b-d9f0-4cde-bf1a-f7eff45f63d2

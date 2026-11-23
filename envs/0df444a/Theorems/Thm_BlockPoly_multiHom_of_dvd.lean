@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockPoly_multiHom_of_dvd
 -- name    : BlockPoly.multiHom_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:56.146356+00:00
 -- url     : https://prove2.me/theorems/8d48d2dc-254d-4dbd-9798-bf94b4905dec

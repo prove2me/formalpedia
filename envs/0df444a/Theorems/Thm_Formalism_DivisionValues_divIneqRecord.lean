@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_divIneqRecord
 -- name    : Formalism.DivisionValues.divIneqRecord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:19.401435+00:00
 -- url     : https://prove2.me/theorems/983cbe12-1d56-4f45-99f3-d662b1d769cb

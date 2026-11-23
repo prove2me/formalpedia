@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_deltaHalf_two
 -- name    : GlobalTheory.SmGL.deltaHalf_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:26:09.271959+00:00
 -- url     : https://prove2.me/theorems/a72bf8b2-c712-4309-9007-383581afad0f

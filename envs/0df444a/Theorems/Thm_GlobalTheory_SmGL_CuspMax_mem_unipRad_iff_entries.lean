@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_CuspMax_mem_unipRad_iff_entries
 -- name    : GlobalTheory.SmGL.CuspMax.mem_unipRad_iff_entries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:55.336455+00:00
 -- url     : https://prove2.me/theorems/3e079a4b-aee7-4b3a-93af-337d320d9ea3

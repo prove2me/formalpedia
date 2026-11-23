@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHMult_subComap_mono
 -- name    : GlobalTheory.JHMult.subComap_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:37.660796+00:00
 -- url     : https://prove2.me/theorems/582a71cb-0275-448d-a88a-3fb072d4c32a

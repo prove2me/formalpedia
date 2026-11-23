@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_isSmoothChar_deltaHalf
 -- name    : GlobalTheory.SmGL.isSmoothChar_deltaHalf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:25:09.461319+00:00
 -- url     : https://prove2.me/theorems/d8a86916-73f8-4d4a-ac43-9dd868c58680

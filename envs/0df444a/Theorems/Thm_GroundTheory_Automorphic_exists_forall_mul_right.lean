@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_forall_mul_right
 -- name    : GroundTheory.Automorphic.exists_forall_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:59.735683+00:00
 -- url     : https://prove2.me/theorems/e38af88b-e812-4511-9ac0-2fa9e9ec6333

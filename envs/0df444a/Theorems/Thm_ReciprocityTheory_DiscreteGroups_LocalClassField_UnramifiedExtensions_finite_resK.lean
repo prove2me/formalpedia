@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_finite_resK
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.finite_resK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:26:02.160833+00:00
 -- url     : https://prove2.me/theorems/ed2a562a-9339-46f1-b775-525c4b612714

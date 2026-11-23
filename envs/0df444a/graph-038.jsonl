@@ -35548,7 +35548,7 @@
 {"parent": "GlobalTheory.CompanionTheory.SW.TopK.isHomeomorph_coord", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.TopK.isHomeomorph_coord", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_TensorLocallyCompactRing", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_GlobalFields_TateThesis_TraceFourier", "child": "GroundTheory_GlobalFields_TateThesis_TracePairing", "via": ["statement"]}
-{"parent": "GroundTheory.Automorphic.exists_openSubgroup_isCompact_subset", "child": "GroundTheory_AutomorphicForms_LocallyProfinite", "via": ["statement"]}
+{"parent": "GroundTheory.Automorphic.exists_openSubgroup_isCompact_subset", "child": "GroundTheory_AutomorphicForms_LocallyProfinite", "via": ["solution", "statement"]}
 {"parent": "Formalism.ThetaLiftIndependence.DefiniteClassRepresentatives.exists_reps", "child": "Formalism_ThetaLiftIndependence_ThetaOrbitSums_LatLiftIndep", "via": ["statement"]}
 {"parent": "Formalism.ThetaLiftIndependence.DefiniteClassRepresentatives.exists_reps", "child": "Formalism_HermitianLattices_FinalNeighbourConstruct", "via": ["statement"]}
 {"parent": "Formalism.ThetaLiftIndependence.DefiniteClassRepresentatives.exists_reps", "child": "Formalism_ThetaLiftIndependence_ThetaOrbitSums_ClassRepsDefinite", "via": ["statement"]}
@@ -63135,11 +63135,11 @@
 {"parent": "PI.ET.HornW.conj_herm", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExponentialTriangular_SortedSpec", "via": ["solution", "statement"]}
 {"parent": "PI.ET.HornW.conj_herm", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExponentialTriangular_NormDetConjExp", "via": ["solution", "statement"]}
 {"parent": "PI.ET.HornW.conj_herm", "child": "Formalism_PeriodIntegrals_ExpTri", "via": ["solution", "statement"]}
-{"parent": "Formalism.PairingDivisionLocalBalance.sum_valuation_nat", "child": "Formalism_PairingDivisors_StatementA", "via": ["statement"]}
-{"parent": "Formalism.PairingDivisionLocalBalance.sum_valuation_nat", "child": "Formalism_PairingDivisors_PairingDivisorProofs_SumValuationNat", "via": ["statement"]}
-{"parent": "Formalism.PairingDivisionLocalBalance.sum_valuation_nat", "child": "Formalism_PairingDivisors_StatementX", "via": ["statement"]}
-{"parent": "Formalism.PairingDivisionLocalBalance.sum_valuation_nat", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}
-{"parent": "Formalism.PairingDivisionLocalBalance.sum_valuation_nat", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["statement"]}
+{"parent": "Formalism.PairingDivisionLocalBalance.sum_valuation_nat", "child": "Formalism_PairingDivisors_StatementA", "via": ["solution", "statement"]}
+{"parent": "Formalism.PairingDivisionLocalBalance.sum_valuation_nat", "child": "Formalism_PairingDivisors_PairingDivisorProofs_SumValuationNat", "via": ["solution", "statement"]}
+{"parent": "Formalism.PairingDivisionLocalBalance.sum_valuation_nat", "child": "Formalism_PairingDivisors_StatementX", "via": ["solution", "statement"]}
+{"parent": "Formalism.PairingDivisionLocalBalance.sum_valuation_nat", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.PairingDivisionLocalBalance.sum_valuation_nat", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_LocalFields_RamificationStructure", "child": "GroundTheory_LocalFields_RamificationUnits", "via": ["statement"]}
 {"parent": "GroundTheory_LocalFields_RamificationStructure", "child": "GroundTheory.LocalField.residueAlgEquiv_residue", "via": ["statement"]}
 {"parent": "GroundTheory_LocalFields_RamificationStructure", "child": "GroundTheory.LocalField.unitsEquivResidueProd_fst", "via": ["statement"]}

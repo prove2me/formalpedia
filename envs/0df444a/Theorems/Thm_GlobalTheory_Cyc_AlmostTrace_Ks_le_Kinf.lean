@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AlmostTrace_Ks_le_Kinf
 -- name    : GlobalTheory.Cyc.AlmostTrace.Ks_le_Kinf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:26:26.089924+00:00
 -- url     : https://prove2.me/theorems/a36fe572-806d-40c6-bef9-0bf0e2b22bb4

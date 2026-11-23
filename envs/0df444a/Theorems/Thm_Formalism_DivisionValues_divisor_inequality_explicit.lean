@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_divisor_inequality_explicit
 -- name    : Formalism.DivisionValues.divisor_inequality_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:22.940801+00:00
 -- url     : https://prove2.me/theorems/0970c7e4-cf90-489b-ac90-79dc4079e142

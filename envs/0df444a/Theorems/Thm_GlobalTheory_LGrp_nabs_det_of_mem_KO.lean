@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_nabs_det_of_mem_KO
 -- name    : GlobalTheory.LGrp.nabs_det_of_mem_KO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:33.093806+00:00
 -- url     : https://prove2.me/theorems/06a9a697-a233-4930-9b40-1460c262f8e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_res_eq_iff
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.res_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:26.418101+00:00
 -- url     : https://prove2.me/theorems/31c79495-26a7-4288-b5c9-02f93b3ead83

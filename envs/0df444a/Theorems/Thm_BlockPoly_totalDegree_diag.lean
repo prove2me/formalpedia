@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockPoly_totalDegree_diag
 -- name    : BlockPoly.totalDegree_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:55.983581+00:00
 -- url     : https://prove2.me/theorems/e9b148f8-67eb-41fc-b1b0-11befaf3ae95

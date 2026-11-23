@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_red_pow
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.red_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:30.54912+00:00
 -- url     : https://prove2.me/theorems/f5708588-2673-4108-8578-8177d07d4561

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_wachModule_coboundaries_le_cocycles
 -- name    : Formalism.WeaklyAdmissibleFiltrations.wachModule_coboundaries_le_cocycles
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:00.312196+00:00
 -- url     : https://prove2.me/theorems/dc052447-5330-4fb1-a79b-1e3e87d48043

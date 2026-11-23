@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_lFactor_singleton
 -- name    : GlobalTheory.LGrp.lFactor_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:12.411344+00:00
 -- url     : https://prove2.me/theorems/d1ea9889-6c28-478b-8c73-478db9dd5ae9

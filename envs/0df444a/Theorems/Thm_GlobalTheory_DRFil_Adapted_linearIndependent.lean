@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_Adapted_linearIndependent
 -- name    : GlobalTheory.DRFil.Adapted.linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:02:22.083347+00:00
 -- url     : https://prove2.me/theorems/ed24b4e7-527e-4680-8821-e761c504657f

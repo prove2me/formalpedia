@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_phi_sum_difference_cluster
 -- name    : Formalism.DivisionValues.phi_sum_difference_cluster
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:26.029798+00:00
 -- url     : https://prove2.me/theorems/61186e18-f39c-4d20-8472-196c9ab6b2f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeFlip_invRevT_invRevT
 -- name    : GlobalTheory.SatakeFlip.invRevT_invRevT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:30:01.580807+00:00
 -- url     : https://prove2.me/theorems/ab6d9b81-fd73-4f81-b5e6-9efce995c735

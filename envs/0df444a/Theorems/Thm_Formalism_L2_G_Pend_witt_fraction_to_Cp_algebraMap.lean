@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Pend_witt_fraction_to_Cp_algebraMap
 -- name    : Formalism.L2.G.Pend.witt_fraction_to_Cp_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:18.269803+00:00
 -- url     : https://prove2.me/theorems/75e6a26d-5b4e-4eb3-a644-dd04bc88ec15

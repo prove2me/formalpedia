@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_mem_mulSub
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.mem_mulSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:28.524007+00:00
 -- url     : https://prove2.me/theorems/dbbc1b4d-a43d-4308-849e-0f0e3f5a7b71

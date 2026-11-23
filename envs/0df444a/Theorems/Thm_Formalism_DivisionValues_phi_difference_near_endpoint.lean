@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_phi_difference_near_endpoint
 -- name    : Formalism.DivisionValues.phi_difference_near_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:14.819223+00:00
 -- url     : https://prove2.me/theorems/5347e1de-788f-4f8f-beac-61c01477d723

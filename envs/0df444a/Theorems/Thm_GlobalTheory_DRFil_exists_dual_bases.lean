@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_exists_dual_bases
 -- name    : GlobalTheory.DRFil.exists_dual_bases
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:06.769831+00:00
 -- url     : https://prove2.me/theorems/aad3a306-262f-45e4-ade0-c0adecdd03ec

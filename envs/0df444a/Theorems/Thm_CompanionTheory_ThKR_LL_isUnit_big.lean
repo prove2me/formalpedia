@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_isUnit_big
 -- name    : CompanionTheory.ThKR.LL.isUnit_big
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:24.402795+00:00
 -- url     : https://prove2.me/theorems/9b9dd0ee-482f-4e00-84ec-77517e57aa2e

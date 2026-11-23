@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_Deep_neg
 -- name    : GlobalTheory.IwahoriInj.Deep.neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:53.617048+00:00
 -- url     : https://prove2.me/theorems/dfc26988-857b-4c8c-9ffc-84a1be28cef7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_HasGJ_unique
 -- name    : GlobalTheory.LGrp.HasGJ.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:27.452815+00:00
 -- url     : https://prove2.me/theorems/d330628b-5432-461a-a5f7-bcf0a09a398f

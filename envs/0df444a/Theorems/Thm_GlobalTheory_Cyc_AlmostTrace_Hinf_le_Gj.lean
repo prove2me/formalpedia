@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AlmostTrace_Hinf_le_Gj
 -- name    : GlobalTheory.Cyc.AlmostTrace.Hinf_le_Gj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:02.146119+00:00
 -- url     : https://prove2.me/theorems/0ff345a8-88b1-4185-b418-eea03b6e38a7

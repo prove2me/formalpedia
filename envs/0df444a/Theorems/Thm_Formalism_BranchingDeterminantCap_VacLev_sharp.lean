@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_VacLev_sharp
 -- name    : Formalism.BranchingDeterminantCap.VacLev.sharp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:50:21.712897+00:00
 -- url     : https://prove2.me/theorems/f01d223c-5f9c-4f6f-93ba-66e6cdce42ef

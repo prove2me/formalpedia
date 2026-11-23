@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_nabs_eq_zpow
 -- name    : GlobalTheory.LGrp.nabs_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:45.923702+00:00
 -- url     : https://prove2.me/theorems/bf5258b6-a2bb-4dd0-91e7-81dc4d9d4c5c

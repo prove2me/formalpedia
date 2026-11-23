@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_aeval_stable
 -- name    : Formalism.CoboundaryTransfers.aeval_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:26.247297+00:00
 -- url     : https://prove2.me/theorems/0f7afc17-4237-4b1f-8321-2bd1a6ac4b10

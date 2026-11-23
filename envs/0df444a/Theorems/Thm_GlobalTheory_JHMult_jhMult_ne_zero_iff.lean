@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHMult_jhMult_ne_zero_iff
 -- name    : GlobalTheory.JHMult.jhMult_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:26:34.252018+00:00
 -- url     : https://prove2.me/theorems/3cb24e3d-3889-416a-bb78-b169a1b0d64b

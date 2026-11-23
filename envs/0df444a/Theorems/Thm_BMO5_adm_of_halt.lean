@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BMO5_adm_of_halt
 -- name    : BMO5.adm_of_halt
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-23T17:25:24.498798+00:00
 -- url     : https://prove2.me/theorems/11a57ce7-f2b1-4f48-8457-cbfe93c22f30

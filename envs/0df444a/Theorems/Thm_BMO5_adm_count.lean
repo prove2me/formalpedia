@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BMO5_adm_count
 -- name    : BMO5.adm_count
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-23T17:25:18.925105+00:00
 -- url     : https://prove2.me/theorems/9d8ce6fd-6156-440b-a4ec-cd3169f9a134

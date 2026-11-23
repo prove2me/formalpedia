@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_coeff_N
 -- name    : GlobalTheory.BK.coeff_N
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:21:03.83635+00:00
 -- url     : https://prove2.me/theorems/8d09c391-ac3b-49a3-a3d2-b063bc8fb373

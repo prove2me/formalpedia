@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeFlip_cosetMap_mk
 -- name    : GlobalTheory.SatakeFlip.cosetMap_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:36.944645+00:00
 -- url     : https://prove2.me/theorems/0dc7d51a-88a6-43ae-84b8-2c6b61de49de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_claim_fin
 -- name    : Formalism.CoboundaryTransfers.claim_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:00.867098+00:00
 -- url     : https://prove2.me/theorems/61bef23b-38f2-4c5d-9bb6-3dc3736c7d42

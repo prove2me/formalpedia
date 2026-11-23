@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BMO5.halt_levels_sparse
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @alon yuval
 -- created : 2026-11-23T17:26:53.635546+00:00
 -- url     : https://prove2.me/submissions/ed06f82e-5e9c-4a1c-a8b5-be48cfb57975
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_BMO5_adm_of_halt

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Pend_norm_wToC_le
 -- name    : Formalism.L2.G.Pend.norm_wToC_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:42.829306+00:00
 -- url     : https://prove2.me/theorems/d406fac6-0f1b-44b3-a551-09863e4cac0f

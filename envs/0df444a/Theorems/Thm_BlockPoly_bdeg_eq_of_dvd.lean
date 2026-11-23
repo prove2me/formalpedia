@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockPoly_bdeg_eq_of_dvd
 -- name    : BlockPoly.bdeg_eq_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:44.068935+00:00
 -- url     : https://prove2.me/theorems/d64adce0-f01f-44ac-997a-9d88473ffa4d

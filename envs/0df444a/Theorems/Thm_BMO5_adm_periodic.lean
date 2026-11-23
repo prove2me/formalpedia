@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BMO5_adm_periodic
 -- name    : BMO5.adm_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-23T17:25:16.275711+00:00
 -- url     : https://prove2.me/theorems/e8d794ad-b416-4331-8a48-0c02c950eb23

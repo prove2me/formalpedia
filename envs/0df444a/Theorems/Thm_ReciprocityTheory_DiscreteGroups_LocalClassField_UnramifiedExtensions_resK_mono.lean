@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_resK_mono
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.resK_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:13.792697+00:00
 -- url     : https://prove2.me/theorems/fe0688d2-a4d0-4b6f-a422-977a2d569f0d

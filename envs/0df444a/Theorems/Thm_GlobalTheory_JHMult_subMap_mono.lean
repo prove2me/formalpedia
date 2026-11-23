@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHMult_subMap_mono
 -- name    : GlobalTheory.JHMult.subMap_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:36.981158+00:00
 -- url     : https://prove2.me/theorems/a5d4f4f4-81b7-48ce-93f1-f36655764ae9

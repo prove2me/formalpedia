@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_qK_eq_pow
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.qK_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:08.6211+00:00
 -- url     : https://prove2.me/theorems/7e88dcb9-59d2-4776-9c55-f372d53bd57c

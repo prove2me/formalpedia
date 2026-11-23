@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_vp_val_prod
 -- name    : Formalism.WindowSums.vp_val_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:09.199007+00:00
 -- url     : https://prove2.me/theorems/5aaba6f1-faba-479c-93ca-6f9c0eb9ed79

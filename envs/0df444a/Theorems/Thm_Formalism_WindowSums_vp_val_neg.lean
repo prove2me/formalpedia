@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_vp_val_neg
 -- name    : Formalism.WindowSums.vp_val_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:16.605542+00:00
 -- url     : https://prove2.me/theorems/5131ba9e-873b-4da1-afe9-dc4d1f1ef379

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_sum_e_finset
 -- name    : Formalism.DivisionValues.shift_sum_e_finset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:11:35.204331+00:00
 -- url     : https://prove2.me/theorems/64017742-84a6-4c64-9129-f2061e426449

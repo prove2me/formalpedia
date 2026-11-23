@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_norm_GK
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.norm_GK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:58.096773+00:00
 -- url     : https://prove2.me/theorems/7a04749d-b9c9-4881-96ae-4be83755f77f

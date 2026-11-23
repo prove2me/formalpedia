@@ -83477,10 +83477,10 @@
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardQuotExtPPow", "child": "Formalism.HermitianLattices.Ext.L3.NormLifting.conjO_conjO", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardQuotExtPPow", "child": "Formalism.HermitianLattices.Ext.L3.NormLifting.conjQ_mk", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardQuotExtPPow", "child": "Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.conjO_mem_pow", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.PlaceSumConjugation.sum_lw_vw", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondComplementParameterBounds", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.PlaceSumConjugation.sum_lw_vw", "child": "Formalism_QuotientMetricDivisors_Complement2Normaliser", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.PlaceSumConjugation.sum_lw_vw", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.PlaceSumConjugation.sum_lw_vw", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}
+{"parent": "Formalism.DivisionValues.PlaceSumConjugation.sum_lw_vw", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondComplementParameterBounds", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.PlaceSumConjugation.sum_lw_vw", "child": "Formalism_QuotientMetricDivisors_Complement2Normaliser", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.PlaceSumConjugation.sum_lw_vw", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.PlaceSumConjugation.sum_lw_vw", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
 {"parent": "Comp.ModelData.padFin2_eq_self", "child": "Comp_ModelData", "via": ["solution", "statement"]}
 {"parent": "Comp.ModelData.padFin2_eq_self", "child": "Comp_Objective", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.star_mk", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardLiftMatrix", "via": ["solution", "statement"]}
@@ -85243,17 +85243,17 @@
 {"parent": "Comp.ModelData.AF_eq_coe_afRegion", "child": "Comp_ModelDataQualitative", "via": ["solution", "statement"]}
 {"parent": "DedekindZeta.Theta.dualLattice_idealLattice", "child": "DedekindZeta_PoissonSummation", "via": ["solution", "statement"]}
 {"parent": "DedekindZeta.Theta.dualLattice_idealLattice", "child": "DedekindZeta_Theta", "via": ["solution", "statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_IdxChange", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DivIntoDual", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_DivIntoDualShift", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TwistedLatticeNaturality", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LocBasis", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ImageLcv", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LcvBasis", "via": ["statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_IdxChange", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DivIntoDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_DivIntoDualShift", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TwistedLatticeNaturality", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LocBasis", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ImageLcv", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LcvBasis", "via": ["solution", "statement"]}
 {"parent": "PI.CntNotIntW.piMap_one_tmul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CountNonIntegrality_DSurjDef", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SemidirectVolume_VolumeQuotientHolds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SemidirectVolume_ClosedStep", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SemidirectVolume_VolumeQuotientHolds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SemidirectVolume_FundamentalDomainExists", "via": ["statement"]}
@@ -85323,17 +85323,17 @@
 {"parent": "PI.VolSemiDirect.W.PG.Dat.pX_apply", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_BesselLeviAction_MulVecBvecApply", "child": "Formalism_PeriodIntegrals_BesselLevi", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_BesselLeviAction_MulVecBvecApply", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_UnitaryWeylNormalHolds", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_IdxChange", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DivIntoDual", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_DivIntoDualShift", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TwistedLatticeNaturality", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LocBasis", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ImageLcv", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LcvBasis", "via": ["statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_IdxChange", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DivIntoDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_DivIntoDualShift", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TwistedLatticeNaturality", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LocBasis", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ImageLcv", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.shift_sum_e_finset", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LcvBasis", "via": ["solution", "statement"]}
 {"parent": "DensInertW.one_lt_q", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_ExistsTraceNeZero", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.Glob.H_fix_f", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_MulVecSpanStable", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.Glob.H_fix_f", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_RatVMemSpan", "via": ["solution", "statement"]}

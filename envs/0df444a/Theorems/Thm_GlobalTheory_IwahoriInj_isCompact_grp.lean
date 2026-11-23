@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_isCompact_grp
 -- name    : GlobalTheory.IwahoriInj.isCompact_grp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:22.57032+00:00
 -- url     : https://prove2.me/theorems/68c65d57-efdb-4ce0-84ca-93d7ef4b798a

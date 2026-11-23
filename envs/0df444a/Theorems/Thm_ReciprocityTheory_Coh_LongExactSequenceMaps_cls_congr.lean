@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_LongExactSequenceMaps_cls_congr
 -- name    : ReciprocityTheory.Coh.LongExactSequenceMaps.cls_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:50.903084+00:00
 -- url     : https://prove2.me/theorems/9feca064-499b-4bef-b22d-a9e6856a3907

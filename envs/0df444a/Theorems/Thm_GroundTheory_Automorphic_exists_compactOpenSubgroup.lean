@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_compactOpenSubgroup
 -- name    : GroundTheory.Automorphic.exists_compactOpenSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:38:48.737367+00:00
 -- url     : https://prove2.me/theorems/a7f6012e-700c-4a20-b83a-b02eade3f7be

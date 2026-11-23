@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_intw_of_sympl
 -- name    : CompanionTheory.ThKR.LL.intw_of_sympl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:31:15.455874+00:00
 -- url     : https://prove2.me/theorems/9eee72bb-f70f-4d28-aa9e-7daef817d9bb

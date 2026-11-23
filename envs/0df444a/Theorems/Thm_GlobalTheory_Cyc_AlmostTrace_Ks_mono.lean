@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AlmostTrace_Ks_mono
 -- name    : GlobalTheory.Cyc.AlmostTrace.Ks_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:25.671951+00:00
 -- url     : https://prove2.me/theorems/e78a9398-2510-49bf-ac8c-8c9072c688f8

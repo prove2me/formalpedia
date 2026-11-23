@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_WachMod_isOneCochain_diffZero
 -- name    : Formalism.CoboundaryTransfers.WachMod.isOneCochain_diffZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:24.223117+00:00
 -- url     : https://prove2.me/theorems/5847f344-8483-4660-af77-84f8e5b5adfa

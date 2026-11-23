@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_detLevi_apply
 -- name    : GlobalTheory.SmGL.detLevi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:25:15.219865+00:00
 -- url     : https://prove2.me/theorems/4054130a-87f9-4c37-a666-8eda54d61f2f

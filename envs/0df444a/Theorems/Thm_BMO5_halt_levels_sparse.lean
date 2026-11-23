@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BMO5_halt_levels_sparse
 -- name    : BMO5.halt_levels_sparse
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-23T17:26:50.294579+00:00
 -- url     : https://prove2.me/theorems/80aa7399-f4ae-486e-aeb2-4b0ef89a286d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_DivisorInequalityBounds_divIneqRecord_of
 -- name    : Formalism.DivisionValues.DivisorInequalityBounds.divIneqRecord_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:25:12.169482+00:00
 -- url     : https://prove2.me/theorems/65888dd7-02c9-48d3-86cb-5488378c76c4

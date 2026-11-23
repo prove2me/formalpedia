@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_exists_primitiveRoot
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.exists_primitiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:21.095948+00:00
 -- url     : https://prove2.me/theorems/1c41e6a5-3482-44c2-9808-0b5e84478cb2

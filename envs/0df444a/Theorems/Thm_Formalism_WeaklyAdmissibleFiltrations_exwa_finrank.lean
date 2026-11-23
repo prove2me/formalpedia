@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_exwa_finrank
 -- name    : Formalism.WeaklyAdmissibleFiltrations.exwa_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:23.111842+00:00
 -- url     : https://prove2.me/theorems/aafe35d0-81b6-4b6e-b869-456f124ef7ef

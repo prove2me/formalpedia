@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_deep_one_iff
 -- name    : GlobalTheory.IwahoriInj.deep_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:15.866822+00:00
 -- url     : https://prove2.me/theorems/05c74665-831f-4d0f-b0e7-29f04882a9e5

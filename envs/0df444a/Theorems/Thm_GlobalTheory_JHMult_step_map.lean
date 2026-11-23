@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHMult_step_map
 -- name    : GlobalTheory.JHMult.step_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:26:37.431449+00:00
 -- url     : https://prove2.me/theorems/5eafc1bd-eed0-43a4-a0bc-4cbc21729c15
