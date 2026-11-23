@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x5_cokernel_finite_card_eq_inv_modulus
 -- name    : Formalism.FourierDecayAlt.P.A5x5.cokernel_finite_card_eq_inv_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:26:28.890808+00:00
 -- url     : https://prove2.me/theorems/59aa4c3b-22aa-4c38-8bef-376543f6f7de

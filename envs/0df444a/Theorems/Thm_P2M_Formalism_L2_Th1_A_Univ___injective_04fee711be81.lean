@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_A_Univ___injective_04fee711be81
 -- name    : P2M_Formalism_L2_Th1_A_Univ___injective_04fee711be81
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:52.555294+00:00
 -- url     : https://prove2.me/theorems/78b0d2d5-44fe-4384-8f6f-3f12cd65dca9

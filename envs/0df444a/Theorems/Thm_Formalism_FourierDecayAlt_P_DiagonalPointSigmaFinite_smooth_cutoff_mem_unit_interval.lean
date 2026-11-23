@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_smooth_cutoff_mem_unit_interval
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.smooth_cutoff_mem_unit_interval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:02:48.277684+00:00
 -- url     : https://prove2.me/theorems/c54ed039-1b2d-4bb7-93e7-6e91ae5719a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_adjoint_mem_intertwiners
 -- name    : GroundTheory.Automorphic.UnitaryRep.adjoint_mem_intertwiners
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:37.689797+00:00
 -- url     : https://prove2.me/theorems/613e1ea8-83d5-4888-a6fa-ae6ccc8573b7

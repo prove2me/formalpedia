@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveSer_iDen_cc
 -- name    : Formalism.L2.Th1.A.CurveSer.iDen_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:19.750002+00:00
 -- url     : https://prove2.me/theorems/859c4d7b-4e0f-4c8c-835e-7a9f527b6b6e

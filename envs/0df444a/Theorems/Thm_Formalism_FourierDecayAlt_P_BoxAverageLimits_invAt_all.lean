@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BoxAverageLimits_invAt_all
 -- name    : Formalism.FourierDecayAlt.P.BoxAverageLimits.invAt_all
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:56:51.929015+00:00
 -- url     : https://prove2.me/theorems/15440116-9853-4327-a63a-8b200ac9ca59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChebyshevExtremalPolynomials_equiCo
 -- name    : Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.equiCo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:57:20.502575+00:00
 -- url     : https://prove2.me/theorems/6099a907-fadd-4c3d-9e41-6519d779ebd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChebyshevExtremalPolynomials_sharp
 -- name    : Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.sharp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:14:16.7546+00:00
 -- url     : https://prove2.me/theorems/87cdfa3f-a7f1-45ab-8d07-41cb68328e8c

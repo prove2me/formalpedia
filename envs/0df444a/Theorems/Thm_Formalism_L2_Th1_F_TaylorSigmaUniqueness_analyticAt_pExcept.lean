@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_TaylorSigmaUniqueness_analyticAt_pExcept
 -- name    : Formalism.L2.Th1.F.TaylorSigmaUniqueness.analyticAt_pExcept
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:35.954544+00:00
 -- url     : https://prove2.me/theorems/305220d8-a1da-43ee-aeff-c49e2547601f

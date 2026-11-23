@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdicNeighbourhood_Adic_crit
 -- name    : Formalism.FourierDecayAlt.P.AdicNeighbourhood.Adic.crit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:55:13.088077+00:00
 -- url     : https://prove2.me/theorems/687759ab-ed99-4594-ae23-213b7e2ba75f

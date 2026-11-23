@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BoxAverageLimits_avg_shift_small
 -- name    : Formalism.FourierDecayAlt.P.BoxAverageLimits.avg_shift_small
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:56:25.369806+00:00
 -- url     : https://prove2.me/theorems/59f3f3cb-8f4b-4245-83af-5cf457eabb57

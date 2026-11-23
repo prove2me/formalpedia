@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_continuous_critCut
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.continuous_critCut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:14:29.840833+00:00
 -- url     : https://prove2.me/theorems/cc4bfa60-2b33-4739-a1ca-ea100ad6c795

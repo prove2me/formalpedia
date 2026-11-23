@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionMarkedIntegralSquareIntegrableV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionMarkedIntegralSquareIntegrableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:47:27.918719+00:00
 -- url     : https://prove2.me/theorems/01907697-a538-4205-9a2f-75e9fc04a42d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_gr_term
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.gr_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:01:56.467902+00:00
 -- url     : https://prove2.me/theorems/22234b41-4f15-4435-a76f-96f09d5e1515

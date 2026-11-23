@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x5_kernel_nonzero_modulus_determinant_eq
 -- name    : Formalism.FourierDecayAlt.P.A5x5.kernel_nonzero_modulus_determinant_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:13:46.206259+00:00
 -- url     : https://prove2.me/theorems/f211d8b6-e533-4e13-b0ed-64fec15742a3

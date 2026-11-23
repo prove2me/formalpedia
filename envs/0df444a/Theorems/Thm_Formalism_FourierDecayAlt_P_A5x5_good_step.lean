@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x5_good_step
 -- name    : Formalism.FourierDecayAlt.P.A5x5.good_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:44:00.203516+00:00
 -- url     : https://prove2.me/theorems/9d3cbe3d-b9b1-4cc5-acd9-434283d764b8

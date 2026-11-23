@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_K_nonneg
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.K_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:14:20.422499+00:00
 -- url     : https://prove2.me/theorems/440ed343-5dc0-4e21-9038-fac668091c67

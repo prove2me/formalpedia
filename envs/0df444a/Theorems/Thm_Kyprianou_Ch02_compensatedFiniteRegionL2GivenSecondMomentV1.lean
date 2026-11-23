@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_compensatedFiniteRegionL2GivenSecondMomentV1
 -- name    : Kyprianou.Ch02.compensatedFiniteRegionL2GivenSecondMomentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:01:07.885712+00:00
 -- url     : https://prove2.me/theorems/3fda7a62-6b6a-40be-8c48-1099d342c798

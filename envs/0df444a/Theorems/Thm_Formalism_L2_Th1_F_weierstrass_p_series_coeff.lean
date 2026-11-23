@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_weierstrass_p_series_coeff
 -- name    : Formalism.L2.Th1.F.weierstrass_p_series_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:13.376277+00:00
 -- url     : https://prove2.me/theorems/213041f6-0ff6-48ae-a315-5c834d48de02

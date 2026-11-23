@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Formalism.L2.Th1.A.CurveL.DL_C
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:44.648142+00:00
 -- url     : https://prove2.me/submissions/e215576d-6aa8-4cbf-aba9-420c180eb63a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_StatementC
 import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_StatementT

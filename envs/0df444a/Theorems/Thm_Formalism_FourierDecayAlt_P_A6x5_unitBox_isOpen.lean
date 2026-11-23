@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x5_unitBox_isOpen
 -- name    : Formalism.FourierDecayAlt.P.A6x5.unitBox_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:51:05.357963+00:00
 -- url     : https://prove2.me/theorems/d79370eb-3b86-4dfe-920c-bee89fb7c7fe

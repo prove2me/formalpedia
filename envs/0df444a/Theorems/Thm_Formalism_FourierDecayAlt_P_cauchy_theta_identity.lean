@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cauchy_theta_identity
 -- name    : Formalism.FourierDecayAlt.P.cauchy_theta_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:45.684569+00:00
 -- url     : https://prove2.me/theorems/0ecb235e-c7db-4f18-87ec-1ebc82857e7d

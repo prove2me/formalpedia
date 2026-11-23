@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Wp_sig_C
 -- name    : Formalism.L2.Th1.A.Wp.sig_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:06:08.614474+00:00
 -- url     : https://prove2.me/theorems/18a34cac-8865-4236-b503-0d094024c774

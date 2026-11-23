@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_nonStationary
 -- name    : Formalism.FourierDecayAlt.P.nonStationary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:48.999802+00:00
 -- url     : https://prove2.me/theorems/e4705c67-c959-4d43-a4a8-55deb7a10664

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_coeff_Wi
 -- name    : Formalism.L2.Th1.A.Fgl1.coeff_Wi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:45.823026+00:00
 -- url     : https://prove2.me/theorems/bec35ce9-e107-4a8e-954f-f5afc3d0d169

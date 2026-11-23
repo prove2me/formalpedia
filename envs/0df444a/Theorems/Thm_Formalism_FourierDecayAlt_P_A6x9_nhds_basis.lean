@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_nhds_basis
 -- name    : Formalism.FourierDecayAlt.P.A6x9.nhds_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:55:29.364509+00:00
 -- url     : https://prove2.me/theorems/f9f22e5c-d3e9-4350-900d-c1064ec8e353

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_inv_bdd
 -- name    : Formalism.FourierDecayAlt.P.A6x9.inv_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:54:57.004269+00:00
 -- url     : https://prove2.me/theorems/355e3cff-c64f-469b-a5e1-826e65627a08

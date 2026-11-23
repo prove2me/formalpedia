@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_averaged_kernel_parseval
 -- name    : Formalism.FourierDecayAlt.P.averaged_kernel_parseval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:39.642553+00:00
 -- url     : https://prove2.me/theorems/6b10bc52-023d-4abb-b83e-2f4c62c42251

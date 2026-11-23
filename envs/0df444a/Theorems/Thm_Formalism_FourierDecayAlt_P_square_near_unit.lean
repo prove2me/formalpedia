@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_square_near_unit
 -- name    : Formalism.FourierDecayAlt.P.square_near_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:37.823469+00:00
 -- url     : https://prove2.me/theorems/db11e704-93ab-4b16-86e4-12cc2bd03128

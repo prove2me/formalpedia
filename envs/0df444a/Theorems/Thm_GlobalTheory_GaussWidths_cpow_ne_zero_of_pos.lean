@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussWidths_cpow_ne_zero_of_pos
 -- name    : GlobalTheory.GaussWidths.cpow_ne_zero_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:13.682394+00:00
 -- url     : https://prove2.me/theorems/ede990d8-b5fd-4a80-a85a-6cc07c49d79c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveSer_fw_mul_om
 -- name    : Formalism.L2.Th1.A.CurveSer.fw_mul_om
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:05:23.652144+00:00
 -- url     : https://prove2.me/theorems/96965fb6-2112-477f-af1e-0a83b9ea684b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rootStableExhaustion
 -- name    : Formalism.FourierDecayAlt.P.rootStableExhaustion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:05.431268+00:00
 -- url     : https://prove2.me/theorems/7545f02e-3492-43b8-bf85-f6440f8620e4

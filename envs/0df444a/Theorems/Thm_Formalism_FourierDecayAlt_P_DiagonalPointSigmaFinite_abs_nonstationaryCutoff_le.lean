@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_abs_nonstationaryCutoff_le
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.abs_nonstationaryCutoff_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:53.365156+00:00
 -- url     : https://prove2.me/theorems/318d1531-c331-4810-b4de-2e41c38ac9bb

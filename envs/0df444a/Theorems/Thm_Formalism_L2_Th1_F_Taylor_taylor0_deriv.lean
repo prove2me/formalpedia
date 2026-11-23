@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Taylor_taylor0_deriv
 -- name    : Formalism.L2.Th1.F.Taylor.taylor0_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:06:04.200402+00:00
 -- url     : https://prove2.me/theorems/be163b11-546e-4366-8c89-9ea53056262c

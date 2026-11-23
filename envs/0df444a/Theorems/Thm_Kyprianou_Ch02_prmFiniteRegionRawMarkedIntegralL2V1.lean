@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionRawMarkedIntegralL2V1
 -- name    : Kyprianou.Ch02.prmFiniteRegionRawMarkedIntegralL2V1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:54:34.81492+00:00
 -- url     : https://prove2.me/theorems/eb083600-ee0e-49df-bdb2-b935107049a4

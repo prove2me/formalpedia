@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChebyshevExtremalPolynomials_leadBound
 -- name    : Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.leadBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:57:37.564748+00:00
 -- url     : https://prove2.me/theorems/c8f20693-6543-41b6-93de-b7cf5786568a

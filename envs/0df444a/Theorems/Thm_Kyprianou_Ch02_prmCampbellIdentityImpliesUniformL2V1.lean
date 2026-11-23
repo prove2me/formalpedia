@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmCampbellIdentityImpliesUniformL2V1
 -- name    : Kyprianou.Ch02.prmCampbellIdentityImpliesUniformL2V1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:21:01.394064+00:00
 -- url     : https://prove2.me/theorems/4257f6b8-a157-467c-8896-d02fd38c50b3

@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for Kyprianou.Ch01.reverseLampertiFirstArrivalShiftedTailPathwise
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T18:26:54.590077+00:00
 -- url     : https://prove2.me/submissions/b496c9bd-5d71-4178-acd4-9fd3e7f47714
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_BranchingClocks

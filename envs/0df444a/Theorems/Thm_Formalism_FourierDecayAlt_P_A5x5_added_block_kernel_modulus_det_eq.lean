@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x5_added_block_kernel_modulus_det_eq
 -- name    : Formalism.FourierDecayAlt.P.A5x5.added_block_kernel_modulus_det_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:43:54.228612+00:00
 -- url     : https://prove2.me/theorems/581b0e73-e8fb-41fb-a947-884897ba27f9

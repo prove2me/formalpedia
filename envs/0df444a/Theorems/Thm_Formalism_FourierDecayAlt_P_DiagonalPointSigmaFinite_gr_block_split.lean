@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_gr_block_split
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.gr_block_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:01:56.506998+00:00
 -- url     : https://prove2.me/theorems/08585b87-d503-4516-ae7a-c1b430ea355b

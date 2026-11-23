@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisTwist_leftGood_cast
 -- name    : GlobalTheory.CompanionTheory.RgEisTwist.leftGood_cast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:13.143489+00:00
 -- url     : https://prove2.me/theorems/3e96fe1a-0095-4969-9bdc-f9549e8a2126

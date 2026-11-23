@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_ns_differentiableOn
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.ns_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:02:47.818373+00:00
 -- url     : https://prove2.me/theorems/f1562fa6-b0a1-40bc-9d06-347fcbb9cbc4

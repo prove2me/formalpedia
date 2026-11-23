@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_added_block_kernel_block_diagonal
 -- name    : Formalism.FourierDecayAlt.P.added_block_kernel_block_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:15:53.373437+00:00
 -- url     : https://prove2.me/theorems/600b80a5-f2bd-4b5d-b771-3c47a475dec0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_compact_principle
 -- name    : Formalism.FourierDecayAlt.P.A6x9.compact_principle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:05.168577+00:00
 -- url     : https://prove2.me/theorems/e971dc6f-99eb-48b5-83f4-9dd7f43a9ce0

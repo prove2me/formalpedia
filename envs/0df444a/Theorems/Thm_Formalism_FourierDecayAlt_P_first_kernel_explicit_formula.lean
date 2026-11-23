@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_first_kernel_explicit_formula
 -- name    : Formalism.FourierDecayAlt.P.first_kernel_explicit_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:11:30.381792+00:00
 -- url     : https://prove2.me/theorems/3a956ca3-be41-4b61-83b0-43baa8ff6f44

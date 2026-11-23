@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveSer_map_wSer
 -- name    : Formalism.L2.Th1.A.CurveSer.map_wSer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:24.5655+00:00
 -- url     : https://prove2.me/theorems/e7629d45-968e-40fc-a4d9-60c359d237fa

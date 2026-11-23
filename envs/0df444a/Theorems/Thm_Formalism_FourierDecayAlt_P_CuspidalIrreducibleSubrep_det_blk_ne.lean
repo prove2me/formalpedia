@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CuspidalIrreducibleSubrep_det_blk_ne
 -- name    : Formalism.FourierDecayAlt.P.CuspidalIrreducibleSubrep.det_blk_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:58:13.647832+00:00
 -- url     : https://prove2.me/theorems/c0c70f2f-197c-4be3-a5a9-80402d28d868

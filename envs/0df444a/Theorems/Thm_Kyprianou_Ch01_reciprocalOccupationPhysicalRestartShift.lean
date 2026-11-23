@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reciprocalOccupationPhysicalRestartShift
 -- name    : Kyprianou.Ch01.reciprocalOccupationPhysicalRestartShift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:02:38.516084+00:00
 -- url     : https://prove2.me/theorems/f72cb359-febc-4afd-b2a9-0c5dc3662921

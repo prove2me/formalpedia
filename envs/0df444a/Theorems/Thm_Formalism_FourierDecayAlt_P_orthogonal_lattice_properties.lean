@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_orthogonal_lattice_properties
 -- name    : Formalism.FourierDecayAlt.P.orthogonal_lattice_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:40.695852+00:00
 -- url     : https://prove2.me/theorems/e0c1f199-8c2f-496d-914d-44329749543e

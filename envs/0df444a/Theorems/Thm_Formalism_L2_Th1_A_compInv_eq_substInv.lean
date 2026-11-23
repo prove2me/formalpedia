@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_compInv_eq_substInv
 -- name    : Formalism.L2.Th1.A.compInv_eq_substInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:07:07.106236+00:00
 -- url     : https://prove2.me/theorems/59aa0b00-8638-4940-b0b9-6ad81b15492e

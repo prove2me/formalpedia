@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x3_perp_small
 -- name    : Formalism.FourierDecayAlt.P.A6x3.perp_small
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:50:22.927916+00:00
 -- url     : https://prove2.me/theorems/a7bc1bbe-c188-4abb-942c-a64f18f5eec7

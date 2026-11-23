@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_l_function_partial_sum
 -- name    : Formalism.FX.l_function_partial_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:43:56.672782+00:00
 -- url     : https://prove2.me/theorems/74f0f615-3d43-4dea-8674-be2dcd8f3398

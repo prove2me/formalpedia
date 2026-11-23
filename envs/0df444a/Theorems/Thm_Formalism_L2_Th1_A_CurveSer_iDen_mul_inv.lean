@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveSer_iDen_mul_inv
 -- name    : Formalism.L2.Th1.A.CurveSer.iDen_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:06:52.13139+00:00
 -- url     : https://prove2.me/theorems/41a1fe22-f07e-48d1-ae5e-1a8a2b63c973

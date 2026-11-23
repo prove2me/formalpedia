@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DensitySumsAndDomination_recHypScaleTop
 -- name    : Formalism.FourierDecayAlt.P.DensitySumsAndDomination.recHypScaleTop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:02:14.111434+00:00
 -- url     : https://prove2.me/theorems/5316fe9c-e9c9-48d1-a182-6fb658c8363d

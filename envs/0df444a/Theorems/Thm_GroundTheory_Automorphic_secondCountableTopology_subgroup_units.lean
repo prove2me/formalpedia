@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_secondCountableTopology_subgroup_units
 -- name    : GroundTheory.Automorphic.secondCountableTopology_subgroup_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:24.108968+00:00
 -- url     : https://prove2.me/theorems/a479bb45-5387-4c04-bc2f-785c47170217

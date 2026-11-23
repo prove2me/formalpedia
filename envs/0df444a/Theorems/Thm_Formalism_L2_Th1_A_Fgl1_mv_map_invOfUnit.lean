@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_mv_map_invOfUnit
 -- name    : Formalism.L2.Th1.A.Fgl1.mv_map_invOfUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:58.419321+00:00
 -- url     : https://prove2.me/theorems/9b5ffc13-e6f6-4910-a151-50c7e720b9a8

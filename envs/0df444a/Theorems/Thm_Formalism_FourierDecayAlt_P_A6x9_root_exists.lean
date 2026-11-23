@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_root_exists
 -- name    : Formalism.FourierDecayAlt.P.A6x9.root_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:09.685182+00:00
 -- url     : https://prove2.me/theorems/60b04c30-f686-4a4c-8a91-2ed0153e28ce

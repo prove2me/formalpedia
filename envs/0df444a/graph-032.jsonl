@@ -47407,14 +47407,14 @@
 {"parent": "Kyprianou_Ch06_certificate_exercise_6_2", "child": "Kyprianou_Ch06_RegularityAtFirstEntrance", "via": ["statement"]}
 {"parent": "DirKECC1549_Impl_Facts", "child": "DirKECC1549_Main_Alg3", "via": ["statement"]}
 {"parent": "DirKECC1549_Impl_Facts", "child": "DirKECC1549_Main_HittingSet", "via": ["statement"]}
-{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
-{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "Kyprianou_Ch02_IndependentComponents", "via": ["statement"]}
-{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
+{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "Kyprianou_Ch02_IndependentComponents", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.smallJumpLimitCadlagCorrected", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["solution", "statement"]}
 {"parent": "HypercliqueCircuits.Circuits.Supplement.theorem_3", "child": "HypercliqueCircuits_Circuits_Supplement_TensorProduct", "via": ["statement"]}
 {"parent": "MetricMinTest.Supplement.theorem_7_5", "child": "MetricMinTest_IsPseudometric", "via": ["statement"]}
 {"parent": "MetricMinTest.Supplement.theorem_7_5", "child": "MetricMinTest_Supplement_mixedWorkload", "via": ["statement"]}

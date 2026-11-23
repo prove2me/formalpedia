@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_cross_smul
 -- name    : GlobalTheory.LatPair.cross_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:06:51.466411+00:00
 -- url     : https://prove2.me/theorems/1b49d09e-de07-4852-b8a9-20d04fe8c435

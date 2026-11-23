@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gramKernelHermitian
 -- name    : Formalism.FourierDecayAlt.P.gramKernelHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:18.252595+00:00
 -- url     : https://prove2.me/theorems/c6747248-07d8-46d9-8f9b-cf26766b7d23

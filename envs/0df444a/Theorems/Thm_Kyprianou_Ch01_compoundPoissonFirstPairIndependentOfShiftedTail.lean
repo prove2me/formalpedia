@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_compoundPoissonFirstPairIndependentOfShiftedTail
 -- name    : Kyprianou.Ch01.compoundPoissonFirstPairIndependentOfShiftedTail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:13:46.421398+00:00
 -- url     : https://prove2.me/theorems/84542092-a6b1-4b9a-8905-4a115cf3589c

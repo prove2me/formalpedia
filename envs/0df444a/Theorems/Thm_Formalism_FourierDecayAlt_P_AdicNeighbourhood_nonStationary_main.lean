@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdicNeighbourhood_nonStationary_main
 -- name    : Formalism.FourierDecayAlt.P.AdicNeighbourhood.nonStationary_main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:55:30.916356+00:00
 -- url     : https://prove2.me/theorems/f2656e90-4429-420b-8b53-187edf8748b4

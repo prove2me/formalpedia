@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BudgetLiftBounds_reductionOfSteps
 -- name    : Formalism.FourierDecayAlt.P.BudgetLiftBounds.reductionOfSteps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:57:10.111508+00:00
 -- url     : https://prove2.me/theorems/1846eac3-13ae-4ee8-96ef-43c397c8e6c5

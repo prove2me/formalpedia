@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiShiftedInverseReciprocalOccupation
 -- name    : Kyprianou.Ch01.reverseLampertiShiftedInverseReciprocalOccupation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:15:14.208937+00:00
 -- url     : https://prove2.me/theorems/1e0d9d0f-afe2-4196-99f9-14cafb4a4b47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_kernel_block_diagonal_by_modulus
 -- name    : Formalism.FourierDecayAlt.P.kernel_block_diagonal_by_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:25.378237+00:00
 -- url     : https://prove2.me/theorems/9175ca07-f233-4b08-893d-3fa758332255

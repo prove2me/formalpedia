@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_LFunctionPartialSum_LFunction_eq_G
 -- name    : Formalism.FX.LFunctionPartialSum.LFunction_eq_G
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:46:06.938552+00:00
 -- url     : https://prove2.me/theorems/4e1fa806-104c-4b60-befe-15f37264fd66

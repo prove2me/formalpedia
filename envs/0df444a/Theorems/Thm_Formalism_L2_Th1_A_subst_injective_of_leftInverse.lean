@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_subst_injective_of_leftInverse
 -- name    : Formalism.L2.Th1.A.subst_injective_of_leftInverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:07:41.823853+00:00
 -- url     : https://prove2.me/theorems/a749478a-4a72-4b13-9f9f-3c25e5efb521

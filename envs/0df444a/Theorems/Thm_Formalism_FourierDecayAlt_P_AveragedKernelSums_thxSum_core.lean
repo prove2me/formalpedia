@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AveragedKernelSums_thxSum_core
 -- name    : Formalism.FourierDecayAlt.P.AveragedKernelSums.thxSum_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:56:35.831095+00:00
 -- url     : https://prove2.me/theorems/cb9ef8bb-9bcb-4447-b919-957ebf7fdc89

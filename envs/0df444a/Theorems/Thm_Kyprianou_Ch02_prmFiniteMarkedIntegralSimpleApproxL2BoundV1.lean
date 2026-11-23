@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteMarkedIntegralSimpleApproxL2BoundV1
 -- name    : Kyprianou.Ch02.prmFiniteMarkedIntegralSimpleApproxL2BoundV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:09:01.87009+00:00
 -- url     : https://prove2.me/theorems/90e953d7-7c00-4e80-9336-d654433561a8

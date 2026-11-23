@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rootCorrection
 -- name    : Formalism.FourierDecayAlt.P.rootCorrection
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:02.584226+00:00
 -- url     : https://prove2.me/theorems/aeb0e697-7d39-4376-85f8-0c5447ea4d1a

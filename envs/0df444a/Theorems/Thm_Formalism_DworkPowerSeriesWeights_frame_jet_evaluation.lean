@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_frame_jet_evaluation
 -- name    : Formalism.DworkPowerSeriesWeights.frame_jet_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:58:37.639126+00:00
 -- url     : https://prove2.me/theorems/2ab577f5-c502-4dfe-93fa-eef4f9e4e522

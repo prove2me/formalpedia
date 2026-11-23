@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_STD_contDiffOn_dc
 -- name    : PositivityTheory.Rg.Sw.LVs.STD.contDiffOn_dc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:41.468378+00:00
 -- url     : https://prove2.me/theorems/0be737dc-9829-452d-b727-ec15c8112291

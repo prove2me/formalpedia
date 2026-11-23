@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiFirstArrivalShiftedTailPathwise
 -- name    : Kyprianou.Ch01.reverseLampertiFirstArrivalShiftedTailPathwise
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T16:22:12.501636+00:00
 -- url     : https://prove2.me/theorems/a320c6f5-17d4-4dda-9fcf-acd2e9a5c0ef

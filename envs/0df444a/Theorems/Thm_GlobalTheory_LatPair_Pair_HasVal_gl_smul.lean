@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Pair_HasVal_gl_smul
 -- name    : GlobalTheory.LatPair.Pair.HasVal.gl_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:20.141675+00:00
 -- url     : https://prove2.me/theorems/0f377fce-f382-4937-b607-2f38a9921f0e

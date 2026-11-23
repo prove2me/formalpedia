@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rootCutStable
 -- name    : Formalism.FourierDecayAlt.P.rootCutStable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:23.84886+00:00
 -- url     : https://prove2.me/theorems/9a234418-bcd0-4d31-863b-ee9451122215

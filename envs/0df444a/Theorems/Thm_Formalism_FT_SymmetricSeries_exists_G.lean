@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_exists_G
 -- name    : Formalism.FT.SymmetricSeries.exists_G
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:29.629975+00:00
 -- url     : https://prove2.me/theorems/f82c57cb-fd54-4751-9a9d-cdf74b00b36a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Plus_coeff_two_tS
 -- name    : Formalism.L2.Th1.A.Plus.coeff_two_tS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:22.934798+00:00
 -- url     : https://prove2.me/theorems/429d8e1e-cc7c-4444-a8a5-594007eb16ad

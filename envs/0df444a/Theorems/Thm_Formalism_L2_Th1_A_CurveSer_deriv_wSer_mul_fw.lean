@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveSer_deriv_wSer_mul_fw
 -- name    : Formalism.L2.Th1.A.CurveSer.deriv_wSer_mul_fw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:07:33.855065+00:00
 -- url     : https://prove2.me/theorems/20a8de5b-6ddb-4530-94a6-78ff2b120c09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_rpow_decay_arith
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.rpow_decay_arith
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:02:56.924992+00:00
 -- url     : https://prove2.me/theorems/54cd688f-8790-493a-9fe6-443931da99f0

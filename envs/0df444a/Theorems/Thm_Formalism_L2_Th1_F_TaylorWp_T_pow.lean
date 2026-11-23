@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_TaylorWp_T_pow
 -- name    : Formalism.L2.Th1.F.TaylorWp.T.pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:08.790175+00:00
 -- url     : https://prove2.me/theorems/28ccfb1b-215e-41ee-9243-c0a91dd26041

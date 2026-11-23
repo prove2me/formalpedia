@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for GrothendieckLB.Supplement.cq_head_through_degree_17
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:06:26.90138+00:00
 -- url     : https://prove2.me/submissions/d4adaee9-2a30-4b8f-ba9e-a4f61af064ec
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_cq_head_integer_comparisons_17
 import Definitions.Def_GrothendieckLB_Supplement_cqSexticHead

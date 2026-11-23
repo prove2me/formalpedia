@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_DworkPowerSeriesWeights_OneGauss_eval__frameJetOne_ed424e11227c
 -- name    : P2M_Formalism_DworkPowerSeriesWeights_OneGauss_eval__frameJetOne_ed424e11227c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:02:59.198567+00:00
 -- url     : https://prove2.me/theorems/210fc8a6-8b4a-45cb-8f81-31772330daae

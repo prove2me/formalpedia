@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x3_relIndex_perp
 -- name    : Formalism.FourierDecayAlt.P.A6x3.relIndex_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:50:15.832527+00:00
 -- url     : https://prove2.me/theorems/c43e7ffe-1b7d-4ccc-b207-fe2da02c0ee4

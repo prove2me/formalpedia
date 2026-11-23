@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_deriv_piece
 -- name    : PositivityTheory.Rg.Sw.LVs.II.deriv_piece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:55.574788+00:00
 -- url     : https://prove2.me/theorems/a422503c-a0c9-46d8-b09b-93cf10806a08

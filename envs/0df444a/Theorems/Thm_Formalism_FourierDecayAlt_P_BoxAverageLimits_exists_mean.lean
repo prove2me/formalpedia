@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BoxAverageLimits_exists_mean
 -- name    : Formalism.FourierDecayAlt.P.BoxAverageLimits.exists_mean
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:56:47.174202+00:00
 -- url     : https://prove2.me/theorems/779a92b4-5553-4368-accb-191233e75a76

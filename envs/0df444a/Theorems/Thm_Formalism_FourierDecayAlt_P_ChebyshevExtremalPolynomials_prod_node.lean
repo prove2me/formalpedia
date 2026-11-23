@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChebyshevExtremalPolynomials_prod_node
 -- name    : Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.prod_node
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:57:40.099098+00:00
 -- url     : https://prove2.me/theorems/40a36a2b-1ed6-4722-abdc-1412254df166

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Univ_map_eq
 -- name    : Formalism.L2.Th1.A.Univ.map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:08.144371+00:00
 -- url     : https://prove2.me/theorems/a4cafe67-7b4e-4d9d-8134-6cc7277e3cfe

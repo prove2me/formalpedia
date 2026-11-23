@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteMarkedApproxL2BoundFromMarksV1
 -- name    : Kyprianou.Ch02.prmFiniteMarkedApproxL2BoundFromMarksV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:44:48.960398+00:00
 -- url     : https://prove2.me/theorems/a127e321-0ea1-45d0-ba29-94e47b36e15f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiscFubiniVolume_hasDerivAt_V
 -- name    : Formalism.FourierDecayAlt.P.DiscFubiniVolume.hasDerivAt_V
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:02:58.019844+00:00
 -- url     : https://prove2.me/theorems/3d7e2500-6f0c-4e8e-bbd0-f732b9cdd701

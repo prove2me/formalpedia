@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_loc_count
 -- name    : Formalism.FourierDecayAlt.P.A6x9.loc_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:55:11.53126+00:00
 -- url     : https://prove2.me/theorems/b0cea98d-bd1b-4cd6-9821-2fa8d0a0fe9f

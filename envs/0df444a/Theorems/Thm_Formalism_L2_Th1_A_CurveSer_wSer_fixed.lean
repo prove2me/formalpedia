@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveSer_wSer_fixed
 -- name    : Formalism.L2.Th1.A.CurveSer.wSer_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:59.456436+00:00
 -- url     : https://prove2.me/theorems/73fc7175-542f-4588-9787-97e854f109ff

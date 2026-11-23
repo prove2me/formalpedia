@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_SymmetricSeries_G_unique
 -- name    : Formalism.FT.SymmetricSeries.G_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:44.935025+00:00
 -- url     : https://prove2.me/theorems/b913d934-4586-4205-be5c-bc86e1427ccb

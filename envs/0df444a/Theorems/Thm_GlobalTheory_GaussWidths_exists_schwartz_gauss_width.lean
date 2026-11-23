@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussWidths_exists_schwartz_gauss_width
 -- name    : GlobalTheory.GaussWidths.exists_schwartz_gauss_width
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:21.672671+00:00
 -- url     : https://prove2.me/theorems/fcf0bcdc-1d3a-4806-b369-7c1f20cdc37d

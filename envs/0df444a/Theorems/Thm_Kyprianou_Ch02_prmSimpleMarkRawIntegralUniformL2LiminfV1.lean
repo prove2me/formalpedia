@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmSimpleMarkRawIntegralUniformL2LiminfV1
 -- name    : Kyprianou.Ch02.prmSimpleMarkRawIntegralUniformL2LiminfV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:10:20.750845+00:00
 -- url     : https://prove2.me/theorems/c7b0dbf9-2022-4cbf-bdd2-d97a86afabc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_wSer_low
 -- name    : Formalism.L2.Th1.A.Fgl1.wSer_low
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:48.987543+00:00
 -- url     : https://prove2.me/theorems/c802e8c3-097e-4e00-87e1-797422686ce5

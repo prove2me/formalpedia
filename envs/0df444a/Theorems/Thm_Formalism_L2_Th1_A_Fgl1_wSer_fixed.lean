@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_wSer_fixed
 -- name    : Formalism.L2.Th1.A.Fgl1.wSer_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:40.127412+00:00
 -- url     : https://prove2.me/theorems/ea483342-7432-472f-ba15-284d23b43d47

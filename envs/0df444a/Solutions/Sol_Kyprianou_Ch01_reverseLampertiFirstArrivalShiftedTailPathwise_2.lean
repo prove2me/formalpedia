@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch01.reverseLampertiFirstArrivalShiftedTailPathwise
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T18:10:29.789311+00:00
 -- url     : https://prove2.me/submissions/449344b0-448e-4045-a142-a2284ba6ece2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ProbabilityTheory_lt_jumpCount_iff
 import Theorems.Thm_ProbabilityTheory_IsCompoundPoissonDriver_ae_strictMono_arrival

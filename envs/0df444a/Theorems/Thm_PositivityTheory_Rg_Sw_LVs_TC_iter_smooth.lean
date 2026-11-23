@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_iter_smooth
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.iter_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:21.700804+00:00
 -- url     : https://prove2.me/theorems/56fe4bb5-7107-4f3e-b264-16a8f1e73c02

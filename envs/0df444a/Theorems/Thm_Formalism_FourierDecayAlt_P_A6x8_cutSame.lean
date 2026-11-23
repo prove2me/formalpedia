@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x8_cutSame
 -- name    : Formalism.FourierDecayAlt.P.A6x8.cutSame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:54:55.240447+00:00
 -- url     : https://prove2.me/theorems/71353b12-7ede-4705-958a-76e45b01754c

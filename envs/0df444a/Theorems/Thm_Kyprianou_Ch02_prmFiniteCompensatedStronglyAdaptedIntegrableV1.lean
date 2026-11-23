@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteCompensatedStronglyAdaptedIntegrableV1
 -- name    : Kyprianou.Ch02.prmFiniteCompensatedStronglyAdaptedIntegrableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:04:19.01384+00:00
 -- url     : https://prove2.me/theorems/46db8b2a-c2bc-417e-98a5-e062c7fbd367

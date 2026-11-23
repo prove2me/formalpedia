@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x7_Osc_main
 -- name    : Formalism.FourierDecayAlt.P.A6x7.Osc.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:06:20.359445+00:00
 -- url     : https://prove2.me/theorems/0811be6d-0eb5-4e2b-be79-8867fc8cb34a

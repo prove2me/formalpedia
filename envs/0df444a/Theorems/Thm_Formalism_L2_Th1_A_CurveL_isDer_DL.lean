@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveL_isDer_DL
 -- name    : Formalism.L2.Th1.A.CurveL.isDer_DL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:06:16.23805+00:00
 -- url     : https://prove2.me/theorems/3095fa6c-1b1f-405e-b65d-0bed61c54e50

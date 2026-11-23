@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x6_gaussModulus_of
 -- name    : Formalism.FourierDecayAlt.P.A6x6.gaussModulus_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:51:59.611898+00:00
 -- url     : https://prove2.me/theorems/db128f1d-7ddb-4a47-830f-6479c5c056b6

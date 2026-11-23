@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChainAndRowSums_rowSums_ok
 -- name    : Formalism.FourierDecayAlt.P.ChainAndRowSums.rowSums_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:57:24.435139+00:00
 -- url     : https://prove2.me/theorems/085e347e-078a-4e51-85c4-525c55c0425a

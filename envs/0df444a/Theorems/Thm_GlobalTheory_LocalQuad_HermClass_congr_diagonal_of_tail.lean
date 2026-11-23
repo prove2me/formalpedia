@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_HermClass_congr_diagonal_of_tail
 -- name    : GlobalTheory.LocalQuad.HermClass.congr_diagonal_of_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:52.619588+00:00
 -- url     : https://prove2.me/theorems/f1e8f819-5730-46dc-b435-e3968c50eb1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CuspidalIrreducibleSubrep_detMXY
 -- name    : Formalism.FourierDecayAlt.P.CuspidalIrreducibleSubrep.detMXY
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:57:45.837809+00:00
 -- url     : https://prove2.me/theorems/f6236588-9d6b-41aa-af5b-06118d8f2717

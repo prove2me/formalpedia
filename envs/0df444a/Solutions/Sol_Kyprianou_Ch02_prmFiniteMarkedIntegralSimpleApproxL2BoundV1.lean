@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.prmFiniteMarkedIntegralSimpleApproxL2BoundV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T14:47:27.702906+00:00
 -- url     : https://prove2.me/submissions/5cfe9f89-8e77-45ca-9da9-20978b3a6959
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch02_realMarkSimpleL2ApproxV1

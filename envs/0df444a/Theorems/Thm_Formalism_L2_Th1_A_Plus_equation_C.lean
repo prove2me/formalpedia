@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Plus_equation_C
 -- name    : Formalism.L2.Th1.A.Plus.equation_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:02.072568+00:00
 -- url     : https://prove2.me/theorems/cfc22358-4430-451e-8fed-7e3aaf5305be

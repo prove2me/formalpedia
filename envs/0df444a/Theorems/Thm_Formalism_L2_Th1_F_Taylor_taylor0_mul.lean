@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Taylor_taylor0_mul
 -- name    : Formalism.L2.Th1.F.Taylor.taylor0_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:58.571002+00:00
 -- url     : https://prove2.me/theorems/6232d71c-4b2f-4919-9076-227058a0aa8e

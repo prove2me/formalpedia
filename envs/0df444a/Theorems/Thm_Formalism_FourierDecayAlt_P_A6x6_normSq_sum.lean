@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x6_normSq_sum
 -- name    : Formalism.FourierDecayAlt.P.A6x6.normSq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:52:13.168037+00:00
 -- url     : https://prove2.me/theorems/198f8b85-ce13-4562-8ce8-eef0b190de19

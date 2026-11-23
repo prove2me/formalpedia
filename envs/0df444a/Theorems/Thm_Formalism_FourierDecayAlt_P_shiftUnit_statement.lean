@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_shiftUnit_statement
 -- name    : Formalism.FourierDecayAlt.P.shiftUnit_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:23.588859+00:00
 -- url     : https://prove2.me/theorems/09f2f8a3-30f6-4357-8c5a-0ebca3c3f842

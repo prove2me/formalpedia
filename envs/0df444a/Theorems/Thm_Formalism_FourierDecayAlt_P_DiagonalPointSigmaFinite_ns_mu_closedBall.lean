@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_ns_mu_closedBall
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.ns_mu_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:02:43.696735+00:00
 -- url     : https://prove2.me/theorems/aebe496d-c1bd-4569-8778-c48bcf368d5b

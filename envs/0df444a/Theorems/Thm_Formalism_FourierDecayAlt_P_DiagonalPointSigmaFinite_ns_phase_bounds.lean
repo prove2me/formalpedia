@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_ns_phase_bounds
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.ns_phase_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:02:45.959796+00:00
 -- url     : https://prove2.me/theorems/dfc6f678-b4af-4283-9584-4e04d033609b

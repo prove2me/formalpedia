@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x8_Adic_root_near
 -- name    : Formalism.FourierDecayAlt.P.A6x8.Adic.root_near
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:02.975984+00:00
 -- url     : https://prove2.me/theorems/929fd696-016b-4647-ba4a-20cc09656417

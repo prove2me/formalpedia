@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussWidths_mem_of_smul
 -- name    : GlobalTheory.GaussWidths.mem_of_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:40.286836+00:00
 -- url     : https://prove2.me/theorems/890c6c56-573b-460c-87bb-5ebce5107c3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_continuous_cyclotomic_character
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.continuous_cyclotomic_character
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:01:54.761877+00:00
 -- url     : https://prove2.me/theorems/5ae580a3-93eb-4f5a-a188-9da14b504209

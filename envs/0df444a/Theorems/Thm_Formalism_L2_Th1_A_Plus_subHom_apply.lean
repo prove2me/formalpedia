@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Plus_subHom_apply
 -- name    : Formalism.L2.Th1.A.Plus.subHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:11.842058+00:00
 -- url     : https://prove2.me/theorems/25fb83d8-3134-4c99-948e-aa8e3efbe61b

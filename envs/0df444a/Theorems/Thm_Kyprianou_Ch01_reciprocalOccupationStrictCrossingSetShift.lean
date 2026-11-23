@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reciprocalOccupationStrictCrossingSetShift
 -- name    : Kyprianou.Ch01.reciprocalOccupationStrictCrossingSetShift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:02:51.35058+00:00
 -- url     : https://prove2.me/theorems/5e07d1c1-d539-4e55-83f3-9bc5c011790a

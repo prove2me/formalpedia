@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChebyshevExtremalPolynomials_abs_lagCo_nat
 -- name    : Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.abs_lagCo_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:57:19.200841+00:00
 -- url     : https://prove2.me/theorems/3fdfc51e-9c88-4f9d-9285-b3886a189e01

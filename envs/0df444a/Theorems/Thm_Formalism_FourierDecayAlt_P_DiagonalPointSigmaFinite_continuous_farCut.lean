@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_continuous_farCut
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.continuous_farCut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:56.534849+00:00
 -- url     : https://prove2.me/theorems/c83b1685-da7b-4b0a-913f-4abe66e42474

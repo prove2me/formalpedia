@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.prmSimpleMarkRawIntegralUniformL2LiminfV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T18:22:15.29183+00:00
 -- url     : https://prove2.me/submissions/2b5a0e46-8a71-4b75-9800-a669b5ee94c2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch02_prmSimpleMarkRawCampbellSecondMomentV1

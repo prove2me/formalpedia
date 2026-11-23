@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_jet_pair_linearity
 -- name    : Formalism.DworkPowerSeriesWeights.jet_pair_linearity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:05:14.590603+00:00
 -- url     : https://prove2.me/theorems/3a45b593-9d9e-46dd-a6b4-ff3caf644809

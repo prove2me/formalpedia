@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_isClosed_siegelOf
 -- name    : GlobalTheory.Doubling.isClosed_siegelOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:07:24.784016+00:00
 -- url     : https://prove2.me/theorems/d4973444-fae5-46e5-b00e-dc3cbf1754d4

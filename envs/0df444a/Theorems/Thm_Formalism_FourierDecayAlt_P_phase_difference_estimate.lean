@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_phase_difference_estimate
 -- name    : Formalism.FourierDecayAlt.P.phase_difference_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:47.33334+00:00
 -- url     : https://prove2.me/theorems/169e2ca4-90cf-4f4f-b646-da692fe64d5f

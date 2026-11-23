@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiscFubiniVolume_continuousOn_g2_symmetric_interval
 -- name    : Formalism.FourierDecayAlt.P.DiscFubiniVolume.continuousOn_g2_symmetric_interval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:02:54.096996+00:00
 -- url     : https://prove2.me/theorems/f811a919-cb73-4b7f-a740-88adfee7df8b

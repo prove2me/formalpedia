@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DensitySumsAndDomination_densSum
 -- name    : Formalism.FourierDecayAlt.P.DensitySumsAndDomination.densSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:28:24.256857+00:00
 -- url     : https://prove2.me/theorems/820e7e90-cb7a-410a-b4a5-5daebe2783b2

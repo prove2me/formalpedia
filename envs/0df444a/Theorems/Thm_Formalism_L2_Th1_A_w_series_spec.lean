@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_w_series_spec
 -- name    : Formalism.L2.Th1.A.w_series_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:53.834375+00:00
 -- url     : https://prove2.me/theorems/8f495f67-f722-4e9c-89f5-3aec6a0d0335

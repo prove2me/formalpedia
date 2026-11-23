@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_cross_hasVal
 -- name    : GlobalTheory.LatPair.cross_hasVal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:06:46.099715+00:00
 -- url     : https://prove2.me/theorems/a1763971-f3b5-4305-85b1-5f6cd2f90d36

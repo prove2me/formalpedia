@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiShiftedStoppedInverseClock
 -- name    : Kyprianou.Ch01.reverseLampertiShiftedStoppedInverseClock
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:08:54.830891+00:00
 -- url     : https://prove2.me/theorems/0de88083-a67c-4b90-9805-533ccf713df7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cokernel_card_inverse_modulus
 -- name    : Formalism.FourierDecayAlt.P.cokernel_card_inverse_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:22.760808+00:00
 -- url     : https://prove2.me/theorems/16367338-6b27-4734-b571-f7f35acceb33

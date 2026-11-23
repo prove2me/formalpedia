@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BoxAverageLimits_LIMf_shift_gen
 -- name    : Formalism.FourierDecayAlt.P.BoxAverageLimits.LIMf_shift_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:56:45.5408+00:00
 -- url     : https://prove2.me/theorems/0277b537-269d-4c3a-baaa-1179cafc15fc

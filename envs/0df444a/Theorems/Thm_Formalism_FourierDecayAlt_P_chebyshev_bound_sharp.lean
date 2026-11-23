@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_chebyshev_bound_sharp
 -- name    : Formalism.FourierDecayAlt.P.chebyshev_bound_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:00.365813+00:00
 -- url     : https://prove2.me/theorems/f103a988-653c-4a4d-a768-0684b1238249

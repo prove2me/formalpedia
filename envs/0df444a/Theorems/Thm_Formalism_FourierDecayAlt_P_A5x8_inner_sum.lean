@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x8_inner_sum
 -- name    : Formalism.FourierDecayAlt.P.A5x8.inner_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:11:07.289799+00:00
 -- url     : https://prove2.me/theorems/7100f35e-582a-4653-b3c0-ca5a43af4192

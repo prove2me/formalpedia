@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Wp_sig_X
 -- name    : Formalism.L2.Th1.A.Wp.sig_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:05:57.371036+00:00
 -- url     : https://prove2.me/theorems/88b29546-28c4-4528-91e8-428ae8d8ab13
