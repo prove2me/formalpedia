@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiTwoEventReturnProbabilitySandwich
 -- name    : Kyprianou.Ch01.reverseLampertiTwoEventReturnProbabilitySandwich
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:34:28.711419+00:00
 -- url     : https://prove2.me/theorems/55175e44-033b-49f8-bdc1-6f603bf33c76

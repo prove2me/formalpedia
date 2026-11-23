@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x7_orb_of_int
 -- name    : Formalism.FourierDecayAlt.P.A5x7.orb_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:57:18.191705+00:00
 -- url     : https://prove2.me/theorems/f9fbbc96-7b4b-40b3-957b-c3b59315c109

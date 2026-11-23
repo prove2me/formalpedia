@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_jet_collapse
 -- name    : Formalism.DworkPowerSeriesWeights.jet_collapse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:03:04.278823+00:00
 -- url     : https://prove2.me/theorems/f3b79f26-4a90-4a11-b851-bb180eabcc03

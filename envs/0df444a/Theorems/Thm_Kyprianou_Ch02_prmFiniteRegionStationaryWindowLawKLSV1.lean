@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionStationaryWindowLawKLSV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionStationaryWindowLawKLSV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:49:21.767378+00:00
 -- url     : https://prove2.me/theorems/f0365e45-30c4-44d3-a07e-2980ad0497b8

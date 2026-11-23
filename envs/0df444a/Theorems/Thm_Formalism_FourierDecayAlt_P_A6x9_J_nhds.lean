@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_J_nhds
 -- name    : Formalism.FourierDecayAlt.P.A6x9.J_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:06.124819+00:00
 -- url     : https://prove2.me/theorems/2c904339-bea8-46df-b459-166267854b46

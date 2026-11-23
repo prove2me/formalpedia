@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_integral_omegaX
 -- name    : Formalism.ELL.FormalGroupCubeJets.integral_omegaX
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:02:23.330203+00:00
 -- url     : https://prove2.me/theorems/3550e54e-a107-4e49-8a78-de33b448cfe7

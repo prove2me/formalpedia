@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_substitution_weight_bound
 -- name    : Formalism.DworkPowerSeriesWeights.substitution_weight_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:40:35.467793+00:00
 -- url     : https://prove2.me/theorems/f08b1f03-6d06-4a47-b6df-aeb4b4d13e4f

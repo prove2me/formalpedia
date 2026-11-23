@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_rowRadiusAssembly
 -- name    : Formalism.DworkPowerSeriesWeights.rowRadiusAssembly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:59:24.724593+00:00
 -- url     : https://prove2.me/theorems/dbce07fa-d1e9-4c8a-b19d-a166a50b0ca0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_EulerSeries_log_add
 -- name    : Formalism.ELL.EulerSeries.log_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:36.131007+00:00
 -- url     : https://prove2.me/theorems/0c8f9c41-aa0e-4c61-8be4-709b8e7e9e05

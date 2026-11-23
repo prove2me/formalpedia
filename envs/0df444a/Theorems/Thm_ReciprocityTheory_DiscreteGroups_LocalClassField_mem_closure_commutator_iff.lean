@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_mem_closure_commutator_iff
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.mem_closure_commutator_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:07.225026+00:00
 -- url     : https://prove2.me/theorems/33ae64e1-a6a9-4c3b-93a2-76d92a111a35

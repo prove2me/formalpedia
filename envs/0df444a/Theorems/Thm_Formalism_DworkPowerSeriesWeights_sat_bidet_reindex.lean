@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_sat_bidet_reindex
 -- name    : Formalism.DworkPowerSeriesWeights.sat_bidet_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:00:30.332455+00:00
 -- url     : https://prove2.me/theorems/1653642a-9ffa-4a6d-b988-9f2b001c4984

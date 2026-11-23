@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x3_dualMap_injective
 -- name    : Formalism.FourierDecayAlt.P.A6x3.dualMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:02:42.385434+00:00
 -- url     : https://prove2.me/theorems/061cad05-df67-4a5d-9856-f84a350eba68

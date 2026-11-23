@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_omega_map
 -- name    : Formalism.ELL.FormalGroupCubeJets.omega_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:38.633427+00:00
 -- url     : https://prove2.me/theorems/8c73721f-fc0f-44c3-8e75-c69d06dedd36

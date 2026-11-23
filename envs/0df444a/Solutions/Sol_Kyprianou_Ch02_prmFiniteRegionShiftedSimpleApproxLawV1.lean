@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.prmFiniteRegionShiftedSimpleApproxLawV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T13:55:22.17325+00:00
 -- url     : https://prove2.me/submissions/648cf8fa-dc20-40ad-a19b-b7ab4ae69971
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KLSModular_LevyStochCalc_Poisson_RandomMeasure

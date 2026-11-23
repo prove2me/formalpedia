@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_EulerSeries_agree_truncLog
 -- name    : Formalism.ELL.EulerSeries.agree_truncLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:14.266864+00:00
 -- url     : https://prove2.me/theorems/d70d5195-baaf-4133-98d8-51c7774f4339

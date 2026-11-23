@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_chord_y_id
 -- name    : Formalism.ELL.FormalGroupPointsHom.chord_y_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:58.788806+00:00
 -- url     : https://prove2.me/theorems/9875ad97-74b3-48be-a4d9-4df4f99fee6b

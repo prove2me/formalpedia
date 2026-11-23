@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_constantCoeff_three_variable_law
 -- name    : Formalism.ELL.FormalGroupCubeJets.constantCoeff_three_variable_law
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:33.559929+00:00
 -- url     : https://prove2.me/theorems/e0fc55b9-5b2f-4cbd-b9e4-f591e07b3f8e

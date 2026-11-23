@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsTorsion_chord
 -- name    : Formalism.ELL.FormalGroupPointsTorsion.chord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:31:34.187274+00:00
 -- url     : https://prove2.me/theorems/0ce6d574-21b6-45f7-9e13-b7a04057371f

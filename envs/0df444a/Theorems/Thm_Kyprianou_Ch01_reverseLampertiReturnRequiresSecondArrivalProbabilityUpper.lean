@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiReturnRequiresSecondArrivalProbabilityUpper
 -- name    : Kyprianou.Ch01.reverseLampertiReturnRequiresSecondArrivalProbabilityUpper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T17:11:28.492805+00:00
 -- url     : https://prove2.me/theorems/49021eac-b371-4973-a171-69b565ba0d47

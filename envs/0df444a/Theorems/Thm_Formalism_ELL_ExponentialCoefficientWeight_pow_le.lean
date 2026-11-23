@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_ExponentialCoefficientWeight_pow_le
 -- name    : Formalism.ELL.ExponentialCoefficientWeight.pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:13.644123+00:00
 -- url     : https://prove2.me/theorems/b9674ce3-ccb3-4189-b62f-f4150b7d2f00

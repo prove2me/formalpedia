@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_EulerSeries_integral_add_mul
 -- name    : Formalism.ELL.EulerSeries.integral_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:26.894606+00:00
 -- url     : https://prove2.me/theorems/f2ff675a-4805-439c-a741-4e43dc741454

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_frob_iter
 -- name    : Formalism.DworkPowerSeriesWeights.frob_iter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:57:43.887421+00:00
 -- url     : https://prove2.me/theorems/0e456ba2-67c5-431d-a195-be410909158b

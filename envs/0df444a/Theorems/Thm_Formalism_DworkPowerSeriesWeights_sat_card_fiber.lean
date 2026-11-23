@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_sat_card_fiber
 -- name    : Formalism.DworkPowerSeriesWeights.sat_card_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:02.223327+00:00
 -- url     : https://prove2.me/theorems/614b51af-71bf-45b8-af89-65ba2b666e95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmSimpleMarkFibreCountWeightedShiftLawV1
 -- name    : Kyprianou.Ch02.prmSimpleMarkFibreCountWeightedShiftLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:28:24.990907+00:00
 -- url     : https://prove2.me/theorems/4433c648-a08a-4520-81d5-572c02f4ee79

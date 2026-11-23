@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AveragedKernelSums_R_le_perp
 -- name    : Formalism.FourierDecayAlt.P.AveragedKernelSums.R_le_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:06:55.149717+00:00
 -- url     : https://prove2.me/theorems/13e15f20-4b29-4b76-8203-384fbc80992e

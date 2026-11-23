@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_omegaF_eq
 -- name    : Formalism.ELL.FormalGroupCubeJets.omegaF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:31.755244+00:00
 -- url     : https://prove2.me/theorems/857a1bc1-47d2-4e8a-b657-00efb8da9db1

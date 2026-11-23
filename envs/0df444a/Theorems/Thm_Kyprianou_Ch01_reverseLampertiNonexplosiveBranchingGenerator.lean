@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNonexplosiveBranchingGenerator
 -- name    : Kyprianou.Ch01.reverseLampertiNonexplosiveBranchingGenerator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T20:40:06.235832+00:00
 -- url     : https://prove2.me/theorems/0ebe561e-7e7e-4e54-94dc-0b50c520c91e

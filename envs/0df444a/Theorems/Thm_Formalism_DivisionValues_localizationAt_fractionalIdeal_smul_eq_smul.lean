@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_localizationAt_fractionalIdeal_smul_eq_smul
 -- name    : Formalism.DivisionValues.localizationAt_fractionalIdeal_smul_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:37.567804+00:00
 -- url     : https://prove2.me/theorems/b5530bbc-1eb5-4b32-8cfe-434cc9e7e569

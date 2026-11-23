@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_DeuringModel_exists_root_deuring
 -- name    : Formalism.ELL.DeuringModel.exists_root_deuring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:43.773499+00:00
 -- url     : https://prove2.me/theorems/b043df8f-1b4c-4884-83bd-94bff3e5748d

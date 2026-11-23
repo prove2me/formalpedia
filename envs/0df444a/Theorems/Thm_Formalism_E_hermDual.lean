@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_E_hermDual
 -- name    : Formalism.E.hermDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:27.676004+00:00
 -- url     : https://prove2.me/theorems/e8dcedf4-4a6b-4fb7-b75d-2f62485990d8

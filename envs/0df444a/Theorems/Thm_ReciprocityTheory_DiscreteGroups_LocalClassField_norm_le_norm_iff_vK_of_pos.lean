@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_norm_le_norm_iff_vK_of_pos
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.norm_le_norm_iff_vK_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:04.106767+00:00
 -- url     : https://prove2.me/theorems/1fed8d3e-4875-419b-bd99-6a076007478c

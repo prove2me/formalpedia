@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_edwardsPoint_add_affineNiels
 -- name    : X25519Dalek.fnOk_edwardsPoint_add_affineNiels
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T21:43:28.050951+00:00
 -- url     : https://prove2.me/theorems/85d4e72c-205a-4efa-8692-461bcc886f31

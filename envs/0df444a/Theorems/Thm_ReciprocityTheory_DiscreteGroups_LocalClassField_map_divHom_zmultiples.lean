@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_map_divHom_zmultiples
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.map_divHom_zmultiples
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:10.038424+00:00
 -- url     : https://prove2.me/theorems/29884882-2046-4c77-b742-e800cfa003e0

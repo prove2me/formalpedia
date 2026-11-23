@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_finiteRegionPoissonIntegralStationaryIncrementsNNRealV2
 -- name    : Kyprianou.Ch02.finiteRegionPoissonIntegralStationaryIncrementsNNRealV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:07:31.125505+00:00
 -- url     : https://prove2.me/theorems/74ccca72-f677-4eef-a1df-b36f15084de0

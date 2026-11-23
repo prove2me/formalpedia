@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_Vol_measure_subgroupMatrixSet_mul_card
 -- name    : Formalism.DoubleCosetMeasures.P.Vol.measure_subgroupMatrixSet_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:51:47.057878+00:00
 -- url     : https://prove2.me/theorems/52a8e36d-8ec9-4e90-831a-e9b1bf43ce4f

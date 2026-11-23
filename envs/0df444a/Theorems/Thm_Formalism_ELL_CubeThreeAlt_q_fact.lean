@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeThreeAlt_q_fact
 -- name    : Formalism.ELL.CubeThreeAlt.q_fact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:45.303459+00:00
 -- url     : https://prove2.me/theorems/1a66d192-3a79-44a1-8faf-0dcf9a2e464c

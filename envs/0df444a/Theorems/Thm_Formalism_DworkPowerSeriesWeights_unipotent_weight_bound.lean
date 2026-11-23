@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_unipotent_weight_bound
 -- name    : Formalism.DworkPowerSeriesWeights.unipotent_weight_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:34.362253+00:00
 -- url     : https://prove2.me/theorems/fb38f645-1f48-4e2e-b65e-ce26e37cc718

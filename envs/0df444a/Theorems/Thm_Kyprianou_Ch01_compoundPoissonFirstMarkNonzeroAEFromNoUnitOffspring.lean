@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_compoundPoissonFirstMarkNonzeroAEFromNoUnitOffspring
 -- name    : Kyprianou.Ch01.compoundPoissonFirstMarkNonzeroAEFromNoUnitOffspring
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:09:34.350684+00:00
 -- url     : https://prove2.me/theorems/62276a2d-d226-4ce9-9141-e918b70e623d

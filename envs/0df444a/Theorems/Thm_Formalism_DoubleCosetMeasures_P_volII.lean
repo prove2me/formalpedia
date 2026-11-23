@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_volII
 -- name    : Formalism.DoubleCosetMeasures.P.volII
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:56:01.960513+00:00
 -- url     : https://prove2.me/theorems/34dff9d4-8d69-45e0-b4b6-8c709be88d31

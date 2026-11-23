@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_edwardsPoint_to_montgomery
 -- name    : X25519Dalek.fnOk_edwardsPoint_to_montgomery
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T22:17:52.727804+00:00
 -- url     : https://prove2.me/theorems/202c5c0d-e458-4506-b295-9ebc19b4701b

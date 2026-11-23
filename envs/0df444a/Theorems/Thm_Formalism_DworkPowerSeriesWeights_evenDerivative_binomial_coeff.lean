@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_evenDerivative_binomial_coeff
 -- name    : Formalism.DworkPowerSeriesWeights.evenDerivative_binomial_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:57:35.568497+00:00
 -- url     : https://prove2.me/theorems/347d917b-7643-4cac-bc94-747e37a59fb0

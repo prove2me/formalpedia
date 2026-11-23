@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassCoordinateSubstitution_xOf_ne_of_hom
 -- name    : Formalism.ELL.WeierstrassCoordinateSubstitution.xOf_ne_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:13:28.157154+00:00
 -- url     : https://prove2.me/theorems/7d2ea659-c754-4769-a2fe-c36e88000d8f

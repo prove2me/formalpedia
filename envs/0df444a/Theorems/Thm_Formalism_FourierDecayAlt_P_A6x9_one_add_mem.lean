@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x9_one_add_mem
 -- name    : Formalism.FourierDecayAlt.P.A6x9.one_add_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:06:48.978804+00:00
 -- url     : https://prove2.me/theorems/d0658079-f899-4178-b673-bb9e15358a2e

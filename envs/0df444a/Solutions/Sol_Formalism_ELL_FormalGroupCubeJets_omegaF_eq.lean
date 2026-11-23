@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for Formalism.ELL.FormalGroupCubeJets.omegaF_eq
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T18:10:22.306935+00:00
+-- url     : https://prove2.me/submissions/ce0d88d4-03ae-472e-bc46-d2c8c7a9ca86
+
+import Mathlib
+import Definitions.Def_Formalism_EllipticTorsion_JetsCube
+import Definitions.Def_Formalism_FormalGroupLog_LogDeterminesLaw
+import Definitions.Def_Formalism_EllipticTorsion_EllipticTorsionProofs_JetsCube
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PowerSeries
+universe u
+noncomputable section
+open Formalism Formalism.ELL Formalism.ELL.FormalGroupCubeJets
+open MvPowerSeries Formalism.G Formalism.G.LogCR Formalism.G.LogP
+variable {K : Type u} [NormedField K] [IsUltrametricDist K] [CharZero K]
+variable (F : FormalGroup (unitBall K))
+namespace Formalism.ELL.FormalGroupCubeJets
+theorem _root_.solution : omegaF F = Formalism.G.LogP.omegaF (FK F) := rfl
+end Formalism.ELL.FormalGroupCubeJets

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_spCore
 -- name    : Formalism.DworkPowerSeriesWeights.spCore
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:46.384735+00:00
 -- url     : https://prove2.me/theorems/f2f34ae5-a406-40e6-a9a8-2f9f1b2991e1

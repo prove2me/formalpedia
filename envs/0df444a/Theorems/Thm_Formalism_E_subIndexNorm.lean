@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_E_subIndexNorm
 -- name    : Formalism.E.subIndexNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:27.02995+00:00
 -- url     : https://prove2.me/theorems/3c8c9ebf-d87e-493d-a37f-a0fa15375fe4

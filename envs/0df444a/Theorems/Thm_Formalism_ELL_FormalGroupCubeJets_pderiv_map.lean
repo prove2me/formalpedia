@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_pderiv_map
 -- name    : Formalism.ELL.FormalGroupCubeJets.pderiv_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:51.069482+00:00
 -- url     : https://prove2.me/theorems/04556609-ac4c-47f3-ab5e-137e63d61c4c

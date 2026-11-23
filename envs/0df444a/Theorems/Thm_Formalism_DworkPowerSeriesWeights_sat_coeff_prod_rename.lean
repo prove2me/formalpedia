@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_sat_coeff_prod_rename
 -- name    : Formalism.DworkPowerSeriesWeights.sat_coeff_prod_rename
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:00:33.420986+00:00
 -- url     : https://prove2.me/theorems/cb1237f7-f99e-4762-bef5-eb22a0b1b53b

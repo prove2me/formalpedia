@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmSimpleMarkWindowMeasurableAndSameLawV1
 -- name    : Kyprianou.Ch02.prmSimpleMarkWindowMeasurableAndSameLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:53:02.159176+00:00
 -- url     : https://prove2.me/theorems/b51d11db-8cbf-4d4e-b699-9e01536c9363

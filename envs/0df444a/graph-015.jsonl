@@ -31595,7 +31595,7 @@
 {"parent": "MaxWeightInstab_subcriticalRegion", "child": "MaxWeightInstab_IsSchedule", "via": ["statement"]}
 {"parent": "QseriesFormalization.Pending.JTPFormalPSMod7.partial_prod_mod7TripleFactorPS_coeff_stable", "child": "QseriesFormalization_Pending_JTP_FormalPS_Mod7", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P82.effective_canonical_representation", "child": "QAlgorithms_Papers_Independent_Intakenext100_P82", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_connected_edge_bound__p2m_4939bc54_bf93_4b2e_bbee_bc8378b5882a_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_connected_edge_bound__p2m_4939bc54_bf93_4b2e_bbee_bc8378b5882a_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "NoRegretLastIterate.eq_3_20", "child": "NoRegretLastIterate_Game", "via": ["statement"]}
 {"parent": "NoRegretLastIterate.eq_3_20", "child": "RankOneBimatrix_BinSearch_Game", "via": ["statement"]}
 {"parent": "NoRegretLastIterate.eq_3_20", "child": "NoRegretLastIterate_MeanBased", "via": ["statement"]}

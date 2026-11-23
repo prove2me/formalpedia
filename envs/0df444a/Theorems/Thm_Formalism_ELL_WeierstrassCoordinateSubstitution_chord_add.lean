@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassCoordinateSubstitution_chord_add
 -- name    : Formalism.ELL.WeierstrassCoordinateSubstitution.chord_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:13.557175+00:00
 -- url     : https://prove2.me/theorems/4ba64fcc-5ad6-4cbc-b053-d5705fd8e4c2

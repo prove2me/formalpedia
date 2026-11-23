@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_DeuringModel_norm_add_eq_left
 -- name    : Formalism.ELL.DeuringModel.norm_add_eq_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:22.025953+00:00
 -- url     : https://prove2.me/theorems/4089ab6e-de47-4419-99fd-f9befe630da6

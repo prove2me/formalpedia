@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shiftEx
 -- name    : Formalism.DivisionValues.shiftEx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:01.655196+00:00
 -- url     : https://prove2.me/theorems/fa73b963-0a3c-409e-ab62-fd158e31330c

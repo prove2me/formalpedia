@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_exponential_weight_le
 -- name    : Formalism.DworkPowerSeriesWeights.exponential_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:09:20.229498+00:00
 -- url     : https://prove2.me/theorems/1a4d18c9-e770-4ce8-b4fd-4d59ebc7add7

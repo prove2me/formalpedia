@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiTwoEventReturnUpperBound
 -- name    : Kyprianou.Ch01.reverseLampertiTwoEventReturnUpperBound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:14:01.758836+00:00
 -- url     : https://prove2.me/theorems/00d9b390-e08c-46c5-9a90-0d2e03dd72fc

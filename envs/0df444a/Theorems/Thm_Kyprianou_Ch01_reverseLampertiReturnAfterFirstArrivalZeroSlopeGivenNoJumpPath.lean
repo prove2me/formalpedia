@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiReturnAfterFirstArrivalZeroSlopeGivenNoJumpPath
 -- name    : Kyprianou.Ch01.reverseLampertiReturnAfterFirstArrivalZeroSlopeGivenNoJumpPath
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:00:04.10753+00:00
 -- url     : https://prove2.me/theorems/2cccaff4-2206-445b-89b0-dad3825b6dcc

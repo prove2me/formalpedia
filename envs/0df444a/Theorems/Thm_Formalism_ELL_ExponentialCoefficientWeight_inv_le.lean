@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_ExponentialCoefficientWeight_inv_le
 -- name    : Formalism.ELL.ExponentialCoefficientWeight.inv_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:24.971866+00:00
 -- url     : https://prove2.me/theorems/6c4fc180-d907-4c56-b600-55a325437db1

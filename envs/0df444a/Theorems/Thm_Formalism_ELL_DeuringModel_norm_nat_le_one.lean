@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_DeuringModel_norm_nat_le_one
 -- name    : Formalism.ELL.DeuringModel.norm_nat_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:07.732949+00:00
 -- url     : https://prove2.me/theorems/1d39a372-a52b-467a-8ab0-b3852ffeaf20

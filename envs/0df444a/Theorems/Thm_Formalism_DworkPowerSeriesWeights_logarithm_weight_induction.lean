@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_logarithm_weight_induction
 -- name    : Formalism.DworkPowerSeriesWeights.logarithm_weight_induction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:59:01.264584+00:00
 -- url     : https://prove2.me/theorems/198eb229-3e76-4731-9f64-004c80a6e879

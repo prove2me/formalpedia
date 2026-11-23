@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeThreeAlt_G_sub
 -- name    : Formalism.ELL.CubeThreeAlt.G_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:50.831982+00:00
 -- url     : https://prove2.me/theorems/06f2904f-56a0-421f-bd65-7473cd7bc95d

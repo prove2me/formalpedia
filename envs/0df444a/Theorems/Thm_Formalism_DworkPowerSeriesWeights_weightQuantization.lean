@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_weightQuantization
 -- name    : Formalism.DworkPowerSeriesWeights.weightQuantization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:10.620651+00:00
 -- url     : https://prove2.me/theorems/afd90717-14bf-48d7-bd94-e7335e721029

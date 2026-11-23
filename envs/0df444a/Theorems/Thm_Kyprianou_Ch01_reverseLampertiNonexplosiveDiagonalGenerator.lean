@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNonexplosiveDiagonalGenerator
 -- name    : Kyprianou.Ch01.reverseLampertiNonexplosiveDiagonalGenerator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T23:35:57.70017+00:00
 -- url     : https://prove2.me/theorems/babae1ca-9bbe-4f6f-9551-2bca9ae89fb0

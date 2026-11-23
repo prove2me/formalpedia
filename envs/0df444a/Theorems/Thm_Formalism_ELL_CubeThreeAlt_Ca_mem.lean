@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeThreeAlt_Ca_mem
 -- name    : Formalism.ELL.CubeThreeAlt.Ca_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:28.544114+00:00
 -- url     : https://prove2.me/theorems/8c2bca27-9e23-44a1-984e-3dbaf9234623

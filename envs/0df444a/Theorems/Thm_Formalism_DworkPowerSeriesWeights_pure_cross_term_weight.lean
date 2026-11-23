@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_pure_cross_term_weight
 -- name    : Formalism.DworkPowerSeriesWeights.pure_cross_term_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:59:23.549619+00:00
 -- url     : https://prove2.me/theorems/c512c698-3051-4c83-9872-57be59bb6387

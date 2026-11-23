@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_shape_minor_mem
 -- name    : Formalism.DworkPowerSeriesWeights.shape_minor_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:35.021463+00:00
 -- url     : https://prove2.me/theorems/c6bef042-a87c-46ba-8691-4bda4e18f554

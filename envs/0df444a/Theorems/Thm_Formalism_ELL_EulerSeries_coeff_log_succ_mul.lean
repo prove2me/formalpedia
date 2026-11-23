@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_EulerSeries_coeff_log_succ_mul
 -- name    : Formalism.ELL.EulerSeries.coeff_log_succ_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:14.354795+00:00
 -- url     : https://prove2.me/theorems/dbd562e2-b54e-4d1d-9243-e63509643278

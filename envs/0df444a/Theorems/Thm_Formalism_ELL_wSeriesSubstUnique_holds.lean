@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_wSeriesSubstUnique_holds
 -- name    : Formalism.ELL.wSeriesSubstUnique_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:16:10.222787+00:00
 -- url     : https://prove2.me/theorems/6327cb19-952f-437c-9463-adb1b7738080

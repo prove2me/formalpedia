@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_phaseWellDef
 -- name    : Formalism.DoubleCosetMeasures.P.phaseWellDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:28:06.371602+00:00
 -- url     : https://prove2.me/theorems/06d1f1cc-1969-4fde-8b6d-a269effd2d23

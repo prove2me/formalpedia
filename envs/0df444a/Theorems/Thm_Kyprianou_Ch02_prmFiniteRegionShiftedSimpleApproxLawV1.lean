@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionShiftedSimpleApproxLawV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionShiftedSimpleApproxLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:42:11.593803+00:00
 -- url     : https://prove2.me/theorems/cd0c85a8-2183-40da-94fc-4c181c840ba6

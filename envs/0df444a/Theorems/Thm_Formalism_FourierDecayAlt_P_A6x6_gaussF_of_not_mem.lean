@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x6_gaussF_of_not_mem
 -- name    : Formalism.FourierDecayAlt.P.A6x6.gaussF_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:06:39.711029+00:00
 -- url     : https://prove2.me/theorems/5a6a3427-5386-4c27-a7a2-4bf380a39c51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionStationaryIncrementsV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionStationaryIncrementsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T08:56:00.336486+00:00
 -- url     : https://prove2.me/theorems/84c870a3-a119-4157-bcce-28687c1f8ac4

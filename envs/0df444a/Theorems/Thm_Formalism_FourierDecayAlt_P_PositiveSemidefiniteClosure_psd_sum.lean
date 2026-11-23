@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PositiveSemidefiniteClosure_psd_sum
 -- name    : Formalism.FourierDecayAlt.P.PositiveSemidefiniteClosure.psd_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:10.791297+00:00
 -- url     : https://prove2.me/theorems/7c346c41-3ec9-463a-82e0-e8d495149439

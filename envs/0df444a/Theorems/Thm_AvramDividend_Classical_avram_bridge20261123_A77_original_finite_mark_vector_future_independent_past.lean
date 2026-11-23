@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bridge20261123_A77_original_finite_mark_vector_future_independent_past
 -- name    : AvramDividend.Classical.avram_bridge20261123_A77_original_finite_mark_vector_future_independent_past
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:09:32.807895+00:00
 -- url     : https://prove2.me/theorems/da95ae77-492c-4a18-bfab-fa9653ee46c8

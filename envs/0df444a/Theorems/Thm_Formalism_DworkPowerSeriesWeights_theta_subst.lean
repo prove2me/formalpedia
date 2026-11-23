@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_theta_subst
 -- name    : Formalism.DworkPowerSeriesWeights.theta_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:00.304127+00:00
 -- url     : https://prove2.me/theorems/d4297b7b-3891-433b-baa4-7ecef17897eb

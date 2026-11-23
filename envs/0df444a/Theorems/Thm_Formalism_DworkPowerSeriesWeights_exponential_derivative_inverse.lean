@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_exponential_derivative_inverse
 -- name    : Formalism.DworkPowerSeriesWeights.exponential_derivative_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:57:49.360662+00:00
 -- url     : https://prove2.me/theorems/22cb2799-5bd6-43ca-852e-9293f7727f3b

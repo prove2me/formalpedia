@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_sum_invOn_insert
 -- name    : Formalism.DworkPowerSeriesWeights.sum_invOn_insert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:22.075299+00:00
 -- url     : https://prove2.me/theorems/c72a716b-d5d4-4b5e-8149-06b36decdca7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_MultiIrr_smInd_stages
 -- name    : GlobalTheory.SmGL.MultiIrr.smInd_stages
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:37:03.906932+00:00
 -- url     : https://prove2.me/theorems/2f6a8b16-bd8e-40ad-8ef9-547b2330e353

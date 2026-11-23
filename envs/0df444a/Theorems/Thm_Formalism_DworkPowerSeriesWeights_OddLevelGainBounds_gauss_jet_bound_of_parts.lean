@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_OddLevelGainBounds_gauss_jet_bound_of_parts
 -- name    : Formalism.DworkPowerSeriesWeights.OddLevelGainBounds.gauss_jet_bound_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:52:50.353488+00:00
 -- url     : https://prove2.me/theorems/b044203d-888c-413b-859a-7474a09dfbcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_compoundPoissonDriverJointInfinitePiLaw
 -- name    : Kyprianou.Ch01.compoundPoissonDriverJointInfinitePiLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:09:37.534072+00:00
 -- url     : https://prove2.me/theorems/c0ea4643-f132-4748-a90d-b65b9d75fc83

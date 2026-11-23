@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_divHom_injective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.divHom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:42.756001+00:00
 -- url     : https://prove2.me/theorems/654716fd-0ce2-4515-9b7b-df8a082a0f77

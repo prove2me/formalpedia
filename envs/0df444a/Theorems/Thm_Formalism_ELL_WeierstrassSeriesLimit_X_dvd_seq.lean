@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassSeriesLimit_X_dvd_seq
 -- name    : Formalism.ELL.WeierstrassSeriesLimit.X_dvd_seq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:01:42.854356+00:00
 -- url     : https://prove2.me/theorems/f7a76b72-d37e-4495-858b-50302731df40

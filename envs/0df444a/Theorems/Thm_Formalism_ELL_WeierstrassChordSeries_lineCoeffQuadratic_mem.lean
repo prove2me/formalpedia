@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassChordSeries_lineCoeffQuadratic_mem
 -- name    : Formalism.ELL.WeierstrassChordSeries.lineCoeffQuadratic_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:12:24.798794+00:00
 -- url     : https://prove2.me/theorems/bf38df08-a74f-4644-aefa-d877d5a8bab2

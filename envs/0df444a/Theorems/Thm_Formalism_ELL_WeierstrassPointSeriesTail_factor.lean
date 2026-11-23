@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassPointSeriesTail_factor
 -- name    : Formalism.ELL.WeierstrassPointSeriesTail.factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:15:11.903862+00:00
 -- url     : https://prove2.me/theorems/c70e269b-0478-4b47-9cc4-2697b3ca26f5

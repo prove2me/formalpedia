@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiReturnRequiresSecondArrivalAE
 -- name    : Kyprianou.Ch01.reverseLampertiReturnRequiresSecondArrivalAE
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T17:29:42.924264+00:00
 -- url     : https://prove2.me/theorems/ad0722c8-49bc-455b-8009-e29068443a9c

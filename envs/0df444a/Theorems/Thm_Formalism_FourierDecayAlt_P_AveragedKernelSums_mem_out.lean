@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AveragedKernelSums_mem_out
 -- name    : Formalism.FourierDecayAlt.P.AveragedKernelSums.mem_out
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:14.638421+00:00
 -- url     : https://prove2.me/theorems/6ffeb52b-82de-40c4-8bca-3faac51c6927

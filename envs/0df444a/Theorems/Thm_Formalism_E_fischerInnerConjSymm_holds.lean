@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_E_fischerInnerConjSymm_holds
 -- name    : Formalism.E.fischerInnerConjSymm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:23.094823+00:00
 -- url     : https://prove2.me/theorems/7955f5d5-3d06-4688-91fc-704ca73da42d

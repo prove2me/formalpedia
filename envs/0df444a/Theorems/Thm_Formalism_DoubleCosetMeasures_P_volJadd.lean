@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_volJadd
 -- name    : Formalism.DoubleCosetMeasures.P.volJadd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:56:09.396882+00:00
 -- url     : https://prove2.me/theorems/fc71557b-439b-4ac8-ba2d-8b50c79daa00

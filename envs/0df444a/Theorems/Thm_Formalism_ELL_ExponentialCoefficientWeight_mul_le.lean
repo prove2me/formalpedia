@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_ExponentialCoefficientWeight_mul_le
 -- name    : Formalism.ELL.ExponentialCoefficientWeight.mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:16.609429+00:00
 -- url     : https://prove2.me/theorems/0639e832-42c1-494b-a55d-ba2c6abe5149

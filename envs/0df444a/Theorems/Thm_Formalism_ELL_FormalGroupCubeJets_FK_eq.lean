@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_FK_eq
 -- name    : Formalism.ELL.FormalGroupCubeJets.FK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:27.249688+00:00
 -- url     : https://prove2.me/theorems/53699286-9ecc-4f8b-ac8d-a4bb4a14e98b

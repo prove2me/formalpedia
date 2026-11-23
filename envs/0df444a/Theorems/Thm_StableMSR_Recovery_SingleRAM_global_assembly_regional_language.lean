@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleRAM_global_assembly_regional_language
 -- name    : StableMSR.Recovery.SingleRAM.global_assembly_regional_language
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:24:40.430853+00:00
 -- url     : https://prove2.me/theorems/c68e2110-33a3-4869-917b-2e92176128ed

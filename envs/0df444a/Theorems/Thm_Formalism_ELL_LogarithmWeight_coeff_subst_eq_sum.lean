@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_LogarithmWeight_coeff_subst_eq_sum
 -- name    : Formalism.ELL.LogarithmWeight.coeff_subst_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:00:49.44482+00:00
 -- url     : https://prove2.me/theorems/407bb8a5-d3bf-4554-9f96-1b56892aa8b5

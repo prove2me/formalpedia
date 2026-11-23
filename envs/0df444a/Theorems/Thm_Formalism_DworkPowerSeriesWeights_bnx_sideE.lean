@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_bnx_sideE
 -- name    : Formalism.DworkPowerSeriesWeights.bnx_sideE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:54:29.500723+00:00
 -- url     : https://prove2.me/theorems/0b31cf68-a747-4593-b682-76cd2dbcdd30

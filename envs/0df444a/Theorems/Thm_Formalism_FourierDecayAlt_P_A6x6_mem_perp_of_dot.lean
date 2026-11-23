@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x6_mem_perp_of_dot
 -- name    : Formalism.FourierDecayAlt.P.A6x6.mem_perp_of_dot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:06:23.644874+00:00
 -- url     : https://prove2.me/theorems/2f90df36-6819-4926-bdad-4390fba40b56

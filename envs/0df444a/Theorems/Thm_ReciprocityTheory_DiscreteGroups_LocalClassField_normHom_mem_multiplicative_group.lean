@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_normHom_mem_multiplicative_group
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.normHom_mem_multiplicative_group
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:59:00.014155+00:00
 -- url     : https://prove2.me/theorems/a940d972-e9d4-4fa8-ad81-c1df4aa38e3c

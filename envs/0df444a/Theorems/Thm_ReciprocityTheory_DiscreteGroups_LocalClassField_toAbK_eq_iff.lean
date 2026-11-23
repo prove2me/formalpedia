@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_toAbK_eq_iff
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.toAbK_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:13.699528+00:00
 -- url     : https://prove2.me/theorems/a9ae9c45-2d58-4e52-89e6-54c0fd5f26c9
