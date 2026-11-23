@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLaw_measure_Icc_toReal_eq_integral_density
 -- name    : SumProduct.cubeSumLaw_measure_Icc_toReal_eq_integral_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:55:26.101566+00:00
 -- url     : https://prove2.me/theorems/0fa71e59-d82c-443b-9220-8936e6ea1c7e

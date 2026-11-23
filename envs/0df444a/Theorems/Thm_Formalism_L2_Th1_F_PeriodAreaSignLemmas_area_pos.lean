@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodAreaSignLemmas_area_pos
 -- name    : Formalism.L2.Th1.F.PeriodAreaSignLemmas.area_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:43:02.462565+00:00
 -- url     : https://prove2.me/theorems/a23b0508-9485-4218-90be-1ff83f6fb6a2

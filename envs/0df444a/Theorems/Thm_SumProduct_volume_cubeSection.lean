@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_volume_cubeSection
 -- name    : SumProduct.volume_cubeSection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:51:56.60311+00:00
 -- url     : https://prove2.me/theorems/6bb5b9fe-7777-4d82-ad3e-8c00f5c94ba7

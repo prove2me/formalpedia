@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_coneMellin_idealThetaKernel_eq_mellin
 -- name    : DedekindZeta.ConeRadialReduction.coneMellin_idealThetaKernel_eq_mellin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:40.823799+00:00
 -- url     : https://prove2.me/theorems/2af6156f-6187-4381-8358-2107e15f6d49

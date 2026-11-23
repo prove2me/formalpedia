@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLawSuccDensity_zero
 -- name    : SumProduct.cubeSumLawSuccDensity_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:54:46.461844+00:00
 -- url     : https://prove2.me/theorems/438d4a03-3fed-4453-a19a-1709a456df76

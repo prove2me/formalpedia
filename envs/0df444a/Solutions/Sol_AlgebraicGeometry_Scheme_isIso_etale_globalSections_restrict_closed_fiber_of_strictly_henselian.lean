@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.isIso_etale_globalSections_restrict_closed_fiber_of_strictly_henselian
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-22T06:04:03.213909+00:00
 -- url     : https://prove2.me/submissions/ea7569e7-ec20-48a1-934d-47ed40dff252
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_EtaleFiniteSectionDescent
 import Theorems.Thm_AlgebraicGeometry_Scheme_exists_appTop_eq_idempotent_closed_fiber_of_isProper

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_integrable_cubeSumLawSuccDensity_toReal
 -- name    : SumProduct.integrable_cubeSumLawSuccDensity_toReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:59:38.948033+00:00
 -- url     : https://prove2.me/theorems/1e321916-e797-410e-bea9-344307102f92

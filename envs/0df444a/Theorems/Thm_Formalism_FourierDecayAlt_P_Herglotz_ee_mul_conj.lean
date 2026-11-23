@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Herglotz_ee_mul_conj
 -- name    : Formalism.FourierDecayAlt.P.Herglotz.ee_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:57:10.777737+00:00
 -- url     : https://prove2.me/theorems/c453eaf4-d061-4a1f-a59c-dc343f4da871

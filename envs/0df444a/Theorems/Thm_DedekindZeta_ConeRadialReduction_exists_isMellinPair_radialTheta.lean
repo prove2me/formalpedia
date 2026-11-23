@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_exists_isMellinPair_radialTheta
 -- name    : DedekindZeta.ConeRadialReduction.exists_isMellinPair_radialTheta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:33:27.921616+00:00
 -- url     : https://prove2.me/theorems/2656d819-ea0d-4c6c-91ea-11081267554d

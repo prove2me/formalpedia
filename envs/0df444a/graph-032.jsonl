@@ -51147,15 +51147,15 @@
 {"parent": "BulowKlemperer429.Bundling.Supplement.lemma_5_2", "child": "BulowKlemperer429_Bundling_Supplement_Seeds", "via": ["statement"]}
 {"parent": "BulowKlemperer429.Bundling.Supplement.lemma_5_2", "child": "BulowKlemperer429_Bundling_Revenue", "via": ["statement"]}
 {"parent": "RPLib_S4_EtShClosed", "child": "RPLib_S4_EtShLshFF", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_rho", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_regBasis", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_gatesRev", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_height", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_IsFp", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_gridVec", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_memOracle", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_rho", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_regBasis", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_height", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_IsFp", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_gridVec", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.theorem_3_2_nonnegative", "child": "QuantumLTF_Membership_memOracle", "via": ["solution", "statement"]}
 {"parent": "MetricSelfDualCompletion_Completion_Supplement_Metrics", "child": "MetricSelfDualCompletion_Completion_Encoding", "via": ["statement"]}
 {"parent": "MetricSelfDualCompletion_Completion_Supplement_Metrics", "child": "MetricSelfDualCompletion_Completion_Codes", "via": ["statement"]}
 {"parent": "MTWalkSAT3CNF.TwoOcc.Supplement.proposition_6_9", "child": "MTWalkSAT3CNF_TwoOcc_Supplement_Expander", "via": ["statement"]}

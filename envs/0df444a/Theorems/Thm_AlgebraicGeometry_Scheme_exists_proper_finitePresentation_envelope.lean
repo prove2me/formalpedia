@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_proper_finitePresentation_envelope
 -- name    : AlgebraicGeometry.Scheme.exists_proper_finitePresentation_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-22T07:13:14.260597+00:00
 -- url     : https://prove2.me/theorems/a24612b8-52e6-4ba0-8451-4a86113a4f2e

@@ -46374,10 +46374,10 @@
 {"parent": "SkipListConc.lemma_4_12", "child": "SkipListConc_Wlev", "via": ["statement"]}
 {"parent": "SkipListConc.lemma_4_12", "child": "SkipListConc_Mp", "via": ["statement"]}
 {"parent": "BrickworkPorterThomas.Convergence.inverse_moment", "child": "BrickworkPorterThomas_Convergence_Circuit", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_12", "child": "ManipPotential_ell", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_12", "child": "ManipPotential_unitVec", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_12", "child": "ManipPotential_GAxioms", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_12", "child": "ManipPotential_Cmp", "via": ["statement"]}
+{"parent": "ManipPotential.proposition_6_12", "child": "ManipPotential_ell", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_12", "child": "ManipPotential_unitVec", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_12", "child": "ManipPotential_GAxioms", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_12", "child": "ManipPotential_Cmp", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.mpower0_17_contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.mpower0_17_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.mpower0_17_contains_g", "child": "OAIQ098G1643", "via": ["solution", "statement"]}

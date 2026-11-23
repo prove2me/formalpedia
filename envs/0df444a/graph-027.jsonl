@@ -44598,8 +44598,8 @@
 {"parent": "OAI.CubicEisenstein.quotientTrace_mk_product", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspAverage", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.quotientTrace_mk_product", "child": "OAI_NumberTheory_DirichletL_Eisenstein_BesselMellinTransform", "via": ["solution", "statement"]}
 {"parent": "BetterKMedian_LMPGreedy_AppendixA", "child": "BetterKMedian_LMPGreedy_Algorithm1", "via": ["statement"]}
-{"parent": "PosIndexNash.PPADS.theorem_1_1", "child": "PosIndexNash_PPADS_PositiveIndexNash", "via": ["statement"]}
-{"parent": "PosIndexNash.PPADS.theorem_1_1", "child": "PosIndexNash_PPADS_PPADSClass", "via": ["statement"]}
+{"parent": "PosIndexNash.PPADS.theorem_1_1", "child": "PosIndexNash_PPADS_PositiveIndexNash", "via": ["solution", "statement"]}
+{"parent": "PosIndexNash.PPADS.theorem_1_1", "child": "PosIndexNash_PPADS_PPADSClass", "via": ["solution", "statement"]}
 {"parent": "OAIQ232A002", "child": "BiholderTransport", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_ja18q_original_largejump_Campbell_lintegral_le", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ja18q_original_largejump_Campbell_lintegral_le", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_large_jump_sum", "via": ["solution", "statement"]}
@@ -48742,7 +48742,7 @@
 {"parent": "PermanentStars.Counting.theorem_1_1", "child": "PermanentStars_Counting_Execution", "via": ["statement"]}
 {"parent": "OAI.Problem367.IsingCopyResponseRowPaths.copies_rows_summable_ae", "child": "FreeIsing", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem367.IsingCopyResponseRowPaths.copies_rows_summable_ae", "child": "Q243FI004", "via": ["statement"]}
-{"parent": "ExactDFTRefine.Main.eq_8_9", "child": "ExactDFTRefine_Main_Moments", "via": ["statement"]}
+{"parent": "ExactDFTRefine.Main.eq_8_9", "child": "ExactDFTRefine_Main_Moments", "via": ["solution", "statement"]}
 {"parent": "OAI.RieszRectifiability.normal_frame_source_data_on_ball", "child": "RieszQuantitative", "via": ["solution", "statement"]}
 {"parent": "OAI.RieszRectifiability.normal_frame_source_data_on_ball", "child": "OAIQ231Rr000", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.canonicalCutoff_ratio", "child": "OAI_NumberTheory_DirichletL_MeanSquare_UnitRows", "via": ["solution", "statement"]}
@@ -53145,7 +53145,7 @@
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_18_7_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_18_7_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "ReLUSynth_Boolean_Blocker", "child": "ReLUSynth_Boolean_Synthesis", "via": ["statement"]}
-{"parent": "ExactDFTRefine.Main.proposition_3_2", "child": "ExactDFTRefine_Main_Moments", "via": ["statement"]}
+{"parent": "ExactDFTRefine.Main.proposition_3_2", "child": "ExactDFTRefine_Main_Moments", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXFiniteBlockTransport.first_edge_cancellation_support_strict", "child": "QEC_Coding_FiniteAlternatingConstruction_RXFiniteBlockTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXFiniteBlockTransport.first_edge_cancellation_support_strict", "child": "QEC_Coding_FiniteAlternatingConstruction_RXXStarTransport", "via": ["solution", "statement"]}
 {"parent": "CaiFourierSparse.Learning.lemma_5_5", "child": "CaiFourierSparse_Learning_SparseFFT", "via": ["statement"]}
@@ -54597,11 +54597,11 @@
 {"parent": "IntegerRootsFN.Main.lemma_A_1", "child": "IntegerRootsFN_Main_PolynomialData", "via": ["statement"]}
 {"parent": "TrapdoorHCF_CCA2_Games", "child": "TrapdoorHCF_CCA2_TDHF", "via": ["statement"]}
 {"parent": "ArbLindbladLearn_bellVec", "child": "LindbladTolerant_Testing_lindblad_model", "via": ["statement"]}
-{"parent": "ZeroFreeRRG.Hardcore.lemma_4_21", "child": "ZeroFreeRRG_Hardcore_Moments", "via": ["statement"]}
-{"parent": "ZeroFreeRRG.Hardcore.lemma_4_21", "child": "ZeroFreeRRG_Hardcore_ConfigModel", "via": ["statement"]}
-{"parent": "ZeroFreeRRG.Hardcore.lemma_4_21", "child": "AFIsingKS_Matching", "via": ["statement"]}
-{"parent": "ZeroFreeRRG.Hardcore.lemma_4_21", "child": "ZeroFreeRRG_Hardcore_Kernels", "via": ["statement"]}
-{"parent": "ZeroFreeRRG.Hardcore.lemma_4_21", "child": "ZeroFreeRRG_Hardcore_BetheFunctional", "via": ["statement"]}
+{"parent": "ZeroFreeRRG.Hardcore.lemma_4_21", "child": "ZeroFreeRRG_Hardcore_Moments", "via": ["solution", "statement"]}
+{"parent": "ZeroFreeRRG.Hardcore.lemma_4_21", "child": "ZeroFreeRRG_Hardcore_ConfigModel", "via": ["solution", "statement"]}
+{"parent": "ZeroFreeRRG.Hardcore.lemma_4_21", "child": "AFIsingKS_Matching", "via": ["solution", "statement"]}
+{"parent": "ZeroFreeRRG.Hardcore.lemma_4_21", "child": "ZeroFreeRRG_Hardcore_Kernels", "via": ["solution", "statement"]}
+{"parent": "ZeroFreeRRG.Hardcore.lemma_4_21", "child": "ZeroFreeRRG_Hardcore_BetheFunctional", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.selected_column_sum", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ReopenedFibers", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.selected_column_sum", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CompactEnergyFamilies", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.selected_column_sum", "child": "OAI_NumberTheory_DirichletL_Eisenstein_VariationalLaplacian", "via": ["solution", "statement"]}
@@ -59773,7 +59773,7 @@
 {"parent": "QEC.Coding.BDL26TransposedStoppedDecoder.dualBaseDecode_local", "child": "QEC_Coding_FiniteAlternatingConstruction_TransposedStoppedDecoder_LocalSteps", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26TransposedStoppedDecoder.dualBaseDecode_local", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_Rows", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26TransposedStoppedDecoder.dualBaseDecode_local", "child": "QEC_Coding_FiniteAlternatingConstruction_TransposedStoppedDecoder_Base", "via": ["solution", "statement"]}
-{"parent": "DistributedMWC440.UpperBound.proposition_4_3", "child": "DistributedMWC440_UpperBound_Operations", "via": ["statement"]}
+{"parent": "DistributedMWC440.UpperBound.proposition_4_3", "child": "DistributedMWC440_UpperBound_Operations", "via": ["solution", "statement"]}
 {"parent": "CosetTreeSVP.SVP.lemma_3_1", "child": "RegevLWE_GaussConv_Lattice", "via": ["statement"]}
 {"parent": "CosetTreeSVP.SVP.lemma_3_1", "child": "SuperlatSVP_lat", "via": ["statement"]}
 {"parent": "CosetTreeSVP.SVP.lemma_3_1", "child": "RegevLWE_Hyperplane_DiscreteGaussian", "via": ["statement"]}

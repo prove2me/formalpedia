@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLaw_succ_eq_conv
 -- name    : SumProduct.cubeSumLaw_succ_eq_conv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:53:37.782603+00:00
 -- url     : https://prove2.me/theorems/0d3148e5-3621-4483-b971-fe7cd85f2fef

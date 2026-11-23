@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_partialZetaPrefactor_ofReal
 -- name    : SumProduct.partialZetaPrefactor_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:00:57.923691+00:00
 -- url     : https://prove2.me/theorems/23129b1c-0845-48a1-9cf2-3cd98bc91449

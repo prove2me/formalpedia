@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_place_construction_le
 -- name    : SumProduct.place_construction_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:03:38.776569+00:00
 -- url     : https://prove2.me/theorems/f358722a-5232-422c-b387-0a8aa593528e

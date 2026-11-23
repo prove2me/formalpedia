@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormNormLemmas_F_pos_facts
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.F.pos_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:47:18.512905+00:00
 -- url     : https://prove2.me/theorems/9fd0a808-085e-4ab2-bb3c-acc23f208480

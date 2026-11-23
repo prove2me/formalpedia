@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.exists_separated_finitePresentation_envelope
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-22T09:38:48.593534+00:00
 -- url     : https://prove2.me/submissions/e698aee0-7907-455b-96e4-c5b82b8da683
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_ProperAffineBaseChangeModels
 import Mathlib.AlgebraicGeometry.AffineTransitionLimit

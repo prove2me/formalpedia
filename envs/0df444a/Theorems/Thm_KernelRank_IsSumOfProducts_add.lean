@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_IsSumOfProducts_add
 -- name    : KernelRank.IsSumOfProducts.add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:48:26.225411+00:00
 -- url     : https://prove2.me/theorems/05418e13-e75d-4879-a211-c26cf0ad2c86

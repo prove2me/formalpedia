@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Experiments_norm_replace_steps_le
 -- name    : Experiments.norm_replace_steps_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:48:53.690097+00:00
 -- url     : https://prove2.me/theorems/b7b8cdee-3a22-4a63-bb38-77f11e73bfa5

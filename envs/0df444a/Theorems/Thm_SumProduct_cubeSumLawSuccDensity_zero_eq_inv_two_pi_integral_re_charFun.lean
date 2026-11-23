@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLawSuccDensity_zero_eq_inv_two_pi_integral_re_charFun
 -- name    : SumProduct.cubeSumLawSuccDensity_zero_eq_inv_two_pi_integral_re_charFun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:56:36.11386+00:00
 -- url     : https://prove2.me/theorems/e6fd7d1d-dda1-4bef-9024-0996411a280a

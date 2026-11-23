@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx3_tyComplete
 -- name    : Formalism.FourierDecayAlt.P.Mx3.tyComplete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:05:33.824484+00:00
 -- url     : https://prove2.me/theorems/dbae442c-8209-42f0-ab83-a396dd2ea2bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_card_construction
 -- name    : SumProduct.card_construction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:03:47.366304+00:00
 -- url     : https://prove2.me/theorems/b3d39106-222d-4006-bf0d-7c06f03e1f8c

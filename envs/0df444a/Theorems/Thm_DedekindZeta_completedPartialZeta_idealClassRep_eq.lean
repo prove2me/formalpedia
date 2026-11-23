@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_completedPartialZeta_idealClassRep_eq
 -- name    : DedekindZeta.completedPartialZeta_idealClassRep_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:32.787797+00:00
 -- url     : https://prove2.me/theorems/8e3d1ae0-7e39-4f3a-90f3-73bcbbc0352d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistributedMWC440_UpperBound_proposition_4_3
 -- name    : DistributedMWC440.UpperBound.proposition_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T15:26:16.940826+00:00
 -- url     : https://prove2.me/theorems/61cc525c-a4d7-46e8-bb5d-8ecbc3269580

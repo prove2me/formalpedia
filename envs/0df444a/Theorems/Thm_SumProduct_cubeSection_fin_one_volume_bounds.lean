@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSection_fin_one_volume_bounds
 -- name    : SumProduct.cubeSection_fin_one_volume_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:57:01.018793+00:00
 -- url     : https://prove2.me/theorems/5c078f0f-c424-4759-bc07-98e3eaefac63

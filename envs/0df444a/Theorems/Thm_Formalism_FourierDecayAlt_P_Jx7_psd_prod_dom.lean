@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx7_psd_prod_dom
 -- name    : Formalism.FourierDecayAlt.P.Jx7.psd_prod_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:48:25.699243+00:00
 -- url     : https://prove2.me/theorems/e40d4e87-0646-4956-801b-aef60c5a915b

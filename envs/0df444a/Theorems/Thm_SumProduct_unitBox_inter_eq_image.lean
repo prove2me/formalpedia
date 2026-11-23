@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_unitBox_inter_eq_image
 -- name    : SumProduct.unitBox_inter_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:59:01.816637+00:00
 -- url     : https://prove2.me/theorems/328255d5-691a-43c0-b859-23921c2013ef

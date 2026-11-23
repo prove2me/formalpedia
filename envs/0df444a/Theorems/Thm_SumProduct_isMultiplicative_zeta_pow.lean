@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_isMultiplicative_zeta_pow
 -- name    : SumProduct.isMultiplicative_zeta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:00:00.755805+00:00
 -- url     : https://prove2.me/theorems/0d8376ec-a841-4b14-90e8-e54c402621ea

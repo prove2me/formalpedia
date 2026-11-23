@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_volume_convexBodyLT_const
 -- name    : SumProduct.volume_convexBodyLT_const
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:51:01.142943+00:00
 -- url     : https://prove2.me/theorems/28cec234-9889-40a5-91a3-77480055a302

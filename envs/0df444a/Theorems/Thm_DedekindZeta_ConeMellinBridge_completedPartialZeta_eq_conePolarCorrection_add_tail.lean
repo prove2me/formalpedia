@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeMellinBridge_completedPartialZeta_eq_conePolarCorrection_add_tail
 -- name    : DedekindZeta.ConeMellinBridge.completedPartialZeta_eq_conePolarCorrection_add_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:40:18.392845+00:00
 -- url     : https://prove2.me/theorems/b43970d6-e698-40b5-83c3-7702aa29444c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_count_encard_le
 -- name    : SumProduct.count_encard_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:51:04.762694+00:00
 -- url     : https://prove2.me/theorems/9d7453bd-cfee-42ff-9394-4f1a5d11e661

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G4_lowerUni_inv
 -- name    : Formalism.FourierDecayAlt.P.G4.lowerUni_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:39:49.224809+00:00
 -- url     : https://prove2.me/theorems/41beca37-4b5b-49c6-b700-6283de3b09bd

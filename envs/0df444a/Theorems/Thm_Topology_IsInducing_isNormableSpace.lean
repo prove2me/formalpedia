@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Topology_IsInducing_isNormableSpace
 -- name    : Topology.IsInducing.isNormableSpace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:48:15.865075+00:00
 -- url     : https://prove2.me/theorems/4530fff8-7fc5-4f57-b8da-9ed5825b0aa4

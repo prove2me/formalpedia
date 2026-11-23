@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_GramProductIdentities_pair_act__bf313f925fd6
 -- name    : P2M_Formalism_FourierDecayAlt_P_GramProductIdentities_pair_act__bf313f925fd6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:46:37.267796+00:00
 -- url     : https://prove2.me/theorems/66cc0023-9fd0-42f5-add7-90129b3ea2f0

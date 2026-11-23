@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_exists_place_ge_one
 -- name    : SumProduct.exists_place_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:43.601404+00:00
 -- url     : https://prove2.me/theorems/8169f614-bd97-4368-8c22-47958a62d2f9

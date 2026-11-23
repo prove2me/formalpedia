@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_card_infinitePlace_eq
 -- name    : SumProduct.card_infinitePlace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:57.978449+00:00
 -- url     : https://prove2.me/theorems/eeaf9796-2ef1-4cf1-8218-14aab5978f25

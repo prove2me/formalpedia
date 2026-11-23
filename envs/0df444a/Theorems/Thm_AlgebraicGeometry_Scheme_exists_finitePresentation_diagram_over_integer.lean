@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_finitePresentation_diagram_over_integer
 -- name    : AlgebraicGeometry.Scheme.exists_finitePresentation_diagram_over_integer
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-22T09:31:03.281087+00:00
 -- url     : https://prove2.me/theorems/4afc6cac-ecb3-4d07-8e2f-715f93da1557

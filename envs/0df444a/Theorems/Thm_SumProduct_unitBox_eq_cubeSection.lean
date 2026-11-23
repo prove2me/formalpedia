@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_unitBox_eq_cubeSection
 -- name    : SumProduct.unitBox_eq_cubeSection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:51:30.567803+00:00
 -- url     : https://prove2.me/theorems/1069dea6-3a22-4bc8-8d3a-3ba67d79a91a

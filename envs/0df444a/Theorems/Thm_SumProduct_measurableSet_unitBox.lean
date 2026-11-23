@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_measurableSet_unitBox
 -- name    : SumProduct.measurableSet_unitBox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:23:06.859883+00:00
 -- url     : https://prove2.me/theorems/9d8453ab-403f-4361-bd91-853e32d0bc20

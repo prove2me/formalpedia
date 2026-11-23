@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.exists_appTop_eq_idempotent_closed_fiber_of_isProper
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-21T23:18:56.427003+00:00
 -- url     : https://prove2.me/submissions/6a70e907-f19b-4863-90e8-455538333450
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_Scheme_ProperClosedFiberModels
 import Theorems.Thm_AlgebraicGeometry_Scheme_nonempty_closedFiberModels_of_isProper

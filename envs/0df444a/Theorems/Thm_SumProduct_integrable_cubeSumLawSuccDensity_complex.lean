@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_integrable_cubeSumLawSuccDensity_complex
 -- name    : SumProduct.integrable_cubeSumLawSuccDensity_complex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:55:03.169823+00:00
 -- url     : https://prove2.me/theorems/0ab36138-237d-4fe2-9147-30ff03c2d5fe

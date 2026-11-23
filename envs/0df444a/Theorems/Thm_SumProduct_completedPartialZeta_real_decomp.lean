@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_completedPartialZeta_real_decomp
 -- name    : SumProduct.completedPartialZeta_real_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:01:21.742921+00:00
 -- url     : https://prove2.me/theorems/e9ef22ce-ce79-4fda-a5a1-1cb772114670

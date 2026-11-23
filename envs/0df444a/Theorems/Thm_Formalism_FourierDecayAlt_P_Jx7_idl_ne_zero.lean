@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx7_idl_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.Jx7.idl_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:46:17.743799+00:00
 -- url     : https://prove2.me/theorems/32443bbe-6991-4f26-812c-f7a9b103d8ab

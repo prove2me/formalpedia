@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_time_dependent_multivariate_ito_formula
 -- name    : AppliedSDE.SarkkaSolin.time_dependent_multivariate_ito_formula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:59:16.425656+00:00
 -- url     : https://prove2.me/theorems/62f0e638-2c30-410c-89d2-fdf5ec31a390

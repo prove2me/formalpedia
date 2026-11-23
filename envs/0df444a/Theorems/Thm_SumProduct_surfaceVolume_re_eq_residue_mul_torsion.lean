@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_surfaceVolume_re_eq_residue_mul_torsion
 -- name    : SumProduct.surfaceVolume_re_eq_residue_mul_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:01:36.811968+00:00
 -- url     : https://prove2.me/theorems/33c8ba49-78bf-4692-b3b1-2c209e9aeb3f

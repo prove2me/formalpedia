@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_textbook_all_chapters_and_ou_gp_kalman
 -- name    : AppliedSDE.SarkkaSolin.textbook_all_chapters_and_ou_gp_kalman
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T18:12:47.927323+00:00
 -- url     : https://prove2.me/theorems/8483c90b-d767-477a-bf13-6af8251bde87

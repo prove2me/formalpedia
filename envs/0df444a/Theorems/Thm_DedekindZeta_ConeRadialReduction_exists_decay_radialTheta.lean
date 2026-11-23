@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_exists_decay_radialTheta
 -- name    : DedekindZeta.ConeRadialReduction.exists_decay_radialTheta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:36.44191+00:00
 -- url     : https://prove2.me/theorems/8ddb1db0-9b20-4e11-b7a9-8ac64883c0b0

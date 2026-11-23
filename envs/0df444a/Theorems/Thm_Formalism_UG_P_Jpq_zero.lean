@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_Jpq_zero
 -- name    : Formalism.UG.P.Jpq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:49:07.416959+00:00
 -- url     : https://prove2.me/theorems/cc63009c-adbd-4bbd-a04c-57e714d76753

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLaw_succ_eq_withDensity
 -- name    : SumProduct.cubeSumLaw_succ_eq_withDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:57:51.857935+00:00
 -- url     : https://prove2.me/theorems/b0a698da-2dac-4125-8b7d-f4be56f146a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_idealCount_one
 -- name    : SumProduct.idealCount_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:00:00.07634+00:00
 -- url     : https://prove2.me/theorems/0c9b7dae-17f0-4dc3-bb45-9b0949c80e14

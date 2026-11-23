@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.nonempty_noetherian_affineModels_of_isProper
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-22T07:14:35.184565+00:00
 -- url     : https://prove2.me/submissions/6db3cc02-ecc3-4163-84be-676e8d3f436f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_ProperAffineClosedSubschemes
 import Definitions.Def_AlgebraicGeometry_ProperAffineFiniteStageModels

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x2_isS_iff
 -- name    : Formalism.FourierDecayAlt.P.S3x2.isS_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:40:21.446187+00:00
 -- url     : https://prove2.me/theorems/43cc05fd-20e3-41be-8aa0-6b76678671e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_torsionOrder_eq_two_of_totallyReal
 -- name    : SumProduct.torsionOrder_eq_two_of_totallyReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:04:25.029967+00:00
 -- url     : https://prove2.me/theorems/df33646f-65ea-4a42-906f-7661a85bff81

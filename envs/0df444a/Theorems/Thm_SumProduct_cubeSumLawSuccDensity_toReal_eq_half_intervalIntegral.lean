@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLawSuccDensity_toReal_eq_half_intervalIntegral
 -- name    : SumProduct.cubeSumLawSuccDensity_toReal_eq_half_intervalIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:55:40.083051+00:00
 -- url     : https://prove2.me/theorems/c7e13d71-1ffc-496e-aad8-2c1ff391be05

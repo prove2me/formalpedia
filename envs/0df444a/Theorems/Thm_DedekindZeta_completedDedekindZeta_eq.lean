@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_completedDedekindZeta_eq
 -- name    : DedekindZeta.completedDedekindZeta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:40:39.379364+00:00
 -- url     : https://prove2.me/theorems/bef80734-a487-4dd4-bf76-ddfaac3b38b0

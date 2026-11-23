@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_mem_boxAdd_iff_normAtPlace
 -- name    : SumProduct.mem_boxAdd_iff_normAtPlace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:49:00.600962+00:00
 -- url     : https://prove2.me/theorems/038030bc-ae1f-4c30-a219-5b0dd4b839c0

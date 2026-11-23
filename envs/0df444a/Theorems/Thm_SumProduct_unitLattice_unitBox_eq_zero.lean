@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_unitLattice_unitBox_eq_zero
 -- name    : SumProduct.unitLattice_unitBox_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:58:40.045101+00:00
 -- url     : https://prove2.me/theorems/98077455-ec84-4478-b349-b47a14643303

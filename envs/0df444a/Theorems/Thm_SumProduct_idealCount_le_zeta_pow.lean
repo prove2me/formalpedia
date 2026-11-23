@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_idealCount_le_zeta_pow
 -- name    : SumProduct.idealCount_le_zeta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:59:57.781571+00:00
 -- url     : https://prove2.me/theorems/9e35edc1-add6-40be-8ec7-7438fdf3b44a

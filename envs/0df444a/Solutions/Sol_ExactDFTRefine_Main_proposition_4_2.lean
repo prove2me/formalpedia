@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ExactDFTRefine.Main.proposition_4_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mr Robbins
 -- created : 2026-11-22T23:01:36.442805+00:00
 -- url     : https://prove2.me/submissions/60222521-7069-4c4f-b0ac-6b75bd1d734c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ExactDFTRefine_Main_Moments

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WeylGroupFacts_hpk_sq
 -- name    : Formalism.QuantumDeterminants.WeylGroupFacts.hpk_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:50:15.846015+00:00
 -- url     : https://prove2.me/theorems/5fc2ebde-80aa-441d-905e-f39f836fcf19

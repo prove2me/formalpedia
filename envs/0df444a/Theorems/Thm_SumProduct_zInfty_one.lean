@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_zInfty_one
 -- name    : SumProduct.zInfty_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:00:52.492961+00:00
 -- url     : https://prove2.me/theorems/e433e0b6-6031-4802-ac7d-d8ba188c091c

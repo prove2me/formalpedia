@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_conv_withDensity_right_eq
 -- name    : SumProduct.conv_withDensity_right_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:54:21.878008+00:00
 -- url     : https://prove2.me/theorems/44730896-8a1a-4278-9292-5ddde3994850

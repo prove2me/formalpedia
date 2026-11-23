@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_isClosed_cubeSection
 -- name    : SumProduct.isClosed_cubeSection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:51:24.723797+00:00
 -- url     : https://prove2.me/theorems/9aafe84f-ca41-4ce4-844e-e4fc6ca57fb8

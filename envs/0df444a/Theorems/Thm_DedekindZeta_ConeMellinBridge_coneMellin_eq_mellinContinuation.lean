@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeMellinBridge_coneMellin_eq_mellinContinuation
 -- name    : DedekindZeta.ConeMellinBridge.coneMellin_eq_mellinContinuation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:31.587949+00:00
 -- url     : https://prove2.me/theorems/00c0bee2-d526-4ae7-b203-4165be5089b9

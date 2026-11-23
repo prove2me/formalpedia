@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_zeta_pow_apply_prime_pow
 -- name    : SumProduct.zeta_pow_apply_prime_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:00:09.65035+00:00
 -- url     : https://prove2.me/theorems/d99bbd87-d0d7-43bc-a33e-1b51be44ff72

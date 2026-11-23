@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLaw_Icc_toReal_eq
 -- name    : SumProduct.cubeSumLaw_Icc_toReal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:56:51.543799+00:00
 -- url     : https://prove2.me/theorems/fccedfd1-6d59-494e-a224-81377332e30f

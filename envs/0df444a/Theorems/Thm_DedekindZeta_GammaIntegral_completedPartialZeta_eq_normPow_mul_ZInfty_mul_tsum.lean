@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_completedPartialZeta_eq_normPow_mul_ZInfty_mul_tsum
 -- name    : DedekindZeta.GammaIntegral.completedPartialZeta_eq_normPow_mul_ZInfty_mul_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:51.42636+00:00
 -- url     : https://prove2.me/theorems/47281f67-77b0-4916-86c2-d2ed41e9156f

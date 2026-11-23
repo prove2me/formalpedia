@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WeylGroupFacts_isUnit_of_uh
 -- name    : Formalism.QuantumDeterminants.WeylGroupFacts.isUnit_of_uh
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:18:43.608999+00:00
 -- url     : https://prove2.me/theorems/be6d3785-9f5b-4d31-8785-4b18524df07a

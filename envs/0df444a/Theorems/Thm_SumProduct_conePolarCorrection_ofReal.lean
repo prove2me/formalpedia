@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_conePolarCorrection_ofReal
 -- name    : SumProduct.conePolarCorrection_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:01:02.633424+00:00
 -- url     : https://prove2.me/theorems/781a5704-b216-488c-a027-c794da38ca0f

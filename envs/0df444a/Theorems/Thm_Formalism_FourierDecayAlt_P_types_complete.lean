@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_types_complete
 -- name    : Formalism.FourierDecayAlt.P.types_complete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:10:38.114653+00:00
 -- url     : https://prove2.me/theorems/462fa6da-47f8-4dc7-b13b-f64463cc82fa

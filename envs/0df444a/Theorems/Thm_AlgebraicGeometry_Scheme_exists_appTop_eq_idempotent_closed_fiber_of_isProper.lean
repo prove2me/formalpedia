@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_appTop_eq_idempotent_closed_fiber_of_isProper
 -- name    : AlgebraicGeometry.Scheme.exists_appTop_eq_idempotent_closed_fiber_of_isProper
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-21T20:32:18.928802+00:00
 -- url     : https://prove2.me/theorems/e053d449-a194-4e1e-aa75-d99db75c4dff

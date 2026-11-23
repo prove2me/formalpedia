@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_dedekind_residue_le
 -- name    : SumProduct.dedekind_residue_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:02:51.222277+00:00
 -- url     : https://prove2.me/theorems/6c2653f4-993c-4126-b758-5ec540d2bc51

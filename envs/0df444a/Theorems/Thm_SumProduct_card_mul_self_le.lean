@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_card_mul_self_le
 -- name    : SumProduct.card_mul_self_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:03:00.477024+00:00
 -- url     : https://prove2.me/theorems/bd77eb43-fc46-4a06-b928-9baebe5cb2b8

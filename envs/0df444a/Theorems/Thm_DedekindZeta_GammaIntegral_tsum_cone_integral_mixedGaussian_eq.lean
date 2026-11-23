@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_tsum_cone_integral_mixedGaussian_eq
 -- name    : DedekindZeta.GammaIntegral.tsum_cone_integral_mixedGaussian_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:49.512243+00:00
 -- url     : https://prove2.me/theorems/ca308b10-ee65-4d0b-9153-b2cb92326fbb

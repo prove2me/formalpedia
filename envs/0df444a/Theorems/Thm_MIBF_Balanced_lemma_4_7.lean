@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIBF_Balanced_lemma_4_7
 -- name    : MIBF.Balanced.lemma_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:57:23.223191+00:00
 -- url     : https://prove2.me/theorems/3be860da-4a6a-45e4-8c48-1980d2ea10ba

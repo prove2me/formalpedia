@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_partialCompletedZetaResidue_le
 -- name    : SumProduct.partialCompletedZetaResidue_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:02:28.557064+00:00
 -- url     : https://prove2.me/theorems/b75ac4d8-f678-4a1f-9228-09b669493f5c

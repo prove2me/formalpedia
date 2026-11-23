@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSection_one_eq_unitCube_inter_sum
 -- name    : SumProduct.cubeSection_one_eq_unitCube_inter_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:53:23.403118+00:00
 -- url     : https://prove2.me/theorems/c608e193-1932-4cd2-8565-10c8ed294039

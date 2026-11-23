@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakApproximationGL_rhs_succ
 -- name    : Formalism.FourierDecayAlt.P.WeakApproximationGL.rhs_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:49:13.991566+00:00
 -- url     : https://prove2.me/theorems/128d05c7-8d49-4b3a-897f-50e59a8f045a

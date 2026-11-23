@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_torsion_eq_pm_one_of_totallyReal
 -- name    : SumProduct.torsion_eq_pm_one_of_totallyReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:58:18.153287+00:00
 -- url     : https://prove2.me/theorems/50ce6e4e-a659-44b1-96ed-ae56d24b4b0f

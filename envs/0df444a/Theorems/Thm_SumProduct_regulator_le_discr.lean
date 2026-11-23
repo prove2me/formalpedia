@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_regulator_le_discr
 -- name    : SumProduct.regulator_le_discr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:02:55.886061+00:00
 -- url     : https://prove2.me/theorems/b982eb91-fabd-45e2-92be-62b7467b1240

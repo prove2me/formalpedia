@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_nabla_shift_relation
 -- name    : Formalism.FourierDecayAlt.P.nabla_shift_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:35.619797+00:00
 -- url     : https://prove2.me/theorems/9340e086-8217-4c34-9f80-501d6432e84a

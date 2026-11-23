@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLawSuccDensity_lintegral_ne_top
 -- name    : SumProduct.cubeSumLawSuccDensity_lintegral_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:59:29.535139+00:00
 -- url     : https://prove2.me/theorems/e2ab32b2-578b-4c70-9412-cfec10a838b9

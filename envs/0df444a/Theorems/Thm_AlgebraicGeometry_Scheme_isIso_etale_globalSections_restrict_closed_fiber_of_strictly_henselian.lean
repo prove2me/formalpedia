@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_isIso_etale_globalSections_restrict_closed_fiber_of_strictly_henselian
 -- name    : AlgebraicGeometry.Scheme.isIso_etale_globalSections_restrict_closed_fiber_of_strictly_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-21T18:38:38.880188+00:00
 -- url     : https://prove2.me/theorems/49735ac5-1ecf-4b62-a75a-cd679317bcf9

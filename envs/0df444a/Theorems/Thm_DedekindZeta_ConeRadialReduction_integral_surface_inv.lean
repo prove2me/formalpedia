@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_integral_surface_inv
 -- name    : DedekindZeta.ConeRadialReduction.integral_surface_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:15.534411+00:00
 -- url     : https://prove2.me/theorems/b5331f79-1331-4e2c-86c8-ba5f4e494087

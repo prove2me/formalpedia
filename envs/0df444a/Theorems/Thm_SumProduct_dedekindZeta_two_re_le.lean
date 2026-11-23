@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_dedekindZeta_two_re_le
 -- name    : SumProduct.dedekindZeta_two_re_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:00:52.705236+00:00
 -- url     : https://prove2.me/theorems/07a0dc4a-6d44-404b-b213-017454771bfb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_completedPartialZeta_residue_perIdeal
 -- name    : SumProduct.completedPartialZeta_residue_perIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:01:22.409819+00:00
 -- url     : https://prove2.me/theorems/11864605-c4ce-4faa-b3ef-588f62b725e8

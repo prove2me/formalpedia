@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalCalc_scottBlair_creep
 -- name    : FractionalCalc.scottBlair_creep
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T16:44:30.409553+00:00
 -- url     : https://prove2.me/theorems/9106948e-36c4-446e-a5a9-f3ba473498e3

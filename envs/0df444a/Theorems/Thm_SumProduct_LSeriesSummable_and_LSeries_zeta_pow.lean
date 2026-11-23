@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_LSeriesSummable_and_LSeries_zeta_pow
 -- name    : SumProduct.LSeriesSummable_and_LSeries_zeta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:00:18.724536+00:00
 -- url     : https://prove2.me/theorems/6e3fd27a-50db-4740-a54a-c6fe5decb4fe

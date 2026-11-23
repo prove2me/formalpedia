@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_continuousAt_cubeSumLawSuccDensity_toReal
 -- name    : SumProduct.continuousAt_cubeSumLawSuccDensity_toReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:56:21.6528+00:00
 -- url     : https://prove2.me/theorems/74422c53-6580-4f85-ad33-48460d2a5451

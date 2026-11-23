@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLawSuccDensity_ae_lt_top
 -- name    : SumProduct.cubeSumLawSuccDensity_ae_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:59:37.779511+00:00
 -- url     : https://prove2.me/theorems/b6a3872b-b5d9-4b9e-b5fe-addbfa917028

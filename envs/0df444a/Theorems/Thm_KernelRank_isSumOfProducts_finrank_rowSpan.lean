@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_isSumOfProducts_finrank_rowSpan
 -- name    : KernelRank.isSumOfProducts_finrank_rowSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:49:25.00645+00:00
 -- url     : https://prove2.me/theorems/bb86cb5b-00a0-4de9-858e-09826e4311b3

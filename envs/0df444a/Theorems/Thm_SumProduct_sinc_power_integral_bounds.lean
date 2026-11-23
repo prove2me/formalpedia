@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_sinc_power_integral_bounds
 -- name    : SumProduct.sinc_power_integral_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:52:38.900415+00:00
 -- url     : https://prove2.me/theorems/0b9e61c6-e816-4837-8139-282baf2e5205

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_boxMult_card_le_two_mul_image
 -- name    : SumProduct.boxMult_card_le_two_mul_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:58:34.726546+00:00
 -- url     : https://prove2.me/theorems/c7c28b4b-8582-4f1f-a5d6-ea1a8e134b2d

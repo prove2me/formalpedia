@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_fourier_cubeSumLawSuccDensity_eq_charFun_scaled
 -- name    : SumProduct.fourier_cubeSumLawSuccDensity_eq_charFun_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:00:38.847511+00:00
 -- url     : https://prove2.me/theorems/82d00cc9-5c69-4188-b3ac-6a673e2316fd

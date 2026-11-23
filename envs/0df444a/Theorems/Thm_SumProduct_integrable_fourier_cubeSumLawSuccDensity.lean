@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_integrable_fourier_cubeSumLawSuccDensity
 -- name    : SumProduct.integrable_fourier_cubeSumLawSuccDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:56:20.471395+00:00
 -- url     : https://prove2.me/theorems/5e175a8a-6962-4774-8bbe-94d08afa791a

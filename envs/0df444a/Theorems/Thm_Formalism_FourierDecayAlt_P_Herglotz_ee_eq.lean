@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Herglotz_ee_eq
 -- name    : Formalism.FourierDecayAlt.P.Herglotz.ee_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:46:50.588436+00:00
 -- url     : https://prove2.me/theorems/8f8b4548-7a88-477d-8cca-83922664f3c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_tsum_indicator_le
 -- name    : SumProduct.tsum_indicator_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:51:21.074712+00:00
 -- url     : https://prove2.me/theorems/3bf8e39a-ed23-4cb6-9ce1-0610be2c33eb

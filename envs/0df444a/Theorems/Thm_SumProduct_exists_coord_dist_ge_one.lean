@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_exists_coord_dist_ge_one
 -- name    : SumProduct.exists_coord_dist_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:56:44.752953+00:00
 -- url     : https://prove2.me/theorems/292e7510-7acb-402b-81a7-b533f24916ef

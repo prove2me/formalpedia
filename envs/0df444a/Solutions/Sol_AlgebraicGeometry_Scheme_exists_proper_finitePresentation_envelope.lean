@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.exists_proper_finitePresentation_envelope
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-22T08:57:57.544287+00:00
 -- url     : https://prove2.me/submissions/0e8b6912-b0a2-4e6f-a890-2ed733fce115
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_ClosedSubdiagramLimit
 import Definitions.Def_AlgebraicGeometry_ProperAffineBaseChangeModels

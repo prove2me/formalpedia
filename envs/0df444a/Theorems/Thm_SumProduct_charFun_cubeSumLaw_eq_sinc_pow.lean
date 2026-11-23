@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_charFun_cubeSumLaw_eq_sinc_pow
 -- name    : SumProduct.charFun_cubeSumLaw_eq_sinc_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:57:43.090932+00:00
 -- url     : https://prove2.me/theorems/7316acb8-e707-40fd-a2dc-2f8f3975f7a3

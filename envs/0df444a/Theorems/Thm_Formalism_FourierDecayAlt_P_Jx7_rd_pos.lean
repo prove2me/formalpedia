@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx7_rd_pos
 -- name    : Formalism.FourierDecayAlt.P.Jx7.rd_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:48:28.744798+00:00
 -- url     : https://prove2.me/theorems/36329a1e-ab55-4053-a387-eb184dabe08a

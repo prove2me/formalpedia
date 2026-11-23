@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_orbitTheta_inv_apply
 -- name    : DedekindZeta.ConeRadialReduction.orbitTheta_inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:27.466491+00:00
 -- url     : https://prove2.me/theorems/fd4bbb19-a516-4c9f-9401-35925f1cc959

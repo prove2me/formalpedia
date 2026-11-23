@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_separated_finitePresentation_envelope
 -- name    : AlgebraicGeometry.Scheme.exists_separated_finitePresentation_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-22T08:40:46.364937+00:00
 -- url     : https://prove2.me/theorems/48a920d5-20be-48a2-b5fa-6feb03c89576

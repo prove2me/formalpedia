@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_row_mem_rowSpan
 -- name    : KernelRank.row_mem_rowSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:49:43.323591+00:00
 -- url     : https://prove2.me/theorems/056067b1-76f8-4ced-a184-2b08b617145f

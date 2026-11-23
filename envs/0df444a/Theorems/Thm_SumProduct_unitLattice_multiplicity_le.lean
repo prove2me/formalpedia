@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_unitLattice_multiplicity_le
 -- name    : SumProduct.unitLattice_multiplicity_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:57:57.425005+00:00
 -- url     : https://prove2.me/theorems/bc5abb55-8b09-4cf7-8a7c-3abc292576df

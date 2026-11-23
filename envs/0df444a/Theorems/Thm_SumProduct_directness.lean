@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_directness
 -- name    : SumProduct.directness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:03:11.706913+00:00
 -- url     : https://prove2.me/theorems/45203bbf-2ce4-46dd-9734-332161300ae3

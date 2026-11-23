@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLawSuccDensity_eq_half_measure_Icc
 -- name    : SumProduct.cubeSumLawSuccDensity_eq_half_measure_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:55:39.317818+00:00
 -- url     : https://prove2.me/theorems/ebdf65f6-8c38-4155-a5e0-e09243d517b1

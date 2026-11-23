@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultibrotCorr_lemma_5_3
 -- name    : MultibrotCorr.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T23:34:51.083371+00:00
 -- url     : https://prove2.me/theorems/bfd74f54-beaa-48c9-b508-caeaefd87da1

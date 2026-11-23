@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_measurableSet_cubeSection
 -- name    : SumProduct.measurableSet_cubeSection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:51:46.322795+00:00
 -- url     : https://prove2.me/theorems/9882e241-7ca2-4e84-a71a-20691d678922

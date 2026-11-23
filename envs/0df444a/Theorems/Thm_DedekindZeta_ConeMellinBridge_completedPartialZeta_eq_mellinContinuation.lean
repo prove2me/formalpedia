@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeMellinBridge_completedPartialZeta_eq_mellinContinuation
 -- name    : DedekindZeta.ConeMellinBridge.completedPartialZeta_eq_mellinContinuation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:43.422376+00:00
 -- url     : https://prove2.me/theorems/59aa1a14-d5cd-4241-96ee-397f1d7b9c19

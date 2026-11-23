@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLaw_eq_map_pi_sum
 -- name    : SumProduct.cubeSumLaw_eq_map_pi_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:53:27.115788+00:00
 -- url     : https://prove2.me/theorems/8eb3f022-0284-4c31-945f-08c410864d03

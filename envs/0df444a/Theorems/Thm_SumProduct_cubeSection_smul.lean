@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSection_smul
 -- name    : SumProduct.cubeSection_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:51:39.654404+00:00
 -- url     : https://prove2.me/theorems/0e58fe9b-5fbe-40f5-809a-40677e44f2a9

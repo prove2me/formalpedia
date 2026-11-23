@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_continuousOn_orbitTheta
 -- name    : DedekindZeta.ConeRadialReduction.continuousOn_orbitTheta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:39:49.610434+00:00
 -- url     : https://prove2.me/theorems/b2e5f54e-2c42-4003-b77c-0aec19ef1509

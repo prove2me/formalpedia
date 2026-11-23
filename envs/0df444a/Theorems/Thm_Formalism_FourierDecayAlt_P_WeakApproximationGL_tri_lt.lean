@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakApproximationGL_tri_lt
 -- name    : Formalism.FourierDecayAlt.P.WeakApproximationGL.tri_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:48:54.378642+00:00
 -- url     : https://prove2.me/theorems/e4799044-1ca6-459c-ad97-83f32f3ddd77

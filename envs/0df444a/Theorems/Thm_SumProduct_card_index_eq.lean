@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_card_index_eq
 -- name    : SumProduct.card_index_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:51:48.887939+00:00
 -- url     : https://prove2.me/theorems/717f0241-b280-4aae-9691-2663431642cd

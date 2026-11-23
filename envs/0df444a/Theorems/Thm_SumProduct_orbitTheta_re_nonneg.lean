@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_orbitTheta_re_nonneg
 -- name    : SumProduct.orbitTheta_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:00:47.533803+00:00
 -- url     : https://prove2.me/theorems/4c559239-9893-46ca-bec0-22cc5d4020ed

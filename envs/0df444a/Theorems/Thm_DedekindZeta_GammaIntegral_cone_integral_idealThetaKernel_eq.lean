@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_cone_integral_idealThetaKernel_eq
 -- name    : DedekindZeta.GammaIntegral.cone_integral_idealThetaKernel_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:37.028808+00:00
 -- url     : https://prove2.me/theorems/e7c260cc-0389-4e2d-abeb-7d3cdb32e3a4

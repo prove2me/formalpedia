@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Herglotz_norm_ee
 -- name    : Formalism.FourierDecayAlt.P.Herglotz.norm_ee
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:57:05.281266+00:00
 -- url     : https://prove2.me/theorems/7972561e-ce4f-42a1-b659-f7349a249b7c

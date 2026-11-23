@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_cubeSumLaw_Icc_eq_inv_pi_integral_re_charFun_succ
 -- name    : SumProduct.cubeSumLaw_Icc_eq_inv_pi_integral_re_charFun_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:56:23.912474+00:00
 -- url     : https://prove2.me/theorems/ffe7e8ef-755c-448a-9e57-801e81e04dfd

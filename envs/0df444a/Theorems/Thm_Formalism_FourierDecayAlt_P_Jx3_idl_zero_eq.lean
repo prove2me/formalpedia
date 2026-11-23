@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx3_idl_zero_eq
 -- name    : Formalism.FourierDecayAlt.P.Jx3.idl_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:47:47.731298+00:00
 -- url     : https://prove2.me/theorems/871eabf5-5389-424a-8a8e-841c39ceb71c

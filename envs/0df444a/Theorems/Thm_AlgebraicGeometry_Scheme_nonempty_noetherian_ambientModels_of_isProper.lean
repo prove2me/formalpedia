@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_nonempty_noetherian_ambientModels_of_isProper
 -- name    : AlgebraicGeometry.Scheme.nonempty_noetherian_ambientModels_of_isProper
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-22T00:19:59.419644+00:00
 -- url     : https://prove2.me/theorems/73e2a8cb-0ccf-420b-8935-3bcb3148d282

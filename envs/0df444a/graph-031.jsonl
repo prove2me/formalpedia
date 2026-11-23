@@ -90805,7 +90805,7 @@
 {"parent": "BosonicLearn.classical_mixture_overlap_bound", "child": "BosonicLearn_traceDist", "via": ["solution", "statement"]}
 {"parent": "BosonicLearn.classical_mixture_overlap_bound", "child": "QAlgorithms_Papers_Independent_Support50_P14", "via": ["solution", "statement"]}
 {"parent": "KSATSingleFlip.Connect.soft_field_monotone_iterates_if_order_preserved", "child": "KSATSingleFlip_Connect_SoftFieldOrder", "via": ["statement"]}
-{"parent": "AppliedSDE.SarkkaSolin.time_dependent_multivariate_ito_formula", "child": "KLSModular_LevyStochCalc_Brownian_VectorItoFormula", "via": ["statement"]}
+{"parent": "AppliedSDE.SarkkaSolin.time_dependent_multivariate_ito_formula", "child": "KLSModular_LevyStochCalc_Brownian_VectorItoFormula", "via": ["solution", "statement"]}
 {"parent": "PGDRevision20261113.regularity_band_identities", "child": "PGDRevision20261113_AlgebraicCertificates", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RH66388FastPiece28Block02", "child": "row23_rh_supp_RH66388FastPiece28Data", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH66388FastPiece40Block07", "child": "row23_rh_supp_RH66388FastPiece40Data", "via": ["statement"]}

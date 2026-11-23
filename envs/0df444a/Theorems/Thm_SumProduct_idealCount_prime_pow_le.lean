@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_idealCount_prime_pow_le
 -- name    : SumProduct.idealCount_prime_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:00:02.106005+00:00
 -- url     : https://prove2.me/theorems/83254be9-40e5-4714-8e04-23b2d50eb1ad

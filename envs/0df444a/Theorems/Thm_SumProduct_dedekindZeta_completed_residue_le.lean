@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_dedekindZeta_completed_residue_le
 -- name    : SumProduct.dedekindZeta_completed_residue_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:02:40.291797+00:00
 -- url     : https://prove2.me/theorems/9ddda2af-bf84-4d1c-be96-3044d6d1257b

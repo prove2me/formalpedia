@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_orbitThetaFrac_isBigO_exp
 -- name    : DedekindZeta.ConeRadialReduction.orbitThetaFrac_isBigO_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:31.861049+00:00
 -- url     : https://prove2.me/theorems/34da9a17-9603-4c2a-8583-85075483705b

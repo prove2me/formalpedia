@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_rowSpan_hankelTwo
 -- name    : KernelRank.rowSpan_hankelTwo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:49:55.240457+00:00
 -- url     : https://prove2.me/theorems/2bbaeb4a-94d3-44c9-a118-bbbc26e1e2ef

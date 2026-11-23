@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonMarkovColorings_Main_claim_7_1
 -- name    : NonMarkovColorings.Main.claim_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T03:08:42.991906+00:00
 -- url     : https://prove2.me/theorems/d277842f-f56c-405c-9186-60d9bad35e9f

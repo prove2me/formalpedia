@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WeylGroupFacts_row_of_fixed_col
 -- name    : Formalism.QuantumDeterminants.WeylGroupFacts.row_of_fixed_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:24.940112+00:00
 -- url     : https://prove2.me/theorems/49625132-03e6-4ade-8dea-c3037d6fcb10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_nonempty_closedFiberModels_of_isProper
 -- name    : AlgebraicGeometry.Scheme.nonempty_closedFiberModels_of_isProper
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-21T23:18:39.441435+00:00
 -- url     : https://prove2.me/theorems/dd334e83-9ff0-4755-acdf-adf82eb12e89

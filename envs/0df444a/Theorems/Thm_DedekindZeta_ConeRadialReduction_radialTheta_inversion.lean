@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_radialTheta_inversion
 -- name    : DedekindZeta.ConeRadialReduction.radialTheta_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:40:07.579393+00:00
 -- url     : https://prove2.me/theorems/f40a2577-e880-484b-b219-5c36a2f1d2fd

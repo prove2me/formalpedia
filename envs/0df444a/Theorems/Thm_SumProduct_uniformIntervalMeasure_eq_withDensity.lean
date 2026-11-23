@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_uniformIntervalMeasure_eq_withDensity
 -- name    : SumProduct.uniformIntervalMeasure_eq_withDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:54:25.831807+00:00
 -- url     : https://prove2.me/theorems/daccb57a-a2b4-41a8-963f-c0d5094c6c46

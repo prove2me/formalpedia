@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_volume_cubeSection_fin_zero_toReal
 -- name    : SumProduct.volume_cubeSection_fin_zero_toReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:57:03.040335+00:00
 -- url     : https://prove2.me/theorems/5a2f44aa-d526-467e-8763-20f8990c495b

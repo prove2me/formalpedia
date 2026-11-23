@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_add_mem_unitBox
 -- name    : SumProduct.add_mem_unitBox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:53.496779+00:00
 -- url     : https://prove2.me/theorems/a4593183-9f71-458b-a5aa-449043a85ade

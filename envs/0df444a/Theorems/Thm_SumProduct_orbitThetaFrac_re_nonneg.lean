@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_orbitThetaFrac_re_nonneg
 -- name    : SumProduct.orbitThetaFrac_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:01:06.769661+00:00
 -- url     : https://prove2.me/theorems/408a54e3-cc71-4f5f-b872-d762c5a1aaf0

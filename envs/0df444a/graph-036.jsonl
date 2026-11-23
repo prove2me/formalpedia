@@ -20233,7 +20233,7 @@
 {"parent": "OAI.HadwigerCounterexample.corollary_1_2", "child": "ListHadwiger", "via": ["statement"]}
 {"parent": "OAI.HadwigerCounterexample.corollary_1_2", "child": "HadwigerMatching_Defs", "via": ["statement"]}
 {"parent": "RH1E6S08_D040_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "FractionalCalc.scottBlair_creep", "child": "FractionalCalc_scottBlair", "via": ["statement"]}
+{"parent": "FractionalCalc.scottBlair_creep", "child": "FractionalCalc_scottBlair", "via": ["solution", "statement"]}
 {"parent": "RH1E6S03_D078_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S08_D014_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "LevyStochCalc_Poisson_CompensatedProfileRaw_F001", "child": "SourceProof_79fc0dfc208a12c994833c8a", "via": ["statement"]}
@@ -46067,7 +46067,7 @@
 {"parent": "RH1E6S08.part_031_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_freshD_original_true_bounded_stop_fullnegative_kernel_mask_factorisation", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_freshD_original_true_bounded_stop_fullnegative_kernel_mask_factorisation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "MultibrotCorr.lemma_5_3", "child": "mcorr_branches", "via": ["statement"]}
+{"parent": "MultibrotCorr.lemma_5_3", "child": "mcorr_branches", "via": ["solution", "statement"]}
 {"parent": "RH1E6S03_D038_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S06_D017_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "JardenShami.treeExp_le_power", "child": "MyResearchesLLMLean_JardenShami_Section5", "via": ["solution", "statement"]}

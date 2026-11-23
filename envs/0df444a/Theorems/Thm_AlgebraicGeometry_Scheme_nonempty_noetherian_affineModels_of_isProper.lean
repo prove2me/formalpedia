@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_nonempty_noetherian_affineModels_of_isProper
 -- name    : AlgebraicGeometry.Scheme.nonempty_noetherian_affineModels_of_isProper
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-22T02:31:05.210235+00:00
 -- url     : https://prove2.me/theorems/f63b2a7b-0e1b-4dd2-acc6-f880cb16fce6

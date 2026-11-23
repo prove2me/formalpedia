@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_boxAdd_card_ge
 -- name    : SumProduct.boxAdd_card_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:51:14.753422+00:00
 -- url     : https://prove2.me/theorems/240bf38f-846d-4fa5-9ca5-f1d68cc53904

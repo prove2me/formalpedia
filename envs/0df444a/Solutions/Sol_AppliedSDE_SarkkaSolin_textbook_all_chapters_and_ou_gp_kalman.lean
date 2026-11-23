@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AppliedSDE.SarkkaSolin.textbook_all_chapters_and_ou_gp_kalman
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-13T22:27:30.172741+00:00
 -- url     : https://prove2.me/submissions/9e1b94cc-813e-45fc-8a30-7f93a61db0fa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AppliedSDE_SarkkaSolin_ChapterCertification02to05
 import Definitions.Def_AppliedSDE_SarkkaSolin_ChapterCertification06to09

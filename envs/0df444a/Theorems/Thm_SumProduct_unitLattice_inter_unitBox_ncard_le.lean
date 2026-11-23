@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_unitLattice_inter_unitBox_ncard_le
 -- name    : SumProduct.unitLattice_inter_unitBox_ncard_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:58:06.317642+00:00
 -- url     : https://prove2.me/theorems/d49ae941-c26d-41be-bd8e-0f99b9a2077b

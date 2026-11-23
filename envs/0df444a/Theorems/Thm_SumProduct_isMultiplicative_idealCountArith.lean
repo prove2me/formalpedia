@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_isMultiplicative_idealCountArith
 -- name    : SumProduct.isMultiplicative_idealCountArith
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:59:58.727048+00:00
 -- url     : https://prove2.me/theorems/1fa51a57-e852-47c0-95a1-614d4fb145c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_separableRank_radial_eq_hankel
 -- name    : KernelRank.separableRank_radial_eq_hankel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:49:56.397943+00:00
 -- url     : https://prove2.me/theorems/f02a049e-78a0-44ed-bb52-01f42475de25

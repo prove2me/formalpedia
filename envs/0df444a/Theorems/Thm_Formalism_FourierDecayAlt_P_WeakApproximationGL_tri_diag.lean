@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakApproximationGL_tri_diag
 -- name    : Formalism.FourierDecayAlt.P.WeakApproximationGL.tri_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:48:58.54629+00:00
 -- url     : https://prove2.me/theorems/81d68b49-8627-4ca9-a611-70f151bfd80a
