@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_exists_R_of_compact
 -- name    : ReciprocityTheory.AnForm.A.exists_R_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:10.429931+00:00
 -- url     : https://prove2.me/theorems/46209076-4b10-4df8-9cfe-34e84466d249

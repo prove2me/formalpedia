@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIso_of_isProper_of_quasiFinite_of_birational
 -- name    : GlobalTheory.isIso_of_isProper_of_quasiFinite_of_birational
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:15:03.198549+00:00
 -- url     : https://prove2.me/theorems/84178fdd-cc84-4377-a399-788f7d5f6753

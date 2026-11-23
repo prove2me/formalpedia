@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_TraceConjugationCover_sqForm_apply
 -- name    : ReciprocityTheory.AnForm.A.TraceConjugationCover.sqForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:21.985929+00:00
 -- url     : https://prove2.me/theorems/e9f3141d-b0ba-4864-a37d-b56647168e53

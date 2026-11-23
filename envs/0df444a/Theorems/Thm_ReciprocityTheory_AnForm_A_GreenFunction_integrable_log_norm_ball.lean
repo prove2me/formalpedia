@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_integrable_log_norm_ball
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.integrable_log_norm_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:34.769495+00:00
 -- url     : https://prove2.me/theorems/3aa2a5ed-2952-489b-a7e4-acff015c3985

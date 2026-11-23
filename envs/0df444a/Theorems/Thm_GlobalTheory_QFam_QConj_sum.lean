@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_QConj_sum
 -- name    : GlobalTheory.QFam.QConj.sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:37.728622+00:00
 -- url     : https://prove2.me/theorems/1985ef90-3413-43ac-8aa0-8e3a7aeffc03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_exists_re_analytic_eq_log_norm
 -- name    : ReciprocityTheory.AnForm.A.exists_re_analytic_eq_log_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:38.347896+00:00
 -- url     : https://prove2.me/theorems/aea9d121-c575-404a-aa23-9329c8826573

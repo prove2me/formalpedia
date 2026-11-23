@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_scale_single_zero
 -- name    : GlobalTheory.LaurentConst.scale_single_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:25:58.333303+00:00
 -- url     : https://prove2.me/theorems/16dcfaae-96eb-4122-9de4-d5470596c542

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ChartPrimTrPf_exists_reindex
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ChartPrimTrPf.exists_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:26:54.760907+00:00
 -- url     : https://prove2.me/theorems/aa0a4aef-5a72-4a1b-a6ed-c29273642537

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ChartPrimTrPf_corr_self
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ChartPrimTrPf.corr_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:26:11.395801+00:00
 -- url     : https://prove2.me/theorems/2f5d449e-09e5-4c3b-869f-595b7eafa3b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualClasses_norm_herm_le
 -- name    : GlobalTheory.SelfDualClasses.norm_herm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:08.818873+00:00
 -- url     : https://prove2.me/theorems/c044da64-74a6-4436-aaf2-56f9a2872cd8

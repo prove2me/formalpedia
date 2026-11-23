@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseReciprocalOccupationBracketFromCrossing
 -- name    : Kyprianou.Ch01.inverseReciprocalOccupationBracketFromCrossing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:29:47.37426+00:00
 -- url     : https://prove2.me/theorems/2b7f95cf-137b-49fe-a5aa-6f6246654d5c

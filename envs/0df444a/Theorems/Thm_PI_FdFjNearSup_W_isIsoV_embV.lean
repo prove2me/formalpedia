@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FdFjNearSup_W_isIsoV_embV
 -- name    : PI.FdFjNearSup.W.isIsoV_embV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:54.230471+00:00
 -- url     : https://prove2.me/theorems/a0b4d4f5-26a0-4416-bc79-d35fada0f101

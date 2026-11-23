@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_sw_zero2
 -- name    : ReciprocityTheory.PGsh.BX.sw_zero2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:25:16.740256+00:00
 -- url     : https://prove2.me/theorems/2e895849-3c71-401b-9871-b7a195abc437

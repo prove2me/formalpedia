@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_mul_mem_DH
 -- name    : GlobalTheory.SW.Base.mul_mem_DH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:44:31.960572+00:00
 -- url     : https://prove2.me/theorems/39f499d4-0efb-4899-9135-722b600f6c1c

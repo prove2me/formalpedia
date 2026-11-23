@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifCompare_hermForm_eq
 -- name    : GlobalTheory.UnifCompare.hermForm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:11:13.871605+00:00
 -- url     : https://prove2.me/theorems/a8094d09-7db6-4606-bb64-f44e883ce55c

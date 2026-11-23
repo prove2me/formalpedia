@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_specMap_fromSpec_eq
 -- name    : GlobalTheory.exists_specMap_fromSpec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:41.611536+00:00
 -- url     : https://prove2.me/theorems/1b50c88f-433f-4098-b50c-512684616e9b

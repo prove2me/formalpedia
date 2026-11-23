@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_KapPf_ninv_lower
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.KapPf.ninv_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:19:56.175951+00:00
 -- url     : https://prove2.me/theorems/f01c409f-eca0-4358-9fdd-fd225f38f5e5

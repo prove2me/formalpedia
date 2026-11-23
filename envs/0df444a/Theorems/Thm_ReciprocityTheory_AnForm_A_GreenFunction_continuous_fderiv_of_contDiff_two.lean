@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_continuous_fderiv_of_contDiff_two
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.continuous_fderiv_of_contDiff_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:20.52691+00:00
 -- url     : https://prove2.me/theorems/af36c568-92d0-4ecf-ab45-76c18e853acd

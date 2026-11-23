@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_tot_ext
 -- name    : ReciprocityTheory.PGsh.BX.tot_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:19.678813+00:00
 -- url     : https://prove2.me/theorems/43eb9c67-e833-43f1-9538-478f7d5fe78c

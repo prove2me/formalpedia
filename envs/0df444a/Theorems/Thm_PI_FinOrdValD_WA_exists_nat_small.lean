@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdValD_WA_exists_nat_small
 -- name    : PI.FinOrdValD.WA.exists_nat_small
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:55.420844+00:00
 -- url     : https://prove2.me/theorems/ba6f43d3-a7aa-492c-ae9a-006bbbd5588e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_LHom_mul_eq_zero
 -- name    : ReciprocityTheory.PGsh.LHom.mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:25:43.588482+00:00
 -- url     : https://prove2.me/theorems/cf614099-eb04-43b9-92bf-a1b89345d145

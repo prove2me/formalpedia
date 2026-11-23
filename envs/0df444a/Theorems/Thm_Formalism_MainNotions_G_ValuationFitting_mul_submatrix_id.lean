@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_ValuationFitting_mul_submatrix_id
 -- name    : Formalism.MainNotions.G.ValuationFitting.mul_submatrix_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:10.815904+00:00
 -- url     : https://prove2.me/theorems/ee903c92-1a31-4eab-b871-e7258e906d5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_dzb_cplx
 -- name    : ReciprocityTheory.AnForm.A.dzb_cplx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:17.181054+00:00
 -- url     : https://prove2.me/theorems/2f5695a3-52f9-4038-a914-3c4bbc1d21b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_appellHumbert_trivial_of_nowhere_vanishing
 -- name    : GlobalTheory.appellHumbert_trivial_of_nowhere_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:23:29.170534+00:00
 -- url     : https://prove2.me/theorems/14823742-6862-457a-a517-6dbc59500d91

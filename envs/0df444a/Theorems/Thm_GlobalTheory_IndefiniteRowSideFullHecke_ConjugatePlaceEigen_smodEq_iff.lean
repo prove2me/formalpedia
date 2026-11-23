@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ConjugatePlaceEigen_smodEq_iff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ConjugatePlaceEigen.smodEq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:27:30.316812+00:00
 -- url     : https://prove2.me/theorems/e6c748e7-3913-482e-96a5-c020068a46ac

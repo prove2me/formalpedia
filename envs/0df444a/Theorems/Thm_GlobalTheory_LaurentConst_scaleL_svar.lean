@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_scaleL_svar
 -- name    : GlobalTheory.LaurentConst.scaleL_svar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:27:24.276274+00:00
 -- url     : https://prove2.me/theorems/cf8209da-d608-4dbe-9ff2-a0368b7e0a24

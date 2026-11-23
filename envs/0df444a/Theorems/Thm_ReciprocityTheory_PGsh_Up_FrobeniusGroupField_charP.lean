@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_charP
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.charP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:26:16.144242+00:00
 -- url     : https://prove2.me/theorems/51612c55-5ee2-42e3-bf43-7a0e4f98beea

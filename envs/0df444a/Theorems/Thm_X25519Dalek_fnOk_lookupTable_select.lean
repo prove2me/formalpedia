@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_lookupTable_select
 -- name    : X25519Dalek.fnOk_lookupTable_select
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T21:42:24.253806+00:00
 -- url     : https://prove2.me/theorems/073504d5-b800-492f-a56e-ba7bac3bd9a1

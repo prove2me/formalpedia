@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatMinor_mem_int_iff
 -- name    : GlobalTheory.SatMinor.mem_int_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:44.812437+00:00
 -- url     : https://prove2.me/theorems/effbbd06-674a-45c2-af8f-3fb35b965444

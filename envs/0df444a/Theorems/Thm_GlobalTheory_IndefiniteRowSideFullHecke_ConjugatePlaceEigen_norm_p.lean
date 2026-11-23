@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ConjugatePlaceEigen_norm_p
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ConjugatePlaceEigen.norm_p
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:27:06.708848+00:00
 -- url     : https://prove2.me/theorems/8a1834cc-509b-44a0-a250-7c0198500c45

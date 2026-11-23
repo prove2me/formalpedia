@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_eq_of_toJet_eq
 -- name    : GlobalTheory.JetSer.eq_of_toJet_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:03.076899+00:00
 -- url     : https://prove2.me/theorems/a50dbd57-12c5-4828-8093-80e5345ddda0

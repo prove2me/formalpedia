@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_gauss_unif
 -- name    : PI.HtPlacesSumWork.gauss_unif
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:17.370769+00:00
 -- url     : https://prove2.me/theorems/ceebf3e6-360b-42b7-bd43-6e1a89f9bb29

@@ -62447,10 +62447,10 @@
 {"parent": "QCopyMono.lemma_5", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
 {"parent": "QCopyMono.lemma_5", "child": "QCopyMono_ViolatedEdge", "via": ["statement"]}
 {"parent": "QCopyMono.lemma_5", "child": "QCopyMono_IsMonoTester", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_3", "child": "ABPOnline_cG", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_3", "child": "GrothendieckLB_V", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_3", "child": "GrothendieckLB_beta", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_3", "child": "GrothendieckLB_IsTernaryFn", "via": ["statement"]}
+{"parent": "GrothendieckLB.theorem_8_3", "child": "ABPOnline_cG", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_3", "child": "GrothendieckLB_V", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_3", "child": "GrothendieckLB_beta", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_3", "child": "GrothendieckLB_IsTernaryFn", "via": ["solution", "statement"]}
 {"parent": "KarpLiptonOM_PolyPred", "child": "KarpLiptonOM_tupleEnc", "via": ["statement"]}
 {"parent": "KarpLiptonOM_PolyPred", "child": "CookPvsNP_defs", "via": ["statement"]}
 {"parent": "e7_interval_integral_clamp_toNNReal", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}

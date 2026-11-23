@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_projectivePoint_double
 -- name    : X25519Dalek.fnOk_projectivePoint_double
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T21:43:00.044154+00:00
 -- url     : https://prove2.me/theorems/6845c2a8-16ca-4f60-a23c-0262b1c01cd8

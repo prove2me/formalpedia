@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_scaleL_C
 -- name    : GlobalTheory.LaurentConst.scaleL_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:27:28.598605+00:00
 -- url     : https://prove2.me/theorems/f1902f6d-4d54-42db-ab33-76b0eabf9ff6

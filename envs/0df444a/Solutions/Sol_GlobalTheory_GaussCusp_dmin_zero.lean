@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for GlobalTheory.GaussCusp.dmin_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T15:41:32.689605+00:00
+-- url     : https://prove2.me/submissions/17970522-8ea9-480b-8ef5-cba9d632abf3
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_CuspidalExponentialDecay
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_IsIntegralCc
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_TiledBoundaries_NstatementHypsConsistent
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_FirstRaisingMemEquivariant
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField ReciprocityTheory.ChartRestriction.G.FD
+open ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries (E4)
+open GlobalTheory
+open GlobalTheory.GaussCusp
+variable {E : Type} [Field E] [NumberField E] [IsCMField E] {ζ : E}
+namespace GlobalTheory.GaussCusp
+theorem _root_.solution {Ψ : Finset (E →+* ℂ)} (x : Frame Ψ 1) (τ : Ψ) :
+    dmin (1 : Matrix (Fin 1) (Fin 1) E) x τ (Fin.castSucc 0) = 1 := by
+  unfold dmin lminor
+  exact Matrix.det_isEmpty (n := Fin 0)
+end GlobalTheory.GaussCusp

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_hasDerivAt_ee
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.hasDerivAt_ee
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:30.560007+00:00
 -- url     : https://prove2.me/theorems/e6fec3ab-e6d6-4250-8925-3056ece7e7bc

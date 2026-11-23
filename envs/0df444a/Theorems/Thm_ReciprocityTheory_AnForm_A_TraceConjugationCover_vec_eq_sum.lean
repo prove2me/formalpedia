@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_TraceConjugationCover_vec_eq_sum
 -- name    : ReciprocityTheory.AnForm.A.TraceConjugationCover.vec_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:26.02305+00:00
 -- url     : https://prove2.me/theorems/833b042f-e07e-4754-91eb-f0917deca1ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_evalT_mem
 -- name    : ReciprocityTheory.PGsh.evalT_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:25:36.303819+00:00
 -- url     : https://prove2.me/theorems/000779f4-d380-4f34-996e-e4f890b7dc2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdValD_WA_exists_pow_lt
 -- name    : PI.FinOrdValD.WA.exists_pow_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:46.717716+00:00
 -- url     : https://prove2.me/theorems/28f7402b-a42c-447d-85f7-287ad2a0b979

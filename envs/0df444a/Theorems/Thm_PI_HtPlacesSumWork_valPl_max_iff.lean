@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_valPl_max_iff
 -- name    : PI.HtPlacesSumWork.valPl_max_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:19.310793+00:00
 -- url     : https://prove2.me/theorems/f81d42b2-e054-4b1a-92a8-625aee1d3688

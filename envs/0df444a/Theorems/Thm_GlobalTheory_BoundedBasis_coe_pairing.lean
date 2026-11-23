@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoundedBasis_coe_pairing
 -- name    : GlobalTheory.BoundedBasis.coe_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:53:45.7778+00:00
 -- url     : https://prove2.me/theorems/f499ffec-1eda-428f-b51b-70e5d3b6c816

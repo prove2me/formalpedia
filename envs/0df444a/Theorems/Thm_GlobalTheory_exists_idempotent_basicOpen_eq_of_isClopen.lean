@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_idempotent_basicOpen_eq_of_isClopen
 -- name    : GlobalTheory.exists_idempotent_basicOpen_eq_of_isClopen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:42.290501+00:00
 -- url     : https://prove2.me/theorems/a2583614-1d82-45fe-896e-24a841c7064d

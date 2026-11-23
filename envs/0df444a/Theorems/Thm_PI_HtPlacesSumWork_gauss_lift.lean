@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_gauss_lift
 -- name    : PI.HtPlacesSumWork.gauss_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:12.349079+00:00
 -- url     : https://prove2.me/theorems/21d84e7d-5d7c-47f1-b131-e790f39c2225

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_continuous_fderiv_fderiv
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.continuous_fderiv_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:27:31.463532+00:00
 -- url     : https://prove2.me/theorems/c06b8449-7d1d-4942-81c1-b0eef584ed86

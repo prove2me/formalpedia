@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_norm_rad
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.norm_rad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:50.778816+00:00
 -- url     : https://prove2.me/theorems/4ea14393-083b-4e12-adaa-5e1e4e176ec0

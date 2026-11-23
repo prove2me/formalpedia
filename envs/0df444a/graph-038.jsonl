@@ -54799,10 +54799,10 @@
 {"parent": "GlobalTheory.SmoothForms.Bracket.exp_unitary", "child": "Development_AbelianVarietyTheory_Proofs_HeightProofs_IsLieDataCircle", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.transport_bc_mem", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["statement"]}
 {"parent": "Formalism.UG.P.transport_bc_mem", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Transport", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.Base.mul_mem_DH", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.Base.mul_mem_DH", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_FirstCoordinateAdmissible", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.Base.mul_mem_DH", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IMemSiegel", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.Base.mul_mem_DH", "child": "ReciprocityTheory_GeometryOfNumbers_LatticeCovolumes_InhabSt", "via": ["statement"]}
+{"parent": "GlobalTheory.SW.Base.mul_mem_DH", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.Base.mul_mem_DH", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_FirstCoordinateAdmissible", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.Base.mul_mem_DH", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IMemSiegel", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.Base.mul_mem_DH", "child": "ReciprocityTheory_GeometryOfNumbers_LatticeCovolumes_InhabSt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LocalFlat.flat_of_relationsLift", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_IdealEqBotOfFlatQuotientOfMapMaximalIdeal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LocalFlat.flat_of_relationsLift", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsMemPowSubMemPowSucc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LocalFlat.flat_of_relationsLift", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsUniqueFactorCompletedStalkOfMap", "via": ["solution", "statement"]}
@@ -90469,8 +90469,8 @@
 {"parent": "GlobalTheory.thetaGrp_acts_linearly", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_ConstPullback", "via": ["statement"]}
 {"parent": "GlobalTheory.PolyNorm.ev_one", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_EqOfNormResultantEqStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PolyNorm.ev_one", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_EqProdOfMul", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.appellHumbert_trivial_of_nowhere_vanishing", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["statement"]}
-{"parent": "GlobalTheory.appellHumbert_trivial_of_nowhere_vanishing", "child": "Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_AppellHumbertTrivialOfNowhereVanishing", "via": ["statement"]}
+{"parent": "GlobalTheory.appellHumbert_trivial_of_nowhere_vanishing", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.appellHumbert_trivial_of_nowhere_vanishing", "child": "Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_AppellHumbertTrivialOfNowhereVanishing", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FieldBaseChange.epi_and_isMonHom_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt", "via": ["statement"]}
 {"parent": "GlobalTheory.FieldBaseChange.epi_and_isMonHom_iff", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_InvariantFunctionsDescend", "via": ["statement"]}
 {"parent": "GlobalTheory.FieldBaseChange.epi_and_isMonHom_iff", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_IsMonHomIffOfIsGrpPullback", "via": ["statement"]}

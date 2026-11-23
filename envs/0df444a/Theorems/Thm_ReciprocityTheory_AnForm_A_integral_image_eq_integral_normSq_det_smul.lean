@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_integral_image_eq_integral_normSq_det_smul
 -- name    : ReciprocityTheory.AnForm.A.integral_image_eq_integral_normSq_det_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:24:44.195784+00:00
 -- url     : https://prove2.me/theorems/3656cfde-117e-4491-9220-6f9966597590

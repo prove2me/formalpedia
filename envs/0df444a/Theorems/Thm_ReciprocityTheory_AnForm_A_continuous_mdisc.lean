@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_continuous_mdisc
 -- name    : ReciprocityTheory.AnForm.A.continuous_mdisc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:36.732203+00:00
 -- url     : https://prove2.me/theorems/7963eb29-3bf3-453b-8177-2b9c1caa55fd

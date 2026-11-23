@@ -65688,7 +65688,7 @@
 {"parent": "Comp.MatrixGameQ.toMatrixGame_A", "child": "Comp_Basic", "via": ["solution", "statement"]}
 {"parent": "Comp.MatrixGameQ.toMatrixGame_A", "child": "Comp_MatrixGameQ", "via": ["solution", "statement"]}
 {"parent": "Formalism_TwistFamilyExistence_Statement", "child": "Formalism_JacobiWeightFamilies_LFunctionOnePositive", "via": ["statement"]}
-{"parent": "X25519Dalek.fnOk_lookupTable_select", "child": "X25519Dalek_Spec", "via": ["statement"]}
+{"parent": "X25519Dalek.fnOk_lookupTable_select", "child": "X25519Dalek_Spec", "via": ["solution", "statement"]}
 {"parent": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Transfer", "child": "Formalism_BranchSandwichDivisors_StatementL", "via": ["statement"]}
 {"parent": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Transfer", "child": "Formalism_HarderNarasimhan_ShiftInvariance", "via": ["statement"]}
 {"parent": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_Transfer", "child": "Formalism_MeanHeightDescent_AverageDegreeBounds_GoodBadCut", "via": ["statement"]}
@@ -66429,7 +66429,7 @@
 {"parent": "Csg.attackAction_sum", "child": "Csg_CsgMonotone", "via": ["solution", "statement"]}
 {"parent": "Csg.attackAction_sum", "child": "Csg_IntrusionDetection", "via": ["solution", "statement"]}
 {"parent": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_InducedSectionsSpanStatement", "child": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_QhCountAll", "via": ["statement"]}
-{"parent": "X25519Dalek.fnOk_projectivePoint_double", "child": "X25519Dalek_Spec", "via": ["statement"]}
+{"parent": "X25519Dalek.fnOk_projectivePoint_double", "child": "X25519Dalek_Spec", "via": ["solution", "statement"]}
 {"parent": "Formalism.LFunctionChainParameters.MatrixLatticeEstimates.to_euclidean_lin_mul", "child": "Formalism_SizeWindowBrackets_FrameTraceRatioFinEquiv", "via": ["solution", "statement"]}
 {"parent": "Formalism.LFunctionChainParameters.MatrixLatticeEstimates.to_euclidean_lin_mul", "child": "Formalism_SizeWindowBrackets_ChainSlopeWindows_ExistsNsmulMem", "via": ["solution", "statement"]}
 {"parent": "Formalism.LFunctionChainParameters.MatrixLatticeEstimates.to_euclidean_lin_mul", "child": "Formalism_HarderNarasimhan_ShiftInvariance", "via": ["solution", "statement"]}

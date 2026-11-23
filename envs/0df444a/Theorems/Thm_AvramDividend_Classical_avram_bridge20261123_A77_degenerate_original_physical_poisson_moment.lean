@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bridge20261123_A77_degenerate_original_physical_poisson_moment
 -- name    : AvramDividend.Classical.avram_bridge20261123_A77_degenerate_original_physical_poisson_moment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:28:51.649179+00:00
 -- url     : https://prove2.me/theorems/c5cff476-7ec3-4ca2-90a6-281eca79bf88

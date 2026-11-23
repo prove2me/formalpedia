@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_chart_weight_compact
 -- name    : ReciprocityTheory.AnForm.M.chart_weight_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:43.570999+00:00
 -- url     : https://prove2.me/theorems/ee7a0659-cddd-4a33-8f5b-93ae2cf74dc9

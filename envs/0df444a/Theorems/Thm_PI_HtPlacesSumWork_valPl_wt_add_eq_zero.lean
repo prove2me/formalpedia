@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_valPl_wt_add_eq_zero
 -- name    : PI.HtPlacesSumWork.valPl_wt_add_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:17.972272+00:00
 -- url     : https://prove2.me/theorems/2f7b1522-a5cf-4ad9-96a8-ce47c91d1ba0

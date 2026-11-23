@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_addv_isNormDiscrete
 -- name    : PI.HtPlacesSumWork.addv_isNormDiscrete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:57.711492+00:00
 -- url     : https://prove2.me/theorems/96808b17-ecb8-4f78-be1e-fc257eb7b083

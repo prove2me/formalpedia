@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_transvection_isUpper
 -- name    : GlobalTheory.transvection_isUpper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:54.482042+00:00
 -- url     : https://prove2.me/theorems/f05b33b2-ca63-4170-8041-8637db46d789

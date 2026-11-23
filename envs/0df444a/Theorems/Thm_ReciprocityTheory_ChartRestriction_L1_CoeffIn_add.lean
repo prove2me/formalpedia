@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_CoeffIn_add
 -- name    : ReciprocityTheory.ChartRestriction.L1.CoeffIn.add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:57.962802+00:00
 -- url     : https://prove2.me/theorems/3c85dc42-d7c9-4b47-b85b-9091b7ea19a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothPointFamily_exists_finset_of_mem_nhds
 -- name    : GlobalTheory.SmoothPointFamily.exists_finset_of_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:14.149878+00:00
 -- url     : https://prove2.me/theorems/db69e345-658c-4377-8c51-a3eba26a4cab

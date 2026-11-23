@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_Up_sum_single__5b64b664eaa4
 -- name    : P2M_ReciprocityTheory_PGsh_Up_sum_single__5b64b664eaa4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:15.283804+00:00
 -- url     : https://prove2.me/theorems/842f48bb-3158-4b77-b937-276b2aaa7ab8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIso_of_isProper_of_quasiFinite_of_isIso_stalkMap
 -- name    : GlobalTheory.isIso_of_isProper_of_quasiFinite_of_isIso_stalkMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:47.575344+00:00
 -- url     : https://prove2.me/theorems/5c910285-97e5-4b05-9e6d-373ec87053ba

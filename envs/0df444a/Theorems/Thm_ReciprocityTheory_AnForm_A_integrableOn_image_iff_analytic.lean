@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_integrableOn_image_iff_analytic
 -- name    : ReciprocityTheory.AnForm.A.integrableOn_image_iff_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:24:28.945156+00:00
 -- url     : https://prove2.me/theorems/4658bc5e-acf0-4293-a1d1-78a872ca1427

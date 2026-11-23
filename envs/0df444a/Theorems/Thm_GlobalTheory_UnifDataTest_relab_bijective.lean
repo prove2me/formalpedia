@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDataTest_relab_bijective
 -- name    : GlobalTheory.UnifDataTest.relab_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:47.808775+00:00
 -- url     : https://prove2.me/theorems/52104c4d-c1b7-423d-8e33-48928274fec9
