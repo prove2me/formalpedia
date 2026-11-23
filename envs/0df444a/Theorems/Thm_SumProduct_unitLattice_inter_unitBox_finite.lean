@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_unitLattice_inter_unitBox_finite
 -- name    : SumProduct.unitLattice_inter_unitBox_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:04:37.953518+00:00
 -- url     : https://prove2.me/theorems/f806a7c1-91eb-4cfe-89f5-0501ee9f4596

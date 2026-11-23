@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_B_univ_safe_home_eq_univ
 -- name    : Csg.skirmish_B_univ_safe_home_eq_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:06:14.128885+00:00
 -- url     : https://prove2.me/theorems/a7814862-5403-481e-ae4b-fc3ec7a21452

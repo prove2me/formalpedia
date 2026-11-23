@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_integral_fundamentalDomain_periodisation
 -- name    : DedekindZeta.PoissonSummation.integral_fundamentalDomain_periodisation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:03:04.311271+00:00
 -- url     : https://prove2.me/theorems/68261b86-a009-4251-91a7-487e2770bfe0

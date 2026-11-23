@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsVStar_fixed
 -- name    : Csg.idsVStar_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:12:41.391453+00:00
 -- url     : https://prove2.me/theorems/823905ab-da2d-4560-abe1-d09a58a44efd

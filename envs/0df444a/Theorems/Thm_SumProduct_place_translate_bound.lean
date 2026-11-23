@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_place_translate_bound
 -- name    : SumProduct.place_translate_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:43:14.511186+00:00
 -- url     : https://prove2.me/theorems/273d6093-7cfa-440f-9781-ddfbaa4c2deb

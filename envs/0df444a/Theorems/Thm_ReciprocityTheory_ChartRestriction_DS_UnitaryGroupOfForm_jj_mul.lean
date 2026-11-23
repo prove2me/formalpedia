@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_UnitaryGroupOfForm_jj_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.UnitaryGroupOfForm.jj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:42:49.377416+00:00
 -- url     : https://prove2.me/theorems/bb11474a-9722-41d0-9062-e78b1dc03c74

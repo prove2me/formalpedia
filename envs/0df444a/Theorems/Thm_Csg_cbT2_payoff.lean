@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_cbT2_payoff
 -- name    : Csg.cbT2_payoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:15:45.876531+00:00
 -- url     : https://prove2.me/theorems/9b6ee53b-d520-49db-b46b-0e5e5a41aaaf

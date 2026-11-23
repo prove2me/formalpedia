@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsGameCSG_compromised_payoff_col
 -- name    : Csg.idsGameCSG_compromised_payoff_col
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:12:36.890076+00:00
 -- url     : https://prove2.me/theorems/872a6066-9590-4a52-8fec-f91edf93e6a2

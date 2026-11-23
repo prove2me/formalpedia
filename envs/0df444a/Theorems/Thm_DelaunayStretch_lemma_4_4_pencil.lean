@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_4_4_pencil
 -- name    : DelaunayStretch.lemma_4_4_pencil
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:54:26.04676+00:00
 -- url     : https://prove2.me/theorems/92d69fd5-8f5d-4433-a3a6-8078279226fc

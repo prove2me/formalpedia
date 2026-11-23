@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_chain_G
 -- name    : Comp.chain_G
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:59:24.207209+00:00
 -- url     : https://prove2.me/theorems/90c8ec3d-7cf5-4d52-981d-a90894a5b8fb

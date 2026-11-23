@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_span_stable
 -- name    : Formalism.REAL.compact_span_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:42:49.907237+00:00
 -- url     : https://prove2.me/theorems/606869e9-6b17-441f-b58f-993eedb9c5fe

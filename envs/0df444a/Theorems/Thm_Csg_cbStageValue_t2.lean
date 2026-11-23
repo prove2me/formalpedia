@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_cbStageValue_t2
 -- name    : Csg.cbStageValue_t2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:15:28.645631+00:00
 -- url     : https://prove2.me/theorems/383b3032-2686-4cc4-9c47-e7c930e0ae5c

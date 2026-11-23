@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_cbExpect_t5
 -- name    : Csg.cbExpect_t5
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:14:17.125844+00:00
 -- url     : https://prove2.me/theorems/2acbe93f-dc9e-4a9a-b50f-970f21ec5d9b

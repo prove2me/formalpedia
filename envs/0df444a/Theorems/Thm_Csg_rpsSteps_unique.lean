@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsSteps_unique
 -- name    : Csg.rpsSteps_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:21:13.287387+00:00
 -- url     : https://prove2.me/theorems/50cbae16-c042-4fb2-95de-fc5222e5fdf4

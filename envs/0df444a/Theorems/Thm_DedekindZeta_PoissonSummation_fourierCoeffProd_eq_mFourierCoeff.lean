@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_fourierCoeffProd_eq_mFourierCoeff
 -- name    : DedekindZeta.PoissonSummation.fourierCoeffProd_eq_mFourierCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:06:43.535805+00:00
 -- url     : https://prove2.me/theorems/127ab848-23b8-4004-8b65-4e9ef13fdb48

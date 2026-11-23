@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_continuous_periodisation
 -- name    : DedekindZeta.PoissonSummation.continuous_periodisation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:01:40.821192+00:00
 -- url     : https://prove2.me/theorems/b5530a19-e1c8-4e04-a0d4-c5a2b9dceaba

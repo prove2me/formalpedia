@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_val_add_right
 -- name    : DensInertW.val_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:21:08.767455+00:00
 -- url     : https://prove2.me/theorems/47b66513-5abf-4b4e-8581-24c8fa3cf4ec

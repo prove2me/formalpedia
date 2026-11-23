@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_finiteDimensional_ncV
 -- name    : ReciprocityTheory.ChartRestriction.DS.finiteDimensional_ncV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:44:50.766112+00:00
 -- url     : https://prove2.me/theorems/2133d5e1-d2e0-415c-adbf-eb58abd3dd58

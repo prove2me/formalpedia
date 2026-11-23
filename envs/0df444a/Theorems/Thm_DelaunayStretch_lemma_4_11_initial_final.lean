@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_4_11_initial_final
 -- name    : DelaunayStretch.lemma_4_11_initial_final
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:57:36.950208+00:00
 -- url     : https://prove2.me/theorems/fc006393-0004-49c0-a084-092e76dbc6d1

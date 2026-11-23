@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DelaunayStretch.corollary_4_10_sliding_disk
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-23T00:49:18.804193+00:00
 -- url     : https://prove2.me/submissions/ed8318a5-c2db-4218-9ac3-c6c00b2a628f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_DelaunayStretch_lemma_4_2_range_of_coordinates
 import Theorems.Thm_DelaunayStretch_lemma_4_4_pencil

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_GLRed_red_val
 -- name    : Formalism.DoubleCosetMeasures.P.GLRed.red_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:57.381883+00:00
 -- url     : https://prove2.me/theorems/b06f7445-1154-49fa-9204-1750e6b03cdc

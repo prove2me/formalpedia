@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_mem_noncompactPositionSubmodule_iff__607b2d11fea7
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_mem_noncompactPositionSubmodule_iff__607b2d11fea7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:26.541237+00:00
 -- url     : https://prove2.me/theorems/ad5717ed-6016-4cc2-91b1-2a2fb218bb82

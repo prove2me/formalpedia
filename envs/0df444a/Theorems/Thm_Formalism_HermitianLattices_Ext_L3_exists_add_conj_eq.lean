@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_add_conj_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_add_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:45:41.516586+00:00
 -- url     : https://prove2.me/theorems/dd5d87ce-f02a-45a0-a0e2-32a326fc6c90

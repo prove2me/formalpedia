@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_NCSG_reduceMin_reachOp_eq
 -- name    : Csg.NCSG.reduceMin_reachOp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:17:10.458537+00:00
 -- url     : https://prove2.me/theorems/9e95711a-a095-4d2f-a298-3ea5b79bbfed

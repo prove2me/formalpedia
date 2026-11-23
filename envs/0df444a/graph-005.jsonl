@@ -7749,7 +7749,7 @@
 {"parent": "actuarial_c_moment_zero", "child": "actuarial_c_second", "via": ["solution", "statement"]}
 {"parent": "NLogN.KIL.moveField_spec", "child": "IntMul_Kappa_K_Defs18", "via": ["solution", "statement"]}
 {"parent": "DbarRegularity.dbar_fderiv_apply", "child": "DbarRegularity_Setting", "via": ["solution", "statement"]}
-{"parent": "RiemannVonMangoldt.lindelof_error_littleO", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["statement"]}
+{"parent": "RiemannVonMangoldt.lindelof_error_littleO", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["solution", "statement"]}
 {"parent": "PM.star2_4", "child": "PM_core_statement_formulas", "via": ["solution", "statement"]}
 {"parent": "PM.star2_4", "child": "PM_core_star1_system", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LiteralAnalytic.norm_choiceMatrix_le_of_permutation_sum", "child": "OAI_NumberTheory_PiExponent_Approximation_RowTranslation_CoreData", "via": ["solution", "statement"]}

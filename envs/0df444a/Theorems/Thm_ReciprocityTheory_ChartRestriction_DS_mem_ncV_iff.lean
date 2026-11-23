@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_mem_ncV_iff
 -- name    : ReciprocityTheory.ChartRestriction.DS.mem_ncV_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:45:27.337324+00:00
 -- url     : https://prove2.me/theorems/14250b24-627a-4204-b7e2-db252527ff6f

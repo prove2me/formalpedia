@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_integrable_sinc_pow
 -- name    : SumProduct.integrable_sinc_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:57:32.667705+00:00
 -- url     : https://prove2.me/theorems/ba54bcad-1301-45d9-bf69-3a0534282157

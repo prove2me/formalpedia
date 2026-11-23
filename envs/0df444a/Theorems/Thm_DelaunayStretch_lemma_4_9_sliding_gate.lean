@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_4_9_sliding_gate
 -- name    : DelaunayStretch.lemma_4_9_sliding_gate
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:57:58.848165+00:00
 -- url     : https://prove2.me/theorems/7b7f3b23-663e-4973-ab16-05e70c751bca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_reduceMax_hiderC_stageValue_eq
 -- name    : Csg.reduceMax_hiderC_stageValue_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:29:20.998869+00:00
 -- url     : https://prove2.me/theorems/c4b978cd-f702-4fb7-a6ee-98d3e95b9efc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qk16_isClosedEmbedding_toM
 -- name    : UpperTheory.Reformulated.B.Qk16.isClosedEmbedding_toM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:31.262557+00:00
 -- url     : https://prove2.me/theorems/a31ba0ed-cd04-47ae-b3ab-1742c97b8393

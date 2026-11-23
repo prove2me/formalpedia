@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Csg_idsCSG_stageGame_A__7bb1bc444f1d
 -- name    : P2M_Csg_idsCSG_stageGame_A__7bb1bc444f1d
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:50:47.551777+00:00
 -- url     : https://prove2.me/theorems/c989d15c-d923-48ec-bd46-4e36aca70b04

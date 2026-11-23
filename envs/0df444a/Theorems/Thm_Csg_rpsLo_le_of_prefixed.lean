@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsLo_le_of_prefixed
 -- name    : Csg.rpsLo_le_of_prefixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:11:34.408573+00:00
 -- url     : https://prove2.me/theorems/e80221e6-a232-4f25-be34-f243943083b6

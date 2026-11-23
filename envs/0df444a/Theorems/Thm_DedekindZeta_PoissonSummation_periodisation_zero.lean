@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_periodisation_zero
 -- name    : DedekindZeta.PoissonSummation.periodisation_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:01:44.502596+00:00
 -- url     : https://prove2.me/theorems/c69c8fda-0d52-4345-942c-18677f8e0c2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_theorem_3_9_potential_criterion
 -- name    : DelaunayStretch.theorem_3_9_potential_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:54:12.335111+00:00
 -- url     : https://prove2.me/theorems/2cfa23d7-8fe4-441a-ae74-c8c4c3a531d4

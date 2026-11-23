@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_algebra_add_mem_matrix
 -- name    : Formalism.REAL.lie_algebra_add_mem_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:42:50.142587+00:00
 -- url     : https://prove2.me/theorems/b3515aba-b04a-401b-870a-3ee166e9f527

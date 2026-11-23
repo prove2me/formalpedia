@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmishK_hide_hide_wait
 -- name    : Csg.skirmishK_hide_hide_wait
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:29:52.606807+00:00
 -- url     : https://prove2.me/theorems/46a6a5a2-15c2-4d6c-b048-d42bac3b92e2

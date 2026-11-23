@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsCSG_stageValue_compromised_eq_healthy_add_one
 -- name    : Csg.idsCSG_stageValue_compromised_eq_healthy_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:25:49.869841+00:00
 -- url     : https://prove2.me/theorems/df04713a-1c9a-40be-a941-969f0d6be741

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_reachOp_lfp_mem_Icc
 -- name    : Csg.rpsCSG_reachOp_lfp_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:12:16.513033+00:00
 -- url     : https://prove2.me/theorems/76e4bdb4-43ea-43d7-9d47-b283f8b24e88

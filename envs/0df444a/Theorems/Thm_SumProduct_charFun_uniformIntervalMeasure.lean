@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_charFun_uniformIntervalMeasure
 -- name    : SumProduct.charFun_uniformIntervalMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:59:23.243644+00:00
 -- url     : https://prove2.me/theorems/96c7da77-5dd3-4611-83c7-4de0e2edaeeb

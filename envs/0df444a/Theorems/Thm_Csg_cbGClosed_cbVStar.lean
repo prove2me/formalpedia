@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_cbGClosed_cbVStar
 -- name    : Csg.cbGClosed_cbVStar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:16:36.702928+00:00
 -- url     : https://prove2.me/theorems/087a41ad-408c-4357-bb45-dbdee257eb72

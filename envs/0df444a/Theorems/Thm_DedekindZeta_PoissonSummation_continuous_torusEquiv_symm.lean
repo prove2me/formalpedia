@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_continuous_torusEquiv_symm
 -- name    : DedekindZeta.PoissonSummation.continuous_torusEquiv_symm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:04:03.65951+00:00
 -- url     : https://prove2.me/theorems/1042f367-9b48-4ede-8828-c69b3bc4dbd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stageB_reflect_eq
 -- name    : stageB_reflect_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T23:54:35.595039+00:00
 -- url     : https://prove2.me/theorems/243cbdfd-4c9f-4583-b199-252bfc777d79

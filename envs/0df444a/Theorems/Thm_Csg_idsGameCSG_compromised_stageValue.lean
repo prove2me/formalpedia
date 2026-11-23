@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsGameCSG_compromised_stageValue
 -- name    : Csg.idsGameCSG_compromised_stageValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:12:37.786792+00:00
 -- url     : https://prove2.me/theorems/52523943-ab02-44a6-a6c9-3bba577dfa37

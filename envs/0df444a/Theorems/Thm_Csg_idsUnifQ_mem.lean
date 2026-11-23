@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsUnifQ_mem
 -- name    : Csg.idsUnifQ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:12:31.007214+00:00
 -- url     : https://prove2.me/theorems/0ddce4ae-8289-4894-92df-0c5f50a73773

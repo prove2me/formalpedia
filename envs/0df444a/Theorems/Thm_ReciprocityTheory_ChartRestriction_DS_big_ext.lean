@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_big_ext
 -- name    : ReciprocityTheory.ChartRestriction.DS.big_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:44:42.414238+00:00
 -- url     : https://prove2.me/theorems/0332cc44-6c7b-431d-bfa7-d6353d24a6ad

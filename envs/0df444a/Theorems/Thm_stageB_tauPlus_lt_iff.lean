@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stageB_tauPlus_lt_iff
 -- name    : stageB_tauPlus_lt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T00:43:52.985811+00:00
 -- url     : https://prove2.me/theorems/770b697b-7019-4a34-a2c1-fb29f294ecbb

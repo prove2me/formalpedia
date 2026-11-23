@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DelaunayStretch.lemma_4_11_initial_final
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-23T00:48:12.438944+00:00
 -- url     : https://prove2.me/submissions/dbfab90e-8685-4e59-8f54-05c49b387376
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_DelaunayStretch_lemma_4_2_range_of_coordinates
 import Definitions.Def_DelaunayStretch_IsNextDisk

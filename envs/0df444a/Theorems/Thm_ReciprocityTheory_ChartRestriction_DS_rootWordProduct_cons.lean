@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_rootWordProduct_cons
 -- name    : ReciprocityTheory.ChartRestriction.DS.rootWordProduct_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:35.398549+00:00
 -- url     : https://prove2.me/theorems/2e3d1168-317c-4d4c-ac55-89868be3f0f1

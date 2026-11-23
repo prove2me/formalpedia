@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_discrIdeal_ne_bot
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.discrIdeal_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:50:34.166845+00:00
 -- url     : https://prove2.me/theorems/5ffeb301-19da-431b-a3c3-5e979b2fa248

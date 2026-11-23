@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsCSG_payoff_row_two
 -- name    : Csg.idsCSG_payoff_row_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:23:41.235809+00:00
 -- url     : https://prove2.me/theorems/a5658cba-b4b3-4aff-a07c-eecc94d5f76f

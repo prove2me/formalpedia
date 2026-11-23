@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_reduceMin_hiderC_stageGame_eq
 -- name    : Csg.reduceMin_hiderC_stageGame_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:27:39.314183+00:00
 -- url     : https://prove2.me/theorems/8455616a-0a22-4e36-a6eb-0a86c8d2f93c

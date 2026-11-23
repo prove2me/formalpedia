@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_theorem_4_7_sufficient_conditions
 -- name    : DelaunayStretch.theorem_4_7_sufficient_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:56:55.157499+00:00
 -- url     : https://prove2.me/theorems/b036a994-0941-4595-91d2-a29731ecff98

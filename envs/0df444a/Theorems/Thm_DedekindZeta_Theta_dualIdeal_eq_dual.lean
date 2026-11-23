@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_dualIdeal_eq_dual
 -- name    : DedekindZeta.Theta.dualIdeal_eq_dual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:11:19.422198+00:00
 -- url     : https://prove2.me/theorems/992af66e-8e1b-4033-87b1-6cd17328b822

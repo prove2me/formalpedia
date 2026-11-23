@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsVStar_le_of_prefixed
 -- name    : Csg.idsVStar_le_of_prefixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:12:41.473727+00:00
 -- url     : https://prove2.me/theorems/13bc1bbd-fcff-4d5b-ad82-573fe848b571

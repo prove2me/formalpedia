@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSGSteps_stageGame_initial_payoff_row
 -- name    : Csg.rpsCSGSteps_stageGame_initial_payoff_row
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:21:16.534907+00:00
 -- url     : https://prove2.me/theorems/32b5d87d-b929-490b-bfd4-b19efc64f181

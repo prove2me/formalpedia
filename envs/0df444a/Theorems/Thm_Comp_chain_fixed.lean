@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_chain_fixed
 -- name    : Comp.chain_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:58:37.704488+00:00
 -- url     : https://prove2.me/theorems/aa1f9f88-c9bb-45cd-adee-9cd3c9581e14

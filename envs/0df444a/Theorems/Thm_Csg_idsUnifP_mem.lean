@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsUnifP_mem
 -- name    : Csg.idsUnifP_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:12:25.834716+00:00
 -- url     : https://prove2.me/theorems/40349f6a-508f-4209-8a65-55cacc75c444

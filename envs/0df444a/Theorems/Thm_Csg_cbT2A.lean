@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_cbT2A
 -- name    : Csg.cbT2A
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:15:31.401438+00:00
 -- url     : https://prove2.me/theorems/1b96b7ae-b4e5-403a-872d-718bd063624d

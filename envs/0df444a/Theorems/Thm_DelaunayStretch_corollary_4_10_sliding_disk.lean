@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_corollary_4_10_sliding_disk
 -- name    : DelaunayStretch.corollary_4_10_sliding_disk
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:57:12.74397+00:00
 -- url     : https://prove2.me/theorems/d2c58f50-e2ac-4104-adc2-a78169a850e3

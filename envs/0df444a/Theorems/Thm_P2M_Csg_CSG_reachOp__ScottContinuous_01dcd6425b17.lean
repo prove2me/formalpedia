@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Csg_CSG_reachOp__ScottContinuous_01dcd6425b17
 -- name    : P2M_Csg_CSG_reachOp__ScottContinuous_01dcd6425b17
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:16:55.07818+00:00
 -- url     : https://prove2.me/theorems/50a6bbc1-41a5-48e3-adc6-cbd943a3e9a4

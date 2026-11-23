@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DelaunayStretch.theorem_4_7_sufficient_conditions
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-23T00:45:17.169028+00:00
 -- url     : https://prove2.me/submissions/11cf7f26-98af-481b-aaf3-38586c4f9e8f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_DelaunayStretch_theorem_3_9_potential_criterion
 import Theorems.Thm_DelaunayStretch_lemma_4_4_pencil

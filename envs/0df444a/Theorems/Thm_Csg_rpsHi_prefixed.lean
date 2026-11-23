@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsHi_prefixed
 -- name    : Csg.rpsHi_prefixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:11:42.995306+00:00
 -- url     : https://prove2.me/theorems/c227d819-f53b-4ce1-8321-8618fd11f0ec

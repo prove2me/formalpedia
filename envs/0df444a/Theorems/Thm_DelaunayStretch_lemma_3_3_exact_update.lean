@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_3_3_exact_update
 -- name    : DelaunayStretch.lemma_3_3_exact_update
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:53:52.202517+00:00
 -- url     : https://prove2.me/theorems/2497a8a4-571c-4039-b93b-a5da2408a042

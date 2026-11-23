@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_4_8_derivatives_along_curves
 -- name    : DelaunayStretch.lemma_4_8_derivatives_along_curves
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:58:00.305735+00:00
 -- url     : https://prove2.me/theorems/87327df8-a418-4b7a-ab09-0a7ab52310a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_ne_of_inB
 -- name    : PI.HwUniqW.ne_of_inB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:42:35.783984+00:00
 -- url     : https://prove2.me/theorems/c1ae5d7a-e8bb-45e0-ba73-62c667fe8380

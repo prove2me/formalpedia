@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_chain_step2
 -- name    : Comp.chain_step2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:57:51.106302+00:00
 -- url     : https://prove2.me/theorems/1968d826-eb25-4f94-bcbf-f03cff54c6e1

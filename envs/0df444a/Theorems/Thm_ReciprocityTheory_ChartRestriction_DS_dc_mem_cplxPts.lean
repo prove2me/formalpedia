@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_dc_mem_cplxPts
 -- name    : ReciprocityTheory.ChartRestriction.DS.dc_mem_cplxPts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:26.001866+00:00
 -- url     : https://prove2.me/theorems/d44b0e3f-e203-431b-ad1c-49804343e6d9

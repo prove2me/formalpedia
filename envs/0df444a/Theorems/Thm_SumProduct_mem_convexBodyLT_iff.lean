@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_mem_convexBodyLT_iff
 -- name    : SumProduct.mem_convexBodyLT_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:57:14.210135+00:00
 -- url     : https://prove2.me/theorems/e624b966-c575-4f9b-a631-231f20d471f8

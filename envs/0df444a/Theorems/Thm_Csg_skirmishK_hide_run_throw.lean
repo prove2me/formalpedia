@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmishK_hide_run_throw
 -- name    : Csg.skirmishK_hide_run_throw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:29:59.325925+00:00
 -- url     : https://prove2.me/theorems/e895ab30-2417-4e70-b08f-b447cbe9508a

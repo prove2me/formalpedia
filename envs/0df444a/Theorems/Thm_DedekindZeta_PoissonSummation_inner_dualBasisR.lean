@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_inner_dualBasisR
 -- name    : DedekindZeta.PoissonSummation.inner_dualBasisR
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:04:03.610456+00:00
 -- url     : https://prove2.me/theorems/43cb8de2-0955-4c2c-8202-cff84ddbc9d4

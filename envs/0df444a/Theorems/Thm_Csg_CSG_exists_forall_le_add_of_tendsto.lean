@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_exists_forall_le_add_of_tendsto
 -- name    : Csg.CSG.exists_forall_le_add_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:16:49.616599+00:00
 -- url     : https://prove2.me/theorems/3220a931-e05a-48f5-bf31-41df75eda8e7

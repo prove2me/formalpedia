@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_algebra_bracket_mem
 -- name    : Formalism.REAL.lie_algebra_bracket_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:04.641894+00:00
 -- url     : https://prove2.me/theorems/0fde5931-f09c-4d27-a159-ea2bf9d83917

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsRoundHealthy_measure_true
 -- name    : Csg.idsRoundHealthy_measure_true
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:26:16.263526+00:00
 -- url     : https://prove2.me/theorems/4f596cb0-156b-4016-8fa9-07364c6d9d65

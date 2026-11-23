@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_integral_prod_torus_eq_integral_box
 -- name    : DedekindZeta.PoissonSummation.integral_prod_torus_eq_integral_box
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:06:55.605799+00:00
 -- url     : https://prove2.me/theorems/31bb38d4-b18a-4489-a1a0-ff774836bd15

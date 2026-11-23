@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_Sub_finrank_perp_aniso
 -- name    : DensInertW.Sub.finrank_perp_aniso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:39:22.630022+00:00
 -- url     : https://prove2.me/theorems/d07db1f0-f51c-4e81-8f05-01a60d6e2ac4

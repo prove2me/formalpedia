@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_normAtPlace_latticeEmbed
 -- name    : SumProduct.normAtPlace_latticeEmbed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:57:05.035033+00:00
 -- url     : https://prove2.me/theorems/14de41c2-a943-4604-bc69-f2e1ded9973f

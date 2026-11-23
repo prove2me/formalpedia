@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_coBuchiInnerOpFun_coe
 -- name    : Csg.CSG.coBuchiInnerOpFun_coe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:13:15.359852+00:00
 -- url     : https://prove2.me/theorems/95da3f32-9ce3-4863-ad5e-af02cb5ed01f

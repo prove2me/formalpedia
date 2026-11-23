@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_dualLatticeBasis_coe
 -- name    : DedekindZeta.PoissonSummation.dualLatticeBasis_coe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:04:14.454331+00:00
 -- url     : https://prove2.me/theorems/b1646399-e0cb-4380-902a-0cf447081937

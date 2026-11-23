@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsPlay_indepSet_healthy
 -- name    : Csg.idsPlay_indepSet_healthy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:26:04.60614+00:00
 -- url     : https://prove2.me/theorems/315f0f7f-4568-4418-a809-2a6965fd443b

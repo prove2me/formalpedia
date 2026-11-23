@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_summable_mixedGaussian_submodule
 -- name    : DedekindZeta.Theta.summable_mixedGaussian_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:51:39.911985+00:00
 -- url     : https://prove2.me/theorems/add3beef-b65f-436c-90ec-42ed11fe591a

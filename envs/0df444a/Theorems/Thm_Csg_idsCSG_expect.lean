@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsCSG_expect
 -- name    : Csg.idsCSG_expect
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:23:33.42855+00:00
 -- url     : https://prove2.me/theorems/78c9d206-f3be-4c3e-888f-55c844561caf

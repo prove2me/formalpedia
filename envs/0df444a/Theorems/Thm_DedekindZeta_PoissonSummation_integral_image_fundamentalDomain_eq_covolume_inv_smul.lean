@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_integral_image_fundamentalDomain_eq_covolume_inv_smul
 -- name    : DedekindZeta.PoissonSummation.integral_image_fundamentalDomain_eq_covolume_inv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:07:31.437838+00:00
 -- url     : https://prove2.me/theorems/104f6d08-0eae-463e-b82c-820e4a964015

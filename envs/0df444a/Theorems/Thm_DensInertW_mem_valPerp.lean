@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_mem_valPerp
 -- name    : DensInertW.mem_valPerp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:39:53.130601+00:00
 -- url     : https://prove2.me/theorems/bf4bbd51-3865-40e6-8c18-b7760c46c584

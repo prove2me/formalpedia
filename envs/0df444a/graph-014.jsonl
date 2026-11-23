@@ -93143,8 +93143,8 @@
 {"parent": "NashStackelberg_Alg1Output", "child": "NashStackelberg_NASP_cost", "via": ["statement"]}
 {"parent": "NashStackelberg_Alg1Output", "child": "NashStackelberg_NASP_Ftilde", "via": ["statement"]}
 {"parent": "NashStackelberg_Alg1Output", "child": "NashStackelberg_Lottery", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_47", "child": "ReservationPolicy_Params_Valid", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_47", "child": "ReservationPolicy_IsInvestCandidate", "via": ["statement"]}
+{"parent": "ReservationPolicy.eq_47", "child": "ReservationPolicy_Params_Valid", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_47", "child": "ReservationPolicy_IsInvestCandidate", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.finite_maximal_supergraph_of_hereditary__p2m_cf95c127_ee46_41b0_beca_773ede50ca42_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "LimitedPersuasion_PointCollection", "child": "LimitedPersuasion_Model", "via": ["statement"]}
 {"parent": "MinVolEllipsoid_ineq3Right", "child": "MinVolEllipsoid_borderedMatrix", "via": ["statement"]}
@@ -95405,9 +95405,9 @@
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsConservative.killedKernel_mono", "child": "MarkovProcess_V3H_Trajectory_Dynkin_eb6ae7c0", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsConservative.killedKernel_mono", "child": "MarkovProcess_V3H_Path_Exhaustion_e03721f1", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsConservative.killedKernel_mono", "child": "MarkovProcess_V3H_Killed_Kernel_adff808d", "via": ["solution", "statement"]}
-{"parent": "ReservationPolicy.lemma_1", "child": "ReservationPolicy_Params_Valid", "via": ["statement"]}
-{"parent": "ReservationPolicy.lemma_1", "child": "ReservationPolicy_IsInvestCandidate", "via": ["statement"]}
-{"parent": "ReservationPolicy.lemma_1", "child": "ReservationPolicy_IsPolicyEq", "via": ["statement"]}
+{"parent": "ReservationPolicy.lemma_1", "child": "ReservationPolicy_Params_Valid", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.lemma_1", "child": "ReservationPolicy_IsInvestCandidate", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.lemma_1", "child": "ReservationPolicy_IsPolicyEq", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P10.theorem4", "child": "QAlgorithms_Papers_Independent_Intake100_P10", "via": ["statement"]}
 {"parent": "SPQPoly_NSPQle", "child": "SPQPoly_IsSPQ", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P91.rule_2", "child": "QAlgorithms_Papers_Independent_Intake100_P91", "via": ["solution", "statement"]}

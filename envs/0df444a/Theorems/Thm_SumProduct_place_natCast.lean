@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_place_natCast
 -- name    : SumProduct.place_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:42:52.989653+00:00
 -- url     : https://prove2.me/theorems/11c125e6-6cab-4297-874b-163ab9fff5fb

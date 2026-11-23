@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsSteps_fixed
 -- name    : Csg.rpsSteps_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:21:21.091837+00:00
 -- url     : https://prove2.me/theorems/e37d7166-6056-4924-ae19-d9021fc2b452

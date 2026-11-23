@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRun_inner_at_univ
 -- name    : Comp.HideOrRun.inner_at_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:00:40.425214+00:00
 -- url     : https://prove2.me/theorems/db603cff-fee9-4ba9-b88c-cc33ccd86755

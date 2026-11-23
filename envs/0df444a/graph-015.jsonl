@@ -5795,11 +5795,11 @@
 {"parent": "OAI.SKRatio.Certificate.Data.J4K9.check_25", "child": "OAIQ024S011", "via": ["solution", "statement"]}
 {"parent": "OAI.SKRatio.Certificate.Data.J4K9.check_25", "child": "OAIQ024S016", "via": ["solution", "statement"]}
 {"parent": "OAI.SKRatio.Certificate.Data.J4K9.check_25", "child": "OAIQ024S015", "via": ["solution", "statement"]}
-{"parent": "ReservationPolicy.eq_51_52", "child": "ReservationPolicy_Params_dY", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_51_52", "child": "ReservationPolicy_IsPolicyEq", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_51_52", "child": "ReservationPolicy_Params_Valid", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_51_52", "child": "ReservationPolicy_IsInvestCandidate", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_51_52", "child": "ReservationPolicy_Params_dX", "via": ["statement"]}
+{"parent": "ReservationPolicy.eq_51_52", "child": "ReservationPolicy_Params_dY", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_51_52", "child": "ReservationPolicy_IsPolicyEq", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_51_52", "child": "ReservationPolicy_Params_Valid", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_51_52", "child": "ReservationPolicy_IsInvestCandidate", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_51_52", "child": "ReservationPolicy_Params_dX", "via": ["solution", "statement"]}
 {"parent": "FullPriceTime_buyerUtility", "child": "FullPriceTime_IsFeasiblePlan", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P14.entropy_splitting", "child": "QAlgorithms_Papers_Independent_Intakenext100_P14", "via": ["statement"]}
 {"parent": "DebtDoubleMarg.thresholds_coincide", "child": "DebtDoubleMarg_Model", "via": ["statement"]}
@@ -7039,10 +7039,10 @@
 {"parent": "AvramDividend.Classical.avram_wave3_02_barrierSupValue_scale_ratio_at_regular_point", "child": "AvramDividend.Classical.barrierSupValue_stopped_renewal_lower_bound", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave3_02_barrierSupValue_scale_ratio_at_regular_point", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
 {"parent": "DiazModulus.obstructionSpan_vanishOrd", "child": "DiazMultiplicity", "via": ["solution", "statement"]}
-{"parent": "ReservationPolicy.eq_28", "child": "ReservationPolicy_Params_Valid", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_28", "child": "ReservationPolicy_Params_rhoXStar", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_28", "child": "ReservationPolicy_IsInvestCandidate", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_28", "child": "ReservationPolicy_Params_rhoYStar", "via": ["statement"]}
+{"parent": "ReservationPolicy.eq_28", "child": "ReservationPolicy_Params_Valid", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_28", "child": "ReservationPolicy_Params_rhoXStar", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_28", "child": "ReservationPolicy_IsInvestCandidate", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_28", "child": "ReservationPolicy_Params_rhoYStar", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P02.eq_110", "child": "QAlgorithms_Papers_Independent_Intakenext100_P02", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.bucket_aug_71", "child": "OAIQ019N049", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_euler_formula__p2m_a18184f7_c783_4d00_9241_7e8764df5618_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}

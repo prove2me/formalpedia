@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_NCSG_combine_compl
 -- name    : Csg.NCSG.combine_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:26:18.998428+00:00
 -- url     : https://prove2.me/theorems/c3d71d19-b08f-4987-a269-4f18910e51a1

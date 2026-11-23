@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmishK_support_home
 -- name    : Csg.skirmishK_support_home
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:47:27.126848+00:00
 -- url     : https://prove2.me/theorems/6619f9c2-f3b8-45ad-83ea-432281037462

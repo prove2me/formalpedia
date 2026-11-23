@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_GeneralLinearIntegersOpenCompact_revIn_lt
 -- name    : Formalism.DoubleCosetMeasures.P.GeneralLinearIntegersOpenCompact.revIn_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:45:10.811377+00:00
 -- url     : https://prove2.me/theorems/529e4a03-daf4-49ad-8474-c3978b250356

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRun_hr_LF
 -- name    : Comp.HideOrRun.hr_LF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:51:11.67226+00:00
 -- url     : https://prove2.me/theorems/4a3d2c9c-2e4a-43f2-a4ed-a17fda5716ce

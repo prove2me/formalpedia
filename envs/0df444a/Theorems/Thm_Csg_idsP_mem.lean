@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsP_mem
 -- name    : Csg.idsP_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:21:27.088073+00:00
 -- url     : https://prove2.me/theorems/00e40ea9-bdb3-4c98-9b84-7653fc38b7de

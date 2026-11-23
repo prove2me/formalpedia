@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAMatchEst_lemma_3_13
 -- name    : NAMatchEst.lemma_3_13
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:56:14.748902+00:00
 -- url     : https://prove2.me/theorems/e4a415d4-8e39-4d2b-b176-7ce7958c44fb

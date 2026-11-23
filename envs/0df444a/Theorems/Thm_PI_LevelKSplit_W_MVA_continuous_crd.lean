@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_MVA_continuous_crd
 -- name    : PI.LevelKSplit.W.MVA.continuous_crd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:21.295535+00:00
 -- url     : https://prove2.me/theorems/fe49f760-501c-43fc-a7cc-630afba3e41e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRun_mid_eq
 -- name    : Comp.HideOrRun.mid_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:50:44.710811+00:00
 -- url     : https://prove2.me/theorems/d06d2e04-e68b-4cb3-8620-3841199b3db0

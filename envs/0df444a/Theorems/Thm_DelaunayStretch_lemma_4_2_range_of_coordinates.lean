@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_4_2_range_of_coordinates
 -- name    : DelaunayStretch.lemma_4_2_range_of_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:54:06.483334+00:00
 -- url     : https://prove2.me/theorems/eab0d976-a259-4ee9-a92b-15609bc8b764

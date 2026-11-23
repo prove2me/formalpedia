@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_wordContraction_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.wordContraction_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:42:26.631903+00:00
 -- url     : https://prove2.me/theorems/26e5fc38-f853-4faa-8cea-aabfa2afa757

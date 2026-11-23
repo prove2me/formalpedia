@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_3_6_chains_are_moves
 -- name    : DelaunayStretch.lemma_3_6_chains_are_moves
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:53:59.761519+00:00
 -- url     : https://prove2.me/theorems/0a3afdec-5384-4e23-9514-081c42cfcd5c

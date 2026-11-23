@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_sum_top
 -- name    : Formalism.DivisionValues.sum_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:36.534045+00:00
 -- url     : https://prove2.me/theorems/2217f9bf-6d95-49dc-82f8-1a8ebf9a880c

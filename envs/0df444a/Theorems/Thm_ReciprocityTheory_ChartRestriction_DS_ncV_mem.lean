@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_ncV_mem
 -- name    : ReciprocityTheory.ChartRestriction.DS.ncV_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:45:08.682999+00:00
 -- url     : https://prove2.me/theorems/e832e992-6bab-4a4f-bff4-e3a4a45fad48

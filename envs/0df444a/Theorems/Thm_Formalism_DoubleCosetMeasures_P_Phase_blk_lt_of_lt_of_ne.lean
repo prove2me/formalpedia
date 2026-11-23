@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_Phase_blk_lt_of_lt_of_ne
 -- name    : Formalism.DoubleCosetMeasures.P.Phase.blk_lt_of_lt_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:45:03.721413+00:00
 -- url     : https://prove2.me/theorems/c72dfab1-8464-4fdd-849b-243ba66a4c1b

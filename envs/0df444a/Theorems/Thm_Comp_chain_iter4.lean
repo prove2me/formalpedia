@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_chain_iter4
 -- name    : Comp.chain_iter4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:58:44.748007+00:00
 -- url     : https://prove2.me/theorems/8c956676-cf01-4b60-a823-2f54817700c5

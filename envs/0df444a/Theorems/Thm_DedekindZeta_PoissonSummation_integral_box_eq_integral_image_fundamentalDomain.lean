@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_integral_box_eq_integral_image_fundamentalDomain
 -- name    : DedekindZeta.PoissonSummation.integral_box_eq_integral_image_fundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:07:03.022672+00:00
 -- url     : https://prove2.me/theorems/2c474e65-524a-4ab1-9801-c762cbcc42db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSweepFT_claim_8_4
 -- name    : LocalSweepFT.claim_8_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-11T08:38:38.95674+00:00
 -- url     : https://prove2.me/theorems/a816549d-054d-48f1-9109-4154178e15c1

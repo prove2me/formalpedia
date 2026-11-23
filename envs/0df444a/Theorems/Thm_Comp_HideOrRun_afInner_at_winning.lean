@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRun_afInner_at_winning
 -- name    : Comp.HideOrRun.afInner_at_winning
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:02:22.416704+00:00
 -- url     : https://prove2.me/theorems/9054425b-6520-4ad2-9f86-aee483668e2b
