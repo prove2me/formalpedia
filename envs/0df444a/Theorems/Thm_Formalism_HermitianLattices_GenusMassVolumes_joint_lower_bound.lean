@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_joint_lower_bound
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.joint_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:44.253862+00:00
 -- url     : https://prove2.me/theorems/b59767af-f39a-4dbb-83a1-9dcac3a148f0

@@ -12487,7 +12487,7 @@
 {"parent": "ThreeSum.WeightedGlobalFastProgramResources.lift_color", "child": "Submission_Weighted_Global_TernaryFastProgramResources", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalFastProgramResources.lift_color", "child": "Submission_ThreeSum_ThreeSumColorDriverResources", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalFastProgramResources.lift_color", "child": "Submission_Weighted_Global_LightTernaryFastProgramProof", "via": ["solution", "statement"]}
-{"parent": "ReverseLogisticsNEBS.corollary_1", "child": "ReverseLogisticsNEBS_Sched", "via": ["statement"]}
+{"parent": "ReverseLogisticsNEBS.corollary_1", "child": "ReverseLogisticsNEBS_Sched", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaPairModel.pair_encoding_injective", "child": "Submission_Weighted_Global_TernaryNativePairMoments", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaPairModel.pair_encoding_injective", "child": "Submission_Weighted_Global_TernaryArenaQueryNative", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaPairModel.pair_encoding_injective", "child": "Submission_Weighted_Global_TernaryArenaSourceModel", "via": ["solution", "statement"]}

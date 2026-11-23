@@ -56584,7 +56584,7 @@
 {"parent": "RSSubspaceDesign.Supplement.theorem_1_2", "child": "RSSubspaceDesign_decPoly", "via": ["statement"]}
 {"parent": "RSSubspaceDesign.Supplement.theorem_1_2", "child": "RSListDecodingCapacity_AllRates_Encoding", "via": ["statement"]}
 {"parent": "RSSubspaceDesign.Supplement.theorem_1_2", "child": "RSSubspaceDesign_encField", "via": ["statement"]}
-{"parent": "WeldedPath.Supplement.theorem_4_9", "child": "WeldedPath_Supplement_projGood", "via": ["statement"]}
+{"parent": "WeldedPath.Supplement.theorem_4_9", "child": "WeldedPath_Supplement_projGood", "via": ["solution", "statement"]}
 {"parent": "ParityBarrier563.Trilinear.Supplement.lemma_5_7", "child": "ParityBarrier563_Trilinear_Supplement_HashedEvaluation", "via": ["statement"]}
 {"parent": "LotteryInterm.IID.Supplement.theorem_6_4", "child": "LotteryInterm_IID_Intermediary", "via": ["statement"]}
 {"parent": "StabilityDichotomies.Solvability.Supplement.parity_approximation_lower", "child": "StabilityDichotomies_Approximability_Core", "via": ["statement"]}
@@ -59838,19 +59838,19 @@
 {"parent": "ManipPotential.Supplement.theorem_4_2", "child": "ManipPotential_Supplement_manipPotentialSCCAt", "via": ["statement"]}
 {"parent": "ManipPotential.Supplement.theorem_4_2", "child": "ManipPotential_Supplement_IsKASPAtSCC", "via": ["statement"]}
 {"parent": "ManipPotential.Supplement.theorem_4_2", "child": "ManipPotential_Supplement_plurality", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_rho", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_regBasis", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_affineBoundaryBisect", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_height", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_IsFp", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_gridVec", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_memOracle", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_rho", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_regBasis", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_affineBoundaryBisect", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_height", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_IsFp", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_gridVec", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit", "child": "QuantumLTF_Membership_memOracle", "via": ["solution", "statement"]}
 {"parent": "NearlyOptimalPPR_Computation_Supplement_ledger", "child": "NearlyOptimalPPR_Computation_Supplement_adapter", "via": ["statement"]}
 {"parent": "MetricTesting.Characterization.Supplement.general_metric_packing_obstruction", "child": "MetricTesting_Characterization_Supplement_completion", "via": ["statement"]}
 {"parent": "MetricTesting.Characterization.Supplement.general_metric_packing_obstruction", "child": "MetricTesting_Characterization_decision_tree", "via": ["statement"]}

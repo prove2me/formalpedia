@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_hasVal_mul_unit
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.hasVal_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:28:23.409145+00:00
 -- url     : https://prove2.me/theorems/f227a7b8-787b-487d-a840-ade8f6b59100

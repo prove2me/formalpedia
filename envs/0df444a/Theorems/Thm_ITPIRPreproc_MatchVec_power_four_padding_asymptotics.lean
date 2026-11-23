@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ITPIRPreproc_MatchVec_power_four_padding_asymptotics
 -- name    : ITPIRPreproc.MatchVec.power_four_padding_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:25:01.403882+00:00
 -- url     : https://prove2.me/theorems/80072711-0873-40f1-bf71-2611ec9df468

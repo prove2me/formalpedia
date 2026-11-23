@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPartyError1146_Adaptive_greedy_properties
 -- name    : MultiPartyError1146.Adaptive.greedy_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T18:34:25.860203+00:00
 -- url     : https://prove2.me/theorems/e0d02be1-c4ee-43af-bbb5-d4f2a8b462e1

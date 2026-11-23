@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_cosetRepsExist
 -- name    : Formalism.L2.Th1.H.cosetRepsExist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:16:55.688082+00:00
 -- url     : https://prove2.me/theorems/07a9f712-03d4-40cf-9a59-9cbce4c879d4

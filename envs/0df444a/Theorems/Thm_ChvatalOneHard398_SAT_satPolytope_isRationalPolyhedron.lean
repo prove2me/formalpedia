@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalOneHard398_SAT_satPolytope_isRationalPolyhedron
 -- name    : ChvatalOneHard398.SAT.satPolytope_isRationalPolyhedron
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:15:18.762452+00:00
 -- url     : https://prove2.me/theorems/ddd6297f-851e-4d2c-98fe-826093fceacb

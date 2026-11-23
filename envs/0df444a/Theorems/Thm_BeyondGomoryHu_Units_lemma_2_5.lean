@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeyondGomoryHu_Units_lemma_2_5
 -- name    : BeyondGomoryHu.Units.lemma_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T06:49:35.52899+00:00
 -- url     : https://prove2.me/theorems/a55c4658-5de3-4dee-99d8-bbc4e37bf48e

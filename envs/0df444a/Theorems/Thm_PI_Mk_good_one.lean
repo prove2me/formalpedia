@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_good_one
 -- name    : PI.Mk.good_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:26:36.244681+00:00
 -- url     : https://prove2.me/theorems/b1005763-3575-4c48-b3f6-5433ae29419c

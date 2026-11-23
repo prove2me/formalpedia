@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_algebraMap_ne_zero_of_mem_hcompl
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.algebraMap_ne_zero_of_mem_hcompl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:35.668294+00:00
 -- url     : https://prove2.me/theorems/ecbcc9cd-e430-43d5-a5ab-208c8ff5722b

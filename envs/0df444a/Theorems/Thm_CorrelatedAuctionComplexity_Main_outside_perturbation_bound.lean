@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedAuctionComplexity_Main_outside_perturbation_bound
 -- name    : CorrelatedAuctionComplexity.Main.outside_perturbation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:34:09.113183+00:00
 -- url     : https://prove2.me/theorems/21cea509-1d4f-4e79-b90d-5d3584539877

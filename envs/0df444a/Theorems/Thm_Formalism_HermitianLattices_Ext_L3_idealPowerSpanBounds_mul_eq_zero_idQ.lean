@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_idealPowerSpanBounds_mul_eq_zero_idQ
 -- name    : Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.mul_eq_zero_idQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:26:25.524829+00:00
 -- url     : https://prove2.me/theorems/51e40850-2f93-4860-b893-fb7bca509b16

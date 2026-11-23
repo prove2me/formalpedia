@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDomain_and_isIntegrallyClosed_atPrime_of_isLocalization
 -- name    : GlobalTheory.isDomain_and_isIntegrallyClosed_atPrime_of_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:26:14.020822+00:00
 -- url     : https://prove2.me/theorems/4118f5f3-20a2-4438-a94d-e6221d64f719

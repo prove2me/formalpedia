@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_sval_of
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.sval_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:28:56.099994+00:00
 -- url     : https://prove2.me/theorems/7c05c489-0ef6-41f7-b391-adbab56447f6

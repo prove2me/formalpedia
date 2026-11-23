@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_hasVal_unique
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.hasVal_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:28:11.503093+00:00
 -- url     : https://prove2.me/theorems/4e550f4b-9bcd-45b1-8e9c-f78806947d59

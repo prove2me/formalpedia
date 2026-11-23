@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_shortIntervalLowerBound
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.shortIntervalLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:24.600136+00:00
 -- url     : https://prove2.me/theorems/e7c5fbf3-d68a-48b7-9e78-6a6c41a7139f

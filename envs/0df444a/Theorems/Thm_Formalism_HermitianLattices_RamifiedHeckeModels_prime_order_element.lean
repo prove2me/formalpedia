@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_prime_order_element
 -- name    : Formalism.HermitianLattices.RamifiedHeckeModels.prime_order_element
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:29:53.645517+00:00
 -- url     : https://prove2.me/theorems/09d87a3f-d82d-483a-a95e-ba110131397c

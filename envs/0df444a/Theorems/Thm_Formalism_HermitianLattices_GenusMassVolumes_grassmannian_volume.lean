@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_grassmannian_volume
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.grassmannian_volume
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:43.424051+00:00
 -- url     : https://prove2.me/theorems/46aedd17-aeca-44f8-b8b8-22ac16f9cef6

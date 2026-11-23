@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPartyError1146_Adaptive_identical_transcripts
 -- name    : MultiPartyError1146.Adaptive.identical_transcripts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T18:34:22.436117+00:00
 -- url     : https://prove2.me/theorems/811c5c5b-c6de-4eed-b7d1-ac8f081a1e2b

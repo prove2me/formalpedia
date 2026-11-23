@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_trace_pos_of_ortho
 -- name    : Formalism.HermitianLattices.Ext.L3.trace_pos_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:17:45.308496+00:00
 -- url     : https://prove2.me/theorems/d6ea9a8a-2991-4aa6-9812-c2ad07fbeeac

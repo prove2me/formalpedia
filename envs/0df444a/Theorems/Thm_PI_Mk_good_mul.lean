@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_good_mul
 -- name    : PI.Mk.good_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:26:19.517822+00:00
 -- url     : https://prove2.me/theorems/af4dd421-0ea3-4e97-916f-cd3c484e8599

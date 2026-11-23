@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_heisenbergAnalytic
 -- name    : Formalism.L2.Th1.H.heisenbergAnalytic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:27:26.177877+00:00
 -- url     : https://prove2.me/theorems/da42ff9e-99c8-4d0b-8af5-a8e48300de1f

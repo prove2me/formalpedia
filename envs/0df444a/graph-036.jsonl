@@ -14328,8 +14328,8 @@
 {"parent": "RH1E6S07_D025_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RandomSizeStable.Stability.RankCutCert.cellsMid_01", "child": "RandomSizeStable_Stability_RankCutCert", "via": ["solution", "statement"]}
 {"parent": "RiemannMasullo.elementarySchwartzSubmodule_smul_mem", "child": "RiemannMasullo_ElementarySchwartzBounds", "via": ["solution", "statement"]}
-{"parent": "ProcurementPoA.DeterministicCap.Supplement.remark_4_2", "child": "ProcurementPoA_DeterministicCap_CapFormula", "via": ["statement"]}
-{"parent": "ProcurementPoA.DeterministicCap.Supplement.remark_4_2", "child": "ProcurementPoA_DeterministicCap_Supplement_StandardAuction", "via": ["statement"]}
+{"parent": "ProcurementPoA.DeterministicCap.Supplement.remark_4_2", "child": "ProcurementPoA_DeterministicCap_CapFormula", "via": ["solution", "statement"]}
+{"parent": "ProcurementPoA.DeterministicCap.Supplement.remark_4_2", "child": "ProcurementPoA_DeterministicCap_Supplement_StandardAuction", "via": ["solution", "statement"]}
 {"parent": "RH1E6S07.part_042_1", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S07.part_042_1", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S07.part_042_1", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -86842,10 +86842,10 @@
 {"parent": "AvramDividend.Classical.p2m81_bv_killed_scale_window_pointwise_kernel_identity_no_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.p2m81_bv_killed_scale_window_pointwise_kernel_identity_no_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09_D037_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "CoDecompFO.fold_codes", "child": "CoDecompFO_CodeFold", "via": ["statement"]}
-{"parent": "CoDecompFO.fold_codes", "child": "CoDecompFO_Fold", "via": ["statement"]}
-{"parent": "CoDecompFO.fold_codes", "child": "CoDecompFO_Codes", "via": ["statement"]}
-{"parent": "CoDecompFO.fold_codes", "child": "CoDecompFO_AltMatrix", "via": ["statement"]}
+{"parent": "CoDecompFO.fold_codes", "child": "CoDecompFO_CodeFold", "via": ["solution", "statement"]}
+{"parent": "CoDecompFO.fold_codes", "child": "CoDecompFO_Fold", "via": ["solution", "statement"]}
+{"parent": "CoDecompFO.fold_codes", "child": "CoDecompFO_Codes", "via": ["solution", "statement"]}
+{"parent": "CoDecompFO.fold_codes", "child": "CoDecompFO_AltMatrix", "via": ["solution", "statement"]}
 {"parent": "ArbLindbladLearn.weighted_bell_coherence_bound", "child": "ArbLindbladLearn_bellVec", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09_D024_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S08_D054_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}

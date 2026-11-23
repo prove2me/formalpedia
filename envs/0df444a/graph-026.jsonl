@@ -43760,7 +43760,7 @@
 {"parent": "QEC.Coding.BDL26ReplacementSupport.rxQOutgoing_nonincident", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementSupport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementSupport.rxQOutgoing_nonincident", "child": "QEC_Coding_FiniteAlternatingConstruction_RZCoordinateBridge", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementSupport.rxQOutgoing_nonincident", "child": "QEC_Coding_FourDimensionalToricCode_Decoder_RXLocalCleaning", "via": ["solution", "statement"]}
-{"parent": "MultiPartyError1146.Adaptive.identical_transcripts", "child": "MultiPartyError1146_Adaptive_Attack", "via": ["statement"]}
+{"parent": "MultiPartyError1146.Adaptive.identical_transcripts", "child": "MultiPartyError1146_Adaptive_Attack", "via": ["solution", "statement"]}
 {"parent": "MomentSearch.opt_le_of_peak", "child": "MomentSearch_OPT", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.triangle_family_law", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Sampling", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.triangle_family_law", "child": "QEC_Coding_ProbabilisticConstruction_Resampling_TableProbability", "via": ["solution", "statement"]}
@@ -51345,7 +51345,7 @@
 {"parent": "QEC.Coding.BDL26LocalSyndromeWeights.rz_extend_weight", "child": "QEC_Coding_FiniteAlternatingConstruction_GraphQuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelQuotientEnergyDensity_integrable", "child": "OAI_NumberTheory_DirichletL_CubicSieve_NormalizedMass", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelQuotientEnergyDensity_integrable", "child": "OAI_NumberTheory_DirichletL_GaussSum_ReflectedBranches", "via": ["solution", "statement"]}
-{"parent": "MultiPartyError1146.Adaptive.greedy_properties", "child": "MultiPartyError1146_Adaptive_Attack", "via": ["statement"]}
+{"parent": "MultiPartyError1146.Adaptive.greedy_properties", "child": "MultiPartyError1146_Adaptive_Attack", "via": ["solution", "statement"]}
 {"parent": "ROLDescent.eq_86", "child": "SteurerHDX_IsConnectedComplex", "via": ["statement"]}
 {"parent": "ROLDescent.eq_86", "child": "ROLDescent_outProb", "via": ["statement"]}
 {"parent": "ROLDescent.eq_86", "child": "ROLDescent_IsSubspaceHierarchy", "via": ["statement"]}
@@ -55721,7 +55721,7 @@
 {"parent": "OAI.CubicEisenstein.kernelTestEnergyDensity_nonneg", "child": "OAI_NumberTheory_DirichletL_GaussSum_ReflectedBranches", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.ProbabilisticConstruction.Resampling.witnessWeight_eq_prod_paths", "child": "QEC_Coding_ProbabilisticConstruction_Resampling_TreeProbability", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.ProbabilisticConstruction.Resampling.witnessWeight_eq_prod_paths", "child": "QEC_Coding_ProbabilisticConstruction_Resampling_ExecutionWitness", "via": ["solution", "statement"]}
-{"parent": "BhangaleHypergraph.Main.outer_soundness", "child": "BhangaleHypergraph_Main_Base", "via": ["statement"]}
+{"parent": "BhangaleHypergraph.Main.outer_soundness", "child": "BhangaleHypergraph_Main_Base", "via": ["solution", "statement"]}
 {"parent": "RevRedSAT.lemma_B_7", "child": "RevRedSAT_mu", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_gtop20_original_lower_exit_cofinal_floor_clocks", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gtop20_original_lower_exit_cofinal_floor_clocks", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}

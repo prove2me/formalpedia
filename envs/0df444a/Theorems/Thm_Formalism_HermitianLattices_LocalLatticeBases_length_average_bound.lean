@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_length_average_bound
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.length_average_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:29:27.779552+00:00
 -- url     : https://prove2.me/theorems/d957a998-91e6-4c77-8ebe-2b50e248cdd6

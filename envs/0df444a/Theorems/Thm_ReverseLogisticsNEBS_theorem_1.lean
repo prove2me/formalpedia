@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReverseLogisticsNEBS_theorem_1
 -- name    : ReverseLogisticsNEBS.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:51:49.069337+00:00
 -- url     : https://prove2.me/theorems/1c68ac11-6482-465b-9b3b-b556fef1c195

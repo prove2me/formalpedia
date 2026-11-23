@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lastVectorNotMemSup
 -- name    : Formalism.HermitianLatticeCounting.P.lastVectorNotMemSup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:39:27.364808+00:00
 -- url     : https://prove2.me/theorems/35bf9c72-06ff-46aa-8f1a-2f91667e31aa

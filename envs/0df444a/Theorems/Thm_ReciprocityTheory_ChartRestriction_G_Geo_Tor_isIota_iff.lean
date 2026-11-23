@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_isIota_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.isIota_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:29:12.541625+00:00
 -- url     : https://prove2.me/theorems/1e32a2ca-e12f-48e0-b108-be5c40bcbd4e

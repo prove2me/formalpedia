@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_one_mem_unitaryJ
 -- name    : ReciprocityTheory.ChartRestriction.DS.one_mem_unitaryJ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:28:06.468474+00:00
 -- url     : https://prove2.me/theorems/93fd7d3a-4bf4-436a-bf1a-7f061d4f571c

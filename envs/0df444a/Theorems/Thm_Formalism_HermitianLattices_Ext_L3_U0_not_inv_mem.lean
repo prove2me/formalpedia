@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_not_inv_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.not_inv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:14:56.863767+00:00
 -- url     : https://prove2.me/theorems/0abb9d89-bea0-4cc0-960f-d1406cdb93fd

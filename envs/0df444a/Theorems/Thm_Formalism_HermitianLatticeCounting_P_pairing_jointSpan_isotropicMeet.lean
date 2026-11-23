@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_pairing_jointSpan_isotropicMeet
 -- name    : Formalism.HermitianLatticeCounting.P.pairing_jointSpan_isotropicMeet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:02:16.986218+00:00
 -- url     : https://prove2.me/theorems/caeb0de8-0163-4a90-9212-3ac98bbd893b

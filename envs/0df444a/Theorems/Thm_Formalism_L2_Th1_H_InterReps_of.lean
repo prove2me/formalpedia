@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_InterReps_of
 -- name    : Formalism.L2.Th1.H.InterReps_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:57.360176+00:00
 -- url     : https://prove2.me/theorems/617b9634-310b-47b2-ab0e-d64bb1e10b52

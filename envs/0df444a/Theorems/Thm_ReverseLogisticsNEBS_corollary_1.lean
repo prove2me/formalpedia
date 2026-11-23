@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReverseLogisticsNEBS_corollary_1
 -- name    : ReverseLogisticsNEBS.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:51:57.768164+00:00
 -- url     : https://prove2.me/theorems/e82e6310-1523-4187-9da3-402032a9b810

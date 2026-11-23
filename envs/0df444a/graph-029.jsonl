@@ -57196,7 +57196,7 @@
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.B1_6_1Masses_sound", "child": "OAIQ254M002", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.B1_6_1Masses_sound", "child": "OAIQ254M003", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg23544", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "CatalyticTreeEval.Main.corollary_3_11", "child": "CatalyticTreeEval_Main_Matching", "via": ["statement"]}
+{"parent": "CatalyticTreeEval.Main.corollary_3_11", "child": "CatalyticTreeEval_Main_Matching", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18Protocol.hh18DepthSchedule_yield_pos", "child": "QEC_Distillation_LowOverheadProtocol_Core_Protocol", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18Protocol.hh18DepthSchedule_yield_pos", "child": "QEC_Distillation_Core_DependentBatch", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18Protocol.hh18DepthSchedule_yield_pos", "child": "QEC_Distillation_LowOverheadProtocol_Core_OutputHandoff", "via": ["solution", "statement"]}
@@ -71705,7 +71705,7 @@
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB4_1_3I1R10H_sound", "child": "OAIQ254M005", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg15525", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB3_2_3I2R8Terms_sound", "child": "OAIQ254M010", "via": ["solution", "statement"]}
-{"parent": "BeyondGomoryHu.Units.lemma_2_5", "child": "BeyondGomoryHu_Units_Hierarchy", "via": ["statement"]}
+{"parent": "BeyondGomoryHu.Units.lemma_2_5", "child": "BeyondGomoryHu_Units_Hierarchy", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg24152", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "Puder.exists_mem_traverses_of_isAlgExt_of_isCoreEdge", "child": "StrongConvPuderAlg", "via": ["solution", "statement"]}
 {"parent": "Puder.exists_mem_traverses_of_isAlgExt_of_isCoreEdge", "child": "StrongConvPuderCore", "via": ["solution", "statement"]}

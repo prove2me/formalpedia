@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_joint_variation_bound
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.joint_variation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:26:30.677171+00:00
 -- url     : https://prove2.me/theorems/3c1be0af-70eb-412f-bc30-d1c836ace411

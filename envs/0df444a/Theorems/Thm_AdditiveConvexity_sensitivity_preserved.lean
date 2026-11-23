@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdditiveConvexity_sensitivity_preserved
 -- name    : AdditiveConvexity.sensitivity_preserved
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:21.415832+00:00
 -- url     : https://prove2.me/theorems/805ca3e4-b613-4802-b3e8-e90edc31d275

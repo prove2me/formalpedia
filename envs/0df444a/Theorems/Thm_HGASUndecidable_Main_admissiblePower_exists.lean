@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HGASUndecidable_Main_admissiblePower_exists
 -- name    : HGASUndecidable.Main.admissiblePower_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:45:25.019404+00:00
 -- url     : https://prove2.me/theorems/09e21d8a-66ca-4ffb-aa80-bf802023a195

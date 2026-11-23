@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_idealPowerSpanBounds_exists_fillO
 -- name    : Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.exists_fillO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:52.844718+00:00
 -- url     : https://prove2.me/theorems/cae72947-a368-4b7d-be09-f61443acbcc9

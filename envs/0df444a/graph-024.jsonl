@@ -14927,9 +14927,9 @@
 {"parent": "QEC.Coding.FiberBundle.HammingWeight_cycleBoundary_col_le_two", "child": "QEC_Coding_FiberBundle_WeightReductionParameters", "via": ["solution", "statement"]}
 {"parent": "OnlineJRP_LinearDelay_IsRun", "child": "OnlineJRP_LinearDelay_St_Phi", "via": ["statement"]}
 {"parent": "OnlineJRP_LinearDelay_IsRun", "child": "OnlineJRP_LinearDelay_St_IsPlan", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.theorem_1", "child": "KhintchineTwoRegime_fourProfile", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.theorem_1", "child": "KhintchineTwoRegime_Cn", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.theorem_1", "child": "KhintchineTwoRegime_K", "via": ["statement"]}
+{"parent": "KhintchineTwoRegime.theorem_1", "child": "KhintchineTwoRegime_fourProfile", "via": ["solution", "statement"]}
+{"parent": "KhintchineTwoRegime.theorem_1", "child": "KhintchineTwoRegime_Cn", "via": ["solution", "statement"]}
+{"parent": "KhintchineTwoRegime.theorem_1", "child": "KhintchineTwoRegime_K", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.CubeCoordinates.aLabel_right", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SeedDefects", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.CubeCoordinates.aLabel_right", "child": "OAI_NumberTheory_DirichletL_CubicSieve_GlobalEncoding", "via": ["solution", "statement"]}
 {"parent": "TightClock_C", "child": "TightClock_a", "via": ["statement"]}

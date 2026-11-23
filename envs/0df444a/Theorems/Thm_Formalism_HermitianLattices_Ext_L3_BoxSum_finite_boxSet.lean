@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_finite_boxSet
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.finite_boxSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:49:10.025798+00:00
 -- url     : https://prove2.me/theorems/4926a90c-c6cf-4a1c-9793-b378e6ac2f8c

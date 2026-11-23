@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_index_ratio_bound
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.index_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:26.117787+00:00
 -- url     : https://prove2.me/theorems/2a42de50-ee92-43f9-9533-6b38afeea559

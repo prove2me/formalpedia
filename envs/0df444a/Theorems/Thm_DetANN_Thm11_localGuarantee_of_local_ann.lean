@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_Thm11_localGuarantee_of_local_ann
 -- name    : DetANN.Thm11.localGuarantee_of_local_ann
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:21:41.476333+00:00
 -- url     : https://prove2.me/theorems/c706d82d-516f-4b1e-9dda-0093a267372d

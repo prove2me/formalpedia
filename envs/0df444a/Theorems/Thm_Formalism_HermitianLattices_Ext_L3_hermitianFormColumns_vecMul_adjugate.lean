@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_hermitianFormColumns_vecMul_adjugate
 -- name    : Formalism.HermitianLattices.Ext.L3.hermitianFormColumns.vecMul_adjugate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:26:28.937689+00:00
 -- url     : https://prove2.me/theorems/45c14e3f-579a-4ae2-91e0-0bb767c6e603

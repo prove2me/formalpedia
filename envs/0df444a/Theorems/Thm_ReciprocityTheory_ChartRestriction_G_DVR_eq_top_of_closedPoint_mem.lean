@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_eq_top_of_closedPoint_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.eq_top_of_closedPoint_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:27:47.664914+00:00
 -- url     : https://prove2.me/theorems/19ad339d-34cd-4f29-bd1a-4d41b162e83a

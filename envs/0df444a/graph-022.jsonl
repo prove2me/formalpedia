@@ -83465,8 +83465,8 @@
 {"parent": "AlgoPFR.lemma_4_7_bucketing", "child": "AlgoPFR_Protocols", "via": ["statement"]}
 {"parent": "SparseDisc_IsCactus", "child": "SparseDisc_IsBlock", "via": ["statement"]}
 {"parent": "SparseDisc_IsCactus", "child": "SparseDisc_IsCycle", "via": ["statement"]}
-{"parent": "GrothendieckLB.proposition_9_2", "child": "GrothendieckLB_IsAdmissible", "via": ["statement"]}
-{"parent": "GrothendieckLB.proposition_9_2", "child": "GrothendieckLB_taylorCoeff", "via": ["statement"]}
+{"parent": "GrothendieckLB.proposition_9_2", "child": "GrothendieckLB_IsAdmissible", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.proposition_9_2", "child": "GrothendieckLB_taylorCoeff", "via": ["solution", "statement"]}
 {"parent": "LocalSepDecomp_Bottlenecks", "child": "LocalSepDecomp_Crossing", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound1995_e", "child": "OAIQ106E070", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound1995_e", "child": "MUBSix", "via": ["solution", "statement"]}
@@ -92881,8 +92881,8 @@
 {"parent": "ErasureQTanner.lemma_13", "child": "ErasureQTanner_covered", "via": ["statement"]}
 {"parent": "DiagLinesLDT.corollary_6_3", "child": "DiagLinesLDT_reducedAcc", "via": ["statement"]}
 {"parent": "DiagLinesLDT.corollary_6_3", "child": "DiagLinesLDT_oddStrategy", "via": ["statement"]}
-{"parent": "GrothendieckLB.eq_43", "child": "GrothendieckLB_E1", "via": ["statement"]}
-{"parent": "GrothendieckLB.eq_43", "child": "GrothendieckLB_Delta", "via": ["statement"]}
+{"parent": "GrothendieckLB.eq_43", "child": "GrothendieckLB_E1", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.eq_43", "child": "GrothendieckLB_Delta", "via": ["solution", "statement"]}
 {"parent": "StableVotingDistortion.theorem_5", "child": "PctDistortion_Election", "via": ["solution", "statement"]}
 {"parent": "StableVotingDistortion.theorem_5", "child": "StableVotingDistortion_HasDistortionAtMost", "via": ["solution", "statement"]}
 {"parent": "StableVotingDistortion.theorem_5", "child": "StableVotingDistortion_voterMean", "via": ["solution", "statement"]}

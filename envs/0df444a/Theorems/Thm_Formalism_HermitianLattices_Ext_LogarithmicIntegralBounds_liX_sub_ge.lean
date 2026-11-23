@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_liX_sub_ge
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.liX_sub_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:50:38.939218+00:00
 -- url     : https://prove2.me/theorems/c471f89b-9f3e-4f03-ab89-db76de61d030

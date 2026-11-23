@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bl_CyclicComponents_goal1
 -- name    : Bl.CyclicComponents.goal1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:28:47.115694+00:00
 -- url     : https://prove2.me/theorems/c383c670-11fa-4577-9a57-e0c45967e715

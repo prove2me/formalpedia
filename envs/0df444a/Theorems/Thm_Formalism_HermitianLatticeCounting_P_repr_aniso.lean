@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_repr_aniso
 -- name    : Formalism.HermitianLatticeCounting.P.repr_aniso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:37.738019+00:00
 -- url     : https://prove2.me/theorems/992c7434-8011-4286-b9cc-d357c9eaf28c

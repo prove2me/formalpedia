@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_rank_count_bis
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.rank_count_bis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:31.399838+00:00
 -- url     : https://prove2.me/theorems/c96f6f4d-b9c3-4a19-9a70-d2df5cd5c1d3

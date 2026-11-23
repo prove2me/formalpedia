@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_genHasVal_top
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.genHasVal_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:28:15.817448+00:00
 -- url     : https://prove2.me/theorems/c66d8cc5-b127-40fd-ac55-7393e48899a3

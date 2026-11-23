@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MixedCloning_Optimal_exists_projector_le_averageOverlap
 -- name    : MixedCloning.Optimal.exists_projector_le_averageOverlap
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:03:32.788502+00:00
 -- url     : https://prove2.me/theorems/2f24edb5-f645-4f77-aaea-56faf95482b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_finite_box_inter
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.finite_box_inter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:52:20.562368+00:00
 -- url     : https://prove2.me/theorems/61ef60dc-3bbb-4b68-8ec4-89727efac154

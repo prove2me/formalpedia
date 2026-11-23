@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BhangaleHypergraph_Main_outer_soundness
 -- name    : BhangaleHypergraph.Main.outer_soundness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:06:02.261897+00:00
 -- url     : https://prove2.me/theorems/f9b4fa36-ff22-4f67-9fc8-e5b6f4c6ec09

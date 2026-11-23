@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroFreeRRG_Hardcore_condToSimple
 -- name    : ZeroFreeRRG.Hardcore.condToSimple
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:42:00.686009+00:00
 -- url     : https://prove2.me/theorems/fc6bf72b-ca6e-430a-a91a-f0d9797b853b

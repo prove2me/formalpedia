@@ -51563,7 +51563,7 @@
 {"parent": "OAI.CompletedHeight.positiveCutoff_support_bounds", "child": "OAI_NumberTheory_DirichletL_CubicSieve_DensityBudgets", "via": ["solution", "statement"]}
 {"parent": "OAI.CompletedHeight.positiveCutoff_support_bounds", "child": "OAI_NumberTheory_DirichletL_CubicSieve_RankMargins", "via": ["solution", "statement"]}
 {"parent": "OAI.CompletedHeight.positiveCutoff_support_bounds", "child": "OAI_NumberTheory_DirichletL_RowCompletion_PolynomialHeight", "via": ["solution", "statement"]}
-{"parent": "DistributedMWC440.UpperBound.lemma_5_3", "child": "DistributedMWC440_UpperBound_Operations", "via": ["statement"]}
+{"parent": "DistributedMWC440.UpperBound.lemma_5_3", "child": "DistributedMWC440_UpperBound_Operations", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelLevelAction_mk", "child": "OAI_NumberTheory_DirichletL_RowCompletion_ThetaNonvanishing", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelLevelAction_mk", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspResidues", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelLevelAction_mk", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ConjugateLevelAction", "via": ["solution", "statement"]}
@@ -51605,7 +51605,7 @@
 {"parent": "OAI.QuadraticAllOddCRT.quadraticRayValue_eq_fourthRoot", "child": "OAI_NumberTheory_DirichletL_RowCompletion_ThetaNonvanishing", "via": ["solution", "statement"]}
 {"parent": "OAI.QuadraticAllOddCRT.quadraticRayValue_eq_fourthRoot", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspResidues", "via": ["solution", "statement"]}
 {"parent": "OAI.QuadraticAllOddCRT.quadraticRayValue_eq_fourthRoot", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ConjugateLevelAction", "via": ["solution", "statement"]}
-{"parent": "QMA2ClassicalSep.Main.bgh_lemma_4_1", "child": "QMA2ClassicalSep_Main_HardDist", "via": ["statement"]}
+{"parent": "QMA2ClassicalSep.Main.bgh_lemma_4_1", "child": "QMA2ClassicalSep_Main_HardDist", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_6_21_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_6_21_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXPhysicalStarTransport.lower_syndrome", "child": "QEC.Coding.BDL26RXXStarTransport.lower_syndrome", "via": ["solution", "statement"]}

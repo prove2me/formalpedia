@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_UnitaryGroupOfForm_orth_stable
 -- name    : ReciprocityTheory.ChartRestriction.DS.UnitaryGroupOfForm.orth_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:19:25.731279+00:00
 -- url     : https://prove2.me/theorems/500b7bf9-e44a-413c-9b08-78be240075a4

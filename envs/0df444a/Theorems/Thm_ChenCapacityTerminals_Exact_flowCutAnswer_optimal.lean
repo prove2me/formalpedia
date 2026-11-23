@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_flowCutAnswer_optimal
 -- name    : ChenCapacityTerminals.Exact.flowCutAnswer_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:04:42.368482+00:00
 -- url     : https://prove2.me/theorems/98c308ca-d22b-47f9-a33c-94790dd54133

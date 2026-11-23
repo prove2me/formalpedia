@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_isIntegralLat_of_ortho
 -- name    : Formalism.HermitianLattices.Ext.L3.isIntegralLat_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:17:46.62158+00:00
 -- url     : https://prove2.me/theorems/c3987981-6648-4045-bc8c-32c6ce604ec9

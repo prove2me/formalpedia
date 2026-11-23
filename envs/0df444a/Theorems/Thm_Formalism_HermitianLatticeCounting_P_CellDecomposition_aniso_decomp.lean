@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_CellDecomposition_aniso_decomp
 -- name    : Formalism.HermitianLatticeCounting.P.CellDecomposition.aniso_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:10.510363+00:00
 -- url     : https://prove2.me/theorems/0644acc5-81fb-4287-b66e-e0a6822dd40f

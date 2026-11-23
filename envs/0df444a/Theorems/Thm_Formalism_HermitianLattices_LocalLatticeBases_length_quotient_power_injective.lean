@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_length_quotient_power_injective
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.length_quotient_power_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:29:41.8558+00:00
 -- url     : https://prove2.me/theorems/ac0f8739-8b0d-4085-abf2-40f868eeb564

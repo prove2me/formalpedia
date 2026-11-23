@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bl_general_b_fact_upper_version_goal1
 -- name    : Bl.general_b_fact_upper_version.goal1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:28:58.712819+00:00
 -- url     : https://prove2.me/theorems/b636088c-5ce0-4dd5-bdcf-120a60cff13d

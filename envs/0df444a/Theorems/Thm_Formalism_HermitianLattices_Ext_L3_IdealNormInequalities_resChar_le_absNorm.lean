@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IdealNormInequalities_resChar_le_absNorm
 -- name    : Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.resChar_le_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:36:41.019798+00:00
 -- url     : https://prove2.me/theorems/d9f272d1-937b-405a-8df8-4e0ac4b2e32a

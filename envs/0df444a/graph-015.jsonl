@@ -22014,10 +22014,10 @@
 {"parent": "MVBlossoms.lemma_19", "child": "MVBlossoms_IsEligible", "via": ["statement"]}
 {"parent": "IDEPoA.claim_5", "child": "IDEPoA_Model", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_22_11_5_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
-{"parent": "AdditiveConvexity.sensitivity_preserved", "child": "AdditiveConvexity_chainDomain", "via": ["statement"]}
-{"parent": "AdditiveConvexity.sensitivity_preserved", "child": "AdditiveConvexity_IncreasingInCoord", "via": ["statement"]}
-{"parent": "AdditiveConvexity.sensitivity_preserved", "child": "AdditiveConvexity_SlopeLEInCoord", "via": ["statement"]}
-{"parent": "AdditiveConvexity.sensitivity_preserved", "child": "AdditiveConvexity_transformSet", "via": ["statement"]}
+{"parent": "AdditiveConvexity.sensitivity_preserved", "child": "AdditiveConvexity_chainDomain", "via": ["solution", "statement"]}
+{"parent": "AdditiveConvexity.sensitivity_preserved", "child": "AdditiveConvexity_IncreasingInCoord", "via": ["solution", "statement"]}
+{"parent": "AdditiveConvexity.sensitivity_preserved", "child": "AdditiveConvexity_SlopeLEInCoord", "via": ["solution", "statement"]}
+{"parent": "AdditiveConvexity.sensitivity_preserved", "child": "AdditiveConvexity_transformSet", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_23_17_5_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_bridge_step__p2m_5de40fa3_9823_4b85_b185_5f75a9f0282e_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "DivQuotient.ec1_bcd", "child": "DivQuotient_ProofObjects", "via": ["statement"]}
@@ -81872,7 +81872,7 @@
 {"parent": "Submission_Weighted_Global_TernaryColoredPostABI", "child": "Submission_Weighted_GlobalBank", "via": ["statement"]}
 {"parent": "Submission_Weighted_Global_TernaryColoredPostABI", "child": "Submission_Weighted_Global_LightTernaryColoredSolver", "via": ["statement"]}
 {"parent": "Submission_Weighted_Global_TernaryColoredPostABI", "child": "Submission_Weighted_Global_TernaryArenaFinalSolver", "via": ["statement"]}
-{"parent": "ReverseLogisticsNEBS.theorem_1", "child": "ReverseLogisticsNEBS_Inst", "via": ["statement"]}
+{"parent": "ReverseLogisticsNEBS.theorem_1", "child": "ReverseLogisticsNEBS_Inst", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalParameters.certificate_margin", "child": "Submission_Weighted_GlobalParameters", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalParameters.certificate_margin", "child": "ThreeSum.Parameters.certificate_margin", "via": ["statement"]}
 {"parent": "ThreeSum.WeightedGlobalParameters.certificate_margin", "child": "Submission_ThreeSum_BinomialEntropy", "via": ["solution", "statement"]}

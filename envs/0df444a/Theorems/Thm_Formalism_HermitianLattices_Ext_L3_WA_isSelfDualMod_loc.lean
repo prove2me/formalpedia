@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_isSelfDualMod_loc
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.isSelfDualMod_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:09:39.610514+00:00
 -- url     : https://prove2.me/theorems/41a0dee6-81c7-4c48-98c2-2806c94b18f8

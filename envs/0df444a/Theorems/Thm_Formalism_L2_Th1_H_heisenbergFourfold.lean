@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_heisenbergFourfold
 -- name    : Formalism.L2.Th1.H.heisenbergFourfold
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:56.737843+00:00
 -- url     : https://prove2.me/theorems/7e0a8a01-f9b2-4e77-a864-870d52bf686c

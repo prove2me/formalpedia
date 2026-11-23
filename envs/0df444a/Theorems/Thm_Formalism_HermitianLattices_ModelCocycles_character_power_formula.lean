@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_character_power_formula
 -- name    : Formalism.HermitianLattices.ModelCocycles.character_power_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:29:55.777581+00:00
 -- url     : https://prove2.me/theorems/f32d9bea-a17c-4eb9-8a7c-780fbef46b6c

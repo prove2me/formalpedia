@@ -2518,9 +2518,9 @@
 {"parent": "OAI.SevenEighths.HeckeTheta.regularizedCompleted_eq", "child": "OAI_NumberTheory_DirichletL_Hecke_Theta", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.HeckeTheta.regularizedCompleted_eq", "child": "OAI_NumberTheory_DirichletL_EisensteinTheta", "via": ["solution", "statement"]}
 {"parent": "DelayedGamesMAO_q", "child": "DelayedGamesMAO_active", "via": ["statement"]}
-{"parent": "TIESharp.theorem_3_2", "child": "TIESharp_IsTIE", "via": ["statement"]}
-{"parent": "TIESharp.theorem_3_2", "child": "TIESharp_IsFeasible", "via": ["statement"]}
-{"parent": "TIESharp.theorem_3_2", "child": "TIESharp_IsRApprox", "via": ["statement"]}
+{"parent": "TIESharp.theorem_3_2", "child": "TIESharp_IsTIE", "via": ["solution", "statement"]}
+{"parent": "TIESharp.theorem_3_2", "child": "TIESharp_IsFeasible", "via": ["solution", "statement"]}
+{"parent": "TIESharp.theorem_3_2", "child": "TIESharp_IsRApprox", "via": ["solution", "statement"]}
 {"parent": "UnivAccel.eq_41_42", "child": "UnivAccel_IsBallOracle", "via": ["statement"]}
 {"parent": "UnivAccel.eq_41_42", "child": "UnivAccel_laUpdate", "via": ["statement"]}
 {"parent": "OAI.SevenEighths.Supremum.max_signal_exponents", "child": "OAI_NumberTheory_DirichletL_Supremum", "via": ["solution", "statement"]}
@@ -2866,10 +2866,10 @@
 {"parent": "NewtonLCP.lemma_8_5", "child": "NewtonLCP_Centrality", "via": ["statement"]}
 {"parent": "NewtonLCP.lemma_8_5", "child": "NewtonLCP_Handicap", "via": ["statement"]}
 {"parent": "NewtonLCP.lemma_8_5", "child": "NewtonLCP_Embedding", "via": ["statement"]}
-{"parent": "TIESharp.theorem_3_3", "child": "TIESharp_IsTIE", "via": ["statement"]}
-{"parent": "TIESharp.theorem_3_3", "child": "TIESharp_opt", "via": ["statement"]}
-{"parent": "TIESharp.theorem_3_3", "child": "TIESharp_bsPay", "via": ["statement"]}
-{"parent": "TIESharp.theorem_3_3", "child": "TIESharp_IsBSSlotLaw", "via": ["statement"]}
+{"parent": "TIESharp.theorem_3_3", "child": "TIESharp_IsTIE", "via": ["solution", "statement"]}
+{"parent": "TIESharp.theorem_3_3", "child": "TIESharp_opt", "via": ["solution", "statement"]}
+{"parent": "TIESharp.theorem_3_3", "child": "TIESharp_bsPay", "via": ["solution", "statement"]}
+{"parent": "TIESharp.theorem_3_3", "child": "TIESharp_IsBSSlotLaw", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3316_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3316_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3316_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}

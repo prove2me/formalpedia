@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_Thm11_annProject_sub_norm_sq
 -- name    : DetANN.Thm11.annProject_sub_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:20:44.696049+00:00
 -- url     : https://prove2.me/theorems/6c83c416-a3fd-4072-9aa7-0fd4478ef7e7

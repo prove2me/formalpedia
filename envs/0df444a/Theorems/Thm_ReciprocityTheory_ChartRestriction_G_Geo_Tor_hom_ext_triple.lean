@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_hom_ext_triple
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.hom_ext_triple
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:45.459253+00:00
 -- url     : https://prove2.me/theorems/119dd63e-cf63-4b63-8dee-be8d049511bb

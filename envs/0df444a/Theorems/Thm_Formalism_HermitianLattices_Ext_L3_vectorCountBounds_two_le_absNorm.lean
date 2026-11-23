@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_vectorCountBounds_two_le_absNorm
 -- name    : Formalism.HermitianLattices.Ext.L3.vectorCountBounds.two_le_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:26:10.563528+00:00
 -- url     : https://prove2.me/theorems/a3ca6076-3d47-4fda-80ef-139215c5fbf5

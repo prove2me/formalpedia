@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_smul_mem_loc
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.smul_mem_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:48.616694+00:00
 -- url     : https://prove2.me/theorems/275616ce-dd5f-4d5c-9003-a2358dabdbf0

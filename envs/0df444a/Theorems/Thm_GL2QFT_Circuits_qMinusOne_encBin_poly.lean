@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Circuits_qMinusOne_encBin_poly
 -- name    : GL2QFT.Circuits.qMinusOne_encBin_poly
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:48:20.852945+00:00
 -- url     : https://prove2.me/theorems/2cfaaaed-c234-48ea-a302-22d8a2e0e786

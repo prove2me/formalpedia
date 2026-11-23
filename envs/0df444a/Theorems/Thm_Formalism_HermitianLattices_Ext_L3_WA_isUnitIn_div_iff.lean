@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_isUnitIn_div_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.isUnitIn_div_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:03.765027+00:00
 -- url     : https://prove2.me/theorems/c05cf662-cb61-4246-a401-c7e78f9a6f3c

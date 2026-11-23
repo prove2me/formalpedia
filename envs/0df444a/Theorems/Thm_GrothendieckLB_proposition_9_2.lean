@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_proposition_9_2
 -- name    : GrothendieckLB.proposition_9_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:52:38.338877+00:00
 -- url     : https://prove2.me/theorems/a465d29d-a250-4bda-850a-2e98cb5f2618

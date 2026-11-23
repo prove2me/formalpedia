@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_IsSD_exists_not_dv
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.IsSD.exists_not_dv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:14:05.472467+00:00
 -- url     : https://prove2.me/theorems/f31622d9-f880-4b3b-898c-2f8acafb6f4c

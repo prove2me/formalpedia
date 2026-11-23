@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_proposition_6_11_rank
 -- name    : ManipPotential.proposition_6_11_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:24:56.481803+00:00
 -- url     : https://prove2.me/theorems/32bc6ca4-c0de-41bf-9417-a1d043b0c577

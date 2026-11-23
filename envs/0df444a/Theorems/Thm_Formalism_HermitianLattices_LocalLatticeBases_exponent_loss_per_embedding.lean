@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_exponent_loss_per_embedding
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.exponent_loss_per_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:29:29.096632+00:00
 -- url     : https://prove2.me/theorems/6c6707c4-e120-473f-a953-97dbd164e404

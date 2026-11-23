@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_weight_positive_part_nonneg
 -- name    : Formalism.HermitianLattices.LatticeEstimates.weight_positive_part_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:29:23.835211+00:00
 -- url     : https://prove2.me/theorems/71b0d8f8-238c-4b02-9ab7-e87717388be3

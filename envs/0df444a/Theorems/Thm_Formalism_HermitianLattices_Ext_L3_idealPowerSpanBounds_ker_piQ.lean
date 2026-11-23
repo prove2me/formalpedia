@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_idealPowerSpanBounds_ker_piQ
 -- name    : Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.ker_piQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:59:05.929886+00:00
 -- url     : https://prove2.me/theorems/9c05cef2-4dae-4372-8ba6-c8ef1e0cb96d

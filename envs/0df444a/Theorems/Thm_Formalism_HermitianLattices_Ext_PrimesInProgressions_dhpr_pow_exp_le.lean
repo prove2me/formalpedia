@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhpr_pow_exp_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhpr_pow_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:19:51.098546+00:00
 -- url     : https://prove2.me/theorems/0bc75cbc-8ffc-4cce-95fc-df196fb3e5e9

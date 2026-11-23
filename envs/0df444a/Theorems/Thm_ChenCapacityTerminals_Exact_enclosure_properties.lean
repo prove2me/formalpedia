@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_enclosure_properties
 -- name    : ChenCapacityTerminals.Exact.enclosure_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:03:34.251321+00:00
 -- url     : https://prove2.me/theorems/87855ee0-13ce-4769-88e0-7a1179c8a281

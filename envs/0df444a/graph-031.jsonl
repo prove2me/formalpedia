@@ -93211,8 +93211,8 @@
 {"parent": "row23_rh_sample_batch_0133_20261114", "child": "ArdaRS_Band", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P52.graphClusterState_isState", "child": "QAlgorithms_Papers_Independent_Intakenext100_P52", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RH66388FastPiece05Block05", "child": "row23_rh_supp_RH66388FastPiece05Data", "via": ["statement"]}
-{"parent": "LinearChoresCLS.encoded_basic_price_ratios", "child": "LinearChoresCLS_PriceFamily", "via": ["statement"]}
-{"parent": "LinearChoresCLS.encoded_basic_price_ratios", "child": "LinearChoresCLS_ChoresSearch", "via": ["statement"]}
+{"parent": "LinearChoresCLS.encoded_basic_price_ratios", "child": "LinearChoresCLS_PriceFamily", "via": ["solution", "statement"]}
+{"parent": "LinearChoresCLS.encoded_basic_price_ratios", "child": "LinearChoresCLS_ChoresSearch", "via": ["solution", "statement"]}
 {"parent": "StableMSR.Recovery.interaction_subgraph_radius_growth", "child": "StableMSR_Recovery_Geometry", "via": ["statement"]}
 {"parent": "StableMSR.Recovery.interaction_subgraph_radius_growth", "child": "StableMSR_Recovery_Parameters", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RH66388Slab16Fast04Block05", "child": "row23_rh_supp_RH66388Slab16Fast04Data", "via": ["statement"]}

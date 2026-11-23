@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_eich_good
 -- name    : Formalism.HermitianLatticeCounting.P.eich_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:03:08.256863+00:00
 -- url     : https://prove2.me/theorems/0dda5916-854a-4dfa-8586-f2c91578f26a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_gl2a5_out_cases
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.gl2a5_out_cases
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:29:10.95281+00:00
 -- url     : https://prove2.me/theorems/49318b04-1c11-4355-bd86-0b4742d719b5

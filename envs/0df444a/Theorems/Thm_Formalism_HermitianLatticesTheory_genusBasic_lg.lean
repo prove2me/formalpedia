@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusBasic_lg
 -- name    : Formalism.HermitianLatticesTheory.genusBasic_lg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:09:37.706074+00:00
 -- url     : https://prove2.me/theorems/b1c21b1c-8d9d-493f-9ffb-a2daa9484270

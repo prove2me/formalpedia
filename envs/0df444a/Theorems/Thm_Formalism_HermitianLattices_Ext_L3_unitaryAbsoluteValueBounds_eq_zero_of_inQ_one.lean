@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_eq_zero_of_inQ_one
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.eq_zero_of_inQ_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:36.021904+00:00
 -- url     : https://prove2.me/theorems/4ba6070c-0cc9-4e9a-bf77-833a2b6f8a44
