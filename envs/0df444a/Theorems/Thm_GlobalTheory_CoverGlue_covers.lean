@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_covers
 -- name    : GlobalTheory.CoverGlue.covers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:20:11.190888+00:00
 -- url     : https://prove2.me/theorems/85288cf8-cbc6-4e3a-83d8-cc625af9e4b2

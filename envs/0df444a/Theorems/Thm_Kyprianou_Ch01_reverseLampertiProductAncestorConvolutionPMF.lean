@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiProductAncestorConvolutionPMF
 -- name    : Kyprianou.Ch01.reverseLampertiProductAncestorConvolutionPMF
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T10:56:15.27915+00:00
 -- url     : https://prove2.me/theorems/5b1ca273-cfe5-4181-a0f7-1b7b5ac43fa8

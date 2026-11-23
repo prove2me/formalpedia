@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Kunneth_pbT_of_le
 -- name    : GlobalTheory.KS.Kunneth.pbT_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:55.810422+00:00
 -- url     : https://prove2.me/theorems/8a65896d-53a7-40a7-8af0-8bfb93589aec

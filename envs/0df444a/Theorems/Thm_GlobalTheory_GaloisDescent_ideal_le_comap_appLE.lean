@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_ideal_le_comap_appLE
 -- name    : GlobalTheory.GaloisDescent.ideal_le_comap_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:39.327447+00:00
 -- url     : https://prove2.me/theorems/c0c7fd94-20d9-414d-b904-fbe885eabbbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianQuotient_flat_tensorHom
 -- name    : GlobalTheory.AbelianQuotient.flat_tensorHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:43.353374+00:00
 -- url     : https://prove2.me/theorems/dc44ae32-e50f-4ff4-9028-5aa8e114dc36

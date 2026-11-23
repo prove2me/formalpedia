@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_independentProductPMFSumLaw
 -- name    : Kyprianou.Ch01.independentProductPMFSumLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:08:31.701896+00:00
 -- url     : https://prove2.me/theorems/85a958d5-0816-4540-a348-a20137de905c

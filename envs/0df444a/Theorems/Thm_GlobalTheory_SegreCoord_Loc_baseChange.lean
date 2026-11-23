@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_Loc_baseChange
 -- name    : GlobalTheory.SegreCoord.Loc.baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:18:47.799366+00:00
 -- url     : https://prove2.me/theorems/a3acdfb8-5173-4736-a97d-2aa6793c28f3

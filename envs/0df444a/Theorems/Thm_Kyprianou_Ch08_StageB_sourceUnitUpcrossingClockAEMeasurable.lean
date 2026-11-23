@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_sourceUnitUpcrossingClockAEMeasurable
 -- name    : Kyprianou.Ch08.StageB.sourceUnitUpcrossingClockAEMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:29:28.069127+00:00
 -- url     : https://prove2.me/theorems/1041fc27-ccc0-45b7-ab23-818b081b8fef

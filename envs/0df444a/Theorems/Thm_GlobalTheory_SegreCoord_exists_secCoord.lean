@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_exists_secCoord
 -- name    : GlobalTheory.SegreCoord.exists_secCoord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:21:47.808223+00:00
 -- url     : https://prove2.me/theorems/fc37cd3c-7e83-4956-a4e4-d88529cfc73e

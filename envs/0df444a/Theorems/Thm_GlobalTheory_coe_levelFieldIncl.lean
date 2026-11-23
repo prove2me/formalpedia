@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coe_levelFieldIncl
 -- name    : GlobalTheory.coe_levelFieldIncl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:36.204816+00:00
 -- url     : https://prove2.me/theorems/7f10340a-ded4-464f-a18c-f400486b0e2b

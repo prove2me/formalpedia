@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitTorusPointsEquiv_val
 -- name    : GlobalTheory.splitTorusPointsEquiv_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:22:12.80951+00:00
 -- url     : https://prove2.me/theorems/792d7c6f-01fc-4f70-a92e-882fd18ce72a

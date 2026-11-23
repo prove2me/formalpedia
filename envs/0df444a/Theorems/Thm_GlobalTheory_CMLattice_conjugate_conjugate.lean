@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLattice_conjugate_conjugate
 -- name    : GlobalTheory.CMLattice.conjugate_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:38.119601+00:00
 -- url     : https://prove2.me/theorems/258c2b08-7d7d-4b1c-ac8a-48d609a0388b

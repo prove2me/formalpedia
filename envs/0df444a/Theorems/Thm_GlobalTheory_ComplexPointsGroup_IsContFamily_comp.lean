@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPointsGroup_IsContFamily_comp
 -- name    : GlobalTheory.ComplexPointsGroup.IsContFamily.comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:44.408433+00:00
 -- url     : https://prove2.me/theorems/771d698b-4c52-402b-aaa0-0fcbffc741eb

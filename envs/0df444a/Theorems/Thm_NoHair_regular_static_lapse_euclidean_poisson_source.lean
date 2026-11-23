@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_regular_static_lapse_euclidean_poisson_source
 -- name    : NoHair.regular_static_lapse_euclidean_poisson_source
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T11:19:07.312051+00:00
 -- url     : https://prove2.me/theorems/4afca4c0-9c2a-4fd8-b81b-16dbb3f62ff4

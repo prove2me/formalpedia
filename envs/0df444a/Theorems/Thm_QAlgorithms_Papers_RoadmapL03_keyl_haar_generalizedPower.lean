@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_RoadmapL03_keyl_haar_generalizedPower
 -- name    : QAlgorithms.Papers.RoadmapL03.keyl_haar_generalizedPower
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-23T11:26:23.005093+00:00
 -- url     : https://prove2.me/theorems/006d8de1-de60-4950-b0ba-46ee88866b40

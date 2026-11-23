@@ -28361,7 +28361,7 @@
 {"parent": "OAI.EditApproximation.subtree_expected_excess_of_good_nodes", "child": "EditApproxScheme_02", "via": ["solution", "statement"]}
 {"parent": "OAI.EditApproximation.subtree_expected_excess_of_good_nodes", "child": "EditApproxScheme_06", "via": ["solution", "statement"]}
 {"parent": "OAI.EditApproximation.subtree_expected_excess_of_good_nodes", "child": "EditApproxScheme_05", "via": ["solution", "statement"]}
-{"parent": "TenChallenges.challenge_06_all_graphs", "child": "TenChallenges_AlphaWQO", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_06_all_graphs", "child": "TenChallenges_AlphaWQO", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36487", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg4467", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeD7_0024", "child": "RealPinwheel_FiveSixths_CodeFunctionD7", "via": ["statement"]}
@@ -32112,8 +32112,8 @@
 {"parent": "OAIQ368Chrom070", "child": "OAIQ368Chrom069", "via": ["statement"]}
 {"parent": "OAIQ368Chrom070", "child": "OAIQ368Chrom065", "via": ["statement"]}
 {"parent": "OAIQ368Chrom070", "child": "ElementaryPositivity", "via": ["statement"]}
-{"parent": "Kyprianou.markedCompoundPoissonRandomMeasureCh02V6", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.markedCompoundPoissonRandomMeasureCh02V6", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.markedCompoundPoissonRandomMeasureCh02V6", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.markedCompoundPoissonRandomMeasureCh02V6", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["solution", "statement"]}
 {"parent": "OAI.EditApproximation.BinaryFraction.preparedRepresentativeWithWork_complete_cost", "child": "EditApproxScheme_03", "via": ["solution", "statement"]}
 {"parent": "OAI.EditApproximation.BinaryFraction.preparedRepresentativeWithWork_complete_cost", "child": "EditApproxScheme_01", "via": ["solution", "statement"]}
 {"parent": "OAI.EditApproximation.BinaryFraction.preparedRepresentativeWithWork_complete_cost", "child": "EditApproxScheme_06", "via": ["solution", "statement"]}

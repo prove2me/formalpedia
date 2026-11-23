@@ -52898,7 +52898,7 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredLoopABI.safe", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryColoredLoopABI", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Fld.length_mulX", "child": "VariableBound_Field_Ring", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Fld.length_mulX", "child": "VariableBound_Field_Alg", "via": ["solution", "statement"]}
-{"parent": "TenChallenges.challenge_06_r2", "child": "TenChallenges_Challenge_06", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_06_r2", "child": "TenChallenges_Challenge_06", "via": ["solution", "statement"]}
 {"parent": "BookProof.SqSumOuterFamily.SqFamily.secExt_commForm_le", "child": "ChapterSqSumOuterFamily", "via": ["solution", "statement"]}
 {"parent": "BookProof.SqSumOuterFamily.SqFamily.secExt_commForm_le", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.SqSumOuterFamily.SqFamily.secExt_commForm_le", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}

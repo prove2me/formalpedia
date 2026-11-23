@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_logPshAt_normSq
 -- name    : ReciprocityTheory.L2DbarEstimates.logPshAt_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:20:42.460494+00:00
 -- url     : https://prove2.me/theorems/5256d1f8-78ca-4eb7-b03f-af0094bc4e1e

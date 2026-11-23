@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_regular_static_euclidean_lapse_flux_limit
 -- name    : NoHair.regular_static_euclidean_lapse_flux_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T11:26:27.532364+00:00
 -- url     : https://prove2.me/theorems/22e4d670-9057-4370-ac7e-0d521ee94d83

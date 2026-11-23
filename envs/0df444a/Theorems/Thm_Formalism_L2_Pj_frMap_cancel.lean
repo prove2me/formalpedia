@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_frMap_cancel
 -- name    : Formalism.L2.Pj.frMap_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:59:46.974308+00:00
 -- url     : https://prove2.me/theorems/dfffe40a-559c-4a87-8e39-76cf1e66e34a

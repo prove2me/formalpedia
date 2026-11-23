@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelOfPairing_surjective_comb
 -- name    : GlobalTheory.LevelOfPairing.surjective_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:21:38.938404+00:00
 -- url     : https://prove2.me/theorems/4917326d-6e85-4e01-b928-51a274f813f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_db_mul
 -- name    : ReciprocityTheory.L2DbarEstimates.db_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:56.363217+00:00
 -- url     : https://prove2.me/theorems/26830818-1e27-45c6-b494-d6b1b51827cb

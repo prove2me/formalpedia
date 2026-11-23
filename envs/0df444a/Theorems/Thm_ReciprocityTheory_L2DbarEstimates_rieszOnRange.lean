@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_rieszOnRange
 -- name    : ReciprocityTheory.L2DbarEstimates.rieszOnRange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:29:03.697629+00:00
 -- url     : https://prove2.me/theorems/ea65ba02-9864-4543-8ccd-cf75215daab2

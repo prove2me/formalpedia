@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_measurableProductPMFSumLaw
 -- name    : Kyprianou.Ch01.measurableProductPMFSumLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:12:46.546116+00:00
 -- url     : https://prove2.me/theorems/fea64724-444d-4b4a-bd63-dd9715ed13c7

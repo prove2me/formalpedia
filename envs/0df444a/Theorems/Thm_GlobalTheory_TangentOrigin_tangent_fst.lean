@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentOrigin_tangent_fst
 -- name    : GlobalTheory.TangentOrigin.tangent_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:03:30.89965+00:00
 -- url     : https://prove2.me/theorems/a7aee8a9-b8bd-421d-b569-fa8b070c02d3

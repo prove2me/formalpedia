@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianQuotient_quasiCompact_tensorHom
 -- name    : GlobalTheory.AbelianQuotient.quasiCompact_tensorHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:45.749128+00:00
 -- url     : https://prove2.me/theorems/a9792b0f-e53e-423e-9ec1-b5eb30fd1287

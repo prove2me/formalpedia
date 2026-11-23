@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_linear_lift_unique
 -- name    : GlobalTheory.LocLift.linear_lift_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:23:08.865802+00:00
 -- url     : https://prove2.me/theorems/4e8c7f6e-689f-4fa9-903d-025659daaae9

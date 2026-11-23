@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_surjective_spMap
 -- name    : GlobalTheory.FieldBaseChange.surjective_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:24.250376+00:00
 -- url     : https://prove2.me/theorems/1f7c715d-25c4-4e69-a5bb-05cecc5bb434

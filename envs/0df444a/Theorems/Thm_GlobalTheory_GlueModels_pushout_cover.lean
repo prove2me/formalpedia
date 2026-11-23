@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueModels_pushout_cover
 -- name    : GlobalTheory.GlueModels.pushout_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:29:30.183462+00:00
 -- url     : https://prove2.me/theorems/fa552616-6940-429a-8610-f14ef83e939a

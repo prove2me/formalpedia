@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.regular_static_lapse_positive_monopole
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T11:20:07.111025+00:00
 -- url     : https://prove2.me/submissions/e950a2b3-59f2-44aa-bbd9-eda8a55a5827
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_regular_static_lapse_euclidean_poisson_source
 import Theorems.Thm_NoHair_inverse_radius_limit_of_decaying_poisson_field

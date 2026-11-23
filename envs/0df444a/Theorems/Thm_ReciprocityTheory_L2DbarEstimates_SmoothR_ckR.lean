@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_SmoothR_ckR
 -- name    : ReciprocityTheory.L2DbarEstimates.SmoothR.ckR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:49.959802+00:00
 -- url     : https://prove2.me/theorems/60f856a5-3175-4218-9323-40a3aaf70252

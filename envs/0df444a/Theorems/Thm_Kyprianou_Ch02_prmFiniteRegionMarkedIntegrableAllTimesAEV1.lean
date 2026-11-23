@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionMarkedIntegrableAllTimesAEV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionMarkedIntegrableAllTimesAEV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T11:19:30.149609+00:00
 -- url     : https://prove2.me/theorems/5d3be3ac-52e6-4886-b600-e3c7a921746c

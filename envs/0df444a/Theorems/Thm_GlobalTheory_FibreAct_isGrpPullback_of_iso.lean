@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreAct_isGrpPullback_of_iso
 -- name    : GlobalTheory.FibreAct.isGrpPullback_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:26:43.368485+00:00
 -- url     : https://prove2.me/theorems/30152d49-2181-49b1-8bd6-fdeea55a5e8b

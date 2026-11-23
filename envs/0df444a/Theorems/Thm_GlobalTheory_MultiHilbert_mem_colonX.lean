@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_mem_colonX
+-- name    : GlobalTheory.MultiHilbert.mem_colonX
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T11:41:03.464516+00:00
+-- url     : https://prove2.me/theorems/dbf56411-13a8-4d60-a180-f49f7fdf3458
+-- title:
+--   Multi Hilbert: mem colon X
+-- statement:
+--   The Multi Hilbert construction uses the mem colon X property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/ModuliProofs/ExistsMultigradedHilbertPoly.lean#L222-L223
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/ModuliProofs/ExistsMultigradedHilbertPoly.lean#L222-L223
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_UniformisationConclusion
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsMultigradedHilbertPoly
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open GlobalTheory GlobalTheory.MultiHilbert
+open MvPolynomial
+variable {K σ M : Type} [Field K] [AddCancelCommMonoid M] (w : σ → M)
+
+theorem GlobalTheory.MultiHilbert.mem_colonX {I : Ideal (MvPolynomial σ K)} {i : σ} {G : MvPolynomial σ K} :
+    G ∈ colonX I i ↔ X i * G ∈ I := by sorry

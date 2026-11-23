@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_regular_static_lapse_positive_monopole
 -- name    : NoHair.regular_static_lapse_positive_monopole
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T10:53:47.625596+00:00
 -- url     : https://prove2.me/theorems/7be07d78-203f-4295-bfa7-c64d030c3d85

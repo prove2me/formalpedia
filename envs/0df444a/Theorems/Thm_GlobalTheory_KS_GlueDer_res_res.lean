@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_GlueDer_res_res
 -- name    : GlobalTheory.KS.GlueDer.res_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:33.776797+00:00
 -- url     : https://prove2.me/theorems/1989c5a2-3155-4a9f-ac25-e6c824c54f7c

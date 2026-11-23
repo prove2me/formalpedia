@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Kunneth_functional_eq_sum
 -- name    : GlobalTheory.KS.Kunneth.functional_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:28:00.349121+00:00
 -- url     : https://prove2.me/theorems/d961c3bf-62ec-4178-8ee4-502243a561a2

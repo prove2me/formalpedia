@@ -98406,9 +98406,9 @@
 {"parent": "Formalism.ELL.EulerSeries.coeff_pow_eq_zero", "child": "Formalism_EllipticTorsion_Statement", "via": ["solution", "statement"]}
 {"parent": "KernelRank.hasDerivAt_operatorOrbit", "child": "KernelRankLean_TranslationSemigroup", "via": ["solution", "statement"]}
 {"parent": "KernelRank.hasDerivAt_operatorOrbit", "child": "KernelRankLean_Differential", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.K.upUni_isUnit", "child": "Formalism_HermitianCurvature_StatementK", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.K.upUni_isUnit", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AntidiagMulDiagonal", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.K.upUni_isUnit", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RecText", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.K.upUni_isUnit", "child": "Formalism_HermitianCurvature_StatementK", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.K.upUni_isUnit", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AntidiagMulDiagonal", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.K.upUni_isUnit", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RecText", "via": ["solution", "statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_QuasiPeriodConstIsogeny", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_FormEvenIff", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_QuasiPeriodConstIsogeny", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_QuasiPeriodConstIsogeny", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_QuasiPeriodConstIsogeny", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_MulStableIntegral", "via": ["statement"]}

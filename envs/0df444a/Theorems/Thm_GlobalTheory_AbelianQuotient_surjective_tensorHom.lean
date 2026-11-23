@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianQuotient_surjective_tensorHom
 -- name    : GlobalTheory.AbelianQuotient.surjective_tensorHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:57.548806+00:00
 -- url     : https://prove2.me/theorems/2e6c9caa-ad06-4446-b20a-67ff6913ace4

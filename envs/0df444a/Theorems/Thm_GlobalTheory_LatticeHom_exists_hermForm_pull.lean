@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeHom_exists_hermForm_pull
 -- name    : GlobalTheory.LatticeHom.exists_hermForm_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:44.99698+00:00
 -- url     : https://prove2.me/theorems/c51b4c19-348a-48a3-b5e8-65b44814427b

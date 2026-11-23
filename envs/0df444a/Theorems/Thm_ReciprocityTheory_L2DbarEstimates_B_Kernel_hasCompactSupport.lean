@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_Kernel_hasCompactSupport
 -- name    : ReciprocityTheory.L2DbarEstimates.B.Kernel.hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:29:57.731433+00:00
 -- url     : https://prove2.me/theorems/299d8453-2e6b-4395-922e-98f3af68609c

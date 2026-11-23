@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_K_upUni_mul
 -- name    : Formalism.FourierDecayAlt.P.K.upUni_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:28:57.206497+00:00
 -- url     : https://prove2.me/theorems/604667ef-6404-4f0e-a3dd-bcf7d50dee29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowLie_isTangent_iff
 -- name    : GlobalTheory.PowLie.isTangent_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:56.7279+00:00
 -- url     : https://prove2.me/theorems/b0e6883d-3870-44ea-8596-9f74ba3d66db

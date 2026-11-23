@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueModels_isOpenImmersion_inl
 -- name    : GlobalTheory.GlueModels.isOpenImmersion_inl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:30:00.722649+00:00
 -- url     : https://prove2.me/theorems/aa6cac09-824a-4166-8d7b-be81eb25a384

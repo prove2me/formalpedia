@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_isUnit_gs_iff
 -- name    : GlobalTheory.LinDescent.isUnit_gs_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:26:49.991541+00:00
 -- url     : https://prove2.me/theorems/5632c4d9-8465-4fa7-ac0d-dfd1ac74b636

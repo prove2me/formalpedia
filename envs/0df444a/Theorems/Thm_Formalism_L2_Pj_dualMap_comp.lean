@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_dualMap_comp
 -- name    : Formalism.L2.Pj.dualMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:29:57.401555+00:00
 -- url     : https://prove2.me/theorems/f50cad60-3781-49a7-8774-666e34c824d9

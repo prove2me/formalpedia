@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreAct_exists_lift_act
 -- name    : GlobalTheory.FibreAct.exists_lift_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:02.954046+00:00
 -- url     : https://prove2.me/theorems/2cababa5-8720-4f69-855f-a0ecbbab7ace

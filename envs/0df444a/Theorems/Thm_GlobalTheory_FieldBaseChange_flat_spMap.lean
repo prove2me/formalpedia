@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_flat_spMap
 -- name    : GlobalTheory.FieldBaseChange.flat_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:26:47.874225+00:00
 -- url     : https://prove2.me/theorems/c13b3049-c1f1-4c8a-880c-0fc71950a592

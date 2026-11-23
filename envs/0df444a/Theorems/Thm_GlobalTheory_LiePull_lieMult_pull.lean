@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiePull_lieMult_pull
 -- name    : GlobalTheory.LiePull.lieMult_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:10.281806+00:00
 -- url     : https://prove2.me/theorems/fddfcf19-a4a5-4ded-ad67-8377516ddb82

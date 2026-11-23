@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_NearBuild_FibData_comp
 -- name    : GlobalTheory.ZM.NearBuild.FibData.comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:15:20.27515+00:00
 -- url     : https://prove2.me/theorems/4fede040-af40-4225-b8b8-c770dd5d098b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arm64Facts_steps_codeLoaded
 -- name    : Arm64Facts.steps_codeLoaded
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-23T11:20:39.413948+00:00
 -- url     : https://prove2.me/theorems/93ac6f06-df15-4dc2-b1d7-da292808d4e0

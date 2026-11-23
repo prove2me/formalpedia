@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_frMap_trans
 -- name    : Formalism.L2.Pj.frMap_trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:59:50.696178+00:00
 -- url     : https://prove2.me/theorems/5c6b5b65-105e-4875-bd2e-cd547340e741

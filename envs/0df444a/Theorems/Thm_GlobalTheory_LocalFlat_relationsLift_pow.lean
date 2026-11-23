@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalFlat_relationsLift_pow
 -- name    : GlobalTheory.LocalFlat.relationsLift_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:35.968729+00:00
 -- url     : https://prove2.me/theorems/a20ffd7b-3ece-4564-ad13-ee7c228ab10f
