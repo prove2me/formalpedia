@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_linOf_basis
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.linOf_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:47:48.02505+00:00
 -- url     : https://prove2.me/theorems/bf83b641-932f-43fe-b33b-d487e5a6b972

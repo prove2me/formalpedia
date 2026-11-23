@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.regular_static_vacuum_adm_lapse_flux
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T07:53:22.531879+00:00
 -- url     : https://prove2.me/submissions/e6f6ca05-60b2-49fb-a699-ca346478957b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_adm_zero_of_linearized_einstein_decay
 import Theorems.Thm_NoHair_static_vacuum_linearized_einstein_decay

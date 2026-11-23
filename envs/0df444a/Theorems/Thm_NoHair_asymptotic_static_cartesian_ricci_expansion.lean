@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_asymptotic_static_cartesian_ricci_expansion
 -- name    : NoHair.asymptotic_static_cartesian_ricci_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T08:21:27.584825+00:00
 -- url     : https://prove2.me/theorems/6209a466-4be1-4315-8a25-ebf2c6620dee

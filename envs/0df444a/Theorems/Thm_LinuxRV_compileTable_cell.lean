@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinuxRV_compileTable_cell
 -- name    : LinuxRV.compileTable_cell
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-22T20:11:38.648538+00:00
 -- url     : https://prove2.me/theorems/e079bcc5-8888-4b07-a505-8a41a9a8742f

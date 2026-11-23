@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FiniteFieldCounting_inv_pow_le
 -- name    : PI.VolStabS.FiniteFieldCounting.inv_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:35.35638+00:00
 -- url     : https://prove2.me/theorems/1c9922ba-479f-4de0-b675-b0780e03a98b

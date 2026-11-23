@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_norm_exp_frobVG
+-- name    : ReciprocityTheory.ChartRestriction.DS.S7.norm_exp_frobVG
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T09:07:56.163242+00:00
+-- url     : https://prove2.me/theorems/f34b4343-3aa0-4b1d-856a-a0a46f935824
+-- title:
+--   S7: norm exp frob VG
+-- statement:
+--   The S7 construction uses the norm exp frob VG property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/DiscreteSeries/CasimirCoefficients/IntegrableOfDecayVG.lean#L250-L274
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/DiscreteSeries/CasimirCoefficients/IntegrableOfDecayVG.lean#L250-L274
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_SignedIdentityColumns
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_IntegrableOfDecayVG
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Finset MeasureTheory Matrix Topology Metric
+open scoped ENNReal NNReal
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.DS ReciprocityTheory.ChartRestriction.DS.S7
+open ReciprocityTheory.ChartRestriction.DS
+variable {n : ℕ}
+attribute [local instance] Matrix.frobeniusNormedAddCommGroup Matrix.frobeniusNormedRing Matrix.frobeniusNormedAlgebra
+
+theorem ReciprocityTheory.ChartRestriction.DS.S7.norm_exp_frobVG (X : Matrix (Fin n) (Fin n) ℂ) :
+    ‖NormedSpace.exp X‖ ≤ Real.sqrt n * Real.exp ‖X‖ := by sorry

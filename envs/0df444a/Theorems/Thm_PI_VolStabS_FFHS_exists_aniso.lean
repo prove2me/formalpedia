@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_exists_aniso
 -- name    : PI.VolStabS.FFHS.exists_aniso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:19.531076+00:00
 -- url     : https://prove2.me/theorems/9715d008-1aef-4880-92ab-cb6826aef5e7

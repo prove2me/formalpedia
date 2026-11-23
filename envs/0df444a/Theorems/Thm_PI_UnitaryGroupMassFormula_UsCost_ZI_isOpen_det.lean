@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_ZI_isOpen_det
 -- name    : PI.UnitaryGroupMassFormula.UsCost.ZI.isOpen_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:06.179478+00:00
 -- url     : https://prove2.me/theorems/3c9d06ee-4fda-4fe8-a7fb-3a04ee84a8fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_exists_transversal_of_idx_ne_zero
 -- name    : GlobalTheory.FinWeil.exists_transversal_of_idx_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:39.159947+00:00
 -- url     : https://prove2.me/theorems/6d851735-5d9e-4e87-8106-0710991fe2fc

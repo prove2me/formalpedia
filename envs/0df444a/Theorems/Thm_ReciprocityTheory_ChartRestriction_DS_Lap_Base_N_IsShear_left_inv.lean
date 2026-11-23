@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_IsShear_left_inv
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.IsShear.left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:08.201257+00:00
 -- url     : https://prove2.me/theorems/205c4716-95bc-4a72-a1ed-6240eae47d89

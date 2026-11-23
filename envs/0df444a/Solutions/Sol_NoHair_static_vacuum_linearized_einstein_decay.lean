@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.static_vacuum_linearized_einstein_decay
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T08:27:05.75051+00:00
 -- url     : https://prove2.me/submissions/d3a4fc98-3c59-42b7-b69c-2f682589e2b2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_static_linearized_einstein_trace_identity
 import Theorems.Thm_NoHair_asymptotic_static_cartesian_ricci_expansion

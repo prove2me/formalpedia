@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdDualW_BR_expand
 -- name    : PI.VolStabW.SdDualW.BR_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:51.160169+00:00
 -- url     : https://prove2.me/theorems/ea1ca046-3b66-4452-bb36-9bec9dda8a69

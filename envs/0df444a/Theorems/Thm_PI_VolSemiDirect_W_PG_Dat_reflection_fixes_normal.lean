@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_PG_Dat_reflection_fixes_normal
 -- name    : PI.VolSemiDirect.W.PG.Dat.reflection_fixes_normal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:25.168046+00:00
 -- url     : https://prove2.me/theorems/1607e0cd-be05-4edb-a251-b389ea59948f

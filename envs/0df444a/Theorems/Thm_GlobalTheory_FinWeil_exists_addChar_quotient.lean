@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_exists_addChar_quotient
 -- name    : GlobalTheory.FinWeil.exists_addChar_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:54.60037+00:00
 -- url     : https://prove2.me/theorems/e430d837-c3c4-45fc-a81a-1aa7b5e847e5

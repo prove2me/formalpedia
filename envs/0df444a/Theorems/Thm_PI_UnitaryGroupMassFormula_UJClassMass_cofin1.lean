@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_cofin1
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.cofin1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:20.580405+00:00
 -- url     : https://prove2.me/theorems/d4bd7c54-ad91-4684-b4f2-d144d101c4bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_trace_algebraMap_mul
 -- name    : PI.VolSemiDirect.W.Cj.trace_algebraMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:12.275803+00:00
 -- url     : https://prove2.me/theorems/91a91ffd-e360-4ea8-9214-137fc5fdb640

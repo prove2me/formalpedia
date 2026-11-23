@@ -73982,10 +73982,10 @@
 {"parent": "OAI.EisensteinSchwartzPoisson.iteratedDeriv_halfFlow", "child": "OAI_NumberTheory_DirichletL_GaussSum_SexticRadialPoisson", "via": ["solution", "statement"]}
 {"parent": "OAI.EisensteinSchwartzPoisson.iteratedDeriv_halfFlow", "child": "OAI_NumberTheory_DirichletL_Fourier_PositiveLogProfiles", "via": ["solution", "statement"]}
 {"parent": "OAI.EisensteinSchwartzPoisson.iteratedDeriv_halfFlow", "child": "OAI_NumberTheory_DirichletL_Poisson_RadialFourier", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_p4_f11_interior_positive_horizon", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_p4_f11_interior_positive_horizon", "child": "AvramDividend_Classical_TwoSidedExitCorrected", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_p4_f11_interior_positive_horizon", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_p4_f11_interior_positive_horizon", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_p4_f11_interior_positive_horizon", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_p4_f11_interior_positive_horizon", "child": "AvramDividend_Classical_TwoSidedExitCorrected", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_p4_f11_interior_positive_horizon", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_p4_f11_interior_positive_horizon", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "KTCenter.lemma_4_2_props", "child": "KTCenter_Instance", "via": ["statement"]}
 {"parent": "KTCenter.lemma_4_2_props", "child": "KTCenter_InversionUnion", "via": ["statement"]}
 {"parent": "QEC.Coding.SmallSetExpansion.crossCount_comm_of_symmetric", "child": "QEC_Coding_ExpanderCodes_SmallSetExpansion", "via": ["solution", "statement"]}

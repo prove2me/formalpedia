@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_set_of_coords_inj
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.set_of_coords_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:38.598799+00:00
 -- url     : https://prove2.me/theorems/0f4dbf90-06cc-454e-a646-9fab21ded5bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_ZI_inverse_eA
 -- name    : PI.UnitaryGroupMassFormula.UsCost.ZI.inverse_eA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:28.182197+00:00
 -- url     : https://prove2.me/theorems/7fab64e7-576e-484f-9bd8-ae053a8b5b5b

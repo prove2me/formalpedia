@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_static_vacuum_linearized_einstein_decay
 -- name    : NoHair.static_vacuum_linearized_einstein_decay
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T07:52:49.037467+00:00
 -- url     : https://prove2.me/theorems/30ff9506-85d5-4820-840d-e3a2af2784ea

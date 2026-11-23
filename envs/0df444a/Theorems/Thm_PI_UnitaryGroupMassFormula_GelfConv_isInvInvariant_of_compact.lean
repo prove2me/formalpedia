@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfConv_isInvInvariant_of_compact
 -- name    : PI.UnitaryGroupMassFormula.GelfConv.isInvInvariant_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:43:58.16523+00:00
 -- url     : https://prove2.me/theorems/5380ed0a-16a9-4914-b578-c28e33aebbbb

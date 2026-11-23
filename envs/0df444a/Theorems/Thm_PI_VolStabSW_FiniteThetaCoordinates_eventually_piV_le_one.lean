@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_FiniteThetaCoordinates_eventually_piV_le_one
 -- name    : PI.VolStabSW.FiniteThetaCoordinates.eventually_piV_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:43.020799+00:00
 -- url     : https://prove2.me/theorems/74322fc5-ac00-4a47-bcfe-50178d5c9c53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_filtered_avram_upcrossing_discount_real_cap
 -- name    : Kyprianou.Ch08.StageB.filtered_avram_upcrossing_discount_real_cap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T08:16:56.314234+00:00
 -- url     : https://prove2.me/theorems/881232c8-f285-440e-8789-38e7e93dc43b

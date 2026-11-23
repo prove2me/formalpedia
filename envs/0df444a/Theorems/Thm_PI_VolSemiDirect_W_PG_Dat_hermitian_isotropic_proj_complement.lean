@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_PG_Dat_hermitian_isotropic_proj_complement
 -- name    : PI.VolSemiDirect.W.PG.Dat.hermitian_isotropic_proj_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:48.771546+00:00
 -- url     : https://prove2.me/theorems/cbeed2dd-eba3-4fe2-b0d3-642d7da54c69

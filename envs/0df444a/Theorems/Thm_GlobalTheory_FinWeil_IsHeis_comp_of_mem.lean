@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_IsHeis_comp_of_mem
 -- name    : GlobalTheory.FinWeil.IsHeis.comp_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:47:18.340798+00:00
 -- url     : https://prove2.me/theorems/8426eb83-a3f8-421a-a37a-d3a13c75ed0f

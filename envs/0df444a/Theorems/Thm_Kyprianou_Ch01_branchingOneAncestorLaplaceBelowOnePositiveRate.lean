@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingOneAncestorLaplaceBelowOnePositiveRate
 -- name    : Kyprianou.Ch01.branchingOneAncestorLaplaceBelowOnePositiveRate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:56:39.435361+00:00
 -- url     : https://prove2.me/theorems/03eb9c74-1436-4403-9f34-82769e0470f9

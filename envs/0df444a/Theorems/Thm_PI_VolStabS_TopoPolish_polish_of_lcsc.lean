@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_TopoPolish_polish_of_lcsc
 -- name    : PI.VolStabS.TopoPolish.polish_of_lcsc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:26.937704+00:00
 -- url     : https://prove2.me/theorems/0262458b-9cae-4ca6-9903-03d1b16fd5d8

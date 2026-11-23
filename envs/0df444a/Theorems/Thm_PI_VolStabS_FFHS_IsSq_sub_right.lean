@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_IsSq_sub_right
 -- name    : PI.VolStabS.FFHS.IsSq.sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:07.377732+00:00
 -- url     : https://prove2.me/theorems/aa922c1b-83fd-4a11-9c7e-3453a84905a2

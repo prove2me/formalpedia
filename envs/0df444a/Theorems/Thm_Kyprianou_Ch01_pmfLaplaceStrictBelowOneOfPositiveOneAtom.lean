@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_pmfLaplaceStrictBelowOneOfPositiveOneAtom
 -- name    : Kyprianou.Ch01.pmfLaplaceStrictBelowOneOfPositiveOneAtom
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:59:31.997643+00:00
 -- url     : https://prove2.me/theorems/6907748d-ae27-431b-bdce-20d42aa117fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_reach_of_approx
 -- name    : PI.VolStabS.reach_of_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:51.583659+00:00
 -- url     : https://prove2.me/theorems/c3134d57-a509-4a65-981e-f3812db81b7d

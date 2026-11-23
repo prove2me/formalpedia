@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_quadBasisR_one
 -- name    : PIW.AdelicOrbitU.quadBasisR_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:03:59.217707+00:00
 -- url     : https://prove2.me/theorems/149ffb0a-e67c-44f1-9c78-2d4ae01e2e2d

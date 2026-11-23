@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_tensSub_stable
 -- name    : ReciprocityTheory.ChartRestriction.DS.tensSub_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:38:00.484397+00:00
 -- url     : https://prove2.me/theorems/115a3541-1833-4372-a210-232e8a431c25

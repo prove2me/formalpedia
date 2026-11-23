@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassFin_Lam_emb_mul
 -- name    : PI.UnitaryGroupMassFormula.UJClassFin.Lam_emb_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:44:33.874814+00:00
 -- url     : https://prove2.me/theorems/7665813b-3bc9-466e-a75b-8ec1ba7531fd

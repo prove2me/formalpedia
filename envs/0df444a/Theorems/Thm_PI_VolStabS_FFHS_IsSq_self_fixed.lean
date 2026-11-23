@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_IsSq_self_fixed
 -- name    : PI.VolStabS.FFHS.IsSq.self_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:10.547392+00:00
 -- url     : https://prove2.me/theorems/4ffdde9f-83eb-40c3-bbbe-965ed4979c1a

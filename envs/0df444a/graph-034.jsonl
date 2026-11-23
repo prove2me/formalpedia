@@ -865,7 +865,7 @@
 {"parent": "LevyStochCalc_Probability_AugmentationMeasurable_F000", "child": "LevyStochCalc_Probability_SubSigmaLimit_F000", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1030", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1030", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
-{"parent": "Castro2006.H1_equiv_conjClasses", "child": "Castro2006_action", "via": ["statement"]}
+{"parent": "Castro2006.H1_equiv_conjClasses", "child": "Castro2006_action", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch39_219", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch39_219", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_159", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}

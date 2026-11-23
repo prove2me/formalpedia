@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_IsSq_add_left
 -- name    : PI.VolStabS.FFHS.IsSq.add_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:58.644496+00:00
 -- url     : https://prove2.me/theorems/e32328bb-825e-4ff6-903c-731ff782adf8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_HasDens_const_mul
 -- name    : PI.VolStabSW.HasDens.const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:38.162799+00:00
 -- url     : https://prove2.me/theorems/334f27db-77b8-43db-a986-463490d4beaf

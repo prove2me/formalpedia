@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_hensel_main
 -- name    : PI.VolStabS.hensel_main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:48.493001+00:00
 -- url     : https://prove2.me/theorems/cc0edfed-1359-4ddf-b8d3-bab9763577f3

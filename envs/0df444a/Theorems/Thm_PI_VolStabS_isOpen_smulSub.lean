@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_isOpen_smulSub
 -- name    : PI.VolStabS.isOpen_smulSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:57.499246+00:00
 -- url     : https://prove2.me/theorems/248eb221-39ea-438c-becd-34d762204d22

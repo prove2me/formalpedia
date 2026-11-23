@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.regular_static_vacuum_positive_end_zero_mass
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T07:41:52.389622+00:00
 -- url     : https://prove2.me/submissions/c4c021eb-6e1f-462b-a588-58623aa92375
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_static_conformal_adm_flux_law
 import Theorems.Thm_NoHair_regular_static_vacuum_adm_lapse_flux

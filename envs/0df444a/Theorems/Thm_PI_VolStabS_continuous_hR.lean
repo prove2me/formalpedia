@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_continuous_hR
 -- name    : PI.VolStabS.continuous_hR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:25.999483+00:00
 -- url     : https://prove2.me/theorems/f7270b13-2c80-4789-b81e-144058239132

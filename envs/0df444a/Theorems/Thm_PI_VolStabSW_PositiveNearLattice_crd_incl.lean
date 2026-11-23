@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_PositiveNearLattice_crd_incl
 -- name    : PI.VolStabSW.PositiveNearLattice.crd_incl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:48.16896+00:00
 -- url     : https://prove2.me/theorems/0f4f07e4-bcee-48df-b11a-93960b3d6967

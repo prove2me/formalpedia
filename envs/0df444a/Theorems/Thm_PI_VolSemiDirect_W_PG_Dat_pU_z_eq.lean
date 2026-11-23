@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_PG_Dat_pU_z_eq
 -- name    : PI.VolSemiDirect.W.PG.Dat.pU_z_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:04.922317+00:00
 -- url     : https://prove2.me/theorems/a4363d97-d508-4b2f-8144-7301e15a3ec0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_isCompact_smulSub
 -- name    : PI.VolStabS.isCompact_smulSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:53.828805+00:00
 -- url     : https://prove2.me/theorems/bca56e6e-0182-4e36-8cd0-40ce86ecb1f4

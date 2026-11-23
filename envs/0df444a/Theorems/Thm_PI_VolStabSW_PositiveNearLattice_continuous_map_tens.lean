@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_PositiveNearLattice_continuous_map_tens
 -- name    : PI.VolStabSW.PositiveNearLattice.continuous_map_tens
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:58:31.695156+00:00
 -- url     : https://prove2.me/theorems/56334ff6-8b4d-4edb-ba87-965af43cff0d

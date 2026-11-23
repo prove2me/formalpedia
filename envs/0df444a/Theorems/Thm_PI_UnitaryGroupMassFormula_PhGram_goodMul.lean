@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhGram_goodMul
 -- name    : PI.UnitaryGroupMassFormula.PhGram.goodMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:07.148161+00:00
 -- url     : https://prove2.me/theorems/0f2c2f0d-06f6-40cc-a577-7380629908dc

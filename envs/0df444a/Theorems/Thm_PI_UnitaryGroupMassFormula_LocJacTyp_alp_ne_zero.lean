@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_alp_ne_zero
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.alp_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:28:32.623537+00:00
 -- url     : https://prove2.me/theorems/fdea600b-fe0a-462b-88ce-8dd199cc9e9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_heisenberg_le_stabilizer
 -- name    : PI.VolSemiDirect.W.heisenberg_le_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:41.887459+00:00
 -- url     : https://prove2.me/theorems/12ed4753-5ccf-4c74-ba30-ee875e512831

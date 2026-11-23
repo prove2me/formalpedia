@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_PositiveNearLattice_continuous_orbit
 -- name    : PI.VolStabSW.PositiveNearLattice.continuous_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:53.681382+00:00
 -- url     : https://prove2.me/theorems/ca32accc-ab3b-420a-913e-00623cb728d2

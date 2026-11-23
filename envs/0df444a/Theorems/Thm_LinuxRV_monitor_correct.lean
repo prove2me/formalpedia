@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinuxRV_monitor_correct
 -- name    : LinuxRV.monitor_correct
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-22T20:12:04.933696+00:00
 -- url     : https://prove2.me/theorems/450ab57e-8e55-47cd-a81e-7689b13096f4

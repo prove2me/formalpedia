@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_PositiveNearLattice_eq_sum_crd
 -- name    : PI.VolStabSW.PositiveNearLattice.eq_sum_crd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:50:00.121822+00:00
 -- url     : https://prove2.me/theorems/1dd39aef-226d-4d1f-bf63-2d66203d2aa5

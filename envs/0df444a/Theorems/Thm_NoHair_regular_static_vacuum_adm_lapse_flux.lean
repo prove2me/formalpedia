@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_regular_static_vacuum_adm_lapse_flux
 -- name    : NoHair.regular_static_vacuum_adm_lapse_flux
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T07:37:47.565949+00:00
 -- url     : https://prove2.me/theorems/6ad7d15b-8264-4a59-8123-789116a1a543

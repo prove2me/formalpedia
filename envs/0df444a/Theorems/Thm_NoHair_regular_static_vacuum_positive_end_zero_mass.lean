@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_regular_static_vacuum_positive_end_zero_mass
 -- name    : NoHair.regular_static_vacuum_positive_end_zero_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T07:37:54.276378+00:00
 -- url     : https://prove2.me/theorems/400b8357-3b70-4260-835c-3ec773bf5327

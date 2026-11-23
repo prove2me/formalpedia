@@ -48734,10 +48734,10 @@
 {"parent": "ReLUBinaryDepth.ProductTradeoff.Supplement.theorem_1_2", "child": "ReLUBinaryDepth_ProductTradeoff_Product", "via": ["solution", "statement"]}
 {"parent": "ReLUBinaryDepth.ProductTradeoff.Supplement.theorem_1_2", "child": "QNatProofs_ThrCircuit", "via": ["solution", "statement"]}
 {"parent": "ZigZagStrong_ZigZag_Supplement_GaltonWatson", "child": "ZigZagStrong_ZigZag_Supplement_Configuration", "via": ["statement"]}
-{"parent": "Kyprianou.finiteRegionPoissonIntegralCh02V3", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.finiteRegionPoissonIntegralCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.finiteRegionPoissonIntegralCh02V3", "child": "LeanLevy_RandomMeasure_PoissonPointFamily", "via": ["statement"]}
-{"parent": "Kyprianou.finiteRegionPoissonIntegralCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.finiteRegionPoissonIntegralCh02V3", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.finiteRegionPoissonIntegralCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.finiteRegionPoissonIntegralCh02V3", "child": "LeanLevy_RandomMeasure_PoissonPointFamily", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.finiteRegionPoissonIntegralCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "RepellingPairs_Supplement_crossingNumber", "child": "RepellingPairs_Config", "via": ["statement"]}
 {"parent": "RepellingPairs_Supplement_crossingNumber", "child": "RepellingPairs_PerfectMatching", "via": ["statement"]}
 {"parent": "Kyprianou.exercise2_7_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}

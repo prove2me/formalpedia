@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_PhGram_subst_add__9765ee5b53ae
 -- name    : P2M_PI_UnitaryGroupMassFormula_PhGram_subst_add__9765ee5b53ae
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:41.458877+00:00
 -- url     : https://prove2.me/theorems/f7507f17-74b6-45a2-aec6-71e8145569c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_exists_fd
 -- name    : PI.VolSemiDirect.W.exists_fd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:00:53.17383+00:00
 -- url     : https://prove2.me/theorems/a076ee7e-4e6e-427d-aea6-cca85dcbb126

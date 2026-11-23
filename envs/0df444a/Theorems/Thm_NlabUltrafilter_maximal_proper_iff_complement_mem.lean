@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NlabUltrafilter_maximal_proper_iff_complement_mem
 -- name    : NlabUltrafilter.maximal_proper_iff_complement_mem
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T20:27:45.333433+00:00
 -- url     : https://prove2.me/theorems/7c1a6710-a22b-4939-8943-158ce58e8b77

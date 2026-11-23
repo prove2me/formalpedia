@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_PG_Dat_orthogonal_proj_normal_zero
 -- name    : PI.VolSemiDirect.W.PG.Dat.orthogonal_proj_normal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:48.141876+00:00
 -- url     : https://prove2.me/theorems/502dc871-2e63-4974-a45c-443f0bd9e5e8

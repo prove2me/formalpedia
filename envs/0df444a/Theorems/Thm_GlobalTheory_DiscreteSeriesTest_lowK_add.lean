@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscreteSeriesTest_lowK_add
 -- name    : GlobalTheory.DiscreteSeriesTest.lowK_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:46:45.977809+00:00
 -- url     : https://prove2.me/theorems/a61da37f-44ee-4c02-b8cb-c0087b86a20f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_image_latSet
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.image_latSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:55.696173+00:00
 -- url     : https://prove2.me/theorems/345f3a96-1e4e-4bea-918a-2fb3a0702543

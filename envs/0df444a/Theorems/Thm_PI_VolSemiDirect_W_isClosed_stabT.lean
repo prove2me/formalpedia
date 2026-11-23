@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_isClosed_stabT
 -- name    : PI.VolSemiDirect.W.isClosed_stabT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:08.813886+00:00
 -- url     : https://prove2.me/theorems/17d20cc1-1bdd-4942-8e86-34e37b1526b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_PositiveNearLattice_continuous_projFin
 -- name    : PI.VolStabSW.PositiveNearLattice.continuous_projFin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:58:33.371996+00:00
 -- url     : https://prove2.me/theorems/1f3a98db-4c77-4abf-8ab7-af99ab20be25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_positiveOneAncestorDiagonalMassAtFiniteTime
 -- name    : Kyprianou.Ch01.positiveOneAncestorDiagonalMassAtFiniteTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:59:31.301857+00:00
 -- url     : https://prove2.me/theorems/a2bb7a79-18b7-46f8-83ae-cdd53a6f07ac

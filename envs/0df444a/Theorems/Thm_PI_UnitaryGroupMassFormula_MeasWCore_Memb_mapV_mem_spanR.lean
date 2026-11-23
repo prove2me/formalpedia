@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_MeasWCore_Memb_mapV_mem_spanR
 -- name    : PI.UnitaryGroupMassFormula.MeasWCore.Memb.mapV_mem_spanR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:44:45.963845+00:00
 -- url     : https://prove2.me/theorems/4691f28f-4854-43ac-ad3d-33cb1761edaa

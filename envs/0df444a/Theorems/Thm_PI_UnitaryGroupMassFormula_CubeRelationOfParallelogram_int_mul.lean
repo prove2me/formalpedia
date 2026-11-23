@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CubeRelationOfParallelogram_int_mul
 -- name    : PI.UnitaryGroupMassFormula.CubeRelationOfParallelogram.int_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:43:24.623913+00:00
 -- url     : https://prove2.me/theorems/79e805ec-0cb0-4188-a323-64a157892448

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_inG_transvection
 -- name    : PI.VolSemiDirect.W.Cj.inG_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:17.066896+00:00
 -- url     : https://prove2.me/theorems/aa973450-bd40-44a9-ae41-623937ff3412

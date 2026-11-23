@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_sumOp_eq_sum_transversal
 -- name    : GlobalTheory.FinWeil.sumOp_eq_sum_transversal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:44.835064+00:00
 -- url     : https://prove2.me/theorems/2c64393a-489e-4d77-89f2-6aac3f9e7953

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhGram_cc_add
 -- name    : PI.UnitaryGroupMassFormula.PhGram.cc_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:51.419887+00:00
 -- url     : https://prove2.me/theorems/c226f6a7-6b04-4937-98a8-679af7ad8424

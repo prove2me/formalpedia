@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_twist_zpow_star
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.twist_zpow_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:00:19.109806+00:00
 -- url     : https://prove2.me/theorems/19cb2b9d-8773-4456-a0dd-234607b20bda

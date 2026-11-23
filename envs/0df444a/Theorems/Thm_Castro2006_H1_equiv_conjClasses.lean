@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Castro2006_H1_equiv_conjClasses
 -- name    : Castro2006.H1_equiv_conjClasses
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T20:42:01.698209+00:00
 -- url     : https://prove2.me/theorems/d548b355-4486-48b8-a93f-1e1d64d9bea9

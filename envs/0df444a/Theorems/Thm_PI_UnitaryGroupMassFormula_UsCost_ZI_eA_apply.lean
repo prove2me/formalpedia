@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_ZI_eA_apply
 -- name    : PI.UnitaryGroupMassFormula.UsCost.ZI.eA_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:13.590243+00:00
 -- url     : https://prove2.me/theorems/eced2caf-8e69-4072-a337-280dbec8e019

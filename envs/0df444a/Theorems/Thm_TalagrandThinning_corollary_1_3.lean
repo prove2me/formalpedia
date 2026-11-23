@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandThinning_corollary_1_3
 -- name    : TalagrandThinning.corollary_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:43:12.264675+00:00
 -- url     : https://prove2.me/theorems/a1c38c55-861c-4c6a-8498-39278c342991

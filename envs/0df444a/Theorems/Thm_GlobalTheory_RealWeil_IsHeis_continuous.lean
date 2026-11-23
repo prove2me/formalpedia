@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_IsHeis_continuous
 -- name    : GlobalTheory.RealWeil.IsHeis.continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:47:55.590819+00:00
 -- url     : https://prove2.me/theorems/72259f2c-c6c0-4ae6-8e59-72fe8b945bd7

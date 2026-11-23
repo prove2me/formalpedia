@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_mem_gmap_iff
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.mem_gmap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:45.298151+00:00
 -- url     : https://prove2.me/theorems/f325f5e1-7fa1-458b-94a5-39c7643cd6ab

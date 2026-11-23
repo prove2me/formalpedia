@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnipVal_Main_plc_prime
 -- name    : PI.UnitaryGroupMassFormula.UnipVal.Main.plc_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:47:54.572313+00:00
 -- url     : https://prove2.me/theorems/18f51781-7fb0-474f-b976-abc706202e4b

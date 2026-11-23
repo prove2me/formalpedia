@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_intCast_ne_zero_OF
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.intCast_ne_zero_OF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:17.713997+00:00
 -- url     : https://prove2.me/theorems/a154cee6-a869-4821-9e8c-aae30ce7b59a

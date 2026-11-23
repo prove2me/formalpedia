@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_IsHeis_swap
 -- name    : GlobalTheory.FinWeil.IsHeis.swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:47:21.8587+00:00
 -- url     : https://prove2.me/theorems/970e09a0-12bd-4a31-a01b-eb65f333da5a

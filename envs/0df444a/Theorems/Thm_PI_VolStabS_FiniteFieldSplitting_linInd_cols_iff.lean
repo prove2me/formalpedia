@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FiniteFieldSplitting_linInd_cols_iff
 -- name    : PI.VolStabS.FiniteFieldSplitting.linInd_cols_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:26.814572+00:00
 -- url     : https://prove2.me/theorems/a9d7da7b-3e4d-4a4b-b27b-43f1453d6cf8

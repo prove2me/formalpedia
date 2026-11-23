@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_ZI_isUnit_eA
 -- name    : PI.UnitaryGroupMassFormula.UsCost.ZI.isUnit_eA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:26.639805+00:00
 -- url     : https://prove2.me/theorems/c8a0b9a3-ae37-4f6b-aa6f-6ce00aca5656

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_equivFun_osmul
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.equivFun_osmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:47:48.659135+00:00
 -- url     : https://prove2.me/theorems/864d4fbb-5e07-4863-b5ed-a043cb6eb329

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_isomStep
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.isomStep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:55:26.880364+00:00
 -- url     : https://prove2.me/theorems/93c71531-27d7-4897-9658-8d8d3c800241

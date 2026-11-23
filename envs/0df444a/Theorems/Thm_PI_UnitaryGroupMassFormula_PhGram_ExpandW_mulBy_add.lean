@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhGram_ExpandW_mulBy_add
 -- name    : PI.UnitaryGroupMassFormula.PhGram.ExpandW.mulBy_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:44:58.385565+00:00
 -- url     : https://prove2.me/theorems/6f295714-6360-418a-9a6b-1e24fcc9f0cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_IsHeis_neg_right
 -- name    : GlobalTheory.FinWeil.IsHeis.neg_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:47:32.721538+00:00
 -- url     : https://prove2.me/theorems/2f191a6c-3675-4819-afb9-bb8f83e049e2

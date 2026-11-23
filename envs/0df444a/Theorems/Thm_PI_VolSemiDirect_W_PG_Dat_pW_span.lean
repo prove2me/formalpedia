@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_PG_Dat_pW_span
 -- name    : PI.VolSemiDirect.W.PG.Dat.pW_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:57.349319+00:00
 -- url     : https://prove2.me/theorems/47d22b02-23f9-41d4-a2f7-5505771a0be5
