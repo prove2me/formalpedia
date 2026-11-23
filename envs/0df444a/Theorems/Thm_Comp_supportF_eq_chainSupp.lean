@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_supportF_eq_chainSupp
 -- name    : Comp.supportF_eq_chainSupp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:56:57.480791+00:00
 -- url     : https://prove2.me/theorems/2e62b3dd-3daa-4a27-8309-519db7b028b1

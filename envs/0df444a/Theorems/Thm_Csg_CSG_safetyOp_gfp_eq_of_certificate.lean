@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_safetyOp_gfp_eq_of_certificate
 -- name    : Csg.CSG.safetyOp_gfp_eq_of_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:10:44.971129+00:00
 -- url     : https://prove2.me/theorems/e3e66309-d500-4392-91da-4d2e821961d6

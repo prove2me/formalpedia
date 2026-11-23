@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_penniesCSG_stageValue_zero
 -- name    : Csg.penniesCSG_stageValue_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:16:23.92994+00:00
 -- url     : https://prove2.me/theorems/8719e6b1-d689-44fe-9750-9ec831843dc8

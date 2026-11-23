@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stageB_shiftedSup_drawdown_clock_eq
 -- name    : stageB_shiftedSup_drawdown_clock_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T00:16:17.469412+00:00
 -- url     : https://prove2.me/theorems/05410d73-91b9-4cec-a116-08f52724819d

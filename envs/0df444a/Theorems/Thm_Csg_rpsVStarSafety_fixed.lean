@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsVStarSafety_fixed
 -- name    : Csg.rpsVStarSafety_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:11:18.275453+00:00
 -- url     : https://prove2.me/theorems/d7fd8151-7106-4d87-a7d3-eb97f47fbe99

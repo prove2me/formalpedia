@@ -2827,9 +2827,9 @@
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P34.irreducible_cp_part", "child": "QAlgorithms_Papers_Independent_Intake100_P34", "via": ["statement"]}
 {"parent": "ReservationPolicy_payoffPlain", "child": "ReservationPolicy_Params", "via": ["statement"]}
 {"parent": "ReservationPolicy_payoffPlain", "child": "ReservationPolicy_admitProb", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_26_27", "child": "ReservationPolicy_Params_Valid", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_26_27", "child": "ReservationPolicy_Params_dStar", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_26_27", "child": "ReservationPolicy_IsInvestCandidate", "via": ["statement"]}
+{"parent": "ReservationPolicy.eq_26_27", "child": "ReservationPolicy_Params_Valid", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_26_27", "child": "ReservationPolicy_Params_dStar", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_26_27", "child": "ReservationPolicy_IsInvestCandidate", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.bucket_aug_12", "child": "OAIQ019N049", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.bucket_aug_34", "child": "OAIQ019N049", "via": ["solution", "statement"]}
 {"parent": "XuZeevi.Variance.lemma_3", "child": "XuZeevi_Variance_Surrogate", "via": ["statement"]}
@@ -31745,7 +31745,7 @@
 {"parent": "CongestionTaxes.equilibrium_bound", "child": "CongestionTaxes_EqClass", "via": ["statement"]}
 {"parent": "CongestionTaxes.equilibrium_bound", "child": "CongestionTaxes_rhoSup", "via": ["statement"]}
 {"parent": "CongestionTaxes.equilibrium_bound", "child": "CongestionTaxes_minCost", "via": ["statement"]}
-{"parent": "DRSubmodHull.algorithm_1_valid_candidates_exact", "child": "DRSubmodHull_IsPermFinderOutput", "via": ["statement"]}
+{"parent": "DRSubmodHull.algorithm_1_valid_candidates_exact", "child": "DRSubmodHull_IsPermFinderOutput", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_19_7_8_s50", "child": "OAIQ050L004", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_19_7_8_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_19_7_8_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}

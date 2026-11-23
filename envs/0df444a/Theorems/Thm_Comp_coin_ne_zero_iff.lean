@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_coin_ne_zero_iff
 -- name    : Comp.coin_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:56:31.939535+00:00
 -- url     : https://prove2.me/theorems/c6c99658-8dc0-4d2c-98cd-b69f3230d018

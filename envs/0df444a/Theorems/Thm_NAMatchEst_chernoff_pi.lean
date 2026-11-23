@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAMatchEst_chernoff_pi
 -- name    : NAMatchEst.chernoff_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-23T00:23:45.663834+00:00
 -- url     : https://prove2.me/theorems/1155befd-08de-41d2-b8e5-583be435a2b3

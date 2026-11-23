@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_answers_almostReach_of_fix
 -- name    : Comp.ModelData.answers_almostReach_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:17:35.763991+00:00
 -- url     : https://prove2.me/theorems/59552bbf-2394-48de-b29a-eb5438a1ed86

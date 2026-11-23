@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NOFSeparation750_CodedGIP_padded_uniformPolyTime
 -- name    : NOFSeparation750.CodedGIP.padded_uniformPolyTime
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-22T21:27:30.205885+00:00
 -- url     : https://prove2.me/theorems/d7b7aa21-9997-4374-838a-a05daa74a998

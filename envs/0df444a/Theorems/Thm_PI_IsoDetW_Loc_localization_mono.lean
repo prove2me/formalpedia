@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_localization_mono
 -- name    : PI.IsoDetW.Loc.localization_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:28:54.817653+00:00
 -- url     : https://prove2.me/theorems/64ac3b02-2eee-41c8-8a92-42ff00695869

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAMatchEst_observation_3_2
 -- name    : NAMatchEst.observation_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:54:11.749639+00:00
 -- url     : https://prove2.me/theorems/b300697f-8840-482a-9998-0aefb6718d0a

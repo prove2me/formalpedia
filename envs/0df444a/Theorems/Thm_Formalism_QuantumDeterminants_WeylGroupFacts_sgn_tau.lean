@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WeylGroupFacts_sgn_tau
 -- name    : Formalism.QuantumDeterminants.WeylGroupFacts.sgn_tau
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:28:32.650801+00:00
 -- url     : https://prove2.me/theorems/626b2c58-0c71-4b5b-b6a8-962c4e08da6b

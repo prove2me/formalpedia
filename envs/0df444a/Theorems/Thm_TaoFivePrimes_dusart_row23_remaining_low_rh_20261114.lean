@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_dusart_row23_remaining_low_rh_20261114
 -- name    : TaoFivePrimes.dusart_row23_remaining_low_rh_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @abcdefg
 -- created : 2026-11-13T22:01:36.523098+00:00
 -- url     : https://prove2.me/theorems/2d298945-da81-44d5-b922-214db479ece7

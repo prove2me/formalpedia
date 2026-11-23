@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_answers_limitReach_of_fix
 -- name    : Comp.ModelData.answers_limitReach_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:23:29.553498+00:00
 -- url     : https://prove2.me/theorems/85c946bf-a8da-4a7d-8f7b-d7e285155447

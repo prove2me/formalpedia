@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_twoGame_fixed
 -- name    : Comp.twoGame_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:54:52.148189+00:00
 -- url     : https://prove2.me/theorems/874bc590-c110-409a-9e86-7b257fba072d

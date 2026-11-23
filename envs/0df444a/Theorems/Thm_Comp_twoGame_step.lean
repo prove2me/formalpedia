@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_twoGame_step
 -- name    : Comp.twoGame_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:56:11.140318+00:00
 -- url     : https://prove2.me/theorems/c4d2049a-e2d1-4086-a201-7d8b1bb472b5

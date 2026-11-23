@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsVStar_le_of_prefixed
 -- name    : Csg.rpsVStar_le_of_prefixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:09:40.410868+00:00
 -- url     : https://prove2.me/theorems/1bb58e38-79c7-41a4-a273-3005df3cae26

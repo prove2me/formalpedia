@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_coe_lmidOf
 -- name    : Comp.ModelData.coe_lmidOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:52.185801+00:00
 -- url     : https://prove2.me/theorems/90261f9d-66c5-4b4c-841c-eda1bffcbb88

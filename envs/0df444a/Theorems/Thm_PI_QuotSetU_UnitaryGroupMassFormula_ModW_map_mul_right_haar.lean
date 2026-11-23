@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_ModW_map_mul_right_haar
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.ModW.map_mul_right_haar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:29:17.154507+00:00
 -- url     : https://prove2.me/theorems/1ba56245-a5d1-4ecb-b9a0-62d2279d6cdf

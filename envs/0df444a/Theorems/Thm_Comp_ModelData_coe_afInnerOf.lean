@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_coe_afInnerOf
 -- name    : Comp.ModelData.coe_afInnerOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:21:39.806546+00:00
 -- url     : https://prove2.me/theorems/6d005d8a-b78b-44ba-8724-040e94b55261

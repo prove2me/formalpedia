@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedGaussian_eq_exp_quadForm
 -- name    : DedekindZeta.ConeRadialReduction.mixedGaussian_eq_exp_quadForm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:28:51.834472+00:00
 -- url     : https://prove2.me/theorems/dfeb6210-9e37-41d5-b06c-787d3b292246

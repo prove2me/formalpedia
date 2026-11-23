@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRunData_hrd_answers_LF
 -- name    : Comp.HideOrRunData.hrd_answers_LF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:23:30.048019+00:00
 -- url     : https://prove2.me/theorems/17a1f184-4e2a-471d-aeea-9feef17354cd

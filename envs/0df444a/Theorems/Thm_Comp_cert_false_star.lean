@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_cert_false_star
 -- name    : Comp.cert_false_star
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:54:22.666796+00:00
 -- url     : https://prove2.me/theorems/e8f55501-3032-4a20-bbeb-894151ae36c7

@@ -13189,8 +13189,8 @@
 {"parent": "PNT_ZeroFree_433_0129_parallel1", "child": "PNT_ZeroFree_433_0006", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0129_parallel1", "child": "PNT_ZeroFree_433_0127_parallel1", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0129_parallel1", "child": "PNT_ZeroFree_433_0168_parallel1", "via": ["statement"]}
-{"parent": "LindelofHypothesis.density_hypothesis_of_lindelof", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["statement"]}
-{"parent": "LindelofHypothesis.density_hypothesis_of_lindelof", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["statement"]}
+{"parent": "LindelofHypothesis.density_hypothesis_of_lindelof", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["solution", "statement"]}
+{"parent": "LindelofHypothesis.density_hypothesis_of_lindelof", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["solution", "statement"]}
 {"parent": "ContJRP.Align.lemma_2_1_easy_regime", "child": "ContJRP_Align_Policy", "via": ["solution", "statement"]}
 {"parent": "ContJRP.Align.lemma_2_1_easy_regime", "child": "ContJRP_Align_Model", "via": ["solution", "statement"]}
 {"parent": "ContJRP.Align.lemma_2_1_easy_regime", "child": "ContJRP_Align_Alignment", "via": ["solution", "statement"]}

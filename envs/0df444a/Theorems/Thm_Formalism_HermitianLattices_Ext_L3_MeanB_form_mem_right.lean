@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanB_form_mem_right
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanB.form_mem_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:28:50.501348+00:00
 -- url     : https://prove2.me/theorems/925ed8ad-e18e-4baf-bc42-606a53341127

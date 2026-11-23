@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRun_afStepF_eq
 -- name    : Comp.HideOrRun.afStepF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:50:19.507476+00:00
 -- url     : https://prove2.me/theorems/9eeec387-e0a0-453c-8cfa-67b652790066

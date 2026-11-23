@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_supportF_coin
 -- name    : Comp.supportF_coin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:57:00.569891+00:00
 -- url     : https://prove2.me/theorems/b902e333-6cc5-4f9b-ba4c-240cc287f656

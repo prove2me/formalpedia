@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_afInner_eq_of_data
 -- name    : Comp.ModelData.afInner_eq_of_data
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:17:07.202428+00:00
 -- url     : https://prove2.me/theorems/8a34dfc5-cfab-4b44-86ee-5d33b5ebf424

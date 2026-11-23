@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_rewardUntilOp_eq_of_certificate
 -- name    : Csg.CSG.rewardUntilOp_eq_of_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:20:56.499896+00:00
 -- url     : https://prove2.me/theorems/bc749e9a-6045-4850-94a4-4d049a3b484a

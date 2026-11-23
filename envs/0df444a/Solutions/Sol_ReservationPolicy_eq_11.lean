@@ -1,0 +1,200 @@
+-- Prove2me | solution 1 for ReservationPolicy.eq_11
+-- status  : ACCEPTED   (prove)
+-- author  : @kmehltretter82
+-- created : 2026-11-23T00:31:47.486905+00:00
+-- url     : https://prove2.me/submissions/96d4ed47-bc30-4e8b-83f6-77763b52778b
+
+import Mathlib
+import Definitions.Def_ReservationPolicy_Params_Valid
+import Definitions.Def_ReservationPolicy_InvestGroup
+import Definitions.Def_ReservationPolicy_PlainGroup
+
+set_option autoImplicit false
+
+open MeasureTheory ReservationPolicy
+
+namespace ReservationPolicy.Eq11Proof
+
+theorem set_eq (m d : ℝ) : {ε : ℝ | d < m + ε} = Set.Ioi (d - m) := by
+  ext ε; simp only [Set.mem_setOf_eq, Set.mem_Ioi]; constructor <;> intro h <;> linarith
+
+theorem admitProb_formula (m d : ℝ) :
+    admitProb m d = (1 / 2) * (volume (Set.Ioi (d - m) ∩ Set.Icc (-1 : ℝ) 1)).toReal := by
+  unfold admitProb noise
+  rw [set_eq, Measure.real, Measure.smul_apply, Measure.restrict_apply measurableSet_Ioi,
+    smul_eq_mul, ENNReal.toReal_mul]
+  norm_num
+
+theorem admitProb_eq (m d : ℝ) (h1 : d - m < 1) (h2 : -1 < d - m) :
+    admitProb m d = (1 + m - d) / 2 := by
+  rw [admitProb_formula]
+  have : Set.Ioi (d - m) ∩ Set.Icc (-1 : ℝ) 1 = Set.Ioc (d - m) 1 := by
+    ext x; simp only [Set.mem_inter_iff, Set.mem_Ioi, Set.mem_Icc, Set.mem_Ioc]
+    constructor
+    · rintro ⟨h, -, h'⟩; exact ⟨h, h'⟩
+    · rintro ⟨h, h'⟩; exact ⟨h, by linarith, h'⟩
+  rw [this, Real.volume_Ioc, ENNReal.toReal_ofReal (by linarith)]
+  ring
+
+theorem admitProb_range (m d : ℝ) (h0 : 0 < admitProb m d) (h1 : admitProb m d < 1) :
+    d - m < 1 ∧ -1 < d - m := by
+  rw [admitProb_formula] at h0 h1
+  constructor
+  · by_contra hc
+    push Not at hc
+    have : Set.Ioi (d - m) ∩ Set.Icc (-1 : ℝ) 1 = ∅ := by
+      ext x; simp only [Set.mem_inter_iff, Set.mem_Ioi, Set.mem_Icc, Set.mem_empty_iff_false,
+        iff_false, not_and]
+      intro h _; linarith
+    rw [this] at h0
+    simp at h0
+  · by_contra hc
+    push Not at hc
+    have hsub : Set.Ioc (-1 : ℝ) 1 ⊆ Set.Ioi (d - m) ∩ Set.Icc (-1 : ℝ) 1 := by
+      intro x hx
+      exact ⟨by simp only [Set.mem_Ioi]; linarith [hx.1], le_of_lt hx.1, hx.2⟩
+    have hsup : Set.Ioi (d - m) ∩ Set.Icc (-1 : ℝ) 1 ⊆ Set.Icc (-1 : ℝ) 1 := Set.inter_subset_right
+    have e1 := measure_mono (μ := volume) hsub
+    have e2 := measure_mono (μ := volume) hsup
+    rw [Real.volume_Ioc] at e1
+    rw [Real.volume_Icc] at e2
+    have hfin : volume (Set.Ioi (d - m) ∩ Set.Icc (-1 : ℝ) 1) ≠ ⊤ :=
+      ne_top_of_le_ne_top ENNReal.ofReal_ne_top e2
+    have e3 := (ENNReal.toReal_le_toReal ENNReal.ofReal_ne_top hfin).mpr e1
+    rw [ENNReal.toReal_ofReal (by norm_num)] at e3
+    norm_num at e3
+    linarith
+
+theorem admittedMean_eq (m d : ℝ) (h1 : d - m < 1) (h2 : -1 < d - m) :
+    admittedMean m d = (m + d + 1) / 2 := by
+  unfold admittedMean
+  rw [admitProb_eq m d h1 h2, set_eq]
+  unfold noise
+  rw [Measure.restrict_smul, integral_smul_measure, Measure.restrict_restrict measurableSet_Ioi]
+  have : Set.Ioi (d - m) ∩ Set.Icc (-1 : ℝ) 1 = Set.Ioc (d - m) 1 := by
+    ext x; simp only [Set.mem_inter_iff, Set.mem_Ioi, Set.mem_Icc, Set.mem_Ioc]
+    constructor
+    · rintro ⟨h, -, h'⟩; exact ⟨h, h'⟩
+    · rintro ⟨h, h'⟩; exact ⟨h, by linarith, h'⟩
+  rw [this, ← intervalIntegral.integral_of_le (by linarith)]
+  rw [intervalIntegral.integral_add intervalIntegrable_const intervalIntegral.intervalIntegrable_id,
+    intervalIntegral.integral_const, integral_id]
+  have hne : (1 + m - d) ≠ 0 := by linarith
+  simp only [smul_eq_mul, ENNReal.toReal_inv, ENNReal.toReal_ofNat]
+  field_simp
+  ring
+
+theorem generic (k s d C : ℝ) (hk : 1 / 4 < k) (hs0 : 0 < s) (hs1 : s ≤ 1) (m : ℝ → ℝ)
+    (hm : ∀ e, m e = s * e) (pay : ℝ → ℝ → ℝ)
+    (hpay : ∀ r e, pay r e = admitProb (m e) d * r - k * e ^ 2 - C)
+    (S : Set ℝ) (hS : ∀ e, e ∈ S ↔ 0 ≤ e ∧ 0 < admitProb (m e) d ∧ admitProb (m e) d < 1)
+    (e r : ℝ) :
+    (e ∈ S ∧ (∀ e' ∈ S, pay r e' ≤ pay r e) ∧ r = admittedMean (m e) d) ↔
+      (e ∈ S ∧ e = (1 + d) * s / (8 * k - s ^ 2) ∧ r = (1 + d + s * e) / 2) := by
+  have hkpos : 0 < k := by linarith
+  have hden : 0 < 8 * k - s ^ 2 := by nlinarith
+  have hS' : ∀ e, e ∈ S ↔ 0 ≤ e ∧ d - s * e < 1 ∧ -1 < d - s * e := by
+    intro e
+    rw [hS, hm]
+    constructor
+    · rintro ⟨h0, h1, h2⟩
+      exact ⟨h0, admitProb_range _ _ h1 h2⟩
+    · rintro ⟨h0, h1, h2⟩
+      rw [admitProb_eq _ _ h1 h2]
+      exact ⟨h0, by linarith, by linarith⟩
+  have hpayS : ∀ r e, e ∈ S → pay r e = (1 + s * e - d) / 2 * r - k * e ^ 2 - C := by
+    intro r e he
+    obtain ⟨_, h1, h2⟩ := (hS' e).mp he
+    rw [hpay, hm, admitProb_eq _ _ h1 h2]
+  constructor
+  · rintro ⟨he, hopt, hr⟩
+    obtain ⟨he0, h1, h2⟩ := (hS' e).mp he
+    rw [hm, admittedMean_eq _ _ h1 h2] at hr
+    have hse : 0 ≤ s * e := mul_nonneg hs0.le he0
+    have hrpos : 0 < r := by rw [hr]; linarith
+    have hstat : e = s * r / (4 * k) := by
+      by_contra hne
+      set δ := s * r / (4 * k) - e with hδ
+      have hδne : δ ≠ 0 := by intro h; apply hne; linarith
+      set η := min (1 - (d - s * e)) (d - s * e + 1) with hη
+      have hηpos : 0 < η := lt_min (by linarith) (by linarith)
+      have hη1 : η ≤ 1 - (d - s * e) := min_le_left _ _
+      have hη2 : η ≤ d - s * e + 1 := min_le_right _ _
+      have hA : 0 ≤ s * |δ| := mul_nonneg hs0.le (abs_nonneg δ)
+      set t := min 1 (η / (2 * (s * |δ| + 1))) with ht
+      have ht0 : 0 < t := lt_min one_pos (div_pos hηpos (by positivity))
+      have ht1 : t ≤ 1 := min_le_left _ _
+      have ht2 : t ≤ η / (2 * (s * |δ| + 1)) := min_le_right _ _
+      have htη : t * (s * |δ|) < η := by
+        have e1 : t * (s * |δ|) ≤ η / (2 * (s * |δ| + 1)) * (s * |δ|) :=
+          mul_le_mul_of_nonneg_right ht2 hA
+        have e2 : η / (2 * (s * |δ| + 1)) * (s * |δ|) < η := by
+          rw [div_mul_eq_mul_div, div_lt_iff₀ (by positivity)]
+          nlinarith
+        linarith
+      have hb : |s * (t * δ)| < η := by
+        rw [abs_mul, abs_mul, abs_of_pos hs0, abs_of_pos ht0]
+        nlinarith
+      obtain ⟨hb1, hb2⟩ := abs_lt.mp hb
+      have hmem : e + t * δ ∈ S := by
+        rw [hS']
+        refine ⟨?_, ?_, ?_⟩
+        · have hsplit : e + t * δ = (1 - t) * e + t * (s * r / (4 * k)) := by rw [hδ]; ring
+          rw [hsplit]
+          apply add_nonneg
+          · exact mul_nonneg (by linarith) he0
+          · exact mul_nonneg ht0.le (by positivity)
+        · nlinarith
+        · nlinarith
+      have hgain := hopt _ hmem
+      rw [hpayS r _ hmem, hpayS r e he] at hgain
+      have hdiff : (1 + s * (e + t * δ) - d) / 2 * r - k * (e + t * δ) ^ 2 - C -
+          ((1 + s * e - d) / 2 * r - k * e ^ 2 - C) = k * t * δ ^ 2 * (2 - t) := by
+        rw [hδ]
+        field_simp
+        ring
+      have h2t : 0 < 2 - t := by linarith
+      have hδ2 : 0 < δ ^ 2 := by positivity
+      have hpos : 0 < k * t * δ ^ 2 * (2 - t) := by positivity
+      linarith
+    refine ⟨he, ?_, by rw [hr]; ring⟩
+    have h4 : 4 * k * e = s * r := by rw [hstat]; field_simp
+    have hr2 : 2 * r = s * e + d + 1 := by rw [hr]; ring
+    rw [eq_div_iff hden.ne']
+    linear_combination 2 * h4 + s * hr2
+  · rintro ⟨he, he1, hr⟩
+    obtain ⟨he0, h1, h2⟩ := (hS' e).mp he
+    refine ⟨he, fun e' he' => ?_, by rw [hm, admittedMean_eq _ _ h1 h2, hr]; ring⟩
+    rw [hpayS r e' he', hpayS r e he]
+    have hkey : s * r = 4 * k * e := by
+      rw [hr]
+      have : e * (8 * k - s ^ 2) = (1 + d) * s := by rw [he1]; field_simp
+      linear_combination (s / 2) * 0 + (-1 / 2) * this
+    have hsq : (1 + s * e - d) / 2 * r - k * e ^ 2 - C -
+        ((1 + s * e' - d) / 2 * r - k * e' ^ 2 - C) = k * (e' - e) ^ 2 := by
+      linear_combination ((e - e') / 2) * hkey
+    have : 0 ≤ k * (e' - e) ^ 2 := by positivity
+    linarith
+
+end ReservationPolicy.Eq11Proof
+
+open ReservationPolicy.Eq11Proof in
+theorem solution (P : Params) (hP : P.Valid) (d : ℝ) :
+    (∀ e r, InvestGroup P e d r ↔
+      e ∈ investEfforts d ∧ e = (1 + d) / (8 * P.k - 1) ∧ r = (1 + d + e) / 2) ∧
+    (∀ e r, PlainGroup P e d r ↔
+      e ∈ plainEfforts P d ∧ e = (1 + d) * P.ϕ / (8 * P.k - P.ϕ ^ 2) ∧
+        r = (1 + d + P.ϕ * e) / 2) := by
+  obtain ⟨hk, hϕ0, hϕ1, -⟩ := hP
+  constructor
+  · intro e r
+    have G := generic P.k 1 d P.κ hk one_pos le_rfl (fun e => e) (fun e => (one_mul e).symm)
+      (fun r e => payoffInvest P d r e) (fun r e => rfl) (investEfforts d) (fun e => Iff.rfl) e r
+    simp only [one_mul, mul_one, one_pow] at G
+    exact G
+  · intro e r
+    have G := generic P.k P.ϕ d 0 hk hϕ0 hϕ1.le (fun e => P.ϕ * e) (fun e => rfl)
+      (fun r e => payoffPlain P d r e) (fun r e => by simp [payoffPlain]) (plainEfforts P d)
+      (fun e => Iff.rfl) e r
+    beta_reduce at G
+    exact G

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_coneUnitHom_mem_torsion_iff
 -- name    : DedekindZeta.coneUnitHom_mem_torsion_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:24:07.944809+00:00
 -- url     : https://prove2.me/theorems/eccd86b2-b843-43cd-886f-2daaae9a499b

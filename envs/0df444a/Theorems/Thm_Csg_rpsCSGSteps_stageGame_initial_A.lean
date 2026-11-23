@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSGSteps_stageGame_initial_A
 -- name    : Csg.rpsCSGSteps_stageGame_initial_A
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:56:51.121827+00:00
 -- url     : https://prove2.me/theorems/d6765979-2b88-4d43-8614-5ca40b68728b

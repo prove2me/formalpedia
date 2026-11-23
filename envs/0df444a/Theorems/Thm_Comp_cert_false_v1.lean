@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_cert_false_v1
 -- name    : Comp.cert_false_v1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:55:59.48942+00:00
 -- url     : https://prove2.me/theorems/0e42b030-afeb-49b7-8db3-853ae1d186c2

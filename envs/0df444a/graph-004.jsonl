@@ -59974,8 +59974,8 @@
 {"parent": "TaoFivePrimes.local_L2_estimate", "child": "TaoFivePrimes.mertens_coprime_split", "via": ["solution"]}
 {"parent": "TaoFivePrimes.major_arc_sums", "child": "TaoFivePrimes_RepresentationCount", "via": ["statement"]}
 {"parent": "TaoFivePrimes.major_arc_sums", "child": "TaoFivePrimes_SmoothedExpSum", "via": ["solution", "statement"]}
-{"parent": "TaoFivePrimes.major_arc_sums_positive_scale", "child": "TaoFivePrimes_RepresentationCount", "via": ["statement"]}
-{"parent": "TaoFivePrimes.major_arc_sums_positive_scale", "child": "TaoFivePrimes_SmoothedExpSum", "via": ["statement"]}
+{"parent": "TaoFivePrimes.major_arc_sums_positive_scale", "child": "TaoFivePrimes_RepresentationCount", "via": ["solution", "statement"]}
+{"parent": "TaoFivePrimes.major_arc_sums_positive_scale", "child": "TaoFivePrimes_SmoothedExpSum", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.mawia_reciprocal_sum_bound", "child": "TaoFivePrimes.mawia_reciprocal_sum_bound_large", "via": ["solution"]}
 {"parent": "TaoFivePrimes.mawia_reciprocal_sum_bound", "child": "TaoFivePrimes.mawia_reciprocal_sum_bound_small", "via": ["solution"]}
 {"parent": "TaoFivePrimes.mawia_reciprocal_sum_bound_large", "child": "TaoFivePrimes.mawia_reciprocal_sum_lower_bound_large", "via": ["solution"]}

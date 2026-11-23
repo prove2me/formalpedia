@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stageB_tauPlus_coe_eq
 -- name    : stageB_tauPlus_coe_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T23:54:32.76645+00:00
 -- url     : https://prove2.me/theorems/3488bc05-f015-4d64-a570-28f0921c1456

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRun_dirac_ne_zero_iff
 -- name    : Comp.HideOrRun.dirac_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:59:38.548952+00:00
 -- url     : https://prove2.me/theorems/7c4d62f5-8a35-48de-ba65-eed21b2d33f5

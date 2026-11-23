@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_norm_radialMap_of_mem
 -- name    : DedekindZeta.ConeRadialReduction.norm_radialMap_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:27:25.265063+00:00
 -- url     : https://prove2.me/theorems/db5639fc-7a1e-408a-a602-77ab9f3f39ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_euler_maruyama_grid_l2_local_error
 -- name    : AppliedSDE.SarkkaSolin.euler_maruyama_grid_l2_local_error
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T00:23:42.776727+00:00
 -- url     : https://prove2.me/theorems/f933f000-ae1e-4550-8018-ba0ad0177bd4

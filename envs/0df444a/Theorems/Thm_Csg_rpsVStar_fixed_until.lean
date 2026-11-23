@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsVStar_fixed_until
 -- name    : Csg.rpsVStar_fixed_until
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:09:41.732945+00:00
 -- url     : https://prove2.me/theorems/d17bfb15-8ee2-4ed1-bc66-d27268211b3c

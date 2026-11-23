@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_answers_limitReach_of_data
 -- name    : Comp.ModelData.answers_limitReach_of_data
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:22.066497+00:00
 -- url     : https://prove2.me/theorems/87ec49da-51ee-4446-8971-b0c5c1bc3fd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_pre1F_eq_pre1C
 -- name    : Comp.pre1F_eq_pre1C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:57:16.270805+00:00
 -- url     : https://prove2.me/theorems/041654c9-bf7c-43a1-b4f0-40f7a500fe62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_ModW_isClosedEmbedding_val
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.ModW.isClosedEmbedding_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:29:07.715694+00:00
 -- url     : https://prove2.me/theorems/af2f6843-2f62-43f2-9fde-6c5772dd563b

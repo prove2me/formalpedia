@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsVStar_le_of_prefixed_until
 -- name    : Csg.rpsVStar_le_of_prefixed_until
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:10:25.792268+00:00
 -- url     : https://prove2.me/theorems/2adef6c4-287f-4c68-a7de-761618683c8d

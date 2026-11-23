@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_stageValue_initial
 -- name    : Csg.rpsCSG_stageValue_initial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:43:13.196366+00:00
 -- url     : https://prove2.me/theorems/34ae5a9f-98bb-4090-a560-d26bba023b68

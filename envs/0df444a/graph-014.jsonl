@@ -95399,9 +95399,9 @@
 {"parent": "CardinalMatching.efpo_ppad_hard", "child": "CardinalMatching_ApproxHZProblem", "via": ["statement"]}
 {"parent": "OrgAnalytics.proposition_6_i", "child": "OrgAnalytics_Model", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P07.smooth_chain_rules", "child": "QAlgorithms_Papers_Independent_Intakenext100_P07", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_11", "child": "ReservationPolicy_Params_Valid", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_11", "child": "ReservationPolicy_InvestGroup", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_11", "child": "ReservationPolicy_PlainGroup", "via": ["statement"]}
+{"parent": "ReservationPolicy.eq_11", "child": "ReservationPolicy_Params_Valid", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_11", "child": "ReservationPolicy_InvestGroup", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_11", "child": "ReservationPolicy_PlainGroup", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsConservative.killedKernel_mono", "child": "MarkovProcess_V3H_Trajectory_Dynkin_eb6ae7c0", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsConservative.killedKernel_mono", "child": "MarkovProcess_V3H_Path_Exhaustion_e03721f1", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsConservative.killedKernel_mono", "child": "MarkovProcess_V3H_Killed_Kernel_adff808d", "via": ["solution", "statement"]}

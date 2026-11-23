@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_afStepF_eq_fun
 -- name    : Comp.ModelData.afStepF_eq_fun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:54:18.802917+00:00
 -- url     : https://prove2.me/theorems/0345ded3-fe56-4604-96e6-7fc66c0a846c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stageB_actual_height_barrier_semigroup
 -- name    : stageB_actual_height_barrier_semigroup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T23:54:32.889101+00:00
 -- url     : https://prove2.me/theorems/2525dc26-7524-4bfe-9269-a2ab9c82bb8f

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for stageB_actual_height_barrier_semigroup
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T00:20:26.313973+00:00
 -- url     : https://prove2.me/submissions/947ee5a8-e39f-4409-b383-dc5d514a38a1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedGaussian_nonneg
 -- name    : DedekindZeta.ConeRadialReduction.mixedGaussian_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:27:11.435477+00:00
 -- url     : https://prove2.me/theorems/e992e436-630a-445c-bec2-83d477d54768

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_surfaceMeasure_apply_compl_normEqOneSurface
 -- name    : DedekindZeta.ConeRadialReduction.surfaceMeasure_apply_compl_normEqOneSurface
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:27:36.213905+00:00
 -- url     : https://prove2.me/theorems/9fdd3e39-0816-4982-b71e-90a7d87b1e3b

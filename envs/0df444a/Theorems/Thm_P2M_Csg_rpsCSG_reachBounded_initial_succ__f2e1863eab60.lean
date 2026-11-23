@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Csg_rpsCSG_reachBounded_initial_succ__f2e1863eab60
 -- name    : P2M_Csg_rpsCSG_reachBounded_initial_succ__f2e1863eab60
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:46:50.937126+00:00
 -- url     : https://prove2.me/theorems/c9ab3e7c-a444-4dbe-aa09-cae9bc698f1b

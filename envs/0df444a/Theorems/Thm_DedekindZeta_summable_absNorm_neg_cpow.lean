@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_summable_absNorm_neg_cpow
 -- name    : DedekindZeta.summable_absNorm_neg_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:24:20.931098+00:00
 -- url     : https://prove2.me/theorems/5d032d21-e3f2-4200-86c6-7eaa3209a614

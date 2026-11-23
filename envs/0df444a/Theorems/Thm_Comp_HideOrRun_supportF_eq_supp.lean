@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRun_supportF_eq_supp
 -- name    : Comp.HideOrRun.supportF_eq_supp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:50:35.168744+00:00
 -- url     : https://prove2.me/theorems/13d0e5b5-8766-436a-9a1c-df104d531079

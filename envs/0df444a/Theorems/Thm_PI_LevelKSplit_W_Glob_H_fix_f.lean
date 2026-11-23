@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Glob_H_fix_f
 -- name    : PI.LevelKSplit.W.Glob.H_fix_f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:29:01.256422+00:00
 -- url     : https://prove2.me/theorems/9338b133-049a-433c-97cc-7d80fc0b46f8

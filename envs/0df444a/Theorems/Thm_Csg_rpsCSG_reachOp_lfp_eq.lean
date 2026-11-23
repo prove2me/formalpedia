@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_reachOp_lfp_eq
 -- name    : Csg.rpsCSG_reachOp_lfp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:53:17.709647+00:00
 -- url     : https://prove2.me/theorems/24fc8f8a-edc2-4c69-b077-193150847828

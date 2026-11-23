@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRSubmodHull_algorithm_1_valid_candidates_exact
 -- name    : DRSubmodHull.algorithm_1_valid_candidates_exact
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:27:54.159148+00:00
 -- url     : https://prove2.me/theorems/d7999be2-7492-47a2-8950-0460e245e3e5

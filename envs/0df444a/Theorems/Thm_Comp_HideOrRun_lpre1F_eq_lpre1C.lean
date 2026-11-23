@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRun_lpre1F_eq_lpre1C
 -- name    : Comp.HideOrRun.lpre1F_eq_lpre1C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:50:21.278804+00:00
 -- url     : https://prove2.me/theorems/c60e73b5-7ff3-4fda-9d1f-2c5abe7e94d9

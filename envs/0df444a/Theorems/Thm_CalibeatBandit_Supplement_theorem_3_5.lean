@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibeatBandit_Supplement_theorem_3_5
 -- name    : CalibeatBandit.Supplement.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T06:31:10.882843+00:00
 -- url     : https://prove2.me/theorems/525b0c5e-9bcf-44a4-8831-f8cbcab15660

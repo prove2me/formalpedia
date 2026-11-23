@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSGSteps_expect_draw
 -- name    : Csg.rpsCSGSteps_expect_draw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:21:08.590386+00:00
 -- url     : https://prove2.me/theorems/ec76ca75-2ba5-4ac9-962b-fee55d4a919f

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AppliedSDE.SarkkaSolin.euler_maruyama_strong_half_order
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-14T00:24:10.102344+00:00
 -- url     : https://prove2.me/submissions/842076a2-d46a-49b6-9ffc-543bb5216d39
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KLSModular_LevyStochCalc_Brownian_Filtered

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAMatchEst_pair_count_lower_tail
 -- name    : NAMatchEst.pair_count_lower_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-23T00:23:49.403873+00:00
 -- url     : https://prove2.me/theorems/2eb10072-8dc0-47fc-bbfc-e1e2ebb1ac19

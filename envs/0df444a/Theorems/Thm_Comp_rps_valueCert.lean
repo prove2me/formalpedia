@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_rps_valueCert
 -- name    : Comp.rps_valueCert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:19:34.63279+00:00
 -- url     : https://prove2.me/theorems/0ef6a664-6d16-44da-a4c2-b25a4ba6c846

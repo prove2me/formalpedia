@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_euler_maruyama_strong_half_order
 -- name    : AppliedSDE.SarkkaSolin.euler_maruyama_strong_half_order
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:50:56.225136+00:00
 -- url     : https://prove2.me/theorems/3261cdf6-e9b9-4d64-9632-5fbb342fd2c2

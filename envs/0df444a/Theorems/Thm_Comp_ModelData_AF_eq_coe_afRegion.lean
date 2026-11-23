@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_AF_eq_coe_afRegion
 -- name    : Comp.ModelData.AF_eq_coe_afRegion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:21:52.340177+00:00
 -- url     : https://prove2.me/theorems/0fedadd0-453f-4a68-849b-2f73aaf992d5

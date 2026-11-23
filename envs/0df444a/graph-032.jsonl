@@ -72752,8 +72752,8 @@
 {"parent": "JonesUnknot.counterexample_100_crossings", "child": "JonesUnknot_genus", "via": ["statement"]}
 {"parent": "DesignTest_Supplement_UNAI", "child": "DesignTest_Supplement_twirlDist", "via": ["statement"]}
 {"parent": "DesignTest_Supplement_UNAI", "child": "DesignTest_Supplement_RandProc", "via": ["statement"]}
-{"parent": "CalibeatBandit.Supplement.theorem_3_5", "child": "CalibeatBandit_Supplement_IsRobust", "via": ["statement"]}
-{"parent": "CalibeatBandit.Supplement.theorem_3_5", "child": "CalibeatBandit_Supplement_robustPolicy", "via": ["statement"]}
+{"parent": "CalibeatBandit.Supplement.theorem_3_5", "child": "CalibeatBandit_Supplement_IsRobust", "via": ["solution", "statement"]}
+{"parent": "CalibeatBandit.Supplement.theorem_3_5", "child": "CalibeatBandit_Supplement_robustPolicy", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.levyProcess_exists_positiveGaussianTargeted", "child": "Kyprianou_Ch01_LevyTripletExponentTargeted", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.levyProcess_exists_positiveGaussianTargeted", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.levyProcess_exists_positiveGaussianTargeted", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}

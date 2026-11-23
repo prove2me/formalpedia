@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_mixedEmbedding_norm_eq_absNorm_span
 -- name    : DedekindZeta.GammaIntegral.mixedEmbedding_norm_eq_absNorm_span
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:25:25.140852+00:00
 -- url     : https://prove2.me/theorems/b7650b4b-136f-418a-9da2-2d3ee73e1b64

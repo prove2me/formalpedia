@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoresTIE197_Main_result_1
 -- name    : ChoresTIE197.Main.result_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T02:20:25.165691+00:00
 -- url     : https://prove2.me/theorems/72de5b41-c188-4a96-ad24-529d802b3c0a

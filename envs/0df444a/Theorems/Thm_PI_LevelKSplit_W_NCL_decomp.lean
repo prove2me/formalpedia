@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCL_decomp
 -- name    : PI.LevelKSplit.W.NCL.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:28:26.056141+00:00
 -- url     : https://prove2.me/theorems/56fb14d0-1b79-4852-a011-c85d012b6ae9

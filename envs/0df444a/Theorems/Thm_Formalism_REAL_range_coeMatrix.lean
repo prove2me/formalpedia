@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_range_coeMatrix
 -- name    : Formalism.REAL.range_coeMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:28:24.148581+00:00
 -- url     : https://prove2.me/theorems/398aeb93-a550-49c4-91e5-c204b910687c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiG_Dat_pX_mem_span
 -- name    : PI.LevelKSplit.W.SemiG.Dat.pX_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:28:52.878226+00:00
 -- url     : https://prove2.me/theorems/29d47893-c0e5-43e9-a7ac-396833b8cd0c

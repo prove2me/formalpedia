@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_supportF_dirac
 -- name    : Comp.supportF_dirac
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:56:44.716484+00:00
 -- url     : https://prove2.me/theorems/9208f4bc-f1b2-4e56-ace7-574f19a39f6c

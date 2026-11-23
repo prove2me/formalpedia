@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_AF_le_of_data_step
 -- name    : Comp.ModelData.AF_le_of_data_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:17:07.74536+00:00
 -- url     : https://prove2.me/theorems/2e41fd6d-5e7c-479a-83b6-03dc49835cb4

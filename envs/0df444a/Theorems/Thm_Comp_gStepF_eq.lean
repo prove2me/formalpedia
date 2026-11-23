@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_gStepF_eq
 -- name    : Comp.gStepF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:41:22.493862+00:00
 -- url     : https://prove2.me/theorems/4253ddb4-62ca-4441-8be5-d351c7edafc1

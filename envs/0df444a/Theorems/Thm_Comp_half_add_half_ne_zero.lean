@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_half_add_half_ne_zero
 -- name    : Comp.half_add_half_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:56:21.68716+00:00
 -- url     : https://prove2.me/theorems/8fd1e84f-9d12-493c-a076-32ad45cc191f

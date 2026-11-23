@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_2_3_one_disk
 -- name    : DelaunayStretch.lemma_2_3_one_disk
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:53:18.306217+00:00
 -- url     : https://prove2.me/theorems/ba7dc14b-64e8-4a07-b0c2-203e91a9f2a5

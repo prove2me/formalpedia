@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_cert_true_star
 -- name    : Comp.cert_true_star
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:54:17.821512+00:00
 -- url     : https://prove2.me/theorems/d2f23c43-d7db-4ca3-a3b9-64428a7302e9

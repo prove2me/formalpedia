@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_reachBounded_draw_two
 -- name    : Csg.rpsCSG_reachBounded_draw_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:19:02.496652+00:00
 -- url     : https://prove2.me/theorems/df51f557-33db-41fa-982f-ef8c00634e0d
