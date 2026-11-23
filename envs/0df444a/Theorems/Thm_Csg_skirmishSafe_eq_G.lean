@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmishSafe_eq_G
 -- name    : Csg.skirmishSafe_eq_G
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:04:14.838418+00:00
 -- url     : https://prove2.me/theorems/49f1104c-755e-466b-b869-ebd99a6e1f94

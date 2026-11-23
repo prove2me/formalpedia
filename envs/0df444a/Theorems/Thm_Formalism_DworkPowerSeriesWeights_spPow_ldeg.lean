@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_spPow_ldeg
 -- name    : Formalism.DworkPowerSeriesWeights.spPow_ldeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:04:42.006415+00:00
 -- url     : https://prove2.me/theorems/da1c15a5-7c78-45cf-b18c-c3fb1b1492f4

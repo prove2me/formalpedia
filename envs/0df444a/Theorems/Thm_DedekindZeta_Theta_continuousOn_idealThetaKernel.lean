@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_continuousOn_idealThetaKernel
 -- name    : DedekindZeta.Theta.continuousOn_idealThetaKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:54:16.853256+00:00
 -- url     : https://prove2.me/theorems/73d4ea80-5436-4af6-adb7-e8e452954da4

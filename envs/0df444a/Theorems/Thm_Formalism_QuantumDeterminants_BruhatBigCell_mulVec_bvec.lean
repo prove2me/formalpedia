@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_BruhatBigCell_mulVec_bvec
 -- name    : Formalism.QuantumDeterminants.BruhatBigCell.mulVec_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:09:47.253346+00:00
 -- url     : https://prove2.me/theorems/24179c5f-b2bc-4b98-9790-072d2cd46712

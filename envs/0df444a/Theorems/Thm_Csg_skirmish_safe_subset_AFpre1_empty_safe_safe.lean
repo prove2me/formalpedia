@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_safe_subset_AFpre1_empty_safe_safe
 -- name    : Csg.skirmish_safe_subset_AFpre1_empty_safe_safe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:20:32.301674+00:00
 -- url     : https://prove2.me/theorems/84b0bfd7-101b-40ed-9367-88d5b7484a3b

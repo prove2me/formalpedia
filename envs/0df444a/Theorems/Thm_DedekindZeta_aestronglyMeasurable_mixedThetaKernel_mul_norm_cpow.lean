@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_aestronglyMeasurable_mixedThetaKernel_mul_norm_cpow
 -- name    : DedekindZeta.aestronglyMeasurable_mixedThetaKernel_mul_norm_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:43:26.318696+00:00
 -- url     : https://prove2.me/theorems/9c049d9d-dd83-46db-90cf-b642ec0e31f0

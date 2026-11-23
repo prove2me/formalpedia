@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mdp_DiscountedMDP_contractingWith_bellman
 -- name    : Mdp.DiscountedMDP.contractingWith_bellman
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:40:23.134939+00:00
 -- url     : https://prove2.me/theorems/35c331f3-9719-4122-b9c7-c462a1129d4f

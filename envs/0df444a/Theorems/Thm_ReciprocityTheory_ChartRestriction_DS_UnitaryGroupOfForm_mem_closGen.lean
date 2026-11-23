@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_UnitaryGroupOfForm_mem_closGen
 -- name    : ReciprocityTheory.ChartRestriction.DS.UnitaryGroupOfForm.mem_closGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:08:42.076499+00:00
 -- url     : https://prove2.me/theorems/ca1197d9-ec80-4c74-8933-375d69e695d2

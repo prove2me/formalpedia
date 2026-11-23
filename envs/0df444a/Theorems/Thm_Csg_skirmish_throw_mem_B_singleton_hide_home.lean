@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_throw_mem_B_singleton_hide_home
 -- name    : Csg.skirmish_throw_mem_B_singleton_hide_home
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:18:00.061121+00:00
 -- url     : https://prove2.me/theorems/c93958eb-86e2-48ed-a07d-45c1a0b288b8

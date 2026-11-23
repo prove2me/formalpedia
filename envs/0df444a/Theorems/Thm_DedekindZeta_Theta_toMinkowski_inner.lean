@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_toMinkowski_inner
 -- name    : DedekindZeta.Theta.toMinkowski_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:17:05.44682+00:00
 -- url     : https://prove2.me/theorems/8ba9ad11-9a53-45bb-93e2-d69bf8f42a58

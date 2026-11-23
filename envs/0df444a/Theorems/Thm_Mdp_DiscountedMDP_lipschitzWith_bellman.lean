@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mdp_DiscountedMDP_lipschitzWith_bellman
 -- name    : Mdp.DiscountedMDP.lipschitzWith_bellman
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:30:48.574094+00:00
 -- url     : https://prove2.me/theorems/f6c63930-fdde-4539-99d1-7fb8d5918db9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mdp_DiscountedMDP_abs_expect_sub_le
 -- name    : Mdp.DiscountedMDP.abs_expect_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:02:41.174807+00:00
 -- url     : https://prove2.me/theorems/21e9f837-fc9c-47cd-9991-b75a752162e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_tsum_eq_tsum_fourier
 -- name    : DedekindZeta.PoissonSummation.tsum_eq_tsum_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:10:07.601352+00:00
 -- url     : https://prove2.me/theorems/b66318ac-615e-44c8-b6f0-4b85ea123465

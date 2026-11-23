@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LpSubspaceCoreset_SmallP_lemma_A_6
 -- name    : LpSubspaceCoreset.SmallP.lemma_A_6
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T01:46:35.323201+00:00
 -- url     : https://prove2.me/theorems/0dc5cdd5-f432-4fd7-801d-12df35ef79d1

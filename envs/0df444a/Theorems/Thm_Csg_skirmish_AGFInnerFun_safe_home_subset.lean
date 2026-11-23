@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_AGFInnerFun_safe_home_subset
 -- name    : Csg.skirmish_AGFInnerFun_safe_home_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:26:02.594342+00:00
 -- url     : https://prove2.me/theorems/410d31ae-2b44-4bfb-be9b-0c128d8eb65e

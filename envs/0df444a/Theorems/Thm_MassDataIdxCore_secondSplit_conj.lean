@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_secondSplit_conj
 -- name    : MassDataIdxCore.secondSplit_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:06:42.665797+00:00
 -- url     : https://prove2.me/theorems/46da0b9a-d780-4a13-b55a-9ead22f8616f

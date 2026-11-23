@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_traceForm_sub_left
 -- name    : DedekindZeta.Theta.traceForm_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:13:11.196203+00:00
 -- url     : https://prove2.me/theorems/aee1f072-f880-4aee-9573-9657dad5d7c7

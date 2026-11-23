@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_castIcc_zero
 -- name    : Comp.CsgQ.castIcc_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:27:09.916058+00:00
 -- url     : https://prove2.me/theorems/0412a767-e2ea-4dd0-865b-b3ae09dce7bd

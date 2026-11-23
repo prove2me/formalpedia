@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_aestronglyMeasurable_mixedGaussian_mul_norm_cpow
 -- name    : DedekindZeta.GammaIntegral.aestronglyMeasurable_mixedGaussian_mul_norm_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:18.725798+00:00
 -- url     : https://prove2.me/theorems/bf01e5e2-87a3-4111-9885-d62e7eb77f02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_DiscountedCSG_shapley_apriori_bound
 -- name    : Csg.DiscountedCSG.shapley_apriori_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:03:09.005199+00:00
 -- url     : https://prove2.me/theorems/dfd850d5-b4d2-494a-ae8c-3ee46ab8e3d1

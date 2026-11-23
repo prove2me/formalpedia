@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_traceForm_mixedEmbedding_int_iff_mem_dualIdeal
 -- name    : DedekindZeta.Theta.traceForm_mixedEmbedding_int_iff_mem_dualIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:11:08.600123+00:00
 -- url     : https://prove2.me/theorems/c6644ecd-fda7-4fb4-af8b-e2a4c1c34f03

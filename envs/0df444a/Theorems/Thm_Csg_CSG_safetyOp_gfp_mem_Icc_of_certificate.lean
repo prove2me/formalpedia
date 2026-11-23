@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_safetyOp_gfp_mem_Icc_of_certificate
 -- name    : Csg.CSG.safetyOp_gfp_mem_Icc_of_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:26:53.888674+00:00
 -- url     : https://prove2.me/theorems/7326cec3-ef19-4e68-abeb-d589ab51e72c

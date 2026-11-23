@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_A_safe_hide_eq_singleton_hide
 -- name    : Csg.skirmish_A_safe_hide_eq_singleton_hide
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:00:22.48446+00:00
 -- url     : https://prove2.me/theorems/20653402-7b67-44ee-98d9-45d1d257e2a5

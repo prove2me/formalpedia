@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DensGen_eq_zero_of_setIntegral
 -- name    : PI.VolStabW.DensGen.eq_zero_of_setIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:07:07.660043+00:00
 -- url     : https://prove2.me/theorems/1b3f0d05-0343-4d81-97f3-4ab95983b5e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxRules_scG_lat
 -- name    : Formalism.EigenvalueLevelCeiling.idxRules_scG_lat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:53:22.725143+00:00
 -- url     : https://prove2.me/theorems/5badeb8d-af34-442e-8694-16d7a2990e51

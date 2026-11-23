@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_scaleMixed_symm_apply
 -- name    : DedekindZeta.Theta.scaleMixed_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:19:23.677793+00:00
 -- url     : https://prove2.me/theorems/026fd9f9-1bed-4ada-9212-a65bc0c6d878

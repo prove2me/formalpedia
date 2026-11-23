@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_fourier_gaussV
 -- name    : DedekindZeta.Theta.fourier_gaussV
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:17:01.507992+00:00
 -- url     : https://prove2.me/theorems/fc6ec957-d0dd-406a-ad85-6033d4d5ca2a

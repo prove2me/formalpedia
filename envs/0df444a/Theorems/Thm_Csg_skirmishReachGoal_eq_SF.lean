@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmishReachGoal_eq_SF
 -- name    : Csg.skirmishReachGoal_eq_SF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:17:06.361843+00:00
 -- url     : https://prove2.me/theorems/0278ed0b-5d95-4b3a-aa9d-ea48d55c87ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_summable_of_bounded_fiber
 -- name    : DedekindZeta.summable_of_bounded_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:45:35.653808+00:00
 -- url     : https://prove2.me/theorems/d39aa904-8048-4180-9545-6fcbecc9ace9

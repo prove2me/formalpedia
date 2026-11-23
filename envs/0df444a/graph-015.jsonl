@@ -1144,12 +1144,12 @@
 {"parent": "OAI.NuclearUltrapower.SOS.row_partition_93", "child": "OAIQ019N049", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_partition_93", "child": "OAIQ019N043", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P10.proposition11", "child": "QAlgorithms_Papers_Independent_Intake100_P10", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_Params_dY", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_IsPolicyEq", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_welfare", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_Params_Valid", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_IsInvestCandidate", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_Params_dX", "via": ["statement"]}
+{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_Params_dY", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_IsPolicyEq", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_welfare", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_Params_Valid", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_IsInvestCandidate", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_55", "child": "ReservationPolicy_Params_dX", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P20.actionsInTop", "child": "QAlgorithms_Papers_Independent_Intake100_P20", "via": ["solution", "statement"]}
 {"parent": "PCLAssort.theorem_4_pipage_rounding", "child": "PCLAssort_PipageRun", "via": ["statement"]}
 {"parent": "PCLAssort.theorem_4_pipage_rounding", "child": "PCLAssort_EpsConvex", "via": ["statement"]}
@@ -1455,10 +1455,10 @@
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.operatorFinite_zero", "child": "MarkovProcess_V3H_Kernel_OperatorSemigroup_081c0d2f", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.operatorFinite_zero", "child": "MarkovProcess_V3H_Kernel_Operator_8b41d3bf", "via": ["solution", "statement"]}
 {"parent": "SPQPoly_SigmaSPQle", "child": "SPQPoly_IsSPQ", "via": ["statement"]}
-{"parent": "FastCore.inCore_iff", "child": "FastCore_IsBidProfile", "via": ["statement"]}
-{"parent": "FastCore.inCore_iff", "child": "FastCore_InCore", "via": ["statement"]}
-{"parent": "FastCore.inCore_iff", "child": "FastCore_w", "via": ["statement"]}
-{"parent": "FastCore.inCore_iff", "child": "FastCore_trunc", "via": ["statement"]}
+{"parent": "FastCore.inCore_iff", "child": "FastCore_IsBidProfile", "via": ["solution", "statement"]}
+{"parent": "FastCore.inCore_iff", "child": "FastCore_InCore", "via": ["solution", "statement"]}
+{"parent": "FastCore.inCore_iff", "child": "FastCore_w", "via": ["solution", "statement"]}
+{"parent": "FastCore.inCore_iff", "child": "FastCore_trunc", "via": ["solution", "statement"]}
 {"parent": "CombOpt.Circulation.proposition_3_3", "child": "CombOpt_Circulation_IsFlow", "via": ["solution", "statement"]}
 {"parent": "CombOpt.Circulation.proposition_3_3", "child": "CombOpt_Circulation_excess", "via": ["solution", "statement"]}
 {"parent": "CombOpt.Circulation.proposition_3_3", "child": "CombOpt_Circulation_delta", "via": ["solution", "statement"]}
@@ -7144,11 +7144,11 @@
 {"parent": "FoundationsRL.TabularRL.ucbvi_regret_bound", "child": "FoundationsRL_TabularRL_IsUCBVI", "via": ["solution", "statement"]}
 {"parent": "FoundationsRL.TabularRL.ucbvi_regret_bound", "child": "FoundationsRL_RLBasics_Core", "via": ["solution", "statement"]}
 {"parent": "FoundationsRL.TabularRL.ucbvi_regret_bound", "child": "FoundationsRL_RLBasics_UCBVI_v2", "via": ["solution", "statement"]}
-{"parent": "ReservationPolicy.eq_56", "child": "ReservationPolicy_IsPolicyEq", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_56", "child": "ReservationPolicy_welfare", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_56", "child": "ReservationPolicy_Params_Valid", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_56", "child": "ReservationPolicy_IsInvestCandidate", "via": ["statement"]}
-{"parent": "ReservationPolicy.eq_56", "child": "ReservationPolicy_Params_sVertex", "via": ["statement"]}
+{"parent": "ReservationPolicy.eq_56", "child": "ReservationPolicy_IsPolicyEq", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_56", "child": "ReservationPolicy_welfare", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_56", "child": "ReservationPolicy_Params_Valid", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_56", "child": "ReservationPolicy_IsInvestCandidate", "via": ["solution", "statement"]}
+{"parent": "ReservationPolicy.eq_56", "child": "ReservationPolicy_Params_sVertex", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SL3Certificate.gram_row_71", "child": "OAIQ019N041", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P67.spinBlocks_compressedMoments", "child": "QAlgorithms_Papers_Independent_Intake100_P67", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Intake100_P83", "child": "QAlgorithms_Defs_Gates", "via": ["statement"]}

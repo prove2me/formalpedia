@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Mdp_abs_sup__sub_sup__le_dbc2ecd51cdd
 -- name    : P2M_Mdp_abs_sup__sub_sup__le_dbc2ecd51cdd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:30:11.242726+00:00
 -- url     : https://prove2.me/theorems/27ac44be-dfa0-4fca-a50b-9547512618fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_tsum_cone_lintegral_enorm_eq_mul_tsum_orbit
 -- name    : DedekindZeta.tsum_cone_lintegral_enorm_eq_mul_tsum_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:45:34.787745+00:00
 -- url     : https://prove2.me/theorems/99365451-a7b5-4d51-b2ea-5c7fbdd5fcdd

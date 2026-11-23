@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x5_map_le_of_int
+-- name    : Formalism.FourierDecayAlt.P.A5x5.map_le_of_int
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T01:26:44.984387+00:00
+-- url     : https://prove2.me/theorems/39eb4bc3-7e02-4c70-9638-0f8827bbbc54
+-- title:
+--   A5x5: map le of int
+-- statement:
+--   The A5x5 construction uses the map le of int property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/KernelNonzeroModulusDeterminantEq.lean#L198-L205
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/KernelNonzeroModulusDeterminantEq.lean#L198-L205
+
+import Definitions.Def_Formalism_HermitianCurvature_BlockKernelPropertiesOfSteps
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_LowUniMulVecELast
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_MulInvBlockDiagApplySameBlock
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_KernelNonzeroModulusDeterminantEq
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix Formalism.DoubleCosetMeasures Formalism.FourierDecayAlt.A5
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.A5x5
+variable {K : Type} [CommRing K] {ι κ : Type} [Fintype ι] [DecidableEq ι] [Fintype κ]
+  [DecidableEq κ] {R : Subring K}
+
+theorem Formalism.FourierDecayAlt.P.A5x5.map_le_of_int {M : Matrix ι ι K} (hM : ∀ i j, M i j ∈ R) :
+    (LL R ι).map (mv M) ≤ LL R ι := by sorry

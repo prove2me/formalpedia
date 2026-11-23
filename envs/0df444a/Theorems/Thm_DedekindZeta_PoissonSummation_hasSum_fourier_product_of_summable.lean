@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_hasSum_fourier_product_of_summable
 -- name    : DedekindZeta.PoissonSummation.hasSum_fourier_product_of_summable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:06:41.791799+00:00
 -- url     : https://prove2.me/theorems/3b7068f6-3096-4c10-bdad-c617eb36bae8

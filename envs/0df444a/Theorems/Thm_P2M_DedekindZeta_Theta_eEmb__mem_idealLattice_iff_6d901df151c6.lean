@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_DedekindZeta_Theta_eEmb__mem_idealLattice_iff_6d901df151c6
 -- name    : P2M_DedekindZeta_Theta_eEmb__mem_idealLattice_iff_6d901df151c6
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:11:26.778863+00:00
 -- url     : https://prove2.me/theorems/024118da-d240-410a-a5a2-fe0b3c9837e1

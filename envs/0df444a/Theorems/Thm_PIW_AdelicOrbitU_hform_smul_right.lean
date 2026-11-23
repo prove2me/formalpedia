@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_hform_smul_right
 -- name    : PIW.AdelicOrbitU.hform_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:07:50.64101+00:00
 -- url     : https://prove2.me/theorems/b52e5f46-f2c3-4d0e-b28a-7a022cc44e66

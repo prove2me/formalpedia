@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_DiscountedCsgQ_shapley_eq_of_find
 -- name    : Comp.DiscountedCsgQ.shapley_eq_of_find
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:46:10.228337+00:00
 -- url     : https://prove2.me/theorems/7dedb5e2-cfda-4a5b-abc3-9890a6e54fec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_norm_toMinkowski_sq
 -- name    : DedekindZeta.Theta.norm_toMinkowski_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:13:25.490541+00:00
 -- url     : https://prove2.me/theorems/d3e0f0ef-165b-42a0-b248-e4c7a475fe7e

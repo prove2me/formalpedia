@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_traceForm_eq_zero_of_forall_integralBasis
 -- name    : DedekindZeta.Theta.traceForm_eq_zero_of_forall_integralBasis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:13:42.125336+00:00
 -- url     : https://prove2.me/theorems/fb2766bb-faaa-4c9c-9ce7-f1bc871edf40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_continuousOn_mixedThetaKernel
 -- name    : DedekindZeta.Theta.continuousOn_mixedThetaKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:52:05.545243+00:00
 -- url     : https://prove2.me/theorems/a5ddd810-ca12-4789-8016-3c4c10cc81a2

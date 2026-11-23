@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_fourier_mixedGaussian_scaling
 -- name    : DedekindZeta.Theta.fourier_mixedGaussian_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:21:11.807842+00:00
 -- url     : https://prove2.me/theorems/273e05a9-9c10-4e52-8415-c702889db0cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_reachOp_coe_of_valueCert
 -- name    : Comp.CsgQ.reachOp_coe_of_valueCert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:27:34.419821+00:00
 -- url     : https://prove2.me/theorems/4349ec26-f842-4d9b-a582-88a57b184604

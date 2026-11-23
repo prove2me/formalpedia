@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_sum_embeddings_mul
 -- name    : DedekindZeta.Theta.sum_embeddings_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:11:07.620997+00:00
 -- url     : https://prove2.me/theorems/8052b1d3-201a-45a2-91bf-95c6ab338081

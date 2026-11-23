@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_wet_not_mem_Pre1
 -- name    : Csg.skirmish_wet_not_mem_Pre1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:24:21.154134+00:00
 -- url     : https://prove2.me/theorems/f7d2bfc0-500d-459b-bbe1-258cdd95da23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_hasSum_periodisation_fourier
 -- name    : DedekindZeta.PoissonSummation.hasSum_periodisation_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:08:05.849647+00:00
 -- url     : https://prove2.me/theorems/575f2f0b-fad2-48cc-b67e-3e175e290298

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedGaussian_surface_majorant
 -- name    : DedekindZeta.ConeRadialReduction.mixedGaussian_surface_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:39:13.969802+00:00
 -- url     : https://prove2.me/theorems/d462fa50-2139-4552-b66f-a8176c5ff8a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_DiscountedCsgQ_toDiscountedCSG_l
 -- name    : Comp.DiscountedCsgQ.toDiscountedCSG_l
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:40:46.511366+00:00
 -- url     : https://prove2.me/theorems/a24e9d38-4fba-4264-b8c6-d31cabac692f

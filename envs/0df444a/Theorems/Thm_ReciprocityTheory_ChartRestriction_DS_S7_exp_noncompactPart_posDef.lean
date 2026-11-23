@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_exp_noncompactPart_posDef
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.exp_noncompactPart_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:08:15.217807+00:00
 -- url     : https://prove2.me/theorems/174ee8d7-5740-405c-9fa0-3f3cbf975a89

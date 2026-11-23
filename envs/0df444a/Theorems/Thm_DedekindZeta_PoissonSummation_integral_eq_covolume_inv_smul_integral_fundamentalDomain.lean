@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_integral_eq_covolume_inv_smul_integral_fundamentalDomain
 -- name    : DedekindZeta.PoissonSummation.integral_eq_covolume_inv_smul_integral_fundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:07:26.857806+00:00
 -- url     : https://prove2.me/theorems/af6e4a67-6952-4c73-90a7-2d18a496d608

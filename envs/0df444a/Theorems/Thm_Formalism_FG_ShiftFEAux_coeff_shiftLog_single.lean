@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_ShiftFEAux_coeff_shiftLog_single
 -- name    : Formalism.FG.ShiftFEAux.coeff_shiftLog_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:13:10.571361+00:00
 -- url     : https://prove2.me/theorems/33d8e8fc-48ff-4273-ab19-63be436f8650

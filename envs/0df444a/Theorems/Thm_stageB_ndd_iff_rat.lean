@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stageB_ndd_iff_rat
 -- name    : stageB_ndd_iff_rat
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T00:50:19.306406+00:00
 -- url     : https://prove2.me/theorems/3490a7e9-2eff-4f04-bd90-bb301a416299

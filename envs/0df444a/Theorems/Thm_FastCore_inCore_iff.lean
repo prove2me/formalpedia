@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCore_inCore_iff
 -- name    : FastCore.inCore_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:31:32.812315+00:00
 -- url     : https://prove2.me/theorems/ad06a3d8-e7cd-47ab-8692-5758a1a558a9

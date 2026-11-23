@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmishReachGoal_pre1_empty
 -- name    : Csg.skirmishReachGoal_pre1_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:04:57.003136+00:00
 -- url     : https://prove2.me/theorems/9ce39a1a-413e-43a9-9fde-ed493167d507

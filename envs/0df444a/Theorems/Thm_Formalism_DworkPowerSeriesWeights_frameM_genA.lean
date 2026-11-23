@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_frameM_genA
 -- name    : Formalism.DworkPowerSeriesWeights.frameM_genA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:00:23.822058+00:00
 -- url     : https://prove2.me/theorems/e136fe56-0468-4e3f-bce6-4f60df82dd2e

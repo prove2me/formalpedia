@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_enabled2_nonempty
 -- name    : Comp.ModelData.enabled2_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:10:25.980053+00:00
 -- url     : https://prove2.me/theorems/cd5f424b-1c09-4e36-b100-2d4651d97c07

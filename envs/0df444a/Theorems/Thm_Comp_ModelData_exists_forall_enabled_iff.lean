@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_exists_forall_enabled_iff
 -- name    : Comp.ModelData.exists_forall_enabled_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:23:45.716718+00:00
 -- url     : https://prove2.me/theorems/c82898c4-f484-4698-8f57-68ff96baa579

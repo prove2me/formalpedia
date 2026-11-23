@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_dualLattice_idealLattice
 -- name    : DedekindZeta.Theta.dualLattice_idealLattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:13:23.500645+00:00
 -- url     : https://prove2.me/theorems/a08eb033-0620-4aac-bb11-cdb440a7d66a

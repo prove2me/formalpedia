@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_DiscountedCSG_exists_unique_fixedPoint_choose_eq_vOpt
 -- name    : Csg.DiscountedCSG.exists_unique_fixedPoint_choose_eq_vOpt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:32:47.576234+00:00
 -- url     : https://prove2.me/theorems/b3d2e871-d0bf-4fb2-9766-9345885888a1

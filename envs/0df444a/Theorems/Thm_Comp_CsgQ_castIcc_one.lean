@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_castIcc_one
 -- name    : Comp.CsgQ.castIcc_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:27:13.097502+00:00
 -- url     : https://prove2.me/theorems/08772bf0-5298-4063-ad3c-88a7e5a2128c

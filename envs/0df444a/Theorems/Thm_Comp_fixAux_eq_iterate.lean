@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_fixAux_eq_iterate
 -- name    : Comp.fixAux_eq_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:46:27.764039+00:00
 -- url     : https://prove2.me/theorems/34eae8df-b34f-403e-97eb-a6a8b12b4c4c

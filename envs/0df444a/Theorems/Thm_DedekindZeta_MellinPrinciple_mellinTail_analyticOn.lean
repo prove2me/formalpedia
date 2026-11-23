@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_MellinPrinciple_mellinTail_analyticOn
 -- name    : DedekindZeta.MellinPrinciple.mellinTail_analyticOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:08.954445+00:00
 -- url     : https://prove2.me/theorems/8e735872-b6ec-48ea-864c-e66f90999f52

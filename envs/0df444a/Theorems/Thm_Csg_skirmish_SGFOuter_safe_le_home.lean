@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_SGFOuter_safe_le_home
 -- name    : Csg.skirmish_SGFOuter_safe_le_home
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:25:35.049133+00:00
 -- url     : https://prove2.me/theorems/67a65865-b556-4aa8-8c26-a487dd0874bc

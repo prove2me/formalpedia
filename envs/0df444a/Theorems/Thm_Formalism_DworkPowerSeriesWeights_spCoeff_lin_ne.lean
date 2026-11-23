@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_spCoeff_lin_ne
 -- name    : Formalism.DworkPowerSeriesWeights.spCoeff_lin_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:04:37.438232+00:00
 -- url     : https://prove2.me/theorems/7246682b-1fbe-4796-ab02-4cc0623bf730

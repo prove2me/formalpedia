@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_Shape_functional
 -- name    : Comp.ModelData.Shape.functional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:10:02.459093+00:00
 -- url     : https://prove2.me/theorems/3bd20905-8906-408e-98a5-0cccf94de8fd

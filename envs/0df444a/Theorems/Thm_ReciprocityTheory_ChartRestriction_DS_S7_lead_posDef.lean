@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_lead_posDef
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.lead_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:08:31.598056+00:00
 -- url     : https://prove2.me/theorems/1c45b6c2-f4e6-4b14-8780-bf64de8d6f39

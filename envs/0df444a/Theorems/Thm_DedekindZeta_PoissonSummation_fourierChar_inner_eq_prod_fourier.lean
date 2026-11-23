@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_fourierChar_inner_eq_prod_fourier
 -- name    : DedekindZeta.PoissonSummation.fourierChar_inner_eq_prod_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:05:37.129693+00:00
 -- url     : https://prove2.me/theorems/c863f07c-7a05-4cbf-9702-3bc97224770e

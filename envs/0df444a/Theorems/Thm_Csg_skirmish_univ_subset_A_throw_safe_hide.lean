@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_univ_subset_A_throw_safe_hide
 -- name    : Csg.skirmish_univ_subset_A_throw_safe_hide
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:18:04.162563+00:00
 -- url     : https://prove2.me/theorems/63d8c298-3aff-4364-9e45-2a79d1e555ec

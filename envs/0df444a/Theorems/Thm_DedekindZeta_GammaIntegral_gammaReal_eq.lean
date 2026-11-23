@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_gammaReal_eq
 -- name    : DedekindZeta.GammaIntegral.gammaReal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:13.192946+00:00
 -- url     : https://prove2.me/theorems/d289d79c-38d1-4708-bbc3-d07f87cbbb9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_dedekindZeta_eq_tsum_absNorm
 -- name    : DedekindZeta.dedekindZeta_eq_tsum_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:43:00.64098+00:00
 -- url     : https://prove2.me/theorems/9d6ac125-d20a-465c-a8d6-574f8e7039ff

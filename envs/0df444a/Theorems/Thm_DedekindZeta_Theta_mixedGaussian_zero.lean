@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_mixedGaussian_zero
 -- name    : DedekindZeta.Theta.mixedGaussian_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:21:24.921724+00:00
 -- url     : https://prove2.me/theorems/f51f9699-0d30-469f-b8e3-6d11c6aeaafb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_covolume_idealLattice
 -- name    : DedekindZeta.Theta.covolume_idealLattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:19:52.594601+00:00
 -- url     : https://prove2.me/theorems/082a28f6-6adf-4b4a-aa81-171fb3b9974e

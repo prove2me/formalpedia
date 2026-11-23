@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_lfp_le_of_step
 -- name    : Comp.CsgQ.lfp_le_of_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:28:08.346028+00:00
 -- url     : https://prove2.me/theorems/7fd7c315-8f6e-4207-a07d-108018209051

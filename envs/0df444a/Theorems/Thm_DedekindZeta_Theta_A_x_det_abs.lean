@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_A_x_det_abs
 -- name    : DedekindZeta.Theta.A_x_det_abs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:17:06.800519+00:00
 -- url     : https://prove2.me/theorems/3a5228f8-d56f-4560-8841-d7c94e463a81

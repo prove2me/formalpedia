@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_traceForm_natCast_mul
 -- name    : DedekindZeta.Theta.traceForm_natCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:13:08.773842+00:00
 -- url     : https://prove2.me/theorems/bc13b1fa-9c07-4e6c-a992-dac16c416977

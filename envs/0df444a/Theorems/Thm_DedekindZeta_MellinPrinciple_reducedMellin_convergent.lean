@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_MellinPrinciple_reducedMellin_convergent
 -- name    : DedekindZeta.MellinPrinciple.reducedMellin_convergent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:47:22.6231+00:00
 -- url     : https://prove2.me/theorems/582ef04e-37cc-4471-b9a4-b4f34f1fd8c0

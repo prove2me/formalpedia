@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_map_toMinkowski_symm_volume
 -- name    : DedekindZeta.Theta.map_toMinkowski_symm_volume
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:19:42.500079+00:00
 -- url     : https://prove2.me/theorems/4a69eede-1c32-469f-a704-c712b913aeb7

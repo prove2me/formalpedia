@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_tsum_unit_lintegral_enorm_cone_eq_lintegral_whole
 -- name    : DedekindZeta.tsum_unit_lintegral_enorm_cone_eq_lintegral_whole
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:45:37.778989+00:00
 -- url     : https://prove2.me/theorems/3d519cf5-f4dc-4d3e-bf61-39c3c38522b6

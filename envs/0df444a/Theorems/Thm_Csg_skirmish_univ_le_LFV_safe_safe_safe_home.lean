@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_univ_le_LFV_safe_safe_safe_home
 -- name    : Csg.skirmish_univ_le_LFV_safe_safe_safe_home
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:23:42.555168+00:00
 -- url     : https://prove2.me/theorems/48c68924-cb04-49b0-9675-20c8edf28aa2

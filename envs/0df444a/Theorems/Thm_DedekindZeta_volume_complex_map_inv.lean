@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_volume_complex_map_inv
 -- name    : DedekindZeta.volume_complex_map_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:44.150117+00:00
 -- url     : https://prove2.me/theorems/75d3d420-7e99-414a-ae10-7c8eccb89121

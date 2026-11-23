@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChebyshevExtremalPolynomials_lead_complex
+-- name    : Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.lead_complex
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T01:29:57.205071+00:00
+-- url     : https://prove2.me/theorems/a404950a-581d-49cd-a382-0127c8e2183c
+-- title:
+--   Chebyshev Extremal Polynomials: lead complex
+-- statement:
+--   The Chebyshev Extremal Polynomials construction uses the lead complex property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/ChebyshevExtremalPolynomials.lean#L210-L228
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/ChebyshevExtremalPolynomials.lean#L210-L228
+
+import Definitions.Def_Formalism_HermitianCurvature_LevelRecursionCondNeeded
+import Definitions.Def_Formalism_LatticeRigidity_HeightMinimum_ChebyshevLeadingCoeffHolds
+import Mathlib
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ChebyshevExtremalPolynomials
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials
+open Finset Polynomial Formalism.FourierDecayAlt.F7
+
+theorem Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.lead_complex {V : Type} [AddCommGroup V] [Module ℂ V] {d : ℕ} (y : Fin (d + 1) → ℝ)
+    (hy : Function.Injective y) (a : Fin (d + 1) → V) :
+    a (Fin.last d) = ∑ j, ((lagCo y j : ℝ) : ℂ) • ∑ k : Fin (d + 1), ((y j : ℂ) ^ (k : ℕ)) • a k := by sorry

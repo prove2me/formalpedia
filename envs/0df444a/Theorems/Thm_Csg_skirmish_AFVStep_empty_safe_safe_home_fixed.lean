@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_AFVStep_empty_safe_safe_home_fixed
 -- name    : Csg.skirmish_AFVStep_empty_safe_safe_home_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:19:40.725708+00:00
 -- url     : https://prove2.me/theorems/1ee1f668-e330-4d2b-91d5-2c13ec8c3e6c

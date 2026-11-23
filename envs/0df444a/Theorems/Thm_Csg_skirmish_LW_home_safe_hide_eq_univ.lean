@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_LW_home_safe_hide_eq_univ
 -- name    : Csg.skirmish_LW_home_safe_hide_eq_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:18:05.054493+00:00
 -- url     : https://prove2.me/theorems/2872200f-9547-4cb5-95ce-71b5a24e5fd4

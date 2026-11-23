@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_inP_conj
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.inP_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:07:34.717589+00:00
 -- url     : https://prove2.me/theorems/3476ec71-2734-48c1-99f5-0f565125381b

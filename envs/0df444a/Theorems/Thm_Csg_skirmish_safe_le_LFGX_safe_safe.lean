@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_safe_le_LFGX_safe_safe
 -- name    : Csg.skirmish_safe_le_LFGX_safe_safe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:24:16.292637+00:00
 -- url     : https://prove2.me/theorems/f71eaf44-f69c-4720-ab4e-0f2769c86b43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_casimirK_inner_symm
 -- name    : ReciprocityTheory.ChartRestriction.DS.casimirK_inner_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:09:40.435202+00:00
 -- url     : https://prove2.me/theorems/ab0bf9a9-04be-4871-8bd5-4a4844c32bc3

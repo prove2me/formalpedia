@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_mixedEmbedding_norm_eq_absNorm_span_local
 -- name    : DedekindZeta.mixedEmbedding_norm_eq_absNorm_span_local
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:45:40.324808+00:00
 -- url     : https://prove2.me/theorems/d2d1be8b-43d9-4854-850c-07cc673f7d64

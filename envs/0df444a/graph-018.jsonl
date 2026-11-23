@@ -52643,10 +52643,10 @@
 {"parent": "Groundwork.DecodeK.eq_of_slots", "child": "StepMachines_Math_Formula", "via": ["solution", "statement"]}
 {"parent": "Groundwork.DecodeK.eq_of_slots", "child": "Sat3.eq_of_slots", "via": ["statement"]}
 {"parent": "Groundwork.DecodeK.eq_of_slots", "child": "StepMachines_Prog_Decode", "via": ["solution", "statement"]}
-{"parent": "OverlapRouting.corollary_1", "child": "OverlapRouting_ZAO", "via": ["statement"]}
-{"parent": "OverlapRouting.corollary_1", "child": "OverlapRouting_vrpOpt", "via": ["statement"]}
-{"parent": "OverlapRouting.corollary_1", "child": "OverlapRouting_costAO", "via": ["statement"]}
-{"parent": "OverlapRouting.corollary_1", "child": "OverlapRouting_DemandLaw", "via": ["statement"]}
+{"parent": "OverlapRouting.corollary_1", "child": "OverlapRouting_ZAO", "via": ["solution", "statement"]}
+{"parent": "OverlapRouting.corollary_1", "child": "OverlapRouting_vrpOpt", "via": ["solution", "statement"]}
+{"parent": "OverlapRouting.corollary_1", "child": "OverlapRouting_costAO", "via": ["solution", "statement"]}
+{"parent": "OverlapRouting.corollary_1", "child": "OverlapRouting_DemandLaw", "via": ["solution", "statement"]}
 {"parent": "MayersQKD.rhoX_entry", "child": "MayersQKD_rhoX", "via": ["statement"]}
 {"parent": "ClauseBound.Gen.Pick.K_pos", "child": "ClauseBound_Gen_PartA", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Gen.Pick.K_pos", "child": "ClauseBound_Gen_Defs", "via": ["solution", "statement"]}

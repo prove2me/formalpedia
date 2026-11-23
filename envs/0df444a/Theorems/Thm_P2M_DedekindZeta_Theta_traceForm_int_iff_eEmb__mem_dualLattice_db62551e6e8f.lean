@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_DedekindZeta_Theta_traceForm_int_iff_eEmb__mem_dualLattice_db62551e6e8f
 -- name    : P2M_DedekindZeta_Theta_traceForm_int_iff_eEmb__mem_dualLattice_db62551e6e8f
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:13:19.98987+00:00
 -- url     : https://prove2.me/theorems/b80a61b8-1fd3-41ec-9113-1bcbc47602c0

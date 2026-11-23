@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_coe_unit_inv
 -- name    : DedekindZeta.Theta.coe_unit_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:16:25.769934+00:00
 -- url     : https://prove2.me/theorems/0e187ec5-6071-405a-9630-4f2d76708e24

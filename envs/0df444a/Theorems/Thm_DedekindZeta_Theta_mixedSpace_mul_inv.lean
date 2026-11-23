@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_mixedSpace_mul_inv
 -- name    : DedekindZeta.Theta.mixedSpace_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:16:25.378282+00:00
 -- url     : https://prove2.me/theorems/7b39af05-d465-4758-b560-19fa5087123a

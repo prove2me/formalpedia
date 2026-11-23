@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_summable_mixedGaussian_idealKernel
 -- name    : DedekindZeta.ConeRadialReduction.summable_mixedGaussian_idealKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:39:36.00232+00:00
 -- url     : https://prove2.me/theorems/10a7faaa-c556-4914-b16c-281b04be9fe1

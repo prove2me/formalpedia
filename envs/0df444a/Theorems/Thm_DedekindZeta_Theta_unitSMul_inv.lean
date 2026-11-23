@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_unitSMul_inv
 -- name    : DedekindZeta.Theta.unitSMul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:16:42.679133+00:00
 -- url     : https://prove2.me/theorems/0e5ce12e-a744-455c-862d-694151e521ca

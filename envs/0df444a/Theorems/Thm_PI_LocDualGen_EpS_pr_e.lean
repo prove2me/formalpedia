@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_EpS_pr_e
 -- name    : PI.LocDualGen.EpS.pr_e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:57:33.488458+00:00
 -- url     : https://prove2.me/theorems/d2866332-2b86-4896-bf99-6b38f3db063f

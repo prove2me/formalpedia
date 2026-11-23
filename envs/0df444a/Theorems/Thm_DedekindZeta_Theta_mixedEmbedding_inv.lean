@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_mixedEmbedding_inv
 -- name    : DedekindZeta.Theta.mixedEmbedding_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:16:31.355796+00:00
 -- url     : https://prove2.me/theorems/f0185008-05e3-4b06-a8de-6456a1b18576

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_DedekindZeta_Theta_inner_eEmb__eq_traceForm_conjMixed_b285258bd3d8
 -- name    : P2M_DedekindZeta_Theta_inner_eEmb__eq_traceForm_conjMixed_b285258bd3d8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:11:39.47478+00:00
 -- url     : https://prove2.me/theorems/6f531678-0971-4123-ac25-5d434b44ecc5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_sum_ite_coe_eq_one
 -- name    : Comp.sum_ite_coe_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:06:38.209607+00:00
 -- url     : https://prove2.me/theorems/1b18796b-a10e-467b-a695-096acdbbcee2

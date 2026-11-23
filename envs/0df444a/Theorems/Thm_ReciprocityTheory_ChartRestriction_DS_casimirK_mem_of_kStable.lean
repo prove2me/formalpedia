@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_casimirK_mem_of_kStable
 -- name    : ReciprocityTheory.ChartRestriction.DS.casimirK_mem_of_kStable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:09:32.209113+00:00
 -- url     : https://prove2.me/theorems/165d72e0-4f3c-4088-837b-7d5c0da48fe4

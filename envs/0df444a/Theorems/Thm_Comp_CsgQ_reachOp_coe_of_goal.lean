@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_reachOp_coe_of_goal
 -- name    : Comp.CsgQ.reachOp_coe_of_goal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:27:49.100067+00:00
 -- url     : https://prove2.me/theorems/ee41876f-62a4-4145-a3bc-5d8b1aff6963

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_supportOf_padFin
 -- name    : Comp.ModelData.supportOf_padFin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:23:55.060827+00:00
 -- url     : https://prove2.me/theorems/4620b366-070c-4a72-a535-65991c01b031

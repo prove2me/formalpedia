@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_A_x_symm_adjoint_gaussV
 -- name    : DedekindZeta.Theta.A_x_symm_adjoint_gaussV
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:19:08.284366+00:00
 -- url     : https://prove2.me/theorems/2b4ec717-05b9-4826-8c8d-423a1ab2e6df

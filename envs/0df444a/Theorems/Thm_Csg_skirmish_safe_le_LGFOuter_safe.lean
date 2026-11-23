@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_safe_le_LGFOuter_safe
 -- name    : Csg.skirmish_safe_le_LGFOuter_safe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:26:49.703436+00:00
 -- url     : https://prove2.me/theorems/2a841b19-9d4c-444e-9d7e-590acc254ee6

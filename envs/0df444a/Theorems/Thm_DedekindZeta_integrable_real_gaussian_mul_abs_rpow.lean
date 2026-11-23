@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_integrable_real_gaussian_mul_abs_rpow
 -- name    : DedekindZeta.integrable_real_gaussian_mul_abs_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:44:59.642554+00:00
 -- url     : https://prove2.me/theorems/bcc5b152-acda-45aa-a768-ac2100163119

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_DiscountedCSG_valueIteration_error
 -- name    : Csg.DiscountedCSG.valueIteration_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:03:38.359327+00:00
 -- url     : https://prove2.me/theorems/2c24c6cb-0906-4cbf-93f4-10a6a51d8fee

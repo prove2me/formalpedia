@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_finrank_perp
 -- name    : PI.VolStabS.FFHS.finrank_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:08:02.775679+00:00
 -- url     : https://prove2.me/theorems/77aea5ec-68e0-4214-8c67-225ef47ca439

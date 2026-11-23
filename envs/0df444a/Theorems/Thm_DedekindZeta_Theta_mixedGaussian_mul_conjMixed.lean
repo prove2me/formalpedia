@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_mixedGaussian_mul_conjMixed
 -- name    : DedekindZeta.Theta.mixedGaussian_mul_conjMixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:21:22.061887+00:00
 -- url     : https://prove2.me/theorems/0e1e895c-6262-4990-b151-2e5732ca9439

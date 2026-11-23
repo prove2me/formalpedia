@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_lStepTr_iterate_eq
 -- name    : Comp.ModelData.lStepTr_iterate_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:24:15.826664+00:00
 -- url     : https://prove2.me/theorems/651c2656-674a-4718-91e0-8735f542127e

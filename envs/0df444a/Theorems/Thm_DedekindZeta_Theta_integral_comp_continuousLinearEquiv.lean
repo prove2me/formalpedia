@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_integral_comp_continuousLinearEquiv
 -- name    : DedekindZeta.Theta.integral_comp_continuousLinearEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:20:03.886791+00:00
 -- url     : https://prove2.me/theorems/a8168c7c-db5e-47ca-bb90-c3c219b59809

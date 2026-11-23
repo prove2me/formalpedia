@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_DedekindZeta_Theta_inner_eEmb__991a1bff15f2
 -- name    : P2M_DedekindZeta_Theta_inner_eEmb__991a1bff15f2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:10:47.555785+00:00
 -- url     : https://prove2.me/theorems/30b2c7ce-d015-47e3-9a96-d0ad95b68893

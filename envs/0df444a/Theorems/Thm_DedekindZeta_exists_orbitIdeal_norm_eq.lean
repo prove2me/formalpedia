@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_exists_orbitIdeal_norm_eq
 -- name    : DedekindZeta.exists_orbitIdeal_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:02.855955+00:00
 -- url     : https://prove2.me/theorems/7b3a887d-22a8-466c-949c-6d2b4d0d810b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_orbitIdeal_fibre_aux
 -- name    : DedekindZeta.orbitIdeal_fibre_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:04.99506+00:00
 -- url     : https://prove2.me/theorems/94d68a23-cfa3-45b9-8ccf-ab376b466fe9

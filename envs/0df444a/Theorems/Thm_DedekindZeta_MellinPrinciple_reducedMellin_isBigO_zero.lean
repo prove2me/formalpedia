@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_MellinPrinciple_reducedMellin_isBigO_zero
 -- name    : DedekindZeta.MellinPrinciple.reducedMellin_isBigO_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:21:45.557416+00:00
 -- url     : https://prove2.me/theorems/898b02d0-e924-46cb-ace7-cddca80b6479

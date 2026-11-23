@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mdp_DiscountedMDP_expect_kernel_sum_one
 -- name    : Mdp.DiscountedMDP.expect_kernel_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:30:11.796715+00:00
 -- url     : https://prove2.me/theorems/998bb5b1-ce52-44fc-bf71-c8e1a62cbd7a

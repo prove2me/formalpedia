@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierLearning_lowest_rent
 -- name    : SupplierLearning.lowest_rent
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:52:24.945923+00:00
 -- url     : https://prove2.me/theorems/0490f32a-8fbc-442e-bc0c-2c96ae96bfcf

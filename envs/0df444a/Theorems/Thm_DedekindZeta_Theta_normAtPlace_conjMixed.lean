@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_normAtPlace_conjMixed
 -- name    : DedekindZeta.Theta.normAtPlace_conjMixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:21:20.8578+00:00
 -- url     : https://prove2.me/theorems/7e281d7c-ae89-4bbf-bdd3-6235e6d1ffa9

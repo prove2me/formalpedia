@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_normAtPlace_inv
 -- name    : DedekindZeta.normAtPlace_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:41.782164+00:00
 -- url     : https://prove2.me/theorems/2e828fbf-7040-4de7-afd9-38ed5f334a99

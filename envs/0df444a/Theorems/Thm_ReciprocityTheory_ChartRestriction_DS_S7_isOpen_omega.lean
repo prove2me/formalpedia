@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_isOpen_omega
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.isOpen_omega
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:09:50.241934+00:00
 -- url     : https://prove2.me/theorems/9c2204b8-0beb-45e1-8192-7a2759820d67

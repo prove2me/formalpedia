@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_forall_inner_int_iff_gens
 -- name    : DedekindZeta.Theta.forall_inner_int_iff_gens
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:11:10.723939+00:00
 -- url     : https://prove2.me/theorems/14a8dd82-866a-41c3-89dd-5f8e8e39ace4

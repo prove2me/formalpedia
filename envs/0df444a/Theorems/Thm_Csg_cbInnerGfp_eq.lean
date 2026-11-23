@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_cbInnerGfp_eq
 -- name    : Csg.cbInnerGfp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:16:14.749046+00:00
 -- url     : https://prove2.me/theorems/59172197-c185-46af-b403-94b790fff047

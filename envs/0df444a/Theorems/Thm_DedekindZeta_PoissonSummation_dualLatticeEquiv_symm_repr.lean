@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_dualLatticeEquiv_symm_repr
 -- name    : DedekindZeta.PoissonSummation.dualLatticeEquiv_symm_repr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:04:35.858108+00:00
 -- url     : https://prove2.me/theorems/2a1ce473-3312-4900-abc1-b5d3b381de0c

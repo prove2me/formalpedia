@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_inner_dualLattice_eq_sum
 -- name    : DedekindZeta.PoissonSummation.inner_dualLattice_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:05:00.752297+00:00
 -- url     : https://prove2.me/theorems/cdf6273c-7454-4e4d-b8bc-bd0c73550c02

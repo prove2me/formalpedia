@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_idealThetaKernel_unitSMul
 -- name    : DedekindZeta.Theta.idealThetaKernel_unitSMul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:16:42.11608+00:00
 -- url     : https://prove2.me/theorems/d247ebfc-efa3-469a-b066-f0c8d8d29ca5

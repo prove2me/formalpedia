@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_not_answers_discounted_region
 -- name    : Comp.CsgQ.not_answers_discounted_region
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:06:25.968045+00:00
 -- url     : https://prove2.me/theorems/3e5a97cd-be5d-4b56-b475-f723daeda94a

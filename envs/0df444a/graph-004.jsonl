@@ -84964,7 +84964,7 @@
 {"parent": "YuanDGD.Sublinear.eq_15", "child": "YuanDGD_Sublinear_Setting", "via": ["solution", "statement"]}
 {"parent": "YuanDGD.Sublinear.eq_17", "child": "YuanDGD_Sublinear_Setting", "via": ["statement"]}
 {"parent": "YuanDGD.Sublinear.lemma_1", "child": "YuanDGD_Sublinear_Setting", "via": ["statement"]}
-{"parent": "YuanDGD.Sublinear.lemma_2", "child": "YuanDGD_Sublinear_Setting", "via": ["statement"]}
+{"parent": "YuanDGD.Sublinear.lemma_2", "child": "YuanDGD_Sublinear_Setting", "via": ["solution", "statement"]}
 {"parent": "YuanDGD.Sublinear.theorem_1_bound", "child": "YuanDGD_Sublinear_Setting", "via": ["statement"]}
 {"parent": "YuanDGD.Sublinear.theorem_2", "child": "YuanDGD_Sublinear_Setting", "via": ["statement"]}
 {"parent": "YuanDGD.Sublinear.thm2_descent", "child": "YuanDGD_Sublinear_Setting", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_exp_zero_smul
 -- name    : ReciprocityTheory.ChartRestriction.DS.exp_zero_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:09:18.265822+00:00
 -- url     : https://prove2.me/theorems/721df934-2305-4afc-92d0-5b446c9c3c04

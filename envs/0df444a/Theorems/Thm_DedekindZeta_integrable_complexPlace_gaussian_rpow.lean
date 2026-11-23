@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_integrable_complexPlace_gaussian_rpow
 -- name    : DedekindZeta.integrable_complexPlace_gaussian_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:45:08.526906+00:00
 -- url     : https://prove2.me/theorems/66ffb258-c9d2-48bb-ae00-ec45d135ea7b

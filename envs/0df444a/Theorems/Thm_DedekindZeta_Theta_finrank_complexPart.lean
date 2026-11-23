@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_finrank_complexPart
 -- name    : DedekindZeta.Theta.finrank_complexPart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:19:30.95363+00:00
 -- url     : https://prove2.me/theorems/5416071d-9069-401b-814c-5f16fb2cffeb

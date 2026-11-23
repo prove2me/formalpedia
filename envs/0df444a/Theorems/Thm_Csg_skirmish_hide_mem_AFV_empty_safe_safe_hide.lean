@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_hide_mem_AFV_empty_safe_safe_hide
 -- name    : Csg.skirmish_hide_mem_AFV_empty_safe_safe_hide
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:19:42.645239+00:00
 -- url     : https://prove2.me/theorems/01608eb4-9083-4a0f-9c44-fb3c06dc48a9
