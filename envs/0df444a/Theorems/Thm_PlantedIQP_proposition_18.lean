@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlantedIQP_proposition_18
 -- name    : PlantedIQP.proposition_18
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:21:14.140768+00:00
 -- url     : https://prove2.me/theorems/46d8e505-97b8-4a4d-b63b-f9c2a4435ad2

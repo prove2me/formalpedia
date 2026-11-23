@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_rowLoops_of_input
 -- name    : Formalism.L2.SG.RowsOther.rowLoops_of_input
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:10.015774+00:00
 -- url     : https://prove2.me/theorems/efaf6d59-88ad-41ed-a81f-0f4919922a65

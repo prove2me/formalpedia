@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_segment__range_val_15118bfaea7b
 -- name    : P2M_segment__range_val_15118bfaea7b
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:33:54.126809+00:00
 -- url     : https://prove2.me/theorems/86833dc8-984a-4db7-8ea9-c8ed27768e49

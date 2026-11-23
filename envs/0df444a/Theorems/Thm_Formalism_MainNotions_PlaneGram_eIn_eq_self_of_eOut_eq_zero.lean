@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_eIn_eq_self_of_eOut_eq_zero
 -- name    : Formalism.MainNotions.PlaneGram.eIn_eq_self_of_eOut_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:04.458112+00:00
 -- url     : https://prove2.me/theorems/3b3e485a-7f07-4e31-a06f-722829114c99

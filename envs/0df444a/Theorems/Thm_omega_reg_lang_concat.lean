@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_omega_reg_lang_concat
 -- name    : omega_reg_lang_concat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:00.711307+00:00
 -- url     : https://prove2.me/theorems/6f5db102-34c7-4035-88ef-71728d161c94

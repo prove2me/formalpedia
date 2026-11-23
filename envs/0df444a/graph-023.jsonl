@@ -1831,8 +1831,8 @@
 {"parent": "AvramDividend.Classical.avram_bv_cell7_original_BV_indexed_lipschitz_C1_signed_jump_series", "child": "AvramDividend.Classical.avram_bv_cell7_original_discounted_C1_signed_global_NX_real_eq_stopped_jump_series", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_cell7_original_BV_indexed_lipschitz_C1_signed_jump_series", "child": "AvramDividend.Classical.avram_bv_cell7_original_BV_physical_compact_C1_global_NX_integrable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_cell7_original_BV_indexed_lipschitz_C1_signed_jump_series", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "MetricMSO.lemma_3_3", "child": "MetricMSO_signedSum", "via": ["statement"]}
-{"parent": "MetricMSO.lemma_3_3", "child": "MetricMSO_cbl", "via": ["statement"]}
+{"parent": "MetricMSO.lemma_3_3", "child": "MetricMSO_signedSum", "via": ["solution", "statement"]}
+{"parent": "MetricMSO.lemma_3_3", "child": "MetricMSO_cbl", "via": ["solution", "statement"]}
 {"parent": "OAI.EisensteinSchwartzPoisson.explicitDualFrequency_norm_sq", "child": "OAI_NumberTheory_DirichletL_GaussSum_SexticRadialPoisson", "via": ["solution", "statement"]}
 {"parent": "OAI.EisensteinSchwartzPoisson.explicitDualFrequency_norm_sq", "child": "OAI_NumberTheory_DirichletL_Poisson_EisensteinLattice", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.exists_baseUnit_of_constantFrobeniusUnitEquiv_eq", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Building_BuildingStabilizer", "via": ["solution", "statement"]}
@@ -3510,8 +3510,8 @@
 {"parent": "QEC.Coding.PeriodicCubical4.unitDefectEnergy_dualMembrane", "child": "QEC_Coding_FourDimensionalToricCode_LogicalSectors", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.unitDefectEnergy_dualMembrane", "child": "QEC_Coding_Stabilizer_Energy", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.unitDefectEnergy_dualMembrane", "child": "QEC_Coding_FourDimensionalToricCode_MembraneSyndrome", "via": ["solution", "statement"]}
-{"parent": "MetricMSO.lemma_3_4", "child": "MetricMSO_Admissible", "via": ["statement"]}
-{"parent": "MetricMSO.lemma_3_4", "child": "MetricMSO_cbl", "via": ["statement"]}
+{"parent": "MetricMSO.lemma_3_4", "child": "MetricMSO_Admissible", "via": ["solution", "statement"]}
+{"parent": "MetricMSO.lemma_3_4", "child": "MetricMSO_cbl", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Bridge.hasDegreeLE_eval", "child": "AaronsonAmbainis_Bridge_Algebra", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Bridge.hasDegreeLE_eval", "child": "AaronsonAmbainis_Bridge_Poly", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_meas7_original_expanding_compact_bands_auto", "child": "AvramDividend.Classical.avram_p3_grid4_finite_cap_expanding_compact_bands", "via": ["solution", "statement"]}

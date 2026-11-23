@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_TwistData_eC_nonneg__6cf7440067fb
 -- name    : P2M_Formalism_MainNotions_PlaneGram_TwistData_eC_nonneg__6cf7440067fb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:14:36.897807+00:00
 -- url     : https://prove2.me/theorems/8714f0fe-249d-4143-b5ad-35e1854c7650

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_exists_coeff_eq_vG
 -- name    : Formalism.MainNotions.PlaneGram.exists_coeff_eq_vG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:23.167022+00:00
 -- url     : https://prove2.me/theorems/a7712ef0-8bc0-49ea-ac65-f6ef7130ec8e

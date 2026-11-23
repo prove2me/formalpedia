@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_S_Loc_Model_Kk_succ
 -- name    : Formalism.MainNotions.S.Loc.Model.Kk_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:37.523399+00:00
 -- url     : https://prove2.me/theorems/87ef515b-e55d-431c-babc-a9df69cfa515

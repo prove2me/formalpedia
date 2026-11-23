@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BergerSchwichtenberg1991V2_lemma_4
 -- name    : BergerSchwichtenberg1991V2.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-20T20:14:32.140706+00:00
 -- url     : https://prove2.me/theorems/967a4ef7-b272-4f2e-8f0d-a14acd59154e

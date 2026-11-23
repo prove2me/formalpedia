@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortBroadcastDom_lemma_7_4_output_count_integer
 -- name    : ShortBroadcastDom.lemma_7_4_output_count_integer
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:28:44.729005+00:00
 -- url     : https://prove2.me/theorems/13648959-f2ad-4949-a125-ea75fdf42d79

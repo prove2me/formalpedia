@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_gaAct_eq_dg
 -- name    : Formalism.MainNotions.PlaneGram.gaAct_eq_dg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:26:27.398432+00:00
 -- url     : https://prove2.me/theorems/0c81c5c3-d9a0-497b-a7a7-597ebf5b0b51

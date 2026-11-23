@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ReductionFirst_main
 -- name    : Formalism.DivisionValues.ReductionFirst.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:33.509805+00:00
 -- url     : https://prove2.me/theorems/367883bc-a49a-4b8e-a726-1d26ac8614fc

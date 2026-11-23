@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_coeff_ddiv
 -- name    : Formalism.MainNotions.PlaneGram.coeff_ddiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:53.101244+00:00
 -- url     : https://prove2.me/theorems/1431926b-ba22-4efb-8840-2968521a3327

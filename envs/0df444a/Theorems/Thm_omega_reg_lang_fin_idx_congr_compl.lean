@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_omega_reg_lang_fin_idx_congr_compl
 -- name    : omega_reg_lang_fin_idx_congr_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:13.791993+00:00
 -- url     : https://prove2.me/theorems/2ddb0f13-c624-4025-8813-1aca44cf6b43

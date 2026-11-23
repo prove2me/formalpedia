@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandCoord_eq_15
 -- name    : OnDemandCoord.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:22:37.116821+00:00
 -- url     : https://prove2.me/theorems/70d6a0bb-2857-472a-aaf7-4ecebde6ea4c

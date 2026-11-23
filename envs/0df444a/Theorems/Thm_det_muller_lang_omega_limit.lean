@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_det_muller_lang_omega_limit
 -- name    : det_muller_lang_omega_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:57.826813+00:00
 -- url     : https://prove2.me/theorems/090b3947-4587-4584-b44e-2dc743a7fa8c

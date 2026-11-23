@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_sum_mul_coefOut
 -- name    : Formalism.MainNotions.PlaneGram.sum_mul_coefOut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:44.310134+00:00
 -- url     : https://prove2.me/theorems/304fdc91-aec8-4954-83b3-a9913a164c87

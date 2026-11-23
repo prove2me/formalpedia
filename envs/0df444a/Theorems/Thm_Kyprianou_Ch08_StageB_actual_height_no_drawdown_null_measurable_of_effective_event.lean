@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_no_drawdown_null_measurable_of_effective_event
 -- name    : Kyprianou.Ch08.StageB.actual_height_no_drawdown_null_measurable_of_effective_event
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T03:31:39.781525+00:00
 -- url     : https://prove2.me/theorems/ebcbaae5-bbe0-42a6-ad5b-765aaa18cf55

@@ -68437,7 +68437,7 @@
 {"parent": "QEC.Distillation.HH18PuncturedReedMuller.xLogicalMinimumDistance", "child": "QEC_Distillation_Triorthogonal_CSS", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18PuncturedReedMuller.xLogicalMinimumDistance", "child": "QEC_Coding_ReedMuller_Punctured", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18PuncturedReedMuller.xLogicalMinimumDistance", "child": "QEC_Distillation_LowOverheadProtocol_Core_PuncturedReedMuller", "via": ["solution", "statement"]}
-{"parent": "L1Sparsifiers.Main.lemma_15", "child": "L1Sparsifiers_Main_Zonotope", "via": ["statement"]}
+{"parent": "L1Sparsifiers.Main.lemma_15", "child": "L1Sparsifiers_Main_Zonotope", "via": ["solution", "statement"]}
 {"parent": "OAIQ262T021", "child": "OAIQ262T000", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg22255", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA1_7_8I2PairH_sound", "child": "OAIQ254M008", "via": ["solution", "statement"]}
@@ -74513,7 +74513,7 @@
 {"parent": "QEC.Coding.BDL26IncomingRowsExecution.rowStateEventQuery_correct", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperimentGeometry", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26IncomingRowsExecution.rowStateEventQuery_correct", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_IncomingRowsExecution", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26IncomingRowsExecution.rowStateEventQuery_correct", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperimentCost", "via": ["solution", "statement"]}
-{"parent": "SubmodMDP.Policies.lemma_13", "child": "SubmodMDP_Policies_GraphMDP", "via": ["statement"]}
+{"parent": "SubmodMDP.Policies.lemma_13", "child": "SubmodMDP_Policies_GraphMDP", "via": ["solution", "statement"]}
 {"parent": "OAI.PerfectCompleteness.UpperScalarPairAveraging.fixed_pairLaw", "child": "OAIQ252P020", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg15686", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "QEC_Distillation_LowOverheadProtocol_Core_PuncturedReedMuller", "child": "QEC.Distillation.Triorthogonal.BinaryRowFamily.encoding_apply_of_not_mem", "via": ["statement"]}

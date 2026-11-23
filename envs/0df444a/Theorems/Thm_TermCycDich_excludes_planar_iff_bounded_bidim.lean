@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TermCycDich_excludes_planar_iff_bounded_bidim
 -- name    : TermCycDich.excludes_planar_iff_bounded_bidim
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:46:32.086041+00:00
 -- url     : https://prove2.me/theorems/1da65e77-bd99-46f0-9c48-ac21467df9f5

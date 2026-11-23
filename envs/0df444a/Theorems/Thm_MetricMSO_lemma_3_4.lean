@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricMSO_lemma_3_4
 -- name    : MetricMSO.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:42:48.80729+00:00
 -- url     : https://prove2.me/theorems/e62e397c-aa32-448c-a4da-94583a5a29ce

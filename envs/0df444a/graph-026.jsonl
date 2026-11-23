@@ -35154,8 +35154,8 @@
 {"parent": "QEC.Coding.BDL26XLocalConnectingWeight.verticalZ_image_copy", "child": "QEC_Coding_FiniteAlternatingConstruction_RXLocalReplacement", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26XLocalConnectingWeight.verticalZ_image_copy", "child": "QEC_Coding_FiniteAlternatingConstruction_XLocalConnectingWeight", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26XLocalConnectingWeight.verticalZ_image_copy", "child": "QEC_Coding_FiniteAlternatingConstruction_XLocalWeightParity", "via": ["solution", "statement"]}
-{"parent": "OptStochMatch.Tight.theorem_3_1", "child": "OptStochMatch_Tight_Laws", "via": ["statement"]}
-{"parent": "OptStochMatch.Tight.theorem_3_1", "child": "OptStochMatch_Tight_Basic", "via": ["statement"]}
+{"parent": "OptStochMatch.Tight.theorem_3_1", "child": "OptStochMatch_Tight_Laws", "via": ["solution", "statement"]}
+{"parent": "OptStochMatch.Tight.theorem_3_1", "child": "OptStochMatch_Tight_Basic", "via": ["solution", "statement"]}
 {"parent": "SubspaceConv.lemma_1", "child": "SubspaceConv_crossSub", "via": ["statement"]}
 {"parent": "NashOrTriangle_HasTriangle", "child": "NashOrTriangle_IsTriangle", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26XLocalConnectingWeight.fiber_neighbor_injective", "child": "QEC_Coding_FiniteAlternatingConstruction_RXLocalReplacement", "via": ["solution", "statement"]}
@@ -52028,10 +52028,10 @@
 {"parent": "OAI.SharpPlanar.CachedData.cm12_3_0_0.s5_eq_g", "child": "OAIQ098G109", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecondLiteralTerm_fixed_profiles", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_SelectedExponents", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecondLiteralTerm_fixed_profiles", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CompactProfiles", "via": ["solution", "statement"]}
-{"parent": "VecKnapsackMitM.Main.theorem_1_1", "child": "MatMulTimeLP_RealRAM", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.theorem_1_1", "child": "VecKnapsackMitM_Main_Machine", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.theorem_1_1", "child": "VecKnapsackMitM_Main_Instance", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.theorem_1_1", "child": "VecBalPoly_Admissible", "via": ["statement"]}
+{"parent": "VecKnapsackMitM.Main.theorem_1_1", "child": "MatMulTimeLP_RealRAM", "via": ["solution", "statement"]}
+{"parent": "VecKnapsackMitM.Main.theorem_1_1", "child": "VecKnapsackMitM_Main_Machine", "via": ["solution", "statement"]}
+{"parent": "VecKnapsackMitM.Main.theorem_1_1", "child": "VecKnapsackMitM_Main_Instance", "via": ["solution", "statement"]}
+{"parent": "VecKnapsackMitM.Main.theorem_1_1", "child": "VecBalPoly_Admissible", "via": ["solution", "statement"]}
 {"parent": "GreedyColoringLCA969.LowerBound.lemma_3_4", "child": "GreedyColoringLCA969_LowerBound_Distribution", "via": ["solution", "statement"]}
 {"parent": "HiddenHardCoreColoring.Mixing.theorem_1", "child": "HiddenHardCoreColoring_Mixing_Coloring", "via": ["statement"]}
 {"parent": "Pr6453Root.address_data", "child": "Pr6453RootAddress", "via": ["solution", "statement"]}
@@ -52297,8 +52297,8 @@
 {"parent": "OAI.CubicEisenstein.kernelLocalizedDensity_eq_schwartz", "child": "OAI_NumberTheory_DirichletL_CubicSieve_PaddedPassage", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelLocalizedDensity_eq_schwartz", "child": "OAI_NumberTheory_DirichletL_MeanSquare_HarmonicAggregation", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelLocalizedDensity_eq_schwartz", "child": "OAI_NumberTheory_DirichletL_Eisenstein_LocalCutoffs", "via": ["solution", "statement"]}
-{"parent": "VecKnapsackMitM.Main.lemma_4_6", "child": "VecKnapsackMitM_Main_Instance", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.lemma_4_6", "child": "VecKnapsackMitM_Main_Algorithm3", "via": ["statement"]}
+{"parent": "VecKnapsackMitM.Main.lemma_4_6", "child": "VecKnapsackMitM_Main_Instance", "via": ["solution", "statement"]}
+{"parent": "VecKnapsackMitM.Main.lemma_4_6", "child": "VecKnapsackMitM_Main_Algorithm3", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_mix_fin_source13_original_annulus_offtime_product_mean", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_mix_fin_source13_original_annulus_offtime_product_mean", "child": "AvramDividend.Classical.avram_p4_f3_original_separated_borel_cell_compensated_mean_zero_auto", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_mix_fin_source13_original_annulus_offtime_product_mean", "child": "AvramDividend.Classical.avram_mixed_source13_original_annulus_past_future_same_band_covariance_zero", "via": ["solution", "statement"]}
@@ -53860,7 +53860,7 @@
 {"parent": "QEC.Coding.BDL26CSSDaviesLocality.coupling_square", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_Gibbs", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CSSDaviesLocality.coupling_square", "child": "QEC_Coding_CSS_DaviesLocality", "via": ["solution", "statement"]}
 {"parent": "GreedNorm_IsTBoundedVec", "child": "GreedNorm_POS", "via": ["statement"]}
-{"parent": "OptStochMatch.Tight.lemma_3_2", "child": "OptStochMatch_Tight_Basic", "via": ["statement"]}
+{"parent": "OptStochMatch.Tight.lemma_3_2", "child": "OptStochMatch_Tight_Basic", "via": ["solution", "statement"]}
 {"parent": "OAI.CompletedGauss.finite_tsum_energy_bound", "child": "OAI_NumberTheory_DirichletL_CubicSieve_QuantitativePassage", "via": ["solution", "statement"]}
 {"parent": "OAI.CompletedGauss.finite_tsum_energy_bound", "child": "OAI_NumberTheory_DirichletL_CubicSieve_DyadicKernel", "via": ["solution", "statement"]}
 {"parent": "OAI.CompletedGauss.finite_tsum_energy_bound", "child": "OAI_NumberTheory_DirichletL_MeanSquare_PoissonSource", "via": ["solution", "statement"]}

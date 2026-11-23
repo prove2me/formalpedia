@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_kapL_le_kap
 -- name    : Formalism.MainNotions.PlaneGram.kapL_le_kap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:18.77039+00:00
 -- url     : https://prove2.me/theorems/d0f95c42-f70d-4414-b77b-10c36b99017d

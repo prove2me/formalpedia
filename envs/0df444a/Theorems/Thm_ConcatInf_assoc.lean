@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConcatInf_assoc
 -- name    : ConcatInf_assoc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:34:09.415808+00:00
 -- url     : https://prove2.me/theorems/5e24989f-be40-4d1a-8c3f-ab3d59efa852

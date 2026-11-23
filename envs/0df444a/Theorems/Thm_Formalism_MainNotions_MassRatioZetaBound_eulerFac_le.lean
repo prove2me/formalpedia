@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioZetaBound_eulerFac_le
 -- name    : Formalism.MainNotions.MassRatioZetaBound.eulerFac_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:00.683801+00:00
 -- url     : https://prove2.me/theorems/0cc3c256-90c7-4005-baf4-d4b648537d90

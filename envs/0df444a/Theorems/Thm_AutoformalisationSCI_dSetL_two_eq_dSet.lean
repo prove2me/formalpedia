@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AutoformalisationSCI_dSetL_two_eq_dSet
 -- name    : AutoformalisationSCI.dSetL_two_eq_dSet
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T15:33:58.340713+00:00
 -- url     : https://prove2.me/theorems/789da5a3-4c51-46e7-bc1e-5547635261ac

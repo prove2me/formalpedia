@@ -54166,9 +54166,9 @@
 {"parent": "OAI.TamingCompatibility.GeometricHilbert.GeometricNormalCharts.same_resolvent_continuous_data", "child": "OAIQ239Tc028", "via": ["statement"]}
 {"parent": "OAI.TamingCompatibility.GeometricHilbert.GeometricNormalCharts.same_resolvent_continuous_data", "child": "TamingCompatibility", "via": ["solution", "statement"]}
 {"parent": "OAI_NumberTheory_DirichletL_Eisenstein_UnitNormalization", "child": "OAI_NumberTheory_DirichletL_Eisenstein_FredholmAlternative", "via": ["statement"]}
-{"parent": "FlowSparsSchur.Main.lemma_9_44", "child": "FlowSparsSchur_Main_Graph", "via": ["statement"]}
-{"parent": "FlowSparsSchur.Main.lemma_9_44", "child": "FlowSparsSchur_Main_Heat", "via": ["statement"]}
-{"parent": "FlowSparsSchur.Main.lemma_9_44", "child": "FlowSparsSchur_Main_Embedding", "via": ["statement"]}
+{"parent": "FlowSparsSchur.Main.lemma_9_44", "child": "FlowSparsSchur_Main_Graph", "via": ["solution", "statement"]}
+{"parent": "FlowSparsSchur.Main.lemma_9_44", "child": "FlowSparsSchur_Main_Heat", "via": ["solution", "statement"]}
+{"parent": "FlowSparsSchur.Main.lemma_9_44", "child": "FlowSparsSchur_Main_Embedding", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.cubicMellinMixture_integral_norm", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspAverage", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.cubicMellinMixture_integral_norm", "child": "OAI_NumberTheory_DirichletL_Eisenstein_RationalTranslations", "via": ["solution", "statement"]}
 {"parent": "QuadExt.Main.lemma_8_3", "child": "QuadExt_Main_SeededExt", "via": ["statement"]}
@@ -55720,7 +55720,7 @@
 {"parent": "DiffusionErrorAcc.Stability.lemma_F_1", "child": "DiffusionErrorAcc_Stability_TransportEnergy", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_23_2_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_23_2_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
-{"parent": "GMSTFramework.LocalStructure.proposition_8_1", "child": "GMSTFramework_LocalStructure_Societies", "via": ["statement"]}
+{"parent": "GMSTFramework.LocalStructure.proposition_8_1", "child": "GMSTFramework_LocalStructure_Societies", "via": ["solution", "statement"]}
 {"parent": "FOMCMonDep_RadiusDefinable", "child": "MonDepMW_coloredGraph", "via": ["statement"]}
 {"parent": "FOMCMonDep_RadiusDefinable", "child": "FOMCMonDep_ConstructionSeq", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26LogicalDefectStorage.hamiltonian_X", "child": "QEC_Semantics_Dynamics_ProtectedObservableDecay", "via": ["solution", "statement"]}
@@ -55869,13 +55869,13 @@
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_4_21_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "GaussDiffSVP_gaussRef", "child": "GaussDiffSVP_volFactor", "via": ["statement"]}
 {"parent": "GaussDiffSVP_gaussRef", "child": "GaussDiffSVP_shell", "via": ["statement"]}
-{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_EntropicScaling", "via": ["statement"]}
-{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_EntanglementPolytope", "via": ["statement"]}
-{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_Spectra", "via": ["statement"]}
-{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_GaussianInteger", "via": ["statement"]}
-{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_QuantumFunctional", "via": ["statement"]}
-{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_Capacity", "via": ["statement"]}
-{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_TensorAction", "via": ["statement"]}
+{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_EntropicScaling", "via": ["solution", "statement"]}
+{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_EntanglementPolytope", "via": ["solution", "statement"]}
+{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_Spectra", "via": ["solution", "statement"]}
+{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_GaussianInteger", "via": ["solution", "statement"]}
+{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_QuantumFunctional", "via": ["solution", "statement"]}
+{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_Capacity", "via": ["solution", "statement"]}
+{"parent": "MomentPolytopes.QuantumFunctionals.theorem_7_6", "child": "MomentPolytopes_QuantumFunctionals_TensorAction", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem367.IsingCriticalSmallLogLoss.exists_critical_small_log_bounds", "child": "FreeIsing", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem367.IsingCriticalSmallLogLoss.exists_critical_small_log_bounds", "child": "Q243FI004", "via": ["statement"]}
 {"parent": "OAI.CanonicalCoefficientClass.initialBase_factorsModulo", "child": "OAI_NumberTheory_DirichletL_CubicSieve_CanonicalLogEnergy", "via": ["solution", "statement"]}
@@ -56682,8 +56682,8 @@
 {"parent": "OAI.SecondPassArithmetic.globalPooled_mass_le_parent", "child": "OAI_NumberTheory_DirichletL_MeanSquare_RetainedDensity", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.cubicEisensteinResidue_orthogonal_of_rapid_cusp_decay", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspDilation", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.cubicEisensteinResidue_orthogonal_of_rapid_cusp_decay", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ArbitraryCuspPullback", "via": ["solution", "statement"]}
-{"parent": "SepMeasures.theorem_3_3", "child": "SepMeasures_CutValue", "via": ["statement"]}
-{"parent": "SepMeasures.theorem_3_3", "child": "SepMeasures_Families", "via": ["statement"]}
+{"parent": "SepMeasures.theorem_3_3", "child": "SepMeasures_CutValue", "via": ["solution", "statement"]}
+{"parent": "SepMeasures.theorem_3_3", "child": "SepMeasures_Families", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_20_4_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_20_4_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "GMMIsoSample.Main.proposition_53", "child": "PolySampIso_Divergences", "via": ["statement"]}
@@ -59170,8 +59170,8 @@
 {"parent": "QEC.Coding.BDL26UniformRXTail.actualQWord_boundary", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_UniformRXTail_Input", "via": ["solution", "statement"]}
 {"parent": "PreservePast_IsPromised", "child": "PreservePast_Task", "via": ["statement"]}
 {"parent": "PreservePast_IsPromised", "child": "LowRankMEG_frobNorm", "via": ["statement"]}
-{"parent": "LogConcaveLattice.Lift.lemma_3_1", "child": "LogConcaveLattice_Lift_Gaussian", "via": ["statement"]}
-{"parent": "LogConcaveLattice.Lift.lemma_3_1", "child": "LogConcaveLattice_Lift_Lattice", "via": ["statement"]}
+{"parent": "LogConcaveLattice.Lift.lemma_3_1", "child": "LogConcaveLattice_Lift_Gaussian", "via": ["solution", "statement"]}
+{"parent": "LogConcaveLattice.Lift.lemma_3_1", "child": "LogConcaveLattice_Lift_Lattice", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelCuspAverageFamily_meromorphicAt", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspResidues", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelCuspAverageFamily_meromorphicAt", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SeedHeight", "via": ["solution", "statement"]}
 {"parent": "TernarySync.Alphabet.eq_12", "child": "TernarySync_Alphabet_RandomSource", "via": ["solution", "statement"]}
@@ -61929,8 +61929,8 @@
 {"parent": "OAI.EisensteinCuspModThree.residue_sub", "child": "OAI.ActualEisensteinCoordinates.eval_mul", "via": ["solution", "statement"]}
 {"parent": "OAI.EisensteinCuspModThree.residue_sub", "child": "OAI.ActualEisensteinCoordinates.eval_coords", "via": ["solution", "statement"]}
 {"parent": "OAI.EisensteinCuspModThree.residue_sub", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspDilation", "via": ["solution", "statement"]}
-{"parent": "IncApproxVC.Oblivious.lemma_3_11", "child": "IncApproxVC_Oblivious_Digraph", "via": ["statement"]}
-{"parent": "IncApproxVC.Oblivious.lemma_3_11", "child": "IncApproxVC_Oblivious_Cuts", "via": ["statement"]}
+{"parent": "IncApproxVC.Oblivious.lemma_3_11", "child": "IncApproxVC_Oblivious_Digraph", "via": ["solution", "statement"]}
+{"parent": "IncApproxVC.Oblivious.lemma_3_11", "child": "IncApproxVC_Oblivious_Cuts", "via": ["solution", "statement"]}
 {"parent": "TightPQRepetition.Main.lemma_3_7", "child": "TightPQRepetition_Main_Preprocess", "via": ["statement"]}
 {"parent": "OAI.HigherDimensionalBallPacking.Rigidity.HolderCompletion.freeTranslation_zero_bp240", "child": "OAIQ240Bp020", "via": ["solution", "statement"]}
 {"parent": "GapAgnosticGS.lemma_3_1", "child": "GapAgnosticGS_phaseOracle", "via": ["statement"]}
@@ -76964,8 +76964,8 @@
 {"parent": "OAI_NumberTheory_DirichletL_MeanSquare_UniformPolynomialHeight", "child": "OAI_NumberTheory_DirichletL_MeanSquare_PolynomialHeight", "via": ["statement"]}
 {"parent": "OAI_NumberTheory_DirichletL_MeanSquare_UniformPolynomialHeight", "child": "OAI_NumberTheory_DirichletL_CubicSieve_RankMargins", "via": ["statement"]}
 {"parent": "OAI_NumberTheory_DirichletL_MeanSquare_UniformPolynomialHeight", "child": "OAI.PrimaryIdealUnitReindex.finite_units", "via": ["statement"]}
-{"parent": "IncApproxVC.Oblivious.lemma_6_3", "child": "IncApproxVC_Oblivious_Digraph", "via": ["statement"]}
-{"parent": "IncApproxVC.Oblivious.lemma_6_3", "child": "IncApproxVC_Oblivious_Cuts", "via": ["statement"]}
+{"parent": "IncApproxVC.Oblivious.lemma_6_3", "child": "IncApproxVC_Oblivious_Digraph", "via": ["solution", "statement"]}
+{"parent": "IncApproxVC.Oblivious.lemma_6_3", "child": "IncApproxVC_Oblivious_Cuts", "via": ["solution", "statement"]}
 {"parent": "ApprovalCore.HarmonicEntropy.lemma_B_1", "child": "ApprovalCore_HarmonicEntropy_RobinHood", "via": ["statement"]}
 {"parent": "MatchingNearLinear_Glauber_SymmetricLift", "child": "MatchingNearLinear_Glauber_SubsetLaws", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_19_25_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
@@ -77091,7 +77091,7 @@
 {"parent": "RandDelMatroid.Indep.lemma_11", "child": "RandDelMatroid_Indep_Absorption", "via": ["statement"]}
 {"parent": "NoMenuRevenue186.TrustedXOS.proposition_4_6", "child": "NoMenuRevenue186_TrustedXOS_Scores", "via": ["statement"]}
 {"parent": "OAI.TamingCompatibility.GeometricHilbert.NormalMetricCalculus.pulled_principal", "child": "OAIQ239Tc007", "via": ["statement"]}
-{"parent": "GraphSimOT.Gaps.theorem_11", "child": "GraphSimOT_Gaps_Distances", "via": ["statement"]}
+{"parent": "GraphSimOT.Gaps.theorem_11", "child": "GraphSimOT_Gaps_Distances", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.gramRow26_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.gramRow26_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "OAI.WeakMTWTransport.uniform_family_short_mdifferentiable", "child": "BiholderTransport", "via": ["solution", "statement"]}

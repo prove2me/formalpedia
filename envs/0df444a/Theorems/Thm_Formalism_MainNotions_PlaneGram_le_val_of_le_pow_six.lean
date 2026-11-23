@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_le_val_of_le_pow_six
 -- name    : Formalism.MainNotions.PlaneGram.le_val_of_le_pow_six
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:30.032963+00:00
 -- url     : https://prove2.me/theorems/4863bee4-0eec-464c-9f0b-c98e7828c5d6

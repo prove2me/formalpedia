@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_Dm_nonneg
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.Dm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:37:53.866902+00:00
 -- url     : https://prove2.me/theorems/51a724d0-998d-4803-a57d-d8dacf544f46

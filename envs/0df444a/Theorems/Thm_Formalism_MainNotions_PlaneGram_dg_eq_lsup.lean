@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_dg_eq_lsup
 -- name    : Formalism.MainNotions.PlaneGram.dg_eq_lsup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:59.899651+00:00
 -- url     : https://prove2.me/theorems/940b0121-8a8c-4933-b427-78de0445b82a

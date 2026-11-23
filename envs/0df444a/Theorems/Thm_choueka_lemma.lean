@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_choueka_lemma
 -- name    : choueka_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:23.777313+00:00
 -- url     : https://prove2.me/theorems/7f91d9d1-8938-4d0c-837b-8119a4d96f4c

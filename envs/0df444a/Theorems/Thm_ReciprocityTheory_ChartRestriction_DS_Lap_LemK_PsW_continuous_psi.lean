@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_PsW_continuous_psi
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.PsW.continuous_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:41:50.085017+00:00
 -- url     : https://prove2.me/theorems/83e1a142-0d94-4083-bc51-513a1fbc2783

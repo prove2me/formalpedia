@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_v_prod_nonneg
 -- name    : Formalism.MainNotions.PlaneGram.v_prod_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:13.646346+00:00
 -- url     : https://prove2.me/theorems/ef6a96b5-0999-4ce9-90dd-ee985239fb3a

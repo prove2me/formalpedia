@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_buchi_congr_ample
 -- name    : Automata.buchi_congr_ample
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:48:33.884805+00:00
 -- url     : https://prove2.me/theorems/0cc365db-d3a8-4250-ae90-6579362fb871

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_ncard_places
 -- name    : Formalism.MainNotions.J.ncard_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:28.603834+00:00
 -- url     : https://prove2.me/theorems/741eedf1-7146-4a78-a1d3-f7026f23cde7

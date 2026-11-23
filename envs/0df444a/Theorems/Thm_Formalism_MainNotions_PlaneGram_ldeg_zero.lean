@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_ldeg_zero
 -- name    : Formalism.MainNotions.PlaneGram.ldeg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:19.851107+00:00
 -- url     : https://prove2.me/theorems/e5784950-0dd0-4528-870f-7ef04431b975

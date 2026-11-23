@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricMSO_theorem_3_5
 -- name    : MetricMSO.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:43:05.91702+00:00
 -- url     : https://prove2.me/theorems/6a1af85e-eb77-4269-8c5a-a815451191ef

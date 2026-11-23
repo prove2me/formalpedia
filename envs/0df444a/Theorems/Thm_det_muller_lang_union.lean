@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_det_muller_lang_union
 -- name    : det_muller_lang_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:50:01.887969+00:00
 -- url     : https://prove2.me/theorems/2ec6cc7a-f048-40a9-b0cf-8317785e9526

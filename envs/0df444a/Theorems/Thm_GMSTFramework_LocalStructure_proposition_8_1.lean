@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GMSTFramework_LocalStructure_proposition_8_1
 -- name    : GMSTFramework.LocalStructure.proposition_8_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T19:03:26.949022+00:00
 -- url     : https://prove2.me/theorems/0ba56095-36e9-4002-90da-9599bbc78fe1

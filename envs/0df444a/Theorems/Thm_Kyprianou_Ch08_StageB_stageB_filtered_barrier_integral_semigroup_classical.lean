@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_stageB_filtered_barrier_integral_semigroup_classical
 -- name    : Kyprianou.Ch08.StageB.stageB_filtered_barrier_integral_semigroup_classical
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T03:36:02.958888+00:00
 -- url     : https://prove2.me/theorems/c9a93cf2-054f-43d1-81e4-af0435dcddcd

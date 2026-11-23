@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioZetaBound_two_le_absNorm
 -- name    : Formalism.MainNotions.MassRatioZetaBound.two_le_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:36:20.240405+00:00
 -- url     : https://prove2.me/theorems/2144e1b5-002e-4397-a4e2-f3994f332aad

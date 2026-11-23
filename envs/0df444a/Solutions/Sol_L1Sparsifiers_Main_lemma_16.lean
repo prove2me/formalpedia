@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for L1Sparsifiers.Main.lemma_16
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-23T04:49:08.886006+00:00
 -- url     : https://prove2.me/submissions/ed059fcb-9209-4401-992b-f348e38bf640
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_L1Sparsifiers_Main_Zonotope
 import Definitions.Def_L1Sparsifiers_Main_SeparatelyConvex

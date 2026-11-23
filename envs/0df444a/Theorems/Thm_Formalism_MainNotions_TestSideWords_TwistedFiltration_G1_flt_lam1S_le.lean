@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G1_flt_lam1S_le
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G1.flt_lam1S_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:12:59.29968+00:00
 -- url     : https://prove2.me/theorems/dade81c8-ee2e-45fa-b335-398eb8758eb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_segment__idem_e922dad3abb7
 -- name    : P2M_segment__idem_e922dad3abb7
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:33:47.608799+00:00
 -- url     : https://prove2.me/theorems/71806f24-61a1-4f65-9a6d-b56ba589dafd

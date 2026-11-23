@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_le_mul_ep
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.le_mul_ep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:41:18.239529+00:00
 -- url     : https://prove2.me/theorems/c0e97a9e-7395-4541-acb8-033d7602286a

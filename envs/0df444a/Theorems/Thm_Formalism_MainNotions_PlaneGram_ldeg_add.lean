@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_ldeg_add
 -- name    : Formalism.MainNotions.PlaneGram.ldeg_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:25.292729+00:00
 -- url     : https://prove2.me/theorems/d6507ff0-ea12-4247-9ea9-fc6b02e81571

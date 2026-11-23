@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_det_muller_lang_biUnion
 -- name    : det_muller_lang_biUnion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:42.826501+00:00
 -- url     : https://prove2.me/theorems/42fd7edf-70e7-46ec-ac29-232ed9dd96ed

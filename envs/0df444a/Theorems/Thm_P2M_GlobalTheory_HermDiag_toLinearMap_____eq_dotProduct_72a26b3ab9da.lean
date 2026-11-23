@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermDiag_toLinearMap_____eq_dotProduct_72a26b3ab9da
 -- name    : P2M_GlobalTheory_HermDiag_toLinearMap_____eq_dotProduct_72a26b3ab9da
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:02.552457+00:00
 -- url     : https://prove2.me/theorems/77b2d793-bc71-4cf2-8a34-5c4036cf68fb

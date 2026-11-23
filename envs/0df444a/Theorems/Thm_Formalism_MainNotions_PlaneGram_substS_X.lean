@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_substS_X
 -- name    : Formalism.MainNotions.PlaneGram.substS_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:43.549796+00:00
 -- url     : https://prove2.me/theorems/e7ece8c7-154f-45bb-845d-746c37b5076d

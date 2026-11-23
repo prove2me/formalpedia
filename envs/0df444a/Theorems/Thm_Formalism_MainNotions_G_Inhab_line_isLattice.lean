@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_line_isLattice
 -- name    : Formalism.MainNotions.G.Inhab.line_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:57:44.722876+00:00
 -- url     : https://prove2.me/theorems/ba47b942-57ca-4e3e-aa3d-8f0ac6c68d50

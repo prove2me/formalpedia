@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_inf_occ_opt
 -- name    : inf_occ_opt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:37:57.057658+00:00
 -- url     : https://prove2.me/theorems/8bc3fcc6-b456-4a7e-86d8-33d195d93622

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_inf_graph_ramsey
 -- name    : inf_graph_ramsey
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:09:13.429935+00:00
 -- url     : https://prove2.me/theorems/a256dc23-cb8f-43ac-a180-6dce86a9ebbe

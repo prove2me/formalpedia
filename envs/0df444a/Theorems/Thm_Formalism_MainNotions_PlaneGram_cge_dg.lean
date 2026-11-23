@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_cge_dg
 -- name    : Formalism.MainNotions.PlaneGram.cge_dg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:35.962689+00:00
 -- url     : https://prove2.me/theorems/1c5cd7bf-caf6-4ded-9908-41e3411fe290

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_ArithmeticCylinders_eigen_pow_eq_one
 -- name    : UpperTheory.Reformulated.B.ArithmeticCylinders.eigen_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:37.230002+00:00
 -- url     : https://prove2.me/theorems/f7338d5a-8f46-4bf6-8fc9-e6d71655a8a0

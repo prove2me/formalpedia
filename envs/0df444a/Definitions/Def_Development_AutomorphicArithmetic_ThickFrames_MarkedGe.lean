@@ -1,0 +1,27 @@
+-- Prove2me | Definitions.Def_Development_AutomorphicArithmetic_ThickFrames_MarkedGe
+-- name    : Development_AutomorphicArithmetic_ThickFrames_MarkedGe
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-23T05:07:50.228052+00:00
+-- url     : https://prove2.me/theorems/9ff38bb6-15e2-444a-a573-13b83d849efe
+-- title:
+--   Marked Ge
+-- statement:
+--   Definitions and structural lemmas for Marked Ge, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicArithmetic/ThickFrames/MarkedGe.lean
+
+import Definitions.Def_Development_AutomorphicArithmetic_ThickFrames_MarkedLow
+import Definitions.Def_Development_AutomorphicArithmetic_ThickFrames_expectationSpec
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ChoiceOfTops
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset UpperTheory.BernoulliSumsFrobeniusOrbits Formalism.G0
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_infOcc_comp_of_injective
 -- name    : infOcc_comp_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:37:37.906684+00:00
 -- url     : https://prove2.me/theorems/684953e9-f426-4591-901e-5f745b9de2cd

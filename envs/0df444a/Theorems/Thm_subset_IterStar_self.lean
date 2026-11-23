@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_subset_IterStar_self
 -- name    : subset_IterStar_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:34:22.711299+00:00
 -- url     : https://prove2.me/theorems/a51166cd-eb27-495c-beb7-580de68cb2e2

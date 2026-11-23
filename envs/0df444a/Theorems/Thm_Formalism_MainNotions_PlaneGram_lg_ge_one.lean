@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_lg_ge_one
 -- name    : Formalism.MainNotions.PlaneGram.lg_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:28.387041+00:00
 -- url     : https://prove2.me/theorems/b8593f03-6a05-414b-b382-b54094176113

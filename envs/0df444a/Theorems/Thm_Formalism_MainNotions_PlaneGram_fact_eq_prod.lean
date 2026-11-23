@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fact_eq_prod
 -- name    : Formalism.MainNotions.PlaneGram.fact_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:21.448535+00:00
 -- url     : https://prove2.me/theorems/ce3ed7c1-535d-491a-9283-35dbe603e10d

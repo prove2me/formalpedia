@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_val_nonneg_of_pow_six
 -- name    : Formalism.MainNotions.PlaneGram.val_nonneg_of_pow_six
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:23.89568+00:00
 -- url     : https://prove2.me/theorems/3d0ea8a6-83f6-4558-8f4d-f35e3e38f344

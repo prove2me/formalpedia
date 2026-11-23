@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_ramsey_lemma
 -- name    : Automata.ramsey_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:31:40.290151+00:00
 -- url     : https://prove2.me/theorems/8cd66a09-5b9b-482f-b5d3-6e45d77d27c2

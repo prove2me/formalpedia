@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TermCycDich_all_red_grid
 -- name    : TermCycDich.all_red_grid
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:46:20.645651+00:00
 -- url     : https://prove2.me/theorems/d1e6e72a-6c1e-4173-a8bb-7a957f3a43b8

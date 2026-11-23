@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_omega_reg_lang_omega_iter
 -- name    : omega_reg_lang_omega_iter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:05.959738+00:00
 -- url     : https://prove2.me/theorems/dee68bb5-a913-49f9-840b-3f523c78d877

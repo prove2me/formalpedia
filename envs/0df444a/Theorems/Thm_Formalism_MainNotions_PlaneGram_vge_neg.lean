@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vge_neg
 -- name    : Formalism.MainNotions.PlaneGram.vge_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:34.026808+00:00
 -- url     : https://prove2.me/theorems/70133a1d-5e84-4312-85f8-d0e3130dee13

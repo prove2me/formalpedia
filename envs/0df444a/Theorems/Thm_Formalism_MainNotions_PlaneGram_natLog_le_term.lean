@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_natLog_le_term
 -- name    : Formalism.MainNotions.PlaneGram.natLog_le_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:35.796066+00:00
 -- url     : https://prove2.me/theorems/6e2d4e50-ba0c-4a44-9058-86695e86b9c8

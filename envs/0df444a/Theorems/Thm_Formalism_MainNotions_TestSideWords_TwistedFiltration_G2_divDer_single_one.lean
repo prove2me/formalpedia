@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G2_divDer_single_one
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.divDer_single_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:20:46.674837+00:00
 -- url     : https://prove2.me/theorems/af398bcf-f554-4dbc-a76a-8889538a55b8

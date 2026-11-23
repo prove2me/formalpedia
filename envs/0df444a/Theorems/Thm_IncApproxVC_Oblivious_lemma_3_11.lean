@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncApproxVC_Oblivious_lemma_3_11
 -- name    : IncApproxVC.Oblivious.lemma_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:43:27.381683+00:00
 -- url     : https://prove2.me/theorems/9477f9ce-e476-435a-9293-901157f83471

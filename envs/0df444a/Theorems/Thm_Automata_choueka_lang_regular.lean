@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_choueka_lang_regular
 -- name    : Automata.choueka_lang_regular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:32:04.888781+00:00
 -- url     : https://prove2.me/theorems/d2bed97c-f7c5-4b6f-8bb8-524f9590ad47

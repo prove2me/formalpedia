@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_le_lord_sum
 -- name    : Formalism.MainNotions.PlaneGram.le_lord_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:05:58.454976+00:00
 -- url     : https://prove2.me/theorems/8d1f6631-47c9-4284-9774-f5592e5ac6c5

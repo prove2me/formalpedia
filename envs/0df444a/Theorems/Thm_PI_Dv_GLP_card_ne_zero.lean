@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_card_ne_zero
 -- name    : PI.Dv.GLP.card_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:18.807805+00:00
 -- url     : https://prove2.me/theorems/aa4cba01-2499-4715-b7d8-cdcd781d6c05

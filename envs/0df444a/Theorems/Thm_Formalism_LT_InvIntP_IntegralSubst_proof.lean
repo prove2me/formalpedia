@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_InvIntP_IntegralSubst_proof
 -- name    : Formalism.LT.InvIntP.IntegralSubst_proof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:38:10.358981+00:00
 -- url     : https://prove2.me/theorems/f8430287-e2e0-4415-8bc1-b57ffa4d202f

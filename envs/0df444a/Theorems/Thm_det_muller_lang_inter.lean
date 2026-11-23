@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_det_muller_lang_inter
 -- name    : det_muller_lang_inter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:44.121653+00:00
 -- url     : https://prove2.me/theorems/6472d3bb-1981-4f4f-a97c-93b51eeffa3c

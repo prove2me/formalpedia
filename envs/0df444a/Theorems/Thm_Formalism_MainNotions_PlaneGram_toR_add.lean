@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_toR_add
 -- name    : Formalism.MainNotions.PlaneGram.toR_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:56.079624+00:00
 -- url     : https://prove2.me/theorems/1af22e47-68b6-4030-91f1-edcef7349e13

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandCoord_platform_identity
 -- name    : OnDemandCoord.platform_identity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:22:30.460328+00:00
 -- url     : https://prove2.me/theorems/f5d7b37a-fd06-4c06-816e-4b9980f3eec9

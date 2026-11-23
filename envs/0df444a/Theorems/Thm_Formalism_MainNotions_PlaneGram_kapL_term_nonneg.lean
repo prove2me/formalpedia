@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_kapL_term_nonneg
 -- name    : Formalism.MainNotions.PlaneGram.kapL_term_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:39.413744+00:00
 -- url     : https://prove2.me/theorems/57632572-23d2-40be-aa49-98b15b7072f2

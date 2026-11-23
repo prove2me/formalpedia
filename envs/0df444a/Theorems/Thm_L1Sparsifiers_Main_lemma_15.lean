@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L1Sparsifiers_Main_lemma_15
 -- name    : L1Sparsifiers.Main.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T07:07:23.253829+00:00
 -- url     : https://prove2.me/theorems/6237c122-5337-496f-802a-f75b80a39d4a

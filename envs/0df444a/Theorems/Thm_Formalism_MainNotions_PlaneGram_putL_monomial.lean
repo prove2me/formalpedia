@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_putL_monomial
 -- name    : Formalism.MainNotions.PlaneGram.putL_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:43.868797+00:00
 -- url     : https://prove2.me/theorems/01755547-6bb0-48d6-b496-74e65b55c0b5

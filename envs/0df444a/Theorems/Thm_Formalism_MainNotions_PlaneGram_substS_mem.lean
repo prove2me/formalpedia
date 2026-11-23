@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_substS_mem
 -- name    : Formalism.MainNotions.PlaneGram.substS_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:46.234882+00:00
 -- url     : https://prove2.me/theorems/58eb06d5-db84-4a62-80a5-0eee6154c1b0

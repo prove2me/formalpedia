@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDiag_dotProduct_mulVec_comp_eq_sum
 -- name    : GlobalTheory.HermDiag.dotProduct_mulVec_comp_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:36.106182+00:00
 -- url     : https://prove2.me/theorems/22c4fa18-b1aa-4dd4-adea-e9c48196037d

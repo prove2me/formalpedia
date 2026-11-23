@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_omega_reg_lang_iff_finite_union_form
 -- name    : omega_reg_lang_iff_finite_union_form
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:48:46.575129+00:00
 -- url     : https://prove2.me/theorems/a3dca705-e7d3-4a8f-899a-e7f8b84242c1

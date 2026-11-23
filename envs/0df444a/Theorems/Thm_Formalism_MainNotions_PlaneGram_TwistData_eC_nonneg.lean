@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_eC_nonneg
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.eC_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:12.61628+00:00
 -- url     : https://prove2.me/theorems/e0f2c5e9-49d8-4870-8e5b-4b8d69e5f61e

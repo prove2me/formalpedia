@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_buchi_congr_finite_index
 -- name    : Automata.buchi_congr_finite_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:48:17.357331+00:00
 -- url     : https://prove2.me/theorems/94378ff8-e30d-4343-8deb-f076431b9805

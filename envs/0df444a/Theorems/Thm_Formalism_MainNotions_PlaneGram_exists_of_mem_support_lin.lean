@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_exists_of_mem_support_lin
 -- name    : Formalism.MainNotions.PlaneGram.exists_of_mem_support_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:31.224511+00:00
 -- url     : https://prove2.me/theorems/f3b98039-ed9b-45a6-9d00-e4ba0c3d70a6

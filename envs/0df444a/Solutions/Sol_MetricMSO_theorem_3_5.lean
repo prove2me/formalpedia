@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MetricMSO.theorem_3_5
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-23T04:47:27.197433+00:00
 -- url     : https://prove2.me/submissions/603cca7b-3706-44b9-84b0-7044274543e4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MetricMSO_cbl

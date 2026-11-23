@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_isPrimOf_prim
 -- name    : Formalism.HC.HostRaw.isPrimOf_prim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:13:58.76974+00:00
 -- url     : https://prove2.me/theorems/1a5ebc0e-bea1-4b13-bff0-ae5297f736c3

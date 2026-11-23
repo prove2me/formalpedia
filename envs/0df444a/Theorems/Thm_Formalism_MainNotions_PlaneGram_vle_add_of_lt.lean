@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vle_add_of_lt
 -- name    : Formalism.MainNotions.PlaneGram.vle_add_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:36.450815+00:00
 -- url     : https://prove2.me/theorems/8e6542e6-d35a-4a5d-9d09-75bdc1132588

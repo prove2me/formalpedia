@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandCoord_priorityAlloc_noWaste
 -- name    : OnDemandCoord.priorityAlloc_noWaste
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:22:10.953985+00:00
 -- url     : https://prove2.me/theorems/e92f472b-e1d8-4b92-ba10-d4b7d7f8f1a2

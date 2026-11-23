@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_omega_reg_lang_omega_limit
 -- name    : omega_reg_lang_omega_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:17.512038+00:00
 -- url     : https://prove2.me/theorems/16cf08e9-7259-408c-8af7-66863577d191

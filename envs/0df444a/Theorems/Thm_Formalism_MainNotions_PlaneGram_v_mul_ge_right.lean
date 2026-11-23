@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_v_mul_ge_right
 -- name    : Formalism.MainNotions.PlaneGram.v_mul_ge_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:01.39643+00:00
 -- url     : https://prove2.me/theorems/dbe5bb5b-6aff-47ba-8b9e-0b4ea397cc04

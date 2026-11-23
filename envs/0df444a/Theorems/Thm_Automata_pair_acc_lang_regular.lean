@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_pair_acc_lang_regular
 -- name    : Automata.pair_acc_lang_regular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:46:59.099235+00:00
 -- url     : https://prove2.me/theorems/2ef62093-5013-4a8a-9e81-3f16db69f3b3

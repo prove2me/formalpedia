@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fact_add_eq
 -- name    : Formalism.MainNotions.PlaneGram.fact_add_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:22.372666+00:00
 -- url     : https://prove2.me/theorems/6f0fc4cd-a239-4389-919d-1a99f85b37af

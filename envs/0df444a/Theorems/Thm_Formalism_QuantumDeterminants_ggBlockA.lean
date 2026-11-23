@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ggBlockA
 -- name    : Formalism.QuantumDeterminants.ggBlockA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:57:18.429832+00:00
 -- url     : https://prove2.me/theorems/1c3a116d-5ccf-47ac-ac1a-2e7143717c58

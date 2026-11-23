@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_omega_reg_lang_biUnion
 -- name    : omega_reg_lang_biUnion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:48:58.945121+00:00
 -- url     : https://prove2.me/theorems/8e5cde37-4ba2-4d9f-8e42-a1f11399213d

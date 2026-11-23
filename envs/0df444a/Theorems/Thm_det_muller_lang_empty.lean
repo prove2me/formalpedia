@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_det_muller_lang_empty
 -- name    : det_muller_lang_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:38.61381+00:00
 -- url     : https://prove2.me/theorems/6ad0967a-4db6-49fc-ba94-c5fa335619ec

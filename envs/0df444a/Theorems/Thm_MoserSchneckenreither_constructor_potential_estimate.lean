@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoserSchneckenreither_constructor_potential_estimate
 -- name    : MoserSchneckenreither.constructor_potential_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-21T08:58:38.010422+00:00
 -- url     : https://prove2.me/theorems/aac6450d-bd92-4b77-8fad-ed75f78243fc

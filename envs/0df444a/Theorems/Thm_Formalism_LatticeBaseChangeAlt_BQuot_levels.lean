@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_BQuot_levels
 -- name    : Formalism.LatticeBaseChangeAlt.BQuot.levels
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:21:48.879971+00:00
 -- url     : https://prove2.me/theorems/9e9d5e15-e215-4a7b-a661-785040cfc7fd

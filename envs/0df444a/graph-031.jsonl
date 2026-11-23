@@ -64440,9 +64440,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg28802", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30321", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "Thm11SourceRoute.finite_discontinuity_alpha_local_increment_data", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
-{"parent": "MLManagesComplexity.theorem_6_1", "child": "MLManagesComplexity_PolyMaxEntropy", "via": ["statement"]}
-{"parent": "MLManagesComplexity.theorem_6_1", "child": "MLManagesComplexity_CompIndist", "via": ["statement"]}
-{"parent": "MLManagesComplexity.theorem_6_1", "child": "MLManagesComplexity_PPolyComputable", "via": ["statement"]}
+{"parent": "MLManagesComplexity.theorem_6_1", "child": "MLManagesComplexity_PolyMaxEntropy", "via": ["solution", "statement"]}
+{"parent": "MLManagesComplexity.theorem_6_1", "child": "MLManagesComplexity_CompIndist", "via": ["solution", "statement"]}
+{"parent": "MLManagesComplexity.theorem_6_1", "child": "MLManagesComplexity_PPolyComputable", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39916", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34948", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40533", "child": "OAIQ259US007", "via": ["solution", "statement"]}

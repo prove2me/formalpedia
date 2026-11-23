@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_segment__zero_b18716f7ae0d
 -- name    : P2M_segment__zero_b18716f7ae0d
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:33:40.288531+00:00
 -- url     : https://prove2.me/theorems/e5ddb1eb-3183-418a-b795-6a22efd52a6c

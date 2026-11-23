@@ -54358,8 +54358,8 @@
 {"parent": "LX.AnchoredPhases.next_occupied_phase_with_order", "child": "LX_MinimumHeightRanks", "via": ["solution", "statement"]}
 {"parent": "LX.AnchoredPhases.next_occupied_phase_with_order", "child": "LX_WordMetric", "via": ["solution", "statement"]}
 {"parent": "levy_foundations_posDefMatrixPosSemidef", "child": "levy_foundations_isPositiveDefinite", "via": ["solution", "statement"]}
-{"parent": "MobilePromo.lemma_A1_i", "child": "MobilePromo_Assumption1", "via": ["statement"]}
-{"parent": "MobilePromo.lemma_A1_i", "child": "MobilePromo_V", "via": ["statement"]}
+{"parent": "MobilePromo.lemma_A1_i", "child": "MobilePromo_Assumption1", "via": ["solution", "statement"]}
+{"parent": "MobilePromo.lemma_A1_i", "child": "MobilePromo_V", "via": ["solution", "statement"]}
 {"parent": "PLIAG.eq_C_15", "child": "PLIAG_alpha0", "via": ["solution", "statement"]}
 {"parent": "LX.LiftedScan.exact_positions_of_zero", "child": "LX_WordMetric", "via": ["solution", "statement"]}
 {"parent": "LX.LiftedScan.exact_positions_of_zero", "child": "LX_AffineScan", "via": ["solution", "statement"]}
@@ -55283,7 +55283,7 @@
 {"parent": "AvramDividend.Classical.avram_wave7_07_original_stopped_C2_joint_predictable_thinning_finite_energy", "child": "AvramDividend.Classical.avram_wave5_03b_actual_ruin_stopped_full_negative_C2_taylor_predictable_L1_L2", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_07_original_stopped_C2_joint_predictable_thinning_finite_energy", "child": "AvramDividend.Classical.avram_wave7_07_original_stopped_C2_joint_predictable_mark_thinning_drift", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_07_original_stopped_C2_joint_predictable_thinning_finite_energy", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "OnDemandCoord.eq_15", "child": "OnDemandCoord_Coordinates", "via": ["statement"]}
+{"parent": "OnDemandCoord.eq_15", "child": "OnDemandCoord_Coordinates", "via": ["solution", "statement"]}
 {"parent": "QuantumMaxCutEnergy.internalSum_le_half_card", "child": "QuantumMaxCutEdgeLoads", "via": ["solution", "statement"]}
 {"parent": "QuantumMaxCutEnergy.internalSum_le_half_card", "child": "QuantumMaxCutEdgeInternalSum", "via": ["solution", "statement"]}
 {"parent": "QuantumMaxCutEnergy.internalSum_le_half_card", "child": "QuantumMaxCutEnergyEstimationModel", "via": ["solution", "statement"]}
@@ -60174,7 +60174,7 @@
 {"parent": "FreeOrderEPTAS.value_eq_recursion", "child": "FreeOrderEPTAS_V", "via": ["solution", "statement"]}
 {"parent": "FreeOrderEPTAS.value_eq_recursion", "child": "FreeOrderEPTAS_thresholdRule", "via": ["solution", "statement"]}
 {"parent": "FreeOrderEPTAS.value_eq_recursion", "child": "FreeOrderEPTAS_freeOrder", "via": ["solution", "statement"]}
-{"parent": "OnDemandCoord.platform_identity", "child": "OnDemandCoord_Coordinates", "via": ["statement"]}
+{"parent": "OnDemandCoord.platform_identity", "child": "OnDemandCoord_Coordinates", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_19_original_spatial_localisation_ae_exhaustion_cash_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_19_original_spatial_localisation_ae_exhaustion_cash_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_03_original_lower_discount_finite_implies_ae_full_signed_L1_higher_discount", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -60276,7 +60276,7 @@
 {"parent": "AvramDividend.Classical.avram_wave6_03_original_rightCont_stopped_gaussian_history_weighted_condExp_zero", "child": "AvramDividend.Classical.avram_wave6_03_original_rightCont_stopped_gaussian_condExp_mean_variance", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_03_original_rightCont_stopped_gaussian_history_weighted_condExp_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "ProxFlatIP.proposition_9", "child": "ProxFlatIP_PlanarPolar", "via": ["statement"]}
-{"parent": "OnDemandCoord.priorityAlloc_noWaste", "child": "OnDemandCoord_Coordinates", "via": ["statement"]}
+{"parent": "OnDemandCoord.priorityAlloc_noWaste", "child": "OnDemandCoord_Coordinates", "via": ["solution", "statement"]}
 {"parent": "LX.Core.FiniteCuts.no_adjacent_pair_straddles_fixed", "child": "LX_Graph", "via": ["solution", "statement"]}
 {"parent": "LX.Core.FiniteCuts.no_adjacent_pair_straddles_fixed", "child": "LX_LinearMatchingGeometry", "via": ["solution", "statement"]}
 {"parent": "OAIQ098D332", "child": "OAIQ098D264", "via": ["statement"]}

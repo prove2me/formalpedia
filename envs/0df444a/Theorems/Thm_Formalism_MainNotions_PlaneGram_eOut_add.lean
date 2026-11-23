@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_eOut_add
 -- name    : Formalism.MainNotions.PlaneGram.eOut_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:02.606499+00:00
 -- url     : https://prove2.me/theorems/a8ab0a8e-36bb-4214-af84-6e5eeda2fc63

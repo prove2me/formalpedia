@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MobilePromo_lemma_A1_i
 -- name    : MobilePromo.lemma_A1_i
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:16:59.25033+00:00
 -- url     : https://prove2.me/theorems/1b9f8ab9-2d83-48a5-a245-2e40c51e5659

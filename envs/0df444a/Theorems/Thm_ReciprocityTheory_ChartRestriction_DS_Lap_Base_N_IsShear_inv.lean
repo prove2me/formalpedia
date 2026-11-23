@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_IsShear_inv
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.IsShear.inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:41:40.017177+00:00
 -- url     : https://prove2.me/theorems/03558546-2bd9-4d07-936e-4ef8abab0533

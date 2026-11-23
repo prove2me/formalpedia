@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptStochMatch_Tight_lemma_3_2
 -- name    : OptStochMatch.Tight.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T02:53:37.769814+00:00
 -- url     : https://prove2.me/theorems/f48c66a3-5d73-4bee-be9b-97769814a1b7

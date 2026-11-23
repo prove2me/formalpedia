@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDiag_herm_eq_dotProduct
 -- name    : GlobalTheory.HermDiag.herm_eq_dotProduct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:57.115794+00:00
 -- url     : https://prove2.me/theorems/83c0ac0c-180e-4dbe-81bc-a7c8523e48b0

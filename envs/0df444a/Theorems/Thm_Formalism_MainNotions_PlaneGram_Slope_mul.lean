@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_Slope_mul
 -- name    : Formalism.MainNotions.PlaneGram.Slope.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:46:14.062063+00:00
 -- url     : https://prove2.me/theorems/0fe3054a-736a-47b3-abb7-204d627b3ff6

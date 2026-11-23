@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_range_first_embedding
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.range_first_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:00.67487+00:00
 -- url     : https://prove2.me/theorems/b518cb71-87eb-4f3d-8370-2d8a6560e997

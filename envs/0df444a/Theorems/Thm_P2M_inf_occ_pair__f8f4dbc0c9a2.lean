@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_inf_occ_pair__f8f4dbc0c9a2
 -- name    : P2M_inf_occ_pair__f8f4dbc0c9a2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:37:43.767203+00:00
 -- url     : https://prove2.me/theorems/607dc935-6158-47ab-a78a-dcea28f8dab7

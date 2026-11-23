@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_ddiv_monomial__64d37c5132b7
 -- name    : P2M_Formalism_MainNotions_PlaneGram_ddiv_monomial__64d37c5132b7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:18:09.287592+00:00
 -- url     : https://prove2.me/theorems/8f43bbfb-6eca-4fcb-9cf6-c30b5a6cc2db

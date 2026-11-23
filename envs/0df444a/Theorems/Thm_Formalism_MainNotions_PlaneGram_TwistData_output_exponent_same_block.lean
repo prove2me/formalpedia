@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_output_exponent_same_block
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.output_exponent_same_block
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:37.469389+00:00
 -- url     : https://prove2.me/theorems/7547f04b-78e7-4715-bae3-ce2c2d6cb778

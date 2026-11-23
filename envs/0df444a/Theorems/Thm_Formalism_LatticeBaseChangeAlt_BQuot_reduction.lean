@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_BQuot_reduction
 -- name    : Formalism.LatticeBaseChangeAlt.BQuot.reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:21:47.404099+00:00
 -- url     : https://prove2.me/theorems/51145b51-4a73-42d3-9c97-74f2f1da906a

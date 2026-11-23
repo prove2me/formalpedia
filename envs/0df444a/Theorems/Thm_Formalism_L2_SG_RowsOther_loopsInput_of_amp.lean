@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_loopsInput_of_amp
 -- name    : Formalism.L2.SG.RowsOther.loopsInput_of_amp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:18.031809+00:00
 -- url     : https://prove2.me/theorems/669c71e3-1b0e-4ecd-a783-39452aa35f97

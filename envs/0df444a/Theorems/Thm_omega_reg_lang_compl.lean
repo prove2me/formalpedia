@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_omega_reg_lang_compl
 -- name    : omega_reg_lang_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:21.849015+00:00
 -- url     : https://prove2.me/theorems/fca02a5f-104f-4831-a2b6-941a059a8203

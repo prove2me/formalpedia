@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_CostOK_sum
 -- name    : Formalism.MainNotions.PlaneGram.CostOK.sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:03:05.624083+00:00
 -- url     : https://prove2.me/theorems/adbdf37f-9a59-433b-b483-c4a0d4a08943

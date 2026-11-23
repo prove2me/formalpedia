@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_Ps1_isOpen_Uset
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.Ps1.isOpen_Uset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:13:04.465818+00:00
 -- url     : https://prove2.me/theorems/45be4fdc-8020-4d04-a785-6138b7bb7b1f

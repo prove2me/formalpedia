@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_img_places
 -- name    : Formalism.MainNotions.J.img_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:39.775059+00:00
 -- url     : https://prove2.me/theorems/33a87a4d-a8b4-46b1-99bb-39d4eca647c1

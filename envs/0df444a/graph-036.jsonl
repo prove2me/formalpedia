@@ -284,7 +284,7 @@
 {"parent": "LevyStochCalc_Brownian_ItoL2CompletionApi_F000", "child": "SourceProof_7aea30f549f53f05062f1907", "via": ["statement"]}
 {"parent": "LevyStochCalc_Brownian_ItoL2CompletionApi_F000", "child": "LevyStochCalc_Brownian_ItoL2CompletionQuadVar_F001", "via": ["statement"]}
 {"parent": "LevyStochCalc_Brownian_ItoL2CompletionApi_F000", "child": "LevyStochCalc_Brownian_ItoL2CompletionQuadVar_F002", "via": ["statement"]}
-{"parent": "BergerSchwichtenberg1991V2.completeness_pr_models", "child": "BergerSchwichtenberg1991V2_Models", "via": ["statement"]}
+{"parent": "BergerSchwichtenberg1991V2.completeness_pr_models", "child": "BergerSchwichtenberg1991V2_Models", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05.group_085", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S05.group_085", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S05.group_085", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -20980,7 +20980,7 @@
 {"parent": "RH1E6S05.part_059_2", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S05.part_059_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05.part_059_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "BergerSchwichtenberg1991V2.lemma_2", "child": "BergerSchwichtenberg1991V2_Syntax", "via": ["statement"]}
+{"parent": "BergerSchwichtenberg1991V2.lemma_2", "child": "BergerSchwichtenberg1991V2_Syntax", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04.group_060", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S04.group_060", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S04.group_060", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -21744,9 +21744,9 @@
 {"parent": "RiemannMasullo.infiniteIdeleNorm_ker_closed", "child": "RiemannMasullo_InfiniteIdeleLogNorm", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch08.StageB.source_result81_restart_payoff_split", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
 {"parent": "LL_Gauss_lower_window_high_gaussianMellin", "child": "LL_Gauss_lower_window_high_e", "via": ["statement"]}
-{"parent": "AutoformalisationSCI.theorem_A_3", "child": "AutoformalisationSCI_Arith", "via": ["statement"]}
-{"parent": "AutoformalisationSCI.theorem_A_3", "child": "AutoformalisationSCI_Poly", "via": ["statement"]}
-{"parent": "AutoformalisationSCI.theorem_A_3", "child": "AutoformalisationSCI_Oracle", "via": ["statement"]}
+{"parent": "AutoformalisationSCI.theorem_A_3", "child": "AutoformalisationSCI_Arith", "via": ["solution", "statement"]}
+{"parent": "AutoformalisationSCI.theorem_A_3", "child": "AutoformalisationSCI_Poly", "via": ["solution", "statement"]}
+{"parent": "AutoformalisationSCI.theorem_A_3", "child": "AutoformalisationSCI_Oracle", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05_D025_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "JardenShami.power_lt_of_isInaccessible", "child": "MyResearchesLLMLean_JardenShami_Section5", "via": ["solution", "statement"]}
 {"parent": "JardenShami.power_lt_of_isInaccessible", "child": "MyResearchesLLMLean_JardenShami_Section6", "via": ["solution", "statement"]}
@@ -27769,7 +27769,7 @@
 {"parent": "RH1E6S03.group_062", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S03.group_062", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S03.group_062", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "AutoformalisationSCI.dSetL_two_eq_dSet", "child": "AutoformalisationSCI_Poly", "via": ["statement"]}
+{"parent": "AutoformalisationSCI.dSetL_two_eq_dSet", "child": "AutoformalisationSCI_Poly", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05_D078_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S06.part_010_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S06.part_010_0", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
@@ -28346,7 +28346,7 @@
 {"parent": "RH1E6S05.part_044_2", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S05.part_044_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05.part_044_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "BergerSchwichtenberg1991V2.lemma_4", "child": "BergerSchwichtenberg1991V2_Models", "via": ["statement"]}
+{"parent": "BergerSchwichtenberg1991V2.lemma_4", "child": "BergerSchwichtenberg1991V2_Models", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04.part_020_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S04.part_020_2", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S04.part_020_2", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -46652,7 +46652,7 @@
 {"parent": "RH1E6S04.part_058_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "LevyStochCalc.Brownian.Ito.itoFormula_stopped_general", "child": "LevyStochCalc_Ito_ItoFormulaStopped_F000", "via": ["statement"]}
 {"parent": "RH1E6S06_D044_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "BergerSchwichtenberg1991V2.lemma_1", "child": "BergerSchwichtenberg1991V2_Syntax", "via": ["statement"]}
+{"parent": "BergerSchwichtenberg1991V2.lemma_1", "child": "BergerSchwichtenberg1991V2_Syntax", "via": ["solution", "statement"]}
 {"parent": "RH1E6S08_D037_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "LevyStochCalc.Poisson.Compensated.markStepIntegral_diff_isometry", "child": "LevyStochCalc_Poisson_CompensatedDensityRefinement_F001", "via": ["statement"]}
 {"parent": "RH1E6S03.part_058_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}

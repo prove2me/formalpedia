@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncApproxVC_Oblivious_lemma_6_3
 -- name    : IncApproxVC.Oblivious.lemma_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:43:29.764789+00:00
 -- url     : https://prove2.me/theorems/c415158d-9ab4-40d4-86e0-27cf89f17f6a

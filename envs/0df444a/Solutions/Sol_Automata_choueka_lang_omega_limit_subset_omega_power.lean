@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Automata.choueka_lang_omega_limit_subset_omega_power
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-23T04:50:01.684461+00:00
 -- url     : https://prove2.me/submissions/f096a8fc-6a0b-4103-86e4-d90e27038503
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AutomataTheory_Languages_RegLang
 import Definitions.Def_AutomataTheory_Mathlib_InfGraphRamsey

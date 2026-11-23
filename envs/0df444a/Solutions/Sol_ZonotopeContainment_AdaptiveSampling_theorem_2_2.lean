@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ZonotopeContainment.AdaptiveSampling.theorem_2_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-23T03:48:07.366457+00:00
 -- url     : https://prove2.me/submissions/e8c96039-5c2d-4478-9931-bd6d520f7d20
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ZonotopeContainment_AdaptiveSampling_Algorithm

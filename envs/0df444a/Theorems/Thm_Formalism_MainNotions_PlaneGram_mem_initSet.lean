@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_mem_initSet
 -- name    : Formalism.MainNotions.PlaneGram.mem_initSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:39.360114+00:00
 -- url     : https://prove2.me/theorems/3278314f-969c-470a-a5ba-fcd2b4b0ebff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoserSchneckenreither_lemma_4
 -- name    : MoserSchneckenreither.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-21T08:57:35.541037+00:00
 -- url     : https://prove2.me/theorems/f41d32d8-80eb-4245-a31f-67551beb24b7

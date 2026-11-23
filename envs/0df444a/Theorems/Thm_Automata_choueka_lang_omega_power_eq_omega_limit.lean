@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_choueka_lang_omega_power_eq_omega_limit
 -- name    : Automata.choueka_lang_omega_power_eq_omega_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:31:44.985038+00:00
 -- url     : https://prove2.me/theorems/029da5b1-b9f6-44cf-977c-9eea43337c76

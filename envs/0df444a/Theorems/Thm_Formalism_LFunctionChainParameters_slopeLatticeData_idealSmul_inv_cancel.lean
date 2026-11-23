@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_idealSmul_inv_cancel
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.idealSmul_inv_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:13:29.790376+00:00
 -- url     : https://prove2.me/theorems/2630b28e-9099-46b7-9206-8f7e36200214

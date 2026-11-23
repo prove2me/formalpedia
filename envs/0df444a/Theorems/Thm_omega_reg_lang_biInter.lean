@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_omega_reg_lang_biInter
 -- name    : omega_reg_lang_biInter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:49:02.748787+00:00
 -- url     : https://prove2.me/theorems/d5325d1b-0212-4213-9b3f-df5ca324450a
