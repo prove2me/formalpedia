@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har4_mem_latOf_iff
 -- name    : Formalism.CountingSumsFrames.Har4.mem_latOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:30:16.233412+00:00
 -- url     : https://prove2.me/theorems/21fab349-25fa-4326-97ce-72b825712adb

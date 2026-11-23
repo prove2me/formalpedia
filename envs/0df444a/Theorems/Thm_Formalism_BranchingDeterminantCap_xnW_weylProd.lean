@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xnW_weylProd
 -- name    : Formalism.BranchingDeterminantCap.xnW_weylProd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:30:00.595415+00:00
 -- url     : https://prove2.me/theorems/8c1cc714-f8fa-4cb5-bf71-8a0dac416fac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_GluingInclusion_conjIdeal_eq
 -- name    : Formalism.DivisionValues.GluingInclusion.conjIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:28:51.250534+00:00
 -- url     : https://prove2.me/theorems/9cfb4317-08dd-4ee6-bc50-3d9bc5288157

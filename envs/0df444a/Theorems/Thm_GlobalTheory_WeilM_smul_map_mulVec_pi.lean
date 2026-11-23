@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_smul_map_mulVec_pi
 -- name    : GlobalTheory.WeilM.smul_map_mulVec_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:28:50.328121+00:00
 -- url     : https://prove2.me/theorems/7b6d7db1-d908-46f9-989f-93821af9ab7b

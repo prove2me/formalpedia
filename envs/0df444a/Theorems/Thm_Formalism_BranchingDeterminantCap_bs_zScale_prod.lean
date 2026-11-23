@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bs_zScale_prod
 -- name    : Formalism.BranchingDeterminantCap.bs_zScale_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:24.819713+00:00
 -- url     : https://prove2.me/theorems/84b85551-67c3-49c8-b5ba-e8f8ae2dc21b

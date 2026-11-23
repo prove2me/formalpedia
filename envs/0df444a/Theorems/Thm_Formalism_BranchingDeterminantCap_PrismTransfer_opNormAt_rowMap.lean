@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_PrismTransfer_opNormAt_rowMap
 -- name    : Formalism.BranchingDeterminantCap.PrismTransfer.opNormAt_rowMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:19:13.010888+00:00
 -- url     : https://prove2.me/theorems/159d1708-8d1a-45bd-b327-630ddcd939e8

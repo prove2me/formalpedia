@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har2_har_of_right
 -- name    : Formalism.CountingSumsFrames.Har2.har_of_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:34:48.567496+00:00
 -- url     : https://prove2.me/theorems/4b97c214-f63f-4753-8425-f761991c93eb

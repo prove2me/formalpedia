@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscrNeWork_discr_ne_of_pos
 -- name    : DiscrNeWork.discr_ne_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:51.712908+00:00
 -- url     : https://prove2.me/theorems/f3cd300b-e0e5-4c47-88e2-c45efc692eff

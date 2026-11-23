@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingCumulantODEUniqueOfLocallyLipschitzMechanism
 -- name    : Kyprianou.Ch01.branchingCumulantODEUniqueOfLocallyLipschitzMechanism
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:17:14.454797+00:00
 -- url     : https://prove2.me/theorems/a2ce8794-4155-483a-a894-aacfe9658289

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_q_multiplicative_holds
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.q_multiplicative_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:16.02281+00:00
 -- url     : https://prove2.me/theorems/f67aa5af-a931-450a-a922-889dadd3083e

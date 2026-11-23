@@ -1,0 +1,26 @@
+-- Prove2me | solution 1 for CompanionTheory.D.gk.RF.perp_symm
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T10:44:00.426969+00:00
+-- url     : https://prove2.me/submissions/913c1052-3092-46fa-b9be-d1550847e11f
+
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_FundamentalDomainCusps_NilpAlg
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_FundamentalDomainCusps_NilpotentSubgroupRepresentation
+import Theorems.Thm_CompanionTheory_D_gk_RF_hf_star
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix
+noncomputable section
+open CompanionTheory CompanionTheory.D CompanionTheory.D.gk CompanionTheory.D.gk.RF
+variable {K : Type} [Field K] [StarRing K] {n : ℕ} {J : Matrix (Fin n) (Fin n) K} {W : Submodule K (Fin n → K)}
+namespace CompanionTheory.D.gk.RF
+theorem _root_.solution (hJ : Jᴴ = J) {b w : Fin n → K} (hb : b ∈ perp J W) (hw : w ∈ W) : hf J b w = 0 := by
+  rw [← hf_star hJ, hb w hw, star_zero]
+end CompanionTheory.D.gk.RF

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmA_Pi_perm
 -- name    : Formalism.BranchingDeterminantCap.bmA_Pi_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:19:27.123656+00:00
 -- url     : https://prove2.me/theorems/174685fd-8655-4b94-aa8b-12dfa41eef59

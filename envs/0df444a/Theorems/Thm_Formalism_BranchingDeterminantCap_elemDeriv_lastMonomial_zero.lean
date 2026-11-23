@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_elemDeriv_lastMonomial_zero
 -- name    : Formalism.BranchingDeterminantCap.elemDeriv_lastMonomial_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:43.614533+00:00
 -- url     : https://prove2.me/theorems/bcdfadc4-bbaa-4594-ab6e-c3250eaa78e7

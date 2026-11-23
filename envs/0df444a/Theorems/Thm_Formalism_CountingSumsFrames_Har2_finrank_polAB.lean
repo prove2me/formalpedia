@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har2_finrank_polAB
 -- name    : Formalism.CountingSumsFrames.Har2.finrank_polAB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:34:32.17211+00:00
 -- url     : https://prove2.me/theorems/37526bfb-f41d-4620-8713-0a482bd61c40

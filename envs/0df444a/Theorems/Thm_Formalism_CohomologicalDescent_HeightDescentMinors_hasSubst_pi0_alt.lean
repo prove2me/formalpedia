@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_hasSubst_pi0_alt
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.hasSubst_pi0_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:18:51.128959+00:00
 -- url     : https://prove2.me/theorems/4fef1753-41a7-4072-a5e0-456cf13cf653

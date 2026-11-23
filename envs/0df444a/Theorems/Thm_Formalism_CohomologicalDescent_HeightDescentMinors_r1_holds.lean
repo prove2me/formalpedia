@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_r1_holds
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.r1_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:29.955056+00:00
 -- url     : https://prove2.me/theorems/4bce0f20-2ad3-4207-8ded-2baa7bc04157

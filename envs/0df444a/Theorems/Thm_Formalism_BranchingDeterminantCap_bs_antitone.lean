@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bs_antitone
 -- name    : Formalism.BranchingDeterminantCap.bs_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:45.254013+00:00
 -- url     : https://prove2.me/theorems/5ac1c45d-4a7e-42dd-ac0e-ea59fd0fa2b9

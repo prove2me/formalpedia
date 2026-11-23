@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmE_sep_op
 -- name    : Formalism.BranchingDeterminantCap.bmE_sep_op
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:20:42.497211+00:00
 -- url     : https://prove2.me/theorems/046826b0-c9bb-4156-82b4-b20de13cc4bc

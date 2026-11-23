@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_eq_sum_subst_unit_mul_X_pow
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.eq_sum_subst_unit_mul_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:40.244539+00:00
 -- url     : https://prove2.me/theorems/4d67bc38-153b-46c1-9f47-15967fd8982b

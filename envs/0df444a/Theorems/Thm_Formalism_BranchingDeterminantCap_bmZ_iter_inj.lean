@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmZ_iter_inj
 -- name    : Formalism.BranchingDeterminantCap.bmZ_iter_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:24:41.489997+00:00
 -- url     : https://prove2.me/theorems/c9dcfb4d-617f-4b92-b218-0375c25200cf

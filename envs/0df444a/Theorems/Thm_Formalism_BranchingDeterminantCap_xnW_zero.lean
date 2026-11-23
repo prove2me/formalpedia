@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xnW_zero
 -- name    : Formalism.BranchingDeterminantCap.xnW_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:30:02.940828+00:00
 -- url     : https://prove2.me/theorems/60bc718e-a654-474d-8d47-0a4facbff4fe

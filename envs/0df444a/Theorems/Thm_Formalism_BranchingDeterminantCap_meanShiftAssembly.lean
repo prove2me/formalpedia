@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_meanShiftAssembly
 -- name    : Formalism.BranchingDeterminantCap.meanShiftAssembly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:24.904248+00:00
 -- url     : https://prove2.me/theorems/4510fc64-46d8-4b8b-b3e5-55caae8896c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bs_extM_conj
 -- name    : Formalism.BranchingDeterminantCap.bs_extM_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:29.990584+00:00
 -- url     : https://prove2.me/theorems/dc947e90-72cf-4ed8-bc61-23c67dea3df5

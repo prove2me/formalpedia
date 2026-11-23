@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bs_abel
 -- name    : Formalism.BranchingDeterminantCap.bs_abel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:51.481932+00:00
 -- url     : https://prove2.me/theorems/c89821b1-1f7a-480c-babe-71cac192bc3b

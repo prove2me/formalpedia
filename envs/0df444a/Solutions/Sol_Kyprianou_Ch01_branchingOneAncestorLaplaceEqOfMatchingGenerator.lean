@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.branchingOneAncestorLaplaceEqOfMatchingGenerator
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T07:51:38.903205+00:00
 -- url     : https://prove2.me/submissions/34dc55f5-fc08-44b2-bf9e-8e03929839d1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.ProbabilityMassFunction.Basic
 import Definitions.Def_Kyprianou_Ch01_BranchingClocks

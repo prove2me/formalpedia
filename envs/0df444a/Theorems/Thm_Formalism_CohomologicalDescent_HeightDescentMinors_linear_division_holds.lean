@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_linear_division_holds
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.linear_division_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:02.829644+00:00
 -- url     : https://prove2.me/theorems/5bbf9460-ae0d-4bf7-b12a-efa46c205b02

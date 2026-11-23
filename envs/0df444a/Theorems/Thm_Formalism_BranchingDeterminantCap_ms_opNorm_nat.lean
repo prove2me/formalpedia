@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_ms_opNorm_nat
 -- name    : Formalism.BranchingDeterminantCap.ms_opNorm_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:27:00.951708+00:00
 -- url     : https://prove2.me/theorems/82ccd1da-6c2e-4d0c-9289-789711108a6b

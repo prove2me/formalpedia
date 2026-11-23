@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_rowAction_ext_elemDeriv_X
 -- name    : Formalism.BranchingDeterminantCap.rowAction_ext_elemDeriv_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:28:22.42575+00:00
 -- url     : https://prove2.me/theorems/58a39d66-9c4b-454b-b08e-92da3aea642e

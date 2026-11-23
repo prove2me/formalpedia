@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmF_lead_WH
 -- name    : Formalism.BranchingDeterminantCap.bmF_lead_WH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:22:37.425043+00:00
 -- url     : https://prove2.me/theorems/05362b28-705c-40f1-ae98-5eb10dd9e131

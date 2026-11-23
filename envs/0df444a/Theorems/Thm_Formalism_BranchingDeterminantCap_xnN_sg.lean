@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xnN_sg
 -- name    : Formalism.BranchingDeterminantCap.xnN_sg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:52.875814+00:00
 -- url     : https://prove2.me/theorems/50662d81-df79-475e-81fe-50da0c5d70f5

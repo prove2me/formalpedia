@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_K_int
 -- name    : Formalism.UG.P.fSatake_K_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:28:53.228228+00:00
 -- url     : https://prove2.me/theorems/d1fbde89-c1aa-495a-a166-43400edf4d03

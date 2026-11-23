@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bm_lastcomp_comm_bmEL
 -- name    : Formalism.BranchingDeterminantCap.bm_lastcomp_comm_bmEL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:14.958789+00:00
 -- url     : https://prove2.me/theorems/a3ffb92f-2d3e-4242-b551-f001ff4626bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_one_sub_sum_le_prod
 -- name    : Formalism.BranchingDeterminantCap.one_sub_sum_le_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:40.255797+00:00
 -- url     : https://prove2.me/theorems/ec9f1028-88de-4164-b361-d2021e54b9d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_mu_facts_hold
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.mu_facts_hold
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:03:47.147362+00:00
 -- url     : https://prove2.me/theorems/8f0a02cf-3bad-4489-96d0-8b129f0aee44

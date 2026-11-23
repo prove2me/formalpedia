@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_UnitRoot_invol
 -- name    : GlobalTheory.AdLat.UnitRoot.invol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:06.446854+00:00
 -- url     : https://prove2.me/theorems/93797fda-3274-439f-ad00-d48f3d0f8067

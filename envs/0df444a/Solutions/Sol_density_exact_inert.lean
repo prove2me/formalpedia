@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for density_exact_inert
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T10:29:17.850819+00:00
+-- url     : https://prove2.me/submissions/0b80a3bc-d137-449c-84b2-c10b052711e5
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_SiegelLatticeTheory_SiegelMassRatios_DensExact
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_DensExactInertOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_DensityProductAddTwoSuccSucc
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_RepCountCongruenceInvariant
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_HermitianDiagonalization
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_AnisoPeel
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_IsoPeel
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_DensInert
+import Theorems.Thm_DensInertW_anisotropic_valuation_peel
+import Theorems.Thm_DensInertW_densExactInert_of
+import Theorems.Thm_DensInertW_hermitianDiagonalization
+import Theorems.Thm_DensInertW_isotropic_valuation_peel
+import Theorems.Thm_DensInertW_quadraticDifferenceArith
+import Theorems.Thm_DensInertW_repCountCongruenceInvariant
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+theorem _root_.solution : Formalism.L2.SG.DensExact.DensExactInert :=
+  DensInertW.densExactInert_of DensInertW.hermitianDiagonalization DensInertW.repCountCongruenceInvariant
+    DensInertW.anisotropic_valuation_peel DensInertW.isotropic_valuation_peel DensInertW.quadraticDifferenceArith

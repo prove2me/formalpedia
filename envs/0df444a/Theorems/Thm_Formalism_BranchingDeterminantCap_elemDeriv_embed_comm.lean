@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_elemDeriv_embed_comm
 -- name    : Formalism.BranchingDeterminantCap.elemDeriv_embed_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:34.448807+00:00
 -- url     : https://prove2.me/theorems/79096494-63d3-4198-9d0c-db68556c8651

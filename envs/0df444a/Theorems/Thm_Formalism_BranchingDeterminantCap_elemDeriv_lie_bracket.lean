@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_elemDeriv_lie_bracket
 -- name    : Formalism.BranchingDeterminantCap.elemDeriv_lie_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:38.020077+00:00
 -- url     : https://prove2.me/theorems/a288402a-5e3b-4166-8957-0f82c5fedc4e

@@ -31621,8 +31621,8 @@
 {"parent": "ArtinKP.C9.exists_theta_bigCell_ne_zero", "child": "ArtinHeckeTheta", "via": ["solution", "statement"]}
 {"parent": "ArtinKP.C9.exists_theta_bigCell_ne_zero", "child": "M4aHerbrand_IdeleClassVocab", "via": ["solution", "statement"]}
 {"parent": "ArtinKP.C9.exists_theta_bigCell_ne_zero", "child": "DedekindDomain_Completion_BaseChange", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch02.chapterTwoMainResultsV9", "child": "Kyprianou_Ch02_ChapterCertificationV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch02.chapterTwoMainResultsV9", "child": "Kyprianou_Ch02_ChapterCertificationV9", "via": ["statement"]}
+{"parent": "Kyprianou.Ch02.chapterTwoMainResultsV9", "child": "Kyprianou_Ch02_ChapterCertificationV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch02.chapterTwoMainResultsV9", "child": "Kyprianou_Ch02_ChapterCertificationV9", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0006", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0006", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36722", "child": "OAIQ259US007", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bs_height_le
 -- name    : Formalism.BranchingDeterminantCap.bs_height_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:54.68362+00:00
 -- url     : https://prove2.me/theorems/3e45090f-2c9d-4ff2-9af8-0b0a1092f720

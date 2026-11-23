@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_lastRowDeriv_injective_weighted
 -- name    : Formalism.BranchingDeterminantCap.lastRowDeriv_injective_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:54.182558+00:00
 -- url     : https://prove2.me/theorems/5b274ad6-cbb6-4f35-b661-2887b3782ff6

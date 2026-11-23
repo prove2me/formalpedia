@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmF_rowAct_WH
 -- name    : Formalism.BranchingDeterminantCap.bmF_rowAct_WH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:23:04.498706+00:00
 -- url     : https://prove2.me/theorems/05f72823-e944-45f6-9ddb-44c7411c999b

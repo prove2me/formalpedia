@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_autonomousODEUniqueWithCompactPositiveRange
 -- name    : Kyprianou.Ch01.autonomousODEUniqueWithCompactPositiveRange
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:35:44.080004+00:00
 -- url     : https://prove2.me/theorems/3ae778be-ee7a-43a7-b6e2-f79adaa0de5f

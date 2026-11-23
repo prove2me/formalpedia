@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_eq_zero_of_X_sub_C_dvd_C
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.eq_zero_of_X_sub_C_dvd_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:40.329801+00:00
 -- url     : https://prove2.me/theorems/82deb10e-fc98-4b63-b49b-8a78f32531e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingOneAncestorCumulantEqOfCommonGenerator
 -- name    : Kyprianou.Ch01.branchingOneAncestorCumulantEqOfCommonGenerator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:56:38.070703+00:00
 -- url     : https://prove2.me/theorems/c2b1bbe1-e6c1-40c7-a688-9a9e7a522fdb

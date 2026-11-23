@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xnInv_zero
 -- name    : Formalism.BranchingDeterminantCap.xnInv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:40.985466+00:00
 -- url     : https://prove2.me/theorems/e68ea62d-a40d-4ae7-b306-fa028945af76

@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for Formalism.CohomologicalDescent.HeightDescentMinors.pow_prime_eq_subst_X_pow
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T10:36:02.1506+00:00
+-- url     : https://prove2.me/submissions/d3088e7f-df44-4719-9e18-89e203a510c4
+
+import Definitions.Def_Formalism_PieriBlockIdeals_CapelliCentralEnveloping
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_HeightDescentMinors
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Finset PowerSeries
+open Formalism Formalism.CohomologicalDescent Formalism.CohomologicalDescent.HeightDescentMinors
+variable (l : ℕ) [Fact l.Prime] (O : Type) [CommRing O] [Algebra ℤ_[l] O]
+namespace Formalism.CohomologicalDescent.HeightDescentMinors
+theorem _root_.solution (F : (ZMod l)⟦X⟧) : F ^ l = F.subst (X ^ l : (ZMod l)⟦X⟧) := by
+  have hl : l ≠ 0 := (Fact.out : l.Prime).ne_zero
+  have : ExpChar (ZMod l) l := ExpChar.prime Fact.out
+  have h := MvPowerSeries.map_frobenius_expand (σ := Unit) l hl (f := F)
+  rw [ZMod.frobenius_zmod, MvPowerSeries.map_id, RingHom.id_apply] at h
+  rw [← expand_apply l hl]
+  exact h.symm
+end Formalism.CohomologicalDescent.HeightDescentMinors

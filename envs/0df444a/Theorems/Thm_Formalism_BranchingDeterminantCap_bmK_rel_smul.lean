@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmK_rel_smul
 -- name    : Formalism.BranchingDeterminantCap.bmK_rel_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:24:44.146169+00:00
 -- url     : https://prove2.me/theorems/87c3a4ce-fcb1-4286-9261-ab3d25f3c82b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_static_conformal_halves_nondegenerate
 -- name    : NoHair.static_conformal_halves_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T10:17:27.656473+00:00
 -- url     : https://prove2.me/theorems/7812031b-87f9-49c3-b793-672af7b509cf

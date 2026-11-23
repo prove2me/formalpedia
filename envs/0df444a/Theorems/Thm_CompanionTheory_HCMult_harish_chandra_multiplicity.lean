@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_HCMult_harish_chandra_multiplicity
 -- name    : CompanionTheory.HCMult.harish_chandra_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:35:24.274788+00:00
 -- url     : https://prove2.me/theorems/46525ced-ff31-4b24-b245-8ed201447e26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_degreeTransferBound
 -- name    : Formalism.BranchingDeterminantCap.degreeTransferBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:58.654697+00:00
 -- url     : https://prove2.me/theorems/920fb02b-8af9-43eb-9a12-06fc57af42cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmA_four
 -- name    : Formalism.BranchingDeterminantCap.bmA_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:19:46.699807+00:00
 -- url     : https://prove2.me/theorems/eca680e7-a745-49bf-b58a-600d325cfbfb

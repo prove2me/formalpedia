@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmG_prod
 -- name    : Formalism.BranchingDeterminantCap.bmG_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:23:43.931845+00:00
 -- url     : https://prove2.me/theorems/b81f0314-8313-4563-b13f-d0c4db2f92e2

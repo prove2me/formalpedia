@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmC_eq_rename_of_pderiv
 -- name    : Formalism.BranchingDeterminantCap.bmC_eq_rename_of_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:20:53.01432+00:00
 -- url     : https://prove2.me/theorems/4d718d00-e57b-4af3-a60d-0d3540c73811

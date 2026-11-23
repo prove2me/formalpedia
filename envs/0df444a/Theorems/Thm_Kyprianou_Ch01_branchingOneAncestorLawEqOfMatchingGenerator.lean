@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingOneAncestorLawEqOfMatchingGenerator
 -- name    : Kyprianou.Ch01.branchingOneAncestorLawEqOfMatchingGenerator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T20:36:25.608816+00:00
 -- url     : https://prove2.me/theorems/0b3b4305-e152-40f3-8259-12fc68e5182b

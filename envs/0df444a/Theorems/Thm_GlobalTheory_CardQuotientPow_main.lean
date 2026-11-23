@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CardQuotientPow_main
 -- name    : GlobalTheory.CardQuotientPow.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:24:42.392325+00:00
 -- url     : https://prove2.me/theorems/4c95f300-c75b-4a43-92ad-1121e4b51bf2

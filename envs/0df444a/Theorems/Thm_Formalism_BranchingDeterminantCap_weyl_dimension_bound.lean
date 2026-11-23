@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_weyl_dimension_bound
 -- name    : Formalism.BranchingDeterminantCap.weyl_dimension_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:24:41.888136+00:00
 -- url     : https://prove2.me/theorems/1aabd3d2-7eea-4357-83b0-3d637d699aec

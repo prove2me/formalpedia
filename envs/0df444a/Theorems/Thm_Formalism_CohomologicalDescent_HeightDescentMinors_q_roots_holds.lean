@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_q_roots_holds
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.q_roots_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:19.892116+00:00
 -- url     : https://prove2.me/theorems/360dbe37-3a73-4b4b-977e-7a5e4a06a0f8

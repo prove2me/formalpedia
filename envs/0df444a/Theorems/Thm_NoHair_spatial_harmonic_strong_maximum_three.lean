@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_spatial_harmonic_strong_maximum_three
 -- name    : NoHair.spatial_harmonic_strong_maximum_three
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T10:17:29.044544+00:00
 -- url     : https://prove2.me/theorems/695dc13b-42d2-4b1c-8e7d-5773dc1445de

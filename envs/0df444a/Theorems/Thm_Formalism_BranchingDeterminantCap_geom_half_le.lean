@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_geom_half_le
 -- name    : Formalism.BranchingDeterminantCap.geom_half_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:28:20.579975+00:00
 -- url     : https://prove2.me/theorems/c09fef26-4ebd-4b57-a54d-2949ac4ff540

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_weyl_factor
 -- name    : Formalism.BranchingDeterminantCap.weyl_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:30.598936+00:00
 -- url     : https://prove2.me/theorems/6d8fd3c7-8aac-4c68-a3ce-7365daedb60c

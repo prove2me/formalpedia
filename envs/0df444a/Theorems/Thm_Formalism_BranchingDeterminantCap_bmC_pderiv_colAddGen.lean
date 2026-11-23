@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmC_pderiv_colAddGen
 -- name    : Formalism.BranchingDeterminantCap.bmC_pderiv_colAddGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:20:46.272481+00:00
 -- url     : https://prove2.me/theorems/078fca72-1af9-408e-8be1-359b7c2bd7cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xn_E_eq
 -- name    : Formalism.BranchingDeterminantCap.xn_E_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:19.204614+00:00
 -- url     : https://prove2.me/theorems/0dbea185-2e21-4a59-ad62-f29fc635ab08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimC_Bz_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimC.Bz_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:16.068096+00:00
 -- url     : https://prove2.me/theorems/d1c43f7b-4a5a-4d8f-ab9c-2ae5cb07a496

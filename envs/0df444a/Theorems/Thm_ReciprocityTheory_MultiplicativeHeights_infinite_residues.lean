@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_infinite_residues
 -- name    : ReciprocityTheory.MultiplicativeHeights.infinite_residues
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:28.758234+00:00
 -- url     : https://prove2.me/theorems/ce589a92-004e-48c7-9d79-f0d160125a1d

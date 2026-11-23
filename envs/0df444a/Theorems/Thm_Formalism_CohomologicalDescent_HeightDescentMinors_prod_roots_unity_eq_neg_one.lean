@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_prod_roots_unity_eq_neg_one
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.prod_roots_unity_eq_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:32.036876+00:00
 -- url     : https://prove2.me/theorems/3e8767df-eac7-4408-80a1-d4638ab0fa3f

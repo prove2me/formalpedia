@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_ms_htMap_nat
 -- name    : Formalism.BranchingDeterminantCap.ms_htMap_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:51.544208+00:00
 -- url     : https://prove2.me/theorems/247ed792-7213-4292-b1b1-52519ab4a9e3

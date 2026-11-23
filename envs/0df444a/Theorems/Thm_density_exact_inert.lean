@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_density_exact_inert
 -- name    : density_exact_inert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:58.092083+00:00
 -- url     : https://prove2.me/theorems/b2eb68da-0abb-437b-a7e4-16ecde818968

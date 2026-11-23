@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_lastRowDeriv_weighted_homogeneous
 -- name    : Formalism.BranchingDeterminantCap.lastRowDeriv_weighted_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:52.114567+00:00
 -- url     : https://prove2.me/theorems/7bb1e44f-6389-4ddd-9a17-8ee0a34c5853

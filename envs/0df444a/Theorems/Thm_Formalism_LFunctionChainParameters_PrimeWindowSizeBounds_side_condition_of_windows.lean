@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_side_condition_of_windows
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.side_condition_of_windows
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:34:59.940902+00:00
 -- url     : https://prove2.me/theorems/49fe46dd-ff98-41ac-bcdb-9cfcea6698c8

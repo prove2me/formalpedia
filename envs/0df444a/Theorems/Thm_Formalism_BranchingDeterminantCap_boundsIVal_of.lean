@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_boundsIVal_of
 -- name    : Formalism.BranchingDeterminantCap.boundsIVal_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:46.938711+00:00
 -- url     : https://prove2.me/theorems/6487f06b-2419-47df-a2f6-8cb1b1020734

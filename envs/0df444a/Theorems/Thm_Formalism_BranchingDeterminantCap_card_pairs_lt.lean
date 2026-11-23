@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_card_pairs_lt
 -- name    : Formalism.BranchingDeterminantCap.card_pairs_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:10.753031+00:00
 -- url     : https://prove2.me/theorems/b4bf1c10-7748-4ae0-ac28-b903137df9f2

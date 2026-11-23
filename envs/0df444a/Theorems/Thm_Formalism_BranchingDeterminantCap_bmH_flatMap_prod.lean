@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmH_flatMap_prod
 -- name    : Formalism.BranchingDeterminantCap.bmH_flatMap_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:24:57.652175+00:00
 -- url     : https://prove2.me/theorems/dfd963c7-7242-4437-bef2-293b063604a8

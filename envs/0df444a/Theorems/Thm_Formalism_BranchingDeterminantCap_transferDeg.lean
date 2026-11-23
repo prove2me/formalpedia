@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_transferDeg
 -- name    : Formalism.BranchingDeterminantCap.transferDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:17.243871+00:00
 -- url     : https://prove2.me/theorems/92c2344d-da86-419a-8470-0f15c57ec39b

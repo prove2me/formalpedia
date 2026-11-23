@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har2_ctrF_mem
 -- name    : Formalism.CountingSumsFrames.Har2.ctrF_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:34:10.891387+00:00
 -- url     : https://prove2.me/theorems/aabc02e7-7728-4657-8254-5921a0a19ecc

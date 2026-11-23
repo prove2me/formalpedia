@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafLES_sections_surjective_of_subsingleton
 -- name    : GlobalTheory.SheafLES.sections_surjective_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:26.794797+00:00
 -- url     : https://prove2.me/theorems/161e3bc2-5b18-4aee-96f6-4cd0218b5c3f

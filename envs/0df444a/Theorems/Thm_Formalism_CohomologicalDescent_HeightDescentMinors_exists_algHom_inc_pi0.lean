@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_exists_algHom_inc_pi0
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.exists_algHom_inc_pi0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:03:39.646465+00:00
 -- url     : https://prove2.me/theorems/1539ab88-8c1b-4ab7-9a30-beb581d14ecc

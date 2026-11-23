@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_ite_derivation_apply
 -- name    : Formalism.BranchingDeterminantCap.ite_derivation_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:34.46029+00:00
 -- url     : https://prove2.me/theorems/c9ac4318-0735-4088-b86f-a2f49cb5ddca

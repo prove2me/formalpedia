@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_heightSumBound
 -- name    : Formalism.BranchingDeterminantCap.heightSumBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:28:23.853602+00:00
 -- url     : https://prove2.me/theorems/68a14db4-710e-443f-90b6-55af080e260a

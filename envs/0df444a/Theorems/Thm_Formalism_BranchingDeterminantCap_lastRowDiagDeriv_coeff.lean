@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_lastRowDiagDeriv_coeff
 -- name    : Formalism.BranchingDeterminantCap.lastRowDiagDeriv_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:27:09.426528+00:00
 -- url     : https://prove2.me/theorems/94e89eac-b0e7-4a40-90c3-e0036c5b2a92

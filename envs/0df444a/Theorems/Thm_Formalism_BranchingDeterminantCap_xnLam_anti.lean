@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xnLam_anti
 -- name    : Formalism.BranchingDeterminantCap.xnLam_anti
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:52.11369+00:00
 -- url     : https://prove2.me/theorems/e7d0acdd-9823-453d-9674-d78f6e3f8e91

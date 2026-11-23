@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_lastRowDeriv_elemDeriv_commute
 -- name    : Formalism.BranchingDeterminantCap.lastRowDeriv_elemDeriv_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:55.505742+00:00
 -- url     : https://prove2.me/theorems/5ded8e00-2118-4d1d-a7bd-16dceec6a7fd

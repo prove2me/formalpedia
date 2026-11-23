@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_memBranchRangeOfDefectEq
 -- name    : Formalism.BranchingDeterminantCap.memBranchRangeOfDefectEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:25.277154+00:00
 -- url     : https://prove2.me/theorems/cdf6b60d-1a11-440a-ab98-ed073767f879

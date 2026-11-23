@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmK_antitone
 -- name    : Formalism.BranchingDeterminantCap.bmK_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:24:44.855047+00:00
 -- url     : https://prove2.me/theorems/1f644c2b-cc61-4308-ae44-240ec7c9df58

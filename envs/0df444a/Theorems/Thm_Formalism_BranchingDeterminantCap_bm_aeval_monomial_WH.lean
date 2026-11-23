@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bm_aeval_monomial_WH
 -- name    : Formalism.BranchingDeterminantCap.bm_aeval_monomial_WH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:24:42.222794+00:00
 -- url     : https://prove2.me/theorems/e989d25e-bc40-4fe2-9df3-66c00c4d9001

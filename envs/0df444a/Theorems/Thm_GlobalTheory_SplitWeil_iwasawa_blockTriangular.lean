@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_iwasawa_blockTriangular
 -- name    : GlobalTheory.SplitWeil.iwasawa_blockTriangular
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:07.043945+00:00
 -- url     : https://prove2.me/theorems/079b4d1e-41e8-41ec-90c9-cd24f1b128fb

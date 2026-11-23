@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmZ_euler
 -- name    : Formalism.BranchingDeterminantCap.bmZ_euler
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:23:10.74474+00:00
 -- url     : https://prove2.me/theorems/a1f1fde9-2772-43ea-9c76-eeb05a9ac111

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscrNeWork_discrNe_all
 -- name    : DiscrNeWork.discrNe_all
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:44.13666+00:00
 -- url     : https://prove2.me/theorems/7b16e2e8-4ad2-45c7-a13f-a13a456e883b

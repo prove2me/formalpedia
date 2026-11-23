@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_nA_epsprod_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.nA_epsprod_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:01.649545+00:00
 -- url     : https://prove2.me/theorems/fd5e7c7f-e53b-47ec-aafa-3af5bdfb49db

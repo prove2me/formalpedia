@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_fock_pairing_initial_minor
 -- name    : Formalism.BranchingDeterminantCap.fock_pairing_initial_minor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:28:24.471391+00:00
 -- url     : https://prove2.me/theorems/f5ef7084-8e7c-4f84-941f-913f35e117a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_capacity_constant_bound
 -- name    : Formalism.BranchingDeterminantCap.capacity_constant_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:00.893293+00:00
 -- url     : https://prove2.me/theorems/4653faa3-e00a-403f-91d4-6b33472fb172

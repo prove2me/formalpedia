@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xnC_nonneg
 -- name    : Formalism.BranchingDeterminantCap.xnC_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:42.389053+00:00
 -- url     : https://prove2.me/theorems/19576c51-5a4a-4caa-812f-b71579c72be6

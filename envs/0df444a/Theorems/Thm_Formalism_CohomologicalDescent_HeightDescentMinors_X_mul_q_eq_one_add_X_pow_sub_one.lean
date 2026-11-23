@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_X_mul_q_eq_one_add_X_pow_sub_one
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.X_mul_q_eq_one_add_X_pow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:37.208809+00:00
 -- url     : https://prove2.me/theorems/5a5fd9b5-e4a5-4ab9-a345-1b377281b815

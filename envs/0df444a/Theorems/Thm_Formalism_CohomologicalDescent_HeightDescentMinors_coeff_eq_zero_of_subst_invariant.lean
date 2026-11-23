@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_coeff_eq_zero_of_subst_invariant
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.coeff_eq_zero_of_subst_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:56.758973+00:00
 -- url     : https://prove2.me/theorems/43b7cf00-10d0-40bf-9e8f-dbdc19459479

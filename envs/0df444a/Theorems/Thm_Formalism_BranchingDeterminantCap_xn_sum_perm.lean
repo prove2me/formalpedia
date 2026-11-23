@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xn_sum_perm
 -- name    : Formalism.BranchingDeterminantCap.xn_sum_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:27:04.991952+00:00
 -- url     : https://prove2.me/theorems/361453a8-ed2a-452e-8878-289352247a50

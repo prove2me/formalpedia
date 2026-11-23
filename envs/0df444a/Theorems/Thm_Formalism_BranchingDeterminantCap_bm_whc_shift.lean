@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bm_whc_shift
 -- name    : Formalism.BranchingDeterminantCap.bm_whc_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:36.392525+00:00
 -- url     : https://prove2.me/theorems/c8d6d497-875d-4f8c-b3eb-93a268a7959f
