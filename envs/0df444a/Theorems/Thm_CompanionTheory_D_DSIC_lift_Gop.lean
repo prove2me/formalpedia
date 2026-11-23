@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_DSIC_lift_Gop
 -- name    : CompanionTheory.D.DSIC.lift_Gop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:00.193857+00:00
 -- url     : https://prove2.me/theorems/96682d11-ef14-4bc9-95bb-c3c3ad1f76d6

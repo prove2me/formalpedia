@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_Car_tw_swap
 -- name    : CompanionTheory.D.LK.Car.tw_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:33.788168+00:00
 -- url     : https://prove2.me/theorems/cbffccec-bd82-4b0c-ad72-9084f972a972

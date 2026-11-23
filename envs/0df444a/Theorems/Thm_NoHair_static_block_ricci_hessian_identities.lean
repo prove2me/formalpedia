@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_static_block_ricci_hessian_identities
 -- name    : NoHair.static_block_ricci_hessian_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:16:43.906804+00:00
 -- url     : https://prove2.me/theorems/f8d01350-2ddd-448d-b426-62a21d8e1dd7

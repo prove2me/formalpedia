@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_FinOfPIAux_stdPoly_update
 -- name    : CompanionTheory.D.gk.admitted.FinOfPIAux.stdPoly_update
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:53.34419+00:00
 -- url     : https://prove2.me/theorems/0a7b3fd8-4387-497a-9c1f-444d780fcd5b

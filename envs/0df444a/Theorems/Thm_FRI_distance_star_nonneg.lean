@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_distance_star_nonneg
 -- name    : FRI_distance_star_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:10:26.165923+00:00
 -- url     : https://prove2.me/theorems/eb890e8f-0cb4-4fc0-b9cb-e670893e75c3

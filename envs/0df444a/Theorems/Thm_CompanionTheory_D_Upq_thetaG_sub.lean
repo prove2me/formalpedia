@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_thetaG_sub
 -- name    : CompanionTheory.D.Upq.thetaG_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:28:10.355836+00:00
 -- url     : https://prove2.me/theorems/7d9488dc-75ef-4877-9fd6-daf99c2cd341

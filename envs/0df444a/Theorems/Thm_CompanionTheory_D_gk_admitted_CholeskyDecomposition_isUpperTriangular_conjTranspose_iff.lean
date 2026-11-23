@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_isUpperTriangular_conjTranspose_iff
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.isUpperTriangular_conjTranspose_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:30.286106+00:00
 -- url     : https://prove2.me/theorems/a83fc50c-3760-46b7-8c52-bab40409ea88

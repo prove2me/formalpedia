@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhysReaudit_expected_tau_finite
 -- name    : PhysReaudit.expected_tau_finite
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:09.691468+00:00
 -- url     : https://prove2.me/theorems/87dac5e4-4207-477c-896f-c3972d7be39e

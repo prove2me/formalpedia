@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_local_check_implies_green
 -- name    : FRI_local_check_implies_green
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:13:23.361688+00:00
 -- url     : https://prove2.me/theorems/1eebc017-107a-473a-8c2d-6e8c23a352b5

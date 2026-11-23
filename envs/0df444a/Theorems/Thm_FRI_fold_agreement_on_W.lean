@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_fold_agreement_on_W
 -- name    : FRI_fold_agreement_on_W
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:09:50.748333+00:00
 -- url     : https://prove2.me/theorems/412e72e9-fcf7-49ca-9311-6eafe3216334

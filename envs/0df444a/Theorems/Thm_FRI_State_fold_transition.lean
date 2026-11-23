@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_State_fold_transition
 -- name    : FRI_State_fold_transition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:16:35.298804+00:00
 -- url     : https://prove2.me/theorems/c470c28a-1de5-4900-aa88-6c3e454b61bb

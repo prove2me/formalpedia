@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_deg_X_pderiv
 -- name    : CompanionTheory.D.LK.deg_X_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:17.84951+00:00
 -- url     : https://prove2.me/theorems/3f30c3e5-f27b-46dc-a7e9-3fbb7a290122

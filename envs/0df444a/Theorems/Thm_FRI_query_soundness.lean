@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_query_soundness
 -- name    : FRI_query_soundness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:15:41.878787+00:00
 -- url     : https://prove2.me/theorems/d1a835c5-109d-4ec0-9d2d-f393387836e6

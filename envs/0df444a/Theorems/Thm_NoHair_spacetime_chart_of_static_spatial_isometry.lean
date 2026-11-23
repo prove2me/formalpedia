@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_spacetime_chart_of_static_spatial_isometry
 -- name    : NoHair.spacetime_chart_of_static_spatial_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:17:05.061115+00:00
 -- url     : https://prove2.me/theorems/728474de-ee82-43c9-9271-2a6701a92d0c

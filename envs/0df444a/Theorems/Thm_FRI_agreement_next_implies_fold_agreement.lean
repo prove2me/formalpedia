@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_agreement_next_implies_fold_agreement
 -- name    : FRI_agreement_next_implies_fold_agreement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:13:38.447676+00:00
 -- url     : https://prove2.me/theorems/7ee697ef-e313-482e-b74c-a399423473fc

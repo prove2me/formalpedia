@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_lift_bd
 -- name    : CompanionTheory.D.LK.lift_bd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:35.527439+00:00
 -- url     : https://prove2.me/theorems/fdb64648-6194-49d5-88c2-479ae9a63eaa

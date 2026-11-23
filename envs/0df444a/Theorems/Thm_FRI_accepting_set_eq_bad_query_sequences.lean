@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_accepting_set_eq_bad_query_sequences
 -- name    : FRI_accepting_set_eq_bad_query_sequences
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:14:01.835809+00:00
 -- url     : https://prove2.me/theorems/3487a626-1283-4189-9891-ac76e385bcf7

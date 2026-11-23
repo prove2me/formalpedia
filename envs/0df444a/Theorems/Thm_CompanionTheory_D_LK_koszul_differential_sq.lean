@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_koszul_differential_sq
 -- name    : CompanionTheory.D.LK.koszul_differential_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:30.043722+00:00
 -- url     : https://prove2.me/theorems/67bfd8f4-255a-4bc6-8603-bc776452c1cd

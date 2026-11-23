@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_asymptoticallyFlatEnd_chronology_stabilizes
 -- name    : NoHair.asymptoticallyFlatEnd_chronology_stabilizes
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:20:50.86627+00:00
 -- url     : https://prove2.me/theorems/736b1f05-4a9d-4288-b037-93468ae85143

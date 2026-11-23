@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_SecondKind_main
 -- name    : GlobalTheory.SmoothForms.SecondKind.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:16.312816+00:00
 -- url     : https://prove2.me/theorems/2434ee10-f8c8-4fc9-af7a-33241614c219

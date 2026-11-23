@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_relDistance_le_of_agree_on_subset
 -- name    : relDistance_le_of_agree_on_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:11:26.346741+00:00
 -- url     : https://prove2.me/theorems/36dd5f20-0e5e-4614-9985-d87e35ab02d4

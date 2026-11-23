@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GramProductIdentities_cs_of_pos
 -- name    : Formalism.FourierDecayAlt.P.GramProductIdentities.cs_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:44:03.625628+00:00
 -- url     : https://prove2.me/theorems/53adca48-10fa-48fb-a2fe-b19dc557f9f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMEul_Mult_summable_norm_rpow
 -- name    : CMEul.Mult.summable_norm_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:59.360159+00:00
 -- url     : https://prove2.me/theorems/010e6058-ef37-4ff8-8d72-9319a41caeac

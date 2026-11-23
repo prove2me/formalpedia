@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_Car_tw_mul_self
 -- name    : CompanionTheory.D.LK.Car.tw_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:06.553338+00:00
 -- url     : https://prove2.me/theorems/4c6e581a-4775-44b2-bd04-d70328217467

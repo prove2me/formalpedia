@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_eq_one_of_posSemidef
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.eq_one_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:28:51.789395+00:00
 -- url     : https://prove2.me/theorems/c281495a-8603-41ef-8c1f-8f2ddc90c8d8

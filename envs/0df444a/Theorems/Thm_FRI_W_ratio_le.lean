@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_W_ratio_le
 -- name    : FRI_W_ratio_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:59:24.423662+00:00
 -- url     : https://prove2.me/theorems/a8e8848c-7368-4eba-9ccc-0b36fe9add56

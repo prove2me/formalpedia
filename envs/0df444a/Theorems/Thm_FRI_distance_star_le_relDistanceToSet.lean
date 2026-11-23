@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_distance_star_le_relDistanceToSet
 -- name    : FRI_distance_star_le_relDistanceToSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:14:26.332593+00:00
 -- url     : https://prove2.me/theorems/8f7071a0-622f-4a43-a5fb-54ab4602c44e

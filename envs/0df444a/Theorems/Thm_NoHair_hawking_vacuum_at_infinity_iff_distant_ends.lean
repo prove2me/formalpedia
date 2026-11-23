@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_hawking_vacuum_at_infinity_iff_distant_ends
 -- name    : NoHair.hawking_vacuum_at_infinity_iff_distant_ends
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:28:51.587686+00:00
 -- url     : https://prove2.me/theorems/2d074be2-e378-444d-a6fc-f8dcd141ab77

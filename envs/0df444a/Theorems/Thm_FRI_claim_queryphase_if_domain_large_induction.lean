@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_claim_queryphase_if_domain_large_induction
 -- name    : FRI_claim_queryphase_if_domain_large_induction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:11:50.09844+00:00
 -- url     : https://prove2.me/theorems/f1cea35f-9ba7-49aa-b5f4-f5fc061442c5

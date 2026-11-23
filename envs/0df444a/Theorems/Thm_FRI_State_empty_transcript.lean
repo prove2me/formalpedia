@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_State_empty_transcript
 -- name    : FRI_State_empty_transcript
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:16:37.092345+00:00
 -- url     : https://prove2.me/theorems/85fcdfd3-9a51-4f60-8b40-137864666330

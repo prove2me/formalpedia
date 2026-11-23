@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_algebraMap_ne_zero_of_mem_hcompl
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.algebraMap_ne_zero_of_mem_hcompl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:39:53.638877+00:00
 -- url     : https://prove2.me/theorems/7e06ac9b-0416-4077-9f43-bfe63724d15d

@@ -68038,9 +68038,9 @@
 {"parent": "ZeroFreeRRG.Hardcore.theorem_5_1_endpoint", "child": "ZeroFreeRRG_Hardcore_Models", "via": ["statement"]}
 {"parent": "ZeroFreeRRG.Hardcore.theorem_5_1_endpoint", "child": "PottsRapidMixing_Ensemble", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27405", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "PhysReaudit.expected_tau_finite", "child": "PhysReaudit_Delta", "via": ["statement"]}
-{"parent": "PhysReaudit.expected_tau_finite", "child": "PhysReaudit_sprtS", "via": ["statement"]}
-{"parent": "PhysReaudit.expected_tau_finite", "child": "PhysReaudit_lawQ", "via": ["statement"]}
+{"parent": "PhysReaudit.expected_tau_finite", "child": "PhysReaudit_Delta", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.expected_tau_finite", "child": "PhysReaudit_sprtS", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.expected_tau_finite", "child": "PhysReaudit_lawQ", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31106", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34082", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_6_3_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
@@ -69324,10 +69324,10 @@
 {"parent": "OAI.UniversalTensorSquare.sg41540", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37321", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "ex_2_1_2_reals_uncountable", "child": "ProbabilityTheory_chapter_02_def_2_1_F000", "via": ["solution", "statement"]}
-{"parent": "PhysReaudit.expected_tau_le", "child": "PhysReaudit_Delta", "via": ["statement"]}
-{"parent": "PhysReaudit.expected_tau_le", "child": "PhysReaudit_sprtS", "via": ["statement"]}
-{"parent": "PhysReaudit.expected_tau_le", "child": "PhysReaudit_lawQ", "via": ["statement"]}
-{"parent": "PhysReaudit.expected_tau_le", "child": "LimitedPriceChanges_LowerBound_KL", "via": ["statement"]}
+{"parent": "PhysReaudit.expected_tau_le", "child": "PhysReaudit_Delta", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.expected_tau_le", "child": "PhysReaudit_sprtS", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.expected_tau_le", "child": "PhysReaudit_lawQ", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.expected_tau_le", "child": "LimitedPriceChanges_LowerBound_KL", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_6_11_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OddOrder_Peterfalvi_S16_CoreLemmas", "child": "OddOrder_Peterfalvi_S15_BridgeCharacter", "via": ["statement"]}
 {"parent": "OddOrder_Peterfalvi_S16_CoreLemmas", "child": "OddOrder_BG_AppC_LemmaC3_Setup", "via": ["statement"]}

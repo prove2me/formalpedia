@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_query_prob_le_W0_ratio_pow
 -- name    : FRI_query_prob_le_W0_ratio_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:15:06.077723+00:00
 -- url     : https://prove2.me/theorems/9dbbce4b-8dd4-4c50-8588-dae180c14c7d

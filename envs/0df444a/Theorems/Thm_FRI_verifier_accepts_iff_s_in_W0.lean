@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_verifier_accepts_iff_s_in_W0
 -- name    : FRI_verifier_accepts_iff_s_in_W0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:13:57.401437+00:00
 -- url     : https://prove2.me/theorems/fb448bb1-0449-4a58-bc53-8688ef47674d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_poly_from_components_eval_eq_f
 -- name    : poly_from_components_eval_eq_f
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:24:10.964644+00:00
 -- url     : https://prove2.me/theorems/bbf7b9ef-c056-48ee-9c08-6967c7d35088

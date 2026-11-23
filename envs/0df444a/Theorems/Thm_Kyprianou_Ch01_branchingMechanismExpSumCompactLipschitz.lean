@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingMechanismExpSumCompactLipschitz
 -- name    : Kyprianou.Ch01.branchingMechanismExpSumCompactLipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:27:39.029817+00:00
 -- url     : https://prove2.me/theorems/bb30427b-9038-4b6e-91c9-3f6d8cc44818

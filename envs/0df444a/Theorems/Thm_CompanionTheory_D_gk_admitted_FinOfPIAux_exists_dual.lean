@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_FinOfPIAux_exists_dual
 -- name    : CompanionTheory.D.gk.admitted.FinOfPIAux.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:51.100797+00:00
 -- url     : https://prove2.me/theorems/34a6a983-faca-4e80-a09a-56f4537df49b

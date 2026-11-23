@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_DSIC_kHighest_map
 -- name    : CompanionTheory.D.DSIC.kHighest_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:58.482768+00:00
 -- url     : https://prove2.me/theorems/c7f6765d-bb85-4c61-9b20-4307c9fd6f77

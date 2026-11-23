@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_folding_event_implies_bad_event
 -- name    : folding_event_implies_bad_event
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:59:52.066984+00:00
 -- url     : https://prove2.me/theorems/b7abae10-8d5e-46a9-8459-e8db8cf5f0dd

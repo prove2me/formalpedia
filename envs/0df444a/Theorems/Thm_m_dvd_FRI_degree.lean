@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_m_dvd_FRI_degree
 -- name    : m_dvd_FRI_degree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:57:17.908071+00:00
 -- url     : https://prove2.me/theorems/5b3e3c99-f90c-4bd9-b39d-a2d4fc592822

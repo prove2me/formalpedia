@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_chronoFuture_transitive
 -- name    : NoHair.chronoFuture_transitive
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:20:35.57534+00:00
 -- url     : https://prove2.me/theorems/8b99727f-095f-4dbb-99a2-1055eda1d63f

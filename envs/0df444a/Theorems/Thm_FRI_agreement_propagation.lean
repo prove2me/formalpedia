@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_agreement_propagation
 -- name    : FRI_agreement_propagation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:13:39.562359+00:00
 -- url     : https://prove2.me/theorems/c72090df-6f55-4e06-b752-a9d128e9ebc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMEul_euler_factor_local
 -- name    : CMEul.euler_factor_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:58.428135+00:00
 -- url     : https://prove2.me/theorems/59209416-6f84-46dc-b7ec-364c9e5d84e9

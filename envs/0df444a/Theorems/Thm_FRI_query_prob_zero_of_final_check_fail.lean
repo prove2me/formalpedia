@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_query_prob_zero_of_final_check_fail
 -- name    : FRI_query_prob_zero_of_final_check_fail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:14:13.985556+00:00
 -- url     : https://prove2.me/theorems/113b1dab-bee9-4d54-b9a2-94b560045147

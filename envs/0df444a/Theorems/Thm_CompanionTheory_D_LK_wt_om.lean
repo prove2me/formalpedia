@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_wt_om
 -- name    : CompanionTheory.D.LK.wt_om
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:30.764718+00:00
 -- url     : https://prove2.me/theorems/6cbeccfb-6d22-4ced-b51d-3695d15c62ab

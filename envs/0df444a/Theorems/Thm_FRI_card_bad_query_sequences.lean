@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_card_bad_query_sequences
 -- name    : FRI_card_bad_query_sequences
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:15:23.957582+00:00
 -- url     : https://prove2.me/theorems/87f6c73d-9150-4f6d-ad6b-afe317d8da9f

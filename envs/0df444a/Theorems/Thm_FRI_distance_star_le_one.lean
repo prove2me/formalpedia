@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_distance_star_le_one
 -- name    : FRI_distance_star_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:29:03.512593+00:00
 -- url     : https://prove2.me/theorems/7a4d7796-695e-443f-8673-691ec8848401

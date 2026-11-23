@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMDeg_finrank_eq_two
 -- name    : CMDeg.finrank_eq_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:39:29.230843+00:00
 -- url     : https://prove2.me/theorems/4a27afef-5569-413e-8035-6ac505de452d

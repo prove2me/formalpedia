@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_dc_eq_zero_of_eigen_not_mem
 -- name    : ReciprocityTheory.ChartRestriction.DS.dc_eq_zero_of_eigen_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:10:32.506672+00:00
 -- url     : https://prove2.me/theorems/78c7e147-5c5b-4ebf-9f4f-3c04a8cefb13

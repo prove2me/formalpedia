@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_edwards25519_birational
 -- name    : X25519Dalek.edwards25519_birational
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T22:37:14.8368+00:00
 -- url     : https://prove2.me/theorems/bed94bfc-5145-429b-b44a-3637dd38bb35

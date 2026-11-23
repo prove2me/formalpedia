@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_exists_place
 -- name    : Formalism.L2.G.Triv.exists_place
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:15:58.02564+00:00
 -- url     : https://prove2.me/theorems/f05e0109-9e76-4f5e-b99d-4ebebdc4502b

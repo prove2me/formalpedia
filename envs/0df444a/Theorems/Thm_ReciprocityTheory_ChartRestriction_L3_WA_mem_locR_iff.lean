@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_mem_locR_iff
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.mem_locR_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:39:45.423951+00:00
 -- url     : https://prove2.me/theorems/e884312f-c443-457b-89a0-27d6c093dc1e

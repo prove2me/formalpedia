@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_poly_decompose_degree_le
 -- name    : poly_decompose_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:17:19.411442+00:00
 -- url     : https://prove2.me/theorems/5af4f0cb-7c4a-41bf-a93a-d0d285343217

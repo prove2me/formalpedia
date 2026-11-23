@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhysReaudit_expected_tau_le
 -- name    : PhysReaudit.expected_tau_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:35.901425+00:00
 -- url     : https://prove2.me/theorems/8b4210e3-0bce-4ca4-a0e6-454a0ee23f61

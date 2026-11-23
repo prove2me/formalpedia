@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_fold_eq_folded_poly_eval
 -- name    : fold_eq_folded_poly_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:17:39.476269+00:00
 -- url     : https://prove2.me/theorems/ef11dac8-aba6-4434-acd3-43f85a1b93c8

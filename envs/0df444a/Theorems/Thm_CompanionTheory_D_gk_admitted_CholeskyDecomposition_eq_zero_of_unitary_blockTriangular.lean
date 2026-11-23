@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_eq_zero_of_unitary_blockTriangular
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.eq_zero_of_unitary_blockTriangular
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:28:54.468028+00:00
 -- url     : https://prove2.me/theorems/85ba5c0e-cb40-4821-a02e-6ebcb2a0b2e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_Domain_Size_Property_of_foldable
 -- name    : FRI_Domain_Size_Property_of_foldable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:07:23.404415+00:00
 -- url     : https://prove2.me/theorems/ae23cb3d-33fe-4c63-b986-cf59a36083f4

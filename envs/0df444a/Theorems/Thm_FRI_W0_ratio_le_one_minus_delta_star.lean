@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_W0_ratio_le_one_minus_delta_star
 -- name    : FRI_W0_ratio_le_one_minus_delta_star
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:14:51.929625+00:00
 -- url     : https://prove2.me/theorems/87eec165-d9e4-4a9a-8702-b8e1f8ee87ed

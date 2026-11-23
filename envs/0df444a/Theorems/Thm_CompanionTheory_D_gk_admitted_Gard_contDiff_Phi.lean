@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_Gard_contDiff_Phi
 -- name    : CompanionTheory.D.gk.admitted.Gard.contDiff_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:50:40.936793+00:00
 -- url     : https://prove2.me/theorems/5cc048a6-6084-4a55-8d25-ad76246a7115

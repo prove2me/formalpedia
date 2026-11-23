@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_evd_eig
 -- name    : CompanionTheory.D.LK.evd_eig
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:21.477656+00:00
 -- url     : https://prove2.me/theorems/318f3cd5-8d88-456c-bf9d-250a48f414d0

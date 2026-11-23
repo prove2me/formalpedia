@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_FinOfPIAux_ofFn_val
 -- name    : CompanionTheory.D.gk.admitted.FinOfPIAux.ofFn_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:30:00.440855+00:00
 -- url     : https://prove2.me/theorems/3ea6ec5d-6e1a-4d5e-a2c3-9025dcfc86db

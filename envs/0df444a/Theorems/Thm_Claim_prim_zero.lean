@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Claim_prim_zero
 -- name    : Claim.prim_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:51.537405+00:00
 -- url     : https://prove2.me/theorems/f8afdf5f-11ae-45d6-81c2-b220c4fe5132

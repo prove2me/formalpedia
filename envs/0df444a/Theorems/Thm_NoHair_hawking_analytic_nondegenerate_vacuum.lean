@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_hawking_analytic_nondegenerate_vacuum
 -- name    : NoHair.hawking_analytic_nondegenerate_vacuum
--- status  : Open
+-- status  : Disproved
 -- author  : @LG
 -- created : 2026-10-05T00:40:50.439978+00:00
 -- url     : https://prove2.me/theorems/d3c7be7a-309a-40fd-b177-28ba5a1b316c

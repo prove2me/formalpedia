@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_ht_eq_zero
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.ht_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:20.961278+00:00
 -- url     : https://prove2.me/theorems/da4a92b6-8346-4f4d-aafe-c594bf60319f

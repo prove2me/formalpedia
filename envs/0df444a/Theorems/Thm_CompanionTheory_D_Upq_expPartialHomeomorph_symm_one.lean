@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_expPartialHomeomorph_symm_one
 -- name    : CompanionTheory.D.Upq.expPartialHomeomorph_symm_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:51.974919+00:00
 -- url     : https://prove2.me/theorems/98948f36-a0f6-4054-bede-d7d812b55704

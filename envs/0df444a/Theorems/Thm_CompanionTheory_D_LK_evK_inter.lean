@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_evK_inter
 -- name    : CompanionTheory.D.LK.evK_inter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:27.432765+00:00
 -- url     : https://prove2.me/theorems/ff67c48f-a05c-412d-84fe-0c15d3fc7dbb

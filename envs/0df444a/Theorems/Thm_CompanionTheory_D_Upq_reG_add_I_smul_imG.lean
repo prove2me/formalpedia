@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_reG_add_I_smul_imG
 -- name    : CompanionTheory.D.Upq.reG_add_I_smul_imG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:57.11328+00:00
 -- url     : https://prove2.me/theorems/055af67e-e895-4e06-884f-48fbfbc66574

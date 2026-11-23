@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_ModEx_measurable_rmulQ
 -- name    : CompanionTheory.D.Upq.ModEx.measurable_rmulQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:46.374958+00:00
 -- url     : https://prove2.me/theorems/6511495c-c785-47a8-9a70-5821ec01e2f5

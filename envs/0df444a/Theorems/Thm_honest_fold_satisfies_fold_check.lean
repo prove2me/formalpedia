@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_honest_fold_satisfies_fold_check
 -- name    : honest_fold_satisfies_fold_check
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:17:30.794204+00:00
 -- url     : https://prove2.me/theorems/5d70c06a-a250-43aa-bf28-bd8d5bcc8705

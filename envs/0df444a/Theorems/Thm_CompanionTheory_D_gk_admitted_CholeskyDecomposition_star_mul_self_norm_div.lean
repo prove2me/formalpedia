@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_star_mul_self_norm_div
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.star_mul_self_norm_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:34.163137+00:00
 -- url     : https://prove2.me/theorems/e471c045-56df-40fd-a751-c6b09fbc256a

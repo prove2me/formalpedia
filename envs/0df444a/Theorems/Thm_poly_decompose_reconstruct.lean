@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_poly_decompose_reconstruct
 -- name    : poly_decompose_reconstruct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:17:23.017804+00:00
 -- url     : https://prove2.me/theorems/7cd46878-fef7-4749-a84c-56460ec51e2f

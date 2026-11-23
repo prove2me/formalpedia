@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingMechanismExpTermsSummableOnPositive
 -- name    : Kyprianou.Ch01.branchingMechanismExpTermsSummableOnPositive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:27:34.137868+00:00
 -- url     : https://prove2.me/theorems/df27f532-47aa-4d96-8fb4-897ae2f12f16

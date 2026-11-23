@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_ModEx_MG_range_toM
 -- name    : CompanionTheory.D.Upq.ModEx.MG.range_toM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:44.396121+00:00
 -- url     : https://prove2.me/theorems/ec154619-56d4-4552-8716-f6bf58347870

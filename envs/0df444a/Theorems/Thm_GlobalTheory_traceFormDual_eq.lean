@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_traceFormDual_eq
 -- name    : GlobalTheory.traceFormDual_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:24:56.939633+00:00
 -- url     : https://prove2.me/theorems/092a08e5-017d-4e41-91fe-ead2704ea1b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_conjTranspose_mem_lieJ
 -- name    : CompanionTheory.D.Upq.conjTranspose_mem_lieJ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:57.894945+00:00
 -- url     : https://prove2.me/theorems/a303d917-d99b-43ce-928a-e830bed35fee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_tri_uniq
 -- name    : CompanionTheory.D.LK.tri_uniq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:43.667807+00:00
 -- url     : https://prove2.me/theorems/e041dffe-514c-4297-96e8-e316438466dc

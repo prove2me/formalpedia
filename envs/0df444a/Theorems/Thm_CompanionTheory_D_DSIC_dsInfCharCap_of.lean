@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_DSIC_dsInfCharCap_of
 -- name    : CompanionTheory.D.DSIC.dsInfCharCap_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:04.651639+00:00
 -- url     : https://prove2.me/theorems/a38f4133-f288-48a8-9969-ff7c1a4b113a

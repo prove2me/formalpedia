@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_flip
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.flip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:20.221703+00:00
 -- url     : https://prove2.me/theorems/6ab643a6-4175-4b2d-8205-086fe11edadc

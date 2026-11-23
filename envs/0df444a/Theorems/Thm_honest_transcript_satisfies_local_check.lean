@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_honest_transcript_satisfies_local_check
 -- name    : honest_transcript_satisfies_local_check
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:17:41.635616+00:00
 -- url     : https://prove2.me/theorems/1bae4e2a-7d36-4b92-85d9-ef9d292d90c5

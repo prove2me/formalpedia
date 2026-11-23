@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_ModEx_MG_measurableEmbedding_toM
 -- name    : CompanionTheory.D.Upq.ModEx.MG.measurableEmbedding_toM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:28:07.927336+00:00
 -- url     : https://prove2.me/theorems/90647ec2-f953-4b82-bd65-d17129bb29f5

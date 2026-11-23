@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_claim_queryphase_if_domain_small
 -- name    : FRI_claim_queryphase_if_domain_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:09:47.695768+00:00
 -- url     : https://prove2.me/theorems/fa93b268-cd05-4a35-a827-fc8553a253f8

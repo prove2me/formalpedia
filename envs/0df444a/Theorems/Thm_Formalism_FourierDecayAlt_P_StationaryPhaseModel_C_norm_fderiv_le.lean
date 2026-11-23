@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_C_norm_fderiv_le
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.C_norm_fderiv_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:47.092715+00:00
 -- url     : https://prove2.me/theorems/4d58f730-abd3-4ab6-9f0b-6343c9217aad

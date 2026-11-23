@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W5_anti
 -- name    : Formalism.DivisionValues.W5.anti
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:27.612895+00:00
 -- url     : https://prove2.me/theorems/48d05758-398a-478d-b122-f2e152d3ec61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_FinOfPIAux_mem_unitary
 -- name    : CompanionTheory.D.gk.admitted.FinOfPIAux.mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:30:01.869829+00:00
 -- url     : https://prove2.me/theorems/608157b8-b65d-4a25-99ee-c6c524cc501b

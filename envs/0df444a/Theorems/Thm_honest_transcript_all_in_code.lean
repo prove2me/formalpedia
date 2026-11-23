@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_honest_transcript_all_in_code
 -- name    : honest_transcript_all_in_code
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:03:55.196323+00:00
 -- url     : https://prove2.me/theorems/62dbe510-b156-4bf9-ab33-62eca259549b

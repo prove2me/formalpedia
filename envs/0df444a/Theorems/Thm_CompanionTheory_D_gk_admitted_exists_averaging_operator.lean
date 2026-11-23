@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_exists_averaging_operator
 -- name    : CompanionTheory.D.gk.admitted.exists_averaging_operator
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:51:07.876647+00:00
 -- url     : https://prove2.me/theorems/4b9d3849-6b4c-4039-8f98-49077495cd31

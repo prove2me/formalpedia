@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_query_prob_eq_card_div
 -- name    : FRI_query_prob_eq_card_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:13:44.704056+00:00
 -- url     : https://prove2.me/theorems/af75aaf4-e6ca-46a5-ae5c-c27076e7ebb5

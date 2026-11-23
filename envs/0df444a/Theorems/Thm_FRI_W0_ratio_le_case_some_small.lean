@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_W0_ratio_le_case_some_small
 -- name    : FRI_W0_ratio_le_case_some_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:14:35.519167+00:00
 -- url     : https://prove2.me/theorems/0fe8724e-6338-4e99-a030-1ccf7b78f3d3

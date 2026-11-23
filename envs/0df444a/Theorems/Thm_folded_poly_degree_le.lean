@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_folded_poly_degree_le
 -- name    : folded_poly_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:18:00.426156+00:00
 -- url     : https://prove2.me/theorems/b9510dae-865c-4d47-9e3c-5a385c972be8

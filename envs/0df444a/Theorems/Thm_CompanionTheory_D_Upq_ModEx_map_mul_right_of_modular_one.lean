@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_ModEx_map_mul_right_of_modular_one
 -- name    : CompanionTheory.D.Upq.ModEx.map_mul_right_of_modular_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:41.466831+00:00
 -- url     : https://prove2.me/theorems/1af3f98a-0743-4bb8-8002-de04ce4c8822

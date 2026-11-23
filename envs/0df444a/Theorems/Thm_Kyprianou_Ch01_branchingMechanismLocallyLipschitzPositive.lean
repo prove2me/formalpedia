@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingMechanismLocallyLipschitzPositive
 -- name    : Kyprianou.Ch01.branchingMechanismLocallyLipschitzPositive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:17:15.259872+00:00
 -- url     : https://prove2.me/theorems/4562333f-f2d8-4772-a5e5-5ce737215b74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_sup_of_supp
 -- name    : CompanionTheory.D.LK.sup_of_supp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:28:07.210713+00:00
 -- url     : https://prove2.me/theorems/d478835b-fcda-4c1e-8bd0-0220174e196d

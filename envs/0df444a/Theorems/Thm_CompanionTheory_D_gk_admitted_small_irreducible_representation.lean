@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_small_irreducible_representation
 -- name    : CompanionTheory.D.gk.admitted.small_irreducible_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:51:07.140014+00:00
 -- url     : https://prove2.me/theorems/d4822d33-9065-42f3-8b81-604ae1df7e7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_J_J_mul
 -- name    : CompanionTheory.D.Upq.J_J_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:32.485352+00:00
 -- url     : https://prove2.me/theorems/4bfeec57-daba-439b-bd15-dc985eb8af29

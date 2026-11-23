@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_exists_op_of_form
 -- name    : CompanionTheory.D.gk.Poul.exists_op_of_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:28:15.072234+00:00
 -- url     : https://prove2.me/theorems/b3d371b9-4bd4-4bde-af5a-3f901a7f15b7

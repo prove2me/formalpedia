@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_Car_sg_erase
 -- name    : CompanionTheory.D.LK.Car.sg_erase
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:35.174912+00:00
 -- url     : https://prove2.me/theorems/83e723fe-70c4-4b4b-b770-e56d09b340bc

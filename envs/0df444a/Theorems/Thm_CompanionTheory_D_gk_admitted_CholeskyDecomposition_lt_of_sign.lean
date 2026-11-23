@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_lt_of_sign
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.lt_of_sign
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:29.666562+00:00
 -- url     : https://prove2.me/theorems/a7e6f28d-2b7a-47cc-abc0-61dc2cc97a2c

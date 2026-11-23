@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_ModEx_modular_bdd
 -- name    : CompanionTheory.D.Upq.ModEx.modular_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:50.449655+00:00
 -- url     : https://prove2.me/theorems/dd0727e4-1883-4094-b059-3ebff8d11961

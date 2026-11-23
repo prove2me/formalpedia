@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_regular_static_slice_field_equations
 -- name    : NoHair.regular_static_slice_field_equations
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:16:49.538471+00:00
 -- url     : https://prove2.me/theorems/ccbafb39-6965-4d72-8f24-a35ede2b046f

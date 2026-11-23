@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_sum_fin_eq_sum_range_poly
 -- name    : sum_fin_eq_sum_range_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:20:55.460796+00:00
 -- url     : https://prove2.me/theorems/310ba026-173e-406e-8e42-05a139a7cd1b

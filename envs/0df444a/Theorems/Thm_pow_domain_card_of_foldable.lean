@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_pow_domain_card_of_foldable
 -- name    : pow_domain_card_of_foldable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:20:01.514863+00:00
 -- url     : https://prove2.me/theorems/63cbbef0-8a3a-4784-938a-4215bf3f358e

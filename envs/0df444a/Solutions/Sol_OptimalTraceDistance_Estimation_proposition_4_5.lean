@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OptimalTraceDistance.Estimation.proposition_4_5
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-23T05:30:50.886192+00:00
 -- url     : https://prove2.me/submissions/894d38a5-d851-4398-9062-cd1cd58f2b47
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OptimalTraceDistance_Estimation_proposition_4_3
 import Theorems.Thm_OptimalTraceDistance_Estimation_proposition_2_6

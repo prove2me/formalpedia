@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_projPerp_mulVec
 -- name    : ReciprocityTheory.L2DbarEstimates.projPerp_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:24:29.990565+00:00
 -- url     : https://prove2.me/theorems/4735dfc0-77f3-4d56-afcc-b3a87fae1ddf

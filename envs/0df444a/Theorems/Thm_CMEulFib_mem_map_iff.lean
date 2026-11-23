@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMEulFib_mem_map_iff
 -- name    : CMEulFib.mem_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:19:17.511108+00:00
 -- url     : https://prove2.me/theorems/9763446b-63f9-4abd-b65c-e78fdc7e8dd7

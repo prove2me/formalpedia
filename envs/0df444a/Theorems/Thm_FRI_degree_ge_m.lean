@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_degree_ge_m
 -- name    : FRI_degree_ge_m
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:11:19.959809+00:00
 -- url     : https://prove2.me/theorems/7adb27a6-bbeb-4816-be83-fbc15b42676a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Claim_strip
 -- name    : Claim.strip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:05.066702+00:00
 -- url     : https://prove2.me/theorems/bdcb0945-f322-4054-9d93-d77d0e5cad79

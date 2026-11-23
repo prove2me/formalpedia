@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_black_box
 -- name    : X25519Dalek.fnOk_black_box
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T21:23:59.124813+00:00
 -- url     : https://prove2.me/theorems/7c5bc336-76d4-4aa7-85fa-01251c5c0783

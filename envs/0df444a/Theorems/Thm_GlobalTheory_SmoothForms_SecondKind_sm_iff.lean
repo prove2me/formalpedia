@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_SecondKind_sm_iff
 -- name    : GlobalTheory.SmoothForms.SecondKind.sm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:06.775367+00:00
 -- url     : https://prove2.me/theorems/5a923938-1890-4d12-a290-6f2f925344d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_differential_bounded_support
 -- name    : CompanionTheory.D.LK.differential_bounded_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:16.468977+00:00
 -- url     : https://prove2.me/theorems/4316633d-4da6-4e38-8462-1e3747350421

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MutualCorrelatedAgreement_map_equiv
 -- name    : MutualCorrelatedAgreement_map_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:26:01.300704+00:00
 -- url     : https://prove2.me/theorems/a3b01ddf-4478-47ca-9024-0a2d08b63a9b

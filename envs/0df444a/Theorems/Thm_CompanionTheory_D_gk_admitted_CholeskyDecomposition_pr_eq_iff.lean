@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_pr_eq_iff
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.pr_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:43.154626+00:00
 -- url     : https://prove2.me/theorems/b0a7745a-1950-474e-8eb8-fb554b7b2660

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMEulFib_comap_map_eq
 -- name    : CMEulFib.comap_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:42.116271+00:00
 -- url     : https://prove2.me/theorems/458a5404-485e-4d9f-a4d6-e19ec4a60c60

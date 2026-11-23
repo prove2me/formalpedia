@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.asymptoticallyFlatEnd_chronology_stabilizes
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T09:22:41.832982+00:00
 -- url     : https://prove2.me/submissions/0db0d5d6-b97e-496c-b220-3bee45334a24
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_asymptoticallyFlatEnd_timelike_access_at_infinity
 import Theorems.Thm_NoHair_chronoFuture_transitive

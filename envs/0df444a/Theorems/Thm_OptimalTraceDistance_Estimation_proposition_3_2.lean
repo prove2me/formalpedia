@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalTraceDistance_Estimation_proposition_3_2
 -- name    : OptimalTraceDistance.Estimation.proposition_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T05:45:00.33245+00:00
 -- url     : https://prove2.me/theorems/ca012cdf-ccb9-447a-bd24-ef296fdf7e88

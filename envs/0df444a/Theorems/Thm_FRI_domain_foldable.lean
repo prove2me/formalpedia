@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_domain_foldable
 -- name    : FRI_domain_foldable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:54:09.976923+00:00
 -- url     : https://prove2.me/theorems/df9ee399-2ee9-4183-9a15-c2f40c01e85c

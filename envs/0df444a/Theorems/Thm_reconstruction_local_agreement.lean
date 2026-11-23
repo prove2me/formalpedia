@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_reconstruction_local_agreement
 -- name    : reconstruction_local_agreement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:22:13.037645+00:00
 -- url     : https://prove2.me/theorems/cf3dc35c-64eb-40fb-a5b2-5240bfcad936

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_code_cast_eq_reedSolomon
 -- name    : FRI_code_cast_eq_reedSolomon
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:24:54.873413+00:00
 -- url     : https://prove2.me/theorems/d452ee5e-288b-45c2-83f3-dbf41438eb56

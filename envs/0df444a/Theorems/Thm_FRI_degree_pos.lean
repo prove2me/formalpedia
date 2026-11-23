@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_degree_pos
 -- name    : FRI_degree_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:10:49.53931+00:00
 -- url     : https://prove2.me/theorems/a7cab6fe-bb65-49a6-83e8-bad2362228cf

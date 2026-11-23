@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Claim_prim_reflect
 -- name    : Claim.prim_reflect
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:59.545507+00:00
 -- url     : https://prove2.me/theorems/306b3a97-690f-4c90-a5be-b716f2dbe9d4

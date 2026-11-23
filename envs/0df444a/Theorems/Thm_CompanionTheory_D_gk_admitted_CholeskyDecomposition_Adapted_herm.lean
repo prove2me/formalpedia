@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_Adapted_herm
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.Adapted.herm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:28:27.817096+00:00
 -- url     : https://prove2.me/theorems/a9eb469d-e64a-450c-92b5-c946f0110f9d

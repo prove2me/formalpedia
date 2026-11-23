@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_restrict_eq_iff_eqOn
 -- name    : restrict_eq_iff_eqOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:18:09.01402+00:00
 -- url     : https://prove2.me/theorems/8627b566-4054-4232-b668-311c7baeff62

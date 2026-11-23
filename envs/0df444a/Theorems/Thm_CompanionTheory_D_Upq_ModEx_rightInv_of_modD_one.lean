@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_ModEx_rightInv_of_modD_one
 -- name    : CompanionTheory.D.Upq.ModEx.rightInv_of_modD_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:46.718859+00:00
 -- url     : https://prove2.me/theorems/dbb0e4a2-e610-4c4a-afac-85974822424c

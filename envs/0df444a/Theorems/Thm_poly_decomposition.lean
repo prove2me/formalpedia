@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_poly_decomposition
 -- name    : poly_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:24:39.281924+00:00
 -- url     : https://prove2.me/theorems/d6c3cb87-d936-4a1a-b7ec-dd16c8222120

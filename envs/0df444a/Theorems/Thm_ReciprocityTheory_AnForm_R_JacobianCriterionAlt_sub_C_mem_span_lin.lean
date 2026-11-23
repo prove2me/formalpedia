@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_sub_C_mem_span_lin
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.sub_C_mem_span_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:00:23.598899+00:00
 -- url     : https://prove2.me/theorems/22fcaee1-7d89-45d0-917a-b9d311a83db2

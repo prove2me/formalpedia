@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_ModEx_modProps_modD
 -- name    : CompanionTheory.D.Upq.ModEx.modProps_modD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:44.785857+00:00
 -- url     : https://prove2.me/theorems/124b31f0-b852-49bc-9c34-559e1948bd94

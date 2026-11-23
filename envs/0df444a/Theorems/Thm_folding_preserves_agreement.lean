@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_folding_preserves_agreement
 -- name    : folding_preserves_agreement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:11:27.164416+00:00
 -- url     : https://prove2.me/theorems/ac3038ae-1ab9-4c5c-a3b3-0af147caf35a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_honest_fold_eq_fold
 -- name    : honest_fold_eq_fold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:17:07.961809+00:00
 -- url     : https://prove2.me/theorems/dab0f0d4-5907-4a10-b35f-fede6b513798

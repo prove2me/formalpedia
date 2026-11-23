@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_eq_reG_imG_of_eq
 -- name    : CompanionTheory.D.Upq.eq_reG_imG_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:56.20317+00:00
 -- url     : https://prove2.me/theorems/ec9e7c9e-ae4c-4d66-aa63-c5e59d3bafe6

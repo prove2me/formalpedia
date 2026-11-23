@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalTraceDistance_Estimation_lemma_B_2
 -- name    : OptimalTraceDistance.Estimation.lemma_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T05:44:53.547552+00:00
 -- url     : https://prove2.me/theorems/eb213d51-eda3-4015-967e-681526e868c5

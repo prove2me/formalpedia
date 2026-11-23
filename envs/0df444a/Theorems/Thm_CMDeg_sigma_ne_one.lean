@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMDeg_sigma_ne_one
 -- name    : CMDeg.sigma_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:20.673833+00:00
 -- url     : https://prove2.me/theorems/60526241-941a-49bd-8fb1-8c02448a0254

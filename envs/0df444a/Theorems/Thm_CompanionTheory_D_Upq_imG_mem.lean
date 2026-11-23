@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_imG_mem
 -- name    : CompanionTheory.D.Upq.imG_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:55.629829+00:00
 -- url     : https://prove2.me/theorems/b6245a97-5c49-4370-afe2-2b96fe32fd1d

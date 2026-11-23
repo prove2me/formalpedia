@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_folding_soundness
 -- name    : FRI_folding_soundness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:11:27.107069+00:00
 -- url     : https://prove2.me/theorems/3913c0eb-10b6-498a-81f0-07c8c621c2de

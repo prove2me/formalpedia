@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_pow_domain_subset
 -- name    : FRI_pow_domain_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:20:54.735806+00:00
 -- url     : https://prove2.me/theorems/77fb79de-ff9e-4736-95d4-66096c61ff8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_Perfect_Completeness
 -- name    : FRI_Perfect_Completeness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:17:57.18629+00:00
 -- url     : https://prove2.me/theorems/69e42629-9367-4401-b529-2fa28792b167

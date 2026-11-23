@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMEulFib_map_map_self
 -- name    : CMEulFib.map_map_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:08.476235+00:00
 -- url     : https://prove2.me/theorems/6261cc92-ee68-4a6e-ad4b-170ba4cfd3d5

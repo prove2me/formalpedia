@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRI_State_Transition_Prob_Fold_eq
 -- name    : FRI_State_Transition_Prob_Fold_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:17:04.447776+00:00
 -- url     : https://prove2.me/theorems/2a5b83c4-a961-4bab-a0a3-ae2027da33b0

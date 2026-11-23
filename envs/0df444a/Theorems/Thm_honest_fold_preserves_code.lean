@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_honest_fold_preserves_code
 -- name    : honest_fold_preserves_code
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:17:27.544531+00:00
 -- url     : https://prove2.me/theorems/0f1e7e57-674b-41dc-a28c-c93135139718

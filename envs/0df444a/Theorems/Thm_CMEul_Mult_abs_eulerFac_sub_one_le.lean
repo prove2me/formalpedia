@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMEul_Mult_abs_eulerFac_sub_one_le
 -- name    : CMEul.Mult.abs_eulerFac_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:33.973154+00:00
 -- url     : https://prove2.me/theorems/66cdaca5-f0f8-4007-9f40-ce3d251d5698

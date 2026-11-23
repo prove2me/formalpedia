@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_pairing_right
 -- name    : CompanionTheory.LimBd.URep.pairing_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:56:36.600712+00:00
 -- url     : https://prove2.me/theorems/dccae3f0-4d73-4733-8067-f56e72cce786

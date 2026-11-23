@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_card_block_eq_m_of_foldable
 -- name    : card_block_eq_m_of_foldable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T09:17:32.824387+00:00
 -- url     : https://prove2.me/theorems/f3a68737-7306-4a95-80dd-6d863da1e14f
