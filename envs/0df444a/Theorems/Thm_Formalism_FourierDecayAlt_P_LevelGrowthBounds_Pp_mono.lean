@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LevelGrowthBounds_Pp_mono
 -- name    : Formalism.FourierDecayAlt.P.LevelGrowthBounds.Pp_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:25:26.636155+00:00
 -- url     : https://prove2.me/theorems/779b8cd8-4e81-4418-8347-48b988892c5b

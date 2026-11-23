@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_amp_eq_ampE
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.amp_eq_ampE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:56:25.800161+00:00
 -- url     : https://prove2.me/theorems/f27f10b6-b059-4651-9369-327e3438155a

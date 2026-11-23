@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx7_t_InstSizes
 -- name    : Formalism.FourierDecayAlt.P.Jx7.t_InstSizes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:16:47.810622+00:00
 -- url     : https://prove2.me/theorems/bd30b9d5-41b9-42c3-8c7c-987040e9982e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_disk_trace_real_euler_germ
 -- name    : GrothendieckLB.Supplement.cq_disk_trace_real_euler_germ
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T20:17:23.512638+00:00
 -- url     : https://prove2.me/theorems/9ac64296-9da0-4fb4-9307-6496b0503172

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx4_curv
 -- name    : Formalism.FourierDecayAlt.P.Mx4.curv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:05:27.740278+00:00
 -- url     : https://prove2.me/theorems/d2fde3dd-4f64-4c57-a33c-d777ae1cf60c

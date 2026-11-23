@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NthRootMeasurability_densityChange_ok
 -- name    : Formalism.FourierDecayAlt.P.NthRootMeasurability.densityChange_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:26:29.494347+00:00
 -- url     : https://prove2.me/theorems/0ee09a5d-64ba-412b-bb1d-c5bcd574cb13

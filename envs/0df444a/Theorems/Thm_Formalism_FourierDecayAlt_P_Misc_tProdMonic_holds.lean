@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Misc_tProdMonic_holds
 -- name    : Formalism.FourierDecayAlt.P.Misc.tProdMonic_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:26:04.14714+00:00
 -- url     : https://prove2.me/theorems/bf198fd4-58aa-4aa2-8b8e-49e163652fe3

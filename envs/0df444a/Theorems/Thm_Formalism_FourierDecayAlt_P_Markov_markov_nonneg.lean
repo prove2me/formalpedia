@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Markov_markov_nonneg
 -- name    : Formalism.FourierDecayAlt.P.Markov.markov_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:25:39.644703+00:00
 -- url     : https://prove2.me/theorems/8033da64-ffe4-4f64-9e8b-ffb8466c747f

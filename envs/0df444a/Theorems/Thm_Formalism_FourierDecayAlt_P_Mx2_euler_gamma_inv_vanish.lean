@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx2_euler_gamma_inv_vanish
 -- name    : Formalism.FourierDecayAlt.P.Mx2.euler_gamma_inv_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:07:13.407808+00:00
 -- url     : https://prove2.me/theorems/95c056ee-b77b-4f7a-8934-f1e09c983a4f

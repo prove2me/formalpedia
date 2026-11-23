@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HenselRootsBounded_shift_facts
 -- name    : Formalism.FourierDecayAlt.P.HenselRootsBounded.shift_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:26.649967+00:00
 -- url     : https://prove2.me/theorems/079bf00a-6feb-4820-8e81-de787158409f

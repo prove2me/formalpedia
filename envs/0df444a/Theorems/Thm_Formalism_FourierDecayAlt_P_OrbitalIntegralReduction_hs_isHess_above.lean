@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_hs_isHess_above
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.hs_isHess_above
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:08.788591+00:00
 -- url     : https://prove2.me/theorems/0e5fe362-e550-4afb-96aa-09f76907d27a

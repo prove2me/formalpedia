@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_domConv
 -- name    : Formalism.FourierDecayAlt.P.LEx1.domConv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:51:55.647041+00:00
 -- url     : https://prove2.me/theorems/f95381be-8e1f-4d5b-81ad-e1f8eef5a833

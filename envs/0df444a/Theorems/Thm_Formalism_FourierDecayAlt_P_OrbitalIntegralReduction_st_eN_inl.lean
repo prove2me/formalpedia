@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_st_eN_inl
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.st_eN_inl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:09.133615+00:00
 -- url     : https://prove2.me/theorems/7f4a3596-7cf8-4521-943a-b18b2bf55bd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_morseLemma
 -- name    : Formalism.FourierDecayAlt.P.morseLemma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:48.635162+00:00
 -- url     : https://prove2.me/theorems/ed6f88ed-80ca-4c96-976e-b0e4068392bd

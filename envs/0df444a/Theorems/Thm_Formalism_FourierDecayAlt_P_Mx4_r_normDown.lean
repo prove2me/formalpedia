@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx4_r_normDown
 -- name    : Formalism.FourierDecayAlt.P.Mx4.r_normDown
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:20:26.519229+00:00
 -- url     : https://prove2.me/theorems/2ad33d99-ce05-4900-94ff-aa02d8916f1d

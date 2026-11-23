@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_boundary_trace_fourier_coefficients
 -- name    : GrothendieckLB.Supplement.cq_boundary_trace_fourier_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:07:12.867674+00:00
 -- url     : https://prove2.me/theorems/01cd0c65-d97b-4c1b-aea9-3edb06f5929d

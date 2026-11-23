@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PhaseFunctionDerivatives_a_fderiv_apply
 -- name    : Formalism.FourierDecayAlt.P.PhaseFunctionDerivatives.a_fderiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:58.869091+00:00
 -- url     : https://prove2.me/theorems/e4e33506-1528-4159-94b6-7dc2cdb301b7

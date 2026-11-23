@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrderChainWeights_measurable_chainWeight
 -- name    : Formalism.FourierDecayAlt.P.OrderChainWeights.measurable_chainWeight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:43.672849+00:00
 -- url     : https://prove2.me/theorems/f423c8d8-8cb0-4f33-8a33-4c6cc7e17fef

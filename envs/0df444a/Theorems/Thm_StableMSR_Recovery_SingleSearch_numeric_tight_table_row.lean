@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleSearch_numeric_tight_table_row
 -- name    : StableMSR.Recovery.SingleSearch.numeric_tight_table_row
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T20:27:37.169737+00:00
 -- url     : https://prove2.me/theorems/48236ae4-3cf7-4b3a-ad9b-1419dfbf54fe

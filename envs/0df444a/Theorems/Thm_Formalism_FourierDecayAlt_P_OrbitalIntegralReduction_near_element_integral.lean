@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_near_element_integral
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.near_element_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:49.909427+00:00
 -- url     : https://prove2.me/theorems/8550414d-cdb7-4fb0-b822-72867f466229

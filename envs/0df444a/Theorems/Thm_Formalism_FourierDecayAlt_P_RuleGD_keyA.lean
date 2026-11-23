@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RuleGD_keyA
 -- name    : Formalism.FourierDecayAlt.P.RuleGD.keyA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:06:04.617821+00:00
 -- url     : https://prove2.me/theorems/c662768c-fabc-4219-a70a-283ec0742382

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_near_product_closed
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.near_product_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:27.993793+00:00
 -- url     : https://prove2.me/theorems/04ccc815-e977-4af3-9f43-e6d007cf8ced

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_6_zero_discount_v3_unbounded_jump_growth
 -- name    : Kyprianou.Ch08.StageB.source_result8_6_zero_discount_v3_unbounded_jump_growth
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:37:00.574796+00:00
 -- url     : https://prove2.me/theorems/aab5c1b8-18f0-4c39-a24c-e6f707fa4287

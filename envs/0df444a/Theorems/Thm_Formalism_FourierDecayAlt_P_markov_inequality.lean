@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_markov_inequality
 -- name    : Formalism.FourierDecayAlt.P.markov_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:19:28.883351+00:00
 -- url     : https://prove2.me/theorems/beba2317-5f81-4b0e-81e8-c186780e13b4

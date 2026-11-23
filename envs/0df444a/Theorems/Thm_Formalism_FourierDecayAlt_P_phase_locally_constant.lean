@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_phase_locally_constant
 -- name    : Formalism.FourierDecayAlt.P.phase_locally_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:04.607663+00:00
 -- url     : https://prove2.me/theorems/8e860e84-657a-4c6a-9b84-7b380ad83ebe

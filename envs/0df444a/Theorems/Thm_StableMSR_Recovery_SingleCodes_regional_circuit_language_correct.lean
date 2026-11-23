@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleCodes_regional_circuit_language_correct
 -- name    : StableMSR.Recovery.SingleCodes.regional_circuit_language_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:26:26.287202+00:00
 -- url     : https://prove2.me/theorems/99dbdc83-616a-4376-a6ef-50377501acbd

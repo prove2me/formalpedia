@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_tk_lat_pi
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.tk_lat_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:49.666502+00:00
 -- url     : https://prove2.me/theorems/10f3de85-41c4-4c7d-9f6f-f297ada84bb2

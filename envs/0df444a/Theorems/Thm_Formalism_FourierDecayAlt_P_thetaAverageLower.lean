@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_thetaAverageLower
 -- name    : Formalism.FourierDecayAlt.P.thetaAverageLower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:23.453347+00:00
 -- url     : https://prove2.me/theorems/44dc59f2-4018-4e05-8d16-e6fe6873c5cb

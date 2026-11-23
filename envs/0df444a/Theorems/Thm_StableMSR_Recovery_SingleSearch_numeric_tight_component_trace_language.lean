@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleSearch_numeric_tight_component_trace_language
 -- name    : StableMSR.Recovery.SingleSearch.numeric_tight_component_trace_language
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T20:19:26.916044+00:00
 -- url     : https://prove2.me/theorems/da963c97-004c-4392-b5cc-e98ae6cc39c2

@@ -34525,11 +34525,11 @@
 {"parent": "BauerleRiederMDP_FiniteHorizon_IsOptimal", "child": "BauerleRiederMDP_FiniteHorizon_V", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_FiniteHorizon_IsOptimal", "child": "MDPFinance_Bellman_History", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_FiniteHorizon_IsOptimal", "child": "MDPFinance_Bellman_Policy", "via": ["statement"]}
-{"parent": "ReusableMatching.lemma_9", "child": "ReusableMatching_criticalThreshold", "via": ["statement"]}
-{"parent": "ReusableMatching.lemma_9", "child": "ReusableMatching_window", "via": ["statement"]}
-{"parent": "ReusableMatching.lemma_9", "child": "ReusableMatching_G", "via": ["statement"]}
-{"parent": "ReusableMatching.lemma_9", "child": "ReusableMatching_dualAlpha", "via": ["statement"]}
-{"parent": "ReusableMatching.lemma_9", "child": "ReusableMatching_dualBeta", "via": ["statement"]}
+{"parent": "ReusableMatching.lemma_9", "child": "ReusableMatching_criticalThreshold", "via": ["solution", "statement"]}
+{"parent": "ReusableMatching.lemma_9", "child": "ReusableMatching_window", "via": ["solution", "statement"]}
+{"parent": "ReusableMatching.lemma_9", "child": "ReusableMatching_G", "via": ["solution", "statement"]}
+{"parent": "ReusableMatching.lemma_9", "child": "ReusableMatching_dualAlpha", "via": ["solution", "statement"]}
+{"parent": "ReusableMatching.lemma_9", "child": "ReusableMatching_dualBeta", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.SizeP.bits_le_P0", "child": "PaddedDescent_F_MarkDeg", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.SizeP.bits_le_P0", "child": "VariableBound_Net_Tests", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.SizeP.bits_le_P0", "child": "VariableBound_Net_SizeB", "via": ["solution", "statement"]}
@@ -49458,9 +49458,9 @@
 {"parent": "GeneralPieces.Chain.K_sq_L_le", "child": "GeneralPieces_Defs", "via": ["solution", "statement"]}
 {"parent": "MagnonCode.AQEDC.theorem_7_8", "child": "MagnonCode_AQEDC_IsLocalOn", "via": ["statement"]}
 {"parent": "MagnonCode.AQEDC.theorem_7_8", "child": "MagnonCode_AQEDC_psiNorm", "via": ["statement"]}
-{"parent": "ReusableMatching.theorem_1", "child": "ReusableMatching_OPT", "via": ["statement"]}
-{"parent": "ReusableMatching.theorem_1", "child": "ReusableMatching_matchedPairs", "via": ["statement"]}
-{"parent": "ReusableMatching.theorem_1", "child": "ReusableMatching_reward", "via": ["statement"]}
+{"parent": "ReusableMatching.theorem_1", "child": "ReusableMatching_OPT", "via": ["solution", "statement"]}
+{"parent": "ReusableMatching.theorem_1", "child": "ReusableMatching_matchedPairs", "via": ["solution", "statement"]}
+{"parent": "ReusableMatching.theorem_1", "child": "ReusableMatching_reward", "via": ["solution", "statement"]}
 {"parent": "CircuitLowerBound_ENP_Restart", "child": "CountKSatRate_Pad", "via": ["statement"]}
 {"parent": "CircuitLowerBound_ENP_Restart", "child": "CircuitLowerBound_Small", "via": ["statement"]}
 {"parent": "CircuitLowerBound_ENP_Restart", "child": "CircuitLowerBound_ENP_Round", "via": ["statement"]}

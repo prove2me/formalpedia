@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitTailEstimates_norm_omLong_le
 -- name    : Formalism.FourierDecayAlt.P.OrbitTailEstimates.norm_omLong_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:27:16.874034+00:00
 -- url     : https://prove2.me/theorems/c3df2dd2-b352-48a1-89d5-d51cb27a3213

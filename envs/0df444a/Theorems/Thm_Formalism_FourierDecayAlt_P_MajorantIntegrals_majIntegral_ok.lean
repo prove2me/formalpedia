@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MajorantIntegrals_majIntegral_ok
 -- name    : Formalism.FourierDecayAlt.P.MajorantIntegrals.majIntegral_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:54:13.595509+00:00
 -- url     : https://prove2.me/theorems/94148ec4-c844-4fb2-951e-5c49aec8cc6b

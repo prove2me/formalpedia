@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_nrmDown_key
 -- name    : Formalism.FourierDecayAlt.P.Mx7.nrmDown_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:34:57.806127+00:00
 -- url     : https://prove2.me/theorems/66f324ce-bad3-4c19-8c38-9457701b1c6c

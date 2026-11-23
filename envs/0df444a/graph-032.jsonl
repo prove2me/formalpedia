@@ -60062,13 +60062,13 @@
 {"parent": "PatternRangeCounting1593.RangeCounting.Supplement.lemma_2_2", "child": "PatternRangeCounting1593_RangeCounting_Supplement_MatrixAccess", "via": ["statement"]}
 {"parent": "StabPauli1264.Grouped.Supplement.graph_encoding", "child": "StabPauli1264_Grouped_Supplement_Structure", "via": ["statement"]}
 {"parent": "XORFullTilt.Hardness.Supplement.classical_reduction", "child": "XORFullTilt_Hardness_E3LIN", "via": ["statement"]}
-{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "Kyprianou_Ch02_IndependentComponents", "via": ["statement"]}
-{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
+{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "Kyprianou_Ch02_IndependentComponents", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.levyItoDecompositionCorrected", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["solution", "statement"]}
 {"parent": "BosonicLearn_Supplement_kCopySuccessProb", "child": "BosonicLearn_sequentialLaw", "via": ["statement"]}
 {"parent": "BosonicLearn_Supplement_kCopySuccessProb", "child": "BosonicLearn_Supplement_KCopyScheme", "via": ["statement"]}
 {"parent": "BosonicLearn_Supplement_kCopySuccessProb", "child": "BosonicLearn_traceDist", "via": ["statement"]}

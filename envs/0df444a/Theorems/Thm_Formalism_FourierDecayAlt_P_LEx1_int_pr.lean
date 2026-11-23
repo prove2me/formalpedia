@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_int_pr
 -- name    : Formalism.FourierDecayAlt.P.LEx1.int_pr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:02:10.981595+00:00
 -- url     : https://prove2.me/theorems/6ecfebfa-e1fe-4d7a-abfd-3a796e09cac1

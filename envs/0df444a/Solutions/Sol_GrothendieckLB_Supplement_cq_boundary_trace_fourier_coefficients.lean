@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_boundary_trace_fourier_coefficients
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T20:18:05.856873+00:00
 -- url     : https://prove2.me/submissions/d4eb0973-c18f-49a9-9e32-23ad0fcac2f6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_cq_gaussian_hermite_expansion
 import Mathlib.Analysis.Analytic.Uniqueness

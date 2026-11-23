@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_hessenberg_entry_above_diagonal
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.hessenberg_entry_above_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:05.576695+00:00
 -- url     : https://prove2.me/theorems/bcc2b5e8-088c-4d49-af9f-882e61544f86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx4_euler_zeta_gamma_inv_identity
 -- name    : Formalism.FourierDecayAlt.P.Mx4.euler_zeta_gamma_inv_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:03:59.695723+00:00
 -- url     : https://prove2.me/theorems/0fdffe1a-14f4-4eb0-8351-7714bb84d154

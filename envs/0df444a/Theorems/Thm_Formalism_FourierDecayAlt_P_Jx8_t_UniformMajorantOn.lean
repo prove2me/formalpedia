@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx8_t_UniformMajorantOn
 -- name    : Formalism.FourierDecayAlt.P.Jx8.t_UniformMajorantOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:17:37.254673+00:00
 -- url     : https://prove2.me/theorems/0e4a75f4-6b8d-4d36-89f5-e76784d02a6c

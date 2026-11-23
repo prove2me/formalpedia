@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MeanNormSquaredBound_normSq_mean
 -- name    : Formalism.FourierDecayAlt.P.MeanNormSquaredBound.normSq_mean
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:25:40.156223+00:00
 -- url     : https://prove2.me/theorems/15e62ac1-fca7-4ee3-adb0-949fbeff4ba1

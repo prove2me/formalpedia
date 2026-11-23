@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Minors_card_lead
 -- name    : Formalism.FourierDecayAlt.P.Minors.card_lead
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:26:07.023791+00:00
 -- url     : https://prove2.me/theorems/7e2078c6-df20-49b5-920e-bfc626304a78

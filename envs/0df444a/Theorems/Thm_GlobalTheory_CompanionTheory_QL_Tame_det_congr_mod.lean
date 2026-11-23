@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Tame_det_congr_mod
 -- name    : GlobalTheory.CompanionTheory.QL.Tame.det_congr_mod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:25:20.100718+00:00
 -- url     : https://prove2.me/theorems/b79a7c88-81ff-4d52-b2bc-94197a1f84cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_gRem_eq
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.gRem_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:56:35.972793+00:00
 -- url     : https://prove2.me/theorems/d2a31648-130b-4fed-80e3-522e4e51ac2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_omPhi_single
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.omPhi_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:34.188738+00:00
 -- url     : https://prove2.me/theorems/74c501a6-8440-4eb3-b177-40bac45e242f

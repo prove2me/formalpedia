@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx7_thrS_nonneg
 -- name    : Formalism.FourierDecayAlt.P.Jx7.thrS_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:17:16.669005+00:00
 -- url     : https://prove2.me/theorems/91c7297d-3b03-4350-9434-6cd7c84c60fd

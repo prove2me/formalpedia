@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx3_wid_eq
 -- name    : Formalism.FourierDecayAlt.P.Mx3.wid_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:19:06.451786+00:00
 -- url     : https://prove2.me/theorems/2504313e-ba86-4901-9f3d-e4829d164ba4

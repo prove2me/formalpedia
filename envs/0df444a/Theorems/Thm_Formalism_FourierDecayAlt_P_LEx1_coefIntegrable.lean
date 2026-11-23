@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_coefIntegrable
 -- name    : Formalism.FourierDecayAlt.P.LEx1.coefIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:58:31.902163+00:00
 -- url     : https://prove2.me/theorems/895e5853-55fd-494a-9d9d-3ed5f61bec29

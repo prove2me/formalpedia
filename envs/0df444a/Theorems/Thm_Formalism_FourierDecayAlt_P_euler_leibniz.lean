@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_euler_leibniz
 -- name    : Formalism.FourierDecayAlt.P.euler_leibniz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:58.336434+00:00
 -- url     : https://prove2.me/theorems/7c725f1b-ab63-4e72-ab03-1a7a489f5d7b

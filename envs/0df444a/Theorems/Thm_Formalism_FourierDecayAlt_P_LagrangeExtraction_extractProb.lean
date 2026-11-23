@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LagrangeExtraction_extractProb
 -- name    : Formalism.FourierDecayAlt.P.LagrangeExtraction.extractProb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:25:14.0032+00:00
 -- url     : https://prove2.me/theorems/4e022e5a-683f-4961-9b2a-0b0de685f6f2

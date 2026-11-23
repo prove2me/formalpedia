@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLeft_sq_norm_cos
 -- name    : GlobalTheory.CompanionTheory.DigammaLeft.sq_norm_cos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:18.557805+00:00
 -- url     : https://prove2.me/theorems/90edc85c-8238-4337-bc69-2063c580959d

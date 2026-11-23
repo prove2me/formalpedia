@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PositiveSemidefinitePullback_form_ind
 -- name    : Formalism.FourierDecayAlt.P.PositiveSemidefinitePullback.form_ind
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:20:49.443809+00:00
 -- url     : https://prove2.me/theorems/2322a81a-ac7e-410a-a94a-d9c515b5b2d9

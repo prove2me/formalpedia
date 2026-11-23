@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx7_t_MainJointInst
 -- name    : Formalism.FourierDecayAlt.P.Jx7.t_MainJointInst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:17:23.57381+00:00
 -- url     : https://prove2.me/theorems/25e60855-ee83-466a-a925-ced0b1f14b4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_sg_units
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.sg_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:27.93644+00:00
 -- url     : https://prove2.me/theorems/17826be3-5aa4-47eb-81f6-f7ac23d5ab81

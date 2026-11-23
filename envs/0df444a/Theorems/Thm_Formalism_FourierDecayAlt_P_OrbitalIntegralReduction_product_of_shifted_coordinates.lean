@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_product_of_shifted_coordinates
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.product_of_shifted_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:28.267133+00:00
 -- url     : https://prove2.me/theorems/1685abbe-3ca5-4693-be04-9b6cee5b1dd9

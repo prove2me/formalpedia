@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_coefficient_L2
 -- name    : Formalism.FourierDecayAlt.P.LEx1.coefficient_L2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:18:34.686524+00:00
 -- url     : https://prove2.me/theorems/e74f7e35-efe8-4190-b2c7-2bdc147a0ccf

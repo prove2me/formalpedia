@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PoissonSummationDecay_productDecay
 -- name    : Formalism.FourierDecayAlt.P.PoissonSummationDecay.productDecay
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:01:49.507107+00:00
 -- url     : https://prove2.me/theorems/3e00234d-566e-40c4-a8dd-0c355934addd

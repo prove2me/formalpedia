@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_packed_rho_power_rows
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:44:31.106344+00:00
 -- url     : https://prove2.me/submissions/3b1478d2-c0f8-437a-a0b9-af01cb69ccd1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_cq_primary_power_rows_1_to_48
 import Theorems.Thm_GrothendieckLB_Supplement_cq_primary_power_rows_49_to_96

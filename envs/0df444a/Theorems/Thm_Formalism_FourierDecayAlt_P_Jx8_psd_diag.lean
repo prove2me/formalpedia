@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx8_psd_diag
 -- name    : Formalism.FourierDecayAlt.P.Jx8.psd_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:51:00.041327+00:00
 -- url     : https://prove2.me/theorems/a725a443-0cfa-4f72-9e32-8187621f1f50

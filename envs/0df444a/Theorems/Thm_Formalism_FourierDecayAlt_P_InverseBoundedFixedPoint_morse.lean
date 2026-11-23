@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_InverseBoundedFixedPoint_morse
 -- name    : Formalism.FourierDecayAlt.P.InverseBoundedFixedPoint.morse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:13:49.238061+00:00
 -- url     : https://prove2.me/theorems/78d734c2-028e-49b4-bdc1-b3723e2ce3a9

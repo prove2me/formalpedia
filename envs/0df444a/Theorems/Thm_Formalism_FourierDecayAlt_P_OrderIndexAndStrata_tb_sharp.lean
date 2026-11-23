@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrderIndexAndStrata_tb_sharp
 -- name    : Formalism.FourierDecayAlt.P.OrderIndexAndStrata.tb_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:30:05.986489+00:00
 -- url     : https://prove2.me/theorems/29d39443-fb15-4c15-9c4b-06f37822a9c2

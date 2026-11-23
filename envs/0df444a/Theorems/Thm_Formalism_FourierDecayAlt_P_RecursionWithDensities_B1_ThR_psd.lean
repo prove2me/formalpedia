@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RecursionWithDensities_B1_ThR_psd
 -- name    : Formalism.FourierDecayAlt.P.RecursionWithDensities.B1.ThR_psd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:21:40.154444+00:00
 -- url     : https://prove2.me/theorems/bd9efa44-99fd-4211-a80b-a5eb9e7ea1b6

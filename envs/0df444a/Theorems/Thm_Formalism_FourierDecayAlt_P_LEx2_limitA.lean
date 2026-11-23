@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_limitA
 -- name    : Formalism.FourierDecayAlt.P.LEx2.limitA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:53:44.980007+00:00
 -- url     : https://prove2.me/theorems/af9a67ff-7fda-4cee-bc88-0ae6ced219c2

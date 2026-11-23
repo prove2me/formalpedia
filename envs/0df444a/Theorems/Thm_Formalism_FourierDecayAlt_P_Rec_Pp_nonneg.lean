@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Rec_Pp_nonneg
 -- name    : Formalism.FourierDecayAlt.P.Rec.Pp_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:00:06.494728+00:00
 -- url     : https://prove2.me/theorems/ede296a3-6d1a-46fe-8b86-1a5646222942

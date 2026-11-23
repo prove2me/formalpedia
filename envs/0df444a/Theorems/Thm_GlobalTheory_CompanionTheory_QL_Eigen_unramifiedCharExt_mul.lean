@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Eigen_unramifiedCharExt_mul
 -- name    : GlobalTheory.CompanionTheory.QL.Eigen.unramifiedCharExt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:46.685817+00:00
 -- url     : https://prove2.me/theorems/f7a0748a-62e0-4ee8-8693-e7229b916fe1

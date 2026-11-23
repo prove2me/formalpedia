@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_succ_above_one_zero
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.succ_above_one_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:28.605529+00:00
 -- url     : https://prove2.me/theorems/9afcc0ca-9f4e-4923-925c-c30d15888e53

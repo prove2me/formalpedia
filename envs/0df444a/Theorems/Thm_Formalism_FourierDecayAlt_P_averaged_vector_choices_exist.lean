@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_averaged_vector_choices_exist
 -- name    : Formalism.FourierDecayAlt.P.averaged_vector_choices_exist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:02:44.468795+00:00
 -- url     : https://prove2.me/theorems/26871889-775d-42e3-9a6b-585debec25f1

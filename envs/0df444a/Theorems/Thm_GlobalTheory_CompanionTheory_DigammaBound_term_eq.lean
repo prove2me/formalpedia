@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaBound_term_eq
 -- name    : GlobalTheory.CompanionTheory.DigammaBound.term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:25:54.994797+00:00
 -- url     : https://prove2.me/theorems/95282699-511d-4ede-a52c-1ede51b3e378

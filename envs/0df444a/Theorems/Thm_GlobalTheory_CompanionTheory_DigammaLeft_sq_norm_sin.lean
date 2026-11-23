@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLeft_sq_norm_sin
 -- name    : GlobalTheory.CompanionTheory.DigammaLeft.sq_norm_sin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:34.092952+00:00
 -- url     : https://prove2.me/theorems/4421a92d-0061-4835-938f-7d625e4de255

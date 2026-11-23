@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NthRootMeasurability_A_disjoint
 -- name    : Formalism.FourierDecayAlt.P.NthRootMeasurability.A_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:26:22.820264+00:00
 -- url     : https://prove2.me/theorems/4523ba01-4f19-487d-bd16-f7dd3c31a85c

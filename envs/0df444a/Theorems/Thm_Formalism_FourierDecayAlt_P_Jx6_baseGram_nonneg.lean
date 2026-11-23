@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx6_baseGram_nonneg
 -- name    : Formalism.FourierDecayAlt.P.Jx6.baseGram_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:16:42.215172+00:00
 -- url     : https://prove2.me/theorems/88fb1103-63e6-4d38-b503-14a789d56539

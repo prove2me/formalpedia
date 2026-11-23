@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx2_t_EuclidFrame
 -- name    : Formalism.FourierDecayAlt.P.Jx2.t_EuclidFrame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:16:39.980173+00:00
 -- url     : https://prove2.me/theorems/8a32d72e-f9ef-413d-a161-6b4b46b4eab2

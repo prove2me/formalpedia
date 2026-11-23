@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrderIndexAndStrata_unitStratumTotal
 -- name    : Formalism.FourierDecayAlt.P.OrderIndexAndStrata.unitStratumTotal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:30:05.785632+00:00
 -- url     : https://prove2.me/theorems/e21d1358-50c0-4f23-ae72-0167aff6263a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_tk_bx_eq_S
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.tk_bx_eq_S
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:30.533835+00:00
 -- url     : https://prove2.me/theorems/db80a385-79be-4398-82cc-22c1f50d7b5b

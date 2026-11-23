@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitTailEstimates_tail_haar
 -- name    : Formalism.FourierDecayAlt.P.OrbitTailEstimates.tail_haar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:27:11.632665+00:00
 -- url     : https://prove2.me/theorems/f63e70fb-938f-4f35-adda-73a79ad4653c

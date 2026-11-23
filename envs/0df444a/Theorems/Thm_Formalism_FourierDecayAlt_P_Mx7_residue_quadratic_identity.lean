@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_residue_quadratic_identity
 -- name    : Formalism.FourierDecayAlt.P.Mx7.residue_quadratic_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:41:52.272673+00:00
 -- url     : https://prove2.me/theorems/c4866650-e8a3-43f5-89f7-877e4946041f

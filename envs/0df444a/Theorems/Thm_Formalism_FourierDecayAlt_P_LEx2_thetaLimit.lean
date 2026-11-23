@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_thetaLimit
 -- name    : Formalism.FourierDecayAlt.P.LEx2.thetaLimit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:24:07.39422+00:00
 -- url     : https://prove2.me/theorems/19fcca1e-e792-4e6c-9b52-aa0a1a8671e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_orbital_integral_change_estimate
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.orbital_integral_change_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:36.832972+00:00
 -- url     : https://prove2.me/theorems/da10f5b2-4799-42f4-9c95-16d15f27a2aa

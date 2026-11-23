@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Markov_interval_iter
 -- name    : Formalism.FourierDecayAlt.P.Markov.interval_iter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:25:22.952387+00:00
 -- url     : https://prove2.me/theorems/5d536afa-16e8-437b-b175-74ce5bb3f0d1

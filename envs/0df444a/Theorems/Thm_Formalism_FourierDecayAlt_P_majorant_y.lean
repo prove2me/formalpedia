@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_majorant_y
 -- name    : Formalism.FourierDecayAlt.P.majorant_y
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:10.797717+00:00
 -- url     : https://prove2.me/theorems/d58ae201-2dd1-4068-b80d-8e9b34502a85

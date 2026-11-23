@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_lu_sum_pairs
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.lu_sum_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:37.248194+00:00
 -- url     : https://prove2.me/theorems/1e182b32-90a6-4251-85b9-8ced1d795273

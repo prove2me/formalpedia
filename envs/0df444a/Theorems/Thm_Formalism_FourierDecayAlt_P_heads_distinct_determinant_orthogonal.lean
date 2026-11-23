@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_heads_distinct_determinant_orthogonal
 -- name    : Formalism.FourierDecayAlt.P.heads_distinct_determinant_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:02:33.447623+00:00
 -- url     : https://prove2.me/theorems/3d076f30-8ceb-4528-985b-891691f44fe1

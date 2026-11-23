@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PhaseFunctionDerivatives_a_norm_proj_le
 -- name    : Formalism.FourierDecayAlt.P.PhaseFunctionDerivatives.a_norm_proj_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:30:02.709183+00:00
 -- url     : https://prove2.me/theorems/024ecb08-37e2-4810-98b1-278fb0636525

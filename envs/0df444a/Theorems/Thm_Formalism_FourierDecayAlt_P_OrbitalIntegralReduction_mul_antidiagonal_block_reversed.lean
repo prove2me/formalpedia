@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_mul_antidiagonal_block_reversed
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.mul_antidiagonal_block_reversed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:25.629438+00:00
 -- url     : https://prove2.me/theorems/757dbea3-3493-4940-a521-8a7a121138b3

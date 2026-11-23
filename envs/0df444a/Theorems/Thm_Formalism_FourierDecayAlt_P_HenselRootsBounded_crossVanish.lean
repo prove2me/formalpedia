@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HenselRootsBounded_crossVanish
 -- name    : Formalism.FourierDecayAlt.P.HenselRootsBounded.crossVanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:44.844878+00:00
 -- url     : https://prove2.me/theorems/8749a894-3483-494b-ba4e-7d81d46c7fa3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx2_partialDerivBar_commute_nab
 -- name    : Formalism.FourierDecayAlt.P.Mx2.partialDerivBar_commute_nab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:05.875456+00:00
 -- url     : https://prove2.me/theorems/83408086-3191-46c5-af12-f3cec0ba7ba2

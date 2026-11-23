@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_trace_dual_alt
 -- name    : Formalism.FourierDecayAlt.P.trace_dual_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:40:07.87412+00:00
 -- url     : https://prove2.me/theorems/68004835-0c63-4286-96c4-89db47bb13b2

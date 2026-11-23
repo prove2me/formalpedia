@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_subroutineOk_publicKey_from_v2
 -- name    : X25519Dalek.subroutineOk_publicKey_from_v2
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-23T19:14:02.204073+00:00
 -- url     : https://prove2.me/theorems/11a5b41a-f57d-4868-8888-7b89035498ef

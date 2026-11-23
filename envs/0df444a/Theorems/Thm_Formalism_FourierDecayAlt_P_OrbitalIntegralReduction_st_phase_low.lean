@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_st_phase_low
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.st_phase_low
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:28.665382+00:00
 -- url     : https://prove2.me/theorems/b12cad10-241b-47ab-9ef1-6f4fa232ac72

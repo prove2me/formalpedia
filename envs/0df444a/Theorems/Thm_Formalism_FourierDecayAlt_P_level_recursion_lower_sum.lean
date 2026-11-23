@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_level_recursion_lower_sum
 -- name    : Formalism.FourierDecayAlt.P.level_recursion_lower_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:29.454727+00:00
 -- url     : https://prove2.me/theorems/4da63707-50e3-477f-881a-6ff7b7fdfbf3

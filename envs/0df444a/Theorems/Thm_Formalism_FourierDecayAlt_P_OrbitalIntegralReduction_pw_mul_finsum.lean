@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_pw_mul_finsum
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.pw_mul_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:45.429051+00:00
 -- url     : https://prove2.me/theorems/31c4b9d0-4583-4544-a3a0-bb9d667f7bc6

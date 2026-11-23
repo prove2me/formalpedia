@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_edwardsPoint_mul_base_clamped_v2
 -- name    : X25519Dalek.fnOk_edwardsPoint_mul_base_clamped_v2
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-23T19:14:01.44637+00:00
 -- url     : https://prove2.me/theorems/03ab19be-d0d9-4ab6-80bb-665e552ae2be

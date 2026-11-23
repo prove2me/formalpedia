@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NthRootMeasurability_core
 -- name    : Formalism.FourierDecayAlt.P.NthRootMeasurability.core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:26:25.006502+00:00
 -- url     : https://prove2.me/theorems/1b00dab3-2604-4865-b9ad-3fdef0404ad7

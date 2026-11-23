@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_averaged_vector_norm_bound
 -- name    : Formalism.FourierDecayAlt.P.averaged_vector_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:03:07.084387+00:00
 -- url     : https://prove2.me/theorems/1f5b1323-804e-46c5-87fd-986737595144

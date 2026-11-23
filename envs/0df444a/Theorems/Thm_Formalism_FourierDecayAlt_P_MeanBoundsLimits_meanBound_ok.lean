@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MeanBoundsLimits_meanBound_ok
 -- name    : Formalism.FourierDecayAlt.P.MeanBoundsLimits.meanBound_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:25:56.719144+00:00
 -- url     : https://prove2.me/theorems/7d88e15d-a874-47bb-a9ff-eb21e136c159

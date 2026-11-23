@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_6_zero_discount_v3_unbounded_triplet_eq
 -- name    : Kyprianou.Ch08.StageB.source_result8_6_zero_discount_v3_unbounded_triplet_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:29:20.437846+00:00
 -- url     : https://prove2.me/theorems/e527a9b3-2d87-446e-9692-10ba9788bd21

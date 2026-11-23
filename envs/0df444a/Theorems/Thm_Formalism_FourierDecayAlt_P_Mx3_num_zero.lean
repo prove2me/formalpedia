@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx3_num_zero
 -- name    : Formalism.FourierDecayAlt.P.Mx3.num_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:26:00.843053+00:00
 -- url     : https://prove2.me/theorems/708a670c-9858-4d54-a8b8-ed0e8f8e963c

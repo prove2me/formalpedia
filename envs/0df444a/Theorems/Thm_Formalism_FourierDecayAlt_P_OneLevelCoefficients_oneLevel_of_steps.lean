@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OneLevelCoefficients_oneLevel_of_steps
 -- name    : Formalism.FourierDecayAlt.P.OneLevelCoefficients.oneLevel_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:26:38.304847+00:00
 -- url     : https://prove2.me/theorems/a952056f-bb07-49f6-9e24-94e986680cf5

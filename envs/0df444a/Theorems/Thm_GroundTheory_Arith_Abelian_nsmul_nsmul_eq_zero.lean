@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_nsmul_nsmul_eq_zero
 -- name    : GroundTheory.Arith.Abelian.nsmul_nsmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:00.643104+00:00
 -- url     : https://prove2.me/theorems/3720a766-0002-4a46-9b36-1d1f3e1f4de8

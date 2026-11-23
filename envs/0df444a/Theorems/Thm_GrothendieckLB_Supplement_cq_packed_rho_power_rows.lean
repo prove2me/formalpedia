@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_packed_rho_power_rows
 -- name    : GrothendieckLB.Supplement.cq_packed_rho_power_rows
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:38:26.141048+00:00
 -- url     : https://prove2.me/theorems/737cef3b-bc83-40a9-b5b4-c9a563ccd1d8

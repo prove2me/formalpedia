@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_shift_commute_relation
 -- name    : Formalism.FourierDecayAlt.P.shift_commute_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:11.294839+00:00
 -- url     : https://prove2.me/theorems/1a341a3f-76cd-4528-8700-238cded1591c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx2_levelAssemble
 -- name    : Formalism.FourierDecayAlt.P.Mx2.levelAssemble
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:34:55.824361+00:00
 -- url     : https://prove2.me/theorems/da6d146e-4064-40af-bcd5-3a0c7012b8f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Markov_bernstein
 -- name    : Formalism.FourierDecayAlt.P.Markov.bernstein
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:25:25.459689+00:00
 -- url     : https://prove2.me/theorems/92953389-b135-44d8-ab5c-8b308d9f12b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_differentialAddAndDouble_724_752
 -- name    : X25519Dalek.differentialAddAndDouble_724_752
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-23T19:33:12.001057+00:00
 -- url     : https://prove2.me/theorems/56dbf5df-1e97-49df-a0b0-a73a3aa36a29

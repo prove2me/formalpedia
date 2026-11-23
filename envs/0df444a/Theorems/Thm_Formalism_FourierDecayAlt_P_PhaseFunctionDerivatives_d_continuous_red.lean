@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PhaseFunctionDerivatives_d_continuous_red
 -- name    : Formalism.FourierDecayAlt.P.PhaseFunctionDerivatives.d_continuous_red
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:01:20.963449+00:00
 -- url     : https://prove2.me/theorems/45b854bd-4503-4369-857f-427e252b4e7d

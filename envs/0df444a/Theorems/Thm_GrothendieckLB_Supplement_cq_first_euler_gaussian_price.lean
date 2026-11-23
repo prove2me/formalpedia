@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_first_euler_gaussian_price
 -- name    : GrothendieckLB.Supplement.cq_first_euler_gaussian_price
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T20:22:55.83982+00:00
 -- url     : https://prove2.me/theorems/d1ac2fdb-ea77-459b-b7a0-e890bcac23b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Lim_cof_lower
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Lim.cof_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:56:07.95929+00:00
 -- url     : https://prove2.me/theorems/22e801ca-0b9d-41e4-a2bd-144e1335f41c

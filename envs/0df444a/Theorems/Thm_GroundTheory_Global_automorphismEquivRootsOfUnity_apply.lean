@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_automorphismEquivRootsOfUnity_apply
 -- name    : GroundTheory.Global.automorphismEquivRootsOfUnity_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:11.26849+00:00
 -- url     : https://prove2.me/theorems/2a3bf672-602a-4fad-9035-e548e0efb207

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_adj
 -- name    : Formalism.FourierDecayAlt.P.LEx2.adj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:19:51.216506+00:00
 -- url     : https://prove2.me/theorems/d2efe839-3465-40a5-a87c-a7a0d46d2eef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_KernelScalingBack_Kp_scale
 -- name    : Formalism.FourierDecayAlt.P.KernelScalingBack.Kp_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:17:59.867765+00:00
 -- url     : https://prove2.me/theorems/48acfc3e-6828-4c5b-a7b5-3d683b85532e

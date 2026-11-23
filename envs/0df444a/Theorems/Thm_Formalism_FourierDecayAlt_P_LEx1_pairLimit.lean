@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_pairLimit
 -- name    : Formalism.FourierDecayAlt.P.LEx1.pairLimit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:19:22.495905+00:00
 -- url     : https://prove2.me/theorems/88b4c817-3b1b-4b71-b005-d2313cf26501
