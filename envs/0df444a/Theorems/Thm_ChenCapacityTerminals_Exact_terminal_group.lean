@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_terminal_group
 -- name    : ChenCapacityTerminals.Exact.terminal_group
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:22:48.238215+00:00
 -- url     : https://prove2.me/theorems/8baff0ae-8d79-4790-b1b9-82772bed1103

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteProj_finiteEmbedding_of_ne
 -- name    : GroundTheory.Global.IdeleGroup.finiteProj_finiteEmbedding_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:25:06.08733+00:00
 -- url     : https://prove2.me/theorems/17b3c717-3f85-498d-8add-20b44d2d80fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_translT_eq
 -- name    : GlobalTheory.SymLiftOdd.translT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:05.099585+00:00
 -- url     : https://prove2.me/theorems/78ee62c2-5740-4688-a841-f5e317209240

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_findD_empty
 -- name    : VerifiedHAMT.findD_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:34:11.569205+00:00
 -- url     : https://prove2.me/theorems/5153b201-972e-4fba-aa0d-02b2ca7028ad

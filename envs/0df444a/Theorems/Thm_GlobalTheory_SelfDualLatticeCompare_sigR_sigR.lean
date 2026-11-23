@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_sigR_sigR
 -- name    : GlobalTheory.SelfDualLatticeCompare.sigR_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:59:16.170422+00:00
 -- url     : https://prove2.me/theorems/41aa9494-2140-4df3-a82e-d983c9bed9ba

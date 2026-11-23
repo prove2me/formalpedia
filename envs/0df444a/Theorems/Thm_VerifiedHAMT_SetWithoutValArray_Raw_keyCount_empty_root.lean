@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_SetWithoutValArray_Raw_keyCount_empty_root
 -- name    : VerifiedHAMT.SetWithoutValArray.Raw.keyCount_empty_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:40:27.832181+00:00
 -- url     : https://prove2.me/theorems/137c4cfa-d434-4277-bf7b-1e7f550c9af7

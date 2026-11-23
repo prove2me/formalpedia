@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_flat_of_square
 -- name    : GlobalTheory.ringHom_flat_of_square
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:19.902513+00:00
 -- url     : https://prove2.me/theorems/a578f126-b6c4-4bab-a8d2-9ea6383c30f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_subgroup_capacity_limit
 -- name    : GroupTheoreticShannonCapacity.MainProofs.subgroup_capacity_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:35.251697+00:00
 -- url     : https://prove2.me/theorems/52333042-da1e-4ae4-ad6b-2b1c86ee7d13

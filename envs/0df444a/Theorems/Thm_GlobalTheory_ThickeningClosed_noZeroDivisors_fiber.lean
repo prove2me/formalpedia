@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickeningClosed_noZeroDivisors_fiber
 -- name    : GlobalTheory.ThickeningClosed.noZeroDivisors_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:15.76355+00:00
 -- url     : https://prove2.me/theorems/2a64cd0f-cc74-41a9-8673-5a5c91ecdbe7

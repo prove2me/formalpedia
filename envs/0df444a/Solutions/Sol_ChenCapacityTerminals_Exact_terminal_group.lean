@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ChenCapacityTerminals.Exact.terminal_group
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mr Robbins
 -- created : 2026-11-23T06:25:37.985274+00:00
 -- url     : https://prove2.me/submissions/71d83665-d1ee-4af8-83f1-cee89deea081
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ChenCapacityTerminals_Exact_enclosure_properties
 import Theorems.Thm_ChenCapacityTerminals_Exact_optimal_augmented_projection

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mixedTraceForm_comm
 -- name    : GroundTheory.Global.mixedTraceForm_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:22:55.416257+00:00
 -- url     : https://prove2.me/theorems/4bfbc286-877d-45ae-832c-f21a201e766f

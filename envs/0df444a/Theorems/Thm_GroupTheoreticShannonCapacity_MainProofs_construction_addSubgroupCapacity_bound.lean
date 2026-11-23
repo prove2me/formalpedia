@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_construction_addSubgroupCapacity_bound
 -- name    : GroupTheoreticShannonCapacity.MainProofs.construction_addSubgroupCapacity_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:37:17.644874+00:00
 -- url     : https://prove2.me/theorems/606bb885-db25-4739-8d64-a45bc2c85497

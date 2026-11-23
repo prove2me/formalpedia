@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_inv_le_inv_of_posDef_of_le
 -- name    : GlobalTheory.inv_le_inv_of_posDef_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:13:19.343848+00:00
 -- url     : https://prove2.me/theorems/3059a7a5-0e60-4ccf-b2d4-255cbbb601b5

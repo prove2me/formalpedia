@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_VerifiedHAMT_find__insert_of_ne_f04aac250363
 -- name    : P2M_VerifiedHAMT_find__insert_of_ne_f04aac250363
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:36:27.032795+00:00
 -- url     : https://prove2.me/theorems/807d2f39-6672-4341-847b-5f4d235c3f08

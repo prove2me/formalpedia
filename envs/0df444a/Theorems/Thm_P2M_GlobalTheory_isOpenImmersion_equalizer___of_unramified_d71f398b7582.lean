@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_isOpenImmersion_equalizer___of_unramified_d71f398b7582
 -- name    : P2M_GlobalTheory_isOpenImmersion_equalizer___of_unramified_d71f398b7582
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:33:57.141622+00:00
 -- url     : https://prove2.me/theorems/15dc70bd-cde0-4d41-9ad3-0d1d545b6466

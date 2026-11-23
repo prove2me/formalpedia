@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Construction_AB_eq_pI_nat
 -- name    : GroupTheoreticShannonCapacity.Construction.AB_eq_pI_nat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:35:07.792909+00:00
 -- url     : https://prove2.me/theorems/97cdc67a-f486-432e-be18-10bda430f282

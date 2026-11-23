@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_matrixCoords_zero
 -- name    : GroundTheory.Automorphic.matrixCoords_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:24:36.402113+00:00
 -- url     : https://prove2.me/theorems/764443b8-46c1-4728-9298-824c67bca3b5

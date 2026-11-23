@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDvd_mem_iff_mem_killed
 -- name    : GlobalTheory.PeriodDvd.mem_iff_mem_killed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:57.457833+00:00
 -- url     : https://prove2.me/theorems/268bd2a3-457b-4956-a4af-7d786df8ea8d

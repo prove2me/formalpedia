@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_whole_target_charges
 -- name    : ChenCapacityTerminals.Exact.whole_target_charges
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:34:26.667907+00:00
 -- url     : https://prove2.me/theorems/e458632f-a39f-4f9d-b417-c727ad2a55c8

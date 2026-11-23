@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_SetWithoutValArray_Raw_contains_eq_false_iff
 -- name    : VerifiedHAMT.SetWithoutValArray.Raw.contains_eq_false_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:32:15.477071+00:00
 -- url     : https://prove2.me/theorems/55736e62-1fa2-4310-b7f2-367abc54b349

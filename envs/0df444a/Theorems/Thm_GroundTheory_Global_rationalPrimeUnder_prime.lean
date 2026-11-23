@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_rationalPrimeUnder_prime
 -- name    : GroundTheory.Global.rationalPrimeUnder_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:22:49.609826+00:00
 -- url     : https://prove2.me/theorems/9a7139dd-3303-4e6a-85b9-d6f0b3f895f2

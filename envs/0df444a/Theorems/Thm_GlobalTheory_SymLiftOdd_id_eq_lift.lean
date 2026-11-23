@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_id_eq_lift
 -- name    : GlobalTheory.SymLiftOdd.id_eq_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:53.233402+00:00
 -- url     : https://prove2.me/theorems/37c64bfc-96f5-4176-b21b-f11f083187e3

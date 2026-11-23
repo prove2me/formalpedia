@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtExist_exists_isTwistPull
 -- name    : GlobalTheory.ThetaPtExist.exists_isTwistPull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:33.992125+00:00
 -- url     : https://prove2.me/theorems/e50408fc-4d8d-4d36-986f-097e0b718ec5

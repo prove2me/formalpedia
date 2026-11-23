@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_gm_powGen
 -- name    : GlobalTheory.SymLiftOdd.gm_powGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:55.806822+00:00
 -- url     : https://prove2.me/theorems/a0b10ac3-7b4d-4d6c-8b41-2442d41469bc

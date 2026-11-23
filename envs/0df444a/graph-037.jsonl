@@ -37153,9 +37153,9 @@
 {"parent": "RH1E6S12.part_022_1", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S12.part_022_1", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S12.part_022_1", "child": "ArdaRH65K_DlvpTheta", "via": ["statement"]}
-{"parent": "Formalism.LatticeIndexTer.LatticeIndexLength.exists_smul_mem_of_span", "child": "Formalism_LogFactorialIndices_StatementIdx", "via": ["statement"]}
-{"parent": "Formalism.LatticeIndexTer.LatticeIndexLength.exists_smul_mem_of_span", "child": "Formalism_LogFactorialIndices_SignedSubspaceIndex_IdxBase", "via": ["statement"]}
-{"parent": "Formalism.LatticeIndexTer.LatticeIndexLength.exists_smul_mem_of_span", "child": "Lemmata_GeneralBFactSecondFurther_Imports", "via": ["statement"]}
+{"parent": "Formalism.LatticeIndexTer.LatticeIndexLength.exists_smul_mem_of_span", "child": "Formalism_LogFactorialIndices_StatementIdx", "via": ["solution", "statement"]}
+{"parent": "Formalism.LatticeIndexTer.LatticeIndexLength.exists_smul_mem_of_span", "child": "Formalism_LogFactorialIndices_SignedSubspaceIndex_IdxBase", "via": ["solution", "statement"]}
+{"parent": "Formalism.LatticeIndexTer.LatticeIndexLength.exists_smul_mem_of_span", "child": "Lemmata_GeneralBFactSecondFurther_Imports", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch08.StageB.source_result8_2_v2_excursion_tail_limits", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SharpRecursion", "child": "Formalism_HermitianCurvature_Statement", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositiveSemidefinitePullback", "child": "Formalism_HermitianCurvature_StatementTB", "via": ["statement"]}
@@ -57474,8 +57474,8 @@
 {"parent": "Formalism.Q3.mqKummer", "child": "Formalism_CMTypeGalois_CMTypeFrobenius_HostInertia", "via": ["statement"]}
 {"parent": "Formalism.Q3.mqKummer", "child": "Formalism_CMTypeGalois_CMTypeFrobenius_MQFrob", "via": ["statement"]}
 {"parent": "Formalism.Q3.mqKummer", "child": "Formalism_CMTypeGalois_CMTypeFrobenius_KroneckerMeaning", "via": ["statement"]}
-{"parent": "Formalism.HF.quadDiscr", "child": "Formalism_DirichletDensity_Statement", "via": ["statement"]}
-{"parent": "Formalism.HF.quadDiscr", "child": "Formalism_DirichletDensity_DirichletDensityProofs_QuadDiscr", "via": ["statement"]}
+{"parent": "Formalism.HF.quadDiscr", "child": "Formalism_DirichletDensity_Statement", "via": ["solution", "statement"]}
+{"parent": "Formalism.HF.quadDiscr", "child": "Formalism_DirichletDensity_DirichletDensityProofs_QuadDiscr", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr4.free_one", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FreeOf2RmatrixTranspose", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr4.free_one", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr4.free_one", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
@@ -63436,10 +63436,10 @@
 {"parent": "P2M_Formalism_L2_Indef_ColData_invZ___f21f866b969d", "child": "Formalism_LocalToGlobal_IndefiniteForms_PairingConditionOfInverseMatrixIdentity", "via": ["solution", "statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_CMQuasiPeriodConst", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_TranslateProduct", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_IndefiniteReal_MemSpanOfSmulMem", "child": "Formalism_LocalToGlobal_IndefiniteReal_AllPartsTransfer", "via": ["statement"]}
-{"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.mem_rootsBar", "child": "Formalism_GaloisIrreducibility_NoSolvableTransitive", "via": ["statement"]}
-{"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.mem_rootsBar", "child": "Formalism_CyclotomicNorms_StatementT", "via": ["statement"]}
-{"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.mem_rootsBar", "child": "Lemmata_GeneralBFactSecondBis_Imports", "via": ["statement"]}
-{"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.mem_rootsBar", "child": "Formalism_CyclotomicNorms_NonsquarefreeBounds_IrreducibilityOfRestriction", "via": ["statement"]}
+{"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.mem_rootsBar", "child": "Formalism_GaloisIrreducibility_NoSolvableTransitive", "via": ["solution", "statement"]}
+{"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.mem_rootsBar", "child": "Formalism_CyclotomicNorms_StatementT", "via": ["solution", "statement"]}
+{"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.mem_rootsBar", "child": "Lemmata_GeneralBFactSecondBis_Imports", "via": ["solution", "statement"]}
+{"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.mem_rootsBar", "child": "Formalism_CyclotomicNorms_NonsquarefreeBounds_IrreducibilityOfRestriction", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.continuous_critCut", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_StationaryPhaseEstimates", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.continuous_critCut", "child": "Formalism_HermitianCurvature_StatementG", "via": ["statement"]}
 {"parent": "Formalism.DivisionValues.PlaceSumConjugation.vw_conj_nat", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}

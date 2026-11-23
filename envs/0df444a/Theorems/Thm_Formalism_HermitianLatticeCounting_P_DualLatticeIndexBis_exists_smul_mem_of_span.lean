@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_DualLatticeIndexBis_exists_smul_mem_of_span
 -- name    : Formalism.HermitianLatticeCounting.P.DualLatticeIndexBis.exists_smul_mem_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:45.603634+00:00
 -- url     : https://prove2.me/theorems/8e52ca95-c0a3-4f73-9ed8-c429537e3052

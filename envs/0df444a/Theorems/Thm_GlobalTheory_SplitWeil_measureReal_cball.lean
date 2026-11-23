@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_measureReal_cball
 -- name    : GlobalTheory.SplitWeil.measureReal_cball
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:48:54.677291+00:00
 -- url     : https://prove2.me/theorems/a0d382cf-c069-4212-a5ee-f1e4f5dc3d9b

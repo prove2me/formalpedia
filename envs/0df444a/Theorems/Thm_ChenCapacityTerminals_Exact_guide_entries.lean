@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_guide_entries
 -- name    : ChenCapacityTerminals.Exact.guide_entries
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:21:23.052963+00:00
 -- url     : https://prove2.me/theorems/b966fb1e-f6a6-4447-b56b-0cc72cec8f16

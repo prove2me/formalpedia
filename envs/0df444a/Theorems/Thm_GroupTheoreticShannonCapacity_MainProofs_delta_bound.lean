@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_delta_bound
 -- name    : GroupTheoreticShannonCapacity.MainProofs.delta_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:37:05.212612+00:00
 -- url     : https://prove2.me/theorems/b8afa9fc-7a1b-4ac7-a686-7481842a0037

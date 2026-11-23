@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDvd_vadd_killed_subset
 -- name    : GlobalTheory.PeriodDvd.vadd_killed_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:17.302669+00:00
 -- url     : https://prove2.me/theorems/437c34f8-0a45-4d9e-8df5-860207aa4973

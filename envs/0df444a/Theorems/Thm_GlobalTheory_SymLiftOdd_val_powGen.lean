@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_val_powGen
 -- name    : GlobalTheory.SymLiftOdd.val_powGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:20.691312+00:00
 -- url     : https://prove2.me/theorems/5fc4b542-23e3-4d74-871a-01237bc1f8d5

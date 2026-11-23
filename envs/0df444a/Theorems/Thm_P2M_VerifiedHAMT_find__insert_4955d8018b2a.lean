@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_VerifiedHAMT_find__insert_4955d8018b2a
 -- name    : P2M_VerifiedHAMT_find__insert_4955d8018b2a
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:33:52.749966+00:00
 -- url     : https://prove2.me/theorems/d57518ce-6e24-4365-b463-ec4e26743857

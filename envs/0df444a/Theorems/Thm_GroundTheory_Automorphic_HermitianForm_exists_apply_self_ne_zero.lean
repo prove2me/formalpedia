@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_exists_apply_self_ne_zero
 -- name    : GroundTheory.Automorphic.HermitianForm.exists_apply_self_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:22:41.307113+00:00
 -- url     : https://prove2.me/theorems/2c4f647d-9af8-43d4-a739-51bb83ca8f36

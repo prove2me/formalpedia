@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_static_conformal_adm_flux_law
 -- name    : NoHair.static_conformal_adm_flux_law
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T07:37:53.134161+00:00
 -- url     : https://prove2.me/theorems/6df5904e-79f7-4d47-9c4a-e79247a1bc09

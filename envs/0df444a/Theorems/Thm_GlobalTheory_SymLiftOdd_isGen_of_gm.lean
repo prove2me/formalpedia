@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_isGen_of_gm
 -- name    : GlobalTheory.SymLiftOdd.isGen_of_gm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:45.668148+00:00
 -- url     : https://prove2.me/theorems/ac88ace3-3eab-4490-a9bd-efd21fcd658c

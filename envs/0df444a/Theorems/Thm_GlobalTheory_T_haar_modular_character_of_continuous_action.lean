@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_modular_character_of_continuous_action
 -- name    : GlobalTheory.T.haar_modular_character_of_continuous_action
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:39.46658+00:00
 -- url     : https://prove2.me/theorems/f95e5ed8-caac-4efc-b546-d4f0a0eb1bbe

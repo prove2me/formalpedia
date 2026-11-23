@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isQuadraticSqrtExtension_basic_facts
 -- name    : GlobalTheory.T.isQuadraticSqrtExtension_basic_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:58.779153+00:00
 -- url     : https://prove2.me/theorems/604831d6-1b81-494d-bffa-def130e0d96b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_VerifiedHAMT_find__insert_self_b1de16f2743e
 -- name    : P2M_VerifiedHAMT_find__insert_self_b1de16f2743e
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:33:53.168282+00:00
 -- url     : https://prove2.me/theorems/21256555-cd19-47cb-9c76-9f481e09f123

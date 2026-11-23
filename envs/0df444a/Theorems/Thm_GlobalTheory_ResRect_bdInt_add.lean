@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResRect_bdInt_add
 -- name    : GlobalTheory.ResRect.bdInt_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:44:46.400718+00:00
 -- url     : https://prove2.me/theorems/e7ea0e2f-732c-4490-9ff0-98bad0b17965

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_minDist_A_ge_q_int
 -- name    : GroupTheoreticShannonCapacity.MainProofs.minDist_A_ge_q_int
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:36:53.055319+00:00
 -- url     : https://prove2.me/theorems/96f938e7-05a7-4eeb-b3b4-d859fbdb8630

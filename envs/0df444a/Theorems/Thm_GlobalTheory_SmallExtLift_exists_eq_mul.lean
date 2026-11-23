@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_exists_eq_mul
 -- name    : GlobalTheory.SmallExtLift.exists_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:41:30.944098+00:00
 -- url     : https://prove2.me/theorems/323b4192-1d38-44a7-a3cb-c3cf7beca79b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_construction_gives_shannon_bound
 -- name    : GroupTheoreticShannonCapacity.MainProofs.construction_gives_shannon_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:37:07.650133+00:00
 -- url     : https://prove2.me/theorems/c737a596-71f3-48e2-b4b3-1b2fa481c20f

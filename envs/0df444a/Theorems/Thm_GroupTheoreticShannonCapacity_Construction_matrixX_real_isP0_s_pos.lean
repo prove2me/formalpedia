@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Construction_matrixX_real_isP0_s_pos
 -- name    : GroupTheoreticShannonCapacity.Construction.matrixX_real_isP0_s_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:33:45.313686+00:00
 -- url     : https://prove2.me/theorems/38b23706-1013-4af3-888f-06a0396b8b3e

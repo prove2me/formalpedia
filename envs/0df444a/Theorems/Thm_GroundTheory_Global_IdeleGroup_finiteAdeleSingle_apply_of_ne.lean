@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteAdeleSingle_apply_of_ne
 -- name    : GroundTheory.Global.IdeleGroup.finiteAdeleSingle_apply_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:23:28.79316+00:00
 -- url     : https://prove2.me/theorems/a0f48b5f-0b69-4add-b1b2-e54bdf67c00f

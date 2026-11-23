@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_isOpen_cball
 -- name    : GlobalTheory.SplitWeil.isOpen_cball
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:47:20.75554+00:00
 -- url     : https://prove2.me/theorems/3963c3b3-a74a-4829-a74b-96b9965e5adb

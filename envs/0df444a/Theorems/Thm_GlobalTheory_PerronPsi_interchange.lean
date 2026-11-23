@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerronPsi_interchange
 -- name    : GlobalTheory.PerronPsi.interchange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:20.179609+00:00
 -- url     : https://prove2.me/theorems/c1f67eec-90e7-4422-b5a6-4fd0cf56c499

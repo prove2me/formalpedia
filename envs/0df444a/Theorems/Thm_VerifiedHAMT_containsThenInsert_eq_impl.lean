@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_containsThenInsert_eq_impl
 -- name    : VerifiedHAMT.containsThenInsert_eq_impl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:41:50.833496+00:00
 -- url     : https://prove2.me/theorems/ed22dcce-1c52-4b84-8737-2bc4b56260e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_lead_coef
 -- name    : Formalism.FourierDecayAlt.P.Mx5.lead_coef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:14.12356+00:00
 -- url     : https://prove2.me/theorems/b2d9d0e7-413d-4628-a4e8-3659cb9e8f5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_N_Lams
 -- name    : Formalism.FourierDecayAlt.P.Mx6.N_Lams
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:30:12.408847+00:00
 -- url     : https://prove2.me/theorems/588d07d5-2c26-4aa1-bfe1-b73a7e8c9dfe

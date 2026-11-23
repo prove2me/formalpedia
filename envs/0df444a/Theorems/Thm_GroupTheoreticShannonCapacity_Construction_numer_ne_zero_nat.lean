@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Construction_numer_ne_zero_nat
 -- name    : GroupTheoreticShannonCapacity.Construction.numer_ne_zero_nat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:26.513101+00:00
 -- url     : https://prove2.me/theorems/569e28ea-e2d4-4a71-9744-ebdc9ac0f54e

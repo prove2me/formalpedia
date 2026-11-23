@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Construction_det_B_eq_p
 -- name    : GroupTheoreticShannonCapacity.Construction.det_B_eq_p
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:35:32.653863+00:00
 -- url     : https://prove2.me/theorems/6380c1ff-324c-41ae-8eba-d6f77553bf7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_construction_lower_bound
 -- name    : GroupTheoreticShannonCapacity.MainProofs.construction_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:46.112826+00:00
 -- url     : https://prove2.me/theorems/4a7d8013-2b27-45aa-9edf-c228a51408eb

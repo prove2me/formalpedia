@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_exists_lawfulExactOracle
 -- name    : ChenCapacityTerminals.Exact.exists_lawfulExactOracle
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:05:22.51411+00:00
 -- url     : https://prove2.me/theorems/04bab9e3-28a2-4bf6-af72-d308f1e4b2ef

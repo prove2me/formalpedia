@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCharacterOverSubfield_of_representation
 -- name    : GlobalTheory.T.isCharacterOverSubfield_of_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:46.101681+00:00
 -- url     : https://prove2.me/theorems/c72b1055-2001-48f0-8c36-bcb8fd18189e

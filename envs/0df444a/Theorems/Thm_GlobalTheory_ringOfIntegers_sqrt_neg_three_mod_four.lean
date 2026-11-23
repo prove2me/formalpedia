@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringOfIntegers_sqrt_neg_three_mod_four
 -- name    : GlobalTheory.ringOfIntegers_sqrt_neg_three_mod_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:58:22.355076+00:00
 -- url     : https://prove2.me/theorems/628f5856-5009-45ae-ae36-2704fa596629

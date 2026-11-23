@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_HasConductor_isLocallyConstant
 -- name    : GlobalTheory.SplitWeil.HasConductor.isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:46:54.879136+00:00
 -- url     : https://prove2.me/theorems/efa95315-f2a6-4f96-b3e9-f8d8a48ade0a

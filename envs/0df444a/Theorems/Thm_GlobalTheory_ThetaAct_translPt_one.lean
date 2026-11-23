@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAct_translPt_one
 -- name    : GlobalTheory.ThetaAct.translPt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:00.059567+00:00
 -- url     : https://prove2.me/theorems/2a34de38-c717-4e02-ba9d-c16104231d87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexLength_exists_smul_mem_of_span
 -- name    : Formalism.LatticeIndexTer.LatticeIndexLength.exists_smul_mem_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:10:29.594296+00:00
 -- url     : https://prove2.me/theorems/b1192834-93b3-4951-a860-a1030fa4ebf9

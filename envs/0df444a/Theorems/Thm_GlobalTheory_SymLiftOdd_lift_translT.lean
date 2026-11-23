@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_lift_translT
 -- name    : GlobalTheory.SymLiftOdd.lift_translT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:57.010795+00:00
 -- url     : https://prove2.me/theorems/732bb79d-6272-47f2-84ca-4ee81c2ad654

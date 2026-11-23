@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_toSesq_self_mem_range
 -- name    : GroundTheory.Automorphic.HermitianForm.toSesq_self_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:23:19.598046+00:00
 -- url     : https://prove2.me/theorems/4d22150e-a757-4f64-b97a-34a55cc9e3ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_app_cst
 -- name    : GlobalTheory.SmallExtLift.app_cst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:46:28.695464+00:00
 -- url     : https://prove2.me/theorems/3dadb4cd-6ab4-4c72-9c4c-f1356bc7af02

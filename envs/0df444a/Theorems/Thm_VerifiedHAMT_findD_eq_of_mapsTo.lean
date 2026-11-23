@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_findD_eq_of_mapsTo
 -- name    : VerifiedHAMT.findD_eq_of_mapsTo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:36:25.651393+00:00
 -- url     : https://prove2.me/theorems/4c8b2942-19b0-40c5-9312-80f4f4f52bc9

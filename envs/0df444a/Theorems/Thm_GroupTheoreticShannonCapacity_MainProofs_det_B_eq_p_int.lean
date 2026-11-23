@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_det_B_eq_p_int
 -- name    : GroupTheoreticShannonCapacity.MainProofs.det_B_eq_p_int
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:36:58.38007+00:00
 -- url     : https://prove2.me/theorems/59d839ec-6fed-4b91-bf42-41e37ad9c2a9

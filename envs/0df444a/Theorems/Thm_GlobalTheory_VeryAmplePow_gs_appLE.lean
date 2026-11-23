@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_gs_appLE
 -- name    : GlobalTheory.VeryAmplePow.gs_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:01.332924+00:00
 -- url     : https://prove2.me/theorems/e8c7aa8f-da97-4bc7-83d1-29c855a30ec5

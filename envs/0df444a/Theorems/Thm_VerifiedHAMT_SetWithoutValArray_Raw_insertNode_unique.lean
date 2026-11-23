@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_SetWithoutValArray_Raw_insertNode_unique
 -- name    : VerifiedHAMT.SetWithoutValArray.Raw.insertNode_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:44:34.983868+00:00
 -- url     : https://prove2.me/theorems/0dd7090b-91a0-4623-ada2-f30e5fafe7b4

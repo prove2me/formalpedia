@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_algebraMap_norm_of_basis_one_sqrt
 -- name    : GlobalTheory.Published.algebraMap_norm_of_basis_one_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:48.883379+00:00
 -- url     : https://prove2.me/theorems/883c8c96-5f32-47e5-ba86-b28fb6835514

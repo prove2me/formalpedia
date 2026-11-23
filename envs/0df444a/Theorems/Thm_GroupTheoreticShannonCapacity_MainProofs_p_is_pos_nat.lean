@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_p_is_pos_nat
 -- name    : GroupTheoreticShannonCapacity.MainProofs.p_is_pos_nat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:36:24.345566+00:00
 -- url     : https://prove2.me/theorems/bc8dd49b-3dd4-4471-a394-90205018dc90

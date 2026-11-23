@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_independentAeCutoffV1
 -- name    : Kyprianou.Ch02.independentAeCutoffV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:47:37.100889+00:00
 -- url     : https://prove2.me/theorems/d852cd43-5986-4eb4-af9a-5c5e09df5079

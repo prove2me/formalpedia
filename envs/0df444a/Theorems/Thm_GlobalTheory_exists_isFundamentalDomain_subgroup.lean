@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_subgroup
 -- name    : GlobalTheory.exists_isFundamentalDomain_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:16:55.259831+00:00
 -- url     : https://prove2.me/theorems/fe54b6cf-5712-4d95-8b75-abb3f6810c91

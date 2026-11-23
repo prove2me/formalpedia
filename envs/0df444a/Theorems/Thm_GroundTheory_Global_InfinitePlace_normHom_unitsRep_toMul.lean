@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_normHom_unitsRep_toMul
 -- name    : GroundTheory.Global.InfinitePlace.normHom_unitsRep_toMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:07.812682+00:00
 -- url     : https://prove2.me/theorems/675609e3-e1b3-4fcd-9ec7-052981a23a77

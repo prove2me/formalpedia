@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_eq_of_range_equalizer___eq_univ_5724cbc41fd4
 -- name    : P2M_GlobalTheory_eq_of_range_equalizer___eq_univ_5724cbc41fd4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:34:13.930567+00:00
 -- url     : https://prove2.me/theorems/1a9d589c-2920-4b63-ad04-70925bc860a2

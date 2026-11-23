@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_integralEndoClosed__c3bb72aeab08
+-- name    : P2M_Formalism_L2_Th1_C_integralEndoClosed__c3bb72aeab08
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T08:05:51.06421+00:00
+-- url     : https://prove2.me/theorems/268a5a17-9e63-4e88-b785-15aeef5a8570
+-- title:
+--   P2 M Formalism L2 Th1 C integral Endo Closed  c3bb72aeab08: P2 M Formalism L2 Th1 C integral Endo Closed  c3bb72aeab08
+-- statement:
+--   The P2 M Formalism L2 Th1 C integral Endo Closed  c3bb72aeab08 construction uses the P2 M Formalism L2 Th1 C integral Endo Closed  c3bb72aeab08 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/SecondCoefficientNorms/BinomialSeriesCoefficients/Closure.lean#L152-L164
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/SecondCoefficientNorms/BinomialSeriesCoefficients/Closure.lean#L152-L164
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_PhNormClosed
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_Points
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_SecondCoeffConsistency
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_Closure
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators
+open Finset
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.C
+open Clo
+
+theorem P2M_Formalism_L2_Th1_C_integralEndoClosed__c3bb72aeab08 : EndIntClosed := by sorry
+
+alias «Formalism».«L2».«Th1».«C».«integralEndoClosed'» := P2M_Formalism_L2_Th1_C_integralEndoClosed__c3bb72aeab08

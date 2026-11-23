@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_SetWithoutValArray_Raw_contains_empty
 -- name    : VerifiedHAMT.SetWithoutValArray.Raw.contains_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:32:17.337377+00:00
 -- url     : https://prove2.me/theorems/9e99edf3-3a8a-4c9c-af95-1a7b5bf3748c

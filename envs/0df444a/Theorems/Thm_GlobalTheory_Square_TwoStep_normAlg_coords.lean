@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_TwoStep_normAlg_coords
 -- name    : GlobalTheory.Square.TwoStep.normAlg_coords
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:43.997961+00:00
 -- url     : https://prove2.me/theorems/5f0577b6-595a-4f55-940a-aad975b74e53

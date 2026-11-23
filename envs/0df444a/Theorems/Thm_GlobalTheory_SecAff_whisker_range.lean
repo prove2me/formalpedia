@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_whisker_range
 -- name    : GlobalTheory.SecAff.whisker_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:45:36.455287+00:00
 -- url     : https://prove2.me/theorems/c75e6f93-1c44-4bc8-ae9c-48a22e3aff09

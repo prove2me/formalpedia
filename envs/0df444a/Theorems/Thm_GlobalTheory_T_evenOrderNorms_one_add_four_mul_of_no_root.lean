@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_evenOrderNorms_one_add_four_mul_of_no_root
 -- name    : GlobalTheory.T.evenOrderNorms_one_add_four_mul_of_no_root
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:21.598699+00:00
 -- url     : https://prove2.me/theorems/2250bf4d-3a34-4cbf-b180-1331a6ad9144

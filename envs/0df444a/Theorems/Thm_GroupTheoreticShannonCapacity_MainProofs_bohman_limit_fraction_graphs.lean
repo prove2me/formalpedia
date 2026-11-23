@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_bohman_limit_fraction_graphs
 -- name    : GroupTheoreticShannonCapacity.MainProofs.bohman_limit_fraction_graphs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:55.272881+00:00
 -- url     : https://prove2.me/theorems/b1cf8083-acc0-4572-be0d-1ef632eea4de

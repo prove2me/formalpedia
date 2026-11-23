@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_pointFamilyCountableFiniteRegionsIndependentV1
 -- name    : Kyprianou.Ch02.pointFamilyCountableFiniteRegionsIndependentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:43:27.745442+00:00
 -- url     : https://prove2.me/theorems/2838f35c-7dc1-44ca-93dd-3e240c0b6ac4

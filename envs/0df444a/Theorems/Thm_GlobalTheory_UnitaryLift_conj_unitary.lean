@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryLift_conj_unitary
 -- name    : GlobalTheory.UnitaryLift.conj_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:32.814316+00:00
 -- url     : https://prove2.me/theorems/4e0b2626-4abc-43dd-8dd0-152c405fdbfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_formEq_twist
 -- name    : GlobalTheory.TorsionFixedAut.formEq_twist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:24.173846+00:00
 -- url     : https://prove2.me/theorems/a3f444e1-b8b6-489c-9301-8136041eb27d

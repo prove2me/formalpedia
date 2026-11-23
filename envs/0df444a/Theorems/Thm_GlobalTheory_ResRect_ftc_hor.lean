@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResRect_ftc_hor
 -- name    : GlobalTheory.ResRect.ftc_hor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:44:45.302063+00:00
 -- url     : https://prove2.me/theorems/28d0bd7c-f1a2-4153-a367-b1338652ccf3

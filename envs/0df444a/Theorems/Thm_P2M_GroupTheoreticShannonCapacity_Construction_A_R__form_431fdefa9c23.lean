@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroupTheoreticShannonCapacity_Construction_A_R__form_431fdefa9c23
 -- name    : P2M_GroupTheoreticShannonCapacity_Construction_A_R__form_431fdefa9c23
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:34:17.231396+00:00
 -- url     : https://prove2.me/theorems/e46fde3a-7c37-47f0-89ec-c742042bd154

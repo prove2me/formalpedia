@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimilarTranspose_main
 -- name    : GlobalTheory.SimilarTranspose.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:02:53.668974+00:00
 -- url     : https://prove2.me/theorems/02bbc8fd-78d2-4ea0-8847-2e655b9b3281

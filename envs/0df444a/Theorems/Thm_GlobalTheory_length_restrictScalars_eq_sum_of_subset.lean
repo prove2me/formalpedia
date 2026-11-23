@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_restrictScalars_eq_sum_of_subset
 -- name    : GlobalTheory.length_restrictScalars_eq_sum_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:01:47.710815+00:00
 -- url     : https://prove2.me/theorems/378651d8-bff2-4013-8b9d-2b25d51098d4

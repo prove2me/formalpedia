@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_p0_add_scalar_invertible
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.p0_add_scalar_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:30:48.550136+00:00
 -- url     : https://prove2.me/theorems/0ed4b4ff-19dd-464a-a5fc-9415fdd23680

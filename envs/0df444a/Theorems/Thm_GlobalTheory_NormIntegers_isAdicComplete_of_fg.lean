@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormIntegers_isAdicComplete_of_fg
 -- name    : GlobalTheory.NormIntegers.isAdicComplete_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:03:54.882294+00:00
 -- url     : https://prove2.me/theorems/1b72be3b-146b-4373-b50f-77365ff3857c

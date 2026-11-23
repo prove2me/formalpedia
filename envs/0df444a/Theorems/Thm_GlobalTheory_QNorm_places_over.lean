@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_places_over
 -- name    : GlobalTheory.QNorm.places_over
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:43.502875+00:00
 -- url     : https://prove2.me/theorems/51b95f9d-5957-4681-825f-007f122b41b4

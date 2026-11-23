@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_GroundTheory_Global_isTorsionFree_integer_adicCompletion
+-- name    : GroundTheory.Global.isTorsionFree_integer_adicCompletion
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T07:57:47.177082+00:00
+-- url     : https://prove2.me/theorems/11989207-3e06-4a1c-add8-15c78e2a48fc
+-- title:
+--   Global: is Torsion Free integer adic Completion
+-- statement:
+--   The Global construction uses the is Torsion Free integer adic Completion property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/GlobalFields/CompletionAtPlace/Integers.lean#L203-L208
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/GlobalFields/CompletionAtPlace/Integers.lean#L203-L208
+
+import Mathlib
+import Definitions.Def_GroundTheory_GlobalFields_CompletionAtPlace
+import Definitions.Def_GroundTheory_GlobalFields_CompletionAtPlace_Integers
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+set_option synthInstance.maxHeartbeats 400000
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open IsDedekindDomain IsDedekindDomain.HeightOneSpectrum NumberField ValuativeRel
+open scoped WithZero
+open GroundTheory GroundTheory.Global
+variable {K L : Type*} [Field K] [NumberField K] [Field L] [NumberField L] [Algebra K L]
+  (v : HeightOneSpectrum (𝓞 K)) (w : HeightOneSpectrum (𝓞 L)) [w.asIdeal.LiesOver v.asIdeal]
+  [Algebra (v.adicCompletion K) (w.adicCompletion L)]
+  [ContinuousSMul (v.adicCompletion K) (w.adicCompletion L)]
+  [IsScalarTower K (v.adicCompletion K) (w.adicCompletion L)]
+
+theorem GroundTheory.Global.isTorsionFree_integer_adicCompletion :
+    Module.IsTorsionFree 𝒪[v.adicCompletion K] (w.adicCompletion L) := by sorry

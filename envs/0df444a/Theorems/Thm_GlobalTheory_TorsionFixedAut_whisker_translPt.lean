@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_whisker_translPt
 -- name    : GlobalTheory.TorsionFixedAut.whisker_translPt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:49.858522+00:00
 -- url     : https://prove2.me/theorems/fa4e54c1-05e4-47eb-ac5c-1b1197107ec3

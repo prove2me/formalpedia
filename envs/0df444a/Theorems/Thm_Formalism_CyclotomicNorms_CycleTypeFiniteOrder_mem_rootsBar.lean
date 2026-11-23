@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_CycleTypeFiniteOrder_mem_rootsBar
 -- name    : Formalism.CyclotomicNorms.CycleTypeFiniteOrder.mem_rootsBar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:05:17.234962+00:00
 -- url     : https://prove2.me/theorems/da1f05b1-a307-48d6-a530-01130e8078dd

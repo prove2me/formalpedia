@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_HasConductor_continuous
 -- name    : GlobalTheory.SplitWeil.HasConductor.continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:46:55.380994+00:00
 -- url     : https://prove2.me/theorems/b5966a63-0832-4137-87ac-e49405d88e2e

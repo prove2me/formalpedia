@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_mixed_target_round_charges
 -- name    : ChenCapacityTerminals.Exact.mixed_target_round_charges
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:35:16.003047+00:00
 -- url     : https://prove2.me/theorems/0ab64d73-2467-4c39-8da2-816f10e6ab0c

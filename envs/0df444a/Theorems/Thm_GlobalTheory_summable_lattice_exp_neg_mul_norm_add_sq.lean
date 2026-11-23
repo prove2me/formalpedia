@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_lattice_exp_neg_mul_norm_add_sq
 -- name    : GlobalTheory.summable_lattice_exp_neg_mul_norm_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:38:38.364386+00:00
 -- url     : https://prove2.me/theorems/bf820ca6-9e96-4a22-9570-d0c375bb3629

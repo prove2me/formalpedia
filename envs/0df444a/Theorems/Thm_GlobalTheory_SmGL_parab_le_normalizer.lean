@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_parab_le_normalizer
 -- name    : GlobalTheory.SmGL.parab_le_normalizer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:46:29.116158+00:00
 -- url     : https://prove2.me/theorems/82fa27ea-6e04-4fd8-8dcb-3eafeb7e02a1

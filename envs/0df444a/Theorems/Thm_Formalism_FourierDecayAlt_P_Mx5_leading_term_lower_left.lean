@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_leading_term_lower_left
 -- name    : Formalism.FourierDecayAlt.P.Mx5.leading_term_lower_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:30.345039+00:00
 -- url     : https://prove2.me/theorems/1421f0df-1baa-4e6d-80bc-a1a700db50a6

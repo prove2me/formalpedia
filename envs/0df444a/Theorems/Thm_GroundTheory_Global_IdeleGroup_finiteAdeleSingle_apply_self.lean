@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteAdeleSingle_apply_self
 -- name    : GroundTheory.Global.IdeleGroup.finiteAdeleSingle_apply_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:17.313832+00:00
 -- url     : https://prove2.me/theorems/a4308455-92b9-45fc-9437-a1e39a8ca3ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_p0_min_distance_bound
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.p0_min_distance_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:31:25.934166+00:00
 -- url     : https://prove2.me/theorems/675f9367-5c29-4d62-a0e7-c3579f71e276

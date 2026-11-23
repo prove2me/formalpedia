@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Construction_X_isP0
 -- name    : GroupTheoreticShannonCapacity.Construction.X_isP0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:33:50.507861+00:00
 -- url     : https://prove2.me/theorems/d3b43aa2-b07b-4b8b-a040-8bc970ec705c

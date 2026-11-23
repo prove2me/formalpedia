@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_range_connecting
 -- name    : GroundTheory.GroupCoh.range_connecting
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:48.114103+00:00
 -- url     : https://prove2.me/theorems/a80a9ed8-af36-46c9-82ab-0392588260e6

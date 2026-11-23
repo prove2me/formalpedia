@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_findD_insert
 -- name    : VerifiedHAMT.findD_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:34:37.558634+00:00
 -- url     : https://prove2.me/theorems/90aa3a6c-79ff-408f-8bfc-6d0884e68776

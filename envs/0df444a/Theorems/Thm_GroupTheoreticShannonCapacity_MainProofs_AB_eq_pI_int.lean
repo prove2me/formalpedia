@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_AB_eq_pI_int
 -- name    : GroupTheoreticShannonCapacity.MainProofs.AB_eq_pI_int
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:36:38.431803+00:00
 -- url     : https://prove2.me/theorems/79c17a6f-feaf-459f-afaa-cb7274b7cdb1

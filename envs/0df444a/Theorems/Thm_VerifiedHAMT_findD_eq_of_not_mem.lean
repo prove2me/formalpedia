@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_findD_eq_of_not_mem
 -- name    : VerifiedHAMT.findD_eq_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:36:29.934034+00:00
 -- url     : https://prove2.me/theorems/25294333-d3b7-411d-aef5-66c4027401b2

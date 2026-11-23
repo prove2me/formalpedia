@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_exists_orth_family_gen
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.exists_orth_family_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:53.077489+00:00
 -- url     : https://prove2.me/theorems/a8e5ca6e-e5fe-4cdb-8c1b-c88b6ad824c0

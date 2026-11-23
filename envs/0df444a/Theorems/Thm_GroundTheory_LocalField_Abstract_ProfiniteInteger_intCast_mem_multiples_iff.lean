@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ProfiniteInteger_intCast_mem_multiples_iff
 -- name    : GroundTheory.LocalField.Abstract.ProfiniteInteger.intCast_mem_multiples_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:04:08.616146+00:00
 -- url     : https://prove2.me/theorems/6058c625-a0e9-43b1-9463-5957b737c6c9

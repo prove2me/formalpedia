@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_fun_kill
 -- name    : GlobalTheory.SecAff.fun_kill
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:45:11.685322+00:00
 -- url     : https://prove2.me/theorems/920e49c6-2551-44d8-b8a4-cb25e7b65fd6

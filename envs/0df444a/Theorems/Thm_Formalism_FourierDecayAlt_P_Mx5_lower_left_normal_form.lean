@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_lower_left_normal_form
 -- name    : Formalism.FourierDecayAlt.P.Mx5.lower_left_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:31.984338+00:00
 -- url     : https://prove2.me/theorems/69ae64af-30e3-47ae-81f8-2ff35713830a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quasiIso_iff_coneExact
 -- name    : GlobalTheory.quasiIso_iff_coneExact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:35:03.808918+00:00
 -- url     : https://prove2.me/theorems/655ad948-c8dd-4434-b808-7ed1b5633dfe

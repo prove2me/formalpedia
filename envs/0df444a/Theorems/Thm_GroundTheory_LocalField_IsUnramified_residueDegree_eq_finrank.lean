@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramified_residueDegree_eq_finrank
 -- name    : GroundTheory.LocalField.IsUnramified.residueDegree_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:17:26.334552+00:00
 -- url     : https://prove2.me/theorems/9695ab63-01ca-4214-89f8-11b3991710df

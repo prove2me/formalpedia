@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_SetWithoutValArray_Raw_keyCount_insert
 -- name    : VerifiedHAMT.SetWithoutValArray.Raw.keyCount_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:44:44.118915+00:00
 -- url     : https://prove2.me/theorems/e3df1f40-045f-48c4-b7e0-cd039d9169be

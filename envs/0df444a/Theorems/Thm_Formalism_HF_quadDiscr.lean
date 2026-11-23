@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_quadDiscr
 -- name    : Formalism.HF.quadDiscr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:50:05.904818+00:00
 -- url     : https://prove2.me/theorems/00e1e8c6-8531-4326-9c29-141396875cdb

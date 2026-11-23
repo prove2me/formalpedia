@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroupTheoreticShannonCapacity_MAlpha_M__isP0_c8d2d6fe8993
 -- name    : P2M_GroupTheoreticShannonCapacity_MAlpha_M__isP0_c8d2d6fe8993
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:36.799134+00:00
 -- url     : https://prove2.me/theorems/179269a4-0942-4f12-a082-2b92be18827d

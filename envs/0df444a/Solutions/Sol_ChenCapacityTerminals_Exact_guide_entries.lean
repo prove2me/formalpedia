@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ChenCapacityTerminals.Exact.guide_entries
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:40:54.823975+00:00
 -- url     : https://prove2.me/submissions/00bc7271-9ff8-4dda-8999-000d2b881813
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ChenCapacityTerminals_Exact_whole_target_charges
 import Theorems.Thm_ChenCapacityTerminals_Exact_mixed_target_round_charges

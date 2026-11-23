@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_mem_unitaryGroupMatrix_iff
 -- name    : GroundTheory.Automorphic.exists_mem_unitaryGroupMatrix_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:18:59.113796+00:00
 -- url     : https://prove2.me/theorems/83ea7d5a-b47e-4b77-91c9-644e510ac104

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_SetWithoutValArray_Raw_nodup_keyList
 -- name    : VerifiedHAMT.SetWithoutValArray.Raw.nodup_keyList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:37:09.253913+00:00
 -- url     : https://prove2.me/theorems/a4239d2f-17d9-42d8-8fde-14d6c31a6391

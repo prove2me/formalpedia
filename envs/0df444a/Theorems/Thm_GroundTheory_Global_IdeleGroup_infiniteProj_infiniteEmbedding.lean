@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_infiniteProj_infiniteEmbedding
 -- name    : GroundTheory.Global.IdeleGroup.infiniteProj_infiniteEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:11:59.157128+00:00
 -- url     : https://prove2.me/theorems/c6e8c8e6-3730-471d-9590-962827cc09ca

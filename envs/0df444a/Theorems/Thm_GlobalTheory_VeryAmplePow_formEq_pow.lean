@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_formEq_pow
 -- name    : GlobalTheory.VeryAmplePow.formEq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:50.21994+00:00
 -- url     : https://prove2.me/theorems/9911c9a6-e431-4c79-bf2d-84d1bebce1fb
