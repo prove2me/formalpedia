@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_MellinPrinciple_reducedMellin_lower
 -- name    : DedekindZeta.MellinPrinciple.reducedMellin_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:04.552408+00:00
 -- url     : https://prove2.me/theorems/57c9c543-a0cf-4aec-a063-4dff326dbfa7

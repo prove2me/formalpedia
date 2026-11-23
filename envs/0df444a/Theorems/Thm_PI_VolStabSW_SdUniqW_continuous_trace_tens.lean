@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_SdUniqW_continuous_trace_tens
 -- name    : PI.VolStabSW.SdUniqW.continuous_trace_tens
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:02.509805+00:00
 -- url     : https://prove2.me/theorems/2f75ab6d-a6f1-46e5-9c79-0e24d8fb1d31

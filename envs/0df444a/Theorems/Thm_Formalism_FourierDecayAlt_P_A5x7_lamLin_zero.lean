@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x7_lamLin_zero
 -- name    : Formalism.FourierDecayAlt.P.A5x7.lamLin_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:27:11.158869+00:00
 -- url     : https://prove2.me/theorems/5eaf3acb-9e1e-4722-89ca-81669b52f41d

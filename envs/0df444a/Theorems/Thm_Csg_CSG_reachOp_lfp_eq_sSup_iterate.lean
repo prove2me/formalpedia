@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_reachOp_lfp_eq_sSup_iterate
 -- name    : Csg.CSG.reachOp_lfp_eq_sSup_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:03:17.835527+00:00
 -- url     : https://prove2.me/theorems/7df91076-0d5a-42cd-8ca0-a228b8e09d38

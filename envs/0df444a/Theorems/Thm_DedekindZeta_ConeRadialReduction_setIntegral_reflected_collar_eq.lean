@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_setIntegral_reflected_collar_eq
 -- name    : DedekindZeta.ConeRadialReduction.setIntegral_reflected_collar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:07.884621+00:00
 -- url     : https://prove2.me/theorems/a2ec158f-7ff5-4441-8a93-b76375518544

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BoxAverageLimits_bdd_shift
 -- name    : Formalism.FourierDecayAlt.P.BoxAverageLimits.bdd_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:31.145822+00:00
 -- url     : https://prove2.me/theorems/9a7d64c3-d122-4d17-9e05-c7bf919aa257

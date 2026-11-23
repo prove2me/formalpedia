@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_continuousOn_mixedThetaKernel_radialMap
 -- name    : DedekindZeta.ConeRadialReduction.continuousOn_mixedThetaKernel_radialMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:31:30.295398+00:00
 -- url     : https://prove2.me/theorems/5a0e64ea-3b33-4e6b-9915-071340353874

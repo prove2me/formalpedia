@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsGameCSG_healthy_infinitely_often
 -- name    : Csg.idsGameCSG_healthy_infinitely_often
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:59:37.555451+00:00
 -- url     : https://prove2.me/theorems/fa7239e9-324c-4faf-9290-3d6fb9b39796

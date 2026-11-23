@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeMellinBridge_reducedMellin_radialTheta
 -- name    : DedekindZeta.ConeMellinBridge.reducedMellin_radialTheta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:30.754499+00:00
 -- url     : https://prove2.me/theorems/215cb427-e625-4233-9e71-bad222278798

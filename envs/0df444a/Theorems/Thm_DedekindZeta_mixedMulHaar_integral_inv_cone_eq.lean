@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_mixedMulHaar_integral_inv_cone_eq
 -- name    : DedekindZeta.mixedMulHaar_integral_inv_cone_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:12.776421+00:00
 -- url     : https://prove2.me/theorems/4f2e87d1-5c4d-40b8-86be-ce0f989d1278

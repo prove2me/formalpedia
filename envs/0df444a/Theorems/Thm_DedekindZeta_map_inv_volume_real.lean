@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_map_inv_volume_real
 -- name    : DedekindZeta.map_inv_volume_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:02.621463+00:00
 -- url     : https://prove2.me/theorems/3e464f0e-4a07-42a1-82b8-3c6401958f59

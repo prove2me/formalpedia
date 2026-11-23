@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_radialProj_inv
 -- name    : DedekindZeta.ConeRadialReduction.radialProj_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:46.015046+00:00
 -- url     : https://prove2.me/theorems/33489dff-b7f3-4ef5-a301-923359b8b585

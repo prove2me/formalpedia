@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_closure_normEqOneSurface_subset
 -- name    : DedekindZeta.ConeRadialReduction.closure_normEqOneSurface_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:02.925313+00:00
 -- url     : https://prove2.me/theorems/29acdd07-5db0-4f1b-ab67-e4a4dad3931c

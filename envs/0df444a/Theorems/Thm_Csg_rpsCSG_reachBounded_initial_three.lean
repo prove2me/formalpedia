@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_reachBounded_initial_three
 -- name    : Csg.rpsCSG_reachBounded_initial_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:33:09.973235+00:00
 -- url     : https://prove2.me/theorems/82b5e480-84f3-4bf6-bd3f-c41867379a24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G7_continuous_remainder
 -- name    : Formalism.FourierDecayAlt.P.G7.continuous_remainder
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:55:39.228641+00:00
 -- url     : https://prove2.me/theorems/25e2c9dc-70d5-4255-a1a0-7d5d35b13934

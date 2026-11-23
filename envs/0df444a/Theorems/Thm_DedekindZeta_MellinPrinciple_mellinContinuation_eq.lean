@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_MellinPrinciple_mellinContinuation_eq
 -- name    : DedekindZeta.MellinPrinciple.mellinContinuation_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:07.132773+00:00
 -- url     : https://prove2.me/theorems/0a260b94-9231-4443-8238-0c53d2ccb7cc

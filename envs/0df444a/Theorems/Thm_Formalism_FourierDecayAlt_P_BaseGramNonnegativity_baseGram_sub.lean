@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BaseGramNonnegativity_baseGram_sub
 -- name    : Formalism.FourierDecayAlt.P.BaseGramNonnegativity.baseGram_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:32.594559+00:00
 -- url     : https://prove2.me/theorems/543340e8-d4c1-485e-b3e2-1b65ba1757bb

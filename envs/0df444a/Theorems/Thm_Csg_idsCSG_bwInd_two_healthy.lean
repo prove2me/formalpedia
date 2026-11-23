@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsCSG_bwInd_two_healthy
 -- name    : Csg.idsCSG_bwInd_two_healthy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:56:21.581649+00:00
 -- url     : https://prove2.me/theorems/24368bca-497c-400c-8beb-e183b7f4a212

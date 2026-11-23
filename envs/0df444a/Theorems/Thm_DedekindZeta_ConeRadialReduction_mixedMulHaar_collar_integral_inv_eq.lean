@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedMulHaar_collar_integral_inv_eq
 -- name    : DedekindZeta.ConeRadialReduction.mixedMulHaar_collar_integral_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:06.417039+00:00
 -- url     : https://prove2.me/theorems/5e00edce-88d4-4c36-b5df-34fa3c7843b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_det_weyl_matrix
 -- name    : Formalism.FourierDecayAlt.P.det_weyl_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:00:51.406717+00:00
 -- url     : https://prove2.me/theorems/9a2807a4-1186-4b39-ae70-7fc3dfd55e03

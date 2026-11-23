@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_boxMult_mul
 -- name    : SumProduct.boxMult_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:45.998738+00:00
 -- url     : https://prove2.me/theorems/c0a40bae-12db-4107-8dd3-3efccb56eadc

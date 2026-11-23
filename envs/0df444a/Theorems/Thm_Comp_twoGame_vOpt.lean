@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_twoGame_vOpt
 -- name    : Comp.twoGame_vOpt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:39:24.885766+00:00
 -- url     : https://prove2.me/theorems/c5f2825b-37a3-49c8-86ab-38ddf1e55266

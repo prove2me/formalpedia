@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdDualW_mem_latS
 -- name    : PI.VolStabW.SdDualW.mem_latS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:15.006227+00:00
 -- url     : https://prove2.me/theorems/011374dc-cc83-4235-b2b5-bd8b841464ba

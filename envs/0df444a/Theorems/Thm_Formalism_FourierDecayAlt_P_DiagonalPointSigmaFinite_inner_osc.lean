@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_inner_osc
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.inner_osc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:18:31.882065+00:00
 -- url     : https://prove2.me/theorems/7d4a4bab-6960-41e3-8bb2-8300d7dcafe5

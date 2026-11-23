@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_LeakyGate_gate_nonneg
 -- name    : Comp.LeakyGate.gate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:20.833156+00:00
 -- url     : https://prove2.me/theorems/47c6d111-ccad-469c-b067-973ff6128057

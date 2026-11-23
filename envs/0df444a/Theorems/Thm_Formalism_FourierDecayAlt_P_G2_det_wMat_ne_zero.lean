@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G2_det_wMat_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.G2.det_wMat_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:19:57.351807+00:00
 -- url     : https://prove2.me/theorems/550168fe-d620-486e-8adb-973c98e992ad

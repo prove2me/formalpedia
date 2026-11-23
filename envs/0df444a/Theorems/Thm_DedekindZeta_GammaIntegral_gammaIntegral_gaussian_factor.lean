@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_gammaIntegral_gaussian_factor
 -- name    : DedekindZeta.GammaIntegral.gammaIntegral_gaussian_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:42.451803+00:00
 -- url     : https://prove2.me/theorems/d9ca65ad-71f7-41a3-acab-ffe2a2ed9169

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_mulHaar_integral_comp_inv
 -- name    : DedekindZeta.mulHaar_integral_comp_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:13.779314+00:00
 -- url     : https://prove2.me/theorems/9f82cde9-9218-4a08-8c63-34f60932db61

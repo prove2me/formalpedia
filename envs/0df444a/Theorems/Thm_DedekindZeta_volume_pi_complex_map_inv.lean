@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_volume_pi_complex_map_inv
 -- name    : DedekindZeta.volume_pi_complex_map_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:55.539049+00:00
 -- url     : https://prove2.me/theorems/212de53a-1fb5-4f64-b218-0173a560606e

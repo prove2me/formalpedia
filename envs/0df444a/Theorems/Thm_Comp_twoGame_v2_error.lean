@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_twoGame_v2_error
 -- name    : Comp.twoGame_v2_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:40:51.67091+00:00
 -- url     : https://prove2.me/theorems/06a16e73-40e1-49b2-85d3-4dab198baa0b

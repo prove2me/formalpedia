@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_coe_LFInner_of_data
 -- name    : Comp.ModelData.coe_LFInner_of_data
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:25:01.741295+00:00
 -- url     : https://prove2.me/theorems/d41114ea-a5aa-4307-9147-ef5c9c7a81d9

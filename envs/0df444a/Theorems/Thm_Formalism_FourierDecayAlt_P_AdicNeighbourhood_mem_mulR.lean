@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdicNeighbourhood_mem_mulR
 -- name    : Formalism.FourierDecayAlt.P.AdicNeighbourhood.mem_mulR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:20.91427+00:00
 -- url     : https://prove2.me/theorems/9bd74bb9-4ef3-441e-a18a-fec57a594da0

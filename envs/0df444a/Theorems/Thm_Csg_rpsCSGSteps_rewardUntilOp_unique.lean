@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSGSteps_rewardUntilOp_unique
 -- name    : Csg.rpsCSGSteps_rewardUntilOp_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:57.479682+00:00
 -- url     : https://prove2.me/theorems/74a0a8d1-ee17-46c1-ae30-f6165de414e6

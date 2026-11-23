@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedMulHaar_collar_lt_top
 -- name    : DedekindZeta.ConeRadialReduction.mixedMulHaar_collar_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:58.527847+00:00
 -- url     : https://prove2.me/theorems/c1fdc184-1641-417c-9148-e49ae5dc6df6

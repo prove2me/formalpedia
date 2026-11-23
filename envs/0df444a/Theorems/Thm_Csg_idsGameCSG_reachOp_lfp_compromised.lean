@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsGameCSG_reachOp_lfp_compromised
 -- name    : Csg.idsGameCSG_reachOp_lfp_compromised
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:59:12.46711+00:00
 -- url     : https://prove2.me/theorems/c54c9a5f-f63d-4460-83fe-62fdd9e5be2a

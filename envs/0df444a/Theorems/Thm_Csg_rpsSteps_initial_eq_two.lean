@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsSteps_initial_eq_two
 -- name    : Csg.rpsSteps_initial_eq_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:56.554567+00:00
 -- url     : https://prove2.me/theorems/12fe6b9c-b177-40ed-be0e-49c649ff45c6

@@ -52603,7 +52603,7 @@
 {"parent": "FreeOrderEPTAS_mkLP", "child": "FreeOrderEPTAS_LPData", "via": ["statement"]}
 {"parent": "FreeOrderEPTAS_mkLP", "child": "FreeOrderEPTAS_typeList", "via": ["statement"]}
 {"parent": "EnvelopeMSLP_MSLP_SameHistory", "child": "EnvelopeMSLP_MSLP", "via": ["statement"]}
-{"parent": "ZeroOneIALM.property_1_ii", "child": "ZeroOneIALM_Prox", "via": ["statement"]}
+{"parent": "ZeroOneIALM.property_1_ii", "child": "ZeroOneIALM_Prox", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_04_true_source_ae_predictable_integral_equals_physical_time_probability_product", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RandomOrderCRS.minimum_after_7", "child": "RandomOrderCRS_Attenuation", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_02_original_BV_canonical_C1_compact_full_atom_grid_budget", "child": "AvramDividend.Classical.avram_wave7_02_original_positive_cap_C1_gradient_value_nonnegative_on_compact_interval", "via": ["solution", "statement"]}
@@ -57178,7 +57178,7 @@
 {"parent": "LX.AffineScan.sweep_depth_deadline", "child": "LX_AffineScan", "via": ["solution", "statement"]}
 {"parent": "LX.AffineScan.sweep_depth_deadline", "child": "LX_BackwardDepth", "via": ["solution", "statement"]}
 {"parent": "LX.AffineScan.sweep_depth_deadline", "child": "LX_DepthReturn", "via": ["solution", "statement"]}
-{"parent": "ZeroOneIALM.stronglyConvex_isCoercive", "child": "ZeroOneIALM_Assumptions", "via": ["statement"]}
+{"parent": "ZeroOneIALM.stronglyConvex_isCoercive", "child": "ZeroOneIALM_Assumptions", "via": ["solution", "statement"]}
 {"parent": "LX.EventGeometry.components_noncrossing", "child": "LX_ZeroGapEventGraph", "via": ["solution", "statement"]}
 {"parent": "LX.EventGeometry.components_noncrossing", "child": "LX_ZeroGapEventGeometry", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_10_original_positive_discount_all_optimal_values_finite_no_standing", "child": "AvramDividend.Classical.avram_wave6_08_source_psi_positive_small_tilt_below_any_positive_discount", "via": ["solution", "statement"]}

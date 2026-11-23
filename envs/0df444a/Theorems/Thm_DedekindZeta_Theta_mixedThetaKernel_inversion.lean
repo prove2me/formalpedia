@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_mixedThetaKernel_inversion
 -- name    : DedekindZeta.Theta.mixedThetaKernel_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:21:39.188968+00:00
 -- url     : https://prove2.me/theorems/b18a2c6c-1d25-498a-8e8e-7caaa13571a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x4_reps_nonempty
 -- name    : Formalism.FourierDecayAlt.P.A6x4.reps_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:28:54.645815+00:00
 -- url     : https://prove2.me/theorems/354dd443-196e-4f1d-aab2-8d730080fac4

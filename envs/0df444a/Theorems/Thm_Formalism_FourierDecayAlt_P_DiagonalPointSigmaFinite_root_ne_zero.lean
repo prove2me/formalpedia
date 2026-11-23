@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_root_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.root_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:53.416473+00:00
 -- url     : https://prove2.me/theorems/ed1a8d7b-7320-4c39-b54d-f9553d2ce468

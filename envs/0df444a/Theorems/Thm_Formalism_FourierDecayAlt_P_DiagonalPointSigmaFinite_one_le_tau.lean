@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_one_le_tau
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.one_le_tau
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:58.776769+00:00
 -- url     : https://prove2.me/theorems/a41df740-d2cd-4064-9e19-e80ccab663b2

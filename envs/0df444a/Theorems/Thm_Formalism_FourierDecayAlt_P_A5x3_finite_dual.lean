@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x3_finite_dual
 -- name    : Formalism.FourierDecayAlt.P.A5x3.finite_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:24:23.144976+00:00
 -- url     : https://prove2.me/theorems/c2e9764b-3e06-4dec-9f40-945b8030c73d

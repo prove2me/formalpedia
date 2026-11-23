@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_isOpen_units_Ainf
 -- name    : PI.VolStabS.isOpen_units_Ainf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:28:12.633329+00:00
 -- url     : https://prove2.me/theorems/4d3650d8-c22b-4b94-962f-ed7e289b3ad6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRun_hr_live_limit_sure_not_almost_sure
 -- name    : Comp.HideOrRun.hr_live_limit_sure_not_almost_sure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:45:26.436696+00:00
 -- url     : https://prove2.me/theorems/30609973-0fbd-4b57-8620-e783c8140159

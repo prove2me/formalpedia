@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_rps_value
 -- name    : Comp.rps_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:34:44.186829+00:00
 -- url     : https://prove2.me/theorems/3da0d20d-4979-4686-b0e8-d96fa0eb4c06

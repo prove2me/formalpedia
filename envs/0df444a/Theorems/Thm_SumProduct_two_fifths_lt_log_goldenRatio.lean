@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_two_fifths_lt_log_goldenRatio
 -- name    : SumProduct.two_fifths_lt_log_goldenRatio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:28.051682+00:00
 -- url     : https://prove2.me/theorems/a12b1a6f-aa2c-4177-829a-de624573296f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdicNeighbourhood_I_compact
 -- name    : Formalism.FourierDecayAlt.P.AdicNeighbourhood.I_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:22.062024+00:00
 -- url     : https://prove2.me/theorems/1a06dcf8-4813-4bf9-9269-5bc0eabd9280

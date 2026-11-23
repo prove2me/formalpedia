@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_radialIntegral_eq_mellin
 -- name    : DedekindZeta.ConeRadialReduction.radialIntegral_eq_mellin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:44.631833+00:00
 -- url     : https://prove2.me/theorems/d5bb1733-fde4-457f-9a1a-992fe7edd2c9

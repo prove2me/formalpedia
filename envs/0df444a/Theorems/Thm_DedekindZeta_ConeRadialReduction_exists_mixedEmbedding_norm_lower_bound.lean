@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_exists_mixedEmbedding_norm_lower_bound
 -- name    : DedekindZeta.ConeRadialReduction.exists_mixedEmbedding_norm_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:16.173453+00:00
 -- url     : https://prove2.me/theorems/c19cc14b-6f3c-4331-beb4-ed94267c72e7

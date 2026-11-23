@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_exists_pos_lower_mixedQuadForm
 -- name    : DedekindZeta.ConeRadialReduction.exists_pos_lower_mixedQuadForm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:11.572971+00:00
 -- url     : https://prove2.me/theorems/c2ebd0ec-48a4-4628-9ca3-528386db75ac

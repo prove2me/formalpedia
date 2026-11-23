@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChebyshevExtremalPolynomials_sum_lagCo_mul_pow
 -- name    : Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.sum_lagCo_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:30:02.829812+00:00
 -- url     : https://prove2.me/theorems/4e046edd-e2f9-4ce4-b7fa-331451f667c7

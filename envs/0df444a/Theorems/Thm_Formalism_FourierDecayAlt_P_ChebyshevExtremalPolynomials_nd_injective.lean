@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChebyshevExtremalPolynomials_nd_injective
 -- name    : Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.nd_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:56.847154+00:00
 -- url     : https://prove2.me/theorems/6a85b6b1-d64c-4fb8-9130-603ca3db77f5

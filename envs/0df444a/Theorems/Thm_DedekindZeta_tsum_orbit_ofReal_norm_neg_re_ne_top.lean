@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_tsum_orbit_ofReal_norm_neg_re_ne_top
 -- name    : DedekindZeta.tsum_orbit_ofReal_norm_neg_re_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:06.830262+00:00
 -- url     : https://prove2.me/theorems/cc930d48-58e1-41ee-8c2b-12a0bcbe907c

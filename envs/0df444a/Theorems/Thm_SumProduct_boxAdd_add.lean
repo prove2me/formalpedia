@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_boxAdd_add
 -- name    : SumProduct.boxAdd_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:37.331419+00:00
 -- url     : https://prove2.me/theorems/189f0392-e80b-4d47-94f6-ce65d017a22f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChebyshevExtremalPolynomials_U_mul_sin_node
 -- name    : Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.U_mul_sin_node
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:36.468803+00:00
 -- url     : https://prove2.me/theorems/b1312180-3985-47ec-a37c-ae1b7440d3ec

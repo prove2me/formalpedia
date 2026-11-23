@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_integrable_indicator_mixedThetaKernel_mul_norm_cpow
 -- name    : DedekindZeta.integrable_indicator_mixedThetaKernel_mul_norm_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:25:41.024077+00:00
 -- url     : https://prove2.me/theorems/24580a32-898f-401e-a3fd-49c7a344f0e0

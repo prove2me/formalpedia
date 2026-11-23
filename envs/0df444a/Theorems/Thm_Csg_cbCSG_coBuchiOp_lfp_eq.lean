@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_cbCSG_coBuchiOp_lfp_eq
 -- name    : Csg.cbCSG_coBuchiOp_lfp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:03:00.19456+00:00
 -- url     : https://prove2.me/theorems/c52d5b87-2694-4e55-92a3-2e8c9cfb2c66

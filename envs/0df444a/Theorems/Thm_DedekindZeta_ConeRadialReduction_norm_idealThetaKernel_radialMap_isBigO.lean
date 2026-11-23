@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_norm_idealThetaKernel_radialMap_isBigO
 -- name    : DedekindZeta.ConeRadialReduction.norm_idealThetaKernel_radialMap_isBigO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:00.317946+00:00
 -- url     : https://prove2.me/theorems/ccd707a3-28a3-4a36-b5bc-5c5df790f19a

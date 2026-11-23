@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeMellinBridge_conePolarCorrection_residue_one
 -- name    : DedekindZeta.ConeMellinBridge.conePolarCorrection_residue_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:34.048659+00:00
 -- url     : https://prove2.me/theorems/6333888f-6441-42ac-9808-1709cf199e78

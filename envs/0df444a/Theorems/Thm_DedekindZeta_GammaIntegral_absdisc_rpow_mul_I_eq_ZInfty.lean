@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_absdisc_rpow_mul_I_eq_ZInfty
 -- name    : DedekindZeta.GammaIntegral.absdisc_rpow_mul_I_eq_ZInfty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:38.139933+00:00
 -- url     : https://prove2.me/theorems/329f8d9d-0d2b-40d1-bbe0-3d2f07ed0b17

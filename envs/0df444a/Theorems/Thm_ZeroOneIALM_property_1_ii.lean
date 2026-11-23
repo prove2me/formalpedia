@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneIALM_property_1_ii
 -- name    : ZeroOneIALM.property_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:29:43.890246+00:00
 -- url     : https://prove2.me/theorems/557709b0-dc1e-4932-acb5-a508ec138c29

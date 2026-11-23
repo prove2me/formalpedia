@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G5_coordU_blk
 -- name    : Formalism.FourierDecayAlt.P.G5.coordU_blk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:46:43.601692+00:00
 -- url     : https://prove2.me/theorems/da733910-2f29-4199-81cd-857c19b67c7c

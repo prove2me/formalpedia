@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_integrable_mixedGaussian_mellin
 -- name    : DedekindZeta.integrable_mixedGaussian_mellin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:24:08.554804+00:00
 -- url     : https://prove2.me/theorems/254b8cda-19be-437c-b815-b852a431ca53

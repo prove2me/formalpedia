@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_aniso
 -- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.aniso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:28:15.324304+00:00
 -- url     : https://prove2.me/theorems/a2ebe3e1-0d5a-49fc-afed-20bcd979dbed

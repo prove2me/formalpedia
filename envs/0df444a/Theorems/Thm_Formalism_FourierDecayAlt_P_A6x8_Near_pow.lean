@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x8_Near_pow
 -- name    : Formalism.FourierDecayAlt.P.A6x8.Near.pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:45:22.625852+00:00
 -- url     : https://prove2.me/theorems/581b720a-d026-4f2d-9092-368f321ffd72

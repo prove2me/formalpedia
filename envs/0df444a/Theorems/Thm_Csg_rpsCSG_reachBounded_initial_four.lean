@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_reachBounded_initial_four
 -- name    : Csg.rpsCSG_reachBounded_initial_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:34:14.766279+00:00
 -- url     : https://prove2.me/theorems/94d778bc-0d30-4d51-a289-a03497555c65

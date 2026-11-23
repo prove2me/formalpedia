@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_mp_value
 -- name    : Comp.mp_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:37:28.971806+00:00
 -- url     : https://prove2.me/theorems/4b27ef33-9e39-4c50-82bc-c54781e03ab1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stageB_bpay_iSup
 -- name    : stageB_bpay_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T01:03:15.272074+00:00
 -- url     : https://prove2.me/theorems/42686235-3ca1-41e1-90ca-c5d3fc0e19f4

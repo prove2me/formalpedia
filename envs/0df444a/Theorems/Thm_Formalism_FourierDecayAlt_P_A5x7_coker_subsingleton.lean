@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x7_coker_subsingleton
 -- name    : Formalism.FourierDecayAlt.P.A5x7.coker_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:27:00.237078+00:00
 -- url     : https://prove2.me/theorems/a16942a2-1cbc-4259-83ba-15e94aeee511

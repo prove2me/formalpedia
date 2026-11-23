@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_quotRestrPosDef
 -- name    : Formalism.L2.DIV.quotRestrPosDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:28:41.437656+00:00
 -- url     : https://prove2.me/theorems/ea3adc03-fdd8-4613-965d-af052afd674b

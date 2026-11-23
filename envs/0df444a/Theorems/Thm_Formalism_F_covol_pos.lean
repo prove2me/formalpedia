@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_covol_pos
 -- name    : Formalism.F.covol_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:15:14.213442+00:00
 -- url     : https://prove2.me/theorems/29248d2d-06e7-477c-8d39-7eb9cb75bc1d

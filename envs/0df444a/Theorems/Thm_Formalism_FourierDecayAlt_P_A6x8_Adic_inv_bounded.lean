@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x8_Adic_inv_bounded
 -- name    : Formalism.FourierDecayAlt.P.A6x8.Adic.inv_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:28:58.443018+00:00
 -- url     : https://prove2.me/theorems/023cb741-679f-4661-ab56-b18238c99499

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_setIntegral_collar_shift
 -- name    : DedekindZeta.ConeRadialReduction.setIntegral_collar_shift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:05.37427+00:00
 -- url     : https://prove2.me/theorems/ad057262-7c96-44c7-bd01-8d523f6af224

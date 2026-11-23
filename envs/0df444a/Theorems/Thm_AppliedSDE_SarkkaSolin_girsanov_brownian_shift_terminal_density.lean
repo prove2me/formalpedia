@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_girsanov_brownian_shift_terminal_density
 -- name    : AppliedSDE.SarkkaSolin.girsanov_brownian_shift_terminal_density
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:48:52.420029+00:00
 -- url     : https://prove2.me/theorems/5cddf6e0-348d-4542-a41c-d09699726965

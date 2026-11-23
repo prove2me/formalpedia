@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mdp_DiscountedMDP_exists_unique_fixedPoint
 -- name    : Mdp.DiscountedMDP.exists_unique_fixedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:02:41.943806+00:00
 -- url     : https://prove2.me/theorems/b2ffc9bf-17c9-48d9-a213-ef530ab42f33

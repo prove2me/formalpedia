@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_value_ne
 -- name    : Csg.value_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:04:44.773238+00:00
 -- url     : https://prove2.me/theorems/b97ab754-5d39-4e77-95bf-79d6c92d0cdb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x8_Adic_near_inv
 -- name    : Formalism.FourierDecayAlt.P.A6x8.Adic.near_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:13:55.04009+00:00
 -- url     : https://prove2.me/theorems/3ef50924-36b6-45b7-a177-4b4b69c6402a

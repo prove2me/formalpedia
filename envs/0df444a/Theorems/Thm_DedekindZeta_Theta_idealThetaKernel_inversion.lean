@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_Theta_idealThetaKernel_inversion
 -- name    : DedekindZeta.Theta.idealThetaKernel_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:21:45.223292+00:00
 -- url     : https://prove2.me/theorems/2874e660-fff2-4c97-8735-0243cbfbf106

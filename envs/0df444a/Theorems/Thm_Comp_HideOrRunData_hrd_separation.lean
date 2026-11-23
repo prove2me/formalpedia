@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRunData_hrd_separation
 -- name    : Comp.HideOrRunData.hrd_separation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:24.584969+00:00
 -- url     : https://prove2.me/theorems/0f8beacf-2d6e-4242-b23e-ae3077be4fbf

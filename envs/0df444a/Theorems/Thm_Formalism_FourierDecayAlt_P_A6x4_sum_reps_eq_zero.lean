@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x4_sum_reps_eq_zero
 -- name    : Formalism.FourierDecayAlt.P.A6x4.sum_reps_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:28:50.921716+00:00
 -- url     : https://prove2.me/theorems/7c38a5d3-1ceb-4e57-9442-f23b3d0d96bc

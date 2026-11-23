@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_integrable_mixedGaussian_mul_norm_cpow
 -- name    : DedekindZeta.GammaIntegral.integrable_mixedGaussian_mul_norm_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:28.969275+00:00
 -- url     : https://prove2.me/theorems/c9ef6832-f08c-4850-afdb-13c96c64557e

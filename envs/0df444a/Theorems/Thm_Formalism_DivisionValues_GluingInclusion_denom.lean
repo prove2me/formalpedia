@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_GluingInclusion_denom
 -- name    : Formalism.DivisionValues.GluingInclusion.denom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:04.366271+00:00
 -- url     : https://prove2.me/theorems/66952fdb-4037-4381-87e8-5b8fc47f1c83

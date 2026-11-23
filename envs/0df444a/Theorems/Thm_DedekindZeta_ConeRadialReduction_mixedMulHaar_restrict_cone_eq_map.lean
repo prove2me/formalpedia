@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedMulHaar_restrict_cone_eq_map
 -- name    : DedekindZeta.ConeRadialReduction.mixedMulHaar_restrict_cone_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:24.581635+00:00
 -- url     : https://prove2.me/theorems/4d42de81-f030-43e0-8592-d972f086d014

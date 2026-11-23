@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_safetyOp_gfp_initial
 -- name    : Csg.rpsCSG_safetyOp_gfp_initial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:33.393887+00:00
 -- url     : https://prove2.me/theorems/99500fb1-4fb0-4bba-bc73-99dc28a7d619

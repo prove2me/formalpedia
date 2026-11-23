@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_root_bound
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.root_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:54.829965+00:00
 -- url     : https://prove2.me/theorems/5de3aa5d-cc2c-41ce-b759-36ed79ee24e0

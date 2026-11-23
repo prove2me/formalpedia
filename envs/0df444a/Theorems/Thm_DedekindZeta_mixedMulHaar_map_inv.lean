@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_mixedMulHaar_map_inv
 -- name    : DedekindZeta.mixedMulHaar_map_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:25:30.847955+00:00
 -- url     : https://prove2.me/theorems/8ef7d585-cf5b-4c67-a091-2fd50908ed2b

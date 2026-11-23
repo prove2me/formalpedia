@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdicNeighbourhood_Near_prod
 -- name    : Formalism.FourierDecayAlt.P.AdicNeighbourhood.Near.prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:26:04.945462+00:00
 -- url     : https://prove2.me/theorems/d73a895d-55c6-4215-a2b3-691aa8f96b48

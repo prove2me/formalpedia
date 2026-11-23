@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_integrable_gaussian_mellin
 -- name    : DedekindZeta.GammaIntegral.integrable_gaussian_mellin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:16.046705+00:00
 -- url     : https://prove2.me/theorems/3e3c2478-421c-4159-80e0-8fecc51a11a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_bwInd_succ_row_optimal
 -- name    : Csg.CSG.bwInd_succ_row_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:24:54.838817+00:00
 -- url     : https://prove2.me/theorems/dd193f4c-3c5b-4109-9ad9-83d3f2079ece

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_tripleForm
 -- name    : Formalism.FourierDecayAlt.P.tripleForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:01.3228+00:00
 -- url     : https://prove2.me/theorems/e052db04-227f-4243-8c96-6662219f5fe3

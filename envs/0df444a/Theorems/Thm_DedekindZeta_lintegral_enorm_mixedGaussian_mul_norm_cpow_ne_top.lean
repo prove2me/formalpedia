@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_lintegral_enorm_mixedGaussian_mul_norm_cpow_ne_top
 -- name    : DedekindZeta.lintegral_enorm_mixedGaussian_mul_norm_cpow_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:45:24.734456+00:00
 -- url     : https://prove2.me/theorems/57e56836-771d-41b2-9068-3f50a9799350

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_penniesCSG_bwInd_one
 -- name    : Csg.penniesCSG_bwInd_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:25:13.040439+00:00
 -- url     : https://prove2.me/theorems/512e4198-160a-40da-9c05-d3c441c2ceb2

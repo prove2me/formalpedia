@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReservationPolicy_eq_32
 -- name    : ReservationPolicy.eq_32
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:26:14.24106+00:00
 -- url     : https://prove2.me/theorems/27672533-faa3-4790-9408-82a218bb4977

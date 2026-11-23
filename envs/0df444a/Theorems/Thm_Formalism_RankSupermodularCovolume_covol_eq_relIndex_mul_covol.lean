@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankSupermodularCovolume_covol_eq_relIndex_mul_covol
 -- name    : Formalism.RankSupermodularCovolume.covol_eq_relIndex_mul_covol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:57:55.756396+00:00
 -- url     : https://prove2.me/theorems/24af7333-f632-4347-9787-2375f2f51b7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_characterMean
 -- name    : Formalism.FourierDecayAlt.P.characterMean
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:08.427802+00:00
 -- url     : https://prove2.me/theorems/6bc2c78c-7e8e-4f90-9e2e-83f31907c289

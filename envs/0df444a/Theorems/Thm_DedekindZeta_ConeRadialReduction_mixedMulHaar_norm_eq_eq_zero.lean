@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedMulHaar_norm_eq_eq_zero
 -- name    : DedekindZeta.ConeRadialReduction.mixedMulHaar_norm_eq_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:56.332817+00:00
 -- url     : https://prove2.me/theorems/73ae722b-9ae2-4af5-96cb-1d2d855c19fd

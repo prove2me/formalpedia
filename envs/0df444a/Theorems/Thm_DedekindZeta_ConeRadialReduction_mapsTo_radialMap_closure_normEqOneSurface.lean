@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mapsTo_radialMap_closure_normEqOneSurface
 -- name    : DedekindZeta.ConeRadialReduction.mapsTo_radialMap_closure_normEqOneSurface
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:10.684347+00:00
 -- url     : https://prove2.me/theorems/920a0462-5240-4f57-8daf-21acb555c4ec

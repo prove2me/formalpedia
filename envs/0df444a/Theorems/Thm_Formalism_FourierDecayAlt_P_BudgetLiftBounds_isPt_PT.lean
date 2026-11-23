@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BudgetLiftBounds_isPt_PT
 -- name    : Formalism.FourierDecayAlt.P.BudgetLiftBounds.isPt_PT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:32.691197+00:00
 -- url     : https://prove2.me/theorems/bb3906c4-671f-4841-bff9-3e27a2065725

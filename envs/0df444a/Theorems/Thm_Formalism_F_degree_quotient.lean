@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_degree_quotient
 -- name    : Formalism.F.degree_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:55:27.401516+00:00
 -- url     : https://prove2.me/theorems/4148c437-bd08-49bd-a2a1-e57e85cbbed6

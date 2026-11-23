@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_tsum_lintegral_enorm_cone_mixedThetaKernel_summand_ne_top
 -- name    : DedekindZeta.tsum_lintegral_enorm_cone_mixedThetaKernel_summand_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:12.616596+00:00
 -- url     : https://prove2.me/theorems/dc674b06-e5b7-45ec-a574-6e651b38136a

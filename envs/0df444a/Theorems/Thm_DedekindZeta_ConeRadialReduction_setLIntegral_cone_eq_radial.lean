@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_setLIntegral_cone_eq_radial
 -- name    : DedekindZeta.ConeRadialReduction.setLIntegral_cone_eq_radial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:16.496648+00:00
 -- url     : https://prove2.me/theorems/d7985cb1-1b39-4486-a0bb-9206821a956d

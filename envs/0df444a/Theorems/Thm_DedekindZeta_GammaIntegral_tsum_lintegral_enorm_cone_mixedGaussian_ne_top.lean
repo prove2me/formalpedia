@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_tsum_lintegral_enorm_cone_mixedGaussian_ne_top
 -- name    : DedekindZeta.GammaIntegral.tsum_lintegral_enorm_cone_mixedGaussian_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:36:39.62707+00:00
 -- url     : https://prove2.me/theorems/509a3888-d266-4c4b-9843-3ed3deba7ee0

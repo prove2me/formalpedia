@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_lintegral_collar_weight
 -- name    : DedekindZeta.ConeRadialReduction.lintegral_collar_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:00.247069+00:00
 -- url     : https://prove2.me/theorems/761c6216-b7ff-4b57-bf4c-9be3afa31818

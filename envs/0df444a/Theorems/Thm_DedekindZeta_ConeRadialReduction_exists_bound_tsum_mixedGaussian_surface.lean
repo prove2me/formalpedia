@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_exists_bound_tsum_mixedGaussian_surface
 -- name    : DedekindZeta.ConeRadialReduction.exists_bound_tsum_mixedGaussian_surface
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:59.055769+00:00
 -- url     : https://prove2.me/theorems/2b5948d4-11dd-4aa9-b208-cf0d10b54d5c

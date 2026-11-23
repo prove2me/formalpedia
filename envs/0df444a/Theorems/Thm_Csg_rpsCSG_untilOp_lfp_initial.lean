@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_untilOp_lfp_initial
 -- name    : Csg.rpsCSG_untilOp_lfp_initial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:29.838507+00:00
 -- url     : https://prove2.me/theorems/3c3d10b1-740e-4e6e-a674-39274fb24c35

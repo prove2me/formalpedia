@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_isFundamentalDomain_inv_image_fundamentalCone
 -- name    : DedekindZeta.isFundamentalDomain_inv_image_fundamentalCone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:18.43081+00:00
 -- url     : https://prove2.me/theorems/d6e6c104-44e9-4b12-9b31-6b2085bbe4f7

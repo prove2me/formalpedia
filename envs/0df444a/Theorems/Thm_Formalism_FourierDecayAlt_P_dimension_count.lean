@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dimension_count
 -- name    : Formalism.FourierDecayAlt.P.dimension_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:41:57.376872+00:00
 -- url     : https://prove2.me/theorems/460a557a-6762-4939-ba1e-a0b151203170

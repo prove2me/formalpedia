@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_gammaIntegral_gaussian_prod
 -- name    : DedekindZeta.GammaIntegral.gammaIntegral_gaussian_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:33.537195+00:00
 -- url     : https://prove2.me/theorems/6e5882f8-9274-44ca-ae3c-039c04fd2e1b

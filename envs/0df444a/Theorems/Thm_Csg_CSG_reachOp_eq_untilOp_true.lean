@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_reachOp_eq_untilOp_true
 -- name    : Csg.CSG.reachOp_eq_untilOp_true
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:58.918882+00:00
 -- url     : https://prove2.me/theorems/cdfd208d-974e-46ec-be9f-d24a5dbe0955

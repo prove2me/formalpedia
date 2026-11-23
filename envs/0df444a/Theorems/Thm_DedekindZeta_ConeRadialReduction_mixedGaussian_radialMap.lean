@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedGaussian_radialMap
 -- name    : DedekindZeta.ConeRadialReduction.mixedGaussian_radialMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:16.409296+00:00
 -- url     : https://prove2.me/theorems/d7b473a9-cd4e-4c95-8fea-57b60b6d739e

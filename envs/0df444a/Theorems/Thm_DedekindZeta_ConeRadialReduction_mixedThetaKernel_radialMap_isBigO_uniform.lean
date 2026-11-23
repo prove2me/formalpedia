@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedThetaKernel_radialMap_isBigO_uniform
 -- name    : DedekindZeta.ConeRadialReduction.mixedThetaKernel_radialMap_isBigO_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:34.113801+00:00
 -- url     : https://prove2.me/theorems/e58fa862-5bb3-495b-83c6-a3fa7e586d4f

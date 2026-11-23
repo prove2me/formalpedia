@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_mellin_mixedGaussian_mul_eq
 -- name    : DedekindZeta.GammaIntegral.mellin_mixedGaussian_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:26.22088+00:00
 -- url     : https://prove2.me/theorems/42fab43c-96fb-4d96-96b7-0c0c6f3824ff

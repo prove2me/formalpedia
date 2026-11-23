@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_mulHaar_integral_comp_mul_right
 -- name    : DedekindZeta.GammaIntegral.mulHaar_integral_comp_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:27.345809+00:00
 -- url     : https://prove2.me/theorems/8c3369ce-3cf8-4c52-95ae-39fdbd6b5164

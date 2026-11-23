@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_cone_integral_orbit_collapse
 -- name    : DedekindZeta.GammaIntegral.cone_integral_orbit_collapse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:47:42.331635+00:00
 -- url     : https://prove2.me/theorems/10c15fbd-098e-44be-9846-e754e839a3d1

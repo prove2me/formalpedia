@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdDualW_eT_mem
 -- name    : PI.VolStabW.SdDualW.eT_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:06.960452+00:00
 -- url     : https://prove2.me/theorems/8602ed3b-adbc-41e8-ac01-4b88fa40b012

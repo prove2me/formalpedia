@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_answers_almostReach_of_data
 -- name    : Comp.ModelData.answers_almostReach_of_data
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:24:54.761206+00:00
 -- url     : https://prove2.me/theorems/8194a4c6-70f5-4ebe-aae7-a7f6d2ce0557

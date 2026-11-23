@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x3_chC_injective
 -- name    : Formalism.FourierDecayAlt.P.A5x3.chC_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:25:30.654797+00:00
 -- url     : https://prove2.me/theorems/221224dc-5879-4232-b67a-edff137a0bc0

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AppliedSDE.SarkkaSolin.girsanov_brownian_shift_terminal_density
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-13T23:49:21.061225+00:00
 -- url     : https://prove2.me/submissions/34a581ab-3442-463b-8ff1-693ef9948bb0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KLSModular_LevyStochCalc_Brownian_Filtered

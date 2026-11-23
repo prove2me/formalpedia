@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_MellinPrinciple_reducedMellin_split
 -- name    : DedekindZeta.MellinPrinciple.reducedMellin_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:14.225565+00:00
 -- url     : https://prove2.me/theorems/34b4c8e2-8496-4086-b533-975f9097d74a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedQuadForm_radialMap
 -- name    : DedekindZeta.ConeRadialReduction.mixedQuadForm_radialMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:31:12.815799+00:00
 -- url     : https://prove2.me/theorems/4306c40e-be93-4610-8772-ac6de9f65da5

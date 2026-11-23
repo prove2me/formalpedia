@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BoxAverageLimits_LIMf_eq_of_tendsto
 -- name    : Formalism.FourierDecayAlt.P.BoxAverageLimits.LIMf_eq_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:21.493388+00:00
 -- url     : https://prove2.me/theorems/98a5994b-fffd-4c80-afa4-bcb3cdda12c4

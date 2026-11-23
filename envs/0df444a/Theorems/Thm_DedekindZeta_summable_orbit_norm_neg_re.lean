@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_summable_orbit_norm_neg_re
 -- name    : DedekindZeta.summable_orbit_norm_neg_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:09.33365+00:00
 -- url     : https://prove2.me/theorems/e34c0497-885f-4fe8-836f-c3293ed11a89

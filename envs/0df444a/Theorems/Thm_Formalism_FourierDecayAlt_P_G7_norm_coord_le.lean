@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G7_norm_coord_le
 -- name    : Formalism.FourierDecayAlt.P.G7.norm_coord_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:56:00.818142+00:00
 -- url     : https://prove2.me/theorems/2146c3b9-b623-4e6c-8d2f-d8612b46be77

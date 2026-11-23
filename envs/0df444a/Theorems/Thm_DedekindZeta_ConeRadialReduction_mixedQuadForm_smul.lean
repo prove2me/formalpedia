@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedQuadForm_smul
 -- name    : DedekindZeta.ConeRadialReduction.mixedQuadForm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:44.8408+00:00
 -- url     : https://prove2.me/theorems/262f167f-cb98-493f-bec0-6301f5b26044

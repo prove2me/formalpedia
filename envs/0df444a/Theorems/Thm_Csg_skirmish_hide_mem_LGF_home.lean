@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_hide_mem_LGF_home
 -- name    : Csg.skirmish_hide_mem_LGF_home
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:22:12.241005+00:00
 -- url     : https://prove2.me/theorems/f89a02bb-daf1-43a3-9a5e-7427724e8eed

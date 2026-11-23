@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_girsanov_shifted_brownian_core
 -- name    : AppliedSDE.SarkkaSolin.girsanov_shifted_brownian_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T23:48:36.47069+00:00
 -- url     : https://prove2.me/theorems/7b240172-1718-4bcf-bf9e-17fc19de2e5f

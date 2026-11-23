@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BoxAverageLimits_hyper_le_atTop
 -- name    : Formalism.FourierDecayAlt.P.BoxAverageLimits.hyper_le_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:51.322932+00:00
 -- url     : https://prove2.me/theorems/32f9fd95-c8cd-49ad-8ced-9c8081212677

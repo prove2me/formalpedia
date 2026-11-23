@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_skirmish_hide_not_mem_G_singleton
 -- name    : Csg.skirmish_hide_not_mem_G_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:11:02.179455+00:00
 -- url     : https://prove2.me/theorems/36d61134-2ce6-4d84-99a1-0cb2e050c9b1

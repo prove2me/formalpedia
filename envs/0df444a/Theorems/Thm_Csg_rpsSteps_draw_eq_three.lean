@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsSteps_draw_eq_three
 -- name    : Csg.rpsSteps_draw_eq_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:08.955697+00:00
 -- url     : https://prove2.me/theorems/6383b83b-abba-4264-8342-ca67c88f7937

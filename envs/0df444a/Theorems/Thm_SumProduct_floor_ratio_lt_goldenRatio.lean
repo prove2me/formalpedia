@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_floor_ratio_lt_goldenRatio
 -- name    : SumProduct.floor_ratio_lt_goldenRatio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:18.408264+00:00
 -- url     : https://prove2.me/theorems/8a403c22-e530-48c4-9231-bd42cf778edb

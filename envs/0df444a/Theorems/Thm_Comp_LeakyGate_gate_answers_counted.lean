@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_LeakyGate_gate_answers_counted
 -- name    : Comp.LeakyGate.gate_answers_counted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:23.573802+00:00
 -- url     : https://prove2.me/theorems/ad3a37de-eccc-4b90-9d28-640a496bf047

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_reduceMax_ne_reduceMin
 -- name    : Csg.reduceMax_ne_reduceMin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:04:55.189104+00:00
 -- url     : https://prove2.me/theorems/4b2534d9-f2f1-44a4-a86e-c9e54d79e1ff

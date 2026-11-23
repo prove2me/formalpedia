@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G7_continuous_cof
 -- name    : Formalism.FourierDecayAlt.P.G7.continuous_cof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:48:38.809409+00:00
 -- url     : https://prove2.me/theorems/136d2797-1436-41ff-87c4-0109c4af7f7a

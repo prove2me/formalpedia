@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_GammaIntegral_gammaIntegral_gaussian_eq
 -- name    : DedekindZeta.GammaIntegral.gammaIntegral_gaussian_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:46:36.033216+00:00
 -- url     : https://prove2.me/theorems/50f7a842-adee-438d-b3c8-c1aa762d4580

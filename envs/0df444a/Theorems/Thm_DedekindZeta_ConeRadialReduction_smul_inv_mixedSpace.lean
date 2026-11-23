@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_smul_inv_mixedSpace
 -- name    : DedekindZeta.ConeRadialReduction.smul_inv_mixedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:37.276265+00:00
 -- url     : https://prove2.me/theorems/811460df-0e7c-47ff-8734-f88e71f71334

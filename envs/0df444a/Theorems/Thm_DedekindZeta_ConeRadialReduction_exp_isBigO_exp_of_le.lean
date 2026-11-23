@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_exp_isBigO_exp_of_le
 -- name    : DedekindZeta.ConeRadialReduction.exp_isBigO_exp_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:28.180087+00:00
 -- url     : https://prove2.me/theorems/56533263-80a4-484c-96f9-a82720bedc4d

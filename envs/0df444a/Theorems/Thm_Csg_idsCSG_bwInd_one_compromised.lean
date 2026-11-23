@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsCSG_bwInd_one_compromised
 -- name    : Csg.idsCSG_bwInd_one_compromised
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:53:57.070967+00:00
 -- url     : https://prove2.me/theorems/db6dc171-1703-4e3c-9086-e2dfc1baba22

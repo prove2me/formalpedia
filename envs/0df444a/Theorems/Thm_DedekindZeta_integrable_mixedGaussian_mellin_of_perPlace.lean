@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_integrable_mixedGaussian_mellin_of_perPlace
 -- name    : DedekindZeta.integrable_mixedGaussian_mellin_of_perPlace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:45:19.9151+00:00
 -- url     : https://prove2.me/theorems/44d933e0-730a-4773-9d53-c61a94b47180

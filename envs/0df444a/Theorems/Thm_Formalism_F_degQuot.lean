@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_degQuot
 -- name    : Formalism.F.degQuot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:12:26.850933+00:00
 -- url     : https://prove2.me/theorems/1e58ee16-ea3a-420b-b5c9-cfce0d33c682

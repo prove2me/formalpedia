@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiagonalPointSigmaFinite_singleton_subset_detSet
 -- name    : Formalism.FourierDecayAlt.P.DiagonalPointSigmaFinite.singleton_subset_detSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:55.891676+00:00
 -- url     : https://prove2.me/theorems/77aa394b-a6e0-4fd8-9156-0c543b660b2f

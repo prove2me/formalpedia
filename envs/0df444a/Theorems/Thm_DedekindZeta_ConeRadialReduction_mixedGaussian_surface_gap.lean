@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_mixedGaussian_surface_gap
 -- name    : DedekindZeta.ConeRadialReduction.mixedGaussian_surface_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:17.504806+00:00
 -- url     : https://prove2.me/theorems/31bba5aa-1cd1-4c31-97d6-fb827736f71d

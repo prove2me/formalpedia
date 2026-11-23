@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginMaxima_Critical_lemma_C_2
 -- name    : MarginMaxima.Critical.lemma_C_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T23:01:52.109747+00:00
 -- url     : https://prove2.me/theorems/4c6ce10f-01b3-4ca8-ab7b-6967b9cdfd81

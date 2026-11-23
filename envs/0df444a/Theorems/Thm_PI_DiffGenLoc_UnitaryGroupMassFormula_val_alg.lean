@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DiffGenLoc_UnitaryGroupMassFormula_val_alg
 -- name    : PI.DiffGenLoc.UnitaryGroupMassFormula.val_alg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:53.729916+00:00
 -- url     : https://prove2.me/theorems/74359c50-5c46-4dc3-9e38-7896f55f87ec

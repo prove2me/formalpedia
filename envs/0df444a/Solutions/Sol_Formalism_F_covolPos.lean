@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.F.covolPos
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T01:31:27.609443+00:00
+-- url     : https://prove2.me/submissions/ed8cb7f2-7aba-46ae-b7c2-cb2354df3b8d
+
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_CovolEqGram
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_CovolPos
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_CovolEqCovolume
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_GramDetLe
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_SlopesBdd
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_SlopeLeMuMaxOf
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_SlopeInequality
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_DegQuot
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_SaturationProperties
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_ShortVector
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_FiniteSaturated
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_MuMaxAttained
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_MuMaxLeMin
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_OrthSum
+import Definitions.Def_Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax
+import Theorems.Thm_P2M_Formalism_F_covol_pos__b55c804d1109
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.F
+namespace Formalism.F
+theorem _root_.solution : CovolPos := covol_pos'
+end Formalism.F

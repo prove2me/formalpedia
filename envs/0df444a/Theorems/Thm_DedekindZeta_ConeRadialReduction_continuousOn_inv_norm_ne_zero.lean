@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_continuousOn_inv_norm_ne_zero
 -- name    : DedekindZeta.ConeRadialReduction.continuousOn_inv_norm_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:49:46.314093+00:00
 -- url     : https://prove2.me/theorems/0923b4da-d54c-4576-9d2b-be88142614b8

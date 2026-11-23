@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_rewardUntilOp_eq_of_gfp_certificate
 -- name    : Csg.CSG.rewardUntilOp_eq_of_gfp_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:44.329806+00:00
 -- url     : https://prove2.me/theorems/6daf04bc-6dec-4842-8378-eb23aebf3797

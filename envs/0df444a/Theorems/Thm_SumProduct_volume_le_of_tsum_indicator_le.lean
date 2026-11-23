@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_volume_le_of_tsum_indicator_le
 -- name    : SumProduct.volume_le_of_tsum_indicator_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:22:53.550796+00:00
 -- url     : https://prove2.me/theorems/c7f70a3d-e9dd-4412-ad5b-5fe4614516a8

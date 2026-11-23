@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdDualW_trace_one_tmul
 -- name    : PI.VolStabW.SdDualW.trace_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:37.577713+00:00
 -- url     : https://prove2.me/theorems/059b8bd5-69b0-4f58-856e-9e65f8967042

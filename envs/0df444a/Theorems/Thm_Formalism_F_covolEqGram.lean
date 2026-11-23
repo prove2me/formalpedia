@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_covolEqGram
 -- name    : Formalism.F.covolEqGram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:24:04.358057+00:00
 -- url     : https://prove2.me/theorems/3644d22a-55c6-4022-abf3-a765322f1746

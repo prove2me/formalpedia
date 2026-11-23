@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_exists_proj
 -- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.exists_proj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:56:44.794058+00:00
 -- url     : https://prove2.me/theorems/b3281940-3b63-470a-9bcb-e118ff320369

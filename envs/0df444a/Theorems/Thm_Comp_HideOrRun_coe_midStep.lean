@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_HideOrRun_coe_midStep
 -- name    : Comp.HideOrRun.coe_midStep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:45:28.705053+00:00
 -- url     : https://prove2.me/theorems/96cd9ff4-6cbf-498d-8a0e-581f413ce3fb

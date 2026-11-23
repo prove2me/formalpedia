@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x8_Adic_unit_one
 -- name    : Formalism.FourierDecayAlt.P.A6x8.Adic.unit_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:44:12.668678+00:00
 -- url     : https://prove2.me/theorems/aa161c59-4a6b-42ac-b388-aaa3dc8434a9

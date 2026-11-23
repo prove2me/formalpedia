@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_idsCSG_bwInd_compromised_eq_healthy_add_one
 -- name    : Csg.idsCSG_bwInd_compromised_eq_healthy_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:56:59.719538+00:00
 -- url     : https://prove2.me/theorems/0c02f869-c2e1-4fd5-a901-cec07c10103f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_rpsCSG_untilOp_lfp_eq_reachOp_lfp
 -- name    : Csg.rpsCSG_untilOp_lfp_eq_reachOp_lfp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:26.690889+00:00
 -- url     : https://prove2.me/theorems/0ba725cc-9352-4618-8944-a1cdf005a7e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdicNeighbourhood_near_one
 -- name    : Formalism.FourierDecayAlt.P.AdicNeighbourhood.near_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:15.487918+00:00
 -- url     : https://prove2.me/theorems/9ad5d405-c593-4428-887d-49dec87fb738

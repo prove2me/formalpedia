@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneIALM_stronglyConvex_isCoercive
 -- name    : ZeroOneIALM.stronglyConvex_isCoercive
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:28:41.203823+00:00
 -- url     : https://prove2.me/theorems/996db992-ea68-4be8-800a-7fcc5d11b34a

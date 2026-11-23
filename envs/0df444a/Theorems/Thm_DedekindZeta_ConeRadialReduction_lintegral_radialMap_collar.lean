@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeRadialReduction_lintegral_radialMap_collar
 -- name    : DedekindZeta.ConeRadialReduction.lintegral_radialMap_collar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:48:29.840668+00:00
 -- url     : https://prove2.me/theorems/b7dd2ac4-45cf-4fb2-a4bf-8716c2a39391

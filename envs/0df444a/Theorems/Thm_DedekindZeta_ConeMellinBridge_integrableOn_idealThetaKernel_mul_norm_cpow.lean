@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_ConeMellinBridge_integrableOn_idealThetaKernel_mul_norm_cpow
 -- name    : DedekindZeta.ConeMellinBridge.integrableOn_idealThetaKernel_mul_norm_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:50:42.453531+00:00
 -- url     : https://prove2.me/theorems/74d1cc78-a127-483d-ba0c-1bab53e61e41
