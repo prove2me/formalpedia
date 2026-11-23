@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CharId_eval_mul_scalar
 -- name    : GlobalTheory.CompanionTheory.Inh.CharId.eval_mul_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:11.331265+00:00
 -- url     : https://prove2.me/theorems/94a7cd08-4e4f-4406-a7eb-2d087accac7d

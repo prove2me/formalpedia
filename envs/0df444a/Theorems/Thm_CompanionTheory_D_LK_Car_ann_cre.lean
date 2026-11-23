@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_Car_ann_cre
 -- name    : CompanionTheory.D.LK.Car.ann_cre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:45.834119+00:00
 -- url     : https://prove2.me/theorems/575c9a9d-4738-40af-b489-89a1c5b406af

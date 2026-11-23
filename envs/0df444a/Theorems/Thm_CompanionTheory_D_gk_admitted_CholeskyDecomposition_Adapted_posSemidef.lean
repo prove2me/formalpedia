@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_Adapted_posSemidef
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.Adapted.posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:28:22.607207+00:00
 -- url     : https://prove2.me/theorems/5472316f-871d-43d7-be9c-5849cc1198c4

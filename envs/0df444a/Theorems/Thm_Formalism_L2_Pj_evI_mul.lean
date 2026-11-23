@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_evI_mul
 -- name    : Formalism.L2.Pj.evI_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:27.936448+00:00
 -- url     : https://prove2.me/theorems/f07bd7a0-9f06-4446-9f99-9e35647e102f

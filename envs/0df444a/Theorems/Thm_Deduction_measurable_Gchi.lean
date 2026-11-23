@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_measurable_Gchi
 -- name    : Deduction.measurable_Gchi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:19:55.504861+00:00
 -- url     : https://prove2.me/theorems/85944f00-8256-4088-aba8-d5f5caaf37ce

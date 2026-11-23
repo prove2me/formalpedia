@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_poleData_integrable
 -- name    : Deduction.poleData_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:00.085881+00:00
 -- url     : https://prove2.me/theorems/c00984b6-890a-407d-b0b3-5aed09d7f517

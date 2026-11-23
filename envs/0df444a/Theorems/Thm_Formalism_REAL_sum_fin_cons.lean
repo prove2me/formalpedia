@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sum_fin_cons
 -- name    : Formalism.REAL.sum_fin_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:54.77418+00:00
 -- url     : https://prove2.me/theorems/dbd9add8-f2fe-4161-bb7f-333f41f527b6

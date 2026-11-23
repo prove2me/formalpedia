@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_trForm_adj
 -- name    : GlobalTheory.HostModel.trForm_adj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:22.415717+00:00
 -- url     : https://prove2.me/theorems/21c143c7-feec-498b-b32e-78e0adc0d63c

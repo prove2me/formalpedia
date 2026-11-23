@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_landau_coeff
 -- name    : Deduction.landau_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:57.598077+00:00
 -- url     : https://prove2.me/theorems/60ec53be-9d26-461f-a73f-4dd9ce7a3905

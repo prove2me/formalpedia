@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_mertens_upper_psi_bound
 -- name    : Deduction.mertens_upper_psi_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:25.446079+00:00
 -- url     : https://prove2.me/theorems/04d3e884-2611-4fd3-83da-a7dfc6d770bf

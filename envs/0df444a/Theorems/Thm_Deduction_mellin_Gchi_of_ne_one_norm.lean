@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_mellin_Gchi_of_ne_one_norm
 -- name    : Deduction.mellin_Gchi_of_ne_one_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:36.043108+00:00
 -- url     : https://prove2.me/theorems/e8fb84f1-d885-4bba-b929-8e2d407f2801

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_measurable_Gchi_ramp
 -- name    : Deduction.measurable_Gchi_ramp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:35:11.729361+00:00
 -- url     : https://prove2.me/theorems/fb23276f-a6ba-4e92-a574-c5956d6066cd

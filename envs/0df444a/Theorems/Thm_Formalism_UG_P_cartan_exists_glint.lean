@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cartan_exists_glint
 -- name    : Formalism.UG.P.cartan_exists_glint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:22:03.61107+00:00
 -- url     : https://prove2.me/theorems/966f4b31-2a83-43d9-bde1-2b94dbb84475

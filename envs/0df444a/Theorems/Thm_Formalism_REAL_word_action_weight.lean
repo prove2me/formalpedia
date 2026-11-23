@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_word_action_weight
 -- name    : Formalism.REAL.word_action_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:43:02.709477+00:00
 -- url     : https://prove2.me/theorems/c33e053b-059d-4a9b-824f-2429bb647a5d

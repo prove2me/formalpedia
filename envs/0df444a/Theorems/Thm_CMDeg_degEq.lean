@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMDeg_degEq
 -- name    : CMDeg.degEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:06.539816+00:00
 -- url     : https://prove2.me/theorems/dc30e5b9-8eb8-4ba1-a35b-4e72a2a8ecec

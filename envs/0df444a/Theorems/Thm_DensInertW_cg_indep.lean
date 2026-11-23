@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_cg_indep
 -- name    : DensInertW.cg_indep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:43.909796+00:00
 -- url     : https://prove2.me/theorems/98199b96-10dc-4b66-89e2-09fe21952310

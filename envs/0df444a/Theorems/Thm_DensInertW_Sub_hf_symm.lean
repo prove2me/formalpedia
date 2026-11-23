@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_Sub_hf_symm
 -- name    : DensInertW.Sub.hf_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:19:34.953476+00:00
 -- url     : https://prove2.me/theorems/f407f73f-12f8-48dd-87a7-cd23094d8c54

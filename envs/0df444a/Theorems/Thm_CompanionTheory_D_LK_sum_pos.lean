@@ -1,0 +1,41 @@
+-- Prove2me | Theorems.Thm_CompanionTheory_D_LK_sum_pos
+-- name    : CompanionTheory.D.LK.sum_pos
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T10:09:28.827655+00:00
+-- url     : https://prove2.me/theorems/d8e63693-e2af-452f-b7e5-0d05014fd1ba
+-- title:
+--   LK: sum pos
+-- statement:
+--   The LK construction uses the sum pos property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/CompanionTheory/HarishChandraModules/LowKTypeMultiplicity/EigenspaceCyclicDensity/CreationOperators/FilterAll.lean#L28-L41
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/CompanionTheory/HarishChandraModules/LowKTypeMultiplicity/EigenspaceCyclicDensity/CreationOperators/FilterAll.lean#L28-L41
+
+import Definitions.Def_CompanionTheory_HarishChandraModules_LowKTypeMultiplicity_EigenspaceCyclicDensity_CreationOperators_DifferentialCommutesWeightOperator
+import Definitions.Def_CompanionTheory_HarishChandraModules_LowKTypeMultiplicity_EigenspaceCyclicDensity_CreationOperators_KTypeCount
+import Definitions.Def_CompanionTheory_HarishChandraModules_LowKTypeMultiplicity_EigenspaceCyclicDensity_LowKMultOnePOf
+import Definitions.Def_Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_SchwartzBilinear_DoubleSumReduceSecond
+import Definitions.Def_CompanionTheory_HarishChandraModules_LowKTypeMultiplicity_EigenspaceCyclicDensity_CreationOperators_FilterAll
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset
+open scoped InnerProductSpace
+noncomputable section
+open CompanionTheory CompanionTheory.D CompanionTheory.D.LK
+open Car
+open Formalism.REAL (GlRel KHighest IsWeight CasK)
+open PI.UpqRep (rhoC nsq lowK)
+open CompanionTheory.D.DSIC (KRel KUnit KStab)
+variable {n : ℕ} {ε : Fin n → Bool}
+variable {V : Type} [AddCommGroup V] [Module ℂ V]
+
+theorem CompanionTheory.D.LK.sum_pos {M : Type} [AddCommMonoid M] (f : Fin n → Fin n → M) :
+    ∑ a, ∑ b, f a b = ∑ a, f a a + ∑ i : Pos n, (f i.1.1 i.1.2 + f i.1.2 i.1.1) := by sorry

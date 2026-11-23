@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_ar_main
 -- name    : DensInertW.ar_main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:52.0169+00:00
 -- url     : https://prove2.me/theorems/3debd5f5-2c6d-4fc0-9d87-7a8f07def741

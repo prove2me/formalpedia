@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommSplit_compr_eq_restrict
 -- name    : GlobalTheory.CompanionTheory.CommSplit.compr_eq_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:31.426985+00:00
 -- url     : https://prove2.me/theorems/cd890c9d-d15f-4796-8dfc-3e047ea16f23

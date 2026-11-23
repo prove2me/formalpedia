@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_landau_dichotomy
 -- name    : Deduction.landau_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:45.35634+00:00
 -- url     : https://prove2.me/theorems/f3a3c3b2-fa06-4504-a0e8-f256493e25e5

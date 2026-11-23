@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_EulerSeries_exists_inv
 -- name    : Formalism.ELL.EulerSeries.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:57.495796+00:00
 -- url     : https://prove2.me/theorems/c2d40edb-6853-4a87-b17d-6fb1a994bd1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mem_compactSpan_self
 -- name    : Formalism.REAL.mem_compactSpan_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:02.556217+00:00
 -- url     : https://prove2.me/theorems/4d55332a-63f5-4284-be81-b1e3b00e5670

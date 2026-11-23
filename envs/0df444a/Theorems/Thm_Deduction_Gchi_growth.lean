@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_Gchi_growth
 -- name    : Deduction.Gchi_growth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:19:55.475483+00:00
 -- url     : https://prove2.me/theorems/f1f84272-a7c7-4a73-9dd9-f5af652a2925

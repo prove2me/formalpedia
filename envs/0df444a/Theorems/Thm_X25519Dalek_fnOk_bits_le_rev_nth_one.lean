@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_bits_le_rev_nth_one
 -- name    : X25519Dalek.fnOk_bits_le_rev_nth_one
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T21:41:35.035839+00:00
 -- url     : https://prove2.me/theorems/e954c686-8bc7-43c3-a361-6b465bc7c743

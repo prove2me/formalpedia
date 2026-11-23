@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_card_norm_fibre
 -- name    : DensInertW.card_norm_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:19.013954+00:00
 -- url     : https://prove2.me/theorems/4b341ebd-2734-40d8-8714-f320aa1c830e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_adapted
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.adapted
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:28:22.570481+00:00
 -- url     : https://prove2.me/theorems/9e4540a0-e18d-4c6d-9aad-4c58da0cbaa1

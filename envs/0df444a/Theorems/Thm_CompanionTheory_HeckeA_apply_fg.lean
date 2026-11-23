@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_HeckeA_apply_fg
 -- name    : CompanionTheory.HeckeA.apply_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:31:37.81642+00:00
 -- url     : https://prove2.me/theorems/80680329-9fb8-488c-9ab5-55b9061f544f

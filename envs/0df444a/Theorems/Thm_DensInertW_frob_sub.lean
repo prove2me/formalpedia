@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_frob_sub
 -- name    : DensInertW.frob_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:58.387202+00:00
 -- url     : https://prove2.me/theorems/ae6b2ad8-33dc-4b33-9b77-947f05da74df

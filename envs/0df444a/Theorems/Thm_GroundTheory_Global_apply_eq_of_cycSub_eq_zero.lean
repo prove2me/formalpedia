@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_apply_eq_of_cycSub_eq_zero
 -- name    : GroundTheory.Global.apply_eq_of_cycSub_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:06.520803+00:00
 -- url     : https://prove2.me/theorems/6a2c4d63-5263-4f96-a423-f59b68daab09

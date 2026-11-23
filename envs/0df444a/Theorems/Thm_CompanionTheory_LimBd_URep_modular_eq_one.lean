@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_modular_eq_one
 -- name    : CompanionTheory.LimBd.URep.modular_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:31:53.765069+00:00
 -- url     : https://prove2.me/theorems/556f5c84-a066-4b7c-87bf-731614605609

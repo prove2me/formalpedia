@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_IsIrreducible_exists_eq_algebraMap_of_isSelfAdjoint
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.IsIrreducible.exists_eq_algebraMap_of_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:31:46.64934+00:00
 -- url     : https://prove2.me/theorems/f80bbc4a-c0c7-419e-b2a4-e88d1c8b6b81

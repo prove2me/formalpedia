@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_CholeskyDecomposition_dec_of_monotone
 -- name    : CompanionTheory.D.gk.admitted.CholeskyDecomposition.dec_of_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:14.511021+00:00
 -- url     : https://prove2.me/theorems/650110c6-c785-4ce8-adec-8c051a51b59d

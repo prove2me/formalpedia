@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_cg_lincomb
 -- name    : DensInertW.cg_lincomb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:46.030771+00:00
 -- url     : https://prove2.me/theorems/6eb2f2fe-5779-4a75-8690-3484b737674f

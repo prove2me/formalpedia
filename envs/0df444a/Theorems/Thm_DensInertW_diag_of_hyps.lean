@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_diag_of_hyps
 -- name    : DensInertW.diag_of_hyps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:57.209528+00:00
 -- url     : https://prove2.me/theorems/32305fd3-c7b8-48a1-9896-ef2a59a1e0cd

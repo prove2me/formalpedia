@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_exists_trace_ne_zero
 -- name    : DensInertW.exists_trace_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:54.307802+00:00
 -- url     : https://prove2.me/theorems/562d59ef-55fa-44c8-8bd4-2c552d71db6d

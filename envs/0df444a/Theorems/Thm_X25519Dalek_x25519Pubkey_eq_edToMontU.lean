@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_x25519Pubkey_eq_edToMontU
 -- name    : X25519Dalek.x25519Pubkey_eq_edToMontU
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T22:38:58.855939+00:00
 -- url     : https://prove2.me/theorems/f04d7952-23cc-405a-b9d3-c9a922d5a169

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_Sub_hf_zero_left
 -- name    : DensInertW.Sub.hf_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:36.356619+00:00
 -- url     : https://prove2.me/theorems/26e3b3da-3cc2-485f-b5a1-84a8c6fbd105

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_densityProduct_add_two_succ_succ
 -- name    : DensInertW.densityProduct_add_two_succ_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:39:04.765916+00:00
 -- url     : https://prove2.me/theorems/19c7b0e4-9980-44aa-9afc-db04c1756645

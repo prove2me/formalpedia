@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_an_cntT_eq
 -- name    : DensInertW.an_cntT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:01.245203+00:00
 -- url     : https://prove2.me/theorems/5dae8a9b-87ac-4fac-8c77-97de77cfeb4e

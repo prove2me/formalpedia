@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_IsIrreducible_spectrum_subsingleton
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.IsIrreducible.spectrum_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:31:46.894631+00:00
 -- url     : https://prove2.me/theorems/4647c857-cd67-470d-a731-4ed453ed343a

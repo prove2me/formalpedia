@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_landau_pole_re_le
 -- name    : Deduction.landau_pole_re_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:52.484166+00:00
 -- url     : https://prove2.me/theorems/d9c5e227-e813-4378-acc4-888a0002363e

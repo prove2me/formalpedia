@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_FinOfPIAux_diag_mem
 -- name    : CompanionTheory.D.gk.admitted.FinOfPIAux.diag_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:42.43022+00:00
 -- url     : https://prove2.me/theorems/92ff104d-c83a-4412-8508-312d73dc5f19

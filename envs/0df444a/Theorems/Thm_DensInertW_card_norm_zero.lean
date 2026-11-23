@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_card_norm_zero
 -- name    : DensInertW.card_norm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:12.487068+00:00
 -- url     : https://prove2.me/theorems/344b0d98-626e-47b3-965b-05c7fc1b2e9a

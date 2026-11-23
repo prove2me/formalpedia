@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_PlacePermOperatorBicommutantSpan_schur
 -- name    : CompanionTheory.PlacePermOperatorBicommutantSpan.schur
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:57:03.89978+00:00
 -- url     : https://prove2.me/theorems/89fed102-09aa-4c21-95c9-3351bbafb449

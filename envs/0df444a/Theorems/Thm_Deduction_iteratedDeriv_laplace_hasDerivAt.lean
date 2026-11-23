@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_iteratedDeriv_laplace_hasDerivAt
 -- name    : Deduction.iteratedDeriv_laplace_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:39.618506+00:00
 -- url     : https://prove2.me/theorems/53fe46c0-38bc-4174-b537-998a4e1ac211

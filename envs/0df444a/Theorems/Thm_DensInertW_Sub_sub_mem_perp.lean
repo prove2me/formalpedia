@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_Sub_sub_mem_perp
 -- name    : DensInertW.Sub.sub_mem_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:49.888883+00:00
 -- url     : https://prove2.me/theorems/45be4c96-02af-41e7-a978-654968237b01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_landau_pole_asym
 -- name    : Deduction.landau_pole_asym
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:49.026104+00:00
 -- url     : https://prove2.me/theorems/52d1d087-5d9a-427d-bb2d-4ac258e89a05

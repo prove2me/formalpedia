@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_anisoPeel_of_valCount
 -- name    : DensInertW.anisoPeel_of_valCount
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:25.103628+00:00
 -- url     : https://prove2.me/theorems/300789dc-7de3-47fa-bb95-027e5519a981

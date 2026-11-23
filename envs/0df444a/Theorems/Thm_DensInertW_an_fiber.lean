@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_an_fiber
 -- name    : DensInertW.an_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:39.298797+00:00
 -- url     : https://prove2.me/theorems/4dbf5890-fe72-4d2a-b48d-470fdb66e298

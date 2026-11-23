@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_card_root_le
 -- name    : DensInertW.card_root_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:23.39831+00:00
 -- url     : https://prove2.me/theorems/e1ea8965-3c7e-407f-ae4f-a31206178c5f

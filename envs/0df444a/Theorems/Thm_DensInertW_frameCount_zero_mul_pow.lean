@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_frameCount_zero_mul_pow
 -- name    : DensInertW.frameCount_zero_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:39:14.861471+00:00
 -- url     : https://prove2.me/theorems/046e930e-b780-4659-8443-3421fe536453

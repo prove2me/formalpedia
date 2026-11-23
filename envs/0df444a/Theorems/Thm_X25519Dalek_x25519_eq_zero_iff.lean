@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_x25519_eq_zero_iff
 -- name    : X25519Dalek.x25519_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T22:44:04.637813+00:00
 -- url     : https://prove2.me/theorems/59e140d7-de2a-4311-a46b-bd8aa436c54f

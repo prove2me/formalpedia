@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_mertens_upper
 -- name    : Deduction.mertens_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:20.840715+00:00
 -- url     : https://prove2.me/theorems/acaff696-8ddd-408c-b356-bf0568e48141

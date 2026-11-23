@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_goodPI_of
 -- name    : CompanionTheory.D.gk.admitted.goodPI_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:51:24.00153+00:00
 -- url     : https://prove2.me/theorems/d378967e-bd2d-4a50-ac58-d7203c2a31ae

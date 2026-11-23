@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_diag_orth_family
 -- name    : DensInertW.diag_orth_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:39:36.26921+00:00
 -- url     : https://prove2.me/theorems/35c38fc7-51fd-4d94-b4d6-823279ddd1b1

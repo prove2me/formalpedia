@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_finrank_valPerp
 -- name    : DensInertW.finrank_valPerp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:39:05.553807+00:00
 -- url     : https://prove2.me/theorems/be8828e9-1e7d-46b9-808a-67287e3e5014

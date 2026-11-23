@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_cg_gram
 -- name    : DensInertW.cg_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:39:11.954899+00:00
 -- url     : https://prove2.me/theorems/6db337ec-26bc-4fc8-8f9e-8ad0c0147d57

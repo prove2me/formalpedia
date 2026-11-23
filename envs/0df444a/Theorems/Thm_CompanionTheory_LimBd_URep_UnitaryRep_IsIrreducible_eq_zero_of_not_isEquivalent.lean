@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_IsIrreducible_eq_zero_of_not_isEquivalent
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.IsIrreducible.eq_zero_of_not_isEquivalent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:31:46.856898+00:00
 -- url     : https://prove2.me/theorems/2e01be44-243d-44a7-94f2-2c8720581977

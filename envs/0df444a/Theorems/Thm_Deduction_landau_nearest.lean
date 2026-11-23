@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_landau_nearest
 -- name    : Deduction.landau_nearest
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:35:22.901127+00:00
 -- url     : https://prove2.me/theorems/ee6354c7-595c-469b-aa3b-76adb0c90ed1

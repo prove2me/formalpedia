@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_ar_valZ_zero
 -- name    : DensInertW.ar_valZ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:55.437736+00:00
 -- url     : https://prove2.me/theorems/1f83f370-57c5-487a-be5b-2d7a96b39f6d

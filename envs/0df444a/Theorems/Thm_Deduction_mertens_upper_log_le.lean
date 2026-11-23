@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_mertens_upper_log_le
 -- name    : Deduction.mertens_upper_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:23.156506+00:00
 -- url     : https://prove2.me/theorems/921280e6-e692-4d66-b444-ac5af338c06d

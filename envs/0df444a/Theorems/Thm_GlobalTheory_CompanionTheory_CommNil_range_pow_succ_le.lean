@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommNil_range_pow_succ_le
 -- name    : GlobalTheory.CompanionTheory.CommNil.range_pow_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:22.491213+00:00
 -- url     : https://prove2.me/theorems/69e18780-8539-40ab-8376-cc1bc64c06ca

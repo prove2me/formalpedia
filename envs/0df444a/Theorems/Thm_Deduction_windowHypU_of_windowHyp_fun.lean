@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_windowHypU_of_windowHyp_fun
 -- name    : Deduction.windowHypU_of_windowHyp_fun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:37.594751+00:00
 -- url     : https://prove2.me/theorems/dd5dee6c-9347-4268-9c6d-7ce14ecbb9aa

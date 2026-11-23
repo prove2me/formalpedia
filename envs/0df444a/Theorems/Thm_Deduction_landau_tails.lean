@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_landau_tails
 -- name    : Deduction.landau_tails
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:35:26.59879+00:00
 -- url     : https://prove2.me/theorems/2c146cc0-4090-40f3-a785-e62af065dbde

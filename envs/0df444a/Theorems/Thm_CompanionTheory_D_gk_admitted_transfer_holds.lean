@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_transfer_holds
 -- name    : CompanionTheory.D.gk.admitted.transfer_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:51:43.24186+00:00
 -- url     : https://prove2.me/theorems/8b232984-d991-4bad-b412-9a90b9e49118

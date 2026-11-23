@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_IsIrreducible_exists_eq_smul_one
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.IsIrreducible.exists_eq_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:49.458126+00:00
 -- url     : https://prove2.me/theorems/bdaca830-2445-4900-92e0-2ac0134779b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_isotypicPart_le
 -- name    : Formalism.REAL.isotypicPart_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:14.101096+00:00
 -- url     : https://prove2.me/theorems/efc75c41-3a9e-4e4d-88e8-2bfae24d708a

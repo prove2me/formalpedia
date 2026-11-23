@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_Gard_exists_bump
 -- name    : CompanionTheory.D.gk.admitted.Gard.exists_bump
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:50:58.076791+00:00
 -- url     : https://prove2.me/theorems/872bed8b-916e-437f-9698-b93c4e15e624

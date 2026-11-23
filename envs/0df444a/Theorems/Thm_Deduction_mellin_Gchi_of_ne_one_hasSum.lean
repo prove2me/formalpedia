@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_mellin_Gchi_of_ne_one_hasSum
 -- name    : Deduction.mellin_Gchi_of_ne_one_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:35:59.99315+00:00
 -- url     : https://prove2.me/theorems/00befa2d-9f71-4107-b066-0bb5ad5605cb

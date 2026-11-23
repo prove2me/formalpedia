@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_frob_algebraMap
 -- name    : DensInertW.frob_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:51.737114+00:00
 -- url     : https://prove2.me/theorems/4191c1ec-d92a-41db-b2b4-f6b6e642eadb

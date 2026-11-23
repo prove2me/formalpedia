@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_windowHyp_of_rpow
 -- name    : Deduction.windowHyp_of_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:33.447997+00:00
 -- url     : https://prove2.me/theorems/60a2d240-9d10-4a41-b811-91acbafd642c

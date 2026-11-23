@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_beta_sq
 -- name    : CompanionTheory.D.LK.beta_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:17.359776+00:00
 -- url     : https://prove2.me/theorems/33d2027e-d4d9-4b45-b668-2ab5f6d9cc98

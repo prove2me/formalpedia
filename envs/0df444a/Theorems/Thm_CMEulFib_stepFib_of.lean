@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMEulFib_stepFib_of
 -- name    : CMEulFib.stepFib_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:50.918405+00:00
 -- url     : https://prove2.me/theorems/c2185712-b10a-4411-9193-fe90cabbaa24

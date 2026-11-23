@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_FinOfPIAux_schur
 -- name    : CompanionTheory.D.gk.admitted.FinOfPIAux.schur
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:50:57.215088+00:00
 -- url     : https://prove2.me/theorems/42bf5a3c-b478-483f-93d6-23e7d4e780bc

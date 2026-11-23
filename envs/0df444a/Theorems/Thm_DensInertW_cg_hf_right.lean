@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_cg_hf_right
 -- name    : DensInertW.cg_hf_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:36.119811+00:00
 -- url     : https://prove2.me/theorems/8b434760-687d-466f-9eb5-39d3f5af4e76

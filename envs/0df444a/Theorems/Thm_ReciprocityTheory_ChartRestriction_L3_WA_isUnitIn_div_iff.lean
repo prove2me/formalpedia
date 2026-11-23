@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_isUnitIn_div_iff
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.isUnitIn_div_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:40:22.244011+00:00
 -- url     : https://prove2.me/theorems/295251e1-c28a-4f81-b07c-4c88ef94c549

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_exists_pairing_op
 -- name    : CompanionTheory.LimBd.URep.exists_pairing_op
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:56:50.879011+00:00
 -- url     : https://prove2.me/theorems/ffce9a5d-8eae-4a47-b259-070e29637c40

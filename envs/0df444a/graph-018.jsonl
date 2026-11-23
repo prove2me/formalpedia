@@ -20110,8 +20110,8 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalNativeRequesterCoverage.complete", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalNativeRequesterCoverage.complete", "child": "Submission_ThreeSum_LightTernaryRequesterMatrix", "via": ["solution", "statement"]}
 {"parent": "BoundEntGauss_opS", "child": "QAlgorithms_Papers_Independent_Frontier30_P08", "via": ["statement"]}
-{"parent": "MultiStageAlloc.theorem_1", "child": "MultiStageAlloc_Run", "via": ["statement"]}
-{"parent": "MultiStageAlloc.theorem_1", "child": "MultiStageAlloc_OfflineLP", "via": ["statement"]}
+{"parent": "MultiStageAlloc.theorem_1", "child": "MultiStageAlloc_Run", "via": ["solution", "statement"]}
+{"parent": "MultiStageAlloc.theorem_1", "child": "MultiStageAlloc_OfflineLP", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.ptnFacts", "child": "GeneralPieces_Ring_Basic", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.ptnFacts", "child": "ClauseBound_Part_Rec", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.ptnFacts", "child": "GeneralPieces_Ring_Bridge", "via": ["solution", "statement"]}

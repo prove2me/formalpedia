@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_CharacterBalanceMoves_sum_A
 -- name    : Deduction.CharacterBalanceMoves.sum_A
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:35.167769+00:00
 -- url     : https://prove2.me/theorems/036fa616-17ec-4e71-a9e5-6c476697a719

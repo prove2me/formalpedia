@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_PlacePermOperatorBicommutantSpan_sb_level
 -- name    : CompanionTheory.PlacePermOperatorBicommutantSpan.sb_level
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:59:30.458401+00:00
 -- url     : https://prove2.me/theorems/575a9c23-1942-4a4e-949d-09c20190f73d

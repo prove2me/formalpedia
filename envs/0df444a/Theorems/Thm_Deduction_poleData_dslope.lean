@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_poleData_dslope
 -- name    : Deduction.poleData_dslope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:47.699798+00:00
 -- url     : https://prove2.me/theorems/ea45bed7-1817-47f8-a18d-a907e2b6ced5

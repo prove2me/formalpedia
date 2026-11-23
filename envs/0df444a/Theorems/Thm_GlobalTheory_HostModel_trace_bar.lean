@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_trace_bar
 -- name    : GlobalTheory.HostModel.trace_bar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:42.598798+00:00
 -- url     : https://prove2.me/theorems/4f50369b-fe77-4f8a-bffb-9182ae17df78

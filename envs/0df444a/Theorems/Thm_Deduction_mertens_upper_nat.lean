@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_mertens_upper_nat
 -- name    : Deduction.mertens_upper_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:56.685706+00:00
 -- url     : https://prove2.me/theorems/ad851f29-3d21-4043-9956-a24be6c96e41

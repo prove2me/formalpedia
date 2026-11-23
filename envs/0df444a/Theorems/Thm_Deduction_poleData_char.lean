@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_poleData_char
 -- name    : Deduction.poleData_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:49.027809+00:00
 -- url     : https://prove2.me/theorems/eae6523d-6607-48c2-bc51-081ab6930b6c

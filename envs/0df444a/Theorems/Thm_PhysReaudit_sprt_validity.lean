@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhysReaudit_sprt_validity
 -- name    : PhysReaudit.sprt_validity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:35.361459+00:00
 -- url     : https://prove2.me/theorems/fbc5e651-5afe-414f-a35a-73e86fedda9b

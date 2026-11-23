@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMEulFib_fibreShape_of
 -- name    : CMEulFib.fibreShape_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:30.565566+00:00
 -- url     : https://prove2.me/theorems/a51574c7-c88a-43d7-8825-31ba133949df

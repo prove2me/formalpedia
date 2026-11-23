@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HostModel_trForm_apply__9487e7fac180
 -- name    : P2M_GlobalTheory_HostModel_trForm_apply__9487e7fac180
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:34.390801+00:00
 -- url     : https://prove2.me/theorems/b3f1d090-b127-465b-8ec9-c4b808009161

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_Sub_hf_eq_zero_of_diag
 -- name    : DensInertW.Sub.hf_eq_zero_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:55.017419+00:00
 -- url     : https://prove2.me/theorems/cb4432c7-d497-485a-8a1a-881601be3b48

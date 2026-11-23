@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_admissible_of_finite_rank
 -- name    : CompanionTheory.D.gk.admitted.admissible_of_finite_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:51:12.450722+00:00
 -- url     : https://prove2.me/theorems/9964d4be-83b6-4c1a-8b95-c480adb6348d

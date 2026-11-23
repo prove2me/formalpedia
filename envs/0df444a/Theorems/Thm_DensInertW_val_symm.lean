@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_val_symm
 -- name    : DensInertW.val_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:21:08.890457+00:00
 -- url     : https://prove2.me/theorems/6678dbab-3537-466f-b77a-62e00834ad3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_Sub_nondeg_perp_aniso
 -- name    : DensInertW.Sub.nondeg_perp_aniso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:06.025715+00:00
 -- url     : https://prove2.me/theorems/8c56e610-b17b-416a-b956-01dd55ff5a2f

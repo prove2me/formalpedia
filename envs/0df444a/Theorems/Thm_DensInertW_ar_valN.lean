@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_ar_valN
 -- name    : DensInertW.ar_valN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:25.747797+00:00
 -- url     : https://prove2.me/theorems/855330da-9a11-4d70-b658-3b40b0d54be5

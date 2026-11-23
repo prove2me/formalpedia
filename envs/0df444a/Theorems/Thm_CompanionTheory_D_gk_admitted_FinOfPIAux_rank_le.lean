@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_FinOfPIAux_rank_le
 -- name    : CompanionTheory.D.gk.admitted.FinOfPIAux.rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:30:19.591121+00:00
 -- url     : https://prove2.me/theorems/fbcd4823-907f-411a-adf6-97f50f32b715

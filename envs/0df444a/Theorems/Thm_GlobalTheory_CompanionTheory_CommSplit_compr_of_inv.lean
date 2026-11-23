@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommSplit_compr_of_inv
 -- name    : GlobalTheory.CompanionTheory.CommSplit.compr_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:22.125275+00:00
 -- url     : https://prove2.me/theorems/b4d2bdbc-010b-4eb0-aaa7-0d6121248750

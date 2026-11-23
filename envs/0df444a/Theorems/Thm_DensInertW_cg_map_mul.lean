@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_cg_map_mul
 -- name    : DensInertW.cg_map_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:39:09.77719+00:00
 -- url     : https://prove2.me/theorems/d47275f4-45f1-469d-ab7b-089b2a8069eb

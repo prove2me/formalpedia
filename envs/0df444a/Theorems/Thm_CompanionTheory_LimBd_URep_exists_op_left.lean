@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_exists_op_left
 -- name    : CompanionTheory.LimBd.URep.exists_op_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:56:34.523253+00:00
 -- url     : https://prove2.me/theorems/ac4f6be6-9fe8-4c4d-9806-ea3096851ee1

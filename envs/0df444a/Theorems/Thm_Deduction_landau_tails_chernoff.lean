@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_landau_tails_chernoff
 -- name    : Deduction.landau_tails_chernoff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:35:07.562665+00:00
 -- url     : https://prove2.me/theorems/a4daf588-ee09-4ba4-8c7b-ed9ad8bc6ba4

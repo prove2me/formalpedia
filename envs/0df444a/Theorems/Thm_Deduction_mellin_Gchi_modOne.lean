@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_mellin_Gchi_modOne
 -- name    : Deduction.mellin_Gchi_modOne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:35:20.292614+00:00
 -- url     : https://prove2.me/theorems/0a47c348-ac1a-4760-b716-4a8c018d5620

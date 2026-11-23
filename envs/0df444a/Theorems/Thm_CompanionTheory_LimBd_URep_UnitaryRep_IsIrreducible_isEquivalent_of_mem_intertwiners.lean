@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_IsIrreducible_isEquivalent_of_mem_intertwiners
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.IsIrreducible.isEquivalent_of_mem_intertwiners
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:50:55.991786+00:00
 -- url     : https://prove2.me/theorems/63a46051-c7ba-49d9-891d-c27762bee00b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_inner_eq_sum_firstPositionSlice
 -- name    : Formalism.REAL.inner_eq_sum_firstPositionSlice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:14.623858+00:00
 -- url     : https://prove2.me/theorems/841db835-1dfc-43ae-9098-a49cdc2dd839

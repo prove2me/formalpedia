@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_densExactInert_of
 -- name    : DensInertW.densExactInert_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:39:04.734419+00:00
 -- url     : https://prove2.me/theorems/8bd98901-4f9f-47a9-8e77-aa3040eb5acb

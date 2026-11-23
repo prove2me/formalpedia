@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_Sub_sig_apply
 -- name    : DensInertW.Sub.sig_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:02.734823+00:00
 -- url     : https://prove2.me/theorems/60d2b193-7c91-4936-80f3-2de59a6bf81f

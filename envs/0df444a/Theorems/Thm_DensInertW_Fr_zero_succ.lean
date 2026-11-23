@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_Fr_zero_succ
 -- name    : DensInertW.Fr_zero_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:36.406665+00:00
 -- url     : https://prove2.me/theorems/823099c3-0a2b-43eb-99b0-8fdfd8a1fbda

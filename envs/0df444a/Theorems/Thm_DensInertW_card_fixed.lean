@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_card_fixed
 -- name    : DensInertW.card_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:39:23.043178+00:00
 -- url     : https://prove2.me/theorems/6aad0215-e60b-428a-9b8c-921b45858a5f

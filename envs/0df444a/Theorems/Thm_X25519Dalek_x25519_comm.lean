@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_x25519_comm
 -- name    : X25519Dalek.x25519_comm
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T22:41:44.182805+00:00
 -- url     : https://prove2.me/theorems/df942ffe-3713-4ca6-9786-b9ed680c0fb7

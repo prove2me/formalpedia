@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_mellin_Gchi_of_ne_one_int
 -- name    : Deduction.mellin_Gchi_of_ne_one_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:18.434319+00:00
 -- url     : https://prove2.me/theorems/afa88b54-1e95-4974-b426-e0617a223590

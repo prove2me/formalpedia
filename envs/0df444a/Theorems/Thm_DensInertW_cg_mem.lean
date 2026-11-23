@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_cg_mem
 -- name    : DensInertW.cg_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:38:50.305947+00:00
 -- url     : https://prove2.me/theorems/2f40c98b-b775-4166-91d4-46603659b8fd

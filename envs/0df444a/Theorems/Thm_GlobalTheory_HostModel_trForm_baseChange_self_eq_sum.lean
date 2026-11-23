@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_trForm_baseChange_self_eq_sum
 -- name    : GlobalTheory.HostModel.trForm_baseChange_self_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:08.8469+00:00
 -- url     : https://prove2.me/theorems/c7536174-b9e0-42c5-b9f8-2b7b2b1411af
