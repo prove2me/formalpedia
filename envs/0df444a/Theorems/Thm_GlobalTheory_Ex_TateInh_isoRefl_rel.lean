@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_TateInh_isoRefl_rel
 -- name    : GlobalTheory.Ex.TateInh.isoRefl_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:45:58.585392+00:00
 -- url     : https://prove2.me/theorems/486ea224-f6df-4a86-a652-34b6466d77ac

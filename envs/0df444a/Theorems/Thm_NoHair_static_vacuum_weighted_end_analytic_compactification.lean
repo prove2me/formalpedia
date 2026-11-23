@@ -9,7 +9,7 @@
 -- statement:
 --   For a smooth static vacuum end with positive monopole, weighted H³ falloff at weight −1/2 suffices to find common analytic coordinates for the compactified metric ((1−N)/2)⁴ h and the squared lapse ratio. This is the exterior elliptic regularity assertion in the Kennefick–Ó Murchadha, Beig–Simon and Friedrich formulations. No horizon or prescribed radial gauge is assumed.
 -- source:
---   D. Kennefick and N. Ó Murchadha, Weakly decaying asymptotically flat static and stationary solutions to the Einstein equations, §III, Definition 2 and (3.4), https://arxiv.org/abs/gr-qc/9311012. R. Beig and W. Simon, https://doi.org/10.1007/BF01941970. H. Friedrich, Conformal classes of asymptotically flat, static vacuum data, (1.4)–(1.6) and (2.1)–(2.6), https://doi.org/10.1088/0264-9381/25/6/065012.
+--   D. Kennefick and N. Ó Murchadha, Weakly decaying asymptotically flat static and stationary solutions to the Einstein equations, §III, Definition 2 and (3.4), https://arxiv.org/abs/gr-qc/9311012. R. Beig and W. Simon, https://doi.org/10.1007/BF01941970. H. Friedrich, Conformal classes of asymptotically flat, static vacuum data, (1.4)–(1.6) and (2.1)–(2.6), https://doi.org/10.1088/0264-9381/25/6/065012. The weighted norm estimates and the normalized Einstein–scalar equations are verified on Prove2Me. [Weighted norm estimates](https://prove2.me/theorems/09b32f1b-ecac-4175-8a32-8d29f3123fde) · [Normalized equations](https://prove2.me/theorems/b84da6eb-e56a-4d8e-9545-dbf20e1eabbc).
 
 import Definitions.Def_NoHair_staticReflectionAndCap
 import Definitions.Def_NoHair_staticInvertedEndMetric

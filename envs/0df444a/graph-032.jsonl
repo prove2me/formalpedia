@@ -38169,7 +38169,7 @@
 {"parent": "StableMSR_TightBlockSearch", "child": "Mazoit2013_PartialDecompositions", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_b24_original_compact_preleft_C2_physical_mesh_expected_L1_remainder_vanish", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_b24_original_compact_preleft_C2_physical_mesh_expected_L1_remainder_vanish", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "StableMSR.Recovery.Supplement.randomized_recovery", "child": "StableMSR_Recovery_Supplement_RandomExecution", "via": ["statement"]}
+{"parent": "StableMSR.Recovery.Supplement.randomized_recovery", "child": "StableMSR_Recovery_Supplement_RandomExecution", "via": ["solution", "statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_VerifierEncoding", "child": "QMAPerfectCompleteness_Main_Classes", "via": ["statement"]}
 {"parent": "RPLib_S3_X1Count", "child": "RPLib_S3_X1CountC", "via": ["statement"]}
 {"parent": "RPLib_S3_X1Count", "child": "RPLib_S3_X1CountA", "via": ["statement"]}

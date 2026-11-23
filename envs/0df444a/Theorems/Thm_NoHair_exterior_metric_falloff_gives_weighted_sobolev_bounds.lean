@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_exterior_metric_falloff_gives_weighted_sobolev_bounds
 -- name    : NoHair.exterior_metric_falloff_gives_weighted_sobolev_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T12:46:42.943911+00:00
 -- url     : https://prove2.me/theorems/09b32f1b-ecac-4175-8a32-8d29f3123fde

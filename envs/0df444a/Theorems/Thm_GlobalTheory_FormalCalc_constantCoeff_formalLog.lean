@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_constantCoeff_formalLog
 -- name    : GlobalTheory.FormalCalc.constantCoeff_formalLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:29.991582+00:00
 -- url     : https://prove2.me/theorems/f0d3e00a-ca27-42fa-98c2-b20fa5284cd1

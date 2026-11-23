@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodicWeierstrass_exists_eq_of_sq_mul_tendsto
 -- name    : GlobalTheory.PeriodicWeierstrass.exists_eq_of_sq_mul_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:43:51.452555+00:00
 -- url     : https://prove2.me/theorems/09302199-887a-49bf-98e3-f86bc65bdd68

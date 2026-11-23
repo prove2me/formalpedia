@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_setBlock_of_not
 -- name    : GlobalTheory.UnipotentInvariant.setBlock_of_not
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:52.672594+00:00
 -- url     : https://prove2.me/theorems/3230e861-9481-445a-bf2c-c19e60fe968b

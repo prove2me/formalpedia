@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ordTop_vw_of_ne_zero
 -- name    : GlobalTheory.ordTop_vw_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:46.408712+00:00
 -- url     : https://prove2.me/theorems/debd2bf9-7412-4762-a58e-f8043e97f325

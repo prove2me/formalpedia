@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_RootNear_unit_of_integral
 -- name    : GlobalTheory.AdLat.RootNear.unit_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:08.411526+00:00
 -- url     : https://prove2.me/theorems/ca5fe9e1-4ca9-496f-a7f7-a079a0f77922

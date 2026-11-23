@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActionGauge_ad_const
 -- name    : GlobalTheory.ActionGauge.ad_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:49:00.187773+00:00
 -- url     : https://prove2.me/theorems/ff5b92d5-d006-4014-81cb-680305bfd193

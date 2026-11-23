@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_cSep_spec
 -- name    : GlobalTheory.LevelPairing.cSep_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:28.675669+00:00
 -- url     : https://prove2.me/theorems/dc3d7dce-e518-45bc-881d-fcec837fc933

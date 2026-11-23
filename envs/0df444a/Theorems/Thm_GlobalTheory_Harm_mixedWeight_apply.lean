@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Harm_mixedWeight_apply
 -- name    : GlobalTheory.Harm.mixedWeight_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:43.712546+00:00
 -- url     : https://prove2.me/theorems/0f594588-820e-4395-a56a-ca5b0a1eeb45

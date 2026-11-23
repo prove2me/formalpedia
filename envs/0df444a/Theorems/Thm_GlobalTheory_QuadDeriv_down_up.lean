@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_down_up
 -- name    : GlobalTheory.QuadDeriv.down_up
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:16.198573+00:00
 -- url     : https://prove2.me/theorems/35be44ce-eb4f-4d51-bfdd-028aa1b1cc3a

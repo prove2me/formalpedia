@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_r_right
 -- name    : GlobalTheory.MatchTerm.r_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:34.495471+00:00
 -- url     : https://prove2.me/theorems/ca02b7ac-4985-4a01-8847-334d186032e0

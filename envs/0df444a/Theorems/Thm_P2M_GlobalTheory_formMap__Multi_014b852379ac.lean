@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_formMap__Multi_014b852379ac
 -- name    : P2M_GlobalTheory_formMap__Multi_014b852379ac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:30.304907+00:00
 -- url     : https://prove2.me/theorems/4a370c2a-057c-4b18-a00c-2e507de3e56c

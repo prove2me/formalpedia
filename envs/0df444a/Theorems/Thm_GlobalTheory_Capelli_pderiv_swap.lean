@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Capelli_pderiv_swap
 -- name    : GlobalTheory.Capelli.pderiv_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:49:58.687393+00:00
 -- url     : https://prove2.me/theorems/5e5ac298-75e5-40ae-8b0e-1afecc2da56d

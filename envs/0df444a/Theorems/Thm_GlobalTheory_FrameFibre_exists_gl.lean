@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameFibre_exists_gl
 -- name    : GlobalTheory.FrameFibre.exists_gl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:32.186836+00:00
 -- url     : https://prove2.me/theorems/0a6dd80c-62ad-4b08-a7dd-6e4a5cd7e666

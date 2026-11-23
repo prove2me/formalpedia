@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_WpPairing_wp_qTriv
 -- name    : GlobalTheory.Ex.WpPairing.wp_qTriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:44:09.26138+00:00
 -- url     : https://prove2.me/theorems/286cd2c5-b141-42ac-9836-c6ec4d01c4f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_compoundPoissonFirstTwoInterarrivalsMarkIndepEvent
 -- name    : Kyprianou.Ch01.compoundPoissonFirstTwoInterarrivalsMarkIndepEvent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:48:48.880005+00:00
 -- url     : https://prove2.me/theorems/32437b82-4dea-4ec2-a96d-ebb4ee3724cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fracKaehlerBasis_apply
 -- name    : GlobalTheory.fracKaehlerBasis_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:38.632604+00:00
 -- url     : https://prove2.me/theorems/122035d1-ab60-43fa-a59e-caccf5913d65

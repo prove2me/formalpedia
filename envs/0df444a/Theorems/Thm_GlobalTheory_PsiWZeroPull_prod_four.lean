@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiWZeroPull_prod_four
 -- name    : GlobalTheory.PsiWZeroPull.prod_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:19.95738+00:00
 -- url     : https://prove2.me/theorems/a1634dc8-0d5b-484c-bd1f-815e6759cfa3

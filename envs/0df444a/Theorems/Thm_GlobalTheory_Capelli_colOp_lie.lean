@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Capelli_colOp_lie
 -- name    : GlobalTheory.Capelli.colOp_lie
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:50:03.624612+00:00
 -- url     : https://prove2.me/theorems/035b65c4-044b-4f9e-ab9b-c1d4db198cff

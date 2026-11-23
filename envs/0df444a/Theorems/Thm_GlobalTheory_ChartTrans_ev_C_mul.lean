@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartTrans_ev_C_mul
 -- name    : GlobalTheory.ChartTrans.ev_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:45:35.263301+00:00
 -- url     : https://prove2.me/theorems/8c38ca31-fc35-4da5-996b-a9b01e2bdf88

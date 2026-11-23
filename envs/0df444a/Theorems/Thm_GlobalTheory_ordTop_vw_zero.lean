@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ordTop_vw_zero
 -- name    : GlobalTheory.ordTop_vw_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:33.035687+00:00
 -- url     : https://prove2.me/theorems/7f357502-5aea-4c8e-aa1f-32f2bffb4cc1

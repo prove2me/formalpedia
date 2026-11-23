@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermFun_exists_chart
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermFun.exists_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:49:14.248738+00:00
 -- url     : https://prove2.me/theorems/378c3321-13b6-476b-bdd1-1999e2a00837

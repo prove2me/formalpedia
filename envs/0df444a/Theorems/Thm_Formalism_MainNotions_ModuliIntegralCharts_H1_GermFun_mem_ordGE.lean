@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermFun_mem_ordGE
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermFun.mem_ordGE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:36.562012+00:00
 -- url     : https://prove2.me/theorems/511755de-baee-4c74-9ae0-abebfa69f7e7

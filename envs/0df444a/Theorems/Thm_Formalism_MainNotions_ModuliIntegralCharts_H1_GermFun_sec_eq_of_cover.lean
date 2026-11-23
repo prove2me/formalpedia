@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermFun_sec_eq_of_cover
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermFun.sec_eq_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:21.153327+00:00
 -- url     : https://prove2.me/theorems/2da278da-fa40-40c0-9962-c671cb2c6cad

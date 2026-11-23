@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Hom_mulq_eq
 -- name    : GlobalTheory.Ex.NumD.Hom.mulq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:06.167128+00:00
 -- url     : https://prove2.me/theorems/6aedc810-92e6-44ba-a5bb-a2f29e19fde9

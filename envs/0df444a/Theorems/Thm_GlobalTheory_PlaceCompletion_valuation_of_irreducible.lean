@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceCompletion_valuation_of_irreducible
 -- name    : GlobalTheory.PlaceCompletion.valuation_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:43:58.189261+00:00
 -- url     : https://prove2.me/theorems/ccb4106d-39e1-4d3c-b401-e28ebda8c697

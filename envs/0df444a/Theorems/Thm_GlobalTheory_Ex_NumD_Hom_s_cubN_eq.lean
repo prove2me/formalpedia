@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Hom_s_cubN_eq
 -- name    : GlobalTheory.Ex.NumD.Hom.s_cubN_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:13.562717+00:00
 -- url     : https://prove2.me/theorems/2ef1178b-64bd-4c7d-bb58-1cfb86c477ac

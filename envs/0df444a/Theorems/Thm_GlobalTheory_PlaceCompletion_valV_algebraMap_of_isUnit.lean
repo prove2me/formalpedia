@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceCompletion_valV_algebraMap_of_isUnit
 -- name    : GlobalTheory.PlaceCompletion.valV_algebraMap_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:43:54.147331+00:00
 -- url     : https://prove2.me/theorems/58868a63-26f5-42d7-a753-3e0047a32915

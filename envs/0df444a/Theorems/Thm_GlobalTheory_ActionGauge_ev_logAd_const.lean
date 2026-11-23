@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActionGauge_ev_logAd_const
 -- name    : GlobalTheory.ActionGauge.ev_logAd_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:49:04.133333+00:00
 -- url     : https://prove2.me/theorems/321764fe-65e8-492b-9b20-11f40bc9d4c2

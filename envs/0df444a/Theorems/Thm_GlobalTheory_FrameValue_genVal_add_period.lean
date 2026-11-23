@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_genVal_add_period
 -- name    : GlobalTheory.FrameValue.genVal_add_period
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:34:44.171526+00:00
 -- url     : https://prove2.me/theorems/3af482c5-abec-4587-9a2a-03571ec1b310

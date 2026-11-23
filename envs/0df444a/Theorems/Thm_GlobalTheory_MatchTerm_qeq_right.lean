@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_qeq_right
 -- name    : GlobalTheory.MatchTerm.qeq_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:51.575876+00:00
 -- url     : https://prove2.me/theorems/ba15dfee-f9ce-4148-9091-39cfeb6ba6b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Harm_sum_dite_lt
 -- name    : GlobalTheory.Harm.sum_dite_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:44.205574+00:00
 -- url     : https://prove2.me/theorems/08a8e3e6-7abe-42e3-9b12-d29b53ffddfe

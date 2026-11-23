@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Model_integral_iff
 -- name    : GlobalTheory.AdLat.Model.integral_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:11.792444+00:00
 -- url     : https://prove2.me/theorems/8e030d62-7f54-4160-bf10-c327b74abd10

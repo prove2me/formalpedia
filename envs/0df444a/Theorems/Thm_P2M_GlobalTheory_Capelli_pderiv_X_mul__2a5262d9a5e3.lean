@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Capelli_pderiv_X_mul__2a5262d9a5e3
 -- name    : P2M_GlobalTheory_Capelli_pderiv_X_mul__2a5262d9a5e3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:06.18519+00:00
 -- url     : https://prove2.me/theorems/e3ea7b50-6ef3-4c52-bc01-289a9185c883

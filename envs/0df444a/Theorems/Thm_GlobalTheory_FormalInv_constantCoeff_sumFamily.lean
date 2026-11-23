@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_constantCoeff_sumFamily
 -- name    : GlobalTheory.FormalInv.constantCoeff_sumFamily
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:12.686332+00:00
 -- url     : https://prove2.me/theorems/815e60df-7df0-454e-978a-4c82d60b9994

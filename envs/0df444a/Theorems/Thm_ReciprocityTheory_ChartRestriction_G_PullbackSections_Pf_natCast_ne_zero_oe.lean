@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_natCast_ne_zero_oe
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.natCast_ne_zero_oe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:09.45045+00:00
 -- url     : https://prove2.me/theorems/8ad2ea11-14d9-4e63-b6f6-7ab5a4d73779

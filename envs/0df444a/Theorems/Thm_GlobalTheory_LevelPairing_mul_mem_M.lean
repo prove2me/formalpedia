@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_mul_mem_M
 -- name    : GlobalTheory.LevelPairing.mul_mem_M
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:21.529846+00:00
 -- url     : https://prove2.me/theorems/da10cf85-a1c4-4482-8146-c85bb099932e

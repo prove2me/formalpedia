@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Capelli_polar_apply
 -- name    : GlobalTheory.Capelli.polar_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:31.652478+00:00
 -- url     : https://prove2.me/theorems/6cf31818-422f-45a3-a369-0c7ea70e54b3

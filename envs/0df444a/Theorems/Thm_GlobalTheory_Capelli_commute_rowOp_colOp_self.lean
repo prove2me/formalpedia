@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Capelli_commute_rowOp_colOp_self
 -- name    : GlobalTheory.Capelli.commute_rowOp_colOp_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:49:58.540161+00:00
 -- url     : https://prove2.me/theorems/c04b558e-a3a2-41a6-ad35-df533403a55d

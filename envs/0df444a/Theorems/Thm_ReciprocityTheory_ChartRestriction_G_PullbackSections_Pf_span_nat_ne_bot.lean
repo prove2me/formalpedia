@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_span_nat_ne_bot
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.span_nat_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:17.835462+00:00
 -- url     : https://prove2.me/theorems/e3ec613c-178a-4f78-976e-c96d5b1d9b08

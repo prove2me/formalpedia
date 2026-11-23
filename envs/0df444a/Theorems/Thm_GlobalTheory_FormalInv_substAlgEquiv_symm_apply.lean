@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_substAlgEquiv_symm_apply
 -- name    : GlobalTheory.FormalInv.substAlgEquiv_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:45.837314+00:00
 -- url     : https://prove2.me/theorems/e553e257-deb6-4781-b2a2-5288ec876f6b

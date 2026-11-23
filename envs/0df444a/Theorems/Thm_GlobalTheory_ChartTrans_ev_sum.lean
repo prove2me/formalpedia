@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartTrans_ev_sum
 -- name    : GlobalTheory.ChartTrans.ev_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:40:42.582946+00:00
 -- url     : https://prove2.me/theorems/4977dfd3-48ce-4b1e-859c-cc0347efe46e

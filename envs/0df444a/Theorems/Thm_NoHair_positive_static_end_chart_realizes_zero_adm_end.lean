@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_positive_static_end_chart_realizes_zero_adm_end
 -- name    : NoHair.positive_static_end_chart_realizes_zero_adm_end
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T12:48:31.391474+00:00
 -- url     : https://prove2.me/theorems/d688497b-5580-4f18-81ff-f50fc792a464

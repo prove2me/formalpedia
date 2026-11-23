@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_setBlock_apply
 -- name    : GlobalTheory.UnipotentInvariant.setBlock_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:54.092029+00:00
 -- url     : https://prove2.me/theorems/1c5ab891-4902-4a73-b019-e1eb104e8d33

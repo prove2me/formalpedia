@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_ex_add_lattice
 -- name    : GlobalTheory.KS.ex_add_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:07.227419+00:00
 -- url     : https://prove2.me/theorems/0a8155c1-c7c9-4a93-8d4f-fac23d6fbc22
