@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelSurjWork_simple_of_irr
 -- name    : PI.GreenLabelSurjWork.simple_of_irr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:10.991049+00:00
 -- url     : https://prove2.me/theorems/4bbaff83-f301-4fed-adac-c5e33a8fc0c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_term_nonneg
 -- name    : PI.GTNum.term_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:08.300715+00:00
 -- url     : https://prove2.me/theorems/3410b08a-b3d6-43ee-a6f7-bc6d02b778f4

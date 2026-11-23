@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvIdealIdxPiWork_idS_eq_map
 -- name    : PI.InvIdealIdxPiWork.idS_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:50.484468+00:00
 -- url     : https://prove2.me/theorems/490a135b-815f-4942-9eef-23ebade538bc

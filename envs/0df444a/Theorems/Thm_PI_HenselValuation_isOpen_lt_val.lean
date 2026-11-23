@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HenselValuation_isOpen_lt_val
 -- name    : PI.HenselValuation.isOpen_lt_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:19.585589+00:00
 -- url     : https://prove2.me/theorems/6186c6ef-94c3-4889-a7fc-2560f8262c8c

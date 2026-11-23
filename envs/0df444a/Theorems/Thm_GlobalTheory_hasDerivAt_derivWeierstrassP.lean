@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasDerivAt_derivWeierstrassP
 -- name    : GlobalTheory.hasDerivAt_derivWeierstrassP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:20:48.498457+00:00
 -- url     : https://prove2.me/theorems/2f215795-a8c0-41de-8cb6-e1384abace93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HermitianEmbeddingSlice_Hb_eq
 -- name    : PI.HermitianEmbeddingSlice.Hb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:30.714874+00:00
 -- url     : https://prove2.me/theorems/30e38dd4-d251-4551-bf73-81e9c6017ef9

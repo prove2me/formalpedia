@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_PairingDivisionLocalBalance_vw_natCast_nonneg
 -- name    : Formalism.PairingDivisionLocalBalance.vw_natCast_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:02.660524+00:00
 -- url     : https://prove2.me/theorems/65fd7abc-a89d-41a2-b1ab-4f4a85d96742

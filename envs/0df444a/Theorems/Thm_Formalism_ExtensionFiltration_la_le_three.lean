@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_la_le_three
 -- name    : Formalism.ExtensionFiltration.la_le_three
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:46.796019+00:00
 -- url     : https://prove2.me/theorems/3bf4344c-52cd-4ed2-93c7-6560c9b9300f

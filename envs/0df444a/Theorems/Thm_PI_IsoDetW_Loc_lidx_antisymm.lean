@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_lidx_antisymm
 -- name    : PI.IsoDetW.Loc.lidx_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:33.394206+00:00
 -- url     : https://prove2.me/theorems/056cd9d0-3599-4561-ac14-8430299b49bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_coe_le_one
 -- name    : PI.IsoDetW.Loc.coe_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:51.324621+00:00
 -- url     : https://prove2.me/theorems/91317d41-28ea-4c92-a3b2-d376957b23a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_PhGram_integral_subst__38f52d75ab58
 -- name    : P2M_PI_UnitaryGroupMassFormula_PhGram_integral_subst__38f52d75ab58
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:12:21.492545+00:00
 -- url     : https://prove2.me/theorems/0114a6cf-82ed-4f5c-897e-3975adbc8bb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_blockIndex_injective
 -- name    : PI.HwUniqW.blockIndex_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:33.307501+00:00
 -- url     : https://prove2.me/theorems/998f9c00-27cc-47a6-9e2e-970e7dc8b660

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglShared_subst_ne_zero
 -- name    : PI.FglShared.subst_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:10.408507+00:00
 -- url     : https://prove2.me/theorems/8b8f1f10-9ed2-4dd6-a120-a028a271ccda

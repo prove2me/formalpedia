@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_InverseBoundedFixedPoint_Adic_nak
 -- name    : Formalism.FourierDecayAlt.P.InverseBoundedFixedPoint.Adic.nak
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:46:56.151193+00:00
 -- url     : https://prove2.me/theorems/85111297-61ad-4c6b-819b-0e83589a8a97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_Gen_repOn_algebraMap
 -- name    : PI.QnHermHaar.Gen.repOn_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:16:35.763749+00:00
 -- url     : https://prove2.me/theorems/e9b8880e-ae14-4453-852b-7e2367348395

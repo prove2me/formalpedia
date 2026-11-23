@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_blockW_one
 -- name    : PI.HwUniqW.blockW_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:22.636117+00:00
 -- url     : https://prove2.me/theorems/c1494137-112b-4b42-88a3-6f31a87cd3b9

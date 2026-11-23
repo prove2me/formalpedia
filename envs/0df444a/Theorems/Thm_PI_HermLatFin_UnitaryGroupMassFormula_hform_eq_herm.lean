@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HermLatFin_UnitaryGroupMassFormula_hform_eq_herm
 -- name    : PI.HermLatFin.UnitaryGroupMassFormula.hform_eq_herm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:00.426895+00:00
 -- url     : https://prove2.me/theorems/93868499-7e2c-44fe-ab4c-d02f10a3a8e4

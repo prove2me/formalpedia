@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvIdealIdxPiWork_map_compLeft_pi
 -- name    : PI.InvIdealIdxPiWork.map_compLeft_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:43.582902+00:00
 -- url     : https://prove2.me/theorems/97753b4a-683b-4c48-a8d7-1c96666af27f

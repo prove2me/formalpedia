@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ReductionFirst_cO_cO
 -- name    : Formalism.DivisionValues.ReductionFirst.cO_cO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:27:45.722578+00:00
 -- url     : https://prove2.me/theorems/43810c78-8da1-4a52-91a4-f2ec0e020676

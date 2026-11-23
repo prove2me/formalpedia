@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_Gard_contDiff_mat_mul
 -- name    : PI.KFinSmoothW.Gard.contDiff_mat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:47:08.636243+00:00
 -- url     : https://prove2.me/theorems/fb935a27-cb76-44c3-849e-24465ccaf1e2

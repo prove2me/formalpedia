@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_algebraMap_mem_cI
 -- name    : PI.IsoDetW.Loc.algebraMap_mem_cI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:46.590557+00:00
 -- url     : https://prove2.me/theorems/9c5293ee-7af3-422a-9d9b-b4f6d46475ab

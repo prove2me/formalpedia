@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_polE_apply
 -- name    : PI.HookSteps.polE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:27.29555+00:00
 -- url     : https://prove2.me/theorems/643bdc56-121b-41ff-bcff-830c9a74f9ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_DiffLoc_psi_mul
 -- name    : PI.LocFramePrimWork.DiffLoc_psi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:16:06.855107+00:00
 -- url     : https://prove2.me/theorems/415a3ac0-4109-4842-b70f-edbbdd5dc22a

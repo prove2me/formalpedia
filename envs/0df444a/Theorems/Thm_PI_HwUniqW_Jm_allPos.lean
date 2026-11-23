@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_Jm_allPos
 -- name    : PI.HwUniqW.Jm_allPos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:14.487815+00:00
 -- url     : https://prove2.me/theorems/c366e016-4c32-4246-bfe2-263347218972

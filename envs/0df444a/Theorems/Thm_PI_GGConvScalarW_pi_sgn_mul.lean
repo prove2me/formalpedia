@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_pi_sgn_mul
 -- name    : PI.GGConvScalarW.pi_sgn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:50.847359+00:00
 -- url     : https://prove2.me/theorems/55ffce76-d23f-4746-ab3a-9664cd7317a1

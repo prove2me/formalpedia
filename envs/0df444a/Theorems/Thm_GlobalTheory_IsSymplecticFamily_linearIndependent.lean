@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticFamily_linearIndependent
 -- name    : GlobalTheory.IsSymplecticFamily.linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:59.891201+00:00
 -- url     : https://prove2.me/theorems/fe17343f-e9d3-44e3-bbf5-f9e3543faae1

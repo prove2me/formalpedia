@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_measure_le_of_not_prime
 -- name    : SPP.measure_le_of_not_prime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:13:19.164796+00:00
 -- url     : https://prove2.me/theorems/b0a32e8e-072c-4382-9365-5083686a0ee2

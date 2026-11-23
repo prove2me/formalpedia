@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_sg_le_first
 -- name    : PI.GTNum.sg_le_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:02.789614+00:00
 -- url     : https://prove2.me/theorems/25b9a52e-968c-4ad1-8c8d-0a77c5cedcb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasis_right_right
 -- name    : GlobalTheory.IsSymplecticBasis.right_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:58.49434+00:00
 -- url     : https://prove2.me/theorems/5cf85ff7-a5cd-4db3-a14e-ac280b7a8f63

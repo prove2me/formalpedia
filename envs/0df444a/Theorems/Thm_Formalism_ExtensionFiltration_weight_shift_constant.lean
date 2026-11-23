@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_weight_shift_constant
 -- name    : Formalism.ExtensionFiltration.weight_shift_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:59.661122+00:00
 -- url     : https://prove2.me/theorems/439952ed-bb92-4023-83a9-0b55cfdf3c9d

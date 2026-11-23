@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_lidx_eq_of_le
 -- name    : PI.IsoDetW.Loc.lidx_eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:35.313387+00:00
 -- url     : https://prove2.me/theorems/f2950445-453a-4678-84a1-147ecfb5c012

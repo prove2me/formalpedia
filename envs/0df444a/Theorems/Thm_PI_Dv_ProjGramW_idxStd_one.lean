@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_idxStd_one
 -- name    : PI.Dv.ProjGramW.idxStd_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:18:11.66584+00:00
 -- url     : https://prove2.me/theorems/cf78ee51-3808-4031-8ce7-e0173fbe2daf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_twist_of
 -- name    : Formalism.HN.twist_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:34.201553+00:00
 -- url     : https://prove2.me/theorems/e1470cab-9cb9-4bf6-bab1-b3e549e15392

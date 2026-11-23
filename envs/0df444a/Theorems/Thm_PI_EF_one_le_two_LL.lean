@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_one_le_two_LL
 -- name    : PI.EF.one_le_two_LL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:24:51.569293+00:00
 -- url     : https://prove2.me/theorems/bf418af1-527d-4b17-b0d8-27159f4fe387

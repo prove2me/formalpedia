@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_isUni_inv
 -- name    : PI.GGConvScalarW.isUni_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:17:54.076905+00:00
 -- url     : https://prove2.me/theorems/b399246b-4f44-4dc9-a18b-3ed5c6f4846c

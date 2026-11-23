@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_prod_pow_pow
 -- name    : PI.GTNum.prod_pow_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:41.426673+00:00
 -- url     : https://prove2.me/theorems/14c70998-9d90-4e94-ad71-fb37d361a415

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HenselValuation_continuous_eval
 -- name    : PI.HenselValuation.continuous_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:14.259241+00:00
 -- url     : https://prove2.me/theorems/fb2d804f-5575-4b9e-b41c-01ee09486a0d

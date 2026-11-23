@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_tendstoUniformlyOn_fderiv_ball
 -- name    : GlobalTheory.SCV.tendstoUniformlyOn_fderiv_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:48.918191+00:00
 -- url     : https://prove2.me/theorems/03067917-033b-416a-9ffb-055627a0374a

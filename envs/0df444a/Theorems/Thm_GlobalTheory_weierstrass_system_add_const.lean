@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weierstrass_system_add_const
 -- name    : GlobalTheory.weierstrass_system_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:21:25.371315+00:00
 -- url     : https://prove2.me/theorems/c444e50e-0376-4809-9533-132de6d09b13

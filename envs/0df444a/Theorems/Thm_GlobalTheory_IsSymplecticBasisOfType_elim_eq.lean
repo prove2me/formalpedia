@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasisOfType_elim_eq
 -- name    : GlobalTheory.IsSymplecticBasisOfType.elim_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:58.027857+00:00
 -- url     : https://prove2.me/theorems/7b424ab6-156c-4af1-a6a5-b878ddd5fe9b

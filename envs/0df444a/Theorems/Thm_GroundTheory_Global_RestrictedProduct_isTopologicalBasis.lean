@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_RestrictedProduct_isTopologicalBasis
 -- name    : GroundTheory.Global.RestrictedProduct.isTopologicalBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:27:14.141581+00:00
 -- url     : https://prove2.me/theorems/04451306-bd80-426d-a7d1-14336b14af70

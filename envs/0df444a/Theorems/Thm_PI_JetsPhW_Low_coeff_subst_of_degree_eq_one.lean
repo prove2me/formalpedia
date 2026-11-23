@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Low_coeff_subst_of_degree_eq_one
 -- name    : PI.JetsPhW.Low.coeff_subst_of_degree_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:40:35.319351+00:00
 -- url     : https://prove2.me/theorems/69d0fe7e-ce95-4244-a38a-432b8181b432

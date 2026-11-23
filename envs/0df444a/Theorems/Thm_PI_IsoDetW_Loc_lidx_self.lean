@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_lidx_self
 -- name    : PI.IsoDetW.Loc.lidx_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:42.038825+00:00
 -- url     : https://prove2.me/theorems/5fe7ea12-eb5b-4e95-9f9c-c878d0016584

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPtW_Wk_mulGen_thm
 -- name    : PI.FglPtW.Wk.mulGen_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:29.967707+00:00
 -- url     : https://prove2.me/theorems/aa9052ee-3cc9-465e-8b66-ee6732810f34

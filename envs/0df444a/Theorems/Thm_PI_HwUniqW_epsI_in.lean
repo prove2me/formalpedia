@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_epsI_in
 -- name    : PI.HwUniqW.epsI_in
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:45.698728+00:00
 -- url     : https://prove2.me/theorems/8adff4d2-b796-46df-864f-5bdfb6b8ed7f

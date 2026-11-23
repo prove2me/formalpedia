@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_orthogonalQuotientForm_mk
 -- name    : GlobalTheory.orthogonalQuotientForm_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:47.361676+00:00
 -- url     : https://prove2.me/theorems/52f0c3a8-72cf-4928-be2f-40c2d0346b2c

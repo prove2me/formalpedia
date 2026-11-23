@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_frameB_muMaxDef
 -- name    : Formalism.HN.frameB_muMaxDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:06.197995+00:00
 -- url     : https://prove2.me/theorems/5ba424b0-43e6-44e3-b1b2-c709545b7e51

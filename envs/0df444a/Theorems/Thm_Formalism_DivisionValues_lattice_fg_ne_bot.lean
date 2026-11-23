@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_lattice_fg_ne_bot
 -- name    : Formalism.DivisionValues.lattice_fg_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:19.42412+00:00
 -- url     : https://prove2.me/theorems/b01c946c-bd08-421d-88e7-22871eae4415

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_extRho
 -- name    : PI.GalTorsConj.W.extRho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:38.840071+00:00
 -- url     : https://prove2.me/theorems/48cd4597-2a3b-47be-97af-4191421d6062

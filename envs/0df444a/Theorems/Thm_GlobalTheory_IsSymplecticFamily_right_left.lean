@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticFamily_right_left
 -- name    : GlobalTheory.IsSymplecticFamily.right_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:54.38687+00:00
 -- url     : https://prove2.me/theorems/34618d90-1931-49a7-99e9-f470bd27902d

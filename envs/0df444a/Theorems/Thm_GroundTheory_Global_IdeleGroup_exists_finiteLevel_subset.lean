@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_exists_finiteLevel_subset
 -- name    : GroundTheory.Global.IdeleGroup.exists_finiteLevel_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:17:36.246934+00:00
 -- url     : https://prove2.me/theorems/3e5696a0-4dcc-491c-859e-ee7c0d937fc0

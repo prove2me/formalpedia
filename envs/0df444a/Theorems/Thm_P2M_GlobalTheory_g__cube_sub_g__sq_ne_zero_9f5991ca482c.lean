@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_g__cube_sub_g__sq_ne_zero_9f5991ca482c
 -- name    : P2M_GlobalTheory_g__cube_sub_g__sq_ne_zero_9f5991ca482c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:18.607286+00:00
 -- url     : https://prove2.me/theorems/f3127247-697c-4ba0-a732-36d3a01b73fe

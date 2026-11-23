@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_inj_phi
 -- name    : PI.Dv.Tr.inj_phi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:21:47.881709+00:00
 -- url     : https://prove2.me/theorems/276433de-1213-4a4a-85b5-dfdc135e0853

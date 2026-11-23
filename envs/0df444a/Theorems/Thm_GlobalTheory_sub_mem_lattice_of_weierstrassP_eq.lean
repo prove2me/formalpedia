@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sub_mem_lattice_of_weierstrassP_eq
 -- name    : GlobalTheory.sub_mem_lattice_of_weierstrassP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:21:08.999492+00:00
 -- url     : https://prove2.me/theorems/316ba5f5-43cf-45bb-978c-e6a128ba1877

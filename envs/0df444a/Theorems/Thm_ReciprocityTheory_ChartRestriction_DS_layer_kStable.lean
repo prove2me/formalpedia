@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_layer_kStable
 -- name    : ReciprocityTheory.ChartRestriction.DS.layer_kStable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:36:57.106334+00:00
 -- url     : https://prove2.me/theorems/c5858db1-054c-4e03-8399-cc86de8db651

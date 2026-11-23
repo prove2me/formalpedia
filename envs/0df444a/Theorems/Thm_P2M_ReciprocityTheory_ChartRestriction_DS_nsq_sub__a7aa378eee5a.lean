@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_nsq_sub__a7aa378eee5a
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_nsq_sub__a7aa378eee5a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:22.990403+00:00
 -- url     : https://prove2.me/theorems/8021b815-35b3-40ca-9c3b-37044ac1f22e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BhangaleHypergraph_Main_schrijver_colorable_upper
 -- name    : BhangaleHypergraph.Main.schrijver_colorable_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T08:26:46.881677+00:00
 -- url     : https://prove2.me/theorems/f5bda83e-1222-44e8-8a36-be51ed2c963d

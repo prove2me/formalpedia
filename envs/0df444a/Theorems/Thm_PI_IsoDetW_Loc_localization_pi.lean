@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_localization_pi
 -- name    : PI.IsoDetW.Loc.localization_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:51.205864+00:00
 -- url     : https://prove2.me/theorems/9c1f213f-0ed1-4fa7-b757-fd90300f7879

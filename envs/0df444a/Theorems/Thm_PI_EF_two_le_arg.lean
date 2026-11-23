@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_two_le_arg
 -- name    : PI.EF.two_le_arg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:27.062614+00:00
 -- url     : https://prove2.me/theorems/99453fc3-9252-4744-87a6-880b3b17f182

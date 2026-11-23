@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_subst_add
 -- name    : PI.FglTriFactor.Wk.subst_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:54:47.707017+00:00
 -- url     : https://prove2.me/theorems/4bd17892-5d99-4330-8f4e-85a9856d04e9

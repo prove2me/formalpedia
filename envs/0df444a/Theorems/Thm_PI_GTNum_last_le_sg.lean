@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_last_le_sg
 -- name    : PI.GTNum.last_le_sg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:47.635588+00:00
 -- url     : https://prove2.me/theorems/33930421-db86-4509-b179-d66c1da26bab

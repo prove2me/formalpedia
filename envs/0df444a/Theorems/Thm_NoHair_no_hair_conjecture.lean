@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_no_hair_conjecture
 -- name    : NoHair.no_hair_conjecture
--- status  : Open
+-- status  : Disproved
 -- author  : @LG
 -- created : 2026-10-05T02:34:27.20399+00:00
 -- url     : https://prove2.me/theorems/34a3c49b-2381-4caf-8acc-be52e7241ef2

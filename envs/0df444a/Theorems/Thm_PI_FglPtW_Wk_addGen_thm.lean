@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPtW_Wk_addGen_thm
 -- name    : PI.FglPtW.Wk.addGen_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:06.325709+00:00
 -- url     : https://prove2.me/theorems/2aa58a49-bcc2-4933-8186-945d1543ff97

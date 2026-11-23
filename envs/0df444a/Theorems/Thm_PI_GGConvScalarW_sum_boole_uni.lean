@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_sum_boole_uni
 -- name    : PI.GGConvScalarW.sum_boole_uni
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:54.106001+00:00
 -- url     : https://prove2.me/theorems/ce7b6869-a98f-46fb-988a-aed8e83ba769

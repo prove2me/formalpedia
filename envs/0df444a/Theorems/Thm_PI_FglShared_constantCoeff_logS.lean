@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglShared_constantCoeff_logS
 -- name    : PI.FglShared.constantCoeff_logS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:29.716535+00:00
 -- url     : https://prove2.me/theorems/91c92fe4-3437-44c3-8f01-43609377cf68

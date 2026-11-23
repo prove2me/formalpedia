@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_eq_of_smul_eq_of_free
 -- name    : PI.GGMatBoundW.eq_of_smul_eq_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:49.62623+00:00
 -- url     : https://prove2.me/theorems/9fcf6a81-0018-40df-a05a-e1a2fb30020a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_exists_finiteLevel_le_ker
 -- name    : GroundTheory.Global.IdeleGroup.exists_finiteLevel_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:17:46.963975+00:00
 -- url     : https://prove2.me/theorems/adabbe41-008e-48cb-a53a-0b2443b104d8

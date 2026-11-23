@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Low_coeff_subst_low
 -- name    : PI.JetsPhW.Low.coeff_subst_low
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:41:17.412297+00:00
 -- url     : https://prove2.me/theorems/5f73e22d-a491-4b57-8882-df7638947e2e

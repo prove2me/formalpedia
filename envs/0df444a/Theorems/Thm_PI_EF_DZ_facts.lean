@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_DZ_facts
 -- name    : PI.EF.DZ_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:31:41.663318+00:00
 -- url     : https://prove2.me/theorems/7a5bab73-a45e-4f14-8780-360d998f92be

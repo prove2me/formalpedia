@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_qm_mul_B
 -- name    : PI.FT.qm_mul_B
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:00.145816+00:00
 -- url     : https://prove2.me/theorems/8f586b5d-ca7e-4e33-bbb0-bef58bcb8fcc

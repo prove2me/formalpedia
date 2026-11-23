@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_blockW_conjTranspose
 -- name    : PI.HwUniqW.blockW_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:31.275185+00:00
 -- url     : https://prove2.me/theorems/1b192636-9fca-45a0-bf96-1046c661c21d

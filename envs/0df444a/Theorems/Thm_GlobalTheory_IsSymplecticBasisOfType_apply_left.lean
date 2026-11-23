@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasisOfType_apply_left
 -- name    : GlobalTheory.IsSymplecticBasisOfType.apply_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:53.882548+00:00
 -- url     : https://prove2.me/theorems/8a7f51ac-3b20-4e4e-8be1-ab046759cf88
