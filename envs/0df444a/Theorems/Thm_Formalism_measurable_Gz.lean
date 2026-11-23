@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_measurable_Gz
 -- name    : Formalism.measurable_Gz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:49.993642+00:00
 -- url     : https://prove2.me/theorems/98f52b97-d466-42a3-847d-fd83cd9fa313

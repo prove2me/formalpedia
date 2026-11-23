@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_SatP_Tmap_monomial
 -- name    : GenFrameSpan.SatP.Tmap_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:28.954186+00:00
 -- url     : https://prove2.me/theorems/88db3ef2-9935-47d7-bf33-13a13185cf40

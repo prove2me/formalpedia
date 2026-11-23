@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setIntegral_subgroup_eq_index_smul
 -- name    : GlobalTheory.setIntegral_subgroup_eq_index_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:44.765565+00:00
 -- url     : https://prove2.me/theorems/6dfbd188-e144-47a1-86e0-f3267c28001b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1alg_exp_inUJ
 -- name    : Formalism.REAL.f1alg_exp_inUJ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:42.219426+00:00
 -- url     : https://prove2.me/theorems/b0442fac-9c11-4878-a1ea-4ab64f2a817d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tail_mertens
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tail_mertens
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:21.489118+00:00
 -- url     : https://prove2.me/theorems/c218945a-d5f0-4020-b841-ec76c21c7b26

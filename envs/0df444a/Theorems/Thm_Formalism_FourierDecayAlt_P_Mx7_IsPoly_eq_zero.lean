@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_IsPoly_eq_zero
 -- name    : Formalism.FourierDecayAlt.P.Mx7.IsPoly.eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:33:27.86655+00:00
 -- url     : https://prove2.me/theorems/e9894796-87e5-4cc7-b915-def87fea2961

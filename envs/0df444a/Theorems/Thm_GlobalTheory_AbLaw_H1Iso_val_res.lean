@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_H1Iso_val_res
 -- name    : GlobalTheory.AbLaw.H1Iso.val_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:42.275695+00:00
 -- url     : https://prove2.me/theorems/195b70e9-f256-4b24-95e7-d9dd9ef05585

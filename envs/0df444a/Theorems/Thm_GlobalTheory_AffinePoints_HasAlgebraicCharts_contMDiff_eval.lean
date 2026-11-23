@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_HasAlgebraicCharts_contMDiff_eval
 -- name    : GlobalTheory.AffinePoints.HasAlgebraicCharts.contMDiff_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:38.914545+00:00
 -- url     : https://prove2.me/theorems/dc640bb1-4b05-4028-a66a-8c490d26542e

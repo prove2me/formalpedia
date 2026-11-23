@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ValuationRepresentative_conjPl_conjPl
 -- name    : Formalism.DivisionValues.ValuationRepresentative.conjPl_conjPl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:53:24.336407+00:00
 -- url     : https://prove2.me/theorems/a6ef5951-a8ba-46aa-98de-9ffe5c8207a7

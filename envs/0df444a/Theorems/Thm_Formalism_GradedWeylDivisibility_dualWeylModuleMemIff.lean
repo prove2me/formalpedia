@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylModuleMemIff
 -- name    : Formalism.GradedWeylDivisibility.dualWeylModuleMemIff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:30.337734+00:00
 -- url     : https://prove2.me/theorems/99d51e25-cc79-4cd1-b145-d171a03b8a2e

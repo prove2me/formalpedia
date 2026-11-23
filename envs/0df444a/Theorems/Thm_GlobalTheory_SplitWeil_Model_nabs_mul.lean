@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_Model_nabs_mul
 -- name    : GlobalTheory.SplitWeil.Model.nabs_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:38.962026+00:00
 -- url     : https://prove2.me/theorems/8c057cee-a04f-4a93-8c24-06c2d00ec0a3

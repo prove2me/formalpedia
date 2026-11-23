@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_adele_mul_integral
 -- name    : GlobalTheory.AdLat.adele_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:18.408986+00:00
 -- url     : https://prove2.me/theorems/7646c3d7-97ff-4fe8-9f33-c18fa3b8e2fe

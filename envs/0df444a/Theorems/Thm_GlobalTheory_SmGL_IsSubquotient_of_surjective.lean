@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IsSubquotient_of_surjective
 -- name    : GlobalTheory.SmGL.IsSubquotient.of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:00.952466+00:00
 -- url     : https://prove2.me/theorems/85545d79-c41a-40e4-8583-bce02109a8a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_finite_sum_conjugation
 -- name    : Formalism.DivisionValues.finite_sum_conjugation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:40:06.182012+00:00
 -- url     : https://prove2.me/theorems/6460695a-65c0-4726-b79d-994c594a3cdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_rint_Gz
 -- name    : Formalism.rint_Gz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:55.17285+00:00
 -- url     : https://prove2.me/theorems/dcc8ff1b-4feb-40c1-99fe-7eb0621a8cf8

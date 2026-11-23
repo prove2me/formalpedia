@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_IsUB_det_eq_one
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.IsUB.det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:12.9638+00:00
 -- url     : https://prove2.me/theorems/0a6c4c17-6860-405b-be39-7f23e45a78cd

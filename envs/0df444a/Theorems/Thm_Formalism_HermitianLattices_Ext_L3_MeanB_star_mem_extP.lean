@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanB_star_mem_extP
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanB.star_mem_extP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:13:28.257449+00:00
 -- url     : https://prove2.me/theorems/ee924fde-dc01-424d-8705-12bcdc1597e1

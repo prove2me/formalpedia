@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.schwarzschild_of_positive_harmonic_double
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T07:02:35.966454+00:00
 -- url     : https://prove2.me/submissions/1eb0abae-28f6-4291-887b-185ed66b2b30
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_positive_punctured_harmonic_monopole
 import Theorems.Thm_NoHair_schwarzschild_isotropic_exterior_change

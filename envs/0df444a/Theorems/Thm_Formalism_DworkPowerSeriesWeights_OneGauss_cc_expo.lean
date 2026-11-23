@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_OneGauss_cc_expo
 -- name    : Formalism.DworkPowerSeriesWeights.OneGauss.cc_expo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:56:15.2601+00:00
 -- url     : https://prove2.me/theorems/a9c21d9b-0c79-450f-a4bb-6d2d69832da2

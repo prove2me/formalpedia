@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryFrames_quotient_unitary
 -- name    : GlobalTheory.UnitaryFrames.quotient_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:03:24.639022+00:00
 -- url     : https://prove2.me/theorems/f422ce43-19ad-4336-b15d-8e23995b72e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_val_aOf
 -- name    : GlobalTheory.Doubling.val_aOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:39.739894+00:00
 -- url     : https://prove2.me/theorems/2ef6a49f-7bc4-4b59-98b5-b228114c7207

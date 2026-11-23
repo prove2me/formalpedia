@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_measurableConstSMul_of_surjective
 -- name    : GlobalTheory.measurableConstSMul_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:31.34119+00:00
 -- url     : https://prove2.me/theorems/7888acb9-86fb-44f8-8fd6-c892f2d16107

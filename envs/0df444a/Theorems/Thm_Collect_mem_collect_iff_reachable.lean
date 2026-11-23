@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Collect_mem_collect_iff_reachable
 -- name    : Collect.mem_collect_iff_reachable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:06:03.364599+00:00
 -- url     : https://prove2.me/theorems/870de666-1589-4f26-9e0c-6c208b9486d6

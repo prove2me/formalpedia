@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_npow_mul
 -- name    : GlobalTheory.Doubling.npow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:42.017661+00:00
 -- url     : https://prove2.me/theorems/1c8f88b7-6645-47cb-b38f-e87753a96690

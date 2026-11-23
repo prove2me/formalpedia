@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_Iso_mul
 -- name    : GlobalTheory.ClassParam.Iso.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:29.820688+00:00
 -- url     : https://prove2.me/theorems/5bf1e87c-78d3-42e6-bc89-c17be1b05f94

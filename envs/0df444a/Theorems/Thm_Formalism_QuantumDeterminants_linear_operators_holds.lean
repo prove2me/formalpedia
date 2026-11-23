@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_linear_operators_holds
 -- name    : Formalism.QuantumDeterminants.linear_operators_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:00.512845+00:00
 -- url     : https://prove2.me/theorems/dda9a06f-64c3-423f-96e5-3368be1b891d

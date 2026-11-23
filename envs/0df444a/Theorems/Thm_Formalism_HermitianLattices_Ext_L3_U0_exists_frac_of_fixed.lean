@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_frac_of_fixed
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_frac_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:28.929798+00:00
 -- url     : https://prove2.me/theorems/253179a5-c6b0-4d45-97ef-cec543523068

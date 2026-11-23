@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryFrames_continuous_toGL
 -- name    : GlobalTheory.UnitaryFrames.continuous_toGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:02.209033+00:00
 -- url     : https://prove2.me/theorems/5e1b8373-2752-4986-849e-860cd0973a59

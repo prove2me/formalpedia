@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ofReal_ne_ofReal_of_lt
 -- name    : Formalism.ofReal_ne_ofReal_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:57.418057+00:00
 -- url     : https://prove2.me/theorems/0b48cf9b-bc58-4410-808a-afa82929251e

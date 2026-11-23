@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HermitianSublattices_range_trH
 -- name    : Formalism.HermitianLattices.Ext.L3.HermitianSublattices.range_trH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:45.559405+00:00
 -- url     : https://prove2.me/theorems/c0cccb93-89ff-46c9-b858-e697e64dc60c

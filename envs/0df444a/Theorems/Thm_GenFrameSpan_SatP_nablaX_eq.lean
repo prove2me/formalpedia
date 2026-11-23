@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_SatP_nablaX_eq
 -- name    : GenFrameSpan.SatP.nablaX_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:07.802928+00:00
 -- url     : https://prove2.me/theorems/0c12d8d1-60cf-4795-a170-75fcbd011915

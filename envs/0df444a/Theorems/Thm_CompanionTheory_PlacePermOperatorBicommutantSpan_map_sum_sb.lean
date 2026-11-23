@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_PlacePermOperatorBicommutantSpan_map_sum_sb
 -- name    : CompanionTheory.PlacePermOperatorBicommutantSpan.map_sum_sb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:56:49.133451+00:00
 -- url     : https://prove2.me/theorems/f63e0229-ec5b-404f-beed-68ee9d131a62

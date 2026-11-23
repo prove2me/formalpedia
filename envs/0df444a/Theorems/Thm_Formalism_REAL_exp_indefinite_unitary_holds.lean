@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_exp_indefinite_unitary_holds
 -- name    : Formalism.REAL.exp_indefinite_unitary_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:51:56.834267+00:00
 -- url     : https://prove2.me/theorems/e994723e-573b-4b25-b4ab-3a6b617d8f86

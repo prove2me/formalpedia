@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Segre_val_res
 -- name    : GlobalTheory.AbLaw.Segre.val_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:52.866853+00:00
 -- url     : https://prove2.me/theorems/082c2249-96f9-4a50-b350-748c3955093c

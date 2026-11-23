@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Tow_OrbStPf_pd_eq_deriv
 -- name    : Formalism.IndefR.Tow.OrbStPf.pd_eq_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:42:43.315023+00:00
 -- url     : https://prove2.me/theorems/486347fb-7525-4fee-9119-0ff0e49f828f

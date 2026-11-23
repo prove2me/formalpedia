@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_setOf_mem_pow_eq
 -- name    : Formalism.L2.SG.Pf.G1.setOf_mem_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:53.290909+00:00
 -- url     : https://prove2.me/theorems/de3e3f86-eb1e-4acf-9157-d8cad0a08e9c

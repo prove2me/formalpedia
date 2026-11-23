@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCovolume_inv_keeps_gram
 -- name    : GlobalTheory.FiniteCovolume.inv_keeps_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:19.551858+00:00
 -- url     : https://prove2.me/theorems/7ec7a6f3-0680-4d4e-aef9-9f7c77eb9865

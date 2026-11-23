@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryLift_step_of_right_mul
 -- name    : GlobalTheory.UnitaryLift.step_of_right_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:39.343426+00:00
 -- url     : https://prove2.me/theorems/2ffef766-49b2-493c-bb4d-eb3b5628d2b1

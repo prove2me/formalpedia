@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_isSD_loc
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.isSD_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:05.782046+00:00
 -- url     : https://prove2.me/theorems/73816e49-aff8-449b-9057-dbdf2f521fb1

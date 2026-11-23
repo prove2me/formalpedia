@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_sub_proj_of_unitary
 -- name    : Formalism.L2.SG.Pf.Unip.sub_proj_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:15.987075+00:00
 -- url     : https://prove2.me/theorems/67110d57-bc0d-46d6-a7bb-abbc547312dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_mxS_eq_indicator
 -- name    : Formalism.mxS_eq_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:56.615349+00:00
 -- url     : https://prove2.me/theorems/8ac2ef3b-bce9-4cb3-9c67-1d4972c84b3f

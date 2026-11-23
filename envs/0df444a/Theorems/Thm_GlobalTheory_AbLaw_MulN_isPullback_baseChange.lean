@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_MulN_isPullback_baseChange
 -- name    : GlobalTheory.AbLaw.MulN.isPullback_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:27.360084+00:00
 -- url     : https://prove2.me/theorems/b552da2d-1279-4033-847d-2614cf1b5c44

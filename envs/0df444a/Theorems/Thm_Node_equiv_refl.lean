@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Node_equiv_refl
 -- name    : Node.equiv_refl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:05:49.90662+00:00
 -- url     : https://prove2.me/theorems/db93ec7f-a6c2-4352-b12b-247bc188e9bc

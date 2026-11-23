@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rdBracket_of
 -- name    : Formalism.REAL.rdBracket_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:35.007556+00:00
 -- url     : https://prove2.me/theorems/21e4cd28-b074-4859-ad36-bd7a86537de6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_StableRangeOne_exists_left_inv
 -- name    : GlobalTheory.CompanionTheory.Adelic.StableRangeOne.exists_left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:59:47.409808+00:00
 -- url     : https://prove2.me/theorems/6754726c-a207-4035-94c3-7782154a9212

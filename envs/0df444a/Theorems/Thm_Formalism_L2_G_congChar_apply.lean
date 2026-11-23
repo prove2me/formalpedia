@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_congChar_apply
 -- name    : Formalism.L2.G.congChar_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:24.66564+00:00
 -- url     : https://prove2.me/theorems/2b9587b2-f460-45a3-987b-fd029dd229ec

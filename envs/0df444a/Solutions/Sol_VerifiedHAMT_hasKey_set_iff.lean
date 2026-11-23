@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for VerifiedHAMT.hasKey_set_iff
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-23T07:26:18.825972+00:00
+-- url     : https://prove2.me/submissions/4468d4c9-5f62-4285-8b2e-51b013262e48
+
+module
+public import Lean.Data.PersistentHashMap
+public import Std
+public import Lean.Data.PersistentHashMap
+import all Lean.Data.PersistentHashMap
+public import Definitions.Def_VerifiedHAMT_Basic
+public import Theorems.Thm_VerifiedHAMT_hasKey_collision
+public import Theorems.Thm_VerifiedHAMT_hasKey_entries
+attribute [local simp] VerifiedHAMT.hasKey_collision
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open VerifiedHAMT
+open Lean.PersistentHashMap
+variable {α : Type u} {β : Type v}
+namespace VerifiedHAMT
+theorem _root_.solution {es : Array (Entry α β (Node α β))}
+    (i : Nat) (hi : i < es.size) (e : Entry α β (Node α β)) (key : α)
+    (mem : ∀ q, EntryHasKey q e ↔ q = key ∨ EntryHasKey q es[i]) (q : α) :
+    HasKey q (.entries (es.set i e)) ↔ q = key ∨ HasKey q (.entries es) := by
+  simp [hasKey_entries, Array.getElem_set]
+  grind
+end VerifiedHAMT

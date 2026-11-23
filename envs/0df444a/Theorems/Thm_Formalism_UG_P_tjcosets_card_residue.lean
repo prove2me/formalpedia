@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_card_residue
 -- name    : Formalism.UG.P.tjcosets_card_residue
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:51.246832+00:00
 -- url     : https://prove2.me/theorems/cd7db69c-771b-407e-9c71-9b2cf0fb02cf

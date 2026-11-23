@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_matrix_entries
 -- name    : Formalism.FourierDecayAlt.P.matrix_entries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:00:42.563662+00:00
 -- url     : https://prove2.me/theorems/7d927fc1-9110-4a1e-997e-d308491576ee

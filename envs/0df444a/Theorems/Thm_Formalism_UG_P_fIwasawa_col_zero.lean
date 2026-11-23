@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fIwasawa_col_zero
 -- name    : Formalism.UG.P.fIwasawa_col_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:12.70161+00:00
 -- url     : https://prove2.me/theorems/fd40ad8a-fc7d-4697-a244-04fbb94d5461

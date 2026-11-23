@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rhoStd
 -- name    : Formalism.REAL.rhoStd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:14:41.439676+00:00
 -- url     : https://prove2.me/theorems/5770abc3-a4d4-4a46-86e7-f9fe6999bdde

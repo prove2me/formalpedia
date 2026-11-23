@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryFrames_unitary_group_frames
 -- name    : GlobalTheory.UnitaryFrames.unitary_group_frames
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:03:02.990914+00:00
 -- url     : https://prove2.me/theorems/20e95609-1db6-4217-b0d4-244af1ed1941

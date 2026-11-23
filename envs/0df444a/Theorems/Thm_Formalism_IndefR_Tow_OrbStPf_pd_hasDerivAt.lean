@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Tow_OrbStPf_pd_hasDerivAt
 -- name    : Formalism.IndefR.Tow.OrbStPf.pd_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:03.119079+00:00
 -- url     : https://prove2.me/theorems/c7056691-251f-4698-8fed-f2841f31e103

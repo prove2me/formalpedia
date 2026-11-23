@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_Wc_smul
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.Wc_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:35.427816+00:00
 -- url     : https://prove2.me/theorems/c4238b7e-6c0e-4fc3-9b1e-4742f87a3f88

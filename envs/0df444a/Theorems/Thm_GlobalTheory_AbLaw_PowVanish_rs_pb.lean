@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_PowVanish_rs_pb
 -- name    : GlobalTheory.AbLaw.PowVanish.rs_pb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:47.167399+00:00
 -- url     : https://prove2.me/theorems/24b49e94-d12e-4172-a3fc-3a8a27c6f66f

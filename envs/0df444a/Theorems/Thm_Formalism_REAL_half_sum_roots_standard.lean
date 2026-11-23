@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_half_sum_roots_standard
 -- name    : Formalism.REAL.half_sum_roots_standard
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:31.461078+00:00
 -- url     : https://prove2.me/theorems/7135f9ed-4508-4366-9a81-3ea892e8cbb6

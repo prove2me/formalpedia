@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantGroupCounts_diag_mul_mul_diag_apply
 -- name    : Formalism.L2.SG.Pf.discriminantGroupCounts.diag_mul_mul_diag_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:29.11389+00:00
 -- url     : https://prove2.me/theorems/2282eaa5-7600-4771-8796-06697343f2c7

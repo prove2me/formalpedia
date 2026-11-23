@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_schwarzschild_of_positive_harmonic_double
 -- name    : NoHair.schwarzschild_of_positive_harmonic_double
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T06:58:15.160473+00:00
 -- url     : https://prove2.me/theorems/19b4a392-c5cb-47c3-8dd4-6c4bfa265990

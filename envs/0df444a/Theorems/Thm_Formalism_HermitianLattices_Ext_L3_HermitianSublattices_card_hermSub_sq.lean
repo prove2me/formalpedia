@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HermitianSublattices_card_hermSub_sq
 -- name    : Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_hermSub_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:51:39.157345+00:00
 -- url     : https://prove2.me/theorems/22295a3c-0fff-49d5-87e4-5850196c6aaa

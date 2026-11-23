@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_isUnitIn_prod
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.isUnitIn_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:42:46.594806+00:00
 -- url     : https://prove2.me/theorems/3f60f100-e0b0-4d3c-980c-5550e8a8180d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Witt_expand
 -- name    : PI.Witt.expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:05.973355+00:00
 -- url     : https://prove2.me/theorems/1037fd0f-e488-48f6-a564-fb2d6124b057

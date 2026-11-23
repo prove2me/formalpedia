@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_isPoly_diagonal_entry
 -- name    : Formalism.FourierDecayAlt.P.Mx7.isPoly_diagonal_entry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:23:58.285288+00:00
 -- url     : https://prove2.me/theorems/fd57a2c1-0d7e-4a92-82c8-db3198d19fb4

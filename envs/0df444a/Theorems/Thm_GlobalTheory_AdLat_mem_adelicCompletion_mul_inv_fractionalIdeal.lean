@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_mem_adelicCompletion_mul_inv_fractionalIdeal
 -- name    : GlobalTheory.AdLat.mem_adelicCompletion_mul_inv_fractionalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:38:40.237831+00:00
 -- url     : https://prove2.me/theorems/995e3470-2934-4852-8cbc-348395262722

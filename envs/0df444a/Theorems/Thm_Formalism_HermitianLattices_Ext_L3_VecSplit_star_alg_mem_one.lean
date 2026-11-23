@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_VecSplit_star_alg_mem_one
 -- name    : Formalism.HermitianLattices.Ext.L3.VecSplit.star_alg_mem_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:14.293702+00:00
 -- url     : https://prove2.me/theorems/f50f66b9-8aed-4211-95a9-e8c0b796c650

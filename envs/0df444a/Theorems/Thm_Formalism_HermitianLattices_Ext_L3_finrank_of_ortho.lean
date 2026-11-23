@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_finrank_of_ortho
 -- name    : Formalism.HermitianLattices.Ext.L3.finrank_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:03:18.057954+00:00
 -- url     : https://prove2.me/theorems/d6fbacf4-45b1-4075-b07a-332d7b17902c

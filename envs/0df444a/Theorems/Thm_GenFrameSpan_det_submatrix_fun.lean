@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_det_submatrix_fun
 -- name    : GenFrameSpan.det_submatrix_fun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:07.956736+00:00
 -- url     : https://prove2.me/theorems/08faafe4-3144-49ca-bcb5-c5d5a87a56de

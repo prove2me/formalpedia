@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryLift_det_ne_zero_of_diag
 -- name    : GlobalTheory.UnitaryLift.det_ne_zero_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:19.898511+00:00
 -- url     : https://prove2.me/theorems/82f1433c-74bf-40d5-a295-b2b34690020f

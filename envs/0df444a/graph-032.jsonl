@@ -51194,9 +51194,9 @@
 {"parent": "APFB07b.no_unique_minimum_with_a_free_side", "child": "APFB07b.B07_realized_constant_of_finite_explicit", "via": ["solution", "statement"]}
 {"parent": "NetworkSumSecure.Solvability.Supplement.lemma_7", "child": "NetworkSumSecure_Solvability_algebra", "via": ["statement"]}
 {"parent": "PolyhedralPacking1261.Packing.Supplement.lemma_10", "child": "PolyhedralPacking1261_Packing_Supplement_SlopeGroups", "via": ["statement"]}
-{"parent": "Kyprianou.poissonRandomMeasureExistsGenericCh02V3", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.poissonRandomMeasureExistsGenericCh02V3", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.poissonRandomMeasureExistsGenericCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.poissonRandomMeasureExistsGenericCh02V3", "child": "LeanLevy_RandomMeasure_PoissonPointFamily", "via": ["statement"]}
+{"parent": "Kyprianou.poissonRandomMeasureExistsGenericCh02V3", "child": "LeanLevy_RandomMeasure_PoissonPointFamily", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.poissonRandomMeasureExistsGenericCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
 {"parent": "TwoReLULayers.DepthCollapse.Supplement.realization_boundary", "child": "TwoReLULayers_DepthCollapse_Supplement_Realization", "via": ["statement"]}
 {"parent": "ParallelDiffusionLB.NearIsotropic.Supplement.lemma_B_2", "child": "ParallelDiffusionLB_NearIsotropic_Supplement_Box", "via": ["statement"]}

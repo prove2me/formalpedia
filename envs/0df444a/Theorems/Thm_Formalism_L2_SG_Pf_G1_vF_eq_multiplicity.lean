@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_vF_eq_multiplicity
 -- name    : Formalism.L2.SG.Pf.G1.vF_eq_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:24.331798+00:00
 -- url     : https://prove2.me/theorems/0b4a985b-5b23-4234-adaf-6d60a13527e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_differentiable_AZ
 -- name    : Formalism.differentiable_AZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:46.184741+00:00
 -- url     : https://prove2.me/theorems/3a029679-bd2f-42a4-925e-2a57bfe4a463

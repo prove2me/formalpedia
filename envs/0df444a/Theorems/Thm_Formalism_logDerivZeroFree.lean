@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_logDerivZeroFree
 -- name    : Formalism.logDerivZeroFree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:02.30619+00:00
 -- url     : https://prove2.me/theorems/6ac6d0cb-b000-4562-8921-61ed4a6f7b3b

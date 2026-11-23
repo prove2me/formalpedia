@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_fixF
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_fixF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:42.418269+00:00
 -- url     : https://prove2.me/theorems/d31ea6bb-9008-47fe-ac06-fffb29b5e4d7

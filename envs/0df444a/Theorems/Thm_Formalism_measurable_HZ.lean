@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_measurable_HZ
 -- name    : Formalism.measurable_HZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:55.832532+00:00
 -- url     : https://prove2.me/theorems/15abb048-1fff-45b0-85d6-b9f89c107606

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryFrames_isOrth_lmulC
 -- name    : GlobalTheory.UnitaryFrames.isOrth_lmulC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:03:29.548244+00:00
 -- url     : https://prove2.me/theorems/6c37a0e1-1146-41c3-a0e2-7f566f60a5fe

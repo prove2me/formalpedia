@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_qSkewRow
 -- name    : Formalism.REAL.qSkewRow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:38.822123+00:00
 -- url     : https://prove2.me/theorems/be71fb5a-39ef-4f87-89f8-52c8c919316d

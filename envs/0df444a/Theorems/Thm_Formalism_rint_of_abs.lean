@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_rint_of_abs
 -- name    : Formalism.rint_of_abs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:58.434196+00:00
 -- url     : https://prove2.me/theorems/7b668167-d16e-4484-9652-9919051170bb

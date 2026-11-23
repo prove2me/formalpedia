@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_finite_quot
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:57.206867+00:00
 -- url     : https://prove2.me/theorems/5b6d72a5-624a-4655-8ac9-0da2d1d18072

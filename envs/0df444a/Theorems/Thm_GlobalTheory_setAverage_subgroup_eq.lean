@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setAverage_subgroup_eq
 -- name    : GlobalTheory.setAverage_subgroup_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:50:12.538189+00:00
 -- url     : https://prove2.me/theorems/fcd08764-16d7-4312-8997-566ee62e9da3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_isomAct
 -- name    : Formalism.HermitianLatticesTheory.isomAct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:11:50.766208+00:00
 -- url     : https://prove2.me/theorems/4c9d28a0-0141-4ee2-aef0-93d434c209ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx7_isPoly_quartic_sum
 -- name    : Formalism.FourierDecayAlt.P.Mx7.isPoly_quartic_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:23:50.721488+00:00
 -- url     : https://prove2.me/theorems/6ff9d35c-c1c1-484a-81c7-368678ee1567
