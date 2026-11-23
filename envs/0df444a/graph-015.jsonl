@@ -32813,8 +32813,8 @@
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_5_7_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_5_7_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_5_7_s50", "child": "OAIQ050L001", "via": ["solution", "statement"]}
-{"parent": "SupermodDRO.algorithm1_weights", "child": "SupermodDRO_ScenarioAssumptions", "via": ["statement"]}
-{"parent": "SupermodDRO.algorithm1_weights", "child": "SupermodDRO_algorithm1", "via": ["statement"]}
+{"parent": "SupermodDRO.algorithm1_weights", "child": "SupermodDRO_ScenarioAssumptions", "via": ["solution", "statement"]}
+{"parent": "SupermodDRO.algorithm1_weights", "child": "SupermodDRO_algorithm1", "via": ["solution", "statement"]}
 {"parent": "ConvBoundsQA_LowerME", "child": "ConvBoundsQA_qPlus", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.planar_euler_upper__p2m_2930c541_cd90_4895_988f_c75e47ffb674_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
 {"parent": "CollectiveDFS.dfs_finrank", "child": "CollectiveDFS_LegalJ", "via": ["statement"]}

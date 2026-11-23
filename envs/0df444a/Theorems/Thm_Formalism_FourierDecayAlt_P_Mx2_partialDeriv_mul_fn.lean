@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx2_partialDeriv_mul_fn
 -- name    : Formalism.FourierDecayAlt.P.Mx2.partialDeriv_mul_fn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:06:22.433996+00:00
 -- url     : https://prove2.me/theorems/c732a386-d98d-4898-802e-1cee9237b4af

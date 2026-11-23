@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_finiteDistinctIntersectionsOn_iff
 -- name    : DiscreteTiling.TileSet.finiteDistinctIntersectionsOn_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:02:22.461579+00:00
 -- url     : https://prove2.me/theorems/6ea46802-88a3-45fa-b54c-0b3c88c4a0f2

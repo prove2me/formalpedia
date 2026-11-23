@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx2_zeta_free_of_variable
 -- name    : Formalism.FourierDecayAlt.P.Mx2.zeta_free_of_variable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:05:36.717838+00:00
 -- url     : https://prove2.me/theorems/b10d9e78-6805-4aad-aa98-1a640b0f64e2

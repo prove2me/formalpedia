@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_Lead_const_mul
 -- name    : Formalism.FourierDecayAlt.P.Mx5.Lead.const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:08:39.487823+00:00
 -- url     : https://prove2.me/theorems/c105c1a2-3586-47a8-94e0-4f83467610eb

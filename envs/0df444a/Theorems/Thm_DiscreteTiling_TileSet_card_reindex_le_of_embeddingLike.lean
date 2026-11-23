@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_card_reindex_le_of_embeddingLike
 -- name    : DiscreteTiling.TileSet.card_reindex_le_of_embeddingLike
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:04:11.08833+00:00
 -- url     : https://prove2.me/theorems/d1d43f65-2542-4398-a785-59bbc13c63da

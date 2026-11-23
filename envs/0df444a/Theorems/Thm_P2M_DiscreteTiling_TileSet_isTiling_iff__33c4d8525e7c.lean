@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_DiscreteTiling_TileSet_isTiling_iff__33c4d8525e7c
 -- name    : P2M_DiscreteTiling_TileSet_isTiling_iff__33c4d8525e7c
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:09:41.414146+00:00
 -- url     : https://prove2.me/theorems/0ab236a4-f43f-40cd-ad42-5537d09842ff

@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_isohedralNumberNat_eq_zero_iff
+-- name    : DiscreteTiling.TileSet.isohedralNumberNat_eq_zero_iff
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-23T06:10:14.690997+00:00
+-- url     : https://prove2.me/theorems/84f706a1-0ee8-4ce5-829d-ece397d46192
+-- title:
+--   Tile Set: isohedral Number Nat eq zero iff
+-- statement:
+--   The Tile Set construction uses the isohedral Number Nat eq zero iff property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/jsm28/AperiodicMonotilesLean/blob/b98c45401bd7d9017175ab2dc20cc8759e2b7c4b/AM/Mathlib/Combinatorics/Tiling/Isohedral.lean#L207-L210
+-- source:
+--   https://github.com/jsm28/AperiodicMonotilesLean/blob/b98c45401bd7d9017175ab2dc20cc8759e2b7c4b/AM/Mathlib/Combinatorics/Tiling/Isohedral.lean#L207-L210
+
+module
+public import Definitions.Def_AM_Mathlib_Combinatorics_Tiling_Function_Disjoint
+public import Definitions.Def_AM_Mathlib_Combinatorics_Tiling_Function_Union
+public import Mathlib.Algebra.Group.Subgroup.Actions
+public import Mathlib.GroupTheory.GroupAction.SubMulAction
+public import Mathlib.SetTheory.Cardinal.Finite
+public import Definitions.Def_AM_Mathlib_Combinatorics_Tiling_Isohedral
+set_option autoImplicit false
+@[expose] public section
+public section
+noncomputable section
+open DiscreteTiling
+open Function
+open scoped Cardinal Pointwise
+variable {G X ιₚ ιₜ : Type*} [Group G] [MulAction G X] {ps : Protoset G X ιₚ}
+open DiscreteTiling.TileSet
+
+theorem DiscreteTiling.TileSet.isohedralNumberNat_eq_zero_iff {t : TileSet ps ιₜ} :
+    t.isohedralNumberNat = 0 ↔ IsEmpty ιₜ ∨
+      Infinite (MulAction.orbitRel.Quotient t.symmetryGroup (t : Set (PlacedTile ps))) := by sorry

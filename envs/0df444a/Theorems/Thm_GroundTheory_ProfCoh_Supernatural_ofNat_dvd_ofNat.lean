@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Supernatural_ofNat_dvd_ofNat
 -- name    : GroundTheory.ProfCoh.Supernatural.ofNat_dvd_ofNat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:02:48.210709+00:00
 -- url     : https://prove2.me/theorems/e41958b3-9ba6-488a-bfb6-e3a9b9812d75

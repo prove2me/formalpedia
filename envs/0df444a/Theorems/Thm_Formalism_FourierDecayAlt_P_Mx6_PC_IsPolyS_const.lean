@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_PC_IsPolyS_const
 -- name    : Formalism.FourierDecayAlt.P.Mx6.PC.IsPolyS.const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:08:47.824952+00:00
 -- url     : https://prove2.me/theorems/e9873239-8dd1-428b-9d48-46d5b7703870

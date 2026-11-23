@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSetFunction_iff_of_coeSet_eq_of_injective
 -- name    : DiscreteTiling.TileSetFunction.iff_of_coeSet_eq_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T05:56:53.063243+00:00
 -- url     : https://prove2.me/theorems/4224f530-6d2d-4039-99e5-3e3e2667b6ea

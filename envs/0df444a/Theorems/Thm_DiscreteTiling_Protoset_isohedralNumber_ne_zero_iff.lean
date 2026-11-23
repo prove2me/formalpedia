@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_Protoset_isohedralNumber_ne_zero_iff
 -- name    : DiscreteTiling.Protoset.isohedralNumber_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:07:20.173197+00:00
 -- url     : https://prove2.me/theorems/d1866870-f2a3-494b-9dcc-8cc16fff36a6

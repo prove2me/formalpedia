@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx2_nabla_zeta_comm
 -- name    : Formalism.FourierDecayAlt.P.Mx2.nabla_zeta_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:06:18.972843+00:00
 -- url     : https://prove2.me/theorems/f9165736-4400-4953-8cef-fb9a80b15a6d

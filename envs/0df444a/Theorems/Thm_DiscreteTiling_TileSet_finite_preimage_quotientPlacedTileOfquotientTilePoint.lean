@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_finite_preimage_quotientPlacedTileOfquotientTilePoint
 -- name    : DiscreteTiling.TileSet.finite_preimage_quotientPlacedTileOfquotientTilePoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:05:56.202089+00:00
 -- url     : https://prove2.me/theorems/33800236-02e3-4b1f-b787-fb4b0bc7a606

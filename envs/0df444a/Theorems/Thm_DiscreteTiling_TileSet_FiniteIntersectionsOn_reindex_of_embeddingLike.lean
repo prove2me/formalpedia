@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_FiniteIntersectionsOn_reindex_of_embeddingLike
 -- name    : DiscreteTiling.TileSet.FiniteIntersectionsOn.reindex_of_embeddingLike
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:01:37.167641+00:00
 -- url     : https://prove2.me/theorems/26a30723-01f2-493e-9bbf-e738c5244fd5

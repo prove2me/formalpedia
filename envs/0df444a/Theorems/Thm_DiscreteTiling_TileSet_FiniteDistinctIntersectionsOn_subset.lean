@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_FiniteDistinctIntersectionsOn_subset
 -- name    : DiscreteTiling.TileSet.FiniteDistinctIntersectionsOn.subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:02:28.761078+00:00
 -- url     : https://prove2.me/theorems/5ad340f0-38cc-4380-96c7-22c39f2f633b

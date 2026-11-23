@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSetFunction_coe_injective
 -- name    : DiscreteTiling.TileSetFunction.coe_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T05:56:47.283257+00:00
 -- url     : https://prove2.me/theorems/86170510-a844-4ef1-915c-28b31e6d7e1d

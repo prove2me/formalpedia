@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_Protoset_isohedralNumber_eq_one_iff
 -- name    : DiscreteTiling.Protoset.isohedralNumber_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:07:27.803165+00:00
 -- url     : https://prove2.me/theorems/bec1ffff-f8d5-4d35-9aaf-2f048b3ac0d7

@@ -1,0 +1,26 @@
+-- Prove2me | Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_IwasawaDecompositionSecondModel
+-- name    : CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_IwasawaDecompositionSecondModel
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-23T06:10:28.734824+00:00
+-- url     : https://prove2.me/theorems/57c26ad1-a817-4a96-bdf7-6d18d478680d
+-- title:
+--   Iwasawa Decomposition Second Model
+-- statement:
+--   Definitions and structural lemmas for Iwasawa Decomposition Second Model, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/CompanionTheory/HarishChandraModules/KFiniteAnalyticVectors/AdmissibleSmoothVectors/IwasawaDecompositionSecondModel.lean
+
+import Definitions.Def_CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_IwaAll
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+namespace CompanionTheory.D.gk.admitted
+end CompanionTheory.D.gk.admitted
+
+

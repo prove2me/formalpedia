@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_finite_quotient_tilePoint_of_isohedralNumber_lt_aleph0
 -- name    : DiscreteTiling.TileSet.finite_quotient_tilePoint_of_isohedralNumber_lt_aleph0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:07:06.443343+00:00
 -- url     : https://prove2.me/theorems/1c42fb6b-2ded-4e1d-aabe-a121a90d0e42

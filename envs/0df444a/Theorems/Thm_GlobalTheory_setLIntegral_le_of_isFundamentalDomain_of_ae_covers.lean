@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setLIntegral_le_of_isFundamentalDomain_of_ae_covers
 -- name    : GlobalTheory.setLIntegral_le_of_isFundamentalDomain_of_ae_covers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:31.714331+00:00
 -- url     : https://prove2.me/theorems/efebde1d-a128-4f30-aa5b-c49653c8779a

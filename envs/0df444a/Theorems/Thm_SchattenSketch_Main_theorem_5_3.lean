@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchattenSketch_Main_theorem_5_3
 -- name    : SchattenSketch.Main.theorem_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T03:56:38.724694+00:00
 -- url     : https://prove2.me/theorems/d7321036-7f91-438b-bdbb-38ef4bc72a42

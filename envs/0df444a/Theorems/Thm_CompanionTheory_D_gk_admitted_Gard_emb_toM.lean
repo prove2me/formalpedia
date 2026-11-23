@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_Gard_emb_toM
 -- name    : CompanionTheory.D.gk.admitted.Gard.emb_toM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:08:01.842179+00:00
 -- url     : https://prove2.me/theorems/9ffa5fe2-f279-4a32-92de-416a82b96cbc

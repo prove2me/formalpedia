@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ae_encard_smul_mem_le_one
 -- name    : GlobalTheory.ae_encard_smul_mem_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:17.62365+00:00
 -- url     : https://prove2.me/theorems/4eceaf7c-4f85-4c89-a049-981d4a8a6d2b

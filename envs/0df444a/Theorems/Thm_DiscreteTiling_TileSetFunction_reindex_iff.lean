@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSetFunction_reindex_iff
 -- name    : DiscreteTiling.TileSetFunction.reindex_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T05:56:48.809147+00:00
 -- url     : https://prove2.me/theorems/40dcba98-226b-44a5-9e4c-11a5fb09e11d

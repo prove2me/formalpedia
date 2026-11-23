@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_toFun_congr
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.toFun_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:07:26.371838+00:00
 -- url     : https://prove2.me/theorems/6e506114-dd20-42f7-828f-194c9692ed64

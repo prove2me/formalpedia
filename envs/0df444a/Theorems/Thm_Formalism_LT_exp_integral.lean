@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_exp_integral
 -- name    : Formalism.LT.exp_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:16.441939+00:00
 -- url     : https://prove2.me/theorems/a2e4aecc-e2d5-40a8-8fe4-f432f597b55b

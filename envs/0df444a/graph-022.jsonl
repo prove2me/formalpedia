@@ -76823,9 +76823,9 @@
 {"parent": "OAI.EisensteinSchwartzPoisson.quadratic_principal_difference_uniform", "child": "OAI_NumberTheory_DirichletL_Poisson_QuadraticProfiles", "via": ["solution", "statement"]}
 {"parent": "HWMaskLeak.claim_C_1", "child": "HWMaskLeak_PJ", "via": ["statement"]}
 {"parent": "ARTreeCover_RadiusLE", "child": "ARTreeCover_WGraph", "via": ["statement"]}
-{"parent": "DynOracleConn.reduction", "child": "DynOracleConn_Oracles", "via": ["statement"]}
-{"parent": "DynOracleConn.reduction", "child": "DynOracleConn_Gadget", "via": ["statement"]}
-{"parent": "DynOracleConn.reduction", "child": "DynOracleConn_DetAlg", "via": ["statement"]}
+{"parent": "DynOracleConn.reduction", "child": "DynOracleConn_Oracles", "via": ["solution", "statement"]}
+{"parent": "DynOracleConn.reduction", "child": "DynOracleConn_Gadget", "via": ["solution", "statement"]}
+{"parent": "DynOracleConn.reduction", "child": "DynOracleConn_DetAlg", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.TwistGraph.hasHHO20SquaredExpanderMixing_of_operatorMixing", "child": "QEC_Coding_FiberBundle_TwistGraphSpectral", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.TwistGraph.hasHHO20SquaredExpanderMixing_of_operatorMixing", "child": "QEC_Coding_FiberBundle_TwistGraphOperator", "via": ["solution", "statement"]}
 {"parent": "MultiSelectPandora_Inst_mean", "child": "MultiSelectPandora_Inst", "via": ["statement"]}

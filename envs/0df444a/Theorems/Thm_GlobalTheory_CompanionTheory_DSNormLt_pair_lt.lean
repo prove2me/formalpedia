@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSNormLt_pair_lt
 -- name    : GlobalTheory.CompanionTheory.DSNormLt.pair_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:02:29.503857+00:00
 -- url     : https://prove2.me/theorems/574b1493-1e20-481d-9432-fdf32f40d696

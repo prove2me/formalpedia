@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setLIntegral_le_mul_of_ae_covers
 -- name    : GlobalTheory.setLIntegral_le_mul_of_ae_covers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:06.434357+00:00
 -- url     : https://prove2.me/theorems/b50052c0-e4d6-41d4-a82c-c67d030330a7

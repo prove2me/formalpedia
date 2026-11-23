@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_Disjoint_disjointOn
 -- name    : DiscreteTiling.TileSet.Disjoint.disjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:01:20.900409+00:00
 -- url     : https://prove2.me/theorems/6f773114-2c0f-4884-bc9a-5db1075d4052

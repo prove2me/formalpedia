@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaoQuantumUnion_theorem1
 -- name    : GaoQuantumUnion.theorem1
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-19T21:47:34.280228+00:00
 -- url     : https://prove2.me/theorems/ac98c211-673a-4760-aa0c-f1f4cd4d974b

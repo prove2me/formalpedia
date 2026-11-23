@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_UnionEqUniv_exists_mem
 -- name    : DiscreteTiling.TileSet.UnionEqUniv.exists_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:09:19.629807+00:00
 -- url     : https://prove2.me/theorems/318f6d1c-81c9-48d5-87ff-43287b464d40

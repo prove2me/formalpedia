@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSetFunction_toVarTileSetFunction_comp
 -- name    : DiscreteTiling.TileSetFunction.toVarTileSetFunction_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:00:59.241237+00:00
 -- url     : https://prove2.me/theorems/b283d402-61bd-4fd9-8177-906580c96539

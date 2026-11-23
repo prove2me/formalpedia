@@ -83524,7 +83524,7 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRelativeGaussInseparableBranchFrobeniusEquiv_apply", "child": "QEC_Coding_ExpanderCodes_LPSOriginalRelativeGaussFrobeniusDescent", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRelativeGaussInseparableBranchFrobeniusEquiv_apply", "child": "QEC_Coding_ExpanderCodes_LPSOriginalRelativeGaussSecondBranches", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRelativeGaussInseparableBranchFrobeniusEquiv_apply", "child": "QEC.Coding.TannerLiftedProduct.lpsOriginalGaussMaximalResidue_charP", "via": ["solution", "statement"]}
-{"parent": "GaoQuantumUnion.disturbance", "child": "GaoQuantumUnion_Model", "via": ["statement"]}
+{"parent": "GaoQuantumUnion.disturbance", "child": "GaoQuantumUnion_Model", "via": ["solution", "statement"]}
 {"parent": "RandomSizeStable.Stability.rank_cut_certificate_dStar", "child": "RandomSizeStable_Stability_DrawLaw", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_f6_zero_nu_finitecap_exact_clock_HJB_expected_upper", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_f6_zero_nu_finitecap_exact_clock_HJB_expected_upper", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}

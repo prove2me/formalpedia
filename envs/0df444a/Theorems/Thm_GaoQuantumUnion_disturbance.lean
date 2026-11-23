@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaoQuantumUnion_disturbance
 -- name    : GaoQuantumUnion.disturbance
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-19T21:45:28.258621+00:00
 -- url     : https://prove2.me/theorems/0b170080-caf5-4e0c-992e-390564aae85d

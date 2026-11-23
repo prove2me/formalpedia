@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_DiscreteTiling_TileSet_unionEqUniv_iff__13676d5e172c
 -- name    : P2M_DiscreteTiling_TileSet_unionEqUniv_iff__13676d5e172c
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:09:15.853177+00:00
 -- url     : https://prove2.me/theorems/eec5b5bd-f390-494f-895c-254a37a079b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_isTilingOf_smul_set_iff
 -- name    : DiscreteTiling.TileSet.isTilingOf_smul_set_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:09:26.202135+00:00
 -- url     : https://prove2.me/theorems/a4de9702-b12d-45b9-9e2b-8d3b6303932a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSetCard_coe_inf
 -- name    : DiscreteTiling.TileSetCard.coe_inf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:04:03.461658+00:00
 -- url     : https://prove2.me/theorems/d56e24c2-3e03-425c-a158-83352a3c15d9

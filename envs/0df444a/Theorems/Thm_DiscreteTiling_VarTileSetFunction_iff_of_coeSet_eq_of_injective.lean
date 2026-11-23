@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_VarTileSetFunction_iff_of_coeSet_eq_of_injective
 -- name    : DiscreteTiling.VarTileSetFunction.iff_of_coeSet_eq_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:00:42.734606+00:00
 -- url     : https://prove2.me/theorems/3c472a2f-799d-4041-b0d6-fa522fda39fb

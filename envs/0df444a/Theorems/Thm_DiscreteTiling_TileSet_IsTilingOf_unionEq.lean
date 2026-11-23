@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_IsTilingOf_unionEq
 -- name    : DiscreteTiling.TileSet.IsTilingOf.unionEq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:09:27.500593+00:00
 -- url     : https://prove2.me/theorems/4fab60b8-c6fe-4b79-a019-a74769e49556

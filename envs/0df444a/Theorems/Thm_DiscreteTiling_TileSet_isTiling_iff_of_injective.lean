@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_isTiling_iff_of_injective
 -- name    : DiscreteTiling.TileSet.isTiling_iff_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:09:48.305693+00:00
 -- url     : https://prove2.me/theorems/cb52653e-0ab2-4cdd-acfc-5bd7847a0bae

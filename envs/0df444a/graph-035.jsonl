@@ -8962,7 +8962,7 @@
 {"parent": "LevyStochCalc_Probability_CharlierAdd_F000", "child": "LevyStochCalc_Probability_CharlierGenerating_F000", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_f6_original_actual_ruincontact_caplinear_terminal_exact", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_f6_original_actual_ruincontact_caplinear_terminal_exact", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "GaoQuantumUnion.theorem1", "child": "GaoQuantumUnion_Model", "via": ["statement"]}
+{"parent": "GaoQuantumUnion.theorem1", "child": "GaoQuantumUnion_Model", "via": ["solution", "statement"]}
 {"parent": "RH1E6S00.group_067", "child": "ArdaRH65K_RS_Mellin", "via": ["statement"]}
 {"parent": "RH1E6S00.group_067", "child": "ArdaRH65K_DlvpTheta", "via": ["statement"]}
 {"parent": "RH1E6S00.group_067", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_lowering_constant_eq_shift
 -- name    : Formalism.FourierDecayAlt.P.Mx6.lowering_constant_eq_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:08:37.134339+00:00
 -- url     : https://prove2.me/theorems/986bb7b3-eaeb-42b1-99db-f940be40586d

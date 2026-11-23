@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_smul_mem_smul_symmetryGroup_iff
 -- name    : DiscreteTiling.TileSet.smul_mem_smul_symmetryGroup_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:09:55.084975+00:00
 -- url     : https://prove2.me/theorems/a15efc4d-2c4e-472f-af66-9ecf8bfcd6c7

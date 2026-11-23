@@ -41535,7 +41535,7 @@
 {"parent": "DirectedHamiltonicity.Main.proposition3", "child": "DirectedHamiltonicity_Main_ArcCopies", "via": ["statement"]}
 {"parent": "PrivPCP_IsCollectivelyPE", "child": "GoodQLTC_IsProductExpanding", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Residual43.bound0_0_g", "child": "OAIQ098G1696", "via": ["solution", "statement"]}
-{"parent": "ChenCapacityTerminals.Exact.terminals_rooted_expansion", "child": "ChenCapacityTerminals_Exact_Specifications", "via": ["statement"]}
+{"parent": "ChenCapacityTerminals.Exact.terminals_rooted_expansion", "child": "ChenCapacityTerminals_Exact_Specifications", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_top11_zero_nu_all_natural_band_ae", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm1_28_1.s4_eq_g", "child": "OAIQ098G1561", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm1_28_1.s4_eq_g", "child": "OAIQ098G1552", "via": ["solution", "statement"]}

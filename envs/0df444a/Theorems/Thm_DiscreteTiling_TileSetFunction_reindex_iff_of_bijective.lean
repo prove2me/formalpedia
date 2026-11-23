@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSetFunction_reindex_iff_of_bijective
 -- name    : DiscreteTiling.TileSetFunction.reindex_iff_of_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T05:56:51.098977+00:00
 -- url     : https://prove2.me/theorems/70cb5fce-59ac-411e-92bb-14e28c3591e6

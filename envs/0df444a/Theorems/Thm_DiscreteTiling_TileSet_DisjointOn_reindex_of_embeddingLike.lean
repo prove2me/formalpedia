@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_DisjointOn_reindex_of_embeddingLike
 -- name    : DiscreteTiling.TileSet.DisjointOn.reindex_of_embeddingLike
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:01:20.781737+00:00
 -- url     : https://prove2.me/theorems/390c67d4-2edd-433d-ba23-e36e60bf3493

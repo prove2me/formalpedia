@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_WeaklyPeriodic_stronglyPeriodic_of_finite_quotient_of_equiv_of_index_ne_zero
 -- name    : DiscreteTiling.TileSet.WeaklyPeriodic.stronglyPeriodic_of_finite_quotient_of_equiv_of_index_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:08:56.742751+00:00
 -- url     : https://prove2.me/theorems/5925b1b0-3934-48a1-9e2a-2db84647d38d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_weaklyPeriodic_iff
 -- name    : DiscreteTiling.TileSet.weaklyPeriodic_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:08:45.492365+00:00
 -- url     : https://prove2.me/theorems/04c31034-ea3b-4973-9f98-b0522aae0eab

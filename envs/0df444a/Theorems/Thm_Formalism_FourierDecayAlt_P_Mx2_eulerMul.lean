@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx2_eulerMul
 -- name    : Formalism.FourierDecayAlt.P.Mx2.eulerMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:06:35.154107+00:00
 -- url     : https://prove2.me/theorems/3aa12d56-de3d-42e7-ad1d-5292e3b20208

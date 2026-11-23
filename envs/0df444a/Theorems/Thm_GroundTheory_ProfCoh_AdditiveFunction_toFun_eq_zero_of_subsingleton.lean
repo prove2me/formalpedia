@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_toFun_eq_zero_of_subsingleton
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.toFun_eq_zero_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:07:23.406559+00:00
 -- url     : https://prove2.me/theorems/053462a2-7fe2-4137-8491-7bbbe507bc5b

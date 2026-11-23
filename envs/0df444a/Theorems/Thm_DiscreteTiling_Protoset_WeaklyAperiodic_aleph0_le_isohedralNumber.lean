@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_Protoset_WeaklyAperiodic_aleph0_le_isohedralNumber
 -- name    : DiscreteTiling.Protoset.WeaklyAperiodic.aleph0_le_isohedralNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:09:04.652599+00:00
 -- url     : https://prove2.me/theorems/6171d85d-69b8-4dfa-9347-080eda4be1eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_StronglyPeriodic_index_ne_zero_of_free
 -- name    : DiscreteTiling.TileSet.StronglyPeriodic.index_ne_zero_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:08:28.47765+00:00
 -- url     : https://prove2.me/theorems/c35ba6fe-2254-46ba-9e59-5ae46b1ad7f5

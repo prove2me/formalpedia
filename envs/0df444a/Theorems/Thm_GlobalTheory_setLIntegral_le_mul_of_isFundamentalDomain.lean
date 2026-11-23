@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setLIntegral_le_mul_of_isFundamentalDomain
 -- name    : GlobalTheory.setLIntegral_le_mul_of_isFundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:21.648045+00:00
 -- url     : https://prove2.me/theorems/74f00d92-106b-4b2b-ae4f-ecf4e0cad315

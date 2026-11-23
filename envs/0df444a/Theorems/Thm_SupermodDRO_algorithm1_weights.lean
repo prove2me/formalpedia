@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupermodDRO_algorithm1_weights
 -- name    : SupermodDRO.algorithm1_weights
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:32:25.681975+00:00
 -- url     : https://prove2.me/theorems/ca00deaa-9173-4e6c-94e6-0fbea5e2f9c0

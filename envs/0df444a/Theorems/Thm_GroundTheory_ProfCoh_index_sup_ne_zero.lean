@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_index_sup_ne_zero
 -- name    : GroundTheory.ProfCoh.index_sup_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:07:19.990408+00:00
 -- url     : https://prove2.me/theorems/bfe2cb91-d7ff-4bad-9080-665a74ab030b

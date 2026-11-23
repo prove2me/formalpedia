@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSNormLt_normSq_le
 -- name    : GlobalTheory.CompanionTheory.DSNormLt.normSq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:02:25.054908+00:00
 -- url     : https://prove2.me/theorems/e931f68b-288d-426c-9659-51e6b00cffbc

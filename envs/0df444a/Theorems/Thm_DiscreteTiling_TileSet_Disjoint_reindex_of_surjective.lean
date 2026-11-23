@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_Disjoint_reindex_of_surjective
 -- name    : DiscreteTiling.TileSet.Disjoint.reindex_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:01:19.162798+00:00
 -- url     : https://prove2.me/theorems/369e6f54-e858-4dc7-a195-8ba8c50ada95

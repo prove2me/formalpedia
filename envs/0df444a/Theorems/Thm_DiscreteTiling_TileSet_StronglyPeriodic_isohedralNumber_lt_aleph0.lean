@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_StronglyPeriodic_isohedralNumber_lt_aleph0
 -- name    : DiscreteTiling.TileSet.StronglyPeriodic.isohedralNumber_lt_aleph0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:08:28.572593+00:00
 -- url     : https://prove2.me/theorems/265f6c16-a631-49ab-b86d-24c982ea2121

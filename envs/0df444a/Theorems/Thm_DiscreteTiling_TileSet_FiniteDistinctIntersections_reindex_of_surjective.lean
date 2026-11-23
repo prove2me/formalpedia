@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_FiniteDistinctIntersections_reindex_of_surjective
 -- name    : DiscreteTiling.TileSet.FiniteDistinctIntersections.reindex_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:02:01.862666+00:00
 -- url     : https://prove2.me/theorems/7e987b1f-35c1-4b0f-a5ee-5b3dc4db25a1

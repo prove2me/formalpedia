@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_VarTileSetFunction_ofLE_comp
 -- name    : DiscreteTiling.VarTileSetFunction.ofLE_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:00:46.419272+00:00
 -- url     : https://prove2.me/theorems/4a24c147-cf83-487d-af51-f1360b0703ff

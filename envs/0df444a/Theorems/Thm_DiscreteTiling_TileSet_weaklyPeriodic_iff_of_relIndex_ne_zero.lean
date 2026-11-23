@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_weaklyPeriodic_iff_of_relIndex_ne_zero
 -- name    : DiscreteTiling.TileSet.weaklyPeriodic_iff_of_relIndex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:08:52.148269+00:00
 -- url     : https://prove2.me/theorems/d1119bfa-cea4-4a0a-9ceb-dd51d488337d

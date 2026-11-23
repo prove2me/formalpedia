@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_unionEq_smul_tileSet_iff
 -- name    : DiscreteTiling.TileSet.unionEq_smul_tileSet_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:09:11.923533+00:00
 -- url     : https://prove2.me/theorems/289f6141-22ec-418a-8058-8a8c8caa4272

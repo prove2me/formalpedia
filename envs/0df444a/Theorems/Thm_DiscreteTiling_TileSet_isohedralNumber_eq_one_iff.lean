@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_isohedralNumber_eq_one_iff
 -- name    : DiscreteTiling.TileSet.isohedralNumber_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:04:50.991817+00:00
 -- url     : https://prove2.me/theorems/a629607a-6672-4a6b-b54f-d94d541aea1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSetFunction_coe_mk
 -- name    : DiscreteTiling.TileSetFunction.coe_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T05:56:36.325949+00:00
 -- url     : https://prove2.me/theorems/179e8dc7-50d6-4b30-89a0-514680ffaa4f

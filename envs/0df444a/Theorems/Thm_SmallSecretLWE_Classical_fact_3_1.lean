@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallSecretLWE_Classical_fact_3_1
 -- name    : SmallSecretLWE.Classical.fact_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T05:26:28.071812+00:00
 -- url     : https://prove2.me/theorems/2d6dab56-05a2-4d18-a380-553a5db2d3da

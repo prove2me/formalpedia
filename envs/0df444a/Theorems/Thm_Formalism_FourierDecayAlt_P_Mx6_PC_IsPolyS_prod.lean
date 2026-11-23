@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_PC_IsPolyS_prod
 -- name    : Formalism.FourierDecayAlt.P.Mx6.PC.IsPolyS.prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:07:55.138091+00:00
 -- url     : https://prove2.me/theorems/a23d2e9c-2342-4cb3-9044-9081a7861d59

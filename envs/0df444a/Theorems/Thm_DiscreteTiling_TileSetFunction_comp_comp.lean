@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSetFunction_comp_comp
 -- name    : DiscreteTiling.TileSetFunction.comp_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T05:56:57.279495+00:00
 -- url     : https://prove2.me/theorems/14bc74e3-eb20-453c-b397-c23db134943f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Leopoldt_leopoldtConjecture_cmCubicSplittingFamily
 -- name    : Leopoldt.leopoldtConjecture_cmCubicSplittingFamily
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-23T06:01:42.390852+00:00
 -- url     : https://prove2.me/theorems/a976357c-429b-458c-8abd-dacc3946daf0

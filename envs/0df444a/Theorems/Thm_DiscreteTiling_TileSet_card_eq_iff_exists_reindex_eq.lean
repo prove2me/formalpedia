@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_card_eq_iff_exists_reindex_eq
 -- name    : DiscreteTiling.TileSet.card_eq_iff_exists_reindex_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:09:00.796386+00:00
 -- url     : https://prove2.me/theorems/2fdc470c-4a5b-445d-9040-decf45f6d577

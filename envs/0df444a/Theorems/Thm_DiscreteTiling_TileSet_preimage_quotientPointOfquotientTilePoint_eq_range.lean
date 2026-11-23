@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_preimage_quotientPointOfquotientTilePoint_eq_range
 -- name    : DiscreteTiling.TileSet.preimage_quotientPointOfquotientTilePoint_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:05:49.987949+00:00
 -- url     : https://prove2.me/theorems/12877311-81d1-48fd-b14c-3ceba46ed471

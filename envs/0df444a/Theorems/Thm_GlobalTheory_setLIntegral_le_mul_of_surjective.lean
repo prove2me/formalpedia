@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setLIntegral_le_mul_of_surjective
 -- name    : GlobalTheory.setLIntegral_le_mul_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:50:37.114823+00:00
 -- url     : https://prove2.me/theorems/60962f6c-3803-455b-90ab-b6426111186c

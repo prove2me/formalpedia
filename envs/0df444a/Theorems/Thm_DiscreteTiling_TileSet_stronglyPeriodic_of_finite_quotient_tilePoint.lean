@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteTiling_TileSet_stronglyPeriodic_of_finite_quotient_tilePoint
 -- name    : DiscreteTiling.TileSet.stronglyPeriodic_of_finite_quotient_tilePoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T06:08:45.733287+00:00
 -- url     : https://prove2.me/theorems/22a2eeb6-6520-421a-90b4-617df4363021
