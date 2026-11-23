@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeDomain_kapQ_isUnit
 -- name    : GlobalTheory.HodgeDomain.kapQ_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:55:15.231521+00:00
 -- url     : https://prove2.me/theorems/66565b11-5a60-4def-bc79-c224bfa6b598

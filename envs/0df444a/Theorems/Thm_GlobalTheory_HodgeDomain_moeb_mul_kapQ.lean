@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeDomain_moeb_mul_kapQ
 -- name    : GlobalTheory.HodgeDomain.moeb_mul_kapQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:55:05.037371+00:00
 -- url     : https://prove2.me/theorems/4677cad6-94de-47d2-98e9-641c4d281efa

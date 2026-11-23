@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeDomain_hP_posDef
 -- name    : GlobalTheory.HodgeDomain.hP_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:58.991614+00:00
 -- url     : https://prove2.me/theorems/31e7a08d-298b-4ce0-83f2-5964d68674a4

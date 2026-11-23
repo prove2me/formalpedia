@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBiextId_formalPointSubstitutionSeries_valueAtTwoPoints
 -- name    : GlobalTheory.FrameBiextId.formalPointSubstitutionSeries_valueAtTwoPoints
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:00:31.983721+00:00
 -- url     : https://prove2.me/theorems/3c3f4303-fc09-47bd-bfac-63eee19fb0d4

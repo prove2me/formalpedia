@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobian_pairing_tmul
 -- name    : GlobalTheory.DiscrJacobian.pairing_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:10.630474+00:00
 -- url     : https://prove2.me/theorems/6a94dc94-6110-46f8-af9b-e4def6c82b4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameLoc_contDiff_lowPart
 -- name    : GlobalTheory.FrameLoc.contDiff_lowPart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:46.001689+00:00
 -- url     : https://prove2.me/theorems/12290237-98a5-463a-9455-6845dbed4967

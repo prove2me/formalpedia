@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_eta_one
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.eta_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:51.036955+00:00
 -- url     : https://prove2.me/theorems/4a8ce4b8-f1d5-4589-a1fc-a4ce9aee2ce7

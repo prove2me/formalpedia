@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_CellChange_upper_inv
 -- name    : GlobalTheory.Reg.CellChange.upper_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:34.054833+00:00
 -- url     : https://prove2.me/theorems/35968b60-69ec-4b4d-b2c4-e1493fb87bf0

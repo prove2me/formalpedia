@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_kosBlock_one
 -- name    : GlobalTheory.KeyKa.kosBlock_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:42.446631+00:00
 -- url     : https://prove2.me/theorems/5998bc16-cac2-4c46-a301-5ee19e9635d0

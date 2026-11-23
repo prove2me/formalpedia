@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_second_axis_at_second_copy
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.second_axis_at_second_copy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:51.390581+00:00
 -- url     : https://prove2.me/theorems/4fb82354-f894-4d59-8fb4-f8d7fc044364

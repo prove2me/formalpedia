@@ -1,0 +1,43 @@
+-- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_vandermonde_place_lower_bound
+-- name    : Formalism.LogVandermondeBounds.vandermonde_place_lower_bound
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T13:14:55.492266+00:00
+-- url     : https://prove2.me/theorems/423153f1-aa98-4ac4-a4a8-8fd460188288
+-- title:
+--   Log Vandermonde Bounds: vandermonde place lower bound
+-- statement:
+--   The Log Vandermonde Bounds construction uses the vandermonde place lower bound property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LogVandermondeBounds/HookGammaAmgmMultinomialBounds.lean#L25-L25
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LogVandermondeBounds/HookGammaAmgmMultinomialBounds.lean#L25-L25
+
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_TaylorLogMetric
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_InterlacingSeparation
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_GammaIntegralPolynomialBound
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_BlockDimensionIdentities
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_CardStabilizerVector
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_PrimePowerSubgroupTrivial
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_LogVandermondeVariationUnbounded
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_InertPrimeCountBound
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_RamifiedLatticeOperatorIdentity
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_MulSingleMulApplySelf
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_FourierIsometryOnNormKernel
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_LengthQuotientLeOfLatticeSandwich
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_VandNSuccRight
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_LogRatioLowerBoundOfLogVandermondeGap
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_UpperPlaceHolds
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_LogRatioUpperBoundOfUpperPlace
+import Definitions.Def_Formalism_LogVandermondeBounds_HookGammaAmgmMultinomialBounds
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.LogVandermondeBounds
+
+theorem Formalism.LogVandermondeBounds.vandermonde_place_lower_bound : StandardLattice.LogRatioLowerBound := by sorry

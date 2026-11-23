@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_exists_one_of_inG
 -- name    : GlobalTheory.MatchTerm.exists_one_of_inG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:06:20.63318+00:00
 -- url     : https://prove2.me/theorems/01b57587-aae7-443e-b09a-697275571e1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_formal_ev_second_point_of_x_zero
 -- name    : GlobalTheory.FormalLog.formal_ev_second_point_of_x_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:01:05.908876+00:00
 -- url     : https://prove2.me/theorems/9fee30dc-ed2f-409c-8dd8-b632724ce612

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCut_isInternal_quotPiece
 -- name    : GlobalTheory.ProjCut.isInternal_quotPiece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:45.154606+00:00
 -- url     : https://prove2.me/theorems/fd25de4c-c968-4c2b-b7dc-e9fdbf821f2a

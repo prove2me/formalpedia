@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_zetaM_prim
 -- name    : GlobalTheory.LevelPairing.zetaM_prim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:55.127468+00:00
 -- url     : https://prove2.me/theorems/06cb4c2d-d983-4fe6-af94-bad2929608e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsPshC2On_mono
 -- name    : GlobalTheory.IsPshC2On.mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:45.301963+00:00
 -- url     : https://prove2.me/theorems/18a9f9e0-9c12-453a-9405-1215f979fdac

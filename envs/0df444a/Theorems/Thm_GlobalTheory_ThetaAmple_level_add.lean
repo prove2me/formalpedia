@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAmple_level_add
 -- name    : GlobalTheory.ThetaAmple.level_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:02:07.356604+00:00
 -- url     : https://prove2.me/theorems/c5927c8f-d80a-47e3-afee-3103802bd729

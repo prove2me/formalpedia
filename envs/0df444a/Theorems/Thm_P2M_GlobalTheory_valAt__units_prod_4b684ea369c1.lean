@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_valAt__units_prod_4b684ea369c1
 -- name    : P2M_GlobalTheory_valAt__units_prod_4b684ea369c1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:24:32.271459+00:00
 -- url     : https://prove2.me/theorems/a3aeeda8-0c62-44b6-aa40-718a1009a6b2

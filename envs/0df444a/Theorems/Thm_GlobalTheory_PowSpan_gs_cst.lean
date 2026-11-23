@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSpan_gs_cst
 -- name    : GlobalTheory.PowSpan.gs_cst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:58.750828+00:00
 -- url     : https://prove2.me/theorems/9ddb6025-4e8e-46e5-8cba-699f9b185e00

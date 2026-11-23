@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_Osgood_torusMap_sub_ne
 -- name    : ReciprocityTheory.AnForm.Osgood.torusMap_sub_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:04:16.655087+00:00
 -- url     : https://prove2.me/theorems/6f1aaf62-fd76-4ad7-ab98-dd7f5fc730ba

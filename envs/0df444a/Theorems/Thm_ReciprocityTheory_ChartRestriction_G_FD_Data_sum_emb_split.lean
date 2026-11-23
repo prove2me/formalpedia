@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_sum_emb_split
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.sum_emb_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:56.875129+00:00
 -- url     : https://prove2.me/theorems/7d1b2b1b-f42d-47d7-b1c8-e5259c45cf51

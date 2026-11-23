@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_stab_inj
 -- name    : Formalism.L2.Col.GSD.stab_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:11.13432+00:00
 -- url     : https://prove2.me/theorems/d0277058-63a7-41a6-b0e0-66ecbd8f364e

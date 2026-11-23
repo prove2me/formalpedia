@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_inT_tor
 -- name    : GlobalTheory.MatchTerm.inT_tor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:16.958796+00:00
 -- url     : https://prove2.me/theorems/5e9d74f9-6273-4632-9f91-6954313fdc85

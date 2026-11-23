@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_IW_orth_mem_dom
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.IW.orth_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:29.507534+00:00
 -- url     : https://prove2.me/theorems/6c680295-53dc-409a-bf6a-72edb39bdfc3

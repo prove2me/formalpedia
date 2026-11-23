@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryQuasiReflection_laws
 -- name    : GlobalTheory.T.unitaryQuasiReflection_laws
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:02.161999+00:00
 -- url     : https://prove2.me/theorems/e10a06fb-c6f7-4c82-8c5f-7d7e2f9a2cbd

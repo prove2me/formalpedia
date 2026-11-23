@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fourier_extraction_tsum_class
 -- name    : GlobalTheory.fourier_extraction_tsum_class
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:52:13.128906+00:00
 -- url     : https://prove2.me/theorems/df01650b-739d-4a9d-9e0c-5cf02614fa51

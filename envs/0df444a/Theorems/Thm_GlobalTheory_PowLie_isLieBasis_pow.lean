@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowLie_isLieBasis_pow
 -- name    : GlobalTheory.PowLie.isLieBasis_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:35.232653+00:00
 -- url     : https://prove2.me/theorems/f4c61400-ee40-4030-bc3f-c888a2c42f05

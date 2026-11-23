@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiQuadratic_main
 -- name    : GlobalTheory.PsiQuadratic.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:44:41.024164+00:00
 -- url     : https://prove2.me/theorems/589ba254-c11b-4918-a213-cd91814e7302

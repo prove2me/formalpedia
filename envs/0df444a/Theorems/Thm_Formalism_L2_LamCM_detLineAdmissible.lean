@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_detLineAdmissible
 -- name    : Formalism.L2.LamCM.detLineAdmissible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:35.431054+00:00
 -- url     : https://prove2.me/theorems/223428c3-4488-4564-abfe-7ccbba7722d9

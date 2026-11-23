@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelBasis_exists_affine_le
 -- name    : GlobalTheory.RelBasis.exists_affine_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:32.272848+00:00
 -- url     : https://prove2.me/theorems/3ae729c8-4d05-4e82-8d71-b7f6cd00f208

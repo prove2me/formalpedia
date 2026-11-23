@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_weierstrassP_eq_and_derivWeierstrassP_eq
 -- name    : GlobalTheory.exists_weierstrassP_eq_and_derivWeierstrassP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:24:33.797809+00:00
 -- url     : https://prove2.me/theorems/1f3882cf-173f-42b0-8369-0f97d6671167

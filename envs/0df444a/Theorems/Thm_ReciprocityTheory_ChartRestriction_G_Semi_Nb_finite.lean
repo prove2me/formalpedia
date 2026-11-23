@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Nb_finite
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Nb.finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:07.704804+00:00
 -- url     : https://prove2.me/theorems/123da1d1-fe55-485e-a6ac-27141b24607d

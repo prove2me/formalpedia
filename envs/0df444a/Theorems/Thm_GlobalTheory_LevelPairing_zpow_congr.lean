@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_zpow_congr
 -- name    : GlobalTheory.LevelPairing.zpow_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:46.952749+00:00
 -- url     : https://prove2.me/theorems/bdbcb965-7df0-4505-b92d-95776c2d879e

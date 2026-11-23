@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_exists_tor_of_inT
 -- name    : GlobalTheory.MatchTerm.exists_tor_of_inT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:46.284818+00:00
 -- url     : https://prove2.me/theorems/b5de30fc-0d56-4052-933e-fe289a2f7b8e

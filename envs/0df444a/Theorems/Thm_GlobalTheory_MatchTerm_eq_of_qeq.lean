@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_eq_of_qeq
 -- name    : GlobalTheory.MatchTerm.eq_of_qeq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:06:23.973888+00:00
 -- url     : https://prove2.me/theorems/cf6b032e-1387-421b-946a-fbddf85b5211

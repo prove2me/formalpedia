@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlowCoefficientBounds_nfac_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlowCoefficientBounds.nfac_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:15:56.841708+00:00
 -- url     : https://prove2.me/theorems/b29e1732-17d3-4813-9620-0669430e37d1

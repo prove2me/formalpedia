@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpenImmersion_of_quasiFinite_of_isIso_stalkMap
 -- name    : GlobalTheory.isOpenImmersion_of_quasiFinite_of_isIso_stalkMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:23.356859+00:00
 -- url     : https://prove2.me/theorems/df7c4e2b-15ae-4e3a-864f-7ae3af5c7b8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_A2_detIdeal_ne_zero
 -- name    : Formalism.L2.LamCM.A2.detIdeal_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:46.55478+00:00
 -- url     : https://prove2.me/theorems/93040544-c47e-4e49-ae68-bb9d27d0b6fd

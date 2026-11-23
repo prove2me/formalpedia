@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarLevel_periodic
 -- name    : GlobalTheory.SW.HaarLevel.periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:33.643825+00:00
 -- url     : https://prove2.me/theorems/2fe22c58-ee9d-4bf8-afa6-783c3302dfad

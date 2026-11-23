@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidIsoCube_surjective_snd_of_generic
 -- name    : GlobalTheory.RigidIsoCube.surjective_snd_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:11.714778+00:00
 -- url     : https://prove2.me/theorems/e52cb25e-abd3-4ac7-9ba4-d3da73001c1e

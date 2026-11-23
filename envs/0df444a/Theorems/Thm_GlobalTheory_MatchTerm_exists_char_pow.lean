@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_exists_char_pow
 -- name    : GlobalTheory.MatchTerm.exists_char_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:06:11.860492+00:00
 -- url     : https://prove2.me/theorems/fafa8120-d264-4252-aa8b-53aea73e0b49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_cube_one_left
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.cube_one_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:48.364808+00:00
 -- url     : https://prove2.me/theorems/f8eb1184-f9c7-47df-82e2-fd63b26ec97b

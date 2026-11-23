@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topologicalKrullDim_eq_of_forall_exists_isOpen
 -- name    : GlobalTheory.topologicalKrullDim_eq_of_forall_exists_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:55:00.104035+00:00
 -- url     : https://prove2.me/theorems/c4f552ce-71a7-49c5-b34b-cc0fb85d04c5

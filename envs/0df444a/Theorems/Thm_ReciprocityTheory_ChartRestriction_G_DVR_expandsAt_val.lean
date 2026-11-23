@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_expandsAt_val
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.expandsAt_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:03:43.379353+00:00
 -- url     : https://prove2.me/theorems/d6d22ccf-cfe5-4c7f-90d4-76b3cc916cef

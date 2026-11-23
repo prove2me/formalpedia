@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_isHermitian_subGram
 -- name    : GlobalTheory.HermFrame.isHermitian_subGram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:47.248893+00:00
 -- url     : https://prove2.me/theorems/6d2e71df-d211-442b-9933-7d906b111bc1

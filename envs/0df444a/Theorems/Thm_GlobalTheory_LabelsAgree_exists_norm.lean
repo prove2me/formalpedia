@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_exists_norm
 -- name    : GlobalTheory.LabelsAgree.exists_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:06:08.382096+00:00
 -- url     : https://prove2.me/theorems/59449b72-956c-4212-baf6-0f4834db08ac

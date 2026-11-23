@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIso_fromNormalization_of_birational
 -- name    : GlobalTheory.isIso_fromNormalization_of_birational
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:05:06.647492+00:00
 -- url     : https://prove2.me/theorems/cc8cdff1-7315-4c29-8abc-60922d5dae6b

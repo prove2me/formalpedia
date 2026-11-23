@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_ez_F
 -- name    : GlobalTheory.FormalLog.ez_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:14.556343+00:00
 -- url     : https://prove2.me/theorems/8bf46ca8-911a-4dd9-b1f4-27af7e916767

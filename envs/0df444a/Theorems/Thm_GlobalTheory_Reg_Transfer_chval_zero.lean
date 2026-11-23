@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_chval_zero
 -- name    : GlobalTheory.Reg.Transfer.chval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:06:56.282922+00:00
 -- url     : https://prove2.me/theorems/f5f92d39-45c5-4ba5-a214-5c30f45d91ad

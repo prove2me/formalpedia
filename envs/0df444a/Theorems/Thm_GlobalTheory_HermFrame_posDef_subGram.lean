@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_posDef_subGram
 -- name    : GlobalTheory.HermFrame.posDef_subGram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:59.104149+00:00
 -- url     : https://prove2.me/theorems/740c3f86-9784-4bb0-bbed-28b5c15c06ea

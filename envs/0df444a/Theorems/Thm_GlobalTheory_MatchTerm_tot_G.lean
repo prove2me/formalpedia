@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_tot_G
 -- name    : GlobalTheory.MatchTerm.tot_G
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:27.674402+00:00
 -- url     : https://prove2.me/theorems/d5f3de30-fecd-42ac-af44-82c228bbd233

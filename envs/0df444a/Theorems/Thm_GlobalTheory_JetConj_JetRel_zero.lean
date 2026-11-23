@@ -1,0 +1,30 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_JetConj_JetRel_zero
+-- name    : GlobalTheory.JetConj.JetRel.zero
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T13:11:19.307248+00:00
+-- url     : https://prove2.me/theorems/92a22fb4-a647-45d3-a6d6-0c01fa3cb1b5
+-- title:
+--   Jet Rel: zero
+-- statement:
+--   The Jet Rel construction uses the zero property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FoundationProofs/JetRelOfWeierstrassSystem.lean#L60-L60
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FoundationProofs/JetRelOfWeierstrassSystem.lean#L60-L60
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FoundationProofs_JetRelOfWeierstrassSystem
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Filter Topology
+open GlobalTheory GlobalTheory.JetConj
+variable {S : Subring (ℂ × ℂ)} {f f' g g' h h' : ℂ → ℂ}
+
+theorem GlobalTheory.JetConj.JetRel.zero (H : JetRel S f f') : (f 0, f' 0) ∈ S := by sorry

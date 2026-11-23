@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronMetric_inv_rmul
 -- name    : GlobalTheory.KronMetric.inv_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:58.655281+00:00
 -- url     : https://prove2.me/theorems/ab3e1bda-10e3-45cd-82a2-1735654d4e3a

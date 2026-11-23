@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_valT_sec
 -- name    : GlobalTheory.KaUnique.valT_sec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:23.604068+00:00
 -- url     : https://prove2.me/theorems/6d25cb34-1de2-4202-83d3-3f83099a94af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_chval_fin_inv
 -- name    : GlobalTheory.Reg.Transfer.chval_fin_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:36.440313+00:00
 -- url     : https://prove2.me/theorems/83bb5ec8-3c41-4dee-93a1-5a636a69b0c0

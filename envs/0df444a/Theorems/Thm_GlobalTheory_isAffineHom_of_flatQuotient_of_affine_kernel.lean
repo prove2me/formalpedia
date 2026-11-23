@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isAffineHom_of_flatQuotient_of_affine_kernel
 -- name    : GlobalTheory.isAffineHom_of_flatQuotient_of_affine_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:44:13.628377+00:00
 -- url     : https://prove2.me/theorems/de7e0bcc-4a32-4368-8b37-267885dc0ccf

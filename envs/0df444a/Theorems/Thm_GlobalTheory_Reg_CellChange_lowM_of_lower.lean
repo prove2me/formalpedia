@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_CellChange_lowM_of_lower
 -- name    : GlobalTheory.Reg.CellChange.lowM_of_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:43.561006+00:00
 -- url     : https://prove2.me/theorems/eaec0ac6-ed14-4159-9d86-6ba80c88ad1e

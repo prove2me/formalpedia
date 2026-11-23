@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LinChange_exists_basis
 -- name    : GlobalTheory.SW.LinChange.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:30.194796+00:00
 -- url     : https://prove2.me/theorems/48bf612d-88bc-4094-b253-8507f344b632

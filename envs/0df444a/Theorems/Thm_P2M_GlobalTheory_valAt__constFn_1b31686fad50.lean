@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_valAt__constFn_1b31686fad50
 -- name    : P2M_GlobalTheory_valAt__constFn_1b31686fad50
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:55:46.920534+00:00
 -- url     : https://prove2.me/theorems/2819dd37-b5a0-4b68-a6d1-30341a20247b

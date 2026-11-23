@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobian_exists_eq_C_add_sum
 -- name    : GlobalTheory.DiscrJacobian.exists_eq_C_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:17.751803+00:00
 -- url     : https://prove2.me/theorems/2c038f4b-765e-4bc9-b251-f67d66bc6dda

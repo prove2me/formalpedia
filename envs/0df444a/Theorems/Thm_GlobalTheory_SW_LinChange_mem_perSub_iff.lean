@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LinChange_mem_perSub_iff
 -- name    : GlobalTheory.SW.LinChange.mem_perSub_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:53:17.672586+00:00
 -- url     : https://prove2.me/theorems/d8b81c2a-02c7-489d-910a-c3720953a05c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lineDerivList_zero
 -- name    : GlobalTheory.lineDerivList_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:40.387007+00:00
 -- url     : https://prove2.me/theorems/40195612-eb1e-41c3-8c06-b946059f30c1

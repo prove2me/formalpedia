@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelBasis_affine_gs_appLE
 -- name    : GlobalTheory.RelBasis.affine_gs_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:38.813773+00:00
 -- url     : https://prove2.me/theorems/459859e6-41a2-4cd5-8dd7-6b3d461eb223

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameLoc_lowPart_apply
 -- name    : GlobalTheory.FrameLoc.lowPart_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:01.432074+00:00
 -- url     : https://prove2.me/theorems/bbb79c95-4e70-4e1b-9045-08c60fa9ca6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajorantContinuity_maj_at_zero
 -- name    : GlobalTheory.MajorantContinuity.maj_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:06:45.66281+00:00
 -- url     : https://prove2.me/theorems/fc2d1eec-d0f2-4fb1-8b83-6b3b70ef1578

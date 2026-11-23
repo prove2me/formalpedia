@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_fst_translate
 -- name    : GlobalTheory.KaUnique.fst_translate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:20.424089+00:00
 -- url     : https://prove2.me/theorems/9c3e35f1-eb82-4e0e-86f3-e4ef564d7f11

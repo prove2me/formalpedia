@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_A2_detSub_isFractional
 -- name    : Formalism.L2.LamCM.A2.detSub_isFractional
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:04.438952+00:00
 -- url     : https://prove2.me/theorems/0f3ce4aa-3d5e-4851-887b-e1aa6103bc90

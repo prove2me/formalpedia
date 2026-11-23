@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_kosBlock_graded
 -- name    : GlobalTheory.KeyKa.kosBlock_graded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:29.705867+00:00
 -- url     : https://prove2.me/theorems/1122fd97-0a39-4597-99c5-e27ad82de4ba

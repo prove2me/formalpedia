@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_finrank_pos_real
 -- name    : Formalism.L2.LamCM.finrank_pos_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:30.620702+00:00
 -- url     : https://prove2.me/theorems/6e7e2aba-2ad0-449d-ab37-c12249410864

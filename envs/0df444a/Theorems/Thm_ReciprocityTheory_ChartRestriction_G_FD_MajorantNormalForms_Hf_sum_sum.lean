@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantNormalForms_Hf_sum_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantNormalForms.Hf_sum_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:06:03.845489+00:00
 -- url     : https://prove2.me/theorems/75123b70-08f7-4bdf-aacb-a0a4c92ab93f

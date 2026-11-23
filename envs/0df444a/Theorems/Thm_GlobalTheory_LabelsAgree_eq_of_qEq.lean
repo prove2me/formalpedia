@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_eq_of_qEq
 -- name    : GlobalTheory.LabelsAgree.eq_of_qEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:06:31.828767+00:00
 -- url     : https://prove2.me/theorems/f32e7a25-e6ba-4398-a6bf-a838e0450cf4
