@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_leads_to_trans
 -- name    : leads_to_trans
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:28:29.245356+00:00
 -- url     : https://prove2.me/theorems/e26085e3-dae6-4a7b-a49c-ade6d624ff79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_na_FinRun_fixSuffix
 -- name    : Automata.na_FinRun_fixSuffix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:22:03.829002+00:00
 -- url     : https://prove2.me/theorems/255a7b25-f5c6-4322-9955-ad012926bb5e

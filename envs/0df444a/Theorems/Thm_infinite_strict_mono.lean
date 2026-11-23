@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_infinite_strict_mono
 -- name    : infinite_strict_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:22:27.188265+00:00
 -- url     : https://prove2.me/theorems/3a2e94fb-0e90-4c8e-a5ae-5104b3b29ccd

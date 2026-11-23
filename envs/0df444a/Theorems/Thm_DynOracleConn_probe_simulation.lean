@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynOracleConn_probe_simulation
 -- name    : DynOracleConn.probe_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:52:11.779339+00:00
 -- url     : https://prove2.me/theorems/4d1fc7ad-dcfe-4abd-86da-22cca56d2d14

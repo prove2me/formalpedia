@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IterOmega_IterStar
 -- name    : IterOmega_IterStar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:25:02.965335+00:00
 -- url     : https://prove2.me/theorems/c218e37e-8a02-468b-98ef-df86656b48cf

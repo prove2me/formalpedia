@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_isLattice_span_image_alt
 -- name    : Formalism.LatticeBaseChangeAlt.isLattice_span_image_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:41:02.329679+00:00
 -- url     : https://prove2.me/theorems/58b65c1d-36ac-480a-94c6-c59a8bceb064

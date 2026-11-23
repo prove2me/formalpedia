@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_det_muller_accept_boolean_form
 -- name    : Automata.det_muller_accept_boolean_form
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:26:31.114727+00:00
 -- url     : https://prove2.me/theorems/eca9302d-1004-446f-8253-a9a340a1270d

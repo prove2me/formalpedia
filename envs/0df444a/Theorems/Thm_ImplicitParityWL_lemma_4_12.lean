@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImplicitParityWL_lemma_4_12
 -- name    : ImplicitParityWL.lemma_4_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:10:47.042001+00:00
 -- url     : https://prove2.me/theorems/1975e062-24c2-429a-a635-326903f4427d

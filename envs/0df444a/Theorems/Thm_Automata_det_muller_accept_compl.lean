@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_det_muller_accept_compl
 -- name    : Automata.det_muller_accept_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:26:11.265883+00:00
 -- url     : https://prove2.me/theorems/be4da118-e46f-4066-9182-47e262348ab8

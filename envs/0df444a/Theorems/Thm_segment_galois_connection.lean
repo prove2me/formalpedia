@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_segment_galois_connection
 -- name    : segment_galois_connection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:22:57.099158+00:00
 -- url     : https://prove2.me/theorems/dd2e29fe-236c-4f26-bd64-03285a46505b

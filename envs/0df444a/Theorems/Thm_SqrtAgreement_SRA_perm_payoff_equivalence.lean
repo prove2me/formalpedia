@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SqrtAgreement_SRA_perm_payoff_equivalence
 -- name    : SqrtAgreement.SRA.perm_payoff_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:43.384495+00:00
 -- url     : https://prove2.me/theorems/05624811-9040-4de1-a611-5c69c924792c

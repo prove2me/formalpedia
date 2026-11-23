@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRSubmodHull_lemma_3_3_concave_nonneg_direction
 -- name    : DRSubmodHull.lemma_3_3_concave_nonneg_direction
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:24:14.693508+00:00
 -- url     : https://prove2.me/theorems/60077376-824f-4182-8305-8ec9f8dd54de

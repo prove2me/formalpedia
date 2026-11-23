@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_InvIntP_integral_pow
 -- name    : Formalism.LT.InvIntP.integral_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:00:30.953799+00:00
 -- url     : https://prove2.me/theorems/dbb8dfd6-e89e-41a8-8b60-48d2c8c9f067

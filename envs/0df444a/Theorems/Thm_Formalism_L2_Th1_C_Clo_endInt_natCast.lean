@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Clo_endInt_natCast
 -- name    : Formalism.L2.Th1.C.Clo.endInt_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:37.371612+00:00
 -- url     : https://prove2.me/theorems/274c8d7d-2e72-4bc2-9ca2-36be309a28e0

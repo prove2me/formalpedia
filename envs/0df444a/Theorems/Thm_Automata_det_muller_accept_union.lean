@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_det_muller_accept_union
 -- name    : Automata.det_muller_accept_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:28:05.194916+00:00
 -- url     : https://prove2.me/theorems/2ca4b857-5f29-48bd-a3a8-547d78c49aa0

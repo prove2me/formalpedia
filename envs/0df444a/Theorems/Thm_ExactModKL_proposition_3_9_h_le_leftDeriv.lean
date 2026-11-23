@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactModKL_proposition_3_9_h_le_leftDeriv
 -- name    : ExactModKL.proposition_3_9_h_le_leftDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:57:38.262369+00:00
 -- url     : https://prove2.me/theorems/3b2b0723-81c2-499d-b407-944793834f63

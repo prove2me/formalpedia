@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_ValueOfInfo_evpi_vss_zero_of_deterministic
 -- name    : KallMayerSLP.ValueOfInfo.evpi_vss_zero_of_deterministic
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:16:51.976695+00:00
 -- url     : https://prove2.me/theorems/2b5b8fc3-dd11-46b1-b975-f5f4ee69a5d7

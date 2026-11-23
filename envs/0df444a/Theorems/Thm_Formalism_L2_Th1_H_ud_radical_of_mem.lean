@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_ud_radical_of_mem
 -- name    : Formalism.L2.Th1.H.ud_radical_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:11.571723+00:00
 -- url     : https://prove2.me/theorems/00e1df3f-cfb5-4792-856a-8ade6c25cd7e

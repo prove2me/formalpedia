@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_product_of_jets
 -- name    : Formalism.HermitianLattices.TraceIntegrality.product_of_jets
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:40:25.559795+00:00
 -- url     : https://prove2.me/theorems/f50a5eb2-cfd0-4009-b9b7-2437bdab1eff

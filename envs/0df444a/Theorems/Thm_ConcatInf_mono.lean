@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConcatInf_mono
 -- name    : ConcatInf_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:24:40.283517+00:00
 -- url     : https://prove2.me/theorems/5b095170-75ef-43a7-b1d2-d9d1eac9bea3

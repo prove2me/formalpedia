@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskBargaining_split_admissible_z
 -- name    : RiskBargaining.split_admissible_z
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:30:43.985847+00:00
 -- url     : https://prove2.me/theorems/ec8d72e6-6627-462e-b373-06a4952d7f92

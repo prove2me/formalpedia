@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_AnalyticIdentityTheoremsZetaFacts_zetaExcept_zero_add
 -- name    : Formalism.L2.Th1.F.AnalyticIdentityTheoremsZetaFacts.zetaExcept_zero_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:24:12.464587+00:00
 -- url     : https://prove2.me/theorems/a595d024-110e-483d-bb6e-af600d2228cf

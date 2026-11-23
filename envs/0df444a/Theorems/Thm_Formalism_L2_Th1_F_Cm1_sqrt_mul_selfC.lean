@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Cm1_sqrt_mul_selfC
 -- name    : Formalism.L2.Th1.F.Cm1.sqrt_mul_selfC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:25:07.136461+00:00
 -- url     : https://prove2.me/theorems/de13a58c-60e7-498b-adfa-15e248123fac

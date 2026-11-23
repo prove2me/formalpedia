@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_segment_plus_one
 -- name    : segment_plus_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:22:29.127939+00:00
 -- url     : https://prove2.me/theorems/1b90ac68-1ae7-4b22-a1a1-165b960e2e98

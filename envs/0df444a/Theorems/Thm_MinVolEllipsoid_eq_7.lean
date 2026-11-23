@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinVolEllipsoid_eq_7
 -- name    : MinVolEllipsoid.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:45:38.788516+00:00
 -- url     : https://prove2.me/theorems/f0273e8d-a835-45c1-a142-429982e404f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_subset_IterStar_epsilon
 -- name    : subset_IterStar_epsilon
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:24:48.477899+00:00
 -- url     : https://prove2.me/theorems/99d59386-5c0d-4bc1-a49a-34caa02ebaa8

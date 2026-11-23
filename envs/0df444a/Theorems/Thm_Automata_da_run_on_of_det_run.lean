@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_da_run_on_of_det_run
 -- name    : Automata.da_run_on_of_det_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:19:39.544683+00:00
 -- url     : https://prove2.me/theorems/4e4d1f73-155d-455d-bb02-cfc570ec5ce3

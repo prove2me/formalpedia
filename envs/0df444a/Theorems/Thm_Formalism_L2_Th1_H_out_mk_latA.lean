@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_out_mk_latA
 -- name    : Formalism.L2.Th1.H.out_mk_latA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:45.555877+00:00
 -- url     : https://prove2.me/theorems/b39ea540-12cd-4589-900d-c12dd6a15cd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortBroadcastDom_corollary_6_11_integral_vs_fractional
 -- name    : ShortBroadcastDom.corollary_6_11_integral_vs_fractional
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:27:05.811838+00:00
 -- url     : https://prove2.me/theorems/67ab6a1b-e5f9-4d87-ba7d-6ae304faff84

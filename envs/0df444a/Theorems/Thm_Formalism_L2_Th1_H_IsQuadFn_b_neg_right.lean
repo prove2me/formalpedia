@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_IsQuadFn_b_neg_right
 -- name    : Formalism.L2.Th1.H.IsQuadFn.b_neg_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:12.772141+00:00
 -- url     : https://prove2.me/theorems/3e1bee8f-e93d-41bf-9b8f-dc300e1d7d41

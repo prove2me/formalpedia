@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_inf_occ_proj
 -- name    : inf_occ_proj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:25:36.417776+00:00
 -- url     : https://prove2.me/theorems/f47b1b2f-9d92-442a-bba8-56a0e81b5153

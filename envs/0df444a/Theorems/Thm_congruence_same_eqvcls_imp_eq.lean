@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_congruence_same_eqvcls_imp_eq
 -- name    : congruence_same_eqvcls_imp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:25:30.135259+00:00
 -- url     : https://prove2.me/theorems/c05912e7-70e0-4a1e-a1c3-50d7dad60b5a

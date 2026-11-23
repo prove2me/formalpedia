@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaAdditionFormula_additionQuotient_periodic
 -- name    : Formalism.L2.Th1.F.SigmaAdditionFormula.additionQuotient_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:26:44.933111+00:00
 -- url     : https://prove2.me/theorems/1c1b38e8-9c26-440a-a81b-63f09302cc86

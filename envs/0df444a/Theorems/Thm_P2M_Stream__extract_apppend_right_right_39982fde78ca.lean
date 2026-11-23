@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Stream__extract_apppend_right_right_39982fde78ca
 -- name    : P2M_Stream__extract_apppend_right_right_39982fde78ca
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:21:12.30761+00:00
 -- url     : https://prove2.me/theorems/a48ecb74-fd7b-4469-95ca-c395db503bfd

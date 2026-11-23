@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mem_ConcatInf_IterOmega
 -- name    : mem_ConcatInf_IterOmega
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:19:21.423341+00:00
 -- url     : https://prove2.me/theorems/5fcd514e-c505-4c89-84c2-9c15b3a9fe3c

@@ -66126,9 +66126,9 @@
 {"parent": "AvramDividend.Classical.avram_bvb22_original_zero_marks_ruin_contact_compensator_cash", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32988", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30023", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "MLManagesComplexity.theorem_6_3", "child": "MLManagesComplexity_PolyMaxEntropy", "via": ["statement"]}
-{"parent": "MLManagesComplexity.theorem_6_3", "child": "MLManagesComplexity_PPolyComputable", "via": ["statement"]}
-{"parent": "MLManagesComplexity.theorem_6_3", "child": "MLManagesComplexity_IsCryptoPRG", "via": ["statement"]}
+{"parent": "MLManagesComplexity.theorem_6_3", "child": "MLManagesComplexity_PolyMaxEntropy", "via": ["solution", "statement"]}
+{"parent": "MLManagesComplexity.theorem_6_3", "child": "MLManagesComplexity_PPolyComputable", "via": ["solution", "statement"]}
+{"parent": "MLManagesComplexity.theorem_6_3", "child": "MLManagesComplexity_IsCryptoPRG", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37929", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30175", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32070", "child": "OAIQ259US007", "via": ["statement"]}

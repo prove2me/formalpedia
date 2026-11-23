@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LatticeToWeightTransfer_Model_slopes
 -- name    : Formalism.LFunctionChainParameters.LatticeToWeightTransfer.Model.slopes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:00:49.24248+00:00
 -- url     : https://prove2.me/theorems/accdb21c-9891-419a-9a03-77930d38d872

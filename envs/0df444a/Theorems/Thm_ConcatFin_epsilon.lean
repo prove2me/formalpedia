@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConcatFin_epsilon
 -- name    : ConcatFin_epsilon
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:24:06.023401+00:00
 -- url     : https://prove2.me/theorems/5abb8a10-58db-4556-bbf0-1da4b3de6d7b

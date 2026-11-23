@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_zeta_summable
 -- name    : Formalism.L2.Th1.F.zeta_summable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:32.854173+00:00
 -- url     : https://prove2.me/theorems/ad3e741d-2fa0-412d-9dbd-25f8dd7b1dbb

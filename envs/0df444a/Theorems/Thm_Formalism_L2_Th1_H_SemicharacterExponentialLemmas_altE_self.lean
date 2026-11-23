@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_SemicharacterExponentialLemmas_altE_self
 -- name    : Formalism.L2.Th1.H.SemicharacterExponentialLemmas.altE_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:19.440309+00:00
 -- url     : https://prove2.me/theorems/58936b8f-7ee3-46f5-94b7-6bd9fb5170ec

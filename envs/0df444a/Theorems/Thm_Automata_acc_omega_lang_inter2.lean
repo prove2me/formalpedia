@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_acc_omega_lang_inter2
 -- name    : Automata.acc_omega_lang_inter2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:28:58.412665+00:00
 -- url     : https://prove2.me/theorems/58f170cd-b2cc-4f65-9cd0-4c4691ae8df9

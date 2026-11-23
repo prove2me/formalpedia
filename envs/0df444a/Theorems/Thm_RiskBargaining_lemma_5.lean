@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskBargaining_lemma_5
 -- name    : RiskBargaining.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:30:40.108272+00:00
 -- url     : https://prove2.me/theorems/02cd1f83-43fe-41a0-bef5-0cf47a615a93

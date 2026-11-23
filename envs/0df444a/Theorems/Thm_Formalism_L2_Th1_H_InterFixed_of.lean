@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_InterFixed_of
 -- name    : Formalism.L2.Th1.H.InterFixed_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:55.423988+00:00
 -- url     : https://prove2.me/theorems/41e19cf1-810b-43d6-98d9-cfef9280d6ca

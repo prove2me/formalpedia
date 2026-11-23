@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_da_acc_lang_compl
 -- name    : Automata.da_acc_lang_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:26:01.308391+00:00
 -- url     : https://prove2.me/theorems/af232d6b-80aa-4e58-9541-a9ef4cfa56ff

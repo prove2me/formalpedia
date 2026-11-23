@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_reg_lang_inter
 -- name    : reg_lang_inter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:16:58.357716+00:00
 -- url     : https://prove2.me/theorems/02079d8b-f2f1-4e17-a5f3-25211c669af1

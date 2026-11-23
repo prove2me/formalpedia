@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_re_swap
 -- name    : Formalism.L2.Th1.H.re_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:41.847061+00:00
 -- url     : https://prove2.me/theorems/2c58d64e-7fdd-4da1-a66d-f72fbc3c73a2

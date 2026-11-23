@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_InterTh_of
 -- name    : Formalism.L2.Th1.H.InterTh_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:55.93346+00:00
 -- url     : https://prove2.me/theorems/0b176260-f00b-4767-b790-017d4744e8aa

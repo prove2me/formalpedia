@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_acc_lang_concat_ne
 -- name    : Automata.acc_lang_concat_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:19:25.851528+00:00
 -- url     : https://prove2.me/theorems/d86d95be-4f62-412b-aa9b-afb6739bf2e6

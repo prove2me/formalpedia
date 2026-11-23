@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_empty_ConcatInf
 -- name    : empty_ConcatInf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:24:36.945801+00:00
 -- url     : https://prove2.me/theorems/2fc2a397-cf52-4cd7-8ff3-58ce9e2ee001

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Stream__extract_succ_right__dce2e16ca09b
 -- name    : P2M_Stream__extract_succ_right__dce2e16ca09b
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:18:24.46761+00:00
 -- url     : https://prove2.me/theorems/c51bc971-ac22-49f1-9735-1bd044df4faa

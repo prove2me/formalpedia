@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_da_acc_lang_iff_run_acc
 -- name    : Automata.da_acc_lang_iff_run_acc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:14:21.670569+00:00
 -- url     : https://prove2.me/theorems/d7c8c476-71a5-439f-bf17-c4e686680907

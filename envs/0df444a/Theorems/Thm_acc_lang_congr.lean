@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_acc_lang_congr
 -- name    : acc_lang_congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:26:43.122128+00:00
 -- url     : https://prove2.me/theorems/1db29f28-4469-4449-a93e-4be15d4d3925

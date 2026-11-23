@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_hsSq_conjTranspose
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.hsSq_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:32.918552+00:00
 -- url     : https://prove2.me/theorems/aaf95569-cf40-4f2d-8aba-c89bc5a7884b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_OperatorUThetaLemmas_altE_swap
 -- name    : Formalism.L2.Th1.F.OperatorUThetaLemmas.altE_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:49:20.266263+00:00
 -- url     : https://prove2.me/theorems/0e867e94-4d5c-4c82-a7bb-1db7079a491e

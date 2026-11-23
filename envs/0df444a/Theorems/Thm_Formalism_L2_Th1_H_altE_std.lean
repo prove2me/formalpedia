@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_altE_std
 -- name    : Formalism.L2.Th1.H.altE_std
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:19.588269+00:00
 -- url     : https://prove2.me/theorems/65c1bc1b-869e-48be-bca1-f64fc2bf89eb

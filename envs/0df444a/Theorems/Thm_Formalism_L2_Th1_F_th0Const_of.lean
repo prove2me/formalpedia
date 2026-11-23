@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_th0Const_of
 -- name    : Formalism.L2.Th1.F.th0Const_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:39.855746+00:00
 -- url     : https://prove2.me/theorems/d5aff83c-cac7-499c-baf1-0c86a55f9235

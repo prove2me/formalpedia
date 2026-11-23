@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_exp_neg_le_factorial_div
 -- name    : Formalism.L2.Th1.H.exp_neg_le_factorial_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:27.840304+00:00
 -- url     : https://prove2.me/theorems/e4afb0a8-a24f-4e38-8a1f-663b10e34949

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_reg_lang_det_accept
 -- name    : reg_lang_det_accept
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:17:01.66295+00:00
 -- url     : https://prove2.me/theorems/44a74c66-bc38-4ba6-b483-ce0f11b18d1f

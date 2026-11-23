@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Automata_na_FinAccept_of_FinAccept__3d26c8363d5d
 -- name    : P2M_Automata_na_FinAccept_of_FinAccept__3d26c8363d5d
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:21:41.880453+00:00
 -- url     : https://prove2.me/theorems/95f48b44-33e7-46a7-9bde-66bba5085e2c

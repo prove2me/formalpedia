@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Clo_addDefect_add_right
 -- name    : Formalism.L2.Th1.C.Clo.addDefect_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:27.124631+00:00
 -- url     : https://prove2.me/theorems/2bcf2501-d9ea-44e3-a05a-176b9e97124a

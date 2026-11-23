@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_selection_seq_prop__c83e968fc7f1
 -- name    : P2M_selection_seq_prop__c83e968fc7f1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:09:16.318136+00:00
 -- url     : https://prove2.me/theorems/c5df430a-ac6d-45bd-b30e-c9672a6e67ac

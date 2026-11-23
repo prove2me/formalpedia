@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Stream__drop_append_of_ge_length_8fcd0b978030
 -- name    : P2M_Stream__drop_append_of_ge_length_8fcd0b978030
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:20:55.71479+00:00
 -- url     : https://prove2.me/theorems/f120bf86-463b-45cb-9a43-23abfd5293b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_isPt_flin
 -- name    : Formalism.L2.Th1.C.Pts.isPt_flin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:23:53.817016+00:00
 -- url     : https://prove2.me/theorems/90f83a70-d8d5-43be-8ce0-083c27122f2c

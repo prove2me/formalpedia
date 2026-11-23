@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_isPt_fmul
 -- name    : Formalism.L2.Th1.C.Pts.isPt_fmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:13:34.377179+00:00
 -- url     : https://prove2.me/theorems/dab3fbad-d3b9-4bb6-b40f-9858f4fe8a8e

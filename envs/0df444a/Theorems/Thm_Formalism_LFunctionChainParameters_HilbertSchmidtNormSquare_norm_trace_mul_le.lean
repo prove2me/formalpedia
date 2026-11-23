@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_norm_trace_mul_le
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.norm_trace_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:39.869837+00:00
 -- url     : https://prove2.me/theorems/1ff8207f-0bea-4ec6-8a7c-397718ea6ce0

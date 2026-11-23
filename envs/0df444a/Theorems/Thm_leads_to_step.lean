@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_leads_to_step
 -- name    : leads_to_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:28:31.257822+00:00
 -- url     : https://prove2.me/theorems/2007f105-f586-4599-a490-67f3738c10df

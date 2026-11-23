@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_Tup_good
 -- name    : Formalism.L2.DIV.Tup.good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:25:43.3158+00:00
 -- url     : https://prove2.me/theorems/f5d9d55c-7698-49a9-8cfd-44df61a5a4eb

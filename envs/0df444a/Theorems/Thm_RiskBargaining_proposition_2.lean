@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskBargaining_proposition_2
 -- name    : RiskBargaining.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:29:46.411019+00:00
 -- url     : https://prove2.me/theorems/b3648d1d-8579-4462-8c3b-fd2b361e6eda

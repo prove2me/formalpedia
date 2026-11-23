@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Automata_na_FinRun_of_FinRun__1438a22cbb33
 -- name    : P2M_Automata_na_FinRun_of_FinRun__1438a22cbb33
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:21:42.565826+00:00
 -- url     : https://prove2.me/theorems/e021fa19-4532-4054-92fb-b584ec7c7276

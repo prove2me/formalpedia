@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_acc_lang_loop_concat
 -- name    : Automata.acc_lang_loop_concat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:28:04.664799+00:00
 -- url     : https://prove2.me/theorems/5328953d-7f9b-4cf1-97c1-ca1946cd5062

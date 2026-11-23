@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_segment__lower_bound_1c7600654899
 -- name    : P2M_segment__lower_bound_1c7600654899
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:24:03.142586+00:00
 -- url     : https://prove2.me/theorems/9a75cc41-d5b9-476c-96de-dea0809e0380

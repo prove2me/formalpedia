@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Cm1_theta_sq
 -- name    : Formalism.L2.Th1.F.Cm1.theta_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:58:32.87627+00:00
 -- url     : https://prove2.me/theorems/d7fcca83-98b5-42f4-90eb-86399bff5921

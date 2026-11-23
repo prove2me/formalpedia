@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowSparsSchur_Main_lemma_7_3
 -- name    : FlowSparsSchur.Main.lemma_7_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T01:24:56.509114+00:00
 -- url     : https://prove2.me/theorems/beb0ae17-079d-4152-8fde-81e270a288a4

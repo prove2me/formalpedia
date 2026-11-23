@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_isSemiChar_congr
 -- name    : Formalism.L2.Th1.H.isSemiChar_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:27.373422+00:00
 -- url     : https://prove2.me/theorems/e00e268b-5ebc-4173-8511-ee6b0a8ef4e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IterFin_seg_exists
 -- name    : IterFin_seg_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:24:51.133818+00:00
 -- url     : https://prove2.me/theorems/7f4667e2-efb3-45cf-acc4-86d462331f77

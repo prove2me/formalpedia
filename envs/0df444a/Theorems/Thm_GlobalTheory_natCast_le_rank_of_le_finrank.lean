@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_natCast_le_rank_of_le_finrank
 -- name    : GlobalTheory.natCast_le_rank_of_le_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:32.018853+00:00
 -- url     : https://prove2.me/theorems/919efc91-26b2-4dab-ab6c-ace633677b97

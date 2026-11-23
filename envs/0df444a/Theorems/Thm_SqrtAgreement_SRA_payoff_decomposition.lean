@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SqrtAgreement_SRA_payoff_decomposition
 -- name    : SqrtAgreement.SRA.payoff_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:41.56813+00:00
 -- url     : https://prove2.me/theorems/008dea25-e881-4ce6-89db-a5cf846c9af6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_na_pset_run
 -- name    : Automata.na_pset_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:29:16.70564+00:00
 -- url     : https://prove2.me/theorems/df2086e6-5281-4fd3-a13e-283985ab4b4c

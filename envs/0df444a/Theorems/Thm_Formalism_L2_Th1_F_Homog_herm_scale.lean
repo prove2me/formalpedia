@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Homog_herm_scale
 -- name    : Formalism.L2.Th1.F.Homog.herm_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:31:28.155421+00:00
 -- url     : https://prove2.me/theorems/3991d01e-27a6-4bdb-9d58-b216121d04b8

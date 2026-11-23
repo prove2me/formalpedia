@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Stream__extract_extract1_6c8e1f1171b3
 -- name    : P2M_Stream__extract_extract1_6c8e1f1171b3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:21:33.97694+00:00
 -- url     : https://prove2.me/theorems/da345a9a-3b7c-4c83-a3f4-7b7828306912

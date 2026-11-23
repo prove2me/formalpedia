@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_na_pset_reach_next
 -- name    : Automata.na_pset_reach_next
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:29:03.01881+00:00
 -- url     : https://prove2.me/theorems/d1a64888-35ec-4e83-9590-845a8507b641

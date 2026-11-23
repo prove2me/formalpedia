@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConcatFin_union_distrib
 -- name    : ConcatFin_union_distrib
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:24:36.95954+00:00
 -- url     : https://prove2.me/theorems/84eb13c3-c9f0-477e-a9d3-ebe679bc3a18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FasterWCTFPTAS_Main_observation_4_3
 -- name    : FasterWCTFPTAS.Main.observation_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T07:07:42.743969+00:00
 -- url     : https://prove2.me/theorems/824d315a-dc00-4870-8bd9-871aae3750c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_OnePole_eventually_notMem
 -- name    : Formalism.L2.Th1.F.OnePole.eventually_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:57:19.678357+00:00
 -- url     : https://prove2.me/theorems/953a4089-b89e-41b2-b76c-fc1ebbe5eb22

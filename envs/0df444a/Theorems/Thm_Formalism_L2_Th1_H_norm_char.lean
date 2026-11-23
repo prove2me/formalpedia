@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_norm_char
 -- name    : Formalism.L2.Th1.H.norm_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:33.842632+00:00
 -- url     : https://prove2.me/theorems/f6bc81f2-31ef-49b2-852d-f721f8ae26c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepMeasures_theorem_3_1
 -- name    : SepMeasures.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:11:46.191719+00:00
 -- url     : https://prove2.me/theorems/571e5141-61cb-4037-9063-3cce16cc2277

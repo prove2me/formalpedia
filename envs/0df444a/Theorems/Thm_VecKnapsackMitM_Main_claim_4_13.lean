@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VecKnapsackMitM_Main_claim_4_13
 -- name    : VecKnapsackMitM.Main.claim_4_13
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T20:35:28.90066+00:00
 -- url     : https://prove2.me/theorems/a280b813-c323-4cd3-8a16-37bc236ad6ee

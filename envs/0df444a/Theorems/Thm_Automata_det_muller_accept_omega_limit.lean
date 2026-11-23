@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_det_muller_accept_omega_limit
 -- name    : Automata.det_muller_accept_omega_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:26:26.682269+00:00
 -- url     : https://prove2.me/theorems/8f3468a1-3be9-4f92-b4e6-25c6b68fc12f

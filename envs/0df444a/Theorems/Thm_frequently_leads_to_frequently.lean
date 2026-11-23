@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_frequently_leads_to_frequently
 -- name    : frequently_leads_to_frequently
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:28:34.922139+00:00
 -- url     : https://prove2.me/theorems/4161ef05-504f-424d-8473-8b05603bcdb1

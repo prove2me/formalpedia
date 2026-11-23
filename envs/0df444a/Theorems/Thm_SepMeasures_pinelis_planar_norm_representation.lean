@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepMeasures_pinelis_planar_norm_representation
 -- name    : SepMeasures.pinelis_planar_norm_representation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:10:44.355407+00:00
 -- url     : https://prove2.me/theorems/53a2fe47-a0df-4c4a-b3ff-c9fba559059b

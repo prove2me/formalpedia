@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentPolytopes_QuantumFunctionals_lemma_7_4
 -- name    : MomentPolytopes.QuantumFunctionals.lemma_7_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T01:06:07.801206+00:00
 -- url     : https://prove2.me/theorems/106efc75-b379-4def-89d8-024c1897b047

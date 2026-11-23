@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_threeTermQuotient_periodic
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.threeTermQuotient_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:19.096345+00:00
 -- url     : https://prove2.me/theorems/cec29b0b-8639-4f9f-961b-368b2981a0ad

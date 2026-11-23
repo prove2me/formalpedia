@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KernelCokernelKilling_iter_sub_two
 -- name    : Formalism.L2.Th1.D.KernelCokernelKilling.iter_sub_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:24:37.382007+00:00
 -- url     : https://prove2.me/theorems/9acc07f4-728e-43b1-8abb-308ac5ce164c

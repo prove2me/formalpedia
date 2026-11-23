@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_segment__lower_val_a0fd010b0c15
 -- name    : P2M_segment__lower_val_a0fd010b0c15
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:24:05.970054+00:00
 -- url     : https://prove2.me/theorems/75baa9eb-b017-4c50-870a-abdd32fe57cb

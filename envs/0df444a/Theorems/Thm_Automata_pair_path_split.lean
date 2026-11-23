@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_pair_path_split
 -- name    : Automata.pair_path_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:20:50.295359+00:00
 -- url     : https://prove2.me/theorems/7af06381-e127-4851-bfa5-506e420440d2

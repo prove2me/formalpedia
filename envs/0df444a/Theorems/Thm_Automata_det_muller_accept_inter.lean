@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_det_muller_accept_inter
 -- name    : Automata.det_muller_accept_inter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:28:02.084598+00:00
 -- url     : https://prove2.me/theorems/fe5d5e76-2660-4ed5-b65e-5e523563b0b3

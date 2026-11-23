@@ -18398,7 +18398,7 @@
 {"parent": "AvramDividend.Classical.levy_exponential_semigroup_multiplier_deriv_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer.original_relative_point_base_cast_laws", "child": "AlgebraicGeometry_NeronModelEndomorphismExtension", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer.original_relative_point_base_cast_laws", "child": "MazurTransfer_OriginalRelativePointBaseCastData20261020", "via": ["solution", "statement"]}
-{"parent": "SqrtAgreement.SRA.payoff_decomposition", "child": "SqrtAgreement_SRA_Model", "via": ["statement"]}
+{"parent": "SqrtAgreement.SRA.payoff_decomposition", "child": "SqrtAgreement_SRA_Model", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.levy_random_reserve_payoff_L1_stability", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "R6Chk.Bit.Loc.sgk1", "child": "IntMul_Kappa_R6_Defs51", "via": ["solution", "statement"]}
 {"parent": "R6Chk.Bit.DagC.g42_ok", "child": "IntMul_Kappa_R6_Defs51", "via": ["solution", "statement"]}
@@ -19509,7 +19509,7 @@
 {"parent": "EJASpectral.RootDet.zeta_concave_smooth", "child": "EJASpectral_RootDet_EJA", "via": ["statement"]}
 {"parent": "EJASpectral.RootDet.zeta_concave_smooth", "child": "EJASpectral_RootDet_LHSCB", "via": ["statement"]}
 {"parent": "EJASpectral.RootDet.zeta_concave_smooth", "child": "EJASpectral_RootDet_RootDetCone", "via": ["statement"]}
-{"parent": "SqrtAgreement.SRA.perm_payoff_equivalence", "child": "SqrtAgreement_SRA_Model", "via": ["statement"]}
+{"parent": "SqrtAgreement.SRA.perm_payoff_equivalence", "child": "SqrtAgreement_SRA_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.constant_fibre_contact_zero_at_place", "child": "OAI_PiExponent_WeightedIdealCurveCriterion", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.constant_fibre_contact_zero_at_place", "child": "OAI_PiExponent_TruncatedPolynomialJets", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.constant_fibre_contact_zero_at_place", "child": "OAI_PiExponent_LogarithmicInterpolationNumerics", "via": ["solution", "statement"]}

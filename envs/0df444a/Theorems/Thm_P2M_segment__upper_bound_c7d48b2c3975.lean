@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_segment__upper_bound_c7d48b2c3975
 -- name    : P2M_segment__upper_bound_c7d48b2c3975
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:23:14.279765+00:00
 -- url     : https://prove2.me/theorems/2bc57452-5c75-4e36-823d-7104faafa6db

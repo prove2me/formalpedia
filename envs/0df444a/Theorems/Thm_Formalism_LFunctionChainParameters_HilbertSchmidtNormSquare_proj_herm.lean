@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_proj_herm
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.proj_herm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:35.098252+00:00
 -- url     : https://prove2.me/theorems/0fab49be-0877-4f47-a888-85b17b053951

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_leads_to_cases
 -- name    : leads_to_cases
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:28:31.429823+00:00
 -- url     : https://prove2.me/theorems/fdd63b54-b8cd-4f69-85c0-b78a05817218

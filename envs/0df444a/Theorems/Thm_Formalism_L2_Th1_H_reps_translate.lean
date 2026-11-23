@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_reps_translate
 -- name    : Formalism.L2.Th1.H.reps_translate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:34.113857+00:00
 -- url     : https://prove2.me/theorems/57b76ae2-543e-42ef-8242-549ef62393ee

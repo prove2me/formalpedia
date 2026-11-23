@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BewleyGE_lemma_3
 -- name    : BewleyGE.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:28:20.437982+00:00
 -- url     : https://prove2.me/theorems/46ba3ec0-52ea-4c41-8bdc-ed09197f85d8

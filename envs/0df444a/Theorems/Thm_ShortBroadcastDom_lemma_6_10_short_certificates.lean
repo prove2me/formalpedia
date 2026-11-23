@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortBroadcastDom_lemma_6_10_short_certificates
 -- name    : ShortBroadcastDom.lemma_6_10_short_certificates
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:27:12.79166+00:00
 -- url     : https://prove2.me/theorems/3708531c-2ab8-445c-92e0-01060e94a869

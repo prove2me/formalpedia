@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_theta_finite
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.theta_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:36.654943+00:00
 -- url     : https://prove2.me/theorems/bd86618d-7d6c-4f21-ba3e-efaf10c8dc8a

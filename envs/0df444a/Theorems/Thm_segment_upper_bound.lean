@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_segment_upper_bound
 -- name    : segment_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:11:45.359784+00:00
 -- url     : https://prove2.me/theorems/554ccb9a-e64e-471c-a42b-cc8c4ca5d9d6

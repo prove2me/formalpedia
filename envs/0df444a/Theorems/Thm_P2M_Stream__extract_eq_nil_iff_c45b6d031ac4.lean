@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Stream__extract_eq_nil_iff_c45b6d031ac4
 -- name    : P2M_Stream__extract_eq_nil_iff_c45b6d031ac4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:21:16.306691+00:00
 -- url     : https://prove2.me/theorems/c9c8995e-fc21-4ea1-9d7c-50d866a341b5

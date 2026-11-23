@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConcatInf_IterStar_IterOmega
 -- name    : ConcatInf_IterStar_IterOmega
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:24:57.148135+00:00
 -- url     : https://prove2.me/theorems/f2421cf2-1a2b-43d9-bfff-cd2876e5ca99

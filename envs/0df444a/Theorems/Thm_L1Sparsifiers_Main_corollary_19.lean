@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L1Sparsifiers_Main_corollary_19
 -- name    : L1Sparsifiers.Main.corollary_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T07:07:07.891484+00:00
 -- url     : https://prove2.me/theorems/bf4ce658-27b0-4e61-ac3a-999811702a2b

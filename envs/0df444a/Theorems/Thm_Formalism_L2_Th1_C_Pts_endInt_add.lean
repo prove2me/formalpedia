@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_endInt_add
 -- name    : Formalism.L2.Th1.C.Pts.endInt_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:15:43.850832+00:00
 -- url     : https://prove2.me/theorems/4676a291-1857-4339-9a4a-c55d1d10fff5

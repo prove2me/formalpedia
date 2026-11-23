@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynOracleConn_list_to_matrix
 -- name    : DynOracleConn.list_to_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:49:52.1772+00:00
 -- url     : https://prove2.me/theorems/ce8ede9e-ec2e-4054-950d-30f385d942b3

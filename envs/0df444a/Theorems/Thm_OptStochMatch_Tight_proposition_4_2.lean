@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptStochMatch_Tight_proposition_4_2
 -- name    : OptStochMatch.Tight.proposition_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T02:55:24.79471+00:00
 -- url     : https://prove2.me/theorems/acd62680-a2c5-46a4-9e16-bfaf47f10487

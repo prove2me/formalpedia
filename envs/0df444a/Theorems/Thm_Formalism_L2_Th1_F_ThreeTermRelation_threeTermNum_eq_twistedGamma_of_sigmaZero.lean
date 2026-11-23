@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_threeTermNum_eq_twistedGamma_of_sigmaZero
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.threeTermNum_eq_twistedGamma_of_sigmaZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:10.781889+00:00
 -- url     : https://prove2.me/theorems/167bd7e9-7ffa-4b72-ad20-ab047ae7f993

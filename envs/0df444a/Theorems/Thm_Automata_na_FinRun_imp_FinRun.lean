@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_na_FinRun_imp_FinRun
 -- name    : Automata.na_FinRun_imp_FinRun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:22:05.254321+00:00
 -- url     : https://prove2.me/theorems/377bdc54-1ad8-4a96-99da-db04a9ef2bba

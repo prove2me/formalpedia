@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_fundamentalDomainExists
 -- name    : Formalism.L2.Th1.H.fundamentalDomainExists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:16.388324+00:00
 -- url     : https://prove2.me/theorems/6f761f57-2b9f-464a-a42f-06cbd9b0d468

@@ -30862,7 +30862,7 @@
 {"parent": "WeightedThreeSetPacking.Main.lemma_3_1", "child": "WeightedThreeSetPacking_Main_Analysis", "via": ["statement"]}
 {"parent": "RGGThreshold_kappaTri", "child": "RGGThreshold_gaussCDF", "via": ["statement"]}
 {"parent": "CorrelatedAuctionComplexity.Main.not_gadget_correct", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["statement"]}
-{"parent": "ZonotopeContainment.AdaptiveSampling.lemma_2_4", "child": "ZonotopeContainment_AdaptiveSampling_LocalGaussian", "via": ["statement"]}
+{"parent": "ZonotopeContainment.AdaptiveSampling.lemma_2_4", "child": "ZonotopeContainment_AdaptiveSampling_LocalGaussian", "via": ["solution", "statement"]}
 {"parent": "LindbladStructLearn_adjTermCoeff", "child": "LindbladStructLearn_pauliPhase", "via": ["statement"]}
 {"parent": "LindbladStructLearn_adjTermCoeff", "child": "LindbladStructLearn_pauliProd", "via": ["statement"]}
 {"parent": "QMatVecLB.ConvexOpt.corollary_6_8", "child": "QMatVecLB_ConvexOpt_Inversion", "via": ["statement"]}
@@ -31347,7 +31347,7 @@
 {"parent": "OAI.SharpPlanar.Numerical.U100.entry5_0_contains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U100.entry5_0_contains_g", "child": "OAIQ098G274", "via": ["solution", "statement"]}
 {"parent": "XorParallelRepetition_Exponential_Contradiction", "child": "XorParallelRepetition_Exponential_XorGames", "via": ["statement"]}
-{"parent": "BLTCounting.AccuracySpace.theorem_2_1", "child": "BLTCounting_AccuracySpace_MatrixNorms", "via": ["statement"]}
+{"parent": "BLTCounting.AccuracySpace.theorem_2_1", "child": "BLTCounting_AccuracySpace_MatrixNorms", "via": ["solution", "statement"]}
 {"parent": "PulseSyncLowerBound.Pulse.theorem_2", "child": "PulseSyncLowerBound_Pulse_Tasks", "via": ["solution", "statement"]}
 {"parent": "KSPolySign_certB", "child": "KSPolySign_jC", "via": ["statement"]}
 {"parent": "KSPolySign_certB", "child": "KSPolySign_j0", "via": ["statement"]}
@@ -34373,7 +34373,7 @@
 {"parent": "AgnosticTNS_gammaP", "child": "AgnosticTNS_alphaP", "via": ["statement"]}
 {"parent": "PhyloCSP.lemma_7_11", "child": "PhyloCSP_IsConvexOrder", "via": ["statement"]}
 {"parent": "PhyloCSP.lemma_7_11", "child": "PhyloCSP_Pattern", "via": ["statement"]}
-{"parent": "BLTCounting.AccuracySpace.theorem_1_2", "child": "BLTCounting_AccuracySpace_Sequences", "via": ["statement"]}
+{"parent": "BLTCounting.AccuracySpace.theorem_1_2", "child": "BLTCounting_AccuracySpace_Sequences", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.supported_pow", "child": "OAI_NumberTheory_DirichletL_Eisenstein_FundamentalDomain", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.supported_pow", "child": "OAI_NumberTheory_DirichletL_GaussSum_GlobalScales", "via": ["solution", "statement"]}
 {"parent": "OnlineSteinitz_Reduction_Randomness", "child": "OnlineSteinitz_Reduction_Analysis", "via": ["statement"]}
@@ -34990,7 +34990,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_0_11.s5_eq_g", "child": "OAIQ098G972", "via": ["solution", "statement"]}
 {"parent": "PrivPCP_NestedCodes", "child": "GoodQLTC_dualCode", "via": ["statement"]}
 {"parent": "PrivPCP_NestedCodes", "child": "PrivPCP_tensorCode", "via": ["statement"]}
-{"parent": "TermCycDich.isRedMinor_trans", "child": "TermCycDich_IsRedMinor", "via": ["statement"]}
+{"parent": "TermCycDich.isRedMinor_trans", "child": "TermCycDich_IsRedMinor", "via": ["solution", "statement"]}
 {"parent": "CaiZhuInfo_Matrix_matrixProduct", "child": "CaiZhuInfo_Matrix_Protocol", "via": ["statement"]}
 {"parent": "SelectiveDPT_Qdist", "child": "SelectiveDPT_Qrel", "via": ["statement"]}
 {"parent": "NKtLB_IsTimeConstructible", "child": "NKtLB_Machine", "via": ["statement"]}
@@ -36283,9 +36283,9 @@
 {"parent": "RandomQueryXOR.corollary_4_18", "child": "RandomQueryXOR_xorLift", "via": ["statement"]}
 {"parent": "RandomQueryXOR.corollary_4_18", "child": "RandomQueryXOR_successProb", "via": ["statement"]}
 {"parent": "RandomQueryXOR.corollary_4_18", "child": "RandomQueryXOR_DetBP", "via": ["statement"]}
-{"parent": "OracleStateHSP.fracOracle_queryComplexity", "child": "OracleStateHSP_fracOracle", "via": ["statement"]}
-{"parent": "OracleStateHSP.fracOracle_queryComplexity", "child": "OracleStateHSP_queryComplexity", "via": ["statement"]}
-{"parent": "OracleStateHSP.fracOracle_queryComplexity", "child": "OracleStateHSP_SimonInst", "via": ["statement"]}
+{"parent": "OracleStateHSP.fracOracle_queryComplexity", "child": "OracleStateHSP_fracOracle", "via": ["solution", "statement"]}
+{"parent": "OracleStateHSP.fracOracle_queryComplexity", "child": "OracleStateHSP_queryComplexity", "via": ["solution", "statement"]}
+{"parent": "OracleStateHSP.fracOracle_queryComplexity", "child": "OracleStateHSP_SimonInst", "via": ["solution", "statement"]}
 {"parent": "QStateSearch_val", "child": "QStateSearch_AccW", "via": ["statement"]}
 {"parent": "SpatialHalfspace.FullLabels.theorem_4_3", "child": "SpatialHalfspace_FullLabels_Construction", "via": ["statement"]}
 {"parent": "ResultantVNP.lemma_2_8", "child": "ResultantVNP_tensorDet", "via": ["solution", "statement"]}
@@ -45427,13 +45427,13 @@
 {"parent": "PhyloCSP.lemma_9_2", "child": "PhyloCSP_RankRelations", "via": ["statement"]}
 {"parent": "PhyloCSP.lemma_9_2", "child": "PhyloCSP_AutF", "via": ["statement"]}
 {"parent": "PhyloCSP.lemma_9_2", "child": "PhyloCSP_IsConvexOrder", "via": ["statement"]}
-{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_fracU", "via": ["statement"]}
-{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_SimonInst", "via": ["statement"]}
-{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_IsStateHSPInstance", "via": ["statement"]}
-{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_shiftRep", "via": ["statement"]}
-{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_hiddenSubgroup", "via": ["statement"]}
-{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_phiEps", "via": ["statement"]}
-{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_flagZero", "via": ["statement"]}
+{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_fracU", "via": ["solution", "statement"]}
+{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_SimonInst", "via": ["solution", "statement"]}
+{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_IsStateHSPInstance", "via": ["solution", "statement"]}
+{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_shiftRep", "via": ["solution", "statement"]}
+{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_hiddenSubgroup", "via": ["solution", "statement"]}
+{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_phiEps", "via": ["solution", "statement"]}
+{"parent": "OracleStateHSP.family_isStateHSP", "child": "OracleStateHSP_flagZero", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm37_0_0_4.s3_eq_g", "child": "OAIQ098G1173", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm37_0_0_4.s3_eq_g", "child": "OAIQ098G1168", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval382_e", "child": "MUBSix", "via": ["solution", "statement"]}

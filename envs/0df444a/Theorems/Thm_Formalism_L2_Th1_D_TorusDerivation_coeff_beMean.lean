@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_coeff_beMean
 -- name    : Formalism.L2.Th1.D.TorusDerivation.coeff_beMean
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:24:31.925463+00:00
 -- url     : https://prove2.me/theorems/3545f2d8-7fa5-4a14-bf7a-6e6f05751697

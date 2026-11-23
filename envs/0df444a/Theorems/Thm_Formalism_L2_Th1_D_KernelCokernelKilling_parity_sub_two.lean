@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KernelCokernelKilling_parity_sub_two
 -- name    : Formalism.L2.Th1.D.KernelCokernelKilling.parity_sub_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:24:33.088813+00:00
 -- url     : https://prove2.me/theorems/b58f495c-6281-490b-b403-185cb96f1b88

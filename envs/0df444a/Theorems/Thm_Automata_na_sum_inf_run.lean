@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_na_sum_inf_run
 -- name    : Automata.na_sum_inf_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:29:11.754705+00:00
 -- url     : https://prove2.me/theorems/7dbae702-9b50-4655-aea9-ec4d86929162

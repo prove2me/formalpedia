@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IterStar_seg_exists
 -- name    : IterStar_seg_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:24:52.475005+00:00
 -- url     : https://prove2.me/theorems/093dab0a-83a9-4665-bb29-d76a90eeaff6

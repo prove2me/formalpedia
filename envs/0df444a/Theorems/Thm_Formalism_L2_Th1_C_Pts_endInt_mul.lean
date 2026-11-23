@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_endInt_mul
 -- name    : Formalism.L2.Th1.C.Pts.endInt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:24:17.210636+00:00
 -- url     : https://prove2.me/theorems/92a383b6-e0cd-45d3-a41d-73628496cc36

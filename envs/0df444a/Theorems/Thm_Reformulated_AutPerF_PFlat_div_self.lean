@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_PFlat_div_self
 -- name    : Reformulated.AutPerF.PFlat.div_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:23:21.969791+00:00
 -- url     : https://prove2.me/theorems/b418a791-dd79-4ee1-be73-419ec6000ebb

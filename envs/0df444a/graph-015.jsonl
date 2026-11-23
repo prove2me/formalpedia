@@ -1237,10 +1237,10 @@
 {"parent": "EngageInfo.eq_6_vstar", "child": "EngageInfo_vstar", "via": ["solution", "statement"]}
 {"parent": "DiffCtrlRobust_markovCost", "child": "DiffCtrlRobust_discCost", "via": ["statement"]}
 {"parent": "DiffCtrlRobust_markovCost", "child": "DiffCtrlRobust_Usm", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_7", "child": "MinVolEllipsoid_liftCone", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_7", "child": "MinVolEllipsoid_GenCompletelyPositive", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_7", "child": "MinVolEllipsoid_Zval", "via": ["statement"]}
-{"parent": "MinVolEllipsoid.eq_7", "child": "MinVolEllipsoid_borderedMatrix", "via": ["statement"]}
+{"parent": "MinVolEllipsoid.eq_7", "child": "MinVolEllipsoid_liftCone", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.eq_7", "child": "MinVolEllipsoid_GenCompletelyPositive", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.eq_7", "child": "MinVolEllipsoid_Zval", "via": ["solution", "statement"]}
+{"parent": "MinVolEllipsoid.eq_7", "child": "MinVolEllipsoid_borderedMatrix", "via": ["solution", "statement"]}
 {"parent": "MinBuying.regular_triangular_minorant", "child": "MinBuying_Regularity", "via": ["statement"]}
 {"parent": "MinBuying.regular_triangular_minorant", "child": "MinBuying_Triangular", "via": ["statement"]}
 {"parent": "OgawaNagaoka_holevoCap", "child": "OgawaNagaoka_holevoInfo", "via": ["statement"]}
@@ -1526,7 +1526,7 @@
 {"parent": "MarkovProcess.Semigroup.StronglyContinuousContractionSemigroup.hasDerivWithinAt_Ioi", "child": "MarkovProcess_V3H_Semigroup_Basic_fec91841", "via": ["solution", "statement"]}
 {"parent": "CombOpt_ShortestPath_Digraph_IsLeastCostDipath", "child": "CombOpt_ShortestPath_Digraph_IsDipath", "via": ["statement"]}
 {"parent": "CombOpt_ShortestPath_Digraph_IsLeastCostDipath", "child": "CombOpt_ShortestPath_pathCost", "via": ["statement"]}
-{"parent": "LowRankIndicator.proposition_1", "child": "VectorSpaceOpt_support_functional", "via": ["statement"]}
+{"parent": "LowRankIndicator.proposition_1", "child": "VectorSpaceOpt_support_functional", "via": ["solution", "statement"]}
 {"parent": "NetServicePricing_revenue", "child": "NetServicePricing_consumption", "via": ["statement"]}
 {"parent": "MarkovProcess.localResolvent_resolventEquation", "child": "MarkovProcess_V3H_Killed_GluingLocal_6bd3d344", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.localResolvent_resolventEquation", "child": "MarkovProcess_V3H_Killed_GluingResolventEquation_b19dddc8", "via": ["solution", "statement"]}
@@ -3721,7 +3721,7 @@
 {"parent": "ChenPairedDomination.Interval.lemma_8", "child": "ChenPairedDomination_Interval_PrefixData", "via": ["solution", "statement"]}
 {"parent": "FDivToolkit.liminf_claim", "child": "FDivToolkit_IsAdmissibleH", "via": ["statement"]}
 {"parent": "FDivToolkit.liminf_claim", "child": "FDivToolkit_Fh", "via": ["statement"]}
-{"parent": "SalesforceComp.lemma_1", "child": "SalesforceComp_Model", "via": ["statement"]}
+{"parent": "SalesforceComp.lemma_1", "child": "SalesforceComp_Model", "via": ["solution", "statement"]}
 {"parent": "PickAnObject.corollary_1", "child": "PickAnObject_Model", "via": ["statement"]}
 {"parent": "CombOpt_MatroidIntersectionPolytope_rank", "child": "CombOpt_MatroidIntersectionPolytope_FinMatroid", "via": ["statement"]}
 {"parent": "OAIQ107D081", "child": "OAIQ107D000", "via": ["statement"]}
@@ -6254,9 +6254,9 @@
 {"parent": "WilliamsonShmoys.maximal_planar_edge_count__p2m_995fdaa3_113b_42c8_81af_6ce1c08f331a_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.CycleClique.patterns_14_7_1_verified", "child": "OAIQ107D007", "via": ["statement"]}
 {"parent": "OAI.CycleClique.patterns_14_7_1_verified", "child": "OAIQ107D000", "via": ["statement"]}
-{"parent": "RiskBargaining.split_admissible_z", "child": "RiskBargaining_Instance_split", "via": ["statement"]}
-{"parent": "RiskBargaining.split_admissible_z", "child": "RiskBargaining_Instance_Admissible", "via": ["statement"]}
-{"parent": "RiskBargaining.split_admissible_z", "child": "RiskBargaining_Instance_z", "via": ["statement"]}
+{"parent": "RiskBargaining.split_admissible_z", "child": "RiskBargaining_Instance_split", "via": ["solution", "statement"]}
+{"parent": "RiskBargaining.split_admissible_z", "child": "RiskBargaining_Instance_Admissible", "via": ["solution", "statement"]}
+{"parent": "RiskBargaining.split_admissible_z", "child": "RiskBargaining_Instance_z", "via": ["solution", "statement"]}
 {"parent": "LeGallBrownianMap_bdgGH", "child": "LeGallBrownianMap_pseudoQuotientGH", "via": ["statement"]}
 {"parent": "LeGallBrownianMap_bdgGH", "child": "LeGallBrownianMap_bdgGraph", "via": ["statement"]}
 {"parent": "KallMayerSLP.Bonferroni.lp_feasible_nonempty_bounded", "child": "KallMayerSLP_Bonferroni_binomialMoment", "via": ["statement"]}
@@ -19538,15 +19538,15 @@
 {"parent": "LightTailBandit.prob_not_good_event", "child": "LightTailBandit_goodEvent", "via": ["statement"]}
 {"parent": "LightTailBandit.prob_not_good_event", "child": "LightTailBandit_IsSERun", "via": ["statement"]}
 {"parent": "LightTailBandit.prob_not_good_event", "child": "LightTailBandit_pseudoRegret", "via": ["statement"]}
-{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_KLIneq", "via": ["statement"]}
-{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_Ieta", "via": ["statement"]}
-{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["statement"]}
-{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_exactModulus", "via": ["statement"]}
-{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_hfun", "via": ["statement"]}
-{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_dist0", "via": ["statement"]}
-{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_leftDeriv", "via": ["statement"]}
-{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_PhiClass", "via": ["statement"]}
+{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_KLIneq", "via": ["solution", "statement"]}
+{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_Ieta", "via": ["solution", "statement"]}
+{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["solution", "statement"]}
+{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_exactModulus", "via": ["solution", "statement"]}
+{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_hfun", "via": ["solution", "statement"]}
+{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_dist0", "via": ["solution", "statement"]}
+{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_leftDeriv", "via": ["solution", "statement"]}
+{"parent": "ExactModKL.proposition_3_9_h_le_leftDeriv", "child": "ExactModKL_PhiClass", "via": ["solution", "statement"]}
 {"parent": "GaussianGLOCC_LocalSteps", "child": "QAlgorithms_Papers_Independent_Renew46_P39", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_9_9_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_9_9_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
@@ -21602,7 +21602,7 @@
 {"parent": "CorrWardrop.kkt_iff", "child": "CorrWardrop_Lagrangian", "via": ["solution", "statement"]}
 {"parent": "CorrWardrop.kkt_iff", "child": "CorrWardrop_Model", "via": ["statement"]}
 {"parent": "DuanEP_Pure_jointCoeff", "child": "DuanEP_Pure_pairCoeff", "via": ["statement"]}
-{"parent": "DRSubmodHull.lemma_3_3_concave_nonneg_direction", "child": "DRSubmodHull_IsDRSubmodularOn", "via": ["statement"]}
+{"parent": "DRSubmodHull.lemma_3_3_concave_nonneg_direction", "child": "DRSubmodHull_IsDRSubmodularOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.drawable_supergraph_maximal_extension__p2m_c4b40e40_dbd9_4519_a61b_843dc35bfbb5_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "ShorAdditivityEquiv.strongSuperadditive_of_pure", "child": "ShorAdditivityEquiv_trOne", "via": ["statement"]}
 {"parent": "ShorAdditivityEquiv.strongSuperadditive_of_pure", "child": "QAlgorithms_Papers_Independent_Information100_P08", "via": ["statement"]}
@@ -31217,9 +31217,9 @@
 {"parent": "InconsistentDR.Shadow.eq_75_tendsto", "child": "ThreeOpSplitting_Convergence_MonotoneOperators", "via": ["solution", "statement"]}
 {"parent": "InconsistentDR.Shadow.eq_75_tendsto", "child": "MoreauProx_Characterization_GammaZero", "via": ["solution", "statement"]}
 {"parent": "InconsistentDR.Shadow.eq_75_tendsto", "child": "InconsistentDR_Shadow_Operators", "via": ["solution", "statement"]}
-{"parent": "SubmodOrder.corollary_2", "child": "SubmodOrder_IsInterleavedPartition", "via": ["statement"]}
-{"parent": "SubmodOrder.corollary_2", "child": "SubmodOrder_IsWeakSubmodularOrder", "via": ["statement"]}
-{"parent": "SubmodOrder.corollary_2", "child": "SubmodOrder_marginal", "via": ["statement"]}
+{"parent": "SubmodOrder.corollary_2", "child": "SubmodOrder_IsInterleavedPartition", "via": ["solution", "statement"]}
+{"parent": "SubmodOrder.corollary_2", "child": "SubmodOrder_IsWeakSubmodularOrder", "via": ["solution", "statement"]}
+{"parent": "SubmodOrder.corollary_2", "child": "SubmodOrder_marginal", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_12_5_11_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
 {"parent": "CovariateSAA.lemma_3", "child": "CovariateSAA_Setting", "via": ["solution", "statement"]}
 {"parent": "MarkdownReadjust.theorem_4", "child": "MarkdownReadjust_NCond", "via": ["statement"]}

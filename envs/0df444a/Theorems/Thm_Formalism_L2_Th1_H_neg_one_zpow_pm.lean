@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_neg_one_zpow_pm
 -- name    : Formalism.L2.Th1.H.neg_one_zpow_pm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:55.07825+00:00
 -- url     : https://prove2.me/theorems/534ef090-9b88-42ad-bc8f-09ea41420184

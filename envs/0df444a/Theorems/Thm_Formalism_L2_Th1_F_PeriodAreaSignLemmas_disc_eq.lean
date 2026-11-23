@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodAreaSignLemmas_disc_eq
 -- name    : Formalism.L2.Th1.F.PeriodAreaSignLemmas.disc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:26:40.882742+00:00
 -- url     : https://prove2.me/theorems/123402c2-230c-47e3-9d70-d119111296fd

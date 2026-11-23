@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_IndexEq_of
 -- name    : Formalism.L2.Th1.H.IndexEq_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:47.795804+00:00
 -- url     : https://prove2.me/theorems/e50c5619-4265-4413-b15a-1da5bc44c28f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_automaton_congr_run
 -- name    : automaton_congr_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:26:42.256958+00:00
 -- url     : https://prove2.me/theorems/c586d4f9-c81c-4a75-b422-3c52db6e2463

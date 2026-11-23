@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubmodMDP_Policies_lemma_10
 -- name    : SubmodMDP.Policies.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T07:12:57.060186+00:00
 -- url     : https://prove2.me/theorems/7877f21e-a201-45e5-9e5f-32d59cc7937c

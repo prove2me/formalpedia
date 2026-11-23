@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_Near_pow
 -- name    : Formalism.LT.LTL.Near.pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:25:08.058801+00:00
 -- url     : https://prove2.me/theorems/11662174-8d0e-4b46-9d84-aa2fda1036fa

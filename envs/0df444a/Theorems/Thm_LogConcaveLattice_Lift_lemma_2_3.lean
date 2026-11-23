@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogConcaveLattice_Lift_lemma_2_3
 -- name    : LogConcaveLattice.Lift.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:59:58.724469+00:00
 -- url     : https://prove2.me/theorems/f612b689-1f0c-4c1f-bfad-63d54d1ef422

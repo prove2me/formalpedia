@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_pair_path_fin_run
 -- name    : Automata.pair_path_fin_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:21:04.488433+00:00
 -- url     : https://prove2.me/theorems/d5f00c0d-6ec4-42db-8e91-42032aa0394a

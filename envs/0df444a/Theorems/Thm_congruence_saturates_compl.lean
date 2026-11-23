@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_congruence_saturates_compl
 -- name    : congruence_saturates_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:25:19.819071+00:00
 -- url     : https://prove2.me/theorems/b20e08fc-73e7-4de6-8f3c-3a4ca5a1f04a

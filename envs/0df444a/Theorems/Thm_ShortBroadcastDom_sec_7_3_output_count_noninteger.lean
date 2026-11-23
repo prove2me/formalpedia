@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortBroadcastDom_sec_7_3_output_count_noninteger
 -- name    : ShortBroadcastDom.sec_7_3_output_count_noninteger
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:27:54.665202+00:00
 -- url     : https://prove2.me/theorems/68f6f7de-6963-4f81-9f34-e8b843470acd

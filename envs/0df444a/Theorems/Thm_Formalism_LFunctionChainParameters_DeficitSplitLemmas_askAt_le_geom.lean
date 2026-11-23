@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_askAt_le_geom
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.askAt_le_geom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:07.735047+00:00
 -- url     : https://prove2.me/theorems/dfa5fd40-fbf8-4c17-8d8b-efff2b0d9677

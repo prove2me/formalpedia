@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynOracleConn_theorem_3_7
 -- name    : DynOracleConn.theorem_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:53:15.268419+00:00
 -- url     : https://prove2.me/theorems/e3219089-64a4-41fa-a6bf-61479d607c79

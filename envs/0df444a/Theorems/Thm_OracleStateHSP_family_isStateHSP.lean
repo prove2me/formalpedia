@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OracleStateHSP_family_isStateHSP
 -- name    : OracleStateHSP.family_isStateHSP
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:33:32.117201+00:00
 -- url     : https://prove2.me/theorems/cde9dbe1-8998-4689-ad3d-861e7a92d26f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_na_concat_fin_run_1
 -- name    : Automata.na_concat_fin_run_1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:25:03.657908+00:00
 -- url     : https://prove2.me/theorems/974df58c-c578-4755-a702-e1062377b0f1

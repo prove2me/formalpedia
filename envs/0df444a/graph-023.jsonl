@@ -1297,7 +1297,7 @@
 {"parent": "PctDistortion.lemma_11", "child": "PctDistortion_uncovered", "via": ["statement"]}
 {"parent": "PctDistortion.lemma_11", "child": "PctDistortion_alphaMajority", "via": ["statement"]}
 {"parent": "PctDistortion.lemma_11", "child": "PctDistortion_IsMetric", "via": ["statement"]}
-{"parent": "DynOracleConn.theorem_3_7", "child": "DynOracleConn_Blocks", "via": ["statement"]}
+{"parent": "DynOracleConn.theorem_3_7", "child": "DynOracleConn_Blocks", "via": ["solution", "statement"]}
 {"parent": "ArgmaxDeFinetti.eq_3_13", "child": "ArgmaxDeFinetti_opNormS", "via": ["statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.betaLinearPolynomial_eq_map", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Arithmetic_Arithmetic", "via": ["solution", "statement"]}
 {"parent": "OAI.QuadraticMainBoundaryFibers.boundaryCoefficient_norm_le_card", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_FiniteOperator", "via": ["solution", "statement"]}
@@ -11051,8 +11051,8 @@
 {"parent": "QEC.Coding.BalancedProduct.PKDistance.HammingWeight_eq_horizontalPart_add_verticalPart", "child": "QEC_Coding_FiberBundle_CohomologyRepresentatives", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BalancedProduct.PKDistance.HammingWeight_eq_horizontalPart_add_verticalPart", "child": "QEC_Coding_CodeReduction_Classical_Distance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BalancedProduct.PKDistance.HammingWeight_eq_horizontalPart_add_verticalPart", "child": "QEC_Coding_BalancedProduct_PKDistance", "via": ["solution", "statement"]}
-{"parent": "DynOracleConn.list_to_matrix", "child": "DynOracleConn_Oracles", "via": ["statement"]}
-{"parent": "DynOracleConn.list_to_matrix", "child": "DynOracleConn_DetAlg", "via": ["statement"]}
+{"parent": "DynOracleConn.list_to_matrix", "child": "DynOracleConn_Oracles", "via": ["solution", "statement"]}
+{"parent": "DynOracleConn.list_to_matrix", "child": "DynOracleConn_DetAlg", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.LiftedProduct.mem_firstCoboundaryCheckCode_of_signedSwapWord_mem_middleBoundaryCode", "child": "QEC_Coding_ExpanderCodes_LiftedProduct", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.LiftedProduct.mem_firstCoboundaryCheckCode_of_signedSwapWord_mem_middleBoundaryCode", "child": "QEC_Coding_ChainComplex_Duality", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.LiftedProduct.mem_firstCoboundaryCheckCode_of_signedSwapWord_mem_middleBoundaryCode", "child": "QEC_Coding_ExpanderCodes_LiftedProductDuality", "via": ["solution", "statement"]}

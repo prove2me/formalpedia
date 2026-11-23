@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_norm_diagCoef
 -- name    : Formalism.L2.Th1.H.norm_diagCoef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:16.84592+00:00
 -- url     : https://prove2.me/theorems/535c5d25-ea68-41e1-9ea8-099ce7721076

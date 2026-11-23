@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_hsNorm_nonneg
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.hsNorm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:22.696559+00:00
 -- url     : https://prove2.me/theorems/47a52809-1727-43ff-bff4-e2283a81f8b1

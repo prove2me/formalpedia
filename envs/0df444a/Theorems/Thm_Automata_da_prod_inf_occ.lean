@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_da_prod_inf_occ
 -- name    : Automata.da_prod_inf_occ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:20:16.225308+00:00
 -- url     : https://prove2.me/theorems/e57addd3-2862-4f0e-9bb1-0b8d5d743d1b

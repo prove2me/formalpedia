@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_na_hist_inf_run_exists
 -- name    : Automata.na_hist_inf_run_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:28:00.787346+00:00
 -- url     : https://prove2.me/theorems/c3f97abb-e9f1-42b8-bec9-bbf53bc0dfd1

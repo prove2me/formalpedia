@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TermCycDich_isRedMinor_trans
 -- name    : TermCycDich.isRedMinor_trans
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:43:50.947206+00:00
 -- url     : https://prove2.me/theorems/63af8a5d-76f8-4b2a-8571-e83b540148b7

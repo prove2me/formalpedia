@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_SemicharacterExponentialLemmas_semi_sq
 -- name    : Formalism.L2.Th1.H.SemicharacterExponentialLemmas.semi_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:21.862887+00:00
 -- url     : https://prove2.me/theorems/f375f3c3-dfc1-4079-baaf-6a4fe6b0e161

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubmodOrder_corollary_2
 -- name    : SubmodOrder.corollary_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:37:32.388586+00:00
 -- url     : https://prove2.me/theorems/e575503c-df62-4193-8299-4f3c5fb2da14

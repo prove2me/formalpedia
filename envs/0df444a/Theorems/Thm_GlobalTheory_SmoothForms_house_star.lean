@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_house_star
 -- name    : GlobalTheory.SmoothForms.house_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:49.174936+00:00
 -- url     : https://prove2.me/theorems/7bd5b613-9e7e-485a-b8ef-84e9c670fb5c

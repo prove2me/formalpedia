@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_areaPos
 -- name    : Formalism.L2.Th1.F.areaPos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:16:01.884124+00:00
 -- url     : https://prove2.me/theorems/71731db6-4c8c-40b8-bccf-d4a127d1cba0

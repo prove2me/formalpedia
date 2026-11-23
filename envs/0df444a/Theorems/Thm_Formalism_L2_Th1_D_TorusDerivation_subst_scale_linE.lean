@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_subst_scale_linE
 -- name    : Formalism.L2.Th1.D.TorusDerivation.subst_scale_linE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:16:18.857914+00:00
 -- url     : https://prove2.me/theorems/02e6fc51-964c-4e4d-aa03-6d691304d28f

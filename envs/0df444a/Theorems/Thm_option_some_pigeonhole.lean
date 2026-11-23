@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_option_some_pigeonhole
 -- name    : option_some_pigeonhole
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:21:39.867298+00:00
 -- url     : https://prove2.me/theorems/b07821ef-59eb-46fa-9c41-6e40c07dec9d

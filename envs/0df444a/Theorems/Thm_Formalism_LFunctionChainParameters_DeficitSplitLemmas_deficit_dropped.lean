@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_deficit_dropped
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.deficit_dropped
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:11.819647+00:00
 -- url     : https://prove2.me/theorems/177be166-1e28-4153-8fff-b692d5161b65

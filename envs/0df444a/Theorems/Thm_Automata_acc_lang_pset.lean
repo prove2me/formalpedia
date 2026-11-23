@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Automata_acc_lang_pset
 -- name    : Automata.acc_lang_pset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:29:10.44785+00:00
 -- url     : https://prove2.me/theorems/8d9ea6ca-cd86-469b-9590-09447ac12f36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThetaZeroHermitianLemmas_thetaZero_periodLattice_eq
 -- name    : Formalism.L2.Th1.F.ThetaZeroHermitianLemmas.thetaZero_periodLattice_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:33.746359+00:00
 -- url     : https://prove2.me/theorems/cdeff074-a5f1-4bd7-a6b0-84006553b7f5

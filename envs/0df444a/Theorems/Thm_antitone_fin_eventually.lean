@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_antitone_fin_eventually
 -- name    : antitone_fin_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:21:36.174582+00:00
 -- url     : https://prove2.me/theorems/9f7d0d1f-4771-49ee-b711-a117513c5f36

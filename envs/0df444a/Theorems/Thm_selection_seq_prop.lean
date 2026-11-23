@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_selection_seq_prop
 -- name    : selection_seq_prop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:09:13.662742+00:00
 -- url     : https://prove2.me/theorems/279a1c06-0da6-4289-9e2b-4f19f829b151

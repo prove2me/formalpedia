@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_AnalyticIdentityTheoremsZetaFacts_hasSumLU_zetaExcept
 -- name    : Formalism.L2.Th1.F.AnalyticIdentityTheoremsZetaFacts.hasSumLU_zetaExcept
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:24:37.98694+00:00
 -- url     : https://prove2.me/theorems/4204c995-aea7-48c0-b6fe-ba9f9466279f

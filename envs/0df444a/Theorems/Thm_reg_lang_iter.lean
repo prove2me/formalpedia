@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_reg_lang_iter
 -- name    : reg_lang_iter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:20:42.22212+00:00
 -- url     : https://prove2.me/theorems/3f87c285-7f77-450b-9c90-38626b70b390

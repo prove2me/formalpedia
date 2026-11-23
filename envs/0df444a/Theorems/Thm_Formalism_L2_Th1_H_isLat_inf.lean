@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_isLat_inf
 -- name    : Formalism.L2.Th1.H.isLat_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:25.83533+00:00
 -- url     : https://prove2.me/theorems/3ddd92ef-3324-4739-9533-71bd9b094af6

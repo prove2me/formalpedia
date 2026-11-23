@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_reg_lang_compl
 -- name    : reg_lang_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T04:18:21.003871+00:00
 -- url     : https://prove2.me/theorems/66001f06-36b0-4ba5-8297-574bbe347db1

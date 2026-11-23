@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_WeierstrassZetaQuasiPeriod_add_notMem
 -- name    : Formalism.L2.Th1.F.WeierstrassZetaQuasiPeriod.add_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:30.847283+00:00
 -- url     : https://prove2.me/theorems/45a437cb-aa7c-4140-873b-1fb368598fd8
