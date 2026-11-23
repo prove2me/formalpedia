@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_OrbitRepresentatives_gmap_mem_genus
 -- name    : Formalism.HermitianLattices.Ext.L3.OrbitRepresentatives.gmap_mem_genus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:56:33.110801+00:00
 -- url     : https://prove2.me/theorems/6745ad15-befa-45ee-a106-7a37092772cf

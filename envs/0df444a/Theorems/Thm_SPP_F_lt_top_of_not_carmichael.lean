@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_F_lt_top_of_not_carmichael
 -- name    : SPP.F_lt_top_of_not_carmichael
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:09:37.906481+00:00
 -- url     : https://prove2.me/theorems/786e37b2-b1e8-4519-9599-31ddf0dd9c1a

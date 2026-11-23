@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FPP_Carmichael_card_primeFactors
 -- name    : FPP.Carmichael.card_primeFactors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:00:45.654974+00:00
 -- url     : https://prove2.me/theorems/3ec22875-7c12-43ce-b85b-3636cbdfc8c3

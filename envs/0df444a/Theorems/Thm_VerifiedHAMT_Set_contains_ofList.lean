@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_Set_contains_ofList
 -- name    : VerifiedHAMT.Set.contains_ofList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:03:38.596174+00:00
 -- url     : https://prove2.me/theorems/c0ab3a82-074d-4744-9cc7-bfd4791ef154

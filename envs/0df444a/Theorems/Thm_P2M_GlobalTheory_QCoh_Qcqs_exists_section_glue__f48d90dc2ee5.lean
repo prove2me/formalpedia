@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_QCoh_Qcqs_exists_section_glue__f48d90dc2ee5
 -- name    : P2M_GlobalTheory_QCoh_Qcqs_exists_section_glue__f48d90dc2ee5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:37.392327+00:00
 -- url     : https://prove2.me/theorems/ad8148b0-b99b-425e-964a-e78f4cf9e883

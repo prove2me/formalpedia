@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_eW_pos
 -- name    : Formalism.L2.Col.eW_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:33.14498+00:00
 -- url     : https://prove2.me/theorems/8c6479de-320f-4866-b7d8-6c20581bd3f9

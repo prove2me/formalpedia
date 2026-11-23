@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_SetWithoutValArray_Raw_insertSized_eq_impl
 -- name    : VerifiedHAMT.SetWithoutValArray.Raw.insertSized_eq_impl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:49:40.136541+00:00
 -- url     : https://prove2.me/theorems/058ab547-c139-4434-a4e1-aa49e1ee395d

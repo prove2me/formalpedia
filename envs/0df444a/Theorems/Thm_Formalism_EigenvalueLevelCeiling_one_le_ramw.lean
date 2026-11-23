@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_one_le_ramw
 -- name    : Formalism.EigenvalueLevelCeiling.one_le_ramw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:17:53.814972+00:00
 -- url     : https://prove2.me/theorems/9260938a-3e18-4f09-b309-864031758fe0

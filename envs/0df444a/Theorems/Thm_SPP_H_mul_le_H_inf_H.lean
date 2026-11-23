@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_H_mul_le_H_inf_H
 -- name    : SPP.H_mul_le_H_inf_H
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:10:00.207745+00:00
 -- url     : https://prove2.me/theorems/666a0a9e-bd93-494b-8d15-6cb86e9a12b1

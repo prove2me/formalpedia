@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_MainProofs_bohman_limit_cycles
 -- name    : GroupTheoreticShannonCapacity.MainProofs.bohman_limit_cycles
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:37:21.394797+00:00
 -- url     : https://prove2.me/theorems/d74760c0-dc00-4758-b295-870b5f85fa8d

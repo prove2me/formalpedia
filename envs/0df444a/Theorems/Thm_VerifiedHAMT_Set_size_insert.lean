@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_Set_size_insert
 -- name    : VerifiedHAMT.Set.size_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:03:41.608524+00:00
 -- url     : https://prove2.me/theorems/d9217294-e576-42ff-8371-4384727ebb48

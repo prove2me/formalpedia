@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ClassNumImQ_ZetaNonvanishing__span_natCast_sup_eq_top_26fc201e2cd4
 -- name    : P2M_PI_ClassNumImQ_ZetaNonvanishing__span_natCast_sup_eq_top_26fc201e2cd4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:23.342401+00:00
 -- url     : https://prove2.me/theorems/e8236161-db90-4def-9272-f6a0a0015919

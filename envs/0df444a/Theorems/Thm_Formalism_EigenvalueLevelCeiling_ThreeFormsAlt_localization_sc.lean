@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_localization_sc
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.localization_sc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:51:56.942968+00:00
 -- url     : https://prove2.me/theorems/f777eede-7d6e-4264-84c5-ab8ce3a11431

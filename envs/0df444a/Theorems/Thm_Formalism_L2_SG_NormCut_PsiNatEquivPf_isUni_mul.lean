@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_PsiNatEquivPf_isUni_mul
 -- name    : Formalism.L2.SG.NormCut.PsiNatEquivPf.isUni_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:17:48.592255+00:00
 -- url     : https://prove2.me/theorems/66419b27-eab4-4ccf-adda-11e78ab7d212

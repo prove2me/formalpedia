@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_latFinite
 -- name    : Formalism.LatticeIndexTer.latFinite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:38.346352+00:00
 -- url     : https://prove2.me/theorems/ef390ba9-9b4b-4d11-b4fd-498b8332bdb9

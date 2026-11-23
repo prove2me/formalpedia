@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh___comp_map_002a70015e3d
 -- name    : P2M_GroundTheory_GroupCoh___comp_map_002a70015e3d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:05.871618+00:00
 -- url     : https://prove2.me/theorems/0e8b8b14-964d-4400-a5ae-0c77f1e16a79

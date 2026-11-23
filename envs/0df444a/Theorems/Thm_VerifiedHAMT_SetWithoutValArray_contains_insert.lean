@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_SetWithoutValArray_contains_insert
 -- name    : VerifiedHAMT.SetWithoutValArray.contains_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:09:16.490443+00:00
 -- url     : https://prove2.me/theorems/186fdc55-4e26-4996-88b0-3203e4c535eb

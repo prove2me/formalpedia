@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_idx_map_inj
 -- name    : PI.Dv.TIW.idx_map_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:02:48.649459+00:00
 -- url     : https://prove2.me/theorems/0be60cd9-35d9-4a1f-8654-2c2dddb3f5d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_Set_nodup_toList
 -- name    : VerifiedHAMT.Set.nodup_toList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:03:14.946261+00:00
 -- url     : https://prove2.me/theorems/8d7e2d37-7d7d-4d24-9637-3eabf2a99896

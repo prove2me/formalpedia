@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_CycleTypeFiniteOrder_ne_zero_of_mem
 -- name    : Formalism.CyclotomicNorms.CycleTypeFiniteOrder.ne_zero_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:52:18.653725+00:00
 -- url     : https://prove2.me/theorems/d0488629-49ef-45e7-89be-03f395eb7ef8

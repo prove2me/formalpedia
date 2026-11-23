@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_denseRange_finite_real
 -- name    : GlobalTheory.LocalQuad.denseRange_finite_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:41.015802+00:00
 -- url     : https://prove2.me/theorems/c7a97824-cd6e-4f6d-8293-375bb1b51917

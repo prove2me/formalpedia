@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_HCdecomp_ev___e9a5711aa8dc
 -- name    : P2M_GlobalTheory_CompanionTheory_HCdecomp_ev___e9a5711aa8dc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:54.908926+00:00
 -- url     : https://prove2.me/theorems/e7e64123-cb94-4157-a837-95ccb857deed

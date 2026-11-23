@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_VeryAmplePow_sec_trans__22f5df49d8af
 -- name    : P2M_GlobalTheory_VeryAmplePow_sec_trans__22f5df49d8af
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:55.21775+00:00
 -- url     : https://prove2.me/theorems/c3f248e5-8390-45fb-82b4-f3f50d25d99b

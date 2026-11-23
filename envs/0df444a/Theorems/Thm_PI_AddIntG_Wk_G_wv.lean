@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_G_wv
 -- name    : PI.AddIntG.Wk.G_wv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:18.641973+00:00
 -- url     : https://prove2.me/theorems/2e8570c9-9d85-4c7f-bc08-d5661e75f326

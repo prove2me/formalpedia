@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__gA_prime_d730a2330e37
 -- name    : P2M_Formalism_BasicNotions_Examples__gA_prime_d730a2330e37
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:02:13.197807+00:00
 -- url     : https://prove2.me/theorems/df4438c4-edf8-4150-9b60-b22b4e3e441b

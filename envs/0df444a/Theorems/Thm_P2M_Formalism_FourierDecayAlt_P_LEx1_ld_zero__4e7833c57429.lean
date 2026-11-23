@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_LEx1_ld_zero__4e7833c57429
 -- name    : P2M_Formalism_FourierDecayAlt_P_LEx1_ld_zero__4e7833c57429
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:03:59.990693+00:00
 -- url     : https://prove2.me/theorems/c7e66539-82ad-42f1-be58-021a6b94f75f

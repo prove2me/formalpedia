@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZetaWide_zeta__eq_af6bf53d4414
 -- name    : P2M_GlobalTheory_ZetaWide_zeta__eq_af6bf53d4414
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:41.236945+00:00
 -- url     : https://prove2.me/theorems/e6417500-df67-4bf1-adea-3c76a6350f37

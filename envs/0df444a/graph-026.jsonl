@@ -39234,7 +39234,7 @@
 {"parent": "TolProdTest.fact_3_1", "child": "TolProdTest_fC", "via": ["statement"]}
 {"parent": "TolProdTest.fact_3_1", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U85.entry5_0_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
-{"parent": "BhangaleHypergraph.Main.relational_soundness", "child": "BhangaleHypergraph_Main_Relational", "via": ["statement"]}
+{"parent": "BhangaleHypergraph.Main.relational_soundness", "child": "BhangaleHypergraph_Main_Relational", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Ngu24Binary.physicalWordEmbedding_difference_outside", "child": "QEC_Distillation_MultiplicativeQuditProtocol_BinaryDistance", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Ngu24Binary.physicalWordEmbedding_difference_outside", "child": "QEC_Distillation_MultiplicativeQuditProtocol_BinaryEncoding", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Ngu24Binary.physicalWordEmbedding_difference_outside", "child": "QEC_Semantics_ErrorCorrection_QuditMatrixElements", "via": ["solution", "statement"]}

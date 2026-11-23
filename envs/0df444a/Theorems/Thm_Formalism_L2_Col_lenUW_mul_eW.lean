@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lenUW_mul_eW
 -- name    : Formalism.L2.Col.lenUW_mul_eW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:35:26.870882+00:00
 -- url     : https://prove2.me/theorems/49a605c5-22d8-4ea4-876f-d63d28f28f49

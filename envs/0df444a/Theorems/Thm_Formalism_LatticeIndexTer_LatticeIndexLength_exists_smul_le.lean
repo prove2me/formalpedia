@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexLength_exists_smul_le
 -- name    : Formalism.LatticeIndexTer.LatticeIndexLength.exists_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:11.983881+00:00
 -- url     : https://prove2.me/theorems/d8d88813-c7e8-4117-9df6-92c8a62f2c3a

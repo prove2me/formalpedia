@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_BiaddOfCubeWork_add_comm__d811c4cba816
 -- name    : P2M_PI_BiaddOfCubeWork_add_comm__d811c4cba816
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:18.343897+00:00
 -- url     : https://prove2.me/theorems/2ac858ad-20ce-4abb-8949-33d95636fb36

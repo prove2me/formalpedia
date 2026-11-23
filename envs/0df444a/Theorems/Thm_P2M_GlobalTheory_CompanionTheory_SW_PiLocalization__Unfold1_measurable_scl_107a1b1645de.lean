@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_measurable_scl_107a1b1645de
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_measurable_scl_107a1b1645de
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:22.004818+00:00
 -- url     : https://prove2.me/theorems/91acb147-2ee7-4a36-ad77-b100f969129b

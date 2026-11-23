@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_mixedTraceForm_apply__be78fc251b6f
 -- name    : P2M_GroundTheory_Global_mixedTraceForm_apply__be78fc251b6f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:55.349799+00:00
 -- url     : https://prove2.me/theorems/d663d644-7862-4446-baef-d6bc503742f9

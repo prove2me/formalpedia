@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_Set_mem_toList
 -- name    : VerifiedHAMT.Set.mem_toList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:03:12.38249+00:00
 -- url     : https://prove2.me/theorems/a54cb108-ec93-4361-9d52-c17196b1c0a6

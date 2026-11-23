@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndLine_Iwasawa_Grading__q_d9bfcabec8b3
 -- name    : P2M_GlobalTheory_IndLine_Iwasawa_Grading__q_d9bfcabec8b3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:13.2728+00:00
 -- url     : https://prove2.me/theorems/90600579-bcac-4fef-ac55-7200309d9df9

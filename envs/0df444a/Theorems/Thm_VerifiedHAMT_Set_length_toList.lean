@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_Set_length_toList
 -- name    : VerifiedHAMT.Set.length_toList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:03:24.674547+00:00
 -- url     : https://prove2.me/theorems/4aef006b-84ea-4369-925a-96d8f1c99364

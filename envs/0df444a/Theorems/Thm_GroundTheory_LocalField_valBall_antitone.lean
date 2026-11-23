@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_valBall_antitone
 -- name    : GroundTheory.LocalField.valBall_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:39.691166+00:00
 -- url     : https://prove2.me/theorems/f3dffa84-b9b1-4b9b-ac02-d91ea23af714

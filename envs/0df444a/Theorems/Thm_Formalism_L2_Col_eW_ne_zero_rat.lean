@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_eW_ne_zero_rat
 -- name    : Formalism.L2.Col.eW_ne_zero_rat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:07.849253+00:00
 -- url     : https://prove2.me/theorems/96d9fbee-5945-417c-9d0f-22e8502ff89b

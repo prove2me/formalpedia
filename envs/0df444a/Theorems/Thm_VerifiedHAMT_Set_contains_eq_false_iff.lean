@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_Set_contains_eq_false_iff
 -- name    : VerifiedHAMT.Set.contains_eq_false_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:03:12.394293+00:00
 -- url     : https://prove2.me/theorems/42c7a9ae-3e82-4450-9ded-f769cf49ea34

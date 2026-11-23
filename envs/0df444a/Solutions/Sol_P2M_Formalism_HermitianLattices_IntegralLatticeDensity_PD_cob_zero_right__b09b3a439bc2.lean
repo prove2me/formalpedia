@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for P2M_Formalism_HermitianLattices_IntegralLatticeDensity_PD_cob_zero_right__b09b3a439bc2
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T08:10:20.836429+00:00
+-- url     : https://prove2.me/submissions/11a4d317-ffae-4ac4-a669-bbb551c7f881
+
+import Mathlib
+import Definitions.Def_Formalism_GL3MeanSquares_InvariantSeriesBidegreeOneOne
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_HyperbolicPlaneSplit
+import Theorems.Thm_P2M_Formalism_HermitianLattices_IntegralLatticeDensity_PD_cob_symm__15ad48273a45
+import Theorems.Thm_P2M_Formalism_HermitianLattices_IntegralLatticeDensity_PD_cob_zero_left__fffdab6f3c0e
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLattices Formalism.HermitianLattices.IntegralLatticeDensity Formalism.HermitianLattices.IntegralLatticeDensity.PD
+open Finset Formalism.HermitianLattices.IntegralLatticeDensity
+variable {M Q : Type} [AddCommGroup M] [AddCommGroup Q] {φ : M → Q}
+namespace Formalism.HermitianLattices.IntegralLatticeDensity.PD
+theorem _root_.solution (h1 : ∀ a a' b, cob φ (a + a') b = cob φ a b + cob φ a' b) (a : M) :
+    cob φ a 0 = 0 := by
+  rw [cob_symm', cob_zero_left' h1]
+end Formalism.HermitianLattices.IntegralLatticeDensity.PD

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_pointFamilyCountableCountsIndependentV3
 -- name    : Kyprianou.Ch02.pointFamilyCountableCountsIndependentV3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:27:51.427814+00:00
 -- url     : https://prove2.me/theorems/115918e3-0f06-4a8b-b139-8f88e933e165

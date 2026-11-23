@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GenFrameSpan_basisMonomials_apply__3e1a67869174
 -- name    : P2M_GenFrameSpan_basisMonomials_apply__3e1a67869174
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:25.025697+00:00
 -- url     : https://prove2.me/theorems/0a51132a-7aca-438f-a863-1f243f9539bf

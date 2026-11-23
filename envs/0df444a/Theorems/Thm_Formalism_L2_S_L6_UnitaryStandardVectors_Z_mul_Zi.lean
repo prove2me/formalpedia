@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_Z_mul_Zi
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.Z_mul_Zi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:11.414035+00:00
 -- url     : https://prove2.me/theorems/a0bb4b99-2548-474d-a82a-a5b5156abcf5

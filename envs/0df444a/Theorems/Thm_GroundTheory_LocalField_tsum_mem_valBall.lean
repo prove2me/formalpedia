@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_tsum_mem_valBall
 -- name    : GroundTheory.LocalField.tsum_mem_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:52.933862+00:00
 -- url     : https://prove2.me/theorems/bd6643e4-aa97-48a4-af05-0bfdeaf003fe

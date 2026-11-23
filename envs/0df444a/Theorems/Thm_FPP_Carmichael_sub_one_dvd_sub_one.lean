@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FPP_Carmichael_sub_one_dvd_sub_one
 -- name    : FPP.Carmichael.sub_one_dvd_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:00:44.621722+00:00
 -- url     : https://prove2.me/theorems/522e2caa-7bd4-4266-b6e6-3b8ad81d470b

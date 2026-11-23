@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_matrixCoords_map
 -- name    : GroundTheory.Automorphic.matrixCoords_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:27.881987+00:00
 -- url     : https://prove2.me/theorems/1dff7c12-ea56-4074-b736-5925f26fc95e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_G_eq_H
 -- name    : SPP.G_eq_H
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:09:46.772886+00:00
 -- url     : https://prove2.me/theorems/bb9b8690-ede5-497a-bff1-1ceda26e9a11

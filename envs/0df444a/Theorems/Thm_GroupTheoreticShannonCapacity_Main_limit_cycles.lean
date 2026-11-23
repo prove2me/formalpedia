@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Main_limit_cycles
 -- name    : GroupTheoreticShannonCapacity.Main.limit_cycles
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:52:22.905804+00:00
 -- url     : https://prove2.me/theorems/accc8406-afab-4c75-91b8-2e3ad430e7c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramified_trans
 -- name    : GroundTheory.LocalField.IsUnramified.trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:19:50.130954+00:00
 -- url     : https://prove2.me/theorems/2c002d27-41c3-4ac9-b7f3-6599ac04566f

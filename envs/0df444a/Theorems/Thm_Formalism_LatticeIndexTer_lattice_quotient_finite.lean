@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_lattice_quotient_finite
 -- name    : Formalism.LatticeIndexTer.lattice_quotient_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:23.847678+00:00
 -- url     : https://prove2.me/theorems/7f2185ec-8094-4044-bf41-2afe1216cc8c

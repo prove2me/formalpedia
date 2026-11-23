@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_positive_static_end_length_lower_bound
 -- name    : NoHair.positive_static_end_length_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T08:06:38.573088+00:00
 -- url     : https://prove2.me/theorems/5f77a237-1193-4423-aced-db1f5806f583

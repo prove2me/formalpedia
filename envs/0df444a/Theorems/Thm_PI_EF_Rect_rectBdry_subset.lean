@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_rectBdry_subset
 -- name    : PI.EF.Rect.rectBdry_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:24:28.269621+00:00
 -- url     : https://prove2.me/theorems/14cc8f3a-433b-4945-95a7-e4bcf6a8fdca

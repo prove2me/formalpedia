@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_exists_isUnifW
 -- name    : Formalism.L2.Col.exists_isUnifW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:30.323801+00:00
 -- url     : https://prove2.me/theorems/3efba98d-c302-4dcc-a4f5-3bae94f93b85

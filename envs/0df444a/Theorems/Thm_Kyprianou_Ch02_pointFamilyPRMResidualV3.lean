@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_pointFamilyPRMResidualV3
 -- name    : Kyprianou.Ch02.pointFamilyPRMResidualV3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:14:16.208485+00:00
 -- url     : https://prove2.me/theorems/f8ff2134-db5d-427a-8b3a-338579d5ee6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_isUnit_sval
 -- name    : GlobalTheory.VeryAmplePow.isUnit_sval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:53.480367+00:00
 -- url     : https://prove2.me/theorems/37a3bcc0-9501-48e6-8ae6-e5e4b31fe39f

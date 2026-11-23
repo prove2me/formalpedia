@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_SPP_le_s__81aa0fe3ef1b
 -- name    : P2M_SPP_le_s__81aa0fe3ef1b
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:07:59.620989+00:00
 -- url     : https://prove2.me/theorems/24f3b376-04af-45cd-9744-2375bd8cbf9f

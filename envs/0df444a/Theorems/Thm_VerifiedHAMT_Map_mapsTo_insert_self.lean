@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_Map_mapsTo_insert_self
 -- name    : VerifiedHAMT.Map.mapsTo_insert_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:02:53.127984+00:00
 -- url     : https://prove2.me/theorems/6d316ff8-78bf-48a1-bd07-3cb01c7928de

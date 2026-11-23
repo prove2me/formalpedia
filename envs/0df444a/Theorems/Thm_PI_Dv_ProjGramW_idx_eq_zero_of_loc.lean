@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_idx_eq_zero_of_loc
 -- name    : PI.Dv.ProjGramW.idx_eq_zero_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:57:10.629493+00:00
 -- url     : https://prove2.me/theorems/2a432102-48eb-486b-843c-7f6d776fb893

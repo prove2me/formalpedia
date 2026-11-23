@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Brauer_isMulCocycle__of_isMulCoboundary__1fe17ff20d13
 -- name    : P2M_GroundTheory_Brauer_isMulCocycle__of_isMulCoboundary__1fe17ff20d13
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:59.374809+00:00
 -- url     : https://prove2.me/theorems/54c6fcc7-daca-456d-b905-6ffbaa7e506c

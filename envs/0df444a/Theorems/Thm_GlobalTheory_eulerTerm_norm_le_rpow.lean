@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eulerTerm_norm_le_rpow
 -- name    : GlobalTheory.eulerTerm_norm_le_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:53.582129+00:00
 -- url     : https://prove2.me/theorems/6d6033de-63e5-49db-ae4f-a8e2560a2d7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__star_algebraMap_mem_range_608979362cd4
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__star_algebraMap_mem_range_608979362cd4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:06:36.389468+00:00
 -- url     : https://prove2.me/theorems/f750f6d6-5e0f-42d9-9e80-4d48ff2d2f29

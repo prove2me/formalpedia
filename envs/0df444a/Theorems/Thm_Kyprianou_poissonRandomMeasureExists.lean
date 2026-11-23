@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_poissonRandomMeasureExists
 -- name    : Kyprianou.poissonRandomMeasureExists
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T11:12:26.90797+00:00
 -- url     : https://prove2.me/theorems/1de37a23-a90a-47d2-b121-84eb4af8caee

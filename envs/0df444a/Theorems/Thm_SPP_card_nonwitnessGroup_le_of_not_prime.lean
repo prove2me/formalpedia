@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_card_nonwitnessGroup_le_of_not_prime
 -- name    : SPP.card_nonwitnessGroup_le_of_not_prime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:10:02.730178+00:00
 -- url     : https://prove2.me/theorems/84d20237-4837-4fb3-90a0-c6ed7d9fa124

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Lin_NonPrimeVonMangoldt_F__eq_3cd59a318829
 -- name    : P2M_GlobalTheory_Lin_NonPrimeVonMangoldt_F__eq_3cd59a318829
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:02.543825+00:00
 -- url     : https://prove2.me/theorems/338d9638-edfe-4579-ade2-f3668351ed2f

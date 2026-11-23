@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_atW_mono
 -- name    : Formalism.L2.Col.atW_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:55.815121+00:00
 -- url     : https://prove2.me/theorems/6c9a88e6-6eee-4c1c-87a1-3071c7f3cf02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_poissonRandomMeasureExistsGenericCh02V3
 -- name    : Kyprianou.poissonRandomMeasureExistsGenericCh02V3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T19:20:48.901196+00:00
 -- url     : https://prove2.me/theorems/608b5f9b-92ff-404c-84cf-b60b94d76971

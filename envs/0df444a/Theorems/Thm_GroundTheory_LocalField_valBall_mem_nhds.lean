@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_valBall_mem_nhds
 -- name    : GroundTheory.LocalField.valBall_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:56.666087+00:00
 -- url     : https://prove2.me/theorems/38758b5b-b750-451a-bf20-b1f124a778df

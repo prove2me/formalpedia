@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_card_nonwitnessGroup_of_prime_pow
 -- name    : SPP.card_nonwitnessGroup_of_prime_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:07:05.729652+00:00
 -- url     : https://prove2.me/theorems/8d3aa9dc-41b5-4796-8092-2a14a7d2fca5

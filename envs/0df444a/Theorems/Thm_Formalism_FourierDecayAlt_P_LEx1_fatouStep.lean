@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_fatouStep
 -- name    : Formalism.FourierDecayAlt.P.LEx1.fatouStep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:53:05.398637+00:00
 -- url     : https://prove2.me/theorems/6e61139c-3432-4eda-b84c-ef5330210c95

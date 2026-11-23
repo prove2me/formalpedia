@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__gB_prime_e07d09a6c9c7
 -- name    : P2M_Formalism_BasicNotions_Examples__gB_prime_e07d09a6c9c7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:02:00.484872+00:00
 -- url     : https://prove2.me/theorems/7dad48c6-338b-4bb9-9ceb-9e026a19656a

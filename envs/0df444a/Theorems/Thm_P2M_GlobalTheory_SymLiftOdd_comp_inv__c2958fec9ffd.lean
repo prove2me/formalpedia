@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SymLiftOdd_comp_inv__c2958fec9ffd
 -- name    : P2M_GlobalTheory_SymLiftOdd_comp_inv__c2958fec9ffd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:55.196117+00:00
 -- url     : https://prove2.me/theorems/d06a9415-7b1b-49d6-8164-859f1d6ed1e4

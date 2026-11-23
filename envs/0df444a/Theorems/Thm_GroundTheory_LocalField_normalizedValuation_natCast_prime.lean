@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_normalizedValuation_natCast_prime
 -- name    : GroundTheory.LocalField.normalizedValuation_natCast_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:52.849149+00:00
 -- url     : https://prove2.me/theorems/8fdfca6a-343a-47b8-becd-5d8e6ccc81f2

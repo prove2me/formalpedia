@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_TIW_matV_inv_cancel__b95dfd786b3c
 -- name    : P2M_PI_Dv_TIW_matV_inv_cancel__b95dfd786b3c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:03:08.063917+00:00
 -- url     : https://prove2.me/theorems/2d83b3ef-dcb1-4589-bc07-6c89b9fd444a

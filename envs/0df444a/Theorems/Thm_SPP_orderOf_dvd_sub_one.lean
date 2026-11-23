@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_orderOf_dvd_sub_one
 -- name    : SPP.orderOf_dvd_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:06:33.971881+00:00
 -- url     : https://prove2.me/theorems/b5027d05-4b62-4b19-9930-3927467ca264

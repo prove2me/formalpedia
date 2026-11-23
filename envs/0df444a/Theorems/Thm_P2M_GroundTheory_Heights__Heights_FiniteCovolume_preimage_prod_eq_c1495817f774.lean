@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_preimage_prod_eq_c1495817f774
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_preimage_prod_eq_c1495817f774
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:20.41662+00:00
 -- url     : https://prove2.me/theorems/12534d72-861e-4bb7-9d6f-be02ceff6aea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_pointFamilyInfiniteCountTopV3
 -- name    : Kyprianou.Ch02.pointFamilyInfiniteCountTopV3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:27:49.125158+00:00
 -- url     : https://prove2.me/theorems/221c47af-3b1b-499f-97f8-eb32997811c7

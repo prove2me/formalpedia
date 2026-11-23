@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_G1_smul_apply__0d8f4fa04092
 -- name    : P2M_Formalism_L2_SG_Pf_G1_smul_apply__0d8f4fa04092
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:07.572897+00:00
 -- url     : https://prove2.me/theorems/95fa9dfc-2608-43bb-9a80-8c6b1df4652e

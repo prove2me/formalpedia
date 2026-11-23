@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_H_lt_H_inf_H
 -- name    : SPP.H_lt_H_inf_H
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:10:02.225335+00:00
 -- url     : https://prove2.me/theorems/4af4cc25-bac9-449c-9f4c-3bc33d614b8a

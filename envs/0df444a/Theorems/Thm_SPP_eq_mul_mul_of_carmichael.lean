@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_eq_mul_mul_of_carmichael
 -- name    : SPP.eq_mul_mul_of_carmichael
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:10:02.859103+00:00
 -- url     : https://prove2.me/theorems/68583db6-2270-43b4-9866-8cf6d71d0251

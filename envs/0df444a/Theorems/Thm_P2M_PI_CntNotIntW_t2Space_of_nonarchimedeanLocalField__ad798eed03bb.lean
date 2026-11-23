@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_CntNotIntW_t2Space_of_nonarchimedeanLocalField__ad798eed03bb
 -- name    : P2M_PI_CntNotIntW_t2Space_of_nonarchimedeanLocalField__ad798eed03bb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:29.820919+00:00
 -- url     : https://prove2.me/theorems/9a36b43c-ecf0-41af-8ba6-0e491e1fbee8

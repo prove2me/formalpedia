@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.poissonRandomMeasureExistsGenericCh02V3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T07:17:02.366613+00:00
 -- url     : https://prove2.me/submissions/3d22aa6a-d3fb-407f-afb5-09ef39316bdf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_RandomMeasure_PoissonPointFamily

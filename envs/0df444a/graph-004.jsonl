@@ -10628,7 +10628,7 @@
 {"parent": "NoHair.kerrNewman_isStationaryBlackHole", "child": "NoHair_kerrNewman", "via": ["statement"]}
 {"parent": "NoHair.kerrNewman_maxwell", "child": "NoHair.kerrNewman_flat_maxwell", "via": ["solution"]}
 {"parent": "NoHair.kerrNewman_maxwell", "child": "NoHair_kerrNewman", "via": ["solution", "statement"]}
-{"parent": "NoHair.no_hair_conjecture", "child": "NoHair_kerrNewman", "via": ["statement"]}
+{"parent": "NoHair.no_hair_conjecture", "child": "NoHair_kerrNewman", "via": ["solution", "statement"]}
 {"parent": "NoHair.rest_frame_exists", "child": "NoHair_kerrNewman", "via": ["solution", "statement"]}
 {"parent": "NoHair.spin_alignment", "child": "NoHair_kerrNewman", "via": ["solution", "statement"]}
 {"parent": "NoHair_kerrNewman", "child": "NoHair_spacetime", "via": ["statement"]}

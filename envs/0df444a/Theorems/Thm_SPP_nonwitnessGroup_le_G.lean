@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_nonwitnessGroup_le_G
 -- name    : SPP.nonwitnessGroup_le_G
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:07:56.434955+00:00
 -- url     : https://prove2.me/theorems/1d62c4fd-c259-40ba-8fcf-7b99e7631091

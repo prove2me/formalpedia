@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_isUnit_Z
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.isUnit_Z
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:53:48.779039+00:00
 -- url     : https://prove2.me/theorems/a4633461-efd7-4fa1-92f2-c7d3ab38b46f

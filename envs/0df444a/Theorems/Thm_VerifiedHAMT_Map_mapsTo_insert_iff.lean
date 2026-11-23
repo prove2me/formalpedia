@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_Map_mapsTo_insert_iff
 -- name    : VerifiedHAMT.Map.mapsTo_insert_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:02:51.992104+00:00
 -- url     : https://prove2.me/theorems/746bce0c-e2da-4473-b288-f116fc580c55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_modN_of_exact
 -- name    : GroundTheory.ProfCoh.finite_modN_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:01:42.097448+00:00
 -- url     : https://prove2.me/theorems/8bc1a436-6c5c-4fe5-b6d3-7b67a8b7599d

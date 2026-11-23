@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.pointFamilyCountableCountsIndependentV3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T07:43:33.545067+00:00
 -- url     : https://prove2.me/submissions/3c98d944-7c5d-4788-a85e-e32d7a58c5fc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_RandomMeasure_PoissonRandomMeasure

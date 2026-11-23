@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_one_le_absRamificationIndex
 -- name    : GroundTheory.LocalField.one_le_absRamificationIndex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:10:03.855675+00:00
 -- url     : https://prove2.me/theorems/3ea17aff-9e67-42a8-b7f3-acc7224fadcc

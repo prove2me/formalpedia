@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_isUnit_iff_mem
 -- name    : GlobalTheory.VeryAmplePow.isUnit_iff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:36:32.040035+00:00
 -- url     : https://prove2.me/theorems/7071d43f-9467-4563-b4c8-f2fd5a51eb30

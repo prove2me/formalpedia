@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_VecSplit_x__mem_adjoin_e436df04d130
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_VecSplit_x__mem_adjoin_e436df04d130
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:25.377086+00:00
 -- url     : https://prove2.me/theorems/cc4e3ff1-4dbc-4722-a821-a850d55d7f52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_G_Inhab_natAct_one__272d2e55828d
 -- name    : P2M_Formalism_MainNotions_G_Inhab_natAct_one__272d2e55828d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:00.531468+00:00
 -- url     : https://prove2.me/theorems/fba64759-6d04-485e-a08c-ff2daec087fc

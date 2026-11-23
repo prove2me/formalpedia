@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerifiedHAMT_Map_mapsTo_insert_of_ne
 -- name    : VerifiedHAMT.Map.mapsTo_insert_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:02:58.271668+00:00
 -- url     : https://prove2.me/theorems/98ffd718-5cf5-48cd-bab4-850a0d23c5f0

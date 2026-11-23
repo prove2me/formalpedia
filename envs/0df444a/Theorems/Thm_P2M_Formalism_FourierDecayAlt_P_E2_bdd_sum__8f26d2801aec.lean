@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_E2_bdd_sum__8f26d2801aec
 -- name    : P2M_Formalism_FourierDecayAlt_P_E2_bdd_sum__8f26d2801aec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:02:35.487934+00:00
 -- url     : https://prove2.me/theorems/d54fa8ac-cd59-492c-acca-1f0ed82d1787

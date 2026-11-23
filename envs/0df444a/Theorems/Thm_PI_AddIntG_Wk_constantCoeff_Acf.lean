@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_constantCoeff_Acf
 -- name    : PI.AddIntG.Wk.constantCoeff_Acf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:45.140294+00:00
 -- url     : https://prove2.me/theorems/0fcc582e-0ecd-4a33-8dfd-3e62b8a57b2b

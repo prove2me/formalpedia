@@ -31084,7 +31084,7 @@
 {"parent": "G26.FI.cross_env", "child": "IAFTRL_G26_window", "via": ["solution", "statement"]}
 {"parent": "G26.FI.cross_env", "child": "IAFTRL_G26_body", "via": ["solution", "statement"]}
 {"parent": "G26.FI.cross_env", "child": "IAFTRL_G26_run", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.poissonRandomMeasureExistsGenericCh02V9", "child": "Kyprianou_Ch02_AbstractPoissonRandomMeasureV8", "via": ["statement"]}
+{"parent": "Kyprianou.poissonRandomMeasureExistsGenericCh02V9", "child": "Kyprianou_Ch02_AbstractPoissonRandomMeasureV8", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.checked_D7_004", "child": "RealPinwheel_FiveSixths_WitnessD7_004", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0072", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0072", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}

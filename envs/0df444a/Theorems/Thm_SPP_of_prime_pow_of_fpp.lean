@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_of_prime_pow_of_fpp
 -- name    : SPP.of_prime_pow_of_fpp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:06:57.919115+00:00
 -- url     : https://prove2.me/theorems/b37a3976-d2dc-4ac3-8c44-cfab4a92a326

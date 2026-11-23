@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_H_one
 -- name    : SPP.H_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:09:51.7053+00:00
 -- url     : https://prove2.me/theorems/ee63a13e-7661-4659-86d3-bb0820f7a2a0

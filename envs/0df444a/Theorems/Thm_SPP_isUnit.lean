@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_isUnit
 -- name    : SPP.isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:03:50.039821+00:00
 -- url     : https://prove2.me/theorems/8b80ae27-c0e0-417f-b1ad-6929717d2fe1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_AmpRootCommon_Z_at__9514a3b6830f
 -- name    : P2M_PI_AmpRootCommon_Z_at__9514a3b6830f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:14.049728+00:00
 -- url     : https://prove2.me/theorems/83a10e74-f9cc-4e82-baef-7b66c52da77d

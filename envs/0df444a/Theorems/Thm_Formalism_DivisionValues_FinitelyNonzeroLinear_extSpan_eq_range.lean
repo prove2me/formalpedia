@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_extSpan_eq_range
 -- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.extSpan_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:56:12.131927+00:00
 -- url     : https://prove2.me/theorems/f654a03f-9130-4d2c-af43-2018a8789f3e

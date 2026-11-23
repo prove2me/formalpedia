@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPP_G_lt_F_of_not_isPrimePow
 -- name    : SPP.G_lt_F_of_not_isPrimePow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:08:18.145544+00:00
 -- url     : https://prove2.me/theorems/7f5524b2-0bd2-4ec1-9588-97793fd75164

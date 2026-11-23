@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_monicOf_monic__60d833550372
 -- name    : P2M_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_monicOf_monic__60d833550372
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:05:49.284565+00:00
 -- url     : https://prove2.me/theorems/4f46389e-0d5b-45ba-a8ed-93c12b847861

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FPP_Carmichael_not_isPrimePow
 -- name    : FPP.Carmichael.not_isPrimePow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T08:00:56.516119+00:00
 -- url     : https://prove2.me/theorems/a06a3195-1c97-4f29-80ae-e642a1de53e0
