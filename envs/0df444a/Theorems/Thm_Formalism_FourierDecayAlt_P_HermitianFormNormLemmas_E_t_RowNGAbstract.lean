@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormNormLemmas_E_t_RowNGAbstract
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.E.t_RowNGAbstract
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:57.984395+00:00
 -- url     : https://prove2.me/theorems/228ab270-ee0b-4d0b-bc50-9e1935cc9a7d

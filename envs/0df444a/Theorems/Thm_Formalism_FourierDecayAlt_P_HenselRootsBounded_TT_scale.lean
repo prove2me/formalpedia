@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HenselRootsBounded_TT_scale
 -- name    : Formalism.FourierDecayAlt.P.HenselRootsBounded.TT_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:11.461627+00:00
 -- url     : https://prove2.me/theorems/17f1a2bb-f56c-446b-b561-e072e850ff27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GramProductIdentities_pairAdj
 -- name    : Formalism.FourierDecayAlt.P.GramProductIdentities.pairAdj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:56:31.362508+00:00
 -- url     : https://prove2.me/theorems/69c9e44c-2614-4245-8afd-93396cd08ad4

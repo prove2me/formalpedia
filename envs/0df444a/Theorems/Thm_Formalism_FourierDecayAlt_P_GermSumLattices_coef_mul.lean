@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermSumLattices_coef_mul
 -- name    : Formalism.FourierDecayAlt.P.GermSumLattices.coef_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:05:01.439711+00:00
 -- url     : https://prove2.me/theorems/b1fea713-4159-430a-96b1-8cab66340151

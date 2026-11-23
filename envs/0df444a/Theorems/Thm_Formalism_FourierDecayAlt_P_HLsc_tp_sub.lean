@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HLsc_tp_sub
 -- name    : Formalism.FourierDecayAlt.P.HLsc.tp_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:12.028666+00:00
 -- url     : https://prove2.me/theorems/7ce308f0-c2fe-4310-99c6-aeed5ea64157

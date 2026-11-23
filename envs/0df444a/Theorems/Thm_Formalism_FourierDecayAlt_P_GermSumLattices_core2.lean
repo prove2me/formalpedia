@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermSumLattices_core2
 -- name    : Formalism.FourierDecayAlt.P.GermSumLattices.core2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:04:40.315333+00:00
 -- url     : https://prove2.me/theorems/df6e6cb5-e748-4482-9da9-07b3efe12961

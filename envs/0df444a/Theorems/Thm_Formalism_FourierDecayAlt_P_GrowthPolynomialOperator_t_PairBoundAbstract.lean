@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_PairBoundAbstract
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_PairBoundAbstract
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:44.722368+00:00
 -- url     : https://prove2.me/theorems/16eee0c1-a28f-4fb5-b1d0-2ed1dde9305f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx8_psdOn_iff_isPSD
 -- name    : Formalism.FourierDecayAlt.P.Jx8.psdOn_iff_isPSD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:58:21.811804+00:00
 -- url     : https://prove2.me/theorems/86c3531a-fe83-46e6-901f-a56d5f55e476

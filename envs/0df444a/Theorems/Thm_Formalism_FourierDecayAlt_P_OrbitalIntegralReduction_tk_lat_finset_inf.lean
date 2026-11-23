@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_tk_lat_finset_inf
+-- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.tk_lat_finset_inf
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T20:29:31.456653+00:00
+-- url     : https://prove2.me/theorems/3a170bb9-2373-419f-aa05-03dca5186aa4
+-- title:
+--   Orbital Integral Reduction: tk lat finset inf
+-- statement:
+--   The Orbital Integral Reduction construction uses the tk lat finset inf property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/OrbitalIntegralReduction.lean#L519-L526
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/OrbitalIntegralReduction.lean#L519-L526
+
+import Definitions.Def_Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_KernelNonzeroModulusDeterminantEq
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstKernelExplicitFormula
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralLatticeRefinementIdentity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_GramKernelHermitian
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralReduction
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix Formalism.DoubleCosetMeasures Formalism.FourierDecayAlt.A5 Formalism.FourierDecayAlt.A6 Formalism.FourierDecayAlt.P.A5x5 Formalism.FourierDecayAlt.P.A5x8 Formalism.FourierDecayAlt.P.A6x8 Filter Topology
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.OrbitalIntegralReduction
+variable {V : Type} [AddCommGroup V]
+variable [TopologicalSpace V] [IsTopologicalAddGroup V]
+
+theorem Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.tk_lat_finset_inf {Q : Type} {M : AddSubgroup V} (hM : Lat M) (N : Q → AddSubgroup V)
+    (hN : ∀ q, Lat (N q)) (S : Finset Q) : Lat (M ⊓ S.inf N) := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_subfamilyAlt
 -- name    : Formalism.FourierDecayAlt.P.subfamilyAlt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:54:41.848138+00:00
 -- url     : https://prove2.me/theorems/db34aab9-35d8-484e-a4c4-d7c866239ee3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_leading_cofactor
 -- name    : Formalism.FourierDecayAlt.P.leading_cofactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:13.35596+00:00
 -- url     : https://prove2.me/theorems/e2334fc1-c7d6-4ff1-affd-a48e473592e3

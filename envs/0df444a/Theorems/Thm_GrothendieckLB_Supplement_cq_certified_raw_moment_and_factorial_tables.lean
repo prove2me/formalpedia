@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_certified_raw_moment_and_factorial_tables
 -- name    : GrothendieckLB.Supplement.cq_certified_raw_moment_and_factorial_tables
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T20:05:40.13439+00:00
 -- url     : https://prove2.me/theorems/0261d4a4-01e4-4198-a351-8549d1499d02

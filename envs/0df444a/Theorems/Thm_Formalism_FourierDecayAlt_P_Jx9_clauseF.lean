@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx9_clauseF
 -- name    : Formalism.FourierDecayAlt.P.Jx9.clauseF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:51:13.950932+00:00
 -- url     : https://prove2.me/theorems/cf82f85c-56b9-4037-a5ea-daf4d12280f9

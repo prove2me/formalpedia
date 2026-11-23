@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_packed_base_checks
 -- name    : GrothendieckLB.Supplement.cq_packed_base_checks
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:48:31.340808+00:00
 -- url     : https://prove2.me/theorems/23432ec5-1f6c-46fa-85c2-d246f9d60273

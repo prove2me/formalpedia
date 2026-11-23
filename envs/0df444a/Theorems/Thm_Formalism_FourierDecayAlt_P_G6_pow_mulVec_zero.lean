@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G6_pow_mulVec_zero
 -- name    : Formalism.FourierDecayAlt.P.G6.pow_mulVec_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:00:04.24607+00:00
 -- url     : https://prove2.me/theorems/706b4eaa-1269-4834-8c17-6fe1d9d3aba7

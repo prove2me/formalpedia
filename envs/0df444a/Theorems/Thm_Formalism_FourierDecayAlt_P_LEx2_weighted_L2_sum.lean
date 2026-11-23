@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_weighted_L2_sum
 -- name    : Formalism.FourierDecayAlt.P.LEx2.weighted_L2_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:53:47.066521+00:00
 -- url     : https://prove2.me/theorems/ab7335c1-278e-4e5c-9ad3-1b5d7ea35659

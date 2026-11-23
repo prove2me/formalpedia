@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HenselRootsBounded_TT_congr
 -- name    : Formalism.FourierDecayAlt.P.HenselRootsBounded.TT_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:12.338199+00:00
 -- url     : https://prove2.me/theorems/286c1899-91d2-43ce-a67d-25868d66697c

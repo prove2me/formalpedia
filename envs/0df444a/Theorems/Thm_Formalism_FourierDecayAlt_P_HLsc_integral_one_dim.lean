@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HLsc_integral_one_dim
 -- name    : Formalism.FourierDecayAlt.P.HLsc.integral_one_dim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:55.786052+00:00
 -- url     : https://prove2.me/theorems/ade0e5ce-129d-40dd-a660-00b072c01af6

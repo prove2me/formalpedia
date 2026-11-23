@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_head_through_degree_51
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T20:02:30.504594+00:00
 -- url     : https://prove2.me/submissions/22d4fcc7-e93e-4f16-8c05-1c07266a9ac8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_cq_taylor_bounds_of_integer_checks
 import Theorems.Thm_GrothendieckLB_Supplement_cq_head_integer_comparisons_51

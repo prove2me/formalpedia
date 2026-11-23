@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_orbital_integral_converges_abs
 -- name    : Formalism.FourierDecayAlt.P.orbital_integral_converges_abs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:20.712216+00:00
 -- url     : https://prove2.me/theorems/890a4c12-f8d8-475c-98a6-9864bda9027f

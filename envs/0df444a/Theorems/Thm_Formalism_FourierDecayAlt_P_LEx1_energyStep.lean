@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_energyStep
 -- name    : Formalism.FourierDecayAlt.P.LEx1.energyStep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:53:04.992529+00:00
 -- url     : https://prove2.me/theorems/8db194b3-e116-474d-b5bb-0437a3ee7963

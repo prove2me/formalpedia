@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_SubFamily
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_SubFamily
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:00.002976+00:00
 -- url     : https://prove2.me/theorems/b7c38f38-42ad-4f88-9c2c-f7a77626e539

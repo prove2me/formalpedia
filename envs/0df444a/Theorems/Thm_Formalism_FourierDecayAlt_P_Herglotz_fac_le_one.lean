@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Herglotz_fac_le_one
 -- name    : Formalism.FourierDecayAlt.P.Herglotz.fac_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:24.524801+00:00
 -- url     : https://prove2.me/theorems/5f5774c6-1d2b-47d9-8a4f-0ed164cbae69

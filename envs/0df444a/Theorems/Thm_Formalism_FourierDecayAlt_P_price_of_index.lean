@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_price_of_index
 -- name    : Formalism.FourierDecayAlt.P.price_of_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:55:07.383143+00:00
 -- url     : https://prove2.me/theorems/bd438ad3-e089-43ba-a359-ac951672c4d1

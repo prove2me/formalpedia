@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_PriceOfIota
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_PriceOfIota
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:53.695602+00:00
 -- url     : https://prove2.me/theorems/8a6cf0a4-ab20-43e2-8756-1e6d503c25f0

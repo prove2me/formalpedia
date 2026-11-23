@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_FourParts
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_FourParts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:46.169455+00:00
 -- url     : https://prove2.me/theorems/8cc40a71-5de5-464a-88a4-bb4283e279b8

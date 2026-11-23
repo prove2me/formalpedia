@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_norm_sq_tsum
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.norm_sq_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:19.054398+00:00
 -- url     : https://prove2.me/theorems/c9cd94d8-d26c-4da0-aa7c-d90b9427a829

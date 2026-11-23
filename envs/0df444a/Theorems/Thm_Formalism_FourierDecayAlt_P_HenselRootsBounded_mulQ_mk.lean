@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HenselRootsBounded_mulQ_mk
 -- name    : Formalism.FourierDecayAlt.P.HenselRootsBounded.mulQ_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:28.827801+00:00
 -- url     : https://prove2.me/theorems/fec80d05-6d7e-4378-a937-0129742d71f8

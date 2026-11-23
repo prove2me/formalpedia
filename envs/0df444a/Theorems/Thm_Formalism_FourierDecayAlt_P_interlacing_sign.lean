@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_interlacing_sign
 -- name    : Formalism.FourierDecayAlt.P.interlacing_sign
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:09:45.903531+00:00
 -- url     : https://prove2.me/theorems/aa919523-8aad-4066-8ea4-98364a27ac1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FourierUniquenessMirabolic_xOf_redOf
 -- name    : Formalism.FourierDecayAlt.P.FourierUniquenessMirabolic.xOf_redOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:10:58.620795+00:00
 -- url     : https://prove2.me/theorems/99588962-0fb5-40a6-8ef9-4cb33035fabd

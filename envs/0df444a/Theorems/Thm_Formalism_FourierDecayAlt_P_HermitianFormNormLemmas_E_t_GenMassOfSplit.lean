@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormNormLemmas_E_t_GenMassOfSplit
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.E.t_GenMassOfSplit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:49.404325+00:00
 -- url     : https://prove2.me/theorems/a120dbc5-fc3d-4509-a8d0-fcdbd69701c9

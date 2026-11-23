@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_block_lattices
 -- name    : Formalism.FourierDecayAlt.P.block_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:41:38.165243+00:00
 -- url     : https://prove2.me/theorems/a91a2295-10be-4e3d-82a4-e801e43d3230

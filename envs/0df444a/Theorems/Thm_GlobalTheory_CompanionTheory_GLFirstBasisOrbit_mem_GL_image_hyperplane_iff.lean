@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GLFirstBasisOrbit_mem_GL_image_hyperplane_iff
 -- name    : GlobalTheory.CompanionTheory.GLFirstBasisOrbit.mem_GL_image_hyperplane_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:07:41.509212+00:00
 -- url     : https://prove2.me/theorems/a049c4c7-6a76-4827-9959-a23f87bd27f8

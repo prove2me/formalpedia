@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_NumNG
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_NumNG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:05.382062+00:00
 -- url     : https://prove2.me/theorems/3cb23821-417c-42e7-b64b-b64031df53d8

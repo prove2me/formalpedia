@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_6_zero_discount_v3_antitone_of_no_positive_increment
 -- name    : Kyprianou.Ch08.StageB.source_result8_6_zero_discount_v3_antitone_of_no_positive_increment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:31:05.466799+00:00
 -- url     : https://prove2.me/theorems/7ac49018-437c-4d68-8e5e-3b6d89b361ed

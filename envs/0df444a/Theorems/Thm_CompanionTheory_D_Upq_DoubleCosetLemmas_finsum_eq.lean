@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_DoubleCosetLemmas_finsum_eq
 -- name    : CompanionTheory.D.Upq.DoubleCosetLemmas.finsum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:36.207232+00:00
 -- url     : https://prove2.me/theorems/f143ead8-15fa-4d12-9eea-6c92408e709b

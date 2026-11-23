@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_continuous_expScalar
+-- name    : GlobalTheory.HeckeOne.continuous_expScalar
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T20:25:29.376846+00:00
+-- url     : https://prove2.me/theorems/e2a04453-00b5-4d48-bbc9-84c0da490fe4
+-- title:
+--   Hecke One: continuous exp Scalar
+-- statement:
+--   The Hecke One construction uses the continuous exp Scalar property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/TwistedOperators/ExtensionEmbeddingMixedSymmOfIsComplex.lean#L84-L86
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/TwistedOperators/ExtensionEmbeddingMixedSymmOfIsComplex.lean#L84-L86
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_HeckeLEntireAndNonzeroAtOne
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_ExistsSmoothMulExtensionOfContinuousChar
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_ExtensionEmbeddingMixedSymmOfIsComplex
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open NumberField IsDedekindDomain NumberField.mixedEmbedding Classical
+open scoped ContDiff
+open Formalism.L2.Host (HChar)
+open GlobalTheory.CMVal (Ideles)
+open GlobalTheory.IndefiniteRowSideFullHecke.UnitaryHeckeCharacterIdele (ideleNorm)
+open GlobalTheory GlobalTheory.HeckeOne
+variable (K : Type) [Field K] [NumberField K]
+
+theorem GlobalTheory.HeckeOne.continuous_expScalar : Continuous (expScalar K) := by sorry

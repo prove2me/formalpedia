@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_epStep6
 -- name    : Formalism.FourierDecayAlt.P.LEx2.epStep6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:53:26.592607+00:00
 -- url     : https://prove2.me/theorems/41677a0b-24ba-49be-9d10-79ac21eae743

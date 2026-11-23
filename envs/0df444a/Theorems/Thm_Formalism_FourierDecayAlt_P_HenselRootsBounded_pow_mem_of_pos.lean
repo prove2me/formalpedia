@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HenselRootsBounded_pow_mem_of_pos
 -- name    : Formalism.FourierDecayAlt.P.HenselRootsBounded.pow_mem_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:16.684498+00:00
 -- url     : https://prove2.me/theorems/2fed6171-2e08-4afb-b411-ebe3ab009fe2

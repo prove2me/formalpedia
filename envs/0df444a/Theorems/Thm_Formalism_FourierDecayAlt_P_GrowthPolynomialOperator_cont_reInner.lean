@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_cont_reInner
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.cont_reInner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:36.571492+00:00
 -- url     : https://prove2.me/theorems/61e45d26-83ab-49f9-95c2-4d9c9a0941db

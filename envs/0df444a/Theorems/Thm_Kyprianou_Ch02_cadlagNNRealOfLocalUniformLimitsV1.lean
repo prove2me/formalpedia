@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_cadlagNNRealOfLocalUniformLimitsV1
 -- name    : Kyprianou.Ch02.cadlagNNRealOfLocalUniformLimitsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:03:03.695438+00:00
 -- url     : https://prove2.me/theorems/1a902f1e-8367-419b-912c-b59a0f149ea8

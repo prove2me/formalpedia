@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_top_eq
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.top_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:55:47.797662+00:00
 -- url     : https://prove2.me/theorems/e252408c-e94a-40e3-a16d-b34a9b1ce2cf

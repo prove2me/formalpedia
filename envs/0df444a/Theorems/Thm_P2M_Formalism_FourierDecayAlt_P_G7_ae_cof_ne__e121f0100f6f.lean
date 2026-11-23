@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_G7_ae_cof_ne__e121f0100f6f
 -- name    : P2M_Formalism_FourierDecayAlt_P_G7_ae_cof_ne__e121f0100f6f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:03:21.870583+00:00
 -- url     : https://prove2.me/theorems/3ac1a4ce-2e5b-4e43-baaa-42e48ed9a57e

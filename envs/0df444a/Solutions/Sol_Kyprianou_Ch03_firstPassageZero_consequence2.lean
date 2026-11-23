@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.firstPassageZero_consequence2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T17:26:59.51301+00:00
 -- url     : https://prove2.me/submissions/fbfbc59d-231e-4fb8-a027-a3dc9c592328
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

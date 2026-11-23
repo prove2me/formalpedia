@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G7_jacobian
 -- name    : Formalism.FourierDecayAlt.P.G7.jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:49:45.399507+00:00
 -- url     : https://prove2.me/theorems/0058d867-3454-4a8a-8d5a-74547aac4300

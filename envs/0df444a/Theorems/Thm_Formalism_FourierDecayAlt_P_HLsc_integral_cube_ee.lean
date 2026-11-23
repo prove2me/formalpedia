@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HLsc_integral_cube_ee
 -- name    : Formalism.FourierDecayAlt.P.HLsc.integral_cube_ee
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:08.073431+00:00
 -- url     : https://prove2.me/theorems/a4a28ee1-4684-478f-a525-058f2ecfbb67

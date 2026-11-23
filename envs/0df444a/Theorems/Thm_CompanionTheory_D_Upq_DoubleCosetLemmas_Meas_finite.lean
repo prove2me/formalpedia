@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_DoubleCosetLemmas_Meas_finite
 -- name    : CompanionTheory.D.Upq.DoubleCosetLemmas.Meas.finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:06:25.632038+00:00
 -- url     : https://prove2.me/theorems/976e7eec-37b0-41ca-952b-bc773ef3ff33

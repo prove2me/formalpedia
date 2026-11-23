@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise36_zeroRootEverPassage
 -- name    : Kyprianou.Ch03.exercise36_zeroRootEverPassage
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:45:58.519442+00:00
 -- url     : https://prove2.me/theorems/1e1166bd-ad2d-4451-8d3b-2b221e0807f8

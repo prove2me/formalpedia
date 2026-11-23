@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_EqualIota
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_EqualIota
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:49.451285+00:00
 -- url     : https://prove2.me/theorems/bd41323d-d7fc-4df5-96b5-552698666050

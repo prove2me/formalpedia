@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_NumPrice
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_NumPrice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:57.163012+00:00
 -- url     : https://prove2.me/theorems/0848bfc2-de4e-4bb3-bb29-0d3263536ec5

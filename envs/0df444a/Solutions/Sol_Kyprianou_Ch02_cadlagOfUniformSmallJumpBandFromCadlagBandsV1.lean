@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.cadlagOfUniformSmallJumpBandFromCadlagBandsV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T20:05:12.883137+00:00
 -- url     : https://prove2.me/submissions/fc6c703c-0e81-40b3-a820-b35b6900e68d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch02_cadlagNNRealOfLocalUniformLimitsV1
 import Definitions.Def_Kyprianou_Ch02_CompletedPoissonFiltration

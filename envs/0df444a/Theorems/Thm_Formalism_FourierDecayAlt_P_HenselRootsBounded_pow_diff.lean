@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HenselRootsBounded_pow_diff
 -- name    : Formalism.FourierDecayAlt.P.HenselRootsBounded.pow_diff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:14.462808+00:00
 -- url     : https://prove2.me/theorems/30932aa9-e529-4b29-8fcb-522df4508179

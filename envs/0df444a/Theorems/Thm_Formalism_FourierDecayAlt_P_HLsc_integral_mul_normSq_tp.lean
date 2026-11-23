@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HLsc_integral_mul_normSq_tp
 -- name    : Formalism.FourierDecayAlt.P.HLsc.integral_mul_normSq_tp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:46:53.431529+00:00
 -- url     : https://prove2.me/theorems/922fb3ec-6035-400c-b4c9-0a3dc19df9d6

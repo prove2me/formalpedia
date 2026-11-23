@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormNormLemmas_D1_t_ExponentSumText
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.D1.t_ExponentSumText
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:42.438523+00:00
 -- url     : https://prove2.me/theorems/ec7273fb-5738-4355-a7bc-3ee040ab6462

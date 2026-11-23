@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_LoopsGiveRows
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_LoopsGiveRows
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:09.794815+00:00
 -- url     : https://prove2.me/theorems/119389c7-ebca-4294-acc7-c7625e96d776

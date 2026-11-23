@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G4_char_blk
 -- name    : Formalism.FourierDecayAlt.P.G4.char_blk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:20:01.362117+00:00
 -- url     : https://prove2.me/theorems/f144f734-7e44-4c34-b405-fee4d829838f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G3_double_smul
 -- name    : Formalism.FourierDecayAlt.P.G3.double_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:39:04.133617+00:00
 -- url     : https://prove2.me/theorems/a066527d-3e01-495c-b0c3-b037d03f7656

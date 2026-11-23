@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HessianScalingIntegrals_psi_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.HessianScalingIntegrals.psi_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:47.980799+00:00
 -- url     : https://prove2.me/theorems/fd9b77ed-25b7-42db-9d50-36ca318e979a

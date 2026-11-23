@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HenselRootsBounded_roots_finite
 -- name    : Formalism.FourierDecayAlt.P.HenselRootsBounded.roots_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:20.953937+00:00
 -- url     : https://prove2.me/theorems/b26427f8-8796-4ed4-bc9b-4bec8ddfe6b0

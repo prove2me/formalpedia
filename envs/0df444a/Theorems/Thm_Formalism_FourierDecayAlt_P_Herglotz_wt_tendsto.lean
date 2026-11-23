@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Herglotz_wt_tendsto
 -- name    : Formalism.FourierDecayAlt.P.Herglotz.wt_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:28.798268+00:00
 -- url     : https://prove2.me/theorems/98c68915-6da1-47d8-931f-89b6f449fd1d

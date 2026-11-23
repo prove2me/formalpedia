@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HLsc_parseval
 -- name    : Formalism.FourierDecayAlt.P.HLsc.parseval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:56.673615+00:00
 -- url     : https://prove2.me/theorems/7350e1fb-0682-4c57-9818-02ab367d2933

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_euler_product_bounds
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.euler_product_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:18.798244+00:00
 -- url     : https://prove2.me/theorems/cb6ee1cb-1e97-44c0-9cb3-4d5fb9c9a39b

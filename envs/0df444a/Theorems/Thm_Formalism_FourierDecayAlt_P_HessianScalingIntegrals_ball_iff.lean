@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HessianScalingIntegrals_ball_iff
 -- name    : Formalism.FourierDecayAlt.P.HessianScalingIntegrals.ball_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:43.664474+00:00
 -- url     : https://prove2.me/theorems/6e184b14-f19e-48b8-8ad3-9f6d84fd0b70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx3_t_TracePairing
 -- name    : Formalism.FourierDecayAlt.P.Jx3.t_TracePairing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:48:13.752635+00:00
 -- url     : https://prove2.me/theorems/5f5bb4e3-159e-4899-baa8-519fa7984a4b

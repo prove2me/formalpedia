@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G8_integral_gK
 -- name    : Formalism.FourierDecayAlt.P.G8.integral_gK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:03:20.155686+00:00
 -- url     : https://prove2.me/theorems/480e8219-4d32-478d-a7c0-335925f40d1b

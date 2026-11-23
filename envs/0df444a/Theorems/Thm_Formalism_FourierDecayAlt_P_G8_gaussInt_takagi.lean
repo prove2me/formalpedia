@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G8_gaussInt_takagi
 -- name    : Formalism.FourierDecayAlt.P.G8.gaussInt_takagi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:03:18.259142+00:00
 -- url     : https://prove2.me/theorems/525d3614-6e05-477b-b63e-a4c80939ab3a

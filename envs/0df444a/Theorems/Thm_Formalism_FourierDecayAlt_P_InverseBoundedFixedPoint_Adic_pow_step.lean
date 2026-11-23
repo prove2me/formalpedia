@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_InverseBoundedFixedPoint_Adic_pow_step
 -- name    : Formalism.FourierDecayAlt.P.InverseBoundedFixedPoint.Adic.pow_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:57.526092+00:00
 -- url     : https://prove2.me/theorems/d4264510-e69c-4410-ba6e-d01359d3330c

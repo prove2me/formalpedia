@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_pr_bound
 -- name    : Formalism.FourierDecayAlt.P.LEx2.pr_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:52:17.799807+00:00
 -- url     : https://prove2.me/theorems/61a30bf9-61c1-493a-929e-aa666decac50

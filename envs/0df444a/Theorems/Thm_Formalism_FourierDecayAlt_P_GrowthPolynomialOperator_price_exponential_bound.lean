@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_price_exponential_bound
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.price_exponential_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:48.567245+00:00
 -- url     : https://prove2.me/theorems/74cc600a-3e2a-4ef0-8aa7-070033c962e3

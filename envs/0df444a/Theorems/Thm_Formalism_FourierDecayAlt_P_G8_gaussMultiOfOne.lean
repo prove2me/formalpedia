@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G8_gaussMultiOfOne
 -- name    : Formalism.FourierDecayAlt.P.G8.gaussMultiOfOne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:03:23.416908+00:00
 -- url     : https://prove2.me/theorems/4608c6e8-74c1-43c0-9db5-4031615574ee

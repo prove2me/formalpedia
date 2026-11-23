@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_head_integer_comparisons_51
 -- name    : GrothendieckLB.Supplement.cq_head_integer_comparisons_51
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:51:31.481298+00:00
 -- url     : https://prove2.me/theorems/b094be9c-4c78-45b1-b1c5-ff13e214def1

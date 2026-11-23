@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_re_inner_tsum
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.re_inner_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:30.703378+00:00
 -- url     : https://prove2.me/theorems/bb7e3954-44c3-4fa3-893b-a05a5d44a77b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GramProductIdentities_prod_bounds
 -- name    : Formalism.FourierDecayAlt.P.GramProductIdentities.prod_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:51.45689+00:00
 -- url     : https://prove2.me/theorems/e01ec141-53e4-479b-bf16-e5e3769398dc

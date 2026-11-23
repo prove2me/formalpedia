@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_EtaZero
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_EtaZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:51.758563+00:00
 -- url     : https://prove2.me/theorems/3b738dc9-5e6e-4ea0-83af-9a3e24254e03

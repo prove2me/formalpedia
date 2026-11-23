@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G4_exists_blk_lower
 -- name    : Formalism.FourierDecayAlt.P.G4.exists_blk_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:39:12.668335+00:00
 -- url     : https://prove2.me/theorems/4d9ac85b-67e6-470f-be88-930d68941aff

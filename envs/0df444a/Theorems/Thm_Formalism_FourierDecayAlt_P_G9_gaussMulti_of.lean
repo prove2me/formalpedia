@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G9_gaussMulti_of
 -- name    : Formalism.FourierDecayAlt.P.G9.gaussMulti_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:03:28.16523+00:00
 -- url     : https://prove2.me/theorems/4737ece5-afd5-4bb1-bf16-b367499b89be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HLsc_integrable_mul_ee
 -- name    : Formalism.FourierDecayAlt.P.HLsc.integrable_mul_ee
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:06.850811+00:00
 -- url     : https://prove2.me/theorems/17e5a79c-39f6-4b41-afda-f8f19cab0b32

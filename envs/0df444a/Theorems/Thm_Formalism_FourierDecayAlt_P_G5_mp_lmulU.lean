@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G5_mp_lmulU
 -- name    : Formalism.FourierDecayAlt.P.G5.mp_lmulU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:42:09.980709+00:00
 -- url     : https://prove2.me/theorems/c56255ed-4bbb-44f3-8c12-859fd3b0a16f

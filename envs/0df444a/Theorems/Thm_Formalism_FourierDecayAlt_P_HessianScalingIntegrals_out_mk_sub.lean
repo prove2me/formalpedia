@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HessianScalingIntegrals_out_mk_sub
 -- name    : Formalism.FourierDecayAlt.P.HessianScalingIntegrals.out_mk_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:52.384688+00:00
 -- url     : https://prove2.me/theorems/648ed57b-11ec-49f5-a79d-5dfff1c671ff

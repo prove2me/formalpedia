@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormNormLemmas_D3_t_NGNumbers
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.D3.t_NGNumbers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:50.341387+00:00
 -- url     : https://prove2.me/theorems/33d10e82-2450-4383-946d-8d8c490c8a8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_primary_power_rows_145_to_192
 -- name    : GrothendieckLB.Supplement.cq_primary_power_rows_145_to_192
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:42:09.945443+00:00
 -- url     : https://prove2.me/theorems/4dfc9d19-5014-4261-9314-5af93173d3c8

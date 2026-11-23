@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G3_double_vol
 -- name    : Formalism.FourierDecayAlt.P.G3.double_vol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:59:23.501695+00:00
 -- url     : https://prove2.me/theorems/2d0097bb-0dbb-4952-9f6f-6aea601a3d40

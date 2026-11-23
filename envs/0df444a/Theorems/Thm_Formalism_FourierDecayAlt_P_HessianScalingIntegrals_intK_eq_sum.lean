@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HessianScalingIntegrals_intK_eq_sum
 -- name    : Formalism.FourierDecayAlt.P.HessianScalingIntegrals.intK_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:59.119432+00:00
 -- url     : https://prove2.me/theorems/9276fb1c-eba8-4351-b0bf-9fed88d66e66

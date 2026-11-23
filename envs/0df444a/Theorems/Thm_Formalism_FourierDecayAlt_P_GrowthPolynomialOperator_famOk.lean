@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_famOk
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.famOk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:29.483271+00:00
 -- url     : https://prove2.me/theorems/7d317868-3233-4699-ad6d-f13b41b9ab91

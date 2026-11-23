@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_cofXY_eq
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.cofXY_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:55:47.008348+00:00
 -- url     : https://prove2.me/theorems/8ceedc57-f6a4-482b-a142-90ddac1c0443

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G8_gaussOneDamped
 -- name    : Formalism.FourierDecayAlt.P.G8.gaussOneDamped
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:43:23.358802+00:00
 -- url     : https://prove2.me/theorems/07a5ed7d-fecc-446a-85c7-8a7dd9ca377b

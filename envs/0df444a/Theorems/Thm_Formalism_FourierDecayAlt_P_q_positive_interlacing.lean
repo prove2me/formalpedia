@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_q_positive_interlacing
 -- name    : Formalism.FourierDecayAlt.P.q_positive_interlacing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:09:37.771018+00:00
 -- url     : https://prove2.me/theorems/d2a7639b-79b0-4f2e-80d6-55fd94dd935e

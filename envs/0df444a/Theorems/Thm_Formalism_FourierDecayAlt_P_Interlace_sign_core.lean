@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Interlace_sign_core
 -- name    : Formalism.FourierDecayAlt.P.Interlace.sign_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:53.462775+00:00
 -- url     : https://prove2.me/theorems/c23d3a76-c131-43b6-8ae9-318f58bb761b

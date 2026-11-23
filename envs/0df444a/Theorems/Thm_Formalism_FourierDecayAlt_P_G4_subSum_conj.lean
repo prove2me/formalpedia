@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G4_subSum_conj
 -- name    : Formalism.FourierDecayAlt.P.G4.subSum_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:39:50.240375+00:00
 -- url     : https://prove2.me/theorems/6fba0b89-89a4-43b5-bf03-6e70fbd85fc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_certified_125_terminal_comparisons
 -- name    : GrothendieckLB.Supplement.cq_certified_125_terminal_comparisons
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T20:05:13.376008+00:00
 -- url     : https://prove2.me/theorems/8ae46599-3bae-4254-aeeb-dea1bba982e8

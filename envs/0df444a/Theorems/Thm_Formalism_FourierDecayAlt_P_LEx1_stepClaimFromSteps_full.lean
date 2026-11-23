@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_stepClaimFromSteps_full
 -- name    : Formalism.FourierDecayAlt.P.LEx1.stepClaimFromSteps_full
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:53:18.772921+00:00
 -- url     : https://prove2.me/theorems/f4539bab-64d2-4d7e-838c-8b6cb5d0e9f4

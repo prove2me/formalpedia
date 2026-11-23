@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_cadlagOfUniformSmallJumpBandFromCadlagBandsV1
 -- name    : Kyprianou.Ch02.cadlagOfUniformSmallJumpBandFromCadlagBandsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:52:27.046887+00:00
 -- url     : https://prove2.me/theorems/448bc5ff-19bc-4714-ab1c-2c93035355e4

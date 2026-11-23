@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Herglotz_wt_nonneg
 -- name    : Formalism.FourierDecayAlt.P.Herglotz.wt_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:35.421401+00:00
 -- url     : https://prove2.me/theorems/cde703b2-b896-46be-935d-5afb9f928dce

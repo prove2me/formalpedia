@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_NormalisedValue_val_eq_pow_of_int
 -- name    : GlobalTheory.CompanionTheory.QL.NormalisedValue.val_eq_pow_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:07:07.425569+00:00
 -- url     : https://prove2.me/theorems/71c72ed1-d6e3-41ff-a593-f1e2ec059efc

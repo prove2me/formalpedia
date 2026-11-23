@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_head_through_degree_51
 -- name    : GrothendieckLB.Supplement.cq_head_through_degree_51
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:59:56.908111+00:00
 -- url     : https://prove2.me/theorems/f33fb42f-833b-4f5c-9a55-00cabd3ebc7c

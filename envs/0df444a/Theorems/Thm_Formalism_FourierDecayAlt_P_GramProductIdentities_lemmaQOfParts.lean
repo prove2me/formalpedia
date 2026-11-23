@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GramProductIdentities_lemmaQOfParts
 -- name    : Formalism.FourierDecayAlt.P.GramProductIdentities.lemmaQOfParts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:27.907825+00:00
 -- url     : https://prove2.me/theorems/5507b749-cd92-47cf-9092-6aefc2e54fa2

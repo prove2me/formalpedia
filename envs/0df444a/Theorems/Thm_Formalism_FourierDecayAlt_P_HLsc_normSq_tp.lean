@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HLsc_normSq_tp
 -- name    : Formalism.FourierDecayAlt.P.HLsc.normSq_tp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:03.107799+00:00
 -- url     : https://prove2.me/theorems/70ca4c21-27fb-46cf-96d3-f4a1f1e9743e

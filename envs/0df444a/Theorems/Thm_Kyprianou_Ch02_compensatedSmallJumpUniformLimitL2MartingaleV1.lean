@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_compensatedSmallJumpUniformLimitL2MartingaleV1
 -- name    : Kyprianou.Ch02.compensatedSmallJumpUniformLimitL2MartingaleV1
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-11-23T19:42:21.021804+00:00
 -- url     : https://prove2.me/theorems/55d1ea15-5edf-4886-8c50-04e78b44b8e6

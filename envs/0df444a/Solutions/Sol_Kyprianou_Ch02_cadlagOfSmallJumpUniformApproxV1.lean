@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.cadlagOfSmallJumpUniformApproxV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T19:54:31.697422+00:00
 -- url     : https://prove2.me/submissions/3ec2e3bb-5533-49d4-977a-a83639a121d5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch02_cadlagOfUniformSmallJumpBandFromCadlagBandsV1
 import Theorems.Thm_Kyprianou_Ch02_compensatedSmallJumpBandCadlagAEV1

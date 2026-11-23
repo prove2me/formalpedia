@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G4_superSum_inv
 -- name    : Formalism.FourierDecayAlt.P.G4.superSum_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:41:39.862727+00:00
 -- url     : https://prove2.me/theorems/9a66bbe0-364e-4b0a-82e9-41dd3b6c953d

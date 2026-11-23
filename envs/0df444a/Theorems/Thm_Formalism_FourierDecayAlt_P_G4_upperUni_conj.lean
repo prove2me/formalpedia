@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G4_upperUni_conj
 -- name    : Formalism.FourierDecayAlt.P.G4.upperUni_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:41:48.40696+00:00
 -- url     : https://prove2.me/theorems/402bcee2-76d5-4734-b81c-51b6d036863d

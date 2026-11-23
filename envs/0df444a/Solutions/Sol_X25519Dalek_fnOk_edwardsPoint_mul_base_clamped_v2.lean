@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for X25519Dalek.fnOk_edwardsPoint_mul_base_clamped_v2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-23T19:42:22.784839+00:00
 -- url     : https://prove2.me/submissions/37929581-35d8-4515-bdeb-249024b80a99
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Algebra.Order.Ring.Star
 import Mathlib.Data.List.GetD

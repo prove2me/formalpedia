@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_equal_index
 -- name    : Formalism.FourierDecayAlt.P.equal_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:54:31.173474+00:00
 -- url     : https://prove2.me/theorems/2b4f6ffe-1bd0-4add-9d76-d386e351ee04

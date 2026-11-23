@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G8_diagF_eq_prod
 -- name    : Formalism.FourierDecayAlt.P.G8.diagF_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:03:20.809677+00:00
 -- url     : https://prove2.me/theorems/6f05ea00-42c4-4770-a4e2-8b48b05058fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_upwardPassageProbabilityAndDrift
 -- name    : Kyprianou.Ch03.upwardPassageProbabilityAndDrift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T16:42:40.259198+00:00
 -- url     : https://prove2.me/theorems/71ce0d64-73c7-4458-92bf-8304892741f8

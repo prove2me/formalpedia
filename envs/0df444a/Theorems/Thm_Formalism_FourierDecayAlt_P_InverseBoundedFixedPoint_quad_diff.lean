@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_InverseBoundedFixedPoint_quad_diff
 -- name    : Formalism.FourierDecayAlt.P.InverseBoundedFixedPoint.quad_diff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:47:20.85514+00:00
 -- url     : https://prove2.me/theorems/57aeb770-80b3-4abb-b243-7ced5df0938f

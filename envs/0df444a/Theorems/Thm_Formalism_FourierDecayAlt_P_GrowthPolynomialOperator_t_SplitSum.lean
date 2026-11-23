@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_SplitSum
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_SplitSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:03.764657+00:00
 -- url     : https://prove2.me/theorems/37c84ab2-9d56-4af3-b7a4-e9584ab76606

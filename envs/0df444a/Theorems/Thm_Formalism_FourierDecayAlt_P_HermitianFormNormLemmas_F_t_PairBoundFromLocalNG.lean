@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormNormLemmas_F_t_PairBoundFromLocalNG
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.F.t_PairBoundFromLocalNG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:48.040955+00:00
 -- url     : https://prove2.me/theorems/98837373-58d7-41e2-a81d-f4fccbb9184d

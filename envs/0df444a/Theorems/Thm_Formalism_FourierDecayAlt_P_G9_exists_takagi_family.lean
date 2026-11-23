@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G9_exists_takagi_family
 -- name    : Formalism.FourierDecayAlt.P.G9.exists_takagi_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:03:36.249072+00:00
 -- url     : https://prove2.me/theorems/1618b4ff-1503-418f-a231-5bf473dff3b9

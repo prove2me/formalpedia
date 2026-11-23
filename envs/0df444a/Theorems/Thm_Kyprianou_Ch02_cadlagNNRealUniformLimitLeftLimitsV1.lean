@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_cadlagNNRealUniformLimitLeftLimitsV1
 -- name    : Kyprianou.Ch02.cadlagNNRealUniformLimitLeftLimitsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:06:58.191248+00:00
 -- url     : https://prove2.me/theorems/00f5291a-bf9e-40db-9c1d-f09101819ea1

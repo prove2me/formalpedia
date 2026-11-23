@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_AxiomsOfLocalModel
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_AxiomsOfLocalModel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:33.656005+00:00
 -- url     : https://prove2.me/theorems/e1f98d4e-e1a6-4c76-9ae7-5c13314c02d8

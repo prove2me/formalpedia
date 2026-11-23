@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_HenselRootsBounded_inv_one_add__182a426a02a7
 -- name    : P2M_Formalism_FourierDecayAlt_P_HenselRootsBounded_inv_one_add__182a426a02a7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:03:56.717519+00:00
 -- url     : https://prove2.me/theorems/f2a075e0-9642-4d30-9139-446236253b8a

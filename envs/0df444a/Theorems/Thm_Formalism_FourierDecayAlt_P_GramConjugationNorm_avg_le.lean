@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GramConjugationNorm_avg_le
 -- name    : Formalism.FourierDecayAlt.P.GramConjugationNorm.avg_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:44:09.248646+00:00
 -- url     : https://prove2.me/theorems/3c9abc26-6e8f-4343-be23-495bec44eb58

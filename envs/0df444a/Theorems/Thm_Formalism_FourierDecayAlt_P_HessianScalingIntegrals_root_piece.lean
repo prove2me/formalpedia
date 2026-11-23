@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HessianScalingIntegrals_root_piece
 -- name    : Formalism.FourierDecayAlt.P.HessianScalingIntegrals.root_piece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:52.756543+00:00
 -- url     : https://prove2.me/theorems/a1bb7ec4-10f5-4d81-8bc6-fb8140ee9f01

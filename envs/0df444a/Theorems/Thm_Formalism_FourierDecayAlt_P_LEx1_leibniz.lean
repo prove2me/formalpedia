@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_leibniz
 -- name    : Formalism.FourierDecayAlt.P.LEx1.leibniz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:02:19.140261+00:00
 -- url     : https://prove2.me/theorems/96b2a5fb-30d1-446a-9ea0-27fa081d5612

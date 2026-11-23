@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HLsc_integrable_indicator_cube
 -- name    : Formalism.FourierDecayAlt.P.HLsc.integrable_indicator_cube
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:13.478562+00:00
 -- url     : https://prove2.me/theorems/25dd45df-e50d-4cba-806e-ba9a96ce5aa8

@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_amgm
+-- name    : Formalism.FourierDecayAlt.P.LEx1.amgm
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T20:18:14.79137+00:00
+-- url     : https://prove2.me/theorems/0430d4f8-5cdc-4919-9e51-c74e02c9db92
+-- title:
+--   LEx1: amgm
+-- statement:
+--   The LEx1 construction uses the amgm property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LemmaEprimeFromSteps.lean#L516-L520
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LemmaEprimeFromSteps.lean#L516-L520
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementLE
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LemmaEprimeFromSteps
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.LEx1
+open Formalism.FourierDecayAlt.LE
+open MeasureTheory Filter Topology Finset
+open scoped ComplexConjugate
+
+theorem Formalism.FourierDecayAlt.P.LEx1.amgm (a b δ : ℝ) (hδ : 0 < δ) : a * b ≤ (a ^ 2 / δ + δ * b ^ 2) / 2 := by sorry

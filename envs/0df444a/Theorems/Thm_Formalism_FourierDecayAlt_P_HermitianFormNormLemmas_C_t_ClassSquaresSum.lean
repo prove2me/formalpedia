@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormNormLemmas_C_t_ClassSquaresSum
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.C.t_ClassSquaresSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:52.487513+00:00
 -- url     : https://prove2.me/theorems/6ea6ebb0-24ca-4345-8c7c-ec9e66aad2a2

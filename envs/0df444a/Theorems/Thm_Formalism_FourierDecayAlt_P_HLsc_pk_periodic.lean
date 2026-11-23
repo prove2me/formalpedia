@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HLsc_pk_periodic
 -- name    : Formalism.FourierDecayAlt.P.HLsc.pk_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:21.654553+00:00
 -- url     : https://prove2.me/theorems/9e562fad-53ba-4e87-9577-905b4ed908fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Crit_cof_lower
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Crit.cof_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:56:52.136817+00:00
 -- url     : https://prove2.me/theorems/472b7aae-f263-443f-866f-9b85ae4fd25f

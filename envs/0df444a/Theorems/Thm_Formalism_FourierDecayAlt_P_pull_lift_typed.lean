@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_pull_lift_typed
 -- name    : Formalism.FourierDecayAlt.P.pull_lift_typed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:45.045124+00:00
 -- url     : https://prove2.me/theorems/70d43f77-d988-4fbb-8282-bded6e00ebc8

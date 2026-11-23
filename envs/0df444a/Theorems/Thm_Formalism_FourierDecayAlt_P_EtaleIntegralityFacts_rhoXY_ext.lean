@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_rhoXY_ext
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.rhoXY_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:57:14.0072+00:00
 -- url     : https://prove2.me/theorems/01d33c42-9fc0-44cc-ab2a-8bbf362f326a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LevelGrowthBounds_Pp_nonneg
 -- name    : Formalism.FourierDecayAlt.P.LevelGrowthBounds.Pp_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:53:54.015282+00:00
 -- url     : https://prove2.me/theorems/ad4c23ed-6dde-435c-86a2-31d3ce59483a

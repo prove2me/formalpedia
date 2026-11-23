@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Par_isOpen_GLint
 -- name    : GlobalTheory.CompanionTheory.QL.Par.isOpen_GLint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:07:16.425312+00:00
 -- url     : https://prove2.me/theorems/8f970cdb-d7d5-4949-8cc4-8f42305d5771

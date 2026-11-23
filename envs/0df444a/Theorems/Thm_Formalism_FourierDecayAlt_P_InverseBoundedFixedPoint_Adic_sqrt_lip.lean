@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_InverseBoundedFixedPoint_Adic_sqrt_lip
 -- name    : Formalism.FourierDecayAlt.P.InverseBoundedFixedPoint.Adic.sqrt_lip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:46:58.543995+00:00
 -- url     : https://prove2.me/theorems/5e910937-002f-42e6-8106-7ecfdf8ccdb6

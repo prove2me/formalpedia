@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G9_gaussOneDamped
 -- name    : Formalism.FourierDecayAlt.P.G9.gaussOneDamped
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:03:27.487916+00:00
 -- url     : https://prove2.me/theorems/3735d260-c69d-4255-a676-85c40b3c1c29

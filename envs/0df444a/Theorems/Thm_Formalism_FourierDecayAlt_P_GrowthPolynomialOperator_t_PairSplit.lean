@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_PairSplit
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_PairSplit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:07.78621+00:00
 -- url     : https://prove2.me/theorems/21b85fba-92a4-4742-8acd-c342c59ff484

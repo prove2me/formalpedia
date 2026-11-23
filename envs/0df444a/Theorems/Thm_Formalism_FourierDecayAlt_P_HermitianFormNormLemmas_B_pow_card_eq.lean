@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormNormLemmas_B_pow_card_eq
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.B.pow_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:58.344915+00:00
 -- url     : https://prove2.me/theorems/fc8a8bd5-16f0-4292-970b-396a9c6d01b5

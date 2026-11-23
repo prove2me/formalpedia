@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Herglotz_count_box
 -- name    : Formalism.FourierDecayAlt.P.Herglotz.count_box
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:24.130142+00:00
 -- url     : https://prove2.me/theorems/eb567159-ead6-43bb-8d4d-d771174ee54c

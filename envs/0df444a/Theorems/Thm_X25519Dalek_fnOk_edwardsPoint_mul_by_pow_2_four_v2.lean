@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_X25519Dalek_fnOk_edwardsPoint_mul_by_pow_2_four_v2
 -- name    : X25519Dalek.fnOk_edwardsPoint_mul_by_pow_2_four_v2
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-23T19:13:59.975957+00:00
 -- url     : https://prove2.me/theorems/4bca812f-6767-4eea-b994-a6e074b3492a

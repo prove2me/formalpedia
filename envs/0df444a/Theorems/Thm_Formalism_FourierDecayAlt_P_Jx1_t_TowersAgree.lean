@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Jx1_t_TowersAgree
 -- name    : Formalism.FourierDecayAlt.P.Jx1.t_TowersAgree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:47:16.677108+00:00
 -- url     : https://prove2.me/theorems/38c26d87-8bb9-405f-8859-103a557ee08b
