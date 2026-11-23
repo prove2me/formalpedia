@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortBroadcastDom_lemma_4_1_orientation
 -- name    : ShortBroadcastDom.lemma_4_1_orientation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:26:36.062566+00:00
 -- url     : https://prove2.me/theorems/48378c1a-8fc4-467e-b37c-e69a501c1b16

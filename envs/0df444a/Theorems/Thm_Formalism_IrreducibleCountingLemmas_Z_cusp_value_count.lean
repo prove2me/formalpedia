@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_cusp_value_count
 -- name    : Formalism.IrreducibleCountingLemmas.Z.cusp_value_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:48.762941+00:00
 -- url     : https://prove2.me/theorems/14fd13cb-b4e7-4d76-8787-ca75df87e103

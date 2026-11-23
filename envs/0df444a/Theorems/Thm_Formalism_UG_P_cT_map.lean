@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cT_map
 -- name    : Formalism.UG.P.cT_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:40.459216+00:00
 -- url     : https://prove2.me/theorems/11ac7186-581d-476d-9fde-af63bec8ca42

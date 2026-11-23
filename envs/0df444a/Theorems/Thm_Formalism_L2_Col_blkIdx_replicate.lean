@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_blkIdx_replicate
 -- name    : Formalism.L2.Col.blkIdx_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:28.747395+00:00
 -- url     : https://prove2.me/theorems/3bd0504f-9dab-4c96-9001-d4b5b68624f6

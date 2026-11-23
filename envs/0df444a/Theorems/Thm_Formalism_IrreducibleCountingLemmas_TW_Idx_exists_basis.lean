@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_Idx_exists_basis
 -- name    : Formalism.IrreducibleCountingLemmas.TW.Idx.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:45:53.241049+00:00
 -- url     : https://prove2.me/theorems/f0c4b89e-3a86-4f65-bf44-a0ecd512dfd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_mem_intDel_iff
 -- name    : Formalism.L2.Col.GSD.mem_intDel_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:40:37.841285+00:00
 -- url     : https://prove2.me/theorems/fcca15af-9b63-4c1e-880c-81faa45eae83

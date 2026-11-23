@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_Iso_iso_onForms_mem_integral_iff
 -- name    : Formalism.L2.Col.GSD.Iso.iso_onForms_mem_integral_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:11.409919+00:00
 -- url     : https://prove2.me/theorems/04111762-7234-4894-8862-56d24ccd9e4e

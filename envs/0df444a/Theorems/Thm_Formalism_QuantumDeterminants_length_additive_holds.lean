@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_length_additive_holds
 -- name    : Formalism.QuantumDeterminants.length_additive_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:31:57.930493+00:00
 -- url     : https://prove2.me/theorems/5fca7fef-e2fb-4fe6-8210-0691214a61b1

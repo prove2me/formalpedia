@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_additive_character_holds
 -- name    : Formalism.QuantumDeterminants.additive_character_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:38.194971+00:00
 -- url     : https://prove2.me/theorems/c2e4e282-f0ff-40e2-be50-56d7eb6af6d5

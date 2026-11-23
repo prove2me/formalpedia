@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_ColsDim_columns_decomposition
 -- name    : Formalism.L2.SG.ColsDim.columns_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:10:04.848815+00:00
 -- url     : https://prove2.me/theorems/878666fa-1643-4cdf-9328-78cce907229a

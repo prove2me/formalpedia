@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_IntegralMvPolynomialLemmas_intMv_substMv
 -- name    : Formalism.L2.Th1.C.IntegralMvPolynomialLemmas.intMv_substMv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:43.440365+00:00
 -- url     : https://prove2.me/theorems/db92f19b-103e-4b38-9a8c-4d37d2adfad1

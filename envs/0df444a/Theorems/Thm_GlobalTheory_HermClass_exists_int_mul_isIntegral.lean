@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermClass_exists_int_mul_isIntegral
 -- name    : GlobalTheory.HermClass.exists_int_mul_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:43.979078+00:00
 -- url     : https://prove2.me/theorems/294c4f54-f845-454d-ab73-800f6f0b4a3c

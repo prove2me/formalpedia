@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_monicOf_natDegree
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.monicOf_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:51:10.991812+00:00
 -- url     : https://prove2.me/theorems/69e13fd1-a3fe-4f36-8b46-80edc7c595c3

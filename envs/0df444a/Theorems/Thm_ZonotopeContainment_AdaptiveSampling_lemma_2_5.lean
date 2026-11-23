@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZonotopeContainment_AdaptiveSampling_lemma_2_5
 -- name    : ZonotopeContainment.AdaptiveSampling.lemma_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:20:46.770393+00:00
 -- url     : https://prove2.me/theorems/a9e490c1-8709-4cb6-9fd3-2521aebce597

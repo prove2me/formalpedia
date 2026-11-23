@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepMeasures_lemma_2_6
 -- name    : SepMeasures.lemma_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:11:52.819943+00:00
 -- url     : https://prove2.me/theorems/18c7b395-5082-4147-8605-07d08ba06d6f

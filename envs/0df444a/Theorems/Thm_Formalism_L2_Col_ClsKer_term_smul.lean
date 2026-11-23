@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_ClsKer_term_smul
 -- name    : Formalism.L2.Col.ClsKer.term_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:07:58.370202+00:00
 -- url     : https://prove2.me/theorems/6508972e-3656-4ef1-9268-b1badca9008b

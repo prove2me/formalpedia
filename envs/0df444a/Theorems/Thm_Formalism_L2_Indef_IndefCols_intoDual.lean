@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefCols_intoDual
 -- name    : Formalism.L2.Indef.IndefCols.intoDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:19:45.143911+00:00
 -- url     : https://prove2.me/theorems/f353079a-14d9-4b96-b5f7-bd9d07ff222b

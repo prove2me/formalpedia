@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_typeProj_glActC
 -- name    : Formalism.InvariantFactorPaths.L4.typeProj_glActC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:30:55.284725+00:00
 -- url     : https://prove2.me/theorems/037bb5af-5fc6-4692-926c-e7dab1c01d2c

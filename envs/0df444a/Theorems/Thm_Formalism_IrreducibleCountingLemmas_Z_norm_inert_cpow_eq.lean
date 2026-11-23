@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_norm_inert_cpow_eq
 -- name    : Formalism.IrreducibleCountingLemmas.Z.norm_inert_cpow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:08.345805+00:00
 -- url     : https://prove2.me/theorems/79151a66-9e89-4802-9f8e-6aa118c159bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_Iso_card_stab
 -- name    : Formalism.L2.Col.GSD.Iso.card_stab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:05.862817+00:00
 -- url     : https://prove2.me/theorems/fc6d0bc7-7dd9-43e7-84b3-7925cc9ac22d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_map_restr
 -- name    : Formalism.L2.DIV.map_restr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:19.323587+00:00
 -- url     : https://prove2.me/theorems/44fcc717-9077-4087-963c-3068022f04fb

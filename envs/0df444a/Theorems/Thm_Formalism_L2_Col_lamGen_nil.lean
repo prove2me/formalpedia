@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lamGen_nil
 -- name    : Formalism.L2.Col.lamGen_nil
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:58.625441+00:00
 -- url     : https://prove2.me/theorems/7c1f05ec-5cb4-4990-8195-d0e709559da4

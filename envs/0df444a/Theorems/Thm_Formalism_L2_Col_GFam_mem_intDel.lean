@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GFam_mem_intDel
 -- name    : Formalism.L2.Col.GFam.mem_intDel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:45.359503+00:00
 -- url     : https://prove2.me/theorems/ad9786b2-a8b1-40e4-9129-1f8666e0893b

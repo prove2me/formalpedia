@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FasterWCTFPTAS_Main_smith_rule
 -- name    : FasterWCTFPTAS.Main.smith_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T07:06:36.096948+00:00
 -- url     : https://prove2.me/theorems/acfff2d6-e0c2-4454-9192-96348abb29ee

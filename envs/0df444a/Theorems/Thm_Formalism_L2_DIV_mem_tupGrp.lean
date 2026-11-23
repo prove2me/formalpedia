@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_mem_tupGrp
 -- name    : Formalism.L2.DIV.mem_tupGrp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:56:53.080508+00:00
 -- url     : https://prove2.me/theorems/2f3037e1-d491-43dc-9e9f-3c81ebbf255e

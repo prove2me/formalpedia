@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_triv_ok
 -- name    : Formalism.L2.Col.GSD.triv_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:49.12818+00:00
 -- url     : https://prove2.me/theorems/8b72545b-6d0a-457a-bd60-11bffaeeebc2

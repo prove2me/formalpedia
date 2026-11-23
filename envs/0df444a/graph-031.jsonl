@@ -60960,10 +60960,10 @@
 {"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.ReferenceCircularAtlas.uniform_actual_amplitude_C1", "child": "OAIQ249SI011", "via": ["statement"]}
 {"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.ReferenceCircularAtlas.uniform_actual_amplitude_C1", "child": "SurfaceImmersion", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29493", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "ZeroFreeRRG.Hardcore.theorem_5_1_nontrivial", "child": "ZeroFreeRRG_Hardcore_Kernels", "via": ["statement"]}
-{"parent": "ZeroFreeRRG.Hardcore.theorem_5_1_nontrivial", "child": "ZeroFreeRRG_Hardcore_BetheFunctional", "via": ["statement"]}
-{"parent": "ZeroFreeRRG.Hardcore.theorem_5_1_nontrivial", "child": "ZeroFreeRRG_Hardcore_Models", "via": ["statement"]}
-{"parent": "ZeroFreeRRG.Hardcore.theorem_5_1_nontrivial", "child": "PottsRapidMixing_Ensemble", "via": ["statement"]}
+{"parent": "ZeroFreeRRG.Hardcore.theorem_5_1_nontrivial", "child": "ZeroFreeRRG_Hardcore_Kernels", "via": ["solution", "statement"]}
+{"parent": "ZeroFreeRRG.Hardcore.theorem_5_1_nontrivial", "child": "ZeroFreeRRG_Hardcore_BetheFunctional", "via": ["solution", "statement"]}
+{"parent": "ZeroFreeRRG.Hardcore.theorem_5_1_nontrivial", "child": "ZeroFreeRRG_Hardcore_Models", "via": ["solution", "statement"]}
+{"parent": "ZeroFreeRRG.Hardcore.theorem_5_1_nontrivial", "child": "PottsRapidMixing_Ensemble", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg43005", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_6_1_3_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31061", "child": "OAIQ259US007", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphSimOT_Gaps_lemma_36
 -- name    : GraphSimOT.Gaps.lemma_36
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T18:07:52.744589+00:00
 -- url     : https://prove2.me/theorems/ddcb9730-db31-4496-b116-bee93d8ea675

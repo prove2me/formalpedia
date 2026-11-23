@@ -732,7 +732,7 @@
 {"parent": "FastBestSubset.CDSS.lemma_12", "child": "FastBestSubset_CDSS_Setting", "via": ["solution", "statement"]}
 {"parent": "FastBestSubset.CDSS.lemma_2", "child": "FastBestSubset_CDSS_Setting", "via": ["solution", "statement"]}
 {"parent": "FastBestSubset.CDSS.lemma_3", "child": "FastBestSubset_CDSS_Setting", "via": ["statement"]}
-{"parent": "FastBestSubset.CDSS.lemma_5", "child": "FastBestSubset_CDSS_Setting", "via": ["statement"]}
+{"parent": "FastBestSubset.CDSS.lemma_5", "child": "FastBestSubset_CDSS_Setting", "via": ["solution", "statement"]}
 {"parent": "FastBestSubset.CDSS.lemma_6", "child": "FastBestSubset_CDSS_Setting", "via": ["statement"]}
 {"parent": "FastBestSubset.CDSS.lemma_8", "child": "FastBestSubset_CDSS_Setting", "via": ["statement"]}
 {"parent": "FastBestSubset.CDSS.lemma_9", "child": "FastBestSubset_CDSS_Setting", "via": ["statement"]}

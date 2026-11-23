@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_Iso_ipOf_onForms
 -- name    : Formalism.L2.Col.GSD.Iso.ipOf_onForms
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:11.321884+00:00
 -- url     : https://prove2.me/theorems/3b21fbad-87aa-4845-9acc-03c2801d9262

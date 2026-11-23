@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MixedManna_lemma_15
 -- name    : MixedManna.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:16:13.82593+00:00
 -- url     : https://prove2.me/theorems/f4c04f98-b44d-44f4-8010-95c5b0739b83

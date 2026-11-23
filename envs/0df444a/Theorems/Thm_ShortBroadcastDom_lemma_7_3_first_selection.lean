@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortBroadcastDom_lemma_7_3_first_selection
 -- name    : ShortBroadcastDom.lemma_7_3_first_selection
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:28:37.756913+00:00
 -- url     : https://prove2.me/theorems/c0a223c0-dfd5-4793-a8e4-d716a77d6132

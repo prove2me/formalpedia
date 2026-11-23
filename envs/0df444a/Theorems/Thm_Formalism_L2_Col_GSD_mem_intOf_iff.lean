@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_mem_intOf_iff
 -- name    : Formalism.L2.Col.GSD.mem_intOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:27.260861+00:00
 -- url     : https://prove2.me/theorems/d88d952d-5553-41fd-9539-b603bbca4703

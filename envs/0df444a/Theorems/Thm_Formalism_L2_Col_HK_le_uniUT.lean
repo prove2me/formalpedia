@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_HK_le_uniUT
 -- name    : Formalism.L2.Col.HK_le_uniUT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:26.056528+00:00
 -- url     : https://prove2.me/theorems/3ffbeddf-e210-482e-bd0d-adbf25fafe08

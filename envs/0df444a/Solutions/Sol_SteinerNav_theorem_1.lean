@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SteinerNav.theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-23T03:52:27.599737+00:00
 -- url     : https://prove2.me/submissions/fe176fc3-ee6a-4999-889b-33de9a96a5ea
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SteinerNav_IsSteinerNavigable

@@ -3497,9 +3497,9 @@
 {"parent": "WHMultiplicativity.eq_11", "child": "WHMultiplicativity_schattenNorm", "via": ["statement"]}
 {"parent": "WHMultiplicativity.eq_11", "child": "WHMultiplicativity_maxEnt", "via": ["statement"]}
 {"parent": "TSPSDPGap_coeffB", "child": "TSPSDPGap_coeffA", "via": ["statement"]}
-{"parent": "MixedManna.lemma_15", "child": "MixedManna_StandingAssumptions", "via": ["statement"]}
-{"parent": "MixedManna.lemma_15", "child": "MixedManna_lcpSolutions", "via": ["statement"]}
-{"parent": "MixedManna.lemma_15", "child": "MixedManna_IsAdmissibleDelta", "via": ["statement"]}
+{"parent": "MixedManna.lemma_15", "child": "MixedManna_StandingAssumptions", "via": ["solution", "statement"]}
+{"parent": "MixedManna.lemma_15", "child": "MixedManna_lcpSolutions", "via": ["solution", "statement"]}
+{"parent": "MixedManna.lemma_15", "child": "MixedManna_IsAdmissibleDelta", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.bucket_l1_66", "child": "OAIQ019N049", "via": ["solution", "statement"]}
 {"parent": "FoundationsRL_EluderUCB_edimRaw", "child": "FoundationsRL_EluderUCB_IsElusiveSeq", "via": ["statement"]}
 {"parent": "KallMayerSLP.GenConcave.theorem_2_8", "child": "KallMayerSLP_GenConcave_IsGammaConcaveMeasure", "via": ["statement"]}

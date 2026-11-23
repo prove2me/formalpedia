@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_mem_intNab_iff
 -- name    : Formalism.L2.Col.GSD.mem_intNab_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:06:40.259816+00:00
 -- url     : https://prove2.me/theorems/0ca2bb5e-2754-43cf-a484-b9124555a9b7

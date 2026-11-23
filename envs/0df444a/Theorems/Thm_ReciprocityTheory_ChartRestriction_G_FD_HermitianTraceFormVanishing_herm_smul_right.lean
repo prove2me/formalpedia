@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_herm_smul_right
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.herm_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:34:45.339605+00:00
 -- url     : https://prove2.me/theorems/277d9564-e4ff-4fe7-98e9-6a4da0fb0863

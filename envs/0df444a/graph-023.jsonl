@@ -6805,7 +6805,7 @@
 {"parent": "PolySphereLP_fischerTopC", "child": "PolySphereLP_normSqC", "via": ["statement"]}
 {"parent": "OAI.QuadraticDivisorCancellation.actual_double_divisor_cancellation", "child": "OAI_NumberTheory_DirichletL_Arithmetic_SquarefreeDivisors", "via": ["solution", "statement"]}
 {"parent": "OAI.QuadraticDivisorCancellation.actual_double_divisor_cancellation", "child": "OAI_NumberTheory_DirichletL_CubicSieve_CubeLabels", "via": ["solution", "statement"]}
-{"parent": "ImplicitParityWL.lemma_4_6", "child": "ImplicitParityWL_Address", "via": ["statement"]}
+{"parent": "ImplicitParityWL.lemma_4_6", "child": "ImplicitParityWL_Address", "via": ["solution", "statement"]}
 {"parent": "QuadBogolyubov.lemma_4_5", "child": "QuadBogolyubov_Lam", "via": ["statement"]}
 {"parent": "QuadBogolyubov.lemma_4_5", "child": "QuadBogolyubov_HasRankAtLeast", "via": ["statement"]}
 {"parent": "QuadBogolyubov.lemma_4_5", "child": "QuadBogolyubov_gowersU3", "via": ["statement"]}
@@ -7333,7 +7333,7 @@
 {"parent": "CosDensity.lemma_8_5", "child": "CosDensity_HardInstance", "via": ["statement"]}
 {"parent": "QEC.Locality.WeightedConnectedSetMass.geometric_formula", "child": "QEC_Locality_Graph_WeightedConnectedSetMass", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.WeightedConnectedSetMass.geometric_formula", "child": "QEC_Locality_Graph_ConnectedSetCounting", "via": ["solution", "statement"]}
-{"parent": "ImplicitParityWL.lemma_3_2", "child": "ImplicitParityWL_PebbleGame", "via": ["statement"]}
+{"parent": "ImplicitParityWL.lemma_3_2", "child": "ImplicitParityWL_PebbleGame", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.mem_daiLiKGeDRegionCore_strict_rectangleBounds", "child": "QEC_Locality_OptimalTradeoff_CorrectablePartition", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.mem_daiLiKGeDRegionCore_strict_rectangleBounds", "child": "QEC_Locality_OptimalTradeoff_BadSquareSubdivision", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.mem_daiLiKGeDRegionCore_strict_rectangleBounds", "child": "QEC_Locality_CorrectablePartition_SmallBoundary", "via": ["solution", "statement"]}

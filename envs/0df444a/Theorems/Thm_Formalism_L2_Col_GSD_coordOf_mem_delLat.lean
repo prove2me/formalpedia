@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_coordOf_mem_delLat
 -- name    : Formalism.L2.Col.GSD.coordOf_mem_delLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:21.308403+00:00
 -- url     : https://prove2.me/theorems/b8c89f66-c8a8-48e0-94b1-da7e31481765

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_divisor_square_weight_sum_le
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.divisor_square_weight_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:10.29166+00:00
 -- url     : https://prove2.me/theorems/665b3ad4-5989-4ec5-a11b-1bcad0f9bec1

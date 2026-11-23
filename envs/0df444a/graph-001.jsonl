@@ -96027,8 +96027,8 @@
 {"parent": "DynAssortPers.TypeDist.display_p44_hoeffding", "child": "DynAssortPers_TypeDist_IIDSampling", "via": ["statement"]}
 {"parent": "DynAssortPers.TypeDist.display_p44_l1_tail", "child": "DynAssortPers_TypeDist_Estimator", "via": ["statement"]}
 {"parent": "DynAssortPers.TypeDist.display_p44_l1_tail", "child": "DynAssortPers_TypeDist_IIDSampling", "via": ["statement"]}
-{"parent": "DynAssortPers.TypeDist.display_p44_rademacher", "child": "DynAssortPers_TypeDist_Estimator", "via": ["statement"]}
-{"parent": "DynAssortPers.TypeDist.display_p44_rademacher", "child": "DynAssortPers_TypeDist_IIDSampling", "via": ["statement"]}
+{"parent": "DynAssortPers.TypeDist.display_p44_rademacher", "child": "DynAssortPers_TypeDist_Estimator", "via": ["solution", "statement"]}
+{"parent": "DynAssortPers.TypeDist.display_p44_rademacher", "child": "DynAssortPers_TypeDist_IIDSampling", "via": ["solution", "statement"]}
 {"parent": "DynAssortPers.TypeDist.theorem_4", "child": "DynAssortPers_TypeDist_Estimator", "via": ["solution", "statement"]}
 {"parent": "DynAssortPers.TypeDist.theorem_4", "child": "DynAssortPers_TypeDist_IIDSampling", "via": ["solution", "statement"]}
 {"parent": "DynAssortPers_Regret_Algorithm2", "child": "DynAssortPers_Regret_Estimator", "via": ["statement"]}

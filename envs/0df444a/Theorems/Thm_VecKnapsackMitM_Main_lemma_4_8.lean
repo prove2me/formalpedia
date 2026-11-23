@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VecKnapsackMitM_Main_lemma_4_8
 -- name    : VecKnapsackMitM.Main.lemma_4_8
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T20:36:12.182885+00:00
 -- url     : https://prove2.me/theorems/f401f910-7b5e-4aa8-9514-7ba8d8d95b23

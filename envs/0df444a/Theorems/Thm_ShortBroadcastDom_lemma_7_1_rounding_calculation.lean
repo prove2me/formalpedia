@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortBroadcastDom_lemma_7_1_rounding_calculation
 -- name    : ShortBroadcastDom.lemma_7_1_rounding_calculation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:28:01.380463+00:00
 -- url     : https://prove2.me/theorems/51ccce71-3543-4114-b48d-f74672ba5ec9

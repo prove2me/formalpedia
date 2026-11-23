@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastBestSubset_CDSS_lemma_5
 -- name    : FastBestSubset.CDSS.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:27.929574+00:00
 -- url     : https://prove2.me/theorems/00d4e2a2-1815-4d2a-b468-6f0eae2b2593

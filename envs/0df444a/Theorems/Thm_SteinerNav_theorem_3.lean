@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerNav_theorem_3
 -- name    : SteinerNav.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:48:11.993719+00:00
 -- url     : https://prove2.me/theorems/7592d79a-61e3-43b4-832a-774adc5c6bc3

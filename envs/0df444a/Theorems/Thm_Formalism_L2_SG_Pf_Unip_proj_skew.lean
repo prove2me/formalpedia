@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_proj_skew
 -- name    : Formalism.L2.SG.Pf.Unip.proj_skew
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:54:32.378531+00:00
 -- url     : https://prove2.me/theorems/9b802e8c-0d99-42f7-9e6d-7b67685d9e88

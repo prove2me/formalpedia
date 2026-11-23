@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepMeasures_claim_3_5
 -- name    : SepMeasures.claim_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:10:30.748482+00:00
 -- url     : https://prove2.me/theorems/eeba912e-9c20-451b-9666-b0362cc6b6c4

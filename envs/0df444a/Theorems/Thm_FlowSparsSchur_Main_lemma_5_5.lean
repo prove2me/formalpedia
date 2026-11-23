@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowSparsSchur_Main_lemma_5_5
 -- name    : FlowSparsSchur.Main.lemma_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T01:24:48.088224+00:00
 -- url     : https://prove2.me/theorems/11b5b7bb-2f79-48e6-9a05-1b72b53999e3

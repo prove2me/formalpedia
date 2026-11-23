@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OracleStateHSP_eq_58
 -- name    : OracleStateHSP.eq_58
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:31:50.982085+00:00
 -- url     : https://prove2.me/theorems/763e497d-588f-4797-a31d-1b423f3a3580

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_DGam_pos
 -- name    : Formalism.L2.DIV.CSD.DGam_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:17.809602+00:00
 -- url     : https://prove2.me/theorems/85bd00c0-32d9-4631-8f3a-3f1396b87347

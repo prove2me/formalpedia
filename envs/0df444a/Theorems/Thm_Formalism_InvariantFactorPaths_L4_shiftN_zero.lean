@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_shiftN_zero
 -- name    : Formalism.InvariantFactorPaths.L4.shiftN_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:03:43.919291+00:00
 -- url     : https://prove2.me/theorems/115b3609-9146-4c07-ad1e-356e009d30b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_LocOp_ofNbr_op_apply
 -- name    : Formalism.L2.Col.LocOp.ofNbr_op_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:52:07.854817+00:00
 -- url     : https://prove2.me/theorems/d2facb03-153b-420d-ac42-9a4887ce3c67

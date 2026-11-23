@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_LocOp_op_apply
 -- name    : Formalism.L2.Col.LocOp.op_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:23.475246+00:00
 -- url     : https://prove2.me/theorems/aa3c5270-48bf-4d92-8731-88b1c940df4b

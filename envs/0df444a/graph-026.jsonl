@@ -52884,8 +52884,8 @@
 {"parent": "QEC.Coding.BDL26ReplacementSupport.sum_fiberPart", "child": "QEC_Coding_FourDimensionalToricCode_Decoder_RXLocalCleaning", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.KT19PrimeQuditCSS.physicalU13_apply_basis_phase", "child": "QEC_Distillation_PrimeQuditProtocol_CubicCSS", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.KT19PrimeQuditCSS.physicalU13_apply_basis_phase", "child": "QEC_Distillation_Core_TransversalGate", "via": ["solution", "statement"]}
-{"parent": "VecKnapsackMitM.Main.lemma_4_4", "child": "VecKnapsackMitM_Main_Instance", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.lemma_4_4", "child": "VecKnapsackMitM_Main_Geometry", "via": ["statement"]}
+{"parent": "VecKnapsackMitM.Main.lemma_4_4", "child": "VecKnapsackMitM_Main_Instance", "via": ["solution", "statement"]}
+{"parent": "VecKnapsackMitM.Main.lemma_4_4", "child": "VecKnapsackMitM_Main_Geometry", "via": ["solution", "statement"]}
 {"parent": "OptRobustCD_Layouts", "child": "OptRobustCD_Machine", "via": ["statement"]}
 {"parent": "OptRobustCD_Layouts", "child": "OptRobustCD_DirEdges", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.column61_0_contains_g", "child": "OAIQ098G193", "via": ["solution", "statement"]}
@@ -53740,12 +53740,12 @@
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_ConnectedSetCounting", "child": "QEC.Locality.BGKLSeparatorTree.IsNode.trans", "via": ["statement"]}
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_ConnectedSetCounting", "child": "QEC.Locality.NoEdgeBetween.symm", "via": ["statement"]}
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_ConnectedSetCounting", "child": "QEC.Coding.BDL26RZMap1CoordinateBridge.tannerCoboundary0_canonicalBasis_apply", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "MatMulTimeLP_RealRAM", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "VecKnapsackMitM_Main_VirtualItem", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "VecBalPoly_Admissible", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "VecKnapsackMitM_Main_Instance", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "VecKnapsackMitM_Main_Convolution", "via": ["statement"]}
-{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "VecKnapsackMitM_Main_Machine", "via": ["statement"]}
+{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "MatMulTimeLP_RealRAM", "via": ["solution", "statement"]}
+{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "VecKnapsackMitM_Main_VirtualItem", "via": ["solution", "statement"]}
+{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "VecBalPoly_Admissible", "via": ["solution", "statement"]}
+{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "VecKnapsackMitM_Main_Instance", "via": ["solution", "statement"]}
+{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "VecKnapsackMitM_Main_Convolution", "via": ["solution", "statement"]}
+{"parent": "VecKnapsackMitM.Main.lemma_4_8", "child": "VecKnapsackMitM_Main_Machine", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.common_hits_anchor_distance", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_LocalLemmaApplication", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.common_hits_anchor_distance", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_HitGeometry", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.power43_contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefRows_RR_spec
 -- name    : Formalism.L2.Indef.IndefRows.RR_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:16:13.490703+00:00
 -- url     : https://prove2.me/theorems/fef248dc-beef-4220-8983-50de2695b9be

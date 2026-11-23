@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_eq_of_common_root
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.eq_of_common_root
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:05:03.525415+00:00
 -- url     : https://prove2.me/theorems/450d7d01-996a-48bf-b8f7-cd73a294e9c8

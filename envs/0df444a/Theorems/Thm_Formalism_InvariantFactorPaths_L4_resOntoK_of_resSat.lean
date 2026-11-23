@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_resOntoK_of_resSat
 -- name    : Formalism.InvariantFactorPaths.L4.resOntoK_of_resSat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:03:46.965799+00:00
 -- url     : https://prove2.me/theorems/3b887830-4b2f-40a6-9643-e14f6476debc

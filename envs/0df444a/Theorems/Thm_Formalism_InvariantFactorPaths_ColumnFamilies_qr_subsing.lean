@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qr_subsing
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qr_subsing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:06:24.827944+00:00
 -- url     : https://prove2.me/theorems/0df321a3-3840-47e8-a05b-3904dbd26c75

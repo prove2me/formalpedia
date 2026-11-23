@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxPolySatCH_Main_randomized_turing_in_ch
 -- name    : ApproxPolySatCH.Main.randomized_turing_in_ch
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:20:23.429735+00:00
 -- url     : https://prove2.me/theorems/eb8ef24d-8753-4843-bcb1-98ac17b40bbf

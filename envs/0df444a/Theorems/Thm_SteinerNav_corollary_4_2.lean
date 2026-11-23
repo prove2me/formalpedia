@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerNav_corollary_4_2
 -- name    : SteinerNav.corollary_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:48:54.560999+00:00
 -- url     : https://prove2.me/theorems/aeb25e19-028f-4bbe-9da3-97aa646b57bd

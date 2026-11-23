@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_span_atW
 -- name    : Formalism.L2.Col.span_atW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:42.611826+00:00
 -- url     : https://prove2.me/theorems/470b2740-17e2-431b-ac7c-be3219324336

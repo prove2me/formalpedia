@@ -85715,9 +85715,9 @@
 {"parent": "OAI.SKRatio.Certificate.Data.J4K8.check_17", "child": "OAIQ024S014", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.ContinuousPath.densePastRestriction_apply", "child": "MarkovProcess_V3H_Continuity_DenseTimeContinuousExtension_479df42c", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.ContinuousPath.densePastRestriction_apply", "child": "MarkovProcess_V3H_Path_DenseFiltration_62a9879d", "via": ["solution", "statement"]}
-{"parent": "RobustToDynamics.step2_inner_ellipsoid", "child": "RobustToDynamics_alpha1", "via": ["statement"]}
-{"parent": "RobustToDynamics.step2_inner_ellipsoid", "child": "RobustToDynamics_ellipsoid", "via": ["statement"]}
-{"parent": "RobustToDynamics.step2_inner_ellipsoid", "child": "RobustToDynamics_polyhedron", "via": ["statement"]}
+{"parent": "RobustToDynamics.step2_inner_ellipsoid", "child": "RobustToDynamics_alpha1", "via": ["solution", "statement"]}
+{"parent": "RobustToDynamics.step2_inner_ellipsoid", "child": "RobustToDynamics_ellipsoid", "via": ["solution", "statement"]}
+{"parent": "RobustToDynamics.step2_inner_ellipsoid", "child": "RobustToDynamics_polyhedron", "via": ["solution", "statement"]}
 {"parent": "HellmanLevy_Bayes_typeOf", "child": "HellmanLevy_Bayes_TypeSpace", "via": ["statement"]}
 {"parent": "ScarceIdeas.lemma_2_i", "child": "ScarceIdeas_Assumption1", "via": ["statement"]}
 {"parent": "ScarceIdeas.lemma_2_i", "child": "ScarceIdeas_moment", "via": ["statement"]}
@@ -95901,9 +95901,9 @@
 {"parent": "CombOpt_TutteBerge_Multigraph_tutteBergeBound", "child": "CombOpt_TutteBerge_Multigraph_deleteNodes", "via": ["statement"]}
 {"parent": "CombOpt_TutteBerge_Multigraph_tutteBergeBound", "child": "CombOpt_TutteBerge_Multigraph", "via": ["statement"]}
 {"parent": "CombOpt_TutteBerge_Multigraph_tutteBergeBound", "child": "CombOpt_TutteBerge_Multigraph_oddComponentCount", "via": ["statement"]}
-{"parent": "KashUpgrade.lemma_2", "child": "KashUpgrade_firstOrderThreshold", "via": ["statement"]}
-{"parent": "KashUpgrade.lemma_2", "child": "KashUpgrade_lumpBlock", "via": ["statement"]}
-{"parent": "KashUpgrade.lemma_2", "child": "KashUpgrade_Assumption2", "via": ["statement"]}
+{"parent": "KashUpgrade.lemma_2", "child": "KashUpgrade_firstOrderThreshold", "via": ["solution", "statement"]}
+{"parent": "KashUpgrade.lemma_2", "child": "KashUpgrade_lumpBlock", "via": ["solution", "statement"]}
+{"parent": "KashUpgrade.lemma_2", "child": "KashUpgrade_Assumption2", "via": ["solution", "statement"]}
 {"parent": "CombOpt_TotalUnimodularity_IsIntegralPolyhedron", "child": "CombOpt_TotalUnimodularity_IsFace", "via": ["statement"]}
 {"parent": "HellmanLevy.Bayes.theorem_4_13", "child": "HellmanLevy_CBER_IsHyperfinite", "via": ["statement"]}
 {"parent": "HellmanLevy.Bayes.theorem_4_13", "child": "HellmanLevy_Bayes_IsHarsanyiEq", "via": ["statement"]}

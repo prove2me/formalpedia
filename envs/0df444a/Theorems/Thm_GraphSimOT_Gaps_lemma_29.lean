@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphSimOT_Gaps_lemma_29
 -- name    : GraphSimOT.Gaps.lemma_29
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T18:07:51.804689+00:00
 -- url     : https://prove2.me/theorems/45b8b6cc-e0ee-4522-b453-3362da89828e

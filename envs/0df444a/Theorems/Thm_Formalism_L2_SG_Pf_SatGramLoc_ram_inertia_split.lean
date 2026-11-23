@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_SatGramLoc_ram_inertia_split
 -- name    : Formalism.L2.SG.Pf.SatGramLoc.ram_inertia_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:49:04.553108+00:00
 -- url     : https://prove2.me/theorems/bba5d77e-b4e4-4ba7-81c0-8f184735ddf6

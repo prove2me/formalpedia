@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KashUpgrade_lemma_2
 -- name    : KashUpgrade.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:23:10.0663+00:00
 -- url     : https://prove2.me/theorems/75b65632-1d90-4015-94e5-b935ad2043a9

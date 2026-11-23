@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_root_pow_card
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.root_pow_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:06:42.659298+00:00
 -- url     : https://prove2.me/theorems/1d2db1f5-b750-4f87-b406-2cf40fc557f7

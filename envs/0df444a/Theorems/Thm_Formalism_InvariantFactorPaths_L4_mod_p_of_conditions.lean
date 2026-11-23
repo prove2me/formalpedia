@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mod_p_of_conditions
 -- name    : Formalism.InvariantFactorPaths.L4.mod_p_of_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:02:41.694594+00:00
 -- url     : https://prove2.me/theorems/e979d605-d262-4ec9-a927-f3c81e8721d0

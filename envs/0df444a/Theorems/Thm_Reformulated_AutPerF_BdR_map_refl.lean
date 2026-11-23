@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdR_map_refl
 -- name    : Reformulated.AutPerF.BdR.map_refl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:43:05.033904+00:00
 -- url     : https://prove2.me/theorems/66ea81aa-ee54-4d88-8518-841f8feee814

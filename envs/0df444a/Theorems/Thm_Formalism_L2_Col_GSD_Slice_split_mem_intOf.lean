@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_Slice_split_mem_intOf
 -- name    : Formalism.L2.Col.GSD.Slice.split_mem_intOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:53.792872+00:00
 -- url     : https://prove2.me/theorems/5991c206-888a-4bfc-8d66-bc0429384699

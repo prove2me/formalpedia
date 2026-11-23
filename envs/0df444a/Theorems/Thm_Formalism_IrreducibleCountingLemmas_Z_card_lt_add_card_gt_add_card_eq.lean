@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_card_lt_add_card_gt_add_card_eq
 -- name    : Formalism.IrreducibleCountingLemmas.Z.card_lt_add_card_gt_add_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:36.245848+00:00
 -- url     : https://prove2.me/theorems/7504595b-f2b2-4f96-b6f0-c3604380c1ed

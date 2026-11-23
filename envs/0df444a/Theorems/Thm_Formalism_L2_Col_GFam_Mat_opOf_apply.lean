@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GFam_Mat_opOf_apply
 -- name    : Formalism.L2.Col.GFam.Mat.opOf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:16.526101+00:00
 -- url     : https://prove2.me/theorems/72d6c1e1-cec6-4411-a54c-eb8423cd3750

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_Idx_ord_unit_mul_pow
 -- name    : Formalism.IrreducibleCountingLemmas.TW.Idx.ord_unit_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:07:18.004669+00:00
 -- url     : https://prove2.me/theorems/d5fe3b3e-2054-4a62-a142-4d613b935097

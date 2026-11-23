@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_mem_e3A
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.mem_e3A
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:04:58.982224+00:00
 -- url     : https://prove2.me/theorems/27171fc3-1fe4-4cad-9d62-a0fde0c4de27

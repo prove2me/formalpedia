@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeyondGomoryHu_Units_observation_5_3
 -- name    : BeyondGomoryHu.Units.observation_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T06:51:52.394078+00:00
 -- url     : https://prove2.me/theorems/6b3f7619-cd1f-4e98-891d-a130fa8af55c

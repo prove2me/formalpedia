@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_PrimOrth_add_preserves
 -- name    : GlobalTheory.CuspGL.PrimOrth.add_preserves
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:15.241498+00:00
 -- url     : https://prove2.me/theorems/6255d82d-9bc9-4b9e-a11a-13fa3536a4ef

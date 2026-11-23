@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustToDynamics_step2_inner_ellipsoid
 -- name    : RobustToDynamics.step2_inner_ellipsoid
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:37:25.164683+00:00
 -- url     : https://prove2.me/theorems/1252d042-43fe-4a4f-a52f-af9afa9909b0

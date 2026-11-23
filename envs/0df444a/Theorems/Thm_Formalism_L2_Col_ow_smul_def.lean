@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_ow_smul_def
 -- name    : Formalism.L2.Col.ow_smul_def
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:13.50539+00:00
 -- url     : https://prove2.me/theorems/055f1699-4f90-46f7-b5c9-2ed8e64742e7

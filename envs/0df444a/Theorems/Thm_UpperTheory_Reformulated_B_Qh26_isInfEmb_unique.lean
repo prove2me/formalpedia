@@ -1,0 +1,30 @@
+-- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qh26_isInfEmb_unique
+-- name    : UpperTheory.Reformulated.B.Qh26.isInfEmb_unique
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T04:14:56.678802+00:00
+-- url     : https://prove2.me/theorems/3b8bfc4c-0aaa-42e5-a078-6efb26c2b2fe
+-- title:
+--   Qh26: is Inf Emb unique
+-- statement:
+--   The Qh26 construction uses the is Inf Emb unique property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicArithmetic/IntegralCasts/CapelliIdentities/IsInfEmbUnique.lean#L34-L58
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicArithmetic/IntegralCasts/CapelliIdentities/IsInfEmbUnique.lean#L34-L58
+
+import Mathlib
+import Definitions.Def_Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_IsInfEmbUnique
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+theorem UpperTheory.Reformulated.B.Qh26.isInfEmb_unique :
+    ∀ {F E : Type} [inst : Field F] [NumberField F] [inst_2 : Field E] [NumberField E] [inst_4 : Algebra F E] (τ : E →+* ℂ)
+      {θ θ' : TensorProduct F (UpperTheory.Reformulated.B.Qh26.Ainf F) E →+* ℂ},
+      UpperTheory.Reformulated.B.Qh26.IsInfEmb τ θ → UpperTheory.Reformulated.B.Qh26.IsInfEmb τ θ' → θ = θ' := by sorry

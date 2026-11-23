@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynAssortPers_TypeDist_display_p44_rademacher
 -- name    : DynAssortPers.TypeDist.display_p44_rademacher
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:16:51.517825+00:00
 -- url     : https://prove2.me/theorems/3c48378f-ca67-4667-ad82-da14f3c27b5b

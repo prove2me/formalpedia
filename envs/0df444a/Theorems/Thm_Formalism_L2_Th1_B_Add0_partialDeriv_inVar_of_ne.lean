@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add0_partialDeriv_inVar_of_ne
 -- name    : Formalism.L2.Th1.B.Add0.partialDeriv_inVar_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:11:34.938652+00:00
 -- url     : https://prove2.me/theorems/864aeb99-09b1-46cf-abfb-c3944fd1a847

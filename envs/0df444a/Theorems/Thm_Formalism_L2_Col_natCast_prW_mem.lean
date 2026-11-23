@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_natCast_prW_mem
 -- name    : Formalism.L2.Col.natCast_prW_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:47.92398+00:00
 -- url     : https://prove2.me/theorems/1fdb9ee2-dabe-4087-b98e-5360d52b865e

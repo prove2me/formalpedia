@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepMeasures_eq_8
 -- name    : SepMeasures.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:10:46.636294+00:00
 -- url     : https://prove2.me/theorems/b1a2fea2-bad5-432a-869e-e428430fa9c2

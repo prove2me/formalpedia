@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_chartFlowNegation
 -- name    : Formalism.L2.Th1.A.chartFlowNegation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:43:15.641055+00:00
 -- url     : https://prove2.me/theorems/06f500e6-d71f-43d9-b5f2-e5bdaee7c1f0

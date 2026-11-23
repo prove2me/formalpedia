@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_HalfPeriodDerivative_prod_const
 -- name    : Formalism.L2.Th1.F.HalfPeriodDerivative.prod_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:45.18845+00:00
 -- url     : https://prove2.me/theorems/a524fd60-f491-42ba-b6f4-890a7082b9c0

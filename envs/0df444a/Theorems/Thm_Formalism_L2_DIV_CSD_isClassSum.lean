@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_isClassSum
 -- name    : Formalism.L2.DIV.CSD.isClassSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:46:36.489479+00:00
 -- url     : https://prove2.me/theorems/bdbd1c07-5754-4e46-bfd0-05d7ba890eb5

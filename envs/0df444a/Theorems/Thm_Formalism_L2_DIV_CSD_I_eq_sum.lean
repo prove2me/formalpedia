@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_I_eq_sum
 -- name    : Formalism.L2.DIV.CSD.I_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:58.91105+00:00
 -- url     : https://prove2.me/theorems/56edd924-bf0a-4840-adaa-f7a382417987

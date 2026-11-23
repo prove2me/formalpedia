@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OracleStateHSP_fracOracle_unitary_prepares
 -- name    : OracleStateHSP.fracOracle_unitary_prepares
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:33:11.884503+00:00
 -- url     : https://prove2.me/theorems/571b8b2a-7b45-4474-892b-a2227573a427

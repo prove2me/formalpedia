@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OracleStateHSP_fact_4_5
 -- name    : OracleStateHSP.fact_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:31:33.884835+00:00
 -- url     : https://prove2.me/theorems/eabee273-1433-47fa-9d7e-7ca3e7fcf901

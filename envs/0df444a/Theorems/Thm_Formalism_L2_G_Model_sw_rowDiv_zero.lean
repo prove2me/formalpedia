@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_rowDiv_zero
 -- name    : Formalism.L2.G.Model.sw_rowDiv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:58:19.455802+00:00
 -- url     : https://prove2.me/theorems/8cbe4fae-f5b8-4c26-a15a-db9fa70f64ef

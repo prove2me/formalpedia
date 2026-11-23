@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_resFree_apply
 -- name    : Formalism.L2.Col.GSD.resFree_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:21.694805+00:00
 -- url     : https://prove2.me/theorems/63587bc4-873a-47ae-ace2-d8ce9dcbcbd7

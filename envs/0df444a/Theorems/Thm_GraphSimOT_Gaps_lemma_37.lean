@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphSimOT_Gaps_lemma_37
 -- name    : GraphSimOT.Gaps.lemma_37
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T18:07:37.01204+00:00
 -- url     : https://prove2.me/theorems/55a3aed4-9d64-4778-89d9-f95182c9ab04
