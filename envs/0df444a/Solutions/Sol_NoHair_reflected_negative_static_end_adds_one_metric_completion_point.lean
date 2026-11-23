@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.reflected_negative_static_end_adds_one_metric_completion_point
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T12:07:50.662967+00:00
 -- url     : https://prove2.me/submissions/c622bfd3-9357-4374-94fa-c699d2fa35d5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_bounded_differential_punctured_ball_has_unique_limit
 import Theorems.Thm_NoHair_negative_static_end_inversion_bound

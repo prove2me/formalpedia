@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_CrdCalc_exists_unit_charts
 -- name    : GlobalTheory.ZH.CrdCalc.exists_unit_charts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:14.746829+00:00
 -- url     : https://prove2.me/theorems/8b7283e7-e69b-4b78-badb-adae5759cd38

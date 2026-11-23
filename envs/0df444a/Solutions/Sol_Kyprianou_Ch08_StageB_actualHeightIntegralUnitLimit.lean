@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.actualHeightIntegralUnitLimit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T09:56:50.200098+00:00
 -- url     : https://prove2.me/submissions/6ca062a9-752a-409c-b874-22a116d7209a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Theorems.Thm_Kyprianou_Ch08_StageB_actualHeightUnrestrictedUpcrossingNormalisation

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_ImmSep_valHom_constFn
 -- name    : GlobalTheory.ZH.ImmSep.valHom_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:38.825798+00:00
 -- url     : https://prove2.me/theorems/42f630d7-2d4d-4a02-ae36-ab7e18a7192a

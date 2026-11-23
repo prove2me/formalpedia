@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralCoord_main
 -- name    : GlobalTheory.IntegralCoord.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:57:12.208907+00:00
 -- url     : https://prove2.me/theorems/6d185ce7-883a-4c4d-bf79-a55146ef46d7

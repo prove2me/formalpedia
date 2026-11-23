@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_ActsBy_comp
 -- name    : GlobalTheory.ZV.ActsBy.comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:18:23.31871+00:00
 -- url     : https://prove2.me/theorems/003e77dd-783e-4abd-9c62-d9e67881c600

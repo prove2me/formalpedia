@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_CrdCalc_crd_isUnit_iff
 -- name    : GlobalTheory.ZH.CrdCalc.crd_isUnit_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:22.082577+00:00
 -- url     : https://prove2.me/theorems/47beb721-767e-49df-9dba-26d2a538b012

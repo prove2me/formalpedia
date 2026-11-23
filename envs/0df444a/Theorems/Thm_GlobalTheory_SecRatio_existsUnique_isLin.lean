@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecRatio_existsUnique_isLin
 -- name    : GlobalTheory.SecRatio.existsUnique_isLin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:13.688845+00:00
 -- url     : https://prove2.me/theorems/a2dcce79-c989-4024-adaf-945df123e455

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_CrdCalc_crd_ratio
 -- name    : GlobalTheory.ZH.CrdCalc.crd_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:44.208175+00:00
 -- url     : https://prove2.me/theorems/22d70329-ed18-4cee-8c9c-9bdbc685df28

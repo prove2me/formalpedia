@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBundleSym_exists_sec
 -- name    : GlobalTheory.ThetaBundleSym.exists_sec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:43.364684+00:00
 -- url     : https://prove2.me/theorems/9cc0a2d9-20cd-41b0-b49c-d5b6c128532d

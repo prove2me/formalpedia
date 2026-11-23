@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_CrdCalc_valR_spMap
 -- name    : GlobalTheory.ZH.CrdCalc.valR_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:56.56092+00:00
 -- url     : https://prove2.me/theorems/bcff5aa1-3389-42d5-ba18-0a820fa36ba0

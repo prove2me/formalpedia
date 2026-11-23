@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistZero_lift_translPt
 -- name    : GlobalTheory.TwistZero.lift_translPt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:06:27.474695+00:00
 -- url     : https://prove2.me/theorems/209e5c43-f641-4732-9316-a2039bce9a46

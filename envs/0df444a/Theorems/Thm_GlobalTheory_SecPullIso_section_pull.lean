@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecPullIso_section_pull
 -- name    : GlobalTheory.SecPullIso.section_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:24.545251+00:00
 -- url     : https://prove2.me/theorems/72d2783d-a9fb-43da-9204-1be7fef7d4f8

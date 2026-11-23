@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoordPull_prod_O
 -- name    : GlobalTheory.TorusCoordPull.prod_O
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:56.423306+00:00
 -- url     : https://prove2.me/theorems/75e4189a-6120-4b0d-9c01-58a2a057f782

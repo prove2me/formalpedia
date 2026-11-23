@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_CoefBasic_sval_tr
 -- name    : GlobalTheory.UT.CoefBasic.sval_tr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:40.541721+00:00
 -- url     : https://prove2.me/theorems/4965fa46-62f5-444e-a8b5-bcca0db8a869

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_reflected_negative_static_end_adds_one_metric_completion_point
 -- name    : NoHair.reflected_negative_static_end_adds_one_metric_completion_point
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T12:01:09.116838+00:00
 -- url     : https://prove2.me/theorems/2ee7e5ad-bd4d-417c-8c76-bf5a070daf39

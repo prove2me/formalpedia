@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusToProper_pt_nat
 -- name    : GlobalTheory.TorusToProper.pt_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:53.486799+00:00
 -- url     : https://prove2.me/theorems/30668de5-dfd3-43bb-ae90-c235cd3c10e7

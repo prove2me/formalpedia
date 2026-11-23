@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeElement_existsUnique_zpow_mul_eq_unit
 -- name    : GlobalTheory.PrimeElement.existsUnique_zpow_mul_eq_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:59.931929+00:00
 -- url     : https://prove2.me/theorems/0042b085-8a65-49ee-abe9-2e6de602a03d

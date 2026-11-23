@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_PhiOrder_pot_one
 -- name    : GlobalTheory.UT.PhiOrder.pot_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:24.255028+00:00
 -- url     : https://prove2.me/theorems/eb42b1e2-7391-4bc6-ad4a-f3f98bc53f5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftsToSymplectic_upper
 -- name    : GlobalTheory.LiftsToSymplectic.upper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:12:06.086701+00:00
 -- url     : https://prove2.me/theorems/fcd2d999-1058-4304-aeb5-a0a11a031891

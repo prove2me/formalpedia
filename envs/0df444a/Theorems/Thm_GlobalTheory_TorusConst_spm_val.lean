@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_spm_val
 -- name    : GlobalTheory.TorusConst.spm_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:51.975523+00:00
 -- url     : https://prove2.me/theorems/d57a2e37-da47-402c-9931-2caafbd86100

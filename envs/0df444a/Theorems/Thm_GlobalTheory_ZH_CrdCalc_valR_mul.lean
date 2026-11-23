@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_CrdCalc_valR_mul
 -- name    : GlobalTheory.ZH.CrdCalc.valR_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:52.741309+00:00
 -- url     : https://prove2.me/theorems/54135313-1e24-49f4-a0e8-fe867dba0125

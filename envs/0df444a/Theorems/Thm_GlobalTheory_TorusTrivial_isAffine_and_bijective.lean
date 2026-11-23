@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusTrivial_isAffine_and_bijective
 -- name    : GlobalTheory.TorusTrivial.isAffine_and_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:18.337398+00:00
 -- url     : https://prove2.me/theorems/47f2c127-c388-4b78-a796-e131398e47f6

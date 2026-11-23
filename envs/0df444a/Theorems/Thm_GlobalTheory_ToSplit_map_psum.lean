@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_map_psum
 -- name    : GlobalTheory.ToSplit.map_psum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:53.46953+00:00
 -- url     : https://prove2.me/theorems/085467c5-031b-4afe-a0f3-a437a80d833f

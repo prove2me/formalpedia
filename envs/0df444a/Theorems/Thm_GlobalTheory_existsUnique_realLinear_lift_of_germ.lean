@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_realLinear_lift_of_germ
 -- name    : GlobalTheory.existsUnique_realLinear_lift_of_germ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:16:09.333374+00:00
 -- url     : https://prove2.me/theorems/1fac0303-14f0-4d90-9e5e-fde7443b4de2

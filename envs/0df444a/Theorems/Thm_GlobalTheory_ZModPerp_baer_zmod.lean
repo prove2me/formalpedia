@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZModPerp_baer_zmod
 -- name    : GlobalTheory.ZModPerp.baer_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:02:34.118904+00:00
 -- url     : https://prove2.me/theorems/a7ee2d53-cf30-489c-a6c1-fb103a43f471

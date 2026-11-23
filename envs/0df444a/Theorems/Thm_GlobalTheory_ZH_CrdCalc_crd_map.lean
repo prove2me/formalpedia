@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_CrdCalc_crd_map
 -- name    : GlobalTheory.ZH.CrdCalc.crd_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:48.027675+00:00
 -- url     : https://prove2.me/theorems/52345c79-9f57-4957-a786-be9b7399540e

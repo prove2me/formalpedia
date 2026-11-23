@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_exists_gen_of_isLB_local
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.exists_gen_of_isLB_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:10:03.157321+00:00
 -- url     : https://prove2.me/theorems/3ab21dd3-fa80-4c1c-b030-e021819625c2

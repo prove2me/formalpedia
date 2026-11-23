@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoordPull_push_cP
 -- name    : GlobalTheory.TorusCoordPull.push_cP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:23.829018+00:00
 -- url     : https://prove2.me/theorems/008891e6-2bc4-411c-a684-c34b015bb494

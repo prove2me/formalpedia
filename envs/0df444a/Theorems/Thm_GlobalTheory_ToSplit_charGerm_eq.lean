@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_charGerm_eq
 -- name    : GlobalTheory.ToSplit.charGerm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:36.789046+00:00
 -- url     : https://prove2.me/theorems/221a181e-07c1-4e3d-93b1-13b5f4a86a03

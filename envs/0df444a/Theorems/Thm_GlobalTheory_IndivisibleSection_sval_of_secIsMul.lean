@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndivisibleSection_sval_of_secIsMul
 -- name    : GlobalTheory.IndivisibleSection.sval_of_secIsMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:22.875591+00:00
 -- url     : https://prove2.me/theorems/98eb2e29-bb33-4ca5-9e53-85ad28110f9b

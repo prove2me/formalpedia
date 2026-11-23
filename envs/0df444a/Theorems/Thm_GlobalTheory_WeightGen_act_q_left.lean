@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightGen_act_q_left
 -- name    : GlobalTheory.WeightGen.act_q_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:30:22.658833+00:00
 -- url     : https://prove2.me/theorems/3495b59f-52a6-43b4-af6b-d99829c66279

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coe_unitsAddMonoidAlgebraEquiv
 -- name    : GlobalTheory.coe_unitsAddMonoidAlgebraEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:07.997376+00:00
 -- url     : https://prove2.me/theorems/931b963c-c471-423d-9922-afae5ea33c4d

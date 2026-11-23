@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_isGrpPullback_bcMap
 -- name    : GlobalTheory.SplitTorus.isGrpPullback_bcMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:25.649796+00:00
 -- url     : https://prove2.me/theorems/bdde8273-290c-46d3-885e-c9ba4eb566a5

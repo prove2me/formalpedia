@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_CoefBasic_exists_frame_ratio
 -- name    : GlobalTheory.UT.CoefBasic.exists_frame_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:06:31.619215+00:00
 -- url     : https://prove2.me/theorems/0916cba4-bc4f-449b-8416-b81cc2ac3af4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_secScal_iff
 -- name    : GlobalTheory.FieldBaseChange.secScal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:17:44.57043+00:00
 -- url     : https://prove2.me/theorems/638cbf60-b7d5-4cb1-878d-48be222868ec

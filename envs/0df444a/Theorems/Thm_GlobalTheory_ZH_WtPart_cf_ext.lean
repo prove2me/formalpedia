@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtPart_cf_ext
 -- name    : GlobalTheory.ZH.WtPart.cf_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:06:23.152601+00:00
 -- url     : https://prove2.me/theorems/3da36959-4ad2-47c4-9a8e-1447af321b33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_secLin_iff
 -- name    : GlobalTheory.FieldBaseChange.secLin_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:28.860487+00:00
 -- url     : https://prove2.me/theorems/5c031f4a-afa2-4a8d-ab8c-8ab36707deb1

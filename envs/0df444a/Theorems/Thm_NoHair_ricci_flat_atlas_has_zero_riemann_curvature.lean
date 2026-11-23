@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_ricci_flat_atlas_has_zero_riemann_curvature
 -- name    : NoHair.ricci_flat_atlas_has_zero_riemann_curvature
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T11:47:02.394922+00:00
 -- url     : https://prove2.me/theorems/87298b1b-e716-4301-acb4-218e668a3d0c

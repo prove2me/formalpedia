@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualRigidity_eq_comp_section_of_const
 -- name    : GlobalTheory.DualRigidity.eq_comp_section_of_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:17:57.591589+00:00
 -- url     : https://prove2.me/theorems/e0d8c406-39a3-4ef2-bce5-df96b308728f

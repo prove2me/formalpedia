@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_ConePrime_valHom_constHom
 -- name    : GlobalTheory.ZH.ConePrime.valHom_constHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:33.004897+00:00
 -- url     : https://prove2.me/theorems/7251e089-b2d4-4485-8778-ec581caa3aa1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZModPerp_exists_dual_ne_zero
 -- name    : GlobalTheory.ZModPerp.exists_dual_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:56:19.484718+00:00
 -- url     : https://prove2.me/theorems/d18dc716-c570-4af6-a489-91d4172efae1

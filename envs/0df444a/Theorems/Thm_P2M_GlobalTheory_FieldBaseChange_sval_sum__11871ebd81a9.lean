@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FieldBaseChange_sval_sum__11871ebd81a9
 -- name    : P2M_GlobalTheory_FieldBaseChange_sval_sum__11871ebd81a9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:43.883236+00:00
 -- url     : https://prove2.me/theorems/dcf9dbee-4b6e-48d6-a943-6ba20163840e

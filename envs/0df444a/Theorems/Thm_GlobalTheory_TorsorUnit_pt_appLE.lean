@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsorUnit_pt_appLE
 -- name    : GlobalTheory.TorsorUnit.pt_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:37.728803+00:00
 -- url     : https://prove2.me/theorems/89396445-e89f-49bf-ab1c-e2c844eaa16b

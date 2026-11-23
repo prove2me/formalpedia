@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_eq_of_single_one_eq
 -- name    : GlobalTheory.TorusUnit.eq_of_single_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:44.268487+00:00
 -- url     : https://prove2.me/theorems/2194bae6-68d6-4cf0-9fb2-71af52fe733e

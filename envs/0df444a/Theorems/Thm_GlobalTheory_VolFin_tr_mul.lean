@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_VolFin_tr_mul
+-- name    : GlobalTheory.VolFin.tr_mul
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T12:11:42.823306+00:00
+-- url     : https://prove2.me/theorems/7b4664d5-726d-4cf2-a939-bf1e68fd1f5b
+-- title:
+--   Vol Fin: tr mul
+-- statement:
+--   The Vol Fin construction uses the tr mul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/ModuliProofs/LineBundleGlobalSectionsFunctionFieldIff.lean#L62-L67
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/ModuliProofs/LineBundleGlobalSectionsFunctionFieldIff.lean#L62-L67
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ModuliSpaces_SectionsHaveFiniteDimension
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_UniformisationConclusion
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_AbelianSchemeLaws_FirstCohomologyVanishesSpecOfIsLocalRing
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ModuliProofs_LineBundleGlobalSectionsFunctionFieldIff
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
+open scoped CategoryTheory.Obj TensorProduct
+open GlobalTheory.ZV
+open GlobalTheory.AbLaw (rs pw)
+noncomputable section
+open GlobalTheory GlobalTheory.VolFin
+variable {K : Type} [Field K] {X Y : Scheme.{0}} [IsIntegral X] [IsIntegral Y]
+
+theorem GlobalTheory.VolFin.tr_mul {N : LB X} (hN : N.IsLB) (i j k : N.ι) (hi) (hj) (hk) :
+    tr N i j hi hj * tr N j k hj hk = tr N i k hi hk := by sorry

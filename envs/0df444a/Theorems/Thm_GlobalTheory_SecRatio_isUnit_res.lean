@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecRatio_isUnit_res
 -- name    : GlobalTheory.SecRatio.isUnit_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:23.802414+00:00
 -- url     : https://prove2.me/theorems/ed5eee81-d310-4f8a-af2d-cf8f8aa86c56

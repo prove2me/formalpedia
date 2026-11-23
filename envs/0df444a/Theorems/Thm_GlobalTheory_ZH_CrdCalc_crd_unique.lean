@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_CrdCalc_crd_unique
 -- name    : GlobalTheory.ZH.CrdCalc.crd_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:44.264886+00:00
 -- url     : https://prove2.me/theorems/fc193dfc-46b1-4647-88c4-7b1536a34390

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trivialCoaction_apply
 -- name    : GlobalTheory.trivialCoaction_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:49.697206+00:00
 -- url     : https://prove2.me/theorems/7b278662-d30f-4558-894b-299cf3ba017b

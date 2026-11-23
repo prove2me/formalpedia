@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNil_comp_eq_of_pullback_map_eq
 -- name    : GlobalTheory.TorusNil.comp_eq_of_pullback_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:48.157525+00:00
 -- url     : https://prove2.me/theorems/f0457998-7a50-44be-b071-788930c8d7f0

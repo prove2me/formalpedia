@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_isHolTo_ex
 -- name    : GlobalTheory.HolHom.isHolTo_ex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:45.015784+00:00
 -- url     : https://prove2.me/theorems/dfac8b4b-9d2f-4564-818a-722b23c6ee16

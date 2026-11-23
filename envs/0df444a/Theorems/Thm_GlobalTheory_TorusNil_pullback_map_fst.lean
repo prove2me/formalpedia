@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNil_pullback_map_fst
 -- name    : GlobalTheory.TorusNil.pullback_map_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:07.149688+00:00
 -- url     : https://prove2.me/theorems/46d418a9-de8e-402c-9f03-3655925ed446

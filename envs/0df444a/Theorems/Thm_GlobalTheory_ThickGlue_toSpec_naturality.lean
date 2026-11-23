@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickGlue_toSpec_naturality
 -- name    : GlobalTheory.ThickGlue.toSpec_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:40.833335+00:00
 -- url     : https://prove2.me/theorems/ddfc90c2-df9d-40a9-8f77-938c5a60e765

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_torusPoint_fst
 -- name    : GlobalTheory.TorusUnit.torusPoint_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:06:34.2078+00:00
 -- url     : https://prove2.me/theorems/018956f7-e8d0-4695-beb0-78b7e239ab9f

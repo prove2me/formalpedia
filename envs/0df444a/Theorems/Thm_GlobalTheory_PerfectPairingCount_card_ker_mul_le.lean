@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairingCount_card_ker_mul_le
 -- name    : GlobalTheory.PerfectPairingCount.card_ker_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:19.425888+00:00
 -- url     : https://prove2.me/theorems/4046ef58-bc19-42d6-b05c-7a5a72039a50

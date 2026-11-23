@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_eq_of_gen
 -- name    : GlobalTheory.VolFin.eq_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:25:55.143894+00:00
 -- url     : https://prove2.me/theorems/ba7cb7c6-1273-41ac-82b3-60caa9683afe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_bounded_differential_punctured_ball_has_unique_limit
 -- name    : NoHair.bounded_differential_punctured_ball_has_unique_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T12:01:18.051795+00:00
 -- url     : https://prove2.me/theorems/b384ac5c-b53f-4ba2-84f2-e3c170ac6208
