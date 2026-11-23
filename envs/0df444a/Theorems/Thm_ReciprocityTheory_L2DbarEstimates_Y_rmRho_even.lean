@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rmRho_even
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rmRho_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:38.91485+00:00
 -- url     : https://prove2.me/theorems/c12c5400-1dd9-4af2-9dbf-5f2669ea9ab2

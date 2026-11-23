@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_FsLaw_corner_eq
 -- name    : GlobalTheory.LineCos.FsLaw.corner_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:15.280631+00:00
 -- url     : https://prove2.me/theorems/65f901f0-29a1-4b88-9826-996cf3b1093d

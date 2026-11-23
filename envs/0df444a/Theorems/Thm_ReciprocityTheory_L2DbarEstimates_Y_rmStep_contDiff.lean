@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rmStep_contDiff
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rmStep_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:27.918782+00:00
 -- url     : https://prove2.me/theorems/e6fc5e55-6a64-47bd-ab08-f283a05317e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_side_inl
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.side_inl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:54:13.136556+00:00
 -- url     : https://prove2.me/theorems/cc3aa806-3bb2-41f7-a33f-35574cf42df0

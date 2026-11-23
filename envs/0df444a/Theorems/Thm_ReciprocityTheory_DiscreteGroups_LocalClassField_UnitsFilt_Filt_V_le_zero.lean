@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_Filt_V_le_zero
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.Filt.V_le_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:08.381178+00:00
 -- url     : https://prove2.me/theorems/afbd2f9f-99d3-4e5c-85ca-8ed619f95fef

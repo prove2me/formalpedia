@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_intVec_le_coordLat
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.intVec_le_coordLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:46.957792+00:00
 -- url     : https://prove2.me/theorems/be9bf0bb-2389-444c-949e-078d33b89ad9

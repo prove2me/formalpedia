@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_Filt_V_comp
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.Filt.V_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:16.583156+00:00
 -- url     : https://prove2.me/theorems/a7e4c0ad-3438-4fcd-9964-579df83019f6

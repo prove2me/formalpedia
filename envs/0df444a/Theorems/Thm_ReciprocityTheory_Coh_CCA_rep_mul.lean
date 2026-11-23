@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CCA_rep_mul
 -- name    : ReciprocityTheory.Coh.CCA.rep_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:49.427992+00:00
 -- url     : https://prove2.me/theorems/bf87318c-d3e2-434d-8440-b89545e0e684

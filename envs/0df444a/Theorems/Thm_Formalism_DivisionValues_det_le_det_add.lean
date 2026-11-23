@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_det_le_det_add
 -- name    : Formalism.DivisionValues.det_le_det_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:31.081304+00:00
 -- url     : https://prove2.me/theorems/2bcdd8bf-da7d-4d6d-b8c3-0e7f7b248ae5

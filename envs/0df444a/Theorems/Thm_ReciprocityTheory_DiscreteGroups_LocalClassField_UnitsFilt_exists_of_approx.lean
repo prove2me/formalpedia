@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_exists_of_approx
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.exists_of_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:35.0998+00:00
 -- url     : https://prove2.me/theorems/45830913-8732-404a-aa3a-ece376eb06ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_isUnit_ph
 -- name    : CompanionTheory.ThKR.LL.isUnit_ph
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:35.173725+00:00
 -- url     : https://prove2.me/theorems/6568bddd-3cab-498b-ad0e-d92095b0f6c3

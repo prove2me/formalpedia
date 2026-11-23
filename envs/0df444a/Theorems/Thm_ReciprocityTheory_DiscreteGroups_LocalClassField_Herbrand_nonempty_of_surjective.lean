@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_nonempty_of_surjective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.nonempty_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:20.170812+00:00
 -- url     : https://prove2.me/theorems/a7563ab9-c234-4fe6-a4f5-93dbe7757710

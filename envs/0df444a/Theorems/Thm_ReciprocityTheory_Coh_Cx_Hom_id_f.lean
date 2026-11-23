@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_Cx_Hom_id_f
 -- name    : ReciprocityTheory.Coh.Cx.Hom.id_f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:01.697095+00:00
 -- url     : https://prove2.me/theorems/04b321d6-6276-46e8-89cf-2fa7c7f3ae23

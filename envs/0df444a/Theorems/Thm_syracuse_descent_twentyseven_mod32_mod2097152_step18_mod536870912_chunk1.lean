@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_descent_twentyseven_mod32_mod2097152_step18_mod536870912_chunk1
 -- name    : syracuse_descent_twentyseven_mod32_mod2097152_step18_mod536870912_chunk1
--- status  : Open
+-- status  : Proved
 -- author  : @Siyuan Chen
 -- created : 2026-11-23T16:27:48.970653+00:00
 -- url     : https://prove2.me/theorems/0fa857de-ab31-4799-9356-cd25972fcd4a

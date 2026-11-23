@@ -53593,8 +53593,6 @@
 {"parent": "AlgebraicGeometry.Scheme.etaleFrame_tensor_restrict", "child": "AlgebraicGeometry_RelativePicardFunctor", "via": ["solution"]}
 {"parent": "AlgebraicGeometry.Scheme.etaleFrame_tensor_restrict", "child": "AlgebraicGeometry_PresheafPullbackCompositionComparison", "via": ["solution"]}
 {"parent": "AlgebraicGeometry.Scheme.etaleFrame_tensor_restrict", "child": "AlgebraicGeometry_ModulesPullbackMonoidalV2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result8_6_v2", "child": "Kyprianou.Ch08.StageB.source_result8_6_unbounded", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result8_6_v2", "child": "Kyprianou.Ch08.StageB.source_result8_6_bounded", "via": ["solution"]}
 {"parent": "DeletionCode.OverlapCollision.collision_card_le", "child": "DeletionCode.OverlapCollision.collisionEncode_injective", "via": ["solution"]}
 {"parent": "DeletionCode.RecordBounds.startNegative_bounds", "child": "DeletionCode.RecordBounds.writeBits_bounds", "via": ["solution"]}
 {"parent": "QEC.Distillation.BK15.Recurrence.accepted_endpointWeight_eq_closedForm", "child": "QEC.Semantics.DensityOperator.pureOfNonzero_apply", "via": ["solution"]}

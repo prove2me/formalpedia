@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OppRad_conj_mem
 -- name    : GlobalTheory.OppRad.conj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:06:30.15652+00:00
 -- url     : https://prove2.me/theorems/01f3995d-ac3a-48f4-8726-86ca015cb004

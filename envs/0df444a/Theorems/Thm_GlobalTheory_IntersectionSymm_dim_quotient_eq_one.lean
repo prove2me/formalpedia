@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntersectionSymm_dim_quotient_eq_one
 -- name    : GlobalTheory.IntersectionSymm.dim_quotient_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:03.003392+00:00
 -- url     : https://prove2.me/theorems/c2a12887-3a93-4ca2-b024-677421ab181e

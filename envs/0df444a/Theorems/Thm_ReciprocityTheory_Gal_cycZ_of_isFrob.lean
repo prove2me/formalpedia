@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_cycZ_of_isFrob
 -- name    : ReciprocityTheory.Gal.cycZ_of_isFrob
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:51:27.921032+00:00
 -- url     : https://prove2.me/theorems/fde84223-0dce-4bb7-97e5-22233eef6c71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_constantCoeff_first_factor
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.constantCoeff_first_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:06.245801+00:00
 -- url     : https://prove2.me/theorems/5848db06-3a75-47d5-8dce-0e7e3d47a5a3

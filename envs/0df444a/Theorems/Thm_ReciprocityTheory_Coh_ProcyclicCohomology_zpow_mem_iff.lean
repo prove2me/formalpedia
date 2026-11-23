@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ProcyclicCohomology_zpow_mem_iff
 -- name    : ReciprocityTheory.Coh.ProcyclicCohomology.zpow_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:47.236858+00:00
 -- url     : https://prove2.me/theorems/ee07555c-c82f-4a1d-983f-c5f87aa94cc5

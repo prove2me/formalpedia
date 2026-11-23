@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fc_clm_decomp
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fc_clm_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:41.948929+00:00
 -- url     : https://prove2.me/theorems/7ee7857e-9bcb-480e-9f1a-c3834ce4769e

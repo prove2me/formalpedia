@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_FsLaw_measurable_hform
 -- name    : GlobalTheory.LineCos.FsLaw.measurable_hform
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:58.419774+00:00
 -- url     : https://prove2.me/theorems/1f79d63d-6044-43d9-9b8e-d02859b045e2

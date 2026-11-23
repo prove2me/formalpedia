@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_Cx_cls_smul
 -- name    : ReciprocityTheory.Coh.Cx.cls_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:40.080511+00:00
 -- url     : https://prove2.me/theorems/e50ba3a3-258b-4fd3-94ac-fa81f9071ce3

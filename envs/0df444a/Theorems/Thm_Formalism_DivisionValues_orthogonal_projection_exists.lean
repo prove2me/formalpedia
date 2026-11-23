@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_orthogonal_projection_exists
 -- name    : Formalism.DivisionValues.orthogonal_projection_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:32:11.532831+00:00
 -- url     : https://prove2.me/theorems/0e6aeb2b-c730-4049-9336-b1391f13a4c0

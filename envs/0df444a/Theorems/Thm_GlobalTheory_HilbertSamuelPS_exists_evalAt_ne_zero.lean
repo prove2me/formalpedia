@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertSamuelPS_exists_evalAt_ne_zero
 -- name    : GlobalTheory.HilbertSamuelPS.exists_evalAt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:58.112647+00:00
 -- url     : https://prove2.me/theorems/863c7478-6ee4-4ba7-bdf1-da9780e17be3

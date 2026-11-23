@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_Cx_cls_eq_zero_iff
 -- name    : ReciprocityTheory.Coh.Cx.cls_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:32.719956+00:00
 -- url     : https://prove2.me/theorems/e00a2708-46a8-4fda-b786-00b8eb402f0f

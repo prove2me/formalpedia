@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_Phi_symm_apply
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.Phi_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:42.900398+00:00
 -- url     : https://prove2.me/theorems/5f373713-27ea-4031-8063-918d68cc9e05

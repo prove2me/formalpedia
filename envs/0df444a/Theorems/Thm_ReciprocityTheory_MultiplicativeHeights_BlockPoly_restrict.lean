@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_BlockPoly_restrict
 -- name    : ReciprocityTheory.MultiplicativeHeights.BlockPoly.restrict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:34.175394+00:00
 -- url     : https://prove2.me/theorems/8d8da4b0-a4f3-4e28-9a83-987568fe02db

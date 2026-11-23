@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Pdiv_ChPt_eq_of_mod
 -- name    : ReciprocityTheory.ChartRestriction.G.Pdiv.ChPt.eq_of_mod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:15:05.484256+00:00
 -- url     : https://prove2.me/theorems/02f902eb-3107-4a68-907f-f629d3816010

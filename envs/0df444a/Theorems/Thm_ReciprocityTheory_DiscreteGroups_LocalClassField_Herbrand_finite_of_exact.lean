@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_finite_of_exact
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.finite_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:11.593309+00:00
 -- url     : https://prove2.me/theorems/f648f0d8-9a99-462d-a4e2-76436668c4ed

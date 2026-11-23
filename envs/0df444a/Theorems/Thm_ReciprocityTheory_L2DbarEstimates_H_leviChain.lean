@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_leviChain
 -- name    : ReciprocityTheory.L2DbarEstimates.H.leviChain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:30.395771+00:00
 -- url     : https://prove2.me/theorems/fc2ef2fc-66f1-4ab6-8263-9b9428c527df

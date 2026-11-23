@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_Cx_H_ind
 -- name    : ReciprocityTheory.Coh.Cx.H_ind
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:33.391805+00:00
 -- url     : https://prove2.me/theorems/ad8d907d-85d7-483f-aee2-7b95a7e7226c

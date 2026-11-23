@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_Cx_mem_B_zero
 -- name    : ReciprocityTheory.Coh.Cx.mem_B_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:36.797336+00:00
 -- url     : https://prove2.me/theorems/947c3700-e450-440c-8d6b-fdcd87a14081

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d
 -- name    : P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:39:09.564379+00:00
 -- url     : https://prove2.me/theorems/6c10d62b-7d32-4522-8604-d9a81b2ee5e7

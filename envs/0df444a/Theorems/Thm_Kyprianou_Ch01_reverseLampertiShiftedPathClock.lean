@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiShiftedPathClock
 -- name    : Kyprianou.Ch01.reverseLampertiShiftedPathClock
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-23T16:56:47.551937+00:00
 -- url     : https://prove2.me/theorems/bcc2925f-f349-4e8e-bc7d-3dfa0df5a451

@@ -82424,7 +82424,7 @@
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_12_22_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_12_22_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "SmallBiasPRF.lemma_25", "child": "SmallBiasPRF_statePoly", "via": ["statement"]}
-{"parent": "GaussPolyReg.Approx.lemma_B_2", "child": "GaussPolyReg_Approx_Tensors", "via": ["statement"]}
+{"parent": "GaussPolyReg.Approx.lemma_B_2", "child": "GaussPolyReg_Approx_Tensors", "via": ["solution", "statement"]}
 {"parent": "DOPriorityQueue_Construction_Execution", "child": "DOPriorityQueue_Construction_Queue", "via": ["statement"]}
 {"parent": "DOPriorityQueue_Construction_Execution", "child": "DOPriorityQueue_Construction_RAM", "via": ["statement"]}
 {"parent": "EFI1PRS.Uniform.correlated_flag_entropy_gap", "child": "EFI1PRS_Uniform_Generator", "via": ["statement"]}

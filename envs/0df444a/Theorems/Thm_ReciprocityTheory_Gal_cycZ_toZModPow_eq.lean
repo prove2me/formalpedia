@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_cycZ_toZModPow_eq
 -- name    : ReciprocityTheory.Gal.cycZ_toZModPow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:28:27.681035+00:00
 -- url     : https://prove2.me/theorems/52434d3f-b02f-4c2b-a744-0b3447e5bc87

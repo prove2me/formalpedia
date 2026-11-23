@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Conj_conj_apply_ge
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Conj.conj_apply_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:06:46.748994+00:00
 -- url     : https://prove2.me/theorems/b2667e83-9b61-4873-aa9e-ef275794b2b4

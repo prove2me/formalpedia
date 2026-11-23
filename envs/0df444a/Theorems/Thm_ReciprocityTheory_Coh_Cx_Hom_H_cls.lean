@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_Cx_Hom_H_cls
 -- name    : ReciprocityTheory.Coh.Cx.Hom.H_cls
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:37.412671+00:00
 -- url     : https://prove2.me/theorems/abb1d54c-42e9-4343-9e5a-4b3c5bd3876f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ContinuousSections_tr_coset
 -- name    : ReciprocityTheory.Coh.ContinuousSections.tr_coset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:11.838518+00:00
 -- url     : https://prove2.me/theorems/a32991db-1fe5-44cc-9ce3-8abb125bdf69

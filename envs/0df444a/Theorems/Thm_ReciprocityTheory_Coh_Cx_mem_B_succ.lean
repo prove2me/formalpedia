@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_Cx_mem_B_succ
 -- name    : ReciprocityTheory.Coh.Cx.mem_B_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:48.152336+00:00
 -- url     : https://prove2.me/theorems/9491d0a7-3cfc-4597-83aa-67bce2281376

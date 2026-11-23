@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_FsLaw_measurable_lineVec
 -- name    : GlobalTheory.LineCos.FsLaw.measurable_lineVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:19.624198+00:00
 -- url     : https://prove2.me/theorems/5f314b84-5203-48d8-a771-41c5911dfe41

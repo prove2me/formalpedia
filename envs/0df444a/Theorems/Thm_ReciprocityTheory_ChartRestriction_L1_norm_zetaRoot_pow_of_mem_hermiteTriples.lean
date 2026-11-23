@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_zetaRoot_pow_of_mem_hermiteTriples
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_zetaRoot_pow_of_mem_hermiteTriples
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:13.645562+00:00
 -- url     : https://prove2.me/theorems/09b6e110-0765-4ef0-92c7-dc67dd33c4df

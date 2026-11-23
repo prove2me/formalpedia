@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_eval_first_axis_restrict
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.eval_first_axis_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:55.530868+00:00
 -- url     : https://prove2.me/theorems/e64c0b9b-25e5-4af6-b11f-f72d163e5358

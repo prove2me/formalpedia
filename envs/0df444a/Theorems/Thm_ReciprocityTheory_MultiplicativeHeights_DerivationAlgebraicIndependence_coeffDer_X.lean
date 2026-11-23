@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DerivationAlgebraicIndependence_coeffDer_X
 -- name    : ReciprocityTheory.MultiplicativeHeights.DerivationAlgebraicIndependence.coeffDer_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:26.018807+00:00
 -- url     : https://prove2.me/theorems/f198d05c-680a-4035-80d7-18eca96c00c3

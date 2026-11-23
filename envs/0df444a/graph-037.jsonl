@@ -26302,10 +26302,10 @@
 {"parent": "RH1E6S12_D047_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism.MainNotions.G.GLWeightTheory.matrixSubst_X", "child": "Formalism_SharpRestriction_GrowthBounds_RootWeights_TwistSubEqMatrixSubst", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.G.GLWeightTheory.matrixSubst_X", "child": "Formalism_SharpRestriction_GrowthBounds_ObjPol", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.Gal.cycZ_toZModPow_eq", "child": "Formalism_ConjugateSelfDual_Statement", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Gal.cycZ_toZModPow_eq", "child": "ReciprocityTheory_GaloisValuations_Global", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Gal.cycZ_toZModPow_eq", "child": "ReciprocityTheory_GaloisValuations_GlobalA", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Gal.cycZ_toZModPow_eq", "child": "ReciprocityTheory_GaloisValuations_GlobalB", "via": ["statement"]}
+{"parent": "ReciprocityTheory.Gal.cycZ_toZModPow_eq", "child": "Formalism_ConjugateSelfDual_Statement", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.Gal.cycZ_toZModPow_eq", "child": "ReciprocityTheory_GaloisValuations_Global", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.Gal.cycZ_toZModPow_eq", "child": "ReciprocityTheory_GaloisValuations_GlobalA", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.Gal.cycZ_toZModPow_eq", "child": "ReciprocityTheory_GaloisValuations_GlobalB", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13.part_005_2", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S13.part_005_2", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}
 {"parent": "RH1E6S13.part_005_2", "child": "ArdaRH65K_RS_Mellin", "via": ["statement"]}
@@ -39772,31 +39772,31 @@
 {"parent": "Kyprianou.Ch01.mckeanRightFirstLowerPassageStopping", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.mckeanRightFirstLowerPassageStopping", "child": "Kyprianou_Ch01_McKeanRightContinuousFiltration", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11_D069_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk24", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk1", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk12", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk14", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk23", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk10", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk7", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk13", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk17", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk3", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk15", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk18", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk9", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk20", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk16", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk2", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk19", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk5", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syracuseStep", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk21", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk4", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk8", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk11", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk6", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk22", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk24", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk1", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk12", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk14", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk23", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk10", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk7", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk13", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk17", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk3", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk15", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk18", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk9", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk20", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk16", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk2", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk19", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk5", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syracuseStep", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk21", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk4", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk8", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk11", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk6", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_twentyseven_mod32_mod2097152_after_step17_mod134217728", "child": "syrStep17Chunk22", "via": ["solution", "statement"]}
 {"parent": "Reformulated.AutPerF.IsUnitBall.frobenius_surjective", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_UniformContinuousConstSMulOfIsIsometricSMul", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.weakDual_isNuclear", "child": "MasulloGRH_LocallyConvex", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11_D082_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
@@ -62251,7 +62251,7 @@
 {"parent": "Formalism.BranchingDeterminantCap.bm_ndE_eq", "child": "Formalism_BranchSandwichDivisors_StatementW", "via": ["solution", "statement"]}
 {"parent": "Log.compatibleWithLog_log_subset", "child": "EventStructures_Family_Computation", "via": ["solution", "statement"]}
 {"parent": "Log.compatibleWithLog_log_subset", "child": "EventStructures_Family_Log", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_a77_original_negative_Borel_spatial_counts_jointly_independent", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_a77_original_negative_Borel_spatial_counts_jointly_independent", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Formalism_RankGapBounds_RankGapProofs_RankGapDecayHypothesis", "child": "Formalism_RankGapBounds_GridNumericalHypotheses", "via": ["statement"]}
 {"parent": "Formalism_RankGapBounds_RankGapProofs_RankGapDecayHypothesis", "child": "Formalism_RankGapBounds_RankGapProofs_RandomSubsetLemmaCounterexample", "via": ["statement"]}
 {"parent": "Formalism_GaussJetBounds_FrameJetEval", "child": "Formalism_GaussJetBounds_StatementP", "via": ["statement"]}
@@ -66693,9 +66693,9 @@
 {"parent": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsChain", "child": "Formalism_QuotientMetricDivisors_ReductionLemmaZero", "via": ["statement"]}
 {"parent": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsChain", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsSum", "via": ["statement"]}
 {"parent": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsChain", "child": "Formalism_QuotientMetricDivisors_BoundsChain", "via": ["statement"]}
-{"parent": "P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d", "child": "Formalism_QuotientMetricDivisors_ProdFormula", "via": ["statement"]}
-{"parent": "P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d", "child": "Formalism_LogFactorialIndices_SignedSubspaceIndex_LogProductFormula", "via": ["statement"]}
-{"parent": "P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["statement"]}
+{"parent": "P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d", "child": "Formalism_QuotientMetricDivisors_ProdFormula", "via": ["solution", "statement"]}
+{"parent": "P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d", "child": "Formalism_LogFactorialIndices_SignedSubspaceIndex_LogProductFormula", "via": ["solution", "statement"]}
+{"parent": "P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["solution", "statement"]}
 {"parent": "Formalism_QuotientMetricDivisors_ReductionLemmaZero", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_VwEqZeroOfNotMem", "via": ["statement"]}
 {"parent": "Formalism_QuotientMetricDivisors_ReductionLemmaZero", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaSecond", "via": ["statement"]}
 {"parent": "Formalism_QuotientMetricDivisors_ReductionLemmaZero", "child": "Formalism_LogFactorialIndices_SignedSubspaceIndex_SumInterlacedBoundFails", "via": ["statement"]}
@@ -85672,10 +85672,10 @@
 {"parent": "Comp.ModelData.mid_eq_of_data", "child": "Comp_ModelData", "via": ["solution", "statement"]}
 {"parent": "Comp.ModelData.mid_eq_of_data", "child": "Comp.ModelData.wellFormed", "via": ["solution", "statement"]}
 {"parent": "Comp.ModelData.mid_eq_of_data", "child": "Comp_ModelDataQualitative", "via": ["solution", "statement"]}
-{"parent": "Formalism.DivisionValues.phi_lipschitz_bound", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.phi_lipschitz_bound", "child": "Formalism_QuotientMetricDivisors_Complement2Normaliser", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.phi_lipschitz_bound", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondComplementParameterBounds", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.phi_lipschitz_bound", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}
+{"parent": "Formalism.DivisionValues.phi_lipschitz_bound", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.phi_lipschitz_bound", "child": "Formalism_QuotientMetricDivisors_Complement2Normaliser", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.phi_lipschitz_bound", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondComplementParameterBounds", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.phi_lipschitz_bound", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
 {"parent": "Comp.ModelData.coe_gStepOf", "child": "Comp_FixLoop", "via": ["solution", "statement"]}
 {"parent": "Comp.ModelData.coe_gStepOf", "child": "Comp_ModelData", "via": ["solution", "statement"]}
 {"parent": "Comp.ModelData.coe_gStepOf", "child": "Comp.ModelData.wellFormed", "via": ["solution", "statement"]}

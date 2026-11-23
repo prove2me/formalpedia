@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_mk_eq_mk_iff
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.mk_eq_mk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:38.470863+00:00
 -- url     : https://prove2.me/theorems/dcc71d9c-6f0d-4d11-8a8b-9ce89921b62a

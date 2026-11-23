@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_isFin_of_finite
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.isFin_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:54.969599+00:00
 -- url     : https://prove2.me/theorems/e63f4a31-7641-4617-9e50-afb4e2c49fad

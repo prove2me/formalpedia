@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HilbertSamuelPS_lexOrder_one__aaa62325d311
 -- name    : P2M_GlobalTheory_HilbertSamuelPS_lexOrder_one__aaa62325d311
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:02.136351+00:00
 -- url     : https://prove2.me/theorems/ac11f8a7-23f0-4db1-be3d-452eb1a109bc

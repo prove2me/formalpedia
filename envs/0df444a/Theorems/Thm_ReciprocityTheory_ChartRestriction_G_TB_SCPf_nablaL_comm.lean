@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_nablaL_comm
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.nablaL_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:55.176081+00:00
 -- url     : https://prove2.me/theorems/28a553b8-1b00-4bea-af40-d9088499dd3b

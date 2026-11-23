@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_zetaC_pow_self
 -- name    : ReciprocityTheory.ChartRestriction.L1.zetaC_pow_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:58.512718+00:00
 -- url     : https://prove2.me/theorems/3e535c9e-cfc6-46c9-bbc7-ae6109194b50

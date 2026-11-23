@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_combMap_intVec
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.combMap_intVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:06.694181+00:00
 -- url     : https://prove2.me/theorems/ffe1b8b2-7df1-47ca-a31e-237fc6d02cdc

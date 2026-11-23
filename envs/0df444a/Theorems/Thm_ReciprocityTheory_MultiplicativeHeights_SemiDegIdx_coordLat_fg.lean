@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_coordLat_fg
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.coordLat_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:57.751517+00:00
 -- url     : https://prove2.me/theorems/17b468d0-b0f5-4260-9a31-1e064aa62121

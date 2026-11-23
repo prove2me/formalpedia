@@ -29838,7 +29838,6 @@
 {"parent": "RH1E6S04_D004_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "MasulloGRH.nuclear_dual_domination", "child": "MasulloGRH_LocallyConvex", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.completeNuclearDF_bounded_nuclear_domination", "child": "MasulloGRH_LocallyConvex", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result8_6_zero_discount", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
 {"parent": "RH1E6S06.part_024_3", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S06.part_024_3", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S06.part_024_3", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -59095,8 +59094,6 @@
 {"parent": "AvramDividend.Classical.avram_pj_reward80e_original_trueclock_positive_residual_mean_small", "child": "AvramDividend.Classical.avram_pj_reward80m_nonpositive_right_dividend_and_continuous_gradient_loss_signed_upper_L1_transfer", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_pj_reward80e_original_trueclock_positive_residual_mean_small", "child": "AvramDividend.Classical.avram_pj_workerC_original_positiveclock_masked_truegrid_no_doubleB_signed_L1_source", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_pj_reward80e_original_trueclock_positive_residual_mean_small", "child": "AvramDividend.Classical.avram_pj_workerC_original_allclock_closed_inclusive_reward_le_strict_prepayment_physical", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result8_6_v2", "child": "Kyprianou.Ch08.StageB.source_result8_6_zero_discount", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result8_6_v2", "child": "Kyprianou.Ch08.StageB.source_scale_origin_discount_invariant", "via": ["solution"]}
 {"parent": "InfoLossLAR.WorstCase.RegevSketch.dgs_blind_dyadic_selection_mqpt", "child": "RegevLWE_GaussConv_Lattice", "via": ["solution"]}
 {"parent": "InfoLossLAR.WorstCase.RegevSketch.dgs_blind_dyadic_selection_mqpt", "child": "InfoLossLAR_WorstCase_FixedT", "via": ["solution"]}
 {"parent": "InfoLossLAR.WorstCase.RegevSketch.dgs_blind_dyadic_selection_mqpt", "child": "InfoLossLAR_WorstCase_Laws", "via": ["solution"]}

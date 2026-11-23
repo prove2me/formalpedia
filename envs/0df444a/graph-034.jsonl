@@ -64965,30 +64965,6 @@
 {"parent": "Lax263307Proofs.NativeQptasImplementation.exists_fixed", "child": "Lax263307Proofs.NativeSelectedLP.exists_program", "via": ["solution"]}
 {"parent": "Lax263307Proofs.NativeQptasImplementation.exists_fixed", "child": "Lax263307Proofs.NativeSelectedNear.exists_program", "via": ["solution"]}
 {"parent": "Lax263307Proofs.NativeQptasImplementation.exists_fixed", "child": "EdgeSublinearMWIS_Main_NativeDetailedInterfaces", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_5_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_8_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_4_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_2_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_1_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_9_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_6_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_3_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_5_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_4_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_8_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_7_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_6_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_9_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_10_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_1_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_11_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_7_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_12_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_exercise8_10_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_11_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_12_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_2_v2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou.Ch08.StageB.source_result8_3_v2", "via": ["solution"]}
 {"parent": "QEC.Distillation.BK15.l1Words_disjoint_l1LogicalCosetWords", "child": "QEC.Distillation.BK15.l1CoefficientMap_mem", "via": ["solution"]}
 {"parent": "QEC.Distillation.BK15.l1Words_disjoint_l1LogicalCosetWords", "child": "QEC.Distillation.BK15.allOnes_not_mem_L1", "via": ["solution"]}
 {"parent": "KoanaKPaths.Machine.ArrayLookup.program_exec", "child": "KoanaKPaths.Machine.moveInts_exec", "via": ["solution"]}
@@ -73224,7 +73200,7 @@
 {"parent": "RH1E6S02.part_059_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_297", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_297", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result8_6_bounded", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.source_result8_6_bounded", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_454", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_454", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_f6_original_topcap_infinite_activity_HJB_exponential_growth", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}

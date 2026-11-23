@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_cyc_eq_one_of_mem_Ine
 -- name    : ReciprocityTheory.Gal.cyc_eq_one_of_mem_Ine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:59:40.719748+00:00
 -- url     : https://prove2.me/theorems/b55e5521-5a53-455c-a58f-8b2fa8c4a19c

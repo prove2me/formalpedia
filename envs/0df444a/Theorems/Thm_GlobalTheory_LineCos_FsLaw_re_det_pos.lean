@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_FsLaw_re_det_pos
 -- name    : GlobalTheory.LineCos.FsLaw.re_det_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:17.699344+00:00
 -- url     : https://prove2.me/theorems/2e2fc7f8-0af8-44e2-bf6c-8020af081d37

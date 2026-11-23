@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_dedekindZeta_eq_idealZetaR
 -- name    : ReciprocityTheory.Cheb.dedekindZeta_eq_idealZetaR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:52.982133+00:00
 -- url     : https://prove2.me/theorems/155fa870-d166-4f65-a6bb-7b7f289eb86c

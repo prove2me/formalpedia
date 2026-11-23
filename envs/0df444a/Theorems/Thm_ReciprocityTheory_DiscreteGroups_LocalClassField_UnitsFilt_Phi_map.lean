@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_Phi_map
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.Phi_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:03.664082+00:00
 -- url     : https://prove2.me/theorems/98fe5b5c-ed21-4871-802e-67b0e4d32bf4

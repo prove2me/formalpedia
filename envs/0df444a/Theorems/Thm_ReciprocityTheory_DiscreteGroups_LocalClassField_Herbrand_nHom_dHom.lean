@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_nHom_dHom
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.nHom_dHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:14.776643+00:00
 -- url     : https://prove2.me/theorems/af627403-6a8a-4ab2-b7d4-1700abd6efdd

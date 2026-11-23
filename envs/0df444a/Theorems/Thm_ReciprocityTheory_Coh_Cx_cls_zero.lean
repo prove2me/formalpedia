@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_Cx_cls_zero
 -- name    : ReciprocityTheory.Coh.Cx.cls_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:12.926129+00:00
 -- url     : https://prove2.me/theorems/72c2b7bb-7ca9-45cd-82e6-dddeab9c0eda

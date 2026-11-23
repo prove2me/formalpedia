@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_phi_lipschitz_bound
 -- name    : Formalism.DivisionValues.phi_lipschitz_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:10:27.059569+00:00
 -- url     : https://prove2.me/theorems/7d351ed8-70c9-4425-8974-349c4c1a64ca

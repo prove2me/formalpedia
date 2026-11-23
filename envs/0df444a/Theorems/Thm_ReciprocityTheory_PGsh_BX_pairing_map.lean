@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_pairing_map
 -- name    : ReciprocityTheory.PGsh.BX.pairing_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:21.61308+00:00
 -- url     : https://prove2.me/theorems/fb2be3f5-8fc0-456e-b129-81570c763faf

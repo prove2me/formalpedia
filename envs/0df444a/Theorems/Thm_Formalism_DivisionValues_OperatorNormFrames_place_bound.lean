@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_OperatorNormFrames_place_bound
 -- name    : Formalism.DivisionValues.OperatorNormFrames.place_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:16:49.626266+00:00
 -- url     : https://prove2.me/theorems/f1281a15-bf66-43ca-ae5b-89b30ddb05c7

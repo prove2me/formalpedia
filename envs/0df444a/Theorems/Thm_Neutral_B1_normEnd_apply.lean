@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_normEnd_apply
 -- name    : Neutral.B1.normEnd_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:05.06527+00:00
 -- url     : https://prove2.me/theorems/f864cbf9-d2d1-49a2-a38a-d9de28446df8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_FsLaw_measurable_cosSq
 -- name    : GlobalTheory.LineCos.FsLaw.measurable_cosSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:05.524974+00:00
 -- url     : https://prove2.me/theorems/41be4d4e-08f2-4d8c-9e8a-482e6885508c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_vecMul_inv_tmat
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.vecMul_inv_tmat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:59:07.49223+00:00
 -- url     : https://prove2.me/theorems/a1a7d107-4a12-4934-9916-2ba46426a97a

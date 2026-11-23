@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OppRad_eq_zero_of_S
 -- name    : GlobalTheory.OppRad.eq_zero_of_S
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:06:19.703532+00:00
 -- url     : https://prove2.me/theorems/a9b03c54-2a56-43bb-847d-e62177c06dc5
