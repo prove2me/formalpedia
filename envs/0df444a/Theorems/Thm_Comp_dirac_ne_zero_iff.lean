@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_dirac_ne_zero_iff
 -- name    : Comp.dirac_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:47:21.493299+00:00
 -- url     : https://prove2.me/theorems/7571945c-bf74-4fc3-8430-32ae286b486e

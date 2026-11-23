@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_abs_realEmbed
 -- name    : SumProduct.abs_realEmbed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:49:16.118364+00:00
 -- url     : https://prove2.me/theorems/6d3fe20b-7949-4a07-a6f8-06b843d1c0c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_G_eq_coe_of_fixed
 -- name    : Comp.CsgQ.G_eq_coe_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:53:15.94602+00:00
 -- url     : https://prove2.me/theorems/8b50107d-15ad-4551-b9e4-3941350981e1

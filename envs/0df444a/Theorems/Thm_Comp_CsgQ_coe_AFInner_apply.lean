@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_coe_AFInner_apply
 -- name    : Comp.CsgQ.coe_AFInner_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:58:33.101826+00:00
 -- url     : https://prove2.me/theorems/57caffd0-fcfa-4a04-a17a-7d4575c8c2c6

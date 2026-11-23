@@ -21068,8 +21068,8 @@
 {"parent": "DerivativeChainPrivate.row10_newton_qp", "child": "DerivativeChainPrivate_fifth_row10_qp", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Next46.P06.commutative_pullback_regular_iff", "child": "QAlgorithms_Papers_Independent_Next46_P06", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support21.P20.weakAE_implies_strictAE_of_separated", "child": "QAlgorithms_Papers_Independent_Support21_P20", "via": ["solution", "statement"]}
-{"parent": "DataTrackComp.Surplus.gamma_eq_J1_div_J2", "child": "DataTrackComp_Surplus_ReducedGame", "via": ["statement"]}
-{"parent": "DataTrackComp.Surplus.gamma_eq_J1_div_J2", "child": "DataTrackComp_Surplus_AppendixC", "via": ["statement"]}
+{"parent": "DataTrackComp.Surplus.gamma_eq_J1_div_J2", "child": "DataTrackComp_Surplus_ReducedGame", "via": ["solution", "statement"]}
+{"parent": "DataTrackComp.Surplus.gamma_eq_J1_div_J2", "child": "DataTrackComp_Surplus_AppendixC", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P48.eb_complement_class", "child": "QAlgorithms_Papers_Independent_Claimed50_P48", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.Variation.hasDerivAt_pd_param_aux", "child": "Atlas_Transport_MatrixCalc", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.Variation.hasDerivAt_pd_param_aux", "child": "Atlas_Core_Basic", "via": ["solution", "statement"]}

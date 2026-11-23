@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_Bal_card_G_eq
 -- name    : Formalism.D5.Bal.card_G_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:47:34.223724+00:00
 -- url     : https://prove2.me/theorems/e27cd460-d24c-410e-bfa1-335a5e377f40

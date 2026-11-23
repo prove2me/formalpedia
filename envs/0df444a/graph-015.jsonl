@@ -29922,7 +29922,7 @@
 {"parent": "OAI.Laughlin.Certificate.computeLDL_18_5_3_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_18_5_3_s50", "child": "OAIQ050L002", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_18_5_3_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
-{"parent": "MultiplayerNoCollision.log_KT_to_log_T", "child": "MultiplayerNoCollision_algorithm1", "via": ["statement"]}
+{"parent": "MultiplayerNoCollision.log_KT_to_log_T", "child": "MultiplayerNoCollision_algorithm1", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_supergraph_maximal_extension_exists__p2m_2a77e1c0_132e_4864_a8ba_ceda5e75c647_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OpenSearchProgress.election_vote_accepted", "child": "OpenSearchProgress", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_3_1_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}

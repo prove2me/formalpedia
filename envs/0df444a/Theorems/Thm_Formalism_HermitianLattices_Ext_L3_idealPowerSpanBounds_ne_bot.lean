@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_idealPowerSpanBounds_ne_bot
 -- name    : Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:39.68382+00:00
 -- url     : https://prove2.me/theorems/0569d7e3-3dfa-4b30-b9d4-cf27246f9f16

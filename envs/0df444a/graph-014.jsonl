@@ -86883,7 +86883,7 @@
 {"parent": "DRBaseline.proposition_4", "child": "DRBaseline_IsBestResponse", "via": ["statement"]}
 {"parent": "DRBaseline.proposition_4", "child": "DRBaseline_IsNormalUseOptimal", "via": ["statement"]}
 {"parent": "DRBaseline.proposition_4", "child": "DRBaseline_demandReduction", "via": ["statement"]}
-{"parent": "MultimodularDocks.marginal_bike", "child": "MultimodularDocks_IsMultimodular", "via": ["statement"]}
+{"parent": "MultimodularDocks.marginal_bike", "child": "MultimodularDocks_IsMultimodular", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.bucket_l1_17", "child": "OAIQ019N049", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.DenseTimePath.pullbackAddFinset_apply", "child": "MarkovProcess_V3H_FiniteTime_DenseTimeFiniteShift_11c70184", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.DenseTimePath.pullbackAddFinset_apply", "child": "MarkovProcess_V3H_DenseTime_Shift_b3e2f7d9", "via": ["solution", "statement"]}
@@ -89120,8 +89120,8 @@
 {"parent": "ReviewProvision.eq_29", "child": "ReviewProvision_closedForms", "via": ["statement"]}
 {"parent": "ReviewProvision.eq_29", "child": "ReviewProvision_truncatedMoments", "via": ["statement"]}
 {"parent": "ReviewProvision.eq_29", "child": "ReviewProvision_IsOptimal", "via": ["statement"]}
-{"parent": "KashUpgrade.observation_1", "child": "KashUpgrade_sliceRevenue", "via": ["statement"]}
-{"parent": "KashUpgrade.observation_1", "child": "KashUpgrade_IsUpgradeBoundAt", "via": ["statement"]}
+{"parent": "KashUpgrade.observation_1", "child": "KashUpgrade_sliceRevenue", "via": ["solution", "statement"]}
+{"parent": "KashUpgrade.observation_1", "child": "KashUpgrade_IsUpgradeBoundAt", "via": ["solution", "statement"]}
 {"parent": "SteinerCutDominants_DefinesFacet", "child": "SteinerCutDominants_cutDominant", "via": ["statement"]}
 {"parent": "OAI.GeneralMahler.SCal.Mid.Tab.ctrue_6_0_90", "child": "OAIQ026G002", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P07.perspective_convexity", "child": "QAlgorithms_Papers_Independent_Intakenext100_P07", "via": ["statement"]}
@@ -91792,7 +91792,7 @@
 {"parent": "HuangN13.N13MarkedQuadraticExistence.exists_reciprocal_saturated_data", "child": "MazurN13_L4", "via": ["solution", "statement"]}
 {"parent": "HuangN13.N13MarkedQuadraticExistence.exists_reciprocal_saturated_data", "child": "HuangN13_IntegralTensorDataCore", "via": ["solution", "statement"]}
 {"parent": "HuangN13.N13MarkedQuadraticExistence.exists_reciprocal_saturated_data", "child": "HuangN13_InfinityMultiplicityCore", "via": ["solution", "statement"]}
-{"parent": "MultimodularDocks.marginal_dock", "child": "MultimodularDocks_IsMultimodular", "via": ["statement"]}
+{"parent": "MultimodularDocks.marginal_dock", "child": "MultimodularDocks_IsMultimodular", "via": ["solution", "statement"]}
 {"parent": "CutSetEnum_Coll", "child": "HyperKCut_Structure_Model", "via": ["statement"]}
 {"parent": "CutSetEnum_Coll", "child": "CutSetEnum_cutSet", "via": ["statement"]}
 {"parent": "PCLAssort_optRevenue", "child": "PCLAssort_PCLInstance", "via": ["statement"]}

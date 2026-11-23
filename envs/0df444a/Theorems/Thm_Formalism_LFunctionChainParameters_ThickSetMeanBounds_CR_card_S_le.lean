@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_CR_card_S_le
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.CR.card_S_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:19.366811+00:00
 -- url     : https://prove2.me/theorems/ac19102a-950d-46b3-bd0e-c84a2c27dd88

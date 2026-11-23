@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_lower_action_preserves_weight_le
 -- name    : Formalism.CountingSumsFrames.lower_action_preserves_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:45:47.279093+00:00
 -- url     : https://prove2.me/theorems/566cd7ed-7e59-463d-ba1f-6b3f20016e51

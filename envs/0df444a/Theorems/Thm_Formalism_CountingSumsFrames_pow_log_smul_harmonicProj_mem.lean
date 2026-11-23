@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_pow_log_smul_harmonicProj_mem
 -- name    : Formalism.CountingSumsFrames.pow_log_smul_harmonicProj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:46:42.225337+00:00
 -- url     : https://prove2.me/theorems/73f319a0-c2da-410f-97d1-34ac93e69d46

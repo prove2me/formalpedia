@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_idealPowerSpanBounds_exists_inv_theta
 -- name    : Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.exists_inv_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:37.944723+00:00
 -- url     : https://prove2.me/theorems/1edfaa89-5889-4634-a476-0b238dce3b7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HermitianSublattices_card_entSub
 -- name    : Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_entSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:49:23.287148+00:00
 -- url     : https://prove2.me/theorems/b7a28a15-5d26-4a24-8cac-6ada8e2e5ad9

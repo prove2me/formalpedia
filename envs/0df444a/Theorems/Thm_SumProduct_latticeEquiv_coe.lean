@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_latticeEquiv_coe
 -- name    : SumProduct.latticeEquiv_coe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:49:27.717843+00:00
 -- url     : https://prove2.me/theorems/7c29d160-5be3-4854-953a-459fe852e204

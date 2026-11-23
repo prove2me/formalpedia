@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_LFunctionPartialSum_partial_identity
 -- name    : Formalism.FX.LFunctionPartialSum.partial_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:52:55.023014+00:00
 -- url     : https://prove2.me/theorems/4e6075eb-b6a9-442f-8d31-94e13724137f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_idealPowerSpanBounds_mem_of_unit_mul_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.mem_of_unit_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:49:21.039013+00:00
 -- url     : https://prove2.me/theorems/2b7ef8b6-5492-4e51-b32e-b6165989059a

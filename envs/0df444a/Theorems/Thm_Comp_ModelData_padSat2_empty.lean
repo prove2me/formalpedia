@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_padSat2_empty
 -- name    : Comp.ModelData.padSat2_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:39:13.679078+00:00
 -- url     : https://prove2.me/theorems/70236a81-44ab-4ba7-8d2d-b83ac4663fb0

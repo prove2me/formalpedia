@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_wt_shift
 -- name    : Formalism.CountingSumsFrames.wt_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:24:51.099949+00:00
 -- url     : https://prove2.me/theorems/a759989e-ceec-43d7-8296-db3c3f9bff6a

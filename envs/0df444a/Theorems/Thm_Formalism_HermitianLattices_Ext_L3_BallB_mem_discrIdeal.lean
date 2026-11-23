@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_mem_discrIdeal
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.mem_discrIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:44:01.367809+00:00
 -- url     : https://prove2.me/theorems/80da408f-7095-4a36-970c-28afeb53857e

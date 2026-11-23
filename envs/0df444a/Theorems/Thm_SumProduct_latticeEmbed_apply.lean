@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_latticeEmbed_apply
 -- name    : SumProduct.latticeEmbed_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:49:05.799798+00:00
 -- url     : https://prove2.me/theorems/4917ae76-c02a-4d7a-8c59-7f8853970274

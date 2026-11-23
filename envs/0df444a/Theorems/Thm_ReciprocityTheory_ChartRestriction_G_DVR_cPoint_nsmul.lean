@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_cPoint_nsmul
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.cPoint_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:38:58.234929+00:00
 -- url     : https://prove2.me/theorems/e09adb34-2296-4d72-b05f-e77c15640d19

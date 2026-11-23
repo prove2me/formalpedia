@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_sum_denseOf
 -- name    : Comp.sum_denseOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:48:07.045919+00:00
 -- url     : https://prove2.me/theorems/d83df415-0846-4253-9409-9cb482665fc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_zero_mem_fockLattice
 -- name    : Formalism.CountingSumsFrames.zero_mem_fockLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:30.125494+00:00
 -- url     : https://prove2.me/theorems/7a706b48-d781-4376-acd2-0f0de4ebfd4f

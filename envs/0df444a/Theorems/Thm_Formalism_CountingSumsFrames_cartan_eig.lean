@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_cartan_eig
 -- name    : Formalism.CountingSumsFrames.cartan_eig
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:37:51.341927+00:00
 -- url     : https://prove2.me/theorems/e4ffb274-3f77-4b1e-81b6-7b07132498c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KashUpgrade_observation_1
 -- name    : KashUpgrade.observation_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:24:14.994767+00:00
 -- url     : https://prove2.me/theorems/18ecab48-3980-4742-830c-3b5c60a61f9a

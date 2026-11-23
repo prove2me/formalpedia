@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataTrackComp_Surplus_gamma_eq_J1_div_J2
 -- name    : DataTrackComp.Surplus.gamma_eq_J1_div_J2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:46.741881+00:00
 -- url     : https://prove2.me/theorems/4a766f20-b78a-487b-816e-faebc1e5f4c4

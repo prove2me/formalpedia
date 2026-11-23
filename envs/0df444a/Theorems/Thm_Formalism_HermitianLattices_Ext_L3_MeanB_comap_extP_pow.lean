@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanB_comap_extP_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanB.comap_extP_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:47:36.503891+00:00
 -- url     : https://prove2.me/theorems/248ea2d3-b1c7-4b74-ab83-3d025a5d1622

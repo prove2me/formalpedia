@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_sBox_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.sBox_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:49:13.755798+00:00
 -- url     : https://prove2.me/theorems/e27f5dc8-837c-498c-aa4c-9168a60d160e

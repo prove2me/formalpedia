@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_nrComplexPlaces_eq_fDeg
 -- name    : Formalism.HermitianLattices.Ext.L3.nrComplexPlaces_eq_fDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:49:39.280575+00:00
 -- url     : https://prove2.me/theorems/65df8d34-5527-4f7a-ac0b-2d015e79cf80

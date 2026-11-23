@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_coeff_cartan
 -- name    : Formalism.CountingSumsFrames.coeff_cartan
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:23:47.952847+00:00
 -- url     : https://prove2.me/theorems/21f63d0b-8f67-4634-a8e4-5b304598aee3

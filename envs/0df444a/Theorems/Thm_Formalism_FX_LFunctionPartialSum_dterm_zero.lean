@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FX_LFunctionPartialSum_dterm_zero
 -- name    : Formalism.FX.LFunctionPartialSum.dterm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:53:32.468891+00:00
 -- url     : https://prove2.me/theorems/66192e1e-d713-4d32-b07d-7a778004dfdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_binomSeries_gen
 -- name    : Formalism.CountingSumsFrames.binomSeries_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:04:31.989999+00:00
 -- url     : https://prove2.me/theorems/661bab6a-f79f-4fb6-9c74-f2bb04ed831b

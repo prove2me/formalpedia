@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_GluingInclusion_eq_of_localization_eq
 -- name    : Formalism.DivisionValues.GluingInclusion.eq_of_localization_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:36:00.489803+00:00
 -- url     : https://prove2.me/theorems/b706dfec-da80-4418-88e0-7db04093aef2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_DiscountedCsgQ_eq_vOpt_of_fixed
 -- name    : Comp.DiscountedCsgQ.eq_vOpt_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:34:45.777698+00:00
 -- url     : https://prove2.me/theorems/260116c6-4f46-4ab0-9638-c176474000bd

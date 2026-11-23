@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_DiscountedCsgQ_dist_cast_le
 -- name    : Comp.DiscountedCsgQ.dist_cast_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:34:46.018701+00:00
 -- url     : https://prove2.me/theorems/e923b405-b378-4ae3-a3bf-166414ff0be6

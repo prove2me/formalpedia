@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_DiscountedCsgQ_dist_vOpt_le_of_step
 -- name    : Comp.DiscountedCsgQ.dist_vOpt_le_of_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:34:56.16743+00:00
 -- url     : https://prove2.me/theorems/9557df1b-4baf-4549-a004-40dd8fa8cf37

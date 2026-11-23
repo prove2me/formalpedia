@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_OperatorNormFrames_quot_rep
 -- name    : Formalism.DivisionValues.OperatorNormFrames.quot_rep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:17:18.336011+00:00
 -- url     : https://prove2.me/theorems/ee49ba54-5cd7-48e6-8842-d5ebcbdf9202

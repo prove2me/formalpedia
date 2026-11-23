@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_lcomp_int
 -- name    : Formalism.CountingSumsFrames.lcomp_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:24:16.7736+00:00
 -- url     : https://prove2.me/theorems/73e6f18f-b5fb-4121-9daf-76fccc7fdf08

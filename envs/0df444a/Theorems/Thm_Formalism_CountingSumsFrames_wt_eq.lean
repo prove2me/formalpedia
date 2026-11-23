@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_wt_eq
 -- name    : Formalism.CountingSumsFrames.wt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:23.298512+00:00
 -- url     : https://prove2.me/theorems/deead817-4781-41dd-963a-cb9413a1916b

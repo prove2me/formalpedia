@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_idealPowerSpanBounds_map_ne_bot_of_isMaximal
 -- name    : Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.map_ne_bot_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:21.267001+00:00
 -- url     : https://prove2.me/theorems/d836fdb6-a186-4ee9-8f30-c0d37c51dd28

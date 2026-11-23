@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfaffianRecognition_Recognition_pfaffian_recognition_in_corp
 -- name    : PfaffianRecognition.Recognition.pfaffian_recognition_in_corp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T04:41:22.967067+00:00
 -- url     : https://prove2.me/theorems/3a1ecf24-16b2-4c5b-8ea4-8befe3a33cde

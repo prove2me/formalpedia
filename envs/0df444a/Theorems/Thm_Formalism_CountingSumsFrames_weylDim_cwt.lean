@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_weylDim_cwt
 -- name    : Formalism.CountingSumsFrames.weylDim_cwt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:47:37.580283+00:00
 -- url     : https://prove2.me/theorems/f8e64069-dc0f-4f16-bba2-5f4f40d6c132

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_eig_supp
 -- name    : Formalism.CountingSumsFrames.eig_supp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:24:18.168704+00:00
 -- url     : https://prove2.me/theorems/b174057f-5e37-4e6f-9cf1-884232509f28

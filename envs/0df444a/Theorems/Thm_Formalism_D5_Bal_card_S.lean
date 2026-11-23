@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_Bal_card_S
 -- name    : Formalism.D5.Bal.card_S
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:47:53.733808+00:00
 -- url     : https://prove2.me/theorems/b10ff1ab-ba6a-40c1-89a8-4d8226334349

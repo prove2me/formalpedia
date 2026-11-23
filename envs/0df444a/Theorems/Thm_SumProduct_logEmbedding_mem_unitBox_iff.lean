@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_logEmbedding_mem_unitBox_iff
 -- name    : SumProduct.logEmbedding_mem_unitBox_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:47:20.794146+00:00
 -- url     : https://prove2.me/theorems/4e33ad5f-0d82-4068-999f-34d4fe8dc2d3

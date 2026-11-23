@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindZeta_PoissonSummation_mem_dualLattice
 -- name    : DedekindZeta.PoissonSummation.mem_dualLattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:48:50.887039+00:00
 -- url     : https://prove2.me/theorems/181f0c3f-62f2-4766-974b-13ea38c97b02

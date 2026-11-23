@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_LF_eq_of_answers
 -- name    : Comp.CsgQ.LF_eq_of_answers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:36:23.601127+00:00
 -- url     : https://prove2.me/theorems/0a68a8f9-b0d8-48d6-b95b-e8e2cee26209

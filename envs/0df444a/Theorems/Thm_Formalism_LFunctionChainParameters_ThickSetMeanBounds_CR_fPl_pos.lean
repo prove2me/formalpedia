@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_CR_fPl_pos
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.CR.fPl_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:56:38.26831+00:00
 -- url     : https://prove2.me/theorems/4c11a96d-acfc-43d7-85fc-8b5224a20917

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_idealPowerSpanBounds_mem_pow_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.mem_pow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:28.674175+00:00
 -- url     : https://prove2.me/theorems/e53f4e0c-3adf-4a9d-af3f-cbdb2e4c850d

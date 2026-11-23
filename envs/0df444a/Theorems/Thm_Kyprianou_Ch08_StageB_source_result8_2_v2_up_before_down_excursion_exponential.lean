@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_2_v2_up_before_down_excursion_exponential
 -- name    : Kyprianou.Ch08.StageB.source_result8_2_v2_up_before_down_excursion_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T17:43:40.054645+00:00
 -- url     : https://prove2.me/theorems/efd9aabc-cb4e-4443-a2e5-0c09c61782a3

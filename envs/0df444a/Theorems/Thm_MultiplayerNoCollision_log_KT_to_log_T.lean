@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiplayerNoCollision_log_KT_to_log_T
 -- name    : MultiplayerNoCollision.log_KT_to_log_T
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:24:36.62699+00:00
 -- url     : https://prove2.me/theorems/bb2c29b4-1bbd-40c9-871f-2b34c5a335f0

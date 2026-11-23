@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_stage_true_A
 -- name    : Comp.stage_true_A
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:35:47.131271+00:00
 -- url     : https://prove2.me/theorems/2ff981eb-53f5-4ac8-af25-c83b416b0b3e

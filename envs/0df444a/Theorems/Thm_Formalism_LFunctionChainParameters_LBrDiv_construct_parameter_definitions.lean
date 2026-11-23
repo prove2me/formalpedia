@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_construct_parameter_definitions
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.construct_parameter_definitions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:50:09.677886+00:00
 -- url     : https://prove2.me/theorems/aa28c215-e060-4c34-adc5-7c02cf4a597a

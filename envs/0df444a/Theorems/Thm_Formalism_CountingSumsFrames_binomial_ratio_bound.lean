@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_binomial_ratio_bound
 -- name    : Formalism.CountingSumsFrames.binomial_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:37:52.018812+00:00
 -- url     : https://prove2.me/theorems/b79912ec-9253-4065-ac9c-25d5252f4944

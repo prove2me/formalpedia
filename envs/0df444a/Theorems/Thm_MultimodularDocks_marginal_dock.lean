@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultimodularDocks_marginal_dock
 -- name    : MultimodularDocks.marginal_dock
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:35:28.261285+00:00
 -- url     : https://prove2.me/theorems/1e2b0567-c601-4053-819b-0e1a45e4cd64

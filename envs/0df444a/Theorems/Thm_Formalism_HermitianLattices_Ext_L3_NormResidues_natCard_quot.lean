@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormResidues_natCard_quot
 -- name    : Formalism.HermitianLattices.Ext.L3.NormResidues.natCard_quot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:54.639104+00:00
 -- url     : https://prove2.me/theorems/bf521124-9718-4293-8df8-fedb336c2779

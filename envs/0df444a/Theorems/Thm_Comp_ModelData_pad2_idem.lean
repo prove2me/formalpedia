@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_pad2_idem
 -- name    : Comp.ModelData.pad2_idem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:44:47.886705+00:00
 -- url     : https://prove2.me/theorems/30088ef2-3266-4ff7-a8b1-b0f847a20a3c

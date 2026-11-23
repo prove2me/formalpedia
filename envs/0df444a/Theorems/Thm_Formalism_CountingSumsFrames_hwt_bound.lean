@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_hwt_bound
 -- name    : Formalism.CountingSumsFrames.hwt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:45:45.724736+00:00
 -- url     : https://prove2.me/theorems/9be27f9a-6c23-4f61-88dc-afc9d15ed579

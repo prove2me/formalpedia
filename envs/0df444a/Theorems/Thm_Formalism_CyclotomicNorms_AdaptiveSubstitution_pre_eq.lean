@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_AdaptiveSubstitution_pre_eq
 -- name    : Formalism.CyclotomicNorms.AdaptiveSubstitution.pre_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:48.324691+00:00
 -- url     : https://prove2.me/theorems/c72dc805-2e7d-4868-94ee-130c2e525594

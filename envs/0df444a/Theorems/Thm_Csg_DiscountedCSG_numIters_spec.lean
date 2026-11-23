@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_DiscountedCSG_numIters_spec
 -- name    : Csg.DiscountedCSG.numIters_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:32:41.820336+00:00
 -- url     : https://prove2.me/theorems/5e598f1b-8a2e-417e-91dc-87e58f6530ad

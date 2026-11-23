@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_comm_preserves_weight_le
 -- name    : Formalism.CountingSumsFrames.comm_preserves_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:41:27.672805+00:00
 -- url     : https://prove2.me/theorems/ead06e6f-e1dd-4c26-9d8e-97c7284575a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_G_le_coe_iter
 -- name    : Comp.CsgQ.G_le_coe_iter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:06:51.232285+00:00
 -- url     : https://prove2.me/theorems/24f71429-bacd-4115-a175-fad42efa7cd8

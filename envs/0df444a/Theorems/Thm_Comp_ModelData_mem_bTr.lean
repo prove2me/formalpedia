@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_ModelData_mem_bTr
 -- name    : Comp.ModelData.mem_bTr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:39:22.570907+00:00
 -- url     : https://prove2.me/theorems/9c6f3858-ffb9-47c9-a43b-a8bfac745bec

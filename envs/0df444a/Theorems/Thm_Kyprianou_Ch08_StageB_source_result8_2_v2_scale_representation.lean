@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_2_v2_scale_representation
 -- name    : Kyprianou.Ch08.StageB.source_result8_2_v2_scale_representation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T16:43:18.416943+00:00
 -- url     : https://prove2.me/theorems/a2c584da-360d-4567-ae4c-ac67a244841f

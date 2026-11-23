@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_y_le_thrUpTo
 -- name    : Formalism.CountingSumsFrames.y_le_thrUpTo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:48:32.362446+00:00
 -- url     : https://prove2.me/theorems/17bbc0ed-b089-44e4-afd5-60b7c050c0e6

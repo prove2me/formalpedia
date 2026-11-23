@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_segment_ratio_le
 -- name    : Formalism.CountingSumsFrames.segment_ratio_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:47:23.172331+00:00
 -- url     : https://prove2.me/theorems/9f1c212f-459e-4b00-940e-a475597f14f9

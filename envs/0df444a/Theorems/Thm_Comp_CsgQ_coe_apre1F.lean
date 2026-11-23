@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_coe_apre1F
 -- name    : Comp.CsgQ.coe_apre1F
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:07:48.679361+00:00
 -- url     : https://prove2.me/theorems/9f84ad88-40a5-4aca-8370-986532623296

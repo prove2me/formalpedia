@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfaffianRecognition_CoRP_pfAlg_sound
 -- name    : PfaffianRecognition.CoRP.pfAlg_sound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-22T21:25:16.773053+00:00
 -- url     : https://prove2.me/theorems/5108d0c9-5e5b-4238-a23f-d0c13cea2199

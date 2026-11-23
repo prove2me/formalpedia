@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_2_v2_bridge_slice_lower
 -- name    : Kyprianou.Ch08.StageB.source_result8_2_v2_bridge_slice_lower
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T18:22:06.676584+00:00
 -- url     : https://prove2.me/theorems/795c944f-7070-4a09-b77f-8e35067898de

@@ -1,0 +1,42 @@
+-- Prove2me | Definitions.Def_stageB_Bars
+-- name    : stageB_Bars
+-- status  : Definition
+-- author  : @WillR
+-- created : 2026-11-22T23:55:22.257703+00:00
+-- url     : https://prove2.me/theorems/41699e33-5d42-4af3-8ece-a89aba6a2c08
+-- title:
+--   stageB_Bars
+-- statement:
+--   Automatically extracted helper definition stageB_Bars from oversized parent candidate 5d99a53f41a00b552d4a1668999c9dd8659800e27e8b382ac3e4e1ed0fa1c2dd.
+-- source:
+--   candidate-decomposition:47fdba96-7849-46b6-87b0-6cea26c5eadd:5d99a53f41a00b552d4a1668999c9dd8659800e27e8b382ac3e4e1ed0fa1c2dd
+
+import Mathlib
+import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
+import Definitions.Def_AvramDividend_Classical_ReflectionBarrier
+import Definitions.Def_AvramDividend_Classical_TwoSidedExit
+import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_filtered_avram_model
+import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_positive_open_clock_eq_all_times
+import Theorems.Thm_AvramDividend_Classical_avram_wave3_01_uncapped_reflected_killed_future_reward_factor
+import Theorems.Thm_AvramDividend_Classical_avram_wave3_01_fresh_reflected_reward_measurable
+import Theorems.Thm_AvramDividend_Classical_avram_wave3_01_origin_sampled_reflected_reward_eq_true
+import Theorems.Thm_AvramDividend_Classical_avram_wave3_01_shifted_sampled_reward_true_pair
+import Theorems.Thm_AvramDividend_Classical_avram_wave3_01_two_record_discount_pathwise
+import Theorems.Thm_AvramDividend_Classical_levyPath_bddAbove_Icc
+import Theorems.Thm_AvramDividend_Classical_shiftedSup_increment_eq_sup_sub
+import Theorems.Thm_AvramDividend_Classical_runningSup_eq_rawSup_nonneg
+import Theorems.Thm_AvramDividend_Classical_firstUpcrossing_runningSup_sub_path_eq_zero
+import Theorems.Thm_AvramDividend_Classical_firstUpcrossing_before_barrierRuin_iff_prefix_survival
+import Theorems.Thm_AvramDividend_Classical_firstUpcrossing_strictly_before_drawdown_ruin
+import Theorems.Thm_AvramDividend_Classical_reflectedSup_upperSemicontinuousOn_Icc
+import Theorems.Thm_AvramDividend_Classical_barrierRuinTime_mono_barrier
+import Theorems.Thm_AvramDividend_Classical_barrierRuinTime_measurable
+import Theorems.Thm_AvramDividend_Classical_upperPassage_measurable_from_stopping
+set_option autoImplicit false
+open MeasureTheory ProbabilityTheory Set Filter Topology Kyprianou.Ch08 Kyprianou.Ch08.StageB
+open AvramDividend.Classical
+open scoped NNReal ENNReal
+
+abbrev stageB_Bars (h : ℝ) := {r : ℚ // 0 < (r : ℝ) ∧ (r : ℝ) < h}
+
+
