@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_LhsSum_wt_nonneg
 -- name    : GlobalTheory.LipschitzTR.LhsSum.wt_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:32.716628+00:00
 -- url     : https://prove2.me/theorems/162245c2-ec00-48ba-a229-51203b5e2f1b

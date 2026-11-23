@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLat_one_le_norm_emb
 -- name    : GlobalTheory.HeckeLat.one_le_norm_emb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:07:08.757965+00:00
 -- url     : https://prove2.me/theorems/1d09171d-b1a7-4746-ad9a-63f776555abd

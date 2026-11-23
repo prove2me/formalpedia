@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_jetAug_toJet
 -- name    : GlobalTheory.JetSer.jetAug_toJet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:21.963955+00:00
 -- url     : https://prove2.me/theorems/f7fa8e0a-68ef-4d22-8a4e-1f5d3708351d

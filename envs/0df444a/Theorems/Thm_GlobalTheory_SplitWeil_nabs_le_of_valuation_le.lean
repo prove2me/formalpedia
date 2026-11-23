@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_nabs_le_of_valuation_le
 -- name    : GlobalTheory.SplitWeil.nabs_le_of_valuation_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:08.088349+00:00
 -- url     : https://prove2.me/theorems/20a6d29b-c0ab-418e-9099-a7ba46617dc0

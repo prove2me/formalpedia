@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_top_le_preimage_comp
 -- name    : GlobalTheory.JetSer.top_le_preimage_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:13.949934+00:00
 -- url     : https://prove2.me/theorems/a14f2260-dea4-4853-82b1-65c468add67a

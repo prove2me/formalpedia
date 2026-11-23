@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_splits_of_mem
 -- name    : GlobalTheory.CMVal.Model.splits_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:59:41.400409+00:00
 -- url     : https://prove2.me/theorems/1b4b90cf-3dfb-453a-96a2-48d8ba8af825

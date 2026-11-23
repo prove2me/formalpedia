@@ -95153,7 +95153,7 @@
 {"parent": "AvramDividend.Classical.avram_gaussianB_original_triplet_positive_event_refutes_zero_noise_stopped_cash_budget", "child": "AvramDividend.Classical.avram_gaussianB_original_triplet_positive_measurable_long_mesh_event", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gaussianB_original_triplet_positive_event_refutes_zero_noise_stopped_cash_budget", "child": "AvramDividend.Classical.avram_gbB180_original_gaussian_positive_event_ae_fixedband_cash_budget_refuted", "via": ["solution", "statement"]}
 {"parent": "SourceProof_18a36b239cd6db9b2d40a2d3", "child": "LevyStochCalc_Probability_Progressive_F000", "via": ["statement"]}
-{"parent": "DiestelGraphTheory.jordan_curve_polygon", "child": "DiestelGraphTheory_PolygonalArc", "via": ["statement"]}
+{"parent": "DiestelGraphTheory.jordan_curve_polygon", "child": "DiestelGraphTheory_PolygonalArc", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D8_0188", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D8_0188", "child": "RealPinwheel_FiveSixths_CodeFunctionD8", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_100", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_toJet_eq_mk_iff
 -- name    : GlobalTheory.JetSer.toJet_eq_mk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:53:01.908799+00:00
 -- url     : https://prove2.me/theorems/ce53e048-ef80-4107-be7e-24ae9c977d92

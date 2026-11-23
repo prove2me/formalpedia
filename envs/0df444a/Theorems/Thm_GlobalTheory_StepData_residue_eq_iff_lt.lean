@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_residue_eq_iff_lt
 -- name    : GlobalTheory.StepData.residue_eq_iff_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:57:38.394597+00:00
 -- url     : https://prove2.me/theorems/a468be46-9df7-4247-bdd8-8e4dca0c0367

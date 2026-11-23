@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoExp_toQ_surjective
 -- name    : GlobalTheory.HeckeTwoExp.toQ_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:06:54.715154+00:00
 -- url     : https://prove2.me/theorems/1a67814f-87f0-46cd-8110-8b007e5942ba

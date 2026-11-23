@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatonicJEPA_next_token_prediction_margin_limit
 -- name    : PlatonicJEPA.next_token_prediction_margin_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T12:27:52.62368+00:00
 -- url     : https://prove2.me/theorems/cf86b17c-4665-4a4f-a1a8-61360eaf1c60

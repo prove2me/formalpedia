@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FrameChange_ev_pt_self
 -- name    : GlobalTheory.JetSer.FrameChange.ev_pt_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:52.420118+00:00
 -- url     : https://prove2.me/theorems/c10222bb-6d12-4eb4-925f-c1515428d0ad

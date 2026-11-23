@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mem_height_map_le_one
 -- name    : GlobalTheory.exists_mem_height_map_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:24:09.080136+00:00
 -- url     : https://prove2.me/theorems/b45b79a3-03a1-4b30-bde8-5aa890574109

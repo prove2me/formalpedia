@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_monoIdx_wt
 -- name    : ReciprocityTheory.PGsh.monoIdx_wt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:42.207808+00:00
 -- url     : https://prove2.me/theorems/73ead648-0c5e-459a-b217-2184cf6eae41

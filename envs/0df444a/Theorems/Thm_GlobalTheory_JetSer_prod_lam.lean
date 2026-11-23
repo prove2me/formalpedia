@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_prod_lam
 -- name    : GlobalTheory.JetSer.prod_lam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:46.321338+00:00
 -- url     : https://prove2.me/theorems/42d2b439-7b78-4090-a72b-11d153ffaf3b

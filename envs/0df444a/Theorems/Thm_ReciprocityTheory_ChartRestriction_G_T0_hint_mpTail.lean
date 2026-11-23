@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_hint_mpTail
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.hint_mpTail
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:51:51.615938+00:00
 -- url     : https://prove2.me/theorems/da7f8f08-91ff-49c2-a705-2100defda97e

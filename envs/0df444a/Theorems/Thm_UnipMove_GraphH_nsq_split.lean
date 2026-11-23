@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_nsq_split
 -- name    : UnipMove.GraphH.nsq_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:23.261713+00:00
 -- url     : https://prove2.me/theorems/95ad3939-a058-4d86-b5f2-e6e2bb026b7a

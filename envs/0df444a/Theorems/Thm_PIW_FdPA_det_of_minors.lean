@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_det_of_minors
 -- name    : PIW.FdPA.det_of_minors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:18:46.513418+00:00
 -- url     : https://prove2.me/theorems/89227f7c-0f14-499f-9b2f-e283bd958e63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiestelGraphTheory_jordan_curve_polygon
 -- name    : DiestelGraphTheory.jordan_curve_polygon
--- status  : Open
+-- status  : Proved
 -- author  : @tiago duque marques
 -- created : 2026-11-18T11:35:24.202666+00:00
 -- url     : https://prove2.me/theorems/a38fd4f2-f275-4dbe-abb2-c7b0458f9216

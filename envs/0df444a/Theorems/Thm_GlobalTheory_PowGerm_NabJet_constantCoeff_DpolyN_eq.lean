@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_NabJet_constantCoeff_DpolyN_eq
 -- name    : GlobalTheory.PowGerm.NabJet.constantCoeff_DpolyN_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:34.298135+00:00
 -- url     : https://prove2.me/theorems/833bc4dc-626d-4581-a6f7-2b725af3465c

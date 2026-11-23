@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowerOps_inK_mem_eigK
 -- name    : GlobalTheory.LowerOps.inK_mem_eigK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:23.605476+00:00
 -- url     : https://prove2.me/theorems/53c644cc-2add-438e-b59e-4ff41755c85d

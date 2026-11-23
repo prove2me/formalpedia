@@ -46768,8 +46768,8 @@
 {"parent": "RH1E6S14.part_072_3", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S14.part_072_3", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S14.part_072_3", "child": "ArdaRS_Band", "via": ["statement"]}
-{"parent": "GlobalTheory.SplitWeil.exists_isUnitVol", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MatrixMeasurableSpace", "via": ["statement"]}
-{"parent": "GlobalTheory.SplitWeil.exists_isUnitVol", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["statement"]}
+{"parent": "GlobalTheory.SplitWeil.exists_isUnitVol", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MatrixMeasurableSpace", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SplitWeil.exists_isUnitVol", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["solution", "statement"]}
 {"parent": "RH1E6S14_D075_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "ReciprocityTheory.MultiplicativeHeights.mem_unitBallRing", "child": "ReciprocityTheory_SemistableReduction_ExistsTorusPointOneLeNormSum", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.MultiplicativeHeights.mem_unitBallRing", "child": "ReciprocityTheory_SemistableReduction_ComapInclusionIsLocalHom", "via": ["solution", "statement"]}
@@ -48778,8 +48778,8 @@
 {"parent": "GlobalTheory.Doubling.val_aOf", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Doubling.val_aOf", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_IsIwasawaOfIsCompact", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Doubling.val_aOf", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MemSiegelOfIffRightAct", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.SplitWeil.nabs_uniformiser", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MatrixMeasurableSpace", "via": ["statement"]}
-{"parent": "GlobalTheory.SplitWeil.nabs_uniformiser", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["statement"]}
+{"parent": "GlobalTheory.SplitWeil.nabs_uniformiser", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MatrixMeasurableSpace", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SplitWeil.nabs_uniformiser", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.biHom_one", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_DegLESum", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.biHom_one", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_BiHomSum", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.biHom_one", "child": "Formalism_GaussJetBounds_GaussJetProofs_ConstantCoeffAevalLinP", "via": ["solution", "statement"]}
@@ -54196,9 +54196,9 @@
 {"parent": "GlobalTheory.AbLaw.MulN.surjective_of_geomFibres", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_ConstPullback", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Lyndon.nil_le", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_RadfordShufflePolynomialHolds", "via": ["solution", "statement"]}
 {"parent": "UpperTheory.Reformulated.B.CardinalityOfBand.card_band", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_CardinalityOfBand", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.SplitWeil.nabs_le_of_valuation_le", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["statement"]}
-{"parent": "GlobalTheory.SplitWeil.nabs_le_of_valuation_le", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSum", "via": ["statement"]}
-{"parent": "GlobalTheory.SplitWeil.nabs_le_of_valuation_le", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_NormalizedAbsCharacterization", "via": ["statement"]}
+{"parent": "GlobalTheory.SplitWeil.nabs_le_of_valuation_le", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SplitWeil.nabs_le_of_valuation_le", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSum", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SplitWeil.nabs_le_of_valuation_le", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_NormalizedAbsCharacterization", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx2.pP_0", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LevelNablaStarRelations", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx2.pP_0", "child": "Formalism_HermitianCurvature_StatementM", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.WittE.lin_smul", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoDY_norm_igE
 -- name    : GlobalTheory.HeckeTwoDY.norm_igE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:05:12.588905+00:00
 -- url     : https://prove2.me/theorems/fd41ddd8-b7fd-48b7-86eb-b21d3b5f37c1

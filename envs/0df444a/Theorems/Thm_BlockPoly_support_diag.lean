@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockPoly_support_diag
 -- name    : BlockPoly.support_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:34:13.325015+00:00
 -- url     : https://prove2.me/theorems/9a495c1d-881b-4acc-a0f4-577ac77691b5

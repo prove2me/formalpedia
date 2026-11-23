@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_MinorOrderedEntries_hw_of_half
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.MinorOrderedEntries.hw_of_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:07:19.962958+00:00
 -- url     : https://prove2.me/theorems/5cc49e06-f126-4af1-a58b-8500287105fc

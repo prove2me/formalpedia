@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_signedLength_eq_natCast_iff_of_ge
 -- name    : GlobalTheory.LengthCommensurable.signedLength_eq_natCast_iff_of_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:36.059422+00:00
 -- url     : https://prove2.me/theorems/bc4f513e-e550-4b35-84bb-c38a340aa6ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuationSubring_of_height_le_one
 -- name    : GlobalTheory.exists_valuationSubring_of_height_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:09.184147+00:00
 -- url     : https://prove2.me/theorems/f7ae84aa-2609-490e-a61a-3dd0dfa5fc5f

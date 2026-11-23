@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_continuous_lipschitzOneVariableKernel
 -- name    : GlobalTheory.LipschitzTR.continuous_lipschitzOneVariableKernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:46.643303+00:00
 -- url     : https://prove2.me/theorems/87a3c891-7f7a-4547-a4e8-b9e095aed354

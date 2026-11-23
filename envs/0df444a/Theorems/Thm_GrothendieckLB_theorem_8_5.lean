@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_theorem_8_5
 -- name    : GrothendieckLB.theorem_8_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:51:56.904933+00:00
 -- url     : https://prove2.me/theorems/c4095003-8418-4c70-bfe5-1b8a07a1d965

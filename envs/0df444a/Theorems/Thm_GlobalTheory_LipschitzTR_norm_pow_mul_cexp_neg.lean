@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_norm_pow_mul_cexp_neg
 -- name    : GlobalTheory.LipschitzTR.norm_pow_mul_cexp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:02.749801+00:00
 -- url     : https://prove2.me/theorems/d0053d51-bc03-4c6c-9e0a-809de14a20e8

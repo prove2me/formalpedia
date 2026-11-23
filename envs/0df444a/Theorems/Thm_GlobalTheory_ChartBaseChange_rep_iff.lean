@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartBaseChange_rep_iff
 -- name    : GlobalTheory.ChartBaseChange.rep_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:56:31.357486+00:00
 -- url     : https://prove2.me/theorems/60310985-65b7-4ec8-93a7-f1a91f2fbe65

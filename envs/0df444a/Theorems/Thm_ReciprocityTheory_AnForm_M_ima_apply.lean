@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_ima_apply
 -- name    : ReciprocityTheory.AnForm.M.ima_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:58.421238+00:00
 -- url     : https://prove2.me/theorems/462de6d9-d6de-4d0b-937d-dc6a6047e3bc

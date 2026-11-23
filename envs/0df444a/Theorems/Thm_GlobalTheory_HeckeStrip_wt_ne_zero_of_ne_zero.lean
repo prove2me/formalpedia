@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeStrip_wt_ne_zero_of_ne_zero
 -- name    : GlobalTheory.HeckeStrip.wt_ne_zero_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:07:36.688607+00:00
 -- url     : https://prove2.me/theorems/e40fa112-6474-44b1-8d1b-ec987b892054

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilpotentEval_pow_mul_le
 -- name    : GlobalTheory.NilpotentEval.pow_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:24.682573+00:00
 -- url     : https://prove2.me/theorems/06d26871-a010-4476-ba5b-4bc1f26c253a

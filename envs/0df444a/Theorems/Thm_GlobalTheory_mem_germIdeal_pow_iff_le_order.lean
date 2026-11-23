@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_germIdeal_pow_iff_le_order
 -- name    : GlobalTheory.mem_germIdeal_pow_iff_le_order
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:52:30.143233+00:00
 -- url     : https://prove2.me/theorems/e856603f-37e0-4f34-afe7-3d8c36180147

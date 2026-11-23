@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatonicJEPA_k_pairs_identify_rotation
 -- name    : PlatonicJEPA.k_pairs_identify_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T12:23:02.935044+00:00
 -- url     : https://prove2.me/theorems/489230ad-b8b9-4482-a781-03bb063a6f93

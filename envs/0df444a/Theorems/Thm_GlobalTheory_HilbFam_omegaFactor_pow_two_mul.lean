@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_omegaFactor_pow_two_mul
 -- name    : GlobalTheory.HilbFam.omegaFactor_pow_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:10.32159+00:00
 -- url     : https://prove2.me/theorems/04f54356-4761-4e5a-bc72-a41984797c06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_exists_jetHom
 -- name    : GlobalTheory.JetSer.exists_jetHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:19.657871+00:00
 -- url     : https://prove2.me/theorems/427ab701-f40a-4c8c-8157-75897165668e

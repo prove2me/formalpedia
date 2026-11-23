@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GmPoints_unitOf_mul
 -- name    : GlobalTheory.GmPoints.unitOf_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:03.284838+00:00
 -- url     : https://prove2.me/theorems/59421b97-1f04-4093-be16-87fed2e8538e

@@ -1662,13 +1662,13 @@
 {"parent": "SysBathGibbs.corollary_9_2", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
 {"parent": "SysBathGibbs.corollary_9_2", "child": "SysBathGibbs_Algorithm", "via": ["statement"]}
 {"parent": "StableCount.theorem_1", "child": "StableCount_Count", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_disagreePart", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_Pfun", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_p3NormSq", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_IsSignFn", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_agreePart", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_p1Norm", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_5", "child": "ABPOnline_cG", "via": ["statement"]}
+{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_disagreePart", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_Pfun", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_p3NormSq", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_IsSignFn", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_agreePart", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_5", "child": "GrothendieckLB_p1Norm", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_5", "child": "ABPOnline_cG", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.second_child_masked", "child": "OAI.FirstPassCubeLabels.mask_mul", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.second_child_masked", "child": "OAI.FirstPassCubeLabels.mask_union", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.second_child_masked", "child": "OAI.PoissonChildCRT.mask_mul", "via": ["solution", "statement"]}
@@ -12050,12 +12050,12 @@
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound34_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound34_e", "child": "OAIQ106E140", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound34_e", "child": "OAIQ106E149", "via": ["solution", "statement"]}
-{"parent": "GrothendieckLB.theorem_8_4", "child": "GrothendieckLB_disagreePart", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_4", "child": "GrothendieckLB_p3NormSq", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_4", "child": "GrothendieckLB_IsSignFn", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_4", "child": "GrothendieckLB_agreePart", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_4", "child": "GrothendieckLB_p1Norm", "via": ["statement"]}
-{"parent": "GrothendieckLB.theorem_8_4", "child": "ABPOnline_cG", "via": ["statement"]}
+{"parent": "GrothendieckLB.theorem_8_4", "child": "GrothendieckLB_disagreePart", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_4", "child": "GrothendieckLB_p3NormSq", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_4", "child": "GrothendieckLB_IsSignFn", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_4", "child": "GrothendieckLB_agreePart", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_4", "child": "GrothendieckLB_p1Norm", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.theorem_8_4", "child": "ABPOnline_cG", "via": ["solution", "statement"]}
 {"parent": "MinSumClust_coinAvg", "child": "MinSumClust_Inst", "via": ["statement"]}
 {"parent": "MinSumClust_coinAvg", "child": "MinSumClust_encInst", "via": ["statement"]}
 {"parent": "VDCyclePack_encWList", "child": "VDCyclePack_encWNat", "via": ["statement"]}

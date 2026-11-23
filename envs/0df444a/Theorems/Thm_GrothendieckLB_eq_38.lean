@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_eq_38
 -- name    : GrothendieckLB.eq_38
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:51:56.663585+00:00
 -- url     : https://prove2.me/theorems/4abe1684-354e-462c-8f73-18975d0092bb

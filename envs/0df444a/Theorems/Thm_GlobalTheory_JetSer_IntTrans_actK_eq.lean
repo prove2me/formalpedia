@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IntTrans_actK_eq
 -- name    : GlobalTheory.JetSer.IntTrans.actK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:42.370369+00:00
 -- url     : https://prove2.me/theorems/60e2388a-e568-44e8-9da0-33153d83708c

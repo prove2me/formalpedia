@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoSum_homFac_ne_zero
 -- name    : GlobalTheory.WeightTwoSum.homFac_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:06:34.812813+00:00
 -- url     : https://prove2.me/theorems/5923bd43-c2a9-4799-9035-7c071e2479d6

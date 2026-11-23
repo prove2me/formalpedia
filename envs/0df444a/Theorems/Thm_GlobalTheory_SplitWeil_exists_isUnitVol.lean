@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_exists_isUnitVol
 -- name    : GlobalTheory.SplitWeil.exists_isUnitVol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:48:57.134454+00:00
 -- url     : https://prove2.me/theorems/d53f85f2-01d7-43a1-adad-2f4bf06aa728

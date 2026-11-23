@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixAction_act_add
 -- name    : GlobalTheory.MatrixAction.act_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:06.762099+00:00
 -- url     : https://prove2.me/theorems/52dec8d1-41a9-4ceb-b284-432646ff503d

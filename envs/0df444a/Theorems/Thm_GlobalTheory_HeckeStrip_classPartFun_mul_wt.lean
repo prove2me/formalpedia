@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeStrip_classPartFun_mul_wt
 -- name    : GlobalTheory.HeckeStrip.classPartFun_mul_wt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:14.29313+00:00
 -- url     : https://prove2.me/theorems/f834388b-06fb-423b-8365-cc72a50a6a7f

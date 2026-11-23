@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CoveringAbelianLocusSmooth_goodPrime_iff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CoveringAbelianLocusSmooth.goodPrime_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:07:11.482615+00:00
 -- url     : https://prove2.me/theorems/b1d45a7e-e765-4069-b0f1-d8bbafba08fe

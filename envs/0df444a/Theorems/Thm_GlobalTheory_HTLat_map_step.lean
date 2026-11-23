@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_map_step
 -- name    : GlobalTheory.HTLat.map_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:21.498579+00:00
 -- url     : https://prove2.me/theorems/41aedda7-b6de-4c11-b23e-9025f7db284e

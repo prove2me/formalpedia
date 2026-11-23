@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTate_NineTermExact_mem_range_localization_H1_iff
 -- name    : GlobalTheory.Published.PoitouTate.NineTermExact.mem_range_localization_H1_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:42:41.883022+00:00
 -- url     : https://prove2.me/theorems/1ac60357-8b06-4965-a46a-fadc5ddc039f

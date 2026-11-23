@@ -72047,10 +72047,10 @@
 {"parent": "CutwidthCircuitLB.appendix_A_cubic_cutwidth", "child": "CutwidthCircuitLB_CutwidthLE", "via": ["statement"]}
 {"parent": "CutwidthCircuitLB.appendix_A_cubic_cutwidth", "child": "CutwidthCircuitLB_kappaE", "via": ["statement"]}
 {"parent": "CutwidthCircuitLB.appendix_A_cubic_cutwidth", "child": "CutwidthCircuitLB_cutSize", "via": ["statement"]}
-{"parent": "GrothendieckLB.eq_38", "child": "GrothendieckLB_gaussExp", "via": ["statement"]}
-{"parent": "GrothendieckLB.eq_38", "child": "GrothendieckLB_V", "via": ["statement"]}
-{"parent": "GrothendieckLB.eq_38", "child": "GrothendieckLB_p3NormSq", "via": ["statement"]}
-{"parent": "GrothendieckLB.eq_38", "child": "GrothendieckLB_IsTernaryFn", "via": ["statement"]}
+{"parent": "GrothendieckLB.eq_38", "child": "GrothendieckLB_gaussExp", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.eq_38", "child": "GrothendieckLB_V", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.eq_38", "child": "GrothendieckLB_p3NormSq", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.eq_38", "child": "GrothendieckLB_IsTernaryFn", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HypergraphProduct.card_activeFirstColumns_le_HammingWeight", "child": "QEC_Coding_HypergraphProduct_Distance_Support", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HypergraphProduct.card_activeFirstColumns_le_HammingWeight", "child": "QEC_Coding_HypergraphProduct_Distance_Restriction", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound1881_e", "child": "OAIQ106E070", "via": ["solution", "statement"]}

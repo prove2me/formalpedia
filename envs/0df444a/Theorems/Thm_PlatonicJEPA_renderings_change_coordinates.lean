@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatonicJEPA_renderings_change_coordinates
 -- name    : PlatonicJEPA.renderings_change_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T12:15:00.416689+00:00
 -- url     : https://prove2.me/theorems/2207c27b-e432-4304-b8c8-a1b3ea51918d

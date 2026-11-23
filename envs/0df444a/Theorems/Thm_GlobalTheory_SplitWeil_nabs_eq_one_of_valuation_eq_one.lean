@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_nabs_eq_one_of_valuation_eq_one
 -- name    : GlobalTheory.SplitWeil.nabs_eq_one_of_valuation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:59.781484+00:00
 -- url     : https://prove2.me/theorems/3e343fb9-1d56-44bb-bb6f-baffb2daf264

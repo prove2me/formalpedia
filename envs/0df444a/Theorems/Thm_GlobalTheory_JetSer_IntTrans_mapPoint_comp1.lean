@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IntTrans_mapPoint_comp1
 -- name    : GlobalTheory.JetSer.IntTrans.mapPoint_comp1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:14.700839+00:00
 -- url     : https://prove2.me/theorems/48b84fd7-cb7e-41de-983d-732aaf18e1b5

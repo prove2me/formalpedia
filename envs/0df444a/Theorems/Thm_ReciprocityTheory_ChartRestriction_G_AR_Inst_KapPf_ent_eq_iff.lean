@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_KapPf_ent_eq_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.KapPf.ent_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:40.4569+00:00
 -- url     : https://prove2.me/theorems/b3c09296-ace4-4c85-80a9-6e1e1919177d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mdisc_eq_sum_perm
 -- name    : ReciprocityTheory.AnForm.A.mdisc_eq_sum_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:57.372348+00:00
 -- url     : https://prove2.me/theorems/218e86db-767b-48cc-9dca-baf11e1e2ab8

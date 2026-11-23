@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algHom_mem_pow_of_le_order
 -- name    : GlobalTheory.algHom_mem_pow_of_le_order
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:52:12.734064+00:00
 -- url     : https://prove2.me/theorems/abd75eae-ad4e-46a4-b5d8-404c70b7ddea

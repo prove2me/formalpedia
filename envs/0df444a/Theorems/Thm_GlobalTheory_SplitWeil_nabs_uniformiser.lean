@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_nabs_uniformiser
 -- name    : GlobalTheory.SplitWeil.nabs_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:55:43.103802+00:00
 -- url     : https://prove2.me/theorems/2ef6afd4-ea5e-4851-8588-a9506cc12015

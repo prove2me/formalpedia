@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_sum_realEmb_eq_trace
 -- name    : GlobalTheory.HilbFam.sum_realEmb_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:04.495276+00:00
 -- url     : https://prove2.me/theorems/e1afcdfe-7c92-4809-ad6a-e1f38188abd8

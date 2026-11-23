@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingRenewalHomogeneousVanish
 -- name    : Kyprianou.Ch01.branchingRenewalHomogeneousVanish
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-23T14:11:59.184798+00:00
 -- url     : https://prove2.me/theorems/33b5a5dc-cee3-487b-a483-59cd6f97a0c2

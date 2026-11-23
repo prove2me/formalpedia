@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_QAllSubring_mul
 -- name    : GlobalTheory.QFam.QAllSubring.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:07:46.426423+00:00
 -- url     : https://prove2.me/theorems/6a82c861-f7d1-4b1d-af0f-847527540cc3

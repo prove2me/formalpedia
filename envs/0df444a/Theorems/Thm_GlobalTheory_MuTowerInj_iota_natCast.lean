@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MuTowerInj_iota_natCast
 -- name    : GlobalTheory.MuTowerInj.iota_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:32.346555+00:00
 -- url     : https://prove2.me/theorems/7d82c68c-531e-40b7-b7ab-5b2772fb4544

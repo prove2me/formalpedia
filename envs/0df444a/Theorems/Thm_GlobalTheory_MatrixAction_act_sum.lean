@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixAction_act_sum
 -- name    : GlobalTheory.MatrixAction.act_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:22.149136+00:00
 -- url     : https://prove2.me/theorems/f13c96a2-62fe-40c1-9e21-f2d7e8bd8dcc
