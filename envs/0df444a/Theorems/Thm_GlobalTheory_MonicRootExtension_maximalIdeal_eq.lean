@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonicRootExtension_maximalIdeal_eq
 -- name    : GlobalTheory.MonicRootExtension.maximalIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:38.411628+00:00
 -- url     : https://prove2.me/theorems/bd10f496-3f65-42a3-b953-411df206bce7

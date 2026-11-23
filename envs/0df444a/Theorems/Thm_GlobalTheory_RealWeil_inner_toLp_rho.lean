@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_inner_toLp_rho
 -- name    : GlobalTheory.RealWeil.inner_toLp_rho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:28.064397+00:00
 -- url     : https://prove2.me/theorems/c5d5f1e9-2d8d-40c7-924e-a67553b3d06a

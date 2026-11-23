@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_inner_proj_right
 -- name    : GlobalTheory.RealWeil.inner_proj_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:44.596818+00:00
 -- url     : https://prove2.me/theorems/e1063d3e-58fa-4f56-8f07-3d49919a3cf5

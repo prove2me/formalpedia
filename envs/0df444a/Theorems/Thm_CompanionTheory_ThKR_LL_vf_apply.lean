@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_vf_apply
 -- name    : CompanionTheory.ThKR.LL.vf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:02.350819+00:00
 -- url     : https://prove2.me/theorems/002ef767-8914-4f8f-9a2b-381c7101e9f2

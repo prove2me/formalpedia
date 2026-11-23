@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_temperate_quad
 -- name    : CompanionTheory.ThKR.LL.temperate_quad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:37.563007+00:00
 -- url     : https://prove2.me/theorems/05c2e5bc-1747-4164-8f57-110a38177543

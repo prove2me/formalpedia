@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_ord_uniformizer
 -- name    : GroundTheory.FunctionField.Place.ord_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:05.391586+00:00
 -- url     : https://prove2.me/theorems/7b0060d2-8e39-4a64-9ec1-6d4a0c3fc2a9

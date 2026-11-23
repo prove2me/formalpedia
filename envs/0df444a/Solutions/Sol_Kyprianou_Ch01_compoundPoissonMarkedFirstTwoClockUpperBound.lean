@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.compoundPoissonMarkedFirstTwoClockUpperBound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T12:42:08.807701+00:00
 -- url     : https://prove2.me/submissions/826367a1-44a5-4928-8542-49ca48c7683d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_BranchingClocks

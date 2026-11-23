@@ -31891,8 +31891,8 @@
 {"parent": "Formalism.HermitianLatticeCounting.P.S4aux.orth_sum", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SuperdiagonalAdditionInvariance", "via": ["solution", "statement"]}
 {"parent": "Paper.Hypergraph.twoTerminalFactor_nonneg", "child": "Paper_RoundingSeparation", "via": ["solution", "statement"]}
 {"parent": "Paper.Hypergraph.twoTerminalFactor_nonneg", "child": "Paper_TwoTerminalRounding", "via": ["solution", "statement"]}
-{"parent": "WeilConjectures.exists_frobenius_cohomology_weight_bound", "child": "WeilConjectures_projectiveSpace", "via": ["statement"]}
-{"parent": "WeilConjectures.exists_frobenius_cohomology_weight_bound", "child": "WeilConjectures_zetaFunction", "via": ["statement"]}
+{"parent": "WeilConjectures.exists_frobenius_cohomology_weight_bound", "child": "WeilConjectures_projectiveSpace", "via": ["solution", "statement"]}
+{"parent": "WeilConjectures.exists_frobenius_cohomology_weight_bound", "child": "WeilConjectures_zetaFunction", "via": ["solution", "statement"]}
 {"parent": "LongGapsBetweenPrimes.product_collision_bound", "child": "LongGapsBetweenPrimes", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.ideleNorm_relativeIdeleNorm", "child": "M4aHerbrand_GenuineDescent", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.ideleNorm_relativeIdeleNorm", "child": "MasulloGRH_IdeleNorm", "via": ["solution", "statement"]}
@@ -72658,8 +72658,8 @@
 {"parent": "Formalism.HermitianLatticesTheory.dualLattice_expand", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_DualLattice", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.SplitPrimeIdeals.comap_isMaximal_invol", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_NotIsPrimeMapOfSplit", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.SplitPrimeIdeals.comap_isMaximal_invol", "child": "Lemmata_GeneralBFactSecondVariant_Imports", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.G.Cmp.tupOf_eq_iff", "child": "Formalism_SharpRestriction_GrowthBounds_DataG", "via": ["statement"]}
-{"parent": "Formalism.L2.G.Cmp.tupOf_eq_iff", "child": "Formalism_LocalToGlobal_GroupLattices_ComparisonMaps_ClsLat", "via": ["statement"]}
+{"parent": "Formalism.L2.G.Cmp.tupOf_eq_iff", "child": "Formalism_SharpRestriction_GrowthBounds_DataG", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.G.Cmp.tupOf_eq_iff", "child": "Formalism_LocalToGlobal_GroupLattices_ComparisonMaps_ClsLat", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.L4.glRest_comm", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_FirstWeightLeOfSupport", "via": ["statement"]}
 {"parent": "Formalism.InvariantFactorPaths.L4.glRest_comm", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_InitPartZeroXMul", "via": ["statement"]}
 {"parent": "RestrictedAP_Counting_LowInfluence", "child": "RestrictedAP_Counting_Distributions", "via": ["statement"]}

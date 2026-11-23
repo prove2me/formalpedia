@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Red_isRed_of_away
 -- name    : GlobalTheory.SecGlue.Red.isRed_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:17:57.891639+00:00
 -- url     : https://prove2.me/theorems/098c3327-8645-4204-a0d8-963981ee64b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_fourierInv_dRho_inl
 -- name    : GlobalTheory.RealWeil.fourierInv_dRho_inl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:09.979798+00:00
 -- url     : https://prove2.me/theorems/da9dac84-0143-4982-a61f-0d517afb513f

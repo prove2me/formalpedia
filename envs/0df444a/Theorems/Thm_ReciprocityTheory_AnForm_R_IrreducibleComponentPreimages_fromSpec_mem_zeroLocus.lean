@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_fromSpec_mem_zeroLocus
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.fromSpec_mem_zeroLocus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:36.000115+00:00
 -- url     : https://prove2.me/theorems/04281b7f-dc21-4bf4-ba51-b8410b54def8

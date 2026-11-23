@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_Hyp_gen
 -- name    : GlobalTheory.SW.HeckeId.Hyp.gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:57.243901+00:00
 -- url     : https://prove2.me/theorems/e5a86143-bc6f-420f-805e-0cbead4fa02b

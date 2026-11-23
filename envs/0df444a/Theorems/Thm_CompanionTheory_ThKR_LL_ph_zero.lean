@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_ph_zero
 -- name    : CompanionTheory.ThKR.LL.ph_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:27:35.393116+00:00
 -- url     : https://prove2.me/theorems/ab3c9889-6e23-4051-8d87-d958610aded5

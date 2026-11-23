@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_isUnit_fou
 -- name    : CompanionTheory.ThKR.LL.isUnit_fou
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:09.988886+00:00
 -- url     : https://prove2.me/theorems/1131c6dc-d9ab-4a5a-88d8-3d07ecd24c70

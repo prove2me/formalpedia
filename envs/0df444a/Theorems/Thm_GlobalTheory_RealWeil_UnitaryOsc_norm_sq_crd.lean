@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_UnitaryOsc_norm_sq_crd
 -- name    : GlobalTheory.RealWeil.UnitaryOsc.norm_sq_crd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:57.896377+00:00
 -- url     : https://prove2.me/theorems/ef9db2d9-911c-4f9f-8b06-e62fff9e0b90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_preimage_eq_of_square_zero_thickening
 -- name    : GlobalTheory.T.preimage_eq_of_square_zero_thickening
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:18:47.129807+00:00
 -- url     : https://prove2.me/theorems/8c819f1d-c518-4295-9755-ccec4bfb0303

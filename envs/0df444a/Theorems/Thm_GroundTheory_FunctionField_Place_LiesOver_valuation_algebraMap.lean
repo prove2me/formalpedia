@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_LiesOver_valuation_algebraMap
 -- name    : GroundTheory.FunctionField.Place.LiesOver.valuation_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:36.145788+00:00
 -- url     : https://prove2.me/theorems/9fae356b-6802-4ff8-a7b3-914d732294da

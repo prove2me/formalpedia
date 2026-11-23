@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_isLift_rosati
 -- name    : GlobalTheory.FrameValue.isLift_rosati
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:27:19.08563+00:00
 -- url     : https://prove2.me/theorems/243efe04-90dd-47b2-acc4-433ba32770c5

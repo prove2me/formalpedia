@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_tupOf_eq_iff
 -- name    : Formalism.L2.G.Cmp.tupOf_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:47:25.134373+00:00
 -- url     : https://prove2.me/theorems/3bcdf04f-1447-4adf-a0a2-ff569b7381e7

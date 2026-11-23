@@ -1,0 +1,46 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UniformTorsionIsomorphism_toGen_fst
+-- name    : GlobalTheory.IndefiniteRowSideFullHecke.UniformTorsionIsomorphism.toGen_fst
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T16:36:38.969439+00:00
+-- url     : https://prove2.me/theorems/2b61418f-f866-4354-9eb3-e3631a4f56d4
+-- title:
+--   Uniform Torsion Isomorphism: to Gen fst
+-- statement:
+--   The Uniform Torsion Isomorphism construction uses the to Gen fst property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/BlockTheory/CMModuli/UniformTorsionIsomorphism.lean#L71-L73
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/BlockTheory/CMModuli/UniformTorsionIsomorphism.lean#L71-L73
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_Clauses
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_QkToAkU
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_DegOUnif
+import Definitions.Def_Development_AbelianVarietyTheory_BlockTheory_CMModuli_TorusGraphMaps
+import Definitions.Def_Development_AbelianVarietyTheory_BlockTheory_CMModuli_UniformTorsionIsomorphism
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open CategoryTheory CategoryTheory.Limits AlgebraicGeometry MonoidalCategory
+  CartesianMonoidalCategory MonObj NumberField
+attribute [local instance] Over.cartesianMonoidalCategory
+open GlobalTheory GlobalTheory.IndefiniteRowSideFullHecke GlobalTheory.IndefiniteRowSideFullHecke.UniformTorsionIsomorphism
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Out ReciprocityTheory.ChartRestriction.G.Geo.Tor
+open GlobalTheory.IndefiniteRowSideFullHecke.TorusGraphMaps
+open scoped CategoryTheory.Obj
+variable {E : Type} [Field E] [NumberField E] [IsCMField E]
+variable {R : Type} [CommRing R] [IsDomain R]
+attribute [instance] OData.mod
+variable {H : Host E} {I : Ideal R}
+variable {F : Type} [Field F] [Algebra (FractionRing R) F]
+
+theorem GlobalTheory.IndefiniteRowSideFullHecke.UniformTorsionIsomorphism.toGen_fst {G : Over (Spec (CommRingCat.of R))} (x : TF (R := R) F ⟶ G) :
+    (toGen x).left ≫ pullback.fst G.hom (jK R) = x.left := by sorry

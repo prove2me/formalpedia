@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_psiAt_eq_zero_iff
 -- name    : GroundTheory.Arith.Abelian.psiAt_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:18:07.231701+00:00
 -- url     : https://prove2.me/theorems/c3c18d85-226f-4013-be18-a6a548b99792

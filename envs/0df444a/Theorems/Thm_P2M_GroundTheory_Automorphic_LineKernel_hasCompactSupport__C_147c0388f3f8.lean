@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_LineKernel_hasCompactSupport__C_147c0388f3f8
 -- name    : P2M_GroundTheory_Automorphic_LineKernel_hasCompactSupport__C_147c0388f3f8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:18:21.254738+00:00
 -- url     : https://prove2.me/theorems/f2c485c9-49cc-4f07-9f2f-2c62eb8e5e73

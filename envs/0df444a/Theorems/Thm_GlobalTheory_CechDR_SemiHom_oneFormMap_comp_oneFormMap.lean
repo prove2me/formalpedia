@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_SemiHom_oneFormMap_comp_oneFormMap
 -- name    : GlobalTheory.CechDR.SemiHom.oneFormMap_comp_oneFormMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:19:22.171366+00:00
 -- url     : https://prove2.me/theorems/f0ec36be-7d10-4101-92b6-787d6b4376cc

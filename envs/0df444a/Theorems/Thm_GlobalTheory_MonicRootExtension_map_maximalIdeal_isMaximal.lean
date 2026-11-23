@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonicRootExtension_map_maximalIdeal_isMaximal
 -- name    : GlobalTheory.MonicRootExtension.map_maximalIdeal_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:51.300698+00:00
 -- url     : https://prove2.me/theorems/ee66e3c4-d905-4f36-809b-bcb5858d4f30

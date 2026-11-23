@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_FSumShift_eq
 -- name    : GlobalTheory.AnArc.FSumShift_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:27:12.716772+00:00
 -- url     : https://prove2.me/theorems/f8e20c91-64f8-4b9a-8ce5-4e0ddc98f995

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_exists_limit_point
 -- name    : GlobalTheory.CompanionTheory.Ultra.exists_limit_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:21:40.863591+00:00
 -- url     : https://prove2.me/theorems/bc2af5e1-61b1-45ea-858f-530650a15e5c

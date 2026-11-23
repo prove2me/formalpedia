@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineQuotient_specHom_comp_coaction
 -- name    : GlobalTheory.AffineQuotient.specHom_comp_coaction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:38:44.706626+00:00
 -- url     : https://prove2.me/theorems/d667e22e-bfc5-416b-8dc1-e2a2ad3677e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_dil_one
 -- name    : CompanionTheory.ThKR.LL.dil_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:27:28.127616+00:00
 -- url     : https://prove2.me/theorems/c36ac634-5a13-4597-854e-16f76d754212

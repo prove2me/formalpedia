@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_secVal_add_period
 -- name    : GlobalTheory.FrameValue.secVal_add_period
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:27:12.986209+00:00
 -- url     : https://prove2.me/theorems/929fe204-985a-44ba-b856-432715c77596

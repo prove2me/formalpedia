@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocWeil_DerComm_DualBases_sum_adjoint
 -- name    : GlobalTheory.LocWeil.DerComm.DualBases.sum_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:30.365769+00:00
 -- url     : https://prove2.me/theorems/4aa3d442-a134-41ad-a184-eb1bd989f939

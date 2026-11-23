@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_one_tmul_eq_zero
 -- name    : GlobalTheory.SW.HeckeId.one_tmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:51.336695+00:00
 -- url     : https://prove2.me/theorems/11047889-243f-4e4b-9798-bc3deced8853

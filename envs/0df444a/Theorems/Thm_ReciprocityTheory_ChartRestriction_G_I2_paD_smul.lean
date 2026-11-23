@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_paD_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.paD_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:43.62997+00:00
 -- url     : https://prove2.me/theorems/b9473d7d-5620-4727-bc7c-580faf7519e6

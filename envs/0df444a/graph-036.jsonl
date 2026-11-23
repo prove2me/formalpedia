@@ -76114,8 +76114,8 @@
 {"parent": "LevyStochCalc_Ito_JumpSplittingPathDecomposition_F000", "child": "LevyStochCalc_Ito_JumpSplittingPathSums_F001", "via": ["statement"]}
 {"parent": "LevyStochCalc_Ito_JumpSplittingPathDecomposition_F000", "child": "SourceProof_aef3a69ee291c75edeeec8a2", "via": ["statement"]}
 {"parent": "LevyStochCalc_Ito_JumpSplittingPathDecomposition_F000", "child": "SourceProof_2afb1f68a5c9c19e7519fbb0", "via": ["statement"]}
-{"parent": "WeilConjectures.exists_frobenius_cohomology_poincare_duality", "child": "WeilConjectures_zetaFunction", "via": ["statement"]}
-{"parent": "WeilConjectures.exists_frobenius_cohomology_poincare_duality", "child": "WeilConjectures_projectiveSpace", "via": ["statement"]}
+{"parent": "WeilConjectures.exists_frobenius_cohomology_poincare_duality", "child": "WeilConjectures_zetaFunction", "via": ["solution", "statement"]}
+{"parent": "WeilConjectures.exists_frobenius_cohomology_poincare_duality", "child": "WeilConjectures_projectiveSpace", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RH67156Slab16Fast15Block02", "child": "row23_rh_supp_RH67156Slab16Fast15Data", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece24Block07", "child": "row23_rh_supp_RH67156FastPiece24Data", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156Slab16Fast13Block06", "child": "row23_rh_supp_RH67156Slab16Fast13Data", "via": ["statement"]}

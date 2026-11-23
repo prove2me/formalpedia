@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_IsHeis_inner_left
 -- name    : GlobalTheory.RealWeil.IsHeis.inner_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:17.998201+00:00
 -- url     : https://prove2.me/theorems/da0ca92d-a408-4752-bfa3-704c84a9a72e

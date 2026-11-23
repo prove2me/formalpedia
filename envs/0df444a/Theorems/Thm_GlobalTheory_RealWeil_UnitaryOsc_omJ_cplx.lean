@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_UnitaryOsc_omJ_cplx
 -- name    : GlobalTheory.RealWeil.UnitaryOsc.omJ_cplx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:58.746953+00:00
 -- url     : https://prove2.me/theorems/1da39940-752a-44b2-8f8b-6e46dc5b145a

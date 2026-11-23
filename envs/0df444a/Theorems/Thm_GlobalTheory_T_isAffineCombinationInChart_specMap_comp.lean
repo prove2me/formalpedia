@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isAffineCombinationInChart_specMap_comp
 -- name    : GlobalTheory.T.isAffineCombinationInChart_specMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:19:20.058811+00:00
 -- url     : https://prove2.me/theorems/12043a0b-e55e-47a6-8975-00948397bbe4

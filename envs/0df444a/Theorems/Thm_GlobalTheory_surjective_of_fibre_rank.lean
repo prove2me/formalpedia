@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_surjective_of_fibre_rank
 -- name    : GlobalTheory.surjective_of_fibre_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:17:56.008088+00:00
 -- url     : https://prove2.me/theorems/1db44dc3-41a5-42f5-b2a8-13c59c5d3de8

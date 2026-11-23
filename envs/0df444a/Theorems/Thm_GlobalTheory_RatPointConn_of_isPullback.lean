@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RatPointConn_of_isPullback
 -- name    : GlobalTheory.RatPointConn.of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:26.119375+00:00
 -- url     : https://prove2.me/theorems/2bc39ac8-55a6-41be-9481-614a27b71e04

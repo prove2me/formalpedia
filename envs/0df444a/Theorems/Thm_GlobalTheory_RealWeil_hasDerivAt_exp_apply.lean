@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_hasDerivAt_exp_apply
 -- name    : GlobalTheory.RealWeil.hasDerivAt_exp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:10.208835+00:00
 -- url     : https://prove2.me/theorems/44c075fe-4f38-45a7-8d28-273be15ac614

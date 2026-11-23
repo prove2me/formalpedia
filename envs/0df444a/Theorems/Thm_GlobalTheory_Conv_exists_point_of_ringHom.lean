@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_exists_point_of_ringHom
 -- name    : GlobalTheory.Conv.exists_point_of_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:27:26.239534+00:00
 -- url     : https://prove2.me/theorems/723e134d-ec01-48ef-bda3-765b25419296

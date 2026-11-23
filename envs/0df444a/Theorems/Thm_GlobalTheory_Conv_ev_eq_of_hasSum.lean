@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_ev_eq_of_hasSum
 -- name    : GlobalTheory.Conv.ev_eq_of_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:26:46.746302+00:00
 -- url     : https://prove2.me/theorems/95dfc154-65e7-4c16-b6f9-19e4014bae6c

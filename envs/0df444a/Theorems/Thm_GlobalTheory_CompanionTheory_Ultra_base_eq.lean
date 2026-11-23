@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_base_eq
 -- name    : GlobalTheory.CompanionTheory.Ultra.base_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:21:31.066976+00:00
 -- url     : https://prove2.me/theorems/8e62be1b-7ea7-4158-8994-bac8a27c9f27

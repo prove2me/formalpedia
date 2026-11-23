@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_fou_mul_fouInv
 -- name    : CompanionTheory.ThKR.LL.fou_mul_fouInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:27:42.132277+00:00
 -- url     : https://prove2.me/theorems/d90844cb-29eb-44a4-9411-ad91b8edf42e

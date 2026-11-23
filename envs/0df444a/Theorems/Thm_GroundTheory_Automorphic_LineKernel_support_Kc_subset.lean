@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_support_Kc_subset
 -- name    : GroundTheory.Automorphic.LineKernel.support_Kc_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:19:05.066858+00:00
 -- url     : https://prove2.me/theorems/94a5a938-4d89-4879-aac2-30e39816d9ee

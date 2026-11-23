@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_exists_lip
 -- name    : CompanionTheory.ThKR.LL.exists_lip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:45.833307+00:00
 -- url     : https://prove2.me/theorems/5edd8c3b-2d05-49f0-8c90-dede8722bef6

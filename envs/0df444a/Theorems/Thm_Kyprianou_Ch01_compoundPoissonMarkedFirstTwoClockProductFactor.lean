@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_compoundPoissonMarkedFirstTwoClockProductFactor
 -- name    : Kyprianou.Ch01.compoundPoissonMarkedFirstTwoClockProductFactor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:41:09.593125+00:00
 -- url     : https://prove2.me/theorems/3b427102-d808-428b-bba2-e79697195453

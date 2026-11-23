@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_iso_of_integral
 -- name    : CompanionTheory.ThKR.LL.iso_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:16.196975+00:00
 -- url     : https://prove2.me/theorems/b42e620a-8b8b-4d61-807c-435a3d3738b5

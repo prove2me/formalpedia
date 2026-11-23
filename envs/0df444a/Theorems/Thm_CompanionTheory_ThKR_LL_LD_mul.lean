@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_LD_mul
 -- name    : CompanionTheory.ThKR.LL.LD.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:25:04.519661+00:00
 -- url     : https://prove2.me/theorems/63ba3e00-6878-4884-ae2c-6b44d3281d31

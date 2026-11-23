@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_contDiff_prodExpVal
 -- name    : GroundTheory.Automorphic.contDiff_prodExpVal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:17:35.4153+00:00
 -- url     : https://prove2.me/theorems/27cdf73b-d055-4253-86a2-e6fe87835b3e

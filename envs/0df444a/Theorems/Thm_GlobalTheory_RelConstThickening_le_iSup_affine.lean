@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelConstThickening_le_iSup_affine
 -- name    : GlobalTheory.RelConstThickening.le_iSup_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:55.286465+00:00
 -- url     : https://prove2.me/theorems/d8fbc4ed-4b63-4a3c-9efb-3b9b17744db0

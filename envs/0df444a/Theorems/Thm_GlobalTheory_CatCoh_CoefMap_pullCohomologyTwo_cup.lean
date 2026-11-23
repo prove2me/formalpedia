@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_CoefMap_pullCohomologyTwo_cup
 -- name    : GlobalTheory.CatCoh.CoefMap.pullCohomologyTwo_cup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:45.371725+00:00
 -- url     : https://prove2.me/theorems/76d9d1ad-de29-4602-935b-44752747d685

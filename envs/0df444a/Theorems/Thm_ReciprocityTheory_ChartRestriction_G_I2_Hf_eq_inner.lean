@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Hf_eq_inner
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Hf_eq_inner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:43.885613+00:00
 -- url     : https://prove2.me/theorems/bf383956-40bc-4058-a85f-a34376a2932c

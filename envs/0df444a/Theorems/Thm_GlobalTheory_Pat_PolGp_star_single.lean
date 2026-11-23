@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_PolGp_star_single
 -- name    : GlobalTheory.Pat.PolGp.star_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:55.931233+00:00
 -- url     : https://prove2.me/theorems/edea85b0-e670-43dd-b58b-fc0d95ed3e6c

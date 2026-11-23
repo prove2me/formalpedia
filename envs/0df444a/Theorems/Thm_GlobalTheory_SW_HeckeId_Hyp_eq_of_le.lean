@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_Hyp_eq_of_le
 -- name    : GlobalTheory.SW.HeckeId.Hyp.eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:30:02.601375+00:00
 -- url     : https://prove2.me/theorems/7e2cb4c7-8e89-4eca-b67b-1ebc4a925a1b

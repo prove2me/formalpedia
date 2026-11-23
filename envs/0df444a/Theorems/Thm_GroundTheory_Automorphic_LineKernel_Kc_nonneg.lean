@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_Kc_nonneg
 -- name    : GroundTheory.Automorphic.LineKernel.Kc_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:19:02.666774+00:00
 -- url     : https://prove2.me/theorems/063a5b56-a874-42a0-8efa-5e3ddb62cc4a

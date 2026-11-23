@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_compoundPoissonMarkedFirstTwoClockUpperBound
 -- name    : Kyprianou.Ch01.compoundPoissonMarkedFirstTwoClockUpperBound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T12:36:08.966805+00:00
 -- url     : https://prove2.me/theorems/c94da83c-826d-42d1-9e76-c5837e27db50

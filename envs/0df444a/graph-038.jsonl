@@ -18697,7 +18697,7 @@
 {"parent": "Formalism.InvariantFactorPaths.ColumnFamilies.qh_det_ne", "child": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_QhMemDualWeyl", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_FnOfComp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_WeightedChartPullback_CancelSecAct", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_FnOfComp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_ConstPullback", "via": ["statement"]}
-{"parent": "GlobalTheory.AffineQuotient.specHom_comp_coaction", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_SpecHomCompCoaction", "via": ["statement"]}
+{"parent": "GlobalTheory.AffineQuotient.specHom_comp_coaction", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_SpecHomCompCoaction", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.H.Inv.int_of_exp_two_pi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_SemiCharBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.H.Inv.int_of_exp_two_pi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_LogarithmEquivalence", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.H.Inv.int_of_exp_two_pi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_LineTransport", "via": ["solution", "statement"]}
@@ -77946,7 +77946,7 @@
 {"parent": "GlobalTheory.CompanionTheory.Iwahori.eq_of_pair", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_IsCongIdealTwoTorsion", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Iwahori.eq_of_pair", "child": "CompanionTheory_RealGroups_UnitaryAdmissibility_ArchimedeanUnitaryDual_StSandwich", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Iwahori.eq_of_pair", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_IsPiecesPiece", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.CatCoh.CoefMap.pullCohomologyTwo_cup", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_CommAlgFunctorCoboundaryZeroMemCocyclesOne", "via": ["statement"]}
+{"parent": "GlobalTheory.CatCoh.CoefMap.pullCohomologyTwo_cup", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_CommAlgFunctorCoboundaryZeroMemCocyclesOne", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SgLoc.Top.mem_R_split", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_RowRawRange", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SgLoc.Top.mem_R_split", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_FractionFieldToGenericStalkAlgebraMapEq", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SgLoc.Top.mem_R_split", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_T2SpaceOfIsNonarchimedeanLocalFieldFlagMeasures", "via": ["solution", "statement"]}
@@ -85417,9 +85417,9 @@
 {"parent": "AvramDividend.Classical.avram_p4_f11_finite_firstexit_signed_generator_joint_time_space_L1", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_large_jump_sum", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f11_finite_firstexit_signed_generator_joint_time_space_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f11_finite_firstexit_signed_generator_joint_time_space_L1", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Out.CubePf.CubeCoordinateSums.fam_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_CubePullbacks_CubeFaceMiddleProjProd", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Out.CubePf.CubeCoordinateSums.fam_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_DegProd", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Out.CubePf.CubeCoordinateSums.fam_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GtBaseChangeSt", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Out.CubePf.CubeCoordinateSums.fam_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_CubePullbacks_CubeFaceMiddleProjProd", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Out.CubePf.CubeCoordinateSums.fam_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_DegProd", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Out.CubePf.CubeCoordinateSums.fam_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GtBaseChangeSt", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.BasisChangePf.cb_mul", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_BasisChangePf", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.BasisChangePf.cb_mul", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_BasisChangeSt", "via": ["solution", "statement"]}
 {"parent": "RH1E6S15.part_048_2", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_term_add_Pw_y
 -- name    : GlobalTheory.AnArc.term_add_Pw_y
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:27:07.092387+00:00
 -- url     : https://prove2.me/theorems/0494f90c-3514-4487-9645-252fce1f5485
