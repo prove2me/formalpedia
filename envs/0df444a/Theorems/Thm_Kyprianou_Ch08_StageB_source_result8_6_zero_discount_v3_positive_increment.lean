@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_6_zero_discount_v3_positive_increment
 -- name    : Kyprianou.Ch08.StageB.source_result8_6_zero_discount_v3_positive_increment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:31:01.999539+00:00
 -- url     : https://prove2.me/theorems/97db8699-bb9b-4196-b35d-4250449bf3e4

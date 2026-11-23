@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx6_mixed_relation_diagonal_four
 -- name    : Formalism.FourierDecayAlt.P.Mx6.mixed_relation_diagonal_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:32:46.971181+00:00
 -- url     : https://prove2.me/theorems/c11c0b49-0cd9-4231-937e-e103078a7e3d

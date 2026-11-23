@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x7_ldu_exists
 -- name    : Formalism.FourierDecayAlt.P.S3x7.ldu_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:36:45.185+00:00
 -- url     : https://prove2.me/theorems/820b36cf-a496-4e00-b1ed-24451daca0c2

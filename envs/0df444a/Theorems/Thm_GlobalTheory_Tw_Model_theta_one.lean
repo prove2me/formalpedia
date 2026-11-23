@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_theta_one
 -- name    : GlobalTheory.Tw.Model.theta_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:51.6688+00:00
 -- url     : https://prove2.me/theorems/c04ceafe-20eb-4826-b263-82abd726b07d

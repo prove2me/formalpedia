@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_spectrallyNegative_esscherCanonicalTilt
 -- name    : Kyprianou.Ch03.spectrallyNegative_esscherCanonicalTilt
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-23T19:28:36.417995+00:00
 -- url     : https://prove2.me/theorems/58f9c978-1a5a-4861-8cfb-957c58446cda

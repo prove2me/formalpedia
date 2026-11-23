@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_proper_chart
 -- name    : GlobalTheory.RootEx.QuotStep.proper_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:49.583731+00:00
 -- url     : https://prove2.me/theorems/637abb42-ae2f-4694-ae52-189932a0cf1d

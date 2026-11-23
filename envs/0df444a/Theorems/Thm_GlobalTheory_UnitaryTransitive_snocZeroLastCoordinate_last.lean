@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryTransitive_snocZeroLastCoordinate_last
 -- name    : GlobalTheory.UnitaryTransitive.snocZeroLastCoordinate_last
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:06:24.42392+00:00
 -- url     : https://prove2.me/theorems/56c00c35-22ee-460a-8a94-8cfda923b01b

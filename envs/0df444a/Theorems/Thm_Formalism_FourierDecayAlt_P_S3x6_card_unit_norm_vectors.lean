@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_card_unit_norm_vectors
 -- name    : Formalism.FourierDecayAlt.P.S3x6.card_unit_norm_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:47:48.322594+00:00
 -- url     : https://prove2.me/theorems/4c116a8c-015e-433c-bc73-61f8b6e28fde

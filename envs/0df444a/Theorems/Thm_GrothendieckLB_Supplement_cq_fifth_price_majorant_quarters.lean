@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_fifth_price_majorant_quarters
 -- name    : GrothendieckLB.Supplement.cq_fifth_price_majorant_quarters
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:03:51.685803+00:00
 -- url     : https://prove2.me/theorems/83626e1c-d99b-47f6-9cf7-95363d26f088

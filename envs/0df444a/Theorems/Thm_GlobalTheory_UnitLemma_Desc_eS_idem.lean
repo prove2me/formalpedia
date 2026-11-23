@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_eS_idem
 -- name    : GlobalTheory.UnitLemma.Desc.eS_idem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:03:12.889833+00:00
 -- url     : https://prove2.me/theorems/aeb37344-4c6a-49d7-be6e-ce635af2cdcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_extend_to_orthogonal_basis
 -- name    : Formalism.FourierDecayAlt.P.S3x6.extend_to_orthogonal_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:20.006271+00:00
 -- url     : https://prove2.me/theorems/8e51cdda-c7bc-4cb5-9e83-cea5a5edc5d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_witt_extension_of_nondeg_gram
 -- name    : Formalism.FourierDecayAlt.P.S3x6.witt_extension_of_nondeg_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:24.2008+00:00
 -- url     : https://prove2.me/theorems/5cf46d6d-0242-4d51-9644-9056243b6684

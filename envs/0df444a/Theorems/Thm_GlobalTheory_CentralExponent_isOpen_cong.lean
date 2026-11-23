@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CentralExponent_isOpen_cong
 -- name    : GlobalTheory.CentralExponent.isOpen_cong
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:10.225245+00:00
 -- url     : https://prove2.me/theorems/c0d7b98c-c86c-44fb-a481-83c44b313815

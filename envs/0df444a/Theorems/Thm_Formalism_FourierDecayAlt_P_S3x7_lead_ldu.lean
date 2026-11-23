@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x7_lead_ldu
 -- name    : Formalism.FourierDecayAlt.P.S3x7.lead_ldu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:25:10.765513+00:00
 -- url     : https://prove2.me/theorems/c8e785c0-2635-4b04-8aac-bdf25b5a4201

@@ -1,0 +1,30 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StandardCharacterExists_blk_strictUpper
+-- name    : Formalism.FourierDecayAlt.P.StandardCharacterExists.blk_strictUpper
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T21:26:31.80916+00:00
+-- url     : https://prove2.me/theorems/8888d0b5-8763-4e2d-9775-347ba0e2ee5d
+-- title:
+--   Standard Character Exists: blk strict Upper
+-- statement:
+--   The Standard Character Exists construction uses the blk strict Upper property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/StandardCharacterExists.lean#L58-L71
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/StandardCharacterExists.lean#L58-L71
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementG
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_StandardCharacterExists
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism.FourierDecayAlt.G Matrix MeasureTheory Finset
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.StandardCharacterExists
+
+theorem Formalism.FourierDecayAlt.P.StandardCharacterExists.blk_strictUpper {n : ℕ} (X : Matrix (Fin n) (Fin n) ℂ) (B : Fin n → ℂ) (hX : IsStrictUpper X) :
+    IsStrictUpper (blk X B 0 0) := by sorry

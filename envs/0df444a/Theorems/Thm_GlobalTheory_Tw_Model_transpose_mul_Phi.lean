@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_transpose_mul_Phi
 -- name    : GlobalTheory.Tw.Model.transpose_mul_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:49.06381+00:00
 -- url     : https://prove2.me/theorems/2e37a1b8-ae90-4936-8a0a-d0b37b967768

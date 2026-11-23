@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquivarianceConvolution_equivariant_image_irreducible
 -- name    : EquivarianceConvolution.equivariant_image_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T20:01:01.897159+00:00
 -- url     : https://prove2.me/theorems/1cf1b8e3-5bd6-479d-8e7c-2106ed8ea56d

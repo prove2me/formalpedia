@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_theta_mul
 -- name    : GlobalTheory.Tw.Model.theta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:06:07.801808+00:00
 -- url     : https://prove2.me/theorems/b657cd11-3d31-410d-bbb3-198db98ec69d

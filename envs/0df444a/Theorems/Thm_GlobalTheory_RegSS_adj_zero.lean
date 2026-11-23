@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_adj_zero
 -- name    : GlobalTheory.RegSS.adj_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:14.567116+00:00
 -- url     : https://prove2.me/theorems/fc4c1540-193c-4e12-866b-a459bce9b26a

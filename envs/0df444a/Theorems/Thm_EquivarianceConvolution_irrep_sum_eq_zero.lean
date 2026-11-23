@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquivarianceConvolution_irrep_sum_eq_zero
 -- name    : EquivarianceConvolution.irrep_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:58:57.011397+00:00
 -- url     : https://prove2.me/theorems/d54ead88-7845-4b22-94da-d6e6ca0a0775

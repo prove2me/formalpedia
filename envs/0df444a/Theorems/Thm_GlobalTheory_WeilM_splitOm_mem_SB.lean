@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_splitOm_mem_SB
 -- name    : GlobalTheory.WeilM.splitOm_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:37:26.2908+00:00
 -- url     : https://prove2.me/theorems/e5a25b08-89f8-4c3d-87f7-f21a0fb5d9e0

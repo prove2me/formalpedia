@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_chartN_entries
 -- name    : GlobalTheory.RootEx.QuotStep.chartN_entries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:35.53681+00:00
 -- url     : https://prove2.me/theorems/bf92f89d-ee92-478c-87ae-b8c5e539f801

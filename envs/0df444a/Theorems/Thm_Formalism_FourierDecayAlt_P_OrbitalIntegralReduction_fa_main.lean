@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralReduction_fa_main
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.fa_main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:27:39.561778+00:00
 -- url     : https://prove2.me/theorems/798c842a-5453-45ee-a0dc-ab26501b05b2

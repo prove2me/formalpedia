@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_sourceFaithfulGaussianLargeMarginalCharsV1
 -- name    : Kyprianou.Ch02.sourceFaithfulGaussianLargeMarginalCharsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:57:12.248056+00:00
 -- url     : https://prove2.me/theorems/e82554fb-d802-4496-b2a4-4dcd0cc1fead

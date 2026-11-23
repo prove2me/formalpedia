@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_continuous_chart
 -- name    : GlobalTheory.RootEx.QuotStep.continuous_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:03:54.673571+00:00
 -- url     : https://prove2.me/theorems/61d9bfd0-d618-4404-9709-61d4c519a647

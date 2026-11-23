@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObjectCentric_compositional_iff_contrast_zero
 -- name    : ObjectCentric.compositional_iff_contrast_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:42:26.423816+00:00
 -- url     : https://prove2.me/theorems/1d5f771d-cad5-4991-861e-0facad672ba7

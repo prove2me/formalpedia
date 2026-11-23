@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_Tw_CentralizerAdjoin_mem_adjoin_of_commute
+-- name    : GlobalTheory.Tw.CentralizerAdjoin.mem_adjoin_of_commute
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T21:12:41.386519+00:00
+-- url     : https://prove2.me/theorems/84b67780-f513-4baf-980e-c5a373e900f9
+-- title:
+--   Centralizer Adjoin: mem adjoin of commute
+-- statement:
+--   The Centralizer Adjoin construction uses the mem adjoin of commute property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/TwistedCentralizerIsNormOneTorus.lean#L83-L95
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/TwistedCentralizerIsNormOneTorus.lean#L83-L95
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_TwConj
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_FourierMatch
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_MemCentIffTwConj
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_TwistedCentralizerIsNormOneTorus
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open GlobalTheory.Tw Matrix Polynomial
+noncomputable section
+open GlobalTheory GlobalTheory.Tw GlobalTheory.Tw.CentralizerAdjoin
+variable {n : ℕ} {R : Type} [CommRing R]
+
+theorem GlobalTheory.Tw.CentralizerAdjoin.mem_adjoin_of_commute (N g : Matrix (Fin n) (Fin n) R) (hs : N.charpoly.Separable)
+    (hc : g * N = N * g) : g ∈ Algebra.adjoin R {N} := by sorry

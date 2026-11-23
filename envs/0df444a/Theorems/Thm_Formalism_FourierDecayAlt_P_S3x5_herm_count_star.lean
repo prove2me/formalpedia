@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_herm_count_star
 -- name    : Formalism.FourierDecayAlt.P.S3x5.herm_count_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:43:21.965851+00:00
 -- url     : https://prove2.me/theorems/17ff7740-b565-41dc-af73-5d14e74be973

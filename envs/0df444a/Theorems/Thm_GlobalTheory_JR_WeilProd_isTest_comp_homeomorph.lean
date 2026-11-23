@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_isTest_comp_homeomorph
 -- name    : GlobalTheory.JR.WeilProd.isTest_comp_homeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:07:03.669383+00:00
 -- url     : https://prove2.me/theorems/59ca914c-fce8-46fb-ad45-b1b2e5160ec1

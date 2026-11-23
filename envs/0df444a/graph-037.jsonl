@@ -69435,8 +69435,8 @@
 {"parent": "AvramDividend.Classical.avram_jp20261122_finitecap_positive_clock_true_physical_fullmark_ito_mesh_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jp20261122_finitecap_positive_clock_true_physical_fullmark_ito_mesh_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jp20261122_finitecap_positive_clock_true_physical_fullmark_ito_mesh_L1", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.S3x7.corner_invariant", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.S3x7.corner_invariant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LduDecompositionExists", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.S3x7.corner_invariant", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.S3x7.corner_invariant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LduDecompositionExists", "via": ["solution", "statement"]}
 {"parent": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_Perron", "via": ["statement"]}
 {"parent": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi", "child": "Formalism_LandauZeroFreeBounds_LogDerivRegionChiOf", "via": ["statement"]}
 {"parent": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi", "child": "Formalism_ZetaNonvanishing_MellinSgen", "via": ["statement"]}
@@ -98178,8 +98178,8 @@
 {"parent": "Formalism.L2.Th1.C.USideB.hs_of", "child": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_VeluIntegral", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.C.USideB.hs_of", "child": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_IntBinomScalar", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.C.USideB.hs_of", "child": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_USideB", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.S6x3.rk_add", "child": "Formalism_HermitianCurvature_PrimeToDifferent", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.S6x3.rk_add", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FinrankLeOfMapLe", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.S6x3.rk_add", "child": "Formalism_HermitianCurvature_PrimeToDifferent", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.S6x3.rk_add", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FinrankLeOfMapLe", "via": ["solution", "statement"]}
 {"parent": "PI.TwNormLat.W.mem_stdAt", "child": "Formalism_PeriodIntegrals_TwNormLat", "via": ["solution", "statement"]}
 {"parent": "PI.TwNormLat.W.mem_stdAt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedNormLattice_UniformContinuityGaloisGroup", "via": ["solution", "statement"]}
 {"parent": "Formalism.ELL.EulerSeries.eul_log_mul", "child": "Formalism_EllipticTorsion_EllipticTorsionProofs_ConstantCoeffLogOnePlus", "via": ["solution", "statement"]}

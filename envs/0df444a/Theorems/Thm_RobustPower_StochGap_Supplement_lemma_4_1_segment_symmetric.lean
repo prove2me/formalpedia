@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_StochGap_Supplement_lemma_4_1_segment_symmetric
 -- name    : RobustPower.StochGap.Supplement.lemma_4_1_segment_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:33:40.498967+00:00
 -- url     : https://prove2.me/theorems/084730d3-dbb8-4c7b-bc64-34589bd5a87b

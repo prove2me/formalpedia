@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpenUnits_and_eventually_sq
 -- name    : GlobalTheory.isOpenUnits_and_eventually_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:38:13.248382+00:00
 -- url     : https://prove2.me/theorems/eb0768a0-78e0-4df2-8adb-edebce98bfc3

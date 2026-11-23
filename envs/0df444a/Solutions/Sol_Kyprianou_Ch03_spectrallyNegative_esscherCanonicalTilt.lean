@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.spectrallyNegative_esscherCanonicalTilt
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-23T19:59:32.876547+00:00
 -- url     : https://prove2.me/submissions/cdf39904-ecd6-42aa-8352-f7b8ed7ccd9c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

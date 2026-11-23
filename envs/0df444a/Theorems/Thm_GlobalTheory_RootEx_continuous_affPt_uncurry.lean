@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_continuous_affPt_uncurry
 -- name    : GlobalTheory.RootEx.continuous_affPt_uncurry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:50:36.053065+00:00
 -- url     : https://prove2.me/theorems/6fde1c62-32ef-42ea-b056-703c0e0c08d2

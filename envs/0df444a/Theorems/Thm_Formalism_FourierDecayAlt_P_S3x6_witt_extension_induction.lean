@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_witt_extension_induction
 -- name    : Formalism.FourierDecayAlt.P.S3x6.witt_extension_induction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:04.67182+00:00
 -- url     : https://prove2.me/theorems/6faab63b-c956-4055-bfcd-02c60240a28f

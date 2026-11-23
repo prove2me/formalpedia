@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitLemma_UnitBase___algebraMap_O_5df93c796371
 -- name    : P2M_GlobalTheory_UnitLemma_UnitBase___algebraMap_O_5df93c796371
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:02:23.18605+00:00
 -- url     : https://prove2.me/theorems/d50dd060-017d-4f5a-b20d-3211ab1a35f7

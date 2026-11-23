@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x3_rk_add
 -- name    : Formalism.FourierDecayAlt.P.S6x3.rk_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:11.23665+00:00
 -- url     : https://prove2.me/theorems/43c4f209-17e8-47fc-8313-89fcdb1ff20e

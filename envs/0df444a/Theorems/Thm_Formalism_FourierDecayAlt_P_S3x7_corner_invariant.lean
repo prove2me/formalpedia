@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x7_corner_invariant
 -- name    : Formalism.FourierDecayAlt.P.S3x7.corner_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:40.426261+00:00
 -- url     : https://prove2.me/theorems/fc7f2b95-1cfb-41a6-9cab-5b3bceb48247

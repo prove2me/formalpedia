@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_spectrallyNegative_canonicalEsscherUncompleted
 -- name    : Kyprianou.Ch03.spectrallyNegative_canonicalEsscherUncompleted
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-23T19:59:15.08613+00:00
 -- url     : https://prove2.me/theorems/a270a609-c11d-4398-aaff-7ca1cd61758a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_laplace_endpoint_of_isQScale
 -- name    : AvramDividend.Classical.laplace_endpoint_of_isQScale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:31:08.389104+00:00
 -- url     : https://prove2.me/theorems/4e69df34-4496-4f93-85b6-4b1d4f14adfa

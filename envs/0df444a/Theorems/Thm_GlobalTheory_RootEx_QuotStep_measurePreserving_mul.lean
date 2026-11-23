@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_measurePreserving_mul
 -- name    : GlobalTheory.RootEx.QuotStep.measurePreserving_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:41.216286+00:00
 -- url     : https://prove2.me/theorems/23a43598-8690-41e9-9af6-b5f3b8db2add

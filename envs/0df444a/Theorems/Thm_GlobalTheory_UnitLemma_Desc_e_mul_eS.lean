@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_e_mul_eS
 -- name    : GlobalTheory.UnitLemma.Desc.e_mul_eS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:09:34.573163+00:00
 -- url     : https://prove2.me/theorems/3e1f7f72-e4c2-4292-98d7-b1aa617e319a

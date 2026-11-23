@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IActThereforeIAm_gaussian_score
 -- name    : IActThereforeIAm.gaussian_score
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:08:05.824946+00:00
 -- url     : https://prove2.me/theorems/5197dd0b-c72c-415f-9461-8f6608a64ad4

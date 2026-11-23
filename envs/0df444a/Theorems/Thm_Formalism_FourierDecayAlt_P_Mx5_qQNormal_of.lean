@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx5_qQNormal_of
 -- name    : Formalism.FourierDecayAlt.P.Mx5.qQNormal_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:51.16007+00:00
 -- url     : https://prove2.me/theorems/4238f18f-c916-4791-8f7e-e996928f9176

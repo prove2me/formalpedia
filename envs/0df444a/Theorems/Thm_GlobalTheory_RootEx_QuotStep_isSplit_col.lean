@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_isSplit_col
 -- name    : GlobalTheory.RootEx.QuotStep.isSplit_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:46.3738+00:00
 -- url     : https://prove2.me/theorems/e91f7257-2832-493e-8bef-cbd221d134ba

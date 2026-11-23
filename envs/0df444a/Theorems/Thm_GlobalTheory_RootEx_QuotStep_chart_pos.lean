@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_chart_pos
 -- name    : GlobalTheory.RootEx.QuotStep.chart_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:03:58.335101+00:00
 -- url     : https://prove2.me/theorems/02680a8b-573a-4170-bee8-40f982d56748

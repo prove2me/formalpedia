@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_orbital_integral_change_of_variables
 -- name    : Formalism.FourierDecayAlt.P.orbital_integral_change_of_variables
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:16:27.972095+00:00
 -- url     : https://prove2.me/theorems/97941416-5773-472c-8da8-0d5146b19af4

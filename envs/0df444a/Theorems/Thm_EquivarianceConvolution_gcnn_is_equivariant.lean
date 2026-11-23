@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquivarianceConvolution_gcnn_is_equivariant
 -- name    : EquivarianceConvolution.gcnn_is_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T20:02:41.260676+00:00
 -- url     : https://prove2.me/theorems/8ee30b0b-6676-4c75-a58d-98dd09c766e8

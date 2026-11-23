@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_sourceFaithfulLevyItoTripleExponentV1
 -- name    : Kyprianou.Ch02.sourceFaithfulLevyItoTripleExponentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:36:55.58172+00:00
 -- url     : https://prove2.me/theorems/143e8311-0ba1-41b9-b62f-cd9791279b1c

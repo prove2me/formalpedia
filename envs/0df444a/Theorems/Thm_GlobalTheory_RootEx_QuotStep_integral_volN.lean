@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_integral_volN
 -- name    : GlobalTheory.RootEx.QuotStep.integral_volN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:14.895729+00:00
 -- url     : https://prove2.me/theorems/1f7fda7a-dfc5-4faf-a558-a7350c873d8f

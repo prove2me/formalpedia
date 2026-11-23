@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralContrastive_labels_cut_bound
 -- name    : SpectralContrastive.labels_cut_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T18:37:29.022094+00:00
 -- url     : https://prove2.me/theorems/eebfe257-2826-4432-91ba-40541c686895

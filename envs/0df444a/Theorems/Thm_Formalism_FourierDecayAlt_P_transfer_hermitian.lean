@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_transfer_hermitian
 -- name    : Formalism.FourierDecayAlt.P.transfer_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:28.870685+00:00
 -- url     : https://prove2.me/theorems/4a612904-afef-4439-a421-f1ff05e61e9f

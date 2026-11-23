@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordDatum_isUnitary_and_fixes_frames_of_mem_complementUnitary
 -- name    : GlobalTheory.HL.CoordDatum.isUnitary_and_fixes_frames_of_mem_complementUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:12.638809+00:00
 -- url     : https://prove2.me/theorems/057ad4cd-ff31-4cda-a33a-209537a30d56

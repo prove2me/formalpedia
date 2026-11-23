@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralContrastive_spectral_contrastive_loss_eq_mf
 -- name    : SpectralContrastive.spectral_contrastive_loss_eq_mf
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T18:36:01.951371+00:00
 -- url     : https://prove2.me/theorems/2d8c7bbc-cb1a-47dd-8a5e-c7bf66433041
