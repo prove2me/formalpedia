@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_Bal_sum_S_char
 -- name    : Formalism.D5.Bal.sum_S_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:03:25.884575+00:00
 -- url     : https://prove2.me/theorems/19083fa3-c57d-47ab-9301-4c0ab3fba1a6

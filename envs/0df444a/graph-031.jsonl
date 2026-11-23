@@ -65280,13 +65280,13 @@
 {"parent": "simpleFunctionIntegralDefined_map_ennreal", "child": "ProbabilityTheory_chapter_06_def_6_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40419", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31794", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_mu", "via": ["statement"]}
-{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_lawQ", "via": ["statement"]}
-{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_Rule", "via": ["statement"]}
-{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_Delta", "via": ["statement"]}
-{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_run", "via": ["statement"]}
-{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_fullTraversalRule", "via": ["statement"]}
-{"parent": "PhysReaudit.proposition_3_attain", "child": "LimitedPriceChanges_LowerBound_KL", "via": ["statement"]}
+{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_mu", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_lawQ", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_Rule", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_Delta", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_run", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.proposition_3_attain", "child": "PhysReaudit_fullTraversalRule", "via": ["solution", "statement"]}
+{"parent": "PhysReaudit.proposition_3_attain", "child": "LimitedPriceChanges_LowerBound_KL", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38438", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35704", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37738", "child": "OAIQ259US007", "via": ["statement"]}

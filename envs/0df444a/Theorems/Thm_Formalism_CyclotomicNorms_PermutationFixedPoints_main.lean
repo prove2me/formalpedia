@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_PermutationFixedPoints_main
 -- name    : Formalism.CyclotomicNorms.PermutationFixedPoints.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:03:07.67652+00:00
 -- url     : https://prove2.me/theorems/18d04dd7-8a6f-403e-84b5-40410b9db1a7

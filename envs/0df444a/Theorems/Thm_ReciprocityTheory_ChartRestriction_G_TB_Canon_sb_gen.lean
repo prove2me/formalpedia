@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_sb_gen
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.sb_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:39.831509+00:00
 -- url     : https://prove2.me/theorems/30a0fc64-8733-4444-bb86-506be83a4f2a

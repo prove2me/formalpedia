@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_isCMType_places
 -- name    : GlobalTheory.CMVal.InhabK.isCMType_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:07.839809+00:00
 -- url     : https://prove2.me/theorems/ae8a9398-c1d6-4a66-a576-a2fcecc3f2cf

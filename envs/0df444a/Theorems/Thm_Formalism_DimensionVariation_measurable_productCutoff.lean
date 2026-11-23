@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_measurable_productCutoff
 -- name    : Formalism.DimensionVariation.measurable_productCutoff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:55:11.7708+00:00
 -- url     : https://prove2.me/theorems/45652b3d-7661-447b-9c79-0d003ada5f90

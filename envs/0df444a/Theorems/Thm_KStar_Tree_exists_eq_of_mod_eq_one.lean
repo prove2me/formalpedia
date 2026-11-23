@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_exists_eq_of_mod_eq_one
 -- name    : KStar.Tree.exists_eq_of_mod_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:56.816563+00:00
 -- url     : https://prove2.me/theorems/f66834b6-a703-4b06-9560-d9d6b75d8a22

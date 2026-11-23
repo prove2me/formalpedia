@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_Adapted_sm_idem
 -- name    : GlobalTheory.DRFil.Adapted.sm_idem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:02:21.040424+00:00
 -- url     : https://prove2.me/theorems/4c9e5acf-10e0-41ee-9c87-9f460cc6f520

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_balTop_split
 -- name    : Formalism.D5.balTop_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:03:21.319885+00:00
 -- url     : https://prove2.me/theorems/ee518eef-56e9-4273-a6e8-b5e411c63ad4

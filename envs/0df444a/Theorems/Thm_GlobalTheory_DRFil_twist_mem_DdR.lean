@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_twist_mem_DdR
 -- name    : GlobalTheory.DRFil.twist_mem_DdR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:03:52.748847+00:00
 -- url     : https://prove2.me/theorems/95709db5-ba79-45a7-bf52-b8b38ffd0fb0

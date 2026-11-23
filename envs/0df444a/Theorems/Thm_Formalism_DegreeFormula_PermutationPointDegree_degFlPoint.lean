@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PermutationPointDegree_degFlPoint
 -- name    : Formalism.DegreeFormula.PermutationPointDegree.degFlPoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:40.733919+00:00
 -- url     : https://prove2.me/theorems/4df9ea5c-2aae-4aae-a7d8-bd975793544f

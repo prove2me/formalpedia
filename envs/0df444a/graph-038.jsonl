@@ -25013,8 +25013,8 @@
 {"parent": "RH1E6S14.part_031_1", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S14.part_031_1", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S14.part_031_1", "child": "ArdaRH65K_RS5_Sound", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.Bst.logFlat_twist", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_SpanNatCastLeComap", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.Bst.logFlat_twist", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_TruncLogEqOfPowEqZero", "via": ["statement"]}
+{"parent": "Reformulated.AutPerF.Bst.logFlat_twist", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_SpanNatCastLeComap", "via": ["solution", "statement"]}
+{"parent": "Reformulated.AutPerF.Bst.logFlat_twist", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_TruncLogEqOfPowEqZero", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.C.constantCoeff_rescale_eq", "child": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_ChordSecondLogDeriv", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.C.constantCoeff_rescale_eq", "child": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_HasSecondLogDerivPowerSeriesExp", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.C.constantCoeff_rescale_eq", "child": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_IntBinomScalar", "via": ["solution", "statement"]}
@@ -48466,8 +48466,8 @@
 {"parent": "RH1E6S14.part_081_2", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S14.part_081_2", "child": "ArdaRS_Band", "via": ["statement"]}
 {"parent": "RH1E6S14.part_081_2", "child": "ArdaRH65K_RS5_Sound", "via": ["statement"]}
-{"parent": "Formalism.CyclotomicNorms.PermutationFixedPoints.main", "child": "Formalism_CyclotomicNorms_NonsquarefreeBounds_TwoMulNumDerangementsLeFactorial", "via": ["statement"]}
-{"parent": "Formalism.CyclotomicNorms.PermutationFixedPoints.main", "child": "Formalism_CyclotomicNorms_DiscardKernel", "via": ["statement"]}
+{"parent": "Formalism.CyclotomicNorms.PermutationFixedPoints.main", "child": "Formalism_CyclotomicNorms_NonsquarefreeBounds_TwoMulNumDerangementsLeFactorial", "via": ["solution", "statement"]}
+{"parent": "Formalism.CyclotomicNorms.PermutationFixedPoints.main", "child": "Formalism_CyclotomicNorms_DiscardKernel", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Doubling.IsIwasawa.iwAbs_left", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["statement"]}
 {"parent": "GlobalTheory.Doubling.IsIwasawa.iwAbs_left", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_IsIwasawaOfIsCompact", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.finrank_eq_two_fDeg", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CovolumeIntegerLatticeEq", "via": ["solution", "statement"]}
@@ -58363,9 +58363,9 @@
 {"parent": "SPP.H_le_H_of_dvd", "child": "MillerRabin_FermatProbable", "via": ["solution", "statement"]}
 {"parent": "SPP.H_le_H_of_dvd", "child": "MillerRabin_Mathlib_Algebra_Group_Subgroup_Lattice", "via": ["solution", "statement"]}
 {"parent": "RH1E6S15_D003_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "P2M_Formalism_DivisionValues_ReductionFirst_InS_star__e6df83696a45", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_SelectionLemmas", "via": ["statement"]}
-{"parent": "P2M_Formalism_DivisionValues_ReductionFirst_InS_star__e6df83696a45", "child": "Formalism_QuotientMetricDivisors_ProdFormula", "via": ["statement"]}
-{"parent": "P2M_Formalism_DivisionValues_ReductionFirst_InS_star__e6df83696a45", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaFirst", "via": ["statement"]}
+{"parent": "P2M_Formalism_DivisionValues_ReductionFirst_InS_star__e6df83696a45", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_SelectionLemmas", "via": ["solution", "statement"]}
+{"parent": "P2M_Formalism_DivisionValues_ReductionFirst_InS_star__e6df83696a45", "child": "Formalism_QuotientMetricDivisors_ProdFormula", "via": ["solution", "statement"]}
+{"parent": "P2M_Formalism_DivisionValues_ReductionFirst_InS_star__e6df83696a45", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaFirst", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.exact_lTensor_iff_residueField", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_ExactAndKerBaseChangeOfForallResidueField", "via": ["statement"]}
 {"parent": "GlobalTheory.exact_lTensor_iff_residueField", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_ExistsFiniteProjectiveComplexQuasiIso", "via": ["statement"]}
 {"parent": "GroundTheory.Global.complexGaussian_natCast", "child": "GroundTheory_GlobalFields_TateThesis_GaussianComplexFourier", "via": ["solution", "statement"]}
@@ -61398,10 +61398,10 @@
 {"parent": "MassDataIdxStIm.card_uni", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeIndices_LeviEmbeddingBlock32", "via": ["statement"]}
 {"parent": "MassDataIdxStIm.card_uni", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeIndices_Block31OfBlocks", "via": ["statement"]}
 {"parent": "GlobalTheory.sub_mem_lattice_of_weierstrassP_eq", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_WeierstrassPAddOfNeOfDerivNeZero", "via": ["solution", "statement"]}
-{"parent": "Formalism.DivisionValues.places_over_coprime", "child": "Formalism_QuotientMetricDivisors_Complement2Normaliser", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.places_over_coprime", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondComplementParameterBounds", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.places_over_coprime", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.places_over_coprime", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["statement"]}
+{"parent": "Formalism.DivisionValues.places_over_coprime", "child": "Formalism_QuotientMetricDivisors_Complement2Normaliser", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.places_over_coprime", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondComplementParameterBounds", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.places_over_coprime", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.places_over_coprime", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula", "via": ["solution", "statement"]}
 {"parent": "PI.GalTorsConj.W.conj_add_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GaloisTorsionConjugacy_AddLaw", "via": ["solution", "statement"]}
 {"parent": "PI.GalTorsConj.W.conj_add_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GaloisTorsionConjugacy_MulDefs", "via": ["solution", "statement"]}
 {"parent": "PI.GalTorsConj.W.conj_add_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GaloisTorsionConjugacy_WpOnto", "via": ["solution", "statement"]}

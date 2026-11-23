@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PPowSum_Z_mul_left
 -- name    : Formalism.DegreeFormula.PPowSum.Z_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:26.686271+00:00
 -- url     : https://prove2.me/theorems/8fbd62ec-d7eb-4af0-b201-c96639f66b03

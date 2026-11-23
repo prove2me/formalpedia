@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_IdeleIdeal_finite_pow
 -- name    : GlobalTheory.CMVal.IdeleIdeal.finite_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:11.952799+00:00
 -- url     : https://prove2.me/theorems/6608ab5b-04fb-4d04-882a-ad47aa8f3899

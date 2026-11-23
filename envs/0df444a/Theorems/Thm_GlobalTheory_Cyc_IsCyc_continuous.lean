@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_IsCyc_continuous
 -- name    : GlobalTheory.Cyc.IsCyc.continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:06:42.908947+00:00
 -- url     : https://prove2.me/theorems/27b78f93-1cbc-4b17-b787-42596de47538

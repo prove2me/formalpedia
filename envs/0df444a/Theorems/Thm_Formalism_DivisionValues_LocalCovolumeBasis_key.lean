@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_LocalCovolumeBasis_key
 -- name    : Formalism.DivisionValues.LocalCovolumeBasis.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:33:27.699292+00:00
 -- url     : https://prove2.me/theorems/ec14cd27-829a-434c-ba60-cf5a5f28a677

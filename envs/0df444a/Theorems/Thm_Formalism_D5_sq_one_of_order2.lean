@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_sq_one_of_order2
 -- name    : Formalism.D5.sq_one_of_order2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:37.135407+00:00
 -- url     : https://prove2.me/theorems/9e10e8c9-ccfb-458b-ba40-ed487c32fe03

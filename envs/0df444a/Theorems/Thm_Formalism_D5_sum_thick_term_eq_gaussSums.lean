@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_sum_thick_term_eq_gaussSums
 -- name    : Formalism.D5.sum_thick_term_eq_gaussSums
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:52.235799+00:00
 -- url     : https://prove2.me/theorems/e9df9286-8689-44a1-8f3f-5bcbc811a174

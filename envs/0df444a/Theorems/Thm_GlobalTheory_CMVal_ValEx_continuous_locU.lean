@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_continuous_locU
 -- name    : GlobalTheory.CMVal.ValEx.continuous_locU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:32.506813+00:00
 -- url     : https://prove2.me/theorems/749ac9d2-622a-4cce-9db1-d1a9d842a4a8

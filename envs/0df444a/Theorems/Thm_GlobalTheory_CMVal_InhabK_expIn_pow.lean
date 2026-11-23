@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_expIn_pow
 -- name    : GlobalTheory.CMVal.InhabK.expIn_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:32.5958+00:00
 -- url     : https://prove2.me/theorems/5b4e6e26-12ee-4747-afa0-766bf49f43f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_bil_mem_DdR
 -- name    : GlobalTheory.DRFil.bil_mem_DdR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:02:36.081952+00:00
 -- url     : https://prove2.me/theorems/f3db8ece-e196-40cc-8f58-6158c2ae586c

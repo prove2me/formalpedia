@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_CB_cbSq_nonneg
 -- name    : Formalism.DimensionVariation.CB.cbSq_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:53:59.338748+00:00
 -- url     : https://prove2.me/theorems/f4966ce9-14ca-4426-84c2-c394d684fbf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricDepthHierarchy_ConstantDepth_Supplement_lemma_6_4
 -- name    : SymmetricDepthHierarchy.ConstantDepth.Supplement.lemma_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T11:07:03.652288+00:00
 -- url     : https://prove2.me/theorems/0a556ad7-fdf3-4300-84e7-b7994dedca04

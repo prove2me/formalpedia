@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_zeta_prim
 -- name    : GlobalTheory.CMVal.InhabK.zeta_prim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:51.658125+00:00
 -- url     : https://prove2.me/theorems/992874e3-75fd-41f6-81d1-54baa3d1635d

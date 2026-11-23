@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_CB_const_le
 -- name    : Formalism.DimensionVariation.CB.const_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:20.592457+00:00
 -- url     : https://prove2.me/theorems/13f02d13-5906-43e9-b663-cac050184d0f

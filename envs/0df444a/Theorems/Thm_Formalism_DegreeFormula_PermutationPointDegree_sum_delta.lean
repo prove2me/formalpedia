@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PermutationPointDegree_sum_delta
 -- name    : Formalism.DegreeFormula.PermutationPointDegree.sum_delta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:46.266028+00:00
 -- url     : https://prove2.me/theorems/7734d559-68cf-4ae7-af4f-252af2775431

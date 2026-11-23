@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_blockBound_of
 -- name    : Formalism.DimensionVariation.blockBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:52.975973+00:00
 -- url     : https://prove2.me/theorems/797e7095-3e7e-41ec-a853-bd04dc2102f2

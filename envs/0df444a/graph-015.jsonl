@@ -55272,10 +55272,10 @@
 {"parent": "HolevoEntropyGain_IsGaussianChannel", "child": "QAlgorithms_Papers_Independent_Frontier18_P01", "via": ["statement"]}
 {"parent": "HolevoEntropyGain_IsGaussianChannel", "child": "HolevoEntropyGain_weylCharacteristic", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_06_original_intrinsic_negative_band_void_probability_antitone", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "FreeOrderEPTAS.corollary_3_3", "child": "FreeOrderEPTAS_santaClaus", "via": ["statement"]}
-{"parent": "FreeOrderEPTAS.corollary_3_3", "child": "FreeOrderEPTAS_prophetInstance", "via": ["statement"]}
-{"parent": "FreeOrderEPTAS.corollary_3_3", "child": "FreeOrderEPTAS_IPProphets", "via": ["statement"]}
-{"parent": "FreeOrderEPTAS.corollary_3_3", "child": "FreeOrderEPTAS_orc", "via": ["statement"]}
+{"parent": "FreeOrderEPTAS.corollary_3_3", "child": "FreeOrderEPTAS_santaClaus", "via": ["solution", "statement"]}
+{"parent": "FreeOrderEPTAS.corollary_3_3", "child": "FreeOrderEPTAS_prophetInstance", "via": ["solution", "statement"]}
+{"parent": "FreeOrderEPTAS.corollary_3_3", "child": "FreeOrderEPTAS_IPProphets", "via": ["solution", "statement"]}
+{"parent": "FreeOrderEPTAS.corollary_3_3", "child": "FreeOrderEPTAS_orc", "via": ["solution", "statement"]}
 {"parent": "LX.AffineScan.emitted_depth_rotation_lower", "child": "LX_WordMetric", "via": ["solution", "statement"]}
 {"parent": "LX.AffineScan.emitted_depth_rotation_lower", "child": "LX_AffineScan", "via": ["solution", "statement"]}
 {"parent": "LX.AffineScan.emitted_depth_rotation_lower", "child": "LX_FirstLapFormula", "via": ["solution", "statement"]}
@@ -59041,7 +59041,7 @@
 {"parent": "AvramDividend.Classical.avram_wave6_06_original_strict_preruin_paymentTimes_closed_signed_nonpos", "child": "AvramDividend.Classical.avram_wave6_06_original_strict_preruin_random_clock_paymentTimes_eq_Icc", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_06_original_strict_preruin_paymentTimes_closed_signed_nonpos", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_06_original_strict_preruin_paymentTimes_closed_signed_nonpos", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "FreeOrderEPTAS.theorem_2_1", "child": "FreeOrderEPTAS_santaClaus", "via": ["statement"]}
+{"parent": "FreeOrderEPTAS.theorem_2_1", "child": "FreeOrderEPTAS_santaClaus", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_02_actual_discounted_stopped_Taylor_physical_L1_complement_band_tendsto_zero", "child": "AvramDividend.Classical.avram_wave6_02_actual_discounted_ruin_stopped_Taylor_predictable_product_Integrable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_02_actual_discounted_stopped_Taylor_physical_L1_complement_band_tendsto_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_02_actual_discounted_stopped_Taylor_physical_L1_complement_band_tendsto_zero", "child": "AvramDividend.Classical.avram_wave6_02_actual_discounted_stopped_Taylor_rightcont_physical_product_L1_energy", "via": ["solution", "statement"]}
@@ -60201,9 +60201,9 @@
 {"parent": "LX.AnchoredPhases.conjecture_window_terminal_threshold", "child": "LX_FixedCountReflection", "via": ["solution", "statement"]}
 {"parent": "LX.AnchoredPhases.conjecture_window_terminal_threshold", "child": "LX_MinimumHeightRanks", "via": ["solution", "statement"]}
 {"parent": "LX.AnchoredPhases.conjecture_window_terminal_threshold", "child": "LX_WordMetric", "via": ["solution", "statement"]}
-{"parent": "FreeOrderEPTAS.theorem_3_1", "child": "FreeOrderEPTAS_OPT", "via": ["statement"]}
-{"parent": "FreeOrderEPTAS.theorem_3_1", "child": "FreeOrderEPTAS_freeOrder", "via": ["statement"]}
-{"parent": "FreeOrderEPTAS.theorem_3_1", "child": "FreeOrderEPTAS_orc", "via": ["statement"]}
+{"parent": "FreeOrderEPTAS.theorem_3_1", "child": "FreeOrderEPTAS_OPT", "via": ["solution", "statement"]}
+{"parent": "FreeOrderEPTAS.theorem_3_1", "child": "FreeOrderEPTAS_freeOrder", "via": ["solution", "statement"]}
+{"parent": "FreeOrderEPTAS.theorem_3_1", "child": "FreeOrderEPTAS_orc", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_chat05_bv_drift_envelope_complement_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_chat05_bv_drift_envelope_complement_core", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "avram_wave7_01_predictable_all_negative_of_tests_identity_8e827326", "child": "AvramDividend.Classical.avram_wave7_01_actual_intrinsic_rectangle_past_event_factor_unconditional", "via": ["solution", "statement"]}

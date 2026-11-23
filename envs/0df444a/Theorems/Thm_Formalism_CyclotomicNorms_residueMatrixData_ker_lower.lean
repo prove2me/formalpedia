@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_residueMatrixData_ker_lower
 -- name    : Formalism.CyclotomicNorms.residueMatrixData.ker_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:03:05.202283+00:00
 -- url     : https://prove2.me/theorems/e4bdc90b-9b59-48c3-bf27-7e3b56acb30b

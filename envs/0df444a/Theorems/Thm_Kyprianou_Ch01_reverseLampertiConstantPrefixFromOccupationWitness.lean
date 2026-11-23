@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiConstantPrefixFromOccupationWitness
 -- name    : Kyprianou.Ch01.reverseLampertiConstantPrefixFromOccupationWitness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:03:39.205682+00:00
 -- url     : https://prove2.me/theorems/20bc58ae-e171-4732-b4ed-c3a6480e53b6

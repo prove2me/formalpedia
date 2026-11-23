@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_IsCyc_norm_le_one
 -- name    : GlobalTheory.Cyc.IsCyc.norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:01.947942+00:00
 -- url     : https://prove2.me/theorems/f88fee9c-391b-41f8-ab98-d7ae98de14bf

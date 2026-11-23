@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramValue_norm_le_one
 -- name    : GlobalTheory.UnramValue.norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:44.061517+00:00
 -- url     : https://prove2.me/theorems/992a1cf9-b247-4997-be02-deb7de5ceb91

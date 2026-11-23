@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_gaussianCoeffIntegral
 -- name    : Formalism.DimensionVariation.gaussianCoeffIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:54:37.379155+00:00
 -- url     : https://prove2.me/theorems/a531ebd0-98c7-481b-ae25-455cda6de284

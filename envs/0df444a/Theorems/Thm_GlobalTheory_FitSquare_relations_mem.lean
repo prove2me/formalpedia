@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FitSquare_relations_mem
 -- name    : GlobalTheory.FitSquare.relations_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:45.970285+00:00
 -- url     : https://prove2.me/theorems/31d4546e-87af-4948-b2b8-ee19a07b934a

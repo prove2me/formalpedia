@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvB_log_expPhi
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvB.log_expPhi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:01.345445+00:00
 -- url     : https://prove2.me/theorems/082b86d8-e448-4ad7-a0e9-2bd9fe48b7c0

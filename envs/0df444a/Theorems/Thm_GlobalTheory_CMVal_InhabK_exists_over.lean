@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_exists_over
 -- name    : GlobalTheory.CMVal.InhabK.exists_over
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:41.255318+00:00
 -- url     : https://prove2.me/theorems/5ed7b71f-7fd4-4879-92c4-4504252b77f2

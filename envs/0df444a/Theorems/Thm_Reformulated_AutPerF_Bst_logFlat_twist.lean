@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Bst_logFlat_twist
 -- name    : Reformulated.AutPerF.Bst.logFlat_twist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:20:25.415875+00:00
 -- url     : https://prove2.me/theorems/88022ff4-05dc-4cd9-8f2d-8555922dfc98

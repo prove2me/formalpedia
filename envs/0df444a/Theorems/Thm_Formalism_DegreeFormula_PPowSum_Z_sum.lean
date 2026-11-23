@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PPowSum_Z_sum
 -- name    : Formalism.DegreeFormula.PPowSum.Z_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:33.229612+00:00
 -- url     : https://prove2.me/theorems/4fcaa416-e591-48d6-98d7-e8148b19a98c

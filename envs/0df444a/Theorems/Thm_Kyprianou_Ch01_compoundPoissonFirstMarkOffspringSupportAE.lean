@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_compoundPoissonFirstMarkOffspringSupportAE
 -- name    : Kyprianou.Ch01.compoundPoissonFirstMarkOffspringSupportAE
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:02:37.781195+00:00
 -- url     : https://prove2.me/theorems/90c8591b-ed84-4aa6-8ff3-ebb2bab344d5

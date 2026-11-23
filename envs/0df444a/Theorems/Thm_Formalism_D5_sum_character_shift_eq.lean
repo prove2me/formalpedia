@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_sum_character_shift_eq
 -- name    : Formalism.D5.sum_character_shift_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:03:27.270688+00:00
 -- url     : https://prove2.me/theorems/96346824-24ca-4d68-8c6d-a40787bc5863

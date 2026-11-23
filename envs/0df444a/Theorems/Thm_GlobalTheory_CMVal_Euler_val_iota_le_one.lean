@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_val_iota_le_one
 -- name    : GlobalTheory.CMVal.Euler.val_iota_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:02:08.54199+00:00
 -- url     : https://prove2.me/theorems/0d28b474-f982-4cb8-97f0-c6d157c32ffc

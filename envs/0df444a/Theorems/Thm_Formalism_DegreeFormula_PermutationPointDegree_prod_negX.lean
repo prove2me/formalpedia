@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PermutationPointDegree_prod_negX
 -- name    : Formalism.DegreeFormula.PermutationPointDegree.prod_negX
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:48.707799+00:00
 -- url     : https://prove2.me/theorems/3feb966f-185d-49e3-adec-a3944f816e7e

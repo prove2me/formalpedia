@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_blockBound_of_fockJet
 -- name    : Formalism.DimensionVariation.blockBound_of_fockJet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:53:12.97592+00:00
 -- url     : https://prove2.me/theorems/394e731b-60e2-4a0a-a654-1d8538691f8b

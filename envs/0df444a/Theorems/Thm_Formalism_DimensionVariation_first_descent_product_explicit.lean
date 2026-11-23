@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_first_descent_product_explicit
 -- name    : Formalism.DimensionVariation.first_descent_product_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:54:41.480525+00:00
 -- url     : https://prove2.me/theorems/f145332a-64e3-4e6e-a69c-d0b51b2552bf

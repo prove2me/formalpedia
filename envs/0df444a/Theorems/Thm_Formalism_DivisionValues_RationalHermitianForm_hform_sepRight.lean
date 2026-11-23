@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_RationalHermitianForm_hform_sepRight
 -- name    : Formalism.DivisionValues.RationalHermitianForm.hform_sepRight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:00:29.305883+00:00
 -- url     : https://prove2.me/theorems/c832559d-dacf-460a-a550-d4009d099c31

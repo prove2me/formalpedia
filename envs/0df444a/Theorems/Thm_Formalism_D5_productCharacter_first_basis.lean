@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_productCharacter_first_basis
 -- name    : Formalism.D5.productCharacter_first_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:28.21879+00:00
 -- url     : https://prove2.me/theorems/ef50c3e6-35c3-48cf-8979-090cf3b3479d

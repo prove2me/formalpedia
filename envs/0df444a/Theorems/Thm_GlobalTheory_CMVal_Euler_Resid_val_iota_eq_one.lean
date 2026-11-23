@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_Resid_val_iota_eq_one
 -- name    : GlobalTheory.CMVal.Euler.Resid.val_iota_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:27.469088+00:00
 -- url     : https://prove2.me/theorems/bc13ca83-76fa-4fe2-a919-ff954aaf6df7

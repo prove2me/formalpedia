@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_places_over_coprime
 -- name    : Formalism.DivisionValues.places_over_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:11.437805+00:00
 -- url     : https://prove2.me/theorems/21dadc8c-65dc-4e20-b524-1e2e3977073e

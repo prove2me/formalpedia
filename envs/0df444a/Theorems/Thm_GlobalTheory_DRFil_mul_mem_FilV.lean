@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_mul_mem_FilV
 -- name    : GlobalTheory.DRFil.mul_mem_FilV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:59:13.586882+00:00
 -- url     : https://prove2.me/theorems/99229a59-e91d-4443-a0fe-d10c4bdd21b8

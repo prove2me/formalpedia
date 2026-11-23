@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_DivisionValues_ReductionFirst_InS_star__e6df83696a45
 -- name    : P2M_Formalism_DivisionValues_ReductionFirst_InS_star__e6df83696a45
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:02:18.455399+00:00
 -- url     : https://prove2.me/theorems/3994caa4-cbd9-4cab-b67d-bdd836a3daad

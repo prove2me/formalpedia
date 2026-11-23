@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_ne_of_val
 -- name    : Formalism.D5.ne_of_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:29.208815+00:00
 -- url     : https://prove2.me/theorems/a6c6cb46-7cc8-42db-bbaf-ed58caec9346

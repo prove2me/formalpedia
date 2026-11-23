@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_coeff_kill
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.coeff_kill
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:22.040958+00:00
 -- url     : https://prove2.me/theorems/e349e1ce-fc45-44b0-8722-9a1a5052dc00

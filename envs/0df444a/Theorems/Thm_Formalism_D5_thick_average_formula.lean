@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_thick_average_formula
 -- name    : Formalism.D5.thick_average_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:51:00.556207+00:00
 -- url     : https://prove2.me/theorems/0f0ca744-fcfa-4997-94b1-47485b69d1a4

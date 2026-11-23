@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_lowPowerSeries
 -- name    : Formalism.CyclotomicNorms.lowPowerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:56:47.504792+00:00
 -- url     : https://prove2.me/theorems/8f2271af-f318-49fa-8ba0-9ce9755084df

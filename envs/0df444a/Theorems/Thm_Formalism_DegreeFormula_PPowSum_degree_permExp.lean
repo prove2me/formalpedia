@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PPowSum_degree_permExp
 -- name    : Formalism.DegreeFormula.PPowSum.degree_permExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:30.692657+00:00
 -- url     : https://prove2.me/theorems/b24f735f-04a2-4f8e-8f58-5fbac3daf1a8

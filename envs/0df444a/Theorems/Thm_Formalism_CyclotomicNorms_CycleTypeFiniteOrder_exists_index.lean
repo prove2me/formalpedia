@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_CycleTypeFiniteOrder_exists_index
 -- name    : Formalism.CyclotomicNorms.CycleTypeFiniteOrder.exists_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:53:43.386382+00:00
 -- url     : https://prove2.me/theorems/002f4930-3193-41d6-ad59-84d4f14b5fc9

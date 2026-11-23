@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PFlagDeg_vandermonde_sum
 -- name    : Formalism.DegreeFormula.PFlagDeg.vandermonde_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:08.264219+00:00
 -- url     : https://prove2.me/theorems/1a182e39-802c-4e00-b7f1-ec7e6f29a794

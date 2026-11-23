@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteIntensityWindowSimpleMarkIntegralTendstoV1
 -- name    : Kyprianou.Ch02.prmFiniteIntensityWindowSimpleMarkIntegralTendstoV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:09:13.578239+00:00
 -- url     : https://prove2.me/theorems/1affc01a-b893-45a0-b61d-c5907a5b904c

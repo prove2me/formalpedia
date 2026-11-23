@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_IdeleIdeal_ordAt_eventually
 -- name    : GlobalTheory.CMVal.IdeleIdeal.ordAt_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:29.745969+00:00
 -- url     : https://prove2.me/theorems/7d619637-fa6f-4dae-9f80-bb2c74e2c469

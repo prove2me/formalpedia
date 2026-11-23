@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_val_int_le
 -- name    : GlobalTheory.CMVal.ValEx.val_int_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:49.611805+00:00
 -- url     : https://prove2.me/theorems/314b1859-f5d4-4579-98a8-d80e3c55fa28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteWeightedCountSumL2V1
 -- name    : Kyprianou.Ch02.prmFiniteWeightedCountSumL2V1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:57:21.475172+00:00
 -- url     : https://prove2.me/theorems/0e8d1144-1aa8-458d-a719-ad3076ae2ef1

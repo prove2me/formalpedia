@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_val_iota_le_of_mem
 -- name    : GlobalTheory.CMVal.Euler.val_iota_le_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:01:52.345397+00:00
 -- url     : https://prove2.me/theorems/20d75214-8b28-42f9-9f3f-c5048932bd79

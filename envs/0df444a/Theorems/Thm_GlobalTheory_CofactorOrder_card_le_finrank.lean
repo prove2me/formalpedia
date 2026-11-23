@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CofactorOrder_card_le_finrank
 -- name    : GlobalTheory.CofactorOrder.card_le_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:02:36.430555+00:00
 -- url     : https://prove2.me/theorems/9d17eaaf-353a-4599-9519-873d3042bc4f

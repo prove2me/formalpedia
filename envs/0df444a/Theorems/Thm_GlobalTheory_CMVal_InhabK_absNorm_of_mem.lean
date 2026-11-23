@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_absNorm_of_mem
 -- name    : GlobalTheory.CMVal.InhabK.absNorm_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:56.289725+00:00
 -- url     : https://prove2.me/theorems/94537448-5edd-46f3-9149-22071e544739

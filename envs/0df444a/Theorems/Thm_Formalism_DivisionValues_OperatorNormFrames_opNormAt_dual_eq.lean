@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_OperatorNormFrames_opNormAt_dual_eq
 -- name    : Formalism.DivisionValues.OperatorNormFrames.opNormAt_dual_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:00:20.56474+00:00
 -- url     : https://prove2.me/theorems/74abc9d8-4460-4445-94aa-b23893ef1981

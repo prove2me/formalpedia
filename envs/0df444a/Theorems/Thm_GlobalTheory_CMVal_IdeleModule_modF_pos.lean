@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_IdeleModule_modF_pos
 -- name    : GlobalTheory.CMVal.IdeleModule.modF_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:17.321998+00:00
 -- url     : https://prove2.me/theorems/c0ac4a74-5047-4991-881d-1d34f53ebcde

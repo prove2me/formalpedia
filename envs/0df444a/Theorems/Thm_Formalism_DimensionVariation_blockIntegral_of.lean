@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_blockIntegral_of
 -- name    : Formalism.DimensionVariation.blockIntegral_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:55.507476+00:00
 -- url     : https://prove2.me/theorems/154ee4c2-f6ed-41ac-a210-dfb4a03a7156

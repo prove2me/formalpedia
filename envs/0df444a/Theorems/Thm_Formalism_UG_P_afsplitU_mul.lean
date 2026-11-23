@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_Formalism_UG_P_afsplitU_mul
+-- name    : Formalism.UG.P.afsplitU_mul
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T14:15:15.900803+00:00
+-- url     : https://prove2.me/theorems/5e9afed8-be69-459e-8ce4-16d12bc7d39d
+-- title:
+--   P: afsplit U mul
+-- statement:
+--   The P construction uses the afsplit U mul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/AfsplitC.lean#L117-L120
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/AfsplitC.lean#L117-L120
+
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AfsplitB
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stabstd
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AfsplitC
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix TensorProduct NumberField IsDedekindDomain
+open Formalism Formalism.UG Formalism.UG.P
+open Formalism.UG
+variable {F : Type} [Field F] [NumberField F] {E : Type} [CommRing E] [Algebra F E]
+  {n : Type} [Fintype n] [DecidableEq n] (v : HeightOneSpectrum (𝓞 F))
+local notation "𝔸" => FiniteAdeleRing (𝓞 F) F
+local notation "Rv" => E ⊗[F] v.adicCompletion F
+local notation "R" => E ⊗[F] 𝔸
+
+theorem Formalism.UG.P.afsplitU_mul (h h' : GL n Rv) (k k' : GL n R) :
+    afsplitU v (h * h') (k * k') = afsplitU v h k * afsplitU v h' k' := by sorry

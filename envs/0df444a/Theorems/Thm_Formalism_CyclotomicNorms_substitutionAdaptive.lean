@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_substitutionAdaptive
 -- name    : Formalism.CyclotomicNorms.substitutionAdaptive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:03:23.605809+00:00
 -- url     : https://prove2.me/theorems/660a269d-a9c4-40b5-9fbf-fc0886bef8d5

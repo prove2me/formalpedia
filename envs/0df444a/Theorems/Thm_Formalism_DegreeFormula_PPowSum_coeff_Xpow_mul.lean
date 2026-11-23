@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PPowSum_coeff_Xpow_mul
 -- name    : Formalism.DegreeFormula.PPowSum.coeff_Xpow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:11.057847+00:00
 -- url     : https://prove2.me/theorems/6bbbad11-93bb-4e62-92ae-b00ac7b709e1

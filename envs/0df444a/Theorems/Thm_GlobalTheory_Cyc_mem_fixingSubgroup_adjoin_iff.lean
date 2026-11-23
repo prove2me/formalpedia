@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_mem_fixingSubgroup_adjoin_iff
 -- name    : GlobalTheory.Cyc.mem_fixingSubgroup_adjoin_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:26.653028+00:00
 -- url     : https://prove2.me/theorems/f27acde7-b6a5-41b6-826c-861d630d69d6

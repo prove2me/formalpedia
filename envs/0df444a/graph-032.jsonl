@@ -48827,7 +48827,7 @@
 {"parent": "NuclearTensor.Membership.Supplement.theorem_7_1", "child": "NuclearTensor_Membership_Supplement_Tasks", "via": ["statement"]}
 {"parent": "FermiHubbardMix_Supplement_productStates", "child": "FermiCap_Gaussian_Majorana", "via": ["statement"]}
 {"parent": "FermiHubbardMix_Supplement_productStates", "child": "FermiHubbardMix_parityOp", "via": ["statement"]}
-{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.lemma_6_4", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Branching", "via": ["statement"]}
+{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.lemma_6_4", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Branching", "via": ["solution", "statement"]}
 {"parent": "APFPaper1.RecordOccupant.Triangle.three_cannot_be_kept", "child": "APFPaper1_RecordOccupant_sections_and_free_moves_Vocabulary", "via": ["solution", "statement"]}
 {"parent": "APFPaper1.RecordOccupant.Triangle.three_cannot_be_kept", "child": "APFPaper1_RecordOccupant", "via": ["solution", "statement"]}
 {"parent": "APFPaper1.RecordOccupant.Triangle.three_cannot_be_kept", "child": "APFB02_EachTakesBothSides", "via": ["solution", "statement"]}

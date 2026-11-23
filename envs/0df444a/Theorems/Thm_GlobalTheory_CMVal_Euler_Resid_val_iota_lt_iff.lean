@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_Resid_val_iota_lt_iff
 -- name    : GlobalTheory.CMVal.Euler.Resid.val_iota_lt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:26.427965+00:00
 -- url     : https://prove2.me/theorems/569e25ed-6ba1-42aa-8f9d-5ccdcccfddb1

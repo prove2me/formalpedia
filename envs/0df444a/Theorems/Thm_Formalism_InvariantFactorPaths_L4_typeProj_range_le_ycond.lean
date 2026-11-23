@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_typeProj_range_le_ycond
 -- name    : Formalism.InvariantFactorPaths.L4.typeProj_range_le_ycond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:43:36.783834+00:00
 -- url     : https://prove2.me/theorems/bb3e4917-770d-4eda-8d6f-63d94c3884aa

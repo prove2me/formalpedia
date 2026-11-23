@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_path_sum_alt
 -- name    : Formalism.DimensionVariation.path_sum_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:56:20.482318+00:00
 -- url     : https://prove2.me/theorems/f9a1552f-265c-4ecf-b456-254cc81df8fd

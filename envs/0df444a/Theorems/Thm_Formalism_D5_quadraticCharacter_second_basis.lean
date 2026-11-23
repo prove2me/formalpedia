@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_quadraticCharacter_second_basis
 -- name    : Formalism.D5.quadraticCharacter_second_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:40.591155+00:00
 -- url     : https://prove2.me/theorems/d9f82081-9de6-4246-bb8d-7ded86113b4b

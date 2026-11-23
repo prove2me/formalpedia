@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PPowSum_permSign_mulSingle_swap_mul
 -- name    : Formalism.DegreeFormula.PPowSum.permSign_mulSingle_swap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:31.749467+00:00
 -- url     : https://prove2.me/theorems/50e2f2e5-3416-40bf-aa76-3d04f29468d2

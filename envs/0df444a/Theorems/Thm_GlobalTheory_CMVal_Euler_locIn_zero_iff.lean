@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_locIn_zero_iff
 -- name    : GlobalTheory.CMVal.Euler.locIn_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:25.623034+00:00
 -- url     : https://prove2.me/theorems/675f37f0-ff7c-4394-beae-80457ac6efda

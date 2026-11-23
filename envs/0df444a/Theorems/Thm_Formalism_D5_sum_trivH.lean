@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_sum_trivH
 -- name    : Formalism.D5.sum_trivH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:10.500798+00:00
 -- url     : https://prove2.me/theorems/5ccbd069-5862-4418-a6c5-d3445ff363c4

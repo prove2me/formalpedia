@@ -62319,7 +62319,7 @@
 {"parent": "OAI.LipschitzHilbert.PacketRepresentation.actual_sharp_band_measurable_restricted_log", "child": "OAIQ090A002", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P25.epr_success_expansion", "child": "QAlgorithms_Papers_Independent_Extend50_P25", "via": ["statement"]}
 {"parent": "FreedmanTail.lemma_3_1_g_strictMono", "child": "FreedmanTail_gFun", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_simple_graph_edge_lower_bound__p2m_e3290709_cdc2_4958_9fab_02f715f97993_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_simple_graph_edge_lower_bound__p2m_e3290709_cdc2_4958_9fab_02f715f97993_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Bridge50.P39.single_letter_iff_tensor_additivity", "child": "QAlgorithms_Papers_Independent_Bridge50_P39", "via": ["statement"]}
 {"parent": "DiazModulus.schwarz_order_at_zero", "child": "DiazModulus", "via": ["solution", "statement"]}
 {"parent": "DerivativeChainPrivate.sixth_sextic_selected_graph", "child": "TeschlQM_Herglotz_borelTransform", "via": ["solution", "statement"]}

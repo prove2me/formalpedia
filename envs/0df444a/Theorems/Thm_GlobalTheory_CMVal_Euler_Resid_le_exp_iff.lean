@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_Resid_le_exp_iff
 -- name    : GlobalTheory.CMVal.Euler.Resid.le_exp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:37.964329+00:00
 -- url     : https://prove2.me/theorems/3bba439c-7ac0-4018-adaa-470a8d796f01

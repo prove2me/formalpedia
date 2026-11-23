@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_PrismSpan_comm
 -- name    : Formalism.CyclotomicNorms.PrismSpan.comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:02:33.821348+00:00
 -- url     : https://prove2.me/theorems/c570abec-f3f3-4381-8ac3-007dab69297e

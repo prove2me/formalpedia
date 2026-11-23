@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiBeforeInitialArrivalPopulationAE
 -- name    : Kyprianou.Ch01.reverseLampertiBeforeInitialArrivalPopulationAE
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:14:11.836787+00:00
 -- url     : https://prove2.me/theorems/05c27d4c-a522-4a53-b034-08f777391cd8

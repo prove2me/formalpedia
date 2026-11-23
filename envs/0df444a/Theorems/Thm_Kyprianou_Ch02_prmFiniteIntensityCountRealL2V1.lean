@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteIntensityCountRealL2V1
 -- name    : Kyprianou.Ch02.prmFiniteIntensityCountRealL2V1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:54:10.930606+00:00
 -- url     : https://prove2.me/theorems/49128f7f-daa8-4e47-b734-3b7569ed731e

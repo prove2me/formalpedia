@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PPowSum_degFl_add
 -- name    : Formalism.DegreeFormula.PPowSum.degFl_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:59.173348+00:00
 -- url     : https://prove2.me/theorems/8b200ca3-bac5-4c2d-ad34-cbd302052f6f

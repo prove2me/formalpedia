@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PPowSum_degFlHomog
 -- name    : Formalism.DegreeFormula.PPowSum.degFlHomog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:16.764796+00:00
 -- url     : https://prove2.me/theorems/a56495d3-74e6-4195-81de-a4f348f304a6

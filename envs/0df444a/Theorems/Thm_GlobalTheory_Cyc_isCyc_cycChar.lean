@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_isCyc_cycChar
 -- name    : GlobalTheory.Cyc.isCyc_cycChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:11.501164+00:00
 -- url     : https://prove2.me/theorems/b932663b-6047-4239-afda-2bc7c0e78cca

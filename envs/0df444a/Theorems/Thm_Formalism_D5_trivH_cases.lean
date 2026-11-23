@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_trivH_cases
 -- name    : Formalism.D5.trivH_cases
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:05.851523+00:00
 -- url     : https://prove2.me/theorems/91e04a9f-9c87-40a5-9422-610dd415e533

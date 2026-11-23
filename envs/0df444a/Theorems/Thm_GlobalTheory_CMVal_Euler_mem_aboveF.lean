@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_mem_aboveF
 -- name    : GlobalTheory.CMVal.Euler.mem_aboveF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:02:23.148451+00:00
 -- url     : https://prove2.me/theorems/fc05a395-330a-47fb-b255-7f2aa1b4cf79

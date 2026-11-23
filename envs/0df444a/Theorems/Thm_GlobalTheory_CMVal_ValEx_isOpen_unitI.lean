@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_isOpen_unitI
 -- name    : GlobalTheory.CMVal.ValEx.isOpen_unitI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:20.356333+00:00
 -- url     : https://prove2.me/theorems/64f90daa-74e9-4e70-839f-ef9510482f11

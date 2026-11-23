@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeOrderEPTAS_corollary_3_3
 -- name    : FreeOrderEPTAS.corollary_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:27:34.174953+00:00
 -- url     : https://prove2.me/theorems/61d9bedf-30a6-4628-b461-4a63695329d3

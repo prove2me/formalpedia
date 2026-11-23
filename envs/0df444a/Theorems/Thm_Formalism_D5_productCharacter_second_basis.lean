@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_productCharacter_second_basis
 -- name    : Formalism.D5.productCharacter_second_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:38.950802+00:00
 -- url     : https://prove2.me/theorems/cb42ca1b-b93e-4e38-b0a6-518b72ff142d

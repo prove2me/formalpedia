@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_exists_primitiveRoot_Om
 -- name    : GlobalTheory.Cyc.exists_primitiveRoot_Om
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:44.081794+00:00
 -- url     : https://prove2.me/theorems/45b182f0-ce2a-4b5f-a4cc-63217a7e7a53

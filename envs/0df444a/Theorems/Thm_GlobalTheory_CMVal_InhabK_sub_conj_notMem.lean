@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_sub_conj_notMem
 -- name    : GlobalTheory.CMVal.InhabK.sub_conj_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:27.59782+00:00
 -- url     : https://prove2.me/theorems/69204365-a69b-4e85-947c-aee0d19c6039

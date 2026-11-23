@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_exists_place
 -- name    : GlobalTheory.CMVal.InhabK.exists_place
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:52.521135+00:00
 -- url     : https://prove2.me/theorems/b8945eee-587a-408f-ab2d-d0a343e987d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_term_mul
 -- name    : GlobalTheory.CMVal.term_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:57.589278+00:00
 -- url     : https://prove2.me/theorems/c3fa6230-a17c-4bdb-98fa-119a54c165bf

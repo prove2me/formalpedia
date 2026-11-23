@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_formalSeriesValueAtTwoPoints_genericPoints
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.formalSeriesValueAtTwoPoints_genericPoints
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:06:58.458795+00:00
 -- url     : https://prove2.me/theorems/17fb6f5f-08e8-4bc9-9486-c951b775bb78

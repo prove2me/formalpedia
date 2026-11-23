@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_zero_of_pd
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.zero_of_pd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:39.197829+00:00
 -- url     : https://prove2.me/theorems/43cfe4a5-cbd2-410b-bfde-75a8e24f3ec2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeOrderEPTAS_theorem_3_1
 -- name    : FreeOrderEPTAS.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:28:31.71104+00:00
 -- url     : https://prove2.me/theorems/e8d4bbe8-0253-43f4-a7e1-af171faacfe4

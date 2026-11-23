@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_lattice_gluing
 -- name    : Formalism.DivisionValues.lattice_gluing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:08:07.714274+00:00
 -- url     : https://prove2.me/theorems/3af080c6-ba2b-46d4-a53e-c0d4d017af2a

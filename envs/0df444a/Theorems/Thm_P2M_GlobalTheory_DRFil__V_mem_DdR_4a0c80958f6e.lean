@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DRFil__V_mem_DdR_4a0c80958f6e
 -- name    : P2M_GlobalTheory_DRFil__V_mem_DdR_4a0c80958f6e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:06:27.994805+00:00
 -- url     : https://prove2.me/theorems/a079d898-0728-46bb-a187-47976c9728f0

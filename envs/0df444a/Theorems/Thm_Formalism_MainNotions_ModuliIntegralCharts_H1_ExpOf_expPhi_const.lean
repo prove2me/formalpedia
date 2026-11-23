@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpOf_expPhi_const
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpOf.expPhi_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:01:46.676826+00:00
 -- url     : https://prove2.me/theorems/21d0f0dc-e632-44a9-b53d-f9925c3f1232

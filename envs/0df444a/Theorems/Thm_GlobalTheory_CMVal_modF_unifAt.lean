@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_modF_unifAt
 -- name    : GlobalTheory.CMVal.modF_unifAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:54.133627+00:00
 -- url     : https://prove2.me/theorems/6e850fec-ba3d-41c5-9db5-9e734683ca0e

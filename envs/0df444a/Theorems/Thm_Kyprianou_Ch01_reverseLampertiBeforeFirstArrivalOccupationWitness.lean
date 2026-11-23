@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiBeforeFirstArrivalOccupationWitness
 -- name    : Kyprianou.Ch01.reverseLampertiBeforeFirstArrivalOccupationWitness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T14:03:36.581799+00:00
 -- url     : https://prove2.me/theorems/82d6d7ca-41f0-4077-8451-9dd301fdca9e

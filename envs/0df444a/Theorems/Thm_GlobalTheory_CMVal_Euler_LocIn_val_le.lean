@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_LocIn_val_le
 -- name    : GlobalTheory.CMVal.Euler.LocIn.val_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:02:13.876242+00:00
 -- url     : https://prove2.me/theorems/73c84362-2921-4c07-a592-4ae6a2f7344b

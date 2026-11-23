@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_finIdele_mem
 -- name    : GlobalTheory.CMVal.ValEx.finIdele_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:42.182156+00:00
 -- url     : https://prove2.me/theorems/d301a4db-7828-4aab-a8ff-d26594a519d7

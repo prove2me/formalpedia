@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNoArrivalOnePopulationIndicator
 -- name    : Kyprianou.Ch01.reverseLampertiNoArrivalOnePopulationIndicator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:43:46.45274+00:00
 -- url     : https://prove2.me/theorems/39962367-5b2a-4fc9-b36e-aaa16d805596

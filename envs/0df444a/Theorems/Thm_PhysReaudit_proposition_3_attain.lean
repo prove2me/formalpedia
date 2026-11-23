@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhysReaudit_proposition_3_attain
 -- name    : PhysReaudit.proposition_3_attain
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:36.471882+00:00
 -- url     : https://prove2.me/theorems/90138573-07d9-49fc-b1f2-2ec9bb916e3a

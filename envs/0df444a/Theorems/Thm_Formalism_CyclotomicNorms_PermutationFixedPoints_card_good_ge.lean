@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_PermutationFixedPoints_card_good_ge
 -- name    : Formalism.CyclotomicNorms.PermutationFixedPoints.card_good_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:55:13.941794+00:00
 -- url     : https://prove2.me/theorems/53dd96ce-a510-43f0-9bef-54108856519b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PPowSum_sum_eq_zero_of_anti
 -- name    : Formalism.DegreeFormula.PPowSum.sum_eq_zero_of_anti
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:52.005368+00:00
 -- url     : https://prove2.me/theorems/b6e558c1-e048-4002-b992-4eff9ccee53f

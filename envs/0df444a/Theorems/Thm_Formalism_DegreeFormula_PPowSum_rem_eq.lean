@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PPowSum_rem_eq
 -- name    : Formalism.DegreeFormula.PPowSum.rem_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:33.801995+00:00
 -- url     : https://prove2.me/theorems/36ab9921-90b0-4d4a-ab28-b1054171ccb7

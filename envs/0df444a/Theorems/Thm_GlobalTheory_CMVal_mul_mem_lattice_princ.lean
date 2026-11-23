@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_mul_mem_lattice_princ
 -- name    : GlobalTheory.CMVal.mul_mem_lattice_princ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:10.986588+00:00
 -- url     : https://prove2.me/theorems/f7c9b1ca-30be-4908-9027-4ca7ccc3bc43

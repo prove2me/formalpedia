@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_sm_comm
 -- name    : GlobalTheory.DRFil.sm_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:03:09.2418+00:00
 -- url     : https://prove2.me/theorems/dbf41464-807e-49b4-b359-4a0ca90a18fb

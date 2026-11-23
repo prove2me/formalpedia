@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_OperatorNormFrames_prod_filter_succ
 -- name    : Formalism.DivisionValues.OperatorNormFrames.prod_filter_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:59:55.384599+00:00
 -- url     : https://prove2.me/theorems/2b1ccb0e-badf-4864-a81f-dac0c1030972

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_CycleTypeFiniteOrder_mem_cycleType_of_factor
 -- name    : Formalism.CyclotomicNorms.CycleTypeFiniteOrder.mem_cycleType_of_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:53:51.009958+00:00
 -- url     : https://prove2.me/theorems/6eaf0e20-2a5f-40bb-9378-67c8b867db04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PermutationPointDegree_permExp_inj
 -- name    : Formalism.DegreeFormula.PermutationPointDegree.permExp_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:34.984062+00:00
 -- url     : https://prove2.me/theorems/91f59fc2-947c-41ea-864f-e546463e6c80

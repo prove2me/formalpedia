@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmSimpleMarkFiniteWindowIntegralAETendstoV1
 -- name    : Kyprianou.Ch02.prmSimpleMarkFiniteWindowIntegralAETendstoV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:53:05.419798+00:00
 -- url     : https://prove2.me/theorems/df4af996-de0c-42a0-9faa-3f0e5ef31572

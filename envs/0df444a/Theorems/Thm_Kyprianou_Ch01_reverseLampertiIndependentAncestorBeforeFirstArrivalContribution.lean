@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiIndependentAncestorBeforeFirstArrivalContribution
 -- name    : Kyprianou.Ch01.reverseLampertiIndependentAncestorBeforeFirstArrivalContribution
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T13:07:58.761411+00:00
 -- url     : https://prove2.me/theorems/f30d5b59-e350-468e-8209-be8c4050873e

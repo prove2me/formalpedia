@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PPowSum_slice
 -- name    : Formalism.DegreeFormula.PPowSum.slice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:43.465139+00:00
 -- url     : https://prove2.me/theorems/881999de-cbed-4ad4-95df-48a54dff03e7
