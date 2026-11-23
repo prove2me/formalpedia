@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Dict_law_eq
 -- name    : Formalism.L2.Th1.C.Dict.law_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:55.709661+00:00
 -- url     : https://prove2.me/theorems/d2531c7a-9ade-4327-9190-ccf6f027d61e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_separableRank_ofReal
 -- name    : KernelRank.separableRank_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:28:24.002748+00:00
 -- url     : https://prove2.me/theorems/39b88667-1711-4479-8d6d-2577341fc589

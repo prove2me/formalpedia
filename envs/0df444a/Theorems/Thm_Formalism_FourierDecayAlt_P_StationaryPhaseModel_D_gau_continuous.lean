@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_D_gau_continuous
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.D_gau_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:56.993634+00:00
 -- url     : https://prove2.me/theorems/f2674bb4-d29a-41ed-8019-42a97d136d33

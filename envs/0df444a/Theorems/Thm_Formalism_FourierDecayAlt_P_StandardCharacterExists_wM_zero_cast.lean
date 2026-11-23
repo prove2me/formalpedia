@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StandardCharacterExists_wM_zero_cast
 -- name    : Formalism.FourierDecayAlt.P.StandardCharacterExists.wM_zero_cast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:28.550513+00:00
 -- url     : https://prove2.me/theorems/7c7a1ab6-7cee-43bd-9a40-b5edde1d378a

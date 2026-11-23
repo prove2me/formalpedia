@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_aeval_shifted_derivative_eq_zero_iff
 -- name    : KernelRank.aeval_shifted_derivative_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:10:27.887883+00:00
 -- url     : https://prove2.me/theorems/a14d7dac-2f5f-4293-af45-374a140e45b5

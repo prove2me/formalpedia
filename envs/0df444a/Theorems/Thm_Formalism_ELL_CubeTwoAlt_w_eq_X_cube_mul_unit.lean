@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeTwoAlt_w_eq_X_cube_mul_unit
 -- name    : Formalism.ELL.CubeTwoAlt.w_eq_X_cube_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:39.743807+00:00
 -- url     : https://prove2.me/theorems/3be2de79-cfed-40ef-8198-f80389352509

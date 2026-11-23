@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_iteratedDerivWithin_sum_expPoly
 -- name    : KernelRank.iteratedDerivWithin_sum_expPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:11:02.498806+00:00
 -- url     : https://prove2.me/theorems/aa72ae1a-4bec-4c7f-a352-670f1cf09295

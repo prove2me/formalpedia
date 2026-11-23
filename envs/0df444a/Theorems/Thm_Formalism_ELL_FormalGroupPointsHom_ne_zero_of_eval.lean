@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_ne_zero_of_eval
 -- name    : Formalism.ELL.FormalGroupPointsHom.ne_zero_of_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:00.624784+00:00
 -- url     : https://prove2.me/theorems/a35da346-e292-4457-ba80-7af8044f123d

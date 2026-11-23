@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_borderTotalCost_eq_totalCost_of_forall_im_eq_zero
 -- name    : KernelRank.borderTotalCost_eq_totalCost_of_forall_im_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:21:47.853919+00:00
 -- url     : https://prove2.me/theorems/bddb9022-a520-4121-8cbc-95d0ceb9700b

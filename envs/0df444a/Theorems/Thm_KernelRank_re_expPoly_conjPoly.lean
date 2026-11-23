@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_re_expPoly_conjPoly
 -- name    : KernelRank.re_expPoly_conjPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:01:47.601371+00:00
 -- url     : https://prove2.me/theorems/aff3c507-cf88-4968-86c2-d2fd45ffc475

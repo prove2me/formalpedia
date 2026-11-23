@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassChordSeries_constantCoeff_chordCoeffQuadratic
 -- name    : Formalism.ELL.WeierstrassChordSeries.constantCoeff_chordCoeffQuadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:15:11.419718+00:00
 -- url     : https://prove2.me/theorems/781a77c3-03e6-4dfd-8794-35a172ac06eb

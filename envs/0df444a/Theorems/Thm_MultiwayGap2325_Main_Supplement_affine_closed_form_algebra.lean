@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiwayGap2325_Main_Supplement_affine_closed_form_algebra
 -- name    : MultiwayGap2325.Main.Supplement.affine_closed_form_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-22T23:04:24.136054+00:00
 -- url     : https://prove2.me/theorems/ace1715f-d414-4f7a-9025-a00606d17527

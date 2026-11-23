@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_realExpForm_rank_ge
 -- name    : KernelRank.realExpForm_rank_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:20:16.519153+00:00
 -- url     : https://prove2.me/theorems/36600c5e-4764-456c-9a95-1ea89802b171

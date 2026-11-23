@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_iteratedDerivWithin_operatorOrbit
 -- name    : KernelRank.iteratedDerivWithin_operatorOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:07:25.263921+00:00
 -- url     : https://prove2.me/theorems/4ec3745c-dec4-4d0d-a4e3-4cb1540f9ffe

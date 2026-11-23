@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_eq_zero_of_shiftDeriv_eq_zero
 -- name    : KernelRank.eq_zero_of_shiftDeriv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:59:58.316526+00:00
 -- url     : https://prove2.me/theorems/e2d64a4f-6545-42fb-84cf-a456281e4856

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WhittakerVanishingImpliesZero_cutM_contDiff
 -- name    : Formalism.FourierDecayAlt.P.WhittakerVanishingImpliesZero.cutM_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:00:50.015801+00:00
 -- url     : https://prove2.me/theorems/2f97b69d-c089-4675-bbce-ac6de58a06b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassChordSeries_constantCoeff_formalSum
 -- name    : Formalism.ELL.WeierstrassChordSeries.constantCoeff_formalSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:11:52.093812+00:00
 -- url     : https://prove2.me/theorems/074655d1-6e29-4e74-b0e9-545c58084ae2

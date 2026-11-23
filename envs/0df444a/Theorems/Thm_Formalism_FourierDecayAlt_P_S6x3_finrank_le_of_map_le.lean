@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x3_finrank_le_of_map_le
 -- name    : Formalism.FourierDecayAlt.P.S6x3.finrank_le_of_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:06.216507+00:00
 -- url     : https://prove2.me/theorems/4952238d-e199-49e0-8784-2e39899c1156

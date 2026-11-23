@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_D_cut_compact
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.D_cut_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:49.414536+00:00
 -- url     : https://prove2.me/theorems/119cb601-5508-4099-9207-717303de7480

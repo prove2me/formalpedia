@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PDeriv_eventually_notMem
 -- name    : Formalism.L2.Th1.F.PDeriv.eventually_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:34.551406+00:00
 -- url     : https://prove2.me/theorems/7a83085d-cb67-40aa-8f6c-643aea2a007b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_multiTotalCost_eq_borderTotalCost_add
 -- name    : KernelRank.multiTotalCost_eq_borderTotalCost_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:26:13.958805+00:00
 -- url     : https://prove2.me/theorems/bd11901b-2471-4a63-81c0-b0273ce9fdac

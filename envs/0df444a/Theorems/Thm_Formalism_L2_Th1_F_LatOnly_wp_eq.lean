@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LatOnly_wp_eq
 -- name    : Formalism.L2.Th1.F.LatOnly.wp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:10.785417+00:00
 -- url     : https://prove2.me/theorems/ed3e86b6-1a6b-44e9-b2a0-9eb271ac5dcf

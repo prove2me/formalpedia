@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x3_sign_sq
 -- name    : Formalism.FourierDecayAlt.P.S6x3.sign_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:19.27715+00:00
 -- url     : https://prove2.me/theorems/08e9cad1-1951-4d8a-a7ac-a45d5505a348

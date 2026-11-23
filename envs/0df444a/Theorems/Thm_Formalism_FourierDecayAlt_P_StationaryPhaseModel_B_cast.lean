@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_B_cast
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.B_cast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:38.112053+00:00
 -- url     : https://prove2.me/theorems/ac617b51-9931-4d29-b3d3-7a319a8e4d81

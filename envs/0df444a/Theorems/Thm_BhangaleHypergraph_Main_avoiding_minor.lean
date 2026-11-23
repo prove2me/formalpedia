@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BhangaleHypergraph_Main_avoiding_minor
 -- name    : BhangaleHypergraph.Main.avoiding_minor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:06:06.713464+00:00
 -- url     : https://prove2.me/theorems/524d1227-ae5b-44ac-8bd4-2229f78e958d

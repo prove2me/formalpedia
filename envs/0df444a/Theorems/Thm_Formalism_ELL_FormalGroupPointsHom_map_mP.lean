@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_map_mP
 -- name    : Formalism.ELL.FormalGroupPointsHom.map_mP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:27:52.638164+00:00
 -- url     : https://prove2.me/theorems/d79b4860-9be5-41a0-931a-32e3f80e0916

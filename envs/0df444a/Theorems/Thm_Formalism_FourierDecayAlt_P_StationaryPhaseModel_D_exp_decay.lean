@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_D_exp_decay
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.D_exp_decay
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:50.941742+00:00
 -- url     : https://prove2.me/theorems/23a37eeb-dd0c-48ac-965c-b0f1c2eb00a5

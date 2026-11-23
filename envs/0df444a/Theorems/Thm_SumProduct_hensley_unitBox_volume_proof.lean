@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_hensley_unitBox_volume_proof
 -- name    : SumProduct.hensley_unitBox_volume_proof
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:57:34.804404+00:00
 -- url     : https://prove2.me/theorems/be9f0b7c-bc69-49a6-bea4-b68fb701f1fe

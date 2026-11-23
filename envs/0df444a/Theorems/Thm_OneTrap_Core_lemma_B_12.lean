@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OneTrap_Core_lemma_B_12
 -- name    : OneTrap.Core.lemma_B_12
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:44:19.679209+00:00
 -- url     : https://prove2.me/theorems/0a45989e-a4e2-4d15-b267-e83eb831ff88

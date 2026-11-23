@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BhangaleHypergraph_Main_categorical_product
 -- name    : BhangaleHypergraph.Main.categorical_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:06:01.823632+00:00
 -- url     : https://prove2.me/theorems/222ded8b-97bc-4aa3-895e-9675a04b2931

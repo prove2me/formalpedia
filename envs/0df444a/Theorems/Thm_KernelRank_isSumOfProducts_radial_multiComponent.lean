@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_isSumOfProducts_radial_multiComponent
 -- name    : KernelRank.isSumOfProducts_radial_multiComponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:18:38.12641+00:00
 -- url     : https://prove2.me/theorems/653fa08b-aa35-402d-888c-bacf48690171

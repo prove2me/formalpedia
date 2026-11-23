@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x3_trace_eq
 -- name    : Formalism.FourierDecayAlt.P.S6x3.trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:15.952803+00:00
 -- url     : https://prove2.me/theorems/b5b598ce-f737-41de-946e-3ee532a584f6

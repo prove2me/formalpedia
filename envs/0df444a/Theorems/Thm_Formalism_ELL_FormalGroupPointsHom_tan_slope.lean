@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_tan_slope
 -- name    : Formalism.ELL.FormalGroupPointsHom.tan_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:04.356712+00:00
 -- url     : https://prove2.me/theorems/0b9ecfe0-12cb-47f0-ac94-3c8281d8f188

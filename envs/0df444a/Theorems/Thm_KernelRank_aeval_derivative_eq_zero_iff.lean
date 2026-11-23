@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_aeval_derivative_eq_zero_iff
 -- name    : KernelRank.aeval_derivative_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:09:46.483643+00:00
 -- url     : https://prove2.me/theorems/166cf37f-904c-4797-9cfd-552930e2b2f6

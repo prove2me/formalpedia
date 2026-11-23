@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x5_scalInv_apply
 -- name    : Formalism.FourierDecayAlt.P.S6x5.scalInv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:07.020498+00:00
 -- url     : https://prove2.me/theorems/ea4aedb8-e563-4d90-aaca-d971952a0c67

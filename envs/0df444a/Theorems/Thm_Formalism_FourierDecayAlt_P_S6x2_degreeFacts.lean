@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x2_degreeFacts
 -- name    : Formalism.FourierDecayAlt.P.S6x2.degreeFacts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:27:58.218364+00:00
 -- url     : https://prove2.me/theorems/1a6c6d9b-5f7f-48ba-8a9a-249ae9c44dbf

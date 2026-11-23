@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_coeff_revHassePoly_mul_prod_truncExpPoly
 -- name    : KernelRank.coeff_revHassePoly_mul_prod_truncExpPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:09:39.057095+00:00
 -- url     : https://prove2.me/theorems/381b03fe-2b68-495b-bb9a-978a1c729ba6

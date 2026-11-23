@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_weierstrassPolynomial_eq_zero_of_equation
 -- name    : Formalism.ELL.FormalGroupPointsHom.weierstrassPolynomial_eq_zero_of_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:12.929125+00:00
 -- url     : https://prove2.me/theorems/b4e52b7e-47cc-4bde-94d6-7ae5ab8cfbdd

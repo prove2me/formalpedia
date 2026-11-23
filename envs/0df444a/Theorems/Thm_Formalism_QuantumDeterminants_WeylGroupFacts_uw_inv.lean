@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WeylGroupFacts_uw_inv
 -- name    : Formalism.QuantumDeterminants.WeylGroupFacts.uw_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:55:41.398034+00:00
 -- url     : https://prove2.me/theorems/17d206c3-fc0b-4da1-862c-6ffb16be869b

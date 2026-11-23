@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_theorem_1_2
 -- name    : SumProduct.theorem_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:05:06.801464+00:00
 -- url     : https://prove2.me/theorems/5ce2dfc5-7c1a-4105-917b-16e07a44c3ef

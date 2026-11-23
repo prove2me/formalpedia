@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeTwoAlt_invSer_subst
 -- name    : Formalism.ELL.CubeTwoAlt.invSer_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:39.82918+00:00
 -- url     : https://prove2.me/theorems/b16ebca9-d16f-4806-9aea-901d5cba7aeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_exp_smul_apply_of_genEigen
 -- name    : KernelRank.exp_smul_apply_of_genEigen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:12:12.895802+00:00
 -- url     : https://prove2.me/theorems/95fe5f1f-eb56-47d8-94b1-0ec5e6da206d

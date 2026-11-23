@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_fadd_eq_substMv
 -- name    : Formalism.L2.Th1.C.Pts.fadd_eq_substMv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:13:23.904907+00:00
 -- url     : https://prove2.me/theorems/bd97d149-d2ff-448e-9326-07c1704f9dbf

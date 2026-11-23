@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Experiments_NSA_exists_eq_exp_of_semigroup
 -- name    : Experiments.NSA.exists_eq_exp_of_semigroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:26:16.583937+00:00
 -- url     : https://prove2.me/theorems/d4368ed8-b933-4e40-ab7c-142d0825da5e

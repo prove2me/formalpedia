@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_c_fibre
 -- name    : Formalism.FourierDecayAlt.P.S3x6.c_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:23:52.53075+00:00
 -- url     : https://prove2.me/theorems/1587218a-8dac-4e0c-87d9-8c048c079eb0

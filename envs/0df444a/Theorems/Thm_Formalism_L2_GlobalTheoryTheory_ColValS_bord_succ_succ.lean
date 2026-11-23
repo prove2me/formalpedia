@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_ColValS_bord_succ_succ
 -- name    : Formalism.L2.GlobalTheoryTheory.ColValS.bord_succ_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:18:58.672805+00:00
 -- url     : https://prove2.me/theorems/bf1f49b5-3bb4-427b-9db1-8329b618aac7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_exists_charpoly_differential_annihilator
 -- name    : KernelRank.exists_charpoly_differential_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:07:22.014879+00:00
 -- url     : https://prove2.me/theorems/380bc234-7dda-4e74-864b-55825a05fce9

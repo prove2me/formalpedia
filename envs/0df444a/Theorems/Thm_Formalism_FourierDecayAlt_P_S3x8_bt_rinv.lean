@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x8_bt_rinv
 -- name    : Formalism.FourierDecayAlt.P.S3x8.bt_rinv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:26:01.1312+00:00
 -- url     : https://prove2.me/theorems/864dd41c-b374-479f-8749-3a84b2ef3925

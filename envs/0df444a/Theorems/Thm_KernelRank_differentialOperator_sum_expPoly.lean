@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_differentialOperator_sum_expPoly
 -- name    : KernelRank.differentialOperator_sum_expPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:11:07.81352+00:00
 -- url     : https://prove2.me/theorems/6428f07c-d9b1-40f1-aa6d-7a7f31cd7d1a

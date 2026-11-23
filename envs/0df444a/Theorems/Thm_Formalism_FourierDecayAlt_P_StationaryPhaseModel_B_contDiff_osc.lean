@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_B_contDiff_osc
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.B_contDiff_osc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:35.578479+00:00
 -- url     : https://prove2.me/theorems/abb47385-ae5f-4948-8904-ae23f565a5f4

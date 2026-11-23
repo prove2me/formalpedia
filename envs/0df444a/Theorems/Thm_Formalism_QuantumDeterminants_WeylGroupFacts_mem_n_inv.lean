@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WeylGroupFacts_mem_n_inv
 -- name    : Formalism.QuantumDeterminants.WeylGroupFacts.mem_n_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:57.160802+00:00
 -- url     : https://prove2.me/theorems/27bef0c2-4bd5-4c9a-bd2c-5ee45cd77960

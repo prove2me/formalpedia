@@ -94809,7 +94809,7 @@
 {"parent": "AvramDividend.Classical.avram_ga_a60_original_zerojump_gaussian_centered_increment_positive_mgf_exact", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bva_a22_original_finitecap_arbitrary_cofinal_spatial_upper_band_tendsto_cap_without_rate", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bva_a22_original_finitecap_arbitrary_cofinal_spatial_upper_band_tendsto_cap_without_rate", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "ITPIRPreproc.MatchVec.polynomial_indexed_computability", "child": "ITPIRPreproc_MatchVec_PolynomialParameters", "via": ["statement"]}
+{"parent": "ITPIRPreproc.MatchVec.polynomial_indexed_computability", "child": "ITPIRPreproc_MatchVec_PolynomialParameters", "via": ["solution", "statement"]}
 {"parent": "OAIQ244Duke051", "child": "OAIQ244Duke037", "via": ["statement"]}
 {"parent": "OAIQ244Duke051", "child": "OAIQ244Duke040", "via": ["statement"]}
 {"parent": "OAIQ244Duke051", "child": "OAIQ244Duke042", "via": ["statement"]}
@@ -95438,7 +95438,7 @@
 {"parent": "OAI.KadisonKastler.uniform_prepared_matrix_strong_stability", "child": "Q260K034", "via": ["solution", "statement"]}
 {"parent": "StabilityDichotomies.Solvability.thinning_algorithm_approximation", "child": "StabilityDichotomies_Approximability_Thinning", "via": ["statement"]}
 {"parent": "row23_rh_sample_batch_0240_20261114", "child": "ArdaRS_Band", "via": ["statement"]}
-{"parent": "IntegerRootsFN.Main.elementary_candidate_machine", "child": "IntegerRootsFN_Main_CandidatePipeline", "via": ["statement"]}
+{"parent": "IntegerRootsFN.Main.elementary_candidate_machine", "child": "IntegerRootsFN_Main_CandidatePipeline", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bva_a22_positive_probability_source_event_forbids_spatial_L1_zero", "child": "AvramDividend.Classical.avram_bva_a22_persistent_integrable_positive_witness_forbids_spatial_L1_zero", "via": ["solution", "statement"]}
 {"parent": "RPLib_S3_HypParEB", "child": "RPLib_S3_HypParEA", "via": ["statement"]}
 {"parent": "RPLib_S3_HypParEB", "child": "RPLib_S3_HypParT", "via": ["statement"]}

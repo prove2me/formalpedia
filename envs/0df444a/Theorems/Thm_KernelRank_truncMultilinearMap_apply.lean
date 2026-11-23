@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_truncMultilinearMap_apply
 -- name    : KernelRank.truncMultilinearMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:15:24.057795+00:00
 -- url     : https://prove2.me/theorems/6bef286a-6197-43bb-91dc-abb738bde360

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Lent_eq_zero_iff
 -- name    : PI.EF.Lent_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:27:05.963083+00:00
 -- url     : https://prove2.me/theorems/dff0e179-3d2f-4560-b843-3895d68ee776

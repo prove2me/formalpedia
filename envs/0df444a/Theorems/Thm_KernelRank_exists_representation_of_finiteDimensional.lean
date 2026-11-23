@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_exists_representation_of_finiteDimensional
 -- name    : KernelRank.exists_representation_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:12:22.054497+00:00
 -- url     : https://prove2.me/theorems/5fff1269-d9c1-4395-a683-a918cb3e945d

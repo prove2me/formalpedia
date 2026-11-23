@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_weq_C
 -- name    : Formalism.ELL.FormalGroupPointsHom.weq_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:27:50.009276+00:00
 -- url     : https://prove2.me/theorems/38825ddc-722a-4b3c-8ed0-005d8cee27cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_sum_eq_sum_upperHalf
 -- name    : KernelRank.sum_eq_sum_upperHalf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:01:47.695712+00:00
 -- url     : https://prove2.me/theorems/53acff6b-d221-49de-92d8-053a8c3e5f1b

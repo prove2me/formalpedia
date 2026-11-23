@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_single_complex_rank_ge
 -- name    : KernelRank.single_complex_rank_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:18:58.300839+00:00
 -- url     : https://prove2.me/theorems/002891aa-06d2-42ea-98e5-650e65f5a9dd

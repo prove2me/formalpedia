@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_ctr_re
 -- name    : PI.EF.ctr_re
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:08.081632+00:00
 -- url     : https://prove2.me/theorems/1f219f5e-0362-4a54-926b-7a490e4509da

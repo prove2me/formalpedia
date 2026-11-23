@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_D_gau_scale
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.D_gau_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:57.696806+00:00
 -- url     : https://prove2.me/theorems/c426e42e-9d4c-4520-aa6b-a3588c1993fe

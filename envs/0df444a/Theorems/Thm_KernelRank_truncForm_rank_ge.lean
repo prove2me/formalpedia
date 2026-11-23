@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_truncForm_rank_ge
 -- name    : KernelRank.truncForm_rank_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:14:20.895266+00:00
 -- url     : https://prove2.me/theorems/cb6f7451-85aa-4223-9f4f-bf0961dda55c

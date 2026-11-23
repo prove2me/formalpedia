@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_lattice_count_mult
 -- name    : SumProduct.lattice_count_mult
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T00:59:52.124329+00:00
 -- url     : https://prove2.me/theorems/cb49de64-a8b4-47df-ad0c-6108b3fd03c5

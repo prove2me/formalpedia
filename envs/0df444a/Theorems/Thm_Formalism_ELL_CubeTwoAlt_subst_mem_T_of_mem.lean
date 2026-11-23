@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeTwoAlt_subst_mem_T_of_mem
 -- name    : Formalism.ELL.CubeTwoAlt.subst_mem_T_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:55.643066+00:00
 -- url     : https://prove2.me/theorems/c2e32869-7bd6-4078-99f9-1f1bb27cf142

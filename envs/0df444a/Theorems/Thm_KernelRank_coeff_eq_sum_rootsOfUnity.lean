@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_coeff_eq_sum_rootsOfUnity
 -- name    : KernelRank.coeff_eq_sum_rootsOfUnity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:12:52.022431+00:00
 -- url     : https://prove2.me/theorems/7da25c75-f666-43c4-bd2d-4cb147de3b32

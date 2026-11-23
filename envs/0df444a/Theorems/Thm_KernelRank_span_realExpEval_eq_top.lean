@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_span_realExpEval_eq_top
 -- name    : KernelRank.span_realExpEval_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:20:41.944478+00:00
 -- url     : https://prove2.me/theorems/c5b2c921-01b2-4666-a263-fd6078604fe7

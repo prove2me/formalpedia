@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_coeff_revHassePoly
 -- name    : KernelRank.coeff_revHassePoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:13:02.63048+00:00
 -- url     : https://prove2.me/theorems/a57a539f-c0a3-4689-b443-b81b0e80e87c

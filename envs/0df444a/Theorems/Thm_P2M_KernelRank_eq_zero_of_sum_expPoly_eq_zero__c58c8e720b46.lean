@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_KernelRank_eq_zero_of_sum_expPoly_eq_zero__c58c8e720b46
 -- name    : P2M_KernelRank_eq_zero_of_sum_expPoly_eq_zero__c58c8e720b46
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:50:43.766452+00:00
 -- url     : https://prove2.me/theorems/475740e6-a1ce-44c5-838a-87c6b7ff7aea

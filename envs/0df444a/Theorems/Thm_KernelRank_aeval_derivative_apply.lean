@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_aeval_derivative_apply
 -- name    : KernelRank.aeval_derivative_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:09:59.618491+00:00
 -- url     : https://prove2.me/theorems/dfc0fea6-f7f2-4f7c-b5a7-ae36d40bfa46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodLatticeBasisLemmas_isOpen_compl
 -- name    : Formalism.L2.Th1.F.PeriodLatticeBasisLemmas.isOpen_compl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:46.828346+00:00
 -- url     : https://prove2.me/theorems/614fec16-e3f9-4f3f-a26d-bafdec1a3d0b

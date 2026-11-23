@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_eval_ofReal_conjPoly
 -- name    : KernelRank.eval_ofReal_conjPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:01:21.02711+00:00
 -- url     : https://prove2.me/theorems/8ceee293-54ca-4aff-8580-b0d281437bc1

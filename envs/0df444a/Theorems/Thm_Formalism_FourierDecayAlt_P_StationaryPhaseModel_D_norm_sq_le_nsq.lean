@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_D_norm_sq_le_nsq
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.D_norm_sq_le_nsq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:53.156404+00:00
 -- url     : https://prove2.me/theorems/4fa994a3-66e4-472d-b46a-dd4a93c3c8ad

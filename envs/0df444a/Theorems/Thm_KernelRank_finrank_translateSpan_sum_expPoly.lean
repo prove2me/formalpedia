@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_finrank_translateSpan_sum_expPoly
 -- name    : KernelRank.finrank_translateSpan_sum_expPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:11:59.212327+00:00
 -- url     : https://prove2.me/theorems/f3227ab7-ceee-4483-bd31-3ae2fec8892d

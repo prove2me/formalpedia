@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_eq_zero_of_eval_ofReal_eq_zero
 -- name    : KernelRank.eq_zero_of_eval_ofReal_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:00:53.778291+00:00
 -- url     : https://prove2.me/theorems/006e1de8-5641-4548-8ab8-3d02a035589e

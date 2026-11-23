@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeyondGomoryHu_Units_claim_4_7
 -- name    : BeyondGomoryHu.Units.claim_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T06:50:10.314431+00:00
 -- url     : https://prove2.me/theorems/9e625260-fc33-4447-92c4-d5e4ff8918a9

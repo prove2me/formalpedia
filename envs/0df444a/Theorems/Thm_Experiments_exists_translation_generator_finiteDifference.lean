@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Experiments_exists_translation_generator_finiteDifference
 -- name    : Experiments.exists_translation_generator_finiteDifference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:29:40.789948+00:00
 -- url     : https://prove2.me/theorems/d47a6a53-c365-478e-b450-ad1dc822a0bf

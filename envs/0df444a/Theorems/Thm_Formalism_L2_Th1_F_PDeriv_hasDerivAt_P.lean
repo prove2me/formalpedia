@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PDeriv_hasDerivAt_P
 -- name    : Formalism.L2.Th1.F.PDeriv.hasDerivAt_P
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:56.391802+00:00
 -- url     : https://prove2.me/theorems/9a3d06d7-6318-43b7-8342-276aca3663f3

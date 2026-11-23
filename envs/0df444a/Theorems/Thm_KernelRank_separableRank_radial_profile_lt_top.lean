@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_separableRank_radial_profile_lt_top
 -- name    : KernelRank.separableRank_radial_profile_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:18:46.842607+00:00
 -- url     : https://prove2.me/theorems/4099acca-5dc8-4327-a244-b8db54cebb6b

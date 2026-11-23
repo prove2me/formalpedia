@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_re_coeff_prod_eq_sum_re
 -- name    : KernelRank.re_coeff_prod_eq_sum_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:18:47.633849+00:00
 -- url     : https://prove2.me/theorems/e6fef0d0-95de-4955-af64-46901a6cc10f

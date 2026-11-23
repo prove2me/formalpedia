@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CyclotomicRankTwoSVP_Main_offset_separation
 -- name    : CyclotomicRankTwoSVP.Main.offset_separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:52:55.021215+00:00
 -- url     : https://prove2.me/theorems/48a9a812-2c3e-4b30-a14f-181b984f9656

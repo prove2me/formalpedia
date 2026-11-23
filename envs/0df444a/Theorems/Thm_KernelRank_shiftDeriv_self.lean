@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_shiftDeriv_self
 -- name    : KernelRank.shiftDeriv_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:00:00.320652+00:00
 -- url     : https://prove2.me/theorems/fcc335f7-72ba-4a8f-b843-70a887e2592e

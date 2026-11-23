@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CyclotomicRankTwoSVP_Main_sparse_multiplicity
 -- name    : CyclotomicRankTwoSVP.Main.sparse_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:51:19.881484+00:00
 -- url     : https://prove2.me/theorems/817cc6d7-a2b2-41ee-b18b-7ecf92961660

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumProduct_lemma_4_1
 -- name    : SumProduct.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:05:33.861123+00:00
 -- url     : https://prove2.me/theorems/82aed4b5-ad66-4c12-93bd-72e4146a0bca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_linearIndependent_hasseDeriv
 -- name    : KernelRank.linearIndependent_hasseDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:09:58.024794+00:00
 -- url     : https://prove2.me/theorems/c5ed2cf6-8861-428d-bc92-919373b7caa6

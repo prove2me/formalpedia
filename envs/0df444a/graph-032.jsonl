@@ -59856,7 +59856,7 @@
 {"parent": "MetricTesting.Characterization.Supplement.general_metric_packing_obstruction", "child": "MetricTesting_Characterization_decision_tree", "via": ["statement"]}
 {"parent": "WitnessIsolation_AffineCollapse_Supplement_harmonic", "child": "WitnessIsolation_AffineCollapse_probability", "via": ["statement"]}
 {"parent": "MinimaxInterventions1429.Separable.Supplement.interface_dependent_private_release", "child": "MinimaxInterventions1429_Separable_Supplement_Groups", "via": ["statement"]}
-{"parent": "WeldedPath.Supplement.theorem_3_12", "child": "QAlgorithms_Defs_Query", "via": ["statement"]}
+{"parent": "WeldedPath.Supplement.theorem_3_12", "child": "QAlgorithms_Defs_Query", "via": ["solution", "statement"]}
 {"parent": "WeldedPath.Supplement.theorem_3_12", "child": "WeldedPath_Supplement_pCross", "via": ["statement"]}
 {"parent": "WeldedPath.Supplement.theorem_3_12", "child": "WeldedPath_Supplement_pWt", "via": ["statement"]}
 {"parent": "Kyprianou_Ch05_BivariateKilledSubordinator", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
@@ -87495,9 +87495,9 @@
 {"parent": "N25.Endgame.SpecialUnitPoleDegrees.finrank_eq_sum_poles", "child": "AlgebraicCurve.Divisor.degree_eq_finrank_adjoin_of_eq_max_neg_ord", "via": ["solution", "statement"]}
 {"parent": "N25.Endgame.SpecialUnitPoleDegrees.finrank_eq_sum_poles", "child": "ModularCurve.deg_qInftyPlaceBar", "via": ["solution", "statement"]}
 {"parent": "N25.Endgame.SpecialUnitPoleDegrees.finrank_eq_sum_poles", "child": "N25_Endgame", "via": ["solution", "statement"]}
-{"parent": "CritWinSpin.p6b_6_3_tm_impl", "child": "IsingLTL_BeliefProp_TVDist", "via": ["statement"]}
-{"parent": "CritWinSpin.p6b_6_3_tm_impl", "child": "CritWinSpin_nuPm", "via": ["statement"]}
-{"parent": "CritWinSpin.p6b_6_3_tm_impl", "child": "CritWinSpin_Lhat", "via": ["statement"]}
+{"parent": "CritWinSpin.p6b_6_3_tm_impl", "child": "IsingLTL_BeliefProp_TVDist", "via": ["solution", "statement"]}
+{"parent": "CritWinSpin.p6b_6_3_tm_impl", "child": "CritWinSpin_nuPm", "via": ["solution", "statement"]}
+{"parent": "CritWinSpin.p6b_6_3_tm_impl", "child": "CritWinSpin_Lhat", "via": ["solution", "statement"]}
 {"parent": "SampleRemoval.Supplement.theorem_4_1", "child": "SampleRemoval_Supplement_dpWork", "via": ["statement"]}
 {"parent": "SampleRemoval.Supplement.theorem_4_1", "child": "SampleRemoval_Supplement_IsNondegenerate", "via": ["statement"]}
 {"parent": "SampleRemoval.Supplement.theorem_4_1", "child": "SampleRemoval_Supplement_fixedSInt", "via": ["statement"]}

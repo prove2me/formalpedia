@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoserSchneckenreither_footprint_identity_rootwise
 -- name    : MoserSchneckenreither.footprint_identity_rootwise
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-21T08:57:22.202502+00:00
 -- url     : https://prove2.me/theorems/e5062ebc-95ee-4805-a6ff-c57e643cf102

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeTwoAlt_wU_cc
 -- name    : Formalism.ELL.CubeTwoAlt.wU_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:14.828773+00:00
 -- url     : https://prove2.me/theorems/1613e56e-9889-415a-8889-b407111b7eae

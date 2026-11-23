@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_span_expMonomial_eq_top
 -- name    : KernelRank.span_expMonomial_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:16:31.093794+00:00
 -- url     : https://prove2.me/theorems/5134c85d-b4e8-4c86-8098-ed2bdf010e0c

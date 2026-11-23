@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_ShearCoefficients_CoeffHom_pow
 -- name    : Formalism.NormUnitaryCountingLemmas.ShearCoefficients.CoeffHom.pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:21:52.89131+00:00
 -- url     : https://prove2.me/theorems/32e823dc-d60d-4899-af22-17bba281cf4e

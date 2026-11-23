@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x2_conjStable_inv
 -- name    : Formalism.FourierDecayAlt.P.S6x2.conjStable_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:27:43.582659+00:00
 -- url     : https://prove2.me/theorems/957f9ebb-0d2f-4d49-aa3d-1c097dbd4170

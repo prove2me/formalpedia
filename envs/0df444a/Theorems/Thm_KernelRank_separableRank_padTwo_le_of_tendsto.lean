@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_separableRank_padTwo_le_of_tendsto
 -- name    : KernelRank.separableRank_padTwo_le_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:17:40.4388+00:00
 -- url     : https://prove2.me/theorems/aa85b59d-a4fc-40d6-8417-1c2ef6ee61dd

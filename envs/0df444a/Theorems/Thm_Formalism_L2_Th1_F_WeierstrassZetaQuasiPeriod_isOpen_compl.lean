@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_WeierstrassZetaQuasiPeriod_isOpen_compl
 -- name    : Formalism.L2.Th1.F.WeierstrassZetaQuasiPeriod.isOpen_compl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:47.530906+00:00
 -- url     : https://prove2.me/theorems/4a6b6a33-b332-4730-8d61-cd19c3ec53cc

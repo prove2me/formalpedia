@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x2_leastNorm
 -- name    : Formalism.FourierDecayAlt.P.S6x2.leastNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:27:49.461391+00:00
 -- url     : https://prove2.me/theorems/ed9a1db1-e1a1-45e7-8e0a-356030e24351

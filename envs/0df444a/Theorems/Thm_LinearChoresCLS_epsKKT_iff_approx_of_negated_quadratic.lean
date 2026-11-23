@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_epsKKT_iff_approx_of_negated_quadratic
 -- name    : LinearChoresCLS.epsKKT_iff_approx_of_negated_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:23:41.891909+00:00
 -- url     : https://prove2.me/theorems/1027bdda-d446-482e-8586-ec05ee48c6ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_VeluCoordinateMaps_u_mem
 -- name    : Formalism.ELL.VeluCoordinateMaps.u_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:20:21.769598+00:00
 -- url     : https://prove2.me/theorems/8ace3c90-e1b8-4f5f-b21b-b3a952d4d871

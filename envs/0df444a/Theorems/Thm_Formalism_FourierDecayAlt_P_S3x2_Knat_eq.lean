@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x2_Knat_eq
 -- name    : Formalism.FourierDecayAlt.P.S3x2.Knat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:06:26.628861+00:00
 -- url     : https://prove2.me/theorems/eed7f31a-0ccd-4e23-b6a5-26e6e0f609a6

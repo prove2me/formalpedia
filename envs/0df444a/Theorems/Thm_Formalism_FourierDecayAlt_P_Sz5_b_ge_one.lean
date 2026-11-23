@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz5_b_ge_one
 -- name    : Formalism.FourierDecayAlt.P.Sz5.b_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:15:35.66528+00:00
 -- url     : https://prove2.me/theorems/69c2fdc4-5006-46aa-ac99-e5418c44459b

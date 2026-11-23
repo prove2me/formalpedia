@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_eq_zero_of_iterate_shiftDeriv_eq_zero
 -- name    : KernelRank.eq_zero_of_iterate_shiftDeriv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:00:23.330681+00:00
 -- url     : https://prove2.me/theorems/5db84c74-e04a-444b-b415-c9b67e9b4adf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G7_affine_fibre
 -- name    : Formalism.FourierDecayAlt.P.G7.affine_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:42:22.870871+00:00
 -- url     : https://prove2.me/theorems/807784b7-8ff0-48c7-b75b-ffbebfa588b8

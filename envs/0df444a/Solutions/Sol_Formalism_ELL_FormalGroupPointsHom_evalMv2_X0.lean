@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.ELL.FormalGroupPointsHom.evalMv2_X0
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T02:29:57.086803+00:00
+-- url     : https://prove2.me/submissions/38d5fb2f-4ca4-407b-b411-0d3efa7a981e
+
+import Definitions.Def_Formalism_EllipticTorsion_FormalGroupPointsParametrisation
+import Definitions.Def_Formalism_EllipticTorsion_EllipticTorsionProofs_ExistsUnitFactor
+import Definitions.Def_Formalism_EllipticTorsion_EllipticTorsionProofs_WPoint
+import Definitions.Def_Formalism_EllipticTorsion_EllipticTorsionProofs_WSubst
+import Definitions.Def_Formalism_EllipticTorsion_EllipticTorsionProofs_WChord
+import Definitions.Def_Formalism_EllipticTorsion_EllipticTorsionProofs_NDeriv
+import Definitions.Def_Formalism_EllipticTorsion_EllipticTorsionProofs_FormalGroupPointsHomDef
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PowerSeries
+universe u
+noncomputable section
+open Formalism Formalism.ELL Formalism.ELL.FormalGroupPointsHom
+open Formalism.ELL Formalism.G
+variable {K : Type u} [NormedField K] [IsUltrametricDist K] [CompleteSpace K]
+namespace Formalism.ELL.FormalGroupPointsHom
+theorem _root_.solution (a b : K) : evalMv2 (MvPowerSeries.X 0 : MvPowerSeries (Fin 2) K) a b = a := by
+  classical
+  rw [evalMv2_eq, tsum_eq_single (Finsupp.single 0 1)]
+  · simp [term]
+  · intro d hd
+    simp [term, MvPowerSeries.coeff_X, hd]
+end Formalism.ELL.FormalGroupPointsHom

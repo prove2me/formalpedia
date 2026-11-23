@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassChordSeries_dd_cc
 -- name    : Formalism.ELL.WeierstrassChordSeries.dd_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:11:13.522345+00:00
 -- url     : https://prove2.me/theorems/4d8b98dd-1741-46c0-8f51-d9f4c652a53f

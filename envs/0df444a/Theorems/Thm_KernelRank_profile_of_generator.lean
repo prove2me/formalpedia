@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_profile_of_generator
 -- name    : KernelRank.profile_of_generator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:06:39.717816+00:00
 -- url     : https://prove2.me/theorems/bb6e8f0f-148f-4e9c-aa37-d2fd2a288024

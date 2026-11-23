@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_separableRank_fin2_le_of_tendsto
 -- name    : KernelRank.separableRank_fin2_le_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:21:39.354792+00:00
 -- url     : https://prove2.me/theorems/7465ffc6-bfc9-464a-8938-19ee6fc4d39b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BhangaleHypergraph_Main_relational_completeness
 -- name    : BhangaleHypergraph.Main.relational_completeness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:08:04.174092+00:00
 -- url     : https://prove2.me/theorems/b4334daf-d96a-4e11-b9a0-e341fecfbb51

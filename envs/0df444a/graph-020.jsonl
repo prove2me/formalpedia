@@ -88810,17 +88810,17 @@
 {"parent": "FixedWidthSteps.expVariables_pos", "child": "FixedWidthSteps_Small", "via": ["solution", "statement"]}
 {"parent": "FixedWidthSteps.expVariables_pos", "child": "FixedWidthSteps_RouteDefs", "via": ["solution", "statement"]}
 {"parent": "FixedWidthSteps.expVariables_pos", "child": "Wrap_ArithRate", "via": ["solution", "statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_Nonneg", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_IsEligible", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_IsGraphInput", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_IsTruthfulOn", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_opt", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_HasUniqueZeros", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_IsClassSymmetric", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_HasZeroTypeIrrelevance", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_IsFeasibleOn", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_makespan", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_C", "via": ["statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_Nonneg", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_IsEligible", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_IsGraphInput", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_IsTruthfulOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_opt", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_HasUniqueZeros", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_IsClassSymmetric", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_HasZeroTypeIrrelevance", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_IsFeasibleOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_makespan", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_1", "child": "FracTruthSched_C", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Davies.hamiltonianEnergyProjector_commute", "child": "QEC_Semantics_Dynamics_ProtectedObservableDecay", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Davies.hamiltonianEnergyProjector_commute", "child": "QEC_Semantics_Dynamics_Davies_NormBound", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Davies.hamiltonianEnergyProjector_commute", "child": "QEC_Semantics_Dynamics_Davies_Hamiltonian", "via": ["solution", "statement"]}
@@ -95173,7 +95173,7 @@
 {"parent": "GradSuffice_Thm8Data_Cond12", "child": "GradSuffice_Thm8Data_mu", "via": ["statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.artinSchreier16_normalizedRefinement", "child": "QEC_Coding_AlgebraicGeometry_Towers_TraceRefinement", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.artinSchreier16_normalizedRefinement", "child": "QEC_Coding_AlgebraicGeometry_Towers_NormalizedCompositumEdges", "via": ["solution", "statement"]}
-{"parent": "TIESharp.lemma_5_1", "child": "TIESharp_Nonneg", "via": ["statement"]}
+{"parent": "TIESharp.lemma_5_1", "child": "TIESharp_Nonneg", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3388_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3388_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3388_e", "child": "OAIQ106E141", "via": ["solution", "statement"]}

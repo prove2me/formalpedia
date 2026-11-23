@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BhangaleHypergraph_Main_outer_completeness
 -- name    : BhangaleHypergraph.Main.outer_completeness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:05:55.799954+00:00
 -- url     : https://prove2.me/theorems/7b0a4a34-d61d-466a-bf1f-77204c40fd9a

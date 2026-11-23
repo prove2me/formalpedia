@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_injective_rates_with_conjugates
 -- name    : KernelRank.injective_rates_with_conjugates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:01:30.85172+00:00
 -- url     : https://prove2.me/theorems/98d86504-98d6-4aa0-8271-1a13153288d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x2_between
 -- name    : Formalism.FourierDecayAlt.P.S6x2.between
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:27:44.800219+00:00
 -- url     : https://prove2.me/theorems/a6c67d1f-5eae-4f98-b166-5ed660b2da43

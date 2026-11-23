@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x7_lead_invariant
 -- name    : Formalism.FourierDecayAlt.P.S3x7.lead_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:25:22.243022+00:00
 -- url     : https://prove2.me/theorems/27ad753e-41a7-49f8-8384-3b056b9585a5

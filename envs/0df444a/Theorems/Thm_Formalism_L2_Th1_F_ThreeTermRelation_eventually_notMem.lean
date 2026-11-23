@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_eventually_notMem
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.eventually_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:41.315422+00:00
 -- url     : https://prove2.me/theorems/8c4d5638-97f3-482c-bcf6-b51e83425bd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeTwoAlt_dI_cc
 -- name    : Formalism.ELL.CubeTwoAlt.dI_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:29.440447+00:00
 -- url     : https://prove2.me/theorems/34ef70c0-c42c-4f19-9800-f4f9c9cbcff1

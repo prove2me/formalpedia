@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassChordSeries_constantCoeff_thirdValue
 -- name    : Formalism.ELL.WeierstrassChordSeries.constantCoeff_thirdValue
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:56.573303+00:00
 -- url     : https://prove2.me/theorems/73b8b217-9cbb-4d08-ba71-8b372621eb83

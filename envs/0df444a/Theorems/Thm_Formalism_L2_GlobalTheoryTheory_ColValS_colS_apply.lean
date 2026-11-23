@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_ColValS_colS_apply
 -- name    : Formalism.L2.GlobalTheoryTheory.ColValS.colS_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:19:12.625336+00:00
 -- url     : https://prove2.me/theorems/4be23237-1b03-4f1b-b7a9-028a5fa523e4

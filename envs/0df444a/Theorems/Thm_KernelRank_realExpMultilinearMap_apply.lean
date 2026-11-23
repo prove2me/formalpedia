@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_realExpMultilinearMap_apply
 -- name    : KernelRank.realExpMultilinearMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:20:29.118409+00:00
 -- url     : https://prove2.me/theorems/263de23c-2591-4a6f-b396-81c33cad0ebf

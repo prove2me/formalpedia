@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_exists_representation_of_sum_expPoly
 -- name    : KernelRank.exists_representation_of_sum_expPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:01:55.297826+00:00
 -- url     : https://prove2.me/theorems/0e097e58-45ce-42b2-b2a5-48df31a4fcfa

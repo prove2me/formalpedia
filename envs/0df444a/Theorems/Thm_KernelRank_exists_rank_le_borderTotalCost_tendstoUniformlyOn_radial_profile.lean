@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_exists_rank_le_borderTotalCost_tendstoUniformlyOn_radial_profile
 -- name    : KernelRank.exists_rank_le_borderTotalCost_tendstoUniformlyOn_radial_profile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:21:05.200345+00:00
 -- url     : https://prove2.me/theorems/e8128e82-3c90-4417-9728-7292a591c898

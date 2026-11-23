@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_separableRank_sum_expPoly
 -- name    : KernelRank.separableRank_sum_expPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:16:12.655038+00:00
 -- url     : https://prove2.me/theorems/9186975d-1ec9-4337-9b50-5bfd4a8841b5

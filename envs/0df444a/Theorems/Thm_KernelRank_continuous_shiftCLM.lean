@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_continuous_shiftCLM
 -- name    : KernelRank.continuous_shiftCLM
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:06:11.371883+00:00
 -- url     : https://prove2.me/theorems/b74a9f1e-aca7-4d4f-9994-426922ecc2be

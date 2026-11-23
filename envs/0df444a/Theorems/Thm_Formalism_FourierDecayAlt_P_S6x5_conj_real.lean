@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x5_conj_real
 -- name    : Formalism.FourierDecayAlt.P.S6x5.conj_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:16.454655+00:00
 -- url     : https://prove2.me/theorems/892e8309-f9d2-4196-9f0e-21333fe5be17

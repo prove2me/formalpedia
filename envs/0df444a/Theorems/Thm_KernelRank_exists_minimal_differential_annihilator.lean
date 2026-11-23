@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_exists_minimal_differential_annihilator
 -- name    : KernelRank.exists_minimal_differential_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:12:27.89038+00:00
 -- url     : https://prove2.me/theorems/e645b63c-d653-4b7e-99fa-8f8428862300

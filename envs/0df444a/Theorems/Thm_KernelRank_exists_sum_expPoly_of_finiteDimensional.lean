@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_exists_sum_expPoly_of_finiteDimensional
 -- name    : KernelRank.exists_sum_expPoly_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:06:19.872329+00:00
 -- url     : https://prove2.me/theorems/8f12f26b-39b7-42ea-8265-4efe89b1b49b

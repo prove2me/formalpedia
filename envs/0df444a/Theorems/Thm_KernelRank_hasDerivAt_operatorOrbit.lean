@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_hasDerivAt_operatorOrbit
 -- name    : KernelRank.hasDerivAt_operatorOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:07:19.797027+00:00
 -- url     : https://prove2.me/theorems/553a4299-357c-4a40-aa81-177b89c008b1

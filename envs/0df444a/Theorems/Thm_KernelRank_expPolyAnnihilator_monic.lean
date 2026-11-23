@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_expPolyAnnihilator_monic
 -- name    : KernelRank.expPolyAnnihilator_monic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:11:03.124993+00:00
 -- url     : https://prove2.me/theorems/5a414235-c82e-4c4a-ac63-3cdd085e82e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_HeckeA_exists_sum
 -- name    : CompanionTheory.HeckeA.exists_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:29:39.744803+00:00
 -- url     : https://prove2.me/theorems/c385366d-796a-415f-b45a-36364e74fa66

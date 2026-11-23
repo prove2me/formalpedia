@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiAccessLogspace_Halting_lemma_3_5
 -- name    : MultiAccessLogspace.Halting.lemma_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:59:38.208424+00:00
 -- url     : https://prove2.me/theorems/78c1b3ac-6940-46b8-8505-0a8330cba5ad

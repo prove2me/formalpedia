@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_expPoly_translate
 -- name    : KernelRank.expPoly_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:08:09.587247+00:00
 -- url     : https://prove2.me/theorems/f9331224-06d1-43fc-a027-1584e5e4edd4

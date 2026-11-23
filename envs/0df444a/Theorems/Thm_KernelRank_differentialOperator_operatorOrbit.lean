@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_differentialOperator_operatorOrbit
 -- name    : KernelRank.differentialOperator_operatorOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:07:12.152869+00:00
 -- url     : https://prove2.me/theorems/328bba62-e660-4b08-9797-cfea2be141c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S6x3_exists_theta
 -- name    : Formalism.FourierDecayAlt.P.S6x3.exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:11:29.663088+00:00
 -- url     : https://prove2.me/theorems/1674c1aa-df39-4d78-a7ce-ea854aaf18ad

@@ -61737,7 +61737,7 @@
 {"parent": "Atlas_EinsteinMaxwell_ES5_KerrSchild_VIII04_Linearize", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_PaperGauge", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_1006All", "child": "OAIQ259US010", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_1006All", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "BeyondGomoryHu.Units.lemma_2_6", "child": "BeyondGomoryHu_Units_Hierarchy", "via": ["statement"]}
+{"parent": "BeyondGomoryHu.Units.lemma_2_6", "child": "BeyondGomoryHu_Units_Hierarchy", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg23154", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB2_1_5I1R0Raw_sound", "child": "OAIQ254M010", "via": ["solution", "statement"]}
 {"parent": "OAI.PerfectCompleteness.HierarchicalProjectedRawPrediction.rawPrediction_eq", "child": "OAIQ252P017", "via": ["solution", "statement"]}
@@ -73173,8 +73173,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg22293", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.MetricKMedianRecovery.BitMachine.BinaryGlobalOuter.select_bits_s238r", "child": "Q238L054", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricKMedianRecovery.BitMachine.BinaryGlobalOuter.select_bits_s238r", "child": "KMedianRecovery", "via": ["solution", "statement"]}
-{"parent": "ITPIRPreproc.MatchVec.claim_6_2_4", "child": "ITPIRPreproc_MatchVec_ActivationPrimitive", "via": ["statement"]}
-{"parent": "ITPIRPreproc.MatchVec.claim_6_2_4", "child": "ITPIRPreproc_MatchVec_Efficiency", "via": ["statement"]}
+{"parent": "ITPIRPreproc.MatchVec.claim_6_2_4", "child": "ITPIRPreproc_MatchVec_ActivationPrimitive", "via": ["solution", "statement"]}
+{"parent": "ITPIRPreproc.MatchVec.claim_6_2_4", "child": "ITPIRPreproc_MatchVec_Efficiency", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg23809", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18Parameterized.decodedRawInstrument_complete", "child": "QEC_Distillation_LowOverheadProtocol_Parameterized_PhysicalEndpoint", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18Parameterized.decodedRawInstrument_complete", "child": "QEC_Semantics_Channels_Instrument", "via": ["solution", "statement"]}
@@ -79520,7 +79520,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg17456", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg24767", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg21679", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "BeyondGomoryHu.Units.claim_4_7", "child": "BeyondGomoryHu_Units_Hierarchy", "via": ["statement"]}
+{"parent": "BeyondGomoryHu.Units.claim_4_7", "child": "BeyondGomoryHu_Units_Hierarchy", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg24809", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_length_13_ca", "child": "OAIQ229C013", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_942All", "child": "OAIQ259US010", "via": ["statement"]}

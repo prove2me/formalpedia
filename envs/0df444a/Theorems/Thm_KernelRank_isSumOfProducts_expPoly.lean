@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_isSumOfProducts_expPoly
 -- name    : KernelRank.isSumOfProducts_expPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:09:08.696388+00:00
 -- url     : https://prove2.me/theorems/869936f6-55e7-421a-8079-8829577eff9a

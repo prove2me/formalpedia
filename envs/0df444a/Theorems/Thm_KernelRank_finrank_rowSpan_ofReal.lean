@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_finrank_rowSpan_ofReal
 -- name    : KernelRank.finrank_rowSpan_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T01:51:56.775039+00:00
 -- url     : https://prove2.me/theorems/24605d0c-36a9-4d3b-bcdc-b41347c30596

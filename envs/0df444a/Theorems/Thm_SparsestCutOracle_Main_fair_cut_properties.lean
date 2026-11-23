@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsestCutOracle_Main_fair_cut_properties
 -- name    : SparsestCutOracle.Main.fair_cut_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:39:04.096287+00:00
 -- url     : https://prove2.me/theorems/d0513457-5a4f-4ad9-bda1-bf57aba2f794

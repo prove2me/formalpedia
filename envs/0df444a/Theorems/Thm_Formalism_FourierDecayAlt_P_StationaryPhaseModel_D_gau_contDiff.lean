@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_D_gau_contDiff
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.D_gau_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:11:43.98951+00:00
 -- url     : https://prove2.me/theorems/cd888485-dce4-457f-9b60-899be9087742

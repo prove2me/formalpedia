@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_exists_translation_generator
 -- name    : KernelRank.exists_translation_generator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:06:15.661809+00:00
 -- url     : https://prove2.me/theorems/a7c26bbb-cce6-4cc0-bcc5-98d55b59568e
