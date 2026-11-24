@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_away_ext
 -- name    : GlobalTheory.SqZero.away_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:31.080877+00:00
 -- url     : https://prove2.me/theorems/e97ad63d-e2ee-47ab-ad19-502715c0c647

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_gelfand_trick
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.gelfand_trick
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:59.328023+00:00
 -- url     : https://prove2.me/theorems/ab73e19d-67ca-4bc5-bf35-10d6ab5b7288

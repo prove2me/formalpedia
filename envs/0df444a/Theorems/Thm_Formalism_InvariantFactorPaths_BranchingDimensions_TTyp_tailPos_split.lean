@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_TTyp_tailPos_split
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.TTyp.tailPos_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:35.719807+00:00
 -- url     : https://prove2.me/theorems/91032b4d-3ff6-4a0c-b49c-6b0459ad6a10

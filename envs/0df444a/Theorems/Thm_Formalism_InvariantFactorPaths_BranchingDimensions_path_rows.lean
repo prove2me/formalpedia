@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_path_rows
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.path_rows
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:16.590115+00:00
 -- url     : https://prove2.me/theorems/5f09273e-4d2c-4fc3-848c-f66a12fda816

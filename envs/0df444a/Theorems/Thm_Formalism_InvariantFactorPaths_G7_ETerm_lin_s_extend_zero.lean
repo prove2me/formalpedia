@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_lin_s_extend_zero
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.lin_s_extend_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:24.032328+00:00
 -- url     : https://prove2.me/theorems/ada72837-6d36-4550-87ee-d3723fac82d5

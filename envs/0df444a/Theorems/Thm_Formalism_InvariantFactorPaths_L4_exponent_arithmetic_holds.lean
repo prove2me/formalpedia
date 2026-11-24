@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_exponent_arithmetic_holds
 -- name    : Formalism.InvariantFactorPaths.L4.exponent_arithmetic_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:59:07.822822+00:00
 -- url     : https://prove2.me/theorems/b43a94b6-a47e-4af5-b32a-378cbf9aacec

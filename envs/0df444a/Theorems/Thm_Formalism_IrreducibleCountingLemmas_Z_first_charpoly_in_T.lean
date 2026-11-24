@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_first_charpoly_in_T
 -- name    : Formalism.IrreducibleCountingLemmas.Z.first_charpoly_in_T
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:01.738188+00:00
 -- url     : https://prove2.me/theorems/0ee43bdd-9889-4024-ace4-5bd5630ee952

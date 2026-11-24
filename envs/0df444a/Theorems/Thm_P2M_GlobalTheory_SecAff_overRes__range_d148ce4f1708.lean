@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SecAff_overRes__range_d148ce4f1708
 -- name    : P2M_GlobalTheory_SecAff_overRes__range_d148ce4f1708
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:15.995389+00:00
 -- url     : https://prove2.me/theorems/3c6e7534-e69c-4eaf-95b5-b6d4b006f024

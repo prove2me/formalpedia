@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_coeff_pow_high
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.coeff_pow_high
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:58.986813+00:00
 -- url     : https://prove2.me/theorems/b35e3be7-cf47-4674-9521-b691c463763d

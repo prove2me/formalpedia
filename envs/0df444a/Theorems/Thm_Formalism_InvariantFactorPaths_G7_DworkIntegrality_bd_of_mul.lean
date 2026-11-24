@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DworkIntegrality_bd_of_mul
 -- name    : Formalism.InvariantFactorPaths.G7.DworkIntegrality.bd_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:49.495224+00:00
 -- url     : https://prove2.me/theorems/72e683dd-ea7a-487b-8cca-2a9c5f0eb85b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pairK_apply
 -- name    : Formalism.L2.DIV.pairK_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:53.393965+00:00
 -- url     : https://prove2.me/theorems/a32908aa-a35b-4ec3-97e9-957817b6c9a5

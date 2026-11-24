@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_G5_fdom_exists_all
 -- name    : Formalism.IndefR.Eqv.G5.fdom_exists_all
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:31.365826+00:00
 -- url     : https://prove2.me/theorems/b84e6343-1b4b-4c50-b314-ec0090b54c4b

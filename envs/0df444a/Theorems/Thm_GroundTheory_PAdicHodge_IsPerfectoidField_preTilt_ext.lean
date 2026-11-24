@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_preTilt_ext
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.preTilt_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:35.246124+00:00
 -- url     : https://prove2.me/theorems/c1f09d3c-832f-4248-b90b-54dc40384ccd

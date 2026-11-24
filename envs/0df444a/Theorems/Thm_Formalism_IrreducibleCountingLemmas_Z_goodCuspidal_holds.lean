@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_goodCuspidal_holds
 -- name    : Formalism.IrreducibleCountingLemmas.Z.goodCuspidal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:09.835977+00:00
 -- url     : https://prove2.me/theorems/92f96d2c-e990-441c-b487-674d1c70cfee

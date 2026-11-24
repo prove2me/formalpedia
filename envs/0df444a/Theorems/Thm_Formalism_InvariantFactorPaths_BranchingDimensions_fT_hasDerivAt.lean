@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_fT_hasDerivAt
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.fT_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:08.635949+00:00
 -- url     : https://prove2.me/theorems/593e47e0-b987-4523-b7a1-09e4cbb5ae04

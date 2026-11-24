@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qs_sym_mul
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qs_sym_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:33.644692+00:00
 -- url     : https://prove2.me/theorems/c66aed96-8476-4848-91e2-01b75d15b17b

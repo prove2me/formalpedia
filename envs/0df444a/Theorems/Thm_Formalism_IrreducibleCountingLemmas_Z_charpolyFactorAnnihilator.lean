@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_charpolyFactorAnnihilator
 -- name    : Formalism.IrreducibleCountingLemmas.Z.charpolyFactorAnnihilator
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:17.289325+00:00
 -- url     : https://prove2.me/theorems/f535b4cd-adaf-43ef-ba1e-cb74dedf755b

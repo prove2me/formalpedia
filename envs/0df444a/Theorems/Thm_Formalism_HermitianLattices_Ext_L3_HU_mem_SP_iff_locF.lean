@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_mem_SP_iff_locF
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.mem_SP_iff_locF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:26.667593+00:00
 -- url     : https://prove2.me/theorems/6ff35d02-61da-4bdc-acf4-4d7fbc5c87b1

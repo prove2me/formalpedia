@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_res_comp_coe
 -- name    : Formalism.InvariantFactorPaths.PW.res_comp_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:42.89084+00:00
 -- url     : https://prove2.me/theorems/c9dd7d2b-03af-4233-ab85-9cd5c7d7eac3

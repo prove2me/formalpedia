@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_isLocUnif
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.isLocUnif
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:11.384798+00:00
 -- url     : https://prove2.me/theorems/54e06842-0b19-4202-b478-8af45d811895

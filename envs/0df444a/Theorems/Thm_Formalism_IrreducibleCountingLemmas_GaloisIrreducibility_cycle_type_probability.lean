@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_cycle_type_probability
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.cycle_type_probability
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:19.85936+00:00
 -- url     : https://prove2.me/theorems/3f665f88-93a9-477c-bed3-6bf9af70fcdb

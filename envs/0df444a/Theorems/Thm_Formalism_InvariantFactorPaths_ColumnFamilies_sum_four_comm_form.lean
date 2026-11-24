@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_sum_four_comm_form
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.sum_four_comm_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:25:48.333707+00:00
 -- url     : https://prove2.me/theorems/cc874e94-32c1-4af3-94ea-f8246009fb82

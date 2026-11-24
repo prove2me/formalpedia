@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthQuotientSpanValuation_addVal_prod
 -- name    : GlobalTheory.LengthQuotientSpanValuation.addVal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:33.856531+00:00
 -- url     : https://prove2.me/theorems/fa35c542-05d7-40bf-b5a3-4d89b59d553e

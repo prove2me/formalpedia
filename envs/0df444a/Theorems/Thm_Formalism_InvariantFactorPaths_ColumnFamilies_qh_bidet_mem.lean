@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_bidet_mem
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_bidet_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:15.022275+00:00
 -- url     : https://prove2.me/theorems/33e80ff7-e014-4ee6-bf84-abef93f76737

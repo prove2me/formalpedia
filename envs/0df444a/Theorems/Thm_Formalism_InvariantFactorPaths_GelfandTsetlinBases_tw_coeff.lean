@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_tw_coeff
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.tw_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:55.539394+00:00
 -- url     : https://prove2.me/theorems/d58a7e60-5277-45ba-abea-45394612b7d9

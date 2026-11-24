@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_asm_span
 -- name    : Formalism.InvariantFactorPaths.KP.LL.asm_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:33.647476+00:00
 -- url     : https://prove2.me/theorems/5dc9e326-8521-415e-b10b-a9c1c42483fe

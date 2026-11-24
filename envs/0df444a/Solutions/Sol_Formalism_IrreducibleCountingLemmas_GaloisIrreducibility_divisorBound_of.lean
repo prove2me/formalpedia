@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.divisorBound_of
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T08:50:52.555852+00:00
+-- url     : https://prove2.me/submissions/16c7ec29-9d26-4cd5-837c-b3e93f1b41ea
+
+import Definitions.Def_Formalism_PadicSubsetSums_CentralIdempotents_EigenbasisOfDistinctRoots
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_PropositionOneCentralCount
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRDivisorDegreeSubSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCycleProbSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeRecipSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRLemmaLWeight
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartEqIff
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartSpec
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRLemmaP
+import Definitions.Def_Formalism_GaloisIrreducibility_NoSolvableTransitive
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCentralIdemSelfAdjoint
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRIrredCountUpper
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRSquarefreeCount
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRTypeCountExact
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCycleTypeProb
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_LocalEstimateIVOfTypeSetWeight
+import Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_divisor_square_weight_sum_le
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset Polynomial
+open Formalism Formalism.IrreducibleCountingLemmas Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+theorem _root_.solution (hM : SqMassLeOne) : DivisorBound := by
+  classical
+  intro K _ _ N h hmon _ _ hdeg
+  exact divisor_square_weight_sum_le hM K N h hmon hdeg _ (fun c hc => (Finset.mem_filter.1 hc))
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility

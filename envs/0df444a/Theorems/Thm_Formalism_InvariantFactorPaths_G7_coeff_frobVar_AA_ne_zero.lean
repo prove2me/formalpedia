@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_coeff_frobVar_AA_ne_zero
 -- name    : Formalism.InvariantFactorPaths.G7.coeff_frobVar_AA_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:23.80938+00:00
 -- url     : https://prove2.me/theorems/e875a5bd-b79d-4330-9322-93bc395bdaf6

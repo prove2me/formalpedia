@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_card_value_ne_run_le
 -- name    : Formalism.IrreducibleCountingLemmas.Z.card_value_ne_run_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:38.42355+00:00
 -- url     : https://prove2.me/theorems/a5844b32-268e-4b6a-8da8-06f3c86a926d

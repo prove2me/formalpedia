@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_coeff_one_lgF
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.coeff_one_lgF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:13.385847+00:00
 -- url     : https://prove2.me/theorems/0f395a57-3ff3-478e-a667-cdd6ea7e1e44

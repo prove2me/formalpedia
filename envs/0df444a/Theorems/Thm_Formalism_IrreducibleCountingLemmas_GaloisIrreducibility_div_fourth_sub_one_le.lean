@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_div_fourth_sub_one_le
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.div_fourth_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:03.942804+00:00
 -- url     : https://prove2.me/theorems/c7fd7880-3298-4e3f-a079-5d3b39476fe6

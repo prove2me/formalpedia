@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DeterminantJetScaling_alG_le
 -- name    : Formalism.InvariantFactorPaths.G7.DeterminantJetScaling.alG_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:15.923641+00:00
 -- url     : https://prove2.me/theorems/b0a85edc-d409-4177-ae5c-ce5516100334

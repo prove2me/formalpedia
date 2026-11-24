@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_compL_add_not
 -- name    : Formalism.InvariantFactorPaths.L4.compL_add_not
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:26.437912+00:00
 -- url     : https://prove2.me/theorems/2b0b5807-cd5a-4f78-8cd2-e774f75c9658

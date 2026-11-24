@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_Tr_first_axis_injective
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.Tr.first_axis_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:43:30.879095+00:00
 -- url     : https://prove2.me/theorems/b0d480ac-ead0-4e63-a6e5-2ee27aacfa80

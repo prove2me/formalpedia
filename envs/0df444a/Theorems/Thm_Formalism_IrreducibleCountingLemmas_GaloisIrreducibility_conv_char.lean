@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_conv_char
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.conv_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:34.781993+00:00
 -- url     : https://prove2.me/theorems/ea6ca363-9b1f-4c0b-86ab-984046b7123f

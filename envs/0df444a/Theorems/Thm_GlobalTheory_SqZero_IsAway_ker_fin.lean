@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_IsAway_ker_fin
 -- name    : GlobalTheory.SqZero.IsAway.ker_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:33.860077+00:00
 -- url     : https://prove2.me/theorems/58ea2412-6043-479b-b9a8-51ba847df34b

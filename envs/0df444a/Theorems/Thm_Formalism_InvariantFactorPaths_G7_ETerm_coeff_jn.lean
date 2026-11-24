@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_coeff_jn
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.coeff_jn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:32.194425+00:00
 -- url     : https://prove2.me/theorems/5419b25c-0aed-43be-b860-9630d830339c

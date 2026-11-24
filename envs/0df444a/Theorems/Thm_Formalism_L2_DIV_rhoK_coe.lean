@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_rhoK_coe
 -- name    : Formalism.L2.DIV.rhoK_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:22.418916+00:00
 -- url     : https://prove2.me/theorems/ff343558-efde-4014-9a0b-7ac62f40cb5e

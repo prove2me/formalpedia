@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxRules_fin
 -- name    : Formalism.EigenvalueLevelCeiling.idxRules_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:17:19.125835+00:00
 -- url     : https://prove2.me/theorems/3aa94880-0dcc-48f7-bc59-cca07810f94c

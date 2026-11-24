@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_inv_pow_sum_le
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.inv_pow_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:03.797275+00:00
 -- url     : https://prove2.me/theorems/625cebd3-1ccb-4301-9578-febd13686ca3

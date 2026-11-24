@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_admissibleSmallRatio
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.admissibleSmallRatio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:51.450781+00:00
 -- url     : https://prove2.me/theorems/f349fb19-bfd7-4071-a5bf-0bc6909471c5

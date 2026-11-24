@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1_isWeightedHomogeneous_zero_stripPathWord
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1.isWeightedHomogeneous_zero_stripPathWord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:59.294817+00:00
 -- url     : https://prove2.me/theorems/9dd742a0-7546-4e53-989a-9e60286a04b6

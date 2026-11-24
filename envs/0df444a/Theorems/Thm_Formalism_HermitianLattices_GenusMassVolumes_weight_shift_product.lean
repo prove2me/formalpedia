@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_weight_shift_product
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.weight_shift_product
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:36.694929+00:00
 -- url     : https://prove2.me/theorems/58d68fff-f16f-45a3-9f45-ed966b7a2f2a

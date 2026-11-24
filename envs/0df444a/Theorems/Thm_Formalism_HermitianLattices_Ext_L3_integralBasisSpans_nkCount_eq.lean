@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_integralBasisSpans_nkCount_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.integralBasisSpans.nkCount_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:35.950927+00:00
 -- url     : https://prove2.me/theorems/32434e30-5d31-4b1a-b92a-a4b303100ff0

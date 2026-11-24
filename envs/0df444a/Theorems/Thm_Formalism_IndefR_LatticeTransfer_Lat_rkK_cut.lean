@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_rkK_cut
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.rkK_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:04.769129+00:00
 -- url     : https://prove2.me/theorems/e83d5db5-8b1e-40b0-8494-c301d6b505cb

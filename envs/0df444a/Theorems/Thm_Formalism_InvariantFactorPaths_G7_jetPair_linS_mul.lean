@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_jetPair_linS_mul
 -- name    : Formalism.InvariantFactorPaths.G7.jetPair_linS_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:28.076162+00:00
 -- url     : https://prove2.me/theorems/e9677531-2947-4e4e-b727-afa40eda2085

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_norm_lamF_sub
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.norm_lamF_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:50.522823+00:00
 -- url     : https://prove2.me/theorems/e342990a-dc41-4bf6-8dd4-390fb0166c89

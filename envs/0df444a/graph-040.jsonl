@@ -70680,7 +70680,7 @@
 {"parent": "RHX1000000.Run.E33.blk9", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E33.blk9", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E33.blk9", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "HodgeComputer.SymmetricSexticResidual.Proof.cover_factorization", "child": "HodgeComputerSSR_CoverParams", "via": ["statement"]}
+{"parent": "HodgeComputer.SymmetricSexticResidual.Proof.cover_factorization", "child": "HodgeComputerSSR_CoverParams", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_Chebotarev_SplitA", "child": "ReciprocityTheory_Chebotarev_SplitDef", "via": ["statement"]}
 {"parent": "GlobalTheory.contDiff_of_continuous_oneParameter", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ContDiffOfContinuousOneParameter", "via": ["solution", "statement"]}
 {"parent": "ULHC.ends_unique", "child": "ULHC_NearChain", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_besselChar_zero_eq_edge_sum
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.besselChar_zero_eq_edge_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:26.725505+00:00
 -- url     : https://prove2.me/theorems/02c47323-ab8e-4341-a471-832fefa10fa1

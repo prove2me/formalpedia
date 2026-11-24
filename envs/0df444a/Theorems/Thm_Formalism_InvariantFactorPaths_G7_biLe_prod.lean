@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_biLe_prod
 -- name    : Formalism.InvariantFactorPaths.G7.biLe_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:18.956851+00:00
 -- url     : https://prove2.me/theorems/db2d8211-5154-4050-8fd0-6eb3f7e5927f

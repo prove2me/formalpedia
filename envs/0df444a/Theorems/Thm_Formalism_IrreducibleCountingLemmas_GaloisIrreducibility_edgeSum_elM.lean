@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_edgeSum_elM
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.edgeSum_elM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:54.002817+00:00
 -- url     : https://prove2.me/theorems/2acbc7bb-b899-459b-8016-b54114067363

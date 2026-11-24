@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_fock_disjoint
 -- name    : Formalism.InvariantFactorPaths.PW.fock_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:14.169271+00:00
 -- url     : https://prove2.me/theorems/ac4aae96-b071-443c-8779-127150be1455

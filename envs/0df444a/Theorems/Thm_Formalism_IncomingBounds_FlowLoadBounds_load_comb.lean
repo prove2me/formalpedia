@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_load_comb
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.load_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:48.505512+00:00
 -- url     : https://prove2.me/theorems/1ecf2181-bb3c-4e3a-ae56-2b4578a69378

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fockSQ
 -- name    : Formalism.L2.DIV.fockSQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:13.160805+00:00
 -- url     : https://prove2.me/theorems/c1258d96-ea2f-40cb-aaa3-f7c2c0b2d0d8

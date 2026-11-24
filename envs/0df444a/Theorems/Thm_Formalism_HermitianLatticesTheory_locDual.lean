@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_locDual
 -- name    : Formalism.HermitianLatticesTheory.locDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:50:58.268457+00:00
 -- url     : https://prove2.me/theorems/19f136bd-a507-4d86-8495-ee80f3102070

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_frobVar_AA_eq
 -- name    : Formalism.InvariantFactorPaths.G7.frobVar_AA_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:11.348014+00:00
 -- url     : https://prove2.me/theorems/bf7c4c0c-201e-4ada-a429-1d67dc9d7a31

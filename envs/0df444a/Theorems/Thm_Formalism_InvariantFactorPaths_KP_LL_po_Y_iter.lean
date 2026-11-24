@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_po_Y_iter
 -- name    : Formalism.InvariantFactorPaths.KP.LL.po_Y_iter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:41.829492+00:00
 -- url     : https://prove2.me/theorems/96f2d16f-54e5-43e3-b2a7-33aee0525cee

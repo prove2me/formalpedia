@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qr_G_high
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qr_G_high
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:22.606813+00:00
 -- url     : https://prove2.me/theorems/541596be-ad65-454c-87ab-189a24c467c7

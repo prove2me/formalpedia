@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Arith_FormsL_MK_le_WK
 -- name    : Formalism.IndefR.Arith.FormsL.MK_le_WK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:18.492309+00:00
 -- url     : https://prove2.me/theorems/37d39330-6a69-424d-9861-9bd38f66b4ff

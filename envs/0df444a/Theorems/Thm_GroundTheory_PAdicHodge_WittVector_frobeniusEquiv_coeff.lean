@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittVector_frobeniusEquiv_coeff
 -- name    : GroundTheory.PAdicHodge.WittVector.frobeniusEquiv_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:39.657992+00:00
 -- url     : https://prove2.me/theorems/59a1ec7f-6db4-405b-8208-e6bd49706ffa

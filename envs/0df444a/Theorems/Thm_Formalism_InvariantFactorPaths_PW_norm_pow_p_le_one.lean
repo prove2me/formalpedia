@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_norm_pow_p_le_one
 -- name    : Formalism.InvariantFactorPaths.PW.norm_pow_p_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:13.054401+00:00
 -- url     : https://prove2.me/theorems/be266afa-e682-4cfe-b348-23b83e3ba483

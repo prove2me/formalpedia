@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_WeilRepresentation_CocycleEighthPower_rv_gram
 -- name    : Formalism.HermitianLattices.WeilRepresentation.CocycleEighthPower.rv_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:08.987299+00:00
 -- url     : https://prove2.me/theorems/3b1c01d9-91b9-4cdd-b85e-64f708483918

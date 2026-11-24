@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_eq_of_psum_eq
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_eq_of_psum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:25:26.237804+00:00
 -- url     : https://prove2.me/theorems/ef7c29ea-ab78-4dd1-a8a6-559ea3d36f75

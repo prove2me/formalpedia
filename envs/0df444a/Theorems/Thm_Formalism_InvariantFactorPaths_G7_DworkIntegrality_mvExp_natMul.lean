@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DworkIntegrality_mvExp_natMul
 -- name    : Formalism.InvariantFactorPaths.G7.DworkIntegrality.mvExp_natMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:24.428353+00:00
 -- url     : https://prove2.me/theorems/a0b733af-c74e-4291-8a72-9a4f06f120c6

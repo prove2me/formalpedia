@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_core_of
 -- name    : Formalism.IndefR.LatticeTransfer.core_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:51.713399+00:00
 -- url     : https://prove2.me/theorems/4dc07509-a990-4ebb-a71e-eac29132f496

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_EigenDecomposition_exists_onb_of_parts_set
 -- name    : Formalism.IndefR.EigenDecomposition.exists_onb_of_parts_set
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:02.854541+00:00
 -- url     : https://prove2.me/theorems/46f4bf1b-fa22-45b2-9844-0a5f5958e926

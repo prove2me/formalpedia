@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_BlockMetrics_maj_sum_left
 -- name    : Formalism.IndefR.LatticeTransfer.BlockMetrics.maj_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:47.170788+00:00
 -- url     : https://prove2.me/theorems/88149881-3518-45e7-9c18-fd8850ee8ecc

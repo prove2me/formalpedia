@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_asc_map_weyl
 -- name    : Formalism.InvariantFactorPaths.INST.asc_map_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:06.818172+00:00
 -- url     : https://prove2.me/theorems/f85a332a-6d41-406e-a38f-d96d608a97d5

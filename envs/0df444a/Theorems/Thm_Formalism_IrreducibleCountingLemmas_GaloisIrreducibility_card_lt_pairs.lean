@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_card_lt_pairs
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.card_lt_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:24.347697+00:00
 -- url     : https://prove2.me/theorems/a50a420d-985d-494c-8898-b9c357f65e86

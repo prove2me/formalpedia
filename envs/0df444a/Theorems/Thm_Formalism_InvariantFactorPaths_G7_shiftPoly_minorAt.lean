@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_shiftPoly_minorAt
 -- name    : Formalism.InvariantFactorPaths.G7.shiftPoly_minorAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:40.597804+00:00
 -- url     : https://prove2.me/theorems/aa237cdd-7e06-4c63-9001-b776317239db

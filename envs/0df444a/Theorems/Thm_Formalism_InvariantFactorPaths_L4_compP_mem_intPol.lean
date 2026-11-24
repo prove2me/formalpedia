@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_compP_mem_intPol
 -- name    : Formalism.InvariantFactorPaths.L4.compP_mem_intPol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:21.708063+00:00
 -- url     : https://prove2.me/theorems/44c5b681-a7aa-48fa-af8b-4e9526f865a6

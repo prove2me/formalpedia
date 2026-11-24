@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_homAct_eq
 -- name    : Formalism.InvariantFactorPaths.PW.homAct_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:49.395283+00:00
 -- url     : https://prove2.me/theorems/ef09d7ae-fd36-43eb-9d95-cab34b8ae648

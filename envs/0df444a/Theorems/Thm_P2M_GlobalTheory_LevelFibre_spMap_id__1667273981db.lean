@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LevelFibre_spMap_id__1667273981db
 -- name    : P2M_GlobalTheory_LevelFibre_spMap_id__1667273981db
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:51.009036+00:00
 -- url     : https://prove2.me/theorems/fbe7bc13-559a-41b1-a8b7-b397f242e723

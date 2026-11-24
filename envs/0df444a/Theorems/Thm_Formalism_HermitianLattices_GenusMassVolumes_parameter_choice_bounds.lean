@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_parameter_choice_bounds
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.parameter_choice_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:23.496801+00:00
 -- url     : https://prove2.me/theorems/0080cee6-845b-4a52-a16b-bdd6713ad50f

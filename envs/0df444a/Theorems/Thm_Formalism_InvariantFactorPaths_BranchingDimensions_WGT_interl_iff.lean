@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_WGT_interl_iff
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.WGT.interl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:36.468406+00:00
 -- url     : https://prove2.me/theorems/61cc3a06-af70-43b5-aac2-5f5bdb41b57b

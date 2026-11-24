@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_divisorBound_of
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.divisorBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:57.925724+00:00
 -- url     : https://prove2.me/theorems/e2e8c2dd-a8a4-4337-bef9-9571320f5bf8

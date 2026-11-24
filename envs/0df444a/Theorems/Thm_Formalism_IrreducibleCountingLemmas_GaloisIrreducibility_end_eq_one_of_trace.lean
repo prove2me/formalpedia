@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_end_eq_one_of_trace
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.end_eq_one_of_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:35.115892+00:00
 -- url     : https://prove2.me/theorems/d49d4f71-7fbd-47e9-b9bb-2c7e138afee2

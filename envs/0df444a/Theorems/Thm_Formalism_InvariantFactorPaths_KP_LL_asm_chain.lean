@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_asm_chain
 -- name    : Formalism.InvariantFactorPaths.KP.LL.asm_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:27.164498+00:00
 -- url     : https://prove2.me/theorems/dcdc0d8b-9105-4264-8762-a18b4b4be013

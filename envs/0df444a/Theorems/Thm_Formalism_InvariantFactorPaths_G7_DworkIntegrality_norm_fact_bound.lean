@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DworkIntegrality_norm_fact_bound
 -- name    : Formalism.InvariantFactorPaths.G7.DworkIntegrality.norm_fact_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:56.130264+00:00
 -- url     : https://prove2.me/theorems/1d9b26e7-77a5-4743-a5e9-85c8e480b8d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_countPAll_of
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.countPAll_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:58.481798+00:00
 -- url     : https://prove2.me/theorems/90c1934f-c398-4a12-a2ee-e9c5fa321f50

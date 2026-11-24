@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_class_exponential
 -- name    : Formalism.InvariantFactorPaths.G7.class_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:23.415107+00:00
 -- url     : https://prove2.me/theorems/08f85571-1c3b-47f5-a34e-cdfff366109b

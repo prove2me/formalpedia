@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qa_nu_cast
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qa_nu_cast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:37:29.977799+00:00
 -- url     : https://prove2.me/theorems/f1e3fb39-3206-43be-a868-e317e63f3231

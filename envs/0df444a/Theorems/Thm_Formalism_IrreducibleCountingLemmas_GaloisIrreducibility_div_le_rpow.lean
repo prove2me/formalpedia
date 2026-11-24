@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_div_le_rpow
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.div_le_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:28.103302+00:00
 -- url     : https://prove2.me/theorems/7ee47153-26e0-48ee-819b-ec256460df16

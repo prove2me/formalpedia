@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_num_bern_real
 -- name    : Formalism.IncomingBounds.num_bern_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:54.64103+00:00
 -- url     : https://prove2.me/theorems/eb32b57b-3357-452a-946d-bcb180a44eff

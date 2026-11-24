@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_coeff_lg_lg_eq_zero
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.coeff_lg_lg_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:05.14463+00:00
 -- url     : https://prove2.me/theorems/bfefbb0a-6ce2-4f75-b955-fecb777fdc49

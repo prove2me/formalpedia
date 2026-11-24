@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_idxLcv_lidx_add
 -- name    : Formalism.DivisionValues.idxLcv_lidx_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:21:01.664811+00:00
 -- url     : https://prove2.me/theorems/279f68e3-65c5-49c9-8fac-554265687ed1

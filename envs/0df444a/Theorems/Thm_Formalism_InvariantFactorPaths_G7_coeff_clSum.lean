@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_coeff_clSum
 -- name    : Formalism.InvariantFactorPaths.G7.coeff_clSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:36.400741+00:00
 -- url     : https://prove2.me/theorems/73ceca73-f474-4125-80b3-005e950c90b4

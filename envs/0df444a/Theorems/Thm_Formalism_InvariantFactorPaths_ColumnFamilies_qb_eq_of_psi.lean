@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_eq_of_psi
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_eq_of_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:45.915469+00:00
 -- url     : https://prove2.me/theorems/178d7686-6d0d-4682-b280-93d33e357a6e

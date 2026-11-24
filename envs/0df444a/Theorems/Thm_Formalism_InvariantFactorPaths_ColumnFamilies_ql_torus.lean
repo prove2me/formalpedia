@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_ql_torus
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.ql_torus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:00.290336+00:00
 -- url     : https://prove2.me/theorems/fb5d5221-9cb2-4533-8a79-561877e1c02a

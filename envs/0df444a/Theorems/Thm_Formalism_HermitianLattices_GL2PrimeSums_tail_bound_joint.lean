@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_tail_bound_joint
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.tail_bound_joint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:58.429252+00:00
 -- url     : https://prove2.me/theorems/efd18989-3057-4720-a914-bbb00cf8cda8

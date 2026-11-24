@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_DIV_polyAction_one__f4d3cf3e4198
 -- name    : P2M_Formalism_L2_DIV_polyAction_one__f4d3cf3e4198
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:56.868248+00:00
 -- url     : https://prove2.me/theorems/b9d6d18f-5ad7-4e40-9783-89a185cef395

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_TTyp_key
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.TTyp.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:07:48.118817+00:00
 -- url     : https://prove2.me/theorems/07a4e247-23ca-4fa2-a7f3-a4d2c7ed68c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_fact_choose_succ
 -- name    : Formalism.InvariantFactorPaths.L4.fact_choose_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:33.301494+00:00
 -- url     : https://prove2.me/theorems/df83d749-e429-4c03-b9fc-f5c7833afd51

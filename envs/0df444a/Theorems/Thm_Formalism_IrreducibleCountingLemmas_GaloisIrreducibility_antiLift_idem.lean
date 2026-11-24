@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_antiLift_idem
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.antiLift_idem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:06.020807+00:00
 -- url     : https://prove2.me/theorems/1f69dc11-da63-426e-bea5-37d91df2f6a8

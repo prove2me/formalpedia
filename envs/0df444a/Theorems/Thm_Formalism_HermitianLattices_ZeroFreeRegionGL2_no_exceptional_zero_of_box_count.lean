@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_no_exceptional_zero_of_box_count
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.no_exceptional_zero_of_box_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:53.055786+00:00
 -- url     : https://prove2.me/theorems/256f1ec0-dff5-4e8b-bc73-e9c700f354ce

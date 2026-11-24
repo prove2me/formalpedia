@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_spr_one_le_count
 -- name    : Formalism.InvariantFactorPaths.INST.spr_one_le_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:15.843288+00:00
 -- url     : https://prove2.me/theorems/c5e42889-fd9c-4612-a08f-fa32613ed409

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_cardCokernelRestriction
 -- name    : Formalism.HermitianLatticeCounting.P.cardCokernelRestriction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:37.761897+00:00
 -- url     : https://prove2.me/theorems/8ec9b670-8943-41e3-967b-bb2199eb48db

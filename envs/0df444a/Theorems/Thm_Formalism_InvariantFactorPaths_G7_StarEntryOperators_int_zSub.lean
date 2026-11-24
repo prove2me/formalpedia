@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_StarEntryOperators_int_zSub
 -- name    : Formalism.InvariantFactorPaths.G7.StarEntryOperators.int_zSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:40.814083+00:00
 -- url     : https://prove2.me/theorems/783257d0-0162-41b8-b935-3eb9ffba03ae

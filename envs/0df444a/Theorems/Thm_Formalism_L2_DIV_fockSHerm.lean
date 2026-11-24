@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fockSHerm
 -- name    : Formalism.L2.DIV.fockSHerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:22.334064+00:00
 -- url     : https://prove2.me/theorems/ea9ebe99-d7ef-4207-87cf-96ee8c9a8d9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prod_shifted_ratio_bounds
 -- name    : Formalism.HermitianLatticeCounting.P.prod_shifted_ratio_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:41.367696+00:00
 -- url     : https://prove2.me/theorems/9a34b1c9-4cdf-445c-aed0-8f79c021e570

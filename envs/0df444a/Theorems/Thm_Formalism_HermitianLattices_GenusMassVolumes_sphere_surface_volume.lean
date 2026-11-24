@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_sphere_surface_volume
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.sphere_surface_volume
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:26.068294+00:00
 -- url     : https://prove2.me/theorems/e9ef4fab-2593-4c42-acba-090f5f6544ee

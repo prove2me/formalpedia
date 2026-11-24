@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_smulSub_mul_le
 -- name    : Formalism.IndefR.Fin.Four.smulSub_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:05.658556+00:00
 -- url     : https://prove2.me/theorems/18048fb9-3ee9-4c7f-9e13-21a33a28e39c

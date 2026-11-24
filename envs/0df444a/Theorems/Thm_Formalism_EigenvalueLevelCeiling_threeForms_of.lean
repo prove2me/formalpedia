@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_threeForms_of
 -- name    : Formalism.EigenvalueLevelCeiling.threeForms_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:33:59.581335+00:00
 -- url     : https://prove2.me/theorems/9e308136-a0d9-4cd1-9787-d0626c67889f

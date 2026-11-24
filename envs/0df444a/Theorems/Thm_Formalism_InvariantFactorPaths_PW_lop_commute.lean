@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_lop_commute
 -- name    : Formalism.InvariantFactorPaths.PW.lop_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:50.369693+00:00
 -- url     : https://prove2.me/theorems/ea5bea9b-6d71-47b6-98cc-33e2d29eb9da

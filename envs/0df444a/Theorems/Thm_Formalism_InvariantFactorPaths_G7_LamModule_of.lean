@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LamModule_of
 -- name    : Formalism.InvariantFactorPaths.G7.LamModule_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:39.806817+00:00
 -- url     : https://prove2.me/theorems/a15b1c38-4eff-4db0-81ed-ac31971fd6f5

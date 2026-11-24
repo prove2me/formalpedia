@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_open_subgroup_continuous
 -- name    : Formalism.IrreducibleCountingLemmas.Z.open_subgroup_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:17.876209+00:00
 -- url     : https://prove2.me/theorems/6e2a9d2c-803f-4660-bb2f-7326b3a24c16

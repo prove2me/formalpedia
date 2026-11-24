@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_cover_factorization
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.cover_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T04:03:36.984619+00:00
 -- url     : https://prove2.me/theorems/b60bcd69-f0d8-4150-a21f-b5fd51da51c9

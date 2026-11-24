@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_exists_not_dvd_choose
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.exists_not_dvd_choose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:47.073867+00:00
 -- url     : https://prove2.me/theorems/473cc055-7d35-4678-9155-9594b89bbeaf

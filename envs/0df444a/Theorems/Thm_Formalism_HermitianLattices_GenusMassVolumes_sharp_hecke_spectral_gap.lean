@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_sharp_hecke_spectral_gap
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.sharp_hecke_spectral_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:28.032052+00:00
 -- url     : https://prove2.me/theorems/dd3557b1-ebff-49f5-a5ff-7dd9da9387a8

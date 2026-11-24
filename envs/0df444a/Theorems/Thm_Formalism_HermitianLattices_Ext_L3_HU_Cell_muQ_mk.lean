@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_Cell_muQ_mk
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.Cell.muQ_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:37.235314+00:00
 -- url     : https://prove2.me/theorems/613fe83f-44ba-43ce-9481-af45d548c61d

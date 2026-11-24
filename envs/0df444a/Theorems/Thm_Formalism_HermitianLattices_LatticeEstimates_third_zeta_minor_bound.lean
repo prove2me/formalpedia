@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_third_zeta_minor_bound
 -- name    : Formalism.HermitianLattices.LatticeEstimates.third_zeta_minor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:10.88966+00:00
 -- url     : https://prove2.me/theorems/b8941c53-c56a-40bb-924f-b05f2fb9b4aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_md_bound
 -- name    : Formalism.IndefR.Eqv.md_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:03.114905+00:00
 -- url     : https://prove2.me/theorems/c619ece4-e02f-4d4e-a9f7-51b0b7640f5d

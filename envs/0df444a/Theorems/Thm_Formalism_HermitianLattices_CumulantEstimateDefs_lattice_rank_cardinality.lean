@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_lattice_rank_cardinality
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.lattice_rank_cardinality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:34.455553+00:00
 -- url     : https://prove2.me/theorems/f39a1667-0938-44d0-b392-49cbce7adb70

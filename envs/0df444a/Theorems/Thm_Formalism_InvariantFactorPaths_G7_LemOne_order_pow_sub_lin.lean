@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_order_pow_sub_lin
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.order_pow_sub_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:37.948143+00:00
 -- url     : https://prove2.me/theorems/094a856e-1bb4-43d0-8997-5e89d23ec61e

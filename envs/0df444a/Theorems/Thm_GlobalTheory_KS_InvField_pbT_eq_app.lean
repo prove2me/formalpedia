@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvField_pbT_eq_app
 -- name    : GlobalTheory.KS.InvField.pbT_eq_app
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:15.141181+00:00
 -- url     : https://prove2.me/theorems/39348602-fb18-4ad5-b1c5-57297e63f372

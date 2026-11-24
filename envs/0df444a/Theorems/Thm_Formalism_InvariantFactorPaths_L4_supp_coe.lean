@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_supp_coe
 -- name    : Formalism.InvariantFactorPaths.L4.supp_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:41.210787+00:00
 -- url     : https://prove2.me/theorems/f742d2ea-e0cc-4186-b5d0-7a06d658cb56

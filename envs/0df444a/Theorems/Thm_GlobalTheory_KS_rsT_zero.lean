@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_rsT_zero
 -- name    : GlobalTheory.KS.rsT_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:29.730033+00:00
 -- url     : https://prove2.me/theorems/cd1d92da-7da7-4b3b-8040-d9f4c3d9cd27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_span_of
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.span_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:53.212223+00:00
 -- url     : https://prove2.me/theorems/d74d771a-6909-4d53-a0ef-02a913c6722e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_cycleProbSum_of_cycleProbPrime
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.cycleProbSum_of_cycleProbPrime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:23.425474+00:00
 -- url     : https://prove2.me/theorems/f0cf1e3a-f310-4135-8894-c2dee99bf2d0

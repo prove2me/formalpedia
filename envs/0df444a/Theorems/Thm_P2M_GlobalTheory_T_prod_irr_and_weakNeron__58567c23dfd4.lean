@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_prod_irr_and_weakNeron__58567c23dfd4
 -- name    : P2M_GlobalTheory_T_prod_irr_and_weakNeron__58567c23dfd4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:29.868341+00:00
 -- url     : https://prove2.me/theorems/6d9a2583-9bc1-498b-8e01-4e3a2ae251ac

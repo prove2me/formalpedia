@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHMult_jhMult_exact
 -- name    : GlobalTheory.JHMult.jhMult_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:26:37.947803+00:00
 -- url     : https://prove2.me/theorems/6b9cf50a-72e0-466c-a171-be9b060b8ac4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_character_sum_lipschitz
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.character_sum_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:51.787311+00:00
 -- url     : https://prove2.me/theorems/67574a00-dcd8-4426-9a47-f0f2f4ce2074

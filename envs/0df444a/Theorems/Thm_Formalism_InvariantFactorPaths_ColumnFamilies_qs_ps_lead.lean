@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qs_ps_lead
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qs_ps_lead
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:05.423636+00:00
 -- url     : https://prove2.me/theorems/d216b48a-9733-4909-b9cd-79c80fb1924e

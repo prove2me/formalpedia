@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_LatticeBasis_exists_family
 -- name    : Formalism.InvariantFactorPaths.PW.LatticeBasis.exists_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:10.936351+00:00
 -- url     : https://prove2.me/theorems/07c9c1d4-5175-4cf3-bda4-c078024fa82f

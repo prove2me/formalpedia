@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_conjAct_sharp
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.conjAct_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:56.390611+00:00
 -- url     : https://prove2.me/theorems/5af5f811-c0cb-460f-b5a4-a0639586c82e

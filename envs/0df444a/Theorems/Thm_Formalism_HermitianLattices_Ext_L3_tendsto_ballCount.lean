@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_tendsto_ballCount
 -- name    : Formalism.HermitianLattices.Ext.L3.tendsto_ballCount
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:38.38179+00:00
 -- url     : https://prove2.me/theorems/50bfa67e-38ab-4265-9e22-4293b1dfab88

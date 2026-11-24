@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_star_dot_self_eq
 -- name    : Formalism.L2.Pj.DatLin.star_dot_self_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:42.333324+00:00
 -- url     : https://prove2.me/theorems/89d7b5ae-a2c7-48c1-bcd0-54862348fe1d

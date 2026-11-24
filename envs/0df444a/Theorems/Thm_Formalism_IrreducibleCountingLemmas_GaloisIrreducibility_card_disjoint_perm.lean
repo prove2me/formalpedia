@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_card_disjoint_perm
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.card_disjoint_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:10.951508+00:00
 -- url     : https://prove2.me/theorems/b3240c3e-2ea0-4339-81b4-5f34a56b6c40

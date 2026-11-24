@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_suppOK_C_mul
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.suppOK_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:13.297799+00:00
 -- url     : https://prove2.me/theorems/08adf733-caed-4c27-b886-8e6c009685c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_edgeSum_flip
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.edgeSum_flip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:39.94082+00:00
 -- url     : https://prove2.me/theorems/304af9e2-c2a0-43e6-b61e-893fd45e1e60

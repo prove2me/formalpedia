@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_local_id
 -- name    : Formalism.DivisionValues.StepBAux.local_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:19:48.832914+00:00
 -- url     : https://prove2.me/theorems/6bec0145-edaa-4f54-9217-2c0f5f4f6b66

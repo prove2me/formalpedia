@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DworkIntegrality_frob_monomial
 -- name    : Formalism.InvariantFactorPaths.G7.DworkIntegrality.frob_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:43.90981+00:00
 -- url     : https://prove2.me/theorems/f257c461-ea40-4647-9508-59f8ecdc9409

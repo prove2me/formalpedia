@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_invTrK_coe
 -- name    : Formalism.L2.DIV.invTrK_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:20.205312+00:00
 -- url     : https://prove2.me/theorems/1d1637d0-4952-48b3-9ee9-37679f8d4da5

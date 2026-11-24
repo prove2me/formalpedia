@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_card_le_of_root_mem
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.card_le_of_root_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:35.770873+00:00
 -- url     : https://prove2.me/theorems/7fe37397-8a54-440f-95a3-baf8e81670cb

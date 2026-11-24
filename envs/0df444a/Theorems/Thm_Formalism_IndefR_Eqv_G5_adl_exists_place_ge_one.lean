@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_G5_adl_exists_place_ge_one
 -- name    : Formalism.IndefR.Eqv.G5.adl_exists_place_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:14.104803+00:00
 -- url     : https://prove2.me/theorems/db5fc09f-a43c-44b8-b952-9e6321b6fa42

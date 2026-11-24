@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qc_det_mul_fun
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qc_det_mul_fun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:59.409814+00:00
 -- url     : https://prove2.me/theorems/8c76b47a-0d32-4bc1-a7d1-8a0b21cc6321

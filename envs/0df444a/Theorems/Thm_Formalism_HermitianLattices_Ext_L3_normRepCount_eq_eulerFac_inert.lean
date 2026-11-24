@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_normRepCount_eq_eulerFac_inert
 -- name    : Formalism.HermitianLattices.Ext.L3.normRepCount_eq_eulerFac_inert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:04.697247+00:00
 -- url     : https://prove2.me/theorems/f7f05173-ba71-487b-bbb9-d1bc330f8ea4

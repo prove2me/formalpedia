@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLaws_lgF_subst_C_mul
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLaws.lgF_subst_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:54:24.957326+00:00
 -- url     : https://prove2.me/theorems/467395a5-2f1f-4d64-a40b-cee919fa060f

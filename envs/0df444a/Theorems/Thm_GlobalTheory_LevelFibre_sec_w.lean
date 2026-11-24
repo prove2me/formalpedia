@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_sec_w
 -- name    : GlobalTheory.LevelFibre.sec_w
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:00.535627+00:00
 -- url     : https://prove2.me/theorems/7cbb6eba-d091-430d-88f0-f36ac52e68d7

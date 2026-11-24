@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_lowIm_keep
 -- name    : Formalism.InvariantFactorPaths.L4.lowIm_keep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:37.020217+00:00
 -- url     : https://prove2.me/theorems/29a4fd0f-8475-44e7-bca9-6bf09c7cbd35

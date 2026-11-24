@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_parameter_choice
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.parameter_choice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:59.295518+00:00
 -- url     : https://prove2.me/theorems/1d5fbdaf-e68c-427b-a5a0-a59287c3c407

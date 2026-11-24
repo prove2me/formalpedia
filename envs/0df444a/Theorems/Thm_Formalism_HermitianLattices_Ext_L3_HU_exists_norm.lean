@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_exists_norm
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.exists_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:57.367626+00:00
 -- url     : https://prove2.me/theorems/a924b416-de20-4bad-a065-42f8ee422494

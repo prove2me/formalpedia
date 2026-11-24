@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_include_three_pow
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.include_three_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:19.233029+00:00
 -- url     : https://prove2.me/theorems/0511ce93-ec90-40e1-97c5-570848fe9699

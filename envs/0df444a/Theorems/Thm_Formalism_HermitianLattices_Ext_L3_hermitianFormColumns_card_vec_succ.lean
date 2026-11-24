@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_hermitianFormColumns_card_vec_succ
 -- name    : Formalism.HermitianLattices.Ext.L3.hermitianFormColumns.card_vec_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:33.553029+00:00
 -- url     : https://prove2.me/theorems/7f468434-1924-4a94-8e14-2e664e8fbdda

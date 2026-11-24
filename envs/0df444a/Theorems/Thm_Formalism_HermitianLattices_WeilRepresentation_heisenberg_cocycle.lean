@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_WeilRepresentation_heisenberg_cocycle
 -- name    : Formalism.HermitianLattices.WeilRepresentation.heisenberg_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:12.189087+00:00
 -- url     : https://prove2.me/theorems/9f2d3cfa-31c8-41ff-b6de-6e418d97f240

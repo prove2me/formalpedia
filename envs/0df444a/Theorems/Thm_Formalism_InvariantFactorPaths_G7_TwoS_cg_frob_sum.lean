@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_cg_frob_sum
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.cg_frob_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:54:08.13722+00:00
 -- url     : https://prove2.me/theorems/c729f37f-ad31-46df-8bdb-a678450dc1d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_hasseDir_dirD
 -- name    : Formalism.InvariantFactorPaths.G7.hasseDir_dirD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:42.20346+00:00
 -- url     : https://prove2.me/theorems/c3399e69-b323-445d-9fb8-cc8697d7bf75

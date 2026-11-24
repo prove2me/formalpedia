@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_irreducible_count_upper
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.irreducible_count_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:47.531013+00:00
 -- url     : https://prove2.me/theorems/1517e8f0-7273-4426-a261-fa6993f73cde

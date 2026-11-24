@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_dimension_mass_joint_bound
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.dimension_mass_joint_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:38.694787+00:00
 -- url     : https://prove2.me/theorems/f53601e6-d530-4cd4-bbff-47aae18ed5f4

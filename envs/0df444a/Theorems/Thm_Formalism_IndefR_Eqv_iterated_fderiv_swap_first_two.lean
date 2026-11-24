@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_iterated_fderiv_swap_first_two
 -- name    : Formalism.IndefR.Eqv.iterated_fderiv_swap_first_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:17.492734+00:00
 -- url     : https://prove2.me/theorems/0ac378f3-53c7-4f05-bf67-bf127d97e492

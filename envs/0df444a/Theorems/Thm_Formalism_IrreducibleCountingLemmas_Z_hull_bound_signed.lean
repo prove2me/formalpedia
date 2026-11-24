@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_hull_bound_signed
 -- name    : Formalism.IrreducibleCountingLemmas.Z.hull_bound_signed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:49.308869+00:00
 -- url     : https://prove2.me/theorems/3bab9b6c-c5c7-4180-a47a-5faa10338446

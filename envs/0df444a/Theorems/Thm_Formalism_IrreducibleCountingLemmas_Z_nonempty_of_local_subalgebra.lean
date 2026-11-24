@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_nonempty_of_local_subalgebra
 -- name    : Formalism.IrreducibleCountingLemmas.Z.nonempty_of_local_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:49.794842+00:00
 -- url     : https://prove2.me/theorems/1947db27-a910-4a29-bb0f-50e1bbcd5bd2

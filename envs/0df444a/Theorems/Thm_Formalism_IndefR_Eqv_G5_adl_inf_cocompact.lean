@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_G5_adl_inf_cocompact
 -- name    : Formalism.IndefR.Eqv.G5.adl_inf_cocompact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:02.008302+00:00
 -- url     : https://prove2.me/theorems/99934c49-0201-4397-9f62-dbbd1e640c1f

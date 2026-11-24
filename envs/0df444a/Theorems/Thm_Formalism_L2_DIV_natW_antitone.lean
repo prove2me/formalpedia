@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_natW_antitone
 -- name    : Formalism.L2.DIV.natW_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:32.712227+00:00
 -- url     : https://prove2.me/theorems/9d73627a-ff39-4e3b-a898-d3df93a2f164

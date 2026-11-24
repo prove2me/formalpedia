@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_wt_AA
 -- name    : Formalism.InvariantFactorPaths.G7.wt_AA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:55.304871+00:00
 -- url     : https://prove2.me/theorems/1653625f-28fe-4d2d-9f48-4dd24e6dc880

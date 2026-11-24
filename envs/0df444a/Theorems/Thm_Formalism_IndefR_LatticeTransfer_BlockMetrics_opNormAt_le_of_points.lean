@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_BlockMetrics_opNormAt_le_of_points
 -- name    : Formalism.IndefR.LatticeTransfer.BlockMetrics.opNormAt_le_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:13.331024+00:00
 -- url     : https://prove2.me/theorems/b0f92f15-628d-4634-b1b7-4fd834fc4289

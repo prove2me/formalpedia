@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_colOp_isUT
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.colOp_isUT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:03.662809+00:00
 -- url     : https://prove2.me/theorems/77d9772a-84e7-4637-aeb8-6561da5b175a

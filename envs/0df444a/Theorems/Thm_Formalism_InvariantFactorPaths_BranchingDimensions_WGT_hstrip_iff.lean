@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_WGT_hstrip_iff
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.WGT.hstrip_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:24.157715+00:00
 -- url     : https://prove2.me/theorems/61392f46-d511-4f15-9d20-abd6589f8030

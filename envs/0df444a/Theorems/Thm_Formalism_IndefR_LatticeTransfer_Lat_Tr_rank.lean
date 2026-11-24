@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_Tr_rank
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.Tr.rank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:38.627793+00:00
 -- url     : https://prove2.me/theorems/924b143f-df83-4ee6-badf-e82b0a3ee1fd

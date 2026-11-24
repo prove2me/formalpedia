@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_exists_form_eq_one
 -- name    : GlobalTheory.SimAlg.exists_form_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:51.034742+00:00
 -- url     : https://prove2.me/theorems/f0b54e8d-aab8-46a4-a509-20244980454b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_exists_opt_flow
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.exists_opt_flow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:32:48.80369+00:00
 -- url     : https://prove2.me/theorems/1a3ca987-8de3-4227-95d1-fe4fb1ce92ef

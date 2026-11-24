@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_constantCoeff_law_first_two_of_three
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.constantCoeff_law_first_two_of_three
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:11.538968+00:00
 -- url     : https://prove2.me/theorems/5f196fbe-e8d1-4b43-9e87-4f9479ba3dc5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_norm_add_le_one
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.norm_add_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:01.731949+00:00
 -- url     : https://prove2.me/theorems/bb63e42d-5914-4e21-bab8-f275850f0e34

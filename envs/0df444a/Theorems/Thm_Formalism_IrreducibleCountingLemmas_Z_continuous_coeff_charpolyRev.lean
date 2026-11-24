@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_continuous_coeff_charpolyRev
 -- name    : Formalism.IrreducibleCountingLemmas.Z.continuous_coeff_charpolyRev
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:54.14635+00:00
 -- url     : https://prove2.me/theorems/a093554e-dbec-403b-8621-be930b4c5f44

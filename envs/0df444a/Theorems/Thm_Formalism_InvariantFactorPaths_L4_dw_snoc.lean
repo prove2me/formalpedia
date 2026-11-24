@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_dw_snoc
 -- name    : Formalism.InvariantFactorPaths.L4.dw_snoc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:17.912141+00:00
 -- url     : https://prove2.me/theorems/ae597909-9c41-4ad2-878f-ee2a67440354

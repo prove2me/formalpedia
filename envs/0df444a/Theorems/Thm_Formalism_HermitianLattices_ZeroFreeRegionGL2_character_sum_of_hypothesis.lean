@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_character_sum_of_hypothesis
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.character_sum_of_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:24.309522+00:00
 -- url     : https://prove2.me/theorems/4aeed2fb-3fc7-4d08-bd9c-a03fe18bbf59

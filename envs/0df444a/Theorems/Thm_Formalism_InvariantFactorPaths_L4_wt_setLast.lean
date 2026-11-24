@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_wt_setLast
 -- name    : Formalism.InvariantFactorPaths.L4.wt_setLast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:56.919895+00:00
 -- url     : https://prove2.me/theorems/3b1cba71-20ab-4ae4-818e-3f21aac862c7

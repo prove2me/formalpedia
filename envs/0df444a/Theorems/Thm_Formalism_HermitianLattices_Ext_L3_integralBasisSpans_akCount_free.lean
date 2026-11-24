@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_integralBasisSpans_akCount_free
 -- name    : Formalism.HermitianLattices.Ext.L3.integralBasisSpans.akCount_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:59.161894+00:00
 -- url     : https://prove2.me/theorems/e117ae64-be53-431e-a1b6-becd536d7225

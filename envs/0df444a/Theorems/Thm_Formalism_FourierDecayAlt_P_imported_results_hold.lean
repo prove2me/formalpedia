@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_imported_results_hold
 -- name    : Formalism.FourierDecayAlt.P.imported_results_hold
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:27.515836+00:00
 -- url     : https://prove2.me/theorems/1643d7d8-88d0-4912-a3ab-f40eb5b1da0e

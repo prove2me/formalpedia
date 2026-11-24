@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_normRepCount_eq_eulerFac_split
 -- name    : Formalism.HermitianLattices.Ext.L3.normRepCount_eq_eulerFac_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:55:59.727423+00:00
 -- url     : https://prove2.me/theorems/ea5f9011-327a-40c2-9968-bd5499583901

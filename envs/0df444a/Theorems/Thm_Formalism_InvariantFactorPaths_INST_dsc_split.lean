@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_dsc_split
 -- name    : Formalism.InvariantFactorPaths.INST.dsc_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:47.408485+00:00
 -- url     : https://prove2.me/theorems/35fefd75-b41c-45d6-948a-593c72d4a861

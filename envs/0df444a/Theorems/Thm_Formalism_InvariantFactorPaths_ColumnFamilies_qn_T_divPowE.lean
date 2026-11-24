@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_T_divPowE
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_T_divPowE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:48.365102+00:00
 -- url     : https://prove2.me/theorems/db5a62ff-f653-4474-b9c4-07715b02faca

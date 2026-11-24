@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_detTw_eq
 -- name    : Formalism.L2.DIV.detTw_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:54.450024+00:00
 -- url     : https://prove2.me/theorems/9e78d7aa-9e9f-4175-b3da-871add267c39

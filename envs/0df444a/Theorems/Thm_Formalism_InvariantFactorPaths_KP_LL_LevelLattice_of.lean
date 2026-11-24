@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_LevelLattice_of
 -- name    : Formalism.InvariantFactorPaths.KP.LL.LevelLattice_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:26.865168+00:00
 -- url     : https://prove2.me/theorems/caf5d043-0215-427b-ab14-71a0041456db

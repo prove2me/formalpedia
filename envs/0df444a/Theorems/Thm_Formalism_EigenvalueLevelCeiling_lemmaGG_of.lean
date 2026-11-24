@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_lemmaGG_of
 -- name    : Formalism.EigenvalueLevelCeiling.lemmaGG_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:32:57.205801+00:00
 -- url     : https://prove2.me/theorems/cefd0bb7-9b5b-48e1-9efb-9deac0cc5dcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_degLE_prod
 -- name    : Formalism.InvariantFactorPaths.G7.degLE_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:31.723243+00:00
 -- url     : https://prove2.me/theorems/447efd70-856e-4c37-9bdc-b25921cc885c

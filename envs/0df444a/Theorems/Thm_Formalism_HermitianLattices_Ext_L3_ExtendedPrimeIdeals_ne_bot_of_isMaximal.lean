@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_ExtendedPrimeIdeals_ne_bot_of_isMaximal
 -- name    : Formalism.HermitianLattices.Ext.L3.ExtendedPrimeIdeals.ne_bot_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:18.472096+00:00
 -- url     : https://prove2.me/theorems/a6c92d04-e563-4813-a5f8-334c9703592e

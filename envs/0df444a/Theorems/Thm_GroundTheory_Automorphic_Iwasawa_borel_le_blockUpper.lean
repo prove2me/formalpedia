@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_borel_le_blockUpper
 -- name    : GroundTheory.Automorphic.Iwasawa.borel_le_blockUpper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:48.213658+00:00
 -- url     : https://prove2.me/theorems/9836f2fb-7b02-4429-b651-53ad78122b4b

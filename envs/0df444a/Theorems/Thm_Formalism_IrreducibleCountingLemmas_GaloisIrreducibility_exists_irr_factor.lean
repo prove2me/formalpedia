@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_exists_irr_factor
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.exists_irr_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:59.902559+00:00
 -- url     : https://prove2.me/theorems/ded19137-fee2-43bd-9bb0-5161f868be7e

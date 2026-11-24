@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_euler_identity
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.euler_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:59.146848+00:00
 -- url     : https://prove2.me/theorems/a46975b6-4013-4e73-934c-1480bb967432

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_polyAction_mul
 -- name    : Formalism.L2.DIV.polyAction_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:40.983084+00:00
 -- url     : https://prove2.me/theorems/774b6a1b-0eaa-4d6e-8bf4-25bc8d017b26

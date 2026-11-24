@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_U2_map_eigPart
 -- name    : Formalism.IndefR.U2.map_eigPart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:24.236468+00:00
 -- url     : https://prove2.me/theorems/cff44dd7-4697-4f9b-ae55-1ba2f4ce3169

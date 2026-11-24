@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_span_le
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_span_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:25.005828+00:00
 -- url     : https://prove2.me/theorems/35f4aebf-b14d-4f69-bc08-4359f1554f2d

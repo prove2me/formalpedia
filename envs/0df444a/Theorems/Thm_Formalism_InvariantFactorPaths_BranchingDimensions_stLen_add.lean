@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_stLen_add
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.stLen_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:25.421938+00:00
 -- url     : https://prove2.me/theorems/253e94a3-c5b4-4225-9dfe-ddc6ac45b96b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_suppOK_frob
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.suppOK_frob
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:22.415921+00:00
 -- url     : https://prove2.me/theorems/0c06f6ad-4a26-449d-be74-2c4982161510

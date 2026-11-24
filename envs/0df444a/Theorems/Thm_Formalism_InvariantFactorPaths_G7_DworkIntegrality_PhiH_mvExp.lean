@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DworkIntegrality_PhiH_mvExp
 -- name    : Formalism.InvariantFactorPaths.G7.DworkIntegrality.PhiH_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:23.929902+00:00
 -- url     : https://prove2.me/theorems/64ad467c-dc94-43d2-9185-a5b578f80dcd

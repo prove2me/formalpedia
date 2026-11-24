@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_norm_sub_le_one
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.norm_sub_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:08.098729+00:00
 -- url     : https://prove2.me/theorems/5aaaee30-b45a-455e-a290-bf49b7bbc82b

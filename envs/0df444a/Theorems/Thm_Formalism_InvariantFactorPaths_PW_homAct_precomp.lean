@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_homAct_precomp
 -- name    : Formalism.InvariantFactorPaths.PW.homAct_precomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:13.974201+00:00
 -- url     : https://prove2.me/theorems/828496a2-6f07-4c2f-aacd-3c26357332ad

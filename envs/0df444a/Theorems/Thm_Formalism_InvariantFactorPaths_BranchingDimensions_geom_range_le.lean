@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_geom_range_le
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.geom_range_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:31.263183+00:00
 -- url     : https://prove2.me/theorems/03371e7b-c127-40e1-9d5a-db8784aa5a98

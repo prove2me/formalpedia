@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_isoC_le_ycondC
 -- name    : Formalism.InvariantFactorPaths.L4.isoC_le_ycondC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:06.050904+00:00
 -- url     : https://prove2.me/theorems/1de62162-03d2-40d3-b8be-3c6fcc2a133f

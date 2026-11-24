@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qr_sum_colH
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qr_sum_colH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:22:20.771082+00:00
 -- url     : https://prove2.me/theorems/6a3c1a78-42c0-4d60-8bbb-b203fb74cb15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_weightZeroProj_mem
 -- name    : Formalism.InvariantFactorPaths.PW.weightZeroProj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:56.108304+00:00
 -- url     : https://prove2.me/theorems/7d22d3d1-b009-4c28-933d-37b540c12a84

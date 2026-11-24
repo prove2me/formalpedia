@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_ql_s_max
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.ql_s_max
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:39.578146+00:00
 -- url     : https://prove2.me/theorems/87ec7fbb-e752-44ee-8b02-70c4096b2090

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulPullSec_isUnit_gs_iff
 -- name    : GlobalTheory.MulPullSec.isUnit_gs_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:52.647087+00:00
 -- url     : https://prove2.me/theorems/2edf5ac5-aed6-47d2-b28a-0b1ed77a1812

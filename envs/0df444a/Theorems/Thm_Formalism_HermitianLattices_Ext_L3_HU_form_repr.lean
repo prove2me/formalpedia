@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_form_repr
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.form_repr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:22.462975+00:00
 -- url     : https://prove2.me/theorems/80b5f9d5-40be-4e90-a306-15323fd56e45

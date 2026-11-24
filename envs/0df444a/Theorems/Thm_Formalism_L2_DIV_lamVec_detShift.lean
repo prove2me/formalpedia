@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_lamVec_detShift
 -- name    : Formalism.L2.DIV.lamVec_detShift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:46.049551+00:00
 -- url     : https://prove2.me/theorems/7a81bd79-8f39-457b-b6c1-ceca8747160e

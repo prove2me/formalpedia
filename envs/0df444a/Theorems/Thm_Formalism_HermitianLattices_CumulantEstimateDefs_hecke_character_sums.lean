@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_hecke_character_sums
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.hecke_character_sums
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:44.744798+00:00
 -- url     : https://prove2.me/theorems/9d1d6692-bab5-4178-99f9-8092b00a258f

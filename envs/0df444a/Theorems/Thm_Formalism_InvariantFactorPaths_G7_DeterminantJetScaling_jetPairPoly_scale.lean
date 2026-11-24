@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DeterminantJetScaling_jetPairPoly_scale
 -- name    : Formalism.InvariantFactorPaths.G7.DeterminantJetScaling.jetPairPoly_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:56.077813+00:00
 -- url     : https://prove2.me/theorems/a1385b3c-ba02-498a-87d0-2aeebaf78d0e

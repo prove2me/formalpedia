@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulPullSec_mem_nonzeroLocus_iff
 -- name    : GlobalTheory.MulPullSec.mem_nonzeroLocus_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:02:36.091002+00:00
 -- url     : https://prove2.me/theorems/4304e36c-1bbb-48ae-8482-03523a865e16

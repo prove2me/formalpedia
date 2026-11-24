@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_glRel_ofT
 -- name    : Formalism.InvariantFactorPaths.PW.glRel_ofT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:10.613001+00:00
 -- url     : https://prove2.me/theorems/cec8107c-fd18-41fe-ba69-b764b8d24aa2

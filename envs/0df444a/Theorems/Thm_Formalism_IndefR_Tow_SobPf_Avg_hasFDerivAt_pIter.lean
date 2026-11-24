@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Tow_SobPf_Avg_hasFDerivAt_pIter
 -- name    : Formalism.IndefR.Tow.SobPf.Avg.hasFDerivAt_pIter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:21.354501+00:00
 -- url     : https://prove2.me/theorems/e4046a3f-de64-4831-99f8-518e7ffe3e93

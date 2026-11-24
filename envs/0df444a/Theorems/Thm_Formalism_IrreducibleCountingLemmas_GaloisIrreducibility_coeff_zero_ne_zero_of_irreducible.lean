@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_coeff_zero_ne_zero_of_irreducible
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.coeff_zero_ne_zero_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:31.662086+00:00
 -- url     : https://prove2.me/theorems/42f601d2-9faf-40bc-b169-ffdefdb42d15

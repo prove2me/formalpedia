@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_swap_two_eq_rename
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.swap_two_eq_rename
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:28.49459+00:00
 -- url     : https://prove2.me/theorems/c694bd05-e600-400c-bafc-d6aa5d174113

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ParitySumsOverFilteredPairs_iN_le_cap
 -- name    : Formalism.InvariantFactorPaths.G7.ParitySumsOverFilteredPairs.iN_le_cap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:50.471453+00:00
 -- url     : https://prove2.me/theorems/3b532076-933f-4ece-88ef-39e1a4fa2288

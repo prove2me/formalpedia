@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_TTyp_bracket
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.TTyp.bracket
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:46:04.162798+00:00
 -- url     : https://prove2.me/theorems/1a1b17e3-aee7-4308-b928-6f2bd0cd09d8

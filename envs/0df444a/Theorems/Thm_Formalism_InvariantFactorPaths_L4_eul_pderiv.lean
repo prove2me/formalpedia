@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_eul_pderiv
 -- name    : Formalism.InvariantFactorPaths.L4.eul_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:24.435535+00:00
 -- url     : https://prove2.me/theorems/8aeb374a-425c-4efe-b221-3c329af03837

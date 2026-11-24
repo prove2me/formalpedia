@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_jn_injective
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.jn_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:44.550556+00:00
 -- url     : https://prove2.me/theorems/6c27c84c-51e9-4dae-8c84-9eb9e69c160a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_degree_jn
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.degree_jn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:24.638543+00:00
 -- url     : https://prove2.me/theorems/65f848f4-2d15-47f4-acac-94afbe55215c

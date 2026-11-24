@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_M_intPol_rename__d2058bf01e91
 -- name    : P2M_Formalism_GM_M_intPol_rename__d2058bf01e91
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:12.013821+00:00
 -- url     : https://prove2.me/theorems/2e22ff62-c611-4e12-ab18-d4c203371f51

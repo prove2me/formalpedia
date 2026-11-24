@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_norm_untilt_iterate_pow
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.norm_untilt_iterate_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:59.156354+00:00
 -- url     : https://prove2.me/theorems/3bb029c8-28aa-4bce-a50c-a9d5778e7fb0

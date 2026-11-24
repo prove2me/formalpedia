@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_error_term_bound
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.error_term_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:52.89289+00:00
 -- url     : https://prove2.me/theorems/11bea106-f0d6-42bf-91a3-2d8ea0540d94

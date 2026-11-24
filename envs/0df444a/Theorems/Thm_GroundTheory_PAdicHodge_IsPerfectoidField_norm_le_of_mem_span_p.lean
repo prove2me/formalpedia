@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_norm_le_of_mem_span_p
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.norm_le_of_mem_span_p
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:48.575184+00:00
 -- url     : https://prove2.me/theorems/09ecaef0-78d9-44f2-af32-2e949d5c51c4

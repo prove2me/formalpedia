@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_schurTrace_of_homInv
 -- name    : Formalism.InvariantFactorPaths.PW.schurTrace_of_homInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:45.532826+00:00
 -- url     : https://prove2.me/theorems/8146252f-96e4-4308-bd99-574f7d72c313

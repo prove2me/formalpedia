@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_abs_bound
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.abs_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:38.201157+00:00
 -- url     : https://prove2.me/theorems/9f5264fe-190a-4e0f-a981-79d5cfd98b61

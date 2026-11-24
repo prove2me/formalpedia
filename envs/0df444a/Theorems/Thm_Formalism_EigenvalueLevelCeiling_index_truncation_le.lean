@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_index_truncation_le
 -- name    : Formalism.EigenvalueLevelCeiling.index_truncation_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:32:39.656199+00:00
 -- url     : https://prove2.me/theorems/5b099534-9486-4b1b-a1c2-f8be80833c3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_norm_pow_log_div_choose
 -- name    : Formalism.InvariantFactorPaths.PW.norm_pow_log_div_choose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:53.398933+00:00
 -- url     : https://prove2.me/theorems/e4e53ddd-e102-4fdd-8602-2f61966895ed

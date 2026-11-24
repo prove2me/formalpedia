@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_norm_eq_of_mk_eq
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.norm_eq_of_mk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:29.603904+00:00
 -- url     : https://prove2.me/theorems/cc801dd9-a54c-4dfa-8efe-d2f4ab75dc3d

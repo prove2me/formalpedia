@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_mem_blockUpper
 -- name    : GroundTheory.Automorphic.Iwasawa.mem_blockUpper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:42.192314+00:00
 -- url     : https://prove2.me/theorems/f118284f-5357-42f9-9051-a351cdfaf12b

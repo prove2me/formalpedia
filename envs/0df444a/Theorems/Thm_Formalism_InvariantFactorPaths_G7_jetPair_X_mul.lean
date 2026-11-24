@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_jetPair_X_mul
 -- name    : Formalism.InvariantFactorPaths.G7.jetPair_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:55.131067+00:00
 -- url     : https://prove2.me/theorems/d7cc9165-ae15-4686-9eb0-2e160fdcc960

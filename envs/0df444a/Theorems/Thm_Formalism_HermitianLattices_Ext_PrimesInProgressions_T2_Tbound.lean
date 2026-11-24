@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_T2_Tbound
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.Tbound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:59.947989+00:00
 -- url     : https://prove2.me/theorems/ef4981b4-a458-4f95-b057-a16943310a44

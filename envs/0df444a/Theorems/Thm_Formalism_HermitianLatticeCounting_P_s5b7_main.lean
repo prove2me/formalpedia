@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_main
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:14.747628+00:00
 -- url     : https://prove2.me/theorems/09a4a089-c9f5-41c5-84cb-d6ab5712ae80

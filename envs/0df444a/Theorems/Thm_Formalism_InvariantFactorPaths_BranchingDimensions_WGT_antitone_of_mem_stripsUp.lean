@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_WGT_antitone_of_mem_stripsUp
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.WGT.antitone_of_mem_stripsUp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:51.465601+00:00
 -- url     : https://prove2.me/theorems/a26337a6-975f-4e0f-8a5b-b041900d4e1e

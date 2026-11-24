@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_cyclicShiftLeast
 -- name    : Formalism.InvariantFactorPaths.G7.cyclicShiftLeast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:10.296186+00:00
 -- url     : https://prove2.me/theorems/a2defdd9-f112-4efb-b30c-c398775a561f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHMult_step_dichotomy
 -- name    : GlobalTheory.JHMult.step_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:33:56.922704+00:00
 -- url     : https://prove2.me/theorems/a1ac6951-f9a8-4665-8fe9-0d7fd5ece515

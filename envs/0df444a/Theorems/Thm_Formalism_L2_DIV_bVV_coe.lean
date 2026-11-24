@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_bVV_coe
 -- name    : Formalism.L2.DIV.bVV_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:04.526842+00:00
 -- url     : https://prove2.me/theorems/c6349898-056c-49da-8407-11d3bdae1ab5

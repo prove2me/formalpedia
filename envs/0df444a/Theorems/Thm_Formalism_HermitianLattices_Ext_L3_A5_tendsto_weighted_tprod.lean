@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_tendsto_weighted_tprod
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.tendsto_weighted_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:09.410434+00:00
 -- url     : https://prove2.me/theorems/6c27bd85-b37e-47fa-9bb0-3507df768a2d

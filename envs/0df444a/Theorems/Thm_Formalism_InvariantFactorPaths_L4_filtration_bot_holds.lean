@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_filtration_bot_holds
 -- name    : Formalism.InvariantFactorPaths.L4.filtration_bot_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:49.103798+00:00
 -- url     : https://prove2.me/theorems/02098d50-6efc-4c53-a9d1-e9b9c454a4f9

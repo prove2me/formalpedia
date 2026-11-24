@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_eq_teichmuller_add_mul_p
 -- name    : GroundTheory.PAdicHodge.exists_eq_teichmuller_add_mul_p
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:58.411592+00:00
 -- url     : https://prove2.me/theorems/1b0e3647-4cd8-4ebe-96d2-76644bf3a20d

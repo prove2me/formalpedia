@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_subst_g_series_eq
 -- name    : Formalism.InvariantFactorPaths.G7.subst_g_series_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:31.041659+00:00
 -- url     : https://prove2.me/theorems/bc0d18d3-6f30-4879-aa82-b24447dfe475

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_rgl_rowDiv_zero
 -- name    : Formalism.InvariantFactorPaths.INST.rgl_rowDiv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:09.986262+00:00
 -- url     : https://prove2.me/theorems/40ca1405-8c56-4c58-8a53-7e347bbde927

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_mem_besselSet_zero_iff_upper_triangular
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.mem_besselSet_zero_iff_upper_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:01.483325+00:00
 -- url     : https://prove2.me/theorems/887ac483-b759-4db0-b09f-8c9275893ece

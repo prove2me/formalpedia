@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qc_map_span_mem
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qc_map_span_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:08.901692+00:00
 -- url     : https://prove2.me/theorems/1fef0cd4-ffd0-40e1-a473-e6c180bd942d

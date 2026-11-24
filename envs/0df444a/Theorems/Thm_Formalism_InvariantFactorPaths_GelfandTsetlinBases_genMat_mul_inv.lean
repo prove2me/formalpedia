@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_genMat_mul_inv
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.genMat_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:40:34.227056+00:00
 -- url     : https://prove2.me/theorems/50b41f12-6b06-4838-8db1-78fe8247418d

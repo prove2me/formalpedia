@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_StarEntryOperators_norm_le_of_dvd
 -- name    : Formalism.InvariantFactorPaths.G7.StarEntryOperators.norm_le_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:31.976131+00:00
 -- url     : https://prove2.me/theorems/e133a113-c875-4281-a59a-8a924f9e10a2

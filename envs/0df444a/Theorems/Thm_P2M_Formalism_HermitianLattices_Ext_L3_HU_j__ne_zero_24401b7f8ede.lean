@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_HU_j__ne_zero_24401b7f8ede
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_HU_j__ne_zero_24401b7f8ede
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:56.421516+00:00
 -- url     : https://prove2.me/theorems/0393047f-4aba-4fe8-a049-fedbc06a06dc

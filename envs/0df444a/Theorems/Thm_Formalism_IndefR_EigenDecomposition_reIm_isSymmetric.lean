@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_EigenDecomposition_reIm_isSymmetric
 -- name    : Formalism.IndefR.EigenDecomposition.reIm_isSymmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:06.702912+00:00
 -- url     : https://prove2.me/theorems/78f01441-6316-4013-bc95-24d277227de1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_asAlgebraHom_twistedIdem
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.asAlgebraHom_twistedIdem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:50.09934+00:00
 -- url     : https://prove2.me/theorems/2efc8e73-ed41-4d77-a008-48dcb9040f90

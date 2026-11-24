@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_exists_lsmul_eq
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.exists_lsmul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:10.504703+00:00
 -- url     : https://prove2.me/theorems/db8f6eb8-a5c3-4e1b-b401-9f41006a023e

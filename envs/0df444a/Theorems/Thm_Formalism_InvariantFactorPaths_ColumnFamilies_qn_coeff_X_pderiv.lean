@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_coeff_X_pderiv
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_coeff_X_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:03.87787+00:00
 -- url     : https://prove2.me/theorems/a1f4d932-257d-419b-b598-a631ad7ceab5

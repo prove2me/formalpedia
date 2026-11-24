@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CSym_beFam_last
 -- name    : Formalism.InvariantFactorPaths.G7.CSym.beFam_last
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:07.086802+00:00
 -- url     : https://prove2.me/theorems/1b97801b-1c31-4739-b0f3-96753a30dffa

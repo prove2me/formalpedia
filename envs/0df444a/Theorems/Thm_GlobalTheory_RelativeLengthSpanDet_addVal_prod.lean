@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelativeLengthSpanDet_addVal_prod
 -- name    : GlobalTheory.RelativeLengthSpanDet.addVal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:48.398842+00:00
 -- url     : https://prove2.me/theorems/d6652b63-0083-41a5-8e7e-2ce7c614a7bb

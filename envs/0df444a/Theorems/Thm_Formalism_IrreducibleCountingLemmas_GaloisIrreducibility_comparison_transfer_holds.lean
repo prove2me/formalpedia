@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_comparison_transfer_holds
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.comparison_transfer_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:47.704795+00:00
 -- url     : https://prove2.me/theorems/73bf0754-9499-4c53-9597-ada8854628e3

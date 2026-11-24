@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Arith_FormsL_eOp_apply
 -- name    : Formalism.IndefR.Arith.FormsL.eOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:25.091298+00:00
 -- url     : https://prove2.me/theorems/6c43e488-ef32-4043-b9c4-e11263f2d038

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_include_three_coboundary
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.include_three_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:05.246575+00:00
 -- url     : https://prove2.me/theorems/667faf02-47dc-4c95-9af3-4e431c915ad8

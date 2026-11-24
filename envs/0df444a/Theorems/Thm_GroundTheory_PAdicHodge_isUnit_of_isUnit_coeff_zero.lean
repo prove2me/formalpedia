@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_isUnit_of_isUnit_coeff_zero
 -- name    : GroundTheory.PAdicHodge.isUnit_of_isUnit_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:49.239585+00:00
 -- url     : https://prove2.me/theorems/9f72927d-d910-4ada-81e4-dec844a1d542

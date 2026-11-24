@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_weylEqNablaQ
 -- name    : Formalism.GradedWeylDivisibility.weylEqNablaQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:01:48.423126+00:00
 -- url     : https://prove2.me/theorems/366f2ebd-c0b8-4340-9f27-c514bf5c7f42

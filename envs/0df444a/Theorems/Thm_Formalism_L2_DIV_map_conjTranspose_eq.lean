@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_map_conjTranspose_eq
 -- name    : Formalism.L2.DIV.map_conjTranspose_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:27.584799+00:00
 -- url     : https://prove2.me/theorems/4b386a9d-a911-4cfe-812e-f4b7fe65a74d

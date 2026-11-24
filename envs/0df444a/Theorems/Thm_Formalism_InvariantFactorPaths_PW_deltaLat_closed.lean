@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_deltaLat_closed
 -- name    : Formalism.InvariantFactorPaths.PW.deltaLat_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:24.86281+00:00
 -- url     : https://prove2.me/theorems/fdc12111-35f5-4c76-97d0-2b5bfd80aeb2

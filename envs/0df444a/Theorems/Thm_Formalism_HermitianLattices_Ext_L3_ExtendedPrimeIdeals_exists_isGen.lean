@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_ExtendedPrimeIdeals_exists_isGen
 -- name    : Formalism.HermitianLattices.Ext.L3.ExtendedPrimeIdeals.exists_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:53.431461+00:00
 -- url     : https://prove2.me/theorems/7fbf585b-cc5a-41d3-8dae-b02939c201b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_localEstimateV_of
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.localEstimateV_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:02.079725+00:00
 -- url     : https://prove2.me/theorems/8af6eda5-22d5-4a8e-81bb-6f449fcdb6e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_piK_shift
 -- name    : Formalism.IndefR.Fin.Four.piK_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:14.126399+00:00
 -- url     : https://prove2.me/theorems/fa7dfb6c-9682-4d15-91d5-25c24379f64d

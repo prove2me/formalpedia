@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_sp_midGen_zero
 -- name    : Formalism.InvariantFactorPaths.KP.LL.sp_midGen_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:59.219591+00:00
 -- url     : https://prove2.me/theorems/a5652c70-3eb8-40fb-a46c-c8308248182e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_hyperbolic_sine_bound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.hyperbolic_sine_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:15.947881+00:00
 -- url     : https://prove2.me/theorems/3a8708a7-9390-45e7-aa6e-bc9b2d8a47ec

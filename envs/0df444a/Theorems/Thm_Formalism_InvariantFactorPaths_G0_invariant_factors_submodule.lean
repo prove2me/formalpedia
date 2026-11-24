@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G0_invariant_factors_submodule
 -- name    : Formalism.InvariantFactorPaths.G0.invariant_factors_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:26.541964+00:00
 -- url     : https://prove2.me/theorems/18128a44-1872-4c22-bf81-81a0915a38b3

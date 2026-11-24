@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_small_prime_factor_sum_bound
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.small_prime_factor_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:16.161528+00:00
 -- url     : https://prove2.me/theorems/5cc61731-12e7-484a-bead-2fba41d81b84

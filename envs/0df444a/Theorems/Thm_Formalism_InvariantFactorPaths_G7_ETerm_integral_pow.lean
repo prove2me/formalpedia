@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_integral_pow
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.integral_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:42.296261+00:00
 -- url     : https://prove2.me/theorems/2af3e81b-92dd-4d54-90b4-6e00f829deec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_sandwichDomain_of
 -- name    : Formalism.InvariantFactorPaths.INST.sandwichDomain_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:09.348897+00:00
 -- url     : https://prove2.me/theorems/791462b7-c9c2-4f51-9fd2-48849b4e899f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_StarEntryOperators_img_inl
 -- name    : Formalism.InvariantFactorPaths.G7.StarEntryOperators.img_inl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:50.137038+00:00
 -- url     : https://prove2.me/theorems/a029537a-aa33-4078-b314-488ceb47a427

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_away_glue
 -- name    : GlobalTheory.SqZero.away_glue
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:14.565862+00:00
 -- url     : https://prove2.me/theorems/6c40652a-95d3-43db-bb53-d3f7efb91b3e

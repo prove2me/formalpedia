@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_wtsp_mono
 -- name    : Formalism.InvariantFactorPaths.L4.wtsp_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:54.839795+00:00
 -- url     : https://prove2.me/theorems/926a1c6c-290d-4af6-b015-bc5dfec6b16d

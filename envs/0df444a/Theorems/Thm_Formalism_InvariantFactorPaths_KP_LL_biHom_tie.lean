@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_biHom_tie
 -- name    : Formalism.InvariantFactorPaths.KP.LL.biHom_tie
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:11.518271+00:00
 -- url     : https://prove2.me/theorems/f69c131b-386c-49c3-ab38-e784230b0bb6

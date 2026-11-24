@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_ThirdPropositionSlot_map_comap_eq_of_inert
 -- name    : Formalism.HermitianLattices.Ext.L3.ThirdPropositionSlot.map_comap_eq_of_inert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:05.352798+00:00
 -- url     : https://prove2.me/theorems/67fab38c-cd9d-42f5-9bc5-4c9b2f2f614b

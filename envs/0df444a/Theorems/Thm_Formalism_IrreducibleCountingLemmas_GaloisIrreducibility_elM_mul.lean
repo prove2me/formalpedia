@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_elM_mul
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.elM_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:42.99057+00:00
 -- url     : https://prove2.me/theorems/65add845-ae9e-463c-8845-2f1b557517f6

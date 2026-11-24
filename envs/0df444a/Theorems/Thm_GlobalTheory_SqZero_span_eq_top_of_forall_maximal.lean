@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_span_eq_top_of_forall_maximal
 -- name    : GlobalTheory.SqZero.span_eq_top_of_forall_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:03.697617+00:00
 -- url     : https://prove2.me/theorems/7684ce3d-cfce-44f0-9815-d26c33a96283

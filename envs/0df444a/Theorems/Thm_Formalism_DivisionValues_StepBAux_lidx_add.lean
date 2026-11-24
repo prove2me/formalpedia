@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_lidx_add
 -- name    : Formalism.DivisionValues.StepBAux.lidx_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:04:13.094088+00:00
 -- url     : https://prove2.me/theorems/2ad4424a-9c72-44cf-b6fa-da235864ab51

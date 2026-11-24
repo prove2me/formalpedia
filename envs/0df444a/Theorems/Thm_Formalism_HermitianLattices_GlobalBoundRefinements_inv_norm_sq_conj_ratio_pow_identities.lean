@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_inv_norm_sq_conj_ratio_pow_identities
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.inv_norm_sq_conj_ratio_pow_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:48.367495+00:00
 -- url     : https://prove2.me/theorems/780efb9b-a567-42ef-8bfc-b634e4d2565b

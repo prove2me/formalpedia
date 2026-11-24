@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_centralIdem_coeff
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.centralIdem_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:25.315449+00:00
 -- url     : https://prove2.me/theorems/f7c7d945-f291-438a-afe4-95a26c5973df

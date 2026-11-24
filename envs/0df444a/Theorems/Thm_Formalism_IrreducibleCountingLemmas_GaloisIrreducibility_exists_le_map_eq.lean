@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_exists_le_map_eq
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.exists_le_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:34.995422+00:00
 -- url     : https://prove2.me/theorems/a23fbd2a-f5e3-45d3-bae4-474aaf0ca963

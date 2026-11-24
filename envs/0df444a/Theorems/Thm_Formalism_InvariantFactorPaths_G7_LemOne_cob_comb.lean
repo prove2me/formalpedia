@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_cob_comb
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.cob_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:46.802838+00:00
 -- url     : https://prove2.me/theorems/72bc2f32-3e2a-4b11-b8a6-081f12269600

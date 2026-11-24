@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_mfact_jn
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.mfact_jn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:07.616312+00:00
 -- url     : https://prove2.me/theorems/58ea2f91-bc6b-4253-a5cb-d08a97ac2259

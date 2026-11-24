@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_one_lt_q
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.one_lt_q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:11.722344+00:00
 -- url     : https://prove2.me/theorems/ad1d4a0d-1d5b-495e-ace0-9090db2c990a

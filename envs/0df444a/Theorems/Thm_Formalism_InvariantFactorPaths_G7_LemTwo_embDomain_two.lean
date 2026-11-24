@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_embDomain_two
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.embDomain_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:05.649349+00:00
 -- url     : https://prove2.me/theorems/f1f55c43-992a-4ab4-a835-652c9b762a97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_rgl_swp_map
 -- name    : Formalism.InvariantFactorPaths.INST.rgl_swp_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:51.660806+00:00
 -- url     : https://prove2.me/theorems/cc096dcf-d7b1-41d5-929d-6b15017bb4fb

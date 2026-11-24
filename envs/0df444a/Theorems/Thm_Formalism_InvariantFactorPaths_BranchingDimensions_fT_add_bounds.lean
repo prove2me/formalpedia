@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_fT_add_bounds
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.fT_add_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:13.136876+00:00
 -- url     : https://prove2.me/theorems/a39194cf-75a7-4932-9085-fdbfa455b167

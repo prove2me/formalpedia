@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_typesLE_le_ycondC
 -- name    : Formalism.InvariantFactorPaths.L4.typesLE_le_ycondC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:43:52.628843+00:00
 -- url     : https://prove2.me/theorems/e190ebf9-5c07-470d-9bcc-0730b12abf76

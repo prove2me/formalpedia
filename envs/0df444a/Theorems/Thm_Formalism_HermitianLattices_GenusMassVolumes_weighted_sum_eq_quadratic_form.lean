@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_weighted_sum_eq_quadratic_form
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.weighted_sum_eq_quadratic_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:38.062885+00:00
 -- url     : https://prove2.me/theorems/858b338d-816b-46b3-93c2-7cb3e612fff4

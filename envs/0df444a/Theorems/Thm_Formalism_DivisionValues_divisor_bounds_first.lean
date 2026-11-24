@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_divisor_bounds_first
 -- name    : Formalism.DivisionValues.divisor_bounds_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:33:23.361567+00:00
 -- url     : https://prove2.me/theorems/7de8e461-539e-4fe6-8125-569d0bcee550

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_DDop_pair
 -- name    : Formalism.InvariantFactorPaths.L4.DDop_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:48.527076+00:00
 -- url     : https://prove2.me/theorems/56037634-2b9d-4ddc-afc1-3509ec057f46

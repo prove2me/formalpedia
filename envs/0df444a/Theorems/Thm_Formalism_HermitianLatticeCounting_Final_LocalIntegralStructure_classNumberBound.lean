@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_classNumberBound
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.classNumberBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:26.399959+00:00
 -- url     : https://prove2.me/theorems/4d64d3f2-06eb-4aec-90ed-bc687f9408b0

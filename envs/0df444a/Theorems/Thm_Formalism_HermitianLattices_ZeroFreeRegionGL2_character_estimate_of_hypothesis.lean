@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_character_estimate_of_hypothesis
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.character_estimate_of_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:44.49384+00:00
 -- url     : https://prove2.me/theorems/1d730bbf-4426-4590-9b7b-98c38bab4704

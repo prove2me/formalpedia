@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_exp_integral_add
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.exp_integral_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:57.489803+00:00
 -- url     : https://prove2.me/theorems/962603fd-8daf-45f6-bcf4-0fbe3845ab0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_bad_primes_cardinality
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.bad_primes_cardinality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:42.663907+00:00
 -- url     : https://prove2.me/theorems/38f957dc-8745-4746-b49d-e4a73bb7a76b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_exists_dual_of_linIndep
 -- name    : PI.VolStabSW.exists_dual_of_linIndep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:03.529894+00:00
 -- url     : https://prove2.me/theorems/2c22b57c-063a-4a78-94f8-45dbf84eed8a

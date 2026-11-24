@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_inClass_iff
 -- name    : Formalism.InvariantFactorPaths.G7.inClass_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:19:46.325573+00:00
 -- url     : https://prove2.me/theorems/1e31afe3-f2bb-42ca-999f-d5fcbf133384

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_exists_pow_div
 -- name    : Formalism.InvariantFactorPaths.L4.exists_pow_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:57.95106+00:00
 -- url     : https://prove2.me/theorems/f9f6c83a-d973-4471-8af7-0079574f9e72

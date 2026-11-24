@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_gcd_mul_pow_totient
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.gcd_mul_pow_totient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:44.764142+00:00
 -- url     : https://prove2.me/theorems/7278c1b0-c1dd-4aec-9596-06ccdf594335

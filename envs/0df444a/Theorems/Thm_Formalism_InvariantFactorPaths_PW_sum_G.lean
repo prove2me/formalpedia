@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_sum_G
 -- name    : Formalism.InvariantFactorPaths.PW.sum_G
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:57.597153+00:00
 -- url     : https://prove2.me/theorems/894deac2-b965-4f7e-aa89-f21c1e279809

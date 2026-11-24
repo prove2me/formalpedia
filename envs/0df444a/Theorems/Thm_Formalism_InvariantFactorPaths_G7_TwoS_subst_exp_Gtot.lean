@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_subst_exp_Gtot
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.subst_exp_Gtot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:20.075995+00:00
 -- url     : https://prove2.me/theorems/0f5ae351-9b16-459d-8f7b-1cac287df29d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_eq_of_pow_eq_of_coprime_order
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.eq_of_pow_eq_of_coprime_order
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:35.95147+00:00
 -- url     : https://prove2.me/theorems/7fe85194-4eb7-4d2f-9e8a-2072e64ee9a6

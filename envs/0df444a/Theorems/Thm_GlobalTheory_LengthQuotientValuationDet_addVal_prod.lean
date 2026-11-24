@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthQuotientValuationDet_addVal_prod
 -- name    : GlobalTheory.LengthQuotientValuationDet.addVal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:28.791085+00:00
 -- url     : https://prove2.me/theorems/30742af2-76bc-4fbd-8077-c53a82a5b715

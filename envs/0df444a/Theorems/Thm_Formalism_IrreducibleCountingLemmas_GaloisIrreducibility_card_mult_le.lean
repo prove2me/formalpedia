@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_card_mult_le
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.card_mult_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:13.494602+00:00
 -- url     : https://prove2.me/theorems/dd1f04d2-d82d-46a5-8324-9f7b2b0de02c

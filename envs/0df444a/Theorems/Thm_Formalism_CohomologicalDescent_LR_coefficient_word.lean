@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_coefficient_word
 -- name    : Formalism.CohomologicalDescent.LR.coefficient_word
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:06.92506+00:00
 -- url     : https://prove2.me/theorems/eaa523f8-d012-452a-a23a-41a16841117e

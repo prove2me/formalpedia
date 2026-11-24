@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrA_form_mem_locF
 -- name    : Formalism.HermitianLattices.Ext.L3.BrA.form_mem_locF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:53.820194+00:00
 -- url     : https://prove2.me/theorems/2c6a0543-1497-46af-b3ba-194cefa550ce

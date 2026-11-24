@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_coe_natCast_ball
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.coe_natCast_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:19.122535+00:00
 -- url     : https://prove2.me/theorems/1a8172f6-a71e-49cc-9aed-04e1622cbf07

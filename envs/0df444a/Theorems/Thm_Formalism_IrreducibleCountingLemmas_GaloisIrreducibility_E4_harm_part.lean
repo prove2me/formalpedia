@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_E4_harm_part
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.E4.harm_part
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:18.683271+00:00
 -- url     : https://prove2.me/theorems/88f5e2c0-feb1-4f69-b66d-8e9ee87ca885

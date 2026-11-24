@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qc_idxE_can
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qc_idxE_can
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:27.432798+00:00
 -- url     : https://prove2.me/theorems/c15caa33-da14-4ca9-95b0-80775e4e8b9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_diag_isUnit
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_diag_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:15.912274+00:00
 -- url     : https://prove2.me/theorems/a194dfc8-6785-44d6-bcbd-fb22d3807946

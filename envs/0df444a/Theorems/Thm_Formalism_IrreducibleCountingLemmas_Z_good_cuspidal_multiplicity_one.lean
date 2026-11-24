@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_good_cuspidal_multiplicity_one
 -- name    : Formalism.IrreducibleCountingLemmas.Z.good_cuspidal_multiplicity_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:10:09.079686+00:00
 -- url     : https://prove2.me/theorems/e06b645c-805e-4b5a-a393-618b538bc476

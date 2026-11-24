@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_asm_num
 -- name    : Formalism.InvariantFactorPaths.KP.LL.asm_num
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:17.46044+00:00
 -- url     : https://prove2.me/theorems/a4eaf76a-2a9a-4b68-b4c5-467f885f89f5

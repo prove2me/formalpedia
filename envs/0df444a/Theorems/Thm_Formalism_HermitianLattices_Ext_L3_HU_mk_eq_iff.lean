@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_mk_eq_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.mk_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:51.474636+00:00
 -- url     : https://prove2.me/theorems/097625c9-924e-403c-878e-65f843b6da6a

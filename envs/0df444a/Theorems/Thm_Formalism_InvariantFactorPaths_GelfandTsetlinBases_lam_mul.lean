@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_lam_mul
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.lam_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:56.424502+00:00
 -- url     : https://prove2.me/theorems/e9f0c2d6-3829-4757-a1f8-3d642a0fe2f4

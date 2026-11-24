@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_U2_notLifted_le_ker
 -- name    : Formalism.IndefR.U2.notLifted_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:15.457344+00:00
 -- url     : https://prove2.me/theorems/86d5a19e-d864-4abc-bca6-48415153adb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_phi15_is_unit_holds
 -- name    : Formalism.IrreducibleCountingLemmas.Z.phi15_is_unit_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:06.596885+00:00
 -- url     : https://prove2.me/theorems/a59ffc16-1416-498a-bdae-30f508aec4e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_UUA_four
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.UUA.four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:12.854748+00:00
 -- url     : https://prove2.me/theorems/10af6833-4a6a-4a9b-bdfd-00ed046de3bd

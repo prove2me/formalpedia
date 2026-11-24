@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_lowerTriIntegral
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_lowerTriIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:46.467336+00:00
 -- url     : https://prove2.me/theorems/b962ac85-adf0-490e-ad61-ae0453570096

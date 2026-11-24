@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Serre_ringOfIntegers_injective
 -- name    : GlobalTheory.Serre.ringOfIntegers_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:27.178804+00:00
 -- url     : https://prove2.me/theorems/e50c0fb5-9c7c-4e2c-b088-ae92af6205ad

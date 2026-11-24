@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_ExtendedPrimeIdeals_map_mem_extP
 -- name    : Formalism.HermitianLattices.Ext.L3.ExtendedPrimeIdeals.map_mem_extP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:06.273558+00:00
 -- url     : https://prove2.me/theorems/0b280c1a-d614-4895-9b2b-71b25f90fb75

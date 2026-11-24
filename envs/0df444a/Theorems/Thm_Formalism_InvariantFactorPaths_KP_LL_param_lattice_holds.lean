@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_param_lattice_holds
 -- name    : Formalism.InvariantFactorPaths.KP.LL.param_lattice_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:57.379583+00:00
 -- url     : https://prove2.me/theorems/98f7dc1b-ce2d-4fb3-81f2-9b1c81a5752b

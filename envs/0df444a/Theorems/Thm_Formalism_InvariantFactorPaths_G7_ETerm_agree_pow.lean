@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_agree_pow
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.agree_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:31.561524+00:00
 -- url     : https://prove2.me/theorems/b0c37f91-385c-4379-a082-51f9ee9338ab

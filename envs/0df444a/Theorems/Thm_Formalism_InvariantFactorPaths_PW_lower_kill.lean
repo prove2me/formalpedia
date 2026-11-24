@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_lower_kill
 -- name    : Formalism.InvariantFactorPaths.PW.lower_kill
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:53.931155+00:00
 -- url     : https://prove2.me/theorems/3d1e445f-f4fc-4b58-a5b2-8b20e90342bf

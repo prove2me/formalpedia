@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_tendsto_sum_ideal
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.tendsto_sum_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:12:27.790137+00:00
 -- url     : https://prove2.me/theorems/af0ac8ba-acea-495a-984a-46c867960116

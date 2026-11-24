@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_rowDiv_succ
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_rowDiv_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:53.903789+00:00
 -- url     : https://prove2.me/theorems/b339f735-9f1c-47d6-9e9c-bf76fa026d6e

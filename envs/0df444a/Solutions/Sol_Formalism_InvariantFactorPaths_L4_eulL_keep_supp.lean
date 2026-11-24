@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.L4.eulL_keep_supp
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T08:53:50.065203+00:00
+-- url     : https://prove2.me/submissions/7ad015dd-8b39-4eb0-abad-50b417d04638
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_StatementD
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_ResInto
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_FiltrationBotHolds
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_RaisingKeepsEarlyLetters
+import Theorems.Thm_Formalism_GM_ProjS_coeff_eulL
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.L4
+open Formalism.GM Formalism.GM.M Formalism.GM.TM Formalism.GM.MeanGammaLemmas Formalism.CountingSumsFrames MvPolynomial Finset
+variable {p : ℕ} [Fact p.Prime] {K r : ℕ}
+namespace Formalism.InvariantFactorPaths.L4
+theorem _root_.solution {σ : Type} {s : ℕ} (t : Fin s → σ) (Q : Set (σ →₀ ℕ)) :
+    ∀ x ∈ restrictSupport ℚ_[p] Q, ProjS.eulL t x ∈ restrictSupport ℚ_[p] Q := by
+  intro x hx
+  rw [mem_restrictSupport_iff] at hx ⊢
+  intro m hm
+  apply hx
+  rw [Finset.mem_coe, mem_support_iff] at hm ⊢
+  rw [ProjS.coeff_eulL] at hm
+  exact left_ne_zero_of_mul hm
+end Formalism.InvariantFactorPaths.L4

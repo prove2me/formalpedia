@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_postC_preC_commute
 -- name    : Formalism.InvariantFactorPaths.PW.postC_preC_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:57.449599+00:00
 -- url     : https://prove2.me/theorems/3c1f6c48-fdbc-4218-a08b-46d05b6046a8

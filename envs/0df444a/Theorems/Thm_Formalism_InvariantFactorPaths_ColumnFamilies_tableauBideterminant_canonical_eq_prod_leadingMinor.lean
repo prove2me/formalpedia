@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_tableauBideterminant_canonical_eq_prod_leadingMinor
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.tableauBideterminant_canonical_eq_prod_leadingMinor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:38.980248+00:00
 -- url     : https://prove2.me/theorems/07405f92-ef3e-44cf-88a7-773e78a9f3bd

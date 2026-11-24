@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowDualityReindexing_cs_identity
 -- name    : Formalism.IncomingBounds.FlowDualityReindexing.cs_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:46.619795+00:00
 -- url     : https://prove2.me/theorems/8e0bea19-74c0-422f-8dac-0eb5c3817860

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_Pall_eq
 -- name    : Formalism.InvariantFactorPaths.KP.LL.Pall_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:12.887731+00:00
 -- url     : https://prove2.me/theorems/a132d2e4-0802-479b-bdab-d1608e1490d3

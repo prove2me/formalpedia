@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_excluded_set_simplification
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.excluded_set_simplification
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:11.663278+00:00
 -- url     : https://prove2.me/theorems/7c8e7f8e-a4c0-4f1e-bc3c-eb2f8a6cde59

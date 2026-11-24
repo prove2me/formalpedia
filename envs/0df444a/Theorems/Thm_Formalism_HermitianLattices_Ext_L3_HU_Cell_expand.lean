@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_Cell_expand
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.Cell.expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:24.573947+00:00
 -- url     : https://prove2.me/theorems/7ba55af1-c464-4307-a7ec-38c22175b0e9

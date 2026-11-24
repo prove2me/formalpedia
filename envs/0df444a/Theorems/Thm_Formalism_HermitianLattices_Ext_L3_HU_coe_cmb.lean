@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_coe_cmb
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.coe_cmb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:58.871631+00:00
 -- url     : https://prove2.me/theorems/aa152d15-88bd-4747-a585-62e882375890

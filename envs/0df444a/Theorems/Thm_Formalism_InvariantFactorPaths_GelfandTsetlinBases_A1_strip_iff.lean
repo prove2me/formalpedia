@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1_strip_iff
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1.strip_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:02.47113+00:00
 -- url     : https://prove2.me/theorems/70d3d587-63dc-446a-a8c6-64fc60a62e8a

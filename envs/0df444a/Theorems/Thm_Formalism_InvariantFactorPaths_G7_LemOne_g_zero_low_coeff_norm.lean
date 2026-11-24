@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_g_zero_low_coeff_norm
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.g_zero_low_coeff_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:39.658886+00:00
 -- url     : https://prove2.me/theorems/82d494ee-dbb0-4316-bb2b-26a2c5138b1b

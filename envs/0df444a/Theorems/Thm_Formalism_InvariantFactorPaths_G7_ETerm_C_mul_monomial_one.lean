@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_C_mul_monomial_one
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.C_mul_monomial_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:39.197927+00:00
 -- url     : https://prove2.me/theorems/af66d0e8-35cf-4d8b-8912-d5ecdc2808ec

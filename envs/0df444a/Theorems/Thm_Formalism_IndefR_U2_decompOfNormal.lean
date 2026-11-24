@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_U2_decompOfNormal
 -- name    : Formalism.IndefR.U2.decompOfNormal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:27.196258+00:00
 -- url     : https://prove2.me/theorems/97f13a5f-be84-49c6-a09d-5f446a9149c9

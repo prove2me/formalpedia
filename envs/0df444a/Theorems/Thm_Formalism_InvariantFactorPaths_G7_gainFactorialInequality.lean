@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_gainFactorialInequality
 -- name    : Formalism.InvariantFactorPaths.G7.gainFactorialInequality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:15.04541+00:00
 -- url     : https://prove2.me/theorems/cabbf465-22b5-4069-9e4d-8aa61b279054

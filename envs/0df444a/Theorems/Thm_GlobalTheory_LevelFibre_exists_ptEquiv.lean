@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_exists_ptEquiv
 -- name    : GlobalTheory.LevelFibre.exists_ptEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:41.736899+00:00
 -- url     : https://prove2.me/theorems/667fa809-7c0f-454e-b15d-fa1b01a4a747

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_glAct_X_int
 -- name    : Formalism.InvariantFactorPaths.PW.glAct_X_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:27.695465+00:00
 -- url     : https://prove2.me/theorems/403428df-9363-4dde-abdd-f8e3fe2b05bd

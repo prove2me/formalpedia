@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_setTies_deg_le
 -- name    : Formalism.InvariantFactorPaths.PW.setTies_deg_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:20.980812+00:00
 -- url     : https://prove2.me/theorems/5c53a127-37f8-4b05-900e-2e7d0c6d0b61

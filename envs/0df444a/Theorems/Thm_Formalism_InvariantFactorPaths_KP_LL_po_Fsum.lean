@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_po_Fsum
 -- name    : Formalism.InvariantFactorPaths.KP.LL.po_Fsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:43.136928+00:00
 -- url     : https://prove2.me/theorems/1f4be7bc-acbb-4030-8821-4a45fc7f1a8c

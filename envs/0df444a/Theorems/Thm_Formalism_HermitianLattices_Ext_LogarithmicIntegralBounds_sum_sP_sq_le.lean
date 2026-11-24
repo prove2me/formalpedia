@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_sum_sP_sq_le
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_sP_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:47.209978+00:00
 -- url     : https://prove2.me/theorems/a230e498-f9a0-457c-97e8-466eeecd824a

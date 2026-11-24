@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_baseTerm_le_topTerm
 -- name    : Formalism.IncomingBounds.baseTerm_le_topTerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:41.647209+00:00
 -- url     : https://prove2.me/theorems/0ddb533e-7e9d-4e97-966e-9c6e70f8c7b8

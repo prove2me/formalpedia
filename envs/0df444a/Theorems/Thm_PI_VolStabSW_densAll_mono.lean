@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_densAll_mono
 -- name    : PI.VolStabSW.densAll_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:15.729071+00:00
 -- url     : https://prove2.me/theorems/c7ac0d02-b649-4e82-8bcd-8c6b6d1ecef7

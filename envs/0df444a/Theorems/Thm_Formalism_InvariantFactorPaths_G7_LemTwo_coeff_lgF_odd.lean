@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_coeff_lgF_odd
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.coeff_lgF_odd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:05.7409+00:00
 -- url     : https://prove2.me/theorems/4d7e2819-5eb2-49a3-9f27-81067ce3af38

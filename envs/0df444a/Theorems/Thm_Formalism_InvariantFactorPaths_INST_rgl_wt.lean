@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_rgl_wt
 -- name    : Formalism.InvariantFactorPaths.INST.rgl_wt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:01.695532+00:00
 -- url     : https://prove2.me/theorems/4991e8d1-0dfd-4e2a-a483-482ac5336dbd

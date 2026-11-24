@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_StarEntryOperators_lowOp_hom
 -- name    : Formalism.InvariantFactorPaths.G7.StarEntryOperators.lowOp_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:30.631625+00:00
 -- url     : https://prove2.me/theorems/713bd5b4-13ad-4aef-aec9-0f1ee3205da1

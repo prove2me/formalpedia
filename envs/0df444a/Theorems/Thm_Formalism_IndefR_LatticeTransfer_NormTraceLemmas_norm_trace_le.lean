@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_NormTraceLemmas_norm_trace_le
 -- name    : Formalism.IndefR.LatticeTransfer.NormTraceLemmas.norm_trace_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:19.269877+00:00
 -- url     : https://prove2.me/theorems/d4b03f7b-d1c9-427a-be67-8f4bb11df51a

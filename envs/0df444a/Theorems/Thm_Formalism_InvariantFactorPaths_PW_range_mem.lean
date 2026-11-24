@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_range_mem
 -- name    : Formalism.InvariantFactorPaths.PW.range_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:58.993891+00:00
 -- url     : https://prove2.me/theorems/127a0364-0d58-4e99-a90a-21d0ac7e0bec

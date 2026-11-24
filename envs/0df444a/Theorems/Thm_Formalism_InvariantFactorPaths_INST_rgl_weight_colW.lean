@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_rgl_weight_colW
 -- name    : Formalism.InvariantFactorPaths.INST.rgl_weight_colW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:26.381258+00:00
 -- url     : https://prove2.me/theorems/777f980e-9a1c-4055-9439-5dc2a4a05572

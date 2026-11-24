@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Interl_tailPos_le
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Interl.tailPos_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:14.966317+00:00
 -- url     : https://prove2.me/theorems/415a7829-e9d1-46ad-8272-74534187dede

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_bad_primes_divides
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.bad_primes_divides
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:39.348386+00:00
 -- url     : https://prove2.me/theorems/d382a3aa-d79b-462e-b56f-56a5b022501d

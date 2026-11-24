@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_card_sigma_succ
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.card_sigma_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:32.144246+00:00
 -- url     : https://prove2.me/theorems/f573bb3e-149c-4e1d-9069-82b5c0b23dd0

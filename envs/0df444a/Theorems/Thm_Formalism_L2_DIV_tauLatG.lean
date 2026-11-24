@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_tauLatG
 -- name    : Formalism.L2.DIV.tauLatG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:12.315559+00:00
 -- url     : https://prove2.me/theorems/7e909de8-d4a2-47fa-855a-dcfdf8b5c7da

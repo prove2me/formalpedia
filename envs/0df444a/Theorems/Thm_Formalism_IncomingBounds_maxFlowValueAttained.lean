@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_maxFlowValueAttained
 -- name    : Formalism.IncomingBounds.maxFlowValueAttained
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:10:09.601426+00:00
 -- url     : https://prove2.me/theorems/a83a9d1d-68f7-4fc2-a4ce-7bc6ae08f85c

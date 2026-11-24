@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_cube_mem
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.cube_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:11.902501+00:00
 -- url     : https://prove2.me/theorems/90ef4cd4-045c-4e59-b1e2-e127c055e0f4

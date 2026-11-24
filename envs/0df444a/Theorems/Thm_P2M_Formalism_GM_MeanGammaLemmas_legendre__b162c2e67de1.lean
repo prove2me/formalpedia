@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_MeanGammaLemmas_legendre__b162c2e67de1
 -- name    : P2M_Formalism_GM_MeanGammaLemmas_legendre__b162c2e67de1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:09.360514+00:00
 -- url     : https://prove2.me/theorems/6bd5e6c1-6308-4b21-b780-20f8589a3e82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Branch_sum_ff
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Branch.sum_ff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:02.368508+00:00
 -- url     : https://prove2.me/theorems/03fdcd18-c0a2-4586-8fea-dd3de2986173
