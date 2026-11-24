@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gramDet_div_index_eq_of_span_eq
 -- name    : GlobalTheory.T.gramDet_div_index_eq_of_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:41:14.560683+00:00
 -- url     : https://prove2.me/theorems/2951dafc-8000-4265-92be-84faaacdc66e

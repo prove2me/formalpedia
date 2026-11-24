@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isTest_nhds_inv
 -- name    : GlobalTheory.isTest_nhds_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:14.325743+00:00
 -- url     : https://prove2.me/theorems/670d7129-971a-4604-bae4-8bc010fe4e3b

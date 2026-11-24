@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isGen_boxGen
 -- name    : GlobalTheory.isGen_boxGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:46:21.31584+00:00
 -- url     : https://prove2.me/theorems/c6c61e12-55b1-4630-9fc0-d05491505697

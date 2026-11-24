@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isTorsionFree_ringOfIntegers_of_isTorsionFree_int
 -- name    : GlobalTheory.isTorsionFree_ringOfIntegers_of_isTorsionFree_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:25.908096+00:00
 -- url     : https://prove2.me/theorems/5d328dcf-ea98-4310-935c-d08102d4c097

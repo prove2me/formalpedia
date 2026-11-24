@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeForm_mul_left
 -- name    : GlobalTheory.latticeForm_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:02:02.543204+00:00
 -- url     : https://prove2.me/theorems/c17d223f-7583-428a-ab5b-41f26bd61020

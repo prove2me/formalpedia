@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_idealHilbertPoly_ne_zero_of_X_notMem
 -- name    : GlobalTheory.idealHilbertPoly_ne_zero_of_X_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:20.739827+00:00
 -- url     : https://prove2.me/theorems/5a84863e-c695-4d3f-9859-8fb9d48b4f49

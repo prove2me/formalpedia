@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ker_inf_map_le_map_mul_ker_of_flat_target
 -- name    : GlobalTheory.T.ker_inf_map_le_map_mul_ker_of_flat_target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:50:59.794503+00:00
 -- url     : https://prove2.me/theorems/27678c68-96b2-4f89-b5dc-f7a4e175edc0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_normOne_cmField_det_one_add_ne_zero
 -- name    : GlobalTheory.T.exists_normOne_cmField_det_one_add_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:37:02.753946+00:00
 -- url     : https://prove2.me/theorems/7660798a-014c-45bd-944a-c2fb05e2898d

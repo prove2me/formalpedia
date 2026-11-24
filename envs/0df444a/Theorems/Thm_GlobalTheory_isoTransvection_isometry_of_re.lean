@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_isometry_of_re
 -- name    : GlobalTheory.isoTransvection.isometry_of_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:01:22.927413+00:00
 -- url     : https://prove2.me/theorems/6f9bf58c-9651-4c0f-abf0-c8a74596df67

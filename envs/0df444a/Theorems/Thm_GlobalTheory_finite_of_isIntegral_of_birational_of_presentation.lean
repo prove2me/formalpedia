@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_of_isIntegral_of_birational_of_presentation
 -- name    : GlobalTheory.finite_of_isIntegral_of_birational_of_presentation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:13.832608+00:00
 -- url     : https://prove2.me/theorems/50e62214-de86-416b-959b-9183b758a95a

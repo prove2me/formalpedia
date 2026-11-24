@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lift_of_reduced_of_support
 -- name    : GlobalTheory.lift_of_reduced_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:33.663518+00:00
 -- url     : https://prove2.me/theorems/e8991272-03ca-4ece-a1d0-a095aa024056

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_map_dForm_mul_sub_mem
 -- name    : GlobalTheory.TopForm.map_dForm_mul_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:09:32.241176+00:00
 -- url     : https://prove2.me/theorems/18dde639-3c7a-46ed-b2b9-ff8f75eae927

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherCanonicalRawDensityConsistencyV1
 -- name    : Kyprianou.Ch03.esscherCanonicalRawDensityConsistencyV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:59:44.348715+00:00
 -- url     : https://prove2.me/theorems/ab761573-db74-4e47-82c1-6b9e662005ef

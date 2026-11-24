@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_block_of_cmp
 -- name    : GlobalTheory.CompanionTheory.Plucker.block_of_cmp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:08:23.268103+00:00
 -- url     : https://prove2.me/theorems/22a4bde7-e15a-439e-b5d8-b6d0ba78810d

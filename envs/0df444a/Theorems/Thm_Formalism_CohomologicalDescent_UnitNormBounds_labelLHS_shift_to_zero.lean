@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_labelLHS_shift_to_zero
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.labelLHS_shift_to_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:00:13.437558+00:00
 -- url     : https://prove2.me/theorems/26b0f462-a62d-4ee2-ba41-e4e01d7b316b

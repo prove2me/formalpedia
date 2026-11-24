@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_finite_over_padic_holds
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.finite_over_padic_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:08:45.323468+00:00
 -- url     : https://prove2.me/theorems/b95197d3-9e2f-4c0b-8168-c181709ec7eb

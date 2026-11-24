@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerivHigher_growth_triv
 -- name    : GlobalTheory.LogDerivHigher.growth_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:18:52.637315+00:00
 -- url     : https://prove2.me/theorems/45fdfa18-cbdb-497c-a506-dae25b633032

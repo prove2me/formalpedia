@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lattice_eq_ideal_sum_and_mul_eq
 -- name    : GlobalTheory.lattice_eq_ideal_sum_and_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:02:10.811173+00:00
 -- url     : https://prove2.me/theorems/6c951b48-dfa3-4e44-8ce2-bca6c2235908

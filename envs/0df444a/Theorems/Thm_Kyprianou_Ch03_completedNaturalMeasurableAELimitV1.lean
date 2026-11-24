@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_completedNaturalMeasurableAELimitV1
 -- name    : Kyprianou.Ch03.completedNaturalMeasurableAELimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:01:55.984698+00:00
 -- url     : https://prove2.me/theorems/fcff066c-a161-4f95-ab94-884eabdc90b0

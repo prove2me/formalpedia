@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSiegel_unique_iff
 -- name    : GlobalTheory.isSiegel_unique_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:00:58.131895+00:00
 -- url     : https://prove2.me/theorems/292b74c0-b833-4a88-93cf-a7c02a3edf98

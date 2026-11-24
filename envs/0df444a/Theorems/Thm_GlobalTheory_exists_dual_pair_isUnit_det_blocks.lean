@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_dual_pair_isUnit_det_blocks
 -- name    : GlobalTheory.exists_dual_pair_isUnit_det_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:31:09.897395+00:00
 -- url     : https://prove2.me/theorems/e9b47511-9920-4997-b00f-7ea56f38caac

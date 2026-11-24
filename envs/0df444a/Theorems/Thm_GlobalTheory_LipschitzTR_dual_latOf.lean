@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_dual_latOf
 -- name    : GlobalTheory.LipschitzTR.dual_latOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:11:36.834055+00:00
 -- url     : https://prove2.me/theorems/498b3ab6-01ca-4a18-af44-05f02a956119

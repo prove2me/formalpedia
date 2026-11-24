@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherCanonicalGlobalExtension
 -- name    : Kyprianou.Ch03.esscherCanonicalGlobalExtension
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T10:07:28.551898+00:00
 -- url     : https://prove2.me/theorems/24b018f9-56a9-4313-b32a-cb140d602681

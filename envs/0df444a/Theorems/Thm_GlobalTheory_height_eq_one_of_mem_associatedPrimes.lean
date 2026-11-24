@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_height_eq_one_of_mem_associatedPrimes
 -- name    : GlobalTheory.height_eq_one_of_mem_associatedPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:53:20.186907+00:00
 -- url     : https://prove2.me/theorems/12b33929-a104-4422-a457-5ec822b183c8

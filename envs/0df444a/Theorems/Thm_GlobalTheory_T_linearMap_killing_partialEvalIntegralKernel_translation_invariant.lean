@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linearMap_killing_partialEvalIntegralKernel_translation_invariant
 -- name    : GlobalTheory.T.linearMap_killing_partialEvalIntegralKernel_translation_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:20.227968+00:00
 -- url     : https://prove2.me/theorems/e8f091ba-7f32-4613-9b68-b49a14a7ba48

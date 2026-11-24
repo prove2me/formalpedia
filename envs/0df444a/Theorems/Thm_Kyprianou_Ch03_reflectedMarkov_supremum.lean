@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectedMarkov_supremum
 -- name    : Kyprianou.Ch03.reflectedMarkov_supremum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:00:32.929972+00:00
 -- url     : https://prove2.me/theorems/cc6ea338-8a80-4e12-848b-ee635076ad6c

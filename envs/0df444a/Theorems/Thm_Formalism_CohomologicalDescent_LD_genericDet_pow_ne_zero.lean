@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_genericDet_pow_ne_zero
 -- name    : Formalism.CohomologicalDescent.LD.genericDet_pow_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:06:36.775375+00:00
 -- url     : https://prove2.me/theorems/1dfd9eb1-d3d6-41ab-bd7c-ed8ca14575be

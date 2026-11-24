@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegrallyClosed_of_integral_mul_mem_of_assocPrimes
 -- name    : GlobalTheory.T.isIntegrallyClosed_of_integral_mul_mem_of_assocPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:50:18.637844+00:00
 -- url     : https://prove2.me/theorems/71b33bcc-a426-482e-bc6d-38ba077e58d2

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.exercise32ReflectionsStrongMarkov
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T15:01:36.90307+00:00
 -- url     : https://prove2.me/submissions/0d8b21a7-0d55-4dac-b0de-965a0a757d17
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

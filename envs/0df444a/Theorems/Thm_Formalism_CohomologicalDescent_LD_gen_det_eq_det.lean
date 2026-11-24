@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_gen_det_eq_det
 -- name    : Formalism.CohomologicalDescent.LD.gen_det_eq_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:06:21.513844+00:00
 -- url     : https://prove2.me/theorems/9ec4a7bf-440a-4dbb-afe8-ee7aeebfb3c5

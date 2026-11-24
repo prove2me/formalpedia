@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_exists_K5_pde_solution
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.exists_K5_pde_solution
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T21:59:22.806958+00:00
 -- url     : https://prove2.me/theorems/761f621e-48f0-4480-950c-0c8ac66ec81b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermBound_fTerm_iteratedFDeriv_bound
 -- name    : GlobalTheory.HeckeTwo.TermBound.fTerm_iteratedFDeriv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:07:43.439859+00:00
 -- url     : https://prove2.me/theorems/f20a1535-d6dd-4e7a-bc48-019cf132b645

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_levelff_stalkMap_injective
 -- name    : GlobalTheory.levelff_stalkMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:47.902881+00:00
 -- url     : https://prove2.me/theorems/134a7140-4264-4de8-8d1d-4416809f342d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_existsUnique_eq_lieExp_mul
 -- name    : GlobalTheory.SqZero.existsUnique_eq_lieExp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:56:33.610588+00:00
 -- url     : https://prove2.me/theorems/adbb824f-f73c-498b-ae10-b70094ddc7e9

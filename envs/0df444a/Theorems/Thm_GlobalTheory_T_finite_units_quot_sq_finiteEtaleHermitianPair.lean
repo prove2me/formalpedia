@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_units_quot_sq_finiteEtaleHermitianPair
 -- name    : GlobalTheory.T.finite_units_quot_sq_finiteEtaleHermitianPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:40.392519+00:00
 -- url     : https://prove2.me/theorems/8ea4bf6a-eaf7-45aa-9ddd-196220c88728

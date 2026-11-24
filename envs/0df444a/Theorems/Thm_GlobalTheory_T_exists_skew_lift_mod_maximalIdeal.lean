@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_skew_lift_mod_maximalIdeal
 -- name    : GlobalTheory.T.exists_skew_lift_mod_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:26.154592+00:00
 -- url     : https://prove2.me/theorems/e3ed9f49-4b3b-421b-9198-431c1bfd89a2

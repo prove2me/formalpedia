@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_no_splitting_factorisation_of_pderiv_ne_zero
 -- name    : GlobalTheory.T.no_splitting_factorisation_of_pderiv_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:53:54.837803+00:00
 -- url     : https://prove2.me/theorems/d0dbf30b-c07f-48ef-ac9c-55bd2ee6d6c5

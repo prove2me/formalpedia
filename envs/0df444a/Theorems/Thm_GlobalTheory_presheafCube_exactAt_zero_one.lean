@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_presheafCube_exactAt_zero_one
 -- name    : GlobalTheory.presheafCube_exactAt_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:49:57.918863+00:00
 -- url     : https://prove2.me/theorems/0cb3cb4c-df44-49bc-a42e-ba07e0d46202

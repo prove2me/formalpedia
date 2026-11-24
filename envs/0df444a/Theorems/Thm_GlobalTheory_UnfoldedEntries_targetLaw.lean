@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_targetLaw
 -- name    : GlobalTheory.UnfoldedEntries.targetLaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:42:52.860832+00:00
 -- url     : https://prove2.me/theorems/cf657281-03ec-48c4-b2bd-a173d2491be7

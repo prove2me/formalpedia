@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_valuation_le_one_of_sq_sub_self_integral_basis
 -- name    : GlobalTheory.T.valuation_le_one_of_sq_sub_self_integral_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:01:28.072054+00:00
 -- url     : https://prove2.me/theorems/26881f48-0494-4f28-b513-969e0d7d5661

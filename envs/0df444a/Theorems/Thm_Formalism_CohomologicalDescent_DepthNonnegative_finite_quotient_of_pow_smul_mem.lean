@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_finite_quotient_of_pow_smul_mem
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.finite_quotient_of_pow_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:09:55.844556+00:00
 -- url     : https://prove2.me/theorems/56713180-9613-4120-a1bf-47af47d3bccc

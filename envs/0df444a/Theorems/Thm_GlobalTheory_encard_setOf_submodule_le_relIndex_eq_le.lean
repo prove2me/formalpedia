@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_encard_setOf_submodule_le_relIndex_eq_le
 -- name    : GlobalTheory.encard_setOf_submodule_le_relIndex_eq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:51:25.605802+00:00
 -- url     : https://prove2.me/theorems/7da0a86c-1c40-4ed7-a81d-24e6e88c9ef9

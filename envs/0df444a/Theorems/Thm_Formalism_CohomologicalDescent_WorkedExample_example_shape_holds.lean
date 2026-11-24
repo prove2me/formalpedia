@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_example_shape_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.example_shape_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:05.634895+00:00
 -- url     : https://prove2.me/theorems/b12a4ff0-5e53-4dbd-b23e-bc09899847bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_torsion_pow_log_concave
 -- name    : GlobalTheory.card_torsion_pow_log_concave
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:48.2838+00:00
 -- url     : https://prove2.me/theorems/6faf1f1a-961c-479f-a776-bb146a69cc5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LP_lowW_all
 -- name    : Formalism.CohomologicalDescent.LP.lowW_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:55:50.491216+00:00
 -- url     : https://prove2.me/theorems/a4e27491-2c6a-42ed-9f1e-fa380e72188d

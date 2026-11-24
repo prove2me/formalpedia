@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gramChange_square
 -- name    : GlobalTheory.gramChange_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:54:14.327104+00:00
 -- url     : https://prove2.me/theorems/de319b8f-2554-4b65-b6c2-d8c25f5efd04

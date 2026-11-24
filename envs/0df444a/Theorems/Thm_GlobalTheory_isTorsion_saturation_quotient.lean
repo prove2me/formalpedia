@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isTorsion_saturation_quotient
 -- name    : GlobalTheory.isTorsion_saturation_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:25.424849+00:00
 -- url     : https://prove2.me/theorems/19f692b3-0e53-484c-8253-d8bb537c0ddf

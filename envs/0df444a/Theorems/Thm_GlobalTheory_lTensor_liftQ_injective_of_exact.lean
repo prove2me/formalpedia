@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lTensor_liftQ_injective_of_exact
 -- name    : GlobalTheory.lTensor_liftQ_injective_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:14.432111+00:00
 -- url     : https://prove2.me/theorems/47a84041-2f5d-4fd6-90f5-7207014ac8e0

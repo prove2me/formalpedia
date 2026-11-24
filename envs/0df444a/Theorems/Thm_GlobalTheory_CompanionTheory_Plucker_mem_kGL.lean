@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_mem_kGL
 -- name    : GlobalTheory.CompanionTheory.Plucker.mem_kGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:06:39.778853+00:00
 -- url     : https://prove2.me/theorems/9e19f5fb-6c7b-4571-a874-affbf2bc4caa

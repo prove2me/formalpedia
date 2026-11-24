@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_component_in_fibre_iff_of_isPullback
 -- name    : GlobalTheory.component_in_fibre_iff_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:33.447179+00:00
 -- url     : https://prove2.me/theorems/955d8fd9-e882-4a8d-a67d-d5ca3ac628e4

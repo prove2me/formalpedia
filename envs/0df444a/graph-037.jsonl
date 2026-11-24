@@ -43313,8 +43313,8 @@
 {"parent": "Formalism.G0.TopsChoiceProbabilityLemmas.cell_eq", "child": "Formalism_SubspaceCounting_GoodOrbitIntervalTileCondition", "via": ["solution", "statement"]}
 {"parent": "Reformulated.AutPerF.AinfInv.map_frob", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_SpanNatCastLeComap", "via": ["solution", "statement"]}
 {"parent": "RH1E6S12_D037_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.initMinor_support", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LBidetdomLemmas", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.initMinor_support", "child": "Formalism_GradedWeylDivisibility_StatementA", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.initMinor_support", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LBidetdomLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.initMinor_support", "child": "Formalism_GradedWeylDivisibility_StatementA", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.mckeanDiscountedValueRightStoppedExpectedUpper", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.mckeanDiscountedValueRightStoppedExpectedUpper", "child": "Kyprianou_Ch01_McKeanRightContinuousFiltration", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_Minima", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_TransferenceKey", "via": ["statement"]}
@@ -46767,9 +46767,9 @@
 {"parent": "Formalism.FourierDecayAlt.P.A5x5.modK_mul", "child": "Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_LowUniMulVecELast", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.A5x5.modK_mul", "child": "Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_MulInvBlockDiagApplySameBlock", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.A5x5.modK_mul", "child": "Formalism_HermitianCurvature_BlockKernelPropertiesOfSteps", "via": ["solution", "statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.bideterminantDominance", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LBidetdomLemmas", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.bideterminantDominance", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_BideterminantDominance", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.bideterminantDominance", "child": "Formalism_GradedWeylDivisibility_StatementA", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.bideterminantDominance", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LBidetdomLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.bideterminantDominance", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_BideterminantDominance", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.bideterminantDominance", "child": "Formalism_GradedWeylDivisibility_StatementA", "via": ["solution", "statement"]}
 {"parent": "BB5_Finned3", "child": "FCP_BusyBeaver", "via": ["statement"]}
 {"parent": "FiniteEnergyPlane.eventually_lt_dlambdaEnergy_slice", "child": "FiniteEnergyPlane_Setting", "via": ["solution", "statement"]}
 {"parent": "Formalism_CharacterColumnKernels_IdempotentNormalForms_SumIteLe", "child": "Formalism_CharacterColumnKernels_StatementNG", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isFrob_fixes_root_of_one_mod_place
 -- name    : GlobalTheory.T.isFrob_fixes_root_of_one_mod_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:48:16.270258+00:00
 -- url     : https://prove2.me/theorems/6503ee43-7454-4151-b5fe-f79fed794acc

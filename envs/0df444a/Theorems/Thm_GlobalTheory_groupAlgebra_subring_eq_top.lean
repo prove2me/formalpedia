@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_groupAlgebra_subring_eq_top
 -- name    : GlobalTheory.groupAlgebra_subring_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:54:18.125499+00:00
 -- url     : https://prove2.me/theorems/e40bd96b-980e-4c1e-849d-bedced4c2d55

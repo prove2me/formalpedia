@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPullback_toNormalization_of_isLocalization
 -- name    : GlobalTheory.isPullback_toNormalization_of_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:59:48.362801+00:00
 -- url     : https://prove2.me/theorems/764c876b-ceae-4211-a67a-b3c955b969a6

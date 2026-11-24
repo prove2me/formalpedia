@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_divided_power_zero_zero_vector
 -- name    : Formalism.CohomologicalDescent.LD.divided_power_zero_zero_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:40:26.464392+00:00
 -- url     : https://prove2.me/theorems/ca8c6081-8fb4-4de5-8d18-64935184cb97

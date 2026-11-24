@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_divided_powers_valuations
 -- name    : GlobalTheory.T.divided_powers_valuations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:18.113847+00:00
 -- url     : https://prove2.me/theorems/b7d18553-e07b-4d18-bae4-2f53cc0f3147

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_partial_sequence_top_eq_zero
 -- name    : Formalism.CohomologicalDescent.LD.partial_sequence_top_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:06:32.385154+00:00
 -- url     : https://prove2.me/theorems/ed6ee24e-6cdb-402a-bb3e-aed3f6bf0185

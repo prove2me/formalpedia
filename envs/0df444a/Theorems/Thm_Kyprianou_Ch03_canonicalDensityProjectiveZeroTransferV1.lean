@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_canonicalDensityProjectiveZeroTransferV1
 -- name    : Kyprianou.Ch03.canonicalDensityProjectiveZeroTransferV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:00:58.736049+00:00
 -- url     : https://prove2.me/theorems/1f57c6f7-f232-40ea-950b-06c9e51a7481

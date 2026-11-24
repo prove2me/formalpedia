@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_counts_rows_holds
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.counts_rows_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:01:27.891931+00:00
 -- url     : https://prove2.me/theorems/0b31121e-fe6f-4843-b21f-f72da8390fc9

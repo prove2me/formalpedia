@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeLogPeriod_eq
 -- name    : GlobalTheory.latticeLogPeriod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:02:06.384616+00:00
 -- url     : https://prove2.me/theorems/c0b815c1-a752-4392-8053-8b0513d08d02

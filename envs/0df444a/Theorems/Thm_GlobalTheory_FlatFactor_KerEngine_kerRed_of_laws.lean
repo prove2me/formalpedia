@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_KerEngine_kerRed_of_laws
 -- name    : GlobalTheory.FlatFactor.KerEngine.kerRed_of_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:38:39.913984+00:00
 -- url     : https://prove2.me/theorems/3cb8063a-f5ba-4a49-8581-59151601e53b

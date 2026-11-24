@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_inv_mulVec_mem_hat
 -- name    : GlobalTheory.AdLat.inv_mulVec_mem_hat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:01.924076+00:00
 -- url     : https://prove2.me/theorems/ec7a476d-1f2e-40cd-8274-6576a9799d01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_injective
 -- name    : GlobalTheory.isoTransvection.injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:01:27.243778+00:00
 -- url     : https://prove2.me/theorems/1792981d-d87a-4e95-b4c0-b33e43c133c2

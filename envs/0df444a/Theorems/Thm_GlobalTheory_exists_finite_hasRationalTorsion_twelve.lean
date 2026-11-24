@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_hasRationalTorsion_twelve
 -- name    : GlobalTheory.exists_finite_hasRationalTorsion_twelve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:31:41.528444+00:00
 -- url     : https://prove2.me/theorems/020e002d-5443-40ef-b42e-6ceb0d0f0ca4

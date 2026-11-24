@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_jac_ne_zero_iff_span_eq_maximalIdeal
 -- name    : GlobalTheory.KeyKa.jac_ne_zero_iff_span_eq_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:44:16.429307+00:00
 -- url     : https://prove2.me/theorems/f2f7b585-47b5-42a3-a027-c21b15b4283d

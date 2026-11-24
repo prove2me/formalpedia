@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_evBasic_map_nEval
 -- name    : GlobalTheory.evBasic_map_nEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:21:31.634425+00:00
 -- url     : https://prove2.me/theorems/d1abf779-577f-4b0f-bef1-9dfddd1f41ed

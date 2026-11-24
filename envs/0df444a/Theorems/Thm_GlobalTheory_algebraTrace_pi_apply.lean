@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraTrace_pi_apply
 -- name    : GlobalTheory.algebraTrace_pi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:34.95212+00:00
 -- url     : https://prove2.me/theorems/7e4ed8be-2b63-4ca8-bd26-36e78d399233

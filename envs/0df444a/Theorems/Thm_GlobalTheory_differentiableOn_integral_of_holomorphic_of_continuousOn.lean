@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_integral_of_holomorphic_of_continuousOn
 -- name    : GlobalTheory.differentiableOn_integral_of_holomorphic_of_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:12.852866+00:00
 -- url     : https://prove2.me/theorems/ea03ea81-891d-4ab5-9d03-a4287e358476

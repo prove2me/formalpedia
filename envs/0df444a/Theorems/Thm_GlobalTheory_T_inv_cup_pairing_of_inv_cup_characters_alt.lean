@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inv_cup_pairing_of_inv_cup_characters_alt
 -- name    : GlobalTheory.T.inv_cup_pairing_of_inv_cup_characters_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:47:30.710148+00:00
 -- url     : https://prove2.me/theorems/24ccc0e3-5263-49f5-a6af-1094ace45926

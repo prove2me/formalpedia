@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_generator_diag_variable
 -- name    : Formalism.CohomologicalDescent.LD.generator_diag_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:05:26.211658+00:00
 -- url     : https://prove2.me/theorems/b060118e-7a19-4d36-a51a-0162beb52d97

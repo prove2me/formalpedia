@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_pi_eq_of_map_addHaar_eq
 -- name    : GlobalTheory.map_pi_eq_of_map_addHaar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:09:30.661341+00:00
 -- url     : https://prove2.me/theorems/5b591235-1720-4432-9ed8-952a47275748

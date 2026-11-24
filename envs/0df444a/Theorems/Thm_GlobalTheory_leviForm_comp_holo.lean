@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_leviForm_comp_holo
 -- name    : GlobalTheory.leviForm_comp_holo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:58.281287+00:00
 -- url     : https://prove2.me/theorems/c1da7c07-097d-44f8-a4cb-4b66aafd0aa3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_closed_immersion_universal_square_zero
 -- name    : GlobalTheory.T.closed_immersion_universal_square_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:32:03.340196+00:00
 -- url     : https://prove2.me/theorems/92657ee1-3d84-41e9-ac98-33cb1c2bb3a4

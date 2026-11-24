@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_heightOneOrd_vw_div
 -- name    : GlobalTheory.heightOneOrd_vw_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:53:19.039867+00:00
 -- url     : https://prove2.me/theorems/443a2a2b-0041-4a51-bbcb-5fc73acde0a5

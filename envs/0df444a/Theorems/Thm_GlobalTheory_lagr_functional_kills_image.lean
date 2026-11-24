@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lagr_functional_kills_image
 -- name    : GlobalTheory.lagr_functional_kills_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:25.60167+00:00
 -- url     : https://prove2.me/theorems/36e009b6-832a-49b6-ba41-30902544b715

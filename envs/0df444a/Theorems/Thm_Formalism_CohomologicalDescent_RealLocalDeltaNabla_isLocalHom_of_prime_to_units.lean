@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_isLocalHom_of_prime_to_units
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.isLocalHom_of_prime_to_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:08:38.983807+00:00
 -- url     : https://prove2.me/theorems/ae060186-b2e2-4d30-a992-4fe54dc16a90

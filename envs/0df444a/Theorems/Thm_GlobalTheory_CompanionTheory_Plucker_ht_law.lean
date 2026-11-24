@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_ht_law
 -- name    : GlobalTheory.CompanionTheory.Plucker.ht_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:00.552981+00:00
 -- url     : https://prove2.me/theorems/a9001f08-9d19-4b5f-9280-04b6ebe246fe

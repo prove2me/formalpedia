@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_integral_of_holomorphic_of_locally_dominated
 -- name    : GlobalTheory.differentiableOn_integral_of_holomorphic_of_locally_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:39.803632+00:00
 -- url     : https://prove2.me/theorems/364b4349-57fa-4603-a315-354f93c30608

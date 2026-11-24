@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeDoubleCoset_adicCompletion_inv_mul_integral
 -- name    : GlobalTheory.T.heckeDoubleCoset_adicCompletion_inv_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:43:21.743981+00:00
 -- url     : https://prove2.me/theorems/4bd03c59-e9e2-462b-a097-6f60734b92ec

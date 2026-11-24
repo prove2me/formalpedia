@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_dvr_residueField_ringHom
 -- name    : GlobalTheory.exists_finite_dvr_residueField_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:31:38.230808+00:00
 -- url     : https://prove2.me/theorems/68aea852-4752-4cd0-a8ed-73fedfeac29b

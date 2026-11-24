@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_four_add_le
 -- name    : Formalism.L2.Th1.B.KNorm.four_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:46:53.597696+00:00
 -- url     : https://prove2.me/theorems/5958bb57-8b31-4551-89b0-e64a2686ee9e

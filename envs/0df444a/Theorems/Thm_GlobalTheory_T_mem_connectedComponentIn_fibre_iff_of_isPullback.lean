@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_connectedComponentIn_fibre_iff_of_isPullback
 -- name    : GlobalTheory.T.mem_connectedComponentIn_fibre_iff_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:31:02.920004+00:00
 -- url     : https://prove2.me/theorems/9a864754-3938-4eaa-b252-28ba432bc52d

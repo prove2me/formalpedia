@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_meanSq_cn_nonneg
 -- name    : GlobalTheory.meanSq_cn_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:06:37.255581+00:00
 -- url     : https://prove2.me/theorems/c866186e-db73-4644-8e09-92bc31859533

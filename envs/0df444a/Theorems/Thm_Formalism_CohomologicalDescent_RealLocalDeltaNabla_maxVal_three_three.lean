@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_maxVal_three_three
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.maxVal_three_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:08:34.918407+00:00
 -- url     : https://prove2.me/theorems/9a249235-d640-4992-858a-6f5551ac82b1

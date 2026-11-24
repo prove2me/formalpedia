@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latContinuation
 -- name    : GlobalTheory.latContinuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:02:42.628449+00:00
 -- url     : https://prove2.me/theorems/1d62defa-8c1a-4cdb-ac15-d2e2c10289cb

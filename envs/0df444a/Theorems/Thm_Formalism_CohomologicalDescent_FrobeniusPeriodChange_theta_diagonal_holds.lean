@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_theta_diagonal_holds
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.theta_diagonal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:53:32.917558+00:00
 -- url     : https://prove2.me/theorems/261e7ed6-ba39-4986-95cc-b8f82ab2e7e1

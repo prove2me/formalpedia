@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_chainInvariant
 -- name    : GlobalTheory.UnfoldedEntries.chainInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:39:08.334611+00:00
 -- url     : https://prove2.me/theorems/ec20993a-c0af-49fc-8e9e-1272bd589ec6

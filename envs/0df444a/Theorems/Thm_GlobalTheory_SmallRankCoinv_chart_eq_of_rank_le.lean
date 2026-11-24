@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallRankCoinv_chart_eq_of_rank_le
 -- name    : GlobalTheory.SmallRankCoinv.chart_eq_of_rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:47:40.144054+00:00
 -- url     : https://prove2.me/theorems/bf850ed5-8761-44a0-b632-85b4cf2accac

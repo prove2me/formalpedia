@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld3Gam_inl
 -- name    : Formalism.CohomologicalDescent.LD.ld3Gam_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:06:38.69085+00:00
 -- url     : https://prove2.me/theorems/b2f29646-a4bc-4bbe-a6fe-6a5800950246

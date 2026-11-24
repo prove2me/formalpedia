@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_idealHilbertPoly_eq_sup_add_colon
 -- name    : GlobalTheory.idealHilbertPoly_eq_sup_add_colon
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:11:26.034161+00:00
 -- url     : https://prove2.me/theorems/fa2978ab-7c7a-457b-b608-c05b34c6a4a3

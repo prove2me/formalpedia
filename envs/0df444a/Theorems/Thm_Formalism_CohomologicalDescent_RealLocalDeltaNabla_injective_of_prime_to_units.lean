@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_injective_of_prime_to_units
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.injective_of_prime_to_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:17.252201+00:00
 -- url     : https://prove2.me/theorems/4dac9653-5cb0-47f4-ba5a-2e6c9d934042

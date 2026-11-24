@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntPair_RedMap_mk_eq_mk
 -- name    : GlobalTheory.IntPair.RedMap.mk_eq_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:08:04.618218+00:00
 -- url     : https://prove2.me/theorems/00911cfd-733b-4be1-ace9-95b945017495

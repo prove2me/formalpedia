@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_ne_zero_of_generic_linear_forms_vanish
 -- name    : GlobalTheory.det_ne_zero_of_generic_linear_forms_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:15:56.87229+00:00
 -- url     : https://prove2.me/theorems/918b255d-44f2-432f-bcdc-742f0210e312

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_eq_lieExp_kerEquiv
 -- name    : GlobalTheory.SqZero.eq_lieExp_kerEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:56:31.249885+00:00
 -- url     : https://prove2.me/theorems/485dd883-526f-4d75-a490-68544d1d253a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_tensorSubmodule_le_of_tprod_mem
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.tensorSubmodule_le_of_tprod_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:08:55.040698+00:00
 -- url     : https://prove2.me/theorems/e276a309-9f97-41f9-8be5-219ee31b2ade

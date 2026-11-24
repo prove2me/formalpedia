@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_I_smul_of_cauchyRiemann
 -- name    : GlobalTheory.map_I_smul_of_cauchyRiemann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:38.340207+00:00
 -- url     : https://prove2.me/theorems/dc13a73a-3be9-414c-b84d-9bc956d01cc1

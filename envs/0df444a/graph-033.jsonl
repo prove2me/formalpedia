@@ -88286,7 +88286,7 @@
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeP9_0464", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_183", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_183", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
-{"parent": "PolyaLaplacian.polya_annulus", "child": "PolyaLaplacian_Spectral", "via": ["statement"]}
+{"parent": "PolyaLaplacian.polya_annulus", "child": "PolyaLaplacian_Spectral", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_10", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_10", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_11", "child": "OAIQ259US022", "via": ["solution", "statement"]}
@@ -96845,7 +96845,7 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_1347", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_1347", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.checked_P9_329", "child": "RealPinwheel_FiveSixths_WitnessP9_329", "via": ["solution", "statement"]}
-{"parent": "PolyaLaplacian.li_yau_sum", "child": "PolyaLaplacian_Spectral", "via": ["statement"]}
+{"parent": "PolyaLaplacian.li_yau_sum", "child": "PolyaLaplacian_Spectral", "via": ["solution", "statement"]}
 {"parent": "OPG37271.hasStarEdgeColoring_of_deg2_path4_distinct", "child": "opg37271_star_edge_coloring", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0553", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0553", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}

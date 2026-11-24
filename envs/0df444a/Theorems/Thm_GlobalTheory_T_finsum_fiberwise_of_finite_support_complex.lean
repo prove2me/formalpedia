@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finsum_fiberwise_of_finite_support_complex
 -- name    : GlobalTheory.T.finsum_fiberwise_of_finite_support_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:39:48.934371+00:00
 -- url     : https://prove2.me/theorems/2b158618-105a-4216-8cc9-161f1faf8d2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_card_fiber_le
 -- name    : GlobalTheory.QHolo.card_fiber_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:03:44.270804+00:00
 -- url     : https://prove2.me/theorems/15efd627-9189-4589-bb96-4ad893cd751b

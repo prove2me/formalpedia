@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_holFamily_lift
 -- name    : GlobalTheory.holFamily_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:11:06.532748+00:00
 -- url     : https://prove2.me/theorems/2d8100f6-cc36-4993-85df-434f83c43cda

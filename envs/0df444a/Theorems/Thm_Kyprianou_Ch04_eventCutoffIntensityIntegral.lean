@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_eventCutoffIntensityIntegral
 -- name    : Kyprianou.Ch04.eventCutoffIntensityIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:00:54.53706+00:00
 -- url     : https://prove2.me/theorems/73cb0315-28a9-4e04-b15b-11346997fcbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_mul_setIntegral_image2_of_forall_le
 -- name    : GlobalTheory.le_mul_setIntegral_image2_of_forall_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:02:14.587662+00:00
 -- url     : https://prove2.me/theorems/b8047f95-1617-432b-9365-042824dd7f0d

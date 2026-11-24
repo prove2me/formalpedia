@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_nhds_zero_translation_invariant_of_locallyConstant
 -- name    : GlobalTheory.T.exists_nhds_zero_translation_invariant_of_locallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:37:04.527885+00:00
 -- url     : https://prove2.me/theorems/36e09cd4-b783-4581-bc07-c0ddce846e3e

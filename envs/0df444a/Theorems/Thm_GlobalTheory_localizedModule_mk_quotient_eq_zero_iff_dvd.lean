@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_localizedModule_mk_quotient_eq_zero_iff_dvd
 -- name    : GlobalTheory.localizedModule_mk_quotient_eq_zero_iff_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:08:03.768799+00:00
 -- url     : https://prove2.me/theorems/95b9bf49-62c3-4ffb-8622-5303508491ef

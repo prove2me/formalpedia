@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_fisch_monomial
 -- name    : GlobalTheory.RowSpan.fisch_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:11:26.501811+00:00
 -- url     : https://prove2.me/theorems/b94e249d-0b48-4ec0-995d-df8d7ee3ac1d

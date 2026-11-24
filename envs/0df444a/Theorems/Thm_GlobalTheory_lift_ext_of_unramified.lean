@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lift_ext_of_unramified
 -- name    : GlobalTheory.lift_ext_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:19.72603+00:00
 -- url     : https://prove2.me/theorems/3dac13fd-f1e6-462b-a322-8d067dfee904

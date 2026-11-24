@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unipotent_unitary_shift_making_complement_orthogonal
 -- name    : GlobalTheory.T.exists_unipotent_unitary_shift_making_complement_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:37:58.093267+00:00
 -- url     : https://prove2.me/theorems/d0074fdf-7b3b-4dbd-8de4-418df6767c9a

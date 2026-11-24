@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_sum_maxVal_le_card_mul_log
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.sum_maxVal_le_card_mul_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:00:57.94608+00:00
 -- url     : https://prove2.me/theorems/e51103a2-9acc-4f57-a502-ea26c162a26e

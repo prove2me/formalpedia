@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_pow_mul_eval_homogeneous_eq
 -- name    : Formalism.CohomologicalDescent.LD.pow_mul_eval_homogeneous_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:04:54.68383+00:00
 -- url     : https://prove2.me/theorems/401661e1-ece6-4f62-a479-4b1b9c32f60e

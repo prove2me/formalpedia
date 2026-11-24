@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_rowStart_rev_eq
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.rowStart_rev_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:08.840334+00:00
 -- url     : https://prove2.me/theorems/132cd2e0-4866-461e-8790-0406bc781521

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_units_modSq_finite_of_fields
 -- name    : GlobalTheory.units_modSq_finite_of_fields
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:31:18.515189+00:00
 -- url     : https://prove2.me/theorems/a475183f-94d9-4491-b501-4eaf398e2305

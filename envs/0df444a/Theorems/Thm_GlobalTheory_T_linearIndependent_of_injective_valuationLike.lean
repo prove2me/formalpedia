@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linearIndependent_of_injective_valuationLike
 -- name    : GlobalTheory.T.linearIndependent_of_injective_valuationLike
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:34.003681+00:00
 -- url     : https://prove2.me/theorems/0a3cd315-5727-4629-8d5a-4723afa97f26

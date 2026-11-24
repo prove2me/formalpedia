@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GoodCharacterTail_eventually_log_le
 -- name    : GlobalTheory.GoodCharacterTail.eventually_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:05:34.680776+00:00
 -- url     : https://prove2.me/theorems/e7899844-37ee-44f6-af42-4d56536320fe

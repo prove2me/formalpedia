@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_exists_sec_div
 -- name    : GlobalTheory.KeyPow.exists_sec_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:43:43.234151+00:00
 -- url     : https://prove2.me/theorems/c1382497-ab61-4492-9896-c44d270a249b

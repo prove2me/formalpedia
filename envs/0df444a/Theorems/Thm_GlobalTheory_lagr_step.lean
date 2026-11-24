@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lagr_step
 -- name    : GlobalTheory.lagr_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:32.36333+00:00
 -- url     : https://prove2.me/theorems/f4bf8df8-3dc2-4db2-ad6f-2105831f2f7c

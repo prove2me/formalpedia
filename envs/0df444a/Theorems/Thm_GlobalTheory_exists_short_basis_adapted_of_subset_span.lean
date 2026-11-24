@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_short_basis_adapted_of_subset_span
 -- name    : GlobalTheory.exists_short_basis_adapted_of_subset_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:20.254255+00:00
 -- url     : https://prove2.me/theorems/2da6cec5-6663-4f61-9d7d-1a172ee76409

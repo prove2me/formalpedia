@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_cGL_stab
 -- name    : GlobalTheory.CompanionTheory.Plucker.cGL_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:22.531971+00:00
 -- url     : https://prove2.me/theorems/cb28cc4f-099d-459b-b801-693ed722b483

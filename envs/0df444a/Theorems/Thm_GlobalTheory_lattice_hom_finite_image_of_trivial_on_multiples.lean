@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lattice_hom_finite_image_of_trivial_on_multiples
 -- name    : GlobalTheory.lattice_hom_finite_image_of_trivial_on_multiples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:02:20.197075+00:00
 -- url     : https://prove2.me/theorems/116add98-6a1b-4142-afdb-5991c65e5138

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ker_includeRight_quotient
 -- name    : GlobalTheory.ker_includeRight_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:02:29.813131+00:00
 -- url     : https://prove2.me/theorems/093915e7-7deb-4cb4-8c7a-5a256d700064

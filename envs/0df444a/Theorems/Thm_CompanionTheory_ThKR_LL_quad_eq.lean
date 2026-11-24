@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_quad_eq
 -- name    : CompanionTheory.ThKR.LL.quad_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:30:40.318063+00:00
 -- url     : https://prove2.me/theorems/448ad79e-db3f-4bfe-9a26-2ebcd4406a92

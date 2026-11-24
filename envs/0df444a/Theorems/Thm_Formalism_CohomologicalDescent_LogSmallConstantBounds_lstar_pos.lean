@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_lstar_pos
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.lstar_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:44:58.621+00:00
 -- url     : https://prove2.me/theorems/056b1539-1156-43cc-8165-eb944e855fe5

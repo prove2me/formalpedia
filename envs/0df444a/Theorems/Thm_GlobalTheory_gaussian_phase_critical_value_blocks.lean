@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussian_phase_critical_value_blocks
 -- name    : GlobalTheory.gaussian_phase_critical_value_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:54:03.069821+00:00
 -- url     : https://prove2.me/theorems/eead8736-d264-4b8e-b5a0-7ae0948143be

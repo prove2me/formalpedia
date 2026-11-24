@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetPoint_zR_zero_eq_zero
 -- name    : GlobalTheory.JetPoint.zR_zero_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:08.82701+00:00
 -- url     : https://prove2.me/theorems/bfe3ad1d-c592-41bf-a6d7-fd8d4a67c4b1

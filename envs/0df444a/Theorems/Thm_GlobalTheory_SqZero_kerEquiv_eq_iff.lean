@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_kerEquiv_eq_iff
 -- name    : GlobalTheory.SqZero.kerEquiv_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:56:39.251964+00:00
 -- url     : https://prove2.me/theorems/088d09e8-5897-4f9d-b55b-1ea85f6de417

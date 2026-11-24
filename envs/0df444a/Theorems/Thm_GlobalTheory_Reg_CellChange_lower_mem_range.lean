@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_CellChange_lower_mem_range
 -- name    : GlobalTheory.Reg.CellChange.lower_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:21:24.923564+00:00
 -- url     : https://prove2.me/theorems/e5710c24-e23e-48ad-a162-7c9fed848cdb

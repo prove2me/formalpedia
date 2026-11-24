@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_qiso_lid
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.qiso_lid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:03:43.469799+00:00
 -- url     : https://prove2.me/theorems/fb51baeb-1336-4122-a3c0-e443105fe9d1

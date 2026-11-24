@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_lift_spec_of_isIntegrallyClosedIn
 -- name    : GlobalTheory.existsUnique_lift_spec_of_isIntegrallyClosedIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:29:07.827685+00:00
 -- url     : https://prove2.me/theorems/4bc1746a-f3bb-48ee-a21c-72218256bce7

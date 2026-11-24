@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_expLeIffKilled
 -- name    : Formalism.CohomologicalDescent.LD.expLeIffKilled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:41:18.86526+00:00
 -- url     : https://prove2.me/theorems/6cf5ce6f-d745-49ee-8a5e-6c504f68abfb

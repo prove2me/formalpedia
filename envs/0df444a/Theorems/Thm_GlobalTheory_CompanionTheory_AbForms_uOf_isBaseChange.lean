@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_uOf_isBaseChange
 -- name    : GlobalTheory.CompanionTheory.AbForms.uOf_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:22:22.279095+00:00
 -- url     : https://prove2.me/theorems/27dd58ae-c881-436c-a999-71ed0f8d0af7

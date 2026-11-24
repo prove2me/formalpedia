@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_shapes_shift_iff
 -- name    : Formalism.CohomologicalDescent.LD.shapes_shift_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:00:50.733608+00:00
 -- url     : https://prove2.me/theorems/53782150-c9d4-426e-b94f-7896e0ca8522

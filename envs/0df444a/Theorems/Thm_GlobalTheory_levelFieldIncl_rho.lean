@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_levelFieldIncl_rho
 -- name    : GlobalTheory.levelFieldIncl_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:06:20.06595+00:00
 -- url     : https://prove2.me/theorems/b936c8f7-c977-4ef4-98a5-75544135a497

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dividedPowerValuations_minVal
 -- name    : GlobalTheory.T.dividedPowerValuations_minVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:39.250081+00:00
 -- url     : https://prove2.me/theorems/5e89ffbe-02a8-4971-b144-8bfd83432b33

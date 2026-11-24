@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cast_hilbertDegree_of_degree_eq
 -- name    : GlobalTheory.cast_hilbertDegree_of_degree_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:45.892987+00:00
 -- url     : https://prove2.me/theorems/5641a988-0dbb-491d-a1e7-1e71d8b5fef1

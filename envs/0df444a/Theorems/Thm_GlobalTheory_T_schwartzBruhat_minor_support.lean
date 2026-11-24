@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_minor_support
 -- name    : GlobalTheory.T.schwartzBruhat_minor_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:51.644871+00:00
 -- url     : https://prove2.me/theorems/c24001f9-c36c-4713-867b-2139846341f1

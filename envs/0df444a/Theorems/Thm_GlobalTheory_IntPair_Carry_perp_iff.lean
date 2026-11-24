@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntPair_Carry_perp_iff
 -- name    : GlobalTheory.IntPair.Carry.perp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:58.718079+00:00
 -- url     : https://prove2.me/theorems/dcc9653e-1c47-454e-b59e-2dd0e723d6fd

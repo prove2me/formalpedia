@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ne_zero_of_sval_eq_mul_unit
 -- name    : GlobalTheory.exists_ne_zero_of_sval_eq_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:36:36.937292+00:00
 -- url     : https://prove2.me/theorems/bee65dbb-9a34-44eb-8d7f-fe3e8b7e92c5

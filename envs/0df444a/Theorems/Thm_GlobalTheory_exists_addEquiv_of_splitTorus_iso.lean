@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_addEquiv_of_splitTorus_iso
 -- name    : GlobalTheory.exists_addEquiv_of_splitTorus_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:30:08.276164+00:00
 -- url     : https://prove2.me/theorems/a2d7d38b-d7b3-499f-81fd-c9a92371100c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_injective_extends_to_equiv
 -- name    : Formalism.CohomologicalDescent.LD.injective_extends_to_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:06:34.830534+00:00
 -- url     : https://prove2.me/theorems/a6fb0ff5-2378-4c25-9330-e57fe91a9be1

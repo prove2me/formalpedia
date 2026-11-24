@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_int_im_latticeForm
 -- name    : GlobalTheory.exists_int_im_latticeForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:38:26.27392+00:00
 -- url     : https://prove2.me/theorems/df3c32e5-1743-4986-b422-c5cef36a5cef

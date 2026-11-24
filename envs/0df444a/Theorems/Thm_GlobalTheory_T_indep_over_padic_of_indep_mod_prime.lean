@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_indep_over_padic_of_indep_mod_prime
 -- name    : GlobalTheory.T.indep_over_padic_of_indep_mod_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:54.47326+00:00
 -- url     : https://prove2.me/theorems/c4883718-7e51-48a5-87ce-06fb378f1fff

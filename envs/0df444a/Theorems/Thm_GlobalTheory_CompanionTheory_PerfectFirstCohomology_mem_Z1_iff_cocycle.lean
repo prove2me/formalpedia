@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_mem_Z1_iff_cocycle
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.mem_Z1_iff_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:01:51.097398+00:00
 -- url     : https://prove2.me/theorems/6ae08605-4eff-4b74-a95d-e4f700762c3f

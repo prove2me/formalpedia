@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_frobenius_diagonal_entry_eq_unit_mul
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.frobenius_diagonal_entry_eq_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:53:22.557796+00:00
 -- url     : https://prove2.me/theorems/a9a97b50-e35e-4569-8022-9ff58236af88

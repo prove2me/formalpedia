@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_ofBasis_eq_ofBasis_iff
 -- name    : GlobalTheory.FullFlag.ofBasis_eq_ofBasis_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:14.303796+00:00
 -- url     : https://prove2.me/theorems/eb205b8d-8a35-4cba-851a-861ee86fc4a3

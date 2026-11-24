@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIso_of_isProper_of_existsUnique_field_point_of_isIntegral
 -- name    : GlobalTheory.isIso_of_isProper_of_existsUnique_field_point_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:58:47.46785+00:00
 -- url     : https://prove2.me/theorems/12362461-3ef5-4227-ad9b-9672e8cb0be8

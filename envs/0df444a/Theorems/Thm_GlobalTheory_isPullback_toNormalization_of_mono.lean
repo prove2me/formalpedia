@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPullback_toNormalization_of_mono
 -- name    : GlobalTheory.isPullback_toNormalization_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:59:54.837976+00:00
 -- url     : https://prove2.me/theorems/696c7262-9af7-4fae-8551-bfa303e7a7f0

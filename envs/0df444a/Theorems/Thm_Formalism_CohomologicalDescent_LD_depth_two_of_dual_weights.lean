@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_depth_two_of_dual_weights
 -- name    : Formalism.CohomologicalDescent.LD.depth_two_of_dual_weights
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:05:49.744866+00:00
 -- url     : https://prove2.me/theorems/d3e99e0c-7a29-40a6-82a2-7654154347bc

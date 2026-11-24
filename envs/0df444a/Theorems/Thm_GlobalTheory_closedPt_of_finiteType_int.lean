@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_closedPt_of_finiteType_int
 -- name    : GlobalTheory.closedPt_of_finiteType_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:33.925866+00:00
 -- url     : https://prove2.me/theorems/c5fdc799-e6f3-4634-8492-859b3a5288a8

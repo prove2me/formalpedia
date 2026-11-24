@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_laurent_coeff_eq_zero_of_vanish_torsion
 -- name    : GlobalTheory.laurent_coeff_eq_zero_of_vanish_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:03:20.364246+00:00
 -- url     : https://prove2.me/theorems/00b824eb-1890-40f8-946e-944a3a6b2b8b

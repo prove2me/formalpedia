@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCharCompare_isSimpleModule_of_finrank_end
 -- name    : GlobalTheory.CuspCharCompare.isSimpleModule_of_finrank_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:08:43.037591+00:00
 -- url     : https://prove2.me/theorems/09067383-988a-44fb-9e53-8ae13a03651a

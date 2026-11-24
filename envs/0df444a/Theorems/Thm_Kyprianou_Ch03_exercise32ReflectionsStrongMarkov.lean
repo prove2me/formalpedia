@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise32ReflectionsStrongMarkov
 -- name    : Kyprianou.Ch03.exercise32ReflectionsStrongMarkov
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:49:43.077044+00:00
 -- url     : https://prove2.me/theorems/612fd176-5f54-4175-839f-3a1c07fd8378

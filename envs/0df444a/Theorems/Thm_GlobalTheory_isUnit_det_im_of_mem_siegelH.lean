@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isUnit_det_im_of_mem_siegelH
 -- name    : GlobalTheory.isUnit_det_im_of_mem_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:00:56.692041+00:00
 -- url     : https://prove2.me/theorems/efa7627b-bb8c-496b-b444-718e98d4b1a1

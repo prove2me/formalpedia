@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPrincipal_of_isStablyFree
 -- name    : GlobalTheory.isPrincipal_of_isStablyFree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:59:30.289643+00:00
 -- url     : https://prove2.me/theorems/f88271af-f2f8-4a70-84f5-f6f58e47a792

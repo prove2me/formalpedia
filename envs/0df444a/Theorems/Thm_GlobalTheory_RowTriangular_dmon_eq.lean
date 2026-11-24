@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowTriangular_dmon_eq
 -- name    : GlobalTheory.RowTriangular.dmon_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:07.306131+00:00
 -- url     : https://prove2.me/theorems/1addae62-77ad-4a4b-9b84-53a6bd472cef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_mul_convolution_eq_alt
 -- name    : GlobalTheory.T.integral_mul_convolution_eq_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:46:56.30837+00:00
 -- url     : https://prove2.me/theorems/fbfa2b51-19d3-45a9-8112-19b204f753e2

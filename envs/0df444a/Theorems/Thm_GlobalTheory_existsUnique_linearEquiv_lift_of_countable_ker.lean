@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_linearEquiv_lift_of_countable_ker
 -- name    : GlobalTheory.existsUnique_linearEquiv_lift_of_countable_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:29:22.837876+00:00
 -- url     : https://prove2.me/theorems/be8d3f69-21ad-418d-a532-d647cce57bf3

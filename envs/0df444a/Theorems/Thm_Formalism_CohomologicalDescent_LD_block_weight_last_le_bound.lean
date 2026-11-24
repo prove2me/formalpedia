@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_block_weight_last_le_bound
 -- name    : Formalism.CohomologicalDescent.LD.block_weight_last_le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:21.641656+00:00
 -- url     : https://prove2.me/theorems/e720a833-0483-4010-98d4-6b7f7350f252

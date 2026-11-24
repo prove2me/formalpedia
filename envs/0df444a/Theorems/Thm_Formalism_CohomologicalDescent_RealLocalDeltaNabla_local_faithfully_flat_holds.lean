@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_local_faithfully_flat_holds
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.local_faithfully_flat_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:08:42.475694+00:00
 -- url     : https://prove2.me/theorems/95e0b2fa-8297-4dc8-a4d7-1d7d8510ad9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_kaehler_baseChange_independent_extend
 -- name    : GlobalTheory.kaehler_baseChange_independent_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:02:26.877796+00:00
 -- url     : https://prove2.me/theorems/35a43eb3-3c4f-424d-a02c-9b2f1ad880db

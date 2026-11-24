@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jetWedge_shear
 -- name    : GlobalTheory.jetWedge_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:02:16.236372+00:00
 -- url     : https://prove2.me/theorems/6fb84b57-5319-4d5e-b545-fd495d9ac688

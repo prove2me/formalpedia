@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ker_aeval_truncatedPolynomial_presentation
 -- name    : GlobalTheory.T.ker_aeval_truncatedPolynomial_presentation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:51:34.730119+00:00
 -- url     : https://prove2.me/theorems/6444e91e-f660-45a2-b413-04d82b00bacd

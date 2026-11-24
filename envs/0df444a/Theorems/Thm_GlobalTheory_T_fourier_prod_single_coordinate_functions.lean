@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_prod_single_coordinate_functions
 -- name    : GlobalTheory.T.fourier_prod_single_coordinate_functions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:41:19.215182+00:00
 -- url     : https://prove2.me/theorems/e0ab2940-1828-4be9-8c09-04f431e58d6f

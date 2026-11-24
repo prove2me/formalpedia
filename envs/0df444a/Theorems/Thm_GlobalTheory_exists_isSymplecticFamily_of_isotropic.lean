@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isSymplecticFamily_of_isotropic
 -- name    : GlobalTheory.exists_isSymplecticFamily_of_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:33:14.473076+00:00
 -- url     : https://prove2.me/theorems/0b4b89c3-7267-4d7a-9748-c38e68e9f621

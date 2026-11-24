@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_grpObj_of_flat_closed
 -- name    : GlobalTheory.exists_grpObj_of_flat_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:19:15.683145+00:00
 -- url     : https://prove2.me/theorems/0dad7b84-1051-4cd3-95ee-572127d214cf

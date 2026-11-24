@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSemisimpleRepresentation_of_invariant_core
 -- name    : GlobalTheory.isSemisimpleRepresentation_of_invariant_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:23.926866+00:00
 -- url     : https://prove2.me/theorems/a37ea0c9-432f-476f-ae7f-43ccda60bc25

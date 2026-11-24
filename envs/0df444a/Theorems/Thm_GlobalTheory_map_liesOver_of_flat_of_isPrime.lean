@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_liesOver_of_flat_of_isPrime
 -- name    : GlobalTheory.map_liesOver_of_flat_of_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:35.655221+00:00
 -- url     : https://prove2.me/theorems/5281a5f2-fec4-4251-8b9d-39f4f043e35e

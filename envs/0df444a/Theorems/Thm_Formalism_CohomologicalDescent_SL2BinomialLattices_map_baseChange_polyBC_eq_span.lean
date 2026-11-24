@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_map_baseChange_polyBC_eq_span
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.map_baseChange_polyBC_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:59:58.32728+00:00
 -- url     : https://prove2.me/theorems/fe996b4a-e2e8-4c89-a3b3-3e41205fb11f

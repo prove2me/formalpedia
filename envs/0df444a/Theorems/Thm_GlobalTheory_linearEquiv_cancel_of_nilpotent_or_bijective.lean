@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearEquiv_cancel_of_nilpotent_or_bijective
 -- name    : GlobalTheory.linearEquiv_cancel_of_nilpotent_or_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:08.549663+00:00
 -- url     : https://prove2.me/theorems/c93a449d-5a9c-45ef-92c6-5f6acaf48b63

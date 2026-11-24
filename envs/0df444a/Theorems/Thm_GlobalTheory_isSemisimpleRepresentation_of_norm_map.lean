@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSemisimpleRepresentation_of_norm_map
 -- name    : GlobalTheory.isSemisimpleRepresentation_of_norm_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:07.163797+00:00
 -- url     : https://prove2.me/theorems/93ad934e-e868-4be7-bd77-a19818c13cc1

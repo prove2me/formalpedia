@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_unit_series_constant_holds
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.unit_series_constant_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:54:40.849259+00:00
 -- url     : https://prove2.me/theorems/66905208-f64b-4502-b59d-d9533818ea74

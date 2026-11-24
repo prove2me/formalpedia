@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpen_of_stableUnderGeneralization_of_locallyClosed_pieces
 -- name    : GlobalTheory.isOpen_of_stableUnderGeneralization_of_locallyClosed_pieces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:58:32.607072+00:00
 -- url     : https://prove2.me/theorems/903d3a6f-93b2-413e-a731-4f5056853828

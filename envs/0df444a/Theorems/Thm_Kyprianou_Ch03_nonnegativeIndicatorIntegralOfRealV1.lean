@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_nonnegativeIndicatorIntegralOfRealV1
 -- name    : Kyprianou.Ch03.nonnegativeIndicatorIntegralOfRealV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:00:44.576562+00:00
 -- url     : https://prove2.me/theorems/88691459-b6bb-4287-a9ac-82875ab10cf1

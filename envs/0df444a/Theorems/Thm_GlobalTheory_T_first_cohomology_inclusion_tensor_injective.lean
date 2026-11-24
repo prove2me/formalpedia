@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_first_cohomology_inclusion_tensor_injective
 -- name    : GlobalTheory.T.first_cohomology_inclusion_tensor_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:33.363277+00:00
 -- url     : https://prove2.me/theorems/7e625d28-a46d-460d-b9c0-b1e787a4097f

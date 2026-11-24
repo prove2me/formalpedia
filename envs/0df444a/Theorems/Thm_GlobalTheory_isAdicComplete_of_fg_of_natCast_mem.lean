@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isAdicComplete_of_fg_of_natCast_mem
 -- name    : GlobalTheory.isAdicComplete_of_fg_of_natCast_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:56:15.614118+00:00
 -- url     : https://prove2.me/theorems/e6cd0011-1b93-49f9-9bff-f3b4ade53096

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_leftMulMatrix_pi_basisFun
 -- name    : GlobalTheory.leftMulMatrix_pi_basisFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:04:02.093262+00:00
 -- url     : https://prove2.me/theorems/7defc21a-98f7-4ff7-923c-772e5860df87

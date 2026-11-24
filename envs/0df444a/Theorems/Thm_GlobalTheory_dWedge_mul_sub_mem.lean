@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dWedge_mul_sub_mem
 -- name    : GlobalTheory.dWedge_mul_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:14:20.816645+00:00
 -- url     : https://prove2.me/theorems/62337895-5346-4a77-b7da-4a098082967f

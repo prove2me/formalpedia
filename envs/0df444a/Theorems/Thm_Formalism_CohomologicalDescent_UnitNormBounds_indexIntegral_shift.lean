@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_indexIntegral_shift
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.indexIntegral_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:21.397473+00:00
 -- url     : https://prove2.me/theorems/5816bf30-c95a-4d41-9eb6-9de38dd88846

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_weight_wc_eq_degree
 -- name    : Formalism.CohomologicalDescent.LD.weight_wc_eq_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:44.061897+00:00
 -- url     : https://prove2.me/theorems/53640509-1b6a-49e4-bafb-783c9e7ee3ac

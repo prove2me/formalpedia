@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_locallyQuasiFinite_of_finite_geometric_points
 -- name    : GlobalTheory.locallyQuasiFinite_of_finite_geometric_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:08:06.429367+00:00
 -- url     : https://prove2.me/theorems/41958249-e17a-4018-95d9-6d29e68e314c

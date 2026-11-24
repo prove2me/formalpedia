@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_psi_le
 -- name    : Formalism.L2.Th1.B.KNorm.psi_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:47:23.157391+00:00
 -- url     : https://prove2.me/theorems/5c4ee900-e635-481f-8eee-b7dc24cc1c69

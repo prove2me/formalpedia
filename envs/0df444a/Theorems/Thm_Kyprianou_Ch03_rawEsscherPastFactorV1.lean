@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_rawEsscherPastFactorV1
 -- name    : Kyprianou.Ch03.rawEsscherPastFactorV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:01:01.163143+00:00
 -- url     : https://prove2.me/theorems/8ca212fa-3d5a-4548-b309-faa3f211f6f6

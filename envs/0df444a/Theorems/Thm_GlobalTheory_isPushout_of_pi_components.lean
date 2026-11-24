@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPushout_of_pi_components
 -- name    : GlobalTheory.isPushout_of_pi_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:59:57.815235+00:00
 -- url     : https://prove2.me/theorems/7f869e23-1b77-4774-9ffb-6ef2da0265a6

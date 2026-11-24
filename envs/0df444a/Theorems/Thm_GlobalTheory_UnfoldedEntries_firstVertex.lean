@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_firstVertex
 -- name    : GlobalTheory.UnfoldedEntries.firstVertex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:39:21.963012+00:00
 -- url     : https://prove2.me/theorems/16ec62fd-7152-40f5-b4c6-cb110c006007

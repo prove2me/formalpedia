@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isMonHom_of_pullback_of_flat
 -- name    : GlobalTheory.isMonHom_of_pullback_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:58:08.992201+00:00
 -- url     : https://prove2.me/theorems/6b4f344e-83af-4b22-bf20-e0a9de219f93

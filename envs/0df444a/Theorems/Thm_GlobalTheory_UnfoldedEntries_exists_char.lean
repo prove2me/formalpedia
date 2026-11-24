@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_exists_char
 -- name    : GlobalTheory.UnfoldedEntries.exists_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:40:20.965366+00:00
 -- url     : https://prove2.me/theorems/85fe62d4-62ca-465b-b208-e771265c3fba

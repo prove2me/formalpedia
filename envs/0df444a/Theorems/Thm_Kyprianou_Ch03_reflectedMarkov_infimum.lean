@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectedMarkov_infimum
 -- name    : Kyprianou.Ch03.reflectedMarkov_infimum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:00:19.733369+00:00
 -- url     : https://prove2.me/theorems/ce94ea45-0eda-4ec6-831e-5fa9e713b39b

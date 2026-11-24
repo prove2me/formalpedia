@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilSmooth_fix_l
 -- name    : GlobalTheory.WeilSmooth.fix_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:55:33.333324+00:00
 -- url     : https://prove2.me/theorems/21f690c8-8894-49f7-ab76-f0486b0522e0

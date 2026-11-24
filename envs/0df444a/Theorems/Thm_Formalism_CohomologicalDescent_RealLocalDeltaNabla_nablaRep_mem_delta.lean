@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_nablaRep_mem_delta
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.nablaRep_mem_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:08:38.930975+00:00
 -- url     : https://prove2.me/theorems/f8b1d975-48f1-496f-aa67-a60c5d50da66

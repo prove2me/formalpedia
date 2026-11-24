@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrrPi_irr_mulSingle
 -- name    : GlobalTheory.IrrPi.irr_mulSingle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:21:09.866903+00:00
 -- url     : https://prove2.me/theorems/059ed9ef-a6ea-46f8-8fea-61c86b31d786

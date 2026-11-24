@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateImage_isAl_iff
 -- name    : GlobalTheory.HodgeTateImage.isAl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:46:54.865036+00:00
 -- url     : https://prove2.me/theorems/6f8e4fb7-2df9-470a-adc4-5a4d604e0382

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryTransitive_uO_transitive_of_last_unit
 -- name    : GlobalTheory.UnitaryTransitive.uO_transitive_of_last_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:44:55.566347+00:00
 -- url     : https://prove2.me/theorems/236bbe26-6e51-454b-a1c2-4e3cdcac5e5f

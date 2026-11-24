@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_levelff_gs_comp
 -- name    : GlobalTheory.levelff_gs_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:07:11.8828+00:00
 -- url     : https://prove2.me/theorems/dbee4d0c-ce86-4682-b939-05b820bf4ea8

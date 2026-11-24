@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_comap_maximalIdeal_eq_of_formallyUnramified
 -- name    : GlobalTheory.map_comap_maximalIdeal_eq_of_formallyUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:46.577961+00:00
 -- url     : https://prove2.me/theorems/b830786e-0739-4138-a2ad-95c4d2458d4e

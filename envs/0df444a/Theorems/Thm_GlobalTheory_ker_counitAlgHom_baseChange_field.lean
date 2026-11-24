@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ker_counitAlgHom_baseChange_field
 -- name    : GlobalTheory.ker_counitAlgHom_baseChange_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:02:19.602498+00:00
 -- url     : https://prove2.me/theorems/48c027cd-311c-4fde-9a71-15c15c3d8c55

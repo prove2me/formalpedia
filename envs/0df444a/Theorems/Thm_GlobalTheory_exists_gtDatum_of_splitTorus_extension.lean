@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_gtDatum_of_splitTorus_extension
 -- name    : GlobalTheory.exists_gtDatum_of_splitTorus_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:46:35.933214+00:00
 -- url     : https://prove2.me/theorems/203649b6-6016-40a5-b33f-0a4035e02e56

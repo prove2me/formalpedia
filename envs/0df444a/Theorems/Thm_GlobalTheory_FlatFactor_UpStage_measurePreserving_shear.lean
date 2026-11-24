@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_measurePreserving_shear
 -- name    : GlobalTheory.FlatFactor.UpStage.measurePreserving_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:04:10.112183+00:00
 -- url     : https://prove2.me/theorems/6ae6c470-491c-4ab7-9fa9-ad26ee4276c2

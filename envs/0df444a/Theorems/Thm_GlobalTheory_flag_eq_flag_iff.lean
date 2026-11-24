@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flag_eq_flag_iff
 -- name    : GlobalTheory.flag_eq_flag_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:50:38.439053+00:00
 -- url     : https://prove2.me/theorems/7e2c5354-40d1-4773-908d-ee7ca8a96db1

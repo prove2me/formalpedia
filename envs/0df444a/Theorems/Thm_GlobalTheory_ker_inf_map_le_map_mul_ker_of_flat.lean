@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ker_inf_map_le_map_mul_ker_of_flat
 -- name    : GlobalTheory.ker_inf_map_le_map_mul_ker_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:02:42.403149+00:00
 -- url     : https://prove2.me/theorems/19fa4f10-8a69-43cf-9763-3608d5be4067

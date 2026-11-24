@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_log_factorial_pow_mul_factorial_pow_le
 -- name    : GlobalTheory.log_factorial_pow_mul_factorial_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:08:34.430051+00:00
 -- url     : https://prove2.me/theorems/050bb4f8-c13c-4e52-a9bc-ece72ffcf06c

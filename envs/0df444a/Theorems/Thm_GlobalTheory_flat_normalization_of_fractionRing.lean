@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_normalization_of_fractionRing
 -- name    : GlobalTheory.flat_normalization_of_fractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:47.672711+00:00
 -- url     : https://prove2.me/theorems/9fe50ebd-75b8-4d78-8282-ddc00d6a5fe8

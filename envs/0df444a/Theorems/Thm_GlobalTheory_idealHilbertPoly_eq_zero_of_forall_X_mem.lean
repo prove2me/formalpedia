@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_idealHilbertPoly_eq_zero_of_forall_X_mem
 -- name    : GlobalTheory.idealHilbertPoly_eq_zero_of_forall_X_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:15.9876+00:00
 -- url     : https://prove2.me/theorems/f61ffd1b-ca36-4665-b07a-f82227f0f718

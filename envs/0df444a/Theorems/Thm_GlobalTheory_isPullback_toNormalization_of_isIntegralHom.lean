@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPullback_toNormalization_of_isIntegralHom
 -- name    : GlobalTheory.isPullback_toNormalization_of_isIntegralHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:59:37.579281+00:00
 -- url     : https://prove2.me/theorems/aeb987fc-c213-40e2-8e03-c03bacd582f7

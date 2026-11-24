@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_example_params_large
 -- name    : Formalism.CohomologicalDescent.WorkedExample.example_params_large
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:01:40.478881+00:00
 -- url     : https://prove2.me/theorems/735f5422-366d-4da7-aa7d-28dfa351d6ef

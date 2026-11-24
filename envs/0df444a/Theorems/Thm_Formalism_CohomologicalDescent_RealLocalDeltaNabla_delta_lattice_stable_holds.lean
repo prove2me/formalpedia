@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_delta_lattice_stable_holds
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.delta_lattice_stable_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:07:47.873812+00:00
 -- url     : https://prove2.me/theorems/48ce0cdc-260f-4be3-820b-e1fac31a6aa2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_setOf_index_eq
 -- name    : GlobalTheory.finite_setOf_index_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:51:21.424161+00:00
 -- url     : https://prove2.me/theorems/b9a457e0-8ddd-4c10-b83a-d1f87cec5ab4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lintegral_norm_pow_mul_le_sqrt_weighted_sq
 -- name    : GlobalTheory.lintegral_norm_pow_mul_le_sqrt_weighted_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:07:21.571172+00:00
 -- url     : https://prove2.me/theorems/8adeebc0-9316-40f8-9c0c-123f41354713

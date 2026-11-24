@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_linearEquiv_of_uniformisations
 -- name    : GlobalTheory.existsUnique_linearEquiv_of_uniformisations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:29:13.326129+00:00
 -- url     : https://prove2.me/theorems/4281704c-c529-4332-8179-0da057cdab91

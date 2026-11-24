@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cauchyBinet_columnFrame_prodDetPow_eq_sum
 -- name    : GlobalTheory.T.cauchyBinet_columnFrame_prodDetPow_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:29:59.276988+00:00
 -- url     : https://prove2.me/theorems/11e76beb-6620-4d73-aa96-ca6119567427

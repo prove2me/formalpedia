@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_char_eq_one_of_inverse_reduction_det_one
 -- name    : GlobalTheory.char_eq_one_of_inverse_reduction_det_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:07:50.346619+00:00
 -- url     : https://prove2.me/theorems/28bbe666-a2ec-4ea5-8568-82fe0d487f36

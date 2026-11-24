@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_exists_mem_nsp_eq_of_rank_le
 -- name    : GlobalTheory.RankChart.exists_mem_nsp_eq_of_rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:57:30.157803+00:00
 -- url     : https://prove2.me/theorems/401668dd-781a-4e3a-a7b5-6fca0a946fb3

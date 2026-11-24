@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSBVec_sb_irreducible_vec
 -- name    : GlobalTheory.IrredSBVec.sb_irreducible_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:21:34.618825+00:00
 -- url     : https://prove2.me/theorems/035ebccf-5d08-4aac-93f4-5fe4caf06aaa

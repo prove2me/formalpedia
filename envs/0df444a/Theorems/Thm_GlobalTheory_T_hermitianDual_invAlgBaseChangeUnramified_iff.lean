@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianDual_invAlgBaseChangeUnramified_iff
 -- name    : GlobalTheory.T.hermitianDual_invAlgBaseChangeUnramified_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:46:08.362839+00:00
 -- url     : https://prove2.me/theorems/c9d44f7a-f546-4bd0-919e-f0e526803e9b

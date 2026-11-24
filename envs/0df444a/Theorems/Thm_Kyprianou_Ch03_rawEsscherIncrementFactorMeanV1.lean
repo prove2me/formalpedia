@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_rawEsscherIncrementFactorMeanV1
 -- name    : Kyprianou.Ch03.rawEsscherIncrementFactorMeanV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:00:32.356334+00:00
 -- url     : https://prove2.me/theorems/851a4a9f-42ec-4ec7-ae3d-a3fb3cd8612d

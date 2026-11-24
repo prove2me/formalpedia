@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weierstrass_division_value_q_expansion
 -- name    : GlobalTheory.T.weierstrass_division_value_q_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:06:06.429828+00:00
 -- url     : https://prove2.me/theorems/301fd6e1-2737-47f9-8de8-22d0eab02858

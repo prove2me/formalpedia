@@ -23,7 +23,7 @@
 --
 --   **Formalization Note** The register is laid out as `Fin.append (Fin.append (Fin.append zp s) hb) (regBasis n b Vb W x v)`; the size $W$ of the scratch block may depend on $(\ell,f)$.
 -- source:
---   Krivcenko, Nguyen, de Wolf, Fast Quantum Algorithms for Learning Linear Threshold Functions, arXiv:2609.40331, proof of Theorem 3.4, pp. 32–34 (PDF pp. 33–35): the height oracle O_H for Theorem 3.3 (p. 27), implemented by the local bisection of Theorem 3.2 (pp. 24–26).
+--   Krivcenko, Nguyen, de Wolf, Fast Quantum Algorithms for Learning Linear Threshold Functions, arXiv:2609.40331, proof of Theorem 3.4, pp. 32–34 (PDF pp. 33–35): the height oracle O_H required by Theorem 3.3 (p. 27, PDF p. 28), implemented by the local bisection of Theorem 3.2 (p. 23, PDF p. 24).
 
 import Mathlib
 import Definitions.Def_QAlgorithms_Defs_Circuit

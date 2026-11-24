@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_exists_sub_mem_trace_orthogonal
 -- name    : GlobalTheory.matrix_exists_sub_mem_trace_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:09:53.659702+00:00
 -- url     : https://prove2.me/theorems/dace2c6e-0000-4966-b3a5-d3c97d3c7c68

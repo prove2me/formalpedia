@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_gamma_laws_hold
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.gamma_laws_hold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:53:39.731959+00:00
 -- url     : https://prove2.me/theorems/cbabbd32-3bbb-427a-b3e4-f069423f2891

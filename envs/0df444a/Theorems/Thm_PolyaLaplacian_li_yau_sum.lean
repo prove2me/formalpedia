@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyaLaplacian_li_yau_sum
 -- name    : PolyaLaplacian.li_yau_sum
--- status  : Open
+-- status  : Disproved
 -- author  : @LG
 -- created : 2026-11-18T13:51:34.963773+00:00
 -- url     : https://prove2.me/theorems/685d3ade-b8fe-4515-abb0-336f44f658d8

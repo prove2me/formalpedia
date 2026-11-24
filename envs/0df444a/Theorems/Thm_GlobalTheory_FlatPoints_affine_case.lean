@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatPoints_affine_case
 -- name    : GlobalTheory.FlatPoints.affine_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:32:39.177967+00:00
 -- url     : https://prove2.me/theorems/96333ae3-f3fb-4b2d-a059-c70d6bff2b89

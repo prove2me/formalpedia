@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSemisimpleRepresentation_of_continuous_coeff
 -- name    : GlobalTheory.isSemisimpleRepresentation_of_continuous_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:28.222432+00:00
 -- url     : https://prove2.me/theorems/c7ab68cb-bd53-4fc3-be27-f8f84855bc62

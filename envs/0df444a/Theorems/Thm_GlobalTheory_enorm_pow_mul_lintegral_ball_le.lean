@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_enorm_pow_mul_lintegral_ball_le
 -- name    : GlobalTheory.enorm_pow_mul_lintegral_ball_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:33.764918+00:00
 -- url     : https://prove2.me/theorems/a4e4e33a-ad8b-46f4-81ce-d00a8c90fe47

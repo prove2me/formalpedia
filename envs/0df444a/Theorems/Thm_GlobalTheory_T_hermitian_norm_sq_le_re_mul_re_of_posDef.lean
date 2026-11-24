@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_norm_sq_le_re_mul_re_of_posDef
 -- name    : GlobalTheory.T.hermitian_norm_sq_le_re_mul_re_of_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:33.041659+00:00
 -- url     : https://prove2.me/theorems/74cef648-fa77-47f3-ae94-c08b9c5c61c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_canonicalDensityProjectiveProductV1
 -- name    : Kyprianou.Ch03.canonicalDensityProjectiveProductV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:01:11.651286+00:00
 -- url     : https://prove2.me/theorems/48626cf7-7c34-405d-ae37-3b7f16bd8854

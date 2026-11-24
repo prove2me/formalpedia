@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearIndependent_tmul_D_of_regular_system
 -- name    : GlobalTheory.linearIndependent_tmul_D_of_regular_system
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:28.910856+00:00
 -- url     : https://prove2.me/theorems/381ce38b-ccd9-4003-8d97-fcce2f2bbb7c

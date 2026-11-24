@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntPair_sameRed_equivalence
 -- name    : GlobalTheory.IntPair.sameRed_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:06:52.228881+00:00
 -- url     : https://prove2.me/theorems/eebf5eb9-97a8-48cf-a536-9b07f65dc79a

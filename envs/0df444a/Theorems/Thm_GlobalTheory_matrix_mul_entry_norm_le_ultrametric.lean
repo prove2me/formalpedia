@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_mul_entry_norm_le_ultrametric
 -- name    : GlobalTheory.matrix_mul_entry_norm_le_ultrametric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:09:47.980821+00:00
 -- url     : https://prove2.me/theorems/b5bdf118-e8b7-4870-85f5-fb50ca44d343

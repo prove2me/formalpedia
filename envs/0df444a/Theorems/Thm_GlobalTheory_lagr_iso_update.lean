@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lagr_iso_update
 -- name    : GlobalTheory.lagr_iso_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:34.233625+00:00
 -- url     : https://prove2.me/theorems/b7aed276-50e1-42aa-8c14-aabb11b9b2f0

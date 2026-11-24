@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cauchyRiemann_iff_differentiableOn_complex
 -- name    : GlobalTheory.cauchyRiemann_iff_differentiableOn_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:56.231953+00:00
 -- url     : https://prove2.me/theorems/a0db33da-9cbf-4f17-bf78-77fd67a309f8

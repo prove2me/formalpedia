@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_cGL_rat
 -- name    : GlobalTheory.CompanionTheory.Plucker.cGL_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:23.634043+00:00
 -- url     : https://prove2.me/theorems/9041bd77-f6c5-4777-a6e8-6a5856453a89

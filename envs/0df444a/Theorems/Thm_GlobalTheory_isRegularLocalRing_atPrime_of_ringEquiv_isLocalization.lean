@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isRegularLocalRing_atPrime_of_ringEquiv_isLocalization
 -- name    : GlobalTheory.isRegularLocalRing_atPrime_of_ringEquiv_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:01:43.734254+00:00
 -- url     : https://prove2.me/theorems/de928b30-8c83-4902-a5ca-c55bdb5cffb8

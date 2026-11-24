@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLocalization_rat_tensor
 -- name    : GlobalTheory.isLocalization_rat_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:58:38.850794+00:00
 -- url     : https://prove2.me/theorems/87b52d5c-ec15-45a2-88ff-3f4c6c9b60e4

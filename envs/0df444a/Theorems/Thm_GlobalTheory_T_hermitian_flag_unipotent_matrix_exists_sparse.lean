@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_flag_unipotent_matrix_exists_sparse
 -- name    : GlobalTheory.T.hermitian_flag_unipotent_matrix_exists_sparse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:45:07.34269+00:00
 -- url     : https://prove2.me/theorems/a8ba55fb-ea47-4e60-903b-40bb1079f88b

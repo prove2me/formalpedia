@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowTriangular_dEnd_comb
 -- name    : GlobalTheory.RowTriangular.dEnd_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:41.546516+00:00
 -- url     : https://prove2.me/theorems/39eca4f6-7011-4a69-bc4d-97708aee517e

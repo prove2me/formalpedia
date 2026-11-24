@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasTriangularWeight_of_continuous
 -- name    : GlobalTheory.HasTriangularWeight.of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:01:34.919049+00:00
 -- url     : https://prove2.me/theorems/620c3d47-06cd-4041-a29d-eba79e4efd98

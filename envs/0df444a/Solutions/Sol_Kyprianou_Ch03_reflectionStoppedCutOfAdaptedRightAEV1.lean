@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.reflectionStoppedCutOfAdaptedRightAEV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T22:01:22.960971+00:00
 -- url     : https://prove2.me/submissions/008337ff-73c9-4a9a-a824-d9f35420283f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

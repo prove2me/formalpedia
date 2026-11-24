@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_liftsToDetOne_of_isUnit_corner
 -- name    : GlobalTheory.liftsToDetOne_of_isUnit_corner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:18.245589+00:00
 -- url     : https://prove2.me/theorems/ca0b400d-3606-407c-ba89-2a5a71b49648

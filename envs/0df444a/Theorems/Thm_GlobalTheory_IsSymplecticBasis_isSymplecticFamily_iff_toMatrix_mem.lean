@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasis_isSymplecticFamily_iff_toMatrix_mem
 -- name    : GlobalTheory.IsSymplecticBasis.isSymplecticFamily_iff_toMatrix_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:11:57.301985+00:00
 -- url     : https://prove2.me/theorems/307bb741-814c-4368-bc8f-340173df6f0d

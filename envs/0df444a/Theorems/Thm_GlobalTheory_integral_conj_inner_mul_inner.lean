@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integral_conj_inner_mul_inner
 -- name    : GlobalTheory.integral_conj_inner_mul_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:55:48.390902+00:00
 -- url     : https://prove2.me/theorems/ebee2376-5f10-4182-97f9-fd30ee059de0

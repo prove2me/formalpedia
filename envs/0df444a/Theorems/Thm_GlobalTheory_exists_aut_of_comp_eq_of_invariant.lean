@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_aut_of_comp_eq_of_invariant
 -- name    : GlobalTheory.exists_aut_of_comp_eq_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:30:33.093929+00:00
 -- url     : https://prove2.me/theorems/053fcf27-3e5f-4c13-ad65-6687f34a4e6e

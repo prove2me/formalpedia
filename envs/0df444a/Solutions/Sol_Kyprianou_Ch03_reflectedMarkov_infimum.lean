@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.reflectedMarkov_infimum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T18:47:31.739626+00:00
 -- url     : https://prove2.me/submissions/c5b5c1ef-53ff-44d9-9dc4-6bed96f7546d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch03_reflectedSignedRestartAEV1

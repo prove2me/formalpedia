@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeForm_add_left
 -- name    : GlobalTheory.latticeForm_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:02:17.454931+00:00
 -- url     : https://prove2.me/theorems/ec5e0792-c8d1-4cc9-9a7d-d09c123744c0

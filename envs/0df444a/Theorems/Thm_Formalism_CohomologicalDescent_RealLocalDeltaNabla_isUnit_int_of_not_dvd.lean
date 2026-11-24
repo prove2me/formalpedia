@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_isUnit_int_of_not_dvd
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.isUnit_int_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:08:55.022688+00:00
 -- url     : https://prove2.me/theorems/ac278407-a5db-4009-98be-aed838869e56

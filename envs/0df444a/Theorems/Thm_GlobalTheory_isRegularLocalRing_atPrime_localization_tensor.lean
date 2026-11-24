@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isRegularLocalRing_atPrime_localization_tensor
 -- name    : GlobalTheory.isRegularLocalRing_atPrime_localization_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:01:26.626419+00:00
 -- url     : https://prove2.me/theorems/7252513f-766b-4c29-8dbb-3f81e502cd04

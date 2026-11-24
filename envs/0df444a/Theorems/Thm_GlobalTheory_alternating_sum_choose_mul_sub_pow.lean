@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_alternating_sum_choose_mul_sub_pow
 -- name    : GlobalTheory.alternating_sum_choose_mul_sub_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:21.925307+00:00
 -- url     : https://prove2.me/theorems/436de31b-6cc2-4062-89d5-e24ac431b562

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_qiso_transport
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.qiso_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:25.440891+00:00
 -- url     : https://prove2.me/theorems/17159d7e-c5a6-450d-b2fd-d6034144299f

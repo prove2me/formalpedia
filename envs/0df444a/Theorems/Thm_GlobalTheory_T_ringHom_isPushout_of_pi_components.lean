@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ringHom_isPushout_of_pi_components
 -- name    : GlobalTheory.T.ringHom_isPushout_of_pi_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:56:33.918843+00:00
 -- url     : https://prove2.me/theorems/e2df3674-5510-49c2-942d-60f15168edba

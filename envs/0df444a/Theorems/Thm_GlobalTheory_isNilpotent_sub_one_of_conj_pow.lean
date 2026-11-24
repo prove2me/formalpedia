@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isNilpotent_sub_one_of_conj_pow
 -- name    : GlobalTheory.isNilpotent_sub_one_of_conj_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:02:08.894957+00:00
 -- url     : https://prove2.me/theorems/c2817d5c-c49f-4f7a-a810-738bac474745

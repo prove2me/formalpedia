@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nabValN_bilinear
 -- name    : GlobalTheory.nabValN_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:19:43.985276+00:00
 -- url     : https://prove2.me/theorems/35cda7bc-11b2-4cc0-a3b1-1a476efe6f7b

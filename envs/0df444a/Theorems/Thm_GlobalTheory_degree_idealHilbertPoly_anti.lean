@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_degree_idealHilbertPoly_anti
 -- name    : GlobalTheory.degree_idealHilbertPoly_anti
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:11:27.625341+00:00
 -- url     : https://prove2.me/theorems/67fafce2-3437-4724-8081-4bbae6837b41

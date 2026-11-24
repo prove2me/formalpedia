@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_der_prod
 -- name    : GlobalTheory.KaScale.der_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:04.238371+00:00
 -- url     : https://prove2.me/theorems/7733f77f-d5f4-4b86-b19c-dfc7c5e64a5a

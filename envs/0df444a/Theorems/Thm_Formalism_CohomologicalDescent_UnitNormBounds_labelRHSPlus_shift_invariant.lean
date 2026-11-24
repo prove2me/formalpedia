@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_labelRHSPlus_shift_invariant
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.labelRHSPlus_shift_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:01:15.727733+00:00
 -- url     : https://prove2.me/theorems/bfb636b5-b84e-4a6f-b5fd-f33f4a5f431b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_dvr_generic_fibre
 -- name    : GlobalTheory.flat_dvr_generic_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:52:00.244722+00:00
 -- url     : https://prove2.me/theorems/a3311fcb-b59c-40e2-a24c-1d9ea9bfc9fc

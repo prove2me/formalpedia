@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_identity_transfer
 -- name    : GlobalTheory.matrix_identity_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:09:20.372027+00:00
 -- url     : https://prove2.me/theorems/9c3fdf22-4164-43af-a8c8-3dab22b30e04

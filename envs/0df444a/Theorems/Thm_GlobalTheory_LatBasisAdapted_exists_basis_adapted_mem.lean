@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatBasisAdapted_exists_basis_adapted_mem
 -- name    : GlobalTheory.LatBasisAdapted.exists_basis_adapted_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:57:44.052216+00:00
 -- url     : https://prove2.me/theorems/2ba72c6e-1194-40cd-96a0-3f92276ec6ee

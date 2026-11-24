@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rank_chart_bounded_coefficients
 -- name    : GlobalTheory.T.rank_chart_bounded_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:48:02.509868+00:00
 -- url     : https://prove2.me/theorems/dbc7c4f4-1b91-4233-a965-ef35a027c63a

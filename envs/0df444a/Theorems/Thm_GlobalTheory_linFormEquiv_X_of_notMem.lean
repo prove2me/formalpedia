@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linFormEquiv_X_of_notMem
 -- name    : GlobalTheory.linFormEquiv_X_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:07:16.686125+00:00
 -- url     : https://prove2.me/theorems/95cfc3ea-8dc6-4138-a267-16a6a4a4677d

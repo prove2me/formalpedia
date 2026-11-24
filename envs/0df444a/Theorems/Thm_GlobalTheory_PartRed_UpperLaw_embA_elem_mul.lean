@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_UpperLaw_embA_elem_mul
 -- name    : GlobalTheory.PartRed.UpperLaw.embA_elem_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:53:44.206814+00:00
 -- url     : https://prove2.me/theorems/a4d55f7e-350c-4db0-867b-12ff284599eb

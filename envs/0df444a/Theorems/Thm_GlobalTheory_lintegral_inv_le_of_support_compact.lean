@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lintegral_inv_le_of_support_compact
 -- name    : GlobalTheory.lintegral_inv_le_of_support_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:07:14.752193+00:00
 -- url     : https://prove2.me/theorems/edf637fc-f1f4-405b-98de-388a12a10b0b

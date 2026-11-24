@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_correction_congruent_one_at_level
 -- name    : GlobalTheory.T.exists_unitary_correction_congruent_one_at_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:59.704809+00:00
 -- url     : https://prove2.me/theorems/8b129623-a9dc-4019-b1d1-d7b2c98ad134

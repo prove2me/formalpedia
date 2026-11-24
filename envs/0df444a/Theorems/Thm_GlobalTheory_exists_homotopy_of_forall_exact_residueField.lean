@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_homotopy_of_forall_exact_residueField
 -- name    : GlobalTheory.exists_homotopy_of_forall_exact_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:43:00.080786+00:00
 -- url     : https://prove2.me/theorems/dd7be230-a8d9-4d6d-a9ac-d8c25b46d84c

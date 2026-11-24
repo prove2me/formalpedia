@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasis_exists_basis_of_toMatrix_mem
 -- name    : GlobalTheory.IsSymplecticBasis.exists_basis_of_toMatrix_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:12:22.857223+00:00
 -- url     : https://prove2.me/theorems/6a5765ac-3098-4005-9703-6cde0033d0de

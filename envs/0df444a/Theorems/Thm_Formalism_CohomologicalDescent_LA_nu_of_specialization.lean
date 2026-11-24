@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_nu_of_specialization
 -- name    : Formalism.CohomologicalDescent.LA.nu_of_specialization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:50:00.765108+00:00
 -- url     : https://prove2.me/theorems/7d312785-8fea-455c-8dd1-1a34a3a10738

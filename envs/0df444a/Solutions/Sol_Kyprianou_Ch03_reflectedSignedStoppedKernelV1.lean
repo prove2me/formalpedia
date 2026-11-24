@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.reflectedSignedStoppedKernelV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T19:02:29.950799+00:00
 -- url     : https://prove2.me/submissions/e9f695b2-7bef-4776-8f41-782bea27fa8b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch03_reflectionStoppedStateCutsMeasurableV1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_hasSubst_gammaSeries
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.hasSubst_gammaSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:52:54.99732+00:00
 -- url     : https://prove2.me/theorems/b4068211-b84a-4a36-b658-153bd95ab016

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finsum_doubleCoset_regroup_commutative
 -- name    : GlobalTheory.T.finsum_doubleCoset_regroup_commutative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:40:01.106958+00:00
 -- url     : https://prove2.me/theorems/80a1a7aa-7058-4bb2-9e3d-787eef63d2e2

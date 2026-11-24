@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_lastGradedImpliesLast
 -- name    : Formalism.CohomologicalDescent.LD.lastGradedImpliesLast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:00:45.225485+00:00
 -- url     : https://prove2.me/theorems/d325cd13-8e88-4525-bbd6-60ddd67875b1

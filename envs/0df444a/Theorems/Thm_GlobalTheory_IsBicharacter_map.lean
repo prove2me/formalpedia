@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsBicharacter_map
 -- name    : GlobalTheory.IsBicharacter.map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:37.983103+00:00
 -- url     : https://prove2.me/theorems/46488206-4b00-4fce-833e-3f9975b64a43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoLimit_main
 -- name    : GlobalTheory.IsoLimit.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:59:15.052787+00:00
 -- url     : https://prove2.me/theorems/04914fe9-1023-44cd-ab80-b348e29b3baa

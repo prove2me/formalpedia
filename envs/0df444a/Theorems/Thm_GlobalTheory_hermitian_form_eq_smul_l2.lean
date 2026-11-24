@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hermitian_form_eq_smul_l2
 -- name    : GlobalTheory.hermitian_form_eq_smul_l2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:54:59.829808+00:00
 -- url     : https://prove2.me/theorems/539a9f63-5435-4ff9-9a38-735982058b18

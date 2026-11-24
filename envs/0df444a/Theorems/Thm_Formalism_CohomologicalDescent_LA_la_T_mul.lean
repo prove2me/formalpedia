@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_T_mul
 -- name    : Formalism.CohomologicalDescent.LA.la_T_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:49:33.184683+00:00
 -- url     : https://prove2.me/theorems/0a8f3091-4d53-4fae-86be-781f01e46242

@@ -81575,7 +81575,7 @@
 {"parent": "FourMsgQMA.Supplement.theorem_5_1", "child": "FourMsgQMA_Supplement_CircuitPolicyArg", "via": ["statement"]}
 {"parent": "FourMsgQMA.Supplement.theorem_5_1", "child": "FourMsgQMA_Supplement_GuaranteedExtraction", "via": ["statement"]}
 {"parent": "FourMsgQMA.Supplement.theorem_5_1", "child": "FourMsgQMA_Arg4_SelectivelySound", "via": ["statement"]}
-{"parent": "PolyaLaplacian.polya_tiling", "child": "PolyaLaplacian_Spectral", "via": ["statement"]}
+{"parent": "PolyaLaplacian.polya_tiling", "child": "PolyaLaplacian_Spectral", "via": ["solution", "statement"]}
 {"parent": "MultiThinkCoT.Supplement.theorem_9", "child": "MultiThinkCoT_Supplement_recoveryProb", "via": ["statement"]}
 {"parent": "QDSGibbs.Supplement.theorem_7_3", "child": "QDSGibbs_Supplement_fermiInfluence", "via": ["statement"]}
 {"parent": "QDSGibbs.Supplement.theorem_7_3", "child": "QDSGibbs_Supplement_fermiBlockChannel", "via": ["statement"]}
@@ -84387,8 +84387,8 @@
 {"parent": "APFPaper5.K1.FreePair.not_counted", "child": "APFPaper5_K1_twins_same_records_Vocabulary", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.FreePair.not_counted", "child": "APFPaper5.K1.ledger_counted_family_party_score_satisfies_K1_explicit", "via": ["solution", "statement"]}
 {"parent": "ResultantVNP_Supplement_CFCircuit", "child": "ApproxPolySatCH_Main_Inputs", "via": ["statement"]}
-{"parent": "SymplecticBallPacking.hamiltonianFlow_symplectic", "child": "SymplecticBallPacking", "via": ["statement"]}
-{"parent": "SymplecticBallPacking.hamiltonianFlow_symplectic", "child": "BallPacking", "via": ["statement"]}
+{"parent": "SymplecticBallPacking.hamiltonianFlow_symplectic", "child": "SymplecticBallPacking", "via": ["solution", "statement"]}
+{"parent": "SymplecticBallPacking.hamiltonianFlow_symplectic", "child": "BallPacking", "via": ["solution", "statement"]}
 {"parent": "RankingCertGap.Supplement.theorem_4", "child": "RankingCertGap_PowerFilter", "via": ["statement"]}
 {"parent": "RankingCertGap.Supplement.theorem_4", "child": "RankingCertGap_Supplement_Objects", "via": ["statement"]}
 {"parent": "Kyprianou.Ch06.zeroACountIndependentOfOverlapThreeAtomCounts", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}

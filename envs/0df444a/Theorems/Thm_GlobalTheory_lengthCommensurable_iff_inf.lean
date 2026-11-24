@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lengthCommensurable_iff_inf
 -- name    : GlobalTheory.lengthCommensurable_iff_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:17.208736+00:00
 -- url     : https://prove2.me/theorems/586e1aec-f121-490c-b5b4-b85816649fa0

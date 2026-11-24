@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integral_conj_entry_mul_entry
 -- name    : GlobalTheory.integral_conj_entry_mul_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:55:50.978776+00:00
 -- url     : https://prove2.me/theorems/162cb569-78c7-4dcb-963f-f40852a7d306

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_deltaIn_map_holds
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.deltaIn_map_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:02.231697+00:00
 -- url     : https://prove2.me/theorems/5c5d0999-841b-4aa9-ae52-ea20d583d977

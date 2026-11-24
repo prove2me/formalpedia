@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lagrRankOne_adm
 -- name    : GlobalTheory.lagrRankOne_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:31.855424+00:00
 -- url     : https://prove2.me/theorems/afa87159-2858-4567-a8f0-f6b94821a6dc

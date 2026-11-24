@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_exponent_sum_le_holds
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.exponent_sum_le_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:00.790386+00:00
 -- url     : https://prove2.me/theorems/2c333fa8-d20b-4c77-a622-30fcdfaa75b9

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.reflectedMarkov_supremum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T18:46:39.835804+00:00
 -- url     : https://prove2.me/submissions/fc06901a-4b48-4261-abdb-0e511da8bdd0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch03_reflectedSignedRestartAEV1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_localizationAway_inv_coordinate
 -- name    : GlobalTheory.localizationAway_inv_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:57.788785+00:00
 -- url     : https://prove2.me/theorems/3e3b4576-5e22-4c9b-9c71-aba00dbfa289

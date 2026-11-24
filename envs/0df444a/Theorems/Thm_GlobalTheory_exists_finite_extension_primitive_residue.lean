@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_extension_primitive_residue
 -- name    : GlobalTheory.exists_finite_extension_primitive_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:32:17.9902+00:00
 -- url     : https://prove2.me/theorems/a63b48f6-f2f9-4aea-85cf-74bcf9d667f2

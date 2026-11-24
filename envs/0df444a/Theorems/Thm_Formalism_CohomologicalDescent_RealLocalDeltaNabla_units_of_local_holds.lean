@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_units_of_local_holds
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.units_of_local_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:09:33.517961+00:00
 -- url     : https://prove2.me/theorems/7dd06e7d-2a95-42f6-a91a-279fdbe97439

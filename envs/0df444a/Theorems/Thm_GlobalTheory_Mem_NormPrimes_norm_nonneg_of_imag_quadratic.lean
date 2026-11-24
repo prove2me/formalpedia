@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_NormPrimes_norm_nonneg_of_imag_quadratic
 -- name    : GlobalTheory.Mem.NormPrimes.norm_nonneg_of_imag_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:03:14.647374+00:00
 -- url     : https://prove2.me/theorems/3845f21c-ec45-4ea1-b996-7aef40f6cf10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_image_of_trivial_on_inf_finiteIndex
 -- name    : GlobalTheory.T.finite_image_of_trivial_on_inf_finiteIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:39:14.426465+00:00
 -- url     : https://prove2.me/theorems/2fa9be9a-7256-4c3b-9eae-87194de6d0cd

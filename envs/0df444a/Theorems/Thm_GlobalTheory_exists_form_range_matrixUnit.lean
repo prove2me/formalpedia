@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_form_range_matrixUnit
 -- name    : GlobalTheory.exists_form_range_matrixUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:32:43.670241+00:00
 -- url     : https://prove2.me/theorems/9de7f4d0-e8fa-4f96-a82c-5c108095d57a

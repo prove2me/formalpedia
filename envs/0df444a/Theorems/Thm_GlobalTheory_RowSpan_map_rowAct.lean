@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_map_rowAct
 -- name    : GlobalTheory.RowSpan.map_rowAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:52.371902+00:00
 -- url     : https://prove2.me/theorems/7338060b-f1bc-427c-b6df-14de375862dd

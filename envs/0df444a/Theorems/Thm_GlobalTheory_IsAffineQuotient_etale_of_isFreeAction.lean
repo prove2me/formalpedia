@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_etale_of_isFreeAction
 -- name    : GlobalTheory.IsAffineQuotient.etale_of_isFreeAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:27:16.810803+00:00
 -- url     : https://prove2.me/theorems/b5d78633-a82c-49b6-95cb-dbebb6143a57

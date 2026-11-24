@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mFourier_coe_eq_exp
 -- name    : GlobalTheory.mFourier_coe_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:23.871652+00:00
 -- url     : https://prove2.me/theorems/4028df9d-abe4-4c86-b58f-5d23d2d7db0a

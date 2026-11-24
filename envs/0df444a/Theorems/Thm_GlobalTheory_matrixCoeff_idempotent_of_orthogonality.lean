@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrixCoeff_idempotent_of_orthogonality
 -- name    : GlobalTheory.matrixCoeff_idempotent_of_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:09:56.859067+00:00
 -- url     : https://prove2.me/theorems/fd519d80-3e67-4242-9154-6ed001720954

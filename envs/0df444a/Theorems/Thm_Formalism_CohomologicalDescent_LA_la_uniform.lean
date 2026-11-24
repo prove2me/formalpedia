@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_uniform
 -- name    : Formalism.CohomologicalDescent.LA.la_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:49:50.468284+00:00
 -- url     : https://prove2.me/theorems/6db2a572-34a7-4571-8ed6-712cae1c5e49

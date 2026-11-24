@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_idealHilbertPoly_sup_of_isPrime
 -- name    : GlobalTheory.idealHilbertPoly_sup_of_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:11:55.932831+00:00
 -- url     : https://prove2.me/theorems/29caeaa3-9b97-452d-984c-271a5b32ec3d

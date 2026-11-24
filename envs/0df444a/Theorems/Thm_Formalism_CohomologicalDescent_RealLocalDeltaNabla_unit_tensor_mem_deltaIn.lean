@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_unit_tensor_mem_deltaIn
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.unit_tensor_mem_deltaIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:08:36.594501+00:00
 -- url     : https://prove2.me/theorems/4a1cee21-3232-4b73-b74c-ad47204ede29

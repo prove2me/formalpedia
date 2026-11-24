@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_res_colHom
 -- name    : Formalism.CohomologicalDescent.LR.res_colHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:50:50.579752+00:00
 -- url     : https://prove2.me/theorems/4eae8aeb-8ee2-4871-ad2b-1eb8b018da50

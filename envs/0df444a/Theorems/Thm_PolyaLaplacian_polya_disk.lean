@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyaLaplacian_polya_disk
 -- name    : PolyaLaplacian.polya_disk
--- status  : Open
+-- status  : Disproved
 -- author  : @LG
 -- created : 2026-11-18T13:52:01.045604+00:00
 -- url     : https://prove2.me/theorems/f2bdd762-b432-4e66-9e81-9bdbdb3050ea

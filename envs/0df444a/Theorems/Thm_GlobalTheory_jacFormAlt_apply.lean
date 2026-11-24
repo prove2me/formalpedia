@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jacFormAlt_apply
 -- name    : GlobalTheory.jacFormAlt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:02:17.328913+00:00
 -- url     : https://prove2.me/theorems/7d62b497-15e9-4d54-b2cf-436722c36699

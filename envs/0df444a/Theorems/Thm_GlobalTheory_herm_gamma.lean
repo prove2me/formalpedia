@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_herm_gamma
 -- name    : GlobalTheory.herm_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:54:59.788096+00:00
 -- url     : https://prove2.me/theorems/1177c91a-c89a-4468-bdfa-ebe7b6a39ad3

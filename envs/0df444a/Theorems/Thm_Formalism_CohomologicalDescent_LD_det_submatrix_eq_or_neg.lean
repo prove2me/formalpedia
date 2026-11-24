@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_det_submatrix_eq_or_neg
 -- name    : Formalism.CohomologicalDescent.LD.det_submatrix_eq_or_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:06:08.452639+00:00
 -- url     : https://prove2.me/theorems/dd13b482-c6ca-426a-8b80-981cffac4a04

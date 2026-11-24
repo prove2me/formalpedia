@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_killedBy_anti
 -- name    : GlobalTheory.killedBy_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:02:33.730281+00:00
 -- url     : https://prove2.me/theorems/3288a099-90a6-4f41-8b6a-d5333c1a7b14

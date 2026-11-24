@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_divided_power_succ_det_mul
 -- name    : Formalism.CohomologicalDescent.LA.divided_power_succ_det_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:58:31.955338+00:00
 -- url     : https://prove2.me/theorems/f7a54599-8c98-490b-929f-e38af8444991

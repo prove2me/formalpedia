@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearMap_rat_valued_eq_trace
 -- name    : GlobalTheory.linearMap_rat_valued_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:07:17.319675+00:00
 -- url     : https://prove2.me/theorems/e943c23c-9f08-4fce-88d7-cf6795c6118a

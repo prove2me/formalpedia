@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_rawEsscherPastLIntegralFactorV1
 -- name    : Kyprianou.Ch03.rawEsscherPastLIntegralFactorV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:00:25.216102+00:00
 -- url     : https://prove2.me/theorems/f87dcffc-ddfe-4e8a-ad64-50e7be6bf039

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_example_params_satisfy_hyp
 -- name    : Formalism.CohomologicalDescent.WorkedExample.example_params_satisfy_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:01:11.583398+00:00
 -- url     : https://prove2.me/theorems/1962cd4a-16cd-4945-b44a-5c23bb7501ae

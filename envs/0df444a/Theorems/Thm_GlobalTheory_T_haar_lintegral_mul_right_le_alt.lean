@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_lintegral_mul_right_le_alt
 -- name    : GlobalTheory.T.haar_lintegral_mul_right_le_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:41:48.019909+00:00
 -- url     : https://prove2.me/theorems/17bd80a9-33dd-4195-ba5b-bb902f68b1e4

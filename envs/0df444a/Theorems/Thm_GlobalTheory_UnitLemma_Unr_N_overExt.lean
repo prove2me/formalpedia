@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_N_overExt
 -- name    : GlobalTheory.UnitLemma.Unr.N_overExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:36:52.973374+00:00
 -- url     : https://prove2.me/theorems/a4427995-b544-49cd-bcd9-7a24ea400221

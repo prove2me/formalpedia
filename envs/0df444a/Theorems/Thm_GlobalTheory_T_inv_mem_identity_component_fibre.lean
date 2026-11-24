@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inv_mem_identity_component_fibre
 -- name    : GlobalTheory.T.inv_mem_identity_component_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:30.532569+00:00
 -- url     : https://prove2.me/theorems/63dae3f5-6f39-4310-94c9-afa38ccd66e6

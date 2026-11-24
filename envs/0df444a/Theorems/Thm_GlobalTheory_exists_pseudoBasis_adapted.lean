@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pseudoBasis_adapted
 -- name    : GlobalTheory.exists_pseudoBasis_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:38:58.580414+00:00
 -- url     : https://prove2.me/theorems/65fb8e4c-38df-4fa1-b8d6-f3de84e4496d

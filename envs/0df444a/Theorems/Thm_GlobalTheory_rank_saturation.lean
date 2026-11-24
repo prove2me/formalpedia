@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rank_saturation
 -- name    : GlobalTheory.rank_saturation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:32:40.771932+00:00
 -- url     : https://prove2.me/theorems/fca15852-b831-4438-9af2-1723b51dee42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_UpperLaw_ch_elem_mul
 -- name    : GlobalTheory.PartRed.UpperLaw.ch_elem_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:53:31.41206+00:00
 -- url     : https://prove2.me/theorems/23f53146-5d6c-45b7-b04e-1feacd787261

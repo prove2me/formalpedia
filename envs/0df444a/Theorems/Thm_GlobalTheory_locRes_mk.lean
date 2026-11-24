@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_locRes_mk
 -- name    : GlobalTheory.locRes_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:08:49.353825+00:00
 -- url     : https://prove2.me/theorems/7e62c20a-84c1-481c-9098-40f86efc8ab1

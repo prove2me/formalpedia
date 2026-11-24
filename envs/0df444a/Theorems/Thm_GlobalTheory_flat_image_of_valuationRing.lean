@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_image_of_valuationRing
 -- name    : GlobalTheory.flat_image_of_valuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:52:00.06796+00:00
 -- url     : https://prove2.me/theorems/c8c961a7-7e38-4fc0-b6ac-8555769a94bc

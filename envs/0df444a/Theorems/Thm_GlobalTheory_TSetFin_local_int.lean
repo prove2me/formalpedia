@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TSetFin_local_int
 -- name    : GlobalTheory.TSetFin.local_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:18.96789+00:00
 -- url     : https://prove2.me/theorems/eae8bc30-7d9f-449f-bf67-00ad7af2d5b8

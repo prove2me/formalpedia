@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_coeff_binLat
 -- name    : Formalism.CohomologicalDescent.LA.la_coeff_binLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:50:10.371837+00:00
 -- url     : https://prove2.me/theorems/c7a0d0d8-63ff-46e3-b2ec-1768ad6d96da

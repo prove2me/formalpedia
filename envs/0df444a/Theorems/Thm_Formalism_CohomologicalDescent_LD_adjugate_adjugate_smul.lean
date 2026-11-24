@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_adjugate_adjugate_smul
 -- name    : Formalism.CohomologicalDescent.LD.adjugate_adjugate_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:50.167806+00:00
 -- url     : https://prove2.me/theorems/ff449108-17a1-400e-b01e-b953b7e31deb

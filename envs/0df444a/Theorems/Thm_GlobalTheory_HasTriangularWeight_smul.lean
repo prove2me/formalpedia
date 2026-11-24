@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasTriangularWeight_smul
 -- name    : GlobalTheory.HasTriangularWeight.smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:27.432859+00:00
 -- url     : https://prove2.me/theorems/f4e0099c-457d-4461-ad35-a0e920301dcf

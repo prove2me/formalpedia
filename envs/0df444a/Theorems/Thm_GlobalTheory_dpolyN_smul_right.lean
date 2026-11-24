@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dpolyN_smul_right
 -- name    : GlobalTheory.dpolyN_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:16:42.28749+00:00
 -- url     : https://prove2.me/theorems/beb7ba59-03d7-4e18-98cf-f8ad457a6ffe

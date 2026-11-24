@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearIndependent_int_of_real
 -- name    : GlobalTheory.linearIndependent_int_of_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:02.990851+00:00
 -- url     : https://prove2.me/theorems/6bf4d8a4-6f31-47c1-84dd-51d4f7a59dde

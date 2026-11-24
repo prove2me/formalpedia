@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_theta_base_change_holds
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.theta_base_change_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:53:44.36182+00:00
 -- url     : https://prove2.me/theorems/1629ca23-3e1a-443e-9319-fae0cd2cd3a3

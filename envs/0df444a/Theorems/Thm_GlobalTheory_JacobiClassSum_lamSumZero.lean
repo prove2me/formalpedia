@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacobiClassSum_lamSumZero
 -- name    : GlobalTheory.JacobiClassSum.lamSumZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:54:35.120021+00:00
 -- url     : https://prove2.me/theorems/71d40cf6-aa80-471e-8569-b6214f9976c1

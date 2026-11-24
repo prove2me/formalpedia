@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_LowLaw_fill_row_zero
 -- name    : GlobalTheory.PartRed.LowLaw.fill_row_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:52:50.961804+00:00
 -- url     : https://prove2.me/theorems/2da5915c-cae7-4c2f-b85e-a68e42654a70

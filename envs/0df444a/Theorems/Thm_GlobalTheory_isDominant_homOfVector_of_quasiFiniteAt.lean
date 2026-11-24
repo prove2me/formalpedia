@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDominant_homOfVector_of_quasiFiniteAt
 -- name    : GlobalTheory.isDominant_homOfVector_of_quasiFiniteAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:57:42.550172+00:00
 -- url     : https://prove2.me/theorems/dd8342d6-e2d1-43d1-b63c-258ce806053d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lengthCommensurable_iff_sup
 -- name    : GlobalTheory.lengthCommensurable_iff_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:13.355164+00:00
 -- url     : https://prove2.me/theorems/14c5f7f1-5147-4544-9df3-3af79e4fa25a

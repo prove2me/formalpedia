@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_pow_eq_one_of_mem_redKer
 -- name    : GlobalTheory.SqZero.pow_eq_one_of_mem_redKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:56:33.222275+00:00
 -- url     : https://prove2.me/theorems/72f82212-72b5-49d0-8743-1aba233891d3

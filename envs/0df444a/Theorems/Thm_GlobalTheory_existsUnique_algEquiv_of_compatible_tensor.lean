@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_algEquiv_of_compatible_tensor
 -- name    : GlobalTheory.existsUnique_algEquiv_of_compatible_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:19.910888+00:00
 -- url     : https://prove2.me/theorems/59ea5303-0bef-4998-813a-f677e9cfa510

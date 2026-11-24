@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_setOf_submodule_between_smul_and_fg
 -- name    : GlobalTheory.T.finite_setOf_submodule_between_smul_and_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:45.049832+00:00
 -- url     : https://prove2.me/theorems/072178d7-acaa-42bb-b1a4-f1ea16c3bc5b

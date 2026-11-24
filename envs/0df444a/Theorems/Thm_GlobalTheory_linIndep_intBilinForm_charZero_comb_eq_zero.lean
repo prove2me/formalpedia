@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linIndep_intBilinForm_charZero_comb_eq_zero
 -- name    : GlobalTheory.linIndep_intBilinForm_charZero_comb_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:06:56.373298+00:00
 -- url     : https://prove2.me/theorems/141b1ac1-6c44-4c1e-ac44-181e064fe5cd

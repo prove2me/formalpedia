@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Weight_le_add_of_pairing
 -- name    : GlobalTheory.SS.Weight.le_add_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:36:18.724263+00:00
 -- url     : https://prove2.me/theorems/f7a2821c-7b80-4dcf-a85e-19bb42f5924a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDomain_and_isIntegrallyClosed_atPrime_of_etale
 -- name    : GlobalTheory.isDomain_and_isIntegrallyClosed_atPrime_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:34:43.956126+00:00
 -- url     : https://prove2.me/theorems/09fdc7e6-9023-4297-af7f-4dc15282ccc5

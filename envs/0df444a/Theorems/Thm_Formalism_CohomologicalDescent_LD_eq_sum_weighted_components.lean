@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_eq_sum_weighted_components
 -- name    : Formalism.CohomologicalDescent.LD.eq_sum_weighted_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:05:13.25877+00:00
 -- url     : https://prove2.me/theorems/9fa14db1-b96e-4acd-b9bf-4e1210b765d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_coeffNeg_of_leviStep
 -- name    : GlobalTheory.SatakeWeyl.coeffNeg_of_leviStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:47:44.997229+00:00
 -- url     : https://prove2.me/theorems/29365681-3fd9-4915-88f7-8bfd2747bde0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_laurent_degeneration
 -- name    : GlobalTheory.laurent_degeneration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:02:08.793194+00:00
 -- url     : https://prove2.me/theorems/bf52882f-d56b-40c8-94ff-e1339797442e

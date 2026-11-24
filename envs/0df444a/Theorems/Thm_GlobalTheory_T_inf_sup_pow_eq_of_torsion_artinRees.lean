@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inf_sup_pow_eq_of_torsion_artinRees
 -- name    : GlobalTheory.T.inf_sup_pow_eq_of_torsion_artinRees
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:48.000919+00:00
 -- url     : https://prove2.me/theorems/7edcccf5-5913-4ac8-86ef-e9057cdd767f

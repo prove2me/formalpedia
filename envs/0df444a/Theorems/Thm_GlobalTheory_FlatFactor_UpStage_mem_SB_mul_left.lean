@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_mem_SB_mul_left
 -- name    : GlobalTheory.FlatFactor.UpStage.mem_SB_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:03:59.864461+00:00
 -- url     : https://prove2.me/theorems/c8cd777a-8d31-46d1-b696-1b81326c23b2

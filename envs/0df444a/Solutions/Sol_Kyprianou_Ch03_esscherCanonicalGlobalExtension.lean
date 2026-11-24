@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.esscherCanonicalGlobalExtension
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T18:45:25.211808+00:00
 -- url     : https://prove2.me/submissions/10039e9e-aa61-43c6-b507-2aaa489a5246
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch03_canonicalConsistentDensityExtensionV1

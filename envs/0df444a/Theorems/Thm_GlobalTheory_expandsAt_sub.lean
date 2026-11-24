@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expandsAt_sub
 -- name    : GlobalTheory.expandsAt_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:38.563819+00:00
 -- url     : https://prove2.me/theorems/9a3baf6c-a0b4-4fa3-ba70-c117056dcb7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lineDerivList_map_smul
 -- name    : GlobalTheory.lineDerivList_map_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:06:54.793141+00:00
 -- url     : https://prove2.me/theorems/e5a2f8c8-b2da-464c-8312-725432020af3

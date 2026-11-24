@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hopf_order_formula_fibre
 -- name    : GlobalTheory.hopf_order_formula_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:54:47.950544+00:00
 -- url     : https://prove2.me/theorems/8823145f-f45e-49ba-8ca0-9126519a995f

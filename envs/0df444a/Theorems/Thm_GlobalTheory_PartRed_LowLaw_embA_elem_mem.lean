@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_LowLaw_embA_elem_mem
 -- name    : GlobalTheory.PartRed.LowLaw.embA_elem_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:53:59.841187+00:00
 -- url     : https://prove2.me/theorems/048e0796-96a9-4645-a765-7591ab2d2151

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_oneParamGroup_eq_exp
 -- name    : GlobalTheory.matrix_oneParamGroup_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:09:29.236788+00:00
 -- url     : https://prove2.me/theorems/e98d19ed-25e3-4aeb-bdf6-8384aa148a91

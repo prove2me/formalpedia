@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isUnit_of_unit_mul_comul_eq_tmul_self
 -- name    : GlobalTheory.isUnit_of_unit_mul_comul_eq_tmul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:01:05.754191+00:00
 -- url     : https://prove2.me/theorems/d8b0c4a2-55a4-4226-96a4-d6746ff547a4

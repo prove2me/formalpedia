@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gl2a2_integral_bound_of_sums
 -- name    : GlobalTheory.T.gl2a2_integral_bound_of_sums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:58:41.528795+00:00
 -- url     : https://prove2.me/theorems/4bc46c12-2f1e-4d15-bfad-f13f6af86235

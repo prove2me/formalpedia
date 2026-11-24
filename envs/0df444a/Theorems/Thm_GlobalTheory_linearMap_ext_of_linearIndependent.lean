@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearMap_ext_of_linearIndependent
 -- name    : GlobalTheory.linearMap_ext_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:07:13.095675+00:00
 -- url     : https://prove2.me/theorems/1d722ace-46d4-481d-a912-447b260d9bd6

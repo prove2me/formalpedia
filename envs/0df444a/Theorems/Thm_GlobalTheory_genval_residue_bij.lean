@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_genval_residue_bij
 -- name    : GlobalTheory.genval_residue_bij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:54:07.448857+00:00
 -- url     : https://prove2.me/theorems/f1b0e1c9-b330-4041-a878-92c41d463319

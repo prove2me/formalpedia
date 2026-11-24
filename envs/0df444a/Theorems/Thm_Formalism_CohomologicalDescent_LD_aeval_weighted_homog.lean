@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_aeval_weighted_homog
 -- name    : Formalism.CohomologicalDescent.LD.aeval_weighted_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:01.021478+00:00
 -- url     : https://prove2.me/theorems/b9078dae-8b12-4985-abaa-eabc8b14994a

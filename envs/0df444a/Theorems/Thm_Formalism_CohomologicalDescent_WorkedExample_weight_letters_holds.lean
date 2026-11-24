@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_weight_letters_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.weight_letters_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:01:24.380994+00:00
 -- url     : https://prove2.me/theorems/5a80f345-5613-491f-9992-6e526c45ee16

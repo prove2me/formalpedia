@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_localizedModule_atPrime_le
 -- name    : GlobalTheory.length_localizedModule_atPrime_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:06.916257+00:00
 -- url     : https://prove2.me/theorems/eae6d654-ae2a-4988-8c47-cbe3f843c98c

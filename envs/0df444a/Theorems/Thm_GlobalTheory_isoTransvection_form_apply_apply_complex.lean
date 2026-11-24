@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_form_apply_apply_complex
 -- name    : GlobalTheory.isoTransvection.form_apply_apply_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:01:28.937574+00:00
 -- url     : https://prove2.me/theorems/74ec3340-1002-457f-9dda-70d2ddc5ce99

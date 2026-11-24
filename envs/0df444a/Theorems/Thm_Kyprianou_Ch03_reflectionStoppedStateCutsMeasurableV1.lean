@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectionStoppedStateCutsMeasurableV1
 -- name    : Kyprianou.Ch03.reflectionStoppedStateCutsMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:39.273074+00:00
 -- url     : https://prove2.me/theorems/6023353f-66ed-476e-a96f-8b58e619212f

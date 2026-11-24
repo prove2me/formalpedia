@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eventually_testFunction_mul_inverse_unit_eq
 -- name    : GlobalTheory.T.eventually_testFunction_mul_inverse_unit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:33:06.028956+00:00
 -- url     : https://prove2.me/theorems/e8621aff-ff3a-4a95-9785-e7d8a7a8801a

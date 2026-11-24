@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_example_b_div_lstar_eq
 -- name    : Formalism.CohomologicalDescent.WorkedExample.example_b_div_lstar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:02:17.984922+00:00
 -- url     : https://prove2.me/theorems/77847538-c166-4db5-a136-6283c3442ccd

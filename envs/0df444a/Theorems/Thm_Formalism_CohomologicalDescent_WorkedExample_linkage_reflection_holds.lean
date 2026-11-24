@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_linkage_reflection_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.linkage_reflection_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:02:09.573861+00:00
 -- url     : https://prove2.me/theorems/cb0b0717-89c1-410d-a01a-b9f0559dcfdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_laurent_vector_normalise
 -- name    : GlobalTheory.laurent_vector_normalise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:02:00.732905+00:00
 -- url     : https://prove2.me/theorems/0b552e5a-ff68-4049-aa9e-37a3fc8bd09a

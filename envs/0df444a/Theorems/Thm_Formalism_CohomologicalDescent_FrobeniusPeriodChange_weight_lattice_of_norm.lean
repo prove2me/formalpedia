@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_weight_lattice_of_norm
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.weight_lattice_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:53:01.960847+00:00
 -- url     : https://prove2.me/theorems/8cad97f1-00f5-44fb-a0e7-03d37be0da34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_gram_frame_generators
 -- name    : GlobalTheory.det_gram_frame_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:00.047258+00:00
 -- url     : https://prove2.me/theorems/01d9b01e-beb2-468c-8897-1e3066e0fae0

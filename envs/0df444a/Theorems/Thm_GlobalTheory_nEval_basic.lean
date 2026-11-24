@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nEval_basic
 -- name    : GlobalTheory.nEval_basic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:19:35.489777+00:00
 -- url     : https://prove2.me/theorems/841283dd-439a-44b1-a8b7-0f41eee2aace

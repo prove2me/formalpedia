@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_pair_axis
 -- name    : GlobalTheory.CompanionTheory.AxForm.pair_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:23:46.544746+00:00
 -- url     : https://prove2.me/theorems/9e756168-52b5-42a3-a443-3073683ce138

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_UpperLaw_elem_mem_N
 -- name    : GlobalTheory.PartRed.UpperLaw.elem_mem_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:53:49.879821+00:00
 -- url     : https://prove2.me/theorems/1115c05c-3037-4161-aa3b-34d7bf104ba0

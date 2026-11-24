@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_hat_rational_points_and_approx
 -- name    : GlobalTheory.AdLat.hat_rational_points_and_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:42:59.894056+00:00
 -- url     : https://prove2.me/theorems/fd83762c-bfd0-411c-b258-d99e34b5da85

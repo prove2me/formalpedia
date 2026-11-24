@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isRegularRing_quotient_etaleCoordinate
 -- name    : GlobalTheory.isRegularRing_quotient_etaleCoordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:01:51.5047+00:00
 -- url     : https://prove2.me/theorems/5106412c-5127-42dc-8b3f-e42a60bd24f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_range_binForm
 -- name    : Formalism.CohomologicalDescent.LA.la_range_binForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:51:37.574791+00:00
 -- url     : https://prove2.me/theorems/f86eb044-e947-422b-b3b2-79aff5f6f22a

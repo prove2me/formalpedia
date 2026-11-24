@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpenImmersion_and_isClosedImmersion_of_section_of_etale
 -- name    : GlobalTheory.isOpenImmersion_and_isClosedImmersion_of_section_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:57:49.289147+00:00
 -- url     : https://prove2.me/theorems/abfba430-97ce-4b91-83b1-8dc8a3312329

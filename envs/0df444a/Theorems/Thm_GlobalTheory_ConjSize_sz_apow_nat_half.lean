@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjSize_sz_apow_nat_half
 -- name    : GlobalTheory.ConjSize.sz_apow_nat_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:41:14.508513+00:00
 -- url     : https://prove2.me/theorems/35d47464-ab04-4e80-8c1e-0cf97f278b15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isUnit_aeval_of_forall_isUnit_sub
 -- name    : GlobalTheory.isUnit_aeval_of_forall_isUnit_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:01:09.795109+00:00
 -- url     : https://prove2.me/theorems/e1812427-e677-4722-9703-ec1a44f0dde3

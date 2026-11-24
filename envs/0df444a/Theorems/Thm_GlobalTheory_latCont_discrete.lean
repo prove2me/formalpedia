@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latCont_discrete
 -- name    : GlobalTheory.latCont_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:02:28.186268+00:00
 -- url     : https://prove2.me/theorems/e7b3215b-9478-4249-9de7-cddd7ccb51ab

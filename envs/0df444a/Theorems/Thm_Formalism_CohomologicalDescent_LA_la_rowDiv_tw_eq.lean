@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_rowDiv_tw_eq
 -- name    : Formalism.CohomologicalDescent.LA.la_rowDiv_tw_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:50:54.607647+00:00
 -- url     : https://prove2.me/theorems/9c27e2cc-5ad9-4e1e-9665-7ed56c23cae3

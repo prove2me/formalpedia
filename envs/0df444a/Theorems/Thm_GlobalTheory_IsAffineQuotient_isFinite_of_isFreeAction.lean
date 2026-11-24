@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_isFinite_of_isFreeAction
 -- name    : GlobalTheory.IsAffineQuotient.isFinite_of_isFreeAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:30:17.253197+00:00
 -- url     : https://prove2.me/theorems/0caa1308-b574-41b5-b3ce-7c1e42550680

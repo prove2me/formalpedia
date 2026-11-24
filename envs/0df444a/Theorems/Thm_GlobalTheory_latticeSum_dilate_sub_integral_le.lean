@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeSum_dilate_sub_integral_le
 -- name    : GlobalTheory.latticeSum_dilate_sub_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:02:27.72214+00:00
 -- url     : https://prove2.me/theorems/0545e251-338d-4801-a669-f30c9903f4cb

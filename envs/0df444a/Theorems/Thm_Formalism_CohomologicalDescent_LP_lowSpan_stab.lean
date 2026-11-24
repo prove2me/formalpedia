@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LP_lowSpan_stab
 -- name    : Formalism.CohomologicalDescent.LP.lowSpan_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:56:00.355787+00:00
 -- url     : https://prove2.me/theorems/723b3e8d-d14c-48a8-9870-6bb75a474ad6

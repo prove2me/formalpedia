@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gtCoord_i_comp_q
 -- name    : GlobalTheory.gtCoord_i_comp_q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:18.657947+00:00
 -- url     : https://prove2.me/theorems/27be7751-69eb-4b22-8721-730a0b38ad18

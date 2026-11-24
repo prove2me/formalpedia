@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latContMap_repr
 -- name    : GlobalTheory.latContMap_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:02:30.321989+00:00
 -- url     : https://prove2.me/theorems/ff8f57b5-ea48-41c2-88dd-6c5f47e16acf

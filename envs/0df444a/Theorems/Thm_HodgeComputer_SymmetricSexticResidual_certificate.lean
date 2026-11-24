@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_certificate
 -- name    : HodgeComputer.SymmetricSexticResidual.certificate
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-05T21:39:54.14078+00:00
 -- url     : https://prove2.me/theorems/799e785b-ddce-4562-b682-39cbf72890b9

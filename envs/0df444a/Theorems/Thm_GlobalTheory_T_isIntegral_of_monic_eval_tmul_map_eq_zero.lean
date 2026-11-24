@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_of_monic_eval_tmul_map_eq_zero
 -- name    : GlobalTheory.T.isIntegral_of_monic_eval_tmul_map_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:48:10.744954+00:00
 -- url     : https://prove2.me/theorems/4dfab782-5fc3-4660-910c-6855840dcf93

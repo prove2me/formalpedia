@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fix_torsion_of_fix_geometric_of_isDominant
 -- name    : GlobalTheory.fix_torsion_of_fix_geometric_of_isDominant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:27.5217+00:00
 -- url     : https://prove2.me/theorems/1793e539-606c-4824-ba3e-f7324015ec9f

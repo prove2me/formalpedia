@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_idealHilbertPoly_top
 -- name    : GlobalTheory.idealHilbertPoly_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:17.432035+00:00
 -- url     : https://prove2.me/theorems/5a173186-b4ee-4b11-a887-70c61f2ebb1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearIndependent_of_sub_apply_eq
 -- name    : GlobalTheory.linearIndependent_of_sub_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:28.017047+00:00
 -- url     : https://prove2.me/theorems/a77251b0-8d30-4fa4-9d16-ee5c86aa8793

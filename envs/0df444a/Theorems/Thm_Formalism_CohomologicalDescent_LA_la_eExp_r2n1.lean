@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_eExp_r2n1
 -- name    : Formalism.CohomologicalDescent.LA.la_eExp_r2n1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:49:27.019519+00:00
 -- url     : https://prove2.me/theorems/e45c2bbe-c98f-4fa6-ba4d-ed4adc907875

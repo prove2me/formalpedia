@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_quotientInvariantMeasure_exists_unique_unimodular_invariantMeasureClause
 -- name    : GlobalTheory.Proof.quotientInvariantMeasure_exists_unique_unimodular.invariantMeasureClause
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:27.457716+00:00
 -- url     : https://prove2.me/theorems/94fe9b60-b952-4306-bb19-94372fbd249e

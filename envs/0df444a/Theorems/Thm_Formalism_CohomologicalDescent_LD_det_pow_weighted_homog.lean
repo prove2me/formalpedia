@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_det_pow_weighted_homog
 -- name    : Formalism.CohomologicalDescent.LD.det_pow_weighted_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:05:13.909084+00:00
 -- url     : https://prove2.me/theorems/bbfa770b-e79f-46b6-a7f0-f1f56db4d018

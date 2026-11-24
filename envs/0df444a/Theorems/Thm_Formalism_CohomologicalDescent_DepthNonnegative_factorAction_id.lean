@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_factorAction_id
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.factorAction_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:09:58.638056+00:00
 -- url     : https://prove2.me/theorems/a06a18bf-47be-4419-9200-f695f0eadf0e

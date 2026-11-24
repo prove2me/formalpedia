@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasSum_graded_of_mul_degree
 -- name    : GlobalTheory.hasSum_graded_of_mul_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:54:13.911289+00:00
 -- url     : https://prove2.me/theorems/61bc759f-a8eb-4aeb-b54a-6a665ce7fa2e

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch03.reflectedMarkov_supremum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T18:48:55.764358+00:00
 -- url     : https://prove2.me/submissions/9e9aac68-07ee-4d27-bdcd-78500a163d5e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

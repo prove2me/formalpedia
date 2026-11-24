@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HenselianNorm_exists_norm_eq
 -- name    : GlobalTheory.HenselianNorm.exists_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:19:14.538576+00:00
 -- url     : https://prove2.me/theorems/cc69585a-794f-44cc-b643-498a6ae5e979

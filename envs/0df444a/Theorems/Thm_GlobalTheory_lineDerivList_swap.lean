@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lineDerivList_swap
 -- name    : GlobalTheory.lineDerivList_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:06:59.612941+00:00
 -- url     : https://prove2.me/theorems/d3173729-e9ee-43b3-b67d-e9b59fec10b0

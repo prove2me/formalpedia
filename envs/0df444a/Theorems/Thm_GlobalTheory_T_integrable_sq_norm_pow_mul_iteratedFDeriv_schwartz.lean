@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integrable_sq_norm_pow_mul_iteratedFDeriv_schwartz
 -- name    : GlobalTheory.T.integrable_sq_norm_pow_mul_iteratedFDeriv_schwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:46:48.8811+00:00
 -- url     : https://prove2.me/theorems/0239c06b-4398-4de9-8ed8-1bcb51b2f6a6

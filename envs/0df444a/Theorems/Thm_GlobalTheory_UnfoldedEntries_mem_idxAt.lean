@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_mem_idxAt
 -- name    : GlobalTheory.UnfoldedEntries.mem_idxAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:31.093213+00:00
 -- url     : https://prove2.me/theorems/b434f11b-4342-486f-8033-bbf548410407

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_raising_split_three
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.raising_split_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:59:14.993214+00:00
 -- url     : https://prove2.me/theorems/34ad6a1f-f50c-47e9-b6ec-064fba16a5d6

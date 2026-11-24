@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_lift_of_birational
 -- name    : GlobalTheory.existsUnique_lift_of_birational
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:30:07.91664+00:00
 -- url     : https://prove2.me/theorems/6aae320c-c131-48e9-a68d-64351d240742

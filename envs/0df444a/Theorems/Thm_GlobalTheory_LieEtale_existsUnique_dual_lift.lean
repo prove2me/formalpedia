@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieEtale_existsUnique_dual_lift
 -- name    : GlobalTheory.LieEtale.existsUnique_dual_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:03:03.811614+00:00
 -- url     : https://prove2.me/theorems/402047bc-85e0-4e92-9b37-f5fce6cb8079

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_representatives_two_element_orbits_involution
 -- name    : GlobalTheory.T.exists_representatives_two_element_orbits_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:35.873811+00:00
 -- url     : https://prove2.me/theorems/bf58f2a3-efe1-4f5d-b489-58f57012fe17

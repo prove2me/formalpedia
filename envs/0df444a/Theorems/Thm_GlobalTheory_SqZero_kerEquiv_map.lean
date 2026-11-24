@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_kerEquiv_map
 -- name    : GlobalTheory.SqZero.kerEquiv_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:56:54.284362+00:00
 -- url     : https://prove2.me/theorems/36b3db23-686c-4a14-9233-9a329875d7c0

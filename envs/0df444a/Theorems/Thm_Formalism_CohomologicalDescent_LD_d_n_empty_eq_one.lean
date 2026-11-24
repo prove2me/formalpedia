@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_d_n_empty_eq_one
 -- name    : Formalism.CohomologicalDescent.LD.d_n_empty_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:37.359453+00:00
 -- url     : https://prove2.me/theorems/4a4cfb5b-082c-438b-9bc3-61493ff19711

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_evBasic_nEval_sub_coeff_mem
 -- name    : GlobalTheory.evBasic_nEval_sub_coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:56.66947+00:00
 -- url     : https://prove2.me/theorems/588f1599-c76f-4343-90bd-dd62059ca309

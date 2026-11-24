@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_weight_omega_add_degree
 -- name    : Formalism.CohomologicalDescent.LD.weight_omega_add_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:58.01083+00:00
 -- url     : https://prove2.me/theorems/7bf4edf9-443b-44b0-8fe2-1b9b39365a25

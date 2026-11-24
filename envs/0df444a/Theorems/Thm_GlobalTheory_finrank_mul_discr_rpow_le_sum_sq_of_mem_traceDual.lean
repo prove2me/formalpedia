@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_mul_discr_rpow_le_sum_sq_of_mem_traceDual
 -- name    : GlobalTheory.finrank_mul_discr_rpow_le_sum_sq_of_mem_traceDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:50:44.869331+00:00
 -- url     : https://prove2.me/theorems/e47bf9d9-282e-43a5-98b5-078f19afa7ea

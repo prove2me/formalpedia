@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AutoregressiveCompression_Main_proposition_5_5
 -- name    : AutoregressiveCompression.Main.proposition_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:14:44.157744+00:00
 -- url     : https://prove2.me/theorems/783b72e0-53b1-4140-b5f2-26edc3197e8e

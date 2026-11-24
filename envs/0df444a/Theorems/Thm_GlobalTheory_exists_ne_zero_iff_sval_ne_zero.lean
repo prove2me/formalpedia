@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ne_zero_iff_sval_ne_zero
 -- name    : GlobalTheory.exists_ne_zero_iff_sval_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:55:22.18082+00:00
 -- url     : https://prove2.me/theorems/2bdbf317-22b4-46ed-ac9d-5aecba31e411

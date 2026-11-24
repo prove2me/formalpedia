@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_divided_power_det_mul_of_ne
 -- name    : Formalism.CohomologicalDescent.LA.divided_power_det_mul_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:57:59.653799+00:00
 -- url     : https://prove2.me/theorems/886ecc91-7557-4b3c-b1ea-f29a9d568614

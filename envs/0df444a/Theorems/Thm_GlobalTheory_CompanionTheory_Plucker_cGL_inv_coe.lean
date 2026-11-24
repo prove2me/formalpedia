@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_cGL_inv_coe
 -- name    : GlobalTheory.CompanionTheory.Plucker.cGL_inv_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:08:42.103577+00:00
 -- url     : https://prove2.me/theorems/5abd2460-d611-4a19-9b6a-9daa64fbe740

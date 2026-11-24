@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isUnit_of_isUnit_map_of_henselian
 -- name    : GlobalTheory.isUnit_of_isUnit_map_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:39.194794+00:00
 -- url     : https://prove2.me/theorems/6ef5c4be-2819-4232-ad91-d00cd128052f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayEx_nonempty_rayData
 -- name    : GlobalTheory.Mem.RayEx.nonempty_rayData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:45:38.994191+00:00
 -- url     : https://prove2.me/theorems/60141adb-be8a-4ff5-8b1b-bf4574b92714

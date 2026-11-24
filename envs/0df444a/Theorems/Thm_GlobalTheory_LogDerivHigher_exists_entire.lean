@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerivHigher_exists_entire
 -- name    : GlobalTheory.LogDerivHigher.exists_entire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:19:08.346598+00:00
 -- url     : https://prove2.me/theorems/43302342-8501-4262-9143-46d88e2569e4

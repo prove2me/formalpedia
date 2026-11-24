@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_isNormalScheme
 -- name    : GlobalTheory.IsAffineQuotient.isNormalScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:28:53.056437+00:00
 -- url     : https://prove2.me/theorems/b9db189b-8881-4750-bcb6-7acaa0d2b232

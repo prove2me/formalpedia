@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_logDeriv_eq_order_div_add_analytic
 -- name    : GlobalTheory.logDeriv_eq_order_div_add_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:08:07.756002+00:00
 -- url     : https://prove2.me/theorems/11ff7e0d-3b70-4815-8b89-478b81c2955e

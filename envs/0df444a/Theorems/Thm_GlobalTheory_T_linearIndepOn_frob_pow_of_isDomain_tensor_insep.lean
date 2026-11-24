@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linearIndepOn_frob_pow_of_isDomain_tensor_insep
 -- name    : GlobalTheory.T.linearIndepOn_frob_pow_of_isDomain_tensor_insep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:28.94069+00:00
 -- url     : https://prove2.me/theorems/4eed5ba3-db00-4ed6-b3ed-83d2ae3a6526

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_length_ker_coker_lsmul_quotient_span_swap
 -- name    : GlobalTheory.T.length_ker_coker_lsmul_quotient_span_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:51:22.205387+00:00
 -- url     : https://prove2.me/theorems/73d5796c-97a3-4ecd-82a0-7734a63880d8

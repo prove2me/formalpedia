@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_joint_lemma_a_full
 -- name    : Formalism.CohomologicalDescent.LA.joint_lemma_a_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:50:31.069023+00:00
 -- url     : https://prove2.me/theorems/11778b3a-b53e-4a14-8b02-24134e8fa864

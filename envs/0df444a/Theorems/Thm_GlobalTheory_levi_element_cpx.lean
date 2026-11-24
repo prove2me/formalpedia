@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_levi_element_cpx
 -- name    : GlobalTheory.levi_element_cpx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:08.765284+00:00
 -- url     : https://prove2.me/theorems/71907567-fbdd-4f27-a23e-722724330cdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_im_bounds_of_isCompact_upperHalfPlane
 -- name    : GlobalTheory.T.exists_im_bounds_of_isCompact_upperHalfPlane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:35:40.807384+00:00
 -- url     : https://prove2.me/theorems/1f98bdaa-1116-4480-81ae-e39f9f1a40c2

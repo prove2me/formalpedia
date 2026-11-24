@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoinvSB_kernel
 -- name    : GlobalTheory.CoinvSB.kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:28:38.391725+00:00
 -- url     : https://prove2.me/theorems/85ed08ac-0a08-420b-b687-1c3428226986

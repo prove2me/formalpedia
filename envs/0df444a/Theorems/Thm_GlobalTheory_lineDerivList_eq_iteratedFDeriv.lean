@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lineDerivList_eq_iteratedFDeriv
 -- name    : GlobalTheory.lineDerivList_eq_iteratedFDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:07:00.934974+00:00
 -- url     : https://prove2.me/theorems/34659222-b065-42b2-86fd-be45a4cd7ee2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_inv_near_one
 -- name    : GlobalTheory.matrix_inv_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:09:16.97509+00:00
 -- url     : https://prove2.me/theorems/08387472-cb0a-40a5-9c86-9f8d1d989c84

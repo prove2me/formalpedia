@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_RowStable_component_mem
 -- name    : GlobalTheory.RowSpan.RowStable.component_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:32:54.860699+00:00
 -- url     : https://prove2.me/theorems/ca1ad9ed-ef04-4df8-8f9c-9cb5257041bf

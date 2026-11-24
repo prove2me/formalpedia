@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_sum_complement_add_sum
 -- name    : Formalism.CohomologicalDescent.LD.sum_complement_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:06:14.042353+00:00
 -- url     : https://prove2.me/theorems/2d336a58-397d-43eb-8550-94d60be641b9

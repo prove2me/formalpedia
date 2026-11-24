@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_prime_dvd_sub_one_cyclotomic_irreducible_over
 -- name    : GlobalTheory.T.exists_prime_dvd_sub_one_cyclotomic_irreducible_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:38:36.008053+00:00
 -- url     : https://prove2.me/theorems/3b7a41ce-1112-4079-8d11-76b520371a95

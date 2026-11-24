@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_dualWeight_dualWeight
 -- name    : PI.ZuckTensorWork.dualWeight_dualWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:08:42.76845+00:00
 -- url     : https://prove2.me/theorems/48e4d245-2639-45e6-a677-4829dca41b92

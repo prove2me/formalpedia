@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abelianScheme_id_pow_finite_etale_surjective
 -- name    : GlobalTheory.abelianScheme_id_pow_finite_etale_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:58.786615+00:00
 -- url     : https://prove2.me/theorems/14cf65db-841f-45cc-9767-1d39631e5af0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_mem_itUp
 -- name    : GlobalTheory.FlatFactor.UpStage.mem_itUp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:04:52.4132+00:00
 -- url     : https://prove2.me/theorems/45f337b6-b900-4acd-9df2-9563fd46b371

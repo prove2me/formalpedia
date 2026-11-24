@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_log_factorial_eq_sum_vonMangoldt_mul_div
 -- name    : GlobalTheory.log_factorial_eq_sum_vonMangoldt_mul_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:08:23.238597+00:00
 -- url     : https://prove2.me/theorems/49e36ca7-c31b-40b7-9c29-1186276e97d1

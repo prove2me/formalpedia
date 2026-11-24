@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isUnit_of_isUnit_map_of_ker_le_jacobson
 -- name    : GlobalTheory.isUnit_of_isUnit_map_of_ker_le_jacobson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:01:06.300558+00:00
 -- url     : https://prove2.me/theorems/c9d4844f-15e0-4c18-9a0d-13066450a222

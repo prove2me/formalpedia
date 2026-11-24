@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_label_sum_plus_holds
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.label_sum_plus_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:00:55.503889+00:00
 -- url     : https://prove2.me/theorems/a3d24e5d-8e10-4373-9a48-43c2faa79a62

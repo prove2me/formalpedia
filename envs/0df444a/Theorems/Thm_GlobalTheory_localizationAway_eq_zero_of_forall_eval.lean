@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_localizationAway_eq_zero_of_forall_eval
 -- name    : GlobalTheory.localizationAway_eq_zero_of_forall_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:59.598801+00:00
 -- url     : https://prove2.me/theorems/f3c41a3f-28db-4654-b176-309734ee8483

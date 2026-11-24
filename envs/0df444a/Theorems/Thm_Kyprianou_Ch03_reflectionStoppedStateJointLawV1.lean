@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectionStoppedStateJointLawV1
 -- name    : Kyprianou.Ch03.reflectionStoppedStateJointLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T21:47:28.654504+00:00
 -- url     : https://prove2.me/theorems/e016a264-f0b6-41b4-8edc-0713a3b7b97a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hermite_reduction_unipotent
 -- name    : GlobalTheory.hermite_reduction_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:55:18.114634+00:00
 -- url     : https://prove2.me/theorems/3dd93fb9-e985-4548-aa03-33e6dc6b306f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isUnit_det_of_dual_blocks
 -- name    : GlobalTheory.isUnit_det_of_dual_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:00:43.784337+00:00
 -- url     : https://prove2.me/theorems/263cb4d1-8eb0-4dff-80c0-88600480ab6f

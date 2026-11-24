@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_UpperLaw_fill_low
 -- name    : GlobalTheory.PartRed.UpperLaw.fill_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:53:25.921267+00:00
 -- url     : https://prove2.me/theorems/f5381e83-ec95-4db1-88d7-35580d3a312e

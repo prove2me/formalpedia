@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_inv_entries_bounded
 -- name    : GlobalTheory.matrix_inv_entries_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:09:33.255345+00:00
 -- url     : https://prove2.me/theorems/2d2a34bd-ce69-4210-b3fe-79964030be5b

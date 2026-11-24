@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_telescoping_weighted_sum
 -- name    : Formalism.CohomologicalDescent.LD.telescoping_weighted_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:11.812929+00:00
 -- url     : https://prove2.me/theorems/8f8dbd85-9135-4f26-bff3-9ae304a95ee4

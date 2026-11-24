@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_eval_neg_x_coeff
 -- name    : Formalism.CohomologicalDescent.LD.eval_neg_x_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:12.397132+00:00
 -- url     : https://prove2.me/theorems/122c2f29-87ea-4008-a400-b0a9bf8273e7

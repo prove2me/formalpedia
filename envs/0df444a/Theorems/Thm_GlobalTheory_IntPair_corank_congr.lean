@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntPair_corank_congr
 -- name    : GlobalTheory.IntPair.corank_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:08:11.896008+00:00
 -- url     : https://prove2.me/theorems/9d6110d4-fe90-44ca-b23d-6da2b49e097c

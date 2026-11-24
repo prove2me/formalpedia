@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_dual_weight_total
 -- name    : Formalism.CohomologicalDescent.LD.dual_weight_total
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:06:28.03888+00:00
 -- url     : https://prove2.me/theorems/4019dbb4-7f09-474a-aef3-c5f44de9b8ed

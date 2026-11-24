@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_exists_left_inverse_of_field
 -- name    : GlobalTheory.matrix_exists_left_inverse_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:10:04.620005+00:00
 -- url     : https://prove2.me/theorems/cd4403e9-27d2-4fca-b6fc-b0631bce457f

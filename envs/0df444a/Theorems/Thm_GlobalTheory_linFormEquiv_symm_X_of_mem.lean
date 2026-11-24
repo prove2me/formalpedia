@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linFormEquiv_symm_X_of_mem
 -- name    : GlobalTheory.linFormEquiv_symm_X_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:06:46.821174+00:00
 -- url     : https://prove2.me/theorems/0d3a6114-9929-4089-9409-eaecb2593eca

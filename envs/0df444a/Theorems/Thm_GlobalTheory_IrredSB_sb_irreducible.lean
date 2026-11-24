@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSB_sb_irreducible
 -- name    : GlobalTheory.IrredSB.sb_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:20.175668+00:00
 -- url     : https://prove2.me/theorems/f31e9ce8-8972-4efc-ae7b-de52ab6b98ba

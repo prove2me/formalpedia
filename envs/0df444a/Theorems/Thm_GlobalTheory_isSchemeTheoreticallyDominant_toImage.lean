@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSchemeTheoreticallyDominant_toImage
 -- name    : GlobalTheory.isSchemeTheoreticallyDominant_toImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:11.361247+00:00
 -- url     : https://prove2.me/theorems/645d4379-0ce6-493c-bca7-e21781ca3fb5

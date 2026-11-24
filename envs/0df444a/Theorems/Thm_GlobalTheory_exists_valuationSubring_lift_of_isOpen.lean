@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuationSubring_lift_of_isOpen
 -- name    : GlobalTheory.exists_valuationSubring_lift_of_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:45:41.056208+00:00
 -- url     : https://prove2.me/theorems/a1a1632f-4a9e-4ae0-a652-dbd757c2005e

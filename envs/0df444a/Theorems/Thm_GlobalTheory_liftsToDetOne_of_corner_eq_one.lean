@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_liftsToDetOne_of_corner_eq_one
 -- name    : GlobalTheory.liftsToDetOne_of_corner_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:35.555467+00:00
 -- url     : https://prove2.me/theorems/81bfaf46-ed8d-449a-bd7f-616cefa5c4fa

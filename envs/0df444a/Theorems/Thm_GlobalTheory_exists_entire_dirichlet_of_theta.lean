@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_entire_dirichlet_of_theta
 -- name    : GlobalTheory.exists_entire_dirichlet_of_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:31:53.543324+00:00
 -- url     : https://prove2.me/theorems/340ff452-1eda-4b75-b6a0-4b3271dc1cd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_quotient_eq_finrank
 -- name    : GlobalTheory.length_quotient_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:05:34.832312+00:00
 -- url     : https://prove2.me/theorems/9154307c-7197-4348-b709-90885c58c51c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_locallyConstant_compactSupport_invariant_openAddSubgroup
 -- name    : GlobalTheory.locallyConstant_compactSupport_invariant_openAddSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:08:17.447798+00:00
 -- url     : https://prove2.me/theorems/20ae7c20-bb46-44be-8389-633245956460

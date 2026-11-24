@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_hasSum_zpow_of_form_le
 -- name    : GlobalTheory.Ex.hasSum_zpow_of_form_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:06:39.525529+00:00
 -- url     : https://prove2.me/theorems/ff3d3f17-90b8-43ea-b7f0-41cbf15297b2

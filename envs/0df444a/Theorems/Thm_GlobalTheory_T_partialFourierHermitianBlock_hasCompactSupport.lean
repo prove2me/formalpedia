@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialFourierHermitianBlock_hasCompactSupport
 -- name    : GlobalTheory.T.partialFourierHermitianBlock_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:47.327573+00:00
 -- url     : https://prove2.me/theorems/abcd1554-f185-46c3-9dfb-1545cbf905ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_det_submatrix_eq_zero
 -- name    : GlobalTheory.CompanionTheory.Plucker.det_submatrix_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:05:49.696788+00:00
 -- url     : https://prove2.me/theorems/b7b54202-91c4-4dab-8bc2-d38565e9337f

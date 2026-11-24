@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_localized_saturation_atPrime
 -- name    : GlobalTheory.localized_saturation_atPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:51.511927+00:00
 -- url     : https://prove2.me/theorems/1b442468-c9fd-4cf9-99b7-2ab2a19b6b6a

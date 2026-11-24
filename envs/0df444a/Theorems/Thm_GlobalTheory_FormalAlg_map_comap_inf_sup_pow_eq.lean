@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalAlg_map_comap_inf_sup_pow_eq
 -- name    : GlobalTheory.FormalAlg.map_comap_inf_sup_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:34:56.307894+00:00
 -- url     : https://prove2.me/theorems/9e0d88fe-20cf-416e-acd3-6e61bcb4e6aa

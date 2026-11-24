@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayEx_finite_quot
 -- name    : GlobalTheory.Mem.RayEx.finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:45:36.699282+00:00
 -- url     : https://prove2.me/theorems/c81763d3-c51c-4d3b-9288-49a9c9851816

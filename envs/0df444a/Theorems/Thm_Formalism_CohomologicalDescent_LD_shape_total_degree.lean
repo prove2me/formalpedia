@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_shape_total_degree
 -- name    : Formalism.CohomologicalDescent.LD.shape_total_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:06:08.130889+00:00
 -- url     : https://prove2.me/theorems/e80cacde-ac34-466f-a815-7a6519d03c63

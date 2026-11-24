@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_map_mul_right_eq_of_finite_fundamentalDomain
 -- name    : GlobalTheory.T.haar_map_mul_right_eq_of_finite_fundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:42:02.565869+00:00
 -- url     : https://prove2.me/theorems/d16fe4ed-0ef9-4992-931b-a6428d9beff4

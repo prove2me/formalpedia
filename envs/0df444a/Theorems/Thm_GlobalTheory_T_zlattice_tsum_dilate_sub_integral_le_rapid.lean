@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_zlattice_tsum_dilate_sub_integral_le_rapid
 -- name    : GlobalTheory.T.zlattice_tsum_dilate_sub_integral_le_rapid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:00:59.696254+00:00
 -- url     : https://prove2.me/theorems/0b896ca0-479b-41cd-b87e-b29f9508142e

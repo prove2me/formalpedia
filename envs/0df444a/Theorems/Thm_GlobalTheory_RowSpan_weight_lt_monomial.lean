@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_weight_lt_monomial
 -- name    : GlobalTheory.RowSpan.weight_lt_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:46.540282+00:00
 -- url     : https://prove2.me/theorems/4248753f-3c7f-43d7-8011-39d70eedb126

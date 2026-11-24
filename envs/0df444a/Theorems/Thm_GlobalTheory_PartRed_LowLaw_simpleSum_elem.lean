@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_LowLaw_simpleSum_elem
 -- name    : GlobalTheory.PartRed.LowLaw.simpleSum_elem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:52:33.623332+00:00
 -- url     : https://prove2.me/theorems/9a301e8a-fd07-49ab-9622-eacc480211b1

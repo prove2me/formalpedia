@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_exists_hermMat
 -- name    : GlobalTheory.SatakeBound.exists_hermMat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:06:34.617799+00:00
 -- url     : https://prove2.me/theorems/2a3c39f4-9d58-431e-9c61-075807e2ed81

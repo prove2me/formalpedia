@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowTriangular_dpoly_monomial
 -- name    : GlobalTheory.RowTriangular.dpoly_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:06.104525+00:00
 -- url     : https://prove2.me/theorems/3bacb1a0-6de4-49ea-bed3-d0d785625b99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_sub_mem_smul_of_mul
 -- name    : GlobalTheory.isoTransvection.sub_mem_smul_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:01:36.26153+00:00
 -- url     : https://prove2.me/theorems/935cb1ab-c7c0-4b9d-81fb-359ca7f7c7e7

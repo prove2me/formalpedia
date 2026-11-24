@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_residueField_of_dominating
 -- name    : GlobalTheory.finite_residueField_of_dominating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:47:16.487677+00:00
 -- url     : https://prove2.me/theorems/642ef7e6-baaf-4406-a807-d499ff5749ea

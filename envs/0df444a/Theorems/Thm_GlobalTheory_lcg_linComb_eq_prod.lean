@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lcg_linComb_eq_prod
 -- name    : GlobalTheory.lcg_linComb_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:03:41.035723+00:00
 -- url     : https://prove2.me/theorems/0d0516ad-78d4-44e2-99fb-71309d425427

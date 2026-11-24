@@ -57158,7 +57158,7 @@
 {"parent": "QEC.Coding.BDL26RZErrorPullback.zero_run_coarse", "child": "QEC_Coding_FiniteAlternatingConstruction_RZErrorPullback", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZErrorPullback.zero_run_coarse", "child": "QEC_Coding_FiniteAlternatingConstruction_FiniteCohomology", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZErrorPullback.zero_run_coarse", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_CanonicalHistoryMarks_Snapshots", "via": ["solution", "statement"]}
-{"parent": "OrderSelProphet.Kernel.lemma_F_2", "child": "OrderSelProphet_Kernel_Certificate", "via": ["statement"]}
+{"parent": "OrderSelProphet.Kernel.lemma_F_2", "child": "OrderSelProphet_Kernel_Certificate", "via": ["solution", "statement"]}
 {"parent": "OAI.SmoothMobiusCorrection.correctionDenominator_ne_zero", "child": "OAI_NumberTheory_DirichletL_Hecke_MobiusEulerCorrection", "via": ["solution", "statement"]}
 {"parent": "OAI.SmoothMobiusCorrection.correctionDenominator_ne_zero", "child": "OAI_NumberTheory_DirichletL_Mellin_SixthPowerAverage", "via": ["solution", "statement"]}
 {"parent": "HigherOrderId_Certify_Fisher", "child": "HigherOrderId_Certify_Release", "via": ["statement"]}
@@ -67534,7 +67534,7 @@
 {"parent": "FasterPrimeEnum.theorem_1_2", "child": "FasterPrimeEnum_RunsWithin", "via": ["statement"]}
 {"parent": "FasterPrimeEnum.theorem_1_2", "child": "SubexponentialSAT", "via": ["statement"]}
 {"parent": "BuchiRabinIndex_LowerBound_Rabin", "child": "BuchiRabinIndex_LowerBound_History", "via": ["statement"]}
-{"parent": "AutoregressiveCompression.Main.proposition_5_5", "child": "AutoregressiveCompression_Main_Tasks", "via": ["statement"]}
+{"parent": "AutoregressiveCompression.Main.proposition_5_5", "child": "AutoregressiveCompression_Main_Tasks", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelSourceEnergyPullback_inverse", "child": "OAI_NumberTheory_DirichletL_Eisenstein_AffineCuspFourier", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelSourceEnergyPullback_inverse", "child": "OAI_NumberTheory_DirichletL_Eisenstein_IntegralCover", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_16_7_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}

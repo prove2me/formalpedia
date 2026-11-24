@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_det_pow_mul_mem_dual_weyl
 -- name    : Formalism.CohomologicalDescent.LD.det_pow_mul_mem_dual_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:07:08.795232+00:00
 -- url     : https://prove2.me/theorems/a10f9727-6775-48d3-8076-a9394515eeeb

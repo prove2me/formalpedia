@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orthogonal_symplectic_fixes_siegel_point_i
 -- name    : GlobalTheory.T.orthogonal_symplectic_fixes_siegel_point_i
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:55:59.174821+00:00
 -- url     : https://prove2.me/theorems/ec6259d1-1807-4363-9f92-61eabbcfa2c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_dualWtSpec
 -- name    : Formalism.CohomologicalDescent.LD.dualWtSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:06:36.299161+00:00
 -- url     : https://prove2.me/theorems/40d94f1d-01e3-46bb-b07a-4eae3e19462e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_map_mem_weyl_alt
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.map_mem_weyl_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:00:07.116268+00:00
 -- url     : https://prove2.me/theorems/fa616942-f669-48ec-b911-24da866d6972

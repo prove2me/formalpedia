@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnisoSize_exists_small_generator
 -- name    : GlobalTheory.AnisoSize.exists_small_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:58:24.661748+00:00
 -- url     : https://prove2.me/theorems/467e6d67-13ca-4beb-a72e-7c03c0a330f7

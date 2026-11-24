@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isReduced_torsion_geometric_fibre
 -- name    : GlobalTheory.isReduced_torsion_geometric_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:02:20.3403+00:00
 -- url     : https://prove2.me/theorems/66932d99-9322-4fa3-8d2e-ad391fe9fd7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_of_isCompact_closure_zpowers
 -- name    : GlobalTheory.isIntegral_of_isCompact_closure_zpowers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:36:26.177263+00:00
 -- url     : https://prove2.me/theorems/5e649c75-4033-4c0c-914b-de22683a0f2a

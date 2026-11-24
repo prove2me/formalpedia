@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_divided_power_det_pow_mul
 -- name    : Formalism.CohomologicalDescent.LD.divided_power_det_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:05:55.476094+00:00
 -- url     : https://prove2.me/theorems/82077dc5-e395-49c4-8183-4ee050956180

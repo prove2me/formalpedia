@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_embA_tv_mem
 -- name    : GlobalTheory.FlatFactor.UpStage.embA_tv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:05:45.4378+00:00
 -- url     : https://prove2.me/theorems/b800e812-2232-4887-a577-3c80e8d4425b

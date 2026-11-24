@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Capelli_adjoin_gelfA_dual_pair
 -- name    : GlobalTheory.Mem.Capelli.adjoin_gelfA_dual_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:28:59.385462+00:00
 -- url     : https://prove2.me/theorems/4268b255-b199-491f-a87b-106bbabeb7fd

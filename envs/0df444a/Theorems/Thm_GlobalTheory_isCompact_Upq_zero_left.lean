@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isCompact_Upq_zero_left
 -- name    : GlobalTheory.isCompact_Upq_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:58:04.916702+00:00
 -- url     : https://prove2.me/theorems/6a80b899-3027-482d-ab57-368dad74552b

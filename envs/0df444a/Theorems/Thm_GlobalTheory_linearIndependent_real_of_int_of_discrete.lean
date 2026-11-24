@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearIndependent_real_of_int_of_discrete
 -- name    : GlobalTheory.linearIndependent_real_of_int_of_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:00.224961+00:00
 -- url     : https://prove2.me/theorems/3580dd8b-287b-4556-8002-e4f2cfe6f6eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_one_le_re_riemannTheta_I_smul_one
 -- name    : GlobalTheory.RiemannThetaModel.one_le_re_riemannTheta_I_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:24:08.817691+00:00
 -- url     : https://prove2.me/theorems/aec2617d-5bd4-4246-b379-b92fa0cf384e

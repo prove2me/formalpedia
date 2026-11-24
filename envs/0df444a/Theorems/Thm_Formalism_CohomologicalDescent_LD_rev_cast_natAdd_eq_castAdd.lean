@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_rev_cast_natAdd_eq_castAdd
 -- name    : Formalism.CohomologicalDescent.LD.rev_cast_natAdd_eq_castAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:05:55.648744+00:00
 -- url     : https://prove2.me/theorems/6bd14573-0c15-4af7-81de-b56c4c5384c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_res_rowDiv
 -- name    : Formalism.CohomologicalDescent.LR.res_rowDiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:48:39.018474+00:00
 -- url     : https://prove2.me/theorems/c50a5f91-98ce-4099-9d8b-3456542a0d82

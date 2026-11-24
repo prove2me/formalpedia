@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasSum_latticeFourier_of_summable_norm
 -- name    : GlobalTheory.hasSum_latticeFourier_of_summable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:35:10.335803+00:00
 -- url     : https://prove2.me/theorems/5de374b4-847f-4ce6-ab20-26710943f28a

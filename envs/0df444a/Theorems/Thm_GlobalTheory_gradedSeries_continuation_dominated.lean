@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gradedSeries_continuation_dominated
 -- name    : GlobalTheory.gradedSeries_continuation_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:54:11.164805+00:00
 -- url     : https://prove2.me/theorems/e32d3481-aa91-4ac0-8f1a-1da58a9eb44a

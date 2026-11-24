@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_no_cycle_below_247463936
 -- name    : syracuse_no_cycle_below_247463936
--- status  : Open
+-- status  : Proved
 -- author  : @CGTMoyano
 -- created : 2026-11-24T22:00:41.039865+00:00
 -- url     : https://prove2.me/theorems/61375da0-ae57-45f3-a17d-76d907492e42

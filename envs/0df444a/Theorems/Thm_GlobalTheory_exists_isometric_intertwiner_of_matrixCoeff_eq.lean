@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isometric_intertwiner_of_matrixCoeff_eq
 -- name    : GlobalTheory.exists_isometric_intertwiner_of_matrixCoeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:33:07.929882+00:00
 -- url     : https://prove2.me/theorems/9138749c-46c7-4909-8e48-1e60c6994b08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_induction_finite_length
 -- name    : GlobalTheory.T.induction_finite_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:47:33.706597+00:00
 -- url     : https://prove2.me/theorems/08859171-52d2-4bbf-b3a7-00e07501d582

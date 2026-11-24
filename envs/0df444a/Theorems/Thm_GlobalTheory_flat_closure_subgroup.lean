@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_closure_subgroup
 -- name    : GlobalTheory.flat_closure_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:52:00.190305+00:00
 -- url     : https://prove2.me/theorems/0358c58b-a391-422e-9849-3b834feab482

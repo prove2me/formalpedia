@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jacobiSym_eq_of_modEq_four_mul
 -- name    : GlobalTheory.jacobiSym_eq_of_modEq_four_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:02:42.320801+00:00
 -- url     : https://prove2.me/theorems/2a12f5f9-3b4b-48ed-9f11-cdf785562ae1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dixmier_schur_of_rank_le_aleph0
 -- name    : GlobalTheory.dixmier_schur_of_rank_le_aleph0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:16:49.468028+00:00
 -- url     : https://prove2.me/theorems/4b6f7d7c-b908-4659-bf9f-d51d45f4644e

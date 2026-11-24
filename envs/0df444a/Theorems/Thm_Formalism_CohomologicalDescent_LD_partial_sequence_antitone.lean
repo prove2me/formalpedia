@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_partial_sequence_antitone
 -- name    : Formalism.CohomologicalDescent.LD.partial_sequence_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:06:30.361858+00:00
 -- url     : https://prove2.me/theorems/39ba9961-95a8-409a-8c1a-c4074c6ffb1b

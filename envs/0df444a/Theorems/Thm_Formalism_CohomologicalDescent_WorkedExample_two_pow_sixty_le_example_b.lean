@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_two_pow_sixty_le_example_b
 -- name    : Formalism.CohomologicalDescent.WorkedExample.two_pow_sixty_le_example_b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:02:01.889769+00:00
 -- url     : https://prove2.me/theorems/613392b1-11ea-4fd7-be17-47f110994e59

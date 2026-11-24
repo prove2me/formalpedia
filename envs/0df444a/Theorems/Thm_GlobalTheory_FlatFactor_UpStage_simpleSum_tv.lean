@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_simpleSum_tv
 -- name    : GlobalTheory.FlatFactor.UpStage.simpleSum_tv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:04:28.529004+00:00
 -- url     : https://prove2.me/theorems/6b352bb1-850e-4ab7-8deb-a400c0576f00

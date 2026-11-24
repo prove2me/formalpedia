@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_completedNaturalStoppedAdaptedEventsV1
 -- name    : Kyprianou.Ch03.completedNaturalStoppedAdaptedEventsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:17:45.424798+00:00
 -- url     : https://prove2.me/theorems/f3b6c8d5-8741-4278-8499-cb9b30871055

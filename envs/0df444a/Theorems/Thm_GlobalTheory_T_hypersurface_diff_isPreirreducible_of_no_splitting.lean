@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hypersurface_diff_isPreirreducible_of_no_splitting
 -- name    : GlobalTheory.T.hypersurface_diff_isPreirreducible_of_no_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:46:31.045646+00:00
 -- url     : https://prove2.me/theorems/c076bd4d-fd5b-41fd-a968-710ead1f0f64

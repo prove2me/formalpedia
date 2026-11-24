@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gram_det_change_of_bases
 -- name    : GlobalTheory.gram_det_change_of_bases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:54:02.511416+00:00
 -- url     : https://prove2.me/theorems/f60ab509-8d51-4f0d-abf6-36d6de84124b

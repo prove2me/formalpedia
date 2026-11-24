@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linPart_add_antilinPart
 -- name    : GlobalTheory.linPart_add_antilinPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:06:56.351432+00:00
 -- url     : https://prove2.me/theorems/5ec3e158-27b3-4f19-9f68-7ff9424a0005

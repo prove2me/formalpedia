@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_firstJet_eq_aug_add_sum
 -- name    : GlobalTheory.firstJet_eq_aug_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:43.087924+00:00
 -- url     : https://prove2.me/theorems/0590a33d-8bef-4123-9fbf-9dce8fbf34a5

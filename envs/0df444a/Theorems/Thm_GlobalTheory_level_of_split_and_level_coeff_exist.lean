@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_level_of_split_and_level_coeff_exist
 -- name    : GlobalTheory.level_of_split_and_level_coeff_exist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:06:02.021114+00:00
 -- url     : https://prove2.me/theorems/0f293e9f-a2e6-4bab-9d1b-7426633b5bda

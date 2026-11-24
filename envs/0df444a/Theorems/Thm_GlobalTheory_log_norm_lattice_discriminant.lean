@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_log_norm_lattice_discriminant
 -- name    : GlobalTheory.log_norm_lattice_discriminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:08:21.271006+00:00
 -- url     : https://prove2.me/theorems/d6fc63c7-a076-4d6d-b956-7dfcce297bd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_rowShift
 -- name    : GlobalTheory.map_rowShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:10:03.577053+00:00
 -- url     : https://prove2.me/theorems/896cbcef-e550-41f4-bc35-c1c7657aedba

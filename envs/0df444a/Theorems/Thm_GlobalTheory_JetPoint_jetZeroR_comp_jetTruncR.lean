@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetPoint_jetZeroR_comp_jetTruncR
 -- name    : GlobalTheory.JetPoint.jetZeroR_comp_jetTruncR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:30.253415+00:00
 -- url     : https://prove2.me/theorems/2d82de24-bf77-4f86-a552-c77616cd3c8c

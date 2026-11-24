@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_UniformComb_exists_comb
 -- name    : GlobalTheory.PosOne.UniformComb.exists_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:21:44.450222+00:00
 -- url     : https://prove2.me/theorems/6377eced-b6be-4bfd-8051-e798338844b4

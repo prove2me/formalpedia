@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_logDerivativeThreeFourOne_neg_logDeriv_eq
 -- name    : GlobalTheory.logDerivativeThreeFourOne.neg_logDeriv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:08:10.082709+00:00
 -- url     : https://prove2.me/theorems/d494e1fd-0186-4e95-b14f-c714b933b1ba

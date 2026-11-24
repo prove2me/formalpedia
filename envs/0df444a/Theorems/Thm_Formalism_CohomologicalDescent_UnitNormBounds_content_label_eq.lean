@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_content_label_eq
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.content_label_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:00:54.76234+00:00
 -- url     : https://prove2.me/theorems/21a4619f-a751-4248-9eaf-1b3a6f33b887

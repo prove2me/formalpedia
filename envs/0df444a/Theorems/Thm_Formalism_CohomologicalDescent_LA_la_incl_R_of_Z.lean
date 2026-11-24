@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_incl_R_of_Z
 -- name    : Formalism.CohomologicalDescent.LA.la_incl_R_of_Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:50:16.114234+00:00
 -- url     : https://prove2.me/theorems/2af83fdd-981f-4e64-aa5a-1bef1de0a6fb

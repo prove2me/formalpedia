@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_of_isPullback_of_isFreeAction
 -- name    : GlobalTheory.IsAffineQuotient.of_isPullback_of_isFreeAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:29:07.600122+00:00
 -- url     : https://prove2.me/theorems/342458e8-04a9-42bb-a6b6-7d245dadef36

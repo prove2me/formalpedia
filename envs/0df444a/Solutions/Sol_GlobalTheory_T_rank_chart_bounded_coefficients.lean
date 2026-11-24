@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GlobalTheory.T.rank_chart_bounded_coefficients
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:03:39.371829+00:00
 -- url     : https://prove2.me/submissions/6c4a8caa-6500-429e-aada-4d115b65e841
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_RankChartBoundedCoefficients

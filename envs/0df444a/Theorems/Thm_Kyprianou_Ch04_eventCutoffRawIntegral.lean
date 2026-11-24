@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_eventCutoffRawIntegral
 -- name    : Kyprianou.Ch04.eventCutoffRawIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:00:34.299346+00:00
 -- url     : https://prove2.me/theorems/0ae5b386-fb65-4634-b92b-1d061df571b7

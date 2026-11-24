@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_mem_succMinRadii_of_lt
+-- name    : GlobalTheory.mem_succMinRadii_of_lt
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-24T23:11:03.27622+00:00
+-- url     : https://prove2.me/theorems/6ac9f613-ff3e-49e6-929c-d7afb68f21cb
+-- title:
+--   Global Theory: mem succ Min Radii of lt
+-- statement:
+--   The Global Theory construction uses the mem succ Min Radii of lt property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Definitions/ThetaMetrics/ExistsLinearIndependentNormLeSuccMin.lean#L80-L83
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Definitions/ThetaMetrics/ExistsLinearIndependentNormLeSuccMin.lean#L80-L83
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ThetaMetrics_ExistsLinearIndependentNormLeSuccMin
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Module Submodule
+open scoped Pointwise
+open GlobalTheory
+variable (K : Type*) [DivisionRing K] {V : Type*} [AddCommGroup V] [Module K V]
+variable {K}
+variable {N N' : V → ℝ} {S S' : Set V} {i j : ℕ} {r : ℝ}
+
+theorem GlobalTheory.mem_succMinRadii_of_lt (hi : (i : Cardinal) ≤ Module.rank K (span K S))
+    (h : succMinOf K N S i < r) : r ∈ succMinRadii K N S i := by sorry

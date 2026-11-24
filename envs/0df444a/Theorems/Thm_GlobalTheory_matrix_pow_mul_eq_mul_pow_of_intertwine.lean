@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_pow_mul_eq_mul_pow_of_intertwine
 -- name    : GlobalTheory.matrix_pow_mul_eq_mul_pow_of_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:09:46.647286+00:00
 -- url     : https://prove2.me/theorems/6a3ec92f-798f-4a60-9457-b2d73cea6689

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_kerRed_eq
 -- name    : GlobalTheory.FlatFactor.UpStage.kerRed_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:05:12.861879+00:00
 -- url     : https://prove2.me/theorems/7a84fced-5bd5-47c5-98b2-590c4b94412e

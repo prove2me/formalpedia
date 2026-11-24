@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetPoint_zR_one_mul_self
 -- name    : GlobalTheory.JetPoint.zR_one_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:37.17127+00:00
 -- url     : https://prove2.me/theorems/c77d1a33-7883-465b-92b4-0c84fabc3c20

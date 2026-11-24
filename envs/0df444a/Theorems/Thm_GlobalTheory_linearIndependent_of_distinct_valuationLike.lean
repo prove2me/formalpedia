@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearIndependent_of_distinct_valuationLike
 -- name    : GlobalTheory.linearIndependent_of_distinct_valuationLike
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:06:55.436019+00:00
 -- url     : https://prove2.me/theorems/eb6120e7-0057-4dc6-a096-abe913bdc8a5

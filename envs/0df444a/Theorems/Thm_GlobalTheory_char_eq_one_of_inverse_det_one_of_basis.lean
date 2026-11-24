@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_char_eq_one_of_inverse_det_one_of_basis
 -- name    : GlobalTheory.char_eq_one_of_inverse_det_one_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:08:12.428064+00:00
 -- url     : https://prove2.me/theorems/af8381b6-abc4-4dc4-85c8-84e6104da5c0

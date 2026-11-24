@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSquare_one_add_of_pow_two_pow_eq_zero
 -- name    : GlobalTheory.isSquare_one_add_of_pow_two_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:03.967481+00:00
 -- url     : https://prove2.me/theorems/522c06eb-6944-42e2-baca-b50d2afbe608

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_eq_taylor_sum_of_poly_bound
 -- name    : GlobalTheory.entire_eq_taylor_sum_of_poly_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:16:43.352141+00:00
 -- url     : https://prove2.me/theorems/9f866930-b04a-4f5f-b9b3-1e26d9c0726d

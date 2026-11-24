@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addMonoidAlgebra_coboundary_eq_iff
 -- name    : GlobalTheory.addMonoidAlgebra_coboundary_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:56.166491+00:00
 -- url     : https://prove2.me/theorems/1ebd92cf-6ee7-4d10-b931-626323dcfb2f

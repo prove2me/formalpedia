@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_card_posPairs
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.card_posPairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:59:41.328963+00:00
 -- url     : https://prove2.me/theorems/34e474cc-920e-48d0-bbb9-eb216570bb75

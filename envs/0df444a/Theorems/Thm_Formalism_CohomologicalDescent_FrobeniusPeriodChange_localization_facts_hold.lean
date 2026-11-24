@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_localization_facts_hold
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.localization_facts_hold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:54:24.541023+00:00
 -- url     : https://prove2.me/theorems/3e86809a-a9fd-45d6-b119-c239be1db13b

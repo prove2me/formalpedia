@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_extension_across_zero_of_exp_two_pi_I_bound
 -- name    : GlobalTheory.T.extension_across_zero_of_exp_two_pi_I_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:39:50.269275+00:00
 -- url     : https://prove2.me/theorems/2d7d77e4-5ec3-4ea7-854c-99f9b90c48d9

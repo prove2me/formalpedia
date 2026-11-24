@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_bideterminantDominance
 -- name    : Formalism.GradedWeylDivisibility.bideterminantDominance
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:14:45.52369+00:00
 -- url     : https://prove2.me/theorems/c3cb865a-3538-48d7-957d-c6f311228627

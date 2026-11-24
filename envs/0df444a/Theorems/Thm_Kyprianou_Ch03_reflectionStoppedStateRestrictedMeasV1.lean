@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectionStoppedStateRestrictedMeasV1
 -- name    : Kyprianou.Ch03.reflectionStoppedStateRestrictedMeasV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T21:48:00.164453+00:00
 -- url     : https://prove2.me/theorems/b63b34fa-9b3f-4c7b-b8ce-ebe204fc88e8

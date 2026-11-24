@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_killed_span_adjoin_finrank_le
 -- name    : GlobalTheory.killed_span_adjoin_finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:29.85283+00:00
 -- url     : https://prove2.me/theorems/57ebb98a-5e65-432f-ad99-c7d2dc76fd75

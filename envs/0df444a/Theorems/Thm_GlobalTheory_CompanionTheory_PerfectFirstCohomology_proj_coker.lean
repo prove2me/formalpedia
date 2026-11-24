@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_proj_coker
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.proj_coker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:02:46.167827+00:00
 -- url     : https://prove2.me/theorems/2a75a49a-73cb-44ef-baa4-3a942c2c384a

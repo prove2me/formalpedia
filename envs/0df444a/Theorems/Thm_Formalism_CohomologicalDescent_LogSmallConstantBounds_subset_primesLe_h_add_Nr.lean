@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_subset_primesLe_h_add_Nr
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.subset_primesLe_h_add_Nr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:44:57.190146+00:00
 -- url     : https://prove2.me/theorems/288d57e7-a074-4a8d-a76a-3fdaf08faf88

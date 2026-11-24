@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_CellChange_exists_lower_minors
 -- name    : GlobalTheory.Reg.CellChange.exists_lower_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:43.088621+00:00
 -- url     : https://prove2.me/theorems/127826d6-a8d1-4ef7-af48-ad80989f8ea2

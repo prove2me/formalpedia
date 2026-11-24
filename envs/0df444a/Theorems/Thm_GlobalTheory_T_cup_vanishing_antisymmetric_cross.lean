@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cup_vanishing_antisymmetric_cross
 -- name    : GlobalTheory.T.cup_vanishing_antisymmetric_cross
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:42:28.734285+00:00
 -- url     : https://prove2.me/theorems/213b8c51-8303-4db8-9b8d-aad1896f3b46

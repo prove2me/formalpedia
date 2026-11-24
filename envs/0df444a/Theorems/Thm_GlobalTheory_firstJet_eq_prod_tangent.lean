@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_firstJet_eq_prod_tangent
 -- name    : GlobalTheory.firstJet_eq_prod_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:12.996797+00:00
 -- url     : https://prove2.me/theorems/eeeec16b-50ba-447c-9433-1ad68f5ea37d

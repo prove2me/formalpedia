@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_rowDiv_xy_zero
 -- name    : Formalism.CohomologicalDescent.LA.la_rowDiv_xy_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:50:15.776515+00:00
 -- url     : https://prove2.me/theorems/acbbbfac-c3cc-46f5-8ee5-189f6646158d

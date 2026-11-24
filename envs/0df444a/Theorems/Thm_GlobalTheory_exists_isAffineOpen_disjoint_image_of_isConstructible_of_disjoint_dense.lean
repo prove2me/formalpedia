@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isAffineOpen_disjoint_image_of_isConstructible_of_disjoint_dense
 -- name    : GlobalTheory.exists_isAffineOpen_disjoint_image_of_isConstructible_of_disjoint_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:33:30.165307+00:00
 -- url     : https://prove2.me/theorems/36c987e9-c38b-4a05-910c-55da810aff81

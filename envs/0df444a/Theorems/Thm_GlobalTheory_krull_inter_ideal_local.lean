@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_krull_inter_ideal_local
 -- name    : GlobalTheory.krull_inter_ideal_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:35.485906+00:00
 -- url     : https://prove2.me/theorems/182563f6-e768-4669-a19a-f1aa9b1fed96

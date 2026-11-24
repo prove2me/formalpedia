@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_short_family_adapted
 -- name    : GlobalTheory.exists_short_family_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:14.940784+00:00
 -- url     : https://prove2.me/theorems/1c4b3db4-53a1-40ff-8268-7060af6a2d14

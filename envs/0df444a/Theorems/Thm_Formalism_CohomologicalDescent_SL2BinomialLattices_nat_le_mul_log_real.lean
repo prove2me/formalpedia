@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_nat_le_mul_log_real
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.nat_le_mul_log_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:59:26.630415+00:00
 -- url     : https://prove2.me/theorems/203dc2b2-6da2-4f99-be2e-665f6865fbec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_completedNaturalClippedStateMeasurableV1
 -- name    : Kyprianou.Ch03.completedNaturalClippedStateMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:01:02.610359+00:00
 -- url     : https://prove2.me/theorems/42bbbc19-07de-4d45-ad41-f71d672bffb3

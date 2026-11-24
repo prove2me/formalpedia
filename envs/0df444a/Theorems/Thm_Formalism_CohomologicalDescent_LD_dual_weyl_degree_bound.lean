@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_dual_weyl_degree_bound
 -- name    : Formalism.CohomologicalDescent.LD.dual_weyl_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:05:46.357748+00:00
 -- url     : https://prove2.me/theorems/75e816eb-1093-4209-ad2a-3483f9676d7f

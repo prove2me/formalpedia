@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateImage_exists_level
 -- name    : GlobalTheory.HodgeTateImage.exists_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:47:47.621296+00:00
 -- url     : https://prove2.me/theorems/af4f31e4-342c-47f5-b3f6-5bf7ec94752e

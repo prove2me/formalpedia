@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_wedgeT_eq_zero_of_symm
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.wedgeT_eq_zero_of_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:34:11.460936+00:00
 -- url     : https://prove2.me/theorems/a85d469d-c37b-41dd-b984-339717045d62

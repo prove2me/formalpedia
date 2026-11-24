@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_two_zero
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.two_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:26:08.58588+00:00
 -- url     : https://prove2.me/theorems/0eaf1b19-e481-4da1-922a-4ab418debb0d

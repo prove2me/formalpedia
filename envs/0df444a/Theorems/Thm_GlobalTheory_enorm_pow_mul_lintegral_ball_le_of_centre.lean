@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_enorm_pow_mul_lintegral_ball_le_of_centre
 -- name    : GlobalTheory.enorm_pow_mul_lintegral_ball_le_of_centre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:47.5938+00:00
 -- url     : https://prove2.me/theorems/694b9151-515e-463c-90a6-0ff31a4ce0dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isZero_homology_extendScalars_iff
 -- name    : GlobalTheory.isZero_homology_extendScalars_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:01:30.229804+00:00
 -- url     : https://prove2.me/theorems/e8ac1ee7-e542-4562-9895-d51d9d6311ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLocalRing_tensorProduct_of_finite_of_points
 -- name    : GlobalTheory.isLocalRing_tensorProduct_of_finite_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:59:41.972166+00:00
 -- url     : https://prove2.me/theorems/ba4900da-79b2-4e65-8d03-fee6917737c8

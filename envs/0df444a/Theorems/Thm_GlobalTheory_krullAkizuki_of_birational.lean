@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_krullAkizuki_of_birational
 -- name    : GlobalTheory.krullAkizuki_of_birational
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:15:15.51821+00:00
 -- url     : https://prove2.me/theorems/05d32f7a-97a8-4ef8-86fd-1483a7bff177

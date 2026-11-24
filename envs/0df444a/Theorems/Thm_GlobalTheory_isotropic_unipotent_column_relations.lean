@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isotropic_unipotent_column_relations
 -- name    : GlobalTheory.isotropic_unipotent_column_relations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:01:46.804725+00:00
 -- url     : https://prove2.me/theorems/3b0f1adc-8942-4c81-a6d3-01f400695b08

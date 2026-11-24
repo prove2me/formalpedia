@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_ringHom_complex_comp_eq_of_countable_field
 -- name    : GlobalTheory.T.exists_ringHom_complex_comp_eq_of_countable_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:27:38.890967+00:00
 -- url     : https://prove2.me/theorems/b28da958-38a2-41b9-b9ff-01e183cd005e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isClosed_subgroup_of_eq_preimage_isConstructible
 -- name    : GlobalTheory.isClosed_subgroup_of_eq_preimage_isConstructible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:56:58.061324+00:00
 -- url     : https://prove2.me/theorems/334c4589-73f6-466a-be06-a94b7eacb435

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_congr_mod_pow_residueDegreeOne_factors
 -- name    : GlobalTheory.T.exists_congr_mod_pow_residueDegreeOne_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:34:36.944548+00:00
 -- url     : https://prove2.me/theorems/525acaba-c209-4cd7-a73b-5fce957956cd

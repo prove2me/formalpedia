@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnisoSize_anisoSmall_of_shortSmall
 -- name    : GlobalTheory.AnisoSize.anisoSmall_of_shortSmall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:58:05.972087+00:00
 -- url     : https://prove2.me/theorems/42e48e92-9081-4d69-914e-59801d3b8bef

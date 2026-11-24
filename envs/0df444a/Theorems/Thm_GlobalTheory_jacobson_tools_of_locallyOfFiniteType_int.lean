@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jacobson_tools_of_locallyOfFiniteType_int
 -- name    : GlobalTheory.jacobson_tools_of_locallyOfFiniteType_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:02:57.861336+00:00
 -- url     : https://prove2.me/theorems/ab5ce4e6-f93c-4ea8-b099-d809fc5f99b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPullback_normalizationMap_of_mono
 -- name    : GlobalTheory.isPullback_normalizationMap_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:59:26.997473+00:00
 -- url     : https://prove2.me/theorems/29b52baf-7f49-4c57-96e1-283ca39a832c

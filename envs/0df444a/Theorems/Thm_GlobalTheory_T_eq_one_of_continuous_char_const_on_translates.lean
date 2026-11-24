@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_one_of_continuous_char_const_on_translates
 -- name    : GlobalTheory.T.eq_one_of_continuous_char_const_on_translates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:33:08.436876+00:00
 -- url     : https://prove2.me/theorems/271ab64a-cce7-48b6-9338-98e00dfdcaf5

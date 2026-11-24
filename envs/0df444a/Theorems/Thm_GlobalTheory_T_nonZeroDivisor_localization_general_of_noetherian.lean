@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_nonZeroDivisor_localization_general_of_noetherian
 -- name    : GlobalTheory.T.nonZeroDivisor_localization_general_of_noetherian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:55:01.00715+00:00
 -- url     : https://prove2.me/theorems/919cf18d-f70e-42bc-806c-6cd78a2e6281

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_latIncl_deltaIn_iff_dual_weyl
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.latIncl_deltaIn_iff_dual_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:08:19.17216+00:00
 -- url     : https://prove2.me/theorems/ea079518-0b4a-4102-b856-4919c19110e8

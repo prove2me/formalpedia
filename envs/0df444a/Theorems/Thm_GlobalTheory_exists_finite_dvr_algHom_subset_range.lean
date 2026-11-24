@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_dvr_algHom_subset_range
 -- name    : GlobalTheory.exists_finite_dvr_algHom_subset_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:31:30.890102+00:00
 -- url     : https://prove2.me/theorems/1090a095-1faa-49f9-a39f-02013a18fa01

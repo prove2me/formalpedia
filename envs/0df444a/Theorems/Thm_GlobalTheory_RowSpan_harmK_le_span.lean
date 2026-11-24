@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_harmK_le_span
 -- name    : GlobalTheory.RowSpan.harmK_le_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:46.89604+00:00
 -- url     : https://prove2.me/theorems/c1a71a3e-dc40-4581-b372-97f79596eb34

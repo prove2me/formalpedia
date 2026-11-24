@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_simple_subquotient_of_power_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.simple_subquotient_of_power_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:08:40.696311+00:00
 -- url     : https://prove2.me/theorems/fd8694e9-674a-405a-ad20-ffc42dec0916

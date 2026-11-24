@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_heightOneOrd_vw_ne_zero
 -- name    : GlobalTheory.finite_heightOneOrd_vw_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:45:58.527181+00:00
 -- url     : https://prove2.me/theorems/6428b5fb-0808-448b-b347-c257e0cba97d

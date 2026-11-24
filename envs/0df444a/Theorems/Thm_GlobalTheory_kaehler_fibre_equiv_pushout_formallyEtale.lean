@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_kaehler_fibre_equiv_pushout_formallyEtale
 -- name    : GlobalTheory.kaehler_fibre_equiv_pushout_formallyEtale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:02:30.543157+00:00
 -- url     : https://prove2.me/theorems/14d09590-acad-4fe9-8963-96398a00483f

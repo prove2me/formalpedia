@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_canonicalConsistentDensityExtensionV1
 -- name    : Kyprianou.Ch03.canonicalConsistentDensityExtensionV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:59:29.376865+00:00
 -- url     : https://prove2.me/theorems/ce5a93d8-17ee-412f-a624-8c24a6d7a941

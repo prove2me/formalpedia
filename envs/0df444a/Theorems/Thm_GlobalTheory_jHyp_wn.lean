@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jHyp_wn
 -- name    : GlobalTheory.jHyp_wn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:03:05.415357+00:00
 -- url     : https://prove2.me/theorems/69fdc476-dcd5-43f9-9225-6ce21d5291c5

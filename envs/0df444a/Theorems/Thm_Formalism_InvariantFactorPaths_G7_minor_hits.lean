@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_minor_hits
 -- name    : Formalism.InvariantFactorPaths.G7.minor_hits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:40.173459+00:00
 -- url     : https://prove2.me/theorems/46591ddf-25db-4760-b160-0a7a9230f6c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_injective_tensor_into_tensor_fractionFields
 -- name    : GlobalTheory.T.exists_injective_tensor_into_tensor_fractionFields
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:35:41.836997+00:00
 -- url     : https://prove2.me/theorems/b53b1103-f53d-41b2-bc07-2067b6a4debe

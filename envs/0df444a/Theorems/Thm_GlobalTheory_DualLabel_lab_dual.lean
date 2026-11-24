@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualLabel_lab_dual
 -- name    : GlobalTheory.DualLabel.lab_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:01:41.379793+00:00
 -- url     : https://prove2.me/theorems/05e94385-3118-4fd9-b854-f767ed9dc791

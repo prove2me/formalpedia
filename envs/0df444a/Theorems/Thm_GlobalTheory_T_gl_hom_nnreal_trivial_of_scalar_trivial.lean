@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gl_hom_nnreal_trivial_of_scalar_trivial
 -- name    : GlobalTheory.T.gl_hom_nnreal_trivial_of_scalar_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:40:43.023066+00:00
 -- url     : https://prove2.me/theorems/d39c6e8e-5db5-4ca4-afb0-a401fd56ffba

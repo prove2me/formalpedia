@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_canonicalPastMeasuresEqOfFiniteMarginalsV1
 -- name    : Kyprianou.Ch03.canonicalPastMeasuresEqOfFiniteMarginalsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:01:58.456863+00:00
 -- url     : https://prove2.me/theorems/65c50f3a-db85-4c31-9c73-b7a9124b1c28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_quot_range_prime_smul_eq_card_ker_mul_pow_finrank
 -- name    : GlobalTheory.T.card_quot_range_prime_smul_eq_card_ker_mul_pow_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:27:56.56921+00:00
 -- url     : https://prove2.me/theorems/0f84bfa9-968e-4915-ad86-550bdd4d0026

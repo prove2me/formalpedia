@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integralUnitaryGroup_transitive_norm_one_vectors
 -- name    : GlobalTheory.T.integralUnitaryGroup_transitive_norm_one_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:47:06.910871+00:00
 -- url     : https://prove2.me/theorems/6e429b41-18bf-4280-a4e8-c366f5c030f1

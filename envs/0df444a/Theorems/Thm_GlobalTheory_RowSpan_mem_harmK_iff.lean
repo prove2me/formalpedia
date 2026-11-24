@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_mem_harmK_iff
 -- name    : GlobalTheory.RowSpan.mem_harmK_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:11:47.568697+00:00
 -- url     : https://prove2.me/theorems/d12f05ca-434a-443b-83ee-33ed6509a65c

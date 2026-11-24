@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_bdet_cGL
 -- name    : GlobalTheory.CompanionTheory.Plucker.bdet_cGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:06:58.774594+00:00
 -- url     : https://prove2.me/theorems/a3980931-520d-4ba7-a067-7f1ddb8daf5e

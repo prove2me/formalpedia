@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_local_regular
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.local_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:01:45.200788+00:00
 -- url     : https://prove2.me/theorems/aa97c6b2-897d-4314-bc06-aeda7d340f5e

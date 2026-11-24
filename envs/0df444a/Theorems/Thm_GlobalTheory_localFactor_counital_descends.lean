@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_localFactor_counital_descends
 -- name    : GlobalTheory.localFactor_counital_descends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:08:38.159387+00:00
 -- url     : https://prove2.me/theorems/2a2e0f0b-def6-4de7-adfe-6d45f5161b40

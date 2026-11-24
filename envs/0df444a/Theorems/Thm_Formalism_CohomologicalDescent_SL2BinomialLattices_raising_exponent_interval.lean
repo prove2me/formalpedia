@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_raising_exponent_interval
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.raising_exponent_interval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:59:09.167644+00:00
 -- url     : https://prove2.me/theorems/71fc9bdc-42bd-40b4-8cde-b7ce0ee82cef

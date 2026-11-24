@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialReduction_integrate_entry_of_translation
 -- name    : GlobalTheory.T.partialReduction_integrate_entry_of_translation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:42:03.152989+00:00
 -- url     : https://prove2.me/theorems/86e02d6f-f2b8-4f87-9834-5e3685416a4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_psi_zero_eq
 -- name    : Formalism.L2.Th1.B.KNorm.psi_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:47:17.084313+00:00
 -- url     : https://prove2.me/theorems/3454aa8b-a61d-4b21-bf0a-09f27c967d92

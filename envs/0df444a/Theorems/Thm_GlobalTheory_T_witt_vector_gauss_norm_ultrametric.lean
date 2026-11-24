@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_witt_vector_gauss_norm_ultrametric
 -- name    : GlobalTheory.T.witt_vector_gauss_norm_ultrametric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:21:48.280801+00:00
 -- url     : https://prove2.me/theorems/45d3b0d9-9f35-4918-b6eb-1c669ddaeb1d

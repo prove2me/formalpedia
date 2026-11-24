@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_involution_fixed_unit_eq_mul_conj
 -- name    : GlobalTheory.T.finite_involution_fixed_unit_eq_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:39:05.763867+00:00
 -- url     : https://prove2.me/theorems/d2cd8b57-56d8-4ac9-9326-f248f76a1c94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpen_component_fibre_subtype
 -- name    : GlobalTheory.isOpen_component_fibre_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:58:51.874567+00:00
 -- url     : https://prove2.me/theorems/60088fea-6130-4af9-a5a1-6cf3e6d6a877

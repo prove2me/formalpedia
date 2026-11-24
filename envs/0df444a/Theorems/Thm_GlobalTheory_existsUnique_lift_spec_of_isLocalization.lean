@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_lift_spec_of_isLocalization
 -- name    : GlobalTheory.existsUnique_lift_spec_of_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:29:30.975197+00:00
 -- url     : https://prove2.me/theorems/145013b2-2da8-49d2-b30c-012377b63bf3

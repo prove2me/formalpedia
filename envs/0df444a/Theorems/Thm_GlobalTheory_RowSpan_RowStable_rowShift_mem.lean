@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_RowStable_rowShift_mem
 -- name    : GlobalTheory.RowSpan.RowStable.rowShift_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:32:21.284712+00:00
 -- url     : https://prove2.me/theorems/0ee15f7d-e562-4d51-b985-a9c558d27c5b

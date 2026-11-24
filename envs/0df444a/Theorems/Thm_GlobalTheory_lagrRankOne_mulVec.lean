@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lagrRankOne_mulVec
 -- name    : GlobalTheory.lagrRankOne_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:25.245931+00:00
 -- url     : https://prove2.me/theorems/00d5407a-23ab-4a03-b783-772458dd4262

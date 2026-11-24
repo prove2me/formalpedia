@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latCont_card
 -- name    : GlobalTheory.latCont_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:02:32.195+00:00
 -- url     : https://prove2.me/theorems/081d9219-c7a5-47ca-a9ae-39e6bdeb45c4

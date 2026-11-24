@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NzdDescent_of_noetherian
 -- name    : GlobalTheory.NzdDescent.of_noetherian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:38:30.313871+00:00
 -- url     : https://prove2.me/theorems/987746d4-4179-43f3-9195-5680fc9044fd

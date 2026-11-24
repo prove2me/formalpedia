@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_labelRHSPlus_monotone
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.labelRHSPlus_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:00:12.113025+00:00
 -- url     : https://prove2.me/theorems/e8687411-144f-4975-bd71-27cae7f99036

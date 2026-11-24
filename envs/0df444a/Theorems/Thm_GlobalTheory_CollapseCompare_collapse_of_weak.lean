@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_collapse_of_weak
 -- name    : GlobalTheory.CollapseCompare.collapse_of_weak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:20:03.77735+00:00
 -- url     : https://prove2.me/theorems/249a9994-2a1a-46f6-8fba-fb6dc805c3f6

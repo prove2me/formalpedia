@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_linearIndependent_adapted_to_decreasing_chain
 -- name    : GlobalTheory.exists_linearIndependent_adapted_to_decreasing_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:34:13.519106+00:00
 -- url     : https://prove2.me/theorems/b69aeb46-ee0a-4a2d-979b-dc3c5a7df4a9

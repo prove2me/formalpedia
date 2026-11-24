@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_localHom_map_mem_maximalIdeal_pow
 -- name    : GlobalTheory.localHom_map_mem_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:08:45.546386+00:00
 -- url     : https://prove2.me/theorems/d970ebb1-283c-42be-853e-6d8018136215

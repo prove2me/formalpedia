@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_incl_z_iff_incl_r
 -- name    : Formalism.CohomologicalDescent.LA.incl_z_iff_incl_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:49:53.065795+00:00
 -- url     : https://prove2.me/theorems/b850783a-5572-472b-9c76-bce8714591d2

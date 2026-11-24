@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyTimeFactorization_hasse_bound
 -- name    : PolyTimeFactorization.hasse_bound
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-16T16:13:22.252242+00:00
 -- url     : https://prove2.me/theorems/fc377003-b26e-4f80-b8d8-f7198be84783

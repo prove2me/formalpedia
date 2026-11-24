@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDomain_and_isIntegrallyClosed_localization_of_isInvariant
 -- name    : GlobalTheory.isDomain_and_isIntegrallyClosed_localization_of_isInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:56:42.072808+00:00
 -- url     : https://prove2.me/theorems/c5562c1a-d538-4e60-825b-695bdde7966f

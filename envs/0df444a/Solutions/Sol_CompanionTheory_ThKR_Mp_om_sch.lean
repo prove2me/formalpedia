@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for CompanionTheory.ThKR.Mp.om_sch
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-24T23:25:45.405063+00:00
+-- url     : https://prove2.me/submissions/8cf1c9b1-1e2b-4802-8ce0-d9accd06eef0
+
+import Definitions.Def_CompanionTheory_ThickeningEstimates_LieGroupReduction_LocalLift
+import Definitions.Def_CompanionTheory_ThickeningEstimates_LieGroupReduction_MetaplecticRepresentation_ContinuousOm
+import Theorems.Thm_CompanionTheory_ThKR_Mp_mem
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open MeasureTheory Complex SchwartzMap Matrix GlobalTheory.RealWeil CompanionTheory.ThKF.E Filter Topology CompanionTheory.ThKR.LL
+open scoped Real ContDiff
+open CompanionTheory CompanionTheory.ThKR CompanionTheory.ThKR.Mp
+variable (l : Type) [Fintype l] [DecidableEq l]
+variable {l}
+namespace CompanionTheory.ThKR.Mp
+theorem _root_.solution (g : G l) (f : Sch l) : om g (schwartzToL2 l f) = schwartzToL2 l (omS g f) := (mem g).compat f
+end CompanionTheory.ThKR.Mp

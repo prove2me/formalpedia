@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.reflectionStoppedMeasurableKernelV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T21:50:14.04963+00:00
 -- url     : https://prove2.me/submissions/2c898673-dc50-4aea-a93a-11bfb8fc7524
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch03_reflectionProductKernelIntegralV1

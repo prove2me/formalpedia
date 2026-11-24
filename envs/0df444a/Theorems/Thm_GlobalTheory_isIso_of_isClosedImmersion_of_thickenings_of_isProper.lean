@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIso_of_isClosedImmersion_of_thickenings_of_isProper
 -- name    : GlobalTheory.isIso_of_isClosedImmersion_of_thickenings_of_isProper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:59:13.261352+00:00
 -- url     : https://prove2.me/theorems/a41a1c9a-a4f2-433d-9e93-d9c74be3aa23

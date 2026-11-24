@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lift_mod_maximal_skew
 -- name    : GlobalTheory.lift_mod_maximal_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:14.440939+00:00
 -- url     : https://prove2.me/theorems/bd9c62b7-fc20-468c-853e-dbc4d800757e

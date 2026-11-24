@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_level_three_separates_tangents
 -- name    : GlobalTheory.level_three_separates_tangents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:07:16.57333+00:00
 -- url     : https://prove2.me/theorems/26014bcc-57f8-40cd-90a3-a54c66e0817a

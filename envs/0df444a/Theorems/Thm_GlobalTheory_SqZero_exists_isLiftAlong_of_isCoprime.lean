@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_exists_isLiftAlong_of_isCoprime
 -- name    : GlobalTheory.SqZero.exists_isLiftAlong_of_isCoprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:56:26.227404+00:00
 -- url     : https://prove2.me/theorems/1f8d9a64-42d7-4255-830a-1cb969d49f41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_localFactor_at_augmentation_counital_comul
 -- name    : GlobalTheory.T.localFactor_at_augmentation_counital_comul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:40.856278+00:00
 -- url     : https://prove2.me/theorems/80628320-3508-45a8-bca7-60bc418d2f41

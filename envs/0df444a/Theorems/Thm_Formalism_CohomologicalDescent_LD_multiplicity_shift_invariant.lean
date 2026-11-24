@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_multiplicity_shift_invariant
 -- name    : Formalism.CohomologicalDescent.LD.multiplicity_shift_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:52:28.973001+00:00
 -- url     : https://prove2.me/theorems/c4f02fed-9b25-4256-a662-653e986c29ec

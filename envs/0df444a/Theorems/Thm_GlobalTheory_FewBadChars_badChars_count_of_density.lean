@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FewBadChars_badChars_count_of_density
 -- name    : GlobalTheory.FewBadChars.badChars_count_of_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:13.71022+00:00
 -- url     : https://prove2.me/theorems/36938e69-e1e2-486b-8181-b1aab9576e8e

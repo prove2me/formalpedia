@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lineDerivList_comp_add_const
 -- name    : GlobalTheory.lineDerivList_comp_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:06:51.156622+00:00
 -- url     : https://prove2.me/theorems/0a04bd48-5263-4538-bb06-ad6931022d35

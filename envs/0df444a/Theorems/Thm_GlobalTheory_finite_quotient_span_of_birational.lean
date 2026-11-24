@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_quotient_span_of_birational
 -- name    : GlobalTheory.finite_quotient_span_of_birational
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:13:02.226397+00:00
 -- url     : https://prove2.me/theorems/bfd47223-985c-40f9-8be8-b31a3f0d91f7

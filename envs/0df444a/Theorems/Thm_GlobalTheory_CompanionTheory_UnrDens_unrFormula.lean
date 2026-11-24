@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_unrFormula
 -- name    : GlobalTheory.CompanionTheory.UnrDens.unrFormula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:21:39.64886+00:00
 -- url     : https://prove2.me/theorems/4676da3c-2f92-4d65-9eaf-8c544c3f8995

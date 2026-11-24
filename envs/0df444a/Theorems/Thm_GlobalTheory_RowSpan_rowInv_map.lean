@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_rowInv_map
 -- name    : GlobalTheory.RowSpan.rowInv_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:43.072962+00:00
 -- url     : https://prove2.me/theorems/b1ed799c-0d56-4eaf-ab4f-fa1832a5c9c4

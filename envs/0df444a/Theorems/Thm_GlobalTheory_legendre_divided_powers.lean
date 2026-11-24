@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_legendre_divided_powers
 -- name    : GlobalTheory.legendre_divided_powers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:03:53.070297+00:00
 -- url     : https://prove2.me/theorems/f9aa986a-41b3-4d1d-89f5-c94f45c31ffc

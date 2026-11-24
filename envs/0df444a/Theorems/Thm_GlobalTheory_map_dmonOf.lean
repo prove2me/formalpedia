@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_dmonOf
 -- name    : GlobalTheory.map_dmonOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:50.295608+00:00
 -- url     : https://prove2.me/theorems/63f26c4c-bc45-4b65-8002-9efad10c3d40

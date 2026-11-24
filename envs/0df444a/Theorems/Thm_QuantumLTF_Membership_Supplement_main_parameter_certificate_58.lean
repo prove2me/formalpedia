@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_Supplement_main_parameter_certificate_58
 -- name    : QuantumLTF.Membership.Supplement.main_parameter_certificate_58
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-24T20:17:07.524172+00:00
 -- url     : https://prove2.me/theorems/f7ecc007-e17f-40c5-b1ff-2e3f58da4b86

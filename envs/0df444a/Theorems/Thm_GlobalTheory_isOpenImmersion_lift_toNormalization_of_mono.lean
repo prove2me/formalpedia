@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpenImmersion_lift_toNormalization_of_mono
 -- name    : GlobalTheory.isOpenImmersion_lift_toNormalization_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:57:54.756455+00:00
 -- url     : https://prove2.me/theorems/7b02841c-fe9d-4ff1-a979-fe3ed2fd3025

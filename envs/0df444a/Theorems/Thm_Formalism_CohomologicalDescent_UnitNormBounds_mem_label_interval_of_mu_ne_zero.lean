@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_mem_label_interval_of_mu_ne_zero
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.mem_label_interval_of_mu_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:00:36.246666+00:00
 -- url     : https://prove2.me/theorems/ef570c68-163d-464c-b0bd-805161a2c449

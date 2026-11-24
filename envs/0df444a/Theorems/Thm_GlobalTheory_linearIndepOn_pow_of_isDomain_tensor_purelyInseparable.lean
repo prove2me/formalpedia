@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearIndepOn_pow_of_isDomain_tensor_purelyInseparable
 -- name    : GlobalTheory.linearIndepOn_pow_of_isDomain_tensor_purelyInseparable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:08.0078+00:00
 -- url     : https://prove2.me/theorems/554d16c7-d0e7-43fd-8d3f-3b1d0f245e0f

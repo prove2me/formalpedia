@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frobeniusSubalgebra_counital_comul
 -- name    : GlobalTheory.T.frobeniusSubalgebra_counital_comul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:40:47.368795+00:00
 -- url     : https://prove2.me/theorems/80cc43e7-5eed-48b6-b780-94f318468831

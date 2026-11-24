@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_highest_weight_shift_eq_det_mul
 -- name    : Formalism.CohomologicalDescent.LA.highest_weight_shift_eq_det_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:07:14.562627+00:00
 -- url     : https://prove2.me/theorems/88d32f5a-7392-461c-a73f-4379df32ba53

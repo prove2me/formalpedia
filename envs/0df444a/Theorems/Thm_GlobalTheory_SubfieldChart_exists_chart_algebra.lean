@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubfieldChart_exists_chart_algebra
 -- name    : GlobalTheory.SubfieldChart.exists_chart_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:23:22.264844+00:00
 -- url     : https://prove2.me/theorems/f5821b01-a593-454b-b107-95c09ac2411f

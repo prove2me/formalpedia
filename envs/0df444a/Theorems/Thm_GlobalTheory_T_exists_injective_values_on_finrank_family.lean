@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_injective_values_on_finrank_family
 -- name    : GlobalTheory.T.exists_injective_values_on_finrank_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:36:07.583719+00:00
 -- url     : https://prove2.me/theorems/0904962e-2f3d-4574-b3f7-765d2db9dff5

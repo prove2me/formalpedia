@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_fromBlocks_transvection_mul
 -- name    : GlobalTheory.FlatFactor.UpStage.fromBlocks_transvection_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:04:43.161485+00:00
 -- url     : https://prove2.me/theorems/5827934b-c9fa-4f34-a684-cdedee32d097

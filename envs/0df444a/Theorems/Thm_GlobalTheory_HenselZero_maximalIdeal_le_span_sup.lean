@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HenselZero_maximalIdeal_le_span_sup
 -- name    : GlobalTheory.HenselZero.maximalIdeal_le_span_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:54:15.98856+00:00
 -- url     : https://prove2.me/theorems/1594123f-24d9-40d1-a351-b79fac182618

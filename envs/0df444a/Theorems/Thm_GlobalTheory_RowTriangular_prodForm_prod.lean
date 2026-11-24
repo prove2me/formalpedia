@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowTriangular_prodForm_prod
 -- name    : GlobalTheory.RowTriangular.prodForm_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:47.111709+00:00
 -- url     : https://prove2.me/theorems/3ad99c78-f1b7-463a-8d8e-5284b1046589

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_integral_pi_pairs_even
 -- name    : GlobalTheory.FunObj.integral_pi_pairs_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:36:43.269611+00:00
 -- url     : https://prove2.me/theorems/69c839e0-9d76-4e0b-9c8d-22f10e1b9c1e

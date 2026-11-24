@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linFormEquiv_symm_linForm
 -- name    : GlobalTheory.linFormEquiv_symm_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:07:02.019872+00:00
 -- url     : https://prove2.me/theorems/e5635bdf-dc2b-408f-8861-960e5e454729

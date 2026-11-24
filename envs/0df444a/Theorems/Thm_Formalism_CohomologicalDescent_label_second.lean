@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_label_second
 -- name    : Formalism.CohomologicalDescent.label_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:30:10.392463+00:00
 -- url     : https://prove2.me/theorems/32f30b88-9332-4c78-9ca8-b9d75f6cacd1

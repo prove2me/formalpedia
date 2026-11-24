@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_primesAPInterval_of_tzRat
 -- name    : GlobalTheory.Mem.An.primesAPInterval_of_tzRat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:51:25.973975+00:00
 -- url     : https://prove2.me/theorems/2cca58dd-c3e7-410d-bf7e-2ae89f68e63f

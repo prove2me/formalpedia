@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fix_torsion_of_fix_geometric_of_etale
 -- name    : GlobalTheory.fix_torsion_of_fix_geometric_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:12.92566+00:00
 -- url     : https://prove2.me/theorems/91096179-6916-47f7-950b-b00032d27a31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylDominanceZ
 -- name    : Formalism.GradedWeylDivisibility.dualWeylDominanceZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:52:34.837203+00:00
 -- url     : https://prove2.me/theorems/182b4348-e642-4404-b87e-4e2fdc6e272c

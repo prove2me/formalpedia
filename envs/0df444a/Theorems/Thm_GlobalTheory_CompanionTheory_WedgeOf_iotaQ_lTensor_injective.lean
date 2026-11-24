@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_iotaQ_lTensor_injective
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.iotaQ_lTensor_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:31:46.012603+00:00
 -- url     : https://prove2.me/theorems/c0721ad8-a706-47a8-a93a-50e4b1a4c886

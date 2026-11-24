@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TailIntegralOfSummatory_kronecker
 -- name    : GlobalTheory.TailIntegralOfSummatory.kronecker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:51:16.967893+00:00
 -- url     : https://prove2.me/theorems/1ce594be-1ee2-4ae1-90a7-f873f4fffc2d

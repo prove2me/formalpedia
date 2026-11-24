@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOpen_of_stableUnderGeneralization_of_locally_open
 -- name    : GlobalTheory.T.isOpen_of_stableUnderGeneralization_of_locally_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:49:22.798269+00:00
 -- url     : https://prove2.me/theorems/0f2595b1-682a-4ec5-8956-8f77eebfade8

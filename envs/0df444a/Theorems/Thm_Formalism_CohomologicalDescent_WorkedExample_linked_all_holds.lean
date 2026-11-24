@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_linked_all_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.linked_all_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:01:33.571749+00:00
 -- url     : https://prove2.me/theorems/07abde58-567d-4d2b-aabf-65095d2d2e49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_leviForm_re_eq_zero
 -- name    : GlobalTheory.leviForm_re_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:05.072204+00:00
 -- url     : https://prove2.me/theorems/14af403b-f7a5-405b-a8bb-00acc91fb97f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isUnit_map_of_mem_nonZeroDivisors_tensor
 -- name    : GlobalTheory.isUnit_map_of_mem_nonZeroDivisors_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:00:58.154287+00:00
 -- url     : https://prove2.me/theorems/25408c0b-ef40-4002-b0bc-b63cdefd361e

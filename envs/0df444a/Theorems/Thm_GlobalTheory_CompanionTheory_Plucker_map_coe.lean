@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_map_coe
 -- name    : GlobalTheory.CompanionTheory.Plucker.map_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:08.809043+00:00
 -- url     : https://prove2.me/theorems/4e799897-d488-44ed-9e73-f28a42c31024

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualLabel_rootsBar_normRev
 -- name    : GlobalTheory.DualLabel.rootsBar_normRev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:01:11.8053+00:00
 -- url     : https://prove2.me/theorems/1d4b5ff3-5641-46f1-84da-32857bb15b78

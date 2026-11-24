@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_meanSq_primeFactors_outPart
 -- name    : GlobalTheory.meanSq_primeFactors_outPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:05:51.694809+00:00
 -- url     : https://prove2.me/theorems/e23042d6-2466-47bb-a821-3ec7d69c6143

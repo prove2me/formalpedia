@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventually_idealHilbertPoly_nonneg
 -- name    : GlobalTheory.eventually_idealHilbertPoly_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:05:37.055043+00:00
 -- url     : https://prove2.me/theorems/52d721f2-9acd-4494-9423-54f7705134db

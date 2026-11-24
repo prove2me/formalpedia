@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_quotient_eq_inertiaDeg
 -- name    : GlobalTheory.length_quotient_eq_inertiaDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:05:35.459414+00:00
 -- url     : https://prove2.me/theorems/2776dcf0-2192-42d1-b7e2-ddac89696f95

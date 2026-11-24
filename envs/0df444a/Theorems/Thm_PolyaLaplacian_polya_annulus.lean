@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyaLaplacian_polya_annulus
 -- name    : PolyaLaplacian.polya_annulus
--- status  : Open
+-- status  : Disproved
 -- author  : @LG
 -- created : 2026-11-18T13:52:29.940203+00:00
 -- url     : https://prove2.me/theorems/1158a7cd-1778-4703-9174-e86a75e225c8

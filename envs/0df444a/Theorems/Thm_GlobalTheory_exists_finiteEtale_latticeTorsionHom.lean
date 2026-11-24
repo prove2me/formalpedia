@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finiteEtale_latticeTorsionHom
 -- name    : GlobalTheory.exists_finiteEtale_latticeTorsionHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:28.493027+00:00
 -- url     : https://prove2.me/theorems/19f725f6-2a93-4ec0-afb5-df8ee78117ec

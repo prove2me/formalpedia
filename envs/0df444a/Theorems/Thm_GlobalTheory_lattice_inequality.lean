@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lattice_inequality
 -- name    : GlobalTheory.lattice_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:02:13.485185+00:00
 -- url     : https://prove2.me/theorems/ca68e8f6-b0eb-46cb-92cb-1313f182d9b4

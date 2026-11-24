@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_represents_eval
 -- name    : GlobalTheory.RootEx.FourierJacobi.represents_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:40:59.918955+00:00
 -- url     : https://prove2.me/theorems/c69b9429-70ac-42c5-8bca-b8d6e8b0561c

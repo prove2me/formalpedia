@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_reps_image
 -- name    : GlobalTheory.UnfoldedEntries.reps_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:47.790083+00:00
 -- url     : https://prove2.me/theorems/3f4fa8d1-8631-4512-9c3d-f27b9380dbe5

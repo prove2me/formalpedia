@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegrallyClosedIn_of_isLocalization
 -- name    : GlobalTheory.isIntegrallyClosedIn_of_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:57:07.932697+00:00
 -- url     : https://prove2.me/theorems/bada2b8a-e9ab-4a40-9d25-c7f5ebf87961

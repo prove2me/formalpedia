@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPrimitiveRoot_residue_of_isUnit
 -- name    : GlobalTheory.isPrimitiveRoot_residue_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:59:52.104877+00:00
 -- url     : https://prove2.me/theorems/4c7d6be0-8699-44d2-9db2-8d05f8a82311

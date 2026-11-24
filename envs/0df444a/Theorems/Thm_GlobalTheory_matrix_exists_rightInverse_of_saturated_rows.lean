@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_exists_rightInverse_of_saturated_rows
 -- name    : GlobalTheory.matrix_exists_rightInverse_of_saturated_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:09:46.804852+00:00
 -- url     : https://prove2.me/theorems/8e242017-b0ab-432c-a9b2-18d2969228af

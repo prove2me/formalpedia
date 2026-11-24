@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invertibleEndInnerProduct_rootPowerSum_mobius
 -- name    : GlobalTheory.T.invertibleEndInnerProduct_rootPowerSum_mobius
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:37:00.384344+00:00
 -- url     : https://prove2.me/theorems/40c0cdac-35dc-4dcf-a057-318be0370ef0

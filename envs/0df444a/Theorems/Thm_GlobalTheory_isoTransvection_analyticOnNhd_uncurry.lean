@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_analyticOnNhd_uncurry
 -- name    : GlobalTheory.isoTransvection.analyticOnNhd_uncurry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:01:03.894156+00:00
 -- url     : https://prove2.me/theorems/a5b28b5b-8828-4e3f-a6e0-103409d8c08a

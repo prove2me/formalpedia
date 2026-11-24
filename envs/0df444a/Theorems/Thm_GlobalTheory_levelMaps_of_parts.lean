@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_levelMaps_of_parts
 -- name    : GlobalTheory.levelMaps_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:06:17.355349+00:00
 -- url     : https://prove2.me/theorems/d7a6fad8-d11c-407b-a3d3-78ab28c7ab03

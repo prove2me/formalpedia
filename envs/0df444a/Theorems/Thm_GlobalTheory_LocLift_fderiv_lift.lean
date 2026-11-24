@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_fderiv_lift
 -- name    : GlobalTheory.LocLift.fderiv_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:13:16.672845+00:00
 -- url     : https://prove2.me/theorems/081eee52-7415-49c4-9499-8bc3056481ad

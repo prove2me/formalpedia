@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_cusp_pseudoBasis
 -- name    : GlobalTheory.exists_cusp_pseudoBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:30:30.072001+00:00
 -- url     : https://prove2.me/theorems/de3adaf4-0d01-4a25-9204-6d7e536c2664

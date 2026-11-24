@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_iteratedDeriv_zero_eq_zero_of_poly_bound
 -- name    : GlobalTheory.iteratedDeriv_zero_eq_zero_of_poly_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:02:19.482799+00:00
 -- url     : https://prove2.me/theorems/e22d43fa-56e3-4e69-bb2e-386a910c3075

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylRowAll_rowAct_mem_weyl
 -- name    : GlobalTheory.WeylRowAll.rowAct_mem_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:32:56.390994+00:00
 -- url     : https://prove2.me/theorems/1ac9ac0d-a3fc-412d-bafe-e6aad4caa5a6

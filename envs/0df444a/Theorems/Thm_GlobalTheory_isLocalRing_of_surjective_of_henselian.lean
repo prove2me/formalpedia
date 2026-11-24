@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLocalRing_of_surjective_of_henselian
 -- name    : GlobalTheory.isLocalRing_of_surjective_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:35:38.892009+00:00
 -- url     : https://prove2.me/theorems/dd33a675-aac4-4300-b14b-abd0724e85fa

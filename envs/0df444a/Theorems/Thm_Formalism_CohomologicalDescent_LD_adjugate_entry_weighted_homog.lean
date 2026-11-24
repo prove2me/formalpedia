@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_adjugate_entry_weighted_homog
 -- name    : Formalism.CohomologicalDescent.LD.adjugate_entry_weighted_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:17.425796+00:00
 -- url     : https://prove2.me/theorems/367e4e30-acf4-41f8-9715-0d56f9a7df55

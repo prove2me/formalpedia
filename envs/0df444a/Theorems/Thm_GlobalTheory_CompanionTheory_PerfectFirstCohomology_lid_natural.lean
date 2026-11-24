@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_lid_natural
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.lid_natural
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:01:37.786429+00:00
 -- url     : https://prove2.me/theorems/7d7823fd-8a73-4f9b-b6ec-b781e1f1df08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_quot_smul_eq_of_equiv_prod
 -- name    : GlobalTheory.card_quot_smul_eq_of_equiv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:53.436613+00:00
 -- url     : https://prove2.me/theorems/5a8eea1b-3077-47ab-b7ad-d9338d69d182

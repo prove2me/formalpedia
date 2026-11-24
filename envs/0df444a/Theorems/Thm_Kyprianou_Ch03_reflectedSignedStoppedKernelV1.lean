@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectedSignedStoppedKernelV1
 -- name    : Kyprianou.Ch03.reflectedSignedStoppedKernelV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:58:29.753304+00:00
 -- url     : https://prove2.me/theorems/d40efd0f-ab9d-48e7-ad0d-81650a177216

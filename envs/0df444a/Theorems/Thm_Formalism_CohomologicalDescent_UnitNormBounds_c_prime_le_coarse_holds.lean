@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_c_prime_le_coarse_holds
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.c_prime_le_coarse_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:01:17.067602+00:00
 -- url     : https://prove2.me/theorems/13685542-d55a-4c69-9e2e-daee84c1054f

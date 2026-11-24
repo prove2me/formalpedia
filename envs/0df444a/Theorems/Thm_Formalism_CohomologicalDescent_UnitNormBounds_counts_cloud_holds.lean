@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_counts_cloud_holds
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.counts_cloud_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:00:52.404924+00:00
 -- url     : https://prove2.me/theorems/3aa4e444-4ce8-42c0-89cf-f9684231325c

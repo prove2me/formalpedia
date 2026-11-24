@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isUnit_monoVal
 -- name    : GlobalTheory.isUnit_monoVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:01:16.219498+00:00
 -- url     : https://prove2.me/theorems/9ef83f45-b961-45d1-a9cd-8de240b2e104

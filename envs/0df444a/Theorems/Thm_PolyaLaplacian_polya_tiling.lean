@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyaLaplacian_polya_tiling
 -- name    : PolyaLaplacian.polya_tiling
--- status  : Open
+-- status  : Disproved
 -- author  : @LG
 -- created : 2026-11-17T02:25:52.76917+00:00
 -- url     : https://prove2.me/theorems/b83f4426-fd79-4184-8f80-c53665b507e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integral_norm_sq_expSum
 -- name    : GlobalTheory.integral_norm_sq_expSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:56:00.175281+00:00
 -- url     : https://prove2.me/theorems/c940e0d5-ba3d-4bf3-8cf9-bda19d98ea7b

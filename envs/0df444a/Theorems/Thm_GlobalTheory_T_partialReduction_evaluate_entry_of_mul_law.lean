@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialReduction_evaluate_entry_of_mul_law
 -- name    : GlobalTheory.T.partialReduction_evaluate_entry_of_mul_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:45:09.948532+00:00
 -- url     : https://prove2.me/theorems/f2731793-4e2c-4040-8ea8-0765adcc90e4

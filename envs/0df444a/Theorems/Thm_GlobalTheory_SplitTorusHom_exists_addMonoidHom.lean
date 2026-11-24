@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorusHom_exists_addMonoidHom
 -- name    : GlobalTheory.SplitTorusHom.exists_addMonoidHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:29.143073+00:00
 -- url     : https://prove2.me/theorems/5330ec10-da4f-44d0-bcf4-e1fad6e730ab

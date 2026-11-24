@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_det_block
 -- name    : GlobalTheory.CompanionTheory.Plucker.det_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:05:43.185517+00:00
 -- url     : https://prove2.me/theorems/c743bda6-1f00-42e1-b288-f5dd5a76c9f7

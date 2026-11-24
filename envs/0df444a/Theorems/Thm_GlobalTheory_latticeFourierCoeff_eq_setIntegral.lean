@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeFourierCoeff_eq_setIntegral
 -- name    : GlobalTheory.latticeFourierCoeff_eq_setIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:02:11.967653+00:00
 -- url     : https://prove2.me/theorems/58189c35-b89e-4b1c-8444-b7731ebea482

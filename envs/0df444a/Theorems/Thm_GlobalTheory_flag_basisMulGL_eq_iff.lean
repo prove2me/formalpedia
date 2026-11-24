@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flag_basisMulGL_eq_iff
 -- name    : GlobalTheory.flag_basisMulGL_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:51:29.315443+00:00
 -- url     : https://prove2.me/theorems/0033f631-ab68-4b1e-93f7-d20bac838d20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDominant_of_locallyQuasiFinite_affineSpace
 -- name    : GlobalTheory.isDominant_of_locallyQuasiFinite_affineSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:05:35.991807+00:00
 -- url     : https://prove2.me/theorems/7cabd32d-97bd-4b19-8ccf-556815705af0

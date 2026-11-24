@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_free_finite_module_adicComplete_and_separated
 -- name    : GlobalTheory.T.free_finite_module_adicComplete_and_separated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:08.34638+00:00
 -- url     : https://prove2.me/theorems/b1a027c2-fae7-48d5-8f74-8c7d18dd0635

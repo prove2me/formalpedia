@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latFinOrdSt
 -- name    : GlobalTheory.latFinOrdSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:03:15.977132+00:00
 -- url     : https://prove2.me/theorems/b27ec8ba-3e3b-4441-a124-30165b7fb7d4

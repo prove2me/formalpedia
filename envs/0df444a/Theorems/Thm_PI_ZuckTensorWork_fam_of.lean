@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_fam_of
 -- name    : PI.ZuckTensorWork.fam_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:03:42.879154+00:00
 -- url     : https://prove2.me/theorems/5c502d89-79d0-4fc0-a612-75f564299e30

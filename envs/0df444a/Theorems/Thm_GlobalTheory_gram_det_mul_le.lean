@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gram_det_mul_le
 -- name    : GlobalTheory.gram_det_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:53:06.540516+00:00
 -- url     : https://prove2.me/theorems/fe08894f-e3b0-4a50-8975-b565137fe808

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_stdChar_eq
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.stdChar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:06:52.187065+00:00
 -- url     : https://prove2.me/theorems/d76c718b-5175-4dac-a272-913f68f6f8b7

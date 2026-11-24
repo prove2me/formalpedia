@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_mem_lowSet
 -- name    : GlobalTheory.PartRed.mem_lowSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:09:53.923318+00:00
 -- url     : https://prove2.me/theorems/33b927aa-39d1-4561-bc0a-e31ba73f166d

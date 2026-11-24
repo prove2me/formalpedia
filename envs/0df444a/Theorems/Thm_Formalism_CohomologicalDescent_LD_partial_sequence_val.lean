@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_partial_sequence_val
 -- name    : Formalism.CohomologicalDescent.LD.partial_sequence_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:06:08.361054+00:00
 -- url     : https://prove2.me/theorems/bb85f63b-a8fd-4aa9-a16c-f160af584e76

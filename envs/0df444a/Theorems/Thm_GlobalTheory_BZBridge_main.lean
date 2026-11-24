@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BZBridge_main
 -- name    : GlobalTheory.BZBridge.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:36:20.133954+00:00
 -- url     : https://prove2.me/theorems/07e01c3a-62a9-4451-8505-8fac24a66ce8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_ipGL_psi_rootSum
 -- name    : GlobalTheory.CuspGL.ipGL_psi_rootSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:33:27.074151+00:00
 -- url     : https://prove2.me/theorems/90470fa6-4dad-4b7d-be10-5ac9717e2f52

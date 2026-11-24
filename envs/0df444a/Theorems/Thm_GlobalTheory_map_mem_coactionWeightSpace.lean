@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_mem_coactionWeightSpace
 -- name    : GlobalTheory.map_mem_coactionWeightSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:09:31.690122+00:00
 -- url     : https://prove2.me/theorems/13a50ac1-f03f-4097-8077-fc4d6898c5e0

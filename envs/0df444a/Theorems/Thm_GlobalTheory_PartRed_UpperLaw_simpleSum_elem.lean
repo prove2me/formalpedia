@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_UpperLaw_simpleSum_elem
 -- name    : GlobalTheory.PartRed.UpperLaw.simpleSum_elem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:54:04.637666+00:00
 -- url     : https://prove2.me/theorems/8a34ee55-88b9-4742-8a77-c9223282a7cf

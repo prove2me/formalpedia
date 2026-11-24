@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_canonicalProductZeroOriginMarginalsV1
 -- name    : Kyprianou.Ch03.canonicalProductZeroOriginMarginalsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:01:57.723811+00:00
 -- url     : https://prove2.me/theorems/0c86bb3d-b10d-4082-9010-45acbe74b291

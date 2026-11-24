@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hom_of_bigCell_generic_relations
 -- name    : GlobalTheory.T.exists_hom_of_bigCell_generic_relations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:32:52.847213+00:00
 -- url     : https://prove2.me/theorems/d072ba32-482d-46ec-a88c-d48bce2615c8

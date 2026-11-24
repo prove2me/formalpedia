@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jacobson_closedPoints_tools_int
 -- name    : GlobalTheory.jacobson_closedPoints_tools_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:03:10.26499+00:00
 -- url     : https://prove2.me/theorems/c0de0a5f-a7f6-48a7-af26-689ab7bd4f22

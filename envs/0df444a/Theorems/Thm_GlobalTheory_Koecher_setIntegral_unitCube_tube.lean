@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Koecher_setIntegral_unitCube_tube
 -- name    : GlobalTheory.Koecher.setIntegral_unitCube_tube
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:50.076302+00:00
 -- url     : https://prove2.me/theorems/73e5e844-75dc-4ab8-b837-ce3e50df428d

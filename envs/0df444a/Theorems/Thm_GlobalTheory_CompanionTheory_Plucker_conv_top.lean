@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_conv_top
 -- name    : GlobalTheory.CompanionTheory.Plucker.conv_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:06:30.821384+00:00
 -- url     : https://prove2.me/theorems/c9ba9090-db7a-4635-bff2-ade05668ad02

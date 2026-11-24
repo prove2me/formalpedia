@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_fourier_gauss
 -- name    : GlobalTheory.HeckePoisson.fourier_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:05:23.764589+00:00
 -- url     : https://prove2.me/theorems/07408bac-4929-4c84-a78b-cece13335660

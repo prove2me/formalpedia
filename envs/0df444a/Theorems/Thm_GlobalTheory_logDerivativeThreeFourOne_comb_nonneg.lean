@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_logDerivativeThreeFourOne_comb_nonneg
 -- name    : GlobalTheory.logDerivativeThreeFourOne.comb_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:08:12.000794+00:00
 -- url     : https://prove2.me/theorems/a8e56ac2-042d-4b15-a315-daaa782f3079

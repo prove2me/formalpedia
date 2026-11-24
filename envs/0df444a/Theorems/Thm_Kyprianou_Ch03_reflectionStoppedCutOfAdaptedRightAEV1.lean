@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectionStoppedCutOfAdaptedRightAEV1
 -- name    : Kyprianou.Ch03.reflectionStoppedCutOfAdaptedRightAEV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T21:47:45.195834+00:00
 -- url     : https://prove2.me/theorems/c422f1fe-1a7d-47d5-85b4-da00ad51931e

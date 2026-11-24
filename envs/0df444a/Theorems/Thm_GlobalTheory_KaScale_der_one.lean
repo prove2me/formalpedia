@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_der_one
 -- name    : GlobalTheory.KaScale.der_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:14.685013+00:00
 -- url     : https://prove2.me/theorems/157dcb46-47fe-42d4-9712-8caff30c7d4a

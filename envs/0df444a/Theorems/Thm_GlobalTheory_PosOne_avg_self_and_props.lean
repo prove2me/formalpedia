@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_avg_self_and_props
 -- name    : GlobalTheory.PosOne.avg_self_and_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:51:42.744683+00:00
 -- url     : https://prove2.me/theorems/0eeacfb9-f5e1-4bbc-83b6-d866efc61bb6

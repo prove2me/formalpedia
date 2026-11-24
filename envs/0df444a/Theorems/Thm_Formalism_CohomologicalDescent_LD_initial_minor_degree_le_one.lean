@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_initial_minor_degree_le_one
 -- name    : Formalism.CohomologicalDescent.LD.initial_minor_degree_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:06:05.769537+00:00
 -- url     : https://prove2.me/theorems/6b521e12-7acd-4464-827a-68c9fa5764a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussVal_lt_one_iff_map_residue
 -- name    : GlobalTheory.gaussVal_lt_one_iff_map_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:53:59.474892+00:00
 -- url     : https://prove2.me/theorems/244ad712-6105-401e-857a-2aeff825a46f

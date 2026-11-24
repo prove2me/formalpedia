@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_exp_decay_of_fourier_eq_zero_on_halfLine
 -- name    : GlobalTheory.eq_zero_of_exp_decay_of_fourier_eq_zero_on_halfLine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:19:05.827949+00:00
 -- url     : https://prove2.me/theorems/cb9157af-cfb0-4085-8cc2-8f85ef77e8ad

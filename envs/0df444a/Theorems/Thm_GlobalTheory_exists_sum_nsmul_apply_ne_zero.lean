@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sum_nsmul_apply_ne_zero
 -- name    : GlobalTheory.exists_sum_nsmul_apply_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:42:23.450397+00:00
 -- url     : https://prove2.me/theorems/8fbcc7a5-087f-4e7f-9a2c-f96ee3e90edd

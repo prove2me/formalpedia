@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_quotient_span_singleton_eq_addVal
 -- name    : GlobalTheory.length_quotient_span_singleton_eq_addVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:05:54.885032+00:00
 -- url     : https://prove2.me/theorems/3ba23cb0-e003-4e4c-90f5-36e91ed61f92

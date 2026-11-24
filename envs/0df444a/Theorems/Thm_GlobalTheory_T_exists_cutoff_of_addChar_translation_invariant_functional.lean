@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_cutoff_of_addChar_translation_invariant_functional
 -- name    : GlobalTheory.T.exists_cutoff_of_addChar_translation_invariant_functional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:20.231713+00:00
 -- url     : https://prove2.me/theorems/dbba9de8-c784-465f-8942-cf7935f2afa2

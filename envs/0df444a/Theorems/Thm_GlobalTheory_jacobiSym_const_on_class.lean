@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jacobiSym_const_on_class
 -- name    : GlobalTheory.jacobiSym_const_on_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:02:24.11008+00:00
 -- url     : https://prove2.me/theorems/43ba648d-1d91-42fb-958c-515375bfbd45

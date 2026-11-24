@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_leviForm_const_mul
 -- name    : GlobalTheory.leviForm_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:51.614176+00:00
 -- url     : https://prove2.me/theorems/613c3a4c-5806-477d-ae76-39a78bcbbd25

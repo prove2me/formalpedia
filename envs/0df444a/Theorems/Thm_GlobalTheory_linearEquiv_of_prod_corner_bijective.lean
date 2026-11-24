@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearEquiv_of_prod_corner_bijective
 -- name    : GlobalTheory.linearEquiv_of_prod_corner_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:07:12.984838+00:00
 -- url     : https://prove2.me/theorems/25dff339-96d4-4902-a3c5-162c99e4093f

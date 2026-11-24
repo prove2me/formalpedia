@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_annihilator_intersection_card
 -- name    : GlobalTheory.T.annihilator_intersection_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:26:12.598292+00:00
 -- url     : https://prove2.me/theorems/e871e8d6-d3df-4af6-9a6e-7869ec31fc30

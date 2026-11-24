@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_fromNormalization_comp
 -- name    : GlobalTheory.flat_fromNormalization_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:45.4698+00:00
 -- url     : https://prove2.me/theorems/2f9430d2-7a81-4d33-8e0c-454d5f722470

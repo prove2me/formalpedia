@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sec_relation_descends
 -- name    : GlobalTheory.sec_relation_descends
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:31.291412+00:00
 -- url     : https://prove2.me/theorems/1066d936-f7f6-4eb4-a13c-ab3a9411a093

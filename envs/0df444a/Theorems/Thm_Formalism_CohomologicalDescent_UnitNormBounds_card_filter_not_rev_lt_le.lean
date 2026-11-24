@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_card_filter_not_rev_lt_le
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.card_filter_not_rev_lt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:01:05.331346+00:00
 -- url     : https://prove2.me/theorems/a690ea94-3a5c-4af5-85d8-2d0fbd369037

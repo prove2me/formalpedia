@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addVal_algebraMap_uniformizer
 -- name    : GlobalTheory.addVal_algebraMap_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:05:46.018792+00:00
 -- url     : https://prove2.me/theorems/4be6e5b5-722f-45d9-89d7-ef15757572b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialFourierHermitianBlock_isLocallyConstant
 -- name    : GlobalTheory.T.partialFourierHermitianBlock_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:58.952157+00:00
 -- url     : https://prove2.me/theorems/bce78707-43f3-4c01-ba58-a75455daac1f

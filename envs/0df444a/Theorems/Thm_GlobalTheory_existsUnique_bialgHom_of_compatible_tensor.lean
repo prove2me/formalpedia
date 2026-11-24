@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_bialgHom_of_compatible_tensor
 -- name    : GlobalTheory.existsUnique_bialgHom_of_compatible_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:27.383358+00:00
 -- url     : https://prove2.me/theorems/89403724-18ed-48cd-bde6-6b44ff7b5d03

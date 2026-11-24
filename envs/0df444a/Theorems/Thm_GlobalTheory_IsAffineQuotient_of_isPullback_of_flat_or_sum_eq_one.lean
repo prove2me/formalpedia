@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_of_isPullback_of_flat_or_sum_eq_one
 -- name    : GlobalTheory.IsAffineQuotient.of_isPullback_of_flat_or_sum_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:28:16.644592+00:00
 -- url     : https://prove2.me/theorems/2cb13acb-7722-4459-853e-4e0be7016e93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isZero_shiftSucc_homology_zero
 -- name    : GlobalTheory.isZero_shiftSucc_homology_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:00:53.055803+00:00
 -- url     : https://prove2.me/theorems/40b50518-947d-46d9-8244-9d643dbfd7b5

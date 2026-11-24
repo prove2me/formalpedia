@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSiegel_I_smul_one
 -- name    : GlobalTheory.isSiegel_I_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:08.37483+00:00
 -- url     : https://prove2.me/theorems/729e66dc-5475-447d-be50-f6d8f841fb38

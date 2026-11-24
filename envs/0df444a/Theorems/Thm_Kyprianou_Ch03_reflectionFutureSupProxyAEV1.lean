@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectionFutureSupProxyAEV1
 -- name    : Kyprianou.Ch03.reflectionFutureSupProxyAEV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:50.342126+00:00
 -- url     : https://prove2.me/theorems/fb37f960-218d-4435-ac4b-956c4a6f2cf5

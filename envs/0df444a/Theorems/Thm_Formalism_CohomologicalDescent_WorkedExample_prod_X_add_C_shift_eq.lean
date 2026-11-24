@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_prod_X_add_C_shift_eq
 -- name    : Formalism.CohomologicalDescent.WorkedExample.prod_X_add_C_shift_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:01:52.736462+00:00
 -- url     : https://prove2.me/theorems/5d827ba9-e1b9-42d2-a2bb-5f84d4f48ed0

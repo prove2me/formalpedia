@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_connectedSpace_of_flat_of_genericFibre
 -- name    : GlobalTheory.connectedSpace_of_flat_of_genericFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:13:19.236842+00:00
 -- url     : https://prove2.me/theorems/260ebc7a-eb0b-4162-bb8e-3d947ed47cbd

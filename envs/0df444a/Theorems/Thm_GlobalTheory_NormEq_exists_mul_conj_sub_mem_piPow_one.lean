@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_exists_mul_conj_sub_mem_piPow_one
 -- name    : GlobalTheory.NormEq.exists_mul_conj_sub_mem_piPow_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:34:46.279806+00:00
 -- url     : https://prove2.me/theorems/a552ad69-e0ac-4447-9a6c-514e5d56100c

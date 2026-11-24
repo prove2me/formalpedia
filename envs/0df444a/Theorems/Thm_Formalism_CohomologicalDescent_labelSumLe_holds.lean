@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_labelSumLe_holds
 -- name    : Formalism.CohomologicalDescent.labelSumLe_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:44:00.84854+00:00
 -- url     : https://prove2.me/theorems/16a4366b-a2ad-4fbf-a9d1-3a8fd171f758

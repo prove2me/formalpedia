@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_functional_zero_of_fibre_integral_zero
 -- name    : GlobalTheory.T.schwartzBruhat_functional_zero_of_fibre_integral_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:57:12.182243+00:00
 -- url     : https://prove2.me/theorems/945730ae-b924-4566-8e85-4175eef57449

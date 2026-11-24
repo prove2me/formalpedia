@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_units_quotient
 -- name    : GlobalTheory.UnitDiscAlg.units_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:30:37.960421+00:00
 -- url     : https://prove2.me/theorems/7817d3f8-6fdf-4c7c-a3cd-f4eeed2abdbd

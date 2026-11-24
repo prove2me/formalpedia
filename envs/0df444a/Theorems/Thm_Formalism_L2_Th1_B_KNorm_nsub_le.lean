@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_nsub_le
 -- name    : Formalism.L2.Th1.B.KNorm.nsub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:47:11.954954+00:00
 -- url     : https://prove2.me/theorems/f51b4f88-3dda-485d-88ea-a816025bb185

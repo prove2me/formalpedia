@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_meanSq_cn_eq_zero
 -- name    : GlobalTheory.meanSq_cn_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:11.39081+00:00
 -- url     : https://prove2.me/theorems/ab330349-9bbd-4266-a5b0-58737e95c3e8

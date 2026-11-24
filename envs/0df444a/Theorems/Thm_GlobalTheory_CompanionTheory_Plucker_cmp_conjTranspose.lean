@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_cmp_conjTranspose
 -- name    : GlobalTheory.CompanionTheory.Plucker.cmp_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:06:54.800901+00:00
 -- url     : https://prove2.me/theorems/212435fd-03cc-4511-b275-4d5bbbb609e8

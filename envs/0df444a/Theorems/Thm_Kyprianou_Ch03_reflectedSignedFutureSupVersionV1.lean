@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectedSignedFutureSupVersionV1
 -- name    : Kyprianou.Ch03.reflectedSignedFutureSupVersionV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:04:21.884844+00:00
 -- url     : https://prove2.me/theorems/3244bc1e-f9ff-4372-b50f-a5f512fe6f47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_representing_of_comp_idempotent_of_nondegenerate
 -- name    : GlobalTheory.T.exists_representing_of_comp_idempotent_of_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:35.676018+00:00
 -- url     : https://prove2.me/theorems/83c5feee-e9e2-4541-a8a0-ea87c197d826

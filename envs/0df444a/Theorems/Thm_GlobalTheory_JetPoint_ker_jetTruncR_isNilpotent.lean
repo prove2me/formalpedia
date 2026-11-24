@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetPoint_ker_jetTruncR_isNilpotent
 -- name    : GlobalTheory.JetPoint.ker_jetTruncR_isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:34.533277+00:00
 -- url     : https://prove2.me/theorems/0b2d1da8-f84e-4a41-999d-a37182bfef92

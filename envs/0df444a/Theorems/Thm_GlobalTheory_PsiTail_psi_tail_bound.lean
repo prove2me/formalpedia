@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiTail_psi_tail_bound
 -- name    : GlobalTheory.PsiTail.psi_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:51:10.442247+00:00
 -- url     : https://prove2.me/theorems/e8426fcb-b8bc-4680-a9e8-3adc23f3c60b

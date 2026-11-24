@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_localization_isDomain_isIntegrallyClosed_of_finset_subring
 -- name    : GlobalTheory.localization_isDomain_isIntegrallyClosed_of_finset_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:08:14.207223+00:00
 -- url     : https://prove2.me/theorems/6cbec21f-cbe5-4751-bdc4-2dd56b7998a3

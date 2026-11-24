@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittGauss_weight_add_trunc
 -- name    : GlobalTheory.WittGauss.weight_add_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:14:29.294516+00:00
 -- url     : https://prove2.me/theorems/6df881db-c042-4bd1-a745-4b359d7009f9
