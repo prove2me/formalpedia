@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_follower_card_lower_bound
 -- name    : BalanceSpecification.FiveSymbol.follower_card_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:06.554368+00:00
 -- url     : https://prove2.me/theorems/ba38a27b-ff5d-46ba-a8c1-8f3d8b969e12

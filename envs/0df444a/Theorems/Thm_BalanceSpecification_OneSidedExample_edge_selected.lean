@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_edge_selected
 -- name    : BalanceSpecification.OneSidedExample.edge_selected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:35.567918+00:00
 -- url     : https://prove2.me/theorems/b74112ab-5c71-4c3a-b934-f8f0994fbc40

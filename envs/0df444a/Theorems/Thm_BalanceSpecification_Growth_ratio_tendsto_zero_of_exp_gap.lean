@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_Growth_ratio_tendsto_zero_of_exp_gap
 -- name    : BalanceSpecification.Growth.ratio_tendsto_zero_of_exp_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:52.867827+00:00
 -- url     : https://prove2.me/theorems/8afc85ad-8762-4c39-9856-56b914b0cd1c

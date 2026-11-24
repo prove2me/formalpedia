@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_lowAnnulusProjection
 -- name    : DimdPolyLEAN.lowAnnulusProjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:53.614272+00:00
 -- url     : https://prove2.me/theorems/9cfaf7d6-7c0a-431d-882c-0bbb172c8303

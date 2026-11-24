@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_rightCrossingCover_card_le
 -- name    : BalanceSpecification.FiveSymbol.rightCrossingCover_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:42.531813+00:00
 -- url     : https://prove2.me/theorems/da9189a9-d4eb-47c8-b93b-4e019217f2c1

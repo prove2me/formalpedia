@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_uniform_occurrences_of_avoidance_ratio_tendsto_zero
 -- name    : BalanceSpecification.exists_uniform_occurrences_of_avoidance_ratio_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:46.031047+00:00
 -- url     : https://prove2.me/theorems/2e9969df-e0a5-4047-852f-d1937f408961

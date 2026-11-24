@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGeneratingExpansionCoeff_eq_zero_of_odd_add
 -- name    : DimdPolyLEAN.realHermiteGeneratingExpansionCoeff_eq_zero_of_odd_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:05.006223+00:00
 -- url     : https://prove2.me/theorems/2dd31589-3c3b-4303-837e-be7d9cd4e02c

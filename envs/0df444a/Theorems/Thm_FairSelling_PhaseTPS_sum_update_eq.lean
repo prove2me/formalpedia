@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_sum_update_eq
 -- name    : FairSelling.PhaseTPS.sum_update_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:00:33.225462+00:00
 -- url     : https://prove2.me/theorems/14d51487-ef64-42f9-b017-69c5f79effb8

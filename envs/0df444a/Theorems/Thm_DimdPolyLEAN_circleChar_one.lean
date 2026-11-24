@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_circleChar_one
 -- name    : DimdPolyLEAN.circleChar_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:41.527386+00:00
 -- url     : https://prove2.me/theorems/31d4e7f0-27b4-4528-8bb0-d483e94fa0ba

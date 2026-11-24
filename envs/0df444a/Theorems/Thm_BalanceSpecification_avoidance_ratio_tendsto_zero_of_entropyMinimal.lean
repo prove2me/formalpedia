@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_avoidance_ratio_tendsto_zero_of_entropyMinimal
 -- name    : BalanceSpecification.avoidance_ratio_tendsto_zero_of_entropyMinimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:15.891059+00:00
 -- url     : https://prove2.me/theorems/cf4ec48a-b095-49de-b4ae-8fafe1ab160b

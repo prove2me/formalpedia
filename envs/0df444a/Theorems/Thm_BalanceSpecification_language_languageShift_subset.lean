@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_language_languageShift_subset
 -- name    : BalanceSpecification.language_languageShift_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:24.967712+00:00
 -- url     : https://prove2.me/theorems/0093c4ea-f7a1-4a68-aeeb-91a68bf51e43

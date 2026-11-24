@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_Walk_exists_runWord
 -- name    : BalanceSpecification.OneSidedExample.Walk.exists_runWord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:13.739122+00:00
 -- url     : https://prove2.me/theorems/db9a9b51-042f-4f81-b5c8-d0562d569486

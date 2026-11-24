@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_qkn_structure
 -- name    : HermitekLEAN.qkn_structure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:29:49.019251+00:00
 -- url     : https://prove2.me/theorems/703479f7-ada1-43eb-aa6c-27de76f1a320

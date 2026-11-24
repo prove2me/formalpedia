@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_measurePreserving_mapClusterPt_finiteOrbitProbability
 -- name    : BalanceSpecification.exists_measurePreserving_mapClusterPt_finiteOrbitProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:43:52.726658+00:00
 -- url     : https://prove2.me/theorems/9a5ede18-4831-4582-a508-4fbf125f7036

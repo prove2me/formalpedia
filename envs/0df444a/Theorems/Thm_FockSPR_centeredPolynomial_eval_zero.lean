@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_centeredPolynomial_eval_zero
 -- name    : FockSPR.centeredPolynomial_eval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:35.056495+00:00
 -- url     : https://prove2.me/theorems/7cc81ddd-4da0-4a7b-bc44-4cc28f2eda9c

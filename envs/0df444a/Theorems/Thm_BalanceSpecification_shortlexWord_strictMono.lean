@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_shortlexWord_strictMono
 -- name    : BalanceSpecification.shortlexWord_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:30.829798+00:00
 -- url     : https://prove2.me/theorems/d92eeb9b-9dd7-46f0-9ecb-a7956328ea59

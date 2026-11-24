@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_highAnnulusDegreeBounds
 -- name    : Hermite1DimdLEAN.highAnnulusDegreeBounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:55.411806+00:00
 -- url     : https://prove2.me/theorems/94b54baf-f36d-4432-87d6-63b93888c0a6

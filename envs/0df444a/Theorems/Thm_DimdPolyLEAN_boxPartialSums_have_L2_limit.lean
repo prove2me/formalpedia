@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_boxPartialSums_have_L2_limit
 -- name    : DimdPolyLEAN.boxPartialSums_have_L2_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:29:39.242972+00:00
 -- url     : https://prove2.me/theorems/4251fdbe-4089-42c6-bd83-8ab2e0c85ee7

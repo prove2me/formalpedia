@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_ae_modulus_to_pointwise_modulus
 -- name    : DimdPolyLEAN.ae_modulus_to_pointwise_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:37.327607+00:00
 -- url     : https://prove2.me/theorems/47bc0d55-8578-4e29-85ea-c6bd853f803b

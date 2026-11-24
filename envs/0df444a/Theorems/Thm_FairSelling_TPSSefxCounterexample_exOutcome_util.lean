@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPSSefxCounterexample_exOutcome_util
 -- name    : FairSelling.TPSSefxCounterexample.exOutcome_util
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:53.87766+00:00
 -- url     : https://prove2.me/theorems/9f05a6e2-9c54-4182-8e0a-ad5969eb3f87

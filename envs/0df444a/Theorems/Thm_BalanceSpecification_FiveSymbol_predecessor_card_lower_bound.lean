@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_predecessor_card_lower_bound
 -- name    : BalanceSpecification.FiveSymbol.predecessor_card_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:12.552609+00:00
 -- url     : https://prove2.me/theorems/802035a6-9212-4075-ae88-116622d39967

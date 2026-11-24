@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Tsw_disj
 -- name    : ULHC.Tsw_disj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:01.058342+00:00
 -- url     : https://prove2.me/theorems/3f82076d-5ac8-4fb2-854f-cc08e05de75b

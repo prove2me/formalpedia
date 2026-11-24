@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Good_isCell
 -- name    : ULHC.Good.isCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:48.865026+00:00
 -- url     : https://prove2.me/theorems/65c9098a-1902-4599-9d6d-ae8396fbcc0a

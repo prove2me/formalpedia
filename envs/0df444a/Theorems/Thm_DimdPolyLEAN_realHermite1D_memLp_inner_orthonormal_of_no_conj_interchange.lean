@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermite1D_memLp_inner_orthonormal_of_no_conj_interchange
 -- name    : DimdPolyLEAN.realHermite1D_memLp_inner_orthonormal_of_no_conj_interchange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:04.527803+00:00
 -- url     : https://prove2.me/theorems/5bead579-c11a-4e69-acce-2740688c7e04

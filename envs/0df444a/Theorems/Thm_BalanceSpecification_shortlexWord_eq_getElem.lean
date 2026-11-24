@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_shortlexWord_eq_getElem
 -- name    : BalanceSpecification.shortlexWord_eq_getElem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:48:33.336054+00:00
 -- url     : https://prove2.me/theorems/3e165521-b87a-4ac0-8b42-55293d5d56a7

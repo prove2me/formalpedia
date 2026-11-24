@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_norm_character_sum_range_le
 -- name    : Formalism.ZeroFreeDirichlet.norm_character_sum_range_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:21.136192+00:00
 -- url     : https://prove2.me/theorems/1f4b8583-8d6e-4294-9f01-b9519c3138fe

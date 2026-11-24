@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_block_annulus_leakage
 -- name    : FockSPR.block_annulus_leakage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:22.333206+00:00
 -- url     : https://prove2.me/theorems/c21e9562-4211-42c4-a6be-559aefcf02a6

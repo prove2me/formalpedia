@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ZeroPrice_truncBundle_le_two_thr
 -- name    : FairSelling.ZeroPrice.truncBundle_le_two_thr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:55:38.314865+00:00
 -- url     : https://prove2.me/theorems/48d81683-a093-423b-9767-79dabdf8e3bc

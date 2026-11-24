@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_vertexWords_card
 -- name    : BalanceSpecification.OneSidedExample.vertexWords_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:44:29.212843+00:00
 -- url     : https://prove2.me/theorems/3b6a4e5f-8e17-4214-a794-612d358116a9

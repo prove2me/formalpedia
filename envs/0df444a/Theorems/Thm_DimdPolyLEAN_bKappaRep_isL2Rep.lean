@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_bKappaRep_isL2Rep
 -- name    : DimdPolyLEAN.bKappaRep_isL2Rep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:37.903356+00:00
 -- url     : https://prove2.me/theorems/e86e609d-738f-45c2-9a3a-f7886524310b

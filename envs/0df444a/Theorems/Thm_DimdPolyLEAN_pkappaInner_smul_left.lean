@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_pkappaInner_smul_left
 -- name    : DimdPolyLEAN.pkappaInner_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:12.351787+00:00
 -- url     : https://prove2.me/theorems/322d3103-3e1f-4e38-9537-467a61acf17b

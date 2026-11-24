@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_cstep_of_unserved_claimant
 -- name    : FairSelling.ChargeTPS.cstep_of_unserved_claimant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:51.403799+00:00
 -- url     : https://prove2.me/theorems/53c88d00-6342-43b8-bbbe-1924e16d96cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteTensorL2_orthonormal
 -- name    : DimdPolyLEAN.realHermiteTensorL2_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:34.616336+00:00
 -- url     : https://prove2.me/theorems/36571bb9-0362-42d4-8c42-97631151d7f4

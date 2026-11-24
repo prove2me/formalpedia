@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_prefix_mem_initialObstructions
 -- name    : BalanceSpecification.FiveSymbol.prefix_mem_initialObstructions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:32.117131+00:00
 -- url     : https://prove2.me/theorems/52f823af-4ea6-40af-a6ba-e8ea66ffda54

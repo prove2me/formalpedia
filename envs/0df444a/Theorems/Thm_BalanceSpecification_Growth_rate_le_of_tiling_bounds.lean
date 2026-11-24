@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_Growth_rate_le_of_tiling_bounds
 -- name    : BalanceSpecification.Growth.rate_le_of_tiling_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:02.925583+00:00
 -- url     : https://prove2.me/theorems/19089a1e-ec84-413b-9a02-b4f74f706ed9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_Cavg_pos
 -- name    : DimdPolyLEAN.Cavg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:02.289238+00:00
 -- url     : https://prove2.me/theorems/0abbc8a3-53fa-42df-be8a-c83cb571c03b

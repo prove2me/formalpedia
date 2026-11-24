@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_exists_phase_positivePhaseGauge
 -- name    : DimdPolyLEAN.exists_phase_positivePhaseGauge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:55.933464+00:00
 -- url     : https://prove2.me/theorems/2cb4ce87-5e6c-449b-b96f-8832e2c678cb

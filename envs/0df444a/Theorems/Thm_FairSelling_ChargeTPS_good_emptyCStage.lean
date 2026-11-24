@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_good_emptyCStage
 -- name    : FairSelling.ChargeTPS.good_emptyCStage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:58.036003+00:00
 -- url     : https://prove2.me/theorems/7fd2cae2-5b9c-41fb-a77b-fad4b928a3f7

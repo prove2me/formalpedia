@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_pow_four_mul_wordCount_le
 -- name    : BalanceSpecification.FiveSymbol.pow_four_mul_wordCount_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:59.590116+00:00
 -- url     : https://prove2.me/theorems/767f3531-540c-4cdb-9993-767f303e8456

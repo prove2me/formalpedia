@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_cdescent_inner
 -- name    : FairSelling.ChargeTPS.cdescent_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:13.99745+00:00
 -- url     : https://prove2.me/theorems/ef169475-51bf-41cb-b914-f9b18031ba08

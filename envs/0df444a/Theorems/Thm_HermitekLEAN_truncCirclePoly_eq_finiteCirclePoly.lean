@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_truncCirclePoly_eq_finiteCirclePoly
 -- name    : HermitekLEAN.truncCirclePoly_eq_finiteCirclePoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:30:11.39581+00:00
 -- url     : https://prove2.me/theorems/197bc0c5-ac0c-4d13-bfc5-0b69ff7adbb8

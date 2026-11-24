@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPSSefxCounterexample_exThreshold
 -- name    : FairSelling.TPSSefxCounterexample.exThreshold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:39:26.834862+00:00
 -- url     : https://prove2.me/theorems/0395ae7e-fcbb-438c-8efe-0b59a686367f

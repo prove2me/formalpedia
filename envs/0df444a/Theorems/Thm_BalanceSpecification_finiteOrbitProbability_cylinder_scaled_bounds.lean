@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_finiteOrbitProbability_cylinder_scaled_bounds
 -- name    : BalanceSpecification.finiteOrbitProbability_cylinder_scaled_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:58.77518+00:00
 -- url     : https://prove2.me/theorems/1b68fc5e-3b82-4a99-a763-7caedbc949d1

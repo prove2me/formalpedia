@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_orthogonalReduction_exists_phase
 -- name    : FockSPR.orthogonalReduction_exists_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:04.195719+00:00
 -- url     : https://prove2.me/theorems/f8d29148-78e6-4e53-a4f4-b5ed2b33de5d

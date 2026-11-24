@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_uniform_occurrences_of_avoiding_ratio_lt
 -- name    : BalanceSpecification.uniform_occurrences_of_avoiding_ratio_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:47.898549+00:00
 -- url     : https://prove2.me/theorems/8d38fb97-fa30-4dee-93a5-f87bb57ebdba

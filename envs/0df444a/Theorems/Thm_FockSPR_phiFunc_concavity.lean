@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_phiFunc_concavity
 -- name    : FockSPR.phiFunc_concavity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:09.953571+00:00
 -- url     : https://prove2.me/theorems/6f1d6e9e-374e-4383-ae18-52761923e80b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_CfgTPS_not_adm_keep_all
 -- name    : FairSelling.CfgTPS.not_adm_keep_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:35.366379+00:00
 -- url     : https://prove2.me/theorems/e540b113-b89c-447f-a4b3-e8816001049d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_norm_character_sum_Icc_le
 -- name    : Formalism.ZeroFreeDirichlet.norm_character_sum_Icc_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:41:07.358922+00:00
 -- url     : https://prove2.me/theorems/21fd2367-b02a-4c70-b916-cee5b8415a1d

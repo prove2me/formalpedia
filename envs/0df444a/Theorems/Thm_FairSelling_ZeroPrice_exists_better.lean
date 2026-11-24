@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ZeroPrice_exists_better
 -- name    : FairSelling.ZeroPrice.exists_better
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:55:45.534589+00:00
 -- url     : https://prove2.me/theorems/5606b103-e060-403f-9978-94dddf68cd3c

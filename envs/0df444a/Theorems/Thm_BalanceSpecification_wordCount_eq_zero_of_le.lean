@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_wordCount_eq_zero_of_le
 -- name    : BalanceSpecification.wordCount_eq_zero_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:51.741746+00:00
 -- url     : https://prove2.me/theorems/c05e9690-7e3f-49cf-8679-dff0e7f30509

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_thr_le_req
 -- name    : FairSelling.PotTPS.QStage.thr_le_req
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:23.323271+00:00
 -- url     : https://prove2.me/theorems/356ce102-bdf8-48f0-9fa9-c5f26bd823e9

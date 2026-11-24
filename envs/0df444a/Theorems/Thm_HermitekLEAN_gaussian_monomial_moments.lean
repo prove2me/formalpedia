@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_gaussian_monomial_moments
 -- name    : HermitekLEAN.gaussian_monomial_moments
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:29:43.818071+00:00
 -- url     : https://prove2.me/theorems/14dcd9ed-a7d9-4f6f-89f1-a493a07962aa

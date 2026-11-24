@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_ambiguityRep_congr_left
 -- name    : DimdPolyLEAN.ambiguityRep_congr_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:28:35.082126+00:00
 -- url     : https://prove2.me/theorems/a06c3c27-f164-4057-b3b9-9bd3b887fe0e

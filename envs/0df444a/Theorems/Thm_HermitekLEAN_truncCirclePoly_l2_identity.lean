@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_truncCirclePoly_l2_identity
 -- name    : HermitekLEAN.truncCirclePoly_l2_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:30:40.418414+00:00
 -- url     : https://prove2.me/theorems/e32ecb50-c1e3-4487-b939-ead1f598cf87

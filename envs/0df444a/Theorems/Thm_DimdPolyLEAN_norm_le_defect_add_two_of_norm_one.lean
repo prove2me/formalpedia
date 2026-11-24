@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_norm_le_defect_add_two_of_norm_one
 -- name    : DimdPolyLEAN.norm_le_defect_add_two_of_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:02.311114+00:00
 -- url     : https://prove2.me/theorems/5db2db24-8d5a-47f9-b080-1eb5c0d97a4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_partial_pressure_le_one_of_entropy_lt
 -- name    : BalanceSpecification.sGap_partial_pressure_le_one_of_entropy_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:34.853211+00:00
 -- url     : https://prove2.me/theorems/41744716-17a8-4e81-bf86-3442e893d025

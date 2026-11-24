@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_rankOneRecoveryFromAmbiguity
 -- name    : DimdPolyLEAN.rankOneRecoveryFromAmbiguity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:17.497482+00:00
 -- url     : https://prove2.me/theorems/3f7812ad-438d-41eb-9794-7d571beec98b

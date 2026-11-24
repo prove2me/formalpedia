@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_bad_follower_card_le_sum
 -- name    : BalanceSpecification.FiveSymbol.bad_follower_card_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:57.933513+00:00
 -- url     : https://prove2.me/theorems/23538e0f-5b5b-40b1-a8e4-53e1ea9b7f8f

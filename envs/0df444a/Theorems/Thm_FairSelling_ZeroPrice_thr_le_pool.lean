@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ZeroPrice_thr_le_pool
 -- name    : FairSelling.ZeroPrice.thr_le_pool
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:55:36.139205+00:00
 -- url     : https://prove2.me/theorems/33da9ae7-8612-48aa-a41a-1355a536c955

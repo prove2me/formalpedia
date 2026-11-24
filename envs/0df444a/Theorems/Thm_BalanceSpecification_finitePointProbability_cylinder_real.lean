@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_finitePointProbability_cylinder_real
 -- name    : BalanceSpecification.finitePointProbability_cylinder_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:41.972032+00:00
 -- url     : https://prove2.me/theorems/32a0e254-e5ea-4ea3-8173-2da8c51b490e

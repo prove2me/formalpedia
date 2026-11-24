@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_no_conj_interchange_of_finite_sum
 -- name    : DimdPolyLEAN.realHermiteGenerating_no_conj_interchange_of_finite_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:47.175187+00:00
 -- url     : https://prove2.me/theorems/74eac9a2-583d-4ebf-8e8b-3c959afc9528

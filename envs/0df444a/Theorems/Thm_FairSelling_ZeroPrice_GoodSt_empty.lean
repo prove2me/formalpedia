@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ZeroPrice_GoodSt_empty
 -- name    : FairSelling.ZeroPrice.GoodSt_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:55:15.719565+00:00
 -- url     : https://prove2.me/theorems/315635ab-3691-4341-88d6-3b90e8f5b3c0

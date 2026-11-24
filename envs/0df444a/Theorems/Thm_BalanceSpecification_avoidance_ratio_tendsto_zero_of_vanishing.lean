@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_avoidance_ratio_tendsto_zero_of_vanishing
 -- name    : BalanceSpecification.avoidance_ratio_tendsto_zero_of_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:54.719804+00:00
 -- url     : https://prove2.me/theorems/868801c5-2e11-4cfd-b3fd-dddbe3d5e9ee

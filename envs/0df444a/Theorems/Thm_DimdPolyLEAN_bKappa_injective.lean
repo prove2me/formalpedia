@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_bKappa_injective
 -- name    : DimdPolyLEAN.bKappa_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:38.593308+00:00
 -- url     : https://prove2.me/theorems/66e44f8f-4bb2-4192-886b-5f4e9407e130

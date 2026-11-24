@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_short_suffix_forbiddenWord
 -- name    : BalanceSpecification.FiveSymbol.short_suffix_forbiddenWord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:19.406243+00:00
 -- url     : https://prove2.me/theorems/e7f33b0c-e5d9-4a06-9732-af45fd71884d

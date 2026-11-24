@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_uniform_occurrences_of_entropyMinimal_biBalanced
 -- name    : BalanceSpecification.uniform_occurrences_of_entropyMinimal_biBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:25.047934+00:00
 -- url     : https://prove2.me/theorems/38cb7a64-2b1a-48a1-a1fa-43eb73616e2a

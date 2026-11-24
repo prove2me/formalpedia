@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MoneyGoods_trunc_eq_price_of_mem_soldGoods
 -- name    : FairSelling.MoneyGoods.trunc_eq_price_of_mem_soldGoods
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:12.31162+00:00
 -- url     : https://prove2.me/theorems/e3f84698-a9a5-4d89-a0fe-d67cfa56df5f

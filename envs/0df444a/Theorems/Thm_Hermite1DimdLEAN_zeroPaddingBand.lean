@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_zeroPaddingBand
 -- name    : Hermite1DimdLEAN.zeroPaddingBand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:01.008609+00:00
 -- url     : https://prove2.me/theorems/1d8e1edf-c5cc-475b-ab17-1d2d6386b263

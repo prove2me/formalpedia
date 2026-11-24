@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_centered_cylinder_subset_open
 -- name    : BalanceSpecification.exists_centered_cylinder_subset_open
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:22.10941+00:00
 -- url     : https://prove2.me/theorems/1acbb693-bd09-403d-bd25-d6e87ab92ed6

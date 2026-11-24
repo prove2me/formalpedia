@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_circleBadConst_pos
 -- name    : DimdPolyLEAN.circleBadConst_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:12.972675+00:00
 -- url     : https://prove2.me/theorems/d545c501-888c-4243-989b-485444348eff

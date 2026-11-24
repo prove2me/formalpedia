@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_bad_predecessor_card_le_sum
 -- name    : BalanceSpecification.FiveSymbol.bad_predecessor_card_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:57.612819+00:00
 -- url     : https://prove2.me/theorems/f1630275-eea8-4b41-84cd-038d9c075ac2

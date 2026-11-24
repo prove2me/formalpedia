@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_concat_twos_mem_language
 -- name    : BalanceSpecification.FiveSymbol.concat_twos_mem_language
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:52:04.234803+00:00
 -- url     : https://prove2.me/theorems/5b843c40-fb8d-4977-b7c7-7e2fe56cdc98

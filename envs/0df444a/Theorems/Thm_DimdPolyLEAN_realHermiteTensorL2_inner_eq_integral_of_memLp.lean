@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteTensorL2_inner_eq_integral_of_memLp
 -- name    : DimdPolyLEAN.realHermiteTensorL2_inner_eq_integral_of_memLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:10.076697+00:00
 -- url     : https://prove2.me/theorems/b87f39e9-b4f3-4207-b6b5-5a16fe5e22e5

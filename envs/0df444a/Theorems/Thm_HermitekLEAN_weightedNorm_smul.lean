@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_weightedNorm_smul
 -- name    : HermitekLEAN.weightedNorm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:30:04.136477+00:00
 -- url     : https://prove2.me/theorems/c5c5f0ec-75ac-4f5d-b3ba-9a77d565242f

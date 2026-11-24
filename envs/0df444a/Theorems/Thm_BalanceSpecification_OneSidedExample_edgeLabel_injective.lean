@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_edgeLabel_injective
 -- name    : BalanceSpecification.OneSidedExample.edgeLabel_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:39.787453+00:00
 -- url     : https://prove2.me/theorems/5538259d-42c3-4599-affb-96c8db484f18

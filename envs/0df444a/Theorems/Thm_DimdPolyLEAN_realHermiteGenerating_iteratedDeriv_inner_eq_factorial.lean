@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_iteratedDeriv_inner_eq_factorial
 -- name    : DimdPolyLEAN.realHermiteGenerating_iteratedDeriv_inner_eq_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:45.653804+00:00
 -- url     : https://prove2.me/theorems/7d169269-5d0e-41f7-bd9d-8b9443c75d70

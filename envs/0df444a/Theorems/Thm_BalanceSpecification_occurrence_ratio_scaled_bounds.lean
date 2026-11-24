@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_occurrence_ratio_scaled_bounds
 -- name    : BalanceSpecification.occurrence_ratio_scaled_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:07.734805+00:00
 -- url     : https://prove2.me/theorems/1e148b3b-4706-4c13-a1f6-a2f27f880e54

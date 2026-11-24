@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_LocalFockSPR_constants
 -- name    : FockSPR.LocalFockSPR_constants
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:31.236203+00:00
 -- url     : https://prove2.me/theorems/36343ee8-155f-4615-829f-9f4329d87b66

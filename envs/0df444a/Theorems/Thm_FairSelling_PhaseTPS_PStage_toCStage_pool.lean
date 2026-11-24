@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_PStage_toCStage_pool
 -- name    : FairSelling.PhaseTPS.PStage.toCStage_pool
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:59:03.14809+00:00
 -- url     : https://prove2.me/theorems/f84bfa3d-0e93-4ff9-b1b3-e3e3096b19b3

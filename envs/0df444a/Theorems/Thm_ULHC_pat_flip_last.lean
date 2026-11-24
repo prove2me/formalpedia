@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_pat_flip_last
 -- name    : ULHC.pat_flip_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:11.289108+00:00
 -- url     : https://prove2.me/theorems/8fd6b4ce-6d43-42a8-8ca7-b04f8e242449

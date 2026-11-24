@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrthogonalReduction_local_stability
 -- name    : OrthogonalReduction.local_stability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:20.829902+00:00
 -- url     : https://prove2.me/theorems/a422d980-464c-484a-91cc-971f5638c357

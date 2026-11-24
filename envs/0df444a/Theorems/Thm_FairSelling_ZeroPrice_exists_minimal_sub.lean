@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ZeroPrice_exists_minimal_sub
 -- name    : FairSelling.ZeroPrice.exists_minimal_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:55:13.026048+00:00
 -- url     : https://prove2.me/theorems/22cf6ff1-d15d-47ec-8c39-ada89e2ef9f8

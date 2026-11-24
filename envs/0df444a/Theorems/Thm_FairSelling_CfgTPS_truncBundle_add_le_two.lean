@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_CfgTPS_truncBundle_add_le_two
 -- name    : FairSelling.CfgTPS.truncBundle_add_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:31:53.108011+00:00
 -- url     : https://prove2.me/theorems/bd0dcb2e-2f96-46ea-863d-f4152ed0b51f

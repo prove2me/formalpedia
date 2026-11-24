@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_singleton_four_suffix_forbiddenWord
 -- name    : BalanceSpecification.FiveSymbol.singleton_four_suffix_forbiddenWord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:01.989147+00:00
 -- url     : https://prove2.me/theorems/747aa982-cd0c-471b-af6a-22e63f4371b5

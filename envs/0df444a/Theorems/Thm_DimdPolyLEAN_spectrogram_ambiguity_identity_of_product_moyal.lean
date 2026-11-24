@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_spectrogram_ambiguity_identity_of_product_moyal
 -- name    : DimdPolyLEAN.spectrogram_ambiguity_identity_of_product_moyal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:29:12.855598+00:00
 -- url     : https://prove2.me/theorems/244ebd67-cb0e-4023-849a-646d3009c138

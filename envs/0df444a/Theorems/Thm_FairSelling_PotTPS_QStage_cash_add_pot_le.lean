@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_cash_add_pot_le
 -- name    : FairSelling.PotTPS.QStage.cash_add_pot_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:04.270809+00:00
 -- url     : https://prove2.me/theorems/2620a642-bbdc-495c-ad30-76ecbc97c2a0

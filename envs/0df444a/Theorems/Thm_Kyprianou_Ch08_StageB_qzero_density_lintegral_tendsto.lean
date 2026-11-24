@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_qzero_density_lintegral_tendsto
 -- name    : Kyprianou.Ch08.StageB.qzero_density_lintegral_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:58:25.943824+00:00
 -- url     : https://prove2.me/theorems/e32d189f-3515-4504-a8a3-68f746e7711b

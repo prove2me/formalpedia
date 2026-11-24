@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ZeroPrice_vbarSum_eq_bval
 -- name    : FairSelling.ZeroPrice.vbarSum_eq_bval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:55:18.763487+00:00
 -- url     : https://prove2.me/theorems/d57c6889-f0f4-4abf-b4aa-865e7bf2be0d

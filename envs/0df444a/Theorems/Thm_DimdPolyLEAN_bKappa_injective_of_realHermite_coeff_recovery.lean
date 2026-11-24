@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_bKappa_injective_of_realHermite_coeff_recovery
 -- name    : DimdPolyLEAN.bKappa_injective_of_realHermite_coeff_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:35.331637+00:00
 -- url     : https://prove2.me/theorems/aad1f496-0783-4e95-a304-cbb5da5b427e

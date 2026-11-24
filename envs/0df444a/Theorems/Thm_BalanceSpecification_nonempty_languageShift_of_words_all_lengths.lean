@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_nonempty_languageShift_of_words_all_lengths
 -- name    : BalanceSpecification.nonempty_languageShift_of_words_all_lengths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:48:06.771625+00:00
 -- url     : https://prove2.me/theorems/5479f5d5-e870-47b3-80db-acc1b4c8bbc9

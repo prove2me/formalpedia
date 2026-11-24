@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_stftRep_congr_left
 -- name    : DimdPolyLEAN.stftRep_congr_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:28:23.957801+00:00
 -- url     : https://prove2.me/theorems/1551fab8-fd06-41ae-868f-b121e29372aa

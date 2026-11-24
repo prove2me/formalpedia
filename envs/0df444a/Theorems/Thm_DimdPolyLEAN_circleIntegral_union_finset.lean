@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_circleIntegral_union_finset
 -- name    : DimdPolyLEAN.circleIntegral_union_finset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:56.373051+00:00
 -- url     : https://prove2.me/theorems/8043802b-9de0-44f6-a1d4-361d85f04d1b

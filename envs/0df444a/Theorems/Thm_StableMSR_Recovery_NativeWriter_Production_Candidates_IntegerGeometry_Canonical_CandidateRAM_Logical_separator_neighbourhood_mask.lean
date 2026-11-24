@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_separator_neighbourhood_mask
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.separator_neighbourhood_mask
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-24T02:31:39.076594+00:00
 -- url     : https://prove2.me/theorems/52d8e2e7-7d8a-459a-b811-d8447c922112

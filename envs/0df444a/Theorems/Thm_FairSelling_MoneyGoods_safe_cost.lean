@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MoneyGoods_safe_cost
 -- name    : FairSelling.MoneyGoods.safe_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:04.154447+00:00
 -- url     : https://prove2.me/theorems/dea8ac98-f3bb-4036-b881-b875d781b1b0

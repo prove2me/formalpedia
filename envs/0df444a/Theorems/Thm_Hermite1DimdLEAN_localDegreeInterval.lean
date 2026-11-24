@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_localDegreeInterval
 -- name    : Hermite1DimdLEAN.localDegreeInterval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:57.602724+00:00
 -- url     : https://prove2.me/theorems/c545cc0f-065b-4cae-ac07-0e946bee2d3b

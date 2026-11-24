@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_getElem_two_bridge
 -- name    : BalanceSpecification.FiveSymbol.getElem_two_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:03.701263+00:00
 -- url     : https://prove2.me/theorems/7a71f0e5-46b3-4a99-88d2-d13ac4e1053c

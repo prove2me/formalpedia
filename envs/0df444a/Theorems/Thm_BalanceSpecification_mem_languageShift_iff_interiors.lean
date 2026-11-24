@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_mem_languageShift_iff_interiors
 -- name    : BalanceSpecification.mem_languageShift_iff_interiors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:25.559804+00:00
 -- url     : https://prove2.me/theorems/3365f953-ea0c-4173-80d8-f4b92a795edc

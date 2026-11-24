@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_uniformLowAnnulusWidthBound
 -- name    : Hermite1DimdLEAN.uniformLowAnnulusWidthBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:09.550419+00:00
 -- url     : https://prove2.me/theorems/6dcff946-c9f2-4e7c-a836-074a777bb9e1

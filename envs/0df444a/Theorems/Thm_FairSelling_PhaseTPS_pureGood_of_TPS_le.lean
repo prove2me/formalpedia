@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_pureGood_of_TPS_le
 -- name    : FairSelling.PhaseTPS.pureGood_of_TPS_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:51.015285+00:00
 -- url     : https://prove2.me/theorems/b099f54e-b373-427b-9c37-9ac83d0508db

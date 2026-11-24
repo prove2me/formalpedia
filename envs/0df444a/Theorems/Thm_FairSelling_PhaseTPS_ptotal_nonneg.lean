@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_ptotal_nonneg
 -- name    : FairSelling.PhaseTPS.ptotal_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:00:05.276446+00:00
 -- url     : https://prove2.me/theorems/0eba7f46-d23e-46ae-ab40-2da4c41609e6

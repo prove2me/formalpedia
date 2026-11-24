@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_bKappa_injective_of_realHermite_orthonormal
 -- name    : DimdPolyLEAN.bKappa_injective_of_realHermite_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:42.020614+00:00
 -- url     : https://prove2.me/theorems/a6fc89f5-5217-45d3-8941-bc38602bec05

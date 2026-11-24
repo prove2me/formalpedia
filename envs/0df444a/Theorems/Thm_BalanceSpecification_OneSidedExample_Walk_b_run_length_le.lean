@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_Walk_b_run_length_le
 -- name    : BalanceSpecification.OneSidedExample.Walk.b_run_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:47.07679+00:00
 -- url     : https://prove2.me/theorems/daaa38ba-9863-41d7-935f-374515962bae

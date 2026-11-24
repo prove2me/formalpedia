@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_freq_count_localPoly
 -- name    : FockSPR.freq_count_localPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:48.655129+00:00
 -- url     : https://prove2.me/theorems/8b1ba536-f697-4e21-99c1-453907ccd5f4

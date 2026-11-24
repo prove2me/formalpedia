@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_GeneralTPS_exists_eps_TPS_CSafeU_of_step
 -- name    : FairSelling.GeneralTPS.exists_eps_TPS_CSafeU_of_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:47.289289+00:00
 -- url     : https://prove2.me/theorems/be7a86be-02fc-4411-a56e-bb846db02882

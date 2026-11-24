@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_norm_stftRep_le
 -- name    : DimdPolyLEAN.norm_stftRep_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:28:58.807829+00:00
 -- url     : https://prove2.me/theorems/e1ca4b0f-0f71-4d36-973e-d720abaecb43

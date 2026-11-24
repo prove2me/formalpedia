@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_initialized_separator_tables
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.initialized_separator_tables
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-24T02:28:53.961782+00:00
 -- url     : https://prove2.me/theorems/9d80a147-4351-4e01-a5c2-4c6b1bf52877

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_qzero_scale_q_continuity_and_monotonicity
 -- name    : Kyprianou.Ch08.StageB.qzero_scale_q_continuity_and_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:15:44.16639+00:00
 -- url     : https://prove2.me/theorems/c8da3cd9-7913-4eab-aa8a-2dbc419778c9

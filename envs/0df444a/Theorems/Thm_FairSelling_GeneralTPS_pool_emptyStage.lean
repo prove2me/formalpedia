@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_GeneralTPS_pool_emptyStage
 -- name    : FairSelling.GeneralTPS.pool_emptyStage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:55:43.042808+00:00
 -- url     : https://prove2.me/theorems/d816a4f7-398b-48eb-a789-b470ebc2df92

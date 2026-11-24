@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_lhs_unifiedOutcome
 -- name    : FairSelling.lhs_unifiedOutcome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:39:14.342904+00:00
 -- url     : https://prove2.me/theorems/d25eab1f-b2a8-48b9-97e3-e646ed36c3e6

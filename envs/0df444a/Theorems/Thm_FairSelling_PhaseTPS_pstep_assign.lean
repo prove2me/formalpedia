@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_pstep_assign
 -- name    : FairSelling.PhaseTPS.pstep_assign
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:00:44.695371+00:00
 -- url     : https://prove2.me/theorems/0a5f5f63-1eb9-4883-a608-4fd8f9f7996a

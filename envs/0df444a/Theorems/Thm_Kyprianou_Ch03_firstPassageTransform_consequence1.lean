@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_firstPassageTransform_consequence1
 -- name    : Kyprianou.Ch03.firstPassageTransform_consequence1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:03:25.929581+00:00
 -- url     : https://prove2.me/theorems/b64a0afd-0aaf-4604-9c18-b000fc8f2781

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_specification_shift_of_entropy
 -- name    : BalanceSpecification.exists_specification_shift_of_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:01.232945+00:00
 -- url     : https://prove2.me/theorems/f74b96ec-ca22-4720-b797-48df6ba34f1e

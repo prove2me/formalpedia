@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_renewalCount_le_pow
 -- name    : BalanceSpecification.renewalCount_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:47:37.401474+00:00
 -- url     : https://prove2.me/theorems/28396c07-ca4f-4def-aaf6-aa3506194c82

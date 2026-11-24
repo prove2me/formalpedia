@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_irreducible
 -- name    : BalanceSpecification.FiveSymbol.irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:52:17.604876+00:00
 -- url     : https://prove2.me/theorems/7dddc587-94d3-434c-8d42-d1675d4e1407

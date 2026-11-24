@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_coeff_recovery
 -- name    : DimdPolyLEAN.coeff_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:21.783922+00:00
 -- url     : https://prove2.me/theorems/cd3c84ef-849b-4915-8360-7fc9df19db2a

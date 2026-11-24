@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_circleChar_carrierArc_arcParam
 -- name    : DimdPolyLEAN.circleChar_carrierArc_arcParam
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:51.215801+00:00
 -- url     : https://prove2.me/theorems/a603915d-df9b-49be-862e-2aadec052c02

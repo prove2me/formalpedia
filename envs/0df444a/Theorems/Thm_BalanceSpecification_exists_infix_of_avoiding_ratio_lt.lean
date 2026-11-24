@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_infix_of_avoiding_ratio_lt
 -- name    : BalanceSpecification.exists_infix_of_avoiding_ratio_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:43.34555+00:00
 -- url     : https://prove2.me/theorems/7092978f-f1d5-4722-afa1-0d5b71b8b620

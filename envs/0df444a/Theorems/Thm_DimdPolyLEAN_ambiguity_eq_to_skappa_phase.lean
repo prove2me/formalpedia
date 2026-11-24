@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_ambiguity_eq_to_skappa_phase
 -- name    : DimdPolyLEAN.ambiguity_eq_to_skappa_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:24.792835+00:00
 -- url     : https://prove2.me/theorems/cf78b06f-3bb4-44c3-b622-0c3e2ea60ded

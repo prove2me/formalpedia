@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_suffix_mem_terminalObstructions
 -- name    : BalanceSpecification.FiveSymbol.suffix_mem_terminalObstructions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:30.221342+00:00
 -- url     : https://prove2.me/theorems/44adccf0-e0b7-4a05-bac6-095d472b8f2a

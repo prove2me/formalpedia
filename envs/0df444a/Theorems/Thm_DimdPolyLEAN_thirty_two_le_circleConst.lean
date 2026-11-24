@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_thirty_two_le_circleConst
 -- name    : DimdPolyLEAN.thirty_two_le_circleConst
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:37.039315+00:00
 -- url     : https://prove2.me/theorems/1fd9a6d2-21d1-489a-834c-3c14da819129

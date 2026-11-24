@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_binary_specification_shift_of_entropy_lt_log_two
 -- name    : BalanceSpecification.exists_binary_specification_shift_of_entropy_lt_log_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:55.838796+00:00
 -- url     : https://prove2.me/theorems/52f01ddb-d547-4e53-bf2b-d5e10515c9e2

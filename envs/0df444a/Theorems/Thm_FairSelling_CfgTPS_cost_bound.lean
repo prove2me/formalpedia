@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_CfgTPS_cost_bound
 -- name    : FairSelling.CfgTPS.cost_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:31:50.687944+00:00
 -- url     : https://prove2.me/theorems/29254d02-d791-4c7d-b7a5-b9501389bbb3

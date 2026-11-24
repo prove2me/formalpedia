@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_circleIntegral_split_compl
 -- name    : DimdPolyLEAN.circleIntegral_split_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:56.62502+00:00
 -- url     : https://prove2.me/theorems/b647d55f-1973-46d7-9a8e-80a0aaaf56c8

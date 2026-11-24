@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_shift_nonempty
 -- name    : BalanceSpecification.FiveSymbol.shift_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:07.990734+00:00
 -- url     : https://prove2.me/theorems/9f161571-152f-4b05-b1f1-8672dbbbdfa2

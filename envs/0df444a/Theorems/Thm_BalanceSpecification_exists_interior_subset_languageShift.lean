@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_interior_subset_languageShift
 -- name    : BalanceSpecification.exists_interior_subset_languageShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:29.171108+00:00
 -- url     : https://prove2.me/theorems/976cb433-273e-4e75-89fc-05e9d295d93a

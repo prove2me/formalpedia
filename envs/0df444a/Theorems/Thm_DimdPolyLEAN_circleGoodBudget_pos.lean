@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_circleGoodBudget_pos
 -- name    : DimdPolyLEAN.circleGoodBudget_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:23.121635+00:00
 -- url     : https://prove2.me/theorems/71bde37f-f56b-4b28-aa92-399e86944d23

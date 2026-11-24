@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_singleton_zero_mem_language
 -- name    : BalanceSpecification.FiveSymbol.singleton_zero_mem_language
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:05.321879+00:00
 -- url     : https://prove2.me/theorems/fae167d4-98ee-4372-bfce-d05a19cc8b6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_creach_succ
 -- name    : ULHC.creach_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:36:25.499455+00:00
 -- url     : https://prove2.me/theorems/ee7bb2b3-dc0a-41cc-b718-3d12b9077d04

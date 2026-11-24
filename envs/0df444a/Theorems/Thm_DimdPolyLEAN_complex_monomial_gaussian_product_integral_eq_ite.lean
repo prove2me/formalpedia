@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_complex_monomial_gaussian_product_integral_eq_ite
 -- name    : DimdPolyLEAN.complex_monomial_gaussian_product_integral_eq_ite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:02.501804+00:00
 -- url     : https://prove2.me/theorems/27a38d51-e699-4fe3-863c-4f87170a1250

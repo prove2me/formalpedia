@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_stft_model_modulus
 -- name    : DimdPolyLEAN.stft_model_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:04.657123+00:00
 -- url     : https://prove2.me/theorems/ca57558f-eaec-4850-8bff-61850db5c9f6

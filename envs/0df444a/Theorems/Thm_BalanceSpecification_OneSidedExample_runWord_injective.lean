@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_runWord_injective
 -- name    : BalanceSpecification.OneSidedExample.runWord_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:39.316649+00:00
 -- url     : https://prove2.me/theorems/d91fdda6-2a2a-4f85-b454-f044a6907ba9

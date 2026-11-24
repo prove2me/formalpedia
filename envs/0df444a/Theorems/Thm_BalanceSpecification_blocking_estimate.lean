@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_blocking_estimate
 -- name    : BalanceSpecification.blocking_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:08.278799+00:00
 -- url     : https://prove2.me/theorems/f337c09d-9880-4f79-b1aa-81991f54d62a

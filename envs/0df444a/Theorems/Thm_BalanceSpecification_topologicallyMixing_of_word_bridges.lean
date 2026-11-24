@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_topologicallyMixing_of_word_bridges
 -- name    : BalanceSpecification.topologicallyMixing_of_word_bridges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:22.124265+00:00
 -- url     : https://prove2.me/theorems/73767ff1-d072-4f22-b5fb-d6b889056795

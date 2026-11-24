@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_PKappa_isPolynomial
 -- name    : DimdPolyLEAN.PKappa_isPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:54.451881+00:00
 -- url     : https://prove2.me/theorems/d5c8607e-9924-48be-9e8d-ea1e2a40a361

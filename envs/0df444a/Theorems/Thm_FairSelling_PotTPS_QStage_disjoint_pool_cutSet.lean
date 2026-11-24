@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_disjoint_pool_cutSet
 -- name    : FairSelling.PotTPS.QStage.disjoint_pool_cutSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:55.361839+00:00
 -- url     : https://prove2.me/theorems/cb85b639-f81d-4c56-a5ae-bd4658f06f9e

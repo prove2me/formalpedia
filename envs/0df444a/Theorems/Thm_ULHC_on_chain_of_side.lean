@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_on_chain_of_side
 -- name    : ULHC.on_chain_of_side
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:36:10.728483+00:00
 -- url     : https://prove2.me/theorems/47a96e73-c51b-4d9d-9c1a-5bad446f5d54

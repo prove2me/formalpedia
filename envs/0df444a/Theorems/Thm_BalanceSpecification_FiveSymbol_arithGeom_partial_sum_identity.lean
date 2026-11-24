@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_arithGeom_partial_sum_identity
 -- name    : BalanceSpecification.FiveSymbol.arithGeom_partial_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:58.234649+00:00
 -- url     : https://prove2.me/theorems/950f9ece-fce3-4beb-8d17-906f2193c607

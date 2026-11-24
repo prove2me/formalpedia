@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_block_padded_zero
 -- name    : BalanceSpecification.FiveSymbol.block_padded_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:43.958185+00:00
 -- url     : https://prove2.me/theorems/b235c681-87de-4503-9659-bad8c0d4cce3

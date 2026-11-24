@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPSSefxCounterexample_exBagValue
 -- name    : FairSelling.TPSSefxCounterexample.exBagValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:45.75199+00:00
 -- url     : https://prove2.me/theorems/906173f3-6b8c-4f72-9b25-6e6beac6aeb5

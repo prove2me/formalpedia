@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_initialObstructions_card_le
 -- name    : BalanceSpecification.FiveSymbol.initialObstructions_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:20.547793+00:00
 -- url     : https://prove2.me/theorems/db944475-ff5d-4d19-98de-8f4a60f73680

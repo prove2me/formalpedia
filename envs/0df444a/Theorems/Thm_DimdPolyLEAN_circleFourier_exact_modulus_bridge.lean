@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_circleFourier_exact_modulus_bridge
 -- name    : DimdPolyLEAN.circleFourier_exact_modulus_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:29:44.615795+00:00
 -- url     : https://prove2.me/theorems/bf53f0e3-98ef-46b3-b733-4a3ef73cdcbd

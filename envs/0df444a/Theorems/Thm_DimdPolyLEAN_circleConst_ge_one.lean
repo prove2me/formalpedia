@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_circleConst_ge_one
 -- name    : DimdPolyLEAN.circleConst_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:28.947023+00:00
 -- url     : https://prove2.me/theorems/1b23a0a1-ce4a-4f42-aa8a-8b36caabb45d

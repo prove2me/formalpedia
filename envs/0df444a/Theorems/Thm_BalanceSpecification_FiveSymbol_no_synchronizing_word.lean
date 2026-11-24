@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_no_synchronizing_word
 -- name    : BalanceSpecification.FiveSymbol.no_synchronizing_word
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:02.444852+00:00
 -- url     : https://prove2.me/theorems/ce78069f-cf87-4037-8315-854b95dab4ee

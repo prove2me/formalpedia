@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteTensorL2_orthonormal_of_memLp_integral
 -- name    : DimdPolyLEAN.realHermiteTensorL2_orthonormal_of_memLp_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:11.997841+00:00
 -- url     : https://prove2.me/theorems/093295d7-f9ee-46ca-bd3c-6aea3f46d38d

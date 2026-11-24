@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_runWord_walk
 -- name    : BalanceSpecification.OneSidedExample.runWord_walk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:34.819352+00:00
 -- url     : https://prove2.me/theorems/a87a4e24-5cdd-4076-a8b7-259d93827c01

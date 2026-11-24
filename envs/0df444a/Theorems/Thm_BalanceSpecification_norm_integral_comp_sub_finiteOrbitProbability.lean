@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_norm_integral_comp_sub_finiteOrbitProbability
 -- name    : BalanceSpecification.norm_integral_comp_sub_finiteOrbitProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:32.720806+00:00
 -- url     : https://prove2.me/theorems/09f1f619-b989-4dc1-8c4f-bd1daad360ca

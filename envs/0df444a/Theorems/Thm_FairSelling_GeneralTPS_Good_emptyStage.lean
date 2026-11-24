@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_GeneralTPS_Good_emptyStage
 -- name    : FairSelling.GeneralTPS.Good_emptyStage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:55:50.793893+00:00
 -- url     : https://prove2.me/theorems/84d0a3c5-2618-4b8f-9672-927673fa2f06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_unequal_mem_code
 -- name    : BalanceSpecification.OneSidedExample.unequal_mem_code
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:27.392739+00:00
 -- url     : https://prove2.me/theorems/7559f8ec-28fe-4d71-8ed8-cfec760902f2

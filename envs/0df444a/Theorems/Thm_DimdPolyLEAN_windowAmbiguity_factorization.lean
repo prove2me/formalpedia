@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_windowAmbiguity_factorization
 -- name    : DimdPolyLEAN.windowAmbiguity_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:03.556283+00:00
 -- url     : https://prove2.me/theorems/37ba529e-962e-4d03-99e2-57e128d13bed

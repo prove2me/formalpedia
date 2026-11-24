@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_wordCount_tail_le
 -- name    : BalanceSpecification.FiveSymbol.wordCount_tail_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:04.234288+00:00
 -- url     : https://prove2.me/theorems/0f97f0c6-7d50-4df2-918f-4864bfca2c1c

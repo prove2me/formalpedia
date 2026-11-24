@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_src_subset_sold
 -- name    : FairSelling.PotTPS.QStage.src_subset_sold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:29.297367+00:00
 -- url     : https://prove2.me/theorems/a0fc81a4-a4da-4100-96f3-0974e318dab9

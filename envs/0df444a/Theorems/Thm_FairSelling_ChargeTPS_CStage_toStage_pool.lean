@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_CStage_toStage_pool
 -- name    : FairSelling.ChargeTPS.CStage.toStage_pool
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:20.254401+00:00
 -- url     : https://prove2.me/theorems/0b412fe3-3479-4437-883a-aeabaaa3b52c

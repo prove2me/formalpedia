@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_circle_representation
 -- name    : HermitekLEAN.circle_representation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:30:51.080309+00:00
 -- url     : https://prove2.me/theorems/fc832261-6721-4d4b-81a2-19d863ce5377

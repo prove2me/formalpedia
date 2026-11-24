@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_blockLocalization
 -- name    : Hermite1DimdLEAN.blockLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:00.799604+00:00
 -- url     : https://prove2.me/theorems/4c9700e7-b635-46f4-846e-c8071766061c

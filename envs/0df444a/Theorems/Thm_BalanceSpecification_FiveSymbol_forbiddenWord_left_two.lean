@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_forbiddenWord_left_two
 -- name    : BalanceSpecification.FiveSymbol.forbiddenWord_left_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:42.366614+00:00
 -- url     : https://prove2.me/theorems/c122720f-0003-47c8-b3c7-941be6a7d7b7

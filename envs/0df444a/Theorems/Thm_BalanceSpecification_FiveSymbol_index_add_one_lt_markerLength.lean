@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_index_add_one_lt_markerLength
 -- name    : BalanceSpecification.FiveSymbol.index_add_one_lt_markerLength
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:25.356613+00:00
 -- url     : https://prove2.me/theorems/fe81ede1-5bb8-418f-955a-d1320efc7311

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_productBasisLocalization
 -- name    : Hermite1DimdLEAN.productBasisLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:53.157827+00:00
 -- url     : https://prove2.me/theorems/67ed3854-5a67-4a51-943c-fac5bfb44eaf

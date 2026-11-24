@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_markerLeft_append_shortlex_mem
 -- name    : BalanceSpecification.FiveSymbol.markerLeft_append_shortlex_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:40.429542+00:00
 -- url     : https://prove2.me/theorems/ab68109f-5a67-42a7-85f8-bd9936c91280

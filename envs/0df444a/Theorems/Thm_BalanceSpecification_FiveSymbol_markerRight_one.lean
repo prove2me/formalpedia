@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_markerRight_one
 -- name    : BalanceSpecification.FiveSymbol.markerRight_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:49.511333+00:00
 -- url     : https://prove2.me/theorems/8485472d-a6a6-4b11-8243-278c93b30970

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_block_isInfix_block
 -- name    : BalanceSpecification.block_isInfix_block
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:10.616813+00:00
 -- url     : https://prove2.me/theorems/00d441c1-6b3b-4ccd-b697-1689921d52b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_bank_nonneg
 -- name    : FairSelling.PotTPS.QStage.bank_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:09.440407+00:00
 -- url     : https://prove2.me/theorems/4a359066-41dd-4995-85dd-8fe96594b23c

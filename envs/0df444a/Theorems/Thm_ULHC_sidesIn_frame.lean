@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_sidesIn_frame
 -- name    : ULHC.sidesIn_frame
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:03.081079+00:00
 -- url     : https://prove2.me/theorems/65589c82-7c12-46d4-9085-bed4d0393131

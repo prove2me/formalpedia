@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_step_serve
 -- name    : FairSelling.ChargeTPS.step_serve
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:23.423633+00:00
 -- url     : https://prove2.me/theorems/b18c2efb-aade-4f2f-b83e-8191e4384fec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGeneratingExpansionCoeff_eq_even_add_closed
 -- name    : DimdPolyLEAN.realHermiteGeneratingExpansionCoeff_eq_even_add_closed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:36.524282+00:00
 -- url     : https://prove2.me/theorems/b622dccb-bc3a-4783-a93f-5a0517f86d94

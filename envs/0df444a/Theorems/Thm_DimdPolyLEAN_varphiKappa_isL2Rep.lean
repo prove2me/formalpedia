@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_varphiKappa_isL2Rep
 -- name    : DimdPolyLEAN.varphiKappa_isL2Rep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:30.225546+00:00
 -- url     : https://prove2.me/theorems/f57a0246-17a9-46c1-a134-b93b22387192

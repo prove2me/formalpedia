@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_shortlexThrough_prefix
 -- name    : BalanceSpecification.shortlexThrough_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:11.793388+00:00
 -- url     : https://prove2.me/theorems/184a163c-ad71-43fc-a67a-bd3238c7ea93

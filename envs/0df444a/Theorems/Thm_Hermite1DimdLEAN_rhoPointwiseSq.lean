@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_rhoPointwiseSq
 -- name    : Hermite1DimdLEAN.rhoPointwiseSq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:22.51516+00:00
 -- url     : https://prove2.me/theorems/2e480eb3-2c69-47fd-8e1e-e725936c3d70

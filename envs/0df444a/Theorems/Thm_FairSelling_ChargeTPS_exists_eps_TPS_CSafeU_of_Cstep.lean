@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_exists_eps_TPS_CSafeU_of_Cstep
 -- name    : FairSelling.ChargeTPS.exists_eps_TPS_CSafeU_of_Cstep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:20.381997+00:00
 -- url     : https://prove2.me/theorems/77d0e258-88c6-455c-af39-3a034dff794f

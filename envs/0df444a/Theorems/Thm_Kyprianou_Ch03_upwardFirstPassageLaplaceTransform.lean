@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_upwardFirstPassageLaplaceTransform
 -- name    : Kyprianou.Ch03.upwardFirstPassageLaplaceTransform
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T16:42:11.262853+00:00
 -- url     : https://prove2.me/theorems/1dd49557-7191-4dc6-9514-a2f27e94bec6

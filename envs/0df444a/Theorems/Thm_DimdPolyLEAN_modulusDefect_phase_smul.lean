@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_modulusDefect_phase_smul
 -- name    : DimdPolyLEAN.modulusDefect_phase_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:24.644597+00:00
 -- url     : https://prove2.me/theorems/db0081ff-8909-4cc9-9d35-2da1c6815a18

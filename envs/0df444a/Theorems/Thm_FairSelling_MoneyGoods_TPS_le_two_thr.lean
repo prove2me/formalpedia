@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MoneyGoods_TPS_le_two_thr
 -- name    : FairSelling.MoneyGoods.TPS_le_two_thr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:04.227127+00:00
 -- url     : https://prove2.me/theorems/c39c02a0-fa87-41c6-992b-2919fa3d3ec7

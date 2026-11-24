@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_finiteCircleCoeff_eq_zero_outside
 -- name    : HermitekLEAN.finiteCircleCoeff_eq_zero_outside
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:30:14.213816+00:00
 -- url     : https://prove2.me/theorems/cb2216d7-a8e8-46a5-a877-c0b6d8b1fd29

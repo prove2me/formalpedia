@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_toFun_as_L2_eq_boxLimit
 -- name    : DimdPolyLEAN.toFun_as_L2_eq_boxLimit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:21:20.606342+00:00
 -- url     : https://prove2.me/theorems/7b9ba193-d4c0-4b9e-bf56-70acf17fcfa4

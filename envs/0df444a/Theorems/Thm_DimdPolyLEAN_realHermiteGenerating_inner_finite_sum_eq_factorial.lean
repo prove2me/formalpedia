@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_inner_finite_sum_eq_factorial
 -- name    : DimdPolyLEAN.realHermiteGenerating_inner_finite_sum_eq_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:44.399205+00:00
 -- url     : https://prove2.me/theorems/8da7e6fd-5659-4765-93b2-a04fe43b8303

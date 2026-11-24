@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermite1D_memLp_inner_orthonormal
 -- name    : DimdPolyLEAN.realHermite1D_memLp_inner_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:21.835155+00:00
 -- url     : https://prove2.me/theorems/74fdcf39-b8cc-43cf-a8b8-aed8d9a03ada

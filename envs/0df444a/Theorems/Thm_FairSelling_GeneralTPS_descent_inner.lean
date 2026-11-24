@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_GeneralTPS_descent_inner
 -- name    : FairSelling.GeneralTPS.descent_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:55:46.504327+00:00
 -- url     : https://prove2.me/theorems/378058d6-3031-4f7d-8422-28d422bdeb72

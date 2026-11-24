@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_LocalFockSPR_exists_phase
 -- name    : FockSPR.LocalFockSPR_exists_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:29.538823+00:00
 -- url     : https://prove2.me/theorems/1641bc72-29f0-4353-8f04-582697e1f1d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_hasVariableSpecification_of_entropyMinimal_synchronized_biBalanced
 -- name    : BalanceSpecification.hasVariableSpecification_of_entropyMinimal_synchronized_biBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:23.30771+00:00
 -- url     : https://prove2.me/theorems/77ff29e3-9dd0-4695-85e3-a383356602be

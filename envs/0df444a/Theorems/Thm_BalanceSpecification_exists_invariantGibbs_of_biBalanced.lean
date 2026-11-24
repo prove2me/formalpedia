@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_invariantGibbs_of_biBalanced
 -- name    : BalanceSpecification.exists_invariantGibbs_of_biBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:40:22.567051+00:00
 -- url     : https://prove2.me/theorems/c52edd8e-8897-4217-8165-e8b61f1bae4e

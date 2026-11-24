@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_padded_mem_shift
 -- name    : BalanceSpecification.FiveSymbol.padded_mem_shift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:37.396855+00:00
 -- url     : https://prove2.me/theorems/cd45c7ff-b25c-46a8-bda5-eefd0aec2107

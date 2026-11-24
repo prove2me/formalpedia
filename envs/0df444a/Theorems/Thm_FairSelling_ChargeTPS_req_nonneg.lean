@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_req_nonneg
 -- name    : FairSelling.ChargeTPS.req_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:20:01.336605+00:00
 -- url     : https://prove2.me/theorems/a79de01f-8321-42b8-9114-e14425ecf602

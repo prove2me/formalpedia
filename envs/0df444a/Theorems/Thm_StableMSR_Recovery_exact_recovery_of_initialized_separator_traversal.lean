@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_exact_recovery_of_initialized_separator_traversal
 -- name    : StableMSR.Recovery.exact_recovery_of_initialized_separator_traversal
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-24T02:37:10.034799+00:00
 -- url     : https://prove2.me/theorems/3fc98707-133d-497a-8a6a-6edbf5c1f08e

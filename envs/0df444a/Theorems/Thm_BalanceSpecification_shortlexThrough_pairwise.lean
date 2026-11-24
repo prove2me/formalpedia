@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_shortlexThrough_pairwise
 -- name    : BalanceSpecification.shortlexThrough_pairwise
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:33.667797+00:00
 -- url     : https://prove2.me/theorems/340d9137-8806-4376-ae6f-b0a1c3f000cf

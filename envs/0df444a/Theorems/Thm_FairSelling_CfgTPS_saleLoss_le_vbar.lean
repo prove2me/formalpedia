@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_CfgTPS_saleLoss_le_vbar
 -- name    : FairSelling.CfgTPS.saleLoss_le_vbar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:44.108797+00:00
 -- url     : https://prove2.me/theorems/29646337-9883-4e1d-bf9a-067fd7bdd728

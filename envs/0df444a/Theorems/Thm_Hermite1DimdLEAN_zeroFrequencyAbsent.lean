@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_zeroFrequencyAbsent
 -- name    : Hermite1DimdLEAN.zeroFrequencyAbsent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:12.191622+00:00
 -- url     : https://prove2.me/theorems/057fe256-a9b5-4b40-8f0a-e7d6b91e92c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteTensorRep_inner_of_realHermite1D_inner
 -- name    : DimdPolyLEAN.realHermiteTensorRep_inner_of_realHermite1D_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:26.78731+00:00
 -- url     : https://prove2.me/theorems/a1e4315d-bd19-4960-baa8-9fa176cced16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_freq_support_localPoly_lower
 -- name    : FockSPR.freq_support_localPoly_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:45.398807+00:00
 -- url     : https://prove2.me/theorems/818fba3d-330e-4d94-918d-ed67cf82559d

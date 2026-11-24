@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_mem_inc4
 -- name    : ULHC.TF.mem_inc4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:35:43.540118+00:00
 -- url     : https://prove2.me/theorems/0f58b7c8-6d38-4405-9ae3-748a6dcaebdc

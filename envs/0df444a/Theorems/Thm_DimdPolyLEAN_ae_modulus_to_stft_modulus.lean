@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_ae_modulus_to_stft_modulus
 -- name    : DimdPolyLEAN.ae_modulus_to_stft_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:31.031268+00:00
 -- url     : https://prove2.me/theorems/be328889-8f72-4b38-9394-b122452d3423

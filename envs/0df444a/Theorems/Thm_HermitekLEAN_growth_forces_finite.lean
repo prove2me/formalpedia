@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_growth_forces_finite
 -- name    : HermitekLEAN.growth_forces_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:19.934848+00:00
 -- url     : https://prove2.me/theorems/9cf9fb5d-cd02-4dd9-8024-165a68ad5f74

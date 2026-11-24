@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_PStage_disjoint_pool_bundle
 -- name    : FairSelling.PhaseTPS.PStage.disjoint_pool_bundle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:59:32.348439+00:00
 -- url     : https://prove2.me/theorems/958b1daf-0cc7-4735-b903-4ee7dc948d92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_log_le_sGap_entropy_of_pressure
 -- name    : BalanceSpecification.log_le_sGap_entropy_of_pressure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:39.3478+00:00
 -- url     : https://prove2.me/theorems/ccc14516-dcbe-45fc-b1ed-e2b87facc316

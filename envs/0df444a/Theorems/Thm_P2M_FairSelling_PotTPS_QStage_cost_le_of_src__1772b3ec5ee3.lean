@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FairSelling_PotTPS_QStage_cost_le_of_src__1772b3ec5ee3
 -- name    : P2M_FairSelling_PotTPS_QStage_cost_le_of_src__1772b3ec5ee3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:14.372443+00:00
 -- url     : https://prove2.me/theorems/76177b6f-2d48-40e0-9483-f8cdc87d8e04

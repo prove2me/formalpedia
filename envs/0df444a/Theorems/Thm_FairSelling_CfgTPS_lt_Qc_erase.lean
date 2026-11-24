@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_CfgTPS_lt_Qc_erase
 -- name    : FairSelling.CfgTPS.lt_Qc_erase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:26.233799+00:00
 -- url     : https://prove2.me/theorems/3ae0bc57-7a05-42e3-883d-1227f4434acd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_preq_nonneg
 -- name    : FairSelling.PhaseTPS.preq_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:26:19.017449+00:00
 -- url     : https://prove2.me/theorems/2a7f3415-767e-472d-bfc5-bd84cafbd61e

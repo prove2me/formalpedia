@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_side_lat2
 -- name    : ULHC.side_lat2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:28:18.058254+00:00
 -- url     : https://prove2.me/theorems/61aabac2-5128-4940-80cb-e6450737685d

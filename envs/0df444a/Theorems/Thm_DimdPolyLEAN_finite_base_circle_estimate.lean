@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_finite_base_circle_estimate
 -- name    : DimdPolyLEAN.finite_base_circle_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:29.509076+00:00
 -- url     : https://prove2.me/theorems/41c4ce14-7004-4241-ae6b-a2eabbd96ed3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_firstPassageTransform_positiveDiscount_strictBarrier
 -- name    : Kyprianou.Ch03.firstPassageTransform_positiveDiscount_strictBarrier
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T19:05:35.273623+00:00
 -- url     : https://prove2.me/theorems/313b7f86-9e94-485e-8a3c-a725c49a2bcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_bad_follower_mem_crossing_cover
 -- name    : BalanceSpecification.FiveSymbol.bad_follower_mem_crossing_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:34.156088+00:00
 -- url     : https://prove2.me/theorems/a1ccaa52-182f-45e3-8ab4-7120e5451acf

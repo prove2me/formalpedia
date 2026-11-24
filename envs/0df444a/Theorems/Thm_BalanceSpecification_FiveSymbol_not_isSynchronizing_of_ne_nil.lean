@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_not_isSynchronizing_of_ne_nil
 -- name    : BalanceSpecification.FiveSymbol.not_isSynchronizing_of_ne_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:59.876122+00:00
 -- url     : https://prove2.me/theorems/ae96c6e6-5bdc-4f2a-a533-38b688a25208

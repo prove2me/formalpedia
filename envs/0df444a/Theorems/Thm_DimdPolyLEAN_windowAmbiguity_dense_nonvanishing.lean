@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_windowAmbiguity_dense_nonvanishing
 -- name    : DimdPolyLEAN.windowAmbiguity_dense_nonvanishing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:00.077381+00:00
 -- url     : https://prove2.me/theorems/7b7073f4-7d53-4ef6-8a48-fd6e9f5f1455

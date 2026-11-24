@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_iteratedDeriv_inner_finite_sum
 -- name    : DimdPolyLEAN.realHermiteGenerating_iteratedDeriv_inner_finite_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:16.410738+00:00
 -- url     : https://prove2.me/theorems/d6b06d0b-a456-4437-801a-11bf6b05e157

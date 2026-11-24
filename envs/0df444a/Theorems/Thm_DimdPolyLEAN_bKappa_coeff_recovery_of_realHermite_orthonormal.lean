@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_bKappa_coeff_recovery_of_realHermite_orthonormal
 -- name    : DimdPolyLEAN.bKappa_coeff_recovery_of_realHermite_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:34.196824+00:00
 -- url     : https://prove2.me/theorems/126e9a73-f9b0-45bc-9a2a-e7173f42298d

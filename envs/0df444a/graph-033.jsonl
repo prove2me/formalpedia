@@ -90527,8 +90527,8 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1262", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1262", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "RH1E5_Data043", "child": "RH1E5_Data042", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroBarrier", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroBarrier", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroBarrier", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroBarrier", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_239", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_239", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0283", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}

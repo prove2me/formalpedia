@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_continuous_spectrogramRep
 -- name    : DimdPolyLEAN.continuous_spectrogramRep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:29:05.336035+00:00
 -- url     : https://prove2.me/theorems/f4e7294e-0e3a-4a90-b71b-2ecdfb6a5cf7

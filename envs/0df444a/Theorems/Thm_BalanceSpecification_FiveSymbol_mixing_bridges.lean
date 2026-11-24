@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_mixing_bridges
 -- name    : BalanceSpecification.FiveSymbol.mixing_bridges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:10.782536+00:00
 -- url     : https://prove2.me/theorems/e0c993c0-b487-4661-9286-981474a669b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_avoiding_shift_ssubset
 -- name    : BalanceSpecification.avoiding_shift_ssubset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:11.724712+00:00
 -- url     : https://prove2.me/theorems/e1e6b742-ce21-4d6b-95b3-a92736f966f6

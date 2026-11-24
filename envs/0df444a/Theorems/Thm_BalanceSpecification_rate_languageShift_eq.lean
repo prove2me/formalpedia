@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_rate_languageShift_eq
 -- name    : BalanceSpecification.rate_languageShift_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:41.96422+00:00
 -- url     : https://prove2.me/theorems/7c6171cf-0883-47f0-acc9-b13de916e3db

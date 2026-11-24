@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_arcAverage_eq_arcIntegral_div
 -- name    : DimdPolyLEAN.arcAverage_eq_arcIntegral_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:29.094166+00:00
 -- url     : https://prove2.me/theorems/b0a03dc1-0cac-4b70-9836-0a407313fdd8

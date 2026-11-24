@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_Phi_mem_Hk
 -- name    : HermitekLEAN.Phi_mem_Hk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:29:57.466543+00:00
 -- url     : https://prove2.me/theorems/ff57b621-5d53-4c1c-a367-2efbec5485d7

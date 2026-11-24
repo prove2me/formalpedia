@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_terminalObstructions_card_le
 -- name    : BalanceSpecification.FiveSymbol.terminalObstructions_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:14.794842+00:00
 -- url     : https://prove2.me/theorems/cd7eb377-c81d-4298-a150-88eae3dbbba3

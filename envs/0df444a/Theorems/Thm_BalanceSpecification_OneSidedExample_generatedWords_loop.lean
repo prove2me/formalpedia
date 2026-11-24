@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_generatedWords_loop
 -- name    : BalanceSpecification.OneSidedExample.generatedWords_loop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:06.975117+00:00
 -- url     : https://prove2.me/theorems/784a7c47-ec5b-457d-aa10-2fbea821c881

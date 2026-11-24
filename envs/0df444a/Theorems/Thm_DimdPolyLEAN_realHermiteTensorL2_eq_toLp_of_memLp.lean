@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteTensorL2_eq_toLp_of_memLp
 -- name    : DimdPolyLEAN.realHermiteTensorL2_eq_toLp_of_memLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:11.340938+00:00
 -- url     : https://prove2.me/theorems/b0a350d5-33d5-4211-b684-ea5a43eff626

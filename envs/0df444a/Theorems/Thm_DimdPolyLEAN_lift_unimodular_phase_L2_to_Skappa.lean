@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_lift_unimodular_phase_L2_to_Skappa
 -- name    : DimdPolyLEAN.lift_unimodular_phase_L2_to_Skappa
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:18.633905+00:00
 -- url     : https://prove2.me/theorems/a0490fee-21ec-4b3b-8ae9-629b16776357

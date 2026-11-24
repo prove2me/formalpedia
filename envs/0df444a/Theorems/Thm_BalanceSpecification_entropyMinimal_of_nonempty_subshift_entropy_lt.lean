@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_entropyMinimal_of_nonempty_subshift_entropy_lt
 -- name    : BalanceSpecification.entropyMinimal_of_nonempty_subshift_entropy_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:17.001129+00:00
 -- url     : https://prove2.me/theorems/5fc5b9dc-97ab-49cf-af34-203e9d394bc2

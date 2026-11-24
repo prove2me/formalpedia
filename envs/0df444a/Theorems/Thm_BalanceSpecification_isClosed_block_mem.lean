@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_isClosed_block_mem
 -- name    : BalanceSpecification.isClosed_block_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:23.295129+00:00
 -- url     : https://prove2.me/theorems/272ee6c9-a47e-4eba-aeb4-65888030d53f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_exists_walk_from_base
 -- name    : BalanceSpecification.OneSidedExample.exists_walk_from_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:00.056469+00:00
 -- url     : https://prove2.me/theorems/4fb9a272-aa52-4872-8f4d-369f767559c6

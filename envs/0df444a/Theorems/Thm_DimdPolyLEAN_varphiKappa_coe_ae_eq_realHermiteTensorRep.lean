@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_varphiKappa_coe_ae_eq_realHermiteTensorRep
 -- name    : DimdPolyLEAN.varphiKappa_coe_ae_eq_realHermiteTensorRep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:28.859284+00:00
 -- url     : https://prove2.me/theorems/6e3f64f5-e3d4-4ba6-a17c-e86c2e24eaa5

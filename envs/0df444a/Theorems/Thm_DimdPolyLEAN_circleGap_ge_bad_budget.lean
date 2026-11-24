@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_circleGap_ge_bad_budget
 -- name    : DimdPolyLEAN.circleGap_ge_bad_budget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:25.673968+00:00
 -- url     : https://prove2.me/theorems/8b099bfb-f2ae-4e30-b6da-2c2364586fb8

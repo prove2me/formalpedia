@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_finite_base_annulus_estimate
 -- name    : DimdPolyLEAN.finite_base_annulus_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:54.200851+00:00
 -- url     : https://prove2.me/theorems/061a93d5-8c19-474c-819f-4a6a7611d7f4

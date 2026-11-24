@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_weighted_wordCount_sum_le
 -- name    : BalanceSpecification.FiveSymbol.weighted_wordCount_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:52:42.974781+00:00
 -- url     : https://prove2.me/theorems/5de93bbb-9625-4370-a898-f1b2a085ce0c

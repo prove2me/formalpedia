@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_mem_languageShift_of_arbitrary_contexts
 -- name    : BalanceSpecification.mem_languageShift_of_arbitrary_contexts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:48:13.628804+00:00
 -- url     : https://prove2.me/theorems/815e26f1-00c9-483c-9c49-9d7ec2246a33

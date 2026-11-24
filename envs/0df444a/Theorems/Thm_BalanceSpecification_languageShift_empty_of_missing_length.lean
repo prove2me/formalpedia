@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_languageShift_empty_of_missing_length
 -- name    : BalanceSpecification.languageShift_empty_of_missing_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:31.667846+00:00
 -- url     : https://prove2.me/theorems/5c780322-537b-4657-9c3d-e1346b05147f

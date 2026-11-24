@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_arcIntegral_nonneg
 -- name    : DimdPolyLEAN.arcIntegral_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:25.691808+00:00
 -- url     : https://prove2.me/theorems/c4c58297-aca9-4369-b1c5-24110e657e5d

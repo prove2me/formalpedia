@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_Walk_loop_mem_generatedWords
 -- name    : BalanceSpecification.OneSidedExample.Walk.loop_mem_generatedWords
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:54.559408+00:00
 -- url     : https://prove2.me/theorems/3a402def-4a1a-4941-84f8-d95872a353bf

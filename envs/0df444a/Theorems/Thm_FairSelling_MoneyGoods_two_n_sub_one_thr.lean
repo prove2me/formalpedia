@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MoneyGoods_two_n_sub_one_thr
 -- name    : FairSelling.MoneyGoods.two_n_sub_one_thr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:02.830406+00:00
 -- url     : https://prove2.me/theorems/99ddbf05-218d-48e2-9aed-d1ca3af99067

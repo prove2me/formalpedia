@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_arithGeom_partial_sum_le
 -- name    : BalanceSpecification.FiveSymbol.arithGeom_partial_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:11.459813+00:00
 -- url     : https://prove2.me/theorems/a47591a2-18b4-440f-96a3-7518a838d64d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_exists_TPS_SEFX_of_Cstep
 -- name    : FairSelling.ChargeTPS.exists_TPS_SEFX_of_Cstep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:15.7606+00:00
 -- url     : https://prove2.me/theorems/38730e4b-167a-4796-ac71-3765b18b5cbd

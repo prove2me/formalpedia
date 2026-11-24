@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_qkn_top_term_limit
 -- name    : HermitekLEAN.qkn_top_term_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:29:55.879545+00:00
 -- url     : https://prove2.me/theorems/c739ff9d-0af6-408a-b192-4f276edb8249

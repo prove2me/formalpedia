@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_Walk_infix
 -- name    : BalanceSpecification.OneSidedExample.Walk.infix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:34.968265+00:00
 -- url     : https://prove2.me/theorems/9afd42b6-ca2e-4f02-bbd7-5396f2813ce3

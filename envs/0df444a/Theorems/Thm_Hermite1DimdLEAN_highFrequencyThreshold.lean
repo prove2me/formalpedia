@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_highFrequencyThreshold
 -- name    : Hermite1DimdLEAN.highFrequencyThreshold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:05.256875+00:00
 -- url     : https://prove2.me/theorems/91025068-c4c7-4c4a-983b-d07c7ecd4bca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_mem_language_iff_avoids
 -- name    : BalanceSpecification.FiveSymbol.mem_language_iff_avoids
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:51:09.675284+00:00
 -- url     : https://prove2.me/theorems/346f38d4-759b-4238-9bda-3d9452ab8c1c

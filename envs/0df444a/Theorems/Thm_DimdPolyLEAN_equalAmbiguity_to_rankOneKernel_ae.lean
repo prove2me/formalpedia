@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_equalAmbiguity_to_rankOneKernel_ae
 -- name    : DimdPolyLEAN.equalAmbiguity_to_rankOneKernel_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:05.26573+00:00
 -- url     : https://prove2.me/theorems/fdd6bcb6-39e5-44d4-a9b7-632fef5854e4

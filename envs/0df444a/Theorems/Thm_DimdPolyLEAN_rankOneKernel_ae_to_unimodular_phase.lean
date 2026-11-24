@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_rankOneKernel_ae_to_unimodular_phase
 -- name    : DimdPolyLEAN.rankOneKernel_ae_to_unimodular_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:01.782831+00:00
 -- url     : https://prove2.me/theorems/6085e7b8-7447-4f7c-90e0-76256fbea786

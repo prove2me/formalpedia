@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_Walk_eq_replicate_a_of_end_q
 -- name    : BalanceSpecification.OneSidedExample.Walk.eq_replicate_a_of_end_q
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:41.515339+00:00
 -- url     : https://prove2.me/theorems/964b1f5f-afa1-44f3-80e7-c62e9387b3d9

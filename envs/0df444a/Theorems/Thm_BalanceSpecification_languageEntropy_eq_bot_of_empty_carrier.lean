@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_languageEntropy_eq_bot_of_empty_carrier
 -- name    : BalanceSpecification.languageEntropy_eq_bot_of_empty_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:16.2939+00:00
 -- url     : https://prove2.me/theorems/e9a52119-03d8-4aa1-935a-18ba92afd5a9

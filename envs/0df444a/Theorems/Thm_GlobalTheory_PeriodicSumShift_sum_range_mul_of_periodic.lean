@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodicSumShift_sum_range_mul_of_periodic
 -- name    : GlobalTheory.PeriodicSumShift.sum_range_mul_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:57.907266+00:00
 -- url     : https://prove2.me/theorems/5363ce55-b46c-431e-b89e-7c972b5b099c

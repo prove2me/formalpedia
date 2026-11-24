@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_orthogonalReduction_core
 -- name    : FockSPR.orthogonalReduction_core
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:11.246143+00:00
 -- url     : https://prove2.me/theorems/56b6db65-81c3-4949-abd7-82003f310500

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_languageEntropy_eq_bot_of_missing_length
 -- name    : BalanceSpecification.languageEntropy_eq_bot_of_missing_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:48:07.535652+00:00
 -- url     : https://prove2.me/theorems/a39c0e19-af96-4b4b-9f08-18925bb3b947

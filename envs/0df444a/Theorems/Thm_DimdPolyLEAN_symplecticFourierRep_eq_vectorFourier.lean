@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_symplecticFourierRep_eq_vectorFourier
 -- name    : DimdPolyLEAN.symplecticFourierRep_eq_vectorFourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:28:02.412801+00:00
 -- url     : https://prove2.me/theorems/63485057-f67f-484a-9adb-d37eadc9a7f3

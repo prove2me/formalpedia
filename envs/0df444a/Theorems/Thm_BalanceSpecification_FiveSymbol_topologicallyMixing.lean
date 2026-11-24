@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_topologicallyMixing
 -- name    : BalanceSpecification.FiveSymbol.topologicallyMixing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:27.321568+00:00
 -- url     : https://prove2.me/theorems/c4a4a7ba-43a0-42bb-a78c-4cfa1977216d

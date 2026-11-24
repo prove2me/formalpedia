@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_wordCount_le_polynomial_pow
 -- name    : BalanceSpecification.sGap_wordCount_le_polynomial_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:23.010816+00:00
 -- url     : https://prove2.me/theorems/65ac7dba-6798-4a30-adca-262ebb1d2e6e

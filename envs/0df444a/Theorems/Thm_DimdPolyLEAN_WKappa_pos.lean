@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_WKappa_pos
 -- name    : DimdPolyLEAN.WKappa_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:54.203001+00:00
 -- url     : https://prove2.me/theorems/29715d7f-6b0e-48f8-ab52-fa6b5b0ff06b
