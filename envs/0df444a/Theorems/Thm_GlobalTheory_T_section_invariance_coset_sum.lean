@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_section_invariance_coset_sum
 -- name    : GlobalTheory.T.section_invariance_coset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:28.080746+00:00
 -- url     : https://prove2.me/theorems/fa7de059-54a6-4490-b3c0-b24bebaab71a

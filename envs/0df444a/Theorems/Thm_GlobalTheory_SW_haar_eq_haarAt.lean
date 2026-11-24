@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_haar_eq_haarAt
 -- name    : GlobalTheory.SW.haar_eq_haarAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:10:16.5918+00:00
 -- url     : https://prove2.me/theorems/b1dfe4d4-0245-4e63-9ef8-04f00744a7ce

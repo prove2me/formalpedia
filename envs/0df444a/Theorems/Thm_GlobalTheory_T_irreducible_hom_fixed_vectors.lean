@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_irreducible_hom_fixed_vectors
 -- name    : GlobalTheory.T.irreducible_hom_fixed_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:47:03.861743+00:00
 -- url     : https://prove2.me/theorems/6c2cd16b-3321-4e83-b723-16f4cfedaeae

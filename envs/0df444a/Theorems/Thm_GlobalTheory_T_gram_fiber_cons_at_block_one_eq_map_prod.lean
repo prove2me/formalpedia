@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_cons_at_block_one_eq_map_prod
 -- name    : GlobalTheory.T.gram_fiber_cons_at_block_one_eq_map_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:42:27.704558+00:00
 -- url     : https://prove2.me/theorems/34890d72-55d6-4e77-a321-7b31d4888b8c

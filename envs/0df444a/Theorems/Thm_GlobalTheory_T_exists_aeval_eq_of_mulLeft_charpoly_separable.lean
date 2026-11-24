@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_aeval_eq_of_mulLeft_charpoly_separable
 -- name    : GlobalTheory.T.exists_aeval_eq_of_mulLeft_charpoly_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:34:43.165571+00:00
 -- url     : https://prove2.me/theorems/89f5bc9c-fd37-485c-b66b-9a7e7149bf29

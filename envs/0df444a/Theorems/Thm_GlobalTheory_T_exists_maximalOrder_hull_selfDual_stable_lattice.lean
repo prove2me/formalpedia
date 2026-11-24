@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_maximalOrder_hull_selfDual_stable_lattice
 -- name    : GlobalTheory.T.exists_maximalOrder_hull_selfDual_stable_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:41.244487+00:00
 -- url     : https://prove2.me/theorems/982c0d7b-f60d-4129-87a0-1d2f63eac4af

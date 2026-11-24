@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckePhiFourierTransform_rapid_decay
 -- name    : GlobalTheory.T.heckePhiFourierTransform_rapid_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:45:43.421455+00:00
 -- url     : https://prove2.me/theorems/afefabcb-d9bf-48e0-b595-88a99e5196c2

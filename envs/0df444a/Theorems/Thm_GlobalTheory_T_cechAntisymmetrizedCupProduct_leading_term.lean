@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cechAntisymmetrizedCupProduct_leading_term
 -- name    : GlobalTheory.T.cechAntisymmetrizedCupProduct_leading_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:30:58.071157+00:00
 -- url     : https://prove2.me/theorems/00c4beb0-c6be-4b31-9611-a7500cdd7950

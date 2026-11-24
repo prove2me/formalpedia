@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_difference_index_identity
 -- name    : GlobalTheory.T.norm_difference_index_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:07.065122+00:00
 -- url     : https://prove2.me/theorems/2dc7f279-ee7b-45cf-96df-4655eb8264ed

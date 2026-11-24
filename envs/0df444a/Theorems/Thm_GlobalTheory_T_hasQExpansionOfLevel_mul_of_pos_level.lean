@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasQExpansionOfLevel_mul_of_pos_level
 -- name    : GlobalTheory.T.hasQExpansionOfLevel_mul_of_pos_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:42:04.478923+00:00
 -- url     : https://prove2.me/theorems/ffaf8c04-0de9-423d-8c58-6a35a354fd6b

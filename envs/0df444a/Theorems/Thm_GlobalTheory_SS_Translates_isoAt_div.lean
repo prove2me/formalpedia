@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_isoAt_div
 -- name    : GlobalTheory.SS.Translates.isoAt_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:18:36.589439+00:00
 -- url     : https://prove2.me/theorems/d3193d12-cbcf-44bf-8ca1-b7a06f32c9eb

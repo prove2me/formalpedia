@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLIAG_theorem_4_2
 -- name    : PLIAG.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:30:21.393675+00:00
 -- url     : https://prove2.me/theorems/60174a52-d709-45e2-a84b-8c2a91e9ba32

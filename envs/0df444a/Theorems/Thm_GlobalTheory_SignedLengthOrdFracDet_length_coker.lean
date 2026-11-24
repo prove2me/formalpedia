@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthOrdFracDet_length_coker
 -- name    : GlobalTheory.SignedLengthOrdFracDet.length_coker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:13.182403+00:00
 -- url     : https://prove2.me/theorems/f426fa59-8416-46e1-8ad8-ae5b8fe07008

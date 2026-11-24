@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_measure_pi_change_constant
 -- name    : GlobalTheory.T.haar_measure_pi_change_constant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:42:01.478801+00:00
 -- url     : https://prove2.me/theorems/8b392b4a-82d0-4ae5-af12-1a103d22b1c4

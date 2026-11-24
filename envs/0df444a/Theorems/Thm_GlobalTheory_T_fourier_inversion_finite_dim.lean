@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_inversion_finite_dim
 -- name    : GlobalTheory.T.fourier_inversion_finite_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:40:56.470571+00:00
 -- url     : https://prove2.me/theorems/c6924990-cf28-48fb-9c4f-c2f401bcfb2c

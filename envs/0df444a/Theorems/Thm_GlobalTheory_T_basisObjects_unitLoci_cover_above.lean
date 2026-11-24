@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_basisObjects_unitLoci_cover_above
 -- name    : GlobalTheory.T.basisObjects_unitLoci_cover_above
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:26:03.795259+00:00
 -- url     : https://prove2.me/theorems/3e28a2e6-1c70-459f-887a-d4b1e96c7768

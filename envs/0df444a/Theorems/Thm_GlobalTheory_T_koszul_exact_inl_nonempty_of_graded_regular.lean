@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_koszul_exact_inl_nonempty_of_graded_regular
 -- name    : GlobalTheory.T.koszul_exact_inl_nonempty_of_graded_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:51:00.342173+00:00
 -- url     : https://prove2.me/theorems/0ad453bd-dbe0-4685-b636-653ab2456584

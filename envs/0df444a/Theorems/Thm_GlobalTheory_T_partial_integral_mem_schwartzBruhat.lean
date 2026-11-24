@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partial_integral_mem_schwartzBruhat
 -- name    : GlobalTheory.T.partial_integral_mem_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:17.302804+00:00
 -- url     : https://prove2.me/theorems/e7b53804-2734-4d0e-b28b-8d436387f239

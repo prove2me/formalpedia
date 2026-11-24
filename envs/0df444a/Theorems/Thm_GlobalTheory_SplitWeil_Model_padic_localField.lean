@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_Model_padic_localField
 -- name    : GlobalTheory.SplitWeil.Model.padic_localField
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:36:38.101416+00:00
 -- url     : https://prove2.me/theorems/78d36091-df58-4dbe-8a25-e7a505f5829c

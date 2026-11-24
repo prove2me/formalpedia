@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SurjectiveOfKerSq_surjective_of_ker_le_map_sup_sq
 -- name    : GlobalTheory.SurjectiveOfKerSq.surjective_of_ker_le_map_sup_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:18.4689+00:00
 -- url     : https://prove2.me/theorems/3d38ec89-349b-4f88-925f-463ca724dcb5

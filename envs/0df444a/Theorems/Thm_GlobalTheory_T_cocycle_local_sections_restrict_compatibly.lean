@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cocycle_local_sections_restrict_compatibly
 -- name    : GlobalTheory.T.cocycle_local_sections_restrict_compatibly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:32:30.270943+00:00
 -- url     : https://prove2.me/theorems/c77a58df-77a2-4f7c-88db-d1172709b8cc

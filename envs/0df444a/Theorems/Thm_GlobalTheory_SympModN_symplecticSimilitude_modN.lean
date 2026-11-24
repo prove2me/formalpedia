@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympModN_symplecticSimilitude_modN
 -- name    : GlobalTheory.SympModN.symplecticSimilitude_modN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:25:44.678308+00:00
 -- url     : https://prove2.me/theorems/123e0d7b-67ce-4da0-80a3-c4a92cb46c6f

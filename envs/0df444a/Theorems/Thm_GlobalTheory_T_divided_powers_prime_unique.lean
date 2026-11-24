@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_divided_powers_prime_unique
 -- name    : GlobalTheory.T.divided_powers_prime_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:56.649973+00:00
 -- url     : https://prove2.me/theorems/0e1c6b70-64fb-452a-a3dd-5a3958cc4515

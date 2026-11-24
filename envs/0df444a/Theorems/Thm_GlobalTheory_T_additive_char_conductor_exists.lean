@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additive_char_conductor_exists
 -- name    : GlobalTheory.T.additive_char_conductor_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:26:31.022444+00:00
 -- url     : https://prove2.me/theorems/dc964f99-5d96-4a0d-a73a-301fc8b62654

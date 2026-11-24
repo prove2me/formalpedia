@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_conductorTimesSplitPrimes_exponents
 -- name    : GlobalTheory.T.conductorTimesSplitPrimes_exponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:16.092351+00:00
 -- url     : https://prove2.me/theorems/de745dc9-7d1a-4bfb-ac84-3cabccf5d0bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Serre_exists_eigen_tensor
 -- name    : GlobalTheory.Serre.exists_eigen_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:54:09.731854+00:00
 -- url     : https://prove2.me/theorems/387a11b4-1685-4e24-83d7-cf2630146ffd

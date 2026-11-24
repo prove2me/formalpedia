@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_clears_idempotent_of_exponent_bound
 -- name    : GlobalTheory.T.clears_idempotent_of_exponent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:28:43.352325+00:00
 -- url     : https://prove2.me/theorems/cb46bb7f-5ffc-42df-9c89-fc83e8d7038b

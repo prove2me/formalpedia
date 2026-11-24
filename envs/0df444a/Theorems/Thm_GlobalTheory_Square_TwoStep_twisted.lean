@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_TwoStep_twisted
 -- name    : GlobalTheory.Square.TwoStep.twisted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:22:35.517681+00:00
 -- url     : https://prove2.me/theorems/09eff937-6c15-4b41-9c32-fcc93b5803c9

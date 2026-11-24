@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthMapLogDet_length_coker_eq_ord_det
 -- name    : GlobalTheory.SignedLengthMapLogDet.length_coker_eq_ord_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:55.798887+00:00
 -- url     : https://prove2.me/theorems/aa91ab19-797f-4810-b391-b569469fb51c

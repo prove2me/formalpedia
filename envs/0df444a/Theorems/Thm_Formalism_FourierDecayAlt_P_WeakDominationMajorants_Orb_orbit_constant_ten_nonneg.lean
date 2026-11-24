@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Orb_orbit_constant_ten_nonneg
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.orbit_constant_ten_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:05:11.547553+00:00
 -- url     : https://prove2.me/theorems/5cab6832-e410-4797-a098-761b2e32b6b9

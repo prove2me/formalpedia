@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_invariant_under_transvection
 -- name    : GlobalTheory.T.haar_invariant_under_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:41:37.0628+00:00
 -- url     : https://prove2.me/theorems/450eba73-b9da-4d1b-a3f0-e41c5ef29f27

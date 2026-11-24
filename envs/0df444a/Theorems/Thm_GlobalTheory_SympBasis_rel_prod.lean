@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympBasis_rel_prod
 -- name    : GlobalTheory.SympBasis.rel_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:25:45.187262+00:00
 -- url     : https://prove2.me/theorems/9fc64756-7acb-49b0-b33e-1e417fd1afee

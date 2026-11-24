@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOpDecay_pow_norm_le_add
 -- name    : GlobalTheory.SliceOpDecay.pow_norm_le_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:49.112035+00:00
 -- url     : https://prove2.me/theorems/8f33063c-540d-4909-9b24-3059a5466085

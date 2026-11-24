@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_shuffle_weight_square_length_lt
 -- name    : GlobalTheory.T.shuffle_weight_square_length_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:30.87612+00:00
 -- url     : https://prove2.me/theorems/9137a2ab-3402-4bea-9339-1549d11d75de

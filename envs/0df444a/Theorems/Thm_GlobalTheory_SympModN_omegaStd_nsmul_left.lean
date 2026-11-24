@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympModN_omegaStd_nsmul_left
 -- name    : GlobalTheory.SympModN.omegaStd_nsmul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:25:26.744878+00:00
 -- url     : https://prove2.me/theorems/712f9bca-0065-432d-89aa-f7be6dce5e6c

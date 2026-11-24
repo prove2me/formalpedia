@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitJump_jump_eq_zero
 -- name    : GlobalTheory.SplitJump.jump_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:21:09.169985+00:00
 -- url     : https://prove2.me/theorems/87e4ac74-044c-4823-9b98-41855669592c

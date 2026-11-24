@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_right_invariant_eq_sum_open_subgroup_cosets
 -- name    : GlobalTheory.T.integral_right_invariant_eq_sum_open_subgroup_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:47:59.62573+00:00
 -- url     : https://prove2.me/theorems/2d955bc8-3b47-43b4-ac14-b4d93a796a98

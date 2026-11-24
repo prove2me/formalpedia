@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_congruence_subgroup_normal_in_maximal_compact
 -- name    : GlobalTheory.T.congruence_subgroup_normal_in_maximal_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:31:54.803291+00:00
 -- url     : https://prove2.me/theorems/b45cfcab-f3ea-4a47-8475-cc464655aaaf

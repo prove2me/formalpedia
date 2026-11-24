@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finsum_card_cyclic_vectors_invariant_subspaces
 -- name    : GlobalTheory.T.finsum_card_cyclic_vectors_invariant_subspaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:39:28.053022+00:00
 -- url     : https://prove2.me/theorems/a2be0b1c-902b-4a9e-9315-5f394837271a

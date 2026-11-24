@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_bmap_cd
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.bmap_cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:06:27.095097+00:00
 -- url     : https://prove2.me/theorems/c1431d37-eb5b-401a-82c9-ae1dcf5a967e

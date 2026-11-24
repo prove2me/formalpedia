@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_equiv_cmType_realEmbeddings_maxRealSubfield
 -- name    : GlobalTheory.T.exists_equiv_cmType_realEmbeddings_maxRealSubfield
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:33:43.979107+00:00
 -- url     : https://prove2.me/theorems/83d0877c-f921-4728-9593-25480b119885

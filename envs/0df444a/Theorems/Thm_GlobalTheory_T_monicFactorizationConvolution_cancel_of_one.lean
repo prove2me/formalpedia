@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_monicFactorizationConvolution_cancel_of_one
 -- name    : GlobalTheory.T.monicFactorizationConvolution_cancel_of_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:53:05.028236+00:00
 -- url     : https://prove2.me/theorems/c6a5b5fa-1f91-4fed-96f2-7d0cd54faaf3

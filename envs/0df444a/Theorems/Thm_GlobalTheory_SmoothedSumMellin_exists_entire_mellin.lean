@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothedSumMellin_exists_entire_mellin
 -- name    : GlobalTheory.SmoothedSumMellin.exists_entire_mellin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:18:35.160686+00:00
 -- url     : https://prove2.me/theorems/c0d0d5c8-dcd8-4b0f-968b-e5dc4385c80f

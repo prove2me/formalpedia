@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_not_isField_adicCompletion_tensor_of_split
 -- name    : GlobalTheory.T.not_isField_adicCompletion_tensor_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:54:39.183635+00:00
 -- url     : https://prove2.me/theorems/1fe3c568-047b-4aff-a159-4b4a686c0265

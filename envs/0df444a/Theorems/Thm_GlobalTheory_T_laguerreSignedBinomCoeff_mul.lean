@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_laguerreSignedBinomCoeff_mul
 -- name    : GlobalTheory.T.laguerreSignedBinomCoeff_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:51:07.501305+00:00
 -- url     : https://prove2.me/theorems/17c5ce85-b340-4b66-b220-2204a1324fa1

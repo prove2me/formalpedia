@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCompl_orthogonal_of_no_common_irreducible_types
 -- name    : GlobalTheory.T.isCompl_orthogonal_of_no_common_irreducible_types
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:47:57.992968+00:00
 -- url     : https://prove2.me/theorems/b0bb16ab-8464-4785-a887-a578e5f85cea

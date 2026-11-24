@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_product_difference_bound
 -- name    : GlobalTheory.T.finite_product_difference_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:56.416244+00:00
 -- url     : https://prove2.me/theorems/8c9a5eb4-f910-401d-963d-393662be3446

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndexCosetSumUnimodularity_of_finiteIndex
 -- name    : GlobalTheory.T.relIndexCosetSumUnimodularity_of_finiteIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:15.070114+00:00
 -- url     : https://prove2.me/theorems/4801f144-b7de-4963-b79d-c21c5fb4316e

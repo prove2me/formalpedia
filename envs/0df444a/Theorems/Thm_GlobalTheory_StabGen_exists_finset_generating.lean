@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StabGen_exists_finset_generating
 -- name    : GlobalTheory.StabGen.exists_finset_generating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:29.0738+00:00
 -- url     : https://prove2.me/theorems/486f5af9-2ec6-4dcc-be4f-e638efc12038

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_matrix_of_mapsTo_fullRankLattice
 -- name    : GlobalTheory.T.isIntegral_matrix_of_mapsTo_fullRankLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:48:49.203256+00:00
 -- url     : https://prove2.me/theorems/75aac9da-4089-4dc7-afb1-177a866e674c

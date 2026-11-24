@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_right_mul_action_laws
 -- name    : GlobalTheory.T.gram_right_mul_action_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:41:54.147699+00:00
 -- url     : https://prove2.me/theorems/d9cc5f03-3dba-433a-a4b1-04a83836c4d3

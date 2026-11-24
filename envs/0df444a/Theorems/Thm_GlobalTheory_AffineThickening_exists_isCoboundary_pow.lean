@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_exists_isCoboundary_pow
 -- name    : GlobalTheory.AffineThickening.exists_isCoboundary_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:58:05.218573+00:00
 -- url     : https://prove2.me/theorems/cd7b23b1-0c16-4d4a-bb38-e61586f7b412

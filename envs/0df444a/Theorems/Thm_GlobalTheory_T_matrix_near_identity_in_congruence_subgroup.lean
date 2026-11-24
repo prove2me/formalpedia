@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_near_identity_in_congruence_subgroup
 -- name    : GlobalTheory.T.matrix_near_identity_in_congruence_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:53:00.673908+00:00
 -- url     : https://prove2.me/theorems/52751338-f5cb-4f04-9b3b-8d20a1fc107e

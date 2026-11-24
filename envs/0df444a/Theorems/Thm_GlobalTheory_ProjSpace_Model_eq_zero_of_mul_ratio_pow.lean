@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_eq_zero_of_mul_ratio_pow
 -- name    : GlobalTheory.ProjSpace.Model.eq_zero_of_mul_ratio_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:59:19.743805+00:00
 -- url     : https://prove2.me/theorems/ebfb865e-2922-474c-99b7-d0d351fc17a3

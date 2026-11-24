@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemicharIndep_exists_half
 -- name    : GlobalTheory.SemicharIndep.exists_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:53:35.397833+00:00
 -- url     : https://prove2.me/theorems/8ea8da49-247d-4ffd-9659-2fdf92c3fd65

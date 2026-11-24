@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quantum_det_opposite_neg
 -- name    : GlobalTheory.T.quantum_det_opposite_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:04.891899+00:00
 -- url     : https://prove2.me/theorems/d9f65dcb-67d6-4466-be29-6555cf70c0f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_slice_section_integral
 -- name    : GlobalTheory.T.continuous_slice_section_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:13.099798+00:00
 -- url     : https://prove2.me/theorems/e1273bdf-4a7f-4e40-b757-0498bf4dd98c

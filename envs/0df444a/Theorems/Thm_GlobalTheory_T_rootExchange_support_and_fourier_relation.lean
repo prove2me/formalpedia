@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rootExchange_support_and_fourier_relation
 -- name    : GlobalTheory.T.rootExchange_support_and_fourier_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:56:28.38472+00:00
 -- url     : https://prove2.me/theorems/2c9c7edc-5fe4-44bb-ac40-f4831b9b5af5

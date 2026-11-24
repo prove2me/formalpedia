@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LinCore_finrank_le_of_weights
 -- name    : GlobalTheory.SS.LinCore.finrank_le_of_weights
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:35:15.373838+00:00
 -- url     : https://prove2.me/theorems/82e1855b-dea5-4c7d-b7bf-de265336834c

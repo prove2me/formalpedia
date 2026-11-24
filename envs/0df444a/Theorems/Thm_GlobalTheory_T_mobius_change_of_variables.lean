@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mobius_change_of_variables
 -- name    : GlobalTheory.T.mobius_change_of_variables
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:53:23.865844+00:00
 -- url     : https://prove2.me/theorems/92df5484-8c6f-41e4-bf05-b7de58821dea

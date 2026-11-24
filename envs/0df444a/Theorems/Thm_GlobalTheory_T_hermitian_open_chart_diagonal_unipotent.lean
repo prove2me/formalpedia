@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_open_chart_diagonal_unipotent
 -- name    : GlobalTheory.T.hermitian_open_chart_diagonal_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:38.441184+00:00
 -- url     : https://prove2.me/theorems/2965aef9-f2fe-4ac2-abbd-8134afb2c391

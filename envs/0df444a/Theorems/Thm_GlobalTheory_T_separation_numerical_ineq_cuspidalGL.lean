@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_separation_numerical_ineq_cuspidalGL
 -- name    : GlobalTheory.T.separation_numerical_ineq_cuspidalGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:57:06.550264+00:00
 -- url     : https://prove2.me/theorems/eee70a1f-66f7-47f0-9dc7-1d2d77b26fbc

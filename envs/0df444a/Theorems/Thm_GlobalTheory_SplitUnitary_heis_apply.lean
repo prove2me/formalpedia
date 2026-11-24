@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitUnitary_heis_apply
 -- name    : GlobalTheory.SplitUnitary.heis_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:26.473729+00:00
 -- url     : https://prove2.me/theorems/334139de-077f-4a50-bb47-8144a2521211

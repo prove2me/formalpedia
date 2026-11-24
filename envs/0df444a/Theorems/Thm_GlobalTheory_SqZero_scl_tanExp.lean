@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_scl_tanExp
 -- name    : GlobalTheory.SqZero.scl_tanExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:23:13.888498+00:00
 -- url     : https://prove2.me/theorems/57b9b862-7005-496f-9cfc-3d26a673716d

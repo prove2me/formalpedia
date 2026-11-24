@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesNakayama_surjective_of_mod
 -- name    : GlobalTheory.SeriesNakayama.surjective_of_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:14.498002+00:00
 -- url     : https://prove2.me/theorems/109c3c0a-63a7-4e6e-b3bb-2d399bc407e6

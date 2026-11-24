@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_contDiffOn_of_differentiableOn
 -- name    : GlobalTheory.SCV.contDiffOn_of_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:34.973096+00:00
 -- url     : https://prove2.me/theorems/2f8fc133-a482-4386-968b-af15cf0f8347

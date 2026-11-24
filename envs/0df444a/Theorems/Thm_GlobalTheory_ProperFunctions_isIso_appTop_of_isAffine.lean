@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_appTop_of_isAffine
 -- name    : GlobalTheory.ProperFunctions.isIso_appTop_of_isAffine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:33.579795+00:00
 -- url     : https://prove2.me/theorems/f9341176-643a-4eb7-873b-9e7eb2536210

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SiegelSum_summable_pi_prod
 -- name    : GlobalTheory.SW.SiegelSum.summable_pi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:47.446299+00:00
 -- url     : https://prove2.me/theorems/0340522a-7621-4087-83f8-e8cba17ddfb3

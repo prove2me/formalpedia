@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linearIndependent_kaehlerD_of_algebraicIndependent
 -- name    : GlobalTheory.T.linearIndependent_kaehlerD_of_algebraicIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:44.691995+00:00
 -- url     : https://prove2.me/theorems/3131f2bd-ccba-4207-a259-bd83adde1649

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_bicomm_permMat
 -- name    : GlobalTheory.SmoothForms.bicomm_permMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:16.034491+00:00
 -- url     : https://prove2.me/theorems/d1f02c05-6b1a-4103-b111-7e403df06fd9

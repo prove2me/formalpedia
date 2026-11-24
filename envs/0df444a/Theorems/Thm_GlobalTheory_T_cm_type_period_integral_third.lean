@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cm_type_period_integral_third
 -- name    : GlobalTheory.T.cm_type_period_integral_third
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:40.585641+00:00
 -- url     : https://prove2.me/theorems/582b1269-c41c-4779-a309-708468e89626

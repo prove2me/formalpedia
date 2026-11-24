@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_compact_for_measure_preserving_endos
 -- name    : GlobalTheory.T.exists_compact_for_measure_preserving_endos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:33:52.86395+00:00
 -- url     : https://prove2.me/theorems/abaa3914-6587-47db-b2a8-64733257a185

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_Rep_exists_sph
 -- name    : GlobalTheory.SatakeBound.Rep.exists_sph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:45:22.688198+00:00
 -- url     : https://prove2.me/theorems/75e32cfa-f7db-42f6-9dc1-4c7a1fc0b54b

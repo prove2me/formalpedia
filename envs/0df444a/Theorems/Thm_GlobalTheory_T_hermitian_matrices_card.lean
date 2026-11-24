@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_matrices_card
 -- name    : GlobalTheory.T.hermitian_matrices_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:16.012822+00:00
 -- url     : https://prove2.me/theorems/bd04c64b-a0f9-46ed-ba96-2f25cfd94063

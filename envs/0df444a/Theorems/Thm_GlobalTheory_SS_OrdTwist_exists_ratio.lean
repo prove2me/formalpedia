@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdTwist_exists_ratio
 -- name    : GlobalTheory.SS.OrdTwist.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:43:01.454368+00:00
 -- url     : https://prove2.me/theorems/47d7934e-83d0-455d-9bd7-c3295efc0e0c

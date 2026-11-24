@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemicharIndep_B_swap
 -- name    : GlobalTheory.SemicharIndep.B_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:49:01.118465+00:00
 -- url     : https://prove2.me/theorems/103a50f4-917e-471c-ba2b-5dd55aa5d78c

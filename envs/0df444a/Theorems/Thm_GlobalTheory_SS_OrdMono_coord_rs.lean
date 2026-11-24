@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdMono_coord_rs
 -- name    : GlobalTheory.SS.OrdMono.coord_rs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:50:53.479435+00:00
 -- url     : https://prove2.me/theorems/6753f9ae-9777-4104-8a84-aa610ed3f5a9

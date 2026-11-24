@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_unipSplit_of_leviPart
 -- name    : GlobalTheory.SatakeWeyl.unipSplit_of_leviPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:50:29.571238+00:00
 -- url     : https://prove2.me/theorems/0f0f96f5-7a18-4047-842e-e8157c83a8d3

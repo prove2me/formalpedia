@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothPointFamily_exists_etale_away
 -- name    : GlobalTheory.SmoothPointFamily.exists_etale_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:19:29.682815+00:00
 -- url     : https://prove2.me/theorems/4170c3c1-29fb-4d44-9bc5-7bbe1f797972

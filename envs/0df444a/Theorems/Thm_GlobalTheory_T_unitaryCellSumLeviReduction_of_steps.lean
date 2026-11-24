@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryCellSumLeviReduction_of_steps
 -- name    : GlobalTheory.T.unitaryCellSumLeviReduction_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:32:01.15468+00:00
 -- url     : https://prove2.me/theorems/590581ce-b8a3-4294-8d4f-687940317355

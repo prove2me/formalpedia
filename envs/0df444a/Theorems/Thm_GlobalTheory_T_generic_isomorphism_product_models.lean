@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_generic_isomorphism_product_models
 -- name    : GlobalTheory.T.generic_isomorphism_product_models
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:41:14.309417+00:00
 -- url     : https://prove2.me/theorems/cb64eb72-d7e0-42c0-8e94-7d02683bcabc

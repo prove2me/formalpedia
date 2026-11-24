@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integrable_weighted_heckeThetaKernel_halfSpace
 -- name    : GlobalTheory.T.integrable_weighted_heckeThetaKernel_halfSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:47:01.5462+00:00
 -- url     : https://prove2.me/theorems/6cf6ba4d-0720-4254-966a-cc06b6af4240

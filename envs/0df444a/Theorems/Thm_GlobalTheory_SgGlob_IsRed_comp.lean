@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_IsRed_comp
 -- name    : GlobalTheory.SgGlob.IsRed.comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:09:26.057803+00:00
 -- url     : https://prove2.me/theorems/beb53a65-fde1-4342-9b70-1e7f2282c456

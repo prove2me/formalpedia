@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_functionals_vanishing_subspace
 -- name    : GlobalTheory.T.card_functionals_vanishing_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:28:08.455876+00:00
 -- url     : https://prove2.me/theorems/d35495f7-d018-494f-bfbb-c42b3f3ee8b3

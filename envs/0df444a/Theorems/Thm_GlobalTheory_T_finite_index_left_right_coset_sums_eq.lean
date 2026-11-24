@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_index_left_right_coset_sums_eq
 -- name    : GlobalTheory.T.finite_index_left_right_coset_sums_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:49.633296+00:00
 -- url     : https://prove2.me/theorems/8b282e83-f254-4f8c-84f3-adce6bd5b3bf

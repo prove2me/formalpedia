@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuousOn_hermitianBlockMatrixOfInvariants
 -- name    : GlobalTheory.T.continuousOn_hermitianBlockMatrixOfInvariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:31:50.521203+00:00
 -- url     : https://prove2.me/theorems/30d62a65-f1ba-4767-9ec6-0afd2661d0b4

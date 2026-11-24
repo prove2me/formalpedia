@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heisenbergSum_comp_of_adjacent_of_inf_eq
 -- name    : GlobalTheory.T.heisenbergSum_comp_of_adjacent_of_inf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:05.813814+00:00
 -- url     : https://prove2.me/theorems/354d278c-a8c8-4496-aab8-41cd0d655282

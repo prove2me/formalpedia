@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_mixedSpace_norm_sign_character
 -- name    : GlobalTheory.T.exists_mixedSpace_norm_sign_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:53.157936+00:00
 -- url     : https://prove2.me/theorems/910ec8f8-b89e-47c7-980a-f350fe93e680

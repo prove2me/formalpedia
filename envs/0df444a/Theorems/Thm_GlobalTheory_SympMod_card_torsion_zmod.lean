@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympMod_card_torsion_zmod
 -- name    : GlobalTheory.SympMod.card_torsion_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:25:59.609559+00:00
 -- url     : https://prove2.me/theorems/9865fc51-b01c-453b-9ead-9a4b579af14b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasFDerivAt_deformedProductDerivativeTerm
 -- name    : GlobalTheory.T.hasFDerivAt_deformedProductDerivativeTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:42:33.524411+00:00
 -- url     : https://prove2.me/theorems/60f28fa7-0f89-4aac-ac61-abc901eda17c

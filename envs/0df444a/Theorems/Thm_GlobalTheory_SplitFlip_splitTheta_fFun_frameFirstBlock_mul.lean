@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_splitTheta_fFun_frameFirstBlock_mul
 -- name    : GlobalTheory.SplitFlip.splitTheta_fFun_frameFirstBlock_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:19.454824+00:00
 -- url     : https://prove2.me/theorems/945eba08-1d1c-411b-b2cf-1858b983a160

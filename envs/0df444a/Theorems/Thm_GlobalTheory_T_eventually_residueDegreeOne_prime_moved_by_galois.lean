@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eventually_residueDegreeOne_prime_moved_by_galois
 -- name    : GlobalTheory.T.eventually_residueDegreeOne_prime_moved_by_galois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:33:20.014653+00:00
 -- url     : https://prove2.me/theorems/482b3579-2f95-41d6-9773-39c4686a685f

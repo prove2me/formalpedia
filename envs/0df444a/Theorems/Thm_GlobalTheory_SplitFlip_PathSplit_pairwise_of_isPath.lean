@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_PathSplit_pairwise_of_isPath
 -- name    : GlobalTheory.SplitFlip.PathSplit.pairwise_of_isPath
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:19:55.971184+00:00
 -- url     : https://prove2.me/theorems/3f152828-3a9e-44fb-b32f-5cfdc528d6c1

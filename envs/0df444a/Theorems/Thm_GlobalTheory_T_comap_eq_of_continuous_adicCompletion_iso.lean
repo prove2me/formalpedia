@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_comap_eq_of_continuous_adicCompletion_iso
 -- name    : GlobalTheory.T.comap_eq_of_continuous_adicCompletion_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:30:40.333524+00:00
 -- url     : https://prove2.me/theorems/8c3ea8af-1949-48a4-97b8-4c78b87da4ea

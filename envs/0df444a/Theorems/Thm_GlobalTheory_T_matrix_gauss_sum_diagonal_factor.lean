@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_gauss_sum_diagonal_factor
 -- name    : GlobalTheory.T.matrix_gauss_sum_diagonal_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:53:20.545033+00:00
 -- url     : https://prove2.me/theorems/56939a2d-9ab0-42b7-8238-9736867fd455

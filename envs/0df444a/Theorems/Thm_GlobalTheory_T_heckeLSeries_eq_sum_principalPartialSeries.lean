@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeLSeries_eq_sum_principalPartialSeries
 -- name    : GlobalTheory.T.heckeLSeries_eq_sum_principalPartialSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:46:26.766106+00:00
 -- url     : https://prove2.me/theorems/dfbb8988-ca0a-4131-9d38-7762982bfd95

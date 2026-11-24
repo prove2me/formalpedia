@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_count_from_hyperplanes
 -- name    : GlobalTheory.T.hermitian_count_from_hyperplanes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:45:15.707077+00:00
 -- url     : https://prove2.me/theorems/d34b3b18-4ca8-4681-8d53-232a32ff2e80

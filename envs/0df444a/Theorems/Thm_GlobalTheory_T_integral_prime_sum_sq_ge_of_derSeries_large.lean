@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_prime_sum_sq_ge_of_derSeries_large
 -- name    : GlobalTheory.T.integral_prime_sum_sq_ge_of_derSeries_large
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:47:00.144644+00:00
 -- url     : https://prove2.me/theorems/9eb63df1-51a3-418a-bf18-38049fd243d5

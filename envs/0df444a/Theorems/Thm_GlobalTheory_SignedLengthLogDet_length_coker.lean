@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthLogDet_length_coker
 -- name    : GlobalTheory.SignedLengthLogDet.length_coker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:19.879517+00:00
 -- url     : https://prove2.me/theorems/28203183-3d03-493a-b62b-ed5e753f5b29

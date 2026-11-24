@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_harmonicMonomial_mul_gaussian_complex
 -- name    : GlobalTheory.T.fourier_harmonicMonomial_mul_gaussian_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:40:52.722506+00:00
 -- url     : https://prove2.me/theorems/440de209-2459-4310-ad84-48385591386d

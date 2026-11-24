@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_measurePreserving_polar_gaussianProbabilityComplexSpace
 -- name    : GlobalTheory.T.measurePreserving_polar_gaussianProbabilityComplexSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:21.223951+00:00
 -- url     : https://prove2.me/theorems/4465a769-4f09-47e4-a831-556e0c2294bb

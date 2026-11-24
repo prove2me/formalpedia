@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_measures_change_of_form
 -- name    : GlobalTheory.T.gram_fiber_measures_change_of_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:42:50.348901+00:00
 -- url     : https://prove2.me/theorems/bdc1ff64-61fc-4e45-8e46-8e39d6e44abf

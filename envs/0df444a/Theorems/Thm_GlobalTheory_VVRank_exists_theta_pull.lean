@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_exists_theta_pull
 -- name    : GlobalTheory.VVRank.exists_theta_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:58:13.740059+00:00
 -- url     : https://prove2.me/theorems/17a4c43c-dcfb-4495-941d-3f37733b0c41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_primitive_element_separability_certificate
 -- name    : GlobalTheory.T.exists_primitive_element_separability_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:38:26.086123+00:00
 -- url     : https://prove2.me/theorems/7c6c12c5-288f-4374-8f43-c21a0e3060ee

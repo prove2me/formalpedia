@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_qExpansionsCoeffwiseConjugate_ring_closure
 -- name    : GlobalTheory.T.qExpansionsCoeffwiseConjugate_ring_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:55:14.653267+00:00
 -- url     : https://prove2.me/theorems/e979dddc-2aa5-41b9-bee1-add38edf0477

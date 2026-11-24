@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inducedClassFunction_mem_inducedDegreeOneCharDiff
 -- name    : GlobalTheory.T.inducedClassFunction_mem_inducedDegreeOneCharDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:48:28.175826+00:00
 -- url     : https://prove2.me/theorems/1fef0367-e1b7-4719-a6a0-bb15f6823a9c

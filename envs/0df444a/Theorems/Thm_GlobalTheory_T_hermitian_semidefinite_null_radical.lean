@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_semidefinite_null_radical
 -- name    : GlobalTheory.T.hermitian_semidefinite_null_radical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:45:30.233009+00:00
 -- url     : https://prove2.me/theorems/a67e010a-6723-490f-a751-ba8670b40f46

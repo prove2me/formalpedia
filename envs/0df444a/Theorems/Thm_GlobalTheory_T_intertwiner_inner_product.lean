@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_intertwiner_inner_product
 -- name    : GlobalTheory.T.intertwiner_inner_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:47:18.832336+00:00
 -- url     : https://prove2.me/theorems/d97a9bad-b165-455c-8203-0e0719c80cfa

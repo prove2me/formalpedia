@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cell_sum_two_stage_descent_unipotent
 -- name    : GlobalTheory.T.cell_sum_two_stage_descent_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:11.199842+00:00
 -- url     : https://prove2.me/theorems/ed2e1656-e730-4777-af67-4d78917eab0a

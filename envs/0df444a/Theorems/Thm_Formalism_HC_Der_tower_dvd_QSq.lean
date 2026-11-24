@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_tower_dvd_QSq
 -- name    : Formalism.HC.Der.tower_dvd_QSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:46:15.237476+00:00
 -- url     : https://prove2.me/theorems/f30cf0c5-0d3b-4b18-a717-0346899fe191

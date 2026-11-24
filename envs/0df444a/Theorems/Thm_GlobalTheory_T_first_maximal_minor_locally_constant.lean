@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_first_maximal_minor_locally_constant
 -- name    : GlobalTheory.T.first_maximal_minor_locally_constant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:40:07.571057+00:00
 -- url     : https://prove2.me/theorems/88633cf9-10a4-44da-ab07-0a7cfec823e9

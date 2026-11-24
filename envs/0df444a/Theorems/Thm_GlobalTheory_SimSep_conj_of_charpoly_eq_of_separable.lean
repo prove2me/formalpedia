@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimSep_conj_of_charpoly_eq_of_separable
 -- name    : GlobalTheory.SimSep.conj_of_charpoly_eq_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:05.196489+00:00
 -- url     : https://prove2.me/theorems/6029db92-687a-4b60-aff2-2805d94f74fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_orbit_trans
 -- name    : GlobalTheory.T.mem_orbit_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:53:36.727207+00:00
 -- url     : https://prove2.me/theorems/0bb14ab8-8ef0-4172-9e1e-b11bf4ebaca8

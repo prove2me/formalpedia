@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SocleDet_det_notMem_span
 -- name    : GlobalTheory.SocleDet.det_notMem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:19:00.564447+00:00
 -- url     : https://prove2.me/theorems/675f47ad-4d62-47bd-a961-807f5fd981e7

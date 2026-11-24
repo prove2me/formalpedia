@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrixImage_adjoint_mul_eq_of_selfDual_lattices
 -- name    : GlobalTheory.T.matrixImage_adjoint_mul_eq_of_selfDual_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:52:55.090992+00:00
 -- url     : https://prove2.me/theorems/fe492f47-e188-485c-aeb6-b722e0f28414

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_levi_decomposition_exists
 -- name    : GlobalTheory.T.levi_decomposition_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:53.960089+00:00
 -- url     : https://prove2.me/theorems/dcb598d8-d8f9-49fc-8891-6e89673e3f59

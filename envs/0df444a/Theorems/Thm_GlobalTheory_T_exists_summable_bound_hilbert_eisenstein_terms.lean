@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_summable_bound_hilbert_eisenstein_terms
 -- name    : GlobalTheory.T.exists_summable_bound_hilbert_eisenstein_terms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:45.121054+00:00
 -- url     : https://prove2.me/theorems/e4a65115-8438-4aa1-bfec-2dda6820ada9

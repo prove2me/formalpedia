@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_last_factor_slice_mem_schwartzBruhat
 -- name    : GlobalTheory.T.integral_last_factor_slice_mem_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:46:55.355926+00:00
 -- url     : https://prove2.me/theorems/7eaf93a9-458c-451c-bd52-e5269aceedf9

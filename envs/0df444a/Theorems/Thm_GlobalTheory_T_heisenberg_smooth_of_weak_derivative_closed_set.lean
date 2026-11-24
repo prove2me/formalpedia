@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heisenberg_smooth_of_weak_derivative_closed_set
 -- name    : GlobalTheory.T.heisenberg_smooth_of_weak_derivative_closed_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:24.262861+00:00
 -- url     : https://prove2.me/theorems/a76bf487-bddf-48d6-ad8b-30f886279df8

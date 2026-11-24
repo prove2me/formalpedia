@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareDensity_eq_zero_of_sq
 -- name    : GlobalTheory.SquareDensity.eq_zero_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:24:23.592493+00:00
 -- url     : https://prove2.me/theorems/d331a1b5-4e1b-4c97-b491-af34dbb149f8

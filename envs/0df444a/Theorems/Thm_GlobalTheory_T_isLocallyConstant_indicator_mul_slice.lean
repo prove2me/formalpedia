@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isLocallyConstant_indicator_mul_slice
 -- name    : GlobalTheory.T.isLocallyConstant_indicator_mul_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:49:23.265671+00:00
 -- url     : https://prove2.me/theorems/a20f6b8e-33c6-4764-9a6b-5fa571614428

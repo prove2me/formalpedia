@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_cusp_reduction_bound
 -- name    : GlobalTheory.T.exists_cusp_reduction_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:06.589151+00:00
 -- url     : https://prove2.me/theorems/7dd5c8ed-b48f-4ce7-96a2-6953a8a97cd5

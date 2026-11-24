@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_isSmooth_jacquet
 -- name    : GlobalTheory.SmGL.isSmooth_jacquet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:46:03.887795+00:00
 -- url     : https://prove2.me/theorems/c9b7fbb4-79c2-423b-b53c-636d0b441fc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_laplaceEntire
 -- name    : EisTube.laplaceEntire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:29:53.812666+00:00
 -- url     : https://prove2.me/theorems/d4743475-7d8f-4d40-b32f-b880ad8aa91e

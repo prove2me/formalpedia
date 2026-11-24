@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularNormal_StableDvd_of_quotient
 -- name    : GlobalTheory.RegularNormal.StableDvd.of_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:52.082442+00:00
 -- url     : https://prove2.me/theorems/a148270e-95c1-402b-9a7c-2914b02d314b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_dense_compl_of_volume_coords_image
 -- name    : GlobalTheory.AffinePoints.dense_compl_of_volume_coords_image
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:35.792411+00:00
 -- url     : https://prove2.me/theorems/da7ea955-4405-4662-ab59-c5fd97d8d07a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_det_commutator_map_eq_charpoly_resultant
 -- name    : GlobalTheory.T.det_commutator_map_eq_charpoly_resultant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:31:11.226719+00:00
 -- url     : https://prove2.me/theorems/b28587a3-b2e8-43e4-b4a9-76aebaf9498b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_Stages_trans_ind
 -- name    : GlobalTheory.SmGL.Stages.trans_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:13:59.465011+00:00
 -- url     : https://prove2.me/theorems/6573b2e2-9df4-4f08-9855-61a8d99c3e3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeMellinGaussIntegrand_unit_mul
 -- name    : GlobalTheory.T.heckeMellinGaussIntegrand_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:45:47.614921+00:00
 -- url     : https://prove2.me/theorems/f6f8314a-694a-439b-81ea-65b1af54cf9a

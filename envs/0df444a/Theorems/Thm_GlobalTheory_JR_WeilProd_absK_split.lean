@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_absK_split
 -- name    : GlobalTheory.JR.WeilProd.absK_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:37:42.958784+00:00
 -- url     : https://prove2.me/theorems/18a25678-7fec-4cc7-9597-64d7576bf4a8

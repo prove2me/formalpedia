@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussian_first_coords_measure_preserving
 -- name    : GlobalTheory.T.gaussian_first_coords_measure_preserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:42:16.327801+00:00
 -- url     : https://prove2.me/theorems/17504d03-8aad-4945-9066-b1aa2bdc010c

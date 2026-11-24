@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_periodic_bounded_gaussian_summable_cmType
 -- name    : GlobalTheory.T.periodic_bounded_gaussian_summable_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:05.844215+00:00
 -- url     : https://prove2.me/theorems/24b06385-293d-4dba-b616-2e1bfd5025d9

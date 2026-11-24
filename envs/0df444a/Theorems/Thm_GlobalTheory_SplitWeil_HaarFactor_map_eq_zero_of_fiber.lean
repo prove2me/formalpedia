@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_HaarFactor_map_eq_zero_of_fiber
 -- name    : GlobalTheory.SplitWeil.HaarFactor.map_eq_zero_of_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:40.051837+00:00
 -- url     : https://prove2.me/theorems/58f49edd-f476-4092-9a45-206d2bf255af

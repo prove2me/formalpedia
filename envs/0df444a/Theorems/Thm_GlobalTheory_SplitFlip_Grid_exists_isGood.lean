@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Grid_exists_isGood
 -- name    : GlobalTheory.SplitFlip.Grid.exists_isGood
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:19:45.899108+00:00
 -- url     : https://prove2.me/theorems/109465b4-0888-4ca5-925f-bfdf6cc44fdf

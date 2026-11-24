@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitDict_integral_shift
 -- name    : GlobalTheory.SplitDict.integral_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:19:56.578065+00:00
 -- url     : https://prove2.me/theorems/acee3777-c0d8-48b1-aad8-61623ac6c745

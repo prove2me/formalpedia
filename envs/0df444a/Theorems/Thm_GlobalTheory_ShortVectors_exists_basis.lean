@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortVectors_exists_basis
 -- name    : GlobalTheory.ShortVectors.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:14:29.669159+00:00
 -- url     : https://prove2.me/theorems/f4b1c18c-812d-4c3e-a97f-b8fd49a6f9ef

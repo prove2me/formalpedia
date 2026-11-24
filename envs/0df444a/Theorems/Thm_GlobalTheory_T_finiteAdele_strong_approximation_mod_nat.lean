@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteAdele_strong_approximation_mod_nat
 -- name    : GlobalTheory.T.finiteAdele_strong_approximation_mod_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:39:47.241604+00:00
 -- url     : https://prove2.me/theorems/c3cbc4e8-dfe3-46b5-9bb4-ff6e14ae299b

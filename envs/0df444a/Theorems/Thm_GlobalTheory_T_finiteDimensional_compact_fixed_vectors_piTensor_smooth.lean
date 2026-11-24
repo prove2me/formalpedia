@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteDimensional_compact_fixed_vectors_piTensor_smooth
 -- name    : GlobalTheory.T.finiteDimensional_compact_fixed_vectors_piTensor_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:39:42.490792+00:00
 -- url     : https://prove2.me/theorems/27aecf5d-86e8-40cb-9319-d182345d4184

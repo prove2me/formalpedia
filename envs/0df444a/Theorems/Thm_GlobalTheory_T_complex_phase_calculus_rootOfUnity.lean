@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_complex_phase_calculus_rootOfUnity
 -- name    : GlobalTheory.T.complex_phase_calculus_rootOfUnity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:31:37.86091+00:00
 -- url     : https://prove2.me/theorems/52b9f8b2-9755-4922-a3dc-6d971f19237d

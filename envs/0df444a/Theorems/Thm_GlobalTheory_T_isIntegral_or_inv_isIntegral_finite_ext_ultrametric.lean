@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_or_inv_isIntegral_finite_ext_ultrametric
 -- name    : GlobalTheory.T.isIntegral_or_inv_isIntegral_finite_ext_ultrametric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:48:18.379801+00:00
 -- url     : https://prove2.me/theorems/38a405af-f5ac-4e49-bdfc-a69722990a06

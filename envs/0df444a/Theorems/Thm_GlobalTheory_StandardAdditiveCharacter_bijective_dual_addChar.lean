@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StandardAdditiveCharacter_bijective_dual_addChar
 -- name    : GlobalTheory.StandardAdditiveCharacter.bijective_dual_addChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:22.819888+00:00
 -- url     : https://prove2.me/theorems/6faff40e-0d71-45f3-8050-f65f5edaf0da

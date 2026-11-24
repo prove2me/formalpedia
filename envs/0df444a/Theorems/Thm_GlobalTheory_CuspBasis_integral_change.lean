@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_integral_change
 -- name    : GlobalTheory.CuspBasis.integral_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:51:36.643444+00:00
 -- url     : https://prove2.me/theorems/244bdc44-b54f-47a4-a2a6-b5bee485e93b

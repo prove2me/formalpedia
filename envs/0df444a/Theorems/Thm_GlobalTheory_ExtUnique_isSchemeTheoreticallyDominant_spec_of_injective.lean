@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_isSchemeTheoreticallyDominant_spec_of_injective
 -- name    : GlobalTheory.ExtUnique.isSchemeTheoreticallyDominant_spec_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:42:51.513167+00:00
 -- url     : https://prove2.me/theorems/ff68f9b7-0530-45c7-acab-6e585fb91cd8

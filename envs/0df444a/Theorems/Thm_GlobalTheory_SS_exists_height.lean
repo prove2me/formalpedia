@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_height
 -- name    : GlobalTheory.SS.exists_height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:37:55.080348+00:00
 -- url     : https://prove2.me/theorems/ff5854ed-6176-46bf-b2ec-38d9e971776e

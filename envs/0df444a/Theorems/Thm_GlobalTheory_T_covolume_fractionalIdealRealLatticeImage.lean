@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_covolume_fractionalIdealRealLatticeImage
 -- name    : GlobalTheory.T.covolume_fractionalIdealRealLatticeImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:57.170403+00:00
 -- url     : https://prove2.me/theorems/2636a1fb-d64e-44ed-a5e0-1d41fdc4d8d5

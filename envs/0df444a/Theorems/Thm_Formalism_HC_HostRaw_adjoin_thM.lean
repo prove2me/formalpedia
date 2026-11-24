@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_adjoin_thM
 -- name    : Formalism.HC.HostRaw.adjoin_thM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:59:21.864862+00:00
 -- url     : https://prove2.me/theorems/b432a06d-79bd-453e-a43a-85e2a4b0ce3a

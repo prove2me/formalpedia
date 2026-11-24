@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreTorsion_step
 -- name    : GlobalTheory.SerreTorsion.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:54:11.492351+00:00
 -- url     : https://prove2.me/theorems/e4942bc4-3d19-4b43-985c-f837bc046c76

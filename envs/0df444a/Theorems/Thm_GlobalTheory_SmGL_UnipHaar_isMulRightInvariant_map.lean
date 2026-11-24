@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnipHaar_isMulRightInvariant_map
 -- name    : GlobalTheory.SmGL.UnipHaar.isMulRightInvariant_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:14:12.92992+00:00
 -- url     : https://prove2.me/theorems/c51c6f37-e45a-4a4d-95af-3a3e85de2dca

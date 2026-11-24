@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_congruence_subgroups_neighborhood_basis
 -- name    : GlobalTheory.T.congruence_subgroups_neighborhood_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:31:57.627662+00:00
 -- url     : https://prove2.me/theorems/ed351397-ab0c-4a57-9229-20155591dcb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_factor_sandwich_approx
 -- name    : GlobalTheory.T.local_factor_sandwich_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:37.052805+00:00
 -- url     : https://prove2.me/theorems/0779e289-ae00-4535-95e5-302dc5fc51fd

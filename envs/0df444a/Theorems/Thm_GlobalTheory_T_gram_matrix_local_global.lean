@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_matrix_local_global
 -- name    : GlobalTheory.T.gram_matrix_local_global
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:42:02.458934+00:00
 -- url     : https://prove2.me/theorems/5613c04a-77c4-4559-97bc-425a94f423ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_archimedean_primitive_vector_compact_rescale
 -- name    : GlobalTheory.T.archimedean_primitive_vector_compact_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:26:53.541821+00:00
 -- url     : https://prove2.me/theorems/b45c36ea-4394-40e2-81a9-f8da5563b7d9

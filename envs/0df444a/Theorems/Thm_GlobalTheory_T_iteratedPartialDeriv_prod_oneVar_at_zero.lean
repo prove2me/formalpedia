@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iteratedPartialDeriv_prod_oneVar_at_zero
 -- name    : GlobalTheory.T.iteratedPartialDeriv_prod_oneVar_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:51:38.340193+00:00
 -- url     : https://prove2.me/theorems/8a7eb7d8-6975-4f96-8572-e3e1b932b961

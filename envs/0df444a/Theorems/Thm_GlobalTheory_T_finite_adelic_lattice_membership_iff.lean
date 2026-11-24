@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_adelic_lattice_membership_iff
 -- name    : GlobalTheory.T.finite_adelic_lattice_membership_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:39:35.536106+00:00
 -- url     : https://prove2.me/theorems/c209593f-f5a2-4155-8aba-b23e7279f0b9

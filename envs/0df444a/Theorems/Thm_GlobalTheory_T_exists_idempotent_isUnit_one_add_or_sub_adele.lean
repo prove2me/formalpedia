@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_idempotent_isUnit_one_add_or_sub_adele
 -- name    : GlobalTheory.T.exists_idempotent_isUnit_one_add_or_sub_adele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:35:40.883243+00:00
 -- url     : https://prove2.me/theorems/f329d262-5201-4ff9-b19f-c82a5a82d79e

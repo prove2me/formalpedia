@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isClosed_isHermitianLogOfPosDef
 -- name    : GlobalTheory.T.isClosed_isHermitianLogOfPosDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:47:48.237339+00:00
 -- url     : https://prove2.me/theorems/770f163e-af38-449b-8b3c-81fb33015f9e

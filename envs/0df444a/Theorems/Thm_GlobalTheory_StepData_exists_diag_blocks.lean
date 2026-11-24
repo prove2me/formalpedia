@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_exists_diag_blocks
 -- name    : GlobalTheory.StepData.exists_diag_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:58:17.992145+00:00
 -- url     : https://prove2.me/theorems/d7f5f449-b644-444d-8c0d-33544ddeda56

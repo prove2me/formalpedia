@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_psd_isotropic_radical
 -- name    : GlobalTheory.T.hermitian_psd_isotropic_radical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:55.547965+00:00
 -- url     : https://prove2.me/theorems/947bf5bf-9c5c-49c6-bb91-cd8dbb30395f

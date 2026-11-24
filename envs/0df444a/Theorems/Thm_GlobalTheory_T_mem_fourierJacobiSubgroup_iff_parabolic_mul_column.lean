@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_fourierJacobiSubgroup_iff_parabolic_mul_column
 -- name    : GlobalTheory.T.mem_fourierJacobiSubgroup_iff_parabolic_mul_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:53:36.148866+00:00
 -- url     : https://prove2.me/theorems/3ac243f3-bd35-4fc1-a676-f4729304983a

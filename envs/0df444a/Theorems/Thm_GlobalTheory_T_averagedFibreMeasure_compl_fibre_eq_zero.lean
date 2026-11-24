@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_averagedFibreMeasure_compl_fibre_eq_zero
 -- name    : GlobalTheory.T.averagedFibreMeasure_compl_fibre_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:26:52.334882+00:00
 -- url     : https://prove2.me/theorems/fd65c475-ece4-4257-bc02-999c5295240a

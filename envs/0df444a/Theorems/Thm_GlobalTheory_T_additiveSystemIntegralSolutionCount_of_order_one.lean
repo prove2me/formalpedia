@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additiveSystemIntegralSolutionCount_of_order_one
 -- name    : GlobalTheory.T.additiveSystemIntegralSolutionCount_of_order_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:26:13.136265+00:00
 -- url     : https://prove2.me/theorems/29d2a551-8299-4ca9-811e-987c9acb6d90

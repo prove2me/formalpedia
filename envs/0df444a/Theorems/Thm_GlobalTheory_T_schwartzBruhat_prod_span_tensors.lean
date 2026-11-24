@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_prod_span_tensors
 -- name    : GlobalTheory.T.schwartzBruhat_prod_span_tensors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:57:55.552469+00:00
 -- url     : https://prove2.me/theorems/524c2bf4-0cd4-455a-9bde-47f1dd554400

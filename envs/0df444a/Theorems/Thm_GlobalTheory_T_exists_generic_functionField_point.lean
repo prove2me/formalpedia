@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_generic_functionField_point
 -- name    : GlobalTheory.T.exists_generic_functionField_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:43.074192+00:00
 -- url     : https://prove2.me/theorems/d659a7a7-8005-429b-ac2c-9b352b786719

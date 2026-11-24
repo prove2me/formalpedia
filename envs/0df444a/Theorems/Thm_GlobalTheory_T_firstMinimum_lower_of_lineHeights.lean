@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_firstMinimum_lower_of_lineHeights
 -- name    : GlobalTheory.T.firstMinimum_lower_of_lineHeights
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:40:32.396795+00:00
 -- url     : https://prove2.me/theorems/8ff00efd-f244-48a6-84e6-5e2449450ab3

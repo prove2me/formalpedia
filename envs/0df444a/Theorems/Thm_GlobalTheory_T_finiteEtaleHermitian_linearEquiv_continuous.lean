@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteEtaleHermitian_linearEquiv_continuous
 -- name    : GlobalTheory.T.finiteEtaleHermitian_linearEquiv_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:39:16.388831+00:00
 -- url     : https://prove2.me/theorems/72f0f078-f772-4d1e-bab1-920ced879f34

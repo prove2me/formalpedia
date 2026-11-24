@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_isBigO_rpow_lipschitzProductKernel
 -- name    : GlobalTheory.T.continuous_isBigO_rpow_lipschitzProductKernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:03.726333+00:00
 -- url     : https://prove2.me/theorems/b01b9396-e833-4073-b754-d3ed92d11aca

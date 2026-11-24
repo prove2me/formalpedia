@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_frameSmall
 -- name    : GlobalTheory.SmoothForms.frameSmall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:17.168791+00:00
 -- url     : https://prove2.me/theorems/efdd68b4-88fc-497f-ae23-409a1579ca3a

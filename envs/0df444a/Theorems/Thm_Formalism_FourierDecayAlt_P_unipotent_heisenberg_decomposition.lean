@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_heisenberg_decomposition
 -- name    : Formalism.FourierDecayAlt.P.unipotent_heisenberg_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:39:34.853463+00:00
 -- url     : https://prove2.me/theorems/01155f32-ec0a-49b4-a9e9-41a4aced2468

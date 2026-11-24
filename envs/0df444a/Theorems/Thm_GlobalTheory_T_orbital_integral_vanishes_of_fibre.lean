@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orbital_integral_vanishes_of_fibre
 -- name    : GlobalTheory.T.orbital_integral_vanishes_of_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:54:34.519041+00:00
 -- url     : https://prove2.me/theorems/43dd855e-4b14-46b5-9f41-62f6b13bd977

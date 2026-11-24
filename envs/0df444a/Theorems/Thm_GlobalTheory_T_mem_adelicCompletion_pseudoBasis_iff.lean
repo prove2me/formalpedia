@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_adelicCompletion_pseudoBasis_iff
 -- name    : GlobalTheory.T.mem_adelicCompletion_pseudoBasis_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:52:06.502349+00:00
 -- url     : https://prove2.me/theorems/8adde8cc-1689-4593-8e0b-400cdf835252

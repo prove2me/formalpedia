@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_frob_of_modEq
 -- name    : Formalism.HC.Der.frob_of_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:28:19.785553+00:00
 -- url     : https://prove2.me/theorems/68c22758-ac81-4329-95c2-8935255f61f8

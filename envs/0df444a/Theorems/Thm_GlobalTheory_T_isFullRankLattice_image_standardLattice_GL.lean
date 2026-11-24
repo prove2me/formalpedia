@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isFullRankLattice_image_standardLattice_GL
 -- name    : GlobalTheory.T.isFullRankLattice_image_standardLattice_GL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:48:33.643841+00:00
 -- url     : https://prove2.me/theorems/c63f946f-0758-4edd-830f-ea89c6422261

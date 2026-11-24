@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitSep_exists_sep
 -- name    : GlobalTheory.SplitSep.exists_sep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:22:10.178995+00:00
 -- url     : https://prove2.me/theorems/3c807ad6-0f44-4b3c-bb42-ba17af5b59f3

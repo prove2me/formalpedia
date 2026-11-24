@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SublatticeFacts_main
 -- name    : GlobalTheory.SublatticeFacts.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:24.4288+00:00
 -- url     : https://prove2.me/theorems/62cc4fa8-da01-49bf-afef-e028190b6556

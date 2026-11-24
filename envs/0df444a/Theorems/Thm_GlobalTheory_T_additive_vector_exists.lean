@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additive_vector_exists
 -- name    : GlobalTheory.T.additive_vector_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:27:09.637067+00:00
 -- url     : https://prove2.me/theorems/279cd05e-cc47-42af-9a91-35f92e023c9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_congruence_endomorphism_inverse_exists
 -- name    : GlobalTheory.T.congruence_endomorphism_inverse_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:31:27.454891+00:00
 -- url     : https://prove2.me/theorems/75ce47db-e56f-40d8-a0cb-d62c2ce83194

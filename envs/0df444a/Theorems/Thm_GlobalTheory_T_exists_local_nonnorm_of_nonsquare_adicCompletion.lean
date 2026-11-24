@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_local_nonnorm_of_nonsquare_adicCompletion
 -- name    : GlobalTheory.T.exists_local_nonnorm_of_nonsquare_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:22.170833+00:00
 -- url     : https://prove2.me/theorems/d36a7af0-d9b0-43a8-945b-d3aff6609b96

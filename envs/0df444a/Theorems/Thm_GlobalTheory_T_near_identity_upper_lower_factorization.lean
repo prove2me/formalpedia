@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_near_identity_upper_lower_factorization
 -- name    : GlobalTheory.T.near_identity_upper_lower_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:54:39.165831+00:00
 -- url     : https://prove2.me/theorems/d9b0a945-81af-41f3-9393-531597510f22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymplecticPeriods_exists_symplectic_action
 -- name    : GlobalTheory.SymplecticPeriods.exists_symplectic_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:25:19.15565+00:00
 -- url     : https://prove2.me/theorems/6a686563-c9c9-4233-b222-dcdfa4e5837c

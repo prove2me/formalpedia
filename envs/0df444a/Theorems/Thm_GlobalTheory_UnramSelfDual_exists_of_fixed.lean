@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_exists_of_fixed
 -- name    : GlobalTheory.UnramSelfDual.exists_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:44.383856+00:00
 -- url     : https://prove2.me/theorems/6d5ca28d-1399-4a20-a241-2e44bef50cb2

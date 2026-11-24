@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_exists_etale_coord
 -- name    : GlobalTheory.SS.Ord.exists_etale_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:31:27.935186+00:00
 -- url     : https://prove2.me/theorems/9fc91925-de3a-4246-8680-474486391a47

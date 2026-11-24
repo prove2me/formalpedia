@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_space_anisotropic_unit
 -- name    : GlobalTheory.T.hermitian_space_anisotropic_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:45:53.806451+00:00
 -- url     : https://prove2.me/theorems/4486af34-a9a1-4b2f-8526-1e46a4ff1b87

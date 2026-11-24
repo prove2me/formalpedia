@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_ringEquiv_adicCompletion_localization_prod
 -- name    : GlobalTheory.T.exists_ringEquiv_adicCompletion_localization_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:39:43.2338+00:00
 -- url     : https://prove2.me/theorems/27666dd6-10ef-4b63-a9d3-6f5dff9b98cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_dualLat_diagLat
 -- name    : GlobalTheory.SplitFlip.dualLat_diagLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:20:13.805797+00:00
 -- url     : https://prove2.me/theorems/33f179f2-c685-421c-8d06-0bb5afe72b10

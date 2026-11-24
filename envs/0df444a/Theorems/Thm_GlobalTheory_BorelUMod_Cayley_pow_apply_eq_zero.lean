@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_Cayley_pow_apply_eq_zero
 -- name    : GlobalTheory.BorelUMod.Cayley.pow_apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:01:18.722642+00:00
 -- url     : https://prove2.me/theorems/9197570f-b41c-4b89-b196-1f6f263eb21f

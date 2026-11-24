@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussian_det_square_integral
 -- name    : GlobalTheory.T.gaussian_det_square_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:40:50.385596+00:00
 -- url     : https://prove2.me/theorems/d1465810-17e8-4305-ac6b-9e0c87fdc3cb

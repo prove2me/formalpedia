@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_contDiff_toLp_omS
 -- name    : GlobalTheory.RealWeil.contDiff_toLp_omS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:16:29.40652+00:00
 -- url     : https://prove2.me/theorems/f5731003-9c9c-4ef1-983b-ae6033526f3e

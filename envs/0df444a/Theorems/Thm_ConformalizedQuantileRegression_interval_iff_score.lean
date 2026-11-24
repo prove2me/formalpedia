@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalizedQuantileRegression_interval_iff_score
 -- name    : ConformalizedQuantileRegression.interval_iff_score
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:42:51.517805+00:00
 -- url     : https://prove2.me/theorems/3f7b3c24-875a-4378-9ae8-ff7cd631a539

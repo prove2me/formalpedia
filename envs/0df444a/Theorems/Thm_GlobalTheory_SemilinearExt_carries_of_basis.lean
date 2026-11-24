@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilinearExt_carries_of_basis
 -- name    : GlobalTheory.SemilinearExt.carries_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:01:37.875793+00:00
 -- url     : https://prove2.me/theorems/e476395e-c784-43fb-bb5c-bb49073b7829

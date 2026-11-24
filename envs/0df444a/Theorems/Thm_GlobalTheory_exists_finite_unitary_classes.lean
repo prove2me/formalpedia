@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_unitary_classes
 -- name    : GlobalTheory.exists_finite_unitary_classes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:11.594089+00:00
 -- url     : https://prove2.me/theorems/41858643-247a-4c40-898e-3b3995c8212c

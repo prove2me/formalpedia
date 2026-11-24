@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_eq_of_invariant_realSubspace
 -- name    : GlobalTheory.SCV.eq_of_invariant_realSubspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:31:43.048564+00:00
 -- url     : https://prove2.me/theorems/bccd6d7c-c93a-4b50-87bb-7b06d371894b

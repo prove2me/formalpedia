@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_split_etaleHermitianPair_isometry
 -- name    : GlobalTheory.T.exists_split_etaleHermitianPair_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:09.967387+00:00
 -- url     : https://prove2.me/theorems/dc4b1736-0684-417c-b281-af23fd1b5801

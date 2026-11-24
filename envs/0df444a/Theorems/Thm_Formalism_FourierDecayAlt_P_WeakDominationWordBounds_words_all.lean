@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationWordBounds_words_all
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationWordBounds.words_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:46:35.451581+00:00
 -- url     : https://prove2.me/theorems/5b048de2-171a-48c0-bd0c-aa8108c75af6

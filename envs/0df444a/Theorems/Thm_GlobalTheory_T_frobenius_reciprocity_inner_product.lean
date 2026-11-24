@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frobenius_reciprocity_inner_product
 -- name    : GlobalTheory.T.frobenius_reciprocity_inner_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:40:46.848902+00:00
 -- url     : https://prove2.me/theorems/e1607807-a812-4142-9417-3b1d547ab2a3

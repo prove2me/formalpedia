@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimultaneousDiophantineApprox_exists_bounded_multiple_near_integer
 -- name    : GlobalTheory.SimultaneousDiophantineApprox.exists_bounded_multiple_near_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:12:14.478101+00:00
 -- url     : https://prove2.me/theorems/06c5fbe0-94bf-4f37-9f7c-6993ece06c0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_pos_le_latticeHeight_bot_top
 -- name    : GlobalTheory.T.exists_pos_le_latticeHeight_bot_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:38:18.421813+00:00
 -- url     : https://prove2.me/theorems/ccf70eb0-7a23-41c3-a858-0bf373471752

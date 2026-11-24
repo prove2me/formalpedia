@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_local_cohomology_at_places_of_localFiniteness
 -- name    : GlobalTheory.T.finite_local_cohomology_at_places_of_localFiniteness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:48.499868+00:00
 -- url     : https://prove2.me/theorems/0822f080-dbde-4940-922b-7c171efcf661

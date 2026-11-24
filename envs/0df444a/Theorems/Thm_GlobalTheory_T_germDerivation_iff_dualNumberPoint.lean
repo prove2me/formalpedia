@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_germDerivation_iff_dualNumberPoint
 -- name    : GlobalTheory.T.germDerivation_iff_dualNumberPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:40:54.352531+00:00
 -- url     : https://prove2.me/theorems/aa202f11-e650-4c96-a4a2-36ea69e723db

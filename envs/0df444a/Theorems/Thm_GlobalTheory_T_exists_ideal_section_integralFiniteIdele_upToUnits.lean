@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_ideal_section_integralFiniteIdele_upToUnits
 -- name    : GlobalTheory.T.exists_ideal_section_integralFiniteIdele_upToUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:35:59.614149+00:00
 -- url     : https://prove2.me/theorems/de41a8fb-0d99-4f4b-bd6e-fc330cf830e3

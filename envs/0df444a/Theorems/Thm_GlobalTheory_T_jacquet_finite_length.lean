@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquet_finite_length
 -- name    : GlobalTheory.T.jacquet_finite_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:51:26.457684+00:00
 -- url     : https://prove2.me/theorems/5af8dbc4-cf95-4411-bee2-f49f6ec7966a

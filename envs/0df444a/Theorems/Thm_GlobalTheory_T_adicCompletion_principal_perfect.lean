@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adicCompletion_principal_perfect
 -- name    : GlobalTheory.T.adicCompletion_principal_perfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:23.702806+00:00
 -- url     : https://prove2.me/theorems/13e36216-9910-4d72-8ff9-91a6092d3695

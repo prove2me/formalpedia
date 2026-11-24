@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_abs_norm_cpow_unitClasses_partialZeta
 -- name    : GlobalTheory.T.hasSum_abs_norm_cpow_unitClasses_partialZeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:43:17.970825+00:00
 -- url     : https://prove2.me/theorems/ee05ea70-a90f-4f97-95ee-6cd155e2be21

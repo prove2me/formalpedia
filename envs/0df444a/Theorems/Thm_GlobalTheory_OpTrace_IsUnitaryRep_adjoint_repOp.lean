@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_IsUnitaryRep_adjoint_repOp
 -- name    : GlobalTheory.OpTrace.IsUnitaryRep.adjoint_repOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:05.273675+00:00
 -- url     : https://prove2.me/theorems/c31d8e7a-6a4f-4fbf-8157-3b62f84f0941

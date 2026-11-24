@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isAffineCombinationInChart_unique
 -- name    : GlobalTheory.T.isAffineCombinationInChart_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:48:27.22631+00:00
 -- url     : https://prove2.me/theorems/35d4262a-d3d8-4e30-8392-9758ad66e44f

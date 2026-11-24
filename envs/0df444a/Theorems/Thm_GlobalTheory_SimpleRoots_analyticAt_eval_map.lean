@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_analyticAt_eval_map
 -- name    : GlobalTheory.SimpleRoots.analyticAt_eval_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:03.329831+00:00
 -- url     : https://prove2.me/theorems/ab094cb6-7afe-4113-90d2-f6ce46133760

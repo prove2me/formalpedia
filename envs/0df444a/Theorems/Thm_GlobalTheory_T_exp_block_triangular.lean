@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exp_block_triangular
 -- name    : GlobalTheory.T.exp_block_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:39:26.221057+00:00
 -- url     : https://prove2.me/theorems/47592490-d270-44f2-a98c-fd0316120a85

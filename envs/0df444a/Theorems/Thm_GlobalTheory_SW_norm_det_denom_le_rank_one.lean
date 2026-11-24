@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_norm_det_denom_le_rank_one
 -- name    : GlobalTheory.SW.norm_det_denom_le_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:49.905871+00:00
 -- url     : https://prove2.me/theorems/508e9f01-1d95-4a2d-8b9b-15262260dcd3

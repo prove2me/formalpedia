@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inverse_transform_holomorphic_lines
 -- name    : GlobalTheory.T.inverse_transform_holomorphic_lines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:46:47.467856+00:00
 -- url     : https://prove2.me/theorems/722289ec-c85e-4b47-9e0c-087b5527cdd5

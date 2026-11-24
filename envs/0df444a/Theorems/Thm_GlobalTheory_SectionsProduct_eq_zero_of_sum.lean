@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_eq_zero_of_sum
 -- name    : GlobalTheory.SectionsProduct.eq_zero_of_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:52:39.326304+00:00
 -- url     : https://prove2.me/theorems/bbe3951c-3f3e-4f4a-8ea0-3f1347aade6b

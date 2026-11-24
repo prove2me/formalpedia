@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_idempotent_star_eq_one_sub_of_not_isField
 -- name    : GlobalTheory.T.exists_idempotent_star_eq_one_sub_of_not_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:36:05.463287+00:00
 -- url     : https://prove2.me/theorems/70bf2cef-8d37-4c40-9830-f8630aa096ba

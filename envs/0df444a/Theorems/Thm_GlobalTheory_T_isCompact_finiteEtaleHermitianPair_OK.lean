@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCompact_finiteEtaleHermitianPair_OK
 -- name    : GlobalTheory.T.isCompact_finiteEtaleHermitianPair_OK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:47:59.795294+00:00
 -- url     : https://prove2.me/theorems/d601b481-1883-4a96-a2d3-85c009f13808

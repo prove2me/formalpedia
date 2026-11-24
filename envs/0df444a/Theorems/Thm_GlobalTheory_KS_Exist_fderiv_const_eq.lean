@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_fderiv_const_eq
 -- name    : GlobalTheory.KS.Exist.fderiv_const_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:57:28.000859+00:00
 -- url     : https://prove2.me/theorems/9cf06961-357f-4703-81b2-51c4911e4e6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_isUn_form
 -- name    : GlobalTheory.SgAlg.WittField.isUn_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:54:47.163951+00:00
 -- url     : https://prove2.me/theorems/646f600d-b4bc-4c2f-80a5-fb94882d5418

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_latA_blockLat
 -- name    : GlobalTheory.SplitFlip.latA_blockLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:01.213079+00:00
 -- url     : https://prove2.me/theorems/916b3ac5-208d-45ec-aed9-07a70535daf4

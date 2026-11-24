@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_places_inertia_not_fixing_finiteExtension
 -- name    : GlobalTheory.T.finite_places_inertia_not_fixing_finiteExtension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:43.882911+00:00
 -- url     : https://prove2.me/theorems/8b4dc1ef-4df0-40d1-b702-284a9845414e

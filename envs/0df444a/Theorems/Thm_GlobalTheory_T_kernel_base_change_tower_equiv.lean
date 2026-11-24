@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kernel_base_change_tower_equiv
 -- name    : GlobalTheory.T.kernel_base_change_tower_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:50:47.358616+00:00
 -- url     : https://prove2.me/theorems/d9adba86-b199-4f15-b4bc-b1bcf14a3e36

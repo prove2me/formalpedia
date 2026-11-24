@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_inSupport_detRep
 -- name    : GlobalTheory.SmGL.inSupport_detRep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:32:23.489246+00:00
 -- url     : https://prove2.me/theorems/b3b792cd-8293-4c9e-ae6c-7f151553b8df

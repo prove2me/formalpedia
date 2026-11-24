@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLatticeRow_dualCrit
 -- name    : GlobalTheory.CMLatticeRow.dualCrit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:04:39.451193+00:00
 -- url     : https://prove2.me/theorems/1dfc76c7-de37-43d8-b9ae-9488d26252cf

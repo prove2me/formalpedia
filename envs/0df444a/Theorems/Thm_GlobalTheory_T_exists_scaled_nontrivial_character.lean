@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_scaled_nontrivial_character
 -- name    : GlobalTheory.T.exists_scaled_nontrivial_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:37.931401+00:00
 -- url     : https://prove2.me/theorems/f05cb1a6-23c1-4db6-8abd-3c3b3a392e04

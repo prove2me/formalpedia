@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_holomorphic_series_uniform_tube
 -- name    : GlobalTheory.T.holomorphic_series_uniform_tube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:09.205799+00:00
 -- url     : https://prove2.me/theorems/12621ee2-a86c-4e71-b4d3-d2e77d1cac8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmetricSemicharacter_mul_neg_eq_one
 -- name    : GlobalTheory.SymmetricSemicharacter.mul_neg_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:25:39.663894+00:00
 -- url     : https://prove2.me/theorems/d83c947e-e7fb-4f86-8f3f-f6b1db2dd9c3

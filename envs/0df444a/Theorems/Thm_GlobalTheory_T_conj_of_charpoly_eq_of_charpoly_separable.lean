@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_conj_of_charpoly_eq_of_charpoly_separable
 -- name    : GlobalTheory.T.conj_of_charpoly_eq_of_charpoly_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:31:21.433933+00:00
 -- url     : https://prove2.me/theorems/26e1dd77-5fac-4132-ad08-f240af0ffa2b

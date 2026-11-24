@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_zOf_mem_perpX
 -- name    : GlobalTheory.SgGlob.zOf_mem_perpX
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:19:29.865982+00:00
 -- url     : https://prove2.me/theorems/328010df-0eff-41a5-8caa-817c98a8a85c

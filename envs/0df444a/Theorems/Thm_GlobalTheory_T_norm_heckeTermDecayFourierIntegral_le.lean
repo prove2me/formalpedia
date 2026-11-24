@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_heckeTermDecayFourierIntegral_le
 -- name    : GlobalTheory.T.norm_heckeTermDecayFourierIntegral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:53:39.889521+00:00
 -- url     : https://prove2.me/theorems/64fa6945-95cb-469f-b7c0-072eb945831c

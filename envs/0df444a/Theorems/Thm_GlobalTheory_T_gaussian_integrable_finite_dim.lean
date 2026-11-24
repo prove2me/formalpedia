@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussian_integrable_finite_dim
 -- name    : GlobalTheory.T.gaussian_integrable_finite_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:40:38.620625+00:00
 -- url     : https://prove2.me/theorems/755114bd-4283-434c-8b40-7f7960b021c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthMapLogDet_exists_relLength_map
 -- name    : GlobalTheory.SignedLengthMapLogDet.exists_relLength_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:21.30917+00:00
 -- url     : https://prove2.me/theorems/0938fa1e-88fb-4552-b64f-03727e078379

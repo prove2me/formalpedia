@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_Short_shortSmall
 -- name    : GlobalTheory.SmoothForms.Short.shortSmall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:19:10.482585+00:00
 -- url     : https://prove2.me/theorems/02239884-37f2-435e-be66-5d3cc99bf639

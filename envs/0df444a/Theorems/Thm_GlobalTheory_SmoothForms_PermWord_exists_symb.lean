@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_PermWord_exists_symb
 -- name    : GlobalTheory.SmoothForms.PermWord.exists_symb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:38.857583+00:00
 -- url     : https://prove2.me/theorems/57e44334-21a9-4ba8-b2bc-008f07d47b6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_IsPath_eq_of_src_eq_of_mem
 -- name    : GlobalTheory.SplitFlip.IsPath.eq_of_src_eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:20:46.809801+00:00
 -- url     : https://prove2.me/theorems/6d5d8543-de6e-4a6c-87c0-4773aea09e9c

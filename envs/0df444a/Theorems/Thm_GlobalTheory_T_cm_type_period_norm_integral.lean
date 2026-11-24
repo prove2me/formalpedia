@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cm_type_period_norm_integral
 -- name    : GlobalTheory.T.cm_type_period_norm_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:24.301707+00:00
 -- url     : https://prove2.me/theorems/00798239-8f0b-4c17-b2f1-6497a0300d21

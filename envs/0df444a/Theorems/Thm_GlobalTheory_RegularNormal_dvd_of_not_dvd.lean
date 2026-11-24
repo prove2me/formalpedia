@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularNormal_dvd_of_not_dvd
 -- name    : GlobalTheory.RegularNormal.dvd_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:58.079359+00:00
 -- url     : https://prove2.me/theorems/f5ca50e8-a046-4cd8-a471-6d2357aec9f6

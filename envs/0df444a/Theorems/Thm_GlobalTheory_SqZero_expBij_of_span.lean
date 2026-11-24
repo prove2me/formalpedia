@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_expBij_of_span
 -- name    : GlobalTheory.SqZero.expBij_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:22:57.756232+00:00
 -- url     : https://prove2.me/theorems/24e1a8b8-fb80-4fe5-895c-d1a23fcc1a4a

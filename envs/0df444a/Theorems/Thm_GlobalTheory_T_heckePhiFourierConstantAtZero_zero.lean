@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckePhiFourierConstantAtZero_zero
 -- name    : GlobalTheory.T.heckePhiFourierConstantAtZero_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:07.556431+00:00
 -- url     : https://prove2.me/theorems/598da2a0-da1e-4a3d-af08-2aa9622dea03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commute_image_abelianByPrimePower_of_normal_central
 -- name    : GlobalTheory.T.commute_image_abelianByPrimePower_of_normal_central
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:29:29.211811+00:00
 -- url     : https://prove2.me/theorems/c13cc470-ef09-44e5-b1c8-6e25723dbd9a

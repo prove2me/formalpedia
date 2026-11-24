@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmProd_prod_four_maps_eq_one
 -- name    : GlobalTheory.SymmProd.prod_four_maps_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:24:59.003824+00:00
 -- url     : https://prove2.me/theorems/876be6ac-8b87-4199-9ee8-f4640977a8da

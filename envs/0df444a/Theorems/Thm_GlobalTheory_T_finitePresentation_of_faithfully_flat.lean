@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finitePresentation_of_faithfully_flat
 -- name    : GlobalTheory.T.finitePresentation_of_faithfully_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:39:37.871746+00:00
 -- url     : https://prove2.me/theorems/3cd75f56-d68d-49c2-9689-5ef92493047c

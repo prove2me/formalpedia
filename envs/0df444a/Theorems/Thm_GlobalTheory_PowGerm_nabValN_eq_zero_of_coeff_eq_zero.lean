@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_nabValN_eq_zero_of_coeff_eq_zero
 -- name    : GlobalTheory.PowGerm.nabValN_eq_zero_of_coeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:54:48.085799+00:00
 -- url     : https://prove2.me/theorems/e85fff0a-79a5-4dab-95b4-d7ed0201ea45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cotangent_map_injective_of_square_presentation_at_point
 -- name    : GlobalTheory.T.cotangent_map_injective_of_square_presentation_at_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:58.026256+00:00
 -- url     : https://prove2.me/theorems/7e7f4437-6ae3-43eb-8b21-296f5b94a3dd

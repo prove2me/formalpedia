@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finite_coset_representatives
 -- name    : GlobalTheory.T.exists_finite_coset_representatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:35:55.265983+00:00
 -- url     : https://prove2.me/theorems/c9172b18-d2ea-47c3-b255-624c2ae6ed7a

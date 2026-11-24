@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eisenstein_lattice_sum_bound
 -- name    : GlobalTheory.T.eisenstein_lattice_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:33:02.666526+00:00
 -- url     : https://prove2.me/theorems/10dc32d5-7eed-496e-b718-e28a047962e1

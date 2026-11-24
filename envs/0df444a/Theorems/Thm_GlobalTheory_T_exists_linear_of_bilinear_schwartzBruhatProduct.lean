@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_linear_of_bilinear_schwartzBruhatProduct
 -- name    : GlobalTheory.T.exists_linear_of_bilinear_schwartzBruhatProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:36:46.138856+00:00
 -- url     : https://prove2.me/theorems/492f1a45-1e5e-483c-b8cd-397b6ea2b179

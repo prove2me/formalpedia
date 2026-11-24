@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_int_relation_of_isIntegral_relation
 -- name    : GlobalTheory.T.exists_int_relation_of_isIntegral_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:35:01.838689+00:00
 -- url     : https://prove2.me/theorems/6ea369e9-6713-42b4-ae6a-40a17945a648

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_intGerm_eq_expInt
 -- name    : GlobalTheory.RowLaw.intGerm_eq_expInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:31:03.004796+00:00
 -- url     : https://prove2.me/theorems/de2e934b-a5e5-42b5-936a-1e6d278d7cb7

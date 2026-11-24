@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckePhiFourierTransform_sigma_zero_eq
 -- name    : GlobalTheory.T.heckePhiFourierTransform_sigma_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:42.028583+00:00
 -- url     : https://prove2.me/theorems/b80d6308-bf18-49a6-ae61-72f9523eb323

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_localDerivationAlongFibreField_of_affine
 -- name    : GlobalTheory.T.existsUnique_localDerivationAlongFibreField_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:02.464651+00:00
 -- url     : https://prove2.me/theorems/58df4967-0ccb-4b8c-90aa-223d9f3cb62d

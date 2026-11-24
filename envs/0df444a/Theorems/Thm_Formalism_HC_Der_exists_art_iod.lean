@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_exists_art_iod
 -- name    : Formalism.HC.Der.exists_art_iod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:46:10.626259+00:00
 -- url     : https://prove2.me/theorems/67da27c2-40f2-4c17-a7db-ba1d56fd0fdf

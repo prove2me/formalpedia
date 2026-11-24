@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_extId_principal_and_inter
 -- name    : GlobalTheory.RowLev.extId_principal_and_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:32:43.253737+00:00
 -- url     : https://prove2.me/theorems/d7ea4130-1ef9-4078-a3c3-99e89061396e

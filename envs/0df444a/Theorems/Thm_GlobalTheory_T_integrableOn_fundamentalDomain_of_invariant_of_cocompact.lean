@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integrableOn_fundamentalDomain_of_invariant_of_cocompact
 -- name    : GlobalTheory.T.integrableOn_fundamentalDomain_of_invariant_of_cocompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:47:28.740505+00:00
 -- url     : https://prove2.me/theorems/39857004-19f2-4b42-8e7f-d015923310ed

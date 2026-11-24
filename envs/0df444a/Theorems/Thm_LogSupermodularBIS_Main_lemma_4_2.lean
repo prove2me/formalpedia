@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogSupermodularBIS_Main_lemma_4_2
 -- name    : LogSupermodularBIS.Main.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:33:48.365579+00:00
 -- url     : https://prove2.me/theorems/45504ddf-1e3a-471d-9a16-835ede0bfec5

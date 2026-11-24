@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fundamental_domain_of_subgroup_from_coset_reps
 -- name    : GlobalTheory.T.fundamental_domain_of_subgroup_from_coset_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:41:02.257812+00:00
 -- url     : https://prove2.me/theorems/bad86d5f-962e-47c7-8afb-d2b170fb1a71

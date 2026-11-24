@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cayleyTransform_unitary_skew_involutive
 -- name    : GlobalTheory.T.cayleyTransform_unitary_skew_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:38.843488+00:00
 -- url     : https://prove2.me/theorems/e8a011fc-aae2-438b-8c42-1fd1e71e5ee9

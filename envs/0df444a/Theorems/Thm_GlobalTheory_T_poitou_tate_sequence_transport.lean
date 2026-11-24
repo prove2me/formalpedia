@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_poitou_tate_sequence_transport
 -- name    : GlobalTheory.T.poitou_tate_sequence_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:56:30.359441+00:00
 -- url     : https://prove2.me/theorems/f2d13db8-7f53-419f-8002-ee591ccc9de9

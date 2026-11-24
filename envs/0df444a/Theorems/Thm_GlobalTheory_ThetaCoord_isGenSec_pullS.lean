@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_isGenSec_pullS
 -- name    : GlobalTheory.ThetaCoord.isGenSec_pullS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:17:35.557829+00:00
 -- url     : https://prove2.me/theorems/898e054c-08db-4ca7-a60d-bc8d1a148046

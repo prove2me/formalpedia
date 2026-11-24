@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotInt_compact_preimage
 -- name    : GlobalTheory.QuotInt.compact_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:53.038826+00:00
 -- url     : https://prove2.me/theorems/b46ed77c-bd05-4456-a789-c141773791e6

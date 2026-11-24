@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_block_triangular_levi_part_unitary
 -- name    : GlobalTheory.T.unitary_block_triangular_levi_part_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:33:17.564714+00:00
 -- url     : https://prove2.me/theorems/ac755d58-b3f6-41ab-a19f-8d4ea3e16dc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOpen_snd_image_mul_mem_open_groupScheme
 -- name    : GlobalTheory.T.isOpen_snd_image_mul_mem_open_groupScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:49:21.819511+00:00
 -- url     : https://prove2.me/theorems/e0cf29b0-5d39-4ec8-973e-c916a0b1fec8

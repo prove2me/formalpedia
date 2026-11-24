@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_cm
 -- name    : Formalism.HC.Der.cm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:54:25.007284+00:00
 -- url     : https://prove2.me/theorems/380c06ea-d48e-4acc-8039-75cfab1e9a30

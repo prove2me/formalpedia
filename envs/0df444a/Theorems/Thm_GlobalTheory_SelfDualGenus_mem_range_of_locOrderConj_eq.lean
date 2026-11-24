@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_mem_range_of_locOrderConj_eq
 -- name    : GlobalTheory.SelfDualGenus.mem_range_of_locOrderConj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:09:52.99881+00:00
 -- url     : https://prove2.me/theorems/9b62c034-5071-45ec-8aa3-58f988c0a859

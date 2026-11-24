@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_basicOpen_cover_affineOpen_spec
 -- name    : GlobalTheory.T.exists_basicOpen_cover_affineOpen_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:34:22.281557+00:00
 -- url     : https://prove2.me/theorems/58ca40dc-cfcc-4bbc-a46e-2d5a175ec1ec

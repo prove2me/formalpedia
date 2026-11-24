@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_count_of_heisenberg_index
 -- name    : GlobalTheory.T.count_of_heisenberg_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:33:14.884449+00:00
 -- url     : https://prove2.me/theorems/7a7a6ee8-bb44-4f1d-adb9-715750cb66a7

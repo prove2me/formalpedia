@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ind_restrict_eq_card_fixedBy_mul_of_classFn
 -- name    : GlobalTheory.T.ind_restrict_eq_card_fixedBy_mul_of_classFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:49.679172+00:00
 -- url     : https://prove2.me/theorems/0850cd5f-2ddf-499c-9d05-e9d8b13807b9

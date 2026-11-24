@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormalDescent_exists_map_eq_charK
 -- name    : GlobalTheory.NormalDescent.exists_map_eq_charK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:35:55.41235+00:00
 -- url     : https://prove2.me/theorems/e49f8d70-63b2-46f8-89d3-64f611dd26ae

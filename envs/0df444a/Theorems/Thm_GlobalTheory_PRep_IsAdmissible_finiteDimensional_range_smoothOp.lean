@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PRep_IsAdmissible_finiteDimensional_range_smoothOp
 -- name    : GlobalTheory.PRep.IsAdmissible.finiteDimensional_range_smoothOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:41.853526+00:00
 -- url     : https://prove2.me/theorems/7d953e81-7134-42ba-aa01-c6e67ea8bb64

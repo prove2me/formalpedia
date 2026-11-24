@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exponential_derivative_at_zero_isTangent
 -- name    : GlobalTheory.T.exponential_derivative_at_zero_isTangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:41:07.868321+00:00
 -- url     : https://prove2.me/theorems/1a999c30-b693-400f-92b6-2021f0987a09

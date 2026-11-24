@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_tauN_inertia_iff
 -- name    : Formalism.HC.Der.tauN_inertia_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:28:30.927005+00:00
 -- url     : https://prove2.me/theorems/36d78289-b5cb-4427-9239-7e6b284126f2

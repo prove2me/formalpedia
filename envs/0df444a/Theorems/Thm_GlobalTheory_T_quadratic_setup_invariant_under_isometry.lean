@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadratic_setup_invariant_under_isometry
 -- name    : GlobalTheory.T.quadratic_setup_invariant_under_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:55:36.935891+00:00
 -- url     : https://prove2.me/theorems/0d34e98e-2c7d-4236-b09d-04d0f1e91a0b

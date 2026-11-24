@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_glue_spec_localizationAway_morphisms
 -- name    : GlobalTheory.T.exists_glue_spec_localizationAway_morphisms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:36:25.098865+00:00
 -- url     : https://prove2.me/theorems/cb0f0d9c-4af5-4ac3-a00a-56f739a667c8

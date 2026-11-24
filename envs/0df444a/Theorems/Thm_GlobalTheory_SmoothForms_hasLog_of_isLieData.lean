@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_hasLog_of_isLieData
 -- name    : GlobalTheory.SmoothForms.hasLog_of_isLieData
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:20.155806+00:00
 -- url     : https://prove2.me/theorems/12f717a1-6fe8-461b-866b-b9a859e5096e

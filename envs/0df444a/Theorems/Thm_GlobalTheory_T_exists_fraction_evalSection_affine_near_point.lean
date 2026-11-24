@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fraction_evalSection_affine_near_point
 -- name    : GlobalTheory.T.exists_fraction_evalSection_affine_near_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:05.715739+00:00
 -- url     : https://prove2.me/theorems/d801e66b-5c97-4e99-8dda-7edaef95f936

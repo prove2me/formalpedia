@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_weyl_cell_inv
 -- name    : Formalism.FourierDecayAlt.P.Qx4.weyl_cell_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:45:30.391152+00:00
 -- url     : https://prove2.me/theorems/131a782e-649a-435d-90a7-8a27cd831466

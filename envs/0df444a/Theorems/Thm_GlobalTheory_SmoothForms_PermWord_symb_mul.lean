@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_PermWord_symb_mul
 -- name    : GlobalTheory.SmoothForms.PermWord.symb_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:37.460893+00:00
 -- url     : https://prove2.me/theorems/d3aeb47e-a8a3-43fe-9f51-7d1c15486a96

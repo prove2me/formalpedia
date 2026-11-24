@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_det_le_one_of_entries_norm_le_one
 -- name    : GlobalTheory.T.norm_det_le_one_of_entries_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:57.498711+00:00
 -- url     : https://prove2.me/theorems/89a81745-76fa-45c7-9270-62730cace31e

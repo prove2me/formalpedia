@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lagrangian_stabilizer_character_trivial
 -- name    : GlobalTheory.T.lagrangian_stabilizer_character_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:51:12.31588+00:00
 -- url     : https://prove2.me/theorems/2a428a53-9100-4907-9b08-de8713247fbb

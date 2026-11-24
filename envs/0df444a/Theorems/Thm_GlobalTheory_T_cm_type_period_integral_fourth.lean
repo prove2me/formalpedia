@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cm_type_period_integral_fourth
 -- name    : GlobalTheory.T.cm_type_period_integral_fourth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:29:07.207738+00:00
 -- url     : https://prove2.me/theorems/f7da89e1-93f2-4990-85dd-4c9708a173db

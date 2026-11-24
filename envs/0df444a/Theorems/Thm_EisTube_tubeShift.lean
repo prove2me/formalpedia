@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_tubeShift
 -- name    : EisTube.tubeShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:27:01.101328+00:00
 -- url     : https://prove2.me/theorems/8dccf2af-2170-444e-b57a-6a4bef3a2d91

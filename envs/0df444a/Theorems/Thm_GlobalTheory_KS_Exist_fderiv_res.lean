@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_fderiv_res
 -- name    : GlobalTheory.KS.Exist.fderiv_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:57:49.80685+00:00
 -- url     : https://prove2.me/theorems/3afc4348-81d6-444b-83a4-a09dc3a944f1

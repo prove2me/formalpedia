@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isTotalCochainOfDegree_succ_of_differentials
 -- name    : GlobalTheory.T.isTotalCochainOfDegree_succ_of_differentials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:50:59.983918+00:00
 -- url     : https://prove2.me/theorems/4d5d87bd-e2c7-4152-a26b-bf4b85999dad

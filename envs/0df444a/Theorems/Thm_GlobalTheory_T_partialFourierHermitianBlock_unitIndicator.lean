@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialFourierHermitianBlock_unitIndicator
 -- name    : GlobalTheory.T.partialFourierHermitianBlock_unitIndicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:50.977739+00:00
 -- url     : https://prove2.me/theorems/b4c2d590-af45-416a-96fd-b9fda38d728f

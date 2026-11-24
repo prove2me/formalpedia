@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_CuspMax_subsingleton_jacquet_of_perm
 -- name    : GlobalTheory.SmGL.CuspMax.subsingleton_jacquet_of_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:17:36.583184+00:00
 -- url     : https://prove2.me/theorems/3a2a5182-f79a-47af-9381-88ba21cfa9e4

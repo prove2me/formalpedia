@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_isotropic_of_indefinite
 -- name    : GlobalTheory.LocalQuad.isotropic_of_indefinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:24:00.046976+00:00
 -- url     : https://prove2.me/theorems/85c9b41f-bd10-4f01-b89e-150eba9cde1f

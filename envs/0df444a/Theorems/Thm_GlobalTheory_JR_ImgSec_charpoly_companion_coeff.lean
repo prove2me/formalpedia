@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_charpoly_companion_coeff
 -- name    : GlobalTheory.JR.ImgSec.charpoly_companion_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:32:25.249451+00:00
 -- url     : https://prove2.me/theorems/476c7c6e-8d9f-4b80-83f8-631f0475303e

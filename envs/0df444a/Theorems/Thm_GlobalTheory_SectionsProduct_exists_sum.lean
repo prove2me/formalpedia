@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_exists_sum
 -- name    : GlobalTheory.SectionsProduct.exists_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:52:12.956542+00:00
 -- url     : https://prove2.me/theorems/bad15b7f-24af-4e68-972b-126fd989157c

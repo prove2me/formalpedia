@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_frobenius_iterate_product_eq
 -- name    : GlobalTheory.T.exists_unit_frobenius_iterate_product_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:42.448208+00:00
 -- url     : https://prove2.me/theorems/553b663f-88fc-4c1d-bf8f-98472854ce93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dual_pairing_exists
 -- name    : GlobalTheory.T.dual_pairing_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:33:42.121817+00:00
 -- url     : https://prove2.me/theorems/1bb4a06b-c125-4983-8bdb-0a7a3dd70326

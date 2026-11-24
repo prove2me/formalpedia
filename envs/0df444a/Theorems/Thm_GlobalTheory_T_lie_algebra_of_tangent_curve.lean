@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lie_algebra_of_tangent_curve
 -- name    : GlobalTheory.T.lie_algebra_of_tangent_curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:51:41.247338+00:00
 -- url     : https://prove2.me/theorems/3a01bc7e-c433-4852-9194-09f709e8d806

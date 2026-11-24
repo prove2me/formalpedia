@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_galois_group_transport_isomorphism
 -- name    : GlobalTheory.T.galois_group_transport_isomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:40:40.640184+00:00
 -- url     : https://prove2.me/theorems/04cd410d-bd2b-4496-bae7-af36b056bf0e

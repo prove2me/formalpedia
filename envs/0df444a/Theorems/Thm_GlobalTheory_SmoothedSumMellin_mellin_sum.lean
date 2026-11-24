@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothedSumMellin_mellin_sum
 -- name    : GlobalTheory.SmoothedSumMellin.mellin_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:18:38.582822+00:00
 -- url     : https://prove2.me/theorems/7cec1a47-fb21-4f1d-bada-1608a5f0a0d2

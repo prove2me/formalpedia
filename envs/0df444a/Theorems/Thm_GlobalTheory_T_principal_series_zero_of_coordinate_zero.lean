@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_principal_series_zero_of_coordinate_zero
 -- name    : GlobalTheory.T.principal_series_zero_of_coordinate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:55:18.136187+00:00
 -- url     : https://prove2.me/theorems/72b6f331-2e98-4089-bfc1-80fcec24b8f7

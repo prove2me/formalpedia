@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_one_by_one_is_scalar
 -- name    : GlobalTheory.T.hermitian_one_by_one_is_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:42.477723+00:00
 -- url     : https://prove2.me/theorems/a4ede35d-303d-4140-bc01-de281b29fe8f

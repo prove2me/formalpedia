@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lang_count_frobenius_eq_mulVec_solutions
 -- name    : GlobalTheory.T.lang_count_frobenius_eq_mulVec_solutions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:50:35.296411+00:00
 -- url     : https://prove2.me/theorems/f7c898cc-1798-480a-be04-1fe3da483ec8

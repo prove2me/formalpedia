@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isZLattice_fractionalIdealRealLatticeImage
 -- name    : GlobalTheory.T.isZLattice_fractionalIdealRealLatticeImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:51:06.585203+00:00
 -- url     : https://prove2.me/theorems/5a54e4f2-3c69-4e4c-a93d-a7468bc7e62e

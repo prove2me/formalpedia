@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_qnTPres_of
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.qnTPres_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:46:44.938205+00:00
 -- url     : https://prove2.me/theorems/c85e6c63-87e2-46ed-b8a6-620befdbe7b5

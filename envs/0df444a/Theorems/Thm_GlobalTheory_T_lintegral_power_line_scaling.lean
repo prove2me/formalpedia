@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_power_line_scaling
 -- name    : GlobalTheory.T.lintegral_power_line_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:39.085458+00:00
 -- url     : https://prove2.me/theorems/6e46ce15-d87b-43e8-954d-e8659c564f2b

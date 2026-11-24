@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_tauN_frob
 -- name    : Formalism.HC.Der.tauN_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:28:34.858546+00:00
 -- url     : https://prove2.me/theorems/0c95a900-8f1a-40c4-a17e-9b523b394a25

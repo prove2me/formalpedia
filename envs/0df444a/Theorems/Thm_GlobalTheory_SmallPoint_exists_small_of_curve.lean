@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallPoint_exists_small_of_curve
 -- name    : GlobalTheory.SmallPoint.exists_small_of_curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:15:58.157809+00:00
 -- url     : https://prove2.me/theorems/87c88357-e4e8-46f8-aa99-793ad1e0f21e

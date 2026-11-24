@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_add_vector_det_valuation
 -- name    : GlobalTheory.T.lattice_add_vector_det_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:23.608418+00:00
 -- url     : https://prove2.me/theorems/e5d0ea1b-f6ce-403e-8407-58290dbe8e98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_eqOn_of_eventuallyEq
 -- name    : GlobalTheory.SCV.eqOn_of_eventuallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:55:46.628736+00:00
 -- url     : https://prove2.me/theorems/96931f05-c9a2-4a07-80eb-f39f0d06c414

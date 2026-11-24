@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympBlocks_det_ne_zero_and_isSymm
 -- name    : GlobalTheory.SympBlocks.det_ne_zero_and_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:25:03.085814+00:00
 -- url     : https://prove2.me/theorems/9298bd89-b723-4503-9b81-871b3fc1e9ba

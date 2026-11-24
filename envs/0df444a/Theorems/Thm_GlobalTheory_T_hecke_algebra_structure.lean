@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hecke_algebra_structure
 -- name    : GlobalTheory.T.hecke_algebra_structure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:45:53.23626+00:00
 -- url     : https://prove2.me/theorems/95e8b87c-1c1c-4f0a-b768-9952476c10c9

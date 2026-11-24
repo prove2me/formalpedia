@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_measure_L_unit_smul_absK_sq
 -- name    : GlobalTheory.T.haar_measure_L_unit_smul_absK_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:41:55.903849+00:00
 -- url     : https://prove2.me/theorems/85ad9bf7-1276-4887-887c-c6897ef5dd53

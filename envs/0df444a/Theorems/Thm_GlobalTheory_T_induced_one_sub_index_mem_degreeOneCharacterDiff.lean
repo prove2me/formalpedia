@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_induced_one_sub_index_mem_degreeOneCharacterDiff
 -- name    : GlobalTheory.T.induced_one_sub_index_mem_degreeOneCharacterDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:47:43.69214+00:00
 -- url     : https://prove2.me/theorems/682c2112-c4f7-46e8-b248-28c0dd9ff697

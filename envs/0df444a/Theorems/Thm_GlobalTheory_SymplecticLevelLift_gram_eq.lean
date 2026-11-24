@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymplecticLevelLift_gram_eq
 -- name    : GlobalTheory.SymplecticLevelLift.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:26:15.667796+00:00
 -- url     : https://prove2.me/theorems/67f7a3a3-89c4-42df-b356-dab9cb2ff4e0

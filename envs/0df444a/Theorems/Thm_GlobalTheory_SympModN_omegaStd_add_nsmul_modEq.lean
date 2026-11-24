@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympModN_omegaStd_add_nsmul_modEq
 -- name    : GlobalTheory.SympModN.omegaStd_add_nsmul_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:25:39.277082+00:00
 -- url     : https://prove2.me/theorems/426432d5-6a2c-4c8f-ac7b-e886c91e9ac8

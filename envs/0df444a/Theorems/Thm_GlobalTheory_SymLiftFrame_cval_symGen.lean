@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftFrame_cval_symGen
 -- name    : GlobalTheory.SymLiftFrame.cval_symGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:52.122228+00:00
 -- url     : https://prove2.me/theorems/501e6070-85e5-4e56-b4ff-06277259e55e

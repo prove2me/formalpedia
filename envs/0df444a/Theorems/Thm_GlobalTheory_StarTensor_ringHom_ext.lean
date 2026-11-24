@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StarTensor_ringHom_ext
 -- name    : GlobalTheory.StarTensor.ringHom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:22:42.792165+00:00
 -- url     : https://prove2.me/theorems/5a4c3629-67d1-43c9-96aa-e7e54cebb613

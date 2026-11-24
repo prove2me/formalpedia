@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_discreteTopology_fractionalIdealRealLatticeImage
 -- name    : GlobalTheory.T.discreteTopology_fractionalIdealRealLatticeImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:32.122771+00:00
 -- url     : https://prove2.me/theorems/70e4fba4-8ace-47c2-b7af-cd8dc358b02e

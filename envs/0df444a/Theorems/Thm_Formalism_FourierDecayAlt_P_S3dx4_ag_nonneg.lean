@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_ag_nonneg
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.ag_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:57:10.147868+00:00
 -- url     : https://prove2.me/theorems/1aff64b6-ce0a-4d3d-bd6d-da0068e8eb80

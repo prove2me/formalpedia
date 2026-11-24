@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_dilatation_lowers_defect
 -- name    : GlobalTheory.SS.dilatation_lowers_defect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:37:37.466913+00:00
 -- url     : https://prove2.me/theorems/8e982621-66ee-4d5c-a6f9-7e02f562db4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bessel_words_of_domain
 -- name    : Formalism.FourierDecayAlt.P.bessel_words_of_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:43:33.339004+00:00
 -- url     : https://prove2.me/theorems/5f156bc3-efdc-4413-9c4e-a5e2f7bc23e3

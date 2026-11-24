@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NarrowGauss_fourier_gauss
 -- name    : GlobalTheory.NarrowGauss.fourier_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:57:51.500869+00:00
 -- url     : https://prove2.me/theorems/5418cd61-56a3-41f0-93f8-b2e93d6be803

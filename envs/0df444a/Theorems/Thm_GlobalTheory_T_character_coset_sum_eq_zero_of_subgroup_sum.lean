@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_character_coset_sum_eq_zero_of_subgroup_sum
 -- name    : GlobalTheory.T.character_coset_sum_eq_zero_of_subgroup_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:27:27.534669+00:00
 -- url     : https://prove2.me/theorems/5b74a98c-1614-4f97-b1ff-fb37321a48c9

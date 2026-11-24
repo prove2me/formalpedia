@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_GLint_iff_matrixImage_standardLattice_eq
 -- name    : GlobalTheory.T.mem_GLint_iff_matrixImage_standardLattice_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:52:21.547506+00:00
 -- url     : https://prove2.me/theorems/7beb4497-9a18-4c3a-a5b5-0fae5ed0f420

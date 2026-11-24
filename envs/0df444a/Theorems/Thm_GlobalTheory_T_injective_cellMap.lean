@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_injective_cellMap
 -- name    : GlobalTheory.T.injective_cellMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:53.54574+00:00
 -- url     : https://prove2.me/theorems/1e66bba9-9263-45e0-aa4e-1271823eca60

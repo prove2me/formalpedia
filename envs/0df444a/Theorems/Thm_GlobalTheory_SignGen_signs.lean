@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignGen_signs
 -- name    : GlobalTheory.SignGen.signs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:37.107906+00:00
 -- url     : https://prove2.me/theorems/480483cb-6db5-4ef6-9242-84ca954392d4

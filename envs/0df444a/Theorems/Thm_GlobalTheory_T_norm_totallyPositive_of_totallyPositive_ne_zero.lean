@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_totallyPositive_of_totallyPositive_ne_zero
 -- name    : GlobalTheory.T.norm_totallyPositive_of_totallyPositive_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:53:52.826849+00:00
 -- url     : https://prove2.me/theorems/1e6b91d1-3e0d-467e-a896-3a5f066914d1

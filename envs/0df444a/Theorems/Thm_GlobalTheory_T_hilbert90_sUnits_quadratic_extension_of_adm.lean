@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbert90_sUnits_quadratic_extension_of_adm
 -- name    : GlobalTheory.T.hilbert90_sUnits_quadratic_extension_of_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:45:46.758426+00:00
 -- url     : https://prove2.me/theorems/a1443a36-e5a1-4066-b106-19ea9c35584d

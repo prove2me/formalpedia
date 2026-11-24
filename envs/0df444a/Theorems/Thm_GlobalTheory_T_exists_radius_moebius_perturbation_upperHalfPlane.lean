@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_radius_moebius_perturbation_upperHalfPlane
 -- name    : GlobalTheory.T.exists_radius_moebius_perturbation_upperHalfPlane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:38:46.290105+00:00
 -- url     : https://prove2.me/theorems/5c62e615-f644-4016-98a3-c90af17d753a

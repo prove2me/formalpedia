@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubspaceNumber_card_subspaces_mul
 -- name    : GlobalTheory.SubspaceNumber.card_subspaces_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:51:33.732395+00:00
 -- url     : https://prove2.me/theorems/cc741851-93e1-4653-8a86-497b4cb766c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SteinitzProd_exists_prod_equiv
 -- name    : GlobalTheory.SteinitzProd.exists_prod_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:13.235802+00:00
 -- url     : https://prove2.me/theorems/42c66456-cdc1-4f90-ad6e-e7e4954ccaeb

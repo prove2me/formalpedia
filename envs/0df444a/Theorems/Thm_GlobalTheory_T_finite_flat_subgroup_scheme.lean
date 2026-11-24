@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_flat_subgroup_scheme
 -- name    : GlobalTheory.T.finite_flat_subgroup_scheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:39:54.92886+00:00
 -- url     : https://prove2.me/theorems/715fa302-f036-44fd-ba52-733846e21865

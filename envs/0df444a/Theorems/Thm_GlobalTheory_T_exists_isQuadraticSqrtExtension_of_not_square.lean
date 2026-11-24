@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isQuadraticSqrtExtension_of_not_square
 -- name    : GlobalTheory.T.exists_isQuadraticSqrtExtension_of_not_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:38.430131+00:00
 -- url     : https://prove2.me/theorems/6ebe820e-227f-4381-9bc6-ec9ed984488a

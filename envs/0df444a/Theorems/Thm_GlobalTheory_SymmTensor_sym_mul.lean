@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmTensor_sym_mul
 -- name    : GlobalTheory.SymmTensor.sym_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:24:45.005417+00:00
 -- url     : https://prove2.me/theorems/613ac6ed-b467-45f5-a9a2-e7e24b1b75b1

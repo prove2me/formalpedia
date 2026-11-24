@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_compact_subgroup_finite_open_cosets
 -- name    : GlobalTheory.T.compact_subgroup_finite_open_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:30:06.242153+00:00
 -- url     : https://prove2.me/theorems/a9433fd4-94e5-4aeb-b2f7-6edd00eee219

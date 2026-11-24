@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_mem_F
 -- name    : Formalism.HC.Der.mem_F
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:55:33.45863+00:00
 -- url     : https://prove2.me/theorems/eb3a7793-15df-4273-82d0-0584b5100b12

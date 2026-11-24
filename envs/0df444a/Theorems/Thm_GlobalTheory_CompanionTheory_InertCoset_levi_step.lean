@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_levi_step
 -- name    : GlobalTheory.CompanionTheory.InertCoset.levi_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:02:59.108675+00:00
 -- url     : https://prove2.me/theorems/0a18d5a1-5d44-4256-ae81-2bb66270c38d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contour_shift_parametrised_integral
 -- name    : GlobalTheory.T.contour_shift_parametrised_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:34.846585+00:00
 -- url     : https://prove2.me/theorems/050943d7-5ece-4554-836d-6133ea599ff7

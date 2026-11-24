@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_indexTwo_of_traceZeroIndex
 -- name    : GlobalTheory.SatakeWeyl.indexTwo_of_traceZeroIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:48:30.613579+00:00
 -- url     : https://prove2.me/theorems/8b415d38-8a85-4690-9f6d-268cce616fce

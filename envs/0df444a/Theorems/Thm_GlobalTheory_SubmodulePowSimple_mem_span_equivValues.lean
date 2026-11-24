@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubmodulePowSimple_mem_span_equivValues
 -- name    : GlobalTheory.SubmodulePowSimple.mem_span_equivValues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:26.590155+00:00
 -- url     : https://prove2.me/theorems/43afcfee-8877-482d-a6d0-1b1ab5299d9a

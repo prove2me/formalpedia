@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contDiffOn_heckeEisensteinFourierTerm
 -- name    : GlobalTheory.T.contDiffOn_heckeEisensteinFourierTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:31:54.78327+00:00
 -- url     : https://prove2.me/theorems/0ed30af9-77d5-4747-8590-0b5c30349349

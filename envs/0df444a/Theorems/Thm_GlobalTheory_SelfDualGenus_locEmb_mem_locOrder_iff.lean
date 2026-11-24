@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_locEmb_mem_locOrder_iff
 -- name    : GlobalTheory.SelfDualGenus.locEmb_mem_locOrder_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:10:17.703849+00:00
 -- url     : https://prove2.me/theorems/a79a23a7-2832-46ba-962f-11ee858f9aad

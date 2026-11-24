@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmetricSimilarTranspose_exists_bilin
 -- name    : GlobalTheory.SymmetricSimilarTranspose.exists_bilin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:24:51.806127+00:00
 -- url     : https://prove2.me/theorems/9dc0dd63-dbfe-4e13-9305-b92c595156bf

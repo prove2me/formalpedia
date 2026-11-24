@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquetRallis_orbit_invariant_map_proper
 -- name    : GlobalTheory.T.jacquetRallis_orbit_invariant_map_proper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:51:11.537034+00:00
 -- url     : https://prove2.me/theorems/9e221bbe-24e4-42c5-8625-ce0f082a4e77

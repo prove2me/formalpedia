@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_Phi_cont_decay
 -- name    : GlobalTheory.LipschitzTR.Phi_cont_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:12.585334+00:00
 -- url     : https://prove2.me/theorems/c4cfe0d5-d1a2-4534-a293-db6e17f1319e

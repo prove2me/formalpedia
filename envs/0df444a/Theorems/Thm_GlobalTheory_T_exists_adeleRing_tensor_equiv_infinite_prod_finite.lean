@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_adeleRing_tensor_equiv_infinite_prod_finite
 -- name    : GlobalTheory.T.exists_adeleRing_tensor_equiv_infinite_prod_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:33:07.788804+00:00
 -- url     : https://prove2.me/theorems/206d7aca-6d05-4528-9c13-6afbec748e9d

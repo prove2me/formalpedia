@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frobenius_splitting_closed
 -- name    : GlobalTheory.T.frobenius_splitting_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:40:25.795124+00:00
 -- url     : https://prove2.me/theorems/7e253698-0b45-4f54-bc0c-0badfd93082b

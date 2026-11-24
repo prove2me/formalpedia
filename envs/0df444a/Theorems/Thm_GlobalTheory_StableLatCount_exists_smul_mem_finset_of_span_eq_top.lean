@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableLatCount_exists_smul_mem_finset_of_span_eq_top
 -- name    : GlobalTheory.StableLatCount.exists_smul_mem_finset_of_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:45.442857+00:00
 -- url     : https://prove2.me/theorems/00880bd8-f649-4bec-9593-87f520313b66

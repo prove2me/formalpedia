@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_intValuation_norm_eq_sum_residueDegree_mul
 -- name    : GlobalTheory.T.intValuation_norm_eq_sum_residueDegree_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:56.4736+00:00
 -- url     : https://prove2.me/theorems/aca38518-1376-4cf7-aa2e-5c2bb6a04b38

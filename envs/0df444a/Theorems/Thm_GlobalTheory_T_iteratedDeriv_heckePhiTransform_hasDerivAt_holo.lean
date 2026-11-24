@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iteratedDeriv_heckePhiTransform_hasDerivAt_holo
 -- name    : GlobalTheory.T.iteratedDeriv_heckePhiTransform_hasDerivAt_holo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:51:20.886798+00:00
 -- url     : https://prove2.me/theorems/888a31ac-0d45-433f-83aa-eee9f40297e0

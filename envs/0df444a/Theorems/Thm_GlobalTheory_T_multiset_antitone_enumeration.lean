@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_multiset_antitone_enumeration
 -- name    : GlobalTheory.T.multiset_antitone_enumeration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:53:43.029918+00:00
 -- url     : https://prove2.me/theorems/9b9dd5d8-ea63-45eb-945b-2a1be3a02906

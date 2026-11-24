@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_heckeBalancedLatticeDoubleSum
 -- name    : GlobalTheory.T.summable_heckeBalancedLatticeDoubleSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:00:22.006269+00:00
 -- url     : https://prove2.me/theorems/72b0fbd4-f8ff-4be0-b7dd-f3cae985930f

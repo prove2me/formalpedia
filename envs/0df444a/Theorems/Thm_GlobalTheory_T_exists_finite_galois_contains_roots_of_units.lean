@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finite_galois_contains_roots_of_units
 -- name    : GlobalTheory.T.exists_finite_galois_contains_roots_of_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:35:18.228377+00:00
 -- url     : https://prove2.me/theorems/8b22f931-9b68-473c-8d8a-609fb1e6d143

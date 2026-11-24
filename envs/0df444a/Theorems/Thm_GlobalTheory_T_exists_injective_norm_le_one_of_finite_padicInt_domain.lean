@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_injective_norm_le_one_of_finite_padicInt_domain
 -- name    : GlobalTheory.T.exists_injective_norm_le_one_of_finite_padicInt_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:36:08.387834+00:00
 -- url     : https://prove2.me/theorems/53732b08-3774-46cf-bc5c-4cad94e5308b

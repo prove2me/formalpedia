@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_archimedean_fundamental_domain_integers
 -- name    : GlobalTheory.T.archimedean_fundamental_domain_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:26:54.694821+00:00
 -- url     : https://prove2.me/theorems/d5b6796e-091f-454f-972a-e881b5019e9d

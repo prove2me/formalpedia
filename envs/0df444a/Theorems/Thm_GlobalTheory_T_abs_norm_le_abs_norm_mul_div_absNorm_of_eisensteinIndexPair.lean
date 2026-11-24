@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_abs_norm_le_abs_norm_mul_div_absNorm_of_eisensteinIndexPair
 -- name    : GlobalTheory.T.abs_norm_le_abs_norm_mul_div_absNorm_of_eisensteinIndexPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:26:54.326653+00:00
 -- url     : https://prove2.me/theorems/d471ea89-b05e-4d03-b1ea-68d03d090c9d

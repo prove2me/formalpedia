@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_schwartzBruhat_convolution_localFieldPower
 -- name    : GlobalTheory.T.exists_schwartzBruhat_convolution_localFieldPower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:46.316275+00:00
 -- url     : https://prove2.me/theorems/ed661fde-4ecb-4425-8e4a-4f4da50d3b09

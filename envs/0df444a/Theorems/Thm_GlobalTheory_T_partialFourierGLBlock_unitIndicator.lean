@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialFourierGLBlock_unitIndicator
 -- name    : GlobalTheory.T.partialFourierGLBlock_unitIndicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:34.531841+00:00
 -- url     : https://prove2.me/theorems/166f9386-ad51-48b4-83f4-50eeb9c72c66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharIndep_nonempty_equiv_of_smoothTrace_eq
 -- name    : GlobalTheory.CharIndep.nonempty_equiv_of_smoothTrace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:07:48.437825+00:00
 -- url     : https://prove2.me/theorems/01f9976e-89fa-4804-b462-16fe504c9021

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integrable_heckeTermDecayIntegrand
 -- name    : GlobalTheory.T.integrable_heckeTermDecayIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:46:48.718791+00:00
 -- url     : https://prove2.me/theorems/277276fe-459e-4db5-afda-bef80d735296

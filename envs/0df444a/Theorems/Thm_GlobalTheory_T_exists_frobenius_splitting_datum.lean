@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_frobenius_splitting_datum
 -- name    : GlobalTheory.T.exists_frobenius_splitting_datum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:12.610851+00:00
 -- url     : https://prove2.me/theorems/82e95318-fa89-4cdb-a6e8-38cffe1b9f02

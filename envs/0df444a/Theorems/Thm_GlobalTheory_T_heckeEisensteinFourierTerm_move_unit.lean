@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeEisensteinFourierTerm_move_unit
 -- name    : GlobalTheory.T.heckeEisensteinFourierTerm_move_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:43:24.824089+00:00
 -- url     : https://prove2.me/theorems/5f5c41fb-22cd-433a-95d5-5d04272f8ed2

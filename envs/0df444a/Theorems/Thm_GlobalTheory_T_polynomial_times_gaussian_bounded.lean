@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_polynomial_times_gaussian_bounded
 -- name    : GlobalTheory.T.polynomial_times_gaussian_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:32.488242+00:00
 -- url     : https://prove2.me/theorems/6b419288-fb9b-4e28-b7ba-c760e6dbd507

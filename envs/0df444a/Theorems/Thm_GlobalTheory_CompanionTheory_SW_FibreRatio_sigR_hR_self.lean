@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreRatio_sigR_hR_self
 -- name    : GlobalTheory.CompanionTheory.SW.FibreRatio.sigR_hR_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:52:28.95394+00:00
 -- url     : https://prove2.me/theorems/9946a447-9387-409c-a13c-0946de2f3956

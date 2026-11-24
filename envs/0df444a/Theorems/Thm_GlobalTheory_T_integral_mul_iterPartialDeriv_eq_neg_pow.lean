@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_mul_iterPartialDeriv_eq_neg_pow
 -- name    : GlobalTheory.T.integral_mul_iterPartialDeriv_eq_neg_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:46:53.919666+00:00
 -- url     : https://prove2.me/theorems/c2868e3c-cb7c-46d8-b403-c56d5e6add10

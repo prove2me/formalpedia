@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_windowZeros_eq_integral_additiveSystem
 -- name    : GlobalTheory.T.card_windowZeros_eq_integral_additiveSystem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:03.839492+00:00
 -- url     : https://prove2.me/theorems/aeda3845-8868-4c50-8e77-ae1aa958c583

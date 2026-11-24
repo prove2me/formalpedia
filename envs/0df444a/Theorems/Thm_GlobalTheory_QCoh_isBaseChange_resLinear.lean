@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isBaseChange_resLinear
 -- name    : GlobalTheory.QCoh.isBaseChange_resLinear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:44.380527+00:00
 -- url     : https://prove2.me/theorems/abc4aa9e-51cd-4e5a-a689-98dfed401b53

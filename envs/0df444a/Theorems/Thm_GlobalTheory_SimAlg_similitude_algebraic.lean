@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_similitude_algebraic
 -- name    : GlobalTheory.SimAlg.similitude_algebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:12:40.347745+00:00
 -- url     : https://prove2.me/theorems/32fd709a-1109-4707-8ecc-3eca512b2f15

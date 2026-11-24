@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_exists_compact_open_nhd
 -- name    : GlobalTheory.JR.ImgSec.exists_compact_open_nhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:35.956512+00:00
 -- url     : https://prove2.me/theorems/8abd439d-ffac-4b3f-8daf-aaf22307a9ae

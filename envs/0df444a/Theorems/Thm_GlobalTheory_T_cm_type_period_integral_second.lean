@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cm_type_period_integral_second
 -- name    : GlobalTheory.T.cm_type_period_integral_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:28:56.415383+00:00
 -- url     : https://prove2.me/theorems/09666095-ed50-41b9-ba22-74f8ec1e0f62

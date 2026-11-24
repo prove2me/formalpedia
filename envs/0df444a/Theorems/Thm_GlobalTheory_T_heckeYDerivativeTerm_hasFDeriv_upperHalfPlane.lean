@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeYDerivativeTerm_hasFDeriv_upperHalfPlane
 -- name    : GlobalTheory.T.heckeYDerivativeTerm_hasFDeriv_upperHalfPlane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:14.292411+00:00
 -- url     : https://prove2.me/theorems/f5bfce94-a0f5-4773-9272-7b31cd0c3e51

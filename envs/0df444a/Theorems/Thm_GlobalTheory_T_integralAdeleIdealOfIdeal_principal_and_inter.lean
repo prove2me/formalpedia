@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integralAdeleIdealOfIdeal_principal_and_inter
 -- name    : GlobalTheory.T.integralAdeleIdealOfIdeal_principal_and_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:46:49.135337+00:00
 -- url     : https://prove2.me/theorems/ea8c260b-1a39-4a58-bfff-7414bdcefc85

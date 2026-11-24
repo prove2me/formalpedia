@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympModN_exists_eq_nsmul_iff
 -- name    : GlobalTheory.SympModN.exists_eq_nsmul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:26:09.789589+00:00
 -- url     : https://prove2.me/theorems/c6198609-62f9-42e3-bef7-f3eb8d74a775

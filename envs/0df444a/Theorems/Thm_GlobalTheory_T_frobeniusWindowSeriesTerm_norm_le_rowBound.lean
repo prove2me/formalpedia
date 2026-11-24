@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frobeniusWindowSeriesTerm_norm_le_rowBound
 -- name    : GlobalTheory.T.frobeniusWindowSeriesTerm_norm_le_rowBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:12.005228+00:00
 -- url     : https://prove2.me/theorems/6d30461a-18c1-4172-aa9c-14aff11de16d

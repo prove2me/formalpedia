@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_CuspMax_isCuspidal_iff_maximal
 -- name    : GlobalTheory.SmGL.CuspMax.isCuspidal_iff_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:47:19.370276+00:00
 -- url     : https://prove2.me/theorems/f10b29e9-156a-4e64-b907-ffe9c1841ff8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_ball_count_ratio_bound
 -- name    : GlobalTheory.T.lattice_ball_count_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:51:15.66525+00:00
 -- url     : https://prove2.me/theorems/9e4d674d-1443-4dca-8d75-3356abac99f6

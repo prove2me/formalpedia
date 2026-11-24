@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_integral_additiveSystemFrobeniusPowerSum_eq
 -- name    : GlobalTheory.T.existsUnique_integral_additiveSystemFrobeniusPowerSum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:32:59.515687+00:00
 -- url     : https://prove2.me/theorems/53ed5ecf-050c-4ea0-b9ae-809cc7df1d1c

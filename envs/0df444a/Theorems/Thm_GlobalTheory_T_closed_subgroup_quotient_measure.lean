@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_closed_subgroup_quotient_measure
 -- name    : GlobalTheory.T.closed_subgroup_quotient_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:29:00.631908+00:00
 -- url     : https://prove2.me/theorems/bdce5aba-7d4f-453b-b9c6-ed2837402629

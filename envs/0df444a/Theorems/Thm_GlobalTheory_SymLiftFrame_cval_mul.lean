@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftFrame_cval_mul
 -- name    : GlobalTheory.SymLiftFrame.cval_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:25:22.777604+00:00
 -- url     : https://prove2.me/theorems/8a278108-29d4-4ea6-b5da-66f3b87491b5

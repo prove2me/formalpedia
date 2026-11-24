@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_botSpan_eq
 -- name    : GlobalTheory.SW.Emb.botSpan_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:28.816389+00:00
 -- url     : https://prove2.me/theorems/87d0577b-6bdc-4364-baf6-806d20c08846

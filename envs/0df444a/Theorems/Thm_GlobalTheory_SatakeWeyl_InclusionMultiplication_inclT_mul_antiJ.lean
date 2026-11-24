@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_InclusionMultiplication_inclT_mul_antiJ
 -- name    : GlobalTheory.SatakeWeyl.InclusionMultiplication.inclT_mul_antiJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:47:44.811904+00:00
 -- url     : https://prove2.me/theorems/8af02af3-b5b6-4683-aa2c-f859b74aa28d

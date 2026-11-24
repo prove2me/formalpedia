@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_isCplAt_unique
 -- name    : GlobalTheory.Pat.isCplAt_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:42:32.138086+00:00
 -- url     : https://prove2.me/theorems/fa53c7e0-192f-4b57-aa51-19eba0034ae5

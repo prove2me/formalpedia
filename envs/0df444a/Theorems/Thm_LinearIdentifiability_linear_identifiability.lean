@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearIdentifiability_linear_identifiability
 -- name    : LinearIdentifiability.linear_identifiability
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:38:45.013944+00:00
 -- url     : https://prove2.me/theorems/447d4e9f-d772-48e1-a25a-771522767390

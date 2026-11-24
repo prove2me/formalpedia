@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LinCore_core
 -- name    : GlobalTheory.SS.LinCore.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:35:26.667376+00:00
 -- url     : https://prove2.me/theorems/9b765737-9c30-418f-882f-e33604aeddb5

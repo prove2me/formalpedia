@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeWeightTwo_constantTerm_eq_partialZeta_neg_one
 -- name    : GlobalTheory.T.heckeWeightTwo_constantTerm_eq_partialZeta_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:45:57.557074+00:00
 -- url     : https://prove2.me/theorems/841e709f-28fe-4d9b-afe8-a4c9f037de28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDescent_exists_fg_mem_range_incl
 -- name    : GlobalTheory.SmoothDescent.exists_fg_mem_range_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:14:42.226379+00:00
 -- url     : https://prove2.me/theorems/2a775d7b-a03a-46c6-998b-313d53c6bc18

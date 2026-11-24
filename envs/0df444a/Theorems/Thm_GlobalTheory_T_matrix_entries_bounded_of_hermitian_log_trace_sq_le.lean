@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_entries_bounded_of_hermitian_log_trace_sq_le
 -- name    : GlobalTheory.T.matrix_entries_bounded_of_hermitian_log_trace_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:52:17.793411+00:00
 -- url     : https://prove2.me/theorems/a82d22ac-72c5-4fa7-b1d1-01dc57ed2ca4

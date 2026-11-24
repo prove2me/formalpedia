@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_algebraNorm_rat_gaussianExtensionOfPair
 -- name    : GlobalTheory.T.algebraNorm_rat_gaussianExtensionOfPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:26:39.549912+00:00
 -- url     : https://prove2.me/theorems/c32e898d-2263-4438-9e7e-59a27b557343

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PRep_IsAdmissible_smoothTrace_eq_of_equiv
 -- name    : GlobalTheory.PRep.IsAdmissible.smoothTrace_eq_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:39:56.631541+00:00
 -- url     : https://prove2.me/theorems/95a0b4e5-366a-491c-8d5d-33c6d1aaf55c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parabolic_integral_unfolding
 -- name    : GlobalTheory.T.parabolic_integral_unfolding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:33.234623+00:00
 -- url     : https://prove2.me/theorems/5e348c3b-6b1e-409f-9edd-eb30d68d954e

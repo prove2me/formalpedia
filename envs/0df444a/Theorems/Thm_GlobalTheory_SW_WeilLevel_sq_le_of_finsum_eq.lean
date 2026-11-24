@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilLevel_sq_le_of_finsum_eq
 -- name    : GlobalTheory.SW.WeilLevel.sq_le_of_finsum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:46:01.014831+00:00
 -- url     : https://prove2.me/theorems/8a35e24f-57eb-41af-91c6-839e42653641

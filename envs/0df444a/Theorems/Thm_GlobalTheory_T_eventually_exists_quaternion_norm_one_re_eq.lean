@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eventually_exists_quaternion_norm_one_re_eq
 -- name    : GlobalTheory.T.eventually_exists_quaternion_norm_one_re_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:00.813374+00:00
 -- url     : https://prove2.me/theorems/d00a8ae6-53ae-4066-bf6e-9d0b83539d93

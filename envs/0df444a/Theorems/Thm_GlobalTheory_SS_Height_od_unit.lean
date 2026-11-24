@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Height_od_unit
 -- name    : GlobalTheory.SS.Height.od_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:35:29.77056+00:00
 -- url     : https://prove2.me/theorems/cd44d000-aac5-40be-ae2f-bc045cab66e2

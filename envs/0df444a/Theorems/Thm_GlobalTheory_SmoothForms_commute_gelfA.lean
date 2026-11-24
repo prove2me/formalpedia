@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_commute_gelfA
 -- name    : GlobalTheory.SmoothForms.commute_gelfA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:02.975434+00:00
 -- url     : https://prove2.me/theorems/84b3f375-0674-47bd-bb40-28a14e78206a

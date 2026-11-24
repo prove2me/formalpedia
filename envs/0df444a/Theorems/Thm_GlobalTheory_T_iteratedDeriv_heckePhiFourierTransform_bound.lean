@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iteratedDeriv_heckePhiFourierTransform_bound
 -- name    : GlobalTheory.T.iteratedDeriv_heckePhiFourierTransform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:51:20.976261+00:00
 -- url     : https://prove2.me/theorems/be7f0dc1-812d-4b8a-84d1-c137dccf3e51

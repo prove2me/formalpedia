@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ray_L_series_euler_product
 -- name    : GlobalTheory.T.ray_L_series_euler_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:56:04.35923+00:00
 -- url     : https://prove2.me/theorems/c969e74a-e646-4ad4-a5dc-e9642bafb086

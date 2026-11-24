@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_nuN_eq
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.nuN_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:17:18.209443+00:00
 -- url     : https://prove2.me/theorems/b69c2fce-cf20-4d20-b17a-39649cb66cd5

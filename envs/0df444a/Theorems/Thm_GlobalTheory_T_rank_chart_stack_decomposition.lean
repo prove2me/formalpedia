@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rank_chart_stack_decomposition
 -- name    : GlobalTheory.T.rank_chart_stack_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:56:14.262479+00:00
 -- url     : https://prove2.me/theorems/a8fe340b-3787-40e8-a8bb-6ed0f08c7f5b

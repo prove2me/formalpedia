@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_Top_locE_integers
 -- name    : GlobalTheory.SgLoc.Top.locE_integers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:01:38.617555+00:00
 -- url     : https://prove2.me/theorems/78345478-9e17-422d-ae42-389f3e97c9e6

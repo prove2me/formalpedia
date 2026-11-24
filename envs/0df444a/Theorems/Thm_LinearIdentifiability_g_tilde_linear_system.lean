@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearIdentifiability_g_tilde_linear_system
 -- name    : LinearIdentifiability.g_tilde_linear_system
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:37:43.321653+00:00
 -- url     : https://prove2.me/theorems/2a21ba56-aa57-450f-8e02-a3cc06807fbd

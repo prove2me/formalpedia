@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cusp_representatives_finite
 -- name    : GlobalTheory.T.cusp_representatives_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:31:35.459292+00:00
 -- url     : https://prove2.me/theorems/6f65f403-c296-4bf9-a5bf-5f9f44bd71d2

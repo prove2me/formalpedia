@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fg_units_quot_integralUnits_finite_field_ext
 -- name    : GlobalTheory.T.fg_units_quot_integralUnits_finite_field_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:39:48.332465+00:00
 -- url     : https://prove2.me/theorems/5228a984-2022-4435-b216-4d09f230dcbf

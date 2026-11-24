@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepIdem_exists_separability_element
 -- name    : GlobalTheory.SepIdem.exists_separability_element
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:53:17.634827+00:00
 -- url     : https://prove2.me/theorems/289b5da7-149c-444d-a2a6-3add99efea91

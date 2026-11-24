@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_absNorm_eq_of_image
 -- name    : GlobalTheory.QuadraticZeta.absNorm_eq_of_image
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:43:21.144593+00:00
 -- url     : https://prove2.me/theorems/671332b4-ff57-48e2-a81a-7a0baa6ca34d

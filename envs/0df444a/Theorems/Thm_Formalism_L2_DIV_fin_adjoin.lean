@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fin_adjoin
 -- name    : Formalism.L2.DIV.fin_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:30:57.040853+00:00
 -- url     : https://prove2.me/theorems/41fb5940-2540-45df-8edd-05eb205d9967

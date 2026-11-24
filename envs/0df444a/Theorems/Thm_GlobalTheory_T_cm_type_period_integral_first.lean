@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cm_type_period_integral_first
 -- name    : GlobalTheory.T.cm_type_period_integral_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:28:52.818631+00:00
 -- url     : https://prove2.me/theorems/e64e98de-ce22-49cc-bb45-d17477833d10

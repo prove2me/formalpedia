@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cmField_adele_split_place_support_integral
 -- name    : GlobalTheory.T.cmField_adele_split_place_support_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:28:48.128017+00:00
 -- url     : https://prove2.me/theorems/46dc76c3-500b-4f41-9fd1-21429d4f04fe

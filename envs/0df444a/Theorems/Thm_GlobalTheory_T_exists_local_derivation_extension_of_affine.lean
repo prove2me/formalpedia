@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_local_derivation_extension_of_affine
 -- name    : GlobalTheory.T.exists_local_derivation_extension_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:37:09.264369+00:00
 -- url     : https://prove2.me/theorems/8ce69f6b-81b2-472d-bc44-16177b58c5d6

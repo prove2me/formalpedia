@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Model_sum_invFourierSum
 -- name    : GlobalTheory.SplitFlip.Model.sum_invFourierSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:19:53.0358+00:00
 -- url     : https://prove2.me/theorems/515c7b9e-2d58-4fc2-822d-9805e17ac0eb

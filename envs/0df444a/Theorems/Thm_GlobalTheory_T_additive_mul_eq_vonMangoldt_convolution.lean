@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additive_mul_eq_vonMangoldt_convolution
 -- name    : GlobalTheory.T.additive_mul_eq_vonMangoldt_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:26:11.254806+00:00
 -- url     : https://prove2.me/theorems/b3c190a2-b9b9-4c61-90f7-41ed0a9b0464

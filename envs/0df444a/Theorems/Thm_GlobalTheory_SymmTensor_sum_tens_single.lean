@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmTensor_sum_tens_single
 -- name    : GlobalTheory.SymmTensor.sum_tens_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:25:02.42259+00:00
 -- url     : https://prove2.me/theorems/75442d6d-261c-4902-a542-d4631b50f4d8

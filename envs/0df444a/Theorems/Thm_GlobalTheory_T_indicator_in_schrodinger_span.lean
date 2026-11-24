@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_indicator_in_schrodinger_span
 -- name    : GlobalTheory.T.indicator_in_schrodinger_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:38.038841+00:00
 -- url     : https://prove2.me/theorems/3c259955-00ba-42f9-8cff-2983c6b3b9ed

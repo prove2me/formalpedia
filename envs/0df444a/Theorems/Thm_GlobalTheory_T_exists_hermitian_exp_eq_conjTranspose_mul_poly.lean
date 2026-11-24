@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hermitian_exp_eq_conjTranspose_mul_poly
 -- name    : GlobalTheory.T.exists_hermitian_exp_eq_conjTranspose_mul_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:35:58.691602+00:00
 -- url     : https://prove2.me/theorems/da4c389e-599d-43ec-a86d-2f1b7715d5d5

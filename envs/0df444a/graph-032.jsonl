@@ -81278,7 +81278,7 @@
 {"parent": "GraphonCheeger.Supplement.theorem_5_29", "child": "GraphonCheeger_Supplement_graphonModularity", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_a27_original_occupied_Borel_grid_indicator_zero_one_and_card_sum_20261116", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "MonoidProdQ_Supplement_IsPreservingRecord", "child": "MonoidProdQ_prodMap", "via": ["statement"]}
-{"parent": "LonelyRunnerConjecture.classical_small_cases", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
+{"parent": "LonelyRunnerConjecture.classical_small_cases", "child": "LonelyRunnerConjecture_Defs", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.Connections.determined_by_singles_and_pairs", "child": "APFPaper5_K3_free_number_on_each_connection_Vocabulary", "via": ["solution", "statement"]}
 {"parent": "N25.unitRelationNumeratorResidue25_first", "child": "N25_UnitRelationCertificate", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch07.positiveInfiniteMeanContinuousTimeLevyStrongLaw", "child": "Kyprianou_Ch07_LevyMeanAndTailTests", "via": ["statement"]}

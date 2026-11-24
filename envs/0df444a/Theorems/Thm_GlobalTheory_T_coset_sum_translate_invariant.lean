@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coset_sum_translate_invariant
 -- name    : GlobalTheory.T.coset_sum_translate_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:23.645604+00:00
 -- url     : https://prove2.me/theorems/9bc812bf-f457-4ffd-8c48-1a9845998ab6

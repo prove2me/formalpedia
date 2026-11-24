@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_defect_bound_of_smooth_away
 -- name    : GlobalTheory.T.exists_defect_bound_of_smooth_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:14.337861+00:00
 -- url     : https://prove2.me/theorems/08090ace-3e2d-4e75-84d1-ec3106b09f82

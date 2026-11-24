@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelic_character_local_nontrivial
 -- name    : GlobalTheory.T.adelic_character_local_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:48.580217+00:00
 -- url     : https://prove2.me/theorems/8bc436b9-3dd0-466f-a775-e88cf30ed191

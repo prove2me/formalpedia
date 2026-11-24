@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_nabJet
 -- name    : GlobalTheory.PowGerm.nabJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:52:08.323915+00:00
 -- url     : https://prove2.me/theorems/2095cf0a-3567-4753-a45f-fdef013da536

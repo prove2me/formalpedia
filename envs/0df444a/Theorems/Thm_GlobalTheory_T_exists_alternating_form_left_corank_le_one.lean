@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_alternating_form_left_corank_le_one
 -- name    : GlobalTheory.T.exists_alternating_form_left_corank_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:34:26.902467+00:00
 -- url     : https://prove2.me/theorems/f481b0d0-f632-4388-93d4-944a25ae353b

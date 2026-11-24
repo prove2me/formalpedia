@@ -65706,7 +65706,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Bridge50.P23.oscillator_channelPeriod", "child": "QAlgorithms_Papers_Independent_Bridge50_P23", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.connected_planar_face_count_bound__p2m_af58f30d_9690_4bf2_bfba_5c068b1bd46b_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "NemirovskiProx_Hfun", "child": "NemirovskiProx_legendre", "via": ["statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Extend50.P01.generator_symmetrization", "child": "QAlgorithms_Papers_Independent_Extend50_P01", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Extend50.P01.generator_symmetrization", "child": "QAlgorithms_Papers_Independent_Extend50_P01", "via": ["solution", "statement"]}
 {"parent": "DigitalPrivacy_DataStrategy_xiStar", "child": "DigitalPrivacy_DataStrategy_xiI", "via": ["statement"]}
 {"parent": "DiazModulus.unmixedHeight_mvPolynomial", "child": "DiazHilbertBox", "via": ["solution", "statement"]}
 {"parent": "ExponomialAssortment.FPTAS.revenue_identity", "child": "ExponomialAssortment_FPTAS_Rounding", "via": ["statement"]}

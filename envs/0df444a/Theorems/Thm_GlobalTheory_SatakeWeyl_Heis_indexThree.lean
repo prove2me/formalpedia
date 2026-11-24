@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Heis_indexThree
 -- name    : GlobalTheory.SatakeWeyl.Heis.indexThree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:47:17.941151+00:00
 -- url     : https://prove2.me/theorems/164339a5-544d-4ea1-9b10-0421bfc5f558

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_evR_map
 -- name    : GlobalTheory.SupLawProbe.evR_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:24:10.804423+00:00
 -- url     : https://prove2.me/theorems/591e1e4a-de0d-4596-916f-3e5dfb705f90

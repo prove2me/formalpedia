@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_squares_le_two_mul_of_subgroup
 -- name    : GlobalTheory.T.relIndex_squares_le_two_mul_of_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:56:16.568199+00:00
 -- url     : https://prove2.me/theorems/d305f78b-a40a-49b6-9fd5-29c87fced552

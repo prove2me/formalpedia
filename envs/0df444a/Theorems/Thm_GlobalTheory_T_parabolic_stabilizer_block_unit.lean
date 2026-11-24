@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parabolic_stabilizer_block_unit
 -- name    : GlobalTheory.T.parabolic_stabilizer_block_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:21.380013+00:00
 -- url     : https://prove2.me/theorems/d033da11-cfae-4063-8e67-23ba937ea7db

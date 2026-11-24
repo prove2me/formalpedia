@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_modular_character_trivial_finite_covolume
 -- name    : GlobalTheory.T.modular_character_trivial_finite_covolume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:53:21.78171+00:00
 -- url     : https://prove2.me/theorems/7dd2ddbd-4ab5-4c91-b91f-aef660f91957

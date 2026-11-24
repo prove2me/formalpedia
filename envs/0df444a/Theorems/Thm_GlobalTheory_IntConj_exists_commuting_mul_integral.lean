@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntConj_exists_commuting_mul_integral
 -- name    : GlobalTheory.IntConj.exists_commuting_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:51:30.177975+00:00
 -- url     : https://prove2.me/theorems/96b77125-afb3-464b-a0e3-7fa1c4d3e7af

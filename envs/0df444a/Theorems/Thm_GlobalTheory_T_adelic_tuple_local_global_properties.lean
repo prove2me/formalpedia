@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelic_tuple_local_global_properties
 -- name    : GlobalTheory.T.adelic_tuple_local_global_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:27.621435+00:00
 -- url     : https://prove2.me/theorems/ce74f3d1-3c98-476b-b2a7-175a6ea39e38

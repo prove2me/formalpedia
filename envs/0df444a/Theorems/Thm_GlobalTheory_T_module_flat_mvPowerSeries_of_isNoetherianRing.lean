@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_module_flat_mvPowerSeries_of_isNoetherianRing
 -- name    : GlobalTheory.T.module_flat_mvPowerSeries_of_isNoetherianRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:53:12.123715+00:00
 -- url     : https://prove2.me/theorems/af2046ed-b159-4573-912f-8e4101948551

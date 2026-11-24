@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SuperCusp_false_of_infinite
 -- name    : GlobalTheory.SuperCusp.false_of_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:23:15.438066+00:00
 -- url     : https://prove2.me/theorems/0a773dfe-778c-47c2-bb6b-2dc92bc080a1

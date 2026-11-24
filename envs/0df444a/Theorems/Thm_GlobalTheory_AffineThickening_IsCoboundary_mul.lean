@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_IsCoboundary_mul
 -- name    : GlobalTheory.AffineThickening.IsCoboundary.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:57:20.896528+00:00
 -- url     : https://prove2.me/theorems/46adb2cc-4aaa-44e9-a7cb-c67274a32ae2

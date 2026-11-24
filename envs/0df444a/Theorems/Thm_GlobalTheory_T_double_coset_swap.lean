@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_double_coset_swap
 -- name    : GlobalTheory.T.double_coset_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:33:36.921338+00:00
 -- url     : https://prove2.me/theorems/9fd2dff5-fa17-4e25-aa4f-e7fd430feb15

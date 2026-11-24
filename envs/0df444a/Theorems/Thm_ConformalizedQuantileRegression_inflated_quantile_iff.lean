@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalizedQuantileRegression_inflated_quantile_iff
 -- name    : ConformalizedQuantileRegression.inflated_quantile_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:41:03.386798+00:00
 -- url     : https://prove2.me/theorems/ae77f13f-c984-41a0-9daa-525e5ecf85a3

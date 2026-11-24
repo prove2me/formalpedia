@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZigZagStrong_ZigZag_finite_truncation
 -- name    : ZigZagStrong.ZigZag.finite_truncation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:05:33.050203+00:00
 -- url     : https://prove2.me/theorems/0c3ec498-6b45-44f2-b103-4532079f1733

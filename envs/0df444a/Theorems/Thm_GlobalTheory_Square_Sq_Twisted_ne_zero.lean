@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_Sq_Twisted_ne_zero
 -- name    : GlobalTheory.Square.Sq.Twisted.ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:39.532149+00:00
 -- url     : https://prove2.me/theorems/f0890418-c8ce-43cf-a2f1-0f93874c5327

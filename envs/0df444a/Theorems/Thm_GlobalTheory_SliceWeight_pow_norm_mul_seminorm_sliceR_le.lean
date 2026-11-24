@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceWeight_pow_norm_mul_seminorm_sliceR_le
 -- name    : GlobalTheory.SliceWeight.pow_norm_mul_seminorm_sliceR_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:35:44.600071+00:00
 -- url     : https://prove2.me/theorems/fc1a7c5e-87b0-4a01-9922-3d72dd7d438c

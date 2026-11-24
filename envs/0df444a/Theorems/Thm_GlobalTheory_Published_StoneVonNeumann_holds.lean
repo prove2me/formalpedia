@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_StoneVonNeumann_holds
 -- name    : GlobalTheory.Published.StoneVonNeumann_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:03:20.007802+00:00
 -- url     : https://prove2.me/theorems/c0fd73b4-94c1-44d2-92b6-5ab5c74e5936

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mvPowerSeries_exists_polynomial_totalDegree_le_sub_mem
 -- name    : GlobalTheory.T.mvPowerSeries_exists_polynomial_totalDegree_le_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:54:00.024199+00:00
 -- url     : https://prove2.me/theorems/87b0c97f-40f2-4a7a-9fad-ea224dd00dfd

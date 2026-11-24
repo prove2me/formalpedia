@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelic_character_exponential_formula
 -- name    : GlobalTheory.T.adelic_character_exponential_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:52.149606+00:00
 -- url     : https://prove2.me/theorems/edc6caef-e300-4400-8916-cfecad1a4a3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_invariant_matrix_lift_of_adic_complete
 -- name    : GlobalTheory.T.exists_invariant_matrix_lift_of_adic_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:27.948284+00:00
 -- url     : https://prove2.me/theorems/e64c7cc2-6c4f-429b-97a7-bf5f40dd2c3e

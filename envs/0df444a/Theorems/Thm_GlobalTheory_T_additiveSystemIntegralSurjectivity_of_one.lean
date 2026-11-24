@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additiveSystemIntegralSurjectivity_of_one
 -- name    : GlobalTheory.T.additiveSystemIntegralSurjectivity_of_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:26:28.609789+00:00
 -- url     : https://prove2.me/theorems/76e08c74-4ed2-451a-a9fc-972b24c1ca70

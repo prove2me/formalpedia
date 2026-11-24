@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanQuotientTensor_main
 -- name    : GlobalTheory.SpanQuotientTensor.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:42:15.981907+00:00
 -- url     : https://prove2.me/theorems/6ddfc5b2-f7ed-4c92-b337-1e2d9532f07a

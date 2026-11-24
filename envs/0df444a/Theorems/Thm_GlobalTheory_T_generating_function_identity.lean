@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_generating_function_identity
 -- name    : GlobalTheory.T.generating_function_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:43:17.405089+00:00
 -- url     : https://prove2.me/theorems/a25793c9-7848-4f29-b4b5-74124f566ad7

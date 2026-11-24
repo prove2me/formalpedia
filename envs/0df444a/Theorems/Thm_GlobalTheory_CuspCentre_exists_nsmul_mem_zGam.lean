@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_exists_nsmul_mem_zGam
 -- name    : GlobalTheory.CuspCentre.exists_nsmul_mem_zGam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:51:04.883794+00:00
 -- url     : https://prove2.me/theorems/8575dc66-ca94-47bf-bcba-73acd14b4b78

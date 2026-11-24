@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quaternionNormOneTraceOpen_finiteAdeleRing
 -- name    : GlobalTheory.T.quaternionNormOneTraceOpen_finiteAdeleRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:56:47.304172+00:00
 -- url     : https://prove2.me/theorems/e15d596a-ea2d-44af-9647-43854b19961e

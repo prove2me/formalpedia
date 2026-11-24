@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_laplace_integral_entire_boundedInVerticalStrips
 -- name    : GlobalTheory.T.laplace_integral_entire_boundedInVerticalStrips
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:51:01.928886+00:00
 -- url     : https://prove2.me/theorems/6786376f-825b-4c16-9f59-1d13d4b3753a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreTorsion_one_add_smul_pow_expand
 -- name    : GlobalTheory.SerreTorsion.one_add_smul_pow_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:46:01.164078+00:00
 -- url     : https://prove2.me/theorems/9dc7d74e-9a89-4faa-bc2b-e2813c16d19c

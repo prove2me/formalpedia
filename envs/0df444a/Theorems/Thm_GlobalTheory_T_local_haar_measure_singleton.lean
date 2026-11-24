@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_haar_measure_singleton
 -- name    : GlobalTheory.T.local_haar_measure_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:53:27.711479+00:00
 -- url     : https://prove2.me/theorems/1fa8c27f-07d5-426b-b458-e57739e2ecb6

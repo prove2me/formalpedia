@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_smooth_of_defect_zero
 -- name    : GlobalTheory.SS.exists_smooth_of_defect_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:37:27.886472+00:00
 -- url     : https://prove2.me/theorems/11aa4208-d028-40f9-9696-a51c9135aae7

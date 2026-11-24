@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_regular_near_of_regular_quotient_prime
 -- name    : GlobalTheory.T.exists_regular_near_of_regular_quotient_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:57.537176+00:00
 -- url     : https://prove2.me/theorems/8c62c9dd-c77f-4f58-a0e9-6302a5bf8ef9

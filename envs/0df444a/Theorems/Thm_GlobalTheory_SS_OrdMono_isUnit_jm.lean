@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdMono_isUnit_jm
 -- name    : GlobalTheory.SS.OrdMono.isUnit_jm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:51:36.95332+00:00
 -- url     : https://prove2.me/theorems/b1a1662f-d4a1-48ae-9a64-21a9a5c83e0f

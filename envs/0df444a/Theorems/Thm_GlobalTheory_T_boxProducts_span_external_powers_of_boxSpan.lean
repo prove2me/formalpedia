@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_boxProducts_span_external_powers_of_boxSpan
 -- name    : GlobalTheory.T.boxProducts_span_external_powers_of_boxSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:27:46.522803+00:00
 -- url     : https://prove2.me/theorems/6f449e95-f728-490a-bfeb-55c5fffb8c7f

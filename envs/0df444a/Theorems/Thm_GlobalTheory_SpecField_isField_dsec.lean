@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpecField_isField_dsec
 -- name    : GlobalTheory.SpecField.isField_dsec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:01.834558+00:00
 -- url     : https://prove2.me/theorems/b3603db3-2fce-411f-892d-440c8095d2d5

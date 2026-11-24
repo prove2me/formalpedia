@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummableSeriesBounds_bound_of_lin_pow_mul
 -- name    : GlobalTheory.SummableSeriesBounds.bound_of_lin_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:23:47.115365+00:00
 -- url     : https://prove2.me/theorems/98cb168a-46f9-435a-b68f-1247ffe21f86

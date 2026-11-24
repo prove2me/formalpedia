@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_j_app_surjective
 -- name    : GlobalTheory.SS.Ord.j_app_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:16:56.411218+00:00
 -- url     : https://prove2.me/theorems/26c56212-7115-4ea9-86e3-33a5b14c4f3e

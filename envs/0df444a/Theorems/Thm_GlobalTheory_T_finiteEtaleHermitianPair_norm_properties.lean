@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteEtaleHermitianPair_norm_properties
 -- name    : GlobalTheory.T.finiteEtaleHermitianPair_norm_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:39:16.046182+00:00
 -- url     : https://prove2.me/theorems/ef4a1e88-aaf5-49f0-a598-0a4a35b36433

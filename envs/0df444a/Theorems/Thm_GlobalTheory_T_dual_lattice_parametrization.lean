@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dual_lattice_parametrization
 -- name    : GlobalTheory.T.dual_lattice_parametrization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:32:47.423921+00:00
 -- url     : https://prove2.me/theorems/3abd9742-93c4-4fd3-876d-e3626144da2e

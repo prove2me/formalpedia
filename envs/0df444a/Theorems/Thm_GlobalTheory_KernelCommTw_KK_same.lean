@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelCommTw_KK_same
 -- name    : GlobalTheory.KernelCommTw.KK_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:07:58.068803+00:00
 -- url     : https://prove2.me/theorems/77fc04d0-b3eb-4dd6-97e9-4e1367dea931

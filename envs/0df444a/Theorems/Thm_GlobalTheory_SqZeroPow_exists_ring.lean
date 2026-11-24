@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZeroPow_exists_ring
 -- name    : GlobalTheory.SqZeroPow.exists_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:25:16.813193+00:00
 -- url     : https://prove2.me/theorems/83b206ca-b98e-4b6b-bf3c-ad296539dfce

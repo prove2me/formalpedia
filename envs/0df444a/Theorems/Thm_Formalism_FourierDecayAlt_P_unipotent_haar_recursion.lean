@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_haar_recursion
 -- name    : Formalism.FourierDecayAlt.P.unipotent_haar_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:03:54.443508+00:00
 -- url     : https://prove2.me/theorems/7bf1ba84-37b3-4e51-9e73-a6829dbf323e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_chain_step
 -- name    : GlobalTheory.SatakeWeyl.chain_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:47:38.78984+00:00
 -- url     : https://prove2.me/theorems/2466572f-d20a-407f-b359-b98c8b11ea1b

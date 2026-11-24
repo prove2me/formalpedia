@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_exists_small_frame_mem
 -- name    : GlobalTheory.SmoothForms.exists_small_frame_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:01.485314+00:00
 -- url     : https://prove2.me/theorems/2c54e8b1-7ab0-4be5-872a-2e4ce0709a9e

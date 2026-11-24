@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_uh_mem_measurableSet
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.uh_mem_measurableSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:08:35.216629+00:00
 -- url     : https://prove2.me/theorems/abdbb4dc-78a0-4ccb-aeae-975811203058

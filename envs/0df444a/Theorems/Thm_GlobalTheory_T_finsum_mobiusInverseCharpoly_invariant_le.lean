@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finsum_mobiusInverseCharpoly_invariant_le
 -- name    : GlobalTheory.T.finsum_mobiusInverseCharpoly_invariant_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:40:06.518943+00:00
 -- url     : https://prove2.me/theorems/90ba64be-a5fc-4b6d-aaee-d5f1b9bf82bf

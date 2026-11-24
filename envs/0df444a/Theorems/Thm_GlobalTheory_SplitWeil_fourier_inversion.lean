@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_fourier_inversion
 -- name    : GlobalTheory.SplitWeil.fourier_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:04:48.96811+00:00
 -- url     : https://prove2.me/theorems/e06de18d-6c0c-408c-8a68-d49d02b9b6e4

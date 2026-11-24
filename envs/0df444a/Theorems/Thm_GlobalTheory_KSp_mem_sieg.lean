@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_mem_sieg
 -- name    : GlobalTheory.KSp.mem_sieg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:09:51.957228+00:00
 -- url     : https://prove2.me/theorems/8cb0b037-eef1-4942-98d4-02648f42d35b

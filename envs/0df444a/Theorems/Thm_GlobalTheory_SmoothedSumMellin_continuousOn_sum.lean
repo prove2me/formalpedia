@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothedSumMellin_continuousOn_sum
 -- name    : GlobalTheory.SmoothedSumMellin.continuousOn_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:18:34.736992+00:00
 -- url     : https://prove2.me/theorems/8b945fe5-deae-4640-91c1-01b82354c325

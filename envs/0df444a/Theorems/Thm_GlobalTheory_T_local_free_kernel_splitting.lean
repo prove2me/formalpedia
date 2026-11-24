@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_free_kernel_splitting
 -- name    : GlobalTheory.T.local_free_kernel_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:48.16092+00:00
 -- url     : https://prove2.me/theorems/f16dc420-efe6-429d-a180-10b0e199ad02

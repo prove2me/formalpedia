@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussian_tube_transform_continuous
 -- name    : GlobalTheory.T.gaussian_tube_transform_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:41:12.719131+00:00
 -- url     : https://prove2.me/theorems/9e790416-9a18-4d67-a62b-d4e25976946a

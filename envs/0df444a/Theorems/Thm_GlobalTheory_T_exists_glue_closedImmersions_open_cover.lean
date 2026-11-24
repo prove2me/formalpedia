@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_glue_closedImmersions_open_cover
 -- name    : GlobalTheory.T.exists_glue_closedImmersions_open_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:19.365378+00:00
 -- url     : https://prove2.me/theorems/b12d5cb7-04ba-4cde-b140-112c9ecc8203

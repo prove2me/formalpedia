@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymplecticPeriods_exists_symplectic_rows
 -- name    : GlobalTheory.SymplecticPeriods.exists_symplectic_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:25:14.934355+00:00
 -- url     : https://prove2.me/theorems/d464ae3c-8ed8-4d55-b561-2046adb488c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceTaylor_seminorm_slice_taylor_le
 -- name    : GlobalTheory.SliceTaylor.seminorm_slice_taylor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:24.317595+00:00
 -- url     : https://prove2.me/theorems/3e880efb-ed1c-4943-b659-0266639dfc47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_splitting_kernel_base_change
 -- name    : GlobalTheory.T.local_splitting_kernel_base_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:52:40.199182+00:00
 -- url     : https://prove2.me/theorems/21ec3ef7-f0a9-45eb-a964-06ef65b23d6a

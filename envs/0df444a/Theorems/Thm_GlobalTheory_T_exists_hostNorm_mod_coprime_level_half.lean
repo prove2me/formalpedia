@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hostNorm_mod_coprime_level_half
 -- name    : GlobalTheory.T.exists_hostNorm_mod_coprime_level_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:36:31.717072+00:00
 -- url     : https://prove2.me/theorems/6a7d36d2-6bb2-4e64-a292-50d016bf9941

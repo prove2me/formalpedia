@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_regular_element_abelian
 -- name    : GlobalTheory.T.exists_regular_element_abelian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:10.946399+00:00
 -- url     : https://prove2.me/theorems/ccac0dc2-cc68-443c-8e26-aeeb7d79871f

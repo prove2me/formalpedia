@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_reindex_rows
 -- name    : GlobalTheory.T.schwartzBruhat_reindex_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:31.64346+00:00
 -- url     : https://prove2.me/theorems/a1af9178-f64f-4c31-a878-fbc34f234108

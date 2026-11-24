@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_traceDualSignedPositiveCone_iff_totallyPositive
 -- name    : GlobalTheory.T.mem_traceDualSignedPositiveCone_iff_totallyPositive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:52:51.810782+00:00
 -- url     : https://prove2.me/theorems/e1fa29df-58bd-41ef-8a17-c375407bb033

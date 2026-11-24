@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianDescent_geometricallyConnected_of_isPullback
 -- name    : GlobalTheory.SemiAbelianDescent.geometricallyConnected_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:02.457561+00:00
 -- url     : https://prove2.me/theorems/a12dc30d-7364-4c21-b0fb-4da2b17782dd

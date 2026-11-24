@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_bmap_diff
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.bmap_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:06:37.34495+00:00
 -- url     : https://prove2.me/theorems/b0fd7179-59ae-42db-9090-1c39184c2499

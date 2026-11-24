@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSelfDual_image_standardLattice_unitary
 -- name    : GlobalTheory.T.isSelfDual_image_standardLattice_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:50:53.675702+00:00
 -- url     : https://prove2.me/theorems/cd85f18b-56fa-463f-865b-c00cd692232a

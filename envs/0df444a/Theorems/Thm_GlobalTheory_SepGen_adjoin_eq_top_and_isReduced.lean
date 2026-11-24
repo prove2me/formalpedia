@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepGen_adjoin_eq_top_and_isReduced
 -- name    : GlobalTheory.SepGen.adjoin_eq_top_and_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:53:20.453848+00:00
 -- url     : https://prove2.me/theorems/7764c6b1-e533-4ee2-b647-e956f6b150c4

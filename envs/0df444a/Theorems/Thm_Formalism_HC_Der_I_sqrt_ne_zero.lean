@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_I_sqrt_ne_zero
 -- name    : Formalism.HC.Der.I_sqrt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:01:15.129089+00:00
 -- url     : https://prove2.me/theorems/de9e9d87-711c-4887-bb7d-4da8be61d06e

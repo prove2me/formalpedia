@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_closure_wideGaussian_mul_schwartz
 -- name    : GlobalTheory.T.mem_closure_wideGaussian_mul_schwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:52:36.086201+00:00
 -- url     : https://prove2.me/theorems/d98edf7b-532c-4330-aadd-937c79db01a2

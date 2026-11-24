@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_isLieComb_iff_lieExp
 -- name    : GlobalTheory.SqZero.isLieComb_iff_lieExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:24.910629+00:00
 -- url     : https://prove2.me/theorems/260456e0-5fb4-4461-a515-b5d00a7c768d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_two_mul_card_le_card_over
 -- name    : GlobalTheory.QNorm.two_mul_card_le_card_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:03:39.387799+00:00
 -- url     : https://prove2.me/theorems/da21fc50-cb4b-4654-8b86-a0d8afa5fa56

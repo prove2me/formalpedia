@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAdm_levelL_sum
 -- name    : GlobalTheory.SW.WeilAdm.levelL_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:45:12.291548+00:00
 -- url     : https://prove2.me/theorems/7a4d9abd-ea13-47ca-bb91-b947c3768f77

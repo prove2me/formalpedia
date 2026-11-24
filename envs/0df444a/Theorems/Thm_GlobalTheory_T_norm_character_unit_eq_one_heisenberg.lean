@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_character_unit_eq_one_heisenberg
 -- name    : GlobalTheory.T.norm_character_unit_eq_one_heisenberg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:21.718648+00:00
 -- url     : https://prove2.me/theorems/db2c6b67-17e1-4204-8004-8141f2aafbcf

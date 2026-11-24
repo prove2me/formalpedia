@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariant_measure_compact_cover_bound
 -- name    : GlobalTheory.T.invariant_measure_compact_cover_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:47:29.786159+00:00
 -- url     : https://prove2.me/theorems/3a33d93e-5bcd-4adb-938b-cb589f6531f0

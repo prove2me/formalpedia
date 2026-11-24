@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_family_phase_bound
 -- name    : GlobalTheory.T.schwartz_family_phase_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:30.921838+00:00
 -- url     : https://prove2.me/theorems/d2f35774-fa4f-4d8f-838d-15604c8c4e75

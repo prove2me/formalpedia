@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isClosedEmbedding_leftMulMatrixPowerBasisUnitsHom
 -- name    : GlobalTheory.T.isClosedEmbedding_leftMulMatrixPowerBasisUnitsHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:48:05.695724+00:00
 -- url     : https://prove2.me/theorems/b024bde2-7e81-42db-be00-be0159fa9a4d

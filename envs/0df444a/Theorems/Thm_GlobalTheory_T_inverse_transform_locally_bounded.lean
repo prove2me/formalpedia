@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inverse_transform_locally_bounded
 -- name    : GlobalTheory.T.inverse_transform_locally_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:46:40.144537+00:00
 -- url     : https://prove2.me/theorems/73effd23-9286-42c7-8c04-453cd87d6f7c

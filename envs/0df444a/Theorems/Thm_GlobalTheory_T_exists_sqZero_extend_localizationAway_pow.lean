@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_sqZero_extend_localizationAway_pow
 -- name    : GlobalTheory.T.exists_sqZero_extend_localizationAway_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:15.395218+00:00
 -- url     : https://prove2.me/theorems/7e0f65a1-e3ce-48b0-827c-1e0edf44fcec

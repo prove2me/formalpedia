@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_GL_vecMul_eq_last_basis
 -- name    : GlobalTheory.T.exists_GL_vecMul_eq_last_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:32:59.394794+00:00
 -- url     : https://prove2.me/theorems/ba89f0fc-3675-4fcb-823f-5e97feb6b467

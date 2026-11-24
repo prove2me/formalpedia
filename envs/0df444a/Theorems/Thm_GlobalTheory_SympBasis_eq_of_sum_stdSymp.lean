@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympBasis_eq_of_sum_stdSymp
 -- name    : GlobalTheory.SympBasis.eq_of_sum_stdSymp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:24:51.70148+00:00
 -- url     : https://prove2.me/theorems/e1bb4c87-87bb-4294-a58b-eef8cfd07b11

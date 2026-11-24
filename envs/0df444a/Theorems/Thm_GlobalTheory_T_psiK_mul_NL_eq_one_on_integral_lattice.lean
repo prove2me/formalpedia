@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_psiK_mul_NL_eq_one_on_integral_lattice
 -- name    : GlobalTheory.T.psiK_mul_NL_eq_one_on_integral_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:54:55.905128+00:00
 -- url     : https://prove2.me/theorems/fe7845ee-d96a-4ad4-8685-d6fadd5e0dbb

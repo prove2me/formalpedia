@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLocEq_eq_of_trivOutside_of_loc_eq
 -- name    : GlobalTheory.SplitLocEq.eq_of_trivOutside_of_loc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:21:40.012854+00:00
 -- url     : https://prove2.me/theorems/ce971cbe-decd-499e-847c-01680ca56a4d

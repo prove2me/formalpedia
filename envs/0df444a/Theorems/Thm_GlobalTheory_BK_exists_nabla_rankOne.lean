@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_exists_nabla_rankOne
 -- name    : GlobalTheory.BK.exists_nabla_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:29:48.530334+00:00
 -- url     : https://prove2.me/theorems/8e48263b-fc33-4ac7-b934-1f5b30ce504c

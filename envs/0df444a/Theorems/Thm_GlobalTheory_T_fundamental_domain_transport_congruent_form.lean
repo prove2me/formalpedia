@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fundamental_domain_transport_congruent_form
 -- name    : GlobalTheory.T.fundamental_domain_transport_congruent_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:40:59.944133+00:00
 -- url     : https://prove2.me/theorems/dee82128-ab91-4ebd-ba72-d2578e293790

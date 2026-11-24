@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_complete_discreteValuationRing_with_residues
 -- name    : GlobalTheory.exists_complete_discreteValuationRing_with_residues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:13:14.672459+00:00
 -- url     : https://prove2.me/theorems/1964fbfe-7bc7-4f59-94a5-eba20643c2ec

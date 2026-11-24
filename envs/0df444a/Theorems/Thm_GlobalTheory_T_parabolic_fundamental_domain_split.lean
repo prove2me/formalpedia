@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parabolic_fundamental_domain_split
 -- name    : GlobalTheory.T.parabolic_fundamental_domain_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:08.900078+00:00
 -- url     : https://prove2.me/theorems/1b0127cc-7b7e-4950-b08c-6a9a6fc65392

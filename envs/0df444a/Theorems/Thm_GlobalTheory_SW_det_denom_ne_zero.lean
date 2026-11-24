@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_det_denom_ne_zero
 -- name    : GlobalTheory.SW.det_denom_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:37:12.78679+00:00
 -- url     : https://prove2.me/theorems/a326bcea-d91a-4355-98fa-e530d4367416

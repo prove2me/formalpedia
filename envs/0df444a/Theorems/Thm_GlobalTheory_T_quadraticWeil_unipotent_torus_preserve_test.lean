@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadraticWeil_unipotent_torus_preserve_test
 -- name    : GlobalTheory.T.quadraticWeil_unipotent_torus_preserve_test
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:55:27.727516+00:00
 -- url     : https://prove2.me/theorems/3b6b161b-f152-4c4c-afa8-d992aeff7e8e

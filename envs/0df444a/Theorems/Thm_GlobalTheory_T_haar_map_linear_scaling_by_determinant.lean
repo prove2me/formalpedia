@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_map_linear_scaling_by_determinant
 -- name    : GlobalTheory.T.haar_map_linear_scaling_by_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:41:42.949156+00:00
 -- url     : https://prove2.me/theorems/d5e9890e-7585-4fcd-bfa3-dcb6fce7bfbc

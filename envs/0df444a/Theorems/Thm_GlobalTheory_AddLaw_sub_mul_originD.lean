@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_sub_mul_originD
 -- name    : GlobalTheory.AddLaw.sub_mul_originD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:09:49.781924+00:00
 -- url     : https://prove2.me/theorems/c738c450-1fcc-4514-b11c-b17e717817f0

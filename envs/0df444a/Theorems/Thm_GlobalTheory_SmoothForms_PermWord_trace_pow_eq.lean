@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_PermWord_trace_pow_eq
 -- name    : GlobalTheory.SmoothForms.PermWord.trace_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:08.65785+00:00
 -- url     : https://prove2.me/theorems/511ca749-e23c-4ae9-a223-85b2f08f682f

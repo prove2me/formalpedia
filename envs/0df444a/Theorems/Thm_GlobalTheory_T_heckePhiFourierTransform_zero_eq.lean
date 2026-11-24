@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckePhiFourierTransform_zero_eq
 -- name    : GlobalTheory.T.heckePhiFourierTransform_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:59.27097+00:00
 -- url     : https://prove2.me/theorems/841c96f9-e09c-45cf-a0c0-cf0aaa240ce5

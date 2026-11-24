@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_addZ_line
 -- name    : GlobalTheory.AddLaw.addZ_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:09:47.053247+00:00
 -- url     : https://prove2.me/theorems/f515e56a-c790-42bc-a964-94b62d88ec36

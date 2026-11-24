@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finset_eq_sum_addCosetIndicator
 -- name    : GlobalTheory.T.exists_finset_eq_sum_addCosetIndicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:35:19.468313+00:00
 -- url     : https://prove2.me/theorems/86f19676-90a6-4e34-84b1-614fa8a08eaf

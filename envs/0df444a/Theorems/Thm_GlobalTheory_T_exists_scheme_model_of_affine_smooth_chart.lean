@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_scheme_model_of_affine_smooth_chart
 -- name    : GlobalTheory.T.exists_scheme_model_of_affine_smooth_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:39.719519+00:00
 -- url     : https://prove2.me/theorems/45231e98-57d8-48b5-8330-1d8686205c31

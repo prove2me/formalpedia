@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finsum_subspaceStabilizer_mul_block_functions
 -- name    : GlobalTheory.T.finsum_subspaceStabilizer_mul_block_functions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:39:54.857155+00:00
 -- url     : https://prove2.me/theorems/1d11a170-564d-4c15-9314-8dadf47fb9f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_pn_le_conj
 -- name    : GlobalTheory.SupLawProbe.pn_le_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:28:58.274198+00:00
 -- url     : https://prove2.me/theorems/20a2de3a-4e11-434a-8be7-e099453127dc

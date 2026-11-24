@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_smul_le_one_of_primitive_bounded_powers
 -- name    : GlobalTheory.T.norm_smul_le_one_of_primitive_bounded_powers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:53:40.125795+00:00
 -- url     : https://prove2.me/theorems/e8d815ff-de4f-4f10-97f8-2eb7a87e940e

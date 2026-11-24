@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_higherUnits_le_squares_higherUnits
 -- name    : GlobalTheory.T.higherUnits_le_squares_higherUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:45:48.807746+00:00
 -- url     : https://prove2.me/theorems/c36bea0b-7d36-4414-9625-c04027a36850

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_matrix_diagonalizable
 -- name    : GlobalTheory.T.hermitian_matrix_diagonalizable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:35.656809+00:00
 -- url     : https://prove2.me/theorems/3ee53a7d-5149-481c-a90d-e39e93ad2879

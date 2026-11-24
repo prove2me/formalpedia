@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_elementaryDivisors_exist_discretelyValued
 -- name    : GlobalTheory.T.elementaryDivisors_exist_discretelyValued
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:34:28.698636+00:00
 -- url     : https://prove2.me/theorems/e7d0edbe-8c96-47cb-9bf5-7cf99f02ca80

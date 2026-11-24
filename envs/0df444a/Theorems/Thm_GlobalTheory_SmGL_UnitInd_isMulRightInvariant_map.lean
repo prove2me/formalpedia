@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_isMulRightInvariant_map
 -- name    : GlobalTheory.SmGL.UnitInd.isMulRightInvariant_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:56.135196+00:00
 -- url     : https://prove2.me/theorems/d35cfba2-c099-4e00-8296-58aefe226e14

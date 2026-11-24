@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parabolic_fundamental_domain_volume
 -- name    : GlobalTheory.T.parabolic_fundamental_domain_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:15.536587+00:00
 -- url     : https://prove2.me/theorems/f43769e1-43e2-490c-9aa0-85a033aaf832

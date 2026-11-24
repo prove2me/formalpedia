@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallLift_step
 -- name    : GlobalTheory.SmallLift.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:15:26.138945+00:00
 -- url     : https://prove2.me/theorems/0e52fed3-0eb7-4a69-837b-19236f575fe1

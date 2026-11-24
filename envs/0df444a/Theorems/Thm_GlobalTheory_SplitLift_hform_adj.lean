@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLift_hform_adj
 -- name    : GlobalTheory.SplitLift.hform_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:21:28.329549+00:00
 -- url     : https://prove2.me/theorems/74a0c878-28ea-4b96-99ee-47cf70f807e6

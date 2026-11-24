@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfCube_appellHumbert_data_of_iso_cube
 -- name    : GlobalTheory.SelfCube.appellHumbert_data_of_iso_cube
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:50.910612+00:00
 -- url     : https://prove2.me/theorems/50cf4775-78fa-4631-b267-3e15fda6d78d

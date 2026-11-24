@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_doubleCoset_card_div_card_inf_commutative_subgroup
 -- name    : GlobalTheory.T.doubleCoset_card_div_card_inf_commutative_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:47.168269+00:00
 -- url     : https://prove2.me/theorems/706998e0-547d-4e66-94e2-0a8c4adc4331

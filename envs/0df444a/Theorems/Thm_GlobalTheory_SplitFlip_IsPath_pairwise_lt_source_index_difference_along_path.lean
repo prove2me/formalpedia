@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_IsPath_pairwise_lt_source_index_difference_along_path
 -- name    : GlobalTheory.SplitFlip.IsPath.pairwise_lt_source_index_difference_along_path
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:19:58.882393+00:00
 -- url     : https://prove2.me/theorems/4a8cea69-d3f9-44bd-9335-4ccc023ba843

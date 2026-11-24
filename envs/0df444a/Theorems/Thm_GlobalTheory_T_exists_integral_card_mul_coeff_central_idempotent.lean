@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_card_mul_coeff_central_idempotent
 -- name    : GlobalTheory.T.exists_integral_card_mul_coeff_central_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:34:51.595204+00:00
 -- url     : https://prove2.me/theorems/e75928cf-8e34-45fa-920e-b2fb2e7fb19c

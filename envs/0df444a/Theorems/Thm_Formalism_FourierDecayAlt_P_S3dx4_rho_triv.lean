@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_rho_triv
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.rho_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:56:44.651797+00:00
 -- url     : https://prove2.me/theorems/b4effc6e-2c06-4066-b8e7-e6ca0ba9da0d

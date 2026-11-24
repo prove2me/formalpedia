@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_t_bigcellrec
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.t_bigcellrec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:02:36.91888+00:00
 -- url     : https://prove2.me/theorems/d8ebcd45-c001-46b4-8755-fc9561e69dff

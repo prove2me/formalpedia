@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilLevel_levelL_of_fix
 -- name    : GlobalTheory.SW.WeilLevel.levelL_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:00.03875+00:00
 -- url     : https://prove2.me/theorems/48d2f8cc-2472-4725-9279-deb2a26351ec

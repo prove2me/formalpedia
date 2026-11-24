@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hyperbolicWeylAction_eq_fourierEtaleL
 -- name    : GlobalTheory.T.hyperbolicWeylAction_eq_fourierEtaleL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:46:47.843065+00:00
 -- url     : https://prove2.me/theorems/82548e3f-6a82-4d18-87e8-3a737c67b425

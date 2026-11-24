@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSmoothHolomorphicInSigmaFamily_add
 -- name    : GlobalTheory.T.isSmoothHolomorphicInSigmaFamily_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:50:01.153867+00:00
 -- url     : https://prove2.me/theorems/4a9e35a6-9311-44fe-940e-5d52b1c7e46b

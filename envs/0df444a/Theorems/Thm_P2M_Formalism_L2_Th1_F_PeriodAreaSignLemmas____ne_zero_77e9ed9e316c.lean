@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_F_PeriodAreaSignLemmas____ne_zero_77e9ed9e316c
 -- name    : P2M_Formalism_L2_Th1_F_PeriodAreaSignLemmas____ne_zero_77e9ed9e316c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:09:56.033888+00:00
 -- url     : https://prove2.me/theorems/1d1b21e8-d128-4774-9fff-8a409c0c9eb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_oneCocycle_invertibleLocus_isCoboundary_alt
 -- name    : GlobalTheory.T.oneCocycle_invertibleLocus_isCoboundary_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:54:33.540632+00:00
 -- url     : https://prove2.me/theorems/557d9d3e-693a-4718-a1ea-46c8065a022a

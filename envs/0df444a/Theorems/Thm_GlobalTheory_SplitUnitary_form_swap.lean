@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitUnitary_form_swap
 -- name    : GlobalTheory.SplitUnitary.form_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:59:11.27632+00:00
 -- url     : https://prove2.me/theorems/3c1711f0-3d5e-4a1a-85ad-d7d49de2117f

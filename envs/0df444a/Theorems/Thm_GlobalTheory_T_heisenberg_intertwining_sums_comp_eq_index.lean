@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heisenberg_intertwining_sums_comp_eq_index
 -- name    : GlobalTheory.T.heisenberg_intertwining_sums_comp_eq_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:06.255676+00:00
 -- url     : https://prove2.me/theorems/6bb65db9-620e-465d-a233-2ff03c98bafd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_measurable_coordinate_maps_tensor
 -- name    : GlobalTheory.T.measurable_coordinate_maps_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:52:35.013378+00:00
 -- url     : https://prove2.me/theorems/bee526e5-6bb9-4090-97c3-8ce51419de49

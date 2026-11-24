@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteEtale_exists_sq_root_near_one
 -- name    : GlobalTheory.T.finiteEtale_exists_sq_root_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:39:19.872381+00:00
 -- url     : https://prove2.me/theorems/c9f03ca6-542f-457d-822a-7ddb1868bb4c

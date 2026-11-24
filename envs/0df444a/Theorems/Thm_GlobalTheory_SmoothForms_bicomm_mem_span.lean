@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_bicomm_mem_span
 -- name    : GlobalTheory.SmoothForms.bicomm_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:00.107223+00:00
 -- url     : https://prove2.me/theorems/6182928d-4d25-457b-8285-7d661345b44c

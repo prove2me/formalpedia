@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_exists_norm_coeff_partialProd_le
 -- name    : GlobalTheory.SimpleRoots.exists_norm_coeff_partialProd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:13.992011+00:00
 -- url     : https://prove2.me/theorems/a39a14e1-67f9-4229-ab61-4bd96ef24b6d

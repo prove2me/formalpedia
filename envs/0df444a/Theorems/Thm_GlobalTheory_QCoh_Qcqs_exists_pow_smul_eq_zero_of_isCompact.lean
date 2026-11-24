@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_Qcqs_exists_pow_smul_eq_zero_of_isCompact
 -- name    : GlobalTheory.QCoh.Qcqs.exists_pow_smul_eq_zero_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:30.768799+00:00
 -- url     : https://prove2.me/theorems/61c5a671-2ae6-4736-acd6-ae6b2a0e0cb8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coset_congruence_refinement
 -- name    : GlobalTheory.T.coset_congruence_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:32.146089+00:00
 -- url     : https://prove2.me/theorems/9d75476d-c3af-4b6b-9772-d016c1659666

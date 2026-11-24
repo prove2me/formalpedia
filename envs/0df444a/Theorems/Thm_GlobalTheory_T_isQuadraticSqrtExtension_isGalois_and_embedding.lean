@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isQuadraticSqrtExtension_isGalois_and_embedding
 -- name    : GlobalTheory.T.isQuadraticSqrtExtension_isGalois_and_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:49:17.516797+00:00
 -- url     : https://prove2.me/theorems/3c78ea13-1f99-407d-9549-5b5153e055aa

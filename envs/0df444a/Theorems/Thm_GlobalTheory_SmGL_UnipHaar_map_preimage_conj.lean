@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnipHaar_map_preimage_conj
 -- name    : GlobalTheory.SmGL.UnipHaar.map_preimage_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:14:07.533497+00:00
 -- url     : https://prove2.me/theorems/d4a99790-358d-4b3a-910e-0690395c7c8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvBilinTest_exists_factor
 -- name    : GlobalTheory.InvBilinTest.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:18:11.392907+00:00
 -- url     : https://prove2.me/theorems/d491a8bd-3c84-4b47-9098-a9100ff3d53a

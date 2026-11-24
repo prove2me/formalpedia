@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_quaternion_normOne_near_re_sq_ne_one
 -- name    : GlobalTheory.T.exists_quaternion_normOne_near_re_sq_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:38:06.429913+00:00
 -- url     : https://prove2.me/theorems/9b6345db-cbce-4d3b-8c73-9f222b916b8c

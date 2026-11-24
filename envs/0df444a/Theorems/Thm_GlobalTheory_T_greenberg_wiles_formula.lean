@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_greenberg_wiles_formula
 -- name    : GlobalTheory.T.greenberg_wiles_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:42:24.870801+00:00
 -- url     : https://prove2.me/theorems/2fc6b82b-0f0f-4f59-8e9d-b2dbe41e9a63

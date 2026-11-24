@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SocleDet_det_sub_det_mem
 -- name    : GlobalTheory.SocleDet.det_sub_det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:18:41.702348+00:00
 -- url     : https://prove2.me/theorems/f1c93902-98a4-4055-8c55-e5587178d331

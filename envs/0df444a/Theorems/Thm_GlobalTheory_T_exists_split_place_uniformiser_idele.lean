@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_split_place_uniformiser_idele
 -- name    : GlobalTheory.T.exists_split_place_uniformiser_idele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:01.231052+00:00
 -- url     : https://prove2.me/theorems/04b0a2fd-fa51-4030-8637-219678ba2018

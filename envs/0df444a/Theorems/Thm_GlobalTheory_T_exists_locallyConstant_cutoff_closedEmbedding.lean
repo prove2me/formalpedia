@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_locallyConstant_cutoff_closedEmbedding
 -- name    : GlobalTheory.T.exists_locallyConstant_cutoff_closedEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:42.933103+00:00
 -- url     : https://prove2.me/theorems/5c6135a2-8e25-4147-bb08-e667280dfa05

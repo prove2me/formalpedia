@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Model_omA_unip_fourier
 -- name    : GlobalTheory.SplitFlip.Model.omA_unip_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:20:05.588213+00:00
 -- url     : https://prove2.me/theorems/658ae64a-298e-404e-b72f-fa51aebd8bb7

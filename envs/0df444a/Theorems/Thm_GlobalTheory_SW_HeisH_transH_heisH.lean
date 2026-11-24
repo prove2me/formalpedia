@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeisH_transH_heisH
 -- name    : GlobalTheory.SW.HeisH.transH_heisH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:40:30.95089+00:00
 -- url     : https://prove2.me/theorems/5df13b61-a059-4f7b-bc14-c7a32c670598

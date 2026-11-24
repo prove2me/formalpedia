@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_PiSelfDual_trForm_separatingLeft
 -- name    : GlobalTheory.JR.PiSelfDual.trForm_separatingLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:35:59.149095+00:00
 -- url     : https://prove2.me/theorems/32da17e0-dd28-4d1e-849b-850a791aa89d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_prod_poly
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.prod_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:52:11.937646+00:00
 -- url     : https://prove2.me/theorems/61ec5bc7-459b-46d0-a1a1-6c5057e21ff9

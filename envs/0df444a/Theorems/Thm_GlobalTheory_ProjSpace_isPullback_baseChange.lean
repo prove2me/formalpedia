@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_isPullback_baseChange
 -- name    : GlobalTheory.ProjSpace.isPullback_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:45:50.958322+00:00
 -- url     : https://prove2.me/theorems/947bc9d0-57d4-4f24-a795-8fd6492caf18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_hasDerivAt_toLp_omS
 -- name    : GlobalTheory.RealWeil.hasDerivAt_toLp_omS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:16:08.503538+00:00
 -- url     : https://prove2.me/theorems/977e8cd9-62e0-4f71-b601-0d2d839b653d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_totallyPositive_approx_at_finite_places
 -- name    : GlobalTheory.T.exists_totallyPositive_approx_at_finite_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:38:07.857436+00:00
 -- url     : https://prove2.me/theorems/e5dbd995-c669-4ae8-9926-679f3d130e1b

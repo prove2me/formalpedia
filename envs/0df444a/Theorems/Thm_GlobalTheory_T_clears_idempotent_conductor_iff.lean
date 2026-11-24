@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_clears_idempotent_conductor_iff
 -- name    : GlobalTheory.T.clears_idempotent_conductor_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:28:45.15289+00:00
 -- url     : https://prove2.me/theorems/2836ec77-e17f-48ac-a93b-c1bcfffee938

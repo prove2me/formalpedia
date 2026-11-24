@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IwahoriOnto_iwahori_factor
 -- name    : GlobalTheory.SmGL.IwahoriOnto.iwahori_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:31:15.190428+00:00
 -- url     : https://prove2.me/theorems/adcee6fe-3765-4142-81e5-a2926280f694

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_UnfModel_moved_one
 -- name    : GlobalTheory.FunObj.UnfModel.moved_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:40:10.06999+00:00
 -- url     : https://prove2.me/theorems/61f2f91b-051c-42f2-9f17-5f5644a7bb78

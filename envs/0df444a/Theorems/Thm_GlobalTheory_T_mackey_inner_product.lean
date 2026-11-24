@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mackey_inner_product
 -- name    : GlobalTheory.T.mackey_inner_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:51:56.533327+00:00
 -- url     : https://prove2.me/theorems/83f9697f-f4ca-43e1-ae64-a4046862f33e

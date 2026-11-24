@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_block_embedding_GL_inverse
 -- name    : GlobalTheory.T.block_embedding_GL_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:26:06.46945+00:00
 -- url     : https://prove2.me/theorems/bd461cd2-9770-4acc-9a75-2407c0a4aaf8

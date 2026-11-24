@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilinearExt_extOfBasis_basis
 -- name    : GlobalTheory.SemilinearExt.extOfBasis_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:01:38.804195+00:00
 -- url     : https://prove2.me/theorems/45c45ed2-4b07-4fb2-955d-a19a6d57f907

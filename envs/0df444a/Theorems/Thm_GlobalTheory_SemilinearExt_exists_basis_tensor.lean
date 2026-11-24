@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilinearExt_exists_basis_tensor
 -- name    : GlobalTheory.SemilinearExt.exists_basis_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:01:28.531881+00:00
 -- url     : https://prove2.me/theorems/412890c4-00ad-432d-a4ff-5b47dd878ccf

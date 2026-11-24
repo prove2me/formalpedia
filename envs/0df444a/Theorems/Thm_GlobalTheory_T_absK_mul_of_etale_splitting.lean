@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_absK_mul_of_etale_splitting
 -- name    : GlobalTheory.T.absK_mul_of_etale_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:26:17.059006+00:00
 -- url     : https://prove2.me/theorems/f80119d6-0ca2-4bf0-90bf-c5a09d57aef9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IwahoriOnto_iwahoriProj_surjective
 -- name    : GlobalTheory.SmGL.IwahoriOnto.iwahoriProj_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:53.889354+00:00
 -- url     : https://prove2.me/theorems/924d01a1-1b6f-4322-a8d1-667ef866d3f7

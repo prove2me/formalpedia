@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLatticeRow_a1
 -- name    : GlobalTheory.CMLatticeRow.a1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:04:30.113267+00:00
 -- url     : https://prove2.me/theorems/a89a71e3-6032-4cd2-a9e1-bb1050aa6e82

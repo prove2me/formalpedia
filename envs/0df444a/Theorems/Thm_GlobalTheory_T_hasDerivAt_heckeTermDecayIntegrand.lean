@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasDerivAt_heckeTermDecayIntegrand
 -- name    : GlobalTheory.T.hasDerivAt_heckeTermDecayIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:42:15.148784+00:00
 -- url     : https://prove2.me/theorems/00eb0f2b-9293-4ae3-8ea9-411ab721fc9c

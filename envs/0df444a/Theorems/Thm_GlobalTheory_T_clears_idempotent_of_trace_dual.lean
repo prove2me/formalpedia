@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_clears_idempotent_of_trace_dual
 -- name    : GlobalTheory.T.clears_idempotent_of_trace_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:29:21.314453+00:00
 -- url     : https://prove2.me/theorems/4dce8c65-23b8-473a-80ac-6856e139adcb

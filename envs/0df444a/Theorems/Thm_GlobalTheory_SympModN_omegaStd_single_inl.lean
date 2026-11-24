@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympModN_omegaStd_single_inl
 -- name    : GlobalTheory.SympModN.omegaStd_single_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:25:32.378924+00:00
 -- url     : https://prove2.me/theorems/b6f86a52-b303-4b6e-ab33-3e50fdd91758

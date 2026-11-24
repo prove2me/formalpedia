@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.unipotent_haar_recursion
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T21:16:09.0076+00:00
+-- url     : https://prove2.me/submissions/d6c6e3e7-2a45-4770-aff8-9cd8e753c4a1
+
+import Definitions.Def_Formalism_HermitianCurvature_WeylElementCommutesLevelOne
+import Definitions.Def_Formalism_FormalDegreeBessel_FinalG
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HeisenbergLeviConjugationMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_UnipotentHeisenbergDecomposition
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_heisenberg_decomposition
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_recursion_of_parts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_conjugation_by_levi
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_haar_measure
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_levi_conjugation_measure
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_subgroup_closed
+import Theorems.Thm_Formalism_FourierDecayAlt_P_levi_haar_measure_exists
+import Theorems.Thm_Formalism_FourierDecayAlt_P_semidirect_product_haar
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_radical_closed
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MeasureTheory Filter Topology
+open scoped ComplexConjugate ENNReal NNReal
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.B2 Formalism.FourierDecayAlt.P.B2x6
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.B2.NRecHaar :=
+  unipotent_recursion_of_parts semidirect_product_haar levi_haar_measure_exists unipotent_radical_closed heisenberg_subgroup_closed heisenberg_haar_measure
+    heisenberg_conjugation_by_levi heisenberg_levi_conjugation_measure unipotent_heisenberg_decomposition
+end Formalism.FourierDecayAlt.P

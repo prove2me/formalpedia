@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_latticeHeight_update_frameComponent
 -- name    : GlobalTheory.T.latticeHeight_update_frameComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:51:01.419137+00:00
 -- url     : https://prove2.me/theorems/0a257b3d-206e-4042-895f-e9e915672420

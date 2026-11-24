@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_PathSplit_nodup_of_isPath
 -- name    : GlobalTheory.SplitFlip.PathSplit.nodup_of_isPath
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:19:56.605871+00:00
 -- url     : https://prove2.me/theorems/afb56687-530e-4686-a095-975751f32cc5

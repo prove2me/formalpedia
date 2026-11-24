@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_continuous_functional_iterPartialDeriv
 -- name    : GlobalTheory.T.exists_continuous_functional_iterPartialDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:34:36.999795+00:00
 -- url     : https://prove2.me/theorems/f998b08e-85bf-45e1-acaf-8e01bb24ce0f

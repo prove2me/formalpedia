@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_mem_gL
 -- name    : GlobalTheory.SA.mem_gL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:23.800525+00:00
 -- url     : https://prove2.me/theorems/42365c41-300e-431f-90af-2f9016382acc

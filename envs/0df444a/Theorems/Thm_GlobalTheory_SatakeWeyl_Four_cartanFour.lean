@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Four_cartanFour
 -- name    : GlobalTheory.SatakeWeyl.Four.cartanFour
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:48:46.020651+00:00
 -- url     : https://prove2.me/theorems/d4b42392-740f-406c-acb6-45004486a6d4

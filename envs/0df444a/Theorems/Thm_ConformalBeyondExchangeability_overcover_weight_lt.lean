@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalBeyondExchangeability_overcover_weight_lt
 -- name    : ConformalBeyondExchangeability.overcover_weight_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:50:08.6884+00:00
 -- url     : https://prove2.me/theorems/364a8ec4-4d0a-496e-91ff-663410ad48a8

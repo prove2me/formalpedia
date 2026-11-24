@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisentanglementImpossibility_orthogonal_map_std_gaussian
 -- name    : DisentanglementImpossibility.orthogonal_map_std_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:30:49.106568+00:00
 -- url     : https://prove2.me/theorems/be882d6f-0ec6-4681-bddc-02c903742dd8

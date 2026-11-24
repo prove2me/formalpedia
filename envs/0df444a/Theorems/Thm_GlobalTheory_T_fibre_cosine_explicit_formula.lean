@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fibre_cosine_explicit_formula
 -- name    : GlobalTheory.T.fibre_cosine_explicit_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:39:54.560355+00:00
 -- url     : https://prove2.me/theorems/025a1a49-9c3c-49f6-9ada-12cb5a1063df

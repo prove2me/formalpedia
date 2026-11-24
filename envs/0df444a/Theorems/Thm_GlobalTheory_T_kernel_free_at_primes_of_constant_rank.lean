@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kernel_free_at_primes_of_constant_rank
 -- name    : GlobalTheory.T.kernel_free_at_primes_of_constant_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:51:09.9809+00:00
 -- url     : https://prove2.me/theorems/371b958d-704d-4a20-941a-6afd35d5b13c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mvPolynomial_eval_zero_of_vanishing_rational_skewHermitian
 -- name    : GlobalTheory.T.mvPolynomial_eval_zero_of_vanishing_rational_skewHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:53:43.917355+00:00
 -- url     : https://prove2.me/theorems/80f5a54c-bbdd-4000-b5f1-c037f23969c1

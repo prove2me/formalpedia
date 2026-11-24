@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_sqLeCm
 -- name    : Formalism.L2.DIV.sqLeCm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:31:04.209536+00:00
 -- url     : https://prove2.me/theorems/8bb2c942-65be-4bd6-aeb8-f9b9c24126d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_sq_mod
 -- name    : Formalism.HC.Der.sq_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:46:13.436418+00:00
 -- url     : https://prove2.me/theorems/d38eb45b-10e2-4556-b9ea-5d83e90651c5

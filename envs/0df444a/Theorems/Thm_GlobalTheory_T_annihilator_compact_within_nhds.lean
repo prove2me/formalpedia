@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_annihilator_compact_within_nhds
 -- name    : GlobalTheory.T.annihilator_compact_within_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:26:11.338496+00:00
 -- url     : https://prove2.me/theorems/8de57c00-06cf-4bb9-82f3-e7fcc81c8d4f

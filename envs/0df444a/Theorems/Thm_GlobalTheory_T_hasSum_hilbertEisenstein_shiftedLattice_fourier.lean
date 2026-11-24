@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_hilbertEisenstein_shiftedLattice_fourier
 -- name    : GlobalTheory.T.hasSum_hilbertEisenstein_shiftedLattice_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:44:10.807706+00:00
 -- url     : https://prove2.me/theorems/21888587-fbaf-445c-8477-c41b6961e3c1

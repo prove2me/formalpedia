@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOpen_nsmul_adelicCompletionOfVectorSet
 -- name    : GlobalTheory.T.isOpen_nsmul_adelicCompletionOfVectorSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:49:15.578934+00:00
 -- url     : https://prove2.me/theorems/79617be6-c2d8-4638-8067-ae025befbe86

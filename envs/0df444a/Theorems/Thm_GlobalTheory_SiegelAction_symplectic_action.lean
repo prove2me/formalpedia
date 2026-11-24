@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelAction_symplectic_action
 -- name    : GlobalTheory.SiegelAction.symplectic_action
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:37.956556+00:00
 -- url     : https://prove2.me/theorems/4144d4aa-4eed-47e9-9e0d-3171654c1f32

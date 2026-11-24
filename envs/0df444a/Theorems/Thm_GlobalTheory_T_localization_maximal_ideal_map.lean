@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_localization_maximal_ideal_map
 -- name    : GlobalTheory.T.localization_maximal_ideal_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:52:30.816469+00:00
 -- url     : https://prove2.me/theorems/1168a781-1f44-4e24-b8d1-8e587e512992

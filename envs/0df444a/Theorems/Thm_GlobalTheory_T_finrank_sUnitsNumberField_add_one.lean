@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_sUnitsNumberField_add_one
 -- name    : GlobalTheory.T.finrank_sUnitsNumberField_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:58.084504+00:00
 -- url     : https://prove2.me/theorems/43d72da9-ccc2-4d3b-b278-b299d59f17f8

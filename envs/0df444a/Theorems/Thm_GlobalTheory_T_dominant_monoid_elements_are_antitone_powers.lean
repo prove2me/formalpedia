@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dominant_monoid_elements_are_antitone_powers
 -- name    : GlobalTheory.T.dominant_monoid_elements_are_antitone_powers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:28.826334+00:00
 -- url     : https://prove2.me/theorems/b1425570-d622-4163-bbb6-2385a73d1739

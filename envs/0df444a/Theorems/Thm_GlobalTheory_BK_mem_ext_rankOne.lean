@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_mem_ext_rankOne
 -- name    : GlobalTheory.BK.mem_ext_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:31:54.467207+00:00
 -- url     : https://prove2.me/theorems/8175f218-4bde-427d-b5c2-ac2ef399f59a

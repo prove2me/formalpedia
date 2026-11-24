@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SameZeroScheme_exists_isGen_linComb
 -- name    : GlobalTheory.SameZeroScheme.exists_isGen_linComb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:47.930401+00:00
 -- url     : https://prove2.me/theorems/672f7409-0767-49c3-91ce-38d43de85feb

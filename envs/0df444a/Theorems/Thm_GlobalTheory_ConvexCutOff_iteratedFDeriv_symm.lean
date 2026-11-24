@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvexCutOff_iteratedFDeriv_symm
 -- name    : GlobalTheory.ConvexCutOff.iteratedFDeriv_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:27:17.23604+00:00
 -- url     : https://prove2.me/theorems/9abb93d5-e626-4a05-84cd-5d801f92c184

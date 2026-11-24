@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linear_map_zero_of_injective_full_rank
 -- name    : GlobalTheory.T.linear_map_zero_of_injective_full_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:52.749801+00:00
 -- url     : https://prove2.me/theorems/3607292a-e860-48cf-8ae6-2ce2479b4cec

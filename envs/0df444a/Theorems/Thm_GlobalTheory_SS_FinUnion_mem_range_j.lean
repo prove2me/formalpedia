@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FinUnion_mem_range_j
 -- name    : GlobalTheory.SS.FinUnion.mem_range_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:57:11.312037+00:00
 -- url     : https://prove2.me/theorems/c0b4aa9d-284a-46ce-8e46-42be6d1cd3f9

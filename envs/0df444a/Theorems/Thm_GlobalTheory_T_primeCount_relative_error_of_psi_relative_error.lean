@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primeCount_relative_error_of_psi_relative_error
 -- name    : GlobalTheory.T.primeCount_relative_error_of_psi_relative_error
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:54:51.188603+00:00
 -- url     : https://prove2.me/theorems/7864df7b-cca7-4b97-be58-fa6adf4cfec1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_detW_block_matrix_formula
 -- name    : GlobalTheory.T.detW_block_matrix_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:31:48.570565+00:00
 -- url     : https://prove2.me/theorems/74868f4b-79dd-43b2-9199-6836c8bf74f8

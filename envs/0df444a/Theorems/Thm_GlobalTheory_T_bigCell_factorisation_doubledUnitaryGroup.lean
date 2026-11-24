@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_bigCell_factorisation_doubledUnitaryGroup
 -- name    : GlobalTheory.T.bigCell_factorisation_doubledUnitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:26:13.690617+00:00
 -- url     : https://prove2.me/theorems/52017a8a-be0f-48b5-9680-846fd7b8a6a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ProjSpace_chart__baseChange_4f839b0b071b
 -- name    : P2M_GlobalTheory_ProjSpace_chart__baseChange_4f839b0b071b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:20.418783+00:00
 -- url     : https://prove2.me/theorems/26f090b1-10ad-4ae6-84e2-d04a03fb5278

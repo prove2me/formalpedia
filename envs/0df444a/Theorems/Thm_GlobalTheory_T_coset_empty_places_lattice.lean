@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coset_empty_places_lattice
 -- name    : GlobalTheory.T.coset_empty_places_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:15.832395+00:00
 -- url     : https://prove2.me/theorems/b2afc5ad-f62e-45a8-9522-0632699d6b43

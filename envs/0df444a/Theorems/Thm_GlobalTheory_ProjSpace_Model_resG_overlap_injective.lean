@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_resG_overlap_injective
 -- name    : GlobalTheory.ProjSpace.Model.resG_overlap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:59:16.491801+00:00
 -- url     : https://prove2.me/theorems/60e93069-c387-4a8e-a371-84b7df730b69

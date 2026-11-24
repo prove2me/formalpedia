@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isLocallyConstant_partialFourierGLBlock
 -- name    : GlobalTheory.T.isLocallyConstant_partialFourierGLBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:49:29.918892+00:00
 -- url     : https://prove2.me/theorems/e2cf4d4d-6152-47fb-8df3-e3f713ec85a5

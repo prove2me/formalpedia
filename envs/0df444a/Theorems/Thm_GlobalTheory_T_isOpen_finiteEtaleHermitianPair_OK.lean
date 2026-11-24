@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOpen_finiteEtaleHermitianPair_OK
 -- name    : GlobalTheory.T.isOpen_finiteEtaleHermitianPair_OK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:49:21.924961+00:00
 -- url     : https://prove2.me/theorems/842e655e-5878-440e-93d4-810841109e68

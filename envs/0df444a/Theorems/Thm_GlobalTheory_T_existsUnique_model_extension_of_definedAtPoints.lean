@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_model_extension_of_definedAtPoints
 -- name    : GlobalTheory.T.existsUnique_model_extension_of_definedAtPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:33:04.194027+00:00
 -- url     : https://prove2.me/theorems/eee143d9-78c7-4057-a7b6-00ade9850abf

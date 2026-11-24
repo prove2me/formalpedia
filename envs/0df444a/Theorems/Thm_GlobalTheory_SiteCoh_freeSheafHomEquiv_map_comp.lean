@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiteCoh_freeSheafHomEquiv_map_comp
 -- name    : GlobalTheory.SiteCoh.freeSheafHomEquiv_map_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:13:33.935813+00:00
 -- url     : https://prove2.me/theorems/fde9c23a-4cca-4807-9f75-5c4f3725fad4

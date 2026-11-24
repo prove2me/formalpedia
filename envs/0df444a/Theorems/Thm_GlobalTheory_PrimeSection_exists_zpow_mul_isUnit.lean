@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_exists_zpow_mul_isUnit
 -- name    : GlobalTheory.PrimeSection.exists_zpow_mul_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:28:58.42486+00:00
 -- url     : https://prove2.me/theorems/62b07551-26c3-4367-ac64-612766ceeba5

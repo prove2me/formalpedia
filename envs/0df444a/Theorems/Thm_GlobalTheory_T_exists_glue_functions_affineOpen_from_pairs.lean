@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_glue_functions_affineOpen_from_pairs
 -- name    : GlobalTheory.T.exists_glue_functions_affineOpen_from_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:48.633653+00:00
 -- url     : https://prove2.me/theorems/514591cd-ab2f-45df-a406-af9386d81ec3

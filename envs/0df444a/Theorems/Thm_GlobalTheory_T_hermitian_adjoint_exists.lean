@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_adjoint_exists
 -- name    : GlobalTheory.T.hermitian_adjoint_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:45:02.880096+00:00
 -- url     : https://prove2.me/theorems/aa82541d-184d-4d8c-845f-b1c6b0fa80ec

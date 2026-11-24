@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortDatumEq_pairL_levRep
 -- name    : GlobalTheory.ShortDatumEq.pairL_levRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:11:54.611803+00:00
 -- url     : https://prove2.me/theorems/dc370ae6-51a4-4167-a35e-02ddcc483668

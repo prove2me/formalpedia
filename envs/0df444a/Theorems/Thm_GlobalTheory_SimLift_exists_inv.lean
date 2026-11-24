@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimLift_exists_inv
 -- name    : GlobalTheory.SimLift.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:38:23.230104+00:00
 -- url     : https://prove2.me/theorems/443f31ec-f9b0-4e6d-b5d5-3913f0a2f4de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cechAntisymmetrizedCupProduct_vanish_above_degree
 -- name    : GlobalTheory.T.cechAntisymmetrizedCupProduct_vanish_above_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:27.040024+00:00
 -- url     : https://prove2.me/theorems/08127d3a-b3ce-439b-ac15-35afe4df3b16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_baseChange_app_ratioOn
 -- name    : GlobalTheory.ProjSpace.baseChange_app_ratioOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:43.452723+00:00
 -- url     : https://prove2.me/theorems/00ebcad4-78d3-495f-9077-d37f0cf26bba

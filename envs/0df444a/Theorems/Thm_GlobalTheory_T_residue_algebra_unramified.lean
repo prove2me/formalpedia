@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_residue_algebra_unramified
 -- name    : GlobalTheory.T.residue_algebra_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:56:18.681102+00:00
 -- url     : https://prove2.me/theorems/feeff1ce-b820-4c5c-a6f1-ccd6a9b846bb

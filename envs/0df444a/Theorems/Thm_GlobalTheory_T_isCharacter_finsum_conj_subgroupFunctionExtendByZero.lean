@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCharacter_finsum_conj_subgroupFunctionExtendByZero
 -- name    : GlobalTheory.T.isCharacter_finsum_conj_subgroupFunctionExtendByZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:48:22.518353+00:00
 -- url     : https://prove2.me/theorems/8d39c114-eb77-4a27-812d-961b4b78c4a2

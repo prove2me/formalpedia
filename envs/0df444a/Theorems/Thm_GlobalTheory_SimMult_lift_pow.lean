@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimMult_lift_pow
 -- name    : GlobalTheory.SimMult.lift_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:59:29.228138+00:00
 -- url     : https://prove2.me/theorems/0ee6f001-2226-4b38-9be5-1c13b7ebcaec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_chainIndex
 -- name    : GlobalTheory.SatakeWeyl.chainIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:21.443936+00:00
 -- url     : https://prove2.me/theorems/daf9059f-1bdf-4239-b8e0-1ff281cc11e6

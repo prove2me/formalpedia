@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitUnitary_hTens_eq
 -- name    : GlobalTheory.SplitUnitary.hTens_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:58:52.233776+00:00
 -- url     : https://prove2.me/theorems/ef6e5556-190b-49c1-b06d-6229ad492876

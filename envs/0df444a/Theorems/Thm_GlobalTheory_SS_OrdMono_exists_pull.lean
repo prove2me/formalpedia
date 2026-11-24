@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdMono_exists_pull
 -- name    : GlobalTheory.SS.OrdMono.exists_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:51:39.273867+00:00
 -- url     : https://prove2.me/theorems/7d4a3727-3dd9-4e1d-8d92-722edf00df3f

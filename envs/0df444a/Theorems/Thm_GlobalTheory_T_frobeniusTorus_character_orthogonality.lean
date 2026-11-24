@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frobeniusTorus_character_orthogonality
 -- name    : GlobalTheory.T.frobeniusTorus_character_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:11.478508+00:00
 -- url     : https://prove2.me/theorems/b13562f2-76a4-41de-8221-0203856f9270

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothFix_exists_nhds_fix
 -- name    : GlobalTheory.SmoothFix.exists_nhds_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:15:38.616257+00:00
 -- url     : https://prove2.me/theorems/bf4ca807-9ec4-4ee6-b1e8-dc8672b3ec22

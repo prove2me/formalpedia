@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_latticePoints_integralIdeles_equiv
 -- name    : GlobalTheory.T.exists_latticePoints_integralIdeles_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:37:35.937356+00:00
 -- url     : https://prove2.me/theorems/6f98aaf1-d4e2-4bac-b829-229d7c5821cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_character_eigenvector_of_commuting_representation
 -- name    : GlobalTheory.T.exists_character_eigenvector_of_commuting_representation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:34:00.411822+00:00
 -- url     : https://prove2.me/theorems/e08b3c93-0738-4de9-84d7-dd675e445201

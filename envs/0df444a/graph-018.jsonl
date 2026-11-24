@@ -47942,23 +47942,23 @@
 {"parent": "ClauseBound.Inst.Half.allTabF_eq", "child": "PaddedDescent_F_Fuel", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Inst.Half.allTabF_eq", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Inst.Half.allTabF_eq", "child": "ClauseBound_Part_ListP", "via": ["solution", "statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_stepKernel", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_Policy", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_deltaN", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_StructureAssumption", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_pathKernel", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_IntegrabilityAssumption", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "MDPFinance_Bellman_Policy", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_TChain", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_IsOptimal", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "MDPFinance_Bellman_Model", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "MDPFinance_Bellman_Operators", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_Vpi", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_pathReward", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_markovRule", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_V", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "MDPFinance_Bellman_History", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_TWellDefined", "via": ["statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_stepKernel", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_Policy", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_deltaN", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_StructureAssumption", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_pathKernel", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_IntegrabilityAssumption", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "MDPFinance_Bellman_Policy", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_TChain", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_IsOptimal", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "MDPFinance_Bellman_Model", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "MDPFinance_Bellman_Operators", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_Vpi", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_pathReward", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_markovRule", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_V", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "MDPFinance_Bellman_History", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.FiniteHorizon.theorem_2_3_8", "child": "BauerleRiederMDP_FiniteHorizon_TWellDefined", "via": ["solution", "statement"]}
 {"parent": "Groundwork.Prog.Count.links_polyT", "child": "ToTuring_Poly_Count", "via": ["solution", "statement"]}
 {"parent": "Groundwork.Prog.Count.links_polyT", "child": "ToTuring_Poly_Spec", "via": ["solution", "statement"]}
 {"parent": "Groundwork.Prog.Count.links_polyT", "child": "StepMachines_Prog_Count", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_invariant_derivation_of_counital_comul
 -- name    : GlobalTheory.T.exists_invariant_derivation_of_counital_comul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:23.686287+00:00
 -- url     : https://prove2.me/theorems/fcba1594-608a-4512-a485-7c9a2b718000

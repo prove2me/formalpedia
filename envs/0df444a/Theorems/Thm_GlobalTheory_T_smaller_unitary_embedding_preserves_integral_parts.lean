@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smaller_unitary_embedding_preserves_integral_parts
 -- name    : GlobalTheory.T.smaller_unitary_embedding_preserves_integral_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:32:41.281022+00:00
 -- url     : https://prove2.me/theorems/6fc8058e-f40c-4088-8ebe-3e17efa5bd79

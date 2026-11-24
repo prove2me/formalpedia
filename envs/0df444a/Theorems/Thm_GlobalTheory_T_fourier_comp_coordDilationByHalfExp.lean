@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_comp_coordDilationByHalfExp
 -- name    : GlobalTheory.T.fourier_comp_coordDilationByHalfExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:40:34.19641+00:00
 -- url     : https://prove2.me/theorems/0c8b57e5-bd53-48bf-831a-183eaefeac07

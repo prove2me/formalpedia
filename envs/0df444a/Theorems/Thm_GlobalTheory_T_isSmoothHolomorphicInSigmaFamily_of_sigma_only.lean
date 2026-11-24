@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSmoothHolomorphicInSigmaFamily_of_sigma_only
 -- name    : GlobalTheory.T.isSmoothHolomorphicInSigmaFamily_of_sigma_only
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:50:21.998299+00:00
 -- url     : https://prove2.me/theorems/1801dcf2-2e52-41f1-9e6a-c9665877c78d

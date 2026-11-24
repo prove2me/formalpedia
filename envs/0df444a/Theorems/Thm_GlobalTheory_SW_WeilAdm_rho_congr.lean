@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAdm_rho_congr
 -- name    : GlobalTheory.SW.WeilAdm.rho_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:56.516954+00:00
 -- url     : https://prove2.me/theorems/3f80b0ae-2ebe-47bd-a6cf-39482e3a2767

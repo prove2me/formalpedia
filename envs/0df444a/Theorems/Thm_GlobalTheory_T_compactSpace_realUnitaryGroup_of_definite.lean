@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_compactSpace_realUnitaryGroup_of_definite
 -- name    : GlobalTheory.T.compactSpace_realUnitaryGroup_of_definite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:30:25.054181+00:00
 -- url     : https://prove2.me/theorems/bedeff3b-19b9-4c56-ab5b-58ee7543e29f

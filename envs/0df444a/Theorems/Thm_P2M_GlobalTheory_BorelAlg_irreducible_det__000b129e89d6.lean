@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_BorelAlg_irreducible_det__000b129e89d6
 -- name    : P2M_GlobalTheory_BorelAlg_irreducible_det__000b129e89d6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:57.731056+00:00
 -- url     : https://prove2.me/theorems/d017f3d4-8890-4e8f-bc23-0205538740e9

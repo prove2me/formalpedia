@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_character_annihilator_integer_lattice
 -- name    : GlobalTheory.T.character_annihilator_integer_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:27:41.831537+00:00
 -- url     : https://prove2.me/theorems/00797a20-e3cc-468a-9608-9b4bf3a1c106

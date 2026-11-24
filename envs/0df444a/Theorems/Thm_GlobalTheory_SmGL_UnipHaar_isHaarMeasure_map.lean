@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnipHaar_isHaarMeasure_map
 -- name    : GlobalTheory.SmGL.UnipHaar.isHaarMeasure_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:32:46.156124+00:00
 -- url     : https://prove2.me/theorems/e4a72e3c-7942-4640-912a-8c853b3a248e

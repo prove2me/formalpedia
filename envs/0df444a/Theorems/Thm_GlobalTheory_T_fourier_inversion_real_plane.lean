@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_inversion_real_plane
 -- name    : GlobalTheory.T.fourier_inversion_real_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:40:44.942879+00:00
 -- url     : https://prove2.me/theorems/4d958220-809b-459a-a233-85fe38e19eaa

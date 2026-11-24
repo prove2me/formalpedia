@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_charpoly_dvd_pow_finrank_of_aeval_eq_zero
 -- name    : GlobalTheory.T.charpoly_dvd_pow_finrank_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:27:28.705799+00:00
 -- url     : https://prove2.me/theorems/5b2a49e0-3fde-47a7-ad1b-2c0474fe86f0

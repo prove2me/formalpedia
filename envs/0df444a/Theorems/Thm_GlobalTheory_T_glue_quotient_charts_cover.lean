@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_glue_quotient_charts_cover
 -- name    : GlobalTheory.T.glue_quotient_charts_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:41:23.224441+00:00
 -- url     : https://prove2.me/theorems/5f2c5eed-c2ae-4868-8cb8-20132f646911

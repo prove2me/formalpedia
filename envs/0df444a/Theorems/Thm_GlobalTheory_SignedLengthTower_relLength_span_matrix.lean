@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthTower_relLength_span_matrix
 -- name    : GlobalTheory.SignedLengthTower.relLength_span_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:12:37.940312+00:00
 -- url     : https://prove2.me/theorems/425b154b-d47b-4e56-9904-206a09ca5c3f

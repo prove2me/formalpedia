@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_hasSum_ideal
 -- name    : GlobalTheory.QuadraticZeta.hasSum_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:12:18.391222+00:00
 -- url     : https://prove2.me/theorems/da89fab4-84a2-48e0-b764-85cb285ee7a3

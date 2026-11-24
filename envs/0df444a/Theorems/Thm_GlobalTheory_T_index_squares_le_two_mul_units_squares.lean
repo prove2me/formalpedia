@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_index_squares_le_two_mul_units_squares
 -- name    : GlobalTheory.T.index_squares_le_two_mul_units_squares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:26.144801+00:00
 -- url     : https://prove2.me/theorems/f47484bf-9865-4bb2-b2e0-b40e2fb42600

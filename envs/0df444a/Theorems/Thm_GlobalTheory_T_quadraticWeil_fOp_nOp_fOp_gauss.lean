@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadraticWeil_fOp_nOp_fOp_gauss
 -- name    : GlobalTheory.T.quadraticWeil_fOp_nOp_fOp_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:55:30.692362+00:00
 -- url     : https://prove2.me/theorems/7ace5a92-963b-42de-9a5f-0a9ca499990d

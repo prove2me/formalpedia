@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finsum_doubleCoset_eq_finprod_local_sums
 -- name    : GlobalTheory.T.finsum_doubleCoset_eq_finprod_local_sums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:39:35.71137+00:00
 -- url     : https://prove2.me/theorems/757f1325-c4f2-4a07-907f-56abc78096cb

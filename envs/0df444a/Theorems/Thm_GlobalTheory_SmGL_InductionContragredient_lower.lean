@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_InductionContragredient_lower
 -- name    : GlobalTheory.SmGL.InductionContragredient.lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:39.972329+00:00
 -- url     : https://prove2.me/theorems/fa4b9dbe-037e-42cc-aca7-110f0d153422

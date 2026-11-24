@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_map_mem_int
 -- name    : GlobalTheory.SgGlob.Inhab.map_mem_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:59.44961+00:00
 -- url     : https://prove2.me/theorems/769af03b-bee1-4876-80a0-c6835705d951

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympTower_exists_faithful
 -- name    : GlobalTheory.SympTower.exists_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:24:34.309213+00:00
 -- url     : https://prove2.me/theorems/650cf804-c86a-48dd-8152-8e098c722f8a

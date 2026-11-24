@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_monomial_basis_abelianByPrimePower
 -- name    : GlobalTheory.T.exists_monomial_basis_abelianByPrimePower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:37:07.483478+00:00
 -- url     : https://prove2.me/theorems/28643c6f-4b09-4a0a-8fe1-7aefd18eb1fb

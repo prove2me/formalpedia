@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normSq_uniformizer_character_mul_residueCard_pow_eq_one
 -- name    : GlobalTheory.T.normSq_uniformizer_character_mul_residueCard_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:47.801337+00:00
 -- url     : https://prove2.me/theorems/2e080cba-2440-4bfb-87e4-4ccafe367b03

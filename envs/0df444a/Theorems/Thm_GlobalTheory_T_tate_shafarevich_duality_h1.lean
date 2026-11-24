@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tate_shafarevich_duality_h1
 -- name    : GlobalTheory.T.tate_shafarevich_duality_h1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:00:16.209805+00:00
 -- url     : https://prove2.me/theorems/d67b500b-5178-4eb1-9ae2-33731ec20806

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StarTensor_add_star_mem_range
 -- name    : GlobalTheory.StarTensor.add_star_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:21:59.201796+00:00
 -- url     : https://prove2.me/theorems/f1054e26-eb6e-46cc-a156-b2878cefc472

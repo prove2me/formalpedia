@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_germDerivation_uniformised_abelianVariety_unique_vector
 -- name    : GlobalTheory.T.germDerivation_uniformised_abelianVariety_unique_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:40:53.272906+00:00
 -- url     : https://prove2.me/theorems/525993b9-30a2-42c9-8142-0c60135c4510

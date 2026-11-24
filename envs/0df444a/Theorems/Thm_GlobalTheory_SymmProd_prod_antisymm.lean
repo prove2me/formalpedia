@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmProd_prod_antisymm
 -- name    : GlobalTheory.SymmProd.prod_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:24:44.022049+00:00
 -- url     : https://prove2.me/theorems/56aaa209-86b6-47cb-881f-6fb9c122b5e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_harish_chandra_dimension
 -- name    : GlobalTheory.T.harish_chandra_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:43:59.01829+00:00
 -- url     : https://prove2.me/theorems/ab2de0e8-7518-4669-a5bf-20746568be53

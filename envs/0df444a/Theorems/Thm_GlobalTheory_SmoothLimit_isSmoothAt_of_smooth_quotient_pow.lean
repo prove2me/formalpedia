@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLimit_isSmoothAt_of_smooth_quotient_pow
 -- name    : GlobalTheory.SmoothLimit.isSmoothAt_of_smooth_quotient_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:38:39.243401+00:00
 -- url     : https://prove2.me/theorems/2208c955-9c80-41b7-a06c-9aacf5dbda45

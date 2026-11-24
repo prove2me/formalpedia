@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_regularized_exponential_sum
 -- name    : GlobalTheory.T.regularized_exponential_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:56:06.062142+00:00
 -- url     : https://prove2.me/theorems/ab210c10-aa10-4032-85b6-52225e0d898d

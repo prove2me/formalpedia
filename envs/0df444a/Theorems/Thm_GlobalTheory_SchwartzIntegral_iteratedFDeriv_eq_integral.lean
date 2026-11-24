@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegral_iteratedFDeriv_eq_integral
 -- name    : GlobalTheory.SchwartzIntegral.iteratedFDeriv_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:47:54.329598+00:00
 -- url     : https://prove2.me/theorems/1ff72362-34b5-42a8-8e6f-96e93bd25696

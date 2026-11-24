@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orthogonalFrame_of_anisotropicFiniteLengths
 -- name    : GlobalTheory.T.orthogonalFrame_of_anisotropicFiniteLengths
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:54:29.97481+00:00
 -- url     : https://prove2.me/theorems/84b18fdd-0124-4260-9d67-f057e66f63d6

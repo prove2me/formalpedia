@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_box_invariant_eq_measureReal_mul_sum_reps
 -- name    : GlobalTheory.T.integral_box_invariant_eq_measureReal_mul_sum_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:47:25.707003+00:00
 -- url     : https://prove2.me/theorems/b16ae71d-ed52-4d6a-9a1a-0ce8083235a3

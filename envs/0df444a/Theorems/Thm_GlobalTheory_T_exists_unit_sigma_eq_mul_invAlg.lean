@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_sigma_eq_mul_invAlg
 -- name    : GlobalTheory.T.exists_unit_sigma_eq_mul_invAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:50.083807+00:00
 -- url     : https://prove2.me/theorems/7ef58d08-215b-445e-8018-70ef68a5d681

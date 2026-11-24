@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HermLat_form_self
 -- name    : GlobalTheory.SW.HermLat.form_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:41:27.751722+00:00
 -- url     : https://prove2.me/theorems/900bc505-0861-4ce3-8d85-12498a8f1c92

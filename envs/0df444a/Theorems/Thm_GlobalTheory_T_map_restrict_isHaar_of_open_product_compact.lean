@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_map_restrict_isHaar_of_open_product_compact
 -- name    : GlobalTheory.T.map_restrict_isHaar_of_open_product_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:52:31.932157+00:00
 -- url     : https://prove2.me/theorems/eb603cdd-874b-4303-9de3-f064853b9161

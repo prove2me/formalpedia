@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_localDerivation_of_dualNumber_thickening
 -- name    : GlobalTheory.T.exists_localDerivation_of_dualNumber_thickening
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:36:58.542086+00:00
 -- url     : https://prove2.me/theorems/4d799997-def9-4d69-b221-64e74d783d32

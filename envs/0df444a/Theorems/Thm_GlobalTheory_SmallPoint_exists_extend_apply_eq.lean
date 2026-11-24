@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallPoint_exists_extend_apply_eq
 -- name    : GlobalTheory.SmallPoint.exists_extend_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:16:13.231653+00:00
 -- url     : https://prove2.me/theorems/be187cb5-beea-405e-8494-1af8967b424c

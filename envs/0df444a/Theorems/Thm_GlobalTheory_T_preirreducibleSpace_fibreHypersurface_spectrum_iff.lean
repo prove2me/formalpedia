@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_preirreducibleSpace_fibreHypersurface_spectrum_iff
 -- name    : GlobalTheory.T.preirreducibleSpace_fibreHypersurface_spectrum_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:54:47.540048+00:00
 -- url     : https://prove2.me/theorems/7a7816ad-619b-412b-8a4f-a35cd7fb12c1

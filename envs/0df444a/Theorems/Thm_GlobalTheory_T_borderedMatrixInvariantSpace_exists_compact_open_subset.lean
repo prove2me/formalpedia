@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_borderedMatrixInvariantSpace_exists_compact_open_subset
 -- name    : GlobalTheory.T.borderedMatrixInvariantSpace_exists_compact_open_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:26:09.940955+00:00
 -- url     : https://prove2.me/theorems/dc8fa280-64b3-49f0-85c0-1b632fc09499

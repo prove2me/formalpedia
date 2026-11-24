@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finsum_mobiusInverseCharpoly_transversal_subspaces
 -- name    : GlobalTheory.T.finsum_mobiusInverseCharpoly_transversal_subspaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:40:08.033466+00:00
 -- url     : https://prove2.me/theorems/405a02bd-73dd-4eb1-83a7-b52e88fbe806

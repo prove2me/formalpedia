@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnipHaar_haar_isMulRightInvariant
 -- name    : GlobalTheory.SmGL.UnipHaar.haar_isMulRightInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:01.022118+00:00
 -- url     : https://prove2.me/theorems/59944945-0087-4f27-8773-459824ade54e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_baseChange_app_formOn
 -- name    : GlobalTheory.ProjSpace.baseChange_app_formOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:45:37.499499+00:00
 -- url     : https://prove2.me/theorems/ddc76948-2efc-4857-b870-9700668e2c90

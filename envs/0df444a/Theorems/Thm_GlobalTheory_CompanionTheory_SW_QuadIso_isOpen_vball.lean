@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadIso_isOpen_vball
 -- name    : GlobalTheory.CompanionTheory.SW.QuadIso.isOpen_vball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:51:17.576925+00:00
 -- url     : https://prove2.me/theorems/16fcd466-5b29-46d9-a672-214f6c21dbc4

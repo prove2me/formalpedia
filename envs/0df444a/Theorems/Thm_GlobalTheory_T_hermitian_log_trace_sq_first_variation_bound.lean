@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_log_trace_sq_first_variation_bound
 -- name    : GlobalTheory.T.hermitian_log_trace_sq_first_variation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:35.386796+00:00
 -- url     : https://prove2.me/theorems/6553edea-0e0d-4ec9-86d5-2d095ad2f209

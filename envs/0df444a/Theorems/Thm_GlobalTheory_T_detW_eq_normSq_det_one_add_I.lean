@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_detW_eq_normSq_det_one_add_I
 -- name    : GlobalTheory.T.detW_eq_normSq_det_one_add_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:32:17.553815+00:00
 -- url     : https://prove2.me/theorems/67816589-b939-4ac3-afdc-875ba2a662bd

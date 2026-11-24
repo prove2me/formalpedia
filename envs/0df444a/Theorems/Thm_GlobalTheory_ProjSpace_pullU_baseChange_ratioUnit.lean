@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_pullU_baseChange_ratioUnit
 -- name    : GlobalTheory.ProjSpace.pullU_baseChange_ratioUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:45:12.614656+00:00
 -- url     : https://prove2.me/theorems/132e80a7-0f0c-4f57-add1-19c8137d4028

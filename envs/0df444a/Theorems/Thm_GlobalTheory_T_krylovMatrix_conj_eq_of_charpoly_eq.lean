@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_krylovMatrix_conj_eq_of_charpoly_eq
 -- name    : GlobalTheory.T.krylovMatrix_conj_eq_of_charpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:50:59.524064+00:00
 -- url     : https://prove2.me/theorems/0385b7fb-861a-4874-bf3e-d1383f980cb7

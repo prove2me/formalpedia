@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_qExpansionCoeffsInSubring_ring_closed
 -- name    : GlobalTheory.T.qExpansionCoeffsInSubring_ring_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:55:24.096798+00:00
 -- url     : https://prove2.me/theorems/61575a46-5cac-4dce-904b-c32c479f4938

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_etaleTraceAddChar_norm_eq_one_near_zero
 -- name    : GlobalTheory.T.etaleTraceAddChar_norm_eq_one_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:49.476975+00:00
 -- url     : https://prove2.me/theorems/da8add44-9b72-401b-80e1-77182008c328

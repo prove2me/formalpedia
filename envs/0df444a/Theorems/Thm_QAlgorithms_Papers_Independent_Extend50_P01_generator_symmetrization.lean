@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P01_generator_symmetrization
 -- name    : QAlgorithms.Papers.Independent.Extend50.P01.generator_symmetrization
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:29:37.053454+00:00
 -- url     : https://prove2.me/theorems/2e890454-29bb-468a-a935-31786f36844b

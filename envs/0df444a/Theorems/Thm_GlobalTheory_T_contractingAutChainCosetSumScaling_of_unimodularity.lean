@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contractingAutChainCosetSumScaling_of_unimodularity
 -- name    : GlobalTheory.T.contractingAutChainCosetSumScaling_of_unimodularity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:26.595202+00:00
 -- url     : https://prove2.me/theorems/cf7c4c03-4e9a-4bea-930a-21822a74d856

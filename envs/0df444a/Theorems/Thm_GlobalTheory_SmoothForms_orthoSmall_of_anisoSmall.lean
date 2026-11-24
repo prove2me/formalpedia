@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_orthoSmall_of_anisoSmall
 -- name    : GlobalTheory.SmoothForms.orthoSmall_of_anisoSmall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:09.744529+00:00
 -- url     : https://prove2.me/theorems/7739e418-600c-4d15-a33a-d4fb87ead204

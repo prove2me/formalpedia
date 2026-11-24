@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integrable_exp_neg_mul_of_sublevel_le_exp
 -- name    : GlobalTheory.T.integrable_exp_neg_mul_of_sublevel_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:46:43.260288+00:00
 -- url     : https://prove2.me/theorems/b2fb5bdf-4bc7-4f0b-8338-355e8ad47961

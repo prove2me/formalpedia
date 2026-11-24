@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_AAx_omit
 -- name    : Formalism.FourierDecayAlt.P.PBG.AAx_omit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:39:08.607802+00:00
 -- url     : https://prove2.me/theorems/e0067157-8b42-4e06-936b-653fcc0ab5a7

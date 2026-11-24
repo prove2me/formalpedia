@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prod_absNorm_pow_valuation_two_le
 -- name    : GlobalTheory.T.prod_absNorm_pow_valuation_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:55:06.090882+00:00
 -- url     : https://prove2.me/theorems/623c67ee-ede4-4fc1-8ca6-73320361353d

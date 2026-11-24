@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contDiff_of_continuous_oneParameter_hom
 -- name    : GlobalTheory.T.contDiff_of_continuous_oneParameter_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:31:40.070253+00:00
 -- url     : https://prove2.me/theorems/a0d23367-ae7a-44f0-af5f-3b8f022394a7

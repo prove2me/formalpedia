@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupNormExample_bddAt_of_fnorm_zero
 -- name    : GlobalTheory.SupNormExample.bddAt_of_fnorm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:23:02.451484+00:00
 -- url     : https://prove2.me/theorems/10010111-75fa-4378-b16e-a59f85ebd615

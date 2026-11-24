@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallLift_isArtinianRing_quot
 -- name    : GlobalTheory.SmallLift.isArtinianRing_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:15:01.439164+00:00
 -- url     : https://prove2.me/theorems/54e4fb10-5df6-456a-8965-61e183aa387d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_PermWord_perm_sub_mem
 -- name    : GlobalTheory.SmoothForms.PermWord.perm_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:19:04.942732+00:00
 -- url     : https://prove2.me/theorems/1872baea-9807-4630-a3cb-4893016370fe

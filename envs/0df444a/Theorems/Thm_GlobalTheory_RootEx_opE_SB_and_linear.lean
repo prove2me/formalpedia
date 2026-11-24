@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_opE_SB_and_linear
 -- name    : GlobalTheory.RootEx.opE_SB_and_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:40.224982+00:00
 -- url     : https://prove2.me/theorems/82896785-13fc-4ec7-b38f-7da9d7004090

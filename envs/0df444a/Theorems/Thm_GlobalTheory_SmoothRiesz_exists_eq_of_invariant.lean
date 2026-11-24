@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothRiesz_exists_eq_of_invariant
 -- name    : GlobalTheory.SmoothRiesz.exists_eq_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:19:29.246351+00:00
 -- url     : https://prove2.me/theorems/d1f4a9bf-3f6a-4a08-8250-85af7d196b90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_Placing_jacquet_equiv
 -- name    : GlobalTheory.SmGL.Placing.jacquet_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:17:32.26585+00:00
 -- url     : https://prove2.me/theorems/79761c0f-2622-48bb-bd85-66b422ff9e1b

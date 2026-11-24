@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSmoothLogNearOne_of_isUnitaryLieExpData
 -- name    : GlobalTheory.T.hasSmoothLogNearOne_of_isUnitaryLieExpData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:42:31.384247+00:00
 -- url     : https://prove2.me/theorems/70a2b035-ac05-4b48-b716-27dbeb7b97ec

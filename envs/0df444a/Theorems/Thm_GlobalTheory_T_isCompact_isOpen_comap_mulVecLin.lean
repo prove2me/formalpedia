@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCompact_isOpen_comap_mulVecLin
 -- name    : GlobalTheory.T.isCompact_isOpen_comap_mulVecLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:48:01.513587+00:00
 -- url     : https://prove2.me/theorems/902b758c-47a3-485e-943e-9822f0f1b1fe

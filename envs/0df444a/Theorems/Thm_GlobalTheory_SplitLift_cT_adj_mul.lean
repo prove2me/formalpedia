@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLift_cT_adj_mul
 -- name    : GlobalTheory.SplitLift.cT_adj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:21:29.665881+00:00
 -- url     : https://prove2.me/theorems/0c180d2d-9f05-484f-a1c1-08345f5a4dba

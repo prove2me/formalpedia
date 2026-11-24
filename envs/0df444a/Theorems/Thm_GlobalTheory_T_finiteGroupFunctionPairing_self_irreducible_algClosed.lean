@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteGroupFunctionPairing_self_irreducible_algClosed
 -- name    : GlobalTheory.T.finiteGroupFunctionPairing_self_irreducible_algClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:39:21.00419+00:00
 -- url     : https://prove2.me/theorems/c878f0d9-6595-4a24-b1bd-4118145c4784

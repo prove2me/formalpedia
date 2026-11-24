@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flat_quotient_range_of_injective_mod_maximal
 -- name    : GlobalTheory.T.flat_quotient_range_of_injective_mod_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:40:53.727876+00:00
 -- url     : https://prove2.me/theorems/4517b4f6-1947-41b2-a34c-9b0229f49029

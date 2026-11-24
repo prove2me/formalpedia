@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_wittVector_ghost_eq_frobenius_iterate
 -- name    : GlobalTheory.T.exists_wittVector_ghost_eq_frobenius_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:39:29.456524+00:00
 -- url     : https://prove2.me/theorems/8110a6de-3425-4078-a6ed-33c944a4d5cb

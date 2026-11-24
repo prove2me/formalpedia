@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_jacLower_eq
 -- name    : GlobalTheory.SmGL.jacLower_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:14:11.708811+00:00
 -- url     : https://prove2.me/theorems/157474ec-a997-4b16-9ed2-4eaf25d556a9

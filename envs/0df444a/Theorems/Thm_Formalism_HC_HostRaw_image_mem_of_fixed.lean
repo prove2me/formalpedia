@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_image_mem_of_fixed
 -- name    : Formalism.HC.HostRaw.image_mem_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:00:09.618843+00:00
 -- url     : https://prove2.me/theorems/b7e05087-3a6d-4993-b7e3-071161d7195b

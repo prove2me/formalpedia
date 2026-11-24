@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_range_mul_quotient_bounded_level
 -- name    : GlobalTheory.T.card_range_mul_quotient_bounded_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:28:15.284311+00:00
 -- url     : https://prove2.me/theorems/1e136e8a-75b1-46fb-b0fc-4ce4dde963a0

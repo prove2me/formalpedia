@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normFormCoefficientIdeal_map_localizationAway
 -- name    : GlobalTheory.T.normFormCoefficientIdeal_map_localizationAway
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:00.854285+00:00
 -- url     : https://prove2.me/theorems/5fe86bbf-e5ee-4959-a0e6-1d0e6943d163

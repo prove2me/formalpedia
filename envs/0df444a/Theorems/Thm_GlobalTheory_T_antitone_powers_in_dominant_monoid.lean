@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_antitone_powers_in_dominant_monoid
 -- name    : GlobalTheory.T.antitone_powers_in_dominant_monoid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:26:56.807796+00:00
 -- url     : https://prove2.me/theorems/438cf239-c1c7-4f12-8738-b1e29395d7e4

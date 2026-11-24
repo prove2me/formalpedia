@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cech_and_total_differential_additive_square_zero
 -- name    : GlobalTheory.T.cech_and_total_differential_additive_square_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:30:40.14708+00:00
 -- url     : https://prove2.me/theorems/f76b31c3-f5e8-411b-8abe-57d2c104d1ea

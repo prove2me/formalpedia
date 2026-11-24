@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cechZero_of_hypZero_of_cartier
 -- name    : GlobalTheory.T.cechZero_of_hypZero_of_cartier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:47.1364+00:00
 -- url     : https://prove2.me/theorems/a86e617e-496f-484c-8902-7dd3dff37c13

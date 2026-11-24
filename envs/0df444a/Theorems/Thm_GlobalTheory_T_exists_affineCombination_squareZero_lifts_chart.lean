@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_affineCombination_squareZero_lifts_chart
 -- name    : GlobalTheory.T.exists_affineCombination_squareZero_lifts_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:20:46.282093+00:00
 -- url     : https://prove2.me/theorems/82186416-8326-4b25-be45-cf6274ca8a39

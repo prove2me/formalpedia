@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_transform_lattice_indicator
 -- name    : GlobalTheory.T.fourier_transform_lattice_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:05.893136+00:00
 -- url     : https://prove2.me/theorems/26b2407c-ce05-4f5c-9340-27582b29e5c7

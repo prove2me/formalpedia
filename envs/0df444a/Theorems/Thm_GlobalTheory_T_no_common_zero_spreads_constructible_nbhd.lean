@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_no_common_zero_spreads_constructible_nbhd
 -- name    : GlobalTheory.T.no_common_zero_spreads_constructible_nbhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:53:52.262812+00:00
 -- url     : https://prove2.me/theorems/29530dce-80ef-4685-b27d-7fe64abe52fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invertibleEndomorphismInnerProduct_primitive_mobiusInverse
 -- name    : GlobalTheory.T.invertibleEndomorphismInnerProduct_primitive_mobiusInverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:46:55.04672+00:00
 -- url     : https://prove2.me/theorems/9a105ad7-5954-40a5-b322-2b8b9978c31e

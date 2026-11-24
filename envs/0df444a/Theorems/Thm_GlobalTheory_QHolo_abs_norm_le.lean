@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_abs_norm_le
 -- name    : GlobalTheory.QHolo.abs_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:02:49.790808+00:00
 -- url     : https://prove2.me/theorems/dffb05bb-69eb-4222-99e7-8f959146b9d7

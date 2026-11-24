@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadraticWeilTorus_mul_unipotent_commute
 -- name    : GlobalTheory.T.quadraticWeilTorus_mul_unipotent_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:55:11.177816+00:00
 -- url     : https://prove2.me/theorems/8e9373da-6fe5-4f5f-a332-27a0bc3d15a4

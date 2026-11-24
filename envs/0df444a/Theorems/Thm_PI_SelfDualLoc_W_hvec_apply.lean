@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_hvec_apply
 -- name    : PI.SelfDualLoc.W.hvec_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:06:41.587305+00:00
 -- url     : https://prove2.me/theorems/cf943752-2c79-4fa4-8a70-9f4f3dacf26b

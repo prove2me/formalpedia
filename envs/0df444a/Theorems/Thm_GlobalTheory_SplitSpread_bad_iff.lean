@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitSpread_bad_iff
 -- name    : GlobalTheory.SplitSpread.bad_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:21:29.684834+00:00
 -- url     : https://prove2.me/theorems/7362b0f4-4199-4dc6-9577-036fa0194e55

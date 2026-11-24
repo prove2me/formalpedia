@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_lintegral_fsDensity_indicator
 -- name    : GlobalTheory.LineCos.lintegral_fsDensity_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:07:59.905016+00:00
 -- url     : https://prove2.me/theorems/5ea67704-94cd-408a-ba1b-5d1f883478eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitComp_exists_tmul_add
 -- name    : GlobalTheory.SplitComp.exists_tmul_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:05.806987+00:00
 -- url     : https://prove2.me/theorems/fda3f9da-8e53-4fff-8627-09922f0b871a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_weighted_relation_of_minimal_support
 -- name    : GlobalTheory.T.exists_weighted_relation_of_minimal_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:39:37.706709+00:00
 -- url     : https://prove2.me/theorems/fc2d0d95-9773-4a53-821d-6ea406cd17a7

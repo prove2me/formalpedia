@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_formSec_inj
 -- name    : GlobalTheory.ProjSpace.formSec_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:44:49.365994+00:00
 -- url     : https://prove2.me/theorems/19c08b0a-6d05-4049-85b6-353576aa30d1

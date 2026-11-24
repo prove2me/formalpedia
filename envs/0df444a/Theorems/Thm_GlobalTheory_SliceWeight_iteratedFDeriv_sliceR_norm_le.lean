@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceWeight_iteratedFDeriv_sliceR_norm_le
 -- name    : GlobalTheory.SliceWeight.iteratedFDeriv_sliceR_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:21.542108+00:00
 -- url     : https://prove2.me/theorems/3a74915e-d471-442e-8c47-e39bb36acbb1

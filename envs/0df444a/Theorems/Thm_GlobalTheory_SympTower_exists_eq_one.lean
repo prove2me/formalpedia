@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympTower_exists_eq_one
 -- name    : GlobalTheory.SympTower.exists_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:24:33.584261+00:00
 -- url     : https://prove2.me/theorems/ab0f4b03-db2a-4ef1-aecf-268cca445ebe

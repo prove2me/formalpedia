@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmulMemComapLattice_isLattice_comap_subtype
 -- name    : GlobalTheory.SmulMemComapLattice.isLattice_comap_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:57:47.645409+00:00
 -- url     : https://prove2.me/theorems/c84d2aec-69eb-46e0-bc45-2fbfaf604847

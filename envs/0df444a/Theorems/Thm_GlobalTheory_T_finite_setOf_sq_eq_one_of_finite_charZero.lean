@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_setOf_sq_eq_one_of_finite_charZero
 -- name    : GlobalTheory.T.finite_setOf_sq_eq_one_of_finite_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:47.955804+00:00
 -- url     : https://prove2.me/theorems/8f21029a-571c-4159-bad7-6773bcdd8763

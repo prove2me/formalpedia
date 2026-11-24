@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Model_sum_psi
 -- name    : GlobalTheory.SplitFlip.Model.sum_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:19:44.977527+00:00
 -- url     : https://prove2.me/theorems/268f10aa-3391-450f-95fd-09741bf86d07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_conj_integralGL_column_congruence
 -- name    : GlobalTheory.T.relIndex_conj_integralGL_column_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:56:40.497851+00:00
 -- url     : https://prove2.me/theorems/e09ddc07-2d58-4a2f-ae33-bd21772a862c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_complexGaussian_posDef_hermitian_part
 -- name    : GlobalTheory.T.integral_complexGaussian_posDef_hermitian_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:46:50.7198+00:00
 -- url     : https://prove2.me/theorems/fdee8ba8-33a9-4014-886c-1ae74f3344fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_spec_fractionRing
 -- name    : GlobalTheory.ExtUnique.spec_fractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:42:49.929247+00:00
 -- url     : https://prove2.me/theorems/d9c19c99-ba2f-41d0-b5c0-1a647d46bfd3

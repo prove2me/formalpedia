@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_index_sqs_of_fg
 -- name    : GlobalTheory.T.index_sqs_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:20.911542+00:00
 -- url     : https://prove2.me/theorems/944f35e4-ba77-4c92-99a8-8965f7a0b3d0

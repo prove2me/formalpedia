@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commuting_hermitian_simultaneous_diag
 -- name    : GlobalTheory.T.commuting_hermitian_simultaneous_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:30:00.466917+00:00
 -- url     : https://prove2.me/theorems/6159f8a9-a96c-4cfc-a45b-36e6f3e66c0a

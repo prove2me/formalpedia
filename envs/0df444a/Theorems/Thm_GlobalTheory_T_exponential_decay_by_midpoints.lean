@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exponential_decay_by_midpoints
 -- name    : GlobalTheory.T.exponential_decay_by_midpoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:39:34.034096+00:00
 -- url     : https://prove2.me/theorems/8b3ab787-5084-437d-88b2-2dddff944180

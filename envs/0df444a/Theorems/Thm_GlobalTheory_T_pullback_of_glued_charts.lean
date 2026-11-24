@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pullback_of_glued_charts
 -- name    : GlobalTheory.T.pullback_of_glued_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:55:07.177385+00:00
 -- url     : https://prove2.me/theorems/f06902e9-1ca5-4666-bd9b-af2120aceb80

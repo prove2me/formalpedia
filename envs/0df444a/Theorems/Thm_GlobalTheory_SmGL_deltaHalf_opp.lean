@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_deltaHalf_opp
 -- name    : GlobalTheory.SmGL.deltaHalf_opp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:26:45.496337+00:00
 -- url     : https://prove2.me/theorems/c080a2e7-38d4-4445-935a-1ca28475cf82

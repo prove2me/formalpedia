@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_not_mem_prime_iff
 -- name    : GlobalTheory.T.norm_not_mem_prime_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:54:29.236768+00:00
 -- url     : https://prove2.me/theorems/31c39f1e-2dc8-4021-839b-eb9ff5407837

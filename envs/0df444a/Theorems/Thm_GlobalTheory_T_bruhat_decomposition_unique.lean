@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_bruhat_decomposition_unique
 -- name    : GlobalTheory.T.bruhat_decomposition_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:26:41.456801+00:00
 -- url     : https://prove2.me/theorems/f8c2f7c5-a6fa-41a6-ac64-9b01389136d9

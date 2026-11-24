@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_diagonal_factorization_along_embedding
 -- name    : GlobalTheory.T.unitary_diagonal_factorization_along_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:32:12.57085+00:00
 -- url     : https://prove2.me/theorems/b2e6a6d3-9bcd-48fd-a0fc-90a0d19500ab

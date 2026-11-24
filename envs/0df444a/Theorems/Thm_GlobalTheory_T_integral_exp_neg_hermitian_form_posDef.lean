@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_exp_neg_hermitian_form_posDef
 -- name    : GlobalTheory.T.integral_exp_neg_hermitian_form_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:46:55.208251+00:00
 -- url     : https://prove2.me/theorems/ebc60a6f-9bc7-46b8-a069-6d23936e27d4

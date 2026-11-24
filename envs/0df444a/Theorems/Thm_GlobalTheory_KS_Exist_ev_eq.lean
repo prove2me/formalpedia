@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_ev_eq
 -- name    : GlobalTheory.KS.Exist.ev_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:48:03.526827+00:00
 -- url     : https://prove2.me/theorems/c9620ead-c060-4074-8177-91a999644a35

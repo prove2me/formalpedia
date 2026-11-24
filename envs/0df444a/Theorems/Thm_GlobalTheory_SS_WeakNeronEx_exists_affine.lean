@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronEx_exists_affine
 -- name    : GlobalTheory.SS.WeakNeronEx.exists_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:11:10.063954+00:00
 -- url     : https://prove2.me/theorems/290739f9-6dcd-480f-a072-ce3d6942fa59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_over_properties
 -- name    : GlobalTheory.Retract.over_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:22:44.180801+00:00
 -- url     : https://prove2.me/theorems/f086dd5b-47e6-48bf-a720-7e6617b976e4

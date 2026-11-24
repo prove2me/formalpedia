@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_stalk_derivation_of_isPullback
 -- name    : GlobalTheory.SS.exists_stalk_derivation_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:37:38.205999+00:00
 -- url     : https://prove2.me/theorems/cc90db17-c4eb-41c8-82a7-125f783426cb

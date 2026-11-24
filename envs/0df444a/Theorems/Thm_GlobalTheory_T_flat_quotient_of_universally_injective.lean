@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flat_quotient_of_universally_injective
 -- name    : GlobalTheory.T.flat_quotient_of_universally_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:40:52.519588+00:00
 -- url     : https://prove2.me/theorems/2f0e9f08-e90c-46ef-aae5-7954022dedf7

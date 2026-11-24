@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_exists_chart_pt_of_nil
 -- name    : GlobalTheory.SqZero.exists_chart_pt_of_nil
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:27.815879+00:00
 -- url     : https://prove2.me/theorems/90809404-2c28-4e99-977b-19b0a1253da0

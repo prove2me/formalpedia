@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_one_mem_of_mul_mem_of_forall_prime_exists_not_dvd
 -- name    : GlobalTheory.T.one_mem_of_mul_mem_of_forall_prime_exists_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:53:59.204376+00:00
 -- url     : https://prove2.me/theorems/b88c6432-745c-4eee-ac26-8861035dccc1

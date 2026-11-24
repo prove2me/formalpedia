@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_exists_formOn
 -- name    : GlobalTheory.ProjSpace.Model.exists_formOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:59:01.401718+00:00
 -- url     : https://prove2.me/theorems/6c089051-a782-47d8-af74-9dd7647a9398

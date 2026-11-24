@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShufflePositions_count_single
 -- name    : GlobalTheory.ShufflePositions.count_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:11:20.745829+00:00
 -- url     : https://prove2.me/theorems/9fe619d1-97f5-4c19-ac72-241a64b16692

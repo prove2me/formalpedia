@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_euler_product_convergence_bound
 -- name    : GlobalTheory.T.euler_product_convergence_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:50.192544+00:00
 -- url     : https://prove2.me/theorems/31df6928-c241-4586-a44e-1c40e9b9925c

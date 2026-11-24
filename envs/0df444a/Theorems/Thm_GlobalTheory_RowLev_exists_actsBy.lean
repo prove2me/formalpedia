@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_exists_actsBy
 -- name    : GlobalTheory.RowLev.exists_actsBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:32:41.086344+00:00
 -- url     : https://prove2.me/theorems/af22fd04-4a1e-4794-8084-3bd340689ec7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_abs_ncard_qForm_le_sub_pi_div_sqrt_mul_le_ten_sqrt
 -- name    : GlobalTheory.T.abs_ncard_qForm_le_sub_pi_div_sqrt_mul_le_ten_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:26:28.383046+00:00
 -- url     : https://prove2.me/theorems/ff4e61be-97f5-4277-b69d-c925dfc5f018

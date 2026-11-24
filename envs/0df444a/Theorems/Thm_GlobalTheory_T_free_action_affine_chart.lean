@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_free_action_affine_chart
 -- name    : GlobalTheory.T.free_action_affine_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:15.454854+00:00
 -- url     : https://prove2.me/theorems/d6d6f940-d3d0-446b-b80e-3f4eaedc63d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitSpread_sum_coeff
 -- name    : GlobalTheory.SplitSpread.sum_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:02.960737+00:00
 -- url     : https://prove2.me/theorems/a7a8e779-184a-4bd3-8026-33f6518cdf2f

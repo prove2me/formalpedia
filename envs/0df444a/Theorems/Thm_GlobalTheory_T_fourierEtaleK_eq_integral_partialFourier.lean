@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourierEtaleK_eq_integral_partialFourier
 -- name    : GlobalTheory.T.fourierEtaleK_eq_integral_partialFourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:40:35.637803+00:00
 -- url     : https://prove2.me/theorems/2ab2d188-fd49-4a0a-be60-cdf7ab10f429

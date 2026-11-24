@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PRep_IsAdmissible_smoothTrace_add
 -- name    : GlobalTheory.PRep.IsAdmissible.smoothTrace_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:39:52.364723+00:00
 -- url     : https://prove2.me/theorems/872c4f31-0d8f-4a5f-91d2-17a91c098fdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryRankTwoRootIndex_of_traceZeroCard
 -- name    : GlobalTheory.T.unitaryRankTwoRootIndex_of_traceZeroCard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:33:29.041923+00:00
 -- url     : https://prove2.me/theorems/07d5ab56-1915-4e56-9c73-7de67dc90755

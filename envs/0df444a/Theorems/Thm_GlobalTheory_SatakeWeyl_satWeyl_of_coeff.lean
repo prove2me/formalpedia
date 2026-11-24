@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_satWeyl_of_coeff
 -- name    : GlobalTheory.SatakeWeyl.satWeyl_of_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:52:10.891694+00:00
 -- url     : https://prove2.me/theorems/fff64860-ae3c-43c0-87ff-e897b08a0501

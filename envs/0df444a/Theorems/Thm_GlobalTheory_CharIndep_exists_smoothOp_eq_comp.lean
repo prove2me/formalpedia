@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharIndep_exists_smoothOp_eq_comp
 -- name    : GlobalTheory.CharIndep.exists_smoothOp_eq_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:27.058684+00:00
 -- url     : https://prove2.me/theorems/4ea3fa44-cfa0-480b-913f-3d72f7579c33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isAbelianByPrimePowerGroup_subgroup
 -- name    : GlobalTheory.T.isAbelianByPrimePowerGroup_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:48:36.752196+00:00
 -- url     : https://prove2.me/theorems/91cafefc-08f9-4475-b6ce-88addc3d4d07

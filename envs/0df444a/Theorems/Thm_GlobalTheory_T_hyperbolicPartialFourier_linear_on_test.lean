@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hyperbolicPartialFourier_linear_on_test
 -- name    : GlobalTheory.T.hyperbolicPartialFourier_linear_on_test
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:03.172437+00:00
 -- url     : https://prove2.me/theorems/14660cbd-e37b-49a2-9343-4632ccf7f452

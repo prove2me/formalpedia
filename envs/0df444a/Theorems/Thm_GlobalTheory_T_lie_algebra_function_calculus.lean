@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lie_algebra_function_calculus
 -- name    : GlobalTheory.T.lie_algebra_function_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:51:38.354856+00:00
 -- url     : https://prove2.me/theorems/683074ab-4a70-4fda-84a9-0c770b0c0c87

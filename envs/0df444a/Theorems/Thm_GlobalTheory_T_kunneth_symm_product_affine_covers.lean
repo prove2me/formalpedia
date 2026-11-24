@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kunneth_symm_product_affine_covers
 -- name    : GlobalTheory.T.kunneth_symm_product_affine_covers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:52:26.861885+00:00
 -- url     : https://prove2.me/theorems/6a2325a6-fdb2-4ed1-924b-837bd54b7b48

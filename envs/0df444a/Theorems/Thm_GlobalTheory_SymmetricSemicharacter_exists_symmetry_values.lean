@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmetricSemicharacter_exists_symmetry_values
 -- name    : GlobalTheory.SymmetricSemicharacter.exists_symmetry_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:24:47.370836+00:00
 -- url     : https://prove2.me/theorems/013e3ee6-49dc-4682-8dd2-775516366469

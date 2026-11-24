@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heightSup_invariant_under_hermitianLattice_aut
 -- name    : GlobalTheory.T.heightSup_invariant_under_hermitianLattice_aut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:49:44.182139+00:00
 -- url     : https://prove2.me/theorems/5ff43a73-ed52-418a-a517-a1cfe3edd1f2

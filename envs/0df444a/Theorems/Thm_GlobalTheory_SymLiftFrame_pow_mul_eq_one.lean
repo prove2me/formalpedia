@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftFrame_pow_mul_eq_one
 -- name    : GlobalTheory.SymLiftFrame.pow_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:05.050212+00:00
 -- url     : https://prove2.me/theorems/4546ff83-8881-46ab-a16c-0698a9a2abaa

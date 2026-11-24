@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_chain_independence
 -- name    : GlobalTheory.T.chain_independence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:25.605225+00:00
 -- url     : https://prove2.me/theorems/90e6d4a3-cd71-434a-9df8-ca9d57d8fe3d

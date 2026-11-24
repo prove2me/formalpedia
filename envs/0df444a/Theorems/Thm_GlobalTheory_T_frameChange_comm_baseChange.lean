@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frameChange_comm_baseChange
 -- name    : GlobalTheory.T.frameChange_comm_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:11.905304+00:00
 -- url     : https://prove2.me/theorems/7b34c0c8-24d6-4ada-bac6-4caf725658ac

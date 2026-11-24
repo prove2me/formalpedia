@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frobeniusDerivation_factors_through_kaehler
 -- name    : GlobalTheory.T.frobeniusDerivation_factors_through_kaehler
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:06.788008+00:00
 -- url     : https://prove2.me/theorems/ab14b4d1-bbaa-4b73-b3ac-e5f16c7f18d5

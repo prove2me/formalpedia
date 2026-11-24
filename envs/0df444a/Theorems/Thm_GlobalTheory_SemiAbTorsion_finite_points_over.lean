@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbTorsion_finite_points_over
 -- name    : GlobalTheory.SemiAbTorsion.finite_points_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:56:47.409332+00:00
 -- url     : https://prove2.me/theorems/cf608e41-5021-4b3c-b3e8-9e7e9f2698cb

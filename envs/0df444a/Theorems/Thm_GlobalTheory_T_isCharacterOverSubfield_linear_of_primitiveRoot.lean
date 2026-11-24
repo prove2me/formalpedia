@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCharacterOverSubfield_linear_of_primitiveRoot
 -- name    : GlobalTheory.T.isCharacterOverSubfield_linear_of_primitiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:48:44.228803+00:00
 -- url     : https://prove2.me/theorems/fc19a893-779d-479a-85ad-3ff0af06e692

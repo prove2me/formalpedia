@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_formallyUnramified_mul_invertible_integer
 -- name    : GlobalTheory.T.formallyUnramified_mul_invertible_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:41:21.218741+00:00
 -- url     : https://prove2.me/theorems/3dd774b4-e6ab-401e-bb08-d064728fb648

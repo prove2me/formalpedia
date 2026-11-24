@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_latticeHeight_continuousOn_frames
 -- name    : GlobalTheory.T.latticeHeight_continuousOn_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:50:56.465253+00:00
 -- url     : https://prove2.me/theorems/6a3cbedc-999a-421a-b8ee-12b5ff8b2656

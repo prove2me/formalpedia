@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_eventually_det_trivial
 -- name    : GlobalTheory.SplitWeil.eventually_det_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:02.861881+00:00
 -- url     : https://prove2.me/theorems/24c27e42-e482-484b-83cd-52783d0d666d

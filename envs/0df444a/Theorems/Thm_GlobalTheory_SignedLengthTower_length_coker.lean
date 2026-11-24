@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthTower_length_coker
 -- name    : GlobalTheory.SignedLengthTower.length_coker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:05.518956+00:00
 -- url     : https://prove2.me/theorems/57ffd80f-00a7-40fd-864c-3069467ddbf6

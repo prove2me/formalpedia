@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympTower_ker_and_surj
 -- name    : GlobalTheory.SympTower.ker_and_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:25:14.752642+00:00
 -- url     : https://prove2.me/theorems/a64156c3-488b-482f-accf-a15d82bebf1c

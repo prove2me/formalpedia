@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_CrystallineCyclotomic_isCrys_trivial
 -- name    : GlobalTheory.Survey.CrystallineCyclotomic.isCrys_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:41.896564+00:00
 -- url     : https://prove2.me/theorems/440c455e-1cd8-49ab-8cf3-819ae62d1756

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitDict_pf_pf
 -- name    : GlobalTheory.SplitDict.pf_pf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:20:21.238948+00:00
 -- url     : https://prove2.me/theorems/3425b7a9-9681-47ea-b75b-ec61da9f8794

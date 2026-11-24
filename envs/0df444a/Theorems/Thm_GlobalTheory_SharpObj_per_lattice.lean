@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpObj_per_lattice
 -- name    : GlobalTheory.SharpObj.per_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:29.052669+00:00
 -- url     : https://prove2.me/theorems/aa5dbbc0-fe29-4175-be9f-e31594b9cd33

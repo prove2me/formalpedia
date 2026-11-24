@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pullbackSections_basis_of_affine_opens
 -- name    : GlobalTheory.T.pullbackSections_basis_of_affine_opens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:56:09.355311+00:00
 -- url     : https://prove2.me/theorems/5dad3592-5d45-466a-8a00-a11ac6cc86c8

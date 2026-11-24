@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hom_specialLinearGroup_of_relations
 -- name    : GlobalTheory.T.exists_hom_specialLinearGroup_of_relations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:35:38.233886+00:00
 -- url     : https://prove2.me/theorems/c6f89399-bc95-45e5-95e3-3ecf209bb560

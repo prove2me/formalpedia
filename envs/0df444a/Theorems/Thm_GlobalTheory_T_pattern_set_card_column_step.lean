@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pattern_set_card_column_step
 -- name    : GlobalTheory.T.pattern_set_card_column_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:05.707623+00:00
 -- url     : https://prove2.me/theorems/a650c7c7-790d-4288-a2de-bb43ade01b97

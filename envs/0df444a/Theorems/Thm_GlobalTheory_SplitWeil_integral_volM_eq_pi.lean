@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_integral_volM_eq_pi
 -- name    : GlobalTheory.SplitWeil.integral_volM_eq_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:50.0919+00:00
 -- url     : https://prove2.me/theorems/279ff6b7-1254-41c5-825b-2d0e7d71f896

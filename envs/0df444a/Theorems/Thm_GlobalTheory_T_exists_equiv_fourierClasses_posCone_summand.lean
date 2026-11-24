@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_equiv_fourierClasses_posCone_summand
 -- name    : GlobalTheory.T.exists_equiv_fourierClasses_posCone_summand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:35:25.467802+00:00
 -- url     : https://prove2.me/theorems/3474aa27-506b-45c3-b7f3-a672e8a3a3bc

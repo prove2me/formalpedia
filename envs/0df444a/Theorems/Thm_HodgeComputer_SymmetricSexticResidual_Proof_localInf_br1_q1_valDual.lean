@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localInf_br1_q1_valDual
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localInf_br1_q1_valDual
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T21:03:18.727801+00:00
 -- url     : https://prove2.me/theorems/c0c343a4-087b-44cc-b5fd-12833ba06815

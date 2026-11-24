@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orbit_unfold_integral_partition_of_unity
 -- name    : GlobalTheory.T.orbit_unfold_integral_partition_of_unity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:54:25.565613+00:00
 -- url     : https://prove2.me/theorems/7014796f-83ee-4aac-8d88-1ac3846d0d15

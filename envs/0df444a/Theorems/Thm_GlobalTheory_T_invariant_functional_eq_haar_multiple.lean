@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariant_functional_eq_haar_multiple
 -- name    : GlobalTheory.T.invariant_functional_eq_haar_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:47:54.852278+00:00
 -- url     : https://prove2.me/theorems/e7bd5f2d-5614-4c16-9f81-2cf9e9fcd991

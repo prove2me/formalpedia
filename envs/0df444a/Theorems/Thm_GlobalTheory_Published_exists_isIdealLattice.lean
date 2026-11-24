@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_exists_isIdealLattice
 -- name    : GlobalTheory.Published.exists_isIdealLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:14:41.829886+00:00
 -- url     : https://prove2.me/theorems/6d548bbd-c076-4cf5-b8e0-b1345d44e579

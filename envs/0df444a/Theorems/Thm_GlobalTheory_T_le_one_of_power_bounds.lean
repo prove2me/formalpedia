@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_le_one_of_power_bounds
 -- name    : GlobalTheory.T.le_one_of_power_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:51:12.089493+00:00
 -- url     : https://prove2.me/theorems/953b0c8d-1338-4839-8d98-9d9f3d593a89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_principal_series_coordinate_near_infinity
 -- name    : GlobalTheory.T.principal_series_coordinate_near_infinity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:55:59.347262+00:00
 -- url     : https://prove2.me/theorems/53c698c5-dd81-41c2-8120-cda559183262

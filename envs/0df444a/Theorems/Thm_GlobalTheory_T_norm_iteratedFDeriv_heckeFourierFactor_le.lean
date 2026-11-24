@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_iteratedFDeriv_heckeFourierFactor_le
 -- name    : GlobalTheory.T.norm_iteratedFDeriv_heckeFourierFactor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:53:34.669975+00:00
 -- url     : https://prove2.me/theorems/83214318-a03d-4c5d-b418-22d790788b5d

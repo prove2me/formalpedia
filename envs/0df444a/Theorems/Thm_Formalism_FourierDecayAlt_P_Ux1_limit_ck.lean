@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux1_limit_ck
 -- name    : Formalism.FourierDecayAlt.P.Ux1.limit_ck
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:10:57.737192+00:00
 -- url     : https://prove2.me/theorems/1adc028e-4fd9-44ee-9bd2-864d05ff5f8e

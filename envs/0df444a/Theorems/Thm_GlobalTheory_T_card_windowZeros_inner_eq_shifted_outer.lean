@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_windowZeros_inner_eq_shifted_outer
 -- name    : GlobalTheory.T.card_windowZeros_inner_eq_shifted_outer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:34.930923+00:00
 -- url     : https://prove2.me/theorems/e95e4412-5bb8-4a34-b638-b9bd48849e31

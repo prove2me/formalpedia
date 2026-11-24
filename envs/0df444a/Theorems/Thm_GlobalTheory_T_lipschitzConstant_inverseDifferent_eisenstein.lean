@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lipschitzConstant_inverseDifferent_eisenstein
 -- name    : GlobalTheory.T.lipschitzConstant_inverseDifferent_eisenstein
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:25.251171+00:00
 -- url     : https://prove2.me/theorems/2fd1e2a4-6ce6-466d-8caa-fff64e87838e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fibre_family_integral_isContDensityOn
 -- name    : GlobalTheory.T.fibre_family_integral_isContDensityOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:39:52.319628+00:00
 -- url     : https://prove2.me/theorems/011966da-1719-45a0-a8b8-c5c87513a508

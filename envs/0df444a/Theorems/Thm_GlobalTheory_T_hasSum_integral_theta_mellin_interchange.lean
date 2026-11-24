@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_integral_theta_mellin_interchange
 -- name    : GlobalTheory.T.hasSum_integral_theta_mellin_interchange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:44:50.131345+00:00
 -- url     : https://prove2.me/theorems/30b343c6-2ae2-406d-a792-5a5fac98becc

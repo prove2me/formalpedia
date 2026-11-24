@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_ordCompl_d
 -- name    : Formalism.HC.Der.ordCompl_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:45:48.866771+00:00
 -- url     : https://prove2.me/theorems/f77db4f8-0e59-4eaf-89b5-00698f305bff

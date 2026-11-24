@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_locDer_sub
 -- name    : GlobalTheory.KS.Exist.locDer_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:46:04.183313+00:00
 -- url     : https://prove2.me/theorems/716f07ff-4f8d-4ab6-b788-0047ec9fc6bb

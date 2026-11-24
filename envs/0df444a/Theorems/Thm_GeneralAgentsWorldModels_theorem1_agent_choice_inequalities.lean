@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralAgentsWorldModels_theorem1_agent_choice_inequalities
 -- name    : GeneralAgentsWorldModels.theorem1_agent_choice_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:38:30.306067+00:00
 -- url     : https://prove2.me/theorems/e79b5645-2966-4063-91e8-51b0bfa94222

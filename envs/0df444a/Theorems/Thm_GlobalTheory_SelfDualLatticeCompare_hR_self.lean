@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_hR_self
 -- name    : GlobalTheory.SelfDualLatticeCompare.hR_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:03:36.431801+00:00
 -- url     : https://prove2.me/theorems/9c0cb317-ecba-4f3e-b905-7f7420cf4420

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteGroupFunctionPairing_character_eq_finrank_intertwining
 -- name    : GlobalTheory.T.finiteGroupFunctionPairing_character_eq_finrank_intertwining
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:39:17.00656+00:00
 -- url     : https://prove2.me/theorems/e345b886-c406-4e92-8083-11d91cadc430

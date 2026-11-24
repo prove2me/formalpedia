@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareTower_tower
 -- name    : GlobalTheory.SquareTower.tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:26.108013+00:00
 -- url     : https://prove2.me/theorems/5a1547bc-3620-47e9-af3f-00bf4865a13e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ker_aeval_add_stabilizerNilradical_socle
 -- name    : GlobalTheory.T.ker_aeval_add_stabilizerNilradical_socle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:51:26.105449+00:00
 -- url     : https://prove2.me/theorems/0d1aa6c5-ecfc-4fa6-aeb0-d7e6a706d123

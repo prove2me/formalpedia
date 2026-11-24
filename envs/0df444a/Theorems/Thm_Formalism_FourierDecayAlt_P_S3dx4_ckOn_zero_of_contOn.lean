@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_ckOn_zero_of_contOn
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.ckOn_zero_of_contOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:58:07.048349+00:00
 -- url     : https://prove2.me/theorems/b796043e-a936-41ad-ba99-bad6180c4f1b

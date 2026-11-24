@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prod_le_rev_eq_prod_ge
 -- name    : GlobalTheory.T.prod_le_rev_eq_prod_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:55:17.799601+00:00
 -- url     : https://prove2.me/theorems/039c4c08-d6c5-433e-ab1f-08d5cc97a49f

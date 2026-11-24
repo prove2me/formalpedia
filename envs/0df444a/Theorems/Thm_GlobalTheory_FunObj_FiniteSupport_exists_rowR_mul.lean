@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_exists_rowR_mul
 -- name    : GlobalTheory.FunObj.FiniteSupport.exists_rowR_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:40:47.574496+00:00
 -- url     : https://prove2.me/theorems/ad14d913-1a76-4636-936f-8f59b4176ecd

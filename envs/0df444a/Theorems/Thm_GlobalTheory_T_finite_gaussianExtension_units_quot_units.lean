@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_gaussianExtension_units_quot_units
 -- name    : GlobalTheory.T.finite_gaussianExtension_units_quot_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:39:09.590852+00:00
 -- url     : https://prove2.me/theorems/da37176b-a046-46a0-9ffb-d1666fa76f74

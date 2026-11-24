@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normalizedRowCoefficientMatrices_det_norm
 -- name    : GlobalTheory.T.normalizedRowCoefficientMatrices_det_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:54:03.149927+00:00
 -- url     : https://prove2.me/theorems/aeb6af69-5b3e-4134-91d4-d1fb0be0fd6c

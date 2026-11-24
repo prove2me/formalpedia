@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_matrix_determinant_formula
 -- name    : GlobalTheory.T.lattice_matrix_determinant_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:50:59.445271+00:00
 -- url     : https://prove2.me/theorems/1ba366bd-965f-4c1e-b390-bc57a868149d

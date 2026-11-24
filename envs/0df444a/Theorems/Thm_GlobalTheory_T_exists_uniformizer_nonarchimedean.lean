@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_uniformizer_nonarchimedean
 -- name    : GlobalTheory.T.exists_uniformizer_nonarchimedean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:38:03.864486+00:00
 -- url     : https://prove2.me/theorems/6b21d1bf-5e53-408e-b562-a9a2a6fe4e84

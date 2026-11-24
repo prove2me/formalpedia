@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_dominant_diagonal_conjugation_contracts
 -- name    : GlobalTheory.T.unitary_dominant_diagonal_conjugation_contracts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:33:01.852807+00:00
 -- url     : https://prove2.me/theorems/b89bd061-635d-4c09-b11a-9eaf975aa350

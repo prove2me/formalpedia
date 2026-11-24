@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Swap_coeffSwap
 -- name    : GlobalTheory.SatakeWeyl.Swap.coeffSwap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:48:17.657836+00:00
 -- url     : https://prove2.me/theorems/f6d74691-cf0d-449d-b599-6ab4f779e524

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafPull_sitePull_map
 -- name    : GlobalTheory.SheafPull.sitePull_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:18:24.09718+00:00
 -- url     : https://prove2.me/theorems/7572fc41-a8a8-4698-8d0f-a8e154bdcba2

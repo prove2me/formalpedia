@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_companionMatrixOfCoeffs_charpoly_coeff_eq
 -- name    : GlobalTheory.T.companionMatrixOfCoeffs_charpoly_coeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:30:07.121437+00:00
 -- url     : https://prove2.me/theorems/70153035-0d00-44db-9cd3-0df254c514e7

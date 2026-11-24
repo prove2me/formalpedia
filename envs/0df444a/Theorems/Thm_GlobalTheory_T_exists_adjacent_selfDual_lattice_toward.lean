@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_adjacent_selfDual_lattice_toward
 -- name    : GlobalTheory.T.exists_adjacent_selfDual_lattice_toward
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:32:54.867819+00:00
 -- url     : https://prove2.me/theorems/45d40213-45cb-49b0-afb3-3543275f6aa5

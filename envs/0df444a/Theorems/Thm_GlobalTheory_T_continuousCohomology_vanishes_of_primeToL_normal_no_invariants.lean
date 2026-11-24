@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuousCohomology_vanishes_of_primeToL_normal_no_invariants
 -- name    : GlobalTheory.T.continuousCohomology_vanishes_of_primeToL_normal_no_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:31:53.252925+00:00
 -- url     : https://prove2.me/theorems/c57c7523-b739-4ba0-b16c-77fa99ea6341

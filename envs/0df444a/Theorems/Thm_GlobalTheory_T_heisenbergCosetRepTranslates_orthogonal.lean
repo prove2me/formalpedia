@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heisenbergCosetRepTranslates_orthogonal
 -- name    : GlobalTheory.T.heisenbergCosetRepTranslates_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:15.5238+00:00
 -- url     : https://prove2.me/theorems/5627a9d5-287e-42e5-953f-60727b467389

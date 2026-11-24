@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_jf_betaAdjC_of_lemmaBNorm
 -- name    : Formalism.FourierDecayAlt.P.jf_betaAdjC_of_lemmaBNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:46:31.293578+00:00
 -- url     : https://prove2.me/theorems/04c80220-5d76-4d71-820b-1bd42ee68ebc

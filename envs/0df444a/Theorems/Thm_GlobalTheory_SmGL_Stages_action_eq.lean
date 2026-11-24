@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_Stages_action_eq
 -- name    : GlobalTheory.SmGL.Stages.action_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:14:03.354075+00:00
 -- url     : https://prove2.me/theorems/3208fdb6-e0ba-4b0e-a6d0-567754eba28e

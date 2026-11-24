@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_leftMulMatrix_of_commute_companion
 -- name    : GlobalTheory.T.exists_unit_leftMulMatrix_of_commute_companion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:50.897572+00:00
 -- url     : https://prove2.me/theorems/fdf72acb-f9ad-4d20-9f03-045c93930a19

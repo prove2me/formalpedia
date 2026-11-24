@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_conjugates_heisenberg
 -- name    : Formalism.FourierDecayAlt.P.dilation_conjugates_heisenberg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:38:49.755265+00:00
 -- url     : https://prove2.me/theorems/5bcce469-b7ef-4256-81ae-be0d72a0c9a3

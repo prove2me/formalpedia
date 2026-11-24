@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_opE_smul_add
 -- name    : GlobalTheory.RootEx.opE_smul_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:00.023576+00:00
 -- url     : https://prove2.me/theorems/3804469d-8e99-481c-a402-7627b4b144dd

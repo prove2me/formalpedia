@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PRep_IsAdmissible_smoothTrace_indicator
 -- name    : GlobalTheory.PRep.IsAdmissible.smoothTrace_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:40:08.817302+00:00
 -- url     : https://prove2.me/theorems/411ff427-6c90-49db-aa39-5e2d8fd0c228

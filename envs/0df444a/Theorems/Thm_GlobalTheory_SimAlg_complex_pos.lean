@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_complex_pos
 -- name    : GlobalTheory.SimAlg.complex_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:12:57.857221+00:00
 -- url     : https://prove2.me/theorems/8abf0557-7c4f-4528-a036-cf2ec36eb7a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralAgentsWorldModels_theorem1_general_agents_contain_world_models
 -- name    : GeneralAgentsWorldModels.theorem1_general_agents_contain_world_models
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:39:34.750965+00:00
 -- url     : https://prove2.me/theorems/7bca256c-45ee-42e2-9c81-04c4bd34c06d

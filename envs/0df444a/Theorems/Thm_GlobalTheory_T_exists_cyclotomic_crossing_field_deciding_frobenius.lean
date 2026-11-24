@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_cyclotomic_crossing_field_deciding_frobenius
 -- name    : GlobalTheory.T.exists_cyclotomic_crossing_field_deciding_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:02.529714+00:00
 -- url     : https://prove2.me/theorems/4bc7f330-38ac-411f-add8-4401bc96c6a7

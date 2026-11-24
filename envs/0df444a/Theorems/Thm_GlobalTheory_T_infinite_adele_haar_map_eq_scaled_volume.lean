@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_infinite_adele_haar_map_eq_scaled_volume
 -- name    : GlobalTheory.T.infinite_adele_haar_map_eq_scaled_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:47:18.864482+00:00
 -- url     : https://prove2.me/theorems/01889784-acc8-4829-9de7-b6de18b4a18f

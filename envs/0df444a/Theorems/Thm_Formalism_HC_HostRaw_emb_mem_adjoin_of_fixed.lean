@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_emb_mem_adjoin_of_fixed
 -- name    : Formalism.HC.HostRaw.emb_mem_adjoin_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:58:46.810598+00:00
 -- url     : https://prove2.me/theorems/5d1a10f8-58dd-459d-be8e-838e9ef7492b

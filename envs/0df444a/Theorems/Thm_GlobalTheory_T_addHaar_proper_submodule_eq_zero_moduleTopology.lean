@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_addHaar_proper_submodule_eq_zero_moduleTopology
 -- name    : GlobalTheory.T.addHaar_proper_submodule_eq_zero_moduleTopology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:26:23.596274+00:00
 -- url     : https://prove2.me/theorems/13758308-e758-4069-a8bd-369af892d384

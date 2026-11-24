@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_continuousOn_mkX
 -- name    : GlobalTheory.JR.ImgSec.continuousOn_mkX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:34:53.588969+00:00
 -- url     : https://prove2.me/theorems/42f3cc6a-3699-49ad-a7fb-29b2a460b58a

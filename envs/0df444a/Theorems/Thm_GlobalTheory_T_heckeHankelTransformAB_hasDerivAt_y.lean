@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeHankelTransformAB_hasDerivAt_y
 -- name    : GlobalTheory.T.heckeHankelTransformAB_hasDerivAt_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:45:49.32196+00:00
 -- url     : https://prove2.me/theorems/29b795ca-d8b3-4c57-899e-2970ed5f39a4

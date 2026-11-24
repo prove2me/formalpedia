@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_teichmuller_map_algebraicClosure_finiteField
 -- name    : GlobalTheory.T.exists_teichmuller_map_algebraicClosure_finiteField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:09.91906+00:00
 -- url     : https://prove2.me/theorems/2e806ef6-db09-4dda-acc8-7a6cfbe375c6

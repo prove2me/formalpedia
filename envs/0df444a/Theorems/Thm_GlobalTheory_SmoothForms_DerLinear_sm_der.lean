@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_DerLinear_sm_der
 -- name    : GlobalTheory.SmoothForms.DerLinear.sm_der
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:19:09.773074+00:00
 -- url     : https://prove2.me/theorems/5efc4a73-2b72-454e-974b-9694e59fb73e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_section_lift_nilpotent_of_sqZero
 -- name    : GlobalTheory.T.smooth_section_lift_nilpotent_of_sqZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:28.935859+00:00
 -- url     : https://prove2.me/theorems/9e99ad5e-7449-4721-be09-69de1c5077ed

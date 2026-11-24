@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_subring_eq_OK
 -- name    : GlobalTheory.T.exists_subring_eq_OK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:07.372249+00:00
 -- url     : https://prove2.me/theorems/b16780b4-9d21-4bfb-9f5a-3604c15340a7

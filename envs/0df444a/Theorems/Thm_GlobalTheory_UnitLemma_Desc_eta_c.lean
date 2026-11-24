@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_eta_c
+-- name    : GlobalTheory.UnitLemma.Desc.eta_c
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-24T21:27:49.98505+00:00
+-- url     : https://prove2.me/theorems/40fd0bd2-519b-4405-be36-27eb172d4f89
+-- title:
+--   Desc: eta c
+-- statement:
+--   The Desc construction uses the eta c property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormCharacterOnIdempotentPartFrameProperties.lean#L15-L16
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormCharacterOnIdempotentPartFrameProperties.lean#L15-L16
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_UnitLemmaGroup
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_LinearDescent
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_DltEqZero
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnramifiedQuadraticNormsTraceUniformizerFacts
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormCharacterOnIdempotentPartFrameProperties
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open GlobalTheory GlobalTheory.UnitLemma GlobalTheory.UnitLemma.Desc
+open GlobalTheory.UnitLemma Polynomial Filter Topology
+variable {K : UQ} (B : InvAlg K)
+
+theorem GlobalTheory.UnitLemma.Desc.eta_c (x : K.E) : K.eta (K.c x) = K.eta x := by sorry

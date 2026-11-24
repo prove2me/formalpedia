@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coset_series_summable_shifted
 -- name    : GlobalTheory.T.coset_series_summable_shifted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:33.505854+00:00
 -- url     : https://prove2.me/theorems/6d9c442f-cba8-401c-8698-2ca6dbddbbcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HoloWirt_iterD_holo_and_eq
 -- name    : GlobalTheory.HoloWirt.iterD_holo_and_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:38:46.420915+00:00
 -- url     : https://prove2.me/theorems/f8e32f3b-06bf-4ca5-8cb7-aa5855b4470b

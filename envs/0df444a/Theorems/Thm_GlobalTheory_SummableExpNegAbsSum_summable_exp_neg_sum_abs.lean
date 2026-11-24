@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummableExpNegAbsSum_summable_exp_neg_sum_abs
 -- name    : GlobalTheory.SummableExpNegAbsSum.summable_exp_neg_sum_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:37.787005+00:00
 -- url     : https://prove2.me/theorems/e880d7a7-a969-4257-a2f3-b2c5a108fba4

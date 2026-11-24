@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_rep_smul
 -- name    : GlobalTheory.SegreCoord.rep_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:52:34.711936+00:00
 -- url     : https://prove2.me/theorems/95fdf70c-405d-405a-a9ad-6ff9d3bd364c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftVariables_exists_ringEquiv_add_one
 -- name    : GlobalTheory.ShiftVariables.exists_ringEquiv_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:52.460244+00:00
 -- url     : https://prove2.me/theorems/30500f9e-b103-4743-81c1-d420fa4d911d

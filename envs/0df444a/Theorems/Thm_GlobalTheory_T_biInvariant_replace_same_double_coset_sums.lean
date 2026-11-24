@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_biInvariant_replace_same_double_coset_sums
 -- name    : GlobalTheory.T.biInvariant_replace_same_double_coset_sums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:26:39.657607+00:00
 -- url     : https://prove2.me/theorems/a392da61-77bf-4b9f-8e6f-bf0af2ea2b13

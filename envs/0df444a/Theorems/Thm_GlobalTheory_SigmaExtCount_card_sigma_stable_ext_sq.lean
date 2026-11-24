@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SigmaExtCount_card_sigma_stable_ext_sq
 -- name    : GlobalTheory.SigmaExtCount.card_sigma_stable_ext_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:11:30.494089+00:00
 -- url     : https://prove2.me/theorems/95eb13be-d652-49d6-97d5-cf54b628fd4d

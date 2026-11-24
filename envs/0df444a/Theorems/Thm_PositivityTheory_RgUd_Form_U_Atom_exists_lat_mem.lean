@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_exists_lat_mem
 -- name    : PositivityTheory.RgUd.Form.U.Atom.exists_lat_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:01:31.716205+00:00
 -- url     : https://prove2.me/theorems/cfc1bb0b-ce51-439f-a957-3a35f8f2430f

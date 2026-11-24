@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_admissible_localNorm_mem_sUnits_sup_globalNorm
 -- name    : GlobalTheory.T.exists_admissible_localNorm_mem_sUnits_sup_globalNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:32:59.434812+00:00
 -- url     : https://prove2.me/theorems/154fdf98-87aa-47b6-9c0e-1f18f5b0867d

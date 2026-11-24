@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_scl_one
 -- name    : GlobalTheory.SqZero.scl_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:22:53.064837+00:00
 -- url     : https://prove2.me/theorems/01bec93e-2f49-43eb-a4e1-82e68aa03457

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_mem_congrGal_iff
 -- name    : Formalism.HC.HostRaw.mem_congrGal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:00:24.792228+00:00
 -- url     : https://prove2.me/theorems/a77b6411-8565-49b5-abd7-16b2199f58bb

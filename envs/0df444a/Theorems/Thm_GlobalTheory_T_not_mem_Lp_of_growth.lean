@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_not_mem_Lp_of_growth
 -- name    : GlobalTheory.T.not_mem_Lp_of_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:53:47.871397+00:00
 -- url     : https://prove2.me/theorems/605ab129-b33a-477c-abc0-f185033d0879

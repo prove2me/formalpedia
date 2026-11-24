@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLift_glue_mul
 -- name    : GlobalTheory.SplitLift.glue_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:21:23.718842+00:00
 -- url     : https://prove2.me/theorems/62530036-c443-40b3-a160-e589fb75cf4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_free_pullback_affine
 -- name    : GlobalTheory.T.finite_free_pullback_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:40:05.940065+00:00
 -- url     : https://prove2.me/theorems/b2b7ad35-3548-4f4a-9880-40ead0594c42

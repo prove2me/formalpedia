@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Orb_orbit_constant_eleven_ge_one
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.orbit_constant_eleven_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:05:50.543656+00:00
 -- url     : https://prove2.me/theorems/1afe3164-2adc-41fe-ac34-16b1bb513259

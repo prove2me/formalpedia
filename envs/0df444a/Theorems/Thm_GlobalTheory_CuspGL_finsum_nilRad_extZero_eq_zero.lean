@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finsum_nilRad_extZero_eq_zero
 -- name    : GlobalTheory.CuspGL.finsum_nilRad_extZero_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:33:19.290796+00:00
 -- url     : https://prove2.me/theorems/646d8478-c930-431c-ba07-05888673d659

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_mul_sq_quadratic_defect_step
 -- name    : GlobalTheory.T.exists_unit_mul_sq_quadratic_defect_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:36.59373+00:00
 -- url     : https://prove2.me/theorems/8d82177f-1146-434a-b807-08f5dd6d60c2

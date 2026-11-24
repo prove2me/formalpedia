@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_isUnitarisable_piTensor
 -- name    : GlobalTheory.SmGL.UnitInd.isUnitarisable_piTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:44.933267+00:00
 -- url     : https://prove2.me/theorems/e5a858c1-6cd9-4588-8499-65731f6b15f3

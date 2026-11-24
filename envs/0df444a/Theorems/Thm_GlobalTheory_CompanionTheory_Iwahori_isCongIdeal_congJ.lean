@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_isCongIdeal_congJ
 -- name    : GlobalTheory.CompanionTheory.Iwahori.isCongIdeal_congJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:50:16.269596+00:00
 -- url     : https://prove2.me/theorems/8e030ec9-dd6c-4688-a6da-1bf3ec9052f3

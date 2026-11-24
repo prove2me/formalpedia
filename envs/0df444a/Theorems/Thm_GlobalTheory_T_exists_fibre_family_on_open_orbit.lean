@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fibre_family_on_open_orbit
 -- name    : GlobalTheory.T.exists_fibre_family_on_open_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:35:55.323451+00:00
 -- url     : https://prove2.me/theorems/1df89bbf-f073-4ce1-abc2-d4133b331def

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parabolic_quotient_measure
 -- name    : GlobalTheory.T.parabolic_quotient_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:18.648243+00:00
 -- url     : https://prove2.me/theorems/1a646807-8117-4988-aa17-0746f757c622

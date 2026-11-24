@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isZeroOrPosMulRootOfUnity_finite_gaussSum
 -- name    : GlobalTheory.T.isZeroOrPosMulRootOfUnity_finite_gaussSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:51:02.842913+00:00
 -- url     : https://prove2.me/theorems/27ad8ddb-6c27-4c0a-ab5d-16fb9497db53

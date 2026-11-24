@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SylvesterInertia_nonpos_of_mem
 -- name    : GlobalTheory.SylvesterInertia.nonpos_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:31.893878+00:00
 -- url     : https://prove2.me/theorems/5357b28b-cf3a-4647-a91c-31788d693213

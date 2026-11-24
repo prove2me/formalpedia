@@ -47532,7 +47532,7 @@
 {"parent": "HomIndGHW.RCR.theorem_4_14", "child": "HomIndGHW_RCR_Robust", "via": ["statement"]}
 {"parent": "HomIndGHW.RCR.theorem_4_14", "child": "HomIndGHW_RCR_Structures", "via": ["statement"]}
 {"parent": "HomIndGHW.RCR.theorem_4_14", "child": "HomIndGHW_RCR_Refinement", "via": ["statement"]}
-{"parent": "NuclearTensor.Membership.lemma_3_4", "child": "NuclearTensor_Membership_Optimization", "via": ["statement"]}
+{"parent": "NuclearTensor.Membership.lemma_3_4", "child": "NuclearTensor_Membership_Optimization", "via": ["solution", "statement"]}
 {"parent": "InducedMinorDeletion1657.Main.sublinear_branching", "child": "InducedMinorDeletion1657_Main_Collections", "via": ["statement"]}
 {"parent": "TreeCorrMatch.ErrorFree.lemma_1", "child": "TreeCorrMatch_ErrorFree_TreePairLaws", "via": ["statement"]}
 {"parent": "TreeCorrMatch.ErrorFree.lemma_1", "child": "TreeCorrMatch_ErrorFree_MatchingSum", "via": ["statement"]}
@@ -48908,7 +48908,7 @@
 {"parent": "QCollLB.lemma_4_9", "child": "QCollLB_Harmonic", "via": ["statement"]}
 {"parent": "QCollLB.lemma_4_9", "child": "QCollLB_Queries", "via": ["statement"]}
 {"parent": "LogSupermodularBIS.Main.proposition_A_2", "child": "LogSupermodularBIS_Main_Algorithms", "via": ["statement"]}
-{"parent": "LogSupermodularBIS.Main.lemma_4_2", "child": "LogSupermodularBIS_Main_Interaction", "via": ["statement"]}
+{"parent": "LogSupermodularBIS.Main.lemma_4_2", "child": "LogSupermodularBIS_Main_Interaction", "via": ["solution", "statement"]}
 {"parent": "OAI.DirectionalTransience.small_scale_tail_moment", "child": "OAIQ242Bal005", "via": ["solution", "statement"]}
 {"parent": "OAI.DirectionalTransience.small_scale_tail_moment", "child": "DirectionalBallisticity", "via": ["solution", "statement"]}
 {"parent": "DistLTLSynth_Char_CounterFormula", "child": "DistLTLSynth_Char_Geometric", "via": ["statement"]}
@@ -56139,7 +56139,7 @@
 {"parent": "QEC.Coding.BDL26RXErrorPullback.correction_delta", "child": "QEC_Coding_FiniteAlternatingConstruction_RXErrorPullback", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXErrorPullback.correction_delta", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_CanonicalHistoryMarks_Snapshots", "via": ["solution", "statement"]}
 {"parent": "SparsestCutOracle_Main_Procedures", "child": "SparsestCutOracle_Main_SDP", "via": ["statement"]}
-{"parent": "ZigZagStrong.ZigZag.finite_truncation", "child": "ZigZagStrong_ZigZag_Covers", "via": ["statement"]}
+{"parent": "ZigZagStrong.ZigZag.finite_truncation", "child": "ZigZagStrong_ZigZag_Covers", "via": ["solution", "statement"]}
 {"parent": "ArbLindbladLearn_Program", "child": "ArbLindbladLearn_Instr", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26HistorySyndromeSensitivity.prefix_pair_support", "child": "QEC_Coding_FiniteAlternatingConstruction_HistorySyndromeSensitivity_Snapshots", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26HistorySyndromeSensitivity.prefix_pair_support", "child": "QEC_Coding_FiniteAlternatingConstruction_HistorySyndromeSensitivity_Intervals", "via": ["solution", "statement"]}
@@ -63002,7 +63002,7 @@
 {"parent": "QEC.Distillation.PhaseInjection.phaseEightTargetAction_eq", "child": "QEC_Distillation_Injection_PhaseInjection", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.PhaseInjection.phaseEightTargetAction_eq", "child": "QEC_Distillation_Universality_OneQubitPhase", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.PhaseInjection.phaseEightTargetAction_eq", "child": "QEC_Distillation_Injection_PhaseRetry", "via": ["solution", "statement"]}
-{"parent": "TightPQRepetition.Main.lemma_3_8", "child": "TightPQRepetition_Main_Jordan", "via": ["statement"]}
+{"parent": "TightPQRepetition.Main.lemma_3_8", "child": "TightPQRepetition_Main_Jordan", "via": ["solution", "statement"]}
 {"parent": "OAI.MaximalSeshadri.Geometry.Surface.seshadri_eq_of_curve_lower_s01", "child": "MaximalSeshadriConstants", "via": ["solution", "statement"]}
 {"parent": "OAI.Yau.Target.intrinsic_packed_selected_stage", "child": "YauCounterexample", "via": ["solution", "statement"]}
 {"parent": "OAI.Yau.Target.intrinsic_packed_selected_stage", "child": "OAIQ237Ny004", "via": ["solution", "statement"]}

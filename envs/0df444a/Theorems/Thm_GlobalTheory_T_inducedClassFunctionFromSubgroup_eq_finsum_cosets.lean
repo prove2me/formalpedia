@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inducedClassFunctionFromSubgroup_eq_finsum_cosets
 -- name    : GlobalTheory.T.inducedClassFunctionFromSubgroup_eq_finsum_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:44.367526+00:00
 -- url     : https://prove2.me/theorems/6204211e-8466-4aea-b24c-24fa036f731d

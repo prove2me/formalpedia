@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_flatten_mem_shuffleList
 -- name    : GlobalTheory.Lyndon.flatten_mem_shuffleList
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:19:46.430857+00:00
 -- url     : https://prove2.me/theorems/53423794-47fe-42b1-a725-9d014fc597e7

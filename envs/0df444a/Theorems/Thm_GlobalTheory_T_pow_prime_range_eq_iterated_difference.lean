@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pow_prime_range_eq_iterated_difference
 -- name    : GlobalTheory.T.pow_prime_range_eq_iterated_difference
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:55:07.421997+00:00
 -- url     : https://prove2.me/theorems/ecb2a753-bc12-4c69-a827-4473d2ebd773

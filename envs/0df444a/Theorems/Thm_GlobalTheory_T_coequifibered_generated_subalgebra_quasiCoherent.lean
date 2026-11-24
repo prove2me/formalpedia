@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coequifibered_generated_subalgebra_quasiCoherent
 -- name    : GlobalTheory.T.coequifibered_generated_subalgebra_quasiCoherent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:30:24.951054+00:00
 -- url     : https://prove2.me/theorems/a7006fbd-ceb9-48b9-8ea0-f388874708a0

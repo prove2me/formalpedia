@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coeff_normFormOfFamily_mem_range_integrallyClosed
 -- name    : GlobalTheory.T.coeff_normFormOfFamily_mem_range_integrallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:31:06.87209+00:00
 -- url     : https://prove2.me/theorems/df25d17f-6d14-4311-beae-18a5ef2e4014

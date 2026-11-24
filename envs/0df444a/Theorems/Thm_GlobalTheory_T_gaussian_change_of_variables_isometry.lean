@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussian_change_of_variables_isometry
 -- name    : GlobalTheory.T.gaussian_change_of_variables_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:40:39.320905+00:00
 -- url     : https://prove2.me/theorems/8f181475-e06b-42fa-9d0a-d424d3724c5c

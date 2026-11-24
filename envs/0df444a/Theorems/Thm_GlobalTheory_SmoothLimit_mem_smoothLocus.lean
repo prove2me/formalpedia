@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLimit_mem_smoothLocus
 -- name    : GlobalTheory.SmoothLimit.mem_smoothLocus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:41:51.715442+00:00
 -- url     : https://prove2.me/theorems/e503971d-6e64-4178-91b6-6573c6e6b100

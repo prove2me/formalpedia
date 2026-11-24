@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymSignature_card_type_le
 -- name    : GlobalTheory.SymSignature.card_type_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:25:22.490941+00:00
 -- url     : https://prove2.me/theorems/07334914-2f92-434d-8e5f-98fa3124a3be

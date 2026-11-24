@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coset_unit_ideal_integral
 -- name    : GlobalTheory.T.coset_unit_ideal_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:32:08.188619+00:00
 -- url     : https://prove2.me/theorems/59fe3506-aa15-44a9-b1f1-b16e830904a2

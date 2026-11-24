@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_infinitePlace_completion_nhdsNE_zero_neBot
 -- name    : GlobalTheory.T.infinitePlace_completion_nhdsNE_zero_neBot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:47:03.76879+00:00
 -- url     : https://prove2.me/theorems/a29ff9d5-1065-447b-baa3-ede50324c46d

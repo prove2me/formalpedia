@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_set_basic_open_affine
 -- name    : GlobalTheory.T.finite_set_basic_open_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:40:34.597856+00:00
 -- url     : https://prove2.me/theorems/1d39ad7c-3e0f-4de3-8ac5-ddc3f2d47448

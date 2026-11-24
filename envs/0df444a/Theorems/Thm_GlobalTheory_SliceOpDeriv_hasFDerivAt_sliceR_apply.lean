@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOpDeriv_hasFDerivAt_sliceR_apply
 -- name    : GlobalTheory.SliceOpDeriv.hasFDerivAt_sliceR_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:55.151361+00:00
 -- url     : https://prove2.me/theorems/4df5ffd4-e8ae-4142-8d7c-0e9aeed339bb

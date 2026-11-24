@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_perm_id_of_mono
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.perm_id_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:44.667947+00:00
 -- url     : https://prove2.me/theorems/1cfb74d6-0246-4d29-a6b3-20447117a8f1

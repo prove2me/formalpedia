@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_traceIndex
 -- name    : GlobalTheory.CompanionTheory.InertZeta.traceIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:03:56.181867+00:00
 -- url     : https://prove2.me/theorems/f18535db-a3e9-4940-94d6-cf082f105c32

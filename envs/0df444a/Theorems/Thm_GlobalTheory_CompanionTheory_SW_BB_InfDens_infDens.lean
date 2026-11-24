@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_InfDens_infDens
 -- name    : GlobalTheory.CompanionTheory.SW.BB.InfDens.infDens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:01:35.973422+00:00
 -- url     : https://prove2.me/theorems/520b1ba6-af90-4a2b-9d3d-7bedd7d8588b

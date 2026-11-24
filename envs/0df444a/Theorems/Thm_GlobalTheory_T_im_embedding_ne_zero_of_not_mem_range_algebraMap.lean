@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_im_embedding_ne_zero_of_not_mem_range_algebraMap
 -- name    : GlobalTheory.T.im_embedding_ne_zero_of_not_mem_range_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:47.72186+00:00
 -- url     : https://prove2.me/theorems/d00aed54-3dae-48a3-8abb-66012d679107

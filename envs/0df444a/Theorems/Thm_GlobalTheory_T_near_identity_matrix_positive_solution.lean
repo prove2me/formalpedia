@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_near_identity_matrix_positive_solution
 -- name    : GlobalTheory.T.near_identity_matrix_positive_solution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:53:53.347119+00:00
 -- url     : https://prove2.me/theorems/8d1ad263-0e20-47b8-836b-d0d6acfeaeb0

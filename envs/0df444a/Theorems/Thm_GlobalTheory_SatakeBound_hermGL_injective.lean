@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_hermGL_injective
 -- name    : GlobalTheory.SatakeBound.hermGL_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:05:55.301911+00:00
 -- url     : https://prove2.me/theorems/e3766822-cf28-44d4-b111-85a1285238c7

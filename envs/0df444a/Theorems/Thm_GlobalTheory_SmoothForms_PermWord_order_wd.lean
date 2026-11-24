@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_PermWord_order_wd
 -- name    : GlobalTheory.SmoothForms.PermWord.order_wd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:19:53.663951+00:00
 -- url     : https://prove2.me/theorems/afe53305-75e0-495c-b8b7-295d1bce308e

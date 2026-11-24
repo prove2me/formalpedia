@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cayleyTransform_mem_rational_unitaryGroup
 -- name    : GlobalTheory.T.cayleyTransform_mem_rational_unitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:28:57.976032+00:00
 -- url     : https://prove2.me/theorems/bf8776b8-d34b-4a2e-be2b-1441820d9813

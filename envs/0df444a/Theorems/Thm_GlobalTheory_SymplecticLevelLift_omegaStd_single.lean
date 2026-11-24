@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymplecticLevelLift_omegaStd_single
 -- name    : GlobalTheory.SymplecticLevelLift.omegaStd_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:26:27.57261+00:00
 -- url     : https://prove2.me/theorems/33b6137a-5d91-4e1f-9fc7-34f48f287879

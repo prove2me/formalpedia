@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_split_column
 -- name    : GlobalTheory.T.lintegral_split_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:14.300044+00:00
 -- url     : https://prove2.me/theorems/3b6a1479-15af-4552-a7dc-5cda78c132c8

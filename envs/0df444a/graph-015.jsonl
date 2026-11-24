@@ -43616,7 +43616,7 @@
 {"parent": "AvramDividend.Classical.avram_wave5_04b_real_clock_full_stieltjes_and_right_jumps_nonpos", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_04b_real_clock_full_stieltjes_and_right_jumps_nonpos", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_04b_real_clock_full_stieltjes_and_right_jumps_nonpos", "child": "AvramDividend.Classical.avram_wave5_04b_original_real_clock_countable_right_signed_sum_nonpos", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Intakethird100.P22.cdNorm_formula", "child": "QAlgorithms_Papers_Independent_Intakethird100_P22", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Intakethird100.P22.cdNorm_formula", "child": "QAlgorithms_Papers_Independent_Intakethird100_P22", "via": ["solution", "statement"]}
 {"parent": "NishtAbel2024.checked_solver_sound", "child": "NishtAbel2024_CheckedConstraintSolver", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_triangulation_completion__p2m_34ce151f_05d3_497c_a88f_b630e2f0d090_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.connected_planar_euler_formula__p2m_034f5ef2_6768_4eb9_83c3_8c1c8d5ce02b_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
@@ -55013,21 +55013,21 @@
 {"parent": "AvramDividend.Classical.avram_wave6_04_true_source_countable_C2_localisations_generator_compensation_and_joint_ae_negative_tails", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_08_ubv_positive_reserve_positive_horizon_source_ito_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_08_ubv_positive_reserve_positive_horizon_source_ito_core", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_AssumptionB4", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_alpha0", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_Gamma", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "AubinLipschitz_effDom", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_AssumptionB3", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_IsLegendre", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_AssumptionB2", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_Lmax", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_bregman", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_optSet", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "TensorAHPE_IsProperClosedConvex", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_IsPLIAGSeq", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_AssumptionB1", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_PhiStar", "via": ["statement"]}
-{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_Phi", "via": ["statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_AssumptionB4", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_alpha0", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_Gamma", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "AubinLipschitz_effDom", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_AssumptionB3", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_IsLegendre", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_AssumptionB2", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_Lmax", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_bregman", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_optSet", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "TensorAHPE_IsProperClosedConvex", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_IsPLIAGSeq", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_AssumptionB1", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_PhiStar", "via": ["solution", "statement"]}
+{"parent": "PLIAG.theorem_4_2", "child": "PLIAG_Phi", "via": ["solution", "statement"]}
 {"parent": "LX.Core.ZeroGap.two_vertex_neighbor_avoids_target", "child": "LX_ShallowNeighborSplice", "via": ["solution", "statement"]}
 {"parent": "LX.Core.ZeroGap.two_vertex_neighbor_avoids_target", "child": "LX_Graph", "via": ["solution", "statement"]}
 {"parent": "levy_foundations_charFun_iteratedConvolutionPower", "child": "levy_foundations_iteratedConvolutionPower", "via": ["solution", "statement"]}
@@ -56276,20 +56276,20 @@
 {"parent": "AvramDividend.Classical.avram_wave8_22_original_BV_almost_everywhere_signed_generator_dividend_HJB_remainder_nonpos", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave8_22_original_BV_almost_everywhere_signed_generator_dividend_HJB_remainder_nonpos", "child": "AvramDividend.Classical.avram_wave7_02_original_stieltjes_dividend_interior_gradient_nonpositive", "via": ["solution", "statement"]}
 {"parent": "WildeQIT_Wiretap_powChannel", "child": "WildeQIT_Channel", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_AssumptionB4", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_IsPLIAGSeq", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_alpha0", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_Delta", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_Gamma", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "AubinLipschitz_effDom", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_AssumptionB3", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_IsLegendre", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_AssumptionB2", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_Lmax", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_bregman", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_optSet", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "TensorAHPE_IsProperClosedConvex", "via": ["statement"]}
-{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_AssumptionB1", "via": ["statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_AssumptionB4", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_IsPLIAGSeq", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_alpha0", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_Delta", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_Gamma", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "AubinLipschitz_effDom", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_AssumptionB3", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_IsLegendre", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_AssumptionB2", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_Lmax", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_bregman", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_optSet", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "TensorAHPE_IsProperClosedConvex", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lyapunov_recursion", "child": "PLIAG_AssumptionB1", "via": ["solution", "statement"]}
 {"parent": "RiemSmoothSD.proposition_4_2", "child": "RiemSmoothSD_IsSmoothRetraction", "via": ["statement"]}
 {"parent": "RiemSmoothSD.proposition_4_2", "child": "RiemSmoothSD_IsSmoothingFunction", "via": ["statement"]}
 {"parent": "RiemSmoothSD.proposition_4_2", "child": "ZORiem_RGD_rgrad", "via": ["statement"]}

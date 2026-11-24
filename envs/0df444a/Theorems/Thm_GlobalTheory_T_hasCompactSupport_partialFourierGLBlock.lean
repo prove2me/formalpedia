@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasCompactSupport_partialFourierGLBlock
 -- name    : GlobalTheory.T.hasCompactSupport_partialFourierGLBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:42:00.985632+00:00
 -- url     : https://prove2.me/theorems/bb5b7ad9-bc18-472f-ac7c-c003dcc041af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isField_adicCompletion_tensor_of_inert
 -- name    : GlobalTheory.T.isField_adicCompletion_tensor_of_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:47:57.94497+00:00
 -- url     : https://prove2.me/theorems/71cb633c-a8f6-4eed-8c4b-293d1e9a0bd7

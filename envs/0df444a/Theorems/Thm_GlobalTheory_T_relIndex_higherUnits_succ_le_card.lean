@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_higherUnits_succ_le_card
 -- name    : GlobalTheory.T.relIndex_higherUnits_succ_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:56:06.948823+00:00
 -- url     : https://prove2.me/theorems/9b00e088-3dd5-4740-be7d-42fe447f959a

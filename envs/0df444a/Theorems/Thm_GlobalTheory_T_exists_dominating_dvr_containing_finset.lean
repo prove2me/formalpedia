@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_dominating_dvr_containing_finset
 -- name    : GlobalTheory.T.exists_dominating_dvr_containing_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:33:57.340243+00:00
 -- url     : https://prove2.me/theorems/08302bee-001f-4c19-bab1-5803442d365f

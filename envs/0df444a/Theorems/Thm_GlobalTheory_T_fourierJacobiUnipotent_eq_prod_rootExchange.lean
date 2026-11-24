@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourierJacobiUnipotent_eq_prod_rootExchange
 -- name    : GlobalTheory.T.fourierJacobiUnipotent_eq_prod_rootExchange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:41:55.464797+00:00
 -- url     : https://prove2.me/theorems/c97c7479-53a4-41bb-8018-df99c7c7a9fb

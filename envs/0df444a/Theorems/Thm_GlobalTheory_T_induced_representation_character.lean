@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_induced_representation_character
 -- name    : GlobalTheory.T.induced_representation_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:47:25.220135+00:00
 -- url     : https://prove2.me/theorems/20fa4185-63a4-4fc9-86dd-2095da4121c3

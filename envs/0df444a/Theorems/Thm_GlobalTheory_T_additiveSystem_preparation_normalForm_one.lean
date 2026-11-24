@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additiveSystem_preparation_normalForm_one
 -- name    : GlobalTheory.T.additiveSystem_preparation_normalForm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:26:36.273734+00:00
 -- url     : https://prove2.me/theorems/14aba24c-fa72-4c64-8a7e-3861c176f8fa

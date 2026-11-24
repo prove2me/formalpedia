@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadraticWeilFourier_comp_smul
 -- name    : GlobalTheory.T.quadraticWeilFourier_comp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:55:41.953699+00:00
 -- url     : https://prove2.me/theorems/6d405364-8807-4c02-91bb-7156c3e7a944

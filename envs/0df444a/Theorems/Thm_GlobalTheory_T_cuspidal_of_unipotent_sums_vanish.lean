@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cuspidal_of_unipotent_sums_vanish
 -- name    : GlobalTheory.T.cuspidal_of_unipotent_sums_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:31:30.034594+00:00
 -- url     : https://prove2.me/theorems/06b58df0-acb8-41b1-8e5b-fb1487a7498e

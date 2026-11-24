@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_selfDual_std
 -- name    : GlobalTheory.SgGlob.Inhab.selfDual_std
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:17:52.629472+00:00
 -- url     : https://prove2.me/theorems/7574a72f-2a34-4949-91e4-f92081ed2642

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLIAG_lyapunov_recursion
 -- name    : PLIAG.lyapunov_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:30:40.064811+00:00
 -- url     : https://prove2.me/theorems/94e8d253-9a6a-4613-8af0-ac263aedfb59

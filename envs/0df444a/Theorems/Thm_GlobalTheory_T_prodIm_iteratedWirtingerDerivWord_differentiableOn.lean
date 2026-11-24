@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prodIm_iteratedWirtingerDerivWord_differentiableOn
 -- name    : GlobalTheory.T.prodIm_iteratedWirtingerDerivWord_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:55:15.468462+00:00
 -- url     : https://prove2.me/theorems/50607a28-9fea-43bd-a0c7-2fc4e7988cb5

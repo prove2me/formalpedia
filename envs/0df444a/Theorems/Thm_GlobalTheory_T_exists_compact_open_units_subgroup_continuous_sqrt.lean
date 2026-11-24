@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_compact_open_units_subgroup_continuous_sqrt
 -- name    : GlobalTheory.T.exists_compact_open_units_subgroup_continuous_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:33:53.328379+00:00
 -- url     : https://prove2.me/theorems/698470eb-197d-493e-b8d0-3a47809d309f

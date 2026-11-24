@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_integers_mod_uniformizer_eq_q_sq
 -- name    : GlobalTheory.T.card_integers_mod_uniformizer_eq_q_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:32:01.491977+00:00
 -- url     : https://prove2.me/theorems/e956d24d-94e8-47d8-92af-d19b7994a2a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_invariants_eq_of_invertible_periodMatrix
 -- name    : GlobalTheory.T.finrank_invariants_eq_of_invertible_periodMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:39:13.528807+00:00
 -- url     : https://prove2.me/theorems/39b8636d-1434-4367-881c-8c243a23755a

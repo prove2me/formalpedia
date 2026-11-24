@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeWeightTwo_isGood_of_tsum
 -- name    : GlobalTheory.T.heckeWeightTwo_isGood_of_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:30.900001+00:00
 -- url     : https://prove2.me/theorems/2e577537-e027-4b77-8bc1-2e065660068d

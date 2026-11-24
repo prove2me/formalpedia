@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SmGL_MultiIrr_isIrreducible_ind__iff_53a8980324c2
 -- name    : P2M_GlobalTheory_SmGL_MultiIrr_isIrreducible_ind__iff_53a8980324c2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:55.140813+00:00
 -- url     : https://prove2.me/theorems/e610c94b-4160-48f0-8524-e30ab95e6516

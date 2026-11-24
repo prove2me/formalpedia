@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_eigenspace_monomial_matrix_lift
 -- name    : GlobalTheory.T.finrank_eigenspace_monomial_matrix_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:51.956324+00:00
 -- url     : https://prove2.me/theorems/385b2a4c-1f62-4b76-bc05-5836ca2a3cd2

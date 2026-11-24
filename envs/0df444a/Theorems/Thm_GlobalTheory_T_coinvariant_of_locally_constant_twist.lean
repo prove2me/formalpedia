@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coinvariant_of_locally_constant_twist
 -- name    : GlobalTheory.T.coinvariant_of_locally_constant_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:30:31.82406+00:00
 -- url     : https://prove2.me/theorems/6e104627-c324-47e1-b5b5-463e2a1ba1d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_index_range_ker_iterate_endomorphism
 -- name    : GlobalTheory.T.index_range_ker_iterate_endomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:46.764854+00:00
 -- url     : https://prove2.me/theorems/20ff4e88-358e-41c2-969f-4f31e800ee2e

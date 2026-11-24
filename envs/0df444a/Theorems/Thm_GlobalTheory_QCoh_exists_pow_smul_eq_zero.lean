@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_exists_pow_smul_eq_zero
 -- name    : GlobalTheory.QCoh.exists_pow_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:46.910158+00:00
 -- url     : https://prove2.me/theorems/a3d2d2a4-c576-4887-b04a-d39c44be63ae

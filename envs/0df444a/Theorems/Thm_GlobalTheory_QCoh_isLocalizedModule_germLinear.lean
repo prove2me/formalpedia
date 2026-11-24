@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isLocalizedModule_germLinear
 -- name    : GlobalTheory.QCoh.isLocalizedModule_germLinear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:52.404413+00:00
 -- url     : https://prove2.me/theorems/d3868df2-ed98-46a9-af8b-13ba4e03e949

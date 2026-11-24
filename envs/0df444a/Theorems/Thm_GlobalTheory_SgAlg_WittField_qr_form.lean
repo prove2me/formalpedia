@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_qr_form
 -- name    : GlobalTheory.SgAlg.WittField.qr_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:17:22.412806+00:00
 -- url     : https://prove2.me/theorems/613f3afb-b05c-45f4-8f53-42e94a521a2b

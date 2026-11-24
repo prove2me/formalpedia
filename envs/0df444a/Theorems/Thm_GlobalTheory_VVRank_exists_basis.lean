@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_exists_basis
 -- name    : GlobalTheory.VVRank.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:58:49.575714+00:00
 -- url     : https://prove2.me/theorems/a8fcc651-4fb5-4882-b97f-a7ecb3f0dd16

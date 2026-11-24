@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_blockTriangular_row_lattice_triangular_basis
 -- name    : GlobalTheory.T.blockTriangular_row_lattice_triangular_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:26:56.101841+00:00
 -- url     : https://prove2.me/theorems/ee3d5583-fc70-4368-a4a1-d69163894121

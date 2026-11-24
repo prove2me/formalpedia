@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOpen_character_annihilator
 -- name    : GlobalTheory.T.isOpen_character_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:49:28.37132+00:00
 -- url     : https://prove2.me/theorems/e9615821-0045-40cf-8526-5190ed6b5f9b

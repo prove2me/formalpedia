@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_galois_quotient_equiv_of_matching_places
 -- name    : GlobalTheory.T.galois_quotient_equiv_of_matching_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:40:55.893916+00:00
 -- url     : https://prove2.me/theorems/75d397bf-1a00-4842-8158-96ef1cfd2dee

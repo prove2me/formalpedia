@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_dual_injective_equiv
 -- name    : GlobalTheory.T.finite_dual_injective_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:39:24.4543+00:00
 -- url     : https://prove2.me/theorems/7dbe28c3-aa49-4782-9d0c-6610c7aed3fe

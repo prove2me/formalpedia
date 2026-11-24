@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_art_eq_one_of_modEq
 -- name    : Formalism.HC.HostRaw.art_eq_one_of_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:59:56.886855+00:00
 -- url     : https://prove2.me/theorems/7691e806-9431-498f-92c0-515dc3b62434

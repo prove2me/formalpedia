@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pullbackSectionsSpanTwisted_of_indep_span
 -- name    : GlobalTheory.T.pullbackSectionsSpanTwisted_of_indep_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:55:37.479043+00:00
 -- url     : https://prove2.me/theorems/838530ec-fc9f-4556-9e14-247bcccc61a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_approx_mod_local_squares
 -- name    : GlobalTheory.T.exists_approx_mod_local_squares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:34:14.644795+00:00
 -- url     : https://prove2.me/theorems/f3b92ed0-dcde-4cad-8a44-6c7f62922245

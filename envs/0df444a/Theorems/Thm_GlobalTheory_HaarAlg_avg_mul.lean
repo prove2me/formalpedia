@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarAlg_avg_mul
 -- name    : GlobalTheory.HaarAlg.avg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:58:40.899808+00:00
 -- url     : https://prove2.me/theorems/fb29225a-7b71-468a-848c-4aeff4007363

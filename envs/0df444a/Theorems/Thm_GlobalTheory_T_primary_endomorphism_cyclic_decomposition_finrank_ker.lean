@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primary_endomorphism_cyclic_decomposition_finrank_ker
 -- name    : GlobalTheory.T.primary_endomorphism_cyclic_decomposition_finrank_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:54:51.922287+00:00
 -- url     : https://prove2.me/theorems/74e8a230-4959-4f49-bb02-1dd3b4f5c12b

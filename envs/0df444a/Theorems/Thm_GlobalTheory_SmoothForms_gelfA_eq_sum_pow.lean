@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_gelfA_eq_sum_pow
 -- name    : GlobalTheory.SmoothForms.gelfA_eq_sum_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:45.099522+00:00
 -- url     : https://prove2.me/theorems/ac529b98-a535-4228-97e7-604576125303

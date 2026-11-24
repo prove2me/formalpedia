@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_anisotropic_orthogonal_basis_hermitian
 -- name    : GlobalTheory.T.exists_anisotropic_orthogonal_basis_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:34:28.909652+00:00
 -- url     : https://prove2.me/theorems/8097c83a-b09b-485d-aba6-c1f294e9737d

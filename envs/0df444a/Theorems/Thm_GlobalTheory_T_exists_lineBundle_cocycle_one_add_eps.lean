@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lineBundle_cocycle_one_add_eps
 -- name    : GlobalTheory.T.exists_lineBundle_cocycle_one_add_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:00.288607+00:00
 -- url     : https://prove2.me/theorems/670c8ffb-63d1-43c5-b0de-d15d5044d95b

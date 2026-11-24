@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummCount_summable_rpow_of_fibre_card_le
 -- name    : GlobalTheory.SummCount.summable_rpow_of_fibre_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:33.215815+00:00
 -- url     : https://prove2.me/theorems/440b9f0f-eb49-47c5-8f42-9b27bd0a7781

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralAgentsWorldModels_lemma6_optimal_success_binomial
 -- name    : GeneralAgentsWorldModels.lemma6_optimal_success_binomial
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:37:58.818153+00:00
 -- url     : https://prove2.me/theorems/225c6567-2214-4936-b44f-fd6e324182a7

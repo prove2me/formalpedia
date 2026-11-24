@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_aOf_pos_of_gapOK
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.aOf_pos_of_gapOK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:56:47.567114+00:00
 -- url     : https://prove2.me/theorems/9e3daae2-14b2-4488-815d-9638e4cfbf63

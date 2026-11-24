@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_identity_as_sum_exp_minus_one
 -- name    : GlobalTheory.T.identity_as_sum_exp_minus_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:48.005921+00:00
 -- url     : https://prove2.me/theorems/508df0c4-7702-444b-b848-5b4e26e6954d

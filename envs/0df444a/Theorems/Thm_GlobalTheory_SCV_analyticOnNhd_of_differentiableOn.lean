@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_analyticOnNhd_of_differentiableOn
 -- name    : GlobalTheory.SCV.analyticOnNhd_of_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:43.496802+00:00
 -- url     : https://prove2.me/theorems/42a10046-3ea4-4798-8a29-363d1febd222

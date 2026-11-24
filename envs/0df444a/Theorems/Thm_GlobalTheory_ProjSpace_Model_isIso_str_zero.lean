@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_isIso_str_zero
 -- name    : GlobalTheory.ProjSpace.Model.isIso_str_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:00:22.840369+00:00
 -- url     : https://prove2.me/theorems/f2a1757c-b28a-43a1-92c5-c4b81e604140

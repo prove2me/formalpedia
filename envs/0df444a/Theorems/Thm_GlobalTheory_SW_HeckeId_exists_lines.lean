@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_exists_lines
 -- name    : GlobalTheory.SW.HeckeId.exists_lines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:40:31.215028+00:00
 -- url     : https://prove2.me/theorems/7482d4d0-e744-44ad-a626-011affa7fcab

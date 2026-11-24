@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_endomorphismMassOfCharpoly_card_cyclic_vectors
 -- name    : GlobalTheory.T.endomorphismMassOfCharpoly_card_cyclic_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:32:28.522289+00:00
 -- url     : https://prove2.me/theorems/b01b1c7c-5159-4fed-9edb-7cc554e9b76b

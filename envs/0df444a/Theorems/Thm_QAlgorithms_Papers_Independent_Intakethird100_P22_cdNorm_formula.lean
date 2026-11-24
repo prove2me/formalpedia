@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P22_cdNorm_formula
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P22.cdNorm_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:59:26.420466+00:00
 -- url     : https://prove2.me/theorems/949ea9ed-1fbf-4212-8d58-b7fba7d6800c

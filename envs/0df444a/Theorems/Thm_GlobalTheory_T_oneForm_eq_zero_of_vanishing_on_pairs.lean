@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_oneForm_eq_zero_of_vanishing_on_pairs
 -- name    : GlobalTheory.T.oneForm_eq_zero_of_vanishing_on_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:33.451283+00:00
 -- url     : https://prove2.me/theorems/57b542dd-95d8-456e-ba57-f898ea5f6541

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_schwartz_bump_near_identity
 -- name    : GlobalTheory.T.exists_schwartz_bump_near_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:37:48.733802+00:00
 -- url     : https://prove2.me/theorems/8198fc67-f1a4-4cff-a479-be14338eda56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eigen_line_bilinear
 -- name    : GlobalTheory.T.eigen_line_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:32:52.473884+00:00
 -- url     : https://prove2.me/theorems/9df1d5c6-4a9f-4f63-b0b7-2e71618d164e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_independent_basis_coprime
 -- name    : GlobalTheory.T.exists_independent_basis_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:35:44.698498+00:00
 -- url     : https://prove2.me/theorems/b6fced2f-8b35-4b65-8fd1-caaa7f84048f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_leading_minor_lower_bound_integral
 -- name    : GlobalTheory.T.gram_leading_minor_lower_bound_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:42:01.067734+00:00
 -- url     : https://prove2.me/theorems/668f85ca-d1a6-4b95-8f50-92f77970c410

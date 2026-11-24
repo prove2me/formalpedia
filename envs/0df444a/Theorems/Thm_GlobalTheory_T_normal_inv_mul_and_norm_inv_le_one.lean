@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normal_inv_mul_and_norm_inv_le_one
 -- name    : GlobalTheory.T.normal_inv_mul_and_norm_inv_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:53:38.059615+00:00
 -- url     : https://prove2.me/theorems/d1fddcf7-bf14-4ef2-a098-5892c0f38ca4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_exists_analytic_root
 -- name    : GlobalTheory.SimpleRoots.exists_analytic_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:10.075073+00:00
 -- url     : https://prove2.me/theorems/c1127ebb-afcc-47de-a1f7-e0ac2c47f4e8

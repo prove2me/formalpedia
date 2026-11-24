@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_smConn_idempotent_splits
 -- name    : GlobalTheory.SS.smConn_idempotent_splits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:38:09.637276+00:00
 -- url     : https://prove2.me/theorems/8d0913c4-a657-412f-8953-12b37a100e46

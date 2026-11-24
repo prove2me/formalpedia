@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_eq_nbOf
 -- name    : GlobalTheory.SW.Nbr.eq_nbOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:38.515247+00:00
 -- url     : https://prove2.me/theorems/b5db399b-cbff-4e90-976a-c6e669039568

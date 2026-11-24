@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasFDerivAt_weightTwoDerivativeEisensteinTerm
 -- name    : GlobalTheory.T.hasFDerivAt_weightTwoDerivativeEisensteinTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:42:57.608534+00:00
 -- url     : https://prove2.me/theorems/f1fa730c-9f13-48a9-8ad7-5859be14b75a

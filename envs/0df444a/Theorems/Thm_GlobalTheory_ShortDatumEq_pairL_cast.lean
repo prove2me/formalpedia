@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortDatumEq_pairL_cast
 -- name    : GlobalTheory.ShortDatumEq.pairL_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:18.187375+00:00
 -- url     : https://prove2.me/theorems/fdc5ef17-7552-42b9-94b5-a76151768e6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_uniformiser_split_place_cm_order_nonunit
 -- name    : GlobalTheory.T.exists_uniformiser_split_place_cm_order_nonunit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:38:04.945698+00:00
 -- url     : https://prove2.me/theorems/b3dc4d0a-1bed-4e2a-a917-3b06802c6bbf

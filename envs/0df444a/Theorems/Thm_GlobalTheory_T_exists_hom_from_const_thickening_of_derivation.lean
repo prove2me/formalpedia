@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hom_from_const_thickening_of_derivation
 -- name    : GlobalTheory.T.exists_hom_from_const_thickening_of_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:35:48.165836+00:00
 -- url     : https://prove2.me/theorems/991f5db7-d947-4e16-9502-c7ba4b16da2c

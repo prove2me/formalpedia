@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_res_scl
 -- name    : GlobalTheory.SqZero.res_scl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:42:14.617735+00:00
 -- url     : https://prove2.me/theorems/ba122162-4f5b-47c2-8f10-1480804fd364

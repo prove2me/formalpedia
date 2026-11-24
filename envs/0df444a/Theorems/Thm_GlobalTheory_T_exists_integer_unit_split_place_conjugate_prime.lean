@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integer_unit_split_place_conjugate_prime
 -- name    : GlobalTheory.T.exists_integer_unit_split_place_conjugate_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:35:20.426527+00:00
 -- url     : https://prove2.me/theorems/bfb1d8ce-1aeb-4745-b644-9561e5645bda

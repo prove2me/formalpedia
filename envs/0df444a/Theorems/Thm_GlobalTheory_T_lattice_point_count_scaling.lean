@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_point_count_scaling
 -- name    : GlobalTheory.T.lattice_point_count_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:50:57.735204+00:00
 -- url     : https://prove2.me/theorems/362cc65e-9d27-423f-bf98-cc1de1453726

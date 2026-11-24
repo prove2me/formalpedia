@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parabolic_haar_decomposition
 -- name    : GlobalTheory.T.parabolic_haar_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:17.41782+00:00
 -- url     : https://prove2.me/theorems/be55b512-ac05-426c-a2af-402659772890

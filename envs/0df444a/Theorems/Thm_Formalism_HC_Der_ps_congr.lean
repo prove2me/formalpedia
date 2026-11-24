@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_ps_congr
 -- name    : Formalism.HC.Der.ps_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:45:40.041993+00:00
 -- url     : https://prove2.me/theorems/54cad371-7d8e-4d35-975d-13e577b1bceb

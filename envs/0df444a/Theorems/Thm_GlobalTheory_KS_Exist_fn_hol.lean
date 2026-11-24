@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_fn_hol
 -- name    : GlobalTheory.KS.Exist.fn_hol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:45:43.359959+00:00
 -- url     : https://prove2.me/theorems/a1a1ddcc-9b7b-4b01-9e52-07d2853c1d40

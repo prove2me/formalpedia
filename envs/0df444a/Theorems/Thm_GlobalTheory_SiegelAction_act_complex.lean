@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelAction_act_complex
 -- name    : GlobalTheory.SiegelAction.act_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:11:32.142671+00:00
 -- url     : https://prove2.me/theorems/0cffd950-47b5-46b4-a9c6-58add59fa93f

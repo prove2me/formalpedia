@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_doubledLattice_primitive_isotropic_frame_completion
 -- name    : GlobalTheory.T.doubledLattice_primitive_isotropic_frame_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:34:01.442423+00:00
 -- url     : https://prove2.me/theorems/fdbfe2e9-702b-4fb8-8953-3c65778e6c46

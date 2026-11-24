@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_digamma_log_bound_left_region
 -- name    : GlobalTheory.T.digamma_log_bound_left_region
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:31:46.293469+00:00
 -- url     : https://prove2.me/theorems/345418e1-b68b-49b0-87e5-b644719c6a7a

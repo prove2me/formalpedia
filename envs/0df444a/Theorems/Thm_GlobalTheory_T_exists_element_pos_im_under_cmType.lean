@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_element_pos_im_under_cmType
 -- name    : GlobalTheory.T.exists_element_pos_im_under_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:34:33.71211+00:00
 -- url     : https://prove2.me/theorems/f6c33cee-20e0-4e0d-81e6-cc0dcdc11c04

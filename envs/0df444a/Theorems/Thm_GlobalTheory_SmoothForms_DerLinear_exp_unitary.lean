@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_DerLinear_exp_unitary
 -- name    : GlobalTheory.SmoothForms.DerLinear.exp_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:19.238849+00:00
 -- url     : https://prove2.me/theorems/9ae5677b-0049-4630-bcf4-52d952b3a286

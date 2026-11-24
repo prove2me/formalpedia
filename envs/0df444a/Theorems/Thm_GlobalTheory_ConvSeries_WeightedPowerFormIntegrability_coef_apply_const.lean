@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_WeightedPowerFormIntegrability_coef_apply_const
 -- name    : GlobalTheory.ConvSeries.WeightedPowerFormIntegrability.coef_apply_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:53.843514+00:00
 -- url     : https://prove2.me/theorems/4cc8f391-4e92-4d53-afda-54c6a70e9376

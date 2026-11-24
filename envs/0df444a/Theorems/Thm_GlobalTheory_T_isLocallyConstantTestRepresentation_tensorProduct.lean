@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isLocallyConstantTestRepresentation_tensorProduct
 -- name    : GlobalTheory.T.isLocallyConstantTestRepresentation_tensorProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:49:14.802293+00:00
 -- url     : https://prove2.me/theorems/b7d62649-4bcd-4bee-9bde-02c671885d46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthLogDet_relLength_span_columns
 -- name    : GlobalTheory.SignedLengthLogDet.relLength_span_columns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:35.031192+00:00
 -- url     : https://prove2.me/theorems/320c7749-a823-472d-94ee-d6e6eb1caedd

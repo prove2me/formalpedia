@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_isOpenMap_coords
 -- name    : GlobalTheory.AffinePoints.isOpenMap_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:59.605803+00:00
 -- url     : https://prove2.me/theorems/fd39fdb5-2596-46d8-8dc5-685bd70985d2

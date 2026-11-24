@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_charpoly_roots_eq_finsum_eigenspace_finrank
 -- name    : GlobalTheory.T.sum_charpoly_roots_eq_finsum_eigenspace_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:37.846324+00:00
 -- url     : https://prove2.me/theorems/2bed9884-451c-4586-8248-560e495386c2

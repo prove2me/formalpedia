@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_locally_bounded_off_coordinate_hyperplanes
 -- name    : GlobalTheory.T.locally_bounded_off_coordinate_hyperplanes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:52:57.892804+00:00
 -- url     : https://prove2.me/theorems/45060c0a-3552-4212-babe-b7c998435ac1

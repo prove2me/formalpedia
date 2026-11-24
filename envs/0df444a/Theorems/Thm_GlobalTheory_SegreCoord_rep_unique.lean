@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_rep_unique
 -- name    : GlobalTheory.SegreCoord.rep_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:53:06.594126+00:00
 -- url     : https://prove2.me/theorems/73928980-f9e9-4d1c-b2e5-949e80803248

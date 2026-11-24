@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_frobeniusWindowSeriesTerm_mono
 -- name    : GlobalTheory.T.norm_frobeniusWindowSeriesTerm_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:53:45.492422+00:00
 -- url     : https://prove2.me/theorems/74aca664-ff34-4aff-b832-f73cecf59ebb

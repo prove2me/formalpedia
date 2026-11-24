@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_virtualCharacters_iff_sub_characters
 -- name    : GlobalTheory.T.mem_virtualCharacters_iff_sub_characters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:52:30.571065+00:00
 -- url     : https://prove2.me/theorems/e16e3a80-8cd5-4aed-a2ba-e50230817580

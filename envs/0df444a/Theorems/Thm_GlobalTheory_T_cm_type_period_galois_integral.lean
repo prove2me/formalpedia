@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cm_type_period_galois_integral
 -- name    : GlobalTheory.T.cm_type_period_galois_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:28:32.823815+00:00
 -- url     : https://prove2.me/theorems/5fb6d8a3-48cb-45e9-90fc-6f944f669955

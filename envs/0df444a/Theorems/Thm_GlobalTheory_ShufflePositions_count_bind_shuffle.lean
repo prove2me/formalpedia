@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShufflePositions_count_bind_shuffle
 -- name    : GlobalTheory.ShufflePositions.count_bind_shuffle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:11:27.42184+00:00
 -- url     : https://prove2.me/theorems/8195c5b3-1d7a-490a-9171-7444ba5dcd9c

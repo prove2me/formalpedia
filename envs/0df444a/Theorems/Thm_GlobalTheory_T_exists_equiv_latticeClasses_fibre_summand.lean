@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_equiv_latticeClasses_fibre_summand
 -- name    : GlobalTheory.T.exists_equiv_latticeClasses_fibre_summand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:35:23.021457+00:00
 -- url     : https://prove2.me/theorems/f3ef27ec-3a08-455e-ba36-6103be3813b9

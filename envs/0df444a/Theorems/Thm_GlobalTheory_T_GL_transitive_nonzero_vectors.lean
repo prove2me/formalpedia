@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_GL_transitive_nonzero_vectors
 -- name    : GlobalTheory.T.GL_transitive_nonzero_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:26:40.613737+00:00
 -- url     : https://prove2.me/theorems/2c04d6a2-1867-40ad-b125-3fbaa4fd4576

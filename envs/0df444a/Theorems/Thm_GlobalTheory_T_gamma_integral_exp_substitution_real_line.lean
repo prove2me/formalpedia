@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gamma_integral_exp_substitution_real_line
 -- name    : GlobalTheory.T.gamma_integral_exp_substitution_real_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:40:09.980824+00:00
 -- url     : https://prove2.me/theorems/a3d8307e-7297-4361-a527-a89fe360f031

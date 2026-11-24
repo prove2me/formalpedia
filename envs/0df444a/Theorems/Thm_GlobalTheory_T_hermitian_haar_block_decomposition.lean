@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_haar_block_decomposition
 -- name    : GlobalTheory.T.hermitian_haar_block_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:24.918802+00:00
 -- url     : https://prove2.me/theorems/68486c25-0d1a-490b-973e-91c3e4fbdecb

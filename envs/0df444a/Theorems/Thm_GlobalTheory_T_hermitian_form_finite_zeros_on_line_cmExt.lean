@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_form_finite_zeros_on_line_cmExt
 -- name    : GlobalTheory.T.hermitian_form_finite_zeros_on_line_cmExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:32.494633+00:00
 -- url     : https://prove2.me/theorems/c5b83494-f5fd-4288-a162-552ba5995506

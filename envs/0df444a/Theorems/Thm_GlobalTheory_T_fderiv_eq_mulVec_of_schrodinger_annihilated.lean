@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fderiv_eq_mulVec_of_schrodinger_annihilated
 -- name    : GlobalTheory.T.fderiv_eq_mulVec_of_schrodinger_annihilated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:39:57.087841+00:00
 -- url     : https://prove2.me/theorems/f7b07039-f793-43d6-935d-ba774346a859

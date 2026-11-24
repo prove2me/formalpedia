@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rank_chart_shear_invariance
 -- name    : GlobalTheory.T.rank_chart_shear_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:56:27.00772+00:00
 -- url     : https://prove2.me/theorems/9bab2c76-9b65-43e4-999d-eed3c76f4f2b

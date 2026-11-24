@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cells_dense
 -- name    : Formalism.FourierDecayAlt.P.cells_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:37:54.13868+00:00
 -- url     : https://prove2.me/theorems/b466519d-095c-43ae-a757-28afdf746b29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_span_of_retract
 -- name    : GlobalTheory.SecAff.span_of_retract
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:11.584823+00:00
 -- url     : https://prove2.me/theorems/7966558e-f2ff-4896-a36f-4d36e2a0cc64

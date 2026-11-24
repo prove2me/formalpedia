@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integrable_continuousOn_averagedFibreIntegral
 -- name    : GlobalTheory.T.integrable_continuousOn_averagedFibreIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:47:31.162428+00:00
 -- url     : https://prove2.me/theorems/80ca803b-309b-4193-875a-2196d49acc0f

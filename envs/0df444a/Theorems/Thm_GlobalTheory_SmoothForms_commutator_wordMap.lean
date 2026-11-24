@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_commutator_wordMap
 -- name    : GlobalTheory.SmoothForms.commutator_wordMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:20.15061+00:00
 -- url     : https://prove2.me/theorems/43a76f17-2d65-42dd-8dd2-cb13ef31a1ad

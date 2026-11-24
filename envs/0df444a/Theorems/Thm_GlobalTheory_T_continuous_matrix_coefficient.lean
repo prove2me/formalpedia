@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_matrix_coefficient
 -- name    : GlobalTheory.T.continuous_matrix_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:20.090372+00:00
 -- url     : https://prove2.me/theorems/867db8c0-6dc9-40bf-b7e9-e07be54e94ab

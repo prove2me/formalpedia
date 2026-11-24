@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthMapLogDet_signedLength_of_common
 -- name    : GlobalTheory.SignedLengthMapLogDet.signedLength_of_common
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:38.667209+00:00
 -- url     : https://prove2.me/theorems/19b9f38d-ff40-4638-8b54-57801b39630b

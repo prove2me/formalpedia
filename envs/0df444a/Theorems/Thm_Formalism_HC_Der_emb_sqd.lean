@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_emb_sqd
 -- name    : Formalism.HC.Der.emb_sqd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:00:54.320188+00:00
 -- url     : https://prove2.me/theorems/6ac084c8-5546-493d-9ea6-1fad4db03840

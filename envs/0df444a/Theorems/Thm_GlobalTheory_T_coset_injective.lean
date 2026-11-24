@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coset_injective
 -- name    : GlobalTheory.T.coset_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:59.657752+00:00
 -- url     : https://prove2.me/theorems/01f0b1d7-c33e-43d9-a296-ed2993bade35

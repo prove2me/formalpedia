@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_analyticAt_of_differentiableOn
 -- name    : GlobalTheory.SCV.analyticAt_of_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:43.660798+00:00
 -- url     : https://prove2.me/theorems/68b835b7-3c7d-4d37-a0d6-c3b3c19af3d9

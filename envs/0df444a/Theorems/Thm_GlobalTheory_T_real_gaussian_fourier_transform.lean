@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_real_gaussian_fourier_transform
 -- name    : GlobalTheory.T.real_gaussian_fourier_transform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:56:23.964689+00:00
 -- url     : https://prove2.me/theorems/c234981b-fa19-429a-a450-077f6d963ae3

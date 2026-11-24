@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_exists_transversal
 -- name    : PositivityTheory.RgUd.Form.U.Atom.exists_transversal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:02:04.936273+00:00
 -- url     : https://prove2.me/theorems/6e2a4ce5-518b-4de7-8334-e23457f4e0d2

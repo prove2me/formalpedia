@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flagColumnUnipotent_mem_periodUnipotent_integralGL
 -- name    : GlobalTheory.T.flagColumnUnipotent_mem_periodUnipotent_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:40:46.689738+00:00
 -- url     : https://prove2.me/theorems/6fb95ea8-8329-4bd8-b441-c2e3203bf763

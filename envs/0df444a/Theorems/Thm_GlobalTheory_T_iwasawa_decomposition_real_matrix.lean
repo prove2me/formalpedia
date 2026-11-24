@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iwasawa_decomposition_real_matrix
 -- name    : GlobalTheory.T.iwasawa_decomposition_real_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:51:12.912803+00:00
 -- url     : https://prove2.me/theorems/723a2f2f-1ebe-40c7-a6f3-b6005cec6e75

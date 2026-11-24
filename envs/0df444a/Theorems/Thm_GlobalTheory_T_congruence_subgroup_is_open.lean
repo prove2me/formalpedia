@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_congruence_subgroup_is_open
 -- name    : GlobalTheory.T.congruence_subgroup_is_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:49.346445+00:00
 -- url     : https://prove2.me/theorems/dd1eb1a1-a923-4fa7-80d9-b4079f561b40

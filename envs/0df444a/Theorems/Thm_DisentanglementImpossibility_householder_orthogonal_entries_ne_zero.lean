@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisentanglementImpossibility_householder_orthogonal_entries_ne_zero
 -- name    : DisentanglementImpossibility.householder_orthogonal_entries_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:30:29.379621+00:00
 -- url     : https://prove2.me/theorems/0ba7b661-6883-4ddf-a818-cfddd20c9f56

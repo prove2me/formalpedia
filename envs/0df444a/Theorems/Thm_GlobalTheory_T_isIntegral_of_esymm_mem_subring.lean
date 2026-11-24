@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_of_esymm_mem_subring
 -- name    : GlobalTheory.T.isIntegral_of_esymm_mem_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:48:37.90081+00:00
 -- url     : https://prove2.me/theorems/5bcba13f-77d7-4b93-bbf6-e17f295f7059

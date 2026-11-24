@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_retract_base_change_kernel_compatible
 -- name    : GlobalTheory.T.retract_base_change_kernel_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:56:28.215806+00:00
 -- url     : https://prove2.me/theorems/a97b23a4-4bdd-4271-b503-4861324cb6ef

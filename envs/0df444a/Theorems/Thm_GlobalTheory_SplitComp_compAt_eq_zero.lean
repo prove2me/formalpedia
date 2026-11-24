@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitComp_compAt_eq_zero
 -- name    : GlobalTheory.SplitComp.compAt_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:17.9855+00:00
 -- url     : https://prove2.me/theorems/07df4f45-d6e2-44fc-91d1-454da7a1694c

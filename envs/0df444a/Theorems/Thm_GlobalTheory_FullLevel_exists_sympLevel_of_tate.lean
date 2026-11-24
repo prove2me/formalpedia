@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullLevel_exists_sympLevel_of_tate
 -- name    : GlobalTheory.FullLevel.exists_sympLevel_of_tate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:33:46.38017+00:00
 -- url     : https://prove2.me/theorems/30b20b42-2d72-4093-bade-37ed02586074

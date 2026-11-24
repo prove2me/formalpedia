@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilinearExt_algebraMap_tmul
 -- name    : GlobalTheory.SemilinearExt.algebraMap_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:00:57.885021+00:00
 -- url     : https://prove2.me/theorems/86615881-ae46-4a36-bf5f-d21eab0ee5ec

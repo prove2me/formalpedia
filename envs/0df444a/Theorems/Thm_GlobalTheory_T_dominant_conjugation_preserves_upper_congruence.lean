@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dominant_conjugation_preserves_upper_congruence
 -- name    : GlobalTheory.T.dominant_conjugation_preserves_upper_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:58.273723+00:00
 -- url     : https://prove2.me/theorems/d7ab1aad-00d7-41f5-8cc3-d51f3778f80e

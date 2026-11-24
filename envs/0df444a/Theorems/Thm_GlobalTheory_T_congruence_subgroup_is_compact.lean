@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_congruence_subgroup_is_compact
 -- name    : GlobalTheory.T.congruence_subgroup_is_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:25.763084+00:00
 -- url     : https://prove2.me/theorems/b06a0b41-6df8-4057-9f38-741839f259f6

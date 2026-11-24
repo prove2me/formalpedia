@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_glue_models_over_subfield
 -- name    : GlobalTheory.T.glue_models_over_subfield
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:40:52.415897+00:00
 -- url     : https://prove2.me/theorems/e500ce0a-7750-4ee6-8a0d-657bce135da2

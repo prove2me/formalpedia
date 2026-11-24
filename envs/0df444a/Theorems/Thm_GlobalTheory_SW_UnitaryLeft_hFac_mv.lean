@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UnitaryLeft_hFac_mv
 -- name    : GlobalTheory.SW.UnitaryLeft.hFac_mv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:37.300928+00:00
 -- url     : https://prove2.me/theorems/d67665ff-31ab-441e-a411-60f87b7d1088

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cartierPropertyAt_sign_mul_factorial_scaling
 -- name    : GlobalTheory.T.cartierPropertyAt_sign_mul_factorial_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:39.436463+00:00
 -- url     : https://prove2.me/theorems/82c7c6e0-135e-4e70-b36b-25731b9f56d3

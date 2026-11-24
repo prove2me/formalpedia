@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dw_contDiffOn_local_linear
 -- name    : GlobalTheory.T.dw_contDiffOn_local_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:32:51.179579+00:00
 -- url     : https://prove2.me/theorems/8db910c2-9c68-45ed-9092-6b2b05d58f5f

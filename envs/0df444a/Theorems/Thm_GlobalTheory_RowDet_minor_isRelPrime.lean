@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowDet_minor_isRelPrime
 -- name    : GlobalTheory.RowDet.minor_isRelPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:17.679133+00:00
 -- url     : https://prove2.me/theorems/370d3ca8-f075-4a09-9f16-f40cc9f49739

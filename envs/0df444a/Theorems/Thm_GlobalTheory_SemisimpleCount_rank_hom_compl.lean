@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemisimpleCount_rank_hom_compl
 -- name    : GlobalTheory.SemisimpleCount.rank_hom_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:22.266711+00:00
 -- url     : https://prove2.me/theorems/506ec8c4-05bf-4d1e-bab3-dbc515496948

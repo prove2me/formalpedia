@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mu_cocycle_coboundary_lift
 -- name    : GlobalTheory.T.mu_cocycle_coboundary_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:53:58.010475+00:00
 -- url     : https://prove2.me/theorems/65ffab91-eabc-4eaa-8ec8-69a111b67205

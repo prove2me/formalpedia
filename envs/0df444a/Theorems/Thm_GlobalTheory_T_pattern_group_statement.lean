@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pattern_group_statement
 -- name    : GlobalTheory.T.pattern_group_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:06.533197+00:00
 -- url     : https://prove2.me/theorems/e6b0d7cf-f66e-4dfd-8cb1-5d5b38aa0442

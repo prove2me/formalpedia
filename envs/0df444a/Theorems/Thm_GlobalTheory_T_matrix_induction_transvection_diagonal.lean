@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_induction_transvection_diagonal
 -- name    : GlobalTheory.T.matrix_induction_transvection_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:52:44.846031+00:00
 -- url     : https://prove2.me/theorems/c9f81c6a-c629-4477-919d-5889d768aba4

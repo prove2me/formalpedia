@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_two_places_over_of_isSquare_local
 -- name    : GlobalTheory.T.exists_two_places_over_of_isSquare_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:37:42.307822+00:00
 -- url     : https://prove2.me/theorems/99785dd2-29af-4311-8951-45183e0e6721

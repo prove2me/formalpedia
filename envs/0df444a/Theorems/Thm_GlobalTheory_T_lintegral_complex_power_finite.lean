@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_complex_power_finite
 -- name    : GlobalTheory.T.lintegral_complex_power_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:33.249873+00:00
 -- url     : https://prove2.me/theorems/fefb4217-bc49-4adc-8806-01709a57aaaa

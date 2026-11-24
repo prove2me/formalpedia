@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isLocallyConstantCompactSupport_hyperbolic_operations
 -- name    : GlobalTheory.T.isLocallyConstantCompactSupport_hyperbolic_operations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:49:13.749019+00:00
 -- url     : https://prove2.me/theorems/4da518ae-c8c5-41fc-86d6-3f1803cbe918

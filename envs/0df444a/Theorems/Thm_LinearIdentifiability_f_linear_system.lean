@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearIdentifiability_f_linear_system
 -- name    : LinearIdentifiability.f_linear_system
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:36:40.542604+00:00
 -- url     : https://prove2.me/theorems/66d017b9-7e75-4b1a-9eaa-0f47e5420bba

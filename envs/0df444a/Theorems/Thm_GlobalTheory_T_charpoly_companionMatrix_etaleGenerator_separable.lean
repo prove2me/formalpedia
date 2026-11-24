@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_charpoly_companionMatrix_etaleGenerator_separable
 -- name    : GlobalTheory.T.charpoly_companionMatrix_etaleGenerator_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:27:43.403795+00:00
 -- url     : https://prove2.me/theorems/d9a9ad15-cf51-405d-8280-1bc6fb04e89f

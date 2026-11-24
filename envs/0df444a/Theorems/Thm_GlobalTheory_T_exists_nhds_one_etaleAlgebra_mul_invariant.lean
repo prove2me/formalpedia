@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_nhds_one_etaleAlgebra_mul_invariant
 -- name    : GlobalTheory.T.exists_nhds_one_etaleAlgebra_mul_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:36:44.868801+00:00
 -- url     : https://prove2.me/theorems/d1cf7c92-2ed9-415d-a6c7-84415d443df4

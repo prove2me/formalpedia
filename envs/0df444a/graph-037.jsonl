@@ -99580,9 +99580,9 @@
 {"parent": "Formalism.FourierDecayAlt.P.RecursionWithDensities.B1.majorantPSD", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AntidiagMulDiagonal", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.RecursionWithDensities.B1.majorantPSD", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RecursionWithDensities", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.RecursionWithDensities.B1.majorantPSD", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OneLevelInequality", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.SplitSep.exists_sep", "child": "ReciprocityTheory_Automorphisms_PlaceA", "via": ["statement"]}
-{"parent": "GlobalTheory.SplitSep.exists_sep", "child": "ReciprocityTheory_Automorphisms_Unitary", "via": ["statement"]}
-{"parent": "GlobalTheory.SplitSep.exists_sep", "child": "Development_AbelianVarietyTheory_Proofs_SatakeParameters_ExistsIntegerUnitSplitPlaceConjugatePrime", "via": ["statement"]}
+{"parent": "GlobalTheory.SplitSep.exists_sep", "child": "ReciprocityTheory_Automorphisms_PlaceA", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SplitSep.exists_sep", "child": "ReciprocityTheory_Automorphisms_Unitary", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SplitSep.exists_sep", "child": "Development_AbelianVarietyTheory_Proofs_SatakeParameters_ExistsIntegerUnitSplitPlaceConjugatePrime", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.F.IsogenySigmaQuotient.ind_of_notMem", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_IsogenySigma", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.F.IsogenySigmaQuotient.ind_of_notMem", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_TranslateProduct", "via": ["solution", "statement"]}
 {"parent": "Formalism.ELL.FormalGroupPointsHom.hasSubst2", "child": "Formalism_EllipticTorsion_EllipticTorsionProofs_WPoint", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_symm_antilinear_comm_CM_le
 -- name    : GlobalTheory.T.finrank_symm_antilinear_comm_CM_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:39:38.767091+00:00
 -- url     : https://prove2.me/theorems/5d20b699-eb6f-4625-98f9-195acde3cbaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_norm_coef_le_integral
 -- name    : GlobalTheory.ConvSeries.norm_coef_le_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:41:57.5768+00:00
 -- url     : https://prove2.me/theorems/07076083-13e3-4cb7-853e-986c6926016b

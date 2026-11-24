@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_rep_count_fourier_expansion
 -- name    : GlobalTheory.T.hermitian_rep_count_fourier_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:45:50.038667+00:00
 -- url     : https://prove2.me/theorems/843567e1-c654-423e-a661-3864f6ebc2dd

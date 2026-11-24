@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_levi_centre_diagonal_conjugation_eq
 -- name    : GlobalTheory.T.unitary_levi_centre_diagonal_conjugation_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:04:47.498952+00:00
 -- url     : https://prove2.me/theorems/3a31536c-cf4a-4c61-bba8-d9af7ad514b8

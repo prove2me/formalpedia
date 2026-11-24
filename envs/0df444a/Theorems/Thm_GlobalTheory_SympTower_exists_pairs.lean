@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympTower_exists_pairs
 -- name    : GlobalTheory.SympTower.exists_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:25:00.101504+00:00
 -- url     : https://prove2.me/theorems/ecc4366d-26d8-41f7-9ee6-ab0056981a3f

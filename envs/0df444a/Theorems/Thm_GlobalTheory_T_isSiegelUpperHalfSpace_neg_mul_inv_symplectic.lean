@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSiegelUpperHalfSpace_neg_mul_inv_symplectic
 -- name    : GlobalTheory.T.isSiegelUpperHalfSpace_neg_mul_inv_symplectic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:49:56.722434+00:00
 -- url     : https://prove2.me/theorems/68e6de84-6a42-46ea-adc0-302b9158f61c

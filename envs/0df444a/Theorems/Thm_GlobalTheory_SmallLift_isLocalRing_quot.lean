@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallLift_isLocalRing_quot
 -- name    : GlobalTheory.SmallLift.isLocalRing_quot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:24.908915+00:00
 -- url     : https://prove2.me/theorems/a7749354-45e5-4385-9eaf-b1c28fe540f6

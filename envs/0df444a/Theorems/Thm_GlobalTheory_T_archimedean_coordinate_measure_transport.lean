@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_archimedean_coordinate_measure_transport
 -- name    : GlobalTheory.T.archimedean_coordinate_measure_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:26:48.1289+00:00
 -- url     : https://prove2.me/theorems/8672a8f5-3e71-40ee-be7f-8128b77d0717

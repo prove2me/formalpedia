@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_right_derivative_rule_psi
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.right_derivative_rule_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:35:31.34504+00:00
 -- url     : https://prove2.me/theorems/4b7940b7-7937-46c6-9eec-afd2bc88a324

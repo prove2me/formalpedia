@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitUnitary_form_add_right
 -- name    : GlobalTheory.SplitUnitary.form_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:59:14.97652+00:00
 -- url     : https://prove2.me/theorems/cb6950f8-0760-4d56-ba8d-e12ca773aa8a

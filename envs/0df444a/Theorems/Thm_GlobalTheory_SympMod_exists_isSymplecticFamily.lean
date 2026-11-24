@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympMod_exists_isSymplecticFamily
 -- name    : GlobalTheory.SympMod.exists_isSymplecticFamily
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:25:20.786273+00:00
 -- url     : https://prove2.me/theorems/aa08edab-4070-4917-9054-cac8a822c51b

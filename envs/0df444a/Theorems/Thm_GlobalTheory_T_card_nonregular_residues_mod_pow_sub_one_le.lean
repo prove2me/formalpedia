@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_nonregular_residues_mod_pow_sub_one_le
 -- name    : GlobalTheory.T.card_nonregular_residues_mod_pow_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:27:42.684008+00:00
 -- url     : https://prove2.me/theorems/1efad5bd-f372-45cc-9824-25756d624622

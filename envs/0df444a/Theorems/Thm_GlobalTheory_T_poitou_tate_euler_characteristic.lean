@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_poitou_tate_euler_characteristic
 -- name    : GlobalTheory.T.poitou_tate_euler_characteristic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:53.291881+00:00
 -- url     : https://prove2.me/theorems/e23a3135-5a63-473d-9a2a-54ac10e92235

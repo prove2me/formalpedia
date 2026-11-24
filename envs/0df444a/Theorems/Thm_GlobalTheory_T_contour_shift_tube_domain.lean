@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contour_shift_tube_domain
 -- name    : GlobalTheory.T.contour_shift_tube_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:03.540819+00:00
 -- url     : https://prove2.me/theorems/7d8acc84-4650-4b22-901e-7cd79d2d4d94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullLevel_Uniq_ev_nsmul
 -- name    : GlobalTheory.FullLevel.Uniq.ev_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:33:48.694642+00:00
 -- url     : https://prove2.me/theorems/6554c818-36db-4f38-94d2-a0a98071d06d

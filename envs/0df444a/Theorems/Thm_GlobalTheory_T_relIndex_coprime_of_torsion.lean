@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_coprime_of_torsion
 -- name    : GlobalTheory.T.relIndex_coprime_of_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:56:25.538139+00:00
 -- url     : https://prove2.me/theorems/11e4b944-6fb8-43e5-800b-6778b807cc5d

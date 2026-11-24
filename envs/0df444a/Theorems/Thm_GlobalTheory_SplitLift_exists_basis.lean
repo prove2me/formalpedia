@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLift_exists_basis
 -- name    : GlobalTheory.SplitLift.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:21:36.20661+00:00
 -- url     : https://prove2.me/theorems/5a0741da-83af-45de-a1ee-50a605ce9afc

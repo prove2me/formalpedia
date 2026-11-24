@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_maximal_abelian_hermitian
 -- name    : GlobalTheory.T.exists_maximal_abelian_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:59.923813+00:00
 -- url     : https://prove2.me/theorems/d723d663-b1a2-4a3d-bf8e-01e4fec48e39

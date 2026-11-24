@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lieBasis_iff_tangentBasis_pullback_universal
 -- name    : GlobalTheory.T.lieBasis_iff_tangentBasis_pullback_universal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:13.751815+00:00
 -- url     : https://prove2.me/theorems/31608243-73d6-4915-86a6-724e61a63e74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_hasDepth_indicator
 -- name    : GlobalTheory.SplitFlip.hasDepth_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:41.741704+00:00
 -- url     : https://prove2.me/theorems/629eb8f0-189a-4bf9-9f48-f49186c24d22

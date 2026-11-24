@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_disintegration_averagedFibreMeasures
 -- name    : GlobalTheory.T.haar_disintegration_averagedFibreMeasures
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:41:30.781907+00:00
 -- url     : https://prove2.me/theorems/a1578913-d104-4824-8ee6-14a04de1a444

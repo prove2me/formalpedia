@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_compact_open_subgroup_mem
 -- name    : GlobalTheory.T.exists_compact_open_subgroup_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:33:51.022228+00:00
 -- url     : https://prove2.me/theorems/923ef958-9ced-484d-9c7e-cf0cec759a54

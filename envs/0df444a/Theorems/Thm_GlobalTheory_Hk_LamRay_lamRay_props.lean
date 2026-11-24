@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LamRay_lamRay_props
 -- name    : GlobalTheory.Hk.LamRay.lamRay_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:21:49.692804+00:00
 -- url     : https://prove2.me/theorems/6bee6a05-d91a-4fca-9dea-cf8320c36594

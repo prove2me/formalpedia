@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_affine_hyperplane
 -- name    : GlobalTheory.T.card_affine_hyperplane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:26:47.900107+00:00
 -- url     : https://prove2.me/theorems/40ace520-b050-4864-af04-955a99394702

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_IsPath_eq_of_vertexDiff_eq
 -- name    : GlobalTheory.SplitFlip.IsPath.eq_of_vertexDiff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:20:17.173812+00:00
 -- url     : https://prove2.me/theorems/76bb0cfb-db8b-4bcd-a24f-55c254cdae5c

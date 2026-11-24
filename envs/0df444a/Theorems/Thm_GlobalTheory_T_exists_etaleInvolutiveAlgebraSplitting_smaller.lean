@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_etaleInvolutiveAlgebraSplitting_smaller
 -- name    : GlobalTheory.T.exists_etaleInvolutiveAlgebraSplitting_smaller
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:35:16.431614+00:00
 -- url     : https://prove2.me/theorems/dfd890c3-4b3a-4c53-bfe7-c15e7a324939

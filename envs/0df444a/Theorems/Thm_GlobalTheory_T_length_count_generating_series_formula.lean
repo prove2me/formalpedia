@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_length_count_generating_series_formula
 -- name    : GlobalTheory.T.length_count_generating_series_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:53:04.204944+00:00
 -- url     : https://prove2.me/theorems/171ba0eb-9bf4-48e0-a396-bd59562c98eb

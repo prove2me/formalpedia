@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteGroupFunctionPairing_eq_zero_of_distinct_irreducible
 -- name    : GlobalTheory.T.finiteGroupFunctionPairing_eq_zero_of_distinct_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:39:04.215799+00:00
 -- url     : https://prove2.me/theorems/8df5c6cf-837b-4982-9e4e-198ad7f79aba

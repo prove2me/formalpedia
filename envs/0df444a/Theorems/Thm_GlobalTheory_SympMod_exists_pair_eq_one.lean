@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympMod_exists_pair_eq_one
 -- name    : GlobalTheory.SympMod.exists_pair_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:25:07.360862+00:00
 -- url     : https://prove2.me/theorems/d115106b-fc12-400d-ac39-67252485cafd

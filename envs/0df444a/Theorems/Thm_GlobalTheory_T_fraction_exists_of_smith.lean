@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fraction_exists_of_smith
 -- name    : GlobalTheory.T.fraction_exists_of_smith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:44:08.944556+00:00
 -- url     : https://prove2.me/theorems/e9e57491-a586-4def-85ce-d9c36b926f7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegralExchange_wt_integral
 -- name    : GlobalTheory.SchwartzIntegralExchange.wt_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:47:45.744186+00:00
 -- url     : https://prove2.me/theorems/baa8a8d0-2615-411a-a8f3-bc810c7c286b

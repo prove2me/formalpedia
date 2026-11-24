@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isLocalizedModule_resLinear
 -- name    : GlobalTheory.QCoh.isLocalizedModule_resLinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:58:12.028814+00:00
 -- url     : https://prove2.me/theorems/5a50c7f1-dcca-41e9-8a94-e0e52de15572

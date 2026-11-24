@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeatTerm_isHeat_of_det
 -- name    : GlobalTheory.SW.HeatTerm.isHeat_of_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:40:11.357254+00:00
 -- url     : https://prove2.me/theorems/b3fe4f9f-acb0-41d6-8f80-117e1c79503e

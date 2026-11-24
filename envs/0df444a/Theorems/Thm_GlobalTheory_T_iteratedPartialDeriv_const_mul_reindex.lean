@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iteratedPartialDeriv_const_mul_reindex
 -- name    : GlobalTheory.T.iteratedPartialDeriv_const_mul_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:51:42.080395+00:00
 -- url     : https://prove2.me/theorems/ccf64386-70aa-4a1e-8af6-e324eea98fc8

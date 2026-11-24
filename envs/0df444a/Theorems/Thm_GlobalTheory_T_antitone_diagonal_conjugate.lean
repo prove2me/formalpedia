@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_antitone_diagonal_conjugate
 -- name    : GlobalTheory.T.antitone_diagonal_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:26:38.871901+00:00
 -- url     : https://prove2.me/theorems/eab67a38-4078-40d7-9109-634f775ae4f9

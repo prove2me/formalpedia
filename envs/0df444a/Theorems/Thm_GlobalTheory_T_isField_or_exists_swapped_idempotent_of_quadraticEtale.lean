@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isField_or_exists_swapped_idempotent_of_quadraticEtale
 -- name    : GlobalTheory.T.isField_or_exists_swapped_idempotent_of_quadraticEtale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:48:06.720027+00:00
 -- url     : https://prove2.me/theorems/4ee1c5dc-0b9e-4934-a8c4-d92dcc1d87e9

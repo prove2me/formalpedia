@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cosine_square_pushforward_uniform
 -- name    : GlobalTheory.T.cosine_square_pushforward_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:33.516258+00:00
 -- url     : https://prove2.me/theorems/72b5d36e-4fb8-4d27-8408-7357aa249f07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_InductionFiniteLength_lower
 -- name    : GlobalTheory.SmGL.InductionFiniteLength.lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:45.038771+00:00
 -- url     : https://prove2.me/theorems/50fdec81-8f3d-447e-b58d-14c91d241caa

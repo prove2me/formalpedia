@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDescent_exists_fg_subset_range_incl
 -- name    : GlobalTheory.SmoothDescent.exists_fg_subset_range_incl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:30.258096+00:00
 -- url     : https://prove2.me/theorems/ecc0d314-61de-4d5d-9b77-c518953565cb

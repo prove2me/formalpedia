@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additiveSystem_surjectivity_and_count_order_zero
 -- name    : GlobalTheory.T.additiveSystem_surjectivity_and_count_order_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:26:15.532825+00:00
 -- url     : https://prove2.me/theorems/a89fae8e-9d89-41d5-b430-3ed43a448d4e

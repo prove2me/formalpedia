@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SameZeroScheme_exists_unit_mul
 -- name    : GlobalTheory.SameZeroScheme.exists_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:45:50.541395+00:00
 -- url     : https://prove2.me/theorems/fd8ec8b5-7be6-4d9c-8672-06ff12e6794d
