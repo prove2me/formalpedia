@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_RecPeriods_cubN_mul_exp
 -- name    : GlobalTheory.Ex.RecPeriods.cubN_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:09:22.242808+00:00
 -- url     : https://prove2.me/theorems/440ac94d-b3fe-4274-9d1b-062fb668b2ed

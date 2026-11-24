@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CovolumeOneSelfDual_inversion_zero
 -- name    : GlobalTheory.CovolumeOneSelfDual.inversion_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:44:27.327209+00:00
 -- url     : https://prove2.me/theorems/b2adb9f4-18f8-49c2-8c53-cce7642ef314

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenPair_exists_sep
 -- name    : GlobalTheory.EigenPair.exists_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:56:44.445+00:00
 -- url     : https://prove2.me/theorems/f722a28e-2281-4efb-9e3a-d36cb2ed2034

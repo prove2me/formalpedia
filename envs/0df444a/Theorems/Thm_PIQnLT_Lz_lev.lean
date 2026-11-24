@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_Lz_lev
 -- name    : PIQnLT.Lz_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:08:00.406563+00:00
 -- url     : https://prove2.me/theorems/af588985-3bd5-4028-a071-3fcdf82ff9ec

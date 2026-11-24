@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_finrank_mul_le_finrank_DdR_of_spans
 -- name    : GlobalTheory.DRFil.finrank_mul_le_finrank_DdR_of_spans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:35:49.322221+00:00
 -- url     : https://prove2.me/theorems/48c97e2c-3c11-449a-a27d-00f7176b957c

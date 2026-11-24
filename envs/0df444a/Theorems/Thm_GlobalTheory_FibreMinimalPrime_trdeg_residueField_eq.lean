@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreMinimalPrime_trdeg_residueField_eq
 -- name    : GlobalTheory.FibreMinimalPrime.trdeg_residueField_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:30.706796+00:00
 -- url     : https://prove2.me/theorems/19880f2e-5829-4372-96c7-c0507c78f301

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_ArcForm_hasSum_regroup
 -- name    : GlobalTheory.Ex.ArcForm.hasSum_regroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:06:09.138881+00:00
 -- url     : https://prove2.me/theorems/1aa1cbd9-18ea-4036-9b3e-8ef0da678a60

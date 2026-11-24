@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescentPairing_cubN_mul
 -- name    : GlobalTheory.DescentPairing.cubN_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:43:43.824963+00:00
 -- url     : https://prove2.me/theorems/093e6e46-cf8f-4f5d-a586-02463993ceb8

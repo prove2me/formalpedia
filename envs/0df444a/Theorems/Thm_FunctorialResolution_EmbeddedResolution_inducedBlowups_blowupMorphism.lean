@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_inducedBlowups_blowupMorphism
 -- name    : FunctorialResolution.EmbeddedResolution.inducedBlowups_blowupMorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:33:42.702347+00:00
 -- url     : https://prove2.me/theorems/a984c660-3eb1-4b92-96ef-aacd758bf587

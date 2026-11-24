@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreHyp_isEmbedding_comap_rhoK
 -- name    : GlobalTheory.FibreHyp.isEmbedding_comap_rhoK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:40.410589+00:00
 -- url     : https://prove2.me/theorems/f44b3608-59cb-44e4-a411-53c86a1fc95e

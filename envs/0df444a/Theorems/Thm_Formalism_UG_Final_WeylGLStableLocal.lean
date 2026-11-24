@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_WeylGLStableLocal
 -- name    : Formalism.UG.Final.WeylGLStableLocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:15:47.236258+00:00
 -- url     : https://prove2.me/theorems/81007648-9ab5-45b5-9a01-336d2a130f90

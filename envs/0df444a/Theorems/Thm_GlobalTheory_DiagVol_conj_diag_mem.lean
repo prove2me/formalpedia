@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_conj_diag_mem
 -- name    : GlobalTheory.DiagVol.conj_diag_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:20.098216+00:00
 -- url     : https://prove2.me/theorems/69da6d23-db61-4cff-aaa6-241d46bfc33e

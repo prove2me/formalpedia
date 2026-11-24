@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_HasCoord_exists_selfDual
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.HasCoord.exists_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:34:45.64085+00:00
 -- url     : https://prove2.me/theorems/9880e66e-1969-48bb-9ade-75ebfa32cdfa

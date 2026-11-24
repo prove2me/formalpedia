@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharDensity_density_of_integrable_charFun
 -- name    : GlobalTheory.CompanionTheory.SW.CharDensity.density_of_integrable_charFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:02:57.44358+00:00
 -- url     : https://prove2.me/theorems/0d17f4f0-a02f-4a8a-86d3-190ab0bc6097

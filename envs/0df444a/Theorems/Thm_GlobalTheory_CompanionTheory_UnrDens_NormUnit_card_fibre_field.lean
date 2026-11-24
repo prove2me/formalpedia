@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormUnit_card_fibre_field
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormUnit.card_fibre_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:20:20.131188+00:00
 -- url     : https://prove2.me/theorems/7ca506b3-4801-4aba-8719-5c00242e8b10

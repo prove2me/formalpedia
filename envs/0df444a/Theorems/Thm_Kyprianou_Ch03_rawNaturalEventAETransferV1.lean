@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_rawNaturalEventAETransferV1
 -- name    : Kyprianou.Ch03.rawNaturalEventAETransferV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:20:06.975113+00:00
 -- url     : https://prove2.me/theorems/aad11b6e-4bd5-4b8e-b7d2-74491b3ba817

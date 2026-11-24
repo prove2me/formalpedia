@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_eval_bind_hermSubst
 -- name    : GlobalTheory.FibLine.eval_bind_hermSubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:15.871001+00:00
 -- url     : https://prove2.me/theorems/64c88425-d32c-4c5c-a154-461b87189d63

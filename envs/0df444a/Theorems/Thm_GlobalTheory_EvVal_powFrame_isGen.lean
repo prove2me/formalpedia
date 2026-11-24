@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvVal_powFrame_isGen
 -- name    : GlobalTheory.EvVal.powFrame_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:59:39.162539+00:00
 -- url     : https://prove2.me/theorems/dce1151a-60b1-4372-b22a-a9d4b43526c2

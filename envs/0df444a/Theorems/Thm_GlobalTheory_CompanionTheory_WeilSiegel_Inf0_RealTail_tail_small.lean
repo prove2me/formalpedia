@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_Inf0_RealTail_tail_small
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.Inf0.RealTail.tail_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:23:30.182463+00:00
 -- url     : https://prove2.me/theorems/a4ac232e-072f-4cc6-a7ba-318e95664705

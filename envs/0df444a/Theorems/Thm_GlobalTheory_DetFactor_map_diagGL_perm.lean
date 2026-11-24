@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetFactor_map_diagGL_perm
 -- name    : GlobalTheory.DetFactor.map_diagGL_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:13.665056+00:00
 -- url     : https://prove2.me/theorems/3c2865e3-abf3-4c1c-be6e-097649c1fc3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadricUnit_card_quadric_unit
 -- name    : GlobalTheory.CompanionTheory.SW.QuadricUnit.card_quadric_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:07:50.20151+00:00
 -- url     : https://prove2.me/theorems/f8cd3a07-877b-4fd2-90c7-7b19c4045ced

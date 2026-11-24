@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentSmallJumpBandFiniteV1
 -- name    : Kyprianou.Ch03.momentSmallJumpBandFiniteV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:20:23.111572+00:00
 -- url     : https://prove2.me/theorems/efb5af11-acf8-4ae6-9ffc-8a86a17af34d

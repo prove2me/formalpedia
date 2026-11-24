@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjIdeal_trans_symm_congr_one
 -- name    : GlobalTheory.ConjIdeal.trans_symm_congr_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:25:15.273436+00:00
 -- url     : https://prove2.me/theorems/8ff338e0-51ea-43dc-bf92-f71222f585ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharCutoff_sum_char
 -- name    : GlobalTheory.CharCutoff.sum_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:07:56.582114+00:00
 -- url     : https://prove2.me/theorems/143050a8-5e06-4f28-bdc1-499f35296cb1

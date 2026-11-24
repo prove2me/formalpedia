@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_txT_mul_tor
 -- name    : GlobalTheory.Ex.NumD.txT_mul_tor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:06:58.023807+00:00
 -- url     : https://prove2.me/theorems/db02dd74-a87c-488d-ae45-c293ee0f5556

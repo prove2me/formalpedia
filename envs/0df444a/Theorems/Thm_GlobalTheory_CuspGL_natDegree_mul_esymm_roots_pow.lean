@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_natDegree_mul_esymm_roots_pow
 -- name    : GlobalTheory.CuspGL.natDegree_mul_esymm_roots_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:32:25.014547+00:00
 -- url     : https://prove2.me/theorems/ccc19c4b-481e-401f-94af-f04c79301668

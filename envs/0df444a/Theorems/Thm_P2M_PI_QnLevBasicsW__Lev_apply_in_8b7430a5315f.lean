@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_QnLevBasicsW__Lev_apply_in_8b7430a5315f
 -- name    : P2M_PI_QnLevBasicsW__Lev_apply_in_8b7430a5315f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:29:56.932564+00:00
 -- url     : https://prove2.me/theorems/b5925b80-c47c-4ee9-878b-aa2ee412c9b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_cc_mul_cc
 -- name    : Formalism.HC.Frame.cc_mul_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:46:36.20512+00:00
 -- url     : https://prove2.me/theorems/a70f2267-b742-431c-9789-7723d429de32

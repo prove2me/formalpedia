@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffLin_top_le_preimage_of_dualLift
 -- name    : GlobalTheory.DiffLin.top_le_preimage_of_dualLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:30.761225+00:00
 -- url     : https://prove2.me/theorems/5dc9be41-5117-4b5f-96ab-8d32a878d40d

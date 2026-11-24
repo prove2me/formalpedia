@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeOneUniformiser_exists_irreducible_eq
 -- name    : GlobalTheory.DegreeOneUniformiser.exists_irreducible_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:43:06.051089+00:00
 -- url     : https://prove2.me/theorems/f2c3aaf2-cca6-42ad-afe6-e83a66d6fe1a

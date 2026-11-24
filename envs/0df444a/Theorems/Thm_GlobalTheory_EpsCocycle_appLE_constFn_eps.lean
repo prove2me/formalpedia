@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsCocycle_appLE_constFn_eps
 -- name    : GlobalTheory.EpsCocycle.appLE_constFn_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:57:54.840322+00:00
 -- url     : https://prove2.me/theorems/6782a27b-4b10-470f-95bf-2ca2341a2289

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetInv_datum_scalar_intertwine
 -- name    : GlobalTheory.DetInv.datum_scalar_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:50:43.799214+00:00
 -- url     : https://prove2.me/theorems/ebe35cba-080b-462b-a166-94b8fa13c6c3

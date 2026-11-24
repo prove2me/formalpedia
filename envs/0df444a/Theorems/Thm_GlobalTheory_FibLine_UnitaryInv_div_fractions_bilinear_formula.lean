@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_UnitaryInv_div_fractions_bilinear_formula
 -- name    : GlobalTheory.FibLine.UnitaryInv.div_fractions_bilinear_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:23:28.918814+00:00
 -- url     : https://prove2.me/theorems/52bc5b68-9f17-4903-9fa1-8467a2b48441

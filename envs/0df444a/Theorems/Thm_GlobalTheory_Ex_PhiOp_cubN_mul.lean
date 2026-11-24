@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_PhiOp_cubN_mul
 -- name    : GlobalTheory.Ex.PhiOp.cubN_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:06:12.67296+00:00
 -- url     : https://prove2.me/theorems/75b249c0-e59b-49b5-9d55-5a67dad1b4a6

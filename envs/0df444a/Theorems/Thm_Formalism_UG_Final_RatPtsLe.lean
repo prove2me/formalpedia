@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_RatPtsLe
 -- name    : Formalism.UG.Final.RatPtsLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:14:02.303567+00:00
 -- url     : https://prove2.me/theorems/44e7591d-d85d-4e10-b977-4767c819b510

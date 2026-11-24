@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EmbC_exists_emb
 -- name    : GlobalTheory.EmbC.exists_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:14.49981+00:00
 -- url     : https://prove2.me/theorems/ab06af3e-572d-456c-915f-2c8af5467c87

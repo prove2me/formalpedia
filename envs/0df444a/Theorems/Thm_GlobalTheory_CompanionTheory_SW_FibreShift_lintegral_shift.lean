@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreShift_lintegral_shift
 -- name    : GlobalTheory.CompanionTheory.SW.FibreShift.lintegral_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:04:07.573312+00:00
 -- url     : https://prove2.me/theorems/2f3d94e8-0679-4d86-aef4-aad550c254c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_PrimOrth_psi_bot
 -- name    : GlobalTheory.CuspGL.PrimOrth.psi_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:31:33.280912+00:00
 -- url     : https://prove2.me/theorems/dc573032-b95c-424d-a338-0980056a03b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_UnitaryInv_integral_moebius
 -- name    : GlobalTheory.FibLine.UnitaryInv.integral_moebius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:23:23.422796+00:00
 -- url     : https://prove2.me/theorems/3637cc0f-06a3-42e5-a63b-58dc5646c819

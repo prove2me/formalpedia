@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigLineSum_eigK_isInternal
 -- name    : GlobalTheory.EigLineSum.eigK_isInternal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:09.766312+00:00
 -- url     : https://prove2.me/theorems/2c68e255-a6b4-464e-abf4-ff19d748e979

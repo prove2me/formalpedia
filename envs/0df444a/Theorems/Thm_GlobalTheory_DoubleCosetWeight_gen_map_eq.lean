@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubleCosetWeight_gen_map_eq
 -- name    : GlobalTheory.DoubleCosetWeight.gen_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:50:29.072713+00:00
 -- url     : https://prove2.me/theorems/cf31781a-e2f2-4298-a1b5-95ec0d01060f

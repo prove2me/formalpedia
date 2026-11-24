@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TrigPolyLinComb
 -- name    : TrigPolyLinComb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:41:19.971826+00:00
 -- url     : https://prove2.me/theorems/0dce6f84-ed83-4712-880c-e90aeef0ca52

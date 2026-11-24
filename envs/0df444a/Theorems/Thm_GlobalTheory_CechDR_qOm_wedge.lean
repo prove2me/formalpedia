@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_qOm_wedge
 -- name    : GlobalTheory.CechDR.qOm_wedge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:37:50.970634+00:00
 -- url     : https://prove2.me/theorems/8397967d-b528-4aa3-8bdb-c6077e8829f1

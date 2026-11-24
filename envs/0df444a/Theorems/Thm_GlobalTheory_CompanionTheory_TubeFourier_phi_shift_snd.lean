@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_phi_shift_snd
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.phi_shift_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:18:13.921593+00:00
 -- url     : https://prove2.me/theorems/54ffcf28-4ed3-4d3c-8536-1902980c2deb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeOne_surjective_of_unique_injective_localHom
 -- name    : GlobalTheory.DegreeOne.surjective_of_unique_injective_localHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:44:48.272222+00:00
 -- url     : https://prove2.me/theorems/8d58ccdd-6682-4e46-ac09-934cd3c81ff8

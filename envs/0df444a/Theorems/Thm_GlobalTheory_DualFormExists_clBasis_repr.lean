@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFormExists_clBasis_repr
 -- name    : GlobalTheory.DualFormExists.clBasis_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:51:51.949184+00:00
 -- url     : https://prove2.me/theorems/29d270d2-7f4e-42a4-a767-7ed3a0e694db

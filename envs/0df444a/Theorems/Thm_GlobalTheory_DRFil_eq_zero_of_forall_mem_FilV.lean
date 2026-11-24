@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_eq_zero_of_forall_mem_FilV
 -- name    : GlobalTheory.DRFil.eq_zero_of_forall_mem_FilV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:00:16.705088+00:00
 -- url     : https://prove2.me/theorems/27d3940b-352a-402f-a122-77842c928730

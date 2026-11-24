@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Descent_projective
 -- name    : GlobalTheory.Descent.projective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:58:09.814664+00:00
 -- url     : https://prove2.me/theorems/9741cc17-23a1-4359-a16b-610b7082787a

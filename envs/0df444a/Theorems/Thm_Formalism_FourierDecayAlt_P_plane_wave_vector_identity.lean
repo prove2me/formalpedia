@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_plane_wave_vector_identity
 -- name    : Formalism.FourierDecayAlt.P.plane_wave_vector_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:47:45.875671+00:00
 -- url     : https://prove2.me/theorems/2bbf45f8-bf91-42e8-8074-00499eb11a8e

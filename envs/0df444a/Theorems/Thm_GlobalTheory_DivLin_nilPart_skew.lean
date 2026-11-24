@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivLin_nilPart_skew
 -- name    : GlobalTheory.DivLin.nilPart_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:50:23.286941+00:00
 -- url     : https://prove2.me/theorems/365fa54c-ff0f-40e6-ab69-637893593fc6

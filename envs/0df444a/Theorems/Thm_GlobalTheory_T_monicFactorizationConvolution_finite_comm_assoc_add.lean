@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_monicFactorizationConvolution_finite_comm_assoc_add
 -- name    : GlobalTheory.T.monicFactorizationConvolution_finite_comm_assoc_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:14:58.855533+00:00
 -- url     : https://prove2.me/theorems/63d792d0-740c-425d-9521-2647c8e46f9a

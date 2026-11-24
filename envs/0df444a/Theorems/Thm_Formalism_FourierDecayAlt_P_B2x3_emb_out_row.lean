@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_emb_out_row
 -- name    : Formalism.FourierDecayAlt.P.B2x3.emb_out_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:40:45.7196+00:00
 -- url     : https://prove2.me/theorems/f2316fb7-7c55-453c-92b6-99b759f9b339

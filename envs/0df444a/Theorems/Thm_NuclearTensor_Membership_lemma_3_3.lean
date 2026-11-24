@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NuclearTensor_Membership_lemma_3_3
 -- name    : NuclearTensor.Membership.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T22:18:25.131217+00:00
 -- url     : https://prove2.me/theorems/2330e177-d40f-4807-93e2-3bd32c84ffe9

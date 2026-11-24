@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_inv_eq
 -- name    : Formalism.FourierDecayAlt.P.B2x2.inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:41:37.620825+00:00
 -- url     : https://prove2.me/theorems/9556d32d-419c-4f34-bb47-4b0b5855aa61

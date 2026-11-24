@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsCocycle_regauge_isLB
 -- name    : GlobalTheory.EpsCocycle.regauge_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:58:19.585486+00:00
 -- url     : https://prove2.me/theorems/f9b4d1f3-f798-44ee-9f8b-5e3c8ae92926

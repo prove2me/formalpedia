@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Form_div_add_nsmul
 -- name    : GlobalTheory.Ex.NumD.Form.div_add_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:06:12.942364+00:00
 -- url     : https://prove2.me/theorems/e4547e6b-b672-4057-9f67-170d1fe4e1e2

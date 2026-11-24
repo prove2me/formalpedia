@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_Scaled_gauss_image_level
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.Scaled.gauss_image_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:14:25.681056+00:00
 -- url     : https://prove2.me/theorems/5197db5e-f5cf-476f-bdfc-ee6502dbcc35

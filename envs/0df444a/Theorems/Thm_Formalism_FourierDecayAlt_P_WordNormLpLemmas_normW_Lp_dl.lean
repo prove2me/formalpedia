@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordNormLpLemmas_normW_Lp_dl
 -- name    : Formalism.FourierDecayAlt.P.WordNormLpLemmas.normW_Lp_dl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:37:11.149989+00:00
 -- url     : https://prove2.me/theorems/30c22cb3-cb9d-4709-88fd-e349fb3ee37e

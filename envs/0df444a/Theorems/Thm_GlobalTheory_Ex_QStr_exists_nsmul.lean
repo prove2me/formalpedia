@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_QStr_exists_nsmul
 -- name    : GlobalTheory.Ex.QStr.exists_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:06:44.876933+00:00
 -- url     : https://prove2.me/theorems/98b294dc-f846-4229-a3af-5779967604ed

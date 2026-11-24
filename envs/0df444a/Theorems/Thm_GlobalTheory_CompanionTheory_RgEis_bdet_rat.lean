@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_bdet_rat
 -- name    : GlobalTheory.CompanionTheory.RgEis.bdet_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:57:44.755822+00:00
 -- url     : https://prove2.me/theorems/8cff90d7-d809-4bea-97f0-71630e50532a

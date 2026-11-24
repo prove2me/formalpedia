@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EmbUnitBallConj_ext_tmul
 -- name    : GlobalTheory.EmbUnitBallConj.ext_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:11.865728+00:00
 -- url     : https://prove2.me/theorems/1de56542-a7b1-4a9c-9d5c-212b5bb3502e

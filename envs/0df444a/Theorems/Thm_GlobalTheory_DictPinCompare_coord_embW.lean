@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_coord_embW
 -- name    : GlobalTheory.DictPinCompare.coord_embW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:36:26.845802+00:00
 -- url     : https://prove2.me/theorems/214a7fa2-4d07-4c3c-8fe6-8392e5f25607

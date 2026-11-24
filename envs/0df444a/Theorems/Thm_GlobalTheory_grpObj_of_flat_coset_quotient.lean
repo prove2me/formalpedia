@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_grpObj_of_flat_coset_quotient
 -- name    : GlobalTheory.grpObj_of_flat_coset_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:44.547833+00:00
 -- url     : https://prove2.me/theorems/6ed7811e-5dc4-46d4-aa8f-96cd0ac53fb4

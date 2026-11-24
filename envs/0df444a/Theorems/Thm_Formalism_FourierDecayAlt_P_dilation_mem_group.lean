@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_mem_group
 -- name    : Formalism.FourierDecayAlt.P.dilation_mem_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:29:16.252151+00:00
 -- url     : https://prove2.me/theorems/76a82c6b-d82e-49c5-a619-642e1c14b048

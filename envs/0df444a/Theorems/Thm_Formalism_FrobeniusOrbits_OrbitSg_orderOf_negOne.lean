@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_OrbitSg_orderOf_negOne
 -- name    : Formalism.FrobeniusOrbits.OrbitSg.orderOf_negOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:31:32.440802+00:00
 -- url     : https://prove2.me/theorems/34fb721b-8b43-4109-86ec-7ddc2cb29525

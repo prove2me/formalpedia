@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelicCompletion_lattice_separated_complete
 -- name    : GlobalTheory.T.adelicCompletion_lattice_separated_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:58:16.534014+00:00
 -- url     : https://prove2.me/theorems/9ac03bb6-65a8-42f8-a05c-89c706722abe

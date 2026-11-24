@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_unipotent_weyl_measure
 -- name    : Formalism.FourierDecayAlt.P.dilation_unipotent_weyl_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:29:39.801836+00:00
 -- url     : https://prove2.me/theorems/3753da8c-4181-46c9-848a-5ee1748afed7

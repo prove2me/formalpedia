@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_regular_iff_natDegree_and_exists_elliptic_GL
 -- name    : GlobalTheory.T.regular_iff_natDegree_and_exists_elliptic_GL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:37:00.299065+00:00
 -- url     : https://prove2.me/theorems/dc653376-89c5-4381-bc09-bd7e8ba9f166

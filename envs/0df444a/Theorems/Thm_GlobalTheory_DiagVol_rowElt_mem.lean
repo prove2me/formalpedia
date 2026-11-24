@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_rowElt_mem
 -- name    : GlobalTheory.DiagVol.rowElt_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:53.162447+00:00
 -- url     : https://prove2.me/theorems/01423359-be95-47cd-81f6-76e77526a25f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadricCount_quadric_count_even
 -- name    : GlobalTheory.CompanionTheory.SW.QuadricCount.quadric_count_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:07:38.050146+00:00
 -- url     : https://prove2.me/theorems/f96d9147-fff4-4320-b0b0-ea81d1bd9adc

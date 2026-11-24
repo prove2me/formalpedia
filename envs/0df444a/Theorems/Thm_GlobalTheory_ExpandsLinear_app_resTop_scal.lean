@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpandsLinear_app_resTop_scal
 -- name    : GlobalTheory.ExpandsLinear.app_resTop_scal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:10:48.814175+00:00
 -- url     : https://prove2.me/theorems/a51c579f-2b19-451a-84cf-380bf450bb6c

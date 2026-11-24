@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasse_vanishing_card_bound
 -- name    : hasse_vanishing_card_bound
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T14:18:29.622142+00:00
 -- url     : https://prove2.me/theorems/2ed11e55-0f25-456a-84cf-3fb6933e658a

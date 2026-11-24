@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Group_ind
 -- name    : Formalism.FrobeniusOrbits.Group.ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:53:05.179702+00:00
 -- url     : https://prove2.me/theorems/da3f8ed5-3496-4978-a527-09db9682d4a9

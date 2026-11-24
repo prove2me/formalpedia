@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_adelic_isomorphism_exists
 -- name    : Formalism.L2.SG.Pf.adelic_isomorphism_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:18:20.90081+00:00
 -- url     : https://prove2.me/theorems/b394c77c-6160-4d45-9183-c36f705fd158

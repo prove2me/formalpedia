@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_Adapted_dual
 -- name    : GlobalTheory.DRFil.Adapted.dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:23:44.457845+00:00
 -- url     : https://prove2.me/theorems/3106e33a-20ba-422c-b7ab-03170635e239

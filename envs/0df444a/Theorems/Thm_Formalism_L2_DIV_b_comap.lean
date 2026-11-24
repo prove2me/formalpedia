@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_comap
 -- name    : Formalism.L2.DIV.b_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:22:26.255931+00:00
 -- url     : https://prove2.me/theorems/e15e159e-ade7-4f43-960e-92728a669c38

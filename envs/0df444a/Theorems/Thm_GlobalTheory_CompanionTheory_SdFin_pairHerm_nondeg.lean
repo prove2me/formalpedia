@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SdFin_pairHerm_nondeg
 -- name    : GlobalTheory.CompanionTheory.SdFin.pairHerm_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:00:34.624854+00:00
 -- url     : https://prove2.me/theorems/e0e53c40-fe22-407a-ad9d-8eadef935d40

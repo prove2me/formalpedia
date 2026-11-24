@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_mem_image_involutive
 -- name    : ChromaticReconstruction.mem_image_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:58:04.539369+00:00
 -- url     : https://prove2.me/theorems/0d2b3ecc-c83c-4b1c-b534-a3f4e0e5f449

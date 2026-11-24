@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_hwmf_mul_tv
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.hwmf_mul_tv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:32:18.108802+00:00
 -- url     : https://prove2.me/theorems/d51a5877-446d-47a6-97f4-a1a54bcbbe20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_In_sgs_eq
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.In.sgs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:43:42.942732+00:00
 -- url     : https://prove2.me/theorems/3bbcf326-6109-430a-8176-24a86f4582b0

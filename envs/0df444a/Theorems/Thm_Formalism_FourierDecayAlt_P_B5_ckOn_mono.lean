@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_ckOn_mono
 -- name    : Formalism.FourierDecayAlt.P.B5.ckOn_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:47:13.546928+00:00
 -- url     : https://prove2.me/theorems/ab049e12-8090-4a2e-a790-d5b8f46441ea

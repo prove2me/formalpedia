@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseClosedAffineSubsets_exists_charts
 -- name    : GlobalTheory.DenseClosedAffineSubsets.exists_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:44:06.008386+00:00
 -- url     : https://prove2.me/theorems/df30ce6e-6ef3-467a-8341-f8f513ae1f52

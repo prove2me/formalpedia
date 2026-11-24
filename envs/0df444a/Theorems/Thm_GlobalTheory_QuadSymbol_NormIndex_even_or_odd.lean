@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_even_or_odd
 -- name    : GlobalTheory.QuadSymbol.NormIndex.even_or_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:01:12.710614+00:00
 -- url     : https://prove2.me/theorems/64b0bb3c-fa4f-4543-aa7c-4a8400172348

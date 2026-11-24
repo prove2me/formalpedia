@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cyclotomicCharacterPadic_basic_properties
 -- name    : GlobalTheory.T.cyclotomicCharacterPadic_basic_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:16.141044+00:00
 -- url     : https://prove2.me/theorems/eb73d2bf-29b3-4c76-a024-edecb96a33ef

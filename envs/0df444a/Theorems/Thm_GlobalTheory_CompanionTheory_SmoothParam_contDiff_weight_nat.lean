@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothParam_contDiff_weight_nat
 -- name    : GlobalTheory.CompanionTheory.SmoothParam.contDiff_weight_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:14:41.292263+00:00
 -- url     : https://prove2.me/theorems/4490e0db-ee37-4ee2-89a7-b7bf76f720d8

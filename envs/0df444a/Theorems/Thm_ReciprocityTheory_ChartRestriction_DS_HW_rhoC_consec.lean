@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_rhoC_consec
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.rhoC_consec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:29:44.656448+00:00
 -- url     : https://prove2.me/theorems/e4ef77ad-f2f1-4069-88d7-c72e7937cee3

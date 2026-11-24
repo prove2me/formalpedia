@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivLin_restr_iso
 -- name    : GlobalTheory.DivLin.restr_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:50:16.50119+00:00
 -- url     : https://prove2.me/theorems/1ff87f24-30a2-430e-80b9-f5b37ac79bee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreFlat_includeRight_bijective
 -- name    : GlobalTheory.FibreFlat.includeRight_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:24:09.976255+00:00
 -- url     : https://prove2.me/theorems/39eda1ab-04de-41f4-9c87-97aa1e23606d

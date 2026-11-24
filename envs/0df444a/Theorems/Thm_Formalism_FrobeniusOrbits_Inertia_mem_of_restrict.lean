@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Inertia_mem_of_restrict
 -- name    : Formalism.FrobeniusOrbits.Inertia.mem_of_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:11:45.635808+00:00
 -- url     : https://prove2.me/theorems/909b8dac-7d18-47af-9da6-227c150f4d4e

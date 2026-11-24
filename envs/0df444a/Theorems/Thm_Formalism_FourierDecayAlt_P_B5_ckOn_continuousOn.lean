@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_ckOn_continuousOn
 -- name    : Formalism.FourierDecayAlt.P.B5.ckOn_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:46:56.814691+00:00
 -- url     : https://prove2.me/theorems/1779ff0a-4599-4024-b34e-45caac32764a

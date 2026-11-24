@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_exists_factor
 -- name    : CompanionTheory.D.gk.FinalFormK.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:57:00.852805+00:00
 -- url     : https://prove2.me/theorems/cad7972e-8cf5-4978-b272-f3195f03735a

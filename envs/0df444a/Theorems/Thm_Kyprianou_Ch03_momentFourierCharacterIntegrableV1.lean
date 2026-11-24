@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentFourierCharacterIntegrableV1
 -- name    : Kyprianou.Ch03.momentFourierCharacterIntegrableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:16:17.806302+00:00
 -- url     : https://prove2.me/theorems/74c09bc8-4518-4772-9427-4dd2a35528bf

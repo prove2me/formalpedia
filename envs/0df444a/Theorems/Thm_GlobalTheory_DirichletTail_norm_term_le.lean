@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirichletTail_norm_term_le
 -- name    : GlobalTheory.DirichletTail.norm_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:56:08.835979+00:00
 -- url     : https://prove2.me/theorems/4123c382-065d-49a6-a055-3d2e32ca89bb

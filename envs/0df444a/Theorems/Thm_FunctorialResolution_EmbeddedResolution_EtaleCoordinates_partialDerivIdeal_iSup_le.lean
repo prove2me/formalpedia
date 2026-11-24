@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_partialDerivIdeal_iSup_le
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.partialDerivIdeal_iSup_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:16:18.145806+00:00
 -- url     : https://prove2.me/theorems/c58b88bd-439a-476f-9ddb-512e7ab54a7f

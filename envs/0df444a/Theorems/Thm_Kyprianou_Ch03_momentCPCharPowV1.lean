@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentCPCharPowV1
 -- name    : Kyprianou.Ch03.momentCPCharPowV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:16:09.48624+00:00
 -- url     : https://prove2.me/theorems/70a1c109-fe9f-4ab5-85fe-76a7e0b8bc1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_io_rep_sum
 -- name    : Formalism.QuantumDeterminants.io_rep_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:33:49.037808+00:00
 -- url     : https://prove2.me/theorems/7b3c9baf-68bc-476e-9d11-f744c3b8c0b0

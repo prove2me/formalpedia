@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_tower_field_foundations
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.tower_field_foundations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:15.010972+00:00
 -- url     : https://prove2.me/theorems/14f62414-6b68-43cb-a10c-028d9b909aa0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_ArcForm_exponent_nonneg
 -- name    : GlobalTheory.Ex.ArcForm.exponent_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:06:19.720287+00:00
 -- url     : https://prove2.me/theorems/2fc6489f-70f2-4aca-a72a-e1456f3ee093

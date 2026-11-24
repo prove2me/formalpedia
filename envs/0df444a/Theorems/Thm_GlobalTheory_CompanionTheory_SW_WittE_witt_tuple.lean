@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittE_witt_tuple
 -- name    : GlobalTheory.CompanionTheory.SW.WittE.witt_tuple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:13:10.327076+00:00
 -- url     : https://prove2.me/theorems/6b4b9dca-a747-4c07-8590-cdba8d760a3a

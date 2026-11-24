@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetMod_det_baseChange_quot_eq_one
 -- name    : GlobalTheory.DetMod.det_baseChange_quot_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:49:30.313556+00:00
 -- url     : https://prove2.me/theorems/9b550f1c-0b38-418a-b416-27b87ca3b68d

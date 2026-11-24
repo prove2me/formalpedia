@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_derivIdealIterate_le_iSup_logDerivIdealIterate_partialDerivIdealIterate
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.derivIdealIterate_le_iSup_logDerivIdealIterate_partialDerivIdealIterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:19.040713+00:00
 -- url     : https://prove2.me/theorems/11707328-34a8-4b98-87f3-7115b5f1f54e

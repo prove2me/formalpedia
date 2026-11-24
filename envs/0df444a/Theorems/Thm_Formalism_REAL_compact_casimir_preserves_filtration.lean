@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_casimir_preserves_filtration
 -- name    : Formalism.REAL.compact_casimir_preserves_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:16:12.525714+00:00
 -- url     : https://prove2.me/theorems/d566b818-a214-4cc5-ac10-95c2915d0bd0

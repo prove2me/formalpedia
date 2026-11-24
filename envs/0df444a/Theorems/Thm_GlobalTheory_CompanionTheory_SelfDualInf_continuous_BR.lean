@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_continuous_BR
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.continuous_BR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:38:42.275659+00:00
 -- url     : https://prove2.me/theorems/5c28e9a4-b580-4775-8593-8a56ec6771cf

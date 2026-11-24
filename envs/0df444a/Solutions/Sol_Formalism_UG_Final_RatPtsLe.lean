@@ -1,0 +1,70 @@
+-- Prove2me | solution 1 for Formalism.UG.Final.RatPtsLe
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-24T14:47:25.498802+00:00
+-- url     : https://prove2.me/submissions/606bdab1-e29a-4b34-ae0a-748705a324ae
+
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_HeckeActMem
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Actions
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_HeckeActionLevelMemHolds
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Adelstab
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Afsplit
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AutomorphicFormsDecompositionHolds
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_HeckeAssoc
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_RationalPointsLeHolds
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Cartan
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_ClassSet
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_HeckeConvolutionMemHolds
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_LevelSubgroupFiniteAdelicStandard
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Ecompose
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_FIwasawa
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Fcompose
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_LocalAlgebraInertPrime
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_GlintPrincRelIndexNeZero
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Heckebasic
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_InclusionInjective
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Ipindep
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelaf
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelv
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelvsplit
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_LinSubstIsHomogeneous
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Nabladual
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_SignatureConjugationInvariant
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_SignatureExists
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Spherical
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_SplitUnitaryGroupIso
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stabfin
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stabstd
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stdform
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Tjcosets
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Transport
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Upqcpt
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_DualWeylModuleStable
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Wlocal
+import Definitions.Def_Formalism_SatakeDualWeyl_NablaRepApply
+import Definitions.Def_Formalism_SatakeDualWeyl_DualWeylRepApply
+import Definitions.Def_Formalism_SatakeDualWeyl_KpqSubgroupCompact
+import Theorems.Thm_Formalism_UG_Final_BCMem
+import Theorems.Thm_Formalism_GradedWeylDivisibility_rowDivL_apply
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] Formalism.GradedWeylDivisibility.rowDivL_apply
+
+
+
+set_option autoImplicit false
+open Formalism Formalism.UG Formalism.UG.Final
+namespace Formalism.UG.Final
+theorem _root_.solution : Formalism.UG.RatPtsLe := by
+  intro F E _ _ _ n _ _ σ J R _ _ x hx
+  obtain ⟨g, hg, rfl⟩ := Subgroup.mem_map.mp hx
+  exact Formalism.UG.Final.BCMem E _ n (σ : E →+* E) (sigR σ R) (inclE (F := F) R)
+    (RingHom.ext fun e => by simp [inclE, sigR]) J g hg
+end Formalism.UG.Final

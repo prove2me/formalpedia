@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Hom_evT_eq
 -- name    : GlobalTheory.Ex.NumD.Hom.evT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:06:42.804775+00:00
 -- url     : https://prove2.me/theorems/071236f3-399a-4a75-813a-e9fbebb924b5

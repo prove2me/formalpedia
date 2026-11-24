@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_exp_Zm
 -- name    : Formalism.FourierDecayAlt.P.B4.exp_Zm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:27:44.55256+00:00
 -- url     : https://prove2.me/theorems/e73657fa-8e8a-41de-953c-30cc0aa320ba

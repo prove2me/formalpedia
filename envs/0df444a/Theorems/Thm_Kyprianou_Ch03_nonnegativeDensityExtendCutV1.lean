@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_nonnegativeDensityExtendCutV1
 -- name    : Kyprianou.Ch03.nonnegativeDensityExtendCutV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:15:13.491531+00:00
 -- url     : https://prove2.me/theorems/dfb1ef8b-5ecf-4181-a1b9-8de029bb9f19

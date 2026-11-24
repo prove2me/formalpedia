@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_existsUnique_sub_mem_infDomain
 -- name    : GlobalTheory.CompanionTheory.Equi.existsUnique_sub_mem_infDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:38:10.51266+00:00
 -- url     : https://prove2.me/theorems/7a0bd64c-348c-49a7-a9ad-ae6516281a23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendRig_isRegularRing_of_isLocalization
 -- name    : GlobalTheory.ExtendRig.isRegularRing_of_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:17:58.067319+00:00
 -- url     : https://prove2.me/theorems/9f1d9c37-eec5-4377-abf4-cf2e4f4951eb

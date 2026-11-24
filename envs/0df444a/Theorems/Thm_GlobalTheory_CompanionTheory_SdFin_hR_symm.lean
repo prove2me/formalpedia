@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SdFin_hR_symm
 -- name    : GlobalTheory.CompanionTheory.SdFin.hR_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:00:13.264213+00:00
 -- url     : https://prove2.me/theorems/7309903a-cd02-41c3-a682-5eb7d49fff32

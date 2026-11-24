@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenominatorOfSpan_exists_denominator
 -- name    : GlobalTheory.DenominatorOfSpan.exists_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:34:56.935259+00:00
 -- url     : https://prove2.me/theorems/64a42732-3645-4f3f-86e8-0876377337f9

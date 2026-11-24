@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_Intg_continuous_lineVec
 -- name    : GlobalTheory.FibLine.Intg.continuous_lineVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:20:18.278724+00:00
 -- url     : https://prove2.me/theorems/7342f74b-54a2-4b3b-8cdb-66b3c3cd9f21

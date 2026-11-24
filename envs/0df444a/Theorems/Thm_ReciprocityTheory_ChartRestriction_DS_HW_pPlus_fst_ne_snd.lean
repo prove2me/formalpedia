@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_pPlus_fst_ne_snd
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.pPlus_fst_ne_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:35:36.538134+00:00
 -- url     : https://prove2.me/theorems/124da7ac-10ff-4b99-8532-78d4f2c52e8c

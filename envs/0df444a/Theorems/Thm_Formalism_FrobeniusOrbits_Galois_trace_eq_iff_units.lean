@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_trace_eq_iff_units
 -- name    : Formalism.FrobeniusOrbits.Galois.trace_eq_iff_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:53:06.845674+00:00
 -- url     : https://prove2.me/theorems/25f2ad3a-2515-4d32-8a5c-161eea4458b1

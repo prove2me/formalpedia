@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_Level3_septicCharacter_injective
 -- name    : GlobalTheory.Ex.Level3.septicCharacter_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:05:55.690811+00:00
 -- url     : https://prove2.me/theorems/ed1ce5c8-9a63-4295-bd6c-7cfc0089d5fc

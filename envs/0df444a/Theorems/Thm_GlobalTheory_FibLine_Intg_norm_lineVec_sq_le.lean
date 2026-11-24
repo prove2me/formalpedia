@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_Intg_norm_lineVec_sq_le
 -- name    : GlobalTheory.FibLine.Intg.norm_lineVec_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:23:22.265981+00:00
 -- url     : https://prove2.me/theorems/d3580085-5617-4888-9c3e-5c7d5ebfee24

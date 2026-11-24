@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_rmulF_cont
 -- name    : Formalism.FourierDecayAlt.P.B2x2.rmulF_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:44:13.588806+00:00
 -- url     : https://prove2.me/theorems/62f1b75c-771f-422d-8716-b86b848b3bd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Decomp_frob_pow_mk
 -- name    : Formalism.FrobeniusOrbits.Decomp.frob_pow_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:11:17.775552+00:00
 -- url     : https://prove2.me/theorems/a90e9912-47a6-4fff-888e-f514fe59b38b

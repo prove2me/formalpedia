@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjLocal_conj_of_charpoly_local
 -- name    : GlobalTheory.ConjLocal.conj_of_charpoly_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:25:10.580797+00:00
 -- url     : https://prove2.me/theorems/95ad292f-f421-401c-b6d1-160ac1345fbd

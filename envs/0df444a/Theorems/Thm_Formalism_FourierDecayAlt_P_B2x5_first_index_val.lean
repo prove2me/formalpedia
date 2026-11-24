@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_first_index_val
 -- name    : Formalism.FourierDecayAlt.P.B2x5.first_index_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:40:44.365886+00:00
 -- url     : https://prove2.me/theorems/33227a1e-f9c6-4fab-a909-f9ebddb49e5b

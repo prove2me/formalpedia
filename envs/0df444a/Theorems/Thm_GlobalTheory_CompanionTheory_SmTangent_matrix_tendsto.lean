@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmTangent_matrix_tendsto
 -- name    : GlobalTheory.CompanionTheory.SmTangent.matrix_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:28.844649+00:00
 -- url     : https://prove2.me/theorems/57077bf6-8ef9-4f9b-a30b-a415fa35b077

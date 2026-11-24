@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OrderCertificate_comap_of_isOpenImmersion
 -- name    : FunctorialResolution.EmbeddedResolution.OrderCertificate.comap_of_isOpenImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:13:56.446326+00:00
 -- url     : https://prove2.me/theorems/a135b30b-dd20-401c-bd58-30718d9fd768

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_dense_openImmersion
 -- name    : GlobalTheory.ExtUnique.dense_openImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:16:14.337094+00:00
 -- url     : https://prove2.me/theorems/061a7a54-4c94-4f10-9f41-3d34e3c864b4

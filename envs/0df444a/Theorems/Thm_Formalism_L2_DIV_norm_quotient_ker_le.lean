@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_norm_quotient_ker_le
 -- name    : Formalism.L2.DIV.norm_quotient_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:22:16.14492+00:00
 -- url     : https://prove2.me/theorems/e779ea00-af9a-4748-b166-777669331c89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DedekindSmooth_smooth_of_isDedekindDomain
 -- name    : GlobalTheory.DedekindSmooth.smooth_of_isDedekindDomain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:55:39.7136+00:00
 -- url     : https://prove2.me/theorems/f08cf7f9-90b4-438b-98c4-f7547d090798

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_cechDeRhamCoefMapOneForms_restrictAlongFunctor
 -- name    : GlobalTheory.CechDR.cechDeRhamCoefMapOneForms_restrictAlongFunctor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:36:25.440619+00:00
 -- url     : https://prove2.me/theorems/c64aedb7-ca4b-42aa-b64b-a02a48cbf020

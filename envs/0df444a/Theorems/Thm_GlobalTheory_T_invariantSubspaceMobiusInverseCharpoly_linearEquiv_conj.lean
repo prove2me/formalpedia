@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariantSubspaceMobiusInverseCharpoly_linearEquiv_conj
 -- name    : GlobalTheory.T.invariantSubspaceMobiusInverseCharpoly_linearEquiv_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:14:54.1552+00:00
 -- url     : https://prove2.me/theorems/af1d8021-350a-460b-be23-9daad9e00a85

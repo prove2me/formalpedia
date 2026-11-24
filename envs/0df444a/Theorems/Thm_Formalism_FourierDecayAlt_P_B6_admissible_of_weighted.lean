@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_admissible_of_weighted
 -- name    : Formalism.FourierDecayAlt.P.B6.admissible_of_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:47:03.68808+00:00
 -- url     : https://prove2.me/theorems/f7a400bd-a958-43b6-8319-6017f2463267

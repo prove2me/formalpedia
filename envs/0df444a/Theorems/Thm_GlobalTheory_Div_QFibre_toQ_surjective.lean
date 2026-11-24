@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_QFibre_toQ_surjective
 -- name    : GlobalTheory.Div.QFibre.toQ_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:03.975751+00:00
 -- url     : https://prove2.me/theorems/d793f907-c29c-4b2a-8e87-e57617eb1f5c

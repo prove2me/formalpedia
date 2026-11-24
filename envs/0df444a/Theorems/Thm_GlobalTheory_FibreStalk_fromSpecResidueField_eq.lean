@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreStalk_fromSpecResidueField_eq
 -- name    : GlobalTheory.FibreStalk.fromSpecResidueField_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:33.476289+00:00
 -- url     : https://prove2.me/theorems/ce60d763-7a69-418a-8e9f-7cca18f4f857

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_Cub_step
 -- name    : GlobalTheory.CubeLift.Cub.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:28:39.523873+00:00
 -- url     : https://prove2.me/theorems/9ba34a48-6d63-49f7-835d-0403bc7d793a

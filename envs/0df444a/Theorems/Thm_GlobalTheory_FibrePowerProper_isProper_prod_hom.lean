@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibrePowerProper_isProper_prod_hom
 -- name    : GlobalTheory.FibrePowerProper.isProper_prod_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:27.478395+00:00
 -- url     : https://prove2.me/theorems/25f070af-1399-43d5-bdf2-575424c69470

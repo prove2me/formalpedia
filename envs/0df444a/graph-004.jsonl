@@ -41619,8 +41619,8 @@
 {"parent": "RV27.interval_pair_weight_lower", "child": "MVSieve.primitive_character_large_sieve", "via": ["solution"]}
 {"parent": "RV27.interval_reciprocal_weighted_sifted_bound", "child": "PrimePairSieve_squarefree_primitive_fourier_energy", "via": ["solution"]}
 {"parent": "RV27.interval_reciprocal_weighted_sifted_bound", "child": "WeightedHilbert_nonuniform_large_sieve_sixteen", "via": ["solution"]}
-{"parent": "RV27.large_range", "child": "Schnir_defs", "via": ["statement"]}
-{"parent": "RV27.middle_range", "child": "Schnir_defs", "via": ["statement"]}
+{"parent": "RV27.large_range", "child": "Schnir_defs", "via": ["solution", "statement"]}
+{"parent": "RV27.middle_range", "child": "Schnir_defs", "via": ["solution", "statement"]}
 {"parent": "RWPI.Classif.hinge_inner_sup", "child": "RWPI_Classif_losses", "via": ["solution", "statement"]}
 {"parent": "RWPI.Classif.hinge_outer_min", "child": "RWPI_Classif_losses", "via": ["solution", "statement"]}
 {"parent": "RWPI.Classif.logistic_inner_sup", "child": "RWPI_Classif_losses", "via": ["solution", "statement"]}
@@ -60002,8 +60002,8 @@
 {"parent": "TaoFivePrimes.mertens_constant_theta_integral", "child": "TaoFivePrimes.reciprocal_prime_mertens_limit", "via": ["solution"]}
 {"parent": "TaoFivePrimes.mertens_constant_theta_integral", "child": "TaoFivePrimes.reciprocal_primes_theta_partial_summation", "via": ["solution"]}
 {"parent": "TaoFivePrimes.mertens_constant_theta_integral", "child": "TaoFivePrimes.theta_error_kernel_integrable_of_log4_bound", "via": ["solution"]}
-{"parent": "TaoFivePrimes.minor_arc_bound_theorem51", "child": "TaoFivePrimes_RepresentationCount", "via": ["statement"]}
-{"parent": "TaoFivePrimes.minor_arc_bound_theorem51", "child": "TaoFivePrimes_SmoothedExpSum", "via": ["statement"]}
+{"parent": "TaoFivePrimes.minor_arc_bound_theorem51", "child": "TaoFivePrimes_RepresentationCount", "via": ["solution", "statement"]}
+{"parent": "TaoFivePrimes.minor_arc_bound_theorem51", "child": "TaoFivePrimes_SmoothedExpSum", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.minor_arc_bound_theorem51_as_proved", "child": "TaoFivePrimes.theorem51_typeII_envelope_corrected", "via": ["solution"]}
 {"parent": "TaoFivePrimes.minor_arc_bound_theorem51_as_proved", "child": "TaoFivePrimes.theorem51_typeI_envelope_as_proved", "via": ["solution"]}
 {"parent": "TaoFivePrimes.minor_arc_bound_theorem51_as_proved", "child": "TaoFivePrimes.theorem51_vaughan_split", "via": ["solution"]}
@@ -62021,7 +62021,7 @@
 {"parent": "TaoFivePrimes.theorem51_typeII_of_scale_bound", "child": "TaoFivePrimes_SmoothedExpSum", "via": ["solution"]}
 {"parent": "TaoFivePrimes.theorem51_typeII_of_scale_bound", "child": "TaoFivePrimes_Theorem51Scale", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.theorem51_typeII_of_scale_bound", "child": "TaoFivePrimes_Theorem51Sums", "via": ["solution"]}
-{"parent": "TaoFivePrimes.theorem51_typeI_block_summation", "child": "TaoFivePrimes_Theorem51Sums", "via": ["statement"]}
+{"parent": "TaoFivePrimes.theorem51_typeI_block_summation", "child": "TaoFivePrimes_Theorem51Sums", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.theorem51_typeI_block_summation_as_proved", "child": "TaoFivePrimes.theorem51_typeI_block_summation_from_vinogradov", "via": ["solution"]}
 {"parent": "TaoFivePrimes.theorem51_typeI_block_summation_as_proved", "child": "TaoFivePrimes.vinogradov_lemma_if_form", "via": ["solution"]}
 {"parent": "TaoFivePrimes.theorem51_typeI_block_summation_as_proved", "child": "TaoFivePrimes_Theorem51Sums", "via": ["solution", "statement"]}
@@ -62033,7 +62033,7 @@
 {"parent": "TaoFivePrimes.theorem51_typeI_bound", "child": "TaoFivePrimes_RepresentationCount", "via": ["solution"]}
 {"parent": "TaoFivePrimes.theorem51_typeI_bound", "child": "TaoFivePrimes_SmoothedExpSum", "via": ["solution"]}
 {"parent": "TaoFivePrimes.theorem51_typeI_bound", "child": "TaoFivePrimes_Theorem51Sums", "via": ["solution", "statement"]}
-{"parent": "TaoFivePrimes.theorem51_typeI_envelope", "child": "TaoFivePrimes_Theorem51Sums", "via": ["statement"]}
+{"parent": "TaoFivePrimes.theorem51_typeI_envelope", "child": "TaoFivePrimes_Theorem51Sums", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.theorem51_typeI_envelope_as_proved", "child": "TaoFivePrimes.theorem51_typeI_block_summation_as_proved", "via": ["solution"]}
 {"parent": "TaoFivePrimes.theorem51_typeI_envelope_as_proved", "child": "TaoFivePrimes.theorem51_typeI_pointwise_envelope", "via": ["solution"]}
 {"parent": "TaoFivePrimes.theorem51_typeI_envelope_as_proved", "child": "TaoFivePrimes_Theorem51Sums", "via": ["solution", "statement"]}
@@ -62047,7 +62047,7 @@
 {"parent": "TaoFivePrimes.theorem51_unit_numerator_bound", "child": "TaoFivePrimes_RepresentationCount", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.theorem51_unit_numerator_bound", "child": "TaoFivePrimes_SmoothedExpSum", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.theorem51_unit_numerator_bound", "child": "TaoFivePrimes_Theorem51Sums", "via": ["solution"]}
-{"parent": "TaoFivePrimes.theorem51_vaughan_split", "child": "TaoFivePrimes_Theorem51Sums", "via": ["statement"]}
+{"parent": "TaoFivePrimes.theorem51_vaughan_split", "child": "TaoFivePrimes_Theorem51Sums", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.theorem51_vaughan_split_uncentered", "child": "TaoFivePrimes.vaughan_decomposition", "via": ["solution"]}
 {"parent": "TaoFivePrimes.theorem51_vaughan_split_uncentered", "child": "TaoFivePrimes.vaughan_typeI_coeff_le_log", "via": ["solution"]}
 {"parent": "TaoFivePrimes.theorem51_vaughan_split_uncentered", "child": "TaoFivePrimes_Theorem51Sums", "via": ["solution", "statement"]}

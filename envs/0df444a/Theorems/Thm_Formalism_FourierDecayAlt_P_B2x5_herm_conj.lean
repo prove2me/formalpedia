@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_herm_conj
 -- name    : Formalism.FourierDecayAlt.P.B2x5.herm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:43:37.668588+00:00
 -- url     : https://prove2.me/theorems/ff8b2c34-97c6-43e1-a2c6-e5018f49acda

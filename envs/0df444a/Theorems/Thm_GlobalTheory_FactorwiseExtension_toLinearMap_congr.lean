@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FactorwiseExtension_toLinearMap_congr
 -- name    : GlobalTheory.FactorwiseExtension.toLinearMap_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:17:38.103154+00:00
 -- url     : https://prove2.me/theorems/918113b7-758c-43f5-91e9-aa8fa55c6b98

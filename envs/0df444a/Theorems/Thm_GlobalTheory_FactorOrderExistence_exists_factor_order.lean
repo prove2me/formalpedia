@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FactorOrderExistence_exists_factor_order
 -- name    : GlobalTheory.FactorOrderExistence.exists_factor_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:17:36.077177+00:00
 -- url     : https://prove2.me/theorems/d162ba37-fcfd-4b28-ba8a-369c1fb60ca9

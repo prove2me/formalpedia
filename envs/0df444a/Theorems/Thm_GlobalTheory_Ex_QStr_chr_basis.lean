@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_QStr_chr_basis
 -- name    : GlobalTheory.Ex.QStr.chr_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:06:28.471817+00:00
 -- url     : https://prove2.me/theorems/0cc3ae17-3f20-4cbb-abce-14991a3ba2b7

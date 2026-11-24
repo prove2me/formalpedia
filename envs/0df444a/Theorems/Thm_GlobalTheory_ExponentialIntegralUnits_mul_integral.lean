@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExponentialIntegralUnits_mul_integral
 -- name    : GlobalTheory.ExponentialIntegralUnits.mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:15:40.756404+00:00
 -- url     : https://prove2.me/theorems/9c884ffb-9195-43fb-bb71-85b53b35c5cc

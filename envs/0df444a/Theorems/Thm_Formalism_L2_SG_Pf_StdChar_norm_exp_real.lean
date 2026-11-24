@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_StdChar_norm_exp_real
 -- name    : Formalism.L2.SG.Pf.StdChar.norm_exp_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:35:46.17385+00:00
 -- url     : https://prove2.me/theorems/0f55b43a-958a-4725-aafc-40452ef83be1

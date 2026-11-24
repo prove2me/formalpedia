@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivLin_inK_apply_end
 -- name    : GlobalTheory.DivLin.inK_apply_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:51.218437+00:00
 -- url     : https://prove2.me/theorems/0f4ebb1b-bf0f-4bae-b9e5-e0a80a7f6ea0

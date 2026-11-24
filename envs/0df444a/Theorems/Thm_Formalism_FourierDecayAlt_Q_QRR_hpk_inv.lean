@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_hpk_inv
 -- name    : Formalism.FourierDecayAlt.Q.QRR.hpk_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:43:02.02709+00:00
 -- url     : https://prove2.me/theorems/d39426f8-e273-4b91-a067-3c6f116ebded

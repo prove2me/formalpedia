@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_NormOpen_continuous_eval
 -- name    : GlobalTheory.QNorm.NormOpen.continuous_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:31:57.434348+00:00
 -- url     : https://prove2.me/theorems/086aa4c8-7716-4c6a-866e-4722d0d002fe

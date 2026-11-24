@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivLin_restr_mul_eq_zero
 -- name    : GlobalTheory.DivLin.restr_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:50:35.121526+00:00
 -- url     : https://prove2.me/theorems/6534195f-4d4e-46a4-ba23-464290368ff1

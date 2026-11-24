@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsCocycle_pullLE_eq
 -- name    : GlobalTheory.EpsCocycle.pullLE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:58:19.004457+00:00
 -- url     : https://prove2.me/theorems/4f474809-acc6-4dbb-94eb-db92efd75001

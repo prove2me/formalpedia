@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_test_prod_measurable
 -- name    : Formalism.FourierDecayAlt.P.B3.test_prod_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:33:35.520129+00:00
 -- url     : https://prove2.me/theorems/6d5202d1-1f3b-4b92-87a5-4c647941f72a

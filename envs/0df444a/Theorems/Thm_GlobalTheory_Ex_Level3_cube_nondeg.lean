@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_Level3_cube_nondeg
 -- name    : GlobalTheory.Ex.Level3.cube_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:05:40.038475+00:00
 -- url     : https://prove2.me/theorems/06db88a2-f6ca-4b91-bf83-14c757daa21b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpDivision_dioph
 -- name    : GlobalTheory.ExpDivision.dioph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:07:31.185261+00:00
 -- url     : https://prove2.me/theorems/58ff74f1-3b89-4a4d-ac6e-eb1e4be0b654

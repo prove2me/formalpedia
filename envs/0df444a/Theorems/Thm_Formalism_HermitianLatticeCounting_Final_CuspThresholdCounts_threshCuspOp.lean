@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_CuspThresholdCounts_threshCuspOp
 -- name    : Formalism.HermitianLatticeCounting.Final.CuspThresholdCounts.threshCuspOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:31:35.719554+00:00
 -- url     : https://prove2.me/theorems/51a10b6c-bb08-4068-8be4-1f91dc6ce8be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFormValues_dualForm_values
 -- name    : GlobalTheory.DualFormValues.dualForm_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:51:42.385828+00:00
 -- url     : https://prove2.me/theorems/1f13ac07-4372-460e-95c1-8ca1f0636e28

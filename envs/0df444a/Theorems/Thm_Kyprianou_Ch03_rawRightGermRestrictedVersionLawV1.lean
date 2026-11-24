@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_rawRightGermRestrictedVersionLawV1
 -- name    : Kyprianou.Ch03.rawRightGermRestrictedVersionLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:19:56.543449+00:00
 -- url     : https://prove2.me/theorems/e6590710-4b80-4063-a772-b0ed5ad1fef0

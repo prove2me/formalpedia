@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_isRatUnitary_iff
 -- name    : GlobalTheory.DictPinCompare.isRatUnitary_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:18:50.471815+00:00
 -- url     : https://prove2.me/theorems/6d390b61-adf3-4d05-a16f-93ae19493084

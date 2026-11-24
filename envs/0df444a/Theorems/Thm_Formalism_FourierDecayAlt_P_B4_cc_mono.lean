@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_cc_mono
 -- name    : Formalism.FourierDecayAlt.P.B4.cc_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:30:40.804561+00:00
 -- url     : https://prove2.me/theorems/9ba35c56-543b-492b-92a3-19641ccdb74e

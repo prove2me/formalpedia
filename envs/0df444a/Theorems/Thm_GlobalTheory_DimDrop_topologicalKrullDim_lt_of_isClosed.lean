@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DimDrop_topologicalKrullDim_lt_of_isClosed
 -- name    : GlobalTheory.DimDrop.topologicalKrullDim_lt_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:49:01.064896+00:00
 -- url     : https://prove2.me/theorems/0fc21362-9753-43eb-8865-b64664613ecc

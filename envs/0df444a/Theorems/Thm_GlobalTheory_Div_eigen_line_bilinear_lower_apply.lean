@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_eigen_line_bilinear_lower_apply
 -- name    : GlobalTheory.Div.eigen_line_bilinear.lower_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:42.255796+00:00
 -- url     : https://prove2.me/theorems/0b5822c2-b954-43b0-92ef-ebe89883b692

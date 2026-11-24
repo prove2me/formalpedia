@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_latAd_eq_of_stab
 -- name    : GlobalTheory.DictPinCompare.latAd_eq_of_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:18:53.208805+00:00
 -- url     : https://prove2.me/theorems/cce4a005-b667-4af3-85c1-dc84e69fe521

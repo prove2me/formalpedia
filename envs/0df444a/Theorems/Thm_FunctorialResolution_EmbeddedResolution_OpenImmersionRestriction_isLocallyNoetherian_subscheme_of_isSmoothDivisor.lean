@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_isLocallyNoetherian_subscheme_of_isSmoothDivisor
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.isLocallyNoetherian_subscheme_of_isSmoothDivisor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:33:09.933627+00:00
 -- url     : https://prove2.me/theorems/bde5bb81-2a13-48cb-a9e1-8db8dc6dd107

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_adjoint_m
 -- name    : Formalism.FourierDecayAlt.P.frame_adjoint_m
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:04:47.551686+00:00
 -- url     : https://prove2.me/theorems/a6851b5d-36a6-4dca-b97b-3bb0576146f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_measurable_lmulM
 -- name    : Formalism.FourierDecayAlt.P.B2x5.measurable_lmulM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:42:38.374342+00:00
 -- url     : https://prove2.me/theorems/92ca5732-a64a-4b5c-aaa9-412d4afef737

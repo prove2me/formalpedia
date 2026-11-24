@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConormalDer_exists_derivation_extending
 -- name    : GlobalTheory.ConormalDer.exists_derivation_extending
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:33.509582+00:00
 -- url     : https://prove2.me/theorems/7a7f7b97-3196-4d01-a959-2726e22ca78d

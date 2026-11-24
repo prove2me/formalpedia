@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpDivision_hasTemperateGrowth_of_entire
 -- name    : GlobalTheory.ExpDivision.hasTemperateGrowth_of_entire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:07:32.374828+00:00
 -- url     : https://prove2.me/theorems/440ad092-4418-4fdf-8e5f-245e20a7010e

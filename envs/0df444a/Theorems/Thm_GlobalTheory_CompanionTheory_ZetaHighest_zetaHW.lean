@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZetaHighest_zetaHW
 -- name    : GlobalTheory.CompanionTheory.ZetaHighest.zetaHW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:24:35.581545+00:00
 -- url     : https://prove2.me/theorems/7c22e31c-cd87-4361-bc95-8a248bc5568d

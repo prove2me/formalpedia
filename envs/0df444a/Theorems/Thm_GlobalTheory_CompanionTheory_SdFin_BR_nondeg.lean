@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SdFin_BR_nondeg
 -- name    : GlobalTheory.CompanionTheory.SdFin.BR_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:00:09.576842+00:00
 -- url     : https://prove2.me/theorems/9c099c1f-d6e3-412f-9d1f-10cfd37eebec

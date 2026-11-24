@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_finite_order_automorphism
 -- name    : Formalism.L2.DIV.finite_order_automorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:26:01.838254+00:00
 -- url     : https://prove2.me/theorems/c324bb1f-0fdf-40ea-9829-b07bf74cdde3

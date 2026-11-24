@@ -48358,7 +48358,7 @@
 {"parent": "PerishShip.Waste.avg_optimal_of_pathwise_regret", "child": "PerishShip_Waste_AverageMDP", "via": ["solution", "statement"]}
 {"parent": "HardyCapsetCertificate03520261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P23.seed_permutation_weight_independent", "child": "QAlgorithms_Papers_Independent_Gap48_P23", "via": ["solution", "statement"]}
-{"parent": "BirkhoffRestrictedThreeBody.momentum_bound", "child": "BirkhoffRestrictedThreeBody", "via": ["statement"]}
+{"parent": "BirkhoffRestrictedThreeBody.momentum_bound", "child": "BirkhoffRestrictedThreeBody", "via": ["solution", "statement"]}
 {"parent": "BirkhoffGlobalSection.convex_model_contact_rate_continuous", "child": "BirkhoffGlobalSection.convex_model_boundary_contact_positive", "via": ["solution", "statement"]}
 {"parent": "BirkhoffGlobalSection.convex_model_contact_rate_continuous", "child": "BirkhoffGlobalSection.hamiltonian_radial_contact_continuousAt", "via": ["solution", "statement"]}
 {"parent": "BirkhoffGlobalSection.convex_model_contact_rate_continuous", "child": "BirkhoffGlobalSection.hamiltonian_radial_characteristic_normalization", "via": ["solution", "statement"]}
@@ -49159,7 +49159,7 @@
 {"parent": "BirkhoffGlobalSection.local_inward_negative_derivative_nonnegative", "child": "BirkhoffGlobalSection.radial_characteristic_bundle", "via": ["solution", "statement"]}
 {"parent": "BirkhoffGlobalSection.TangentialHessian.gateCert_part_04", "child": "BirkhoffGlobalSection_FiberGateCertificate", "via": ["solution", "statement"]}
 {"parent": "BirkhoffGlobalSection.convex_model_contact_variation_winding_interval", "child": "BirkhoffGlobalSection.contact_winding_interval_bundle", "via": ["solution", "statement"]}
-{"parent": "BirkhoffRestrictedThreeBody.position_bound", "child": "BirkhoffRestrictedThreeBody", "via": ["statement"]}
+{"parent": "BirkhoffRestrictedThreeBody.position_bound", "child": "BirkhoffRestrictedThreeBody", "via": ["solution", "statement"]}
 {"parent": "KellyStochasticNetworks.MaxWeight.positive_recurrence", "child": "KellyStochasticNetworks_MaxWeight_Network", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case239_blockers0", "child": "HardyCapsetCertificate23920261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case239_blockers0", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}

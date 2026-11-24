@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeValues_tripleProductPoint_comp_partialSum
 -- name    : GlobalTheory.CubeValues.tripleProductPoint_comp_partialSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:31:38.562864+00:00
 -- url     : https://prove2.me/theorems/85b8b0c4-d234-47e7-950e-b295692a8ed9

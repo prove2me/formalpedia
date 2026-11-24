@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_exists_adj
 -- name    : CompanionTheory.D.gk.FinalFormK.exists_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:02.060475+00:00
 -- url     : https://prove2.me/theorems/98604ee4-d69a-45d2-806e-16eccac8ddc2

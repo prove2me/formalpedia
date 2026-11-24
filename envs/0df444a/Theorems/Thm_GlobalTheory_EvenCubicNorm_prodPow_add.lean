@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvenCubicNorm_prodPow_add
 -- name    : GlobalTheory.EvenCubicNorm.prodPow_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:05:05.782632+00:00
 -- url     : https://prove2.me/theorems/45b6e596-3962-478e-992e-8e9531fe913d

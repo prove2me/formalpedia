@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_units_open_embedding_local_tensor
 -- name    : GlobalTheory.T.units_open_embedding_local_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:32:39.689862+00:00
 -- url     : https://prove2.me/theorems/e0251a1e-6e3a-431c-8f9b-d7e510de55a6

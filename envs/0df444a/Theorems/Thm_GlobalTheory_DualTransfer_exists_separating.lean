@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualTransfer_exists_separating
 -- name    : GlobalTheory.DualTransfer.exists_separating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:51:53.495738+00:00
 -- url     : https://prove2.me/theorems/eb95d79f-5bbc-43f5-802c-2f854ae918c8

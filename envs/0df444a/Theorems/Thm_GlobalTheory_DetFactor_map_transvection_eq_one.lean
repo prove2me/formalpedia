@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetFactor_map_transvection_eq_one
 -- name    : GlobalTheory.DetFactor.map_transvection_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:49:13.506357+00:00
 -- url     : https://prove2.me/theorems/b0eab0a4-da3e-4790-a4e4-576eaafa5fa9

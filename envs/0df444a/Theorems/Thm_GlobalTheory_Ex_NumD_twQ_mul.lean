@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_twQ_mul
 -- name    : GlobalTheory.Ex.NumD.twQ_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:06:39.879659+00:00
 -- url     : https://prove2.me/theorems/f1eac239-d76c-4b7e-8b9b-0fe899afb170

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentSmallJumpRemainderPointwiseV1
 -- name    : Kyprianou.Ch03.momentSmallJumpRemainderPointwiseV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:16:26.135615+00:00
 -- url     : https://prove2.me/theorems/e0ff6701-969e-463b-87a4-e4b8efce0bbf

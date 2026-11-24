@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_form_le_exponent
 -- name    : GlobalTheory.Ex.form_le_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:06:26.003609+00:00
 -- url     : https://prove2.me/theorems/608b0c9e-be0d-4082-a5bd-c13f93c39259

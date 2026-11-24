@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SegOrder_exists_common_ordered_form
 -- name    : GlobalTheory.CompanionTheory.SegOrder.exists_common_ordered_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:28:31.151521+00:00
 -- url     : https://prove2.me/theorems/2059bf11-af31-4c31-8c80-ac8319f57c49

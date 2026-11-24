@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_transvection_map_addHaar
 -- name    : GlobalTheory.CompanionTheory.SW.transvection_map_addHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:12:22.641566+00:00
 -- url     : https://prove2.me/theorems/1a7e07ec-3f3b-40c3-8e0b-094caa26d1b9

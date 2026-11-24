@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Centraliser_aeval_g_P
 -- name    : GlobalTheory.UnitLemma.Centraliser.aeval_g_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:32:38.206784+00:00
 -- url     : https://prove2.me/theorems/14027947-93d1-460e-a237-384991ce5e22

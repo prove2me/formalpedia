@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdelicMatLat_exists_nat_mul_mem_family
 -- name    : GlobalTheory.AdelicMatLat.exists_nat_mul_mem_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:02:18.634005+00:00
 -- url     : https://prove2.me/theorems/e368e4ee-bef9-4ea6-8d0a-6b34e91a24b3

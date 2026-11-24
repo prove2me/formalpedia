@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integrable_weighted_norm_sq
 -- name    : Formalism.REAL.integrable_weighted_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:12:31.367545+00:00
 -- url     : https://prove2.me/theorems/c0abefe4-1655-496c-a52f-7282a8e0af1b

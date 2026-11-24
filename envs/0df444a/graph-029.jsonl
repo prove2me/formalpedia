@@ -87452,7 +87452,7 @@
 {"parent": "AvramDividend.Classical.avram_bvb_b21_original_inclusive_frozen_A_step_integral", "child": "AvramDividend.Classical.avram_bvb_b21_original_frozen_grid_sum_as_step_integral", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Triorthogonal.BH12EvenFamily.dimension_evenCode", "child": "QEC_Distillation_Triorthogonal_Transversal", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Triorthogonal.BH12EvenFamily.dimension_evenCode", "child": "QEC_Distillation_Triorthogonal_EvenFamily", "via": ["solution", "statement"]}
-{"parent": "NovyPQZK.Main.corollary_1", "child": "NovyPQZK_Main_Novy", "via": ["statement"]}
+{"parent": "NovyPQZK.Main.corollary_1", "child": "NovyPQZK_Main_Novy", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA1_2_13I1_sound", "child": "OAIQ254M003", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_1_0_11_calc_x", "child": "OAIQ257X023", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII08.continuousOn_kfun_full", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_VIII08_Growth", "via": ["solution", "statement"]}

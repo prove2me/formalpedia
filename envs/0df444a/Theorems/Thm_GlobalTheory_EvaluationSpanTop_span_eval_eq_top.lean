@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvaluationSpanTop_span_eval_eq_top
 -- name    : GlobalTheory.EvaluationSpanTop.span_eval_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:06:08.052445+00:00
 -- url     : https://prove2.me/theorems/da3175ff-45aa-4983-ae10-4fd42b6f331a

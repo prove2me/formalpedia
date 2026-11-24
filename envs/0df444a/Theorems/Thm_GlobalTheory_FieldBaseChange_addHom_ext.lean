@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_addHom_ext
 -- name    : GlobalTheory.FieldBaseChange.addHom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:24:23.245487+00:00
 -- url     : https://prove2.me/theorems/f31c1fbc-7e56-4435-93a1-cdd79a39339c

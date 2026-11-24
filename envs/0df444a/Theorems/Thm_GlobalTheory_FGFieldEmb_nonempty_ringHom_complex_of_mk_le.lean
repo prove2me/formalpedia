@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FGFieldEmb_nonempty_ringHom_complex_of_mk_le
 -- name    : GlobalTheory.FGFieldEmb.nonempty_ringHom_complex_of_mk_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:17:35.476548+00:00
 -- url     : https://prove2.me/theorems/43763659-91b8-4904-87f4-421fc68dd26e

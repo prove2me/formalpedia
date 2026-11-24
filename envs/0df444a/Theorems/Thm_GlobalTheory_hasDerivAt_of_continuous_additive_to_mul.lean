@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasDerivAt_of_continuous_additive_to_mul
 -- name    : GlobalTheory.hasDerivAt_of_continuous_additive_to_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:57.049872+00:00
 -- url     : https://prove2.me/theorems/6eece6bd-75be-44f2-bf02-a772ae3674d9

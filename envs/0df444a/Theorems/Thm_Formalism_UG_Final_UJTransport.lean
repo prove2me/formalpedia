@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_UJTransport
 -- name    : Formalism.UG.Final.UJTransport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:15:10.809425+00:00
 -- url     : https://prove2.me/theorems/fc6068b9-f0bb-4aa3-a36c-84f90014aded

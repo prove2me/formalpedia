@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_conjugation_invariant_measure
 -- name    : Formalism.L2.DIV.conjugation_invariant_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:22:43.4033+00:00
 -- url     : https://prove2.me/theorems/a729c2f1-862d-4707-9fc4-d436b33346c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_derivative_log_frobenius_comp_le
 -- name    : Formalism.REAL.lie_derivative_log_frobenius_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:12:41.937046+00:00
 -- url     : https://prove2.me/theorems/045e04c3-cf7a-42ab-bdff-dd642383e7bb

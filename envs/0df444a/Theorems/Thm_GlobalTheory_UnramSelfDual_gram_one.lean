@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_gram_one
 -- name    : GlobalTheory.UnramSelfDual.gram_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:40:42.733201+00:00
 -- url     : https://prove2.me/theorems/17f7acb6-76e6-46e6-9e73-3074275cd135

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_comap_chartPullbackPoint_eq
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_comap_chartPullbackPoint_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:34:05.043389+00:00
 -- url     : https://prove2.me/theorems/a8083a69-aa72-4b7e-b157-ef529fe43c15

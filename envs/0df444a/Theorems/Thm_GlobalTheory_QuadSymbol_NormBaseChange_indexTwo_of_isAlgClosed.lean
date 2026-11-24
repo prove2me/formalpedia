@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormBaseChange_indexTwo_of_isAlgClosed
 -- name    : GlobalTheory.QuadSymbol.NormBaseChange.indexTwo_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:39:18.458807+00:00
 -- url     : https://prove2.me/theorems/70c07986-683e-4ea2-ac25-a868609ec6b0

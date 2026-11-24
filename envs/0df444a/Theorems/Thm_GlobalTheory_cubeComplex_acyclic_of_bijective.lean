@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_acyclic_of_bijective
 -- name    : GlobalTheory.cubeComplex_acyclic_of_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:12.483022+00:00
 -- url     : https://prove2.me/theorems/d7f321a2-c2f3-4f53-b1b2-e48175b0ccec

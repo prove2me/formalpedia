@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_StdChar_continuous_psiFin
 -- name    : Formalism.L2.SG.Pf.StdChar.continuous_psiFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:36:05.746803+00:00
 -- url     : https://prove2.me/theorems/3902c778-b7ed-4a14-a1c3-8a6bc224c929

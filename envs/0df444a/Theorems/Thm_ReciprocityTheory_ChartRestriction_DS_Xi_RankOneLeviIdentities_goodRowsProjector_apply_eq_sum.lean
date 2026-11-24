@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_goodRowsProjector_apply_eq_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RankOneLeviIdentities.goodRowsProjector_apply_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:42:15.465532+00:00
 -- url     : https://prove2.me/theorems/698b2325-3b1c-448b-8016-ea9437f2974f

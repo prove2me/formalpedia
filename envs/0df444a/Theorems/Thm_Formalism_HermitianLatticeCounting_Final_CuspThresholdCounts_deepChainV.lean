@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_CuspThresholdCounts_deepChainV
 -- name    : Formalism.HermitianLatticeCounting.Final.CuspThresholdCounts.deepChainV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:12:40.695969+00:00
 -- url     : https://prove2.me/theorems/2aa6a361-a091-4bd0-95cd-810fdf1f704f

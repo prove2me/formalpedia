@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_uq_offdiag_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.uq_offdiag_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:29:38.324365+00:00
 -- url     : https://prove2.me/theorems/e04e3b89-0728-4095-9e60-d85cef567199

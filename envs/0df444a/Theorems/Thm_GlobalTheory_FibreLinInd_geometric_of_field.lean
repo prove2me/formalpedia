@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreLinInd_geometric_of_field
 -- name    : GlobalTheory.FibreLinInd.geometric_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:25:51.644117+00:00
 -- url     : https://prove2.me/theorems/0b0ae4d8-87ef-4a79-bcb8-808b120cfc56

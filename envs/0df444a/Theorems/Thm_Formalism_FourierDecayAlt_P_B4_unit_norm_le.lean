@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_unit_norm_le
 -- name    : Formalism.FourierDecayAlt.P.B4.unit_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:26:59.51366+00:00
 -- url     : https://prove2.me/theorems/fd4f26e6-5fb1-4d8c-8a62-53646db2d972

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_gN_eq_frob
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.gN_eq_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:27:22.267597+00:00
 -- url     : https://prove2.me/theorems/26934e1c-97b1-4dd9-872a-1fcae61ec8a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_Adapted_tensor
 -- name    : GlobalTheory.DRFil.Adapted.tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:02:30.376473+00:00
 -- url     : https://prove2.me/theorems/8fbae019-5841-4843-9021-3989d5824b49

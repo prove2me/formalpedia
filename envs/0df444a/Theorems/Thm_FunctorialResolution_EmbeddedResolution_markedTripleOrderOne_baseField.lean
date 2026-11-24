@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_markedTripleOrderOne_baseField
 -- name    : FunctorialResolution.EmbeddedResolution.markedTripleOrderOne_baseField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:45:58.456338+00:00
 -- url     : https://prove2.me/theorems/324d38cf-08da-4389-842c-f1e1f8de1f63

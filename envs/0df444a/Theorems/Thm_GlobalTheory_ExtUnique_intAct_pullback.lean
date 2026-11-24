@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_intAct_pullback
 -- name    : GlobalTheory.ExtUnique.intAct_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:16:25.584888+00:00
 -- url     : https://prove2.me/theorems/a1088b60-1ac9-4f7c-b019-238db3b72f21

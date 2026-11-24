@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_markedTripleOrderOne_dim
 -- name    : FunctorialResolution.EmbeddedResolution.markedTripleOrderOne_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:47:21.382277+00:00
 -- url     : https://prove2.me/theorems/08600e6c-dbf8-48ec-8dcd-35cc011cd8d7

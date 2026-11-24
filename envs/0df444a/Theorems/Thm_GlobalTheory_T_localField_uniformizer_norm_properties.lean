@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_localField_uniformizer_norm_properties
 -- name    : GlobalTheory.T.localField_uniformizer_norm_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:15:48.203817+00:00
 -- url     : https://prove2.me/theorems/3e788310-4ed0-4423-8685-306002b092aa

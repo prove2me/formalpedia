@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivConst_exists_genPull_eq
 -- name    : GlobalTheory.DivConst.exists_genPull_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:55.044681+00:00
 -- url     : https://prove2.me/theorems/1fc395cf-26f8-45ef-ae3a-62bf53c0b0ee

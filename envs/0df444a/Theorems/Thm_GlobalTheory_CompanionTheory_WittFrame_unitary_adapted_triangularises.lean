@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WittFrame_unitary_adapted_triangularises
 -- name    : GlobalTheory.CompanionTheory.WittFrame.unitary_adapted_triangularises
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:15.980797+00:00
 -- url     : https://prove2.me/theorems/6bf736ef-ef49-4f09-8215-49848c47d142

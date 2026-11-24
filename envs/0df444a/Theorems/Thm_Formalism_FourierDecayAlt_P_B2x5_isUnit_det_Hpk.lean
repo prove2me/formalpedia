@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_isUnit_det_Hpk
 -- name    : Formalism.FourierDecayAlt.P.B2x5.isUnit_det_Hpk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:42:28.054995+00:00
 -- url     : https://prove2.me/theorems/04b81098-866b-4da7-acd5-2c34a036643f

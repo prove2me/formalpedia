@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_eq_glob_of_hat
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.eq_glob_of_hat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:13:52.685006+00:00
 -- url     : https://prove2.me/theorems/3c2eb932-5abb-403d-90ce-dd6bc61097b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpPow_int_eq_zero_of_exp_I_mul
 -- name    : GlobalTheory.ExpPow.int_eq_zero_of_exp_I_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:07:15.587517+00:00
 -- url     : https://prove2.me/theorems/6cbec363-1ad1-484d-85ee-dcdba296959e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_psi_of_finrank_eq_zero
 -- name    : GlobalTheory.CuspGL.psi_of_finrank_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:32:46.984723+00:00
 -- url     : https://prove2.me/theorems/00cb5a62-ed04-4f6f-8336-01faefe6f1b7

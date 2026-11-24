@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_kg_subgroup
 -- name    : PI.WAU.kg_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:33:40.264888+00:00
 -- url     : https://prove2.me/theorems/83e67dd7-84fa-4b90-9a59-7737df537898

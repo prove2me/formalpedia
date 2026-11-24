@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Exist_ProdOpen_toUnit_section
 -- name    : GlobalTheory.Exist.ProdOpen.toUnit_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:07:44.694157+00:00
 -- url     : https://prove2.me/theorems/2bc2bf9c-ded1-4552-bb1f-930cfccfb2f9

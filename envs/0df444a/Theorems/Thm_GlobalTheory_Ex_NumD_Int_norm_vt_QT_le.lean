@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Int_norm_vt_QT_le
 -- name    : GlobalTheory.Ex.NumD.Int.norm_vt_QT_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:07:07.26762+00:00
 -- url     : https://prove2.me/theorems/9db5909e-c6c4-4a92-b150-ce18ce3e4886

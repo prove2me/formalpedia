@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_universal_derivation
 -- name    : GlobalTheory.CotUniv.universal_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:27:33.055592+00:00
 -- url     : https://prove2.me/theorems/984050f2-bd8c-42e3-bae3-bda07ee567ce

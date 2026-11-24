@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetAvg_sum_translates_eq_avg
 -- name    : GlobalTheory.CosetAvg.sum_translates_eq_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:26:57.73469+00:00
 -- url     : https://prove2.me/theorems/276ffcda-3bba-4e70-8352-7475f4dae2e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContraRefl_contra_irreducible_reflexive
 -- name    : GlobalTheory.ContraRefl.contra_irreducible_reflexive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:25:59.051579+00:00
 -- url     : https://prove2.me/theorems/4c9e7e89-702e-414b-9a3a-7489d5a02b2c

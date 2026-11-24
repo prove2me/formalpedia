@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjugateAlgebraLemmas_main
 -- name    : GlobalTheory.ConjugateAlgebraLemmas.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:26.816523+00:00
 -- url     : https://prove2.me/theorems/78ea4679-dd83-4384-bfd3-c3275f6ddc0e

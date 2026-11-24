@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coordinate_haar_measure
 -- name    : GlobalTheory.T.coordinate_haar_measure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:19.552789+00:00
 -- url     : https://prove2.me/theorems/2b218f69-af8c-460b-9e98-c39735d9ff8e

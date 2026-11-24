@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_model_iff
 -- name    : GlobalTheory.DictPinCompare.model_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:18:49.811346+00:00
 -- url     : https://prove2.me/theorems/da9cb0a4-342b-41d6-8aed-bc3888e340b1

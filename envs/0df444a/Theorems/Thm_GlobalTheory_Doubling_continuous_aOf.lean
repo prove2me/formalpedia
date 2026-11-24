@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_continuous_aOf
 -- name    : GlobalTheory.Doubling.continuous_aOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:07:31.329796+00:00
 -- url     : https://prove2.me/theorems/0c00e12b-6513-4e21-a760-996a5922ceed

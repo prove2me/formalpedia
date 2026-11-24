@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinPair_secMap_apply
 -- name    : GlobalTheory.LinPair.secMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:29:42.306311+00:00
 -- url     : https://prove2.me/theorems/52737aeb-6157-42ba-a1e8-7c9dc5758be3

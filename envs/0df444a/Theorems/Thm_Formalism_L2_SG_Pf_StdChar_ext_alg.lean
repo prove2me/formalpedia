@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_StdChar_ext_alg
 -- name    : Formalism.L2.SG.Pf.StdChar.ext_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:35:50.646566+00:00
 -- url     : https://prove2.me/theorems/7c79e0e9-bd75-475a-b616-c2c672e5d60d

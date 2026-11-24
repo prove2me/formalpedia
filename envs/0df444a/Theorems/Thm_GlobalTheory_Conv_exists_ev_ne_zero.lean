@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_exists_ev_ne_zero
 -- name    : GlobalTheory.Conv.exists_ev_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:13.661939+00:00
 -- url     : https://prove2.me/theorems/5af602bd-f78b-4a7a-be31-2c9ae4e416ac

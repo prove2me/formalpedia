@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_indep_of_linearIndependent_DdRE
 -- name    : GlobalTheory.DRFil.indep_of_linearIndependent_DdRE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:27:27.935091+00:00
 -- url     : https://prove2.me/theorems/0b91fa4a-80b0-4a1d-b27d-578f712c8283

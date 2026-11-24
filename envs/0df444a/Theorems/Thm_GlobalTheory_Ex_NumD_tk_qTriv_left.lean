@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_tk_qTriv_left
 -- name    : GlobalTheory.Ex.NumD.tk_qTriv_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:06:17.499717+00:00
 -- url     : https://prove2.me/theorems/c6870674-1906-4879-8370-30fe47a3d5e1

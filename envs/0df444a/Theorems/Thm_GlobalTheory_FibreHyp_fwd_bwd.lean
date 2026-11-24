@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreHyp_fwd_bwd
 -- name    : GlobalTheory.FibreHyp.fwd_bwd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:13.938942+00:00
 -- url     : https://prove2.me/theorems/77bf170c-19a8-4920-97f5-ce8c4ec7600e

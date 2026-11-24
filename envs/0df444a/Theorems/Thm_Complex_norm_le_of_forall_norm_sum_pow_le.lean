@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Complex_norm_le_of_forall_norm_sum_pow_le
 -- name    : Complex.norm_le_of_forall_norm_sum_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T14:18:19.302295+00:00
 -- url     : https://prove2.me/theorems/c551c7a1-2672-426f-8778-75f2cbc64149

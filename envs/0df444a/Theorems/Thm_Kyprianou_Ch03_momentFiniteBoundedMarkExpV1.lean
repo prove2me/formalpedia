@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentFiniteBoundedMarkExpV1
 -- name    : Kyprianou.Ch03.momentFiniteBoundedMarkExpV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:20:17.183066+00:00
 -- url     : https://prove2.me/theorems/e046ff44-98ad-4a71-93eb-57f3beac4fbf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_InclInj
 -- name    : Formalism.UG.Final.InclInj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:14:40.924565+00:00
 -- url     : https://prove2.me/theorems/a53833f6-79a2-4e5c-a8c6-1fd86a6a9ee3

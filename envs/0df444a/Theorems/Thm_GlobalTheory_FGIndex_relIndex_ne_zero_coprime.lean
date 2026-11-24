@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FGIndex_relIndex_ne_zero_coprime
 -- name    : GlobalTheory.FGIndex.relIndex_ne_zero_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:17:45.813711+00:00
 -- url     : https://prove2.me/theorems/ca902ac4-27ea-4fca-8717-78375b97074f

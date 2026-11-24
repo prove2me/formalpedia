@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_typesSplit
 -- name    : Formalism.REAL.typesSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:13:41.316632+00:00
 -- url     : https://prove2.me/theorems/2e543b47-3ed3-43c8-ac41-75ac8767ae25

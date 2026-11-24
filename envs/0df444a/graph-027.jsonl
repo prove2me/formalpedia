@@ -46307,7 +46307,7 @@
 {"parent": "QFairEx_bb84", "child": "QFairEx_SupportedOn", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26RXFiniteBlockTransport.gradient_pair_canonical_cx_eq", "child": "QEC_Coding_FiniteAlternatingConstruction_RXFiniteBlockTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXFiniteBlockTransport.gradient_pair_canonical_cx_eq", "child": "QEC_Coding_FiniteAlternatingConstruction_RXXStarTransport", "via": ["solution", "statement"]}
-{"parent": "NuclearTensor.Membership.lemma_3_3", "child": "NuclearTensor_Membership_Optimization", "via": ["statement"]}
+{"parent": "NuclearTensor.Membership.lemma_3_3", "child": "NuclearTensor_Membership_Optimization", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.idealRowHom_prime_primary_reciprocity", "child": "OAI_NumberTheory_DirichletL_RowCompletion_ThetaNonvanishing", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.idealRowHom_prime_primary_reciprocity", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspResidues", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.idealRowHom_prime_primary_reciprocity", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ConjugateLevelAction", "via": ["solution", "statement"]}

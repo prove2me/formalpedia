@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscClass_latDisc_eq_of_mul
 -- name    : GlobalTheory.DiscClass.latDisc_eq_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:49:26.048205+00:00
 -- url     : https://prove2.me/theorems/af8c2e45-744d-4f2f-8376-3136ce784736

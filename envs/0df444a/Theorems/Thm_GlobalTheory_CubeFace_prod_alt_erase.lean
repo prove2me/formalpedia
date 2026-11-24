@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFace_prod_alt_erase
 -- name    : GlobalTheory.CubeFace.prod_alt_erase
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:59:21.508685+00:00
 -- url     : https://prove2.me/theorems/ea21410b-de46-4e26-9848-eda9079f3fb0

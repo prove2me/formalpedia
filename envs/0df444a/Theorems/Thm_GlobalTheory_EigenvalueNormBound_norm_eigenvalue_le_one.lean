@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenvalueNormBound_norm_eigenvalue_le_one
 -- name    : GlobalTheory.EigenvalueNormBound.norm_eigenvalue_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:36:46.684404+00:00
 -- url     : https://prove2.me/theorems/7822e90d-d3b8-4a77-a649-03536f568e30

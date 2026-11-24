@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_one_le_K
 -- name    : Formalism.FourierDecayAlt.P.B4.one_le_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:27:58.632794+00:00
 -- url     : https://prove2.me/theorems/2c2e8625-5793-4f8b-8d88-e3ff991133df

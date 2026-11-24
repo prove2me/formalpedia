@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_exists_le_preimage_inclusion
 -- name    : GlobalTheory.Conv.exists_le_preimage_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:25.601221+00:00
 -- url     : https://prove2.me/theorems/b6328220-e432-4a39-9bd6-7726de8d73a3

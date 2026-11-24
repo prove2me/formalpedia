@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLB_pEl_det
 -- name    : GlobalTheory.CompanionTheory.QLB.pEl_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:34:56.052888+00:00
 -- url     : https://prove2.me/theorems/72b7ec1a-6a46-425d-9821-1cc5ddac0138

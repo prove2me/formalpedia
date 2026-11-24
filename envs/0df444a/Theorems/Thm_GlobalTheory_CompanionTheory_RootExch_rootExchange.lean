@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RootExch_rootExchange
 -- name    : GlobalTheory.CompanionTheory.RootExch.rootExchange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:00:59.631475+00:00
 -- url     : https://prove2.me/theorems/15ed27c5-d1e5-46a8-9d77-bd8af0e627cd

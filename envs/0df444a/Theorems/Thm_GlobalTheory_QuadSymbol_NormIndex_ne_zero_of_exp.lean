@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_ne_zero_of_exp
 -- name    : GlobalTheory.QuadSymbol.NormIndex.ne_zero_of_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:00:24.541094+00:00
 -- url     : https://prove2.me/theorems/e8ac2c1c-c3ae-47d4-bcc7-7ba9718c86a5

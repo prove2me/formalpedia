@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_shear
 -- name    : Formalism.FourierDecayAlt.P.B2x5.shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:42:57.987295+00:00
 -- url     : https://prove2.me/theorems/db619ea5-3d1a-4582-b372-96e32597ea28

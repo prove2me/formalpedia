@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_eq_zero_of_eval_real
 -- name    : GlobalTheory.FibLine.eq_zero_of_eval_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:27.481815+00:00
 -- url     : https://prove2.me/theorems/d6dd0a1f-e91a-4aa4-a1d2-f6b25d208880

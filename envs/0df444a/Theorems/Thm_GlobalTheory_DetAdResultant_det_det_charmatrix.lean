@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetAdResultant_det_det_charmatrix
 -- name    : GlobalTheory.DetAdResultant.det_det_charmatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:43:30.336448+00:00
 -- url     : https://prove2.me/theorems/48e50cc4-93d9-4c65-9777-b2bc3dc8a011

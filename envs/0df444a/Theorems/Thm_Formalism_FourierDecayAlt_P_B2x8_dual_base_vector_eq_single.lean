@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_dual_base_vector_eq_single
 -- name    : Formalism.FourierDecayAlt.P.B2x8.dual_base_vector_eq_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:42:03.467073+00:00
 -- url     : https://prove2.me/theorems/120f2b14-c344-4d47-a409-ceb3936bdf8a

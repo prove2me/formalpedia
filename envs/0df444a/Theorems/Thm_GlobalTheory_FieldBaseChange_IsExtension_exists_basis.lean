@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_IsExtension_exists_basis
 -- name    : GlobalTheory.FieldBaseChange.IsExtension.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:24:48.39798+00:00
 -- url     : https://prove2.me/theorems/7e4bb421-1fa4-4d96-91d5-468db0e4a07e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_lim_hat_induction
 -- name    : GlobalTheory.AdLat.lim_hat_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:20:37.005189+00:00
 -- url     : https://prove2.me/theorems/8c099eef-9afc-47e3-9890-af5586060d8b

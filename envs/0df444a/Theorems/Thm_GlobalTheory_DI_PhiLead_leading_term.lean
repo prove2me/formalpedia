@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_PhiLead_leading_term
 -- name    : GlobalTheory.DI.PhiLead.leading_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:33:56.452916+00:00
 -- url     : https://prove2.me/theorems/c43432a7-ac81-44d6-90a8-b15de21687a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m812_overshoot_scaled_integral
 -- name    : Kyprianou.Ch08.StageB.p2m812_overshoot_scaled_integral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:36:42.288614+00:00
 -- url     : https://prove2.me/theorems/2fc475a3-17c1-40c2-b539-8061e4324521

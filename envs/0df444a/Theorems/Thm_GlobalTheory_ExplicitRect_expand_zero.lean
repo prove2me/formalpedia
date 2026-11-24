@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExplicitRect_expand_zero
 -- name    : GlobalTheory.ExplicitRect.expand_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:06:55.14607+00:00
 -- url     : https://prove2.me/theorems/30fb7e90-4bbe-49d4-9867-ea461a9b83e7

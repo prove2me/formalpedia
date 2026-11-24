@@ -2837,13 +2837,13 @@
 {"parent": "BerggrenFiniteSpectral.berggrenInvGenAction_injective", "child": "Bridges_BerggrenFiniteSpectral", "via": ["solution", "statement"]}
 {"parent": "BerggrenFiniteSpectral.berggren_averaging_sum_preserved", "child": "BerggrenFiniteSpectral.berggrenInvGenAction_injective", "via": ["solution"]}
 {"parent": "BerggrenFiniteSpectral.berggren_averaging_sum_preserved", "child": "Bridges_BerggrenFiniteSpectral", "via": ["solution", "statement"]}
-{"parent": "BerggrenHarmonic.IsHarmonic.cyl_eq", "child": "Bridges_BerggrenHarmonicMeasure", "via": ["statement"]}
+{"parent": "BerggrenHarmonic.IsHarmonic.cyl_eq", "child": "Bridges_BerggrenHarmonicMeasure", "via": ["solution", "statement"]}
 {"parent": "BerggrenHarmonic.ProbVec.pmf_apply", "child": "Bridges_BerggrenHarmonicMeasure", "via": ["solution", "statement"]}
 {"parent": "BerggrenHarmonic.bernoulli_cyl", "child": "BerggrenHarmonic.ProbVec.pmf_apply", "via": ["solution"]}
 {"parent": "BerggrenHarmonic.bernoulli_cyl", "child": "Bridges_BerggrenHarmonicMeasure", "via": ["solution", "statement"]}
-{"parent": "BerggrenHarmonic.bernoulli_isHarmonic", "child": "Bridges_BerggrenHarmonicMeasure", "via": ["statement"]}
-{"parent": "BerggrenHarmonic.eigenvalue_eq_zero_or_one", "child": "Bridges_BerggrenHarmonicMeasure", "via": ["statement"]}
-{"parent": "BerggrenHarmonic.eigenvalue_eq_zero_or_one", "child": "Bridges_BerggrenTransferSpectrum", "via": ["statement"]}
+{"parent": "BerggrenHarmonic.bernoulli_isHarmonic", "child": "Bridges_BerggrenHarmonicMeasure", "via": ["solution", "statement"]}
+{"parent": "BerggrenHarmonic.eigenvalue_eq_zero_or_one", "child": "Bridges_BerggrenHarmonicMeasure", "via": ["solution", "statement"]}
+{"parent": "BerggrenHarmonic.eigenvalue_eq_zero_or_one", "child": "Bridges_BerggrenTransferSpectrum", "via": ["solution", "statement"]}
 {"parent": "BerggrenHarmonic.expected_surprisal", "child": "Bridges_BerggrenBoundaryEntropy", "via": ["solution", "statement"]}
 {"parent": "BerggrenHarmonic.expected_surprisal", "child": "Bridges_BerggrenHarmonicMeasure", "via": ["solution", "statement"]}
 {"parent": "BerggrenHarmonic.log_silver_pos_lt_one", "child": "Bridges_BerggrenHarmonicMeasure", "via": ["solution", "statement"]}
@@ -3029,10 +3029,10 @@
 {"parent": "BerggrenSpectral.berg_two_eigen_dichotomy_frequency", "child": "Cryptography_BerggrenSpectral_UnipotentResonance", "via": ["solution", "statement"]}
 {"parent": "BerggrenSpectral.berg_two_eigen_iff", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["solution", "statement"]}
 {"parent": "BerggrenSpectral.berg_two_eigen_iff", "child": "Cryptography_BerggrenSpectral_LorentzAndTree", "via": ["solution", "statement"]}
-{"parent": "BerggrenSpectral.berg_two_pow_eq_one_iff", "child": "Cryptography_BerggrenSpectral_Generators", "via": ["statement"]}
-{"parent": "BerggrenSpectral.berg_two_pow_eq_one_iff", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["statement"]}
-{"parent": "BerggrenSpectral.berg_two_pow_eq_one_iff", "child": "Cryptography_BerggrenSpectral_SpectrumAndTrace", "via": ["statement"]}
-{"parent": "BerggrenSpectral.berg_two_pow_eq_one_iff", "child": "Cryptography_BerggrenSpectral_UnipotentResonance", "via": ["statement"]}
+{"parent": "BerggrenSpectral.berg_two_pow_eq_one_iff", "child": "Cryptography_BerggrenSpectral_Generators", "via": ["solution", "statement"]}
+{"parent": "BerggrenSpectral.berg_two_pow_eq_one_iff", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["solution", "statement"]}
+{"parent": "BerggrenSpectral.berg_two_pow_eq_one_iff", "child": "Cryptography_BerggrenSpectral_SpectrumAndTrace", "via": ["solution", "statement"]}
+{"parent": "BerggrenSpectral.berg_two_pow_eq_one_iff", "child": "Cryptography_BerggrenSpectral_UnipotentResonance", "via": ["solution", "statement"]}
 {"parent": "BerggrenSpectral.berg_two_resonance", "child": "BerggrenSpectral.berg_two_resonance_nqr", "via": ["solution"]}
 {"parent": "BerggrenSpectral.berg_two_resonance", "child": "BerggrenSpectral.berg_two_resonance_qr", "via": ["solution"]}
 {"parent": "BerggrenSpectral.berg_two_resonance", "child": "BerggrenSpectral.two_chi_cases", "via": ["solution"]}
@@ -3046,12 +3046,12 @@
 {"parent": "BerggrenSpectral.berg_two_resonance_mod_eight", "child": "Cryptography_BerggrenSpectral_Generators", "via": ["solution", "statement"]}
 {"parent": "BerggrenSpectral.berg_two_resonance_mod_eight", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["solution", "statement"]}
 {"parent": "BerggrenSpectral.berg_two_resonance_mod_eight", "child": "Cryptography_BerggrenSpectral_UnipotentResonance", "via": ["solution", "statement"]}
-{"parent": "BerggrenSpectral.berg_two_resonance_nqr", "child": "Cryptography_BerggrenSpectral_Generators", "via": ["statement"]}
-{"parent": "BerggrenSpectral.berg_two_resonance_nqr", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["statement"]}
-{"parent": "BerggrenSpectral.berg_two_resonance_nqr", "child": "Cryptography_BerggrenSpectral_UnipotentResonance", "via": ["statement"]}
-{"parent": "BerggrenSpectral.berg_two_resonance_qr", "child": "Cryptography_BerggrenSpectral_Generators", "via": ["statement"]}
-{"parent": "BerggrenSpectral.berg_two_resonance_qr", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["statement"]}
-{"parent": "BerggrenSpectral.berg_two_resonance_qr", "child": "Cryptography_BerggrenSpectral_UnipotentResonance", "via": ["statement"]}
+{"parent": "BerggrenSpectral.berg_two_resonance_nqr", "child": "Cryptography_BerggrenSpectral_Generators", "via": ["solution", "statement"]}
+{"parent": "BerggrenSpectral.berg_two_resonance_nqr", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["solution", "statement"]}
+{"parent": "BerggrenSpectral.berg_two_resonance_nqr", "child": "Cryptography_BerggrenSpectral_UnipotentResonance", "via": ["solution", "statement"]}
+{"parent": "BerggrenSpectral.berg_two_resonance_qr", "child": "Cryptography_BerggrenSpectral_Generators", "via": ["solution", "statement"]}
+{"parent": "BerggrenSpectral.berg_two_resonance_qr", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["solution", "statement"]}
+{"parent": "BerggrenSpectral.berg_two_resonance_qr", "child": "Cryptography_BerggrenSpectral_UnipotentResonance", "via": ["solution", "statement"]}
 {"parent": "BerggrenSpectral.det_bergW", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["solution", "statement"]}
 {"parent": "BerggrenSpectral.det_bergW", "child": "Cryptography_BerggrenSpectral_UnipotentResonance", "via": ["solution", "statement"]}
 {"parent": "BerggrenSpectral.factor_extraction", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["solution", "statement"]}
@@ -3084,9 +3084,9 @@
 {"parent": "BerggrenZeta.blocks_injective", "child": "Novelty_BerggrenTreeHyperbolicSubtree", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.blocks_injective", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.coprime_legs_of_seed", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution", "statement"]}
-{"parent": "BerggrenZeta.count_ge_silver_rpow", "child": "Novelty_BerggrenTreeCounting", "via": ["statement"]}
-{"parent": "BerggrenZeta.count_ge_silver_rpow", "child": "Novelty_BerggrenTreeCriticalLine", "via": ["statement"]}
-{"parent": "BerggrenZeta.count_ge_silver_rpow", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["statement"]}
+{"parent": "BerggrenZeta.count_ge_silver_rpow", "child": "Novelty_BerggrenTreeCounting", "via": ["solution", "statement"]}
+{"parent": "BerggrenZeta.count_ge_silver_rpow", "child": "Novelty_BerggrenTreeCriticalLine", "via": ["solution", "statement"]}
+{"parent": "BerggrenZeta.count_ge_silver_rpow", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.depth_slice_lower", "child": "BerggrenZeta.hyp_le_silver_pow", "via": ["solution"]}
 {"parent": "BerggrenZeta.depth_slice_lower", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.depth_slice_lower", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution", "statement"]}
@@ -3100,8 +3100,8 @@
 {"parent": "BerggrenZeta.hyp_block_lower", "child": "Novelty_BerggrenTreeHyperbolicSubtree", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.hyp_block_lower", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.hyp_block_lower", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution", "statement"]}
-{"parent": "BerggrenZeta.hyp_le_silver_pow", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["statement"]}
-{"parent": "BerggrenZeta.hyp_le_silver_pow", "child": "Novelty_BerggrenTreeZetaCore", "via": ["statement"]}
+{"parent": "BerggrenZeta.hyp_le_silver_pow", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["solution", "statement"]}
+{"parent": "BerggrenZeta.hyp_le_silver_pow", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.hyp_mod_four", "child": "Novelty_BerggrenTreeZetaAbscissa", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.hyp_mod_four", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.hyp_step_le_silver", "child": "BerggrenZeta.one_le_sqrt_two", "via": ["solution"]}
@@ -3118,8 +3118,8 @@
 {"parent": "BerggrenZeta.not_summable_seedTerm_of_le_one", "child": "BerggrenZeta.fibre_lower_bound", "via": ["solution"]}
 {"parent": "BerggrenZeta.not_summable_seedTerm_of_le_one", "child": "Novelty_BerggrenTreeZetaAbscissa", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.not_summable_seedTerm_of_le_one", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution", "statement"]}
-{"parent": "BerggrenZeta.not_summable_subtree", "child": "Novelty_BerggrenTreeHyperbolicSubtree", "via": ["statement"]}
-{"parent": "BerggrenZeta.not_summable_subtree", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["statement"]}
+{"parent": "BerggrenZeta.not_summable_subtree", "child": "Novelty_BerggrenTreeHyperbolicSubtree", "via": ["solution", "statement"]}
+{"parent": "BerggrenZeta.not_summable_subtree", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.one_le_sqrt_two", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.one_le_sqrt_two", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.primeNode_zeta_ge_primeSum", "child": "BerggrenZeta.exists_node_of_prime_one_mod_four", "via": ["solution"]}
@@ -3157,8 +3157,8 @@
 {"parent": "BerggrenZeta.summable_seedTerm_of_one_lt", "child": "BerggrenZeta.summable_boxTerm", "via": ["solution"]}
 {"parent": "BerggrenZeta.summable_seedTerm_of_one_lt", "child": "Novelty_BerggrenTreeZetaAbscissa", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.summable_seedTerm_of_one_lt", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution", "statement"]}
-{"parent": "BerggrenZeta.summable_subtree", "child": "Novelty_BerggrenTreeHyperbolicSubtree", "via": ["statement"]}
-{"parent": "BerggrenZeta.summable_subtree", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["statement"]}
+{"parent": "BerggrenZeta.summable_subtree", "child": "Novelty_BerggrenTreeHyperbolicSubtree", "via": ["solution", "statement"]}
+{"parent": "BerggrenZeta.summable_subtree", "child": "Novelty_BerggrenTreeSilverGrowth", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.treeZeta_abscissa_ne_silver", "child": "BerggrenZeta.treeZeta_summable_iff", "via": ["solution"]}
 {"parent": "BerggrenZeta.treeZeta_abscissa_ne_silver", "child": "Novelty_BerggrenTreeZetaAbscissa", "via": ["solution", "statement"]}
 {"parent": "BerggrenZeta.treeZeta_abscissa_ne_silver", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution", "statement"]}
@@ -7458,14 +7458,14 @@
 {"parent": "CayleyCensus.adjPow_graphAut", "child": "MachineLearning_CayleyCensusMoments", "via": ["solution", "statement"]}
 {"parent": "CayleyCensus.adj_isSymm", "child": "MachineLearning_CayleyCensusInvariance", "via": ["solution", "statement"]}
 {"parent": "CayleyCensus.adj_isSymm", "child": "MachineLearning_CayleyCensusMoments", "via": ["solution", "statement"]}
-{"parent": "CayleyCensus.card_census_image_le", "child": "MachineLearning_CayleyCensusInvariance", "via": ["statement"]}
-{"parent": "CayleyCensus.sum_walkCount", "child": "MachineLearning_CayleyCensusInvariance", "via": ["statement"]}
+{"parent": "CayleyCensus.card_census_image_le", "child": "MachineLearning_CayleyCensusInvariance", "via": ["solution", "statement"]}
+{"parent": "CayleyCensus.sum_walkCount", "child": "MachineLearning_CayleyCensusInvariance", "via": ["solution", "statement"]}
 {"parent": "CayleyCensus.walkCount_add", "child": "MachineLearning_CayleyCensusInvariance", "via": ["solution", "statement"]}
 {"parent": "CayleyCensus.walkCount_add", "child": "MachineLearning_CayleyCensusMoments", "via": ["solution", "statement"]}
-{"parent": "CayleyCensus.walkCount_conj", "child": "MachineLearning_CayleyCensusInvariance", "via": ["statement"]}
+{"parent": "CayleyCensus.walkCount_conj", "child": "MachineLearning_CayleyCensusInvariance", "via": ["solution", "statement"]}
 {"parent": "CayleyCensus.walkCount_eq_adj_pow", "child": "MachineLearning_CayleyCensusInvariance", "via": ["solution", "statement"]}
 {"parent": "CayleyCensus.walkCount_eq_adj_pow", "child": "MachineLearning_CayleyCensusMoments", "via": ["solution", "statement"]}
-{"parent": "CayleyCensus.walkCount_mulAut", "child": "MachineLearning_CayleyCensusInvariance", "via": ["statement"]}
+{"parent": "CayleyCensus.walkCount_mulAut", "child": "MachineLearning_CayleyCensusInvariance", "via": ["solution", "statement"]}
 {"parent": "CayleyCensus.walkCount_two_mul_le_walkCount_two_mul_one", "child": "CayleyCensus.walkCount_add", "via": ["solution"]}
 {"parent": "CayleyCensus.walkCount_two_mul_le_walkCount_two_mul_one", "child": "MachineLearning_CayleyCensusInvariance", "via": ["solution", "statement"]}
 {"parent": "CayleyCensus.walkCount_two_mul_le_walkCount_two_mul_one", "child": "MachineLearning_CayleyCensusMoments", "via": ["solution", "statement"]}
@@ -8596,9 +8596,9 @@
 {"parent": "Cryptography.GoodSeeds.heavy_row_lemma_general", "child": "Cryptography_GoodSeeds_Rewinding", "via": ["solution", "statement"]}
 {"parent": "Cryptography.GoodSeeds.mem_goodSeeds", "child": "Cryptography_GoodSeeds_Core", "via": ["solution", "statement"]}
 {"parent": "Cryptography.GoodSeeds.sum_cost_eq_sum_tail_card", "child": "Cryptography_GoodSeeds_Core", "via": ["solution", "statement"]}
-{"parent": "Cryptography.GradedEncoding.DecisionGame.advantage_le_of_world_gaps", "child": "Cryptography_GradedEncoding_Foundations", "via": ["statement"]}
-{"parent": "Cryptography.GradedEncoding.DecisionGame.advantage_le_of_world_gaps", "child": "Cryptography_GradedEncoding_SecurityReduction", "via": ["statement"]}
-{"parent": "Cryptography.GradedEncoding.DecisionGame.advantage_le_of_world_gaps", "child": "Cryptography_LWE_OperationalSecurity", "via": ["statement"]}
+{"parent": "Cryptography.GradedEncoding.DecisionGame.advantage_le_of_world_gaps", "child": "Cryptography_GradedEncoding_Foundations", "via": ["solution", "statement"]}
+{"parent": "Cryptography.GradedEncoding.DecisionGame.advantage_le_of_world_gaps", "child": "Cryptography_GradedEncoding_SecurityReduction", "via": ["solution", "statement"]}
+{"parent": "Cryptography.GradedEncoding.DecisionGame.advantage_le_of_world_gaps", "child": "Cryptography_LWE_OperationalSecurity", "via": ["solution", "statement"]}
 {"parent": "Cryptography.IsogenyFoundations.FreeTrans.connector_spec", "child": "Cryptography_AbstractAlgebra_IsogenyFoundations", "via": ["solution", "statement"]}
 {"parent": "Cryptography.IsogenyFoundations.FreeTrans.unique_connector", "child": "Cryptography_AbstractAlgebra_IsogenyFoundations", "via": ["solution", "statement"]}
 {"parent": "Cryptography.IsogenySIDH.backtracking_at_six_char_eleven", "child": "Cryptography_IsogenySIDH_RadicalNonBacktracking", "via": ["solution", "statement"]}
@@ -8837,26 +8837,26 @@
 {"parent": "Cryptography.TernaryReversible.singleCoordinate_classification_iff", "child": "Cryptography_TernaryReversible_General", "via": ["solution", "statement"]}
 {"parent": "Cryptography.TernaryReversible.twistRule_selfDecoder", "child": "Cryptography_TernaryReversible_Core", "via": ["solution", "statement"]}
 {"parent": "Cryptography.TernaryReversible.twistRule_selfDecoder", "child": "Cryptography_TernaryReversible_General", "via": ["solution", "statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_add_left", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_add_left", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_add_right", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_add_right", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_coords", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_coords", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_nsmul_left", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_nsmul_left", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_nsmul_right", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_nsmul_right", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_self", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_self", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_sub_left", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_sub_left", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_zero_left", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_zero_left", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_zsmul_left", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_zsmul_left", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_zsmul_right", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.AltPairing.pair_zsmul_right", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_add_left", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_add_left", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_add_right", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_add_right", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_coords", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_coords", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_nsmul_left", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_nsmul_left", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_nsmul_right", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_nsmul_right", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_self", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_self", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_sub_left", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_sub_left", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_zero_left", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_zero_left", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_zsmul_left", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_zsmul_left", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_zsmul_right", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.AltPairing.pair_zsmul_right", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
 {"parent": "Cryptography.WeilBLS.BLSParams.aggregate_verifies", "child": "Cryptography.WeilBLS.WeilPairing.bilinear_left", "via": ["solution"]}
 {"parent": "Cryptography.WeilBLS.BLSParams.aggregate_verifies", "child": "Cryptography.WeilBLS.WeilPairing.bilinear_right", "via": ["solution"]}
 {"parent": "Cryptography.WeilBLS.BLSParams.aggregate_verifies", "child": "Cryptography.WeilBLS.WeilPairing.pair_add_left", "via": ["solution"]}
@@ -8870,8 +8870,8 @@
 {"parent": "Cryptography.WeilBLS.WeilPairing.pair_self", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
 {"parent": "Cryptography.WeilBLS.WeilPairing.pair_zero_left", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
 {"parent": "Cryptography.WeilBLS.WeilPairing.pair_zero_right", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
-{"parent": "Cryptography.WeilBLS.zmod_prod_coords", "child": "Cryptography_WeilPairingBLS", "via": ["statement"]}
-{"parent": "Cryptography.WeilBLS.zmod_prod_coords", "child": "Cryptography_WeilPairingDeterminant", "via": ["statement"]}
+{"parent": "Cryptography.WeilBLS.zmod_prod_coords", "child": "Cryptography_WeilPairingBLS", "via": ["solution", "statement"]}
+{"parent": "Cryptography.WeilBLS.zmod_prod_coords", "child": "Cryptography_WeilPairingDeterminant", "via": ["solution", "statement"]}
 {"parent": "Cryptography_AsymmetricExponent_FermatLiars", "child": "Cryptography_AsymmetricExponent_Core", "via": ["statement"]}
 {"parent": "Cryptography_AsymmetricExponent_PolyTime", "child": "Cryptography_AsymmetricExponent_Core", "via": ["statement"]}
 {"parent": "Cryptography_BerggrenModular_BlumImmunity", "child": "Cryptography_BerggrenModular_Core", "via": ["statement"]}
@@ -10248,7 +10248,7 @@
 {"parent": "Differentiable.ofReal_comp_iff", "child": "DifferentiableAt.ofReal_comp_iff", "via": ["solution"]}
 {"parent": "DifferentiableAt.ofReal_comp_iff", "child": "DifferentiableAt.ofReal_comp", "via": ["solution"]}
 {"parent": "DifferentiableAt.ofReal_comp_iff", "child": "HasDerivAt.of_hasDerivAt_ofReal_comp", "via": ["solution"]}
-{"parent": "DigitalImmortality.Refined.few_small_codewords", "child": "Applications_NeuralCoding_MindEncodingRefined", "via": ["statement"]}
+{"parent": "DigitalImmortality.Refined.few_small_codewords", "child": "Applications_NeuralCoding_MindEncodingRefined", "via": ["solution", "statement"]}
 {"parent": "DigitalImmortality.uploading_energy_radius_quadratic", "child": "Novelty_MindEncodingBounds", "via": ["solution", "statement"]}
 {"parent": "DinhSharpness.ArbitrarilySharpEquivalentMinima", "child": "DinhSharpness_Model", "via": ["solution", "statement"]}
 {"parent": "DinhSharpness.DerivativeTransformation", "child": "DinhSharpness_Model", "via": ["solution", "statement"]}
@@ -10466,24 +10466,24 @@
 {"parent": "Doppelganger.tendsto_nonlocking_fraction_zero", "child": "Applications_DoppelgangerPhaseLock_Counting", "via": ["solution", "statement"]}
 {"parent": "Doppelganger.tendsto_nonlocking_fraction_zero", "child": "Doppelganger.nonlocking_fraction_le", "via": ["solution"]}
 {"parent": "DreamLogic.Topo.closed_not_iUnion_closed", "child": "Logic_DreamLogic_ClosedSetTopology", "via": ["solution", "statement"]}
-{"parent": "DualRegev.card_goodNoise", "child": "Cryptography_LWE_DualRegev", "via": ["statement"]}
-{"parent": "DualRegev.card_goodNoise", "child": "Cryptography_LWE_OperationalSecurity", "via": ["statement"]}
-{"parent": "DualRegev.card_goodNoise", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["statement"]}
-{"parent": "DualRegev.decodeBit_correct_iff", "child": "Cryptography_LWE_DualRegev", "via": ["statement"]}
-{"parent": "DualRegev.decodeBit_correct_iff", "child": "Cryptography_LWE_OperationalSecurity", "via": ["statement"]}
-{"parent": "DualRegev.decodeBit_correct_iff", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["statement"]}
-{"parent": "DualRegev.decodeBit_encodeBit_add", "child": "Cryptography_LWE_DualRegev", "via": ["statement"]}
-{"parent": "DualRegev.decodeBit_encodeBit_add", "child": "Cryptography_LWE_OperationalSecurity", "via": ["statement"]}
-{"parent": "DualRegev.decodeBit_encodeBit_add", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["statement"]}
-{"parent": "DualRegev.decode_correct_iff_goodNoise", "child": "Cryptography_LWE_DualRegev", "via": ["statement"]}
-{"parent": "DualRegev.decode_correct_iff_goodNoise", "child": "Cryptography_LWE_OperationalSecurity", "via": ["statement"]}
-{"parent": "DualRegev.decode_correct_iff_goodNoise", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["statement"]}
-{"parent": "DualRegev.noise_bound", "child": "Cryptography_LWE_DualRegev", "via": ["statement"]}
-{"parent": "DualRegev.noise_bound", "child": "Cryptography_LWE_OperationalSecurity", "via": ["statement"]}
-{"parent": "DualRegev.noise_bound", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["statement"]}
-{"parent": "DualRegev.noise_tolerance_le_half", "child": "Cryptography_LWE_DualRegev", "via": ["statement"]}
-{"parent": "DualRegev.noise_tolerance_le_half", "child": "Cryptography_LWE_OperationalSecurity", "via": ["statement"]}
-{"parent": "DualRegev.noise_tolerance_le_half", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["statement"]}
+{"parent": "DualRegev.card_goodNoise", "child": "Cryptography_LWE_DualRegev", "via": ["solution", "statement"]}
+{"parent": "DualRegev.card_goodNoise", "child": "Cryptography_LWE_OperationalSecurity", "via": ["solution", "statement"]}
+{"parent": "DualRegev.card_goodNoise", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["solution", "statement"]}
+{"parent": "DualRegev.decodeBit_correct_iff", "child": "Cryptography_LWE_DualRegev", "via": ["solution", "statement"]}
+{"parent": "DualRegev.decodeBit_correct_iff", "child": "Cryptography_LWE_OperationalSecurity", "via": ["solution", "statement"]}
+{"parent": "DualRegev.decodeBit_correct_iff", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["solution", "statement"]}
+{"parent": "DualRegev.decodeBit_encodeBit_add", "child": "Cryptography_LWE_DualRegev", "via": ["solution", "statement"]}
+{"parent": "DualRegev.decodeBit_encodeBit_add", "child": "Cryptography_LWE_OperationalSecurity", "via": ["solution", "statement"]}
+{"parent": "DualRegev.decodeBit_encodeBit_add", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["solution", "statement"]}
+{"parent": "DualRegev.decode_correct_iff_goodNoise", "child": "Cryptography_LWE_DualRegev", "via": ["solution", "statement"]}
+{"parent": "DualRegev.decode_correct_iff_goodNoise", "child": "Cryptography_LWE_OperationalSecurity", "via": ["solution", "statement"]}
+{"parent": "DualRegev.decode_correct_iff_goodNoise", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["solution", "statement"]}
+{"parent": "DualRegev.noise_bound", "child": "Cryptography_LWE_DualRegev", "via": ["solution", "statement"]}
+{"parent": "DualRegev.noise_bound", "child": "Cryptography_LWE_OperationalSecurity", "via": ["solution", "statement"]}
+{"parent": "DualRegev.noise_bound", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["solution", "statement"]}
+{"parent": "DualRegev.noise_tolerance_le_half", "child": "Cryptography_LWE_DualRegev", "via": ["solution", "statement"]}
+{"parent": "DualRegev.noise_tolerance_le_half", "child": "Cryptography_LWE_OperationalSecurity", "via": ["solution", "statement"]}
+{"parent": "DualRegev.noise_tolerance_le_half", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["solution", "statement"]}
 {"parent": "ECAFixedVariety.card_fixedSet_of_hasFixedDim", "child": "Novelty_CellularAutomataAlgebraicGeometry", "via": ["solution", "statement"]}
 {"parent": "ECAFixedVariety.card_fixedSet_of_hasFixedDim", "child": "Novelty_ECAFixedVarietyCore", "via": ["solution", "statement"]}
 {"parent": "ECAFixedVariety.constant_of_shift_one", "child": "Novelty_CellularAutomataAlgebraicGeometry", "via": ["solution", "statement"]}
@@ -26276,57 +26276,57 @@
 {"parent": "F1Tightness.twoCell_scanCost", "child": "Probability_F1TightnessSharpness", "via": ["solution", "statement"]}
 {"parent": "F1Tightness.twoCell_sum", "child": "Probability_F1TightnessCore", "via": ["solution", "statement"]}
 {"parent": "F1Tightness.twoCell_sum", "child": "Probability_F1TightnessSharpness", "via": ["solution", "statement"]}
-{"parent": "FHENoise.NoiseCkt.decrypt_evalEnc", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.decrypt_evalEnc", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.decrypt_evalEnc", "child": "Cryptography_FHE_RingLWE", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.noiseBound_le_iter", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.noiseBound_le_iter", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.noiseBound_le_iter", "child": "Cryptography_FHE_RingLWE", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.noiseBound_mono", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.noiseBound_mono", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.noiseBound_mono", "child": "Cryptography_FHE_RingLWE", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.noise_evalEnc_le", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.noise_evalEnc_le", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.noise_evalEnc_le", "child": "Cryptography_FHE_RingLWE", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.sqChain_noise_eq_iterD", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.sqChain_noise_eq_iterD", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.NoiseCkt.sqChain_noise_eq_iterD", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
+{"parent": "FHENoise.NoiseCkt.decrypt_evalEnc", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.decrypt_evalEnc", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.decrypt_evalEnc", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.noiseBound_le_iter", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.noiseBound_le_iter", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.noiseBound_le_iter", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.noiseBound_mono", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.noiseBound_mono", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.noiseBound_mono", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.noise_evalEnc_le", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.noise_evalEnc_le", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.noise_evalEnc_le", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.sqChain_noise_eq_iterD", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.sqChain_noise_eq_iterD", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.NoiseCkt.sqChain_noise_eq_iterD", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
 {"parent": "FHENoise.NoiseGauge.gamma_nonneg", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
-{"parent": "FHENoise.NoiseGauge.gamma_nu_pow_le", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
+{"parent": "FHENoise.NoiseGauge.gamma_nu_pow_le", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
 {"parent": "FHENoise.NoiseGauge.nu_le_of_sub", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
 {"parent": "FHENoise.NoiseGauge.nu_mul_le_bounds", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
 {"parent": "FHENoise.NoiseGauge.nu_mul_le_bounds", "child": "FHENoise.NoiseGauge.gamma_nonneg", "via": ["solution"]}
 {"parent": "FHENoise.NoiseGauge.nu_sum_le", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
-{"parent": "FHENoise.Schedule.depth_le_smul", "child": "Cryptography_FHE_BootstrapScheduling", "via": ["statement"]}
-{"parent": "FHENoise.Schedule.depth_le_smul", "child": "Cryptography_FHE_Bootstrapping", "via": ["statement"]}
-{"parent": "FHENoise.Schedule.depth_le_smul", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["statement"]}
-{"parent": "FHENoise.Schedule.uniform_is_optimal", "child": "Cryptography_FHE_BootstrapScheduling", "via": ["statement"]}
-{"parent": "FHENoise.Schedule.uniform_is_optimal", "child": "Cryptography_FHE_Bootstrapping", "via": ["statement"]}
-{"parent": "FHENoise.Schedule.uniform_is_optimal", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["statement"]}
-{"parent": "FHENoise.bgv_mul_noise_bound", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.bgv_mul_noise_bound", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.bgv_mul_noise_bound", "child": "Cryptography_FHE_RingLWE", "via": ["statement"]}
-{"parent": "FHENoise.bootIter_plain", "child": "Cryptography_FHE_Bootstrapping", "via": ["statement"]}
+{"parent": "FHENoise.Schedule.depth_le_smul", "child": "Cryptography_FHE_BootstrapScheduling", "via": ["solution", "statement"]}
+{"parent": "FHENoise.Schedule.depth_le_smul", "child": "Cryptography_FHE_Bootstrapping", "via": ["solution", "statement"]}
+{"parent": "FHENoise.Schedule.depth_le_smul", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["solution", "statement"]}
+{"parent": "FHENoise.Schedule.uniform_is_optimal", "child": "Cryptography_FHE_BootstrapScheduling", "via": ["solution", "statement"]}
+{"parent": "FHENoise.Schedule.uniform_is_optimal", "child": "Cryptography_FHE_Bootstrapping", "via": ["solution", "statement"]}
+{"parent": "FHENoise.Schedule.uniform_is_optimal", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["solution", "statement"]}
+{"parent": "FHENoise.bgv_mul_noise_bound", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.bgv_mul_noise_bound", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.bgv_mul_noise_bound", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
+{"parent": "FHENoise.bootIter_plain", "child": "Cryptography_FHE_Bootstrapping", "via": ["solution", "statement"]}
 {"parent": "FHENoise.bootIter_plain", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["statement"]}
-{"parent": "FHENoise.bootIter_plain", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.bootIter_plain", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
+{"parent": "FHENoise.bootIter_plain", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.bootIter_plain", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
 {"parent": "FHENoise.centered_lift", "child": "Cryptography_FHE_BGVInstantiation", "via": ["solution", "statement"]}
-{"parent": "FHENoise.exists_depth_exceeding", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["statement"]}
-{"parent": "FHENoise.exists_depth_exceeding", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.gamma_iterNoise", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.gamma_iterNoise", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.gamma_iterNoise", "child": "Cryptography_FHE_RingLWE", "via": ["statement"]}
+{"parent": "FHENoise.exists_depth_exceeding", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["solution", "statement"]}
+{"parent": "FHENoise.exists_depth_exceeding", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.gamma_iterNoise", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.gamma_iterNoise", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.gamma_iterNoise", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
 {"parent": "FHENoise.iterD_nonneg", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["solution", "statement"]}
 {"parent": "FHENoise.iterD_nonneg", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
-{"parent": "FHENoise.iterNoise_mono_depth", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.iterNoise_mono_depth", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.iterNoise_mono_depth", "child": "Cryptography_FHE_RingLWE", "via": ["statement"]}
-{"parent": "FHENoise.le_noiseStep_of_le_fixedPoint", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["statement"]}
-{"parent": "FHENoise.le_noiseStep_of_le_fixedPoint", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.noiseFixedPoint_spec", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["statement"]}
-{"parent": "FHENoise.noiseFixedPoint_spec", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.noiseStep_dichotomy", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["statement"]}
-{"parent": "FHENoise.noiseStep_dichotomy", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
+{"parent": "FHENoise.iterNoise_mono_depth", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.iterNoise_mono_depth", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.iterNoise_mono_depth", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
+{"parent": "FHENoise.le_noiseStep_of_le_fixedPoint", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["solution", "statement"]}
+{"parent": "FHENoise.le_noiseStep_of_le_fixedPoint", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.noiseFixedPoint_spec", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["solution", "statement"]}
+{"parent": "FHENoise.noiseFixedPoint_spec", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.noiseStep_dichotomy", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["solution", "statement"]}
+{"parent": "FHENoise.noiseStep_dichotomy", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
 {"parent": "FHENoise.noise_mul_le", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
 {"parent": "FHENoise.noise_mul_le", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
 {"parent": "FHENoise.noise_mul_le", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
@@ -26336,14 +26336,14 @@
 {"parent": "FHENoise.noise_relin_le", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
 {"parent": "FHENoise.noise_relin_le", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
 {"parent": "FHENoise.noise_relin_le", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
-{"parent": "FHENoise.phase_add", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.phase_add", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.phase_add", "child": "Cryptography_FHE_RingLWE", "via": ["statement"]}
-{"parent": "FHENoise.phase_mul", "child": "Cryptography_FHE_NoiseGauge", "via": ["statement"]}
-{"parent": "FHENoise.phase_mul", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
-{"parent": "FHENoise.phase_mul", "child": "Cryptography_FHE_RingLWE", "via": ["statement"]}
-{"parent": "FHENoise.tendsto_iterD_fixedPoint", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["statement"]}
-{"parent": "FHENoise.tendsto_iterD_fixedPoint", "child": "Cryptography_FHE_NoiseGrowth", "via": ["statement"]}
+{"parent": "FHENoise.phase_add", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.phase_add", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.phase_add", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
+{"parent": "FHENoise.phase_mul", "child": "Cryptography_FHE_NoiseGauge", "via": ["solution", "statement"]}
+{"parent": "FHENoise.phase_mul", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
+{"parent": "FHENoise.phase_mul", "child": "Cryptography_FHE_RingLWE", "via": ["solution", "statement"]}
+{"parent": "FHENoise.tendsto_iterD_fixedPoint", "child": "Cryptography_FHE_NoiseDichotomy", "via": ["solution", "statement"]}
+{"parent": "FHENoise.tendsto_iterD_fixedPoint", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution", "statement"]}
 {"parent": "FINAL.Homology.fundamentalGroupoid_equiv_of_homotopyEquiv", "child": "Novelty_Homology", "via": ["solution", "statement"]}
 {"parent": "FINAL.Topology.homotopyEquiv_trans_of_base", "child": "Novelty_Topology", "via": ["solution", "statement"]}
 {"parent": "FactorLocationBarriers.divisor_pair_straddles_corner", "child": "Tropical_FactorLocationBarriers", "via": ["solution", "statement"]}
@@ -27937,15 +27937,15 @@
 {"parent": "GrokkingNextCycle.hatNet_failure_not_convex", "child": "MachineLearning_GrokkingDelayedTransition_GradientFlowThreshold", "via": ["solution", "statement"]}
 {"parent": "GrokkingNextCycle.hatNet_failure_not_convex", "child": "MachineLearning_GrokkingDelayedTransition_NextCycle", "via": ["solution", "statement"]}
 {"parent": "GrokkingNextCycle.hatNet_failure_not_convex", "child": "MachineLearning_GrokkingDelayedTransition_VectorMargin", "via": ["solution", "statement"]}
-{"parent": "GrokkingNextCycle.hatNet_failure_set", "child": "MachineLearning_GrokkingDelayedTransition_GradientFlowThreshold", "via": ["statement"]}
-{"parent": "GrokkingNextCycle.hatNet_failure_set", "child": "MachineLearning_GrokkingDelayedTransition_NextCycle", "via": ["statement"]}
-{"parent": "GrokkingNextCycle.hatNet_failure_set", "child": "MachineLearning_GrokkingDelayedTransition_VectorMargin", "via": ["statement"]}
+{"parent": "GrokkingNextCycle.hatNet_failure_set", "child": "MachineLearning_GrokkingDelayedTransition_GradientFlowThreshold", "via": ["solution", "statement"]}
+{"parent": "GrokkingNextCycle.hatNet_failure_set", "child": "MachineLearning_GrokkingDelayedTransition_NextCycle", "via": ["solution", "statement"]}
+{"parent": "GrokkingNextCycle.hatNet_failure_set", "child": "MachineLearning_GrokkingDelayedTransition_VectorMargin", "via": ["solution", "statement"]}
 {"parent": "GrokkingNextCycle.perturbed_threshold_shift_exact", "child": "MachineLearning_GrokkingDelayedTransition_GradientFlowThreshold", "via": ["solution", "statement"]}
 {"parent": "GrokkingNextCycle.perturbed_threshold_shift_exact", "child": "MachineLearning_GrokkingDelayedTransition_NextCycle", "via": ["solution", "statement"]}
 {"parent": "GrokkingNextCycle.perturbed_threshold_shift_exact", "child": "MachineLearning_GrokkingDelayedTransition_VectorMargin", "via": ["solution", "statement"]}
-{"parent": "GrokkingNextCycle.symNet_sharp_threshold", "child": "MachineLearning_GrokkingDelayedTransition_GradientFlowThreshold", "via": ["statement"]}
-{"parent": "GrokkingNextCycle.symNet_sharp_threshold", "child": "MachineLearning_GrokkingDelayedTransition_NextCycle", "via": ["statement"]}
-{"parent": "GrokkingNextCycle.symNet_sharp_threshold", "child": "MachineLearning_GrokkingDelayedTransition_VectorMargin", "via": ["statement"]}
+{"parent": "GrokkingNextCycle.symNet_sharp_threshold", "child": "MachineLearning_GrokkingDelayedTransition_GradientFlowThreshold", "via": ["solution", "statement"]}
+{"parent": "GrokkingNextCycle.symNet_sharp_threshold", "child": "MachineLearning_GrokkingDelayedTransition_NextCycle", "via": ["solution", "statement"]}
+{"parent": "GrokkingNextCycle.symNet_sharp_threshold", "child": "MachineLearning_GrokkingDelayedTransition_VectorMargin", "via": ["solution", "statement"]}
 {"parent": "GrokkingPhaseTransition.delayed_transition_positive_branches", "child": "MachineLearning_GrokkingPhaseTransition", "via": ["solution", "statement"]}
 {"parent": "GrokkingTraining.crossTime_diverges_at_criticality", "child": "GrokkingTraining.crossTime_lower_bound", "via": ["solution"]}
 {"parent": "GrokkingTraining.crossTime_diverges_at_criticality", "child": "MachineLearning_GrokkingDelayedTransition_GradientFlowThreshold", "via": ["solution", "statement"]}
@@ -29130,15 +29130,15 @@
 {"parent": "HyperbolicBerggrenGeodesics.euler_two_representations_factor", "child": "HyperbolicBerggrenGeodesics.repr_dot_lt", "via": ["solution"]}
 {"parent": "HyperbolicBerggrenGeodesics.gcd_add_ten_eq_five", "child": "Geometry_HyperbolicBerggrenGeodesics", "via": ["solution", "statement"]}
 {"parent": "HyperbolicBerggrenGeodesics.gcd_add_ten_eq_five", "child": "Geometry_HyperbolicBerggrenGeodesicsII", "via": ["solution", "statement"]}
-{"parent": "HyperbolicBerggrenGeodesics.hpoint_injective", "child": "Geometry_HyperbolicBerggrenGeodesics", "via": ["statement"]}
-{"parent": "HyperbolicBerggrenGeodesics.hpoint_injective", "child": "Geometry_HyperbolicBerggrenGeodesicsII", "via": ["statement"]}
+{"parent": "HyperbolicBerggrenGeodesics.hpoint_injective", "child": "Geometry_HyperbolicBerggrenGeodesics", "via": ["solution", "statement"]}
+{"parent": "HyperbolicBerggrenGeodesics.hpoint_injective", "child": "Geometry_HyperbolicBerggrenGeodesicsII", "via": ["solution", "statement"]}
 {"parent": "HyperbolicBerggrenGeodesics.hyperbolic_ball_quadratic_growth", "child": "Geometry_HyperbolicBerggrenDensity", "via": ["solution", "statement"]}
 {"parent": "HyperbolicBerggrenGeodesics.hyperbolic_ball_quadratic_growth", "child": "Geometry_HyperbolicBerggrenGeodesics", "via": ["solution"]}
 {"parent": "HyperbolicBerggrenGeodesics.hyperbolic_ball_quadratic_growth", "child": "Geometry_HyperbolicBerggrenGeodesicsII", "via": ["solution", "statement"]}
 {"parent": "HyperbolicBerggrenGeodesics.hyperbolic_ball_quadratic_growth", "child": "HyperbolicBerggrenGeodesics.card_seedBox_lower", "via": ["solution"]}
 {"parent": "HyperbolicBerggrenGeodesics.hyperbolic_ball_quadratic_growth", "child": "HyperbolicBerggrenGeodesics.hpoint_injective", "via": ["solution"]}
 {"parent": "HyperbolicBerggrenGeodesics.hyperbolic_ball_quadratic_growth", "child": "HyperbolicBerggrenGeodesics.nodePoint_dist_le", "via": ["solution"]}
-{"parent": "HyperbolicBerggrenGeodesics.hyperbolic_ball_volume_growth", "child": "Geometry_HyperbolicBerggrenGeodesics", "via": ["statement"]}
+{"parent": "HyperbolicBerggrenGeodesics.hyperbolic_ball_volume_growth", "child": "Geometry_HyperbolicBerggrenGeodesics", "via": ["solution", "statement"]}
 {"parent": "HyperbolicBerggrenGeodesics.hyperbolic_dist_eq_half_log_hypotenuse", "child": "Geometry_HyperbolicBerggrenGeodesics", "via": ["solution", "statement"]}
 {"parent": "HyperbolicBerggrenGeodesics.hyperbolic_dist_eq_half_log_hypotenuse", "child": "HyperbolicBerggrenGeodesics.cosh_dist_hpoint_I", "via": ["solution"]}
 {"parent": "HyperbolicBerggrenGeodesics.hyperbolic_dist_eq_half_log_hypotenuse", "child": "HyperbolicBerggrenGeodesics.log_cosh_sandwich", "via": ["solution"]}
@@ -31980,15 +31980,15 @@
 {"parent": "LFunctionUniverse.census_mono", "child": "Applications_LFunctionUniverse_SelbergCensus", "via": ["solution", "statement"]}
 {"parent": "LFunctionUniverse.complex_coefficient_sequences_not_countable", "child": "Applications_LFunctionUniverse_Synthesis", "via": ["solution", "statement"]}
 {"parent": "LFunctionUniverse.periodicSeq_countable", "child": "Applications_LFunctionUniverse_PeriodicUniverse", "via": ["solution", "statement"]}
-{"parent": "LWE.indCPA_of_symmetric_lwe_hybrids", "child": "Cryptography_LWE_INDCPA", "via": ["statement"]}
-{"parent": "LWEOperational.boolean_distinguisher_advantage", "child": "Cryptography_LWE_OperationalSecurity", "via": ["statement"]}
-{"parent": "LWEOperational.expectation_sub_le_l1Gap", "child": "Cryptography_LWE_OperationalSecurity", "via": ["statement"]}
-{"parent": "LWEReduction.dotHom_surjective", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["statement"]}
-{"parent": "LWEReduction.dotHom_surjective", "child": "Cryptography_LWE_SelfReductionAndSmudging", "via": ["statement"]}
-{"parent": "LWEReduction.dot_kernel_card_general", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["statement"]}
-{"parent": "LWEReduction.dot_kernel_card_general", "child": "Cryptography_LWE_SelfReductionAndSmudging", "via": ["statement"]}
-{"parent": "LWEReduction.smudging_l1_eq", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["statement"]}
-{"parent": "LWEReduction.smudging_l1_eq", "child": "Cryptography_LWE_SelfReductionAndSmudging", "via": ["statement"]}
+{"parent": "LWE.indCPA_of_symmetric_lwe_hybrids", "child": "Cryptography_LWE_INDCPA", "via": ["solution", "statement"]}
+{"parent": "LWEOperational.boolean_distinguisher_advantage", "child": "Cryptography_LWE_OperationalSecurity", "via": ["solution", "statement"]}
+{"parent": "LWEOperational.expectation_sub_le_l1Gap", "child": "Cryptography_LWE_OperationalSecurity", "via": ["solution", "statement"]}
+{"parent": "LWEReduction.dotHom_surjective", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["solution", "statement"]}
+{"parent": "LWEReduction.dotHom_surjective", "child": "Cryptography_LWE_SelfReductionAndSmudging", "via": ["solution", "statement"]}
+{"parent": "LWEReduction.dot_kernel_card_general", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["solution", "statement"]}
+{"parent": "LWEReduction.dot_kernel_card_general", "child": "Cryptography_LWE_SelfReductionAndSmudging", "via": ["solution", "statement"]}
+{"parent": "LWEReduction.smudging_l1_eq", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["solution", "statement"]}
+{"parent": "LWEReduction.smudging_l1_eq", "child": "Cryptography_LWE_SelfReductionAndSmudging", "via": ["solution", "statement"]}
 {"parent": "LabelEntropy.D_eq", "child": "Applications_LabelEntropyDeficit", "via": ["solution", "statement"]}
 {"parent": "LabelEntropy.D_nonneg", "child": "Applications_LabelEntropyDeficit", "via": ["solution", "statement"]}
 {"parent": "LabelEntropy.D_nonneg", "child": "LabelEntropy.D_eq", "via": ["solution"]}
@@ -37577,9 +37577,9 @@
 {"parent": "PadicBerggren.card_nullCone_nonzero", "child": "Geometry_PadicBerggrenDynamics", "via": ["solution", "statement"]}
 {"parent": "PadicBerggren.card_nullCone_nonzero", "child": "Geometry_PadicBerggrenNullCone", "via": ["solution", "statement"]}
 {"parent": "PadicBerggren.card_nullCone_nonzero", "child": "PadicBerggren.card_nullCone_fiber", "via": ["solution"]}
-{"parent": "PadicBerggren.fixedPoint_dichotomy", "child": "Geometry_PadicBerggrenDynamics", "via": ["statement"]}
-{"parent": "PadicBerggren.fixedPoint_dichotomy", "child": "Geometry_PadicBerggrenNullCone", "via": ["statement"]}
-{"parent": "PadicBerggren.lift_step", "child": "Geometry_PadicBerggrenDynamics", "via": ["statement"]}
+{"parent": "PadicBerggren.fixedPoint_dichotomy", "child": "Geometry_PadicBerggrenDynamics", "via": ["solution", "statement"]}
+{"parent": "PadicBerggren.fixedPoint_dichotomy", "child": "Geometry_PadicBerggrenNullCone", "via": ["solution", "statement"]}
+{"parent": "PadicBerggren.lift_step", "child": "Geometry_PadicBerggrenDynamics", "via": ["solution", "statement"]}
 {"parent": "PadicBerggren.lorentz_wordMat", "child": "Geometry_PadicBerggrenDynamics", "via": ["solution", "statement"]}
 {"parent": "PadicBerggren.pow_one_add_eq", "child": "Geometry_PadicBerggrenDynamics", "via": ["solution", "statement"]}
 {"parent": "PadicBerggren.pow_unipotent_formula", "child": "Geometry_PadicBerggrenDynamics", "via": ["solution", "statement"]}
@@ -39223,8 +39223,8 @@
 {"parent": "PythHydra.exists_addr", "child": "Geometry_PythagoreanHydra_BerggrenAddress", "via": ["solution", "statement"]}
 {"parent": "PythHydra.exists_addr", "child": "Geometry_PythagoreanHydra_BerggrenDescent", "via": ["solution", "statement"]}
 {"parent": "PythHydra.exists_addr", "child": "PythHydra.exists_addr_of_reach", "via": ["solution"]}
-{"parent": "PythHydra.exists_addr_of_reach", "child": "Geometry_PythagoreanHydra_BerggrenAddress", "via": ["statement"]}
-{"parent": "PythHydra.exists_addr_of_reach", "child": "Geometry_PythagoreanHydra_BerggrenDescent", "via": ["statement"]}
+{"parent": "PythHydra.exists_addr_of_reach", "child": "Geometry_PythagoreanHydra_BerggrenAddress", "via": ["solution", "statement"]}
+{"parent": "PythHydra.exists_addr_of_reach", "child": "Geometry_PythagoreanHydra_BerggrenDescent", "via": ["solution", "statement"]}
 {"parent": "PythHydra.exists_maximal_battle", "child": "Geometry_PythagoreanHydra_HydraCalibration", "via": ["solution", "statement"]}
 {"parent": "PythHydra.exists_maximal_battle", "child": "Geometry_PythagoreanHydra_HydraDepth", "via": ["solution", "statement"]}
 {"parent": "PythHydra.exists_maximal_battle", "child": "Geometry_PythagoreanHydra_HydraGame", "via": ["solution", "statement"]}
@@ -44205,80 +44205,80 @@
 {"parent": "Singmaster.two_pow_le_choose", "child": "Combinatorics_SingmasterOccurrences", "via": ["solution", "statement"]}
 {"parent": "Singmaster.two_pow_le_choose", "child": "Singmaster.choose_lt_choose_left", "via": ["solution"]}
 {"parent": "Singmaster.two_pow_le_choose", "child": "Singmaster.two_pow_le_centralBinom", "via": ["solution"]}
-{"parent": "SingularModuli.H15_monic", "child": "Cryptography_SingularModuli_Experiments", "via": ["statement"]}
-{"parent": "SingularModuli.H15_monic", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.H15_natDegree", "child": "Cryptography_SingularModuli_Experiments", "via": ["statement"]}
-{"parent": "SingularModuli.H15_natDegree", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.card_filter_xor_prod", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.card_filter_xor_prod", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
+{"parent": "SingularModuli.H15_monic", "child": "Cryptography_SingularModuli_Experiments", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.H15_monic", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.H15_natDegree", "child": "Cryptography_SingularModuli_Experiments", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.H15_natDegree", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.card_filter_xor_prod", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.card_filter_xor_prod", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.card_goodSet", "child": "Geometry_SingularModuliCore", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.card_goodSet_eq_card_preimage", "child": "Geometry_SingularModuliCore", "via": ["solution", "statement"]}
-{"parent": "SingularModuli.card_range_filter_crt", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.card_range_filter_crt", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.evalGcd_nontrivialDivisor_iff", "child": "Cryptography_FactoringBarriers_CongruenceOfSquares", "via": ["statement"]}
-{"parent": "SingularModuli.evalGcd_nontrivialDivisor_iff", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.expected_trials_ge", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
+{"parent": "SingularModuli.card_range_filter_crt", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.card_range_filter_crt", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.evalGcd_nontrivialDivisor_iff", "child": "Cryptography_FactoringBarriers_CongruenceOfSquares", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.evalGcd_nontrivialDivisor_iff", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.expected_trials_ge", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.expected_trials_ge", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.expected_trials_le", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
+{"parent": "SingularModuli.expected_trials_le", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.expected_trials_le", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.factor_77", "child": "Cryptography_SingularModuli_Experiments", "via": ["statement"]}
-{"parent": "SingularModuli.factor_77", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.factor_77", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.finite_family_table_fails", "child": "Cryptography_FactoringBarriers_CongruenceOfSquares", "via": ["statement"]}
-{"parent": "SingularModuli.finite_family_table_fails", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.finite_family_table_fails", "child": "Cryptography_SingularModuli_PrecomputationBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.finite_family_table_fails", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
+{"parent": "SingularModuli.factor_77", "child": "Cryptography_SingularModuli_Experiments", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.factor_77", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.factor_77", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.finite_family_table_fails", "child": "Cryptography_FactoringBarriers_CongruenceOfSquares", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.finite_family_table_fails", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.finite_family_table_fails", "child": "Cryptography_SingularModuli_PrecomputationBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.finite_family_table_fails", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.gcd_mul_prime_eq", "child": "Geometry_SingularModuliCore", "via": ["solution", "statement"]}
-{"parent": "SingularModuli.multiDiscriminant_successDensity_le_balanced", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.multiDiscriminant_successDensity_le_balanced", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.precomputed_table_fails", "child": "Cryptography_FactoringBarriers_CongruenceOfSquares", "via": ["statement"]}
-{"parent": "SingularModuli.precomputed_table_fails", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.precomputed_table_fails", "child": "Cryptography_SingularModuli_PrecomputationBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.precomputed_table_fails", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.precomputed_table_returns_one", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.precomputed_table_returns_one", "child": "Cryptography_SingularModuli_PrecomputationBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.precomputed_table_returns_one", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.rootCount_H15_13", "child": "Cryptography_SingularModuli_Experiments", "via": ["statement"]}
-{"parent": "SingularModuli.rootCount_H15_13", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.rootCount_H15_13", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.rootCount_H15_17", "child": "Cryptography_SingularModuli_Experiments", "via": ["statement"]}
-{"parent": "SingularModuli.rootCount_H15_17", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.rootCount_H15_17", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.rootCount_le_natDegree", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.rootCount_le_natDegree", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.singularModuli_blind_of_no_roots", "child": "Cryptography_FactoringBarriers_CongruenceOfSquares", "via": ["statement"]}
-{"parent": "SingularModuli.singularModuli_blind_of_no_roots", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.smCost_not_polyBounded", "child": "Cryptography_FactoringBarriers_AsymptoticLadder", "via": ["statement"]}
+{"parent": "SingularModuli.multiDiscriminant_successDensity_le_balanced", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.multiDiscriminant_successDensity_le_balanced", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.precomputed_table_fails", "child": "Cryptography_FactoringBarriers_CongruenceOfSquares", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.precomputed_table_fails", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.precomputed_table_fails", "child": "Cryptography_SingularModuli_PrecomputationBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.precomputed_table_fails", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.precomputed_table_returns_one", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.precomputed_table_returns_one", "child": "Cryptography_SingularModuli_PrecomputationBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.precomputed_table_returns_one", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.rootCount_H15_13", "child": "Cryptography_SingularModuli_Experiments", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.rootCount_H15_13", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.rootCount_H15_13", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.rootCount_H15_17", "child": "Cryptography_SingularModuli_Experiments", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.rootCount_H15_17", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.rootCount_H15_17", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.rootCount_le_natDegree", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.rootCount_le_natDegree", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.singularModuli_blind_of_no_roots", "child": "Cryptography_FactoringBarriers_CongruenceOfSquares", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.singularModuli_blind_of_no_roots", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.smCost_not_polyBounded", "child": "Cryptography_FactoringBarriers_AsymptoticLadder", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.smCost_not_polyBounded", "child": "Cryptography_FactoringBarriers_Capstone", "via": ["statement"]}
-{"parent": "SingularModuli.smCost_not_polyBounded", "child": "Cryptography_SingularModuli_ExponentialRung", "via": ["statement"]}
+{"parent": "SingularModuli.smCost_not_polyBounded", "child": "Cryptography_SingularModuli_ExponentialRung", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.smCost_not_polyBounded", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.smCost_not_subexp", "child": "Cryptography_FactoringBarriers_AsymptoticLadder", "via": ["statement"]}
+{"parent": "SingularModuli.smCost_not_subexp", "child": "Cryptography_FactoringBarriers_AsymptoticLadder", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.smCost_not_subexp", "child": "Cryptography_FactoringBarriers_Capstone", "via": ["statement"]}
-{"parent": "SingularModuli.smCost_not_subexp", "child": "Cryptography_SingularModuli_ExponentialRung", "via": ["statement"]}
+{"parent": "SingularModuli.smCost_not_subexp", "child": "Cryptography_SingularModuli_ExponentialRung", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.smCost_not_subexp", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.smCost_superpoly", "child": "Cryptography_FactoringBarriers_AsymptoticLadder", "via": ["statement"]}
+{"parent": "SingularModuli.smCost_superpoly", "child": "Cryptography_FactoringBarriers_AsymptoticLadder", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.smCost_superpoly", "child": "Cryptography_FactoringBarriers_Capstone", "via": ["statement"]}
-{"parent": "SingularModuli.smCost_superpoly", "child": "Cryptography_SingularModuli_ExponentialRung", "via": ["statement"]}
+{"parent": "SingularModuli.smCost_superpoly", "child": "Cryptography_SingularModuli_ExponentialRung", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.smCost_superpoly", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.sqrt_scaling_two_sided", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
+{"parent": "SingularModuli.sqrt_scaling_two_sided", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.sqrt_scaling_two_sided", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.successCount_H15_221", "child": "Cryptography_SingularModuli_Experiments", "via": ["statement"]}
-{"parent": "SingularModuli.successCount_H15_221", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.successCount_H15_221", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.successCount_H15_77", "child": "Cryptography_SingularModuli_Experiments", "via": ["statement"]}
-{"parent": "SingularModuli.successCount_H15_77", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.successCount_H15_77", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.successCount_eq", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.successCount_eq", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.successCount_le", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["statement"]}
-{"parent": "SingularModuli.successCount_le", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.successDensity_le", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
+{"parent": "SingularModuli.successCount_H15_221", "child": "Cryptography_SingularModuli_Experiments", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successCount_H15_221", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successCount_H15_221", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successCount_H15_77", "child": "Cryptography_SingularModuli_Experiments", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successCount_H15_77", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successCount_H15_77", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successCount_eq", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successCount_eq", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successCount_le", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successCount_le", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successDensity_le", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.successDensity_le", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.successDensity_le_balanced", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
+{"parent": "SingularModuli.successDensity_le_balanced", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.successDensity_le_balanced", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.successPairs_card_le", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
-{"parent": "SingularModuli.successPairs_card_le", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
-{"parent": "SingularModuli.total_work_ge", "child": "Cryptography_SingularModuli_RootCount", "via": ["statement"]}
+{"parent": "SingularModuli.successPairs_card_le", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.successPairs_card_le", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["solution", "statement"]}
+{"parent": "SingularModuli.total_work_ge", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution", "statement"]}
 {"parent": "SingularModuli.total_work_ge", "child": "Cryptography_SingularModuli_SqrtBarrier", "via": ["statement"]}
 {"parent": "SmaleNinth.exists_minimal_face_point", "child": "Polyhedron", "via": ["solution", "statement"]}
 {"parent": "SmaleNinth.integer_subsystem_solution_bound", "child": "Polyhedron", "via": ["solution", "statement"]}
@@ -52084,7 +52084,7 @@
 {"parent": "a0_implies_tangent_sampling_talagrand_increment_and_variance_bounds_min", "child": "tangent_sampling_talagrand_increment_bound_from_coordinate_bound_min", "via": ["solution", "statement"]}
 {"parent": "a0_implies_tangent_sampling_talagrand_increment_and_variance_bounds_min", "child": "tangent_sampling_talagrand_variance_bound_from_coordinate_bound_min", "via": ["solution", "statement"]}
 {"parent": "a0_singular_coordinate_energy_bounds", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
-{"parent": "actGen_generator_determined", "child": "Cryptography_PosetTheory_BerggrenGreenIncomparability", "via": ["statement"]}
+{"parent": "actGen_generator_determined", "child": "Cryptography_PosetTheory_BerggrenGreenIncomparability", "via": ["solution", "statement"]}
 {"parent": "actGen_injective", "child": "Cryptography_PosetTheory_BerggrenGreenIncomparability", "via": ["solution", "statement"]}
 {"parent": "actGen_preserves_valid", "child": "Cryptography_PosetTheory_BerggrenGreenIncomparability", "via": ["solution", "statement"]}
 {"parent": "addSelf_eq_image_sym2", "child": "Shared_SidonSetsErdosTuran", "via": ["solution", "statement"]}
@@ -52570,7 +52570,7 @@
 {"parent": "crystallize_fixed_points", "child": "Evergreen_QuantumTransformer_Moonshots", "via": ["solution", "statement"]}
 {"parent": "crystallize_pushes_apart", "child": "Evergreen_QuantumTransformer_Moonshots", "via": ["solution", "statement"]}
 {"parent": "curvatureProfile_antitone", "child": "Bridges_ClosureEntropicGravityDuality", "via": ["solution", "statement"]}
-{"parent": "dark_mass_conservation", "child": "Bridges_BerggrenTrees_ArithmeticDarkMatter", "via": ["statement"]}
+{"parent": "dark_mass_conservation", "child": "Bridges_BerggrenTrees_ArithmeticDarkMatter", "via": ["solution", "statement"]}
 {"parent": "degree_sum_eq_twice_ovDegree", "child": "Bridges_TropicalAlgebra_OverlapSpectrumTheory", "via": ["solution", "statement"]}
 {"parent": "denote_renameTerm", "child": "Bridges_PosetTheory_HigherOrderEqSat", "via": ["solution", "statement"]}
 {"parent": "denote_substTerm", "child": "Bridges_PosetTheory_HigherOrderEqSat", "via": ["solution", "statement"]}
@@ -54569,7 +54569,7 @@
 {"parent": "schatten_norm_two_eq_frobenius", "child": "matrix_completion_schatten", "via": ["solution", "statement"]}
 {"parent": "schatten_norm_two_eq_frobenius", "child": "matrix_completion_tangent", "via": ["solution", "statement"]}
 {"parent": "schatten_norm_zero", "child": "matrix_completion_schatten", "via": ["solution", "statement"]}
-{"parent": "search_to_decision_advantage_bound", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["statement"]}
+{"parent": "search_to_decision_advantage_bound", "child": "Cryptography_LWE_SearchDecisionCore", "via": ["solution", "statement"]}
 {"parent": "second_incompleteness_analog", "child": "Logic_StrangeLoops_Core", "via": ["solution", "statement"]}
 {"parent": "second_neumann_certificate_term_as_normal_projection_of_quadratic_correction", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "second_neumann_certificate_term_as_normal_projection_of_quadratic_correction", "child": "tangent_projection_algebra", "via": ["solution"]}
@@ -89615,3 +89615,29 @@
 {"parent": "Erdos390.Full.PaperBridgeFit.BridgeData.boxIndependent_canonicalRaw_nonstepPower_inputs_compact", "child": "Erdos390.Full.PaperBridgeFit.BridgeData.exists_eventually_canonicalPhysical_powerCorrection_row_compact", "via": ["solution"]}
 {"parent": "Erdos390.Full.PaperBridgeFit.BridgeData.boxIndependent_canonicalRaw_nonstepPower_inputs_compact", "child": "Erdos390.Full.DickmanBasic.kernel_product_bound", "via": ["solution"]}
 {"parent": "Erdos390.Full.PaperBridgeFit.BridgeData.boxIndependent_canonicalRaw_nonstepPower_inputs_compact", "child": "Erdos390.Full.PaperBridgeFit.BridgeData.tendsto_guardPowerCorrectionWeightedMajorant_mul_logL_zero", "via": ["solution"]}
+{"parent": "BerggrenSpectral.berg_two_eigen_dichotomy_frequency", "child": "Cryptography_BerggrenSpectral_SpectrumAndTrace", "via": ["solution"]}
+{"parent": "BerggrenSpectral.berg_two_eigen_dichotomy_frequency", "child": "Cryptography_BerggrenSpectral_HyperbolicResonance", "via": ["solution"]}
+{"parent": "BerggrenZeta.count_ge_silver_rpow", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution"]}
+{"parent": "BerggrenZeta.not_summable_subtree", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution"]}
+{"parent": "BerggrenZeta.summable_subtree", "child": "Novelty_BerggrenTreeZetaCore", "via": ["solution"]}
+{"parent": "CayleyCensus.adjPow_graphAut", "child": "MachineLearning_CayleyCensusInvariance", "via": ["solution"]}
+{"parent": "CayleyCensus.card_census_image_le", "child": "MachineLearning_CayleyCensusMoments", "via": ["solution"]}
+{"parent": "CayleyCensus.sum_walkCount", "child": "MachineLearning_CayleyCensusMoments", "via": ["solution"]}
+{"parent": "CayleyCensus.walkCount_conj", "child": "MachineLearning_CayleyCensusMoments", "via": ["solution"]}
+{"parent": "CayleyCensus.walkCount_mulAut", "child": "MachineLearning_CayleyCensusMoments", "via": ["solution"]}
+{"parent": "FHENoise.NoiseGauge.gamma_nu_pow_le", "child": "Cryptography_FHE_RingLWE", "via": ["solution"]}
+{"parent": "FHENoise.NoiseGauge.gamma_nu_pow_le", "child": "Cryptography_FHE_NoiseGrowth", "via": ["solution"]}
+{"parent": "FHENoise.bootIter_plain", "child": "Cryptography_FHE_RingLWE", "via": ["solution"]}
+{"parent": "SingularModuli.expected_trials_ge", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
+{"parent": "SingularModuli.expected_trials_le", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
+{"parent": "SingularModuli.factor_77", "child": "Cryptography_SingularModuli_RootCount", "via": ["solution"]}
+{"parent": "SingularModuli.multiDiscriminant_successDensity_le_balanced", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
+{"parent": "SingularModuli.precomputed_table_returns_one", "child": "Cryptography_FactoringBarriers_CongruenceOfSquares", "via": ["solution"]}
+{"parent": "SingularModuli.rootCount_H15_13", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
+{"parent": "SingularModuli.rootCount_H15_17", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
+{"parent": "SingularModuli.sqrt_scaling_two_sided", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
+{"parent": "SingularModuli.successCount_H15_221", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
+{"parent": "SingularModuli.successCount_H15_77", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
+{"parent": "SingularModuli.successDensity_le", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
+{"parent": "SingularModuli.successDensity_le_balanced", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
+{"parent": "SingularModuli.total_work_ge", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}

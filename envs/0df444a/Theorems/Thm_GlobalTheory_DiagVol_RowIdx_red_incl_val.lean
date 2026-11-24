@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_RowIdx_red_incl_val
 -- name    : GlobalTheory.DiagVol.RowIdx.red_incl_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:28.14382+00:00
 -- url     : https://prove2.me/theorems/55d97ff5-789b-4934-810d-ecd3d4df873d

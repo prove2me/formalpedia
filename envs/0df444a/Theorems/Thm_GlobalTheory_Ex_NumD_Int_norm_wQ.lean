@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Int_norm_wQ
 -- name    : GlobalTheory.Ex.NumD.Int.norm_wQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:07:18.05594+00:00
 -- url     : https://prove2.me/theorems/0dc0f166-6f97-4d38-bcd7-767db11317d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreHyp_range_comap_rhoK
 -- name    : GlobalTheory.FibreHyp.range_comap_rhoK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:54.3302+00:00
 -- url     : https://prove2.me/theorems/6ef5bdb6-1934-4fee-8873-4b141289da8b

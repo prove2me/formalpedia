@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibrePowerProper_isProper_hom_of_iso
 -- name    : GlobalTheory.FibrePowerProper.isProper_hom_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:36.149312+00:00
 -- url     : https://prove2.me/theorems/280ee8ef-437b-4dde-9fab-4a1ae9fa4611

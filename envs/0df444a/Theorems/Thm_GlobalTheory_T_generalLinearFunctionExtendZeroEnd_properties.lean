@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_generalLinearFunctionExtendZeroEnd_properties
 -- name    : GlobalTheory.T.generalLinearFunctionExtendZeroEnd_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:23:50.869522+00:00
 -- url     : https://prove2.me/theorems/6c4c0ebf-2f88-4585-94a6-717370150fa0

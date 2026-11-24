@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamPull_cubN_twist
 -- name    : GlobalTheory.FamPull.cubN_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:18:57.17691+00:00
 -- url     : https://prove2.me/theorems/650767af-d9b7-4268-a51b-7e496fc8fa3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_gN_diag
 -- name    : Formalism.FourierDecayAlt.P.B4.gN_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:30:55.634997+00:00
 -- url     : https://prove2.me/theorems/15c19fef-1ba1-4830-8592-c4675392ebdb

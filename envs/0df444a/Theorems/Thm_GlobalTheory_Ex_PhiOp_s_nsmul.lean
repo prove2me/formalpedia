@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_PhiOp_s_nsmul
 -- name    : GlobalTheory.Ex.PhiOp.s_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:06:04.496567+00:00
 -- url     : https://prove2.me/theorems/7502d8a6-f2e7-485a-a940-b8d869b46133

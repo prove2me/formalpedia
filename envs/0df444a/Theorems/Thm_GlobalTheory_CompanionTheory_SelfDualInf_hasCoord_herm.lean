@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_hasCoord_herm
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.hasCoord_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:37:53.328023+00:00
 -- url     : https://prove2.me/theorems/913388be-5ec7-4d2b-9982-7f4c7c42bacd

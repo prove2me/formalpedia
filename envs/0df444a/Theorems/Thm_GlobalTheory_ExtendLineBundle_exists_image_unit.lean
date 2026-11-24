@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendLineBundle_exists_image_unit
 -- name    : GlobalTheory.ExtendLineBundle.exists_image_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:17:27.782804+00:00
 -- url     : https://prove2.me/theorems/ed1bee76-901a-4df1-b2ab-4debe19ea33b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_markedTripleOrderOne_mult
 -- name    : FunctorialResolution.EmbeddedResolution.markedTripleOrderOne_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:46:49.037799+00:00
 -- url     : https://prove2.me/theorems/3de9a4a1-6b66-448e-af8c-be00571f9db2

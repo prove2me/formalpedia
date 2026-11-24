@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EmbUnitBallConj_exists_equiv_of_ker_le
 -- name    : GlobalTheory.EmbUnitBallConj.exists_equiv_of_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:20.382268+00:00
 -- url     : https://prove2.me/theorems/407f5153-5892-4096-b2f3-eda8b9bc2b41

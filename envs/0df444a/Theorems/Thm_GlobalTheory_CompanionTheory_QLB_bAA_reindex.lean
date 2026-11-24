@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLB_bAA_reindex
 -- name    : GlobalTheory.CompanionTheory.QLB.bAA_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:35:29.805967+00:00
 -- url     : https://prove2.me/theorems/bfa32bf3-f487-4b92-a13c-c43db7d43f1c

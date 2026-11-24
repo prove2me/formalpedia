@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_wedgeI_of_detMono_mulI
 -- name    : GlobalTheory.CompanionTheory.Wedge.wedgeI_of_detMono_mulI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:21:43.87717+00:00
 -- url     : https://prove2.me/theorems/22a802e7-5896-4144-beb1-21ea982e6c50

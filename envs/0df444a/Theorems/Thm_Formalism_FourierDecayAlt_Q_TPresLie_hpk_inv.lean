@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresLie_hpk_inv
 -- name    : Formalism.FourierDecayAlt.Q.TPresLie.hpk_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:42:51.544809+00:00
 -- url     : https://prove2.me/theorems/5e35afa6-0578-4dc7-905e-e03a8b73d234

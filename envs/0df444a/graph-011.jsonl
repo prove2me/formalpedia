@@ -34479,7 +34479,7 @@
 {"parent": "BS2_b3ba934b_Endpoint40RawPair1_12", "child": "BS2_b3ba934b_Endpoint40Prepared1", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1239_b3", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "actuarial_f_weekly_to_monthly_value", "child": "actuarial_f_weeklyGmpToMonthly", "via": ["solution", "statement"]}
-{"parent": "OAI.OddGoldbach23.medium_count", "child": "Schnir_defs", "via": ["statement"]}
+{"parent": "OAI.OddGoldbach23.medium_count", "child": "Schnir_defs", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.simple_planar_drawing_edge_count_upper_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "FunctionalInequalities.Analysis.Tensor.sum_norm_sq_le_sum_norm_sq_sum_subset_readable", "child": "KLSModular_FunctionalInequalities_Analysis_Tensor_Symmetrization", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteN3AbCutoffWeights_2_valid", "child": "D1Bound5_OneSmallN3AbFixedArithmetic_Definitions", "via": ["solution", "statement"]}

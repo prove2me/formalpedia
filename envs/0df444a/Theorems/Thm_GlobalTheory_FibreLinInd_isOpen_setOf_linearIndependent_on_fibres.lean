@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreLinInd_isOpen_setOf_linearIndependent_on_fibres
 -- name    : GlobalTheory.FibreLinInd.isOpen_setOf_linearIndependent_on_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:32.941892+00:00
 -- url     : https://prove2.me/theorems/e6170f0f-0850-43f8-804e-a84c76873f22

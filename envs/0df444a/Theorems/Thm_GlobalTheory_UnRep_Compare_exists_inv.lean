@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_exists_inv
 -- name    : GlobalTheory.UnRep.Compare.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:19:27.152269+00:00
 -- url     : https://prove2.me/theorems/c1b2458a-2dc5-4400-831d-2d4e52f300b4

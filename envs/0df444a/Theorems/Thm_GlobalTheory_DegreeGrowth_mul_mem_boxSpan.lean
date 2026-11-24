@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeGrowth_mul_mem_boxSpan
 -- name    : GlobalTheory.DegreeGrowth.mul_mem_boxSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:44:20.033272+00:00
 -- url     : https://prove2.me/theorems/794f9724-1612-4cfa-a0af-8fcd18099ffb

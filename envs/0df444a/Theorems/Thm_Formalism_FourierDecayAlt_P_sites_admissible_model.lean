@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_sites_admissible_model
 -- name    : Formalism.FourierDecayAlt.P.sites_admissible_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:48:12.178814+00:00
 -- url     : https://prove2.me/theorems/8f015d10-03d2-46c9-b3f9-9be9191c36e9

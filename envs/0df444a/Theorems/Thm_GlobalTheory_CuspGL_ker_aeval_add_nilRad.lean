@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_ker_aeval_add_nilRad
 -- name    : GlobalTheory.CuspGL.ker_aeval_add_nilRad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:33:22.723056+00:00
 -- url     : https://prove2.me/theorems/d5bfb69f-9d6e-4d21-872d-b25235275690

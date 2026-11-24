@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_eval_hPoly_diag
 -- name    : GlobalTheory.FibLine.eval_hPoly_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:21.388595+00:00
 -- url     : https://prove2.me/theorems/001473af-2ad1-4513-b1c7-b7fb1627111b

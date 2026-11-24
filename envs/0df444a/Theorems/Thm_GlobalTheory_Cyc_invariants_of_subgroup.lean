@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_invariants_of_subgroup
 -- name    : GlobalTheory.Cyc.invariants_of_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:34:43.067381+00:00
 -- url     : https://prove2.me/theorems/508b3e82-f78f-45ff-b7be-3cbe916bb966

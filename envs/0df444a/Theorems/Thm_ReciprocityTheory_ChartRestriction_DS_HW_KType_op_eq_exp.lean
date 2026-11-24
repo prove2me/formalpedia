@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_KType_op_eq_exp
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.KType.op_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:33:34.961611+00:00
 -- url     : https://prove2.me/theorems/fe3af810-3f1f-41b8-a4bf-0214c8627ea3

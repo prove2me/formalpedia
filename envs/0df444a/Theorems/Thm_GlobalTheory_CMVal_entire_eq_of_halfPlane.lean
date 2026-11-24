@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_entire_eq_of_halfPlane
 -- name    : GlobalTheory.CMVal.entire_eq_of_halfPlane
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:14.106693+00:00
 -- url     : https://prove2.me/theorems/940b7871-ef3f-4170-a639-34347a1c6cf3

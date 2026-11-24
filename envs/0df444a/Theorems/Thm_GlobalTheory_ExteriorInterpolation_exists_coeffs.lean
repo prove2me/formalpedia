@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExteriorInterpolation_exists_coeffs
 -- name    : GlobalTheory.ExteriorInterpolation.exists_coeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:17:52.011876+00:00
 -- url     : https://prove2.me/theorems/0aef40e9-223e-4619-abdc-a3af5046600c

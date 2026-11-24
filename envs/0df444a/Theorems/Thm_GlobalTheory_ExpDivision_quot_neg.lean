@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpDivision_quot_neg
 -- name    : GlobalTheory.ExpDivision.quot_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:07:30.913818+00:00
 -- url     : https://prove2.me/theorems/b1c0d2ee-826b-4515-8d1a-a834c7ebcf5e

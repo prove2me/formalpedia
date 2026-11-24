@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_ae_unique_lift
 -- name    : GlobalTheory.CompanionTheory.Ultra.ae_unique_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:18:37.351975+00:00
 -- url     : https://prove2.me/theorems/e3a0e4d2-36f8-4263-8ade-d7509d168821

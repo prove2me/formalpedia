@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_real_iso
 -- name    : GlobalTheory.CompanionTheory.SW.real_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:12:23.255411+00:00
 -- url     : https://prove2.me/theorems/b88c14d6-8823-4374-9ff6-c8f99e8112f9

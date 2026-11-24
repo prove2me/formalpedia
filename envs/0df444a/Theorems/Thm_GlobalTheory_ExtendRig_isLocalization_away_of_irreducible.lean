@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendRig_isLocalization_away_of_irreducible
 -- name    : GlobalTheory.ExtendRig.isLocalization_away_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:18:10.603007+00:00
 -- url     : https://prove2.me/theorems/c42c348c-25f5-4861-b8ce-b86496136a0f

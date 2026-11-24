@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_derivative_mul
 -- name    : Formalism.REAL.lie_derivative_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:12:32.768398+00:00
 -- url     : https://prove2.me/theorems/a8479375-7e9f-403c-a06c-fad9c7c7f184

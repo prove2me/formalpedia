@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_aDil_one
 -- name    : Formalism.FourierDecayAlt.P.B4.aDil_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:26:52.630784+00:00
 -- url     : https://prove2.me/theorems/2efa3e82-4443-4b45-bdd7-c2f113e0908e

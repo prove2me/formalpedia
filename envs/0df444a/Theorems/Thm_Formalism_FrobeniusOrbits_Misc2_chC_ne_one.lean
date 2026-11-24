@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Misc2_chC_ne_one
 -- name    : Formalism.FrobeniusOrbits.Misc2.chC_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:10:18.246547+00:00
 -- url     : https://prove2.me/theorems/aefdb5ae-905b-4c7b-aee5-8cf03bb917ba

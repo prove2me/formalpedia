@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_sum_restrict_eq_zero_of_mixed
 -- name    : GlobalTheory.CuspGL.sum_restrict_eq_zero_of_mixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:34:28.519845+00:00
 -- url     : https://prove2.me/theorems/06c2938a-a127-43e4-80bb-975d49b58f0b

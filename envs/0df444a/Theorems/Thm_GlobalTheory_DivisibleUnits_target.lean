@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivisibleUnits_target
 -- name    : GlobalTheory.DivisibleUnits.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:50:27.034261+00:00
 -- url     : https://prove2.me/theorems/9f0579ae-efad-42f0-b032-259b795495b5

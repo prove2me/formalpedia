@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_ind_int
 -- name    : GlobalTheory.UnRep.Compare.ind_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:18:19.465992+00:00
 -- url     : https://prove2.me/theorems/b8c83ce4-b190-40c9-b636-6cd4e5dfab84

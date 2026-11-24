@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_idealOrder_map_eq_of_comp_eq_id
 -- name    : FunctorialResolution.EmbeddedResolution.idealOrder_map_eq_of_comp_eq_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:12:35.312221+00:00
 -- url     : https://prove2.me/theorems/09a0fb1f-9d67-426b-990d-41e7c40562d1

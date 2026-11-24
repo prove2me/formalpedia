@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AlmostTrace_exists_Gj_subset
 -- name    : GlobalTheory.Cyc.AlmostTrace.exists_Gj_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:45.255441+00:00
 -- url     : https://prove2.me/theorems/5c1a5670-eb86-4d0f-9ee7-87470b2f10c2

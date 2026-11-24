@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Density_exists_density
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Density.exists_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:02:41.823806+00:00
 -- url     : https://prove2.me/theorems/35fb1d4a-dd99-45dc-a554-56401b16d6dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivisibleHom_isMonHom_of_factor
 -- name    : GlobalTheory.DivisibleHom.isMonHom_of_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:56.029509+00:00
 -- url     : https://prove2.me/theorems/fbc42f49-f0a6-4b43-bbcd-84e236552b16

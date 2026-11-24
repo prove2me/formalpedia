@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_opnorm_unitary_exp_le
 -- name    : Formalism.HermitianLatticeCounting.P.opnorm_unitary_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:28:34.469967+00:00
 -- url     : https://prove2.me/theorems/9389bfdf-c521-4652-8d5a-e5b3ad28db31

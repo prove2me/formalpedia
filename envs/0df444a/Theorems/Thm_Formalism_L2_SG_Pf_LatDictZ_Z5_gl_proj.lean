@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_gl_proj
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.gl_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:35:15.088344+00:00
 -- url     : https://prove2.me/theorems/df92acaa-1db5-454c-a0ec-1e71b26ec33c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_OnePlus_nrm_det_one_add
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.OnePlus.nrm_det_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:55:58.097876+00:00
 -- url     : https://prove2.me/theorems/3f03004e-14ad-46c1-9ebe-a8738d9522df

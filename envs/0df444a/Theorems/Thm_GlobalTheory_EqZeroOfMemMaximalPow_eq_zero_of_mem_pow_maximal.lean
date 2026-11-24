@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EqZeroOfMemMaximalPow_eq_zero_of_mem_pow_maximal
 -- name    : GlobalTheory.EqZeroOfMemMaximalPow.eq_zero_of_mem_pow_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:58:17.734083+00:00
 -- url     : https://prove2.me/theorems/a000ca97-62bd-4736-ac79-a52b66081cfe

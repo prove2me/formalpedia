@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_haar_sigmaFinite
 -- name    : Formalism.FourierDecayAlt.P.B5.haar_sigmaFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:47:08.71786+00:00
 -- url     : https://prove2.me/theorems/aec51726-ea26-490e-b3ee-31aaf58fb8a0

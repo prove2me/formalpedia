@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_Hpk_sq
 -- name    : Formalism.FourierDecayAlt.P.B2x8.Hpk_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:41:33.04389+00:00
 -- url     : https://prove2.me/theorems/f43a07d9-5b09-4746-a0dc-4b8cf592cffb

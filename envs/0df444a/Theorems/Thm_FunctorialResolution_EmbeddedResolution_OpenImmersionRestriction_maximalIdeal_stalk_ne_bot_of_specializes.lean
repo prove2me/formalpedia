@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_maximalIdeal_stalk_ne_bot_of_specializes
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.maximalIdeal_stalk_ne_bot_of_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:33:05.149749+00:00
 -- url     : https://prove2.me/theorems/7fd8683e-921a-4acd-b16f-27d72612fa1c

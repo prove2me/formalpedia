@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ChartRing_evFrac__apply_1d354619b41f
 -- name    : P2M_GlobalTheory_ChartRing_evFrac__apply_1d354619b41f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:46:02.19178+00:00
 -- url     : https://prove2.me/theorems/8374617a-5dfe-45a4-8859-6e632ad9225c

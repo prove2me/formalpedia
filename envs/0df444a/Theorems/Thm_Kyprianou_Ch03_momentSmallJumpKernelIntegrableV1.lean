@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentSmallJumpKernelIntegrableV1
 -- name    : Kyprianou.Ch03.momentSmallJumpKernelIntegrableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:35:22.022603+00:00
 -- url     : https://prove2.me/theorems/77a7897f-66c5-4581-a28c-2724454fdef9

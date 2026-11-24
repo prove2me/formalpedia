@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Exist_ProdOpen_bijective_baseChange
 -- name    : GlobalTheory.Exist.ProdOpen.bijective_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:07:17.411782+00:00
 -- url     : https://prove2.me/theorems/b9f7bf6f-170c-4820-a254-2a554cf8491a

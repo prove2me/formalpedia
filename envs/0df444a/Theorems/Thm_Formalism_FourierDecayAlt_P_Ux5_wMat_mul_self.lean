@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_wMat_mul_self
 -- name    : Formalism.FourierDecayAlt.P.Ux5.wMat_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:47:56.143375+00:00
 -- url     : https://prove2.me/theorems/69e558f0-06a8-4de8-a2ae-8934839bc898

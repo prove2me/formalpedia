@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_scale_qmp
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.scale_qmp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:32:40.074139+00:00
 -- url     : https://prove2.me/theorems/3ccb94e8-a192-4458-974b-b1825534f898

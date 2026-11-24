@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Decomp_stab_two_sgn
 -- name    : Formalism.FrobeniusOrbits.Decomp.stab_two_sgn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:11:41.707068+00:00
 -- url     : https://prove2.me/theorems/e57fb2ea-af13-462c-9d46-7b556834a8f1

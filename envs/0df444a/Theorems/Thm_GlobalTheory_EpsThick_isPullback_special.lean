@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsThick_isPullback_special
 -- name    : GlobalTheory.EpsThick.isPullback_special
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:58:15.529471+00:00
 -- url     : https://prove2.me/theorems/073ecf3d-268e-4c79-b99a-f0ab95563d3b

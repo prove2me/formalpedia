@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_lim_exists_matrix
 -- name    : GlobalTheory.AdLat.lim_exists_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:21:16.736965+00:00
 -- url     : https://prove2.me/theorems/0e1e233f-d2e0-4f5e-a276-a318a34dcb9d

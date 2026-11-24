@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_cm_type_period_integral_fourth_fil_inf_eigLat_cmType
 -- name    : GlobalTheory.Div.cm_type_period_integral_fourth.fil_inf_eigLat_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:28.741186+00:00
 -- url     : https://prove2.me/theorems/fb681c09-22d4-4b0c-9c9c-99cb209b09e3

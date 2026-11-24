@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_Hpk_herm
 -- name    : Formalism.FourierDecayAlt.P.B2x8.Hpk_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:42:01.341153+00:00
 -- url     : https://prove2.me/theorems/fdaf787e-2b53-42df-b5e8-5d3ffc8a0961

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordNormLpLemmas_key
 -- name    : Formalism.FourierDecayAlt.P.WordNormLpLemmas.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:37:07.709595+00:00
 -- url     : https://prove2.me/theorems/3bc37252-79fb-4063-8c06-4c6de5353bf1

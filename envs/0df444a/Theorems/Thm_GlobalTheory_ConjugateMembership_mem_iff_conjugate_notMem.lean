@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjugateMembership_mem_iff_conjugate_notMem
 -- name    : GlobalTheory.ConjugateMembership.mem_iff_conjugate_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:39.830726+00:00
 -- url     : https://prove2.me/theorems/b5da41b4-e83d-4a5e-a30e-c1cb8cadccb5

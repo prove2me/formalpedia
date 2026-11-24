@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseFibreIso_main
 -- name    : GlobalTheory.DenseFibreIso.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:31.629239+00:00
 -- url     : https://prove2.me/theorems/08b33d5b-2664-4e84-8325-6e3deace9db9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_CMAlgChar_algChar_eq_arg_mul_abs
 -- name    : GlobalTheory.Div.CMAlgChar.algChar_eq_arg_mul_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:50:44.392191+00:00
 -- url     : https://prove2.me/theorems/f9792da3-090d-4c27-a050-c6082b420f2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_SplitIso
 -- name    : Formalism.UG.Final.SplitIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:17:11.036429+00:00
 -- url     : https://prove2.me/theorems/00dff1e6-baf5-4a6d-b1f4-1776353c9025

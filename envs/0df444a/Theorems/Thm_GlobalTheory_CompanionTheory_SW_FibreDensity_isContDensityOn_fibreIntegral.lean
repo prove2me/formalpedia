@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreDensity_isContDensityOn_fibreIntegral
 -- name    : GlobalTheory.CompanionTheory.SW.FibreDensity.isContDensityOn_fibreIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:43.680801+00:00
 -- url     : https://prove2.me/theorems/5d234089-d13d-4c09-bc56-ecbd2629641a

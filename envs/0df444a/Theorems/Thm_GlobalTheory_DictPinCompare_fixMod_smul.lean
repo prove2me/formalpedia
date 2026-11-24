@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_fixMod_smul
 -- name    : GlobalTheory.DictPinCompare.fixMod_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:36:23.784471+00:00
 -- url     : https://prove2.me/theorems/e9493dd5-4891-4c83-bea6-59dc80d1fe99

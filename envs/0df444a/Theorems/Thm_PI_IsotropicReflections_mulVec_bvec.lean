@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_mulVec_bvec
 -- name    : PI.IsotropicReflections.mulVec_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:43:41.132485+00:00
 -- url     : https://prove2.me/theorems/ff75816c-c637-4240-b9af-b8a8cde00309

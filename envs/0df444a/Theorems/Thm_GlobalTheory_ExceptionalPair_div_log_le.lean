@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExceptionalPair_div_log_le
 -- name    : GlobalTheory.ExceptionalPair.div_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:07:13.551145+00:00
 -- url     : https://prove2.me/theorems/8e9acd6d-d4dc-4d79-82f2-8b8608b6656f

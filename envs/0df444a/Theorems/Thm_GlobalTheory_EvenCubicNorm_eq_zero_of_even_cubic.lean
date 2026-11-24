@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvenCubicNorm_eq_zero_of_even_cubic
 -- name    : GlobalTheory.EvenCubicNorm.eq_zero_of_even_cubic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:06:24.738337+00:00
 -- url     : https://prove2.me/theorems/216d3cba-cc48-40a7-ab05-a62d522e37e1

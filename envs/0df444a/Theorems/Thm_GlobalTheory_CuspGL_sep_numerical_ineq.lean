@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_sep_numerical_ineq
 -- name    : GlobalTheory.CuspGL.sep_numerical_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:32:53.177184+00:00
 -- url     : https://prove2.me/theorems/43f1330f-689b-42b1-890f-11c0a8f719d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_hgtOf_pos
 -- name    : GlobalTheory.Doubling.hgtOf_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:26.089647+00:00
 -- url     : https://prove2.me/theorems/8fcdd276-9348-4d50-be39-6d7d78608aa1

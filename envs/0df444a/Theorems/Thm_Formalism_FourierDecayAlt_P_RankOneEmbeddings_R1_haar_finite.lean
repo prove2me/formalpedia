@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_R1_haar_finite
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.R1.haar_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:43:50.782063+00:00
 -- url     : https://prove2.me/theorems/8c75607b-8807-4493-817e-badd690224f0

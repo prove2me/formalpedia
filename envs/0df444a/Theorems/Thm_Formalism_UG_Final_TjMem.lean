@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_TjMem
 -- name    : Formalism.UG.Final.TjMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:14:07.314052+00:00
 -- url     : https://prove2.me/theorems/ad1b20e7-2204-4ecc-887b-3c1ef205a769

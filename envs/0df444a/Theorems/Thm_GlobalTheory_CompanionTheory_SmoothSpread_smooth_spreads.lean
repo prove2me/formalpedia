@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothSpread_smooth_spreads
 -- name    : GlobalTheory.CompanionTheory.SmoothSpread.smooth_spreads
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:39.4798+00:00
 -- url     : https://prove2.me/theorems/e7d922ec-8d39-4c7f-aedd-e8f37b33c258

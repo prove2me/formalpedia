@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetClass_exists_span_mul_eq
 -- name    : GlobalTheory.DetClass.exists_span_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:43:13.291559+00:00
 -- url     : https://prove2.me/theorems/d15b3228-8cd3-411f-93d7-28dc54073198

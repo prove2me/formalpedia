@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_quot_levi
 -- name    : GlobalTheory.Doubling.quot_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:45.508024+00:00
 -- url     : https://prove2.me/theorems/85329202-f451-4975-b276-aca3b9d50479

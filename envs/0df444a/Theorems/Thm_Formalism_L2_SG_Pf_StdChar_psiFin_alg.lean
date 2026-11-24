@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_StdChar_psiFin_alg
 -- name    : Formalism.L2.SG.Pf.StdChar.psiFin_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:36:15.931646+00:00
 -- url     : https://prove2.me/theorems/79273358-5c45-4c49-b333-c091f93d01ad

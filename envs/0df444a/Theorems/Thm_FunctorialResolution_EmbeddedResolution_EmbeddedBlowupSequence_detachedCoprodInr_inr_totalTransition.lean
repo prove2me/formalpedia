@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_detachedCoprodInr_inr_totalTransition
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.detachedCoprodInr_inr_totalTransition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:35:45.453692+00:00
 -- url     : https://prove2.me/theorems/de5f071e-368e-46ee-ac74-a23a4fe364c5

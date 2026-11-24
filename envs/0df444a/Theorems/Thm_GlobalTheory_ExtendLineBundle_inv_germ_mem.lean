@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendLineBundle_inv_germ_mem
 -- name    : GlobalTheory.ExtendLineBundle.inv_germ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:17:40.898436+00:00
 -- url     : https://prove2.me/theorems/cfe8e085-5bc0-45da-b367-8b64f223ec08

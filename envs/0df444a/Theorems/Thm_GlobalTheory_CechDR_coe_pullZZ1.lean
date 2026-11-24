@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_coe_pullZZ1
 -- name    : GlobalTheory.CechDR.coe_pullZZ1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:34:08.219531+00:00
 -- url     : https://prove2.me/theorems/422b2ce9-f88c-4330-aa1d-de8f319d498c

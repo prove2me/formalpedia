@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Hom_ofIso_rel
 -- name    : GlobalTheory.Ex.NumD.Hom.ofIso_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:06:42.457899+00:00
 -- url     : https://prove2.me/theorems/6af09721-9916-4206-b8d1-e67cd9fee4fe

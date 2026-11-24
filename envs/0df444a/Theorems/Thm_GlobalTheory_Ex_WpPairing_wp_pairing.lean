@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_WpPairing_wp_pairing
 -- name    : GlobalTheory.Ex.WpPairing.wp_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:06:15.406585+00:00
 -- url     : https://prove2.me/theorems/92f2c822-00db-4a27-beb9-bc5651d9c4f1

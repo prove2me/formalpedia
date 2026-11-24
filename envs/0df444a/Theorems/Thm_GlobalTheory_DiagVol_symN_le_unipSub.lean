@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_symN_le_unipSub
 -- name    : GlobalTheory.DiagVol.symN_le_unipSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:50:01.419721+00:00
 -- url     : https://prove2.me/theorems/2241b9fb-fbd7-4fff-addf-a4c54d23a870

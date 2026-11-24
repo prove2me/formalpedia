@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExteriorInterpolation_cauchy_exterior
 -- name    : GlobalTheory.ExteriorInterpolation.cauchy_exterior
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:17:33.971446+00:00
 -- url     : https://prove2.me/theorems/88b74cc0-9064-4ee9-9ee9-70d1170333dc

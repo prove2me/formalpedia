@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_det_sq_eq_discr_of_field
 -- name    : GlobalTheory.EigenSplit.det_sq_eq_discr_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:52:43.702459+00:00
 -- url     : https://prove2.me/theorems/007a9db4-b662-4c6b-8534-fd6c22f3b14b

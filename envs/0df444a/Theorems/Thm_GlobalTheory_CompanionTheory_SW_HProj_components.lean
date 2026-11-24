@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HProj_components
 -- name    : GlobalTheory.CompanionTheory.SW.HProj.components
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:25:31.046509+00:00
 -- url     : https://prove2.me/theorems/cd9f1ccb-72f0-40f4-80d1-2cdc39402688

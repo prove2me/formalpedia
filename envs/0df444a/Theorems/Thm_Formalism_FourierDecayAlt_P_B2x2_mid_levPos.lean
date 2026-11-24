@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_mid_levPos
 -- name    : Formalism.FourierDecayAlt.P.B2x2.mid_levPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:43:50.595018+00:00
 -- url     : https://prove2.me/theorems/f45e293c-99a8-4467-a820-51630bb7e0cd

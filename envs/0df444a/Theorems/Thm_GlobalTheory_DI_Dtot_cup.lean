@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_Dtot_cup
 -- name    : GlobalTheory.DI.Dtot_cup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:34:45.252994+00:00
 -- url     : https://prove2.me/theorems/9b6b4c51-36ba-43e7-8597-870d020cdf79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_aesm_of_continuousOn
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.aesm_of_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:28:48.937801+00:00
 -- url     : https://prove2.me/theorems/776352cc-88d2-4245-b7a0-423264d784b8

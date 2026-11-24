@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_IsAdditive_eq_divisorSum_mangoldt
 -- name    : GlobalTheory.CuspGL.IsAdditive.eq_divisorSum_mangoldt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:29:37.379597+00:00
 -- url     : https://prove2.me/theorems/c249f142-2b18-4123-a9c0-83848ab6f313

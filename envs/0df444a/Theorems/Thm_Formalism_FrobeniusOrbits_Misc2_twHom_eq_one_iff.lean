@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Misc2_twHom_eq_one_iff
 -- name    : Formalism.FrobeniusOrbits.Misc2.twHom_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:10:01.942678+00:00
 -- url     : https://prove2.me/theorems/090eb264-80a6-409d-89b0-894ce29e6ece

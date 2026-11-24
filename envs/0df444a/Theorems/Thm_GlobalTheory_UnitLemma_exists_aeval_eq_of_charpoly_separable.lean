@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_exists_aeval_eq_of_charpoly_separable
 -- name    : GlobalTheory.UnitLemma.exists_aeval_eq_of_charpoly_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:31:19.596039+00:00
 -- url     : https://prove2.me/theorems/b48f7d4e-bcc1-423c-84ed-452202c40f8c

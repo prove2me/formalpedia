@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseClosedAffineSubsets_isIso_on_open
 -- name    : GlobalTheory.DenseClosedAffineSubsets.isIso_on_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:43:14.714805+00:00
 -- url     : https://prove2.me/theorems/c690fe07-0f94-4bcb-bfef-18aca9b30cc9

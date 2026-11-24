@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_PsiPrimitive_psi_trivial
 -- name    : GlobalTheory.CuspGL.PsiPrimitive.psi_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:31:39.014986+00:00
 -- url     : https://prove2.me/theorems/1ec1d2c5-ce1b-4fc7-bce1-7490143ecde7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Stab_exists_open_normal_orderOf
 -- name    : Formalism.FrobeniusOrbits.Stab.exists_open_normal_orderOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:31:41.562446+00:00
 -- url     : https://prove2.me/theorems/1b4ae765-3109-4f42-b863-5df1fec70088

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_abs_inv_sub_one
 -- name    : Formalism.FourierDecayAlt.P.B4.abs_inv_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:26:24.7937+00:00
 -- url     : https://prove2.me/theorems/5106b36a-6907-41a8-a205-7eb19b37f451

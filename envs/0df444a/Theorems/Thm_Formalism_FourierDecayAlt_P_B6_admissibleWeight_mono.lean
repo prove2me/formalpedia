@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_admissibleWeight_mono
 -- name    : Formalism.FourierDecayAlt.P.B6.admissibleWeight_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:46:42.050431+00:00
 -- url     : https://prove2.me/theorems/b23231c2-91ba-4b1b-8df7-b0a0a87c18de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaChar_eta_of_exp
 -- name    : GlobalTheory.EtaChar.eta_of_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:48.033018+00:00
 -- url     : https://prove2.me/theorems/8b527c9b-96f7-492e-946a-910a2b3ac883

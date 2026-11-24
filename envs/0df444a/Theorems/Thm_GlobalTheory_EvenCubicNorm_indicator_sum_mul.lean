@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvenCubicNorm_indicator_sum_mul
 -- name    : GlobalTheory.EvenCubicNorm.indicator_sum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:05:05.123618+00:00
 -- url     : https://prove2.me/theorems/5d9cdc65-3225-44d0-97bc-d7ad40a8c4e7

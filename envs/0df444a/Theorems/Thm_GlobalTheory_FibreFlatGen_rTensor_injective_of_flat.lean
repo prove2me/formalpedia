@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreFlatGen_rTensor_injective_of_flat
 -- name    : GlobalTheory.FibreFlatGen.rTensor_injective_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:24:23.142791+00:00
 -- url     : https://prove2.me/theorems/b5da4db6-e329-4c2f-b4ea-4ef0db0d0e4f

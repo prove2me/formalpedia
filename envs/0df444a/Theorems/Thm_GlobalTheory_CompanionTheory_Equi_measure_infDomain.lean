@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_measure_infDomain
 -- name    : GlobalTheory.CompanionTheory.Equi.measure_infDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:38:03.25992+00:00
 -- url     : https://prove2.me/theorems/bdd063be-fe9e-4699-877f-92ab47f71a11

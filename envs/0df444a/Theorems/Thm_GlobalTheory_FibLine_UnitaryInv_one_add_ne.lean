@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_UnitaryInv_one_add_ne
 -- name    : GlobalTheory.FibLine.UnitaryInv.one_add_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:20.763289+00:00
 -- url     : https://prove2.me/theorems/8e62281a-f4a9-49b6-94ad-d915c6ad669c

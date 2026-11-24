@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_ArcForm_finite_fibre
 -- name    : GlobalTheory.Ex.ArcForm.finite_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:07:27.967907+00:00
 -- url     : https://prove2.me/theorems/62a63574-2c7c-4329-b9c7-ec73c4753422

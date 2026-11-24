@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeInt_size_neg_pow_integrable
 -- name    : GlobalTheory.CompanionTheory.SW.SizeInt.size_neg_pow_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:10:19.121024+00:00
 -- url     : https://prove2.me/theorems/e985eda5-489e-4431-8ca1-9ccfe493e06b

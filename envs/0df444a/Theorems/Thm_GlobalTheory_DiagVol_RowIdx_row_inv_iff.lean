@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_RowIdx_row_inv_iff
 -- name    : GlobalTheory.DiagVol.RowIdx.row_inv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:31:13.288827+00:00
 -- url     : https://prove2.me/theorems/49b221d8-bedd-419d-a146-207ed14da086

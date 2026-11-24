@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_not_mid_cases
 -- name    : Formalism.FourierDecayAlt.P.B2x3.not_mid_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:43:06.869954+00:00
 -- url     : https://prove2.me/theorems/b32ab98a-5881-41ed-8028-4577ec335ede

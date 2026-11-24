@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_planeWaveWord
 -- name    : Formalism.FourierDecayAlt.P.Wd11.planeWaveWord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:48:14.010062+00:00
 -- url     : https://prove2.me/theorems/5238c862-822b-4e53-a735-28c260ea6aeb

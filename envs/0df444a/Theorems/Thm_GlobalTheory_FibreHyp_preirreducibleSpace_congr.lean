@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreHyp_preirreducibleSpace_congr
 -- name    : GlobalTheory.FibreHyp.preirreducibleSpace_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:36.985111+00:00
 -- url     : https://prove2.me/theorems/b1d1b065-517a-49a0-b94f-1cb220777e65

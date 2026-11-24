@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_last_basis_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RankOneLeviIdentities.last_basis_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:43:10.624897+00:00
 -- url     : https://prove2.me/theorems/110842df-5f27-4980-9113-fde14e21eeb4

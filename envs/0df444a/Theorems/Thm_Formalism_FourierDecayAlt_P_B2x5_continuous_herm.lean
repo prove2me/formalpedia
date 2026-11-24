@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_continuous_herm
 -- name    : Formalism.FourierDecayAlt.P.B2x5.continuous_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:41:23.087673+00:00
 -- url     : https://prove2.me/theorems/d7b412aa-be12-46cf-aac7-a6eaef2796bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Orbits_dim_bound
 -- name    : Formalism.FrobeniusOrbits.Orbits.dim_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:10:45.531796+00:00
 -- url     : https://prove2.me/theorems/12b04c3c-4c50-4bc1-b8b7-61fe42bf7445

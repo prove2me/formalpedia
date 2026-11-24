@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Inertia_hcl_eq_one
 -- name    : Formalism.FrobeniusOrbits.Inertia.hcl_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:11:15.239852+00:00
 -- url     : https://prove2.me/theorems/e26379ab-8f52-4a92-992d-3bb3268baf0a

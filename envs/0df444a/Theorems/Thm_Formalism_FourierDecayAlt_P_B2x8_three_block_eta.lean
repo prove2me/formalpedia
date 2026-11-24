@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_three_block_eta
 -- name    : Formalism.FourierDecayAlt.P.B2x8.three_block_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:41:33.307332+00:00
 -- url     : https://prove2.me/theorems/4cb1c679-63a5-4790-bce2-5fa6dcf67cc8

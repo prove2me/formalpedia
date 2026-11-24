@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_prodFirstProjection_smul
 -- name    : GlobalTheory.CechDR.prodFirstProjection_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:36:10.931389+00:00
 -- url     : https://prove2.me/theorems/3aa9004e-911c-4640-ac18-0f4dbbe73cf3

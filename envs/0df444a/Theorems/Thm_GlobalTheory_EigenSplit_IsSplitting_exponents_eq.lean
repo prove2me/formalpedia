@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_IsSplitting_exponents_eq
 -- name    : GlobalTheory.EigenSplit.IsSplitting.exponents_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:13.417019+00:00
 -- url     : https://prove2.me/theorems/7724bc9b-df2e-4fd2-8d16-4e43a4be2741

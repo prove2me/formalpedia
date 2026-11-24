@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Exist_ProdOpen_surjective_prod
 -- name    : GlobalTheory.Exist.ProdOpen.surjective_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:07:46.298151+00:00
 -- url     : https://prove2.me/theorems/4c4a98fc-00f3-427a-9a00-0c4a1e81a5a1

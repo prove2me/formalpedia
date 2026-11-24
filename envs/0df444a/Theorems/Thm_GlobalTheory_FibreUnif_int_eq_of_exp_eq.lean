@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreUnif_int_eq_of_exp_eq
 -- name    : GlobalTheory.FibreUnif.int_eq_of_exp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:24:39.953066+00:00
 -- url     : https://prove2.me/theorems/9576253c-75e3-48a6-b9c2-0f3960f6b5a1

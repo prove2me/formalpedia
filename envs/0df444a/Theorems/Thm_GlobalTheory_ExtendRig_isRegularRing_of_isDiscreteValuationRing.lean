@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendRig_isRegularRing_of_isDiscreteValuationRing
 -- name    : GlobalTheory.ExtendRig.isRegularRing_of_isDiscreteValuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:17:43.453797+00:00
 -- url     : https://prove2.me/theorems/1bed9764-377d-477a-ae0b-ccbb0223a2b4

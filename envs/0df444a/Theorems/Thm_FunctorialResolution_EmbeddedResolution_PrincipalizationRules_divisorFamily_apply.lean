@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationRules_divisorFamily_apply
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationRules.divisorFamily_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:33:50.587811+00:00
 -- url     : https://prove2.me/theorems/fae0b04c-d862-4639-a112-0a794003c862

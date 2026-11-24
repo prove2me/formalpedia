@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtDescent_isPullback_of_baseChange
 -- name    : GlobalTheory.ExtDescent.isPullback_of_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:16:36.251878+00:00
 -- url     : https://prove2.me/theorems/8ecf920b-2c3b-4dc3-bc5d-03cd596ffdd5

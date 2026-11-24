@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvenCubicNorm_prodPow_single
 -- name    : GlobalTheory.EvenCubicNorm.prodPow_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:05:21.082807+00:00
 -- url     : https://prove2.me/theorems/bd421738-6029-4267-aa4e-479714ac9bf0

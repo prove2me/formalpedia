@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_Intg_integrable_fsDens
 -- name    : GlobalTheory.FibLine.Intg.integrable_fsDens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:20:29.600322+00:00
 -- url     : https://prove2.me/theorems/d6c10903-98f7-4cff-8b06-a01cda8f3df4

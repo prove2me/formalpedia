@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_RecPeriods_exists_torus_root
 -- name    : GlobalTheory.Ex.RecPeriods.exists_torus_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:06:10.546802+00:00
 -- url     : https://prove2.me/theorems/cdea886e-9f89-4662-9082-d30c40519d4a

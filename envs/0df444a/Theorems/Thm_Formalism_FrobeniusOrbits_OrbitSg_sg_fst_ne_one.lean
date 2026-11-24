@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_OrbitSg_sg_fst_ne_one
 -- name    : Formalism.FrobeniusOrbits.OrbitSg.sg_fst_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:31:16.666827+00:00
 -- url     : https://prove2.me/theorems/8dae2d2d-9f19-4421-87fc-b0675bb5385e

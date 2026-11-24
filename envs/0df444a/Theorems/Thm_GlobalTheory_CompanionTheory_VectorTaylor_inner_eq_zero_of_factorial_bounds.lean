@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VectorTaylor_inner_eq_zero_of_factorial_bounds
 -- name    : GlobalTheory.CompanionTheory.VectorTaylor.inner_eq_zero_of_factorial_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:53:53.138979+00:00
 -- url     : https://prove2.me/theorems/ebbbfb27-e741-4458-9c4c-35f750948200

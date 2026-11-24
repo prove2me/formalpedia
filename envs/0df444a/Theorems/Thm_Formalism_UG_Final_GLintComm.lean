@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_GLintComm
 -- name    : Formalism.UG.Final.GLintComm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:13:07.598313+00:00
 -- url     : https://prove2.me/theorems/937511d7-b5f5-43a6-9c3d-27ca569d0041

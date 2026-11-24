@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_abs_log_le_log_two
 -- name    : Formalism.FourierDecayAlt.P.B4.abs_log_le_log_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:30:27.339392+00:00
 -- url     : https://prove2.me/theorems/25a7e522-be7f-4cc0-98e5-ecde588f05fc

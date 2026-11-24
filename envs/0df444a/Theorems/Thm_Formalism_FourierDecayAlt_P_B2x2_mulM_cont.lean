@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_mulM_cont
 -- name    : Formalism.FourierDecayAlt.P.B2x2.mulM_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:40:58.61955+00:00
 -- url     : https://prove2.me/theorems/207eba91-c73a-4c7d-a4a8-a4ae933c4b7f

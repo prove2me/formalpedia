@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m812_overshoot_integral_difference
 -- name    : Kyprianou.Ch08.StageB.p2m812_overshoot_integral_difference
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:36:40.323359+00:00
 -- url     : https://prove2.me/theorems/dbe72bf1-70b1-49fd-859a-c1ecc1cda5bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_conj_conj
 -- name    : GlobalTheory.UnRep.Compare.conj_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:18:52.929802+00:00
 -- url     : https://prove2.me/theorems/38572dd9-b98c-4c2f-849e-e5825acc3cfe

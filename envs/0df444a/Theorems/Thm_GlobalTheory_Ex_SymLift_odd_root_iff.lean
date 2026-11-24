@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_SymLift_odd_root_iff
 -- name    : GlobalTheory.Ex.SymLift.odd_root_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:05:25.612212+00:00
 -- url     : https://prove2.me/theorems/3d72948f-a455-4711-a630-8bd214edd606

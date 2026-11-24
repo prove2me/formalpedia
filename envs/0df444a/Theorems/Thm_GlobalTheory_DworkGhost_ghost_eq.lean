@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DworkGhost_ghost_eq
 -- name    : GlobalTheory.DworkGhost.ghost_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:52:10.144642+00:00
 -- url     : https://prove2.me/theorems/47585de8-4c8c-4a45-8493-be5118227420

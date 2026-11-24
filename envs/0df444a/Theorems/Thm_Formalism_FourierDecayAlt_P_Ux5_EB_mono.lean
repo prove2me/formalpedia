@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_EB_mono
 -- name    : Formalism.FourierDecayAlt.P.Ux5.EB.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:47:05.308263+00:00
 -- url     : https://prove2.me/theorems/e7667bfa-143f-4a6e-8056-bfa2fb8015c0

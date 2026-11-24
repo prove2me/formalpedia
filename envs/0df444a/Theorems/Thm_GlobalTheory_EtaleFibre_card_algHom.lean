@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaleFibre_card_algHom
 -- name    : GlobalTheory.EtaleFibre.card_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:59:03.919849+00:00
 -- url     : https://prove2.me/theorems/e4c00ce2-5040-4362-af33-2876dc80b61f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamBaseChange_toGen_jFK
 -- name    : GlobalTheory.FamBaseChange.toGen_jFK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:17:41.788971+00:00
 -- url     : https://prove2.me/theorems/25ca401e-b08e-49d4-9119-ee73492f141e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisConstTerm_hasSum_constTerm
 -- name    : GlobalTheory.EisConstTerm.hasSum_constTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:06.30429+00:00
 -- url     : https://prove2.me/theorems/ed4a1b2c-a1ae-4df0-8a97-3b147b9793ba

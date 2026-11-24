@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_QStr_split_ext
 -- name    : GlobalTheory.Ex.QStr.split_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:07:45.668898+00:00
 -- url     : https://prove2.me/theorems/c3f9814f-bdea-4c69-bccc-fbd4dce123b6

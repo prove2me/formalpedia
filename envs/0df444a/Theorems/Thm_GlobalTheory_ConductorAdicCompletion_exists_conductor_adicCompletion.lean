@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConductorAdicCompletion_exists_conductor_adicCompletion
 -- name    : GlobalTheory.ConductorAdicCompletion.exists_conductor_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:42.849903+00:00
 -- url     : https://prove2.me/theorems/dd032ed6-341c-44f5-aac8-4e1ee0c256a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreRegular_quot_localization_regular
 -- name    : GlobalTheory.FibreRegular.quot_localization_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:53.578248+00:00
 -- url     : https://prove2.me/theorems/f37cb4a7-c4d0-44c7-b4de-9e94a42f94ed

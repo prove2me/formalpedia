@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExplicitRect_order_ne_top
 -- name    : GlobalTheory.ExplicitRect.order_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:07:16.745181+00:00
 -- url     : https://prove2.me/theorems/259ee833-6cb3-4c5b-b604-82c2d6d77d76

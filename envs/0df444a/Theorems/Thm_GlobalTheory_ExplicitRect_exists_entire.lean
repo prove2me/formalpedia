@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExplicitRect_exists_entire
 -- name    : GlobalTheory.ExplicitRect.exists_entire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:06:56.73671+00:00
 -- url     : https://prove2.me/theorems/9758e80c-437b-4369-aef4-ff89f41c83a2

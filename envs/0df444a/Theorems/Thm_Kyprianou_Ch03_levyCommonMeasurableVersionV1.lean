@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_levyCommonMeasurableVersionV1
 -- name    : Kyprianou.Ch03.levyCommonMeasurableVersionV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:19:58.99745+00:00
 -- url     : https://prove2.me/theorems/db43a966-a28b-4b59-9467-1a7820be6fca

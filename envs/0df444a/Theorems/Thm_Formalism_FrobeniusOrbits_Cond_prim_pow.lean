@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_prim_pow
 -- name    : Formalism.FrobeniusOrbits.Cond.prim_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:10:31.486814+00:00
 -- url     : https://prove2.me/theorems/4adece07-48cc-4858-968b-432538cbd4a4

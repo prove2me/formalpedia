@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFibreRank_cmp_bijective
 -- name    : GlobalTheory.DualFibreRank.cmp_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:51:30.468794+00:00
 -- url     : https://prove2.me/theorems/dbbe19d9-fcd7-472a-8692-9893a8c1de8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_mem_degPSOf
 -- name    : GlobalTheory.Doubling.mem_degPSOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:44.481628+00:00
 -- url     : https://prove2.me/theorems/61f2b7c6-1af5-48e8-8a94-dbdb4f0a8b7c

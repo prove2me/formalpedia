@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivPowLPrime_isUnit_factPrimePart
 -- name    : GlobalTheory.DivPowLPrime.isUnit_factPrimePart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:50:28.204531+00:00
 -- url     : https://prove2.me/theorems/4df93cac-e2fb-4607-93e6-70f59225cc75

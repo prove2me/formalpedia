@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FactorwiseExtension_toLinearMap_update_smul
 -- name    : GlobalTheory.FactorwiseExtension.toLinearMap_update_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:17:52.202105+00:00
 -- url     : https://prove2.me/theorems/9f277caa-e789-4cd7-8f95-0db3cc0898be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeGrowth_lower
 -- name    : GlobalTheory.DegreeGrowth.lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:44:01.548834+00:00
 -- url     : https://prove2.me/theorems/0d864c77-20a5-42e1-8e85-74c50c90415d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFamily_span_eq_top
 -- name    : GlobalTheory.DualFamily.span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:58:33.287489+00:00
 -- url     : https://prove2.me/theorems/0cee0cd0-3c78-4892-b73e-49ef2875c7c2

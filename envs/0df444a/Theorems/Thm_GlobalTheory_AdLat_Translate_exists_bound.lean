@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Translate_exists_bound
 -- name    : GlobalTheory.AdLat.Translate.exists_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:02:48.464292+00:00
 -- url     : https://prove2.me/theorems/84a70f95-9a07-47a6-a6f0-a5752989a697

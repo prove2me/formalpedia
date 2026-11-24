@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_ext_exact
 -- name    : GlobalTheory.DRFil.ext_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:35:39.802705+00:00
 -- url     : https://prove2.me/theorems/52deea08-0d31-4ffc-9d6b-6acc8bac55c4

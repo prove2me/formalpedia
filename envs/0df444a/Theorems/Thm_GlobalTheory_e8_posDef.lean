@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_e8_posDef
 -- name    : GlobalTheory.e8_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:13:04.169484+00:00
 -- url     : https://prove2.me/theorems/c7147990-b6d4-4472-8c58-1e198f4d2f35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendLineBundle_exists_gcd_fraction
 -- name    : GlobalTheory.ExtendLineBundle.exists_gcd_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:17:22.593613+00:00
 -- url     : https://prove2.me/theorems/e46ceaa4-0920-4f10-9061-80dea211643b

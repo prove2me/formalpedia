@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordNormLpLemmas_lagCo_ne
 -- name    : Formalism.FourierDecayAlt.P.WordNormLpLemmas.lagCo_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:36:58.173241+00:00
 -- url     : https://prove2.me/theorems/b16df779-07d2-4906-8db5-14a1252fc9fb

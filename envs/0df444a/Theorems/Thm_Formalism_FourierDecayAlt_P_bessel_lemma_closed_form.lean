@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bessel_lemma_closed_form
 -- name    : Formalism.FourierDecayAlt.P.bessel_lemma_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:28:24.721953+00:00
 -- url     : https://prove2.me/theorems/3669e2fa-d8d8-4323-87e0-c4670c9a7628

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_wt_measurable
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.wt_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:27:43.136642+00:00
 -- url     : https://prove2.me/theorems/cb3ca97b-4a84-4189-bbd7-a22dd4135fbd

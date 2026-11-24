@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_tateForm_apply
 -- name    : GlobalTheory.Ex.tateForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:08:25.551993+00:00
 -- url     : https://prove2.me/theorems/24714491-d434-4195-af27-733e53245ff5

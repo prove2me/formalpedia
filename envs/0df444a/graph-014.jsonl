@@ -87771,7 +87771,7 @@
 {"parent": "SetCoverThreshold.SetCover.gapNPHard_of_reduction", "child": "SetCoverThreshold_SetCover_Complexity", "via": ["solution", "statement"]}
 {"parent": "SetCoverThreshold.SetCover.gapNPHard_of_reduction", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
 {"parent": "KallMayerSLP_Multistage_IsAggFeasible", "child": "KallMayerSLP_Multistage_zetaHat", "via": ["statement"]}
-{"parent": "OddGoldbach21.medium_count", "child": "Schnir_defs", "via": ["statement"]}
+{"parent": "OddGoldbach21.medium_count", "child": "Schnir_defs", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P28.tv_lower_information", "child": "QAlgorithms_Papers_Independent_Intakenext100_P28", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P18.exact_distillation_criterion", "child": "QAlgorithms_Papers_Independent_Intakenext100_P18", "via": ["statement"]}
 {"parent": "KallMayerSLP_NormalCC_IsNonDegenerateMultivariateCauchy", "child": "KallMayerSLP_NormalCC_IsStandardCauchyVector", "via": ["statement"]}
@@ -94412,7 +94412,7 @@
 {"parent": "LowRankIndicator.feas7_isBounded", "child": "LowRankIndicator_FeasibleSet7", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P55.corollary_5_31", "child": "QAlgorithms_Papers_Independent_Intake100_P55", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_edge_lower_bound__p2m_3e16b919_4c6f_4ffa_b173_33b0ad744e42_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "OddGoldbach19.medium_count_log260", "child": "Schnir_defs", "via": ["statement"]}
+{"parent": "OddGoldbach19.medium_count_log260", "child": "Schnir_defs", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P53.tomography_equivalence", "child": "QAlgorithms_Papers_Independent_Intake100_P53", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P26.explicitConstruction", "child": "QAlgorithms_Papers_Independent_Intake100_P26", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P34.response_constraints", "child": "QAlgorithms_Papers_Independent_Intake100_P34", "via": ["statement"]}

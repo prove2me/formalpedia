@@ -40724,7 +40724,7 @@
 {"parent": "Helfgott.rankin_sharp_coprime_coupled_weight_excluded_upper", "child": "Helfgott.rankin_coupled_finite_prime_product_upper", "via": ["solution"]}
 {"parent": "Helfgott.reference_etaCircle_etaStar_main_convolution_lower_tight", "child": "Helfgott_Smoothings", "via": ["solution", "statement"]}
 {"parent": "Helfgott.singularConstant_bounds", "child": "Helfgott_SingularSeries", "via": ["solution", "statement"]}
-{"parent": "Helfgott.singularConstant_converges_and_lower", "child": "Helfgott_SingularSeries", "via": ["statement"]}
+{"parent": "Helfgott.singularConstant_converges_and_lower", "child": "Helfgott_SingularSeries", "via": ["solution", "statement"]}
 {"parent": "Helfgott.singular_main_convolution_perturbation", "child": "Helfgott_SingularSeries", "via": ["solution", "statement"]}
 {"parent": "Helfgott.singular_main_convolution_perturbation", "child": "Helfgott_Smoothings", "via": ["solution", "statement"]}
 {"parent": "Helfgott.squarefree_harmonic_log_upper_bound", "child": "Helfgott.mobiusValuePair000_checked", "via": ["solution"]}
@@ -40734,8 +40734,8 @@
 {"parent": "Helfgott.squarefree_harmonic_log_upper_bound", "child": "Helfgott_MobiusFiniteTable1200001", "via": ["solution", "statement"]}
 {"parent": "Helfgott.squarefree_harmonic_numeric_group000_checked", "child": "Helfgott_MobiusFiniteTable1200001", "via": ["solution", "statement"]}
 {"parent": "Helfgott.squarefree_harmonic_numeric_group001_checked", "child": "Helfgott_MobiusFiniteTable1200001", "via": ["solution", "statement"]}
-{"parent": "Helfgott.three_odd_primes_of_coarse_arc_error", "child": "Helfgott_ArcCounting", "via": ["statement"]}
-{"parent": "Helfgott.three_odd_primes_of_coarse_arc_error", "child": "Helfgott_SingularSeries", "via": ["statement"]}
+{"parent": "Helfgott.three_odd_primes_of_coarse_arc_error", "child": "Helfgott_ArcCounting", "via": ["solution", "statement"]}
+{"parent": "Helfgott.three_odd_primes_of_coarse_arc_error", "child": "Helfgott_SingularSeries", "via": ["solution", "statement"]}
 {"parent": "Helfgott.three_odd_primes_of_weighted_count", "child": "Helfgott_PrimePowerRemoval", "via": ["solution", "statement"]}
 {"parent": "Helfgott.variable_radius_minor_arc_bound", "child": "Helfgott_ArcCounting", "via": ["solution", "statement"]}
 {"parent": "Helfgott.variable_radius_minor_arc_bound", "child": "Helfgott_WeightedCounting", "via": ["solution"]}

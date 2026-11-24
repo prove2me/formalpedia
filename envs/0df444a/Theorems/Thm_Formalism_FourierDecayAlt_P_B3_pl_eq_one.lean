@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_pl_eq_one
 -- name    : Formalism.FourierDecayAlt.P.B3.pl_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:27:52.79+00:00
 -- url     : https://prove2.me/theorems/96d5c066-023e-4726-b240-29b9ccbfe3f1

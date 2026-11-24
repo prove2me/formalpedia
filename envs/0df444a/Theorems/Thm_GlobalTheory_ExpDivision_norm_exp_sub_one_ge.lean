@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpDivision_norm_exp_sub_one_ge
 -- name    : GlobalTheory.ExpDivision.norm_exp_sub_one_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:07:10.317272+00:00
 -- url     : https://prove2.me/theorems/918c6f7b-efc7-45c2-a78c-9cde588e3163

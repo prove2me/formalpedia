@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_free_eigenSub
 -- name    : GlobalTheory.EigenSplit.free_eigenSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:52:38.928059+00:00
 -- url     : https://prove2.me/theorems/8d7df476-ed47-4b6d-ae84-793f1fe26b09

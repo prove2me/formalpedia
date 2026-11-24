@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_mass_card_cyclic
 -- name    : GlobalTheory.CuspGL.mass_card_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:32:54.935794+00:00
 -- url     : https://prove2.me/theorems/44ce6e4d-aed6-4ebc-9bf9-185c1600f64d

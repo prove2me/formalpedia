@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EqualityOnPoints_eq_on_points
 -- name    : GlobalTheory.EqualityOnPoints.eq_on_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:58:08.960462+00:00
 -- url     : https://prove2.me/theorems/4f307e5a-0db5-4bb7-9dc4-c27cde978735

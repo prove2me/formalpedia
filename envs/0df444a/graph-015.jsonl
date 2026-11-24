@@ -1128,7 +1128,7 @@
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.tendsto_pathLaw_of_tendsto_resolvent", "child": "MarkovProcess_V3H_Semigroup_OrbitContinuity_8cf8e1f5", "via": ["statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.tendsto_pathLaw_of_tendsto_resolvent", "child": "MarkovProcess_V3H_Feller_FiniteTimeConvergence_4d25bc20", "via": ["statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.tendsto_pathLaw_of_tendsto_resolvent", "child": "MarkovProcess_V3H_Semigroup_Resolvent_323559dd", "via": ["statement"]}
-{"parent": "OddGoldbach19.large_count_exp260", "child": "Schnir_defs", "via": ["statement"]}
+{"parent": "OddGoldbach19.large_count_exp260", "child": "Schnir_defs", "via": ["solution", "statement"]}
 {"parent": "EllsbergLearning_ValueCandidates", "child": "EllsbergLearning_CriticalValues", "via": ["statement"]}
 {"parent": "MarkovProcess.dyadicTime_mono", "child": "MarkovProcess_V3H_Continuity_DyadicPathChaining_e74fe8f3", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P97.measurableGaussian_flow", "child": "QAlgorithms_Papers_Independent_Intake100_P97", "via": ["statement"]}
@@ -2336,7 +2336,7 @@
 {"parent": "SupplierLearning.deferred_payment", "child": "SupplierLearning_Params_rent", "via": ["solution", "statement"]}
 {"parent": "SupplierLearning.deferred_payment", "child": "SupplierLearning_Params_stagePayoff", "via": ["solution", "statement"]}
 {"parent": "SupplierLearning.deferred_payment", "child": "SupplierLearning_Params", "via": ["solution", "statement"]}
-{"parent": "OddGoldbach19.small_density_A", "child": "Schnir_defs", "via": ["statement"]}
+{"parent": "OddGoldbach19.small_density_A", "child": "Schnir_defs", "via": ["solution", "statement"]}
 {"parent": "MultiServerAppt_Tblock", "child": "MatrixAnalytic_PH_Continuous", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P65.annihilatedSimpleFactors", "child": "QAlgorithms_Papers_Independent_Intake100_P65", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P20.internalCategoriesInSet", "child": "QAlgorithms_Papers_Independent_Intake100_P20", "via": ["solution", "statement"]}
@@ -4029,7 +4029,7 @@
 {"parent": "AvramDividend.Classical.avram_wave3_02_all_barrier_positive_capital_pos", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave3_02_all_barrier_positive_capital_pos", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave3_02_all_barrier_positive_capital_pos", "child": "AvramDividend.Classical.avram_wave3_02_all_nonnegative_barriers_sup", "via": ["solution", "statement"]}
-{"parent": "OddGoldbach19.medium_count_log100", "child": "Schnir_defs", "via": ["statement"]}
+{"parent": "OddGoldbach19.medium_count_log100", "child": "Schnir_defs", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_length_41", "child": "OAIQ019N048", "via": ["solution", "statement"]}
 {"parent": "GhostPenalty.proposition_3", "child": "GhostPenalty_IsSubproblemSolutionMap", "via": ["statement"]}
 {"parent": "GhostPenalty.proposition_3", "child": "GhostPenalty_StandingAssumptions", "via": ["statement"]}
@@ -5697,7 +5697,7 @@
 {"parent": "HuangN13_ReciprocalPolynomialFactsCore", "child": "MazurN13_L4", "via": ["statement"]}
 {"parent": "ScholtesStab_MPCC_a01", "child": "ScholtesStab_MPCC", "via": ["statement"]}
 {"parent": "DynStochMatching_Reward_RealMachine", "child": "DynStochMatching_Reward_LinearPrograms", "via": ["statement"]}
-{"parent": "OddGoldbach21.large_count", "child": "Schnir_defs", "via": ["statement"]}
+{"parent": "OddGoldbach21.large_count", "child": "Schnir_defs", "via": ["solution", "statement"]}
 {"parent": "OAI.GeneralMahler.SCal.SE.costPos", "child": "OAIQ026G002", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P95.unrestrictedTwoSidedInversion", "child": "QAlgorithms_Papers_Independent_Intake100_P95", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P98.three_part_affine_stretching", "child": "QAlgorithms_Papers_Independent_Intake100_P98", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreMax_exists_isMaximal_height_ge
 -- name    : GlobalTheory.FibreMax.exists_isMaximal_height_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:18.999562+00:00
 -- url     : https://prove2.me/theorems/5f114f9e-f507-4864-af53-8b47a13391b0

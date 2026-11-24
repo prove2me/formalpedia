@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigDecomp_exists_unique_eigen_sum
 -- name    : GlobalTheory.EigDecomp.exists_unique_eigen_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:53:20.872781+00:00
 -- url     : https://prove2.me/theorems/cbb14582-83c8-4852-a938-8547bafc7d52

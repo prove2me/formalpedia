@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_symmetricScalarBlockMatrix_mul
 -- name    : Formalism.FourierDecayAlt.P.Ux3.symmetricScalarBlockMatrix_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:47:18.384459+00:00
 -- url     : https://prove2.me/theorems/ce53a899-10d2-4e06-a088-8175af5ba36e

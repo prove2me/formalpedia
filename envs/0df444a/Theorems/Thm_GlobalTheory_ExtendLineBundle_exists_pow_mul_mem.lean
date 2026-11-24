@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendLineBundle_exists_pow_mul_mem
 -- name    : GlobalTheory.ExtendLineBundle.exists_pow_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:17:29.618601+00:00
 -- url     : https://prove2.me/theorems/2487d083-e21a-43aa-a4d1-5a68889c0754

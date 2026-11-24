@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_leviElt_mulVec
 -- name    : GlobalTheory.Doubling.leviElt_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:33:40.403675+00:00
 -- url     : https://prove2.me/theorems/10e557ad-6423-474a-9707-5165e0b705c8

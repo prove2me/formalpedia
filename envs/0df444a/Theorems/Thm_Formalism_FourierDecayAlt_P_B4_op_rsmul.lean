@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_op_rsmul
 -- name    : Formalism.FourierDecayAlt.P.B4.op_rsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:28:53.993057+00:00
 -- url     : https://prove2.me/theorems/97c00bbc-fe81-4e3e-b9e6-af58502a04b4

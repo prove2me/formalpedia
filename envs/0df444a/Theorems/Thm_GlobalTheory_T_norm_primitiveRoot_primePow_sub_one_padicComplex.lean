@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_primitiveRoot_primePow_sub_one_padicComplex
 -- name    : GlobalTheory.T.norm_primitiveRoot_primePow_sub_one_padicComplex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:39:31.225841+00:00
 -- url     : https://prove2.me/theorems/f34cf2a3-e222-4d11-a7c6-2fc1a59b3e42

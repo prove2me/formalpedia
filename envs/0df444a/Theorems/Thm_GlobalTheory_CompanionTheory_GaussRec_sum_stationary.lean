@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussRec_sum_stationary
 -- name    : GlobalTheory.CompanionTheory.GaussRec.sum_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:43:36.351557+00:00
 -- url     : https://prove2.me/theorems/33401408-701a-42d1-88ac-56f1fdca6d9b

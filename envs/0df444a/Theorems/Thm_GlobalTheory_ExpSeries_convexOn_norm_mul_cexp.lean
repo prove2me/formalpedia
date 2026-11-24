@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpSeries_convexOn_norm_mul_cexp
 -- name    : GlobalTheory.ExpSeries.convexOn_norm_mul_cexp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:07:42.28027+00:00
 -- url     : https://prove2.me/theorems/cd335df9-dfcd-4d5a-a2bf-34d198bddd3a

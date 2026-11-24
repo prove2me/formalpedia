@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwContraction_step
 -- name    : GlobalTheory.CompanionTheory.TwContraction.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:18:31.309299+00:00
 -- url     : https://prove2.me/theorems/03bcc50c-1459-43c1-a6d0-05bfaff3d1f0

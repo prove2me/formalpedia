@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteHomogeneousBound_norm_le_of_completeHomogeneous_le
 -- name    : GlobalTheory.CompleteHomogeneousBound.norm_le_of_completeHomogeneous_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:24:44.069655+00:00
 -- url     : https://prove2.me/theorems/b283c383-6faf-4f27-9005-9181f1ba632e

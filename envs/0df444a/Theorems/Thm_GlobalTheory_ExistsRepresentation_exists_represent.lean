@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExistsRepresentation_exists_represent
 -- name    : GlobalTheory.ExistsRepresentation.exists_represent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:07:24.84972+00:00
 -- url     : https://prove2.me/theorems/8a9a1091-0f9d-4058-b6fc-59b473cbff50

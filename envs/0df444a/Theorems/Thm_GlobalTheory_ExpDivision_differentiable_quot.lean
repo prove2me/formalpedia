@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpDivision_differentiable_quot
 -- name    : GlobalTheory.ExpDivision.differentiable_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:07:17.094443+00:00
 -- url     : https://prove2.me/theorems/b6520925-427c-448e-893d-e11fef27b505

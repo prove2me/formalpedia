@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SmallMat_exists_approx
 -- name    : GlobalTheory.UnRep.SmallMat.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:21:34.534877+00:00
 -- url     : https://prove2.me/theorems/d5008f88-e179-4359-b2da-41caf77619a0

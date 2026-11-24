@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_coordIdeal_eq_of_coord_eq
 -- name    : FunctorialResolution.EmbeddedResolution.coordIdeal_eq_of_coord_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:34:04.974967+00:00
 -- url     : https://prove2.me/theorems/5dc7ef03-84eb-4edf-b669-220327e25c66

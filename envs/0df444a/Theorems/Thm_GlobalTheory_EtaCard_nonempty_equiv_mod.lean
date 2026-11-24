@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaCard_nonempty_equiv_mod
 -- name    : GlobalTheory.EtaCard.nonempty_equiv_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:59:47.757788+00:00
 -- url     : https://prove2.me/theorems/918ebc83-90b3-49e3-823b-d0e9bd58e014

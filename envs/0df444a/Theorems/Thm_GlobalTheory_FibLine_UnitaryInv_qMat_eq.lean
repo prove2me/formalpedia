@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_UnitaryInv_qMat_eq
 -- name    : GlobalTheory.FibLine.UnitaryInv.qMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:18.378662+00:00
 -- url     : https://prove2.me/theorems/cc941ef5-20be-48ff-9db7-986f6ba993e9

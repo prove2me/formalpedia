@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_loc_ind_pos
 -- name    : GlobalTheory.UnRep.Compare.loc_ind_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:18:17.112799+00:00
 -- url     : https://prove2.me/theorems/cf73ba6b-22e5-4448-96cb-70f7cb2be369

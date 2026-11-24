@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibCos_cos_fs_moebius
 -- name    : GlobalTheory.FibCos.cos_fs_moebius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:18:50.286051+00:00
 -- url     : https://prove2.me/theorems/ba2d0c38-fc84-4829-95d9-84665a0706da

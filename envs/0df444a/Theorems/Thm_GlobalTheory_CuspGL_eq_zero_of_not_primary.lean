@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_eq_zero_of_not_primary
 -- name    : GlobalTheory.CuspGL.eq_zero_of_not_primary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:30:48.066189+00:00
 -- url     : https://prove2.me/theorems/68247e00-0368-476c-907e-2d9cfc2f49f7

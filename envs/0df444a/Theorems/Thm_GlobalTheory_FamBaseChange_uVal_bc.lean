@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamBaseChange_uVal_bc
 -- name    : GlobalTheory.FamBaseChange.uVal_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:17:37.473712+00:00
 -- url     : https://prove2.me/theorems/9f4d289e-bfef-494f-88b4-ec95009dd23b

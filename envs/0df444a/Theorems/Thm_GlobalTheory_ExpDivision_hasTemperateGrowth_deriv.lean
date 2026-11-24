@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpDivision_hasTemperateGrowth_deriv
 -- name    : GlobalTheory.ExpDivision.hasTemperateGrowth_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:07:42.280357+00:00
 -- url     : https://prove2.me/theorems/c2b82686-805d-497e-a1a8-4c1c39b4ac36

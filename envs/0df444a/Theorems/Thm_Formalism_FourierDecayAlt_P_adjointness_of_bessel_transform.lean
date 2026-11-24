@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_adjointness_of_bessel_transform
 -- name    : Formalism.FourierDecayAlt.P.adjointness_of_bessel_transform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:36:19.994441+00:00
 -- url     : https://prove2.me/theorems/829193bf-19bc-4954-875c-4806e22b933f

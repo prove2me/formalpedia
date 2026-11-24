@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_UnitaryInv_fsDens_eq
 -- name    : GlobalTheory.FibLine.UnitaryInv.fsDens_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:23:27.422791+00:00
 -- url     : https://prove2.me/theorems/36156969-9d8d-499a-82b2-239afeef607c

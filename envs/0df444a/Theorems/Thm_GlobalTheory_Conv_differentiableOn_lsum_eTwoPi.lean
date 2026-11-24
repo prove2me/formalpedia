@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_differentiableOn_lsum_eTwoPi
 -- name    : GlobalTheory.Conv.differentiableOn_lsum_eTwoPi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:13.637639+00:00
 -- url     : https://prove2.me/theorems/da84b7c8-127e-4be0-810f-2bc8b9a7f650

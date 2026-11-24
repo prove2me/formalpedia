@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFrameSpan_pairing_nondegenerate
 -- name    : GlobalTheory.DualFrameSpan.pairing_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:51:40.36866+00:00
 -- url     : https://prove2.me/theorems/48025684-dfaf-44d1-ad17-4d9b4c5a5255

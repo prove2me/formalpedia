@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_lim_herm_fv
 -- name    : GlobalTheory.AdLat.lim_herm_fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:21:01.641316+00:00
 -- url     : https://prove2.me/theorems/3cac87a7-0584-40f7-afb9-11e580aa5126
