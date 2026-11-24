@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SuppBdd_exists_compact_of_integral
 -- name    : GlobalTheory.JR.SuppBdd.exists_compact_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:38:07.729966+00:00
 -- url     : https://prove2.me/theorems/fbdf7a4f-f02a-4bcd-ada1-7fd71ecc4dc7

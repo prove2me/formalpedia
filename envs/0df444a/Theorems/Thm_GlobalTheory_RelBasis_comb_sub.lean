@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelBasis_comb_sub
 -- name    : GlobalTheory.RelBasis.comb_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:20:28.050608+00:00
 -- url     : https://prove2.me/theorems/b0e60962-1b74-4de8-bdc8-7001f37fa7cf

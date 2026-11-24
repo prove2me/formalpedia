@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpansionTotal_exists_toFrac
 -- name    : GlobalTheory.ExpansionTotal.exists_toFrac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:03:04.379887+00:00
 -- url     : https://prove2.me/theorems/ccc3c395-e5cf-4dde-af30-6a9e926a0076

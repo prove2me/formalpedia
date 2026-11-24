@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidTriv_exists_normalised
 -- name    : GlobalTheory.RigidTriv.exists_normalised
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:09.935016+00:00
 -- url     : https://prove2.me/theorems/371310a0-b42f-45b2-b63e-33bdf1a7830b

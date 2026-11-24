@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepTrace_isUnit_of_ne_zero
 -- name    : GlobalTheory.RepTrace.isUnit_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:21:40.429019+00:00
 -- url     : https://prove2.me/theorems/e817735b-9506-43da-a0a2-d59d7a414752

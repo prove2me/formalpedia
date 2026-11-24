@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RosatiCube_IsNormGen_val_origin
 -- name    : GlobalTheory.RosatiCube.IsNormGen.val_origin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:30:57.86218+00:00
 -- url     : https://prove2.me/theorems/6e851469-8d98-41eb-8e3f-fecbdf7607f3

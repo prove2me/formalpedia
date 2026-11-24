@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_integrable_map
 -- name    : GlobalTheory.OpTrace.integrable_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:41:38.044539+00:00
 -- url     : https://prove2.me/theorems/f3262322-8ae8-40ad-bab3-cdd7e577f9af

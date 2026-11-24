@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_CellChange_exists_algEquiv_of_generates
 -- name    : GlobalTheory.Reg.CellChange.exists_algEquiv_of_generates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:18:35.646326+00:00
 -- url     : https://prove2.me/theorems/cb661cec-2fa3-41bf-8f74-395d9c26aac2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeroNearOne_le_order
 -- name    : GlobalTheory.RealZeroNearOne.le_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:16:59.033934+00:00
 -- url     : https://prove2.me/theorems/fca0fc58-dbd7-41dd-8c1e-dae9182075cb

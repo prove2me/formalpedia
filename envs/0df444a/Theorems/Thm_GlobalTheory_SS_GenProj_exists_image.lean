@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GenProj_exists_image
 -- name    : GlobalTheory.SS.GenProj.exists_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:33:25.52008+00:00
 -- url     : https://prove2.me/theorems/e5ea7811-1b16-44b2-9065-26c8094a8b8b

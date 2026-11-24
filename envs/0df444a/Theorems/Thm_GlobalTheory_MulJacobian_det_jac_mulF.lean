@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulJacobian_det_jac_mulF
 -- name    : GlobalTheory.MulJacobian.det_jac_mulF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:29:00.148796+00:00
 -- url     : https://prove2.me/theorems/7d5b2eed-288f-43c8-9f4c-97f031391e1d

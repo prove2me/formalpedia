@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerBor_inv_support
 -- name    : GlobalTheory.PerBor.inv_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:05:36.875955+00:00
 -- url     : https://prove2.me/theorems/efe90f79-693e-4b3f-b82a-d07cedb65b8b

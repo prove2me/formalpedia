@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_nval_unit
 -- name    : GlobalTheory.Reg.ChartInt.nval_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:24:35.212028+00:00
 -- url     : https://prove2.me/theorems/d6772f35-7783-4626-a936-14910501a543

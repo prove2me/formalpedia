@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_fg_ker
 -- name    : GlobalTheory.Retract.fg_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:20:55.122354+00:00
 -- url     : https://prove2.me/theorems/834507f7-3491-4673-b3dc-996ac53e24ec

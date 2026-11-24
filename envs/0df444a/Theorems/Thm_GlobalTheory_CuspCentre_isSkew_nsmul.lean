@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_isSkew_nsmul
 -- name    : GlobalTheory.CuspCentre.isSkew_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:51:13.526881+00:00
 -- url     : https://prove2.me/theorems/ee2f6113-2cf1-4f97-a5fa-e365cf314452

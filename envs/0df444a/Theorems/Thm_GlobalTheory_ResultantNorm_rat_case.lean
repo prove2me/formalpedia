@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResultantNorm_rat_case
 -- name    : GlobalTheory.ResultantNorm.rat_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:21:03.48674+00:00
 -- url     : https://prove2.me/theorems/20409247-c9ad-4c9b-a592-1222fc3cc1f7

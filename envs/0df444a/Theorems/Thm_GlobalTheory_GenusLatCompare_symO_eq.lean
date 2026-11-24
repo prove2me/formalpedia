@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenusLatCompare_symO_eq
 -- name    : GlobalTheory.GenusLatCompare.symO_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:59:40.951223+00:00
 -- url     : https://prove2.me/theorems/b72c4664-ce04-42b5-8aba-203c107c5fcd

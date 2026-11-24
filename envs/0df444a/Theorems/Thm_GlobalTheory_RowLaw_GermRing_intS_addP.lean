@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_intS_addP
 -- name    : GlobalTheory.RowLaw.GermRing.intS_addP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:31:48.605472+00:00
 -- url     : https://prove2.me/theorems/4ec1a9e2-e268-40ce-bcd3-bd68dc497c2d

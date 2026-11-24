@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomLinear_isTangent_comp
 -- name    : GlobalTheory.HomLinear.isTangent_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:55:57.075379+00:00
 -- url     : https://prove2.me/theorems/4b3b8e31-5d99-4540-8efc-e1ac3723d119

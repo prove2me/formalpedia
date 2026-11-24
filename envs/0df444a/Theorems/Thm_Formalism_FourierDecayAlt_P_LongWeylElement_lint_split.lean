@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_lint_split
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.lint_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:17:09.819805+00:00
 -- url     : https://prove2.me/theorems/fe3f1aa1-a57e-4bf1-938f-6e7d9b1a3e54

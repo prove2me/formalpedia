@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_UnitaryFiniteCovolume_compactSpace_of_definite
 -- name    : GlobalTheory.Published.UnitaryFiniteCovolume.compactSpace_of_definite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:58:00.110695+00:00
 -- url     : https://prove2.me/theorems/f05e0a18-de7d-4405-a90b-9e4ef91d1fb6

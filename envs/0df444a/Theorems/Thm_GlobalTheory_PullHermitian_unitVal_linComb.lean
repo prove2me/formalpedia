@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullHermitian_unitVal_linComb
 -- name    : GlobalTheory.PullHermitian.unitVal_linComb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:14:25.948881+00:00
 -- url     : https://prove2.me/theorems/da01dc15-f925-445a-bf92-6610f5c85179

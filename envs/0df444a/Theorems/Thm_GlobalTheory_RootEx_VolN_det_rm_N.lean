@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_VolN_det_rm_N
 -- name    : GlobalTheory.RootEx.VolN.det_rm_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:09.742765+00:00
 -- url     : https://prove2.me/theorems/72e77107-7b97-4bd8-bcd6-0d5f5e33b21f

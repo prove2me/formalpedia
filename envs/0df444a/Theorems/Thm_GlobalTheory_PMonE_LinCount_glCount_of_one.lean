@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LinCount_glCount_of_one
 -- name    : GlobalTheory.PMonE.LinCount.glCount_of_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:38:53.2234+00:00
 -- url     : https://prove2.me/theorems/b17f966a-e2c7-47cd-b370-c9f74fcf7aea

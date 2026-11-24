@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushInv_exists_nhds_of_gs_eq
 -- name    : GlobalTheory.PushInv.exists_nhds_of_gs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:58:29.990797+00:00
 -- url     : https://prove2.me/theorems/089ef3f5-2e4a-4322-902b-91d37897965c

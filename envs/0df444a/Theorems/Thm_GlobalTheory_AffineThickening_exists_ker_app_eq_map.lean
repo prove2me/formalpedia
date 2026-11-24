@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_exists_ker_app_eq_map
 -- name    : GlobalTheory.AffineThickening.exists_ker_app_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:58:12.651625+00:00
 -- url     : https://prove2.me/theorems/2a9d3327-f20a-442b-9869-e303711028d8

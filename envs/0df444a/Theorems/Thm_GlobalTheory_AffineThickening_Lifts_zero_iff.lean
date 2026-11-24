@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_Lifts_zero_iff
 -- name    : GlobalTheory.AffineThickening.Lifts.zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:57:22.797696+00:00
 -- url     : https://prove2.me/theorems/b70025ab-e9cf-4c68-b04c-10e3b384aecc

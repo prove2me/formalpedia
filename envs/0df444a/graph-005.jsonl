@@ -42460,8 +42460,8 @@
 {"parent": "OAI.SquareRootDegree.fourier_inversion", "child": "SquareRootDegree", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_dirichlet_arithmetic11", "child": "TaoFivePrimes_RHHighDirichletValues11", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_dirichlet_arithmetic11", "child": "TaoFivePrimes_RHHighDirichletArithmetic", "via": ["solution", "statement"]}
-{"parent": "SeqLoss.TreeRules.proposition_3", "child": "SeqLoss_TreeRules_Axioms", "via": ["statement"]}
-{"parent": "SeqLoss.TreeRules.proposition_3", "child": "SeqLoss_TreeRules_Setting", "via": ["statement"]}
+{"parent": "SeqLoss.TreeRules.proposition_3", "child": "SeqLoss_TreeRules_Axioms", "via": ["solution", "statement"]}
+{"parent": "SeqLoss.TreeRules.proposition_3", "child": "SeqLoss_TreeRules_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.NoiselessRegression.lintegral_pi_prefix", "child": "OAI_Probability_ProjectionMoments_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.NoiselessRegression.lintegral_pi_prefix", "child": "OAI_Probability_GaussianRegression_Blocks", "via": ["solution", "statement"]}
 {"parent": "OAI.NoiselessRegression.lintegral_pi_prefix", "child": "OAI_Probability_GaussianRegression_Sphere", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_bdd_of_weak
 -- name    : PositivityTheory.RL.Up.bdd_of_weak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:59:46.037265+00:00
 -- url     : https://prove2.me/theorems/d68f8377-043a-48bd-b3fe-241e197e3c2f

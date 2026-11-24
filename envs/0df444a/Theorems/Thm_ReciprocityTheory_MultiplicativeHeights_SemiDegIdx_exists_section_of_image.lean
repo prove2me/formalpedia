@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_exists_section_of_image
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.exists_section_of_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:09:18.631795+00:00
 -- url     : https://prove2.me/theorems/6b2125bf-01af-497a-9439-146f6fa3957e

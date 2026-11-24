@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientHaar_measurable_cosetMeasure
 -- name    : GlobalTheory.QuotientHaar.measurable_cosetMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:35:12.901486+00:00
 -- url     : https://prove2.me/theorems/a91c9dce-9f93-4abc-b53b-ed4e44b8c34c

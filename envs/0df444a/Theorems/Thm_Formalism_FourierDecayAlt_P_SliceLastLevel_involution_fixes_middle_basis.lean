@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_involution_fixes_middle_basis
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.involution_fixes_middle_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:07:49.25831+00:00
 -- url     : https://prove2.me/theorems/304bfe50-feb5-47ae-ad55-48cf97eb23ab

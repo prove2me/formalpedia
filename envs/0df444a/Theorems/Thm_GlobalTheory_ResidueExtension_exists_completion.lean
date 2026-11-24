@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueExtension_exists_completion
 -- name    : GlobalTheory.ResidueExtension.exists_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:58.753799+00:00
 -- url     : https://prove2.me/theorems/0e5cebf0-8a38-4634-af45-292676a7fd94

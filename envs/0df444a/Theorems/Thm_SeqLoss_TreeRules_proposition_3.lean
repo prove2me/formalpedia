@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_TreeRules_proposition_3
 -- name    : SeqLoss.TreeRules.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:29.342291+00:00
 -- url     : https://prove2.me/theorems/06f6d32a-3266-4247-8713-6946dea4a485

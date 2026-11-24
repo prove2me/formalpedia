@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_subst_sum
 -- name    : GlobalTheory.RowLaw.GermRing.subst_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:31:23.462813+00:00
 -- url     : https://prove2.me/theorems/ada39df0-0e19-4db3-9b9a-17325c0f8ad4

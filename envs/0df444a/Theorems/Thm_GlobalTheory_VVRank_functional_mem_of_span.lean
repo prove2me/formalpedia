@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_functional_mem_of_span
 -- name    : GlobalTheory.VVRank.functional_mem_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:58:35.803904+00:00
 -- url     : https://prove2.me/theorems/059b779a-3d43-4994-8d64-c6b1c7320324

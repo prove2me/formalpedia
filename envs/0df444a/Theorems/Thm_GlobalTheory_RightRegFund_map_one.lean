@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RightRegFund_map_one
 -- name    : GlobalTheory.RightRegFund.map_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:10.381782+00:00
 -- url     : https://prove2.me/theorems/31423894-8a26-486b-87e8-877bcd7bbd26

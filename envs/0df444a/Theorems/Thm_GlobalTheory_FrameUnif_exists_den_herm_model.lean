@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnif_exists_den_herm_model
 -- name    : GlobalTheory.FrameUnif.exists_den_herm_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:54:52.453576+00:00
 -- url     : https://prove2.me/theorems/e7207ffa-2e00-481a-8251-56d216364652

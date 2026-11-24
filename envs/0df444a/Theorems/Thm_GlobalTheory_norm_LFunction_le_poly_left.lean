@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_LFunction_le_poly_left
 -- name    : GlobalTheory.norm_LFunction_le_poly_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:53:06.84835+00:00
 -- url     : https://prove2.me/theorems/426a6c08-9075-4d91-a0b3-87bf368fff19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_CoefQDecay_fourier_bound
 -- name    : GlobalTheory.RealWeil.CoefQDecay.fourier_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:14:47.496274+00:00
 -- url     : https://prove2.me/theorems/40b14155-a7f3-4e8a-a87f-94c3872e89f2

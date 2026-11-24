@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_exists_basis
 -- name    : GlobalTheory.QuadraticZeta.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:33:34.94672+00:00
 -- url     : https://prove2.me/theorems/bf26e243-18b8-492e-9e6f-c9cbef4a73d6

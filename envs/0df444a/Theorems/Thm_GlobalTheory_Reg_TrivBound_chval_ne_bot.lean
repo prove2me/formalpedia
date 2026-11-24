@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_chval_ne_bot
 -- name    : GlobalTheory.Reg.TrivBound.chval_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:19:44.954592+00:00
 -- url     : https://prove2.me/theorems/fe005769-88f8-480f-b8f4-376b60b5c7c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExSource_det_eq_one_of_unip
 -- name    : GlobalTheory.RootExSource.det_eq_one_of_unip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:36.223854+00:00
 -- url     : https://prove2.me/theorems/34a2640d-ac2a-4c45-9bb0-ec816652e1d9

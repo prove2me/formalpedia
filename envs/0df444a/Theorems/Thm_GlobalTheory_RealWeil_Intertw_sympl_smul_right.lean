@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Intertw_sympl_smul_right
 -- name    : GlobalTheory.RealWeil.Intertw.sympl_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:15:30.724658+00:00
 -- url     : https://prove2.me/theorems/dbd1f83d-c9ad-42bc-9d95-3c8b10c742f2

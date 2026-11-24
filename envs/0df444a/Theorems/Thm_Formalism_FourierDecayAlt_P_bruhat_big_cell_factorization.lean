@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bruhat_big_cell_factorization
 -- name    : Formalism.FourierDecayAlt.P.bruhat_big_cell_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:03:29.036916+00:00
 -- url     : https://prove2.me/theorems/1b102ae2-b4c1-4480-b42a-c47caf388525

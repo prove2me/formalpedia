@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_zUnit_add
 -- name    : GlobalTheory.CuspCentre.zUnit_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:51:23.694289+00:00
 -- url     : https://prove2.me/theorems/48773bef-e20a-4af3-a08b-1185c12ffe20

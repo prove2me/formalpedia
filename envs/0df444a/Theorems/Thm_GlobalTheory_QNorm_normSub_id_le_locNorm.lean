@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_normSub_id_le_locNorm
 -- name    : GlobalTheory.QNorm.normSub_id_le_locNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:46:38.382852+00:00
 -- url     : https://prove2.me/theorems/c7a342bc-3747-4eaf-b7c2-71a397328748

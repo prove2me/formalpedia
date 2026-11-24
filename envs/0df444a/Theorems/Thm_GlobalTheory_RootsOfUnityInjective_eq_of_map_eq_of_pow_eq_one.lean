@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootsOfUnityInjective_eq_of_map_eq_of_pow_eq_one
 -- name    : GlobalTheory.RootsOfUnityInjective.eq_of_map_eq_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:30:51.6626+00:00
 -- url     : https://prove2.me/theorems/ba23019c-94e5-41de-8eee-119e041a8317

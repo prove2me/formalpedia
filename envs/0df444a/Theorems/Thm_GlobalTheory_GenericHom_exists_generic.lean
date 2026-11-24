@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericHom_exists_generic
 -- name    : GlobalTheory.GenericHom.exists_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:41.875958+00:00
 -- url     : https://prove2.me/theorems/f6f155ff-d0fa-41ee-b0ab-ef3a68ca9794

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointsCompact_compactSpace_points_polAV
 -- name    : GlobalTheory.PointsCompact.compactSpace_points_polAV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:52:16.782579+00:00
 -- url     : https://prove2.me/theorems/55167332-1801-453c-99ef-f16ffae3f6c5

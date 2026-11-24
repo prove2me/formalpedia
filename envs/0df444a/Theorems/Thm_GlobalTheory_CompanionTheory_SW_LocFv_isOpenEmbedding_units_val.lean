@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocFv_isOpenEmbedding_units_val
 -- name    : GlobalTheory.CompanionTheory.SW.LocFv.isOpenEmbedding_units_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:08:46.140514+00:00
 -- url     : https://prove2.me/theorems/05007522-8e7e-408b-8419-f3a434293d4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueDegreeChart_exists_eq_div_evaluation
 -- name    : GlobalTheory.ResidueDegreeChart.exists_eq_div_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:53.061449+00:00
 -- url     : https://prove2.me/theorems/58609e1f-bd96-4979-b5fc-363c0c2dee31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_exists_prime_natCast_mem
 -- name    : GlobalTheory.Reg.exists_prime_natCast_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:21:50.239722+00:00
 -- url     : https://prove2.me/theorems/ee8fc2ff-aaa9-4eb6-9290-b41c493213ed

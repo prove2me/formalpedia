@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_actsAs_gal
 -- name    : Formalism.HC.HostRaw.actsAs_gal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:23:54.064702+00:00
 -- url     : https://prove2.me/theorems/ed0c63e5-e838-434c-9e9d-bcb92a35d9cb

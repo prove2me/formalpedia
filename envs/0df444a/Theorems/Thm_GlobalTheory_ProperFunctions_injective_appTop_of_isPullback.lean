@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_injective_appTop_of_isPullback
 -- name    : GlobalTheory.ProperFunctions.injective_appTop_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:20.524209+00:00
 -- url     : https://prove2.me/theorems/07efd4ac-fad2-4089-bd83-0667a8bf7089

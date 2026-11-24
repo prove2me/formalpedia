@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartBC_list_prod_comp
 -- name    : GlobalTheory.RawChartBC.list_prod_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:15:04.198481+00:00
 -- url     : https://prove2.me/theorems/e6633463-065b-4159-98bc-d99c17d07260

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_haar_measure
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_haar_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:39:38.82009+00:00
 -- url     : https://prove2.me/theorems/d7b300e1-d3dc-4a96-b82c-6981b14ff1a9

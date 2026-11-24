@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_exists_forall_of_mono
 -- name    : GlobalTheory.AffineThickening.exists_forall_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:58:34.370502+00:00
 -- url     : https://prove2.me/theorems/668a5c54-39e9-4616-8c9e-3dbf8cd1fbcd

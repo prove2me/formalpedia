@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ConjVol_conj_mem_of_tri
 -- name    : GlobalTheory.RootEx.ConjVol.conj_mem_of_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:24:10.587183+00:00
 -- url     : https://prove2.me/theorems/36607855-a6ae-42ea-866c-de38cf16e339

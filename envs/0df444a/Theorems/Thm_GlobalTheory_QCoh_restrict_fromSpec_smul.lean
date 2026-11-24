@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_restrict_fromSpec_smul
 -- name    : GlobalTheory.QCoh.restrict_fromSpec_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:52.107639+00:00
 -- url     : https://prove2.me/theorems/85acb521-0b21-4f9d-9215-a34e74c5c255

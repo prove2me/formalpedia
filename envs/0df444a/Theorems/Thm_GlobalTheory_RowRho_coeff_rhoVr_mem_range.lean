@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowRho_coeff_rhoVr_mem_range
 -- name    : GlobalTheory.RowRho.coeff_rhoVr_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:32:45.78199+00:00
 -- url     : https://prove2.me/theorems/086677bb-66cf-4b04-86fc-e12520c43ef2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_isLocalization_away
 -- name    : GlobalTheory.DvrModel.isLocalization_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:57:45.879916+00:00
 -- url     : https://prove2.me/theorems/82430d65-5fab-4914-927d-655c476db06c

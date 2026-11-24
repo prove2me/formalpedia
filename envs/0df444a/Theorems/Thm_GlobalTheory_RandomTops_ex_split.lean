@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_ex_split
 -- name    : GlobalTheory.RandomTops.ex_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:44:35.503256+00:00
 -- url     : https://prove2.me/theorems/bb444b52-3176-4f21-bdee-d8e36a558630

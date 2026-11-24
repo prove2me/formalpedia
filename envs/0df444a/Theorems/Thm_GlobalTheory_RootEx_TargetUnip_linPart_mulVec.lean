@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_TargetUnip_linPart_mulVec
 -- name    : GlobalTheory.RootEx.TargetUnip.linPart_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:30:13.976886+00:00
 -- url     : https://prove2.me/theorems/0bd5908d-e953-490f-9e80-44fce68fc8d4

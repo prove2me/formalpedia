@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_TargetUnip_det_eq_one_of_level
 -- name    : GlobalTheory.RootEx.TargetUnip.det_eq_one_of_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:30:02.761971+00:00
 -- url     : https://prove2.me/theorems/0acc8704-6a7d-4dbe-95ab-be998529421e

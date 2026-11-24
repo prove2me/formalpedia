@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for GlobalTheory.RootEx.ConjVol.exists_ne_zero_one
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-24T19:57:49.253467+00:00
+-- url     : https://prove2.me/submissions/9547ad5c-c164-4b21-83d5-8aeaf02aef0e
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_BlockTheory_TwistedDiscreteSeries_FourierJacobiAverage
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_WeilFormulaRootExchangeParabolicIntersection
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_MemNormalizerOfTri
+import Theorems.Thm_Formalism_MainNotions_S_Loc_Pt_cast_blocks
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] Formalism.MainNotions.S.Loc.Pt.cast_blocks
+
+
+
+set_option autoImplicit false
+open MeasureTheory ValuativeRel Matrix GlobalTheory.SplitWeil GlobalTheory.RootEx GlobalTheory.IndefiniteRowSideFullHecke.FourierJacobiAverage
+open scoped NNReal
+noncomputable section
+open GlobalTheory GlobalTheory.RootEx GlobalTheory.RootEx.ConjVol
+variable {k : Type} [Field k] [ValuativeRel k] [TopologicalSpace k] [IsNonarchimedeanLocalField k]
+  {n : Type} [Fintype n] [DecidableEq n] {c : ℕ}
+omit [TopologicalSpace k] [IsNonarchimedeanLocalField k]
+namespace GlobalTheory.RootEx.ConjVol
+theorem _root_.solution [ValuativeRel.IsNontrivial k] : ∃ a : k, a ≠ 0 ∧ a ≠ 1 := by
+  obtain ⟨γ, h0, h1⟩ := ValuativeRel.IsNontrivial.condition (R := k)
+  obtain ⟨a, rfl⟩ := ValuativeRel.valuation_surjective γ
+  exact ⟨a, by rintro rfl; simp at h0, by rintro rfl; simp at h1⟩
+end GlobalTheory.RootEx.ConjVol

@@ -1,0 +1,67 @@
+-- Prove2me | solution 1 for GlobalTheory.DerLin.surj_fst
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-24T20:14:08.088952+00:00
+-- url     : https://prove2.me/submissions/d58cda8e-f795-4b69-a082-498c043a4880
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExponentialDerivativeAtZeroIsTangentStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_DerivativeAlongTangentCombinationModuliStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExistsTangentModuleUniversalGroupStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ExistenceOfLattices_UnivFrame
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ExistenceOfLattices_NormConst
+import Definitions.Def_Formalism_LocalToGlobal_ProjectiveLattices_CuspFree
+import Definitions.Def_Formalism_LocalToGlobal_ProjectiveLattices_RdOrbIntOfLatZ
+import Definitions.Def_Formalism_LocalToGlobal_ProjectiveLattices_AllTest
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FundamentalDomainPointBound
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt
+import Definitions.Def_P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Landherr__ExistsNormTensor_9eff20d6b37353d0
+import Definitions.Def_Development_AbelianVarietyTheory_Statements_HyperbolicHypotheses_HypothesesInhabitedHyperbolic
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_IsCombAtIffIsDerivAt0
+import Theorems.Thm_GlobalTheory_HostModel_host_d
+import Theorems.Thm_GlobalTheory_HostModel_host_rt
+import Theorems.Thm_GlobalTheory_HostModel_host_rt0_eq_I_mul_sqrt_seven
+import Theorems.Thm_GlobalTheory_HostModel_host_w0_eq_halfSqrtNegSeven
+import Theorems.Thm_GlobalTheory_HostModel_hypDatum_p
+import Theorems.Thm_GlobalTheory_HostModel_hypDatum_q
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] GlobalTheory.HostModel.host_d
+attribute [local simp] GlobalTheory.HostModel.host_rt
+attribute [local simp] GlobalTheory.HostModel.host_rt0_eq_I_mul_sqrt_seven
+attribute [local simp] GlobalTheory.HostModel.host_w0_eq_halfSqrtNegSeven
+attribute [local simp] GlobalTheory.HostModel.hypDatum_p
+attribute [local simp] GlobalTheory.HostModel.hypDatum_q
+
+
+
+set_option autoImplicit false
+open NumberField ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.FD Formalism.L2.Pj Formalism.L2.PjFree
+open AlgebraicGeometry CategoryTheory Limits ReciprocityTheory.ChartRestriction.G.Semi GlobalTheory.Frames GlobalTheory.FrameUnif
+open scoped Matrix nonZeroDivisors
+open GlobalTheory GlobalTheory.DerLin
+namespace GlobalTheory.DerLin
+theorem _root_.solution (S : Type) [CommRing S] :
+    Function.Surjective (spMap (TrivSqZeroExt.fstHom S S S).toRingHom : Sp S ⟶ Sp (DualNumber S)) := by
+  intro p
+  have hs : Function.Surjective (TrivSqZeroExt.fstHom S S S).toRingHom := fun a => ⟨TrivSqZeroExt.inl a, rfl⟩
+  have hr := range_comap_of_surjective _ _ hs
+  have hp : (show PrimeSpectrum (DualNumber S) from p) ∈
+      PrimeSpectrum.zeroLocus (RingHom.ker (TrivSqZeroExt.fstHom S S S).toRingHom : Set (DualNumber S)) := by
+    intro x hx
+    have hx0 : x.fst = 0 := hx
+    have : x * x = 0 := by
+      ext <;> simp [hx0]
+    have hP := (show PrimeSpectrum (DualNumber S) from p).isPrime
+    have h0 : x * x ∈ (show PrimeSpectrum (DualNumber S) from p).asIdeal := by
+      rw [this]; exact Ideal.zero_mem _
+    exact (hP.mem_or_mem h0).elim id id
+  rw [← hr] at hp
+  obtain ⟨q, hq⟩ := hp
+  exact ⟨q, hq⟩
+end GlobalTheory.DerLin

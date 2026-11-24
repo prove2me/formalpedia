@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_exists_gen_pullTo
 -- name    : GlobalTheory.VVRank.exists_gen_pullTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:59:01.978814+00:00
 -- url     : https://prove2.me/theorems/d30b9770-0f05-47bd-ba74-1ae7d939f55c

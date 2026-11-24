@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_ZeroFree_re_le_one
 -- name    : GlobalTheory.Hk.ZeroFree.re_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:14.323605+00:00
 -- url     : https://prove2.me/theorems/14bdf036-30f8-4a17-9ef0-5d90e1f47568

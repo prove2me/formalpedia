@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_chart_le
 -- name    : GlobalTheory.AnalyticHom.chart_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:55:50.509488+00:00
 -- url     : https://prove2.me/theorems/1637646f-1274-40e7-84dd-4f9d7e3ef637

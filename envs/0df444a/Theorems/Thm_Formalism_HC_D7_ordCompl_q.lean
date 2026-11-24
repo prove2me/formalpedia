@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_ordCompl_q
 -- name    : Formalism.HC.D7.ordCompl_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:40:59.138867+00:00
 -- url     : https://prove2.me/theorems/6af2f7f9-6ec3-4f27-aac7-41eb7c6789d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ExchangeSupport_rowE_inv_val
 -- name    : GlobalTheory.RootEx.ExchangeSupport.rowE_inv_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:26:04.316024+00:00
 -- url     : https://prove2.me/theorems/2dcd333e-7300-40ae-8bdd-1ee0d54c29ce

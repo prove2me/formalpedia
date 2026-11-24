@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannRel_map_im_mul
 -- name    : GlobalTheory.RiemannRel.map_im_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:23:08.109555+00:00
 -- url     : https://prove2.me/theorems/76c5d980-b9a5-445c-a874-2267dbd0072a

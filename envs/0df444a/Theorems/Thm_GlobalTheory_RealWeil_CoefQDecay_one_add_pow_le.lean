@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_CoefQDecay_one_add_pow_le
 -- name    : GlobalTheory.RealWeil.CoefQDecay.one_add_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:14:53.33417+00:00
 -- url     : https://prove2.me/theorems/f0937551-0635-4fdd-baa0-7eaa5c66d971

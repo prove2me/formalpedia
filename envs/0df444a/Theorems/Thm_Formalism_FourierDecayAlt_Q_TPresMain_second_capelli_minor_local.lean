@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_second_capelli_minor_local
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.second_capelli_minor_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:53:46.93861+00:00
 -- url     : https://prove2.me/theorems/c6359b3b-0ee1-493e-91af-d00e2593945c

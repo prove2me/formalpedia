@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smooth_cube_hom
 -- name    : GlobalTheory.smooth_cube_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:27:46.417823+00:00
 -- url     : https://prove2.me/theorems/c2fe25d0-bd83-405f-9b4e-f67bd88692c4

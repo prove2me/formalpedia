@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_isLocallyConstant_addChar
 -- name    : GlobalTheory.WeilM.isLocallyConstant_addChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:03:54.488843+00:00
 -- url     : https://prove2.me/theorems/efbe7ca3-afeb-4268-bd84-8db9593f8d06

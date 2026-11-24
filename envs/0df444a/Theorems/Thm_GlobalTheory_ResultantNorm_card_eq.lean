@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResultantNorm_card_eq
 -- name    : GlobalTheory.ResultantNorm.card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:18.692541+00:00
 -- url     : https://prove2.me/theorems/3af337d8-f64c-40ae-84bc-31afcdc53932

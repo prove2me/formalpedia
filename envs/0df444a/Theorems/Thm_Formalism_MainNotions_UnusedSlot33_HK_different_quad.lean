@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_UnusedSlot33_HK_different_quad
 -- name    : Formalism.MainNotions.UnusedSlot33.HK.different_quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:30:29.772633+00:00
 -- url     : https://prove2.me/theorems/86be444c-5055-4fd0-875a-8179282e0c4c

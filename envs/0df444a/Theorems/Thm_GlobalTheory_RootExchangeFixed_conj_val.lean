@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExchangeFixed_conj_val
 -- name    : GlobalTheory.RootExchangeFixed.conj_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:29:11.037868+00:00
 -- url     : https://prove2.me/theorems/18b638de-1353-493d-8856-14cd912501d5

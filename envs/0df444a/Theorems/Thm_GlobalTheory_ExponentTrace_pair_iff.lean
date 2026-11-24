@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExponentTrace_pair_iff
 -- name    : GlobalTheory.ExponentTrace.pair_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:35:13.129439+00:00
 -- url     : https://prove2.me/theorems/afe886b3-2641-4e5b-9109-d476f8af7cf7

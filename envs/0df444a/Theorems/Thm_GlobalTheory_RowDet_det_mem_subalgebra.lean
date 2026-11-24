@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowDet_det_mem_subalgebra
 -- name    : GlobalTheory.RowDet.det_mem_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:42.739136+00:00
 -- url     : https://prove2.me/theorems/719545b4-9157-41b7-b007-1fe090fc4422

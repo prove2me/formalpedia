@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_tr_cWeight_cont
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.tr_cWeight_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:08:35.138852+00:00
 -- url     : https://prove2.me/theorems/ad308c0f-8ced-40e9-a185-3c44aa092922

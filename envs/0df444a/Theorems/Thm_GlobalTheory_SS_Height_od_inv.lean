@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Height_od_inv
 -- name    : GlobalTheory.SS.Height.od_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:35:01.886339+00:00
 -- url     : https://prove2.me/theorems/8e43cb6c-4904-4046-a1d6-645f1ac9f7bc

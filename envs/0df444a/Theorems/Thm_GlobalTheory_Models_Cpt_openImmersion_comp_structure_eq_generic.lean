@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_Cpt_openImmersion_comp_structure_eq_generic
 -- name    : GlobalTheory.Models.Cpt.openImmersion_comp_structure_eq_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:59:52.961577+00:00
 -- url     : https://prove2.me/theorems/cac1732c-671b-4a53-a8c8-58556c27c73a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ReducedAlg_eq_zero_of_forall_lTensor_eq_zero
 -- name    : GlobalTheory.ReducedAlg.eq_zero_of_forall_lTensor_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:18:14.404358+00:00
 -- url     : https://prove2.me/theorems/83763034-69ae-4dff-a78e-4f713fd18b6b

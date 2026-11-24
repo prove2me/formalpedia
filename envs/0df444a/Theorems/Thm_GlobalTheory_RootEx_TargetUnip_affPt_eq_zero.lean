@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_TargetUnip_affPt_eq_zero
 -- name    : GlobalTheory.RootEx.TargetUnip.affPt_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:29:48.979264+00:00
 -- url     : https://prove2.me/theorems/45272af0-6415-4e3e-a9c8-0e53049a7398

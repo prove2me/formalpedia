@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_map_eq_span_of_idem
 -- name    : GlobalTheory.RowLev.map_eq_span_of_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:32:39.628404+00:00
 -- url     : https://prove2.me/theorems/9de003ae-63ec-4575-8203-f00cf438c808

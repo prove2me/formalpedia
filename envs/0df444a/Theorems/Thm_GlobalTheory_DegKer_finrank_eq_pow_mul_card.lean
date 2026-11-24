@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegKer_finrank_eq_pow_mul_card
 -- name    : GlobalTheory.DegKer.finrank_eq_pow_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:59:43.597228+00:00
 -- url     : https://prove2.me/theorems/269577df-08da-46e7-868a-d83b1a24b8e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormBaseChange_IndexTwo_of_ringEquiv
 -- name    : GlobalTheory.QuadSymbol.NormBaseChange.IndexTwo.of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:39:45.074787+00:00
 -- url     : https://prove2.me/theorems/5d74d256-3b6a-4ac7-adf5-66975d45814d

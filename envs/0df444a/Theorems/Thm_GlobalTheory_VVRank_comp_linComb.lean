@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_comp_linComb
 -- name    : GlobalTheory.VVRank.comp_linComb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:57:43.53466+00:00
 -- url     : https://prove2.me/theorems/cf638a12-e51b-41c2-a3b4-c62019701c2e

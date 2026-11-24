@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularAscent_exists_regular_near_of_regular_quotient
 -- name    : GlobalTheory.RegularAscent.exists_regular_near_of_regular_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:47.811832+00:00
 -- url     : https://prove2.me/theorems/43b58c2e-8233-4b20-99f1-d910d5b78e39

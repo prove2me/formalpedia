@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularElementQuotient_exists_isRegular_quotSMulTop
 -- name    : GlobalTheory.RegularElementQuotient.exists_isRegular_quotSMulTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:37.332719+00:00
 -- url     : https://prove2.me/theorems/7a4253b2-04b3-4102-ab78-a9a13d34c9d1

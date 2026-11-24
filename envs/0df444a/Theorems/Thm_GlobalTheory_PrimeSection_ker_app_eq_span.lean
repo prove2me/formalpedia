@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_ker_app_eq_span
 -- name    : GlobalTheory.PrimeSection.ker_app_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:42:55.564775+00:00
 -- url     : https://prove2.me/theorems/5f44f29e-f6df-4f82-8b52-8c7c783e6231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_integral_chart_mul_right
 -- name    : GlobalTheory.RootEx.QuotStep.integral_chart_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:25:53.618583+00:00
 -- url     : https://prove2.me/theorems/9e284558-bb7a-4d2d-83e7-94c5d71cad05

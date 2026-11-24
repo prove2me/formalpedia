@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_Lifts_mul
 -- name    : GlobalTheory.AffineThickening.Lifts.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:57:32.528404+00:00
 -- url     : https://prove2.me/theorems/d173d43a-6397-4fc2-a593-31e7cedac80f

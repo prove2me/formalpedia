@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowFubini_measure_pos_lt_top
 -- name    : GlobalTheory.RowFubini.measure_pos_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:27.159726+00:00
 -- url     : https://prove2.me/theorems/040f41b5-89bc-4aed-95aa-61a5be268848

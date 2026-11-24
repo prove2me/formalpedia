@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_two_places_of_isSquare
 -- name    : GlobalTheory.QNorm.two_places_of_isSquare
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:43:05.769362+00:00
 -- url     : https://prove2.me/theorems/b35ed985-2ebc-41ec-afa3-3c4314282883

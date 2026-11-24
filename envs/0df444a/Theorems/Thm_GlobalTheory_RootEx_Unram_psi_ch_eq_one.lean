@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Unram_psi_ch_eq_one
 -- name    : GlobalTheory.RootEx.Unram.psi_ch_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:29:50.86215+00:00
 -- url     : https://prove2.me/theorems/8f255126-6bd7-4810-85f2-37f2330d06fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_exists_regular_form
 -- name    : GlobalTheory.RegBound.exists_regular_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:20:15.458444+00:00
 -- url     : https://prove2.me/theorems/698331e0-1e01-4987-987c-a1df2c733795

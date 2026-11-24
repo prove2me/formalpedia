@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_span_scaledRealPoints
 -- name    : GlobalTheory.SCV.span_scaledRealPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:33:01.876873+00:00
 -- url     : https://prove2.me/theorems/9afccfd1-33c9-4aa0-b588-9b50a29e3b52

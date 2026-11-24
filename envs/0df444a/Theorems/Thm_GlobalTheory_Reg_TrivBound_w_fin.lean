@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_w_fin
 -- name    : GlobalTheory.Reg.TrivBound.w_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:19:58.814808+00:00
 -- url     : https://prove2.me/theorems/7d0ad165-110c-473d-8d55-07c9dac66ccd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidTriv_agree_of_rigid
 -- name    : GlobalTheory.RigidTriv.agree_of_rigid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:08.940531+00:00
 -- url     : https://prove2.me/theorems/c1f75363-c15d-4311-8ecd-7314854ec60b

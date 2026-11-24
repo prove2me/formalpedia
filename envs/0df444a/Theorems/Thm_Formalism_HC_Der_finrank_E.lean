@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_finrank_E
 -- name    : Formalism.HC.Der.finrank_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:54:46.327147+00:00
 -- url     : https://prove2.me/theorems/f720f8d5-e45c-457a-9c7a-d0c4d3a9cb7f

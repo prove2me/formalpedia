@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RedPts_eq_one_of_pow_of_closedPoint
 -- name    : GlobalTheory.RedPts.eq_one_of_pow_of_closedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:21:34.67123+00:00
 -- url     : https://prove2.me/theorems/4af07a0e-0ff1-4167-923a-465e03402cbe

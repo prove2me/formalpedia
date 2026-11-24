@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussComplexForm_exists_schwartz_cexp_neg_form
 -- name    : GlobalTheory.GaussComplexForm.exists_schwartz_cexp_neg_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:49:07.466146+00:00
 -- url     : https://prove2.me/theorems/d9241ec7-2853-4022-92f9-7c07b19be8ed

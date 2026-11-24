@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowReal_omLiftOfMultilinear_tprod
 -- name    : GlobalTheory.RowReal.omLiftOfMultilinear_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:31:48.298049+00:00
 -- url     : https://prove2.me/theorems/deb70aa2-4fb7-4230-b191-6467d1d5b9d1

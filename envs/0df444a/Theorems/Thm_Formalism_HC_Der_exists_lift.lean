@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_exists_lift
 -- name    : Formalism.HC.Der.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:41.130795+00:00
 -- url     : https://prove2.me/theorems/d3113d91-c794-404e-b592-e5240483a2bf

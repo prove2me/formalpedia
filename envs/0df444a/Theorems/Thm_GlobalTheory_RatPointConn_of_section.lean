@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RatPointConn_of_section
 -- name    : GlobalTheory.RatPointConn.of_section
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:55:50.97581+00:00
 -- url     : https://prove2.me/theorems/742427a6-ed34-465a-b9c5-33807854626d

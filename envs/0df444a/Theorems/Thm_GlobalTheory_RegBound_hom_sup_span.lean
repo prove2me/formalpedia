@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_hom_sup_span
 -- name    : GlobalTheory.RegBound.hom_sup_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:19:50.5865+00:00
 -- url     : https://prove2.me/theorems/2136747e-3e43-4da3-82bd-19d19daa18d2

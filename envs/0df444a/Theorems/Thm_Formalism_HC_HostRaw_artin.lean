@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_artin
 -- name    : Formalism.HC.HostRaw.artin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:25:25.596796+00:00
 -- url     : https://prove2.me/theorems/6a369602-df22-4f31-93fd-52ecc9b72f32

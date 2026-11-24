@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelConstThickening_fromSpec_appLE_top
 -- name    : GlobalTheory.RelConstThickening.fromSpec_appLE_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:22:01.521238+00:00
 -- url     : https://prove2.me/theorems/bc9e84b0-e386-4cae-9e65-74e753ab754c

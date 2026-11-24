@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_isoAt_assoc
 -- name    : GlobalTheory.SS.GI.isoAt_assoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:33:44.94819+00:00
 -- url     : https://prove2.me/theorems/47323c04-d656-4126-8a08-f78181c44cf2

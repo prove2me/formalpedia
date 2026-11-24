@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxG_local_bound
 -- name    : Formalism.FourierDecayAlt.P.JFxG.local_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:21:26.378598+00:00
 -- url     : https://prove2.me/theorems/96da9e23-9b17-4129-8671-c3365606077e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSmooth_row_smooth
 -- name    : GlobalTheory.RowSmooth.row_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:31:48.570321+00:00
 -- url     : https://prove2.me/theorems/05b0b64f-6e05-4d11-9e77-e04efb267110

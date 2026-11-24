@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_exists_extend_of_pow_denom
 -- name    : GlobalTheory.Reg.exists_extend_of_pow_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:20:43.472042+00:00
 -- url     : https://prove2.me/theorems/8763af65-798a-481f-a5cd-d5182abf7bf6

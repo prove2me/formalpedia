@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_exists_perm_of_sum_monomial_eq
 -- name    : GlobalTheory.QFam.exists_perm_of_sum_monomial_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:59:38.372745+00:00
 -- url     : https://prove2.me/theorems/bc061ad9-3b73-4daf-86a8-32d93ce55531

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_relIndex_eq_map_mul_ker
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.relIndex_eq_map_mul_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:08:56.878897+00:00
 -- url     : https://prove2.me/theorems/32671f74-4e88-45b7-b6c1-794857c9029c

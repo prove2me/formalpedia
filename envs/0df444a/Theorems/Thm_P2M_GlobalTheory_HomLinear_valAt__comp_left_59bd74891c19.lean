@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HomLinear_valAt__comp_left_59bd74891c19
 -- name    : P2M_GlobalTheory_HomLinear_valAt__comp_left_59bd74891c19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:56:33.286256+00:00
 -- url     : https://prove2.me/theorems/2a155459-ba7a-4eb0-ac41-c79c1ca47990

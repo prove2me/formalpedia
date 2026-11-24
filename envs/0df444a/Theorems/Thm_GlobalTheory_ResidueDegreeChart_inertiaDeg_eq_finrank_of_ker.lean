@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueDegreeChart_inertiaDeg_eq_finrank_of_ker
 -- name    : GlobalTheory.ResidueDegreeChart.inertiaDeg_eq_finrank_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:21:03.809807+00:00
 -- url     : https://prove2.me/theorems/e580961b-79c7-4062-9cfd-e99ed1c8144d

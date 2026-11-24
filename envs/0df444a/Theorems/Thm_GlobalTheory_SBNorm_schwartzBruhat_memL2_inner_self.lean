@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBNorm_schwartzBruhat_memL2_inner_self
 -- name    : GlobalTheory.SBNorm.schwartzBruhat_memL2_inner_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:32:29.832386+00:00
 -- url     : https://prove2.me/theorems/8fbb2453-fd3b-4728-b08d-c27f0de22375

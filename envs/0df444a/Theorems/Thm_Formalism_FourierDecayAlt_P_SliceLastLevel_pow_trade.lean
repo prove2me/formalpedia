@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_pow_trade
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.pow_trade
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:07:13.215636+00:00
 -- url     : https://prove2.me/theorems/53a6fe30-6232-450f-9096-341c0fc02c54

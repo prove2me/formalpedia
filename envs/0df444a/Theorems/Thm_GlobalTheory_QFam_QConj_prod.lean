@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_QConj_prod
 -- name    : GlobalTheory.QFam.QConj.prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:59:17.651981+00:00
 -- url     : https://prove2.me/theorems/e3d96091-3998-4edc-9158-e6c048fd8901

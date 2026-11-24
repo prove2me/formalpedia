@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x7_prod_dgR_sq
 -- name    : Formalism.FourierDecayAlt.P.B2x7.prod_dgR_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:58:30.398209+00:00
 -- url     : https://prove2.me/theorems/3438e165-8f37-44fd-9723-a7c1b5035c85

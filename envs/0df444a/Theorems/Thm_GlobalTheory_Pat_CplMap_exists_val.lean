@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_CplMap_exists_val
 -- name    : GlobalTheory.Pat.CplMap.exists_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:42:38.713416+00:00
 -- url     : https://prove2.me/theorems/1b103da0-c90e-4bf7-ab91-5f7b6ff072ce

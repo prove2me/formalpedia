@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_res_mem_nonZeroDivisors
 -- name    : GlobalTheory.DvrModel.res_mem_nonZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:57:49.483416+00:00
 -- url     : https://prove2.me/theorems/cdf98f00-cc90-4852-b430-caaaf0c340ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_extId_eq_map
 -- name    : GlobalTheory.RowLev.extId_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:33:14.327875+00:00
 -- url     : https://prove2.me/theorems/4ecc446f-9465-4234-aa13-7958abc9bea0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularAscent_height_add_ringKrullDim_quotient_le
 -- name    : GlobalTheory.RegularAscent.height_add_ringKrullDim_quotient_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:34.894706+00:00
 -- url     : https://prove2.me/theorems/b6ca751f-474f-4839-934f-262bf00c817a

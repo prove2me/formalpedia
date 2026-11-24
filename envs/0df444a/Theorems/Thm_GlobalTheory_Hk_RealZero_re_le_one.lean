@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealZero_re_le_one
 -- name    : GlobalTheory.Hk.RealZero.re_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:37:26.504366+00:00
 -- url     : https://prove2.me/theorems/1b59c358-6c3d-4030-9e68-5f20cdce20d9

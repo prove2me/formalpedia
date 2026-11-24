@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_sub_sq_lt_one_of_two_lt_one
 -- name    : GlobalTheory.QNorm.exists_sub_sq_lt_one_of_two_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:02:47.453676+00:00
 -- url     : https://prove2.me/theorems/6b9ddcf1-3e06-4c25-8c5c-bf3ddabffc03

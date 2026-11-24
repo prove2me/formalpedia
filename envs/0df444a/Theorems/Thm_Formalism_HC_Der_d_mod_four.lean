@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_d_mod_four
 -- name    : Formalism.HC.Der.d_mod_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:58.605809+00:00
 -- url     : https://prove2.me/theorems/266c2c76-c988-4376-b735-4f0a36acbf62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOnGoodSet_continuous_xiP
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOnGoodSet.continuous_xiP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:05:25.085037+00:00
 -- url     : https://prove2.me/theorems/367475e2-5f82-4c33-b11f-68a61287eb44

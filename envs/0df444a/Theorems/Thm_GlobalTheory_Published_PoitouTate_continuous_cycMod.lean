@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTate_continuous_cycMod
 -- name    : GlobalTheory.Published.PoitouTate.continuous_cycMod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:11:52.968901+00:00
 -- url     : https://prove2.me/theorems/94407654-1984-4c17-b13f-bd07a0996044

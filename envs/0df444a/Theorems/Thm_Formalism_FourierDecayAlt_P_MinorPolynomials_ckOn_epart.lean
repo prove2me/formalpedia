@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_ckOn_epart
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.ckOn_epart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:44:30.020898+00:00
 -- url     : https://prove2.me/theorems/b7e5d86d-e438-4c6a-89e9-290cb0a6dd77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimV_rr_zero
 -- name    : GlobalTheory.CompanionTheory.SW.PrimV.rr_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:05:49.074338+00:00
 -- url     : https://prove2.me/theorems/a1e950ae-fdc8-4891-a6a6-91ec31622e28

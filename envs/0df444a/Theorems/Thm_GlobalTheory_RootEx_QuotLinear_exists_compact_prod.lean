@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotLinear_exists_compact_prod
 -- name    : GlobalTheory.RootEx.QuotLinear.exists_compact_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:25:53.650825+00:00
 -- url     : https://prove2.me/theorems/b44aa373-6700-4d9e-9e71-208311f56ecb

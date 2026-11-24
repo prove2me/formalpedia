@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_mexp_cont
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.mexp_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:09:18.292802+00:00
 -- url     : https://prove2.me/theorems/ae59e2f8-0589-4eae-997f-91e6ead6a9f0

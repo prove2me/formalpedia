@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartBC_sq_copy
 -- name    : GlobalTheory.RawChartBC.sq_copy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:15:29.357811+00:00
 -- url     : https://prove2.me/theorems/2b7c1cdd-58b3-44f5-9cbf-93379d48a581

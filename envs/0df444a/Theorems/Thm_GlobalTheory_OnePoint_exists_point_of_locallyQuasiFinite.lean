@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_point_of_locallyQuasiFinite
 -- name    : GlobalTheory.OnePoint.exists_point_of_locallyQuasiFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:37:57.237799+00:00
 -- url     : https://prove2.me/theorems/35b324ea-d101-421b-b2b5-a714c7ef27fe

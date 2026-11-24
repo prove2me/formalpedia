@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFieldCriterion_isField_iff_no_residual_root
 -- name    : GlobalTheory.QuadFieldCriterion.isField_iff_no_residual_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:09:54.689806+00:00
 -- url     : https://prove2.me/theorems/d3ea8c34-6671-47e8-8ae8-a56510cb82ab

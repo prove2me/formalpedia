@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpansionTotal_sval_fam_sum
 -- name    : GlobalTheory.ExpansionTotal.sval_fam_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:03:06.249805+00:00
 -- url     : https://prove2.me/theorems/076bdaf0-e670-4c20-8cda-00191405cd50

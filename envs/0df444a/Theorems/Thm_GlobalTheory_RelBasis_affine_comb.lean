@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelBasis_affine_comb
 -- name    : GlobalTheory.RelBasis.affine_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:20:26.952109+00:00
 -- url     : https://prove2.me/theorems/6f29dbf5-70f3-45b3-9ef0-412f15d13859

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_index_double_of_fg
 -- name    : GlobalTheory.QNorm.index_double_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:02:12.97773+00:00
 -- url     : https://prove2.me/theorems/a3d72043-7f28-40ec-89ec-b85a997e129e

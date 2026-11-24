@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_continuous_inner_rho_schwartz
 -- name    : GlobalTheory.RealWeil.continuous_inner_rho_schwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:16:53.993189+00:00
 -- url     : https://prove2.me/theorems/b7613c34-89a2-4956-95f3-062b3b7ed5ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_isoAt_of_hom
 -- name    : GlobalTheory.SS.GI.isoAt_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:34:24.294212+00:00
 -- url     : https://prove2.me/theorems/bede7e3f-88bd-444d-9698-4f87730dff4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_vV_nonneg
 -- name    : GlobalTheory.Reg.TrivBound.vV_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:19:47.503798+00:00
 -- url     : https://prove2.me/theorems/9420ab84-bd4b-4395-bcc4-170ac5457069

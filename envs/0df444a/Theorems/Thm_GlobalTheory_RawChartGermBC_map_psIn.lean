@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartGermBC_map_psIn
 -- name    : GlobalTheory.RawChartGermBC.map_psIn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:01.186076+00:00
 -- url     : https://prove2.me/theorems/eeb879f7-d749-4da5-b4ca-cfac6d00750e

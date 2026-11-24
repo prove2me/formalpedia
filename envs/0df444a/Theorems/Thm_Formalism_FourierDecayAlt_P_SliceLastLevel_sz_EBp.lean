@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_sz_EBp
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.sz_EBp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:08:21.357076+00:00
 -- url     : https://prove2.me/theorems/dfae1d33-eaa6-43a5-9855-2bf8d35919dd

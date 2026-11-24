@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_bigCell_middle_col_vanish
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.bigCell_middle_col_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:08:25.538125+00:00
 -- url     : https://prove2.me/theorems/2b161dc4-da02-4d28-b7f4-ed46da8a257d

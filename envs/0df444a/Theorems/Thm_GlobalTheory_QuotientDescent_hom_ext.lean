@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientDescent_hom_ext
 -- name    : GlobalTheory.QuotientDescent.hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:56:06.100085+00:00
 -- url     : https://prove2.me/theorems/07d94a2a-87f6-445a-a95f-b5ecf4334195

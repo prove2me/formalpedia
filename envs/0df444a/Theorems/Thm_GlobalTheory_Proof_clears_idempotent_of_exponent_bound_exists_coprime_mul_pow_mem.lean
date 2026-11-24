@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_clears_idempotent_of_exponent_bound_exists_coprime_mul_pow_mem
 -- name    : GlobalTheory.Proof.clears_idempotent_of_exponent_bound.exists_coprime_mul_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:55:39.555301+00:00
 -- url     : https://prove2.me/theorems/49da6d6b-274f-43bd-9cbe-b5bafb2f99de

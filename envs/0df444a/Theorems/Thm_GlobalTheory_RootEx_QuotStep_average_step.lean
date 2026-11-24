@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_average_step
 -- name    : GlobalTheory.RootEx.QuotStep.average_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:25:30.63793+00:00
 -- url     : https://prove2.me/theorems/f25545b1-b990-4bca-a51c-912f1d785fc9

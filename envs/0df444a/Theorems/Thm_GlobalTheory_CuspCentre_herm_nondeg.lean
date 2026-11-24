@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_herm_nondeg
 -- name    : GlobalTheory.CuspCentre.herm_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:37:39.556324+00:00
 -- url     : https://prove2.me/theorems/5e20702a-bc40-45f9-b9b7-6380b792f1d3

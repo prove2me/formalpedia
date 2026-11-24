@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteSubsetsInAffineOpens_of_isImmersion
 -- name    : GlobalTheory.FiniteSubsetsInAffineOpens.of_isImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:42:18.138109+00:00
 -- url     : https://prove2.me/theorems/42a9aa52-47d2-4e22-af2c-0012cb7160bc

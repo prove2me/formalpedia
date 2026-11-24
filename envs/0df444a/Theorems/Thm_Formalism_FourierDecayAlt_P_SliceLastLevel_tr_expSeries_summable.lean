@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_tr_expSeries_summable
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.tr_expSeries_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:07:00.36834+00:00
 -- url     : https://prove2.me/theorems/494b9646-d084-496b-9cda-f076fc3422ba

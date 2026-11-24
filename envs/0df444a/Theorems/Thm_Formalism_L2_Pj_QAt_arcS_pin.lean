@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_arcS_pin
 -- name    : Formalism.L2.Pj.QAt.arcS_pin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:08:07.558873+00:00
 -- url     : https://prove2.me/theorems/61908969-c618-4acd-a1bc-2b92b0b8ae1f

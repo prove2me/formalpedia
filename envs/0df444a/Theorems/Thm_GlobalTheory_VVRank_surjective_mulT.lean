@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_surjective_mulT
 -- name    : GlobalTheory.VVRank.surjective_mulT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:57:46.432822+00:00
 -- url     : https://prove2.me/theorems/70528693-2958-4c53-a3e4-1058e8a9a347

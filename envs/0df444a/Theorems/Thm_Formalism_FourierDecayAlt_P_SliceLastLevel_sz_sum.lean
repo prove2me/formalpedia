@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_sz_sum
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.sz_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:08:29.530513+00:00
 -- url     : https://prove2.me/theorems/eeaf0027-4f44-42a8-87bd-4c9d0d806f16

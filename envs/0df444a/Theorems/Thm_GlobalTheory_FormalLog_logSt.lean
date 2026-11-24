@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_logSt
 -- name    : GlobalTheory.FormalLog.logSt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:34:11.234817+00:00
 -- url     : https://prove2.me/theorems/603fbb15-0a20-4def-80bb-7f4a88b3228f

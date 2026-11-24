@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheaf_normIdeal_map_away
 -- name    : GlobalTheory.NormSheaf.normIdeal_map_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:58.271645+00:00
 -- url     : https://prove2.me/theorems/4796ae93-58b9-4d5a-93e0-698b1fabbce5

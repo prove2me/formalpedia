@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerBor_moveMat_diag
 -- name    : GlobalTheory.PerBor.moveMat_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:05:31.840307+00:00
 -- url     : https://prove2.me/theorems/455c7aa2-2861-4fcb-aded-a018b6bf6835

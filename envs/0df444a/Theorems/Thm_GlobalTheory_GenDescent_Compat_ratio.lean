@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenDescent_Compat_ratio
 -- name    : GlobalTheory.GenDescent.Compat.ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:56:53.060839+00:00
 -- url     : https://prove2.me/theorems/50d4f0b2-5f9b-41fc-a08f-2ef2baf5272d

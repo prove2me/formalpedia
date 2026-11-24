@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RapidFourier_norm_iteratedFDeriv_term_le
 -- name    : GlobalTheory.RapidFourier.norm_iteratedFDeriv_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:14:08.179427+00:00
 -- url     : https://prove2.me/theorems/6b6946da-bff8-40c2-8083-336df3fd0bad

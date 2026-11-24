@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceOver_comap_eq_of_continuous_iso
 -- name    : GlobalTheory.PlaceOver.comap_eq_of_continuous_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:31.607815+00:00
 -- url     : https://prove2.me/theorems/72e4a016-bf8f-4a6e-9b12-bb6699e0099a

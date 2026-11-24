@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_step
 -- name    : GlobalTheory.QuadSymbol.NormIndex.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:01:49.175975+00:00
 -- url     : https://prove2.me/theorems/3da391a3-90a3-41c9-9198-c643326e62d3

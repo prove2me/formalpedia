@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_proj_heis_proj
 -- name    : GlobalTheory.RealWeil.proj_heis_proj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:58:09.051895+00:00
 -- url     : https://prove2.me/theorems/8a4672f7-2a4b-4716-a8c3-cc021443c626

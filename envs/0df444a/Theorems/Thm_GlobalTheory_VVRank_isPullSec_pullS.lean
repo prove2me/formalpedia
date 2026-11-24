@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_isPullSec_pullS
 -- name    : GlobalTheory.VVRank.isPullSec_pullS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:58:08.446836+00:00
 -- url     : https://prove2.me/theorems/14f49afb-0eee-4472-bcba-ca7b671fcd98

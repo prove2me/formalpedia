@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_ordQ_mem_trivSet
 -- name    : GlobalTheory.Reg.TrivBound.ordQ_mem_trivSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:21:56.790581+00:00
 -- url     : https://prove2.me/theorems/b0aa8008-2097-4215-842d-3088c692dcf1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueExtension_injective_of_map_ne_zero
 -- name    : GlobalTheory.ResidueExtension.injective_of_map_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:20:58.995035+00:00
 -- url     : https://prove2.me/theorems/fe2a5d68-42f6-46df-8f83-d471217d9683

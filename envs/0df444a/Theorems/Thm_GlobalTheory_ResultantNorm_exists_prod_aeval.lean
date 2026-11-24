@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResultantNorm_exists_prod_aeval
 -- name    : GlobalTheory.ResultantNorm.exists_prod_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:52.581546+00:00
 -- url     : https://prove2.me/theorems/fb303003-7b68-461d-9b4c-ac42de163478

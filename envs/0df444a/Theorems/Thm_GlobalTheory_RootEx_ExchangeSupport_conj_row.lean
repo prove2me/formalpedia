@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ExchangeSupport_conj_row
 -- name    : GlobalTheory.RootEx.ExchangeSupport.conj_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:24:25.129362+00:00
 -- url     : https://prove2.me/theorems/ac732bb7-5be1-415c-bc9f-e4c667c9d492

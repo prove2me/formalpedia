@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Asm_list_prod_le
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.Asm.list_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:04:03.438802+00:00
 -- url     : https://prove2.me/theorems/78e180e8-ba12-4769-aded-bdd49e1cc942

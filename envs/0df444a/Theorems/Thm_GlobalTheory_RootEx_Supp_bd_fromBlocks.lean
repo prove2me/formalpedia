@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_bd_fromBlocks
 -- name    : GlobalTheory.RootEx.Supp.bd_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:27.870021+00:00
 -- url     : https://prove2.me/theorems/49042681-f533-436b-b75c-c6dc41c6e580

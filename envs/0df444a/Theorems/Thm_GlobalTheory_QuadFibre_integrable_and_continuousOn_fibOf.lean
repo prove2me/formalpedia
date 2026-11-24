@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFibre_integrable_and_continuousOn_fibOf
 -- name    : GlobalTheory.QuadFibre.integrable_and_continuousOn_fibOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:09:37.24608+00:00
 -- url     : https://prove2.me/theorems/d824979e-13d6-44d6-b059-5bf729b5e914

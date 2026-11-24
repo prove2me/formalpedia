@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotLinear_finiteOnCompacts_volN
 -- name    : GlobalTheory.RootEx.QuotLinear.finiteOnCompacts_volN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:26:02.078294+00:00
 -- url     : https://prove2.me/theorems/dd88b0cf-02e4-4005-afdd-cd42bf41e62c

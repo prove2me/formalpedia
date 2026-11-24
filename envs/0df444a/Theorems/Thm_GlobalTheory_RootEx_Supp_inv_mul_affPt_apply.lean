@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_inv_mul_affPt_apply
 -- name    : GlobalTheory.RootEx.Supp.inv_mul_affPt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:26.562994+00:00
 -- url     : https://prove2.me/theorems/1293d917-0bde-45a8-b7dd-05c3270efa9e

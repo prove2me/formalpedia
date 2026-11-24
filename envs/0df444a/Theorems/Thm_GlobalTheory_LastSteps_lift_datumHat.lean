@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_lift_datumHat
 -- name    : GlobalTheory.LastSteps.lift_datumHat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:59:13.266818+00:00
 -- url     : https://prove2.me/theorems/08020b2e-614d-401b-83bd-1b82da85b04e

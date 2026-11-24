@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_dRho_eq_sum
 -- name    : GlobalTheory.RealWeil.dRho_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:52:28.160815+00:00
 -- url     : https://prove2.me/theorems/8dc3e127-bb30-40ee-8c75-11c54d463c73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_card_ringHom_real_eq_nrRealPlaces__cec122734711
 -- name    : P2M_GlobalTheory_T_card_ringHom_real_eq_nrRealPlaces__cec122734711
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:33.47762+00:00
 -- url     : https://prove2.me/theorems/5cd834f1-721e-4c1d-b221-bf475cdc8e7a

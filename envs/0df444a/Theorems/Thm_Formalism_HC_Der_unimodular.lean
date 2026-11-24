@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_unimodular
 -- name    : Formalism.HC.Der.unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:28.591167+00:00
 -- url     : https://prove2.me/theorems/e68d0468-b8cd-40c4-a6a6-9c7ef73c01d5

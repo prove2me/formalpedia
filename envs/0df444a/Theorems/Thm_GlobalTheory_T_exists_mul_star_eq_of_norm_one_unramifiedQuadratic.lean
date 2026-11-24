@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_mul_star_eq_of_norm_one_unramifiedQuadratic
 -- name    : GlobalTheory.T.exists_mul_star_eq_of_norm_one_unramifiedQuadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:58:43.395856+00:00
 -- url     : https://prove2.me/theorems/6cf59469-8541-4ec2-9c0b-1d4f59dbf458

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NTr_exists_half
 -- name    : GlobalTheory.NTr.exists_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:40:01.461306+00:00
 -- url     : https://prove2.me/theorems/68aaf8a7-9fbd-44ce-83bf-0672f59b406f

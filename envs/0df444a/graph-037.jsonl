@@ -45791,7 +45791,7 @@
 {"parent": "Paper.Hypergraph.cover_cap", "child": "Paper_TrustBoundary", "via": ["solution", "statement"]}
 {"parent": "Formalism.TwoAdicCyclotomicDecomposition.twoAdicOrder", "child": "Formalism_TameInertiaTowers_StatementGroup", "via": ["solution", "statement"]}
 {"parent": "Formalism.TwoAdicCyclotomicDecomposition.twoAdicOrder", "child": "Formalism_TameInertiaTowers_CentralOrderTwo_TwoAdic", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.QuadraticZeta.exists_basis", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsIsKroneckerCharOfDiscr", "via": ["statement"]}
+{"parent": "GlobalTheory.QuadraticZeta.exists_basis", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsIsKroneckerCharOfDiscr", "via": ["solution", "statement"]}
 {"parent": "Formalism.BranchingDeterminantCap.bmE_comm_apply", "child": "Formalism_BranchSandwichDivisors_StatementW", "via": ["solution", "statement"]}
 {"parent": "Formalism.BranchingDeterminantCap.bmE_comm_apply", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq", "via": ["solution", "statement"]}
 {"parent": "Formalism.BranchingDeterminantCap.bmE_comm_apply", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchMap", "via": ["solution", "statement"]}

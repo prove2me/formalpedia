@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_iteratedDeriv_line
 -- name    : GlobalTheory.SCV.iteratedDeriv_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:33:14.792824+00:00
 -- url     : https://prove2.me/theorems/234d8ea9-0394-4f23-a20d-d67ecc43358b

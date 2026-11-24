@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_EQ_le_cycQ
 -- name    : Formalism.HC.HostRaw.EQ_le_cycQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:06:47.049809+00:00
 -- url     : https://prove2.me/theorems/ab5f1116-a225-41cb-b58b-fcc3246afd8a

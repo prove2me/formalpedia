@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_intS_sum_smul
 -- name    : GlobalTheory.RowLaw.GermRing.intS_sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:31:31.277846+00:00
 -- url     : https://prove2.me/theorems/bbeae4ae-b127-464b-bb0c-61c4c2139996

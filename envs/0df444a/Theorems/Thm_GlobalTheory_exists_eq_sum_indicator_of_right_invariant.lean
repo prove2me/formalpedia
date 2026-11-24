@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_sum_indicator_of_right_invariant
 -- name    : GlobalTheory.exists_eq_sum_indicator_of_right_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:37.345423+00:00
 -- url     : https://prove2.me/theorems/7eae4a01-d805-4e71-8671-640e72a94797

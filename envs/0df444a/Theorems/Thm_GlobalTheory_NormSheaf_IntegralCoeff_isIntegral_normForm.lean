@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheaf_IntegralCoeff_isIntegral_normForm
 -- name    : GlobalTheory.NormSheaf.IntegralCoeff.isIntegral_normForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:42:34.013618+00:00
 -- url     : https://prove2.me/theorems/651faa92-0863-4304-a418-cd7e9df56dea

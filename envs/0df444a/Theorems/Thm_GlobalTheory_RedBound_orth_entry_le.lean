@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RedBound_orth_entry_le
 -- name    : GlobalTheory.RedBound.orth_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:18:29.419044+00:00
 -- url     : https://prove2.me/theorems/590cf646-3ff7-4ef8-bf63-d1690bd6e037

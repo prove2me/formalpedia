@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_congr_iff_of_five
 -- name    : GlobalTheory.HermLocal.congr_iff_of_five
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:54:46.299969+00:00
 -- url     : https://prove2.me/theorems/597303b5-6bf3-4ee8-b77c-1beef7f1e5be

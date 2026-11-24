@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExchangeFixed_upU_mem_KO
 -- name    : GlobalTheory.RootExchangeFixed.upU_mem_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:29:24.111252+00:00
 -- url     : https://prove2.me/theorems/465bdd4b-21f6-4cc8-a161-900ca5dd77fb

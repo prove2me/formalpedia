@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_mem_of_vV_nonneg
 -- name    : GlobalTheory.Reg.Transfer.mem_of_vV_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:18:50.900176+00:00
 -- url     : https://prove2.me/theorems/cc939501-d531-4c32-9739-fdcd30fb1916

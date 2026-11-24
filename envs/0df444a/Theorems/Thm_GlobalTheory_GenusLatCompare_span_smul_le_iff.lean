@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenusLatCompare_span_smul_le_iff
 -- name    : GlobalTheory.GenusLatCompare.span_smul_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:59:33.645042+00:00
 -- url     : https://prove2.me/theorems/62bbde47-cff2-465d-a8b0-5a7b7f067627

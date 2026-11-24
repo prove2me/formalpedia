@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_unipotent_diag_entry_szX_eq_one
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.unipotent_diag_entry_szX_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:06:43.5879+00:00
 -- url     : https://prove2.me/theorems/abcaf616-099f-485a-a8a9-09a5527faa64

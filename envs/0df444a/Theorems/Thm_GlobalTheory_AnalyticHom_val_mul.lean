@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_val_mul
 -- name    : GlobalTheory.AnalyticHom.val_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:55:38.682546+00:00
 -- url     : https://prove2.me/theorems/d548eb6f-97f9-4994-abd9-d481cd334371

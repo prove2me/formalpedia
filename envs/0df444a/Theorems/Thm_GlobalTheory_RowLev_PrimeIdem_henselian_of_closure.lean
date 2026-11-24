@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PrimeIdem_henselian_of_closure
 -- name    : GlobalTheory.RowLev.PrimeIdem.henselian_of_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:32:06.610798+00:00
 -- url     : https://prove2.me/theorems/e2f65972-3116-42da-97a5-36bbcc5996ba

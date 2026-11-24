@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_isNEquiv_integral
 -- name    : GlobalTheory.RootEx.Exchange.isNEquiv_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:24:01.768145+00:00
 -- url     : https://prove2.me/theorems/bf860625-0011-4916-a6d8-4b4d9a425396

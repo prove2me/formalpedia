@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_NInt_sum_lv_le
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.NInt.sum_lv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:09:50.420856+00:00
 -- url     : https://prove2.me/theorems/521b83ff-e115-4e0f-a52a-2840a9477517

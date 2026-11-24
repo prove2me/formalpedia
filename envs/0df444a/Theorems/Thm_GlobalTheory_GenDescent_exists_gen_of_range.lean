@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenDescent_exists_gen_of_range
 -- name    : GlobalTheory.GenDescent.exists_gen_of_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:57:23.09204+00:00
 -- url     : https://prove2.me/theorems/34e47a50-821b-493d-8aca-da557b8afcd4

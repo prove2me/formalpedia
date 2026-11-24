@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootNormLowerBound_pow_card_le_norm_prod
 -- name    : GlobalTheory.RootNormLowerBound.pow_card_le_norm_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:30:41.092811+00:00
 -- url     : https://prove2.me/theorems/a789c010-c76f-4f7f-9f42-580dae608bd1

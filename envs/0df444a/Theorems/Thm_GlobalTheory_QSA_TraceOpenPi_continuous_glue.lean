@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_TraceOpenPi_continuous_glue
 -- name    : GlobalTheory.QSA.TraceOpenPi.continuous_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:03:39.374306+00:00
 -- url     : https://prove2.me/theorems/fa4aa7d4-5247-460a-946b-58cd646eff6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_det_Bm_ne
 -- name    : GlobalTheory.JR.NormalFormL.det_Bm_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:06.805309+00:00
 -- url     : https://prove2.me/theorems/02fc2f93-6357-4c86-8a32-d5f9a2e31d07

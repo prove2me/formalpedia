@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_bd_one
 -- name    : GlobalTheory.RootEx.Supp.bd_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:18.118804+00:00
 -- url     : https://prove2.me/theorems/267a353c-f417-4e96-9bfd-a9533058e344

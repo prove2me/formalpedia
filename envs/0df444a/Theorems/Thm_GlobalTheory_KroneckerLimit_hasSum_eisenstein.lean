@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_hasSum_eisenstein
 -- name    : GlobalTheory.KroneckerLimit.hasSum_eisenstein
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:27.855812+00:00
 -- url     : https://prove2.me/theorems/a9ae510d-d61a-46ec-8029-cd6dec00d96a

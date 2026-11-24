@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_hasCompactSupport_big
 -- name    : GlobalTheory.RootEx.Exchange.hasCompactSupport_big
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:23:52.951042+00:00
 -- url     : https://prove2.me/theorems/d10519a6-eade-4b46-82eb-b7d2a31a719f

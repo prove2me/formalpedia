@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Radical_existsUnique_of_mem_R
 -- name    : GlobalTheory.RootEx.Radical.existsUnique_of_mem_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:28:32.966469+00:00
 -- url     : https://prove2.me/theorems/bc8938fc-5f92-4545-b791-ddc6a4dcf3d6

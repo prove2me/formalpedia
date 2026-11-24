@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteHeight_flat_mvPowerSeries_of_isNoetherianRing
 -- name    : GlobalTheory.FiniteHeight.flat_mvPowerSeries_of_isNoetherianRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:28.827095+00:00
 -- url     : https://prove2.me/theorems/8c75233e-994c-4f91-9c67-6c3067a6e2f4

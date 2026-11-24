@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FJUnipotent_exists_col
 -- name    : GlobalTheory.RootEx.FJUnipotent.exists_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:26:01.705378+00:00
 -- url     : https://prove2.me/theorems/07617e7c-ea1e-4977-ab46-0b44ecd7e98c

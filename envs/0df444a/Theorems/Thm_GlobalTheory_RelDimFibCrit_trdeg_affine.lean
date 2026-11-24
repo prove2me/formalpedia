@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelDimFibCrit_trdeg_affine
 -- name    : GlobalTheory.RelDimFibCrit.trdeg_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:21:36.530947+00:00
 -- url     : https://prove2.me/theorems/0987732f-a131-4c84-b0b3-aed494219ee1

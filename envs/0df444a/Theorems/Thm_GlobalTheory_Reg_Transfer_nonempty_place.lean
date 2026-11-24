@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_nonempty_place
 -- name    : GlobalTheory.Reg.Transfer.nonempty_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:23:02.924288+00:00
 -- url     : https://prove2.me/theorems/c5709c0e-569b-49d9-8a4a-186d24fdb5e4

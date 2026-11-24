@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResRect_bdInt_eq_zero_of_primitive
 -- name    : GlobalTheory.ResRect.bdInt_eq_zero_of_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:21:43.860653+00:00
 -- url     : https://prove2.me/theorems/6fd9f5d1-9898-4154-bedd-12b0a23f1ea8

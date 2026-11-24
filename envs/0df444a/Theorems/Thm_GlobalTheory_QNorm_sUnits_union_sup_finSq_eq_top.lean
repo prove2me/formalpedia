@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_sUnits_union_sup_finSq_eq_top
 -- name    : GlobalTheory.QNorm.sUnits_union_sup_finSq_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:41:51.516044+00:00
 -- url     : https://prove2.me/theorems/90c329b1-1639-4438-9299-2de68b91ff68

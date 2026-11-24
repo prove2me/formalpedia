@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_taylor2
 -- name    : PositivityTheory.RL.Up.taylor2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:59:45.46724+00:00
 -- url     : https://prove2.me/theorems/3965f398-6d59-4885-8194-473b19892e4b

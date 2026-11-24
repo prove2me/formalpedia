@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_adjoin_insert_union_image
 -- name    : GlobalTheory.Reg.adjoin_insert_union_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:20:47.726208+00:00
 -- url     : https://prove2.me/theorems/6edc376c-877d-4cdb-a6e6-18f78cb1e34e

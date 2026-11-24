@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullHermitian_val_iso_pow
 -- name    : GlobalTheory.PullHermitian.val_iso_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:58:47.904207+00:00
 -- url     : https://prove2.me/theorems/c0e66572-33aa-4c48-8087-07d6e1298f25

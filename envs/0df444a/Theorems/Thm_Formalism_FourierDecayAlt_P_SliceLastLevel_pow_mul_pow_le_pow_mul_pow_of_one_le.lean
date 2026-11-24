@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_pow_mul_pow_le_pow_mul_pow_of_one_le
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.pow_mul_pow_le_pow_mul_pow_of_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:07:01.28003+00:00
 -- url     : https://prove2.me/theorems/68aa0335-1212-4b08-8c43-345fe2a6748d

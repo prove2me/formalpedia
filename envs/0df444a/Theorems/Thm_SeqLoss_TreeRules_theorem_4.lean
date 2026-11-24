@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_TreeRules_theorem_4
 -- name    : SeqLoss.TreeRules.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:37.207678+00:00
 -- url     : https://prove2.me/theorems/a1f633b7-5e54-483f-8d34-16d094d57209

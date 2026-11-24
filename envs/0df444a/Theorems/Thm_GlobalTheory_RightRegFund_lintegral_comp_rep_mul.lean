@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RightRegFund_lintegral_comp_rep_mul
 -- name    : GlobalTheory.RightRegFund.lintegral_comp_rep_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:24:01.727853+00:00
 -- url     : https://prove2.me/theorems/0868f412-b3f7-49d7-b6a7-12d6e6b8387b

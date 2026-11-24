@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosDefFT_fourier_nonneg
 -- name    : GlobalTheory.PosDefFT.fourier_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:49:53.313798+00:00
 -- url     : https://prove2.me/theorems/4c83d182-ca20-45a2-a335-41dd97cda857

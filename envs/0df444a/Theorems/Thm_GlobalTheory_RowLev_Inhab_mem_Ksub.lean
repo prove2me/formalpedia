@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Inhab_mem_Ksub
 -- name    : GlobalTheory.RowLev.Inhab.mem_Ksub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:30:58.335837+00:00
 -- url     : https://prove2.me/theorems/6f5f6f17-46ce-41c1-bd70-004a2d4a2606

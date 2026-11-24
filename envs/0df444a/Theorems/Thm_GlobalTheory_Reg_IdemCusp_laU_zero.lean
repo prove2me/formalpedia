@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_IdemCusp_laU_zero
 -- name    : GlobalTheory.Reg.IdemCusp.laU_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:21:30.62806+00:00
 -- url     : https://prove2.me/theorems/ed4a5bad-b833-4945-b07e-e86a25316911

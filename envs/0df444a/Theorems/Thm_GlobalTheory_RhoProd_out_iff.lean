@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RhoProd_out_iff
 -- name    : GlobalTheory.RhoProd.out_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:23:08.177087+00:00
 -- url     : https://prove2.me/theorems/c0703a78-daa0-4fb1-9576-d4c1698788e6

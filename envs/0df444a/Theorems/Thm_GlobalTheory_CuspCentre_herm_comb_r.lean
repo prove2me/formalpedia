@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_herm_comb_r
 -- name    : GlobalTheory.CuspCentre.herm_comb_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:36:33.235064+00:00
 -- url     : https://prove2.me/theorems/8ae42e68-e2f3-4ed2-a7b1-3f1117ed6eee

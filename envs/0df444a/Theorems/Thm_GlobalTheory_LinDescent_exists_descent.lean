@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_exists_descent
 -- name    : GlobalTheory.LinDescent.exists_descent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:39.988918+00:00
 -- url     : https://prove2.me/theorems/50fa6b7d-e0a2-419d-b9ad-68a5ee9c0d33

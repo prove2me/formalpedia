@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_sz_castW_apply
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.sz_castW_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:06:15.600456+00:00
 -- url     : https://prove2.me/theorems/c6b00db8-2240-4c66-ad2a-dfc609bb962d

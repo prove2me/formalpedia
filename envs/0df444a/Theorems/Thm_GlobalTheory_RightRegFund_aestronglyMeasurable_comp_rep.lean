@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RightRegFund_aestronglyMeasurable_comp_rep
 -- name    : GlobalTheory.RightRegFund.aestronglyMeasurable_comp_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:59:53.812654+00:00
 -- url     : https://prove2.me/theorems/674e6ff3-668b-4b8c-ac84-ea6c0cebf07b

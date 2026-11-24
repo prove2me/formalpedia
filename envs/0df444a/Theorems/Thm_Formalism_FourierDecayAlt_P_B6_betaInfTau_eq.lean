@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_betaInfTau_eq
 -- name    : Formalism.FourierDecayAlt.P.B6.betaInfTau_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:52:31.841831+00:00
 -- url     : https://prove2.me/theorems/d4b9f05b-c362-42f9-96aa-f71002cd8293

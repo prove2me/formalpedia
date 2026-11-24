@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_prod_Icc_one_eq
 -- name    : GlobalTheory.CompanionTheory.TyFin.prod_Icc_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:09:29.340519+00:00
 -- url     : https://prove2.me/theorems/590ce7ef-4391-4ee9-bc60-5fd1ed0521e8

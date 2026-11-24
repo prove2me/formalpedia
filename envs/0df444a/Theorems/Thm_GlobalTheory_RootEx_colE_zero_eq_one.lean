@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_colE_zero_eq_one
 -- name    : GlobalTheory.RootEx.colE_zero_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:35.152662+00:00
 -- url     : https://prove2.me/theorems/86a4eeb1-d4ae-469d-a581-4b41815b5d5b

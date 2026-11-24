@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_tauN_root
 -- name    : Formalism.HC.Der.tauN_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:55:21.74549+00:00
 -- url     : https://prove2.me/theorems/750b7711-58ed-4f95-b922-78d405742b60

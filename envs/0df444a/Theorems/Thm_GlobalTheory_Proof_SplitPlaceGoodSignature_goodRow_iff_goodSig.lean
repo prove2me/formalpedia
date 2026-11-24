@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_SplitPlaceGoodSignature_goodRow_iff_goodSig
 -- name    : GlobalTheory.Proof.SplitPlaceGoodSignature.goodRow_iff_goodSig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:36:45.70485+00:00
 -- url     : https://prove2.me/theorems/8cda81a0-cbad-4fd5-9753-dab43a31a22c

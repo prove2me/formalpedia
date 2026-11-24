@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_cc_det_of_herm
 -- name    : GlobalTheory.Published.cc_det_of_herm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:48.03184+00:00
 -- url     : https://prove2.me/theorems/a28ed204-7f1f-4fe7-ba33-6de5ec62169d

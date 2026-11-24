@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_lagY_dim
 -- name    : PositivityTheory.ThK.LinAct.lagY_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:38:52.837279+00:00
 -- url     : https://prove2.me/theorems/0ac9fc4f-189a-47d5-9c4d-298fd3608b64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_SliceLastLevel_allLie_lr__eac81ef3b4e2
 -- name    : P2M_Formalism_FourierDecayAlt_P_SliceLastLevel_allLie_lr__eac81ef3b4e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:06:01.835389+00:00
 -- url     : https://prove2.me/theorems/30a3633e-a77d-42e3-9451-3533f117830a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_HeisenbergSign_mat_add_gCol
 -- name    : GlobalTheory.RootEx.HeisenbergSign.mat_add_gCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:25:21.94341+00:00
 -- url     : https://prove2.me/theorems/e7959c47-37e0-4635-875b-9e884b0824e9

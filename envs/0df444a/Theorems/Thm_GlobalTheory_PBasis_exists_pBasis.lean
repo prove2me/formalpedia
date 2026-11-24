@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PBasis_exists_pBasis
 -- name    : GlobalTheory.PBasis.exists_pBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:44:53.623881+00:00
 -- url     : https://prove2.me/theorems/de3c8964-a91e-4326-acf9-8e799a398673

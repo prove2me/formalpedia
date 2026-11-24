@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_span_eq_top_of_functionals
 -- name    : GlobalTheory.VVRank.span_eq_top_of_functionals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:58:52.803876+00:00
 -- url     : https://prove2.me/theorems/0ae10585-707a-4893-9984-fb405de9b3e1

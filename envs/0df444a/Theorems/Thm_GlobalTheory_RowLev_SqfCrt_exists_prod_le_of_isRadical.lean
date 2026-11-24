@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_SqfCrt_exists_prod_le_of_isRadical
 -- name    : GlobalTheory.RowLev.SqfCrt.exists_prod_le_of_isRadical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:31:51.887825+00:00
 -- url     : https://prove2.me/theorems/738b104e-2092-4394-ad21-55fad09cdf0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientDescent_mem_equivariantSubgroup
 -- name    : GlobalTheory.QuotientDescent.mem_equivariantSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:56:15.504809+00:00
 -- url     : https://prove2.me/theorems/612a09c7-cd23-4bee-b701-1fd28abfb7b9

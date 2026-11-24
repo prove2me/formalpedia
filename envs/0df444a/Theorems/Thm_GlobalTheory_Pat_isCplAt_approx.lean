@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_isCplAt_approx
 -- name    : GlobalTheory.Pat.isCplAt_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:57:48.91879+00:00
 -- url     : https://prove2.me/theorems/f6af6d39-3bc5-4479-b85f-5b7f078f579e

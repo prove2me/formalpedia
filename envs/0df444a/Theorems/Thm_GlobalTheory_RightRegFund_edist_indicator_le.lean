@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RightRegFund_edist_indicator_le
 -- name    : GlobalTheory.RightRegFund.edist_indicator_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:24:16.327808+00:00
 -- url     : https://prove2.me/theorems/61be1fa9-c86f-4b27-97aa-95df1824f949

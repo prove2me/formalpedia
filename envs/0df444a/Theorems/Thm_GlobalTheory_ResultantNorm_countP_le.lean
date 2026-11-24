@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResultantNorm_countP_le
 -- name    : GlobalTheory.ResultantNorm.countP_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:21:36.301217+00:00
 -- url     : https://prove2.me/theorems/3d6b479b-5568-4410-ad81-dba8a26c1e23

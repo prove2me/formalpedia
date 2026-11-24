@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Landherr_det_norm
 -- name    : GlobalTheory.Published.Landherr.det_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:37.419349+00:00
 -- url     : https://prove2.me/theorems/79920251-33d3-4afb-9267-2e729c3180fc

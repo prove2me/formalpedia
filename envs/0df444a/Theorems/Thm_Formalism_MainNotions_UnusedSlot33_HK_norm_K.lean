@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_UnusedSlot33_HK_norm_K
 -- name    : Formalism.MainNotions.UnusedSlot33.HK.norm_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:05.867107+00:00
 -- url     : https://prove2.me/theorems/86495e00-f166-4a8a-aa00-a942fcfa2b3f

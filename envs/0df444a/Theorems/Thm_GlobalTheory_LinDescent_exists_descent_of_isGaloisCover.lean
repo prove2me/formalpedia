@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_exists_descent_of_isGaloisCover
 -- name    : GlobalTheory.LinDescent.exists_descent_of_isGaloisCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:09:23.492623+00:00
 -- url     : https://prove2.me/theorems/1a87d725-9324-4545-9f43-5f1856149373

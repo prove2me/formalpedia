@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelativeLengthSpanDet_length_self_eq_top
 -- name    : GlobalTheory.RelativeLengthSpanDet.length_self_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:21:59.094585+00:00
 -- url     : https://prove2.me/theorems/7b66c220-a616-4e91-9291-79a5d970eace

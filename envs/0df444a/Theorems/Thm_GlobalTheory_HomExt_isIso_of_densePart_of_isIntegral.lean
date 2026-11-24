@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomExt_isIso_of_densePart_of_isIntegral
 -- name    : GlobalTheory.HomExt.isIso_of_densePart_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:23.847403+00:00
 -- url     : https://prove2.me/theorems/bbe673de-c548-4388-8026-8e28a1e14506

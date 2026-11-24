@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FJUnipotent_NFJ_le_midGroup
 -- name    : GlobalTheory.RootEx.FJUnipotent.NFJ_le_midGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:26:10.25362+00:00
 -- url     : https://prove2.me/theorems/2ab3d566-415c-4a78-b9cd-0be569ad6afe

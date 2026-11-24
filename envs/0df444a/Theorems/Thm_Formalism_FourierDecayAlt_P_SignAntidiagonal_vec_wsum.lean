@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_vec_wsum
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.vec_wsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:59:09.558081+00:00
 -- url     : https://prove2.me/theorems/8c4ad906-d762-424a-9439-8e6f4c6b18e2

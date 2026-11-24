@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_schrodinger_models_agree
 -- name    : GlobalTheory.Proof.schrodinger_models_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:57:23.506808+00:00
 -- url     : https://prove2.me/theorems/da15e684-8338-4773-ac69-ebfced21555c

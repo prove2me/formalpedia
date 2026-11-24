@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyConnected_cube_hom
 -- name    : GlobalTheory.geometricallyConnected_cube_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:27:44.202393+00:00
 -- url     : https://prove2.me/theorems/dae49272-610f-4196-81ce-c6397f9f778b

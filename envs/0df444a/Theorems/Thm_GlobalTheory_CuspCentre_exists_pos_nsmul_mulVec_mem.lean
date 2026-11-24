@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_exists_pos_nsmul_mulVec_mem
 -- name    : GlobalTheory.CuspCentre.exists_pos_nsmul_mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:51:31.381177+00:00
 -- url     : https://prove2.me/theorems/55a7c068-0e9d-4e44-9242-51efe07df9c6

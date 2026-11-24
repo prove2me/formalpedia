@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_exists_valuationSubring_comap_eq_nonunits
 -- name    : GlobalTheory.Reg.exists_valuationSubring_comap_eq_nonunits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:21:02.628557+00:00
 -- url     : https://prove2.me/theorems/022da90d-1123-41b0-aa65-8697c91e2fdb

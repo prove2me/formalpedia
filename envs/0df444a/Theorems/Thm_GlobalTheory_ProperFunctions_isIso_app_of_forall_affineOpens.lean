@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_app_of_forall_affineOpens
 -- name    : GlobalTheory.ProperFunctions.isIso_app_of_forall_affineOpens
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:39:23.539257+00:00
 -- url     : https://prove2.me/theorems/acf1cca5-b931-4e97-ab89-1044d7e39932

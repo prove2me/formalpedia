@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RhoProd_card_prod
 -- name    : GlobalTheory.RhoProd.card_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:22:53.786519+00:00
 -- url     : https://prove2.me/theorems/ef57c764-ddef-49eb-b11c-90db367112fe

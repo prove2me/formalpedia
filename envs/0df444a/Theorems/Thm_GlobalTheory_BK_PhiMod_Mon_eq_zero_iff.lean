@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_Mon_eq_zero_iff
 -- name    : GlobalTheory.BK.PhiMod.Mon_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:54:53.97043+00:00
 -- url     : https://prove2.me/theorems/7f2836ea-ba62-43ad-a27f-c0867c8b14b8

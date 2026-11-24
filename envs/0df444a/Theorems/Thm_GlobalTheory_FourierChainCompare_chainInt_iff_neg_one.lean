@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_chainInt_iff_neg_one
 -- name    : GlobalTheory.FourierChainCompare.chainInt_iff_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:55:08.996802+00:00
 -- url     : https://prove2.me/theorems/ae60fbd9-ff42-40a3-9845-e35d9771aa6f

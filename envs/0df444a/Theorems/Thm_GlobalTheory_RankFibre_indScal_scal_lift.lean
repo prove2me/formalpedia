@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibre_indScal_scal_lift
 -- name    : GlobalTheory.RankFibre.indScal_scal_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:14:43.16547+00:00
 -- url     : https://prove2.me/theorems/1b59a854-04ff-48b6-a74c-2977d1bacf97

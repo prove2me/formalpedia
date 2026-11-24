@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_HeisenbergSign_colE_inv_eq
 -- name    : GlobalTheory.RootEx.HeisenbergSign.colE_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:26:25.865238+00:00
 -- url     : https://prove2.me/theorems/58d40fb3-8a74-4a47-b6f9-94d26f334e27

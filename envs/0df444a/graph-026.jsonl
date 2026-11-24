@@ -47777,7 +47777,7 @@
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.actualPositiveHits_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbeddingCoordinates", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.actualPositiveHits_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_QuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.actualPositiveHits_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_BoundedValenceSuccessors", "via": ["solution", "statement"]}
-{"parent": "IncrOpenAddr.NoTradeoff.lemma_2_1", "child": "IncrOpenAddr_NoTradeoff_Layout", "via": ["statement"]}
+{"parent": "IncrOpenAddr.NoTradeoff.lemma_2_1", "child": "IncrOpenAddr_NoTradeoff_Layout", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.GlobalSecondData.append_first", "child": "OAI_NumberTheory_DirichletL_CubicSieve_LiteralSources", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.GlobalSecondData.append_first", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CompactProfiles", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U85.entry0_1_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerBor_moveMat_mulVec
 -- name    : GlobalTheory.PerBor.moveMat_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:06:25.024871+00:00
 -- url     : https://prove2.me/theorems/bea89aed-a847-4b3f-ac01-4fdd98f27dc5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_representative_parametric_integral_continuous_family
 -- name    : GlobalTheory.T.representative_parametric_integral_continuous_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:09:02.607842+00:00
 -- url     : https://prove2.me/theorems/06e5bded-64e6-4ab0-9ceb-c17ad1fd8b44

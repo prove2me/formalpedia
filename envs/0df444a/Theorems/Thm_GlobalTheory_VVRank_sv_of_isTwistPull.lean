@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_sv_of_isTwistPull
 -- name    : GlobalTheory.VVRank.sv_of_isTwistPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:58:17.273646+00:00
 -- url     : https://prove2.me/theorems/17e76e20-2cd8-4848-a156-db5fe676cfda

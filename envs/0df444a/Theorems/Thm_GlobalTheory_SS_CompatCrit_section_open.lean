@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_CompatCrit_section_open
 -- name    : GlobalTheory.SS.CompatCrit.section_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:03:40.430562+00:00
 -- url     : https://prove2.me/theorems/5957e5eb-cda9-460f-8fe2-8f6ad2c9e663

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_OpELevi_right_affPt
 -- name    : GlobalTheory.RootEx.OpELevi.right_affPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:25:44.34355+00:00
 -- url     : https://prove2.me/theorems/8d2993e8-5809-4e88-806b-a3a44700eebe

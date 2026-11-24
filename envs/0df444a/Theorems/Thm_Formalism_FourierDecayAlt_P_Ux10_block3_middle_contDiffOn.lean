@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_block3_middle_contDiffOn
 -- name    : Formalism.FourierDecayAlt.P.Ux10.block3_middle_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:42:43.824726+00:00
 -- url     : https://prove2.me/theorems/fa583c8e-853e-409f-b5d4-a9be0d5d594a

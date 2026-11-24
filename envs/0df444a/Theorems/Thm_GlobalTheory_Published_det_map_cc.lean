@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_det_map_cc
 -- name    : GlobalTheory.Published.det_map_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:36:32.158499+00:00
 -- url     : https://prove2.me/theorems/ffd8eddb-ffe7-46e4-b7e4-d594bd91f51a

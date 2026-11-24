@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Principalise_isIso_restrict_of_blowup
 -- name    : GlobalTheory.Principalise.isIso_restrict_of_blowup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:54.789535+00:00
 -- url     : https://prove2.me/theorems/196ba855-d5ac-4584-8ba7-b7366a09abc2

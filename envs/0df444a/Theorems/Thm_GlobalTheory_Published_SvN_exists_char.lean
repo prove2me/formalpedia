@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_exists_char
 -- name    : GlobalTheory.Published.SvN.exists_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:57:41.615678+00:00
 -- url     : https://prove2.me/theorems/2437a06c-bf82-4446-82b2-cd34ccf608cc

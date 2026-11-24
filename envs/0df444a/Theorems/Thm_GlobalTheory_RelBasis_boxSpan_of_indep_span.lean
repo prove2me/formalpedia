@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelBasis_boxSpan_of_indep_span
 -- name    : GlobalTheory.RelBasis.boxSpan_of_indep_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:24:59.83344+00:00
 -- url     : https://prove2.me/theorems/da822cc6-c536-4f09-a4fe-34befbad2df0

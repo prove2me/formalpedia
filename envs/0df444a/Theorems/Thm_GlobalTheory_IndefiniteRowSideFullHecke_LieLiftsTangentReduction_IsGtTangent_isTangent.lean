@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LieLiftsTangentReduction_IsGtTangent_isTangent
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LieLiftsTangentReduction.IsGtTangent.isTangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:08:37.093013+00:00
 -- url     : https://prove2.me/theorems/464869f8-2d9c-4ec5-a978-ba9f9bf89762

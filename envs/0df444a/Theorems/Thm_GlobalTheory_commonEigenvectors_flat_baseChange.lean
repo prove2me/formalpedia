@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_commonEigenvectors_flat_baseChange
 -- name    : GlobalTheory.commonEigenvectors_flat_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:59:53.429802+00:00
 -- url     : https://prove2.me/theorems/2fb7f991-bfb5-40a1-b328-9b61c9c30d59

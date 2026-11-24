@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosSemidefShiftByScalar_main
 -- name    : GlobalTheory.PosSemidefShiftByScalar.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:45.331153+00:00
 -- url     : https://prove2.me/theorems/c96488eb-2274-488e-be5b-8f6bda82965b

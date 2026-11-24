@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_Descends_weight
 -- name    : GlobalTheory.MulSplit.Descends.weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:28:42.029984+00:00
 -- url     : https://prove2.me/theorems/e359388e-e11a-44aa-adf4-0ada9ff20d84

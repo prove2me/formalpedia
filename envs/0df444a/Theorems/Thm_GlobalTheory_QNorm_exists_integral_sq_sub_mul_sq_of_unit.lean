@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_integral_sq_sub_mul_sq_of_unit
 -- name    : GlobalTheory.QNorm.exists_integral_sq_sub_mul_sq_of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:42:17.759908+00:00
 -- url     : https://prove2.me/theorems/6d88bff4-21fa-42d4-a3cf-398c925e43a3

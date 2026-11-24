@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_pi_rel_of_psi_rel
 -- name    : GlobalTheory.Lin.pi_rel_of_psi_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:06:38.282635+00:00
 -- url     : https://prove2.me/theorems/afd9cc04-a474-4850-8a87-e78ae48e713b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExchangeFixed_lowU_neg_mul
 -- name    : GlobalTheory.RootExchangeFixed.lowU_neg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:29:30.612964+00:00
 -- url     : https://prove2.me/theorems/6064e381-764d-4658-a46d-d7f839b07b3d

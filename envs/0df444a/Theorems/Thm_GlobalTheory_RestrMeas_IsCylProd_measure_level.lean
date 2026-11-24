@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RestrMeas_IsCylProd_measure_level
 -- name    : GlobalTheory.RestrMeas.IsCylProd.measure_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:21:12.1191+00:00
 -- url     : https://prove2.me/theorems/91d101cb-9c9b-477f-a1e0-b3884fe11f9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localInf_br1_fV
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localInf_br1_fV
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T20:06:12.536737+00:00
 -- url     : https://prove2.me/theorems/0762bffb-f204-4930-b368-5aa14b0535b0

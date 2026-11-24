@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_IdemSplit_isMonHom_sec
 -- name    : GlobalTheory.SS.IdemSplit.isMonHom_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:35:11.454826+00:00
 -- url     : https://prove2.me/theorems/b2eac5ff-38dc-451c-9ff5-4bc93738cf2c

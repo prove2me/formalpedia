@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QkShift_cub_shift
 -- name    : GlobalTheory.QkShift.cub_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:08:14.620479+00:00
 -- url     : https://prove2.me/theorems/7635ff58-5dd7-4509-ad70-3c42f3ccc62c

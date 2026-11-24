@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBInduced_isClosedEmbedding_translate
 -- name    : GlobalTheory.SBInduced.isClosedEmbedding_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:32:24.942954+00:00
 -- url     : https://prove2.me/theorems/806ec325-25fb-416a-accb-1d2cee99e3e1

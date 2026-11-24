@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_hom_genIn
 -- name    : GlobalTheory.RegBound.hom_genIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:10.947095+00:00
 -- url     : https://prove2.me/theorems/e431565f-082e-4d11-b5fc-d56dc81eeba0

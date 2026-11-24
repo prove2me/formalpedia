@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_universallyClosed
 -- name    : GlobalTheory.Retract.universallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:22:42.498179+00:00
 -- url     : https://prove2.me/theorems/78940025-1414-4aad-90e4-b4fdb6a21551

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_CycAlg_charpoly_dvd
 -- name    : GlobalTheory.RegSS.CycAlg.charpoly_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:25:59.903518+00:00
 -- url     : https://prove2.me/theorems/99c20d58-6c70-43bc-ab38-717bd5a3ee76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExSource_simpleSum_succ
 -- name    : GlobalTheory.RootExSource.simpleSum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:29:17.923014+00:00
 -- url     : https://prove2.me/theorems/70e0d80b-d52d-470d-a204-cff663534f3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelExp_exists_addMonoidHom_eqOn_ball
 -- name    : GlobalTheory.RelExp.exists_addMonoidHom_eqOn_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:21:13.934644+00:00
 -- url     : https://prove2.me/theorems/baa4c78b-ce73-4810-b8b3-48a6c1c19c87

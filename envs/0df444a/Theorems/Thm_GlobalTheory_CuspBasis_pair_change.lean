@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_pair_change
 -- name    : GlobalTheory.CuspBasis.pair_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:51:03.522519+00:00
 -- url     : https://prove2.me/theorems/504d7cbf-b4ff-4435-ac16-0a49c1b0285e

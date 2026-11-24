@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeInHeightOneSpectrum_target
 -- name    : GlobalTheory.PrimeInHeightOneSpectrum.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:55:56.835741+00:00
 -- url     : https://prove2.me/theorems/a953278f-669a-4e6a-9bfc-8c384ff9beb7

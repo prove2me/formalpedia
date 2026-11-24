@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_le_preimage_lbPow
 -- name    : GlobalTheory.AnalyticHom.le_preimage_lbPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:56:37.922803+00:00
 -- url     : https://prove2.me/theorems/6199a09a-98be-4a5b-86c1-59689e46925d

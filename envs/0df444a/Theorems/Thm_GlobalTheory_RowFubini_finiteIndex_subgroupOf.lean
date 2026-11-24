@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowFubini_finiteIndex_subgroupOf
 -- name    : GlobalTheory.RowFubini.finiteIndex_subgroupOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:39.987798+00:00
 -- url     : https://prove2.me/theorems/c47775be-e2b9-4728-8db0-3fa4365b12d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_rowE_not_mem
 -- name    : GlobalTheory.RootEx.Model.rowE_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:19.19399+00:00
 -- url     : https://prove2.me/theorems/de52939d-0643-4d30-9dc8-a4ce2729fb72

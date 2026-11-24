@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_discr_sq
 -- name    : Formalism.HC.Der.discr_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:28:17.418384+00:00
 -- url     : https://prove2.me/theorems/264f4cda-dc12-4651-88ca-13cb8861bf37

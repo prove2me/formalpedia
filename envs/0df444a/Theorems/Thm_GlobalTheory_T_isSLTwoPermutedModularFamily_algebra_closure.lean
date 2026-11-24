@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSLTwoPermutedModularFamily_algebra_closure
 -- name    : GlobalTheory.T.isSLTwoPermutedModularFamily_algebra_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:35:07.488892+00:00
 -- url     : https://prove2.me/theorems/b16cca71-5e27-46b4-a78e-ccfa3f6a240f

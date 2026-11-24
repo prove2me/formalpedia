@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajInv_gram_lact
 -- name    : GlobalTheory.MajInv.gram_lact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:22:02.713346+00:00
 -- url     : https://prove2.me/theorems/8a80f8f9-c0ad-45cd-a72d-7d8189455a58

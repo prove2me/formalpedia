@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_full_rank_iff_nonzero_minor
 -- name    : GlobalTheory.T.full_rank_iff_nonzero_minor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:33.982571+00:00
 -- url     : https://prove2.me/theorems/337a1852-7289-4772-8c4d-a3224262c19d

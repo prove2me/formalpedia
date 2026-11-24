@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobiGroup_exists_of_mem_N
 -- name    : GlobalTheory.RootEx.FourierJacobiGroup.exists_of_mem_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:27:14.497402+00:00
 -- url     : https://prove2.me/theorems/b438b003-88ae-4e10-8abc-76e388c29f99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_mem_range_special
 -- name    : GlobalTheory.DvrModel.mem_range_special
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:58:00.610031+00:00
 -- url     : https://prove2.me/theorems/4e150ab1-847a-425d-ae2b-de42451dc158

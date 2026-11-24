@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_exists_embX_mul
 -- name    : GlobalTheory.RootEx.Supp.exists_embX_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:57.615059+00:00
 -- url     : https://prove2.me/theorems/f6746d8a-b742-4ff2-996f-10466193abcb

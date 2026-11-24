@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_IrrSplit_restrictModel_j
 -- name    : GlobalTheory.SS.IrrSplit.restrictModel_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:36:33.266852+00:00
 -- url     : https://prove2.me/theorems/f467b496-cf4b-4f5a-82bb-9f5f4081aa35

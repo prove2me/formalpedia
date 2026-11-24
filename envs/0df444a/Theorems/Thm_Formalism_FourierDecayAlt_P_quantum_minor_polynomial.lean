@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_quantum_minor_polynomial
 -- name    : Formalism.FourierDecayAlt.P.quantum_minor_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:54:53.437084+00:00
 -- url     : https://prove2.me/theorems/f385a774-c7f4-4723-ad2c-1bb997f8b500

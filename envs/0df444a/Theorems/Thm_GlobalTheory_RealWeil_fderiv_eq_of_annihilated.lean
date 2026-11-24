@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_fderiv_eq_of_annihilated
 -- name    : GlobalTheory.RealWeil.fderiv_eq_of_annihilated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:16:35.496294+00:00
 -- url     : https://prove2.me/theorems/1cce15d9-d4ae-4361-8f5c-60722fa334a2

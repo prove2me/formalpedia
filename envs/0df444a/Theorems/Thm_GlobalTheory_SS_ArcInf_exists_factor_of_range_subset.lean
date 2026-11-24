@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_exists_factor_of_range_subset
 -- name    : GlobalTheory.SS.ArcInf.exists_factor_of_range_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:33:55.866801+00:00
 -- url     : https://prove2.me/theorems/803c13f8-8463-43a4-b450-f1d86373c8d6

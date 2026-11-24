@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_HasseNorm_cm
 -- name    : GlobalTheory.Published.HasseNorm.cm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:32.109083+00:00
 -- url     : https://prove2.me/theorems/494adba9-4423-42fc-8b77-ec5723e1a06a

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SeqLoss.TreeRules.theorem_4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @martelus trismortuus
 -- created : 2026-11-18T06:17:20.907309+00:00
 -- url     : https://prove2.me/submissions/667a8ac4-8481-4ca1-acb3-6e18d73710dc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SeqLoss_TreeRules_Setting

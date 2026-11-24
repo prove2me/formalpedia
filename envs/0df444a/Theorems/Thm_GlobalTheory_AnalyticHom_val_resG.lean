@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_val_resG
 -- name    : GlobalTheory.AnalyticHom.val_resG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:55:44.68445+00:00
 -- url     : https://prove2.me/theorems/488dd6f8-a63d-4d83-a0b4-1bf07d43add1

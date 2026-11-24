@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eulerProduct_ne_zero_one_of_entire
 -- name    : GlobalTheory.eulerProduct_ne_zero_one_of_entire
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:25.714245+00:00
 -- url     : https://prove2.me/theorems/a79bea88-3f3e-4378-ab7a-0589cdb66ca7

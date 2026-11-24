@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesIdealPowers_main
 -- name    : GlobalTheory.PowerSeriesIdealPowers.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:44.847379+00:00
 -- url     : https://prove2.me/theorems/7069564b-30a7-4c08-be10-9add0871b680

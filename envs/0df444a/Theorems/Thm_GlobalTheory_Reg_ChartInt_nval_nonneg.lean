@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_nval_nonneg
 -- name    : GlobalTheory.Reg.ChartInt.nval_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:19:11.389203+00:00
 -- url     : https://prove2.me/theorems/348eaf09-32f9-48c9-b427-5322a70367a7

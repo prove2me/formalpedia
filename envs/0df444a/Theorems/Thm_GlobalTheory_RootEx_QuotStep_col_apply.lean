@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_col_apply
 -- name    : GlobalTheory.RootEx.QuotStep.col_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:25:37.090531+00:00
 -- url     : https://prove2.me/theorems/1a5f88b9-c6a8-424b-aaea-61e26fc9667a

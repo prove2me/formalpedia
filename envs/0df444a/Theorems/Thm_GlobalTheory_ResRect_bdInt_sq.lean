@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResRect_bdInt_sq
 -- name    : GlobalTheory.ResRect.bdInt_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:21:32.478147+00:00
 -- url     : https://prove2.me/theorems/007a4fa7-9e3c-4a94-a611-3c7feea03203

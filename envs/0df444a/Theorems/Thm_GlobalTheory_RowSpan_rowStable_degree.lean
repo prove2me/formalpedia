@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_rowStable_degree
 -- name    : GlobalTheory.RowSpan.rowStable_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:51.412091+00:00
 -- url     : https://prove2.me/theorems/4e82ef24-55f8-4599-9e83-7869fbfea15d

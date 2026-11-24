@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenIdeleCongr_open_subgroup_contains_congr
 -- name    : GlobalTheory.OpenIdeleCongr.open_subgroup_contains_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:24:18.067092+00:00
 -- url     : https://prove2.me/theorems/66571588-e423-405d-b590-c2542fd97d6a

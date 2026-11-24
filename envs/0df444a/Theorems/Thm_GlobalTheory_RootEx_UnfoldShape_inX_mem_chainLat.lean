@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_inX_mem_chainLat
 -- name    : GlobalTheory.RootEx.UnfoldShape.inX_mem_chainLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:29:56.801478+00:00
 -- url     : https://prove2.me/theorems/47ddbba6-324b-4b29-a55e-eefe7cd7a235

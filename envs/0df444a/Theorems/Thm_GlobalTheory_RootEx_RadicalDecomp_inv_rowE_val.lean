@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_RadicalDecomp_inv_rowE_val
 -- name    : GlobalTheory.RootEx.RadicalDecomp.inv_rowE_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:28:19.655527+00:00
 -- url     : https://prove2.me/theorems/771cb348-4689-40ab-9889-b121af0a453d

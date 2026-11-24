@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_mem_map_ker_of_compatible
 -- name    : GlobalTheory.ProperFunctions.mem_map_ker_of_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:56:28.621695+00:00
 -- url     : https://prove2.me/theorems/f4391bd6-c6ef-4e87-814d-0d8e6bde3770

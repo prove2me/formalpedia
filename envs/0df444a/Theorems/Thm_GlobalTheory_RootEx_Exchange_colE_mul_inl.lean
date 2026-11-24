@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_colE_mul_inl
 -- name    : GlobalTheory.RootEx.Exchange.colE_mul_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:23:55.132257+00:00
 -- url     : https://prove2.me/theorems/17c21906-fd96-45e3-a2a0-5b8b4f60da7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjFrac_basicOpen_frac
 -- name    : GlobalTheory.ProjFrac.basicOpen_frac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:59:25.6216+00:00
 -- url     : https://prove2.me/theorems/3743157a-46e5-485c-8636-ea1b4d729e66

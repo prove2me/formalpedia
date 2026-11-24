@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_rowE_mul_mem
 -- name    : GlobalTheory.RootEx.Exchange.rowE_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:24:19.019521+00:00
 -- url     : https://prove2.me/theorems/7c6b554b-974a-4ba7-9dcf-1da0104e711c

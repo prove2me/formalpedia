@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowBasis_exists_basis_of_formEq
 -- name    : GlobalTheory.PowBasis.exists_basis_of_formEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:51:24.072122+00:00
 -- url     : https://prove2.me/theorems/d4927345-0c13-4f86-ae0e-cb5b88da3a90

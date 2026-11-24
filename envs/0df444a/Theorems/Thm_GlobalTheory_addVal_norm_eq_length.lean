@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addVal_norm_eq_length
 -- name    : GlobalTheory.addVal_norm_eq_length
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:19:01.464344+00:00
 -- url     : https://prove2.me/theorems/59e9f85b-4886-4ba2-891d-3147d0dd7fb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_isLocallyNoetherian
 -- name    : GlobalTheory.DvrModel.isLocallyNoetherian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:59:15.773098+00:00
 -- url     : https://prove2.me/theorems/9f37c186-2a06-4b70-813d-a296440a793d

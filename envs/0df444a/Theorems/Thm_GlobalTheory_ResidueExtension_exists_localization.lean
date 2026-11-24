@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueExtension_exists_localization
 -- name    : GlobalTheory.ResidueExtension.exists_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:21:14.120473+00:00
 -- url     : https://prove2.me/theorems/bff3ef31-1f5c-42b5-94a2-75964a969903

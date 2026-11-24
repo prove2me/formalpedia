@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExchangeFixed_vol_ball
 -- name    : GlobalTheory.RootExchangeFixed.vol_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:31:43.139979+00:00
 -- url     : https://prove2.me/theorems/18a54d36-b49d-4a64-ad0a-ed79abeeb638

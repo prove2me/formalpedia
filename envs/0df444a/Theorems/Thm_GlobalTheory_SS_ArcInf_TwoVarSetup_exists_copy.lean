@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_TwoVarSetup_exists_copy
 -- name    : GlobalTheory.SS.ArcInf.TwoVarSetup.exists_copy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:34:15.606808+00:00
 -- url     : https://prove2.me/theorems/06d96f2d-a857-410d-828b-a72e9cdfa74d

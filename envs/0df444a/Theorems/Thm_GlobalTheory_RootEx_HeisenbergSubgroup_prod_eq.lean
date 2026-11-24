@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_HeisenbergSubgroup_prod_eq
 -- name    : GlobalTheory.RootEx.HeisenbergSubgroup.prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:26:30.526077+00:00
 -- url     : https://prove2.me/theorems/4b0d4f58-aa39-4bd1-abac-a152c33bc9fb

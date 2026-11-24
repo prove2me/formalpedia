@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_eq_one_of_forall_pow_near
 -- name    : GlobalTheory.WeilM.eq_one_of_forall_pow_near
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:04:49.6674+00:00
 -- url     : https://prove2.me/theorems/e5d828a2-2ffe-48fc-a223-6652885ba7ef

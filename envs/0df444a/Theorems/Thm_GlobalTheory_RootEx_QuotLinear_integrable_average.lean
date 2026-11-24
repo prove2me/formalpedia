@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotLinear_integrable_average
 -- name    : GlobalTheory.RootEx.QuotLinear.integrable_average
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:25:24.69624+00:00
 -- url     : https://prove2.me/theorems/d38a3b40-003b-48c1-b303-253552960346

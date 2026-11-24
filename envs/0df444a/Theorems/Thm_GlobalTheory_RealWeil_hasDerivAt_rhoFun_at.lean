@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_hasDerivAt_rhoFun_at
 -- name    : GlobalTheory.RealWeil.hasDerivAt_rhoFun_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:15:56.769884+00:00
 -- url     : https://prove2.me/theorems/2c2d2eed-d203-4a44-8bc0-e3e853d7c4f9

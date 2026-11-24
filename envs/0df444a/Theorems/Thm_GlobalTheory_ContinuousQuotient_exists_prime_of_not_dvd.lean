@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContinuousQuotient_exists_prime_of_not_dvd
 -- name    : GlobalTheory.ContinuousQuotient.exists_prime_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:59:15.864017+00:00
 -- url     : https://prove2.me/theorems/8f02fb41-c426-4500-ad2b-f63c7d2b8a47

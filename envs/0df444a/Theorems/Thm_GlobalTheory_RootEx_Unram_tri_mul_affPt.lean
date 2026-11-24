@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Unram_tri_mul_affPt
 -- name    : GlobalTheory.RootEx.Unram.tri_mul_affPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:30:26.779856+00:00
 -- url     : https://prove2.me/theorems/4d270d55-043f-4125-bdec-3b44e0cffdce

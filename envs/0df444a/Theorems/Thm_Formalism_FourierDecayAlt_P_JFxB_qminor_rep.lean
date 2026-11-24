@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_qminor_rep
 -- name    : Formalism.FourierDecayAlt.P.JFxB.qminor_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:26:01.14887+00:00
 -- url     : https://prove2.me/theorems/dcb59395-c56a-4f47-8364-ffaeb94cbb33

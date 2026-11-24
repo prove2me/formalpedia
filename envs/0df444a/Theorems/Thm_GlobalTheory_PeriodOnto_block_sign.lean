@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_block_sign
 -- name    : GlobalTheory.PeriodOnto.block_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:42:31.785735+00:00
 -- url     : https://prove2.me/theorems/577afbc5-ff58-4b97-93a2-58290894178e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxE_bridge_fold
 -- name    : Formalism.FourierDecayAlt.P.JFxE.bridge_fold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:59:55.366953+00:00
 -- url     : https://prove2.me/theorems/dd390558-a800-49d2-bf88-afbb7587c544

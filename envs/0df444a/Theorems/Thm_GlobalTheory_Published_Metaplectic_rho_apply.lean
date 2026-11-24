@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Metaplectic_rho_apply
 -- name    : GlobalTheory.Published.Metaplectic.rho_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:03.283649+00:00
 -- url     : https://prove2.me/theorems/f693062f-4980-4d67-a6c0-fe01ea265839

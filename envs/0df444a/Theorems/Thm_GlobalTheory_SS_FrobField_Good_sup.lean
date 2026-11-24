@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobField_Good_sup
 -- name    : GlobalTheory.SS.FrobField.Good.sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:34:14.175984+00:00
 -- url     : https://prove2.me/theorems/40652f41-34bd-40aa-9b57-720d4311cc6a

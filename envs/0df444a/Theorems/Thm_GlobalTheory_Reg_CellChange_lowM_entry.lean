@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_CellChange_lowM_entry
 -- name    : GlobalTheory.Reg.CellChange.lowM_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:18:45.716728+00:00
 -- url     : https://prove2.me/theorems/5f99cb60-76cb-4236-bd76-0d7b7c54d706

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ConjVol_md_conj
 -- name    : GlobalTheory.RootEx.ConjVol.md_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:23:59.260606+00:00
 -- url     : https://prove2.me/theorems/d369595c-997b-4db4-9155-d765bd7bd2f0

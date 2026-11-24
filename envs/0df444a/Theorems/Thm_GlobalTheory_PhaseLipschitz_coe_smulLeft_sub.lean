@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhaseLipschitz_coe_smulLeft_sub
 -- name    : GlobalTheory.PhaseLipschitz.coe_smulLeft_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:48:14.404208+00:00
 -- url     : https://prove2.me/theorems/e5b6c1c8-59a5-4a53-a416-5d13f8b6656a

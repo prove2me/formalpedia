@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RosatiCube_val_pull_pair
 -- name    : GlobalTheory.RosatiCube.val_pull_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:51.938444+00:00
 -- url     : https://prove2.me/theorems/3d42f587-37b5-4c1e-a7d7-08b2fbb910c3

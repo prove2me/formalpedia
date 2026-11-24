@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RatLift_exists_point_over
 -- name    : GlobalTheory.RatLift.exists_point_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:13:50.46327+00:00
 -- url     : https://prove2.me/theorems/55707562-a7ed-4197-9ffd-69ed7ef549d4

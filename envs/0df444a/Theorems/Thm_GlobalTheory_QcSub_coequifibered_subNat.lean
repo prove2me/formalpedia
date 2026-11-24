@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QcSub_coequifibered_subNat
 -- name    : GlobalTheory.QcSub.coequifibered_subNat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:03:40.660276+00:00
 -- url     : https://prove2.me/theorems/ab31dc48-0d99-4952-81a0-b5747df4d974

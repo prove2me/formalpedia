@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_isTypeFn_of_isPeriod
 -- name    : GlobalTheory.PeriodCompare.isTypeFn_of_isPeriod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:43:12.152279+00:00
 -- url     : https://prove2.me/theorems/fe07e260-c90e-4c61-9a3b-95c360742a62

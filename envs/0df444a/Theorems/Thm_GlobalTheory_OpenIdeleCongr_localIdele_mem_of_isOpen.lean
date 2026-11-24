@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenIdeleCongr_localIdele_mem_of_isOpen
 -- name    : GlobalTheory.OpenIdeleCongr.localIdele_mem_of_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:40:53.344795+00:00
 -- url     : https://prove2.me/theorems/fc19533f-4768-4654-9178-e2ca0a06578a

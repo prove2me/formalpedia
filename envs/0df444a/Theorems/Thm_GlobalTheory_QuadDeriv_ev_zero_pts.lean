@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_ev_zero_pts
 -- name    : GlobalTheory.QuadDeriv.ev_zero_pts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:44.797362+00:00
 -- url     : https://prove2.me/theorems/b92e8afe-369b-46d1-a98a-40d1fa4555d2

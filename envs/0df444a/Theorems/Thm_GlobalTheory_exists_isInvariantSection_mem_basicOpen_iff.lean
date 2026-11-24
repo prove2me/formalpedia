@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isInvariantSection_mem_basicOpen_iff
 -- name    : GlobalTheory.exists_isInvariantSection_mem_basicOpen_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:42:54.415005+00:00
 -- url     : https://prove2.me/theorems/b9450d56-c8ce-4b20-a041-87dbf12c9637

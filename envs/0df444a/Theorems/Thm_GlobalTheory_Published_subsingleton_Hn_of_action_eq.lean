@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_subsingleton_Hn_of_action_eq
 -- name    : GlobalTheory.Published.subsingleton_Hn_of_action_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:13:58.697789+00:00
 -- url     : https://prove2.me/theorems/91f8f5a2-2ec1-43ac-9121-f75c253751f6

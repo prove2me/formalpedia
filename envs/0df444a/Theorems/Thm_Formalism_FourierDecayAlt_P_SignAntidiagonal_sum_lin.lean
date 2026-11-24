@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_sum_lin
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.sum_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:13:33.079803+00:00
 -- url     : https://prove2.me/theorems/f046a031-1f56-4660-968d-f3729412d4d9

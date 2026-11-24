@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_colMat_mulVec
 -- name    : GlobalTheory.RootEx.UnfoldShape.colMat_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:30:20.772741+00:00
 -- url     : https://prove2.me/theorems/da9d8793-1b1a-4908-869a-011a8ccab619

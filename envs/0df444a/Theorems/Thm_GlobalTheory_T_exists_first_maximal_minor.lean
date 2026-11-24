@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_first_maximal_minor
 -- name    : GlobalTheory.T.exists_first_maximal_minor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:00.071795+00:00
 -- url     : https://prove2.me/theorems/3525994d-254d-4170-bef6-deb81a0e7b45

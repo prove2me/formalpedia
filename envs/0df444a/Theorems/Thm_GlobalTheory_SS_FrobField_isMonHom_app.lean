@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobField_isMonHom_app
 -- name    : GlobalTheory.SS.FrobField.isMonHom_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:34:33.547164+00:00
 -- url     : https://prove2.me/theorems/206ea59e-0a8f-4d01-9f87-4331a09f2da2

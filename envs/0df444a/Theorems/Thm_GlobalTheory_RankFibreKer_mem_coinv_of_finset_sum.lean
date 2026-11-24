@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_mem_coinv_of_finset_sum
 -- name    : GlobalTheory.RankFibreKer.mem_coinv_of_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:13:48.874982+00:00
 -- url     : https://prove2.me/theorems/dacc96ce-80ef-4ad9-8785-7a919deee189

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_VolN_map_affine
 -- name    : GlobalTheory.RootEx.VolN.map_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:29.210041+00:00
 -- url     : https://prove2.me/theorems/217acee6-0291-40db-8ad8-eca510205695

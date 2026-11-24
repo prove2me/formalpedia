@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_CompatCrit_isPullback_j
 -- name    : GlobalTheory.SS.CompatCrit.isPullback_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:59:02.745941+00:00
 -- url     : https://prove2.me/theorems/54be1e63-ca82-4687-b864-eb9b49efc594

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealAlgebraCharacters_span_bdd
 -- name    : GlobalTheory.RealAlgebraCharacters.span_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:15:24.104256+00:00
 -- url     : https://prove2.me/theorems/9a2eeb14-1bbc-4fc8-8ce6-82e0e79f5e40

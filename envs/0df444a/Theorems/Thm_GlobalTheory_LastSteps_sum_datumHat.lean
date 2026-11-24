@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_sum_datumHat
 -- name    : GlobalTheory.LastSteps.sum_datumHat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:57:01.358702+00:00
 -- url     : https://prove2.me/theorems/c8f70676-f2aa-4943-b6e8-ed5409717430

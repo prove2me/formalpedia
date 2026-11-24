@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegKer_card_fibre_eq
 -- name    : GlobalTheory.DegKer.card_fibre_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:03:16.362493+00:00
 -- url     : https://prove2.me/theorems/46a831b6-a5d0-482e-a971-022f958125b4

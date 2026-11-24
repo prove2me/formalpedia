@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_qpt_mem_trivSet
 -- name    : GlobalTheory.Reg.ChartInt.qpt_mem_trivSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:19:54.484721+00:00
 -- url     : https://prove2.me/theorems/43f4cffb-4002-460e-a615-2c8c1b394c6c

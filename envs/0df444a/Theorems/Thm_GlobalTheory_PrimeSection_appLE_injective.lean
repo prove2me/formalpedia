@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_appLE_injective
 -- name    : GlobalTheory.PrimeSection.appLE_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:42:56.347224+00:00
 -- url     : https://prove2.me/theorems/16aa8b3f-fa3e-4eb2-b3dd-96bcec1a1dcb

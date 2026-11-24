@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_ZetaPole_not_injective_double_primes
 -- name    : GlobalTheory.Mem.ZetaPole.not_injective_double_primes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:04:34.431912+00:00
 -- url     : https://prove2.me/theorems/760465b3-eee5-43c0-b656-d94d0f96c19c

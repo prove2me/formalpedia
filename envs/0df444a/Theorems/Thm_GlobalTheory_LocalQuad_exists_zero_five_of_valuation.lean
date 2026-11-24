@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_exists_zero_five_of_valuation
 -- name    : GlobalTheory.LocalQuad.exists_zero_five_of_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:58.247968+00:00
 -- url     : https://prove2.me/theorems/8cae7912-90d5-4a4d-a309-b005778e3264

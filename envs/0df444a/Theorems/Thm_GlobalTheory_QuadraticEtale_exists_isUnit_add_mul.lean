@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticEtale_exists_isUnit_add_mul
 -- name    : GlobalTheory.QuadraticEtale.exists_isUnit_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:12:49.342033+00:00
 -- url     : https://prove2.me/theorems/ce1079cb-9b3a-4ff3-8a73-c0f5236b87a3

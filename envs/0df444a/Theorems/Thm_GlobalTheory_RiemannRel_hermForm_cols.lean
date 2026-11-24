@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannRel_hermForm_cols
 -- name    : GlobalTheory.RiemannRel.hermForm_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:23:27.948395+00:00
 -- url     : https://prove2.me/theorems/9dc4e30a-ced6-41f5-8965-f8af25ff1af8

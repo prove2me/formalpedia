@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_hasQ_powerSeries_bridge
 -- name    : GlobalTheory.QFam.hasQ_powerSeries_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:59:33.034796+00:00
 -- url     : https://prove2.me/theorems/8bee344d-17d2-4ca0-9a9b-c078f93530ea

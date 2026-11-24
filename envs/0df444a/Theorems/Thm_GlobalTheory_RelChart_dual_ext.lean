@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelChart_dual_ext
 -- name    : GlobalTheory.RelChart.dual_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:20:18.242069+00:00
 -- url     : https://prove2.me/theorems/f63fad08-beb5-4aa3-b9a0-3bce0aa3ff50

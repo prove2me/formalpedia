@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_numeric
 -- name    : GlobalTheory.RegBound.numeric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:19:57.694104+00:00
 -- url     : https://prove2.me/theorems/5564fb79-d08f-4e45-afda-b0213cea8def

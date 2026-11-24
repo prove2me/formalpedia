@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NotCartier_ringKrullDim_stalk_le_one
 -- name    : GlobalTheory.NotCartier.ringKrullDim_stalk_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:59:41.07317+00:00
 -- url     : https://prove2.me/theorems/a10969c6-0f45-4456-ba46-61b222544084

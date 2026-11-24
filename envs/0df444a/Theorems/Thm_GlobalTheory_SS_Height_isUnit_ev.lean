@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Height_isUnit_ev
 -- name    : GlobalTheory.SS.Height.isUnit_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:35:21.964735+00:00
 -- url     : https://prove2.me/theorems/82f7cb44-699d-4cbb-aa45-c773e32ded56

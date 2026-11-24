@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Unram_intM_colE
 -- name    : GlobalTheory.RootEx.Unram.intM_colE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:29:37.580323+00:00
 -- url     : https://prove2.me/theorems/d69fd7ab-4351-4566-998a-16fa27046243

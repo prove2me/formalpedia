@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_I_mem_siegel
 -- name    : GlobalTheory.SW.I_mem_siegel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:41:19.952317+00:00
 -- url     : https://prove2.me/theorems/1c4830a2-ebe3-4532-9456-359598e9e130

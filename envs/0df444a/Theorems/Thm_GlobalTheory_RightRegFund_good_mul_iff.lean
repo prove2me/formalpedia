@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RightRegFund_good_mul_iff
 -- name    : GlobalTheory.RightRegFund.good_mul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:24:08.926247+00:00
 -- url     : https://prove2.me/theorems/ee9698bf-6b0c-4810-acd9-05c8befeab35

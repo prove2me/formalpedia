@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_integral_swap_three
 -- name    : GlobalTheory.RootEx.QuotStep.integral_swap_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:25:30.383705+00:00
 -- url     : https://prove2.me/theorems/5c2d639c-786a-427a-8b24-bf12188f9631

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_exists_of_mem_inf
 -- name    : GlobalTheory.RootEx.QuotStep.exists_of_mem_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:25:48.803656+00:00
 -- url     : https://prove2.me/theorems/241c79f2-9ba3-4aab-97f6-ba35afeaa0f7

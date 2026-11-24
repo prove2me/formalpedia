@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimitiveUnitProduct_value_mem_range
 -- name    : GlobalTheory.PrimitiveUnitProduct.value_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:55:26.295169+00:00
 -- url     : https://prove2.me/theorems/fe9dcccb-ef64-4ec6-9836-32677b6f60cc

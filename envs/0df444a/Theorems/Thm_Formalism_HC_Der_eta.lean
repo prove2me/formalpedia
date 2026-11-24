@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_eta
 -- name    : Formalism.HC.Der.eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:01:30.925622+00:00
 -- url     : https://prove2.me/theorems/9cba1f53-f768-4f35-8949-dae214bc2ed6

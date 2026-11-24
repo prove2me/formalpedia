@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_hom_of_locally_regular
 -- name    : GlobalTheory.existsUnique_hom_of_locally_regular
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:13:50.779224+00:00
 -- url     : https://prove2.me/theorems/f9990f80-2ecf-4083-b697-e30c21125abf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_eisenstein_x_eq_neg
 -- name    : GlobalTheory.BK.PhiMod.eisenstein_x_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:52:19.983533+00:00
 -- url     : https://prove2.me/theorems/6e3b53ed-2375-452c-bba2-565f9f7b082b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointsCompact_compact_of_sections
 -- name    : GlobalTheory.PointsCompact.compact_of_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:50:45.537377+00:00
 -- url     : https://prove2.me/theorems/d2fa532e-8fea-4fb7-9f69-3278bd145c55

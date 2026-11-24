@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_aestronglyMeasurable_beta_integrand
 -- name    : Formalism.FourierDecayAlt.P.B6.aestronglyMeasurable_beta_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:01:37.429332+00:00
 -- url     : https://prove2.me/theorems/f78dbb44-a5a1-4d48-ba8b-5ea6adb5bc4e

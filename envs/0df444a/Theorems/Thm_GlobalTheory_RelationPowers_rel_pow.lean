@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelationPowers_rel_pow
 -- name    : GlobalTheory.RelationPowers.rel_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:21:15.577316+00:00
 -- url     : https://prove2.me/theorems/e4edc065-c847-4f97-b123-f3b4f300d843

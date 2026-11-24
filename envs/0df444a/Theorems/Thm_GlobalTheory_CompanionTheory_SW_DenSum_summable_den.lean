@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DenSum_summable_den
 -- name    : GlobalTheory.CompanionTheory.SW.DenSum.summable_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:03:51.712166+00:00
 -- url     : https://prove2.me/theorems/cc1c1242-fe7d-444e-8480-3e6295bd329f

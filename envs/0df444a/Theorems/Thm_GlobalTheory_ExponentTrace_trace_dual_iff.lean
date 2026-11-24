@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExponentTrace_trace_dual_iff
 -- name    : GlobalTheory.ExponentTrace.trace_dual_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:35:36.807862+00:00
 -- url     : https://prove2.me/theorems/4208a77c-961c-44e9-9b00-a3db26dfb4f6

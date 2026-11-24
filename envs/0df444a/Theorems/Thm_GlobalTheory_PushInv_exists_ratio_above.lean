@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushInv_exists_ratio_above
 -- name    : GlobalTheory.PushInv.exists_ratio_above
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:00:35.132896+00:00
 -- url     : https://prove2.me/theorems/2cc2190c-e9f0-45ca-ba5c-43e0cd8f10ec

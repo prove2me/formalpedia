@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueSpanScale_exists_scale
 -- name    : GlobalTheory.ResidueSpanScale.exists_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:20:56.596259+00:00
 -- url     : https://prove2.me/theorems/55feceb4-69c6-40ba-9521-1d2dd8bed1d7

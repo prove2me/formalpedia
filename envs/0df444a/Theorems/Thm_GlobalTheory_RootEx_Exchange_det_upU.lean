@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_det_upU
 -- name    : GlobalTheory.RootEx.Exchange.det_upU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:23:58.051048+00:00
 -- url     : https://prove2.me/theorems/e2a09e87-79a4-4d45-bdc1-314c98ff764a

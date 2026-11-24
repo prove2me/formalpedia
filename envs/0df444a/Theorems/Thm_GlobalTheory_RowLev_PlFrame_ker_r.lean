@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PlFrame_ker_r
 -- name    : GlobalTheory.RowLev.PlFrame.ker_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:02.173829+00:00
 -- url     : https://prove2.me/theorems/2b92fbe7-ad1e-4630-84ba-7e5a0e12680e

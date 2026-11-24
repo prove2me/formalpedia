@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_integrable_mul_kerK
 -- name    : GlobalTheory.PlancherelZero.integrable_mul_kerK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:48:44.305831+00:00
 -- url     : https://prove2.me/theorems/84a59c4f-3a76-4021-87e6-ffd9fc000ec3

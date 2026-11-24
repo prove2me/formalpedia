@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_SqfCrt_extId_eq_image
 -- name    : GlobalTheory.RowLev.SqfCrt.extId_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:32:59.056676+00:00
 -- url     : https://prove2.me/theorems/02fe0742-aa52-4071-b8b9-c08f54464317

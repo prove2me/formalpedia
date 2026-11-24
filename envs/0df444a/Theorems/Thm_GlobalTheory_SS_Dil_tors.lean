@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Dil_tors
 -- name    : GlobalTheory.SS.Dil.tors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:33:19.344818+00:00
 -- url     : https://prove2.me/theorems/d1a021bb-672d-417b-ac5c-8660510a9d1a

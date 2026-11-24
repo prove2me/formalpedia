@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_TraceOpenProd_continuous_glue
 -- name    : GlobalTheory.QSA.TraceOpenProd.continuous_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:03:23.094557+00:00
 -- url     : https://prove2.me/theorems/3dac3425-9dd3-438d-a5ee-9e52b99acd66

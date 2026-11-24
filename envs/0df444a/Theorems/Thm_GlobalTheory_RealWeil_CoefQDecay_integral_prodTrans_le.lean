@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_CoefQDecay_integral_prodTrans_le
 -- name    : GlobalTheory.RealWeil.CoefQDecay.integral_prodTrans_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:15:31.627795+00:00
 -- url     : https://prove2.me/theorems/2beff062-a463-4393-96e9-9cad4126e621

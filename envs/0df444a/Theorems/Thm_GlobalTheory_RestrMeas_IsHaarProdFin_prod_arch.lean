@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RestrMeas_IsHaarProdFin_prod_arch
 -- name    : GlobalTheory.RestrMeas.IsHaarProdFin.prod_arch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:21:29.456879+00:00
 -- url     : https://prove2.me/theorems/9479e90c-fee9-4c94-834f-939e4cb2f407

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_UnusedSlot33_HK_conj_conj
 -- name    : Formalism.MainNotions.UnusedSlot33.HK.conj_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:30:37.55334+00:00
 -- url     : https://prove2.me/theorems/c49dfcd1-e047-4dbf-b943-fc972a49eb42

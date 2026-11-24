@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimV_Nf_ne
 -- name    : GlobalTheory.CompanionTheory.SW.PrimV.Nf_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:06:45.458839+00:00
 -- url     : https://prove2.me/theorems/b75c53b9-2bba-43ec-9db6-db0b3e6f9b6d

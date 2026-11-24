@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_gen_of_section
 -- name    : GlobalTheory.RegBound.gen_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:20:40.454961+00:00
 -- url     : https://prove2.me/theorems/38ac7e46-28ff-4f13-bba5-6addc08c273e

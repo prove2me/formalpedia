@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_evR_eq_map_of_test_point
 -- name    : GlobalTheory.Reg.evR_eq_map_of_test_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:21:19.920208+00:00
 -- url     : https://prove2.me/theorems/6b25f44e-4d0a-4b5f-979c-a1e594d961cf

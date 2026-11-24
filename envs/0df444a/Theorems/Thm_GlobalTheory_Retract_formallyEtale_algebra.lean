@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_formallyEtale_algebra
 -- name    : GlobalTheory.Retract.formallyEtale_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:22:41.925254+00:00
 -- url     : https://prove2.me/theorems/d743a72b-1c94-4284-8291-8a579b0877da

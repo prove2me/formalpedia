@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_adjointIdentities
 -- name    : GlobalTheory.PairOp.adjointIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:43:50.936202+00:00
 -- url     : https://prove2.me/theorems/c15dd6ee-1e10-4575-b059-d9d02051cf38

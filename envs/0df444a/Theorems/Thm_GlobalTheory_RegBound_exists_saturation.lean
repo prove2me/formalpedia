@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_exists_saturation
 -- name    : GlobalTheory.RegBound.exists_saturation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:20:15.31781+00:00
 -- url     : https://prove2.me/theorems/10ad4973-59b8-4d33-825b-4e121b963337

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QBinomialSum_sum_gaussian_mul_prod
 -- name    : GlobalTheory.QBinomialSum.sum_gaussian_mul_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:58:03.753883+00:00
 -- url     : https://prove2.me/theorems/a0e3c30d-2d2e-4a60-9267-31b951efc60c

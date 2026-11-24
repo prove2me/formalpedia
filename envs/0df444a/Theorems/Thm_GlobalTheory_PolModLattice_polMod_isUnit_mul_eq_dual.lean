@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolModLattice_polMod_isUnit_mul_eq_dual
 -- name    : GlobalTheory.PolModLattice.polMod_isUnit_mul_eq_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:50:10.61629+00:00
 -- url     : https://prove2.me/theorems/65b607ad-e87e-4abc-92de-57b6d97593b7

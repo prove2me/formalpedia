@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_omB_dilGL
 -- name    : GlobalTheory.RankChart.omB_dilGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:52.100546+00:00
 -- url     : https://prove2.me/theorems/de4b3415-2c52-457b-be68-527687d26311

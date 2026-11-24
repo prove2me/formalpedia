@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_exists_two_auxiliary_inert_odd_primes_coprime_level
 -- name    : GlobalTheory.Models.exists_two_auxiliary_inert_odd_primes_coprime_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:28:14.394013+00:00
 -- url     : https://prove2.me/theorems/fb4656a0-c86b-4ad4-8414-96ce3319c9b5

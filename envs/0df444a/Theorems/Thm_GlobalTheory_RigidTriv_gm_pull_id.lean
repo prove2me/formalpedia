@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidTriv_gm_pull_id
 -- name    : GlobalTheory.RigidTriv.gm_pull_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:31.134691+00:00
 -- url     : https://prove2.me/theorems/a5bc12a8-de6d-4b98-9e3c-568a492a42d6

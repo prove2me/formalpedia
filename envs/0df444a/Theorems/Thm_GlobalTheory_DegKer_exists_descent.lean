@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegKer_exists_descent
 -- name    : GlobalTheory.DegKer.exists_descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:59:22.100069+00:00
 -- url     : https://prove2.me/theorems/8c62965d-0f72-4905-ae9c-2ac266c68cc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResultantNorm_norm_prod_add
 -- name    : GlobalTheory.ResultantNorm.norm_prod_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:21:32.400606+00:00
 -- url     : https://prove2.me/theorems/9d72d33b-16cd-41f5-977a-07ea21df50d1

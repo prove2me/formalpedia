@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBaseChange_moved_sec
 -- name    : GlobalTheory.ThetaBaseChange.moved_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:03:05.784935+00:00
 -- url     : https://prove2.me/theorems/c79f451d-6211-4027-8176-4d2d2793031e

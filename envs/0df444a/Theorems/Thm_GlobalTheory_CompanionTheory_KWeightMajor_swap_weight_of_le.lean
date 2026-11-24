@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KWeightMajor_swap_weight_of_le
 -- name    : GlobalTheory.CompanionTheory.KWeightMajor.swap_weight_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:23:59.297732+00:00
 -- url     : https://prove2.me/theorems/c7af950e-d36c-46d3-87ea-51408ecfc8f8

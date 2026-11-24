@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_exists_splits
 -- name    : GlobalTheory.Published.SvN.exists_splits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:58:16.015642+00:00
 -- url     : https://prove2.me/theorems/93d883ad-a4c3-48ca-9588-15fdbf083183

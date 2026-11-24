@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncrOpenAddr_NoTradeoff_lemma_2_1
 -- name    : IncrOpenAddr.NoTradeoff.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T04:35:37.834661+00:00
 -- url     : https://prove2.me/theorems/798a4be5-5704-4114-8359-7fe3f7f2a8c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ReducedAlg_isReduced_tensor_of_forall_prime
 -- name    : GlobalTheory.ReducedAlg.isReduced_tensor_of_forall_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:59:30.182095+00:00
 -- url     : https://prove2.me/theorems/985206e9-55e2-4e9d-9839-63bf9f06a549

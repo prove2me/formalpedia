@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_Lifts_pow
 -- name    : GlobalTheory.AffineThickening.Lifts.pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:57:29.948818+00:00
 -- url     : https://prove2.me/theorems/d36d4d36-8866-4157-9e0c-e40ca6474db9

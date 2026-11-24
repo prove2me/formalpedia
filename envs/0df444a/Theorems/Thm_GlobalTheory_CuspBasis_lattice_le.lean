@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_lattice_le
 -- name    : GlobalTheory.CuspBasis.lattice_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:51:30.541217+00:00
 -- url     : https://prove2.me/theorems/574c5b27-6b9d-4df7-a567-eb2ec452bc2b

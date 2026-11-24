@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Height_ev_gs
 -- name    : GlobalTheory.SS.Height.ev_gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:35:24.487796+00:00
 -- url     : https://prove2.me/theorems/43bd9a80-6341-4558-b7be-f2ba914a2da7

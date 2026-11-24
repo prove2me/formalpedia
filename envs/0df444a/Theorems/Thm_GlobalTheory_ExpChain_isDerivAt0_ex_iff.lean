@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpChain_isDerivAt0_ex_iff
 -- name    : GlobalTheory.ExpChain.isDerivAt0_ex_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:23:27.304773+00:00
 -- url     : https://prove2.me/theorems/ef263d24-c872-4133-b35d-77db77182a21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_herm_swap
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.herm_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:14:47.578483+00:00
 -- url     : https://prove2.me/theorems/75c27004-b34e-4c5f-a2d4-aa77e054e1d8

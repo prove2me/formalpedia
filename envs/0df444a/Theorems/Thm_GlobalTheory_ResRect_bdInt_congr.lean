@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResRect_bdInt_congr
 -- name    : GlobalTheory.ResRect.bdInt_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:21:42.402802+00:00
 -- url     : https://prove2.me/theorems/4f4e7afe-477e-4a9d-b4be-2a65503160f0

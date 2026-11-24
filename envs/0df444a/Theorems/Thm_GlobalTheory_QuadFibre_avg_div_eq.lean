@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFibre_avg_div_eq
 -- name    : GlobalTheory.QuadFibre.avg_div_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:08:53.122066+00:00
 -- url     : https://prove2.me/theorems/9d4ff0cc-1ce9-4ecf-94af-c85081bb5340

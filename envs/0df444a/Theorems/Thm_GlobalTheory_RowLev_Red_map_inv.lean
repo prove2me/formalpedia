@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Red_map_inv
 -- name    : GlobalTheory.RowLev.Red.map_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:31:30.332656+00:00
 -- url     : https://prove2.me/theorems/cd2160ed-7997-4460-ac08-90ef723a786c

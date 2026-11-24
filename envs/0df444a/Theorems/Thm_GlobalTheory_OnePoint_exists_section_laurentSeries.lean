@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_section_laurentSeries
 -- name    : GlobalTheory.OnePoint.exists_section_laurentSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:37:36.148071+00:00
 -- url     : https://prove2.me/theorems/ae7386ff-5507-49c2-8f0e-bb77badd42aa

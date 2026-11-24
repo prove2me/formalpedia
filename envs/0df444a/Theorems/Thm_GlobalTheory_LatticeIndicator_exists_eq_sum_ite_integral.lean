@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIndicator_exists_eq_sum_ite_integral
 -- name    : GlobalTheory.LatticeIndicator.exists_eq_sum_ite_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:59:59.214946+00:00
 -- url     : https://prove2.me/theorems/06da4416-1cee-4f3b-990e-3ef01901ba95

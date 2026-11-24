@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_eval_div_algebraMap
 -- name    : GroundTheory.Automorphic.GodementJacquet.eval_div_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:08:51.722373+00:00
 -- url     : https://prove2.me/theorems/4105d5a2-956f-42fc-81d7-90713d412f7c

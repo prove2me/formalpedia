@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_RealWeil_Osc_inner_heis__d75be7e68716
 -- name    : P2M_GlobalTheory_RealWeil_Osc_inner_heis__d75be7e68716
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:09.865623+00:00
 -- url     : https://prove2.me/theorems/79d104b0-cd51-4601-b294-ae48cca6b64e

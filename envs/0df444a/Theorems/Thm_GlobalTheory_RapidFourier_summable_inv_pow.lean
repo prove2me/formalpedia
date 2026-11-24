@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RapidFourier_summable_inv_pow
 -- name    : GlobalTheory.RapidFourier.summable_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:14:01.775231+00:00
 -- url     : https://prove2.me/theorems/fb20ecc3-008b-4b83-852e-8a75d1c63a3f

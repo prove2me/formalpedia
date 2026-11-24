@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesMaximalBound_main
 -- name    : GlobalTheory.PowerSeriesMaximalBound.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:41.494726+00:00
 -- url     : https://prove2.me/theorems/79e598be-9768-49cb-bb31-bbb8345e8c12

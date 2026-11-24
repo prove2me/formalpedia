@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_isUnit_det_map
 -- name    : GlobalTheory.RegSS.isUnit_det_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:24:18.702794+00:00
 -- url     : https://prove2.me/theorems/0c6a170d-57e5-4e35-921d-215f06b9a226

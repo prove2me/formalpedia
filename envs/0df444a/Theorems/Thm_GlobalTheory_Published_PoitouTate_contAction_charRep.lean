@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTate_contAction_charRep
 -- name    : GlobalTheory.Published.PoitouTate.contAction_charRep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:43:00.782807+00:00
 -- url     : https://prove2.me/theorems/f570fdf8-9cdf-4495-9d78-bb0a32b92d7b

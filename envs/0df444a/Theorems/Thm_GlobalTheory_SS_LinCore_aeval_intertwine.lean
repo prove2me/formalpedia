@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LinCore_aeval_intertwine
 -- name    : GlobalTheory.SS.LinCore.aeval_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:35:07.012832+00:00
 -- url     : https://prove2.me/theorems/76ff70b4-70c2-433e-9fc8-e81559253f32

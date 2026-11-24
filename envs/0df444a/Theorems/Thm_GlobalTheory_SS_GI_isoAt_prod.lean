@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_isoAt_prod
 -- name    : GlobalTheory.SS.GI.isoAt_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:33:28.954343+00:00
 -- url     : https://prove2.me/theorems/7e1086be-8414-4eb6-820a-8387bb3606d1

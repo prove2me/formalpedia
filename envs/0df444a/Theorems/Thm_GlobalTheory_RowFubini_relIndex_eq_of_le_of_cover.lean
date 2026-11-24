@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowFubini_relIndex_eq_of_le_of_cover
 -- name    : GlobalTheory.RowFubini.relIndex_eq_of_le_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:22.337165+00:00
 -- url     : https://prove2.me/theorems/3db59edf-015a-4029-9b69-e6d23a35980a

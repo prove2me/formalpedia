@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QkPairing_zero_of_phi
 -- name    : GlobalTheory.QkPairing.zero_of_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:08:30.514126+00:00
 -- url     : https://prove2.me/theorems/7c06e55f-dacf-409c-bf1a-891372666293

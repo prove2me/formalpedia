@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_iteratedLineDeriv_mem_weylAlg
 -- name    : GlobalTheory.RealWeil.iteratedLineDeriv_mem_weylAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:16:08.643545+00:00
 -- url     : https://prove2.me/theorems/2f8a76af-34a6-436b-9cf3-a4aa834d2db0

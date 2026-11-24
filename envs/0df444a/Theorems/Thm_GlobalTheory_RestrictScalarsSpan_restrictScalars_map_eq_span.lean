@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RestrictScalarsSpan_restrictScalars_map_eq_span
 -- name    : GlobalTheory.RestrictScalarsSpan.restrictScalars_map_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:55:54.503807+00:00
 -- url     : https://prove2.me/theorems/4383f336-4c6d-4fbf-b716-cce367525ac6

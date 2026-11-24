@@ -1,0 +1,51 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.SliceLastLevel.ae_Sn
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-24T20:10:14.709182+00:00
+-- url     : https://prove2.me/submissions/b43ecb8d-398c-4b6a-a6f0-5a81eee7f4c6
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementJF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LongWeylElement
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SmoothnessOnGoodSet
+import Definitions.Def_Formalism_FormalDegreeBessel_FinalBF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralAeConvergenceContinuity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SliceLastLevel
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B5_haar_ae
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B5_haar_sigmaFinite
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B6_haar_ae
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B6_haar_sigmaFinite
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_haar_ae
+import Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_R1_haar_sigmaFinite
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix MeasureTheory Filter Topology
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.SliceLastLevel
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+variable {k r : ℕ}
+namespace Formalism.FourierDecayAlt.P.SliceLastLevel
+theorem _root_.solution {μN : Measure (Mt k r)} (hN : IsHaarOn (Nset k r) μN) : ∀ᵐ ξ ∂(μN.prod μN), ξ ∈ Sn k r := by
+  have := Formalism.FourierDecayAlt.P.B5.haar_sigmaFinite hN
+  exact (Measure.quasiMeasurePreserving_fst.ae (Formalism.FourierDecayAlt.P.B5.haar_ae hN)).and
+    (Measure.quasiMeasurePreserving_snd.ae (Formalism.FourierDecayAlt.P.B5.haar_ae hN))
+end Formalism.FourierDecayAlt.P.SliceLastLevel

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_rootOfUnity_galois_action_CMDatum
 -- name    : UpperTheory.rootOfUnity_galois_action_CMDatum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:25:48.37412+00:00
 -- url     : https://prove2.me/theorems/6656e8f2-c71b-4a06-825d-7bcb7a9ced17

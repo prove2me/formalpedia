@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClopenIdealSheaf_map_comap_eq
 -- name    : GlobalTheory.ClopenIdealSheaf.map_comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:08.797318+00:00
 -- url     : https://prove2.me/theorems/ac9e4926-d049-4090-850d-78626de3b971

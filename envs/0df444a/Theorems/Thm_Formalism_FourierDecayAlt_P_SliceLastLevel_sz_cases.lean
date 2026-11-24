@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_sz_cases
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.sz_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:09:28.50231+00:00
 -- url     : https://prove2.me/theorems/709bbbaa-1de0-49a1-90c9-c1098135a6a8

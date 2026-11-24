@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_continuous_twist_intw
 -- name    : GlobalTheory.RealWeil.Osc.continuous_twist_intw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:15:13.692253+00:00
 -- url     : https://prove2.me/theorems/5ec37784-ad67-4a38-865c-fb7e612aabd1

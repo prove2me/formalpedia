@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_coe_pull_g
 -- name    : GlobalTheory.DvrModel.coe_pull_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:57:43.137074+00:00
 -- url     : https://prove2.me/theorems/3b1d97dc-7498-4bba-9bbb-37bb988042c9

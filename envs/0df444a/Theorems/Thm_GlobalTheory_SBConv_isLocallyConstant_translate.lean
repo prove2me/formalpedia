@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBConv_isLocallyConstant_translate
 -- name    : GlobalTheory.SBConv.isLocallyConstant_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:09.151556+00:00
 -- url     : https://prove2.me/theorems/a387c2cb-8c66-4c17-89da-f4313b7f7957

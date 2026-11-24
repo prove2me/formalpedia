@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_index_sqs_top_of_fg
 -- name    : GlobalTheory.QNorm.index_sqs_top_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:02:10.462804+00:00
 -- url     : https://prove2.me/theorems/13905f38-4bde-407f-ae0c-472225a297de

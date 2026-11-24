@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_FourPlusTwoResidual_vertical_pole_reduction_and_closure
 -- name    : HodgeComputer.FourPlusTwoResidual.vertical_pole_reduction_and_closure
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-24T19:20:27.08826+00:00
 -- url     : https://prove2.me/theorems/46a1ab81-8b27-4d81-8e44-cc50f0d207ef

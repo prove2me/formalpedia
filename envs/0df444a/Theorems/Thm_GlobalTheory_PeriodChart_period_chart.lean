@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_period_chart
 -- name    : GlobalTheory.PeriodChart.period_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:42:30.991535+00:00
 -- url     : https://prove2.me/theorems/ac609334-8671-40cc-ae6e-80e87f8e93a3

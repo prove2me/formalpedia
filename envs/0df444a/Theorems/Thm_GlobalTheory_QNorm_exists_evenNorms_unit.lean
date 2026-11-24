@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_evenNorms_unit
 -- name    : GlobalTheory.QNorm.exists_evenNorms_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:02:18.975962+00:00
 -- url     : https://prove2.me/theorems/a1c113b0-5bd8-4262-b1fb-3179caeab3ea

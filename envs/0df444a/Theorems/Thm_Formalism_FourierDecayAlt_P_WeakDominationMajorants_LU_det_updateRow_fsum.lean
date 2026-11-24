@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_LU_det_updateRow_fsum
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.LU.det_updateRow_fsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:08:40.135699+00:00
 -- url     : https://prove2.me/theorems/9c1b8437-2631-49c5-9661-7cb372b25e78

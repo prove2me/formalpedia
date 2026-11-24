@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowChange_isKeyPow_change
 -- name    : GlobalTheory.PowChange.isKeyPow_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:51:42.639318+00:00
 -- url     : https://prove2.me/theorems/99ad7fc1-345f-4d28-be8e-5abcea06d88d

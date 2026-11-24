@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_nabP_colLat_le
 -- name    : Formalism.L2.DIV.nabP_colLat_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:08:51.334847+00:00
 -- url     : https://prove2.me/theorems/8208085a-6a92-4951-8c19-b17ed8e284af

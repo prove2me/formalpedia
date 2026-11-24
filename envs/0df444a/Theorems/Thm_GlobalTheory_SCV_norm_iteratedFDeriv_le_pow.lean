@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_norm_iteratedFDeriv_le_pow
 -- name    : GlobalTheory.SCV.norm_iteratedFDeriv_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:32:58.756262+00:00
 -- url     : https://prove2.me/theorems/3702f89d-f19d-4ccd-ba04-302bd7341c4d

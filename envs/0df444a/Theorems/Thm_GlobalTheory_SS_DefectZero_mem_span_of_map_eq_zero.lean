@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_DefectZero_mem_span_of_map_eq_zero
 -- name    : GlobalTheory.SS.DefectZero.mem_span_of_map_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:33:37.143111+00:00
 -- url     : https://prove2.me/theorems/a5225aae-ae84-45c6-8fd3-b382ef87add6

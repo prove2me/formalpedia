@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_section_ker_eq_nilradical
 -- name    : GlobalTheory.OnePoint.exists_section_ker_eq_nilradical
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:23.30627+00:00
 -- url     : https://prove2.me/theorems/925841db-faf3-42fb-b6ef-eaeff003e55e

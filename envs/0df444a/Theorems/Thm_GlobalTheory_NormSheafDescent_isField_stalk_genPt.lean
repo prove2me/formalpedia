@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheafDescent_isField_stalk_genPt
 -- name    : GlobalTheory.NormSheafDescent.isField_stalk_genPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:42:32.656983+00:00
 -- url     : https://prove2.me/theorems/360f68b2-5848-46eb-a472-105f302fd180

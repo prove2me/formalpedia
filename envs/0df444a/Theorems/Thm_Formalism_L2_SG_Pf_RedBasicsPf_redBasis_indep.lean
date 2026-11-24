@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_redBasis_indep
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.redBasis_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:27:30.707803+00:00
 -- url     : https://prove2.me/theorems/1f4bd2db-cb8f-49b8-8bc6-35eee9ff2d44

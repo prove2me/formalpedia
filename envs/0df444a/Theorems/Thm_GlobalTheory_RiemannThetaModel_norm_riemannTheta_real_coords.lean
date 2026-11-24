@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_norm_riemannTheta_real_coords
 -- name    : GlobalTheory.RiemannThetaModel.norm_riemannTheta_real_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:52.78843+00:00
 -- url     : https://prove2.me/theorems/ca1d39c6-5f08-46cb-b0fd-1c29b0d3a066

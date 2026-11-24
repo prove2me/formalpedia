@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_piece_extIdeal
 -- name    : GlobalTheory.RegBound.piece_extIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:00.469299+00:00
 -- url     : https://prove2.me/theorems/30cefa8d-a3ab-4bfa-b5d7-189405edf0cb

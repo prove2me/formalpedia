@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResRect_bdInt_sum
 -- name    : GlobalTheory.ResRect.bdInt_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:21:38.90896+00:00
 -- url     : https://prove2.me/theorems/e891ea8d-3c43-42b0-a495-ffb6fab8306e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_admissible_superset_finite_places
 -- name    : GlobalTheory.QNorm.exists_admissible_superset_finite_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:23:34.509535+00:00
 -- url     : https://prove2.me/theorems/6725db66-75f3-479b-9120-fc0244899c82

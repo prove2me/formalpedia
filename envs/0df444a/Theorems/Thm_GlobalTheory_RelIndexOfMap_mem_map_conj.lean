@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelIndexOfMap_mem_map_conj
 -- name    : GlobalTheory.RelIndexOfMap.mem_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:21:04.536285+00:00
 -- url     : https://prove2.me/theorems/9391a8a4-18f4-402f-98ed-1ac053291c49

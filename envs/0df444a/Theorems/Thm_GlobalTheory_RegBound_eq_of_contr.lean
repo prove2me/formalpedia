@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_eq_of_contr
 -- name    : GlobalTheory.RegBound.eq_of_contr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:20:01.759317+00:00
 -- url     : https://prove2.me/theorems/0de23c75-3eb9-43ba-ab72-9d3289e18ca7

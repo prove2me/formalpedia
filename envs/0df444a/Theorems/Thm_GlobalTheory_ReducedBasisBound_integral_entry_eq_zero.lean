@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ReducedBasisBound_integral_entry_eq_zero
 -- name    : GlobalTheory.ReducedBasisBound.integral_entry_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:18:39.44336+00:00
 -- url     : https://prove2.me/theorems/033f316f-5429-4f35-8f89-2ee01aa682f6

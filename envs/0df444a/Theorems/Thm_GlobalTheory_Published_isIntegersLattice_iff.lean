@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_isIntegersLattice_iff
 -- name    : GlobalTheory.Published.isIntegersLattice_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:58:16.250338+00:00
 -- url     : https://prove2.me/theorems/18c1f0f7-1295-45a4-86ad-3ea9355e2bb9

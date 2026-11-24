@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_mem_genIn_of_map
 -- name    : GlobalTheory.RegBound.mem_genIn_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:19:50.174984+00:00
 -- url     : https://prove2.me/theorems/be960616-8463-4de2-837e-ed48045d370b

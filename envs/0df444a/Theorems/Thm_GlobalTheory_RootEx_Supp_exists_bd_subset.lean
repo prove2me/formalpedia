@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_exists_bd_subset
 -- name    : GlobalTheory.RootEx.Supp.exists_bd_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:25.932808+00:00
 -- url     : https://prove2.me/theorems/32d66bec-bcd9-4846-9820-6bbd51d2f77f

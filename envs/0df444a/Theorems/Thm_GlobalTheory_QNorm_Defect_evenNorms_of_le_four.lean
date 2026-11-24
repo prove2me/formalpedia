@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_Defect_evenNorms_of_le_four
 -- name    : GlobalTheory.QNorm.Defect.evenNorms_of_le_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:43:15.56823+00:00
 -- url     : https://prove2.me/theorems/818767ad-576b-49c0-be92-52280d1c00fa

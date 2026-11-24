@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSquareRamified_host_jacobiSym_norm
 -- name    : GlobalTheory.NormSquareRamified.host_jacobiSym_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:48:46.579468+00:00
 -- url     : https://prove2.me/theorems/78e35902-7355-4199-bcca-928b33dc7f93

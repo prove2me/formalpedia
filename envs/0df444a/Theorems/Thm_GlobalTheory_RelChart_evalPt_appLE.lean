@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelChart_evalPt_appLE
 -- name    : GlobalTheory.RelChart.evalPt_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:21:30.010439+00:00
 -- url     : https://prove2.me/theorems/a26b166f-77cb-48d8-bbe7-6937bd4c1df6

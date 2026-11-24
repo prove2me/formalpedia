@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjModFinIso_exists_finite_reps
 -- name    : GlobalTheory.ProjModFinIso.exists_finite_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:55:13.42721+00:00
 -- url     : https://prove2.me/theorems/6f8e86f5-863b-44bb-92ca-228217499318

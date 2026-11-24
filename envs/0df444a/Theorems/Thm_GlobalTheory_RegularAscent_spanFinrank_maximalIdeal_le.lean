@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularAscent_spanFinrank_maximalIdeal_le
 -- name    : GlobalTheory.RegularAscent.spanFinrank_maximalIdeal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:22.455798+00:00
 -- url     : https://prove2.me/theorems/e22dd00a-d224-48dc-8665-67db942b1407

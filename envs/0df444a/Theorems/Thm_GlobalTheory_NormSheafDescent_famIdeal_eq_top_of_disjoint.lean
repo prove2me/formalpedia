@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheafDescent_famIdeal_eq_top_of_disjoint
 -- name    : GlobalTheory.NormSheafDescent.famIdeal_eq_top_of_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:14.244781+00:00
 -- url     : https://prove2.me/theorems/050636ea-f9ed-4585-b4ff-58e9a2b415bf

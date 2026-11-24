@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_isotropic_five_of_localField
 -- name    : GlobalTheory.HermLocal.isotropic_five_of_localField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:57:39.217801+00:00
 -- url     : https://prove2.me/theorems/309d4100-67f9-4e01-a21e-2f0ef7057356

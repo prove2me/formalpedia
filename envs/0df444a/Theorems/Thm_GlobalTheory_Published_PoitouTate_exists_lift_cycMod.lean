@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTate_exists_lift_cycMod
 -- name    : GlobalTheory.Published.PoitouTate.exists_lift_cycMod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:41:37.372958+00:00
 -- url     : https://prove2.me/theorems/2aa3af4d-8bf7-44d7-b43b-42afbb014db1

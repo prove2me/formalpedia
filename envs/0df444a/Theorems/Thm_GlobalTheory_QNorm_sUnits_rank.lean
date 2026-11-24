@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_sUnits_rank
 -- name    : GlobalTheory.QNorm.sUnits_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:04:04.097914+00:00
 -- url     : https://prove2.me/theorems/d4bcbd67-8558-4655-abdd-dc301cbdeecb

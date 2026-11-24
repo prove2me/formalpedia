@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GenProj_prod_j_fst
 -- name    : GlobalTheory.SS.GenProj.prod_j_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:35:18.419418+00:00
 -- url     : https://prove2.me/theorems/04539163-4127-4a84-bdae-0bc7607159ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_le_of_repr_prod_ne_zero
 -- name    : GlobalTheory.Lyndon.le_of_repr_prod_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:40:05.329433+00:00
 -- url     : https://prove2.me/theorems/c6d377f9-96e6-4cb3-90ac-e7580da2589a

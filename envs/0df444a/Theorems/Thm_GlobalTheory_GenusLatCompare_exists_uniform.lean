@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenusLatCompare_exists_uniform
 -- name    : GlobalTheory.GenusLatCompare.exists_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:59:35.5458+00:00
 -- url     : https://prove2.me/theorems/c6b2f021-f892-40ef-9eb2-4e78e1d91c12

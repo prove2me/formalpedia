@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_scaled_basis_mem_chainLattice
 -- name    : GlobalTheory.RootEx.UnfoldShape.scaled_basis_mem_chainLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:29:41.852708+00:00
 -- url     : https://prove2.me/theorems/d6224087-eb14-4925-9552-1be8bc231392

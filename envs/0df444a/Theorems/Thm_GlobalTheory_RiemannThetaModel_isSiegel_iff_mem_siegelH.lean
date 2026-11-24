@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_isSiegel_iff_mem_siegelH
 -- name    : GlobalTheory.RiemannThetaModel.isSiegel_iff_mem_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:28.568679+00:00
 -- url     : https://prove2.me/theorems/12fa8a34-1d96-4b58-a7fb-b4f41321c031

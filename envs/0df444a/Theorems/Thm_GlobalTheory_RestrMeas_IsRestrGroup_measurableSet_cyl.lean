@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RestrMeas_IsRestrGroup_measurableSet_cyl
 -- name    : GlobalTheory.RestrMeas.IsRestrGroup.measurableSet_cyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:20:58.557183+00:00
 -- url     : https://prove2.me/theorems/9cfe3361-9f53-4cbe-a741-4ecd5d9944cc

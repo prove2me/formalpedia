@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_fourB_sub
 -- name    : GlobalTheory.PlancherelZero.fourB_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:44:37.794794+00:00
 -- url     : https://prove2.me/theorems/2b2da5af-d278-4322-bfb0-59d5c3704406

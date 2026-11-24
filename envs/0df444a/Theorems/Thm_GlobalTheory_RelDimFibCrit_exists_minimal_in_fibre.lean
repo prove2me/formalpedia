@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelDimFibCrit_exists_minimal_in_fibre
 -- name    : GlobalTheory.RelDimFibCrit.exists_minimal_in_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:21:38.740383+00:00
 -- url     : https://prove2.me/theorems/29ad0343-35f7-4ea1-97f0-a959c3998f1f

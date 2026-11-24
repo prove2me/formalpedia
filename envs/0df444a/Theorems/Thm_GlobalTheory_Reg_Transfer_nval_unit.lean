@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_nval_unit
 -- name    : GlobalTheory.Reg.Transfer.nval_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:18:29.26995+00:00
 -- url     : https://prove2.me/theorems/d6d4bd45-6246-4030-a2cc-dc69f084adc0

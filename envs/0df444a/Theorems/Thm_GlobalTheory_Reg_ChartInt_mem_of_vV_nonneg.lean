@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_mem_of_vV_nonneg
 -- name    : GlobalTheory.Reg.ChartInt.mem_of_vV_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:18:13.571809+00:00
 -- url     : https://prove2.me/theorems/d7c1cf59-3b4a-4ade-a27d-4a26be3bbb20

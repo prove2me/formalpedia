@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_galPol_foldr
 -- name    : GlobalTheory.LocalInv.galPol_foldr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:23:45.896354+00:00
 -- url     : https://prove2.me/theorems/6ffdc6cb-db9a-4f4e-b5cc-94c994d4f10c

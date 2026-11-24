@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeElement_irreducible_algebraMap
 -- name    : GlobalTheory.PrimeElement.irreducible_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:41.640391+00:00
 -- url     : https://prove2.me/theorems/c7b4e2fa-dce3-4cae-b2d8-b998390df5a8

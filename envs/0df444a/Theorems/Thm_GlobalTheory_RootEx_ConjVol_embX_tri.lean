@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ConjVol_embX_tri
 -- name    : GlobalTheory.RootEx.ConjVol.embX_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:24:43.263426+00:00
 -- url     : https://prove2.me/theorems/7e265cd1-0370-4d84-9588-2ca12caf6d92

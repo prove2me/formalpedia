@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrescribedRank_mem_funMod
 -- name    : GlobalTheory.PrescribedRank.mem_funMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:54:34.894924+00:00
 -- url     : https://prove2.me/theorems/c0404a65-dd3f-46f5-89f0-85a727ac1f13

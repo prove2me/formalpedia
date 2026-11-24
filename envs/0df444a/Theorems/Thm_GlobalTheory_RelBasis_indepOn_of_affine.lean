@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelBasis_indepOn_of_affine
 -- name    : GlobalTheory.RelBasis.indepOn_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:19:54.301708+00:00
 -- url     : https://prove2.me/theorems/f18d9ea2-d3fd-4114-9251-ff3924487da4

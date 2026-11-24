@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeros_norm_br_le
 -- name    : GlobalTheory.RealZeros.norm_br_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:16:46.443143+00:00
 -- url     : https://prove2.me/theorems/f675662e-fadc-4e5e-a361-183b9b97bddc

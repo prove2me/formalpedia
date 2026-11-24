@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Principalise_isEmpty_of_effCartier_bot
 -- name    : GlobalTheory.CompanionTheory.Principalise.isEmpty_of_effCartier_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:58:56.119746+00:00
 -- url     : https://prove2.me/theorems/d7795e96-8e61-436a-8ac3-da7560eb46ac

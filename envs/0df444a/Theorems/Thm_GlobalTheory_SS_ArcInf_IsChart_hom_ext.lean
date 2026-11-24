@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_IsChart_hom_ext
 -- name    : GlobalTheory.SS.ArcInf.IsChart.hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:34:19.313398+00:00
 -- url     : https://prove2.me/theorems/ef969721-66f3-48c2-bc42-a8e869c97ac4

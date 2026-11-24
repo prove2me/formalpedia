@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_sum_ite_out
 -- name    : GlobalTheory.RankChart.sum_ite_out
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:07.912581+00:00
 -- url     : https://prove2.me/theorems/dfd64ad7-d396-43d5-bc1b-4396319b064b

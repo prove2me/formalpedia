@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_WinBounds_term_le_bound
 -- name    : GlobalTheory.PMonE.WinBounds.term_le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:38:29.364202+00:00
 -- url     : https://prove2.me/theorems/9024689d-86c6-4aa4-9621-325e2a46a6bd

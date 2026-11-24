@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isEigAt_iff_of_isDerivAt0
 -- name    : GlobalTheory.isEigAt_iff_of_isDerivAt0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:20:58.68758+00:00
 -- url     : https://prove2.me/theorems/a81cd2f7-b396-4826-91d5-9d686a84e817

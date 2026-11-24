@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBaseChange_actVal_of_isActOf
 -- name    : GlobalTheory.ThetaBaseChange.actVal_of_isActOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:59:12.913232+00:00
 -- url     : https://prove2.me/theorems/1b717cbc-af1a-41e6-a353-02c15c6be516

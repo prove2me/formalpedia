@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_IsTraceClass_trace_comp_comp
 -- name    : GlobalTheory.OpTrace.IsTraceClass.trace_comp_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:41:39.91852+00:00
 -- url     : https://prove2.me/theorems/0a2ad959-32ab-48dd-9fc3-a476138db7aa

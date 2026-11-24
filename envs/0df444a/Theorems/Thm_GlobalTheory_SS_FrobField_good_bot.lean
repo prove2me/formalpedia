@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobField_good_bot
 -- name    : GlobalTheory.SS.FrobField.good_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:33:51.066947+00:00
 -- url     : https://prove2.me/theorems/e8f0dffb-e006-4483-8ae9-f6faed9ba383

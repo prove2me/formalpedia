@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Inhab_exists_frame
 -- name    : GlobalTheory.RowLev.Inhab.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:30:45.015269+00:00
 -- url     : https://prove2.me/theorems/687313a0-3fca-4a37-8866-828f8d0d2b94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_hasQ_linear
 -- name    : GlobalTheory.QFam.hasQ_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:13:26.977733+00:00
 -- url     : https://prove2.me/theorems/b6750a9a-12e3-44e5-8acc-f296bb17f980

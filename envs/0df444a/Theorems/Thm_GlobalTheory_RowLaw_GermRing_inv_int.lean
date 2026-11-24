@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_inv_int
 -- name    : GlobalTheory.RowLaw.GermRing.inv_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:31:26.19556+00:00
 -- url     : https://prove2.me/theorems/c119cc89-1d48-4451-9fcd-9fc173968918

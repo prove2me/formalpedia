@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_map_cc_mul
 -- name    : GlobalTheory.CuspBasis.map_cc_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:51:55.804619+00:00
 -- url     : https://prove2.me/theorems/2192427e-d6e6-42e0-9ccf-4a536f6fa408

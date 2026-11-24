@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_isoAt_braiding
 -- name    : GlobalTheory.SS.GI.isoAt_braiding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:33:28.135925+00:00
 -- url     : https://prove2.me/theorems/23b1cafc-7ded-45aa-8354-dedacde93038

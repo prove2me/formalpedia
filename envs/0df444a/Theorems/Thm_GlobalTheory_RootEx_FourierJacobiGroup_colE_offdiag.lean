@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobiGroup_colE_offdiag
 -- name    : GlobalTheory.RootEx.FourierJacobiGroup.colE_offdiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:26:23.859801+00:00
 -- url     : https://prove2.me/theorems/db4ef6d5-8827-4e54-a9af-32b5425c0fdb

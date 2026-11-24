@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_affPt_inl_inl
 -- name    : GlobalTheory.RootEx.affPt_inl_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:53.714629+00:00
 -- url     : https://prove2.me/theorems/f912ef6b-14c8-4ba9-bdae-58434f50414a

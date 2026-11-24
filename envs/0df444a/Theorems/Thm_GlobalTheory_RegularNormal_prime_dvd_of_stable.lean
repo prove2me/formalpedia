@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularNormal_prime_dvd_of_stable
 -- name    : GlobalTheory.RegularNormal.prime_dvd_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:54.791015+00:00
 -- url     : https://prove2.me/theorems/d0b73214-42d1-42f2-b2ad-ed098ce70af2

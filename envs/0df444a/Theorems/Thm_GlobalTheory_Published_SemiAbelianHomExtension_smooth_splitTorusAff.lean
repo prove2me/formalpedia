@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_smooth_splitTorusAff
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.smooth_splitTorusAff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:28:58.007831+00:00
 -- url     : https://prove2.me/theorems/9aa25366-995e-4421-b4cd-c637d11d58c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_eventually_mem_of_X_mul
 -- name    : GlobalTheory.RegBound.eventually_mem_of_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:20:21.963927+00:00
 -- url     : https://prove2.me/theorems/fb26a54d-875d-4440-b322-a73ff200f7db

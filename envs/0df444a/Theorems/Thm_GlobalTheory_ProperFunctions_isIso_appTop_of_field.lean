@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_appTop_of_field
 -- name    : GlobalTheory.ProperFunctions.isIso_appTop_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:35.074467+00:00
 -- url     : https://prove2.me/theorems/74f10bfe-2a69-44e8-952f-7237bb5c4170

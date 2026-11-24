@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RestrMeas_IsHaarProd_prod_away
 -- name    : GlobalTheory.RestrMeas.IsHaarProd.prod_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:21:06.013971+00:00
 -- url     : https://prove2.me/theorems/050bd8fd-8d35-4c59-8f66-0841368eabe9

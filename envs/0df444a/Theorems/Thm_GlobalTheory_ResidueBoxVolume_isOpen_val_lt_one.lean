@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueBoxVolume_isOpen_val_lt_one
 -- name    : GlobalTheory.ResidueBoxVolume.isOpen_val_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:23:01.141106+00:00
 -- url     : https://prove2.me/theorems/e77b9112-2057-415b-a266-53dcc78ab642

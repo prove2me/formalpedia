@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_norm_psiN
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.norm_psiN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:05:58.213799+00:00
 -- url     : https://prove2.me/theorems/70bc4eab-8ffb-4c8c-90dc-87371f57175e

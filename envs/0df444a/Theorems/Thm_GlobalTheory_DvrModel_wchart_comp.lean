@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_wchart_comp
 -- name    : GlobalTheory.DvrModel.wchart_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:57:53.8528+00:00
 -- url     : https://prove2.me/theorems/76044d79-88cb-4790-931b-8db7ac2e9629

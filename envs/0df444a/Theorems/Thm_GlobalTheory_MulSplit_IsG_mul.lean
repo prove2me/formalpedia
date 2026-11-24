@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_IsG_mul
 -- name    : GlobalTheory.MulSplit.IsG.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:28:52.216014+00:00
 -- url     : https://prove2.me/theorems/65eb4d1f-e57b-4ae2-8273-c739a7edf432

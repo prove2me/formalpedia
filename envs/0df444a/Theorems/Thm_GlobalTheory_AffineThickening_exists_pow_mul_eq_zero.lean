@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_exists_pow_mul_eq_zero
 -- name    : GlobalTheory.AffineThickening.exists_pow_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:57:18.220244+00:00
 -- url     : https://prove2.me/theorems/adde46b6-9f62-40d2-9fec-4ff38a722f19

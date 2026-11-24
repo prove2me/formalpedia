@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_LU_norm_mul_entry
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.LU.norm_mul_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:05:14.307867+00:00
 -- url     : https://prove2.me/theorems/d1f217bf-35a9-4f10-a410-37fd02901e27

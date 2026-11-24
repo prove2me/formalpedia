@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_TwoVarSetup_laurent_ext
 -- name    : GlobalTheory.SS.ArcInf.TwoVarSetup.laurent_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:35:48.552679+00:00
 -- url     : https://prove2.me/theorems/3c681349-5752-41db-b1a9-fcdbc4237a97

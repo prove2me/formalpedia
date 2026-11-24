@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonoEigen_finrank_eigenspace_monomial_lift
 -- name    : GlobalTheory.MonoEigen.finrank_eigenspace_monomial_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:27:48.003007+00:00
 -- url     : https://prove2.me/theorems/50cf6e62-c8a1-416e-8f0e-49785b6aa830

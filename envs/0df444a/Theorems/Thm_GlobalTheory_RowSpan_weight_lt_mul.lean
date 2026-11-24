@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_weight_lt_mul
 -- name    : GlobalTheory.RowSpan.weight_lt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:45:43.209543+00:00
 -- url     : https://prove2.me/theorems/d6245f20-1e2c-4e78-9260-cb4b3b15443a

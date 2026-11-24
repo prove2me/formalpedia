@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_glOnto_of_one
 -- name    : GlobalTheory.PMonE.glOnto_of_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:39:35.831028+00:00
 -- url     : https://prove2.me/theorems/a23cb79b-4b43-47a8-8c1a-bc25aacd2565

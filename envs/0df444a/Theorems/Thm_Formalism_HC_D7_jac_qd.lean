@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_jac_qd
 -- name    : Formalism.HC.D7.jac_qd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:40:19.836811+00:00
 -- url     : https://prove2.me/theorems/b14a7fd9-7e60-47e6-a542-33552c601824

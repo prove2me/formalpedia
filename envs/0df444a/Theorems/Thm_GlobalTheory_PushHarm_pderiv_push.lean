@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushHarm_pderiv_push
 -- name    : GlobalTheory.PushHarm.pderiv_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:58:34.003864+00:00
 -- url     : https://prove2.me/theorems/f00f5368-0b77-49a9-8349-f81d6c8341c4

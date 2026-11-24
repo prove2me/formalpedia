@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_ruleC
 -- name    : CCRuleCW.ruleC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:36:54.698991+00:00
 -- url     : https://prove2.me/theorems/e13e3465-cc09-41da-bf49-1938afb8f1b7

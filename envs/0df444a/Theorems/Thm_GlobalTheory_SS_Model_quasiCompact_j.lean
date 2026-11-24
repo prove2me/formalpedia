@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Model_quasiCompact_j
 -- name    : GlobalTheory.SS.Model.quasiCompact_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:36:58.48566+00:00
 -- url     : https://prove2.me/theorems/f132aefb-0d86-425f-a455-c2fc8a528b49

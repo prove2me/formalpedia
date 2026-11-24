@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_IsTraceClass_smul
 -- name    : GlobalTheory.OpTrace.IsTraceClass.smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:39.38281+00:00
 -- url     : https://prove2.me/theorems/8b4fc813-3acc-4452-8029-1b1cc9cadfc4

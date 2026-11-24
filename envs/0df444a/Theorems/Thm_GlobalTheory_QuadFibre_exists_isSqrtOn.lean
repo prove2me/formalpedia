@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFibre_exists_isSqrtOn
 -- name    : GlobalTheory.QuadFibre.exists_isSqrtOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:09:54.180802+00:00
 -- url     : https://prove2.me/theorems/c824e504-d4ae-40a5-92e9-4daeea8a920a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_isUnit_intAd
 -- name    : GlobalTheory.RowLev.isUnit_intAd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:32:32.391366+00:00
 -- url     : https://prove2.me/theorems/f8c041ad-a9f2-471e-8809-8ee30ced5fd5

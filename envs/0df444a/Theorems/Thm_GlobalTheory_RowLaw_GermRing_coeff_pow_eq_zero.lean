@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_coeff_pow_eq_zero
 -- name    : GlobalTheory.RowLaw.GermRing.coeff_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:31:28.117596+00:00
 -- url     : https://prove2.me/theorems/d07af5d7-a634-48a2-8b3e-5f78779c05f9

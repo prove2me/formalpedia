@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_diff_smul_mem
 -- name    : Formalism.HC.Der.kc_diff_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:24:22.130834+00:00
 -- url     : https://prove2.me/theorems/b6a8dc01-982c-47de-9f00-1c021624b79d

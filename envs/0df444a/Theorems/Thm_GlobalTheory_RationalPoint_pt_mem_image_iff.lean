@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalPoint_pt_mem_image_iff
 -- name    : GlobalTheory.RationalPoint.pt_mem_image_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:53:37.843566+00:00
 -- url     : https://prove2.me/theorems/b39a1be4-1585-4102-b5e3-46a2ba1143da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_firstNegativePassageMeasurable_of_sections
 -- name    : Kyprianou.Ch01.firstNegativePassageMeasurable_of_sections
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T17:56:29.287401+00:00
 -- url     : https://prove2.me/theorems/0879eed9-172e-46c8-83ec-f680b83ed0cf

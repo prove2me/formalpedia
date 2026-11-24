@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_HeisenbergSubgroup_mem_N_of_val
 -- name    : GlobalTheory.RootEx.HeisenbergSubgroup.mem_N_of_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:25:51.101113+00:00
 -- url     : https://prove2.me/theorems/1376d4a4-ef8c-4297-822b-358bd84f177f

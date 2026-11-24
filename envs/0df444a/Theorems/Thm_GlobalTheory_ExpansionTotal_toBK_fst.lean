@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpansionTotal_toBK_fst
 -- name    : GlobalTheory.ExpansionTotal.toBK_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:57:42.590977+00:00
 -- url     : https://prove2.me/theorems/7d40d01c-33db-4b27-85a7-6e12ddae86f4

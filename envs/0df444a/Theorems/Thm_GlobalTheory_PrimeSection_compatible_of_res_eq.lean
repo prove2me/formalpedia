@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_compatible_of_res_eq
 -- name    : GlobalTheory.PrimeSection.compatible_of_res_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:28:47.036587+00:00
 -- url     : https://prove2.me/theorems/494a7490-2195-45fb-94ca-b876268b88b9

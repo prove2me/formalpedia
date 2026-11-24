@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_integrable_pairing_times_phase_exp
 -- name    : Formalism.FourierDecayAlt.P.B6.integrable_pairing_times_phase_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:16:58.529386+00:00
 -- url     : https://prove2.me/theorems/c30d127d-3da0-471b-a7ef-c0ef66bc5e88

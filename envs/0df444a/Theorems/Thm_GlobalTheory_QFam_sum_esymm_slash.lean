@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_sum_esymm_slash
 -- name    : GlobalTheory.QFam.sum_esymm_slash
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:59:09.571+00:00
 -- url     : https://prove2.me/theorems/a4906b3a-8950-42dd-95ae-814d528498e6

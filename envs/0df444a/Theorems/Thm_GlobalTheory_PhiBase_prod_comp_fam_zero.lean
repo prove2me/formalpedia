@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiBase_prod_comp_fam_zero
 -- name    : GlobalTheory.PhiBase.prod_comp_fam_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:03:06.013569+00:00
 -- url     : https://prove2.me/theorems/77f47465-e8d2-43c8-b4b9-70e5ffeab942

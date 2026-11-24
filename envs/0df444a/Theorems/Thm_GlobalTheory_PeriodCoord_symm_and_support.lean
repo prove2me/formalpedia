@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_symm_and_support
 -- name    : GlobalTheory.PeriodCoord.symm_and_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:42:58.773085+00:00
 -- url     : https://prove2.me/theorems/c495b143-1a54-49a5-803e-b5b03b3d55b4

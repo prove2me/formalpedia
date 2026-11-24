@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_continuous_rTensor
 -- name    : GlobalTheory.RegSS.continuous_rTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:36.968857+00:00
 -- url     : https://prove2.me/theorems/eebe51d1-63cd-4571-80e6-73906edac6e0

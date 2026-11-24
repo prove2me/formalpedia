@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_artinMap_second_eq_jacobiSym_of_modEq
 -- name    : Formalism.HC.D7.artinMap_second_eq_jacobiSym_of_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:39:46.379851+00:00
 -- url     : https://prove2.me/theorems/773a6358-fb2c-4d87-8fe1-b61992171135

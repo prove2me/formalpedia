@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_IsIntegersLattice_j_eq
 -- name    : GlobalTheory.Published.IsIntegersLattice.j_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:43:37.029636+00:00
 -- url     : https://prove2.me/theorems/63ada8ec-460f-4429-9fc2-197601cd7900

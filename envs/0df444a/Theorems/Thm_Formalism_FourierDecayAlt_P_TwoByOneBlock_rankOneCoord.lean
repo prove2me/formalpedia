@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_rankOneCoord
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.rankOneCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:32:28.596067+00:00
 -- url     : https://prove2.me/theorems/d223be0a-4362-443a-abfd-098f6c7bec8c

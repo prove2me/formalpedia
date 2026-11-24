@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RhoProd_inv_mul_int
 -- name    : GlobalTheory.RhoProd.inv_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:22:50.665877+00:00
 -- url     : https://prove2.me/theorems/21120e60-cc45-4a80-bea7-6a0dcc63764b

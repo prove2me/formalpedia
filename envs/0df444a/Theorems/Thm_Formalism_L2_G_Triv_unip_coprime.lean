@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_unip_coprime
 -- name    : Formalism.L2.G.Triv.unip_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:36.821729+00:00
 -- url     : https://prove2.me/theorems/1d3a6e5d-2293-4431-869f-ef244271a340

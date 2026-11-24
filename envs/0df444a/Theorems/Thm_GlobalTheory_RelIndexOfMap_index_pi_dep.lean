@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelIndexOfMap_index_pi_dep
 -- name    : GlobalTheory.RelIndexOfMap.index_pi_dep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:20:57.421821+00:00
 -- url     : https://prove2.me/theorems/548bdf10-06bd-4e79-923a-5d14bdb5a154

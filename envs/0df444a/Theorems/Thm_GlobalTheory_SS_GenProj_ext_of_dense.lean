@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GenProj_ext_of_dense
 -- name    : GlobalTheory.SS.GenProj.ext_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:34:49.530418+00:00
 -- url     : https://prove2.me/theorems/71a8bf33-a013-4637-a4bb-f31657614ac8

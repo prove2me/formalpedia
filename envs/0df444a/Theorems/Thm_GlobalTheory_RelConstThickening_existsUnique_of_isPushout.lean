@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelConstThickening_existsUnique_of_isPushout
 -- name    : GlobalTheory.RelConstThickening.existsUnique_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:23:10.654836+00:00
 -- url     : https://prove2.me/theorems/557b3315-6c19-46b5-9d13-61945933626e

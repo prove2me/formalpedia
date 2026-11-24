@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_IsG_pull
 -- name    : GlobalTheory.MulSplit.IsG.pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:28:46.604276+00:00
 -- url     : https://prove2.me/theorems/5920328e-7fd0-49fc-a54e-409a74fbe789

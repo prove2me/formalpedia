@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_natCast_ne_zero
 -- name    : GlobalTheory.VVRank.natCast_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:58:01.055631+00:00
 -- url     : https://prove2.me/theorems/b54180f7-7c02-4a1d-87a9-9086f34e65a9

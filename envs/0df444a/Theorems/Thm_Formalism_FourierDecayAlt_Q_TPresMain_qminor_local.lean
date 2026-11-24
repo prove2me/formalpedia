@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_qminor_local
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.qminor_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:25:05.965799+00:00
 -- url     : https://prove2.me/theorems/0d1d6666-3544-466c-bf40-20ab369b7456

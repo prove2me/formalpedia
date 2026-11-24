@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_exists_lift_var
 -- name    : GlobalTheory.SS.ArcInf.exists_lift_var
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:34:10.398866+00:00
 -- url     : https://prove2.me/theorems/8e232a25-6b64-4f44-bfb8-8573c9203566

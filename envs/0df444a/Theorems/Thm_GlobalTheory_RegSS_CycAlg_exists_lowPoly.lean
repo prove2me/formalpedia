@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_CycAlg_exists_lowPoly
 -- name    : GlobalTheory.RegSS.CycAlg.exists_lowPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:20.934991+00:00
 -- url     : https://prove2.me/theorems/2ab7c951-e835-48d6-8829-dbbe996e3775

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_form_change
 -- name    : GlobalTheory.CuspBasis.form_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:51:20.197072+00:00
 -- url     : https://prove2.me/theorems/60ba7541-4ae1-4733-8258-7aeda5b9887c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Dil_exists_dil
 -- name    : GlobalTheory.SS.Dil.exists_dil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:33:47.954734+00:00
 -- url     : https://prove2.me/theorems/645574c8-467a-417e-918f-f6e0ac74ad9c

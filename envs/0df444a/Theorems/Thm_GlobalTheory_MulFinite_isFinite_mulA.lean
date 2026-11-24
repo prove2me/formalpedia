@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulFinite_isFinite_mulA
 -- name    : GlobalTheory.MulFinite.isFinite_mulA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:28:02.426272+00:00
 -- url     : https://prove2.me/theorems/79c5ee6c-c79e-4243-ae00-8791c92c7f9b

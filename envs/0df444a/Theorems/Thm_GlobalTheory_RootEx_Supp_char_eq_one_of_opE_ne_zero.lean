@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_char_eq_one_of_opE_ne_zero
 -- name    : GlobalTheory.RootEx.Supp.char_eq_one_of_opE_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:29.695238+00:00
 -- url     : https://prove2.me/theorems/958f5d07-0262-4519-8ba3-c2e7a792d166

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelChart_top_le_comp
 -- name    : GlobalTheory.RelChart.top_le_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:23:58.915288+00:00
 -- url     : https://prove2.me/theorems/b6dcde35-87c5-413e-bc4b-c6a1fa8eefe5

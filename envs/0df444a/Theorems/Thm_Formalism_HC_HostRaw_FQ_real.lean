@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_FQ_real
 -- name    : Formalism.HC.HostRaw.FQ_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:25:27.378858+00:00
 -- url     : https://prove2.me/theorems/2fe89501-9b37-47c8-9665-d6adea32021d

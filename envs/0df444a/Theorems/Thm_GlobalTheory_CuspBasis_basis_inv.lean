@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_basis_inv
 -- name    : GlobalTheory.CuspBasis.basis_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:51:21.660016+00:00
 -- url     : https://prove2.me/theorems/291f4d94-9d18-42b7-b864-fb9e183d03f6

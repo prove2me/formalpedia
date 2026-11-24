@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_lg_ex
 -- name    : GlobalTheory.RowLaw.GermRing.lg_ex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:31:03.244381+00:00
 -- url     : https://prove2.me/theorems/0d837de9-f9d8-4450-b216-48da7ebb7705

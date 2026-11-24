@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GlueCompat_ext_of_schemeDominant
 -- name    : GlobalTheory.SS.GlueCompat.ext_of_schemeDominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:36:19.47593+00:00
 -- url     : https://prove2.me/theorems/893c5c01-cd2d-43a2-8a78-dcef10dc8ffa

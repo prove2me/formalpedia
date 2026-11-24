@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_IdemCusp_isIdemFn_of_isSec
 -- name    : GlobalTheory.Reg.IdemCusp.isIdemFn_of_isSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:18:43.19841+00:00
 -- url     : https://prove2.me/theorems/68471d6f-a2f6-419e-9893-60d90397a569

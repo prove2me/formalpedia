@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_ZeroFree_one_le_order
 -- name    : GlobalTheory.Hk.ZeroFree.one_le_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:37:18.262058+00:00
 -- url     : https://prove2.me/theorems/347d636d-ce02-4ecc-8efa-c2b861f157c4

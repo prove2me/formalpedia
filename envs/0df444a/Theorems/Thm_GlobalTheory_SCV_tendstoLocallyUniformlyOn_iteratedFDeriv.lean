@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_tendstoLocallyUniformlyOn_iteratedFDeriv
 -- name    : GlobalTheory.SCV.tendstoLocallyUniformlyOn_iteratedFDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:33:01.098923+00:00
 -- url     : https://prove2.me/theorems/157bdc41-e3a5-4294-a4e6-ab650207bb9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBaseChange_exists_moved
 -- name    : GlobalTheory.ThetaBaseChange.exists_moved
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:59:44.3836+00:00
 -- url     : https://prove2.me/theorems/63004810-bacd-4824-8d6c-ab7ef56c86ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_cT_add
 -- name    : GlobalTheory.RegSS.cT_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:29.916803+00:00
 -- url     : https://prove2.me/theorems/d04f7ac4-6abc-42c5-ad95-2b8ab1e39a09

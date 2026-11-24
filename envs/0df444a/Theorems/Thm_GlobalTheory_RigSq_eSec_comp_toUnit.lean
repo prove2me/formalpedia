@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigSq_eSec_comp_toUnit
 -- name    : GlobalTheory.RigSq.eSec_comp_toUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:24:27.922133+00:00
 -- url     : https://prove2.me/theorems/3698effb-ac13-4165-90a4-f10c854cb05b

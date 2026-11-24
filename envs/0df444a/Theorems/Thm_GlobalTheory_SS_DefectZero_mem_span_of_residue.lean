@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_DefectZero_mem_span_of_residue
 -- name    : GlobalTheory.SS.DefectZero.mem_span_of_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:33:32.937399+00:00
 -- url     : https://prove2.me/theorems/68c8722d-0c5e-4bf3-a269-a410dc32691b

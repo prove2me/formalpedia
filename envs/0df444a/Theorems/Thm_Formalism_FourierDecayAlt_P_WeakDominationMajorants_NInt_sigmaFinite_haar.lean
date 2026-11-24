@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_NInt_sigmaFinite_haar
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.NInt.sigmaFinite_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:09:17.883798+00:00
 -- url     : https://prove2.me/theorems/5654bde4-7623-463d-a810-b7c4ce026c49

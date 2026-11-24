@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimV_primitiveCompact_of_ringEquiv
 -- name    : GlobalTheory.CompanionTheory.SW.PrimV.primitiveCompact_of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:08:58.878388+00:00
 -- url     : https://prove2.me/theorems/01e8d63a-e231-40ad-ad19-721ebd398290

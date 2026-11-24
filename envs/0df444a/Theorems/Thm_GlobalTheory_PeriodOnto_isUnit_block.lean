@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_isUnit_block
 -- name    : GlobalTheory.PeriodOnto.isUnit_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:44:17.767913+00:00
 -- url     : https://prove2.me/theorems/83127b69-6954-45c6-9b6d-d25b090cfd9a

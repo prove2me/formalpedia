@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_DefectZero_span_one_tmul
 -- name    : GlobalTheory.SS.DefectZero.span_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:34:01.220218+00:00
 -- url     : https://prove2.me/theorems/7d5b4da5-e845-4f33-8113-c3e73ba46472

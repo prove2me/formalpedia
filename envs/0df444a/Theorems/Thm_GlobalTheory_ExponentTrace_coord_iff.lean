@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExponentTrace_coord_iff
 -- name    : GlobalTheory.ExponentTrace.coord_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:35:20.967425+00:00
 -- url     : https://prove2.me/theorems/e6bb80f1-b118-4924-9e4c-7687f73fdfc6

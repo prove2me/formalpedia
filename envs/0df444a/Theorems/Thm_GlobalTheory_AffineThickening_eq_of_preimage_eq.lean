@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_eq_of_preimage_eq
 -- name    : GlobalTheory.AffineThickening.eq_of_preimage_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:58:43.34414+00:00
 -- url     : https://prove2.me/theorems/65f26910-0061-45fc-96fb-810cd3315bb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBInduced_isQuotientMap_sweep
 -- name    : GlobalTheory.SBInduced.isQuotientMap_sweep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:32:30.114369+00:00
 -- url     : https://prove2.me/theorems/3f4f77f5-4821-4fa6-a48c-b03eaa65c69a

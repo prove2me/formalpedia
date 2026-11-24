@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResultantNorm_eq_of_countP
 -- name    : GlobalTheory.ResultantNorm.eq_of_countP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:21:26.246186+00:00
 -- url     : https://prove2.me/theorems/e8133986-d764-4b86-b91c-c6240ee69153

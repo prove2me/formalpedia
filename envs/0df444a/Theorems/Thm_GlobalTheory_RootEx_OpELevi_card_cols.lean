@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_OpELevi_card_cols
 -- name    : GlobalTheory.RootEx.OpELevi.card_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:15.392799+00:00
 -- url     : https://prove2.me/theorems/2a240612-b4bf-40f0-b50c-dff6da641c36

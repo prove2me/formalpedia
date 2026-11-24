@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_le_preimage_mono
 -- name    : GlobalTheory.AnalyticHom.le_preimage_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:56:06.457647+00:00
 -- url     : https://prove2.me/theorems/801f7dd1-ce78-4f46-9174-b18cffc50616

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ConjVol_integral_conj_of_md
 -- name    : GlobalTheory.RootEx.ConjVol.integral_conj_of_md
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:24:48.950848+00:00
 -- url     : https://prove2.me/theorems/2191559d-49c2-41f7-9bb2-62ef468f65ac

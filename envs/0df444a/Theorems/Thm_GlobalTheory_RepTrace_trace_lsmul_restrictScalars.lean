@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepTrace_trace_lsmul_restrictScalars
 -- name    : GlobalTheory.RepTrace.trace_lsmul_restrictScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:22:10.256464+00:00
 -- url     : https://prove2.me/theorems/c6edf5f7-abe9-451b-bd88-66e8caa5eb5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBaseChange_exists_cmp_inv
 -- name    : GlobalTheory.ThetaBaseChange.exists_cmp_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:59:46.679463+00:00
 -- url     : https://prove2.me/theorems/66f84a7d-943a-4ed2-a462-d0c91deab2a9

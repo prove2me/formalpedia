@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_exists_isChart
 -- name    : GlobalTheory.SS.ArcInf.exists_isChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:33:36.193364+00:00
 -- url     : https://prove2.me/theorems/500a68a6-114b-449c-a8cd-63abf4e2b658

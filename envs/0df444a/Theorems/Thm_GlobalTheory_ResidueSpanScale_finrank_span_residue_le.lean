@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueSpanScale_finrank_span_residue_le
 -- name    : GlobalTheory.ResidueSpanScale.finrank_span_residue_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:21:17.91018+00:00
 -- url     : https://prove2.me/theorems/ae891f9a-c8e0-49a7-94ea-d460ace6b36b

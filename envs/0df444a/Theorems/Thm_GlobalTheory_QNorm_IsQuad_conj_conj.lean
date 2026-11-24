@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_IsQuad_conj_conj
 -- name    : GlobalTheory.QNorm.IsQuad.conj_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:34:21.21892+00:00
 -- url     : https://prove2.me/theorems/abb59203-9a32-442c-a2e6-96f82a5df67e

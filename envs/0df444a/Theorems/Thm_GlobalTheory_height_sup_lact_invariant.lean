@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_height_sup_lact_invariant
 -- name    : GlobalTheory.height_sup_lact_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:19:57.08932+00:00
 -- url     : https://prove2.me/theorems/01017dc7-4eb6-4929-890a-24bc83266854

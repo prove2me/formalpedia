@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_upG_const
 -- name    : GlobalTheory.RowLaw.GermRing.upG_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:31:11.6106+00:00
 -- url     : https://prove2.me/theorems/20f42e15-4a4f-4373-a74c-ec99366e2097

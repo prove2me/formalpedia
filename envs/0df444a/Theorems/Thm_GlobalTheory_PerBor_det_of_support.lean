@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerBor_det_of_support
 -- name    : GlobalTheory.PerBor.det_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:05:26.027794+00:00
 -- url     : https://prove2.me/theorems/aba9767c-b40c-403e-9eac-587625c591d8

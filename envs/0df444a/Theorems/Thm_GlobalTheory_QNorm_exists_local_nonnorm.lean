@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_local_nonnorm
 -- name    : GlobalTheory.QNorm.exists_local_nonnorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:04:42.693797+00:00
 -- url     : https://prove2.me/theorems/8452aab6-3dbf-4ad5-b696-1813fd4d95a0

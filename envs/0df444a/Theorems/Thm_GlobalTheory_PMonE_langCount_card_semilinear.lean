@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_langCount_card_semilinear
 -- name    : GlobalTheory.PMonE.langCount_card_semilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:43.814274+00:00
 -- url     : https://prove2.me/theorems/ad6356dc-a27a-421a-8871-54f1e9fcab01

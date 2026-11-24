@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_val_zero
 -- name    : GlobalTheory.AnalyticHom.val_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:57:31.433734+00:00
 -- url     : https://prove2.me/theorems/c0abfe76-ec3e-43a8-ac4f-c489d61afedf

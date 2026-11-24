@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelExp_isHolTo_of_holAt
 -- name    : GlobalTheory.RelExp.isHolTo_of_holAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:22:42.490722+00:00
 -- url     : https://prove2.me/theorems/c78ad881-9c43-433d-a797-d43ce1203a26

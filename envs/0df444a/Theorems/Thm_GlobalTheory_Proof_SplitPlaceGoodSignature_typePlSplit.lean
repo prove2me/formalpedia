@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_SplitPlaceGoodSignature_typePlSplit
 -- name    : GlobalTheory.Proof.SplitPlaceGoodSignature.typePlSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:36:38.569987+00:00
 -- url     : https://prove2.me/theorems/5a8b8e74-16aa-4d60-84a1-5a3646b478f5

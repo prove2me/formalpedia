@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_quasiFinite_algebra
 -- name    : GlobalTheory.Retract.quasiFinite_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:22:43.797669+00:00
 -- url     : https://prove2.me/theorems/c89428cc-21d3-4e2d-aa50-54e4696ff790

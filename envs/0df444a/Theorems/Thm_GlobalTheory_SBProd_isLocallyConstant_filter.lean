@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBProd_isLocallyConstant_filter
 -- name    : GlobalTheory.SBProd.isLocallyConstant_filter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:31:36.718016+00:00
 -- url     : https://prove2.me/theorems/63f64146-fc55-45b7-b9b0-06fbc4314f1f

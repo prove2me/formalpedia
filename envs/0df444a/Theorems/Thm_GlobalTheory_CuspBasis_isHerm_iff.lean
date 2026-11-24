@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_isHerm_iff
 -- name    : GlobalTheory.CuspBasis.isHerm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:51:29.768916+00:00
 -- url     : https://prove2.me/theorems/a9abc289-f48e-4f5f-8365-445ff5529e46

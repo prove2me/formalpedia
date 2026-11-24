@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_sm_of_weak_deriv_closed
 -- name    : GlobalTheory.RealWeil.sm_of_weak_deriv_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:16:50.262489+00:00
 -- url     : https://prove2.me/theorems/b7b90f33-5c75-40e4-a834-58c12baab6db

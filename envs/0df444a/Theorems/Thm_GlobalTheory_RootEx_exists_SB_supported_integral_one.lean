@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_exists_SB_supported_integral_one
 -- name    : GlobalTheory.RootEx.exists_SB_supported_integral_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:26.292149+00:00
 -- url     : https://prove2.me/theorems/9e7a0a7c-8ac3-4e57-bb71-20ba582cba5b

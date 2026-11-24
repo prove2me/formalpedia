@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_GaussSum_ph_sum
 -- name    : GlobalTheory.Phase.GaussSum.ph_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:50.539113+00:00
 -- url     : https://prove2.me/theorems/47f5879c-3107-4a90-8a0e-f7a3ad404b24

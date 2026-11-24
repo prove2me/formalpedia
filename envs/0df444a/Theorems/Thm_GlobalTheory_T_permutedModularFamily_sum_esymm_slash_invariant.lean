@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_permutedModularFamily_sum_esymm_slash_invariant
 -- name    : GlobalTheory.T.permutedModularFamily_sum_esymm_slash_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:35:11.31022+00:00
 -- url     : https://prove2.me/theorems/3bf9e71d-c3eb-4c7e-8348-9be07036acae

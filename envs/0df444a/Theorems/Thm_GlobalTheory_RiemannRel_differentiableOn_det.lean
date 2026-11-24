@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannRel_differentiableOn_det
 -- name    : GlobalTheory.RiemannRel.differentiableOn_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:21.355914+00:00
 -- url     : https://prove2.me/theorems/2c61b024-8f7c-48b8-8eab-51842ab27457

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnif_letter_column_dictionary
 -- name    : GlobalTheory.FrameUnif.letter_column_dictionary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:36:20.622199+00:00
 -- url     : https://prove2.me/theorems/cbaa04d2-6d0b-4662-8b3e-3f1bca27dd53

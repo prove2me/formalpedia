@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_VolN_inR_of_mem
 -- name    : GlobalTheory.RootEx.VolN.inR_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:25.837794+00:00
 -- url     : https://prove2.me/theorems/5c14550c-40ae-4191-b421-2f7fba41519a

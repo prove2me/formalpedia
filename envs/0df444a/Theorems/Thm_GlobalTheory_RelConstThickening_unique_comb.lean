@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelConstThickening_unique_comb
 -- name    : GlobalTheory.RelConstThickening.unique_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:23:17.18823+00:00
 -- url     : https://prove2.me/theorems/57f27731-75b7-4ea8-85f0-6fcac68b8816

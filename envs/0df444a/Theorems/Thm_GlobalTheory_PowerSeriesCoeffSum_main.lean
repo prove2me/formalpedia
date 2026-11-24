@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesCoeffSum_main
 -- name    : GlobalTheory.PowerSeriesCoeffSum.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:52:29.116804+00:00
 -- url     : https://prove2.me/theorems/9076a76c-16c5-4a7a-a85f-cb8398e9d890

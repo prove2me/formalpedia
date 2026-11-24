@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_isIntegral_of_basicOpen
 -- name    : GlobalTheory.PrimeSection.isIntegral_of_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:43:28.128752+00:00
 -- url     : https://prove2.me/theorems/cd270e75-b8bc-46f0-8200-e43ccc1756b4

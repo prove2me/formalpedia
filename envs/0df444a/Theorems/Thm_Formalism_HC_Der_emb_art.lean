@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_emb_art
 -- name    : Formalism.HC.Der.emb_art
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:53:49.263849+00:00
 -- url     : https://prove2.me/theorems/30a15704-71e7-4264-81ac-e12bf384032a

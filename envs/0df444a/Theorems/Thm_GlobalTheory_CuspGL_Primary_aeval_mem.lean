@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_Primary_aeval_mem
 -- name    : GlobalTheory.CuspGL.Primary.aeval_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:32:57.015627+00:00
 -- url     : https://prove2.me/theorems/95e7b8f4-cf86-47b0-8b7a-4b1bb3fdf4f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueDegreeChart_residueDegree_eq_inertiaDeg
 -- name    : GlobalTheory.ResidueDegreeChart.residueDegree_eq_inertiaDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:21:05.066828+00:00
 -- url     : https://prove2.me/theorems/a8d648f1-641c-4a84-a86d-12878544b0ac

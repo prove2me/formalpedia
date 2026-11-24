@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocRep_rep_sum
 -- name    : GlobalTheory.LocRep.rep_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:08:57.039284+00:00
 -- url     : https://prove2.me/theorems/c15decc7-c420-41d4-8647-68e8a5b3e955

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_long_weyl_element_sq_one
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.long_weyl_element_sq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:19:07.926628+00:00
 -- url     : https://prove2.me/theorems/8d8cf375-6ce8-4052-b594-591b1d875b21

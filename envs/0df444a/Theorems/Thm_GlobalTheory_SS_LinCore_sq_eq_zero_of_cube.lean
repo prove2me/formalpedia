@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LinCore_sq_eq_zero_of_cube
 -- name    : GlobalTheory.SS.LinCore.sq_eq_zero_of_cube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:35:42.1887+00:00
 -- url     : https://prove2.me/theorems/c1a57eef-3514-4bd4-adc9-c31632bbf00b

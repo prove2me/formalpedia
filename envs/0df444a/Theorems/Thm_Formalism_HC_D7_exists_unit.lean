@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_exists_unit
 -- name    : Formalism.HC.D7.exists_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:41:34.691051+00:00
 -- url     : https://prove2.me/theorems/4b58e005-bc80-457d-afdc-ce4e2cedd1d3

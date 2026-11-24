@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_isFam_algebra
 -- name    : GlobalTheory.QFam.isFam_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:12:13.713544+00:00
 -- url     : https://prove2.me/theorems/4c16063a-3a64-449b-bc51-a568fb2df9a8

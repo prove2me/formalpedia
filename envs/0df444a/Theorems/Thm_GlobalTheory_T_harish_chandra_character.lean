@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_harish_chandra_character
 -- name    : GlobalTheory.T.harish_chandra_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:16:42.711693+00:00
 -- url     : https://prove2.me/theorems/ce67d827-4735-4f38-9d2a-965f1b8c93d2

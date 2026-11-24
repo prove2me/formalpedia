@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Extends_comp_eq
 -- name    : GlobalTheory.SS.Extends.comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:33:31.73722+00:00
 -- url     : https://prove2.me/theorems/27099d96-e58a-4c5f-8fb9-c3f8aefe6e3d

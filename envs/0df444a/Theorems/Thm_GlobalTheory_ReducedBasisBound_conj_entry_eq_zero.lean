@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ReducedBasisBound_conj_entry_eq_zero
 -- name    : GlobalTheory.ReducedBasisBound.conj_entry_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:18:32.839248+00:00
 -- url     : https://prove2.me/theorems/86beab1d-50c7-418c-8f1e-cf3ef6693f32

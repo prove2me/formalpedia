@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LawDef_ext_test
 -- name    : GlobalTheory.SS.LawDef.ext_test
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:03:19.64389+00:00
 -- url     : https://prove2.me/theorems/dc96549d-ff44-43cb-a9c3-0b127439c380

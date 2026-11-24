@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelConstThickening_res_res
 -- name    : GlobalTheory.RelConstThickening.res_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:21:50.099156+00:00
 -- url     : https://prove2.me/theorems/5f792850-dd17-4b70-ba87-cfc7c4817c1a

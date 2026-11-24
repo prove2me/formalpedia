@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_VolN_mkNel_mul
 -- name    : GlobalTheory.RootEx.VolN.mkNel_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:24.979796+00:00
 -- url     : https://prove2.me/theorems/3f9f4c1f-1ba0-44f7-a355-91687e455263

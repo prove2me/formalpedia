@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_eq_ker_or
 -- name    : GlobalTheory.QuadraticZeta.eq_ker_or
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:12:06.4468+00:00
 -- url     : https://prove2.me/theorems/d11959e2-0461-45aa-a6b2-1666bbe29208

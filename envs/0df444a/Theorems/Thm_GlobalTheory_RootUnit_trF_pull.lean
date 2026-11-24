@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootUnit_trF_pull
 -- name    : GlobalTheory.RootUnit.trF_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:31:06.722812+00:00
 -- url     : https://prove2.me/theorems/8ea9ae86-8314-42bc-8b88-f91dd8771f7a

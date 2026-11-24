@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Vacuum_fderiv_norm_J
 -- name    : GlobalTheory.RealWeil.Vacuum.fderiv_norm_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:16:40.399858+00:00
 -- url     : https://prove2.me/theorems/d7107eab-3ce9-4f2f-a3f3-eeb0ebe31e06

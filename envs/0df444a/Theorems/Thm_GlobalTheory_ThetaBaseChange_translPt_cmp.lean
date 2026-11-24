@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBaseChange_translPt_cmp
 -- name    : GlobalTheory.ThetaBaseChange.translPt_cmp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:59:21.298193+00:00
 -- url     : https://prove2.me/theorems/bc0ad738-1546-4f29-a25e-9ce61fd5eead

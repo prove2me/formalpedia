@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidTriv_exists_locGen
 -- name    : GlobalTheory.RigidTriv.exists_locGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:11.023544+00:00
 -- url     : https://prove2.me/theorems/edcd6f13-c949-4b7e-bd36-089d46618b3a

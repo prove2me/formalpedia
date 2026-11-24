@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_FsLaw_map_cosSq_fs
 -- name    : GlobalTheory.LineCos.FsLaw.map_cosSq_fs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:07:26.354797+00:00
 -- url     : https://prove2.me/theorems/cdd2141d-85b1-4c92-b14b-0af70b0df55e

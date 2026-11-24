@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_sep
 -- name    : GlobalTheory.NormEq.sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:35:08.937798+00:00
 -- url     : https://prove2.me/theorems/e1cf8a73-b18f-4ca4-bdd1-e859b14f798a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_adj_smul
 -- name    : GlobalTheory.RegSS.adj_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:15.886525+00:00
 -- url     : https://prove2.me/theorems/4f83c1e7-8dfc-4a16-814d-4ff7baf8c754

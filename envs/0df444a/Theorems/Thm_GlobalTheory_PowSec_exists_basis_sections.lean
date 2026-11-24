@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSec_exists_basis_sections
 -- name    : GlobalTheory.PowSec.exists_basis_sections
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:33.682891+00:00
 -- url     : https://prove2.me/theorems/4a61fb74-80e3-43ae-9620-b0b3d42191be

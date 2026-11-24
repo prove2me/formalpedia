@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBProd_exists_compact_clopen_nhd
 -- name    : GlobalTheory.SBProd.exists_compact_clopen_nhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:32:20.848543+00:00
 -- url     : https://prove2.me/theorems/9479875b-056f-4a18-9c42-c10bd9a0667d

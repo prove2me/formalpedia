@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_RowSupport_exists_box
 -- name    : GlobalTheory.RootEx.RowSupport.exists_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:15.487284+00:00
 -- url     : https://prove2.me/theorems/d8a79b4a-458e-499e-8e7d-d7a162afed8b

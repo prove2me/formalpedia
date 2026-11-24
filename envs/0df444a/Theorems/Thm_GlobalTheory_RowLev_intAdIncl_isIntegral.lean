@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_intAdIncl_isIntegral
 -- name    : GlobalTheory.RowLev.intAdIncl_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:33:11.844474+00:00
 -- url     : https://prove2.me/theorems/3578df7d-751f-407d-be3f-2e0df6d21900

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_reg_single
 -- name    : GlobalTheory.RootEx.Model.reg_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:25:40.963634+00:00
 -- url     : https://prove2.me/theorems/13248ece-86d2-4586-82d4-45826fc11b01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_normal_of_inv_mul
 -- name    : GlobalTheory.PMonE.normal_of_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:40:28.522424+00:00
 -- url     : https://prove2.me/theorems/46018131-caf2-4a62-9ad4-d2a3317e030d

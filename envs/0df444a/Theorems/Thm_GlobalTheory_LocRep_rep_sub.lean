@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocRep_rep_sub
 -- name    : GlobalTheory.LocRep.rep_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:09:08.617674+00:00
 -- url     : https://prove2.me/theorems/9b591e81-5d99-4c13-8ffc-6d6356e3a9dd

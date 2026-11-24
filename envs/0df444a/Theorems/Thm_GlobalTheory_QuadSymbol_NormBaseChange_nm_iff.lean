@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormBaseChange_nm_iff
 -- name    : GlobalTheory.QuadSymbol.NormBaseChange.nm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:40:07.025671+00:00
 -- url     : https://prove2.me/theorems/214d32dd-6e5d-45ee-b248-cbbc25363e9c

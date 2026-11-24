@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_relIndex_sqs_le_two_mul
 -- name    : GlobalTheory.QNorm.relIndex_sqs_le_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:02:02.880657+00:00
 -- url     : https://prove2.me/theorems/e23ed9d5-c751-4f96-83b3-0575fc8ca3af

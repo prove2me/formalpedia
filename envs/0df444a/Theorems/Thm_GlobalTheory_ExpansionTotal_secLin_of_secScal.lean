@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpansionTotal_secLin_of_secScal
 -- name    : GlobalTheory.ExpansionTotal.secLin_of_secScal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:03:20.176256+00:00
 -- url     : https://prove2.me/theorems/980d3e67-8306-4181-a093-3ba7e097dac6

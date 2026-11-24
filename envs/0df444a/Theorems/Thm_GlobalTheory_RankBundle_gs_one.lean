@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankBundle_gs_one
 -- name    : GlobalTheory.RankBundle.gs_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:13:58.58982+00:00
 -- url     : https://prove2.me/theorems/c9ff3e76-69eb-4dbe-afc3-75522ef7719e

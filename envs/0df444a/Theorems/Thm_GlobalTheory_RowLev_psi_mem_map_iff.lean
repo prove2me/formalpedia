@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_psi_mem_map_iff
 -- name    : GlobalTheory.RowLev.psi_mem_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:32:54.609685+00:00
 -- url     : https://prove2.me/theorems/71c43c3d-dd63-4cef-b566-548aef9bfbfa

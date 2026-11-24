@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Published_SvN_eventually_psi__9e5e2c7b09ad
 -- name    : P2M_GlobalTheory_Published_SvN_eventually_psi__9e5e2c7b09ad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:21:28.871747+00:00
 -- url     : https://prove2.me/theorems/72f76182-dbf4-4c39-94ef-75fe377ed502

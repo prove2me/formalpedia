@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Unram_exists_embX_mul
 -- name    : GlobalTheory.RootEx.Unram.exists_embX_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:30:06.939078+00:00
 -- url     : https://prove2.me/theorems/5cea6b75-5ffd-4b43-a809-6641ba3d14c6

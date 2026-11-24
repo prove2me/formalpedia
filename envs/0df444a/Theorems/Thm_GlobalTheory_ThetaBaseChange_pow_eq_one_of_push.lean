@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBaseChange_pow_eq_one_of_push
 -- name    : GlobalTheory.ThetaBaseChange.pow_eq_one_of_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:59:54.304147+00:00
 -- url     : https://prove2.me/theorems/2348b0e7-1407-4b6c-a5ad-95f57e72519a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_exists_colMat
 -- name    : GlobalTheory.PeriodCoord.exists_colMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:44:17.877059+00:00
 -- url     : https://prove2.me/theorems/62980a55-0731-4659-af57-5a76aeb5e5a1

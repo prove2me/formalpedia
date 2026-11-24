@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_exists_algHom_retract
 -- name    : GlobalTheory.Retract.exists_algHom_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:21:11.399583+00:00
 -- url     : https://prove2.me/theorems/f5a25204-7e58-41d9-9052-8b433fec1930

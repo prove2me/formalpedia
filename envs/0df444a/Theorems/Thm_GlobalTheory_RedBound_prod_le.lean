@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RedBound_prod_le
 -- name    : GlobalTheory.RedBound.prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:18:39.498139+00:00
 -- url     : https://prove2.me/theorems/b095e164-e167-4b1f-9e19-e879752ed0c8

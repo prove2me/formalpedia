@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootUnit_exists_unit_of_stalks
 -- name    : GlobalTheory.RootUnit.exists_unit_of_stalks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:31:16.602798+00:00
 -- url     : https://prove2.me/theorems/42231790-9adc-4a91-8418-86db604408a6

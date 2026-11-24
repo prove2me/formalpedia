@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_psi_lev
 -- name    : Formalism.FourierDecayAlt.P.Qx4.psi_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:43:17.035854+00:00
 -- url     : https://prove2.me/theorems/78a9cf9f-745f-4505-b239-1c5cef59e750

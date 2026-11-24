@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_integral_glue
 -- name    : GlobalTheory.RootEx.Exchange.integral_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:24:14.94853+00:00
 -- url     : https://prove2.me/theorems/6e6aae21-3acc-4a6b-851f-1bdba0803094

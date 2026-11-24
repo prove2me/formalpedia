@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_decay_gau_smul
 -- name    : GlobalTheory.RealWeil.decay_gau_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:16:25.939614+00:00
 -- url     : https://prove2.me/theorems/5aae66b6-681d-4f82-a8e2-3a203d985edb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RestrictScalarsSpan_mul_mem_span
 -- name    : GlobalTheory.RestrictScalarsSpan.mul_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:21:11.002973+00:00
 -- url     : https://prove2.me/theorems/c0ccf62b-aa25-4f34-9a61-4c4e9311d35b

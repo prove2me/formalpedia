@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_TwoVarSetup_diag_subst
 -- name    : GlobalTheory.SS.ArcInf.TwoVarSetup.diag_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:34:19.4278+00:00
 -- url     : https://prove2.me/theorems/1945915b-2837-4f8d-a755-6ba363310f81

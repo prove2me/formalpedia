@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegKer_finrank_away
 -- name    : GlobalTheory.DegKer.finrank_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:03:20.731503+00:00
 -- url     : https://prove2.me/theorems/4682d535-946f-4263-9a7f-ef8b8ca54d8d

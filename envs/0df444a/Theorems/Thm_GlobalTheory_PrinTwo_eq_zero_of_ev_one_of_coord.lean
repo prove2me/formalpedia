@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_eq_zero_of_ev_one_of_coord
 -- name    : GlobalTheory.PrinTwo.eq_zero_of_ev_one_of_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:55:29.969846+00:00
 -- url     : https://prove2.me/theorems/6992655b-702d-426a-86c0-d825df1f951b

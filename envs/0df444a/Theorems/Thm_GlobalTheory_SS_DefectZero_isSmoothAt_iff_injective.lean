@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_DefectZero_isSmoothAt_iff_injective
 -- name    : GlobalTheory.SS.DefectZero.isSmoothAt_iff_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:34:28.460879+00:00
 -- url     : https://prove2.me/theorems/e1a12dda-888f-4ce7-ac4c-959c4173dbbe

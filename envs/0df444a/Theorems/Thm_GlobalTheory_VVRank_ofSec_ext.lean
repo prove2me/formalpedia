@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_ofSec_ext
 -- name    : GlobalTheory.VVRank.ofSec_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:58:58.353499+00:00
 -- url     : https://prove2.me/theorems/4835cc7d-6ba0-4ba0-9cb4-76978978a165

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_extId_eq_map_psi
 -- name    : GlobalTheory.RowLev.extId_eq_map_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:32:54.973503+00:00
 -- url     : https://prove2.me/theorems/cec3f1d9-97bb-43f0-be74-c014b0f5fe97

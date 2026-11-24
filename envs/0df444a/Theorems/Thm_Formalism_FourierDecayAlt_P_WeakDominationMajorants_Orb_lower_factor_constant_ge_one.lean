@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Orb_lower_factor_constant_ge_one
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.lower_factor_constant_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:05:37.292892+00:00
 -- url     : https://prove2.me/theorems/318860ac-8921-4168-a118-928a62d83a90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isLocalizing_restrict_fromSpec_iff
 -- name    : GlobalTheory.QCoh.isLocalizing_restrict_fromSpec_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:58:18.769818+00:00
 -- url     : https://prove2.me/theorems/dfa6f48b-c775-4438-9157-d5fe29fe1ff7

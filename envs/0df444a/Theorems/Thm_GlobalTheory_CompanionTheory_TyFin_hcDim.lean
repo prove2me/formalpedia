@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_hcDim
 -- name    : GlobalTheory.CompanionTheory.TyFin.hcDim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:35:10.771957+00:00
 -- url     : https://prove2.me/theorems/2261c623-60f3-4310-9e7c-071717cebd96

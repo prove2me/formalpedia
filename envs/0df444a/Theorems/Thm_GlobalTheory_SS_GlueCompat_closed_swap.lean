@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GlueCompat_closed_swap
 -- name    : GlobalTheory.SS.GlueCompat.closed_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:35:10.233241+00:00
 -- url     : https://prove2.me/theorems/cd4f8dd8-e9db-465a-b26b-83627ff0a828

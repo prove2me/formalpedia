@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_omB_shearGL
 -- name    : GlobalTheory.RankChart.omB_shearGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:43.639241+00:00
 -- url     : https://prove2.me/theorems/44a44fc0-f655-454d-82f6-4233f403e66e

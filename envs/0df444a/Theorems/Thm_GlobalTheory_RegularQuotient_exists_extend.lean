@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularQuotient_exists_extend
 -- name    : GlobalTheory.RegularQuotient.exists_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:56.76829+00:00
 -- url     : https://prove2.me/theorems/3dea2b56-fb2c-46b8-9ba1-f54395634113

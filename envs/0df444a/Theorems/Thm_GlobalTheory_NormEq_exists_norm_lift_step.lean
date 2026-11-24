@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_exists_norm_lift_step
 -- name    : GlobalTheory.NormEq.exists_norm_lift_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:35:42.42402+00:00
 -- url     : https://prove2.me/theorems/24b64a5d-dfeb-47d6-97e6-12c4a596de01

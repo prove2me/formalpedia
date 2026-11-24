@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContinuousQuotient_exists_point_of_prime
 -- name    : GlobalTheory.ContinuousQuotient.exists_point_of_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:58:56.029704+00:00
 -- url     : https://prove2.me/theorems/956cf9af-d419-4d37-9564-b0ff64f47508

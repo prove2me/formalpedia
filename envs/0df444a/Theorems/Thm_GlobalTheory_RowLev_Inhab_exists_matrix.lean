@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Inhab_exists_matrix
 -- name    : GlobalTheory.RowLev.Inhab.exists_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:31:34.039798+00:00
 -- url     : https://prove2.me/theorems/7a3da44a-72d2-4822-ba63-4f489c1c9da1

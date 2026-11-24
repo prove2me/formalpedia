@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_continuous_heis0
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.continuous_heis0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:06:53.625947+00:00
 -- url     : https://prove2.me/theorems/760fe522-f79f-4d0e-b2b6-d8e53f7b6865

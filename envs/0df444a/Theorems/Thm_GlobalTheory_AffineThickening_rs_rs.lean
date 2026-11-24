@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_rs_rs
 -- name    : GlobalTheory.AffineThickening.rs_rs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:58:16.205702+00:00
 -- url     : https://prove2.me/theorems/f68d1b8b-c1bc-4888-92a6-f9fb0f6d34d7

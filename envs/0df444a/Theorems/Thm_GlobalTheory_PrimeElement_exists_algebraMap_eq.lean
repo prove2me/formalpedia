@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeElement_exists_algebraMap_eq
 -- name    : GlobalTheory.PrimeElement.exists_algebraMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:39:04.991538+00:00
 -- url     : https://prove2.me/theorems/84ce95eb-4fdd-46cf-a079-f9296701f858

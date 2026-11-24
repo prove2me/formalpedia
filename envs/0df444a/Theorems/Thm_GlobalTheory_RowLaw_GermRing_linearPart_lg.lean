@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_linearPart_lg
 -- name    : GlobalTheory.RowLaw.GermRing.linearPart_lg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:30:38.880342+00:00
 -- url     : https://prove2.me/theorems/b1704ee7-fdbb-4d4d-9746-4411416e3cea

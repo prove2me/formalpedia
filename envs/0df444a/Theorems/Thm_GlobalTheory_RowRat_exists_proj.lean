@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowRat_exists_proj
 -- name    : GlobalTheory.RowRat.exists_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:34:02.376751+00:00
 -- url     : https://prove2.me/theorems/139925ad-12bf-4ec5-9e7b-ebd10eee19e8

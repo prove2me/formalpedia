@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Good_integrable_fourier
 -- name    : GlobalTheory.RealWeil.Good.integrable_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:46:23.701213+00:00
 -- url     : https://prove2.me/theorems/0b697cb1-2dcf-4f2d-861b-99dac6e1139a

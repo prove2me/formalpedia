@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_exists_geomPoint
 -- name    : GlobalTheory.VVRank.exists_geomPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:58:39.907906+00:00
 -- url     : https://prove2.me/theorems/117ed07f-fde2-4070-9ede-5858b3ce8090

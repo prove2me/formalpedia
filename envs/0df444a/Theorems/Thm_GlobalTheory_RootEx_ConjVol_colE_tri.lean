@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ConjVol_colE_tri
 -- name    : GlobalTheory.RootEx.ConjVol.colE_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:23:59.307638+00:00
 -- url     : https://prove2.me/theorems/62fd2097-5667-45fd-a2e9-845b5c46f7f3

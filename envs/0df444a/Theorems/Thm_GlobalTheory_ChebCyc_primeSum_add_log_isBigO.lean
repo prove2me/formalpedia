@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChebCyc_primeSum_add_log_isBigO
 -- name    : GlobalTheory.ChebCyc.primeSum_add_log_isBigO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:11:36.246988+00:00
 -- url     : https://prove2.me/theorems/fc0fa385-cd01-4d52-889f-bae6cba56222

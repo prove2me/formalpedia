@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealAlgebraCharacters_chi_neg
 -- name    : GlobalTheory.RealAlgebraCharacters.chi_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:15:32.983099+00:00
 -- url     : https://prove2.me/theorems/5f433bcd-4b8d-4088-99c3-94c239f6582c

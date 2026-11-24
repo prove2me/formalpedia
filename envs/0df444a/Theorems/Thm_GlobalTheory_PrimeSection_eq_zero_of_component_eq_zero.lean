@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_eq_zero_of_component_eq_zero
 -- name    : GlobalTheory.PrimeSection.eq_zero_of_component_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:29:02.677303+00:00
 -- url     : https://prove2.me/theorems/b803d456-a40f-4e13-b4cc-11cbe14f5f43

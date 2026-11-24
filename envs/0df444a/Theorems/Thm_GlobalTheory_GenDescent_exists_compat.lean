@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenDescent_exists_compat
 -- name    : GlobalTheory.GenDescent.exists_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:56:49.97216+00:00
 -- url     : https://prove2.me/theorems/b872292b-059c-4908-992b-febc1bbb414a

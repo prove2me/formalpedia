@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_det_lowU
 -- name    : GlobalTheory.RootEx.Exchange.det_lowU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:23:41.84908+00:00
 -- url     : https://prove2.me/theorems/f5e73a82-3f46-4ea4-a099-593f29eb07ed

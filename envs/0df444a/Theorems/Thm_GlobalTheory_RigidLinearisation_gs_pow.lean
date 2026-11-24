@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidLinearisation_gs_pow
 -- name    : GlobalTheory.RigidLinearisation.gs_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:32.542706+00:00
 -- url     : https://prove2.me/theorems/eeb5909e-7fa1-4af9-a552-457fb978bfcf

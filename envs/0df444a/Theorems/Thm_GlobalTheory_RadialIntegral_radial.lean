@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RadialIntegral_radial
 -- name    : GlobalTheory.RadialIntegral.radial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:14:00.97102+00:00
 -- url     : https://prove2.me/theorems/04a29f84-c404-4681-a39b-b21564657d70

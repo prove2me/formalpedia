@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_below_ne
 -- name    : Formalism.HC.Der.kc_below_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:26:45.910381+00:00
 -- url     : https://prove2.me/theorems/840e0d67-1776-4a75-a03d-588bbcefaac7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ParabolicEntries_R_le
 -- name    : GlobalTheory.RootEx.ParabolicEntries.R_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:25:35.428685+00:00
 -- url     : https://prove2.me/theorems/98ec63d2-41e3-4b2e-a17f-8c725de324dd

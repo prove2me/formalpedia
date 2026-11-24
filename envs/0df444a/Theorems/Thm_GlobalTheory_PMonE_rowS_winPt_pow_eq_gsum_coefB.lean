@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_rowS_winPt_pow_eq_gsum_coefB
 -- name    : GlobalTheory.PMonE.rowS_winPt_pow_eq_gsum_coefB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:40:09.914448+00:00
 -- url     : https://prove2.me/theorems/96a1ebd7-ece2-4827-a657-0f49d5fe4159

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_RowStable_inf
 -- name    : GlobalTheory.RowSpan.RowStable.inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:33:31.216033+00:00
 -- url     : https://prove2.me/theorems/450c155b-4af8-469f-9eef-f99cbb70d0bf

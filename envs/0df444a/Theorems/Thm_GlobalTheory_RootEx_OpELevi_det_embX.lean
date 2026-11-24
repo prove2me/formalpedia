@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_OpELevi_det_embX
 -- name    : GlobalTheory.RootEx.OpELevi.det_embX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:51.723481+00:00
 -- url     : https://prove2.me/theorems/fd28ba66-8935-4f01-b9c0-3bab3aafe506

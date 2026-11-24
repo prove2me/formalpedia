@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_chainIntOn_nonneg
 -- name    : GlobalTheory.FourierChainCompare.chainIntOn_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:54:35.571125+00:00
 -- url     : https://prove2.me/theorems/c4c3faa6-f85e-497d-977b-9b11407e3f90

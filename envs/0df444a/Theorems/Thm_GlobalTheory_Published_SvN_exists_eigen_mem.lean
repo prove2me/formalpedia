@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_exists_eigen_mem
 -- name    : GlobalTheory.Published.SvN.exists_eigen_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:20:48.931802+00:00
 -- url     : https://prove2.me/theorems/5f34f2c0-324b-4029-9b04-03561661f360

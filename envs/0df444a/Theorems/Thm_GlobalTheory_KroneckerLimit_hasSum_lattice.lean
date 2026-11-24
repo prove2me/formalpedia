@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_hasSum_lattice
 -- name    : GlobalTheory.KroneckerLimit.hasSum_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:50:56.669998+00:00
 -- url     : https://prove2.me/theorems/a5dc1912-1872-4c03-ad57-c1462227c41b

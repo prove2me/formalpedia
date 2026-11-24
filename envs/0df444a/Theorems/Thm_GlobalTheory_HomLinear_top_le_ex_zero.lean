@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomLinear_top_le_ex_zero
 -- name    : GlobalTheory.HomLinear.top_le_ex_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:56:35.67847+00:00
 -- url     : https://prove2.me/theorems/0b788a0e-055c-4073-9590-97ac9c08dc1e

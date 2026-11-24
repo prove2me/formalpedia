@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Principalise_isIso_of_isIso_comp_of_dense_range
 -- name    : GlobalTheory.CompanionTheory.Principalise.isIso_of_isIso_comp_of_dense_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:58:54.711348+00:00
 -- url     : https://prove2.me/theorems/0346db06-3b0e-4a29-9b7c-e98281ddf283

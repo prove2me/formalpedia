@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_appTop_cst
 -- name    : GlobalTheory.DvrModel.appTop_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:57:16.836287+00:00
 -- url     : https://prove2.me/theorems/a59336f0-b679-43ec-adc7-576d01be396c

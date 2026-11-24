@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_valuation_unramified_of_unit
 -- name    : GlobalTheory.QNorm.valuation_unramified_of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:03:32.400883+00:00
 -- url     : https://prove2.me/theorems/3bb1a17e-e95a-4e75-ba2e-11da2001cf8a

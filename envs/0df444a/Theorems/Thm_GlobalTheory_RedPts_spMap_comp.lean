@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RedPts_spMap_comp
 -- name    : GlobalTheory.RedPts.spMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:19:39.437622+00:00
 -- url     : https://prove2.me/theorems/c5c6e696-c6ce-47c1-ad7f-15392e306ab7

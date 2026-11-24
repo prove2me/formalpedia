@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_evenNorms_of_odd_place
 -- name    : GlobalTheory.QNorm.evenNorms_of_odd_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:02:31.763424+00:00
 -- url     : https://prove2.me/theorems/8171ac19-4f6c-4faf-a484-67d756add294

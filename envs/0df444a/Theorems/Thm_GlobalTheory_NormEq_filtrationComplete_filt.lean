@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_filtrationComplete_filt
 -- name    : GlobalTheory.NormEq.filtrationComplete_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:34:59.727421+00:00
 -- url     : https://prove2.me/theorems/785e2283-122b-4a7f-9e23-a576dd2fdebb

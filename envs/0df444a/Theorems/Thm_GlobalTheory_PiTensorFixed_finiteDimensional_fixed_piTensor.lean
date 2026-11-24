@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PiTensorFixed_finiteDimensional_fixed_piTensor
 -- name    : GlobalTheory.PiTensorFixed.finiteDimensional_fixed_piTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:51:53.109332+00:00
 -- url     : https://prove2.me/theorems/88aa91a1-d244-4893-a8f0-13d130ea8ba9

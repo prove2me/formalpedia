@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_algOverHom_injective
 -- name    : GlobalTheory.SS.ArcInf.algOverHom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:34:30.143453+00:00
 -- url     : https://prove2.me/theorems/1291f828-01dc-4407-883f-5d1d2fde5767

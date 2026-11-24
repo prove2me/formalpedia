@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_finrank_forms
 -- name    : GlobalTheory.RegBound.finrank_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:20:10.153291+00:00
 -- url     : https://prove2.me/theorems/87110a9d-3e5f-43c5-b8e8-9af650c18ddb

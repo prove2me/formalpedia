@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_exists_presents
 -- name    : GlobalTheory.PeriodCompare.exists_presents
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:10.59681+00:00
 -- url     : https://prove2.me/theorems/f751437b-3c76-4148-90e6-53aa124331f1

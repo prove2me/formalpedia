@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_exists_unit_valued_ternary_lt_one
 -- name    : GlobalTheory.LocalQuad.exists_unit_valued_ternary_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:07:27.807563+00:00
 -- url     : https://prove2.me/theorems/4961032d-4312-4d54-9f8e-77e5fa37aa99

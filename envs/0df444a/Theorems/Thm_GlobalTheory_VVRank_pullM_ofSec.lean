@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_pullM_ofSec
 -- name    : GlobalTheory.VVRank.pullM_ofSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:58:23.677539+00:00
 -- url     : https://prove2.me/theorems/3af7d222-4910-4767-86b0-0b716e6c6550

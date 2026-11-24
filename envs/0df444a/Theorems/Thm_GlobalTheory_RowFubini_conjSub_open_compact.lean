@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowFubini_conjSub_open_compact
 -- name    : GlobalTheory.RowFubini.conjSub_open_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:30.198884+00:00
 -- url     : https://prove2.me/theorems/b540f3b6-e31a-4aec-8b5e-312a2cd1e36f

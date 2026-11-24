@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularElementQuotient_maximalIdeal_smul_top_lt_top
 -- name    : GlobalTheory.RegularElementQuotient.maximalIdeal_smul_top_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:43.057003+00:00
 -- url     : https://prove2.me/theorems/10ff1bf3-167e-4858-aab4-9fdb9d48621d

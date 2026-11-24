@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_spanEq
 -- name    : GlobalTheory.CompanionTheory.InertSpan.spanEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:03:39.397261+00:00
 -- url     : https://prove2.me/theorems/2cc4060c-1901-4d23-a686-cfa3a2221a40

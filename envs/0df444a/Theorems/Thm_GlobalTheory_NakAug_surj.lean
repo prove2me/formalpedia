@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NakAug_surj
 -- name    : GlobalTheory.NakAug.surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:30:30.522448+00:00
 -- url     : https://prove2.me/theorems/a096ed44-eb65-40fb-a7cc-8d6dc1f7afbd

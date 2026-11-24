@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueFn_le_of_forall_point
 -- name    : GlobalTheory.GlueFn.le_of_forall_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:55:45.477768+00:00
 -- url     : https://prove2.me/theorems/6258b312-8f4a-4395-a93a-3615b7e2005b

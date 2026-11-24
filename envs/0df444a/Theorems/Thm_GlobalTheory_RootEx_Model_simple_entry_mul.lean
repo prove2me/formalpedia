@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_simple_entry_mul
 -- name    : GlobalTheory.RootEx.Model.simple_entry_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:16.894273+00:00
 -- url     : https://prove2.me/theorems/e1bf6cc0-db74-4645-a28d-1fb64e989b82

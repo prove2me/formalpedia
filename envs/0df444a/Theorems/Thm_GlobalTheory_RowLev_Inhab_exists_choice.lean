@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Inhab_exists_choice
 -- name    : GlobalTheory.RowLev.Inhab.exists_choice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:30:48.302993+00:00
 -- url     : https://prove2.me/theorems/c1cc812a-dbb0-4af0-aed6-e20de0663ce4

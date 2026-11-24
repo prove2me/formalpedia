@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_list_map_sum_apply
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.list_map_sum_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:03:18.781613+00:00
 -- url     : https://prove2.me/theorems/86a82e07-eab0-4516-9469-2c8793e8d0f6

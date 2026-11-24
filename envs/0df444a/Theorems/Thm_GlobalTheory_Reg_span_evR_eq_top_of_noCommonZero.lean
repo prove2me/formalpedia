@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_span_evR_eq_top_of_noCommonZero
 -- name    : GlobalTheory.Reg.span_evR_eq_top_of_noCommonZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:23:09.650008+00:00
 -- url     : https://prove2.me/theorems/44cf452f-7b18-4f80-9ecc-3ef07313591b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_CellChange_upper_mul_diag
 -- name    : GlobalTheory.Reg.CellChange.upper_mul_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:28.777936+00:00
 -- url     : https://prove2.me/theorems/4223f943-45f4-4d9d-922e-2a21e6f55646

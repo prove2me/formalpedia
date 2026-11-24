@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_herm_swap
 -- name    : GlobalTheory.CuspCentre.herm_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:36:42.754414+00:00
 -- url     : https://prove2.me/theorems/45c7a34f-df40-46fe-b4c9-2c76e8104d4d

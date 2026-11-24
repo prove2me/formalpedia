@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_AuxiliaryInertOddPrime_coprime_level
 -- name    : GlobalTheory.Models.AuxiliaryInertOddPrime.coprime_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:27:42.014656+00:00
 -- url     : https://prove2.me/theorems/a49f7cb0-0684-44df-aefe-44b4843b482e

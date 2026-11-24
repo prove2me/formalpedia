@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rank_one_coordinates_formula
 -- name    : Formalism.FourierDecayAlt.P.rank_one_coordinates_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:23:42.693888+00:00
 -- url     : https://prove2.me/theorems/2b79c117-e240-4f72-b421-1b22cd71d300

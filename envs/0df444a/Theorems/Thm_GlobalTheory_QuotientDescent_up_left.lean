@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientDescent_up_left
 -- name    : GlobalTheory.QuotientDescent.up_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:55:40.624239+00:00
 -- url     : https://prove2.me/theorems/4ee8ccf7-4478-45fc-bc94-a4b1b8ac857b

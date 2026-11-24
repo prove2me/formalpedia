@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_limit_triv
 -- name    : GlobalTheory.Reg.Transfer.limit_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:18:50.711128+00:00
 -- url     : https://prove2.me/theorems/542fc8ee-a14f-45b4-bde6-049a9ed92a67

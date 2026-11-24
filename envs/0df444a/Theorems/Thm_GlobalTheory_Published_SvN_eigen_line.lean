@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_eigen_line
 -- name    : GlobalTheory.Published.SvN.eigen_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:58:20.98819+00:00
 -- url     : https://prove2.me/theorems/faecdd80-6c8f-4103-86e0-12db78073144

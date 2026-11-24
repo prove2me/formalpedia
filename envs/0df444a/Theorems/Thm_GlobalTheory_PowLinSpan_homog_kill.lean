@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowLinSpan_homog_kill
 -- name    : GlobalTheory.PowLinSpan.homog_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:52:18.951801+00:00
 -- url     : https://prove2.me/theorems/f9ccc913-a968-49fc-9d14-9ca44e3a8fcd

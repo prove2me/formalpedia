@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_smul_sum_smulRight
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.smul_sum_smulRight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:08:30.541955+00:00
 -- url     : https://prove2.me/theorems/f8a1a374-0057-4e63-ac02-ab29089afb95

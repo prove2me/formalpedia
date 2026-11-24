@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_mooreNorm
 -- name    : GlobalTheory.PMonE.mooreNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:37.206613+00:00
 -- url     : https://prove2.me/theorems/be50dfc2-5a62-40c1-83f7-1ff3491f0330

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasQExpansionOfLevel_linear_operations
 -- name    : GlobalTheory.T.hasQExpansionOfLevel_linear_operations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:12:23.501569+00:00
 -- url     : https://prove2.me/theorems/065fff12-e5d8-4aa1-8d7a-dee24301e9eb

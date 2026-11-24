@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_traceOpen_prod
 -- name    : GlobalTheory.QSA.traceOpen_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:03:09.324179+00:00
 -- url     : https://prove2.me/theorems/6579446d-67da-4ef2-83a1-f0562ecb0d70

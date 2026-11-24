@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_TargetUnip_ch_mul_affPt
 -- name    : GlobalTheory.RootEx.TargetUnip.ch_mul_affPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:29:45.318589+00:00
 -- url     : https://prove2.me/theorems/fcdf6304-149a-466a-ac03-0309e9604ba2

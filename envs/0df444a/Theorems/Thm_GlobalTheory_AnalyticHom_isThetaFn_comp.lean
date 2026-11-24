@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_isThetaFn_comp
 -- name    : GlobalTheory.AnalyticHom.isThetaFn_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:56:30.727808+00:00
 -- url     : https://prove2.me/theorems/4db5076d-6cb7-45ca-ac56-4d1a1741664b

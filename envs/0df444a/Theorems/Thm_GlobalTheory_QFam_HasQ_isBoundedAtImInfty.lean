@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_HasQ_isBoundedAtImInfty
 -- name    : GlobalTheory.QFam.HasQ.isBoundedAtImInfty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:58:32.455077+00:00
 -- url     : https://prove2.me/theorems/8f4c1db1-b65c-4d63-a5b8-23ca2ff7ec3a

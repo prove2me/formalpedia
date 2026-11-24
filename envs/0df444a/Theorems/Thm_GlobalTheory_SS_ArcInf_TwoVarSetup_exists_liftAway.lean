@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_TwoVarSetup_exists_liftAway
 -- name    : GlobalTheory.SS.ArcInf.TwoVarSetup.exists_liftAway
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:34:07.136356+00:00
 -- url     : https://prove2.me/theorems/9c13bbbc-8c83-460f-802f-38adfbeec3b9
