@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_UnramFlat_integral_psi_O
 -- name    : GlobalTheory.LocFlat.UnramFlat.integral_psi_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:27:39.321638+00:00
 -- url     : https://prove2.me/theorems/dedd58dc-d0be-435d-b976-2574e49c696c

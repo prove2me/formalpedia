@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifCompare_isDiff_iff
 -- name    : GlobalTheory.UnifCompare.isDiff_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:29:42.938941+00:00
 -- url     : https://prove2.me/theorems/6e651332-6b41-4c11-9f37-36b26b89b9f6

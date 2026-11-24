@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_G2_add_weierstrassP_row_sum
 -- name    : GlobalTheory.T.G2_add_weierstrassP_row_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:25:46.730029+00:00
 -- url     : https://prove2.me/theorems/67d51d35-0dba-411c-bf69-33320a6d94b3

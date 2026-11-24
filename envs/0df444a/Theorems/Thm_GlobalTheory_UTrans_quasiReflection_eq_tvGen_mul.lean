@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_quasiReflection_eq_tvGen_mul
 -- name    : GlobalTheory.UTrans.quasiReflection_eq_tvGen_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:25:07.458506+00:00
 -- url     : https://prove2.me/theorems/c217f811-bd84-4bf8-ab0f-7591072dbe80

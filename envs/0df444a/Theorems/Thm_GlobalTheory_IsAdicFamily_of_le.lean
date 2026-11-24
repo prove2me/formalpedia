@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAdicFamily_of_le
 -- name    : GlobalTheory.IsAdicFamily.of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:21:21.953207+00:00
 -- url     : https://prove2.me/theorems/f3754e73-3760-4643-9dc1-e34b4aebffec

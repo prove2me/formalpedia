@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_aeval_C_mul_X
 -- name    : GlobalTheory.coeff_aeval_C_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:09:19.936669+00:00
 -- url     : https://prove2.me/theorems/6e5d2616-a608-4488-a913-0e8a7d2f3536

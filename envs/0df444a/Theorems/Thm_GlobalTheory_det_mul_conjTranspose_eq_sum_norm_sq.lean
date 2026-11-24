@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_mul_conjTranspose_eq_sum_norm_sq
 -- name    : GlobalTheory.det_mul_conjTranspose_eq_sum_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:15:59.593826+00:00
 -- url     : https://prove2.me/theorems/891dde0d-edeb-4635-a93f-c172404a0e01

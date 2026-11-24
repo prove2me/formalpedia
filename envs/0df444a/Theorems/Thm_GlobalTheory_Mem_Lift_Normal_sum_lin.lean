@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_Normal_sum_lin
 -- name    : GlobalTheory.Mem.Lift.Normal.sum_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:33.249582+00:00
 -- url     : https://prove2.me/theorems/0a3f9d84-ac4a-4873-9334-c660d0e1ab05

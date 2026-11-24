@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_compatible_higherForms_extend_along_functor
 -- name    : GlobalTheory.T.compatible_higherForms_extend_along_functor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:13:28.753723+00:00
 -- url     : https://prove2.me/theorems/0220ec8e-26bd-4539-96a6-c555e7038690

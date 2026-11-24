@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_Normal_quad_normal
 -- name    : GlobalTheory.Mem.Lift.Normal.quad_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:42.291959+00:00
 -- url     : https://prove2.me/theorems/1131a50a-23a4-4d91-9ac2-e9f007873d21

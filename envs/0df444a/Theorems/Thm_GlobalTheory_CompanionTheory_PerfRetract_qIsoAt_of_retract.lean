@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfRetract_qIsoAt_of_retract
 -- name    : GlobalTheory.CompanionTheory.PerfRetract.qIsoAt_of_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:26:50.371097+00:00
 -- url     : https://prove2.me/theorems/e1d9ab28-e754-475c-8c28-a8d3b6cd0a51

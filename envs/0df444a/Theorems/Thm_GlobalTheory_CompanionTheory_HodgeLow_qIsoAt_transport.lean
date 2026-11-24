@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeLow_qIsoAt_transport
 -- name    : GlobalTheory.CompanionTheory.HodgeLow.qIsoAt_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:23:57.988804+00:00
 -- url     : https://prove2.me/theorems/101b17ea-17cc-4f94-af4e-49eca2c0bae3

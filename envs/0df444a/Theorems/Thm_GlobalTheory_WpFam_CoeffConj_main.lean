@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_CoeffConj_main
 -- name    : GlobalTheory.WpFam.CoeffConj.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:18:47.33594+00:00
 -- url     : https://prove2.me/theorems/1509ad85-330d-46f8-9f52-9d3ec233f875

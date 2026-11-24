@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Descent_acyc_fin
 -- name    : GlobalTheory.CompanionTheory.Descent.acyc_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:25:40.294064+00:00
 -- url     : https://prove2.me/theorems/17cf33c4-c8e7-4201-9961-5847dcdab32e

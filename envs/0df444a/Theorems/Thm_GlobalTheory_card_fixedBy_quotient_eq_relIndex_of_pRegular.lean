@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_fixedBy_quotient_eq_relIndex_of_pRegular
 -- name    : GlobalTheory.card_fixedBy_quotient_eq_relIndex_of_pRegular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:02.940787+00:00
 -- url     : https://prove2.me/theorems/8e216270-7a25-4cbe-a5d6-6b28d769612c

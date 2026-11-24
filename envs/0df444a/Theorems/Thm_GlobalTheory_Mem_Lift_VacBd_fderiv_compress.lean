@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_VacBd_fderiv_compress
 -- name    : GlobalTheory.Mem.Lift.VacBd.fderiv_compress
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:22:53.629423+00:00
 -- url     : https://prove2.me/theorems/3bb8f909-35e6-45df-a9ca-3aecc7deb628

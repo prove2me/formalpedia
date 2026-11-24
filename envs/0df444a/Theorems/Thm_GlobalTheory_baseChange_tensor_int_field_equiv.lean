@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_baseChange_tensor_int_field_equiv
 -- name    : GlobalTheory.baseChange_tensor_int_field_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:40.286324+00:00
 -- url     : https://prove2.me/theorems/4c95eacb-b558-43ab-a34a-073f202e941a

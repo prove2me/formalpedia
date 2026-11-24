@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_evenDefectTriangle_cube
 -- name    : GlobalTheory.evenDefectTriangle_cube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:20:20.927434+00:00
 -- url     : https://prove2.me/theorems/a3737e1f-69d5-4a5a-bab1-b2891ef5dc6f

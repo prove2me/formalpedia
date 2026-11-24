@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fockPairing_linearSubstitution_adjoint
 -- name    : GlobalTheory.T.fockPairing_linearSubstitution_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:57.259873+00:00
 -- url     : https://prove2.me/theorems/ac1a7801-fc75-4ecc-afcc-a71ce5e4a727

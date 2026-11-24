@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_mem_of_closedPoint
 -- name    : GlobalTheory.CompanionTheory.AxForm.mem_of_closedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:23:13.9064+00:00
 -- url     : https://prove2.me/theorems/5d90da63-6ef1-48b0-8a93-cd483daa8f65

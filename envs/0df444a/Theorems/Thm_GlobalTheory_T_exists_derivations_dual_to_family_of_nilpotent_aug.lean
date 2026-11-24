@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_derivations_dual_to_family_of_nilpotent_aug
 -- name    : GlobalTheory.T.exists_derivations_dual_to_family_of_nilpotent_aug
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:07.028803+00:00
 -- url     : https://prove2.me/theorems/772d8916-6e9a-4c33-8333-9a659b34a1a6

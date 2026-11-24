@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_parallelogram_three_weierstrass_key
 -- name    : Formalism.L2.Th1.B.E2.parallelogram_three_weierstrass_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:02:14.533808+00:00
 -- url     : https://prove2.me/theorems/7e46b324-0a0b-49c9-9c1e-e810692d7fab

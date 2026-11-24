@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_chart_p_smul_lift_eq_bt
 -- name    : GlobalTheory.chart_p_smul_lift_eq_bt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:07:38.598081+00:00
 -- url     : https://prove2.me/theorems/79fdbb51-c15d-493a-b810-5c80a8ae19a6

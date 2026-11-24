@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_FormsTensorLocalization_theorem_a_of_lemma_a_holds
 -- name    : Formalism.RankGapBounds.FormsTensorLocalization.theorem_a_of_lemma_a_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:29:49.585487+00:00
 -- url     : https://prove2.me/theorems/fb9c28e2-a34b-4d82-b730-4e5e18f722db

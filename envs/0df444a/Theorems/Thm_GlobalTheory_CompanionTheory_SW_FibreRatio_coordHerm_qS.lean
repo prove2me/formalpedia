@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreRatio_coordHerm_qS
 -- name    : GlobalTheory.CompanionTheory.SW.FibreRatio.coordHerm_qS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:50:30.875924+00:00
 -- url     : https://prove2.me/theorems/657ffeb0-5ed5-495b-a8fb-625286e2f398

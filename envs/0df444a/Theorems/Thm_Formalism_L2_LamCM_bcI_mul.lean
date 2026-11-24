@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_bcI_mul
 -- name    : Formalism.L2.LamCM.bcI_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:02.138603+00:00
 -- url     : https://prove2.me/theorems/c2d5063a-3adc-4944-915c-0920c844e409

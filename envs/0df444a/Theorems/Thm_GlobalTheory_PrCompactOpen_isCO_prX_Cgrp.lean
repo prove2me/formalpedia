@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrCompactOpen_isCO_prX_Cgrp
 -- name    : GlobalTheory.PrCompactOpen.isCO_prX_Cgrp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:10:14.193323+00:00
 -- url     : https://prove2.me/theorems/32816b0e-2fef-435b-821c-adc366963341

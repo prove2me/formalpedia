@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLattice_exists_orthonormal_family
 -- name    : GlobalTheory.SelfDualLattice.exists_orthonormal_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:53:27.033994+00:00
 -- url     : https://prove2.me/theorems/d89f5b11-6a8c-4b40-a812-e6051c3849c2

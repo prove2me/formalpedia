@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_fock_eq_sum
 -- name    : GlobalTheory.MinorNorm.fock_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:27:38.897146+00:00
 -- url     : https://prove2.me/theorems/ed9b8342-0b9a-48b1-a66b-e0f464366da7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryOrbitForm_eq_smul_of_norm_eq_one_on_orbit
 -- name    : GlobalTheory.UnitaryOrbitForm.eq_smul_of_norm_eq_one_on_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:40:39.962731+00:00
 -- url     : https://prove2.me/theorems/1bd4de8b-3e53-4a9e-b419-3e2b1fb8b414

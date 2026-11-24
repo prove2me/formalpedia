@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normCharacterOnIdempotentPart_frame_properties
 -- name    : GlobalTheory.T.normCharacterOnIdempotentPart_frame_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:20.881658+00:00
 -- url     : https://prove2.me/theorems/39473b21-5b0e-4919-bcb6-9c76fda7d868

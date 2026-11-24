@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_surjective_of_unramified
 -- name    : GlobalTheory.eq_of_surjective_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:17:43.76295+00:00
 -- url     : https://prove2.me/theorems/5d6987bc-5b2e-42e2-9301-acfa84ea7fb6

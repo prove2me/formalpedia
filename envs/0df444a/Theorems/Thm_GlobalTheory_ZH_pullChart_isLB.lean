@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_pullChart_isLB
 -- name    : GlobalTheory.ZH.pullChart_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:34:27.875798+00:00
 -- url     : https://prove2.me/theorems/06ff5e49-0fef-411a-92b5-a8ce228f8c43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LatOnly_quasiPeriodConst_formula
 -- name    : Formalism.L2.Th1.F.LatOnly.quasiPeriodConst_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:48.981827+00:00
 -- url     : https://prove2.me/theorems/e373f45d-fe3a-4cd7-903d-f5ebf64e9c01

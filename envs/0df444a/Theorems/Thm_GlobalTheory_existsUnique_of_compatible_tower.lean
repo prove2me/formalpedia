@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_of_compatible_tower
 -- name    : GlobalTheory.existsUnique_of_compatible_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:26.599581+00:00
 -- url     : https://prove2.me/theorems/9b2e4753-6e7b-4e6b-9411-5025d26a7da9

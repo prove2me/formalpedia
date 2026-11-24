@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_charSeries_kill_finset
 -- name    : GlobalTheory.charSeries_kill_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:24.54509+00:00
 -- url     : https://prove2.me/theorems/fb965e4b-5647-42a3-aac3-dfc0ce35da7f

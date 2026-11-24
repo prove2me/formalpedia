@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ddChar_mul_unip_apply
 -- name    : GlobalTheory.ddChar_mul_unip_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:14:43.448425+00:00
 -- url     : https://prove2.me/theorems/13b81d87-3cc7-433f-ae01-7810ee2ce1f0

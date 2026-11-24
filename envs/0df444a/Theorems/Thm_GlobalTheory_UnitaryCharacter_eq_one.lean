@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryCharacter_eq_one
 -- name    : GlobalTheory.UnitaryCharacter.eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:40:26.649393+00:00
 -- url     : https://prove2.me/theorems/3a04680d-70c2-4c4b-b233-33623f5e9794

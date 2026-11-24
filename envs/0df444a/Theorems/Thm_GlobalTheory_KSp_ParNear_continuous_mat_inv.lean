@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_ParNear_continuous_mat_inv
 -- name    : GlobalTheory.KSp.ParNear.continuous_mat_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:27:38.455935+00:00
 -- url     : https://prove2.me/theorems/e147c183-ccb6-42a5-858d-43c58d329671

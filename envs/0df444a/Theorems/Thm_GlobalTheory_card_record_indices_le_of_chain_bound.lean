@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_record_indices_le_of_chain_bound
 -- name    : GlobalTheory.card_record_indices_le_of_chain_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:33.271903+00:00
 -- url     : https://prove2.me/theorems/16f38a6c-9592-4c57-a4fb-8166bf229e3b

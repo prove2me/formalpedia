@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_modularGroup_rowVec_and_conj_rightActions
 -- name    : GlobalTheory.T.modularGroup_rowVec_and_conj_rightActions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:18:39.591363+00:00
 -- url     : https://prove2.me/theorems/bba1b6a4-cea4-4c0e-9cdb-55fcb2cf60f4

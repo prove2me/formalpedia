@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_bcI_ne_zero
 -- name    : Formalism.L2.LamCM.bcI_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:00.630957+00:00
 -- url     : https://prove2.me/theorems/8d207d95-7ea1-422b-a9e2-3676705715c1

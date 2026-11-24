@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_chi_four_natAbs_mul
 -- name    : GlobalTheory.chi_four_natAbs_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:07:31.723352+00:00
 -- url     : https://prove2.me/theorems/69e06e91-2866-43c5-9be0-09b7b6f0e902

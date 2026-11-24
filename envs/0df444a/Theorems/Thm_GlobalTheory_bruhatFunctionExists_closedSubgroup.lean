@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bruhatFunctionExists_closedSubgroup
 -- name    : GlobalTheory.bruhatFunctionExists_closedSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:43.639248+00:00
 -- url     : https://prove2.me/theorems/153eb5ff-7d76-4f78-be58-c3d4d67ecf1c

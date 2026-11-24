@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_UnramifiedCompletion_div_ringA
 -- name    : Formalism.L2.Th1.D.UnramifiedCompletion.div_ringA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:11:30.978165+00:00
 -- url     : https://prove2.me/theorems/9b59ccfc-5fd2-4384-97c5-f251fae7cc81

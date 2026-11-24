@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittSolve_inj
 -- name    : GlobalTheory.WittSolve.inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:56:02.798194+00:00
 -- url     : https://prove2.me/theorems/fd665a75-10a5-44f0-aa4a-91838ffa70dd

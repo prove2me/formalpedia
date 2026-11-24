@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_eisensteinS2LimitFormula_of_hkLimit
 -- name    : Formalism.L2.Th1.F.eisensteinS2LimitFormula_of_hkLimit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:29:37.440254+00:00
 -- url     : https://prove2.me/theorems/3333ae5e-be2f-427b-94cb-524955cb5ea4

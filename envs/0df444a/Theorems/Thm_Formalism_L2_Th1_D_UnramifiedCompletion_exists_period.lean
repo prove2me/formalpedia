@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_UnramifiedCompletion_exists_period
 -- name    : Formalism.L2.Th1.D.UnramifiedCompletion.exists_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:11:47.655189+00:00
 -- url     : https://prove2.me/theorems/a09b5d7f-e939-4695-8fa8-dd97b3062982

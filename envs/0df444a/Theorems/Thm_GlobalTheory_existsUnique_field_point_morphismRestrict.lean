@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_field_point_morphismRestrict
 -- name    : GlobalTheory.existsUnique_field_point_morphismRestrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:29:04.65587+00:00
 -- url     : https://prove2.me/theorems/2b2f3173-fbf5-42ae-81a2-88719247dc21

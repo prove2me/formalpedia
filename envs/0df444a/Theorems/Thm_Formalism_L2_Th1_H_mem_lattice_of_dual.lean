@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_mem_lattice_of_dual
 -- name    : Formalism.L2.Th1.H.mem_lattice_of_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:56.648656+00:00
 -- url     : https://prove2.me/theorems/8467ee12-55e0-47ef-a075-da15060dcaf3

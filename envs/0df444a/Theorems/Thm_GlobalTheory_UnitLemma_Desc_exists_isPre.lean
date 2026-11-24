@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_exists_isPre
 -- name    : GlobalTheory.UnitLemma.Desc.exists_isPre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:08.794493+00:00
 -- url     : https://prove2.me/theorems/cb856754-27ae-4c44-863e-351aba586acb

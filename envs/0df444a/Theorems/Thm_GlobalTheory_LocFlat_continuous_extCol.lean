@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_continuous_extCol
 -- name    : GlobalTheory.LocFlat.continuous_extCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:27:49.454279+00:00
 -- url     : https://prove2.me/theorems/2faf3ee5-0182-4c27-b144-e604e2677888

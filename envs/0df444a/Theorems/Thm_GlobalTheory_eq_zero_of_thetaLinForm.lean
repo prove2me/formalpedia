@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_thetaLinForm
 -- name    : GlobalTheory.eq_zero_of_thetaLinForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:19:41.351831+00:00
 -- url     : https://prove2.me/theorems/5de8fc9d-7e92-4ac5-ba2d-311393ae1025

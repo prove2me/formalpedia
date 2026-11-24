@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_mem_minimalPrimes
 -- name    : GlobalTheory.eq_zero_of_mem_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:18:55.250502+00:00
 -- url     : https://prove2.me/theorems/fb3ff22d-6a6b-4dad-8a6e-5d5e62352ccf

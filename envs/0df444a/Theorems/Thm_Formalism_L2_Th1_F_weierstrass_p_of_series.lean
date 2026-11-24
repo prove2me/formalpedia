@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_weierstrass_p_of_series
 -- name    : Formalism.L2.Th1.F.weierstrass_p_of_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:18:50.530539+00:00
 -- url     : https://prove2.me/theorems/6cb2c47b-d7d9-4a94-9e22-f3b28f8daa5a

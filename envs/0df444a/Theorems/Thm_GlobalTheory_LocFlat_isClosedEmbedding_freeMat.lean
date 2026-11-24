@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_isClosedEmbedding_freeMat
 -- name    : GlobalTheory.LocFlat.isClosedEmbedding_freeMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:28:15.267003+00:00
 -- url     : https://prove2.me/theorems/07f9e0c7-e091-44b9-8f8b-27067b8b7727

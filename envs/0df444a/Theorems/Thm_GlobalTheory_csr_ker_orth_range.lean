@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_csr_ker_orth_range
 -- name    : GlobalTheory.csr_ker_orth_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:14:47.037274+00:00
 -- url     : https://prove2.me/theorems/c4f53be4-8ad6-4c3b-948b-299fb515246a

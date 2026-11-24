@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_lower
 -- name    : GlobalTheory.VolFin.lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:50:52.682806+00:00
 -- url     : https://prove2.me/theorems/b1a8bf69-a20f-415a-8dd0-2e43a272ca2e

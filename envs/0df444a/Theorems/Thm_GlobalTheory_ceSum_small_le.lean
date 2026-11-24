@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ceSum_small_le
 -- name    : GlobalTheory.ceSum_small_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:08:02.928863+00:00
 -- url     : https://prove2.me/theorems/f476fc8b-817e-4753-985f-ee89093df180

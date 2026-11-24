@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_chart_fAdd_firstOrder
 -- name    : GlobalTheory.chart_fAdd_firstOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:07:55.635839+00:00
 -- url     : https://prove2.me/theorems/13b7afa0-8bc4-40dc-b729-9225b07c91dd

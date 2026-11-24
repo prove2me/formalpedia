@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriFactor_existsUnique_factor_opp
 -- name    : GlobalTheory.IwahoriFactor.existsUnique_factor_opp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:29.569837+00:00
 -- url     : https://prove2.me/theorems/566be312-90d8-4355-a738-6c1d90bf7e54

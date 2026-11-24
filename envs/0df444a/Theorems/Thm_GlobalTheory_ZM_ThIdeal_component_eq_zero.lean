@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ThIdeal_component_eq_zero
 -- name    : GlobalTheory.ZM.ThIdeal.component_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:04:52.66853+00:00
 -- url     : https://prove2.me/theorems/678f0d07-5245-429b-a5fc-1accae237761

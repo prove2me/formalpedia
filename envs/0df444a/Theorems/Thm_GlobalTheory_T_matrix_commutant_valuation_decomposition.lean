@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_commutant_valuation_decomposition
 -- name    : GlobalTheory.T.matrix_commutant_valuation_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:53:54.950169+00:00
 -- url     : https://prove2.me/theorems/5609fb8b-5d48-4695-b850-715437fd5f6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dlog_zpow
 -- name    : GlobalTheory.dlog_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:09.205744+00:00
 -- url     : https://prove2.me/theorems/671879e9-2d2a-44ad-a2e3-b5fed4071ac2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeLow_pull1_bijective
 -- name    : GlobalTheory.CompanionTheory.HodgeLow.pull1_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:23:43.289424+00:00
 -- url     : https://prove2.me/theorems/8535add1-7de2-41db-be45-cb13286445a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JointHarm_coeff_rename_mul
 -- name    : GlobalTheory.JointHarm.coeff_rename_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:26:40.857235+00:00
 -- url     : https://prove2.me/theorems/affdc217-6841-4dfb-bc9f-a3cdfbe4ea3e

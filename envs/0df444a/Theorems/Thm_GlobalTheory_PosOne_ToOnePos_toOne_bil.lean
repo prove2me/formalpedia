@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_ToOnePos_toOne_bil
 -- name    : GlobalTheory.PosOne.ToOnePos.toOne_bil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:18:36.118811+00:00
 -- url     : https://prove2.me/theorems/9bdc5138-884d-4a69-a62e-bf731e83d78e

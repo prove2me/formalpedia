@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_hasSum_rows_derivWeierstrassP
 -- name    : GlobalTheory.WpFam.hasSum_rows_derivWeierstrassP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:56:17.850071+00:00
 -- url     : https://prove2.me/theorems/298abed8-450f-494c-829a-b9f91e1cc534

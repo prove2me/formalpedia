@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_mul_eq_sum_minors
 -- name    : GlobalTheory.det_mul_eq_sum_minors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:40.825309+00:00
 -- url     : https://prove2.me/theorems/1ac02ae3-bed0-49e5-b3b6-98c6cbd19481

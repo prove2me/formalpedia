@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_coordW_succ_eq_iterated_of_unitary_section
 -- name    : GlobalTheory.T.lintegral_coordW_succ_eq_iterated_of_unitary_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:01.199538+00:00
 -- url     : https://prove2.me/theorems/4d41bddb-9758-4de6-a44f-6a4c5508fb19

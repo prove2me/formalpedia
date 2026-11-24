@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_Act_rightActions
 -- name    : GlobalTheory.WpFam.Act.rightActions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:15:29.31071+00:00
 -- url     : https://prove2.me/theorems/5bcc3b42-4c13-43f3-91c6-f0acfddf2c8c

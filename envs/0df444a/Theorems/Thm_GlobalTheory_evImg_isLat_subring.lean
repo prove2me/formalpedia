@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_evImg_isLat_subring
 -- name    : GlobalTheory.evImg_isLat_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:20:04.739227+00:00
 -- url     : https://prove2.me/theorems/c469a23b-433b-46d3-8524-c6e1c3cfe370

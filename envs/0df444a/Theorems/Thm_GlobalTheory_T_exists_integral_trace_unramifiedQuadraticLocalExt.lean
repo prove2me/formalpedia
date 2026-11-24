@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_trace_unramifiedQuadraticLocalExt
 -- name    : GlobalTheory.T.exists_integral_trace_unramifiedQuadraticLocalExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:38.259559+00:00
 -- url     : https://prove2.me/theorems/f0d298f1-d909-4dd0-b67c-93d28e676dd0

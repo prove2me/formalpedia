@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_GelfGen_exists_eig
 -- name    : GlobalTheory.SmoothForms.GelfGen.exists_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:29:55.350001+00:00
 -- url     : https://prove2.me/theorems/5a8e7f87-9565-4595-b63a-293c323c93c4

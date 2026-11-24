@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiable_rmul_add
 -- name    : GlobalTheory.differentiable_rmul_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:30.633851+00:00
 -- url     : https://prove2.me/theorems/ddf0d1db-45a6-4221-a0bd-844f802e2e87

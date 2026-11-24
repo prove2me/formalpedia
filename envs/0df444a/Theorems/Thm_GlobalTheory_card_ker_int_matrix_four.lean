@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_ker_int_matrix_four
 -- name    : GlobalTheory.card_ker_int_matrix_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:11:49.641002+00:00
 -- url     : https://prove2.me/theorems/8daab6d3-d8e5-48e7-a8ba-07805c732872

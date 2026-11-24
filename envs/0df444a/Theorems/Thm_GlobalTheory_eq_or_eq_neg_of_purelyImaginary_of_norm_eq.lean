@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_or_eq_neg_of_purelyImaginary_of_norm_eq
 -- name    : GlobalTheory.eq_or_eq_neg_of_purelyImaginary_of_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:17:50.87602+00:00
 -- url     : https://prove2.me/theorems/c8ad86d1-28a5-41fa-90cc-fd9e811961df

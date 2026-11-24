@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_gram_real_sum_smul
 -- name    : GlobalTheory.det_gram_real_sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:15:44.132087+00:00
 -- url     : https://prove2.me/theorems/f4db8bef-f681-4d81-b050-2c32867b895a

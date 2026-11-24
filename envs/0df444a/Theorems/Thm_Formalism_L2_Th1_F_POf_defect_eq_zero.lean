@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_POf_defect_eq_zero
 -- name    : Formalism.L2.Th1.F.POf.defect_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:18:19.877651+00:00
 -- url     : https://prove2.me/theorems/d1407e93-8712-4a67-b350-65d30c5e5c78

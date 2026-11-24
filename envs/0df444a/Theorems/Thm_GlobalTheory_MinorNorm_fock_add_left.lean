@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_fock_add_left
 -- name    : GlobalTheory.MinorNorm.fock_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:09.563874+00:00
 -- url     : https://prove2.me/theorems/dbac44bf-1bcc-4411-9a6b-0c37c90bcefc

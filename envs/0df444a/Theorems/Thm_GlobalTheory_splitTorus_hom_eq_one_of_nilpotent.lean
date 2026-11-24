@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitTorus_hom_eq_one_of_nilpotent
 -- name    : GlobalTheory.splitTorus_hom_eq_one_of_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:17.017623+00:00
 -- url     : https://prove2.me/theorems/67a9d8c9-24a4-4748-a2b0-8d9a4b5bff24

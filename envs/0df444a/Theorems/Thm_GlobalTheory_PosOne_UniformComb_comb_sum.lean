@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_UniformComb_comb_sum
 -- name    : GlobalTheory.PosOne.UniformComb.comb_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:21:30.822153+00:00
 -- url     : https://prove2.me/theorems/c244810f-dd4b-4681-a9d9-49ccbcd46f13

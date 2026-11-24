@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittSolve_exists_sol
 -- name    : GlobalTheory.WittSolve.exists_sol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:56:04.802865+00:00
 -- url     : https://prove2.me/theorems/5a7ac0cd-ffc1-44fe-96ed-b168bb312ed6

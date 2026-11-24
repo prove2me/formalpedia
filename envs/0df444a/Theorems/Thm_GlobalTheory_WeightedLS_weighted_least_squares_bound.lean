@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightedLS_weighted_least_squares_bound
 -- name    : GlobalTheory.WeightedLS.weighted_least_squares_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:52:43.467287+00:00
 -- url     : https://prove2.me/theorems/e5cffad1-737f-4312-bb72-11c44bccc923

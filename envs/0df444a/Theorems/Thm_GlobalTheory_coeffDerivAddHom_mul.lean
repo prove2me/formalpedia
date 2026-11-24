@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeffDerivAddHom_mul
 -- name    : GlobalTheory.coeffDerivAddHom_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:08:53.105802+00:00
 -- url     : https://prove2.me/theorems/88ab14bc-fc31-4574-a13e-c174c607fb82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitriJac_deriv_rel
 -- name    : GlobalTheory.UnitriJac.deriv_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:47:41.502956+00:00
 -- url     : https://prove2.me/theorems/ed4d1942-4f0c-4018-9333-fce0a4538d7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_selfDual_img
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.selfDual_img
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:21:10.02002+00:00
 -- url     : https://prove2.me/theorems/4ceb78e9-32ec-4215-a8a7-583af88511d4

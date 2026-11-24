@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiable_exp_mul_of_annihilated
 -- name    : GlobalTheory.differentiable_exp_mul_of_annihilated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:15:55.648794+00:00
 -- url     : https://prove2.me/theorems/1d1fe3e0-74ff-4686-bef4-7786bb8a7992

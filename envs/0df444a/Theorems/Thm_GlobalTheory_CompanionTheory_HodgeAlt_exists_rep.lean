@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_exists_rep
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:26:12.55821+00:00
 -- url     : https://prove2.me/theorems/e2f8b6c5-16ec-4337-8a72-24b4cc749968

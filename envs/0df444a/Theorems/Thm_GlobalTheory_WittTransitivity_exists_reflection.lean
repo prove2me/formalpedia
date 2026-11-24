@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittTransitivity_exists_reflection
 -- name    : GlobalTheory.WittTransitivity.exists_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:56:19.853809+00:00
 -- url     : https://prove2.me/theorems/6fe00f81-448f-4af7-972d-8359e96b0b46

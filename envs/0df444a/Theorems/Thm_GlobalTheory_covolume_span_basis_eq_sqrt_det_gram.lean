@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_covolume_span_basis_eq_sqrt_det_gram
 -- name    : GlobalTheory.covolume_span_basis_eq_sqrt_det_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:14:49.788795+00:00
 -- url     : https://prove2.me/theorems/560d8c84-3aba-4d2c-a458-79c3e94ab81d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_coord_of_linearIndependent
 -- name    : GlobalTheory.differentiableOn_coord_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:42:04.886739+00:00
 -- url     : https://prove2.me/theorems/f4132073-365a-4974-be03-318f7d04d7bb

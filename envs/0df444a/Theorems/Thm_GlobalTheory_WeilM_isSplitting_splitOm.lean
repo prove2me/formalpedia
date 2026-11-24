@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_isSplitting_splitOm
 -- name    : GlobalTheory.WeilM.isSplitting_splitOm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:55:05.234973+00:00
 -- url     : https://prove2.me/theorems/0e81bb82-17ee-4bcc-a72e-2831a0f6e104

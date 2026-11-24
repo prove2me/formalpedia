@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_mem_of_fst
 -- name    : GlobalTheory.CompanionTheory.AxForm.mem_of_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:25:58.347221+00:00
 -- url     : https://prove2.me/theorems/fae3f8ba-e984-44f2-827c-1544ed5621ab

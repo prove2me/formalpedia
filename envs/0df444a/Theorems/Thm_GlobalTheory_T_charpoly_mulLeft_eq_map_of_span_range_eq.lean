@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_charpoly_mulLeft_eq_map_of_span_range_eq
 -- name    : GlobalTheory.T.charpoly_mulLeft_eq_map_of_span_range_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:27:39.352558+00:00
 -- url     : https://prove2.me/theorems/d7192f03-2d17-45a2-b88f-ccef8d87fd4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cube_cut_regular_sequence
 -- name    : GlobalTheory.cube_cut_regular_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:14:50.224899+00:00
 -- url     : https://prove2.me/theorems/9eda726a-ffb2-48ab-8b61-4ddfad8115cb

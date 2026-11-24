@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Fibre_hasProd_loc
 -- name    : GlobalTheory.CMVal.Fibre.hasProd_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:04:41.797592+00:00
 -- url     : https://prove2.me/theorems/337ddda0-a6d1-4072-bb9a-abe1205155b8

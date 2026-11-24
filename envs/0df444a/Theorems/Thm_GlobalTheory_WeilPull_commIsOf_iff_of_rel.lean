@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilPull_commIsOf_iff_of_rel
 -- name    : GlobalTheory.WeilPull.commIsOf_iff_of_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:55:20.078955+00:00
 -- url     : https://prove2.me/theorems/6680ba89-c9aa-4982-b555-aee803e359fb

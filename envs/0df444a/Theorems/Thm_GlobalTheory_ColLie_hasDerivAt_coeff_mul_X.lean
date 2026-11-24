@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColLie_hasDerivAt_coeff_mul_X
 -- name    : GlobalTheory.ColLie.hasDerivAt_coeff_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:28:44.551179+00:00
 -- url     : https://prove2.me/theorems/b47a3b9e-9219-4284-9076-a0509f2d8fba

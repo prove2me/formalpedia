@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_continuous_glue
 -- name    : GlobalTheory.LocFlat.continuous_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:27:55.426279+00:00
 -- url     : https://prove2.me/theorems/189606ae-20dc-4c6c-bcef-d87aad01dfb4

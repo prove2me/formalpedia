@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GamFree_gam_free
 -- name    : GlobalTheory.GamFree.gam_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:59:12.975981+00:00
 -- url     : https://prove2.me/theorems/9a383765-5cf2-445b-b502-9b3914e6fe9f

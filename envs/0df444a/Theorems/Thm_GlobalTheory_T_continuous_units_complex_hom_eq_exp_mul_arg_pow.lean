@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_units_complex_hom_eq_exp_mul_arg_pow
 -- name    : GlobalTheory.T.continuous_units_complex_hom_eq_exp_mul_arg_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:07.205087+00:00
 -- url     : https://prove2.me/theorems/4b4ac83b-95ab-4aee-a2ce-7fe6e2fa2041

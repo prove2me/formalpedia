@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lineDerivList_ofFn
 -- name    : GlobalTheory.lineDerivList_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:45.991265+00:00
 -- url     : https://prove2.me/theorems/7148bb64-bb0d-4c4d-84f1-76489570d2e9

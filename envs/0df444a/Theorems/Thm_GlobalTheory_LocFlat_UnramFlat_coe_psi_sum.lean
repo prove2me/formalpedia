@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_UnramFlat_coe_psi_sum
 -- name    : GlobalTheory.LocFlat.UnramFlat.coe_psi_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:28:15.073661+00:00
 -- url     : https://prove2.me/theorems/de1dbc17-f852-4b91-9ce6-8565d6c081b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_fock_int_right
 -- name    : GlobalTheory.MinorNorm.fock_int_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:38.498945+00:00
 -- url     : https://prove2.me/theorems/6a9e345b-2b0c-434a-aea0-105527cc429e

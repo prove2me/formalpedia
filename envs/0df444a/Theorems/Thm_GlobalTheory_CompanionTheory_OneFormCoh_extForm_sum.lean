@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OneFormCoh_extForm_sum
 -- name    : GlobalTheory.CompanionTheory.OneFormCoh.extForm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:26:59.001589+00:00
 -- url     : https://prove2.me/theorems/218ffd1a-cba6-4413-810f-2acdc662b3b6

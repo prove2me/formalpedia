@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_omegaK_quad
 -- name    : ReciprocityTheory.ChartRestriction.L1.omegaK_quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:27:28.674245+00:00
 -- url     : https://prove2.me/theorems/47a02c35-cdd8-449b-ad43-40377297c9f8

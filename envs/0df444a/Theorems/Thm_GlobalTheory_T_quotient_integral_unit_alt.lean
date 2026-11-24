@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quotient_integral_unit_alt
 -- name    : GlobalTheory.T.quotient_integral_unit_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:35.598563+00:00
 -- url     : https://prove2.me/theorems/fad5bfc9-7658-49d6-b55f-1dafa30312e4

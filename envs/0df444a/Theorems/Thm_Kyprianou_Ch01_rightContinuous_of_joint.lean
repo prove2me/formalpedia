@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_rightContinuous_of_joint
 -- name    : Kyprianou.Ch01.rightContinuous_of_joint
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T22:29:58.145057+00:00
 -- url     : https://prove2.me/theorems/4f3d6014-9a28-41f3-8769-179da419b83f

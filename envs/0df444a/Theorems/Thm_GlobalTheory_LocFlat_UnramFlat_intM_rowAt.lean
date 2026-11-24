@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_UnramFlat_intM_rowAt
 -- name    : GlobalTheory.LocFlat.UnramFlat.intM_rowAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:28:03.771984+00:00
 -- url     : https://prove2.me/theorems/7e438fd2-e356-4c9e-b66d-38657f26f8b1

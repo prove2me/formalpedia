@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_exists_isSympBasis
 -- name    : GlobalTheory.ZM.exists_isSympBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:02:51.154179+00:00
 -- url     : https://prove2.me/theorems/f8b43fb9-aaa8-4678-b435-c6d9ec77cbd0

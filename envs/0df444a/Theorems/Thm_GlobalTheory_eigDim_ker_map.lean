@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eigDim_ker_map
 -- name    : GlobalTheory.eigDim_ker_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:18.07893+00:00
 -- url     : https://prove2.me/theorems/2caaaae4-4d11-4456-a05e-07ecd23dc46c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_map_maximalIdeal_of_ringKrullDim_eq_one
 -- name    : GlobalTheory.eq_map_maximalIdeal_of_ringKrullDim_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:17:31.229806+00:00
 -- url     : https://prove2.me/theorems/a3904dd5-4b7c-45fa-b5c6-37253fd933fb

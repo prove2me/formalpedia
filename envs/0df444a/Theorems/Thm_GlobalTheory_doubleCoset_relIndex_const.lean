@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_doubleCoset_relIndex_const
 -- name    : GlobalTheory.doubleCoset_relIndex_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:36.732255+00:00
 -- url     : https://prove2.me/theorems/dc478347-2d15-450b-a719-9fcaff64788e

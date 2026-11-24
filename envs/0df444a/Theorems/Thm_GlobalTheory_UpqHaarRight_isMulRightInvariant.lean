@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqHaarRight_isMulRightInvariant
 -- name    : GlobalTheory.UpqHaarRight.isMulRightInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:37:49.375807+00:00
 -- url     : https://prove2.me/theorems/831425c6-f578-48a3-b683-9068289b416f

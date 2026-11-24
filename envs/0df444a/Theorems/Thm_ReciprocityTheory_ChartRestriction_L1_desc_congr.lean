@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_desc_congr
 -- name    : ReciprocityTheory.ChartRestriction.L1.desc_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:04:06.491384+00:00
 -- url     : https://prove2.me/theorems/b9049866-3c4d-48b7-9629-e55ff331f84f

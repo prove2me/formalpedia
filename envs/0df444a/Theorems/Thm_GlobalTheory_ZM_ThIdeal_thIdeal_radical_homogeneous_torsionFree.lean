@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ThIdeal_thIdeal_radical_homogeneous_torsionFree
 -- name    : GlobalTheory.ZM.ThIdeal.thIdeal_radical_homogeneous_torsionFree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:03:01.093311+00:00
 -- url     : https://prove2.me/theorems/89ade3fe-4513-43ea-ac1b-8e76f4d7a52e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eigenMult_of_dense
 -- name    : GlobalTheory.eigenMult_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:17:07.410289+00:00
 -- url     : https://prove2.me/theorems/a29cb7c7-e320-4a5b-8156-88832ed47aa8

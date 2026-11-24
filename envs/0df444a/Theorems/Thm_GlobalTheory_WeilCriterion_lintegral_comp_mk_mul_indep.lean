@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCriterion_lintegral_comp_mk_mul_indep
 -- name    : GlobalTheory.WeilCriterion.lintegral_comp_mk_mul_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:53:23.111379+00:00
 -- url     : https://prove2.me/theorems/8790fab0-c750-4079-aa36-5275007f9f7f

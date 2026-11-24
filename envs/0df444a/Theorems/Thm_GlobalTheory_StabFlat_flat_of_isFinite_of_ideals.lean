@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StabFlat_flat_of_isFinite_of_ideals
 -- name    : GlobalTheory.StabFlat.flat_of_isFinite_of_ideals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:35.509742+00:00
 -- url     : https://prove2.me/theorems/219405ff-ea8e-4a56-8455-6f3033000047

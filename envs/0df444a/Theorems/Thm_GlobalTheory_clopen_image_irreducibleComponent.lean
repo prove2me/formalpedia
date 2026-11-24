@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_clopen_image_irreducibleComponent
 -- name    : GlobalTheory.clopen_image_irreducibleComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:28.107341+00:00
 -- url     : https://prove2.me/theorems/ec685b03-1eef-48e8-a1a5-e64123713460

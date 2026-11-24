@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Descent_meet_le_right
 -- name    : GlobalTheory.CompanionTheory.Descent.meet_le_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:26:18.528799+00:00
 -- url     : https://prove2.me/theorems/3bab7741-98c1-4601-b782-a8b9cf3364c6

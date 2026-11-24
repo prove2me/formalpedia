@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_etale_of_tangentMap_bijective
 -- name    : GlobalTheory.GrpTangent.etale_of_tangentMap_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:37.126163+00:00
 -- url     : https://prove2.me/theorems/40bb54af-3138-49c1-8b7b-8c3656ad2107

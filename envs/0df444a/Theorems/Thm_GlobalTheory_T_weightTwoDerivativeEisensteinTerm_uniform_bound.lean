@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weightTwoDerivativeEisensteinTerm_uniform_bound
 -- name    : GlobalTheory.T.weightTwoDerivativeEisensteinTerm_uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:01:55.286689+00:00
 -- url     : https://prove2.me/theorems/534ee1b9-c5a4-41c7-ba3f-c487f6fcfb7e

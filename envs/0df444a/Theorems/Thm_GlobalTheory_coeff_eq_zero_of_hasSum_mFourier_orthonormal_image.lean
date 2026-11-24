@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_eq_zero_of_hasSum_mFourier_orthonormal_image
 -- name    : GlobalTheory.coeff_eq_zero_of_hasSum_mFourier_orthonormal_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:34.89569+00:00
 -- url     : https://prove2.me/theorems/417fbb9b-f26c-46f9-aedc-4d3b29ebe901

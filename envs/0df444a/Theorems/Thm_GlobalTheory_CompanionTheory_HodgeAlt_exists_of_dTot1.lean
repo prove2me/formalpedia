@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_exists_of_dTot1
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.exists_of_dTot1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:26:37.319781+00:00
 -- url     : https://prove2.me/theorems/38dc89ff-711f-4a78-bb30-fc2a61ef058e

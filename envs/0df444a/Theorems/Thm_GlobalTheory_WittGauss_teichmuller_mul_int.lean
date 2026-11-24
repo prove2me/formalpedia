@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittGauss_teichmuller_mul_int
 -- name    : GlobalTheory.WittGauss.teichmuller_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:14:12.514717+00:00
 -- url     : https://prove2.me/theorems/7c855e75-f165-437e-a59d-5cc4d3e58032

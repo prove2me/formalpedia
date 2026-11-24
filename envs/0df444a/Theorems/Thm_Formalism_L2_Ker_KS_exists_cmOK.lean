@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_exists_cmOK
 -- name    : Formalism.L2.Ker.KS.exists_cmOK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:28:06.014836+00:00
 -- url     : https://prove2.me/theorems/15fe470c-760a-40c3-bac4-8426370cc82b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Descent_allQIso_of_inv
 -- name    : GlobalTheory.CompanionTheory.Descent.allQIso_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:26:13.8412+00:00
 -- url     : https://prove2.me/theorems/12a9bb89-bd7a-4ef6-811f-97508543c2e7

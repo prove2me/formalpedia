@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_expBij
 -- name    : GlobalTheory.SqZero.expBij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:28:40.493508+00:00
 -- url     : https://prove2.me/theorems/a409f590-c5a9-4c8f-8b1a-4a22f955d9f5

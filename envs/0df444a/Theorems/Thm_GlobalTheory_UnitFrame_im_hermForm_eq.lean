@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitFrame_im_hermForm_eq
 -- name    : GlobalTheory.UnitFrame.im_hermForm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:19:06.366663+00:00
 -- url     : https://prove2.me/theorems/61b65145-8394-4c38-b394-1c2adb3d217a

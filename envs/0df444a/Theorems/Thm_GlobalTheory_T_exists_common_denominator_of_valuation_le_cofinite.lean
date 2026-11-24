@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_common_denominator_of_valuation_le_cofinite
 -- name    : GlobalTheory.T.exists_common_denominator_of_valuation_le_cofinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:33:49.705287+00:00
 -- url     : https://prove2.me/theorems/7950353c-1f8c-4bf9-9f9f-af3227273017

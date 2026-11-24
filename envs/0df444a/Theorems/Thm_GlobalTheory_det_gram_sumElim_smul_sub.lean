@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_gram_sumElim_smul_sub
 -- name    : GlobalTheory.det_gram_sumElim_smul_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:15:53.903846+00:00
 -- url     : https://prove2.me/theorems/b474e05b-40e2-44da-aad0-ba4e44d56b72

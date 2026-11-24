@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_not_le_of_count_eq_zero
 -- name    : Formalism.L2.LamCM.not_le_of_count_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:28:49.137275+00:00
 -- url     : https://prove2.me/theorems/52de3af1-7f7a-4b2f-942c-6b65188ecf2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_ChebyshevFactorialBounds_chebyshevThetaLe_holds
 -- name    : Formalism.RankGapBounds.ChebyshevFactorialBounds.chebyshevThetaLe_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:25:21.035223+00:00
 -- url     : https://prove2.me/theorems/b00df9a8-dcd4-458d-bd7f-2381e44c2213

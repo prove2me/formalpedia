@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_evCot_of_univDer
 -- name    : GlobalTheory.evCot_of_univDer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:19:37.577196+00:00
 -- url     : https://prove2.me/theorems/b48a0fb4-09c3-4809-8176-9a7ab739ed69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_NormVal_norm_integral
 -- name    : GlobalTheory.UnitLemma.Unr.NormVal.norm_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:37:13.204843+00:00
 -- url     : https://prove2.me/theorems/39ced203-0d55-4a5b-b8c9-249ddb1f3795

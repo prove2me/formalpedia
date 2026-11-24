@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_mem_pow_of_flat_of_indep_mod_max
 -- name    : GlobalTheory.coeff_mem_pow_of_flat_of_indep_mod_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:46.589662+00:00
 -- url     : https://prove2.me/theorems/3d07e51f-ba98-4f0b-a319-e683074b0781

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torsionPointOfLatticeTau_lattice_membership
 -- name    : GlobalTheory.T.torsionPointOfLatticeTau_lattice_membership
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:40:40.37296+00:00
 -- url     : https://prove2.me/theorems/626a64f7-7a11-4f00-bf4f-a8505a75e5c4

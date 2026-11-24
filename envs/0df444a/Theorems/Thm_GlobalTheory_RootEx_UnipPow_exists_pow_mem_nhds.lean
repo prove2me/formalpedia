@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnipPow_exists_pow_mem_nhds
 -- name    : GlobalTheory.RootEx.UnipPow.exists_pow_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:09:18.754385+00:00
 -- url     : https://prove2.me/theorems/d3684d27-17ac-4020-b5f9-6dd90e7ef0c4

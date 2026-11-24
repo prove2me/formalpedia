@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for Formalism.CohomologicalDescent.HeightDescentMinors.r6_holds
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-24T22:40:11.825522+00:00
+-- url     : https://prove2.me/submissions/909fe56c-39d4-48ba-9018-898a96e21dbe
+
+import Definitions.Def_Formalism_PieriBlockIdeals_CapelliCentralEnveloping
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_HeightDescentMinors
+import Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_action_laws_holds
+import Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_q_multiplicative_holds
+import Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_mu_facts_hold
+import Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_r2_inverse_holds
+import Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_sixth_relation_of_action_and_mu_laws
+import Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_fixed_relation_holds
+import Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_fourth_relation_holds
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Finset PowerSeries
+open Formalism Formalism.CohomologicalDescent Formalism.CohomologicalDescent.HeightDescentMinors
+namespace Formalism.CohomologicalDescent.HeightDescentMinors
+theorem _root_.solution : R6 := sixth_relation_of_action_and_mu_laws action_laws_holds mu_facts_hold q_multiplicative_holds r2_inverse_holds fixed_relation_holds fourth_relation_holds
+end Formalism.CohomologicalDescent.HeightDescentMinors

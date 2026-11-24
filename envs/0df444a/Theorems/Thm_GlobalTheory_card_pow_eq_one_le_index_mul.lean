@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_pow_eq_one_le_index_mul
 -- name    : GlobalTheory.card_pow_eq_one_le_index_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:49.01682+00:00
 -- url     : https://prove2.me/theorems/f0b57b00-6799-491a-92e6-c8eea7ff1fbd

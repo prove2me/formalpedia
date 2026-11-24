@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFiber_card_le_norm
 -- name    : GlobalTheory.QFiber.card_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:02:39.252867+00:00
 -- url     : https://prove2.me/theorems/cb23f1bd-9830-45bc-b361-3290e4c965bc

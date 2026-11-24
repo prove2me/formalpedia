@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventuallyEq_fderiv_of_eventually_add_mod_discrete
 -- name    : GlobalTheory.eventuallyEq_fderiv_of_eventually_add_mod_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:20:04.131804+00:00
 -- url     : https://prove2.me/theorems/1e09cca7-6d77-44d8-bf80-855f3bf26ffe

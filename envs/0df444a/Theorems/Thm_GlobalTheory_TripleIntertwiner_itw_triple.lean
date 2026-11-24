@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripleIntertwiner_itw_triple
 -- name    : GlobalTheory.TripleIntertwiner.itw_triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:12:21.677174+00:00
 -- url     : https://prove2.me/theorems/d97103c5-9682-4400-9aef-541c68e9faaa

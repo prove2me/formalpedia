@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_stepRatio_vw_of_dvd
 -- name    : GlobalTheory.Square.stepRatio_vw_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:19:17.035972+00:00
 -- url     : https://prove2.me/theorems/eb2c7375-bae7-422d-9cbd-cf92aaff1952

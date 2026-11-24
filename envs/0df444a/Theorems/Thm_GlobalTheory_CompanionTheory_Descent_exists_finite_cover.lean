@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Descent_exists_finite_cover
 -- name    : GlobalTheory.CompanionTheory.Descent.exists_finite_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:26:49.1398+00:00
 -- url     : https://prove2.me/theorems/fb08c8d2-6bd4-4946-a564-4b2540150079

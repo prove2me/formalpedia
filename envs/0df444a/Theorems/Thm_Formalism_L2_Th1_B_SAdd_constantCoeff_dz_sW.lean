@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_SAdd_constantCoeff_dz_sW
 -- name    : Formalism.L2.Th1.B.SAdd.constantCoeff_dz_sW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:00:33.336725+00:00
 -- url     : https://prove2.me/theorems/202f0a91-f005-4a2c-8496-ea90549d4426

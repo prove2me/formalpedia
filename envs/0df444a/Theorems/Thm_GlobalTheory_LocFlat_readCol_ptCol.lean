@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_readCol_ptCol
 -- name    : GlobalTheory.LocFlat.readCol_ptCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:27:32.805286+00:00
 -- url     : https://prove2.me/theorems/d8e0e266-e49f-427e-a8db-b27a7660a96e

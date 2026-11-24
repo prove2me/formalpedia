@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Cot_vb_of_free_on_basicOpens
 -- name    : GlobalTheory.CompanionTheory.Cot.vb_of_free_on_basicOpens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:22:58.054983+00:00
 -- url     : https://prove2.me/theorems/dd45a079-3111-4935-9806-399dc21ce75b

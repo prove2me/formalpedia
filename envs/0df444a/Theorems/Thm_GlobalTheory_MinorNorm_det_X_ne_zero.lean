@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_det_X_ne_zero
 -- name    : GlobalTheory.MinorNorm.det_X_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:28:43.284335+00:00
 -- url     : https://prove2.me/theorems/5962d0c6-ccbc-4111-8d82-d9d2291fd021

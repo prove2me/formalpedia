@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_simeq_coboundary_of_simeq_zero
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.simeq_coboundary_of_simeq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:59:20.22746+00:00
 -- url     : https://prove2.me/theorems/8dea5ce1-8012-4d39-a0f5-da60fb7c89b8

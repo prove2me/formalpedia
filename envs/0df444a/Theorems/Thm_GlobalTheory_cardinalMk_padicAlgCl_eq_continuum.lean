@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cardinalMk_padicAlgCl_eq_continuum
 -- name    : GlobalTheory.cardinalMk_padicAlgCl_eq_continuum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:35.624826+00:00
 -- url     : https://prove2.me/theorems/155f0d04-936e-42a7-abd7-93121f659a3c

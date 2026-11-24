@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_TorsMem_main
 -- name    : GlobalTheory.WpFam.TorsMem.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:58.671931+00:00
 -- url     : https://prove2.me/theorems/4a8700c7-8aec-4655-b600-0c6187f130ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroGapNearOne_of_region
 -- name    : GlobalTheory.ZeroGapNearOne.of_region
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:05:03.986512+00:00
 -- url     : https://prove2.me/theorems/d9ec0540-004a-4a55-8033-02465e6be42c

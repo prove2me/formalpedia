@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotKer_comp_comp_apply_eq_zero
 -- name    : GlobalTheory.CompanionTheory.CotKer.comp_comp_apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:27:47.432815+00:00
 -- url     : https://prove2.me/theorems/0437db92-e0d2-4967-89c4-e0caa773b365

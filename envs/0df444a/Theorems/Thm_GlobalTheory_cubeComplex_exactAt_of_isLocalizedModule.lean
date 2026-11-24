@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_exactAt_of_isLocalizedModule
 -- name    : GlobalTheory.cubeComplex_exactAt_of_isLocalizedModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:15:05.549801+00:00
 -- url     : https://prove2.me/theorems/209aa752-91e5-4ad4-8133-21b901d5bca1

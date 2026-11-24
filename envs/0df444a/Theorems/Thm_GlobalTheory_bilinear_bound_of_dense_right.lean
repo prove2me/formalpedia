@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bilinear_bound_of_dense_right
 -- name    : GlobalTheory.bilinear_bound_of_dense_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:07:03.103675+00:00
 -- url     : https://prove2.me/theorems/235c2d86-abfe-484f-9b8c-8c1cd29b0953

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_locMap_eq
 -- name    : Formalism.L2.LamCM.locMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:49.869008+00:00
 -- url     : https://prove2.me/theorems/3848ed36-3a44-4d85-988f-70c93509caa6

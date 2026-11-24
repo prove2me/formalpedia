@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomologyUniversal_univ_coeff
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomologyUniversal.univ_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:26:33.423388+00:00
 -- url     : https://prove2.me/theorems/73f8a85d-09b3-4d1d-af7b-f427c5ee5235

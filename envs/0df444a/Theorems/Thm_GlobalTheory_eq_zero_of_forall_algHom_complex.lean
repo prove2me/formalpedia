@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_forall_algHom_complex
 -- name    : GlobalTheory.eq_zero_of_forall_algHom_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:19:03.629811+00:00
 -- url     : https://prove2.me/theorems/4b257bba-9878-40f5-be28-6dfa2d0e12b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FirstVertexFrame_firstVertex_typeChain
 -- name    : GlobalTheory.FirstVertexFrame.firstVertex_typeChain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:08:58.761036+00:00
 -- url     : https://prove2.me/theorems/de342559-ad33-4c87-a208-39572d7add6b

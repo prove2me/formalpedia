@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fibre_coords_det_fderiv_ne_zero_of_smooth
 -- name    : GlobalTheory.T.exists_fibre_coords_det_fderiv_ne_zero_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:35.766927+00:00
 -- url     : https://prove2.me/theorems/99843e3a-a232-49aa-a425-4a1507332f9b

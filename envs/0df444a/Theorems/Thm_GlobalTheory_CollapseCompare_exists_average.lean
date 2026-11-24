@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_exists_average
 -- name    : GlobalTheory.CollapseCompare.exists_average
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:19:00.876184+00:00
 -- url     : https://prove2.me/theorems/07043f8c-0842-46da-b22e-8d07429b9f64

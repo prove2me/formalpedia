@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_upperProjection_inverse_transpose_right_inverse
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.upperProjection_inverse_transpose_right_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:12.869924+00:00
 -- url     : https://prove2.me/theorems/d9b16cc5-8ba4-4969-ab56-8861ff063d04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_PartialFourier_eventually_add_invariant
 -- name    : GlobalTheory.LocFlat.PartialFourier.eventually_add_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:26:35.847559+00:00
 -- url     : https://prove2.me/theorems/83c310ec-f79d-4d77-b48b-f852552427b5

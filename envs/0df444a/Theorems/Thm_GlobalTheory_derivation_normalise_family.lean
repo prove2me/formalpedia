@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_derivation_normalise_family
 -- name    : GlobalTheory.derivation_normalise_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:10.023221+00:00
 -- url     : https://prove2.me/theorems/ba2d35ae-a608-43fa-956c-1b7c7c60d89b

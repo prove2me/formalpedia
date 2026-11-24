@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_altEInt
 -- name    : Formalism.L2.Th1.F.altEInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:00:23.979513+00:00
 -- url     : https://prove2.me/theorems/9263908a-9ae7-49b9-88ee-dc26f045626d

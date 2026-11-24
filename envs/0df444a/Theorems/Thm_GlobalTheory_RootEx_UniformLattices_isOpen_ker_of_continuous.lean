@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UniformLattices_isOpen_ker_of_continuous
 -- name    : GlobalTheory.RootEx.UniformLattices.isOpen_ker_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:13:44.275949+00:00
 -- url     : https://prove2.me/theorems/a61019d8-ad91-44b6-8665-b921863613e8

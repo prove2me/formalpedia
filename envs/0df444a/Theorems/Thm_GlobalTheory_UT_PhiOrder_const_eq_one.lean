@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_PhiOrder_const_eq_one
 -- name    : GlobalTheory.UT.PhiOrder.const_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:29:21.229954+00:00
 -- url     : https://prove2.me/theorems/b714ac49-4d62-40ea-87d0-aa6330a3c120

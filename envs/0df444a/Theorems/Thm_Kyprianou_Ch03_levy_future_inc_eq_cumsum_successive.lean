@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_levy_future_inc_eq_cumsum_successive
 -- name    : Kyprianou.Ch03.levy_future_inc_eq_cumsum_successive
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T17:22:35.193865+00:00
 -- url     : https://prove2.me/theorems/10b4204d-bb3a-4822-a1bb-f2282f5e9c26

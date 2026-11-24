@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_updateRow_single_mul_sub_mem
 -- name    : GlobalTheory.det_updateRow_single_mul_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:15:53.296259+00:00
 -- url     : https://prove2.me/theorems/8f170ded-ee40-4194-ae63-fbd88e89f009

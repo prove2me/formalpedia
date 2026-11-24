@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuous_distribHaarChar_units_of_compact_open
 -- name    : GlobalTheory.continuous_distribHaarChar_units_of_compact_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:23.246932+00:00
 -- url     : https://prove2.me/theorems/d7c5a36c-b66a-4fca-8804-ddf2ab0bad87

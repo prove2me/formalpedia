@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_nonempty_adjoin_algHom_of_mul_mem_of_map_ne_zero
 -- name    : GlobalTheory.T.nonempty_adjoin_algHom_of_mul_mem_of_map_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:53:56.087818+00:00
 -- url     : https://prove2.me/theorems/fd280773-6da8-4d22-8e4c-6a23bbaba39f

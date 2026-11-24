@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_charpoly_mulLeft_separable_of_adjoin_eq_top
 -- name    : GlobalTheory.charpoly_mulLeft_separable_of_adjoin_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:07:44.483736+00:00
 -- url     : https://prove2.me/theorems/decf1b1b-23d4-43ad-9598-1dd0c0740c0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_exists_of_prim
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.exists_of_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:28:34.141619+00:00
 -- url     : https://prove2.me/theorems/916b0e5c-c62b-4058-b268-5757f0a1062e

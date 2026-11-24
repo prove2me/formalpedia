@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_sum_le_sum_add_card_mul
 -- name    : GlobalTheory.Square.sum_le_sum_add_card_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:19:21.301575+00:00
 -- url     : https://prove2.me/theorems/a68f8b1e-622f-4885-89eb-3331e5a31e12

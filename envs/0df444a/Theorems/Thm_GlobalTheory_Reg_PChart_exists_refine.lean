@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_PChart_exists_refine
 -- name    : GlobalTheory.Reg.PChart.exists_refine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:19:33.599229+00:00
 -- url     : https://prove2.me/theorems/7a319048-15bc-42e1-8478-df762be180c7

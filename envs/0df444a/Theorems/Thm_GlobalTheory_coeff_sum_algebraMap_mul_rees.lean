@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_sum_algebraMap_mul_rees
 -- name    : GlobalTheory.coeff_sum_algebraMap_mul_rees
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:51.651544+00:00
 -- url     : https://prove2.me/theorems/558f52df-b076-46b1-a706-68c3058a6e8c

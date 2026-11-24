@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_exists_remb_eq_of_mem_dual
 -- name    : GlobalTheory.LipschitzTR.exists_remb_eq_of_mem_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:11:23.396493+00:00
 -- url     : https://prove2.me/theorems/d4132cc0-e356-4970-a7e0-b7bf6d64bf22

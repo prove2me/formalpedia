@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_nablaEqDualWeylOf
 -- name    : GlobalTheory.WeylDuality.nablaEqDualWeylOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:56:14.530893+00:00
 -- url     : https://prove2.me/theorems/34813ae5-7c4a-41ec-beb5-48bba3cc408f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubN_descent_opposite
 -- name    : GlobalTheory.cubN_descent_opposite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:14:44.436309+00:00
 -- url     : https://prove2.me/theorems/253bcdb7-3104-4522-ba2a-7dbe3547b54d

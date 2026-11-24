@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_exists_lift
 -- name    : GlobalTheory.CompanionTheory.AbForms.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:22:09.394682+00:00
 -- url     : https://prove2.me/theorems/6b5274e2-7141-40e8-bb22-40937fe43410

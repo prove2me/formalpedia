@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_doubleCoset_fibre_card
 -- name    : GlobalTheory.doubleCoset_fibre_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:34.44891+00:00
 -- url     : https://prove2.me/theorems/98ab6849-0a3c-42fa-bbc7-0717d1114a26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dvrSubring_factor
 -- name    : GlobalTheory.dvrSubring_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:39.079629+00:00
 -- url     : https://prove2.me/theorems/d9dc36a8-5d96-4561-93dc-979738e69de2

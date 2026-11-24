@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuousOn_norm_diag_of_triangular_sqrt
 -- name    : GlobalTheory.continuousOn_norm_diag_of_triangular_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:50.01688+00:00
 -- url     : https://prove2.me/theorems/159ef9d5-0d8d-4983-b340-6c127223bd1a

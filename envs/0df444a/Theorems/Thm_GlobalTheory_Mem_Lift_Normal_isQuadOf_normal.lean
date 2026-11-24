@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_Normal_isQuadOf_normal
 -- name    : GlobalTheory.Mem.Lift.Normal.isQuadOf_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:29:39.701634+00:00
 -- url     : https://prove2.me/theorems/b913057c-2c45-4750-9a9a-dd68b1035e93

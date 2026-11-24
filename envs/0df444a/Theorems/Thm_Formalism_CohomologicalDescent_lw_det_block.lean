@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_lw_det_block
 -- name    : Formalism.CohomologicalDescent.lw_det_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:29:52.52657+00:00
 -- url     : https://prove2.me/theorems/a96121fc-9176-4df5-9132-a775afea7aa1

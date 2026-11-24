@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotKer_ker_sq_eq_bot
 -- name    : GlobalTheory.CompanionTheory.CotKer.ker_sq_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:28:03.781706+00:00
 -- url     : https://prove2.me/theorems/d52809ae-4da0-4d31-91c0-982769951cc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussPolyReg_Approx_lemma_3_6
 -- name    : GaussPolyReg.Approx.lemma_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:42:59.279104+00:00
 -- url     : https://prove2.me/theorems/3dbb437e-6326-4aa0-81b8-f9aa0ef7d972

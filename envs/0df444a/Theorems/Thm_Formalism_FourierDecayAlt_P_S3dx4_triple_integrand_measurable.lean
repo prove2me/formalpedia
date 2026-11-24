@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_triple_integrand_measurable
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.triple_integrand_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:26:57.180799+00:00
 -- url     : https://prove2.me/theorems/17982785-5260-459d-9d8a-322f8cd4a58d

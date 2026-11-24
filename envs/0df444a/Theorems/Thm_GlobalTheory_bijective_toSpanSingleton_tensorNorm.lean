@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_toSpanSingleton_tensorNorm
 -- name    : GlobalTheory.bijective_toSpanSingleton_tensorNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:01.771824+00:00
 -- url     : https://prove2.me/theorems/831b5eef-1ac7-4fc1-a056-0df98570d5cc

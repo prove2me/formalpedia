@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exact_of_homotopy
 -- name    : GlobalTheory.exact_of_homotopy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:19:56.396796+00:00
 -- url     : https://prove2.me/theorems/3b02c872-19d7-4848-bfe2-eba4b6f4eea5

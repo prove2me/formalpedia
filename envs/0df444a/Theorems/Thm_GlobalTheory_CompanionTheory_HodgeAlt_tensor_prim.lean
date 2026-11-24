@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_tensor_prim
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.tensor_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:25:23.205802+00:00
 -- url     : https://prove2.me/theorems/8849d03b-31c4-46eb-98ca-4f72b1531211

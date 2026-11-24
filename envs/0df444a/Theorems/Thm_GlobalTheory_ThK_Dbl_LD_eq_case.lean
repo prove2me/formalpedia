@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_eq_case
 -- name    : GlobalTheory.ThK.Dbl.LD.eq_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:03:15.640629+00:00
 -- url     : https://prove2.me/theorems/617597dd-bcf8-4079-a7b4-ead8c514e1aa

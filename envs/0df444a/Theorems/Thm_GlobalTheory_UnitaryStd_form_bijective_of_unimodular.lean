@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_form_bijective_of_unimodular
 -- name    : GlobalTheory.UnitaryStd.form_bijective_of_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:45:15.900798+00:00
 -- url     : https://prove2.me/theorems/ededc2e8-2bf2-448b-a951-e1d78282931d

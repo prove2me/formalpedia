@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormUnits_fg_quot_intUnits
 -- name    : GlobalTheory.NormUnits.fg_quot_intUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:36:34.428469+00:00
 -- url     : https://prove2.me/theorems/615df047-f9aa-4872-9495-9203dff3ecec

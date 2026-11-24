@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIso_thickening_map_of_mod_eps
 -- name    : GlobalTheory.T.isIso_thickening_map_of_mod_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:51:04.775263+00:00
 -- url     : https://prove2.me/theorems/ff3d64ff-d082-473c-aebd-8f295264a0c9

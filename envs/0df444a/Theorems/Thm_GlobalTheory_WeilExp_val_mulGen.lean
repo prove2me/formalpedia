@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilExp_val_mulGen
 -- name    : GlobalTheory.WeilExp.val_mulGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:35.554714+00:00
 -- url     : https://prove2.me/theorems/f02fee38-cd87-4bb4-a4ba-f8044aaa4c18

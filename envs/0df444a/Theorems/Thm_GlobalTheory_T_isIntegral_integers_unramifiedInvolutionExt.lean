@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_integers_unramifiedInvolutionExt
 -- name    : GlobalTheory.T.isIntegral_integers_unramifiedInvolutionExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:17:25.344897+00:00
 -- url     : https://prove2.me/theorems/9e153b69-a851-434b-9b9d-5209cefdf933

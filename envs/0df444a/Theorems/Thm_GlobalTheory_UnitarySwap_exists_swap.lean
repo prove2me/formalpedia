@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_exists_swap
 -- name    : GlobalTheory.UnitarySwap.exists_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:46:30.259402+00:00
 -- url     : https://prove2.me/theorems/69574163-d44d-4c29-952a-2e438a0317d0

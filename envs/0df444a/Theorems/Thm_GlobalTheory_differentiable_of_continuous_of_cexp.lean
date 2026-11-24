@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiable_of_continuous_of_cexp
 -- name    : GlobalTheory.differentiable_of_continuous_of_cexp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:04.786257+00:00
 -- url     : https://prove2.me/theorems/4e0c0f9d-3325-4c54-ab94-f317736f01d5

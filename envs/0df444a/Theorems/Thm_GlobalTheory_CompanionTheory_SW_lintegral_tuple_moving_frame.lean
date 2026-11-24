@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_lintegral_tuple_moving_frame
 -- name    : GlobalTheory.CompanionTheory.SW.lintegral_tuple_moving_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:12:29.737173+00:00
 -- url     : https://prove2.me/theorems/6eb848c9-9f34-4441-9a16-58c4f3197413

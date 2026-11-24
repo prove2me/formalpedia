@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FirstOrderNbhd_exists_mem_ideal_of_lift
 -- name    : GlobalTheory.CompanionTheory.FirstOrderNbhd.exists_mem_ideal_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:22:34.89837+00:00
 -- url     : https://prove2.me/theorems/3b2c1a59-b9de-4d9e-8606-5efb5537992e

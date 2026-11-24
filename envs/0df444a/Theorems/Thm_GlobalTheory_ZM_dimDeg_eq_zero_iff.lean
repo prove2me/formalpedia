@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_dimDeg_eq_zero_iff
 -- name    : GlobalTheory.ZM.dimDeg_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:02:37.579625+00:00
 -- url     : https://prove2.me/theorems/3fc4d1b7-6fbe-4d7c-8298-534db926a9d3

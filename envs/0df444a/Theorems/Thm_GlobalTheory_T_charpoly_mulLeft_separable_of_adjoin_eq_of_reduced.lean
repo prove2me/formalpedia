@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_charpoly_mulLeft_separable_of_adjoin_eq_of_reduced
 -- name    : GlobalTheory.T.charpoly_mulLeft_separable_of_adjoin_eq_of_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:29:07.757802+00:00
 -- url     : https://prove2.me/theorems/d8d441e3-aefb-48d4-94e3-41d44e934a64

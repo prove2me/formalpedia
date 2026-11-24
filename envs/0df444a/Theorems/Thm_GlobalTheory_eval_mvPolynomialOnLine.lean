@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eval_mvPolynomialOnLine
 -- name    : GlobalTheory.eval_mvPolynomialOnLine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:19:41.686297+00:00
 -- url     : https://prove2.me/theorems/c26f4543-4dbd-4e65-9179-7fde8f0b0370

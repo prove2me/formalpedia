@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_VacShape_pv_of_ph
 -- name    : GlobalTheory.Phase.VacShape.pv_of_ph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:54:07.877799+00:00
 -- url     : https://prove2.me/theorems/f124620f-cd48-4006-b079-a79dbb556aa3

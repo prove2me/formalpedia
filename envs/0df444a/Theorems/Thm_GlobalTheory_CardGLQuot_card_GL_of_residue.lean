@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CardGLQuot_card_GL_of_residue
 -- name    : GlobalTheory.CardGLQuot.card_GL_of_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:21:28.940634+00:00
 -- url     : https://prove2.me/theorems/bb7f66c8-611a-48c0-9525-1cbd1f3a824e

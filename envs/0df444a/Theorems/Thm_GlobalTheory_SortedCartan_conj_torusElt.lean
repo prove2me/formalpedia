@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SortedCartan_conj_torusElt
 -- name    : GlobalTheory.SortedCartan.conj_torusElt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:11:56.028069+00:00
 -- url     : https://prove2.me/theorems/d3848fad-28a2-4d96-af7b-e79f352a825a

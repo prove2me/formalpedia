@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dlog_mul
 -- name    : GlobalTheory.dlog_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:12.687808+00:00
 -- url     : https://prove2.me/theorems/e2e4819a-09ad-4bf2-9638-37245dbd665a

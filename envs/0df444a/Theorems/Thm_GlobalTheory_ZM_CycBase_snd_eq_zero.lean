@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_CycBase_snd_eq_zero
 -- name    : GlobalTheory.ZM.CycBase.snd_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:49.274147+00:00
 -- url     : https://prove2.me/theorems/0d9190b7-088f-4669-bf9e-7c01d244a04a

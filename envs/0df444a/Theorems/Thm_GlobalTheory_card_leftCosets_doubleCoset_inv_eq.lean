@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_leftCosets_doubleCoset_inv_eq
 -- name    : GlobalTheory.card_leftCosets_doubleCoset_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:34.876199+00:00
 -- url     : https://prove2.me/theorems/9db76440-6f1e-49f1-b8ed-a1191c6b613f

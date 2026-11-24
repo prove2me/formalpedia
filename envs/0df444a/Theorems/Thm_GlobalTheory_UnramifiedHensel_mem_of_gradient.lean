@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedHensel_mem_of_gradient
 -- name    : GlobalTheory.UnramifiedHensel.mem_of_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:08:45.111364+00:00
 -- url     : https://prove2.me/theorems/2afaf070-826f-4a96-9406-e3c96713c222

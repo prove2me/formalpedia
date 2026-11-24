@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VectorInclusion_main
 -- name    : GlobalTheory.VectorInclusion.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:51:22.077308+00:00
 -- url     : https://prove2.me/theorems/f0c7d180-79f6-4ef8-b896-72842b04d052

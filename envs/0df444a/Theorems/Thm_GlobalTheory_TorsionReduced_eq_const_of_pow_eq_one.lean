@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionReduced_eq_const_of_pow_eq_one
 -- name    : GlobalTheory.TorsionReduced.eq_const_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:37.024279+00:00
 -- url     : https://prove2.me/theorems/065a7e7b-8f6b-4f02-b581-52cd10968f12

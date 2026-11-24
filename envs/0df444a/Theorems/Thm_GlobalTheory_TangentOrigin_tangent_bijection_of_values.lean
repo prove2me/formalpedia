@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentOrigin_tangent_bijection_of_values
 -- name    : GlobalTheory.TangentOrigin.tangent_bijection_of_values
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:29.240705+00:00
 -- url     : https://prove2.me/theorems/4581a6d1-7b51-4ef9-bb8e-ec1612ef9448

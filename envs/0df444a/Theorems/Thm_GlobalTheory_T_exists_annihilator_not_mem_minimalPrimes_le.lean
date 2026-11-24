@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_annihilator_not_mem_minimalPrimes_le
 -- name    : GlobalTheory.T.exists_annihilator_not_mem_minimalPrimes_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:34:28.817678+00:00
 -- url     : https://prove2.me/theorems/8cb6dd11-9096-4390-9b60-0a660ef6aa9d

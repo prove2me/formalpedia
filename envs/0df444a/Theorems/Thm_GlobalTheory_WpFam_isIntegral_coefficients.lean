@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_isIntegral_coefficients
 -- name    : GlobalTheory.WpFam.isIntegral_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:56:07.464834+00:00
 -- url     : https://prove2.me/theorems/d4c15a69-9920-47d6-8eb4-60f1309f1998

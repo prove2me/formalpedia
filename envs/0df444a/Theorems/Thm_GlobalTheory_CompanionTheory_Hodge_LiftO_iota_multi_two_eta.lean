@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_iota_multi_two_eta
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.iota_multi_two_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:21:32.907508+00:00
 -- url     : https://prove2.me/theorems/ce840c29-03a5-41fc-af2d-d3b14fcbe8c2

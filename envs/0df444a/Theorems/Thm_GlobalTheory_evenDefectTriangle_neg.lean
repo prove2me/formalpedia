@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_evenDefectTriangle_neg
 -- name    : GlobalTheory.evenDefectTriangle_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:20:03.46773+00:00
 -- url     : https://prove2.me/theorems/308d8909-009c-436e-9280-ce2a90360b98

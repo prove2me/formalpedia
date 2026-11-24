@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_CoD_key
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.CoD.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:23:20.474607+00:00
 -- url     : https://prove2.me/theorems/0997d5a6-19f3-42d1-8706-b4a57b550d34

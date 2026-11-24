@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_norm_le_one_of_root
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.norm_le_one_of_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:28:00.496201+00:00
 -- url     : https://prove2.me/theorems/57e96d3b-6b53-448c-b827-7f6fd5c50578

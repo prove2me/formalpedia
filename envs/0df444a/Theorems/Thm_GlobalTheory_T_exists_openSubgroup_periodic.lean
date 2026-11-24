@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_openSubgroup_periodic
 -- name    : GlobalTheory.T.exists_openSubgroup_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:36:47.619844+00:00
 -- url     : https://prove2.me/theorems/4290962d-bf65-4e59-9cc5-668336ea8510

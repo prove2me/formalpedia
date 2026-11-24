@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_telescope
 -- name    : GlobalTheory.MinorNorm.telescope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:28:27.338425+00:00
 -- url     : https://prove2.me/theorems/b801b4e8-648f-4ff7-9886-ce109f79451d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeTwoForm_wedge_functional_constant_on_image
 -- name    : GlobalTheory.CompanionTheory.HodgeTwoForm.wedge_functional_constant_on_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:24:51.683441+00:00
 -- url     : https://prove2.me/theorems/17aee82e-1ae3-437d-b7db-e98d3e4487bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_realExt
 -- name    : GlobalTheory.eq_realExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:17:49.93846+00:00
 -- url     : https://prove2.me/theorems/41fea6ca-5a5e-47ec-a7c6-fc51638fc8f5

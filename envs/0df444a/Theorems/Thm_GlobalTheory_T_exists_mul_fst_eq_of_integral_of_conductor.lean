@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_mul_fst_eq_of_integral_of_conductor
 -- name    : GlobalTheory.T.exists_mul_fst_eq_of_integral_of_conductor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:50.057307+00:00
 -- url     : https://prove2.me/theorems/d912e242-135f-415b-a68d-0cce9365b3ad

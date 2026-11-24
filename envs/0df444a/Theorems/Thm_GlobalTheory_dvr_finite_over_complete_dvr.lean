@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dvr_finite_over_complete_dvr
 -- name    : GlobalTheory.dvr_finite_over_complete_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:18:44.662455+00:00
 -- url     : https://prove2.me/theorems/c6499c73-18ec-4f0c-bcf9-22796c4204f9

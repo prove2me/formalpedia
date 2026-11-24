@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_Adapted_conj_mem_R
 -- name    : GlobalTheory.CollapseCompare.Adapted.conj_mem_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:19:50.385485+00:00
 -- url     : https://prove2.me/theorems/ed2c06a7-26dd-4904-a083-e4d57833b279

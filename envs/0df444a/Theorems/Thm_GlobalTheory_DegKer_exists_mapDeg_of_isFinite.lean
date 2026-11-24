@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegKer_exists_mapDeg_of_isFinite
 -- name    : GlobalTheory.DegKer.exists_mapDeg_of_isFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:59:18.513303+00:00
 -- url     : https://prove2.me/theorems/08cc910d-da76-4347-9e36-e8c8e5101f8d

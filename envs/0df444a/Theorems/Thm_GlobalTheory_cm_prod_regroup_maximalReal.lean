@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cm_prod_regroup_maximalReal
 -- name    : GlobalTheory.cm_prod_regroup_maximalReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:41.307546+00:00
 -- url     : https://prove2.me/theorems/cb073eb5-e553-4e94-8d37-d611aedc2b8a

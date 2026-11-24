@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_NearBuild_densePrimes_localization
 -- name    : GlobalTheory.ZM.NearBuild.densePrimes_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:02:42.722937+00:00
 -- url     : https://prove2.me/theorems/56004690-49e0-4caa-bf9c-c0398c274fc9

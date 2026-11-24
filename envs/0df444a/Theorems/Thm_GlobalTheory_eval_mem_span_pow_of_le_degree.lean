@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eval_mem_span_pow_of_le_degree
 -- name    : GlobalTheory.eval_mem_span_pow_of_le_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:20:08.865448+00:00
 -- url     : https://prove2.me/theorems/57ec4f26-4493-43d1-9557-903b8d73bf83

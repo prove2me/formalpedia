@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UniformLattices_perp_mem_nhds
 -- name    : GlobalTheory.RootEx.UniformLattices.perp_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:12:17.597779+00:00
 -- url     : https://prove2.me/theorems/f539f93c-6e44-484c-851e-9439e7abf11a

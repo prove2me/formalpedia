@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_evBasic_tEval_of_le
 -- name    : GlobalTheory.evBasic_tEval_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:20:14.602449+00:00
 -- url     : https://prove2.me/theorems/2e7b9fec-0d95-4f46-adbe-5cc917f84230

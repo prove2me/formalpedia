@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_vAmp_comp_equiv
 -- name    : GlobalTheory.ZV.vAmp_comp_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:36.225744+00:00
 -- url     : https://prove2.me/theorems/0360517f-17b9-4a0d-a7e8-ee73114a88fa

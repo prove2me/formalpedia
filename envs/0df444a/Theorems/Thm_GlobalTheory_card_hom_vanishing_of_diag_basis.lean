@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_hom_vanishing_of_diag_basis
 -- name    : GlobalTheory.card_hom_vanishing_of_diag_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:06:58.700394+00:00
 -- url     : https://prove2.me/theorems/c878decd-297d-4be8-a00d-940b9e95d8d1

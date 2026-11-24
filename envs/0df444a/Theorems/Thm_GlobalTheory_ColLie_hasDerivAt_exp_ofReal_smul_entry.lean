@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColLie_hasDerivAt_exp_ofReal_smul_entry
 -- name    : GlobalTheory.ColLie.hasDerivAt_exp_ofReal_smul_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:28:56.452242+00:00
 -- url     : https://prove2.me/theorems/d8d8ad2b-7154-4126-81de-c773cc8890fd

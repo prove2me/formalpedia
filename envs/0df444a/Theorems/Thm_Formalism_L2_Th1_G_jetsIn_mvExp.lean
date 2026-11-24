@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jetsIn_mvExp
 -- name    : Formalism.L2.Th1.G.jetsIn_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:43:46.813572+00:00
 -- url     : https://prove2.me/theorems/9675e982-a3e6-40f2-86cf-29a396b7e0a5

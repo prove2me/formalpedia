@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightedInverseBound_isUnit_det_of_coercive
 -- name    : GlobalTheory.WeightedInverseBound.isUnit_det_of_coercive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:53:21.551876+00:00
 -- url     : https://prove2.me/theorems/f14ff484-55d6-457c-b769-9834ffffaee6

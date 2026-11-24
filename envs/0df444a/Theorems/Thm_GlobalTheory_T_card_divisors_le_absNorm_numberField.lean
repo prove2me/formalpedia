@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_divisors_le_absNorm_numberField
 -- name    : GlobalTheory.T.card_divisors_le_absNorm_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:26:47.240313+00:00
 -- url     : https://prove2.me/theorems/caafc140-e17f-4e8a-a540-3caef8b65f69

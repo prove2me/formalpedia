@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_fromBlocks_corner
 -- name    : GlobalTheory.det_fromBlocks_corner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:06.399696+00:00
 -- url     : https://prove2.me/theorems/32fe4eac-515a-473e-a7e6-c2dd36baf231

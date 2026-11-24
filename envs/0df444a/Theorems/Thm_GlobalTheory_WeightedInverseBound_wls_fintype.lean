@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightedInverseBound_wls_fintype
 -- name    : GlobalTheory.WeightedInverseBound.wls_fintype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:54.3578+00:00
 -- url     : https://prove2.me/theorems/afbe2023-fcde-4d49-825a-1eef7233d2d7

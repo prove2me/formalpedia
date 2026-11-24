@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymShape_sym_shape
 -- name    : GlobalTheory.SymShape.sym_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:20:48.375254+00:00
 -- url     : https://prove2.me/theorems/1966a930-8639-4121-a6fc-8fdf5b55bde5

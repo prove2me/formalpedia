@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqTopology_isInducing_mat
 -- name    : GlobalTheory.UpqTopology.isInducing_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:37:08.065014+00:00
 -- url     : https://prove2.me/theorems/821bcd6c-8a7a-4e67-8ab4-fcf2e664b368

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sec_eq_zero_of_sval_whiskerRight_eq_zero
 -- name    : GlobalTheory.sec_eq_zero_of_sval_whiskerRight_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:00.177795+00:00
 -- url     : https://prove2.me/theorems/bcfed97c-a610-44cf-92aa-69ecc6ce8299

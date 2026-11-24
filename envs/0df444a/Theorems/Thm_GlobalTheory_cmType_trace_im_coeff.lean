@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cmType_trace_im_coeff
 -- name    : GlobalTheory.cmType_trace_im_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:41.941984+00:00
 -- url     : https://prove2.me/theorems/0248eac2-6c49-403c-93a3-39e39d2991d6

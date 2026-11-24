@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_LocalCoord_exists_secCoord_of_chart
 -- name    : GlobalTheory.ZM.LocalCoord.exists_secCoord_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:02:29.263696+00:00
 -- url     : https://prove2.me/theorems/79597248-dba6-4d25-ba12-7c64a89f846a

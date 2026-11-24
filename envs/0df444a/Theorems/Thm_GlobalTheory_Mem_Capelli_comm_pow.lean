@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Capelli_comm_pow
 -- name    : GlobalTheory.Mem.Capelli.comm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:28:19.005049+00:00
 -- url     : https://prove2.me/theorems/c7442b4e-345d-4d47-b480-f20a1453021e

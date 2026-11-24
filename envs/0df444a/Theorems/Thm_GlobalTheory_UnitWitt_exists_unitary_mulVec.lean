@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitWitt_exists_unitary_mulVec
 -- name    : GlobalTheory.UnitWitt.exists_unitary_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:56.551772+00:00
 -- url     : https://prove2.me/theorems/bc5c3535-3e96-4228-8aee-282120647ba5

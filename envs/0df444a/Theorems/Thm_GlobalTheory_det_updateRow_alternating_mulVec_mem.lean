@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_updateRow_alternating_mulVec_mem
 -- name    : GlobalTheory.det_updateRow_alternating_mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:41.774195+00:00
 -- url     : https://prove2.me/theorems/c6c91982-447d-4986-9b11-2dfab66dc565

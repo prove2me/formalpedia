@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_prim_cup
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.prim_cup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:25:51.230241+00:00
 -- url     : https://prove2.me/theorems/b30a09dd-25cc-4c01-8934-1027aa5648e4

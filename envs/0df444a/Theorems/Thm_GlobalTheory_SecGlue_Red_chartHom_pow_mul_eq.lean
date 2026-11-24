@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Red_chartHom_pow_mul_eq
 -- name    : GlobalTheory.SecGlue.Red.chartHom_pow_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:49:33.630683+00:00
 -- url     : https://prove2.me/theorems/8792b991-01b2-4564-856b-b2d7351b499e

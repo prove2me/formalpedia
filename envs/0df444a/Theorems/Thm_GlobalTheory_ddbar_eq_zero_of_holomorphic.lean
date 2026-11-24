@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ddbar_eq_zero_of_holomorphic
 -- name    : GlobalTheory.ddbar_eq_zero_of_holomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:14:26.639403+00:00
 -- url     : https://prove2.me/theorems/aa76649a-bf2d-400a-aedf-05c83b35e94a

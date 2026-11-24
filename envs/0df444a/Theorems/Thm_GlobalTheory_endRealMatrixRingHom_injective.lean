@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_endRealMatrixRingHom_injective
 -- name    : GlobalTheory.endRealMatrixRingHom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:46.071013+00:00
 -- url     : https://prove2.me/theorems/1d44db19-5bb6-4037-9a12-e4d9ca649d58

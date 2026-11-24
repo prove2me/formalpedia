@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeTwoForm_Lf_ev
 -- name    : GlobalTheory.CompanionTheory.HodgeTwoForm.Lf_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:24:00.062368+00:00
 -- url     : https://prove2.me/theorems/68c7f50e-2914-4ba0-b1ba-d9dcfeaa60e8

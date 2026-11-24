@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_closed_of_sum
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.closed_of_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:25:51.591824+00:00
 -- url     : https://prove2.me/theorems/954e9ce5-f188-421f-9d2b-9d3abda77875

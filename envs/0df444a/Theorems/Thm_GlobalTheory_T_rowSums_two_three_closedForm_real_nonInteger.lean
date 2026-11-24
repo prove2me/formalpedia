@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rowSums_two_three_closedForm_real_nonInteger
 -- name    : GlobalTheory.T.rowSums_two_three_closedForm_real_nonInteger
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:13.056227+00:00
 -- url     : https://prove2.me/theorems/eb984080-e315-4c3c-bd5d-9ec83885b241

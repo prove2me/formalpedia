@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_isTilde_iff
 -- name    : GlobalTheory.WeilM.isTilde_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:55:13.085844+00:00
 -- url     : https://prove2.me/theorems/c19b57fa-b93e-4d26-864f-c5c7cf17e670

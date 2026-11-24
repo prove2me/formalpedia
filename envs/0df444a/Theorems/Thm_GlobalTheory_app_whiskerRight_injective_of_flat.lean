@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_app_whiskerRight_injective_of_flat
 -- name    : GlobalTheory.app_whiskerRight_injective_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:45.881478+00:00
 -- url     : https://prove2.me/theorems/1617bc00-9ee7-4d7a-b409-bbd3427138fb

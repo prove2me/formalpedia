@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_sim_cob
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.sim_cob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:02:52.792548+00:00
 -- url     : https://prove2.me/theorems/78333620-9ad6-4c00-beb4-8298f13077ac

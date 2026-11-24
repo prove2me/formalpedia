@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_frobenius_on_ring_a
 -- name    : Formalism.L2.Th1.D.frobenius_on_ring_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:52:54.374771+00:00
 -- url     : https://prove2.me/theorems/42a77de6-2ab7-4328-ab0f-14c0d0ddcad9

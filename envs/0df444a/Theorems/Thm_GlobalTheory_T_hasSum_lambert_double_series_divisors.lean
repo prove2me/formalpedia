@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_lambert_double_series_divisors
 -- name    : GlobalTheory.T.hasSum_lambert_double_series_divisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:43:54.629063+00:00
 -- url     : https://prove2.me/theorems/30ee4760-d45d-4a05-8cbb-9654dc514022

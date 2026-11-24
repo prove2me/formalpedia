@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AffAcyc_altSum
 -- name    : GlobalTheory.CompanionTheory.AffAcyc.altSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:25:59.443826+00:00
 -- url     : https://prove2.me/theorems/b8d8a2bd-e8cb-4f6d-9887-f1c4b0006b5b

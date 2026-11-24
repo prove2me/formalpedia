@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_factor_unique
 -- name    : GlobalTheory.CompanionTheory.AxForm.factor_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:23:03.907121+00:00
 -- url     : https://prove2.me/theorems/53dffc84-759e-4012-9d59-3a8552cb7c64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eigDim_aeval_map
 -- name    : GlobalTheory.eigDim_aeval_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:35.258798+00:00
 -- url     : https://prove2.me/theorems/424a8eda-f252-4a1c-8e0e-940f0cc718d6

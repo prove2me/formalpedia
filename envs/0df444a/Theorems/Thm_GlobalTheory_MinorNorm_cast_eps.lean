@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_cast_eps
 -- name    : GlobalTheory.MinorNorm.cast_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:28:13.198565+00:00
 -- url     : https://prove2.me/theorems/4e8ae95d-1274-49e5-9945-3fc8f831ea1d

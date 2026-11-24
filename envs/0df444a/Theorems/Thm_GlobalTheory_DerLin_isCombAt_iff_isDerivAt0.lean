@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerLin_isCombAt_iff_isDerivAt0
 -- name    : GlobalTheory.DerLin.isCombAt_iff_isDerivAt0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:12:48.004447+00:00
 -- url     : https://prove2.me/theorems/5688419d-9bfe-4269-a8de-2238b7bb40aa

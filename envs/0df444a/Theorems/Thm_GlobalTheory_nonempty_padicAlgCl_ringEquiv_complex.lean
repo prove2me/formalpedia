@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_padicAlgCl_ringEquiv_complex
 -- name    : GlobalTheory.nonempty_padicAlgCl_ringEquiv_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:01:01.509796+00:00
 -- url     : https://prove2.me/theorems/0621c0c7-cb6c-49e2-827a-51cdbef6ac43

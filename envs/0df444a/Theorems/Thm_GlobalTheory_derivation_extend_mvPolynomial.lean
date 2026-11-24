@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_derivation_extend_mvPolynomial
 -- name    : GlobalTheory.derivation_extend_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:15:58.836662+00:00
 -- url     : https://prove2.me/theorems/68c94f0f-8a77-4b41-b3ca-e34e86dae8e3

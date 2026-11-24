@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBProdExt_exists_linear_bijOn_prod
 -- name    : GlobalTheory.SBProdExt.exists_linear_bijOn_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:32:16.433117+00:00
 -- url     : https://prove2.me/theorems/87c043bf-a9ee-4384-9049-9d5b00f8198a

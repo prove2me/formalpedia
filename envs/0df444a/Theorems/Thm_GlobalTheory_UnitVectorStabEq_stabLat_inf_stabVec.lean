@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitVectorStabEq_stabLat_inf_stabVec
 -- name    : GlobalTheory.UnitVectorStabEq.stabLat_inf_stabVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:39:01.532419+00:00
 -- url     : https://prove2.me/theorems/6c39ee0d-f7c6-4a57-8f16-f5f26926fbd2

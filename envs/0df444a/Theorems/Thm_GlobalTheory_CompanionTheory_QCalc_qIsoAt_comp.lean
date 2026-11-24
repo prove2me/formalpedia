@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QCalc_qIsoAt_comp
 -- name    : GlobalTheory.CompanionTheory.QCalc.qIsoAt_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:17.945217+00:00
 -- url     : https://prove2.me/theorems/e8f787e0-cf0f-43ba-8c9c-0e49b0769eb4

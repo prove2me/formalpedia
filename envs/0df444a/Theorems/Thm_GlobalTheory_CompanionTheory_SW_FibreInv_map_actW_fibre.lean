@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreInv_map_actW_fibre
 -- name    : GlobalTheory.CompanionTheory.SW.FibreInv.map_actW_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:04:22.023804+00:00
 -- url     : https://prove2.me/theorems/282945bd-54f4-4fe1-aa75-de878607f09e

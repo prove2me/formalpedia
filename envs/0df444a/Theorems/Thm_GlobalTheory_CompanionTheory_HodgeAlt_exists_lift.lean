@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_exists_lift
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:25:35.775336+00:00
 -- url     : https://prove2.me/theorems/cfef79d4-3b92-4b0d-b55c-e2f29767ae47

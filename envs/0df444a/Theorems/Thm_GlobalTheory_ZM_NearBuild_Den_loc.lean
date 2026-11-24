@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_NearBuild_Den_loc
 -- name    : GlobalTheory.ZM.NearBuild.Den.loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:15:23.696291+00:00
 -- url     : https://prove2.me/theorems/fc0c568f-595f-4353-ad79-e4e7bc11b4ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_formal_branches_of_separable_reduction
 -- name    : GlobalTheory.T.exists_formal_branches_of_separable_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:40:34.593019+00:00
 -- url     : https://prove2.me/theorems/21fac5b6-cce9-4b4a-9a77-1eaf018425a2

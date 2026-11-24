@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubN_descent_telescope
 -- name    : GlobalTheory.cubN_descent_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:15:29.651034+00:00
 -- url     : https://prove2.me/theorems/572cffe7-0f41-4250-9b17-265c3e4572ec

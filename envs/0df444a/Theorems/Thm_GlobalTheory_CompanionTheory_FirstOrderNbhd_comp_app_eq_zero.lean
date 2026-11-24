@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FirstOrderNbhd_comp_app_eq_zero
 -- name    : GlobalTheory.CompanionTheory.FirstOrderNbhd.comp_app_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:21:51.433558+00:00
 -- url     : https://prove2.me/theorems/d0463a14-b4fa-4f86-9091-86c22ad7a82b

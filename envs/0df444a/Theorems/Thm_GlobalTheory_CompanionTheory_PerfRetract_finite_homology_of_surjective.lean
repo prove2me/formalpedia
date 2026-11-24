@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfRetract_finite_homology_of_surjective
 -- name    : GlobalTheory.CompanionTheory.PerfRetract.finite_homology_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:26:51.808718+00:00
 -- url     : https://prove2.me/theorems/4d421504-7586-4316-bd0a-f0ed3b4075df

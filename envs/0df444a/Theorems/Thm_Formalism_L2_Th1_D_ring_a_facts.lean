@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_ring_a_facts
 -- name    : Formalism.L2.Th1.D.ring_a_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:11:42.804351+00:00
 -- url     : https://prove2.me/theorems/777fdd8b-219a-4496-8ef8-b72ba90bbfd6

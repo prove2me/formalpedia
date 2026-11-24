@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCriterion_exists_isInvariantRadon
 -- name    : GlobalTheory.WeilCriterion.exists_isInvariantRadon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:52:38.120975+00:00
 -- url     : https://prove2.me/theorems/e965b857-be2a-4d61-91a3-fa966ee60d30

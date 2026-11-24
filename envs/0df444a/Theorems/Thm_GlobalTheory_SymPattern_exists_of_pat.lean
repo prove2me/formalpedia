@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymPattern_exists_of_pat
 -- name    : GlobalTheory.SymPattern.exists_of_pat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:20:09.237667+00:00
 -- url     : https://prove2.me/theorems/946ebecc-658c-4720-8974-038b16162f91

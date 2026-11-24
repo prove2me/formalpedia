@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_residue_comap_involution_iff
 -- name    : GlobalTheory.T.isIntegral_residue_comap_involution_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:50:49.014493+00:00
 -- url     : https://prove2.me/theorems/5bdde103-f5db-4ad3-b9de-8cdff564b536

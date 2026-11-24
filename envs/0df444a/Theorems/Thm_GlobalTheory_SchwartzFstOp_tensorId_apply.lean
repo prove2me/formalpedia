@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzFstOp_tensorId_apply
 -- name    : GlobalTheory.SchwartzFstOp.tensorId_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:29:53.84496+00:00
 -- url     : https://prove2.me/theorems/3268b420-6b3f-494e-b606-71af22011cd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_surj_of_sum
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.surj_of_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:25:20.865602+00:00
 -- url     : https://prove2.me/theorems/f5a3a420-e6f8-4abb-aaa3-7af3a4674622

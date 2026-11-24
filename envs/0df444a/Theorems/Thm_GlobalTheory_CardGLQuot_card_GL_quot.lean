@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CardGLQuot_card_GL_quot
 -- name    : GlobalTheory.CardGLQuot.card_GL_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:21:28.922259+00:00
 -- url     : https://prove2.me/theorems/fff0e29f-4d39-4254-add3-0bba4b515a3f

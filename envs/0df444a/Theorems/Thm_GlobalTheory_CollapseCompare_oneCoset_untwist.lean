@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_oneCoset_untwist
 -- name    : GlobalTheory.CollapseCompare.oneCoset_untwist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:20:05.557964+00:00
 -- url     : https://prove2.me/theorems/c395fd52-4d57-41ec-867f-6ba971bbb22c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_wd_apply
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.wd_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:26:01.835196+00:00
 -- url     : https://prove2.me/theorems/9745700c-ecec-48c8-88a7-661e13e92d64

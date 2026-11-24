@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_continuous_readRow
 -- name    : GlobalTheory.LocFlat.continuous_readRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:27:53.259946+00:00
 -- url     : https://prove2.me/theorems/5de7d75d-e17a-4de9-8ca6-89ec17943d92

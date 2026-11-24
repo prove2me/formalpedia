@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventually_mixedExpUnit_mixedLog
 -- name    : GlobalTheory.eventually_mixedExpUnit_mixedLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:19:38.208535+00:00
 -- url     : https://prove2.me/theorems/2f634c0b-644e-4ca0-a6b5-972141bbecc5

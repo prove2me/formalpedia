@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_trace_int
 -- name    : GlobalTheory.UnitLemma.Unr.trace_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:38:16.548077+00:00
 -- url     : https://prove2.me/theorems/bbc80671-b9f4-4820-ad7c-d95a558d3d94

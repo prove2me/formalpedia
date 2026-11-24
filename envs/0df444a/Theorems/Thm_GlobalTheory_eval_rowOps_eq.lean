@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eval_rowOps_eq
 -- name    : GlobalTheory.eval_rowOps_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:19:48.534826+00:00
 -- url     : https://prove2.me/theorems/6be09ad1-ad00-4d2d-87af-926522cd657e

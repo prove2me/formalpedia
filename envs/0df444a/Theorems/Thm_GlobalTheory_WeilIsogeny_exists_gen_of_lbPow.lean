@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilIsogeny_exists_gen_of_lbPow
 -- name    : GlobalTheory.WeilIsogeny.exists_gen_of_lbPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:26.955463+00:00
 -- url     : https://prove2.me/theorems/712d7979-a6b1-49e9-9f25-812c3efb4955

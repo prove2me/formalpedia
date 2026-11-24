@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cayleyInv_skew
 -- name    : GlobalTheory.cayleyInv_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:07:50.591606+00:00
 -- url     : https://prove2.me/theorems/91dc92f0-8b9f-438a-8732-c077ce66ff18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_discr_closure_pair
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.discr_closure_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:37:27.228841+00:00
 -- url     : https://prove2.me/theorems/5090a84c-1d75-424a-a1d8-464bc1087f8d

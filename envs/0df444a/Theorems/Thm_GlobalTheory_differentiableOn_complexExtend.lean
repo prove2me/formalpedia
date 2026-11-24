@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_complexExtend
 -- name    : GlobalTheory.differentiableOn_complexExtend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:18:56.387721+00:00
 -- url     : https://prove2.me/theorems/b75038e1-b247-43a0-9643-47ae3aaf2b47

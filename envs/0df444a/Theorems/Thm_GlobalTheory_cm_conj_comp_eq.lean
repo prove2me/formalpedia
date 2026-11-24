@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cm_conj_comp_eq
 -- name    : GlobalTheory.cm_conj_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:34.694264+00:00
 -- url     : https://prove2.me/theorems/09b8da1b-9b2b-409b-b968-333413f07428

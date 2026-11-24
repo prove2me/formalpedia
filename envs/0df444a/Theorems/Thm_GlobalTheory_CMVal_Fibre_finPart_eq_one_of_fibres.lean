@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Fibre_finPart_eq_one_of_fibres
 -- name    : GlobalTheory.CMVal.Fibre.finPart_eq_one_of_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:04:32.668081+00:00
 -- url     : https://prove2.me/theorems/c3b5f2ef-bf2d-449e-ac33-906a0a499f31

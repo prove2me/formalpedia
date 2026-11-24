@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_exists_gen_of_small_extension
 -- name    : GlobalTheory.SmallExtLift.exists_gen_of_small_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:18:09.563804+00:00
 -- url     : https://prove2.me/theorems/d72e73ec-329a-4a24-85eb-14661552c1c8

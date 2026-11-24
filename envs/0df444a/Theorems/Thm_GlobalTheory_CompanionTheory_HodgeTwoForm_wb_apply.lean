@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeTwoForm_wb_apply
 -- name    : GlobalTheory.CompanionTheory.HodgeTwoForm.wb_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:24:07.816493+00:00
 -- url     : https://prove2.me/theorems/31358c32-b99e-4831-8e40-6281838cea75

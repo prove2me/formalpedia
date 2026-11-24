@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_doublingIterate
 -- name    : GlobalTheory.differentiableOn_doublingIterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:18.738319+00:00
 -- url     : https://prove2.me/theorems/ac2caaef-7c70-4da3-a9f9-4a39d0880c16

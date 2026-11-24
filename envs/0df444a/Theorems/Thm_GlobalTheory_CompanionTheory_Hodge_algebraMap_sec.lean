@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_algebraMap_sec
 -- name    : GlobalTheory.CompanionTheory.Hodge.algebraMap_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:25:35.835554+00:00
 -- url     : https://prove2.me/theorems/3b7da895-e8d7-4e0b-86a2-ccf4dbbd973d

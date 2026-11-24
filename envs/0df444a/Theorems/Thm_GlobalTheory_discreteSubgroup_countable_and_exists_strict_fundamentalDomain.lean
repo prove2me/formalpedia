@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discreteSubgroup_countable_and_exists_strict_fundamentalDomain
 -- name    : GlobalTheory.discreteSubgroup_countable_and_exists_strict_fundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:15:56.611995+00:00
 -- url     : https://prove2.me/theorems/8103ac30-2b65-49c6-af87-c6d48d181894

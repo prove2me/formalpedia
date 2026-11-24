@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AffAcyc_loc1
 -- name    : GlobalTheory.CompanionTheory.AffAcyc.loc1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:25:15.116275+00:00
 -- url     : https://prove2.me/theorems/fb1ea41a-4592-4093-b921-79a538c5b73e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_label_card_le
 -- name    : Formalism.CohomologicalDescent.label_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:30:03.971669+00:00
 -- url     : https://prove2.me/theorems/02437436-7db6-49bf-936d-d44d6086ed71

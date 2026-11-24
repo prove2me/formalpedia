@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuousOn_wd_of_contDiffOn_one_isOpen
 -- name    : GlobalTheory.continuousOn_wd_of_contDiffOn_one_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:27.265613+00:00
 -- url     : https://prove2.me/theorems/6bdb8581-4876-4f07-a794-e81f7db26490

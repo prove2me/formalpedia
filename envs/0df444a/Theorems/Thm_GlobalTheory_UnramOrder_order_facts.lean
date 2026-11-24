@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_order_facts
 -- name    : GlobalTheory.UnramOrder.order_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:17:05.027801+00:00
 -- url     : https://prove2.me/theorems/3927128b-bdef-4840-8398-bed7e2305af4

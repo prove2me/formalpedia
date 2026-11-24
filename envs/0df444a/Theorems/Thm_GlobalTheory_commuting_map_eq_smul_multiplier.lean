@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_commuting_map_eq_smul_multiplier
 -- name    : GlobalTheory.commuting_map_eq_smul_multiplier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:11:29.28485+00:00
 -- url     : https://prove2.me/theorems/fe2738a2-99b2-416e-84ad-73470a26a9b0

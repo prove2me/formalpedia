@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_dS_le_mul
 -- name    : Formalism.L2.LamCM.Dx.dS_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:18:24.490534+00:00
 -- url     : https://prove2.me/theorems/d6b0ceca-b03c-41e4-b14d-0095211056eb

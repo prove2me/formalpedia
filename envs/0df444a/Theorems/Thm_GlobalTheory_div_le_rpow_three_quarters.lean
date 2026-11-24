@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_div_le_rpow_three_quarters
 -- name    : GlobalTheory.div_le_rpow_three_quarters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:16:57.572782+00:00
 -- url     : https://prove2.me/theorems/5b1b2fd9-c98e-4ff4-97b7-0cf54d772eff

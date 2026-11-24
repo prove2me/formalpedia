@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_doubleCoset_semidirect_surj
 -- name    : GlobalTheory.doubleCoset_semidirect_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:38.282267+00:00
 -- url     : https://prove2.me/theorems/945ec400-a7b8-492b-a34b-712efa0a99ef

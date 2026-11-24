@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_norm_weighted_least_squares_le
 -- name    : GlobalTheory.T.exists_norm_weighted_least_squares_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:37:12.631805+00:00
 -- url     : https://prove2.me/theorems/946d545c-69f0-4089-b4c5-bd36b436bac7

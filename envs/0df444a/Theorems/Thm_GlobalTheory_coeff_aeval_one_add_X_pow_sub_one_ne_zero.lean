@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_aeval_one_add_X_pow_sub_one_ne_zero
 -- name    : GlobalTheory.coeff_aeval_one_add_X_pow_sub_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:09:13.864526+00:00
 -- url     : https://prove2.me/theorems/181c7889-4858-4e3c-a696-3667a03427a3

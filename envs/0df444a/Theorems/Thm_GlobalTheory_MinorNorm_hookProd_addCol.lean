@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_hookProd_addCol
 -- name    : GlobalTheory.MinorNorm.hookProd_addCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:28:18.580853+00:00
 -- url     : https://prove2.me/theorems/b8129166-83b8-4f40-b586-167d307bb9e2

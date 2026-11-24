@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_isLat_overExt_iff
 -- name    : GlobalTheory.UnitLemma.Unr.isLat_overExt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:38:20.689901+00:00
 -- url     : https://prove2.me/theorems/2b6acefd-5e02-4009-83fc-a1e4c634fc07

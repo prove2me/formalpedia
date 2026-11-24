@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_IsSig_unique
 -- name    : GlobalTheory.SA.IsSig.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:33:31.057848+00:00
 -- url     : https://prove2.me/theorems/7255da64-befd-4451-b52a-c1fff210ad92

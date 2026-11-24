@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_flatSB_isLocallyConstant_indicator
 -- name    : GlobalTheory.LocFlat.flatSB_isLocallyConstant_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:27:42.339804+00:00
 -- url     : https://prove2.me/theorems/6935d679-772c-4aae-8c54-cd9e478fcf76

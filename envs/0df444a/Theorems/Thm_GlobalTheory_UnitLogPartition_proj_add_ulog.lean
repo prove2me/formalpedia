@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLogPartition_proj_add_ulog
 -- name    : GlobalTheory.UnitLogPartition.proj_add_ulog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:38:17.046797+00:00
 -- url     : https://prove2.me/theorems/0441aa21-6640-40f7-8772-a51a33903a3c

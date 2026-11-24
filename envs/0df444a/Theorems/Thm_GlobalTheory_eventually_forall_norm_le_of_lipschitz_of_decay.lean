@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventually_forall_norm_le_of_lipschitz_of_decay
 -- name    : GlobalTheory.eventually_forall_norm_le_of_lipschitz_of_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:19:50.349581+00:00
 -- url     : https://prove2.me/theorems/642c7e2c-0523-4e9e-aeef-e9febcd435e0

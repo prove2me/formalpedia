@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_basis_unramifiedInvolutionExt
 -- name    : GlobalTheory.T.exists_integral_basis_unramifiedInvolutionExt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:08.45337+00:00
 -- url     : https://prove2.me/theorems/62f92b77-f310-45c5-9d9b-5e82364b07e0

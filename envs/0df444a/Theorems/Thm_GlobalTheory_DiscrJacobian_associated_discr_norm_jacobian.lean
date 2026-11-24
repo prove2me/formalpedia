@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobian_associated_discr_norm_jacobian
 -- name    : GlobalTheory.DiscrJacobian.associated_discr_norm_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:48:54.946267+00:00
 -- url     : https://prove2.me/theorems/68ec7ce0-ab5c-4ef8-b905-ca371fe93380

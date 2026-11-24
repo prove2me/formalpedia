@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_derOp_zero
 -- name    : GlobalTheory.SmoothForms.derOp_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:05.872205+00:00
 -- url     : https://prove2.me/theorems/87b7d532-ae7f-4d69-9bb0-e118891f2a44

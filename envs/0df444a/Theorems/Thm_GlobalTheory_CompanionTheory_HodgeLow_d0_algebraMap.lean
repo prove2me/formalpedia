@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeLow_d0_algebraMap
 -- name    : GlobalTheory.CompanionTheory.HodgeLow.d0_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:24:08.23054+00:00
 -- url     : https://prove2.me/theorems/32160367-5b3f-44e9-a91c-42ee5d2ffca1

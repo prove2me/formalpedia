@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isAdmissible_contra_and_smoothTrace_inv
 -- name    : GlobalTheory.T.isAdmissible_contra_and_smoothTrace_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:35.907304+00:00
 -- url     : https://prove2.me/theorems/bbf47ced-3a79-4ada-ad26-6344566819c9

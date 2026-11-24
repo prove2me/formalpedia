@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GalMean_galmean
 -- name    : GlobalTheory.GalMean.galmean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:14:18.091925+00:00
 -- url     : https://prove2.me/theorems/f727d73f-6fb7-4914-9ae2-e2c18d8d214a

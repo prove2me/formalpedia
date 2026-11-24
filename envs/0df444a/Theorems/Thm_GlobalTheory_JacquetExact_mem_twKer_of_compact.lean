@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacquetExact_mem_twKer_of_compact
 -- name    : GlobalTheory.JacquetExact.mem_twKer_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:09:47.126731+00:00
 -- url     : https://prove2.me/theorems/fef97909-7b42-437a-8c4b-99539fb4063d

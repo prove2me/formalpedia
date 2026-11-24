@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_derivation_sumAlgEquiv_eq_pderiv
 -- name    : GlobalTheory.derivation_sumAlgEquiv_eq_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:50.790895+00:00
 -- url     : https://prove2.me/theorems/734b65b0-1b79-4360-bb02-ef3700480de7

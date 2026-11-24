@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_cst_ne_zero
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.cst_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:13:27.025938+00:00
 -- url     : https://prove2.me/theorems/87d5cb38-d0a1-46c4-96a1-6dc1b65bbcf8

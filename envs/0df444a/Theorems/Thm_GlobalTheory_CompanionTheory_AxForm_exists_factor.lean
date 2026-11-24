@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_exists_factor
 -- name    : GlobalTheory.CompanionTheory.AxForm.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:23:26.40685+00:00
 -- url     : https://prove2.me/theorems/575cae8d-9c5d-40d1-8125-f4b9bcb85c4e

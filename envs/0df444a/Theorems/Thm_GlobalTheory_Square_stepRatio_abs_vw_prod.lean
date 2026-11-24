@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_stepRatio_abs_vw_prod
 -- name    : GlobalTheory.Square.stepRatio_abs_vw_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:19:13.049144+00:00
 -- url     : https://prove2.me/theorems/61c6834c-6d8f-4957-80c9-56d27e424b66

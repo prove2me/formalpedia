@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_siegelRule_split
 -- name    : GlobalTheory.WeilM.siegelRule_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:55:37.446067+00:00
 -- url     : https://prove2.me/theorems/8adc6a91-5c4f-4f21-9ee5-58bfab712fa5

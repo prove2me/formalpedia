@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_absOpInt
 -- name    : GlobalTheory.absOpInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:45:32.239572+00:00
 -- url     : https://prove2.me/theorems/d57b7efd-0622-48d1-ba74-3870900f7461

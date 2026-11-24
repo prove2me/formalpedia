@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_del_addCol
 -- name    : GlobalTheory.MinorNorm.del_addCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:27:58.350513+00:00
 -- url     : https://prove2.me/theorems/e9a63fdc-3a70-496d-b845-19e32f933665

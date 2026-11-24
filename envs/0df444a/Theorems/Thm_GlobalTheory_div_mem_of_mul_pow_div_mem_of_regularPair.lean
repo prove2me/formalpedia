@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_div_mem_of_mul_pow_div_mem_of_regularPair
 -- name    : GlobalTheory.div_mem_of_mul_pow_div_mem_of_regularPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:16:37.427364+00:00
 -- url     : https://prove2.me/theorems/5bd6f37a-9484-4693-9752-b9c3d9651017

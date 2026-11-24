@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_congAtA_iff_of_bounded
 -- name    : GlobalTheory.UnRep.Compare.congAtA_iff_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:23:19.270627+00:00
 -- url     : https://prove2.me/theorems/f3dea477-5f5c-4d81-b534-a66e3ad97400

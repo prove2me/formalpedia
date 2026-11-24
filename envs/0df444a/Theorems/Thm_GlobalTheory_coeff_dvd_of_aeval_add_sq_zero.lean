@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_dvd_of_aeval_add_sq_zero
 -- name    : GlobalTheory.coeff_dvd_of_aeval_add_sq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:57.256146+00:00
 -- url     : https://prove2.me/theorems/705e43ba-0e02-44d5-9bc6-e8f7412cbe4a

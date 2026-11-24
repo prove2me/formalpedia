@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AffAcyc_rf_nat
 -- name    : GlobalTheory.CompanionTheory.AffAcyc.rf_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:25:13.622725+00:00
 -- url     : https://prove2.me/theorems/6c4a91e1-4d7d-41d1-a0cd-3f1da839fdbf

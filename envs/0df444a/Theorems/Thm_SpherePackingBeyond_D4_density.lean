@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePackingBeyond_D4_density
 -- name    : SpherePackingBeyond.D4_density
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-21T22:38:56.073918+00:00
 -- url     : https://prove2.me/theorems/0138b720-513d-46d2-a5c9-b5f1b218ccb8

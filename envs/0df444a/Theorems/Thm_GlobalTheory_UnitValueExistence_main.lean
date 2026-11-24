@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitValueExistence_main
 -- name    : GlobalTheory.UnitValueExistence.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:39:06.958818+00:00
 -- url     : https://prove2.me/theorems/aaf4092b-b2dd-4d4c-980f-0c6510da0867

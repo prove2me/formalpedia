@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cauchy_slice_removable_extension
 -- name    : GlobalTheory.cauchy_slice_removable_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:07:45.707417+00:00
 -- url     : https://prove2.me/theorems/b3781658-d595-48cd-910d-8f4be168e53e

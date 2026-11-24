@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_setIntegral_compact_eq_zero
 -- name    : GlobalTheory.eq_zero_of_setIntegral_compact_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:18:54.505027+00:00
 -- url     : https://prove2.me/theorems/f9ed4fe2-d446-4f5e-86d3-363ce3e2ca35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_capelli_casimir
 -- name    : GlobalTheory.capelli_casimir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:39.639737+00:00
 -- url     : https://prove2.me/theorems/b74c79fe-bc2c-498c-8196-18e36bb27bef

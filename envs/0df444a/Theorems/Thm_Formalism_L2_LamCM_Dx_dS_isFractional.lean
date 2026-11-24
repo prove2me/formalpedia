@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_dS_isFractional
 -- name    : Formalism.L2.LamCM.Dx.dS_isFractional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:17:47.090798+00:00
 -- url     : https://prove2.me/theorems/8ab95b3b-2842-43bd-b40a-8d6855f75edc

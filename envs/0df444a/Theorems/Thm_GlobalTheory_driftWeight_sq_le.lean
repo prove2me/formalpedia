@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_driftWeight_sq_le
 -- name    : GlobalTheory.driftWeight_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:16:45.839862+00:00
 -- url     : https://prove2.me/theorems/cbdacb5d-d136-4200-84a1-7c8bf40cc476

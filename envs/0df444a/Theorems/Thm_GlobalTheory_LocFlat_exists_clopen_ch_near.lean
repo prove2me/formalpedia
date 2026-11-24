@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_exists_clopen_ch_near
 -- name    : GlobalTheory.LocFlat.exists_clopen_ch_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:28:06.204031+00:00
 -- url     : https://prove2.me/theorems/31027e5e-972e-40fd-87d7-78cb72e31abd

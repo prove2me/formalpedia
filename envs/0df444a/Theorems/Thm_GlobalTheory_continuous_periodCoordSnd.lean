@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuous_periodCoordSnd
 -- name    : GlobalTheory.continuous_periodCoordSnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:34.597914+00:00
 -- url     : https://prove2.me/theorems/3dea6b43-21ed-414a-b0ca-900fb0f82e7e

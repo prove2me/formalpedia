@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_TransvG_det_fromBlocks_single
 -- name    : GlobalTheory.SA.TransvG.det_fromBlocks_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:46:03.871257+00:00
 -- url     : https://prove2.me/theorems/e1e19b84-0b27-4025-9f28-c64c03ff5d98

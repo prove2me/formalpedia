@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_galoisCover_descent
 -- name    : GlobalTheory.ZM.galoisCover_descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:03:03.848871+00:00
 -- url     : https://prove2.me/theorems/89466bb3-9dea-4ce0-a5a1-14978fdb4872

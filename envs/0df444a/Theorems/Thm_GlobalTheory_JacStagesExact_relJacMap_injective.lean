@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacStagesExact_relJacMap_injective
 -- name    : GlobalTheory.JacStagesExact.relJacMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:19:07.992368+00:00
 -- url     : https://prove2.me/theorems/b127d7c5-6b41-4124-aa33-87cf5c2d18fc

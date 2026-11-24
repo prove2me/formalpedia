@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_bcI_spanSingleton
 -- name    : Formalism.L2.LamCM.bcI_spanSingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:06.958708+00:00
 -- url     : https://prove2.me/theorems/36b60572-cbb4-4efb-90b3-c741c4be4553

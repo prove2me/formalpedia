@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_continuous_restOf
 -- name    : GlobalTheory.LocFlat.continuous_restOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:28:01.906874+00:00
 -- url     : https://prove2.me/theorems/7aa59200-cc26-4f7a-90a6-24f3a93db7f4

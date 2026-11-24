@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GamFree_pow_bounded
 -- name    : GlobalTheory.GamFree.pow_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:49:52.344278+00:00
 -- url     : https://prove2.me/theorems/2a80d152-b0aa-4e6c-9746-da376684fe71

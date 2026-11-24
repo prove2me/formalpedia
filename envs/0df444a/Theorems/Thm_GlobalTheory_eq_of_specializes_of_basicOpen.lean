@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_specializes_of_basicOpen
 -- name    : GlobalTheory.eq_of_specializes_of_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:18:17.243851+00:00
 -- url     : https://prove2.me/theorems/e8445ce1-e45e-458e-80df-2846cc07b59f

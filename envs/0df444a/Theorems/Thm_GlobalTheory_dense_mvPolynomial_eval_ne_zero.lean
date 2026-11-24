@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dense_mvPolynomial_eval_ne_zero
 -- name    : GlobalTheory.dense_mvPolynomial_eval_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:17:28.632582+00:00
 -- url     : https://prove2.me/theorems/0e02a3f2-84f0-43f3-8609-66e1c0de45e9

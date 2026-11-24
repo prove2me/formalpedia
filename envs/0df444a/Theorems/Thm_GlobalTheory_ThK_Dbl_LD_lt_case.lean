@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_lt_case
 -- name    : GlobalTheory.ThK.Dbl.LD.lt_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:03:26.409633+00:00
 -- url     : https://prove2.me/theorems/32ceed15-646f-4baf-8910-1586824e8f65

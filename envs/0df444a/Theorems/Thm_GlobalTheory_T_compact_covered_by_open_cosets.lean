@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_compact_covered_by_open_cosets
 -- name    : GlobalTheory.T.compact_covered_by_open_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:30:16.580795+00:00
 -- url     : https://prove2.me/theorems/05029406-b8c7-416c-a271-defdddbcc88a

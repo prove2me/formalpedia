@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_mul_X_ite
 -- name    : GlobalTheory.coeff_mul_X_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:59.434339+00:00
 -- url     : https://prove2.me/theorems/01a1e43e-7fc2-46c3-9646-e94bb167e68d

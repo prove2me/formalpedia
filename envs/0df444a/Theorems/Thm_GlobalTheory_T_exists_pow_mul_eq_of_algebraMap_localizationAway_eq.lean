@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_pow_mul_eq_of_algebraMap_localizationAway_eq
 -- name    : GlobalTheory.T.exists_pow_mul_eq_of_algebraMap_localizationAway_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:38:09.784859+00:00
 -- url     : https://prove2.me/theorems/b19c141f-c7fc-48ca-94e9-22e8ec45b2c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_charpolyEndomorphismDensityGL_recursion
 -- name    : GlobalTheory.T.charpolyEndomorphismDensityGL_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:27:24.762939+00:00
 -- url     : https://prove2.me/theorems/da8a83fb-9901-4cae-8445-3c8f7180e659

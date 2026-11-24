@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymCompare_step_reindex
 -- name    : GlobalTheory.SymCompare.step_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:47.135804+00:00
 -- url     : https://prove2.me/theorems/35c13e4b-a7d7-4cc1-802f-86c474de22b4

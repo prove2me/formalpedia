@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomologyUniversal_lid_lTensor_apply
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomologyUniversal.lid_lTensor_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:26:58.860961+00:00
 -- url     : https://prove2.me/theorems/baa0ddd0-c4c0-43b0-812e-1ac9ae706cbc

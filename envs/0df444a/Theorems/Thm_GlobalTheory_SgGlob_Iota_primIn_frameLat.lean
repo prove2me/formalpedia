@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Iota_primIn_frameLat
 -- name    : GlobalTheory.SgGlob.Iota.primIn_frameLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:57:23.885015+00:00
 -- url     : https://prove2.me/theorems/b2e46e20-3f46-4aa9-86a5-a985f885be1c

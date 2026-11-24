@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLattice_exists_orthonormal_basis
 -- name    : GlobalTheory.SelfDualLattice.exists_orthonormal_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:52:39.810663+00:00
 -- url     : https://prove2.me/theorems/c9cc5048-864f-4bc5-9f36-c636743e19d2

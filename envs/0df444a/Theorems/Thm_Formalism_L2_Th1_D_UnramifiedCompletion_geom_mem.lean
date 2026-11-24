@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_UnramifiedCompletion_geom_mem
 -- name    : Formalism.L2.Th1.D.UnramifiedCompletion.geom_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:11:16.324559+00:00
 -- url     : https://prove2.me/theorems/67d17ffe-e337-4400-98ea-637f59607d59

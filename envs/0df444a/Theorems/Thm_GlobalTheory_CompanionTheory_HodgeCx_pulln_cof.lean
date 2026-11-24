@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeCx_pulln_cof
 -- name    : GlobalTheory.CompanionTheory.HodgeCx.pulln_cof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:24:11.349155+00:00
 -- url     : https://prove2.me/theorems/569af6ff-26f2-4573-b6e7-1e127b3b4d6f

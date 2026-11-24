@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finset_basicOpen_cover_inf_of_isAffineOpen
 -- name    : GlobalTheory.T.exists_finset_basicOpen_cover_inf_of_isAffineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:37.188231+00:00
 -- url     : https://prove2.me/theorems/2102c795-b87f-4383-8163-f9d36fa48ad0

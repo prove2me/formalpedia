@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hecke_kernel_cell_bound
 -- name    : Formalism.L2.Th1.F.hecke_kernel_cell_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:30:20.067715+00:00
 -- url     : https://prove2.me/theorems/fb59e5ea-1478-4ba7-b394-22a67ef798a5

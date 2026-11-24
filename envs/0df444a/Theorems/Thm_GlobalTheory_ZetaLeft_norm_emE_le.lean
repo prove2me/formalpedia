@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaLeft_norm_emE_le
 -- name    : GlobalTheory.ZetaLeft.norm_emE_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:00:08.423128+00:00
 -- url     : https://prove2.me/theorems/b5c1ef6c-e237-4ace-a812-ed960c5d4e35

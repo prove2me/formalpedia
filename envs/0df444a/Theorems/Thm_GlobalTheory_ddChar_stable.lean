@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ddChar_stable
 -- name    : GlobalTheory.ddChar_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:15:06.07363+00:00
 -- url     : https://prove2.me/theorems/e5e25e8f-d274-4e20-962c-68e9919ea220

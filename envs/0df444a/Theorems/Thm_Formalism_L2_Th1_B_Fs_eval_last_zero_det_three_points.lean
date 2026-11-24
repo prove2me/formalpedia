@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_eval_last_zero_det_three_points
 -- name    : Formalism.L2.Th1.B.Fs.eval_last_zero_det_three_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:59:39.724467+00:00
 -- url     : https://prove2.me/theorems/1dbe5685-31d5-4897-8130-5687d2e1a9f1

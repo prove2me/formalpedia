@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_pow_eq_one_two_pow_le
 -- name    : GlobalTheory.card_pow_eq_one_two_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:45.499532+00:00
 -- url     : https://prove2.me/theorems/bd84beaf-f966-4aee-8bec-24b8b4f50e04

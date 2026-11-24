@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_exists_basis_trace_conj_unit
 -- name    : GlobalTheory.UnitLemma.Unr.exists_basis_trace_conj_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:37:08.499271+00:00
 -- url     : https://prove2.me/theorems/98ae9f74-b61d-4ec1-8fb8-15f3f5e9d592

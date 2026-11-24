@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_app_res_eq
 -- name    : GlobalTheory.app_res_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:51.196162+00:00
 -- url     : https://prove2.me/theorems/1de23401-e4e9-4a7e-8743-9e5047ee3d55

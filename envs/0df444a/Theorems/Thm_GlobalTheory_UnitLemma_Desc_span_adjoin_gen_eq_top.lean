@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_span_adjoin_gen_eq_top
 -- name    : GlobalTheory.UnitLemma.Desc.span_adjoin_gen_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:28:04.089912+00:00
 -- url     : https://prove2.me/theorems/b73a2545-6286-42ab-a0b3-9c6781d37e34

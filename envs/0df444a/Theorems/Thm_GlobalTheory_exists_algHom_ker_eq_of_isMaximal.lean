@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_ker_eq_of_isMaximal
 -- name    : GlobalTheory.exists_algHom_ker_eq_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:29:01.554538+00:00
 -- url     : https://prove2.me/theorems/f3b62fe9-8cdf-4201-9d33-97d6f3fe812d

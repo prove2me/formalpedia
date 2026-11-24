@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZModDual_nat_card_dual_eq
 -- name    : GlobalTheory.CompanionTheory.ZModDual.nat_card_dual_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:24:17.298805+00:00
 -- url     : https://prove2.me/theorems/d60ae7f2-4c65-4711-bd43-58cc4a2aad19

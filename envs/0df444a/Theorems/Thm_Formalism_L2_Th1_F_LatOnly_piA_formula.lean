@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LatOnly_piA_formula
 -- name    : Formalism.L2.Th1.F.LatOnly.piA_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:28.692498+00:00
 -- url     : https://prove2.me/theorems/b33c8bab-a94b-4348-9d2c-af1a4ea4b86a

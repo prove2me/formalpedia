@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_flatSB_generic
 -- name    : GlobalTheory.LocFlat.flatSB_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:27:37.832329+00:00
 -- url     : https://prove2.me/theorems/00f04b3e-1d37-4305-ba89-a9d80edda62d

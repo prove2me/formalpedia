@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jets_div_pow_holds
 -- name    : Formalism.L2.Th1.G.jets_div_pow_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:44:50.939275+00:00
 -- url     : https://prove2.me/theorems/e03fa295-fedc-48d4-bb7e-67522be6841c

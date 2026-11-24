@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_norm_iota_natCast
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.norm_iota_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:48.06757+00:00
 -- url     : https://prove2.me/theorems/d430a71a-5181-4bb1-92c7-839df462bc16

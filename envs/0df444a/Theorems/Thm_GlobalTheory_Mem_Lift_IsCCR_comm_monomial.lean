@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_IsCCR_comm_monomial
 -- name    : GlobalTheory.Mem.Lift.IsCCR.comm_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:28:58.231365+00:00
 -- url     : https://prove2.me/theorems/9951b9c4-3067-42fd-9abf-b26963e22a4b

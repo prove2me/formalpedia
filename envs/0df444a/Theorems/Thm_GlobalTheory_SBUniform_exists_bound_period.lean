@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBUniform_exists_bound_period
 -- name    : GlobalTheory.SBUniform.exists_bound_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:02:26.775021+00:00
 -- url     : https://prove2.me/theorems/ef1be5d2-96b8-44c9-a2c3-addbeca2f52a

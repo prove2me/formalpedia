@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericLevel_exists_isGenericLevel
 -- name    : GlobalTheory.GenericLevel.exists_isGenericLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:10:33.223895+00:00
 -- url     : https://prove2.me/theorems/011a261f-8a07-4be3-b520-d327f1feb9d9

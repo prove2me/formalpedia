@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_sym2_fin
 -- name    : GlobalTheory.card_sym2_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:57.060666+00:00
 -- url     : https://prove2.me/theorems/38868d03-aea6-41d4-8bed-60c6a29bc257

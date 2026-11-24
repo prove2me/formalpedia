@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_wp3_apply_eq_sq_mul_sub_sq_mul
 -- name    : Formalism.L2.Th1.B.Fs.wp3_apply_eq_sq_mul_sub_sq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:59:12.906803+00:00
 -- url     : https://prove2.me/theorems/f6a640b4-bbb0-4863-95c7-fc922dc66ff9

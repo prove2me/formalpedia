@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_exists_sec
 -- name    : GlobalTheory.VolFin.exists_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:50:59.192034+00:00
 -- url     : https://prove2.me/theorems/5a451edd-d39a-4935-9400-ea009737273b

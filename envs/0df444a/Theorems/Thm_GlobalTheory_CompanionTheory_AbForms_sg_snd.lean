@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_sg_snd
 -- name    : GlobalTheory.CompanionTheory.AbForms.sg_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:22:15.910708+00:00
 -- url     : https://prove2.me/theorems/3bd129a0-8a85-4640-8747-7f427bc757ec

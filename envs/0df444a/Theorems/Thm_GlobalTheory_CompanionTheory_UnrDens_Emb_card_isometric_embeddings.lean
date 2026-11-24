@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_Emb_card_isometric_embeddings
 -- name    : GlobalTheory.CompanionTheory.UnrDens.Emb.card_isometric_embeddings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:21:17.561658+00:00
 -- url     : https://prove2.me/theorems/bae975d8-737a-4571-9317-d9bde0f58c8e

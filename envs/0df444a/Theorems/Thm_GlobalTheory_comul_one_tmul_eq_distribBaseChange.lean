@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_comul_one_tmul_eq_distribBaseChange
 -- name    : GlobalTheory.comul_one_tmul_eq_distribBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:12.826861+00:00
 -- url     : https://prove2.me/theorems/19e32c84-b518-4cd6-a51d-f171963eac71

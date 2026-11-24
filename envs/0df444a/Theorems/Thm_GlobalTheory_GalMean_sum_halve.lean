@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GalMean_sum_halve
 -- name    : GlobalTheory.GalMean.sum_halve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:14:03.508812+00:00
 -- url     : https://prove2.me/theorems/734df748-c670-4a24-9475-2d69cbfdc135

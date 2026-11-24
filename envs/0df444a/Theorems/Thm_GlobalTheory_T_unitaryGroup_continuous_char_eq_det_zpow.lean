@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryGroup_continuous_char_eq_det_zpow
 -- name    : GlobalTheory.T.unitaryGroup_continuous_char_eq_det_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:01:06.723668+00:00
 -- url     : https://prove2.me/theorems/028f8272-1adc-41ba-8964-e6a0d8a901df

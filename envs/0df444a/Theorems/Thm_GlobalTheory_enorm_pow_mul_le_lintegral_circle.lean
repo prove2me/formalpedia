@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_enorm_pow_mul_le_lintegral_circle
 -- name    : GlobalTheory.enorm_pow_mul_le_lintegral_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:50.885584+00:00
 -- url     : https://prove2.me/theorems/2e60ba64-8d55-459c-a49c-0079f6e1583f

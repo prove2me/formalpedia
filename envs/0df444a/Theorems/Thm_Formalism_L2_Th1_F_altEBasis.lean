@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_altEBasis
 -- name    : Formalism.L2.Th1.F.altEBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:36.188635+00:00
 -- url     : https://prove2.me/theorems/2da41d05-0c74-4526-9feb-b8b17bfea4dc

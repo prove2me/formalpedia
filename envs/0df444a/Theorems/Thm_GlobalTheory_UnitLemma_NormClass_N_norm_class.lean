@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_NormClass_N_norm_class
 -- name    : GlobalTheory.UnitLemma.NormClass.N_norm_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:20.003469+00:00
 -- url     : https://prove2.me/theorems/628844b9-e53a-4998-8a2f-be2f0ae2d3ef

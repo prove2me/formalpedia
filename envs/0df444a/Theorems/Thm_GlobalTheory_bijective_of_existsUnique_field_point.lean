@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_of_existsUnique_field_point
 -- name    : GlobalTheory.bijective_of_existsUnique_field_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:53.210793+00:00
 -- url     : https://prove2.me/theorems/4765bade-1038-421c-9a86-005b1d549640

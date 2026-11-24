@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_GelfGen_gelfA_mem_filt
 -- name    : GlobalTheory.SmoothForms.GelfGen.gelfA_mem_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:29:40.122669+00:00
 -- url     : https://prove2.me/theorems/0f5c725d-618d-4e7e-9d6b-95721f9aeda5

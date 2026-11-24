@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_awayMap_bijective_of_injective_of_range_eq_subalgebra
 -- name    : GlobalTheory.T.awayMap_bijective_of_injective_of_range_eq_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:04.526155+00:00
 -- url     : https://prove2.me/theorems/da7d7044-b821-4a50-8d3f-8fce9e36219f

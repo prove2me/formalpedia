@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfRetract_finite_homology_of_retract
 -- name    : GlobalTheory.CompanionTheory.PerfRetract.finite_homology_of_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:26:30.656279+00:00
 -- url     : https://prove2.me/theorems/e2f3d1dc-2800-4407-8d0f-7c459822768a

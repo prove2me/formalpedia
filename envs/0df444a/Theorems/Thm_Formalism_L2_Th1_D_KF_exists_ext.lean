@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KF_exists_ext
 -- name    : Formalism.L2.Th1.D.KF.exists_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:53:47.124831+00:00
 -- url     : https://prove2.me/theorems/885d40e6-f52d-4a61-904c-338a41061074

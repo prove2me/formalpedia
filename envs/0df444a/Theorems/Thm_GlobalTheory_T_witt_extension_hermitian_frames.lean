@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_witt_extension_hermitian_frames
 -- name    : GlobalTheory.T.witt_extension_hermitian_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:01:19.833708+00:00
 -- url     : https://prove2.me/theorems/53af00c7-f4a8-4348-921a-50ae213d1f08

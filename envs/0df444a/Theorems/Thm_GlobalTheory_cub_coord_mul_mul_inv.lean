@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cub_coord_mul_mul_inv
 -- name    : GlobalTheory.cub_coord_mul_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:15:05.14053+00:00
 -- url     : https://prove2.me/theorems/028da523-cf4a-4b9a-bb62-972d85e9168f

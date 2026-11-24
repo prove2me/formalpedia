@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilTr_isUWeilB_trRep
 -- name    : GlobalTheory.WeilTr.isUWeilB_trRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:55:01.187125+00:00
 -- url     : https://prove2.me/theorems/3be12e2f-6023-4121-bce7-d4ff319f08fe

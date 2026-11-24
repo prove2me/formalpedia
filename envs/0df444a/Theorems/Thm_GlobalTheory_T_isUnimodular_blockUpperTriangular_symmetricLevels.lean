@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isUnimodular_blockUpperTriangular_symmetricLevels
 -- name    : GlobalTheory.T.isUnimodular_blockUpperTriangular_symmetricLevels
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:45.076638+00:00
 -- url     : https://prove2.me/theorems/f735cdb5-0382-44c0-9d3a-3e530054bc3b

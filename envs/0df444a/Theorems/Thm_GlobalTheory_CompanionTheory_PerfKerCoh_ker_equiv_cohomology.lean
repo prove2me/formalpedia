@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfKerCoh_ker_equiv_cohomology
 -- name    : GlobalTheory.CompanionTheory.PerfKerCoh.ker_equiv_cohomology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:26:33.055968+00:00
 -- url     : https://prove2.me/theorems/ee0fdcc6-d4f9-4cbb-b57d-af07588ea3d1

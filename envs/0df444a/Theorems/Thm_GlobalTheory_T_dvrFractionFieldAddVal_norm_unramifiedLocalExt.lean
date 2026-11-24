@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dvrFractionFieldAddVal_norm_unramifiedLocalExt
 -- name    : GlobalTheory.T.dvrFractionFieldAddVal_norm_unramifiedLocalExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:32:41.407421+00:00
 -- url     : https://prove2.me/theorems/c8ba8f00-a02b-4c15-9c1b-8b6ddb25d4a7

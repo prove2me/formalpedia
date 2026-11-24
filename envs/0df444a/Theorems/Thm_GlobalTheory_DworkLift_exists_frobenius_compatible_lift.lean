@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DworkLift_exists_frobenius_compatible_lift
 -- name    : GlobalTheory.DworkLift.exists_frobenius_compatible_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:53:28.960965+00:00
 -- url     : https://prove2.me/theorems/86ac2d9d-f483-4bb8-ab00-34cc5b52d948

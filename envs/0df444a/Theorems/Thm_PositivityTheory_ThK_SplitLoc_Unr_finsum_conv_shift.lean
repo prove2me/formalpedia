@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_finsum_conv_shift
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.finsum_conv_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:20:15.660003+00:00
 -- url     : https://prove2.me/theorems/37bb0575-8534-43d6-a75d-d0b284f29321

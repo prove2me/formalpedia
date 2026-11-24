@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_fc_zero_snoc
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.fc_zero_snoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:09.259971+00:00
 -- url     : https://prove2.me/theorems/b40bbf10-7dff-4b36-a20c-88052cf839da

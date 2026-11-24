@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryGroupChart_unitary_chart
 -- name    : GlobalTheory.UnitaryGroupChart.unitary_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:41:01.250328+00:00
 -- url     : https://prove2.me/theorems/9a0005f0-65bc-4330-b8aa-28ab5df36b34

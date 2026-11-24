@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_VacBd_sm_dH
 -- name    : GlobalTheory.Mem.Lift.VacBd.sm_dH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:22:53.585931+00:00
 -- url     : https://prove2.me/theorems/e17cd182-6c08-4b1b-b7d4-4d2496e0828b

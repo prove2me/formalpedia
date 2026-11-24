@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_FibPre_H_isLB
 -- name    : GlobalTheory.ZH.FibPre.H_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:28.856063+00:00
 -- url     : https://prove2.me/theorems/ce009bd3-b4a9-43a5-8525-0386b3191075

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_affineOpen_fromSpec_mem_basicOpen_iff
 -- name    : GlobalTheory.affineOpen_fromSpec_mem_basicOpen_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:08:04.335268+00:00
 -- url     : https://prove2.me/theorems/13a35693-6764-4eef-9206-e9346636c34f

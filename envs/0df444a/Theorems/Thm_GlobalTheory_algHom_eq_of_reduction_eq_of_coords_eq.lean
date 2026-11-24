@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algHom_eq_of_reduction_eq_of_coords_eq
 -- name    : GlobalTheory.algHom_eq_of_reduction_eq_of_coords_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:13.349491+00:00
 -- url     : https://prove2.me/theorems/8a2425c2-d0c3-4ff0-9e2f-983c30fecbb3

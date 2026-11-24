@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_exists_image
 -- name    : GlobalTheory.UnramSelfDual.exists_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:46:55.338799+00:00
 -- url     : https://prove2.me/theorems/00fbb2cc-f7ac-4046-b931-ee1ad8e86368

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_triv_apply
 -- name    : PositivityTheory.PfBern.Frob.triv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:23:50.632144+00:00
 -- url     : https://prove2.me/theorems/2ae018dc-fa16-4880-83a4-a265a9773136

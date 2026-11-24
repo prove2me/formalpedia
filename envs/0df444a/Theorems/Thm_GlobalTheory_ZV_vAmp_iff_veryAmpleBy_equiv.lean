@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_vAmp_iff_veryAmpleBy_equiv
 -- name    : GlobalTheory.ZV.vAmp_iff_veryAmpleBy_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:04:01.8661+00:00
 -- url     : https://prove2.me/theorems/c8e9144a-0658-4e33-836a-accf41c628ca

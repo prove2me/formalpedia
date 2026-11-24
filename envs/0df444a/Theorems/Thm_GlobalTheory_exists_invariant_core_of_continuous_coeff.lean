@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_invariant_core_of_continuous_coeff
 -- name    : GlobalTheory.exists_invariant_core_of_continuous_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:41.224422+00:00
 -- url     : https://prove2.me/theorems/caa2e392-b130-4b3b-b355-134c601cb7d8

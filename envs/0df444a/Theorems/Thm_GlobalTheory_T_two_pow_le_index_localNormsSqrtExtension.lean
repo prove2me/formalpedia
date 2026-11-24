@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_two_pow_le_index_localNormsSqrtExtension
 -- name    : GlobalTheory.T.two_pow_le_index_localNormsSqrtExtension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:37:33.469798+00:00
 -- url     : https://prove2.me/theorems/a6d4f396-824c-4eb3-8410-4296b160caaa

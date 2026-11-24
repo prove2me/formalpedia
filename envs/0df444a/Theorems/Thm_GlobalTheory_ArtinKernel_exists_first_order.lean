@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_exists_first_order
 -- name    : GlobalTheory.ArtinKernel.exists_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:54.616049+00:00
 -- url     : https://prove2.me/theorems/11f356b8-4c1f-4f32-bce0-862ed30db508

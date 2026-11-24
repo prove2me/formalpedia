@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_taylor_coeff_sub_coeff_le_norm_l
 -- name    : GlobalTheory.T.norm_taylor_coeff_sub_coeff_le_norm_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:53:30.233787+00:00
 -- url     : https://prove2.me/theorems/520db86b-47aa-407e-8665-52544e78192f

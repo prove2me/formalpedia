@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_deformedLatticeEisensteinSummand_weight_two
 -- name    : GlobalTheory.T.hasSum_deformedLatticeEisensteinSummand_weight_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:44:34.783052+00:00
 -- url     : https://prove2.me/theorems/e303b240-5570-4d58-83dd-d98ba5e71261

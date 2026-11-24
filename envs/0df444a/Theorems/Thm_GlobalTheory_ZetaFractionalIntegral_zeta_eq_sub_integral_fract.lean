@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaFractionalIntegral_zeta_eq_sub_integral_fract
 -- name    : GlobalTheory.ZetaFractionalIntegral.zeta_eq_sub_integral_fract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:03:57.830621+00:00
 -- url     : https://prove2.me/theorems/7308d6aa-6160-4ebc-bfd6-6ef6f7ecbdbe

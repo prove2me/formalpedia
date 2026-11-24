@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dvd_of_dvd_mul_of_flat
 -- name    : GlobalTheory.dvd_of_dvd_mul_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:16:46.99281+00:00
 -- url     : https://prove2.me/theorems/08dee2ca-b284-40d7-a8cd-5ce0999fa882

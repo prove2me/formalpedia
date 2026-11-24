@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_UnramFlat_flCol_intInd
 -- name    : GlobalTheory.LocFlat.UnramFlat.flCol_intInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:27:33.742242+00:00
 -- url     : https://prove2.me/theorems/62e246da-381a-4acf-bf7c-cba4c48adaa1

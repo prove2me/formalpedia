@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_diffElt_sub_sum_mem
 -- name    : GlobalTheory.diffElt_sub_sum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:17.868803+00:00
 -- url     : https://prove2.me/theorems/2a188248-f67d-4aac-9742-4f6255466ff2

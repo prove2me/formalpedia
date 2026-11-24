@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_refl_correction
 -- name    : GlobalTheory.UnRep.exists_refl_correction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:24:34.273141+00:00
 -- url     : https://prove2.me/theorems/46b7a4b2-15e0-4f8b-9391-d119d805a420

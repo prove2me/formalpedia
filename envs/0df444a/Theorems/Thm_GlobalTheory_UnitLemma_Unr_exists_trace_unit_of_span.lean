@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_exists_trace_unit_of_span
 -- name    : GlobalTheory.UnitLemma.Unr.exists_trace_unit_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:36:48.06619+00:00
 -- url     : https://prove2.me/theorems/1c0f4608-3b0e-436f-84d1-3179381545ab

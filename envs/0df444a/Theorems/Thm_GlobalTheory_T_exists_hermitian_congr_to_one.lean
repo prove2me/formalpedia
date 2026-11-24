@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hermitian_congr_to_one
 -- name    : GlobalTheory.T.exists_hermitian_congr_to_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:35:47.315328+00:00
 -- url     : https://prove2.me/theorems/f03aa298-ddf5-4058-ab81-60ecf5f6b94e

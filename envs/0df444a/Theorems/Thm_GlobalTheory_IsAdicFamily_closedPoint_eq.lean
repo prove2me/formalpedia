@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAdicFamily_closedPoint_eq
 -- name    : GlobalTheory.IsAdicFamily.closedPoint_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:36.655989+00:00
 -- url     : https://prove2.me/theorems/1dbfbbf4-1817-4ab6-891d-5da48a72247e

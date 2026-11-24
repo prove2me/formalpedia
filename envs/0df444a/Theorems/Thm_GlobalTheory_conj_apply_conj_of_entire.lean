@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_conj_apply_conj_of_entire
 -- name    : GlobalTheory.conj_apply_conj_of_entire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:13:09.954799+00:00
 -- url     : https://prove2.me/theorems/014b6876-9992-470a-9b30-0113a383f8f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_VacBd_heis_dH
 -- name    : GlobalTheory.Mem.Lift.VacBd.heis_dH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:23:06.143815+00:00
 -- url     : https://prove2.me/theorems/af473ef4-b8d6-4383-a773-5e4979730037

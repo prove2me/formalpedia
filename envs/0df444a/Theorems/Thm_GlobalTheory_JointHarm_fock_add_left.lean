@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JointHarm_fock_add_left
 -- name    : GlobalTheory.JointHarm.fock_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:26:44.169314+00:00
 -- url     : https://prove2.me/theorems/7fdfeb08-c4f3-4092-8118-57aba3bc7828

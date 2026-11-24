@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EvenThetaIsogeny_th0Char_sq
 -- name    : Formalism.L2.Th1.F.EvenThetaIsogeny.th0Char_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:24.525806+00:00
 -- url     : https://prove2.me/theorems/1fae82fd-e5b4-4fa3-b1cc-68fb120caf20

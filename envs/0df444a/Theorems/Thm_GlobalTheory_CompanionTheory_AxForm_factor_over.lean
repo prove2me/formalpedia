@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_factor_over
 -- name    : GlobalTheory.CompanionTheory.AxForm.factor_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:22:41.942613+00:00
 -- url     : https://prove2.me/theorems/7b86a5ad-e5cd-4a62-8b42-c9058a25ff88

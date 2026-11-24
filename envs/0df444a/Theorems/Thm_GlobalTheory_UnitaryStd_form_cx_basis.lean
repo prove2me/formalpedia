@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_form_cx_basis
 -- name    : GlobalTheory.UnitaryStd.form_cx_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:45:39.302606+00:00
 -- url     : https://prove2.me/theorems/1bf129da-b92c-49e3-9f26-c0c17100d192

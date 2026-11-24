@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_gram_le_of_finrank_eq
 -- name    : GlobalTheory.det_gram_le_of_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:00.516913+00:00
 -- url     : https://prove2.me/theorems/ffb750ee-c771-4d6c-bb6c-2c4313ed9309

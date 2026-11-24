@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_CentralizerAdjoin_cent_eq
 -- name    : GlobalTheory.Tw.CentralizerAdjoin.cent_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:02:00.176627+00:00
 -- url     : https://prove2.me/theorems/ee0fde56-3e25-45fe-84c5-0013f762ca8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_congAtA_of_congOneAt
 -- name    : GlobalTheory.UnRep.Compare.congAtA_of_congOneAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:18:21.059894+00:00
 -- url     : https://prove2.me/theorems/0df2baa3-d627-4865-b1c0-54068d81b72a

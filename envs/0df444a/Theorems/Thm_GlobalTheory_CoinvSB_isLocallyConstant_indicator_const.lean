@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoinvSB_isLocallyConstant_indicator_const
 -- name    : GlobalTheory.CoinvSB.isLocallyConstant_indicator_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:28:16.108267+00:00
 -- url     : https://prove2.me/theorems/110f2607-982f-46b8-87ab-0c7a68cd5004

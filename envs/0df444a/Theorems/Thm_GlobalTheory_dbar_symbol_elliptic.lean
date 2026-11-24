@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dbar_symbol_elliptic
 -- name    : GlobalTheory.dbar_symbol_elliptic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:15:05.165497+00:00
 -- url     : https://prove2.me/theorems/ccf4be12-497d-4052-a059-380b046b6d89

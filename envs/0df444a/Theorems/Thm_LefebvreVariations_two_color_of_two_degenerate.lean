@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:20:27.745585+00:00
 -- url     : https://prove2.me/theorems/60d69216-79ba-4d07-9005-5a71af1ee82f
 -- title:
---   Lefebvre's variations: acyclic two-colourings of orientations of 2-degenerate planar graphs
+--   Lefebvre's variations, No. 18 — on a theme by Neumann-Lara: acyclic two-colourings of orientations of 2-degenerate planar graphs
 -- statement:
 --   This is the two-colour conjecture for planar digraphs in the $2$-degenerate case.
 --

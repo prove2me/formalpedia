@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_derivation_inner_of_separability_element
 -- name    : GlobalTheory.derivation_inner_of_separability_element
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:08.478421+00:00
 -- url     : https://prove2.me/theorems/c1e2826c-5113-4646-9704-394355eb36e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bichar_deriv_contDiff
 -- name    : GlobalTheory.bichar_deriv_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:20.407575+00:00
 -- url     : https://prove2.me/theorems/646240ad-eb57-4274-ac55-9e91162e8f7a

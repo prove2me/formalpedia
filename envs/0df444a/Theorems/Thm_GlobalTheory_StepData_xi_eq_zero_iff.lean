@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_xi_eq_zero_iff
 -- name    : GlobalTheory.StepData.xi_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:48:49.273128+00:00
 -- url     : https://prove2.me/theorems/090547ce-5ebd-4d35-8696-b10df8715967

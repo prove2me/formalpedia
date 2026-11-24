@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotChart_exists_smooth_chart
 -- name    : GlobalTheory.CompanionTheory.CotChart.exists_smooth_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:21:42.273624+00:00
 -- url     : https://prove2.me/theorems/d4288bfe-ebdb-4a97-a4ea-0777c7120798

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDiffAt_dbar
 -- name    : GlobalTheory.contDiffAt_dbar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:25.273119+00:00
 -- url     : https://prove2.me/theorems/b031296c-76ad-4782-b29d-0e235a9f6768

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableAt_dbar
 -- name    : GlobalTheory.differentiableAt_dbar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:54:09.587599+00:00
 -- url     : https://prove2.me/theorems/2c7439ab-55e6-40a5-9a15-139766042753

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittGauss_teichmuller_mul_rat
 -- name    : GlobalTheory.WittGauss.teichmuller_mul_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:14:13.004026+00:00
 -- url     : https://prove2.me/theorems/2573e232-cf7f-435e-8324-05601d11bc0b

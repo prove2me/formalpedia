@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_PartialInv_selfDual_pi
 -- name    : GlobalTheory.JR.PartialInv.selfDual_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:32.29873+00:00
 -- url     : https://prove2.me/theorems/36186f97-3611-488c-81e8-e4a2eb985687

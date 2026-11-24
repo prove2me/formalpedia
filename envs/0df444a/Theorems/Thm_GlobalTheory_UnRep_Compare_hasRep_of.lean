@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_hasRep_of
 -- name    : GlobalTheory.UnRep.Compare.hasRep_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:13.027514+00:00
 -- url     : https://prove2.me/theorems/fd0a36c0-0200-49aa-b744-8b4c101b9640

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Universal_isU_prim
 -- name    : Formalism.L2.Th1.F.Universal.isU_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:33:40.438669+00:00
 -- url     : https://prove2.me/theorems/c601924b-63c3-4ad7-a8eb-6b9ef0881d5d

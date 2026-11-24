@@ -58059,7 +58059,7 @@
 {"parent": "CapacitatedKMedianFPT_Main_Leaders", "child": "CapacitatedKMedianFPT_Main_Instance", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_4_16_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_4_16_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
-{"parent": "GaussPolyReg.Approx.lemma_3_6", "child": "GaussPolyReg_Approx_Ultra", "via": ["statement"]}
+{"parent": "GaussPolyReg.Approx.lemma_3_6", "child": "GaussPolyReg_Approx_Ultra", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.corrected_weighted_mellin_identity", "child": "OAI_NumberTheory_DirichletL_Hecke_MobiusEulerCorrection", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.corrected_weighted_mellin_identity", "child": "OAI_NumberTheory_DirichletL_RowCompletion_ThetaNonvanishing", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.arithmeticRingToFunctionField_arithmeticOnePlusY", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Building_BuildingCyclicCoordinates", "via": ["solution", "statement"]}
@@ -82249,7 +82249,7 @@
 {"parent": "CaiFourierSparse.Learning.lemma_7_2", "child": "CaiFourierSparse_Learning_Clusters", "via": ["statement"]}
 {"parent": "CaiFourierSparse.Learning.lemma_7_2", "child": "CaiFourierSparse_Learning_Filter", "via": ["statement"]}
 {"parent": "CaiFourierSparse.Learning.lemma_7_2", "child": "CaiFourierSparse_Learning_Signal", "via": ["statement"]}
-{"parent": "SparseTensorInj.Certify.lemma_48", "child": "SparseTensorInj_Certify_OddCertificate", "via": ["statement"]}
+{"parent": "SparseTensorInj.Certify.lemma_48", "child": "SparseTensorInj_Certify_OddCertificate", "via": ["solution", "statement"]}
 {"parent": "LowRankMisspec.RankOne.proposition_A_9", "child": "LowRankMisspec_RankOne_Laws", "via": ["statement"]}
 {"parent": "LowRankMisspec.RankOne.proposition_A_9", "child": "LowRankMisspec_RankOne_Rank", "via": ["statement"]}
 {"parent": "LowRankMisspec_RankOne_Rank", "child": "LowRankMisspec_RankOne_Laws", "via": ["statement"]}

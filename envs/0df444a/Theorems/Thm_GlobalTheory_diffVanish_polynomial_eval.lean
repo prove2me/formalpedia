@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_diffVanish_polynomial_eval
 -- name    : GlobalTheory.diffVanish_polynomial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:01.819258+00:00
 -- url     : https://prove2.me/theorems/4348a941-7808-46da-9c1f-f1ca1cd9dcea

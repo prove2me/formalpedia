@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_HodgeAlt_alt__Multi_4e0913c07ff2
 -- name    : P2M_GlobalTheory_CompanionTheory_HodgeAlt_alt__Multi_4e0913c07ff2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:25:52.561242+00:00
 -- url     : https://prove2.me/theorems/b2b421ed-3bef-47b6-9b5c-8d93802fbb61

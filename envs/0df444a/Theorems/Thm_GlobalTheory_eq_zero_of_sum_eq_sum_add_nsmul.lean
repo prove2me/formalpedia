@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_sum_eq_sum_add_nsmul
 -- name    : GlobalTheory.eq_zero_of_sum_eq_sum_add_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:19:20.463027+00:00
 -- url     : https://prove2.me/theorems/159af26a-d89d-46aa-893f-973d0b63e290

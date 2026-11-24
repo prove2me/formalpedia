@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_mfact_add_single
 -- name    : GlobalTheory.MinorNorm.mfact_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:28:06.170752+00:00
 -- url     : https://prove2.me/theorems/8a4c4649-f8d3-4d3a-a36f-bd88a95873f7

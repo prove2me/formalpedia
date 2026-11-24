@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bddAbove_of_spanning_periods
 -- name    : GlobalTheory.bddAbove_of_spanning_periods
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:33.334731+00:00
 -- url     : https://prove2.me/theorems/03062f38-24cc-4fb4-a416-241e6ec77e5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normOne_approximation_at_level_primes
 -- name    : GlobalTheory.T.normOne_approximation_at_level_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:14.099706+00:00
 -- url     : https://prove2.me/theorems/736c3a25-9083-4f37-8758-568e9d6fd117

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eval_zero_rowAddGeneric
 -- name    : GlobalTheory.eval_zero_rowAddGeneric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:20:12.781707+00:00
 -- url     : https://prove2.me/theorems/63cc9555-aef9-442d-b329-c752e3c5dbcd

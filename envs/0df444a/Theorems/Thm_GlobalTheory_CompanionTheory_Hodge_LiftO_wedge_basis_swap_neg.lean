@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_wedge_basis_swap_neg
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.wedge_basis_swap_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:23:59.870803+00:00
 -- url     : https://prove2.me/theorems/1cd1b193-825b-4f4e-9b11-3dc1c3445afc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_hasTypes_iterPhi
 -- name    : GlobalTheory.StepData.TypeDatum.hasTypes_iterPhi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:51:07.340463+00:00
 -- url     : https://prove2.me/theorems/597d575e-6505-4f11-8e68-0d3ee4010815

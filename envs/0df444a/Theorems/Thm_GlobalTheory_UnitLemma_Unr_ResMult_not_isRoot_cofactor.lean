@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_ResMult_not_isRoot_cofactor
 -- name    : GlobalTheory.UnitLemma.Unr.ResMult.not_isRoot_cofactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:35:13.897272+00:00
 -- url     : https://prove2.me/theorems/589fbe38-4a2e-4cc2-b74f-aff4887d53d4

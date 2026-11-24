@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_exists_isCosetCutoff
 -- name    : GlobalTheory.Tw.exists_isCosetCutoff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:11.104055+00:00
 -- url     : https://prove2.me/theorems/a1f727a4-83b7-4bb4-bf37-3b01f2668e95

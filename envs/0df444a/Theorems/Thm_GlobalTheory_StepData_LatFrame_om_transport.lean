@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_LatFrame_om_transport
 -- name    : GlobalTheory.StepData.LatFrame.om_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:49:54.662024+00:00
 -- url     : https://prove2.me/theorems/f34dee1f-44b5-4eee-808c-609b462b7ab2

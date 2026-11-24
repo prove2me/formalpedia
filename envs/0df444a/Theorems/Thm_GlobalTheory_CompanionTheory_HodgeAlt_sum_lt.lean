@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_sum_lt
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.sum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:25:07.385198+00:00
 -- url     : https://prove2.me/theorems/8e8fc251-9c8b-46f7-869a-b734ec656101

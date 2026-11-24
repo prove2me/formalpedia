@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dpolyN_C_mul_left
 -- name    : GlobalTheory.dpolyN_C_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:45.438794+00:00
 -- url     : https://prove2.me/theorems/4c028397-3228-41eb-a781-5ade42687556

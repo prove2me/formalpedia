@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_readRow_ptRow
 -- name    : GlobalTheory.LocFlat.readRow_ptRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:27:40.242824+00:00
 -- url     : https://prove2.me/theorems/1b9edb58-cb34-4fb5-a885-571fcdc6fbfe

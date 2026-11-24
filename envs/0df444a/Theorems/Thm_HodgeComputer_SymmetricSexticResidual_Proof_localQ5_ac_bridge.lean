@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localQ5_ac_bridge
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localQ5_ac_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T22:15:42.495801+00:00
 -- url     : https://prove2.me/theorems/a29868b7-43a4-4ccf-80b0-0ca0296b39d2

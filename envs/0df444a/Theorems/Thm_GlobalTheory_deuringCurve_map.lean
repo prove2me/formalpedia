@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_deuringCurve_map
 -- name    : GlobalTheory.deuringCurve_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:15:58.579587+00:00
 -- url     : https://prove2.me/theorems/d3f99c95-b9b5-4d73-a7ab-7fb85a21c098

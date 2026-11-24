@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeRel_even_nsmul
 -- name    : GlobalTheory.cubeRel_even_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:15:17.455858+00:00
 -- url     : https://prove2.me/theorems/fce8afce-f5a5-4f35-af59-1d1a8d4deb9d

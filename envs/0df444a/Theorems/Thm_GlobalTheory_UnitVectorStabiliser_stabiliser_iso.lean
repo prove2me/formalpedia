@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitVectorStabiliser_stabiliser_iso
 -- name    : GlobalTheory.UnitVectorStabiliser.stabiliser_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:39:21.186795+00:00
 -- url     : https://prove2.me/theorems/1e686d1c-d1ce-477e-913b-df2e7f7a773b

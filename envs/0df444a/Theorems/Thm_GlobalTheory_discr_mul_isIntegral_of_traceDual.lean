@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discr_mul_isIntegral_of_traceDual
 -- name    : GlobalTheory.discr_mul_isIntegral_of_traceDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:15:50.500223+00:00
 -- url     : https://prove2.me/theorems/9e0c8ebe-908a-418a-b19b-88f6aa440fd5

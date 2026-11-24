@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_matrix_mul_apply
 -- name    : GlobalTheory.differentiableOn_matrix_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:06.453442+00:00
 -- url     : https://prove2.me/theorems/281b640d-e3ba-41be-80f4-7e51781ac145

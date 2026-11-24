@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_VacBd_orbit_lip
 -- name    : GlobalTheory.Mem.Lift.VacBd.orbit_lip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:41.741069+00:00
 -- url     : https://prove2.me/theorems/b1edc34f-3066-4356-b25e-27f40d75c83f

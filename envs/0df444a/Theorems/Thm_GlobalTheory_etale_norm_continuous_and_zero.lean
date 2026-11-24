@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_etale_norm_continuous_and_zero
 -- name    : GlobalTheory.etale_norm_continuous_and_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:18:51.047428+00:00
 -- url     : https://prove2.me/theorems/31ab671d-54aa-4792-aa8b-e6dcea66ba75

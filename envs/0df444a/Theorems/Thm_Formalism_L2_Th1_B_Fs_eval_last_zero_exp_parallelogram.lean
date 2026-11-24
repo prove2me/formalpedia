@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_eval_last_zero_exp_parallelogram
 -- name    : Formalism.L2.Th1.B.Fs.eval_last_zero_exp_parallelogram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:59:31.919824+00:00
 -- url     : https://prove2.me/theorems/1a25ca61-835c-44b2-b0da-a11351b97ffa

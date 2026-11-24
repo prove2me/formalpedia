@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_exists_split
 -- name    : GlobalTheory.CompanionTheory.AxForm.exists_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:23:28.561518+00:00
 -- url     : https://prove2.me/theorems/a969656f-0104-495c-960e-ac23c250b072

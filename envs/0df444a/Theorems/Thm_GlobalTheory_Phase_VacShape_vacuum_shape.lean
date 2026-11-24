@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_VacShape_vacuum_shape
 -- name    : GlobalTheory.Phase.VacShape.vacuum_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:54:29.599796+00:00
 -- url     : https://prove2.me/theorems/dc0ba839-b167-47bc-ba69-9ffaec47038d

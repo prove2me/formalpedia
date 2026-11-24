@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_measures_invariant
 -- name    : GlobalTheory.T.gram_fiber_measures_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:44:56.486284+00:00
 -- url     : https://prove2.me/theorems/4909a912-fdb3-4e7c-9f4f-71865a5e7252

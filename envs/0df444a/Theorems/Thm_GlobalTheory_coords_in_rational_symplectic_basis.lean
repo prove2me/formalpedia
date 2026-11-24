@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coords_in_rational_symplectic_basis
 -- name    : GlobalTheory.coords_in_rational_symplectic_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:14:52.957186+00:00
 -- url     : https://prove2.me/theorems/cb00c3f1-dbe8-471b-ab6a-e969f7abb2c1

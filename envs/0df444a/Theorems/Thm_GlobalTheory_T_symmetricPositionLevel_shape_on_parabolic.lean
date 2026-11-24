@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetricPositionLevel_shape_on_parabolic
 -- name    : GlobalTheory.T.symmetricPositionLevel_shape_on_parabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:29:58.918801+00:00
 -- url     : https://prove2.me/theorems/45a49d34-85f9-4c0b-b5ba-96b1adfac0c8

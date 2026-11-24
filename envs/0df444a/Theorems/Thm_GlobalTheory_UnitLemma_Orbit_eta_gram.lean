@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_eta_gram
 -- name    : GlobalTheory.UnitLemma.Orbit.eta_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:59:59.239861+00:00
 -- url     : https://prove2.me/theorems/ca4d60c2-976c-489d-957f-7cf76aee3b2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeLow_d2_apply
 -- name    : GlobalTheory.CompanionTheory.HodgeLow.d2_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:23:53.1257+00:00
 -- url     : https://prove2.me/theorems/81ed3772-7516-4e90-a297-02598a0703e9

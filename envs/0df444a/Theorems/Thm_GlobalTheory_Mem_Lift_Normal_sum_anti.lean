@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_Normal_sum_anti
 -- name    : GlobalTheory.Mem.Lift.Normal.sum_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:46.333644+00:00
 -- url     : https://prove2.me/theorems/75dae9f0-2aff-44d3-a7c8-3178e6a12474

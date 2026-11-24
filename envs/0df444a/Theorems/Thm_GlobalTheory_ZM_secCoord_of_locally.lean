@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_secCoord_of_locally
 -- name    : GlobalTheory.ZM.secCoord_of_locally
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:02:33.048569+00:00
 -- url     : https://prove2.me/theorems/4a5f7c35-c09e-40f3-822b-6669fa19c84b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_sand_comap
 -- name    : Formalism.L2.LamCM.Dx.sand_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:18:09.982587+00:00
 -- url     : https://prove2.me/theorems/24719924-f74d-401c-a372-f2160dedc306

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tsum_residueClass_split_by_sign
 -- name    : GlobalTheory.T.tsum_residueClass_split_by_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:59:58.315986+00:00
 -- url     : https://prove2.me/theorems/c6982929-56ca-410a-90fb-b25a9dd9033e

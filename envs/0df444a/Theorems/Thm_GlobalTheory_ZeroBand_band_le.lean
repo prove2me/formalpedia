@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroBand_band_le
 -- name    : GlobalTheory.ZeroBand.band_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:35.711233+00:00
 -- url     : https://prove2.me/theorems/e3e42e49-7be1-46c8-8a9d-73f923f4d5b2

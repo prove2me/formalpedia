@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeTwoForm_wedge_functional_iota_multi
 -- name    : GlobalTheory.CompanionTheory.HodgeTwoForm.wedge_functional_iota_multi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:23:52.030885+00:00
 -- url     : https://prove2.me/theorems/47bb1247-1ff1-478d-9853-ffc4d0ea7e5f

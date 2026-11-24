@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weierstrass_constant_q_expansion
 -- name    : GlobalTheory.T.weierstrass_constant_q_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:01:36.773952+00:00
 -- url     : https://prove2.me/theorems/9551c1a2-5481-4b37-aa9b-8409a75d666e

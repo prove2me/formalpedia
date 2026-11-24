@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnfold_oneOrbit
 -- name    : GlobalTheory.LevelUnfold.oneOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:21:38.335966+00:00
 -- url     : https://prove2.me/theorems/28a9c234-770c-4fd9-8fc9-ad3df074e0aa

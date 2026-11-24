@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Descent_pull_d
 -- name    : GlobalTheory.CompanionTheory.Descent.pull_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:25:53.988474+00:00
 -- url     : https://prove2.me/theorems/1850aa96-6060-4a5a-ae04-1ab46cf328a9

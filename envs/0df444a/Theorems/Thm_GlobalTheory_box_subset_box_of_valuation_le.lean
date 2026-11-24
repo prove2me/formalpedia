@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_box_subset_box_of_valuation_le
 -- name    : GlobalTheory.box_subset_box_of_valuation_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:07:08.598408+00:00
 -- url     : https://prove2.me/theorems/b5f29e0b-415f-4a71-ad66-9cbb6fd49213

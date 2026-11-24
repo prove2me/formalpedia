@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_unramifiedExt_iff_isIntegral_base
 -- name    : GlobalTheory.T.isIntegral_unramifiedExt_iff_isIntegral_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:51:15.312465+00:00
 -- url     : https://prove2.me/theorems/7b94b66b-f9aa-42dc-81fa-1a2ee9d53a5d

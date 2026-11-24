@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_rightContract
 -- name    : GlobalTheory.eq_zero_of_rightContract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:18:27.880289+00:00
 -- url     : https://prove2.me/theorems/e83d6638-ad04-4714-86a6-5cfb8102a2e3

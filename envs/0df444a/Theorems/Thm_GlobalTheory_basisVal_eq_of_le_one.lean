@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisVal_eq_of_le_one
 -- name    : GlobalTheory.basisVal_eq_of_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:41:06.269725+00:00
 -- url     : https://prove2.me/theorems/67f37c68-2700-43a5-8859-0955edaa6b6b

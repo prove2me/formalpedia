@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dvd_of_two_gens_of_card_torsion
 -- name    : GlobalTheory.dvd_of_two_gens_of_card_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:16:50.84892+00:00
 -- url     : https://prove2.me/theorems/09985fe2-2ade-488e-85cd-df38e7e08031

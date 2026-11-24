@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacquetExact_jacMap_injective
 -- name    : GlobalTheory.JacquetExact.jacMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:09:47.187094+00:00
 -- url     : https://prove2.me/theorems/bd989333-93ec-4145-938f-7ac42bce2f55

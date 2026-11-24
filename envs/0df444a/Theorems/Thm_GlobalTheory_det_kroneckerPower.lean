@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_kroneckerPower
 -- name    : GlobalTheory.det_kroneckerPower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:15:36.305801+00:00
 -- url     : https://prove2.me/theorems/f041a86d-190e-467c-96fb-8e6a6734155a

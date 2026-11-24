@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cexp_inner_add_lattice
 -- name    : GlobalTheory.cexp_inner_add_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:46.950398+00:00
 -- url     : https://prove2.me/theorems/63a6cd23-d927-45ae-a4d5-2ad7450682ac

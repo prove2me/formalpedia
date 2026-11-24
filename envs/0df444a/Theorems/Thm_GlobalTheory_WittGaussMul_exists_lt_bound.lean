@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittGaussMul_exists_lt_bound
 -- name    : GlobalTheory.WittGaussMul.exists_lt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:29:41.961804+00:00
 -- url     : https://prove2.me/theorems/ff266bff-61d8-4760-913e-f86989081b97

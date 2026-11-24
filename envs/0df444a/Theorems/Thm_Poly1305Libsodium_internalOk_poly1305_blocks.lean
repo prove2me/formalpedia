@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305Libsodium_internalOk_poly1305_blocks
 -- name    : Poly1305Libsodium.internalOk_poly1305_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T21:07:06.327673+00:00
 -- url     : https://prove2.me/theorems/cda5fddc-d57c-42a8-8434-cc22e0e2d25f

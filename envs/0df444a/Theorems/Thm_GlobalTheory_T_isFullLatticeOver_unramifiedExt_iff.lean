@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isFullLatticeOver_unramifiedExt_iff
 -- name    : GlobalTheory.T.isFullLatticeOver_unramifiedExt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:48:14.74605+00:00
 -- url     : https://prove2.me/theorems/a8d3ed8a-9bc6-4c86-a1ef-ed8e32ce37ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_integral_subst_single_variable
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.integral_subst_single_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:58:26.794836+00:00
 -- url     : https://prove2.me/theorems/8875b98a-2be3-44bd-9426-f8e16f067f69

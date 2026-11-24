@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isQuotInt_cosetFn_alt
 -- name    : GlobalTheory.T.isQuotInt_cosetFn_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:23.87358+00:00
 -- url     : https://prove2.me/theorems/4a9d606e-9adb-4ab4-8e07-975714647fde

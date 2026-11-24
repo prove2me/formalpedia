@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Wick_monomial_induction_inl
 -- name    : GlobalTheory.Wick.monomial_induction_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:13.917677+00:00
 -- url     : https://prove2.me/theorems/542f52db-e48e-4be8-893b-a7bed4dc34ea

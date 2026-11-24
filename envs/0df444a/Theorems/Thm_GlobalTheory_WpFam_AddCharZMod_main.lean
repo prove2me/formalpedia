@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_AddCharZMod_main
 -- name    : GlobalTheory.WpFam.AddCharZMod.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:16.539014+00:00
 -- url     : https://prove2.me/theorems/9c0aa266-d6ef-40a9-8e7d-af9c80a65b80

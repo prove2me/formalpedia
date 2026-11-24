@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_one_add_smul_poly_ne_zero
 -- name    : GlobalTheory.det_one_add_smul_poly_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:37.104083+00:00
 -- url     : https://prove2.me/theorems/17edd8d6-1238-4259-891a-991439e88235

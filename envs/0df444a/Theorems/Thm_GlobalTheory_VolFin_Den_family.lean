@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_Den_family
 -- name    : GlobalTheory.VolFin.Den.family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:10:47.868796+00:00
 -- url     : https://prove2.me/theorems/723cb362-b057-408b-9db5-b60ec2cc2290

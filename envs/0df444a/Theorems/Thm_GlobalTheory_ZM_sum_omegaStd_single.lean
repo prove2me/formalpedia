@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_sum_omegaStd_single
 -- name    : GlobalTheory.ZM.sum_omegaStd_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:04:12.709468+00:00
 -- url     : https://prove2.me/theorems/852caf65-0b42-4ff3-b9f0-7bc5dc585109

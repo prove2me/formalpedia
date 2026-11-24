@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCriterion_lintegral_mul_fibre_symm
 -- name    : GlobalTheory.WeilCriterion.lintegral_mul_fibre_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:39:50.77025+00:00
 -- url     : https://prove2.me/theorems/4f5bbf12-5af3-410f-a2fc-566c57d8be23

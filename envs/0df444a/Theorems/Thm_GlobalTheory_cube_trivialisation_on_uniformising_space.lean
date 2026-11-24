@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cube_trivialisation_on_uniformising_space
 -- name    : GlobalTheory.cube_trivialisation_on_uniformising_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:15:04.87319+00:00
 -- url     : https://prove2.me/theorems/3cdb4fa4-03e5-468a-8031-dcbdc59cd2e5

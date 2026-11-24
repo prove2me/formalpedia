@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_natCast_mul_tors_mem_lattice_iff
 -- name    : GlobalTheory.WpFam.natCast_mul_tors_mem_lattice_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:57:15.733343+00:00
 -- url     : https://prove2.me/theorems/2560dd12-b20f-4dad-b597-aef66f5875a9

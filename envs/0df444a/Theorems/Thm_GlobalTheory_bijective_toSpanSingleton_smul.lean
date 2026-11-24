@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_toSpanSingleton_smul
 -- name    : GlobalTheory.bijective_toSpanSingleton_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:06:37.434802+00:00
 -- url     : https://prove2.me/theorems/84c0a050-8661-44bd-b9b2-ed8a731878be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_FlagExample_isPairMap_flip
 -- name    : GlobalTheory.SA.FlagExample.isPairMap_flip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:36:02.811586+00:00
 -- url     : https://prove2.me/theorems/b25f236a-78bc-4209-ab2b-11f587f8a678

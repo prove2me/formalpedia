@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDiff_prod_ofFn_coord
 -- name    : GlobalTheory.contDiff_prod_ofFn_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:55.717805+00:00
 -- url     : https://prove2.me/theorems/ffc004e5-b733-43d6-a1d2-38a75e116031

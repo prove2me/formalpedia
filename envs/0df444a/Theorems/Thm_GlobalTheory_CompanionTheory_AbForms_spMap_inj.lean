@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_spMap_inj
 -- name    : GlobalTheory.CompanionTheory.AbForms.spMap_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:21:33.195792+00:00
 -- url     : https://prove2.me/theorems/2303d534-20a6-4c2f-ab44-fb351456fd14

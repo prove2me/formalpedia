@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSelfDual_pi_haar_traceStarDotProduct_unramified
 -- name    : GlobalTheory.T.isSelfDual_pi_haar_traceStarDotProduct_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:50:07.440211+00:00
 -- url     : https://prove2.me/theorems/a6928100-390b-44c7-9afe-a0eafb3be3c0

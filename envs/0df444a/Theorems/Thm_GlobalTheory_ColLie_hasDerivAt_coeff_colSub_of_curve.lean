@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColLie_hasDerivAt_coeff_colSub_of_curve
 -- name    : GlobalTheory.ColLie.hasDerivAt_coeff_colSub_of_curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:28:31.303814+00:00
 -- url     : https://prove2.me/theorems/fdbca833-44a7-432a-8ada-b756fc7aca7b

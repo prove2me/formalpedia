@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dofN_smul
 -- name    : GlobalTheory.dofN_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:32.484133+00:00
 -- url     : https://prove2.me/theorems/4404135d-b120-42d9-9226-68f8cd8952a9

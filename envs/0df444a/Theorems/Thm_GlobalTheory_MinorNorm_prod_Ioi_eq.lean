@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_prod_Ioi_eq
 -- name    : GlobalTheory.MinorNorm.prod_Ioi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:38.731386+00:00
 -- url     : https://prove2.me/theorems/665130bd-f87d-4d77-a522-c01197e00c5d

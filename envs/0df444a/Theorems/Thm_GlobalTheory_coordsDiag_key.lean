@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coordsDiag_key
 -- name    : GlobalTheory.coordsDiag_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:14:44.973597+00:00
 -- url     : https://prove2.me/theorems/f63066e2-1f5e-442f-a67b-fdc1fca118e5

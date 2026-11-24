@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_theta_prod_of_normal
 -- name    : GlobalTheory.differentiableOn_theta_prod_of_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:15:36.228813+00:00
 -- url     : https://prove2.me/theorems/fc883ca5-9eff-4a2b-9be7-c4f3f7422d2a

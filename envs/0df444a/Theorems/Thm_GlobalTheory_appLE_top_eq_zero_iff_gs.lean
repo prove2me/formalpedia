@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_appLE_top_eq_zero_iff_gs
 -- name    : GlobalTheory.appLE_top_eq_zero_iff_gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:06:11.734793+00:00
 -- url     : https://prove2.me/theorems/df5da5e1-54c8-49fc-a743-c4c5c3fa7a19

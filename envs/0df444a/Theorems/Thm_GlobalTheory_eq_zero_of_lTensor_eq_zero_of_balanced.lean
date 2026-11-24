@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_lTensor_eq_zero_of_balanced
 -- name    : GlobalTheory.eq_zero_of_lTensor_eq_zero_of_balanced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:18:54.843388+00:00
 -- url     : https://prove2.me/theorems/a244f797-5e16-4a3f-b53f-a6e630025d94

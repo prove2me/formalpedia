@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_IntegersAway_exists_tBase_of_numberField
 -- name    : GlobalTheory.ZM.IntegersAway.exists_tBase_of_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:51.254617+00:00
 -- url     : https://prove2.me/theorems/7d889fe3-f801-405c-b1f1-3bf6339ec0b0

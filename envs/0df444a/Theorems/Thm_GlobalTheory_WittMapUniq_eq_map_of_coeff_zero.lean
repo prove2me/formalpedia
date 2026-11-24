@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittMapUniq_eq_map_of_coeff_zero
 -- name    : GlobalTheory.WittMapUniq.eq_map_of_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:56:15.636881+00:00
 -- url     : https://prove2.me/theorems/316c4e9b-cbce-4461-84a0-6a9868d17df4

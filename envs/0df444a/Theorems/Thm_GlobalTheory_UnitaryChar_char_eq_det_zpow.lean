@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryChar_char_eq_det_zpow
 -- name    : GlobalTheory.UnitaryChar.char_eq_det_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:39:12.674217+00:00
 -- url     : https://prove2.me/theorems/6514be77-8a79-43a2-9671-34d1a2143bb2

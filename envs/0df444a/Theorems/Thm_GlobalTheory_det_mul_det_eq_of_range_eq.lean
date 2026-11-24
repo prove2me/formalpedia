@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_mul_det_eq_of_range_eq
 -- name    : GlobalTheory.det_mul_det_eq_of_range_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:15:53.892657+00:00
 -- url     : https://prove2.me/theorems/948fa571-00ad-4eb0-9e7f-d29cfdc6dad2

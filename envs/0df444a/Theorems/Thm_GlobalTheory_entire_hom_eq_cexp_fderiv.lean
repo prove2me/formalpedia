@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_hom_eq_cexp_fderiv
 -- name    : GlobalTheory.entire_hom_eq_cexp_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:21.710819+00:00
 -- url     : https://prove2.me/theorems/0e78d164-3d52-4db7-b7a4-ff05d2afecef

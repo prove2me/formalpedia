@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_etale_mulN
 -- name    : GlobalTheory.GrpTangent.etale_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:17.152312+00:00
 -- url     : https://prove2.me/theorems/61ea232f-b4ec-4fee-b378-cb8e921caa26

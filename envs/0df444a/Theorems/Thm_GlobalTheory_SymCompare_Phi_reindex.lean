@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymCompare_Phi_reindex
 -- name    : GlobalTheory.SymCompare.Phi_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:18:42.386632+00:00
 -- url     : https://prove2.me/theorems/ede79af7-2721-4f4d-8492-1d975c9629ec

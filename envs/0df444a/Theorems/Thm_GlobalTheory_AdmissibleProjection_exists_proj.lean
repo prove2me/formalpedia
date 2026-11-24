@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmissibleProjection_exists_proj
 -- name    : GlobalTheory.AdmissibleProjection.exists_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:55:19.93581+00:00
 -- url     : https://prove2.me/theorems/112f31d0-5c58-4188-ad6d-a32fdf3aa3bd

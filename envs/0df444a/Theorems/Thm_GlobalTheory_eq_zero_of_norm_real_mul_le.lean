@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_norm_real_mul_le
 -- name    : GlobalTheory.eq_zero_of_norm_real_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:19:02.918041+00:00
 -- url     : https://prove2.me/theorems/1a63ee73-133d-4e9d-9e63-3ffec5ef4832

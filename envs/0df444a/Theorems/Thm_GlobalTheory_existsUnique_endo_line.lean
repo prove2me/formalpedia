@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_endo_line
 -- name    : GlobalTheory.existsUnique_endo_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:58.050684+00:00
 -- url     : https://prove2.me/theorems/4af2c889-04a2-4242-ae0b-fc4be1b85f1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_PartialFourier_partial_mem_SB
 -- name    : GlobalTheory.LocFlat.PartialFourier.partial_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:26:19.640599+00:00
 -- url     : https://prove2.me/theorems/7d7a50e3-744f-4f6c-88c1-54d625a3faf7

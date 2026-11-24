@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeTwoForm_sum_pairs
 -- name    : GlobalTheory.CompanionTheory.HodgeTwoForm.sum_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:24:18.001806+00:00
 -- url     : https://prove2.me/theorems/010ece04-c0e3-4c87-85ea-f7342198fb23

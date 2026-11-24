@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_rTensor_pull
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.rTensor_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:22:49.767249+00:00
 -- url     : https://prove2.me/theorems/ad508d33-918e-450f-95b7-dfcd73171cea

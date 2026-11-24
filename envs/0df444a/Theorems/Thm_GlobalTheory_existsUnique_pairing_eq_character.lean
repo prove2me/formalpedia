@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_pairing_eq_character
 -- name    : GlobalTheory.existsUnique_pairing_eq_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:42.240493+00:00
 -- url     : https://prove2.me/theorems/43c9ffd4-b9ff-4324-b944-2898e7d5803a

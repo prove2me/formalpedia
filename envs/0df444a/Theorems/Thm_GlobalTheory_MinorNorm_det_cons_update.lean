@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_det_cons_update
 -- name    : GlobalTheory.MinorNorm.det_cons_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:28:24.122698+00:00
 -- url     : https://prove2.me/theorems/c8dc6fe1-c27d-448a-b6f8-8bd34e1c13fe

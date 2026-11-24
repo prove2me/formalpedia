@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_eq_finrank_of_points
 -- name    : GlobalTheory.card_eq_finrank_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:51.486077+00:00
 -- url     : https://prove2.me/theorems/9473fb89-b16a-43cd-9c0b-52f7575767b9

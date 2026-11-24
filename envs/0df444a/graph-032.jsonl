@@ -50642,7 +50642,7 @@
 {"parent": "BorderDiffEq.Supplement.theorem_2_4", "child": "BorderDiffEq_Supplement_Formula", "via": ["statement"]}
 {"parent": "OptQJunta_Supplement_ProductTester", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
 {"parent": "OptQJunta_Supplement_ProductTester", "child": "QAlgorithms_Defs_Channel", "via": ["statement"]}
-{"parent": "SketchAttr.LOO.Supplement.proposition_C_1", "child": "SketchAttr_LOO_Supplement_Quadratic", "via": ["statement"]}
+{"parent": "SketchAttr.LOO.Supplement.proposition_C_1", "child": "SketchAttr_LOO_Supplement_Quadratic", "via": ["solution", "statement"]}
 {"parent": "GreedyColoringLCA969.LowerBound.Supplement.lemma_4_3", "child": "GreedyColoringLCA969_LowerBound_GraphBasics", "via": ["statement"]}
 {"parent": "UPPIntersection.Halfspaces.Supplement.theorem_8_2", "child": "UPPIntersection_Halfspaces_Sphere", "via": ["statement"]}
 {"parent": "UPPIntersection.Halfspaces.Supplement.theorem_8_2", "child": "UPPIntersection_Halfspaces_Polynomials", "via": ["statement"]}
@@ -74104,9 +74104,9 @@
 {"parent": "RelDecoding_Supplement_targetExpectation", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace", "via": ["statement"]}
 {"parent": "RelDecoding_Supplement_targetExpectation", "child": "RelDecoding_markedSpace", "via": ["statement"]}
 {"parent": "BinaryQueryLB_Supplement_StrongStopsWith", "child": "BinaryQueryLB_Supplement_strongHistory", "via": ["statement"]}
-{"parent": "ArithmeticKakeya.constructible_proof_implies_AK", "child": "ArithmeticKakeya_ak", "via": ["statement"]}
-{"parent": "ArithmeticKakeya.constructible_proof_implies_AK", "child": "ArithmeticKakeya_grid", "via": ["statement"]}
-{"parent": "ArithmeticKakeya.constructible_proof_implies_AK", "child": "ArithmeticKakeya_forcing", "via": ["statement"]}
+{"parent": "ArithmeticKakeya.constructible_proof_implies_AK", "child": "ArithmeticKakeya_ak", "via": ["solution", "statement"]}
+{"parent": "ArithmeticKakeya.constructible_proof_implies_AK", "child": "ArithmeticKakeya_grid", "via": ["solution", "statement"]}
+{"parent": "ArithmeticKakeya.constructible_proof_implies_AK", "child": "ArithmeticKakeya_forcing", "via": ["solution", "statement"]}
 {"parent": "GoodReductionJacobian.AbelianSchemePropertyBundle.exists_numberField_symmetricFiniteFrame", "child": "AlgebraicGeometry_SymmetricFiniteFrame", "via": ["solution", "statement"]}
 {"parent": "DetANN_HPIMBuild", "child": "DetANN_HPIMBSP", "via": ["statement"]}
 {"parent": "Kyprianou.ProofPreparation.three_levy_charfun_factorisation", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
@@ -75962,8 +75962,8 @@
 {"parent": "PDSEquiv.Supplement.theorem_1_3", "child": "PDSEquiv_Machine", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.geometricMeasureInfDiv_strict", "child": "levy_foundations_isInfinitelyDivisibleLaw", "via": ["solution", "statement"]}
 {"parent": "TwoFoldOPI_Supplement_pmfVar", "child": "TwoFoldOPI_Supplement_pmfMean", "via": ["statement"]}
-{"parent": "ArithmeticKakeya.katz_tao_config_11_6", "child": "ArithmeticKakeya_grid", "via": ["statement"]}
-{"parent": "ArithmeticKakeya.katz_tao_config_11_6", "child": "ArithmeticKakeya_forcing", "via": ["statement"]}
+{"parent": "ArithmeticKakeya.katz_tao_config_11_6", "child": "ArithmeticKakeya_grid", "via": ["solution", "statement"]}
+{"parent": "ArithmeticKakeya.katz_tao_config_11_6", "child": "ArithmeticKakeya_forcing", "via": ["solution", "statement"]}
 {"parent": "SubspaceConv.Supplement.theorem_2", "child": "SubspaceConv_LinSLP", "via": ["statement"]}
 {"parent": "SubspaceConv.Supplement.theorem_2", "child": "SubspaceConv_Supplement_incidence", "via": ["statement"]}
 {"parent": "SubspaceConv.Supplement.theorem_2", "child": "SubspaceConv_Supplement_Gr", "via": ["statement"]}
@@ -82712,7 +82712,7 @@
 {"parent": "NondetConn.Supplement.theorem_6_1", "child": "NondetConn_Supplement_startsWith", "via": ["statement"]}
 {"parent": "HighConfRobust_Supplement_IsAdaptiveRobust", "child": "HighConfRobust_Supplement_IsAdaptiveAdversary", "via": ["statement"]}
 {"parent": "DetAuctions.Supplement.theorem_1_1", "child": "MultiItemRev_Decomp_Model", "via": ["statement"]}
-{"parent": "ArithmeticKakeya.bourgain_ak_25_13", "child": "ArithmeticKakeya_ak", "via": ["statement"]}
+{"parent": "ArithmeticKakeya.bourgain_ak_25_13", "child": "ArithmeticKakeya_ak", "via": ["solution", "statement"]}
 {"parent": "OmniMix_Supplement_alg1G", "child": "OmniMix_Supplement_alg1Phi", "via": ["statement"]}
 {"parent": "QuantumLTF.Majority.krawtchouk_parseval", "child": "QuantumLTF_Majority_AdversaryModel", "via": ["solution", "statement"]}
 {"parent": "TimeSpaceMA_Supplement_InTIME1", "child": "TimeSpaceMA_RATM", "via": ["statement"]}
@@ -83144,8 +83144,8 @@
 {"parent": "ReplicableOL_Supplement_thm3A", "child": "ReplicableOL_Supplement_thm3kappa", "via": ["statement"]}
 {"parent": "PRUPermLayer_Supplement_mixAcceptProb", "child": "PRUPermLayer_Supplement_mixFinalState", "via": ["statement"]}
 {"parent": "Scratch.TateZ2xZ10Reduction.scaleByTateRho_a3", "child": "TateZ2xZ10Reduction", "via": ["solution", "statement"]}
-{"parent": "ArithmeticKakeya.katz_tao_config_7_4", "child": "ArithmeticKakeya_grid", "via": ["statement"]}
-{"parent": "ArithmeticKakeya.katz_tao_config_7_4", "child": "ArithmeticKakeya_forcing", "via": ["statement"]}
+{"parent": "ArithmeticKakeya.katz_tao_config_7_4", "child": "ArithmeticKakeya_grid", "via": ["solution", "statement"]}
+{"parent": "ArithmeticKakeya.katz_tao_config_7_4", "child": "ArithmeticKakeya_forcing", "via": ["solution", "statement"]}
 {"parent": "RPLib_S4T_Glue", "child": "RPLib_S3_TateStmtP", "via": ["statement"]}
 {"parent": "RPLib_S4T_Glue", "child": "RPLib_S4T_FLTStmts", "via": ["statement"]}
 {"parent": "N25.canonicalConePolynomial25_injective", "child": "N25_CanonicalPrincipalOpenChart", "via": ["solution", "statement"]}

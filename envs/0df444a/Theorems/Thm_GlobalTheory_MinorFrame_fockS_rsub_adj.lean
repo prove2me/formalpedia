@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_fockS_rsub_adj
 -- name    : GlobalTheory.MinorFrame.fockS_rsub_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:51.055049+00:00
 -- url     : https://prove2.me/theorems/63f353f6-995b-480d-8688-2ec9d77e0e64

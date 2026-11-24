@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_csr_map_aeval
 -- name    : GlobalTheory.csr_map_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:14:44.718261+00:00
 -- url     : https://prove2.me/theorems/b28b8e9d-83ae-4d61-bcf9-b00ddb89638e

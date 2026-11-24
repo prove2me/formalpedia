@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_cone_ex_zero
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.cone_ex_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:22:49.197846+00:00
 -- url     : https://prove2.me/theorems/a78a180d-9e09-434b-81d1-8f5b47137cf1

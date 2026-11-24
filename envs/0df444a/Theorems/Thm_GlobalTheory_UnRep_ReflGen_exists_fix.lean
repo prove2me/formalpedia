@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_ReflGen_exists_fix
 -- name    : GlobalTheory.UnRep.ReflGen.exists_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:25:04.99273+00:00
 -- url     : https://prove2.me/theorems/908f2235-3070-4f25-ab1b-275bae7008b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistVertex_level_lam
 -- name    : GlobalTheory.TwistVertex.level_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:10:36.235969+00:00
 -- url     : https://prove2.me/theorems/15d68caf-9199-4cb8-baa0-38df5c5ee27c

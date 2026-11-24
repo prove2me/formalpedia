@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventually_eq_zero_of_isBigO_cube_of_doubling
 -- name    : GlobalTheory.eventually_eq_zero_of_isBigO_cube_of_doubling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:19:46.461652+00:00
 -- url     : https://prove2.me/theorems/cd6ac86f-7573-472c-bca6-e5bfd3b1493b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coe_baseKA_rho
 -- name    : GlobalTheory.coe_baseKA_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:09:15.397869+00:00
 -- url     : https://prove2.me/theorems/078d05f7-e50e-4e08-a9b6-c3f6657df34e

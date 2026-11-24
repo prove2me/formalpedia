@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OneFormCoh_muMap_tmul
 -- name    : GlobalTheory.CompanionTheory.OneFormCoh.muMap_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:22:34.295442+00:00
 -- url     : https://prove2.me/theorems/225f3e7a-df9f-4c04-b9f9-7452181971ba

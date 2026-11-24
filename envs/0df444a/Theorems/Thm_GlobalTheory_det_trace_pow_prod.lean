@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_trace_pow_prod
 -- name    : GlobalTheory.det_trace_pow_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:47.72286+00:00
 -- url     : https://prove2.me/theorems/9c7bcddc-acda-4b87-bcae-8c94419cd340

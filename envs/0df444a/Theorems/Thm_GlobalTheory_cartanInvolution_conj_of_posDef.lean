@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cartanInvolution_conj_of_posDef
 -- name    : GlobalTheory.cartanInvolution_conj_of_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:43.642231+00:00
 -- url     : https://prove2.me/theorems/3869d031-45b8-403d-b7f0-830561180d49

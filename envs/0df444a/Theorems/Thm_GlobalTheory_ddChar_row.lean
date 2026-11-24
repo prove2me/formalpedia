@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ddChar_row
 -- name    : GlobalTheory.ddChar_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:14:56.610982+00:00
 -- url     : https://prove2.me/theorems/cdba3ab8-1141-487d-8fab-d5206d120d08

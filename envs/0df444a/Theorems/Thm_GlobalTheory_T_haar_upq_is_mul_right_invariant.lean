@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_upq_is_mul_right_invariant
 -- name    : GlobalTheory.T.haar_upq_is_mul_right_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:42:13.103602+00:00
 -- url     : https://prove2.me/theorems/3ec3582f-cbaa-4831-8e7e-9cd986b0d3ed

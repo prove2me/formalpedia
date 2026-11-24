@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_quot_span_pow_eq_card_pow_domain
 -- name    : GlobalTheory.T.card_quot_span_pow_eq_card_pow_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:28:11.614892+00:00
 -- url     : https://prove2.me/theorems/bfd22652-acdf-415d-8084-b5337c39509e

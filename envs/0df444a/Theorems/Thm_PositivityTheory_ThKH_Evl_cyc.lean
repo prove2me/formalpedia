@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Evl_cyc
 -- name    : PositivityTheory.ThKH.Evl.cyc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:38.640843+00:00
 -- url     : https://prove2.me/theorems/e4d92704-f643-4edf-8b08-1979e2d9eec8

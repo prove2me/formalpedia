@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_addEquiv_of_compatible_congr
 -- name    : GlobalTheory.existsUnique_addEquiv_of_compatible_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:12.853621+00:00
 -- url     : https://prove2.me/theorems/05ad3d91-0c3d-46f9-b321-20b343f99bf1

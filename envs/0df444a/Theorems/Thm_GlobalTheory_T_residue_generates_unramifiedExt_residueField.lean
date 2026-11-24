@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_residue_generates_unramifiedExt_residueField
 -- name    : GlobalTheory.T.residue_generates_unramifiedExt_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:56:57.182542+00:00
 -- url     : https://prove2.me/theorems/67601cba-4210-480e-bfc8-5d66f4be4cd4

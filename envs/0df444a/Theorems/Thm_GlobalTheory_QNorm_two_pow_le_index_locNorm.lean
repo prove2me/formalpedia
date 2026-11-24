@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_two_pow_le_index_locNorm
 -- name    : GlobalTheory.QNorm.two_pow_le_index_locNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:07:41.822939+00:00
 -- url     : https://prove2.me/theorems/8170943d-40fe-4713-a580-86529c2c560c

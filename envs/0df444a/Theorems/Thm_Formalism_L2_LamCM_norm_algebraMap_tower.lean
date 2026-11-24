@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_norm_algebraMap_tower
 -- name    : Formalism.L2.LamCM.norm_algebraMap_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:29:14.149996+00:00
 -- url     : https://prove2.me/theorems/89a985fe-08e2-403c-a28b-e6d8cca91ab2

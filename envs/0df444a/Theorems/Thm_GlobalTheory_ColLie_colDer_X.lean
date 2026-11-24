@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColLie_colDer_X
 -- name    : GlobalTheory.ColLie.colDer_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:19:10.478904+00:00
 -- url     : https://prove2.me/theorems/08d181e7-eeec-4bff-8841-401af2b5d0ab

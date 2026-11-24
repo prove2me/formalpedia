@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_conductor_prod_fst
 -- name    : GlobalTheory.conductor_prod_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:36.585249+00:00
 -- url     : https://prove2.me/theorems/c2a70cff-db39-407e-9938-238c3b0b3e90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_forall_rat_smul_mem
 -- name    : GlobalTheory.eq_zero_of_forall_rat_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:19:03.575276+00:00
 -- url     : https://prove2.me/theorems/71365edf-1f35-4978-a9c5-d3fbdf07fb0a

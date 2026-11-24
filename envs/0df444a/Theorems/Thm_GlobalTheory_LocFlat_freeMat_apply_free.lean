@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_freeMat_apply_free
 -- name    : GlobalTheory.LocFlat.freeMat_apply_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:28:14.435407+00:00
 -- url     : https://prove2.me/theorems/40625e81-313b-410b-85b4-66b24730d447

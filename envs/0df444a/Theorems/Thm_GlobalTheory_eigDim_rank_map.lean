@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eigDim_rank_map
 -- name    : GlobalTheory.eigDim_rank_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:34.905497+00:00
 -- url     : https://prove2.me/theorems/afb1377a-0a8b-4868-8a0f-217df0af951d

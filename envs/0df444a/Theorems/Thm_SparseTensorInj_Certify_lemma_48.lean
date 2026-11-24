@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseTensorInj_Certify_lemma_48
 -- name    : SparseTensorInj.Certify.lemma_48
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T01:38:28.372352+00:00
 -- url     : https://prove2.me/theorems/e8c01bd9-e795-4e2a-abbf-b4ef2a557e71

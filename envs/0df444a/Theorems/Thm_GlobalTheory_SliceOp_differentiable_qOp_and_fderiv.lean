@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOp_differentiable_qOp_and_fderiv
 -- name    : GlobalTheory.SliceOp.differentiable_qOp_and_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:14:08.289375+00:00
 -- url     : https://prove2.me/theorems/15740954-662a-4658-8699-25a35659feaf

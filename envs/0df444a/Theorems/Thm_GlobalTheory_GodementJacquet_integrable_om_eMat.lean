@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_integrable_om_eMat
 -- name    : GlobalTheory.GodementJacquet.integrable_om_eMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:27:09.812854+00:00
 -- url     : https://prove2.me/theorems/d9da81f7-b826-478c-9c47-6e2cda84a0f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_exists_equivariant
 -- name    : GlobalTheory.CollapseCompare.exists_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:19:50.900921+00:00
 -- url     : https://prove2.me/theorems/ea84d148-801e-42c4-bd8c-a545a9fcad0c

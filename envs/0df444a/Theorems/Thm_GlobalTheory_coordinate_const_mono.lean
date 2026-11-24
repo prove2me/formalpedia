@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coordinate_const_mono
 -- name    : GlobalTheory.coordinate_const_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:44.557665+00:00
 -- url     : https://prove2.me/theorems/e069c94a-5f4f-4557-a999-2bd3494adbe3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_hasSum_lambert
 -- name    : GlobalTheory.WpFam.hasSum_lambert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:55:57.282541+00:00
 -- url     : https://prove2.me/theorems/176a9f46-4897-428a-b801-fd07b5cfd3dc

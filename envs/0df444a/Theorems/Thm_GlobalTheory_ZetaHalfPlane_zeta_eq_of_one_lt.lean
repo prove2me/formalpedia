@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaHalfPlane_zeta_eq_of_one_lt
 -- name    : GlobalTheory.ZetaHalfPlane.zeta_eq_of_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:04:46.990434+00:00
 -- url     : https://prove2.me/theorems/071684a7-da4c-480e-a736-f0aef824420c

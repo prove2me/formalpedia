@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_hasTypes_parPhi
 -- name    : GlobalTheory.StepData.hasTypes_parPhi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:51:18.833796+00:00
 -- url     : https://prove2.me/theorems/3cae8ead-a834-409c-8ddf-8ad75130ca11

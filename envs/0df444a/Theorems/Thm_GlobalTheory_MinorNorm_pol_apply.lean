@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_pol_apply
 -- name    : GlobalTheory.MinorNorm.pol_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:20.357836+00:00
 -- url     : https://prove2.me/theorems/b3c51737-fd1f-4ea4-9054-ae12b734c472

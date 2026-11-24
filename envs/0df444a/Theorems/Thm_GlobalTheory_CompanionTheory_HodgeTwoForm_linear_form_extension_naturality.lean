@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeTwoForm_linear_form_extension_naturality
 -- name    : GlobalTheory.CompanionTheory.HodgeTwoForm.linear_form_extension_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:24:12.520048+00:00
 -- url     : https://prove2.me/theorems/b5d98268-9637-4b18-a0f5-a96495d5155b

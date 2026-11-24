@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_points_ne_zero_of_basis
 -- name    : GlobalTheory.det_points_ne_zero_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:43.810596+00:00
 -- url     : https://prove2.me/theorems/6ff74579-3781-47b7-b333-6550bdbff56a

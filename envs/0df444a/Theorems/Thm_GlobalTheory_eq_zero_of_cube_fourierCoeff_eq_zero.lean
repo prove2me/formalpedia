@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_cube_fourierCoeff_eq_zero
 -- name    : GlobalTheory.eq_zero_of_cube_fourierCoeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:17:58.26354+00:00
 -- url     : https://prove2.me/theorems/acf36c07-c095-4bd6-a07e-52990fb093fd

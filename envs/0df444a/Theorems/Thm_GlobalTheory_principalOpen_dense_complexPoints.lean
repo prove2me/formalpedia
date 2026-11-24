@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_principalOpen_dense_complexPoints
 -- name    : GlobalTheory.principalOpen_dense_complexPoints
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:11.011466+00:00
 -- url     : https://prove2.me/theorems/558741df-9195-470b-b48f-4b12eef8b669

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_echelon_projector_frobenius
 -- name    : GlobalTheory.echelon_projector_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:38.136706+00:00
 -- url     : https://prove2.me/theorems/be8079a3-c9fc-4cea-86da-b87542d9409c

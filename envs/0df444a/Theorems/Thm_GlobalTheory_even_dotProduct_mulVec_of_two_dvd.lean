@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_even_dotProduct_mulVec_of_two_dvd
 -- name    : GlobalTheory.even_dotProduct_mulVec_of_two_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:20:11.511344+00:00
 -- url     : https://prove2.me/theorems/fd4281b7-4e1c-4a70-b0fe-2c4729d404f8

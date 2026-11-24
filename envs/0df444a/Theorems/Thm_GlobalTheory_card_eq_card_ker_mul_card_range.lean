@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_eq_card_ker_mul_card_range
 -- name    : GlobalTheory.card_eq_card_ker_mul_card_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:43.734368+00:00
 -- url     : https://prove2.me/theorems/fe852351-e7a3-4373-815a-b451f74f7986

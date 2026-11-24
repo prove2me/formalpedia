@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SectionNbhd_isAffine_subscheme_ker_sq
 -- name    : GlobalTheory.CompanionTheory.SectionNbhd.isAffine_subscheme_ker_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:26:38.503477+00:00
 -- url     : https://prove2.me/theorems/66b8967e-b4bf-4a1c-81e1-60aac2455603

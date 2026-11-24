@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuous_tsum_lattice_translate
 -- name    : GlobalTheory.continuous_tsum_lattice_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:26.769163+00:00
 -- url     : https://prove2.me/theorems/6ff66e95-7576-4714-8239-5a2a6ac4cb2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_derivation_split_kaehlerD_smooth
 -- name    : GlobalTheory.T.exists_derivation_split_kaehlerD_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:13.486504+00:00
 -- url     : https://prove2.me/theorems/c2fac91d-b01a-43d5-8ae3-20c2ec187ac9

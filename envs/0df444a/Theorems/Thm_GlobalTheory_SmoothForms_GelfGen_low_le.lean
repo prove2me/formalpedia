@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_GelfGen_low_le
 -- name    : GlobalTheory.SmoothForms.GelfGen.low_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:29:40.313748+00:00
 -- url     : https://prove2.me/theorems/c9dd73de-37ad-4cfa-8e69-20a8b32e38a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_idele_of_linearEquiv_quotient
 -- name    : GlobalTheory.existsUnique_idele_of_linearEquiv_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:29:11.653868+00:00
 -- url     : https://prove2.me/theorems/7def1d38-aaa8-4836-8677-cb3dca48aa75

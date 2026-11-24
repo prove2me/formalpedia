@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_submatrix_mul_eq_sum_minors
 -- name    : GlobalTheory.det_submatrix_mul_eq_sum_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:46.702411+00:00
 -- url     : https://prove2.me/theorems/45f5af53-57bd-49ba-b7d4-ee89da6b9f50

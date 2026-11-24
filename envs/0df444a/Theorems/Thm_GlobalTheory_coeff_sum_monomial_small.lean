@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_sum_monomial_small
 -- name    : GlobalTheory.coeff_sum_monomial_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:10:09.900158+00:00
 -- url     : https://prove2.me/theorems/875f676d-3d8a-405f-90d6-31f80c527a2f

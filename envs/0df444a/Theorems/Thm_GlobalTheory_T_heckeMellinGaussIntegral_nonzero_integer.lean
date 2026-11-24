@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeMellinGaussIntegral_nonzero_integer
 -- name    : GlobalTheory.T.heckeMellinGaussIntegral_nonzero_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:45:53.483642+00:00
 -- url     : https://prove2.me/theorems/2665146a-3a58-4be1-b8fb-d58e35c3f198

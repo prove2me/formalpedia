@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_isPre_of_separable
 -- name    : GlobalTheory.UnitLemma.Desc.isPre_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:27:55.277801+00:00
 -- url     : https://prove2.me/theorems/78a60859-8603-4524-9527-c30d58ff79e0

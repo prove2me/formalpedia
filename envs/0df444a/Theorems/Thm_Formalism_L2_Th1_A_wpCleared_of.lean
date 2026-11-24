@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_wpCleared_of
 -- name    : Formalism.L2.Th1.A.wpCleared_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:46.077297+00:00
 -- url     : https://prove2.me/theorems/fbd437d1-9f97-4132-984b-e86d5efcfe55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_conjTranspose_mul_mul_self_of_unitary_conj
 -- name    : GlobalTheory.conjTranspose_mul_mul_self_of_unitary_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:29.458826+00:00
 -- url     : https://prove2.me/theorems/b0baebe0-5f7a-4e38-b0fa-1d6fc6ab9b5b

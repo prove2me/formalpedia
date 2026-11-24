@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightGen_wt_zero
 -- name    : GlobalTheory.WeightGen.wt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:52:41.877742+00:00
 -- url     : https://prove2.me/theorems/ff31be29-c846-42a6-997a-46f2b8202654

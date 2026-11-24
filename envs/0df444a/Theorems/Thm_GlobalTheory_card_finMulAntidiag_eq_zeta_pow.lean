@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_finMulAntidiag_eq_zeta_pow
 -- name    : GlobalTheory.card_finMulAntidiag_eq_zeta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:00.16179+00:00
 -- url     : https://prove2.me/theorems/d38a1132-b6b0-4c35-bfcb-7741447384e9

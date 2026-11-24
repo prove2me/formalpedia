@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_del_zero
 -- name    : GlobalTheory.MinorNorm.del_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:28:15.779708+00:00
 -- url     : https://prove2.me/theorems/f80cd7a0-6def-4a7b-bea8-adb15ac73347

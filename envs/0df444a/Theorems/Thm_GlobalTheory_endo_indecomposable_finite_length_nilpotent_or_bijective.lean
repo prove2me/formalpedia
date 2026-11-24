@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_endo_indecomposable_finite_length_nilpotent_or_bijective
 -- name    : GlobalTheory.endo_indecomposable_finite_length_nilpotent_or_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:50.691887+00:00
 -- url     : https://prove2.me/theorems/8425ecae-5298-497c-8623-d1880edae5a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_wedgeT_tmul
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.wedgeT_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:23:07.814941+00:00
 -- url     : https://prove2.me/theorems/36ce2e50-3478-4eff-a38a-4c9012a989d1

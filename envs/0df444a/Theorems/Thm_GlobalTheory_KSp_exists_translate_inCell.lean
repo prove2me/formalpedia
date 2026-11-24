@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_exists_translate_inCell
 -- name    : GlobalTheory.KSp.exists_translate_inCell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:47:17.738826+00:00
 -- url     : https://prove2.me/theorems/85c1d1b2-712f-4b3f-b8e7-51e7afb2cf4e

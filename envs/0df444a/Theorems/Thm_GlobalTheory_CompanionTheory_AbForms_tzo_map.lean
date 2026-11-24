@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_tzo_map
 -- name    : GlobalTheory.CompanionTheory.AbForms.tzo_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:21:34.425001+00:00
 -- url     : https://prove2.me/theorems/9d6e1fd0-0aca-4b90-9637-97a3a2e61b36

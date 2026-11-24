@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_HodgeTwoForm_nu__Multi_5c9fdc71b212
 -- name    : P2M_GlobalTheory_CompanionTheory_HodgeTwoForm_nu__Multi_5c9fdc71b212
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:23:42.14381+00:00
 -- url     : https://prove2.me/theorems/2d674336-ff47-447f-94ab-3b68dff95aaa

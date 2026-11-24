@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_residue_generates
 -- name    : GlobalTheory.UnitLemma.Unr.residue_generates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:38:26.557201+00:00
 -- url     : https://prove2.me/theorems/36478822-d918-474a-909c-ea8d5823df1c

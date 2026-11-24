@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_quot_span_pow
 -- name    : GlobalTheory.card_quot_span_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:41.927124+00:00
 -- url     : https://prove2.me/theorems/d7e6a922-4374-4533-b0b5-38f58f2d2fc2

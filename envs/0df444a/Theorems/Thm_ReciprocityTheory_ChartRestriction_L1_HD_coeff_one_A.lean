@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_HD_coeff_one_A
 -- name    : ReciprocityTheory.ChartRestriction.L1.HD.coeff_one_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:16:29.810606+00:00
 -- url     : https://prove2.me/theorems/e4c3df3e-f448-4dda-a471-423334507a46

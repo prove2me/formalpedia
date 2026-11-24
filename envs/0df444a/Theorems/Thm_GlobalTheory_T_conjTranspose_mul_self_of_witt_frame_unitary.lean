@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_conjTranspose_mul_self_of_witt_frame_unitary
 -- name    : GlobalTheory.T.conjTranspose_mul_self_of_witt_frame_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:05.304862+00:00
 -- url     : https://prove2.me/theorems/ecedd2b9-1468-455b-adc6-fb4ff33538ae

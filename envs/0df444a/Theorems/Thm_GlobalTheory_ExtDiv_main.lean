@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtDiv_main
 -- name    : GlobalTheory.ExtDiv.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:28:25.270825+00:00
 -- url     : https://prove2.me/theorems/52bfe21d-aece-4d23-b628-078b030ebea3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiable_phSym_coords
 -- name    : GlobalTheory.differentiable_phSym_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:15:42.9324+00:00
 -- url     : https://prove2.me/theorems/4ee59287-d85b-4431-a2b0-0c2fd777a0f6

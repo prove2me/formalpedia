@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_csr_reverse
 -- name    : GlobalTheory.csr_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:15:02.141396+00:00
 -- url     : https://prove2.me/theorems/34233a40-5c4d-4caf-b80f-56adc6663182

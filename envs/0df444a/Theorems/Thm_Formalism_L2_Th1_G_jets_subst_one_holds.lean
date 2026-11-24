@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jets_subst_one_holds
 -- name    : Formalism.L2.Th1.G.jets_subst_one_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:45:44.061901+00:00
 -- url     : https://prove2.me/theorems/61723934-24b1-43d9-8196-d0092a2ddd27

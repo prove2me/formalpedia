@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnipPow_pow_sub_one_eq_zero
 -- name    : GlobalTheory.RootEx.UnipPow.pow_sub_one_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:09:20.241039+00:00
 -- url     : https://prove2.me/theorems/5986a461-c7ac-4709-9e78-493a0b4e6641

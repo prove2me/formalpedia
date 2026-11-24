@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bertini_derivation_split
 -- name    : GlobalTheory.bertini_derivation_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:15.860283+00:00
 -- url     : https://prove2.me/theorems/195bb498-bb45-4115-b835-bea72780e999

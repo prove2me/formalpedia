@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isReduced_of_separable_markedCharpoly
 -- name    : GlobalTheory.T.isReduced_of_separable_markedCharpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:49:54.187064+00:00
 -- url     : https://prove2.me/theorems/3cc6575b-bf4a-4513-9881-4e2c67630f5d

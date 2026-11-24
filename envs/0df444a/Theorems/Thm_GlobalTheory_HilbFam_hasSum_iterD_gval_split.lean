@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_hasSum_iterD_gval_split
 -- name    : GlobalTheory.HilbFam.hasSum_iterD_gval_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:30.207357+00:00
 -- url     : https://prove2.me/theorems/ff4d5bca-ff57-4795-bb3c-2a78d84d7ee8

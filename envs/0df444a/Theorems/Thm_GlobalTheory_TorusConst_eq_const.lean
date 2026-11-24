@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_eq_const
 -- name    : GlobalTheory.TorusConst.eq_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:09:47.380806+00:00
 -- url     : https://prove2.me/theorems/b7d188c8-df46-47b4-b5be-46b68ea125d9

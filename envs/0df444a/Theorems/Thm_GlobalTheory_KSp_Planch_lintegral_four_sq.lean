@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Planch_lintegral_four_sq
 -- name    : GlobalTheory.KSp.Planch.lintegral_four_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:52.15778+00:00
 -- url     : https://prove2.me/theorems/24b7c39c-d463-45eb-8b7b-e1a9b93ab7e3

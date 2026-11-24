@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exceptional_primes_finite_card_le
 -- name    : GlobalTheory.exceptional_primes_finite_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:29:19.251799+00:00
 -- url     : https://prove2.me/theorems/dfa33eb3-4db7-4ed7-87df-45bf6f48e0c8

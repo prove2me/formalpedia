@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_compositeValuationSubring_le
 -- name    : GlobalTheory.compositeValuationSubring_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:26.414029+00:00
 -- url     : https://prove2.me/theorems/4cbf4546-5961-4e92-b727-e23fe7700bed

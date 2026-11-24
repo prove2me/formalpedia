@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_ResVal_int_lift
 -- name    : GlobalTheory.UnitLemma.Unr.ResVal.int_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:36:56.043339+00:00
 -- url     : https://prove2.me/theorems/2e033305-4fda-4c0b-9e4c-10685c749509

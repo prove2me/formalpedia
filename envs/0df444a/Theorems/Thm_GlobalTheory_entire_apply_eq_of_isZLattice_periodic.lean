@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_apply_eq_of_isZLattice_periodic
 -- name    : GlobalTheory.entire_apply_eq_of_isZLattice_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:16:23.140993+00:00
 -- url     : https://prove2.me/theorems/8b1f542f-b272-4c1c-bfac-89ff48b52d3b

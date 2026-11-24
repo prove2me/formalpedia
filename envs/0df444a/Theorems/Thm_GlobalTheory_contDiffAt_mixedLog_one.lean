@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDiffAt_mixedLog_one
 -- name    : GlobalTheory.contDiffAt_mixedLog_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:19.145595+00:00
 -- url     : https://prove2.me/theorems/87b10d8d-c328-4583-ba9d-1acb302532ce

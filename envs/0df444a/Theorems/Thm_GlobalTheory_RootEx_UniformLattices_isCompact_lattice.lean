@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UniformLattices_isCompact_lattice
 -- name    : GlobalTheory.RootEx.UniformLattices.isCompact_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:12:38.867848+00:00
 -- url     : https://prove2.me/theorems/839410f5-0a56-4dc6-b88c-eee019b4704c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_eMat_leftInv
 -- name    : GlobalTheory.GodementJacquet.eMat_leftInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:26:50.765401+00:00
 -- url     : https://prove2.me/theorems/d4b967d5-e310-4ecf-9a80-8116206f0c46

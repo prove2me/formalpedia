@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_cols_mul_inv_minor_mul_rows
 -- name    : GlobalTheory.eq_cols_mul_inv_minor_mul_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:17:36.692393+00:00
 -- url     : https://prove2.me/theorems/54efa140-da1b-4d20-9e14-9134b296b8cb

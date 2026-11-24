@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_hermitian_representations_residue
 -- name    : GlobalTheory.T.card_hermitian_representations_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:27:37.856914+00:00
 -- url     : https://prove2.me/theorems/5b101bb2-75bc-4b0f-b052-acf6ddc76165

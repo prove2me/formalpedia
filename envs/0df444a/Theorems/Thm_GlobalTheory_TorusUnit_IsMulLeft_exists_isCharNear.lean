@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_IsMulLeft_exists_isCharNear
 -- name    : GlobalTheory.TorusUnit.IsMulLeft.exists_isCharNear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:21.481095+00:00
 -- url     : https://prove2.me/theorems/ba623799-4078-42d1-a64b-88dc22d10102

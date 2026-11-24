@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_commuting_multiplier_eq_const_smul_generator
 -- name    : GlobalTheory.commuting_multiplier_eq_const_smul_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:11:42.931321+00:00
 -- url     : https://prove2.me/theorems/c5e5ffd3-2932-470e-97d4-ccf71c46c6b9

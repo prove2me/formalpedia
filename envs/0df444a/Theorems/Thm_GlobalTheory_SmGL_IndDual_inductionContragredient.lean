@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IndDual_inductionContragredient
 -- name    : GlobalTheory.SmGL.IndDual.inductionContragredient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:24:56.9458+00:00
 -- url     : https://prove2.me/theorems/7da2d24c-e999-4590-bb0e-bd8051e67856

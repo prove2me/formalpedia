@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_gram_pi_hermForm
 -- name    : GlobalTheory.det_gram_pi_hermForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:20.012314+00:00
 -- url     : https://prove2.me/theorems/1583cbb3-a6d8-459b-b253-9e5bbe71d95c

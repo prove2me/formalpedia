@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDiff_of_continuous_of_map_add_eq_mul
 -- name    : GlobalTheory.contDiff_of_continuous_of_map_add_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:31.989009+00:00
 -- url     : https://prove2.me/theorems/e3d2d280-81ac-4bdb-9cf4-6308ab933285

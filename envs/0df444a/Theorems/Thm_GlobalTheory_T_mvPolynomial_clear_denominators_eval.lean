@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mvPolynomial_clear_denominators_eval
 -- name    : GlobalTheory.T.mvPolynomial_clear_denominators_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:53:40.058931+00:00
 -- url     : https://prove2.me/theorems/0adf0d16-8e77-45aa-bd12-e838fbe5fe98

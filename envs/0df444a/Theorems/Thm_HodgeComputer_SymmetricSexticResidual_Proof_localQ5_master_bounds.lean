@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localQ5_master_bounds
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localQ5_master_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T22:09:22.746846+00:00
 -- url     : https://prove2.me/theorems/c9cfb6dd-ed00-40dc-a0ef-7e1be46907d1

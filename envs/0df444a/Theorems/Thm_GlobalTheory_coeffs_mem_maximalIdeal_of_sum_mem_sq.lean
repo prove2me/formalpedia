@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeffs_mem_maximalIdeal_of_sum_mem_sq
 -- name    : GlobalTheory.coeffs_mem_maximalIdeal_of_sum_mem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:11:12.518839+00:00
 -- url     : https://prove2.me/theorems/74342180-a3f8-45ef-b0b0-2c91f9a99ff4

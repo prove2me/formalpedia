@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_SES_ex_succ
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.SES.ex_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:27:38.3738+00:00
 -- url     : https://prove2.me/theorems/5e0cce4b-cb37-4750-874a-c37902567cbb

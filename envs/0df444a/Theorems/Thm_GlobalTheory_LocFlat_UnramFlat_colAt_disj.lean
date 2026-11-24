@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_UnramFlat_colAt_disj
 -- name    : GlobalTheory.LocFlat.UnramFlat.colAt_disj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:27:27.506777+00:00
 -- url     : https://prove2.me/theorems/e2b066e3-f121-40d0-a23f-56abbd2bbe28

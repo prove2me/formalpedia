@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryZariskiDense_eval_clearQ
 -- name    : GlobalTheory.UnitaryZariskiDense.eval_clearQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:48:04.715068+00:00
 -- url     : https://prove2.me/theorems/6267e228-a1f5-4a18-8a5f-95ca24b372d5

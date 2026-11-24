@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_overR_mkT
 -- name    : GlobalTheory.CompanionTheory.AxForm.overR_mkT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:24:49.636723+00:00
 -- url     : https://prove2.me/theorems/26d9edac-6136-4ada-9d64-7c6784950f23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_StabIndex_relIndex_ne_zero
 -- name    : GlobalTheory.UnitLemma.StabIndex.relIndex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:34:49.304998+00:00
 -- url     : https://prove2.me/theorems/c5537ec4-7412-4433-aa2d-d70d3faa2b59

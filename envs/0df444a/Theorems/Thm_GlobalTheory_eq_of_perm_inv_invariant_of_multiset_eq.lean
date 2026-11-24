@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_perm_inv_invariant_of_multiset_eq
 -- name    : GlobalTheory.eq_of_perm_inv_invariant_of_multiset_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:17:41.832375+00:00
 -- url     : https://prove2.me/theorems/a2bd8614-eb76-4463-95ea-549cf66b2128

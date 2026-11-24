@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_finrank_int_lattice
 -- name    : GlobalTheory.ZM.finrank_int_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:43.188574+00:00
 -- url     : https://prove2.me/theorems/0def039d-b6ee-4d8f-9cfd-1d285ff8c45b

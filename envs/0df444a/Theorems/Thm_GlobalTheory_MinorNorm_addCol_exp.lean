@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_addCol_exp
 -- name    : GlobalTheory.MinorNorm.addCol_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:28:21.921931+00:00
 -- url     : https://prove2.me/theorems/89669bc4-f145-4fb7-ab25-2660c533b8f7

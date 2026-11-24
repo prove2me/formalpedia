@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_iotaQ_mk
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.iotaQ_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:23:35.603779+00:00
 -- url     : https://prove2.me/theorems/841a8a23-c8cf-4c2d-9822-ecd1a9db7bea

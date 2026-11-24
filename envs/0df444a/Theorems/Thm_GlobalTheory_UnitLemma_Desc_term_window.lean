@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_term_window
 -- name    : GlobalTheory.UnitLemma.Desc.term_window
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:28:25.815196+00:00
 -- url     : https://prove2.me/theorems/98b441a0-ea8f-4923-ad39-e83258fc3a8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_UnramFlat_ind_eq_ite
 -- name    : GlobalTheory.LocFlat.UnramFlat.ind_eq_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:27:51.698813+00:00
 -- url     : https://prove2.me/theorems/dfa4bd15-e429-4f51-834a-b98d79674152

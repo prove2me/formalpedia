@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thetaHolo_of_domainOpen_of_mTest
 -- name    : GlobalTheory.thetaHolo_of_domainOpen_of_mTest
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:38.245209+00:00
 -- url     : https://prove2.me/theorems/d13f4cf7-f34d-4376-91dd-0d1273b53b94

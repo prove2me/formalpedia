@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Wr_eq_zero_of_wronsk
 -- name    : Formalism.L2.Th1.B.Wr.eq_zero_of_wronsk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:01:16.37193+00:00
 -- url     : https://prove2.me/theorems/b24f939c-e719-40eb-a1c3-ab1867eb64cd

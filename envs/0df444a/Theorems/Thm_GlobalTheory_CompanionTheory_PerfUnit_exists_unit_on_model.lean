@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfUnit_exists_unit_on_model
 -- name    : GlobalTheory.CompanionTheory.PerfUnit.exists_unit_on_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:26:50.794026+00:00
 -- url     : https://prove2.me/theorems/26c04f69-1b68-4595-ae42-0bc8a6b6d3cc

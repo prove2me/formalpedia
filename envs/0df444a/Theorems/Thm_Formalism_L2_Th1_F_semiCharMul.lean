@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_semiCharMul
 -- name    : Formalism.L2.Th1.F.semiCharMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:50.879583+00:00
 -- url     : https://prove2.me/theorems/eb73dbc9-e4dc-41e1-81ed-10e0b666e3eb

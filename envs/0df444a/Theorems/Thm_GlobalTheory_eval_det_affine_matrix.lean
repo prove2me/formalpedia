@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eval_det_affine_matrix
 -- name    : GlobalTheory.eval_det_affine_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:19:50.767906+00:00
 -- url     : https://prove2.me/theorems/9dbfcdcb-898a-41d7-9939-ba10d6c88d5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_parabolicDoubleCosetFunction_eq_one
 -- name    : GlobalTheory.T.exists_parabolicDoubleCosetFunction_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:20:25.12225+00:00
 -- url     : https://prove2.me/theorems/57dc4821-b7ed-4635-b32a-9a2d13ebc14b

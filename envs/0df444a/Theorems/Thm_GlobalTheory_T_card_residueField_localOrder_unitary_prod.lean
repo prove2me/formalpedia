@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_residueField_localOrder_unitary_prod
 -- name    : GlobalTheory.T.card_residueField_localOrder_unitary_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:27:55.333514+00:00
 -- url     : https://prove2.me/theorems/beb0ddcd-a5bc-4517-b696-d0402ddfafac

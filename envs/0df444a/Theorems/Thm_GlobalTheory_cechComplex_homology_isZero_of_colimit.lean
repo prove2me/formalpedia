@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechComplex_homology_isZero_of_colimit
 -- name    : GlobalTheory.cechComplex_homology_isZero_of_colimit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:38.397343+00:00
 -- url     : https://prove2.me/theorems/ecb075e6-2bdd-465a-aa64-ac6b31492096

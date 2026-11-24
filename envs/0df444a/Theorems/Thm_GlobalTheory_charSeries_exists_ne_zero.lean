@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_charSeries_exists_ne_zero
 -- name    : GlobalTheory.charSeries_exists_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:50.161799+00:00
 -- url     : https://prove2.me/theorems/4d4f110b-a76c-4c4a-bfa3-c6169e19ece1

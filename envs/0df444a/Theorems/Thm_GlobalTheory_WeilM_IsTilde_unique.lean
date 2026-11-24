@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_IsTilde_unique
 -- name    : GlobalTheory.WeilM.IsTilde.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:54:57.783838+00:00
 -- url     : https://prove2.me/theorems/4e57632f-1400-403d-8e25-35852b04162b

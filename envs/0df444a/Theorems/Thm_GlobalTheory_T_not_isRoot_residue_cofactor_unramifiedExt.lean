@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_not_isRoot_residue_cofactor_unramifiedExt
 -- name    : GlobalTheory.T.not_isRoot_residue_cofactor_unramifiedExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:54:01.012044+00:00
 -- url     : https://prove2.me/theorems/0d80ccc2-d7aa-42e9-aeb6-585027bc3f77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_even_quadratic_pos_of_finite_nonpos
 -- name    : GlobalTheory.even_quadratic_pos_of_finite_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:20:33.859375+00:00
 -- url     : https://prove2.me/theorems/80601b7d-94ad-4a74-8070-a3fdbce455fb

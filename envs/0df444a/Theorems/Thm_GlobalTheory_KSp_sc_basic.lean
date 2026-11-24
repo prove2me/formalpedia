@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_sc_basic
 -- name    : GlobalTheory.KSp.sc_basic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:22:38.374799+00:00
 -- url     : https://prove2.me/theorems/bd1a6c71-4ffe-4eaf-a5f3-7476126a61fb

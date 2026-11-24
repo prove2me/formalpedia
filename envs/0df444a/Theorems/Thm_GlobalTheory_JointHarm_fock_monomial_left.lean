@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JointHarm_fock_monomial_left
 -- name    : GlobalTheory.JointHarm.fock_monomial_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:26:46.916605+00:00
 -- url     : https://prove2.me/theorems/793ba65d-5e44-4885-a10d-ea5fe1da01fa

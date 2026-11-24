@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_div_diag
 -- name    : Formalism.L2.Th1.B.E2.div_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:01:01.962821+00:00
 -- url     : https://prove2.me/theorems/b3eb8a3e-19fc-4769-bc9a-e827956cb7d5

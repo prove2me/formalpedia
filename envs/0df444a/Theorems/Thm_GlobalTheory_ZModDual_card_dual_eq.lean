@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZModDual_card_dual_eq
 -- name    : GlobalTheory.ZModDual.card_dual_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:23:16.312944+00:00
 -- url     : https://prove2.me/theorems/22cc2f45-33a4-4cea-8367-26e9a67b6ef8

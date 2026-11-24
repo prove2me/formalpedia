@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Wick_induction_inl
 -- name    : GlobalTheory.Wick.induction_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:34.2776+00:00
 -- url     : https://prove2.me/theorems/d96dadfc-c0f8-4bbf-8454-455ce524ce9e

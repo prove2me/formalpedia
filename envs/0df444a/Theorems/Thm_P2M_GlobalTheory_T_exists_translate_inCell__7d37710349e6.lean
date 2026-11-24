@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_translate_inCell__7d37710349e6
 -- name    : P2M_GlobalTheory_T_exists_translate_inCell__7d37710349e6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:58:50.455902+00:00
 -- url     : https://prove2.me/theorems/5dbf0033-b375-4f33-a5ae-e1e4b47697a1

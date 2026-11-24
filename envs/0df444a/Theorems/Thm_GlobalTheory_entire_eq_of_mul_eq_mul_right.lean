@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_eq_of_mul_eq_mul_right
 -- name    : GlobalTheory.entire_eq_of_mul_eq_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:16:52.465796+00:00
 -- url     : https://prove2.me/theorems/81ac9e8e-63b7-4894-96ad-bbfa27220b53

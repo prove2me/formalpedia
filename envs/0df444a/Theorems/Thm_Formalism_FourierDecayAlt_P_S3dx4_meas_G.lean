@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_meas_G
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.meas_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:27:04.701928+00:00
 -- url     : https://prove2.me/theorems/36286c8f-0a6c-4bd8-aaf2-067e892692ab

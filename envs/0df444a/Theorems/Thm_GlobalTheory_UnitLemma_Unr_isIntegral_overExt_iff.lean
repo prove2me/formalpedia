@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_isIntegral_overExt_iff
 -- name    : GlobalTheory.UnitLemma.Unr.isIntegral_overExt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:38:09.0407+00:00
 -- url     : https://prove2.me/theorems/445823ed-f56d-4473-bf3c-c12a0cfc9205

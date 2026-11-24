@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_character_of_mul
 -- name    : GlobalTheory.existsUnique_character_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:41:51.932677+00:00
 -- url     : https://prove2.me/theorems/ccb5dce0-f7b3-476c-8343-485c7779e73e

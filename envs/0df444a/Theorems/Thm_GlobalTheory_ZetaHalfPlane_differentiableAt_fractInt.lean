@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaHalfPlane_differentiableAt_fractInt
 -- name    : GlobalTheory.ZetaHalfPlane.differentiableAt_fractInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:04:31.158406+00:00
 -- url     : https://prove2.me/theorems/53abce19-22e5-4efa-a0c5-0ca341eefaf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_OpenKernel_isLocallyConstant_coe_addChar
 -- name    : GlobalTheory.RootEx.OpenKernel.isLocallyConstant_coe_addChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:22:11.182284+00:00
 -- url     : https://prove2.me/theorems/9e54909c-6a2c-41fa-bbb1-f7130c66e808

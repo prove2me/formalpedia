@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_selfDual_pi_trace
 -- name    : GlobalTheory.JR.selfDual_pi_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:40:27.442686+00:00
 -- url     : https://prove2.me/theorems/4e17a3fe-b258-42a0-a264-92ce2e8af8b8

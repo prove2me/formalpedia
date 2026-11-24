@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_GelfGen_trace_symb
 -- name    : GlobalTheory.SmoothForms.GelfGen.trace_symb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:29:44.012261+00:00
 -- url     : https://prove2.me/theorems/8f517311-d748-4556-a2e0-0bb17430501c

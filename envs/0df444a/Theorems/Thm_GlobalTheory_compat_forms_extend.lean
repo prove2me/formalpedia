@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_compat_forms_extend
 -- name    : GlobalTheory.compat_forms_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:14:17.637893+00:00
 -- url     : https://prove2.me/theorems/7e7042c8-7460-46b2-9b54-132958343e7f

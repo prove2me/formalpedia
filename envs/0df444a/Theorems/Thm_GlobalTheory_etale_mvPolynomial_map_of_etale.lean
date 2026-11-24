@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_etale_mvPolynomial_map_of_etale
 -- name    : GlobalTheory.etale_mvPolynomial_map_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:18:44.720705+00:00
 -- url     : https://prove2.me/theorems/ea95ddd4-02ab-42a6-a994-410fa644205e

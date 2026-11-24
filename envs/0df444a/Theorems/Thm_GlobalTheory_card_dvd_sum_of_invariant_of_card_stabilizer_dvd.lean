@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_dvd_sum_of_invariant_of_card_stabilizer_dvd
 -- name    : GlobalTheory.card_dvd_sum_of_invariant_of_card_stabilizer_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:35.361436+00:00
 -- url     : https://prove2.me/theorems/15b64395-ba43-49b0-aa98-22b5c8f1bb88

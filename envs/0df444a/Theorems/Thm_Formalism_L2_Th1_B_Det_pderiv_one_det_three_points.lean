@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Det_pderiv_one_det_three_points
 -- name    : Formalism.L2.Th1.B.Det.pderiv_one_det_three_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:00:11.523142+00:00
 -- url     : https://prove2.me/theorems/e8070a24-65b8-496d-8c4c-acac354e2b44

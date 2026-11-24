@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_map_smul_addHaar_of_norm_eq_one
 -- name    : GlobalTheory.T.map_smul_addHaar_of_norm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:52:33.920115+00:00
 -- url     : https://prove2.me/theorems/4c8316a6-a60a-43f3-8d1e-bc4ca7948703

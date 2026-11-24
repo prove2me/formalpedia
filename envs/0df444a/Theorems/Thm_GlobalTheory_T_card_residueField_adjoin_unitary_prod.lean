@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_residueField_adjoin_unitary_prod
 -- name    : GlobalTheory.T.card_residueField_adjoin_unitary_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:27:43.300697+00:00
 -- url     : https://prove2.me/theorems/832d9496-a98a-47df-94fe-5b09544bcf4b

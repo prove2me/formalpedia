@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_pivot
 -- name    : GlobalTheory.HermUnimod.pivot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:08.683898+00:00
 -- url     : https://prove2.me/theorems/9be8e1c2-a004-42e6-a135-374e587c464d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dvrSubring_eq_pow_mul_nonmem_of_not_mem_pow
 -- name    : GlobalTheory.dvrSubring_eq_pow_mul_nonmem_of_not_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:30.82524+00:00
 -- url     : https://prove2.me/theorems/1d0431a5-79a8-4703-8ade-a6ba3ff10dfe

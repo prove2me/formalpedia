@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_ParNear_mat_mul_mat_inv
 -- name    : GlobalTheory.KSp.ParNear.mat_mul_mat_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:26:13.006899+00:00
 -- url     : https://prove2.me/theorems/7b0f11b0-bf34-4ae8-9a98-6945d4eaf689

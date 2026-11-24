@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_OpenCrit_eventually_isUnit
 -- name    : GlobalTheory.KSp.OpenCrit.eventually_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:08:06.734552+00:00
 -- url     : https://prove2.me/theorems/626b76da-4981-4d11-87c9-2de101099a15

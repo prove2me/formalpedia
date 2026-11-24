@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_count_coeIdeal_eq_zero
 -- name    : Formalism.L2.LamCM.count_coeIdeal_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:29:14.877801+00:00
 -- url     : https://prove2.me/theorems/dc71dea1-e311-4923-ad82-faaa13c3786e

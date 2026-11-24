@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_diag_invariant_comp
 -- name    : GlobalTheory.WeilM.diag_invariant_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:55:20.483312+00:00
 -- url     : https://prove2.me/theorems/43ec96a8-46a6-4f0b-845b-85b84d2b904d

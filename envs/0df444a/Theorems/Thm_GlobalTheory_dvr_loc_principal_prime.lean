@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dvr_loc_principal_prime
 -- name    : GlobalTheory.dvr_loc_principal_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:23.1286+00:00
 -- url     : https://prove2.me/theorems/f2fbbca5-3b6a-4ff0-bafe-b868375cc933

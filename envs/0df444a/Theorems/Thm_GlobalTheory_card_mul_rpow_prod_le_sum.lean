@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_mul_rpow_prod_le_sum
 -- name    : GlobalTheory.card_mul_rpow_prod_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:35.218866+00:00
 -- url     : https://prove2.me/theorems/46e35334-3f25-45a9-ad08-b257e6c5701f

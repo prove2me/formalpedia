@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLift_spMap_inj
 -- name    : GlobalTheory.CompanionTheory.CotLift.spMap_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:26:56.64381+00:00
 -- url     : https://prove2.me/theorems/42873f38-d0ab-43a2-8329-1f8fbd0f9784

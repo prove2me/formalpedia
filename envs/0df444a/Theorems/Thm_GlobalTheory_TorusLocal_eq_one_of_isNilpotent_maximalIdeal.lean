@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusLocal_eq_one_of_isNilpotent_maximalIdeal
 -- name    : GlobalTheory.TorusLocal.eq_one_of_isNilpotent_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:10:34.817879+00:00
 -- url     : https://prove2.me/theorems/d64c6d28-1420-4824-8b6e-8e6de2d8d23f

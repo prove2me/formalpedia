@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_wittVector_ringHom_eq_map_of_coeff_zero
 -- name    : GlobalTheory.T.wittVector_ringHom_eq_map_of_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:01:20.20955+00:00
 -- url     : https://prove2.me/theorems/7132f56a-4178-4dad-ac16-b4067ca289e7

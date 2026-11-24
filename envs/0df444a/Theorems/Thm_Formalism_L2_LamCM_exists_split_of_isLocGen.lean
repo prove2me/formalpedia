@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_exists_split_of_isLocGen
 -- name    : Formalism.L2.LamCM.exists_split_of_isLocGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:29:19.583595+00:00
 -- url     : https://prove2.me/theorems/5235eb6f-43c7-485e-aa99-5eb0537bf958

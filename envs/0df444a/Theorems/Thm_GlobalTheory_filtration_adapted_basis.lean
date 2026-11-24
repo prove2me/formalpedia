@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_filtration_adapted_basis
 -- name    : GlobalTheory.filtration_adapted_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:52:27.029175+00:00
 -- url     : https://prove2.me/theorems/d8e6df5e-8313-408e-82c3-130d7674ad1f

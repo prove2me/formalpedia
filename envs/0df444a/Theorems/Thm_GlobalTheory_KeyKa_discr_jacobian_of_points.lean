@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_discr_jacobian_of_points
 -- name    : GlobalTheory.KeyKa.discr_jacobian_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:49:20.869798+00:00
 -- url     : https://prove2.me/theorems/cbf0d05a-7ec5-4cb8-9baa-52ded2f1bc2a

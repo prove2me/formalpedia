@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_FormsTensorLocalization_localization_reduction_holds
 -- name    : Formalism.RankGapBounds.FormsTensorLocalization.localization_reduction_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:29:49.119633+00:00
 -- url     : https://prove2.me/theorems/c57d310c-c921-4894-9cd0-01536a8eac88

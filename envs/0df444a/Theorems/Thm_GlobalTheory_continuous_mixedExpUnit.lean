@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuous_mixedExpUnit
 -- name    : GlobalTheory.continuous_mixedExpUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:37.403799+00:00
 -- url     : https://prove2.me/theorems/c1e45199-b445-4455-b77a-ce39d352ad4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_isQuotMeasure_quotMeas
 -- name    : GlobalTheory.Tw.isQuotMeasure_quotMeas
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:44:55.918208+00:00
 -- url     : https://prove2.me/theorems/9ab92d53-61dd-461e-9f53-3fe13e1aa129

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuousOn_tsum_exp_neg_pi_mul
 -- name    : GlobalTheory.continuousOn_tsum_exp_neg_pi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:33.052312+00:00
 -- url     : https://prove2.me/theorems/d0de3250-0696-400d-a55f-b8b2691a8984

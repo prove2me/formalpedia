@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_absoluteValue_of_isDiscreteValuationRing
 -- name    : GlobalTheory.exists_absoluteValue_of_isDiscreteValuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:37.261384+00:00
 -- url     : https://prove2.me/theorems/0b30dede-3f72-4b09-999e-69ef75941293

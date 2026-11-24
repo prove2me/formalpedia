@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VFComp_vectorField_comp
 -- name    : GlobalTheory.VFComp.vectorField_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:55:33.597382+00:00
 -- url     : https://prove2.me/theorems/55049fe2-dffe-43a0-94e8-1379a8b09583

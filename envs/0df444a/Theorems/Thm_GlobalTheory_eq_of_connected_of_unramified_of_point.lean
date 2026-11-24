@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_connected_of_unramified_of_point
 -- name    : GlobalTheory.eq_of_connected_of_unramified_of_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:17:25.014951+00:00
 -- url     : https://prove2.me/theorems/5c35e890-fc41-459c-9c9a-87fbf879127b

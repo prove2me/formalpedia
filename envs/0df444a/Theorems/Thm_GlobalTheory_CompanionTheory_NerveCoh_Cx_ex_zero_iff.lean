@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_Cx_ex_zero_iff
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.Cx.ex_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:23:05.180007+00:00
 -- url     : https://prove2.me/theorems/5b1a6cca-46ca-4843-b4d5-87e367282fef

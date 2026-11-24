@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partial_operator_fderiv_formula
 -- name    : GlobalTheory.T.partial_operator_fderiv_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:59.448345+00:00
 -- url     : https://prove2.me/theorems/9c0d4f78-2e73-42a9-8f1c-59fb28aca4bc

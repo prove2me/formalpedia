@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_prod_ite_le
 -- name    : GlobalTheory.MinorNorm.prod_ite_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:28:23.588057+00:00
 -- url     : https://prove2.me/theorems/6a7deebc-06db-4e99-8ca7-00d1374e4546

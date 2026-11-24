@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_exterior_pairing_iota_two
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.exterior_pairing_iota_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:21:51.787881+00:00
 -- url     : https://prove2.me/theorems/d9d8a7d5-2254-4fdd-868b-78abd9623a2a

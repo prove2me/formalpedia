@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_genericLevelOfFrame
 -- name    : GlobalTheory.T.exists_genericLevelOfFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:19:53.388665+00:00
 -- url     : https://prove2.me/theorems/02162cb2-0e69-4ff8-aeae-b416c941ad6a

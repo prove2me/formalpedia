@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_Adapted_prX_cjJ
 -- name    : GlobalTheory.CollapseCompare.Adapted.prX_cjJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:19:29.133831+00:00
 -- url     : https://prove2.me/theorems/7d9f5939-b253-408d-a9a3-bf99b2ab7eac

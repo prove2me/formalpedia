@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_continuous_ptRow
 -- name    : GlobalTheory.LocFlat.continuous_ptRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:28:22.16181+00:00
 -- url     : https://prove2.me/theorems/a08464e8-eaee-44ab-9ee8-288211b9def8

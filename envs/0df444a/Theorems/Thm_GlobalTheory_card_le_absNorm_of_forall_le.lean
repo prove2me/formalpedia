@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_le_absNorm_of_forall_le
 -- name    : GlobalTheory.card_le_absNorm_of_forall_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:06:52.397417+00:00
 -- url     : https://prove2.me/theorems/d63d4043-3262-47ba-a254-134716358c9e

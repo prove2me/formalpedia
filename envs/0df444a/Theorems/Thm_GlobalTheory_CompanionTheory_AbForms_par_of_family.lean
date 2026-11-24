@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_par_of_family
 -- name    : GlobalTheory.CompanionTheory.AbForms.par_of_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:25:08.030804+00:00
 -- url     : https://prove2.me/theorems/04be517a-efd8-45de-ba83-b1e6e80754d2

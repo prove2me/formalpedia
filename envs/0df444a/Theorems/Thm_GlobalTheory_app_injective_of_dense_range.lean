@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_app_injective_of_dense_range
 -- name    : GlobalTheory.app_injective_of_dense_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:36.100814+00:00
 -- url     : https://prove2.me/theorems/eae519df-721e-4d5b-b676-88c10882ddea

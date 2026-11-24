@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_RatProj_exists_rat_proj
 -- name    : GlobalTheory.MinorFrame.RatProj.exists_rat_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:35.456034+00:00
 -- url     : https://prove2.me/theorems/374e433d-b329-4c86-81bb-0f4e8ac50ef2

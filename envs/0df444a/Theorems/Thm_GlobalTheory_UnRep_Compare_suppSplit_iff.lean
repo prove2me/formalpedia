@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_suppSplit_iff
 -- name    : GlobalTheory.UnRep.Compare.suppSplit_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:17:52.105962+00:00
 -- url     : https://prove2.me/theorems/8c8548f9-7825-45dd-b9a0-e625afb46bb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_cupHyp_add_swap
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.cupHyp_add_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:25:04.295419+00:00
 -- url     : https://prove2.me/theorems/e66fdb01-0b12-4f98-b65b-e26498c0ada7

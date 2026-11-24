@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_GelfGen_newton_closure
 -- name    : GlobalTheory.SmoothForms.GelfGen.newton_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:28:46.504587+00:00
 -- url     : https://prove2.me/theorems/79e87cea-01a0-4ba7-97ec-c6906ed82728

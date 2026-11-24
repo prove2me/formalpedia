@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeLow_mem_Z2_iff
 -- name    : GlobalTheory.CompanionTheory.HodgeLow.mem_Z2_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:24:04.42896+00:00
 -- url     : https://prove2.me/theorems/2fb21106-06f6-46be-83e2-7ba854701b02

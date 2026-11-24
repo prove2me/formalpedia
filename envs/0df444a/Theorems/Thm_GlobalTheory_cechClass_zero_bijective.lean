@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechClass_zero_bijective
 -- name    : GlobalTheory.cechClass_zero_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:08:37.082726+00:00
 -- url     : https://prove2.me/theorems/4048311a-4f73-40d5-9f72-0b8d534879ea

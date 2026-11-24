@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_one_of_norm_one_of_valuation_sub_one_le
 -- name    : GlobalTheory.eq_one_of_norm_one_of_valuation_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:17:53.273937+00:00
 -- url     : https://prove2.me/theorems/48526cb0-3736-46c3-90cb-fdcefbe04261

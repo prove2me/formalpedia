@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_imI_ne_zero
 -- name    : Formalism.L2.LamCM.Dx.imI_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:17:48.721368+00:00
 -- url     : https://prove2.me/theorems/f371748d-a08f-4e28-83ed-7f34bcd66a00

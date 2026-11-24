@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_leastCongruentPos_le
 -- name    : Formalism.CohomologicalDescent.leastCongruentPos_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:29:55.580622+00:00
 -- url     : https://prove2.me/theorems/56f0951a-d5c3-4f29-9303-ffd9079a90cb

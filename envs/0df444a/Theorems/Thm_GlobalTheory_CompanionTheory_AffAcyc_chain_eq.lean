@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AffAcyc_chain_eq
 -- name    : GlobalTheory.CompanionTheory.AffAcyc.chain_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:25:41.492828+00:00
 -- url     : https://prove2.me/theorems/cfdc51bd-a74c-4a0d-83ef-4acb3e852795

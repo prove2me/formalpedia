@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_absNorm_eq_relIndex_mul
 -- name    : Formalism.L2.LamCM.Dx.absNorm_eq_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:18:25.298882+00:00
 -- url     : https://prove2.me/theorems/8c4183ca-e37b-467f-b2b9-3c1d4ac56f46

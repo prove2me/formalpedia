@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_two_prim
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.two_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:24:02.307699+00:00
 -- url     : https://prove2.me/theorems/3acf908d-1aaf-466f-8c90-07a6cf9d21cb

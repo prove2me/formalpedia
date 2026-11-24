@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedExp_eventually_box_subset
 -- name    : GlobalTheory.AdaptedExp.eventually_box_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:10:57.941238+00:00
 -- url     : https://prove2.me/theorems/74304a91-b324-4927-8da2-eaea9fece897

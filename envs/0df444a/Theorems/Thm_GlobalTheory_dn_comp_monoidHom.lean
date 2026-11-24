@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dn_comp_monoidHom
 -- name    : GlobalTheory.dn_comp_monoidHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:18.563452+00:00
 -- url     : https://prove2.me/theorems/098fde0a-00b5-4840-874b-69e05a809e7d

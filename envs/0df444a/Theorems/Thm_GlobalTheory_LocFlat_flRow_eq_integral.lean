@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_flRow_eq_integral
 -- name    : GlobalTheory.LocFlat.flRow_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:27:26.943601+00:00
 -- url     : https://prove2.me/theorems/de509016-120e-4a90-9189-41b3ee3668ad

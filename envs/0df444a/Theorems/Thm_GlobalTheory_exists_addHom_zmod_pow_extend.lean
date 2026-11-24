@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_addHom_zmod_pow_extend
 -- name    : GlobalTheory.exists_addHom_zmod_pow_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:34.620009+00:00
 -- url     : https://prove2.me/theorems/0dee0703-a511-4ec4-9ff5-f663612621b0

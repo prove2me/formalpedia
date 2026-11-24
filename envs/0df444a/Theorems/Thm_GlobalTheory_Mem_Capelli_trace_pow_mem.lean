@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Capelli_trace_pow_mem
 -- name    : GlobalTheory.Mem.Capelli.trace_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:22:25.321035+00:00
 -- url     : https://prove2.me/theorems/2632b314-9dfc-4749-9242-257220ad9932

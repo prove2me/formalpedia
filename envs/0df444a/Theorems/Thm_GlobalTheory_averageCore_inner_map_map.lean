@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_averageCore_inner_map_map
 -- name    : GlobalTheory.averageCore_inner_map_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:06:56.233292+00:00
 -- url     : https://prove2.me/theorems/b15dbce1-e6ac-452a-adfd-b9e1ba9c3f5c

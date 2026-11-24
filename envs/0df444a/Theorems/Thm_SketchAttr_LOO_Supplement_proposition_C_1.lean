@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SketchAttr_LOO_Supplement_proposition_C_1
 -- name    : SketchAttr.LOO.Supplement.proposition_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T21:51:43.145172+00:00
 -- url     : https://prove2.me/theorems/2ce96f3a-818d-40de-b9af-db6e13002d44

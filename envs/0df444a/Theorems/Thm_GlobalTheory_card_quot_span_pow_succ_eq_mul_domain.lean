@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_quot_span_pow_succ_eq_mul_domain
 -- name    : GlobalTheory.card_quot_span_pow_succ_eq_mul_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:34.688432+00:00
 -- url     : https://prove2.me/theorems/c83c47fa-8f21-4fd9-a171-848296b8b262

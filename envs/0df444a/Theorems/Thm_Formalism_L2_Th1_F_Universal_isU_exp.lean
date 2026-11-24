@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Universal_isU_exp
 -- name    : Formalism.L2.Th1.F.Universal.isU_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:33:57.50573+00:00
 -- url     : https://prove2.me/theorems/9d0732cf-4bdb-47bb-8a38-056c578464a8

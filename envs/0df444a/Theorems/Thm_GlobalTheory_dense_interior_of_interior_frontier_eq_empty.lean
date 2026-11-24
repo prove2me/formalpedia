@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dense_interior_of_interior_frontier_eq_empty
 -- name    : GlobalTheory.dense_interior_of_interior_frontier_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:16:00.81234+00:00
 -- url     : https://prove2.me/theorems/e7c3bebe-def6-4c49-92c8-72e7219287c6

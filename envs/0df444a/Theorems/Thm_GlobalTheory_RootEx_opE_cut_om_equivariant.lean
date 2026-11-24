@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_opE_cut_om_equivariant
 -- name    : GlobalTheory.RootEx.opE_cut_om_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:36.949373+00:00
 -- url     : https://prove2.me/theorems/94863434-052e-407d-be18-0dd84d305100

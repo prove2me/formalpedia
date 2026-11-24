@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeClosed_nu_natural
 -- name    : GlobalTheory.CompanionTheory.HodgeClosed.nu_natural
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:24:55.116856+00:00
 -- url     : https://prove2.me/theorems/66a0bf1d-95ef-48b1-82d4-06af91bb1c69

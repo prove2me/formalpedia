@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_firstVertex_iteratedLevelChain_in_frame
 -- name    : GlobalTheory.T.firstVertex_iteratedLevelChain_in_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:19:44.947809+00:00
 -- url     : https://prove2.me/theorems/f8be00a7-7bd5-42fc-8638-d5238d56401e

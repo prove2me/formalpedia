@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_polarisationOperator_apply_variable
 -- name    : GlobalTheory.MinorNorm.polarisationOperator_apply_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:36.331984+00:00
 -- url     : https://prove2.me/theorems/4560a5df-e578-4200-93af-61830e5b421b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_closed_empty_of_universallyClosed_of_le_jacobson
 -- name    : GlobalTheory.closed_empty_of_universallyClosed_of_le_jacobson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:35.442795+00:00
 -- url     : https://prove2.me/theorems/d1bbb00c-431c-4f9f-b70b-87eac58dbbcd

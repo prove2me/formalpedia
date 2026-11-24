@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AffAcyc_res_bij
 -- name    : GlobalTheory.CompanionTheory.AffAcyc.res_bij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:25:49.71772+00:00
 -- url     : https://prove2.me/theorems/1fc9fa8e-a2a3-4618-a187-57cab62c47ec

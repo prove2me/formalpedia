@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuous_evalPair
 -- name    : GlobalTheory.continuous_evalPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:32.3508+00:00
 -- url     : https://prove2.me/theorems/980748ec-b0f1-402c-8fc9-359538899130

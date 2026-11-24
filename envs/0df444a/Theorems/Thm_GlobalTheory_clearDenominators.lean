@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_clearDenominators
 -- name    : GlobalTheory.clearDenominators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:07:43.728383+00:00
 -- url     : https://prove2.me/theorems/a6842a4f-f7b5-4c1d-9e1a-f9313428c274

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubN_mul_cubN_add
 -- name    : GlobalTheory.cubN_mul_cubN_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:14:49.041519+00:00
 -- url     : https://prove2.me/theorems/85a579c0-a5e4-4ab7-9147-3d974a4528ee

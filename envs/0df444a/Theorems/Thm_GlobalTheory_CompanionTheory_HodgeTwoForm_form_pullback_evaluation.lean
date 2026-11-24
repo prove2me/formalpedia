@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeTwoForm_form_pullback_evaluation
 -- name    : GlobalTheory.CompanionTheory.HodgeTwoForm.form_pullback_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:23:55.591316+00:00
 -- url     : https://prove2.me/theorems/9a041f16-83b0-4fa1-940d-4820d0c7cd79

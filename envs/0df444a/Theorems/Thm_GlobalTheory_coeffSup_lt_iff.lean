@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeffSup_lt_iff
 -- name    : GlobalTheory.coeffSup_lt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:08:53.168873+00:00
 -- url     : https://prove2.me/theorems/7b68c10e-3340-4845-b5c0-dffd7fd865e9

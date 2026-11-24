@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_mem_pow_span
 -- name    : GlobalTheory.eq_zero_of_mem_pow_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:19:03.232102+00:00
 -- url     : https://prove2.me/theorems/8af93b68-0fa6-47a8-a1e6-34529c7cf456

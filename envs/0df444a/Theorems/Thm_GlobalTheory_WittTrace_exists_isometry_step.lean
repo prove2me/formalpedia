@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittTrace_exists_isometry_step
 -- name    : GlobalTheory.WittTrace.exists_isometry_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:56:27.327622+00:00
 -- url     : https://prove2.me/theorems/2b2db0a6-8954-4db4-8178-ba2929900aaa

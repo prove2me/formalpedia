@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryCharacterAbsScalar_basic_properties
 -- name    : GlobalTheory.T.unitaryCharacterAbsScalar_basic_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:33:33.187452+00:00
 -- url     : https://prove2.me/theorems/4fd80529-151a-4df3-8307-9e90a7bcbbbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_sum_eq_zero_of_unit_mul_pow
 -- name    : GlobalTheory.eq_zero_of_sum_eq_zero_of_unit_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:18:40.234562+00:00
 -- url     : https://prove2.me/theorems/d44cb41d-5526-4472-a40c-8425a2257772

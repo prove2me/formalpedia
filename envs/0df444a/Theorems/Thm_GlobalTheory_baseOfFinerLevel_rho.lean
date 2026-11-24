@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_baseOfFinerLevel_rho
 -- name    : GlobalTheory.baseOfFinerLevel_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:53.210522+00:00
 -- url     : https://prove2.me/theorems/7e9acae7-d308-448e-87a1-8d0efe689bf7

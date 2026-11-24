@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZModDual_card_quot_ker_le
 -- name    : GlobalTheory.ZModDual.card_quot_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:03:12.211091+00:00
 -- url     : https://prove2.me/theorems/70122ee7-c0b3-43f5-b76d-6d7f2725e20e

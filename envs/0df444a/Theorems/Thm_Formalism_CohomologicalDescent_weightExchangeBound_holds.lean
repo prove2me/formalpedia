@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_weightExchangeBound_holds
 -- name    : Formalism.CohomologicalDescent.weightExchangeBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:29:47.416326+00:00
 -- url     : https://prove2.me/theorems/e9b86d6c-7e6f-41b4-9f9b-0391a9b4018a

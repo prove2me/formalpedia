@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_pi_selfDual
 -- name    : GlobalTheory.JR.LinDesc.pi_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:34:33.295887+00:00
 -- url     : https://prove2.me/theorems/18c132e2-78e8-4d81-9ec2-03563a2384e2

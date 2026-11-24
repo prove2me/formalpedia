@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_mul_eq_sum_minors_of_enum
 -- name    : GlobalTheory.det_mul_eq_sum_minors_of_enum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:15:44.124127+00:00
 -- url     : https://prove2.me/theorems/3da5b677-683a-444d-933e-9c127f191cb9

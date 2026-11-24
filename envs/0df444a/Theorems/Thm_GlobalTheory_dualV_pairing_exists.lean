@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dualV_pairing_exists
 -- name    : GlobalTheory.dualV_pairing_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:16:40.085316+00:00
 -- url     : https://prove2.me/theorems/df357161-76cf-42fb-84d4-e173c930b2b9

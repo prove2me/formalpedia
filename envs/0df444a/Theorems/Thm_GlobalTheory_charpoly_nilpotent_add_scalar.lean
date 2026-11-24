@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_charpoly_nilpotent_add_scalar
 -- name    : GlobalTheory.charpoly_nilpotent_add_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:07:43.999569+00:00
 -- url     : https://prove2.me/theorems/d784eeab-f327-4df6-990b-a62745e41c3e

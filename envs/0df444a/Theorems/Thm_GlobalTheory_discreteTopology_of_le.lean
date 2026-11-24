@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discreteTopology_of_le
 -- name    : GlobalTheory.discreteTopology_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:01.254257+00:00
 -- url     : https://prove2.me/theorems/b328e425-cc14-4f81-bb19-754c270b3a9d

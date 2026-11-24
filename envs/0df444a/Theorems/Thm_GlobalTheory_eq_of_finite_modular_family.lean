@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_finite_modular_family
 -- name    : GlobalTheory.eq_of_finite_modular_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:18:22.190958+00:00
 -- url     : https://prove2.me/theorems/df49a93a-a3c4-48c1-95c1-bd877e7b06fa

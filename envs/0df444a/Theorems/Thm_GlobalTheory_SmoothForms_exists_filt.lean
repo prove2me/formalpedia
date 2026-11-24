@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_exists_filt
 -- name    : GlobalTheory.SmoothForms.exists_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:14:11.511916+00:00
 -- url     : https://prove2.me/theorems/ad80f5cc-1636-4afc-ae0d-006a14db0128

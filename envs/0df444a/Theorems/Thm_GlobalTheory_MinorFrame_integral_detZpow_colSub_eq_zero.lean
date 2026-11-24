@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_integral_detZpow_colSub_eq_zero
 -- name    : GlobalTheory.MinorFrame.integral_detZpow_colSub_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:05:00.946876+00:00
 -- url     : https://prove2.me/theorems/f9ebf8d5-90f7-4e8f-b174-c988e0542e45

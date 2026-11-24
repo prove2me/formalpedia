@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_extend_adicCompletion
 -- name    : GlobalTheory.existsUnique_extend_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:19.974082+00:00
 -- url     : https://prove2.me/theorems/cd3709a9-46a6-462e-afde-fbfce26f9463

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_evT_tmul
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.evT_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:23:15.560968+00:00
 -- url     : https://prove2.me/theorems/886c7902-3f77-48d8-8bf5-0494e6426483

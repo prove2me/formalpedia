@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_blocks_of_weyl_mul_eq
 -- name    : GlobalTheory.KSp.blocks_of_weyl_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:27:01.069065+00:00
 -- url     : https://prove2.me/theorems/8b1478c8-9b08-4415-b3db-a682ad81eaa2

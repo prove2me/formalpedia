@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeLow_pullbackZeroCochains_algebraMap
 -- name    : GlobalTheory.CompanionTheory.HodgeLow.pullbackZeroCochains_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:24:00.768918+00:00
 -- url     : https://prove2.me/theorems/9bce3035-da85-440f-bf57-c712f6e2b8f0

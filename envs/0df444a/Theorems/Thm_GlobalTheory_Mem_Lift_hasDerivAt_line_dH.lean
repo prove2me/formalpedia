@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_hasDerivAt_line_dH
 -- name    : GlobalTheory.Mem.Lift.hasDerivAt_line_dH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:30:04.187632+00:00
 -- url     : https://prove2.me/theorems/d7025235-ca2d-4639-ae78-9ca1f85964c8

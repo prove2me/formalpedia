@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_form_cx_baseChange_pos
 -- name    : GlobalTheory.UnitaryStd.form_cx_baseChange_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:46:02.307917+00:00
 -- url     : https://prove2.me/theorems/4549a024-532b-4292-8cc8-33fc223ca493

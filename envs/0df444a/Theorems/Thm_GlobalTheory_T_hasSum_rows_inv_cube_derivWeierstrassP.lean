@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_rows_inv_cube_derivWeierstrassP
 -- name    : GlobalTheory.T.hasSum_rows_inv_cube_derivWeierstrassP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:44:11.129405+00:00
 -- url     : https://prove2.me/theorems/8b43bc41-62c2-49fe-8601-134109f70b64

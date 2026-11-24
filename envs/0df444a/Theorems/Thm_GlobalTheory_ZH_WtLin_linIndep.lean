@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtLin_linIndep
 -- name    : GlobalTheory.ZH.WtLin.linIndep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:54.81454+00:00
 -- url     : https://prove2.me/theorems/32ec444d-9d14-42a0-b4d3-63eeb31bf369

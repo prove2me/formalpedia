@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuousAt_charSeries_coef_zero
 -- name    : GlobalTheory.continuousAt_charSeries_coef_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:41.127083+00:00
 -- url     : https://prove2.me/theorems/ea19a2e3-f6d0-48bf-ab0f-8890205661c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LiftTorus_exists_retraction
 -- name    : GlobalTheory.SS.LiftTorus.exists_retraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:36:30.906236+00:00
 -- url     : https://prove2.me/theorems/e59ec10f-484b-4e88-9878-48db6cb96077

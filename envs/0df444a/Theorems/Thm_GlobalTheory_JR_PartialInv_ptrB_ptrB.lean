@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_PartialInv_ptrB_ptrB
 -- name    : GlobalTheory.JR.PartialInv.ptrB_ptrB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:41.439598+00:00
 -- url     : https://prove2.me/theorems/9b7702cf-ed4d-4220-904e-9d35f4d6b23b

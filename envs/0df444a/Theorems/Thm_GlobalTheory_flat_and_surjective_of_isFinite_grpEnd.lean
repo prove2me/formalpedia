@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_and_surjective_of_isFinite_grpEnd
 -- name    : GlobalTheory.flat_and_surjective_of_isFinite_grpEnd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:24:36.228377+00:00
 -- url     : https://prove2.me/theorems/0844aaf6-6a51-4cb9-bb62-435376620661

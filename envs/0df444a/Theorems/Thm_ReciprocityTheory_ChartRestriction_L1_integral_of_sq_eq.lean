@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_integral_of_sq_eq
 -- name    : ReciprocityTheory.ChartRestriction.L1.integral_of_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:21:14.417807+00:00
 -- url     : https://prove2.me/theorems/a63eeb12-0647-4199-bdf8-f2d1c3075c64

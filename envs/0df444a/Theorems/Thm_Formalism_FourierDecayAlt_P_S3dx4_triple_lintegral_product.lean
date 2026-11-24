@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_triple_lintegral_product
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.triple_lintegral_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:27:00.390582+00:00
 -- url     : https://prove2.me/theorems/052d3765-7333-47cf-b753-87f479bdb0d8

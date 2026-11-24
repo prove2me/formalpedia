@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableAt_det_of_entries
 -- name    : GlobalTheory.differentiableAt_det_of_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:11.032423+00:00
 -- url     : https://prove2.me/theorems/c5e456d4-5b97-416b-9535-206aa51232ad

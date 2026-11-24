@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_zetaEulerProduct_ne_zero_one_add_mul_I
 -- name    : GlobalTheory.zetaEulerProduct_ne_zero_one_add_mul_I
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:42.800808+00:00
 -- url     : https://prove2.me/theorems/b6f6bc3e-3cdf-447a-9a60-8fc7ca941504

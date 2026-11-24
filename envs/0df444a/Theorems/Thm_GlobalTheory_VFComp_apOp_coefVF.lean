@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VFComp_apOp_coefVF
 -- name    : GlobalTheory.VFComp.apOp_coefVF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:50:56.915826+00:00
 -- url     : https://prove2.me/theorems/5fe24363-151c-4a96-836c-cf25ae9982b6

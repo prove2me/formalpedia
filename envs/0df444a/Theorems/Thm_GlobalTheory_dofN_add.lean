@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dofN_add
 -- name    : GlobalTheory.dofN_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:16:51.406505+00:00
 -- url     : https://prove2.me/theorems/9992d970-f767-4527-ab01-cd52cfb3b2dc

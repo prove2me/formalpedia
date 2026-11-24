@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedEndFlat_flat_of_closedPoints
 -- name    : GlobalTheory.UnramifiedEndFlat.flat_of_closedPoints
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:41.794144+00:00
 -- url     : https://prove2.me/theorems/2379bfb5-8d05-45d2-9c9a-38a4ae07ae87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_neg_one_pow_hdim_eq_add
 -- name    : GlobalTheory.sum_neg_one_pow_hdim_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:42:03.808093+00:00
 -- url     : https://prove2.me/theorems/3465e50f-a7e2-4625-a00c-52f731bb4c29

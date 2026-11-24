@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_restOf_ptCol
 -- name    : GlobalTheory.LocFlat.restOf_ptCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:28:06.385143+00:00
 -- url     : https://prove2.me/theorems/3589a87e-7eb3-463d-82ce-b84b445a0289

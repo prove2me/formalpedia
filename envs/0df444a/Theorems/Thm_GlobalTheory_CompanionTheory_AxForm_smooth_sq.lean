@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_smooth_sq
 -- name    : GlobalTheory.CompanionTheory.AxForm.smooth_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:23:29.851813+00:00
 -- url     : https://prove2.me/theorems/c4bc21c6-82f5-46aa-8652-b2b6a5c44b26

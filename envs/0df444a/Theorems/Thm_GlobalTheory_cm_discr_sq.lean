@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cm_discr_sq
 -- name    : GlobalTheory.cm_discr_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:14:04.964793+00:00
 -- url     : https://prove2.me/theorems/dae2ab98-a94e-46e8-8f83-497ab428a18c

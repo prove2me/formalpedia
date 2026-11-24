@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_finite_prod
 -- name    : GlobalTheory.differentiableOn_finite_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:18:22.0989+00:00
 -- url     : https://prove2.me/theorems/72bdb775-2a23-4144-9a35-0b7b8c938c57

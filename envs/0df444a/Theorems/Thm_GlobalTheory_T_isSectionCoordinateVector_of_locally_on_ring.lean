@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSectionCoordinateVector_of_locally_on_ring
 -- name    : GlobalTheory.T.isSectionCoordinateVector_of_locally_on_ring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:23:35.8978+00:00
 -- url     : https://prove2.me/theorems/814256c3-227b-4cce-a704-3b62b56ca526

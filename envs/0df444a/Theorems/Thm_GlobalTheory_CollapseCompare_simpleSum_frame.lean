@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_simpleSum_frame
 -- name    : GlobalTheory.CollapseCompare.simpleSum_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:19:50.096095+00:00
 -- url     : https://prove2.me/theorems/35bac96a-ad40-452b-8789-b5447116f8fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitWitt_exists_of_ne
 -- name    : GlobalTheory.UnitWitt.exists_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:39:13.137187+00:00
 -- url     : https://prove2.me/theorems/bdf945ad-324a-4fd5-989b-51e692283c22

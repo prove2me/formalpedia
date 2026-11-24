@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_derivation_mem_of_mem_sq
 -- name    : GlobalTheory.derivation_mem_of_mem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:01.671911+00:00
 -- url     : https://prove2.me/theorems/1ad44fed-7935-483d-a95d-84272ec57200

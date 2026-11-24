@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_FormSec_supp_form
 -- name    : GlobalTheory.ZH.FormSec.supp_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:36.570801+00:00
 -- url     : https://prove2.me/theorems/17895969-802c-4f3f-8c42-b5ed59608cf1

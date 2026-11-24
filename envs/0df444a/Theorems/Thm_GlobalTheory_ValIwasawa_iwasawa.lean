@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValIwasawa_iwasawa
 -- name    : GlobalTheory.ValIwasawa.iwasawa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:36:22.292083+00:00
 -- url     : https://prove2.me/theorems/cc9f8fb1-ed4d-4c19-9733-e8d84fb74642

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_branches_of_unramified_point
 -- name    : GlobalTheory.branches_of_unramified_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:39.47002+00:00
 -- url     : https://prove2.me/theorems/36a75c30-df30-40c9-8904-60f54f2a3ae1

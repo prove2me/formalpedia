@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_le_of_double_annihilator
 -- name    : GlobalTheory.card_le_of_double_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:04.652643+00:00
 -- url     : https://prove2.me/theorems/29a8ebfa-db11-4c77-ac73-4ab72613ffe1

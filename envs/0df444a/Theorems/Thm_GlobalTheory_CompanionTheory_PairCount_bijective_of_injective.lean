@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PairCount_bijective_of_injective
 -- name    : GlobalTheory.CompanionTheory.PairCount.bijective_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:54:51.29569+00:00
 -- url     : https://prove2.me/theorems/8582e3e9-a6b5-4ced-a874-3f316076e6b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_uOf_spec
 -- name    : GlobalTheory.CompanionTheory.AbForms.uOf_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:22:05.649183+00:00
 -- url     : https://prove2.me/theorems/449d89aa-62db-45a8-9f2e-7efe0b962bf7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfExt_ext0
 -- name    : GlobalTheory.CompanionTheory.PerfExt.ext0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:22:34.518064+00:00
 -- url     : https://prove2.me/theorems/7843bb14-b9b2-402e-95e2-47a974553ed2

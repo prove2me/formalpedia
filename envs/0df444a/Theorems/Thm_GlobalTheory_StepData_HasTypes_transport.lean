@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_HasTypes_transport
 -- name    : GlobalTheory.StepData.HasTypes.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:34.452811+00:00
 -- url     : https://prove2.me/theorems/c831a801-317e-4a45-bf1d-9d9a7fd87858

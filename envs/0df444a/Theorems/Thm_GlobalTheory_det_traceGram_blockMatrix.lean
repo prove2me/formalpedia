@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_traceGram_blockMatrix
 -- name    : GlobalTheory.det_traceGram_blockMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:46.639092+00:00
 -- url     : https://prove2.me/theorems/c2d89f05-2c79-417a-b7d3-0e75c8001cc1

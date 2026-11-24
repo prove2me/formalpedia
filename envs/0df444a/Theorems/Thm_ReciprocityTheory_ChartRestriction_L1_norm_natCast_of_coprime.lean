@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_natCast_of_coprime
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_natCast_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:27:31.130361+00:00
 -- url     : https://prove2.me/theorems/dac1c880-b04b-441a-a729-6002de3e3cb0

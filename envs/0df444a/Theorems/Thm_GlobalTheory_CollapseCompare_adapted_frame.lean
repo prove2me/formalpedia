@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_adapted_frame
 -- name    : GlobalTheory.CollapseCompare.adapted_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:20:00.348301+00:00
 -- url     : https://prove2.me/theorems/2fc5118a-7b49-4e4c-ab32-7ef4dd03f617

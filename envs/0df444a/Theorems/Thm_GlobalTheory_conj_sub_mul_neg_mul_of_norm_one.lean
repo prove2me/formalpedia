@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_conj_sub_mul_neg_mul_of_norm_one
 -- name    : GlobalTheory.conj_sub_mul_neg_mul_of_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:13:32.063013+00:00
 -- url     : https://prove2.me/theorems/c1764d45-31d7-49c2-940e-216a1d65c049

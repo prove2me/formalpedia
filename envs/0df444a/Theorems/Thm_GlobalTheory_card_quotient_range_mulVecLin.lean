@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_quotient_range_mulVecLin
 -- name    : GlobalTheory.card_quotient_range_mulVecLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:46.107195+00:00
 -- url     : https://prove2.me/theorems/ab4fad45-d260-4481-8704-55a71f210932

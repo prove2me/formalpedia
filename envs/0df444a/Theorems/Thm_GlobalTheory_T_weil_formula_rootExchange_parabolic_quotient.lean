@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weil_formula_rootExchange_parabolic_quotient
 -- name    : GlobalTheory.T.weil_formula_rootExchange_parabolic_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:27.415489+00:00
 -- url     : https://prove2.me/theorems/19ed0775-6186-4ef6-b239-2a2c437f7535

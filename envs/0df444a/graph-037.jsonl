@@ -14820,8 +14820,8 @@
 {"parent": "AvgPHETH.Supplement.theorem_1_2_ii", "child": "AvgPHETH_DTimeOracle", "via": ["statement"]}
 {"parent": "RH1E6S10_D052_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S09_D026_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "SpherePackingBeyond.dim4_optimal", "child": "SpherePackingBeyond_D4", "via": ["statement"]}
-{"parent": "SpherePackingBeyond.dim4_optimal", "child": "TenChallenges_SpherePacking", "via": ["statement"]}
+{"parent": "SpherePackingBeyond.dim4_optimal", "child": "SpherePackingBeyond_D4", "via": ["solution", "statement"]}
+{"parent": "SpherePackingBeyond.dim4_optimal", "child": "TenChallenges_SpherePacking", "via": ["solution", "statement"]}
 {"parent": "Monotonicity_Theorem.exception_list", "child": "Monotonicity_Theorem_Framework", "via": ["solution", "statement"]}
 {"parent": "ShiShallow.isLocal_conj_circuit", "child": "ShiShallow_Circuit", "via": ["solution", "statement"]}
 {"parent": "ShiShallow.isLocal_conj_circuit", "child": "ShiShallow_Cone", "via": ["solution", "statement"]}

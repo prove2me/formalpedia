@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_sum_neg_one_pow_finrank_eq_add
 -- name    : GlobalTheory.cohOn.sum_neg_one_pow_finrank_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:12:37.207799+00:00
 -- url     : https://prove2.me/theorems/3e27163e-9161-40a4-b1e2-955464eede41

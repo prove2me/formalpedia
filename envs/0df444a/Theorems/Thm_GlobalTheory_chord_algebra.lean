@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_chord_algebra
 -- name    : GlobalTheory.chord_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:07:25.974293+00:00
 -- url     : https://prove2.me/theorems/d2fff4f0-843c-4d6c-a2c0-ccf9bafb0b8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZMTFin_bijective_awayMap_of_range
 -- name    : GlobalTheory.ZMTFin.bijective_awayMap_of_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:05:02.040833+00:00
 -- url     : https://prove2.me/theorems/c5564a56-90b4-4969-ab07-0d7c822d16c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasTransport_pi_selfDual
 -- name    : GlobalTheory.JR.MeasTransport.pi_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:57.353411+00:00
 -- url     : https://prove2.me/theorems/e5ff9553-f256-44c5-877f-fc449a5191e9

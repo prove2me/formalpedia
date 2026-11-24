@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_IsCharNear_unique
 -- name    : GlobalTheory.TorusUnit.IsCharNear.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:42:55.46169+00:00
 -- url     : https://prove2.me/theorems/9ec5bbd7-dbf6-4be0-84a5-8de9fe65aeaa

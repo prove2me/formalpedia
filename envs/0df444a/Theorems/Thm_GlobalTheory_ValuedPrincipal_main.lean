@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValuedPrincipal_main
 -- name    : GlobalTheory.ValuedPrincipal.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:10:48.810194+00:00
 -- url     : https://prove2.me/theorems/30ece105-91a1-48c4-8f3f-8d37d02d0b7a

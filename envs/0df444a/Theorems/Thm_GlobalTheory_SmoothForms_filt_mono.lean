@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_filt_mono
 -- name    : GlobalTheory.SmoothForms.filt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:06.807933+00:00
 -- url     : https://prove2.me/theorems/ead2f0f4-9867-4ed3-a4df-e9044b068a4b

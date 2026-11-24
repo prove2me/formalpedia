@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contractRight_trace
 -- name    : GlobalTheory.contractRight_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:45.429301+00:00
 -- url     : https://prove2.me/theorems/cf6fdf14-c243-46cf-a817-5c40fbd8e357

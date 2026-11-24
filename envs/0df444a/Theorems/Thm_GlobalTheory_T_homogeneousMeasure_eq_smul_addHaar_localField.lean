@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_homogeneousMeasure_eq_smul_addHaar_localField
 -- name    : GlobalTheory.T.homogeneousMeasure_eq_smul_addHaar_localField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:34:18.779881+00:00
 -- url     : https://prove2.me/theorems/d93b5ef3-ca99-4040-a6d3-963b36407ae7

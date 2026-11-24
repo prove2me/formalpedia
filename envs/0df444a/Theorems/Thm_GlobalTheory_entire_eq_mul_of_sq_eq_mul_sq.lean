@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_eq_mul_of_sq_eq_mul_sq
 -- name    : GlobalTheory.entire_eq_mul_of_sq_eq_mul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:16:49.909789+00:00
 -- url     : https://prove2.me/theorems/0fb61430-f2f3-4ec2-a73c-dc1f30dcd8fb

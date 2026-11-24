@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_ParNear_continuous_pr_comp
 -- name    : GlobalTheory.KSp.ParNear.continuous_pr_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:26:39.694582+00:00
 -- url     : https://prove2.me/theorems/fea58027-93bd-4ae7-b371-150294df6658

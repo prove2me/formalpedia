@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_SFam_sRep
 -- name    : GlobalTheory.ZM.SFam.sRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:03:07.374527+00:00
 -- url     : https://prove2.me/theorems/06be668f-f612-458b-9914-71688b898243

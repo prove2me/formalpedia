@@ -85460,8 +85460,8 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibreSmoothLocus_dense", "child": "QEC_Coding_ExpanderCodes_LPSOriginalSmoothSpecialFiber", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibreSmoothLocus_dense", "child": "QEC_Coding_ExpanderCodes_LPSOriginalSpecialFibreFlat", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibreSmoothLocus_dense", "child": "QEC_Coding_ExpanderCodes_LPSOriginalReducedSpecialFiber", "via": ["solution", "statement"]}
-{"parent": "HodgeComputer.PolarizedK3Remainder.normalChart_residue_solvable", "child": "HodgeComputerPolarizedK3Remainder", "via": ["statement"]}
-{"parent": "HodgeComputer.PolarizedK3Remainder.normalChart_residue_solvable", "child": "HodgeComputerNormalChart", "via": ["statement"]}
+{"parent": "HodgeComputer.PolarizedK3Remainder.normalChart_residue_solvable", "child": "HodgeComputerPolarizedK3Remainder", "via": ["solution", "statement"]}
+{"parent": "HodgeComputer.PolarizedK3Remainder.normalChart_residue_solvable", "child": "HodgeComputerNormalChart", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.SphericalHecke.normalizedLocalHaarMeasure_isInvInvariant", "child": "QEC_Coding_HighDimensionalExpander_Hecke_SphericalHecke", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.SphericalHecke.normalizedLocalHaarMeasure_isInvInvariant", "child": "QEC_Coding_HighDimensionalExpander_Hecke_CartanDecomposition", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.BKQLDPCFamily.eventually_encodedQubits_cast_le_cMax_log_bound", "child": "QEC_Locality_CorrectableRegions_TwoCorrectableRegionsDimension", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_filt_succ
 -- name    : GlobalTheory.SmoothForms.filt_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:14:48.013933+00:00
 -- url     : https://prove2.me/theorems/c05926b4-84af-4333-b90b-a2a432930f3a

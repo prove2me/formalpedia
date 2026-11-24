@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_UnramFlat_intM_add_of_disj
 -- name    : GlobalTheory.LocFlat.UnramFlat.intM_add_of_disj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:28:24.013577+00:00
 -- url     : https://prove2.me/theorems/5ab814fc-d34c-4f22-a776-0dc3d5741980

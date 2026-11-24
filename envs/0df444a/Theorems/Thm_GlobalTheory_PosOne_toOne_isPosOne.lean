@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_toOne_isPosOne
 -- name    : GlobalTheory.PosOne.toOne_isPosOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:19:08.717711+00:00
 -- url     : https://prove2.me/theorems/4352b288-e8e2-4747-92d9-78b6c6c0488b

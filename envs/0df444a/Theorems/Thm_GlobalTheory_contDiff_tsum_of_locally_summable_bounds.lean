@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDiff_tsum_of_locally_summable_bounds
 -- name    : GlobalTheory.contDiff_tsum_of_locally_summable_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:46.713772+00:00
 -- url     : https://prove2.me/theorems/3fa50ba8-e628-40f1-a601-19d2f61a1f8e

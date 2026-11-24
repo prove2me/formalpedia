@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_snocL_last
 -- name    : Formalism.L2.LamCM.Dx.snocL_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:19:11.683982+00:00
 -- url     : https://prove2.me/theorems/a306534e-1d59-4044-a7ca-cefadd9bc651

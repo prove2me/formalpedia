@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfRetract_cyclesMap_surjective
 -- name    : GlobalTheory.CompanionTheory.PerfRetract.cyclesMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:27:01.863874+00:00
 -- url     : https://prove2.me/theorems/d73c088f-b002-48b9-8edd-1dcbd10be18b

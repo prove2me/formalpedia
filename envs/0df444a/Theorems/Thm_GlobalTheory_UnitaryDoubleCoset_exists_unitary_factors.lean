@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryDoubleCoset_exists_unitary_factors
 -- name    : GlobalTheory.UnitaryDoubleCoset.exists_unitary_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:48:09.661481+00:00
 -- url     : https://prove2.me/theorems/4edcafe1-a613-4367-9844-984fe18510c3

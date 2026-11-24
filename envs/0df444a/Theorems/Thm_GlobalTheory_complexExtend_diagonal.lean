@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_complexExtend_diagonal
 -- name    : GlobalTheory.complexExtend_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:41.007872+00:00
 -- url     : https://prove2.me/theorems/ad9470a6-946f-4092-9b78-ab3099e5a9b9

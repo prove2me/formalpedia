@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_of_blockTriangular_injective
 -- name    : GlobalTheory.det_of_blockTriangular_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:52.673615+00:00
 -- url     : https://prove2.me/theorems/75f5392a-6546-4def-bdf1-153f07ec6e5f

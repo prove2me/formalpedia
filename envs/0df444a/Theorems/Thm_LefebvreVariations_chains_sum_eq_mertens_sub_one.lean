@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:20:27.142556+00:00
 -- url     : https://prove2.me/theorems/232fa87a-9de2-4adc-b065-a458483231cb
 -- title:
---   Lefebvre's variations: signed divisibility chains count the Mertens function
+--   Lefebvre's variations, No. 17 — on a theme by Riemann: signed divisibility chains count the Mertens function
 -- statement:
 --   This is the divisibility-chain form of the Mertens function.
 --

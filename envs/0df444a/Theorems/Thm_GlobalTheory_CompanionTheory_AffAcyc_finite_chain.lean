@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AffAcyc_finite_chain
 -- name    : GlobalTheory.CompanionTheory.AffAcyc.finite_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:25:09.899271+00:00
 -- url     : https://prove2.me/theorems/3d071bab-adba-48ed-b5a9-50ede71fcb2f

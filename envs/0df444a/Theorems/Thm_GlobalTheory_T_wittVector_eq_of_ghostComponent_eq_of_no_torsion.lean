@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_wittVector_eq_of_ghostComponent_eq_of_no_torsion
 -- name    : GlobalTheory.T.wittVector_eq_of_ghostComponent_eq_of_no_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:00:56.969954+00:00
 -- url     : https://prove2.me/theorems/ebc9b2c8-2ae4-4114-9cd9-bf51e7a32ff0

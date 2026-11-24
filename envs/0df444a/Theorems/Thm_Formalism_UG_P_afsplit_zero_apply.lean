@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplit_zero_apply
 -- name    : Formalism.UG.P.afsplit_zero_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:27:17.797796+00:00
 -- url     : https://prove2.me/theorems/4d555775-97e6-4337-bd40-e5b55557e594

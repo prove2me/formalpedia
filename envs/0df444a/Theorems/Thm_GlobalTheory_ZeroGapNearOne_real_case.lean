@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroGapNearOne_real_case
 -- name    : GlobalTheory.ZeroGapNearOne.real_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:04:29.033653+00:00
 -- url     : https://prove2.me/theorems/822ab12a-4033-4db0-9794-87b7683035b1

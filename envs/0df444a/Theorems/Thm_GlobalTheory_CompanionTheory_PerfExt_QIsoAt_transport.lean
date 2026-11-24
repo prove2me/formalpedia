@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfExt_QIsoAt_transport
 -- name    : GlobalTheory.CompanionTheory.PerfExt.QIsoAt.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:01.413875+00:00
 -- url     : https://prove2.me/theorems/28868144-ba55-4869-a867-456a7c36a01a

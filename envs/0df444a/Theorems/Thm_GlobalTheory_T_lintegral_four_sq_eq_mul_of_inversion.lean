@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_four_sq_eq_mul_of_inversion
 -- name    : GlobalTheory.T.lintegral_four_sq_eq_mul_of_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:01:21.195681+00:00
 -- url     : https://prove2.me/theorems/cb26f758-4eef-4b72-9640-a02fc835a427

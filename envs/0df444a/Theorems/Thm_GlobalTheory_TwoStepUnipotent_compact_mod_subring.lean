@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoStepUnipotent_compact_mod_subring
 -- name    : GlobalTheory.TwoStepUnipotent.compact_mod_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:16:47.688291+00:00
 -- url     : https://prove2.me/theorems/28df2631-431b-4f12-be98-ab793ca41bc7

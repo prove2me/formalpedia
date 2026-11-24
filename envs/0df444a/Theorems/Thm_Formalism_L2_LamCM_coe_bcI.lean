@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_coe_bcI
 -- name    : Formalism.L2.LamCM.coe_bcI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:29:14.718893+00:00
 -- url     : https://prove2.me/theorems/a9607edb-27f3-4cdb-a341-af1ef4abd381

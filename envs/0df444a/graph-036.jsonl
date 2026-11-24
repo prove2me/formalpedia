@@ -72522,8 +72522,8 @@
 {"parent": "RH1E6S10.part_027_2", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "SpherePackingBeyond.minkowski_hlawka", "child": "SpherePackingBeyond_D4", "via": ["statement"]}
 {"parent": "SpherePackingBeyond.minkowski_hlawka", "child": "TenChallenges_SpherePacking", "via": ["statement"]}
-{"parent": "SpherePackingBeyond.D4_density", "child": "SpherePackingBeyond_D4", "via": ["statement"]}
-{"parent": "SpherePackingBeyond.D4_density", "child": "TenChallenges_SpherePacking", "via": ["statement"]}
+{"parent": "SpherePackingBeyond.D4_density", "child": "SpherePackingBeyond_D4", "via": ["solution", "statement"]}
+{"parent": "SpherePackingBeyond.D4_density", "child": "TenChallenges_SpherePacking", "via": ["solution", "statement"]}
 {"parent": "KadatchJenkins.stripe_decomposition", "child": "KadatchJenkinsCrc", "via": ["solution", "statement"]}
 {"parent": "Polychromatic418967fa_Branch41", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156Slab16Pilot12R016Rest", "child": "row23_rh_supp_RH67156Slab16Pilot12Data", "via": ["statement"]}
@@ -75139,8 +75139,8 @@
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.secondCut_Qright_ne_zero_of_nonzero_code_active_block_QECertTyped", "child": "QEC_Import_Typed_44ce6a6af9c3191a", "via": ["solution", "statement"]}
 {"parent": "ShiShallow.exists_sum_form_eigenbasis", "child": "ShiShallow_Matrix", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09_D089_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "SpherePackingBeyond.kabatiansky_levenshtein", "child": "SpherePackingBeyond_D4", "via": ["statement"]}
-{"parent": "SpherePackingBeyond.kabatiansky_levenshtein", "child": "TenChallenges_SpherePacking", "via": ["statement"]}
+{"parent": "SpherePackingBeyond.kabatiansky_levenshtein", "child": "SpherePackingBeyond_D4", "via": ["solution", "statement"]}
+{"parent": "SpherePackingBeyond.kabatiansky_levenshtein", "child": "TenChallenges_SpherePacking", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend.Classical.avram_p4_f4_zero_levy_ubv_sigma_pos", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend.Classical.avram_ubv_loc6_gaussian_masked_expected_topcap", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -85823,10 +85823,10 @@
 {"parent": "AvgPHETH_Supplement_VSet", "child": "AvgPHETH_unary", "via": ["statement"]}
 {"parent": "AvgPHETH_Supplement_VSet", "child": "AvgPHETH_Supplement_treeVal", "via": ["statement"]}
 {"parent": "NonvacuityBSDEJRate_F001", "child": "NonvacuityBSDEJRate_F000", "via": ["statement"]}
-{"parent": "SquarePeg.nielsen_wright_symmetric_curve", "child": "SquarePeg_classes", "via": ["statement"]}
-{"parent": "SquarePeg.nielsen_wright_symmetric_curve", "child": "SquarePeg_similarity", "via": ["statement"]}
-{"parent": "SquarePeg.nielsen_wright_symmetric_curve", "child": "SquarePeg_shapes", "via": ["statement"]}
-{"parent": "SquarePeg.nielsen_wright_symmetric_curve", "child": "SchoenfliesCurveCore", "via": ["statement"]}
+{"parent": "SquarePeg.nielsen_wright_symmetric_curve", "child": "SquarePeg_classes", "via": ["solution", "statement"]}
+{"parent": "SquarePeg.nielsen_wright_symmetric_curve", "child": "SquarePeg_similarity", "via": ["solution", "statement"]}
+{"parent": "SquarePeg.nielsen_wright_symmetric_curve", "child": "SquarePeg_shapes", "via": ["solution", "statement"]}
+{"parent": "SquarePeg.nielsen_wright_symmetric_curve", "child": "SchoenfliesCurveCore", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.bk05TCompleteSemanticSchedule_protocol_inputPermitted", "child": "QEC_Distillation_MagicStateThreshold_Universality", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.bk05TCompleteSemanticSchedule_protocol_inputPermitted", "child": "QEC_Distillation_FiveQubitT_Postselection", "via": ["solution", "statement"]}
 {"parent": "RH1E6S10.part_023_0", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}

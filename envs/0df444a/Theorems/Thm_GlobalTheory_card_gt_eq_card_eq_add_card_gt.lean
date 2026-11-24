@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_gt_eq_card_eq_add_card_gt
 -- name    : GlobalTheory.card_gt_eq_card_eq_add_card_gt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:04.148802+00:00
 -- url     : https://prove2.me/theorems/10ffd5ac-6fbe-42dd-9c04-17a3db40ace8

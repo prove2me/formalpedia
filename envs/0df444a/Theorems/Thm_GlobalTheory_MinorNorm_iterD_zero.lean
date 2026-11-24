@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_iterD_zero
 -- name    : GlobalTheory.MinorNorm.iterD_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:18.969592+00:00
 -- url     : https://prove2.me/theorems/07f3f722-0825-485e-8bec-d2a418a24798

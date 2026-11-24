@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqTopology_range_mat
 -- name    : GlobalTheory.UpqTopology.range_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:20:28.781255+00:00
 -- url     : https://prove2.me/theorems/a4494321-3bd5-47ff-8bec-284f930997a7

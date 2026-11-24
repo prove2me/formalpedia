@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_hits_col
 -- name    : Formalism.InvariantFactorPaths.G7.hits_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:14.226252+00:00
 -- url     : https://prove2.me/theorems/6d386ca5-26e8-49e4-b3d8-ff2f9ad7fd34

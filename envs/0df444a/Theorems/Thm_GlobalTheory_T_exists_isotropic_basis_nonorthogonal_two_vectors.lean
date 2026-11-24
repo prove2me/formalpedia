@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isotropic_basis_nonorthogonal_two_vectors
 -- name    : GlobalTheory.T.exists_isotropic_basis_nonorthogonal_two_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:37:05.310497+00:00
 -- url     : https://prove2.me/theorems/b6ee911f-492c-40d0-8b20-9d66cbf5dc54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_addCol_antitone
 -- name    : GlobalTheory.MinorNorm.addCol_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:28:10.237979+00:00
 -- url     : https://prove2.me/theorems/c0ac3449-7213-42dc-a915-e1efd127218a

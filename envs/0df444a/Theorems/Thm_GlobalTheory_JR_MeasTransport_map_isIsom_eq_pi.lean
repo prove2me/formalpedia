@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasTransport_map_isIsom_eq_pi
 -- name    : GlobalTheory.JR.MeasTransport.map_isIsom_eq_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:36.652846+00:00
 -- url     : https://prove2.me/theorems/d6889e49-4d55-4090-a52c-7b8914a41f2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_CentralizerAdjoin_mem_adjoin_of_commute
 -- name    : GlobalTheory.Tw.CentralizerAdjoin.mem_adjoin_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:12:41.386519+00:00
 -- url     : https://prove2.me/theorems/84b67780-f513-4baf-980e-c5a373e900f9

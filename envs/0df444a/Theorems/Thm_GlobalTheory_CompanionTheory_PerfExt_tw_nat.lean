@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfExt_tw_nat
 -- name    : GlobalTheory.CompanionTheory.PerfExt.tw_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:29:35.735675+00:00
 -- url     : https://prove2.me/theorems/ed324cc9-eeeb-4a19-8c93-77bece46f0f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoCompare_hasSum_defTerm
 -- name    : GlobalTheory.WeightTwoCompare.hasSum_defTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:52:00.157371+00:00
 -- url     : https://prove2.me/theorems/ab9da980-70ce-47d9-bfe5-c242bec33a5a

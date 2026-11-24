@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bilinForm_bijective_of_nondegenerate_mod
 -- name    : GlobalTheory.bilinForm_bijective_of_nondegenerate_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:06:41.439831+00:00
 -- url     : https://prove2.me/theorems/d1c99654-a78a-40cc-af4b-4769b7295e07

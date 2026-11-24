@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArithmeticKakeya_katz_tao_config_11_6
 -- name    : ArithmeticKakeya.katz_tao_config_11_6
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-16T21:56:45.574704+00:00
 -- url     : https://prove2.me/theorems/4a16c8a9-6786-40ab-97c7-50841c7dd819

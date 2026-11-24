@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifTransport_transport_uniformisation
 -- name    : GlobalTheory.UnifTransport.transport_uniformisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:24:53.207644+00:00
 -- url     : https://prove2.me/theorems/6fd541c6-662a-46db-b067-53953ea3247a

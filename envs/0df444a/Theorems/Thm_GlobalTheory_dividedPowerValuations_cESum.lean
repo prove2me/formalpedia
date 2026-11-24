@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dividedPowerValuations_cESum
 -- name    : GlobalTheory.dividedPowerValuations_cESum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:16:40.629021+00:00
 -- url     : https://prove2.me/theorems/0b43fdcf-dcb8-4693-af3b-0e15011bd534

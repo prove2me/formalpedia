@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_doubleCoset_semidirect_rep_surjective
 -- name    : GlobalTheory.T.doubleCoset_semidirect_rep_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:32:37.126793+00:00
 -- url     : https://prove2.me/theorems/7e5de784-7a93-427c-8d5b-faf9277a3e1a

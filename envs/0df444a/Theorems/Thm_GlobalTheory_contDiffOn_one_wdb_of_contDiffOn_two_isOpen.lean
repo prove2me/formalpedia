@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDiffOn_one_wdb_of_contDiffOn_two_isOpen
 -- name    : GlobalTheory.contDiffOn_one_wdb_of_contDiffOn_two_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:28.167135+00:00
 -- url     : https://prove2.me/theorems/77df4f65-e518-439a-8528-3003e75286bb

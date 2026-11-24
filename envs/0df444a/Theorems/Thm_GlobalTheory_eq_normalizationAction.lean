@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_normalizationAction
 -- name    : GlobalTheory.eq_normalizationAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:18:14.935075+00:00
 -- url     : https://prove2.me/theorems/9e081169-c451-4bb7-bc96-a70b4a118df0

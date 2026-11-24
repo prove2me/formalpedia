@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_comp_eq_of_extending_section
 -- name    : GlobalTheory.comp_eq_of_extending_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:11:52.891802+00:00
 -- url     : https://prove2.me/theorems/d1816207-f7bc-48f1-9d1e-90157d67c763

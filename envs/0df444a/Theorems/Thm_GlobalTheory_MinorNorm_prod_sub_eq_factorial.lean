@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_prod_sub_eq_factorial
 -- name    : GlobalTheory.MinorNorm.prod_sub_eq_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:28:35.954863+00:00
 -- url     : https://prove2.me/theorems/bd206e5f-cd92-468c-a2ff-f17f2c27290b

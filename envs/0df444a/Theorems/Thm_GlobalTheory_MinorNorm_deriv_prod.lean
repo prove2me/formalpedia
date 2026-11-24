@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_deriv_prod
 -- name    : GlobalTheory.MinorNorm.deriv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:28:32.147032+00:00
 -- url     : https://prove2.me/theorems/b009ba68-6006-414c-888f-4bb39bfecd1d

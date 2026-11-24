@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_appTop_eq_of_flat
 -- name    : GlobalTheory.existsUnique_appTop_eq_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:21.485018+00:00
 -- url     : https://prove2.me/theorems/05649e13-957d-4975-bf28-6f729e3118e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_of_isometry_of_bijective_form
 -- name    : GlobalTheory.bijective_of_isometry_of_bijective_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:56.439135+00:00
 -- url     : https://prove2.me/theorems/f67ba089-a9c1-4d92-8957-5a3eae00ba4b

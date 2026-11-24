@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_charpoly_mulLeft_eq_map_of_spanning_lattice
 -- name    : GlobalTheory.charpoly_mulLeft_eq_map_of_spanning_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:07:46.041009+00:00
 -- url     : https://prove2.me/theorems/ae6c11d5-c3bf-45d3-a5aa-2a3a3dea1a78

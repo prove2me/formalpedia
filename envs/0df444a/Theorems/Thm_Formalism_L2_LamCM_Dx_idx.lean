@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_idx
 -- name    : Formalism.L2.LamCM.Dx.idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:17:30.601038+00:00
 -- url     : https://prove2.me/theorems/bcf0b1f6-2d64-477a-af81-2b1253e42eb7

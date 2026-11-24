@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_degLE_det_rankOne
 -- name    : Formalism.InvariantFactorPaths.G7.degLE_det_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:37.600061+00:00
 -- url     : https://prove2.me/theorems/ba2e10a9-2f1f-4982-bb11-19805e504514

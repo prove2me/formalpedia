@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtPart_isPart_partSec
 -- name    : GlobalTheory.ZH.WtPart.isPart_partSec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:13:12.239923+00:00
 -- url     : https://prove2.me/theorems/5fe30fe8-080d-4e72-a030-616ecb6397ce

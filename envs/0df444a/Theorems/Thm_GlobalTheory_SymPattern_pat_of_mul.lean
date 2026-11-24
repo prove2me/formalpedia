@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymPattern_pat_of_mul
 -- name    : GlobalTheory.SymPattern.pat_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:20:31.050893+00:00
 -- url     : https://prove2.me/theorems/2d38d5c6-cfcf-4f00-88d1-c2f31b7e2aed

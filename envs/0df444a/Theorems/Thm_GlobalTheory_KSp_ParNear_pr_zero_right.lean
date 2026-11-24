@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_ParNear_pr_zero_right
 -- name    : GlobalTheory.KSp.ParNear.pr_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:26:15.532869+00:00
 -- url     : https://prove2.me/theorems/8d558430-5137-4059-a455-9bae3a6f0121

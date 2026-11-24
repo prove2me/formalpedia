@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_forall_pow_nsmul
 -- name    : GlobalTheory.eq_zero_of_forall_pow_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:18:49.339481+00:00
 -- url     : https://prove2.me/theorems/2e6daaa2-eca6-4796-ad63-5c3ae14a6e00

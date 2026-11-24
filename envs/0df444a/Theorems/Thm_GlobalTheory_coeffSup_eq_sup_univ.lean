@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeffSup_eq_sup_univ
 -- name    : GlobalTheory.coeffSup_eq_sup_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:09:14.39283+00:00
 -- url     : https://prove2.me/theorems/b8261ff2-1af2-416a-8bd2-44cd4875263d

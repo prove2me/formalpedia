@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCO_prX_Cgrp_and_det_valuation_deltaR_eq_one
 -- name    : GlobalTheory.T.isCO_prX_Cgrp_and_det_valuation_deltaR_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:20:14.836571+00:00
 -- url     : https://prove2.me/theorems/6c9bafb4-1170-4f79-8a3c-b769947e50ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eigenvector_mem_ker_of_ne_coord_char
 -- name    : GlobalTheory.eigenvector_mem_ker_of_ne_coord_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:35.310076+00:00
 -- url     : https://prove2.me/theorems/a59b3c41-07dd-4b13-a76a-8bdea952ad89

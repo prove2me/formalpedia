@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeLow_stein_iff
 -- name    : GlobalTheory.CompanionTheory.HodgeLow.stein_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:25:14.704002+00:00
 -- url     : https://prove2.me/theorems/c2fd0887-c71e-4327-96ce-fe37e3975a46

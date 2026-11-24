@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_hasTargetType_untwist
 -- name    : GlobalTheory.CollapseCompare.hasTargetType_untwist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:20:01.325524+00:00
 -- url     : https://prove2.me/theorems/0c07a62b-5fb6-4891-a9e9-943da83b4aad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_DerivExpansion_row_eq
 -- name    : GlobalTheory.WpFam.DerivExpansion.row_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:56:44.596568+00:00
 -- url     : https://prove2.me/theorems/0ca94e56-9994-48f8-9aba-3d9cd6a7eb70

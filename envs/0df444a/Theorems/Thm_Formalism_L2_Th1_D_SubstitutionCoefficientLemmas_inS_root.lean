@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_SubstitutionCoefficientLemmas_inS_root
 -- name    : Formalism.L2.Th1.D.SubstitutionCoefficientLemmas.inS_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:10:37.816114+00:00
 -- url     : https://prove2.me/theorems/89af7c77-74c0-418e-bb54-e2c6bb8842c2

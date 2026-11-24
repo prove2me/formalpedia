@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_eq_zero_of_sum_smul_eq_zero_of_separating
 -- name    : GlobalTheory.coeff_eq_zero_of_sum_smul_eq_zero_of_separating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:10:11.307856+00:00
 -- url     : https://prove2.me/theorems/59ec14fc-53c3-4e80-bd78-0d3121fa278b

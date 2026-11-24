@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnipPow_tendsto_pow_of_nilpotent
 -- name    : GlobalTheory.RootEx.UnipPow.tendsto_pow_of_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:08:41.863804+00:00
 -- url     : https://prove2.me/theorems/b757544c-d532-4bb6-8200-c6f8fa5b799a

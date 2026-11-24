@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_separable_charpoly_invAlgBaseChangeUnramified
 -- name    : GlobalTheory.T.separable_charpoly_invAlgBaseChangeUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:36:34.005795+00:00
 -- url     : https://prove2.me/theorems/09ac7681-1d1f-4668-bf5b-6fbeedee2317

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_rTensor_pull
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.rTensor_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:25:25.009712+00:00
 -- url     : https://prove2.me/theorems/9d3afe52-96cb-48f4-9f0a-732c4c816697

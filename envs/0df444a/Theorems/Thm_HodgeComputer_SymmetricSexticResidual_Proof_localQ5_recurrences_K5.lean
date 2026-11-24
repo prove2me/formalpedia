@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localQ5_recurrences_K5
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localQ5_recurrences_K5
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T22:21:06.48152+00:00
 -- url     : https://prove2.me/theorems/ae2e511f-0196-4c7d-b989-b21846d8479a

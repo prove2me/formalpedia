@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_one_of_lower_unitriangular_eq_mul
 -- name    : GlobalTheory.eq_one_of_lower_unitriangular_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:17:48.441872+00:00
 -- url     : https://prove2.me/theorems/f65a0660-f752-4b39-83ac-24a34afe21b9

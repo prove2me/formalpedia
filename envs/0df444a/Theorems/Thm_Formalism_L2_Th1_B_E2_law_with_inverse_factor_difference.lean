@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_law_with_inverse_factor_difference
 -- name    : Formalism.L2.Th1.B.E2.law_with_inverse_factor_difference
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:04:54.058273+00:00
 -- url     : https://prove2.me/theorems/99a0f621-d7ee-4d37-9fea-f351f4ea6b92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZMTFin_isFinite_toBase
 -- name    : GlobalTheory.ZMTFin.isFinite_toBase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:04:18.399805+00:00
 -- url     : https://prove2.me/theorems/5a3405f7-6909-4fb1-849d-10b85352da5d

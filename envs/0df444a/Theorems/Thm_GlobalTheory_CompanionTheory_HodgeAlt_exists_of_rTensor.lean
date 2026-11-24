@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_exists_of_rTensor
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.exists_of_rTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:25:35.863618+00:00
 -- url     : https://prove2.me/theorems/a4c7a881-1852-42d4-88ea-6f26ff79934c

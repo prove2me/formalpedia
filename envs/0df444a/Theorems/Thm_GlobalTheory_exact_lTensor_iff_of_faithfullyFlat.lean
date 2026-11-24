@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exact_lTensor_iff_of_faithfullyFlat
 -- name    : GlobalTheory.exact_lTensor_iff_of_faithfullyFlat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:20:09.812598+00:00
 -- url     : https://prove2.me/theorems/fe538ece-91c4-4009-96d6-fd4eedbfeb24

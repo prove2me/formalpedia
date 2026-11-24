@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_C_mul_eq_C_mul_coeff_notMem
 -- name    : GlobalTheory.exists_C_mul_eq_C_mul_coeff_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:30:00.526291+00:00
 -- url     : https://prove2.me/theorems/6aae6687-e69e-4bd0-b83c-62cd818c7e2e

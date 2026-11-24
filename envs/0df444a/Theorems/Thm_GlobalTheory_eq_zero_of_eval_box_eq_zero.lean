@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_eval_box_eq_zero
 -- name    : GlobalTheory.eq_zero_of_eval_box_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:17:52.421438+00:00
 -- url     : https://prove2.me/theorems/42e4ff34-7966-417d-acee-6e79ab29d199

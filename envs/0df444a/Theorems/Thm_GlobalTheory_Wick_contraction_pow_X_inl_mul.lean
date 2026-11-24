@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Wick_contraction_pow_X_inl_mul
 -- name    : GlobalTheory.Wick.contraction_pow_X_inl_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:14.943154+00:00
 -- url     : https://prove2.me/theorems/22823245-3de1-4213-a833-d8bc65950a3d

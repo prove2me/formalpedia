@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_det_eq_sum_eps
 -- name    : GlobalTheory.MinorNorm.det_eq_sum_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:28:28.093445+00:00
 -- url     : https://prove2.me/theorems/546e0a01-497f-4380-9b04-c57cc91fbbfa

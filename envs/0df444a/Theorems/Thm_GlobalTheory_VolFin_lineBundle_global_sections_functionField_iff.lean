@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_lineBundle_global_sections_functionField_iff
 -- name    : GlobalTheory.VolFin.lineBundle_global_sections_functionField_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:51:19.403134+00:00
 -- url     : https://prove2.me/theorems/5179ad5a-7228-466e-8816-7e63691a59cf

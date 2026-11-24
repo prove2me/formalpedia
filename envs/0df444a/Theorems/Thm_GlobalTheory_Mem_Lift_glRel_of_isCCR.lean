@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_glRel_of_isCCR
 -- name    : GlobalTheory.Mem.Lift.glRel_of_isCCR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:31.736802+00:00
 -- url     : https://prove2.me/theorems/242c9e9f-ed67-49c2-ab01-d12aa5831525

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubstCoeff_coeff_substF_monomial_continuous_algebraic
 -- name    : GlobalTheory.SubstCoeff.coeff_substF_monomial_continuous_algebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:54:54.756907+00:00
 -- url     : https://prove2.me/theorems/a3c56518-d47b-4850-89eb-68f908ed09d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_unitStabilizer_integralUnits_ne_zero
 -- name    : GlobalTheory.T.relIndex_unitStabilizer_integralUnits_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:56:49.466827+00:00
 -- url     : https://prove2.me/theorems/445296c0-e502-4995-9f2b-77d87b8ada8e

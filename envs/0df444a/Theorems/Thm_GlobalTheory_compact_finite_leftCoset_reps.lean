@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_compact_finite_leftCoset_reps
 -- name    : GlobalTheory.compact_finite_leftCoset_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:14:06.926944+00:00
 -- url     : https://prove2.me/theorems/ea0d7cc2-d870-4747-8ba9-ffa1abae00dc

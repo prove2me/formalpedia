@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_Adapted_isQuotInt_iff
 -- name    : GlobalTheory.CollapseCompare.Adapted.isQuotInt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:19:34.568948+00:00
 -- url     : https://prove2.me/theorems/1cd4cbee-8c62-4d0e-a6df-2deb799fc821

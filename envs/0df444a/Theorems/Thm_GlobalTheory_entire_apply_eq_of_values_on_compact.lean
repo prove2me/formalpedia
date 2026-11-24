@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_apply_eq_of_values_on_compact
 -- name    : GlobalTheory.entire_apply_eq_of_values_on_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:16:46.731788+00:00
 -- url     : https://prove2.me/theorems/ef66d102-1688-41a5-a641-35001d77ff6c

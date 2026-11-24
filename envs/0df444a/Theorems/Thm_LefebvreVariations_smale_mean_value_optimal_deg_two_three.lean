@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LefebvreVariations_smale_mean_value_optimal_deg_two_three
 -- name    : LefebvreVariations.smale_mean_value_optimal_deg_two_three
--- status  : Open
+-- status  : Proved
 -- author  : @Secousses
 -- created : 2026-11-24T22:03:00.111813+00:00
 -- url     : https://prove2.me/theorems/2527aa36-6a89-4eb4-b1d9-691f3f5a313d

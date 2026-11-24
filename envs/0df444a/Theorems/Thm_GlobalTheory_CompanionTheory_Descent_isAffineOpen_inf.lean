@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Descent_isAffineOpen_inf
 -- name    : GlobalTheory.CompanionTheory.Descent.isAffineOpen_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:26:00.340974+00:00
 -- url     : https://prove2.me/theorems/0d70009a-8e48-4658-91da-f98859e403fc

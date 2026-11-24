@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_SAdd_sigma_rules_hold
 -- name    : Formalism.L2.Th1.B.SAdd.sigma_rules_hold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:00:52.651642+00:00
 -- url     : https://prove2.me/theorems/ab234353-d798-409e-8ef1-a8ab3e1f2dab

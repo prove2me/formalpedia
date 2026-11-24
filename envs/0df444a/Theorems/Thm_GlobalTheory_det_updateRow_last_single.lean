@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_updateRow_last_single
 -- name    : GlobalTheory.det_updateRow_last_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:15:57.99682+00:00
 -- url     : https://prove2.me/theorems/b482e38d-dc3e-4e75-89dd-3a8f0e9a492f

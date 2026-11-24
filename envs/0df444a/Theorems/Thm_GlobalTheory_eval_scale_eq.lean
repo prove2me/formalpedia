@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eval_scale_eq
 -- name    : GlobalTheory.eval_scale_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:19:43.971925+00:00
 -- url     : https://prove2.me/theorems/a31b3e88-07e0-46f2-ad5a-2bb7919013bc

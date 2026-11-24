@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JointHarm_mapDomain_add_inj
 -- name    : GlobalTheory.JointHarm.mapDomain_add_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:26:52.514815+00:00
 -- url     : https://prove2.me/theorems/e20d4ff5-d233-4e2c-be1f-068fc6df5056

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WrongSignGauss_lineDerivOp_twD
 -- name    : GlobalTheory.WrongSignGauss.lineDerivOp_twD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:57:31.563546+00:00
 -- url     : https://prove2.me/theorems/6675d47b-deaa-4671-8c40-8980d908243b

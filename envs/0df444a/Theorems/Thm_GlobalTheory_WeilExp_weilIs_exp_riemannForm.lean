@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilExp_weilIs_exp_riemannForm
 -- name    : GlobalTheory.WeilExp.weilIs_exp_riemannForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:23:32.693059+00:00
 -- url     : https://prove2.me/theorems/afcb104b-c2f9-4779-bd5e-f8ee8279c433

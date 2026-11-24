@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dpolyN_map
 -- name    : GlobalTheory.dpolyN_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:17:59.608078+00:00
 -- url     : https://prove2.me/theorems/51de1833-5013-477a-a07d-0253f3f8b85d

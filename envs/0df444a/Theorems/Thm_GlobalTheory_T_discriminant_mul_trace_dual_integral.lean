@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_discriminant_mul_trace_dual_integral
 -- name    : GlobalTheory.T.discriminant_mul_trace_dual_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:32:46.10678+00:00
 -- url     : https://prove2.me/theorems/5a8410e2-5792-4d48-af9e-b9fa77b64c52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeCyclesIso_hom_subtype
 -- name    : GlobalTheory.cubeCyclesIso_hom_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:14:50.291596+00:00
 -- url     : https://prove2.me/theorems/f4b2c3bf-a0b9-400c-87c2-434ec6261331

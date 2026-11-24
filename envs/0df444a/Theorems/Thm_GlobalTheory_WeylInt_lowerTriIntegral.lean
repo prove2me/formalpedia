@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylInt_lowerTriIntegral
 -- name    : GlobalTheory.WeylInt.lowerTriIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:55:28.460803+00:00
 -- url     : https://prove2.me/theorems/9ed078db-af67-40e9-b454-c0f870585bdf

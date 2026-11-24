@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_lgS_unique
 -- name    : ReciprocityTheory.ChartRestriction.L1.lgS_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:44:55.334202+00:00
 -- url     : https://prove2.me/theorems/13d90d6d-a37c-4de4-aaea-42f1fdeb6723

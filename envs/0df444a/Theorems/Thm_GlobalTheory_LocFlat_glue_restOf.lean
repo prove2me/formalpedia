@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_glue_restOf
 -- name    : GlobalTheory.LocFlat.glue_restOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:27:53.805007+00:00
 -- url     : https://prove2.me/theorems/605edf06-dd13-4f4c-a6b9-56095286b017

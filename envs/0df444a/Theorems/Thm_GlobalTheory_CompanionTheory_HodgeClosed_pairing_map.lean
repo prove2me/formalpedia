@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeClosed_pairing_map
 -- name    : GlobalTheory.CompanionTheory.HodgeClosed.pairing_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:25:38.456434+00:00
 -- url     : https://prove2.me/theorems/92bc792c-ee1c-45a5-b7cc-24cec10719de

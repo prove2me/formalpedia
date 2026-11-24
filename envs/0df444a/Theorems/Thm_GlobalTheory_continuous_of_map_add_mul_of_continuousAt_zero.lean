@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuous_of_map_add_mul_of_continuousAt_zero
 -- name    : GlobalTheory.continuous_of_map_add_mul_of_continuousAt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:14:39.416477+00:00
 -- url     : https://prove2.me/theorems/3b9e5c3b-0199-4dd0-a947-efc7793c960b

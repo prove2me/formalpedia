@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_fixedBy_pow_prime_pow_modEq
 -- name    : GlobalTheory.card_fixedBy_pow_prime_pow_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:06:55.646747+00:00
 -- url     : https://prove2.me/theorems/e314e7fe-4e69-463c-b721-99df7b529e58

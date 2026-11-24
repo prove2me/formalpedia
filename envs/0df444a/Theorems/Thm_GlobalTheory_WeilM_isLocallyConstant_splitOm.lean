@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_isLocallyConstant_splitOm
 -- name    : GlobalTheory.WeilM.isLocallyConstant_splitOm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:55:22.077483+00:00
 -- url     : https://prove2.me/theorems/3162e6e9-bbd2-4ae4-b18d-6a75cf318d21

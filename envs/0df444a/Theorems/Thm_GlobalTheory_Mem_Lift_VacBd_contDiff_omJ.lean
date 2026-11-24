@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_VacBd_contDiff_omJ
 -- name    : GlobalTheory.Mem.Lift.VacBd.contDiff_omJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:22:51.899909+00:00
 -- url     : https://prove2.me/theorems/66afa417-1bb5-4c82-a24e-3e0c7d7e0112

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_lift_smul_D
 -- name    : GlobalTheory.CompanionTheory.AxForm.lift_smul_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:23:02.463037+00:00
 -- url     : https://prove2.me/theorems/e3d3bf55-c286-4e50-9a1c-dbd628b4edd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_partition_induction
 -- name    : GlobalTheory.MinorNorm.partition_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:56.874452+00:00
 -- url     : https://prove2.me/theorems/d07231cc-2fd5-4b6b-ac01-d4de7a7b8fec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_sum_comp_algebraMap
 -- name    : Formalism.L2.LamCM.sum_comp_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:28:23.605925+00:00
 -- url     : https://prove2.me/theorems/63c7ab16-4b4c-49b7-b663-1460d4f6b6bd

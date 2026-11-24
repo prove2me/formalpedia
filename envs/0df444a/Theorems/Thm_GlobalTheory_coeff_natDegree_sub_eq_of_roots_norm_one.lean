@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_natDegree_sub_eq_of_roots_norm_one
 -- name    : GlobalTheory.coeff_natDegree_sub_eq_of_roots_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:53.615837+00:00
 -- url     : https://prove2.me/theorems/9cedffdf-eff7-4239-9885-1f7931845195

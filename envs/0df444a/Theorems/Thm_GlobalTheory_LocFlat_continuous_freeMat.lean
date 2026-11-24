@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_continuous_freeMat
 -- name    : GlobalTheory.LocFlat.continuous_freeMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:29:11.203671+00:00
 -- url     : https://prove2.me/theorems/462616f0-3165-4ae0-8de2-de89cc602358

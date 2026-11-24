@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dot_sq_le
 -- name    : GlobalTheory.dot_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:39.159368+00:00
 -- url     : https://prove2.me/theorems/d6493d96-636d-40da-98cd-fffae554719a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_le_of_family_separated
 -- name    : GlobalTheory.card_le_of_family_separated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:43.962671+00:00
 -- url     : https://prove2.me/theorems/73ed8896-285c-4fea-9238-38471bdc680a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_bicharacter_pow_four
 -- name    : GlobalTheory.det_bicharacter_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:15:53.462421+00:00
 -- url     : https://prove2.me/theorems/b3934105-08da-442c-9f60-3449dd94ff38

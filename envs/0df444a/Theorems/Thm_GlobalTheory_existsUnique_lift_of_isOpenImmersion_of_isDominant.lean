@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_lift_of_isOpenImmersion_of_isDominant
 -- name    : GlobalTheory.existsUnique_lift_of_isOpenImmersion_of_isDominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:29:11.875519+00:00
 -- url     : https://prove2.me/theorems/5842470a-5d22-453a-afcc-139f2aacbe1a

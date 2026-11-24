@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integerMap_isIntegral_unramifiedInvolutionExt
 -- name    : GlobalTheory.T.exists_integerMap_isIntegral_unramifiedInvolutionExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:35:37.064411+00:00
 -- url     : https://prove2.me/theorems/85f57420-5a66-4e96-8c11-7e16689b1bad

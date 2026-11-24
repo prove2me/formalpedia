@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittTrace_exists_isometry_of_linearIndependent
 -- name    : GlobalTheory.WittTrace.exists_isometry_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:56:27.505777+00:00
 -- url     : https://prove2.me/theorems/492acd5b-cbc3-4d47-a0a3-de1dc8893bec

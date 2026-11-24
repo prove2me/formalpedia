@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_we_msum
 -- name    : Formalism.CohomologicalDescent.we_msum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:29:59.513575+00:00
 -- url     : https://prove2.me/theorems/6623ae46-3970-44e1-ba91-7e4d73798ff7

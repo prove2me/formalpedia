@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_OpenKernel_characters_locallyConstant
 -- name    : GlobalTheory.RootEx.OpenKernel.characters_locallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:21:07.813001+00:00
 -- url     : https://prove2.me/theorems/f677bc4a-1675-4348-aaa9-95ab3c2886b4

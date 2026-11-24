@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_level_on_factor_of_eighth_power
 -- name    : GlobalTheory.ZM.level_on_factor_of_eighth_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:02:18.485813+00:00
 -- url     : https://prove2.me/theorems/30b96dce-2dff-49be-b6d7-e834a448f511

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cayleyInv_one_add
 -- name    : GlobalTheory.cayleyInv_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:08:06.813633+00:00
 -- url     : https://prove2.me/theorems/f17c5a45-46cc-4268-a9b7-aa1103991bb2

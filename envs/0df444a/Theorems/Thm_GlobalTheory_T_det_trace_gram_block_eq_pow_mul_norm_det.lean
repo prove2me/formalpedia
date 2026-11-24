@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_det_trace_gram_block_eq_pow_mul_norm_det
 -- name    : GlobalTheory.T.det_trace_gram_block_eq_pow_mul_norm_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:31:22.467057+00:00
 -- url     : https://prove2.me/theorems/68f908e1-2969-436c-8583-774140aefd34

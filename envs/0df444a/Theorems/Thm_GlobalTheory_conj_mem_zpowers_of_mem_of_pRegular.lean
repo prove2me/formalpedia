@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_conj_mem_zpowers_of_mem_of_pRegular
 -- name    : GlobalTheory.conj_mem_zpowers_of_mem_of_pRegular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:13:25.759119+00:00
 -- url     : https://prove2.me/theorems/e84f5d2e-c7a4-4c5f-9e78-254f12d34fff

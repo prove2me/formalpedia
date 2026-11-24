@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_affPt_eq_basePt_add_freeMat
 -- name    : GlobalTheory.LocFlat.affPt_eq_basePt_add_freeMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:27:57.231181+00:00
 -- url     : https://prove2.me/theorems/a3c1bf58-da31-4629-8f98-446ac59039da

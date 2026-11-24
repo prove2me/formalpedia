@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_core_of_untwist
 -- name    : GlobalTheory.CollapseCompare.core_of_untwist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:20:37.455893+00:00
 -- url     : https://prove2.me/theorems/14a909fa-e4d5-4ac1-8f97-207bda5c812d

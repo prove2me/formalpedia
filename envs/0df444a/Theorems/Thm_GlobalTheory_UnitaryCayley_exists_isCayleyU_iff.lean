@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryCayley_exists_isCayleyU_iff
 -- name    : GlobalTheory.UnitaryCayley.exists_isCayleyU_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:40:14.557701+00:00
 -- url     : https://prove2.me/theorems/20e46d51-ef17-48d7-add8-eb8bf4928271

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_wpRecursion_of
 -- name    : Formalism.L2.Th1.A.wpRecursion_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:54.895507+00:00
 -- url     : https://prove2.me/theorems/155b0b22-8870-45df-baed-fe415d5dee9c

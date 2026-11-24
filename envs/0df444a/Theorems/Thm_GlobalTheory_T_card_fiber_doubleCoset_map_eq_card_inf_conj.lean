@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_fiber_doubleCoset_map_eq_card_inf_conj
 -- name    : GlobalTheory.T.card_fiber_doubleCoset_map_eq_card_inf_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:27:59.499103+00:00
 -- url     : https://prove2.me/theorems/6100fe40-202f-4fc3-8307-96c3a3eea208

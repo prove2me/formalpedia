@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_compositum_finite_formallyUnramified
 -- name    : GlobalTheory.compositum_finite_formallyUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:31.344068+00:00
 -- url     : https://prove2.me/theorems/39bde1aa-a730-446f-a962-7c7ff6de5127

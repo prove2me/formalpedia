@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ddChar_diag_single
 -- name    : GlobalTheory.ddChar_diag_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:14:46.468795+00:00
 -- url     : https://prove2.me/theorems/5d799c6f-c136-424d-9fa7-e65d22fff033

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WhitCollapse_measurable_etaK
 -- name    : GlobalTheory.WhitCollapse.measurable_etaK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:24.89381+00:00
 -- url     : https://prove2.me/theorems/304ccce8-b982-4b0b-a4bf-1fb4f390b69a

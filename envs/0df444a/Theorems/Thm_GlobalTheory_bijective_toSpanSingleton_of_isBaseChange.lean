@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_toSpanSingleton_of_isBaseChange
 -- name    : GlobalTheory.bijective_toSpanSingleton_of_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:06:28.784907+00:00
 -- url     : https://prove2.me/theorems/9bfcbe9b-df46-4525-a221-a085aa09cba5

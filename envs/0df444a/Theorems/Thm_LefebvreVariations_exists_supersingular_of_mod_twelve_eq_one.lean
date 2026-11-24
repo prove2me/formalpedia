@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:24:20.185519+00:00
 -- url     : https://prove2.me/theorems/2f034e04-b4a8-422f-ab53-8cdbbbd13cad
 -- title:
---   Lefebvre's variations: a supersingular elliptic curve over $\mathbb{F}_p$ for every prime $p \equiv 1 \pmod{12}$
+--   Lefebvre's variations, No. 21 — on a theme by Deuring: a supersingular elliptic curve over $\mathbb{F}_p$ for every prime $p \equiv 1 \pmod{12}$
 -- statement:
 --   This is the one case of Deuring's supersingular existence theorem over prime fields that no explicit curve with complex multiplication by $\mathbb{Z}[i]$ or $\mathbb{Z}[\omega]$ covers.
 --

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_toSpanSingleton_invariants
 -- name    : GlobalTheory.bijective_toSpanSingleton_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:06:29.942683+00:00
 -- url     : https://prove2.me/theorems/47e38613-fe91-4d43-8c63-29b474be5891

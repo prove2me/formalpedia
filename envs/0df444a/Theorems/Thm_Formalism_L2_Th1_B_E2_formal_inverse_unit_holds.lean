@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_formal_inverse_unit_holds
 -- name    : Formalism.L2.Th1.B.E2.formal_inverse_unit_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:01:28.796944+00:00
 -- url     : https://prove2.me/theorems/d95aae57-7ae4-4599-ab2c-cde99dce4b43

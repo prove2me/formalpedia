@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_exists_sub_cj_mul_eq_one
 -- name    : GlobalTheory.UnramOrder.exists_sub_cj_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:16:56.717009+00:00
 -- url     : https://prove2.me/theorems/ad6df12b-f136-4c5b-ab2f-67e6a68d5eb3

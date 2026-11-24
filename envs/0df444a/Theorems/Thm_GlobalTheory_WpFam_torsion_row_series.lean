@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_torsion_row_series
 -- name    : GlobalTheory.WpFam.torsion_row_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:57:25.898697+00:00
 -- url     : https://prove2.me/theorems/9ac102c4-9f2d-4f03-ab39-888c1191f779

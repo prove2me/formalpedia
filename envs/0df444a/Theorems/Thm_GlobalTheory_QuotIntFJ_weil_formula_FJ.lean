@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotIntFJ_weil_formula_FJ
 -- name    : GlobalTheory.QuotIntFJ.weil_formula_FJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:14:06.324311+00:00
 -- url     : https://prove2.me/theorems/a00f521a-52e0-424a-b002-aedb423c016b

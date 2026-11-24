@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_Normal_im_add_I_re
 -- name    : GlobalTheory.Mem.Lift.Normal.im_add_I_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:29:30.178226+00:00
 -- url     : https://prove2.me/theorems/341eda78-3784-4d8a-a77a-43cf498eb69f

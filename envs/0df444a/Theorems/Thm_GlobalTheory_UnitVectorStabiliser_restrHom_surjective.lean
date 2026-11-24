@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitVectorStabiliser_restrHom_surjective
 -- name    : GlobalTheory.UnitVectorStabiliser.restrHom_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:38:47.964771+00:00
 -- url     : https://prove2.me/theorems/b9ebadff-ebe6-484e-ae78-136bdf7e75a1

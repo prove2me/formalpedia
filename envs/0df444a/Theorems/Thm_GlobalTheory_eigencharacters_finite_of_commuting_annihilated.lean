@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eigencharacters_finite_of_commuting_annihilated
 -- name    : GlobalTheory.eigencharacters_finite_of_commuting_annihilated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:35.948798+00:00
 -- url     : https://prove2.me/theorems/0d743c69-6a01-4808-abd1-a2934e87a68c

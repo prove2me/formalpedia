@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coe_fixedDetToGL_smul
 -- name    : GlobalTheory.coe_fixedDetToGL_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:09:19.785694+00:00
 -- url     : https://prove2.me/theorems/5163289a-4dfa-4482-ab19-2683aeb4ee8a

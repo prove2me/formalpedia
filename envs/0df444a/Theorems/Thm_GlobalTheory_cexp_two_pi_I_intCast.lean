@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cexp_two_pi_I_intCast
 -- name    : GlobalTheory.cexp_two_pi_I_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:26.960803+00:00
 -- url     : https://prove2.me/theorems/2b4ad439-05d1-436c-801c-2caa6dd2671a

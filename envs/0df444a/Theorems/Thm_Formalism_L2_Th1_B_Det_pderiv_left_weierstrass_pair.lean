@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Det_pderiv_left_weierstrass_pair
 -- name    : Formalism.L2.Th1.B.Det.pderiv_left_weierstrass_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:00:17.732397+00:00
 -- url     : https://prove2.me/theorems/56f5fcd7-756b-4bbd-a276-e119157ead6c

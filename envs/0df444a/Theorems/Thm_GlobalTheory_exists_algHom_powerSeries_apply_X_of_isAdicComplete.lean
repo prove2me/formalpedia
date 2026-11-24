@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_powerSeries_apply_X_of_isAdicComplete
 -- name    : GlobalTheory.exists_algHom_powerSeries_apply_X_of_isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:29:27.472268+00:00
 -- url     : https://prove2.me/theorems/40292ded-04a4-41f7-8f12-12d6e583ef8c
