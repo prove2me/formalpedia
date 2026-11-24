@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_fockK_X_mul
 -- name    : Formalism.GM.ProjS.fockK_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:41.282185+00:00
 -- url     : https://prove2.me/theorems/6ca0d65d-ec5b-45b0-99ac-03eca8b430cf

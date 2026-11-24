@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x9_cornerCount
 -- name    : Formalism.FourierDecayAlt.P.S3x9.cornerCount
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:28:01.35267+00:00
 -- url     : https://prove2.me/theorems/1d9c0b62-cb06-442b-9105-b6577018e67b

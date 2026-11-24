@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_poissonRandomMeasureProductSndV1
 -- name    : Kyprianou.Ch02.poissonRandomMeasureProductSndV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:43:26.132149+00:00
 -- url     : https://prove2.me/theorems/a97fdcf9-2dfc-410d-bf66-8eed9aca7fd8

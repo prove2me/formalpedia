@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FrozenVariableComponents_top_comm
 -- name    : Formalism.GM.FrozenVariableComponents.top_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:31.872324+00:00
 -- url     : https://prove2.me/theorems/21b5ecef-c32f-49ee-862e-595f8050c7b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_WalkSharpP_main
 -- name    : Formalism.G0.WalkSharpP.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:14.26212+00:00
 -- url     : https://prove2.me/theorems/81d698d9-a980-4b43-829f-42bbbcbd8484

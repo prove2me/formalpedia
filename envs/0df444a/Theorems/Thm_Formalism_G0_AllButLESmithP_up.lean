@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_AllButLESmithP_up
 -- name    : Formalism.G0.AllButLESmithP.up
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:05.491814+00:00
 -- url     : https://prove2.me/theorems/6888994e-17dd-4be1-b20b-358bdd3d6f8b

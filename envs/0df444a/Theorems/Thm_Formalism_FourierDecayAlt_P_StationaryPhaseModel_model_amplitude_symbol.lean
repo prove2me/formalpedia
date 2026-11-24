@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_model_amplitude_symbol
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.model_amplitude_symbol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:31:41.575804+00:00
 -- url     : https://prove2.me/theorems/09164ad4-dfd6-4209-a014-e0fe16aea9bb

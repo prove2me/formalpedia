@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cutoff_phase_bound
 -- name    : Formalism.FourierDecayAlt.P.cutoff_phase_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:12:27.591189+00:00
 -- url     : https://prove2.me/theorems/bbe8c304-64a5-4b07-aed9-63c35e960295

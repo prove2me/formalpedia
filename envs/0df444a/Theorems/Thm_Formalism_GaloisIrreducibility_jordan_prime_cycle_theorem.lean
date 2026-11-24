@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GaloisIrreducibility_jordan_prime_cycle_theorem
 -- name    : Formalism.GaloisIrreducibility.jordan_prime_cycle_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:55:16.241437+00:00
 -- url     : https://prove2.me/theorems/55af5bc7-fb37-41df-a052-74f9cb93d6c6

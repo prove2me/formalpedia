@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_extendBijOn
 -- name    : Formalism.GM.extendBijOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:35:54.969914+00:00
 -- url     : https://prove2.me/theorems/fe6c4bd3-4b7c-4d7a-af53-110068dad2f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_bad_zero
 -- name    : Formalism.FourierDecayAlt.P.A5x9.bad_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:41.250802+00:00
 -- url     : https://prove2.me/theorems/2465f721-a1f7-4e70-82df-b8ab2e282b15

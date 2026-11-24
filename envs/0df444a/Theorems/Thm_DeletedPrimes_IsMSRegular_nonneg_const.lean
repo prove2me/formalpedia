@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_IsMSRegular_nonneg_const
 -- name    : DeletedPrimes.IsMSRegular.nonneg_const
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:47:36.047788+00:00
 -- url     : https://prove2.me/theorems/183be47f-f633-433e-9da1-fb8ea6a477f2

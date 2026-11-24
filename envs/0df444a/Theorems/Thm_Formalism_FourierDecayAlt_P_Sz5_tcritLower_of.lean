@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz5_tcritLower_of
 -- name    : Formalism.FourierDecayAlt.P.Sz5.tcritLower_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:36:39.865723+00:00
 -- url     : https://prove2.me/theorems/c037560c-1e62-4286-b9c8-019f35a7f430

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_FB_freeze_inv
 -- name    : Formalism.GM.M.FB.freeze_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:38.344416+00:00
 -- url     : https://prove2.me/theorems/52d4d2e7-2cac-4a07-ac4b-1bfb4d81ff68

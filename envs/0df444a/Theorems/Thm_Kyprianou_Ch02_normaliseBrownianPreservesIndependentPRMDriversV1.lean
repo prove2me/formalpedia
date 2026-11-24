@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_normaliseBrownianPreservesIndependentPRMDriversV1
 -- name    : Kyprianou.Ch02.normaliseBrownianPreservesIndependentPRMDriversV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:34:13.877811+00:00
 -- url     : https://prove2.me/theorems/6a007816-f4d4-4e09-8996-7a40c9a59266

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HouseAllocLT_LowerBound_budget_bound
 -- name    : HouseAllocLT.LowerBound.budget_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:04:30.560798+00:00
 -- url     : https://prove2.me/theorems/4ea3ec53-91e8-4a77-a14b-d1b607400e65

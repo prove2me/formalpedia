@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GMRDiversity_lemma_2_step_i_decomp
 -- name    : GMRDiversity.lemma_2_step_i_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:39:39.758969+00:00
 -- url     : https://prove2.me/theorems/082e03a5-9b02-4929-98eb-02679aacc053

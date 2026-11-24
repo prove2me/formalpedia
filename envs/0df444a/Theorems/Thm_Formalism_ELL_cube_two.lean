@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_cube_two
 -- name    : Formalism.ELL.cube_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:23:01.197691+00:00
 -- url     : https://prove2.me/theorems/9aa5ce08-0e4e-4674-b6ab-26c2cd507639

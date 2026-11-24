@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_SSD_topcoeff
 -- name    : Formalism.GM.M.SSD.topcoeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:58.462106+00:00
 -- url     : https://prove2.me/theorems/e6c0e749-1214-41c9-a8a2-1fac85716fa9

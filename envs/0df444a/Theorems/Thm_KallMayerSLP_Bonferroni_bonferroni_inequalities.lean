@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_Bonferroni_bonferroni_inequalities
 -- name    : KallMayerSLP.Bonferroni.bonferroni_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:14:06.507214+00:00
 -- url     : https://prove2.me/theorems/7c3fc315-354a-4d12-b2d4-5771cd2c7b7e

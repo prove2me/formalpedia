@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_summable_units_of_summable
 -- name    : DeletedPrimes.summable_units_of_summable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:13.623812+00:00
 -- url     : https://prove2.me/theorems/2e33d927-da6d-4d23-9464-cdbf76ddb9a9

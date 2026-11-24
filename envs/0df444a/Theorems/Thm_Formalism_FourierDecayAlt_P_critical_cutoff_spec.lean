@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_critical_cutoff_spec
 -- name    : Formalism.FourierDecayAlt.P.critical_cutoff_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:13:00.650624+00:00
 -- url     : https://prove2.me/theorems/a469644e-354a-4f57-be68-37ed0f4e508c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd7_TTw_transpose
 -- name    : Formalism.FourierDecayAlt.P.Wd7.TTw_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:46:22.436945+00:00
 -- url     : https://prove2.me/theorems/a343ab34-4478-4ba5-b39f-253d689b2fbc

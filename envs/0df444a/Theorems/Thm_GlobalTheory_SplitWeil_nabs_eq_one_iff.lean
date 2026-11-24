@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_nabs_eq_one_iff
 -- name    : GlobalTheory.SplitWeil.nabs_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:39.271475+00:00
 -- url     : https://prove2.me/theorems/98c4458b-7d48-4dab-a8b2-0b18e649318a

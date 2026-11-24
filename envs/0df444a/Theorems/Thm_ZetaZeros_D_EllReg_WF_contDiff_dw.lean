@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WF_contDiff_dw
 -- name    : ZetaZeros.D.EllReg.WF.contDiff_dw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:43:14.29174+00:00
 -- url     : https://prove2.me/theorems/06127e61-c51c-45ce-8dbc-50872c8efa65

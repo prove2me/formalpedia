@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_upwardPassage_zeroRootIsSubordinator
 -- name    : Kyprianou.Ch03.upwardPassage_zeroRootIsSubordinator
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-23T19:28:50.260641+00:00
 -- url     : https://prove2.me/theorems/894d131f-3c20-404c-af07-b5b7852c7c3c

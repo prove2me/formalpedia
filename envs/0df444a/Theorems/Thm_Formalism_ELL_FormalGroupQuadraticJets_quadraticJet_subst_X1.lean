@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupQuadraticJets_quadraticJet_subst_X1
 -- name    : Formalism.ELL.FormalGroupQuadraticJets.quadraticJet_subst_X1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:18:04.777746+00:00
 -- url     : https://prove2.me/theorems/5ce187d6-d3c1-4000-9407-c5723c4df260

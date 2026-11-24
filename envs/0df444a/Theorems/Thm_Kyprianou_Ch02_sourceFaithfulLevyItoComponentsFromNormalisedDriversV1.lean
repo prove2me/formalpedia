@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_sourceFaithfulLevyItoComponentsFromNormalisedDriversV1
 -- name    : Kyprianou.Ch02.sourceFaithfulLevyItoComponentsFromNormalisedDriversV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:20:42.566329+00:00
 -- url     : https://prove2.me/theorems/e5a47c71-478f-43cb-a6ed-69c786bd3a26

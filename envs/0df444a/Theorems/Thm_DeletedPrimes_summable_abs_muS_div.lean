@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_summable_abs_muS_div
 -- name    : DeletedPrimes.summable_abs_muS_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:46:48.628808+00:00
 -- url     : https://prove2.me/theorems/2c0d6331-fb69-4316-bafa-89aa2c077b60

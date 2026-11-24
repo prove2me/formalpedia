@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_FltRegular_caseI
+-- name    : FltRegular.caseI
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-24T01:36:35.728483+00:00
+-- url     : https://prove2.me/theorems/6b10c018-848e-4f94-9206-f27f82ee6fb4
+-- title:
+--   Flt Regular: case I
+-- statement:
+--   Case I.
+--
+--   Source: https://github.com/leanprover-community/flt-regular/blob/69c70f28505f8431496e0cf4b158b97b1863cced/FltRegular/CaseI/Statement.lean#L264-L267
+-- source:
+--   https://github.com/leanprover-community/flt-regular/blob/69c70f28505f8431496e0cf4b158b97b1863cced/FltRegular/CaseI/Statement.lean#L264-L267
+
+module
+public import Mathlib.NumberTheory.FLT.Three
+public import Definitions.Def_FltRegular_MayAssume_Lemmas
+public import Definitions.Def_FltRegular_NumberTheory_Cyclotomic_CaseI
+public import Definitions.Def_FltRegular_NumberTheory_Cyclotomic_CyclRat
+public import Definitions.Def_FltRegular_NumberTheory_RegularPrimes
+public import Definitions.Def_FltRegular_CaseI_Statement
+set_option autoImplicit false
+@[expose] public section
+public section
+open Finset Nat IsCyclotomicExtension Ideal Polynomial Int Basis FltRegular.CaseI
+open scoped NumberField
+open FltRegular
+variable {p : ℕ}
+local notation "K" => CyclotomicField p ℚ
+local notation "R" => 𝓞 K
+variable [hpri : Fact p.Prime]
+
+theorem FltRegular.caseI {a b c : ℤ} {p : ℕ} [Fact p.Prime] (hreg : IsRegularPrime p)
+    (caseI : ¬↑p ∣ a * b * c) : a ^ p + b ^ p ≠ c ^ p := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bs_map_weyl
 -- name    : Formalism.BranchingDeterminantCap.bs_map_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:23:38.4578+00:00
 -- url     : https://prove2.me/theorems/e08d9569-71a3-431b-9d2a-79e928f7ab9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lpMinor_rowHom
 -- name    : Formalism.GradedWeylDivisibility.lpMinor_rowHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:24.368342+00:00
 -- url     : https://prove2.me/theorems/d67dcfba-2164-4a97-ac46-0a275b708a12

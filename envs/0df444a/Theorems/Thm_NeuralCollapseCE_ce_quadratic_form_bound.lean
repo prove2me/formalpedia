@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuralCollapseCE_ce_quadratic_form_bound
 -- name    : NeuralCollapseCE.ce_quadratic_form_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:11:24.197111+00:00
 -- url     : https://prove2.me/theorems/458ba0fc-5a3a-4f45-8480-c83d7f8d3fb8

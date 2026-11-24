@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmG_bidet
 -- name    : Formalism.BranchingDeterminantCap.bmG_bidet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:23:59.186534+00:00
 -- url     : https://prove2.me/theorems/02041df4-bab2-4476-a9c6-d3638f3b50ef

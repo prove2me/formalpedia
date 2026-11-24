@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_claim26_shift_avd_prime
 -- name    : MulticlassDS.Compress.claim26_shift_avd_prime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:39:29.309134+00:00
 -- url     : https://prove2.me/theorems/5a943c11-c199-4f2d-b0fb-2d0ba42c304a

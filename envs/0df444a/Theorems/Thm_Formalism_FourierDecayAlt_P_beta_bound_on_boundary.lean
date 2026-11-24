@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_beta_bound_on_boundary
 -- name    : Formalism.FourierDecayAlt.P.beta_bound_on_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:36.525141+00:00
 -- url     : https://prove2.me/theorems/2a00243f-d266-4ec4-b32e-0bb2c7f2774f

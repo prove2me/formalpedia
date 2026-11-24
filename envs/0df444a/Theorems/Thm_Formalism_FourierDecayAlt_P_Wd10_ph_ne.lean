@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd10_ph_ne
 -- name    : Formalism.FourierDecayAlt.P.Wd10.ph_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:44:50.278845+00:00
 -- url     : https://prove2.me/theorems/1d501961-c94b-4cad-85b5-776e1345df21

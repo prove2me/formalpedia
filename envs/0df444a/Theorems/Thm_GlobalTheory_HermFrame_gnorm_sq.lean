@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_gnorm_sq
 -- name    : GlobalTheory.HermFrame.gnorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:02:05.723261+00:00
 -- url     : https://prove2.me/theorems/c8e012c6-d17a-4ec7-970c-7bd73949752f

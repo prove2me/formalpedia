@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_gnorm_parallelogram
 -- name    : GlobalTheory.HermFrame.gnorm_parallelogram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:28.057807+00:00
 -- url     : https://prove2.me/theorems/c6eaa758-ca54-4071-95f7-7bfab01615c3

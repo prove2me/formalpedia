@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_levyItoDecompositionCorrected
 -- name    : Kyprianou.levyItoDecompositionCorrected
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:20:53.41069+00:00
 -- url     : https://prove2.me/theorems/dfab66e8-5088-4564-be62-ec693d4033f7

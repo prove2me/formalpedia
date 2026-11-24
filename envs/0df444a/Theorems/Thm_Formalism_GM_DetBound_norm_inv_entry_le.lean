@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DetBound_norm_inv_entry_le
 -- name    : Formalism.GM.DetBound.norm_inv_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:15.590027+00:00
 -- url     : https://prove2.me/theorems/9d129ad9-da39-465f-82e9-71a756d01824

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_fockK_tieE_pow
 -- name    : Formalism.GM.ProjS.fockK_tieE_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:35:43.954829+00:00
 -- url     : https://prove2.me/theorems/3eaf6e5d-5321-4cc0-9df4-ba3fa518b7ac

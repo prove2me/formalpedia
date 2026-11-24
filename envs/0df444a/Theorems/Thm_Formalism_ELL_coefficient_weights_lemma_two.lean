@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_coefficient_weights_lemma_two
 -- name    : Formalism.ELL.coefficient_weights_lemma_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:22:32.661226+00:00
 -- url     : https://prove2.me/theorems/06d062b6-b3e2-4700-9e8e-3ce1d121e07e

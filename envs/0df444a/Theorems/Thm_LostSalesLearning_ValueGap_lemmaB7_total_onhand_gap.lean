@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesLearning_ValueGap_lemmaB7_total_onhand_gap
 -- name    : LostSalesLearning.ValueGap.lemmaB7_total_onhand_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:18:39.413186+00:00
 -- url     : https://prove2.me/theorems/7f6606fd-f69a-4c73-a7b6-20a6908e3043

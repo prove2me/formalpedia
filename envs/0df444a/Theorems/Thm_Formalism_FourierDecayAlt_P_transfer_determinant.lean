@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_transfer_determinant
 -- name    : Formalism.FourierDecayAlt.P.transfer_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:31.389062+00:00
 -- url     : https://prove2.me/theorems/eeb33dfa-c319-45e8-a860-9a7221a05be2

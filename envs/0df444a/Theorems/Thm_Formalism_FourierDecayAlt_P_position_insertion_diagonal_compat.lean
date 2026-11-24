@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_position_insertion_diagonal_compat
 -- name    : Formalism.FourierDecayAlt.P.position_insertion_diagonal_compat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:38:01.394979+00:00
 -- url     : https://prove2.me/theorems/62075f2a-ec0e-44e3-8330-168726807345

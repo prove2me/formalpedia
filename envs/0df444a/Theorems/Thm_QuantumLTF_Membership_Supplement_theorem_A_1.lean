@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_Supplement_theorem_A_1
 -- name    : QuantumLTF.Membership.Supplement.theorem_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T10:51:02.135208+00:00
 -- url     : https://prove2.me/theorems/5935984f-6a36-4401-9199-c7a30f30fecc

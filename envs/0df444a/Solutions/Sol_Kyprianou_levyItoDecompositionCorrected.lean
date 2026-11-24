@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.levyItoDecompositionCorrected
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T20:38:42.866261+00:00
 -- url     : https://prove2.me/submissions/c8f6879a-6eb1-481c-a034-076b724c0789
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ProbabilityTheory_IsLevyMeasure_sigmaFinite
 import Theorems.Thm_Kyprianou_Ch02_sourceFaithfulLevyItoComponentsCoreV1

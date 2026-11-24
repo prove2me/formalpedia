@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WirtingerIntegrationByParts_Bd_smul
 -- name    : Formalism.FourierDecayAlt.P.WirtingerIntegrationByParts.Bd.smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:41:39.73841+00:00
 -- url     : https://prove2.me/theorems/b98dc371-2ccd-4a51-a79b-d4087b11e0b2

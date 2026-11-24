@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for GrothendieckConstant.grothendieckConst_bounds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:39:03.490844+00:00
 -- url     : https://prove2.me/submissions/af8ce1f4-adfc-42f5-aaf5-3b076f3bf52c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_cq_fifth_euler_circle_mean
 import Theorems.Thm_GrothendieckConstant_affine_constraint_transfer

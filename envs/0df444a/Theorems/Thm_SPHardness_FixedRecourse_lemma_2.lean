@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_FixedRecourse_lemma_2
 -- name    : SPHardness.FixedRecourse.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:08:48.178533+00:00
 -- url     : https://prove2.me/theorems/8a601dc9-1bc7-4739-81f2-43ed556e7fc5

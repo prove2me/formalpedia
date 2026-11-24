@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_F_pow_E_pow
 -- name    : Formalism.GM.F_pow_E_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:01:56.282814+00:00
 -- url     : https://prove2.me/theorems/df7ccf79-34f5-49d5-83be-3e1d5d7a6760

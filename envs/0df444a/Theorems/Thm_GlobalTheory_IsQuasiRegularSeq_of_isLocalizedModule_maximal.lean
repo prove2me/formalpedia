@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_of_isLocalizedModule_maximal
 -- name    : GlobalTheory.IsQuasiRegularSeq.of_isLocalizedModule_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:50.12439+00:00
 -- url     : https://prove2.me/theorems/b5676a27-993b-4b57-8dcd-aac99e293fe8

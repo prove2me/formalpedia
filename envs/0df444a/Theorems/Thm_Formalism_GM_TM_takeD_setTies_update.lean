@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_TM_takeD_setTies_update
 -- name    : Formalism.GM.TM.takeD_setTies_update
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:32.868285+00:00
 -- url     : https://prove2.me/theorems/409c03c1-1373-49d1-86c9-00ce1c35fa17

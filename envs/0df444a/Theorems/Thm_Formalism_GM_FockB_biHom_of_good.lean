@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_biHom_of_good
 -- name    : Formalism.GM.FockB.biHom_of_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:17.444049+00:00
 -- url     : https://prove2.me/theorems/209580a3-2604-477b-8e95-d5b94f027ee7

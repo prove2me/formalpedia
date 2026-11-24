@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_JSConstants_twin_prime_tail_multipliable
 -- name    : LL_JSConstants.twin_prime_tail_multipliable
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-23T17:42:41.595867+00:00
 -- url     : https://prove2.me/theorems/238c4096-94cd-4594-9eb3-52b93df8248a

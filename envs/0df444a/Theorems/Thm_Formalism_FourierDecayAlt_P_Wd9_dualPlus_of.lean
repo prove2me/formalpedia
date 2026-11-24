@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd9_dualPlus_of
 -- name    : Formalism.FourierDecayAlt.P.Wd9.dualPlus_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:47:22.897406+00:00
 -- url     : https://prove2.me/theorems/d3e95e1a-41e5-4ce1-8430-fb63927bbbdf

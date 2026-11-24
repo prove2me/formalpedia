@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_LatticeLink
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T22:09:02.686801+00:00
+-- url     : https://prove2.me/submissions/7fcd8daa-af17-49e4-a317-cb018076932d
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementPB
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_JointInstanceTheoremA
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PullLatticeTypedUnit
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PeriodLatticeFactsSplitOfGeneral
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalisationScaledIdealMemIff
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TwistedIsRealOrderLattice
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_GrowthOfBasic
+import Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_PullLatticeOrdinary
+import Theorems.Thm_Formalism_FourierDecayAlt_P_intersection_of_local
+import Theorems.Thm_Formalism_FourierDecayAlt_P_lattice_of_local
+import Theorems.Thm_Formalism_FourierDecayAlt_P_pull_lattice_typed
+import Theorems.Thm_Formalism_FourierDecayAlt_P_pull_lattice_typed_unit
+import Theorems.Thm_Formalism_FourierDecayAlt_P_pull_lift_typed
+import Theorems.Thm_Formalism_FourierDecayAlt_P_pull_lift_typed_unit
+import Theorems.Thm_Formalism_FourierDecayAlt_P_twistedIsRealOrderLattice
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.GrowthPolynomialOperator
+open NumberField Formalism.FourierDecayAlt Formalism.FourierDecayAlt.PB
+namespace Formalism.FourierDecayAlt.P.GrowthPolynomialOperator
+theorem _root_.solution : LatticeLink :=
+  ⟨Formalism.FourierDecayAlt.P.intersection_of_local, Formalism.FourierDecayAlt.P.lattice_of_local,
+    Formalism.FourierDecayAlt.P.twistedIsRealOrderLattice, Formalism.FourierDecayAlt.P.pull_lattice_typed,
+    Formalism.FourierDecayAlt.P.pull_lattice_typed_unit, Formalism.FourierDecayAlt.P.pull_lift_typed,
+    Formalism.FourierDecayAlt.P.pull_lift_typed_unit, t_PullLatticeOrdinary⟩
+end Formalism.FourierDecayAlt.P.GrowthPolynomialOperator

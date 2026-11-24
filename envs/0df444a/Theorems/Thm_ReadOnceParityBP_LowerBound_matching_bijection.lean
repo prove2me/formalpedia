@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReadOnceParityBP_LowerBound_matching_bijection
 -- name    : ReadOnceParityBP.LowerBound.matching_bijection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T15:27:42.927522+00:00
 -- url     : https://prove2.me/theorems/812843a9-7fcb-4720-9eb4-ef0710a7b2e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_isRegular_of_theta_lt
 -- name    : DeletedPrimes.isRegular_of_theta_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:47:39.058723+00:00
 -- url     : https://prove2.me/theorems/7fb3533b-40cf-4ae0-949e-9223dcc43aaf

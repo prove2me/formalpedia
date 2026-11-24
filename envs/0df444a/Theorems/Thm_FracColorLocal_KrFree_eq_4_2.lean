@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracColorLocal_KrFree_eq_4_2
 -- name    : FracColorLocal.KrFree.eq_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T07:13:32.510205+00:00
 -- url     : https://prove2.me/theorems/007f53c9-e518-4450-83d8-efa3911e3caa

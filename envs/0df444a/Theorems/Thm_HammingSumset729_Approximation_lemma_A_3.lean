@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HammingSumset729_Approximation_lemma_A_3
 -- name    : HammingSumset729.Approximation.lemma_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:41:48.772874+00:00
 -- url     : https://prove2.me/theorems/030158fd-43eb-4313-8bfd-627313179f6b

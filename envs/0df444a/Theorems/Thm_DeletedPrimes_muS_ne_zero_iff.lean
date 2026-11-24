@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_muS_ne_zero_iff
 -- name    : DeletedPrimes.muS_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:03.17265+00:00
 -- url     : https://prove2.me/theorems/7bdde12f-6cba-4491-b291-54019e158bcc

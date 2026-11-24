@@ -1,0 +1,54 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplCons_full_24422ee7b88d
+-- name    : P2M_GroundTheory_Heights__Heights_SymplCons_full_24422ee7b88d
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T00:30:24.386797+00:00
+-- url     : https://prove2.me/theorems/fca6594e-b4f9-4e1f-944d-609f77d0541a
+-- title:
+--   P2 M Ground Theory Heights  Heights Sympl Cons full 24422ee7b88d: P2 M Ground Theory Heights  Heights Sympl Cons full 24422ee7b88d
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Sympl Cons full 24422ee7b88d construction uses the P2 M Ground Theory Heights  Heights Sympl Cons full 24422ee7b88d property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/HeightKernels/AssemblySympl.lean#L32-L33
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/HeightKernels/AssemblySympl.lean#L32-L33
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplTop
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplOmegaMem
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplCons
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplExtMem
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplExtVecMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplTwoRow
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplGcd
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplOrbit
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplQuadDiag
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplBoxVolume
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplMinkowskiBox
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplMinExists
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplMinBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplShortPrim
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplGramMem
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplFirstRow
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReduceMem
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReducePosDef
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReduceConj
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplDetSchur
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReduceStep
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplStep
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplDetBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_AssemblySympl
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+
+theorem P2M_GroundTheory_Heights__Heights_SymplCons_full_24422ee7b88d : SymplCons.Statement := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«SymplCons».«full» := P2M_GroundTheory_Heights__Heights_SymplCons_full_24422ee7b88d

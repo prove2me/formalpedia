@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_E_P_bound
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.E_P_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:30:06.313767+00:00
 -- url     : https://prove2.me/theorems/18f41201-54d5-4903-9b56-25a8c6df0b84

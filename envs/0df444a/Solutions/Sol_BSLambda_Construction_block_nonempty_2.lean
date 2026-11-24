@@ -1,0 +1,22 @@
+-- Prove2me | solution 2 for BSLambda.Construction.block_nonempty
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-24T00:52:37.962839+00:00
+-- url     : https://prove2.me/submissions/da114344-fc4c-4ebb-8f73-82f01f2f0fec
+
+module
+public import Definitions.Def_LeanPool_BlockSpectralSensitivity_Defs_Sensitivity
+public import Definitions.Def_LeanPool_BlockSpectralSensitivity_Defs_Subcube
+public import Definitions.Def_LeanPool_BlockSpectralSensitivity_Defs_Tournament
+public import Definitions.Def_LeanPool_BlockSpectralSensitivity_Construction_Basic
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open BSLambda
+open BSLambda.Construction
+variable {ι : Type*} {r : ℕ}
+namespace BSLambda.Construction
+theorem _root_.solution [NeZero r] (i : ι) : (block i : Finset (Coord ι r)).Nonempty :=
+  (Finset.singleton_nonempty i).product Finset.univ_nonempty
+end BSLambda.Construction

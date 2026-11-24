@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Discr_finrank_two
 -- name    : Formalism.FrobeniusOrbits.Discr.finrank_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:07:59.82503+00:00
 -- url     : https://prove2.me/theorems/7233325b-706b-44f1-abd0-fb622e95f78a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_isRegular_one
 -- name    : DeletedPrimes.isRegular_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:46:46.899799+00:00
 -- url     : https://prove2.me/theorems/bbc03501-aacc-4ac0-a914-412b69da3c3d

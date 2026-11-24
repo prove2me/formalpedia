@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FrozenVariableComponents_comb_parts
 -- name    : Formalism.GM.FrozenVariableComponents.comb_parts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:28.749113+00:00
 -- url     : https://prove2.me/theorems/99e9fe6e-90dd-4a32-ab40-18570da5c04e

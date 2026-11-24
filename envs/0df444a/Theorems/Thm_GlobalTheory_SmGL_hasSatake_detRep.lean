@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_hasSatake_detRep
 -- name    : GlobalTheory.SmGL.hasSatake_detRep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:37:04.399452+00:00
 -- url     : https://prove2.me/theorems/41d22fca-dcf8-456f-af9b-c4eae14ed849

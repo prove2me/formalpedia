@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_claim22_shift_proj_card
 -- name    : MulticlassDS.Compress.claim22_shift_proj_card
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:39:14.00063+00:00
 -- url     : https://prove2.me/theorems/91a2f599-cb16-409e-8324-eb3e2d0dd6bd

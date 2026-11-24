@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.WirtingerIntegrationByParts.gen_Bd_nonneg
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T21:53:10.910664+00:00
+-- url     : https://prove2.me/submissions/9a81c453-c3a0-441b-80a1-904877e14df3
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementG
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WirtingerIntegrationByParts
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.WirtingerIntegrationByParts
+open Formalism.FourierDecayAlt.G MeasureTheory
+variable {E : Type*} [NormedAddCommGroup E] [NormedSpace ℝ E]
+namespace Formalism.FourierDecayAlt.P.WirtingerIntegrationByParts
+theorem _root_.solution {W : Type*} [NormedAddCommGroup W] [NormedSpace ℝ W] {f : E → W} {s : Set E} {x : E} {n : ℕ}
+    {A P : ℝ} (bf : Bd f s x n A P) : 0 ≤ A := by
+  have h := bf 0 (Nat.zero_le n)
+  rw [pow_zero, mul_one] at h
+  exact (norm_nonneg _).trans h
+end Formalism.FourierDecayAlt.P.WirtingerIntegrationByParts

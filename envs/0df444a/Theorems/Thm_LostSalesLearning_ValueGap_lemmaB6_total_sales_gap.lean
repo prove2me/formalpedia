@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesLearning_ValueGap_lemmaB6_total_sales_gap
 -- name    : LostSalesLearning.ValueGap.lemmaB6_total_sales_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:18:23.864315+00:00
 -- url     : https://prove2.me/theorems/2255aa0f-feed-45ac-bc05-5eb25f7df49e

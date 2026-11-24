@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TopsWeightFunctionBounds_Lst_nodup
 -- name    : Formalism.G0.TopsWeightFunctionBounds.Lst_nodup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:41:18.694695+00:00
 -- url     : https://prove2.me/theorems/a99afbd0-df5e-4668-ad71-81bc7e5233b2

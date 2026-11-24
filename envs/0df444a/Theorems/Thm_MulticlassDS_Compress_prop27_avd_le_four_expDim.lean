@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_prop27_avd_le_four_expDim
 -- name    : MulticlassDS.Compress.prop27_avd_le_four_expDim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:39:45.762979+00:00
 -- url     : https://prove2.me/theorems/9a9031c8-661e-469a-adc6-6606a951b598

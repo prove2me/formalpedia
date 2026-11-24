@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordMonicExtraction_word_gen
 -- name    : Formalism.FourierDecayAlt.P.WordMonicExtraction.word_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:37.937868+00:00
 -- url     : https://prove2.me/theorems/e13bdc6d-7d90-416a-a5a8-8a30c5e4c416

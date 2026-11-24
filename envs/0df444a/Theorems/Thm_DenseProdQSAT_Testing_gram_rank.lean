@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DenseProdQSAT_Testing_gram_rank
 -- name    : DenseProdQSAT.Testing.gram_rank
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:50:57.867505+00:00
 -- url     : https://prove2.me/theorems/fa5980c9-c449-4164-b725-27b36782f2c2

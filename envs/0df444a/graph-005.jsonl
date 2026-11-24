@@ -2205,8 +2205,8 @@
 {"parent": "revenue_random_measurable", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "revenue_random_measurable", "child": "revenue_joint_measurable", "via": ["solution", "statement"]}
 {"parent": "revenue_update_of_gt", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
-{"parent": "revenue_update_succ_eq", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "revenue_update_succ_eq", "child": "revenue_update_of_gt", "via": ["statement"]}
+{"parent": "revenue_update_succ_eq", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "revenue_update_succ_eq", "child": "revenue_update_of_gt", "via": ["solution", "statement"]}
 {"parent": "riemannHypothesis_iff_zeros_in_strip_on_line", "child": "Kawahira.nontrivial_zero_mem_strip", "via": ["solution"]}
 {"parent": "riemannZeta0_apply", "child": "EulerMaclaurin_defs", "via": ["solution", "statement"]}
 {"parent": "riemannZeta0_apply", "child": "Fourier_defs", "via": ["solution", "statement"]}

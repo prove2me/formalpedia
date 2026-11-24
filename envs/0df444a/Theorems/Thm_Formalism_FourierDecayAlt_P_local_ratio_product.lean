@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_local_ratio_product
 -- name    : Formalism.FourierDecayAlt.P.local_ratio_product
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:08.811356+00:00
 -- url     : https://prove2.me/theorems/13a36240-ef91-4fbc-a5b5-1b9c232799af

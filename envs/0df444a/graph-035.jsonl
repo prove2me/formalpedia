@@ -289,8 +289,8 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_849", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_849", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch10.Draft.result_10_2", "child": "Kyprianou_Ch10_DraftSourceBundle", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier_BV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier_BV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier_BV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier_BV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.stableAlphaBelowOnePositiveCompensatedKernelValue", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc_Poisson_JumpTimesEnum_F002", "child": "LevyStochCalc_Poisson_JumpTimes_F001", "via": ["statement"]}
 {"parent": "LevyStochCalc_Poisson_JumpTimesEnum_F002", "child": "SourceProof_935684fe1e6aea9a3a83dadb", "via": ["statement"]}
@@ -18499,8 +18499,8 @@
 {"parent": "BrownianMotion_StochasticIntegral_Quasimartingale_CadlagModification_F001", "child": "BrownianMotion_StochasticIntegral_Predictable_F000", "via": ["statement"]}
 {"parent": "BrownianMotion_StochasticIntegral_Quasimartingale_CadlagModification_F001", "child": "BrownianMotion_StochasticIntegral_Quasimartingale_MaximalInequality_F003", "via": ["statement"]}
 {"parent": "BrownianMotion_StochasticIntegral_Quasimartingale_CadlagModification_F001", "child": "BrownianMotion_Continuity_LimitModification_F002", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier_BV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier_BV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier_BV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier_BV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "RH1E6S00.part_001_3", "child": "ArdaRH65K_RS_Mellin", "via": ["statement"]}
 {"parent": "RH1E6S00.part_001_3", "child": "ArdaRH65K_DlvpTheta", "via": ["statement"]}
 {"parent": "RH1E6S00.part_001_3", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
@@ -92883,19 +92883,19 @@
 {"parent": "RH1E6S05.part_085_3", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S05.part_085_3", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05.part_085_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_grid", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_tableSp", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_ind", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_Params", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_alpha", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_candidateMatrixQ", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_integralMatrix", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_sigma", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_Xi2", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_tableKernel", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_tableParams", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_sigma0", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_Xi1", "via": ["statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_grid", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_tableSp", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_ind", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_Params", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_alpha", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_candidateMatrixQ", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_integralMatrix", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_sigma", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_Xi2", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_tableKernel", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_tableParams", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_sigma0", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_2", "child": "LL_Burst9MatrixR1_Xi1", "via": ["solution", "statement"]}
 {"parent": "RiemannMasullo.diagonal_mem_adeleFundamentalDomain", "child": "RiemannMasullo_AdeleFundamentalDomain", "via": ["solution", "statement"]}
 {"parent": "RH1E6S03_D043_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S08.part_029_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
@@ -93614,12 +93614,12 @@
 {"parent": "RH1E6S05.part_063_3", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S05.part_063_3", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05.part_063_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_buchstabIntegral", "via": ["statement"]}
-{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_IsBuchstab", "via": ["statement"]}
-{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_domain", "via": ["statement"]}
-{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_ZeroBelowOne", "via": ["statement"]}
-{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_r0j13_hi", "via": ["statement"]}
-{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_r0j13_lo", "via": ["statement"]}
+{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_buchstabIntegral", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_IsBuchstab", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_domain", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_ZeroBelowOne", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_r0j13_hi", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp587k.r0j13_short", "child": "LL_Decomp587k_r0j13_lo", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06_D026_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S05.part_021_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S05.part_021_2", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
@@ -96307,19 +96307,19 @@
 {"parent": "RH1E6S06.part_006_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "InfoLossLAR.WorstCase.RegevSearch.residual_variance_grid_gaussian_tv", "child": "InfoLossLAR_NativeSparsePrefix_01", "via": ["solution", "statement"]}
 {"parent": "RH1E6S07_D001_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_grid", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_tableSp", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_ind", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_Params", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_alpha", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_candidateMatrixQ", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_integralMatrix", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_sigma", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_Xi2", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_tableKernel", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_tableParams", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_sigma0", "via": ["statement"]}
-{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_Xi1", "via": ["statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_grid", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_tableSp", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_ind", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_Params", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_alpha", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_candidateMatrixQ", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_integralMatrix", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_sigma", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_Xi2", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_tableKernel", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_tableParams", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_sigma0", "via": ["solution", "statement"]}
+{"parent": "LL_Burst9MatrixR1.entry_0_4", "child": "LL_Burst9MatrixR1_Xi1", "via": ["solution", "statement"]}
 {"parent": "RH1E6S03.part_079_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S03.part_079_2", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S03.part_079_2", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -96839,8 +96839,8 @@
 {"parent": "RH1E6S08.part_007_2", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S08.part_007_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S08.part_007_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "FractionalCalc.laplace_rlIntegral", "child": "QueueingFundamentals_Transient_laplace", "via": ["statement"]}
-{"parent": "FractionalCalc.laplace_rlIntegral", "child": "FractionalCalc_rlIntegral", "via": ["statement"]}
+{"parent": "FractionalCalc.laplace_rlIntegral", "child": "QueueingFundamentals_Transient_laplace", "via": ["solution", "statement"]}
+{"parent": "FractionalCalc.laplace_rlIntegral", "child": "FractionalCalc_rlIntegral", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06_D075_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S03_D078_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S03_D031_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}

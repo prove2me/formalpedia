@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TopsChoiceProbabilityLemmas_partC
 -- name    : Formalism.G0.TopsChoiceProbabilityLemmas.partC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:41:41.808473+00:00
 -- url     : https://prove2.me/theorems/b36a6ff4-d741-4f96-aa67-e1516a75679f

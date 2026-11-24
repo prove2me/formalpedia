@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m88_halfline_occupation_qzero_set_identity
 -- name    : Kyprianou.Ch08.StageB.p2m88_halfline_occupation_qzero_set_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:13:56.267805+00:00
 -- url     : https://prove2.me/theorems/6d66e5ad-8f8b-4831-bbfe-d4f59953b634

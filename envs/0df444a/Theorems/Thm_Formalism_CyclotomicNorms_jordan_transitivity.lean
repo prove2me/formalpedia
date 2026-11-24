@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_jordan_transitivity
 -- name    : Formalism.CyclotomicNorms.jordan_transitivity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:56:28.869325+00:00
 -- url     : https://prove2.me/theorems/7b8dece7-8c08-4a00-968f-59e4d31def8f

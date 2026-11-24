@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_theta2_set_one_mem
 -- name    : DeletedPrimes.theta2_set_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:47:29.855942+00:00
 -- url     : https://prove2.me/theorems/461c48b1-b2fe-4cc1-9692-3dd6ebd3cde7

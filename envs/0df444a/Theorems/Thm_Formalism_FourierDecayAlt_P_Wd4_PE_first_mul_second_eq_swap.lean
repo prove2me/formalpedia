@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd4_PE_first_mul_second_eq_swap
 -- name    : Formalism.FourierDecayAlt.P.Wd4.PE_first_mul_second_eq_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:45:01.847437+00:00
 -- url     : https://prove2.me/theorems/6fc944d0-35c5-4d9b-8c30-720e0113cd50

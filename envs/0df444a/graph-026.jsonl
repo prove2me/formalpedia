@@ -55422,7 +55422,7 @@
 {"parent": "MultiCollQ.theorem_3_4", "child": "MultiCollQ_levelCount", "via": ["statement"]}
 {"parent": "MultiCollQ.theorem_3_4", "child": "CompPermOracle_opTensor", "via": ["statement"]}
 {"parent": "MultiCollQ.theorem_3_4", "child": "CompPermOracle_cpO", "via": ["statement"]}
-{"parent": "AssadiSemiStreaming.Greedy.claim_5_2", "child": "AssadiSemiStreaming_Greedy_WalkLaws", "via": ["statement"]}
+{"parent": "AssadiSemiStreaming.Greedy.claim_5_2", "child": "AssadiSemiStreaming_Greedy_WalkLaws", "via": ["solution", "statement"]}
 {"parent": "SunGroupIso_Class2_Restriction", "child": "SunGroupIso_Class2_Basic", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U28.entry2_0_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26TwoSectorBadProjector.product_XZ", "child": "QEC_Coding_CSS_GibbsSyndrome_Selection", "via": ["solution", "statement"]}
@@ -55759,7 +55759,7 @@
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.longest_side_altitude_lower", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbeddingCoordinates", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.longest_side_altitude_lower", "child": "QEC_Coding_FiniteAlternatingConstruction_QuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.longest_side_altitude_lower", "child": "QEC_Coding_FiniteAlternatingConstruction_BoundedValenceSuccessors", "via": ["solution", "statement"]}
-{"parent": "GEPPGrowth.Main.lemma_4_2", "child": "GEPPGrowth_Main_Process", "via": ["statement"]}
+{"parent": "GEPPGrowth.Main.lemma_4_2", "child": "GEPPGrowth_Main_Process", "via": ["solution", "statement"]}
 {"parent": "EvasivePatterns.lemma_a_1", "child": "EvasivePatterns_distMultiset", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26LevelTwoDistance.levelTwo_pureZMinimum", "child": "QEC_Coding_FiniteAlternatingConstruction_AlternatingCochain", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26LevelTwoDistance.levelTwo_pureZMinimum", "child": "QEC_Coding_FiniteAlternatingConstruction_RXSeedSmallSupport", "via": ["solution", "statement"]}

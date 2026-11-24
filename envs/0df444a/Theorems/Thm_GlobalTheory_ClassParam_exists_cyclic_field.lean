@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_exists_cyclic_field
 -- name    : GlobalTheory.ClassParam.exists_cyclic_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:36:50.840752+00:00
 -- url     : https://prove2.me/theorems/b8a9f297-8dcd-4da0-8391-b764b785cfb2

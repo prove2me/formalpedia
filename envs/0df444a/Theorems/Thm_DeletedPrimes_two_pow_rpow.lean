@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_two_pow_rpow
 -- name    : DeletedPrimes.two_pow_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:49:13.243804+00:00
 -- url     : https://prove2.me/theorems/0c6bf045-8773-46ac-8dad-e9eb339bf377

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_fk_map
 -- name    : Formalism.GM.leadingTermLemmas.fk_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:29.420427+00:00
 -- url     : https://prove2.me/theorems/797074d0-a383-4522-8b7f-e9bf5d0a3ccc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RSBDDHard_identity_3
 -- name    : RSBDDHard.identity_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:38:42.92078+00:00
 -- url     : https://prove2.me/theorems/e7ffccf8-66b4-4973-af34-48b619c1341d

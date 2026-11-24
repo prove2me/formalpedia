@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TopsWeightFunctionBounds_Phi_init
 -- name    : Formalism.G0.TopsWeightFunctionBounds.Phi_init
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:41:28.53132+00:00
 -- url     : https://prove2.me/theorems/86b8cc06-2a5f-4159-9b5b-734fbd2460fe

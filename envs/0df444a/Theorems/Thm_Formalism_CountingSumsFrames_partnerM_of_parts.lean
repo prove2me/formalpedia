@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_partnerM_of_parts
 -- name    : Formalism.CountingSumsFrames.partnerM_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:50:45.789109+00:00
 -- url     : https://prove2.me/theorems/3736b499-e681-4286-8f88-0ad3d81c1750

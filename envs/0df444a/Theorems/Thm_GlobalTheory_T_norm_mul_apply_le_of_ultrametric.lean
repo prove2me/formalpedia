@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_mul_apply_le_of_ultrametric
 -- name    : GlobalTheory.T.norm_mul_apply_le_of_ultrametric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:37:12.041259+00:00
 -- url     : https://prove2.me/theorems/64f5c2e8-b4c9-4d51-a316-b92a09919ea1

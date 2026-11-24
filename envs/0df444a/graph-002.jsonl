@@ -30937,7 +30937,7 @@
 {"parent": "GivenDegreeSeq.GraphLimit.theorem_1_1", "child": "GivenDegreeSeq_Interior_DPrime", "via": ["statement"]}
 {"parent": "GivenDegreeSeq.GraphLimit.theorem_1_1", "child": "GivenDegreeSeq_Interior_IsGraphic", "via": ["statement"]}
 {"parent": "GivenDegreeSeq.GraphLimit.theorem_1_1", "child": "GivenDegreeSeq_Interior_ScalingLimit", "via": ["statement"]}
-{"parent": "GivenDegreeSeq.Interior.erdos_gallai", "child": "GivenDegreeSeq_Interior_IsGraphic", "via": ["statement"]}
+{"parent": "GivenDegreeSeq.Interior.erdos_gallai", "child": "GivenDegreeSeq_Interior_IsGraphic", "via": ["solution", "statement"]}
 {"parent": "GivenDegreeSeq.Interior.gf_continuousOn", "child": "GivenDegreeSeq_Interior_DPrime", "via": ["solution", "statement"]}
 {"parent": "GivenDegreeSeq.Interior.gf_nonneg_of_mem_F", "child": "GivenDegreeSeq_Interior_ScalingLimit", "via": ["solution", "statement"]}
 {"parent": "GivenDegreeSeq.Interior.gf_sub_le_norm1", "child": "GivenDegreeSeq_Interior_DPrime", "via": ["solution", "statement"]}
@@ -72180,10 +72180,10 @@
 {"parent": "LemkeLCP.Existence.theorem_2", "child": "LemkeLCP_Existence_Setting", "via": ["statement"]}
 {"parent": "LemkeLCP.Existence.theorem_4", "child": "LemkeLCP_Existence_Setting", "via": ["solution", "statement"]}
 {"parent": "LemkeLCP.Existence.theorem_4_ray_step", "child": "LemkeLCP_Existence_Setting", "via": ["solution", "statement"]}
-{"parent": "LenstraIP.Hyperplanes.exists_lattice_point_le_of_max", "child": "KannanLattice_Core_Lattice", "via": ["statement"]}
-{"parent": "LenstraIP.Hyperplanes.exists_lattice_point_le_of_max", "child": "LenstraIP_Hyperplanes_LatticeData", "via": ["statement"]}
-{"parent": "LenstraIP.Hyperplanes.exists_lattice_point_sq_le", "child": "KannanLattice_Core_Lattice", "via": ["statement"]}
-{"parent": "LenstraIP.Hyperplanes.exists_lattice_point_sq_le", "child": "LenstraIP_Hyperplanes_LatticeData", "via": ["statement"]}
+{"parent": "LenstraIP.Hyperplanes.exists_lattice_point_le_of_max", "child": "KannanLattice_Core_Lattice", "via": ["solution", "statement"]}
+{"parent": "LenstraIP.Hyperplanes.exists_lattice_point_le_of_max", "child": "LenstraIP_Hyperplanes_LatticeData", "via": ["solution", "statement"]}
+{"parent": "LenstraIP.Hyperplanes.exists_lattice_point_sq_le", "child": "KannanLattice_Core_Lattice", "via": ["solution", "statement"]}
+{"parent": "LenstraIP.Hyperplanes.exists_lattice_point_sq_le", "child": "LenstraIP_Hyperplanes_LatticeData", "via": ["solution", "statement"]}
 {"parent": "LenstraIP.Hyperplanes.few_hyperplanes_meet_ball", "child": "KannanLattice_Core_Lattice", "via": ["solution", "statement"]}
 {"parent": "LenstraIP.Hyperplanes.few_hyperplanes_meet_ball", "child": "LenstraIP_Hyperplanes_LatticeData", "via": ["solution", "statement"]}
 {"parent": "LenstraIP.Hyperplanes.hgt_bounds", "child": "KannanLattice_Core_Lattice", "via": ["statement"]}
@@ -80890,8 +80890,8 @@
 {"parent": "LostSalesLearning.ValueGap.lemmaB2_early_sales_gap", "child": "LostSalesLearning_ValueGap_Setting", "via": ["statement"]}
 {"parent": "LostSalesLearning.ValueGap.lemmaB3_coalescence", "child": "LostSalesLearning_ValueGap_Setting", "via": ["statement"]}
 {"parent": "LostSalesLearning.ValueGap.lemmaB5_domination_alternates", "child": "LostSalesLearning_ValueGap_Setting", "via": ["statement"]}
-{"parent": "LostSalesLearning.ValueGap.lemmaB6_total_sales_gap", "child": "LostSalesLearning_ValueGap_Setting", "via": ["statement"]}
-{"parent": "LostSalesLearning.ValueGap.lemmaB7_total_onhand_gap", "child": "LostSalesLearning_ValueGap_Setting", "via": ["statement"]}
+{"parent": "LostSalesLearning.ValueGap.lemmaB6_total_sales_gap", "child": "LostSalesLearning_ValueGap_Setting", "via": ["solution", "statement"]}
+{"parent": "LostSalesLearning.ValueGap.lemmaB7_total_onhand_gap", "child": "LostSalesLearning_ValueGap_Setting", "via": ["solution", "statement"]}
 {"parent": "LostSalesLearning.ValueGap.value_gap_to_fullState", "child": "LostSalesLearning_ValueGap_Setting", "via": ["statement"]}
 {"parent": "LostSalesOldNew.LeadTime.lead_time_monotone", "child": "LostSalesOldNew_LeadTime_Model", "via": ["solution", "statement"]}
 {"parent": "LostSalesOldNew.LeadTime.optimality_equation", "child": "LostSalesOldNew_LeadTime_Model", "via": ["solution", "statement"]}

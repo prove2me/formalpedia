@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldbasis_initMinor_rowHom
 -- name    : Formalism.GradedWeylDivisibility.ldbasis_initMinor_rowHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:30.075774+00:00
 -- url     : https://prove2.me/theorems/70c14ceb-0dc9-4168-b100-413c99f8507a

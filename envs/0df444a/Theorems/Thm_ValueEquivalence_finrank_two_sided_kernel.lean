@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueEquivalence_finrank_two_sided_kernel
 -- name    : ValueEquivalence.finrank_two_sided_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:51:51.152501+00:00
 -- url     : https://prove2.me/theorems/a993ecc4-3a57-4122-a0d4-34ef8244ce7a

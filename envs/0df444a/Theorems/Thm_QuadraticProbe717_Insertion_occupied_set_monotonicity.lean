@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadraticProbe717_Insertion_occupied_set_monotonicity
 -- name    : QuadraticProbe717.Insertion.occupied_set_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:21:04.515931+00:00
 -- url     : https://prove2.me/theorems/f5cb55fe-2928-4611-85eb-3972a693a04d

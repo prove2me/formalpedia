@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_countFree
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.countFree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:22.236714+00:00
 -- url     : https://prove2.me/theorems/213b415b-6390-4b94-8f9a-832758f3bddb

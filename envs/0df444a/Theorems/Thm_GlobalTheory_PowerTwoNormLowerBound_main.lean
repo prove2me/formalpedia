@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerTwoNormLowerBound_main
 -- name    : GlobalTheory.PowerTwoNormLowerBound.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:04:34.555355+00:00
 -- url     : https://prove2.me/theorems/6efc4616-ec50-4686-b18f-3600727c48f6

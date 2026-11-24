@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_expLogDeriv
 -- name    : Formalism.L2.Th1.B.expLogDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:23:02.831513+00:00
 -- url     : https://prove2.me/theorems/859521a6-6032-4698-8756-1f59e09988ab

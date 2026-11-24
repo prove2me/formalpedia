@@ -88415,8 +88415,8 @@
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_274", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
 {"parent": "QEC.Distillation.BK15.l2_dual_decomposition_unique", "child": "QEC_Distillation_FifteenQubitH_Code", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.BK15.l2_dual_decomposition_unique", "child": "QEC_Coding_Core_Definitions", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_strictBarrier", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_strictBarrier", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_strictBarrier", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_strictBarrier", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1428", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1428", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_405", "child": "OAIQ259US022", "via": ["solution", "statement"]}
@@ -89693,7 +89693,7 @@
 {"parent": "RH1E5.group_035", "child": "ArdaRS_Arithmetic", "via": ["statement"]}
 {"parent": "RH1E5.group_035", "child": "ArdaRS_Dyadic", "via": ["statement"]}
 {"parent": "RH1E5.group_035", "child": "ArdaRH65K_DlvpTheta", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.part_result8_10_i_v2", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.part_result8_10_i_v2", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["solution", "statement"]}
 {"parent": "NearlyOptimalPPR.Computation.recursive_doubling_volume", "child": "NearlyOptimalPPR_Computation_work_analysis", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.BK15.l2_weight_even", "child": "QEC_Distillation_FifteenQubitH_Code", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.BK15.l2_weight_even", "child": "QEC_Coding_Core_Definitions", "via": ["solution", "statement"]}
@@ -93762,7 +93762,6 @@
 {"parent": "LevyStochCalc_Poisson_ZeroIntensity_F000", "child": "LevyStochCalc_Poisson_RandomMeasure_F000", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_284", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_284", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.chapterEightMain_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_138", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_138", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
 {"parent": "QEC.Distillation.BK15.l1Words_disjoint_l1LogicalCosetWords", "child": "QEC_Distillation_FifteenQubitH_Code", "via": ["solution", "statement"]}
@@ -97506,8 +97505,8 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0384", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0936", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0936", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_strictBarrier", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_strictBarrier", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_strictBarrier", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_strictBarrier", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1293", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1293", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_591", "child": "OAIQ259US022", "via": ["solution", "statement"]}
@@ -97533,8 +97532,8 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_672", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "QECert_FifteenWeights_WeightChunk2", "child": "QECert_FifteenWeights_CoreWeights", "via": ["statement"]}
 {"parent": "SourceProof_7cf69e2d57fa4024ee430697", "child": "LevyStochCalc_Analysis_CadlagJumps_F000", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeP9_0419", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeP9_0419", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1229", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
@@ -98206,8 +98205,8 @@
 {"parent": "AvramDividend.Classical.avram_jump6_E_original_finiteactivity_ruinclipped_stop_F0_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1305", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1305", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsThetaEisensteinChi4Weight_scaled", "child": "QEC_Coding_ExpanderCodes_LPSThetaCuspLocalFactors", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsThetaEisensteinChi4Weight_scaled", "child": "QEC_Coding_ExpanderCodes_LPSThetaEisensteinCusps", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsThetaEisensteinChi4Weight_scaled", "child": "QEC_Coding_ExpanderCodes_LPSThetaEisensteinCorrection", "via": ["solution", "statement"]}
@@ -99434,7 +99433,7 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_1088", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_1088", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "AlgebraicGeometry.Scheme.finite_etale_roots_H2_of_isProper", "child": "AlgebraicGeometry_SmallEtaleUnits", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.part_result8_10_ii_v2", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.part_result8_10_ii_v2", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc.Poisson.ae_eq_top_superposition", "child": "LevyStochCalc_Poisson_PoissonSuperposition_F000", "via": ["solution", "statement"]}
 {"parent": "Lax109476Proofs.RamRecoverFeasibleSystem.recover_spec", "child": "EdgeSublinearMWIS_Main_NativeCertificateInterfaces", "via": ["statement"]}
 {"parent": "DecrAlmostLinearSSSP.Decremental.Certificates.core_laws_4", "child": "DecrAlmostLinearSSSP_CoreRAMFoundation", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricDepthHierarchy_ConstantDepth_Supplement_theorem_6_3
 -- name    : SymmetricDepthHierarchy.ConstantDepth.Supplement.theorem_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T11:08:01.797455+00:00
 -- url     : https://prove2.me/theorems/5e29999b-0a1e-437e-b897-b7a5e37cedda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_Lemma2Aux_log_rescale
 -- name    : Formalism.ELL.Lemma2Aux.log_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:18:20.515313+00:00
 -- url     : https://prove2.me/theorems/15ed9e58-d19e-461e-9212-799c6f840875

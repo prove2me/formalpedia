@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_injective_fderiv_proj_of_fastPlane_family
 -- name    : FiniteEnergyPlane.injective_fderiv_proj_of_fastPlane_family
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-22T19:27:16.583062+00:00
 -- url     : https://prove2.me/theorems/288852b6-64b0-4dd7-9398-dce7f1229176

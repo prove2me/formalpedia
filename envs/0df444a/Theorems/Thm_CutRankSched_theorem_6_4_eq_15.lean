@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CutRankSched_theorem_6_4_eq_15
 -- name    : CutRankSched.theorem_6_4_eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T13:35:55.243143+00:00
 -- url     : https://prove2.me/theorems/2e7dde89-8ce0-44f3-85dc-024fc2135ed7

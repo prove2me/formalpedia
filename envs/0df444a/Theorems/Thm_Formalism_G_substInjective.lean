@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G_substInjective
 -- name    : Formalism.G.substInjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:05:00.026809+00:00
 -- url     : https://prove2.me/theorems/4c3c692c-e3ed-4034-9131-b9175afe8a29

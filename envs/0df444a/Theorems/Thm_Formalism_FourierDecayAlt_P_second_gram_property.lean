@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_second_gram_property
 -- name    : Formalism.FourierDecayAlt.P.second_gram_property
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:15:57.947121+00:00
 -- url     : https://prove2.me/theorems/5718f273-15ba-4f48-99e4-cded2c6b110a

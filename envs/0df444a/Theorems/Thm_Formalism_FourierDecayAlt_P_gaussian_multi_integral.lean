@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gaussian_multi_integral
 -- name    : Formalism.FourierDecayAlt.P.gaussian_multi_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:04.635798+00:00
 -- url     : https://prove2.me/theorems/4e719869-92b2-4589-b21d-cd569e655ae5

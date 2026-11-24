@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_muSFun_mul_zeta
 -- name    : DeletedPrimes.muSFun_mul_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:10.970055+00:00
 -- url     : https://prove2.me/theorems/7b6c57b2-2ceb-4e66-9cce-b9dfa11aca00

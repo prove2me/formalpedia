@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GCT_gct_flagship_conjecture
 -- name    : GCT.gct_flagship_conjecture
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-09-14T16:35:12.080242+00:00
 -- url     : https://prove2.me/theorems/498980f7-6512-4a79-9796-68140c55c691

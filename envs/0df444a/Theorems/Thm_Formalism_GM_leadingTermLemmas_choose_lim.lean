@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_choose_lim
 -- name    : Formalism.GM.leadingTermLemmas.choose_lim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:25:30.713591+00:00
 -- url     : https://prove2.me/theorems/efb4b256-1885-4ac5-9bf4-d09e0a141186

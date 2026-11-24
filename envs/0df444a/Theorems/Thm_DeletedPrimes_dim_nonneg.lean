@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_dim_nonneg
 -- name    : DeletedPrimes.dim_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:38.56415+00:00
 -- url     : https://prove2.me/theorems/71fec108-cf9f-477e-9b90-81d04a681a47

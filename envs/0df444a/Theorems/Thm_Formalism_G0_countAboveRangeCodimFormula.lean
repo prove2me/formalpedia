@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_countAboveRangeCodimFormula
 -- name    : Formalism.G0.countAboveRangeCodimFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:08.471282+00:00
 -- url     : https://prove2.me/theorems/a995d3f3-4d8f-4913-91ac-a73e80563dc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WirtingerIntegrationByParts_bkb_N_pos
 -- name    : Formalism.FourierDecayAlt.P.WirtingerIntegrationByParts.bkb_N_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:17:49.069599+00:00
 -- url     : https://prove2.me/theorems/78661aa0-8b2f-46f9-966f-c893377e1e84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RhinViola_monomialKernelLIntegralEqGeometricSeries
 -- name    : RhinViola.monomialKernelLIntegralEqGeometricSeries
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T11:45:08.330526+00:00
 -- url     : https://prove2.me/theorems/2033045f-354b-46f1-aad9-045d4bf30d7b

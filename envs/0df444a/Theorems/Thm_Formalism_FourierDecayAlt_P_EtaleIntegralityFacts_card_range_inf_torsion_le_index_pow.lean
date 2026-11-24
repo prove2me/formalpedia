@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_card_range_inf_torsion_le_index_pow
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.card_range_inf_torsion_le_index_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:56:12.104547+00:00
 -- url     : https://prove2.me/theorems/63f14533-1311-4864-8060-8255776dee9b

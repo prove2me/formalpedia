@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosetTreeSVP_SVP_lemma_2_7
 -- name    : CosetTreeSVP.SVP.lemma_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:32:35.351321+00:00
 -- url     : https://prove2.me/theorems/ecc44189-40ac-40e1-8132-4d0c0a3c186d

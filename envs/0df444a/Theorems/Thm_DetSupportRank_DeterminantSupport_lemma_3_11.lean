@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetSupportRank_DeterminantSupport_lemma_3_11
 -- name    : DetSupportRank.DeterminantSupport.lemma_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:16:53.233979+00:00
 -- url     : https://prove2.me/theorems/388c5954-ce49-4cce-9cde-dae235d0a8cc

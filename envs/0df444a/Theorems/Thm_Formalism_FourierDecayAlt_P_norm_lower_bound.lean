@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_lower_bound
 -- name    : Formalism.FourierDecayAlt.P.norm_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:47.341225+00:00
 -- url     : https://prove2.me/theorems/ccdd09f9-e6e9-4bfe-86ca-1597e489b032

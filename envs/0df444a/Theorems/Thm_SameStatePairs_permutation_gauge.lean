@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SameStatePairs_permutation_gauge
 -- name    : SameStatePairs.permutation_gauge
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T21:06:44.203448+00:00
 -- url     : https://prove2.me/theorems/c946f817-46ba-4f11-b277-9dfa90c9d210

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakApproximationGL_split_bijective
 -- name    : Formalism.FourierDecayAlt.P.WeakApproximationGL.split_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:49:59.139327+00:00
 -- url     : https://prove2.me/theorems/d6deb1eb-f9d8-47f1-aad4-d905459250ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HalfIndMatch_card_at_tau
 -- name    : HalfIndMatch.card_at_tau
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:15:59.353768+00:00
 -- url     : https://prove2.me/theorems/83934799-38ee-45e1-aac0-b4a15e606146

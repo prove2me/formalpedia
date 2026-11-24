@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_PhiIntegrality_norm_choose_inv_le
 -- name    : Formalism.GM.M.PhiIntegrality.norm_choose_inv_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:35:35.511569+00:00
 -- url     : https://prove2.me/theorems/69d5e201-a60b-4fd7-87c3-883dd0c7fea5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WirtingerIntegrationByParts_bkb_sq_le
 -- name    : Formalism.FourierDecayAlt.P.WirtingerIntegrationByParts.bkb_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:19.773739+00:00
 -- url     : https://prove2.me/theorems/7115a498-b371-42df-a172-7184239d8dda

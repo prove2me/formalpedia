@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylSat
 -- name    : Formalism.GradedWeylDivisibility.dualWeylSat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:52:09.031868+00:00
 -- url     : https://prove2.me/theorems/70e8f031-1060-451c-a7c0-8eb8de7d95a9

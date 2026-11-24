@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd7_insert_mul_diagScalar
 -- name    : Formalism.FourierDecayAlt.P.Wd7.insert_mul_diagScalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:46:39.867026+00:00
 -- url     : https://prove2.me/theorems/f9bcabd4-f156-4a9a-9fcf-2d2da0a637ff

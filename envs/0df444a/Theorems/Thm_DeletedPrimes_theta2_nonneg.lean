@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_theta2_nonneg
 -- name    : DeletedPrimes.theta2_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:45:49.268409+00:00
 -- url     : https://prove2.me/theorems/20968c1c-4d0a-4c9d-b5e2-dc94d946a8d6

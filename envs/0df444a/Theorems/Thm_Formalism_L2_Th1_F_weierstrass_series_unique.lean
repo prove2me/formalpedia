@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_weierstrass_series_unique
 -- name    : Formalism.L2.Th1.F.weierstrass_series_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:24.049977+00:00
 -- url     : https://prove2.me/theorems/9cecd4a6-9fce-4ed0-8485-a5a6d99571e6

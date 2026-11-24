@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd10_dualityList_of
 -- name    : Formalism.FourierDecayAlt.P.Wd10.dualityList_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:32:50.388396+00:00
 -- url     : https://prove2.me/theorems/0c8827d4-b716-4b8f-884a-e59128712fe2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakApproximationGL_matrix_redOf
 -- name    : Formalism.FourierDecayAlt.P.WeakApproximationGL.matrix_redOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:35:07.643086+00:00
 -- url     : https://prove2.me/theorems/6a4d980b-968e-449e-8ad2-20598f4adac5

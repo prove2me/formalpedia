@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_PhiIntegrality_contr_D
 -- name    : Formalism.GM.M.PhiIntegrality.contr_D
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:44.322236+00:00
 -- url     : https://prove2.me/theorems/b9aaf40e-0282-4a80-9ff5-ae9c01a2a7ed

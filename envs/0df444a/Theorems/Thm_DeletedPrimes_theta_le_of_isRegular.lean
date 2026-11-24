@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_theta_le_of_isRegular
 -- name    : DeletedPrimes.theta_le_of_isRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:47:30.13628+00:00
 -- url     : https://prove2.me/theorems/a0dea7f1-0858-4c81-9b60-f4dc6af21e4f

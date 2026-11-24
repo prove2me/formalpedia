@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G_isCommOfRat
 -- name    : Formalism.G.isCommOfRat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:07.064446+00:00
 -- url     : https://prove2.me/theorems/c6137874-09ad-4e7d-8643-925c820e029a

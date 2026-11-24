@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordLiftInduction_word
 -- name    : Formalism.FourierDecayAlt.P.WordLiftInduction.word
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:49.422656+00:00
 -- url     : https://prove2.me/theorems/8cad5f00-5974-48e8-970f-87f8ab3c126c

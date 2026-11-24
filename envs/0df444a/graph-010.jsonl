@@ -19418,8 +19418,8 @@
 {"parent": "IntMul_Kappa_R6_Data_CxNetDataM3_7", "child": "IntMul_Kappa_R6_Data_CxNetDataM3_4", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R6_Data_CxNetDataM3_7", "child": "IntMul_Kappa_R6_Data_CxNetDataM3_0", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R6_Data_CxNetDataM3_7", "child": "IntMul_Kappa_R6_Data_CxNetDataM3_2", "via": ["statement"]}
-{"parent": "scalar_convergence", "child": "ShorNonsmooth_SubgradMethod_SubgradientMethod", "via": ["statement"]}
-{"parent": "scalar_convergence", "child": "ShorNonsmooth_Stochastic_StochasticSubgradientMethod", "via": ["statement"]}
+{"parent": "scalar_convergence", "child": "ShorNonsmooth_SubgradMethod_SubgradientMethod", "via": ["solution", "statement"]}
+{"parent": "scalar_convergence", "child": "ShorNonsmooth_Stochastic_StochasticSubgradientMethod", "via": ["solution", "statement"]}
 {"parent": "SRPTManyServer.Collapse.proposition_1", "child": "SRPTManyServer_Collapse_Model", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R6_Data_CxNetDataM4_9", "child": "IntMul_Kappa_R6_Defs24", "via": ["statement"]}
 {"parent": "FlowsNetworks.TwoArcs.eq_13_2_one_arc", "child": "FlowsNetworks_TwoArcs_TwoArcValue", "via": ["solution", "statement"]}
@@ -75376,7 +75376,7 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.NP.c_ricci_j", "child": "Atlas_EinsteinMaxwell_KN_Defs", "via": ["solution", "statement"]}
 {"parent": "PricingWithTips3DM_5ec398ba5730bcd3fe6ce0ad", "child": "PricingWithTips3DM_9ee8a6db26b44a2531ef2761", "via": ["statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.curve_bound_pointwise_sections_20261023_19", "child": "OAI_PiExponent_WeightedIdealCurveCriterion", "via": ["statement"]}
-{"parent": "SparseLpLq.SmallP.lemma_2_3", "child": "SparseLpLq_SmallP_Setting", "via": ["statement"]}
+{"parent": "SparseLpLq.SmallP.lemma_2_3", "child": "SparseLpLq_SmallP_Setting", "via": ["solution", "statement"]}
 {"parent": "PricingWithTips3DM_6336fb0333b5e9d92d8d77be", "child": "PricingWithTips3DM_12e60af373833ffa118e3422", "via": ["statement"]}
 {"parent": "PricingWithTips3DM_6336fb0333b5e9d92d8d77be", "child": "PricingWithTips3DM_55f98b1908fc52bb7cc02e72", "via": ["statement"]}
 {"parent": "PricingWithTips3DM_6336fb0333b5e9d92d8d77be", "child": "PricingWithTips3DM_693ce23dec6dc45ed34c4fb1", "via": ["statement"]}

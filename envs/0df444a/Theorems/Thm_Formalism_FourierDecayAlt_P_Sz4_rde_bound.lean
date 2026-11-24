@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz4_rde_bound
 -- name    : Formalism.FourierDecayAlt.P.Sz4.rde_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:32:21.348515+00:00
 -- url     : https://prove2.me/theorems/d40cfd03-2cc6-47d8-880f-3e100c1a4a17

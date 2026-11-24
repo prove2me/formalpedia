@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd9_diagScalar_neg
 -- name    : Formalism.FourierDecayAlt.P.Wd9.diagScalar_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:47:20.729091+00:00
 -- url     : https://prove2.me/theorems/c095083f-ab27-4d7a-b8dc-812e94bb9079

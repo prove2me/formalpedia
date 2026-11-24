@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_SplitK_apply_bK_of_ne
 -- name    : Formalism.FrobeniusOrbits.SplitK.apply_bK_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:02:30.206421+00:00
 -- url     : https://prove2.me/theorems/07b5dea6-e263-4124-af7b-97156bb4dd21

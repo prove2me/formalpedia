@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KramerSaglam_lemma_3_12
 -- name    : KramerSaglam.lemma_3_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:04:34.311544+00:00
 -- url     : https://prove2.me/theorems/8af3220a-8181-4c2d-b3e5-fc98bf5474fa

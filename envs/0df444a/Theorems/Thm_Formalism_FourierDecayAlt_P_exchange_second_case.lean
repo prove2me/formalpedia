@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_exchange_second_case
 -- name    : Formalism.FourierDecayAlt.P.exchange_second_case
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:07.210205+00:00
 -- url     : https://prove2.me/theorems/cc4453cb-2dd4-42c6-91d3-ed50a51548c9

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.productNormalisedBrownianPoissonIndependentV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T21:44:48.352136+00:00
 -- url     : https://prove2.me/submissions/0df54c70-d790-47fe-93ea-33e954876122
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch02_brownianProductFstV1
 import Theorems.Thm_Kyprianou_Ch02_poissonRandomMeasureProductSndV1

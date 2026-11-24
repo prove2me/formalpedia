@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_first_kernel_gram_property
 -- name    : Formalism.FourierDecayAlt.P.first_kernel_gram_property
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:15:57.641135+00:00
 -- url     : https://prove2.me/theorems/1588693f-4296-45c1-9126-bc4af1446e33

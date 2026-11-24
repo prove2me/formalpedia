@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_lacunary_speeds
 -- name    : LonelyRunnerConjecture.lacunary_speeds
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-17T01:12:53.938109+00:00
 -- url     : https://prove2.me/theorems/6566f011-8e71-4dee-b859-58ab405b2ad2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_exchange_plus_factor
 -- name    : Formalism.FourierDecayAlt.P.exchange_plus_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:02.56223+00:00
 -- url     : https://prove2.me/theorems/93d15c27-e35c-4bc7-a587-cb27940544d5

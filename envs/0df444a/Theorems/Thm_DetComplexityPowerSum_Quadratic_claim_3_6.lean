@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetComplexityPowerSum_Quadratic_claim_3_6
 -- name    : DetComplexityPowerSum.Quadratic.claim_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:31:55.084403+00:00
 -- url     : https://prove2.me/theorems/816c9f5e-83a6-4ee4-af27-0e05028008de

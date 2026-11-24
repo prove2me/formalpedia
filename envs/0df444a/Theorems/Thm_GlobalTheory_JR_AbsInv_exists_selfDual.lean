@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_AbsInv_exists_selfDual
 -- name    : GlobalTheory.JR.AbsInv.exists_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:37:01.496613+00:00
 -- url     : https://prove2.me/theorems/9a064feb-96ce-4f83-93b6-c0b5177f2484

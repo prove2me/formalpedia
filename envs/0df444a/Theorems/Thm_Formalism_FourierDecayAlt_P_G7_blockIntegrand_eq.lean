@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G7_blockIntegrand_eq
 -- name    : Formalism.FourierDecayAlt.P.G7.blockIntegrand_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:42:36.136805+00:00
 -- url     : https://prove2.me/theorems/9e8db05f-94c0-435e-ad70-0f80f3e23252

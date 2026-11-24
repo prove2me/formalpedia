@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G_LogP_log_unique
 -- name    : Formalism.G.LogP.log_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:29.169828+00:00
 -- url     : https://prove2.me/theorems/ec369341-19bd-462b-ba87-b63418610e7f

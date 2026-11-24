@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_productNormalisedBrownianPoissonIndependentV1
 -- name    : Kyprianou.Ch02.productNormalisedBrownianPoissonIndependentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:35:58.503862+00:00
 -- url     : https://prove2.me/theorems/bd8bc9d4-58ba-42cb-8cfd-a7103df13535

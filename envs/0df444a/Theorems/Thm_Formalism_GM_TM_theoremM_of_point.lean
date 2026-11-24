@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_TM_theoremM_of_point
 -- name    : Formalism.GM.TM.theoremM_of_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:40.952746+00:00
 -- url     : https://prove2.me/theorems/73bc06ba-1409-4ad5-b6ba-ec0e855d3bdc

@@ -88385,8 +88385,8 @@
 {"parent": "QEC.Coding.BDL26FirstZeroEmptySuffix.original_correction_equation", "child": "QEC.Coding.BDL26FirstZeroFaceEndpoint.original_correction_equation", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26FirstZeroEmptySuffix.original_correction_equation", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_FirstZeroFaceEndpoint", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FirstZeroEmptySuffix.original_correction_equation", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_FirstZeroEmptySuffix", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier_UBV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier_UBV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier_UBV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_zeroDiscount_zeroBarrier_UBV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "RH1E6S01_D069_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S00_D058_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26RXPrimitiveC2QEndpoint.exists_actual_S2_pair_full_syndrome_geometric_domain", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_RXPrimitiveC2QEndpoint", "via": ["solution", "statement"]}
@@ -98175,8 +98175,8 @@
 {"parent": "QEC.Coding.BDL26RZLocalEdgeTower.actual_Y_package", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_RZLocalEdgeTower", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZLocalEdgeTower.actual_Y_package", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_BoundaryTailInvariance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZLocalEdgeTower.actual_Y_package", "child": "QEC.Coding.BDL26FirstZeroQVertexTower.actual_Y_package", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier_UBV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier_UBV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier_UBV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier_UBV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "BooleanFun.dderiv_eq_sum_fourier", "child": "BooleanFun_Auxiliary", "via": ["solution", "statement"]}
 {"parent": "BooleanFun.dderiv_eq_sum_fourier", "child": "BooleanFun_Basic", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.inverseGaussianGammaRootNormalisation", "child": "Kyprianou_Ch01_ExplicitLevyExamples", "via": ["statement"]}

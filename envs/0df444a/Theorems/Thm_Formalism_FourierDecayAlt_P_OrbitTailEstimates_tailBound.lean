@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitTailEstimates_tailBound
 -- name    : Formalism.FourierDecayAlt.P.OrbitTailEstimates.tailBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:00:47.569151+00:00
 -- url     : https://prove2.me/theorems/d867614a-caf1-4e3d-93fc-e4a6ed38d5e7

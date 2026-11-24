@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_FixedRecourse_vol_lipschitz
 -- name    : SPHardness.FixedRecourse.vol_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:08:39.004162+00:00
 -- url     : https://prove2.me/theorems/1b8ed142-7549-423e-9ea7-4d4f3047dca1

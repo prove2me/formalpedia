@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WirtingerIntegrationByParts_bkb_u_contDiffOn
 -- name    : Formalism.FourierDecayAlt.P.WirtingerIntegrationByParts.bkb_u_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:00:34.679797+00:00
 -- url     : https://prove2.me/theorems/f3a63a08-bed4-4b1e-9656-48569fbd58d4

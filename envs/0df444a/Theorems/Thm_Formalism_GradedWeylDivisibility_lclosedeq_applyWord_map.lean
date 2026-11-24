@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lclosedeq_applyWord_map
 -- name    : Formalism.GradedWeylDivisibility.lclosedeq_applyWord_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:01:38.990806+00:00
 -- url     : https://prove2.me/theorems/48231f64-70bb-4332-b067-852feb8e55aa

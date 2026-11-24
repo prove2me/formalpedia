@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_cor28_orientation_expDim
 -- name    : MulticlassDS.Compress.cor28_orientation_expDim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:39:54.154687+00:00
 -- url     : https://prove2.me/theorems/e2b67ee3-cdb8-457f-a125-e099579f5626

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_gw_constant
 -- name    : gw_constant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T19:15:09.193881+00:00
 -- url     : https://prove2.me/theorems/ae8a2c61-3a88-42e3-9450-37623fcce87e

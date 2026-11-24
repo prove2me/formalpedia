@@ -1,0 +1,43 @@
+-- Prove2me | Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_Assembly
+-- name    : GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_Assembly
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-24T01:31:07.414462+00:00
+-- url     : https://prove2.me/theorems/eb2dd9f5-1b48-4a9f-9df1-06897d3400aa
+-- title:
+--   Assembly
+-- statement:
+--   Definitions and structural lemmas for Assembly, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/CountingLowerBound/Assembly.lean
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_Statements
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PReductionSmallLast
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PReductionSmallFirst
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PInteriorDichotomy
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PAvoidMatrixLemma
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PMinkowskiCovolumeBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PCuspWeightBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PShortVectorsOrthogonal
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PPackingCount
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PMeanCountBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PTailBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PMeanLogPlus
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PMeanCuspWeight
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PTelescopeMetric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PLimitInEpsilon
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+namespace GroundTheory.Heights₂.Heights.LowerBound
+universe u
+end GroundTheory.Heights₂.Heights.LowerBound
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_maxExp_u
 -- name    : DeletedPrimes.maxExp_u
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:36.627195+00:00
 -- url     : https://prove2.me/theorems/e6c679a6-9687-49ec-b80b-52ee4a2bd103

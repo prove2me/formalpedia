@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakApproximationGL_strictUpper_injective
 -- name    : Formalism.FourierDecayAlt.P.WeakApproximationGL.strictUpper_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:49:55.977742+00:00
 -- url     : https://prove2.me/theorems/1bf59974-77d9-4462-a053-8361444c2fa9

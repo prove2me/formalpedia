@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_biHom_F
 -- name    : Formalism.GM.leadingTermLemmas.biHom_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:18.670699+00:00
 -- url     : https://prove2.me/theorems/86deb9b6-8202-4b91-aa12-65ca59f12a4e

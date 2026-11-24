@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd7_eU_mul_eU
 -- name    : Formalism.FourierDecayAlt.P.Wd7.eU_mul_eU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:46:33.418274+00:00
 -- url     : https://prove2.me/theorems/85c4bc87-d093-4ef6-9cf9-6cad628d981c

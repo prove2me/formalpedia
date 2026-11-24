@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_pderiv_zero_series_at_difference
 -- name    : Formalism.L2.Th1.B.pderiv_zero_series_at_difference
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:05.796499+00:00
 -- url     : https://prove2.me/theorems/fa3e8c09-b458-4808-af20-bc2e4b02496c

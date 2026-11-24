@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_SSD_kap_gen
 -- name    : Formalism.GM.M.SSD.kap_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:06.280091+00:00
 -- url     : https://prove2.me/theorems/91307466-9d2e-4e14-9fa5-898034c9c61e

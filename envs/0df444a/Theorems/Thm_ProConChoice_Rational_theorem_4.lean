@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProConChoice_Rational_theorem_4
 -- name    : ProConChoice.Rational.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:37.741864+00:00
 -- url     : https://prove2.me/theorems/86e2e8c8-2706-47e6-bd85-11797ae43eb0

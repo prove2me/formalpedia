@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_Top_windowFullAP
 -- name    : Formalism.GM.Top.windowFullAP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:13.052702+00:00
 -- url     : https://prove2.me/theorems/7ec4fe1a-3ddd-4313-90e1-f0f92fc0e692

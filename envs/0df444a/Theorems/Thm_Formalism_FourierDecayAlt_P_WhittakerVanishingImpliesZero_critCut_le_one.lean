@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WhittakerVanishingImpliesZero_critCut_le_one
 -- name    : Formalism.FourierDecayAlt.P.WhittakerVanishingImpliesZero.critCut_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:49:57.877904+00:00
 -- url     : https://prove2.me/theorems/b9243998-1c7e-4384-bc6b-f44aee5d354e

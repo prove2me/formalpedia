@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_irreducibility_of_restriction
 -- name    : Formalism.CyclotomicNorms.irreducibility_of_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:56:36.019911+00:00
 -- url     : https://prove2.me/theorems/5b6844e5-2de0-4aa4-b38c-45e044608adf

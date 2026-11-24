@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_first_theta_kernel_equality
 -- name    : Formalism.FourierDecayAlt.P.first_theta_kernel_equality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:16:22.161475+00:00
 -- url     : https://prove2.me/theorems/9f7a85ce-ee31-47a6-a53a-006c5bdebe81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_critical_threshold_lower_bound
 -- name    : Formalism.FourierDecayAlt.P.critical_threshold_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:37.185092+00:00
 -- url     : https://prove2.me/theorems/1ea4c125-b06b-40f7-be68-0005d6c5f0aa

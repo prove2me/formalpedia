@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_theorem_3_3_nonnegative
 -- name    : QuantumLTF.Membership.theorem_3_3_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-15T11:10:54.804285+00:00
 -- url     : https://prove2.me/theorems/f4cfb46e-b775-4c18-b7af-8e9306876e15

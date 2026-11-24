@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_fifth_price_integral_expansion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:36:09.548955+00:00
 -- url     : https://prove2.me/submissions/1f5a4922-c175-4b46-859c-3d9558977e54
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_cq_first_price_derivative
 import Theorems.Thm_GrothendieckLB_Supplement_cq_mixed_price_derivative

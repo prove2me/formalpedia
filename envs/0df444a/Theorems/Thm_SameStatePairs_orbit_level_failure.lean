@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SameStatePairs_orbit_level_failure
 -- name    : SameStatePairs.orbit_level_failure
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T21:02:42.852801+00:00
 -- url     : https://prove2.me/theorems/7888b17a-87aa-4c5b-a812-939187ee94af

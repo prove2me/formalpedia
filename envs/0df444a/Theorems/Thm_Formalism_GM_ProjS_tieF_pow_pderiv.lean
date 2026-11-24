@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_tieF_pow_pderiv
 -- name    : Formalism.GM.ProjS.tieF_pow_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:32.163315+00:00
 -- url     : https://prove2.me/theorems/6ed72a6e-0d3b-4485-9910-6997def5b049

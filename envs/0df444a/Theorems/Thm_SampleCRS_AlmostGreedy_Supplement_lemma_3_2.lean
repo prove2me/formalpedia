@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleCRS_AlmostGreedy_Supplement_lemma_3_2
 -- name    : SampleCRS.AlmostGreedy.Supplement.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T20:39:20.428088+00:00
 -- url     : https://prove2.me/theorems/c7151d33-680a-4c08-84dd-8a375b7f4a70

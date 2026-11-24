@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_PhiIntegrality_contr_divDeriv
 -- name    : Formalism.GM.M.PhiIntegrality.contr_divDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:45.820567+00:00
 -- url     : https://prove2.me/theorems/3eb35eec-88dc-4f30-9fc3-59a0da70e842

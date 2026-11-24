@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoBlockPoint_phase_J
 -- name    : Formalism.FourierDecayAlt.P.TwoBlockPoint.phase_J
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:43:12.098533+00:00
 -- url     : https://prove2.me/theorems/f4bc2649-dcc0-4fc0-b980-3601c44c1eb5

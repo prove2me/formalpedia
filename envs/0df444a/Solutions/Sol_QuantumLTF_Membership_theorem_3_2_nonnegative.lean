@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumLTF.Membership.theorem_3_2_nonnegative
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:20:40.865838+00:00
 -- url     : https://prove2.me/submissions/0e4875ec-b91a-4889-9f15-0bb2304c2e59
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_QAlgorithms_Defs_Circuit

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Far_le_norm_sub_of_nonstationaryCutoff_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Far.le_norm_sub_of_nonstationaryCutoff_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:56:15.333176+00:00
 -- url     : https://prove2.me/theorems/209bf61b-9fb5-4ad3-9fb0-5c4a8128d433

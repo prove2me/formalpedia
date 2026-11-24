@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_vandermondeWords
 -- name    : Formalism.FourierDecayAlt.P.vandermondeWords
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:19:30.640958+00:00
 -- url     : https://prove2.me/theorems/bdf2abc4-953c-4766-a852-289838e3a9d9

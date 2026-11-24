@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd8_ins_lift0_mul_apply
 -- name    : Formalism.FourierDecayAlt.P.Wd8.ins_lift0_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:47:17.832231+00:00
 -- url     : https://prove2.me/theorems/f29c5704-244e-4988-896b-fa3993485141

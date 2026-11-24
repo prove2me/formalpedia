@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_SchoenfeldLiS76_piece_2048_2657
 -- name    : LL_SchoenfeldLiS76.piece_2048_2657
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-23T17:38:39.090234+00:00
 -- url     : https://prove2.me/theorems/1b51d861-f634-4104-b46c-d54ee3de152d

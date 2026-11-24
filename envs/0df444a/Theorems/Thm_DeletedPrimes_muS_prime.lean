@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_muS_prime
 -- name    : DeletedPrimes.muS_prime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:07.424532+00:00
 -- url     : https://prove2.me/theorems/a48700fa-4f6c-46ba-b0a3-242e22da8da6

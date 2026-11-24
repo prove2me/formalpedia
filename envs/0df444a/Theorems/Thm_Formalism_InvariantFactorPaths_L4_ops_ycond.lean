@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_ops_ycond
 -- name    : Formalism.InvariantFactorPaths.L4.ops_ycond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:36:42.45641+00:00
 -- url     : https://prove2.me/theorems/cb02a75f-8ff9-48b7-a8cd-6412f0dc2822

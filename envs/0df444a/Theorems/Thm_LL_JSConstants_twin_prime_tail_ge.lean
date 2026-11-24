@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_JSConstants_twin_prime_tail_ge
 -- name    : LL_JSConstants.twin_prime_tail_ge
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-23T17:43:00.304888+00:00
 -- url     : https://prove2.me/theorems/5fd692c1-cee5-4646-90f8-0afe8612b24f

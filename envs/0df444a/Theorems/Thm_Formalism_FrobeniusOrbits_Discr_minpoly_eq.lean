@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Discr_minpoly_eq
 -- name    : Formalism.FrobeniusOrbits.Discr.minpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:26.365652+00:00
 -- url     : https://prove2.me/theorems/a48e87ec-a249-40c8-8407-7f0f2bb40b07

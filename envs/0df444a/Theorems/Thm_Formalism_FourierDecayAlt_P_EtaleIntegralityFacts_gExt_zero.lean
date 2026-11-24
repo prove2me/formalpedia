@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_gExt_zero
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.gExt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:55:56.106386+00:00
 -- url     : https://prove2.me/theorems/f5ffb3e6-6dcb-4f36-8fe7-b1435f1a7770

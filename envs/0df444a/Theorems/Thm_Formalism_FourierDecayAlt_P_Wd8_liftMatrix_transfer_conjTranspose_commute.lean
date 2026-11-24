@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd8_liftMatrix_transfer_conjTranspose_commute
 -- name    : Formalism.FourierDecayAlt.P.Wd8.liftMatrix_transfer_conjTranspose_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:47:15.031843+00:00
 -- url     : https://prove2.me/theorems/3e4f81ba-a731-49c0-8950-0eb429401cea

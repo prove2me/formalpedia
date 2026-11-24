@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_qVandermondeIdentity
 -- name    : Formalism.G0.qVandermondeIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:43:59.352984+00:00
 -- url     : https://prove2.me/theorems/13e345b3-4c13-4eb8-9c3a-af3a5ea29750

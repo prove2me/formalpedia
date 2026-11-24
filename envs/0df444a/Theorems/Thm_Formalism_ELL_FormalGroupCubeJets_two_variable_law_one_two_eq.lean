@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_two_variable_law_one_two_eq
 -- name    : Formalism.ELL.FormalGroupCubeJets.two_variable_law_one_two_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:10:14.242856+00:00
 -- url     : https://prove2.me/theorems/3d50e2e5-8d0e-4334-aa17-7095f3792338

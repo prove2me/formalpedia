@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DetBound_gaussR_det_le
 -- name    : Formalism.GM.DetBound.gaussR_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:16.514172+00:00
 -- url     : https://prove2.me/theorems/fbb5a650-ed31-4b0a-be50-3310038bda6c

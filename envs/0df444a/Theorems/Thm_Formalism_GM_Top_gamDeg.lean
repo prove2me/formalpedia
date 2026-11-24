@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_Top_gamDeg
 -- name    : Formalism.GM.Top.gamDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:18.048251+00:00
 -- url     : https://prove2.me/theorems/da957ef9-a346-41a7-8b34-763d42c6e89c

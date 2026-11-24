@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueEquivalence_ve_space_antitone
 -- name    : ValueEquivalence.ve_space_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:48:54.494059+00:00
 -- url     : https://prove2.me/theorems/f8fde2c5-60ea-485f-9894-d0da96ef8c2b

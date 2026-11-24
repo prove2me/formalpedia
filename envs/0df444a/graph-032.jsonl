@@ -47707,7 +47707,7 @@
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.goodK", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_EulerLegacySeries", "child": "liuyao_ca_fd889115_k1_Analysis_EulerSeriesIdentity", "via": ["statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_EulerLegacySeries", "child": "liuyao_ca_fd889115_k1_Analysis_Exp", "via": ["statement"]}
-{"parent": "DistributionTheoryMission.classical_huygens", "child": "liuyao_ca_fd889115_k1_Distributions_ClassicalHuygens", "via": ["statement"]}
+{"parent": "DistributionTheoryMission.classical_huygens", "child": "liuyao_ca_fd889115_k1_Distributions_ClassicalHuygens", "via": ["solution", "statement"]}
 {"parent": "ZLIPPadding.Padding.Supplement.matrix_concentration", "child": "ZLIPPadding_Padding_Supplement_Statistics", "via": ["statement"]}
 {"parent": "OneOfManyCC.Supplement.theorem_1_1", "child": "OneOfManyCC_CC", "via": ["statement"]}
 {"parent": "OneOfManyCC.Supplement.theorem_1_1", "child": "OneOfManyCC_OneOut", "via": ["statement"]}
@@ -48027,10 +48027,10 @@
 {"parent": "QMomentMatch_FirstBound_Supplement_NewtonCoeff", "child": "QMomentMatch_FirstBound_Basic", "via": ["statement"]}
 {"parent": "QMomentMatch_FirstBound_Supplement_NewtonCoeff", "child": "QAlgorithms_Defs_Query", "via": ["statement"]}
 {"parent": "QMomentMatch_FirstBound_Supplement_NewtonCoeff", "child": "QMomentMatch_FirstBound_InducedDist", "via": ["statement"]}
-{"parent": "Kyprianou.compoundPoissonDriftPathCriterionCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.compoundPoissonDriftPathCriterionCh02V3", "child": "levy_foundations_isCompoundPoissonDriver", "via": ["statement"]}
-{"parent": "Kyprianou.compoundPoissonDriftPathCriterionCh02V3", "child": "levy_foundations_compoundPoisson", "via": ["statement"]}
-{"parent": "Kyprianou.compoundPoissonDriftPathCriterionCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.compoundPoissonDriftPathCriterionCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.compoundPoissonDriftPathCriterionCh02V3", "child": "levy_foundations_isCompoundPoissonDriver", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.compoundPoissonDriftPathCriterionCh02V3", "child": "levy_foundations_compoundPoisson", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.compoundPoissonDriftPathCriterionCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_Differential", "child": "liuyao_ca_fd889115_k1_Analysis_Calculus", "via": ["statement"]}
 {"parent": "GinibrePermanent977.Anticoncentration.Supplement.lemma_C_4", "child": "GinibrePermanent977_Anticoncentration_Model", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg24246", "child": "OAIQ259US007", "via": ["statement"]}
@@ -48144,10 +48144,10 @@
 {"parent": "SubsetSumPartialMatch.SubsetSum.Supplement.or_degree_lower_bound", "child": "SubsetSumPartialMatch_SubsetSum_Supplement_ComputesOR", "via": ["statement"]}
 {"parent": "MatroidSensOracle_Supplement_OracleModels", "child": "MatroidSensOracle_Supplement_GraphProblems", "via": ["statement"]}
 {"parent": "MatroidSensOracle_Supplement_OracleModels", "child": "MatroidSensOracle_WordRAM", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_10_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_10_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_10_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_10_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.exercise2_10_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_10_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_10_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_10_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "ParallelMatroidBasis.Main.Supplement.theorem_1_5", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
 {"parent": "ParallelMatroidBasis.Main.Supplement.theorem_1_5", "child": "SubsamplingSM_Offline_IsMonotoneSetFn", "via": ["statement"]}
 {"parent": "ParallelMatroidBasis.Main.Supplement.theorem_1_5", "child": "ParallelMatroidBasis_Main_Supplement_MultiOracle", "via": ["statement"]}
@@ -48573,8 +48573,8 @@
 {"parent": "MoneyBurningTrade.IndependentSurplus.Supplement.lemma_5_7", "child": "MoneyBurningTrade_IndependentSurplus_IsDSIC", "via": ["statement"]}
 {"parent": "MoneyBurningTrade.IndependentSurplus.Supplement.lemma_5_7", "child": "MoneyBurningTrade_IndependentSurplus_IsIR", "via": ["statement"]}
 {"parent": "MoneyBurningTrade.IndependentSurplus.Supplement.lemma_5_7", "child": "MoneyBurningTrade_IndependentSurplus_Supplement_GeometricLaw", "via": ["statement"]}
-{"parent": "Kyprianou.independentSubordinationCh02", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.independentSubordinationCh02", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.independentSubordinationCh02", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.independentSubordinationCh02", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "FlexRigidity_Supplement_UE", "child": "HybridXorLift_tvDist", "via": ["statement"]}
 {"parent": "FlexRigidity_Supplement_UE", "child": "FlexRigidity_realRound", "via": ["statement"]}
 {"parent": "FlexRigidity_Supplement_UE", "child": "FlexRigidity_freq", "via": ["statement"]}
@@ -48736,10 +48736,10 @@
 {"parent": "Kyprianou.finiteRegionPoissonIntegralCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "RepellingPairs_Supplement_crossingNumber", "child": "RepellingPairs_Config", "via": ["statement"]}
 {"parent": "RepellingPairs_Supplement_crossingNumber", "child": "RepellingPairs_PerfectMatching", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_7_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_7_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_7_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_7_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.exercise2_7_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_7_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_7_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_7_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "SetDefinedGraphs.Supplement.theorem_4_15", "child": "SetDefinedGraphs_Classes", "via": ["statement"]}
 {"parent": "SetDefinedGraphs.Supplement.theorem_4_15", "child": "SetDefinedGraphs_Supplement_ChiBoundedness", "via": ["statement"]}
 {"parent": "SetDefinedGraphs.Supplement.theorem_4_15", "child": "SetDefinedGraphs_Supplement_Encoding", "via": ["statement"]}
@@ -49436,7 +49436,7 @@
 {"parent": "TargetedSamplers_Supplement_IsOneWay", "child": "TargetedSamplers_coinProb", "via": ["statement"]}
 {"parent": "TargetedSamplers_Supplement_IsOneWay", "child": "TargetedSamplers_encInput", "via": ["statement"]}
 {"parent": "OddPermSum.Evaluation.Supplement.lemma_5_1", "child": "OddPermSum_Evaluation_Supplement_generatingPolynomial", "via": ["statement"]}
-{"parent": "RankCutFacility.Shifted.Supplement.lb_metric", "child": "RankCutFacility_Shifted_Supplement_Online", "via": ["statement"]}
+{"parent": "RankCutFacility.Shifted.Supplement.lb_metric", "child": "RankCutFacility_Shifted_Supplement_Online", "via": ["solution", "statement"]}
 {"parent": "SuperactivatedCheating.StateConversion.Supplement.theorem_34", "child": "SuperactivatedCheating_StateConversion_Supplement_Operations", "via": ["statement"]}
 {"parent": "DIObliviousTransfer_Supplement_idealBC", "child": "DIObliviousTransfer_Realizes", "via": ["statement"]}
 {"parent": "LowDiameterNashWilliams.Main.Supplement.observation_7_1", "child": "LowDiameterNashWilliams_Main_Supplement_GraphEncoding", "via": ["statement"]}
@@ -50861,10 +50861,10 @@
 {"parent": "Kyprianou.Ch01.brownianRealExpMoment", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.brownianRealExpMoment", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.brownianRealExpMoment", "child": "Kyprianou_Ch01_ExplicitLevyExamples", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.exercise2_6_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_6_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_6_AllPartsCh02V3", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_6_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.exercise2_6_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_6_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_6_AllPartsCh02V3", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_6_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "PrivateContinualCounting_Kraft_Supplement_Benchmarks", "child": "PrivateContinualCounting_Kraft_Supplement_Privacy", "via": ["statement"]}
 {"parent": "IAFTRL.proposition_D_2_trivial", "child": "IAFTRL_regretVs", "via": ["solution", "statement"]}
 {"parent": "IAFTRL.proposition_D_2_trivial", "child": "IAFTRL_IsIAFTRLRun", "via": ["solution", "statement"]}
@@ -52827,7 +52827,7 @@
 {"parent": "AvgWorstGap_Supplement_AvgP", "child": "AvgWorstGap_InPSAMP", "via": ["statement"]}
 {"parent": "AvgWorstGap_Supplement_AvgP", "child": "AvgWorstGap_AvgBPP", "via": ["statement"]}
 {"parent": "PrivPCP_Supplement_circuitMu", "child": "PrivPCP_Supplement_LTester", "via": ["statement"]}
-{"parent": "HypercliqueAC0.FixedDepth.Supplement.lemma_8_1", "child": "HypercliqueAC0_FixedDepth_Supplement_TwoListOV", "via": ["statement"]}
+{"parent": "HypercliqueAC0.FixedDepth.Supplement.lemma_8_1", "child": "HypercliqueAC0_FixedDepth_Supplement_TwoListOV", "via": ["solution", "statement"]}
 {"parent": "PolynomialSampling137.OneThird.Supplement.lemma_29", "child": "PolynomialSampling137_OneThird_Supplement_Circuits", "via": ["statement"]}
 {"parent": "GreedySuperstring_LowerBound_Supplement_CycleCover", "child": "GreedySuperstring_LowerBound_GreedyModel", "via": ["statement"]}
 {"parent": "ARTreeCover.Supplement.theorem_21", "child": "ARTreeCover_logL", "via": ["statement"]}
@@ -53039,7 +53039,7 @@
 {"parent": "FeedbackSwitching.Supplement.theorem_5", "child": "FeedbackSwitching_regret", "via": ["statement"]}
 {"parent": "FeedbackSwitching.Supplement.theorem_5", "child": "FeedbackSwitching_Supplement_comparisonProbing", "via": ["statement"]}
 {"parent": "FeedbackSwitching.Supplement.theorem_5", "child": "FeedbackSwitching_Supplement_appleTasting", "via": ["statement"]}
-{"parent": "WitnessIsolation.AffineCollapse.Supplement.harmonic_equalizer", "child": "WitnessIsolation_AffineCollapse_Supplement_harmonic", "via": ["statement"]}
+{"parent": "WitnessIsolation.AffineCollapse.Supplement.harmonic_equalizer", "child": "WitnessIsolation_AffineCollapse_Supplement_harmonic", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch03.exercise33StableFractionalMomentCriterion", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch03.exercise33StableFractionalMomentCriterion", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "MSetBandit_Supplement_runRegret", "child": "MSetBandit_regret", "via": ["statement"]}
@@ -53120,7 +53120,7 @@
 {"parent": "AuditAdapt_Supplement_trajLaw", "child": "AuditAdapt_stateLaw", "via": ["statement"]}
 {"parent": "AuditAdapt_Supplement_trajLaw", "child": "FoundationsRL_RLBasics_Core", "via": ["statement"]}
 {"parent": "AuditAdapt_Supplement_trajLaw", "child": "AuditAdapt_openLoopMarginal", "via": ["statement"]}
-{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.lemma_6_5", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Branching", "via": ["statement"]}
+{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.lemma_6_5", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Branching", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch03.exercise37PositiveStableLaplaceAndVariation", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch03.exercise37PositiveStableLaplaceAndVariation", "child": "Kyprianou_Ch03_TemperedStableMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch03.exercise37PositiveStableLaplaceAndVariation", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
@@ -54510,7 +54510,7 @@
 {"parent": "OnlineSteinitz_Reduction_Supplement_Rules", "child": "OnlineSteinitz_Reduction_Supplement_Algorithms", "via": ["statement"]}
 {"parent": "SparseIncidenceHom_WidthComparison_Supplement_Structures", "child": "SparseIncidenceHom_WidthComparison_Hypergraphs", "via": ["statement"]}
 {"parent": "APSCounting893.Main.Supplement.aps_iff_fresh_nonintegral", "child": "APSCounting893_Main_Supplement_DecisionProblems", "via": ["statement"]}
-{"parent": "SampleCRS.AlmostGreedy.Supplement.theorem_b_3", "child": "SampleCRS_AlmostGreedy_Supplement_discreteOrder", "via": ["statement"]}
+{"parent": "SampleCRS.AlmostGreedy.Supplement.theorem_b_3", "child": "SampleCRS_AlmostGreedy_Supplement_discreteOrder", "via": ["solution", "statement"]}
 {"parent": "DoublyEffIP_Supplement_IsSetSpaceUniform", "child": "TreeEdgeRankPC_Transducer", "via": ["statement"]}
 {"parent": "DoublyEffIP_Supplement_IsSetSpaceUniform", "child": "DoublyEffIP_Supplement_encCircuit", "via": ["statement"]}
 {"parent": "DoublyEffIP_Supplement_IsSetSpaceUniform", "child": "DoublyEffIP_Supplement_setShape", "via": ["statement"]}
@@ -57107,8 +57107,8 @@
 {"parent": "FlexRigidity_Supplement_CHSH", "child": "FlexRigidity_depol", "via": ["statement"]}
 {"parent": "RandomStreamCI.CodeIntersection.Supplement.opi_quantum_upper_bound", "child": "RandomStreamCI_CodeIntersection_Supplement_Quantum", "via": ["statement"]}
 {"parent": "RandomStreamCI.CodeIntersection.Supplement.opi_quantum_upper_bound", "child": "RandomStreamCI_CodeIntersection_Supplement_Asymptotics", "via": ["statement"]}
-{"parent": "Kyprianou.independentSubordinationCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.independentSubordinationCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.independentSubordinationCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.independentSubordinationCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "SampleCRS.AlmostGreedy.Supplement.lemma_3_3", "child": "SampleCRS_AlmostGreedy_Supplement_threshold", "via": ["statement"]}
 {"parent": "TFIMPhaseDiagram.Classical.Supplement.theorem_22", "child": "TFIMPhaseDiagram_Classical_Supplement_deviations", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
@@ -57128,10 +57128,10 @@
 {"parent": "A166944Research.a166944_horizon_cap_from_45895573", "child": "a166944_moving_horizon", "via": ["statement"]}
 {"parent": "AlgoPFR.Supplement.theorem_8_2_approximate_pfr", "child": "AlgoPFR_Machine", "via": ["statement"]}
 {"parent": "AlgoPFR.Supplement.theorem_8_2_approximate_pfr", "child": "AlgoPFR_Supplement_IsRUniform", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_11_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
+{"parent": "Kyprianou.exercise2_11_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.exercise2_11_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
 {"parent": "Kyprianou.exercise2_11_AllPartsCh02V3", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_11_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.exercise2_11_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "MinimaxInterventions1429.Separable.Supplement.spectral_threshold_private_decisions", "child": "MinimaxInterventions1429_Separable_Supplement_Groups", "via": ["statement"]}
 {"parent": "GradedReserve_Supplement_IsBNE", "child": "GradedReserve_Supplement_profileLaw", "via": ["statement"]}
 {"parent": "GradedReserve_Supplement_IsBNE", "child": "GradedReserve_Supplement_payoffAgainst", "via": ["statement"]}
@@ -57816,7 +57816,7 @@
 {"parent": "SeededShannon_Supplement_OAdv", "child": "QAdvFew_PoQOracle_tup", "via": ["statement"]}
 {"parent": "SeededShannon_Supplement_OAdv", "child": "LaconicBarrier_MCircuit", "via": ["statement"]}
 {"parent": "HindsightGain.Uniform.Supplement.theorem_5", "child": "HindsightGain_Uniform_Supplement_graphs", "via": ["statement"]}
-{"parent": "SampleCRS.AlmostGreedy.Supplement.lemma_3_2", "child": "SampleCRS_AlmostGreedy_Supplement_threshold", "via": ["statement"]}
+{"parent": "SampleCRS.AlmostGreedy.Supplement.lemma_3_2", "child": "SampleCRS_AlmostGreedy_Supplement_threshold", "via": ["solution", "statement"]}
 {"parent": "ElimAgree.Supplement.theorem_B_1", "child": "ElimAgree_Supplement_REIP", "via": ["statement"]}
 {"parent": "RGMISFast.binomial_moment_exponential_tail", "child": "RGMISFast_condLaw", "via": ["solution", "statement"]}
 {"parent": "RGMISFast.binomial_moment_exponential_tail", "child": "RGMISFast_Gamma", "via": ["solution", "statement"]}
@@ -57865,8 +57865,8 @@
 {"parent": "GuardedSSSP.Supplement.theorem_C_1", "child": "Algo2LeanLib_Ackermann", "via": ["statement"]}
 {"parent": "GuardedSSSP.Supplement.theorem_C_1", "child": "GuardedSSSP_Supplement_SeededQueryLayout", "via": ["statement"]}
 {"parent": "FourierSparseTesting1656.Uniform.Supplement.theorem_5_1", "child": "FourierSparseTesting1656_Uniform_Supplement_DistFree", "via": ["statement"]}
-{"parent": "Kyprianou.subordinatorCriterionCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.subordinatorCriterionCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.subordinatorCriterionCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.subordinatorCriterionCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "QuarticGap_Supplement_fourierZ", "child": "QuarticGap_Phi", "via": ["statement"]}
 {"parent": "RH.Transport.PhysicalTail.transport_canonical_probe_exists_ray_cube", "child": "Transport_TunedCandidate", "via": ["solution", "statement"]}
 {"parent": "RH.Transport.PhysicalTail.transport_canonical_probe_exists_ray_cube", "child": "OAIHecke78B026", "via": ["solution", "statement"]}
@@ -58181,7 +58181,7 @@
 {"parent": "UnaryParityLifting.Exact.Supplement.lifted_unsat_size", "child": "UnaryParityLifting_Exact_Supplement_sinkDAG", "via": ["statement"]}
 {"parent": "HouseAllocLT.LowerBound.Supplement.lemma_4_10", "child": "HouseAllocLT_LowerBound_Supplement_LTRPG", "via": ["statement"]}
 {"parent": "NuclearTensor.Membership.Supplement.lemma_7_3", "child": "NuclearTensor_Membership_Supplement_Tasks", "via": ["statement"]}
-{"parent": "SampleCRS.AlmostGreedy.Supplement.lemma_b_2", "child": "SampleCRS_AlmostGreedy_Supplement_scaling", "via": ["statement"]}
+{"parent": "SampleCRS.AlmostGreedy.Supplement.lemma_b_2", "child": "SampleCRS_AlmostGreedy_Supplement_scaling", "via": ["solution", "statement"]}
 {"parent": "MonDepMW.Supplement.theorem_5_5", "child": "MonDepMW_PartitionSelector", "via": ["statement"]}
 {"parent": "MonDepMW.Supplement.theorem_5_5", "child": "MonDepMW_Subpolynomial", "via": ["statement"]}
 {"parent": "MonDepMW.Supplement.theorem_5_5", "child": "MonDepMW_MonadicallyDependent", "via": ["statement"]}
@@ -58722,10 +58722,10 @@
 {"parent": "RadioInitBits.Supplement.theorem_3_energy_optimal_initialization", "child": "RadioInitBits_seedLaw", "via": ["statement"]}
 {"parent": "CNFLearning873_Valiant_Supplement_ThresholdFormula", "child": "CNFLearning873_Valiant_Supplement_OracleProgram", "via": ["statement"]}
 {"parent": "DDNNFNeg_Supplement_IsUFAOfSize", "child": "DDNNFNeg_Supplement_IsUnambiguousNFA", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_8_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_8_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_8_AllPartsCh02V3", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_8_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.exercise2_8_AllPartsCh02V3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_8_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_8_AllPartsCh02V3", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_8_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_ArctanInverseConstruction", "child": "liuyao_ca_fd889115_k1_Analysis_ArctanSecantFoundation", "via": ["statement"]}
 {"parent": "CompDesign.Supplement.theorem_6_2", "child": "CompDesignBFM_IsSubmodularSF", "via": ["statement"]}
 {"parent": "CompDesign.Supplement.theorem_6_2", "child": "CompDesignBFM_IsMonotoneSF", "via": ["statement"]}
@@ -59898,7 +59898,7 @@
 {"parent": "LeakageSpectral.Shannon.Supplement.theorem_4", "child": "LeakageSpectral_Shannon_Divergences", "via": ["statement"]}
 {"parent": "LeakageSpectral.Shannon.Supplement.theorem_4", "child": "LeakageSpectral_Shannon_ShareModel", "via": ["statement"]}
 {"parent": "OAIQ259US019", "child": "OAIQ259US001", "via": ["statement"]}
-{"parent": "FiniteGroupTesting.LinearQuery.Supplement.lemma_4_5", "child": "FiniteGroupTesting_LinearQuery_Supplement_PartialMaps", "via": ["statement"]}
+{"parent": "FiniteGroupTesting.LinearQuery.Supplement.lemma_4_5", "child": "FiniteGroupTesting_LinearQuery_Supplement_PartialMaps", "via": ["solution", "statement"]}
 {"parent": "MomentAmbiguitySecretary.Secretary.Supplement.deterministic_pricing_impossibility", "child": "MomentAmbiguitySecretary_Secretary_Supplement_Pricing", "via": ["statement"]}
 {"parent": "PreprocOWS.Supplement.theorem_9_5", "child": "PreprocOWS_Oracle", "via": ["statement"]}
 {"parent": "PreprocOWS.Supplement.theorem_9_5", "child": "PreprocOWS_Supplement_distAdv", "via": ["statement"]}
@@ -74424,7 +74424,7 @@
 {"parent": "APFPaper5.K2.not_readoutEq_iff_toldApart", "child": "APFPaper1.Continuation.contextEq_all_of_ambientHeredity", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.not_readoutEq_iff_toldApart", "child": "APFPaper5_K2_closed_boundary_on_words_Vocabulary", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.not_readoutEq_iff_toldApart", "child": "APFPaper1.Continuation.contextEq_sandwich_all", "via": ["solution", "statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_4_1", "child": "QuantumLTF_Membership_Supplement_queryComplexity", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_4_1", "child": "QuantumLTF_Membership_Supplement_queryComplexity", "via": ["solution", "statement"]}
 {"parent": "CutRankSched_Supplement_Gate_unitary", "child": "CutRankSched_Supplement_Gate", "via": ["statement"]}
 {"parent": "CutRankSched_Supplement_Gate_unitary", "child": "CutRankSched_Supplement_pauliOp", "via": ["statement"]}
 {"parent": "NAMatchEst_Supplement_TemplateLift", "child": "NAMatchEst_Supplement_HINode", "via": ["statement"]}
@@ -75287,9 +75287,9 @@
 {"parent": "TateOrder25Factor", "child": "TateNFDivision", "via": ["statement"]}
 {"parent": "TateOrder25Factor", "child": "TateOriginDivision", "via": ["statement"]}
 {"parent": "OracleStateHSP_Supplement_chi", "child": "OracleStateHSP_Supplement_CycProd", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_A_1", "child": "QuantumLTF_Membership_QueryTree", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_A_1", "child": "QuantumLTF_Membership_Supplement_IsBooleanTree", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_A_1", "child": "QuantumLTF_Membership_Supplement_majJunta", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_A_1", "child": "QuantumLTF_Membership_QueryTree", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_A_1", "child": "QuantumLTF_Membership_Supplement_IsBooleanTree", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_A_1", "child": "QuantumLTF_Membership_Supplement_majJunta", "via": ["solution", "statement"]}
 {"parent": "MazurProof.RationalPointsN25QuotientKummerThree.fifthPowerFiber_card_of_not_mem_range", "child": "N25_ExplicitWeilThreeDefs", "via": ["solution", "statement"]}
 {"parent": "MazurProof.RationalPointsN25QuotientKummerThree.fifthPowerFiber_card_of_not_mem_range", "child": "N25_ExplicitKummerThree", "via": ["solution", "statement"]}
 {"parent": "FiniteEnergyPlane.expDecayCInfty_symm_div_sub", "child": "FiniteEnergyPlane_Asymptotics", "via": ["solution", "statement"]}
@@ -76442,9 +76442,9 @@
 {"parent": "APFPaper5.K2.recordedClass_cost", "child": "APFPaper5.K1.atomTable_triangle", "via": ["solution", "statement"]}
 {"parent": "AltRegret.Supplement.theorem_6", "child": "AltRegret_Supplement_IsHarmonicAdversary", "via": ["statement"]}
 {"parent": "AltRegret.Supplement.theorem_6", "child": "AltRegret_altRegretAgainst", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_A_3", "child": "QuantumLTF_Membership_disagree", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_A_3", "child": "QuantumLTF_Membership_ltf", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_A_3", "child": "QuantumLTF_Membership_QueryTree", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_A_3", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_A_3", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_A_3", "child": "QuantumLTF_Membership_QueryTree", "via": ["solution", "statement"]}
 {"parent": "NAMatchEst.Supplement.theorem_12", "child": "TuranMatching_Clique_Setting", "via": ["statement"]}
 {"parent": "NAMatchEst.Supplement.theorem_12", "child": "NAMatchEst_AdjList_toGraph", "via": ["statement"]}
 {"parent": "NAMatchEst.Supplement.theorem_12", "child": "NAMatchEst_RandAlg", "via": ["statement"]}
@@ -79899,7 +79899,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg25768", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "LonelyRunnerConjecture.mss_finite_checking", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.logarithmicJumpWeightsENNRealMass", "child": "Kyprianou.Ch01.logarithmicJumpWeightsHasSumOne", "via": ["solution", "statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_4_5", "child": "QuantumLTF_Membership_Supplement_queryComplexity", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_4_5", "child": "QuantumLTF_Membership_Supplement_queryComplexity", "via": ["solution", "statement"]}
 {"parent": "N25.Endgame.pG25_isCusp", "child": "N25_SelectedCusps", "via": ["solution", "statement"]}
 {"parent": "QIndInf_Supplement_SolvesAvgPOVM", "child": "QIndInf_Supplement_SolvesAvg", "via": ["statement"]}
 {"parent": "N25.canonicalNoncuspPlace25_unit_orders", "child": "N25_CanonicalFunctionCoordinates", "via": ["solution", "statement"]}
@@ -79996,7 +79996,7 @@
 {"parent": "groupCohomology.IsFiniteFlatCocycle.eq_zero_on_inertia", "child": "GroupCohomology_FiniteFlatCocycle", "via": ["solution", "statement"]}
 {"parent": "groupCohomology.IsFiniteFlatCocycle.eq_zero_on_inertia", "child": "HopfAlgebra.act_eq_self_of_inertiaTrivialChain_padicInt", "via": ["solution", "statement"]}
 {"parent": "GraphonCheeger.Supplement.theorem_5_14", "child": "GraphonCheeger_Supplement_graphonModularity", "via": ["statement"]}
-{"parent": "LonelyRunnerConjecture.lacunary_speeds", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
+{"parent": "LonelyRunnerConjecture.lacunary_speeds", "child": "LonelyRunnerConjecture_Defs", "via": ["solution", "statement"]}
 {"parent": "DeepQOperator.Supplement.theorem_21", "child": "DeepQOperator_Family", "via": ["statement"]}
 {"parent": "DeepQOperator.Supplement.theorem_21", "child": "DeepQOperator_ExactDesign", "via": ["statement"]}
 {"parent": "DeepQOperator.Supplement.theorem_21", "child": "DeepQOperator_Supplement_Normalized", "via": ["statement"]}
@@ -80214,9 +80214,9 @@
 {"parent": "RQCMoments.Supplement.theorem_5_8", "child": "RQCMoments_entry", "via": ["statement"]}
 {"parent": "RQCMoments.Supplement.theorem_5_8", "child": "RQCMoments_porterThomas", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27012", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.exercise2_9_AllPartsCh02V4", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_9_AllPartsCh02V4", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_9_AllPartsCh02V4", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
+{"parent": "Kyprianou.exercise2_9_AllPartsCh02V4", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_9_AllPartsCh02V4", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_9_AllPartsCh02V4", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["solution", "statement"]}
 {"parent": "EffHorizonProphet_Supplement_effHorizonG", "child": "EffHorizonProphet_Supplement_cumScale", "via": ["statement"]}
 {"parent": "GraphNNSphere_Supplement_DClass", "child": "GraphNNSphere_Supplement_sampleLaw", "via": ["statement"]}
 {"parent": "ConstrSOSP.Supplement.theorem_7_9", "child": "ConstrSOSP_Supplement_FixedDimSosp2", "via": ["statement"]}
@@ -81583,9 +81583,9 @@
 {"parent": "QDSGibbs.Supplement.theorem_7_3", "child": "QDSGibbs_Supplement_fermiBlockChannel", "via": ["statement"]}
 {"parent": "QLocalCert.Supplement.theorem_2", "child": "QLocalCert_Supplement_SYM", "via": ["statement"]}
 {"parent": "QLocalCert.Supplement.theorem_2", "child": "QLocalCert_DQMA1", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_12_AllPartsCh02V4", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_12_AllPartsCh02V4", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.exercise2_12_AllPartsCh02V4", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
+{"parent": "Kyprianou.exercise2_12_AllPartsCh02V4", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_12_AllPartsCh02V4", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.exercise2_12_AllPartsCh02V4", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["solution", "statement"]}
 {"parent": "CodedSorting.Supplement.theorem_3_2", "child": "CodedSorting_Supplement_LinearProtocol", "via": ["statement"]}
 {"parent": "CodedSorting.Supplement.theorem_3_2", "child": "CodedSorting_Supplement_unitNetwork", "via": ["statement"]}
 {"parent": "CodedSorting.Supplement.theorem_3_2", "child": "GeometryOfGraphs_FlowCut_Maxflow", "via": ["statement"]}
@@ -83031,7 +83031,7 @@
 {"parent": "OnlineColoringKYY_Supplement_locAlg", "child": "OnlineColoringKYY_prefixGraph", "via": ["statement"]}
 {"parent": "RobustKellyTV_Supplement_oracleMixture", "child": "RobustKellyTV_oracleE", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabSixteenthCell01", "child": "row23_rh_supp_RHLowSlabSixteenthPilot", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_5_12", "child": "QuantumLTF_Membership_Supplement_QExLearner", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_12", "child": "QuantumLTF_Membership_Supplement_QExLearner", "via": ["solution", "statement"]}
 {"parent": "LonelyRunnerConjecture.eleven_twelve_thirteen", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
 {"parent": "KelnerLinSolve.Supplement.theorem_3_1", "child": "KelnerLinSolve_Supplement_IntSolveInput", "via": ["statement"]}
 {"parent": "KelnerLinSolve.Supplement.theorem_3_1", "child": "IntMul_MultitapeWords", "via": ["statement"]}
@@ -83508,7 +83508,7 @@
 {"parent": "KarpLiptonOM.Supplement.theorem_A_5_2", "child": "KarpLiptonOM_Supplement_gwInput", "via": ["statement"]}
 {"parent": "KarpLiptonOM.Supplement.theorem_A_5_2", "child": "KarpLiptonOM_Supplement_HasIrrefutableRow", "via": ["statement"]}
 {"parent": "KarpLiptonOM.Supplement.theorem_A_5_2", "child": "KarpLiptonOM_InFP", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_4_6", "child": "QuantumLTF_Membership_Supplement_queryComplexity", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_4_6", "child": "QuantumLTF_Membership_Supplement_queryComplexity", "via": ["solution", "statement"]}
 {"parent": "N25_CanonicalConeTowerEquiv", "child": "N25_CanonicalProjectiveCone", "via": ["statement"]}
 {"parent": "N25_CanonicalConeTowerEquiv", "child": "N25_CanonicalProjectivePrincipalOpen", "via": ["statement"]}
 {"parent": "N25_CanonicalConeTowerEquiv", "child": "N25_CanonicalConeTower", "via": ["statement"]}
@@ -89176,7 +89176,7 @@
 {"parent": "MazurProof.RationalPointsN25QuotientWeilThreeLinear.canonicalStructuredPointCount25F9_eq", "child": "N25_ExplicitWeil", "via": ["solution", "statement"]}
 {"parent": "MazurProof.RationalPointsN25QuotientWeilThreeLinear.canonicalStructuredPointCount25F9_eq", "child": "N25_CanonicalNormalizedPoints", "via": ["solution", "statement"]}
 {"parent": "MazurProof.RationalPointsN25QuotientWeilThreeLinear.canonicalStructuredPointCount25F9_eq", "child": "N25_NormalizedPointPivot", "via": ["solution", "statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_C_1", "child": "QuantumLTF_Membership_Supplement_queryComplexity", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_C_1", "child": "QuantumLTF_Membership_Supplement_queryComplexity", "via": ["solution", "statement"]}
 {"parent": "EffHorizonProphet_Supplement_generalRatio", "child": "EffHorizonProphet_Supplement_normEffHorizon", "via": ["statement"]}
 {"parent": "EffHorizonProphet_Supplement_generalRatio", "child": "EffHorizonProphet_Supplement_cumScale", "via": ["statement"]}
 {"parent": "EffHorizonProphet_Supplement_generalRatio", "child": "EffHorizonProphet_Supplement_cumProp", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_Supplement_theorem_4_5
 -- name    : QuantumLTF.Membership.Supplement.theorem_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T10:44:14.247203+00:00
 -- url     : https://prove2.me/theorems/9563c5bf-1483-4801-9cd5-c11bcfb66036

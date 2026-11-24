@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_GeneralRates_eq5_tangent_bound
 -- name    : RandomListsMatching.GeneralRates.eq5_tangent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:28.158046+00:00
 -- url     : https://prove2.me/theorems/eca5892b-f775-4a10-9d37-a579ce57abb3

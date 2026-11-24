@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_LengthLayersP_main
 -- name    : Formalism.G0.LengthLayersP.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:40:08.598406+00:00
 -- url     : https://prove2.me/theorems/d770898b-3d08-4673-964d-27d0f91cfeff

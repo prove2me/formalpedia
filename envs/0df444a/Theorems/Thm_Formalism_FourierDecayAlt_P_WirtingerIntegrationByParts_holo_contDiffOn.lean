@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WirtingerIntegrationByParts_holo_contDiffOn
 -- name    : Formalism.FourierDecayAlt.P.WirtingerIntegrationByParts.holo_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:00:38.728275+00:00
 -- url     : https://prove2.me/theorems/8a0ead3a-dd4d-4daf-96a0-5b257ab55ce1

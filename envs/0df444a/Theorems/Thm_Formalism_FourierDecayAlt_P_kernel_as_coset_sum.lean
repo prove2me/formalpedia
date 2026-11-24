@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_kernel_as_coset_sum
 -- name    : Formalism.FourierDecayAlt.P.kernel_as_coset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:06:22.952889+00:00
 -- url     : https://prove2.me/theorems/9c3f863d-b758-4e6c-9554-02f6de01e279

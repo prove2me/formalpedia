@@ -67452,7 +67452,7 @@
 {"parent": "QuantumKtSoI_qKt", "child": "QuantumKtSoI_Desc", "via": ["statement"]}
 {"parent": "QuantumKtSoI_qKt", "child": "QuantumKtSoI_pair", "via": ["statement"]}
 {"parent": "SubnormalCover.muMeasure_ncard_biUnion", "child": "BFFPyramidal_arithmetic", "via": ["solution", "statement"]}
-{"parent": "NodeStableProj.Main.app_C_size_estimate_order_delta_le_half", "child": "NodeStableProj_Main_SizeEstimate", "via": ["statement"]}
+{"parent": "NodeStableProj.Main.app_C_size_estimate_order_delta_le_half", "child": "NodeStableProj_Main_SizeEstimate", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg17628", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_ja21_original_smallband_cutoff_centered", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_ja21_original_smallband_cutoff_centered", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -68289,7 +68289,7 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_6_1_mem_x", "child": "OAIQ257X011", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_6_1_mem_x", "child": "OAIQ257X013", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg23935", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "ReadOnceParityBP.LowerBound.matching_bijection", "child": "ReadOnceParityBP_LowerBound_CanonicalMatching", "via": ["statement"]}
+{"parent": "ReadOnceParityBP.LowerBound.matching_bijection", "child": "ReadOnceParityBP_LowerBound_CanonicalMatching", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.continuous_fixed_left_Eisenstein", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CorrespondenceTests", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.continuous_fixed_left_Eisenstein", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CorrespondencePullback", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg24974", "child": "OAIQ259US007", "via": ["statement"]}
@@ -77166,7 +77166,7 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.curvatureData00_2_mem_x", "child": "OAIQ257X011", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.curvatureData00_2_mem_x", "child": "OAIQ257X020", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.curvatureData00_2_mem_x", "child": "AtomicGaussian", "via": ["solution", "statement"]}
-{"parent": "LawlerCompress.TardyJobs.lemma_3_3", "child": "LawlerCompress_TardyJobs_DynamicProgram", "via": ["statement"]}
+{"parent": "LawlerCompress.TardyJobs.lemma_3_3", "child": "LawlerCompress_TardyJobs_DynamicProgram", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB67_original_finitecap_two_mesh_linear_grid_L2_cross_covariance", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB67_original_finitecap_two_mesh_linear_grid_L2_cross_covariance", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.exists_cyclicAlgebraNormOne_with_finite_offTarget_denominators", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Arithmetic_IntrinsicStrongApproximation", "via": ["solution", "statement"]}
@@ -80049,7 +80049,7 @@
 {"parent": "DynEdgeColorLLL.Main.lemma_2", "child": "DynEdgeColorLLL_Main_LLLTranscript", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg24384", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg12280", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "ReadOnceParityBP.LowerBound.path_finiteness", "child": "ReadOnceParityBP_LowerBound_LabelledDAG", "via": ["statement"]}
+{"parent": "ReadOnceParityBP.LowerBound.path_finiteness", "child": "ReadOnceParityBP_LowerBound_LabelledDAG", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricKMedianRecovery.RationalLinearFeasibility.storedForms_sound_s238r", "child": "Q238L020", "via": ["solution", "statement"]}
 {"parent": "Helfgott.outer_arc_log_radius_budget", "child": "Helfgott_ArcCounting", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26NativeMasterCandidates.original_ordered_exact", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeSupportMetadata", "via": ["solution", "statement"]}
@@ -83381,7 +83381,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg22230", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_715All", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_715All", "child": "OAIQ259US011", "via": ["solution", "statement"]}
-{"parent": "SubcubicBA.PlainPKI.theorem_10", "child": "SubcubicBA_PlainPKI_Recurrences", "via": ["statement"]}
+{"parent": "SubcubicBA.PlainPKI.theorem_10", "child": "SubcubicBA_PlainPKI_Recurrences", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII08.Yfun_bound_mem", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_VIII04_Background", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII08.Yfun_bound_mem", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_VIII04_Linearize", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII08.Yfun_bound_mem", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_PaperGauge", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_muS_mul_of_coprime_aux
 -- name    : DeletedPrimes.muS_mul_of_coprime_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:06.502492+00:00
 -- url     : https://prove2.me/theorems/2421ca16-38e0-4f8c-a2c1-6050fedb0c83

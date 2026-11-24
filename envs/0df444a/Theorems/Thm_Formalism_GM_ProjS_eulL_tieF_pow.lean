@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_eulL_tieF_pow
 -- name    : Formalism.GM.ProjS.eulL_tieF_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:24.213652+00:00
 -- url     : https://prove2.me/theorems/fd4ba21f-9f71-44a6-b550-23fd359b5cd7

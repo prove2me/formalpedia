@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_first_kernel_parseval
 -- name    : Formalism.FourierDecayAlt.P.first_kernel_parseval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:16:37.722+00:00
 -- url     : https://prove2.me/theorems/56bb48a8-9311-41a3-8c37-70420cad2a38

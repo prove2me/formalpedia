@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupQuadraticJets_Q_F
 -- name    : Formalism.ELL.FormalGroupQuadraticJets.Q_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:17:39.910238+00:00
 -- url     : https://prove2.me/theorems/877899a1-319c-4061-92a5-d5e1ecfbe8cc

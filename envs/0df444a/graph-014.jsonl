@@ -98763,8 +98763,8 @@
 {"parent": "DualTwoStageRO.primalValue_eq_dualValue", "child": "DualTwoStageRO_Assumption1", "via": ["statement"]}
 {"parent": "DualTwoStageRO.primalValue_eq_dualValue", "child": "DualTwoStageRO_dualValue", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P52.two_qubit_cz_teleportation", "child": "QAlgorithms_Papers_Independent_Intakenext100_P52", "via": ["solution", "statement"]}
-{"parent": "KallMayerSLP.Bonferroni.bonferroni_inequalities", "child": "KallMayerSLP_Bonferroni_binomialMoment", "via": ["statement"]}
-{"parent": "KallMayerSLP.Bonferroni.bonferroni_inequalities", "child": "KallMayerSLP_Bonferroni_occurrenceCount", "via": ["statement"]}
+{"parent": "KallMayerSLP.Bonferroni.bonferroni_inequalities", "child": "KallMayerSLP_Bonferroni_binomialMoment", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.Bonferroni.bonferroni_inequalities", "child": "KallMayerSLP_Bonferroni_occurrenceCount", "via": ["solution", "statement"]}
 {"parent": "OAIQ107D120", "child": "OAIQ107D007", "via": ["statement"]}
 {"parent": "OAIQ107D120", "child": "OAIQ107D000", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Intake100_P61", "child": "QAlgorithms_Papers_Independent_Advance50_P30", "via": ["statement"]}

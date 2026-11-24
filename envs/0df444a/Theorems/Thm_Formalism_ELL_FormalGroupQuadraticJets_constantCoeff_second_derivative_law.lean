@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupQuadraticJets_constantCoeff_second_derivative_law
 -- name    : Formalism.ELL.FormalGroupQuadraticJets.constantCoeff_second_derivative_law
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:17:48.646638+00:00
 -- url     : https://prove2.me/theorems/9af803a7-6863-4742-9d39-d6d9e741409f

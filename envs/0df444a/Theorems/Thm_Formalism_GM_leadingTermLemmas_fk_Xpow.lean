@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_fk_Xpow
 -- name    : Formalism.GM.leadingTermLemmas.fk_Xpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:34.562009+00:00
 -- url     : https://prove2.me/theorems/a0b5665c-5317-455e-a1bc-81783b262958

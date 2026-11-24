@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G_LogP_omega_key
 -- name    : Formalism.G.LogP.omega_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:24.738342+00:00
 -- url     : https://prove2.me/theorems/3ea278aa-20fd-4e80-8fb5-b540943ba2e4

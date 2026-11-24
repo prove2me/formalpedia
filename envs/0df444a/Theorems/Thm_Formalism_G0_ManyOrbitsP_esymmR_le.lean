@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_ManyOrbitsP_esymmR_le
 -- name    : Formalism.G0.ManyOrbitsP.esymmR_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:40:10.666371+00:00
 -- url     : https://prove2.me/theorems/cebb2826-dcb6-4c3f-8748-a13a929cf494

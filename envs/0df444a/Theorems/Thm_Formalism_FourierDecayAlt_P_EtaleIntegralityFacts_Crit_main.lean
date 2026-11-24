@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Crit_main
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Crit.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:49:25.671265+00:00
 -- url     : https://prove2.me/theorems/1d022292-eabc-45f4-916a-fdbce053cf2b

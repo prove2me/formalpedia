@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_least_norm_in_ideal
 -- name    : Formalism.FourierDecayAlt.P.least_norm_in_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:35.84118+00:00
 -- url     : https://prove2.me/theorems/6aee9c48-9d1a-4e62-bace-4bcbaf5ea3bc

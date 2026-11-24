@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_public_scaled_largeSet_charFun_tendsto
 -- name    : levy_foundations_public_scaled_largeSet_charFun_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T10:46:37.579003+00:00
 -- url     : https://prove2.me/theorems/2cce2688-aa83-4809-8f7f-225b9b5e1ba7

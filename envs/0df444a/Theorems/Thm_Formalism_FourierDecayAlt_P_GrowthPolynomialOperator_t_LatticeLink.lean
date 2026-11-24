@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_LatticeLink
 -- name    : Formalism.FourierDecayAlt.P.GrowthPolynomialOperator.t_LatticeLink
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:09:06.493463+00:00
 -- url     : https://prove2.me/theorems/fe7f236f-6210-4f8b-80c7-2e7cdb0b6a08

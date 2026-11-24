@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FrozenVariableComponents_ycond_map
 -- name    : Formalism.GM.FrozenVariableComponents.ycond_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:35:32.495806+00:00
 -- url     : https://prove2.me/theorems/04aecab6-32ea-42f7-800b-9329a6d3c223

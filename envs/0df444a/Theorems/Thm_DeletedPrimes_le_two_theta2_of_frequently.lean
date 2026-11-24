@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_le_two_theta2_of_frequently
 -- name    : DeletedPrimes.le_two_theta2_of_frequently
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:49:45.770887+00:00
 -- url     : https://prove2.me/theorems/4a39b0c1-73ae-4b68-b146-6bd517607ebc

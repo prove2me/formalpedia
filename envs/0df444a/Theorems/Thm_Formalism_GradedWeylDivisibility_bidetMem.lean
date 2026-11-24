@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_bidetMem
 -- name    : Formalism.GradedWeylDivisibility.bidetMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:25:38.305201+00:00
 -- url     : https://prove2.me/theorems/f5c3481e-2064-4a34-8922-4d2edf55f15f

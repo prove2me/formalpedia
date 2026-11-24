@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_tiePhi_mem
 -- name    : Formalism.GM.FockB.tiePhi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:22:04.60308+00:00
 -- url     : https://prove2.me/theorems/02baacd5-bfa5-45c6-b933-887adcbd92a0

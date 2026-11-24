@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoBlockPoint_Fz_perturb
 -- name    : Formalism.FourierDecayAlt.P.TwoBlockPoint.Fz_perturb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:40:09.715104+00:00
 -- url     : https://prove2.me/theorems/26ec2a6d-acc7-4362-9628-e11d62b03d73

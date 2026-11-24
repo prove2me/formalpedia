@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LenstraIP_Hyperplanes_exists_lattice_point_le_of_max
 -- name    : LenstraIP.Hyperplanes.exists_lattice_point_le_of_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:03:21.825975+00:00
 -- url     : https://prove2.me/theorems/9f93a5ed-3d8b-4cdf-b5f3-56e7bac2f224

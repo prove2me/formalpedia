@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_subordinatorCriterionCh02V3
 -- name    : Kyprianou.subordinatorCriterionCh02V3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T19:20:06.238409+00:00
 -- url     : https://prove2.me/theorems/e443a7da-eab2-4c63-a0b6-1ad3964a019a

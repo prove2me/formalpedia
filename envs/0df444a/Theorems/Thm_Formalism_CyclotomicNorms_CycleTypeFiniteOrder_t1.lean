@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_CycleTypeFiniteOrder_t1
 -- name    : Formalism.CyclotomicNorms.CycleTypeFiniteOrder.t1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:58:20.448317+00:00
 -- url     : https://prove2.me/theorems/7d0b09d1-9c0d-4ba2-b4fd-f0ffbabde887

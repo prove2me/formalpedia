@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_Osgood_continuous_comp_torusMap
 -- name    : ReciprocityTheory.AnForm.Osgood.continuous_comp_torusMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:18:31.895391+00:00
 -- url     : https://prove2.me/theorems/c335b151-c246-41ce-bc4a-a594efed7e79

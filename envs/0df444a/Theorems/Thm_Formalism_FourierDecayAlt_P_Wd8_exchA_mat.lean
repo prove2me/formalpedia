@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd8_exchA_mat
 -- name    : Formalism.FourierDecayAlt.P.Wd8.exchA_mat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:34:16.546635+00:00
 -- url     : https://prove2.me/theorems/d96cbadd-71af-4583-be51-e7b54a7d2275

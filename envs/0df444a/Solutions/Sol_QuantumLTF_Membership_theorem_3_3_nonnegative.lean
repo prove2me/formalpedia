@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumLTF.Membership.theorem_3_3_nonnegative
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:48:27.91756+00:00
 -- url     : https://prove2.me/submissions/3e27fbcb-39ed-4630-80f5-02f9f796fd3d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QuantumLTF_Membership_theorem_3_3_single_run
 import Theorems.Thm_QuantumLTF_Membership_coordinatewise_median_amplification_uniform

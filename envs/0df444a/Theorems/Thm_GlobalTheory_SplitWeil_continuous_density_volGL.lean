@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_continuous_density_volGL
 -- name    : GlobalTheory.SplitWeil.continuous_density_volGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:32:25.799845+00:00
 -- url     : https://prove2.me/theorems/380676ef-672b-43c6-94e6-6dabceba7572

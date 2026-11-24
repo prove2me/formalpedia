@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_fockRowAdj
 -- name    : Formalism.GradedWeylDivisibility.fockRowAdj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:07:41.800116+00:00
 -- url     : https://prove2.me/theorems/0e98412b-77bd-43f3-8c47-465346f45518

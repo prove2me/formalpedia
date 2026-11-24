@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_remainder_derivative_bound
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.remainder_derivative_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:56:21.973336+00:00
 -- url     : https://prove2.me/theorems/76bd7d76-18d2-4bd8-a6c8-5f9f66089094

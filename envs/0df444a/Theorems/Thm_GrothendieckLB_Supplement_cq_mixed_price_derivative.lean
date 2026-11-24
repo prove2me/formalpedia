@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_mixed_price_derivative
 -- name    : GrothendieckLB.Supplement.cq_mixed_price_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:35:45.013373+00:00
 -- url     : https://prove2.me/theorems/360f5c12-a953-44b9-a47a-6aae8983e04f

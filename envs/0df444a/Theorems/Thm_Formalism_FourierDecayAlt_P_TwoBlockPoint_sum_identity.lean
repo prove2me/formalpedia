@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoBlockPoint_sum_identity
 -- name    : Formalism.FourierDecayAlt.P.TwoBlockPoint.sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:45:54.984489+00:00
 -- url     : https://prove2.me/theorems/39713061-4045-48bb-b7a5-20dfc0ef96b4

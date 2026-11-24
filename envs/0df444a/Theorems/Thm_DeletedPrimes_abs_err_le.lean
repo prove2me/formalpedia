@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_abs_err_le
 -- name    : DeletedPrimes.abs_err_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:46:53.143624+00:00
 -- url     : https://prove2.me/theorems/5004b211-887a-4fc5-8812-bc392f20bab6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_Q_of_top
 -- name    : Formalism.GM.M.Q_of_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:57.726071+00:00
 -- url     : https://prove2.me/theorems/0a0ce3fc-786d-4879-b1ba-8ae499235f24

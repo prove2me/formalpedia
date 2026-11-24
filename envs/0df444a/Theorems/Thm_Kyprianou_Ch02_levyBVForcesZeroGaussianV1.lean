@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyBVForcesZeroGaussianV1
 -- name    : Kyprianou.Ch02.levyBVForcesZeroGaussianV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:37:57.156835+00:00
 -- url     : https://prove2.me/theorems/e578fc02-04b3-4435-8b1f-fa76673b4306

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UltrametricPowerBound_main
 -- name    : GlobalTheory.UltrametricPowerBound.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:58:05.459785+00:00
 -- url     : https://prove2.me/theorems/1edab7cd-0389-4909-9069-844f9951793a

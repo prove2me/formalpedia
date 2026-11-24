@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WhittakerVanishingImpliesZero_cof_split
 -- name    : Formalism.FourierDecayAlt.P.WhittakerVanishingImpliesZero.cof_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:49:55.016885+00:00
 -- url     : https://prove2.me/theorems/b6b77a7b-a57f-4844-b9ca-e7da82086aab

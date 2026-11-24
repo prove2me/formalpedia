@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_glRest_comm
 -- name    : Formalism.InvariantFactorPaths.L4.glRest_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:43:23.062504+00:00
 -- url     : https://prove2.me/theorems/0c3c770b-5dd5-43f0-8860-0f0909274ccf

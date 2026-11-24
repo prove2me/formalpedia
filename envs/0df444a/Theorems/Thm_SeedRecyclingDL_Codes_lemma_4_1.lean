@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeedRecyclingDL_Codes_lemma_4_1
 -- name    : SeedRecyclingDL.Codes.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:07:57.680861+00:00
 -- url     : https://prove2.me/theorems/c11b3bd6-40d8-4750-9292-5170afc47160

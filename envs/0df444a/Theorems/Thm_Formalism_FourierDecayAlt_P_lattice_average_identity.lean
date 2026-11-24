@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lattice_average_identity
 -- name    : Formalism.FourierDecayAlt.P.lattice_average_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:11:01.375923+00:00
 -- url     : https://prove2.me/theorems/f836bd1b-f06d-45eb-91b9-62ae6842ac89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_local_page_family
 -- name    : FiniteEnergyPlane.exists_local_page_family
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-04T15:47:34.999596+00:00
 -- url     : https://prove2.me/theorems/2d777368-e587-47e7-b835-41f75a8a3591

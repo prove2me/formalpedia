@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HypercliqueAC0_FixedDepth_Supplement_lemma_8_1
 -- name    : HypercliqueAC0.FixedDepth.Supplement.lemma_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T20:28:30.044766+00:00
 -- url     : https://prove2.me/theorems/84dce50c-fa8e-48a1-bb50-3df43c647741

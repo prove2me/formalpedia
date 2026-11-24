@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_resGal_apply
+-- name    : ReciprocityTheory.Gal.resGal_apply
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-23T23:05:28.41918+00:00
+-- url     : https://prove2.me/theorems/061046de-1701-47ad-be81-1360b45ad718
+-- title:
+--   Gal: res Gal apply
+-- statement:
+--   The Gal construction uses the res Gal apply property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/GaloisValuations/GlobalEA.lean#L17-L17
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/GaloisValuations/GlobalEA.lean#L17-L17
+
+import Definitions.Def_ReciprocityTheory_GaloisValuations_Global
+import Definitions.Def_ReciprocityTheory_Hypotheses_Descent
+import Definitions.Def_ReciprocityTheory_GaloisValuations_GlobalEA
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open NumberField IsDedekindDomain Pointwise
+open ReciprocityTheory ReciprocityTheory.Gal
+open Formalism.ConjugateSelfDual ReciprocityTheory.Hyp
+variable {F L Ω : Type*} [Field F] [Field L] [Field Ω] [Algebra F L] [Algebra F Ω] [Algebra L Ω]
+  [IsScalarTower F L Ω]
+
+theorem ReciprocityTheory.Gal.resGal_apply (σ : G L Ω) (x : Ω) : resGal F L Ω σ x = σ x := by sorry
+
+attribute [defeq] ReciprocityTheory.Gal.resGal_apply

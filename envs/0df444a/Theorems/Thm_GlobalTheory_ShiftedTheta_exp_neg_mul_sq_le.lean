@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftedTheta_exp_neg_mul_sq_le
 -- name    : GlobalTheory.ShiftedTheta.exp_neg_mul_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:45:47.02492+00:00
 -- url     : https://prove2.me/theorems/3dbd7a19-18c6-4932-8c31-4d6f47f2d0f9

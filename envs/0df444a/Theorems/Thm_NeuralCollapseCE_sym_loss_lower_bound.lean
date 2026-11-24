@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuralCollapseCE_sym_loss_lower_bound
 -- name    : NeuralCollapseCE.sym_loss_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:09:53.052104+00:00
 -- url     : https://prove2.me/theorems/28416293-fc53-4830-998b-f18b5a80b2cf

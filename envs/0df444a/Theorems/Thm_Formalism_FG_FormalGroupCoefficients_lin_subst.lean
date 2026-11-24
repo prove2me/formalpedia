@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_FormalGroupCoefficients_lin_subst
 -- name    : Formalism.FG.FormalGroupCoefficients.lin_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:37:14.468933+00:00
 -- url     : https://prove2.me/theorems/c798359a-d62e-4f31-9e21-8d809475b247

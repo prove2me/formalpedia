@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftedTheta_summable_exp_neg_mul_sq
 -- name    : GlobalTheory.ShiftedTheta.summable_exp_neg_mul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:45:54.642289+00:00
 -- url     : https://prove2.me/theorems/56910628-f531-4dfe-bfa1-b5d6a632cd1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_fock_eq
 -- name    : Formalism.GM.leadingTermLemmas.fock_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:40.857986+00:00
 -- url     : https://prove2.me/theorems/aefc198b-9463-45c1-9c24-7854e78a0aff

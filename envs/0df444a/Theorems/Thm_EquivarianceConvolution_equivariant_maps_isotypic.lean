@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquivarianceConvolution_equivariant_maps_isotypic
 -- name    : EquivarianceConvolution.equivariant_maps_isotypic
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T20:01:39.641198+00:00
 -- url     : https://prove2.me/theorems/e61578fa-1161-4746-8a5b-373fa96549a4

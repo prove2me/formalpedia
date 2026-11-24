@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_phi_differentiable
 -- name    : Kyprianou.Ch08.StageB.p2m89_phi_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:58:04.882878+00:00
 -- url     : https://prove2.me/theorems/4b8689ff-ccb8-4407-8800-39b117156f5d

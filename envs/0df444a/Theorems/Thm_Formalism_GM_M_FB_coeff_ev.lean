@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_FB_coeff_ev
 -- name    : Formalism.GM.M.FB.coeff_ev
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:26.219046+00:00
 -- url     : https://prove2.me/theorems/13fda58c-6930-401c-827c-49a4190c0009

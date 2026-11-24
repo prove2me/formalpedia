@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_topV
 -- name    : Formalism.GM.M.topV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:13:12.93391+00:00
 -- url     : https://prove2.me/theorems/6ce118a5-29cc-49a0-be0f-1e0b3b2d4def

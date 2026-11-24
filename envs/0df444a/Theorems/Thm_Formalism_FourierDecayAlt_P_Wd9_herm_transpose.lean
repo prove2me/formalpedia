@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd9_herm_transpose
 -- name    : Formalism.FourierDecayAlt.P.Wd9.herm_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:47:34.930735+00:00
 -- url     : https://prove2.me/theorems/c896d928-75a2-4d6c-8b87-c7d7c04e0e40

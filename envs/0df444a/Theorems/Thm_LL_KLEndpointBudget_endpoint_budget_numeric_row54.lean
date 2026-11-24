@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_KLEndpointBudget_endpoint_budget_numeric_row54
 -- name    : LL_KLEndpointBudget.endpoint_budget_numeric_row54
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-23T18:09:54.826191+00:00
 -- url     : https://prove2.me/theorems/46b4a1d6-7b31-4450-b03d-03165e9504df

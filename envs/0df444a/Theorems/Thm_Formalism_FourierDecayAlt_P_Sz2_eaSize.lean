@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz2_eaSize
 -- name    : Formalism.FourierDecayAlt.P.Sz2.eaSize
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:31:53.210409+00:00
 -- url     : https://prove2.me/theorems/86024d7e-7b0f-4f55-800b-43bcdaf3ae51

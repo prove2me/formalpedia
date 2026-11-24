@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_biHom_Xsq
 -- name    : Formalism.GM.leadingTermLemmas.biHom_Xsq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:26.991735+00:00
 -- url     : https://prove2.me/theorems/4514cdbf-7e5d-499d-9f0f-b9dcba42c310

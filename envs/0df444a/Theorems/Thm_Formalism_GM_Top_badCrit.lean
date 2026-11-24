@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_Top_badCrit
 -- name    : Formalism.GM.Top.badCrit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:49.722816+00:00
 -- url     : https://prove2.me/theorems/17d962fd-7ed3-41de-8dd8-f19eb1e8d46f

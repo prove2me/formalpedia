@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_jet_insert
 -- name    : Formalism.DworkPowerSeriesWeights.jet_insert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:00:05.752363+00:00
 -- url     : https://prove2.me/theorems/c41c83ab-3b90-47b3-91ce-507500711b3a

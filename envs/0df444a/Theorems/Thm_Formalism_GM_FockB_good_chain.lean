@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_good_chain
 -- name    : Formalism.GM.FockB.good_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:20.043828+00:00
 -- url     : https://prove2.me/theorems/cff92024-f162-4ea5-a534-022086853e90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_normaliseBrownianMotionZeroAtOriginV1
 -- name    : Kyprianou.Ch02.normaliseBrownianMotionZeroAtOriginV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:37:28.237812+00:00
 -- url     : https://prove2.me/theorems/15fac9f6-c802-43a6-aaf4-a80051d87dfd

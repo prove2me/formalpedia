@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_fock_Dop_term
 -- name    : Formalism.GM.gammaIntegralityLemmas.fock_Dop_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:50:50.966338+00:00
 -- url     : https://prove2.me/theorems/3346346d-3c1a-44ce-bec6-d9e582aade42

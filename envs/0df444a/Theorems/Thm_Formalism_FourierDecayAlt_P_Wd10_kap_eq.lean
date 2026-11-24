@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd10_kap_eq
 -- name    : Formalism.FourierDecayAlt.P.Wd10.kap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:02:51.996689+00:00
 -- url     : https://prove2.me/theorems/ae5b3638-5d2c-4634-b3cd-359cb90fd637

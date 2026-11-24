@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lattice_facts_general
 -- name    : Formalism.FourierDecayAlt.P.lattice_facts_general
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:47:30.896355+00:00
 -- url     : https://prove2.me/theorems/609b5232-ce24-436a-b993-0447825c352b

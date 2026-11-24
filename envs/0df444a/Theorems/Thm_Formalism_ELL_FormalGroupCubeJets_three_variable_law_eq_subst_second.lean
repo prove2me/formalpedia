@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_three_variable_law_eq_subst_second
 -- name    : Formalism.ELL.FormalGroupCubeJets.three_variable_law_eq_subst_second
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:56.146259+00:00
 -- url     : https://prove2.me/theorems/7dd0d33c-c487-449d-bb92-4ae5586f4576

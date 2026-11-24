@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_rti
 -- name    : Formalism.ELL.FormalGroupCubeJets.rti
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:01:52.357983+00:00
 -- url     : https://prove2.me/theorems/59a662d0-7ba2-45aa-ba31-01908629b375

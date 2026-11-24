@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_gammaIntegralityLemmas_zpow_mono__fc2d0d98fdd7
 -- name    : P2M_Formalism_GM_gammaIntegralityLemmas_zpow_mono__fc2d0d98fdd7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:59:59.370977+00:00
 -- url     : https://prove2.me/theorems/f30b79e7-0140-44e2-a43a-be7e67444ef3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldbasis_bidet_rowHom
 -- name    : Formalism.GradedWeylDivisibility.ldbasis_bidet_rowHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:52:45.83068+00:00
 -- url     : https://prove2.me/theorems/05bdce8f-f13a-4d11-b4ed-ba3e6e5c4e1b

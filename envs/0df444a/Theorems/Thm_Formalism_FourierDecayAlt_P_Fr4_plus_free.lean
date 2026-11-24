@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr4_plus_free
 -- name    : Formalism.FourierDecayAlt.P.Fr4.plus_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:58:30.220158+00:00
 -- url     : https://prove2.me/theorems/01586a2d-cb5c-47ba-8de0-1af50c50e3ea

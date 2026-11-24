@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_prod_word
 -- name    : GlobalTheory.Lyndon.prod_word
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:56.437506+00:00
 -- url     : https://prove2.me/theorems/0a4d3ccb-09f3-4fa1-86ef-b4a677d3ff62

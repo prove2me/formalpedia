@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_GeneralRates_cross_sum_upper_bound
 -- name    : RandomListsMatching.GeneralRates.cross_sum_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:41.578202+00:00
 -- url     : https://prove2.me/theorems/d65b1377-4dfe-4a77-bd42-ea197a88da79

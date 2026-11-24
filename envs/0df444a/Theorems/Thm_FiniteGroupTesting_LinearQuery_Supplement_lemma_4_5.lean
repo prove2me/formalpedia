@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteGroupTesting_LinearQuery_Supplement_lemma_4_5
 -- name    : FiniteGroupTesting.LinearQuery.Supplement.lemma_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T20:20:49.497562+00:00
 -- url     : https://prove2.me/theorems/cfc95f58-fd91-47af-ac0f-5e290264824a

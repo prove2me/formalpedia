@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueEquivalence_ve_space_all_policies_all_functions
 -- name    : ValueEquivalence.ve_space_all_policies_all_functions
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:49:37.563737+00:00
 -- url     : https://prove2.me/theorems/2117be66-0432-42cb-b802-f81e0dd6abed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_massRatioFormula
 -- name    : Formalism.FourierDecayAlt.P.massRatioFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:10.903838+00:00
 -- url     : https://prove2.me/theorems/35b91e32-7b89-4b25-a48a-6dd680dd4af7

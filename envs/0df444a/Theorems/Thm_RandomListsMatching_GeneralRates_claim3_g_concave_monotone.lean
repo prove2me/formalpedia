@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_GeneralRates_claim3_g_concave_monotone
 -- name    : RandomListsMatching.GeneralRates.claim3_g_concave_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:09:11.217227+00:00
 -- url     : https://prove2.me/theorems/56be67f8-8a45-45bf-93d0-e5096021214f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_fifth_euler_gaussian_majorant
 -- name    : GrothendieckLB.Supplement.cq_fifth_euler_gaussian_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:03:12.143465+00:00
 -- url     : https://prove2.me/theorems/f42acf52-68da-40da-92d0-75222ae5836a

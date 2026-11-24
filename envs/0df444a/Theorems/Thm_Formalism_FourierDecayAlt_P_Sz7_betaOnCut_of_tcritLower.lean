@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz7_betaOnCut_of_tcritLower
 -- name    : Formalism.FourierDecayAlt.P.Sz7.betaOnCut_of_tcritLower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:37:30.382803+00:00
 -- url     : https://prove2.me/theorems/608d78c9-7370-4ce9-87df-ab43ed8f2a54

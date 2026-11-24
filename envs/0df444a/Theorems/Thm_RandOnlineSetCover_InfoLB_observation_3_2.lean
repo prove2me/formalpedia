@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandOnlineSetCover_InfoLB_observation_3_2
 -- name    : RandOnlineSetCover.InfoLB.observation_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:40:48.477589+00:00
 -- url     : https://prove2.me/theorems/8d3e8a79-e202-4bd5-ae2d-628c215c491d

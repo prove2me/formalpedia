@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_count_le
 -- name    : DeletedPrimes.count_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:49:33.052085+00:00
 -- url     : https://prove2.me/theorems/f08467ce-0da0-4cd8-9a1b-3287301b0fdb

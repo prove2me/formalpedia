@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssadiSemiStreaming_Greedy_claim_5_2
 -- name    : AssadiSemiStreaming.Greedy.claim_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T21:39:32.980205+00:00
 -- url     : https://prove2.me/theorems/f7e0b58f-165b-497e-9c22-e5dbd1390381

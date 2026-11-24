@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_pderiv_one_series_at_difference
 -- name    : Formalism.L2.Th1.B.pderiv_one_series_at_difference
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:11.406904+00:00
 -- url     : https://prove2.me/theorems/f203f3c1-53ba-4582-aafc-8f23522d833b

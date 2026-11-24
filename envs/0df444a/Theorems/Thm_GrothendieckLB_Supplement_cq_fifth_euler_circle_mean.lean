@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_fifth_euler_circle_mean
 -- name    : GrothendieckLB.Supplement.cq_fifth_euler_circle_mean
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T19:53:07.337183+00:00
 -- url     : https://prove2.me/theorems/093a51f8-186f-4cc6-baff-85fd1a576b67

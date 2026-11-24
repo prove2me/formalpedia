@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Lim_K_nonneg
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Lim.K_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:55:38.016463+00:00
 -- url     : https://prove2.me/theorems/999c9312-5a27-4386-98a1-18fb125adacc

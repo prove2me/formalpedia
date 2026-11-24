@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.normaliseBrownianPreservesIndependentPRMDriversV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T21:38:38.307807+00:00
 -- url     : https://prove2.me/submissions/6768e437-f173-4c33-9e49-5a029cbe9107
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch02_CompletedPoissonFiltration
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_free_of_new_position
 -- name    : Formalism.FourierDecayAlt.P.frame_free_of_new_position
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:11.696409+00:00
 -- url     : https://prove2.me/theorems/cd8d9fa0-bf25-425c-9591-7d6ba475fd36

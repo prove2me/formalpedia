@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eq30_hasDerivWithinAt_integral_of_slope_dct
 -- name    : eq30_hasDerivWithinAt_integral_of_slope_dct
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-08T16:01:06.050144+00:00
 -- url     : https://prove2.me/theorems/e91b3a01-ebe5-4027-9acc-f0230961ca9e

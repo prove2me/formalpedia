@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.one_level_inequality_split_by_size
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T22:09:57.178277+00:00
+-- url     : https://prove2.me/submissions/7b69ee42-6064-44df-a624-4664c25ad6d7
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementTB
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PositiveSemidefinitePullback
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BlockStartPoints
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FormDomination
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FinitePointSets
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OneLevelCoefficients
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AntidiagMulDiagonal
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OneLevelInequalitySplitBySize
+import Theorems.Thm_Formalism_FourierDecayAlt_P_diagStep
+import Theorems.Thm_Formalism_FourierDecayAlt_P_levelInequalityOfSteps
+import Theorems.Thm_Formalism_FourierDecayAlt_P_longBlockStep
+import Theorems.Thm_Formalism_FourierDecayAlt_P_schurRecursion_true
+import Theorems.Thm_Formalism_FourierDecayAlt_P_singleBlockStep
+import Theorems.Thm_Formalism_FourierDecayAlt_P_splitByLastSize
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.TB.OneLevel :=
+  levelInequalityOfSteps splitByLastSize schurRecursion_true diagStep
+    singleBlockStep longBlockStep
+end Formalism.FourierDecayAlt.P

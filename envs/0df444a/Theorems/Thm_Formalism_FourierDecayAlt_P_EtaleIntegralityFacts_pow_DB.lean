@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_pow_DB
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.pow_DB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:56:36.83323+00:00
 -- url     : https://prove2.me/theorems/77254e1c-c0a5-47d6-8a4e-3663ff4113a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FrozenVariableComponents_wt_le_of_mem
 -- name    : Formalism.GM.FrozenVariableComponents.wt_le_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:24.229984+00:00
 -- url     : https://prove2.me/theorems/8949c5e9-af32-4ae7-80a1-82c3d896fd6d

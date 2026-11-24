@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Erdos273Count_leaf_candidate_count_small
 -- name    : LL_Erdos273Count.leaf_candidate_count_small
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-22T11:32:22.083965+00:00
 -- url     : https://prove2.me/theorems/7cce2ed3-5754-4df9-9f87-26d9f6bbe08c

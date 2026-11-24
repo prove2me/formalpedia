@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_DetValP_entry_one_mem
 -- name    : Formalism.G0.DetValP.entry_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:50.469313+00:00
 -- url     : https://prove2.me/theorems/ed3de3db-08a9-4878-8d4f-fe209d5a8ab3

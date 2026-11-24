@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankMisspec_RankOne_eq_4
 -- name    : LowRankMisspec.RankOne.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T23:16:03.253413+00:00
 -- url     : https://prove2.me/theorems/b4f79092-dde7-4370-918e-417f43876e64

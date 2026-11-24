@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_scalar_convergence
 -- name    : scalar_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T12:15:07.311403+00:00
 -- url     : https://prove2.me/theorems/327bde27-e1e3-466a-9b71-6efea53fe5e8

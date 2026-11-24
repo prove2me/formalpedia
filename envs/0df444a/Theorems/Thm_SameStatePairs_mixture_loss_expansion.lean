@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SameStatePairs_mixture_loss_expansion
 -- name    : SameStatePairs.mixture_loss_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T21:04:01.11054+00:00
 -- url     : https://prove2.me/theorems/b9ad084e-33f3-4f2f-af7b-c18a9d36e28d

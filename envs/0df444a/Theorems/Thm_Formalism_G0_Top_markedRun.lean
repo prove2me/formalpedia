@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_markedRun
 -- name    : Formalism.G0.Top.markedRun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:03.881207+00:00
 -- url     : https://prove2.me/theorems/3ee8de9c-4a01-4d53-aba1-790f76352c8e

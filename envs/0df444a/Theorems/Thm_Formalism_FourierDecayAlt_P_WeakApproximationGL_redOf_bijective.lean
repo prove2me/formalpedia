@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakApproximationGL_redOf_bijective
 -- name    : Formalism.FourierDecayAlt.P.WeakApproximationGL.redOf_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:35:15.79626+00:00
 -- url     : https://prove2.me/theorems/98db31bf-9bd9-44d5-86a7-d03d30b7f629

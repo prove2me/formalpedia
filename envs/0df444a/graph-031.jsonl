@@ -61747,7 +61747,7 @@
 {"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.ReferenceCircularAtlas.amplitude_parameter_margin", "child": "OAIQ249SI012", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38935", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42110", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "GMRDiversity.lemma_2_step_i_decomp", "child": "GMRDiversity_Nondeg", "via": ["statement"]}
+{"parent": "GMRDiversity.lemma_2_step_i_decomp", "child": "GMRDiversity_Nondeg", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38111", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32033", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39634", "child": "OAIQ259US007", "via": ["solution", "statement"]}

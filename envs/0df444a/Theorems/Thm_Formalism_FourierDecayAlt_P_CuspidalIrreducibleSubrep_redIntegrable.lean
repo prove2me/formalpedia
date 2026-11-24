@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CuspidalIrreducibleSubrep_redIntegrable
 -- name    : Formalism.FourierDecayAlt.P.CuspidalIrreducibleSubrep.redIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:01:55.235115+00:00
 -- url     : https://prove2.me/theorems/b2f6cfbb-360c-43bf-a8eb-e7a7caf8c8ef

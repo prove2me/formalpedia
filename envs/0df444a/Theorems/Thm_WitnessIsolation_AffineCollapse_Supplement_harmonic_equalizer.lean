@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WitnessIsolation_AffineCollapse_Supplement_harmonic_equalizer
 -- name    : WitnessIsolation.AffineCollapse.Supplement.harmonic_equalizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T17:52:48.540341+00:00
 -- url     : https://prove2.me/theorems/954399ee-4b5d-4f1a-b561-a3d46c95a624

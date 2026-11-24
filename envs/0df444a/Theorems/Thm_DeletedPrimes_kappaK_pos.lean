@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_kappaK_pos
 -- name    : DeletedPrimes.kappaK_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:44.529151+00:00
 -- url     : https://prove2.me/theorems/ad7f8589-ddea-46ec-b061-db65cfc3055f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_isLocallyConstant_nabs
 -- name    : GlobalTheory.SplitWeil.isLocallyConstant_nabs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:16:35.204658+00:00
 -- url     : https://prove2.me/theorems/939b92c1-2a6c-4e9a-a7de-9c96c80ec6d7

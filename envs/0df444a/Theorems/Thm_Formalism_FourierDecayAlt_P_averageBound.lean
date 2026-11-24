@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_averageBound
 -- name    : Formalism.FourierDecayAlt.P.averageBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:05.4808+00:00
 -- url     : https://prove2.me/theorems/c1b1ed90-2204-451e-9ec6-e6279dbfbf3e

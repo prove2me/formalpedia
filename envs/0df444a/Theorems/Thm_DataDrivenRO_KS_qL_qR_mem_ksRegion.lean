@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenRO_KS_qL_qR_mem_ksRegion
 -- name    : DataDrivenRO.KS.qL_qR_mem_ksRegion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:44:43.540004+00:00
 -- url     : https://prove2.me/theorems/021649a6-4c7c-45f4-9204-a0e67f093e50

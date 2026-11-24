@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Burst9MatrixR1_entry_0_3
 -- name    : LL_Burst9MatrixR1.entry_0_3
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-21T04:28:16.281628+00:00
 -- url     : https://prove2.me/theorems/ec323876-f0d6-464a-bded-e8cdcd7690a7

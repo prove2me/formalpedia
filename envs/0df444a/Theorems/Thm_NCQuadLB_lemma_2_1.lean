@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCQuadLB_lemma_2_1
 -- name    : NCQuadLB.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:29:13.396754+00:00
 -- url     : https://prove2.me/theorems/b72dd4c3-b9f1-4e1d-bffd-61e363a65333

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_compoundPoissonDriftPathCriterionCh02V3
 -- name    : Kyprianou.compoundPoissonDriftPathCriterionCh02V3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T19:29:28.589959+00:00
 -- url     : https://prove2.me/theorems/16247fb4-6695-466f-b022-292129559cb6

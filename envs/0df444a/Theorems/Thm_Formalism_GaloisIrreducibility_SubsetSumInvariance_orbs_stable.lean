@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GaloisIrreducibility_SubsetSumInvariance_orbs_stable
 -- name    : Formalism.GaloisIrreducibility.SubsetSumInvariance.orbs_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:11.71561+00:00
 -- url     : https://prove2.me/theorems/e7686583-b2b4-453f-8746-cdd7a0b15b36

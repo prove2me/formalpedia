@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_GammaExpansion_degH_eq
 -- name    : Formalism.GM.GammaExpansion.degH_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:41.592215+00:00
 -- url     : https://prove2.me/theorems/1953e499-ebc1-41f3-b4c7-bb73253f4461

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz7_edge_bound
 -- name    : Formalism.FourierDecayAlt.P.Sz7.edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:32:39.106948+00:00
 -- url     : https://prove2.me/theorems/4317dfa8-c0f3-433e-b12a-2d66799666b1

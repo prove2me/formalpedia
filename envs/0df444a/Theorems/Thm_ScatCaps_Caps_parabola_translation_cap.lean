@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScatCaps_Caps_parabola_translation_cap
 -- name    : ScatCaps.Caps.parabola_translation_cap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:05:56.558236+00:00
 -- url     : https://prove2.me/theorems/94fd5966-bc48-431d-b876-cdaa7dedc30e

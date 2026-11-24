@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TopsChoiceProbabilityLemmas_prob_eq_of_dependsOn
 -- name    : Formalism.G0.TopsChoiceProbabilityLemmas.prob_eq_of_dependsOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:41:38.092847+00:00
 -- url     : https://prove2.me/theorems/fba8d151-46cb-45f4-9453-9e72ea1a87ca

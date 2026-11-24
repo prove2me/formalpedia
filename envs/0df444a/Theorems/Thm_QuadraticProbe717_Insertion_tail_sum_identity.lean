@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadraticProbe717_Insertion_tail_sum_identity
 -- name    : QuadraticProbe717.Insertion.tail_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:22:01.072023+00:00
 -- url     : https://prove2.me/theorems/4024c685-b85a-471d-ac89-e91e6dc93bbf

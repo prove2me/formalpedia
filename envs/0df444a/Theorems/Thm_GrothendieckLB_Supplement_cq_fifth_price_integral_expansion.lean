@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_fifth_price_integral_expansion
 -- name    : GrothendieckLB.Supplement.cq_fifth_price_integral_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:16:47.073811+00:00
 -- url     : https://prove2.me/theorems/29bbde3e-a37f-45a0-bfc6-9078fc8d4cf5

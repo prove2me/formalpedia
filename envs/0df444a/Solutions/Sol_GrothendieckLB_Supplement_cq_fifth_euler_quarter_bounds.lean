@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckLB.Supplement.cq_fifth_euler_quarter_bounds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:04:29.5429+00:00
 -- url     : https://prove2.me/submissions/295eebea-6846-4ca9-aacb-2e4cf1d1e937
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GrothendieckLB_Supplement_cq_quadrant_gaussian_jacobian
 import Theorems.Thm_GrothendieckLB_Supplement_cq_fifth_euler_gaussian_majorant

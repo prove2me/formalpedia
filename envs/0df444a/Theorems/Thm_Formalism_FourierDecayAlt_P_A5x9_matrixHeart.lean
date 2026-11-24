@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_matrixHeart
 -- name    : Formalism.FourierDecayAlt.P.A5x9.matrixHeart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:08.952146+00:00
 -- url     : https://prove2.me/theorems/2f981561-8be6-4e28-a47b-0c9478128a89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_zero_divisor_rank
 -- name    : zero_divisor_rank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:29.083232+00:00
 -- url     : https://prove2.me/theorems/c9ace702-63f2-4163-85c4-0d3f0e6bb4e7

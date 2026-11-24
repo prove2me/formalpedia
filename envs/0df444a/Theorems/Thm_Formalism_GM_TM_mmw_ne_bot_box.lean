@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_TM_mmw_ne_bot_box
 -- name    : Formalism.GM.TM.mmw_ne_bot_box
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:36.825087+00:00
 -- url     : https://prove2.me/theorems/4f35691b-327f-4459-beac-1d02eb1ca713

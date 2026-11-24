@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_real_subfield_of_galois_spec
 -- name    : Formalism.FrobeniusOrbits.real_subfield_of_galois_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:51.177548+00:00
 -- url     : https://prove2.me/theorems/0240ff6f-3266-4be9-94ba-320e419fbddf

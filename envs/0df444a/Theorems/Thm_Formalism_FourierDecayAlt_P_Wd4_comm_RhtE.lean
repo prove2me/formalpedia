@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd4_comm_RhtE
 -- name    : Formalism.FourierDecayAlt.P.Wd4.comm_RhtE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:46:50.50981+00:00
 -- url     : https://prove2.me/theorems/823b30a1-e224-41b6-b7e4-d6d6475bd430

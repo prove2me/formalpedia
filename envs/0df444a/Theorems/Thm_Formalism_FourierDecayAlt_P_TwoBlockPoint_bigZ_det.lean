@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoBlockPoint_bigZ_det
 -- name    : Formalism.FourierDecayAlt.P.TwoBlockPoint.bigZ_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:40:31.844447+00:00
 -- url     : https://prove2.me/theorems/daef6054-4b96-40ae-b661-e944bde4ae86

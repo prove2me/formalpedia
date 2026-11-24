@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_duality_plus
 -- name    : Formalism.FourierDecayAlt.P.duality_plus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:18:00.572583+00:00
 -- url     : https://prove2.me/theorems/c4200130-80ce-456e-af1a-7e724c7c8e23

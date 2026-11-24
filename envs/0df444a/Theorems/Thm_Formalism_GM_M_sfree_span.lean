@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_sfree_span
 -- name    : Formalism.GM.M.sfree_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:55.418205+00:00
 -- url     : https://prove2.me/theorems/16be3a7d-b86d-4113-9fad-11cf8bd07354

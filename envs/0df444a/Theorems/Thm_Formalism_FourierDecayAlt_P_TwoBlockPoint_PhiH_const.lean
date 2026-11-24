@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoBlockPoint_PhiH_const
 -- name    : Formalism.FourierDecayAlt.P.TwoBlockPoint.PhiH_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:40:17.150804+00:00
 -- url     : https://prove2.me/theorems/64b454f8-cc75-406c-b5db-441e5a1d5c07

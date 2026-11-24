@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_ambiguity_conj_neg
 -- name    : FaulhuberTFA.ambiguity_conj_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:47:00.644858+00:00
 -- url     : https://prove2.me/theorems/bd5b34b7-0b9d-4895-b7fd-bf52d3f24770

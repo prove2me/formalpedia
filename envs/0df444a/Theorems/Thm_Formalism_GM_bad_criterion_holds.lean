@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_bad_criterion_holds
 -- name    : Formalism.GM.bad_criterion_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:19.809872+00:00
 -- url     : https://prove2.me/theorems/048b1657-933d-464a-9f7b-1f54c86e7af0

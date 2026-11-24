@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_fockHerm
 -- name    : Formalism.GradedWeylDivisibility.fockHerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:52:50.415655+00:00
 -- url     : https://prove2.me/theorems/ab10e7b7-3ae0-4e29-b8f3-bb1bd78094ec

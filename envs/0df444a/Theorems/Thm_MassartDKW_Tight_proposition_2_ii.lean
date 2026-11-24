@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassartDKW_Tight_proposition_2_ii
 -- name    : MassartDKW.Tight.proposition_2_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:40:38.585993+00:00
 -- url     : https://prove2.me/theorems/238b1d91-7a28-471e-94fa-ee1690be0c80

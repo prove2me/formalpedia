@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_IsMSRegular_mono
 -- name    : DeletedPrimes.IsMSRegular.mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:45:52.934214+00:00
 -- url     : https://prove2.me/theorems/b1b41a8c-b46e-4d63-98f1-b15890026044

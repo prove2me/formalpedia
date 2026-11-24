@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupQuadraticJets_linearCoeff_zero_subst_X0
 -- name    : Formalism.ELL.FormalGroupQuadraticJets.linearCoeff_zero_subst_X0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:17:51.296453+00:00
 -- url     : https://prove2.me/theorems/657973f2-46e5-4a50-99ae-85513a19af5f

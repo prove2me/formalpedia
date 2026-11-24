@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_chain
 -- name    : Formalism.ELL.FormalGroupCubeJets.chain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:10:09.085565+00:00
 -- url     : https://prove2.me/theorems/909ea1c1-9998-430f-b507-f2a2b48c2f59

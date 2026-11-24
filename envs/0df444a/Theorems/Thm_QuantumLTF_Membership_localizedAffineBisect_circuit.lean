@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_localizedAffineBisect_circuit
 -- name    : QuantumLTF.Membership.localizedAffineBisect_circuit
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-15T20:10:40.461212+00:00
 -- url     : https://prove2.me/theorems/dea77a82-bdb8-4f24-adfc-8091d9a06024

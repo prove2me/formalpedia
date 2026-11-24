@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistributionTheoryMission_classical_huygens
 -- name    : DistributionTheoryMission.classical_huygens
--- status  : Open
+-- status  : Disproved
 -- author  : @liuyao
 -- created : 2026-11-16T02:09:00.446453+00:00
 -- url     : https://prove2.me/theorems/55cbb0c1-a581-46cf-8d03-376abdcc07dd

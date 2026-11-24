@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupQuadraticJets_cc_domega
 -- name    : Formalism.ELL.FormalGroupQuadraticJets.cc_domega
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:17:40.908223+00:00
 -- url     : https://prove2.me/theorems/af92aad7-f341-4cdd-990b-a7c1e07f3faf

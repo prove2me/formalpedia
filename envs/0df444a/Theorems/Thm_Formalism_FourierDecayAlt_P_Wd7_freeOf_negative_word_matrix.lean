@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd7_freeOf_negative_word_matrix
 -- name    : Formalism.FourierDecayAlt.P.Wd7.freeOf_negative_word_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:16:58.323217+00:00
 -- url     : https://prove2.me/theorems/f3d681ee-03e8-4726-b59a-b244d7a287d3

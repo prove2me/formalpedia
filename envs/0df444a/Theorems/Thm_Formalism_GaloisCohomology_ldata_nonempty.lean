@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GaloisCohomology_ldata_nonempty
 -- name    : Formalism.GaloisCohomology.ldata_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:34.715625+00:00
 -- url     : https://prove2.me/theorems/1ad48c6f-eedd-4840-8f95-892bc54cc508

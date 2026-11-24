@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_fifth_euler_quarter_bounds
 -- name    : GrothendieckLB.Supplement.cq_fifth_euler_quarter_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T20:07:31.509426+00:00
 -- url     : https://prove2.me/theorems/8cefbc9f-dca4-4ab0-8c1f-e3d6425d917c

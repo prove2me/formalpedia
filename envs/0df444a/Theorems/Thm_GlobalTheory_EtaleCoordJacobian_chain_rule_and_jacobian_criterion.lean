@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaleCoordJacobian_chain_rule_and_jacobian_criterion
 -- name    : GlobalTheory.EtaleCoordJacobian.chain_rule_and_jacobian_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:51:01.343162+00:00
 -- url     : https://prove2.me/theorems/58b484b7-1e6c-4ab8-ace4-f0121c81117e

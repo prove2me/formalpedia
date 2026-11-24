@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_mem_mertens_sdiff
 -- name    : DeletedPrimes.mem_mertens_sdiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:49:20.963232+00:00
 -- url     : https://prove2.me/theorems/90cf360c-1563-4d49-adc2-6e69e8b83a41

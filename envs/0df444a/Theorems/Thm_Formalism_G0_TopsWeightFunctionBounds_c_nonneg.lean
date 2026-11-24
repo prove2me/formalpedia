@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TopsWeightFunctionBounds_c_nonneg
 -- name    : Formalism.G0.TopsWeightFunctionBounds.c_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:25:18.327124+00:00
 -- url     : https://prove2.me/theorems/3bcb00d0-f626-4fe2-9452-bde17dc86c38

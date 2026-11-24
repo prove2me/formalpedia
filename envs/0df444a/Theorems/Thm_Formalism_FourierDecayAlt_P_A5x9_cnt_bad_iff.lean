@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_cnt_bad_iff
 -- name    : Formalism.FourierDecayAlt.P.A5x9.cnt_bad_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:45:49.522885+00:00
 -- url     : https://prove2.me/theorems/8479f3c0-7e63-413d-ade3-d152b76a11bd

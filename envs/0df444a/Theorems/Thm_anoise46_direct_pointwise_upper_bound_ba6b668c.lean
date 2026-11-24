@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_anoise46_direct_pointwise_upper_bound_ba6b668c
 -- name    : anoise46_direct_pointwise_upper_bound_ba6b668c
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T14:55:49.5152+00:00
 -- url     : https://prove2.me/theorems/eef21028-dd4c-4189-bfaa-10546617fa75

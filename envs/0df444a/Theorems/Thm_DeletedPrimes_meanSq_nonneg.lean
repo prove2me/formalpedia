@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_meanSq_nonneg
 -- name    : DeletedPrimes.meanSq_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:50:07.049418+00:00
 -- url     : https://prove2.me/theorems/1bc59544-5d34-4cfa-8b26-a093938cd43d

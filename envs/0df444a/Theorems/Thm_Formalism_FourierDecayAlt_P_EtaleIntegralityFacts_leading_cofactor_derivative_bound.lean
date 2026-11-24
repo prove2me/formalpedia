@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_leading_cofactor_derivative_bound
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.leading_cofactor_derivative_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:56:57.322175+00:00
 -- url     : https://prove2.me/theorems/a664ec53-bc2a-4d1e-9e33-8b3f0581e7e1

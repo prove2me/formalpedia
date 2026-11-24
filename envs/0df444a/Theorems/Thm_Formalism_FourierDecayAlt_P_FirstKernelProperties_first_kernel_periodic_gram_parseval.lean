@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FirstKernelProperties_first_kernel_periodic_gram_parseval
 -- name    : Formalism.FourierDecayAlt.P.FirstKernelProperties.first_kernel_periodic_gram_parseval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:56:19.033221+00:00
 -- url     : https://prove2.me/theorems/991c4be3-2205-45e5-9ce2-b62083a3d6b6

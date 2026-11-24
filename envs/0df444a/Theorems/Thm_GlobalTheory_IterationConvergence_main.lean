@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IterationConvergence_main
 -- name    : GlobalTheory.IterationConvergence.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:51.710256+00:00
 -- url     : https://prove2.me/theorems/a70692fa-5686-4dde-823d-20951d78e358

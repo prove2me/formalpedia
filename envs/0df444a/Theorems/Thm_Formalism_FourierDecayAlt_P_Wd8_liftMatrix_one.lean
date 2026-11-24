@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd8_liftMatrix_one
 -- name    : Formalism.FourierDecayAlt.P.Wd8.liftMatrix_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:34:38.96852+00:00
 -- url     : https://prove2.me/theorems/9405e802-d10a-42ea-be47-0782f24290ca

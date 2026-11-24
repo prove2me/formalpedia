@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_raising_keeps_early_letters
 -- name    : Formalism.InvariantFactorPaths.L4.raising_keeps_early_letters
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:36:32.927965+00:00
 -- url     : https://prove2.me/theorems/00d908f2-0ac7-44d4-8de2-2b334ff71a4e

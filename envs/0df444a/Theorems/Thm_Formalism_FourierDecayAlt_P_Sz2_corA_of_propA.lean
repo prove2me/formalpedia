@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz2_corA_of_propA
 -- name    : Formalism.FourierDecayAlt.P.Sz2.corA_of_propA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:35:55.739703+00:00
 -- url     : https://prove2.me/theorems/4b984301-7114-4661-a1a6-263ea909fe7f

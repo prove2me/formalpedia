@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_killedSubordinator_givenMaximalRoot
 -- name    : Kyprianou.Ch03.killedSubordinator_givenMaximalRoot
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:40:01.649539+00:00
 -- url     : https://prove2.me/theorems/04928f15-70d5-4849-b3b2-e22a09eccd59

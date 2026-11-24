@@ -7002,24 +7002,24 @@
 {"parent": "MulticlassDS.Compress.claim16_oig_one_correct", "child": "MulticlassDS_Compress_Compression", "via": ["statement"]}
 {"parent": "MulticlassDS.Compress.claim16_oig_one_correct", "child": "MulticlassDS_Compress_Dimensions", "via": ["statement"]}
 {"parent": "MulticlassDS.Compress.claim16_oig_one_correct", "child": "MulticlassDS_Compress_OneInclusion", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.claim22_shift_proj_card", "child": "MulticlassDS_Compress_Dimensions", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.claim22_shift_proj_card", "child": "MulticlassDS_Compress_Shifting", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.claim26_shift_avd_prime", "child": "MulticlassDS_Compress_Shifting", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.cor23_shift_expDim", "child": "MulticlassDS_Compress_Shifting", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.cor28_orientation_expDim", "child": "MulticlassDS_Compress_OneInclusion", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.cor28_orientation_expDim", "child": "MulticlassDS_Compress_Shifting", "via": ["statement"]}
+{"parent": "MulticlassDS.Compress.claim22_shift_proj_card", "child": "MulticlassDS_Compress_Dimensions", "via": ["solution", "statement"]}
+{"parent": "MulticlassDS.Compress.claim22_shift_proj_card", "child": "MulticlassDS_Compress_Shifting", "via": ["solution", "statement"]}
+{"parent": "MulticlassDS.Compress.claim26_shift_avd_prime", "child": "MulticlassDS_Compress_Shifting", "via": ["solution", "statement"]}
+{"parent": "MulticlassDS.Compress.cor23_shift_expDim", "child": "MulticlassDS_Compress_Shifting", "via": ["solution", "statement"]}
+{"parent": "MulticlassDS.Compress.cor28_orientation_expDim", "child": "MulticlassDS_Compress_OneInclusion", "via": ["solution", "statement"]}
+{"parent": "MulticlassDS.Compress.cor28_orientation_expDim", "child": "MulticlassDS_Compress_Shifting", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.fact14_leave_one_out", "child": "MulticlassDS_Compress_Probability", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.lemma13_orientation_le_d", "child": "MulticlassDS_Compress_Dimensions", "via": ["statement"]}
 {"parent": "MulticlassDS.Compress.lemma13_orientation_le_d", "child": "MulticlassDS_Compress_OneInclusion", "via": ["statement"]}
 {"parent": "MulticlassDS.Compress.lemma17_orientation_natarajan", "child": "MulticlassDS_Compress_Dimensions", "via": ["statement"]}
 {"parent": "MulticlassDS.Compress.lemma17_orientation_natarajan", "child": "MulticlassDS_Compress_OneInclusion", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.lemma29_expDim_le", "child": "MulticlassDS_Compress_Dimensions", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.lemma29_expDim_le", "child": "MulticlassDS_Compress_Shifting", "via": ["statement"]}
+{"parent": "MulticlassDS.Compress.lemma29_expDim_le", "child": "MulticlassDS_Compress_Dimensions", "via": ["solution", "statement"]}
+{"parent": "MulticlassDS.Compress.lemma29_expDim_le", "child": "MulticlassDS_Compress_Shifting", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.lemma39_list_compression", "child": "MulticlassDS_Compress_Compression", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.lemma39_list_compression", "child": "MulticlassDS_Compress_Dimensions", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.lemma40_menu_compression", "child": "MulticlassDS_Compress_Compression", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.lemma40_menu_compression", "child": "MulticlassDS_Compress_Dimensions", "via": ["solution", "statement"]}
-{"parent": "MulticlassDS.Compress.prop27_avd_le_four_expDim", "child": "MulticlassDS_Compress_Shifting", "via": ["statement"]}
+{"parent": "MulticlassDS.Compress.prop27_avd_le_four_expDim", "child": "MulticlassDS_Compress_Shifting", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.prop32_list_learner", "child": "MulticlassDS_Compress_Compression", "via": ["statement"]}
 {"parent": "MulticlassDS.Compress.prop32_list_learner", "child": "MulticlassDS_Compress_Dimensions", "via": ["statement"]}
 {"parent": "MulticlassDS.Compress.prop32_list_learner", "child": "MulticlassDS_Compress_OneInclusion", "via": ["statement"]}
@@ -11762,7 +11762,7 @@
 {"parent": "NonuniformKuramoto_PhaseSync_Rate", "child": "NonuniformKuramoto_CondII_Constants", "via": ["statement"]}
 {"parent": "NonuniformKuramoto_PhaseSync_Rate", "child": "NonuniformKuramoto_CondI_Constants", "via": ["statement"]}
 {"parent": "NormIndex_AdmissibleExpOfDegree", "child": "PrimeNormIndex_AdmissibleExpAt", "via": ["statement"]}
-{"parent": "Normal.ae_isNormalReal", "child": "Normal_Core", "via": ["statement"]}
+{"parent": "Normal.ae_isNormalReal", "child": "Normal_Core", "via": ["solution", "statement"]}
 {"parent": "Normal.champGen_normal", "child": "Normal_Core", "via": ["solution", "statement"]}
 {"parent": "Normal.champernowneConstant_normal", "child": "Normal_Core", "via": ["solution", "statement"]}
 {"parent": "Normal.copelandErdosConstant_normal", "child": "Normal_Core", "via": ["solution", "statement"]}
@@ -33243,8 +33243,8 @@
 {"parent": "QCQPTightness.ConvHull.theorem_1", "child": "QCQPTightness_ConvHull_Faces", "via": ["solution", "statement"]}
 {"parent": "QCQPTightness.ConvHull.theorem_1", "child": "QCQPTightness_ConvHull_QCQP", "via": ["solution", "statement"]}
 {"parent": "QCQPTightness.Exact.lemma_1", "child": "QCQPTightness_Exact_QCQP", "via": ["statement"]}
-{"parent": "QCQPTightness.Exact.lemma_2", "child": "QCQPTightness_Exact_Faces", "via": ["statement"]}
-{"parent": "QCQPTightness.Exact.lemma_2", "child": "QCQPTightness_Exact_QCQP", "via": ["statement"]}
+{"parent": "QCQPTightness.Exact.lemma_2", "child": "QCQPTightness_Exact_Faces", "via": ["solution", "statement"]}
+{"parent": "QCQPTightness.Exact.lemma_2", "child": "QCQPTightness_Exact_QCQP", "via": ["solution", "statement"]}
 {"parent": "QCQPTightness.Exact.lemma_3", "child": "QCQPTightness_Exact_Faces", "via": ["statement"]}
 {"parent": "QCQPTightness.Exact.lemma_3", "child": "QCQPTightness_Exact_QCQP", "via": ["statement"]}
 {"parent": "QCQPTightness.Exact.lemma_8", "child": "QCQPTightness_Exact_Faces", "via": ["statement"]}
@@ -37583,9 +37583,9 @@
 {"parent": "QuadMatIneq.Basic.eq_3_4", "child": "QuadMatIneq_Basic_QMI", "via": ["solution", "statement"]}
 {"parent": "QuadMatIneq.Basic.nonempty_iff_schur_psd", "child": "QuadMatIneq_Basic_QMI", "via": ["solution", "statement"]}
 {"parent": "QuadMatIneq.Basic.theorem_3_2", "child": "QuadMatIneq_Basic_QMI", "via": ["solution", "statement"]}
-{"parent": "QuadMatIneq.Basic.theorem_3_2_b", "child": "QuadMatIneq_Basic_QMI", "via": ["statement"]}
-{"parent": "QuadMatIneq.Basic.theorem_3_2_c", "child": "QuadMatIneq_Basic_QMI", "via": ["statement"]}
-{"parent": "QuadMatIneq.Basic.theorem_3_2_e", "child": "QuadMatIneq_Basic_QMI", "via": ["statement"]}
+{"parent": "QuadMatIneq.Basic.theorem_3_2_b", "child": "QuadMatIneq_Basic_QMI", "via": ["solution", "statement"]}
+{"parent": "QuadMatIneq.Basic.theorem_3_2_c", "child": "QuadMatIneq_Basic_QMI", "via": ["solution", "statement"]}
+{"parent": "QuadMatIneq.Basic.theorem_3_2_e", "child": "QuadMatIneq_Basic_QMI", "via": ["solution", "statement"]}
 {"parent": "QuadMatIneq.Finsler.eq_4_6", "child": "QuadMatIneq_Finsler_QMI", "via": ["solution", "statement"]}
 {"parent": "QuadMatIneq.Finsler.eq_4_7", "child": "QuadMatIneq_Finsler_QMI", "via": ["solution", "statement"]}
 {"parent": "QuadMatIneq.Finsler.exists_alpha", "child": "QuadMatIneq_Finsler_QMI", "via": ["statement"]}
@@ -43796,12 +43796,12 @@
 {"parent": "RandomListsMatching.Concentration.lemma1_alg_lower_tail", "child": "RandomListsMatching_Concentration_Setting", "via": ["solution", "statement"]}
 {"parent": "RandomListsMatching.Concentration.lemma2_opt_upper_tail", "child": "RandomListsMatching_Concentration_Setting", "via": ["solution", "statement"]}
 {"parent": "RandomListsMatching.Concentration.ratio_concentration", "child": "RandomListsMatching_Concentration_Setting", "via": ["solution", "statement"]}
-{"parent": "RandomListsMatching.GeneralRates.chord_lower_bound", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["statement"]}
-{"parent": "RandomListsMatching.GeneralRates.claim3_g_concave_monotone", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["statement"]}
-{"parent": "RandomListsMatching.GeneralRates.claim3_g_monotone_first_arg", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["statement"]}
-{"parent": "RandomListsMatching.GeneralRates.claim3_h_convex_antitone", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["statement"]}
-{"parent": "RandomListsMatching.GeneralRates.cross_sum_upper_bound", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["statement"]}
-{"parent": "RandomListsMatching.GeneralRates.eq5_tangent_bound", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["statement"]}
+{"parent": "RandomListsMatching.GeneralRates.chord_lower_bound", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["solution", "statement"]}
+{"parent": "RandomListsMatching.GeneralRates.claim3_g_concave_monotone", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["solution", "statement"]}
+{"parent": "RandomListsMatching.GeneralRates.claim3_g_monotone_first_arg", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["solution", "statement"]}
+{"parent": "RandomListsMatching.GeneralRates.claim3_h_convex_antitone", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["solution", "statement"]}
+{"parent": "RandomListsMatching.GeneralRates.cross_sum_upper_bound", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["solution", "statement"]}
+{"parent": "RandomListsMatching.GeneralRates.eq5_tangent_bound", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["solution", "statement"]}
 {"parent": "RandomListsMatching.GeneralRates.reduction_to_R", "child": "RandomListsMatching_GeneralRates_Setting", "via": ["statement"]}
 {"parent": "RandomReservoir.Static.eq_20", "child": "RandomReservoir_Static_Setting", "via": ["statement"]}
 {"parent": "RandomReservoir.Static.eq_21", "child": "RandomReservoir_Static_Setting", "via": ["statement"]}
@@ -47425,11 +47425,11 @@
 {"parent": "RhinViola.integerLinearFormExponentialCriterion", "child": "RhinViola.selectedIndexErrorLowerBound", "via": ["solution", "statement"]}
 {"parent": "RhinViola.integerLinearFormHasSumFinset", "child": "RhinViola.integerLinearFormHasSumAdd", "via": ["solution", "statement"]}
 {"parent": "RhinViola.integerLinearFormScaledLowerBound", "child": "RhinViola.integerLinearFormDichotomy", "via": ["solution", "statement"]}
-{"parent": "RhinViola.monomialKernelLIntegralEqGeometricSeries", "child": "RhinViola.weightedGeometricKernelENNRealTsumIoc", "via": ["statement"]}
-{"parent": "RhinViola.normalizedLogCoefficientLimitToExponentialBound", "child": "RhinViola.normalizedLogCoefficientBoundToExponential", "via": ["statement"]}
-{"parent": "RhinViola.normalizedLogCoefficientLimitToExponentialBound", "child": "RhinViola.normalizedLogLimitEventuallyBand", "via": ["statement"]}
-{"parent": "RhinViola.normalizedLogLimitToExponentialBounds", "child": "RhinViola.normalizedLogBoundsToExponentialBounds", "via": ["statement"]}
-{"parent": "RhinViola.normalizedLogLimitToExponentialBounds", "child": "RhinViola.normalizedLogLimitEventuallyBand", "via": ["statement"]}
+{"parent": "RhinViola.monomialKernelLIntegralEqGeometricSeries", "child": "RhinViola.weightedGeometricKernelENNRealTsumIoc", "via": ["solution", "statement"]}
+{"parent": "RhinViola.normalizedLogCoefficientLimitToExponentialBound", "child": "RhinViola.normalizedLogCoefficientBoundToExponential", "via": ["solution", "statement"]}
+{"parent": "RhinViola.normalizedLogCoefficientLimitToExponentialBound", "child": "RhinViola.normalizedLogLimitEventuallyBand", "via": ["solution", "statement"]}
+{"parent": "RhinViola.normalizedLogLimitToExponentialBounds", "child": "RhinViola.normalizedLogBoundsToExponentialBounds", "via": ["solution", "statement"]}
+{"parent": "RhinViola.normalizedLogLimitToExponentialBounds", "child": "RhinViola.normalizedLogLimitEventuallyBand", "via": ["solution", "statement"]}
 {"parent": "RhinViola.reciprocalGapTailHasSum", "child": "RhinViola.reciprocalTailDifferenceHasSum", "via": ["solution", "statement"]}
 {"parent": "RhinViola.scaledDiagonalHarmonicRangeLcm", "child": "RhinViola.rangeLcmDivides", "via": ["statement"]}
 {"parent": "RhinViola.scaledDiagonalHarmonicRangeLcm", "child": "RhinViola.scaledReciprocalSquareBlockNat", "via": ["statement"]}
@@ -52245,13 +52245,13 @@
 {"parent": "SPC4Disk.range_diskCollar_mem_nhds", "child": "SPC4DiskCollar", "via": ["solution", "statement"]}
 {"parent": "SPC4DiskCollar", "child": "SPC4DiskCharts", "via": ["statement"]}
 {"parent": "SPHardness.FixedRecourse.eq_4", "child": "SPHardness_FixedRecourse_Model", "via": ["statement"]}
-{"parent": "SPHardness.FixedRecourse.eq_8", "child": "SPHardness_FixedRecourse_Model", "via": ["statement"]}
+{"parent": "SPHardness.FixedRecourse.eq_8", "child": "SPHardness_FixedRecourse_Model", "via": ["solution", "statement"]}
 {"parent": "SPHardness.FixedRecourse.lemma_1", "child": "SPHardness_FixedRecourse_Model", "via": ["statement"]}
-{"parent": "SPHardness.FixedRecourse.lemma_2", "child": "SPHardness_FixedRecourse_Model", "via": ["statement"]}
+{"parent": "SPHardness.FixedRecourse.lemma_2", "child": "SPHardness_FixedRecourse_Model", "via": ["solution", "statement"]}
 {"parent": "SPHardness.FixedRecourse.secondStage_value", "child": "SPHardness_FixedRecourse_Model", "via": ["solution", "statement"]}
 {"parent": "SPHardness.FixedRecourse.theorem_1", "child": "SPHardness_FixedRecourse_Model", "via": ["solution", "statement"]}
 {"parent": "SPHardness.FixedRecourse.theorem_1_estimate", "child": "SPHardness_FixedRecourse_Model", "via": ["statement"]}
-{"parent": "SPHardness.FixedRecourse.vol_lipschitz", "child": "SPHardness_FixedRecourse_Model", "via": ["statement"]}
+{"parent": "SPHardness.FixedRecourse.vol_lipschitz", "child": "SPHardness_FixedRecourse_Model", "via": ["solution", "statement"]}
 {"parent": "SPHardness.FixedRecourse.xstar_integer_first_eq_D", "child": "SPHardness_FixedRecourse_Model", "via": ["statement"]}
 {"parent": "SPHardness.IntFeas.epsOptimal_bound", "child": "SPHardness_IntFeas_Model", "via": ["solution", "statement"]}
 {"parent": "SPHardness.IntFeas.lemma_4", "child": "SPHardness_IntFeas_Model", "via": ["solution", "statement"]}
@@ -52663,8 +52663,8 @@
 {"parent": "ScatCaps.Caps.baer_subplane", "child": "ScatCaps_LinearSets_Model", "via": ["solution", "statement"]}
 {"parent": "ScatCaps.Caps.lemma_2_8", "child": "ScatCaps_LinearSets_Model", "via": ["statement"]}
 {"parent": "ScatCaps.Caps.lemma_4_5", "child": "ScatCaps_Caps_Model", "via": ["statement"]}
-{"parent": "ScatCaps.Caps.lemma_4_6", "child": "ScatCaps_Caps_Model", "via": ["statement"]}
-{"parent": "ScatCaps.Caps.parabola_translation_cap", "child": "ScatCaps_Caps_Model", "via": ["statement"]}
+{"parent": "ScatCaps.Caps.lemma_4_6", "child": "ScatCaps_Caps_Model", "via": ["solution", "statement"]}
+{"parent": "ScatCaps.Caps.parabola_translation_cap", "child": "ScatCaps_Caps_Model", "via": ["solution", "statement"]}
 {"parent": "ScatCaps.Caps.proposition_2_9", "child": "ScatCaps_LinearSets_Model", "via": ["statement"]}
 {"parent": "ScatCaps.Caps.proposition_4_3", "child": "ScatCaps_Caps_Model", "via": ["statement"]}
 {"parent": "ScatCaps.Caps.proposition_4_3", "child": "ScatCaps_LinearSets_Model", "via": ["statement"]}
@@ -52673,7 +52673,7 @@
 {"parent": "ScatCaps.Caps.theorem_1_3", "child": "ScatCaps_Caps_Model", "via": ["statement"]}
 {"parent": "ScatCaps.Caps.theorem_2_10", "child": "ScatCaps_LinearSets_Model", "via": ["statement"]}
 {"parent": "ScatCaps.Caps.theorem_4_2", "child": "ScatCaps_Caps_Model", "via": ["statement"]}
-{"parent": "ScatCaps.Caps.translation_cap_bound", "child": "ScatCaps_Caps_Model", "via": ["statement"]}
+{"parent": "ScatCaps.Caps.translation_cap_bound", "child": "ScatCaps_Caps_Model", "via": ["solution", "statement"]}
 {"parent": "ScatCaps.LinearSets.baer_subplane", "child": "ScatCaps_LinearSets_Model", "via": ["solution", "statement"]}
 {"parent": "ScatCaps.LinearSets.lemma_2_6", "child": "ScatCaps_LinearSets_Model", "via": ["statement"]}
 {"parent": "ScatCaps.LinearSets.lemma_2_8", "child": "ScatCaps_LinearSets_Model", "via": ["statement"]}
@@ -92678,7 +92678,7 @@
 {"parent": "eq30SlopeThreshold", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
 {"parent": "eq30_affine_clamp_lipschitz", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "eq30_fare_le_first", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
-{"parent": "eq30_hasDerivWithinAt_integral_of_slope_dct", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
+{"parent": "eq30_hasDerivWithinAt_integral_of_slope_dct", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "eq30_hasDerivWithinAt_integral_of_slope_dct", "child": "eq30_integral_slope_eq_slope_of_integral", "via": ["statement"]}
 {"parent": "eq30_hasDerivWithinAt_of_right_affine", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "eq30_hasDerivWithinAt_sub_const", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}

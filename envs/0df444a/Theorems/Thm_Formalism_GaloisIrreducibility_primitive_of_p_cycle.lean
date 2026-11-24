@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GaloisIrreducibility_primitive_of_p_cycle
 -- name    : Formalism.GaloisIrreducibility.primitive_of_p_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:49.088356+00:00
 -- url     : https://prove2.me/theorems/d3981d1f-53fb-489c-9a33-57f9827cf375

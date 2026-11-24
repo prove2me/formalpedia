@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoBlockPoint_sigma_bij
 -- name    : Formalism.FourierDecayAlt.P.TwoBlockPoint.sigma_bij
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:43:46.263461+00:00
 -- url     : https://prove2.me/theorems/38ff8dab-6ac0-44a5-bac6-93a01451b40a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_upwardPassageIsKilledSubordinator
 -- name    : Kyprianou.Ch03.upwardPassageIsKilledSubordinator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T16:43:09.820816+00:00
 -- url     : https://prove2.me/theorems/efbe0553-9313-4c41-93e0-f63051918adb

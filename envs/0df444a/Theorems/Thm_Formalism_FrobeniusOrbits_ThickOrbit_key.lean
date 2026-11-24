@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_ThickOrbit_key
 -- name    : Formalism.FrobeniusOrbits.ThickOrbit.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:44:44.696436+00:00
 -- url     : https://prove2.me/theorems/1d2a2db6-1632-4ee9-a8ce-6a9142816fb0

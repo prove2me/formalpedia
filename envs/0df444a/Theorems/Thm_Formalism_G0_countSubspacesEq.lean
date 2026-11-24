@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_countSubspacesEq
 -- name    : Formalism.G0.countSubspacesEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:21:26.700006+00:00
 -- url     : https://prove2.me/theorems/89bcfbcd-d27f-4e42-84e4-aac181af41fa

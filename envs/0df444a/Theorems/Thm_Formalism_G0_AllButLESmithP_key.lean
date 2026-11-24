@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_AllButLESmithP_key
 -- name    : Formalism.G0.AllButLESmithP.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:44:36.306276+00:00
 -- url     : https://prove2.me/theorems/615760fa-dce9-4f73-b923-287054577258

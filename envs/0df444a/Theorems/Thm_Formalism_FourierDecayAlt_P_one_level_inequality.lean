@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_one_level_inequality
 -- name    : Formalism.FourierDecayAlt.P.one_level_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:33.628229+00:00
 -- url     : https://prove2.me/theorems/6bb17889-f334-4cdd-b2b2-d879f9412aaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeProduct_heckeSum_eq_sum
 -- name    : GlobalTheory.CompanionTheory.HeckeProduct.heckeSum_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:42:40.575089+00:00
 -- url     : https://prove2.me/theorems/5aa3f5ba-4ee1-480f-a241-5d61b0253909

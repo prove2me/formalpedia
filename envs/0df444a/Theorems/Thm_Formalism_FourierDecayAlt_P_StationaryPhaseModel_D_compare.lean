@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_D_compare
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.D_compare
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:29:59.424184+00:00
 -- url     : https://prove2.me/theorems/845c412c-25a2-4d30-8e55-89ee454f9e76

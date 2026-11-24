@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_lemma2Weights
 -- name    : Formalism.ELL.lemma2Weights
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:47.516421+00:00
 -- url     : https://prove2.me/theorems/3bd5d138-5f76-4eba-bf87-43f4fe5e2587

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_crossAmbiguity_eq_stft
 -- name    : FaulhuberTFA.crossAmbiguity_eq_stft
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:46:36.688805+00:00
 -- url     : https://prove2.me/theorems/a062ade3-1b82-4544-b3ce-57f7cc89aaae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr7_dg_mul
 -- name    : Formalism.FourierDecayAlt.P.Fr7.dg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:39:12.090855+00:00
 -- url     : https://prove2.me/theorems/44f5ee88-8055-43b3-a5ad-22e39115cd4c

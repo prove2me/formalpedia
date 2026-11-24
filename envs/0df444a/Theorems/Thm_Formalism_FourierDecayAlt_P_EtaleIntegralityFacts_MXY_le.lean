@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_MXY_le
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.MXY_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:55:46.033805+00:00
 -- url     : https://prove2.me/theorems/7d16801d-2dee-4c9c-a0f7-ed37004bd109

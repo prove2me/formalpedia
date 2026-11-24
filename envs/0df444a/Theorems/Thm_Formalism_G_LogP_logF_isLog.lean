@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G_LogP_logF_isLog
 -- name    : Formalism.G.LogP.logF_isLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:22.684048+00:00
 -- url     : https://prove2.me/theorems/9ff31d46-77ac-4330-a911-e6f8c77b9b93

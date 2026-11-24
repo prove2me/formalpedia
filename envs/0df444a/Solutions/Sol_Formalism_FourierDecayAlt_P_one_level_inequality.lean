@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.one_level_inequality
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T22:09:57.118938+00:00
+-- url     : https://prove2.me/submissions/ed2dd704-9260-4f98-9b53-002b918d0148
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementTA
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DiagonalTopBlock
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OffDiagonalSchurComplement
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_GramConjugationNorm
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PointSetConstantMembership
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BudgetLiftSquareRoot
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AntidiagMulDiagonal
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OneLevelInequality
+import Theorems.Thm_Formalism_FourierDecayAlt_P_cosets_last_block_size_ge_two
+import Theorems.Thm_Formalism_FourierDecayAlt_P_cosets_last_block_size_one
+import Theorems.Thm_Formalism_FourierDecayAlt_P_diagonal_cosets
+import Theorems.Thm_Formalism_FourierDecayAlt_P_diagonal_top_block
+import Theorems.Thm_Formalism_FourierDecayAlt_P_off_diagonal_schur_complement
+import Theorems.Thm_Formalism_FourierDecayAlt_P_one_level_inequality_of_parts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_split_last_block
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.TA.OneLevel :=
+  one_level_inequality_of_parts split_last_block off_diagonal_schur_complement diagonal_top_block
+    diagonal_cosets cosets_last_block_size_one cosets_last_block_size_ge_two
+end Formalism.FourierDecayAlt.P

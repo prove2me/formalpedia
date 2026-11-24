@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_rank_neg_one_of_not_nonneg
 -- name    : rank_neg_one_of_not_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:34.031991+00:00
 -- url     : https://prove2.me/theorems/57a01760-7ca1-4596-a69a-9ff326890f0d

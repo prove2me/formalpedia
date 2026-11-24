@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr4_freeOf2_rmatrix_transpose
 -- name    : Formalism.FourierDecayAlt.P.Fr4.freeOf2_rmatrix_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:58:02.40536+00:00
 -- url     : https://prove2.me/theorems/0142d9bc-97c0-4506-b25c-743d13bd4d7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_TwoBlockPoint_pt_append__77a8e803be09
 -- name    : P2M_Formalism_FourierDecayAlt_P_TwoBlockPoint_pt_append__77a8e803be09
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:02.416293+00:00
 -- url     : https://prove2.me/theorems/22cdedf6-d251-4895-80a4-f597281b8030

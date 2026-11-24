@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_F_osc_quad
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.F_osc_quad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:35:06.996646+00:00
 -- url     : https://prove2.me/theorems/9dd70378-3e8e-4fa3-af71-f942f02f5fda

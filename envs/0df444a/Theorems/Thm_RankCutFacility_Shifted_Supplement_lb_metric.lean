@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankCutFacility_Shifted_Supplement_lb_metric
 -- name    : RankCutFacility.Shifted.Supplement.lb_metric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:21:59.284832+00:00
 -- url     : https://prove2.me/theorems/0c1b7bab-3761-489d-88ec-0bd7f535b4c6

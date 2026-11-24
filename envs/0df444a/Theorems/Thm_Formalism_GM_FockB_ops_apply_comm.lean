@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_ops_apply_comm
 -- name    : Formalism.GM.FockB.ops_apply_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:20:25.162671+00:00
 -- url     : https://prove2.me/theorems/fd0eb836-7381-4574-8468-7796130beac5

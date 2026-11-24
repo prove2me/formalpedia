@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd8_diagScalar_list_prod
 -- name    : Formalism.FourierDecayAlt.P.Wd8.diagScalar_list_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:34:27.067406+00:00
 -- url     : https://prove2.me/theorems/5159c6e3-de0e-4eeb-8acd-db63b74dc41f

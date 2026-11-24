@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_lemma29_expDim_le
 -- name    : MulticlassDS.Compress.lemma29_expDim_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:40:10.289576+00:00
 -- url     : https://prove2.me/theorems/4b5c7a30-59b3-456a-8d16-ea2f91ed384e

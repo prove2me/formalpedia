@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralAgentsWorldModels_theorem1_binomial_quantile_bound
 -- name    : GeneralAgentsWorldModels.theorem1_binomial_quantile_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:39:00.347245+00:00
 -- url     : https://prove2.me/theorems/4d6db3a5-e496-4d61-beef-5588f84db049

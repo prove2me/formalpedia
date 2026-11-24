@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_fibre_zero
 -- name    : Formalism.FourierDecayAlt.P.A5x9.fibre_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:46:09.579724+00:00
 -- url     : https://prove2.me/theorems/70435cdd-78d2-47d6-9458-e78e5d9e64c4

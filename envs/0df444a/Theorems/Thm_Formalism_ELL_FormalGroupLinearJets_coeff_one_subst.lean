@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupLinearJets_coeff_one_subst
 -- name    : Formalism.ELL.FormalGroupLinearJets.coeff_one_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:40:46.17191+00:00
 -- url     : https://prove2.me/theorems/b87a2adc-ea96-48e2-8652-b68ac227652c

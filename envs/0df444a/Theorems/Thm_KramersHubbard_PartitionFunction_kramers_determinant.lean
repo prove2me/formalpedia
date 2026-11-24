@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KramersHubbard_PartitionFunction_kramers_determinant
 -- name    : KramersHubbard.PartitionFunction.kramers_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:04:01.975553+00:00
 -- url     : https://prove2.me/theorems/02180e51-b892-4573-8d9d-dc6422358052

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_aestronglyMeasurable_err
 -- name    : DeletedPrimes.aestronglyMeasurable_err
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:49:51.400687+00:00
 -- url     : https://prove2.me/theorems/fff2105b-6b1d-4b04-b58b-f942f5fcf48a

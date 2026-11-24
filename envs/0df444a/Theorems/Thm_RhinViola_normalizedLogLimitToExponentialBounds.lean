@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RhinViola_normalizedLogLimitToExponentialBounds
 -- name    : RhinViola.normalizedLogLimitToExponentialBounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-05T23:34:34.837579+00:00
 -- url     : https://prove2.me/theorems/bf09d35c-5f87-432a-afb1-bac0ab04c18e

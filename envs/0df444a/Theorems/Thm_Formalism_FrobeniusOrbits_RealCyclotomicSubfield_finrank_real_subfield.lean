@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_RealCyclotomicSubfield_finrank_real_subfield
 -- name    : Formalism.FrobeniusOrbits.RealCyclotomicSubfield.finrank_real_subfield
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:20:06.066354+00:00
 -- url     : https://prove2.me/theorems/a5704834-9997-4bb2-a67a-35950285761d

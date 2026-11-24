@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_norm_K
 -- name    : Formalism.GM.gammaIntegralityLemmas.norm_K
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:36:02.097544+00:00
 -- url     : https://prove2.me/theorems/8f9eacdf-0910-436e-895c-32de9ef4f1e2

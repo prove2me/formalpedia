@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Far_exists_derivBound_nonstationaryCutoff
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Far.exists_derivBound_nonstationaryCutoff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:55:39.128165+00:00
 -- url     : https://prove2.me/theorems/cb7d5bc7-9090-4ea7-a39a-83d7817ef033

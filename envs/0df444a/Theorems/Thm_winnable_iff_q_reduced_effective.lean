@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_winnable_iff_q_reduced_effective
 -- name    : winnable_iff_q_reduced_effective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:44:59.389564+00:00
 -- url     : https://prove2.me/theorems/9896daeb-6ae2-4493-8403-121015dfb2fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_ops_commute
 -- name    : Formalism.GM.FockB.ops_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:16.223624+00:00
 -- url     : https://prove2.me/theorems/d7a636d1-6433-4e49-9191-fdb27def7ae1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadraticProbe717_Insertion_distinct_square_probes
 -- name    : QuadraticProbe717.Insertion.distinct_square_probes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:21:21.063043+00:00
 -- url     : https://prove2.me/theorems/caac5d76-50f9-48b8-af1d-842782d2ab39

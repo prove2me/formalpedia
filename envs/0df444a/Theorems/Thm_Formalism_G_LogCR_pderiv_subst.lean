@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G_LogCR_pderiv_subst
 -- name    : Formalism.G.LogCR.pderiv_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:20:14.615831+00:00
 -- url     : https://prove2.me/theorems/47872fde-35bd-4299-9409-8c4c02e4a695

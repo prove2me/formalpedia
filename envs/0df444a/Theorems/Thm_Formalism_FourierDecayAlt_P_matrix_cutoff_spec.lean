@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_matrix_cutoff_spec
 -- name    : Formalism.FourierDecayAlt.P.matrix_cutoff_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:11:47.661579+00:00
 -- url     : https://prove2.me/theorems/36256c86-f248-4b32-8bc8-966d2e339c57

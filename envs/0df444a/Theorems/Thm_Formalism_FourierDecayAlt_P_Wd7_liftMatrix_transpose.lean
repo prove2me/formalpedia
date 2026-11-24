@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd7_liftMatrix_transpose
 -- name    : Formalism.FourierDecayAlt.P.Wd7.liftMatrix_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:46:40.289165+00:00
 -- url     : https://prove2.me/theorems/549c8307-3b1b-4e09-90c7-005effa1c717

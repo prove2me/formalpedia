@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NodeStableProj_Main_app_C_size_estimate_order_delta_le_half
 -- name    : NodeStableProj.Main.app_C_size_estimate_order_delta_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T16:14:16.895012+00:00
 -- url     : https://prove2.me/theorems/1ff40f55-e7cb-486b-b2f2-a419878299d8

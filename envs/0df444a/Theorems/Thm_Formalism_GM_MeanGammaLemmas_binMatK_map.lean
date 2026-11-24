@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_MeanGammaLemmas_binMatK_map
 -- name    : Formalism.GM.MeanGammaLemmas.binMatK_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:54.511941+00:00
 -- url     : https://prove2.me/theorems/d1312437-4195-4146-804d-6371bf91ab89

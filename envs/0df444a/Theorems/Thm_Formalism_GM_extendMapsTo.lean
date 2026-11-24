@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_extendMapsTo
 -- name    : Formalism.GM.extendMapsTo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:33:56.318273+00:00
 -- url     : https://prove2.me/theorems/18eb6d80-4648-4ac2-a793-f3c112613177

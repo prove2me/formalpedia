@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_mertensSum_sub
 -- name    : DeletedPrimes.mertensSum_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:49:23.370801+00:00
 -- url     : https://prove2.me/theorems/31ff3e0b-65de-49bb-9677-77a891c963bf

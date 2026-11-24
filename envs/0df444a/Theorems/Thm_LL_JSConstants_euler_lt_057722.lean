@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_JSConstants_euler_lt_057722
 -- name    : LL_JSConstants.euler_lt_057722
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-23T17:43:18.687521+00:00
 -- url     : https://prove2.me/theorems/ad10640e-d7e2-4fec-a963-2c846eaf9a98

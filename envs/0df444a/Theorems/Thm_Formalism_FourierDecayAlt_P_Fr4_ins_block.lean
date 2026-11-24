@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr4_ins_block
 -- name    : Formalism.FourierDecayAlt.P.Fr4.ins_block
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:36:32.671014+00:00
 -- url     : https://prove2.me/theorems/cda666be-5ad3-4df4-bc0e-cd1d3fc4be75

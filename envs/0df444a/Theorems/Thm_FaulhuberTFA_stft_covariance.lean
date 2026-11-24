@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_stft_covariance
 -- name    : FaulhuberTFA.stft_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:26:21.821814+00:00
 -- url     : https://prove2.me/theorems/83feee6f-951c-4336-ac64-288181719ff5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_exponent_sizes
 -- name    : Formalism.FourierDecayAlt.P.exponent_sizes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:58.186564+00:00
 -- url     : https://prove2.me/theorems/e1241364-c35d-4ad2-879c-ebdbfc39dc56

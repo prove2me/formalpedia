@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_exists_op_eq_chainP
 -- name    : Formalism.GM.FockB.exists_op_eq_chainP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:13.620994+00:00
 -- url     : https://prove2.me/theorems/44ec760c-3eda-47f4-b43e-f17bfaed01b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_split_xy_matrix
 -- name    : Formalism.FourierDecayAlt.P.split_xy_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:13.932589+00:00
 -- url     : https://prove2.me/theorems/a1653997-eaf0-43dc-a5fb-fa15b2623755

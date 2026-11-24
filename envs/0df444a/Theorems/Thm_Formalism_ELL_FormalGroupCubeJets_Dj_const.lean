@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_Dj_const
 -- name    : Formalism.ELL.FormalGroupCubeJets.Dj_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:01:55.248177+00:00
 -- url     : https://prove2.me/theorems/4c0aefc5-492a-47c9-84b6-a696f154ff17

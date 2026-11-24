@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuralCollapseCE_ce_loss_jensen_bound
 -- name    : NeuralCollapseCE.ce_loss_jensen_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:10:52.360798+00:00
 -- url     : https://prove2.me/theorems/29cc8f9e-d405-487e-a23e-5803749131d3

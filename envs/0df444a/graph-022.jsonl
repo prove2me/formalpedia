@@ -75430,7 +75430,7 @@
 {"parent": "QEC.Locality.daiLiRectangleQubits_eq_centeredRectangleQubits", "child": "QEC_Locality_CorrectablePartition_SmallBoundary", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Bridge.diffSet_comp_equiv", "child": "AaronsonAmbainis_Bridge_Transport", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Bridge.diffSet_comp_equiv", "child": "AaronsonAmbainis_Bridge_Basic", "via": ["solution", "statement"]}
-{"parent": "RankingCertGap.c_bounds", "child": "RankingCertGap_SafetyState", "via": ["statement"]}
+{"parent": "RankingCertGap.c_bounds", "child": "RankingCertGap_SafetyState", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_QuantumTanner_LiftedProductTensorBridge", "child": "QEC_Coding_QuantumTanner_Goodness", "via": ["statement"]}
 {"parent": "QEC_Coding_QuantumTanner_LiftedProductTensorBridge", "child": "QEC_Coding_QuantumTanner_LiftedProductActionBridge", "via": ["statement"]}
 {"parent": "OAI.EisensteinSchwartzPoisson.norm_inverse_horizontalSlice_le", "child": "OAI_NumberTheory_DirichletL_PrimeRows_NormFiberExtraction", "via": ["solution", "statement"]}
@@ -82493,8 +82493,8 @@
 {"parent": "AC02Frege.corollary_5_3_rank_criterion", "child": "AC02Frege_approximants", "via": ["solution", "statement"]}
 {"parent": "AC02Frege.corollary_5_3_rank_criterion", "child": "AC02Frege_PC", "via": ["solution", "statement"]}
 {"parent": "AC02Frege.corollary_5_3_rank_criterion", "child": "AC02Frege_D35Refutation", "via": ["statement"]}
-{"parent": "HalfIndMatch.card_at_tau", "child": "HalfIndMatch_tauR", "via": ["statement"]}
-{"parent": "HalfIndMatch.card_at_tau", "child": "HalfIndMatch_OnlineAlg", "via": ["statement"]}
+{"parent": "HalfIndMatch.card_at_tau", "child": "HalfIndMatch_tauR", "via": ["solution", "statement"]}
+{"parent": "HalfIndMatch.card_at_tau", "child": "HalfIndMatch_OnlineAlg", "via": ["solution", "statement"]}
 {"parent": "SupplyRevenue.sr_real_certificates", "child": "SupplyRevenue_Classes", "via": ["statement"]}
 {"parent": "SupplyRevenue.sr_real_certificates", "child": "SupplyRevenue_CapRev", "via": ["statement"]}
 {"parent": "SupplyRevenue.sr_real_certificates", "child": "SupplyRevenue_BuyMany", "via": ["statement"]}
@@ -91834,7 +91834,7 @@
 {"parent": "QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.exists_local_reduction_of_selected_heavy_vertex", "child": "QEC_Coding_QuantumTanner_CayleyLink", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.exists_local_reduction_of_selected_heavy_vertex", "child": "QEC_Coding_QuantumTanner_NormalViews", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.exists_local_reduction_of_selected_heavy_vertex", "child": "QEC_Coding_QuantumTanner_ViewAssembly", "via": ["solution", "statement"]}
-{"parent": "KramerSaglam.lemma_3_12", "child": "KramerSaglam_TailSeries", "via": ["statement"]}
+{"parent": "KramerSaglam.lemma_3_12", "child": "KramerSaglam_TailSeries", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalTaylorSeries_sub", "child": "QEC_Coding_ExpanderCodes_LPSOriginalExactStabilizer", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalTaylorSeries_sub", "child": "QEC_Coding_ExpanderCodes_LPSOriginalRationalModularEquation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalTaylorSeries_sub", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerQExpansion", "via": ["solution", "statement"]}

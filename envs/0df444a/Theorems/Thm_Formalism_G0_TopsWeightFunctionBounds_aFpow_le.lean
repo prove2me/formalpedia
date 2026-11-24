@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TopsWeightFunctionBounds_aFpow_le
 -- name    : Formalism.G0.TopsWeightFunctionBounds.aFpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:41:32.693427+00:00
 -- url     : https://prove2.me/theorems/bd86cc9e-92ab-4499-98d9-7982a1889bc7

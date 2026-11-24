@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_TM_existsAdaptedBasis
 -- name    : Formalism.GM.TM.existsAdaptedBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:22:59.133616+00:00
 -- url     : https://prove2.me/theorems/c3d21b60-8ad9-4885-bd8b-9a832b522ea3

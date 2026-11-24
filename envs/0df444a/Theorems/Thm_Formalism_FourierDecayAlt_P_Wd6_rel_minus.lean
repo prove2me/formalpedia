@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd6_rel_minus
 -- name    : Formalism.FourierDecayAlt.P.Wd6.rel_minus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:46:03.83902+00:00
 -- url     : https://prove2.me/theorems/6d61cdfd-b369-4be3-acae-010f89b50051

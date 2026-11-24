@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScatCaps_Caps_translation_cap_bound
 -- name    : ScatCaps.Caps.translation_cap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:05:55.761265+00:00
 -- url     : https://prove2.me/theorems/7292cf12-3226-4d28-aa64-6676aec1fc25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd8_vlet_prod_mul_apply
 -- name    : Formalism.FourierDecayAlt.P.Wd8.vlet_prod_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:47:23.2628+00:00
 -- url     : https://prove2.me/theorems/ec7d5033-7604-4676-837d-262df1b8346a

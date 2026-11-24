@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_kappa_formula_holds
 -- name    : Formalism.FourierDecayAlt.P.kappa_formula_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:50:59.295806+00:00
 -- url     : https://prove2.me/theorems/0797b33b-239a-48bf-904f-bc8147435579

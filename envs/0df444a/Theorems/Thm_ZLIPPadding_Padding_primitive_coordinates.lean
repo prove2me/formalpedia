@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZLIPPadding_Padding_primitive_coordinates
 -- name    : ZLIPPadding.Padding.primitive_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:57:46.134611+00:00
 -- url     : https://prove2.me/theorems/86c7c4ac-542d-41bb-823b-04d5bcb70e71

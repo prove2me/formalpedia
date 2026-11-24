@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubadditiveProphet1456_Quarter_capping_consistency
 -- name    : SubadditiveProphet1456.Quarter.capping_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:04:55.952063+00:00
 -- url     : https://prove2.me/theorems/a1275a6d-e785-4ba8-b8ea-7cce851f401f

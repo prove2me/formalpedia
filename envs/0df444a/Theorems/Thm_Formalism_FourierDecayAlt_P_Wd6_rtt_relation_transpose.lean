@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd6_rtt_relation_transpose
 -- name    : Formalism.FourierDecayAlt.P.Wd6.rtt_relation_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:46:11.288802+00:00
 -- url     : https://prove2.me/theorems/5d3ac835-7b41-47a5-a2da-b6358402c2e6

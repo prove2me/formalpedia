@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupQuadraticJets_pderiv_one_subst_X0
 -- name    : Formalism.ELL.FormalGroupQuadraticJets.pderiv_one_subst_X0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:18:05.72802+00:00
 -- url     : https://prove2.me/theorems/f0dc76eb-b934-4d41-9b4b-5fd8fc159f1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_second_gram_and_vanishing
 -- name    : Formalism.FourierDecayAlt.P.second_gram_and_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:16:13.752292+00:00
 -- url     : https://prove2.me/theorems/a40492a4-31f1-4524-8c40-5533813c154b

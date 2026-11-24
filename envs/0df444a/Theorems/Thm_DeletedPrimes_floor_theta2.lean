@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_floor_theta2
 -- name    : DeletedPrimes.floor_theta2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:47:45.02613+00:00
 -- url     : https://prove2.me/theorems/f83afadb-7ee8-4a8a-9b48-c3b85e3f3b74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_one_le_apply_of_q_reduced_of_rank_geq_one
 -- name    : one_le_apply_of_q_reduced_of_rank_geq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:49:11.477039+00:00
 -- url     : https://prove2.me/theorems/76a5ecde-a0a0-466d-b913-f4c5676aec1d

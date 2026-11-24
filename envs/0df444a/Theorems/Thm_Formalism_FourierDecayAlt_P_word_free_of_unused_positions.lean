@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_word_free_of_unused_positions
 -- name    : Formalism.FourierDecayAlt.P.word_free_of_unused_positions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:20:00.696353+00:00
 -- url     : https://prove2.me/theorems/658ec359-11c2-4134-b84d-1dd055d62680

@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.theorem_a_reduction
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T22:13:04.556908+00:00
+-- url     : https://prove2.me/submissions/1ec8022f-2dac-4ded-b4ac-59f166756d53
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementTA
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DiagonalTopBlock
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OffDiagonalSchurComplement
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_GramConjugationNorm
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PointSetConstantMembership
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BudgetLiftSquareRoot
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AntidiagMulDiagonal
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OneLevelInequality
+import Theorems.Thm_Formalism_FourierDecayAlt_P_one_level_inequality
+import Theorems.Thm_Formalism_FourierDecayAlt_P_domination_limit
+import Theorems.Thm_Formalism_FourierDecayAlt_P_epsilon_limit
+import Theorems.Thm_Formalism_FourierDecayAlt_P_reduction_bound_of_one_level
+import Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_joint_theorem_A__e6b3bc7ee1c6
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.TA.TheoremAReduction :=
+  reduction_bound_of_one_level one_level_inequality epsilon_limit domination_limit
+    joint_theorem_A'
+end Formalism.FourierDecayAlt.P

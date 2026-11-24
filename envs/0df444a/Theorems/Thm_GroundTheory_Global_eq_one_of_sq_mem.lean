@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eq_one_of_sq_mem
 -- name    : GroundTheory.Global.eq_one_of_sq_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:22:42.023669+00:00
 -- url     : https://prove2.me/theorems/cfa7d3ed-f035-47b1-bf90-0fabdd7959fa

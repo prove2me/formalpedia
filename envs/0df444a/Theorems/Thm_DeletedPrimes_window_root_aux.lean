@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_window_root_aux
 -- name    : DeletedPrimes.window_root_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:49:07.648824+00:00
 -- url     : https://prove2.me/theorems/e431237d-a406-4b82-bff8-26b202fd6f2d

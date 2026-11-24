@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_cor23_shift_expDim
 -- name    : MulticlassDS.Compress.cor23_shift_expDim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:39:44.019273+00:00
 -- url     : https://prove2.me/theorems/6655bcc4-08e2-4aa8-a2cd-80eee128bace

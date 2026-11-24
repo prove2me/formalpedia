@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd7_free_RRw
 -- name    : Formalism.FourierDecayAlt.P.Wd7.free_RRw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:34:08.410798+00:00
 -- url     : https://prove2.me/theorems/b67f83e6-b9f6-4acf-92ad-6f1ac5a0ec2c

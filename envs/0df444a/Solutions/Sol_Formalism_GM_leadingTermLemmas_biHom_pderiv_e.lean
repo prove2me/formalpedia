@@ -1,0 +1,77 @@
+-- Prove2me | solution 1 for Formalism.GM.leadingTermLemmas.biHom_pderiv_e
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T22:33:04.902056+00:00
+-- url     : https://prove2.me/submissions/76a52ed6-45c9-4e7c-8e40-5096312033dc
+
+import Definitions.Def_Formalism_MahlerMeasure_HasOrder
+import Definitions.Def_Formalism_MahlerMeasure_FinalM
+import Definitions.Def_Formalism_MahlerMeasure_MahlerMeasureProofs_GamLead
+import Theorems.Thm_Formalism_GM_leadingTermLemmas_sum_single_e
+import Theorems.Thm_Formalism_GM_leadingTermLemmas_sum_single_ew
+import Theorems.Thm_Formalism_GM_FrozenVariableComponents_comb_castSucc
+import Theorems.Thm_Formalism_GM_FrozenVariableComponents_comb_last
+import Theorems.Thm_Formalism_GM_FrozenVariableComponents_etaPart_apply
+import Theorems.Thm_Formalism_GM_FrozenVariableComponents_etaPart_comb
+import Theorems.Thm_Formalism_GM_FrozenVariableComponents_llPart_apply
+import Theorems.Thm_Formalism_GM_FrozenVariableComponents_llPart_comb
+import Theorems.Thm_Formalism_GM_M_FB_evVal_castSucc
+import Theorems.Thm_Formalism_GM_M_FB_evVal_last
+import Theorems.Thm_Formalism_GM_M_FB_ext_castSucc
+import Theorems.Thm_Formalism_GM_M_FB_ext_last
+import Theorems.Thm_Formalism_GM_M_FB_res_apply
+import Theorems.Thm_Formalism_GM_M_FB_res_ext
+import Theorems.Thm_Formalism_GM_M_FB_snoc_deg_castSucc
+import Theorems.Thm_Formalism_GM_M_FB_snoc_deg_last
+import Theorems.Thm_Formalism_GM_M_FB_snoc_vec_castSucc
+import Theorems.Thm_Formalism_GM_M_FB_snoc_vec_last
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] Formalism.GM.FrozenVariableComponents.comb_castSucc
+attribute [local simp] Formalism.GM.FrozenVariableComponents.comb_last
+attribute [local simp] Formalism.GM.FrozenVariableComponents.etaPart_apply
+attribute [local simp] Formalism.GM.FrozenVariableComponents.etaPart_comb
+attribute [local simp] Formalism.GM.FrozenVariableComponents.llPart_apply
+attribute [local simp] Formalism.GM.FrozenVariableComponents.llPart_comb
+attribute [local simp] Formalism.GM.M.FB.evVal_castSucc
+attribute [local simp] Formalism.GM.M.FB.evVal_last
+attribute [local simp] Formalism.GM.M.FB.ext_castSucc
+attribute [local simp] Formalism.GM.M.FB.ext_last
+attribute [local simp] Formalism.GM.M.FB.res_apply
+attribute [local simp] Formalism.GM.M.FB.res_ext
+attribute [local simp] Formalism.GM.M.FB.snoc_deg_castSucc
+attribute [local simp] Formalism.GM.M.FB.snoc_deg_last
+attribute [local simp] Formalism.GM.M.FB.snoc_vec_castSucc
+attribute [local simp] Formalism.GM.M.FB.snoc_vec_last
+
+
+
+set_option autoImplicit false
+open Formalism Formalism.GM Formalism.GM.leadingTermLemmas
+open MvPolynomial Finset Formalism.GM
+variable {K σ : Type} [Field K] [Fintype σ] [DecidableEq σ] {r : ℕ} {w e : Fin r → σ}
+variable (hw : Function.Injective w) (he : Function.Injective e) (hwe : ∀ c d, w c ≠ e d)
+include hw he hwe
+namespace Formalism.GM.leadingTermLemmas
+theorem _root_.solution {a b : ℕ} (c : Fin r) {u : MvPolynomial σ K} (hu : BiHom w e a b u) :
+    BiHom w e a (b - 1) (pderiv (e c) u) ∧ (b = 0 → pderiv (e c) u = 0) := by
+  have key : ∀ m ∈ (pderiv (e c) u).support, (∑ c', m (w c')) = a ∧ (∑ c', m (e c')) + 1 = b := by
+    intro m hm
+    rw [mem_support_iff, coeff_pderiv] at hm
+    have h2 : m + Finsupp.single (e c) 1 ∈ u.support := mem_support_iff.mpr (left_ne_zero_of_mul hm)
+    have h3 := hu _ h2
+    simp only [Finsupp.add_apply, Finset.sum_add_distrib] at h3
+    rw [sum_single_e hw he hwe, sum_single_ew hw he hwe] at h3
+    simpa using h3
+  refine ⟨fun m hm => ?_, fun hb => ?_⟩
+  · have := key m hm; exact ⟨this.1, by omega⟩
+  · ext m
+    by_contra h
+    have := key m (mem_support_iff.mpr (by simpa using h))
+    omega
+end Formalism.GM.leadingTermLemmas

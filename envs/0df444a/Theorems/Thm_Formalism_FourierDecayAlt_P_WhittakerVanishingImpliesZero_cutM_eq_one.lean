@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WhittakerVanishingImpliesZero_cutM_eq_one
 -- name    : Formalism.FourierDecayAlt.P.WhittakerVanishingImpliesZero.cutM_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:49:58.120255+00:00
 -- url     : https://prove2.me/theorems/c71dff68-12e8-4258-901b-06b4440af098

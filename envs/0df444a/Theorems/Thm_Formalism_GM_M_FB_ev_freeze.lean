@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_FB_ev_freeze
 -- name    : Formalism.GM.M.FB.ev_freeze
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:12.849503+00:00
 -- url     : https://prove2.me/theorems/58ac7012-0f6f-49c6-9eea-162e6f0f279d

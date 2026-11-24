@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_pderiv_one_parallelogram_defect
 -- name    : Formalism.L2.Th1.B.pderiv_one_parallelogram_defect
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:12.229916+00:00
 -- url     : https://prove2.me/theorems/29f74503-fa98-432a-8695-5d2bddd89ff2

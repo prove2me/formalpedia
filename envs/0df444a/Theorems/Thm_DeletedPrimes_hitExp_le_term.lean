@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_hitExp_le_term
 -- name    : DeletedPrimes.hitExp_le_term
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:44:05.583212+00:00
 -- url     : https://prove2.me/theorems/ae9c84bb-2950-4a62-8e32-e00ddac7321c

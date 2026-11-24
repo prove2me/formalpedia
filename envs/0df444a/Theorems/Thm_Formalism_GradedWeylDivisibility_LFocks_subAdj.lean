@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_LFocks_subAdj
 -- name    : Formalism.GradedWeylDivisibility.LFocks_subAdj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:00:34.939576+00:00
 -- url     : https://prove2.me/theorems/f0056354-f106-4377-941a-c5898495ae2d

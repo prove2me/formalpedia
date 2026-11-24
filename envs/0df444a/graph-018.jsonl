@@ -14084,7 +14084,7 @@
 {"parent": "PiecesCounted.computes_of_answer", "child": "ToTuring_Lib_Unary", "via": ["solution", "statement"]}
 {"parent": "PiecesCounted.computes_of_answer", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
 {"parent": "PiecesCounted.computes_of_answer", "child": "PiecesCounted_PaddedData", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_page_family_along_trajectory", "child": "FiniteEnergyPlane_OpenBook", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_page_family_along_trajectory", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalSeedScoreFactory.Data.flag_eq_one", "child": "Submission_ThreeSum_TernaryWantedBatchCount", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalSeedScoreFactory.Data.flag_eq_one", "child": "Submission_ThreeSum_TernaryPhysicalDigitSpan", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalSeedScoreFactory.Data.flag_eq_one", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernarySeedScoreFactory", "via": ["solution", "statement"]}
@@ -38900,7 +38900,7 @@
 {"parent": "SeshadriPrelim3", "child": "MaximalSeshadriConstants", "via": ["statement"]}
 {"parent": "SeshadriPrelim3", "child": "SeshadriPrelim2", "via": ["statement"]}
 {"parent": "BundleGerbeStable_LocallySplit", "child": "BundleGerbeStable_Diffeologies", "via": ["statement"]}
-{"parent": "TenChallenges.challenge_03_r2", "child": "TenChallenges_Challenge_03", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_03_r2", "child": "TenChallenges_Challenge_03", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Alg.CertTopNet.lamS_unary", "child": "ClauseBound_Alg_TopNet", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Alg.CertTopNet.lamS_unary", "child": "ClauseBound_Alg_CertTopNet", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Alg.CertTopNet.lamS_unary", "child": "PaddedDescent_F_FuelCert", "via": ["solution", "statement"]}
@@ -52543,7 +52543,7 @@
 {"parent": "Groundwork.Sparsify.polyT_stepP", "child": "ToTuring_Poly_Sparsify", "via": ["solution", "statement"]}
 {"parent": "Groundwork.Sparsify.polyT_stepP", "child": "StepMachines_Math_SparsifyProg", "via": ["solution", "statement"]}
 {"parent": "Groundwork.Sparsify.polyT_stepP", "child": "ToTuring_Lib_List3", "via": ["solution", "statement"]}
-{"parent": "TenChallenges.challenge_03_r3", "child": "TenChallenges_Challenge_03", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_03_r3", "child": "TenChallenges_Challenge_03", "via": ["solution", "statement"]}
 {"parent": "MenuCostPricing.theorem_3_1", "child": "MenuCostPricing_Rational", "via": ["statement"]}
 {"parent": "MenuCostPricing.theorem_3_1", "child": "MenuCostPricing_DP", "via": ["statement"]}
 {"parent": "MenuCostPricing.theorem_3_1", "child": "CapacitatedAssort_General_Work", "via": ["statement"]}

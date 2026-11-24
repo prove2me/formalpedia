@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_pderiv_zero_subst_three_variable_law
 -- name    : Formalism.ELL.FormalGroupCubeJets.pderiv_zero_subst_three_variable_law
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:01:10.118639+00:00
 -- url     : https://prove2.me/theorems/59a43b0d-7a5e-4137-a7d7-4ee06a15d834

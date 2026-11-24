@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_jetsOne_of
 -- name    : Formalism.ELL.jetsOne_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:36.713251+00:00
 -- url     : https://prove2.me/theorems/053d9052-c1d9-44e5-a78f-7c1f0cc59b54

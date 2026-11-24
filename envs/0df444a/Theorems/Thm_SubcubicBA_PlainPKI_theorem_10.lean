@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubcubicBA_PlainPKI_theorem_10
 -- name    : SubcubicBA.PlainPKI.theorem_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T15:42:54.29805+00:00
 -- url     : https://prove2.me/theorems/e607c96b-5269-45c6-b7d1-59c32c6676e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_fk_E
 -- name    : Formalism.GM.leadingTermLemmas.fk_E
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:23.224486+00:00
 -- url     : https://prove2.me/theorems/7cfa03c7-698d-41b2-bdc9-a8b2bdd2e04a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_DetDividesP_rho_cc
 -- name    : Formalism.G0.DetDividesP.rho_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:55.577477+00:00
 -- url     : https://prove2.me/theorems/22cf7a10-5a95-4adb-9236-48d6d0bb1c8c

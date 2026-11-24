@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Crit_K_nonneg
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Crit.K_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:56:48.22274+00:00
 -- url     : https://prove2.me/theorems/c268a5fd-3179-4d73-8588-0796d8248f84

@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for Kyprianou.Ch02.sourceFaithfulLevyItoComponentsCoreV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T21:39:36.746623+00:00
 -- url     : https://prove2.me/submissions/8cd44f3e-4982-4f93-8420-08b511006bbe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch02_sourceFaithfulLevyItoIndependentDriversNormalisedV1
 import Theorems.Thm_Kyprianou_Ch02_sourceFaithfulLevyItoComponentsFromNormalisedDriversV1

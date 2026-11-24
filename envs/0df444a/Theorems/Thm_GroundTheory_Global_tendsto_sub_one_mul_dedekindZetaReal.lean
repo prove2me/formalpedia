@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_tendsto_sub_one_mul_dedekindZetaReal
 -- name    : GroundTheory.Global.tendsto_sub_one_mul_dedekindZetaReal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:42.500344+00:00
 -- url     : https://prove2.me/theorems/1a0fea55-b728-45ee-85c3-7042323acb50

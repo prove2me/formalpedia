@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitTailEstimates_norm_orbM_ge
 -- name    : Formalism.FourierDecayAlt.P.OrbitTailEstimates.norm_orbM_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:02:11.365852+00:00
 -- url     : https://prove2.me/theorems/5ca1e161-c3f2-488b-834a-db181092ca42

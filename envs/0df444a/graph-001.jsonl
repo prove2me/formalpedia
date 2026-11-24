@@ -48883,8 +48883,8 @@
 {"parent": "CVPricing.CertEquiv.det_coeff_matrix_pos", "child": "CVPricing_CertEquiv_Model", "via": ["solution", "statement"]}
 {"parent": "CVPricing.CertEquiv.eventA_pos_prob", "child": "CVPricing_CertEquiv_EventA", "via": ["statement"]}
 {"parent": "CVPricing.CertEquiv.eventA_pos_prob", "child": "RobustBooking_Shared_GaussianNoise", "via": ["statement"]}
-{"parent": "CVPricing.CertEquiv.induction_on_eventA", "child": "CVPricing_CertEquiv_CEPrice", "via": ["statement"]}
-{"parent": "CVPricing.CertEquiv.induction_on_eventA", "child": "CVPricing_CertEquiv_EventA", "via": ["statement"]}
+{"parent": "CVPricing.CertEquiv.induction_on_eventA", "child": "CVPricing_CertEquiv_CEPrice", "via": ["solution", "statement"]}
+{"parent": "CVPricing.CertEquiv.induction_on_eventA", "child": "CVPricing_CertEquiv_EventA", "via": ["solution", "statement"]}
 {"parent": "CVPricing.CertEquiv.kolmogorov_dyadic_bound", "child": "RobustBooking_Shared_GaussianNoise", "via": ["statement"]}
 {"parent": "CVPricing.CertEquiv.ls_representation", "child": "CVPricing_CertEquiv_EventA", "via": ["solution", "statement"]}
 {"parent": "CVPricing.Regret.design_matrix_eigenvalue_bounds", "child": "KeskinZeevi_SufficientConditions_LeastSquares", "via": ["solution", "statement"]}
@@ -90247,7 +90247,7 @@
 {"parent": "DataDrivenRO.Guarantee.theorem_3_b", "child": "DataDrivenRO_Guarantee_Setting", "via": ["solution", "statement"]}
 {"parent": "DataDrivenRO.KS.gibbs_max", "child": "DataDrivenRO_KS_Setting", "via": ["solution", "statement"]}
 {"parent": "DataDrivenRO.KS.nemirovski_shapiro", "child": "DataDrivenRO_KS_Setting", "via": ["solution", "statement"]}
-{"parent": "DataDrivenRO.KS.qL_qR_mem_ksRegion", "child": "DataDrivenRO_KS_Setting", "via": ["statement"]}
+{"parent": "DataDrivenRO.KS.qL_qR_mem_ksRegion", "child": "DataDrivenRO_KS_Setting", "via": ["solution", "statement"]}
 {"parent": "DataDrivenRO.KS.support_lagrangian", "child": "DataDrivenRO_KS_Setting", "via": ["statement"]}
 {"parent": "DataDrivenRO.KS.theorem_EC_2", "child": "DataDrivenRO_KS_Setting", "via": ["statement"]}
 {"parent": "DataDrivenRO.KS.theta_endpoint", "child": "DataDrivenRO_KS_Setting", "via": ["solution", "statement"]}

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GrothendieckConstant.grothendieckConst_bounds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-22T18:11:45.511785+00:00
 -- url     : https://prove2.me/submissions/cfd79b35-492c-4f6a-b919-86cfa718604d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_GrothendieckConstantDefs

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadraticProbe717_Insertion_vacancy_count
 -- name    : QuadraticProbe717.Insertion.vacancy_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:21:57.720396+00:00
 -- url     : https://prove2.me/theorems/a5324476-96e8-418d-9725-11fb68f472d2

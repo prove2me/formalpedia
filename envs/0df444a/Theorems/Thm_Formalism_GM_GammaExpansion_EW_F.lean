@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_GammaExpansion_EW_F
 -- name    : Formalism.GM.GammaExpansion.EW_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:42.144615+00:00
 -- url     : https://prove2.me/theorems/98d185d1-368d-45ba-ad4e-102166d364e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamseyValues_ramsey_recursion
 -- name    : RamseyValues.ramsey_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T23:56:55.919529+00:00
 -- url     : https://prove2.me/theorems/861771ca-6368-4115-9343-3da90fb8309f

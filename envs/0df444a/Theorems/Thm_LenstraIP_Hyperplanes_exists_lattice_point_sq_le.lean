@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LenstraIP_Hyperplanes_exists_lattice_point_sq_le
 -- name    : LenstraIP.Hyperplanes.exists_lattice_point_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:03:13.970412+00:00
 -- url     : https://prove2.me/theorems/98f4acfc-f7a0-488c-99f3-f3cc6a9b5e4c

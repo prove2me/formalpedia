@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_SchoenfeldLiS76_liPV_two_ge
 -- name    : LL_SchoenfeldLiS76.liPV_two_ge
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-23T17:39:17.553803+00:00
 -- url     : https://prove2.me/theorems/322d51c1-71d4-4896-a8f0-f704aa743642

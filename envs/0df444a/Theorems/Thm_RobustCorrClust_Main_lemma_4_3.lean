@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustCorrClust_Main_lemma_4_3
 -- name    : RobustCorrClust.Main.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T05:40:40.887297+00:00
 -- url     : https://prove2.me/theorems/8e3390c7-5750-4c21-8da2-a9eab9fd1bac

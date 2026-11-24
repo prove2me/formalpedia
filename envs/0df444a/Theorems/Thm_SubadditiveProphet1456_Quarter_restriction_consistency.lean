@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubadditiveProphet1456_Quarter_restriction_consistency
 -- name    : SubadditiveProphet1456.Quarter.restriction_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:04:55.870356+00:00
 -- url     : https://prove2.me/theorems/4211d09f-df7a-44e9-acd4-286dcb91fcd0

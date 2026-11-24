@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupQuadraticJets_linearCoeff_one_subst_X1
 -- name    : Formalism.ELL.FormalGroupQuadraticJets.linearCoeff_one_subst_X1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:17:48.422532+00:00
 -- url     : https://prove2.me/theorems/e0f41fa0-8112-41d7-b31f-e4c84956e3e9

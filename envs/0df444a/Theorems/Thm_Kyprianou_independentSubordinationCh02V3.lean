@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_independentSubordinationCh02V3
 -- name    : Kyprianou.independentSubordinationCh02V3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T19:28:49.17621+00:00
 -- url     : https://prove2.me/theorems/e130d710-bd7b-4bb5-bc8a-8cbe8de6376d

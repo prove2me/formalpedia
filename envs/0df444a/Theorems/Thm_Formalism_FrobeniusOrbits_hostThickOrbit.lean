@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hostThickOrbit
 -- name    : Formalism.FrobeniusOrbits.hostThickOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:53.017032+00:00
 -- url     : https://prove2.me/theorems/e5e3e22e-7f85-43da-8680-e80fb6c2208f

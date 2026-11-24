@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m86_bv_drift_positive_from_exponent_slope
 -- name    : Kyprianou.Ch08.StageB.p2m86_bv_drift_positive_from_exponent_slope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:49:59.419961+00:00
 -- url     : https://prove2.me/theorems/3c36f7ef-d53f-42c1-872b-27ac50d8ae7d

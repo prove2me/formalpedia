@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_FB_hom_freeze
 -- name    : Formalism.GM.M.FB.hom_freeze
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:48.849794+00:00
 -- url     : https://prove2.me/theorems/eec710e7-4524-46fe-aafe-0784e768d200

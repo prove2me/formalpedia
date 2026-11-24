@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphIsoTesting_FixedGraph_padding_distance_loss
 -- name    : GraphIsoTesting.FixedGraph.padding_distance_loss
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:37:13.040679+00:00
 -- url     : https://prove2.me/theorems/3380e094-692f-4b56-b78a-be511a17ef44

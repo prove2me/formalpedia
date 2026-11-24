@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Sz4_vand_le
 -- name    : Formalism.FourierDecayAlt.P.Sz4.vand_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:36:25.981807+00:00
 -- url     : https://prove2.me/theorems/9ea6b7d0-d1a9-4a1b-9b8e-16a61ae7f108

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_jetsCube_of
 -- name    : Formalism.ELL.jetsCube_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:19.445428+00:00
 -- url     : https://prove2.me/theorems/66ec68aa-3b94-46af-bc1b-4aaad8a35c30

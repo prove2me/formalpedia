@@ -1,0 +1,24 @@
+-- Prove2me | solution 1 for FairSelling.PotTPS.QStage.toStage_soldSet
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-24T01:22:43.501228+00:00
+-- url     : https://prove2.me/submissions/164946fe-0307-4eb7-9c49-97f2d93babc9
+
+import Mathlib
+import Definitions.Def_RequestProject_TPSSefxConfig
+import Definitions.Def_RequestProject_TPSSefxStep
+import Definitions.Def_RequestProject_TPSSefxPot
+
+set_option autoImplicit true
+open scoped BigOperators
+open FairSelling
+open FairSelling.PotTPS
+open ChargeTPS
+variable {G : Type*} [Fintype G] [DecidableEq G] {n : ℕ}
+open FairSelling.PotTPS.QStage
+variable (v : Fin n → G → ℝ) (p : G → ℝ) (eps : ℝ)
+variable {v p eps}
+omit [Fintype G]
+namespace FairSelling.PotTPS.QStage
+theorem _root_.solution (s : QStage G n) : (s.toStage).soldSet = s.sold := rfl
+end FairSelling.PotTPS.QStage

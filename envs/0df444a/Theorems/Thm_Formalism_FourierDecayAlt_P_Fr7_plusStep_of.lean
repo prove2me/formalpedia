@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr7_plusStep_of
 -- name    : Formalism.FourierDecayAlt.P.Fr7.plusStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:58:37.498271+00:00
 -- url     : https://prove2.me/theorems/5d3781d9-db58-4f75-b8c0-db6da6279023

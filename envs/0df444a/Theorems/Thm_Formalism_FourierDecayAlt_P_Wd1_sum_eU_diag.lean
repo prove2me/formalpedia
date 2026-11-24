@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd1_sum_eU_diag
 -- name    : Formalism.FourierDecayAlt.P.Wd1.sum_eU_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:39:55.204051+00:00
 -- url     : https://prove2.me/theorems/7a2977fc-4887-4ffb-a4a4-4848ad7ad045

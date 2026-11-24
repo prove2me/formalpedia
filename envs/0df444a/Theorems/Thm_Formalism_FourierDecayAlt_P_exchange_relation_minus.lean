@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_exchange_relation_minus
 -- name    : Formalism.FourierDecayAlt.P.exchange_relation_minus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:05.557052+00:00
 -- url     : https://prove2.me/theorems/1ae43b5d-6f3b-4404-b8fd-c3da23c8812b

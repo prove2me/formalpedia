@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_vW_ge
 -- name    : Formalism.GM.gammaIntegralityLemmas.vW_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:24:51.712497+00:00
 -- url     : https://prove2.me/theorems/47d85f58-36c8-40b5-87c2-aa5f32177f62

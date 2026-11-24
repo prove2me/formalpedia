@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_GeneralRates_chord_lower_bound
 -- name    : RandomListsMatching.GeneralRates.chord_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:39.938929+00:00
 -- url     : https://prove2.me/theorems/f16f7154-bc14-4fe3-a366-24bf9ca28fae

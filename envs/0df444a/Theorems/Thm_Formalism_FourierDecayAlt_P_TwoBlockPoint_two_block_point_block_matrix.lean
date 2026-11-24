@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoBlockPoint_two_block_point_block_matrix
 -- name    : Formalism.FourierDecayAlt.P.TwoBlockPoint.two_block_point_block_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:45:38.28604+00:00
 -- url     : https://prove2.me/theorems/4be5af7b-6670-49f1-8a37-170d5442e55a

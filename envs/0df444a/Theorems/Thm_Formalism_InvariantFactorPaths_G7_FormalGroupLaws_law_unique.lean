@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLaws_law_unique
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLaws.law_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:23.510779+00:00
 -- url     : https://prove2.me/theorems/500f7420-9e9e-4510-b677-8ab7762e697d

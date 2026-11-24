@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KissingNumber_kissing_number_five_lower
 -- name    : KissingNumber.kissing_number_five_lower
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-21T21:59:17.662062+00:00
 -- url     : https://prove2.me/theorems/a5ae380c-015a-439c-b12e-8bfd14571d89

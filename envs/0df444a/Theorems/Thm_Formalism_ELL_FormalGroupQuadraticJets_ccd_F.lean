@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupQuadraticJets_ccd_F
 -- name    : Formalism.ELL.FormalGroupQuadraticJets.ccd_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:18:05.327803+00:00
 -- url     : https://prove2.me/theorems/b471e9b6-0994-4b13-9e83-f87fc87b3aa5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_ELL_lwP__d436b1ec096b
 -- name    : P2M_Formalism_ELL_lwP__d436b1ec096b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:04:01.237162+00:00
 -- url     : https://prove2.me/theorems/5c459002-0d89-435e-b631-ed6c275a9eba

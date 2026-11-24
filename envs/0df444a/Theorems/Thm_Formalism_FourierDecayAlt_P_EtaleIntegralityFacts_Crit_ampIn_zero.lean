@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Crit_ampIn_zero
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Crit.ampIn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:55:58.800901+00:00
 -- url     : https://prove2.me/theorems/71c453ae-87a9-4840-9584-60e47677bddd

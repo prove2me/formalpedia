@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_lengthBoundOfLayers
 -- name    : Formalism.G0.lengthBoundOfLayers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:41:42.155664+00:00
 -- url     : https://prove2.me/theorems/f08312db-33b9-4102-838e-e10411962941

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_pageFamily_injective_fderiv
 -- name    : FiniteEnergyPlane.exists_pageFamily_injective_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-22T18:05:15.795636+00:00
 -- url     : https://prove2.me/theorems/bb7e0460-b303-4d4b-8f55-fce98e5d8501

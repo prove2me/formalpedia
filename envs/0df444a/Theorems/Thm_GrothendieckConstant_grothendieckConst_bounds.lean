@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckConstant_grothendieckConst_bounds
 -- name    : GrothendieckConstant.grothendieckConst_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-09-23T18:58:23.41099+00:00
 -- url     : https://prove2.me/theorems/0539d3ea-d27f-4cc5-aedf-e47b49885390

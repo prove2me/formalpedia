@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_good_of_ops
 -- name    : Formalism.GM.FockB.good_of_ops
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:21:00.012863+00:00
 -- url     : https://prove2.me/theorems/46d44184-b4ee-4b47-b97e-4f76c39b8f16

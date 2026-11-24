@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_Lemma2Aux_main
 -- name    : Formalism.ELL.Lemma2Aux.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:25:45.911563+00:00
 -- url     : https://prove2.me/theorems/5f6e96b2-8a4f-4668-b919-099a68d51a0a

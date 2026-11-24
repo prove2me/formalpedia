@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_zsfree_of_good
 -- name    : Formalism.GM.FockB.zsfree_of_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:40.516203+00:00
 -- url     : https://prove2.me/theorems/0aab2261-9e9d-4d91-a9bd-9e2551ea6ba8

@@ -5113,7 +5113,7 @@
 {"parent": "CodeSW_evenCover", "child": "CodeSW_kerA", "via": ["statement"]}
 {"parent": "QEC.Coding.FiberBundle.TwistGraph.lightLayerSet_union_mediumLayerSet", "child": "QEC_Coding_FiberBundle_TwistGraph", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.TwistGraph.lightLayerSet_union_mediumLayerSet", "child": "QEC_Coding_FiberBundle_TwistGraphLTC", "via": ["solution", "statement"]}
-{"parent": "RSBDDHard.identity_3", "child": "RSBDDHard_recipProd", "via": ["statement"]}
+{"parent": "RSBDDHard.identity_3", "child": "RSBDDHard_recipProd", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSemantics.sound3206_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSemantics.sound3206_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.SmallSetExpansion.HasMeanZeroBilinearBound.toExpanderMixingBound", "child": "QEC_Coding_ExpanderCodes_SmallSetExpansion", "via": ["solution", "statement"]}

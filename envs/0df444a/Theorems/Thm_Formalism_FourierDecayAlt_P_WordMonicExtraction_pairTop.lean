@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordMonicExtraction_pairTop
 -- name    : Formalism.FourierDecayAlt.P.WordMonicExtraction.pairTop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:36:55.131256+00:00
 -- url     : https://prove2.me/theorems/f7d24624-074d-4684-9872-ab6476d30fba

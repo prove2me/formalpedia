@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd6_shifted_flip_position_relation
 -- name    : Formalism.FourierDecayAlt.P.Wd6.shifted_flip_position_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:46:03.234814+00:00
 -- url     : https://prove2.me/theorems/f048f6fc-1e58-4670-9fcb-59f94d5d380c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakApproximationGL_mp_elim
 -- name    : Formalism.FourierDecayAlt.P.WeakApproximationGL.mp_elim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:50:03.872066+00:00
 -- url     : https://prove2.me/theorems/fb7e203c-e85d-4815-9d3b-94e1b7aec065

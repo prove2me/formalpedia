@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_GammaExpansion_fock_X_mul
 -- name    : Formalism.GM.GammaExpansion.fock_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:28.81913+00:00
 -- url     : https://prove2.me/theorems/228f025b-e0f0-4c18-8a45-f603d4809422

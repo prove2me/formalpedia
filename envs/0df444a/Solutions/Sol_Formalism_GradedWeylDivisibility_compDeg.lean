@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.GradedWeylDivisibility.compDeg
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T23:30:32.528712+00:00
+-- url     : https://prove2.me/submissions/7c74c348-947f-45d5-92be-4efc7887a813
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalB
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_MinorExpLt
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColLexInitMinor
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColumnLexBideterminant
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColSums
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSYTPeel
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSYTExists
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_CompDeg
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LeadComp
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelDecomp
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelHomog
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelLead
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_EvalDeg
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelDegBound
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_TwoColumn
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LeadInterlaced
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SMSAssembly
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_StandardMonomialSpanOf
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalC
+import Theorems.Thm_Formalism_GradedWeylDivisibility_componentDegree
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.GradedWeylDivisibility
+namespace Formalism.GradedWeylDivisibility
+theorem _root_.solution : CompDeg := componentDegree
+end Formalism.GradedWeylDivisibility

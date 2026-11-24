@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_firstPassageTransform_positiveDiscount_zeroBarrier_UBV
 -- name    : Kyprianou.Ch03.firstPassageTransform_positiveDiscount_zeroBarrier_UBV
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T07:42:29.024963+00:00
 -- url     : https://prove2.me/theorems/860ef03c-f280-4300-ae1e-a65d4f5abd9b

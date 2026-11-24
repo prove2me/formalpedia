@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MongeApprox_Sparsify_eq_4
 -- name    : MongeApprox.Sparsify.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T15:01:55.213911+00:00
 -- url     : https://prove2.me/theorems/ecd13a58-4ace-4565-8e34-9da6a430c66d

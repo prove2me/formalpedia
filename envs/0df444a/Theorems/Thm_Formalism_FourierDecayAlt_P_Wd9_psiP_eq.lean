@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd9_psiP_eq
 -- name    : Formalism.FourierDecayAlt.P.Wd9.psiP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:49:57.606038+00:00
 -- url     : https://prove2.me/theorems/6e6e98db-7d3b-4dff-8adf-eb6ef541f62f

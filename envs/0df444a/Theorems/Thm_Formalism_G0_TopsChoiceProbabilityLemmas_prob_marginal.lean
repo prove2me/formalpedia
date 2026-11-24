@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TopsChoiceProbabilityLemmas_prob_marginal
 -- name    : Formalism.G0.TopsChoiceProbabilityLemmas.prob_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:20:41.143601+00:00
 -- url     : https://prove2.me/theorems/437c8236-e4f3-491d-9db7-8400199a5a42

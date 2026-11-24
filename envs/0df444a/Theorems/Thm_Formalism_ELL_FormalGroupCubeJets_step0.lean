@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_step0
 -- name    : Formalism.ELL.FormalGroupCubeJets.step0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:52.024481+00:00
 -- url     : https://prove2.me/theorems/ed2a315a-ac8c-4673-8574-16552acd4ac7

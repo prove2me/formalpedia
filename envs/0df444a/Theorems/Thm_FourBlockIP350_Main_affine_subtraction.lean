@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourBlockIP350_Main_affine_subtraction
 -- name    : FourBlockIP350.Main.affine_subtraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:33:47.73228+00:00
 -- url     : https://prove2.me/theorems/488b3ba9-f282-418e-94b5-8a6db91c35d6

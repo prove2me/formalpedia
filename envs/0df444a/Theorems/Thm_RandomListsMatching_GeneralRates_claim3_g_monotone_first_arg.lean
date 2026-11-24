@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_GeneralRates_claim3_g_monotone_first_arg
 -- name    : RandomListsMatching.GeneralRates.claim3_g_monotone_first_arg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:09:22.779586+00:00
 -- url     : https://prove2.me/theorems/d1f5c2f9-aa52-4f29-bf02-0204bc16683d

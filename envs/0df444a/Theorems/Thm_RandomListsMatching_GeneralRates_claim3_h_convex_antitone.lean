@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_GeneralRates_claim3_h_convex_antitone
 -- name    : RandomListsMatching.GeneralRates.claim3_h_convex_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:24.06485+00:00
 -- url     : https://prove2.me/theorems/b7bbe1fa-f0aa-467e-8b21-a809a75e85b0

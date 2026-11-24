@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd9_flip_mul_J_insert
 -- name    : Formalism.FourierDecayAlt.P.Wd9.flip_mul_J_insert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:47:33.739618+00:00
 -- url     : https://prove2.me/theorems/1d7bb5fc-2fd9-49a9-bc1f-07728953d642

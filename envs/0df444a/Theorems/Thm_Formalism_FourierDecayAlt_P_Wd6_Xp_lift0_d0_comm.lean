@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd6_Xp_lift0_d0_comm
 -- name    : Formalism.FourierDecayAlt.P.Wd6.Xp_lift0_d0_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:33:42.466492+00:00
 -- url     : https://prove2.me/theorems/c875a064-20bd-48e1-bb9e-c0a90771b468

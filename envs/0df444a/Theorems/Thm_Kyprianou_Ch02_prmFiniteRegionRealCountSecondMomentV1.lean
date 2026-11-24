@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionRealCountSecondMomentV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionRealCountSecondMomentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T18:28:42.091008+00:00
 -- url     : https://prove2.me/theorems/516a8bc4-e7ba-46a5-a3b8-e61cebf895d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_sq_mul_pow_le
 -- name    : PI.SqfRootsInj.W.sq_mul_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:41:40.050812+00:00
 -- url     : https://prove2.me/theorems/dde61b62-3cb3-4d06-bd1a-36b46580f116

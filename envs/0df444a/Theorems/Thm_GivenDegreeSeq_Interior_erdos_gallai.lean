@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_Interior_erdos_gallai
 -- name    : GivenDegreeSeq.Interior.erdos_gallai
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:51:28.521984+00:00
 -- url     : https://prove2.me/theorems/48561f39-0a7f-4164-ad6f-bfbcf36eee92

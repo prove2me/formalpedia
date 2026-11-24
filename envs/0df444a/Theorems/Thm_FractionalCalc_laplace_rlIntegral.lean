@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalCalc_laplace_rlIntegral
 -- name    : FractionalCalc.laplace_rlIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T16:39:50.925961+00:00
 -- url     : https://prove2.me/theorems/22a52490-61a3-4118-b9b7-71aa6c552b27

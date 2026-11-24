@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_tendsto_log_rpow_div
 -- name    : DeletedPrimes.tendsto_log_rpow_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:49:35.944544+00:00
 -- url     : https://prove2.me/theorems/edeeb917-8f64-496d-8112-2b8bf523ab80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd1_insert_diagonal_extract
 -- name    : Formalism.FourierDecayAlt.P.Wd1.insert_diagonal_extract
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:39:43.726166+00:00
 -- url     : https://prove2.me/theorems/2adeeea0-776e-4b37-bbd7-adea5c8c071a

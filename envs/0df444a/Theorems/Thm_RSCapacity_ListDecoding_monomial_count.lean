@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RSCapacity_ListDecoding_monomial_count
 -- name    : RSCapacity.ListDecoding.monomial_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:57:50.51187+00:00
 -- url     : https://prove2.me/theorems/0a70713d-4710-4fe6-ad54-70f0f3db5e16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_leadingTermLemmas_biHom_sq__c19e50466e6a
 -- name    : P2M_Formalism_GM_leadingTermLemmas_biHom_sq__c19e50466e6a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:44:33.617489+00:00
 -- url     : https://prove2.me/theorems/df76c9cd-bbd0-47bf-9107-bce0d7485205

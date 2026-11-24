@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_dim_set_two_mem
 -- name    : DeletedPrimes.dim_set_two_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:48:31.968527+00:00
 -- url     : https://prove2.me/theorems/8339b298-4530-45c7-b304-7254a696156e

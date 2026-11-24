@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_pderiv_at_variable_of_ne
 -- name    : Formalism.L2.Th1.B.pderiv_at_variable_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:33.77768+00:00
 -- url     : https://prove2.me/theorems/9adacca6-9fcb-41d2-a6a5-ee565f09468c

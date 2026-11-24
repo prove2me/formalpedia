@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd7_scalar_commute_transposed_R_matrix_entry
 -- name    : Formalism.FourierDecayAlt.P.Wd7.scalar_commute_transposed_R_matrix_entry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:46:41.67881+00:00
 -- url     : https://prove2.me/theorems/129ab319-6f04-46be-9310-91680147e778

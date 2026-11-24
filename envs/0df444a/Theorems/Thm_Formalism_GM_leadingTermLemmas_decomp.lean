@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_decomp
 -- name    : Formalism.GM.leadingTermLemmas.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:33.968472+00:00
 -- url     : https://prove2.me/theorems/8500951f-7b29-4c98-9e94-609acc6a4132

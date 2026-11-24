@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolynomialPackingMM_IntegerRecursion_counting_words
 -- name    : PolynomialPackingMM.IntegerRecursion.counting_words
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:05:53.029901+00:00
 -- url     : https://prove2.me/theorems/b3e73f94-fe0f-4249-8283-a95106205bb4

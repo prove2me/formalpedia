@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_pderiv_two_variable_law_other
 -- name    : Formalism.ELL.FormalGroupCubeJets.pderiv_two_variable_law_other
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:00:43.5107+00:00
 -- url     : https://prove2.me/theorems/c03569ca-6fdb-4594-ba14-b244489f72dc

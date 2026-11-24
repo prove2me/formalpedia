@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_TM_grid_average
 -- name    : Formalism.GM.TM.grid_average
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:37.859053+00:00
 -- url     : https://prove2.me/theorems/70a73a74-6dc8-4fab-b479-a26ff3ae9cf6

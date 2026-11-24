@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_mul_pd_fLog
 -- name    : Formalism.L2.Th1.B.mul_pd_fLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:03.133007+00:00
 -- url     : https://prove2.me/theorems/aabf4a78-0d14-4602-b133-992dfe4881e4

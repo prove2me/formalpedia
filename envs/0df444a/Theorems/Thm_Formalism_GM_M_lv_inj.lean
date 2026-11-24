@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_lv_inj
 -- name    : Formalism.GM.M.lv_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:45.931521+00:00
 -- url     : https://prove2.me/theorems/e91e0710-bd37-4854-a98e-609f0412a871

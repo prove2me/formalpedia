@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IterRoundKMedian_Main_lemma_7_5
 -- name    : IterRoundKMedian.Main.lemma_7_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:27:09.925476+00:00
 -- url     : https://prove2.me/theorems/a6c91d20-0d0d-41e0-8a6f-a8d0ebe03623

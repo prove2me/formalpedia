@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_second_vanishing_off_ring
 -- name    : Formalism.FourierDecayAlt.P.second_vanishing_off_ring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:17:20.521589+00:00
 -- url     : https://prove2.me/theorems/2c274b64-759f-4943-bbaa-d725860f939d

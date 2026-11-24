@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_sourceFaithfulLevyItoComponentsCoreV1
 -- name    : Kyprianou.Ch02.sourceFaithfulLevyItoComponentsCoreV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:36:56.230805+00:00
 -- url     : https://prove2.me/theorems/e123be1b-bfe9-4fc0-9074-65c998f946c8

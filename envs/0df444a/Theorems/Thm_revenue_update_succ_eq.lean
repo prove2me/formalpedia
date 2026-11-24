@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_revenue_update_succ_eq
 -- name    : revenue_update_succ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T19:03:34.726185+00:00
 -- url     : https://prove2.me/theorems/061a0a77-456d-4d46-9afa-c4386249bb2f

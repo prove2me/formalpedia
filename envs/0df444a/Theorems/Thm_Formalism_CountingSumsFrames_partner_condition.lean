@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_partner_condition
 -- name    : Formalism.CountingSumsFrames.partner_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:50:42.348772+00:00
 -- url     : https://prove2.me/theorems/eabf48f5-9484-40c4-b211-b50732be440b

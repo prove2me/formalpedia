@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubadditiveProphet1456_Quarter_integral_lower_bound
 -- name    : SubadditiveProphet1456.Quarter.integral_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:05:05.88394+00:00
 -- url     : https://prove2.me/theorems/a084d2ed-2a54-4a83-8fee-1b7fa1e000db

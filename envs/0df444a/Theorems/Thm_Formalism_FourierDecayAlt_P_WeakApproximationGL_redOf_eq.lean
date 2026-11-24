@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakApproximationGL_redOf_eq
 -- name    : Formalism.FourierDecayAlt.P.WeakApproximationGL.redOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:35:33.373748+00:00
 -- url     : https://prove2.me/theorems/4cb6e864-5157-4727-9231-3362ac4d7eb9

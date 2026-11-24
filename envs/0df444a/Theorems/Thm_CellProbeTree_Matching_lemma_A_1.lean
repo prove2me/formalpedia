@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CellProbeTree_Matching_lemma_A_1
 -- name    : CellProbeTree.Matching.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T18:35:35.543224+00:00
 -- url     : https://prove2.me/theorems/78a27c61-6997-44e4-8449-6369f9b05465

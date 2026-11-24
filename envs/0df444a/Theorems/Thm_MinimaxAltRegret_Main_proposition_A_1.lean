@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxAltRegret_Main_proposition_A_1
 -- name    : MinimaxAltRegret.Main.proposition_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:55:36.376977+00:00
 -- url     : https://prove2.me/theorems/f2071e18-aed8-4ebc-9358-7c52f1beadc5

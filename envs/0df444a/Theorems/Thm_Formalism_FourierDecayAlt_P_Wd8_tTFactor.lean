@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd8_tTFactor
 -- name    : Formalism.FourierDecayAlt.P.Wd8.tTFactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:47:26.273388+00:00
 -- url     : https://prove2.me/theorems/74fce42a-4ccc-4b50-acf1-967160552dfa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearPathTuran_Exact_lemma_4_4
 -- name    : LinearPathTuran.Exact.lemma_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:21:12.956253+00:00
 -- url     : https://prove2.me/theorems/8aa6ce8e-52f6-4e84-ae97-38c74fb34d24

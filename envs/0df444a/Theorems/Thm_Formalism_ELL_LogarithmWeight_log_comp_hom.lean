@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_LogarithmWeight_log_comp_hom
 -- name    : Formalism.ELL.LogarithmWeight.log_comp_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:18:07.229807+00:00
 -- url     : https://prove2.me/theorems/a6b56a65-abdc-4992-8ef0-e669dfdd971f

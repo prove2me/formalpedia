@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_entry_mul_single_mul
 -- name    : PositivityTheory.Rg.Sw.WR.B.entry_mul_single_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:37.529795+00:00
 -- url     : https://prove2.me/theorems/8f5e3b78-0d9d-4009-b8a1-1fe51887a736

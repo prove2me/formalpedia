@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd9_Rht0_J
 -- name    : Formalism.FourierDecayAlt.P.Wd9.Rht0_J
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:47:42.466653+00:00
 -- url     : https://prove2.me/theorems/587ffe3e-089d-4712-b1cc-e63a205fc290

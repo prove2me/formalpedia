@@ -1,0 +1,24 @@
+-- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_integer_assembly_correct
+-- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.integer_assembly_correct
+-- status  : Proved
+-- author  : @lreyzin
+-- created : 2026-11-24T01:07:54.626512+00:00
+-- url     : https://prove2.me/theorems/27235c52-2870-488b-b749-f354d3fcb674
+-- title:
+--   End-to-end correctness of the executable integer assembly
+-- statement:
+--   For any finite metric scene with a prepared integer table for every positive row scale, the integer algorithm returns exactly the canonical gate array and root directory. Its output realizes all required regional languages, including the empty and stopped cases. The algorithm determines positive scales from the validity and inequality of the two endpoint indices.
+-- source:
+--   Ravichandran and Reyzin, Exact Sum-of-Radii Clustering under Any Constant Stability, Appendix A.6, pp. 21–22, https://arxiv.org/abs/2611.03547. Quantitative implementation lemma for the mission’s dense regional circuit.
+
+import Definitions.Def_StableMSR_ExecutableIntegerAssembly
+set_option linter.all false
+set_option maxHeartbeats 2400000
+set_option maxRecDepth 20000
+open StableMSR.Recovery StableMSR.Recovery.Compiler StableMSR.Recovery.OracleQueries StableMSR.Recovery.WindowCSP StableMSR.Recovery.SingleCircuit StableMSR.Recovery.SingleRAM StableMSR.Recovery.SingleWindows StableMSR.Recovery.NativeWriter StableMSR.Recovery.NativeWriter.Relative StableMSR.Recovery.NativeWriter.Production StableMSR.Recovery.NativeWriter.Production.Candidates StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry
+open scoped Classical
+
+theorem StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.integer_assembly_correct (x:World) (e:ℚ) (T:ℕ→ℤ→ℤ) (hn:0<x.n) (hm:IsMetricArray x.dist)
+  (prep:∀u<x.rows,0<scale x u → Prepared x (scale x u) (T u)) :
+  let a:=Canonical.buildInteger x.n x.rows (budget (e:ℝ)) (widthBound (e:ℝ)) x.mem T
+  a=Canonical.assembly x (budget (e:ℝ)) (widthBound (e:ℝ)) ∧ RegionalLanguage x e a.gates a.roots := by sorry

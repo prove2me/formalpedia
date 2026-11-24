@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_tendsto_mertens_comp
 -- name    : DeletedPrimes.tendsto_mertens_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:49:29.852213+00:00
 -- url     : https://prove2.me/theorems/e709acc5-e785-414e-ab7c-0233633cb24c

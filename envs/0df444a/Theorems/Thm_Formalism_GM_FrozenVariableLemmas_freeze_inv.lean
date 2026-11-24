@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FrozenVariableLemmas_freeze_inv
 -- name    : Formalism.GM.FrozenVariableLemmas.freeze_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:35.791104+00:00
 -- url     : https://prove2.me/theorems/c3d174cc-c1cd-4d64-a5d7-70a904524e0e

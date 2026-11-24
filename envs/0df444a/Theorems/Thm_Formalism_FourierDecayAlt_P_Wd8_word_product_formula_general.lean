@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd8_word_product_formula_general
 -- name    : Formalism.FourierDecayAlt.P.Wd8.word_product_formula_general
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:47:18.238956+00:00
 -- url     : https://prove2.me/theorems/21333c29-2ce8-4945-bb34-1b0a66bfcdfc

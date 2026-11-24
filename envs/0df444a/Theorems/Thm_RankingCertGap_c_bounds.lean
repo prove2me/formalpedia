@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankingCertGap_c_bounds
 -- name    : RankingCertGap.c_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:49:42.660993+00:00
 -- url     : https://prove2.me/theorems/0d0c6b04-096e-43aa-adc0-9e9d3c644707

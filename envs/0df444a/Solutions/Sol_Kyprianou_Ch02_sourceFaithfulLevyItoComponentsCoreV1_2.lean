@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch02.sourceFaithfulLevyItoComponentsCoreV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T21:31:19.286281+00:00
 -- url     : https://prove2.me/submissions/96577c9e-e09e-4d0c-a73f-f4ed80a5d813
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch02_CompletedPoissonFiltration
 import Mathlib

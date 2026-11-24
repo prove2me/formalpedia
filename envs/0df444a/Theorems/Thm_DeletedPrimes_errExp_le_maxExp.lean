@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletedPrimes_errExp_le_maxExp
 -- name    : DeletedPrimes.errExp_le_maxExp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T21:44:30.575529+00:00
 -- url     : https://prove2.me/theorems/97bf68fe-2ae7-4246-9a51-42c17ede9e6a

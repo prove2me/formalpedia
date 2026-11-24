@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReadOnceParityBP_LowerBound_path_finiteness
 -- name    : ReadOnceParityBP.LowerBound.path_finiteness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T15:24:54.956638+00:00
 -- url     : https://prove2.me/theorems/d06c002d-823b-47c2-8a35-6bf1a6dcd879

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeTwoAlt_Fp_lin
 -- name    : Formalism.ELL.CubeTwoAlt.Fp_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:57.452797+00:00
 -- url     : https://prove2.me/theorems/df096aaf-02bb-4663-bdf8-b87c8a362ea8

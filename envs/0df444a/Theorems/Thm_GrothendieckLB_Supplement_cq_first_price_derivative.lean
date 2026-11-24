@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_first_price_derivative
 -- name    : GrothendieckLB.Supplement.cq_first_price_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T21:34:25.477803+00:00
 -- url     : https://prove2.me/theorems/2f8351d9-16fb-47ee-811b-1be06a09a825

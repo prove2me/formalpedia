@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_FB_vanish
 -- name    : Formalism.GM.M.FB.vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:44.831081+00:00
 -- url     : https://prove2.me/theorems/39fe0d7f-52e7-49b9-a558-5dfbbd68002d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_joint_theorem_A__e6b3bc7ee1c6
 -- name    : P2M_Formalism_FourierDecayAlt_P_joint_theorem_A__e6b3bc7ee1c6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:59:37.628558+00:00
 -- url     : https://prove2.me/theorems/a5927601-eb3b-4835-8d57-6427723a30d1

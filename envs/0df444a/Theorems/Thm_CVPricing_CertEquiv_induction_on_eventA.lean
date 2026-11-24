@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVPricing_CertEquiv_induction_on_eventA
 -- name    : CVPricing.CertEquiv.induction_on_eventA
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:36:53.124492+00:00
 -- url     : https://prove2.me/theorems/8210c959-7efe-4c77-9a79-1589c4279dda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntervalMaxCutEPTAS_Scheme_eq_3
 -- name    : IntervalMaxCutEPTAS.Scheme.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:16:28.15392+00:00
 -- url     : https://prove2.me/theorems/283417ef-20d1-4dda-bd63-78eacdd6ef4a

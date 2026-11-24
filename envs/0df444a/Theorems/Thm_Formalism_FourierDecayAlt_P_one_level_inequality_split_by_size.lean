@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_one_level_inequality_split_by_size
 -- name    : Formalism.FourierDecayAlt.P.one_level_inequality_split_by_size
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:42.258281+00:00
 -- url     : https://prove2.me/theorems/51c83a37-0289-4c77-a9ee-ee56df21719b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_change_of_variables_xy
 -- name    : Formalism.FourierDecayAlt.P.change_of_variables_xy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:07.571735+00:00
 -- url     : https://prove2.me/theorems/4d3916b6-73ba-459e-8082-76feb83c0958
