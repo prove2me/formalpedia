@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfCube_exp_pi_I_int
 -- name    : GlobalTheory.SelfCube.exp_pi_I_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:51:52.297002+00:00
 -- url     : https://prove2.me/theorems/5d46c1eb-6aa9-476e-95a7-2e11622d6222

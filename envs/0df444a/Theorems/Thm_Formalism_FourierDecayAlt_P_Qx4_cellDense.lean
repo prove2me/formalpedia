@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_cellDense
 -- name    : Formalism.FourierDecayAlt.P.Qx4.cellDense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:21:47.474898+00:00
 -- url     : https://prove2.me/theorems/149b4a3e-7975-47cd-aeab-d3322e9286c7

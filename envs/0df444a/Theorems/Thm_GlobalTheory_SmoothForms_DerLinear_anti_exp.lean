@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_DerLinear_anti_exp
 -- name    : GlobalTheory.SmoothForms.DerLinear.anti_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:19:35.624209+00:00
 -- url     : https://prove2.me/theorems/51f8aea2-4470-4020-ba83-2550d4b15a53

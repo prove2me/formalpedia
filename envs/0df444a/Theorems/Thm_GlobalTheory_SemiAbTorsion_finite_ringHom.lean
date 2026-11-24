@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbTorsion_finite_ringHom
 -- name    : GlobalTheory.SemiAbTorsion.finite_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:12.623424+00:00
 -- url     : https://prove2.me/theorems/62728d0a-70ea-4554-9000-05e878a57298

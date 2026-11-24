@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_trF_same
 -- name    : GlobalTheory.SectionsProduct.trF_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:53:59.855749+00:00
 -- url     : https://prove2.me/theorems/fc6e761e-8709-4fd7-a0a6-36777e82af04

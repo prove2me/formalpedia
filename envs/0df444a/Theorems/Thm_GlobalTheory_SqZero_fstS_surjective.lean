@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_fstS_surjective
 -- name    : GlobalTheory.SqZero.fstS_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:22:57.125786+00:00
 -- url     : https://prove2.me/theorems/f8755f2d-3d86-4714-ad15-bc53872a3f7a

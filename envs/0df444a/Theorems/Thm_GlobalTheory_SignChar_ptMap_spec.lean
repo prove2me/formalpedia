@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignChar_ptMap_spec
 -- name    : GlobalTheory.SignChar.ptMap_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:13:35.003805+00:00
 -- url     : https://prove2.me/theorems/598f5da3-8002-4f24-8994-2e4be71ffd34

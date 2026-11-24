@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullLevel_Uniq_mem_of_dvd
 -- name    : GlobalTheory.FullLevel.Uniq.mem_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:34:27.757723+00:00
 -- url     : https://prove2.me/theorems/c4f2fe58-3dcf-4082-8fbd-c99d33aee79f

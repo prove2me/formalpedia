@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralIdentities_bigPos_sub
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralIdentities.bigPos_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:36:06.846061+00:00
 -- url     : https://prove2.me/theorems/695dbe51-ee17-47de-8015-06a4d4e0e355

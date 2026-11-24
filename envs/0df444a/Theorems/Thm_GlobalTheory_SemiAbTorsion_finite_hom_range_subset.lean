@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbTorsion_finite_hom_range_subset
 -- name    : GlobalTheory.SemiAbTorsion.finite_hom_range_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:53:58.984805+00:00
 -- url     : https://prove2.me/theorems/cf35f79c-d2f7-41a9-b653-96f06694b193

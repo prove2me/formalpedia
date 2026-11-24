@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictLaw_snd_case
 -- name    : GlobalTheory.SS.StrictLaw.snd_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:37:56.532803+00:00
 -- url     : https://prove2.me/theorems/fb11f80b-326b-472c-ae70-735aefa1475d

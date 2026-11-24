@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralAgentsWorldModels_lemma1_markov_policy_reaches_state
 -- name    : GeneralAgentsWorldModels.lemma1_markov_policy_reaches_state
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:34:54.46593+00:00
 -- url     : https://prove2.me/theorems/ca785dbc-3a5b-4b2d-b41b-8864b3c0ed3f

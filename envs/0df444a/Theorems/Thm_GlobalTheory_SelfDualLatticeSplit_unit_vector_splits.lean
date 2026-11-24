@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeSplit_unit_vector_splits
 -- name    : GlobalTheory.SelfDualLatticeSplit.unit_vector_splits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:53:26.620752+00:00
 -- url     : https://prove2.me/theorems/cb69e6f7-eb34-46b6-9582-0d19c0633d33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymbolOne_word_smul
 -- name    : GlobalTheory.SymbolOne.word_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:24:38.766462+00:00
 -- url     : https://prove2.me/theorems/2ae278ab-ccc1-49f0-9906-8e8ee26748c2

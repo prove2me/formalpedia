@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_TwoStep_tuple
 -- name    : GlobalTheory.Square.TwoStep.tuple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:25:29.08281+00:00
 -- url     : https://prove2.me/theorems/04d50d02-5e2f-4191-a6f1-4f5fc167d1db

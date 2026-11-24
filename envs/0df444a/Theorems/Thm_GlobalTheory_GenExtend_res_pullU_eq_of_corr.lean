@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenExtend_res_pullU_eq_of_corr
 -- name    : GlobalTheory.GenExtend.res_pullU_eq_of_corr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:35.459632+00:00
 -- url     : https://prove2.me/theorems/198cf2c6-b149-4331-b0dd-0b9b13b8f553

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzFstOp_opFst_add_decomp
 -- name    : GlobalTheory.SchwartzFstOp.opFst_add_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:48:14.20369+00:00
 -- url     : https://prove2.me/theorems/a5a3663e-ee4c-453c-aad4-0a98d4c21756

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_isSeparated_of_hom
 -- name    : GlobalTheory.SectionsProduct.isSeparated_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:53:28.504435+00:00
 -- url     : https://prove2.me/theorems/55706418-39e4-43b4-b3fb-389e0a92b775

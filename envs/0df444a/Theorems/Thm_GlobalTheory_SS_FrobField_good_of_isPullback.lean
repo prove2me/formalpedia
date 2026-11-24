@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobField_good_of_isPullback
 -- name    : GlobalTheory.SS.FrobField.good_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:34:02.111974+00:00
 -- url     : https://prove2.me/theorems/cc300dff-4bcd-45cb-8918-c27869e6b016

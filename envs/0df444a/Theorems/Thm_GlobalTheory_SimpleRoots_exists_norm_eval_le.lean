@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_exists_norm_eval_le
 -- name    : GlobalTheory.SimpleRoots.exists_norm_eval_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:12.375331+00:00
 -- url     : https://prove2.me/theorems/87235fd0-aa7f-446b-bb54-840c2e56511e

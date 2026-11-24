@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelAction_qm_blocks_mem
 -- name    : GlobalTheory.SiegelAction.qm_blocks_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:11:55.298065+00:00
 -- url     : https://prove2.me/theorems/48906b2b-0d61-43fa-ab64-f6232d5cd5cc

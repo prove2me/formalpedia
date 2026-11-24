@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_unimod_map
 -- name    : GlobalTheory.SegreCoord.unimod_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:52:25.363385+00:00
 -- url     : https://prove2.me/theorems/5eddde21-3634-4961-84eb-95b22f1cf10e

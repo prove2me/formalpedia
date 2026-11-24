@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortVectors_span_rat_eq_top
 -- name    : GlobalTheory.ShortVectors.span_rat_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:11:57.246932+00:00
 -- url     : https://prove2.me/theorems/4a7b2e64-762b-424f-bf96-c09ebf8f727b

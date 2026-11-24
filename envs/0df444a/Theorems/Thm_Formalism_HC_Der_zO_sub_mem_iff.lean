@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_zO_sub_mem_iff
 -- name    : Formalism.HC.Der.zO_sub_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:27:46.101596+00:00
 -- url     : https://prove2.me/theorems/9ecd047d-8628-4c99-8aca-048862889807

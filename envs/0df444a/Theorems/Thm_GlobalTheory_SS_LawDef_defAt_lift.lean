@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LawDef_defAt_lift
 -- name    : GlobalTheory.SS.LawDef.defAt_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:10:46.970058+00:00
 -- url     : https://prove2.me/theorems/0cebb3ef-68b8-45ad-989a-320efd08dd48

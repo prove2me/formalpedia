@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubspaceHeight_det_gram_reindex
 -- name    : GlobalTheory.SubspaceHeight.det_gram_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:57.9923+00:00
 -- url     : https://prove2.me/theorems/a0aefa3a-57ab-446e-bcce-46fe90a60910

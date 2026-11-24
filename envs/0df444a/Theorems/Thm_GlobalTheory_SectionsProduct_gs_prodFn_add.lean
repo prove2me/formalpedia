@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_gs_prodFn_add
 -- name    : GlobalTheory.SectionsProduct.gs_prodFn_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:52:22.064021+00:00
 -- url     : https://prove2.me/theorems/b73e858e-1828-46ca-8d4b-db465f77c5bd

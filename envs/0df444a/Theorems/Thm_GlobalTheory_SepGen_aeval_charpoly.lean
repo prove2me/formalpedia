@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepGen_aeval_charpoly
 -- name    : GlobalTheory.SepGen.aeval_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:53:14.696647+00:00
 -- url     : https://prove2.me/theorems/dc6534c7-d72a-465b-8f80-b005d01e0f63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubChoose_mem_gen_of_eq
 -- name    : GlobalTheory.SubChoose.mem_gen_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:22:39.928259+00:00
 -- url     : https://prove2.me/theorems/a3e6255b-e4e5-43ea-8739-2bf23df94a3a

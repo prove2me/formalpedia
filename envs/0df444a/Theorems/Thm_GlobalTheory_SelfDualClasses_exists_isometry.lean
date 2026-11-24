@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualClasses_exists_isometry
 -- name    : GlobalTheory.SelfDualClasses.exists_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:51:57.090503+00:00
 -- url     : https://prove2.me/theorems/34a02cbc-8e35-49e7-8dec-71a28445c0e3

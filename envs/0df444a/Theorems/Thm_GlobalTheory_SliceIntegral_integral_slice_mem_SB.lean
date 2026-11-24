@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceIntegral_integral_slice_mem_SB
 -- name    : GlobalTheory.SliceIntegral.integral_slice_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:14:40.703542+00:00
 -- url     : https://prove2.me/theorems/b84c9966-300f-43f6-9bb8-1a8694894fb3

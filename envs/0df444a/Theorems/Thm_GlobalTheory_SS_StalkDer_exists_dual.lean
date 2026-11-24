@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StalkDer_exists_dual
 -- name    : GlobalTheory.SS.StalkDer.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:36:56.8498+00:00
 -- url     : https://prove2.me/theorems/da8b5b55-d8c1-4b0f-82c0-87c5febc33d5

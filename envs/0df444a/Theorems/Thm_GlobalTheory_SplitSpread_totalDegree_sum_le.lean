@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitSpread_totalDegree_sum_le
 -- name    : GlobalTheory.SplitSpread.totalDegree_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:54.042805+00:00
 -- url     : https://prove2.me/theorems/7257d6f5-3cb3-4e50-a18a-0a80a3cab7b9

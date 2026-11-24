@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_posSemidef_sub_mul_conjTranspose
 -- name    : GlobalTheory.SW.posSemidef_sub_mul_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:47:31.92801+00:00
 -- url     : https://prove2.me/theorems/b0004e05-8ebc-459f-92ff-65235d4c140c

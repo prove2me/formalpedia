@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExchangeFixed_exUp_of_fixed
 -- name    : GlobalTheory.RootExchangeFixed.exUp_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:29:23.673208+00:00
 -- url     : https://prove2.me/theorems/c22a0f09-c25d-482e-be89-8a236fb048e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_col_mem_perpX
 -- name    : GlobalTheory.SgGlob.col_mem_perpX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:54:43.168224+00:00
 -- url     : https://prove2.me/theorems/5dde1309-0dfa-4cca-a86f-74a54db5f340

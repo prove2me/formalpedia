@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_sq_odd_pow
 -- name    : Formalism.HC.Der.sq_odd_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:45:46.01234+00:00
 -- url     : https://prove2.me/theorems/cba1debd-aefa-449a-a1bd-06685451020c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_NearPrim_exists_rows
 -- name    : GlobalTheory.SW.NearPrim.exists_rows
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:33.098327+00:00
 -- url     : https://prove2.me/theorems/4b1c6034-4805-4dfb-aedb-1d0505c2252c

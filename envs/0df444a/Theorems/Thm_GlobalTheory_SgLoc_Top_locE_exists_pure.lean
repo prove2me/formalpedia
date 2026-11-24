@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_Top_locE_exists_pure
 -- name    : GlobalTheory.SgLoc.Top.locE_exists_pure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:10:09.97189+00:00
 -- url     : https://prove2.me/theorems/c35a9528-c578-4a39-839a-6dd39448771a

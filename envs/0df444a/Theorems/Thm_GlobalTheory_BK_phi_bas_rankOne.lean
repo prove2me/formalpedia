@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_phi_bas_rankOne
 -- name    : GlobalTheory.BK.phi_bas_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:32:29.42742+00:00
 -- url     : https://prove2.me/theorems/63f17937-661f-43d2-851b-a09d49d852bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_isField_or_exists_idempotent_of_isQA
 -- name    : GlobalTheory.SgAlg.isField_or_exists_idempotent_of_isQA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:54:09.161873+00:00
 -- url     : https://prove2.me/theorems/66bc6603-9523-4e3a-882b-6c62ef31ef50

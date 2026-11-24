@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_Rep_exists_vector
 -- name    : GlobalTheory.SatakeBound.Rep.exists_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:45:01.587905+00:00
 -- url     : https://prove2.me/theorems/7a481d88-e12f-4bff-b7af-6729bc6a3490

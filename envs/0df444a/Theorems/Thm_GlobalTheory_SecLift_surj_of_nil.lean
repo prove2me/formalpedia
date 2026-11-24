@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLift_surj_of_nil
 -- name    : GlobalTheory.SecLift.surj_of_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:51:07.907958+00:00
 -- url     : https://prove2.me/theorems/54f752c3-79ac-4824-9216-8cdb035448e5

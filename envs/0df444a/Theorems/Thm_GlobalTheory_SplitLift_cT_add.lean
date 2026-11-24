@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLift_cT_add
 -- name    : GlobalTheory.SplitLift.cT_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:21:27.356067+00:00
 -- url     : https://prove2.me/theorems/8dc39bdd-51e8-4e39-8b72-665e198a71b6

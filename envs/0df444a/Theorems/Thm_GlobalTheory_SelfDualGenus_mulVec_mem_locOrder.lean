@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_mulVec_mem_locOrder
 -- name    : GlobalTheory.SelfDualGenus.mulVec_mem_locOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:21.356315+00:00
 -- url     : https://prove2.me/theorems/0838e7ff-f8ca-4a05-9871-beee559db461

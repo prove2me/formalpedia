@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_hasOrd_unique
 -- name    : GlobalTheory.SS.Ord.hasOrd_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:18:01.929963+00:00
 -- url     : https://prove2.me/theorems/8cfcc98d-6073-46d3-adc9-132f84fa8a26

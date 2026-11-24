@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_SectionTranslation_isoAt_slice
 -- name    : GlobalTheory.SS.SectionTranslation.isoAt_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:35:59.689768+00:00
 -- url     : https://prove2.me/theorems/009f0dfe-46c8-4af7-93d7-99fe8bba6d1f

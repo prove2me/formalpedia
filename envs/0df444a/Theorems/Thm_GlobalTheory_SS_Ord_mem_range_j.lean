@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_mem_range_j
 -- name    : GlobalTheory.SS.Ord.mem_range_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:17:03.252047+00:00
 -- url     : https://prove2.me/theorems/2c5a6a5d-35fb-451c-bba4-cea86c018335

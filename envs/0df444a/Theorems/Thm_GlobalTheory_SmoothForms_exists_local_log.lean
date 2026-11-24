@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_exists_local_log
 -- name    : GlobalTheory.SmoothForms.exists_local_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:09.758311+00:00
 -- url     : https://prove2.me/theorems/936899ea-8e12-4e53-965c-936bdcc98be3

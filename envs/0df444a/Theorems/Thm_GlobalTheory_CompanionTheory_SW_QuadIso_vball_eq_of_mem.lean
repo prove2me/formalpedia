@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadIso_vball_eq_of_mem
 -- name    : GlobalTheory.CompanionTheory.SW.QuadIso.vball_eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:49:41.613801+00:00
 -- url     : https://prove2.me/theorems/feaf17e8-acc4-4feb-b12c-7a2e0754421c

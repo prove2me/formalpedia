@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_isOpen_adelicUnipotentTimesIntegralOutsideSet
 -- name    : Formalism.FourierDecayAlt.P.Qx4.isOpen_adelicUnipotentTimesIntegralOutsideSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:43:45.270925+00:00
 -- url     : https://prove2.me/theorems/174333e8-ef83-4913-9a80-b5cbfd9c6488

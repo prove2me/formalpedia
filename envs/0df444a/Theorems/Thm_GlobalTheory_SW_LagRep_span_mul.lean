@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LagRep_span_mul
 -- name    : GlobalTheory.SW.LagRep.span_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:41:14.062321+00:00
 -- url     : https://prove2.me/theorems/9ec835d8-a779-46d8-a656-cc8a7bfb7bcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionKernel_mul_eq_zero_iff_app
 -- name    : GlobalTheory.SectionKernel.mul_eq_zero_iff_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:51:05.174009+00:00
 -- url     : https://prove2.me/theorems/8db4c10e-e0ee-49e3-8b44-68649c6236df

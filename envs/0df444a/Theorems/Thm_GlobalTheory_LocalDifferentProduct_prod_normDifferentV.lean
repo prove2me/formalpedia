@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalDifferentProduct_prod_normDifferentV
 -- name    : GlobalTheory.LocalDifferentProduct.prod_normDifferentV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:45:48.720574+00:00
 -- url     : https://prove2.me/theorems/8411d6f6-7528-4d55-aa29-89be1e83f8e9

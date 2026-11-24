@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareDistanceExpansion_prod_eq
 -- name    : GlobalTheory.SquareDistanceExpansion.prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:22:36.729803+00:00
 -- url     : https://prove2.me/theorems/4be88a4b-8f38-4e81-a9ae-f3177b9ea5b3

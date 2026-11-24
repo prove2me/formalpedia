@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_hasFPowerSeriesAt_taylor
 -- name    : GlobalTheory.SCV.hasFPowerSeriesAt_taylor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:33:23.986106+00:00
 -- url     : https://prove2.me/theorems/915d0a5a-7d7f-4c35-9383-0976f0c7d7dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimSep_mulVec_aeval_eq_zero_iff
 -- name    : GlobalTheory.SimSep.mulVec_aeval_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:25.049142+00:00
 -- url     : https://prove2.me/theorems/ef808e21-95b1-442e-bcc4-bab35edf7ba6

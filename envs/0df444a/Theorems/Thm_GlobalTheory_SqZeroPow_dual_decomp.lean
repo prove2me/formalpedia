@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZeroPow_dual_decomp
 -- name    : GlobalTheory.SqZeroPow.dual_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:25:05.805457+00:00
 -- url     : https://prove2.me/theorems/5bde0118-907b-4c39-853e-60b7b1adc0a2

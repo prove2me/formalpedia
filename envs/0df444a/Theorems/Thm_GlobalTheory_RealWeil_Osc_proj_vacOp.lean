@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_proj_vacOp
 -- name    : GlobalTheory.RealWeil.Osc.proj_vacOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:28.731858+00:00
 -- url     : https://prove2.me/theorems/d68c8471-c248-4a86-b1a6-55515cbecb40

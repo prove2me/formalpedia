@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StarTensor_algebraMap_right_injective
 -- name    : GlobalTheory.StarTensor.algebraMap_right_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:22:33.901442+00:00
 -- url     : https://prove2.me/theorems/21597104-6bb4-4729-88a4-256b9e0a3c3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IwahoriOnto_exists_mul_mem_borel
 -- name    : GlobalTheory.SmGL.IwahoriOnto.exists_mul_mem_borel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:33.20639+00:00
 -- url     : https://prove2.me/theorems/433b94b6-1f7a-4fed-8bd5-680a5503e82e

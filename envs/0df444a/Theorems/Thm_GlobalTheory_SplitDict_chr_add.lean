@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitDict_chr_add
 -- name    : GlobalTheory.SplitDict.chr_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:46.837805+00:00
 -- url     : https://prove2.me/theorems/e2521594-a057-4e03-914d-969d0c1694ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_eq_of_invariant_real_lines
 -- name    : GlobalTheory.SCV.eq_of_invariant_real_lines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:31:53.914455+00:00
 -- url     : https://prove2.me/theorems/3fecabf8-6626-496c-9d73-8bc4fe885291

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftedTheta_exp_neg_le
 -- name    : GlobalTheory.ShiftedTheta.exp_neg_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:40.107628+00:00
 -- url     : https://prove2.me/theorems/f76677ab-59a1-4f06-98b6-78f4a76d9d53

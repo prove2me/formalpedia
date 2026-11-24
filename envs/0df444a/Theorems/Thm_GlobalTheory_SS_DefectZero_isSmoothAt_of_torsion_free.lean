@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_DefectZero_isSmoothAt_of_torsion_free
 -- name    : GlobalTheory.SS.DefectZero.isSmoothAt_of_torsion_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:33:36.188367+00:00
 -- url     : https://prove2.me/theorems/7e2d002e-0245-44fa-aeb8-efdfa6a1dd3c

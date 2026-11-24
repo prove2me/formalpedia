@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertReg_ptDer_ptOf
 -- name    : GlobalTheory.KS.VertReg.ptDer_ptOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:32:33.799654+00:00
 -- url     : https://prove2.me/theorems/68e4c179-f831-4c9d-a5d4-f6e92dce5046

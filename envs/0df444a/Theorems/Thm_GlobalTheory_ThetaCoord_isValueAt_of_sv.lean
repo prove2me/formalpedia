@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_isValueAt_of_sv
 -- name    : GlobalTheory.ThetaCoord.isValueAt_of_sv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:17:15.019815+00:00
 -- url     : https://prove2.me/theorems/2861528d-49e0-4095-a885-e6f62611f567

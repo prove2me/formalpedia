@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualClasses_finite_linearMap
 -- name    : GlobalTheory.SelfDualClasses.finite_linearMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:08.406722+00:00
 -- url     : https://prove2.me/theorems/63d50d8a-aa6c-4d67-9bbe-21863855c3ec

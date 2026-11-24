@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallLift_map_closedPoint
 -- name    : GlobalTheory.SmallLift.map_closedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:15:07.834583+00:00
 -- url     : https://prove2.me/theorems/ae9f7dec-ae1f-4ec2-926c-794009ce89ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Model_pair_two
 -- name    : GlobalTheory.SplitFlip.Model.pair_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:19:49.623268+00:00
 -- url     : https://prove2.me/theorems/ee770c60-3798-4690-a936-7b000c49e25c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesNakayama_exists_projection
 -- name    : GlobalTheory.SeriesNakayama.exists_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:25.993816+00:00
 -- url     : https://prove2.me/theorems/1a931be7-013a-4c0f-a6e2-f76f2c447e24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_mulLat_le
 -- name    : GlobalTheory.SgGlob.mulLat_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:10:43.651106+00:00
 -- url     : https://prove2.me/theorems/6f9cbc6b-2619-4524-a57e-f03c9c448264

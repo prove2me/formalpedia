@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_exists_ext
 -- name    : Formalism.L2.DIV.exists_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:31:31.104124+00:00
 -- url     : https://prove2.me/theorems/d8beb258-802b-4c22-a78b-5a765ad0bcb2

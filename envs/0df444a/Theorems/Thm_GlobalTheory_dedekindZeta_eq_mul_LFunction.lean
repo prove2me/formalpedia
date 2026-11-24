@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dedekindZeta_eq_mul_LFunction
 -- name    : GlobalTheory.dedekindZeta_eq_mul_LFunction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:09.806585+00:00
 -- url     : https://prove2.me/theorems/fb4a541a-7187-483f-9d87-48c279f39485

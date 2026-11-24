@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfCube_quad_nonneg
 -- name    : GlobalTheory.SelfCube.quad_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:17.561798+00:00
 -- url     : https://prove2.me/theorems/2270ace4-aa68-4489-9041-f6d07ba3cdac

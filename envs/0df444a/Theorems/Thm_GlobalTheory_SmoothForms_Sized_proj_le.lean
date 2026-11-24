@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_Sized_proj_le
 -- name    : GlobalTheory.SmoothForms.Sized.proj_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:18:54.823057+00:00
 -- url     : https://prove2.me/theorems/1e0e9890-5539-4a76-af2f-78b7dbeafb93

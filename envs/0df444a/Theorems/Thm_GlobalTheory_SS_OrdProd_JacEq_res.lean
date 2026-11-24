@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdProd_JacEq_res
 -- name    : GlobalTheory.SS.OrdProd.JacEq.res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:30:50.807353+00:00
 -- url     : https://prove2.me/theorems/5248f149-be8b-4e49-ac07-a631ceade672

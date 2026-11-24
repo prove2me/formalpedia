@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linComb_pow_section_unflatten
 -- name    : GlobalTheory.T.linComb_pow_section_unflatten
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:46:06.306306+00:00
 -- url     : https://prove2.me/theorems/a7ed1757-a059-4d1a-ae8e-2320bd594d59

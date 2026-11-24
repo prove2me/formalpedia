@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_CrystallineCyclotomic_dcris_trivial
 -- name    : GlobalTheory.Survey.CrystallineCyclotomic.dcris_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:49.722175+00:00
 -- url     : https://prove2.me/theorems/9d334fd3-3882-40e4-adba-11bd6f1fa897

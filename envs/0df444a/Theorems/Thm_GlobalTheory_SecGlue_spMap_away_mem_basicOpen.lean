@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_spMap_away_mem_basicOpen
 -- name    : GlobalTheory.SecGlue.spMap_away_mem_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:51:27.716262+00:00
 -- url     : https://prove2.me/theorems/91a52123-a04f-4e92-83f7-30e548284409

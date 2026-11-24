@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cell_sum_left_right_invariance_normaliser
 -- name    : GlobalTheory.T.cell_sum_left_right_invariance_normaliser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:16.436825+00:00
 -- url     : https://prove2.me/theorems/1eda16ac-8cdd-4597-b5fe-c4cd83f87269

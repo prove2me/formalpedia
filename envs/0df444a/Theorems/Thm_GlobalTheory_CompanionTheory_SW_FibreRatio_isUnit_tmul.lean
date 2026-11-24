@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreRatio_isUnit_tmul
 -- name    : GlobalTheory.CompanionTheory.SW.FibreRatio.isUnit_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:48:52.181846+00:00
 -- url     : https://prove2.me/theorems/c83b0a35-21ff-4563-8768-5f36f3379c85

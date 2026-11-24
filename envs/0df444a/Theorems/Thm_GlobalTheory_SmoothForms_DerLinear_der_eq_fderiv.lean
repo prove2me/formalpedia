@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_DerLinear_der_eq_fderiv
 -- name    : GlobalTheory.SmoothForms.DerLinear.der_eq_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:43.492586+00:00
 -- url     : https://prove2.me/theorems/ae7bb076-d2d3-4890-a77d-2655f879a648

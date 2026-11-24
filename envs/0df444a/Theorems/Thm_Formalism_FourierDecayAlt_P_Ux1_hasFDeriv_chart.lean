@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux1_hasFDeriv_chart
 -- name    : Formalism.FourierDecayAlt.P.Ux1.hasFDeriv_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:10:14.757571+00:00
 -- url     : https://prove2.me/theorems/e8c61bc6-77ad-41df-b133-9b9a95a759a9

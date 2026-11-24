@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_indicator_congr_iff
 -- name    : GlobalTheory.SmGL.UnitInd.indicator_congr_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:14:08.08019+00:00
 -- url     : https://prove2.me/theorems/906789e6-c209-4590-a302-e495a16eb13f

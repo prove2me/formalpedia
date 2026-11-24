@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_exists_unit_of_mul_eq
 -- name    : GlobalTheory.SegreCoord.exists_unit_of_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:53:16.036793+00:00
 -- url     : https://prove2.me/theorems/0a1a9791-915b-42c5-98e4-158abd485358

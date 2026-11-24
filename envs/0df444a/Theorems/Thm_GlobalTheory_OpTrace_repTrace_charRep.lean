@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_repTrace_charRep
 -- name    : GlobalTheory.OpTrace.repTrace_charRep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:42.145793+00:00
 -- url     : https://prove2.me/theorems/a3759a3c-7f6f-476f-8c01-7c6333baf099

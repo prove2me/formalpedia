@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBProdExt_exists_prod_equiv
 -- name    : GlobalTheory.SBProdExt.exists_prod_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:32:10.45402+00:00
 -- url     : https://prove2.me/theorems/bb104df5-2bcd-49e2-94b3-db836717df0d

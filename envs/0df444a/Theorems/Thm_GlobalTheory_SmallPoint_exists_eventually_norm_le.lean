@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallPoint_exists_eventually_norm_le
 -- name    : GlobalTheory.SmallPoint.exists_eventually_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:15:31.67104+00:00
 -- url     : https://prove2.me/theorems/84b330c2-23eb-45eb-8477-a3fd517c0e30

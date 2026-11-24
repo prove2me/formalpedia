@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HermLat_half_trace
 -- name    : GlobalTheory.SW.HermLat.half_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:41:36.299802+00:00
 -- url     : https://prove2.me/theorems/e5e8be45-1d32-40ff-9847-d80b0748c13f

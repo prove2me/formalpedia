@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_spMap_surjective
 -- name    : GlobalTheory.SqZero.spMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:22:46.114587+00:00
 -- url     : https://prove2.me/theorems/871781cb-e80f-410e-a2bf-8e87dfee584f

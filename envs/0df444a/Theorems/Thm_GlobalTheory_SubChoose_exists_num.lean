@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubChoose_exists_num
 -- name    : GlobalTheory.SubChoose.exists_num
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:22:39.88381+00:00
 -- url     : https://prove2.me/theorems/591ab68f-6ced-41bb-9b8f-07a1e5e4def1

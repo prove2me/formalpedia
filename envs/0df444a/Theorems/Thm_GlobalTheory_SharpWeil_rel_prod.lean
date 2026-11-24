@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpWeil_rel_prod
 -- name    : GlobalTheory.SharpWeil.rel_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:12:36.576288+00:00
 -- url     : https://prove2.me/theorems/ec6e641f-7d3c-433a-87bc-dcfacf6d13ef

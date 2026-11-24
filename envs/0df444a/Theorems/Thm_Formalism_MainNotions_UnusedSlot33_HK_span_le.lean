@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_UnusedSlot33_HK_span_le
 -- name    : Formalism.MainNotions.UnusedSlot33.HK.span_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:30:44.973001+00:00
 -- url     : https://prove2.me/theorems/a5de489c-153f-4adc-9769-de758bb73053

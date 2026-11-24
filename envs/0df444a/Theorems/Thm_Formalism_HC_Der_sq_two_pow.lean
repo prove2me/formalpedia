@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_sq_two_pow
 -- name    : Formalism.HC.Der.sq_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:46:18.279393+00:00
 -- url     : https://prove2.me/theorems/033455e8-3c10-4091-9c50-33bffbd43bd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarLevel_haarAt_mul
 -- name    : GlobalTheory.SW.HaarLevel.haarAt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:51.523532+00:00
 -- url     : https://prove2.me/theorems/7dfc2fdb-488b-4287-aaf9-ca9b90d75aaf

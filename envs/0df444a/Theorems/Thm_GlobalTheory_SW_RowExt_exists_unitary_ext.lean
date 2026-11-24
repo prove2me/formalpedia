@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_RowExt_exists_unitary_ext
 -- name    : GlobalTheory.SW.RowExt.exists_unitary_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:46.274089+00:00
 -- url     : https://prove2.me/theorems/f561ece9-4531-40a5-b1e6-dac1fcadef89

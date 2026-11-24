@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_tail_le_binUpper
 -- name    : GlobalTheory.RandomTops.tail_le_binUpper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:44:37.005483+00:00
 -- url     : https://prove2.me/theorems/33c2883b-cb00-4e6f-9818-f620c2c04340

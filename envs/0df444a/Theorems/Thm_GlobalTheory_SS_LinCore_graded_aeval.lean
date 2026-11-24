@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LinCore_graded_aeval
 -- name    : GlobalTheory.SS.LinCore.graded_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:36:05.594906+00:00
 -- url     : https://prove2.me/theorems/97ca1286-07be-45bf-828b-cef0882af2f6

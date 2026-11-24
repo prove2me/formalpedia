@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_cls_mem_Z
 -- name    : GlobalTheory.BK.Descent.cls_mem_Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:18:14.817034+00:00
 -- url     : https://prove2.me/theorems/f7854847-45f7-4f5e-b91a-c74d20dd96a8

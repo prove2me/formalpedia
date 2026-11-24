@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeatTerm_loc_Z
 -- name    : GlobalTheory.SW.HeatTerm.loc_Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:40:09.429928+00:00
 -- url     : https://prove2.me/theorems/c0cfc4dc-0fe4-456f-8347-e02f3cca5972

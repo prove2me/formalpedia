@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimMult_exists_norm_finset
 -- name    : GlobalTheory.SimMult.exists_norm_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:12:50.825478+00:00
 -- url     : https://prove2.me/theorems/e00ff87b-9dab-41a8-bb9b-02ecd2011950

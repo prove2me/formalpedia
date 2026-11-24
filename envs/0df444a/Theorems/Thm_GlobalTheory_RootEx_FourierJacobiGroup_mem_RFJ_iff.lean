@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobiGroup_mem_RFJ_iff
 -- name    : GlobalTheory.RootEx.FourierJacobiGroup.mem_RFJ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:16:33.729389+00:00
 -- url     : https://prove2.me/theorems/1c213a91-503b-45e3-b43b-00ed69d09a6b

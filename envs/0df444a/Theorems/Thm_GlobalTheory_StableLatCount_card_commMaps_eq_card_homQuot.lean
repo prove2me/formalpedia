@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableLatCount_card_commMaps_eq_card_homQuot
 -- name    : GlobalTheory.StableLatCount.card_commMaps_eq_card_homQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:33.4366+00:00
 -- url     : https://prove2.me/theorems/90ca713a-8bcf-48a4-9393-4559c8ff5171

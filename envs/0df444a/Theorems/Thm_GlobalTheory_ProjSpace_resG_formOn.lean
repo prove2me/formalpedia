@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_resG_formOn
 -- name    : GlobalTheory.ProjSpace.resG_formOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:47:26.772524+00:00
 -- url     : https://prove2.me/theorems/61bbeb21-685a-4a02-8104-bcbb927d8440

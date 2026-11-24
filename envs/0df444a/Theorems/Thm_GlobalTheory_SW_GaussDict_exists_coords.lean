@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_GaussDict_exists_coords
 -- name    : GlobalTheory.SW.GaussDict.exists_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:38:36.64761+00:00
 -- url     : https://prove2.me/theorems/1be7b5ce-1ff6-4b8e-9103-0f3f216225fd

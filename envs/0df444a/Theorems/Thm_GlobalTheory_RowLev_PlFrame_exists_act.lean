@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PlFrame_exists_act
 -- name    : GlobalTheory.RowLev.PlFrame.exists_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:30:58.444852+00:00
 -- url     : https://prove2.me/theorems/9a94af9f-a0b1-4b2e-b020-a25c99854a5e

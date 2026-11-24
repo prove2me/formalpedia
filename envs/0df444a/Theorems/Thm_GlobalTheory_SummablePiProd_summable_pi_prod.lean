@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummablePiProd_summable_pi_prod
 -- name    : GlobalTheory.SummablePiProd.summable_pi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:23:20.601734+00:00
 -- url     : https://prove2.me/theorems/f0e4ea50-d87f-404e-83a8-1aaafcaebf1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_pow_of_apply_eq_sum_paths
 -- name    : GlobalTheory.SmoothForms.pow_of_apply_eq_sum_paths
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:16.131376+00:00
 -- url     : https://prove2.me/theorems/b112dc85-4d00-4652-9e0d-fd20728206a3

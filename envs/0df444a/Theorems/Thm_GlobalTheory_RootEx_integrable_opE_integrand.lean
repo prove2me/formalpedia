@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_integrable_opE_integrand
 -- name    : GlobalTheory.RootEx.integrable_opE_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:21.709112+00:00
 -- url     : https://prove2.me/theorems/41799649-ae6b-465d-b27f-85b487b07e99

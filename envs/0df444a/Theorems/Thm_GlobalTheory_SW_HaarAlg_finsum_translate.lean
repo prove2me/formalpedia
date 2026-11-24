@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarAlg_finsum_translate
 -- name    : GlobalTheory.SW.HaarAlg.finsum_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:40:07.189146+00:00
 -- url     : https://prove2.me/theorems/4b5cdbf6-45fc-4b58-b903-9fc959bde59f

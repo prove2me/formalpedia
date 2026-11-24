@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionRing_isDomain
 -- name    : GlobalTheory.SectionRing.isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:51:55.818658+00:00
 -- url     : https://prove2.me/theorems/da952f97-abac-4e00-a28f-82b647eba4ef

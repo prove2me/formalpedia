@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_card_proj_mem
 -- name    : GlobalTheory.SW.HeckeId.card_proj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:30:05.081187+00:00
 -- url     : https://prove2.me/theorems/e5d5064c-2aa6-4b6e-8204-6cc0ffec9037

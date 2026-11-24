@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpObj_hermForm_real_im
 -- name    : GlobalTheory.SharpObj.hermForm_real_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:11:07.418798+00:00
 -- url     : https://prove2.me/theorems/6374218b-9134-417f-b9ce-0e0027afc499

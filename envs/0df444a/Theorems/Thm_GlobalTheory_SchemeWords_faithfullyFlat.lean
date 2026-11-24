@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchemeWords_faithfullyFlat
 -- name    : GlobalTheory.SchemeWords.faithfullyFlat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:47:31.957797+00:00
 -- url     : https://prove2.me/theorems/926c886b-e90e-48d8-aa68-16fbb358dfa1

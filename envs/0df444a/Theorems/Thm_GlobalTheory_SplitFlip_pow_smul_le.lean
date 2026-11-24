@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_pow_smul_le
 -- name    : GlobalTheory.SplitFlip.pow_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:20:43.589314+00:00
 -- url     : https://prove2.me/theorems/19884b2e-8599-424a-969f-9b5eea30bb73

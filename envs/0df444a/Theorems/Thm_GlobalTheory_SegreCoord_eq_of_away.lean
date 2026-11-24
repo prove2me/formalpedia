@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_eq_of_away
 -- name    : GlobalTheory.SegreCoord.eq_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:52:44.796495+00:00
 -- url     : https://prove2.me/theorems/37e0a5fc-aab6-4467-a8f7-d3f7374460fd

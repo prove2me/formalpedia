@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_intIndex
 -- name    : GlobalTheory.SatakeWeyl.intIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:37:58.675879+00:00
 -- url     : https://prove2.me/theorems/96f28d49-d62b-4570-838f-31556a38cf60

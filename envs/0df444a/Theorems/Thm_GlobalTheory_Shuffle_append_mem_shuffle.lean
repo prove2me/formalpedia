@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Shuffle_append_mem_shuffle
 -- name    : GlobalTheory.Shuffle.append_mem_shuffle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:11:22.087062+00:00
 -- url     : https://prove2.me/theorems/53da7e8a-d741-416e-ad3d-e3c1bcd5d4fd

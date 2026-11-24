@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthMapLogDet_relLength_chain
 -- name    : GlobalTheory.SignedLengthMapLogDet.relLength_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:52.493661+00:00
 -- url     : https://prove2.me/theorems/b0ffac33-629f-4c43-a0da-ab9d10203fae

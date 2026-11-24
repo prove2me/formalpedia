@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzDiv_hadamard
 -- name    : GlobalTheory.SchwartzDiv.hadamard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:47:33.317453+00:00
 -- url     : https://prove2.me/theorems/000648bf-268c-4fbe-ae64-7d8ec16e51a3

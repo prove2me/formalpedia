@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_form_shift
 -- name    : GlobalTheory.SimAlg.form_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:12:35.803197+00:00
 -- url     : https://prove2.me/theorems/a272b8b7-7565-4958-b986-d9a6a2b90fd9

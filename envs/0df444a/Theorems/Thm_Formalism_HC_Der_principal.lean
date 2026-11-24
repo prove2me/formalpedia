@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_principal
 -- name    : Formalism.HC.Der.principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:26:18.485566+00:00
 -- url     : https://prove2.me/theorems/23f742a3-8060-468f-b564-1e4873207c50

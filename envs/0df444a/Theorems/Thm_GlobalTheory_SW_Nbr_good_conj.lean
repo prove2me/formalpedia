@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_good_conj
 -- name    : GlobalTheory.SW.Nbr.good_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:33.256564+00:00
 -- url     : https://prove2.me/theorems/3953ef64-9fcc-4169-b9fb-68dad4d5ad7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanIndex_span_le_inf_span
 -- name    : GlobalTheory.SpanIndex.span_le_inf_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:18:25.734475+00:00
 -- url     : https://prove2.me/theorems/2b9ff68d-8c8d-4bad-9be4-a088af1e2fe3

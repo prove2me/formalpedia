@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StdChar_exists_nat_norm_lt_one
 -- name    : GlobalTheory.StdChar.exists_nat_norm_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:22:14.705585+00:00
 -- url     : https://prove2.me/theorems/7f9b378d-c61c-4906-9f84-071776b77338

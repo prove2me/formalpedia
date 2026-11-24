@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_exists_extend_of_localSubring
 -- name    : GlobalTheory.SS.ArcInf.exists_extend_of_localSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:33:55.233807+00:00
 -- url     : https://prove2.me/theorems/3e0b6907-def2-4f5a-b68a-3191e3d026b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepPoint_exists_sepBasis
 -- name    : GlobalTheory.SepPoint.exists_sepBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:53:40.07188+00:00
 -- url     : https://prove2.me/theorems/04172b69-7e31-4403-82b2-b7aa6b015d35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_reachable_of_edges_reachable
 -- name    : ChromaticReconstruction.reachable_of_edges_reachable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:19:10.627085+00:00
 -- url     : https://prove2.me/theorems/4ef48201-dc3f-403b-a1da-d9c4bd68a6dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SphereMeanDrop_linSubst_incl
 -- name    : GlobalTheory.SphereMeanDrop.linSubst_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:19:59.075956+00:00
 -- url     : https://prove2.me/theorems/e9555e88-f6fc-4a01-be23-12082c60d32a

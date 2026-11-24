@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthLogDet_ord_finprod
 -- name    : GlobalTheory.SignedLengthLogDet.ord_finprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:32.42226+00:00
 -- url     : https://prove2.me/theorems/8d7410e8-b094-4b22-98e7-9f20b34bcfb7

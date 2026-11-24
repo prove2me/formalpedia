@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_WeightedPowerFormIntegrability_integrable_gauss
 -- name    : GlobalTheory.ConvSeries.WeightedPowerFormIntegrability.integrable_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:56.234914+00:00
 -- url     : https://prove2.me/theorems/d54247fe-b957-408e-85ba-e0342785583c

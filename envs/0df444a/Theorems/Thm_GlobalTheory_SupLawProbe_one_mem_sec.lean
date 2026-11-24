@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_one_mem_sec
 -- name    : GlobalTheory.SupLawProbe.one_mem_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:24:05.815342+00:00
 -- url     : https://prove2.me/theorems/66f370fe-9c3b-41b1-9f52-b9a07024c630

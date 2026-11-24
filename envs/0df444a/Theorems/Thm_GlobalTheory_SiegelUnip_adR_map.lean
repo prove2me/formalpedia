@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelUnip_adR_map
 -- name    : GlobalTheory.SiegelUnip.adR_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:11:58.224715+00:00
 -- url     : https://prove2.me/theorems/cbfe3eb4-3238-4684-8952-59525572e76a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimV_primitiveCompact_split
 -- name    : GlobalTheory.CompanionTheory.SW.PrimV.primitiveCompact_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:08:59.311971+00:00
 -- url     : https://prove2.me/theorems/2d1d7d91-06d2-484f-a736-520a6eb83e07

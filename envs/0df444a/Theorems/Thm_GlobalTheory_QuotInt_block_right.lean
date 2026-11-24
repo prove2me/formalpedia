@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotInt_block_right
 -- name    : GlobalTheory.QuotInt.block_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:54:38.962607+00:00
 -- url     : https://prove2.me/theorems/aecc971a-360b-4100-a901-f0e581e2cc60

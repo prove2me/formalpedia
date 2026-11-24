@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_swDiff_deg_zero
 -- name    : GlobalTheory.SW.Base.swDiff_deg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:39:02.489831+00:00
 -- url     : https://prove2.me/theorems/a3b12b11-752f-4d2e-a8c2-e690cd3f027b

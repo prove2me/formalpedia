@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableGraph_card_stable_eq_card_hom
 -- name    : GlobalTheory.StableGraph.card_stable_eq_card_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:47.724798+00:00
 -- url     : https://prove2.me/theorems/fc4c3617-06ec-490a-99fe-77aa4976259b

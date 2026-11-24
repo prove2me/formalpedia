@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SetIntegralSmoothness_hasFDerivAt_setIntegral
 -- name    : GlobalTheory.SetIntegralSmoothness.hasFDerivAt_setIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:54:17.747004+00:00
 -- url     : https://prove2.me/theorems/a26b6563-66e9-4091-b1c5-a07dc4ebe6d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_WeightedPowerFormIntegrability_pow_mul_exp_le
 -- name    : GlobalTheory.ConvSeries.WeightedPowerFormIntegrability.pow_mul_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:41:46.157359+00:00
 -- url     : https://prove2.me/theorems/6feb8f5b-8be4-4fd1-9539-029c6ec1933d

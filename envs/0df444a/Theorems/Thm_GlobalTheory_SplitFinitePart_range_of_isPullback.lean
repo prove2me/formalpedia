@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFinitePart_range_of_isPullback
 -- name    : GlobalTheory.SplitFinitePart.range_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:20:18.883716+00:00
 -- url     : https://prove2.me/theorems/f777b40f-625b-4b1c-9df5-73ab819e83f2

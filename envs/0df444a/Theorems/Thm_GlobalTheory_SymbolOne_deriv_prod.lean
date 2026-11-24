@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymbolOne_deriv_prod
 -- name    : GlobalTheory.SymbolOne.deriv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:24:41.943212+00:00
 -- url     : https://prove2.me/theorems/1c7b1766-4265-4a70-80fd-8804fc1e809c

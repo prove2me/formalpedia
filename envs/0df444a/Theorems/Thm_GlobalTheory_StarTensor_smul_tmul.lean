@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StarTensor_smul_tmul
 -- name    : GlobalTheory.StarTensor.smul_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:22:03.937928+00:00
 -- url     : https://prove2.me/theorems/00d05cfa-ab53-4c98-9ab9-2ae16da73d50

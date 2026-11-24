@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenData_exists_sqq
 -- name    : Formalism.HC.EvenData.exists_sqq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:31:58.322109+00:00
 -- url     : https://prove2.me/theorems/afbdce97-8a98-4a79-a7ed-9b54957b4c17

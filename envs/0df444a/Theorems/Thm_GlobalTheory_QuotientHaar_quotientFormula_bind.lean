@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientHaar_quotientFormula_bind
 -- name    : GlobalTheory.QuotientHaar.quotientFormula_bind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:12:06.637154+00:00
 -- url     : https://prove2.me/theorems/6c11610b-d823-4c66-8936-fb07b413d2c7

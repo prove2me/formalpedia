@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortVectors_two_mul_le_traceHerm
 -- name    : GlobalTheory.ShortVectors.two_mul_le_traceHerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:11:56.119726+00:00
 -- url     : https://prove2.me/theorems/ce78ebe2-1cba-4679-b0c6-b0d0c33e040f

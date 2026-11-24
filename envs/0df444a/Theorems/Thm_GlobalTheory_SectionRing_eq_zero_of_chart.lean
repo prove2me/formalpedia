@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionRing_eq_zero_of_chart
 -- name    : GlobalTheory.SectionRing.eq_zero_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:51:28.143027+00:00
 -- url     : https://prove2.me/theorems/b94d335d-2ba7-46ff-86d1-78149cdd1d5e

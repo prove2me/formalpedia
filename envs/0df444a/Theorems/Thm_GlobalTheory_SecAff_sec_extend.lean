@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_sec_extend
 -- name    : GlobalTheory.SecAff.sec_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:48:09.876255+00:00
 -- url     : https://prove2.me/theorems/f82fd54a-6c61-41b9-97d3-3da44e7c0c53

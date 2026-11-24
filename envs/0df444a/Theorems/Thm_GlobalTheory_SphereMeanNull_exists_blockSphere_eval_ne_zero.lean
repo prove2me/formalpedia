@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SphereMeanNull_exists_blockSphere_eval_ne_zero
 -- name    : GlobalTheory.SphereMeanNull.exists_blockSphere_eval_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:05.353573+00:00
 -- url     : https://prove2.me/theorems/b40234f3-8c2e-4d7b-8b5f-6d53a99230b9

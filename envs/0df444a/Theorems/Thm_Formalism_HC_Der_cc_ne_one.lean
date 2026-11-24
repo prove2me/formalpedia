@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_cc_ne_one
 -- name    : Formalism.HC.Der.cc_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:46:09.532633+00:00
 -- url     : https://prove2.me/theorems/137caa92-a912-44b7-86bd-99af26e3c63d

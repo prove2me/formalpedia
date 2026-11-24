@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SylvesterInertia_chg_injective
 -- name    : GlobalTheory.SylvesterInertia.chg_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:16.328816+00:00
 -- url     : https://prove2.me/theorems/3679015e-8ede-401c-b060-b5668f7f40e0

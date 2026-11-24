@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdProd_InSpan_closure
 -- name    : GlobalTheory.SS.OrdProd.InSpan.closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:31:08.975179+00:00
 -- url     : https://prove2.me/theorems/1d5e553e-2c7b-4cea-88a9-ccbaa53a4588

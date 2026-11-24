@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemisimpleCount_exists_simple
 -- name    : GlobalTheory.SemisimpleCount.exists_simple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:21.635067+00:00
 -- url     : https://prove2.me/theorems/c934fcca-42a3-41fb-ab97-8bd7dddc22a9

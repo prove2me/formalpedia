@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_isDiscreteValuationRing_stalk_generic
 -- name    : GlobalTheory.DvrModel.isDiscreteValuationRing_stalk_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:57:57.892953+00:00
 -- url     : https://prove2.me/theorems/6bc02ad6-67ba-4cf4-8b90-604e6b04bc0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymbolOne_constantCoeff_dof_X
 -- name    : GlobalTheory.SymbolOne.constantCoeff_dof_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:24:32.888809+00:00
 -- url     : https://prove2.me/theorems/4724dc58-415a-4b07-a5a7-eb8595e30361

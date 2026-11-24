@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmTensor_tens_unit_apply
 -- name    : GlobalTheory.SymmTensor.tens_unit_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:24:36.011652+00:00
 -- url     : https://prove2.me/theorems/9c9d3ee3-13a8-4b0b-9226-6a6efd8faaa8

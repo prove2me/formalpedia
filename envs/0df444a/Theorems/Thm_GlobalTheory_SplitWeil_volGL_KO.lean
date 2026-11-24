@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_volGL_KO
 -- name    : GlobalTheory.SplitWeil.volGL_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:21:06.851907+00:00
 -- url     : https://prove2.me/theorems/3b8773f4-5cd7-4fd4-b5da-0c856908cda9

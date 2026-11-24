@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SuperCusp_val_le_one_of_mem_cong
 -- name    : GlobalTheory.SuperCusp.val_le_one_of_mem_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:24:17.815002+00:00
 -- url     : https://prove2.me/theorems/cdf9ac78-9946-429a-9d40-5b659ae30284

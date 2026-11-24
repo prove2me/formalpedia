@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MassTest_exists_unit_vector
 -- name    : GlobalTheory.CompanionTheory.SW.MassTest.exists_unit_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:29.59883+00:00
 -- url     : https://prove2.me/theorems/ed7397d8-a144-4046-a721-c7c4c0cd03cd

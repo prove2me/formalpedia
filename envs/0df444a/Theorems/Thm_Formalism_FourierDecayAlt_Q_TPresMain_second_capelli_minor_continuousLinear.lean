@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_second_capelli_minor_continuousLinear
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.second_capelli_minor_continuousLinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:11:35.544491+00:00
 -- url     : https://prove2.me/theorems/5f096315-1ee6-4a3e-8eba-2da6499a2866

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_ptDer_add
 -- name    : GlobalTheory.KS.Exist.ptDer_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:46:32.913855+00:00
 -- url     : https://prove2.me/theorems/e34ac2ba-1865-4aa9-ad65-8ae69d247580

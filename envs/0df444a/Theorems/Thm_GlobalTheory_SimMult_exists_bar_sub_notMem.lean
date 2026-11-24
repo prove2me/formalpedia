@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimMult_exists_bar_sub_notMem
 -- name    : GlobalTheory.SimMult.exists_bar_sub_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:13:22.89255+00:00
 -- url     : https://prove2.me/theorems/e0f75dab-f07c-460b-ac8c-0a8f7c01e3db

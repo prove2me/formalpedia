@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_isIntegral
 -- name    : GlobalTheory.DvrModel.isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:57:17.722948+00:00
 -- url     : https://prove2.me/theorems/6df19c74-915c-474a-b7b5-cb2e9b172e75

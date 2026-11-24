@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NTr_traceForm_perfect
 -- name    : GlobalTheory.NTr.traceForm_perfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:30:08.799947+00:00
 -- url     : https://prove2.me/theorems/64243da4-26e9-4328-8772-4ca4b0d4ea79

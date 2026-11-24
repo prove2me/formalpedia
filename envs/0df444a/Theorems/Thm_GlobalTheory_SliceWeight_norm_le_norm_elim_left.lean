@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceWeight_norm_le_norm_elim_left
 -- name    : GlobalTheory.SliceWeight.norm_le_norm_elim_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:33.617288+00:00
 -- url     : https://prove2.me/theorems/bac7ba13-883b-45ed-bcf2-127260a5cb6a

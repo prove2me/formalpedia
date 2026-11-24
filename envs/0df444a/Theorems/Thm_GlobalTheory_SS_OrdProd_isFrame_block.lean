@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdProd_isFrame_block
 -- name    : GlobalTheory.SS.OrdProd.isFrame_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:30:47.056151+00:00
 -- url     : https://prove2.me/theorems/6d120f6c-6bb4-4251-90aa-8f8384b1fe92

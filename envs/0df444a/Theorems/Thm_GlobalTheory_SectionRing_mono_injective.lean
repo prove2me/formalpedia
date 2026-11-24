@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionRing_mono_injective
 -- name    : GlobalTheory.SectionRing.mono_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:51:52.723363+00:00
 -- url     : https://prove2.me/theorems/e8bceed2-f803-4d29-b197-367ac9b5eff1

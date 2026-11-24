@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_Lifts_basicOpen_eq
 -- name    : GlobalTheory.AffineThickening.Lifts.basicOpen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:57:49.825017+00:00
 -- url     : https://prove2.me/theorems/be498a5a-f1a2-4f11-9f92-da66207b65ae

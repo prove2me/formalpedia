@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralAgentsWorldModels_lemma5_factor_now
 -- name    : GeneralAgentsWorldModels.lemma5_factor_now
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:37:32.8928+00:00
 -- url     : https://prove2.me/theorems/4ceaaa7b-041a-426d-ad23-d638a47a94b4

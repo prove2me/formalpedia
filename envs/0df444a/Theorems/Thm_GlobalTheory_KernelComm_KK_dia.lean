@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelComm_KK_dia
 -- name    : GlobalTheory.KernelComm.KK_dia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:12:35.694826+00:00
 -- url     : https://prove2.me/theorems/f9581973-1e13-49aa-9792-c28c46d30ffc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnipHaar_det_lmat_unip
 -- name    : GlobalTheory.SmGL.UnipHaar.det_lmat_unip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:13:57.272917+00:00
 -- url     : https://prove2.me/theorems/03f0148e-e1a9-44c2-a254-c7b78c3af02e

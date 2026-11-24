@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_eq_zero_of_orthogonal_translates_proj
 -- name    : GlobalTheory.RealWeil.eq_zero_of_orthogonal_translates_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:16:37.768368+00:00
 -- url     : https://prove2.me/theorems/7c774f67-0e45-4a29-996c-69a4bed0ddcd

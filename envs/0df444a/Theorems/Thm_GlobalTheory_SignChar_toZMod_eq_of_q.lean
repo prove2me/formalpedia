@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignChar_toZMod_eq_of_q
 -- name    : GlobalTheory.SignChar.toZMod_eq_of_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:13:41.209341+00:00
 -- url     : https://prove2.me/theorems/8de917fd-4163-4e73-9ce3-e8d2aae0c02e

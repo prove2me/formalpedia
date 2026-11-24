@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_formOn_C
 -- name    : GlobalTheory.ProjSpace.formOn_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:48:05.069361+00:00
 -- url     : https://prove2.me/theorems/c5d9c22c-8561-4e86-a7ec-6644688cab10

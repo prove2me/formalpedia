@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallPoint_exists_extend_of_ker_le
 -- name    : GlobalTheory.SmallPoint.exists_extend_of_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:15:55.853322+00:00
 -- url     : https://prove2.me/theorems/8797a11f-4a6f-44c2-83d6-396f4ccd8c91

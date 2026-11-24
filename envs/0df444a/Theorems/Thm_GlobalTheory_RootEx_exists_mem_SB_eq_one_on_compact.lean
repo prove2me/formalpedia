@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_exists_mem_SB_eq_one_on_compact
 -- name    : GlobalTheory.RootEx.exists_mem_SB_eq_one_on_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:39:29.361785+00:00
 -- url     : https://prove2.me/theorems/8684fb03-c2ca-4364-9b1b-b6835de707da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SuperCusp_exists_smooth_form_eq
 -- name    : GlobalTheory.SuperCusp.exists_smooth_form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:23:50.333088+00:00
 -- url     : https://prove2.me/theorems/c2138249-9154-48d3-b38a-961f108cc986

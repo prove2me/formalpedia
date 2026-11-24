@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_nm_mul_adicCompletion
 -- name    : GlobalTheory.QuadSymbol.NormIndex.nm_mul_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:01:33.810344+00:00
 -- url     : https://prove2.me/theorems/42431746-1b85-47dc-9114-ad4441d858c5

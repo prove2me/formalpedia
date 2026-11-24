@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_form_ann
 -- name    : GlobalTheory.SimAlg.form_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:12:38.197575+00:00
 -- url     : https://prove2.me/theorems/50ccb87f-c713-4711-83a1-22b6481348ba

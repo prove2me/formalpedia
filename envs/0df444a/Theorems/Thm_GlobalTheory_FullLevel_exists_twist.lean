@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullLevel_exists_twist
 -- name    : GlobalTheory.FullLevel.exists_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:33:52.049857+00:00
 -- url     : https://prove2.me/theorems/1a5bbb5a-72bd-4528-a8fb-858899e5f962

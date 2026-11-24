@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_mul_mul_mem_matLat_iff
 -- name    : GlobalTheory.SplitFlip.mul_mul_mem_matLat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:20:40.783486+00:00
 -- url     : https://prove2.me/theorems/ab568bda-6de0-4254-8eba-b55e12aad348

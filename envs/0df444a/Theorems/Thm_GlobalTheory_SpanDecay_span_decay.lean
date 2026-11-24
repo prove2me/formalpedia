@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanDecay_span_decay
 -- name    : GlobalTheory.SpanDecay.span_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:18:29.913315+00:00
 -- url     : https://prove2.me/theorems/22f5bafc-fa2e-4e85-a33c-0243f156b0cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_etale
 -- name    : GlobalTheory.Retract.etale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:12:56.708323+00:00
 -- url     : https://prove2.me/theorems/2e2bd945-c309-4cee-842d-85960a673f89

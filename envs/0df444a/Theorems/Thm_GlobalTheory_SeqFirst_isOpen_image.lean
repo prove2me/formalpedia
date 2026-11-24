@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeqFirst_isOpen_image
 -- name    : GlobalTheory.SeqFirst.isOpen_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:09:55.930708+00:00
 -- url     : https://prove2.me/theorems/d8ec95fa-cfb9-479b-b40a-3e685f61954a

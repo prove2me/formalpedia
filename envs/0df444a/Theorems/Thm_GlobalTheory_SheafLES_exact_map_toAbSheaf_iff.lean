@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafLES_exact_map_toAbSheaf_iff
 -- name    : GlobalTheory.SheafLES.exact_map_toAbSheaf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:11:56.371941+00:00
 -- url     : https://prove2.me/theorems/7f3914fc-ba49-4687-8ca6-56693175dd63

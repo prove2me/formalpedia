@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_commutator_prod_ofFn
 -- name    : GlobalTheory.SmoothForms.commutator_prod_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:18:53.188114+00:00
 -- url     : https://prove2.me/theorems/4fb10cd9-0daf-42b5-90d7-f6df6e18972f

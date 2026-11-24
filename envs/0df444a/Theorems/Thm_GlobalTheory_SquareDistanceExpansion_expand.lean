@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareDistanceExpansion_expand
 -- name    : GlobalTheory.SquareDistanceExpansion.expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:22:37.480113+00:00
 -- url     : https://prove2.me/theorems/5eff20c8-8d50-4c5a-bbad-5f0ded3b478c

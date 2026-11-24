@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfCube_val_div
 -- name    : GlobalTheory.SelfCube.val_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:16.899535+00:00
 -- url     : https://prove2.me/theorems/3e96c680-f4d2-4df6-a620-8cea84a3fcf1

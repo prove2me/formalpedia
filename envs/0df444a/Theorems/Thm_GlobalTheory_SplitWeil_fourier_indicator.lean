@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_fourier_indicator
 -- name    : GlobalTheory.SplitWeil.fourier_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:49.793536+00:00
 -- url     : https://prove2.me/theorems/6f1c8819-041c-4c4a-ac8c-ca8b106672f8

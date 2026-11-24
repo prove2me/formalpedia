@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_O1_g_eq_ratioUnit_chart_inf
 -- name    : GlobalTheory.ProjSpace.O1_g_eq_ratioUnit_chart_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:44:34.183356+00:00
 -- url     : https://prove2.me/theorems/1aa76a9a-cbaa-487a-b368-f806b9cc16f7

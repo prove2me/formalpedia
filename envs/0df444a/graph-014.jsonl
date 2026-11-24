@@ -86643,11 +86643,11 @@
 {"parent": "ResistantSets.proposition_5_3", "child": "ResistantSets_R5", "via": ["statement"]}
 {"parent": "ResistantSets.proposition_5_3", "child": "ResistantSets_HasRestriction", "via": ["statement"]}
 {"parent": "ResistantSets.proposition_5_3", "child": "ResistantSets_IsPolar", "via": ["statement"]}
-{"parent": "FuchsThesis.Helstrom.eq_3_23", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "FuchsThesis.Helstrom.eq_3_23", "child": "FuchsVdGraaf_IsPOVM", "via": ["statement"]}
-{"parent": "FuchsThesis.Helstrom.eq_3_23", "child": "FuchsThesis_Helstrom_bayesError", "via": ["statement"]}
-{"parent": "FuchsThesis.Helstrom.eq_3_23", "child": "FuchsThesis_Helstrom_gammaOp", "via": ["statement"]}
-{"parent": "FuchsThesis.Helstrom.eq_3_23", "child": "FuchsThesis_Helstrom_qErrorProb", "via": ["statement"]}
+{"parent": "FuchsThesis.Helstrom.eq_3_23", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Helstrom.eq_3_23", "child": "FuchsVdGraaf_IsPOVM", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Helstrom.eq_3_23", "child": "FuchsThesis_Helstrom_bayesError", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Helstrom.eq_3_23", "child": "FuchsThesis_Helstrom_gammaOp", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Helstrom.eq_3_23", "child": "FuchsThesis_Helstrom_qErrorProb", "via": ["solution", "statement"]}
 {"parent": "BimatrixStableSet_PolytopeTypes", "child": "BimatrixStableSet_StableSets", "via": ["statement"]}
 {"parent": "BimatrixStableSet_PolytopeTypes", "child": "BimatrixStableSet_Polyhedra", "via": ["statement"]}
 {"parent": "OAI.SKRatio.Certificate.Data.J1K7.check_30", "child": "OAIQ024S016", "via": ["solution", "statement"]}

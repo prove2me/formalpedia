@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeqFirst_injOn
 -- name    : GlobalTheory.SeqFirst.injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:10:38.250785+00:00
 -- url     : https://prove2.me/theorems/cdd2001b-a7ef-42ce-a6ef-36752c811e97

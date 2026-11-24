@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothedSumMellin_weight_mellinConvergent
 -- name    : GlobalTheory.SmoothedSumMellin.weight_mellinConvergent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:18:42.538785+00:00
 -- url     : https://prove2.me/theorems/99eaaf22-9a28-44e8-ab7a-4fcb179710c1

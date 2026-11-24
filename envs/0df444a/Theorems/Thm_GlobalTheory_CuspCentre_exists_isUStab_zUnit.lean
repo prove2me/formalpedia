@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_exists_isUStab_zUnit
 -- name    : GlobalTheory.CuspCentre.exists_isUStab_zUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:51:07.036187+00:00
 -- url     : https://prove2.me/theorems/38aaa5ab-94c6-4cce-a399-a2237e7ea5d2

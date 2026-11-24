@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_gs_inj
 -- name    : GlobalTheory.SecGlue.gs_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:52:32.075858+00:00
 -- url     : https://prove2.me/theorems/7db36584-9efe-446b-8c94-4204d67687ed

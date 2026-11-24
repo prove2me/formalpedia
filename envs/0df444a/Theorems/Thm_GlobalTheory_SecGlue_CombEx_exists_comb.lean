@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_CombEx_exists_comb
 -- name    : GlobalTheory.SecGlue.CombEx.exists_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:53:13.122853+00:00
 -- url     : https://prove2.me/theorems/7189bf84-8f1e-40b8-bf5e-4a2920243cdd

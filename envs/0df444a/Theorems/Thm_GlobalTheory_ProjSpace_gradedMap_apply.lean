@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_gradedMap_apply
 -- name    : GlobalTheory.ProjSpace.gradedMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:45:37.912894+00:00
 -- url     : https://prove2.me/theorems/d7e1d933-f658-4bbd-b00e-32cf2c077b25

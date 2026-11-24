@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_exists_norm_toLp_one_le
 -- name    : GlobalTheory.RealWeil.exists_norm_toLp_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:16:07.070307+00:00
 -- url     : https://prove2.me/theorems/276f5f9a-8bc0-4a39-a091-c19e71fcb7c1

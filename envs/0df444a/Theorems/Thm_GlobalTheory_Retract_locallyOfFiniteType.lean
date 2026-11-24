@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_locallyOfFiniteType
 -- name    : GlobalTheory.Retract.locallyOfFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:13:14.521805+00:00
 -- url     : https://prove2.me/theorems/27233539-cfe8-4c86-8a4e-7f4a37f1e844

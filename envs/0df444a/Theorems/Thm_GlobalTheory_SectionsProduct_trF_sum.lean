@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_trF_sum
 -- name    : GlobalTheory.SectionsProduct.trF_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:52:40.252594+00:00
 -- url     : https://prove2.me/theorems/e42bc87b-fa81-4c5f-9bac-9ee162780529

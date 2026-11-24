@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_idealCount_eq_sum
 -- name    : GlobalTheory.QuadraticZeta.idealCount_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:12:12.9814+00:00
 -- url     : https://prove2.me/theorems/7e9162c7-e2ac-450a-8eed-4d71eb6f7584

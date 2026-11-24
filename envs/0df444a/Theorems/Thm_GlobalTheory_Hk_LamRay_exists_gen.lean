@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LamRay_exists_gen
 -- name    : GlobalTheory.Hk.LamRay.exists_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:22:02.00519+00:00
 -- url     : https://prove2.me/theorems/6c5e29aa-8bf2-4ee1-88ae-9c9cdca0a233

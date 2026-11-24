@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDiff_and_fderiv_tsum_fourier_of_rapid
 -- name    : GlobalTheory.contDiff_and_fderiv_tsum_fourier_of_rapid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:45.531879+00:00
 -- url     : https://prove2.me/theorems/11d9d80a-c3fa-4a60-9f02-0865b1300bae

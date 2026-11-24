@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SetIntegralSmoothness_contDiff_setIntegral
 -- name    : GlobalTheory.SetIntegralSmoothness.contDiff_setIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:54:08.849141+00:00
 -- url     : https://prove2.me/theorems/e0e2c4e7-7399-4e5b-a16d-3451f562db58

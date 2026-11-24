@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelativeLengthSpanDet_relLength_span_eq
 -- name    : GlobalTheory.RelativeLengthSpanDet.relLength_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:21:59.629861+00:00
 -- url     : https://prove2.me/theorems/41d86a7e-465d-4f4c-801f-33a2e428ed83

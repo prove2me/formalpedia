@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_adm_mem_sUnits_local_norm_mem_sUnits_sup_normSub
 -- name    : GlobalTheory.QNorm.exists_adm_mem_sUnits_local_norm_mem_sUnits_sup_normSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:24:59.857287+00:00
 -- url     : https://prove2.me/theorems/7ad7adef-f3f6-4991-9af1-701bc01ce4eb

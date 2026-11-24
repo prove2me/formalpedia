@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Serre_exists_eigen_of_projective
 -- name    : GlobalTheory.Serre.exists_eigen_of_projective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:34.7819+00:00
 -- url     : https://prove2.me/theorems/5bd5f7aa-7245-4777-87bd-8662b81df698

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_res_pullU_charUnit
 -- name    : GlobalTheory.SplitTorus.res_pullU_charUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:35.377287+00:00
 -- url     : https://prove2.me/theorems/d4919588-4b9e-4520-88d6-319f9728ea53

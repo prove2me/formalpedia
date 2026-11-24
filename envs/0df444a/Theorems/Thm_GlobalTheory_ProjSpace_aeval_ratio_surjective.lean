@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_aeval_ratio_surjective
 -- name    : GlobalTheory.ProjSpace.aeval_ratio_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:47:16.829784+00:00
 -- url     : https://prove2.me/theorems/c7d22a3b-99ce-4b96-bac4-f220bb0a8fd8

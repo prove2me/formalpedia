@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_exists_prime_liesOver
 -- name    : Formalism.HC.Der.exists_prime_liesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:46:07.368066+00:00
 -- url     : https://prove2.me/theorems/c46b0b57-913b-4039-b077-4e61b5a8efe5

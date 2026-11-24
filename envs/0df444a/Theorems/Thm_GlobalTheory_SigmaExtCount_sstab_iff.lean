@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SigmaExtCount_sstab_iff
 -- name    : GlobalTheory.SigmaExtCount.sstab_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:13:27.120861+00:00
 -- url     : https://prove2.me/theorems/5e493de7-d9e7-420f-94fb-1cb8d7f6fd7b

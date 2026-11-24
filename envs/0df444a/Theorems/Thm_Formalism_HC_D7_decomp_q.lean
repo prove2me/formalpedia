@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_decomp_q
 -- name    : Formalism.HC.D7.decomp_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:39:58.318383+00:00
 -- url     : https://prove2.me/theorems/815b30eb-e0a7-4005-9524-faeca31d4c0d

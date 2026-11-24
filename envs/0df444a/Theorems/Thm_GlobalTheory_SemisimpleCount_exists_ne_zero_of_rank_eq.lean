@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemisimpleCount_exists_ne_zero_of_rank_eq
 -- name    : GlobalTheory.SemisimpleCount.exists_ne_zero_of_rank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:10.747349+00:00
 -- url     : https://prove2.me/theorems/73230b32-874a-4ff5-8394-fccaa8ca1e00

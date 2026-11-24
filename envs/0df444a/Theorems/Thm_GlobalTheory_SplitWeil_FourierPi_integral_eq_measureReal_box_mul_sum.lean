@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_FourierPi_integral_eq_measureReal_box_mul_sum
 -- name    : GlobalTheory.SplitWeil.FourierPi.integral_eq_measureReal_box_mul_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:44.126452+00:00
 -- url     : https://prove2.me/theorems/880fccb9-68a8-41f4-b26d-481768c4aeed

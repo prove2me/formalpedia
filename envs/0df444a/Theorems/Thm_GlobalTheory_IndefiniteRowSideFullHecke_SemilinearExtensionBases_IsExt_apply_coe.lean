@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SemilinearExtensionBases_IsExt_apply_coe
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SemilinearExtensionBases.IsExt.apply_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:48:00.319027+00:00
 -- url     : https://prove2.me/theorems/d61b3c6f-e424-4d9c-8acd-34b9e1ba577f

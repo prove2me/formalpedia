@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_satU_eq
 -- name    : GlobalTheory.SatakeWeyl.satU_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:07.87386+00:00
 -- url     : https://prove2.me/theorems/fa5bdfe1-f420-4bad-9162-b619fca57372

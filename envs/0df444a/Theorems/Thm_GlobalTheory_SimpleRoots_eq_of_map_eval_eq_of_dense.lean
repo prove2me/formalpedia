@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_eq_of_map_eval_eq_of_dense
 -- name    : GlobalTheory.SimpleRoots.eq_of_map_eval_eq_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:35.144712+00:00
 -- url     : https://prove2.me/theorems/7be19f12-dc88-4a7b-b465-87e5737fe7a8

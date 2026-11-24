@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_real_pos
 -- name    : GlobalTheory.SimAlg.real_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:12:19.112891+00:00
 -- url     : https://prove2.me/theorems/9d49e36c-016c-4c88-a0ab-4f3315f02eba

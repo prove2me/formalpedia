@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupNormExample_ptNorm_conj
 -- name    : GlobalTheory.SupNormExample.ptNorm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:23:13.674833+00:00
 -- url     : https://prove2.me/theorems/9b63ef81-0a2d-46f4-9530-b9a5456aa9c3

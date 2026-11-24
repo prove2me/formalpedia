@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ModelPoints_points_model
 -- name    : GlobalTheory.SS.ModelPoints.points_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:37:29.130088+00:00
 -- url     : https://prove2.me/theorems/a785ff75-32d7-4826-a7f2-abf6d6dc5d24

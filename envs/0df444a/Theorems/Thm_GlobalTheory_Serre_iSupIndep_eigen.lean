@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Serre_iSupIndep_eigen
 -- name    : GlobalTheory.Serre.iSupIndep_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:54:23.210664+00:00
 -- url     : https://prove2.me/theorems/8a0c5874-ec58-43b8-9120-a87baa7fc881

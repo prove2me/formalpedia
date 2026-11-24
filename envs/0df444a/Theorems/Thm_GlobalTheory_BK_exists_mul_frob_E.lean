@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_exists_mul_frob_E
 -- name    : GlobalTheory.BK.exists_mul_frob_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:30:08.766807+00:00
 -- url     : https://prove2.me/theorems/4375dd75-657f-4d88-9b58-cb95c75ccae7

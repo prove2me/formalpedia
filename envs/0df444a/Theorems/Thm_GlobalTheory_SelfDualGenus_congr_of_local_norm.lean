@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_congr_of_local_norm
 -- name    : GlobalTheory.SelfDualGenus.congr_of_local_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:52:19.521961+00:00
 -- url     : https://prove2.me/theorems/118d2b04-d4a8-4d0c-8263-ed9f02ba8db4

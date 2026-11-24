@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdTwist_jac_cross
 -- name    : GlobalTheory.SS.OrdTwist.jac_cross
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:42:03.275076+00:00
 -- url     : https://prove2.me/theorems/cb0e644f-6c77-441b-8f97-4eda4d1bf564

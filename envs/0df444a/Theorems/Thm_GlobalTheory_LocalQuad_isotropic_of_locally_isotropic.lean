@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_isotropic_of_locally_isotropic
 -- name    : GlobalTheory.LocalQuad.isotropic_of_locally_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:23:57.876687+00:00
 -- url     : https://prove2.me/theorems/ffa3fd05-4052-406a-8402-ff02231b3bbf

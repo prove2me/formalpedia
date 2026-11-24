@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StalkGlue_exists_vf
 -- name    : GlobalTheory.SS.StalkGlue.exists_vf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:37:18.276712+00:00
 -- url     : https://prove2.me/theorems/96244c16-779b-4842-bd02-17869e80b874

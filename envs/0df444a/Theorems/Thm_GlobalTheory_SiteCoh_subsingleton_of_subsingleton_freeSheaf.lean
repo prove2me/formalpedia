@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiteCoh_subsingleton_of_subsingleton_freeSheaf
 -- name    : GlobalTheory.SiteCoh.subsingleton_of_subsingleton_freeSheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:14:42.029239+00:00
 -- url     : https://prove2.me/theorems/f1dd58f9-952e-4ce3-b705-82cb2f950dfd

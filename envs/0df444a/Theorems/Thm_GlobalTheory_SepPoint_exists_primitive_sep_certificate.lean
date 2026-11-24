@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepPoint_exists_primitive_sep_certificate
 -- name    : GlobalTheory.SepPoint.exists_primitive_sep_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:53:32.42267+00:00
 -- url     : https://prove2.me/theorems/280d1ea6-e075-47a3-af69-a39bd1434d17

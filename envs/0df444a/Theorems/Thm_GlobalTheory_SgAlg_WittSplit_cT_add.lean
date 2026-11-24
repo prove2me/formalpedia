@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittSplit_cT_add
 -- name    : GlobalTheory.SgAlg.WittSplit.cT_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:54:47.648691+00:00
 -- url     : https://prove2.me/theorems/491016a8-d629-4f39-abe5-9253ce2fa75c

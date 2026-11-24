@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmTensor_tens_mul
 -- name    : GlobalTheory.SymmTensor.tens_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:24:42.312396+00:00
 -- url     : https://prove2.me/theorems/f1474fc5-1b4d-4b03-9eff-06c607951e90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_TorusConjProof_torusConj
 -- name    : GlobalTheory.SatakeWeyl.TorusConjProof.torusConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:47:30.003722+00:00
 -- url     : https://prove2.me/theorems/465c3a5e-1780-49ba-8d7c-f66f073328fb

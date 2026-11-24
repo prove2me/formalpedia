@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_form_symm
 -- name    : GlobalTheory.SimAlg.form_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:12:46.71305+00:00
 -- url     : https://prove2.me/theorems/37ac2199-20e0-44b8-88b3-9469a066a90a

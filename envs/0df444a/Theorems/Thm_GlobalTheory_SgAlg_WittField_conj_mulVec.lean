@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_conj_mulVec
 -- name    : GlobalTheory.SgAlg.WittField.conj_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:54:13.094505+00:00
 -- url     : https://prove2.me/theorems/fdfcc4f3-07c3-49dd-b0db-1e34326818da

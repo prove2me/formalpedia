@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeFlip_exists_isBorelSph_rev_inv
 -- name    : GlobalTheory.SatakeFlip.exists_isBorelSph_rev_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:45:35.405288+00:00
 -- url     : https://prove2.me/theorems/bc3fece8-54ad-4deb-9262-229268cfb78b

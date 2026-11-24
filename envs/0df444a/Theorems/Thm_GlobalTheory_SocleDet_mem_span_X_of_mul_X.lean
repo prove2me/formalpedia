@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SocleDet_mem_span_X_of_mul_X
 -- name    : GlobalTheory.SocleDet.mem_span_X_of_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:18:50.844953+00:00
 -- url     : https://prove2.me/theorems/48b183bf-6e96-4646-90d6-8aeab4a17417

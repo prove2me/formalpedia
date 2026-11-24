@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_trace_field
 -- name    : GlobalTheory.SelfDualLatticeCompare.trace_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:53:11.301439+00:00
 -- url     : https://prove2.me/theorems/2dd3a2e3-df28-44e9-8af0-d2d20aa7a6d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_Top_t2Space_of_isNonarchimedeanLocalField_flag_measures
 -- name    : GlobalTheory.SgLoc.Top.t2Space_of_isNonarchimedeanLocalField_flag_measures
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:09:47.696337+00:00
 -- url     : https://prove2.me/theorems/f0e319a8-61fd-48c6-96ee-79dac23d74b7

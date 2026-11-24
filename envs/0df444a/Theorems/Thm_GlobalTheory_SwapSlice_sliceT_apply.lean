@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SwapSlice_sliceT_apply
 -- name    : GlobalTheory.SwapSlice.sliceT_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:26.811119+00:00
 -- url     : https://prove2.me/theorems/4ed5e212-4add-4b77-88b0-e598887268df

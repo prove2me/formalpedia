@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_trace_tensor
 -- name    : GlobalTheory.SelfDualLatticeCompare.trace_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:59:14.478792+00:00
 -- url     : https://prove2.me/theorems/3967243d-f5e2-4a33-8f4b-d7e68519ca13

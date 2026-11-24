@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SameZeroScheme_dvd_on_affine
 -- name    : GlobalTheory.SameZeroScheme.dvd_on_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:45:14.028998+00:00
 -- url     : https://prove2.me/theorems/c34668f2-8ba5-4244-97c9-8d24312d6e56

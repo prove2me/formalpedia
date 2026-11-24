@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_two_dvd_QS
 -- name    : Formalism.HC.Der.two_dvd_QS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:46:00.995847+00:00
 -- url     : https://prove2.me/theorems/6e96b57c-3981-4d5e-b6ea-ce3fe3ae6288

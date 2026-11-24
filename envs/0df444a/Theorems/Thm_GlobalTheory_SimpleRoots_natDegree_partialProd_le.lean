@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_natDegree_partialProd_le
 -- name    : GlobalTheory.SimpleRoots.natDegree_partialProd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:14.166256+00:00
 -- url     : https://prove2.me/theorems/01e20e4d-1741-41f3-9813-dfd2a782bf3d

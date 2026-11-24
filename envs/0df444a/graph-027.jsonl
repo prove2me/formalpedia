@@ -69250,8 +69250,8 @@
 {"parent": "MarginMaxima.Critical.lemma_6_2", "child": "BartlettNN_Margin_FatShattering", "via": ["statement"]}
 {"parent": "MarginMaxima.Critical.lemma_6_2", "child": "MarginMaxima_Critical_MaxClass", "via": ["statement"]}
 {"parent": "PolynomialSampling137_OneThird_AffineCubes", "child": "PolynomialSampling137_OneThird_BooleanSources", "via": ["statement"]}
-{"parent": "DynLZ77.Main.claim_8_12", "child": "DynLZ77_Main_Structure", "via": ["statement"]}
-{"parent": "DynLZ77.Main.claim_8_12", "child": "DynLZ77_Main_Strings", "via": ["statement"]}
+{"parent": "DynLZ77.Main.claim_8_12", "child": "DynLZ77_Main_Structure", "via": ["solution", "statement"]}
+{"parent": "DynLZ77.Main.claim_8_12", "child": "DynLZ77_Main_Strings", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a06_bv_original_assumptions_counterexample", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a06_bv_original_assumptions_counterexample", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a06_bv_original_assumptions_counterexample", "child": "AvramDividend.Classical.avram_a06_bv_zero_cap_conditional_refutation", "via": ["solution", "statement"]}
@@ -78864,7 +78864,7 @@
 {"parent": "PlanarDFVSKernel.theorem_2_1", "child": "PlanarDFVSKernel_IsDirectedCut", "via": ["statement"]}
 {"parent": "PolyhedralPacking1261.Packing.same_shadow_separation", "child": "PolyhedralPacking1261_Packing_Parallelepipeds", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_phys38_original_finite_simple_negative_mark_compensation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "LindbladQueryOptimal.Simulation.lemma_11", "child": "LindbladQueryOptimal_Simulation_Local", "via": ["statement"]}
+{"parent": "LindbladQueryOptimal.Simulation.lemma_11", "child": "LindbladQueryOptimal_Simulation_Local", "via": ["solution", "statement"]}
 {"parent": "OAI.HigherDimensionalBallPacking.Rigidity.HolderCompletion.disk_nonlinear_jet_cauchy_bp240", "child": "OAIQ240Bp008", "via": ["statement"]}
 {"parent": "SubquadCutReach.Faster.lemma_C_2", "child": "SubquadCutReach_Faster_Tasks", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_7_19_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}

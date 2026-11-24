@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionKernel_cst_eq
 -- name    : GlobalTheory.SectionKernel.cst_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:51:42.783898+00:00
 -- url     : https://prove2.me/theorems/747d0af4-a597-4d41-8d87-bf8d94252ee1

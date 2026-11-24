@@ -1,0 +1,51 @@
+-- Prove2me | solution 1 for GlobalTheory.SheafPull.comp_extMap_right
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-24T20:47:04.805883+00:00
+-- url     : https://prove2.me/submissions/d48ce139-ee61-47db-bc15-70360d388bc5
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_MapFOneInjectiveOfSectionsSurjective
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CohomologyPresheafFunctorMapAppApply
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_FreeYonedaHomEquivFreeToPullbackComp
+import Theorems.Thm_GlobalTheory_SheafPull_extMap_apply
+import Theorems.Thm_GlobalTheory_SheafLES_map_id
+import Theorems.Thm_GlobalTheory_SheafLES_map_zero_hom
+import Theorems.Thm_GlobalTheory_SheafLES_res_id
+import Theorems.Thm_GlobalTheory_SheafLES_toAbSheaf_map_hom
+import Theorems.Thm_GlobalTheory_SheafLES_toAbSheaf_obj_obj
+import Theorems.Thm_P2M_GlobalTheory_SheafLES___map_026ec4bafb10
+import Theorems.Thm_P2M_GlobalTheory_SheafLES_map___ee3a67e9aebf
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] GlobalTheory.SheafLES.map_id
+attribute [local simp] GlobalTheory.SheafLES.map_zero_hom
+attribute [local simp] GlobalTheory.SheafLES.res_id
+attribute [local simp] GlobalTheory.SheafLES.toAbSheaf_map_hom
+attribute [local simp] GlobalTheory.SheafLES.toAbSheaf_obj_obj
+attribute [local simp] P2M_GlobalTheory_SheafLES___map_026ec4bafb10
+attribute [local simp] P2M_GlobalTheory_SheafLES_map___ee3a67e9aebf
+
+
+
+set_option autoImplicit false
+open CategoryTheory Abelian Opposite Limits TopologicalSpace
+universe w w' w'' v u u₁ v₁ u₂ v₂
+noncomputable section
+open GlobalTheory
+open GlobalTheory.SheafPull
+variable {A : Type u₁} [Category.{v₁} A] [Abelian A] [HasExt.{w} A]
+  {B : Type u₂} [Category.{v₂} B] [Abelian B] [HasExt.{w'} B]
+  (Φ : A ⥤ B) [Φ.Additive] [PreservesFiniteLimits Φ] [PreservesFiniteColimits Φ]
+namespace GlobalTheory.SheafPull
+theorem _root_.solution {Z F : A} {Z' G G' : B} (a : Z' ⟶ Φ.obj Z) (b : Φ.obj F ⟶ G)
+    (t : G ⟶ G') (n : ℕ) (x : Ext.{w} Z F n) :
+    (extMap.{w, w'} Φ a b n x).comp (Ext.mk₀ t) (add_zero n) =
+      extMap.{w, w'} Φ a (b ≫ t) n x := by
+  simp only [extMap_apply, Ext.comp_assoc_of_third_deg_zero, Ext.mk₀_comp_mk₀]
+end GlobalTheory.SheafPull

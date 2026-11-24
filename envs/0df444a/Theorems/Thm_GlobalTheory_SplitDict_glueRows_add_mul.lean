@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitDict_glueRows_add_mul
 -- name    : GlobalTheory.SplitDict.glueRows_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:32.866387+00:00
 -- url     : https://prove2.me/theorems/f751f1bc-6068-4a58-8e6a-49488a14022f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxG_cptInCC_G
 -- name    : Formalism.FourierDecayAlt.P.JFxG.cptInCC_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:46:28.796333+00:00
 -- url     : https://prove2.me/theorems/7d15a5ff-ae04-4b21-8c9f-faf5687bd4db

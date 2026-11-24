@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_PermWord_trace_path
 -- name    : GlobalTheory.SmoothForms.PermWord.trace_path
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:51.0856+00:00
 -- url     : https://prove2.me/theorems/78f598ae-6526-430f-847c-6ba08e94a6ed

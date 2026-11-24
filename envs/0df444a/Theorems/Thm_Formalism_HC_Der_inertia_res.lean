@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_inertia_res
 -- name    : Formalism.HC.Der.inertia_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:13:29.703326+00:00
 -- url     : https://prove2.me/theorems/9bf1695b-9915-4d93-8365-dce6e57bb455

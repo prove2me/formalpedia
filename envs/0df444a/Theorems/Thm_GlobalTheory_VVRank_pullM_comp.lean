@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_pullM_comp
 -- name    : GlobalTheory.VVRank.pullM_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:57:49.695508+00:00
 -- url     : https://prove2.me/theorems/d313a045-edc9-4053-83a5-d31ee5bb8ee9

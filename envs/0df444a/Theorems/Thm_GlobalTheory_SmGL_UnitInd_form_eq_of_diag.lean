@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_form_eq_of_diag
 -- name    : GlobalTheory.SmGL.UnitInd.form_eq_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:13:47.095987+00:00
 -- url     : https://prove2.me/theorems/edca6a20-bdc6-4d71-b5fa-ec75d5827662

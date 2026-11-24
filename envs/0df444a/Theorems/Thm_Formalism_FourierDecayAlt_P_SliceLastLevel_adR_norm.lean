@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_adR_norm
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.adR_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:07:06.433492+00:00
 -- url     : https://prove2.me/theorems/3724a9e4-dac2-48fe-88e7-1736370b65c4

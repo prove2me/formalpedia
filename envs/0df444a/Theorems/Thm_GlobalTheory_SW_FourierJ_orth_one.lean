@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_orth_one
 -- name    : GlobalTheory.SW.FourierJ.orth_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:38:50.203139+00:00
 -- url     : https://prove2.me/theorems/674a0408-451d-486f-8582-4b1b8fa8e1a0

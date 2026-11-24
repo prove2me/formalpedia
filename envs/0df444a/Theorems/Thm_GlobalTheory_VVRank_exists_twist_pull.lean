@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_exists_twist_pull
 -- name    : GlobalTheory.VVRank.exists_twist_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:58:00.595441+00:00
 -- url     : https://prove2.me/theorems/0778b970-5a88-447f-86aa-9640e4c35898

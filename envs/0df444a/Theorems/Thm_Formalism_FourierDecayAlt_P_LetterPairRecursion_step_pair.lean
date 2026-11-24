@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LetterPairRecursion_step_pair
 -- name    : Formalism.FourierDecayAlt.P.LetterPairRecursion.step_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:26:07.946798+00:00
 -- url     : https://prove2.me/theorems/dc3828a8-9ab0-4615-81bb-1f7310035b7b

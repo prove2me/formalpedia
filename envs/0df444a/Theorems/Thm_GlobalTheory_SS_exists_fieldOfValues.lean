@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_fieldOfValues
 -- name    : GlobalTheory.SS.exists_fieldOfValues
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:49.842788+00:00
 -- url     : https://prove2.me/theorems/e0ca544d-08c6-42fb-916a-524d48250c71

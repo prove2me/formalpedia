@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_FewPrimes_ncard_not_prime_le
 -- name    : GlobalTheory.Mem.FewPrimes.ncard_not_prime_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:22:50.831947+00:00
 -- url     : https://prove2.me/theorems/b29c8b14-6348-46d1-9c7c-47559c78b418

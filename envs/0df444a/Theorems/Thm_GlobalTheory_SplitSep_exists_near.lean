@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitSep_exists_near
 -- name    : GlobalTheory.SplitSep.exists_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:21:41.197695+00:00
 -- url     : https://prove2.me/theorems/f5ea1cb5-8caf-4f56-a55c-6f0500d8bcae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocFv_isLocR_of_ultrametric
 -- name    : GlobalTheory.CompanionTheory.SW.LocFv.isLocR_of_ultrametric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:09:36.234533+00:00
 -- url     : https://prove2.me/theorems/1d632058-f405-418e-8224-23fe37b0a851

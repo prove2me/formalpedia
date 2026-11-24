@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_pairLat_std
 -- name    : GlobalTheory.SgGlob.Inhab.pairLat_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:54:46.085958+00:00
 -- url     : https://prove2.me/theorems/47996169-16be-4a17-973a-fffc94a725e0

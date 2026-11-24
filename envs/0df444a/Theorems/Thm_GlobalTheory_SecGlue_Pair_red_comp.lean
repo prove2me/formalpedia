@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Pair_red_comp
 -- name    : GlobalTheory.SecGlue.Pair.red_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:49:40.335808+00:00
 -- url     : https://prove2.me/theorems/28fb55e0-56bf-4e4b-a6f6-1552fad16c7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfCube_semicharacter_rule
 -- name    : GlobalTheory.SelfCube.semicharacter_rule
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:57:56.413943+00:00
 -- url     : https://prove2.me/theorems/ecd1350d-bb2d-46b4-aab0-c7c595ff6ca0

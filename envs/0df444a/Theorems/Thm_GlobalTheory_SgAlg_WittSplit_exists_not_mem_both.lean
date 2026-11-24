@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittSplit_exists_not_mem_both
 -- name    : GlobalTheory.SgAlg.WittSplit.exists_not_mem_both
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:45.537021+00:00
 -- url     : https://prove2.me/theorems/f560b122-407a-4d87-a6a2-13ab9f9ed466

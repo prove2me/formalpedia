@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymbolOne_deriv_mem_pow
 -- name    : GlobalTheory.SymbolOne.deriv_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:24:41.545718+00:00
 -- url     : https://prove2.me/theorems/28b33d79-3c32-4ae4-8191-482ce11038b3

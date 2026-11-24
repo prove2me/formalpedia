@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_agree_of_le
 -- name    : GlobalTheory.SW.Nbr.agree_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:33.121207+00:00
 -- url     : https://prove2.me/theorems/50365a67-95d8-4a20-ad38-db067ccbd8ff

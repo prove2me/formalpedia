@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortDatumEq_isSep_cSep
 -- name    : GlobalTheory.ShortDatumEq.isSep_cSep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:02.602882+00:00
 -- url     : https://prove2.me/theorems/85ff83b8-7c11-4f53-8995-0655fe88806f

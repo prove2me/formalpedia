@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermClass_exists_finite_classes
 -- name    : GlobalTheory.HermClass.exists_finite_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:19:20.994002+00:00
 -- url     : https://prove2.me/theorems/ca0ce123-e1fe-43e0-a529-093ed782c700

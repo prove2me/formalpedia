@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecondPartialLaw_triplePt_trunc_second
 -- name    : GlobalTheory.SecondPartialLaw.triplePt_trunc_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:52:00.230329+00:00
 -- url     : https://prove2.me/theorems/86815e79-4c5a-461a-8de1-1f5bcbd38075

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PRep_IsSmooth_smoothOp_add
 -- name    : GlobalTheory.PRep.IsSmooth.smoothOp_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:33:01.345739+00:00
 -- url     : https://prove2.me/theorems/f4cb1555-af48-4477-8df1-240efa20e9b1

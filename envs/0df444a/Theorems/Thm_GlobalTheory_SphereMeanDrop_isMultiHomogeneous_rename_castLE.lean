@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SphereMeanDrop_isMultiHomogeneous_rename_castLE
 -- name    : GlobalTheory.SphereMeanDrop.isMultiHomogeneous_rename_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:41.234536+00:00
 -- url     : https://prove2.me/theorems/d975d7b1-b8ff-4f5b-9b83-26eb2ab42a72

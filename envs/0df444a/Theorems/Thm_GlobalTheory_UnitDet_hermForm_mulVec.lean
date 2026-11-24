@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDet_hermForm_mulVec
 -- name    : GlobalTheory.UnitDet.hermForm_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:41:09.974222+00:00
 -- url     : https://prove2.me/theorems/34d53cff-460f-47c3-b006-f3685c89bd6c

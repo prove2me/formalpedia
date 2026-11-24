@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitDict_inversion_const
 -- name    : GlobalTheory.SplitDict.inversion_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:20:20.960438+00:00
 -- url     : https://prove2.me/theorems/7c955eaf-0482-486d-bd1e-97a6340acd87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_sv_mulPull
 -- name    : GlobalTheory.ThetaCoord.sv_mulPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:17:20.41189+00:00
 -- url     : https://prove2.me/theorems/509f2cdf-bdd5-47c1-b105-5cd206ae73aa

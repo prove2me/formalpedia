@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_herm_mulVec
 -- name    : GlobalTheory.SelfDualGenus.herm_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:52:04.402299+00:00
 -- url     : https://prove2.me/theorems/257b97e1-b194-41e0-ae64-c86e55f83ecd

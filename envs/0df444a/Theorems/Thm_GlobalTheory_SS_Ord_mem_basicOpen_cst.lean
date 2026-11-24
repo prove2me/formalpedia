@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_mem_basicOpen_cst
 -- name    : GlobalTheory.SS.Ord.mem_basicOpen_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:17:02.975587+00:00
 -- url     : https://prove2.me/theorems/08252602-d2fd-4a41-b8b7-15e599ede38e

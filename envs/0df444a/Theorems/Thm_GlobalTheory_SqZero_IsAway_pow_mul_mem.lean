@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_IsAway_pow_mul_mem
 -- name    : GlobalTheory.SqZero.IsAway.pow_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:21:37.945914+00:00
 -- url     : https://prove2.me/theorems/0c492b15-2e26-44c6-84b8-a923e9d23e5b

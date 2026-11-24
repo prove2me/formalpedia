@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SigmaExtCount_conj_inv_eq_neg
 -- name    : GlobalTheory.SigmaExtCount.conj_inv_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:11:19.518312+00:00
 -- url     : https://prove2.me/theorems/7a8fbd8b-5d07-4393-8c87-9122935514ac

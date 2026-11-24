@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfCube_herm_smul_left
 -- name    : GlobalTheory.SelfCube.herm_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:41.849487+00:00
 -- url     : https://prove2.me/theorems/e420d379-235f-4fff-ab80-383623318f47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitComp_exists_real_add
 -- name    : GlobalTheory.SplitComp.exists_real_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:11.200461+00:00
 -- url     : https://prove2.me/theorems/728af63a-eb0b-4ac6-a0e6-909496f62178

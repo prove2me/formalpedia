@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_WeightedPowerFormIntegrability_continuous_powForm
 -- name    : GlobalTheory.ConvSeries.WeightedPowerFormIntegrability.continuous_powForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:43.517007+00:00
 -- url     : https://prove2.me/theorems/4146eff2-7ab4-423b-9d62-3a8af4be9fab

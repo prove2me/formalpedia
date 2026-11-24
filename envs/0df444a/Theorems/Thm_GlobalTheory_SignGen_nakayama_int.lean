@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignGen_nakayama_int
 -- name    : GlobalTheory.SignGen.nakayama_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:18.056384+00:00
 -- url     : https://prove2.me/theorems/2b171ba3-2a59-40c3-8375-3c778e9a0334

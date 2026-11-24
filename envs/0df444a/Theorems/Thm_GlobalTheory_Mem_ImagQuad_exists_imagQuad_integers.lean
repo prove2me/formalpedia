@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_ImagQuad_exists_imagQuad_integers
 -- name    : GlobalTheory.Mem.ImagQuad.exists_imagQuad_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:23:00.295609+00:00
 -- url     : https://prove2.me/theorems/7147f179-ecee-4ecf-8965-86ade0300cc4

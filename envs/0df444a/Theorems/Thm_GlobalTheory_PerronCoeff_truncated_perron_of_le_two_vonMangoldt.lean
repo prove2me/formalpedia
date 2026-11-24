@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerronCoeff_truncated_perron_of_le_two_vonMangoldt
 -- name    : GlobalTheory.PerronCoeff.truncated_perron_of_le_two_vonMangoldt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:43:59.98146+00:00
 -- url     : https://prove2.me/theorems/6aa216a4-8396-4fce-9502-8bd9c9c5943e

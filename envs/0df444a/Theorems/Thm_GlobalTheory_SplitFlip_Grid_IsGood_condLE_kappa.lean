@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Grid_IsGood_condLE_kappa
 -- name    : GlobalTheory.SplitFlip.Grid.IsGood.condLE_kappa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:20:04.748191+00:00
 -- url     : https://prove2.me/theorems/93d3f569-3518-4f3c-afb2-98983886cdfb

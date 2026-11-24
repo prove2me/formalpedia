@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_isAffineOpen_inf
 -- name    : GlobalTheory.AffineThickening.isAffineOpen_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:57:27.714564+00:00
 -- url     : https://prove2.me/theorems/14442ef7-168f-4b59-a503-456553741d8a

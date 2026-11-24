@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_Sq_Tuple_tuple_constants_ne_zero
 -- name    : GlobalTheory.Square.Sq.Tuple.tuple_constants_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:25:21.060866+00:00
 -- url     : https://prove2.me/theorems/fa0bd7cb-bde7-4d7a-a93e-3ff9d75e2fdc

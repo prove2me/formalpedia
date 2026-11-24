@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubmodulePowSimple_single_diag
 -- name    : GlobalTheory.SubmodulePowSimple.single_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:22.67832+00:00
 -- url     : https://prove2.me/theorems/b1371f5a-4e3a-40ce-a29a-9513efaeed06

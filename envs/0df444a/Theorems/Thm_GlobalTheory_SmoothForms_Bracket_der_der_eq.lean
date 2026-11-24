@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_Bracket_der_der_eq
 -- name    : GlobalTheory.SmoothForms.Bracket.der_der_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:19:16.972449+00:00
 -- url     : https://prove2.me/theorems/84ea2e0d-d1f4-4a84-a850-200a2fcc0e31

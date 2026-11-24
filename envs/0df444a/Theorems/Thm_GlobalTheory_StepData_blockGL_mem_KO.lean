@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_blockGL_mem_KO
 -- name    : GlobalTheory.StepData.blockGL_mem_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:12.903794+00:00
 -- url     : https://prove2.me/theorems/5472f965-1d80-454d-9a14-4b0f51a837b7

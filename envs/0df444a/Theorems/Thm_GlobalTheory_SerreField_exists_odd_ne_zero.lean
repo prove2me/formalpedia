@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreField_exists_odd_ne_zero
 -- name    : GlobalTheory.SerreField.exists_odd_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:54:48.888526+00:00
 -- url     : https://prove2.me/theorems/5c77c73e-fb35-45a2-b140-b5a6d101ed3c

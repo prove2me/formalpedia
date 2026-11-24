@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummCount_pow_mul_inv_rpow_eq
 -- name    : GlobalTheory.SummCount.pow_mul_inv_rpow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:36.653847+00:00
 -- url     : https://prove2.me/theorems/38c57db6-b359-472c-8736-b8e1b2bfe47b

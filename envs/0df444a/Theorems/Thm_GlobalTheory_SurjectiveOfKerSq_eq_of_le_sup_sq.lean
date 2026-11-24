@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SurjectiveOfKerSq_eq_of_le_sup_sq
 -- name    : GlobalTheory.SurjectiveOfKerSq.eq_of_le_sup_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:21.389798+00:00
 -- url     : https://prove2.me/theorems/8bce3761-fd71-4505-8011-397c0867fbcc

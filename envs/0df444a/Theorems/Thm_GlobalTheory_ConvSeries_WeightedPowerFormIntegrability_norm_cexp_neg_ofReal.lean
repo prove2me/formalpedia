@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_WeightedPowerFormIntegrability_norm_cexp_neg_ofReal
 -- name    : GlobalTheory.ConvSeries.WeightedPowerFormIntegrability.norm_cexp_neg_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:41:38.473798+00:00
 -- url     : https://prove2.me/theorems/b4cac1b0-988b-465a-8964-1a43d6df9ae0

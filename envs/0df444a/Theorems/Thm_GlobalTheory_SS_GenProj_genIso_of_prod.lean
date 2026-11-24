@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GenProj_genIso_of_prod
 -- name    : GlobalTheory.SS.GenProj.genIso_of_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:34:52.452171+00:00
 -- url     : https://prove2.me/theorems/9f5e33e3-498b-4548-b44c-4c528703a210

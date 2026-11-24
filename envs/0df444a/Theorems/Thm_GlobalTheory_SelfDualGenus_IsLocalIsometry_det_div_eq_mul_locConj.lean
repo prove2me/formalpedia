@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_IsLocalIsometry_det_div_eq_mul_locConj
 -- name    : GlobalTheory.SelfDualGenus.IsLocalIsometry.det_div_eq_mul_locConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:52:54.683024+00:00
 -- url     : https://prove2.me/theorems/ca2d03de-5b93-49c5-9354-9738ea2682d8

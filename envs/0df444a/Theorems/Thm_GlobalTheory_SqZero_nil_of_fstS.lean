@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_nil_of_fstS
 -- name    : GlobalTheory.SqZero.nil_of_fstS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:23:03.384879+00:00
 -- url     : https://prove2.me/theorems/2d302e54-7203-4e20-a8ce-1f6f8cdf8c51

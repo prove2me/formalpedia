@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_chain_comap_eq
 -- name    : GlobalTheory.SatakeWeyl.chain_comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:36.508088+00:00
 -- url     : https://prove2.me/theorems/bab03d4a-2332-4101-a080-5864e4d2fd73

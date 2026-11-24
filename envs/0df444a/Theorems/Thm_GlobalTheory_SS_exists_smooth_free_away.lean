@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_smooth_free_away
 -- name    : GlobalTheory.SS.exists_smooth_free_away
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:39.814687+00:00
 -- url     : https://prove2.me/theorems/1cc90de8-99ce-43b5-b626-5814f940029e

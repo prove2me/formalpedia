@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TransComp_key
 -- name    : GlobalTheory.SW.TransComp.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:19.470797+00:00
 -- url     : https://prove2.me/theorems/ac7145bf-e7f4-42ab-8f0e-42c983507216

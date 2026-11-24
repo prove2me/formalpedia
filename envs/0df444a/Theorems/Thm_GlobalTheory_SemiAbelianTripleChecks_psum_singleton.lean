@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianTripleChecks_psum_singleton
 -- name    : GlobalTheory.SemiAbelianTripleChecks.psum_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:53:38.569256+00:00
 -- url     : https://prove2.me/theorems/ec56ca95-e0a0-4109-855d-6fc93d175dbe

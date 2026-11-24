@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitSpread_sum_eq_degree
 -- name    : GlobalTheory.SplitSpread.sum_eq_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:08.086866+00:00
 -- url     : https://prove2.me/theorems/80f43353-6dbd-4b91-91ae-44d398a39622

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SuperCusp_val_mul_le_one
 -- name    : GlobalTheory.SuperCusp.val_mul_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:23:42.827815+00:00
 -- url     : https://prove2.me/theorems/d6d8e255-0f9f-462b-95a2-b21021be57b2

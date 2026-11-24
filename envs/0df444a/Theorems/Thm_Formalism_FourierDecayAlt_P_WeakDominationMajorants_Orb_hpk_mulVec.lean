@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Orb_hpk_mulVec
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.hpk_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:08:59.815841+00:00
 -- url     : https://prove2.me/theorems/1a84e242-aeff-4ac9-83fd-8bc85c045492

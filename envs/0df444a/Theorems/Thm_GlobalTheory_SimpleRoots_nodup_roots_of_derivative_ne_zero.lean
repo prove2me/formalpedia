@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_nodup_roots_of_derivative_ne_zero
 -- name    : GlobalTheory.SimpleRoots.nodup_roots_of_derivative_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:12:38.235454+00:00
 -- url     : https://prove2.me/theorems/a01efe39-5420-4108-adf4-ea0b148692aa

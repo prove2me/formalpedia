@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegralExchange_integrable_iteratedFDeriv
 -- name    : GlobalTheory.SchwartzIntegralExchange.integrable_iteratedFDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:48:04.626146+00:00
 -- url     : https://prove2.me/theorems/688f3c97-381a-4090-9acf-f5bae763779f

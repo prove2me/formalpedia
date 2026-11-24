@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_PowCmp_le_of_zpow_mul_unit_eq
 -- name    : GlobalTheory.SS.PowCmp.le_of_zpow_mul_unit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:36:50.385045+00:00
 -- url     : https://prove2.me/theorems/5684035f-7470-4abe-b7d0-288259d5cf84

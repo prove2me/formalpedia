@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralAgentsWorldModels_lemma3_factor_eventually
 -- name    : GeneralAgentsWorldModels.lemma3_factor_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:36:34.673796+00:00
 -- url     : https://prove2.me/theorems/b0475c65-94c4-45ca-a939-796fc990a46b

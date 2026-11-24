@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepIdem_formallyUnramified_of_isReduced
 -- name    : GlobalTheory.SepIdem.formallyUnramified_of_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:52:59.563961+00:00
 -- url     : https://prove2.me/theorems/2b9b583d-9c72-4f8d-9626-cea44d787399

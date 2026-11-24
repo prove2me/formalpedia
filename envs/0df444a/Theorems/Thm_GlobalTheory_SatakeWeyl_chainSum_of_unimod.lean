@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_chainSum_of_unimod
 -- name    : GlobalTheory.SatakeWeyl.chainSum_of_unimod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:47:47.105004+00:00
 -- url     : https://prove2.me/theorems/c0ed2d36-7c51-4622-89f6-c190cba0b04a

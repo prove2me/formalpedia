@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_box_exists_unit
 -- name    : GlobalTheory.SegreCoord.box_exists_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:53:25.243526+00:00
 -- url     : https://prove2.me/theorems/decee20e-763d-45b5-b48b-0495372b3f62

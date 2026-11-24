@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_pj_fst
 -- name    : GlobalTheory.SS.Translates.pj_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:19:09.506256+00:00
 -- url     : https://prove2.me/theorems/5b31ed86-da89-4c64-a8f5-9ba0fd2952cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemicharIndep_B_skew
 -- name    : GlobalTheory.SemicharIndep.B_skew
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:21.144925+00:00
 -- url     : https://prove2.me/theorems/6f4f56a1-c689-4b5e-8dd7-ce22722e04af

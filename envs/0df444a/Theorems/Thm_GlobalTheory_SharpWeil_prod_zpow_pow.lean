@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpWeil_prod_zpow_pow
 -- name    : GlobalTheory.SharpWeil.prod_zpow_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:11:34.587492+00:00
 -- url     : https://prove2.me/theorems/798c8c92-a633-4346-b389-2381a3451534

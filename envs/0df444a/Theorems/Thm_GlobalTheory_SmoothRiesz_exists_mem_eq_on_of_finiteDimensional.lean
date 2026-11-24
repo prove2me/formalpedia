@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothRiesz_exists_mem_eq_on_of_finiteDimensional
 -- name    : GlobalTheory.SmoothRiesz.exists_mem_eq_on_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:18:59.180215+00:00
 -- url     : https://prove2.me/theorems/e2ea9146-8a2e-4bc4-90c9-df0e5b38cc6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_chiH_sym
 -- name    : GlobalTheory.SW.HeckeId.chiH_sym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:40:35.783568+00:00
 -- url     : https://prove2.me/theorems/b9ac84bb-ca85-424e-8136-8166b33019db

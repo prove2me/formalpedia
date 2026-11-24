@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualIsom_exists_nat_smul_mem
 -- name    : GlobalTheory.SelfDualIsom.exists_nat_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:20.904846+00:00
 -- url     : https://prove2.me/theorems/92bb998b-d78c-4554-86fa-ec8f6af92dbb

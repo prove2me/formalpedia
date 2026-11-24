@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_isPullback_j
 -- name    : GlobalTheory.SS.Translates.isPullback_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:40:46.259906+00:00
 -- url     : https://prove2.me/theorems/fa5d8a8b-85d8-4d39-abf8-8c808b5f2f89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StalkDer_extend
 -- name    : GlobalTheory.SS.StalkDer.extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:20.046803+00:00
 -- url     : https://prove2.me/theorems/444cc8a6-91db-4b23-834f-8f04066b42db

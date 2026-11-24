@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_existsUnique_zpow_mul
 -- name    : GlobalTheory.PrimeSection.existsUnique_zpow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:28:29.678288+00:00
 -- url     : https://prove2.me/theorems/16baab07-3896-46d1-ac93-25b49b6de076

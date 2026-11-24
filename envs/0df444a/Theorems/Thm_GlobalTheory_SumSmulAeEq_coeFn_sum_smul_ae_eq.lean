@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SumSmulAeEq_coeFn_sum_smul_ae_eq
 -- name    : GlobalTheory.SumSmulAeEq.coeFn_sum_smul_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:39:06.228972+00:00
 -- url     : https://prove2.me/theorems/0a1660a3-5e28-4a37-b45c-844129842e98

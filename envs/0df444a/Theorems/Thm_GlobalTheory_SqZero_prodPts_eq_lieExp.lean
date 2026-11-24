@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_prodPts_eq_lieExp
 -- name    : GlobalTheory.SqZero.prodPts_eq_lieExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:23:04.488095+00:00
 -- url     : https://prove2.me/theorems/0b5112d4-d783-4c50-9251-04f0e24560c5

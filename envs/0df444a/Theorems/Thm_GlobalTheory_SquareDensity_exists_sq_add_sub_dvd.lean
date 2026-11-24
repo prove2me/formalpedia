@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareDensity_exists_sq_add_sub_dvd
 -- name    : GlobalTheory.SquareDensity.exists_sq_add_sub_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:22:38.804791+00:00
 -- url     : https://prove2.me/theorems/81bf29a0-be73-4b56-9b17-523e45c19183

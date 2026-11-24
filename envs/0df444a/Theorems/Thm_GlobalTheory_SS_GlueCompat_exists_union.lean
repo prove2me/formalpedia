@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GlueCompat_exists_union
 -- name    : GlobalTheory.SS.GlueCompat.exists_union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:35:12.581048+00:00
 -- url     : https://prove2.me/theorems/8c47819c-baac-4a6f-810c-860a1f0694fc

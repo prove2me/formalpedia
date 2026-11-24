@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_isClosed_UH
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.isClosed_UH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:00.507326+00:00
 -- url     : https://prove2.me/theorems/fc572c3b-aa71-45e2-94b7-c757ddf692a6

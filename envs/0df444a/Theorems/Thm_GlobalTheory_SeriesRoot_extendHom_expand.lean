@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesRoot_extendHom_expand
 -- name    : GlobalTheory.SeriesRoot.extendHom_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:42.887301+00:00
 -- url     : https://prove2.me/theorems/13a51e34-b2fd-4069-9bb4-cefd27951649

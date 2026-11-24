@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SylvesterInertia_inlMap_injective
 -- name    : GlobalTheory.SylvesterInertia.inlMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:19.626791+00:00
 -- url     : https://prove2.me/theorems/ea392689-a305-433c-be17-6727ec957da1

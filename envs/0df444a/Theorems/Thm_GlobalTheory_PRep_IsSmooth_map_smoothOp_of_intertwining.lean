@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PRep_IsSmooth_map_smoothOp_of_intertwining
 -- name    : GlobalTheory.PRep.IsSmooth.map_smoothOp_of_intertwining
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:20.588291+00:00
 -- url     : https://prove2.me/theorems/1f1863d1-95ea-4640-b822-0cc95999a380

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_recursion_of_parts
 -- name    : Formalism.FourierDecayAlt.P.unipotent_recursion_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:39:25.804837+00:00
 -- url     : https://prove2.me/theorems/da43f9e2-645e-44a5-9ab6-7b6a2533a97c

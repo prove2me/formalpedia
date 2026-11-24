@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_cov_of_generic
 -- name    : GlobalTheory.SS.Smoothening.cov_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:58:50.238453+00:00
 -- url     : https://prove2.me/theorems/603d8b53-6ca5-467d-a678-86f14bebe529

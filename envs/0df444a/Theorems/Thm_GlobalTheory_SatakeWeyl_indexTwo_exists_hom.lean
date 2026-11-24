@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_indexTwo_exists_hom
 -- name    : GlobalTheory.SatakeWeyl.indexTwo_exists_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:48:38.615572+00:00
 -- url     : https://prove2.me/theorems/41a09455-339a-4272-b595-79676c846802

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Grid_isTensor_pureTensor
 -- name    : GlobalTheory.SplitFlip.Grid.isTensor_pureTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:19:45.96047+00:00
 -- url     : https://prove2.me/theorems/493107d2-f93e-4fe2-8ea3-71a9bd607800

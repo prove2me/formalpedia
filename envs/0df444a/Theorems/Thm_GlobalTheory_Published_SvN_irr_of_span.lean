@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_irr_of_span
 -- name    : GlobalTheory.Published.SvN.irr_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:58:17.7708+00:00
 -- url     : https://prove2.me/theorems/9b9e9e4e-3141-4e9c-b122-930492cdd7ac

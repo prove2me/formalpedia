@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_IsPath_pairwise_vertexDiff
 -- name    : GlobalTheory.SplitFlip.IsPath.pairwise_vertexDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:21:09.12082+00:00
 -- url     : https://prove2.me/theorems/1651c8c2-0acb-4c5f-b70e-1b24690bb328

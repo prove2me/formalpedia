@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormBaseChange_exists_sqrt_basis
 -- name    : GlobalTheory.QuadSymbol.NormBaseChange.exists_sqrt_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:39:34.653583+00:00
 -- url     : https://prove2.me/theorems/dcb3ea9b-a973-4787-9f0b-fa5a36c05b6e

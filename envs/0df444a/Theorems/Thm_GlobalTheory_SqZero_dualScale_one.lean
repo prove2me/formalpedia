@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_dualScale_one
 -- name    : GlobalTheory.SqZero.dualScale_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:22:20.527833+00:00
 -- url     : https://prove2.me/theorems/2d201164-0ac0-4383-b0c9-645e230d2b6e

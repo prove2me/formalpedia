@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareTower_square_of_pres
 -- name    : GlobalTheory.SquareTower.square_of_pres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:32.390646+00:00
 -- url     : https://prove2.me/theorems/ede778e5-eca8-4373-8641-160b764659b4

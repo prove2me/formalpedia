@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_WeightedPowerFormIntegrability_norm_innerC_le
 -- name    : GlobalTheory.ConvSeries.WeightedPowerFormIntegrability.norm_innerC_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:41:40.380331+00:00
 -- url     : https://prove2.me/theorems/c3c2945a-c57b-46c8-b381-73d5b08ae110

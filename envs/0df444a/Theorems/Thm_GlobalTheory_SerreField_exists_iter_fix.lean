@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreField_exists_iter_fix
 -- name    : GlobalTheory.SerreField.exists_iter_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:54:42.049931+00:00
 -- url     : https://prove2.me/theorems/ec53fb07-7aba-49d3-8221-b777789857c6

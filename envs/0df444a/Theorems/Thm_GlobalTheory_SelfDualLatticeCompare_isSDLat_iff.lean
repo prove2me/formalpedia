@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_isSDLat_iff
 -- name    : GlobalTheory.SelfDualLatticeCompare.isSDLat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:53:56.293088+00:00
 -- url     : https://prove2.me/theorems/7a2e2993-b46d-4bfb-a3ae-73afca8ad8b2

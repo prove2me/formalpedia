@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_lintegral_average
 -- name    : GlobalTheory.SmGL.UnitInd.lintegral_average
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:41.730517+00:00
 -- url     : https://prove2.me/theorems/55e6a168-dc04-461f-930b-c56000fdcfac

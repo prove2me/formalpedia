@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftedTheta_poisson
 -- name    : GlobalTheory.ShiftedTheta.poisson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:41.110945+00:00
 -- url     : https://prove2.me/theorems/a29b76bd-31d3-4c95-8bba-895d89bf299a

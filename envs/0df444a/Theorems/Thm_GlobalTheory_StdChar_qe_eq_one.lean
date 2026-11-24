@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StdChar_qe_eq_one
 -- name    : GlobalTheory.StdChar.qe_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:06.694169+00:00
 -- url     : https://prove2.me/theorems/d58b65d8-fc4c-4a0a-b18e-44583e7d47b0

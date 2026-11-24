@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_AwayClosure_inv
 -- name    : GlobalTheory.Square.AwayClosure.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:26:20.237695+00:00
 -- url     : https://prove2.me/theorems/78c0ca66-2850-4d7f-adea-89abb265b467

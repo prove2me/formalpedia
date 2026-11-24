@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubfieldChart_exists_continuous_extPt
 -- name    : GlobalTheory.SubfieldChart.exists_continuous_extPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:22:51.28568+00:00
 -- url     : https://prove2.me/theorems/7584c070-3ea0-494c-a1b3-f71323c55aa1

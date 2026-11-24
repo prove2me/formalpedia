@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_jac_mem_basicOpen
 -- name    : GlobalTheory.SS.Ord.jac_mem_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:16:48.70643+00:00
 -- url     : https://prove2.me/theorems/52cbb763-8868-4142-9c26-284bec7aa8bd

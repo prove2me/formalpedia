@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreRatio_exists_conj_ne
 -- name    : GlobalTheory.CompanionTheory.SW.FibreRatio.exists_conj_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:49:45.933933+00:00
 -- url     : https://prove2.me/theorems/2861ea15-b8cd-4488-933f-3c51bf9644ad

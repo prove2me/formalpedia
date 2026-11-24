@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareDistanceExpansion_sq_id
 -- name    : GlobalTheory.SquareDistanceExpansion.sq_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:20.413803+00:00
 -- url     : https://prove2.me/theorems/414d3b70-cccb-44d6-9472-c1ba55b04e31

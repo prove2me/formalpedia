@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthTower_ord_prod
 -- name    : GlobalTheory.SignedLengthTower.ord_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:12:51.719377+00:00
 -- url     : https://prove2.me/theorems/59d84bfa-5f8a-43da-9c34-bf96c9fb6413

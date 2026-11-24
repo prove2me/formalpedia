@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_eventually_comp_sideMul_eq
 -- name    : GlobalTheory.SplitWeil.eventually_comp_sideMul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:50.741746+00:00
 -- url     : https://prove2.me/theorems/5b4d92ba-2886-45ea-969a-bc2a028d5e8d

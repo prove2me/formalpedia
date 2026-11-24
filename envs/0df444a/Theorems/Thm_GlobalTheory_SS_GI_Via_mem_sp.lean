@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_Via_mem_sp
 -- name    : GlobalTheory.SS.GI.Via.mem_sp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:45:45.694225+00:00
 -- url     : https://prove2.me/theorems/b53c3875-43dc-4fc2-a6e5-e2dbd7a49c6a

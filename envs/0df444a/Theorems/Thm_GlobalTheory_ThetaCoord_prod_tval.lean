@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_prod_tval
 -- name    : GlobalTheory.ThetaCoord.prod_tval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:17:23.54133+00:00
 -- url     : https://prove2.me/theorems/bbc0776e-4ec2-479a-893e-dc911584bc15

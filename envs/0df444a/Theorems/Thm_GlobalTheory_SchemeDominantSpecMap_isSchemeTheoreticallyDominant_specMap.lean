@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchemeDominantSpecMap_isSchemeTheoreticallyDominant_specMap
 -- name    : GlobalTheory.SchemeDominantSpecMap.isSchemeTheoreticallyDominant_specMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:52:08.496138+00:00
 -- url     : https://prove2.me/theorems/48805be7-7822-4a4b-afde-50efe2626df3

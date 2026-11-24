@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_opE_mem_SB
 -- name    : GlobalTheory.RootEx.opE_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:06.384512+00:00
 -- url     : https://prove2.me/theorems/3b9eace5-7469-4bf8-bb49-9df3c135cdfe

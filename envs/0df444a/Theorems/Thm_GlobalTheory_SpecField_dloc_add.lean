@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpecField_dloc_add
 -- name    : GlobalTheory.SpecField.dloc_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:20:08.811163+00:00
 -- url     : https://prove2.me/theorems/43432a9c-f094-4c63-b3b8-706560ad30ac

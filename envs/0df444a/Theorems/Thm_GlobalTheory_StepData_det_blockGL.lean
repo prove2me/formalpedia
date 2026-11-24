@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_det_blockGL
 -- name    : GlobalTheory.StepData.det_blockGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:58.694124+00:00
 -- url     : https://prove2.me/theorems/b6dc90a8-15eb-4ab2-9007-37508e9cd951

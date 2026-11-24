@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueExtension_exists_finset
 -- name    : GlobalTheory.ResidueExtension.exists_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:21:19.066236+00:00
 -- url     : https://prove2.me/theorems/3a0240a1-b4b9-4997-97b4-d8ea9e6c6fe4

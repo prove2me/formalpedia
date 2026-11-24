@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_pairChar_spec
 -- name    : GlobalTheory.SW.HeckeId.pairChar_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:40:51.193352+00:00
 -- url     : https://prove2.me/theorems/447caa12-23e7-47f1-892a-d9e38aee454c

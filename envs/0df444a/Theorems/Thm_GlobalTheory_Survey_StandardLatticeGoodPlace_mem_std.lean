@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_StandardLatticeGoodPlace_mem_std
 -- name    : GlobalTheory.Survey.StandardLatticeGoodPlace.mem_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:41.092138+00:00
 -- url     : https://prove2.me/theorems/d39d1b4c-e242-4aa9-928b-20cb5c63e6c3

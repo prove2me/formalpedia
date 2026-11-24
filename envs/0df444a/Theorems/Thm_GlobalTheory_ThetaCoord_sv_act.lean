@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_sv_act
 -- name    : GlobalTheory.ThetaCoord.sv_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:19:38.279996+00:00
 -- url     : https://prove2.me/theorems/acdf6357-50c3-4451-a7ed-31df5c280473

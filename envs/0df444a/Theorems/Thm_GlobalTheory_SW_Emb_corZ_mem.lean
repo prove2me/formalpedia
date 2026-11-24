@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_corZ_mem
 -- name    : GlobalTheory.SW.Emb.corZ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:38:30.07086+00:00
 -- url     : https://prove2.me/theorems/366d8883-d087-4727-9689-feebd34aaa48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_level_ch
 -- name    : GlobalTheory.SW.FourierJ.level_ch
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:13:20.890179+00:00
 -- url     : https://prove2.me/theorems/20f990b8-4d2c-469e-a225-f88b66429221

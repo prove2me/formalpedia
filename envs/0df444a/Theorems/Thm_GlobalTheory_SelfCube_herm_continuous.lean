@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfCube_herm_continuous
 -- name    : GlobalTheory.SelfCube.herm_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:07.154044+00:00
 -- url     : https://prove2.me/theorems/b5880ef7-4e5d-43ea-bcf3-35f3b8a1b19e

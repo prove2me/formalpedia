@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_zGam_change
 -- name    : GlobalTheory.CuspBasis.zGam_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:50:41.071604+00:00
 -- url     : https://prove2.me/theorems/95ca56e7-19f7-4d92-829b-b0c8c59db3aa

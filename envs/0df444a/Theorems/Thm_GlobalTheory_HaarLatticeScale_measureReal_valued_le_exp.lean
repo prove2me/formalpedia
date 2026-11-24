@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarLatticeScale_measureReal_valued_le_exp
 -- name    : GlobalTheory.HaarLatticeScale.measureReal_valued_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:53:31.604994+00:00
 -- url     : https://prove2.me/theorems/3a4001b4-a6f8-4656-98b1-476cb736efe3

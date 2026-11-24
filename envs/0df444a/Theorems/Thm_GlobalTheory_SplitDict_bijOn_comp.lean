@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitDict_bijOn_comp
 -- name    : GlobalTheory.SplitDict.bijOn_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:22.213916+00:00
 -- url     : https://prove2.me/theorems/3b375ff2-464f-4eaa-b830-00325df0ace5

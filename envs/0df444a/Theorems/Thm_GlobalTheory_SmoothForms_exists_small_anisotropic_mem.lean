@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_exists_small_anisotropic_mem
 -- name    : GlobalTheory.SmoothForms.exists_small_anisotropic_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:51.558829+00:00
 -- url     : https://prove2.me/theorems/51314b67-09f7-45a5-8113-e355017b3146

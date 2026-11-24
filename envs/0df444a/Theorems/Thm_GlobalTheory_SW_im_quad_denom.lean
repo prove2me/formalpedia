@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_im_quad_denom
 -- name    : GlobalTheory.SW.im_quad_denom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:36:55.812823+00:00
 -- url     : https://prove2.me/theorems/32816868-bf3e-42d0-a418-b556f5d62fe1

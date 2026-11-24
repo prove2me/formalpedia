@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_FourierDepth_isNatDatum_invFourierSum
 -- name    : GlobalTheory.SplitFlip.FourierDepth.isNatDatum_invFourierSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:20:12.423008+00:00
 -- url     : https://prove2.me/theorems/4774b301-fb0c-49fc-ba13-2c57bf9bb897

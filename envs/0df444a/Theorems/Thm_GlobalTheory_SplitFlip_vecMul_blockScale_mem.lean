@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_vecMul_blockScale_mem
 -- name    : GlobalTheory.SplitFlip.vecMul_blockScale_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:20:53.474805+00:00
 -- url     : https://prove2.me/theorems/a7e22148-ca2e-419a-b212-d58779765788

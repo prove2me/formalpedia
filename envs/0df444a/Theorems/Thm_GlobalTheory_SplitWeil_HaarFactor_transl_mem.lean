@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_HaarFactor_transl_mem
 -- name    : GlobalTheory.SplitWeil.HaarFactor.transl_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:50.179919+00:00
 -- url     : https://prove2.me/theorems/c50c464f-182e-41b0-99d6-9c937582cd9b

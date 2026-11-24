@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_phase_change
 -- name    : GlobalTheory.CuspBasis.phase_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:51:40.450133+00:00
 -- url     : https://prove2.me/theorems/98553135-6743-43fc-bf97-c24b3d745bde

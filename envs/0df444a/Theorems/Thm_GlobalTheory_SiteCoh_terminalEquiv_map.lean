@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiteCoh_terminalEquiv_map
 -- name    : GlobalTheory.SiteCoh.terminalEquiv_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:15:31.033869+00:00
 -- url     : https://prove2.me/theorems/41783c81-aa96-47af-a935-c7ed4fbf5ad7

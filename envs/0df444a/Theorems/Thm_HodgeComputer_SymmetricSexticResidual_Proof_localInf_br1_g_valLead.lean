@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localInf_br1_g_valLead
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localInf_br1_g_valLead
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T20:35:55.995432+00:00
 -- url     : https://prove2.me/theorems/754d0481-2d58-457a-adcd-1bc6ceb6282f

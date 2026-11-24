@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilocalBasis_red_surjective
 -- name    : GlobalTheory.SemilocalBasis.red_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:32.865794+00:00
 -- url     : https://prove2.me/theorems/708e5a74-ed2b-4b73-8f65-78a086e50ac1

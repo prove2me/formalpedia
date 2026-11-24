@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_inertia_two
 -- name    : Formalism.HC.D7.inertia_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:39:05.509929+00:00
 -- url     : https://prove2.me/theorems/206674e6-1217-49f9-945b-38e53f50b03d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitJump_coord_act
 -- name    : GlobalTheory.SplitJump.coord_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:20:58.205738+00:00
 -- url     : https://prove2.me/theorems/040de100-0213-49c2-b745-535e5614b3a7

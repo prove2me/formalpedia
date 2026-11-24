@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_Short_size_sum_le
 -- name    : GlobalTheory.SmoothForms.Short.size_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:21:01.600616+00:00
 -- url     : https://prove2.me/theorems/cad58fd6-13e4-48d0-8ef5-5250f26c62f4

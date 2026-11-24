@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_CoefNorm_norm_wt_le
 -- name    : GlobalTheory.ConvSeries.CoefNorm.norm_wt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:42:11.384795+00:00
 -- url     : https://prove2.me/theorems/67cbd322-def3-4624-a4b9-579d0f61bbdb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_nil_of_sq
 -- name    : GlobalTheory.SqZero.nil_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:23:09.562738+00:00
 -- url     : https://prove2.me/theorems/82a79590-fa0d-4410-95d9-f12e32a533d2

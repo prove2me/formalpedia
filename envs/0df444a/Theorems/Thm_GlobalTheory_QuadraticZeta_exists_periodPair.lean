@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_exists_periodPair
 -- name    : GlobalTheory.QuadraticZeta.exists_periodPair
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:44:31.899255+00:00
 -- url     : https://prove2.me/theorems/ac7a6ea7-8e0c-47d1-b728-1362430d68c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_killed_iff
 -- name    : GlobalTheory.SegreCoord.killed_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:52:58.286792+00:00
 -- url     : https://prove2.me/theorems/0ec4ad8d-1510-4932-95bb-8e0f739d1103

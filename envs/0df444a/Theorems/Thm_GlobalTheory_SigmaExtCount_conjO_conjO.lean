@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SigmaExtCount_conjO_conjO
 -- name    : GlobalTheory.SigmaExtCount.conjO_conjO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:11:32.066709+00:00
 -- url     : https://prove2.me/theorems/9a8b7fa9-0009-42b2-be68-ecc3b02b3b0d

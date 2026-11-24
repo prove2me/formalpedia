@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepIdem_exists_smul_kaehler_eq_zero
 -- name    : GlobalTheory.SepIdem.exists_smul_kaehler_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:53:24.483669+00:00
 -- url     : https://prove2.me/theorems/bb60acc4-50bb-4a36-a6c1-b46ee7811aa0

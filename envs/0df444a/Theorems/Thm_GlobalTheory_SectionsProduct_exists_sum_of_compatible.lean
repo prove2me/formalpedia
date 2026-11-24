@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_exists_sum_of_compatible
 -- name    : GlobalTheory.SectionsProduct.exists_sum_of_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:52:54.074863+00:00
 -- url     : https://prove2.me/theorems/89248301-cb45-4362-aded-ac9cf0c31413

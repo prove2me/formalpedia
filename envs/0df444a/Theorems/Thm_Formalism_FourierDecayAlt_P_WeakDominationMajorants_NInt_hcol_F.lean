@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_NInt_hcol_F
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.NInt.hcol_F
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:10:32.611807+00:00
 -- url     : https://prove2.me/theorems/d6509361-6bb7-4b2f-a3bb-ba098fadf143

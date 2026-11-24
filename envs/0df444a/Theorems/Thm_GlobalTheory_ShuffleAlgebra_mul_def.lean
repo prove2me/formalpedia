@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShuffleAlgebra_mul_def
 -- name    : GlobalTheory.ShuffleAlgebra.mul_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:11:03.832529+00:00
 -- url     : https://prove2.me/theorems/74ac9773-89ca-4c42-9c23-f14f2e67e464

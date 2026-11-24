@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilinearModule_invariantsFunctor_full
 -- name    : GlobalTheory.SemilinearModule.invariantsFunctor_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:05.763691+00:00
 -- url     : https://prove2.me/theorems/1f6afd25-501c-4d47-a22c-0edef99da0fc

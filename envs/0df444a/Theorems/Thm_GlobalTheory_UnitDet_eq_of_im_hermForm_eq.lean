@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDet_eq_of_im_hermForm_eq
 -- name    : GlobalTheory.UnitDet.eq_of_im_hermForm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:40:24.505391+00:00
 -- url     : https://prove2.me/theorems/73a77ac0-6d46-4dc5-a379-68c8e7e69a35

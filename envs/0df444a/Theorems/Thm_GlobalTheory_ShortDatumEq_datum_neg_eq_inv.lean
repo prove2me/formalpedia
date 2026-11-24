@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortDatumEq_datum_neg_eq_inv
 -- name    : GlobalTheory.ShortDatumEq.datum_neg_eq_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:49.518619+00:00
 -- url     : https://prove2.me/theorems/c08a20db-0d92-4424-9370-ddaa52d6d039

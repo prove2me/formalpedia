@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafLES_shortExact_map_toAbSheaf
 -- name    : GlobalTheory.SheafLES.shortExact_map_toAbSheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:11:39.175568+00:00
 -- url     : https://prove2.me/theorems/96c161bf-9428-44e6-8045-1cb988e4eb3f

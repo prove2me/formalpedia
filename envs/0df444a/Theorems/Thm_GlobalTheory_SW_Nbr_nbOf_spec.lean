@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_nbOf_spec
 -- name    : GlobalTheory.SW.Nbr.nbOf_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:12.272842+00:00
 -- url     : https://prove2.me/theorems/c70b7ccb-bdf5-4089-9f11-59ae6ee5071c

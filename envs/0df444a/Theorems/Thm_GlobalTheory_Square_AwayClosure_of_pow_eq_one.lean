@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_AwayClosure_of_pow_eq_one
 -- name    : GlobalTheory.Square.AwayClosure.of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:25:56.49541+00:00
 -- url     : https://prove2.me/theorems/8e58cda0-478f-4f89-bebe-daf9194d60c1

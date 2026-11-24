@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_AwayClosure_mul
 -- name    : GlobalTheory.Square.AwayClosure.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:26:07.601692+00:00
 -- url     : https://prove2.me/theorems/8ef1d8b5-a9e2-4463-b146-be9a07486896

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Principalise_isIso_restrict_of_isIso_restrict_comp_blowup
 -- name    : GlobalTheory.CompanionTheory.Principalise.isIso_restrict_of_isIso_restrict_comp_blowup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:58:52.468497+00:00
 -- url     : https://prove2.me/theorems/91d6dad9-82fb-4909-a966-94338c72cf8f

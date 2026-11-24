@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_transl_comm
 -- name    : GlobalTheory.SS.Translates.transl_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:43.793033+00:00
 -- url     : https://prove2.me/theorems/ee9c43dd-f0f7-4e07-9afa-468ca0358733

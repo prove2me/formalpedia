@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_exists_symR_mul
 -- name    : GlobalTheory.FunObj.FiniteSupport.exists_symR_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:40:42.717632+00:00
 -- url     : https://prove2.me/theorems/3f0e373c-b674-4ae5-a8f7-f39e5356c50d

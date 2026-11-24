@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_unimodFin
 -- name    : GlobalTheory.SatakeWeyl.unimodFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:49:14.680507+00:00
 -- url     : https://prove2.me/theorems/43b93315-fcc5-450e-9f5c-0602bc28264c

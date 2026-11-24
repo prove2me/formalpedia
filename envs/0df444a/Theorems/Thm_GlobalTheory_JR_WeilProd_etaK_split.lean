@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_etaK_split
 -- name    : GlobalTheory.JR.WeilProd.etaK_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:37:51.237328+00:00
 -- url     : https://prove2.me/theorems/e5764736-aa6a-454a-a618-7cfb710883d6

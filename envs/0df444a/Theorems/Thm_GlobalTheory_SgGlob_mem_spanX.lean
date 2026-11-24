@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_mem_spanX
 -- name    : GlobalTheory.SgGlob.mem_spanX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:10:03.891968+00:00
 -- url     : https://prove2.me/theorems/27ddd2cb-f810-4c63-b38d-abc3258c32d8

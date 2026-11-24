@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceTaylor_norm_inrL_le
 -- name    : GlobalTheory.SliceTaylor.norm_inrL_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:14:17.83081+00:00
 -- url     : https://prove2.me/theorems/7caaae70-8fb3-4561-b4cd-baa73603a487

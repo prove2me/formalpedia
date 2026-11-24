@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_inv_ratioUnit
 -- name    : GlobalTheory.ProjSpace.inv_ratioUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:45:45.496703+00:00
 -- url     : https://prove2.me/theorems/c36ae289-7336-4760-ad89-12a133b608d3

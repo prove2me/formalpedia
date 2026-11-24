@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_MultiIrr_det_relabel
 -- name    : GlobalTheory.SmGL.MultiIrr.det_relabel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:14:12.903194+00:00
 -- url     : https://prove2.me/theorems/88589da6-1ac7-4c52-a166-22e3afd4bc8d

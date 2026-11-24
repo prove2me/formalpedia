@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowDet_irreducible_det_of_isRelPrime
 -- name    : GlobalTheory.RowDet.irreducible_det_of_isRelPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:40.723693+00:00
 -- url     : https://prove2.me/theorems/6102751b-8fbd-48cb-acc4-acd3174ad458

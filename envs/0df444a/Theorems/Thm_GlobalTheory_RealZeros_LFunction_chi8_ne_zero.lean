@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeros_LFunction_chi8_ne_zero
 -- name    : GlobalTheory.RealZeros.LFunction_chi8_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:18:00.200075+00:00
 -- url     : https://prove2.me/theorems/d8a36788-0f52-4d35-aff0-782d0360f027

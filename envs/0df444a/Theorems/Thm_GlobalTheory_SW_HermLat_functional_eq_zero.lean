@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HermLat_functional_eq_zero
 -- name    : GlobalTheory.SW.HermLat.functional_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:41:38.500675+00:00
 -- url     : https://prove2.me/theorems/ddb10ba8-c9e0-4da4-a228-275b07e1e98a

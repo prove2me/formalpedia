@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpObj_per_apply
 -- name    : GlobalTheory.SharpObj.per_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:11:21.794299+00:00
 -- url     : https://prove2.me/theorems/ddd45ef7-e9e0-45bb-94e5-62bd73eeaebe

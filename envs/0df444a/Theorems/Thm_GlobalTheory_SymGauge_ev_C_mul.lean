@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymGauge_ev_C_mul
 -- name    : GlobalTheory.SymGauge.ev_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:24:01.541853+00:00
 -- url     : https://prove2.me/theorems/e6d682b0-599c-49ab-935d-70056bf7504a

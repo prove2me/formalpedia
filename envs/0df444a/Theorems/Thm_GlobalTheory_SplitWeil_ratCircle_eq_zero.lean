@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_ratCircle_eq_zero
 -- name    : GlobalTheory.SplitWeil.ratCircle_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:21:13.931808+00:00
 -- url     : https://prove2.me/theorems/c8d8eb45-702b-4d1c-82ce-5fec5724c2c3

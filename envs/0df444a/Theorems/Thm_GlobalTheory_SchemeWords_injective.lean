@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchemeWords_injective
 -- name    : GlobalTheory.SchemeWords.injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:47:52.958478+00:00
 -- url     : https://prove2.me/theorems/594dd3c6-c782-4e82-b7b4-7dbad91fc721

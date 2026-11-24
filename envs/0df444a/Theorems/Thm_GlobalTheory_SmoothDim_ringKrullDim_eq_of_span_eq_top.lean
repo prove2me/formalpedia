@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDim_ringKrullDim_eq_of_span_eq_top
 -- name    : GlobalTheory.SmoothDim.ringKrullDim_eq_of_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:16:16.545422+00:00
 -- url     : https://prove2.me/theorems/c19b20ac-1773-4409-8b69-ada926684188

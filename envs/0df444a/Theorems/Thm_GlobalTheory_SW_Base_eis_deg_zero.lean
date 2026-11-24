@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_eis_deg_zero
 -- name    : GlobalTheory.SW.Base.eis_deg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:38:11.491609+00:00
 -- url     : https://prove2.me/theorems/dfe35682-4de0-425a-8cb3-0fcba1183d72

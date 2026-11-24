@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StdChar_locConst
 -- name    : GlobalTheory.StdChar.locConst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:51.99614+00:00
 -- url     : https://prove2.me/theorems/982b82bb-29f2-4ccd-a2f4-2d78da5317c5

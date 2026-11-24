@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LamRay_sum_lamIdeal_le
 -- name    : GlobalTheory.Hk.LamRay.sum_lamIdeal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:35:16.520473+00:00
 -- url     : https://prove2.me/theorems/e78674cc-aadd-469b-a2b5-a4c6c56f5aa6

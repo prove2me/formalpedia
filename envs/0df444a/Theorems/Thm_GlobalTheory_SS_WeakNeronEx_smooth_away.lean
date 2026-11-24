@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronEx_smooth_away
 -- name    : GlobalTheory.SS.WeakNeronEx.smooth_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:11:37.807124+00:00
 -- url     : https://prove2.me/theorems/eae70eb2-8125-4f29-b280-7b694fd73a7a

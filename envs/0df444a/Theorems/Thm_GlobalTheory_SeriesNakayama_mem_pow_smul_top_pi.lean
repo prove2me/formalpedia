@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesNakayama_mem_pow_smul_top_pi
 -- name    : GlobalTheory.SeriesNakayama.mem_pow_smul_top_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:27.471117+00:00
 -- url     : https://prove2.me/theorems/a672c1f3-29bd-46ae-9a34-567f826edb3d

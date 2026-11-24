@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanSingleInlMembership_mem_span_single_inl_iff
 -- name    : GlobalTheory.SpanSingleInlMembership.mem_span_single_inl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:18:34.920634+00:00
 -- url     : https://prove2.me/theorems/eb76e867-f4ab-4246-b200-78ccc5809f11

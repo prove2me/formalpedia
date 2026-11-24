@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnipHaar_unipEquiv_mul_right
 -- name    : GlobalTheory.SmGL.UnipHaar.unipEquiv_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:14:31.167473+00:00
 -- url     : https://prove2.me/theorems/68b9c8e2-0b4a-4328-a0fb-47a5c12e9fa0

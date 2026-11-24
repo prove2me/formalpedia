@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualClasses_hermRat_apply
 -- name    : GlobalTheory.SelfDualClasses.hermRat_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:52:02.630057+00:00
 -- url     : https://prove2.me/theorems/f9e4acbe-1532-4dfe-bb9f-1bee60ccbec0

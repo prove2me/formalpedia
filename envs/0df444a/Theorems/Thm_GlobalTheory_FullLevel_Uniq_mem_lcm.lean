@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullLevel_Uniq_mem_lcm
 -- name    : GlobalTheory.FullLevel.Uniq.mem_lcm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:34:04.532343+00:00
 -- url     : https://prove2.me/theorems/71823f22-8dcb-4608-b535-68948a8a21f7

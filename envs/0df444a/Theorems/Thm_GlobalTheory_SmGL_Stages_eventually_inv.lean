@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_Stages_eventually_inv
 -- name    : GlobalTheory.SmGL.Stages.eventually_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:14:06.401546+00:00
 -- url     : https://prove2.me/theorems/9ad66af2-e672-400d-9425-ce38c6777055

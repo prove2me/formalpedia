@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympBlocks_herm_identity
 -- name    : GlobalTheory.SympBlocks.herm_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:25:06.41919+00:00
 -- url     : https://prove2.me/theorems/cf7e7838-44c3-48f8-9f92-e4edb7852edf

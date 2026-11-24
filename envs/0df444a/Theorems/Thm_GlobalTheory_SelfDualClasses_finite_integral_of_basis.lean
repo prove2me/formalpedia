@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualClasses_finite_integral_of_basis
 -- name    : GlobalTheory.SelfDualClasses.finite_integral_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:25.875239+00:00
 -- url     : https://prove2.me/theorems/f4197a34-4649-430e-bf7b-f94146192f65

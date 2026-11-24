@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_exists_mat_submatrix
 -- name    : GlobalTheory.SatakeWeyl.exists_mat_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:46:53.02763+00:00
 -- url     : https://prove2.me/theorems/d05afa42-9b64-4c25-843c-fd4bba4500ff

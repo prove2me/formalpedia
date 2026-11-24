@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignGen_cm_restrict_inj
 -- name    : GlobalTheory.SignGen.cm_restrict_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:14:01.261116+00:00
 -- url     : https://prove2.me/theorems/0a72b1d2-a03b-495f-9ad7-6070ec65fe39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanPairPowSucc_mem_span_pair_pow_succ
 -- name    : GlobalTheory.SpanPairPowSucc.mem_span_pair_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:18:38.117635+00:00
 -- url     : https://prove2.me/theorems/efbab050-0021-4f1a-b641-76c602b2ff47

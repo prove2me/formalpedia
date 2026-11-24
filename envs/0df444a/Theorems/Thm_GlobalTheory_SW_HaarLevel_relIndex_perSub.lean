@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarLevel_relIndex_perSub
 -- name    : GlobalTheory.SW.HaarLevel.relIndex_perSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:58.796942+00:00
 -- url     : https://prove2.me/theorems/b2a51c8f-16b5-49d6-90fd-925c7781304b

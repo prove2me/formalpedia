@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_weighted_relation
 -- name    : GlobalTheory.SS.exists_weighted_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:37:38.887098+00:00
 -- url     : https://prove2.me/theorems/5500a380-a95b-4a32-ac4d-3b793eb944ba

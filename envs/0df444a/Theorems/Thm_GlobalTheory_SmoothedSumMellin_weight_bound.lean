@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothedSumMellin_weight_bound
 -- name    : GlobalTheory.SmoothedSumMellin.weight_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:18:47.104594+00:00
 -- url     : https://prove2.me/theorems/9bc499b4-6c02-443d-90eb-3400d7517c36

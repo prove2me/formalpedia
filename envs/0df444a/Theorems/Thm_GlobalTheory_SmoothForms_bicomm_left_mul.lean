@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_bicomm_left_mul
 -- name    : GlobalTheory.SmoothForms.bicomm_left_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:26.290388+00:00
 -- url     : https://prove2.me/theorems/48ad14b0-5d67-41db-82a8-9f90f440cdd2

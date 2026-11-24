@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_exists_shear_at
 -- name    : GlobalTheory.SS.Translates.exists_shear_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:18:32.615073+00:00
 -- url     : https://prove2.me/theorems/2910cdf0-5b3c-4667-8f7e-afc177ff414d

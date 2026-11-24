@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_jacquet_mk
 -- name    : GlobalTheory.SmGL.jacquet_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:33.088712+00:00
 -- url     : https://prove2.me/theorems/58ceb98a-e58a-4972-8a01-db7e09ec2f6b

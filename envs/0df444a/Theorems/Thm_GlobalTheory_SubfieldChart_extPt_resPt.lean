@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubfieldChart_extPt_resPt
 -- name    : GlobalTheory.SubfieldChart.extPt_resPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:23:37.662362+00:00
 -- url     : https://prove2.me/theorems/c8b6ad4f-1ee3-4a69-9eb4-e60d0f0df780

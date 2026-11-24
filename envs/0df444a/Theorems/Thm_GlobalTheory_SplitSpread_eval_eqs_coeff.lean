@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitSpread_eval_eqs_coeff
 -- name    : GlobalTheory.SplitSpread.eval_eqs_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:21:28.968894+00:00
 -- url     : https://prove2.me/theorems/ce144290-20d1-4a2a-9871-39746d260a16

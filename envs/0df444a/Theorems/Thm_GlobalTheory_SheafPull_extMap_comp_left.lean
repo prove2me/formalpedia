@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafPull_extMap_comp_left
 -- name    : GlobalTheory.SheafPull.extMap_comp_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:11:29.088521+00:00
 -- url     : https://prove2.me/theorems/608aecbb-b430-441b-977b-afc2af72830d

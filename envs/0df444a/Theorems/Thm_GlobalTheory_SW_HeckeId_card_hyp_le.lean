@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_card_hyp_le
 -- name    : GlobalTheory.SW.HeckeId.card_hyp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:40:17.689188+00:00
 -- url     : https://prove2.me/theorems/980b0490-ee91-422a-a597-8f794f7dd435

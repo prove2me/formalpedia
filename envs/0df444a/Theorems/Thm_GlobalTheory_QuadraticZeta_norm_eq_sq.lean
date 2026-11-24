@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_norm_eq_sq
 -- name    : GlobalTheory.QuadraticZeta.norm_eq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:58:26.867494+00:00
 -- url     : https://prove2.me/theorems/f8d38962-e489-4948-8a2c-0da90ff7287a

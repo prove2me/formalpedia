@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_norm_uniformizer_of_split
 -- name    : GlobalTheory.QNorm.exists_norm_uniformizer_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:02:34.816187+00:00
 -- url     : https://prove2.me/theorems/eda31e52-f155-4483-b873-20f2ea097355

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegral_seminorm_le_norm_embed
 -- name    : GlobalTheory.SchwartzIntegral.seminorm_le_norm_embed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:48:04.189415+00:00
 -- url     : https://prove2.me/theorems/a77adddc-0038-469b-9689-db1ce4d8f04e

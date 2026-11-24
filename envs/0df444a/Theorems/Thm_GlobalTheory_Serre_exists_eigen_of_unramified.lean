@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Serre_exists_eigen_of_unramified
 -- name    : GlobalTheory.Serre.exists_eigen_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:54:04.380399+00:00
 -- url     : https://prove2.me/theorems/fb7d8204-98e4-40e6-8af7-bdabb3908071

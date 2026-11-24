@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_span_zGam_fg
 -- name    : GlobalTheory.CuspCentre.span_zGam_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:51:04.033671+00:00
 -- url     : https://prove2.me/theorems/70a85f9e-b780-4404-a540-6ae72ac68634

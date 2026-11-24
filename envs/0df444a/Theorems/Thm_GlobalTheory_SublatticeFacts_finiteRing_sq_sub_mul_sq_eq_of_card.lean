@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SublatticeFacts_finiteRing_sq_sub_mul_sq_eq_of_card
 -- name    : GlobalTheory.SublatticeFacts.finiteRing_sq_sub_mul_sq_eq_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:22.182175+00:00
 -- url     : https://prove2.me/theorems/2e1276fa-5129-4f80-8cb4-e4cb3d8e0fd7

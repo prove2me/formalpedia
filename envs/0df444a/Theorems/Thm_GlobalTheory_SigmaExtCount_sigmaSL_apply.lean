@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SigmaExtCount_sigmaSL_apply
 -- name    : GlobalTheory.SigmaExtCount.sigmaSL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:13:21.364289+00:00
 -- url     : https://prove2.me/theorems/3fc1b63b-91f5-4e51-9c5c-67e2345bdbd6

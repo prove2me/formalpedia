@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_appTop_of_section_of_fiber
 -- name    : GlobalTheory.ProperFunctions.isIso_appTop_of_section_of_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:56:12.870228+00:00
 -- url     : https://prove2.me/theorems/cb390919-44f6-466d-94b0-8b69f558be9c

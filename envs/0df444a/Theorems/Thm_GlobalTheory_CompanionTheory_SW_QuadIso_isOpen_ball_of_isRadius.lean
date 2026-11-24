@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadIso_isOpen_ball_of_isRadius
 -- name    : GlobalTheory.CompanionTheory.SW.QuadIso.isOpen_ball_of_isRadius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:49:35.399578+00:00
 -- url     : https://prove2.me/theorems/1b49ea60-f984-477a-b965-3bb4dc1c9745

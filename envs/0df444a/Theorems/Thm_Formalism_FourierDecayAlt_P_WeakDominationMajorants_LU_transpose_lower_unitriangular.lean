@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_LU_transpose_lower_unitriangular
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.LU.transpose_lower_unitriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:09:28.927465+00:00
 -- url     : https://prove2.me/theorems/b3337018-314e-44b2-99d9-87c999d97845

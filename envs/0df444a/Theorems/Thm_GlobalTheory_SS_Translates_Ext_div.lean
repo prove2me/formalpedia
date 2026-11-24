@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_Ext_div
 -- name    : GlobalTheory.SS.Translates.Ext.div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:18:12.402168+00:00
 -- url     : https://prove2.me/theorems/3f3dc404-44be-41d6-883a-8e79a319ae56

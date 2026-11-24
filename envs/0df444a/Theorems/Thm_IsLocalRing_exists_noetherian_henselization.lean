@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsLocalRing_exists_noetherian_henselization
 -- name    : IsLocalRing.exists_noetherian_henselization
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T20:36:06.396049+00:00
 -- url     : https://prove2.me/theorems/913b6637-a4df-4f34-9e8b-8ad4a601ea43

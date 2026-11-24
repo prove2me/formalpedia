@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLift_split_cocycle
 -- name    : GlobalTheory.SecLift.split_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:50:41.830797+00:00
 -- url     : https://prove2.me/theorems/1854d5b2-4c07-4dc8-98ff-9e9ee47a5d2b

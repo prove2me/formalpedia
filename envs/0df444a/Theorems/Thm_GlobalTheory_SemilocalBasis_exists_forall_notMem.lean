@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilocalBasis_exists_forall_notMem
 -- name    : GlobalTheory.SemilocalBasis.exists_forall_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:21.609155+00:00
 -- url     : https://prove2.me/theorems/8b04c141-8050-4c36-b2bd-5d64777b4512

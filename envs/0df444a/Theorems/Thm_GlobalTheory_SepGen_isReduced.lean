@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepGen_isReduced
 -- name    : GlobalTheory.SepGen.isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:36.77882+00:00
 -- url     : https://prove2.me/theorems/bea40174-cb09-491b-a1ef-b5fdf36d18b2

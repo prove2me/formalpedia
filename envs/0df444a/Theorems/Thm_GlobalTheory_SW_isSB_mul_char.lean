@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_isSB_mul_char
 -- name    : GlobalTheory.SW.isSB_mul_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:40.221819+00:00
 -- url     : https://prove2.me/theorems/01feaf78-a3b4-4bad-8a1f-90ec27170f9f

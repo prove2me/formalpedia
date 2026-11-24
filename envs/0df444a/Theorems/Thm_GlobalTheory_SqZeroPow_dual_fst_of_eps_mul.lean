@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZeroPow_dual_fst_of_eps_mul
 -- name    : GlobalTheory.SqZeroPow.dual_fst_of_eps_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:25:10.236921+00:00
 -- url     : https://prove2.me/theorems/df3bb26a-93a9-495c-9d24-947a083ef833

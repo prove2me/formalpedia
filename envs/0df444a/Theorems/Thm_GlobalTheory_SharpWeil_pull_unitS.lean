@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpWeil_pull_unitS
 -- name    : GlobalTheory.SharpWeil.pull_unitS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:13:14.507365+00:00
 -- url     : https://prove2.me/theorems/f2cabbad-5f3d-4acc-bb68-98c2ffd8b9fb

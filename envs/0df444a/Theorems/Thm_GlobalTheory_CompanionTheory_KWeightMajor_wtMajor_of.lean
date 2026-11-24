@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KWeightMajor_wtMajor_of
 -- name    : GlobalTheory.CompanionTheory.KWeightMajor.wtMajor_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:11:22.50006+00:00
 -- url     : https://prove2.me/theorems/9eb69d37-4baa-4189-baff-0baf935d4663

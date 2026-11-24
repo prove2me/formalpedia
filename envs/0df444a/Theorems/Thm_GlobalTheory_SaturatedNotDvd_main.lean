@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SaturatedNotDvd_main
 -- name    : GlobalTheory.SaturatedNotDvd.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:48:39.061326+00:00
 -- url     : https://prove2.me/theorems/e906754c-2178-4ceb-a325-5bd442b68843

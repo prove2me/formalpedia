@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_exists_orthonormal
 -- name    : GlobalTheory.SmGL.UnitInd.exists_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:13:58.97849+00:00
 -- url     : https://prove2.me/theorems/b0dbf322-b305-4a17-bcf7-961eabc08c4d

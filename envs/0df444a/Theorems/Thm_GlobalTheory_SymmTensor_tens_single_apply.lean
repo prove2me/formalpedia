@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmTensor_tens_single_apply
 -- name    : GlobalTheory.SymmTensor.tens_single_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:24:43.972149+00:00
 -- url     : https://prove2.me/theorems/45aabb1c-12b8-430e-a64d-dc5313c16272

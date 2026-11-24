@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Serre_finrank_fractionalIdeal
 -- name    : GlobalTheory.Serre.finrank_fractionalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:54:09.54464+00:00
 -- url     : https://prove2.me/theorems/671daad1-799d-46a4-ad58-9aaefae397f5

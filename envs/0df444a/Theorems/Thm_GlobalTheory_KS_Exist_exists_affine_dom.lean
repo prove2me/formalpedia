@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_exists_affine_dom
 -- name    : GlobalTheory.KS.Exist.exists_affine_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:43:51.480806+00:00
 -- url     : https://prove2.me/theorems/380f0a3d-805f-4d3e-9070-fe4500a5092c

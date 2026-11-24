@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLift_exists_affine_zero
 -- name    : GlobalTheory.SecLift.exists_affine_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:24.498178+00:00
 -- url     : https://prove2.me/theorems/d50800b0-9862-4b6e-b03b-8279c2601707

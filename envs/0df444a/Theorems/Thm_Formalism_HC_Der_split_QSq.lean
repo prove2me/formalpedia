@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_split_QSq
 -- name    : Formalism.HC.Der.split_QSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:45:58.527281+00:00
 -- url     : https://prove2.me/theorems/9491fe1f-d03f-4079-a978-d559cbc551f9

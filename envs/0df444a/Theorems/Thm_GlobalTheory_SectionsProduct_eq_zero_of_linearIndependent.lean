@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_eq_zero_of_linearIndependent
 -- name    : GlobalTheory.SectionsProduct.eq_zero_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:52:56.595954+00:00
 -- url     : https://prove2.me/theorems/86dbe4ff-b996-45e2-987e-801f669a8816

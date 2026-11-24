@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_HeisenbergSign_sign
 -- name    : GlobalTheory.RootEx.HeisenbergSign.sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:25:37.355369+00:00
 -- url     : https://prove2.me/theorems/f00ba13a-cf13-4b1c-98ad-5dab75891628

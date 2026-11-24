@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpWeil_form_eq
 -- name    : GlobalTheory.SharpWeil.form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:12:09.283293+00:00
 -- url     : https://prove2.me/theorems/cb9d72ab-0872-4bbb-9a8c-dfada0295018

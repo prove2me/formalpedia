@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_Short_exists_imaginary
 -- name    : GlobalTheory.SmoothForms.Short.exists_imaginary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:19:00.555337+00:00
 -- url     : https://prove2.me/theorems/f1c93d26-66a3-4e13-b695-f96aebad8345

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_Top_R_le_O
 -- name    : GlobalTheory.SgLoc.Top.R_le_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:09:49.606801+00:00
 -- url     : https://prove2.me/theorems/66205978-834b-4f50-bbe4-40aadf8f8cee

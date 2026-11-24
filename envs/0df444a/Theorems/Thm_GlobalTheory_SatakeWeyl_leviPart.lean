@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_leviPart
 -- name    : GlobalTheory.SatakeWeyl.leviPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:35:17.178948+00:00
 -- url     : https://prove2.me/theorems/28d70fbb-64db-4dfe-b53b-b3f1dfc73f39

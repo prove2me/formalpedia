@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExchangeFixed_vanish
 -- name    : GlobalTheory.RootExchangeFixed.vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:31:29.800901+00:00
 -- url     : https://prove2.me/theorems/2632d4af-d45d-4d8d-8ccd-1c50cf5b5a55

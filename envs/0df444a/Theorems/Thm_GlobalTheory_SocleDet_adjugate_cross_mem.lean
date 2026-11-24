@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SocleDet_adjugate_cross_mem
 -- name    : GlobalTheory.SocleDet.adjugate_cross_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:18:54.689905+00:00
 -- url     : https://prove2.me/theorems/2f0a3d17-a223-4d83-82e0-cf64de72a64f

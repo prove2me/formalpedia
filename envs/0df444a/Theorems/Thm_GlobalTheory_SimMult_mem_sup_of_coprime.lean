@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimMult_mem_sup_of_coprime
 -- name    : GlobalTheory.SimMult.mem_sup_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:09.914908+00:00
 -- url     : https://prove2.me/theorems/42824880-6e54-4fea-8567-f572c2652c60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_exists_mem_sp_prod
 -- name    : GlobalTheory.SS.GI.exists_mem_sp_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:47:26.803804+00:00
 -- url     : https://prove2.me/theorems/da0ad5d3-7964-4a5a-9596-a4dc0a95b51f

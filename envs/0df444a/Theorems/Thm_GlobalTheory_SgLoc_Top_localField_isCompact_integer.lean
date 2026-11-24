@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_Top_localField_isCompact_integer
 -- name    : GlobalTheory.SgLoc.Top.localField_isCompact_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:09:42.103203+00:00
 -- url     : https://prove2.me/theorems/af7aeda7-0381-40fc-b24c-be288a85131c

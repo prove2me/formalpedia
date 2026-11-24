@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_comm_bcMap_iff
 -- name    : GlobalTheory.SplitTorus.comm_bcMap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:37.774185+00:00
 -- url     : https://prove2.me/theorems/6196fa3c-7236-450e-839d-16742bb33762

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLocEq_proj_entry
 -- name    : GlobalTheory.SplitLocEq.proj_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:23:30.554665+00:00
 -- url     : https://prove2.me/theorems/b4217cd7-5266-4ee1-a984-2420d5872526

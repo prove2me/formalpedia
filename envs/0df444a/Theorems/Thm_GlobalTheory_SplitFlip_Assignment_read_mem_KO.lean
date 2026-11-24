@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Assignment_read_mem_KO
 -- name    : GlobalTheory.SplitFlip.Assignment.read_mem_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:19:51.651571+00:00
 -- url     : https://prove2.me/theorems/2d5fcb8d-1390-4ad6-b9a6-527281e82d8f

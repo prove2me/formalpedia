@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeqFirst_isIso_restrict_of_le
 -- name    : GlobalTheory.SeqFirst.isIso_restrict_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:10:03.757843+00:00
 -- url     : https://prove2.me/theorems/87920fa9-b525-4557-913e-8f3a8926fc95

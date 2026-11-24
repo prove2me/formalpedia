@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummableSeriesBounds_decay
 -- name    : GlobalTheory.SummableSeriesBounds.decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:23:36.882806+00:00
 -- url     : https://prove2.me/theorems/0e82816d-7879-4e08-8079-455c66642ebd

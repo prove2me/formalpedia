@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelUnip_dgC_tr_dbl_dgC
 -- name    : GlobalTheory.SiegelUnip.dgC_tr_dbl_dgC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:11:34.91808+00:00
 -- url     : https://prove2.me/theorems/c047d730-5248-4e72-808b-dc01bcd770dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitResidue_residue_and_unramified
 -- name    : GlobalTheory.SplitResidue.residue_and_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:22:45.685707+00:00
 -- url     : https://prove2.me/theorems/c243bb05-ff25-4e9b-b1d0-815ac77c052e

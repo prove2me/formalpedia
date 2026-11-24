@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymDesc_eq_of_sub_mem
 -- name    : GlobalTheory.SymDesc.eq_of_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:23:55.646737+00:00
 -- url     : https://prove2.me/theorems/3cfd46ac-2e1b-4f79-9c3f-7b93285227e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_UnusedSlot33_HK_absNorm_natK
 -- name    : Formalism.MainNotions.UnusedSlot33.HK.absNorm_natK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:30:34.500319+00:00
 -- url     : https://prove2.me/theorems/c391ca85-0685-4b87-9581-bd3a720bd122

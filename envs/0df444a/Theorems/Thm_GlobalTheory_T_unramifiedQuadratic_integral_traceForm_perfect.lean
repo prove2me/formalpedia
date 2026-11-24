@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramifiedQuadratic_integral_traceForm_perfect
 -- name    : GlobalTheory.T.unramifiedQuadratic_integral_traceForm_perfect
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:40.701401+00:00
 -- url     : https://prove2.me/theorems/9ca7d74d-e51b-45bc-8f8d-e770dd21f50b

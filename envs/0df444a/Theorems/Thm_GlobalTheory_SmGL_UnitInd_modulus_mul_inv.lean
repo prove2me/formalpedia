@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_modulus_mul_inv
 -- name    : GlobalTheory.SmGL.UnitInd.modulus_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:14:11.159475+00:00
 -- url     : https://prove2.me/theorems/6d430547-cd7e-4072-ac41-ecaf9082fd83

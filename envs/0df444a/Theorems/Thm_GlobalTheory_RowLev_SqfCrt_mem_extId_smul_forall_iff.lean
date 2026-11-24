@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_SqfCrt_mem_extId_smul_forall_iff
 -- name    : GlobalTheory.RowLev.SqfCrt.mem_extId_smul_forall_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:55:58.860795+00:00
 -- url     : https://prove2.me/theorems/e082e728-51d7-43be-bcae-8c1f2bf5c888

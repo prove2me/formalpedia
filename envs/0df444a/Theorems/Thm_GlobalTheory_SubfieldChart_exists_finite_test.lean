@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubfieldChart_exists_finite_test
 -- name    : GlobalTheory.SubfieldChart.exists_finite_test
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:23:34.092301+00:00
 -- url     : https://prove2.me/theorems/87c2eaea-4787-48a1-a560-ff83753f99e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_isoAt_iff
 -- name    : GlobalTheory.SS.Translates.isoAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:18:05.826525+00:00
 -- url     : https://prove2.me/theorems/73de4a9e-95bd-474b-b66c-6d28fd0d3544

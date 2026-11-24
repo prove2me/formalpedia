@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientHaar_existsUnique_haar_of_invariantRadon
 -- name    : GlobalTheory.QuotientHaar.existsUnique_haar_of_invariantRadon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:12:09.823022+00:00
 -- url     : https://prove2.me/theorems/f5f6becc-ec77-4ca4-94e2-b920827b59ba

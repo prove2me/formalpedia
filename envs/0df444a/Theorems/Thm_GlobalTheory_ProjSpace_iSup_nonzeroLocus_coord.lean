@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_iSup_nonzeroLocus_coord
 -- name    : GlobalTheory.ProjSpace.iSup_nonzeroLocus_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:47:13.14384+00:00
 -- url     : https://prove2.me/theorems/77d2ea75-67d8-4132-a8c0-1a6239065b4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_model_smoothOfRelativeDimension
 -- name    : GlobalTheory.SS.Ord.model_smoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:31:07.517738+00:00
 -- url     : https://prove2.me/theorems/4a67d476-0395-489b-b620-10cd8d2646ef

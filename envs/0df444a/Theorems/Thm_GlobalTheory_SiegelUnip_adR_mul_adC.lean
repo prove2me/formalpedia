@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelUnip_adR_mul_adC
 -- name    : GlobalTheory.SiegelUnip.adR_mul_adC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:11:06.34983+00:00
 -- url     : https://prove2.me/theorems/ca9dfd3f-6efe-4bbb-ae7e-c1902252f1bb

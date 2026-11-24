@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralAgentsWorldModels_lemma4_factor_next_eventually
 -- name    : GeneralAgentsWorldModels.lemma4_factor_next_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:37:05.131923+00:00
 -- url     : https://prove2.me/theorems/5f628f71-feca-4a0c-890f-1766aea09b8c

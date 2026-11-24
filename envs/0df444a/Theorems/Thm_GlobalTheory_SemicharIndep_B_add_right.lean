@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemicharIndep_B_add_right
 -- name    : GlobalTheory.SemicharIndep.B_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:53:50.566257+00:00
 -- url     : https://prove2.me/theorems/89938ddf-733b-4340-84aa-dd948fb52f70

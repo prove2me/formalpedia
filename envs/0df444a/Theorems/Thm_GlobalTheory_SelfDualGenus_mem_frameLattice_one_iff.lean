@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_mem_frameLattice_one_iff
 -- name    : GlobalTheory.SelfDualGenus.mem_frameLattice_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:52:39.71596+00:00
 -- url     : https://prove2.me/theorems/6ee619c4-a3f9-4e4f-80c3-3d8ffa831b8f

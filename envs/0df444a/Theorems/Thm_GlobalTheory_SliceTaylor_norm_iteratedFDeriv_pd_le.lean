@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceTaylor_norm_iteratedFDeriv_pd_le
 -- name    : GlobalTheory.SliceTaylor.norm_iteratedFDeriv_pd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:14:05.212659+00:00
 -- url     : https://prove2.me/theorems/82a0f287-6637-4d64-b526-08333c991362

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelAction_block_identity
 -- name    : GlobalTheory.SiegelAction.block_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:11:26.912955+00:00
 -- url     : https://prove2.me/theorems/0f322839-f276-4556-9013-5cb98adc5249

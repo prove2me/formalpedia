@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubmodulePowSimple_snocZero_diag
 -- name    : GlobalTheory.SubmodulePowSimple.snocZero_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:24.816858+00:00
 -- url     : https://prove2.me/theorems/ee93a471-1404-4001-abc0-9c9456197bd2

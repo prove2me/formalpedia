@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_exists_sec_of_cover
 -- name    : GlobalTheory.SectionsProduct.exists_sec_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:52:14.94015+00:00
 -- url     : https://prove2.me/theorems/5b37ebf8-1cd9-4cf7-9d6a-185ac7a70412

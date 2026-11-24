@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_sum_polar_left
 -- name    : GlobalTheory.SmoothForms.sum_polar_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:09.414307+00:00
 -- url     : https://prove2.me/theorems/f551463b-9ee6-4b39-93dd-bbff0f789910

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrescribedRank_gat_d
 -- name    : GlobalTheory.PrescribedRank.gat_d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:43:05.852714+00:00
 -- url     : https://prove2.me/theorems/050d928c-edab-4566-8dc9-e30a1dfda3e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOpDecay_norm_le_max_comp
 -- name    : GlobalTheory.SliceOpDecay.norm_le_max_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:14:13.322816+00:00
 -- url     : https://prove2.me/theorems/9f3692c6-03da-4cf6-8eb5-8e202c261bed

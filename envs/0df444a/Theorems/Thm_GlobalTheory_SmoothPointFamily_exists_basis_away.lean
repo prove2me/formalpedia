@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothPointFamily_exists_basis_away
 -- name    : GlobalTheory.SmoothPointFamily.exists_basis_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:19:34.013234+00:00
 -- url     : https://prove2.me/theorems/a8bf0c1c-8a25-4a2b-bc5a-ab8bacf31072

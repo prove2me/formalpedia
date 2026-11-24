@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_Placing_exists_moves
 -- name    : GlobalTheory.SmGL.Placing.exists_moves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:14:05.307937+00:00
 -- url     : https://prove2.me/theorems/19d42635-c362-4510-9bf0-a1a837f717f7

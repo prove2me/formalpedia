@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthOrdFracDet_ord_prod
 -- name    : GlobalTheory.SignedLengthOrdFracDet.ord_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:12:32.809278+00:00
 -- url     : https://prove2.me/theorems/30198d1e-ba9b-4fb9-a0ce-ea594c3b8272

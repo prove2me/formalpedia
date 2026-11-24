@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHypEquiv_etaK_mul
 -- name    : GlobalTheory.JHypEquiv.etaK_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:24:01.007986+00:00
 -- url     : https://prove2.me/theorems/37003fcc-46d4-4992-a939-4425388f595f

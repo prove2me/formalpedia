@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreRatio_half_trace_tmul
 -- name    : GlobalTheory.CompanionTheory.SW.FibreRatio.half_trace_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:49:39.009871+00:00
 -- url     : https://prove2.me/theorems/452ca35c-202d-4bf1-980d-8df1e8637f2f

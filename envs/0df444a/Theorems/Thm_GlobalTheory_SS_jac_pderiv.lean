@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_jac_pderiv
 -- name    : GlobalTheory.SS.jac_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:37:48.12765+00:00
 -- url     : https://prove2.me/theorems/3ced202d-7cad-40f7-91fd-41800456e6de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_massOf_ne_zero
 -- name    : GlobalTheory.SgGlob.Inhab.massOf_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:54:41.020913+00:00
 -- url     : https://prove2.me/theorems/8bc80c2e-3254-4fbb-b550-1b631de7530a

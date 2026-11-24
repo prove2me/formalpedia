@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_windows_le
 -- name    : GlobalTheory.RandomTops.windows_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:13:18.227726+00:00
 -- url     : https://prove2.me/theorems/0fa43101-7151-49d5-99a4-7c3c5b31e193

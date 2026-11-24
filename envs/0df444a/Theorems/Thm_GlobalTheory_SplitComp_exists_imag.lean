@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitComp_exists_imag
 -- name    : GlobalTheory.SplitComp.exists_imag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:02.836146+00:00
 -- url     : https://prove2.me/theorems/18bdb319-8fa3-4b20-929e-5a2dfbae7de6

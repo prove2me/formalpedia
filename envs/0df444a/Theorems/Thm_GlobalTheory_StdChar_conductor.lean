@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StdChar_conductor
 -- name    : GlobalTheory.StdChar.conductor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:22:23.816629+00:00
 -- url     : https://prove2.me/theorems/e642e0e1-bfd6-411a-86a3-54453a8a987f

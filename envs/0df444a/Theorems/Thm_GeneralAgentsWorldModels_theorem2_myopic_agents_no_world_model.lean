@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralAgentsWorldModels_theorem2_myopic_agents_no_world_model
 -- name    : GeneralAgentsWorldModels.theorem2_myopic_agents_no_world_model
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:40:00.3298+00:00
 -- url     : https://prove2.me/theorems/a90839de-bbe1-42fd-b9ae-5d3dcc41eb2b

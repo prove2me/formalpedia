@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_slice_val
 -- name    : GlobalTheory.SS.Translates.slice_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:44.937528+00:00
 -- url     : https://prove2.me/theorems/f912077f-8919-4f3a-8e1a-69da6457cabc

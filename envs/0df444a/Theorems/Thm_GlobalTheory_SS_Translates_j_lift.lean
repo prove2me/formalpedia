@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_j_lift
 -- name    : GlobalTheory.SS.Translates.j_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:18:00.488566+00:00
 -- url     : https://prove2.me/theorems/c30ad38a-2c76-4458-98ee-78eccea3d01a

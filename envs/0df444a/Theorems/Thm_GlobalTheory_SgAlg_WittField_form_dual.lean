@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_form_dual
 -- name    : GlobalTheory.SgAlg.WittField.form_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:54:32.897799+00:00
 -- url     : https://prove2.me/theorems/3427ff8c-bd0e-4441-9ef7-6933c1ad09d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistMove_gidx_mul_le
 -- name    : GlobalTheory.SW.TwistMove.gidx_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:43:58.63157+00:00
 -- url     : https://prove2.me/theorems/6efaa86e-b3a2-40dc-a91a-e73086dc7c89

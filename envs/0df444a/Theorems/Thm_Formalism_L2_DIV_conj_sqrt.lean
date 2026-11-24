@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_conj_sqrt
 -- name    : Formalism.L2.DIV.conj_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:30:38.714024+00:00
 -- url     : https://prove2.me/theorems/4142b612-7141-4904-86f5-aadd4ae7b033

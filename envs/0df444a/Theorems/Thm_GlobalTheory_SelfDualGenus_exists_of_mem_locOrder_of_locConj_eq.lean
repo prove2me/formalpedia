@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_exists_of_mem_locOrder_of_locConj_eq
 -- name    : GlobalTheory.SelfDualGenus.exists_of_mem_locOrder_of_locConj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:12:36.752949+00:00
 -- url     : https://prove2.me/theorems/2adaccbb-b1ad-49d4-85b1-2d98e17b6c54

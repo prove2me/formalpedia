@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_art_surj
 -- name    : Formalism.HC.Der.art_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:55:01.035501+00:00
 -- url     : https://prove2.me/theorems/fc43befb-7fb0-45d5-b7e8-11b9ad0243bf

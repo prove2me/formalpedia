@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_dualMap_inr
 -- name    : GlobalTheory.SqZero.dualMap_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:22:08.779263+00:00
 -- url     : https://prove2.me/theorems/5d80186e-cb17-4b25-8a36-7237774782b3

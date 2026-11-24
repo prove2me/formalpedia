@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_defect_pow
 -- name    : GlobalTheory.SymLiftOdd.defect_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:32.353459+00:00
 -- url     : https://prove2.me/theorems/1e758c6b-5aaf-468a-ab27-d76f2f85a1e9

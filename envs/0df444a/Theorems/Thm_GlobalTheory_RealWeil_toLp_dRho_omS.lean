@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_toLp_dRho_omS
 -- name    : GlobalTheory.RealWeil.toLp_dRho_omS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:55:52.955061+00:00
 -- url     : https://prove2.me/theorems/f3c3ee76-7c6d-4646-a1bd-21e9c4c071af

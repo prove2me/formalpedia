@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegral_continuous_iteratedFDeriv_param
 -- name    : GlobalTheory.SchwartzIntegral.continuous_iteratedFDeriv_param
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:46.424956+00:00
 -- url     : https://prove2.me/theorems/6fd9ac49-07c6-42b0-92dc-0bb08cf3abfe

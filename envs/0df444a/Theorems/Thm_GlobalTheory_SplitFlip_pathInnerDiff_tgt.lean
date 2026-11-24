@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_pathInnerDiff_tgt
 -- name    : GlobalTheory.SplitFlip.pathInnerDiff_tgt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:20:43.3845+00:00
 -- url     : https://prove2.me/theorems/1c507073-001e-4dd0-9c85-f4b6a83ea16f

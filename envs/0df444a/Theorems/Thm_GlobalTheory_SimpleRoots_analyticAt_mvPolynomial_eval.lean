@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_analyticAt_mvPolynomial_eval
 -- name    : GlobalTheory.SimpleRoots.analyticAt_mvPolynomial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:09.985706+00:00
 -- url     : https://prove2.me/theorems/e235d89f-2af1-48c7-a1e5-bec162cd349b

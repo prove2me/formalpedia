@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_AwayClosure_of_dvd
 -- name    : GlobalTheory.Square.AwayClosure.of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:25:53.187301+00:00
 -- url     : https://prove2.me/theorems/fa1e7252-178a-4dfc-8477-de454304d8f1

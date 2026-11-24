@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_cc_not_mem_Psi
 -- name    : Formalism.HC.Der.cc_not_mem_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:45:35.010404+00:00
 -- url     : https://prove2.me/theorems/f57a810b-49d7-4e63-864f-1dea9a347c05

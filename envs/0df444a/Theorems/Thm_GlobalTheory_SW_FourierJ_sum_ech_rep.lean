@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_sum_ech_rep
 -- name    : GlobalTheory.SW.FourierJ.sum_ech_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:38:33.981802+00:00
 -- url     : https://prove2.me/theorems/ea45bfad-4e4f-4ef6-a0c5-f91615322bb5

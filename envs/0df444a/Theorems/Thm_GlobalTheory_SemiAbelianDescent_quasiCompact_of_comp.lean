@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianDescent_quasiCompact_of_comp
 -- name    : GlobalTheory.SemiAbelianDescent.quasiCompact_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:53:51.084948+00:00
 -- url     : https://prove2.me/theorems/9834dc33-aabf-4e5e-9807-d19bcf794474

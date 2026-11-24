@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_exists_piForm
 -- name    : GlobalTheory.SmGL.UnitInd.exists_piForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:13:51.773309+00:00
 -- url     : https://prove2.me/theorems/62971437-968f-4036-ab77-9c55d39f2c5b

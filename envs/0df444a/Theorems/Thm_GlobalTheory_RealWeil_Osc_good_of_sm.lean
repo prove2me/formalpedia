@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_good_of_sm
 -- name    : GlobalTheory.RealWeil.Osc.good_of_sm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:21.593486+00:00
 -- url     : https://prove2.me/theorems/bb8c7186-d9f7-4305-afe1-92295f6d1285

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanQuotientTensor_span_mkQ_one_tmul
 -- name    : GlobalTheory.SpanQuotientTensor.span_mkQ_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:18:39.595807+00:00
 -- url     : https://prove2.me/theorems/c077eb62-db8c-4e5d-b7b2-6d7fc608ecb3

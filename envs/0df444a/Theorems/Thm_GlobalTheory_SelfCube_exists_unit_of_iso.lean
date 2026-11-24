@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfCube_exists_unit_of_iso
 -- name    : GlobalTheory.SelfCube.exists_unit_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:52:09.968495+00:00
 -- url     : https://prove2.me/theorems/e29e2563-bfc4-4072-842e-e9c07c043358

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummCount_summable_prod_fin_tuple
 -- name    : GlobalTheory.SummCount.summable_prod_fin_tuple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:22.574627+00:00
 -- url     : https://prove2.me/theorems/a62c8d93-70da-4ec6-bc58-d4a5d90828eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_smooth
 -- name    : GlobalTheory.Retract.smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:13:07.284084+00:00
 -- url     : https://prove2.me/theorems/00fcde6c-1165-4e37-b9a4-15cef3410d74

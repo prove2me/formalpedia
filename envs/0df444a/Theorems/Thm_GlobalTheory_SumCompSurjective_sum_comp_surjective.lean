@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SumCompSurjective_sum_comp_surjective
 -- name    : GlobalTheory.SumCompSurjective.sum_comp_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:40.028823+00:00
 -- url     : https://prove2.me/theorems/2596a118-fdad-4807-9910-1dccea93ada9

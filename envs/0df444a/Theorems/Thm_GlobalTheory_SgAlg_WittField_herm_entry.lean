@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_herm_entry
 -- name    : GlobalTheory.SgAlg.WittField.herm_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:54:42.42923+00:00
 -- url     : https://prove2.me/theorems/7f4c9aac-882f-48e8-a366-93756217a338

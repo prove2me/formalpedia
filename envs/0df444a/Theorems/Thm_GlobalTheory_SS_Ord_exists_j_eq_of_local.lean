@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_exists_j_eq_of_local
 -- name    : GlobalTheory.SS.Ord.exists_j_eq_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:17:12.710906+00:00
 -- url     : https://prove2.me/theorems/16c1c522-c878-43db-b6c4-e37f16c07159

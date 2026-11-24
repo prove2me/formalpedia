@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_CycAlg_cyclicAlgebra
 -- name    : GlobalTheory.RegSS.CycAlg.cyclicAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:26:03.584873+00:00
 -- url     : https://prove2.me/theorems/556845ad-8a29-4c22-ba58-82b908f2e5fb

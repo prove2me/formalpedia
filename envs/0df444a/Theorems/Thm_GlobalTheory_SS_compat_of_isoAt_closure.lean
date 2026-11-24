@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_compat_of_isoAt_closure
 -- name    : GlobalTheory.SS.compat_of_isoAt_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:10:47.911398+00:00
 -- url     : https://prove2.me/theorems/e46d3ca8-351a-4836-8b57-c54638ed13a7

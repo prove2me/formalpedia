@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_form_split
 -- name    : GlobalTheory.SgGlob.Inhab.form_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:54:33.214174+00:00
 -- url     : https://prove2.me/theorems/f0d476be-bc1e-414c-8739-bbf6adbb4788

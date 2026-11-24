@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadraticForm_ideleValues_mem_nhds_one
 -- name    : GlobalTheory.T.quadraticForm_ideleValues_mem_nhds_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:20:43.02988+00:00
 -- url     : https://prove2.me/theorems/1124c9cb-85f1-4f0c-91f2-b9dc9558f3f2

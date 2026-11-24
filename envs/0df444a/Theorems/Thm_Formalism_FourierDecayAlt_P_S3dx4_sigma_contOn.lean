@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_sigma_contOn
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.sigma_contOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:24:54.734775+00:00
 -- url     : https://prove2.me/theorems/441ebff9-cb75-4768-abf3-7c93f00f0731

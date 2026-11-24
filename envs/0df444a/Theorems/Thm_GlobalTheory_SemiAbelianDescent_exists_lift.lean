@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianDescent_exists_lift
 -- name    : GlobalTheory.SemiAbelianDescent.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:58:15.519717+00:00
 -- url     : https://prove2.me/theorems/f955be77-ccf9-4249-abb9-2bbeaa9dd197

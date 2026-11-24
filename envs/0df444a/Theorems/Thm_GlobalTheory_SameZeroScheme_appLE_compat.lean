@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SameZeroScheme_appLE_compat
 -- name    : GlobalTheory.SameZeroScheme.appLE_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:45:52.953385+00:00
 -- url     : https://prove2.me/theorems/52e63bda-9054-41ea-af75-6964b1b70e56

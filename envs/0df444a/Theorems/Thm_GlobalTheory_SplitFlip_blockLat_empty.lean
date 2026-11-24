@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_blockLat_empty
 -- name    : GlobalTheory.SplitFlip.blockLat_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:19:56.369573+00:00
 -- url     : https://prove2.me/theorems/c37c070d-a19c-4ab1-a421-4477af6792b2

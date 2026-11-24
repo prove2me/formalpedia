@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvBilinTest_smoothOp_cosetInd
 -- name    : GlobalTheory.InvBilinTest.smoothOp_cosetInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:20:27.863791+00:00
 -- url     : https://prove2.me/theorems/6ab36da1-218a-4c47-8759-0d017e757af2

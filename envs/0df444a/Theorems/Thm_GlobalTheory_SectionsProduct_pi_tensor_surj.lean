@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_pi_tensor_surj
 -- name    : GlobalTheory.SectionsProduct.pi_tensor_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:52:54.693954+00:00
 -- url     : https://prove2.me/theorems/6c47c203-7cf9-4255-9ee0-9d6d1bf196e5

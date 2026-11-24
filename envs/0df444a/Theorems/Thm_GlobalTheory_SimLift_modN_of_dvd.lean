@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimLift_modN_of_dvd
 -- name    : GlobalTheory.SimLift.modN_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:13:04.898026+00:00
 -- url     : https://prove2.me/theorems/6a51d2e4-ede3-4c70-84ee-13a9e728a54b

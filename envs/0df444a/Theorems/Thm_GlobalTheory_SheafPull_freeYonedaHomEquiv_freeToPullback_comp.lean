@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafPull_freeYonedaHomEquiv_freeToPullback_comp
 -- name    : GlobalTheory.SheafPull.freeYonedaHomEquiv_freeToPullback_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:11:22.101676+00:00
 -- url     : https://prove2.me/theorems/e2e295e8-d85b-4ac8-a59c-abd8b428a5dd

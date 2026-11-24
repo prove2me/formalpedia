@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFinitePart_exists_section_of_isIntegralHom
 -- name    : GlobalTheory.SplitFinitePart.exists_section_of_isIntegralHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:20:08.751875+00:00
 -- url     : https://prove2.me/theorems/2a220354-a65c-439e-8f4d-bcde307dda6f

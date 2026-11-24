@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZeroPow_dual_inl_pow
 -- name    : GlobalTheory.SqZeroPow.dual_inl_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:25:19.977493+00:00
 -- url     : https://prove2.me/theorems/768ffbd1-0ff1-4acc-b385-da6c20175514

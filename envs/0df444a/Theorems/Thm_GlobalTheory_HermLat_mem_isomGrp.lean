@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLat_mem_isomGrp
 -- name    : GlobalTheory.HermLat.mem_isomGrp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:49:32.598474+00:00
 -- url     : https://prove2.me/theorems/d90f500c-e17d-402a-8517-0d79fae3d7c4

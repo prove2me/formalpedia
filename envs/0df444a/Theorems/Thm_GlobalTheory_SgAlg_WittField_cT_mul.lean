@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_cT_mul
 -- name    : GlobalTheory.SgAlg.WittField.cT_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:54:36.582843+00:00
 -- url     : https://prove2.me/theorems/4ebe89ab-33dc-4d26-949b-948a1dded100

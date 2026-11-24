@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowDet_irreducible_det
 -- name    : GlobalTheory.RowDet.irreducible_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:00:55.396923+00:00
 -- url     : https://prove2.me/theorems/65b589d7-2225-4aad-b885-303e7b297467

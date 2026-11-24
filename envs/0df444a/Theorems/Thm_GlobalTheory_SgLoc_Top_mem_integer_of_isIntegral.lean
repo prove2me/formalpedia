@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_Top_mem_integer_of_isIntegral
 -- name    : GlobalTheory.SgLoc.Top.mem_integer_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:09:57.934952+00:00
 -- url     : https://prove2.me/theorems/233a6ae2-5eba-454b-a2c5-abcae59cded6

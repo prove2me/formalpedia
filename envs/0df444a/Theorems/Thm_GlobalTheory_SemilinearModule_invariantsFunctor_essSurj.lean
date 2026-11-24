@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilinearModule_invariantsFunctor_essSurj
 -- name    : GlobalTheory.SemilinearModule.invariantsFunctor_essSurj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:54:22.483391+00:00
 -- url     : https://prove2.me/theorems/66959ee0-be9e-4d1f-b806-4fe91826beaa

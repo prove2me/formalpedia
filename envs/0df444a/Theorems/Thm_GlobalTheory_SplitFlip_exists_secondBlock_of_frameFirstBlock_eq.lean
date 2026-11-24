@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_exists_secondBlock_of_frameFirstBlock_eq
 -- name    : GlobalTheory.SplitFlip.exists_secondBlock_of_frameFirstBlock_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:20:21.635793+00:00
 -- url     : https://prove2.me/theorems/3cca54bc-a146-4ab6-95a2-08a9bd7840f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NullV_qR_line
 -- name    : GlobalTheory.CompanionTheory.SW.NullV.qR_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:20:50.314908+00:00
 -- url     : https://prove2.me/theorems/51d720d5-82ce-4448-8e1c-c7be06e38ebf

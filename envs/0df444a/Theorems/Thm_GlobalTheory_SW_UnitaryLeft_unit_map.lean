@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UnitaryLeft_unit_map
 -- name    : GlobalTheory.SW.UnitaryLeft.unit_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:22.57785+00:00
 -- url     : https://prove2.me/theorems/0cd2877a-5abb-465b-bbdf-509e08b969b1

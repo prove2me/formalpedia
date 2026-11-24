@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelPeriod_exists_siegel_form
 -- name    : GlobalTheory.SiegelPeriod.exists_siegel_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:12:19.872384+00:00
 -- url     : https://prove2.me/theorems/46117343-ec6e-471d-933b-a6f25edf7821

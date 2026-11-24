@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GlueCompat_compat_of_cover
 -- name    : GlobalTheory.SS.GlueCompat.compat_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:35:02.931321+00:00
 -- url     : https://prove2.me/theorems/ca381e9c-75b7-49d4-886f-8462a958f6f9

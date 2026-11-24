@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupNormExample_exists_fnorm_small
 -- name    : GlobalTheory.SupNormExample.exists_fnorm_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:23:25.987375+00:00
 -- url     : https://prove2.me/theorems/3111ad68-caae-4e2f-b329-f20b8672ee7f

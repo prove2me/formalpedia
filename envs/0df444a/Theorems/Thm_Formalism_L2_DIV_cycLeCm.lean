@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_cycLeCm
 -- name    : Formalism.L2.DIV.cycLeCm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:31:00.766264+00:00
 -- url     : https://prove2.me/theorems/8111b570-997d-476f-a6ae-91a22fbe6d9d

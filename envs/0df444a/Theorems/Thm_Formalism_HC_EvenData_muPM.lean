@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenData_muPM
 -- name    : Formalism.HC.EvenData.muPM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:30:56.800848+00:00
 -- url     : https://prove2.me/theorems/932a6d23-66f3-4202-badd-f3cd2f46adc2

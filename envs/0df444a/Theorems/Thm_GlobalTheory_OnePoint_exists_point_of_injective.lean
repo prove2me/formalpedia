@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_point_of_injective
 -- name    : GlobalTheory.OnePoint.exists_point_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:02.092874+00:00
 -- url     : https://prove2.me/theorems/88d65af7-b1ab-466f-9c2c-1788675291da

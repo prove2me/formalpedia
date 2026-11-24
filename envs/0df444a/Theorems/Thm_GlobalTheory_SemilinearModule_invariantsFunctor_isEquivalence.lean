@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilinearModule_invariantsFunctor_isEquivalence
 -- name    : GlobalTheory.SemilinearModule.invariantsFunctor_isEquivalence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:03.158552+00:00
 -- url     : https://prove2.me/theorems/df4461ef-4830-427b-a748-cde2855e9b59

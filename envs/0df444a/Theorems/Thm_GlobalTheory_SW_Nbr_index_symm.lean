@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_index_symm
 -- name    : GlobalTheory.SW.Nbr.index_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:26.286204+00:00
 -- url     : https://prove2.me/theorems/004a42af-b7ad-43dd-8c96-62f53336396c

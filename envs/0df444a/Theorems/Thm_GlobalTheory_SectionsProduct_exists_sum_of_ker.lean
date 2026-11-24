@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_exists_sum_of_ker
 -- name    : GlobalTheory.SectionsProduct.exists_sum_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:52:57.058611+00:00
 -- url     : https://prove2.me/theorems/20098a47-031d-459c-9072-ab71d7a6e2ea

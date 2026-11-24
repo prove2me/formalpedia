@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_exists_mem_KO_of_mul
 -- name    : GlobalTheory.StepData.exists_mem_KO_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:22:32.675794+00:00
 -- url     : https://prove2.me/theorems/cc713df2-c106-4de5-8579-2784549b51be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_comm_pow_of_apply
 -- name    : GlobalTheory.SmoothForms.comm_pow_of_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:24.819805+00:00
 -- url     : https://prove2.me/theorems/53fa6abd-c5cd-48dc-a286-831e0b99f41d

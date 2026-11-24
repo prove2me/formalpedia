@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Four_unitaryFourUpperLeftBlock_injective_on_levi
 -- name    : GlobalTheory.SatakeWeyl.Four.unitaryFourUpperLeftBlock_injective_on_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:48:05.164137+00:00
 -- url     : https://prove2.me/theorems/ecbbfadf-9bae-4f0b-a2a5-c3f5e8955782

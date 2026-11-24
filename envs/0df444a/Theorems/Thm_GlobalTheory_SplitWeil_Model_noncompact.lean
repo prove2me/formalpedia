@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_Model_noncompact
 -- name    : GlobalTheory.SplitWeil.Model.noncompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:36.9758+00:00
 -- url     : https://prove2.me/theorems/08ba1d5c-be5a-467e-8372-c0e004adf602

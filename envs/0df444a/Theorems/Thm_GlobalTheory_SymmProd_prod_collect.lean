@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmProd_prod_collect
 -- name    : GlobalTheory.SymmProd.prod_collect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:24:47.639181+00:00
 -- url     : https://prove2.me/theorems/63a90ccc-1065-4b6b-baeb-fdfd08c88b0e

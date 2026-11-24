@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_NabJet_constantCoeff_DmonN_congr
 -- name    : GlobalTheory.PowGerm.NabJet.constantCoeff_DmonN_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:11:51.586325+00:00
 -- url     : https://prove2.me/theorems/98367ba3-983e-4b8f-83e3-6309cdce95e5

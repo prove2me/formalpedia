@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralAgentsWorldModels_lemma2_extended_action_space
 -- name    : GeneralAgentsWorldModels.lemma2_extended_action_space
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:35:43.894981+00:00
 -- url     : https://prove2.me/theorems/aaf6393a-fc41-4392-8d1c-31e458623269

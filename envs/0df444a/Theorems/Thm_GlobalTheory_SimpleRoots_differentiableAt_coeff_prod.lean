@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_differentiableAt_coeff_prod
 -- name    : GlobalTheory.SimpleRoots.differentiableAt_coeff_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:06.817863+00:00
 -- url     : https://prove2.me/theorems/c48e00d7-e581-4583-8b39-7159fcfa8a57

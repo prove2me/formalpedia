@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StabGen_closure_mono
 -- name    : GlobalTheory.StabGen.closure_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:11.362281+00:00
 -- url     : https://prove2.me/theorems/a4cdcfa4-44ea-4251-8829-5e0ae53c3684

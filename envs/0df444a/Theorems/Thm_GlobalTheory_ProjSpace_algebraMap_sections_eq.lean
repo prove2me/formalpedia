@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_algebraMap_sections_eq
 -- name    : GlobalTheory.ProjSpace.algebraMap_sections_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:47:12.5583+00:00
 -- url     : https://prove2.me/theorems/3ee78bc6-4d10-44f9-85c3-f0037ac4426a

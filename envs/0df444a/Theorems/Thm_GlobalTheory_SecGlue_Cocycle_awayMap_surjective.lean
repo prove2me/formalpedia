@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Cocycle_awayMap_surjective
 -- name    : GlobalTheory.SecGlue.Cocycle.awayMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:50:14.556432+00:00
 -- url     : https://prove2.me/theorems/18011dc0-16e1-4025-8d8b-83e06323ee2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarAlg_apply_out_mk
 -- name    : GlobalTheory.SW.HaarAlg.apply_out_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:40:19.497383+00:00
 -- url     : https://prove2.me/theorems/acfb50dd-88b3-4203-b4a8-ea24ad2b822a

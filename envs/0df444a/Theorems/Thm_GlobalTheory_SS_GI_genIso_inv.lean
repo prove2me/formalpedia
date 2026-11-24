@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_genIso_inv
 -- name    : GlobalTheory.SS.GI.genIso_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:33:33.585937+00:00
 -- url     : https://prove2.me/theorems/b1d7e0b8-ac60-44e3-b079-8a521fbb60a7

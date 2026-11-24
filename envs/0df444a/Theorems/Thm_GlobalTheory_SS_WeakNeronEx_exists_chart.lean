@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronEx_exists_chart
 -- name    : GlobalTheory.SS.WeakNeronEx.exists_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:11:46.54489+00:00
 -- url     : https://prove2.me/theorems/6f4be3db-79d4-4b5d-93b9-33e77636aadb

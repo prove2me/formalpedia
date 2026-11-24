@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_signMatrix_herm
 -- name    : GlobalTheory.SelfDualGenus.signMatrix_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:00.727053+00:00
 -- url     : https://prove2.me/theorems/16d4aef9-29a7-4e13-9402-21c7739040e5

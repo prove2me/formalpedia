@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_defect_bounded
 -- name    : GlobalTheory.SS.defect_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:38:22.836282+00:00
 -- url     : https://prove2.me/theorems/f2b6ee9c-7df3-491d-a150-12a4e40b15f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_MultiIrr_relabel_apply
 -- name    : GlobalTheory.SmGL.MultiIrr.relabel_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:56.685226+00:00
 -- url     : https://prove2.me/theorems/72aefe6c-6a2d-4f58-b2f4-097b69f407af

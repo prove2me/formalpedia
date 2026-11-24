@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_prime_res_generic
 -- name    : GlobalTheory.DvrModel.prime_res_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:57:07.148798+00:00
 -- url     : https://prove2.me/theorems/96e216fd-4f02-4d2f-9d41-4921c9683b39

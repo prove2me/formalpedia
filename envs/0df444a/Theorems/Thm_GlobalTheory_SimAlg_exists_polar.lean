@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_exists_polar
 -- name    : GlobalTheory.SimAlg.exists_polar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:12:37.207871+00:00
 -- url     : https://prove2.me/theorems/57c78401-8680-4124-8ddd-4f9648d79204

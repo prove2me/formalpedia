@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDescent_incl_smul
 -- name    : GlobalTheory.SmoothDescent.incl_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:15:11.502633+00:00
 -- url     : https://prove2.me/theorems/3f388af0-80ae-4913-8538-19dd66aa1901

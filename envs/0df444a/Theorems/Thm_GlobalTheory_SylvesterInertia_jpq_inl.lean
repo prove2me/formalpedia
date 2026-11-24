@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SylvesterInertia_jpq_inl
 -- name    : GlobalTheory.SylvesterInertia.jpq_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:34.833028+00:00
 -- url     : https://prove2.me/theorems/f98b788f-93d4-4e03-ac9c-be3810d021f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_hFac_emb
 -- name    : GlobalTheory.SW.Emb.hFac_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:39:09.926046+00:00
 -- url     : https://prove2.me/theorems/f0620f1e-3571-42b6-a8f3-b833180fd785

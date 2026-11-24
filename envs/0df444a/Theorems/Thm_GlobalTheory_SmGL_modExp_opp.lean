@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_modExp_opp
 -- name    : GlobalTheory.SmGL.modExp_opp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:40.594245+00:00
 -- url     : https://prove2.me/theorems/73740743-0f9b-4a31-a099-17e449177eb4

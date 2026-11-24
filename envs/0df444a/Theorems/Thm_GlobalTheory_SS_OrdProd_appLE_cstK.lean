@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdProd_appLE_cstK
 -- name    : GlobalTheory.SS.OrdProd.appLE_cstK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:31:24.485742+00:00
 -- url     : https://prove2.me/theorems/c7a0a971-dd88-4f41-8d8b-498f22883a84

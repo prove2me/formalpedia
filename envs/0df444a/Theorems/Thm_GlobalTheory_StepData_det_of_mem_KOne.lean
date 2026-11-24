@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_det_of_mem_KOne
 -- name    : GlobalTheory.StepData.det_of_mem_KOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:13.625906+00:00
 -- url     : https://prove2.me/theorems/c375cd2e-7f0f-4a9a-91f8-bb632bcb9d58

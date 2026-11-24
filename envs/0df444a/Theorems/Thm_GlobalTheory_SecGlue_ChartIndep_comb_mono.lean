@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_ChartIndep_comb_mono
 -- name    : GlobalTheory.SecGlue.ChartIndep.comb_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:50:36.206406+00:00
 -- url     : https://prove2.me/theorems/c671a437-b08a-4173-8913-4402f5a3b01a

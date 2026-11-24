@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymbolOne_word_add
 -- name    : GlobalTheory.SymbolOne.word_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:24:29.270816+00:00
 -- url     : https://prove2.me/theorems/d1c1a9ba-2f44-478b-a027-3798400dc0a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_continuous_phi_mu
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.continuous_phi_mu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:07:50.557268+00:00
 -- url     : https://prove2.me/theorems/c4cf94dd-77ff-43ff-a3dc-4d63a928282c

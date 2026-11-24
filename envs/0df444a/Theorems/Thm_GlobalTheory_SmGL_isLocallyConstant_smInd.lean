@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_isLocallyConstant_smInd
 -- name    : GlobalTheory.SmGL.isLocallyConstant_smInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:14:05.746041+00:00
 -- url     : https://prove2.me/theorems/9c9d669d-57cc-4fe6-a70c-2d2f127e8222

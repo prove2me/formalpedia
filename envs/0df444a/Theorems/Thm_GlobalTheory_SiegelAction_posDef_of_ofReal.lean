@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelAction_posDef_of_ofReal
 -- name    : GlobalTheory.SiegelAction.posDef_of_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:11:27.026228+00:00
 -- url     : https://prove2.me/theorems/2146db12-f849-439e-a3e6-b4cf114b7c69

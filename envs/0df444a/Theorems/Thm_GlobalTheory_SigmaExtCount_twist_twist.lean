@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SigmaExtCount_twist_twist
 -- name    : GlobalTheory.SigmaExtCount.twist_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:13:27.0969+00:00
 -- url     : https://prove2.me/theorems/17a0fcab-7f99-4fc2-b5e5-4456dc67bc97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_isOpen_valuation_eq_one
 -- name    : GlobalTheory.SplitWeil.isOpen_valuation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:21:04.799242+00:00
 -- url     : https://prove2.me/theorems/b1d099ec-285b-4eb7-a6f5-0fe126f073d3

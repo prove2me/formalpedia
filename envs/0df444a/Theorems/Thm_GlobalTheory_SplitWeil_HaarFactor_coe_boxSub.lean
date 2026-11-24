@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_HaarFactor_coe_boxSub
 -- name    : GlobalTheory.SplitWeil.HaarFactor.coe_boxSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:36.443074+00:00
 -- url     : https://prove2.me/theorems/4a87ed9f-1187-470c-99c8-cf305c84b330

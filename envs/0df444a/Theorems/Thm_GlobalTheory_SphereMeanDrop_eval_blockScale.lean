@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SphereMeanDrop_eval_blockScale
 -- name    : GlobalTheory.SphereMeanDrop.eval_blockScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:32.289288+00:00
 -- url     : https://prove2.me/theorems/49563147-9d37-43d9-bb29-dc63e96379a0

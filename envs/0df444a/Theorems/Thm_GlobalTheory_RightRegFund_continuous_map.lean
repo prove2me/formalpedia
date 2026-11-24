@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RightRegFund_continuous_map
 -- name    : GlobalTheory.RightRegFund.continuous_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:53:53.479501+00:00
 -- url     : https://prove2.me/theorems/1d2a6a63-4f2a-4c18-acb2-bc541b7fdb6d

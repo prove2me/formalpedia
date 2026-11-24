@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_localCharacters
 -- name    : GlobalTheory.QuadSymbol.localCharacters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:02:15.836281+00:00
 -- url     : https://prove2.me/theorems/48e15655-d578-487a-969c-57ce64a07067

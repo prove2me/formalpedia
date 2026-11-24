@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelAction_toBlocks_mul
 -- name    : GlobalTheory.SiegelAction.toBlocks_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:11:31.992936+00:00
 -- url     : https://prove2.me/theorems/22ae393d-b9cd-4c5d-9ff2-ea0a94719d4b

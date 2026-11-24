@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_TwoStep_numbers_one
 -- name    : GlobalTheory.Square.TwoStep.numbers_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:25:19.771035+00:00
 -- url     : https://prove2.me/theorems/55b74e6a-b92b-4d95-90af-8a8e3feca6c9

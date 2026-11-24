@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionKernel_exists_sec_of_local
 -- name    : GlobalTheory.SectionKernel.exists_sec_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:50:50.981737+00:00
 -- url     : https://prove2.me/theorems/91b4ad3e-a4ff-4e2f-813e-e2160273f441

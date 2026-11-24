@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_exists_localSetting
 -- name    : GlobalTheory.SplitFlip.exists_localSetting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:20:18.961807+00:00
 -- url     : https://prove2.me/theorems/ce780790-d19d-4b1a-88dd-0da81a0ba28c

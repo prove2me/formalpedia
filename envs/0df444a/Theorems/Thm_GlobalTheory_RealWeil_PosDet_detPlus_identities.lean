@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_PosDet_detPlus_identities
 -- name    : GlobalTheory.RealWeil.PosDet.detPlus_identities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:43.958657+00:00
 -- url     : https://prove2.me/theorems/44983e95-6034-4f9c-ac66-5ba8c980d465

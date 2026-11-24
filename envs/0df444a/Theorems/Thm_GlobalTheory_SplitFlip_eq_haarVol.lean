@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_eq_haarVol
 -- name    : GlobalTheory.SplitFlip.eq_haarVol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:20:02.311639+00:00
 -- url     : https://prove2.me/theorems/72bf51a4-c44c-4e31-b30d-7498c65f177b

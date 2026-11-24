@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_cst_mem_nonZeroDivisors
 -- name    : GlobalTheory.SS.Ord.cst_mem_nonZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:16:34.755251+00:00
 -- url     : https://prove2.me/theorems/2393695d-c4d9-4637-ad5e-625bb6da1e10

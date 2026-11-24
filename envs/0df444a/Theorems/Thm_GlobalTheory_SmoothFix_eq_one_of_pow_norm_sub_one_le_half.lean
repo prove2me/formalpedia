@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothFix_eq_one_of_pow_norm_sub_one_le_half
 -- name    : GlobalTheory.SmoothFix.eq_one_of_pow_norm_sub_one_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:15:18.597615+00:00
 -- url     : https://prove2.me/theorems/9059692e-a515-478c-a085-0b8ada8ba127

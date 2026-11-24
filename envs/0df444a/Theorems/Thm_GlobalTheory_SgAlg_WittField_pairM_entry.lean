@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_pairM_entry
 -- name    : GlobalTheory.SgAlg.WittField.pairM_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:54:13.249886+00:00
 -- url     : https://prove2.me/theorems/dffd51a5-ab71-42d5-a758-e73d8acf6753

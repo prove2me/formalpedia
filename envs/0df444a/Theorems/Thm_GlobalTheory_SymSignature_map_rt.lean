@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymSignature_map_rt
 -- name    : GlobalTheory.SymSignature.map_rt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:24:41.556459+00:00
 -- url     : https://prove2.me/theorems/debbd226-fd54-4c6f-8379-420c924603a0

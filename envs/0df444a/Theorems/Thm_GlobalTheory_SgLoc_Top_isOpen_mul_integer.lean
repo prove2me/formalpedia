@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_Top_isOpen_mul_integer
 -- name    : GlobalTheory.SgLoc.Top.isOpen_mul_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:09:58.461859+00:00
 -- url     : https://prove2.me/theorems/d968b33f-d8e7-4874-8878-fecdbe6d7466

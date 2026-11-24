@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepPoint_aeval_mem_adjoin_insert
 -- name    : GlobalTheory.SepPoint.aeval_mem_adjoin_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:53:10.114264+00:00
 -- url     : https://prove2.me/theorems/5736c318-d5ae-4198-8274-8d6fdf7c2a0c

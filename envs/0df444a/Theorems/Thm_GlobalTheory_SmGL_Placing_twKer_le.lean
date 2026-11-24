@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_Placing_twKer_le
 -- name    : GlobalTheory.SmGL.Placing.twKer_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:14:18.298226+00:00
 -- url     : https://prove2.me/theorems/f1379764-5b08-4aab-9442-4792af539ba6

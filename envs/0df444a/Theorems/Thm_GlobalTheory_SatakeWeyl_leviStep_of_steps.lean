@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_leviStep_of_steps
 -- name    : GlobalTheory.SatakeWeyl.leviStep_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:49:41.991568+00:00
 -- url     : https://prove2.me/theorems/e98caa85-17c9-4ce7-a66a-23cefb53d58e

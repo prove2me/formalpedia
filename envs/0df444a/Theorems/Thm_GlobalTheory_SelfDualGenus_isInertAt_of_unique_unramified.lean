@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_isInertAt_of_unique_unramified
 -- name    : GlobalTheory.SelfDualGenus.isInertAt_of_unique_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:53:30.915414+00:00
 -- url     : https://prove2.me/theorems/0714de72-820a-4c58-9d89-ef967785f9b1

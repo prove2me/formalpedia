@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowFubini_haar_trace_conj_eq
 -- name    : GlobalTheory.RowFubini.haar_trace_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:36.474318+00:00
 -- url     : https://prove2.me/theorems/bff4ca23-03f9-4e02-95e7-1213ff07f8b4

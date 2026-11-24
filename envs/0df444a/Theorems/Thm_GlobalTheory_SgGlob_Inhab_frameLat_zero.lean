@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_frameLat_zero
 -- name    : GlobalTheory.SgGlob.Inhab.frameLat_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:54:31.827655+00:00
 -- url     : https://prove2.me/theorems/3864dcdf-2944-4ab3-9839-96140945a16c

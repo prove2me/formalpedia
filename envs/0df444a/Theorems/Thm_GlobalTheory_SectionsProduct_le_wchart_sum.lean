@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_le_wchart_sum
 -- name    : GlobalTheory.SectionsProduct.le_wchart_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:52:38.963173+00:00
 -- url     : https://prove2.me/theorems/a8ed749f-a4c2-4b8b-a5fe-9d32f83c616a

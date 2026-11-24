@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionKernel_surjective_of_isNilpotent
 -- name    : GlobalTheory.SectionKernel.surjective_of_isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:51:58.974323+00:00
 -- url     : https://prove2.me/theorems/668bc741-cb09-485b-8856-a22e929fc5ab

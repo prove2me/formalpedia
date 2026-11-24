@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeros_riemannZeta_ne_zero_of_mem_Ioo
 -- name    : GlobalTheory.RealZeros.riemannZeta_ne_zero_of_mem_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:18:28.271455+00:00
 -- url     : https://prove2.me/theorems/d86f8536-e2c9-4906-94b4-74596458086b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_Model_IsUnram_isTame
 -- name    : GlobalTheory.SplitWeil.Model.IsUnram.isTame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:37.131892+00:00
 -- url     : https://prove2.me/theorems/f6c5be91-e77c-4eb8-97e6-ec1e30bc7762

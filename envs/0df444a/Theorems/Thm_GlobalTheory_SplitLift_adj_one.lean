@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLift_adj_one
 -- name    : GlobalTheory.SplitLift.adj_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:21:27.827719+00:00
 -- url     : https://prove2.me/theorems/be13625f-4550-4b64-8ba0-99d13d26109a

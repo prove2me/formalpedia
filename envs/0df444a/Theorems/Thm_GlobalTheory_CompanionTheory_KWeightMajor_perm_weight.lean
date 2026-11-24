@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KWeightMajor_perm_weight
 -- name    : GlobalTheory.CompanionTheory.KWeightMajor.perm_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:23:16.121886+00:00
 -- url     : https://prove2.me/theorems/797bc33c-8ca5-4845-ac79-c7419337241c

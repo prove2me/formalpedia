@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarAlg_hasLevel_translate
 -- name    : GlobalTheory.SW.HaarAlg.hasLevel_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:40:24.496488+00:00
 -- url     : https://prove2.me/theorems/ad482f49-e927-489a-b15f-0b8f0512218b

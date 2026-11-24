@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_mem_int_iff
 -- name    : GlobalTheory.SgGlob.Inhab.mem_int_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:55:06.162996+00:00
 -- url     : https://prove2.me/theorems/49061b12-af11-4e34-8488-c323b2977287

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittSplit_finrank_sup_singleton
 -- name    : GlobalTheory.SgAlg.WittSplit.finrank_sup_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:31.525607+00:00
 -- url     : https://prove2.me/theorems/3c4a7d1b-8b73-4ba5-bcf0-8aeb53a39c3d

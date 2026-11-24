@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOpCont_norm_padL_le
 -- name    : GlobalTheory.SliceOpCont.norm_padL_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:35.752233+00:00
 -- url     : https://prove2.me/theorems/ba07ca22-5783-4318-aba3-7726d7e2735f

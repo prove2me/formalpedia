@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortDatumEq_zetaM_eq
 -- name    : GlobalTheory.ShortDatumEq.zetaM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:11:50.616097+00:00
 -- url     : https://prove2.me/theorems/e95c8197-8cd1-4131-839c-db713aa75361

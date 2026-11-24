@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiteCoh_res_id_apply
 -- name    : GlobalTheory.SiteCoh.res_id_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:14:38.700737+00:00
 -- url     : https://prove2.me/theorems/d23e090e-1a2f-46ad-b86e-0a4368b3b687

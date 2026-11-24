@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelAction_sub_conj_eq
 -- name    : GlobalTheory.SiegelAction.sub_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:11:40.969527+00:00
 -- url     : https://prove2.me/theorems/82342f6f-1f42-4aa3-b29a-4048f661bbcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummableSeriesBounds_ev_lin
 -- name    : GlobalTheory.SummableSeriesBounds.ev_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:23:28.102526+00:00
 -- url     : https://prove2.me/theorems/4b8e40f4-7b40-4d41-afc2-e276e96c9ca9

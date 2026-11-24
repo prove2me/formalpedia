@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_form_conj
 -- name    : GlobalTheory.SgAlg.WittField.form_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:32.890019+00:00
 -- url     : https://prove2.me/theorems/099a7dbd-1579-4a9e-9d9a-1cf1a080897e

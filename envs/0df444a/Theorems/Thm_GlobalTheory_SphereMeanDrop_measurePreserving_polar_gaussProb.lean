@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SphereMeanDrop_measurePreserving_polar_gaussProb
 -- name    : GlobalTheory.SphereMeanDrop.measurePreserving_polar_gaussProb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:21:39.466069+00:00
 -- url     : https://prove2.me/theorems/36a9042f-59dc-4d63-8999-c29d81a8c905

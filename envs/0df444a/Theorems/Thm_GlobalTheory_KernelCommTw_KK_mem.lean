@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelCommTw_KK_mem
 -- name    : GlobalTheory.KernelCommTw.KK_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:43:36.484427+00:00
 -- url     : https://prove2.me/theorems/c5274d23-e329-4293-a691-f15f024e808e

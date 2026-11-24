@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuantumMinorAdjacentSwap_qdet_conj
 -- name    : GlobalTheory.QuantumMinorAdjacentSwap.qdet_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:13:31.545343+00:00
 -- url     : https://prove2.me/theorems/2da302c1-8985-40d9-8da5-f148f7075ca8

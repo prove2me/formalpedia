@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_exists_map_psi_eq_span
 -- name    : GlobalTheory.RowLev.exists_map_psi_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:32:41.3463+00:00
 -- url     : https://prove2.me/theorems/f3496196-b4fa-43e9-aed3-ce2977accc6d

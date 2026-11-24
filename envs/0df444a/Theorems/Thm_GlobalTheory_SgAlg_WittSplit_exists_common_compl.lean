@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittSplit_exists_common_compl
 -- name    : GlobalTheory.SgAlg.WittSplit.exists_common_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:39.613812+00:00
 -- url     : https://prove2.me/theorems/9aa3b82d-95ce-48cf-8a02-5057bf07c6c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_exists_sep
 -- name    : GlobalTheory.SW.Nbr.exists_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:13.011333+00:00
 -- url     : https://prove2.me/theorems/0bc2fd7a-5e85-4c48-9588-e30dd2ae5934

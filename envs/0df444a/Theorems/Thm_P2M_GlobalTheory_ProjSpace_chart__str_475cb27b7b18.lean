@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ProjSpace_chart__str_475cb27b7b18
 -- name    : P2M_GlobalTheory_ProjSpace_chart__str_475cb27b7b18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:47:31.79626+00:00
 -- url     : https://prove2.me/theorems/bf0c086c-e275-4396-b1bf-43d8aeee1e35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StdChar_mem_intSub
 -- name    : GlobalTheory.StdChar.mem_intSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:09.256409+00:00
 -- url     : https://prove2.me/theorems/8e190458-b0e1-4fbc-bb97-36079f273662

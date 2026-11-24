@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_isLocallyConstant_indSp
 -- name    : GlobalTheory.SmGL.UnitInd.isLocallyConstant_indSp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:51.054149+00:00
 -- url     : https://prove2.me/theorems/71f9a5e9-bdca-44a7-b68c-c9a944c68598

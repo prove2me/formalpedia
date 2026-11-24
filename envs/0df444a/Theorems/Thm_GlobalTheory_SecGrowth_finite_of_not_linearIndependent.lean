@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGrowth_finite_of_not_linearIndependent
 -- name    : GlobalTheory.SecGrowth.finite_of_not_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:48.356265+00:00
 -- url     : https://prove2.me/theorems/83930f6f-41b5-473d-a3c4-1c1849a1d037

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_formOn_chart_inj
 -- name    : GlobalTheory.ProjSpace.formOn_chart_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:44:38.777051+00:00
 -- url     : https://prove2.me/theorems/82236e38-8308-470e-be85-349ca70f14d2

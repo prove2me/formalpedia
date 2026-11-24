@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ThetaProd_isSB_prod
 -- name    : GlobalTheory.SW.ThetaProd.isSB_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:44:10.007447+00:00
 -- url     : https://prove2.me/theorems/35b3bb13-c22c-4b41-af28-5e2964468f21

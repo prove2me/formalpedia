@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianDescent_isSeparated_of_comp
 -- name    : GlobalTheory.SemiAbelianDescent.isSeparated_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:56:01.441952+00:00
 -- url     : https://prove2.me/theorems/24b3480b-6914-4bf2-a1a2-bffb9bda0ba7

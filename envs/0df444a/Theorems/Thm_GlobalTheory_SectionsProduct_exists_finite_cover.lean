@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_exists_finite_cover
 -- name    : GlobalTheory.SectionsProduct.exists_finite_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:55:13.95744+00:00
 -- url     : https://prove2.me/theorems/43f8c22e-0b10-4509-8056-1760ea442779

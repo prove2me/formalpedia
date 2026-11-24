@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_ChartIndep_chartHom_congr
 -- name    : GlobalTheory.SecGlue.ChartIndep.chartHom_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:50:28.467682+00:00
 -- url     : https://prove2.me/theorems/2409fbef-078e-4726-af4c-118ca9eb64db

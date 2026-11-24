@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafPull_map_comp_freeToPullback
 -- name    : GlobalTheory.SheafPull.map_comp_freeToPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:12:20.751807+00:00
 -- url     : https://prove2.me/theorems/7a0c67be-d4d9-47e4-9ae0-13bb0378b18a

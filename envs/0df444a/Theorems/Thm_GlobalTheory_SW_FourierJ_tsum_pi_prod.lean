@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_tsum_pi_prod
 -- name    : GlobalTheory.SW.FourierJ.tsum_pi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:38:42.72263+00:00
 -- url     : https://prove2.me/theorems/656c145b-55b5-4baf-8b9e-42ce4e28c212

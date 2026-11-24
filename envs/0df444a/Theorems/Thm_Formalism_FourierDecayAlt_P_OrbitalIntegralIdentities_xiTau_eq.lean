@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralIdentities_xiTau_eq
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralIdentities.xiTau_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:35:56.265553+00:00
 -- url     : https://prove2.me/theorems/f0277269-3e25-4728-9780-36b6284f0cc9

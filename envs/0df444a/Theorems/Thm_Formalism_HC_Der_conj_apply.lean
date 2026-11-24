@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_conj_apply
 -- name    : Formalism.HC.Der.conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:53:55.624102+00:00
 -- url     : https://prove2.me/theorems/c9d34912-0561-4020-a26a-2167732fc4bf

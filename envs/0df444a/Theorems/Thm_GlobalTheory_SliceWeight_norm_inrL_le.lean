@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceWeight_norm_inrL_le
 -- name    : GlobalTheory.SliceWeight.norm_inrL_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:30.188122+00:00
 -- url     : https://prove2.me/theorems/9f3a2a17-c616-4f42-b17d-a9f0906d1d1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_qConj_ring
 -- name    : GlobalTheory.QFam.qConj_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:59:45.95881+00:00
 -- url     : https://prove2.me/theorems/a8ef58b5-c27c-4d2c-bf36-633789a3af6c

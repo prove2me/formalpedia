@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignGen_round_signs
 -- name    : GlobalTheory.SignGen.round_signs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:01.295899+00:00
 -- url     : https://prove2.me/theorems/53753104-1ddb-4127-a379-dfb3705b470a

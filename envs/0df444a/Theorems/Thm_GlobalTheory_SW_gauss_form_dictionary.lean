@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_gauss_form_dictionary
 -- name    : GlobalTheory.SW.gauss_form_dictionary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:28.552284+00:00
 -- url     : https://prove2.me/theorems/8b0c2df8-449d-43b8-85df-3adfb524197f

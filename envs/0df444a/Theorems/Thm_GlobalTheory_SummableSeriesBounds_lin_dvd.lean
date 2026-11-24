@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummableSeriesBounds_lin_dvd
 -- name    : GlobalTheory.SummableSeriesBounds.lin_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:23:50.288596+00:00
 -- url     : https://prove2.me/theorems/02d7ee9a-0e96-40fd-97c9-13350c05cb48

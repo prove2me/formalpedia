@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StarTensor_tmul_eq_mul
 -- name    : GlobalTheory.StarTensor.tmul_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:22:17.06451+00:00
 -- url     : https://prove2.me/theorems/d0f3110b-3b45-4ec0-a0ee-e428c8ff58b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfCube_form_eq_zero_of_unit
 -- name    : GlobalTheory.SelfCube.form_eq_zero_of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:35.751247+00:00
 -- url     : https://prove2.me/theorems/94304792-6569-44db-8496-410480df1310

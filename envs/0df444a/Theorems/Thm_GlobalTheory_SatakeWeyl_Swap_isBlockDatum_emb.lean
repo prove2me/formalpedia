@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Swap_isBlockDatum_emb
 -- name    : GlobalTheory.SatakeWeyl.Swap.isBlockDatum_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:51.912266+00:00
 -- url     : https://prove2.me/theorems/be815df6-4e07-479e-a76e-cda5fc4c08d7

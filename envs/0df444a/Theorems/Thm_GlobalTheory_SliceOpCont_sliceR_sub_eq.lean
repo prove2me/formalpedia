@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOpCont_sliceR_sub_eq
 -- name    : GlobalTheory.SliceOpCont.sliceR_sub_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:14:26.533407+00:00
 -- url     : https://prove2.me/theorems/b34e1a2d-1e2b-491b-ba29-30db8ecf47a4

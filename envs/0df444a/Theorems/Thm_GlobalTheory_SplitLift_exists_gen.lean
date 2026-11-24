@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLift_exists_gen
 -- name    : GlobalTheory.SplitLift.exists_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:21:43.52521+00:00
 -- url     : https://prove2.me/theorems/3f660162-50ce-4857-b7fb-f09e5f1a867a

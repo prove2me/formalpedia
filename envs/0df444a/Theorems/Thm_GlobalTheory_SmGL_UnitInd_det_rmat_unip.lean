@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_det_rmat_unip
 -- name    : GlobalTheory.SmGL.UnitInd.det_rmat_unip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:13:50.702083+00:00
 -- url     : https://prove2.me/theorems/6133949f-1520-48e3-af22-8d168b8f7f4d

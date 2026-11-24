@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_dom_open
 -- name    : GlobalTheory.KS.Exist.dom_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:18.574055+00:00
 -- url     : https://prove2.me/theorems/0e285251-01e1-4e59-b903-70318395b069

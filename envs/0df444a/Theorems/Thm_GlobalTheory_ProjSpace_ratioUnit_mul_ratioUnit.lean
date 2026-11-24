@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_ratioUnit_mul_ratioUnit
 -- name    : GlobalTheory.ProjSpace.ratioUnit_mul_ratioUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:45:03.282815+00:00
 -- url     : https://prove2.me/theorems/4d67ec93-f9f3-49f7-9c18-3ed3850b9bb6

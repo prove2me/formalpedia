@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymGauge_expS_zero
 -- name    : GlobalTheory.SymGauge.expS_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:24:04.270082+00:00
 -- url     : https://prove2.me/theorems/223927af-7707-4d5c-831b-47bd46f71dca

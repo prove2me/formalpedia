@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_scalar_mul
 -- name    : GlobalTheory.RealWeil.Osc.scalar_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:17:10.054183+00:00
 -- url     : https://prove2.me/theorems/e10d2cb7-4fcb-4b45-9867-1b6fec174560

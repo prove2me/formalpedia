@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_anti_map_exp
 -- name    : GlobalTheory.SmoothForms.anti_map_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:32.178898+00:00
 -- url     : https://prove2.me/theorems/451a6c3a-be96-4b04-b81d-d144fc02bab3

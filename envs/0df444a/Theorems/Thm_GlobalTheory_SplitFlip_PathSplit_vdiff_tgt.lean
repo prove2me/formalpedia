@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_PathSplit_vdiff_tgt
 -- name    : GlobalTheory.SplitFlip.PathSplit.vdiff_tgt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:20:01.825451+00:00
 -- url     : https://prove2.me/theorems/93157d2e-91ab-465b-a801-ab4ac93fa220

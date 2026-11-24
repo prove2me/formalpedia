@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepPoint_exists_common_mul_mem
 -- name    : GlobalTheory.SepPoint.exists_common_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:53:26.496184+00:00
 -- url     : https://prove2.me/theorems/c9b260fc-e48e-4355-a36c-7b8f59c0992d

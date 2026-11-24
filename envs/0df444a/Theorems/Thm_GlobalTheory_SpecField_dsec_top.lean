@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpecField_dsec_top
 -- name    : GlobalTheory.SpecField.dsec_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:20:39.373174+00:00
 -- url     : https://prove2.me/theorems/6306686a-e874-45ae-9ad0-847333604770

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepGenElt_exists_aeval_eq
 -- name    : GlobalTheory.SepGenElt.exists_aeval_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:53:22.856494+00:00
 -- url     : https://prove2.me/theorems/dcc7d38d-8a25-4bb4-9876-fcc4109d0115

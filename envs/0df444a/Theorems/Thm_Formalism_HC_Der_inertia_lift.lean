@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_inertia_lift
 -- name    : Formalism.HC.Der.inertia_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:13:12.667456+00:00
 -- url     : https://prove2.me/theorems/990899e3-cfa2-497e-bbd1-3024aec0786b

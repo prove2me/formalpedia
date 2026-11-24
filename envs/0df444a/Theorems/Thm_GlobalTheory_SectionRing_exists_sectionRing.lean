@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionRing_exists_sectionRing
 -- name    : GlobalTheory.SectionRing.exists_sectionRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:56:25.56146+00:00
 -- url     : https://prove2.me/theorems/fbd470f8-d664-456d-bcc6-db56b27ad107

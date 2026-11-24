@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_eval_map_eq_sum
 -- name    : GlobalTheory.SimpleRoots.eval_map_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:10.322215+00:00
 -- url     : https://prove2.me/theorems/a3430e06-efe5-46ea-b4c6-c653e691e35e

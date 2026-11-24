@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummableSeriesBounds_lin_ne_zero
 -- name    : GlobalTheory.SummableSeriesBounds.lin_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:23:52.704211+00:00
 -- url     : https://prove2.me/theorems/70254ae9-ba4e-4bfb-8d37-f281a8df70a9

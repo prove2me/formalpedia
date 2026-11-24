@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_descent
 -- name    : GlobalTheory.SatakeWeyl.descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:48:00.869556+00:00
 -- url     : https://prove2.me/theorems/bf5f068e-ada9-4f56-850b-14690e5b7d14

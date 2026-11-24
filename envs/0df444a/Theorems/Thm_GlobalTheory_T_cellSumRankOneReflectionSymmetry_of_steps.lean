@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cellSumRankOneReflectionSymmetry_of_steps
 -- name    : GlobalTheory.T.cellSumRankOneReflectionSymmetry_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:32:33.302646+00:00
 -- url     : https://prove2.me/theorems/372d1c5a-f7c3-413f-8f9f-416557990509

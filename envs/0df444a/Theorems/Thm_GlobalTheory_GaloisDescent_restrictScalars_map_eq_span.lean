@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_restrictScalars_map_eq_span
 -- name    : GlobalTheory.GaloisDescent.restrictScalars_map_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:41:41.784667+00:00
 -- url     : https://prove2.me/theorems/8d641bde-a35b-427e-be0a-7c3e19343f3d

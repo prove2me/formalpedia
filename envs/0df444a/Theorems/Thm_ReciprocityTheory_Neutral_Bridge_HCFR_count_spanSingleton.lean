@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCFR_count_spanSingleton
 -- name    : ReciprocityTheory.Neutral.Bridge.HCFR.count_spanSingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:49:47.475907+00:00
 -- url     : https://prove2.me/theorems/cbb7f9f1-a616-465a-94c7-c2de38bc161c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Red_isRed_self
 -- name    : GlobalTheory.SecGlue.Red.isRed_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:49:04.046291+00:00
 -- url     : https://prove2.me/theorems/ea4c6802-f7bc-4ce7-99c4-d9339ea32363

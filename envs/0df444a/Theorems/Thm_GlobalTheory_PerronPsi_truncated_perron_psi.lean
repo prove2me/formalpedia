@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerronPsi_truncated_perron_psi
 -- name    : GlobalTheory.PerronPsi.truncated_perron_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:43:25.430979+00:00
 -- url     : https://prove2.me/theorems/e76f8fc5-3e29-4369-ba1a-f3caaafc699e

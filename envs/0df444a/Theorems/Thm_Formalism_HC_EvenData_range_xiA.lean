@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenData_range_xiA
 -- name    : Formalism.HC.EvenData.range_xiA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:31:36.506511+00:00
 -- url     : https://prove2.me/theorems/306d4ada-df47-4593-97e0-529787a169ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthMapLogDet_ord_prod
 -- name    : GlobalTheory.SignedLengthMapLogDet.ord_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:04.998453+00:00
 -- url     : https://prove2.me/theorems/6f454120-4d8f-4f79-9695-dbfe12534e86

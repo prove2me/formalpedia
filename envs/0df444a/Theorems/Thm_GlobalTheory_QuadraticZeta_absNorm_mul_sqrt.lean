@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_absNorm_mul_sqrt
 -- name    : GlobalTheory.QuadraticZeta.absNorm_mul_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:43:13.769601+00:00
 -- url     : https://prove2.me/theorems/8e3286e8-c60a-4a15-9108-328d6d1b1a60

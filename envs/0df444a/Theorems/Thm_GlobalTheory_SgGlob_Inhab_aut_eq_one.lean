@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_aut_eq_one
 -- name    : GlobalTheory.SgGlob.Inhab.aut_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:54:06.696582+00:00
 -- url     : https://prove2.me/theorems/1819e3b0-9e16-4194-88e4-1285017170b0

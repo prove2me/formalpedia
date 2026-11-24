@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareDensity_exists_det_polynomial
 -- name    : GlobalTheory.SquareDensity.exists_det_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:04.054643+00:00
 -- url     : https://prove2.me/theorems/229dff62-9ead-4c4b-a0c0-b6f4641eeb36

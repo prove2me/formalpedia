@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLift_exists_lift_matrix
 -- name    : GlobalTheory.SplitLift.exists_lift_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:21:14.061461+00:00
 -- url     : https://prove2.me/theorems/8b79566f-cbf8-4507-9c0d-256c05df2b70

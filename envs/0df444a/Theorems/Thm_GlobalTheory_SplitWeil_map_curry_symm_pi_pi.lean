@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_map_curry_symm_pi_pi
 -- name    : GlobalTheory.SplitWeil.map_curry_symm_pi_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:21:06.436804+00:00
 -- url     : https://prove2.me/theorems/6449c39e-bba2-404e-9380-c458b2b2aad8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictLaw_ext_pt
 -- name    : GlobalTheory.SS.StrictLaw.ext_pt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:02:30.516906+00:00
 -- url     : https://prove2.me/theorems/5f850324-8edc-4045-9ec1-1ffab589a7b1

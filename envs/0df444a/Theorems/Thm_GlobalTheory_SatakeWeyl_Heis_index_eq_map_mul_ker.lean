@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Heis_index_eq_map_mul_ker
 -- name    : GlobalTheory.SatakeWeyl.Heis.index_eq_map_mul_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:47:50.568865+00:00
 -- url     : https://prove2.me/theorems/e891e0c3-b818-4542-bec2-ec3658ec1e7b

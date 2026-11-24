@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Model_val_le_iff_mem
 -- name    : GlobalTheory.SplitFlip.Model.val_le_iff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:19:59.672801+00:00
 -- url     : https://prove2.me/theorems/189be928-3885-4ee3-8831-c1513447f203

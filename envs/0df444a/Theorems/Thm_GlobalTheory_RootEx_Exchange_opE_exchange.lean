@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_opE_exchange
 -- name    : GlobalTheory.RootEx.Exchange.opE_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:24:05.657657+00:00
 -- url     : https://prove2.me/theorems/00800862-7f96-469f-b97a-6498592cbad9

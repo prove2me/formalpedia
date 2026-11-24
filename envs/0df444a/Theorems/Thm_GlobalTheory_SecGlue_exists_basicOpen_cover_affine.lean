@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_exists_basicOpen_cover_affine
 -- name    : GlobalTheory.SecGlue.exists_basicOpen_cover_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:49:26.54879+00:00
 -- url     : https://prove2.me/theorems/0563425a-36ba-4161-a44c-dfd24fa2e9f3

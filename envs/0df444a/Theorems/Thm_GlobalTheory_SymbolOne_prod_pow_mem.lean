@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymbolOne_prod_pow_mem
 -- name    : GlobalTheory.SymbolOne.prod_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:24:29.40423+00:00
 -- url     : https://prove2.me/theorems/08ef992f-5721-4d36-a21a-9fab95607d4c

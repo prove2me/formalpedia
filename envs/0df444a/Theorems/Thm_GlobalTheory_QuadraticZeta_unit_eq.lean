@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_unit_eq
 -- name    : GlobalTheory.QuadraticZeta.unit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:30:50.116434+00:00
 -- url     : https://prove2.me/theorems/1e15e013-fbcc-4d60-b36f-2bfbe9f201da

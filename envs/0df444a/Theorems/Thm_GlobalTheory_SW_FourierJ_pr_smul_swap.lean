@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_pr_smul_swap
 -- name    : GlobalTheory.SW.FourierJ.pr_smul_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:59.188841+00:00
 -- url     : https://prove2.me/theorems/453859be-1d38-4006-92e1-182d8ddec847

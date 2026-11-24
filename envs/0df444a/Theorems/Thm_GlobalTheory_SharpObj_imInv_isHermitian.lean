@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpObj_imInv_isHermitian
 -- name    : GlobalTheory.SharpObj.imInv_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:10:48.8341+00:00
 -- url     : https://prove2.me/theorems/0e030928-79af-420a-be0b-e8c421365de2

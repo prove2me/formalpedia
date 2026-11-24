@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimMult_lift_step
 -- name    : GlobalTheory.SimMult.lift_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:14:36.138817+00:00
 -- url     : https://prove2.me/theorems/fcd9c568-e864-412a-88aa-400dc76d13e9

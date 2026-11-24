@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLift_hform_dot
 -- name    : GlobalTheory.SplitLift.hform_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:21:28.592608+00:00
 -- url     : https://prove2.me/theorems/b0c14d8b-fee6-4b05-a85b-00b597b5151c

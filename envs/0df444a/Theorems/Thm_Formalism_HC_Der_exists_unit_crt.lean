@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_exists_unit_crt
 -- name    : Formalism.HC.Der.exists_unit_crt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:46:58.062256+00:00
 -- url     : https://prove2.me/theorems/849d63cc-9531-4caa-87dd-3d5a85a80f16

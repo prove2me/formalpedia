@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_CuspMax_subsingleton_jacquet_of_conj
 -- name    : GlobalTheory.SmGL.CuspMax.subsingleton_jacquet_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:30.58441+00:00
 -- url     : https://prove2.me/theorems/4a41e743-38d4-45fe-a608-7eade9ebb06b

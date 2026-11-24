@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareDensity_eq_sum_monomial
 -- name    : GlobalTheory.SquareDensity.eq_sum_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:22:50.321251+00:00
 -- url     : https://prove2.me/theorems/f7c52747-0a27-49c5-b8a2-3df5051186b6

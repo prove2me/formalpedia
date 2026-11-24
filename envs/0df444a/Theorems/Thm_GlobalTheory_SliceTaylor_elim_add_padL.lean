@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceTaylor_elim_add_padL
 -- name    : GlobalTheory.SliceTaylor.elim_add_padL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:59.387058+00:00
 -- url     : https://prove2.me/theorems/197bc3b9-d6c3-4512-a3ac-1177dc77ef2e

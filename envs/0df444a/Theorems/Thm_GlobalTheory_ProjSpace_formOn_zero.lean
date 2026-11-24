@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_formOn_zero
 -- name    : GlobalTheory.ProjSpace.formOn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:44:07.44068+00:00
 -- url     : https://prove2.me/theorems/c82690e0-210c-4b28-bca2-7b08277bb4de

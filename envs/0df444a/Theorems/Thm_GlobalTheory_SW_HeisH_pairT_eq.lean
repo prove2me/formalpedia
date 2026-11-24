@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeisH_pairT_eq
 -- name    : GlobalTheory.SW.HeisH.pairT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:55.330501+00:00
 -- url     : https://prove2.me/theorems/e2d85044-cacb-4597-bfa5-d496f7729f00

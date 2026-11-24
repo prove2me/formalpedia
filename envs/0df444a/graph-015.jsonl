@@ -53025,13 +53025,13 @@
 {"parent": "MobilePromo_Assumption3", "child": "MobilePromo_V", "via": ["statement"]}
 {"parent": "ZeroOneIALM.pStationaryTriplet_finite", "child": "ZeroOneIALM_Assumptions", "via": ["statement"]}
 {"parent": "ZeroOneIALM.pStationaryTriplet_finite", "child": "ZeroOneIALM_PStationary", "via": ["statement"]}
-{"parent": "PLIAG.proposition_3_1", "child": "PLIAG_AssumptionB4", "via": ["statement"]}
-{"parent": "PLIAG.proposition_3_1", "child": "PLIAG_Phik", "via": ["statement"]}
-{"parent": "PLIAG.proposition_3_1", "child": "PLIAG_IsLegendre", "via": ["statement"]}
-{"parent": "PLIAG.proposition_3_1", "child": "AubinLipschitz_effDom", "via": ["statement"]}
-{"parent": "PLIAG.proposition_3_1", "child": "PLIAG_optSet", "via": ["statement"]}
-{"parent": "PLIAG.proposition_3_1", "child": "TensorAHPE_IsProperClosedConvex", "via": ["statement"]}
-{"parent": "PLIAG.proposition_3_1", "child": "PLIAG_AssumptionB1", "via": ["statement"]}
+{"parent": "PLIAG.proposition_3_1", "child": "PLIAG_AssumptionB4", "via": ["solution", "statement"]}
+{"parent": "PLIAG.proposition_3_1", "child": "PLIAG_Phik", "via": ["solution", "statement"]}
+{"parent": "PLIAG.proposition_3_1", "child": "PLIAG_IsLegendre", "via": ["solution", "statement"]}
+{"parent": "PLIAG.proposition_3_1", "child": "AubinLipschitz_effDom", "via": ["solution", "statement"]}
+{"parent": "PLIAG.proposition_3_1", "child": "PLIAG_optSet", "via": ["solution", "statement"]}
+{"parent": "PLIAG.proposition_3_1", "child": "TensorAHPE_IsProperClosedConvex", "via": ["solution", "statement"]}
+{"parent": "PLIAG.proposition_3_1", "child": "PLIAG_AssumptionB1", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_17_original_BV_complement_interior_jump_discount_drift_cover", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_17_original_BV_complement_interior_jump_discount_drift_cover", "child": "AvramDividend.Classical.boundedVariation_generator_physical_drift_representation", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_17_original_BV_complement_interior_jump_discount_drift_cover", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitSpread_eval_eqs_inv
 -- name    : GlobalTheory.SplitSpread.eval_eqs_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:21:53.605539+00:00
 -- url     : https://prove2.me/theorems/e85ee789-b39b-4885-b3fd-7bbc45997918

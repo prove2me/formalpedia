@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistMove_relIndex_imL
 -- name    : GlobalTheory.SW.TwistMove.relIndex_imL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:43:59.802976+00:00
 -- url     : https://prove2.me/theorems/48bf36ce-6012-4a29-8c97-28005c234e74

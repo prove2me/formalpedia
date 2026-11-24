@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Heis_mem_int_iff
 -- name    : GlobalTheory.SatakeWeyl.Heis.mem_int_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:47:49.77098+00:00
 -- url     : https://prove2.me/theorems/3962b2f8-e6e5-4c74-a836-43cb729938f9

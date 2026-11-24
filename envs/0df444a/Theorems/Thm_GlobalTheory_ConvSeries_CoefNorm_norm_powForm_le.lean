@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_CoefNorm_norm_powForm_le
 -- name    : GlobalTheory.ConvSeries.CoefNorm.norm_powForm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:55.070908+00:00
 -- url     : https://prove2.me/theorems/83ba2c6c-7f6a-4165-81d3-741c9adb4511

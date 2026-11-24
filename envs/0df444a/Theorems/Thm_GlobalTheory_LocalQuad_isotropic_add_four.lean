@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_isotropic_add_four
 -- name    : GlobalTheory.LocalQuad.isotropic_add_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:14:35.697582+00:00
 -- url     : https://prove2.me/theorems/098c62c5-33bf-4478-8d94-5d521861c71f

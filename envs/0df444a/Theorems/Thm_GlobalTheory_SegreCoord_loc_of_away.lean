@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_loc_of_away
 -- name    : GlobalTheory.SegreCoord.loc_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:52:23.31305+00:00
 -- url     : https://prove2.me/theorems/ad668638-8951-4545-a3c2-f08c607e21ee

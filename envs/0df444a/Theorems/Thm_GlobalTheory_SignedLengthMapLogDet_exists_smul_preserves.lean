@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthMapLogDet_exists_smul_preserves
 -- name    : GlobalTheory.SignedLengthMapLogDet.exists_smul_preserves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:31.923285+00:00
 -- url     : https://prove2.me/theorems/1061e7b6-36d0-498f-818a-99a6da43b584

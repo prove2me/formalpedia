@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiteCoh_freeSheaf_map_tautSection
 -- name    : GlobalTheory.SiteCoh.freeSheaf_map_tautSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:14:52.966863+00:00
 -- url     : https://prove2.me/theorems/c03882bf-6a38-4a13-87b0-846cc8f6483a

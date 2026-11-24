@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_LU_T_smul_mem_dual_lattice
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.LU.T_smul_mem_dual_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:07:51.101785+00:00
 -- url     : https://prove2.me/theorems/7ad43f77-a69c-4dbc-9705-daee073d3553

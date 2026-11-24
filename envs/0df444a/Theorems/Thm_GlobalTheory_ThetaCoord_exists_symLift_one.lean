@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_exists_symLift_one
 -- name    : GlobalTheory.ThetaCoord.exists_symLift_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:19:17.049254+00:00
 -- url     : https://prove2.me/theorems/1a7c2ab0-2c4b-4479-9d87-19807e0eea9f

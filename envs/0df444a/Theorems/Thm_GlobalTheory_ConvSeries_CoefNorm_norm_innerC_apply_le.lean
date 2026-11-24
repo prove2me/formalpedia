@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_CoefNorm_norm_innerC_apply_le
 -- name    : GlobalTheory.ConvSeries.CoefNorm.norm_innerC_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:42:04.315637+00:00
 -- url     : https://prove2.me/theorems/411bd7da-0323-49fd-aa4d-6fcf1047884e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeros_LFunction_eq_of_one_lt
 -- name    : GlobalTheory.RealZeros.LFunction_eq_of_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:17:52.511714+00:00
 -- url     : https://prove2.me/theorems/97cb8e22-50f4-413f-af06-ded7a8a9c96f

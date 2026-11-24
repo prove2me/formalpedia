@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_sec_eq_zero_of_app_eq_zero
 -- name    : GlobalTheory.DvrModel.sec_eq_zero_of_app_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:59:13.492826+00:00
 -- url     : https://prove2.me/theorems/03e841c5-f26c-4fbe-98c7-f475982bd6e6

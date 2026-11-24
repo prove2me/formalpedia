@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvBilinTest_key
 -- name    : GlobalTheory.InvBilinTest.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:58.535087+00:00
 -- url     : https://prove2.me/theorems/3033d8e4-2a20-4c3d-bb97-ed7d989c2b19

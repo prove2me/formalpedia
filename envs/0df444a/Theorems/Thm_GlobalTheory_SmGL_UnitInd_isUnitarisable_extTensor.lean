@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_isUnitarisable_extTensor
 -- name    : GlobalTheory.SmGL.UnitInd.isUnitarisable_extTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:13:43.968185+00:00
 -- url     : https://prove2.me/theorems/f3bb63da-0fb3-4167-98ec-8742e30799aa

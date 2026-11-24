@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemicharIndep_herm_add_left
 -- name    : GlobalTheory.SemicharIndep.herm_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:54:36.58687+00:00
 -- url     : https://prove2.me/theorems/e2aa1bb0-0256-495e-9532-91d5d0389fb0

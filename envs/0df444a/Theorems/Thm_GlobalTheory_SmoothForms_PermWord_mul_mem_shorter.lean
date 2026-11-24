@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_PermWord_mul_mem_shorter
 -- name    : GlobalTheory.SmoothForms.PermWord.mul_mem_shorter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:59.750145+00:00
 -- url     : https://prove2.me/theorems/92bc7be1-8f54-4f37-b096-8d055d4a9c8d

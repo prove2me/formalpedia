@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_partialProd_mul_compl
 -- name    : GlobalTheory.SimpleRoots.partialProd_mul_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:12:14.833801+00:00
 -- url     : https://prove2.me/theorems/d990567a-8b2f-44b8-9829-183a0e1858e9

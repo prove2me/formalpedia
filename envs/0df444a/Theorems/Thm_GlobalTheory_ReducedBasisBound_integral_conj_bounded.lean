@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ReducedBasisBound_integral_conj_bounded
 -- name    : GlobalTheory.ReducedBasisBound.integral_conj_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:18:42.928882+00:00
 -- url     : https://prove2.me/theorems/9b7c51d0-44fc-4d74-8ed5-07a82155b3ce

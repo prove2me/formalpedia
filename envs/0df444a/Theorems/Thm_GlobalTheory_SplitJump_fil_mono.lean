@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitJump_fil_mono
 -- name    : GlobalTheory.SplitJump.fil_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:20:55.748801+00:00
 -- url     : https://prove2.me/theorems/05f96506-18bf-4668-9388-d1200eff7aaf

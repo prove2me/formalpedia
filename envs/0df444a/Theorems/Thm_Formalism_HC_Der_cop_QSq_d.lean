@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_cop_QSq_d
 -- name    : Formalism.HC.Der.cop_QSq_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:46:53.480248+00:00
 -- url     : https://prove2.me/theorems/2294d559-541b-4775-9c76-d2411896174c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLIAG_proposition_3_1
 -- name    : PLIAG.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:29:39.527332+00:00
 -- url     : https://prove2.me/theorems/3774bb53-f5cd-4d8a-adf6-daa35881a3ee

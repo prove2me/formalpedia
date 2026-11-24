@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_MultiIrr_isIrreducible_smInd_iff
 -- name    : GlobalTheory.SmGL.MultiIrr.isIrreducible_smInd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:51.455654+00:00
 -- url     : https://prove2.me/theorems/58808a18-457c-48b7-9495-ab64456e7643

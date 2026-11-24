@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftMemPowOfMulMemPow_exists_shift_mem_pow_of_mul_mem_pow
 -- name    : GlobalTheory.ShiftMemPowOfMulMemPow.exists_shift_mem_pow_of_mul_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:14.097794+00:00
 -- url     : https://prove2.me/theorems/32298008-65a7-4fbf-b01d-8007e151a328

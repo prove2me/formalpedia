@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Serre_formallyUnramified_ringOfIntegers
 -- name    : GlobalTheory.Serre.formallyUnramified_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:54:21.627651+00:00
 -- url     : https://prove2.me/theorems/64769f1d-6a29-4391-af84-70ab64380582

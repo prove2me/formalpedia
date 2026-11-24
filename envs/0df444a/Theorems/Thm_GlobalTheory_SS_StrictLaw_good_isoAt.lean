@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictLaw_good_isoAt
 -- name    : GlobalTheory.SS.StrictLaw.good_isoAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:38:21.344982+00:00
 -- url     : https://prove2.me/theorems/50c0ae98-4e44-4829-985b-0c3d814607ab

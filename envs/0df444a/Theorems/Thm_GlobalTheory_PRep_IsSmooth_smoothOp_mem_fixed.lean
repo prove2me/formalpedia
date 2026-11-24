@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PRep_IsSmooth_smoothOp_mem_fixed
 -- name    : GlobalTheory.PRep.IsSmooth.smoothOp_mem_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:41:52.1388+00:00
 -- url     : https://prove2.me/theorems/30686878-a313-4c8b-ae17-1a6a3c9bad91

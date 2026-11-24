@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShufflePositions_count_cons_map
 -- name    : GlobalTheory.ShufflePositions.count_cons_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:11:16.042622+00:00
 -- url     : https://prove2.me/theorems/d90ced94-2d8e-4780-850b-01584ee22ab9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_normSq_unif_mul_resCard_pow_eq_one
 -- name    : GlobalTheory.HeisUnit.normSq_unif_mul_resCard_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:18:08.422735+00:00
 -- url     : https://prove2.me/theorems/acd2c19a-7829-4e90-9fa4-554835fcf353

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_res_ratioUnit
 -- name    : GlobalTheory.ProjSpace.res_ratioUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:45:13.963293+00:00
 -- url     : https://prove2.me/theorems/611a5131-358f-421f-a0bd-6c58125ea876

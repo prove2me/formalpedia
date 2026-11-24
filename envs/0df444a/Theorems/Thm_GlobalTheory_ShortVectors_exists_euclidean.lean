@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortVectors_exists_euclidean
 -- name    : GlobalTheory.ShortVectors.exists_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:11:31.957069+00:00
 -- url     : https://prove2.me/theorems/763ff6c1-68bb-4931-bb37-a0a6b3a9da60

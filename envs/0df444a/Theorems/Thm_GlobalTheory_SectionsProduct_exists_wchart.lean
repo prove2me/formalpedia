@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_exists_wchart
 -- name    : GlobalTheory.SectionsProduct.exists_wchart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:53:05.856441+00:00
 -- url     : https://prove2.me/theorems/f52ad363-0610-40c1-a19b-33dc1b5a8431

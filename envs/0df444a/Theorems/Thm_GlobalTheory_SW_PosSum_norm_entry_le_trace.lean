@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_PosSum_norm_entry_le_trace
 -- name    : GlobalTheory.SW.PosSum.norm_entry_le_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:44:22.124211+00:00
 -- url     : https://prove2.me/theorems/f9f447c2-c60e-4181-a2ee-f5cd10a14365

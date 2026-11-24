@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_awayToAwayRight_eq_of_comp
 -- name    : GlobalTheory.SqZero.awayToAwayRight_eq_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:21:12.25681+00:00
 -- url     : https://prove2.me/theorems/71494bdd-98bc-4169-9ff0-2258ad3a2a04

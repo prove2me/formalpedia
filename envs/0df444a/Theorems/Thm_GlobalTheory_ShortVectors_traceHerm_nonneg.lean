@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortVectors_traceHerm_nonneg
 -- name    : GlobalTheory.ShortVectors.traceHerm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:11:57.664591+00:00
 -- url     : https://prove2.me/theorems/462d01e0-e953-4cbc-b6ef-b6ab6495d24e

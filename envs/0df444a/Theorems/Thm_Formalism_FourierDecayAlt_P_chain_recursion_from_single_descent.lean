@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_chain_recursion_from_single_descent
 -- name    : Formalism.FourierDecayAlt.P.chain_recursion_from_single_descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:38:10.778459+00:00
 -- url     : https://prove2.me/theorems/83c77015-8833-45e0-991c-3aac1e2c2aeb

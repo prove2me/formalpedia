@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_tiles_le
 -- name    : GlobalTheory.RandomTops.tiles_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:16.85948+00:00
 -- url     : https://prove2.me/theorems/7a26b5b5-b931-4c07-96f9-03e6913eadef

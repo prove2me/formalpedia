@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralIdentities_psi_inv
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralIdentities.psi_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:35:54.448592+00:00
 -- url     : https://prove2.me/theorems/0d0faa78-74b8-4eb3-9d61-b816baca5cbb

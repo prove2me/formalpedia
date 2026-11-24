@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_art0_surjective
 -- name    : Formalism.HC.D7.art0_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:41:12.423397+00:00
 -- url     : https://prove2.me/theorems/d597b9f1-5c91-4daf-9583-b65ef30b03d3

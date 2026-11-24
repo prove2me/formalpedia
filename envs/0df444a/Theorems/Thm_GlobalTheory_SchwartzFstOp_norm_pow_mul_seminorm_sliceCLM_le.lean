@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzFstOp_norm_pow_mul_seminorm_sliceCLM_le
 -- name    : GlobalTheory.SchwartzFstOp.norm_pow_mul_seminorm_sliceCLM_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:47:51.676958+00:00
 -- url     : https://prove2.me/theorems/e53ac9a8-5214-4aac-9940-64cf0fb12fb4

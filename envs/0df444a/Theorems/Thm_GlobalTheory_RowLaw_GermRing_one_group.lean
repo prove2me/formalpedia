@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_one_group
 -- name    : GlobalTheory.RowLaw.GermRing.one_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:31:35.594346+00:00
 -- url     : https://prove2.me/theorems/1d7e31bb-573e-4173-8d11-2b3db26b761c

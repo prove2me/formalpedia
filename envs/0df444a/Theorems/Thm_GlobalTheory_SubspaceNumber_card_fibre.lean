@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubspaceNumber_card_fibre
 -- name    : GlobalTheory.SubspaceNumber.card_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:25.426855+00:00
 -- url     : https://prove2.me/theorems/ff692181-bf72-4578-a94b-0e48bb3f2c58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceTaylor_norm_padL_le
 -- name    : GlobalTheory.SliceTaylor.norm_padL_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:17:47.181467+00:00
 -- url     : https://prove2.me/theorems/70714dfb-13cc-4d0d-a52d-a48cffe8be4b

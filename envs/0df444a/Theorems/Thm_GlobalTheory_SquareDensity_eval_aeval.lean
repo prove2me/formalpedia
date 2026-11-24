@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareDensity_eval_aeval
 -- name    : GlobalTheory.SquareDensity.eval_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:22:43.871107+00:00
 -- url     : https://prove2.me/theorems/22dae7b5-66ad-4d15-8663-349084ab6246

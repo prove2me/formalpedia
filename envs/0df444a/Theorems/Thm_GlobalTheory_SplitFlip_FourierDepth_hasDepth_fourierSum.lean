@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_FourierDepth_hasDepth_fourierSum
 -- name    : GlobalTheory.SplitFlip.FourierDepth.hasDepth_fourierSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:20:01.248129+00:00
 -- url     : https://prove2.me/theorems/bd9c47b2-3536-4e69-b904-f75c878ab4d2

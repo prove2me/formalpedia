@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareDensity_dvd_aeval_sub_aeval
 -- name    : GlobalTheory.SquareDensity.dvd_aeval_sub_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:22:43.506064+00:00
 -- url     : https://prove2.me/theorems/00153339-36af-4fa3-96ec-0144a19c2249

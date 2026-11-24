@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_Short_one_le_norm_mul_pow
 -- name    : GlobalTheory.SmoothForms.Short.one_le_norm_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:19:32.167826+00:00
 -- url     : https://prove2.me/theorems/68d0cd52-216c-4e2b-8e0b-5175359ceacb

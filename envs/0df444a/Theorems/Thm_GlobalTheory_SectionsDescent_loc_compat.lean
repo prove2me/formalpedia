@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsDescent_loc_compat
 -- name    : GlobalTheory.SectionsDescent.loc_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:52:17.445214+00:00
 -- url     : https://prove2.me/theorems/da20c8c3-aa90-4873-9d1a-430fcf1bb564

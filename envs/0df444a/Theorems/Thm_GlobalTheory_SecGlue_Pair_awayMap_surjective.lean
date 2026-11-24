@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Pair_awayMap_surjective
 -- name    : GlobalTheory.SecGlue.Pair.awayMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:52:42.746258+00:00
 -- url     : https://prove2.me/theorems/0a10fec8-43ba-45cb-b991-88375d919ea5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimpleRoots_norm_coeff_prod_le
 -- name    : GlobalTheory.SimpleRoots.norm_coeff_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:12:30.08475+00:00
 -- url     : https://prove2.me/theorems/82cbe67a-7012-4ce5-8ee1-90601a258b08

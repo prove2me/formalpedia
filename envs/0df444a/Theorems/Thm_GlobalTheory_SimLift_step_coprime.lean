@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimLift_step_coprime
 -- name    : GlobalTheory.SimLift.step_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:12:50.032724+00:00
 -- url     : https://prove2.me/theorems/9e82392f-9157-4b30-846c-f9ccaf717f88

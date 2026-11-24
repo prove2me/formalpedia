@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothedSumMellin_integral_norm_comp
 -- name    : GlobalTheory.SmoothedSumMellin.integral_norm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:18:44.900291+00:00
 -- url     : https://prove2.me/theorems/4d3b3bae-8b9a-4e28-b9d8-eef122c25cc5

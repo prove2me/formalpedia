@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemicharIndep_trace_conj
 -- name    : GlobalTheory.SemicharIndep.trace_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:53:55.416363+00:00
 -- url     : https://prove2.me/theorems/8d85715b-879c-47d7-8356-77faae1d6636

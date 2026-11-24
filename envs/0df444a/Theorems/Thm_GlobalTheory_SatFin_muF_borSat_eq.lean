@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatFin_muF_borSat_eq
 -- name    : GlobalTheory.SatFin.muF_borSat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:46:39.954931+00:00
 -- url     : https://prove2.me/theorems/be5f6d2e-4b5a-47f3-a8c6-08ceb59fea5b

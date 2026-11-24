@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_val_one_modEq
 -- name    : Formalism.HC.Der.val_one_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:46:09.491334+00:00
 -- url     : https://prove2.me/theorems/6a7e61ae-cb78-4970-b19d-60e9690a7c7e

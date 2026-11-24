@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeqFirst_exists_preimage
 -- name    : GlobalTheory.SeqFirst.exists_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:10:05.520158+00:00
 -- url     : https://prove2.me/theorems/eefeb0c9-796a-43cf-8be6-0303615a2f20

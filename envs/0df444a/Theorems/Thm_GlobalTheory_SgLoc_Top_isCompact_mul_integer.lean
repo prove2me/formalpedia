@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_Top_isCompact_mul_integer
 -- name    : GlobalTheory.SgLoc.Top.isCompact_mul_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:09:50.046342+00:00
 -- url     : https://prove2.me/theorems/7938fd40-6322-4d2a-a6cb-1e4621c189ae

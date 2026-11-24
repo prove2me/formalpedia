@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelAction_qm_conj
 -- name    : GlobalTheory.SiegelAction.qm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:11:46.80398+00:00
 -- url     : https://prove2.me/theorems/0fc61c90-1b42-40cb-904c-999bdbc3ffbb

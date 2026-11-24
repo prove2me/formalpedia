@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianTripleChecks_cubeMap_tripleProduct_unique
 -- name    : GlobalTheory.SemiAbelianTripleChecks.cubeMap_tripleProduct_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:53:45.723838+00:00
 -- url     : https://prove2.me/theorems/3e6a3ef6-d058-47b1-8c2d-9a9772612e45

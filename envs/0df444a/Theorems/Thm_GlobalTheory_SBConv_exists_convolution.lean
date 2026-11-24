@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBConv_exists_convolution
 -- name    : GlobalTheory.SBConv.exists_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:05.850808+00:00
 -- url     : https://prove2.me/theorems/64f8673e-e020-47e2-a32e-2964cb005afa

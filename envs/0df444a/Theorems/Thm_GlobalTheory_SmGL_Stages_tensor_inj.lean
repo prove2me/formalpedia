@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_Stages_tensor_inj
 -- name    : GlobalTheory.SmGL.Stages.tensor_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:13:50.854791+00:00
 -- url     : https://prove2.me/theorems/16d79b99-74a3-4c46-89d6-a8b445257ece

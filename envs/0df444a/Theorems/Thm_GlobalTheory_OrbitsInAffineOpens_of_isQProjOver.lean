@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitsInAffineOpens_of_isQProjOver
 -- name    : GlobalTheory.OrbitsInAffineOpens.of_isQProjOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:41:50.602852+00:00
 -- url     : https://prove2.me/theorems/00bb2708-113d-4b9a-9acd-1d5b3ae14329

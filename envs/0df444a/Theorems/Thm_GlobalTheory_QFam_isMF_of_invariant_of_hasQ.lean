@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_isMF_of_invariant_of_hasQ
 -- name    : GlobalTheory.QFam.isMF_of_invariant_of_hasQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:00.523127+00:00
 -- url     : https://prove2.me/theorems/9691430e-c651-4b05-b88f-ebe53d8f2e63

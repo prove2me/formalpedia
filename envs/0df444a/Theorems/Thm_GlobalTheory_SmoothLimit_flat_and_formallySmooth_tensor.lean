@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLimit_flat_and_formallySmooth_tensor
 -- name    : GlobalTheory.SmoothLimit.flat_and_formallySmooth_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:19:07.788676+00:00
 -- url     : https://prove2.me/theorems/7b488ac9-93be-4d29-b75f-fad4f4138ff5

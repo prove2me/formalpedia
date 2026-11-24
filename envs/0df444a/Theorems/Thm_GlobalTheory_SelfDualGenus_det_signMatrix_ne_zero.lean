@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_det_signMatrix_ne_zero
 -- name    : GlobalTheory.SelfDualGenus.det_signMatrix_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:52:53.671515+00:00
 -- url     : https://prove2.me/theorems/9e7c1135-b47f-4dad-91ed-35394b10828a

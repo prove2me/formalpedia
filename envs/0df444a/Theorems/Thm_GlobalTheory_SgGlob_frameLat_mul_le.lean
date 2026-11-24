@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_frameLat_mul_le
 -- name    : GlobalTheory.SgGlob.frameLat_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:54:48.492774+00:00
 -- url     : https://prove2.me/theorems/bb17d6dc-219b-48b0-98cb-0dc709b92aa8

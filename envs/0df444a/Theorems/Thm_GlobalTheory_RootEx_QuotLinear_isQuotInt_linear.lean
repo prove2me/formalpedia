@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotLinear_isQuotInt_linear
 -- name    : GlobalTheory.RootEx.QuotLinear.isQuotInt_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:39:25.616143+00:00
 -- url     : https://prove2.me/theorems/4e0f5f19-70b2-4a92-a5a0-17900281c5ee

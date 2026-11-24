@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeros_eta_eq_of_strip
 -- name    : GlobalTheory.RealZeros.eta_eq_of_strip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:18:10.607535+00:00
 -- url     : https://prove2.me/theorems/f90f6018-f5a1-4b12-a424-032759954864

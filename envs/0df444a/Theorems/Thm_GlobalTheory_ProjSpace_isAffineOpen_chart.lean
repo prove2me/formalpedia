@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_isAffineOpen_chart
 -- name    : GlobalTheory.ProjSpace.isAffineOpen_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:03.135193+00:00
 -- url     : https://prove2.me/theorems/08254b9e-41d1-4319-a9e0-193af8bcbd9d

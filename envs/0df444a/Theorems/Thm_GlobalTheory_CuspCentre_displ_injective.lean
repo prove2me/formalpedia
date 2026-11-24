@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_displ_injective
 -- name    : GlobalTheory.CuspCentre.displ_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:50:56.97208+00:00
 -- url     : https://prove2.me/theorems/8bfab6c2-8e51-4fa3-98b7-d7eba074bc76

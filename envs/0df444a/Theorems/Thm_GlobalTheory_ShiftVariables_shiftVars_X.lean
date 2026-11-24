@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftVariables_shiftVars_X
 -- name    : GlobalTheory.ShiftVariables.shiftVars_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:44.641098+00:00
 -- url     : https://prove2.me/theorems/b8c140f0-e9d3-4c63-9d34-3371918e08ff

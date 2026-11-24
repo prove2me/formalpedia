@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_exists_over
 -- name    : Formalism.HC.Der.exists_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:13:35.897781+00:00
 -- url     : https://prove2.me/theorems/ebfd6334-c52b-48e8-9afd-9b951dc13eca

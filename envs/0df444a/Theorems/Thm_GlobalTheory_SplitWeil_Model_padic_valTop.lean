@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_Model_padic_valTop
 -- name    : GlobalTheory.SplitWeil.Model.padic_valTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:34.757802+00:00
 -- url     : https://prove2.me/theorems/395738d6-e3dc-44e3-b9be-7698c0cc4267

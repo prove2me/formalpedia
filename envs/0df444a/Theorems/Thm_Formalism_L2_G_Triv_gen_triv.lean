@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_gen_triv
 -- name    : Formalism.L2.G.Triv.gen_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:37:11.845501+00:00
 -- url     : https://prove2.me/theorems/4f687017-ad04-4780-8265-d0763daa4726

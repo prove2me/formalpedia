@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_embTorus
 -- name    : GlobalTheory.SatakeWeyl.embTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:47:24.328938+00:00
 -- url     : https://prove2.me/theorems/b50e8dac-58f0-44de-beeb-fc96c3208635

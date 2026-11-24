@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_connectedSpace_quotient
 -- name    : GlobalTheory.SplitTorus.connectedSpace_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:39.837836+00:00
 -- url     : https://prove2.me/theorems/b4bf8862-ed85-4a22-ab4a-dcb48443b4e8

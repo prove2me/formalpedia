@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SteinitzProd_classGroup_exists_integral_ideal_coprime
 -- name    : GlobalTheory.SteinitzProd.classGroup_exists_integral_ideal_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:57.833253+00:00
 -- url     : https://prove2.me/theorems/40783405-b4a5-4891-a412-e5500bd8e24e

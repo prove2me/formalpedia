@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_finite_setOf_locLattice_ne
 -- name    : GlobalTheory.SelfDualGenus.finite_setOf_locLattice_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:52:48.243802+00:00
 -- url     : https://prove2.me/theorems/c71ca7f7-573e-4a4a-8a56-7c479389191c

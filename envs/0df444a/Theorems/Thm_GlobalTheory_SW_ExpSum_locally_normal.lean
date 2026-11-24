@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ExpSum_locally_normal
 -- name    : GlobalTheory.SW.ExpSum.locally_normal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:50:40.064095+00:00
 -- url     : https://prove2.me/theorems/e8884ec7-e026-4a3d-8e79-46aea5f9fa1d

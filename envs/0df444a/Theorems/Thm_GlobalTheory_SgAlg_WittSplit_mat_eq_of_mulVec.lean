@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittSplit_mat_eq_of_mulVec
 -- name    : GlobalTheory.SgAlg.WittSplit.mat_eq_of_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:55.3003+00:00
 -- url     : https://prove2.me/theorems/9f3276ea-9516-49ce-883b-b93a483ea203

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimMult_mem_sup_mul
 -- name    : GlobalTheory.SimMult.mem_sup_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:14:24.305951+00:00
 -- url     : https://prove2.me/theorems/2383b822-5ce2-44fa-bf79-7ae0bdfea8c5

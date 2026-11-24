@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UniSp_exists_blocks
 -- name    : GlobalTheory.SW.UniSp.exists_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:43:54.824845+00:00
 -- url     : https://prove2.me/theorems/ace5eaec-36d9-4c9d-ab16-a76f5013ca2f

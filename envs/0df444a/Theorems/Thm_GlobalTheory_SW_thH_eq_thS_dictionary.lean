@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_thH_eq_thS_dictionary
 -- name    : GlobalTheory.SW.thH_eq_thS_dictionary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:12.837414+00:00
 -- url     : https://prove2.me/theorems/b663bc03-4973-4886-97a0-ede167f4eb0d

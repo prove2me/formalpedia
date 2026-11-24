@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_cc_mem_inv_mul_different
 -- name    : GlobalTheory.SelfDualGenus.cc_mem_inv_mul_different
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:53:01.503801+00:00
 -- url     : https://prove2.me/theorems/a007a65f-df17-4b2f-9a14-6af535d89976

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_WeightedPowerFormIntegrability_norm_wt_le
 -- name    : GlobalTheory.ConvSeries.WeightedPowerFormIntegrability.norm_wt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:42:04.478403+00:00
 -- url     : https://prove2.me/theorems/fd30fce2-e6c6-4600-92b1-f5c89ccc9ce7

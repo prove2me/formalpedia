@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_isUn_mul
 -- name    : GlobalTheory.SgAlg.WittField.isUn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:16:29.230645+00:00
 -- url     : https://prove2.me/theorems/d048cadb-43fa-45bd-82c1-6b94f3327461

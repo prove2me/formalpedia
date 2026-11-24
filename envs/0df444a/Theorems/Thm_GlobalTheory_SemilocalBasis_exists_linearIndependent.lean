@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilocalBasis_exists_linearIndependent
 -- name    : GlobalTheory.SemilocalBasis.exists_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:56.461797+00:00
 -- url     : https://prove2.me/theorems/962f3e5c-7b3c-4be9-8aa8-eabfeca68dcd

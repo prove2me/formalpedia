@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_isUnit_j_cst
 -- name    : GlobalTheory.SS.Ord.isUnit_j_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:16:48.837426+00:00
 -- url     : https://prove2.me/theorems/813d2155-7513-4d77-88e7-846382adb82a

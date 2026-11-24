@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_CoefNorm_continuous_wt
 -- name    : GlobalTheory.ConvSeries.CoefNorm.continuous_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:57.520801+00:00
 -- url     : https://prove2.me/theorems/4521c108-e912-4be8-88e6-6df12c7ece40
