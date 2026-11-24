@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_MeanGammaLemmas_per_row
 -- name    : Formalism.GM.MeanGammaLemmas.per_row
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:20:37.046033+00:00
 -- url     : https://prove2.me/theorems/4b7ff091-2096-4e05-bac6-372ce2e18984

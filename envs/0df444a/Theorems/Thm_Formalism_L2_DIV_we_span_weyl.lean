@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_span_weyl
 -- name    : Formalism.L2.DIV.we_span_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:39.198022+00:00
 -- url     : https://prove2.me/theorems/b08e87e6-d1ef-4994-a460-5e61c64c37fa

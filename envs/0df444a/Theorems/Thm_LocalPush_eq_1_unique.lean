@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalPush_eq_1_unique
 -- name    : LocalPush.eq_1_unique
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:05:50.373928+00:00
 -- url     : https://prove2.me/theorems/4ee07d70-944a-4ae1-a267-0a3b55b51ac9

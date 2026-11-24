@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_sim_group
 -- name    : GlobalTheory.SimAlg.sim_group
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:56.921144+00:00
 -- url     : https://prove2.me/theorems/07c18206-3122-41ba-bfa8-effee5da1548

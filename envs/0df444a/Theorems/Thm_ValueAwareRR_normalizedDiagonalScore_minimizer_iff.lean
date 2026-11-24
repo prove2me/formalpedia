@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_normalizedDiagonalScore_minimizer_iff
 -- name    : ValueAwareRR.normalizedDiagonalScore_minimizer_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:04:07.741895+00:00
 -- url     : https://prove2.me/theorems/96a9e7c5-4349-4ab5-93ae-d100ffd81379

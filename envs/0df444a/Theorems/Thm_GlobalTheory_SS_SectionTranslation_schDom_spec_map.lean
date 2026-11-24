@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_SectionTranslation_schDom_spec_map
 -- name    : GlobalTheory.SS.SectionTranslation.schDom_spec_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:32.240648+00:00
 -- url     : https://prove2.me/theorems/c848ee0f-0533-41c6-846f-20793ccceefc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_residual_sum_zero
 -- name    : ValueAwareRR.residual_sum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:06:25.880915+00:00
 -- url     : https://prove2.me/theorems/f97ae1be-36cf-48ee-ae12-99447d417f70

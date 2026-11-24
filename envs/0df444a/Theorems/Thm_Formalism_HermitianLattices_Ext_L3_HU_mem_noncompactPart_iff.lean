@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_mem_noncompactPart_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.mem_noncompactPart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:51.64262+00:00
 -- url     : https://prove2.me/theorems/10ba1b12-e8a3-49ce-a33e-115b30d08809

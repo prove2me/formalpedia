@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_formallyUnramified_of_tangentMap_injective
 -- name    : GlobalTheory.GrpTangent.formallyUnramified_of_tangentMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:06.801807+00:00
 -- url     : https://prove2.me/theorems/5e8b043c-34fa-4ddd-9630-55e1319f9577

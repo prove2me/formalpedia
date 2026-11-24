@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_jwGram_of
 -- name    : Formalism.DivisionValues.jwGram_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:07:32.859799+00:00
 -- url     : https://prove2.me/theorems/058c61c7-3926-4b17-906c-e065efdbe83d

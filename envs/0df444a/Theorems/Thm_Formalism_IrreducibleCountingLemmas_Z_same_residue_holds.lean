@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_same_residue_holds
 -- name    : Formalism.IrreducibleCountingLemmas.Z.same_residue_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:13.549857+00:00
 -- url     : https://prove2.me/theorems/d1286dec-73b2-4702-b71d-4d327f1f6c0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_invariant_natural_holds
 -- name    : Formalism.InvariantFactorPaths.PW.invariant_natural_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:41:43.796994+00:00
 -- url     : https://prove2.me/theorems/8bd17a44-c8fd-4d9a-8682-e520b1edd4d6

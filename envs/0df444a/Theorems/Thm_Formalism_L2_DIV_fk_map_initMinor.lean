@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fk_map_initMinor
 -- name    : Formalism.L2.DIV.fk_map_initMinor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:00.373799+00:00
 -- url     : https://prove2.me/theorems/082ad0d1-db1d-4128-8a2c-1ce813df9efa

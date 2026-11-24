@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_indexChange_mul
 -- name    : Formalism.DivisionValues.indexChange_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:53:41.009162+00:00
 -- url     : https://prove2.me/theorems/9d7604f5-6a81-46b4-8435-2ef7db0fc9a6

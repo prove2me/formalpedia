@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_uAlg_uInv
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.uAlg_uInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:45.668577+00:00
 -- url     : https://prove2.me/theorems/1b83b369-cca2-43ae-bed3-bf8ba190907c

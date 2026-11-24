@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qk18_polyIn_mul
 -- name    : UpperTheory.Reformulated.B.Qk18.polyIn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:23.09481+00:00
 -- url     : https://prove2.me/theorems/0231b09f-1c05-4527-b1af-1ae76e45f386

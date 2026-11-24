@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_weightMet_posDef
 -- name    : Formalism.L2.DIV.weightMet_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:42.906897+00:00
 -- url     : https://prove2.me/theorems/4d6acf6c-98d5-41d4-a1d8-9c01c1db0c06

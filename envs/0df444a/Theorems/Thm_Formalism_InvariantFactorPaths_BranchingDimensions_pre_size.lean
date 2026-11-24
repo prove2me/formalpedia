@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_pre_size
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.pre_size
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:35:58.991323+00:00
 -- url     : https://prove2.me/theorems/1e678802-87ea-4cd8-bc1d-e3f05f37e88a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_FormalExponential_inj
 -- name    : Formalism.L2.Th1.D.FormalExponential.inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:33.277826+00:00
 -- url     : https://prove2.me/theorems/dda17a5f-9d74-41e6-bca9-c87e60f44f5a

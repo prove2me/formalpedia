@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_normalizedFilteredSum_scaling
 -- name    : ValueAwareRR.normalizedFilteredSum_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:02:39.404099+00:00
 -- url     : https://prove2.me/theorems/5e0d9c6c-a094-4dd8-88b0-4544542c9ace

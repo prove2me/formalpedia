@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_bounds_fourth_general
 -- name    : Formalism.DivisionValues.bounds_fourth_general
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:22:14.713909+00:00
 -- url     : https://prove2.me/theorems/053982d8-a56c-4220-9444-7419ffd6f626

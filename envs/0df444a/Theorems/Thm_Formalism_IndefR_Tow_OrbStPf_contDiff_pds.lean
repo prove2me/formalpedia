@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Tow_OrbStPf_contDiff_pds
 -- name    : Formalism.IndefR.Tow.OrbStPf.contDiff_pds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:27:59.067172+00:00
 -- url     : https://prove2.me/theorems/55782bb1-d607-4b3d-9633-5436f1112b36

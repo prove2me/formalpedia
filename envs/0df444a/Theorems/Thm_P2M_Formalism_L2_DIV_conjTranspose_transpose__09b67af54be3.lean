@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_DIV_conjTranspose_transpose__09b67af54be3
 -- name    : P2M_Formalism_L2_DIV_conjTranspose_transpose__09b67af54be3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:43.894104+00:00
 -- url     : https://prove2.me/theorems/27932f36-9483-48c5-b310-e3f2a209a37d

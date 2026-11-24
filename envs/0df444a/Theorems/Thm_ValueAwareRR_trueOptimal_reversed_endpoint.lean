@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_trueOptimal_reversed_endpoint
 -- name    : ValueAwareRR.trueOptimal_reversed_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:08:50.330805+00:00
 -- url     : https://prove2.me/theorems/f1ee2e18-bfdd-4983-b528-600c8ab983a4

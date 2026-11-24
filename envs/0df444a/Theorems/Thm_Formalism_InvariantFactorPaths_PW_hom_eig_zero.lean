@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_hom_eig_zero
 -- name    : Formalism.InvariantFactorPaths.PW.hom_eig_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:16.629299+00:00
 -- url     : https://prove2.me/theorems/ee1a55d0-d38b-4073-99b1-e799bbbbf946

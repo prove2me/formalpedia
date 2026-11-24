@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LocBrg_two_val
 -- name    : Formalism.IndefR.LocBrg.two_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:33.435856+00:00
 -- url     : https://prove2.me/theorems/5d002022-11dd-494b-96b4-f18997e62943

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_weyl_dim_eq_gelfand_tsetlin
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.weyl_dim_eq_gelfand_tsetlin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:36:19.824663+00:00
 -- url     : https://prove2.me/theorems/4047461d-ba23-49dd-95b6-90c4a140b993

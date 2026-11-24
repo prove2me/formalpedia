@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_gramK_eq_map
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.gramK_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:21.039153+00:00
 -- url     : https://prove2.me/theorems/448bd205-e568-4dc7-8e32-f41d8146153e

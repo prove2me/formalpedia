@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_transposeWord_transposeWord
 -- name    : Formalism.L2.DIV.we_transposeWord_transposeWord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:06.782493+00:00
 -- url     : https://prove2.me/theorems/c696ee6f-8d19-4c70-a686-dd9580da9407

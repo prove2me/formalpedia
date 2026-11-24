@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_coord_zero
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_coord_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:41:44.355971+00:00
 -- url     : https://prove2.me/theorems/2b1ae1b2-a58c-40aa-b837-ae5990299812

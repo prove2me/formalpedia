@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KoszulCx_cast_step
 -- name    : GlobalTheory.KeyKa.KoszulCx.cast_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:07.263079+00:00
 -- url     : https://prove2.me/theorems/8dcd05dc-a154-419e-9006-86beb249ba9b

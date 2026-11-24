@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_smooth_of_chart
 -- name    : GlobalTheory.SqZero.smooth_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:54.615602+00:00
 -- url     : https://prove2.me/theorems/7da573f7-0965-4bd6-8e09-e3005c676e67

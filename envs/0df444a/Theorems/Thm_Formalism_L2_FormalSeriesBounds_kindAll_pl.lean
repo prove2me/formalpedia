@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_kindAll_pl
 -- name    : Formalism.L2.FormalSeriesBounds.kindAll_pl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:34.807855+00:00
 -- url     : https://prove2.me/theorems/19664734-9aaf-4844-b306-887f5e3d432c

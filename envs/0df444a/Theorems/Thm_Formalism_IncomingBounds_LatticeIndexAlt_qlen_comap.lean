@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_LatticeIndexAlt_qlen_comap
 -- name    : Formalism.IncomingBounds.LatticeIndexAlt.qlen_comap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:25.898797+00:00
 -- url     : https://prove2.me/theorems/dc93f7ef-3a3a-4f9a-83b3-85ae9955ed9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionUnique_torsSq_unique
 -- name    : GlobalTheory.TorsionUnique.torsSq_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:54.084027+00:00
 -- url     : https://prove2.me/theorems/0a931bf7-48cf-4f82-9627-14b64defcd0b

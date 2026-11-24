@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_Cay_diffOp_sum
 -- name    : Formalism.IncomingBounds.Cay.diffOp_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:19.685801+00:00
 -- url     : https://prove2.me/theorems/1ef5467d-be23-4fe1-ac9e-6e74bf3ab633

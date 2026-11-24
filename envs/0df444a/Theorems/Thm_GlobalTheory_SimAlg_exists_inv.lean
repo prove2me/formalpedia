@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_exists_inv
 -- name    : GlobalTheory.SimAlg.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:38:16.847676+00:00
 -- url     : https://prove2.me/theorems/7c86481c-d639-4d11-aaf0-9ce871b4c444

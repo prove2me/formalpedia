@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_E4_exists_prime_pow_eq
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.E4.exists_prime_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:15.991915+00:00
 -- url     : https://prove2.me/theorems/62a29dca-ebf1-4f99-a8f3-cb4325ea599f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Quad_algebraMap_finite
 -- name    : Formalism.L2.G.Quad.algebraMap_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:19.567796+00:00
 -- url     : https://prove2.me/theorems/15ba7dae-6f80-4439-a15f-a3039923dbf3

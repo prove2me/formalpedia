@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_IdempotentLemmas_finrank_int_self
 -- name    : Formalism.IndefR.LatticeTransfer.IdempotentLemmas.finrank_int_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:48.306411+00:00
 -- url     : https://prove2.me/theorems/8650da12-2277-40d5-9410-0216d8fbbac1

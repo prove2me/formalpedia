@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_HPsym_eq
 -- name    : Formalism.L2.Col.HPsym_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:55.247506+00:00
 -- url     : https://prove2.me/theorems/d9b70998-8f16-4c81-a06a-8148124cc299

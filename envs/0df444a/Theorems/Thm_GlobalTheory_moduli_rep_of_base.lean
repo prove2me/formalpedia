@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_moduli_rep_of_base
 -- name    : GlobalTheory.moduli_rep_of_base
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:19.185087+00:00
 -- url     : https://prove2.me/theorems/e2f2a683-ad75-4f7d-94b8-8c3e6ba8ea01

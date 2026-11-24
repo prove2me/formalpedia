@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KoszulCx_valH_cst
 -- name    : GlobalTheory.KeyKa.KoszulCx.valH_cst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:01.728537+00:00
 -- url     : https://prove2.me/theorems/33506ba2-328a-4b00-b4ff-d4513a3a86a7

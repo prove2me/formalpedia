@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_coeff_swap2
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.coeff_swap2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:05.698263+00:00
 -- url     : https://prove2.me/theorems/8760b363-f790-4b0c-bda4-bc641bde0c96

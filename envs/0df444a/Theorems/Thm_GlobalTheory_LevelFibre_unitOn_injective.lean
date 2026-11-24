@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_unitOn_injective
 -- name    : GlobalTheory.LevelFibre.unitOn_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:20.526664+00:00
 -- url     : https://prove2.me/theorems/b1942895-5130-458f-9cfc-260604159b21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pderiv_blockAct
 -- name    : Formalism.L2.DIV.pderiv_blockAct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:51.40568+00:00
 -- url     : https://prove2.me/theorems/92040d82-e999-4d4e-a897-9e5ac252ebd0

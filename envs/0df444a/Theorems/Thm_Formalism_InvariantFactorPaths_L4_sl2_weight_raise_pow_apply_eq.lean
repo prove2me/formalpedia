@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_sl2_weight_raise_pow_apply_eq
 -- name    : Formalism.InvariantFactorPaths.L4.sl2_weight_raise_pow_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:50.956698+00:00
 -- url     : https://prove2.me/theorems/984c3764-084c-470e-99bc-84e7621945b4

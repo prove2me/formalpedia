@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_biLe_CC_mul_X
 -- name    : Formalism.InvariantFactorPaths.G7.biLe_CC_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:20.979875+00:00
 -- url     : https://prove2.me/theorems/4fb01014-497e-4b67-877c-07d98f61fdfe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_wtComp_keep_supp
 -- name    : Formalism.InvariantFactorPaths.L4.wtComp_keep_supp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:49.716808+00:00
 -- url     : https://prove2.me/theorems/10223e6a-c6f1-4ab1-9897-bb14be5707f8

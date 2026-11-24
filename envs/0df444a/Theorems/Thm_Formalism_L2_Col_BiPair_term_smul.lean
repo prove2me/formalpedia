@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_BiPair_term_smul
 -- name    : Formalism.L2.Col.BiPair.term_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:42.52286+00:00
 -- url     : https://prove2.me/theorems/c7017504-f89f-4039-99ca-1165970f6bca

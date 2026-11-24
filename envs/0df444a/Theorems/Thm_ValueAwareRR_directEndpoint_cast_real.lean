@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_directEndpoint_cast_real
 -- name    : ValueAwareRR.directEndpoint_cast_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:07:33.393785+00:00
 -- url     : https://prove2.me/theorems/4d933bd2-6c92-4b94-b24a-f4f123fc0eb7

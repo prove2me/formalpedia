@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinAA_rd_star
 -- name    : Formalism.HermitianLattices.Ext.L3.PinAA.rd_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:55.143341+00:00
 -- url     : https://prove2.me/theorems/621a3bbd-a94c-4b9a-b7a4-7e2233f1e5f7

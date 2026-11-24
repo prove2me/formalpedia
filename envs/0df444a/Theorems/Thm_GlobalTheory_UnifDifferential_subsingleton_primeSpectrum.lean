@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDifferential_subsingleton_primeSpectrum
 -- name    : GlobalTheory.UnifDifferential.subsingleton_primeSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:30.483841+00:00
 -- url     : https://prove2.me/theorems/7245443d-d512-4aab-b94a-792f96b2a06d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimAlg_modN_of_mul
 -- name    : GlobalTheory.SimAlg.modN_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:32.065341+00:00
 -- url     : https://prove2.me/theorems/0840fd26-e019-4dfd-a0c1-2503d70bc1eb

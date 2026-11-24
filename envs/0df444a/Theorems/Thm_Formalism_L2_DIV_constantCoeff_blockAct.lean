@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_constantCoeff_blockAct
 -- name    : Formalism.L2.DIV.constantCoeff_blockAct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:32.29365+00:00
 -- url     : https://prove2.me/theorems/60f92033-d234-4b57-bd51-286936146b6d

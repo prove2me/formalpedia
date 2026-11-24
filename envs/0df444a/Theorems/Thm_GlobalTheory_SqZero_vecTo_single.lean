@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_vecTo_single
 -- name    : GlobalTheory.SqZero.vecTo_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:48.817232+00:00
 -- url     : https://prove2.me/theorems/71292c01-44cb-48c5-a9e2-4e5fdf208ab4

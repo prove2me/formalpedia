@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_residualMax_eq_familyA
 -- name    : ValueAwareRR.residualMax_eq_familyA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:03:00.80065+00:00
 -- url     : https://prove2.me/theorems/fa35705b-d972-4fa1-b413-a3dab60a3527

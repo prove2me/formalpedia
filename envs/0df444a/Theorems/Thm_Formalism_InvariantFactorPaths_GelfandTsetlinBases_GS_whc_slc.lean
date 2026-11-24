@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_whc_slc
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.whc_slc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:35.565674+00:00
 -- url     : https://prove2.me/theorems/31a018fc-d44b-44cd-aa57-6765a9e1a96b

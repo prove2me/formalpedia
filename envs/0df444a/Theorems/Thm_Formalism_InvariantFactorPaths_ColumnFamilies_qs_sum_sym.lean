@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qs_sum_sym
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qs_sum_sym
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:52:23.171895+00:00
 -- url     : https://prove2.me/theorems/438f122b-0e70-4c4b-80e7-7c591ba94545

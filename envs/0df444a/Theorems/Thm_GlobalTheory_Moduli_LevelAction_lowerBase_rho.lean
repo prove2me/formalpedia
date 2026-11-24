@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_lowerBase_rho
 -- name    : GlobalTheory.Moduli.LevelAction.lowerBase_rho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:13.532944+00:00
 -- url     : https://prove2.me/theorems/81f3c14f-c259-40e8-87be-85906dfd52d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_beta_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.beta_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:28.882847+00:00
 -- url     : https://prove2.me/theorems/7d83ed96-d2fb-45d6-aded-1fdb5f9b1ec8

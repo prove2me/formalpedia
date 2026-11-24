@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LatticeTorsion_torsion__pow_eq_one_04fd1c95385b
 -- name    : P2M_GlobalTheory_LatticeTorsion_torsion__pow_eq_one_04fd1c95385b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:25.586287+00:00
 -- url     : https://prove2.me/theorems/652635e6-56eb-411c-ade3-d2d0b2c0ce91

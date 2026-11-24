@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_HU_quotLocF_mk__fd1bb1b492f4
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_HU_quotLocF_mk__fd1bb1b492f4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:03.904852+00:00
 -- url     : https://prove2.me/theorems/e81763dd-4377-4332-9b01-272ca9c77294

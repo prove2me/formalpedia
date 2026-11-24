@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinG_exists_matrix
 -- name    : Formalism.HermitianLattices.Ext.L3.PinG.exists_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:06.025491+00:00
 -- url     : https://prove2.me/theorems/16e698df-fa73-4bc5-b768-b0081926def5

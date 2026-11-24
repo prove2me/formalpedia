@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_normalizedExactLoss_minimizer_iff
 -- name    : ValueAwareRR.normalizedExactLoss_minimizer_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:03:31.865112+00:00
 -- url     : https://prove2.me/theorems/e84976d0-4e57-416e-994f-2f8820e41a2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_encodedOrders_complete_certificate
 -- name    : ValueAwareRR.encodedOrders_complete_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T08:59:19.00814+00:00
 -- url     : https://prove2.me/theorems/724ca1b5-07de-46ff-9ae6-21cd9860d49c

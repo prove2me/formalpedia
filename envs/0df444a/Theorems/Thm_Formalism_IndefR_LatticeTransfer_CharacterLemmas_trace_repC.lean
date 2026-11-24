@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_CharacterLemmas_trace_repC
 -- name    : Formalism.IndefR.LatticeTransfer.CharacterLemmas.trace_repC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:27.16417+00:00
 -- url     : https://prove2.me/theorems/198526fb-a6b0-418b-9415-5cd37954a8cb

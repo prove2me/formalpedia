@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_equivFun_equivOfMatrix
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.equivFun_equivOfMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:27.056137+00:00
 -- url     : https://prove2.me/theorems/d4a4032c-3f0a-473e-9d7d-87a53e2db35a

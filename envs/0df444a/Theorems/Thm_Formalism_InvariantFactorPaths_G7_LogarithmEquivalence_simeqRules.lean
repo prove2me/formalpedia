@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_simeqRules
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.simeqRules
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:02.157772+00:00
 -- url     : https://prove2.me/theorems/cf53fa62-952b-46eb-83ce-4b3a37da3677

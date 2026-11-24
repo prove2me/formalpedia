@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PRep_IsSmooth_smoothOp_integrand
 -- name    : GlobalTheory.PRep.IsSmooth.smoothOp_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:44:19.422826+00:00
 -- url     : https://prove2.me/theorems/43712755-511a-4ff5-a85e-39b31fafccca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCover_baseOf_zeta
 -- name    : GlobalTheory.LevelCover.baseOf_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:09.046115+00:00
 -- url     : https://prove2.me/theorems/5395604d-b448-4edf-95d0-25c55d84134d

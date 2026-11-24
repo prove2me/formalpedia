@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_CharacterLemmas_trace_of_diag
 -- name    : Formalism.IndefR.LatticeTransfer.CharacterLemmas.trace_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:31.27615+00:00
 -- url     : https://prove2.me/theorems/e84d4d4a-354b-425a-8031-6cec3bb45c2d

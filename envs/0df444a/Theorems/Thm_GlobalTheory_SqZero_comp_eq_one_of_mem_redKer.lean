@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_comp_eq_one_of_mem_redKer
 -- name    : GlobalTheory.SqZero.comp_eq_one_of_mem_redKer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:31.336626+00:00
 -- url     : https://prove2.me/theorems/ad523850-b58a-486c-9690-ad21f1fb229c

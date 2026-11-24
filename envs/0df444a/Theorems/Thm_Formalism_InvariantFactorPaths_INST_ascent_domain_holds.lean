@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_ascent_domain_holds
 -- name    : Formalism.InvariantFactorPaths.INST.ascent_domain_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:45.045806+00:00
 -- url     : https://prove2.me/theorems/69191712-dd51-4f1e-bfe7-da8d034494a7

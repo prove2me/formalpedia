@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityProfileCycle_crossing_215_vertex_window
 -- name    : SensitivityProfileCycle.crossing_215_vertex_window
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-24T09:07:28.569485+00:00
 -- url     : https://prove2.me/theorems/8592e3c4-dd97-4425-a406-e02b0fedddd8

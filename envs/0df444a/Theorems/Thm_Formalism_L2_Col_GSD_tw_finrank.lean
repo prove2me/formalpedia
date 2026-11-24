@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_tw_finrank
 -- name    : Formalism.L2.Col.GSD.tw_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:58.626257+00:00
 -- url     : https://prove2.me/theorems/0389636e-7c6b-4fab-ab21-fbcb758c4c06

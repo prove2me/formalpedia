@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusLocal_pullback_map_eq_one
 -- name    : GlobalTheory.TorusLocal.pullback_map_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:12.383309+00:00
 -- url     : https://prove2.me/theorems/77487d88-befc-4dff-9f56-58c129d59f68

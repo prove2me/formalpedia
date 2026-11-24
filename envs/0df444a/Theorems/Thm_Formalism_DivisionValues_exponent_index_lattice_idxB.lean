@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_exponent_index_lattice_idxB
 -- name    : Formalism.DivisionValues.exponent_index_lattice.idxB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:32:28.450833+00:00
 -- url     : https://prove2.me/theorems/53f52147-5579-40fb-b7bd-643d0951df8b

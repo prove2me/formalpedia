@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_form_induction
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.form_induction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:40:35.006707+00:00
 -- url     : https://prove2.me/theorems/3a39f414-9554-4501-98be-28a803250f76

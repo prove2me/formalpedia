@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hermForm_principal_dim_one
 -- name    : GlobalTheory.hermForm_principal_dim_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:43.023319+00:00
 -- url     : https://prove2.me/theorems/30047c78-237b-4166-a6a9-f20b56074016

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_extNormPos
 -- name    : Formalism.L2.DIV.extNormPos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:34.215456+00:00
 -- url     : https://prove2.me/theorems/b90db7b4-a558-4482-b66c-4e65f872cc67

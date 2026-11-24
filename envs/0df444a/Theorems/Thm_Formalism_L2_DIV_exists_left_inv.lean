@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_exists_left_inv
 -- name    : Formalism.L2.DIV.exists_left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:58.112171+00:00
 -- url     : https://prove2.me/theorems/3ac733bd-3cc3-4e54-b104-fedd4eb2a189

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_qindep
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_qindep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:34.936711+00:00
 -- url     : https://prove2.me/theorems/82dae0ce-cf8f-40cf-87d2-d99ab7818987

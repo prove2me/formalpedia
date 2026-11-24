@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_agree_of_isAway
 -- name    : GlobalTheory.SqZero.agree_of_isAway
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:32.312312+00:00
 -- url     : https://prove2.me/theorems/38774157-2b54-4881-96b4-79c983caed4c

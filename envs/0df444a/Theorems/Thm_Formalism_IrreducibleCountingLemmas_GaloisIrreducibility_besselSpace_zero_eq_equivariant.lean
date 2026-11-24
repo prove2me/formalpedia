@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_besselSpace_zero_eq_equivariant
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.besselSpace_zero_eq_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:31.65632+00:00
 -- url     : https://prove2.me/theorems/6b2e426d-66a5-401a-af41-061084bf9101

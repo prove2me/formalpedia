@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_E4_sqWeight_irred
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.E4.sqWeight_irred
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:55.682804+00:00
 -- url     : https://prove2.me/theorems/15fd28e6-ae2b-4a31-a811-c4f1d2db42ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_ExtendedPrimeIdeals_discrIdeal_le_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.ExtendedPrimeIdeals.discrIdeal_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:52.340965+00:00
 -- url     : https://prove2.me/theorems/7fb91160-c9be-482f-a122-4f5bee4864d2

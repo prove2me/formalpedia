@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_map_lcIntegral
 -- name    : GlobalTheory.OpTrace.map_lcIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:41:41.784199+00:00
 -- url     : https://prove2.me/theorems/f9c4bdb5-18f0-455a-a89d-4291317138e3

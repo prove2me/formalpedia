@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_boundsIVal
 -- name    : Formalism.DivisionValues.boundsIVal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:56.088135+00:00
 -- url     : https://prove2.me/theorems/88b51493-a2ab-475a-8c1a-592627e58594

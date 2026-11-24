@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_torsion
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:19.277248+00:00
 -- url     : https://prove2.me/theorems/f78fa6d7-4c14-49af-8c75-52673a4c5d24

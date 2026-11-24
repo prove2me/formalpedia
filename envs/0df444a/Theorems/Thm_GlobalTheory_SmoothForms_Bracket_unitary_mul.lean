@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_Bracket_unitary_mul
 -- name    : GlobalTheory.SmoothForms.Bracket.unitary_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:33:44.598801+00:00
 -- url     : https://prove2.me/theorems/9b35937a-c82f-456b-aa4d-37ddbc41ea7a

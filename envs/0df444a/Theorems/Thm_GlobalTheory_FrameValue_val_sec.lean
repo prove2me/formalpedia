@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_val_sec
 -- name    : GlobalTheory.FrameValue.val_sec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:35.710859+00:00
 -- url     : https://prove2.me/theorems/00fce066-660e-4ff4-9acd-5deeb202f119

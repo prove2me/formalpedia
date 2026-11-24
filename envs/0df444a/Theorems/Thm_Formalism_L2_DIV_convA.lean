@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_convA
 -- name    : Formalism.L2.DIV.convA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:23.111801+00:00
 -- url     : https://prove2.me/theorems/53024acf-1b22-4102-a432-7e22cc355e58

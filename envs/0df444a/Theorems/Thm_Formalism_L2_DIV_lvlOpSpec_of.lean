@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_lvlOpSpec_of
 -- name    : Formalism.L2.DIV.lvlOpSpec_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:37.819012+00:00
 -- url     : https://prove2.me/theorems/d3f378b5-c5cb-47db-b7c3-d22556a82cb6

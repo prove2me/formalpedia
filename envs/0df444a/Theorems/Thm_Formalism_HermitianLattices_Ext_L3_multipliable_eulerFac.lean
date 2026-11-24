@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_multipliable_eulerFac
 -- name    : Formalism.HermitianLattices.Ext.L3.multipliable_eulerFac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:33:52.904681+00:00
 -- url     : https://prove2.me/theorems/fa9d917b-ced3-489a-b0ec-0b691cde35ed

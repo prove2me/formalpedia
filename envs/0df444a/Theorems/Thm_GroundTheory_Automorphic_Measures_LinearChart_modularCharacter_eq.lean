@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_LinearChart_modularCharacter_eq
 -- name    : GroundTheory.Automorphic.Measures.LinearChart.modularCharacter_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:40.370506+00:00
 -- url     : https://prove2.me/theorems/4851b05f-9e9b-485b-8177-3e4a9138116f

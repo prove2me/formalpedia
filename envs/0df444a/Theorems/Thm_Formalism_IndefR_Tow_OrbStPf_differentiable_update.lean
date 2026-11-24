@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Tow_OrbStPf_differentiable_update
 -- name    : Formalism.IndefR.Tow.OrbStPf.differentiable_update
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:14.432031+00:00
 -- url     : https://prove2.me/theorems/0b654e5f-afd2-46fb-8382-09ad625b5678

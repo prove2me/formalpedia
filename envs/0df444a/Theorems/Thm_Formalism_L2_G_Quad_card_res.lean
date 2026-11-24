@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Quad_card_res
 -- name    : Formalism.L2.G.Quad.card_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:22.583982+00:00
 -- url     : https://prove2.me/theorems/2f21e0a8-71ca-4430-b1ce-baacb539e081

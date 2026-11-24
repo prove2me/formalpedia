@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxCutLe
 -- name    : Formalism.EigenvalueLevelCeiling.idxCutLe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:17:43.275427+00:00
 -- url     : https://prove2.me/theorems/8de8cfb4-a68f-434e-abb8-94c825962e23

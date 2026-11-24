@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_coe_lin
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.coe_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:08.161328+00:00
 -- url     : https://prove2.me/theorems/5e76c5b2-5422-43de-8584-3dadcb4ed9ff

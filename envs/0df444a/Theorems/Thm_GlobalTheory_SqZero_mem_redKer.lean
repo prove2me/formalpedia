@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_mem_redKer
 -- name    : GlobalTheory.SqZero.mem_redKer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:33.707852+00:00
 -- url     : https://prove2.me/theorems/7ea506b7-8e2e-41bf-bf94-37979b22e112

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinAA_rd_surjective
 -- name    : Formalism.HermitianLattices.Ext.L3.PinAA.rd_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:12.217522+00:00
 -- url     : https://prove2.me/theorems/f63802ad-bb7f-4124-9498-54ee1aab45de

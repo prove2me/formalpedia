@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_gaStar_zero
 -- name    : Formalism.L2.DIV.gaStar_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:18.119586+00:00
 -- url     : https://prove2.me/theorems/dfd5ac4b-02b5-4068-ad61-b0351afcb644

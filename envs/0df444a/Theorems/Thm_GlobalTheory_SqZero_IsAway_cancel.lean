@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_IsAway_cancel
 -- name    : GlobalTheory.SqZero.IsAway.cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:22.212799+00:00
 -- url     : https://prove2.me/theorems/42000533-8f16-438f-87b4-ee8586bbe9d8

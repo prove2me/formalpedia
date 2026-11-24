@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fk_det_mem
 -- name    : Formalism.L2.DIV.fk_det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:16.073923+00:00
 -- url     : https://prove2.me/theorems/b331dbfb-a0ae-418f-9688-f705e0fc5b1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDifferential_le_preimage_of_comp
 -- name    : GlobalTheory.UnifDifferential.le_preimage_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:44.31626+00:00
 -- url     : https://prove2.me/theorems/35e43676-829c-4adf-a26d-758344582bc9

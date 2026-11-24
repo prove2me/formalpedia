@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Fam_IdTrans_one_sub_re_sq
 -- name    : Formalism.L2.Fam.IdTrans.one_sub_re_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:56.961748+00:00
 -- url     : https://prove2.me/theorems/9df70e06-04cc-4d92-a0a4-45ba26084a17

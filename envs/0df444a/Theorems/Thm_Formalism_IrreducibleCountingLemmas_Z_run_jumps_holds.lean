@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_run_jumps_holds
 -- name    : Formalism.IrreducibleCountingLemmas.Z.run_jumps_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:35.3158+00:00
 -- url     : https://prove2.me/theorems/f613c134-f655-425c-a667-27fc69e4f93f

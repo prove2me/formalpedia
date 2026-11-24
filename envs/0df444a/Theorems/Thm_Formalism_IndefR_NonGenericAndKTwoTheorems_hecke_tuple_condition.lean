@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_NonGenericAndKTwoTheorems_hecke_tuple_condition
 -- name    : Formalism.IndefR.NonGenericAndKTwoTheorems.hecke_tuple_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:47.054364+00:00
 -- url     : https://prove2.me/theorems/08425394-706c-48e2-b375-47b4981cedf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_RepTors_clopenCond
 -- name    : GlobalTheory.LevCover.RepTors.clopenCond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:38:24.346072+00:00
 -- url     : https://prove2.me/theorems/b1f7072c-3270-454a-9d04-9ce20bfd0874

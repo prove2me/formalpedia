@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_card_none
 -- name    : Formalism.L2.Col.GSD.card_none
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:16.354836+00:00
 -- url     : https://prove2.me/theorems/5c0f5126-9fac-4172-971e-4ec3b7dc4caa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_exactLoss_cast_real
 -- name    : ValueAwareRR.exactLoss_cast_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:07:59.338846+00:00
 -- url     : https://prove2.me/theorems/49cfb7ec-151a-4bea-9635-8ce159003c26

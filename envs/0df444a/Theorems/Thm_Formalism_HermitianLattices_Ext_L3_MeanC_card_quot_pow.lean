@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanC_card_quot_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanC.card_quot_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:56.417863+00:00
 -- url     : https://prove2.me/theorems/763c4a6f-f85e-4d97-85cb-e86b79a16788

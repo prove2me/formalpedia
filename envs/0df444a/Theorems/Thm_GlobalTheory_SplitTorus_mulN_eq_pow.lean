@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_mulN_eq_pow
 -- name    : GlobalTheory.SplitTorus.mulN_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:04.3628+00:00
 -- url     : https://prove2.me/theorems/a371b2b6-8937-405b-b8ca-602504df2fec

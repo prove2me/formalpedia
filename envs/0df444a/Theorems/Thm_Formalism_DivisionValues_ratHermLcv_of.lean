@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ratHermLcv_of
 -- name    : Formalism.DivisionValues.ratHermLcv_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:53:05.326099+00:00
 -- url     : https://prove2.me/theorems/0c3188e9-0799-41cf-80b3-7cd0742b36b8

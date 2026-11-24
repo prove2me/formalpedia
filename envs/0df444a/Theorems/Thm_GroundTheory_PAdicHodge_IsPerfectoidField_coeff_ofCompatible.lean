@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_coeff_ofCompatible
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.coeff_ofCompatible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:45.115253+00:00
 -- url     : https://prove2.me/theorems/1da6d301-ae88-4fa0-8cf5-0fd06f60049e

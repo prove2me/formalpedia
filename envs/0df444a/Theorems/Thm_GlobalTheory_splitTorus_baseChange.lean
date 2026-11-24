@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitTorus_baseChange
 -- name    : GlobalTheory.splitTorus_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:44:01.137067+00:00
 -- url     : https://prove2.me/theorems/ccaf094e-6d71-46d9-b9cd-ae4652cba282

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_U2_isAdj_adjoint
 -- name    : Formalism.IndefR.U2.isAdj_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:23.200477+00:00
 -- url     : https://prove2.me/theorems/fbb18d55-bfd4-43c7-8a09-489ae79f953d

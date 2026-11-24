@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_proxySelected_reversed_endpoint
 -- name    : ValueAwareRR.proxySelected_reversed_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:09:00.582279+00:00
 -- url     : https://prove2.me/theorems/21f62cfd-0892-4cd9-b872-612b9fd064ec

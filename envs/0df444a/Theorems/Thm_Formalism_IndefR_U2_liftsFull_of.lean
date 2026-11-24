@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_U2_liftsFull_of
 -- name    : Formalism.IndefR.U2.liftsFull_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:21.230414+00:00
 -- url     : https://prove2.me/theorems/19c212a5-9b1c-40cc-8d3b-863b2b4e0dae

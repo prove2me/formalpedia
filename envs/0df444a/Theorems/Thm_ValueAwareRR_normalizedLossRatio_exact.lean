@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_normalizedLossRatio_exact
 -- name    : ValueAwareRR.normalizedLossRatio_exact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:04:46.491309+00:00
 -- url     : https://prove2.me/theorems/929c08e9-9e0e-498a-bdaf-24d19739474d

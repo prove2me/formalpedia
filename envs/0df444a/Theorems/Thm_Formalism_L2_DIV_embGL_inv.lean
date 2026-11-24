@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_embGL_inv
 -- name    : Formalism.L2.DIV.embGL_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:07.588121+00:00
 -- url     : https://prove2.me/theorems/536eda0f-18b6-4daf-bd33-e3412da1971d

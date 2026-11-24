@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DeterminantJetScaling_deg_eq
 -- name    : Formalism.InvariantFactorPaths.G7.DeterminantJetScaling.deg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:48.327474+00:00
 -- url     : https://prove2.me/theorems/5d9a7ee6-7514-4620-900c-0cdb283530d0

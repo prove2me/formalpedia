@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_orthogonal_projection_spec
 -- name    : Formalism.L2.DIV.orthogonal_projection_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:41:03.905563+00:00
 -- url     : https://prove2.me/theorems/f536060f-ad7b-43b5-b7c2-3911b9dc5c25

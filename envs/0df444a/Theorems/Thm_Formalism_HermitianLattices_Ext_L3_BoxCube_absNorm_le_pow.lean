@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxCube_absNorm_le_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxCube.absNorm_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:12:54.389455+00:00
 -- url     : https://prove2.me/theorems/422f352b-6137-4806-b3a0-8f615a167c99

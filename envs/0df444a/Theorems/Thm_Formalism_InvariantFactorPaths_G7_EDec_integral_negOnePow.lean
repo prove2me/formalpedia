@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_integral_negOnePow
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.integral_negOnePow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:34.508734+00:00
 -- url     : https://prove2.me/theorems/af38ae2b-ec04-4e44-ad01-03593ca6eae6

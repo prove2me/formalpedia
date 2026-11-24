@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCover_spMap_inclusion_self
 -- name    : GlobalTheory.LevelCover.spMap_inclusion_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:47.680541+00:00
 -- url     : https://prove2.me/theorems/a34ecedb-6064-482d-a23e-438ac9802283

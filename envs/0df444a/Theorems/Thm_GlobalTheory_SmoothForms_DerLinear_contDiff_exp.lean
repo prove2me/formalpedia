@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_DerLinear_contDiff_exp
 -- name    : GlobalTheory.SmoothForms.DerLinear.contDiff_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:33:45.637852+00:00
 -- url     : https://prove2.me/theorems/92b42212-b2e0-428f-840b-a9b97c04d636

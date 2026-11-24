@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_encodedPermutation_bijective
 -- name    : ValueAwareRR.encodedPermutation_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T08:59:31.008706+00:00
 -- url     : https://prove2.me/theorems/b3b124d8-bf39-4623-b650-b5754d4b8ea3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_cnt_unit
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cnt_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:37.959815+00:00
 -- url     : https://prove2.me/theorems/554389f6-2429-41ba-8334-558f0af40369

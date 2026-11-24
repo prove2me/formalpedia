@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_equivalence_rules
 -- name    : Formalism.InvariantFactorPaths.G7.equivalence_rules
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:15.48797+00:00
 -- url     : https://prove2.me/theorems/08fc30c2-b94a-4c42-809f-1daa0bfaa165

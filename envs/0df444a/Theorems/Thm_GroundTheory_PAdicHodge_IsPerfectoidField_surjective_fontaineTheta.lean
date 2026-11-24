@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_surjective_fontaineTheta
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.surjective_fontaineTheta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:01.565665+00:00
 -- url     : https://prove2.me/theorems/19c7fa7a-396b-4308-a338-a8a33e4d7e33

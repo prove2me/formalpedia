@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_IdempotentLemmas_sum_char_eq
 -- name    : Formalism.IndefR.LatticeTransfer.IdempotentLemmas.sum_char_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:24.17311+00:00
 -- url     : https://prove2.me/theorems/6fcca841-0347-45ff-ade0-baf35aaa6872

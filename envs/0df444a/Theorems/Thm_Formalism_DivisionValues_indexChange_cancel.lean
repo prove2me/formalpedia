@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_indexChange_cancel
 -- name    : Formalism.DivisionValues.indexChange_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:07:06.971895+00:00
 -- url     : https://prove2.me/theorems/84c6023d-f1d7-44e6-9e36-05341f14270f

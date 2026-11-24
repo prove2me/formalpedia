@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_LocOp_conj_eq_zero_iff
 -- name    : Formalism.L2.Col.LocOp.conj_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:53.946727+00:00
 -- url     : https://prove2.me/theorems/64513253-6cc0-4ea9-989e-411deb35e481

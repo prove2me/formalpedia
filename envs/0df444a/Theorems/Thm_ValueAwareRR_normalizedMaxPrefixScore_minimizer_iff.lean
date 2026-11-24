@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_normalizedMaxPrefixScore_minimizer_iff
 -- name    : ValueAwareRR.normalizedMaxPrefixScore_minimizer_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:03:41.867459+00:00
 -- url     : https://prove2.me/theorems/fb5692a7-4568-4f0e-84f3-acf6bedc2a0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_normalAt_one_iff
 -- name    : GlobalTheory.KeyPow.normalAt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:11.011284+00:00
 -- url     : https://prove2.me/theorems/cb1fef57-1f39-48a2-80be-eb6f4843047e

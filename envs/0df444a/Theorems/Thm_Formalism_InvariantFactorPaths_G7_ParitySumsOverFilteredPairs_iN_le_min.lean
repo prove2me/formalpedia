@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ParitySumsOverFilteredPairs_iN_le_min
 -- name    : Formalism.InvariantFactorPaths.G7.ParitySumsOverFilteredPairs.iN_le_min
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:55:19.667354+00:00
 -- url     : https://prove2.me/theorems/ba37ec13-2c60-4b56-ac2d-c0a2a768d3e6

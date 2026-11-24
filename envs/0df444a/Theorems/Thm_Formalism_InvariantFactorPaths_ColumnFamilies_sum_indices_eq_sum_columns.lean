@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_sum_indices_eq_sum_columns
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.sum_indices_eq_sum_columns
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:25:50.38175+00:00
 -- url     : https://prove2.me/theorems/67976905-c931-45b1-91ed-87fa04fe41f3

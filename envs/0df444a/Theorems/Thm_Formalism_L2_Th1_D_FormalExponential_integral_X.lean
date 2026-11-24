@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_FormalExponential_integral_X
 -- name    : Formalism.L2.Th1.D.FormalExponential.integral_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:18.120089+00:00
 -- url     : https://prove2.me/theorems/25f8da95-df94-47aa-ba61-a947f69435d4

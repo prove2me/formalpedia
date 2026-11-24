@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_has_subst_coboundary_first
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.has_subst_coboundary_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:39.112798+00:00
 -- url     : https://prove2.me/theorems/23432b41-090a-4a5e-862f-bba45322f255

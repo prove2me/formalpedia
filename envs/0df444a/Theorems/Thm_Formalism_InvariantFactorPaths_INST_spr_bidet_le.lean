@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_spr_bidet_le
 -- name    : Formalism.InvariantFactorPaths.INST.spr_bidet_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:36.43805+00:00
 -- url     : https://prove2.me/theorems/a2acc3de-829a-4bd1-9093-f9247852d73b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_act_eq
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.act_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:43.111941+00:00
 -- url     : https://prove2.me/theorems/98c12b5b-5ef1-414e-be3a-06ff7ed4f41e

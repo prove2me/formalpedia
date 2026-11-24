@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_LocOp_ker_eq_zero_iff
 -- name    : Formalism.L2.Col.LocOp.ker_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:16.056868+00:00
 -- url     : https://prove2.me/theorems/d2effcc6-2c9e-42b7-97d8-4ad2e724f7d9

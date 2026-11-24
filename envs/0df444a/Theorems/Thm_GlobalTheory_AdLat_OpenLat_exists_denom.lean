@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_OpenLat_exists_denom
 -- name    : GlobalTheory.AdLat.OpenLat.exists_denom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:21.505512+00:00
 -- url     : https://prove2.me/theorems/dcccf2cf-27f0-4b3a-80b9-d44550e80c61

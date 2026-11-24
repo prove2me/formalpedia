@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RedPts_toSec_left_fst
 -- name    : GlobalTheory.RedPts.toSec_left_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:01.34566+00:00
 -- url     : https://prove2.me/theorems/2f33bf5f-649b-4778-bd56-3d14f58dbadf

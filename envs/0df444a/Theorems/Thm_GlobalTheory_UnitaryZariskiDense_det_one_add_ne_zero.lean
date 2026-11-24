@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryZariskiDense_det_one_add_ne_zero
 -- name    : GlobalTheory.UnitaryZariskiDense.det_one_add_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:25.228336+00:00
 -- url     : https://prove2.me/theorems/96dc2d3a-f2af-49d5-a7a2-d49210a0646a

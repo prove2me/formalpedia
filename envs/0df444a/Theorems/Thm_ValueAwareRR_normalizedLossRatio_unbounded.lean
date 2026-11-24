@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_normalizedLossRatio_unbounded
 -- name    : ValueAwareRR.normalizedLossRatio_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:05:12.819235+00:00
 -- url     : https://prove2.me/theorems/6eacb2e3-79d9-4944-9d39-1e6d58b6a2c9

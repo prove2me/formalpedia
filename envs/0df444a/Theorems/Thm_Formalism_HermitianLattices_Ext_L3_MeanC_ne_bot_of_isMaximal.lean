@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanC_ne_bot_of_isMaximal
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanC.ne_bot_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:58.914865+00:00
 -- url     : https://prove2.me/theorems/4f6fb35f-fc37-4088-9050-aa4211a46fe5

@@ -1,0 +1,53 @@
+-- Prove2me | solution 1 for GlobalTheory.SqZero.mem_redKer_of_section
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-24T09:23:35.821617+00:00
+-- url     : https://prove2.me/submissions/dd5aa8b3-ebbd-483d-a894-1fc102224aec
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_SpanEqTopOfForallMaximal
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsChartOfMemRedKer
+import Theorems.Thm_GlobalTheory_SqZero_ptsMap_apply
+import Theorems.Thm_GlobalTheory_SqZero_mem_redKer
+import Theorems.Thm_GlobalTheory_SqZero_IsAway_ext
+import Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Chart_comp_one__39cc6a6ed057
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_isLieComb_iff
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_isTan_iff
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_spMap_comp
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_spMap_id
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_spMap_left
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] GlobalTheory.SqZero.ptsMap_apply
+
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open CategoryTheory Limits AlgebraicGeometry MonoidalCategory CartesianMonoidalCategory
+open scoped CategoryTheory.MonObj
+open ReciprocityTheory.ChartRestriction.G.Chart (sp spMap spMap_left spMap_comp spMap_id comp_one' IsTan fstD scaleD prodPts
+  isTan_iff isLieComb_iff)
+open ReciprocityTheory.ChartRestriction.G.Geo.Tor (Sp epsR IsTangent IsLieComb IsLieBasis)
+open TrivSqZeroExt (inl inr)
+open GlobalTheory GlobalTheory.SqZero
+attribute [local instance] Over.cartesianMonoidalCategory
+variable {R : Type} [CommRing R]
+variable (G : Over (Spec (CommRingCat.of R))) [GrpObj G]
+  {A A' A₀ : Type} [CommRing A] [Algebra R A] [CommRing A'] [Algebra R A']
+  [CommRing A₀] [Algebra R A₀]
+variable {G}
+namespace GlobalTheory.SqZero
+theorem _root_.solution (q : A →ₐ[R] A₀) (s : A₀ →ₐ[R] A) (hs : ∀ a, q (s a) = a)
+    {y : sp A ⟶ G} (hy : spMap q ≫ y = 1) : y ∈ redKer G (RingHom.ker q) := by
+  have : Ideal.Quotient.mkₐ R (RingHom.ker q) =
+      ((Ideal.Quotient.mkₐ R (RingHom.ker q)).comp s).comp q := by
+    ext a
+    exact Ideal.Quotient.eq.2 (by simp [RingHom.mem_ker, hs])
+  rw [mem_redKer, this, ← spMap_comp, Category.assoc, hy, comp_one']
+end GlobalTheory.SqZero

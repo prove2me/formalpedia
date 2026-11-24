@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_gramK_conjTranspose
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.gramK_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:14.612802+00:00
 -- url     : https://prove2.me/theorems/76af4b42-2f53-49ea-846d-09b6ee872bf9

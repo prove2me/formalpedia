@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_modulus_units
 -- name    : GroundTheory.Automorphic.Measures.modulus_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:29.170874+00:00
 -- url     : https://prove2.me/theorems/07f1566e-5a74-4c3b-b536-356a102248c4

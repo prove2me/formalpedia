@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fk_map_bidet
 -- name    : Formalism.L2.DIV.fk_map_bidet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:41.422329+00:00
 -- url     : https://prove2.me/theorems/fe68bcee-eb97-4dad-8831-a3174ecb6918

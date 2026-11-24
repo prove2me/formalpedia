@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_normalizedResidualMax_eq_one
 -- name    : ValueAwareRR.normalizedResidualMax_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:03:22.045867+00:00
 -- url     : https://prove2.me/theorems/3771f40f-f5ee-4eee-af7d-ef70a77f5cfa

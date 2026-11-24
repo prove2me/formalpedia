@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTate_toMuLoc_bijective
 -- name    : GlobalTheory.Published.PoitouTate.toMuLoc_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:07.639812+00:00
 -- url     : https://prove2.me/theorems/ab0dd9d7-630a-4c70-a6cb-006fc90c3ab7

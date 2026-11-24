@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GFam_ipOf_eq_csum
 -- name    : Formalism.L2.Col.GFam.ipOf_eq_csum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:09.134609+00:00
 -- url     : https://prove2.me/theorems/efe23821-9b11-4d23-994e-6a36bcbfed92

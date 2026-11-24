@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_equivFun_toLin
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.equivFun_toLin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:31.052141+00:00
 -- url     : https://prove2.me/theorems/d793941c-fd97-463a-b526-225058fd8e51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_FormalExponential_norm_eq_one_of_pow
 -- name    : Formalism.L2.Th1.D.FormalExponential.norm_eq_one_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:09.511276+00:00
 -- url     : https://prove2.me/theorems/eefcbc50-29c9-40d2-88ad-92d5877d77cc

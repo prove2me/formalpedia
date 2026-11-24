@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_exactLoss_eq_excess_directEndpoint
 -- name    : ValueAwareRR.exactLoss_eq_excess_directEndpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:06:44.868441+00:00
 -- url     : https://prove2.me/theorems/ce65ba27-1cbb-4954-b111-1121410fb151

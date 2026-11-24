@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_normalForm
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.normalForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:57:57.457332+00:00
 -- url     : https://prove2.me/theorems/7239039e-9bd2-46f2-a7b6-9d2f5ef17b56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Fam_IdTrans_finiteSingle_eq
 -- name    : Formalism.L2.Fam.IdTrans.finiteSingle_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:04.891742+00:00
 -- url     : https://prove2.me/theorems/d176ff6a-28d6-4aae-873c-d7f911b1f8ec

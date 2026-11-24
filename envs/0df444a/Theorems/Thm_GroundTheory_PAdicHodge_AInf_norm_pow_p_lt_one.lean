@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_norm_pow_p_lt_one
 -- name    : GroundTheory.PAdicHodge.AInf.norm_pow_p_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:36.611327+00:00
 -- url     : https://prove2.me/theorems/ba662f14-905b-4cf5-9c3e-f9131b2076bd

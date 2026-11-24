@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_proxySelected_reversed_loss
 -- name    : ValueAwareRR.proxySelected_reversed_loss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:09:24.270735+00:00
 -- url     : https://prove2.me/theorems/a1208bed-f162-45b3-9674-81665a22e918

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SaturatedSections_existsUnique_comb
 -- name    : GlobalTheory.SaturatedSections.existsUnique_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:26.039835+00:00
 -- url     : https://prove2.me/theorems/7f24cfdd-477e-4c12-9b50-bf1ff7d5565a

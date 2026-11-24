@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_LocOp_adjoint
 -- name    : Formalism.L2.Col.LocOp.adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:16.689961+00:00
 -- url     : https://prove2.me/theorems/232bc8a0-82a1-4932-9e06-f092659aa281

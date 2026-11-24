@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_normalizedProxy_diagonal_global_minimum
 -- name    : ValueAwareRR.normalizedProxy_diagonal_global_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:04:53.812394+00:00
 -- url     : https://prove2.me/theorems/7f2ced64-062d-44c2-a309-262dff23c8af

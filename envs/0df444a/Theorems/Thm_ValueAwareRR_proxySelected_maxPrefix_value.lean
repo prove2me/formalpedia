@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_proxySelected_maxPrefix_value
 -- name    : ValueAwareRR.proxySelected_maxPrefix_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:09:55.130193+00:00
 -- url     : https://prove2.me/theorems/c90a7388-6cc1-45a7-aa9e-267463b76ed1

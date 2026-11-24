@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_gl_one_first_line_action
 -- name    : Formalism.InvariantFactorPaths.INST.gl_one_first_line_action
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:36.405958+00:00
 -- url     : https://prove2.me/theorems/b1d97c7e-045b-4fba-b34f-0df9718853ee

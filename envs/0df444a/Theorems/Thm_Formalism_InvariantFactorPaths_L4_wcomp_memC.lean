@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_wcomp_memC
 -- name    : Formalism.InvariantFactorPaths.L4.wcomp_memC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:45.815093+00:00
 -- url     : https://prove2.me/theorems/ea691978-a01a-44f5-8d5c-e1b73f5a4e66

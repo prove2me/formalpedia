@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bs_dual_le_weyl
 -- name    : Formalism.BranchingDeterminantCap.bs_dual_le_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:22.322614+00:00
 -- url     : https://prove2.me/theorems/38b75d2e-49a4-4f16-8d47-c1e2057de054

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_normalizedTrueOptimal_global_minimum
 -- name    : ValueAwareRR.normalizedTrueOptimal_global_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:04:35.897467+00:00
 -- url     : https://prove2.me/theorems/04843d71-3807-498e-b9e9-34866e345d7c

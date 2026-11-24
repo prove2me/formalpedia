@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_gLat_injective
 -- name    : Formalism.L2.DIV.gLat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:46.20499+00:00
 -- url     : https://prove2.me/theorems/e8fc7433-0823-41ea-9ce0-2b608582d3d3

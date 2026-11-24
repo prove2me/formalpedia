@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_IsInv_shift
 -- name    : Formalism.IndefR.Fin.Four.IsInv.shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:09.90963+00:00
 -- url     : https://prove2.me/theorems/141416bc-e816-42e6-9789-074bb0801902

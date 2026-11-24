@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_rgl_div_X
 -- name    : Formalism.InvariantFactorPaths.INST.rgl_div_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:14.692846+00:00
 -- url     : https://prove2.me/theorems/e4984cd8-cc0f-4238-9127-cae086148ccd

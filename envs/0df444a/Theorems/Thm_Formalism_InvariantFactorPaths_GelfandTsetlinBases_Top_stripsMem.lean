@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_stripsMem
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.stripsMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:29.875502+00:00
 -- url     : https://prove2.me/theorems/184f8e2d-e685-4e41-b0f5-5ef11b14cbd0

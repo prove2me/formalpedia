@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_GAe_comp
 -- name    : Formalism.InvariantFactorPaths.PW.GAe_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:04.6978+00:00
 -- url     : https://prove2.me/theorems/93b01bb6-9c31-4c3b-9840-4002eadccd2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_BlockMetrics_sesq_ext
 -- name    : Formalism.IndefR.LatticeTransfer.BlockMetrics.sesq_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:13.463738+00:00
 -- url     : https://prove2.me/theorems/30d735e4-5b97-46de-ac0c-cad78c36add5

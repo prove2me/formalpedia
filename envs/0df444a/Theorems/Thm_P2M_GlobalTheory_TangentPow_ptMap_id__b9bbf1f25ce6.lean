@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TangentPow_ptMap_id__b9bbf1f25ce6
 -- name    : P2M_GlobalTheory_TangentPow_ptMap_id__b9bbf1f25ce6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:46.460278+00:00
 -- url     : https://prove2.me/theorems/30f7d5b2-e3e3-4e49-83e9-672d5a02321f

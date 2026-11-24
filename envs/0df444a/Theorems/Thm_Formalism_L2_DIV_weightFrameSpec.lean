@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_weightFrameSpec
 -- name    : Formalism.L2.DIV.weightFrameSpec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:47:14.504739+00:00
 -- url     : https://prove2.me/theorems/f47cf56a-8ef8-4da2-9cdb-1a24224a15f0

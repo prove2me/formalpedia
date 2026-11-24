@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fk_blockEmb_X
 -- name    : Formalism.L2.DIV.fk_blockEmb_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:42.323102+00:00
 -- url     : https://prove2.me/theorems/b4c8cfd9-2198-4c3c-a996-223966b6f27f

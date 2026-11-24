@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_SX_top
 -- name    : Formalism.L2.Col.SX_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:53.559024+00:00
 -- url     : https://prove2.me/theorems/ea60bd88-0058-4efb-a2b9-6a6f42b935ae

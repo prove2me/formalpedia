@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_Slice_dia_apply
 -- name    : Formalism.L2.Col.GSD.Slice.dia_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:46.618799+00:00
 -- url     : https://prove2.me/theorems/5dd254bd-baeb-4e81-afae-4356deca62a7

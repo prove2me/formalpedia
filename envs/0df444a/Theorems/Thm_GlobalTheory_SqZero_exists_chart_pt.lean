@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_exists_chart_pt
 -- name    : GlobalTheory.SqZero.exists_chart_pt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:40.414017+00:00
 -- url     : https://prove2.me/theorems/4aefaa13-ad6e-4a40-9cec-527af8c13f41

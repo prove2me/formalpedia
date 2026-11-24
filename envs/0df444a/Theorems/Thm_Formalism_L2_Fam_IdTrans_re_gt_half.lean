@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Fam_IdTrans_re_gt_half
 -- name    : Formalism.L2.Fam.IdTrans.re_gt_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:47.652626+00:00
 -- url     : https://prove2.me/theorems/e69f4445-7a26-4f19-a941-bbc4ac3bad40

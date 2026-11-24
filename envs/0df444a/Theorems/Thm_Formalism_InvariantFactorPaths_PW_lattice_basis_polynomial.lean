@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_lattice_basis_polynomial
 -- name    : Formalism.InvariantFactorPaths.PW.lattice_basis_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:19:01.502964+00:00
 -- url     : https://prove2.me/theorems/d9f812c1-e448-421c-8283-e5a9f59f76f7

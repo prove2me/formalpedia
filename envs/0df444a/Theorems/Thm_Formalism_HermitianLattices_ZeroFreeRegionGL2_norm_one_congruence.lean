@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_norm_one_congruence
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.norm_one_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:47.582846+00:00
 -- url     : https://prove2.me/theorems/cedb0085-8920-4514-adfa-3ce4be961285

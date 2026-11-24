@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_trueOptimalOrder_global_minimum
 -- name    : ValueAwareRR.trueOptimalOrder_global_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:00:21.679805+00:00
 -- url     : https://prove2.me/theorems/34e4e6fd-3a89-4514-8a8c-7158b4de56e3

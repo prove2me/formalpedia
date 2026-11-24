@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_ThirdPropositionSlot_absNorm_extP
 -- name    : Formalism.HermitianLattices.Ext.L3.ThirdPropositionSlot.absNorm_extP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:40.908296+00:00
 -- url     : https://prove2.me/theorems/4d2d073c-0e78-4d6d-95db-cb5f64a4488e

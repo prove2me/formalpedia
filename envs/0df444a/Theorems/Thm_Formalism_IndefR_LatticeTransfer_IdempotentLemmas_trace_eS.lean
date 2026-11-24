@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_IdempotentLemmas_trace_eS
 -- name    : Formalism.IndefR.LatticeTransfer.IdempotentLemmas.trace_eS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:14.884808+00:00
 -- url     : https://prove2.me/theorems/88fc0e77-570d-419d-960e-2bea4902c174

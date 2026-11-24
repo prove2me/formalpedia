@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_scaleD_eq
 -- name    : GlobalTheory.SqZero.scaleD_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:56.465824+00:00
 -- url     : https://prove2.me/theorems/eb363e7c-3b60-4505-b95a-ebdc9e0cfbd4

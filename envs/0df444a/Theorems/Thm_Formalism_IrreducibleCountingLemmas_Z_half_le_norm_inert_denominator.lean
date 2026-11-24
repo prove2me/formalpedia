@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_half_le_norm_inert_denominator
 -- name    : Formalism.IrreducibleCountingLemmas.Z.half_le_norm_inert_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:47:05.979993+00:00
 -- url     : https://prove2.me/theorems/03a9c0a8-a427-45b5-9409-142810c540c9

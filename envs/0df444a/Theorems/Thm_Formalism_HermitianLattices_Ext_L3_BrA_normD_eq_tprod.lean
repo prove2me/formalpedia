@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrA_normD_eq_tprod
 -- name    : Formalism.HermitianLattices.Ext.L3.BrA.normD_eq_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:21.372821+00:00
 -- url     : https://prove2.me/theorems/f3e8d15f-627e-4c07-9c21-bdbe01e8334b

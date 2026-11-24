@@ -1,0 +1,42 @@
+-- Prove2me | solution 1 for GroundTheory.Automorphic.Measures.LinearChart.modularCharacter_eq
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T09:14:21.90558+00:00
+-- url     : https://prove2.me/submissions/77396dd4-7b19-4ec5-bd5b-bc71e4140e6c
+
+import Mathlib
+import Definitions.Def_GroundTheory_AutomorphicForms_MeasuresModulus
+import Definitions.Def_GroundTheory_AutomorphicForms_LocallyProfinite
+import Definitions.Def_GroundTheory_AutomorphicForms_MeasuresChart
+import Theorems.Thm_GroundTheory_Automorphic_Measures_LinearChart_map_mul_right_haar
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open GroundTheory GroundTheory.Automorphic
+open MeasureTheory Measure Topology Filter Set ValuativeRel
+open scoped NNReal ENNReal Pointwise
+set_option linter.unusedSectionVars false
+open GroundTheory.Automorphic.Measures
+open GroundTheory.Automorphic.Measures.LinearChart
+variable {F : Type*} [Field F] [ValuativeRel F] [TopologicalSpace F] [IsNonarchimedeanLocalField F]
+  [MeasurableSpace F] [BorelSpace F] {ι : Type*} [Fintype ι]
+  {G : Type*} [Group G] [TopologicalSpace G] [IsTopologicalGroup G] [MeasurableSpace G]
+  [BorelSpace G] (C : LinearChart F ι G)
+variable (μ₀ : Measure (ι → F)) [μ₀.IsAddHaarMeasure]
+variable [LocallyCompactSpace G]
+variable [T2Space G] [TotallyDisconnectedSpace G]
+namespace GroundTheory.Automorphic.Measures.LinearChart
+theorem _root_.solution (h : G) :
+    modularCharacter h = C.leftModulus h / C.rightModulus h := by
+  let μ₀ : Measure (ι → F) := addHaar
+  change modularCharacterFun h = _
+  rw [modularCharacterFun_eq_haarScalarFactor (C.haar μ₀) h]
+  simp only [C.map_mul_right_haar μ₀ h]
+  rw [haarScalarFactor_smul, haarScalarFactor_self, smul_eq_mul, mul_one]
+end GroundTheory.Automorphic.Measures.LinearChart

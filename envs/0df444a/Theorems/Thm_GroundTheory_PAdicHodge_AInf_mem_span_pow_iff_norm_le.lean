@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_mem_span_pow_iff_norm_le
 -- name    : GroundTheory.PAdicHodge.AInf.mem_span_pow_iff_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:06.599905+00:00
 -- url     : https://prove2.me/theorems/370f6b02-179a-44c6-8e2d-6003224157b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_pow_ne_zero_of_norm
 -- name    : GroundTheory.PAdicHodge.AInf.pow_ne_zero_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:58.407866+00:00
 -- url     : https://prove2.me/theorems/010a2689-f30b-44f2-b2d4-abc08090f589

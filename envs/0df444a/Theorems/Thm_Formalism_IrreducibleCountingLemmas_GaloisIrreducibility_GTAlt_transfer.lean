@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_GTAlt_transfer
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.GTAlt.transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:38.048799+00:00
 -- url     : https://prove2.me/theorems/3238d58d-39d2-4338-af80-a22c561e8200

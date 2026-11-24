@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_rpow_neg_two_mul_le_half
 -- name    : Formalism.IrreducibleCountingLemmas.Z.rpow_neg_two_mul_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:27.591239+00:00
 -- url     : https://prove2.me/theorems/d7b8ce2a-f64c-460e-8166-4fd88d227b05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_trueOptimal_reversed_loss
 -- name    : ValueAwareRR.trueOptimal_reversed_loss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:09:23.70568+00:00
 -- url     : https://prove2.me/theorems/4b36f24d-1a1a-409b-b29e-a514cbcf66ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormOneGroup_mem_of_cond
 -- name    : Formalism.HermitianLattices.Ext.L3.NormOneGroup.mem_of_cond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:20.187401+00:00
 -- url     : https://prove2.me/theorems/a4f3166f-06c4-47cb-9b3e-38a135de07ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_trueOptimal_endpoint
 -- name    : ValueAwareRR.trueOptimal_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:08:07.127795+00:00
 -- url     : https://prove2.me/theorems/40f65a78-6bf8-4799-a8d4-b2340b66dde6

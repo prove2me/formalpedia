@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_E4_geom_part
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.E4.geom_part
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:28.87438+00:00
 -- url     : https://prove2.me/theorems/d82d9864-1e4e-4245-b443-7026edc84b36

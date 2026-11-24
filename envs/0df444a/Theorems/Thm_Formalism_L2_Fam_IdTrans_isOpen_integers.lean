@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Fam_IdTrans_isOpen_integers
 -- name    : Formalism.L2.Fam.IdTrans.isOpen_integers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:50.731004+00:00
 -- url     : https://prove2.me/theorems/1ab6173b-0ef0-4d66-b0b6-f41a22d271f6

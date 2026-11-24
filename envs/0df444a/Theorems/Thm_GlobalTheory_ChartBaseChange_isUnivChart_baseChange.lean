@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartBaseChange_isUnivChart_baseChange
 -- name    : GlobalTheory.ChartBaseChange.isUnivChart_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:52.220681+00:00
 -- url     : https://prove2.me/theorems/db231cee-a174-41bf-beff-5715c0b921be

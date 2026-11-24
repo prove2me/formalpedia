@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_isBasisAt_gLat
 -- name    : Formalism.L2.DIV.isBasisAt_gLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:16.373622+00:00
 -- url     : https://prove2.me/theorems/1638102a-edb1-4bc7-a609-2aaad50fcff5

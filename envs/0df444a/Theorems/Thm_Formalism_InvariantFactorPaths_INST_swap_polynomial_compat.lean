@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_swap_polynomial_compat
 -- name    : Formalism.InvariantFactorPaths.INST.swap_polynomial_compat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:07.341464+00:00
 -- url     : https://prove2.me/theorems/0f84be7b-1aba-46cf-8ed7-2a96ba16a35c

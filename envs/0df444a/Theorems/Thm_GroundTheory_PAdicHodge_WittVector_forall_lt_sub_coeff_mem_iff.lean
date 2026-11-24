@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittVector_forall_lt_sub_coeff_mem_iff
 -- name    : GroundTheory.PAdicHodge.WittVector.forall_lt_sub_coeff_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:59.90036+00:00
 -- url     : https://prove2.me/theorems/b91a8964-ec7a-4eea-bcb7-1a671a6b0579

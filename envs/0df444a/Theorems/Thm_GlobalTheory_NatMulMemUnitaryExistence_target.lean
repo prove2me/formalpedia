@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMulMemUnitaryExistence_target
 -- name    : GlobalTheory.NatMulMemUnitaryExistence.target
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:41:37.235166+00:00
 -- url     : https://prove2.me/theorems/cd4370bd-2a91-4997-8452-ea65c2c3a49c

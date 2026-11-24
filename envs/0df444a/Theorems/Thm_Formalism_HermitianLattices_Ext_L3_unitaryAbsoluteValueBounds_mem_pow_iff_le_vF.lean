@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_mem_pow_iff_le_vF
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.mem_pow_iff_le_vF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:26.728826+00:00
 -- url     : https://prove2.me/theorems/a399c14c-0732-485f-b047-666ebca0c1ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fk_pderiv_blockEmb_ne
 -- name    : Formalism.L2.DIV.fk_pderiv_blockEmb_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:02.575638+00:00
 -- url     : https://prove2.me/theorems/bc6c33c0-a3c3-419e-ac5d-13005581cbe3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_cutOrthProj_of
 -- name    : Formalism.L2.DIV.cutOrthProj_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:00.151937+00:00
 -- url     : https://prove2.me/theorems/c2f317aa-6b90-46df-b0de-16d372773874

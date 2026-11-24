@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_IsAway_mem_map
 -- name    : GlobalTheory.SqZero.IsAway.mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:56.572518+00:00
 -- url     : https://prove2.me/theorems/7af95344-ceec-47f2-a308-adc606dcafa0

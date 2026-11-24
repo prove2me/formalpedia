@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_twist_invertible_holds
 -- name    : Formalism.IrreducibleCountingLemmas.Z.twist_invertible_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:21.332481+00:00
 -- url     : https://prove2.me/theorems/5c2bc786-8794-435e-83f8-aaf46ef5fd9c

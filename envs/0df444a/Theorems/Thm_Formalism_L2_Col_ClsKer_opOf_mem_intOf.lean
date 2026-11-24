@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_ClsKer_opOf_mem_intOf
 -- name    : Formalism.L2.Col.ClsKer.opOf_mem_intOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:43.328378+00:00
 -- url     : https://prove2.me/theorems/ed00fd00-b72d-4206-b0b0-63951bf246d8

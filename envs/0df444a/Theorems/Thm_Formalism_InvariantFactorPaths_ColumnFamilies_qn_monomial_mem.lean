@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_monomial_mem
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_monomial_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:55.284603+00:00
 -- url     : https://prove2.me/theorems/35449b04-77fd-4bd9-b590-552d8121f87b

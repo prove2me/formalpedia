@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_DwModel_isGaloisCover_field
 -- name    : GlobalTheory.ZM.DwModel.isGaloisCover_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:01.77767+00:00
 -- url     : https://prove2.me/theorems/89da769f-1d00-4c74-b018-c2286b41e143

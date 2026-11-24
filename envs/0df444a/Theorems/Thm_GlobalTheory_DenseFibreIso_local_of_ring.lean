@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseFibreIso_local_of_ring
 -- name    : GlobalTheory.DenseFibreIso.local_of_ring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:18:34.053811+00:00
 -- url     : https://prove2.me/theorems/8fbfc493-4c48-4180-9d64-7dbab7e85029

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_isUnimodularAt_iff_vd
 -- name    : Formalism.HermitianLattices.Ext.L3.isUnimodularAt_iff_vd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:18:13.249768+00:00
 -- url     : https://prove2.me/theorems/571f74b0-7847-4c9c-a406-426efab4fc85

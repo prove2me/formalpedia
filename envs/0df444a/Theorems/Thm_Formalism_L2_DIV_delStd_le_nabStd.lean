@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_delStd_le_nabStd
 -- name    : Formalism.L2.DIV.delStd_le_nabStd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:14.486453+00:00
 -- url     : https://prove2.me/theorems/195a7fc8-acb3-485b-a6c7-2d9d7a8dad9c

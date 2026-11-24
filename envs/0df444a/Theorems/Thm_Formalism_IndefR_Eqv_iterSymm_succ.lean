@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_iterSymm_succ
 -- name    : Formalism.IndefR.Eqv.iterSymm_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:24.670348+00:00
 -- url     : https://prove2.me/theorems/14a4e97e-f211-4b80-8376-bb67d789700a

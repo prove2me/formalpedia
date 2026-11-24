@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_GAe_isWt_iff
 -- name    : Formalism.InvariantFactorPaths.PW.GAe_isWt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:18:37.799178+00:00
 -- url     : https://prove2.me/theorems/a70c1acf-3f01-4bd8-8433-c2c9b5caa0de

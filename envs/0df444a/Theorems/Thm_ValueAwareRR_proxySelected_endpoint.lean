@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_proxySelected_endpoint
 -- name    : ValueAwareRR.proxySelected_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:08:28.074067+00:00
 -- url     : https://prove2.me/theorems/ce9b830b-faa4-43c1-be4b-1161e40f86c7

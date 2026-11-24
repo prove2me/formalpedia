@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ratio_middle_range
 -- name    : Formalism.FourierDecayAlt.P.ratio_middle_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:34.439826+00:00
 -- url     : https://prove2.me/theorems/0334bde9-cba8-4254-86e7-9e1b3e97d837

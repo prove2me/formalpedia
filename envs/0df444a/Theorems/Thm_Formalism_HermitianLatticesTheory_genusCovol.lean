@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusCovol
 -- name    : Formalism.HermitianLatticesTheory.genusCovol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:18.067362+00:00
 -- url     : https://prove2.me/theorems/5afa73f8-57d7-4e24-b069-2b4bbf7b5189

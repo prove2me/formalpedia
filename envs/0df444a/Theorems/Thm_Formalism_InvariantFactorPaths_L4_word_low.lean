@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_word_low
 -- name    : Formalism.InvariantFactorPaths.L4.word_low
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:38.130859+00:00
 -- url     : https://prove2.me/theorems/9f4ac7b9-7eed-4931-8f82-bb78567b56f0

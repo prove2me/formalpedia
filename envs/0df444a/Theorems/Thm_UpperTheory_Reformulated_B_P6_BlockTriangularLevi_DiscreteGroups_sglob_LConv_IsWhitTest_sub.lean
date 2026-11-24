@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_BlockTriangularLevi_DiscreteGroups_sglob_LConv_IsWhitTest_sub
 -- name    : UpperTheory.Reformulated.B.P6.BlockTriangularLevi.DiscreteGroups.sglob.LConv.IsWhitTest.sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:33:45.794958+00:00
 -- url     : https://prove2.me/theorems/a67ae187-0e93-4e27-904b-2a6e9c5742a6

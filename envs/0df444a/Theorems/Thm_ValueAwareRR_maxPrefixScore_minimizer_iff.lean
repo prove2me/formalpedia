@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_maxPrefixScore_minimizer_iff
 -- name    : ValueAwareRR.maxPrefixScore_minimizer_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:01:33.166439+00:00
 -- url     : https://prove2.me/theorems/80dc5c7e-ab28-4405-8c2e-3f16c39066bb

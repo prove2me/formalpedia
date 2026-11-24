@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_exists_finite_mod
 -- name    : GlobalTheory.LevCover.exists_finite_mod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:38.835942+00:00
 -- url     : https://prove2.me/theorems/d3546b9c-3166-467b-991f-ca0c3bdd81a8

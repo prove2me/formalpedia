@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_modCond_dpow
 -- name    : Formalism.InvariantFactorPaths.L4.modCond_dpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:36:44.121297+00:00
 -- url     : https://prove2.me/theorems/f9b09c6c-95ea-4877-9368-bb6cb7924f0d

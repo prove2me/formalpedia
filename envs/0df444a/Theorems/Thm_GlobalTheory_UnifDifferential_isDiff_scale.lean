@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDifferential_isDiff_scale
 -- name    : GlobalTheory.UnifDifferential.isDiff_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:33.555692+00:00
 -- url     : https://prove2.me/theorems/cd27b95b-9902-4b3a-bc19-3575a7acfa67

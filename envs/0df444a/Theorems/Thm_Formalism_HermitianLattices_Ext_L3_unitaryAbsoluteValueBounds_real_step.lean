@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_real_step
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.real_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:24.709122+00:00
 -- url     : https://prove2.me/theorems/3dbb3ce4-eca5-424b-8464-fb8b37bc2695

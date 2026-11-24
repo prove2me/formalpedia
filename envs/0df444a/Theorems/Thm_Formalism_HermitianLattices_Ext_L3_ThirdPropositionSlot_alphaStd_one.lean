@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_ThirdPropositionSlot_alphaStd_one
 -- name    : Formalism.HermitianLattices.Ext.L3.ThirdPropositionSlot.alphaStd_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:45.816922+00:00
 -- url     : https://prove2.me/theorems/829f994e-33c5-42f9-be25-8dfb8fac3b31

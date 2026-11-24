@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_enum_pos
 -- name    : Formalism.InvariantFactorPaths.L4.enum_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:34.484878+00:00
 -- url     : https://prove2.me/theorems/0452e9b4-873c-49c1-8cb8-cdc1ff28afcc

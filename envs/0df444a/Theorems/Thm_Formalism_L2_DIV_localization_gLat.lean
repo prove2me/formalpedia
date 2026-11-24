@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_localization_gLat
 -- name    : Formalism.L2.DIV.localization_gLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:42.254942+00:00
 -- url     : https://prove2.me/theorems/0cb7e091-5fd2-4ff6-9784-15b25a7c3b61

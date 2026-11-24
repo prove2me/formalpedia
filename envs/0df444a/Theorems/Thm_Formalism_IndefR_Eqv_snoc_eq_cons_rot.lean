@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_snoc_eq_cons_rot
 -- name    : Formalism.IndefR.Eqv.snoc_eq_cons_rot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:08.959649+00:00
 -- url     : https://prove2.me/theorems/2544f9c2-d5e9-415f-8adc-f4c6748a5058

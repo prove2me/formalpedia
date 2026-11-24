@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_normalizedLossRatio_lower_bound
 -- name    : ValueAwareRR.normalizedLossRatio_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T08:58:13.451448+00:00
 -- url     : https://prove2.me/theorems/58e89cd5-b6f6-407d-bbf0-608cb341e7e1

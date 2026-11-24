@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_gl_first_line_divided_powers
 -- name    : Formalism.InvariantFactorPaths.INST.gl_first_line_divided_powers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:45.570865+00:00
 -- url     : https://prove2.me/theorems/a6ba6c2c-cf7d-41a5-b5cb-300c899a8b83

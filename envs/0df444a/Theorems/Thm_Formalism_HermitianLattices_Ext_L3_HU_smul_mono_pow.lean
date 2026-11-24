@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_smul_mono_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.smul_mono_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:44.350316+00:00
 -- url     : https://prove2.me/theorems/297442a3-1736-4d37-979c-ce139c24ce42

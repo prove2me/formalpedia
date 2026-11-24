@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fk_descent
 -- name    : Formalism.L2.DIV.fk_descent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:36.288513+00:00
 -- url     : https://prove2.me/theorems/c3bd1d9b-a134-43dd-97a8-582ffe903ad2

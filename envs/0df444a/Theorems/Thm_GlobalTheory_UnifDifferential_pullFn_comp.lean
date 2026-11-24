@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDifferential_pullFn_comp
 -- name    : GlobalTheory.UnifDifferential.pullFn_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:52.415906+00:00
 -- url     : https://prove2.me/theorems/16b85f11-9074-4dc0-ab06-2745a53cbcad

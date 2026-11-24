@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_lvlDualLe_of
 -- name    : Formalism.L2.DIV.lvlDualLe_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:28.111642+00:00
 -- url     : https://prove2.me/theorems/9e94a8c1-0b3b-4fe7-a494-ce5f92a2968e

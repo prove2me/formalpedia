@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentPow_ptMap_comp_ptMap
 -- name    : GlobalTheory.TangentPow.ptMap_comp_ptMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:10.908049+00:00
 -- url     : https://prove2.me/theorems/b2a3bcf5-b0e4-490b-b895-cf1f2fd1e419

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_firstDeRham_base_eq_zero
 -- name    : GlobalTheory.Cris.firstDeRham_base_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:43.919555+00:00
 -- url     : https://prove2.me/theorems/5037e1e5-ac28-4914-b93c-4bfebed46956

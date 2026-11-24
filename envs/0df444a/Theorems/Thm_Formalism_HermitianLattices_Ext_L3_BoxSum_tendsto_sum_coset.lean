@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_tendsto_sum_coset
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.tendsto_sum_coset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:23.119495+00:00
 -- url     : https://prove2.me/theorems/55011a34-0c50-4079-a326-21d976460f8c

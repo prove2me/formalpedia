@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_pow_eq_pow_of_modEq_orderOf
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.pow_eq_pow_of_modEq_orderOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:58.343798+00:00
 -- url     : https://prove2.me/theorems/64280b49-56f9-4c8d-8d20-20a3c84d430e

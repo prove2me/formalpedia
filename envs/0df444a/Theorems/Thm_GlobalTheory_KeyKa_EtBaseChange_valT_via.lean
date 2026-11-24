@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_EtBaseChange_valT_via
 -- name    : GlobalTheory.KeyKa.EtBaseChange.valT_via
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:02:49.049877+00:00
 -- url     : https://prove2.me/theorems/ee7ca2f4-c2c7-4928-964b-333bc99e863c

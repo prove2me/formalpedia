@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_IdempotentLemmas_int_eq_zero
 -- name    : Formalism.IndefR.LatticeTransfer.IdempotentLemmas.int_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:19.901161+00:00
 -- url     : https://prove2.me/theorems/e00cc7a8-078e-49e1-af6c-01a752d5db18

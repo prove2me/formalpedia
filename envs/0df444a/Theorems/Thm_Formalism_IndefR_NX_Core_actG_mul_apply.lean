@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_NX_Core_actG_mul_apply
 -- name    : Formalism.IndefR.NX.Core.actG_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:08.839385+00:00
 -- url     : https://prove2.me/theorems/aff47d02-8d03-41eb-b79f-a9d93797e043

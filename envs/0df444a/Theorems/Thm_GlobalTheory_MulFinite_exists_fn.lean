@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulFinite_exists_fn
 -- name    : GlobalTheory.MulFinite.exists_fn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:12:55.849067+00:00
 -- url     : https://prove2.me/theorems/01a7e1c7-0ebf-4dae-ba46-8776a23028a6

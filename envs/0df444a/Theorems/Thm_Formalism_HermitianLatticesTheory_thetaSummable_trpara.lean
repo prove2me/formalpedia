@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaSummable_trpara
 -- name    : Formalism.HermitianLatticesTheory.thetaSummable_trpara
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:45.146259+00:00
 -- url     : https://prove2.me/theorems/1ae09994-7764-44fd-b2ce-b159d407c5e0

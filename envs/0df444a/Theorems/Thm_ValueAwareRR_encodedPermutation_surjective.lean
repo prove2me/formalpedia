@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_encodedPermutation_surjective
 -- name    : ValueAwareRR.encodedPermutation_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:06:12.575646+00:00
 -- url     : https://prove2.me/theorems/508a92db-863c-4a11-8576-9f234566672a

@@ -32981,7 +32981,7 @@
 {"parent": "PrettyGoodCriterion.theorem_17", "child": "PrettyGoodCriterion_OutputSymmetric", "via": ["statement"]}
 {"parent": "PrettyGoodCriterion.theorem_17", "child": "PrettyGoodCriterion_pgmError", "via": ["statement"]}
 {"parent": "PrettyGoodCriterion.theorem_17", "child": "QAlgorithms_Defs_Information", "via": ["statement"]}
-{"parent": "LocalPush.eq_1_unique", "child": "LocalPush_PageRank", "via": ["statement"]}
+{"parent": "LocalPush.eq_1_unique", "child": "LocalPush_PageRank", "via": ["solution", "statement"]}
 {"parent": "RecruitSmaller.lemma_A_1", "child": "RecruitSmaller_betaDens", "via": ["statement"]}
 {"parent": "RecruitSmaller.lemma_A_1", "child": "RecruitSmaller_buyerOrd", "via": ["statement"]}
 {"parent": "RecruitSmaller.lemma_A_1", "child": "ResAllocGaps_quantile", "via": ["statement"]}
@@ -36312,7 +36312,7 @@
 {"parent": "LocalProbeMIS871.Greedy.lemma_A_1", "child": "LocalProbeMIS871_Greedy_Coefficients", "via": ["solution", "statement"]}
 {"parent": "SuperactivatedCheating.StateConversion.localValue_attained", "child": "SuperactivatedCheating_StateConversion_QuantumGames", "via": ["statement"]}
 {"parent": "OnlineCarpoolingLei_Oblivious_ConvexOrder", "child": "OnlineCarpoolingLei_Oblivious_Model", "via": ["statement"]}
-{"parent": "LocalPush.pagerank_properties", "child": "LocalPush_PageRank", "via": ["statement"]}
+{"parent": "LocalPush.pagerank_properties", "child": "LocalPush_PageRank", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm13_1_0_8.s5_eq_g", "child": "OAIQ098G812", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm13_1_0_8.s5_eq_g", "child": "OAIQ098G828", "via": ["solution", "statement"]}
 {"parent": "CorrelatedAuctionComplexity_Main_AuctionTransforms", "child": "CorrelatedAuctionComplexity_Main_DFPA", "via": ["statement"]}

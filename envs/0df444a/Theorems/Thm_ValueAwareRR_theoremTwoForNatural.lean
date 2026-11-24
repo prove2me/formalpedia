@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_theoremTwoForNatural
 -- name    : ValueAwareRR.theoremTwoForNatural
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:05:01.604769+00:00
 -- url     : https://prove2.me/theorems/9319f231-bbe9-404a-9e54-7a842473f44f

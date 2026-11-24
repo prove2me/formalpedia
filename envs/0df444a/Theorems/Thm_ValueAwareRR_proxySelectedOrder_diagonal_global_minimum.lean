@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueAwareRR_proxySelectedOrder_diagonal_global_minimum
 -- name    : ValueAwareRR.proxySelectedOrder_diagonal_global_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T09:01:48.835634+00:00
 -- url     : https://prove2.me/theorems/45b4c303-2e37-45bf-8a89-562f6b50ee27

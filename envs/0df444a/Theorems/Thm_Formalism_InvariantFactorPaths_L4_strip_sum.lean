@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_strip_sum
 -- name    : Formalism.InvariantFactorPaths.L4.strip_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:14.826339+00:00
 -- url     : https://prove2.me/theorems/58d036fa-4c4f-477b-821e-befd2c1e0d50

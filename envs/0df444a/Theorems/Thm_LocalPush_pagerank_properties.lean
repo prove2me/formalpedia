@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalPush_pagerank_properties
 -- name    : LocalPush.pagerank_properties
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:05:58.604312+00:00
 -- url     : https://prove2.me/theorems/8615582a-b6a2-4e05-875a-815c049b0c86

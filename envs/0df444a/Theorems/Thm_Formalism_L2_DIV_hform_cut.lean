@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_hform_cut
 -- name    : Formalism.L2.DIV.hform_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:25.013096+00:00
 -- url     : https://prove2.me/theorems/532f8600-0864-4ee9-8570-6484d1e2b871
