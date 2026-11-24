@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGL_card_same_block
 -- name    : GlobalTheory.CompanionTheory.FinGL.card_same_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:40:01.17619+00:00
 -- url     : https://prove2.me/theorems/a5eeceeb-db26-499c-bbbd-a209d5537756

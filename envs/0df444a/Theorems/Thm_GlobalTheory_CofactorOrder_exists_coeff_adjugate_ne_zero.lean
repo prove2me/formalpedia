@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CofactorOrder_exists_coeff_adjugate_ne_zero
 -- name    : GlobalTheory.CofactorOrder.exists_coeff_adjugate_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:02:36.095681+00:00
 -- url     : https://prove2.me/theorems/447260be-9255-4772-a73a-dd92eb35b65f

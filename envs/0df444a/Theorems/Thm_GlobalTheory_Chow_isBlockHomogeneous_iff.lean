@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_isBlockHomogeneous_iff
 -- name    : GlobalTheory.Chow.isBlockHomogeneous_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:12:31.287409+00:00
 -- url     : https://prove2.me/theorems/504745dd-10b2-446c-be5c-5844baee15f4

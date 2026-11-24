@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSCover_word_monomial
 -- name    : GlobalTheory.CompanionTheory.DSCover.word_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:35:07.204292+00:00
 -- url     : https://prove2.me/theorems/dd899b14-8173-4b3d-bc7b-9323bf8a0ae8

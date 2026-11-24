@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFormDeriv_norm_iteratedDeriv_rem_le
 -- name    : GlobalTheory.CharFormDeriv.norm_iteratedDeriv_rem_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:21.067983+00:00
 -- url     : https://prove2.me/theorems/ffbef8a6-b76e-483e-b7a3-77c946d35f50

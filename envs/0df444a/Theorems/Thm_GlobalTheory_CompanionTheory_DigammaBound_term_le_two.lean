@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaBound_term_le_two
 -- name    : GlobalTheory.CompanionTheory.DigammaBound.term_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:34:54.626325+00:00
 -- url     : https://prove2.me/theorems/4cb78c8d-c063-4241-8945-6fc4b9343488

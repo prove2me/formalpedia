@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_LieModel_gramAt_iff_formGramAt
 -- name    : GlobalTheory.CompanionTheory.Ar.LieModel.gramAt_iff_formGramAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:19:06.246637+00:00
 -- url     : https://prove2.me/theorems/8114f98d-08ae-4065-9bd9-5c97d370d9bd

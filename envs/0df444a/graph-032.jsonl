@@ -54696,7 +54696,7 @@
 {"parent": "GoldreichAffine.Exponential.Supplement.mod12_residual_algebraic_immunity", "child": "GoldreichAffine_Exponential_Supplement_Algebraic", "via": ["statement"]}
 {"parent": "QMultiMean_Supplement_PhaseCircuit", "child": "QMultiMean_FiniteRandomVariable", "via": ["statement"]}
 {"parent": "QMultiMean_Supplement_PhaseCircuit", "child": "QMultiMean_Supplement_phaseOracle", "via": ["statement"]}
-{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.proposition_7_5", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Joint", "via": ["statement"]}
+{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.proposition_7_5", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Joint", "via": ["solution", "statement"]}
 {"parent": "ExactLearningSeparation678.Randomized.Supplement.theorem_1_6", "child": "ExactLearningSeparation678_Randomized_Supplement_Teaching", "via": ["statement"]}
 {"parent": "AutoQMem.Lindblad.Supplement.theorem_4", "child": "AutoQMem_Lindblad_Supplement_extDynamics", "via": ["statement"]}
 {"parent": "AutoQMem.Lindblad.Supplement.theorem_4", "child": "AutoQMem_Lindblad_decodedValue", "via": ["statement"]}

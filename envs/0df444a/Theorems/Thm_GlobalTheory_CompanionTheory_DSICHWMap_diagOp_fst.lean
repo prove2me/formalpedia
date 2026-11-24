@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICHWMap_diagOp_fst
 -- name    : GlobalTheory.CompanionTheory.DSICHWMap.diagOp_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:37:00.535811+00:00
 -- url     : https://prove2.me/theorems/dda86557-5bc3-4568-8125-5811f8cdb2d6

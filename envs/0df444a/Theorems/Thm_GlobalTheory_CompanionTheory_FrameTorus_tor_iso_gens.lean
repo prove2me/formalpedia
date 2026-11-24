@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrameTorus_tor_iso_gens
 -- name    : GlobalTheory.CompanionTheory.FrameTorus.tor_iso_gens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:41:07.439921+00:00
 -- url     : https://prove2.me/theorems/52873332-9ed6-40e7-a179-103e0cbc5c7e

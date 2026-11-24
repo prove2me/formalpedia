@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csGlob_approx
 -- name    : Formalism.UG.P.csGlob_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:25:41.839808+00:00
 -- url     : https://prove2.me/theorems/f4dd943f-ddce-491d-98d8-12748ffca36d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CayleyInv_cayley_transform
 -- name    : GlobalTheory.CayleyInv.cayley_transform
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:55:54.771093+00:00
 -- url     : https://prove2.me/theorems/a2b38cec-73e1-45ba-8620-65742e88ef76

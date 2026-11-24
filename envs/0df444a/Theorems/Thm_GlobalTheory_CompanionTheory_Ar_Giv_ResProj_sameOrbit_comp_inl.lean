@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_ResProj_sameOrbit_comp_inl
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.ResProj.sameOrbit_comp_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:21.816798+00:00
 -- url     : https://prove2.me/theorems/7eef85b7-2653-4dc7-ab74-89b03fb8d627

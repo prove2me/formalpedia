@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLimit_euler_seq_le_Gamma
 -- name    : GlobalTheory.CompanionTheory.DigammaLimit.euler_seq_le_Gamma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:35:16.443398+00:00
 -- url     : https://prove2.me/theorems/0e1c6c98-97ed-4d54-8993-3f9c2058572a

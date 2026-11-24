@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DiagDom_perturb_bound
 -- name    : GlobalTheory.CompanionTheory.DiagDom.perturb_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:35:22.599634+00:00
 -- url     : https://prove2.me/theorems/774f6ecd-4835-479a-8d06-87e32007c36f

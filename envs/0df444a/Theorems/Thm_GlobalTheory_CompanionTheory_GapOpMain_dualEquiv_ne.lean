@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpMain_dualEquiv_ne
 -- name    : GlobalTheory.CompanionTheory.GapOpMain.dualEquiv_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:42:08.210145+00:00
 -- url     : https://prove2.me/theorems/f703d0bc-0326-405b-9164-e6e987e8b27c

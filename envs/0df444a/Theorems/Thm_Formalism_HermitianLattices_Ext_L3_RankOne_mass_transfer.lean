@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_mass_transfer
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.mass_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:29.609965+00:00
 -- url     : https://prove2.me/theorems/ef04cef7-98bd-4d4e-b7b2-62c3a42f1b55

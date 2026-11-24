@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_StableRangeOne_exists_unit_pivot
 -- name    : GlobalTheory.CompanionTheory.Adelic.StableRangeOne.exists_unit_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:16:01.533806+00:00
 -- url     : https://prove2.me/theorems/b8f5d477-0c78-47fc-82a8-c11047b3e93e

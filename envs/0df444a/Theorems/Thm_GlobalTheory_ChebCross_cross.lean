@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChebCross_cross
 -- name    : GlobalTheory.ChebCross.cross
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:09:20.839403+00:00
 -- url     : https://prove2.me/theorems/81adaefa-dfe9-4c5b-b3cc-ea252ff9ebeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Glob_ResKCoords_isCoords_basicOpen_of_away
 -- name    : GlobalTheory.CompanionTheory.Glob.ResKCoords.isCoords_basicOpen_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:43:44.553003+00:00
 -- url     : https://prove2.me/theorems/4fbfd2ae-94d7-45ac-b87b-6a1225fba007

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJetA_lin_F
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJetA.lin_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:23:26.986925+00:00
 -- url     : https://prove2.me/theorems/29ff31bf-327e-4c77-a64a-6cd844a6a6d9

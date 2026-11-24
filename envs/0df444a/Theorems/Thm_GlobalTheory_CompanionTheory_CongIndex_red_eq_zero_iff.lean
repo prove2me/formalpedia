@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CongIndex_red_eq_zero_iff
 -- name    : GlobalTheory.CompanionTheory.CongIndex.red_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:33:20.771201+00:00
 -- url     : https://prove2.me/theorems/ac6e42f6-cfc7-4034-93a1-31aceecc7c61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ChainHighest_kRel_map
 -- name    : GlobalTheory.CompanionTheory.ChainHighest.kRel_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:33:32.397372+00:00
 -- url     : https://prove2.me/theorems/85502da1-a1db-44af-a11e-9de22b5ffe4a

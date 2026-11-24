@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_lt_of_global_min
 -- name    : GlobalTheory.ClassMin.lt_of_global_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:11:13.578255+00:00
 -- url     : https://prove2.me/theorems/5b9fbc8c-d2c4-4cbf-b313-9eea99ddb2f6

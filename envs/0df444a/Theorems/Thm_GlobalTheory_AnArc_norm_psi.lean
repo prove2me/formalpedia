@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_norm_psi
 -- name    : GlobalTheory.AnArc.norm_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:56:52.03992+00:00
 -- url     : https://prove2.me/theorems/b6f886f3-e2b8-4505-9e52-71720718fcd1

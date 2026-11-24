@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRig_exists_gen_pull
 -- name    : GlobalTheory.ChartRig.exists_gen_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:59:04.236779+00:00
 -- url     : https://prove2.me/theorems/90bc390b-d6a1-4bac-a0d7-17a58282dabb

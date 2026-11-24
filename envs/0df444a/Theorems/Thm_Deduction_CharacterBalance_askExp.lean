@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_CharacterBalance_askExp
 -- name    : Deduction.CharacterBalance.askExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:33:58.151902+00:00
 -- url     : https://prove2.me/theorems/6f0a523a-b4c8-4ba4-a1d6-339ccc4da031

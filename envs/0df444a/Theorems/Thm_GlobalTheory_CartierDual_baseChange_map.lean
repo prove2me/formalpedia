@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CartierDual_baseChange_map
 -- name    : GlobalTheory.CartierDual.baseChange_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:24:36.660925+00:00
 -- url     : https://prove2.me/theorems/4aee6548-6130-474b-83fe-30bf26cadb43

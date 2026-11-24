@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockInvertibleLocal_exists_isUnit_det_add_mul
 -- name    : GlobalTheory.BlockInvertibleLocal.exists_isUnit_det_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:01:09.215988+00:00
 -- url     : https://prove2.me/theorems/a8467b64-4e3e-4119-b368-f098031871f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrameTorus_gens_induction
 -- name    : GlobalTheory.CompanionTheory.FrameTorus.gens_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:40:27.460019+00:00
 -- url     : https://prove2.me/theorems/68108659-b0d2-41b4-a609-7e145f12dee9

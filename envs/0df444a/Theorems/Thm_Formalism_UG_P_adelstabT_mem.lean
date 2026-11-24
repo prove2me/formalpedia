@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_adelstabT_mem
 -- name    : Formalism.UG.P.adelstabT_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:13:47.262879+00:00
 -- url     : https://prove2.me/theorems/06513b46-b737-4372-b298-fa5441a9c20e

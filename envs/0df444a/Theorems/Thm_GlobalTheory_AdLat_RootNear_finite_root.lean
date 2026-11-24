@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_RootNear_finite_root
 -- name    : GlobalTheory.AdLat.RootNear.finite_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:54:55.907752+00:00
 -- url     : https://prove2.me/theorems/b313ebea-f874-4ebc-ba57-851a42729420

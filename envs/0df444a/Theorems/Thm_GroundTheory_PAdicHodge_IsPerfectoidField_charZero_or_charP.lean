@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_charZero_or_charP
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.charZero_or_charP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:24:11.822748+00:00
 -- url     : https://prove2.me/theorems/15a0e7af-e8a1-4b0c-bcf5-fa235656bbe2

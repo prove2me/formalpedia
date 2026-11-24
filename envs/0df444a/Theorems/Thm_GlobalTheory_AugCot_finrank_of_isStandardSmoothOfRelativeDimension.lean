@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_finrank_of_isStandardSmoothOfRelativeDimension
 -- name    : GlobalTheory.AugCot.finrank_of_isStandardSmoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:45:23.109359+00:00
 -- url     : https://prove2.me/theorems/bc1413c2-d610-44b1-805b-a9ff84242951

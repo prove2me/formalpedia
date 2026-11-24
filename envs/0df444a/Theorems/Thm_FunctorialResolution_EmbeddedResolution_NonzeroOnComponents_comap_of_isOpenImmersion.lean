@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_NonzeroOnComponents_comap_of_isOpenImmersion
 -- name    : FunctorialResolution.EmbeddedResolution.NonzeroOnComponents.comap_of_isOpenImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:45:55.09201+00:00
 -- url     : https://prove2.me/theorems/7ed6fb70-7b80-4c77-8d58-c3f3ab48c2d7

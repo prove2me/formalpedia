@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_mem_UJ_iff
 -- name    : GlobalTheory.ClassParam.mem_UJ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:17.63028+00:00
 -- url     : https://prove2.me/theorems/30867e0d-291c-4325-88f7-fe3b3942d15a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommStep_commute_of_mem_adjoin
 -- name    : GlobalTheory.CompanionTheory.CommStep.commute_of_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:32:59.951102+00:00
 -- url     : https://prove2.me/theorems/4b5732f4-2c13-4675-bcc7-58ad5c505aa0

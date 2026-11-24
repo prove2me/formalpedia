@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_facet_lintegral_sum_le_gaussianPerimeter
 -- name    : GaussianPerimeter.facet_lintegral_sum_le_gaussianPerimeter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:10:54.461029+00:00
 -- url     : https://prove2.me/theorems/943c4731-3ec7-48eb-bed9-7e6c53963f62

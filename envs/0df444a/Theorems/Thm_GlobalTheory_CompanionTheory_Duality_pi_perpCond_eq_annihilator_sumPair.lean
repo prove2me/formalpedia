@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Duality_pi_perpCond_eq_annihilator_sumPair
 -- name    : GlobalTheory.CompanionTheory.Duality.pi_perpCond_eq_annihilator_sumPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:37:27.197838+00:00
 -- url     : https://prove2.me/theorems/336544d9-c9a6-40e8-862b-5cdf517856ad

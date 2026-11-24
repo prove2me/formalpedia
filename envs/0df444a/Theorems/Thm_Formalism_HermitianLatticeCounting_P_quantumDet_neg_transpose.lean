@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_quantumDet_neg_transpose
 -- name    : Formalism.HermitianLatticeCounting.P.quantumDet_neg_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:19.434135+00:00
 -- url     : https://prove2.me/theorems/71c8d427-fd44-4011-af17-ce408c8c167e

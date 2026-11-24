@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLattice_exists_basis_of_cmType
 -- name    : GlobalTheory.CMLattice.exists_basis_of_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:32:36.671743+00:00
 -- url     : https://prove2.me/theorems/802eb417-4bd2-4beb-81d0-d4cc669c1cf2

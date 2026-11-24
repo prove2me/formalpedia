@@ -1722,9 +1722,9 @@
 {"parent": "QEC.Coding.BalancedProduct.PKDistance.cyclicShift_one", "child": "QEC_Coding_BalancedProduct_PKDistance", "via": ["solution", "statement"]}
 {"parent": "OAI.ShortDraftHeckeBridge.pair_zero_free_of_normFiber_continuation_principal_left", "child": "OAI_NumberTheory_DirichletL_Mellin_LocalNonvanishing", "via": ["solution", "statement"]}
 {"parent": "OAI.ShortDraftHeckeBridge.pair_zero_free_of_normFiber_continuation_principal_left", "child": "OAI_NumberTheory_DirichletL_GaussSum_ThetaLocalRows", "via": ["solution", "statement"]}
-{"parent": "FanInSemigroup.lemma_2_4", "child": "FanInSemigroup_IsNoncounting", "via": ["statement"]}
-{"parent": "FanInSemigroup.lemma_2_4", "child": "FanInSemigroup_wordLanguage", "via": ["statement"]}
-{"parent": "FanInSemigroup.lemma_2_4", "child": "FanInSemigroup_IsGroupfree", "via": ["statement"]}
+{"parent": "FanInSemigroup.lemma_2_4", "child": "FanInSemigroup_IsNoncounting", "via": ["solution", "statement"]}
+{"parent": "FanInSemigroup.lemma_2_4", "child": "FanInSemigroup_wordLanguage", "via": ["solution", "statement"]}
+{"parent": "FanInSemigroup.lemma_2_4", "child": "FanInSemigroup_IsGroupfree", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_HighDimensionalExpander_Hecke_CartanDecomposition", "child": "QEC_Coding_HighDimensionalExpander_Hecke_SphericalHecke", "via": ["statement"]}
 {"parent": "QEC_Coding_HighDimensionalExpander_Hecke_CartanDecomposition", "child": "QEC.Coding.HighDimensionalExpander.SphericalHecke.diagonalGeneralLinear_apply", "via": ["statement"]}
 {"parent": "QEC_Coding_HighDimensionalExpander_Hecke_CartanDecomposition", "child": "QEC.Coding.HighDimensionalExpander.SphericalHecke.coe_uniformizerUnit", "via": ["statement"]}

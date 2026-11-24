@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BSP_DiscDomain_isDomain_disc
 -- name    : GlobalTheory.BSP.DiscDomain.isDomain_disc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:00:27.671947+00:00
 -- url     : https://prove2.me/theorems/b67cef05-372d-491e-b560-6e67356c6e9e

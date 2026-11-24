@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ideal_norm_le_count
 -- name    : Formalism.HermitianLatticeCounting.P.ideal_norm_le_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:49.06882+00:00
 -- url     : https://prove2.me/theorems/596b3b78-3aaf-40f7-8bcf-83a07095161c

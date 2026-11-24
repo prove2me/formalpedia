@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BLevel_isCompact_intS
 -- name    : GlobalTheory.CompanionTheory.BLevel.isCompact_intS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:21:27.677886+00:00
 -- url     : https://prove2.me/theorems/42f2ff37-950c-4470-a5c3-f4c2b91bcc38

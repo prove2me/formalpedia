@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_LatSum_card_reps
 -- name    : GlobalTheory.CompanionTheory.Equi.LatSum.card_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:39:00.105631+00:00
 -- url     : https://prove2.me/theorems/96d9c4bb-8eb6-4477-a403-5da7dadc5be7

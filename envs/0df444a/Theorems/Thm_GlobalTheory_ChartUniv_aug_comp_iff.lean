@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartUniv_aug_comp_iff
 -- name    : GlobalTheory.ChartUniv.aug_comp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:10:29.133339+00:00
 -- url     : https://prove2.me/theorems/c0945a75-67af-4508-ab9b-d03ce451979e

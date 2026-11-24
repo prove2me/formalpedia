@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_rectShift
 -- name    : Formalism.ZF.rectShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:41:44.279004+00:00
 -- url     : https://prove2.me/theorems/241cd1cb-fd54-4172-ac64-f7fbe730859b

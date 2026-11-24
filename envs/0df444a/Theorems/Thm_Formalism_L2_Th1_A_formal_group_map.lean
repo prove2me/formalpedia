@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_formal_group_map
 -- name    : Formalism.L2.Th1.A.formal_group_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:33.964804+00:00
 -- url     : https://prove2.me/theorems/3cf8472a-7568-47a2-95eb-49541943169e

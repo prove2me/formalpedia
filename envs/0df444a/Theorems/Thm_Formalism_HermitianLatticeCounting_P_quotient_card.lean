@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_quotient_card
 -- name    : Formalism.HermitianLatticeCounting.P.quotient_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:51.409533+00:00
 -- url     : https://prove2.me/theorems/90c5f5f1-ecdb-42c2-8483-82ae0a39b962

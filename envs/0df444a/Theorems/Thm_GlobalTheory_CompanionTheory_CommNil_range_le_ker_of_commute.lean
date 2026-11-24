@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommNil_range_le_ker_of_commute
 -- name    : GlobalTheory.CompanionTheory.CommNil.range_le_ker_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:34:03.276202+00:00
 -- url     : https://prove2.me/theorems/54f0558e-4c77-463d-82d8-97b1998ef225

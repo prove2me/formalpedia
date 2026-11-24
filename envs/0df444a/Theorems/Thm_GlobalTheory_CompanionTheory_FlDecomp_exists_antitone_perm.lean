@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_exists_antitone_perm
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.exists_antitone_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:41:18.085783+00:00
 -- url     : https://prove2.me/theorems/80640b4b-7c9b-42ab-99a7-663e07ec3b88

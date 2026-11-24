@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommNil_finrank_map_le_of_ker
 -- name    : GlobalTheory.CompanionTheory.CommNil.finrank_map_le_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:46.616264+00:00
 -- url     : https://prove2.me/theorems/59dd7435-d684-499f-b693-49d3a99acc11

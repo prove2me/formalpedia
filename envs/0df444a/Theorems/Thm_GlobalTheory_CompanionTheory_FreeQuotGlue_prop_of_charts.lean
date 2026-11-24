@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_prop_of_charts
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.prop_of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:41:24.274688+00:00
 -- url     : https://prove2.me/theorems/43569197-6bce-48cf-a790-8d658a4bb0c5

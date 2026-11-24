@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTS_sqAct_mem_delSq
 -- name    : PI.GTS.sqAct_mem_delSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:16.257939+00:00
 -- url     : https://prove2.me/theorems/dc1225cb-04c3-4cf7-b8c7-24a8810b3bda

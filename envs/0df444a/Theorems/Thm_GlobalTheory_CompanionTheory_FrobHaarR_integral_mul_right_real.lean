@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobHaarR_integral_mul_right_real
 -- name    : GlobalTheory.CompanionTheory.FrobHaarR.integral_mul_right_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:42:57.968373+00:00
 -- url     : https://prove2.me/theorems/b93943b5-9af1-43fb-aae4-7cf26dbcd123

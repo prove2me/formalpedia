@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_CosetStep_mem_pow_of_val_le
 -- name    : GlobalTheory.CompanionTheory.Equi.CosetStep.mem_pow_of_val_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:38:32.840127+00:00
 -- url     : https://prove2.me/theorems/33b770b0-3261-4a3a-8c2e-c3b3deac59c2

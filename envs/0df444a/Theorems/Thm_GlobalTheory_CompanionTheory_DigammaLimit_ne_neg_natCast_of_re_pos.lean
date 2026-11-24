@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLimit_ne_neg_natCast_of_re_pos
 -- name    : GlobalTheory.CompanionTheory.DigammaLimit.ne_neg_natCast_of_re_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:35:16.196842+00:00
 -- url     : https://prove2.me/theorems/83705799-d0a1-4174-be97-c585bcdabf6c

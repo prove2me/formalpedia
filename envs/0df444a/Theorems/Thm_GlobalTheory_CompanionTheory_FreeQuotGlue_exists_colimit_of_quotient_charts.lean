@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_exists_colimit_of_quotient_charts
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.exists_colimit_of_quotient_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:41:21.129594+00:00
 -- url     : https://prove2.me/theorems/d37b1d87-0f68-4c51-be73-99819c7d91ae

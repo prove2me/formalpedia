@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FanInSemigroup_lemma_2_4
 -- name    : FanInSemigroup.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:33:35.971552+00:00
 -- url     : https://prove2.me/theorems/c42f02d5-f8af-4ae4-89ff-10bb07ef6363

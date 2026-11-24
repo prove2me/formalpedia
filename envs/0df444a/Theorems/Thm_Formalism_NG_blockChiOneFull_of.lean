@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_blockChiOneFull_of
 -- name    : Formalism.NG.blockChiOneFull_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:16:15.112533+00:00
 -- url     : https://prove2.me/theorems/25f12c19-2bbb-4300-bdda-7901493c0ef3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_dsW_cons
 -- name    : CompanionTheory.D.Upq.Sm.dsW_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:24:43.79245+00:00
 -- url     : https://prove2.me/theorems/1b604435-4343-4beb-ae49-8a372ca09181

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedBallValuationSubring_mem_openBallIdeal_iff_not_isUnit
 -- name    : GlobalTheory.ClosedBallValuationSubring.mem_openBallIdeal_iff_not_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:12:49.329804+00:00
 -- url     : https://prove2.me/theorems/258b6665-9530-47e2-880f-ccdcbb137e82

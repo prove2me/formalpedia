@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_prime_charOf_of_ne_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.prime_charOf_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:18:52.337837+00:00
 -- url     : https://prove2.me/theorems/5c080216-02a1-42da-8157-86f7cadf60c8

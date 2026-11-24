@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactQuotientFourier_setIntegral_translate
 -- name    : GlobalTheory.CompactQuotientFourier.setIntegral_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:11.410064+00:00
 -- url     : https://prove2.me/theorems/4d5b0a40-acab-4197-999a-f818355dd8ee

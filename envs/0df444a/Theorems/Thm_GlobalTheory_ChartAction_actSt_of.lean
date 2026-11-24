@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartAction_actSt_of
 -- name    : GlobalTheory.ChartAction.actSt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:10:58.398795+00:00
 -- url     : https://prove2.me/theorems/561fbcbc-d115-4027-8bb3-7221c92dcd31

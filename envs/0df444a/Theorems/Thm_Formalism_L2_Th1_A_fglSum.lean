@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_fglSum
 -- name    : Formalism.L2.Th1.A.fglSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:51.644803+00:00
 -- url     : https://prove2.me/theorems/9d0a23f7-dd68-4e31-a37a-8edd3053d96c

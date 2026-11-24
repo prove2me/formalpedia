@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_evC_mk
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.evC_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:20:36.147012+00:00
 -- url     : https://prove2.me/theorems/917472f1-994c-4df5-a2d6-c80a22abe992

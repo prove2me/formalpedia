@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_DiscCover_isCompact_inter_of_cut
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.DiscCover.isCompact_inter_of_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:32:41.982538+00:00
 -- url     : https://prove2.me/theorems/b2936bd3-20fd-4b51-b804-57541784c2c8

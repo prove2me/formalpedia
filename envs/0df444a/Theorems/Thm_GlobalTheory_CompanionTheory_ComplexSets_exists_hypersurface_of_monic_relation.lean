@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_exists_hypersurface_of_monic_relation
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.exists_hypersurface_of_monic_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:33:12.236685+00:00
 -- url     : https://prove2.me/theorems/a852589a-ee5f-4b95-9275-d7eac874069d

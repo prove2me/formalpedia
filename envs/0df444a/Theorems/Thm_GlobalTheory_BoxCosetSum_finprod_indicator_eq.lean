@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCosetSum_finprod_indicator_eq
 -- name    : GlobalTheory.BoxCosetSum.finprod_indicator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:02:39.042775+00:00
 -- url     : https://prove2.me/theorems/4b11c6e0-c482-4e77-ac1a-e691a931a130

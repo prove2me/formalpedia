@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_coe_restrictAut
 -- name    : GroundTheory.PAdicHodge.coe_restrictAut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:18:42.730975+00:00
 -- url     : https://prove2.me/theorems/88acadc8-8cf2-4a84-9ec9-c66e19d806a8

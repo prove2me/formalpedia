@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CharacterBiduality_fourier_sub_translate_eq_zero
 -- name    : GlobalTheory.CompanionTheory.CharacterBiduality.fourier_sub_translate_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:34.789771+00:00
 -- url     : https://prove2.me/theorems/8cbab2fa-5dbd-4aad-8265-c9864adc539b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_Chart_specHom_surjective
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.Chart.specHom_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:43:06.188273+00:00
 -- url     : https://prove2.me/theorems/77169e97-3515-42f5-970d-d6ca006a54e2

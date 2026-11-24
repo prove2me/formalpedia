@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_isBaseCond_pow
 -- name    : GlobalTheory.CMVal.Model.isBaseCond_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:00:34.918213+00:00
 -- url     : https://prove2.me/theorems/5a95df5e-9392-4c4f-9f1e-a88aed8eaaaa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_pairwise_disjoint_cell
 -- name    : GlobalTheory.GLDoubling.pairwise_disjoint_cell
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:59:12.275682+00:00
 -- url     : https://prove2.me/theorems/63629c82-078f-4a1d-a410-e8133a2adeaa

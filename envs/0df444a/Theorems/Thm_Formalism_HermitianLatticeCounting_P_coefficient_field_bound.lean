@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_coefficient_field_bound
 -- name    : Formalism.HermitianLatticeCounting.P.coefficient_field_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:00.539942+00:00
 -- url     : https://prove2.me/theorems/9f40c994-43c1-41ab-be92-f17e4eb21f67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dblock_ComapLat_comap_mulVec_compact_open
 -- name    : GlobalTheory.CompanionTheory.Dblock.ComapLat.comap_mulVec_compact_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:35:07.752129+00:00
 -- url     : https://prove2.me/theorems/3e75eff9-c592-4af3-a157-0a39e714862c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_E1_vecInner_of_kerBasic
 -- name    : GlobalTheory.CompanionTheory.E1.vecInner_of_kerBasic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:37:02.720016+00:00
 -- url     : https://prove2.me/theorems/d7f5a59c-26f0-468c-b439-aa2b3dc252e3

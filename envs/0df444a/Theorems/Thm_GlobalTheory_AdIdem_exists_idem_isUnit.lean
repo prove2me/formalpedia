@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdIdem_exists_idem_isUnit
 -- name    : GlobalTheory.AdIdem.exists_idem_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:53:25.650927+00:00
 -- url     : https://prove2.me/theorems/777d1c64-20f6-4801-9265-eee0add2f4eb

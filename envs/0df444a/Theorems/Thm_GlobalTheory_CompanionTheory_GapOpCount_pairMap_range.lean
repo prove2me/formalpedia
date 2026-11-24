@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpCount_pairMap_range
 -- name    : GlobalTheory.CompanionTheory.GapOpCount.pairMap_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:42:43.534528+00:00
 -- url     : https://prove2.me/theorems/4272d39c-81a8-4b62-901c-10a6e88a272f

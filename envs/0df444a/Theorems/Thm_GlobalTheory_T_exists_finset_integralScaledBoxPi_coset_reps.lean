@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finset_integralScaledBoxPi_coset_reps
 -- name    : GlobalTheory.T.exists_finset_integralScaledBoxPi_coset_reps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:39.806804+00:00
 -- url     : https://prove2.me/theorems/b875dd3d-60e7-4e09-9ec7-b3ed6c122e69

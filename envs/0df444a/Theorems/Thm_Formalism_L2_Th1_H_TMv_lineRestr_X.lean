@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TMv_lineRestr_X
 -- name    : Formalism.L2.Th1.H.TMv.lineRestr_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:22:57.889084+00:00
 -- url     : https://prove2.me/theorems/70889e0b-4774-4894-b635-61beccb1f3d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_segre_blockScale
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.segre_blockScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:19:32.088671+00:00
 -- url     : https://prove2.me/theorems/105a0db2-9266-42cc-bcc6-c4706b1e0f1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_mem_lattice
 -- name    : GlobalTheory.CompanionTheory.Equi.mem_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:38:07.361199+00:00
 -- url     : https://prove2.me/theorems/19a0432b-7323-4888-89cc-6618ecf1c457

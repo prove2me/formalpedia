@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_claimA_straightening
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.claimA_straightening
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:55:01.973886+00:00
 -- url     : https://prove2.me/theorems/5ed8ccb6-b265-4d2d-bd9c-c336b68f5194

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BruhatInv_rank_cut_le
 -- name    : GlobalTheory.CompanionTheory.BruhatInv.rank_cut_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:03.385274+00:00
 -- url     : https://prove2.me/theorems/c707124b-5446-4aa7-a9ae-d6de50b107f2

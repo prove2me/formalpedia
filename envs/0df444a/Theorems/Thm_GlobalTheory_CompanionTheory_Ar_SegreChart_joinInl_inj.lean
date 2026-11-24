@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_joinInl_inj
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.joinInl_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:20:43.75347+00:00
 -- url     : https://prove2.me/theorems/42565591-93e3-43f6-bedc-87a76941308f

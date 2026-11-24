@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_high_smul
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_high_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:16:12.241538+00:00
 -- url     : https://prove2.me/theorems/d553556b-39e3-4a02-830f-e9490cba17bc

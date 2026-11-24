@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagTrdeg_card_below_diagonal
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagTrdeg.card_below_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:17:37.079414+00:00
 -- url     : https://prove2.me/theorems/95d06bf0-ec95-4ab5-ab5e-12ae168f3d17

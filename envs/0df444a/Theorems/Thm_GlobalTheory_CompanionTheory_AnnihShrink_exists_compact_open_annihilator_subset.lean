@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnnihShrink_exists_compact_open_annihilator_subset
 -- name    : GlobalTheory.CompanionTheory.AnnihShrink.exists_compact_open_annihilator_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:28.418016+00:00
 -- url     : https://prove2.me/theorems/378759a4-4258-4b35-8088-e1f6b55cf991

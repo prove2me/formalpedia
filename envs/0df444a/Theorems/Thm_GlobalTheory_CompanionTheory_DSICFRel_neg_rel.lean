@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICFRel_neg_rel
 -- name    : GlobalTheory.CompanionTheory.DSICFRel.neg_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:35:40.280794+00:00
 -- url     : https://prove2.me/theorems/ac87ceaa-6e6d-4183-9c7c-a0ed42c0e426

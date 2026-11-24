@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BigCell_fourier_prod_symm_preserving
 -- name    : GlobalTheory.CompanionTheory.BigCell.fourier_prod_symm_preserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:20:46.710489+00:00
 -- url     : https://prove2.me/theorems/74765d86-d00d-4081-bbac-7edd97fa99e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GramWedge_norm_entry_le_sz
 -- name    : GlobalTheory.CompanionTheory.GramWedge.norm_entry_le_sz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:36.593727+00:00
 -- url     : https://prove2.me/theorems/8ca0762a-8174-4122-a470-b6ed3ec3d0a9

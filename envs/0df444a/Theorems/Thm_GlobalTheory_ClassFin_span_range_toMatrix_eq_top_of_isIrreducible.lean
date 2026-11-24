@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_span_range_toMatrix_eq_top_of_isIrreducible
 -- name    : GlobalTheory.ClassFin.span_range_toMatrix_eq_top_of_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:13:19.852522+00:00
 -- url     : https://prove2.me/theorems/37fd3835-b5c3-46e3-8070-94f9242e89c1

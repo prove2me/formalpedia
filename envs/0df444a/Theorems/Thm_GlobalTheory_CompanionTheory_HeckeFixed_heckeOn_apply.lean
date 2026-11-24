@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeFixed_heckeOn_apply
 -- name    : GlobalTheory.CompanionTheory.HeckeFixed.heckeOn_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:35.307841+00:00
 -- url     : https://prove2.me/theorems/57748d55-f077-4e60-a932-91e78cb3f53f

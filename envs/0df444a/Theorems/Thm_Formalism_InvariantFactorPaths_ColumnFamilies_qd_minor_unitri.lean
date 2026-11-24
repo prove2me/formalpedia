@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_minor_unitri
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_minor_unitri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:16:17.178954+00:00
 -- url     : https://prove2.me/theorems/746ddff7-d104-4790-9e3d-706ab28c782f

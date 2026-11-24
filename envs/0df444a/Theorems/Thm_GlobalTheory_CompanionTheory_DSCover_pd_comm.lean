@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSCover_pd_comm
 -- name    : GlobalTheory.CompanionTheory.DSCover.pd_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:34:38.742978+00:00
 -- url     : https://prove2.me/theorems/560e2361-4b7f-440d-b301-782f0dd188de

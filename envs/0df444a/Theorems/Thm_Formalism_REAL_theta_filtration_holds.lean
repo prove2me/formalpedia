@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_theta_filtration_holds
 -- name    : Formalism.REAL.theta_filtration_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:52:06.995703+00:00
 -- url     : https://prove2.me/theorems/bf953c21-072f-43be-b099-ccce20400e6d

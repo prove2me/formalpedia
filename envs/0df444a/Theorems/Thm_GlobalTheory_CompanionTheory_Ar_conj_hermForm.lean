@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_conj_hermForm
 -- name    : GlobalTheory.CompanionTheory.Ar.conj_hermForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:21:04.450813+00:00
 -- url     : https://prove2.me/theorems/d562f8d9-4f13-439f-a69f-7445aa23d2e9

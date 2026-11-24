@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_move_involutive
 -- name    : Formalism.HermitianLatticeCounting.P.move_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:03.61551+00:00
 -- url     : https://prove2.me/theorems/5fc3116f-3744-4326-b658-b4172b386670

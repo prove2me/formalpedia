@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FibreDensityLimit_exists_cutoffs
 -- name    : GlobalTheory.CompanionTheory.FibreDensityLimit.exists_cutoffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:39:22.107693+00:00
 -- url     : https://prove2.me/theorems/416ba91f-671f-4b7d-9977-f22c3372bb86

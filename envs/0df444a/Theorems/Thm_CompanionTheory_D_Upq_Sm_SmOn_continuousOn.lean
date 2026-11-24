@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_SmOn_continuousOn
 -- name    : CompanionTheory.D.Upq.Sm.SmOn.continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:24:23.966632+00:00
 -- url     : https://prove2.me/theorems/5da97720-148f-412c-a9ba-a820312d4a90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrameTorus_add_left
 -- name    : GlobalTheory.CompanionTheory.FrameTorus.add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:41:13.641729+00:00
 -- url     : https://prove2.me/theorems/4771cdbf-ff25-4afd-b3f8-df51a7b19698

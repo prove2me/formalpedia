@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_OrderUnits_root_of_unity_eq_one
 -- name    : GlobalTheory.CMVal.OrderUnits.root_of_unity_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:05:43.664311+00:00
 -- url     : https://prove2.me/theorems/ef660502-f15b-472a-97c9-ed04de80abe8

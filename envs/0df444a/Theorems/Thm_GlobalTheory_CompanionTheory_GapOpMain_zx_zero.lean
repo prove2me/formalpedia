@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpMain_zx_zero
 -- name    : GlobalTheory.CompanionTheory.GapOpMain.zx_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:44:44.374616+00:00
 -- url     : https://prove2.me/theorems/2fdf1806-243c-442a-9335-eb55787356e3

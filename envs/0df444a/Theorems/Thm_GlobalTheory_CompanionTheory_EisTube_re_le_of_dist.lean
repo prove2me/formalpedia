@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_re_le_of_dist
 -- name    : GlobalTheory.CompanionTheory.EisTube.re_le_of_dist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:37:04.818308+00:00
 -- url     : https://prove2.me/theorems/0cfcdea0-18f3-4c5b-b137-771afc10f9dd

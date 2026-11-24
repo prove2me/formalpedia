@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_natAbs_discr
 -- name    : Formalism.HF.P.natAbs_discr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:23.364659+00:00
 -- url     : https://prove2.me/theorems/c4ae0a72-35a3-4e9a-a8c0-f9943cfb54a8

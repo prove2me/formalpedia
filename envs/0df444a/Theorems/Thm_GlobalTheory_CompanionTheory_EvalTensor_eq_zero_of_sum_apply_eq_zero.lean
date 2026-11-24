@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EvalTensor_eq_zero_of_sum_apply_eq_zero
 -- name    : GlobalTheory.CompanionTheory.EvalTensor.eq_zero_of_sum_apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:38:19.202961+00:00
 -- url     : https://prove2.me/theorems/574ef839-ad7c-43f8-89a7-df4ee15db2b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_isMultiHomog_of_weighted
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.isMultiHomog_of_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:20:38.8343+00:00
 -- url     : https://prove2.me/theorems/cd147516-1af4-4350-894d-adf67d741005

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubeR_map_diff2
 -- name    : Formalism.L2.Th1.A.CubeR.map_diff2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:17:56.845369+00:00
 -- url     : https://prove2.me/theorems/ddfaf57d-f80e-49e5-a935-c5d999a8b0df

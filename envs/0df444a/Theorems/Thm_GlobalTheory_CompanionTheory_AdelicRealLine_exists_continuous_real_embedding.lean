@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdelicRealLine_exists_continuous_real_embedding
 -- name    : GlobalTheory.CompanionTheory.AdelicRealLine.exists_continuous_real_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:42.14412+00:00
 -- url     : https://prove2.me/theorems/602588db-69db-467a-be4e-91af160c34d0

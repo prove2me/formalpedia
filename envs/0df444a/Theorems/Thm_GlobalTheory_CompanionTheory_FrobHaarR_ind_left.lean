@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobHaarR_ind_left
 -- name    : GlobalTheory.CompanionTheory.FrobHaarR.ind_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:43:07.778845+00:00
 -- url     : https://prove2.me/theorems/b5035907-41e6-4cae-a69e-b5c361346394

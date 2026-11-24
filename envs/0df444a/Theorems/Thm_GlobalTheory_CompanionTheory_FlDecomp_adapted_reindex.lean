@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_adapted_reindex
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.adapted_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:41:33.477924+00:00
 -- url     : https://prove2.me/theorems/260c98a0-31ec-4328-9d16-aaf4ce618006

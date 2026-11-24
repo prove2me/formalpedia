@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussLevi_one_sub_mul_one_sub
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussLevi.one_sub_mul_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:38:38.27006+00:00
 -- url     : https://prove2.me/theorems/f9e33ee5-24ff-4cd6-a357-aa4a49f83fd7

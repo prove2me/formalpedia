@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_frobenius_eq_norm_sq
 -- name    : Formalism.REAL.frobenius_eq_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:23:21.52901+00:00
 -- url     : https://prove2.me/theorems/f7e6adc8-4408-4971-9818-7c67d034a1a3

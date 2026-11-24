@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_final_gaussOp
 -- name    : Formalism.ThetaLiftIndependence.final_gaussOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:29:45.86015+00:00
 -- url     : https://prove2.me/theorems/937789aa-be3e-4784-98f2-7df199554e4d

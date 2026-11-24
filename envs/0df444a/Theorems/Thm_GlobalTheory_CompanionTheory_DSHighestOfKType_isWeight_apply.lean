@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSHighestOfKType_isWeight_apply
 -- name    : GlobalTheory.CompanionTheory.DSHighestOfKType.isWeight_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:34:21.946152+00:00
 -- url     : https://prove2.me/theorems/68dee45e-ae61-4180-8987-1075a3475e84

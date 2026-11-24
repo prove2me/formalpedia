@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dblock_CentreBlocks_pow_apply_mem
 -- name    : GlobalTheory.CompanionTheory.Dblock.CentreBlocks.pow_apply_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:35:05.899269+00:00
 -- url     : https://prove2.me/theorems/b8363847-968a-4035-8948-0e3fb5c0f6fc

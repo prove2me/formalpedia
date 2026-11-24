@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_deep_units_pows
 -- name    : GlobalTheory.CNorm.deep_units_pows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:06:29.606354+00:00
 -- url     : https://prove2.me/theorems/3af32352-aba3-4458-be31-d3e1026cd898

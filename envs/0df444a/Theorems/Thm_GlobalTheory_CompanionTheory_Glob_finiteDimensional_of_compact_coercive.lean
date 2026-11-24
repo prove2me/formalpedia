@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Glob_finiteDimensional_of_compact_coercive
 -- name    : GlobalTheory.CompanionTheory.Glob.finiteDimensional_of_compact_coercive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:43:27.747374+00:00
 -- url     : https://prove2.me/theorems/f50ae78f-cc69-448e-b36b-8d873eb89cf7

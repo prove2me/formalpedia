@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_isMin_sE
 -- name    : GlobalTheory.CompanionTheory.DSUniq.isMin_sE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:35:47.29194+00:00
 -- url     : https://prove2.me/theorems/be5fdc00-2024-45de-89aa-86b430e97f7e

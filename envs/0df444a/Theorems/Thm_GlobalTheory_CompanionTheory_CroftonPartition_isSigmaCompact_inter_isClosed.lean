@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CroftonPartition_isSigmaCompact_inter_isClosed
 -- name    : GlobalTheory.CompanionTheory.CroftonPartition.isSigmaCompact_inter_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:34:07.147668+00:00
 -- url     : https://prove2.me/theorems/6803c61a-2d19-4e89-b00b-ff92c604522e

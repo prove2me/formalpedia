@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_exists_pi_entry_box
 -- name    : GlobalTheory.CompanionTheory.CartGL.exists_pi_entry_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:26:50.638338+00:00
 -- url     : https://prove2.me/theorems/3c536277-f937-45be-bd48-92e3f120a06d

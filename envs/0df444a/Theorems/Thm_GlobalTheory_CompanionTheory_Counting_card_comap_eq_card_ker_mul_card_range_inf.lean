@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Counting_card_comap_eq_card_ker_mul_card_range_inf
 -- name    : GlobalTheory.CompanionTheory.Counting.card_comap_eq_card_ker_mul_card_range_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:33:48.164802+00:00
 -- url     : https://prove2.me/theorems/827866d7-9390-419b-9316-96c333ab4717

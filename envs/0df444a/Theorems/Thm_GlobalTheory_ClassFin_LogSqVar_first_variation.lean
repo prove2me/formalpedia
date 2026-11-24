@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_LogSqVar_first_variation
 -- name    : GlobalTheory.ClassFin.LogSqVar.first_variation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:42:38.515806+00:00
 -- url     : https://prove2.me/theorems/f634829e-42a6-4519-be9e-b69ba6830e1c

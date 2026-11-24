@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAntipode_unop_ofFn_prod
 -- name    : GlobalTheory.CompanionTheory.CapelliAntipode.unop_ofFn_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:26:55.525819+00:00
 -- url     : https://prove2.me/theorems/ad0c06d0-9766-44dc-964c-fd238a7fd597

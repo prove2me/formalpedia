@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ChainCAR_tw_mul_self
 -- name    : GlobalTheory.CompanionTheory.ChainCAR.tw_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:33:12.14401+00:00
 -- url     : https://prove2.me/theorems/14eafa62-17c5-496b-a090-76359205fde7

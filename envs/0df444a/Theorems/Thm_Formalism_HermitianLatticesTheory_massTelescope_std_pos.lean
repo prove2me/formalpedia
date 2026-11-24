@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_massTelescope_std_pos
 -- name    : Formalism.HermitianLatticesTheory.massTelescope_std_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:37:26.988737+00:00
 -- url     : https://prove2.me/theorems/4dcca0a1-1ecf-426f-a658-59ed64dba4c7

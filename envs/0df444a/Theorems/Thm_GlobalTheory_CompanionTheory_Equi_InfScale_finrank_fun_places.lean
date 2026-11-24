@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_InfScale_finrank_fun_places
 -- name    : GlobalTheory.CompanionTheory.Equi.InfScale.finrank_fun_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:38:42.260012+00:00
 -- url     : https://prove2.me/theorems/4dca01f0-ff5d-402f-bb76-32af4381881c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpMain_zx_smul
 -- name    : GlobalTheory.CompanionTheory.GapOpMain.zx_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:44:21.413317+00:00
 -- url     : https://prove2.me/theorems/a79e289a-f2a7-4a0f-836b-be570d3cb5aa

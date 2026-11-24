@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbsFubini_memLp_lift
 -- name    : GlobalTheory.AbsFubini.memLp_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:11.914276+00:00
 -- url     : https://prove2.me/theorems/41e94a0f-f0cd-42bc-af24-c33a3bf1c4cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_mem_elimIdeal_iff_of_generic
 -- name    : GlobalTheory.Chow.mem_elimIdeal_iff_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:50.534926+00:00
 -- url     : https://prove2.me/theorems/fee0921d-f17c-4e12-9d08-61d820d81176

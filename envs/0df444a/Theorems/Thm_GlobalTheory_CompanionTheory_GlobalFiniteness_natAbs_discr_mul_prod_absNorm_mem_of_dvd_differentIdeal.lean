@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GlobalFiniteness_natAbs_discr_mul_prod_absNorm_mem_of_dvd_differentIdeal
 -- name    : GlobalTheory.CompanionTheory.GlobalFiniteness.natAbs_discr_mul_prod_absNorm_mem_of_dvd_differentIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:43:54.643693+00:00
 -- url     : https://prove2.me/theorems/808c1d33-6766-4b0c-ab3c-a94ecb4a2eba

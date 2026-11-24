@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_mem_mcPts_span
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.mem_mcPts_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:21:31.831048+00:00
 -- url     : https://prove2.me/theorems/b5cbd440-b0a9-4770-baac-5ad82a53b782

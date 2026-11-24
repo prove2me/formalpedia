@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_leadMinor_pos_of_posDef
 -- name    : GlobalTheory.CompanionTheory.Ar.leadMinor_pos_of_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:22:17.383344+00:00
 -- url     : https://prove2.me/theorems/8aceab35-51c1-45cd-971f-c1669bb27ac2

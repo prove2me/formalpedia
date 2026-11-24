@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_segForm_weighted
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.segForm_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:21:47.398878+00:00
 -- url     : https://prove2.me/theorems/0eb0f869-6435-498b-9c1d-2e2a1b6ce4cb

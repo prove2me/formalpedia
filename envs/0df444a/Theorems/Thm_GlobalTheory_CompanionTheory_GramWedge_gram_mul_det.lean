@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GramWedge_gram_mul_det
 -- name    : GlobalTheory.CompanionTheory.GramWedge.gram_mul_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:33.801804+00:00
 -- url     : https://prove2.me/theorems/16550c7d-48bb-4946-97ce-bf9e88f2d62b

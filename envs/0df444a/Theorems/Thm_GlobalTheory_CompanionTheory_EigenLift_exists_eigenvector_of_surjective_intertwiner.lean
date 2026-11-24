@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EigenLift_exists_eigenvector_of_surjective_intertwiner
 -- name    : GlobalTheory.CompanionTheory.EigenLift.exists_eigenvector_of_surjective_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:37:17.448983+00:00
 -- url     : https://prove2.me/theorems/1e6ce3b4-eaa1-43aa-9ecd-0fc4b04f06cc

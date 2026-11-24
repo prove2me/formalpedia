@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wlocal_map_weyl
 -- name    : Formalism.UG.P.wlocal_map_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:34:27.816507+00:00
 -- url     : https://prove2.me/theorems/d0335370-3791-4af0-9fa7-2d7fe6642f69

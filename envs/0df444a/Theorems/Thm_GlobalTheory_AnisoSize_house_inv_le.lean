@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnisoSize_house_inv_le
 -- name    : GlobalTheory.AnisoSize.house_inv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:58:18.959995+00:00
 -- url     : https://prove2.me/theorems/40ca8a8b-95aa-4036-99c6-c6d60227d704

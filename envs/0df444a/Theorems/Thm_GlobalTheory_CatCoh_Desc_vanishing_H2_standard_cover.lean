@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_vanishing_H2_standard_cover
 -- name    : GlobalTheory.CatCoh.Desc.vanishing_H2_standard_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:05:59.050512+00:00
 -- url     : https://prove2.me/theorems/f654bc94-e87e-4159-931d-15255e534e43

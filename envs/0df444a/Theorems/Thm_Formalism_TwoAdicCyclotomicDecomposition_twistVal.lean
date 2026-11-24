@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_twistVal
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.twistVal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:30.361963+00:00
 -- url     : https://prove2.me/theorems/eb446606-54be-4c54-ad40-ee8d7d538252

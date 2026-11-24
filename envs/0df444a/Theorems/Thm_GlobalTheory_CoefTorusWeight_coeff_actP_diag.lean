@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoefTorusWeight_coeff_actP_diag
 -- name    : GlobalTheory.CoefTorusWeight.coeff_actP_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:15:36.87223+00:00
 -- url     : https://prove2.me/theorems/b6ed31f1-f11e-421b-b284-82d520a802f4

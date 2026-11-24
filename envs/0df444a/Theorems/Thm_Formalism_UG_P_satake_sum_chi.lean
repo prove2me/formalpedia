@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_sum_chi
 -- name    : Formalism.UG.P.satake_sum_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:34:22.074059+00:00
 -- url     : https://prove2.me/theorems/a4acde05-419e-44ee-b15e-d9524ae0d419

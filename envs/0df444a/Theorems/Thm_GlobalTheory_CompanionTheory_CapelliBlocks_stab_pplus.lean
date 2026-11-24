@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliBlocks_stab_pplus
 -- name    : GlobalTheory.CompanionTheory.CapelliBlocks.stab_pplus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:26:56.92786+00:00
 -- url     : https://prove2.me/theorems/628cd3eb-2404-4208-b9b2-3f47ea7bdab6

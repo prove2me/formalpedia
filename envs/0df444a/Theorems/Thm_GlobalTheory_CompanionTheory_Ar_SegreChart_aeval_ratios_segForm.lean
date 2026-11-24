@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_aeval_ratios_segForm
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.aeval_ratios_segForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:20:54.22162+00:00
 -- url     : https://prove2.me/theorems/f435dcf4-2099-4914-ac93-c219f820346b

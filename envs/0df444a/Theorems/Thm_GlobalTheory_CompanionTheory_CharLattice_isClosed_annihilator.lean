@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CharLattice_isClosed_annihilator
 -- name    : GlobalTheory.CompanionTheory.CharLattice.isClosed_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:33:07.804454+00:00
 -- url     : https://prove2.me/theorems/42fcd91f-1c60-465a-bbe0-3e5f59ea8a9a

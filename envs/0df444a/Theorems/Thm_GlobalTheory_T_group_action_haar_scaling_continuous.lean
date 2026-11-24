@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_group_action_haar_scaling_continuous
 -- name    : GlobalTheory.T.group_action_haar_scaling_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:22.025796+00:00
 -- url     : https://prove2.me/theorems/7eff0300-b7c9-4a19-be74-b1259f1f9d90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_ind_restrict_eq_card_fixedBy_mul
 -- name    : GlobalTheory.BI.ind_restrict_eq_card_fixedBy_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:58:26.429184+00:00
 -- url     : https://prove2.me/theorems/58918690-4233-4517-988f-20028ec0ddb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CroftonPartition_isSigmaCompact_of_isOpen_compact
 -- name    : GlobalTheory.CompanionTheory.CroftonPartition.isSigmaCompact_of_isOpen_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:34:06.613185+00:00
 -- url     : https://prove2.me/theorems/fe52ba61-704a-4504-a270-7c4c76cdb204

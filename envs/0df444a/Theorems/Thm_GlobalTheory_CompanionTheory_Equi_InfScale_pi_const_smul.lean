@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_InfScale_pi_const_smul
 -- name    : GlobalTheory.CompanionTheory.Equi.InfScale.pi_const_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:38:54.000305+00:00
 -- url     : https://prove2.me/theorems/e9718873-5a0b-483e-bd46-a6dc13df25a7

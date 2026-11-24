@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_valuation_zpow_sub_one
 -- name    : Formalism.WindowSums.valuation_zpow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:32:34.118407+00:00
 -- url     : https://prove2.me/theorems/11ddc604-9e50-4466-afe6-d698d5142f3f

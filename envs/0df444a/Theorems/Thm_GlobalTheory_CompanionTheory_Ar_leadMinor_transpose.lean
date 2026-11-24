@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_leadMinor_transpose
 -- name    : GlobalTheory.CompanionTheory.Ar.leadMinor_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:21:47.423685+00:00
 -- url     : https://prove2.me/theorems/17c17f05-decd-4624-8a52-e7c433dfcacf

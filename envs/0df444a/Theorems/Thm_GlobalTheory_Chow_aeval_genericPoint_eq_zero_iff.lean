@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_aeval_genericPoint_eq_zero_iff
 -- name    : GlobalTheory.Chow.aeval_genericPoint_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:13:44.074316+00:00
 -- url     : https://prove2.me/theorems/f5769477-ca02-42e6-822a-f811366a18b6

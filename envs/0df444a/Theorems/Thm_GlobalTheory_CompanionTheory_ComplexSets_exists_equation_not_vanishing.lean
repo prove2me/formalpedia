@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_exists_equation_not_vanishing
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.exists_equation_not_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:33:00.242698+00:00
 -- url     : https://prove2.me/theorems/a5dd61fe-71fb-4b1d-beb8-87aecc0ef24b

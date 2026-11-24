@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_Chart_exists_openAction
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.Chart.exists_openAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:41:27.330592+00:00
 -- url     : https://prove2.me/theorems/cf180874-e9fa-4d4e-a0f8-18cdaade5e5c

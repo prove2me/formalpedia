@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BigCell_preimage_box_shrinking
 -- name    : GlobalTheory.CompanionTheory.BigCell.preimage_box_shrinking
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:21:03.097822+00:00
 -- url     : https://prove2.me/theorems/5c9be773-8ee5-4617-a20b-009c547ae110

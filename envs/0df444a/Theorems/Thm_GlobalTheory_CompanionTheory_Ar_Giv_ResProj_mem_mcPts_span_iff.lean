@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_ResProj_mem_mcPts_span_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.ResProj.mem_mcPts_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:41.694414+00:00
 -- url     : https://prove2.me/theorems/6da22bd9-f4a5-49cf-a9bf-8f5ba34e5466

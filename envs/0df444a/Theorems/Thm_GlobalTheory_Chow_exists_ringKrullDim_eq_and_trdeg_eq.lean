@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_exists_ringKrullDim_eq_and_trdeg_eq
 -- name    : GlobalTheory.Chow.exists_ringKrullDim_eq_and_trdeg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:54:05.307887+00:00
 -- url     : https://prove2.me/theorems/6b1a44d2-a743-40dd-be0b-2c635ac6bd2b

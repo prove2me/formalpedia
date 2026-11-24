@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Growth_lintegral_le_mul_of_encard_le
 -- name    : GlobalTheory.CompanionTheory.Growth.lintegral_le_mul_of_encard_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:44:58.953966+00:00
 -- url     : https://prove2.me/theorems/3db81bac-1e9d-44a3-9eef-f9c5bfe8dd33

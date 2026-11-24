@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlWitt_pair_form
 -- name    : GlobalTheory.CompanionTheory.FlWitt.pair_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:42:38.010796+00:00
 -- url     : https://prove2.me/theorems/b25eb214-421d-48b5-9906-28e271825f3f

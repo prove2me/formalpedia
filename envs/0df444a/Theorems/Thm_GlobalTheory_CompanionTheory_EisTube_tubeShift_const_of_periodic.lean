@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_tubeShift_const_of_periodic
 -- name    : GlobalTheory.CompanionTheory.EisTube.tubeShift_const_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:37:13.516797+00:00
 -- url     : https://prove2.me/theorems/dd155c99-d19b-4812-8262-6cc78310ef3d

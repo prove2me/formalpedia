@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BLevel_isNear_conj_iff
 -- name    : GlobalTheory.CompanionTheory.BLevel.isNear_conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:57.116207+00:00
 -- url     : https://prove2.me/theorems/bfe9a472-fa1d-4d80-829e-86085eb3689b

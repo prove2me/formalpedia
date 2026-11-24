@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Casselman_lt_one_of_inv_mul_sqrt_mul_rpow_two_lt_one
 -- name    : GlobalTheory.CompanionTheory.Casselman.lt_one_of_inv_mul_sqrt_mul_rpow_two_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:31:25.830246+00:00
 -- url     : https://prove2.me/theorems/69b0f94c-a286-4b28-bd44-36a4b1c2e6b4

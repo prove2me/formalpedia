@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoefEmbed_embedding_closed_integral
 -- name    : GlobalTheory.CoefEmbed.embedding_closed_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:58:42.76893+00:00
 -- url     : https://prove2.me/theorems/0a123ebe-14d8-4855-8e24-7dc0a04a5e0e

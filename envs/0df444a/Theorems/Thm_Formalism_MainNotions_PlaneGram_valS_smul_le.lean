@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_smul_le
 -- name    : Formalism.MainNotions.PlaneGram.valS_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:25.379843+00:00
 -- url     : https://prove2.me/theorems/934ef7da-7da8-452b-9b70-ff754051e615

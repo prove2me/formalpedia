@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanU_ind_antitone
 -- name    : GlobalTheory.CompanionTheory.CartanU.ind_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:31:00.217782+00:00
 -- url     : https://prove2.me/theorems/4c31ea4a-391c-4be1-8bd0-bf8d10001944

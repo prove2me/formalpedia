@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussRec_gaussTerm_mul
 -- name    : GlobalTheory.CompanionTheory.GaussRec.gaussTerm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:44:03.577297+00:00
 -- url     : https://prove2.me/theorems/a41ab56a-0484-48d5-baee-51865ef46c75

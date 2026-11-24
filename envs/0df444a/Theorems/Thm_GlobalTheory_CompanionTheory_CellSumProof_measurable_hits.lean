@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CellSumProof_measurable_hits
 -- name    : GlobalTheory.CompanionTheory.CellSumProof.measurable_hits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:32:20.954784+00:00
 -- url     : https://prove2.me/theorems/2c02a6ed-2420-492d-b7c7-0fd03da37168

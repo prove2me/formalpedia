@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_NonzeroOnComponents_comap_of_flat
 -- name    : FunctorialResolution.EmbeddedResolution.NonzeroOnComponents.comap_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:45:52.476075+00:00
 -- url     : https://prove2.me/theorems/3f51c290-ef29-4539-8025-db9a84a59258

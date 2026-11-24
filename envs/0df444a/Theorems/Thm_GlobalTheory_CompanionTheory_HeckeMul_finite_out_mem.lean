@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMul_finite_out_mem
 -- name    : GlobalTheory.CompanionTheory.HeckeMul.finite_out_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:46:22.283264+00:00
 -- url     : https://prove2.me/theorems/d5ba2f34-6d3b-4391-a0d4-604d70db1ad7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpLower_sum_line
 -- name    : GlobalTheory.CompanionTheory.GapOpLower.sum_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:42:45.111898+00:00
 -- url     : https://prove2.me/theorems/fa28621b-3508-45b4-ad0b-dbcfab289096

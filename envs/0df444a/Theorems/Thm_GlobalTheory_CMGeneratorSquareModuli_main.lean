@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMGeneratorSquareModuli_main
 -- name    : GlobalTheory.CMGeneratorSquareModuli.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:03:22.217268+00:00
 -- url     : https://prove2.me/theorems/2cfb8552-c879-4f26-a7d5-df8d8630fa1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chamber_IsPar_wt_ne_zero
 -- name    : GlobalTheory.Chamber.IsPar.wt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:07:43.955482+00:00
 -- url     : https://prove2.me/theorems/fb4526c5-47be-44f7-b60f-52050e112157

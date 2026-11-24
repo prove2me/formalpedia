@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_heckecomm_gelfand
 -- name    : Formalism.UG.P.heckecomm_gelfand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:52:26.79902+00:00
 -- url     : https://prove2.me/theorems/bb3b5899-620f-47ab-bc37-14451892fcff

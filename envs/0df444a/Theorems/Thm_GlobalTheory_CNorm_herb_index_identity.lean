@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_herb_index_identity
 -- name    : GlobalTheory.CNorm.herb_index_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:06:47.234768+00:00
 -- url     : https://prove2.me/theorems/1de8d52d-2330-41b9-aead-3395bdfa99c6

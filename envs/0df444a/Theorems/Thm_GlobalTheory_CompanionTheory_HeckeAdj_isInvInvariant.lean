@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeAdj_isInvInvariant
 -- name    : GlobalTheory.CompanionTheory.HeckeAdj.isInvInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:45:41.68166+00:00
 -- url     : https://prove2.me/theorems/0c8f334b-00c3-4feb-9f44-3c394603bd54

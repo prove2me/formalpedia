@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_exists_subfamily_no_containment
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.exists_subfamily_no_containment
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:33:16.511529+00:00
 -- url     : https://prove2.me/theorems/91a246a5-7690-49ea-9105-5862de3402c1

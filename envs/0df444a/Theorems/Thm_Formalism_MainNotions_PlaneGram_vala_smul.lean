@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_smul
 -- name    : Formalism.MainNotions.PlaneGram.vala_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:14:39.005431+00:00
 -- url     : https://prove2.me/theorems/27d1e4ca-8a24-4cd3-98fa-10b2fe7a64bc

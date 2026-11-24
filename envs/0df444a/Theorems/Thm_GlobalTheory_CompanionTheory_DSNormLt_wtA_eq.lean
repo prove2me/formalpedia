@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSNormLt_wtA_eq
 -- name    : GlobalTheory.CompanionTheory.DSNormLt.wtA_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:36:17.749839+00:00
 -- url     : https://prove2.me/theorems/c60c3c96-ab39-4c97-8255-60901900e643

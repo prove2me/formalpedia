@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AutQuotCheck_map_restrict_eq
 -- name    : GlobalTheory.AutQuotCheck.map_restrict_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:54.122913+00:00
 -- url     : https://prove2.me/theorems/09b9f6de-33a4-4735-98b4-eec9b735e6a6

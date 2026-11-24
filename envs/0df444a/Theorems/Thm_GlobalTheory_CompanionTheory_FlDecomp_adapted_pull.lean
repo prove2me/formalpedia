@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_adapted_pull
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.adapted_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:41:42.660909+00:00
 -- url     : https://prove2.me/theorems/f60230a6-8b41-4e8f-96c9-af84d5076779

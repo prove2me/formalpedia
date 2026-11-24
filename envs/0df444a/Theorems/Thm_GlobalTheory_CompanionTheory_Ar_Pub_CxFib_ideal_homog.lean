@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxFib_ideal_homog
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxFib.ideal_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:20:06.964346+00:00
 -- url     : https://prove2.me/theorems/0aa23c25-3626-4f22-9859-78edee51afd4

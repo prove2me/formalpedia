@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffSubring_exists_sub_mul_mem
 -- name    : GlobalTheory.CoeffSubring.exists_sub_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:02.385797+00:00
 -- url     : https://prove2.me/theorems/1f4ed7ec-7e35-460b-b518-aaeac4c99521

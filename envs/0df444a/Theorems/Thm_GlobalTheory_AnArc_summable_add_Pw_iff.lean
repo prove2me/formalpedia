@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_summable_add_Pw_iff
 -- name    : GlobalTheory.AnArc.summable_add_Pw_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:56:15.027968+00:00
 -- url     : https://prove2.me/theorems/eb03a668-465f-4397-876d-e6a472b09d13

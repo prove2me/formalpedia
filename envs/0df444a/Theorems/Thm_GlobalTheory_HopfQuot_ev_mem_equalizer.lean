@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_ev_mem_equalizer
 -- name    : GlobalTheory.HopfQuot.ev_mem_equalizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:18:50.029076+00:00
 -- url     : https://prove2.me/theorems/0aae5a48-7674-4f2e-9417-a8af3df08ca8

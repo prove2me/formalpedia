@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelModulus_delta_borelGL
 -- name    : GlobalTheory.BorelModulus.delta_borelGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:01:56.526346+00:00
 -- url     : https://prove2.me/theorems/9f576977-551d-4e80-be26-74f2d937d0c6

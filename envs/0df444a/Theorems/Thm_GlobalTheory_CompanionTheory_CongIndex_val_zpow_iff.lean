@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CongIndex_val_zpow_iff
 -- name    : GlobalTheory.CompanionTheory.CongIndex.val_zpow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:33:15.423076+00:00
 -- url     : https://prove2.me/theorems/7d4bc3c8-aa39-4228-88c6-77c0ba0e286b

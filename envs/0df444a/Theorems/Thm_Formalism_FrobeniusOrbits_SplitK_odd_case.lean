@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_SplitK_odd_case
 -- name    : Formalism.FrobeniusOrbits.SplitK.odd_case
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:04:31.433081+00:00
 -- url     : https://prove2.me/theorems/24a02dd3-753b-4e01-8269-21115a1dc921

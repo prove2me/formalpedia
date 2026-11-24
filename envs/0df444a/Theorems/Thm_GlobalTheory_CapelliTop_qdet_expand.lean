@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliTop_qdet_expand
 -- name    : GlobalTheory.CapelliTop.qdet_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:13.700869+00:00
 -- url     : https://prove2.me/theorems/bd409824-39f2-4393-8f30-72e229bc4231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CharLattice_annihilator_subset
 -- name    : GlobalTheory.CompanionTheory.CharLattice.annihilator_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:33:24.801188+00:00
 -- url     : https://prove2.me/theorems/46580b4a-fd8a-47a2-bd44-11f1fc136c1a

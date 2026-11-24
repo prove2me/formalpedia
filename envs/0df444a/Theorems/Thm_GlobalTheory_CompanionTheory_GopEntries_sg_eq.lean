@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GopEntries_sg_eq
 -- name    : GlobalTheory.CompanionTheory.GopEntries.sg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:35.169161+00:00
 -- url     : https://prove2.me/theorems/7e998d5b-1bc4-45bb-8fe9-326c6e6f4dc3

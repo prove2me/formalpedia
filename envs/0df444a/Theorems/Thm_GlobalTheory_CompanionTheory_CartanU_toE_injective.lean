@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanU_toE_injective
 -- name    : GlobalTheory.CompanionTheory.CartanU.toE_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:31:23.35481+00:00
 -- url     : https://prove2.me/theorems/b8770e7a-509a-4ed6-98cd-2274d0e274af

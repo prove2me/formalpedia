@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSChainAdj_sum_insert_erase
 -- name    : GlobalTheory.CompanionTheory.DSChainAdj.sum_insert_erase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:35:10.431184+00:00
 -- url     : https://prove2.me/theorems/a76bb6ac-9929-49c7-be3a-9634335cd238

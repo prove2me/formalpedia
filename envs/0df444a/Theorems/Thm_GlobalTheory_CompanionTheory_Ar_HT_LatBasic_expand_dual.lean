@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HT_LatBasic_expand_dual
 -- name    : GlobalTheory.CompanionTheory.Ar.HT.LatBasic.expand_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:18:56.696864+00:00
 -- url     : https://prove2.me/theorems/1b75414f-0d0f-405b-b290-faec071f020b

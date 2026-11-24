@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chevalley_isArtinian_quotient_smul_top
 -- name    : GlobalTheory.Chevalley.isArtinian_quotient_smul_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:10:25.033842+00:00
 -- url     : https://prove2.me/theorems/acec8d9b-4a53-4ca1-96c2-201a268ac67c

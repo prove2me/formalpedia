@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliBlocks_qminor_sum
 -- name    : GlobalTheory.CompanionTheory.CapelliBlocks.qminor_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:27:43.718052+00:00
 -- url     : https://prove2.me/theorems/48e6880e-bd42-412e-b98a-c10b7cf0ae5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommPairing_weilIs_symm
 -- name    : GlobalTheory.CommPairing.weilIs_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:40.245199+00:00
 -- url     : https://prove2.me/theorems/b4ee9e45-d56d-4be2-acc5-bc6d6cca0789

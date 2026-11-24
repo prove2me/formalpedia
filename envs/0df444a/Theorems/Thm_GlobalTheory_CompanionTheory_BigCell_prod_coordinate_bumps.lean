@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BigCell_prod_coordinate_bumps
 -- name    : GlobalTheory.CompanionTheory.BigCell.prod_coordinate_bumps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:27:04.034556+00:00
 -- url     : https://prove2.me/theorems/b5fb078f-bd0a-4015-b523-1606a7a32cd1

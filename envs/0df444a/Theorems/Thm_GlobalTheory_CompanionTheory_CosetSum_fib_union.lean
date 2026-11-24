@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CosetSum_fib_union
 -- name    : GlobalTheory.CompanionTheory.CosetSum.fib_union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:34:34.149832+00:00
 -- url     : https://prove2.me/theorems/4e9d2e0d-0c48-4252-9f4d-fe661a8b1f78

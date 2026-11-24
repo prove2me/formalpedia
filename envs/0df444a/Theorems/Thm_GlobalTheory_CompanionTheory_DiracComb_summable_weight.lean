@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DiracComb_summable_weight
 -- name    : GlobalTheory.CompanionTheory.DiracComb.summable_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:37:13.012583+00:00
 -- url     : https://prove2.me/theorems/cac15d69-9221-4770-a321-45f76b5f96e8

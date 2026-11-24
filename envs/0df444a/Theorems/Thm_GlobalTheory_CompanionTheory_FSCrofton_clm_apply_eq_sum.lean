@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_clm_apply_eq_sum
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.clm_apply_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:40:24.46456+00:00
 -- url     : https://prove2.me/theorems/095ffbae-a78f-420e-8e7c-72cea4f3acff

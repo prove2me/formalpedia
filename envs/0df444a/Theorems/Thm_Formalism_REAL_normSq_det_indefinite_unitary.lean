@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_normSq_det_indefinite_unitary
 -- name    : Formalism.REAL.normSq_det_indefinite_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:22:57.045243+00:00
 -- url     : https://prove2.me/theorems/5bfee1dc-0325-4c38-8db3-aaf45974568c

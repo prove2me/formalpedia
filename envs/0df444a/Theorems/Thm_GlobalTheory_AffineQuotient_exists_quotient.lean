@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineQuotient_exists_quotient
 -- name    : GlobalTheory.AffineQuotient.exists_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:54:35.171344+00:00
 -- url     : https://prove2.me/theorems/10e888d9-f8f5-44af-bafd-56e8574bb3eb

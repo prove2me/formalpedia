@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricDepthHierarchy_ConstantDepth_Supplement_proposition_7_5
 -- name    : SymmetricDepthHierarchy.ConstantDepth.Supplement.proposition_7_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T11:09:55.0055+00:00
 -- url     : https://prove2.me/theorems/6c17602b-e80f-49a8-9b52-038d449e4d96

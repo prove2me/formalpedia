@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_aeval_mem_int
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.aeval_mem_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:21:18.167795+00:00
 -- url     : https://prove2.me/theorems/b749513f-d220-444b-aa4a-9c9843d98bae

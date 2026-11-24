@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICKoszul_euler_ring
 -- name    : GlobalTheory.CompanionTheory.DSICKoszul.euler_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:35:17.776886+00:00
 -- url     : https://prove2.me/theorems/d37432c1-3f5a-4c2b-957b-21dc8b10fec2

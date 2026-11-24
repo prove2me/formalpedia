@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_ZUnit_mem_of_pow_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.ZUnit.mem_of_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:17:57.630452+00:00
 -- url     : https://prove2.me/theorems/28353602-e248-40eb-9e55-c4a847bc7bf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharacterConductorBall_exists_ball_trivial
 -- name    : GlobalTheory.CharacterConductorBall.exists_ball_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:09:52.704799+00:00
 -- url     : https://prove2.me/theorems/1eacb45e-b619-425f-a135-b655e740df16

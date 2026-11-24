@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_hessLog_normSq
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.hessLog_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:40:35.661644+00:00
 -- url     : https://prove2.me/theorems/6e1cbaf9-5e9b-4cb2-b08e-be06e4409325

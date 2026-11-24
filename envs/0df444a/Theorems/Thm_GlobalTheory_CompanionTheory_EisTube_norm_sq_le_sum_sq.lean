@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_norm_sq_le_sum_sq
 -- name    : GlobalTheory.CompanionTheory.EisTube.norm_sq_le_sum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:37:15.61485+00:00
 -- url     : https://prove2.me/theorems/f13e5439-243a-4ef0-8d6d-10a767c6a911

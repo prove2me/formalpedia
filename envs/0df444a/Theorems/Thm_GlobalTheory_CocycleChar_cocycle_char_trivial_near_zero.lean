@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CocycleChar_cocycle_char_trivial_near_zero
 -- name    : GlobalTheory.CocycleChar.cocycle_char_trivial_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:15:32.573211+00:00
 -- url     : https://prove2.me/theorems/44e24514-3d0e-4865-9cad-4c500cce6f11

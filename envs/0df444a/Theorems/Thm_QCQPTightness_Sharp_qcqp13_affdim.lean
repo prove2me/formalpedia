@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_Sharp_qcqp13_affdim
 -- name    : QCQPTightness.Sharp.qcqp13_affdim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:24:28.940993+00:00
 -- url     : https://prove2.me/theorems/ace142ba-3c07-4731-9881-417fb864fcf7

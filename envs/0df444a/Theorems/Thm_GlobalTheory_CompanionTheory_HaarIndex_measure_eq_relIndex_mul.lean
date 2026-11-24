@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HaarIndex_measure_eq_relIndex_mul
 -- name    : GlobalTheory.CompanionTheory.HaarIndex.measure_eq_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:44:59.01677+00:00
 -- url     : https://prove2.me/theorems/6ea2265c-fa59-4073-9ebb-5fb0141c5ce4

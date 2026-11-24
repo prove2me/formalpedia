@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CosetMod_sum_out
 -- name    : GlobalTheory.CompanionTheory.CosetMod.sum_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:34:48.030248+00:00
 -- url     : https://prove2.me/theorems/6451c402-9656-4ade-bba1-98fd4bf6fe06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaStrip_deriv_inv_Gamma_div
 -- name    : GlobalTheory.CompanionTheory.DigammaStrip.deriv_inv_Gamma_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:35:36.209309+00:00
 -- url     : https://prove2.me/theorems/11ef07dd-723f-4bf1-a27b-fb513754dd81

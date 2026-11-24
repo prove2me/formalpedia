@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GamDomProof_card_fst
 -- name    : GlobalTheory.CompanionTheory.GamDomProof.card_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:42:18.741007+00:00
 -- url     : https://prove2.me/theorems/18b9b5d0-258d-42cf-91a1-99b9a50e4596

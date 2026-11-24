@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLeft_norm_cos_le_of_im
 -- name    : GlobalTheory.CompanionTheory.DigammaLeft.norm_cos_le_of_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:35:07.004275+00:00
 -- url     : https://prove2.me/theorems/291182c8-acac-4f24-b332-cc9221138423

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EntrywiseCount_factor_le
 -- name    : GlobalTheory.CompanionTheory.EntrywiseCount.factor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:36:49.208802+00:00
 -- url     : https://prove2.me/theorems/ac53ffa5-b700-44e1-b126-bf901c8bac99

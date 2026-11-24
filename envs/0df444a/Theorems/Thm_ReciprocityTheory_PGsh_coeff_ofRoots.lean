@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_coeff_ofRoots
 -- name    : ReciprocityTheory.PGsh.coeff_ofRoots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:24:20.754647+00:00
 -- url     : https://prove2.me/theorems/40860ef2-c36b-4393-9e2a-f4a9d49dd6c1

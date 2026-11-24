@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_cosetOff_empty_eq_latCoset
 -- name    : GlobalTheory.CompanionTheory.Equi.cosetOff_empty_eq_latCoset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:38:49.142858+00:00
 -- url     : https://prove2.me/theorems/2e3cc098-7898-4814-bda0-bbddeee9c731

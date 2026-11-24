@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAntipode_arg_rev
 -- name    : GlobalTheory.CompanionTheory.CapelliAntipode.arg_rev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:26:58.727489+00:00
 -- url     : https://prove2.me/theorems/4f15c9e4-36e9-48e1-b9bd-13f99d1a7ee7

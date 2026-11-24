@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_Chart_exists_hopf
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.Chart.exists_hopf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:42:28.382771+00:00
 -- url     : https://prove2.me/theorems/48fd8632-d1a9-4d65-8b99-dafb6fa866eb

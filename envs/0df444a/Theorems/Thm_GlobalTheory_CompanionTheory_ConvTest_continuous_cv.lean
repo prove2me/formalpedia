@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ConvTest_continuous_cv
 -- name    : GlobalTheory.CompanionTheory.ConvTest.continuous_cv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:32:37.774267+00:00
 -- url     : https://prove2.me/theorems/c868c762-cc18-4750-8aad-925430ecb033

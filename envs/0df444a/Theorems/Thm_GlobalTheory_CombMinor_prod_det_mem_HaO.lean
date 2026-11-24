@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CombMinor_prod_det_mem_HaO
 -- name    : GlobalTheory.CombMinor.prod_det_mem_HaO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:15:13.536259+00:00
 -- url     : https://prove2.me/theorems/49ecc7c7-8e89-4d92-9a8d-98242d2e71e0

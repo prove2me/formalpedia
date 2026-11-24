@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinReversal_prod_filter_le_rev
 -- name    : GlobalTheory.CompanionTheory.FinReversal.prod_filter_le_rev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:41:27.4522+00:00
 -- url     : https://prove2.me/theorems/7285d9df-82f5-4ded-ae72-cbd313db284b

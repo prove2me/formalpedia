@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_mem_virt_iff_sub
 -- name    : GlobalTheory.BI.mem_virt_iff_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:06:30.432026+00:00
 -- url     : https://prove2.me/theorems/89196ea6-5f47-4353-ab6a-90732ef6be2e

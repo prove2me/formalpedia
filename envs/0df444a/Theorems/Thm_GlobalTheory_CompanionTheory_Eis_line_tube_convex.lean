@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Eis_line_tube_convex
 -- name    : GlobalTheory.CompanionTheory.Eis.line_tube_convex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:36:41.126619+00:00
 -- url     : https://prove2.me/theorems/77c08630-57c4-46a3-a734-32f95fadde88

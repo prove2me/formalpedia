@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_adjoin_ratios_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.adjoin_ratios_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:20:55.228242+00:00
 -- url     : https://prove2.me/theorems/119f2fba-0f5f-4068-9810-02ea43f1ca52

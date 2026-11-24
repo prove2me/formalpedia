@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BLevel_isInt_conj_iff
 -- name    : GlobalTheory.CompanionTheory.BLevel.isInt_conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:21:36.752811+00:00
 -- url     : https://prove2.me/theorems/5e1ca2e5-36b7-46d9-aba3-5770e48f34d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_isDerivedOn_of_isKMod
 -- name    : GlobalTheory.CompanionTheory.DSUniq.isDerivedOn_of_isKMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:36:49.930195+00:00
 -- url     : https://prove2.me/theorems/890e57c9-1b3b-470b-b1bc-10c6e452db52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_form_w
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.form_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:41:01.98381+00:00
 -- url     : https://prove2.me/theorems/6470d0f6-d1b8-452b-a6d9-79897cad31f9

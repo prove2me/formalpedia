@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CellSumProof_cnt_le_hits
 -- name    : GlobalTheory.CompanionTheory.CellSumProof.cnt_le_hits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:32:14.282289+00:00
 -- url     : https://prove2.me/theorems/055f3db0-e4b2-4c45-9ec3-4e9ff1c8bead

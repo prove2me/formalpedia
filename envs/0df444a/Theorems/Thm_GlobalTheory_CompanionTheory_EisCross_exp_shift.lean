@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisCross_exp_shift
 -- name    : GlobalTheory.CompanionTheory.EisCross.exp_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:36:58.125427+00:00
 -- url     : https://prove2.me/theorems/913e6df3-e7c9-4189-92e7-a9f2add3127d

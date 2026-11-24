@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CongIndex_red_surj
 -- name    : GlobalTheory.CompanionTheory.CongIndex.red_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:32:55.30395+00:00
 -- url     : https://prove2.me/theorems/2020e341-e0ab-4c00-b1e2-c59f9296d3a0

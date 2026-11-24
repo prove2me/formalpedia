@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_cayleyPhaseBasic
 -- name    : Formalism.L2.Th1.H.cayleyPhaseBasic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:29.903989+00:00
 -- url     : https://prove2.me/theorems/f10b05ad-b6ee-422f-ad05-4ee0a109da23

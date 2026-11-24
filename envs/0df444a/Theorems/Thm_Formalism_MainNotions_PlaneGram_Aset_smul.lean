@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_Aset_smul
 -- name    : Formalism.MainNotions.PlaneGram.Aset_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:04:07.162669+00:00
 -- url     : https://prove2.me/theorems/7141df7d-1d65-406c-86fa-fbfaddcee977

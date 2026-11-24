@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_IsSemi_law_iff
 -- name    : GlobalTheory.CompanionTheory.FinHeis.IsSemi.law_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:39:27.964798+00:00
 -- url     : https://prove2.me/theorems/afa96137-1f5c-482a-8024-ecc29879639c

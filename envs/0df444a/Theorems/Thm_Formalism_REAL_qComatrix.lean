@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_qComatrix
 -- name    : Formalism.REAL.qComatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:44.255023+00:00
 -- url     : https://prove2.me/theorems/acc9f6ae-8824-4ee2-a636-303b428ad5b8

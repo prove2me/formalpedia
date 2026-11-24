@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICFRel_lift_rel
 -- name    : GlobalTheory.CompanionTheory.DSICFRel.lift_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:34:51.506958+00:00
 -- url     : https://prove2.me/theorems/0092fbf8-c4bd-4a92-b3bf-1fe77f9eace2

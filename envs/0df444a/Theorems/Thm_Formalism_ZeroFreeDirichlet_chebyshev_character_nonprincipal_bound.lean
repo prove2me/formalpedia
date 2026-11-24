@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_chebyshev_character_nonprincipal_bound
 -- name    : Formalism.ZeroFreeDirichlet.chebyshev_character_nonprincipal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:43:42.315064+00:00
 -- url     : https://prove2.me/theorems/de141093-6bb8-4d4c-9783-c1af75797b39

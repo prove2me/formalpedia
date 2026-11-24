@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommSep_eq_aeval_of_commute_of_separable
 -- name    : GlobalTheory.CommSep.eq_aeval_of_commute_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:39:07.160467+00:00
 -- url     : https://prove2.me/theorems/24fa7052-24cb-4580-b972-bec89eb1cc92

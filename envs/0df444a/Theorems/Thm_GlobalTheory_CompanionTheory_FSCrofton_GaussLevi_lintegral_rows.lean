@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussLevi_lintegral_rows
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussLevi.lintegral_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:38:04.629386+00:00
 -- url     : https://prove2.me/theorems/d7a58632-974a-4deb-97da-0a70671fe1f1

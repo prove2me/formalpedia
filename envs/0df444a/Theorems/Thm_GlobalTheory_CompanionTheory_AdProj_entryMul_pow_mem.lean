@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdProj_entryMul_pow_mem
 -- name    : GlobalTheory.CompanionTheory.AdProj.entryMul_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:16:21.146863+00:00
 -- url     : https://prove2.me/theorems/1f25380f-36c7-427b-b505-0330a178e35d

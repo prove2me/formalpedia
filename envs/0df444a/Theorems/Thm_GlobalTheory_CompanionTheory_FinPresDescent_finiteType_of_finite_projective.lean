@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinPresDescent_finiteType_of_finite_projective
 -- name    : GlobalTheory.CompanionTheory.FinPresDescent.finiteType_of_finite_projective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:42:01.122562+00:00
 -- url     : https://prove2.me/theorems/2b8ef06f-3455-4164-9104-d672394f4496

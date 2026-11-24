@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_annColength
 -- name    : Formalism.NG.annColength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:14:50.166285+00:00
 -- url     : https://prove2.me/theorems/7c7741a5-950e-43a5-afea-4449dd7d2ba3

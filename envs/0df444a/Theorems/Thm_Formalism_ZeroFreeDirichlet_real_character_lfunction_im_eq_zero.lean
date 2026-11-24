@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_real_character_lfunction_im_eq_zero
 -- name    : Formalism.ZeroFreeDirichlet.real_character_lfunction_im_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:44:09.399076+00:00
 -- url     : https://prove2.me/theorems/35560ce9-363a-4847-b3e2-f7cc3d2868aa

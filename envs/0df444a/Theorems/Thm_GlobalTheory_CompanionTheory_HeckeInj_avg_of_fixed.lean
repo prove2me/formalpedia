@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeInj_avg_of_fixed
 -- name    : GlobalTheory.CompanionTheory.HeckeInj.avg_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:46:25.985383+00:00
 -- url     : https://prove2.me/theorems/45111a46-8823-48ea-9904-4d328f46a350

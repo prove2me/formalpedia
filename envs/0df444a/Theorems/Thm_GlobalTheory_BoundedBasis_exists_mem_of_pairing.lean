@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoundedBasis_exists_mem_of_pairing
 -- name    : GlobalTheory.BoundedBasis.exists_mem_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:01:59.417913+00:00
 -- url     : https://prove2.me/theorems/54000539-1f98-488b-bd92-480aa755b74a

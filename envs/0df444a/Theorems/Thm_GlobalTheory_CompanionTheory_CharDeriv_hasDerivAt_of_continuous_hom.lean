@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CharDeriv_hasDerivAt_of_continuous_hom
 -- name    : GlobalTheory.CompanionTheory.CharDeriv.hasDerivAt_of_continuous_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:33:22.265894+00:00
 -- url     : https://prove2.me/theorems/91b9fbc2-d537-48fb-b150-b0ef982a3f50

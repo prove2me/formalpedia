@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_mul_exp_le
 -- name    : GlobalTheory.CompanionTheory.EisTube.mul_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:36:39.155898+00:00
 -- url     : https://prove2.me/theorems/f6a15366-a281-44a4-8830-46bb58f59a80

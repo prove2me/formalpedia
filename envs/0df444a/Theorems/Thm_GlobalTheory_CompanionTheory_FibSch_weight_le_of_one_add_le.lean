@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FibSch_weight_le_of_one_add_le
 -- name    : GlobalTheory.CompanionTheory.FibSch.weight_le_of_one_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:39:57.694797+00:00
 -- url     : https://prove2.me/theorems/98b5474c-20c9-412a-b3c5-7afb49f8e1e4

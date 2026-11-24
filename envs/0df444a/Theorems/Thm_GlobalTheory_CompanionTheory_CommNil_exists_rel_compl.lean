@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommNil_exists_rel_compl
 -- name    : GlobalTheory.CompanionTheory.CommNil.exists_rel_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:49.18434+00:00
 -- url     : https://prove2.me/theorems/47be81f0-dcbd-4402-afbe-f9002ff76cb6

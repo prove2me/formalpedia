@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_twist_ramified_factor
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.twist_ramified_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:38.563805+00:00
 -- url     : https://prove2.me/theorems/f4dd2909-e4e7-4dd8-82c1-98d965fdb5c8

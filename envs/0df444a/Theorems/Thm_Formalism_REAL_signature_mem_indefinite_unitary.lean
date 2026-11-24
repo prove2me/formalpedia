@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_signature_mem_indefinite_unitary
 -- name    : Formalism.REAL.signature_mem_indefinite_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:22:50.138807+00:00
 -- url     : https://prove2.me/theorems/4dda6322-5b82-4d9c-823b-e8bbe59e64dc

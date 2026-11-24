@@ -7009,10 +7009,10 @@
 {"parent": "MulticlassDS.Compress.cor28_orientation_expDim", "child": "MulticlassDS_Compress_OneInclusion", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.cor28_orientation_expDim", "child": "MulticlassDS_Compress_Shifting", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.fact14_leave_one_out", "child": "MulticlassDS_Compress_Probability", "via": ["solution", "statement"]}
-{"parent": "MulticlassDS.Compress.lemma13_orientation_le_d", "child": "MulticlassDS_Compress_Dimensions", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.lemma13_orientation_le_d", "child": "MulticlassDS_Compress_OneInclusion", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.lemma17_orientation_natarajan", "child": "MulticlassDS_Compress_Dimensions", "via": ["statement"]}
-{"parent": "MulticlassDS.Compress.lemma17_orientation_natarajan", "child": "MulticlassDS_Compress_OneInclusion", "via": ["statement"]}
+{"parent": "MulticlassDS.Compress.lemma13_orientation_le_d", "child": "MulticlassDS_Compress_Dimensions", "via": ["solution", "statement"]}
+{"parent": "MulticlassDS.Compress.lemma13_orientation_le_d", "child": "MulticlassDS_Compress_OneInclusion", "via": ["solution", "statement"]}
+{"parent": "MulticlassDS.Compress.lemma17_orientation_natarajan", "child": "MulticlassDS_Compress_Dimensions", "via": ["solution", "statement"]}
+{"parent": "MulticlassDS.Compress.lemma17_orientation_natarajan", "child": "MulticlassDS_Compress_OneInclusion", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.lemma29_expDim_le", "child": "MulticlassDS_Compress_Dimensions", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.lemma29_expDim_le", "child": "MulticlassDS_Compress_Shifting", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.Compress.lemma39_list_compression", "child": "MulticlassDS_Compress_Compression", "via": ["solution", "statement"]}
@@ -33301,13 +33301,13 @@
 {"parent": "QCQPTightness.Sharp.proposition_2", "child": "QCQPTightness_Sharp_Faces", "via": ["solution", "statement"]}
 {"parent": "QCQPTightness.Sharp.proposition_2", "child": "QCQPTightness_Sharp_Mult", "via": ["solution", "statement"]}
 {"parent": "QCQPTightness.Sharp.proposition_2", "child": "QCQPTightness_Sharp_QCQP", "via": ["solution", "statement"]}
-{"parent": "QCQPTightness.Sharp.qcqp13_affdim", "child": "QCQPTightness_Sharp_Examples", "via": ["statement"]}
-{"parent": "QCQPTightness.Sharp.qcqp13_affdim", "child": "QCQPTightness_Sharp_Faces", "via": ["statement"]}
-{"parent": "QCQPTightness.Sharp.qcqp13_affdim", "child": "QCQPTightness_Sharp_Mult", "via": ["statement"]}
-{"parent": "QCQPTightness.Sharp.qcqp13_affdim", "child": "QCQPTightness_Sharp_QCQP", "via": ["statement"]}
-{"parent": "QCQPTightness.Sharp.qcqp13_assumption1", "child": "QCQPTightness_Sharp_Examples", "via": ["statement"]}
-{"parent": "QCQPTightness.Sharp.qcqp13_assumption1", "child": "QCQPTightness_Sharp_Mult", "via": ["statement"]}
-{"parent": "QCQPTightness.Sharp.qcqp13_assumption1", "child": "QCQPTightness_Sharp_QCQP", "via": ["statement"]}
+{"parent": "QCQPTightness.Sharp.qcqp13_affdim", "child": "QCQPTightness_Sharp_Examples", "via": ["solution", "statement"]}
+{"parent": "QCQPTightness.Sharp.qcqp13_affdim", "child": "QCQPTightness_Sharp_Faces", "via": ["solution", "statement"]}
+{"parent": "QCQPTightness.Sharp.qcqp13_affdim", "child": "QCQPTightness_Sharp_Mult", "via": ["solution", "statement"]}
+{"parent": "QCQPTightness.Sharp.qcqp13_affdim", "child": "QCQPTightness_Sharp_QCQP", "via": ["solution", "statement"]}
+{"parent": "QCQPTightness.Sharp.qcqp13_assumption1", "child": "QCQPTightness_Sharp_Examples", "via": ["solution", "statement"]}
+{"parent": "QCQPTightness.Sharp.qcqp13_assumption1", "child": "QCQPTightness_Sharp_Mult", "via": ["solution", "statement"]}
+{"parent": "QCQPTightness.Sharp.qcqp13_assumption1", "child": "QCQPTightness_Sharp_QCQP", "via": ["solution", "statement"]}
 {"parent": "QCQPTightness.Sharp.qcqp13_gamma", "child": "QCQPTightness_Sharp_Examples", "via": ["statement"]}
 {"parent": "QCQPTightness.Sharp.qcqp13_gamma", "child": "QCQPTightness_Sharp_Faces", "via": ["statement"]}
 {"parent": "QCQPTightness.Sharp.qcqp13_gamma", "child": "QCQPTightness_Sharp_Mult", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanU_exists_cover
 -- name    : GlobalTheory.CompanionTheory.CartanU.exists_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:31:55.983612+00:00
 -- url     : https://prove2.me/theorems/4c114039-5b37-4554-b259-0c2b43b1aac4

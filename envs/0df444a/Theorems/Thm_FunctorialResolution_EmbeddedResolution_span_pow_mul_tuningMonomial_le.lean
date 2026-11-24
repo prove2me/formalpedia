@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_span_pow_mul_tuningMonomial_le
 -- name    : FunctorialResolution.EmbeddedResolution.span_pow_mul_tuningMonomial_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:49:22.605891+00:00
 -- url     : https://prove2.me/theorems/c04de142-a175-4783-a87f-9a687e3dcc63

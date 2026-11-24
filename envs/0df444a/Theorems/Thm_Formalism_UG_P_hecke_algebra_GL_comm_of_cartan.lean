@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hecke_algebra_GL_comm_of_cartan
 -- name    : Formalism.UG.P.hecke_algebra_GL_comm_of_cartan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:31:49.675411+00:00
 -- url     : https://prove2.me/theorems/079a8534-aea6-4ae0-93eb-e2519832faf5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Ainf_torsion_free
 -- name    : ReciprocityTheory.PGsh.Ainf.torsion_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:19:13.79341+00:00
 -- url     : https://prove2.me/theorems/ef733dc1-635b-4c5c-a95a-f8eeb594c8c1

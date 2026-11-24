@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AePoly_ae_eval_matrix_ne_zero
 -- name    : GlobalTheory.CompanionTheory.AePoly.ae_eval_matrix_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:16:39.783681+00:00
 -- url     : https://prove2.me/theorems/4b45d5c7-0cc2-4ed2-a45c-f6e9792989da

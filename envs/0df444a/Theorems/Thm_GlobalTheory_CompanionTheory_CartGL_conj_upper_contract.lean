@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_conj_upper_contract
 -- name    : GlobalTheory.CompanionTheory.CartGL.conj_upper_contract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:27:15.97696+00:00
 -- url     : https://prove2.me/theorems/8bdcce65-4466-4d30-bcf3-7883fa9360a7

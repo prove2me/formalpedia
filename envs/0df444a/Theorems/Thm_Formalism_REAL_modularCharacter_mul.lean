@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_modularCharacter_mul
 -- name    : Formalism.REAL.modularCharacter_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:23:27.499843+00:00
 -- url     : https://prove2.me/theorems/f328c8f1-f60a-4a1c-b6d9-21128ea1196d

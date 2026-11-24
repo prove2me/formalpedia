@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_index_range_ker_pow_succ_endomorphism
 -- name    : GlobalTheory.CNorm.index_range_ker_pow_succ_endomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:05:56.202973+00:00
 -- url     : https://prove2.me/theorems/35c90f68-0028-4bd9-9e73-0011a6db06b0

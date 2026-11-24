@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICKoszul_number_apply
 -- name    : GlobalTheory.CompanionTheory.DSICKoszul.number_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:35:28.884992+00:00
 -- url     : https://prove2.me/theorems/c9077cef-140c-44ce-8a42-08868ec9f646

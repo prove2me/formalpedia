@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mvPolynomialEquivGlobalSections_symm_comp_mvPolynomialToSumCoordinateRing
 -- name    : FunctorialResolution.EmbeddedResolution.mvPolynomialEquivGlobalSections_symm_comp_mvPolynomialToSumCoordinateRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:49:39.415964+00:00
 -- url     : https://prove2.me/theorems/5369e73c-3b70-4add-b542-d2fa5405b4df

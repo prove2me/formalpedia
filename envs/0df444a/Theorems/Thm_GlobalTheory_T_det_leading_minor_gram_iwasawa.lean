@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_det_leading_minor_gram_iwasawa
 -- name    : GlobalTheory.T.det_leading_minor_gram_iwasawa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:36:08.866013+00:00
 -- url     : https://prove2.me/theorems/d56b33d6-3029-49d9-928d-89c32c88e6f4

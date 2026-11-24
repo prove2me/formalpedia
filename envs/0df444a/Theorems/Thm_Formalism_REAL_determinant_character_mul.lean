@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_determinant_character_mul
 -- name    : Formalism.REAL.determinant_character_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:23:16.511674+00:00
 -- url     : https://prove2.me/theorems/69ae97be-056a-476a-bf2b-90164cc2e37c

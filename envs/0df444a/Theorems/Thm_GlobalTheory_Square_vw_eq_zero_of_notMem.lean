@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_vw_eq_zero_of_notMem
 -- name    : GlobalTheory.Square.vw_eq_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:24:50.186561+00:00
 -- url     : https://prove2.me/theorems/09de1a00-a282-4ca7-9423-8b891d1d9156

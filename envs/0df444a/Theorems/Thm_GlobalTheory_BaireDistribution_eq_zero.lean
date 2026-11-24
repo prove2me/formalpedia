@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaireDistribution_eq_zero
 -- name    : GlobalTheory.BaireDistribution.eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:59:55.581471+00:00
 -- url     : https://prove2.me/theorems/926e73d5-a521-4459-a099-27c318e6ca5a

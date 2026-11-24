@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_IsSemi_conj_eq
 -- name    : GlobalTheory.CompanionTheory.FinHeis.IsSemi.conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:39:40.92549+00:00
 -- url     : https://prove2.me/theorems/2b5b1be1-16a2-45d1-9e81-aac1e7f9115b

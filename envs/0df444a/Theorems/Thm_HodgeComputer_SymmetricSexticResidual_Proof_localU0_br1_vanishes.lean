@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localU0_br1_vanishes
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localU0_br1_vanishes
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T12:25:15.70159+00:00
 -- url     : https://prove2.me/theorems/7247ae69-de82-40db-8694-e833a09005c0

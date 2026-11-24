@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_finite_affine_sublevel
 -- name    : GlobalTheory.ClassMin.finite_affine_sublevel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:36.418386+00:00
 -- url     : https://prove2.me/theorems/e3d872b5-1baa-410b-b8ff-961719c34ea8

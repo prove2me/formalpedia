@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckePair_stPair
 -- name    : GlobalTheory.CompanionTheory.HeckePair.stPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:46:36.197258+00:00
 -- url     : https://prove2.me/theorems/c70095f9-822f-4f5c-80e7-d1b7318d8f5a

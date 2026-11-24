@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GopEntries_sgR_mul_self
 -- name    : GlobalTheory.CompanionTheory.GopEntries.sgR_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:48.838437+00:00
 -- url     : https://prove2.me/theorems/3845a251-37a1-4d86-a8e8-d0ad68110999

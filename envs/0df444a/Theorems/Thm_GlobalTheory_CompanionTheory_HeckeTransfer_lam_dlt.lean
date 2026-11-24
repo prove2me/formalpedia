@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeTransfer_lam_dlt
 -- name    : GlobalTheory.CompanionTheory.HeckeTransfer.lam_dlt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:46:56.086373+00:00
 -- url     : https://prove2.me/theorems/9501c468-6d2c-4ff9-a257-061698ec75b9

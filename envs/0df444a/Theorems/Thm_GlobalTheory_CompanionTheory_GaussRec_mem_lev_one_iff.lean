@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussRec_mem_lev_one_iff
 -- name    : GlobalTheory.CompanionTheory.GaussRec.mem_lev_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:43:45.808077+00:00
 -- url     : https://prove2.me/theorems/e9e43a97-f94c-468e-86fd-6b21338f23f5

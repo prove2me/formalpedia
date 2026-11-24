@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_CondExp_condQ_exponents
 -- name    : GlobalTheory.CMVal.CondExp.condQ_exponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:04:25.707077+00:00
 -- url     : https://prove2.me/theorems/5be4395d-d7a7-4051-9ebd-230d6924b966

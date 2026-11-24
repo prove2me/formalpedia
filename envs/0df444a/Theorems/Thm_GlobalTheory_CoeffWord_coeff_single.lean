@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffWord_coeff_single
 -- name    : GlobalTheory.CoeffWord.coeff_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:15:00.85368+00:00
 -- url     : https://prove2.me/theorems/bab81fee-7cd9-40d2-b605-aa18f63c597c

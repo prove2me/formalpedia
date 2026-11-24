@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_gramLB_det_mono
 -- name    : GlobalTheory.ClassFin.gramLB_det_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:10:59.627711+00:00
 -- url     : https://prove2.me/theorems/3b81200a-4edb-4f4b-9171-9e6414e0aef9

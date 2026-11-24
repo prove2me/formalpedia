@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HaarPK_transl_mul_mem
 -- name    : GlobalTheory.CompanionTheory.HaarPK.transl_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:45:37.02921+00:00
 -- url     : https://prove2.me/theorems/4b63c0f8-78dc-4b5b-b98f-e327fd06f84d

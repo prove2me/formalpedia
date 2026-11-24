@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGL_parabCoord_surjective
 -- name    : GlobalTheory.CompanionTheory.FinGL.parabCoord_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:39:20.463194+00:00
 -- url     : https://prove2.me/theorems/5bc87261-4a2c-454e-83fa-61899d7a1844

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_GR_SubGrp_affine_mul
 -- name    : GlobalTheory.CompanionTheory.Ar.GR.SubGrp.affine_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:19:21.66389+00:00
 -- url     : https://prove2.me/theorems/2c8f7c90-858e-477a-a99e-7c6f852caaf8

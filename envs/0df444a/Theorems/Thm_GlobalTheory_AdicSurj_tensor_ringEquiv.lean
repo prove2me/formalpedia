@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicSurj_tensor_ringEquiv
 -- name    : GlobalTheory.AdicSurj.tensor_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:54:29.789239+00:00
 -- url     : https://prove2.me/theorems/a3fea789-e277-4d29-8737-982c16991d30

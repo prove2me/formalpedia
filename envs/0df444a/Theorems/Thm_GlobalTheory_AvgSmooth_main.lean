@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AvgSmooth_main
 -- name    : GlobalTheory.AvgSmooth.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:58:00.864257+00:00
 -- url     : https://prove2.me/theorems/3c87b11d-3717-4cd9-bbca-48b74ef531d3

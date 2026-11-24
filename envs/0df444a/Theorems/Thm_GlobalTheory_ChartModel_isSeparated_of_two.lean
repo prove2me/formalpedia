@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartModel_isSeparated_of_two
 -- name    : GlobalTheory.ChartModel.isSeparated_of_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:09:46.008799+00:00
 -- url     : https://prove2.me/theorems/8978e350-a551-43f1-98b6-2fa82e951570

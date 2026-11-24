@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_norm_prod_sub_prod_le
 -- name    : GlobalTheory.CompanionTheory.CartGL.norm_prod_sub_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:37.708009+00:00
 -- url     : https://prove2.me/theorems/d96dd708-36a7-4a47-90c0-7db86869fac0

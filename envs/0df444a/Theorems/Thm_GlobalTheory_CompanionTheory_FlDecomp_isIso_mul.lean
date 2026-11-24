@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_isIso_mul
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.isIso_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:41:27.70796+00:00
 -- url     : https://prove2.me/theorems/251966b9-d3cb-4879-bc51-2e9e2699e95d

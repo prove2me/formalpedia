@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_block_matrix_decomposition
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.block_matrix_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:55.291221+00:00
 -- url     : https://prove2.me/theorems/6bdc6305-651d-43f8-a2d1-1c668dd94121

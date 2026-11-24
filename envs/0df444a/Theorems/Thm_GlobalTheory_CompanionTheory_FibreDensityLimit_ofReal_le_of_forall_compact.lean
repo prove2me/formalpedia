@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FibreDensityLimit_ofReal_le_of_forall_compact
 -- name    : GlobalTheory.CompanionTheory.FibreDensityLimit.ofReal_le_of_forall_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:39:32.825797+00:00
 -- url     : https://prove2.me/theorems/53041adb-1fa5-44fb-afc3-e36aa4283bc1

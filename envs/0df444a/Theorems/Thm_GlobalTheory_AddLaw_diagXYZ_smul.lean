@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_diagXYZ_smul
 -- name    : GlobalTheory.AddLaw.diagXYZ_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:55.688598+00:00
 -- url     : https://prove2.me/theorems/fc2174be-232e-481e-be6f-1469414d6750

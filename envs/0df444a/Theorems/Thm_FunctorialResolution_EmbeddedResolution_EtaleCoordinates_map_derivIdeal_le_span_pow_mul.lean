@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_map_derivIdeal_le_span_pow_mul
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_derivIdeal_le_span_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:46:01.479017+00:00
 -- url     : https://prove2.me/theorems/0cd1e4de-ed16-4e03-8083-81a2beb67219

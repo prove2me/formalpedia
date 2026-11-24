@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_exists_tExp_eq_indicator
 -- name    : GlobalTheory.CompanionTheory.CartGL.exists_tExp_eq_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:15.002503+00:00
 -- url     : https://prove2.me/theorems/c3ec8dbe-67e3-4eb0-9ed5-13c22717e03f

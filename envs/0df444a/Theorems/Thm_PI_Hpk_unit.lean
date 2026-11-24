@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Hpk_unit
 -- name    : PI.Hpk_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:18.04278+00:00
 -- url     : https://prove2.me/theorems/5412d155-7d8b-4184-bb57-e85a2c12e2ca

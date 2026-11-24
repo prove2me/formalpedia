@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CardLength_card_eq_prod_lenAt
 -- name    : GlobalTheory.CardLength.card_eq_prod_lenAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:06:02.267827+00:00
 -- url     : https://prove2.me/theorems/43fbc789-a3e5-4b5f-9fd6-d79068411dbc

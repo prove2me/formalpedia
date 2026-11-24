@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassicalTheta_card_le_pow_of_linearIndependent
 -- name    : GlobalTheory.ClassicalTheta.card_le_pow_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:04:28.206607+00:00
 -- url     : https://prove2.me/theorems/a32c5e43-5e2c-4a2c-a580-f858f152efd6

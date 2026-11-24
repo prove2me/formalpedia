@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobProd_exists_compact_clopen
 -- name    : GlobalTheory.CompanionTheory.FrobProd.exists_compact_clopen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:42:46.419065+00:00
 -- url     : https://prove2.me/theorems/7ae69788-a0f1-4829-9614-c2f4151e4253

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_multiHomog_rename_inl
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.multiHomog_rename_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:21:47.389508+00:00
 -- url     : https://prove2.me/theorems/29a5a783-d13b-450c-873f-6b1b09845f07

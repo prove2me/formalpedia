@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_F_eq
 -- name    : Formalism.ZRN.F_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:41:28.727184+00:00
 -- url     : https://prove2.me/theorems/8531c956-d2b0-4ffb-b944-95801e7a5843

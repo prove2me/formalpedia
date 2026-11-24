@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_chebyshev_character_integrableOn
 -- name    : Formalism.ZeroFreeDirichlet.chebyshev_character_integrableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:43:17.947304+00:00
 -- url     : https://prove2.me/theorems/1d9a98d2-2234-44e9-86ea-1ccd305ce64c

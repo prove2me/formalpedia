@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_eq_controlledTransform_of_mul_eq_comap
 -- name    : FunctorialResolution.EmbeddedResolution.eq_controlledTransform_of_mul_eq_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:40.688876+00:00
 -- url     : https://prove2.me/theorems/33743065-0dbe-4383-89d5-3c6eab0f9f21

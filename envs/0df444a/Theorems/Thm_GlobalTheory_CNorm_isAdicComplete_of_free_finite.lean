@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_isAdicComplete_of_free_finite
 -- name    : GlobalTheory.CNorm.isAdicComplete_of_free_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:23.331799+00:00
 -- url     : https://prove2.me/theorems/f68cb122-d765-4188-bd8b-8891573690c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_CosetStep_locMem_mul_pow_iff
 -- name    : GlobalTheory.CompanionTheory.Equi.CosetStep.locMem_mul_pow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:37:18.79712+00:00
 -- url     : https://prove2.me/theorems/0466c3e5-2842-43d1-a94a-ba9fc7147fdf

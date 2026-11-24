@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_LocalCrofton_continuous_kernel
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.LocalCrofton.continuous_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:41:09.932922+00:00
 -- url     : https://prove2.me/theorems/e6ec600a-a9d6-44e4-9c7e-9fadf7655bae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_stepI
 -- name    : Formalism.InvariantFactorPaths.G7.Top.stepI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:17:03.311894+00:00
 -- url     : https://prove2.me/theorems/e5f11acb-327c-4950-8657-61a8761686a0

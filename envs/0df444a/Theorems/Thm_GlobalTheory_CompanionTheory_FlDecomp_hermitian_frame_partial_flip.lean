@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_hermitian_frame_partial_flip
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.hermitian_frame_partial_flip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:41:22.078604+00:00
 -- url     : https://prove2.me/theorems/8cd97544-3db7-4070-8744-5ba77fc77515

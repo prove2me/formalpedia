@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_tsum_indicator_norm_le_packing
 -- name    : GlobalTheory.CompanionTheory.Adelic.tsum_indicator_norm_le_packing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:16:11.984734+00:00
 -- url     : https://prove2.me/theorems/db6ba58b-4540-47f2-b17a-0e22146e1457

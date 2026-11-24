@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_unipotent_size_reduction
 -- name    : GlobalTheory.ClassFin.unipotent_size_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:11:36.576339+00:00
 -- url     : https://prove2.me/theorems/a34f4c45-a956-4410-96c4-eeefb02fdae7

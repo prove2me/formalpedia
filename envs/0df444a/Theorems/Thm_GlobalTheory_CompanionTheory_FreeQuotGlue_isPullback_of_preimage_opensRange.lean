@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_isPullback_of_preimage_opensRange
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.isPullback_of_preimage_opensRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:41:12.543269+00:00
 -- url     : https://prove2.me/theorems/830560b5-bf96-45f6-9e7e-e5e2b0b48bad

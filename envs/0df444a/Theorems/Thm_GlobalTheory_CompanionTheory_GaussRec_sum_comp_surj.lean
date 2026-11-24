@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussRec_sum_comp_surj
 -- name    : GlobalTheory.CompanionTheory.GaussRec.sum_comp_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:43:41.010372+00:00
 -- url     : https://prove2.me/theorems/9cfeada7-c7d2-484d-b0fd-e91a4e064d4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_cyc_le
 -- name    : GlobalTheory.CompanionTheory.DSUniq.cyc_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:37:27.729858+00:00
 -- url     : https://prove2.me/theorems/38a6b93e-8d08-4abc-9a07-092bb24afd74

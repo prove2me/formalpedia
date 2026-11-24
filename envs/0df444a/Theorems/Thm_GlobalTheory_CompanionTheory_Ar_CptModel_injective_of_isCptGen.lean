@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CptModel_injective_of_isCptGen
 -- name    : GlobalTheory.CompanionTheory.Ar.CptModel.injective_of_isCptGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:17:59.29721+00:00
 -- url     : https://prove2.me/theorems/71db65c0-cbc8-481b-ac80-697a241fd65f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAdj_HasAdj_intCast
 -- name    : GlobalTheory.CompanionTheory.CapelliAdj.HasAdj.intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:05.554287+00:00
 -- url     : https://prove2.me/theorems/816b0246-4f72-4793-84c6-461bc49e9721

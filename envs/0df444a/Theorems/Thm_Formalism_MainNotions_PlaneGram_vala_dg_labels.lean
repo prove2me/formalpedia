@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_dg_labels
 -- name    : Formalism.MainNotions.PlaneGram.vala_dg_labels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:08:03.962886+00:00
 -- url     : https://prove2.me/theorems/f12324a8-50ab-4074-9eb9-cea4e6abea7d

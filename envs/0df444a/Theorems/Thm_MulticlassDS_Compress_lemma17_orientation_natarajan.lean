@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_lemma17_orientation_natarajan
 -- name    : MulticlassDS.Compress.lemma17_orientation_natarajan
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:21:11.285311+00:00
 -- url     : https://prove2.me/theorems/8ac5fdb7-3779-4bf0-9081-8a43ac48e70f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_isLat_pull
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.isLat_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:41:36.584643+00:00
 -- url     : https://prove2.me/theorems/8e33901f-f290-40e8-a06a-ceecd6bd9aaf

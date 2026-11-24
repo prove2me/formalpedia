@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_move_admissible
 -- name    : Formalism.HermitianLatticeCounting.P.move_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:04.391973+00:00
 -- url     : https://prove2.me/theorems/c35891a4-4f17-4c21-bbf3-7a6093e8b2d1

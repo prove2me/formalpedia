@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FourierMat_entries_apply
 -- name    : GlobalTheory.CompanionTheory.FourierMat.entries_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:41:24.478735+00:00
 -- url     : https://prove2.me/theorems/d5f2506b-bfd0-4020-9ede-fd20b1684646

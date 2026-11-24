@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_LatSum_tile_pi
 -- name    : GlobalTheory.CompanionTheory.Equi.LatSum.tile_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:39:01.308023+00:00
 -- url     : https://prove2.me/theorems/4cd8410e-749e-4f1a-a744-66bb5a02211c

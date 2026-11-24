@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GamDomProof_pos_le
 -- name    : GlobalTheory.CompanionTheory.GamDomProof.pos_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:42:42.284429+00:00
 -- url     : https://prove2.me/theorems/f5a9bdc6-0272-4a26-9dd8-5887e0d3460e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTypeRealEmb_exists_equiv
 -- name    : GlobalTheory.CMTypeRealEmb.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:04:22.737798+00:00
 -- url     : https://prove2.me/theorems/a18306a2-1dde-4812-bd8b-5be2eba84def

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeBern_augmentation_of_hecke_operator
 -- name    : GlobalTheory.CompanionTheory.HeckeBern.augmentation_of_hecke_operator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:44:54.263821+00:00
 -- url     : https://prove2.me/theorems/b1d86fbf-2d45-40c8-9148-8fa52c9ddedc

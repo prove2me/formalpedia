@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMFormBound_formClaims
 -- name    : GlobalTheory.CMFormBound.formClaims
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:03:29.610116+00:00
 -- url     : https://prove2.me/theorems/50a51911-9a08-4f58-a533-08f4365eab8f

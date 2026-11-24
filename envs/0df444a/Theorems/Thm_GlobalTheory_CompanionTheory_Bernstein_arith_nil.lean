@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bernstein_arith_nil
 -- name    : GlobalTheory.CompanionTheory.Bernstein.arith_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:21:10.801536+00:00
 -- url     : https://prove2.me/theorems/2e3595f9-aec9-449c-b972-716f02d0f6e1

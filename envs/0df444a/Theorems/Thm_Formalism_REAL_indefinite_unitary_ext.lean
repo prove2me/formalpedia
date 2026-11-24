@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_indefinite_unitary_ext
 -- name    : Formalism.REAL.indefinite_unitary_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:23:50.288601+00:00
 -- url     : https://prove2.me/theorems/4a339c03-2760-4229-be92-dbf21f968a50

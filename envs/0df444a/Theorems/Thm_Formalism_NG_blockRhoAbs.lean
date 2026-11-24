@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_blockRhoAbs
 -- name    : Formalism.NG.blockRhoAbs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:06:54.308419+00:00
 -- url     : https://prove2.me/theorems/f25562ec-c76b-42a3-9e65-7e66a10d627a

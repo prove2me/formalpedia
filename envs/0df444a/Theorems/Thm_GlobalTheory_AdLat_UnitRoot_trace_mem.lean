@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_UnitRoot_trace_mem
 -- name    : GlobalTheory.AdLat.UnitRoot.trace_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:53:59.436067+00:00
 -- url     : https://prove2.me/theorems/07515163-fb37-4c38-9b43-73353010f35a

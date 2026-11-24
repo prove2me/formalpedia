@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ConvTest_integrable_reflect
 -- name    : GlobalTheory.CompanionTheory.ConvTest.integrable_reflect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:32:47.6778+00:00
 -- url     : https://prove2.me/theorems/3ec39e7e-6a1f-49e1-8727-24481f0903bd

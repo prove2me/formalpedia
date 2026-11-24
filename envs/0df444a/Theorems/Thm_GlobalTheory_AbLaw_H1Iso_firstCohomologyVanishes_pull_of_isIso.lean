@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_H1Iso_firstCohomologyVanishes_pull_of_isIso
 -- name    : GlobalTheory.AbLaw.H1Iso.firstCohomologyVanishes_pull_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:52:37.215553+00:00
 -- url     : https://prove2.me/theorems/a1fecffa-119e-4f31-a83f-f4067c60db2c

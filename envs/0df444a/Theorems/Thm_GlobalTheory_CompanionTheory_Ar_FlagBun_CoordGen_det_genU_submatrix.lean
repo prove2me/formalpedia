@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagBun_CoordGen_det_genU_submatrix
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagBun.CoordGen.det_genU_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:01:08.486333+00:00
 -- url     : https://prove2.me/theorems/eafd1a53-abcc-4fc1-a4f1-bd6b0aa160c8

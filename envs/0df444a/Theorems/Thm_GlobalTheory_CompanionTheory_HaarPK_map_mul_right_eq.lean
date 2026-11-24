@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HaarPK_map_mul_right_eq
 -- name    : GlobalTheory.CompanionTheory.HaarPK.map_mul_right_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:45:27.243071+00:00
 -- url     : https://prove2.me/theorems/32ef6e0c-069d-4f7b-b438-f41248d32d58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_ProjCoord_genMap_push_injective
 -- name    : GlobalTheory.CompanionTheory.Ar.ProjCoord.genMap_push_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:18:57.822805+00:00
 -- url     : https://prove2.me/theorems/b8b779bc-e729-4fb7-850f-c8af0d937c9c

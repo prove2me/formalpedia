@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_eq_one_of_cong
 -- name    : GlobalTheory.CMVal.ValEx.eq_one_of_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:13.273919+00:00
 -- url     : https://prove2.me/theorems/766baab9-0792-47df-95f9-b5cc5ca62e5c

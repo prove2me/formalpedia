@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TMv_lineHom_apply
 -- name    : Formalism.L2.Th1.H.TMv.lineHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:24:43.783325+00:00
 -- url     : https://prove2.me/theorems/63348919-4044-49c5-8088-1de9a5bb2512

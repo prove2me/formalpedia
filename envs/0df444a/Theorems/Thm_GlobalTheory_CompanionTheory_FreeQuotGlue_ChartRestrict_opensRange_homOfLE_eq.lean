@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_ChartRestrict_opensRange_homOfLE_eq
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.ChartRestrict.opensRange_homOfLE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:41:07.246376+00:00
 -- url     : https://prove2.me/theorems/06b9ffea-7b15-41aa-aa0c-e53e8b0bb219

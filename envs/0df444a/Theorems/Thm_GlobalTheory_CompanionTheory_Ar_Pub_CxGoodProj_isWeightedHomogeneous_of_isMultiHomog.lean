@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_isWeightedHomogeneous_of_isMultiHomog
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.isWeightedHomogeneous_of_isMultiHomog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:20:22.111661+00:00
 -- url     : https://prove2.me/theorems/f9c8f7ab-300e-4ef8-9957-161358dff30f

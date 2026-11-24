@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_DiscCover_mem_line_ball
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.DiscCover.mem_line_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:33:36.942953+00:00
 -- url     : https://prove2.me/theorems/45327435-9539-4985-9725-7ffdb746bee8

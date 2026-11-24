@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CxVal_zpow
 -- name    : GlobalTheory.CompanionTheory.Ar.CxVal.zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:18:48.199177+00:00
 -- url     : https://prove2.me/theorems/960c205a-27c8-4593-866d-96a12350e381

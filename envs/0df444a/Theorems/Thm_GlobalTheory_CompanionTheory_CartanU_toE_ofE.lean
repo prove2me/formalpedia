@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanU_toE_ofE
 -- name    : GlobalTheory.CompanionTheory.CartanU.toE_ofE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:31:37.627885+00:00
 -- url     : https://prove2.me/theorems/a1788a1a-c3aa-46e4-9b05-622479075f3c

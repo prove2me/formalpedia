@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_UpLatIndex_relIndex_ordBall_succ
 -- name    : GlobalTheory.BorelUMod.UpLatIndex.relIndex_ordBall_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:01:31.645461+00:00
 -- url     : https://prove2.me/theorems/d1cad5b6-02df-4456-85b4-bb9dd0304ff4

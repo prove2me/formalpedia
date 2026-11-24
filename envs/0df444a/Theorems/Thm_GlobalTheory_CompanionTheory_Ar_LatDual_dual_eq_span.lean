@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_LatDual_dual_eq_span
 -- name    : GlobalTheory.CompanionTheory.Ar.LatDual.dual_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:19:04.887804+00:00
 -- url     : https://prove2.me/theorems/18d54d76-1669-4322-b0ef-b990fd641c30

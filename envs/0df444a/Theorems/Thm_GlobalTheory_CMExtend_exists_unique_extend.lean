@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMExtend_exists_unique_extend
 -- name    : GlobalTheory.CMExtend.exists_unique_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:03:09.346973+00:00
 -- url     : https://prove2.me/theorems/45710abc-e5ff-4afc-abf2-3e37bf598e40

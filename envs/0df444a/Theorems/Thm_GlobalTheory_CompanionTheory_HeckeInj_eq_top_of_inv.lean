@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeInj_eq_top_of_inv
 -- name    : GlobalTheory.CompanionTheory.HeckeInj.eq_top_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:46:53.264069+00:00
 -- url     : https://prove2.me/theorems/ff955250-80b5-4e4f-84a6-17a7bce79fec

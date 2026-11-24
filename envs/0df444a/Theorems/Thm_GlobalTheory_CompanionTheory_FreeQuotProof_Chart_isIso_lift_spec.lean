@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_Chart_isIso_lift_spec
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.Chart.isIso_lift_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:31.929826+00:00
 -- url     : https://prove2.me/theorems/b58bbbd7-e91a-4c6d-9b78-64db7d87b0f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_mellin_chebyshev_character
 -- name    : Formalism.ZeroFreeDirichlet.mellin_chebyshev_character
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:15.166466+00:00
 -- url     : https://prove2.me/theorems/220607c9-63e8-44f9-854d-032a542084ec

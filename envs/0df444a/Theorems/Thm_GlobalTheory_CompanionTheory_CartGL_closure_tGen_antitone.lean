@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_closure_tGen_antitone
 -- name    : GlobalTheory.CompanionTheory.CartGL.closure_tGen_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:28:33.035246+00:00
 -- url     : https://prove2.me/theorems/dc3292ac-3478-41d8-9fa6-f744d2052285

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inducedClassFunctionFromSubgroup_trans
 -- name    : GlobalTheory.T.inducedClassFunctionFromSubgroup_trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:13.710804+00:00
 -- url     : https://prove2.me/theorems/893fcc0e-43fa-4363-89f3-efe6ea204907

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_admissibleValuation_prime_subsingleton
 -- name    : GaussValuationUniqueness.admissibleValuation_prime_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:51:49.033797+00:00
 -- url     : https://prove2.me/theorems/026feaaf-9235-4295-9f91-c619ac250879

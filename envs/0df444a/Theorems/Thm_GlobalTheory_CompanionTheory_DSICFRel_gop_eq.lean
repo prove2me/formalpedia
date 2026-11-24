@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICFRel_gop_eq
 -- name    : GlobalTheory.CompanionTheory.DSICFRel.gop_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:35:14.525824+00:00
 -- url     : https://prove2.me/theorems/c4e26941-bc9e-45dd-84a2-540b0cbe8254

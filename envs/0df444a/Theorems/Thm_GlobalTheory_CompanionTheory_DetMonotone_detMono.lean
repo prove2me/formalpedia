@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DetMonotone_detMono
 -- name    : GlobalTheory.CompanionTheory.DetMonotone.detMono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:35:21.828286+00:00
 -- url     : https://prove2.me/theorems/3f198e19-6153-40b1-bc1d-174b5edbb4ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_continuous_ker_right
 -- name    : GlobalTheory.CompanionTheory.EisTube.continuous_ker_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:36:27.812454+00:00
 -- url     : https://prove2.me/theorems/22cb8436-ddbd-4ee4-978a-b2eb9c1cb68e

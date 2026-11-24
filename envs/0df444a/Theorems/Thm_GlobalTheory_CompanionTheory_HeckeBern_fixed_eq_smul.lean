@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeBern_fixed_eq_smul
 -- name    : GlobalTheory.CompanionTheory.HeckeBern.fixed_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:45:04.15538+00:00
 -- url     : https://prove2.me/theorems/64f778f0-1e4c-4957-89e6-e3157c1cc7ec

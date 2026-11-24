@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAdj_HasAdj_sum
 -- name    : GlobalTheory.CompanionTheory.CapelliAdj.HasAdj.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:27:19.970462+00:00
 -- url     : https://prove2.me/theorems/a7264daf-adc2-4c9a-b9ed-b207863ae0d0

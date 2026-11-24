@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ClosedSubgroup_pow_mem_of_mul_closed
 -- name    : GlobalTheory.CompanionTheory.ClosedSubgroup.pow_mem_of_mul_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:47.614177+00:00
 -- url     : https://prove2.me/theorems/cdaa048b-7c71-4311-b6c5-4c8423fc3ef4

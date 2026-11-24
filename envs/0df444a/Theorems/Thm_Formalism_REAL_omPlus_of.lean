@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_omPlus_of
 -- name    : Formalism.REAL.omPlus_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:24:48.331648+00:00
 -- url     : https://prove2.me/theorems/93324435-2f13-4137-a49a-3aae961fd235

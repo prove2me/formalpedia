@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_LatBij_toIdele_injective
 -- name    : GlobalTheory.CMVal.LatBij.toIdele_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:05:30.807378+00:00
 -- url     : https://prove2.me/theorems/53bd774f-ea71-491c-9d7e-9b60d6857202

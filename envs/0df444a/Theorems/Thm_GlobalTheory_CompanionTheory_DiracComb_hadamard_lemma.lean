@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DiracComb_hadamard_lemma
 -- name    : GlobalTheory.CompanionTheory.DiracComb.hadamard_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:36:50.225128+00:00
 -- url     : https://prove2.me/theorems/9d28be21-0d5c-4610-9cea-a67592903535

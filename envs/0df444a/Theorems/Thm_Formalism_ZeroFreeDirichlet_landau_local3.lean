@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_landau_local3
 -- name    : Formalism.ZeroFreeDirichlet.landau_local3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:46:59.997455+00:00
 -- url     : https://prove2.me/theorems/60224d53-f69d-40c5-988e-7018914a630a

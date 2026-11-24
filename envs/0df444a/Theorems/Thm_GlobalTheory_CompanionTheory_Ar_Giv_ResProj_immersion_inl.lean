@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_ResProj_immersion_inl
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.ResProj.immersion_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:07.348315+00:00
 -- url     : https://prove2.me/theorems/c6fa9d26-06e2-4225-aa01-314adf70bd77

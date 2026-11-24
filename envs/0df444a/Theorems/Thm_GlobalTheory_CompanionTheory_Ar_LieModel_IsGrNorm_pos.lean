@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_LieModel_IsGrNorm_pos
 -- name    : GlobalTheory.CompanionTheory.Ar.LieModel.IsGrNorm.pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:31:13.321492+00:00
 -- url     : https://prove2.me/theorems/cbdec1cf-e973-4817-9262-75f4c271624e

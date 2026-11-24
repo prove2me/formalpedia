@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GLSmall_small_antitone
 -- name    : GlobalTheory.CompanionTheory.GLSmall.small_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:42:11.362045+00:00
 -- url     : https://prove2.me/theorems/dc90dffa-82b6-46e4-ad66-cd1ff1835712

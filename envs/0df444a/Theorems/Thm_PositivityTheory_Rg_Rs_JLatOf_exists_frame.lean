@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_JLatOf_exists_frame
 -- name    : PositivityTheory.Rg.Rs.JLatOf.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:07:32.898003+00:00
 -- url     : https://prove2.me/theorems/425f7e13-08f8-453c-82d7-00e3424ba94c

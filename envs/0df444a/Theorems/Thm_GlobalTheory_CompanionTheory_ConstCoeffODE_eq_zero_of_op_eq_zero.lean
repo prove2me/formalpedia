@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ConstCoeffODE_eq_zero_of_op_eq_zero
 -- name    : GlobalTheory.CompanionTheory.ConstCoeffODE.eq_zero_of_op_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:32:51.272886+00:00
 -- url     : https://prove2.me/theorems/ac6fed83-4ca4-4b16-95c6-9917cbea3d13

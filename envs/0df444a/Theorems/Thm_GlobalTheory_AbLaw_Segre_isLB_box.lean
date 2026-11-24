@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Segre_isLB_box
 -- name    : GlobalTheory.AbLaw.Segre.isLB_box
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:21:53.951061+00:00
 -- url     : https://prove2.me/theorems/d1e88248-073c-45e7-84af-38c223a5d49a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CharPerp_isCompact_perp
 -- name    : GlobalTheory.CompanionTheory.CharPerp.isCompact_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:20.852939+00:00
 -- url     : https://prove2.me/theorems/c61f906e-85b0-48d2-9d43-448939c2a24e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapPolyProof_rel_of_pair
 -- name    : GlobalTheory.CompanionTheory.GapPolyProof.rel_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:43:32.426379+00:00
 -- url     : https://prove2.me/theorems/2cea06be-9b3e-46c2-8e7d-1c9f93412b03

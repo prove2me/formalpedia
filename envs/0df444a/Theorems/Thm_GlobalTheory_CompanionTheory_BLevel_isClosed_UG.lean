@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BLevel_isClosed_UG
 -- name    : GlobalTheory.CompanionTheory.BLevel.isClosed_UG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:21:22.246561+00:00
 -- url     : https://prove2.me/theorems/634fe3d0-56ea-4719-bf2f-2c9b923537fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_ram_square_fragment
 -- name    : WilliamsonShmoys.ram_square_fragment
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T12:20:45.953799+00:00
 -- url     : https://prove2.me/theorems/16299af3-7b89-4802-9c14-c0676744c3a9

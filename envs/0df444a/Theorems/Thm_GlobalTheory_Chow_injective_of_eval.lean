@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_injective_of_eval
 -- name    : GlobalTheory.Chow.injective_of_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:09:33.573737+00:00
 -- url     : https://prove2.me/theorems/4eb38970-71c9-4a90-bd27-03e1160ecd43

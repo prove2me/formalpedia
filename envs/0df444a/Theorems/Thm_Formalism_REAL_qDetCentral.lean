@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_qDetCentral
 -- name    : Formalism.REAL.qDetCentral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:43.528456+00:00
 -- url     : https://prove2.me/theorems/2e4ac616-cfaf-4a41-b4df-87671da276f1

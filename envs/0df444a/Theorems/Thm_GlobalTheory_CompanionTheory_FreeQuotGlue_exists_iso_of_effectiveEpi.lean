@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_exists_iso_of_effectiveEpi
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.exists_iso_of_effectiveEpi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:41:39.012979+00:00
 -- url     : https://prove2.me/theorems/d0e2cab3-cca4-404f-a6e2-5bb579cc80f4

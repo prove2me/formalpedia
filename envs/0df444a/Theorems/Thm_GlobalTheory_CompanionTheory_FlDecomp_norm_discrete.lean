@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_norm_discrete
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.norm_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:41:41.172201+00:00
 -- url     : https://prove2.me/theorems/532047da-3af0-4955-8193-8b6eb21e2e23

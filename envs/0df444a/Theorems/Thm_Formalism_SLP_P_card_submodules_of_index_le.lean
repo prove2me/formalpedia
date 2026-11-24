@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_card_submodules_of_index_le
 -- name    : Formalism.SLP.P.card_submodules_of_index_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:29:15.100719+00:00
 -- url     : https://prove2.me/theorems/b31530cd-4962-4324-8bc6-0f441c1bdf81

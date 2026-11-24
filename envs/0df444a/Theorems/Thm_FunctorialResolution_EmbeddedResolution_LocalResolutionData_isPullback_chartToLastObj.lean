@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_isPullback_chartToLastObj
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.isPullback_chartToLastObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:45:53.40998+00:00
 -- url     : https://prove2.me/theorems/3e455c41-620d-4087-bd15-9deb899d7bac

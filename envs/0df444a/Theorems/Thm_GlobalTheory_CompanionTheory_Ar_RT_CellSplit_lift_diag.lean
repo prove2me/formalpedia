@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_RT_CellSplit_lift_diag
 -- name    : GlobalTheory.CompanionTheory.Ar.RT.CellSplit.lift_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:20:57.312646+00:00
 -- url     : https://prove2.me/theorems/b7f330f1-ea45-478e-b7e0-f8c09a6035cf

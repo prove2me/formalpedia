@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedSequenceOfBlowups_isResolution_iff
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedSequenceOfBlowups.isResolution_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:30:03.305861+00:00
 -- url     : https://prove2.me/theorems/940a16bd-3f67-44b2-a165-f0ad729989f9

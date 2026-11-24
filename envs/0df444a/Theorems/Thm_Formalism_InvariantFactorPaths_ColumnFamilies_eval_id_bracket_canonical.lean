@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_eval_id_bracket_canonical
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.eval_id_bracket_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:53:53.821358+00:00
 -- url     : https://prove2.me/theorems/b0b82650-96d0-4d3c-9cae-01ecc9020bdf

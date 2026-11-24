@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_l_log_deriv_right
 -- name    : Formalism.ZeroFreeDirichlet.l_log_deriv_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:48:24.657692+00:00
 -- url     : https://prove2.me/theorems/0b1828d7-f747-42cb-a8d2-eb9cfd3ba38e

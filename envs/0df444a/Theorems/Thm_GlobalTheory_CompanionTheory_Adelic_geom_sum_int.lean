@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_geom_sum_int
 -- name    : GlobalTheory.CompanionTheory.Adelic.geom_sum_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:16:21.710576+00:00
 -- url     : https://prove2.me/theorems/c57fa997-0ee5-43c2-9cce-124afb5db66c

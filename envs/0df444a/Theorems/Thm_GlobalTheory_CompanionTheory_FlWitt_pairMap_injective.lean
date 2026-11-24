@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlWitt_pairMap_injective
 -- name    : GlobalTheory.CompanionTheory.FlWitt.pairMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:42:17.096213+00:00
 -- url     : https://prove2.me/theorems/ff313c70-0ece-4708-8637-e84607745bb5

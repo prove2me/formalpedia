@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_UG_stabilizer_finite
 -- name    : Formalism.UG.P.UG_stabilizer_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:13:35.346281+00:00
 -- url     : https://prove2.me/theorems/864f6f40-4559-48ae-b28a-bcb23e68a3c9

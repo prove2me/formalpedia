@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffFunctional_coeffMap_comm
 -- name    : GlobalTheory.CoeffFunctional.coeffMap_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:15:07.719957+00:00
 -- url     : https://prove2.me/theorems/225798de-3f7d-4950-a349-44fefcc866ed

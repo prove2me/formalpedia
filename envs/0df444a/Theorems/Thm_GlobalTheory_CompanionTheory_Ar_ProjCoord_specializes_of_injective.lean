@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_ProjCoord_specializes_of_injective
 -- name    : GlobalTheory.CompanionTheory.Ar.ProjCoord.specializes_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:19:09.097828+00:00
 -- url     : https://prove2.me/theorems/89ccca6b-2b28-4675-ae30-965d44db8552

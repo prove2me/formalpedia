@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_tubeShift_differentiableOn_integral
 -- name    : GlobalTheory.CompanionTheory.EisTube.tubeShift_differentiableOn_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:37:18.191328+00:00
 -- url     : https://prove2.me/theorems/ea7e5c77-1e41-4d87-a19c-c1c61052dd43

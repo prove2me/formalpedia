@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLimit_logDeriv_GammaSeq
 -- name    : GlobalTheory.CompanionTheory.DigammaLimit.logDeriv_GammaSeq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:35:24.548803+00:00
 -- url     : https://prove2.me/theorems/caf2a2c5-2abc-4ef7-9826-44048df2d10c

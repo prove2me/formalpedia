@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisCross_pos_mul_le
 -- name    : GlobalTheory.CompanionTheory.EisCross.pos_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:37:01.050872+00:00
 -- url     : https://prove2.me/theorems/57b096c7-66b7-4417-90d9-0ad291749182

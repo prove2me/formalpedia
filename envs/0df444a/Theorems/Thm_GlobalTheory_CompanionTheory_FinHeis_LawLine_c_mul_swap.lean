@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_LawLine_c_mul_swap
 -- name    : GlobalTheory.CompanionTheory.FinHeis.LawLine.c_mul_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:39:37.461491+00:00
 -- url     : https://prove2.me/theorems/8e724596-e964-4151-a31b-1fe3a5a0ca15

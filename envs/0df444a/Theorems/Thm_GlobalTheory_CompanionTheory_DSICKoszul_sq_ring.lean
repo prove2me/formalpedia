@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICKoszul_sq_ring
 -- name    : GlobalTheory.CompanionTheory.DSICKoszul.sq_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:34:50.116752+00:00
 -- url     : https://prove2.me/theorems/b1342a1a-1571-4c20-a349-6249253d0594

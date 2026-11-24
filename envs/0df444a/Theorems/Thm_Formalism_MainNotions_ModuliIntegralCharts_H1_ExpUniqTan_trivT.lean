@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqTan_trivT
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqTan.trivT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:59:53.623477+00:00
 -- url     : https://prove2.me/theorems/c0b3484b-50db-4d22-b885-764df0b369dc

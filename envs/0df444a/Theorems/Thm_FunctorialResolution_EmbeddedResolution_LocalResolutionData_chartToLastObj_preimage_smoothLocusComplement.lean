@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_chartToLastObj_preimage_smoothLocusComplement
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.chartToLastObj_preimage_smoothLocusComplement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:04.292602+00:00
 -- url     : https://prove2.me/theorems/158eeb60-fd29-4293-bb6d-4bcbb1029322

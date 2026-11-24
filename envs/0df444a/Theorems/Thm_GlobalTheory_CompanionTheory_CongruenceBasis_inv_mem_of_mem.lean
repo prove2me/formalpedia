@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CongruenceBasis_inv_mem_of_mem
 -- name    : GlobalTheory.CompanionTheory.CongruenceBasis.inv_mem_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:32:51.269441+00:00
 -- url     : https://prove2.me/theorems/f138bdb5-8f48-403a-ae9b-b45e4278aa31

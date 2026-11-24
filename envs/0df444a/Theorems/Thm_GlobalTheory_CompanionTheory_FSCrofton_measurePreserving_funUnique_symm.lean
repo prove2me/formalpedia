@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_measurePreserving_funUnique_symm
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.measurePreserving_funUnique_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:39:20.761572+00:00
 -- url     : https://prove2.me/theorems/b6c227f5-ac19-4baa-bdf8-b9c4ca4be7bb

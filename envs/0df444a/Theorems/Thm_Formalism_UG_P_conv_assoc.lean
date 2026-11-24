@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_conv_assoc
 -- name    : Formalism.UG.P.conv_assoc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:21.62729+00:00
 -- url     : https://prove2.me/theorems/b88579f7-75ea-4715-a9dd-7f0ecf9563a4

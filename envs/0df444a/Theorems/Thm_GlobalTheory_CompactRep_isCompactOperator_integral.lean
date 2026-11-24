@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactRep_isCompactOperator_integral
 -- name    : GlobalTheory.CompactRep.isCompactOperator_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:16:17.688826+00:00
 -- url     : https://prove2.me/theorems/81c833bd-de82-4e82-85f3-692bb6aced63

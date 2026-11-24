@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_exists_unit_plus
 -- name    : GlobalTheory.ClassParam.exists_unit_plus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:12:35.688966+00:00
 -- url     : https://prove2.me/theorems/dafae5b1-e211-4cf1-bda2-c26184be8944

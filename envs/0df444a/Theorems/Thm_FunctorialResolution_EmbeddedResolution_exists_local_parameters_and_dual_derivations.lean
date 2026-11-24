@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_local_parameters_and_dual_derivations
 -- name    : FunctorialResolution.EmbeddedResolution.exists_local_parameters_and_dual_derivations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:46:54.455784+00:00
 -- url     : https://prove2.me/theorems/57708617-2386-4abb-9031-6d2e2b858c2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_CosetTop_valued_algebraMap
 -- name    : GlobalTheory.CompanionTheory.Equi.CosetTop.valued_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:38:37.9712+00:00
 -- url     : https://prove2.me/theorems/8441e46a-eb5a-41d2-8f7b-a1dabe2a6f74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommSplit_compr_mul
 -- name    : GlobalTheory.CompanionTheory.CommSplit.compr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:33:01.022825+00:00
 -- url     : https://prove2.me/theorems/171101f1-d56c-4d35-9cb6-2366cd36ca47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColengthDifferent_sum_proj_eq_one
 -- name    : GlobalTheory.ColengthDifferent.sum_proj_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:14:46.433797+00:00
 -- url     : https://prove2.me/theorems/1a492509-206a-4f77-8bda-201d4d3d4ff6

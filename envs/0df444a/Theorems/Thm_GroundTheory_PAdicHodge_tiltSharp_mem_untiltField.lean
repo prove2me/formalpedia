@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_tiltSharp_mem_untiltField
 -- name    : GroundTheory.PAdicHodge.tiltSharp_mem_untiltField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:54.673544+00:00
 -- url     : https://prove2.me/theorems/1a86093d-4be4-49b1-b778-d8570f6f7ce4

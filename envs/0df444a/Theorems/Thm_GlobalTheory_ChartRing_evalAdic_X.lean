@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_evalAdic_X
 -- name    : GlobalTheory.ChartRing.evalAdic_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:41.270776+00:00
 -- url     : https://prove2.me/theorems/36e89adf-1113-4840-b1c4-1c6bbf479603

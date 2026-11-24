@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_polarLog_mem_hermitian_part
 -- name    : Formalism.REAL.polarLog_mem_hermitian_part
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:39.905834+00:00
 -- url     : https://prove2.me/theorems/8a96aa1c-caf4-4f51-8e03-fe83e535f91b

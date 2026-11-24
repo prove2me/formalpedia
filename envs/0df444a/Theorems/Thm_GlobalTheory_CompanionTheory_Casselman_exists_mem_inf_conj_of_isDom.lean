@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Casselman_exists_mem_inf_conj_of_isDom
 -- name    : GlobalTheory.CompanionTheory.Casselman.exists_mem_inf_conj_of_isDom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:31:44.109992+00:00
 -- url     : https://prove2.me/theorems/675395bd-45c1-4c39-ac8c-1b23e53ede2b

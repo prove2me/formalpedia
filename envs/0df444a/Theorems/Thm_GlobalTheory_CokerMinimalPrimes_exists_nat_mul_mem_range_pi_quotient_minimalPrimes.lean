@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CokerMinimalPrimes_exists_nat_mul_mem_range_pi_quotient_minimalPrimes
 -- name    : GlobalTheory.CokerMinimalPrimes.exists_nat_mul_mem_range_pi_quotient_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:15:10.137912+00:00
 -- url     : https://prove2.me/theorems/b4c15f87-928b-494f-8fca-538f846d9407

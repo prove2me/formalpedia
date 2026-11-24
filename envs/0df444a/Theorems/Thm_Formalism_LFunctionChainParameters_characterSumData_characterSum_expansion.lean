@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_characterSum_expansion
 -- name    : Formalism.LFunctionChainParameters.characterSumData.characterSum_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:08.6278+00:00
 -- url     : https://prove2.me/theorems/089f94eb-2157-4772-aa67-28473a556838

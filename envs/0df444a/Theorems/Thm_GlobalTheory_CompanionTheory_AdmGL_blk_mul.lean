@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdmGL_blk_mul
 -- name    : GlobalTheory.CompanionTheory.AdmGL.blk_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:05:26.5318+00:00
 -- url     : https://prove2.me/theorems/dc764fbe-5f7e-44f0-ac2d-b2c36a297172

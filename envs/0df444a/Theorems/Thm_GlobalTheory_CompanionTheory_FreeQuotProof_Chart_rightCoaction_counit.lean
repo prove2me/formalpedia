@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_Chart_rightCoaction_counit
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.Chart.rightCoaction_counit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:42:55.69038+00:00
 -- url     : https://prove2.me/theorems/b43d43df-3ba4-4d80-b82f-9c131fdd447f

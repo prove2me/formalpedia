@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICKoszul_ann_lift
 -- name    : GlobalTheory.CompanionTheory.DSICKoszul.ann_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:35:49.36711+00:00
 -- url     : https://prove2.me/theorems/ce14cc1f-fe90-422e-a71a-ac1b9f9bc069

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_Chart_mono_of_free
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.Chart.mono_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:45.232383+00:00
 -- url     : https://prove2.me/theorems/33f94d4d-1fff-47b1-a802-ae714cc98d55

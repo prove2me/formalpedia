@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdmGL_isoPart_le_sup
 -- name    : GlobalTheory.CompanionTheory.AdmGL.isoPart_le_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:16:32.958791+00:00
 -- url     : https://prove2.me/theorems/9ff5e69e-e582-45d0-bc88-0b6cf20a549e

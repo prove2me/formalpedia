@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_Th_away
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.Th_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:04:22.054176+00:00
 -- url     : https://prove2.me/theorems/aecfd80c-ddd2-4e5e-a586-c1120965c91f

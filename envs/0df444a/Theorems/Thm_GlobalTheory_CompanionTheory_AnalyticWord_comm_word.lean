@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnalyticWord_comm_word
 -- name    : GlobalTheory.CompanionTheory.AnalyticWord.comm_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:17:59.72005+00:00
 -- url     : https://prove2.me/theorems/e34cb201-9ba1-44a8-86e2-d38c83e44728

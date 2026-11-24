@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassWeight_exists_proj
 -- name    : GlobalTheory.ClassWeight.exists_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:14:34.163943+00:00
 -- url     : https://prove2.me/theorems/750dea11-b490-4f93-933f-72c4676e1543

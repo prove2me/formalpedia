@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_RT_Siegel_finite_nonunit
 -- name    : GlobalTheory.CompanionTheory.Ar.RT.Siegel.finite_nonunit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:20:41.34458+00:00
 -- url     : https://prove2.me/theorems/950f4271-a7f4-4e25-afc6-9e2dab73a2a9

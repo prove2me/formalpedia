@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_equiv_of_graph
 -- name    : GlobalTheory.CompanionTheory.DSUniq.equiv_of_graph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:35:54.61794+00:00
 -- url     : https://prove2.me/theorems/caad7c94-cab5-48f8-bd44-eb6a869a2afc

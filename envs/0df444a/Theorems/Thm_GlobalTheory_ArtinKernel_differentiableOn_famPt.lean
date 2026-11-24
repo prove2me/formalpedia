@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_differentiableOn_famPt
 -- name    : GlobalTheory.ArtinKernel.differentiableOn_famPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:58:48.452802+00:00
 -- url     : https://prove2.me/theorems/4cf70722-fe6a-43aa-8cbf-5093aad2dd20

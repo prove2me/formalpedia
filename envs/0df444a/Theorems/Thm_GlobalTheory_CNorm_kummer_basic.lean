@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_kummer_basic
 -- name    : GlobalTheory.CNorm.kummer_basic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:45.585876+00:00
 -- url     : https://prove2.me/theorems/5b4d44af-600a-432d-b90a-f768ad1a0499

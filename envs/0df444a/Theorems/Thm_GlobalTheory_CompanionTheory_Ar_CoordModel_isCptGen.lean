@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CoordModel_isCptGen
 -- name    : GlobalTheory.CompanionTheory.Ar.CoordModel.isCptGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:17:51.383837+00:00
 -- url     : https://prove2.me/theorems/fda88d94-35a4-4079-8e11-e57f72cc4270

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_split_unitary_group_iso
 -- name    : Formalism.UG.P.split_unitary_group_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:07.595364+00:00
 -- url     : https://prove2.me/theorems/f79b8ab4-a163-4ebc-a460-ad4c027ddc25

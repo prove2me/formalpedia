@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CompactScaling_exists_pow_smul_mem
 -- name    : GlobalTheory.CompanionTheory.CompactScaling.exists_pow_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:33:22.150774+00:00
 -- url     : https://prove2.me/theorems/c5d7fc3a-2232-4748-8ea5-a1d0f19d9ffd

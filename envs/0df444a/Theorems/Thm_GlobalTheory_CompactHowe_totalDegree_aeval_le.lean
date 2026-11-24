@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactHowe_totalDegree_aeval_le
 -- name    : GlobalTheory.CompactHowe.totalDegree_aeval_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:36.778133+00:00
 -- url     : https://prove2.me/theorems/e15c1d44-d0bb-453c-8a07-e09307f669d2

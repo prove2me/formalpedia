@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSChainAdj_ip_sum_right
 -- name    : GlobalTheory.CompanionTheory.DSChainAdj.ip_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:34:45.860535+00:00
 -- url     : https://prove2.me/theorems/556fdf36-2d4b-49d7-b261-d226e2f348e2

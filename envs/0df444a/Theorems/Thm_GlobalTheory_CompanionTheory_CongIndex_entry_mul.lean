@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CongIndex_entry_mul
 -- name    : GlobalTheory.CompanionTheory.CongIndex.entry_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:32:49.632963+00:00
 -- url     : https://prove2.me/theorems/cbdc7a8e-5a0c-4c2e-83d3-524c688bb28e

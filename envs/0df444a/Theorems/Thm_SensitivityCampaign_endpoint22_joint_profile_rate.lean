@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityCampaign_endpoint22_joint_profile_rate
 -- name    : SensitivityCampaign.endpoint22_joint_profile_rate
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-24T11:52:40.752426+00:00
 -- url     : https://prove2.me/theorems/cec12ff2-f6f8-4755-9f30-2801db014420

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_AnSys_nComp_pos
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.AnSys.nComp_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:11.670357+00:00
 -- url     : https://prove2.me/theorems/60140420-60c7-4137-b754-52b43255aaa7

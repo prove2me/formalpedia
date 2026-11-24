@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLimit_differentiableAt_GammaSeq
 -- name    : GlobalTheory.CompanionTheory.DigammaLimit.differentiableAt_GammaSeq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:35:06.009276+00:00
 -- url     : https://prove2.me/theorems/573f4460-4796-473c-9bc0-181f3629bec7

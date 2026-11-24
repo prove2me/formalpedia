@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_TermUnit_prod_norm_sq
 -- name    : GlobalTheory.CMVal.TermUnit.prod_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:52:11.231184+00:00
 -- url     : https://prove2.me/theorems/cd747691-050a-4b15-b798-59b9e250ca6a

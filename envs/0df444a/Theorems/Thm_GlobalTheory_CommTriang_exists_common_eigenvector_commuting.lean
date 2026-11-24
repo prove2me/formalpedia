@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommTriang_exists_common_eigenvector_commuting
 -- name    : GlobalTheory.CommTriang.exists_common_eigenvector_commuting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:16:58.946975+00:00
 -- url     : https://prove2.me/theorems/6dda6219-b85f-42ba-b582-06a33a2b3112

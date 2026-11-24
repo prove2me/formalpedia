@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAntipode_qminor_id_rev
 -- name    : GlobalTheory.CompanionTheory.CapelliAntipode.qminor_id_rev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:27:12.475305+00:00
 -- url     : https://prove2.me/theorems/287dec48-ff9b-4af5-b3f3-a2edd0cb6534

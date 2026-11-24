@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSChainAdj_sg_insert
 -- name    : GlobalTheory.CompanionTheory.DSChainAdj.sg_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:34:04.680965+00:00
 -- url     : https://prove2.me/theorems/86c5c848-7199-42b3-82e6-5ceda56586a1

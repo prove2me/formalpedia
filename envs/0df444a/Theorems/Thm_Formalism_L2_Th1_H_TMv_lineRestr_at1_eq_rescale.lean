@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TMv_lineRestr_at1_eq_rescale
 -- name    : Formalism.L2.Th1.H.TMv.lineRestr_at1_eq_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:24:16.21157+00:00
 -- url     : https://prove2.me/theorems/a8fdb403-626e-46ab-b927-8c525ee95aa1

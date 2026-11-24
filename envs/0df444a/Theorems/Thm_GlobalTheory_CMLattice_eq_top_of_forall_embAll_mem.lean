@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLattice_eq_top_of_forall_embAll_mem
 -- name    : GlobalTheory.CMLattice.eq_top_of_forall_embAll_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:02:54.517003+00:00
 -- url     : https://prove2.me/theorems/fb34724f-511d-43b5-b6c0-f712483e9e9d

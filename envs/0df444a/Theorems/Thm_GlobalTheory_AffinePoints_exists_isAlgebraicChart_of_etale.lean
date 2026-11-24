@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_exists_isAlgebraicChart_of_etale
 -- name    : GlobalTheory.AffinePoints.exists_isAlgebraicChart_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:54:41.910831+00:00
 -- url     : https://prove2.me/theorems/1135aacc-c17c-4baa-a625-4783ade2162c

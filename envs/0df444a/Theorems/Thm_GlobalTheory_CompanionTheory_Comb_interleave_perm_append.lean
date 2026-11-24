@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Comb_interleave_perm_append
 -- name    : GlobalTheory.CompanionTheory.Comb.interleave_perm_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:39.328072+00:00
 -- url     : https://prove2.me/theorems/802bfffb-fd20-4601-bb52-0b73ec017681

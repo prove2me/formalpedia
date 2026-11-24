@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSKType_kset_subset_ujset
 -- name    : GlobalTheory.CompanionTheory.DSKType.kset_subset_ujset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:35:10.527169+00:00
 -- url     : https://prove2.me/theorems/70cbd5dc-a357-476e-b68b-4ddd2ce2aac4

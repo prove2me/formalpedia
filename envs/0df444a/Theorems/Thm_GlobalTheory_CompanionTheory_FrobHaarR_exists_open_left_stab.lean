@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobHaarR_exists_open_left_stab
 -- name    : GlobalTheory.CompanionTheory.FrobHaarR.exists_open_left_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:43:14.855974+00:00
 -- url     : https://prove2.me/theorems/86fdc96e-b6eb-49f4-9216-4400c361bded

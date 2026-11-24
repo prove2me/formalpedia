@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeInj_exists_open_sub
 -- name    : GlobalTheory.CompanionTheory.HeckeInj.exists_open_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:46:19.977105+00:00
 -- url     : https://prove2.me/theorems/77a56c4a-3924-4a08-88fa-d42069310996

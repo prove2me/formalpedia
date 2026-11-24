@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedSequenceOfBlowups_exceptionalDivisor_eq
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedSequenceOfBlowups.exceptionalDivisor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:29:28.019137+00:00
 -- url     : https://prove2.me/theorems/a50e6104-81e6-401b-9ab4-85055cf266a0

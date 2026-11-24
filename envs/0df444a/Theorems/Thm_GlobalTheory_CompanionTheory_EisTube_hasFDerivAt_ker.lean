@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_hasFDerivAt_ker
 -- name    : GlobalTheory.CompanionTheory.EisTube.hasFDerivAt_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:36:16.644179+00:00
 -- url     : https://prove2.me/theorems/c83d1309-89da-49b1-8d4f-265257ad59f6

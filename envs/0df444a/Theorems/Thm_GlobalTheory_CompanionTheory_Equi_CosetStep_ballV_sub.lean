@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_CosetStep_ballV_sub
 -- name    : GlobalTheory.CompanionTheory.Equi.CosetStep.ballV_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:37:08.730799+00:00
 -- url     : https://prove2.me/theorems/1f7ef984-bdf5-491e-b2d6-84259bd27946

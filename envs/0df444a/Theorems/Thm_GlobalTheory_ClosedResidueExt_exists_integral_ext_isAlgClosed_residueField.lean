@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedResidueExt_exists_integral_ext_isAlgClosed_residueField
 -- name    : GlobalTheory.ClosedResidueExt.exists_integral_ext_isAlgClosed_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:12:53.286539+00:00
 -- url     : https://prove2.me/theorems/f218e96c-717f-49e1-9190-7003a4caf31b

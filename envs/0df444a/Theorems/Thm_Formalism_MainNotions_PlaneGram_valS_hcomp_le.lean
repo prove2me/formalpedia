@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_hcomp_le
 -- name    : Formalism.MainNotions.PlaneGram.valS_hcomp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:08:07.22561+00:00
 -- url     : https://prove2.me/theorems/63abca54-3c19-40ed-bf85-b2e7167d3516

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_delayedOpenInfValueInClosedNeighbourhoodV1
 -- name    : Kyprianou.Ch03.delayedOpenInfValueInClosedNeighbourhoodV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:13:53.987727+00:00
 -- url     : https://prove2.me/theorems/3176560c-4d00-49e4-bc6c-04a61e02d772

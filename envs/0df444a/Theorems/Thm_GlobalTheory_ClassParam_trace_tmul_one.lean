@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_trace_tmul_one
 -- name    : GlobalTheory.ClassParam.trace_tmul_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:41.024481+00:00
 -- url     : https://prove2.me/theorems/8db32b48-1434-4dbd-bfdb-df52f5d8f894

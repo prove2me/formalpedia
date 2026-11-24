@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_SplitK_clause
 -- name    : Formalism.FrobeniusOrbits.SplitK.clause
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:54.117144+00:00
 -- url     : https://prove2.me/theorems/c815d20e-89a5-4c35-9515-5931d3edeeaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_mem_orbit_self
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.mem_orbit_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:43:55.342222+00:00
 -- url     : https://prove2.me/theorems/b64c278f-fb03-4fab-b469-406f349bdfe0

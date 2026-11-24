@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_isMultiHomog_redMap
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.isMultiHomog_redMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:20:55.699042+00:00
 -- url     : https://prove2.me/theorems/0dfbbe92-9b1f-4bb5-8ea0-ceb0a46ddbe6

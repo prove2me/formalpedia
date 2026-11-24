@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_term_add_P0
 -- name    : GlobalTheory.AnArc.term_add_P0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:56:38.655596+00:00
 -- url     : https://prove2.me/theorems/eff8bc2d-febf-442d-b846-b0bb7a548a16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_shear_surjective
 -- name    : GlobalTheory.HopfQuot.shear_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:18:29.969863+00:00
 -- url     : https://prove2.me/theorems/90f04e6e-9275-4013-9718-6c60a4e242bf

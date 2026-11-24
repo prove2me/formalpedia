@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_isClosed_meets_compact
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.isClosed_meets_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:40:14.963175+00:00
 -- url     : https://prove2.me/theorems/068db954-d172-4e87-8907-4f3000e9c17b

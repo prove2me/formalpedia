@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSStabLink_flow_mem
 -- name    : GlobalTheory.CompanionTheory.DSStabLink.flow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:36:01.698665+00:00
 -- url     : https://prove2.me/theorems/fe0c1887-7ea6-41ed-aa8a-441cc1ef2734

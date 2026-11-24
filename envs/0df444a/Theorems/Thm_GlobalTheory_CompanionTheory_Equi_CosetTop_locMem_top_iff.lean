@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_CosetTop_locMem_top_iff
 -- name    : GlobalTheory.CompanionTheory.Equi.CosetTop.locMem_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:38:41.880795+00:00
 -- url     : https://prove2.me/theorems/a7955ee0-2f4d-457f-8435-ecf59dcc4323

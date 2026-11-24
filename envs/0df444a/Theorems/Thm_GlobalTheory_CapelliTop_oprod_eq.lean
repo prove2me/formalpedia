@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliTop_oprod_eq
 -- name    : GlobalTheory.CapelliTop.oprod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:55:44.732813+00:00
 -- url     : https://prove2.me/theorems/c48ea0a3-cc9a-4aa7-a798-2451d33d98d2

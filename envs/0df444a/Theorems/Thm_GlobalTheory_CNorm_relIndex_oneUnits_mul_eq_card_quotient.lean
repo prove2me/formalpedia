@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_relIndex_oneUnits_mul_eq_card_quotient
 -- name    : GlobalTheory.CNorm.relIndex_oneUnits_mul_eq_card_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:07:20.303663+00:00
 -- url     : https://prove2.me/theorems/555c2449-b0ab-42e8-93a5-240953749216

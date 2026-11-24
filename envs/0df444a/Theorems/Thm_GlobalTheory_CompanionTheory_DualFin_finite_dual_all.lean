@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DualFin_finite_dual_all
 -- name    : GlobalTheory.CompanionTheory.DualFin.finite_dual_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:37:24.139134+00:00
 -- url     : https://prove2.me/theorems/521e4acf-0808-4468-ba53-e4c52466d92d

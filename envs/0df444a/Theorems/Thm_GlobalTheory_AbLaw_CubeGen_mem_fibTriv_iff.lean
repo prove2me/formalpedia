@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_mem_fibTriv_iff
 -- name    : GlobalTheory.AbLaw.CubeGen.mem_fibTriv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:50:53.114796+00:00
 -- url     : https://prove2.me/theorems/dbf11a95-3a45-49c7-b063-65b2616b041d

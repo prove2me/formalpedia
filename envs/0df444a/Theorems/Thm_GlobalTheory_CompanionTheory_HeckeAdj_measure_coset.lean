@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeAdj_measure_coset
 -- name    : GlobalTheory.CompanionTheory.HeckeAdj.measure_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:45:35.144518+00:00
 -- url     : https://prove2.me/theorems/4f6dcf47-d182-43af-b1f3-28f240f808bf

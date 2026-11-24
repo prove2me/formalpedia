@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisCross_exp_between
 -- name    : GlobalTheory.CompanionTheory.EisCross.exp_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:36:59.194386+00:00
 -- url     : https://prove2.me/theorems/abe3ee06-e05f-4fb9-ad99-fd5f3dfacf07

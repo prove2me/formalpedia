@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMult_conj_lower
 -- name    : GlobalTheory.CompanionTheory.HeckeMult.conj_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:46:29.607515+00:00
 -- url     : https://prove2.me/theorems/f1d471ca-680a-48b4-b242-0f83f9df9be8

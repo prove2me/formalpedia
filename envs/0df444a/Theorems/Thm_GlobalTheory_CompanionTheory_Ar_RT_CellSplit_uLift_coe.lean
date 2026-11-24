@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_RT_CellSplit_uLift_coe
 -- name    : GlobalTheory.CompanionTheory.Ar.RT.CellSplit.uLift_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:20:22.392844+00:00
 -- url     : https://prove2.me/theorems/5c181ad8-4156-40a1-a813-c174f6bb279d

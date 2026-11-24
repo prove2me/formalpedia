@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpCount_card_dotProduct_eq_one
 -- name    : GlobalTheory.CompanionTheory.GapOpCount.card_dotProduct_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:42:46.099932+00:00
 -- url     : https://prove2.me/theorems/442d26ab-a48a-4af2-b5f0-76e793bd68c4

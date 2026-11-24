@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_characteristicIdentity_holds
 -- name    : Formalism.REAL.characteristicIdentity_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:19:56.654164+00:00
 -- url     : https://prove2.me/theorems/ed454067-8d69-4555-a292-63550ec882c7

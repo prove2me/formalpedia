@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_kHighest_smul
 -- name    : GlobalTheory.CompanionTheory.DSUniq.kHighest_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:37:13.628539+00:00
 -- url     : https://prove2.me/theorems/093671f6-304b-4ea2-bffe-54f9b0a323a6

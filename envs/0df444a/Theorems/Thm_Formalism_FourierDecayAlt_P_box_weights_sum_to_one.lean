@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_box_weights_sum_to_one
 -- name    : Formalism.FourierDecayAlt.P.box_weights_sum_to_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:54:56.767866+00:00
 -- url     : https://prove2.me/theorems/50cdf16d-9ce5-4229-a622-5588799cb2bc

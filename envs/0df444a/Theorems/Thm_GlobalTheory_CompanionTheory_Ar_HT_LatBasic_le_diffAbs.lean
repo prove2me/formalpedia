@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HT_LatBasic_le_diffAbs
 -- name    : GlobalTheory.CompanionTheory.Ar.HT.LatBasic.le_diffAbs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:52.61785+00:00
 -- url     : https://prove2.me/theorems/e35cc14c-c391-47c2-92d0-7225000a7529

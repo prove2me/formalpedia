@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinRep_leftRep_apply
 -- name    : GlobalTheory.CompanionTheory.FinRep.leftRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:41:41.274871+00:00
 -- url     : https://prove2.me/theorems/72322ae4-822b-4a63-bb64-c33fb97ac18c

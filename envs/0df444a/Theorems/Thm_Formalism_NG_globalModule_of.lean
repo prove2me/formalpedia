@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_globalModule_of
 -- name    : Formalism.NG.globalModule_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:17:17.739848+00:00
 -- url     : https://prove2.me/theorems/41ae67b9-fe98-4ec1-8f36-7bfcfffd2716

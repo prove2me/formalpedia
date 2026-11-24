@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlWitt_h_zero_left
 -- name    : GlobalTheory.CompanionTheory.FlWitt.h_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:41:17.230115+00:00
 -- url     : https://prove2.me/theorems/a066e767-3050-4d8c-ab35-be03732e4bc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_tubeShift_gauss_bound
 -- name    : GlobalTheory.CompanionTheory.EisTube.tubeShift_gauss_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:37:18.280923+00:00
 -- url     : https://prove2.me/theorems/c5b0a89b-3139-400a-93fb-e0afdc7224cc

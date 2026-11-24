@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapPolyProof_dd_step
 -- name    : GlobalTheory.CompanionTheory.GapPolyProof.dd_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:43:31.1283+00:00
 -- url     : https://prove2.me/theorems/355c6ca1-6ebb-48a8-a4fb-7288f13eee27

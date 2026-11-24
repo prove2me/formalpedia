@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGL_card_eq_sum_blocks
 -- name    : GlobalTheory.CompanionTheory.FinGL.card_eq_sum_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:39:34.928586+00:00
 -- url     : https://prove2.me/theorems/0a1e76a9-e7e6-4f1d-bcc2-52197fdc7510

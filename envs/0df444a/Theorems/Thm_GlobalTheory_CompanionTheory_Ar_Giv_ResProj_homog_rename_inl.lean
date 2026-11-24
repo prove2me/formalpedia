@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_ResProj_homog_rename_inl
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.ResProj.homog_rename_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:21:07.495959+00:00
 -- url     : https://prove2.me/theorems/0ef554ac-ec6b-4354-ad96-e74b0f19ca61

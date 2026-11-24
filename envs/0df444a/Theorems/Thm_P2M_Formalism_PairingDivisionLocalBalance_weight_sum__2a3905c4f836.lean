@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_PairingDivisionLocalBalance_weight_sum__2a3905c4f836
 -- name    : P2M_Formalism_PairingDivisionLocalBalance_weight_sum__2a3905c4f836
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:24:54.23878+00:00
 -- url     : https://prove2.me/theorems/08c91127-b28c-4e43-9619-d8ed2a32576e

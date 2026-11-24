@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_volume_range_eq_zero_of_mdifferentiable
 -- name    : GlobalTheory.AffinePoints.volume_range_eq_zero_of_mdifferentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:49.079403+00:00
 -- url     : https://prove2.me/theorems/cbf1e336-9877-4e6c-b138-e261876ee24d

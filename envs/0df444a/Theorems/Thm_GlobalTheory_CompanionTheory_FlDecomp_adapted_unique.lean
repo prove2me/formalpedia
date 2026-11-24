@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_adapted_unique
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.adapted_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:41:43.825845+00:00
 -- url     : https://prove2.me/theorems/f826c2a6-0d2c-4d9d-81e4-dc0baacd04a4

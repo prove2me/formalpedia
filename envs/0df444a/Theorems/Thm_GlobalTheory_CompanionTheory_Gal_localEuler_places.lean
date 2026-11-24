@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Gal_localEuler_places
 -- name    : GlobalTheory.CompanionTheory.Gal.localEuler_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:42:34.666438+00:00
 -- url     : https://prove2.me/theorems/417365cd-4c1a-4a74-8f34-392c0d3752fd

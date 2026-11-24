@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGL_two_choose_add
 -- name    : GlobalTheory.CompanionTheory.FinGL.two_choose_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:39:20.334578+00:00
 -- url     : https://prove2.me/theorems/6a9b9325-cc70-429a-af44-460813deb2e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_norm_adjugate_entry_le
 -- name    : GlobalTheory.CompanionTheory.CartGL.norm_adjugate_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:29:01.172209+00:00
 -- url     : https://prove2.me/theorems/689e198c-d0f3-4ed5-bc40-70ffbc9c5d7e

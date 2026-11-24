@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCompare_isGen_symEquiv
 -- name    : GlobalTheory.BoxCompare.isGen_symEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:01:53.047938+00:00
 -- url     : https://prove2.me/theorems/bdb70c09-1f1d-45d6-99c1-8a380b4db978

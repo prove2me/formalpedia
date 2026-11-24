@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_ind_mem_D0_of_mem_D0
 -- name    : GlobalTheory.BrauerZero.ind_mem_D0_of_mem_D0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:04:04.390814+00:00
 -- url     : https://prove2.me/theorems/ecd2cca3-9623-4c0a-b7ad-f94815006244

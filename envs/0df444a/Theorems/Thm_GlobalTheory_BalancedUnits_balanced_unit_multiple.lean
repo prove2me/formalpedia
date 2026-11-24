@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BalancedUnits_balanced_unit_multiple
 -- name    : GlobalTheory.BalancedUnits.balanced_unit_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:59:57.831356+00:00
 -- url     : https://prove2.me/theorems/fcbd7bad-ef95-49a8-9db9-95b4e62a2248

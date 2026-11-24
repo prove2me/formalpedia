@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DiracComb_exists_unity
 -- name    : GlobalTheory.CompanionTheory.DiracComb.exists_unity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:36:50.288028+00:00
 -- url     : https://prove2.me/theorems/6241727f-f45b-44b2-a029-e09d7461817a

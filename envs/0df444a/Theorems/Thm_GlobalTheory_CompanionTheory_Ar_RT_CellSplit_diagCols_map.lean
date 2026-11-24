@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_RT_CellSplit_diagCols_map
 -- name    : GlobalTheory.CompanionTheory.Ar.RT.CellSplit.diagCols_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:20:34.645838+00:00
 -- url     : https://prove2.me/theorems/5b274a86-5ba7-4f85-bf88-4dc74aee97c9

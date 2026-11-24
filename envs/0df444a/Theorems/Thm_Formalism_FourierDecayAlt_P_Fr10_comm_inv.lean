@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr10_comm_inv
 -- name    : Formalism.FourierDecayAlt.P.Fr10.comm_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:53:11.446379+00:00
 -- url     : https://prove2.me/theorems/a40ddfce-36a0-4d64-bb1c-1d1ee35b4b0d

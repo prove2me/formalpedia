@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussRec_mk_of_mul_eq
 -- name    : GlobalTheory.CompanionTheory.GaussRec.mk_of_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:43:31.169121+00:00
 -- url     : https://prove2.me/theorems/40d83dd1-4518-4197-a501-9db2263d77a7

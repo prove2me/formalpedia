@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_term_add_Pw_div
 -- name    : GlobalTheory.AnArc.term_add_Pw_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:12:51.535516+00:00
 -- url     : https://prove2.me/theorems/b282babe-f7d9-4478-923b-781de436965d

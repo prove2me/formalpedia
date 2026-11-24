@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_SuppAt_finPart_eq
 -- name    : GlobalTheory.CMVal.SuppAt.finPart_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:26.450268+00:00
 -- url     : https://prove2.me/theorems/80b1a0d0-234d-4c7c-92b2-d581d9c7c408

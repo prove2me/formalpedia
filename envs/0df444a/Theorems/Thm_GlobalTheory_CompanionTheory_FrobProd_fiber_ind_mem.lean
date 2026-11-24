@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobProd_fiber_ind_mem
 -- name    : GlobalTheory.CompanionTheory.FrobProd.fiber_ind_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:42:56.698161+00:00
 -- url     : https://prove2.me/theorems/9dbbe2c8-cda0-48c8-a875-ee9661142474

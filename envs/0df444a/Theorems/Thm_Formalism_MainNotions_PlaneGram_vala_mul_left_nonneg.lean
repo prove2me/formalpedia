@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_mul_left_nonneg
 -- name    : Formalism.MainNotions.PlaneGram.vala_mul_left_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:26:39.855618+00:00
 -- url     : https://prove2.me/theorems/854fce51-a669-4113-ae80-ddfd81a51784

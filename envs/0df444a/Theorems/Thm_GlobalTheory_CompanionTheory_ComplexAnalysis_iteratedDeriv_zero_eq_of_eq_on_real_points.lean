@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexAnalysis_iteratedDeriv_zero_eq_of_eq_on_real_points
 -- name    : GlobalTheory.CompanionTheory.ComplexAnalysis.iteratedDeriv_zero_eq_of_eq_on_real_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:33:29.412624+00:00
 -- url     : https://prove2.me/theorems/20570ccd-3d6e-4825-9000-b9e325fe0cfc

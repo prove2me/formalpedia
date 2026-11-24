@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_phiQ_mk
 -- name    : Formalism.L2.Th1.H.phiQ_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:39.42383+00:00
 -- url     : https://prove2.me/theorems/69e75a88-597b-4f62-9223-7498f9ce1b55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_Dv_sub
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.Dv.sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:50.81407+00:00
 -- url     : https://prove2.me/theorems/cf29db7f-49d0-4139-a7c0-4d5e0aa68dfb

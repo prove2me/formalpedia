@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedResidueExt_Unram_factor
 -- name    : GlobalTheory.ClosedResidueExt.Unram.factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:21:27.86294+00:00
 -- url     : https://prove2.me/theorems/56720bef-92dc-4b93-9df5-17746f2dcc76

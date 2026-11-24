@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CongIndex_conj_entry
 -- name    : GlobalTheory.CompanionTheory.CongIndex.conj_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:32:51.59442+00:00
 -- url     : https://prove2.me/theorems/00b3938d-89b1-4dc3-9845-f3c961d05fbc

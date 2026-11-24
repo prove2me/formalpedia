@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_norm_det_le_one
 -- name    : GlobalTheory.CompanionTheory.CartGL.norm_det_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:28.565798+00:00
 -- url     : https://prove2.me/theorems/82636f42-5aff-423d-b4d4-b6f7792227f7

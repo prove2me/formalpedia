@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeB_mem
 -- name    : Formalism.UG.P.satakeB_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:44.587871+00:00
 -- url     : https://prove2.me/theorems/62baf2aa-6792-4a89-93b9-7448a0269ca8

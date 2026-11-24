@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vN_prod
 -- name    : Formalism.MainNotions.PlaneGram.vN_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:59.50792+00:00
 -- url     : https://prove2.me/theorems/66bd9862-9e7b-4b8c-9dd3-32cf0c3a214b

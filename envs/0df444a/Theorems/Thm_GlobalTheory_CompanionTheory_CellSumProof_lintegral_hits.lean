@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CellSumProof_lintegral_hits
 -- name    : GlobalTheory.CompanionTheory.CellSumProof.lintegral_hits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:32:21.058656+00:00
 -- url     : https://prove2.me/theorems/6e44d3b9-2883-41f8-b457-de779bc13511

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_cobF
 -- name    : Formalism.WeaklyAdmissibleFiltrations.cobF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:40:01.449428+00:00
 -- url     : https://prove2.me/theorems/32d1ef4f-b808-47d5-8777-eba659f63592

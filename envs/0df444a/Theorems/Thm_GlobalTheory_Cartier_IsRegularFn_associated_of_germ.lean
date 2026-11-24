@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_IsRegularFn_associated_of_germ
 -- name    : GlobalTheory.Cartier.IsRegularFn.associated_of_germ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:07:45.52545+00:00
 -- url     : https://prove2.me/theorems/744545ad-54d3-48b2-b51b-48bc93a8b16c

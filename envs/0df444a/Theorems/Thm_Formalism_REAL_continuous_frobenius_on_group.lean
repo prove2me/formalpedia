@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_continuous_frobenius_on_group
 -- name    : Formalism.REAL.continuous_frobenius_on_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:23:36.087021+00:00
 -- url     : https://prove2.me/theorems/ccbda8c3-80a6-4fa6-bdf1-839a1b0e2e90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Eis_tube_isOpen
 -- name    : GlobalTheory.CompanionTheory.Eis.tube_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:37:05.737253+00:00
 -- url     : https://prove2.me/theorems/8a32045f-8f1e-448a-80df-5ae171d017fd

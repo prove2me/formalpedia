@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HaarPK_isClosed_transl_le
 -- name    : GlobalTheory.CompanionTheory.HaarPK.isClosed_transl_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:45:35.900898+00:00
 -- url     : https://prove2.me/theorems/16aafb41-dcc4-446d-be8d-007c9546e400

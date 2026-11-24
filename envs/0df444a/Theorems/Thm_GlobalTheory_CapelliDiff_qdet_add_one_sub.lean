@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliDiff_qdet_add_one_sub
 -- name    : GlobalTheory.CapelliDiff.qdet_add_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:13.13179+00:00
 -- url     : https://prove2.me/theorems/ab659a19-3545-43fe-a52c-c044b2dfdf6d

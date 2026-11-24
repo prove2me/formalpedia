@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_degree_supermodular
 -- name    : Formalism.HN.degree_supermodular
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:02:58.036593+00:00
 -- url     : https://prove2.me/theorems/5d6b15ae-3fcb-4b98-a04b-08c6a9b20f47

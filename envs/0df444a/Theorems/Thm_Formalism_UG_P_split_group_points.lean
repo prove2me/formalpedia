@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_split_group_points
 -- name    : Formalism.UG.P.split_group_points
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:16:05.674906+00:00
 -- url     : https://prove2.me/theorems/8dd9361a-0eea-4837-a4bf-fb954efd0f84

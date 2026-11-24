@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BlockIwahoriUML_blockDiag_mul
 -- name    : GlobalTheory.CompanionTheory.BlockIwahoriUML.blockDiag_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:27:01.707654+00:00
 -- url     : https://prove2.me/theorems/39e9833b-a01e-4fc1-90ee-bda9d3e47ad8

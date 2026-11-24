@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_mul_log_eq_neg_log_mul
 -- name    : GlobalTheory.ClassFin.mul_log_eq_neg_log_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:12:02.235867+00:00
 -- url     : https://prove2.me/theorems/ce1bc578-8cbd-4b34-9abc-0dd62c45c148

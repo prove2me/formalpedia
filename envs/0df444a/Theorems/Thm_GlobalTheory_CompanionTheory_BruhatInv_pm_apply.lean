@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BruhatInv_pm_apply
 -- name    : GlobalTheory.CompanionTheory.BruhatInv.pm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:04.562857+00:00
 -- url     : https://prove2.me/theorems/4d185e29-a2a8-4466-9c1f-38fcb918a9c8

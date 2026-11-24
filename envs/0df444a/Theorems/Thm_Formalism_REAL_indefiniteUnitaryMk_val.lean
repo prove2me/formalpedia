@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_indefiniteUnitaryMk_val
 -- name    : Formalism.REAL.indefiniteUnitaryMk_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:23:22.232306+00:00
 -- url     : https://prove2.me/theorems/4e1dec20-1077-41cc-b4e8-8c67ac54e7dd

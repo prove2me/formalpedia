@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GLFirstBasisOrbit_gmap_top
 -- name    : GlobalTheory.CompanionTheory.GLFirstBasisOrbit.gmap_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:42:14.606518+00:00
 -- url     : https://prove2.me/theorems/888466f9-a5eb-49be-8368-6eaa9f485bc6

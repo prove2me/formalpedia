@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_ProjCoord_regAt_push
 -- name    : GlobalTheory.CompanionTheory.Ar.ProjCoord.regAt_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:19:14.687393+00:00
 -- url     : https://prove2.me/theorems/e9e8c64e-a422-4c8a-aaa9-47eb3eeb4f04

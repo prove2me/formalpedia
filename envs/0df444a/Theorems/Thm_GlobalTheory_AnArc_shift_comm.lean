@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_shift_comm
 -- name    : GlobalTheory.AnArc.shift_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:44:52.368614+00:00
 -- url     : https://prove2.me/theorems/10ac287b-e636-42c6-b51c-0f97eeab50a5

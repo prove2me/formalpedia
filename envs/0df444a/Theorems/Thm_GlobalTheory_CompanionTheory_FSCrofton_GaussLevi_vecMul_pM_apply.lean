@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussLevi_vecMul_pM_apply
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussLevi.vecMul_pM_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:37:50.553821+00:00
 -- url     : https://prove2.me/theorems/19916ea7-56d8-4131-8036-226ea96db2bc

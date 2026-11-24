@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_IsChart_exists_opens_image_preimage
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.IsChart.exists_opens_image_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:41:20.819392+00:00
 -- url     : https://prove2.me/theorems/1308dc69-24c5-4658-a6e2-e42961db2606

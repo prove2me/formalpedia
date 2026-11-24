@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_eval_blockScale
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.eval_blockScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:19:43.274749+00:00
 -- url     : https://prove2.me/theorems/8bff611f-34f9-4e3a-b239-ed254240566f

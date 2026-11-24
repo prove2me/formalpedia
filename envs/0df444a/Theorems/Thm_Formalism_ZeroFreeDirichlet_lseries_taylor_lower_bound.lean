@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_lseries_taylor_lower_bound
 -- name    : Formalism.ZeroFreeDirichlet.lseries_taylor_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:43:03.389752+00:00
 -- url     : https://prove2.me/theorems/d449c5ba-4f9d-47ea-b3cb-0d2ca6ddd840

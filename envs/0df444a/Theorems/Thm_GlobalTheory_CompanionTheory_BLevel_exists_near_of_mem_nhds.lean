@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BLevel_exists_near_of_mem_nhds
 -- name    : GlobalTheory.CompanionTheory.BLevel.exists_near_of_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:38.572515+00:00
 -- url     : https://prove2.me/theorems/f4b207fd-712f-4dbe-ab3b-88e4d00a759a

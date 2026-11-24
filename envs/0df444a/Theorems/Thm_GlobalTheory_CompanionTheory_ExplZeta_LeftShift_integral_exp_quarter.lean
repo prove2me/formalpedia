@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExplZeta_LeftShift_integral_exp_quarter
 -- name    : GlobalTheory.CompanionTheory.ExplZeta.LeftShift.integral_exp_quarter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:37:38.984022+00:00
 -- url     : https://prove2.me/theorems/3cdf7713-2b91-470e-bb8a-e254c3d1694c

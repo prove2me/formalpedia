@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_inner_eq_sum_coord
 -- name    : GlobalTheory.CompanionTheory.EisTube.inner_eq_sum_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:36:42.602874+00:00
 -- url     : https://prove2.me/theorems/9daf2e00-ac75-473e-814f-cdfb7a041a7e

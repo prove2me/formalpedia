@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FiberInt_lintegral_periodized
 -- name    : GlobalTheory.CompanionTheory.FiberInt.lintegral_periodized
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:39:11.354931+00:00
 -- url     : https://prove2.me/theorems/656ebe42-dd4f-483d-b6a3-ba076fa42581

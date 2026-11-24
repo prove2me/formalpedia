@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliBlocks_blk_bijective
 -- name    : GlobalTheory.CompanionTheory.CapelliBlocks.blk_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:28:12.982879+00:00
 -- url     : https://prove2.me/theorems/8fe4f636-4787-487d-ba9f-618e1c76a0ec

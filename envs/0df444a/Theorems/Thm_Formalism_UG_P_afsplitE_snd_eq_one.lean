@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_Formalism_UG_P_afsplitE_snd_eq_one
+-- name    : Formalism.UG.P.afsplitE_snd_eq_one
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-24T12:33:52.648537+00:00
+-- url     : https://prove2.me/theorems/fcdea016-b8c5-4b7b-bc00-334929beb829
+-- title:
+--   P: afsplit E snd eq one
+-- statement:
+--   The P construction uses the afsplit E snd eq one property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/Afsplit.lean#L392-L430
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/Afsplit.lean#L392-L430
+
+import Definitions.Def_Formalism_SatakeDualWeyl_StatementC
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AfsplitC
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_RationalPointsLeHolds
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Afsplit
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix TensorProduct NumberField IsDedekindDomain
+open Formalism Formalism.UG Formalism.UG.P
+open Formalism.UG
+variable {F : Type} [Field F] [NumberField F] {E : Type} [Field E] [NumberField E] [Algebra F E]
+  {n : Type} [Fintype n] [DecidableEq n] (σ : E →ₐ[F] E) (J : Matrix n n E)
+  (v : HeightOneSpectrum (𝓞 F))
+local notation "𝔸" => FiniteAdeleRing (𝓞 F) F
+
+theorem Formalism.UG.P.afsplitE_snd_eq_one (g : UPts σ J 𝔸) :
+    (afsplitE σ J v g).2 = 1 ↔ ∀ w : HeightOneSpectrum (𝓞 F), w ≠ v →
+      bc (prV (E := E) w) (g : GL n (E ⊗[F] 𝔸)) = 1 := by sorry

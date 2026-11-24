@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gl_character_eq_one_of_transpose_inv
 -- name    : GlobalTheory.gl_character_eq_one_of_transpose_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:24:20.271861+00:00
 -- url     : https://prove2.me/theorems/bc3494d6-03f2-4652-aa16-1e611b94f354

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BLevel_isCompact_congS
 -- name    : GlobalTheory.CompanionTheory.BLevel.isCompact_congS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:37.422415+00:00
 -- url     : https://prove2.me/theorems/7ccbf12c-d856-49d8-bf84-615d53a9b0ac

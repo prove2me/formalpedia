@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpLower_re_sesq_sum
 -- name    : GlobalTheory.CompanionTheory.GapOpLower.re_sesq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:42:58.817778+00:00
 -- url     : https://prove2.me/theorems/85e7d04b-7d31-48d4-bf6f-9f562cb0a515

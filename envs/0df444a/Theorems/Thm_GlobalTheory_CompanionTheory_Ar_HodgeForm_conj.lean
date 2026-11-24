@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HodgeForm_conj
 -- name    : GlobalTheory.CompanionTheory.Ar.HodgeForm.conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:46:05.800483+00:00
 -- url     : https://prove2.me/theorems/d60c60ee-0504-4d50-9109-a51ac1a015a4

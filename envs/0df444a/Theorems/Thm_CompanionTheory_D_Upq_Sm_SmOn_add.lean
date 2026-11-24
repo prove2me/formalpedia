@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_SmOn_add
 -- name    : CompanionTheory.D.Upq.Sm.SmOn.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:24:57.791898+00:00
 -- url     : https://prove2.me/theorems/9bf4a0bb-f32d-49fb-a728-c765bc4b73c7

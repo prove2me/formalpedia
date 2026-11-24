@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFamily_charMul_family
 -- name    : GlobalTheory.CharFamily.charMul_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:07:59.343981+00:00
 -- url     : https://prove2.me/theorems/cdfb0996-d84a-41f1-a771-edcabb99773d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_abs_det_restrictScalars_toEuclideanCLM
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.abs_det_restrictScalars_toEuclideanCLM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:39:48.991177+00:00
 -- url     : https://prove2.me/theorems/b3144a95-ef2f-4fca-a6d7-547566a23a91

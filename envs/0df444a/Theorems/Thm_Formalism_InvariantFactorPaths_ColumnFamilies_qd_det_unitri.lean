@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_det_unitri
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_det_unitri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:16:31.011041+00:00
 -- url     : https://prove2.me/theorems/4a036827-321e-4dfa-8615-f9a0bce497d4

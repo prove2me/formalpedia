@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommNil_finrank_range_pow_convex
 -- name    : GlobalTheory.CompanionTheory.CommNil.finrank_range_pow_convex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:51.633841+00:00
 -- url     : https://prove2.me/theorems/6bf619d8-13b8-4286-ad35-f12241a4fd4a

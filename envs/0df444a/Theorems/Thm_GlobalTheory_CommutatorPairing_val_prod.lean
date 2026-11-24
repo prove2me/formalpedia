@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPairing_val_prod
 -- name    : GlobalTheory.CommutatorPairing.val_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:22:11.474155+00:00
 -- url     : https://prove2.me/theorems/6866803a-b77d-40f0-b63b-2a1eee9482fd

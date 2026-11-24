@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapPolyProof_count_le_of_dvd
 -- name    : GlobalTheory.CompanionTheory.GapPolyProof.count_le_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:43:46.270807+00:00
 -- url     : https://prove2.me/theorems/eaf4e561-5561-4f0e-a783-9745485bcb3e

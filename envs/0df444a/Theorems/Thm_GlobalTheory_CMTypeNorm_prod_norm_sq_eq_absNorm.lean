@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTypeNorm_prod_norm_sq_eq_absNorm
 -- name    : GlobalTheory.CMTypeNorm.prod_norm_sq_eq_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:04:32.00651+00:00
 -- url     : https://prove2.me/theorems/cf5e89c7-1b37-45e3-8e8c-1e44aa0a3aa4

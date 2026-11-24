@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_measurable_absLogNorm
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.measurable_absLogNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:19:48.815576+00:00
 -- url     : https://prove2.me/theorems/1b0d5030-b645-4277-9abf-167f6bc6cb0b

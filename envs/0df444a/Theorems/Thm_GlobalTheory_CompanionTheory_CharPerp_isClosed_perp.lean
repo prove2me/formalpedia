@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CharPerp_isClosed_perp
 -- name    : GlobalTheory.CompanionTheory.CharPerp.isClosed_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:27.983496+00:00
 -- url     : https://prove2.me/theorems/230e3a21-247f-4569-8ffa-b0b1b2313865

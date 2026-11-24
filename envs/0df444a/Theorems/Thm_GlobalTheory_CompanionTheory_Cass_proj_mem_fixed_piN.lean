@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Cass_proj_mem_fixed_piN
 -- name    : GlobalTheory.CompanionTheory.Cass.proj_mem_fixed_piN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:31:42.541797+00:00
 -- url     : https://prove2.me/theorems/d5aadcfc-2ccd-4e7e-83c5-c71e9300fbc5

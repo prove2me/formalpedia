@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_component_aeval_cx
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.component_aeval_cx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:20:34.34102+00:00
 -- url     : https://prove2.me/theorems/3542e634-115a-4d04-bfcb-3c87d102932a

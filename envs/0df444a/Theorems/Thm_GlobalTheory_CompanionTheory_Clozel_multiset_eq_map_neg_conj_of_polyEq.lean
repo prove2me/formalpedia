@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Clozel_multiset_eq_map_neg_conj_of_polyEq
 -- name    : GlobalTheory.CompanionTheory.Clozel.multiset_eq_map_neg_conj_of_polyEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:53.259939+00:00
 -- url     : https://prove2.me/theorems/8a0a568c-37de-4d68-9766-e309de574371

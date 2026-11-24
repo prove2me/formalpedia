@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_perron_mellin_Sz
 -- name    : Formalism.ZF.perron_mellin_Sz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:36:11.352944+00:00
 -- url     : https://prove2.me/theorems/85d6b4bd-fde5-4826-8248-aef9fb1e4f9e

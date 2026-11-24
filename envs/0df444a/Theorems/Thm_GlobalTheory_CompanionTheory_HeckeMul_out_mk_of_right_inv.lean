@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMul_out_mk_of_right_inv
 -- name    : GlobalTheory.CompanionTheory.HeckeMul.out_mk_of_right_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:46:39.145806+00:00
 -- url     : https://prove2.me/theorems/258f1e8b-0eaa-4577-ba9b-dd175f858331

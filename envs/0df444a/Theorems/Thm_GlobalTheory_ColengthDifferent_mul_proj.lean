@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColengthDifferent_mul_proj
 -- name    : GlobalTheory.ColengthDifferent.mul_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:14:38.598004+00:00
 -- url     : https://prove2.me/theorems/be212a30-ecaf-445b-aa5d-261cdccd21a9

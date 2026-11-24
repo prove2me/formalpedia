@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_exists_primitive
 -- name    : GlobalTheory.BadShare.exists_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:29:52.800272+00:00
 -- url     : https://prove2.me/theorems/915efd78-b010-4c89-8ce2-71310c57db30

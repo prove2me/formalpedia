@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GroupIndex_RelProd_relIndex_prod_eq_mul
 -- name    : GlobalTheory.CompanionTheory.GroupIndex.RelProd.relIndex_prod_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:45:09.054343+00:00
 -- url     : https://prove2.me/theorems/cfd75620-c450-4cbb-bd74-332db0ababf5

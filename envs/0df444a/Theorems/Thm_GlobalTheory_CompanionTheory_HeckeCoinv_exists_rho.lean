@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeCoinv_exists_rho
 -- name    : GlobalTheory.CompanionTheory.HeckeCoinv.exists_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:46:19.471268+00:00
 -- url     : https://prove2.me/theorems/787143ad-1c31-4bd2-a4d7-a9a7f36e39b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColengthDifferent_exists_mul_traceDual
 -- name    : GlobalTheory.ColengthDifferent.exists_mul_traceDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:14:32.964744+00:00
 -- url     : https://prove2.me/theorems/6b01c9e2-fe6a-4c72-80ce-3e52b238464c

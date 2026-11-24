@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CharDual_exists_compact_annihilator_subset
 -- name    : GlobalTheory.CompanionTheory.CharDual.exists_compact_annihilator_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:33:12.541802+00:00
 -- url     : https://prove2.me/theorems/5983901b-fa52-4580-947e-4635afe61d7f

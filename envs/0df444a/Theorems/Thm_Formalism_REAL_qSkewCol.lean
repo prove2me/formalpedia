@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_qSkewCol
 -- name    : Formalism.REAL.qSkewCol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:42:49.544939+00:00
 -- url     : https://prove2.me/theorems/cfc2b3ce-28be-4471-be96-f8f55229e3aa

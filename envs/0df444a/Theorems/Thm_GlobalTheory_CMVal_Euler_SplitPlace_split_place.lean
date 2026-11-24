@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_SplitPlace_split_place
 -- name    : GlobalTheory.CMVal.Euler.SplitPlace.split_place
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:06:32.950031+00:00
 -- url     : https://prove2.me/theorems/c5317425-de31-4471-91d7-de31496bbb75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_AnSys_finite_components
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.AnSys.finite_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:18:48.363074+00:00
 -- url     : https://prove2.me/theorems/3d38d631-7a9d-4651-8de1-1f872838bf15

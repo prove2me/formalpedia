@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharSeriesCoef_exists_avg
 -- name    : GlobalTheory.CharSeriesCoef.exists_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:07:51.48693+00:00
 -- url     : https://prove2.me/theorems/f9721ab6-5c43-430d-8435-a560cd407620

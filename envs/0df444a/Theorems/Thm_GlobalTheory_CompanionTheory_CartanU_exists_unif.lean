@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanU_exists_unif
 -- name    : GlobalTheory.CompanionTheory.CartanU.exists_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:30:34.901913+00:00
 -- url     : https://prove2.me/theorems/786756ce-a823-4354-a062-ca4ce2d0782e

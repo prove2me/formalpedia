@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CentralIdemIntegral_isIntegral_trace
 -- name    : GlobalTheory.CentralIdemIntegral.isIntegral_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:07:48.719292+00:00
 -- url     : https://prove2.me/theorems/d2e5d4ef-537e-4127-9cea-47f2887e69f5

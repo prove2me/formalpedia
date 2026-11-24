@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlatCoker_lTensor_rTensor_comm
 -- name    : GlobalTheory.CompanionTheory.FlatCoker.lTensor_rTensor_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:40:56.923178+00:00
 -- url     : https://prove2.me/theorems/d61d483e-a2a7-44b8-8ed1-1c7f603648b0

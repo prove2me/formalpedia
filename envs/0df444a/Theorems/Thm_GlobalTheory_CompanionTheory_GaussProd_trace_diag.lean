@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussProd_trace_diag
 -- name    : GlobalTheory.CompanionTheory.GaussProd.trace_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:44:10.335467+00:00
 -- url     : https://prove2.me/theorems/d0998cad-fe5e-46b1-b4c1-5f5a3be33e1d

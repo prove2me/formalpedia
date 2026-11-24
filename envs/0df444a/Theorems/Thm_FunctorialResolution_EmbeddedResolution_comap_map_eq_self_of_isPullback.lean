@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_comap_map_eq_self_of_isPullback
 -- name    : FunctorialResolution.EmbeddedResolution.comap_map_eq_self_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:47:03.272322+00:00
 -- url     : https://prove2.me/theorems/d4fb7e0d-05cc-4099-87f7-91113259b843

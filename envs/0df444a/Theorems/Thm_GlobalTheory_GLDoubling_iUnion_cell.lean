@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_iUnion_cell
 -- name    : GlobalTheory.GLDoubling.iUnion_cell
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:38:53.97011+00:00
 -- url     : https://prove2.me/theorems/9ef02b1f-6657-4f10-8f03-cc65bd8add72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExpSums_vandermonde_separation
 -- name    : GlobalTheory.CompanionTheory.ExpSums.vandermonde_separation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:38:08.21868+00:00
 -- url     : https://prove2.me/theorems/1fac1c4f-e332-440c-88a3-b4d7166d30f5

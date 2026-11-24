@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_vanishingIdeal_eq_one
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_vanishingIdeal_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:39:47.397674+00:00
 -- url     : https://prove2.me/theorems/cd49ab0c-32ec-45a0-ae3f-86329f839a32

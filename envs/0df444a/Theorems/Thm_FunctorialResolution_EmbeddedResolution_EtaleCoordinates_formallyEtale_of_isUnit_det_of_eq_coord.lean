@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_formallyEtale_of_isUnit_det_of_eq_coord
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.formallyEtale_of_isUnit_det_of_eq_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:46:12.540604+00:00
 -- url     : https://prove2.me/theorems/769ed8a1-97d8-4bdd-8090-e47e7c175a2e

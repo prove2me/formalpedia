@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_norm_ker_le
 -- name    : GlobalTheory.CompanionTheory.EisTube.norm_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:36:58.323946+00:00
 -- url     : https://prove2.me/theorems/a1c466a5-802d-4078-b250-911bf6c43fce

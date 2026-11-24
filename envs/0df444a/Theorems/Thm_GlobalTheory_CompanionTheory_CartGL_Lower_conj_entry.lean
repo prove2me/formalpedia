@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_Lower_conj_entry
 -- name    : GlobalTheory.CompanionTheory.CartGL.Lower.conj_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:26:56.226556+00:00
 -- url     : https://prove2.me/theorems/b13e69a0-716e-4b92-82d9-91adef548401

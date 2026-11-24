@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExpSums_tendsto_one_add_pow_mul_pow
 -- name    : GlobalTheory.CompanionTheory.ExpSums.tendsto_one_add_pow_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:38:33.400514+00:00
 -- url     : https://prove2.me/theorems/28bc4095-ada2-4a78-b889-f5aae182a741

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCompare_maps_iff_fixesRig
 -- name    : GlobalTheory.BoxCompare.maps_iff_fixesRig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:01:18.891452+00:00
 -- url     : https://prove2.me/theorems/4611e816-cdb2-4f9d-8e39-a16679863de8

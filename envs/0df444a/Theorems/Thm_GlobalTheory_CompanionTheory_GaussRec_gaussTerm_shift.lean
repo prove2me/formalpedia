@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussRec_gaussTerm_shift
 -- name    : GlobalTheory.CompanionTheory.GaussRec.gaussTerm_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:43:36.403718+00:00
 -- url     : https://prove2.me/theorems/cb3f4ce3-d0ff-4af8-a304-630b70cb0a3b

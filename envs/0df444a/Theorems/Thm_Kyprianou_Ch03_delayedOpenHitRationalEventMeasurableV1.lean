@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_delayedOpenHitRationalEventMeasurableV1
 -- name    : Kyprianou.Ch03.delayedOpenHitRationalEventMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:29:15.007799+00:00
 -- url     : https://prove2.me/theorems/48413a71-aef0-42c6-9b57-e56c365ca97f

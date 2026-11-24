@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeBasis_eq_zero_of_delta
 -- name    : GlobalTheory.CompanionTheory.HeckeBasis.eq_zero_of_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:45:33.355275+00:00
 -- url     : https://prove2.me/theorems/eab23499-4324-40c9-8699-5ae5a994f326

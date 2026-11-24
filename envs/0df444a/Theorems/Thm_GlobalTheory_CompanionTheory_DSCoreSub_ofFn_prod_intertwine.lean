@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSCoreSub_ofFn_prod_intertwine
 -- name    : GlobalTheory.CompanionTheory.DSCoreSub.ofFn_prod_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:34:29.644188+00:00
 -- url     : https://prove2.me/theorems/5647e114-d031-4841-8ef5-7b5ae9e45ca5

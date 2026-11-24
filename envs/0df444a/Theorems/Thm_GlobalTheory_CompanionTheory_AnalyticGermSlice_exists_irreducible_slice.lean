@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnalyticGermSlice_exists_irreducible_slice
 -- name    : GlobalTheory.CompanionTheory.AnalyticGermSlice.exists_irreducible_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:18:40.340695+00:00
 -- url     : https://prove2.me/theorems/dc5efa61-1001-440d-80fb-627a0a3fe29f

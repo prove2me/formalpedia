@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussDet_integrable_exp_sq
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussDet.integrable_exp_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:38:04.545238+00:00
 -- url     : https://prove2.me/theorems/556bf2b9-1ade-4dcf-a746-6e4d86a54b4d

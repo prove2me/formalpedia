@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpMain_card_ne_zero_mem
 -- name    : GlobalTheory.CompanionTheory.GapOpMain.card_ne_zero_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:42:57.090305+00:00
 -- url     : https://prove2.me/theorems/21c35800-2ce0-42b9-9160-0a84f2f9685c

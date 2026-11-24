@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_orbit_gl
 -- name    : Formalism.UG.P.tjcosets_orbit_gl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:38:02.07927+00:00
 -- url     : https://prove2.me/theorems/ec408d5e-b163-4ae9-a190-3e598d9047bb

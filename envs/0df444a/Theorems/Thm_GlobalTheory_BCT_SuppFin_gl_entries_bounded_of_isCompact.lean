@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_SuppFin_gl_entries_bounded_of_isCompact
 -- name    : GlobalTheory.BCT.SuppFin.gl_entries_bounded_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:57.136398+00:00
 -- url     : https://prove2.me/theorems/7a203c6a-084f-4fd9-a1c5-69fcd29deebc

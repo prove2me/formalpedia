@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaStrip_exists_Gamma_bound
 -- name    : GlobalTheory.CompanionTheory.DigammaStrip.exists_Gamma_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:36:11.580172+00:00
 -- url     : https://prove2.me/theorems/9cd36f75-9742-4762-bdf4-5b38d4356d06

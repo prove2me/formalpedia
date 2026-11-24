@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_lowering_holds
 -- name    : Formalism.REAL.compact_lowering_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:51:51.217007+00:00
 -- url     : https://prove2.me/theorems/c11af0a5-562d-4086-b447-9c6c5a7c327c

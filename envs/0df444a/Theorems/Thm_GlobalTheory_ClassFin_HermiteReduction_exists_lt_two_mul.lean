@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_HermiteReduction_exists_lt_two_mul
 -- name    : GlobalTheory.ClassFin.HermiteReduction.exists_lt_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:11:39.921871+00:00
 -- url     : https://prove2.me/theorems/f017a4b4-68bf-4a7a-bd4a-a76da8e35842

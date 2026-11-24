@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_action_eq_fst_smul_snd
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.action_eq_fst_smul_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:43:16.730835+00:00
 -- url     : https://prove2.me/theorems/a1c357cc-3147-445d-ae59-85207b00674e

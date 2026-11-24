@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSCover_glRel_map
 -- name    : GlobalTheory.CompanionTheory.DSCover.glRel_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:34:55.620103+00:00
 -- url     : https://prove2.me/theorems/d1a9f854-b5ab-4124-8c35-bfd6067b802e

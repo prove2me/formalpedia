@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HaarUnimod_modularCharacterFun_eq_one
 -- name    : GlobalTheory.CompanionTheory.HaarUnimod.modularCharacterFun_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:45:32.501666+00:00
 -- url     : https://prove2.me/theorems/04ce92a7-6d31-446f-868c-b7a68348ae1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_HatCap_mem_orderC_of_mem_hatO
 -- name    : GlobalTheory.CMVal.HatCap.mem_orderC_of_mem_hatO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:59:06.599008+00:00
 -- url     : https://prove2.me/theorems/948159d1-a6fb-4ba0-8e3b-7c41e4913d7a

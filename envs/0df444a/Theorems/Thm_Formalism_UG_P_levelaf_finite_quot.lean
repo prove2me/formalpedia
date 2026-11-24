@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelaf_finite_quot
 -- name    : Formalism.UG.P.levelaf_finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:11:26.483407+00:00
 -- url     : https://prove2.me/theorems/767caa76-ed3f-4109-9e27-38452a3993b9

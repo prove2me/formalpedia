@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CasselmanOsborne_deg_Fop
 -- name    : GlobalTheory.CompanionTheory.CasselmanOsborne.deg_Fop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:31:28.230505+00:00
 -- url     : https://prove2.me/theorems/3ab69175-86f0-4de4-a0f9-e3c5fb2e64df

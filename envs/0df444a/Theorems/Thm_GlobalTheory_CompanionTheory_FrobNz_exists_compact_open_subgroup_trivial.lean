@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobNz_exists_compact_open_subgroup_trivial
 -- name    : GlobalTheory.CompanionTheory.FrobNz.exists_compact_open_subgroup_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:42:26.227065+00:00
 -- url     : https://prove2.me/theorems/a0549d6b-8b7e-4249-955b-a14eeb1c0291

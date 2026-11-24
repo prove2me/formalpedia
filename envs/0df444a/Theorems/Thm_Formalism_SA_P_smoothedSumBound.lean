@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_smoothedSumBound
 -- name    : Formalism.SA.P.smoothedSumBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:11:52.59338+00:00
 -- url     : https://prove2.me/theorems/bb1f1a71-ee8b-45b1-81c8-e32dff4992df

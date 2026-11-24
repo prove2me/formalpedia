@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zfo_large
 -- name    : Formalism.ZF.zfo_large
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:41:16.052882+00:00
 -- url     : https://prove2.me/theorems/f8106a40-3b11-4d60-939d-be270d661308

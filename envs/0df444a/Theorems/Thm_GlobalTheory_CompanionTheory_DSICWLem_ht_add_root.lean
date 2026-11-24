@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICWLem_ht_add_root
 -- name    : GlobalTheory.CompanionTheory.DSICWLem.ht_add_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:34:59.96402+00:00
 -- url     : https://prove2.me/theorems/f60a0380-cd7b-435d-aec6-18267308f324

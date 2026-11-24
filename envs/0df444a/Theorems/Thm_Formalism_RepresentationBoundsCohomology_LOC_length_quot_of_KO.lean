@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_length_quot_of_KO
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.length_quot_of_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:27:40.937909+00:00
 -- url     : https://prove2.me/theorems/a574a163-38a0-4510-8e95-d81f6eede919

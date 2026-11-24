@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_exists_index_ideal
 -- name    : GlobalTheory.BetaEx.exists_index_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:01:55.851626+00:00
 -- url     : https://prove2.me/theorems/ef4d61d3-5781-4d27-ba96-637a11c6c16a

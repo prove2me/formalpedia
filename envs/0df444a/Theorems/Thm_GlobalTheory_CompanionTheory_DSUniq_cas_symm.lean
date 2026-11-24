@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_cas_symm
 -- name    : GlobalTheory.CompanionTheory.DSUniq.cas_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:35:42.883295+00:00
 -- url     : https://prove2.me/theorems/8c66831c-2bd9-45c1-b349-bf3c919ac240

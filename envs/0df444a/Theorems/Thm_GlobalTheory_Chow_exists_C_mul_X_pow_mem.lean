@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_exists_C_mul_X_pow_mem
 -- name    : GlobalTheory.Chow.exists_C_mul_X_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:09:28.36521+00:00
 -- url     : https://prove2.me/theorems/feb6eacc-a31e-411f-841b-00a63d16e9ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharacterSumInverse_main
 -- name    : GlobalTheory.CharacterSumInverse.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:10:08.659701+00:00
 -- url     : https://prove2.me/theorems/7e48f85b-2ffb-4b8d-87f6-616737e76d73

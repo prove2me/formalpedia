@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BruhatInv_cnt_diff
 -- name    : GlobalTheory.CompanionTheory.BruhatInv.cnt_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:11.905241+00:00
 -- url     : https://prove2.me/theorems/b8b363c2-2488-40b1-9cd0-84837c8891aa

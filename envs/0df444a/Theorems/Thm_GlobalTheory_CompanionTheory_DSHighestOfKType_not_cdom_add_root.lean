@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSHighestOfKType_not_cdom_add_root
 -- name    : GlobalTheory.CompanionTheory.DSHighestOfKType.not_cdom_add_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:34:32.499715+00:00
 -- url     : https://prove2.me/theorems/544ddd18-d604-4c20-9d6d-e7603e376064

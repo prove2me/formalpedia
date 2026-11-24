@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommSplit_compr_algebraMap
 -- name    : GlobalTheory.CompanionTheory.CommSplit.compr_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:32:54.402001+00:00
 -- url     : https://prove2.me/theorems/61cf84ea-49c7-4574-82b3-aed7d64182cc

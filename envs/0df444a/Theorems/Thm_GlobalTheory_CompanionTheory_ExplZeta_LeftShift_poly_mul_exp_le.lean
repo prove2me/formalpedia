@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExplZeta_LeftShift_poly_mul_exp_le
 -- name    : GlobalTheory.CompanionTheory.ExplZeta.LeftShift.poly_mul_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:37:56.729611+00:00
 -- url     : https://prove2.me/theorems/c962e414-e6ae-4bec-8e17-c256a38f2118

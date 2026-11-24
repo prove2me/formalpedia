@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_pos_of_totallyPositive
 -- name    : GlobalTheory.norm_pos_of_totallyPositive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:24:29.244633+00:00
 -- url     : https://prove2.me/theorems/e272f9e8-da27-43fc-9d4a-9249153c71b2

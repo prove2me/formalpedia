@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_combLine_a
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.combLine_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:19:01.385575+00:00
 -- url     : https://prove2.me/theorems/119c6059-20a3-430f-bebd-a6f32fd55249

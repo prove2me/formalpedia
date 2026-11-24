@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BlockIwahoriUML_cong_transpose
 -- name    : GlobalTheory.CompanionTheory.BlockIwahoriUML.cong_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:26:50.230039+00:00
 -- url     : https://prove2.me/theorems/c16e0727-9584-411a-af81-0b83217b9cf4

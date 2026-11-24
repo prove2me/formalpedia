@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HCdecomp_inN_of_mem
 -- name    : GlobalTheory.CompanionTheory.HCdecomp.inN_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:44:52.801527+00:00
 -- url     : https://prove2.me/theorems/380326e7-c11e-44a6-bf22-3a3e8d9005ab

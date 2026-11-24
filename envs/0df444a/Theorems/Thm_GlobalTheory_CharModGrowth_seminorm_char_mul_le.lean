@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharModGrowth_seminorm_char_mul_le
 -- name    : GlobalTheory.CharModGrowth.seminorm_char_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:07:37.256125+00:00
 -- url     : https://prove2.me/theorems/db6fad74-9301-4f68-9eae-a6300697f31b

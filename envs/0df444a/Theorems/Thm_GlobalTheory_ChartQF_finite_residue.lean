@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartQF_finite_residue
 -- name    : GlobalTheory.ChartQF.finite_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:08:54.661713+00:00
 -- url     : https://prove2.me/theorems/95dbb793-6ddd-48f2-8ad4-3839d68f045c

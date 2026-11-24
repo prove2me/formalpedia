@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMult_CongOne_bordered
 -- name    : GlobalTheory.CompanionTheory.HeckeMult.CongOne.bordered
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:46:25.531916+00:00
 -- url     : https://prove2.me/theorems/bef35dab-d86c-4193-bee3-d79fe74e3caa

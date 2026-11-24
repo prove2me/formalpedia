@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_hessLog_chain
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.hessLog_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:40:08.09817+00:00
 -- url     : https://prove2.me/theorems/a6a49bb6-7078-4633-b6c6-272c6039d65e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_edges_not_diag
 -- name    : ChromaticReconstruction.edges_not_diag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:34:14.380344+00:00
 -- url     : https://prove2.me/theorems/c2caf62d-5249-4a2b-82f4-01f432319ea6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpMain_sum_hyperplanes_complement_flags
 -- name    : GlobalTheory.CompanionTheory.GapOpMain.sum_hyperplanes_complement_flags
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:43:02.180366+00:00
 -- url     : https://prove2.me/theorems/6da8dd3f-948a-4668-9304-2a798e6231e2

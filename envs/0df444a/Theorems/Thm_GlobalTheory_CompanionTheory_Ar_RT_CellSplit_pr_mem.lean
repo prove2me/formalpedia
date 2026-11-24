@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_RT_CellSplit_pr_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.RT.CellSplit.pr_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:20:47.713669+00:00
 -- url     : https://prove2.me/theorems/a9a5849f-f47e-42c7-a760-a2bd8482539a

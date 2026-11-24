@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommonTransversal_exists_skew_isUnit_det
 -- name    : GlobalTheory.CompanionTheory.CommonTransversal.exists_skew_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:33:18.105505+00:00
 -- url     : https://prove2.me/theorems/2c70d2b3-382b-4b80-b85b-a4a8ff4a40f3

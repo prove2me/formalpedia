@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_realExtension_posDef_of_rat
 -- name    : GlobalTheory.ClassMin.realExtension_posDef_of_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:13:12.920896+00:00
 -- url     : https://prove2.me/theorems/de056f39-1641-46d3-85b9-1a56539e419c

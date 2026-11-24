@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharInvForm_temperate_exp_I
 -- name    : GlobalTheory.CharInvForm.temperate_exp_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:07:59.652801+00:00
 -- url     : https://prove2.me/theorems/77b40403-cd05-4694-ae92-118dfae891e3

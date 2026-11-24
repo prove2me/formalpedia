@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeProduct_fixed_left
 -- name    : GlobalTheory.CompanionTheory.HeckeProduct.fixed_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:46:21.71235+00:00
 -- url     : https://prove2.me/theorems/d1678368-e1a3-4dab-95e0-058d9b8ca518

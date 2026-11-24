@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_idx_card
 -- name    : Formalism.UG.P.satake_idx_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:34:22.753997+00:00
 -- url     : https://prove2.me/theorems/217e1ee9-e177-4aa9-b37c-e635277dd2ce

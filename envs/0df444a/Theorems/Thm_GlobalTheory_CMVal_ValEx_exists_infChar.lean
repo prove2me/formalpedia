@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_exists_infChar
 -- name    : GlobalTheory.CMVal.ValEx.exists_infChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:28.292624+00:00
 -- url     : https://prove2.me/theorems/334ba1e9-a13d-4d3f-b9bd-4a7d0508da44

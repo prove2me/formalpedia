@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_IwahoriLU_factor
 -- name    : GlobalTheory.CompanionTheory.CartGL.IwahoriLU.factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:27:12.245364+00:00
 -- url     : https://prove2.me/theorems/2a432b06-bcc8-4512-b85e-2e92c98c8f4e

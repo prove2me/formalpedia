@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_torsionIndex
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.torsionIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:29:11.726685+00:00
 -- url     : https://prove2.me/theorems/dde1399b-b458-4aa2-bc30-c531ae642df5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_IsChart_lfp
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.IsChart.lfp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:41:24.176969+00:00
 -- url     : https://prove2.me/theorems/1afc0951-bba3-4e27-ad66-1e7fb85faaae

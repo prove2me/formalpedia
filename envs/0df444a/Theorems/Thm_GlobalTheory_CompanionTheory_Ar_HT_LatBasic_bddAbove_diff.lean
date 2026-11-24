@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HT_LatBasic_bddAbove_diff
 -- name    : GlobalTheory.CompanionTheory.Ar.HT.LatBasic.bddAbove_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:18:35.933148+00:00
 -- url     : https://prove2.me/theorems/03a82c8a-2a5a-4195-8501-a188043f25cc

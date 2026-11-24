@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_ResProj_joinInl_injective
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.ResProj.joinInl_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:21.426557+00:00
 -- url     : https://prove2.me/theorems/8d147d7c-8637-49c5-b54d-509c518f6810

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ChainHighest_fdual_single
 -- name    : GlobalTheory.CompanionTheory.ChainHighest.fdual_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:33:23.028845+00:00
 -- url     : https://prove2.me/theorems/1dc7165d-f18f-4d6c-bca0-fb275d57e486

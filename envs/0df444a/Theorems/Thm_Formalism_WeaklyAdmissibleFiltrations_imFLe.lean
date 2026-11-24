@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_imFLe
 -- name    : Formalism.WeaklyAdmissibleFiltrations.imFLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:39:44.416321+00:00
 -- url     : https://prove2.me/theorems/5736b5cc-c1e2-49f9-bab6-a65a2c532bd9

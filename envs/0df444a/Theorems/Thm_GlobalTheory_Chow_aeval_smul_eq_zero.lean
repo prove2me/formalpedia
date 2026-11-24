@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_aeval_smul_eq_zero
 -- name    : GlobalTheory.Chow.aeval_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:09:56.376116+00:00
 -- url     : https://prove2.me/theorems/170e5ca7-1184-4fb2-8882-85938e62ed05

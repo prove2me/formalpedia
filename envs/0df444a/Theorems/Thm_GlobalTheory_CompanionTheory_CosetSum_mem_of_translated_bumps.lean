@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CosetSum_mem_of_translated_bumps
 -- name    : GlobalTheory.CompanionTheory.CosetSum.mem_of_translated_bumps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:34:46.007799+00:00
 -- url     : https://prove2.me/theorems/ff2e01b1-7e0c-4b7d-859d-e7696f1d3f87

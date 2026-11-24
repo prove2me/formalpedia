@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSStabLink_exp_mem_UJ
 -- name    : GlobalTheory.CompanionTheory.DSStabLink.exp_mem_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:35:42.534951+00:00
 -- url     : https://prove2.me/theorems/2b96fb4e-203d-4618-8825-d407122fc2ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_logDerivBoundInRegionOfBounds
 -- name    : Formalism.ZF.logDerivBoundInRegionOfBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:42:29.697116+00:00
 -- url     : https://prove2.me/theorems/dff09fdc-e260-4cfa-bb72-bf62feee4b59

@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.local_integral_entries_of_signature_preserving
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-24T12:35:56.78437+00:00
+-- url     : https://prove2.me/submissions/7ef9511b-7102-44af-8a15-7d0a02f6bf5b
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_DetIndexProductHyperbolicInequality
+import Definitions.Def_Formalism_FlagUnipotentLattices_DetIndexProductPlacesInequalitySq
+import Definitions.Def_Formalism_FlagUnipotentLattices_UnitSumBound
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LocalIntegralStructure
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ComplexMultiplicationRoot
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ConstantProductFormula
+import Definitions.Def_Formalism_FlagUnipotentLattices_SignaturePreservingEntryNorms
+import Theorems.Thm_Formalism_HermitianLatticeCounting_P_unipotent_upper_entries
+import Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_unipotent_upper_entries
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.Final Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure
+namespace Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure
+theorem _root_.solution : Formalism.HermitianLatticeCounting.LocalIntegralStructure.EntriesOfSignaturePreserving := Formalism.HermitianLatticeCounting.P.unipotent_upper_entries
+end Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure

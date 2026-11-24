@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GopEntries_sgR_erase
 -- name    : GlobalTheory.CompanionTheory.GopEntries.sgR_erase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:43:56.976582+00:00
 -- url     : https://prove2.me/theorems/191739dc-bea1-494c-bcd3-175e80f9395f

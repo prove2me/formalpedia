@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationAssignment_toSequenceOfBlowups_heq_of_eq
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationAssignment.toSequenceOfBlowups_heq_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:29:53.687613+00:00
 -- url     : https://prove2.me/theorems/d3a0c3c9-e5dd-402a-9e7f-7003403437f7

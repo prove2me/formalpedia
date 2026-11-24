@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BLevel_congS_conj
 -- name    : GlobalTheory.CompanionTheory.BLevel.congS_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:52.5518+00:00
 -- url     : https://prove2.me/theorems/2844a15a-84f9-40ce-9332-9edacc88e7d4

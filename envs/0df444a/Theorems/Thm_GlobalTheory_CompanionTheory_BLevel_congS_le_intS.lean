@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BLevel_congS_le_intS
 -- name    : GlobalTheory.CompanionTheory.BLevel.congS_le_intS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:25.22346+00:00
 -- url     : https://prove2.me/theorems/a5f3ab9f-931e-4bc5-b6a4-35cd2a1a5664

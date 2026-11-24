@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_isLocalHomeomorph_coords_of_etale
 -- name    : GlobalTheory.AffinePoints.isLocalHomeomorph_coords_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:55:00.80138+00:00
 -- url     : https://prove2.me/theorems/de28135d-4dbe-4ad5-a996-57db5d7d7308

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_relIndex_upLat_eq_sq
 -- name    : GlobalTheory.BorelUMod.relIndex_upLat_eq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:01:49.104695+00:00
 -- url     : https://prove2.me/theorems/c697ebc5-3abf-4ed8-8942-899e427de33a

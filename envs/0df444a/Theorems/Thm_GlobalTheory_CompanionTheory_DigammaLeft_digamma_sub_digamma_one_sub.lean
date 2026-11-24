@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLeft_digamma_sub_digamma_one_sub
 -- name    : GlobalTheory.CompanionTheory.DigammaLeft.digamma_sub_digamma_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:35:31.904835+00:00
 -- url     : https://prove2.me/theorems/dd674d48-ae27-4e19-95f0-25cccdc3552e

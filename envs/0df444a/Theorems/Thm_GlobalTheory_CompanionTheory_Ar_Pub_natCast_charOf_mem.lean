@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_natCast_charOf_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.natCast_charOf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:21:42.289364+00:00
 -- url     : https://prove2.me/theorems/997d47b7-3ac8-4b6f-bfab-e5e2f0492165

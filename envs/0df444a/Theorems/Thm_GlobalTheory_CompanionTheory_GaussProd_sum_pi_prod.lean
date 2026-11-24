@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussProd_sum_pi_prod
 -- name    : GlobalTheory.CompanionTheory.GaussProd.sum_pi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:44:05.75717+00:00
 -- url     : https://prove2.me/theorems/2a56b118-2efa-4455-b633-37a7b694e1a3

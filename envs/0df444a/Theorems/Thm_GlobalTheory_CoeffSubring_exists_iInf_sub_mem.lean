@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffSubring_exists_iInf_sub_mem
 -- name    : GlobalTheory.CoeffSubring.exists_iInf_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:07.684973+00:00
 -- url     : https://prove2.me/theorems/d84322f1-3d73-428b-8a8a-7f999a9e580f

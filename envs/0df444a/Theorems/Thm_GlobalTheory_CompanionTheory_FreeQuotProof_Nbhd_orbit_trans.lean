@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_Nbhd_orbit_trans
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.Nbhd.orbit_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:43:14.591113+00:00
 -- url     : https://prove2.me/theorems/24134f61-2772-4107-aaf5-fdabecabaecf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_IsRAct_actBij
 -- name    : GlobalTheory.QFam.IsRAct.actBij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:18:37.150913+00:00
 -- url     : https://prove2.me/theorems/4feed40c-0f8e-4866-8480-e97b6e12ae4a

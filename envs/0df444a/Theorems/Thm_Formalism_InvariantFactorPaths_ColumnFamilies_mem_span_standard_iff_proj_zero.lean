@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_mem_span_standard_iff_proj_zero
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.mem_span_standard_iff_proj_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:58:44.587023+00:00
 -- url     : https://prove2.me/theorems/a11f6765-efd3-480e-9ada-5234b1f330a4

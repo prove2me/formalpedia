@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CasselmanOsborne_pres_ofFn
 -- name    : GlobalTheory.CompanionTheory.CasselmanOsborne.pres_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:32:02.774559+00:00
 -- url     : https://prove2.me/theorems/3153af8f-9209-474f-95df-9554a4ba77b8

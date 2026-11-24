@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_splits_of_mem
 -- name    : GlobalTheory.CMVal.InhabK.splits_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:10.735798+00:00
 -- url     : https://prove2.me/theorems/0cb800a2-896d-40d5-8f3f-4e9931d0422d

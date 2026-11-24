@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_blockFnField_joinPt
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.blockFnField_joinPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:21:16.25771+00:00
 -- url     : https://prove2.me/theorems/b2764681-51ff-46dc-a017-c95634fd5187

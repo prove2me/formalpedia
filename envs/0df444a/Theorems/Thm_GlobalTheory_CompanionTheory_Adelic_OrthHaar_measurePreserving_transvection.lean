@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_OrthHaar_measurePreserving_transvection
 -- name    : GlobalTheory.CompanionTheory.Adelic.OrthHaar.measurePreserving_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:16:56.061403+00:00
 -- url     : https://prove2.me/theorems/68b18bd2-6b63-4181-8a5e-1f30c4d012fc

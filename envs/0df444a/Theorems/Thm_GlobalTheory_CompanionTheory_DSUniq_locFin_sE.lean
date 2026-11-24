@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_locFin_sE
 -- name    : GlobalTheory.CompanionTheory.DSUniq.locFin_sE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:36:09.653619+00:00
 -- url     : https://prove2.me/theorems/cce118b8-cabb-4685-8119-63ac4d2ed964

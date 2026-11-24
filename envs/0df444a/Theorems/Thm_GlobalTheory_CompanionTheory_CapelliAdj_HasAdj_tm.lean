@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAdj_HasAdj_tm
 -- name    : GlobalTheory.CompanionTheory.CapelliAdj.HasAdj.tm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:27:13.678469+00:00
 -- url     : https://prove2.me/theorems/eb26a2c1-5f81-4535-9755-b636a3d83aaa

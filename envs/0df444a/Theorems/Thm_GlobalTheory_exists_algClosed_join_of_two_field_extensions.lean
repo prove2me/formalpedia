@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algClosed_join_of_two_field_extensions
 -- name    : GlobalTheory.exists_algClosed_join_of_two_field_extensions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:23.722746+00:00
 -- url     : https://prove2.me/theorems/74b23183-b9e6-492b-8e4b-c175c0cb9cdd

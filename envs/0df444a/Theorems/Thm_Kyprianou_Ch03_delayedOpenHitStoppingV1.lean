@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_delayedOpenHitStoppingV1
 -- name    : Kyprianou.Ch03.delayedOpenHitStoppingV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:08:24.729024+00:00
 -- url     : https://prove2.me/theorems/84efefd4-78be-468e-9bfc-0e4148698374

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpMain_ux_smul
 -- name    : GlobalTheory.CompanionTheory.GapOpMain.ux_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:42:56.120552+00:00
 -- url     : https://prove2.me/theorems/2025e7ad-704d-484e-9d82-4ebef515c28e

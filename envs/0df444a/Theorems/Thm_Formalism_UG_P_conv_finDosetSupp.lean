@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_conv_finDosetSupp
 -- name    : Formalism.UG.P.conv_finDosetSupp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:22:21.288795+00:00
 -- url     : https://prove2.me/theorems/5106a690-bfbe-4658-886c-37645b1eebc1

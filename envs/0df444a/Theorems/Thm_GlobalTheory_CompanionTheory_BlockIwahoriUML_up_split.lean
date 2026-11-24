@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BlockIwahoriUML_up_split
 -- name    : GlobalTheory.CompanionTheory.BlockIwahoriUML.up_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:07.397169+00:00
 -- url     : https://prove2.me/theorems/db11bd6f-04cd-4a7e-8478-64359487e3b7

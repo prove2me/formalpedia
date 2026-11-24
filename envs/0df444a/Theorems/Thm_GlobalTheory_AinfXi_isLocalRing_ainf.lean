@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AinfXi_isLocalRing_ainf
 -- name    : GlobalTheory.AinfXi.isLocalRing_ainf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:56:59.958144+00:00
 -- url     : https://prove2.me/theorems/940f1a74-93ef-4f2a-97b6-102203632440

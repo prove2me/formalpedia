@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GreenbergWiles_exists_primitiveRoot_of_isAlgClosure
 -- name    : GlobalTheory.CompanionTheory.GreenbergWiles.exists_primitiveRoot_of_isAlgClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:45:04.516741+00:00
 -- url     : https://prove2.me/theorems/dc6b5f00-4fc5-47bc-a34a-bff284cefb24

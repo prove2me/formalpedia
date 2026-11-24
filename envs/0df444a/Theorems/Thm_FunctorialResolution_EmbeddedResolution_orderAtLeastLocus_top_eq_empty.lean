@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAtLeastLocus_top_eq_empty
 -- name    : FunctorialResolution.EmbeddedResolution.orderAtLeastLocus_top_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:49:01.541451+00:00
 -- url     : https://prove2.me/theorems/4eff3393-557d-4753-a137-67ad8828ced5

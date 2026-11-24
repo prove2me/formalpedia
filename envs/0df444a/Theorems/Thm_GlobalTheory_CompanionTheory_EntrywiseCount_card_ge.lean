@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EntrywiseCount_card_ge
 -- name    : GlobalTheory.CompanionTheory.EntrywiseCount.card_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:36:46.771318+00:00
 -- url     : https://prove2.me/theorems/c8a4f3ef-215c-4f3a-a4a7-c4d0662227d9

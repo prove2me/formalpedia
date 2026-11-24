@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMCurves_latticeJ_eq_of_class_eq
 -- name    : GlobalTheory.CMCurves.latticeJ_eq_of_class_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:04:46.250883+00:00
 -- url     : https://prove2.me/theorems/9f1ba2f0-49cd-40e6-949d-efa14d437765

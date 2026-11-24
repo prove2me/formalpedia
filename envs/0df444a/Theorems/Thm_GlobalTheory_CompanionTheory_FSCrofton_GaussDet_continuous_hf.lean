@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussDet_continuous_hf
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussDet.continuous_hf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:38:07.817548+00:00
 -- url     : https://prove2.me/theorems/fb672b69-c9c7-4a39-a192-1f996ee2fd69

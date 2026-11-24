@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_LatBij_toIdele_surjective
 -- name    : GlobalTheory.CMVal.LatBij.toIdele_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:05:45.068401+00:00
 -- url     : https://prove2.me/theorems/d9bf5703-bd68-4b45-bc39-dfe759349725

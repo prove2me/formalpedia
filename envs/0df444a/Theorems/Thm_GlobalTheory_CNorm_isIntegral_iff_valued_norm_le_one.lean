@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_isIntegral_iff_valued_norm_le_one
 -- name    : GlobalTheory.CNorm.isIntegral_iff_valued_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:13.779563+00:00
 -- url     : https://prove2.me/theorems/099f77fd-2520-4edd-94a5-2dc3a02fbf66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_isClosed_domCell
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.isClosed_domCell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:19:39.100124+00:00
 -- url     : https://prove2.me/theorems/e7f32c36-662e-43ca-983b-fa47d8047be6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanU_form_isHerm
 -- name    : GlobalTheory.CompanionTheory.CartanU.form_isHerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:30:47.996834+00:00
 -- url     : https://prove2.me/theorems/cd52afac-98a4-4672-a752-277a0eab3c3e

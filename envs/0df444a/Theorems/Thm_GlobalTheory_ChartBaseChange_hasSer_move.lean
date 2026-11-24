@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartBaseChange_hasSer_move
 -- name    : GlobalTheory.ChartBaseChange.hasSer_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:10:15.426969+00:00
 -- url     : https://prove2.me/theorems/ee85b83f-c364-45b6-a2ce-aed74fdd1f1b

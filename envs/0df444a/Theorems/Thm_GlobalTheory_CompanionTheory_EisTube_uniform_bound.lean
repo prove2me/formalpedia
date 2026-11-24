@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_uniform_bound
 -- name    : GlobalTheory.CompanionTheory.EisTube.uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:37:04.595854+00:00
 -- url     : https://prove2.me/theorems/bafe2ac1-d8c6-4547-a63f-12264ec821af

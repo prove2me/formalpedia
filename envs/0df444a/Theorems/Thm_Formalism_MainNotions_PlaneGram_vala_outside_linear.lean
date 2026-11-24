@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_outside_linear
 -- name    : Formalism.MainNotions.PlaneGram.vala_outside_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:07:37.351867+00:00
 -- url     : https://prove2.me/theorems/5b53d513-8893-47a9-b10f-402631c93070

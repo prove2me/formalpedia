@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_htMap_tie
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.htMap_tie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:54:20.732441+00:00
 -- url     : https://prove2.me/theorems/91d3169b-2df8-429b-b67a-3137a19e2efb

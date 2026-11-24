@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_aeval_eq_zero_of_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.aeval_eq_zero_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:21:03.310198+00:00
 -- url     : https://prove2.me/theorems/19425c69-627f-4fc2-87af-7cd89c61549e

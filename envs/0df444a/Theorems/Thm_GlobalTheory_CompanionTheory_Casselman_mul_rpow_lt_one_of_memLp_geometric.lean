@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Casselman_mul_rpow_lt_one_of_memLp_geometric
 -- name    : GlobalTheory.CompanionTheory.Casselman.mul_rpow_lt_one_of_memLp_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:31:20.715593+00:00
 -- url     : https://prove2.me/theorems/d4699d3a-1e67-495f-8106-188a6967fd31

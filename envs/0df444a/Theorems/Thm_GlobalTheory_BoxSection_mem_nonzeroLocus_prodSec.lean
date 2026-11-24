@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSection_mem_nonzeroLocus_prodSec
 -- name    : GlobalTheory.BoxSection.mem_nonzeroLocus_prodSec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:58:40.923628+00:00
 -- url     : https://prove2.me/theorems/c29bd3b7-f210-47fe-8d7f-adb4e1c21876

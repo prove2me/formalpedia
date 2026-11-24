@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_evC_rename_inl
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.evC_rename_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:21:11.68789+00:00
 -- url     : https://prove2.me/theorems/9b3d76a6-2d2c-44cf-a74d-3d142f34ad91

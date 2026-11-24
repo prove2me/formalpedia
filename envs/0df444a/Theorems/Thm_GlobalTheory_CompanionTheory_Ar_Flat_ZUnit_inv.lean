@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_ZUnit_inv
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.ZUnit.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:17:50.776663+00:00
 -- url     : https://prove2.me/theorems/1e667132-eb77-4b8a-a649-e5d3c81bed07

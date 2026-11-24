@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.REAL.qDetCentral
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-24T12:31:26.964992+00:00
+-- url     : https://prove2.me/submissions/989b8bef-5d5e-4c33-832d-059b0b232123
+
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuadraticInequalityBoundHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_HalfSumRootsStandard
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_SumOfSquaresIdentityHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasKHW
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasComm
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorPowUpperVanishHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_HWDiag
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_TrPowSumFilterZero
+import Definitions.Def_Formalism_RealPlaceAnalysis_StatementD
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuantumDetHighestWeightHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_ShiftedGeneratorEqIteSmulAdd
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CharId
+import Definitions.Def_Formalism_RealPlaceAnalysis_ThirdArithmeticHolds
+import Theorems.Thm_Formalism_REAL_qDetCentral_of
+import Theorems.Thm_Formalism_REAL_quantumMinorColSkew_holds
+import Theorems.Thm_Formalism_REAL_quantumMinorRowSkew_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.REAL
+namespace Formalism.REAL
+theorem _root_.solution : QDetCentral := qDetCentral_of quantumMinorRowSkew_holds quantumMinorColSkew_holds
+end Formalism.REAL

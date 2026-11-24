@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ApproxUnit_approxU
 -- name    : GlobalTheory.CompanionTheory.ApproxUnit.approxU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:10:18.978941+00:00
 -- url     : https://prove2.me/theorems/33fc396e-84cf-4b95-83d5-8e7c118c42aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpCount_card_forms_vanishing_missing_line
 -- name    : GlobalTheory.CompanionTheory.GapOpCount.card_forms_vanishing_missing_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:42:46.260578+00:00
 -- url     : https://prove2.me/theorems/f6f3eccd-a2e1-4b38-a115-aa8de98abdb6

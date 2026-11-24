@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_ProjCoord_awayEval_comp_awayMap
 -- name    : GlobalTheory.CompanionTheory.Ar.ProjCoord.awayEval_comp_awayMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:19:14.596967+00:00
 -- url     : https://prove2.me/theorems/9a4891c7-0b07-489e-9c6f-3dae53a16a48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_stdBasis_repr_apply
 -- name    : Formalism.REAL.stdBasis_repr_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:22:50.766909+00:00
 -- url     : https://prove2.me/theorems/4b2ee46e-2a92-4560-b969-2f48607cef5c

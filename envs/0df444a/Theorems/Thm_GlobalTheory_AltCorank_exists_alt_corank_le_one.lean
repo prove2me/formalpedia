@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AltCorank_exists_alt_corank_le_one
 -- name    : GlobalTheory.AltCorank.exists_alt_corank_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:02.697314+00:00
 -- url     : https://prove2.me/theorems/2abcc368-5340-44bf-a51a-fbc6a04c38b7

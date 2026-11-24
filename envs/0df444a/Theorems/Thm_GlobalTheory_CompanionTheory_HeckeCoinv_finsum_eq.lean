@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeCoinv_finsum_eq
 -- name    : GlobalTheory.CompanionTheory.HeckeCoinv.finsum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:47:14.474935+00:00
 -- url     : https://prove2.me/theorems/f10f6eba-adeb-4128-82e8-8a2b503bf9b1

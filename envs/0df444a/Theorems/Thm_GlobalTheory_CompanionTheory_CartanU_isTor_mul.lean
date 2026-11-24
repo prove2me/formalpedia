@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanU_isTor_mul
 -- name    : GlobalTheory.CompanionTheory.CartanU.isTor_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:31:33.755916+00:00
 -- url     : https://prove2.me/theorems/562e4b04-ab91-4ec9-912a-cbe5b77d6165

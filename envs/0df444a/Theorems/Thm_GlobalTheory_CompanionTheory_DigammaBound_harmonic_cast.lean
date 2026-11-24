@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaBound_harmonic_cast
 -- name    : GlobalTheory.CompanionTheory.DigammaBound.harmonic_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:35:06.312371+00:00
 -- url     : https://prove2.me/theorems/275f8ac8-e2b0-4bed-bc3b-45290ac56306

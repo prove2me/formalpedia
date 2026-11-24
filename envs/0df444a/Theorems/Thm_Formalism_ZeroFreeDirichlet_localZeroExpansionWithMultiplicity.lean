@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_localZeroExpansionWithMultiplicity
 -- name    : Formalism.ZeroFreeDirichlet.localZeroExpansionWithMultiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:42:30.524023+00:00
 -- url     : https://prove2.me/theorems/f7e76eca-3f38-4034-b807-926f19e12754

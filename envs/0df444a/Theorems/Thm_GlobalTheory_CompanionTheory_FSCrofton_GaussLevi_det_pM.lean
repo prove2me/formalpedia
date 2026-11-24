@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussLevi_det_pM
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussLevi.det_pM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:38:40.969718+00:00
 -- url     : https://prove2.me/theorems/7b7870f9-acb3-4c34-8f4f-a60371daeff7

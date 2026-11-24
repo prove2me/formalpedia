@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_OrderAt_unique
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.OrderAt.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:17:45.284081+00:00
 -- url     : https://prove2.me/theorems/58a73ac7-a804-4cc4-b2ee-ee67921db287

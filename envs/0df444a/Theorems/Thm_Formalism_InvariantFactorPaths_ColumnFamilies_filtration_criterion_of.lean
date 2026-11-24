@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_filtration_criterion_of
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.filtration_criterion_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:14:02.984048+00:00
 -- url     : https://prove2.me/theorems/ed4e6bed-3982-4d26-bfc7-f8e9d698f69f

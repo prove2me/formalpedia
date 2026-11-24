@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_Chart_isIso_pullback_fst
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.Chart.isIso_pullback_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:03.049641+00:00
 -- url     : https://prove2.me/theorems/11c963b8-0abf-4b7b-a839-136a9f317b45

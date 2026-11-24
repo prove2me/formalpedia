@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fIwasawa_tri_succ_of_max_pivot
 -- name    : Formalism.UG.P.fIwasawa_tri_succ_of_max_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:32:41.629685+00:00
 -- url     : https://prove2.me/theorems/88f068bc-fd71-47ec-a6ed-39dbb56feb65

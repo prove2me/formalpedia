@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_OrderUnits_geom_first_order
 -- name    : GlobalTheory.CMVal.OrderUnits.geom_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:05:11.156629+00:00
 -- url     : https://prove2.me/theorems/414934bb-ee89-4bc4-bffb-cc1e66022d0d

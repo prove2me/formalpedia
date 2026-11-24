@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.torsionIndex
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-24T12:34:39.136743+00:00
+-- url     : https://prove2.me/submissions/e4f66649-f5cd-4a52-a28d-1c3c74d8d304
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_DetIndexProductHyperbolicInequality
+import Definitions.Def_Formalism_FlagUnipotentLattices_DetIndexProductPlacesInequalitySq
+import Definitions.Def_Formalism_FlagUnipotentLattices_UnitSumBound
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LocalIntegralStructure
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ComplexMultiplicationRoot
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ConstantProductFormula
+import Definitions.Def_Formalism_FlagUnipotentLattices_SignaturePreservingEntryNorms
+import Theorems.Thm_Formalism_HermitianLatticeCounting_P_card_range_nsmul_mul_card_le
+import Theorems.Thm_Formalism_SLP_P_card_range_nsmul_mul_card_le
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.Final Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure
+namespace Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure
+theorem _root_.solution : Formalism.HermitianLatticeCounting.LocalIntegralStructure.TorsionIndex := Formalism.HermitianLatticeCounting.P.card_range_nsmul_mul_card_le
+end Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussProd_red_diagonal
 -- name    : GlobalTheory.CompanionTheory.GaussProd.red_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:43:43.74198+00:00
 -- url     : https://prove2.me/theorems/361214ee-64ad-4076-a5df-27b2e44e300b

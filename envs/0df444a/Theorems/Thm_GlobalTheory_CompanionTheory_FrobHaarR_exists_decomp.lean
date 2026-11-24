@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobHaarR_exists_decomp
 -- name    : GlobalTheory.CompanionTheory.FrobHaarR.exists_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:42:47.909002+00:00
 -- url     : https://prove2.me/theorems/c4ea9134-d15b-4a67-ab5a-898b71aa16c6

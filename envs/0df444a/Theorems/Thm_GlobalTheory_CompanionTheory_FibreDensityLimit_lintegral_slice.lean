@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FibreDensityLimit_lintegral_slice
 -- name    : GlobalTheory.CompanionTheory.FibreDensityLimit.lintegral_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:39:36.615977+00:00
 -- url     : https://prove2.me/theorems/6a01561d-6102-4f7d-b509-7d596c3ddacf

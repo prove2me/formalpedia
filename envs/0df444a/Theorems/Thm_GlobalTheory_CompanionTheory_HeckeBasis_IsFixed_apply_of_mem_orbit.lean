@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeBasis_IsFixed_apply_of_mem_orbit
 -- name    : GlobalTheory.CompanionTheory.HeckeBasis.IsFixed.apply_of_mem_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:45:26.649889+00:00
 -- url     : https://prove2.me/theorems/1d9877de-86e4-4c75-ab55-a156479e2a9f

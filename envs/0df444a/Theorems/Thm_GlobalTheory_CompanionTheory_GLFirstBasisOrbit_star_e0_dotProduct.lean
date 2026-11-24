@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GLFirstBasisOrbit_star_e0_dotProduct
 -- name    : GlobalTheory.CompanionTheory.GLFirstBasisOrbit.star_e0_dotProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:42:01.325296+00:00
 -- url     : https://prove2.me/theorems/ae7d8bf1-6a0b-487a-8929-1f35fef1f78f

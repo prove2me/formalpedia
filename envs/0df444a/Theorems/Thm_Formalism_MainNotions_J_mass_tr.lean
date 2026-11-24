@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_mass_tr
 -- name    : Formalism.MainNotions.J.mass_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:56:55.853588+00:00
 -- url     : https://prove2.me/theorems/4744fce4-76cf-48db-ad35-819bffac81b5

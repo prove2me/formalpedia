@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelModulus_delta_eq
 -- name    : GlobalTheory.BorelModulus.delta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:03:08.599531+00:00
 -- url     : https://prove2.me/theorems/20170e91-2ea5-4dba-8235-6de1b6853a8f

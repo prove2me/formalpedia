@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_Normal_entry_le_one
 -- name    : GlobalTheory.CompanionTheory.CartGL.Normal.entry_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:27:55.216205+00:00
 -- url     : https://prove2.me/theorems/a0bd2449-395e-46c1-bf8a-eb76dfde6901

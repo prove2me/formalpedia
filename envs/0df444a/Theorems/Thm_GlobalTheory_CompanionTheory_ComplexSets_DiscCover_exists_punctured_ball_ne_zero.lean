@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_DiscCover_exists_punctured_ball_ne_zero
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.DiscCover.exists_punctured_ball_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:33:21.187554+00:00
 -- url     : https://prove2.me/theorems/93b32c15-7062-4c71-a7f7-7ec61ea72e95

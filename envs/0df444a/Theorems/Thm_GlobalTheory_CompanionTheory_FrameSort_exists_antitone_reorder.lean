@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrameSort_exists_antitone_reorder
 -- name    : GlobalTheory.CompanionTheory.FrameSort.exists_antitone_reorder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:41:24.323719+00:00
 -- url     : https://prove2.me/theorems/b01fc463-ff18-4b8c-9d33-bc68c7ef1257

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinPresDescent_ker_fg_of_projective
 -- name    : GlobalTheory.CompanionTheory.FinPresDescent.ker_fg_of_projective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:42:16.409544+00:00
 -- url     : https://prove2.me/theorems/4dfda2a2-de58-43d0-8f48-887915867172

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mul_exp_neg_polarLog_mem_compact
 -- name    : Formalism.REAL.mul_exp_neg_polarLog_mem_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:29.666971+00:00
 -- url     : https://prove2.me/theorems/01d88be1-3e71-4f64-ac24-2f69026a6640

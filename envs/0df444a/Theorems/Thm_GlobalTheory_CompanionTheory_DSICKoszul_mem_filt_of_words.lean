@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICKoszul_mem_filt_of_words
 -- name    : GlobalTheory.CompanionTheory.DSICKoszul.mem_filt_of_words
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:35:50.974805+00:00
 -- url     : https://prove2.me/theorems/7956bef8-6973-4e98-8f2c-6bef1332d2b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Casselman_le_one_of_forall_sqrt_mul_rpow_lt
 -- name    : GlobalTheory.CompanionTheory.Casselman.le_one_of_forall_sqrt_mul_rpow_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:31:41.632192+00:00
 -- url     : https://prove2.me/theorems/d6c9e159-22ae-4f2a-ac1d-a457243bf3c6

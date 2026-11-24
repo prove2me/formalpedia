@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FixedProj_stProj
 -- name    : GlobalTheory.CompanionTheory.FixedProj.stProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:41:44.760826+00:00
 -- url     : https://prove2.me/theorems/80babe5d-48c2-46bd-8b7e-0dbaabca058d

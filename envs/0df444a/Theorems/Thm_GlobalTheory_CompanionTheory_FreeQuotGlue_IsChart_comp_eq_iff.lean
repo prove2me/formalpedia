@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_IsChart_comp_eq_iff
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.IsChart.comp_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:41:07.501806+00:00
 -- url     : https://prove2.me/theorems/0d5319fd-45a0-4c22-875c-70f67865b6a4

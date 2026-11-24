@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BddFinite_finite_of_bdd
 -- name    : GlobalTheory.BddFinite.finite_of_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:16.175416+00:00
 -- url     : https://prove2.me/theorems/4a207e04-2a71-428d-a309-5cfa6c278201

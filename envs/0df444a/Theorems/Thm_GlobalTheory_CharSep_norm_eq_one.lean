@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharSep_norm_eq_one
 -- name    : GlobalTheory.CharSep.norm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:07:58.759245+00:00
 -- url     : https://prove2.me/theorems/da73ee6b-ac6c-4ad4-91bc-e6d2964b8d0e

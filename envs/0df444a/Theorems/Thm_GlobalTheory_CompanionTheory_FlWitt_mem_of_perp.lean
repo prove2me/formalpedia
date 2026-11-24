@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlWitt_mem_of_perp
 -- name    : GlobalTheory.CompanionTheory.FlWitt.mem_of_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:41:45.815342+00:00
 -- url     : https://prove2.me/theorems/134bcdff-7223-4880-9e3b-59f4c5a4d1a1

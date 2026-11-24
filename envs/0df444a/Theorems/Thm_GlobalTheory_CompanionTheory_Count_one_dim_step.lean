@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Count_one_dim_step
 -- name    : GlobalTheory.CompanionTheory.Count.one_dim_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:34:11.550355+00:00
 -- url     : https://prove2.me/theorems/a25411d4-672a-414b-bb50-ae7c0be43175

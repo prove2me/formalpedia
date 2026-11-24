@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobHaarR_haarForm_ind_ne_zero
 -- name    : GlobalTheory.CompanionTheory.FrobHaarR.haarForm_ind_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:43:15.571852+00:00
 -- url     : https://prove2.me/theorems/b6dc5c0e-3ba8-40ff-8a8d-f50500325a2f

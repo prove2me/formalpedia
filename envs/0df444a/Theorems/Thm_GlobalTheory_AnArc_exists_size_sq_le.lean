@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_exists_size_sq_le
 -- name    : GlobalTheory.AnArc.exists_size_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:59:54.454631+00:00
 -- url     : https://prove2.me/theorems/955a8134-f183-4338-9d81-c01251e03921

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_ball_finite_measure_holds
 -- name    : Formalism.REAL.ball_finite_measure_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:23:39.571521+00:00
 -- url     : https://prove2.me/theorems/19cced90-cc61-4377-b2a1-c4e656ff8391

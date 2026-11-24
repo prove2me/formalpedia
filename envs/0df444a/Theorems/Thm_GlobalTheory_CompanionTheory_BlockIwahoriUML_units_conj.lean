@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BlockIwahoriUML_units_conj
 -- name    : GlobalTheory.CompanionTheory.BlockIwahoriUML.units_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:10.792692+00:00
 -- url     : https://prove2.me/theorems/f30296b4-7b78-4fc9-ae48-d9ff2f659a2d

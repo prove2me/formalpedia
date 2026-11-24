@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BLevel_isOpen_near
 -- name    : GlobalTheory.CompanionTheory.BLevel.isOpen_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:21:11.847263+00:00
 -- url     : https://prove2.me/theorems/c4680f40-6d51-476b-bd94-61e8c7f3663b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_adapted_tor
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.adapted_tor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:41:37.292741+00:00
 -- url     : https://prove2.me/theorems/e795919f-3fe5-40f9-a7ea-768350ff6c5b

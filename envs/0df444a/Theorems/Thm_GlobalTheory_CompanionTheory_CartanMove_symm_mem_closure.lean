@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanMove_symm_mem_closure
 -- name    : GlobalTheory.CompanionTheory.CartanMove.symm_mem_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:04.971449+00:00
 -- url     : https://prove2.me/theorems/b5917623-8d6f-4c24-ba1c-33d372b882a5

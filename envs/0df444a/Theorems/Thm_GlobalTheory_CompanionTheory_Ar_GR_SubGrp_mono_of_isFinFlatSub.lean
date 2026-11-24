@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_GR_SubGrp_mono_of_isFinFlatSub
 -- name    : GlobalTheory.CompanionTheory.Ar.GR.SubGrp.mono_of_isFinFlatSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:19:48.867784+00:00
 -- url     : https://prove2.me/theorems/87b6c541-452b-4f72-a2b5-6810c0a0e7ab

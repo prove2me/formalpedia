@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_point_generic
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.point_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:29:13.249056+00:00
 -- url     : https://prove2.me/theorems/570776da-5ede-42da-ba2f-236a2664f778

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICKoszul_filt_mono
 -- name    : GlobalTheory.CompanionTheory.DSICKoszul.filt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:35:53.964032+00:00
 -- url     : https://prove2.me/theorems/3d20b8a3-8804-4faa-a3f3-db86d465a2b4

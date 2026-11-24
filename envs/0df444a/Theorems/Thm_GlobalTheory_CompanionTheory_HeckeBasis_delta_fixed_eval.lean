@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeBasis_delta_fixed_eval
 -- name    : GlobalTheory.CompanionTheory.HeckeBasis.delta_fixed_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:45:32.292398+00:00
 -- url     : https://prove2.me/theorems/09ffd3a6-bce1-445e-b4a3-759ac0147ed2

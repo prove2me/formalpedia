@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussDet_hf_neg_of_ne
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussDet.hf_neg_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:38:29.886923+00:00
 -- url     : https://prove2.me/theorems/b4f22787-58bf-4d2d-9eb2-b8b5b9ed158c

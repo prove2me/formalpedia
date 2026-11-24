@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExtTensorFixed_coord_lTensor
 -- name    : GlobalTheory.CompanionTheory.ExtTensorFixed.coord_lTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:38:20.13261+00:00
 -- url     : https://prove2.me/theorems/497f099f-cdc2-4675-8278-11eceaf409ef

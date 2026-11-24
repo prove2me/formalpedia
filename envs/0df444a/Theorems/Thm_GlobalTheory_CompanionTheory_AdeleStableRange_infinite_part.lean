@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleStableRange_infinite_part
 -- name    : GlobalTheory.CompanionTheory.AdeleStableRange.infinite_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:16:35.652216+00:00
 -- url     : https://prove2.me/theorems/aa2d4706-460f-47b7-af79-9a243ab7e201

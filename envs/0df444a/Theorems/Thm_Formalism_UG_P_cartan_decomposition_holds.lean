@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cartan_decomposition_holds
 -- name    : Formalism.UG.P.cartan_decomposition_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:21:56.570136+00:00
 -- url     : https://prove2.me/theorems/d21022c5-87a8-4193-bd12-0e82dd2758ab

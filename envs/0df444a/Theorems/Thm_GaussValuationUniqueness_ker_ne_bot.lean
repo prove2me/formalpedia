@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_ker_ne_bot
 -- name    : GaussValuationUniqueness.ker_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:50:49.521196+00:00
 -- url     : https://prove2.me/theorems/5c147c55-e440-44b9-817c-f60f7b0b9074

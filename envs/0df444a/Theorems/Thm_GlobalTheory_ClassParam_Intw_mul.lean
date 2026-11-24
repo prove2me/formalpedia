@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_Intw_mul
 -- name    : GlobalTheory.ClassParam.Intw.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:10.125808+00:00
 -- url     : https://prove2.me/theorems/1ecc0842-671d-4096-84cc-2dc4f7fde5cd

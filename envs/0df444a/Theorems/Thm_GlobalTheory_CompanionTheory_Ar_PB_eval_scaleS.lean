@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_eval_scaleS
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.eval_scaleS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:19:04.799679+00:00
 -- url     : https://prove2.me/theorems/678c1410-e54b-44ad-9d4f-d22314fc3ab6

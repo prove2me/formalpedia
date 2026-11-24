@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobProd_isCompact_pattern_fiber
 -- name    : GlobalTheory.CompanionTheory.FrobProd.isCompact_pattern_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:42:31.026013+00:00
 -- url     : https://prove2.me/theorems/86cb60fd-e36d-4fdb-a256-0681400ee8cd

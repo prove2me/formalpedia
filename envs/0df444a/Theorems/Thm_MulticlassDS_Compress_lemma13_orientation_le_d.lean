@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_lemma13_orientation_le_d
 -- name    : MulticlassDS.Compress.lemma13_orientation_le_d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:20:43.951668+00:00
 -- url     : https://prove2.me/theorems/bdbf46f6-7156-42a6-87d7-c57ce86e8f65

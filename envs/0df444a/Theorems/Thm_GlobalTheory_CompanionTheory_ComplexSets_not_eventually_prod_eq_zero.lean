@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_not_eventually_prod_eq_zero
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.not_eventually_prod_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:33:32.037806+00:00
 -- url     : https://prove2.me/theorems/da13b58e-8dab-4be3-b246-6ac7a5314a3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_rankAtStalk_kaehler_of_locally
 -- name    : GlobalTheory.AugCot.rankAtStalk_kaehler_of_locally
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:45:21.822749+00:00
 -- url     : https://prove2.me/theorems/e3799dce-8b75-45b6-8554-9e1e3d005d98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussLevi_rk_conjTranspose
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussLevi.rk_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:38:14.567576+00:00
 -- url     : https://prove2.me/theorems/4c7fa6c7-9201-4101-9347-18d18cc50abc

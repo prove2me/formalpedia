@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bernstein_adjoin_shift
 -- name    : GlobalTheory.CompanionTheory.Bernstein.adjoin_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:21:45.551816+00:00
 -- url     : https://prove2.me/theorems/df1c7690-2ba0-4143-b1eb-8e22568599e7

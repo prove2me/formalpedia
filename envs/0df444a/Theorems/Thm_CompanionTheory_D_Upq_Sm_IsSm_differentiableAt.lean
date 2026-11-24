@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_IsSm_differentiableAt
 -- name    : CompanionTheory.D.Upq.Sm.IsSm.differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:24:38.490222+00:00
 -- url     : https://prove2.me/theorems/07ad76f6-eb1a-4f48-989a-d0d57a326902

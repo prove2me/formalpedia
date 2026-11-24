@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_KernelLengthBounds_length_colData_le
 -- name    : Formalism.NG.KernelLengthBounds.length_colData_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:56:25.817827+00:00
 -- url     : https://prove2.me/theorems/f06f19f0-1ee6-461b-95b8-41c7529bcc52

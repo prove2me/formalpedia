@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeInj_act_translate
 -- name    : GlobalTheory.CompanionTheory.HeckeInj.act_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:31.383308+00:00
 -- url     : https://prove2.me/theorems/caa3248f-75d2-4111-a2a8-a31c213a6e2b

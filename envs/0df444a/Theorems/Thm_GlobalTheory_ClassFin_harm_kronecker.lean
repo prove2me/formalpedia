@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_harm_kronecker
 -- name    : GlobalTheory.ClassFin.harm_kronecker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:11:29.039905+00:00
 -- url     : https://prove2.me/theorems/bf7900de-7beb-4934-8351-069bd640cb0e

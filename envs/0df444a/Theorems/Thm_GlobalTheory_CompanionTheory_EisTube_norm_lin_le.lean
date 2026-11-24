@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_norm_lin_le
 -- name    : GlobalTheory.CompanionTheory.EisTube.norm_lin_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:37:05.369949+00:00
 -- url     : https://prove2.me/theorems/40874101-49e9-4614-b133-1eb08ff9bd9f

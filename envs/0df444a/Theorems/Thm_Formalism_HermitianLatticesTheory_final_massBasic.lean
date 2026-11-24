@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_final_massBasic
 -- name    : Formalism.HermitianLatticesTheory.final_massBasic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:42:43.680842+00:00
 -- url     : https://prove2.me/theorems/b88dc4c3-73de-4920-8b1c-d10e0f9cf859

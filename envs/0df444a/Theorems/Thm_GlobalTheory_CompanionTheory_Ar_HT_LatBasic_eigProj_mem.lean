@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HT_LatBasic_eigProj_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.HT.LatBasic.eigProj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:49.783327+00:00
 -- url     : https://prove2.me/theorems/b00b2e32-81fd-4043-864a-f3bdf37c34e4

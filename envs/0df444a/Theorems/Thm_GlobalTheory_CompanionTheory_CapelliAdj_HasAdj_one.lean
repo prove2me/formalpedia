@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAdj_HasAdj_one
 -- name    : GlobalTheory.CompanionTheory.CapelliAdj.HasAdj.one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:24.573077+00:00
 -- url     : https://prove2.me/theorems/25b309a2-c5c1-4e4e-989f-f43c4e21101c

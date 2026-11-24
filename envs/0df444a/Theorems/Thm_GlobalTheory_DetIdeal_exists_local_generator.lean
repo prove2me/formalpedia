@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_DetIdeal_exists_local_generator
+-- name    : GlobalTheory.DetIdeal.exists_local_generator
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-24T12:49:30.354664+00:00
+-- url     : https://prove2.me/theorems/0e8a7622-81b1-4a53-881c-87622352fe4b
+-- title:
+--   Det Ideal: exists local generator
+-- statement:
+--   The Det Ideal construction uses the exists local generator property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UnitaryExistence/DetMulVolMulConj.lean#L62-L88
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UnitaryExistence/DetMulVolMulConj.lean#L62-L88
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_FinrankEqOfInjectiveOfSpan
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_DetMulVolMulConj
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField Matrix
+open scoped nonZeroDivisors
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo.Tor
+open GlobalTheory GlobalTheory.DetIdeal
+variable {R K : Type} [CommRing R] [IsDedekindDomain R] [Field K] [Algebra R K] [IsFractionRing R K] {r : ℕ}
+
+theorem GlobalTheory.DetIdeal.exists_local_generator (V : FractionalIdeal R⁰ K) (hV : V ≠ 0) (S : Set K)
+    (hS : (V : Submodule R K) = Submodule.span R S) (P : Ideal R) (hP : P ≠ ⊤) :
+    ∃ a ∈ S, ∃ u ∈ V⁻¹, ∃ s : R, s ∉ P ∧ algebraMap R K s = a * u := by sorry

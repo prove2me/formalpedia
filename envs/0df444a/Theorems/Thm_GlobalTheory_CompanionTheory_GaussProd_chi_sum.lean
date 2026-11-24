@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussProd_chi_sum
 -- name    : GlobalTheory.CompanionTheory.GaussProd.chi_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:43:35.103946+00:00
 -- url     : https://prove2.me/theorems/ba99276d-a446-4789-afde-67ae376bec6e

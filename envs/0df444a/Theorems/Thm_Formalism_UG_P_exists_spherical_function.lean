@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_exists_spherical_function
 -- name    : Formalism.UG.P.exists_spherical_function
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:24:15.83408+00:00
 -- url     : https://prove2.me/theorems/612e40b3-09f8-4b22-a53e-e84c37c54aa9

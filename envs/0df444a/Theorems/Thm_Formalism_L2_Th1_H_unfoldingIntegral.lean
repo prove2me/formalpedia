@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_unfoldingIntegral
 -- name    : Formalism.L2.Th1.H.unfoldingIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:12.604724+00:00
 -- url     : https://prove2.me/theorems/4cd07912-8887-498f-90a0-2eb86f709835

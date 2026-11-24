@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnalyticTrans_of
 -- name    : Formalism.L2.Th1.E.AnalyticTrans_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:28:22.211397+00:00
 -- url     : https://prove2.me/theorems/d63c6a4c-bb1c-48ea-ae25-45360706c17b

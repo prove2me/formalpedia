@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BigCell_bigCell_factor
 -- name    : GlobalTheory.BigCell.bigCell_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:01:03.323844+00:00
 -- url     : https://prove2.me/theorems/5a267833-9c0b-41df-bcfe-4f2ddc2321b3

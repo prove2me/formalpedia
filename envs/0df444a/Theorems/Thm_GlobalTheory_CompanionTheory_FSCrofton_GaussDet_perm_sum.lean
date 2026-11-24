@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussDet_perm_sum
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussDet.perm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:38:54.324325+00:00
 -- url     : https://prove2.me/theorems/109581b4-4a72-4109-8144-a03df84d0b92

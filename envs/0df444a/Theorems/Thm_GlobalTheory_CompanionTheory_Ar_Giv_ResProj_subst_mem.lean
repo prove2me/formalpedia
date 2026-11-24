@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_ResProj_subst_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.ResProj.subst_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:25.566791+00:00
 -- url     : https://prove2.me/theorems/9e5744d0-6846-4add-8bd7-67dc245b2758

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaStrip_norm_sin_le_exp
 -- name    : GlobalTheory.CompanionTheory.DigammaStrip.norm_sin_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:37:17.110746+00:00
 -- url     : https://prove2.me/theorems/fb2dae7d-a0b5-42b1-93d5-c44579cda492

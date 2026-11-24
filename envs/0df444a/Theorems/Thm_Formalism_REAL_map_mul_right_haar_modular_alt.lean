@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_map_mul_right_haar_modular_alt
 -- name    : Formalism.REAL.map_mul_right_haar_modular_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:23:17.021079+00:00
 -- url     : https://prove2.me/theorems/f0ab8ba6-d7c7-4fee-991a-f38a4f304f4d

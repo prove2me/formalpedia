@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_LocalCrofton_gW_ne_top
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.LocalCrofton.gW_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:41:29.043592+00:00
 -- url     : https://prove2.me/theorems/66c34d6b-d3be-4abd-93cd-6bd5cb3b1d24

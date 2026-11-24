@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_isRelevant_map_redMap
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.isRelevant_map_redMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:21:26.498817+00:00
 -- url     : https://prove2.me/theorems/86f99db6-3e61-45fa-9cfc-457ae0b39c8d

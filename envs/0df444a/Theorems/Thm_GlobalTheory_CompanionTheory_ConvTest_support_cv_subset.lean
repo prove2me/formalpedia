@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ConvTest_support_cv_subset
 -- name    : GlobalTheory.CompanionTheory.ConvTest.support_cv_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:32:55.893811+00:00
 -- url     : https://prove2.me/theorems/23b59671-42cc-41f7-992f-98907ad390ff

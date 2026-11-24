@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GalDual_contAction_twDual_of_continuous
 -- name    : GlobalTheory.CompanionTheory.GalDual.contAction_twDual_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:42:10.532929+00:00
 -- url     : https://prove2.me/theorems/3a1b7b13-7018-433a-aba0-eade493b4b90

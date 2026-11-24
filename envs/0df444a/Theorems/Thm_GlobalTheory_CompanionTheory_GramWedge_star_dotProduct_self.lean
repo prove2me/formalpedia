@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GramWedge_star_dotProduct_self
 -- name    : GlobalTheory.CompanionTheory.GramWedge.star_dotProduct_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:33.058616+00:00
 -- url     : https://prove2.me/theorems/3d6cdc8c-d42c-46c0-abbe-cd4a9308c54b

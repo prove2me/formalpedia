@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_completedNaturalMeasurableAEModV1
 -- name    : Kyprianou.Ch03.completedNaturalMeasurableAEModV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:29:14.379146+00:00
 -- url     : https://prove2.me/theorems/472dd152-af91-47bc-99ed-2b1d238e336e

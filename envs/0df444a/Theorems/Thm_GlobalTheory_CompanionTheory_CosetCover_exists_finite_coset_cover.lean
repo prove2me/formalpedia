@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CosetCover_exists_finite_coset_cover
 -- name    : GlobalTheory.CompanionTheory.CosetCover.exists_finite_coset_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:34:27.142917+00:00
 -- url     : https://prove2.me/theorems/cf35bd87-5b2f-43c6-9085-267663f9e3f8

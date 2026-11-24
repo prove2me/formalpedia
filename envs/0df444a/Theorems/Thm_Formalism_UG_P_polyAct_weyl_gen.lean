@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_polyAct_weyl_gen
 -- name    : Formalism.UG.P.polyAct_weyl_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:33:17.136967+00:00
 -- url     : https://prove2.me/theorems/4169258c-d04f-47be-aab9-0d16c4370194

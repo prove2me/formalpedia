@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_siegel_theorem_of
 -- name    : Formalism.ZeroFreeDirichlet.siegel_theorem_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:44:32.597576+00:00
 -- url     : https://prove2.me/theorems/ed7013e9-68e9-4a7a-a90c-952654f403e8

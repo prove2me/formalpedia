@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_integrable_exp_neg_sum_abs
 -- name    : GlobalTheory.CompanionTheory.EisTube.integrable_exp_neg_sum_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:36:36.747317+00:00
 -- url     : https://prove2.me/theorems/bbe5244f-f60b-420d-9d04-efbd8702af6d

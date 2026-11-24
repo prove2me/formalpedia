@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GabSep_eq_one_of_forall_isOpen_subgroup
 -- name    : GlobalTheory.GabSep.eq_one_of_forall_isOpen_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:24:35.017834+00:00
 -- url     : https://prove2.me/theorems/276d0134-8adc-44aa-a2d3-990269477b5e

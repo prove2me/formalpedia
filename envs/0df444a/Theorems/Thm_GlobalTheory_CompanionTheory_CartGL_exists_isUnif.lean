@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_exists_isUnif
 -- name    : GlobalTheory.CompanionTheory.CartGL.exists_isUnif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:26:58.749589+00:00
 -- url     : https://prove2.me/theorems/9444b971-99d1-4d18-aa83-77361e82c281

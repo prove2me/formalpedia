@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Sys_c_ne_zero
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Sys.c_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:39:46.683351+00:00
 -- url     : https://prove2.me/theorems/07836c0c-f36f-4df1-a55b-bf9cf59e5ab8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_segMonC_isWeightedHomogeneous
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.segMonC_isWeightedHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:20:37.341396+00:00
 -- url     : https://prove2.me/theorems/323cad7e-0f5d-4107-ad26-b5b4e7aba0ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICKoszul_cre_lift
 -- name    : GlobalTheory.CompanionTheory.DSICKoszul.cre_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:35:47.007811+00:00
 -- url     : https://prove2.me/theorems/c0bf9f80-1a7a-4e93-bf3b-3d62940717c4

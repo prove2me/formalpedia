@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CharConductor_exists_conductor_step
 -- name    : GlobalTheory.CompanionTheory.CharConductor.exists_conductor_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:33:15.785082+00:00
 -- url     : https://prove2.me/theorems/7394180c-8625-46ba-bbc8-e39b9ac4ce5d

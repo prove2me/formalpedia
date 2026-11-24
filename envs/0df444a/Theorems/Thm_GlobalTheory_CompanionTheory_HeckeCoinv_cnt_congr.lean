@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeCoinv_cnt_congr
 -- name    : GlobalTheory.CompanionTheory.HeckeCoinv.cnt_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:45:51.295309+00:00
 -- url     : https://prove2.me/theorems/1afd5863-bb74-49ce-94cf-d6bbddbbe090

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_Sharp_qcqp13_assumption1
 -- name    : QCQPTightness.Sharp.qcqp13_assumption1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:24:13.103067+00:00
 -- url     : https://prove2.me/theorems/d26cd19c-6b2e-469e-b8a5-2be7fd7c4b3f

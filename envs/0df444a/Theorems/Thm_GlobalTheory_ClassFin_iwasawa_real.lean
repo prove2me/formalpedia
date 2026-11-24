@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_iwasawa_real
 -- name    : GlobalTheory.ClassFin.iwasawa_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:11:46.695902+00:00
 -- url     : https://prove2.me/theorems/ab653993-500e-4056-b0f6-6419f95a152b

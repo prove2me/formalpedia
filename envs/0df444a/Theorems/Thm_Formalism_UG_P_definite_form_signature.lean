@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_definite_form_signature
 -- name    : Formalism.UG.P.definite_form_signature
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:24:07.977853+00:00
 -- url     : https://prove2.me/theorems/9b0f476b-7293-4a71-8746-7e93973a36f1

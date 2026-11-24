@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_isUnitary_sE
 -- name    : GlobalTheory.CompanionTheory.DSUniq.isUnitary_sE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:36:16.212876+00:00
 -- url     : https://prove2.me/theorems/ed625dac-79eb-4b11-b94d-0243530a7b11

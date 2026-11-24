@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGL_card_swap_block
 -- name    : GlobalTheory.CompanionTheory.FinGL.card_swap_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:39:50.644674+00:00
 -- url     : https://prove2.me/theorems/819e9229-4313-4678-99e9-0096fef50813

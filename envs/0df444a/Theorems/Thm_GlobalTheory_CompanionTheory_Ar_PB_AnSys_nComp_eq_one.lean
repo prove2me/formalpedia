@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_AnSys_nComp_eq_one
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.AnSys.nComp_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:18:41.183089+00:00
 -- url     : https://prove2.me/theorems/a4957d39-9cc0-4d1d-9638-ca7343de7ba2
