@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_zeroSet_sliceIdeal_81bd9c1d3ddc
 -- name    : P2M_GroundTheory_Heights__Heights_zeroSet_sliceIdeal_81bd9c1d3ddc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:24.930794+00:00
 -- url     : https://prove2.me/theorems/3a846a73-6781-439b-928c-353d127bbb5a

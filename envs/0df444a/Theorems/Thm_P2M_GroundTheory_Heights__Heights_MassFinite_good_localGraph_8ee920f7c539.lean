@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MassFinite_good_localGraph_8ee920f7c539
 -- name    : P2M_GroundTheory_Heights__Heights_MassFinite_good_localGraph_8ee920f7c539
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:46.8695+00:00
 -- url     : https://prove2.me/theorems/9ee7e143-a9c3-4a64-86d3-89f8896f0009

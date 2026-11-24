@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csAsm_gmap_one
 -- name    : Formalism.UG.P.csAsm_gmap_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:29.05994+00:00
 -- url     : https://prove2.me/theorems/f24f6d71-c6ab-4e50-be1d-bab251d880f3

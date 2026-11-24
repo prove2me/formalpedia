@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_choose_add_le_one_add_pow
 -- name    : GlobalTheory.MvPoly.choose_add_le_one_add_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:24.262803+00:00
 -- url     : https://prove2.me/theorems/8907097b-f059-4159-819b-22d973bedee4

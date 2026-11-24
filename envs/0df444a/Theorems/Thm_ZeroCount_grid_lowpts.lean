@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroCount_grid_lowpts
 -- name    : ZeroCount.grid_lowpts
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-11-24T04:01:40.545387+00:00
 -- url     : https://prove2.me/theorems/f068d477-312a-4cff-8a07-aba11d788958

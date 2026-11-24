@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_laplace_l2_bound
 -- name    : RoughSurfaceScattering.laplace_l2_bound
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T04:01:05.185998+00:00
 -- url     : https://prove2.me/theorems/9ef4e5d1-968c-4720-b0e7-84ffc66db109

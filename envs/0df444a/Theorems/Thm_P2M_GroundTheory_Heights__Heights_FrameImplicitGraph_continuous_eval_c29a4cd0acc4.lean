@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_continuous_eval_c29a4cd0acc4
 -- name    : P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_continuous_eval_c29a4cd0acc4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:01.626925+00:00
 -- url     : https://prove2.me/theorems/cbc0e2e0-46d3-456e-aaa5-74f8f6451b51

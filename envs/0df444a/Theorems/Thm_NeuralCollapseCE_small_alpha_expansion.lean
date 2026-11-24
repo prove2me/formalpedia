@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuralCollapseCE_small_alpha_expansion
 -- name    : NeuralCollapseCE.small_alpha_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:13:19.548252+00:00
 -- url     : https://prove2.me/theorems/ee340138-a143-4513-86e0-3a81eb46dbeb

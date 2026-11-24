@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameFibre_herm_of_trace
 -- name    : GlobalTheory.FrameFibre.herm_of_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:54.027417+00:00
 -- url     : https://prove2.me/theorems/365b9214-0ed0-4a95-be71-c5e89ba3828d

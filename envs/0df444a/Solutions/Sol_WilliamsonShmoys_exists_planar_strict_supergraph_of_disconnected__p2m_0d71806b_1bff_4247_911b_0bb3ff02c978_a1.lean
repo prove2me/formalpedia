@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_planar_strict_supergraph_of_disconnected__p2m_0d71806b_1bff_4247_911b_0bb3ff02c978_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-29T12:32:54.053956+00:00
 -- url     : https://prove2.me/submissions/bffbbac0-c9d4-4f32-8394-1194de4e34a5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_completion_edge_count__p2m_7126cecb_c28a_4db7_af93_ede0b0cbea72_a5
 import Theorems.Thm_WilliamsonShmoys_disconnected_planar_edge_bound__p2m_7126cecb_c28a_4db7_af93_ede0b0cbea72_a5

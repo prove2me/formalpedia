@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFormDeriv_deriv_affine_cexp
 -- name    : GlobalTheory.CharFormDeriv.deriv_affine_cexp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:28.379174+00:00
 -- url     : https://prove2.me/theorems/43f9a2a5-4159-48ae-980c-32c558fed19b

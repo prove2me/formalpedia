@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_column
 -- name    : ULHC.column
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:49:18.683154+00:00
 -- url     : https://prove2.me/theorems/bdeb3a0c-2fe1-40bb-bf69-ca60b845cef3

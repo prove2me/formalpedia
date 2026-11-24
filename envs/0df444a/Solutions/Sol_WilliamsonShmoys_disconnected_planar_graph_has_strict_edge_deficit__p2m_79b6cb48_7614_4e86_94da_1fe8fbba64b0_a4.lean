@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.disconnected_planar_graph_has_strict_edge_deficit__p2m_79b6cb48_7614_4e86_94da_1fe8fbba64b0_a4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:11:18.381403+00:00
 -- url     : https://prove2.me/submissions/881d7f26-66a9-44fc-a564-04e50cebfc43
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

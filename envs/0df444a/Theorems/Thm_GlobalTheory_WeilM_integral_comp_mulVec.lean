@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_integral_comp_mulVec
 -- name    : GlobalTheory.WeilM.integral_comp_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:37.555971+00:00
 -- url     : https://prove2.me/theorems/2a98591e-7ef2-447e-a5e5-cb4234dc76df

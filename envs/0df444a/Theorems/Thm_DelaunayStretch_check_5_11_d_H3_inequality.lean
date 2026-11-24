@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_check_5_11_d_H3_inequality
 -- name    : DelaunayStretch.check_5_11_d_H3_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T03:14:29.942229+00:00
 -- url     : https://prove2.me/theorems/429e4585-3841-4731-81e0-426891985e89

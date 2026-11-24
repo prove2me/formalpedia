@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_par_cellJ
 -- name    : ULHC.par_cellJ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:41:42.274795+00:00
 -- url     : https://prove2.me/theorems/5802fd53-1798-4c77-87b4-4efee99e8162

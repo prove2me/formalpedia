@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Unram_opE_of_ite
 -- name    : GlobalTheory.RootEx.Unram.opE_of_ite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:59.597711+00:00
 -- url     : https://prove2.me/theorems/fe992d5d-a85c-40d8-b4c8-b8444075a207

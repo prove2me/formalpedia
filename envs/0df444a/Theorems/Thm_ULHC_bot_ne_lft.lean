@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_bot_ne_lft
 -- name    : ULHC.bot_ne_lft
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:52:01.539803+00:00
 -- url     : https://prove2.me/theorems/ec516da0-c2f6-49bf-b9db-77b7f28c78fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_HaarUniq_exists_decomp
 -- name    : GlobalTheory.WeilM.HaarUniq.exists_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:13.199896+00:00
 -- url     : https://prove2.me/theorems/e6854087-1452-450c-bcff-99c5a23bfaf2

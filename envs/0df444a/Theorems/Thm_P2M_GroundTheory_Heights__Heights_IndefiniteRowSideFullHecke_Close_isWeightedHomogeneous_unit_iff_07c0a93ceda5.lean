@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_isWeightedHomogeneous_unit_iff_07c0a93ceda5
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_isWeightedHomogeneous_unit_iff_07c0a93ceda5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:07.731412+00:00
 -- url     : https://prove2.me/theorems/37f89906-e14a-4ef0-b8e8-1622e9ecab72

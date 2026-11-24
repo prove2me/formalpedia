@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_isMu_one
 -- name    : GlobalTheory.Phase.isMu_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:44.693864+00:00
 -- url     : https://prove2.me/theorems/c4b6aae2-0513-4839-acd0-14f192446fa5

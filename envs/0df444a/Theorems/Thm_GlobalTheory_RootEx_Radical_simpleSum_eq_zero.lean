@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Radical_simpleSum_eq_zero
 -- name    : GlobalTheory.RootEx.Radical.simpleSum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:40.461325+00:00
 -- url     : https://prove2.me/theorems/1577c989-59d2-41d7-996d-47230fc6d9e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_smul_eq
 -- name    : GlobalTheory.SgGlob.Inhab.smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:25.603686+00:00
 -- url     : https://prove2.me/theorems/903f71ea-82fc-4e0f-806f-127e6440e7dc

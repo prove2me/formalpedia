@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_crossL_append
 -- name    : ULHC.crossL_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:54:01.258954+00:00
 -- url     : https://prove2.me/theorems/d08d9de8-a1d8-4498-ae35-552b35ac1030

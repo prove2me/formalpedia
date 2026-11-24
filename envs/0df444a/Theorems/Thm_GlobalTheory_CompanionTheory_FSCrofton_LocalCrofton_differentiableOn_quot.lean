@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_LocalCrofton_differentiableOn_quot
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.LocalCrofton.differentiableOn_quot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:01:44.40407+00:00
 -- url     : https://prove2.me/theorems/cc63c72f-b0a1-4459-ac3f-b2f5faee73bb

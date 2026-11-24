@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_algebraMap_tower_bc962cfa3117
 -- name    : P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_algebraMap_tower_bc962cfa3117
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:58.987892+00:00
 -- url     : https://prove2.me/theorems/19652f36-6441-42c2-b1de-f5c57507f9ed

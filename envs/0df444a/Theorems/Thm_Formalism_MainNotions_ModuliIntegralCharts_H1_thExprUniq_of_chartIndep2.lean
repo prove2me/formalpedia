@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_thExprUniq_of_chartIndep2
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.thExprUniq_of_chartIndep2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:11.702836+00:00
 -- url     : https://prove2.me/theorems/94b17829-1cce-4b89-8303-cc07fb13530c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ZeroCount.grid_lowpts
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @xuanji
 -- created : 2026-11-24T04:08:04.15523+00:00
 -- url     : https://prove2.me/submissions/41a9b05d-3786-4cf3-ab4a-71de11cdda18
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ArdaRH65K_RS5_Band

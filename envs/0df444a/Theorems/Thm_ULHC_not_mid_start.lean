@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_not_mid_start
 -- name    : ULHC.not_mid_start
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:50:12.911688+00:00
 -- url     : https://prove2.me/theorems/d0b2e932-e8d1-4c84-a4fb-14bfa8388547

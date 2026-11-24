@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_symmDiff_cells_frame
 -- name    : ULHC.symmDiff_cells_frame
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:47:22.47332+00:00
 -- url     : https://prove2.me/theorems/76cf1594-22ad-4404-8c70-8df45d0b5fd3

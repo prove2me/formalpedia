@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_smallF_of_isEmpty
 -- name    : GlobalTheory.SplitFlip.smallF_of_isEmpty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:08.36387+00:00
 -- url     : https://prove2.me/theorems/27e854cc-06ce-4bd6-89dc-d0d8f7b3a3a3

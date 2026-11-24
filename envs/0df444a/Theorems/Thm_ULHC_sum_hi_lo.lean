@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_sum_hi_lo
 -- name    : ULHC.sum_hi_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:52:56.684639+00:00
 -- url     : https://prove2.me/theorems/cd7883d6-1451-4bd7-a39b-75f3be9b7e56

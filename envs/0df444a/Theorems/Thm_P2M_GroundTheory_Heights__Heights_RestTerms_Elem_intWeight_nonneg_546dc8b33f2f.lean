@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_intWeight_nonneg_546dc8b33f2f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_intWeight_nonneg_546dc8b33f2f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:12.908832+00:00
 -- url     : https://prove2.me/theorems/a2e347d4-c8a8-44e7-b4d1-88524008d74c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_mem_detSet
 -- name    : GlobalTheory.BetaEx.mem_detSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:44.504166+00:00
 -- url     : https://prove2.me/theorems/5c704f1f-3b1f-4f2a-a9dd-6a566d817e8d

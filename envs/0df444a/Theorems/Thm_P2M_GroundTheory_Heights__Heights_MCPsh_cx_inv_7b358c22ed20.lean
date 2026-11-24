@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_cx_inv_7b358c22ed20
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_cx_inv_7b358c22ed20
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:23.689394+00:00
 -- url     : https://prove2.me/theorems/2dc1f51f-dc36-4f70-bdf9-f54f9b0e1180

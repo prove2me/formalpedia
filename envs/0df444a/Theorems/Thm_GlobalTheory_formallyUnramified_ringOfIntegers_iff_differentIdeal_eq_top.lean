@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formallyUnramified_ringOfIntegers_iff_differentIdeal_eq_top
 -- name    : GlobalTheory.formallyUnramified_ringOfIntegers_iff_differentIdeal_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:58.874578+00:00
 -- url     : https://prove2.me/theorems/bda566b3-c12f-42a0-8fa7-5611d867b901

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_inv_ge_of_le_f88fee38ae1c
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_inv_ge_of_le_f88fee38ae1c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:07.237073+00:00
 -- url     : https://prove2.me/theorems/1cb8e804-777e-4202-96b8-d0bbbe4a2c82

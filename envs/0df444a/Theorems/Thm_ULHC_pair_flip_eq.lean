@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_pair_flip_eq
 -- name    : ULHC.pair_flip_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:40:07.037798+00:00
 -- url     : https://prove2.me/theorems/fd5cb343-6b53-44a5-8d5e-bda267bb6b73

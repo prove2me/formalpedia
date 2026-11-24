@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_IsMu_norm_eq_one
 -- name    : GlobalTheory.Phase.IsMu.norm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:58.693192+00:00
 -- url     : https://prove2.me/theorems/ecd805b8-aad0-4585-986e-9d536d1b0789

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_Parab_qm_mul__cae64bfa856c
 -- name    : P2M_GlobalTheory_SW_Parab_qm_mul__cae64bfa856c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:19.229633+00:00
 -- url     : https://prove2.me/theorems/73984672-7e0a-4d6d-bf96-4b0b9b683bd8

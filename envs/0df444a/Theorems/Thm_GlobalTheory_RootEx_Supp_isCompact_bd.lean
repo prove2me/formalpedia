@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_isCompact_bd
 -- name    : GlobalTheory.RootEx.Supp.isCompact_bd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:53.118225+00:00
 -- url     : https://prove2.me/theorems/fd0fed18-9ee3-4cba-9009-acca8a8620b2

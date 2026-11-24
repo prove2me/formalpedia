@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Cusp_map_map_c
 -- name    : PositivityTheory.ThKEnd.Cusp.map_map_c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:57.147637+00:00
 -- url     : https://prove2.me/theorems/9f181004-c805-4054-92e0-56aab24ac1b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Conservation_not_horizontal_d25330750319
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Conservation_not_horizontal_d25330750319
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:01.839916+00:00
 -- url     : https://prove2.me/theorems/e8617db1-f86b-4ea0-aaaf-126476a53907

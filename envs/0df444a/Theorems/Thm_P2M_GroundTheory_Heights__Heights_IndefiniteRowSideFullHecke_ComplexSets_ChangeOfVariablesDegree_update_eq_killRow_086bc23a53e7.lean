@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ChangeOfVariablesDegree_update_eq_killRow_086bc23a53e7
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ChangeOfVariablesDegree_update_eq_killRow_086bc23a53e7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:00.580183+00:00
 -- url     : https://prove2.me/theorems/4c8b1ee7-b7d3-429f-a04c-ee77ea451b0b

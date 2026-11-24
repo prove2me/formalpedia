@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_nonarch_pi
 -- name    : GlobalTheory.WeilM.nonarch_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:42.310485+00:00
 -- url     : https://prove2.me/theorems/5a3abe13-8c35-4caa-a4a3-e767469bd700

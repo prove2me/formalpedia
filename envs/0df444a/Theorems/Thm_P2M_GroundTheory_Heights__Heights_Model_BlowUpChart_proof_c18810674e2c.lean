@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_BlowUpChart_proof_c18810674e2c
 -- name    : P2M_GroundTheory_Heights__Heights_Model_BlowUpChart_proof_c18810674e2c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:46.940493+00:00
 -- url     : https://prove2.me/theorems/f7aea7bb-9fdb-464c-8ace-85acf2536c17

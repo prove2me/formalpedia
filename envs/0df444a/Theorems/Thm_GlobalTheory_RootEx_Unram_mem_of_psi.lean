@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Unram_mem_of_psi
 -- name    : GlobalTheory.RootEx.Unram.mem_of_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:02.9389+00:00
 -- url     : https://prove2.me/theorems/6b6cba4c-afa8-4fc5-9964-cda48b30f933

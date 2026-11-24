@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_nonnegLaplaceFactorIndepFunV1
 -- name    : Kyprianou.Ch02.nonnegLaplaceFactorIndepFunV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:02:24.374509+00:00
 -- url     : https://prove2.me/theorems/40dd21a3-3490-419e-8e36-067d909ddcf7

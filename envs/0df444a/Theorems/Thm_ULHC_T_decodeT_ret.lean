@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_decodeT_ret
 -- name    : ULHC.T.decodeT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:16:53.789846+00:00
 -- url     : https://prove2.me/theorems/fe1f6b04-5b04-4d6b-910c-b18f9c671525

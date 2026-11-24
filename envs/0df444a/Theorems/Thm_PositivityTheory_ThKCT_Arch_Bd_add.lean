@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Arch_Bd_add
 -- name    : PositivityTheory.ThKCT.Arch.Bd.add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:08.62295+00:00
 -- url     : https://prove2.me/theorems/634c4a62-503b-4e8e-9f52-f96ce0512d95

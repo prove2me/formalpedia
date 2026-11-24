@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sphMonom_measurable_normalize
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_measurable_normalize
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:19.733565+00:00
 -- url     : https://prove2.me/theorems/c4132533-08eb-46b3-9fc3-b59a59ecbb0d

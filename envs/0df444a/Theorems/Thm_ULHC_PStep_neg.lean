@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_PStep_neg
 -- name    : ULHC.PStep.neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:54:47.755938+00:00
 -- url     : https://prove2.me/theorems/f6df780f-10c9-47ae-bc4c-97e9e8329c4a

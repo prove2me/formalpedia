@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_fourierSum_apply
 -- name    : GlobalTheory.SplitFlip.fourierSum_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:19.724804+00:00
 -- url     : https://prove2.me/theorems/39b9abc5-8d22-43d0-b016-0e34564b0096

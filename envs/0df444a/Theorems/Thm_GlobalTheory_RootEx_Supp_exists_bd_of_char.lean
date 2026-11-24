@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_exists_bd_of_char
 -- name    : GlobalTheory.RootEx.Supp.exists_bd_of_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:00.370961+00:00
 -- url     : https://prove2.me/theorems/78a2f809-4f8e-4bb9-830b-1dd63facc5f5

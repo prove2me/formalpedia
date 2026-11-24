@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_deg_zero_of_inside
 -- name    : ULHC.deg_zero_of_inside
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:47:37.445544+00:00
 -- url     : https://prove2.me/theorems/daaa3df2-74de-4a93-884b-53823dbba3e9

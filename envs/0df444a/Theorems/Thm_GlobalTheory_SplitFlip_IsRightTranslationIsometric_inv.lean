@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_IsRightTranslationIsometric_inv
 -- name    : GlobalTheory.SplitFlip.IsRightTranslationIsometric.inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:51.219485+00:00
 -- url     : https://prove2.me/theorems/d114c5bd-fb70-43c8-9b89-535124164523

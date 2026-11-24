@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Edge_ext_pq
 -- name    : ULHC.Edge.ext_pq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:51:43.213859+00:00
 -- url     : https://prove2.me/theorems/db8ae0ad-7d6d-425f-8c29-b24fe8ebcfc9

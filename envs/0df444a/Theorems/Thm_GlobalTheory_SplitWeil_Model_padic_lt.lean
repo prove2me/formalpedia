@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_Model_padic_lt
 -- name    : GlobalTheory.SplitWeil.Model.padic_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:07.119577+00:00
 -- url     : https://prove2.me/theorems/2c002cef-1971-41f9-aebc-d08af2715ee8

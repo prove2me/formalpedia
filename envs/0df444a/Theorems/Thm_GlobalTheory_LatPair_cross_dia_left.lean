@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_cross_dia_left
 -- name    : GlobalTheory.LatPair.cross_dia_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:58.791396+00:00
 -- url     : https://prove2.me/theorems/36433da8-419f-4b3b-b197-f0bfa2223b87

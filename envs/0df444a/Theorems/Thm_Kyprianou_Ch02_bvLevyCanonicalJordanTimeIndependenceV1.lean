@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_bvLevyCanonicalJordanTimeIndependenceV1
 -- name    : Kyprianou.Ch02.bvLevyCanonicalJordanTimeIndependenceV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:20:37.6383+00:00
 -- url     : https://prove2.me/theorems/aaa9dc1f-647e-4c4e-99cf-b85bb98e1b40

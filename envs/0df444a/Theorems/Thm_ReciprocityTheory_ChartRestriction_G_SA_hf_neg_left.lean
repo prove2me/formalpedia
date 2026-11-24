@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_hf_neg_left
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.hf_neg_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:47.247803+00:00
 -- url     : https://prove2.me/theorems/12c831fa-795f-4b9f-a4f9-3f37ddcdfd16

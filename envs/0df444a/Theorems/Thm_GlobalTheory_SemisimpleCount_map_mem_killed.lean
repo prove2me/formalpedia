@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemisimpleCount_map_mem_killed
 -- name    : GlobalTheory.SemisimpleCount.map_mem_killed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:20.701357+00:00
 -- url     : https://prove2.me/theorems/efc90433-a3a9-4eea-8c2f-5d2fbd55d2d6

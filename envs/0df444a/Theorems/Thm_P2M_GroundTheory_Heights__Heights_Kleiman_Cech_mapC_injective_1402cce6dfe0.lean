@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_mapC_injective_1402cce6dfe0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_mapC_injective_1402cce6dfe0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:28.424108+00:00
 -- url     : https://prove2.me/theorems/132c1778-c41e-4712-bca1-13be84ea0cf1

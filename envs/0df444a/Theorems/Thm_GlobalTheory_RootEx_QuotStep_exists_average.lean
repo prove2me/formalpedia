@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_QuotStep_exists_average
 -- name    : GlobalTheory.RootEx.QuotStep.exists_average
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:08.005172+00:00
 -- url     : https://prove2.me/theorems/02c2f1a0-cae9-47a2-963d-2c0814cda382

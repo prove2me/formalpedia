@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_finSup
 -- name    : Formalism.HN.finSup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:03.69607+00:00
 -- url     : https://prove2.me/theorems/b1e2f193-6c95-4491-9a07-851fa73a916f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameFibre_herm_smul_smul
 -- name    : GlobalTheory.FrameFibre.herm_smul_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:59:02.624235+00:00
 -- url     : https://prove2.me/theorems/8257ae1b-77aa-48fa-8bbe-18effa8064fc

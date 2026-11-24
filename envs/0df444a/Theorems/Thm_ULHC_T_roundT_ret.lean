@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_roundT_ret
 -- name    : ULHC.T.roundT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:17:05.776268+00:00
 -- url     : https://prove2.me/theorems/cd4696e9-ce6e-4e05-b64d-aaff13fa7e6e

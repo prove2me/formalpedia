@@ -60573,10 +60573,10 @@
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_Assembly", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_ClosedEqNablaC", "via": ["statement"]}
 {"parent": "PHarmClassicalGradient", "child": "PHigherOrder_Plane", "via": ["solution", "statement"]}
 {"parent": "PHarmClassicalGradient", "child": "PHigherOrder_PHarmClassicalGradient", "via": ["solution", "statement"]}
-{"parent": "Formalism.UG.P.csDual_span", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csDual_span", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsDual", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csDual_span", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["statement"]}
-{"parent": "Formalism.UG.P.csDual_span", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge", "via": ["statement"]}
+{"parent": "Formalism.UG.P.csDual_span", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csDual_span", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csDual_span", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.csDual_span", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge", "via": ["solution", "statement"]}
 {"parent": "PHigherOrder_XHalf", "child": "PHigherOrder_Plane", "via": ["statement"]}
 {"parent": "Formalism.GM.gammaIntegralityLemmas.IVP.congr", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamInt", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.gammaIntegralityLemmas.IVP.congr", "child": "Formalism_MahlerMeasure_GamInt", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_gq_zero
 -- name    : GlobalTheory.SgGlob.Inhab.gq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:36.940069+00:00
 -- url     : https://prove2.me/theorems/95928e16-0641-48aa-9d65-4853322b8a27

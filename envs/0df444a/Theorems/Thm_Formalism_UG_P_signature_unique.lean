@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_signature_unique
 -- name    : Formalism.UG.P.signature_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:05.524493+00:00
 -- url     : https://prove2.me/theorems/47466e2d-f6d4-4cd0-b7f6-f801f722e8db

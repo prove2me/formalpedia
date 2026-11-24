@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_pot_around_missing
 -- name    : ULHC.pot_around_missing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:31.744083+00:00
 -- url     : https://prove2.me/theorems/64a66237-e36f-44cf-a479-9fdabca38832

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_filtPiece_mono_1da95a728efe
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_filtPiece_mono_1da95a728efe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:52.077908+00:00
 -- url     : https://prove2.me/theorems/1b2fdd92-c64c-4cbd-aaaa-edde92a70310

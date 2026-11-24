@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LelongRegularise_exists_poly_of_linEval_eq_zero_1a20ed7e007c
 -- name    : P2M_GroundTheory_Heights__Heights_LelongRegularise_exists_poly_of_linEval_eq_zero_1a20ed7e007c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:05.08011+00:00
 -- url     : https://prove2.me/theorems/43cfcf2b-6140-4cc0-bcce-24225273ad58

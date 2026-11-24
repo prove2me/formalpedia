@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PosPartSplit_proof_e6248afef178
 -- name    : P2M_GroundTheory_Heights__Heights_PosPartSplit_proof_e6248afef178
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:57:32.208717+00:00
 -- url     : https://prove2.me/theorems/d5b7cdee-ca1c-4717-92de-7e0aff1590e9

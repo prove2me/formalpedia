@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_polCoef_eq_zero
 -- name    : ReciprocityTheory.AnForm.A.polCoef_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:32.290971+00:00
 -- url     : https://prove2.me/theorems/891d0a4e-bc3c-413a-8ed0-079b763cbc39

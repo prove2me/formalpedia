@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_spherical_ordV_unit
 -- name    : Formalism.UG.P.spherical_ordV_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:14.854514+00:00
 -- url     : https://prove2.me/theorems/7528084c-5206-4ef7-8cd3-0ff0de7c735d

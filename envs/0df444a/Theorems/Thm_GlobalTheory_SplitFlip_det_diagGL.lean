@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_det_diagGL
 -- name    : GlobalTheory.SplitFlip.det_diagGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:55.259702+00:00
 -- url     : https://prove2.me/theorems/c23003d6-c6be-4336-884c-c523149874b0

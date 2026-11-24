@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_span_span_of_le_5980be65a218
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_span_span_of_le_5980be65a218
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:20.104659+00:00
 -- url     : https://prove2.me/theorems/eeaa1990-037f-4600-b965-79ed3f998ec8

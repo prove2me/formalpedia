@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_PermWord_shorter_le_filt
 -- name    : GlobalTheory.SmoothForms.PermWord.shorter_le_filt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:39.112665+00:00
 -- url     : https://prove2.me/theorems/80c88591-6b9f-46d9-9cf9-8e341df4ff11

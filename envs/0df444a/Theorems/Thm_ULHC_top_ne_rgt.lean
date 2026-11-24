@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_top_ne_rgt
 -- name    : ULHC.top_ne_rgt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:51:59.071853+00:00
 -- url     : https://prove2.me/theorems/e67920c5-38ab-4e93-a78d-546bc82a083d

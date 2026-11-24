@@ -11974,7 +11974,7 @@
 {"parent": "GlobalTheory.HermFrame.isUnit_det_quotGram", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_LeTwoMulOfForallScale", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HermFrame.isUnit_det_quotGram", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_EventuallyDifferentiableAtOfContDiffAtTwo", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HermFrame.isUnit_det_quotGram", "child": "ReciprocityTheory_AnalyticForms_MaIntEmpty", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.trace_eq_sum_realEmbeddings", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_FinrankMulDiscrRpowLeSumSqOfMemTraceDual", "via": ["statement"]}
+{"parent": "GlobalTheory.trace_eq_sum_realEmbeddings", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_FinrankMulDiscrRpowLeSumSqOfMemTraceDual", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_PsiQuadratic___self_27515abbac20", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_DegenerationDataPsiQuadraticGeneratorsLinear", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_PsiQuadratic___self_27515abbac20", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_SepticCharacterInjective", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.TG.pG_struct", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_ThetaGenThick", "via": ["solution", "statement"]}
@@ -50128,7 +50128,7 @@
 {"parent": "Formalism.DivisionValues.lemmaRb_of", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjTransposeEqOfPosDef", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.lemmaRb_of", "child": "Formalism_QuotientMetricDivisors_ProdFormula", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.lemmaRb_of", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic", "via": ["solution", "statement"]}
-{"parent": "NeuralCollapseCE.symmetric_minimizers_are_simplex_etf", "child": "NeuralCollapseCE_Basic", "via": ["statement"]}
+{"parent": "NeuralCollapseCE.symmetric_minimizers_are_simplex_etf", "child": "NeuralCollapseCE_Basic", "via": ["solution", "statement"]}
 {"parent": "LogBarrierIPM.Iterations.Supplement.lemma_18", "child": "LogBarrierIPM_Iterations_Supplement_Specialization", "via": ["statement"]}
 {"parent": "CompanionTheory.ThKR.LL.sympl_exp", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_NormExpSubLe", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory.ThKR.LL.sympl_exp", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_LocalLift", "via": ["solution", "statement"]}
@@ -50269,7 +50269,7 @@
 {"parent": "ReciprocityTheory.Coh.InflationTower.H_mk", "child": "ReciprocityTheory_GroupCohomology_CupConnRightStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.Coh.InflationTower.H_mk", "child": "ReciprocityTheory_GroupCohomology_DEqZeroOfMemB", "via": ["solution", "statement"]}
 {"parent": "RH1E6S16_D026_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "NeuralCollapseCE.small_alpha_expansion", "child": "NeuralCollapseCE_Basic", "via": ["statement"]}
+{"parent": "NeuralCollapseCE.small_alpha_expansion", "child": "NeuralCollapseCE_Basic", "via": ["solution", "statement"]}
 {"parent": "RH1E6S16_D057_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism.DivisionValues.mu_log_conductor", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TwistedLatticeNaturality", "via": ["statement"]}
 {"parent": "Formalism.DivisionValues.mu_log_conductor", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LocBasis", "via": ["statement"]}
@@ -96091,11 +96091,11 @@
 {"parent": "GlobalTheory.JR.MeasTransport.kerL_eq", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_MapIsIsomSelfDualMeasureKerLEqPiHaar", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_WeilFormulaRootExchangeParabolicIntersectionStatement", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_WeilFormulaRootExchangeParabolicIntersection", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_WeilFormulaRootExchangeParabolicIntersectionStatement", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSum", "via": ["statement"]}
-{"parent": "GlobalTheory.RootEx.VolN.det_block_unitri", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_RootExchangeUnipotentHaarAndModulus", "via": ["statement"]}
-{"parent": "GlobalTheory.RootEx.VolN.det_block_unitri", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SecondCountableAndT2LocalField", "via": ["statement"]}
-{"parent": "GlobalTheory.RootEx.VolN.det_block_unitri", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSum", "via": ["statement"]}
-{"parent": "GlobalTheory.RootEx.VolN.det_block_unitri", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_LinearChangeOfVariablesLocalFieldMatrix", "via": ["statement"]}
-{"parent": "GlobalTheory.RootEx.VolN.det_block_unitri", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSumRowCol", "via": ["statement"]}
+{"parent": "GlobalTheory.RootEx.VolN.det_block_unitri", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_RootExchangeUnipotentHaarAndModulus", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.RootEx.VolN.det_block_unitri", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SecondCountableAndT2LocalField", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.RootEx.VolN.det_block_unitri", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSum", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.RootEx.VolN.det_block_unitri", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_LinearChangeOfVariablesLocalFieldMatrix", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.RootEx.VolN.det_block_unitri", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSumRowCol", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_QuadraticGaussIntegralStableOfDualLattice", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IsStableGauss", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_QuadraticGaussIntegralStableOfDualLattice", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_QuadraticStarStructure", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormLeIffValuationLe", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_FourierMatch", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_exists_isometry_of_apply_sub_ne_zero
 -- name    : GlobalTheory.HermWitt.exists_isometry_of_apply_sub_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:19.392803+00:00
 -- url     : https://prove2.me/theorems/891d3e5d-2ce2-4287-97f5-338a3d0e3b4a

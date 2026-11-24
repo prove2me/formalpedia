@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for GroundTheory.Automorphic.GodementJacquet.C_mem_laurentSubalgebra
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T04:24:47.338525+00:00
+-- url     : https://prove2.me/submissions/8346d8a8-36ee-4a78-9ac7-bedb4319d9fc
+
+import Mathlib
+import Definitions.Def_GroundTheory_AutomorphicForms_GL2_GJLaurentIdeal
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+open GroundTheory GroundTheory.Automorphic
+open GroundTheory.Automorphic.GodementJacquet
+open Polynomial
+namespace GroundTheory.Automorphic.GodementJacquet
+theorem _root_.solution (c : ℂ) : RatFunc.C c ∈ laurentSubalgebra := by
+  rw [← RatFunc.algebraMap_eq_C]
+  exact Subalgebra.algebraMap_mem _ c
+end GroundTheory.Automorphic.GodementJacquet

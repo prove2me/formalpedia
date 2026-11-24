@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_split_symm
 -- name    : ULHC.split_symm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:54:03.329598+00:00
 -- url     : https://prove2.me/theorems/1cb2f886-4db9-4024-ada2-8c9033d59acb

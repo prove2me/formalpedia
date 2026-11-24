@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_check_5_11_b_H1_inequalities
 -- name    : DelaunayStretch.check_5_11_b_H1_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T03:14:18.963656+00:00
 -- url     : https://prove2.me/theorems/1d935922-5db2-41dc-ac2b-f0587de8dede

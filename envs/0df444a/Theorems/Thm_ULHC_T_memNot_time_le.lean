@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_memNot_time_le
 -- name    : ULHC.T.memNot_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:40:26.014879+00:00
 -- url     : https://prove2.me/theorems/c63a2daf-7763-4f50-91cc-7b9659297eda

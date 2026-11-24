@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_algebraMap_localization_C_eccb7f2840c7
 -- name    : P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_algebraMap_localization_C_eccb7f2840c7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:41.374827+00:00
 -- url     : https://prove2.me/theorems/84b8ab94-7971-4d3b-94fc-d468e59ae3da

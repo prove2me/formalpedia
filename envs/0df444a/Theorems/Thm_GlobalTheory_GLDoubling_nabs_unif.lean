@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_nabs_unif
 -- name    : GlobalTheory.GLDoubling.nabs_unif
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:49.974462+00:00
 -- url     : https://prove2.me/theorems/408e22ac-4ff7-44ec-9fd1-0989c931002d

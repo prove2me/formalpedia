@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_eq_sum_complexEmbeddings
 -- name    : GlobalTheory.trace_eq_sum_complexEmbeddings
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:50.020591+00:00
 -- url     : https://prove2.me/theorems/c92d0127-e255-4be0-a3de-da2ad8b8258f

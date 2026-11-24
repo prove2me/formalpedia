@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MassFinite_dim_sup_lt_0365b6bd36ff
 -- name    : P2M_GroundTheory_Heights__Heights_MassFinite_dim_sup_lt_0365b6bd36ff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:48.061827+00:00
 -- url     : https://prove2.me/theorems/e28b7b94-67d9-4dd5-bb62-43f49363984a

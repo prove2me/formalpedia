@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ComplexMinimalPrimesContract_proof_3ede0676b13c
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ComplexMinimalPrimesContract_proof_3ede0676b13c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:11:36.525695+00:00
 -- url     : https://prove2.me/theorems/c5fd6bce-a497-4027-9c42-55def842a0d4

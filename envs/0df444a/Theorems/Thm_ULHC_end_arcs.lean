@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_end_arcs
 -- name    : ULHC.end_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:48:53.973343+00:00
 -- url     : https://prove2.me/theorems/b89f5aba-aed0-4091-9290-6236f13fae22

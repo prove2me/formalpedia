@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_integral_mul_mem_SB
 -- name    : GlobalTheory.RootEx.integral_mul_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:18.022284+00:00
 -- url     : https://prove2.me/theorems/9111cd7c-c175-4489-80ef-9a0e8ca92a95

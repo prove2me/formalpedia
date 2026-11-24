@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingPow_component_mem_5ccd5932e898
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingPow_component_mem_5ccd5932e898
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:22:58.619643+00:00
 -- url     : https://prove2.me/theorems/6d8124b4-aeef-4392-adda-4f68ba5c1397

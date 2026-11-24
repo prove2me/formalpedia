@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_nonnegLaplaceProductUpperRayFactorV1
 -- name    : Kyprianou.Ch02.nonnegLaplaceProductUpperRayFactorV1
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T02:40:42.502076+00:00
 -- url     : https://prove2.me/theorems/3b33c8cd-355d-46c9-96a9-87f939843759

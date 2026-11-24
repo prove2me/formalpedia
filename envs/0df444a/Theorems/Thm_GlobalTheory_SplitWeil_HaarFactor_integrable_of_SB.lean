@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_HaarFactor_integrable_of_SB
 -- name    : GlobalTheory.SplitWeil.HaarFactor.integrable_of_SB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:32.601264+00:00
 -- url     : https://prove2.me/theorems/cec276d4-2b4f-4078-88de-a01d630880d9

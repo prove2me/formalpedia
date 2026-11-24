@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_finite_maximalSpectrum_4974b2542461
 -- name    : P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_finite_maximalSpectrum_4974b2542461
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:28.255505+00:00
 -- url     : https://prove2.me/theorems/821a66f3-5c79-4fe5-a7d1-9348ef990cf3

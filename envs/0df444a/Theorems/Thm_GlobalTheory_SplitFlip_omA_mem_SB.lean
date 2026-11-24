@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_omA_mem_SB
 -- name    : GlobalTheory.SplitFlip.omA_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:46.337633+00:00
 -- url     : https://prove2.me/theorems/c8a54cd4-ffd0-4bc8-8040-98af80ad01c8

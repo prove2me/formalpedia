@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_UpLatIndex_mem_ordBall
 -- name    : GlobalTheory.BorelUMod.UpLatIndex.mem_ordBall
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:45.362714+00:00
 -- url     : https://prove2.me/theorems/6d102c01-e9f4-4152-b68f-ee9ef8d1d018

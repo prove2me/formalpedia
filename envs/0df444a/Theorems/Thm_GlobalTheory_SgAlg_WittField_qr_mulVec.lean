@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_qr_mulVec
 -- name    : GlobalTheory.SgAlg.WittField.qr_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:32.685858+00:00
 -- url     : https://prove2.me/theorems/57b2ba8c-5070-4294-9193-03f8a518f974

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Parab_qv_bilin
 -- name    : GlobalTheory.SW.Parab.qv_bilin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:23.284381+00:00
 -- url     : https://prove2.me/theorems/8e8b95c3-c2c2-4adb-9212-98f9eb81745a

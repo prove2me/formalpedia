@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_isMultiProjPrime_primeOfOne_739683a29f58
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_isMultiProjPrime_primeOfOne_739683a29f58
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:09:50.213451+00:00
 -- url     : https://prove2.me/theorems/0002be83-0ccc-49b7-a415-eda61c31b12f

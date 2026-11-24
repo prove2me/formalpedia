@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_strict_supergraph_of_disconnected__p2m_0d71806b_1bff_4247_911b_0bb3ff02c978_a1
 -- name    : WilliamsonShmoys.exists_planar_strict_supergraph_of_disconnected__p2m_0d71806b_1bff_4247_911b_0bb3ff02c978_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T11:59:19.538121+00:00
 -- url     : https://prove2.me/theorems/7126cecb-c28a-4db7-af93-ede0b0cbea72

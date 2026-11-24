@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fractionalIdeal_smul_inv_smul
 -- name    : GlobalTheory.fractionalIdeal_smul_inv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:19.31521+00:00
 -- url     : https://prove2.me/theorems/2b8422ff-ccc0-4e1c-b955-a3b74803f9fd

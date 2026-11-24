@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_stdPair_hasVal
 -- name    : GlobalTheory.LatPair.stdPair_hasVal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:17.548812+00:00
 -- url     : https://prove2.me/theorems/32fbed08-bbe9-4d9d-9c2d-5399f04b9b8a

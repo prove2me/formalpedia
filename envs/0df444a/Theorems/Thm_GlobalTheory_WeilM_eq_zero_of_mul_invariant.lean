@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_eq_zero_of_mul_invariant
 -- name    : GlobalTheory.WeilM.eq_zero_of_mul_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:05.255393+00:00
 -- url     : https://prove2.me/theorems/bb200db6-7a92-4eeb-956e-4e0f71836763

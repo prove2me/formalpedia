@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_exists_bd_of_isCompact
 -- name    : GlobalTheory.RootEx.Supp.exists_bd_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:49.915027+00:00
 -- url     : https://prove2.me/theorems/dc0b72cb-c99f-423c-870d-24a64690f2de

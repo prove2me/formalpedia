@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_one_add_of_sm
 -- name    : PI.WADVR.one_add_of_sm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:29.747099+00:00
 -- url     : https://prove2.me/theorems/613ed3de-768f-458c-bad8-a8fccfc32a55

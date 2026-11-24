@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_bd_of_mem_KO
 -- name    : GlobalTheory.RootEx.Supp.bd_of_mem_KO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:36.076877+00:00
 -- url     : https://prove2.me/theorems/42a8625c-c091-4ddf-b524-4faff291e15a

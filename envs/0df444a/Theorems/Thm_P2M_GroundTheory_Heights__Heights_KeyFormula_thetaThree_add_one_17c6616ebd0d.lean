@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThree_add_one_17c6616ebd0d
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThree_add_one_17c6616ebd0d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:22.179187+00:00
 -- url     : https://prove2.me/theorems/f4bc0907-5066-455a-9f1a-46d66af9bb54

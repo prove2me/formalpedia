@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_MinorOrderedEntries_length_big
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.MinorOrderedEntries.length_big
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:15.350107+00:00
 -- url     : https://prove2.me/theorems/f0354fbb-d5e2-46fd-8660-ee954831b0c6

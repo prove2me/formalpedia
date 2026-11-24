@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_GE_inside
 -- name    : ULHC.GE_inside
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:53:43.447685+00:00
 -- url     : https://prove2.me/theorems/d17a3f13-eccc-487a-b4e6-bff22980deb3

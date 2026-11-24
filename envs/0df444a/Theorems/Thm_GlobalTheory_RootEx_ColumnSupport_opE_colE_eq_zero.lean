@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ColumnSupport_opE_colE_eq_zero
 -- name    : GlobalTheory.RootEx.ColumnSupport.opE_colE_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:02.602796+00:00
 -- url     : https://prove2.me/theorems/8aa08521-3959-48e7-a89e-6e3bcc7547e3

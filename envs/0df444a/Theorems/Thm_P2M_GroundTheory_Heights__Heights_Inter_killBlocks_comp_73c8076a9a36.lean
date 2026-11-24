@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_killBlocks_comp_73c8076a9a36
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_killBlocks_comp_73c8076a9a36
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:22:24.201857+00:00
 -- url     : https://prove2.me/theorems/bb02c622-4320-42c4-b1c8-4c8ef6824b07

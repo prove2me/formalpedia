@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Parab_isSB_parChar_mul
 -- name    : GlobalTheory.SW.Parab.isSB_parChar_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:12.541548+00:00
 -- url     : https://prove2.me/theorems/32ef5506-b171-4de9-b6c1-09ff8f4edc3e

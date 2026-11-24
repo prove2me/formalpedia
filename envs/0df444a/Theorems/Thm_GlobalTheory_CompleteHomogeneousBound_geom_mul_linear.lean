@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteHomogeneousBound_geom_mul_linear
 -- name    : GlobalTheory.CompleteHomogeneousBound.geom_mul_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:40.287204+00:00
 -- url     : https://prove2.me/theorems/1a80354c-655a-4bea-a9eb-9d34e38b7179

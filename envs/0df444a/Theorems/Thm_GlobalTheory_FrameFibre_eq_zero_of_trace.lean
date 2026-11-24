@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameFibre_eq_zero_of_trace
 -- name    : GlobalTheory.FrameFibre.eq_zero_of_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:59:44.46281+00:00
 -- url     : https://prove2.me/theorems/d5358f68-416c-46a6-a033-855786b7941a

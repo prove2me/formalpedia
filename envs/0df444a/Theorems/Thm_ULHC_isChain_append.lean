@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_isChain_append
 -- name    : ULHC.isChain_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:54:45.148808+00:00
 -- url     : https://prove2.me/theorems/83feadee-00a1-4f8a-b853-46efe4d411be

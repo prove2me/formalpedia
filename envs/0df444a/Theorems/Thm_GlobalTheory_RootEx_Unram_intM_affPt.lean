@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Unram_intM_affPt
 -- name    : GlobalTheory.RootEx.Unram.intM_affPt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:38.58901+00:00
 -- url     : https://prove2.me/theorems/ff11157d-9514-405a-a8c4-cace7e53cc5b

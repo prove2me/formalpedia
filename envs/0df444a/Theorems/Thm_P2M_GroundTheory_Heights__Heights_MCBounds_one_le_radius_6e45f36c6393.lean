@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_one_le_radius_6e45f36c6393
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_one_le_radius_6e45f36c6393
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:35:05.444477+00:00
 -- url     : https://prove2.me/theorems/5b36e622-7465-4d8e-8380-cf7ac576c8f1

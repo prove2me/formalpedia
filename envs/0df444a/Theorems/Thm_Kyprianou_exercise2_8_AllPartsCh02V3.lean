@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_exercise2_8_AllPartsCh02V3
 -- name    : Kyprianou.exercise2_8_AllPartsCh02V3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T19:24:45.602288+00:00
 -- url     : https://prove2.me/theorems/e7c9d65a-022d-490f-b2fd-325344d78c9f

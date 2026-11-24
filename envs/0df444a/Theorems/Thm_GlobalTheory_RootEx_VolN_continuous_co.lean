@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_VolN_continuous_co
 -- name    : GlobalTheory.RootEx.VolN.continuous_co
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:59.074921+00:00
 -- url     : https://prove2.me/theorems/088c8521-ceaf-4685-8958-0f5a8451f113

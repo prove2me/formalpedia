@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_w_zero_at_missing
 -- name    : ULHC.w_zero_at_missing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:51:12.550281+00:00
 -- url     : https://prove2.me/theorems/29ec2c8a-aafc-4a10-a44e-904d4c3b3f61

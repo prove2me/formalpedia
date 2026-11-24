@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Edge_eq_of_ends
 -- name    : ULHC.Edge.eq_of_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:38:35.135006+00:00
 -- url     : https://prove2.me/theorems/ac0a7711-ba71-4fbb-8f08-64c1f149febe

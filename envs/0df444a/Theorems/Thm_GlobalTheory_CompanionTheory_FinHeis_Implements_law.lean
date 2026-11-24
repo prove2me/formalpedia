@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Implements_law
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Implements.law
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:33.283259+00:00
 -- url     : https://prove2.me/theorems/c377d76f-71cc-4674-a741-581557ccbaa6

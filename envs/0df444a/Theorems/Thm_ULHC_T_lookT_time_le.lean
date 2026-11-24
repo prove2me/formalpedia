@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_lookT_time_le
 -- name    : ULHC.T.lookT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:40:18.291793+00:00
 -- url     : https://prove2.me/theorems/a5e1c3b5-032f-4100-91d4-ca9805242ca5

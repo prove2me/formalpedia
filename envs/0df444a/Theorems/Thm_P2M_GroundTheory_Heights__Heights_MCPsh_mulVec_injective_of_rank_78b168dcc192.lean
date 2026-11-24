@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_mulVec_injective_of_rank_78b168dcc192
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_mulVec_injective_of_rank_78b168dcc192
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:40.000222+00:00
 -- url     : https://prove2.me/theorems/3d08587a-0c70-422c-9ab4-3c95708ce8fd

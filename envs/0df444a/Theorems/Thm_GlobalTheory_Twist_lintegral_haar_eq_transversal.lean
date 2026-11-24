@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Twist_lintegral_haar_eq_transversal
 -- name    : GlobalTheory.Twist.lintegral_haar_eq_transversal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:20.063392+00:00
 -- url     : https://prove2.me/theorems/25ff8f7b-d05c-4a35-9a77-460bbe51d7bc

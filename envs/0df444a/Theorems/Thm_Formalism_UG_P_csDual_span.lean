@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csDual_span
 -- name    : Formalism.UG.P.csDual_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:58:30.792711+00:00
 -- url     : https://prove2.me/theorems/d8c4f979-2213-453f-891e-a16c515d4f38

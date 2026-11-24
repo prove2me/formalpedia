@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_nonnegRVLawEqOfLaplaceV1
 -- name    : Kyprianou.Ch02.nonnegRVLawEqOfLaplaceV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:02:23.194082+00:00
 -- url     : https://prove2.me/theorems/f9c180c5-f944-42d6-877a-1d101a931293

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_moved_false
 -- name    : GlobalTheory.FunObj.moved_false
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:59:17.405021+00:00
 -- url     : https://prove2.me/theorems/f97d9b2a-986d-4120-9ce6-935d8ecbfde9

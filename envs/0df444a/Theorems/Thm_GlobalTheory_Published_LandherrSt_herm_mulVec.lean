@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_LandherrSt_herm_mulVec
 -- name    : GlobalTheory.Published.LandherrSt.herm_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:43:03.887614+00:00
 -- url     : https://prove2.me/theorems/5ab24e23-e61e-4674-8cdb-a6aafceb084e

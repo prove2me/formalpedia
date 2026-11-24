@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_flip_alt_count
 -- name    : ULHC.flip_alt_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:54:04.930012+00:00
 -- url     : https://prove2.me/theorems/37481ce5-d856-42a1-b7ec-5614891b63c8

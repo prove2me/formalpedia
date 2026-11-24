@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitScalar_exists_mem_dom
 -- name    : GlobalTheory.OrbitScalar.exists_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:45.704133+00:00
 -- url     : https://prove2.me/theorems/d38e46cb-682a-4f62-b861-677c2b737e6c

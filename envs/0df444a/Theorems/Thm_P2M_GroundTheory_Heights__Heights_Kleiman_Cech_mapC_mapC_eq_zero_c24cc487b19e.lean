@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_mapC_mapC_eq_zero_c24cc487b19e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_mapC_mapC_eq_zero_c24cc487b19e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:06.347013+00:00
 -- url     : https://prove2.me/theorems/a8f33128-5a3b-4d0d-8baa-36fbac7a0fef

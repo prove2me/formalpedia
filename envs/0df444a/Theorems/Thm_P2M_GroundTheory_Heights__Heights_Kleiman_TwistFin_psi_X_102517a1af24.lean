@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_psi_X_102517a1af24
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_psi_X_102517a1af24
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:24.463398+00:00
 -- url     : https://prove2.me/theorems/ee07a6fe-12d4-468d-8b87-90f28e29a21b

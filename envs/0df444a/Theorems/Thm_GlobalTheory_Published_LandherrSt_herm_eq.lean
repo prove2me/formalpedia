@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_LandherrSt_herm_eq
 -- name    : GlobalTheory.Published.LandherrSt.herm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:09.153395+00:00
 -- url     : https://prove2.me/theorems/dee6999c-f610-4b9a-b311-b5e090d491b6

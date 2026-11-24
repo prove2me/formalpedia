@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerMove_map_cc
 -- name    : GlobalTheory.PerMove.map_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:59.620162+00:00
 -- url     : https://prove2.me/theorems/598a290a-9511-4449-a26f-47e0a08bdc62

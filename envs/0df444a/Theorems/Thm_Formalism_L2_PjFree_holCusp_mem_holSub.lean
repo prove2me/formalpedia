@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_holCusp_mem_holSub
 -- name    : Formalism.L2.PjFree.holCusp_mem_holSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:02.731343+00:00
 -- url     : https://prove2.me/theorems/87ed5cf6-0390-4ed1-b1b8-b3aadd0230c1

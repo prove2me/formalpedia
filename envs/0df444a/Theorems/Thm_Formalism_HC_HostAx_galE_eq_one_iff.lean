@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_galE_eq_one_iff
 -- name    : Formalism.HC.HostAx.galE_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:39.505803+00:00
 -- url     : https://prove2.me/theorems/35327cc6-94fc-4c28-8849-ae1b393c9539

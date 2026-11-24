@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Parab_qv_row_mul
 -- name    : GlobalTheory.SW.Parab.qv_row_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:16.948338+00:00
 -- url     : https://prove2.me/theorems/ab820e93-79bc-461f-b9f6-099b6fe27148

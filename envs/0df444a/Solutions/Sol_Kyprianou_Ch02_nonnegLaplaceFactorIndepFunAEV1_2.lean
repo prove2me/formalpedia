@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch02.nonnegLaplaceFactorIndepFunAEV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T02:41:33.909448+00:00
 -- url     : https://prove2.me/submissions/96faeeb6-c17e-4172-bec8-c7d9bd65a660
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch02_nonnegLaplaceFactorIndepFunV1
 import Mathlib

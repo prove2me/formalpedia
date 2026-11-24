@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_outArc_nb_opp
 -- name    : ULHC.outArc_nb_opp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:48:13.036097+00:00
 -- url     : https://prove2.me/theorems/a40d29d9-dd5b-40ae-85f9-757d28e1eed5

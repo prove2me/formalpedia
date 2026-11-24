@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_exists_ramified
 -- name    : GlobalTheory.SplitFlip.exists_ramified
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:42.817407+00:00
 -- url     : https://prove2.me/theorems/abb1b60a-3cc6-416a-b32f-4af8265f39a2

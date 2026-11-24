@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_quasiRefl_quasiRefl
 -- name    : GlobalTheory.HermWitt.quasiRefl_quasiRefl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:32.616496+00:00
 -- url     : https://prove2.me/theorems/3738c9aa-ddae-4912-bac5-7243b925b532

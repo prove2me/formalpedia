@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_liftRes_mem
 -- name    : GlobalTheory.SplitFlip.liftRes_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:24.899811+00:00
 -- url     : https://prove2.me/theorems/eb670527-6faf-4b4b-a4f8-54c2a9888330

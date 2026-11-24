@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Edge_q_sum
 -- name    : ULHC.Edge.q_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:51:34.344937+00:00
 -- url     : https://prove2.me/theorems/7729852f-22c2-408c-ae0a-cb81504cf7f5

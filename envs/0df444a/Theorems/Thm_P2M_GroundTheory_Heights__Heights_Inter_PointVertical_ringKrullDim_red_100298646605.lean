@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PointVertical_ringKrullDim_red_100298646605
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PointVertical_ringKrullDim_red_100298646605
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:25:00.060112+00:00
 -- url     : https://prove2.me/theorems/da169043-bc14-4b08-8318-d5e1d4ff84eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_symmDiff_six
 -- name    : ULHC.symmDiff_six
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:47:21.725002+00:00
 -- url     : https://prove2.me/theorems/ddfd376f-dcfb-43d7-b046-f5096239fd92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_bvLevyCanonicalJordanIndependentPathsV1
 -- name    : Kyprianou.Ch02.bvLevyCanonicalJordanIndependentPathsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:15:13.201807+00:00
 -- url     : https://prove2.me/theorems/702937b0-c717-47fb-a071-c9ef61319e51

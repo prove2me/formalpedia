@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensChain_fderiv_comp_real_7cfce8fb8fcd
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensChain_fderiv_comp_real_7cfce8fb8fcd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:47.940605+00:00
 -- url     : https://prove2.me/theorems/ec672811-aa95-4846-8b65-5f7ebe671368

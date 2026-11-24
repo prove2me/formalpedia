@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDivisor_aeval_eq_zero_of_mem_938035ac7e4d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDivisor_aeval_eq_zero_of_mem_938035ac7e4d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:24.200856+00:00
 -- url     : https://prove2.me/theorems/ef25bdaf-e95f-472d-90c8-f49fcfae3b6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrder_wwIdeal_le_diag_0ae825592b27
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrder_wwIdeal_le_diag_0ae825592b27
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:09.932633+00:00
 -- url     : https://prove2.me/theorems/8bc29fd6-509f-408d-99af-e31ed74e1002

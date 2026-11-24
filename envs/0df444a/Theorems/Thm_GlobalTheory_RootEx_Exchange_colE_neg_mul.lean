@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_colE_neg_mul
 -- name    : GlobalTheory.RootEx.Exchange.colE_neg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:19.718741+00:00
 -- url     : https://prove2.me/theorems/2937447b-a80e-41dc-8631-a212e36ab2b5

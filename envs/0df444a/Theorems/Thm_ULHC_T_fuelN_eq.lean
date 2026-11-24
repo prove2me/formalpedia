@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_fuelN_eq
 -- name    : ULHC.T.fuelN_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:40:52.183824+00:00
 -- url     : https://prove2.me/theorems/c04e7442-a098-4be8-8e49-dd07ef4cbe74

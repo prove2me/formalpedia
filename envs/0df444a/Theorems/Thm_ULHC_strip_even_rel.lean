@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_strip_even_rel
 -- name    : ULHC.strip_even_rel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:00.843113+00:00
 -- url     : https://prove2.me/theorems/5c83775e-bcf8-4ea5-ba89-cc1c74af86fd

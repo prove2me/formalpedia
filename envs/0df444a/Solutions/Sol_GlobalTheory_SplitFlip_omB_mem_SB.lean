@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for GlobalTheory.SplitFlip.omB_mem_SB
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T04:18:05.268543+00:00
+-- url     : https://prove2.me/submissions/70e45884-b250-42d2-9bbd-0251aa353b63
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Divisors_T2SpaceGeneralLinearGroup
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Divisors_RankEqCardIffExistsFrameMatrixFirstColumnBlock
+import Theorems.Thm_GlobalTheory_SplitFlip_comp_mul_mem_SB
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MeasureTheory ValuativeRel Matrix
+open scoped NNReal ENNReal Pointwise
+noncomputable section
+open GlobalTheory GlobalTheory.SplitFlip
+open GlobalTheory.SplitWeil GlobalTheory.SplitWeil.Model
+variable {k : Type*} [Field k] [ValuativeRel k] [TopologicalSpace k] [IsNonarchimedeanLocalField k]
+variable {A A' D : Type*} [Fintype A] [DecidableEq A] [Fintype A'] [DecidableEq A'] [Fintype D] [DecidableEq D]
+namespace GlobalTheory.SplitFlip
+theorem _root_.solution (ν α : kˣ →* ℂˣ) (g : GL A' k) (h : GL D k) {Ψ : Matrix A' D k → ℂ}
+    (hΨ : Ψ ∈ SB (Matrix A' D k)) : omB ν α g h Ψ ∈ SB (Matrix A' D k) :=
+  (SB (Matrix A' D k)).smul_mem _ (comp_mul_mem_SB (invT g)⁻¹ h hΨ)
+end GlobalTheory.SplitFlip

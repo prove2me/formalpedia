@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThree_add_int_mul_I_ff45644aceb5
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThree_add_int_mul_I_ff45644aceb5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:32.942861+00:00
 -- url     : https://prove2.me/theorems/e0b6b9fb-b919-43b0-a1bb-4403999d30a9

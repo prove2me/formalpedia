@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_exists_bounded_frame_c1f354ee7137
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_exists_bounded_frame_c1f354ee7137
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:30.930793+00:00
 -- url     : https://prove2.me/theorems/14cfdc47-4d7d-4532-80ec-763fb9ddffee

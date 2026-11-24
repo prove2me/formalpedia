@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Cone_sgn_mul_self_b354143a435a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Cone_sgn_mul_self_b354143a435a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:57.823456+00:00
 -- url     : https://prove2.me/theorems/afc651cd-7530-48ad-89d4-0839776ba900

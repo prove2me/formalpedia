@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_PermWord_wordMap_permMat
 -- name    : GlobalTheory.SmoothForms.PermWord.wordMap_permMat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:57.734671+00:00
 -- url     : https://prove2.me/theorems/0c03bb6a-704e-4d1a-a9a9-cfbfb650c63c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThree_differentiable_56fbb8528aea
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThree_differentiable_56fbb8528aea
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:44.888954+00:00
 -- url     : https://prove2.me/theorems/8a7c0b56-f794-44f3-93cf-9c5505eff5e2

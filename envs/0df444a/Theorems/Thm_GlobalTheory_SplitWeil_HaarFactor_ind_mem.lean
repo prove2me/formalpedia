@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_HaarFactor_ind_mem
 -- name    : GlobalTheory.SplitWeil.HaarFactor.ind_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:32.339944+00:00
 -- url     : https://prove2.me/theorems/6f8cdec7-34cc-42a9-baec-a68363ce3a97

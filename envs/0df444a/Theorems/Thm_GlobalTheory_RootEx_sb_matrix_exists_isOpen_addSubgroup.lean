@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_sb_matrix_exists_isOpen_addSubgroup
 -- name    : GlobalTheory.RootEx.sb_matrix_exists_isOpen_addSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:17.194127+00:00
 -- url     : https://prove2.me/theorems/6219d232-ab1b-487c-a775-d67f6b4a12d4

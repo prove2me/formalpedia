@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_dOne_ne_zero
 -- name    : GlobalTheory.SgGlob.Inhab.dOne_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:17.339284+00:00
 -- url     : https://prove2.me/theorems/9689ca54-6da4-481d-9c71-ccf71915dbce

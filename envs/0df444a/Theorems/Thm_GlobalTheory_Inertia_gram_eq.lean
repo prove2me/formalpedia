@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_gram_eq
 -- name    : GlobalTheory.Inertia.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:20.162018+00:00
 -- url     : https://prove2.me/theorems/140d0736-d645-4aec-aca8-b0a80d4223b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_aminT_time
 -- name    : ULHC.T.aminT_time
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:40:18.652651+00:00
 -- url     : https://prove2.me/theorems/5f45f0e9-cf40-42bc-83fd-4cdf191087d9

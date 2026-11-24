@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_gdet_invT
 -- name    : GlobalTheory.SplitFlip.gdet_invT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:41.234934+00:00
 -- url     : https://prove2.me/theorems/30b8f03c-b074-4725-b482-97cdcde4cd88

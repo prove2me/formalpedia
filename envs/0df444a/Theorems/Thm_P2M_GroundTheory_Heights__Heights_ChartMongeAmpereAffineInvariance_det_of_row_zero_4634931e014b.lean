@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_det_of_row_zero_4634931e014b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_det_of_row_zero_4634931e014b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:32.85714+00:00
 -- url     : https://prove2.me/theorems/408b9f7d-46f2-4c57-bc7a-dacb94dd1a2f

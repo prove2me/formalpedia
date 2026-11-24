@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_one_le_abs_norm_of_isIntegral
 -- name    : GlobalTheory.one_le_abs_norm_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:52.83913+00:00
 -- url     : https://prove2.me/theorems/6d88b820-1388-4531-aa4b-beb27c6457ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_mstar_mem_91aff65fe145
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_mstar_mem_91aff65fe145
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:23.229466+00:00
 -- url     : https://prove2.me/theorems/1b754f03-7fe2-43f3-badd-90da224f9da0

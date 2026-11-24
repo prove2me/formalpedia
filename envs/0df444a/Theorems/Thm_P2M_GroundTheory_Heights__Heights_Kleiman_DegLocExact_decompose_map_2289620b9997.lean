@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DegLocExact_decompose_map_2289620b9997
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DegLocExact_decompose_map_2289620b9997
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:17.346001+00:00
 -- url     : https://prove2.me/theorems/7b0e4981-09e3-4ac9-93d7-aed8da828442

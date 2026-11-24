@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Deg2_le_two
 -- name    : ULHC.Deg2.le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:26.254007+00:00
 -- url     : https://prove2.me/theorems/d5a3a638-200a-4311-9e3e-79168eab9084

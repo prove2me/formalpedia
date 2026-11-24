@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradientAtPoint_grad_mul_206fa499c46e
 -- name    : P2M_GroundTheory_Heights__Heights_GradientAtPoint_grad_mul_206fa499c46e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:54:56.436169+00:00
 -- url     : https://prove2.me/theorems/f5ac99d5-dc86-46e7-84df-7bcc8054c944

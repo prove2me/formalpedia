@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotInt_integral_eq_zero_of_avg
 -- name    : GlobalTheory.QuotInt.integral_eq_zero_of_avg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:23.459719+00:00
 -- url     : https://prove2.me/theorems/e4883e0f-6721-4549-9720-59638197b84f

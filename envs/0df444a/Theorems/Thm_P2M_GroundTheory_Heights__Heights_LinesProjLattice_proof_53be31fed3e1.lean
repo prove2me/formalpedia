@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesProjLattice_proof_53be31fed3e1
 -- name    : P2M_GroundTheory_Heights__Heights_LinesProjLattice_proof_53be31fed3e1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:17:55.911794+00:00
 -- url     : https://prove2.me/theorems/62f06f43-2160-40a0-9869-737ccaf10881

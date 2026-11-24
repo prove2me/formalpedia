@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_findPathT_ret
 -- name    : ULHC.T.findPathT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:17:02.819992+00:00
 -- url     : https://prove2.me/theorems/e4eeebf6-1707-4917-957e-4a7063356243

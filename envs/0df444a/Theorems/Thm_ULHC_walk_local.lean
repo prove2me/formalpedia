@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_walk_local
 -- name    : ULHC.walk_local
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:47:46.904802+00:00
 -- url     : https://prove2.me/theorems/5fc1f456-2351-46a4-a2c5-069495317b16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_mem_deg_of_w_5673bc6b73c7
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_mem_deg_of_w_5673bc6b73c7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:46.709178+00:00
 -- url     : https://prove2.me/theorems/ae4068fd-7f0b-42b0-95a3-42c6a33373c5

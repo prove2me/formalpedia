@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_exists_not_cell
 -- name    : ULHC.exists_not_cell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:49:10.123533+00:00
 -- url     : https://prove2.me/theorems/bc1c4cc7-88f6-4ae1-9358-43fb3ed4ec62

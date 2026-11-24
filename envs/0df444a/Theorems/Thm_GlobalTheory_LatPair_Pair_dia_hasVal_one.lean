@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Pair_dia_hasVal_one
 -- name    : GlobalTheory.LatPair.Pair.dia_hasVal_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:09.571576+00:00
 -- url     : https://prove2.me/theorems/b1afbfa0-fc53-4725-b7bf-7f1034fd378b

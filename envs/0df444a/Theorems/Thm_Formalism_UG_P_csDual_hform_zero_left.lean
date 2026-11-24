@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csDual_hform_zero_left
 -- name    : Formalism.UG.P.csDual_hform_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:14.565967+00:00
 -- url     : https://prove2.me/theorems/b5a164a4-6ed3-4ffd-8649-6a5fce35f61f

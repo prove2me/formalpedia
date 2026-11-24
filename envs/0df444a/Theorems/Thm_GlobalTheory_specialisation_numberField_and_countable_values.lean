@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_specialisation_numberField_and_countable_values
 -- name    : GlobalTheory.specialisation_numberField_and_countable_values
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:59.446794+00:00
 -- url     : https://prove2.me/theorems/bebfc21f-f59a-4d33-a45e-8691ca3726de

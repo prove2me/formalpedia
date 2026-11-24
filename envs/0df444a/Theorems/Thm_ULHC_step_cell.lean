@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_step_cell
 -- name    : ULHC.step_cell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:40:47.805174+00:00
 -- url     : https://prove2.me/theorems/5e746ced-1260-4237-8592-af8b51196180

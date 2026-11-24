@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_isOpen_cell
 -- name    : GlobalTheory.GLDoubling.isOpen_cell
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:59:17.97562+00:00
 -- url     : https://prove2.me/theorems/58d9190a-737d-4282-9d98-e5652283f30c

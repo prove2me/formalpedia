@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stepFlow_sum
 -- name    : ULHC.stepFlow_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:52:52.343485+00:00
 -- url     : https://prove2.me/theorems/bbd367fa-1703-45e3-a967-692217a26da7

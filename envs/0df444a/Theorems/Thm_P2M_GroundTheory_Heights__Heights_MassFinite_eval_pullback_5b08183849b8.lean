@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MassFinite_eval_pullback_5b08183849b8
 -- name    : P2M_GroundTheory_Heights__Heights_MassFinite_eval_pullback_5b08183849b8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:55.340824+00:00
 -- url     : https://prove2.me/theorems/296c651c-699c-4d5d-a15f-78c1ce5df020

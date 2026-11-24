@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch02.bvLevyCanonicalJordanIndependentPathsV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T01:29:26.721631+00:00
 -- url     : https://prove2.me/submissions/aed48794-1032-471f-9efc-3a1472bb06ea
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch02_bvLevyCanonicalJordanMarginalProcessesV1
 import Theorems.Thm_Kyprianou_Ch02_bvLevyCanonicalJordanPairStationaryIncrementsV1

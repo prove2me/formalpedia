@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerMove_hermC_unitary
 -- name    : GlobalTheory.PerMove.hermC_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:41:03.534169+00:00
 -- url     : https://prove2.me/theorems/c204b5d6-271a-48b1-8674-915ec1f39c4b

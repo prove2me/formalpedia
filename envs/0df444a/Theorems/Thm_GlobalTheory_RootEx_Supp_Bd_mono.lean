@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Supp_Bd_mono
 -- name    : GlobalTheory.RootEx.Supp.Bd.mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:29.988799+00:00
 -- url     : https://prove2.me/theorems/b4bcaf2e-4bc4-48cc-9516-d42a4f287477

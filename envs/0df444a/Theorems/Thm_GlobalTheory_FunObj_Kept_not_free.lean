@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_Kept_not_free
 -- name    : GlobalTheory.FunObj.Kept.not_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:59:08.90312+00:00
 -- url     : https://prove2.me/theorems/d7709c3c-ad06-4242-a55a-58922bc44539

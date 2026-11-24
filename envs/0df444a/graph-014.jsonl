@@ -65939,7 +65939,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P47.multipartite_extension_tests", "child": "QAlgorithms_Papers_Independent_Extend50_P47", "via": ["statement"]}
 {"parent": "FarmerInfoProvision_privateSignal", "child": "FarmerInfoProvision_demandShock", "via": ["statement"]}
 {"parent": "BNS2000.theorem_4_5", "child": "BNS2000_Terms", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_triangulating_supergraph__p2m_a35bc758_b19f_4723_ab77_549993b145fc_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_triangulating_supergraph__p2m_a35bc758_b19f_4723_ab77_549993b145fc_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Advance50.P21.elementary_scalar", "child": "QAlgorithms_Papers_Independent_Advance50_P21", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Bridge50_P08", "child": "QAlgorithms_Papers_Independent_Renew46_P18", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Bridge50_P08", "child": "QAlgorithms_Papers_Independent_Next46_P35", "via": ["statement"]}
@@ -69957,7 +69957,7 @@
 {"parent": "WilliamsonShmoys.planar_saturated_supergraph__p2m_0cbdf370_052c_4f7e_80db_29586f4df68b_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HolevoCQ_shannonInfo", "child": "QAlgorithms_Defs_Information", "via": ["statement"]}
 {"parent": "HolevoCQ_shannonInfo", "child": "QAlgorithms_Defs_QuantumInformation", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_add_edge_for_unreachable_pair__p2m_70e8c091_7bdb_4671_99d7_abbf72db95dd_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_add_edge_for_unreachable_pair__p2m_70e8c091_7bdb_4671_99d7_abbf72db95dd_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "BitcoinPenalty.to_remote_honest_only", "child": "BitcoinVerify", "via": ["statement"]}
 {"parent": "BitcoinPenalty.to_remote_honest_only", "child": "BitcoinToLocal", "via": ["statement"]}
 {"parent": "BitcoinPenalty.to_remote_honest_only", "child": "BitcoinScript", "via": ["statement"]}

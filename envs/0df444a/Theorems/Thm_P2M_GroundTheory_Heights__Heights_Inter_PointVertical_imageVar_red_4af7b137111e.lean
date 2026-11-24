@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PointVertical_imageVar_red_4af7b137111e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PointVertical_imageVar_red_4af7b137111e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:23:25.448915+00:00
 -- url     : https://prove2.me/theorems/78582f51-e9e9-427f-a7f6-10edc29526ef

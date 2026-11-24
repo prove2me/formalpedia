@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LocalUnitReduction_mem_sup_ker
 -- name    : Formalism.L2.Pj.LocalUnitReduction.mem_sup_ker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:11.906816+00:00
 -- url     : https://prove2.me/theorems/0b3f42be-f97f-4981-9395-e20194e6a442

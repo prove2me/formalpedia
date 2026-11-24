@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_PiHalf_coprime
 -- name    : Formalism.L2.Pj.PiHalf.coprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:14.688607+00:00
 -- url     : https://prove2.me/theorems/d00beaae-79a6-4746-9e4b-d58d851d00fe

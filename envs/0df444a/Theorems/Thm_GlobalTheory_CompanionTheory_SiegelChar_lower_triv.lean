@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelChar_lower_triv
 -- name    : GlobalTheory.CompanionTheory.SiegelChar.lower_triv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:46.82098+00:00
 -- url     : https://prove2.me/theorems/aec4b151-abb4-4073-92c0-f42af9c7e19a

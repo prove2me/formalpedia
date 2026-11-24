@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_LocalCrofton_measurable_gW
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.LocalCrofton.measurable_gW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:59:49.166665+00:00
 -- url     : https://prove2.me/theorems/933ee341-3af7-4c6b-9332-1be123e1e460

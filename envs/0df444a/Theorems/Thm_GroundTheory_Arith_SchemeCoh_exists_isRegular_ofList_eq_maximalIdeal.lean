@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_exists_isRegular_ofList_eq_maximalIdeal
 -- name    : GroundTheory.Arith.SchemeCoh.exists_isRegular_ofList_eq_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:08.787323+00:00
 -- url     : https://prove2.me/theorems/c33ed30f-8e33-4f2f-a318-56e264d6423c

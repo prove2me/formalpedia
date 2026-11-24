@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_par_nb
 -- name    : ULHC.par_nb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:48:33.072023+00:00
 -- url     : https://prove2.me/theorems/3f2ffb92-ec31-4d3b-8db6-017efdc84825

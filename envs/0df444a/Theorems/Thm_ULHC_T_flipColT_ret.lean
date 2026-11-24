@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_flipColT_ret
 -- name    : ULHC.T.flipColT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:17:38.823224+00:00
 -- url     : https://prove2.me/theorems/a67bde9b-6070-45a6-bfcf-59c7a8358ef3

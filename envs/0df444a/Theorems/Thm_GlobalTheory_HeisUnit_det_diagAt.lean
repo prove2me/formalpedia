@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_det_diagAt
 -- name    : GlobalTheory.HeisUnit.det_diagAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:11:45.668282+00:00
 -- url     : https://prove2.me/theorems/d2cce4da-4678-43fb-ac7c-d1e4aa423076

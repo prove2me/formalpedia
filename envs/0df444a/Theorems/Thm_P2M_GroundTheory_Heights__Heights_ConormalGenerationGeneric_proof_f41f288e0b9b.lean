@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConormalGenerationGeneric_proof_f41f288e0b9b
 -- name    : P2M_GroundTheory_Heights__Heights_ConormalGenerationGeneric_proof_f41f288e0b9b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:31.924202+00:00
 -- url     : https://prove2.me/theorems/f676616f-096a-4cdc-bcd8-a6d88ae3e3be

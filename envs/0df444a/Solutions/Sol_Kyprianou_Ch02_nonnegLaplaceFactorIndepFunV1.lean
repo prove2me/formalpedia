@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.nonnegLaplaceFactorIndepFunV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T02:41:34.553439+00:00
 -- url     : https://prove2.me/submissions/f3cfc88a-6883-4494-8fd7-91b57904c29d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_avram_ws01e_bi_new_nonneg_upperray_restricted_laplace_indepFun
 import Theorems.Thm_Kyprianou_Ch02_nonnegLaplaceProductUpperRayFactorV1

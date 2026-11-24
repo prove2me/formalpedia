@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_apow_inv
 -- name    : GlobalTheory.SplitFlip.apow_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:44.435019+00:00
 -- url     : https://prove2.me/theorems/1196be87-20ce-4e83-a809-376f689b62b1

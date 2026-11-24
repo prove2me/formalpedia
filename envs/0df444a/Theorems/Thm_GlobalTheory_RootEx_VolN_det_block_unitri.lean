@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_VolN_det_block_unitri
 -- name    : GlobalTheory.RootEx.VolN.det_block_unitri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:58:58.708803+00:00
 -- url     : https://prove2.me/theorems/946921a7-0fe1-45a2-8f47-e9103bd42731

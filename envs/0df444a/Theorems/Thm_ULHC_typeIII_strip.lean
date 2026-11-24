@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_typeIII_strip
 -- name    : ULHC.typeIII_strip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:49:26.598423+00:00
 -- url     : https://prove2.me/theorems/96dc069f-c790-4b35-bea4-36cef9a097c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteHomogeneousBound_weightedSummable_geom_iff
 -- name    : GlobalTheory.CompleteHomogeneousBound.weightedSummable_geom_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:37.369873+00:00
 -- url     : https://prove2.me/theorems/6da8d502-bb3d-4ee0-b0a8-a93d9033f264

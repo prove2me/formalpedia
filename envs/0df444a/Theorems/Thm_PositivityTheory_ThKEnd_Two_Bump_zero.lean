@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_Bump_zero
 -- name    : PositivityTheory.ThKEnd.Two.Bump.zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:41.525618+00:00
 -- url     : https://prove2.me/theorems/56ef843a-ec62-45f9-a428-460d101bc36d

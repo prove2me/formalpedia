@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_sig_spec
 -- name    : ULHC.sig_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:48:09.471813+00:00
 -- url     : https://prove2.me/theorems/2c7300a6-a550-463c-9bc8-1ff6662ba9e3

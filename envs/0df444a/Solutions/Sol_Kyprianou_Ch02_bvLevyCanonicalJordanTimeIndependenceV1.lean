@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.bvLevyCanonicalJordanTimeIndependenceV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T00:28:04.81267+00:00
 -- url     : https://prove2.me/submissions/da77c886-515e-4ad0-a5e6-73eff9b2e277
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch02_bvLevyCanonicalJordanTimeLaplaceFactorV1
 import Theorems.Thm_Kyprianou_Ch02_nonnegLaplaceFactorIndepFunAEV1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_OpELevi_opE_const_mul
 -- name    : GlobalTheory.RootEx.OpELevi.opE_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:00.403814+00:00
 -- url     : https://prove2.me/theorems/5a47dc6b-fd98-4064-b8f3-30d85a3730c2

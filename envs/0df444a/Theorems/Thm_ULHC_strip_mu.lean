@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_strip_mu
 -- name    : ULHC.strip_mu
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:41:52.081953+00:00
 -- url     : https://prove2.me/theorems/d1e5063a-69b2-493e-80a4-2475c39402fc

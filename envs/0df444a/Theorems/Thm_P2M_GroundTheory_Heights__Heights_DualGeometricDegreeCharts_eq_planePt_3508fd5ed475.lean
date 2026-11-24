@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualGeometricDegreeCharts_eq_planePt_3508fd5ed475
 -- name    : P2M_GroundTheory_Heights__Heights_DualGeometricDegreeCharts_eq_planePt_3508fd5ed475
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:24.57157+00:00
 -- url     : https://prove2.me/theorems/4999f41b-75b1-48d4-9e7f-084dd4b02fed

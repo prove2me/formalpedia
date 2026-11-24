@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_deg2_applySeq
 -- name    : ULHC.deg2_applySeq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:49:39.234996+00:00
 -- url     : https://prove2.me/theorems/77c410c4-4237-44cf-a59b-e0ee6f6ee7da

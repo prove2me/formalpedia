@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_HomogeneousEvalSmul_eval_smul_of_isHomogeneous
 -- name    : UpperTheory.Reformulated.B.HomogeneousEvalSmul.eval_smul_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:43.630414+00:00
 -- url     : https://prove2.me/theorems/eb1f64e6-e773-4711-a150-4568ebba2b69

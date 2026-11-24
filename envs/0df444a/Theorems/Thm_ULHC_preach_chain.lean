@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_preach_chain
 -- name    : ULHC.preach_chain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:55:27.941378+00:00
 -- url     : https://prove2.me/theorems/a0bdc543-09b8-4e7b-aba5-b5632679a6fd

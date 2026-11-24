@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagPull_minor_mem_2ad667bdf2da
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagPull_minor_mem_2ad667bdf2da
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:58.288962+00:00
 -- url     : https://prove2.me/theorems/c6b7bf23-d361-48ea-98b6-d851e4c8358c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_Rerealization_transfer
 -- name    : Formalism.HN.Rerealization.transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:07:57.00481+00:00
 -- url     : https://prove2.me/theorems/ffdcf58f-2180-4509-95b0-9d52ae44a3c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroCount_grid_B
 -- name    : ZeroCount.grid_B
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-11-24T04:01:17.483807+00:00
 -- url     : https://prove2.me/theorems/7fdb0d7b-3bdd-4a4d-ab21-192a66520a63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_IsCoeffRing_inv
 -- name    : GlobalTheory.SplitFlip.IsCoeffRing.inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:50.49425+00:00
 -- url     : https://prove2.me/theorems/269ee4c6-8dfd-4899-99f5-12b0d02e4c5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_mul_dForm_mem_d4036de9473e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_mul_dForm_mem_d4036de9473e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:38.623628+00:00
 -- url     : https://prove2.me/theorems/044b9fd5-e3a4-4679-b5af-c7e616a585f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SgGlob_Inhab_mem_one_iff__00678d2868dc
 -- name    : P2M_GlobalTheory_SgGlob_Inhab_mem_one_iff__00678d2868dc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:58.347446+00:00
 -- url     : https://prove2.me/theorems/e2b24cbe-55c5-433d-b34d-9850199165db

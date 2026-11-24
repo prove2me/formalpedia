@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SchoenfeldBRH.zero_count_upper_low_heights
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @xuanji
 -- created : 2026-11-24T04:02:45.214353+00:00
 -- url     : https://prove2.me/submissions/da36e1e9-a8f1-4f72-958d-7deca3980303
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_dusart_psi_433_20261014_ZeroCard

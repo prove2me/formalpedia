@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_stepPt_eq
 -- name    : GlobalTheory.FunObj.stepPt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:17.722014+00:00
 -- url     : https://prove2.me/theorems/4fcdecd3-0c8a-4b6c-bd9b-ae06a463a3cf

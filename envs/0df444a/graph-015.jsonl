@@ -42320,7 +42320,7 @@
 {"parent": "AvramDividend.Classical.avram_wave6_03_original_rightCont_zerojump_centered_source_martingale", "child": "AvramDividend.Classical.avram_wave6_03_original_rightCont_gaussian_deterministic_increment_condExp_zero", "via": ["solution", "statement"]}
 {"parent": "SpikedWishart.Separated.null_wishart_truncated_resolvent_trace_moments", "child": "SpikedWishart_Separated_GUE", "via": ["solution", "statement"]}
 {"parent": "SpikedWishart.Separated.null_wishart_truncated_resolvent_trace_moments", "child": "SpikedWishart_Separated_Model", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.connected_maximal_drawable_edge_bound__p2m_2752f1ab_5752_4af7_9412_6b19a571a389_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_maximal_drawable_edge_bound__p2m_2752f1ab_5752_4af7_9412_6b19a571a389_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_01_actual_rightcont_stopped_source_all_deterministic_atoms_compensator_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_01_actual_rightcont_stopped_source_all_deterministic_atoms_compensator_zero", "child": "AvramDividend.Classical.avram_wave4_04b_source_finite_horizon_predictable_lintegral_eq_time_probability", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_01_actual_rightcont_stopped_source_all_deterministic_atoms_compensator_zero", "child": "AvramDividend.Classical.avram_wave5_01_actual_source_levy_intensity_sigmafinite_from_process_fields", "via": ["solution", "statement"]}

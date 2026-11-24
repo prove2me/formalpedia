@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FourierJacobiAverage_app_coe
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FourierJacobiAverage.app_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:39.72447+00:00
 -- url     : https://prove2.me/theorems/ca582c07-6e5d-4df3-b5ae-7b05f6851e9f

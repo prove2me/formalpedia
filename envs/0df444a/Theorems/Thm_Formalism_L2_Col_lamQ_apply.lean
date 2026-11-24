@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lamQ_apply
 -- name    : Formalism.L2.Col.lamQ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:59.115888+00:00
 -- url     : https://prove2.me/theorems/da8f8462-0297-43a3-a19a-60480b2d18a8

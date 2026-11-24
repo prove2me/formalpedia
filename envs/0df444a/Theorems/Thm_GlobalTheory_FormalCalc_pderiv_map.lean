@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_pderiv_map
 -- name    : GlobalTheory.FormalCalc.pderiv_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:48.725281+00:00
 -- url     : https://prove2.me/theorems/e463ac89-5582-40fe-89da-91601d51c7f1

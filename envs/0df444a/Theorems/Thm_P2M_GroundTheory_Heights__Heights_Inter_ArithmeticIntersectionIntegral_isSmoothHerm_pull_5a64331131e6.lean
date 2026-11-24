@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionIntegral_isSmoothHerm_pull_5a64331131e6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionIntegral_isSmoothHerm_pull_5a64331131e6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:50.993515+00:00
 -- url     : https://prove2.me/theorems/6c654311-b08e-4d05-946d-631f5b265a08

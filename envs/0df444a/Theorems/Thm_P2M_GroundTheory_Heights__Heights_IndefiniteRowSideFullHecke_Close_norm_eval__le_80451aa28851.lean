@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_norm_eval__le_80451aa28851
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_norm_eval__le_80451aa28851
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:17.457621+00:00
 -- url     : https://prove2.me/theorems/47a9e9c2-e553-42df-99f9-00eb5ff70cc7

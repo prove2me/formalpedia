@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Border_mem_of_conn
 -- name    : ULHC.Border.mem_of_conn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:47:55.83753+00:00
 -- url     : https://prove2.me/theorems/e03d689a-7ae9-4251-94cc-f4216d66f6ed

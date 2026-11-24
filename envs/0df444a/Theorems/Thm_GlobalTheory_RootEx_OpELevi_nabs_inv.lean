@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_OpELevi_nabs_inv
 -- name    : GlobalTheory.RootEx.OpELevi.nabs_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:38.58904+00:00
 -- url     : https://prove2.me/theorems/b48b0242-5263-4c58-97a5-c580ccc7ee28

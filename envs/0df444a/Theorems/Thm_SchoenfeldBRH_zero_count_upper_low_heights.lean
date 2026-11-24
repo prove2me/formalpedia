@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchoenfeldBRH_zero_count_upper_low_heights
 -- name    : SchoenfeldBRH.zero_count_upper_low_heights
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-11-24T02:20:06.566077+00:00
 -- url     : https://prove2.me/theorems/ac6ee131-7e87-4c57-8ffc-a83695b76d6f

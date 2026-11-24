@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasFDerivAt_of_continuous_partials
 -- name    : GlobalTheory.hasFDerivAt_of_continuous_partials
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:57.461806+00:00
 -- url     : https://prove2.me/theorems/a107980b-09b5-43f0-9c76-894cbc568fad

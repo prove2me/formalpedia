@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_HaarUniq_exists_compact_openAddSubgroup
 -- name    : GlobalTheory.WeilM.HaarUniq.exists_compact_openAddSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:45.297557+00:00
 -- url     : https://prove2.me/theorems/5677ff5e-3ef2-4782-b111-260ecf68548c

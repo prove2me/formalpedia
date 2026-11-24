@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_horiz_opp
 -- name    : ULHC.horiz_opp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:48:39.374703+00:00
 -- url     : https://prove2.me/theorems/d6151670-abd7-4440-90db-76289125707f

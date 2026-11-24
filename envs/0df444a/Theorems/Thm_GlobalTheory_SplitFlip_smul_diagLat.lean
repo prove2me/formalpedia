@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_smul_diagLat
 -- name    : GlobalTheory.SplitFlip.smul_diagLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:54:08.860021+00:00
 -- url     : https://prove2.me/theorems/377e7d15-86e0-466d-98fc-565e6acd7da0

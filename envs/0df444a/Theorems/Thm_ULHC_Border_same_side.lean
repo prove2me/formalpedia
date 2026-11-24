@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Border_same_side
 -- name    : ULHC.Border.same_side
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:22:23.864263+00:00
 -- url     : https://prove2.me/theorems/e911ef23-3827-45d3-9b9f-c8bf0c7d49bb
