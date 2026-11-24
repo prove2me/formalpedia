@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_isTest_coord
 -- name    : GlobalTheory.JR.Hyp.isTest_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:33:42.795994+00:00
 -- url     : https://prove2.me/theorems/1c30dc1a-43d7-4fd6-84da-bb6ddf4e28ec

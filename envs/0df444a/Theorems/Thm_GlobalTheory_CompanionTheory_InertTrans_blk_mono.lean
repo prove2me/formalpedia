@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertTrans_blk_mono
 -- name    : GlobalTheory.CompanionTheory.InertTrans.blk_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:09.405083+00:00
 -- url     : https://prove2.me/theorems/e092ee10-c7eb-442c-b82c-546ec9641cb4

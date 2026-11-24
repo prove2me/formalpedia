@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_decay_psd_two_cs
 -- name    : Formalism.FourierDecayAlt.P.JCx1.decay.psd_two_cs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:02:55.402795+00:00
 -- url     : https://prove2.me/theorems/17cae66a-9fef-4fc5-a24b-67ea975aa61e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LTwoLemma_absK_nonneg
 -- name    : GlobalTheory.JR.LTwoLemma.absK_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:34:28.85242+00:00
 -- url     : https://prove2.me/theorems/9de719c4-411c-4931-b580-79c3d1283f65

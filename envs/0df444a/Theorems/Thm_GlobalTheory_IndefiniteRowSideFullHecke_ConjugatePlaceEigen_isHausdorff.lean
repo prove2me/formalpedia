@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ConjugatePlaceEigen_isHausdorff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ConjugatePlaceEigen.isHausdorff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:13:32.78723+00:00
 -- url     : https://prove2.me/theorems/b15175ec-ee04-4f23-94c1-8fe2763f5dc7

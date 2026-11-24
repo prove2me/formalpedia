@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_orbJ_smul_of_ae
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.orbJ_smul_of_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:58:55.017255+00:00
 -- url     : https://prove2.me/theorems/8a6dfb69-1f5d-4c40-841e-cc081386d5db

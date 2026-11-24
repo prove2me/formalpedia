@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegerScalarIntegral_exists_int_smul_mem
 -- name    : GlobalTheory.IntegerScalarIntegral.exists_int_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:34:20.900923+00:00
 -- url     : https://prove2.me/theorems/2a3ee8ab-04f2-4d7f-8e99-b655712ec5c8

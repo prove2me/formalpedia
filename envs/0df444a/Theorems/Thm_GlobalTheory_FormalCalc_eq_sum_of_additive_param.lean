@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_eq_sum_of_additive_param
 -- name    : GlobalTheory.FormalCalc.eq_sum_of_additive_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:33:44.015918+00:00
 -- url     : https://prove2.me/theorems/11678367-5eaf-45d1-8c86-cf584e2824cc

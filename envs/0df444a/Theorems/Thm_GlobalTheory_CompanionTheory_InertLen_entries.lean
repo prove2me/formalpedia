@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLen_entries
 -- name    : GlobalTheory.CompanionTheory.InertLen.entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:01:33.070457+00:00
 -- url     : https://prove2.me/theorems/00319d6e-88e1-4c36-b80d-e3e01d144f5c

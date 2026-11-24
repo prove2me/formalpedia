@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtQuot_nontrivial_quot
 -- name    : GlobalTheory.JR.EtQuot.nontrivial_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:31:24.277045+00:00
 -- url     : https://prove2.me/theorems/b7a984aa-3b08-4356-a19d-5fcc8466a4ad

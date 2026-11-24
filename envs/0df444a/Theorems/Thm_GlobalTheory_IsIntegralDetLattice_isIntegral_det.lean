@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsIntegralDetLattice_isIntegral_det
 -- name    : GlobalTheory.IsIntegralDetLattice.isIntegral_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:37.646927+00:00
 -- url     : https://prove2.me/theorems/23f5ee99-ccce-4d2e-8f72-b77d84b20758

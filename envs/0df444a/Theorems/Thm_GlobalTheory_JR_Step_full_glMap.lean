@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_full_glMap
 -- name    : GlobalTheory.JR.Step.full_glMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:37:42.618616+00:00
 -- url     : https://prove2.me/theorems/ac804dfe-0c29-4665-afcb-fe930b5ba7cf

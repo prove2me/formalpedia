@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtExist_exists_field
 -- name    : GlobalTheory.JR.EtExist.exists_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:22:49.0488+00:00
 -- url     : https://prove2.me/theorems/fc8851b7-5b83-407a-9794-2df7984f7593

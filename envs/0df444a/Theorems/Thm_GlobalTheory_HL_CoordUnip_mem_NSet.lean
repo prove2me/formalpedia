@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordUnip_mem_NSet
 -- name    : GlobalTheory.HL.CoordUnip.mem_NSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:59:53.881329+00:00
 -- url     : https://prove2.me/theorems/7a918eef-0617-4977-b018-8bf829ca86c4

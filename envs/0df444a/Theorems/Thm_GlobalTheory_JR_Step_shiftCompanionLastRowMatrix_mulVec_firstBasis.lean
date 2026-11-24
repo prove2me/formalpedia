@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_shiftCompanionLastRowMatrix_mulVec_firstBasis
 -- name    : GlobalTheory.JR.Step.shiftCompanionLastRowMatrix_mulVec_firstBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:36:47.993129+00:00
 -- url     : https://prove2.me/theorems/a9708e1f-2c2c-415e-950f-a7497c3b2fb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_ptSize_loc
 -- name    : Formalism.FourierDecayAlt.P.PBA.ptSize_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:54:25.177609+00:00
 -- url     : https://prove2.me/theorems/98348405-0e75-4d13-ad9a-650a1e73f5d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdemLift_seq_succ_sub
 -- name    : GlobalTheory.IdemLift.seq_succ_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:33:42.640153+00:00
 -- url     : https://prove2.me/theorems/085cb49e-9e79-4aa2-92e1-2b75991cbf7e

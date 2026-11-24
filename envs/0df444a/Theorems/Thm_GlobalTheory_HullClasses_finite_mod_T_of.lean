@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HullClasses_finite_mod_T_of
 -- name    : GlobalTheory.HullClasses.finite_mod_T_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:12:28.882813+00:00
 -- url     : https://prove2.me/theorems/bc7778c8-e038-4f0a-8e68-456b7c6c08d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbitProper_cont_companion
 -- name    : GlobalTheory.JR.OrbitProper.cont_companion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:34:39.719777+00:00
 -- url     : https://prove2.me/theorems/9923307f-9a4d-48ec-90f6-52a3e9072f99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_existsUnique_primitive_sum
 -- name    : GlobalTheory.FormalCalc.existsUnique_primitive_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:34:00.137296+00:00
 -- url     : https://prove2.me/theorems/7ea9cec7-eba8-4dd2-a66b-d63c3186c95d

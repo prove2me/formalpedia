@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_minorOn_inv_of_unitary
 -- name    : PositivityTheory.Rg.Sw.LVs.minorOn_inv_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:59:59.81502+00:00
 -- url     : https://prove2.me/theorems/3f315052-e47e-4289-99be-0a54fa4584d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_mul_Bm
 -- name    : GlobalTheory.JR.NormalFormL.mul_Bm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:16.15737+00:00
 -- url     : https://prove2.me/theorems/d6fedba3-f5ab-4e0e-b687-ac68ed82da84

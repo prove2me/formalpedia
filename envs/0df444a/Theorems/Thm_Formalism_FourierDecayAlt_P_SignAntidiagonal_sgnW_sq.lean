@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_sgnW_sq
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.sgnW_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:06:57.40298+00:00
 -- url     : https://prove2.me/theorems/f7939c22-a26c-4f05-a4b5-a7f1099ae271

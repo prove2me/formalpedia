@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsotypicOrth_restr_injective
 -- name    : GlobalTheory.IsotypicOrth.restr_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:21:05.863801+00:00
 -- url     : https://prove2.me/theorems/709342b7-d1a2-4edb-969d-8485e279f804

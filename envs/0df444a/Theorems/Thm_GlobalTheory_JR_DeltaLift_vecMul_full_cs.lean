@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_DeltaLift_vecMul_full_cs
 -- name    : GlobalTheory.JR.DeltaLift.vecMul_full_cs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:25:31.433471+00:00
 -- url     : https://prove2.me/theorems/84ee2418-5b53-44a7-a8c0-f7650f726395

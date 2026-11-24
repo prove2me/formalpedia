@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasTransport_addChar_sum
 -- name    : GlobalTheory.JR.MeasTransport.addChar_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:28.742401+00:00
 -- url     : https://prove2.me/theorems/2361eea8-9f20-4dc4-ac02-f6dc81ae3e34

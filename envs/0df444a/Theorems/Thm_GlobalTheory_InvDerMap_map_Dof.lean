@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDerMap_map_Dof
 -- name    : GlobalTheory.InvDerMap.map_Dof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:20:07.209526+00:00
 -- url     : https://prove2.me/theorems/d3aa5655-aef9-4ba2-bff2-0b4d8f2cbd1b

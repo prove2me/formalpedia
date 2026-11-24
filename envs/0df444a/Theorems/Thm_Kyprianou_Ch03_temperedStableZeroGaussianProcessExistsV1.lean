@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_temperedStableZeroGaussianProcessExistsV1
 -- name    : Kyprianou.Ch03.temperedStableZeroGaussianProcessExistsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:58:06.246505+00:00
 -- url     : https://prove2.me/theorems/100c2b53-1010-404c-8120-c449ff13ecaa

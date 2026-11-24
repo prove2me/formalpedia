@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_FourUnit_integral_indicator_char_eq_zero
 -- name    : GlobalTheory.JR.FourUnit.integral_indicator_char_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:23:10.029858+00:00
 -- url     : https://prove2.me/theorems/4dc00f8a-7517-4c13-8aa3-75aa86007408

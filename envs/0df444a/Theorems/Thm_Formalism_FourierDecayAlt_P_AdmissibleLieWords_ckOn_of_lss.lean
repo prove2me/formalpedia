@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_ckOn_of_lss
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.ckOn_of_lss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:58:23.103953+00:00
 -- url     : https://prove2.me/theorems/74f1a255-318b-4428-8f8e-601900f8d011

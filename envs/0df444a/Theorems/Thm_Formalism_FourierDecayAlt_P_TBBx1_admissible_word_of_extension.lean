@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_admissible_word_of_extension
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.admissible_word_of_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:55:51.713676+00:00
 -- url     : https://prove2.me/theorems/84c1b673-8113-4f37-80f6-43166a85cbfe

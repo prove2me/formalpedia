@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_ncard_places_of_equiv
 -- name    : Formalism.L2.NT.ncard_places_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:55:45.406255+00:00
 -- url     : https://prove2.me/theorems/54ef41c9-1991-49cb-b9f7-9d400a8c7431

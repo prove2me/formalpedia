@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_bijective_cells
 -- name    : GlobalTheory.InertZeta.bijective_cells
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:18:22.464682+00:00
 -- url     : https://prove2.me/theorems/b924683f-4d17-4e09-96cb-5a1270701efa

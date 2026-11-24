@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_coord_structure
 -- name    : GlobalTheory.JR.Hyp.coord_structure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:33:46.207316+00:00
 -- url     : https://prove2.me/theorems/f72f69c2-4b64-44f7-9d1b-1b409aee4262

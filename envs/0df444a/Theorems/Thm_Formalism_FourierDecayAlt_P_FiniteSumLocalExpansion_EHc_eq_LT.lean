@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FiniteSumLocalExpansion_EHc_eq_LT
 -- name    : Formalism.FourierDecayAlt.P.FiniteSumLocalExpansion.EHc_eq_LT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:04:03.721883+00:00
 -- url     : https://prove2.me/theorems/ca426a7b-9d9c-4d24-8ab5-35560cffcde7

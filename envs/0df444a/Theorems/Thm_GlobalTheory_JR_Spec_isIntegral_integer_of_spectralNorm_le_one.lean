@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Spec_isIntegral_integer_of_spectralNorm_le_one
 -- name    : GlobalTheory.JR.Spec.isIntegral_integer_of_spectralNorm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:36:19.91219+00:00
 -- url     : https://prove2.me/theorems/dca8ffa8-dc33-4c59-bdd1-7f773faf905e

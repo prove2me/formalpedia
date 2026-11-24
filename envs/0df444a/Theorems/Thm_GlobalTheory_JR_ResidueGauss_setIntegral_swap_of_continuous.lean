@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ResidueGauss_setIntegral_swap_of_continuous
 -- name    : GlobalTheory.JR.ResidueGauss.setIntegral_swap_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:36:18.163914+00:00
 -- url     : https://prove2.me/theorems/127aa6cf-a8cf-4f97-bb34-cf0725ce9a0f

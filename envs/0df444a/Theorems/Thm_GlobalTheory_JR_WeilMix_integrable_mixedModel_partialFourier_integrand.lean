@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilMix_integrable_mixedModel_partialFourier_integrand
 -- name    : GlobalTheory.JR.WeilMix.integrable_mixedModel_partialFourier_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:37:01.669124+00:00
 -- url     : https://prove2.me/theorems/b3255bab-a425-4b66-97af-af70aa73dcba

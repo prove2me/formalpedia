@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_phdil_bound
 -- name    : Formalism.FourierDecayAlt.P.B6.phdil_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:04:54.511255+00:00
 -- url     : https://prove2.me/theorems/cff6dc05-97f0-47e7-9480-1ba540ea0c09

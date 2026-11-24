@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BorderedDeterminants_sumBorder
 -- name    : Formalism.FourierDecayAlt.P.BorderedDeterminants.sumBorder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:29:35.924465+00:00
 -- url     : https://prove2.me/theorems/ae1f0d43-5c81-4ba1-bedb-8bb022204481

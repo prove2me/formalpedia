@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_continuous_companion
 -- name    : GlobalTheory.JR.ImgSec.continuous_companion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:32:57.413664+00:00
 -- url     : https://prove2.me/theorems/4836b70b-3950-4d18-b2ee-3f6a3001f680

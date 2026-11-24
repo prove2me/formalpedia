@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_support_comap_subset_biUnion
 -- name    : FunctorialResolution.EmbeddedResolution.support_comap_subset_biUnion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:07:24.217387+00:00
 -- url     : https://prove2.me/theorems/8716e303-f749-4edf-b934-092f14b067ec

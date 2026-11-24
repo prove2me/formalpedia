@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_map_conn
 -- name    : GlobalTheory.BK.PhiMod.map_conn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:43:00.927245+00:00
 -- url     : https://prove2.me/theorems/a9b41716-3f5a-4752-9182-6f6075c1e2fc

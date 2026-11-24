@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_generalizingMap_base_of_flat
 -- name    : FunctorialResolution.EmbeddedResolution.generalizingMap_base_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:07:06.501237+00:00
 -- url     : https://prove2.me/theorems/9a7a61c9-e37c-4a99-a0e6-a6bac7c3a6c3

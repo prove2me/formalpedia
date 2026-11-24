@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCount_exists_int_lift
 -- name    : GlobalTheory.CompanionTheory.InertCount.exists_int_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:03:17.340835+00:00
 -- url     : https://prove2.me/theorems/df154c8e-0913-4391-80a2-e888fde88108

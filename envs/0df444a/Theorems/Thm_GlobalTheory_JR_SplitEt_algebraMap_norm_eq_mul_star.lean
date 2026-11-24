@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SplitEt_algebraMap_norm_eq_mul_star
 -- name    : GlobalTheory.JR.SplitEt.algebraMap_norm_eq_mul_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:37:58.625808+00:00
 -- url     : https://prove2.me/theorems/faf5add4-f460-4e96-9d6a-89b62c8d30fc

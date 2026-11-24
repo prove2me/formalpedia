@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtFacts_sq_le_range
 -- name    : GlobalTheory.JR.EtFacts.sq_le_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:00.641178+00:00
 -- url     : https://prove2.me/theorems/2d1a57c2-240d-434e-aafb-25cb6d231e05

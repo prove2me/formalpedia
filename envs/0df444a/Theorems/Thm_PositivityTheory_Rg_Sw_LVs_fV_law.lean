@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_fV_law
 -- name    : PositivityTheory.Rg.Sw.LVs.fV_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:59:50.978352+00:00
 -- url     : https://prove2.me/theorems/f4068857-6338-40e6-9b94-60f44c45bf05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_fsv_eq
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.fsv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:55:37.465949+00:00
 -- url     : https://prove2.me/theorems/c7445457-d15c-4451-961c-e7bc8ff0f15a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_addVec
 -- name    : GlobalTheory.InertZeta.addVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:57.7039+00:00
 -- url     : https://prove2.me/theorems/51e41383-6638-4930-bb47-5f3661cea8ed

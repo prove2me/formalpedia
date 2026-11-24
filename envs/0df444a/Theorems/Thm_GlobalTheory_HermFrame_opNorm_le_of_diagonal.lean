@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_opNorm_le_of_diagonal
 -- name    : GlobalTheory.HermFrame.opNorm_le_of_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:19:27.283864+00:00
 -- url     : https://prove2.me/theorems/0d988319-b349-4303-bf1b-19a64b9c477f

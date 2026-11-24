@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_PtTest_slice_eventually
 -- name    : GlobalTheory.JR.Hyp.PtTest.slice_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:33:15.663039+00:00
 -- url     : https://prove2.me/theorems/6f533f59-2555-42d4-b5cd-403724644a6b

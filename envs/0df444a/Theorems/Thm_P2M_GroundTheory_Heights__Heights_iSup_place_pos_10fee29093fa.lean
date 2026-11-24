@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_iSup_place_pos_10fee29093fa
 -- name    : P2M_GroundTheory_Heights__Heights_iSup_place_pos_10fee29093fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:04:26.087177+00:00
 -- url     : https://prove2.me/theorems/ecf2dc06-288b-4dcd-9089-fd3b51681fb6

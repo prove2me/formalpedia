@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertDoubling_cT_fromBlocks
 -- name    : GlobalTheory.CompanionTheory.InertDoubling.cT_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:01:37.216559+00:00
 -- url     : https://prove2.me/theorems/43dc84af-eb55-40c7-9075-814871557580

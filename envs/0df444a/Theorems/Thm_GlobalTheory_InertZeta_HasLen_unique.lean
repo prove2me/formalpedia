@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_HasLen_unique
 -- name    : GlobalTheory.InertZeta.HasLen.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:26:32.003172+00:00
 -- url     : https://prove2.me/theorems/1d9668cb-85fb-48be-a901-60209d2f4335

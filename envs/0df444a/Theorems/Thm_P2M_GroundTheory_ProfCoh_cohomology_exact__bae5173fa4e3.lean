@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_cohomology_exact__bae5173fa4e3
 -- name    : P2M_GroundTheory_ProfCoh_cohomology_exact__bae5173fa4e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:56:17.231438+00:00
 -- url     : https://prove2.me/theorems/cd784c31-66e8-4ba5-a14b-4e512886fcde

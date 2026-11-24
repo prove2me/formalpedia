@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtInv_leftMulMatrix_eq_companion
 -- name    : GlobalTheory.JR.EtInv.leftMulMatrix_eq_companion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:16.847678+00:00
 -- url     : https://prove2.me/theorems/75bbacd6-f3ce-49ce-add4-5142530fa2ee

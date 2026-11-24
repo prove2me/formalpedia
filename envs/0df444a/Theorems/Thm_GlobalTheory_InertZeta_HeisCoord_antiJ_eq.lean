@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_HeisCoord_antiJ_eq
 -- name    : GlobalTheory.InertZeta.HeisCoord.antiJ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:55:48.877812+00:00
 -- url     : https://prove2.me/theorems/e289b267-5205-4b50-8288-b5c1c957d6fa

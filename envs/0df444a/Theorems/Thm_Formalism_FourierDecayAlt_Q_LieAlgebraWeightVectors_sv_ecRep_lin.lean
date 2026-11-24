@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_sv_ecRep_lin
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.sv_ecRep_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:45:47.212106+00:00
 -- url     : https://prove2.me/theorems/f4b5dd6b-c6d4-4bce-8643-0b3411063b25

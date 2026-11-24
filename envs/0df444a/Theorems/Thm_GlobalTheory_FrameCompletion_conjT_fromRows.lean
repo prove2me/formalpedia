@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_conjT_fromRows
 -- name    : GlobalTheory.FrameCompletion.conjT_fromRows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:04:30.846416+00:00
 -- url     : https://prove2.me/theorems/fea01655-380a-452f-bdc8-d6fa39ba931f

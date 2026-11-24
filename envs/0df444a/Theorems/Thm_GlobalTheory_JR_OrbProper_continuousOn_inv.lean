@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbProper_continuousOn_inv
 -- name    : GlobalTheory.JR.OrbProper.continuousOn_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:34:49.322126+00:00
 -- url     : https://prove2.me/theorems/b14050c2-506f-45fd-a265-27cdd25fc6f5

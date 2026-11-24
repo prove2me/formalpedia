@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoAB_norm_F
 -- name    : GlobalTheory.HeckeTwoAB.norm_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:04:42.479835+00:00
 -- url     : https://prove2.me/theorems/502dbf83-49ea-4504-9aab-b0df635309b1

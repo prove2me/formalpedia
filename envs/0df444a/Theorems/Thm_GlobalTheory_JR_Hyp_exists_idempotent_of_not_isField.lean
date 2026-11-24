@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_exists_idempotent_of_not_isField
 -- name    : GlobalTheory.JR.Hyp.exists_idempotent_of_not_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:33:21.915584+00:00
 -- url     : https://prove2.me/theorems/b532f7d3-8c51-4f5e-9802-984cece69788

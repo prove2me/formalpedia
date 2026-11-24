@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoPoisson_hTrans_eq_fourier
 -- name    : GlobalTheory.HeckeTwoPoisson.hTrans_eq_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:08:11.625514+00:00
 -- url     : https://prove2.me/theorems/1dc2b6dc-715f-410b-9d92-d3c409a25472

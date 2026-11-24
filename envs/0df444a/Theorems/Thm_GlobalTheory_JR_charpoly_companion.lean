@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_charpoly_companion
 -- name    : GlobalTheory.JR.charpoly_companion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:39:34.319924+00:00
 -- url     : https://prove2.me/theorems/981dcdfc-a968-4e60-bcda-6bb54c312b0d

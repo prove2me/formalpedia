@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ioh_EabH_eq
 -- name    : Formalism.QuantumDeterminants.ioh_EabH_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:53:59.821988+00:00
 -- url     : https://prove2.me/theorems/8a69727d-4e47-4db2-bde1-491ca73a5550

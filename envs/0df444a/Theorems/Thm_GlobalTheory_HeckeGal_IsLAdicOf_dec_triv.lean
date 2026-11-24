@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_IsLAdicOf_dec_triv
 -- name    : GlobalTheory.HeckeGal.IsLAdicOf.dec_triv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:59:31.014793+00:00
 -- url     : https://prove2.me/theorems/576b1ff3-12aa-4e5e-bb48-c8b8d0350559

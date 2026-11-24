@@ -51689,7 +51689,7 @@
 {"parent": "AgnosticTNS.Supplement.theorem_4_10", "child": "AgnosticTNS_CopyLearner_prob", "via": ["statement"]}
 {"parent": "AgnosticTNS.Supplement.theorem_4_10", "child": "AgnosticTNS_encTreeIndex", "via": ["statement"]}
 {"parent": "AgnosticTNS.Supplement.theorem_4_10", "child": "AgnosticTNS_leafBranching", "via": ["statement"]}
-{"parent": "HindsightGain.Uniform.Supplement.lemma_A_3", "child": "HindsightGain_Uniform_Supplement_planted", "via": ["statement"]}
+{"parent": "HindsightGain.Uniform.Supplement.lemma_A_3", "child": "HindsightGain_Uniform_Supplement_planted", "via": ["solution", "statement"]}
 {"parent": "DistributionTheoryMission.uniform_boundedness", "child": "liuyao_ca_fd889115_k1_Distributions_ConvergenceTargets", "via": ["solution", "statement"]}
 {"parent": "QTolTest1673_Unified_Supplement_Partitions", "child": "QTolTest1673_Unified_Supplement_Model", "via": ["statement"]}
 {"parent": "LowErrExt.Supplement.theorem_6_14", "child": "LowErrExt_iterDiff", "via": ["statement"]}

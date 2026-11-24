@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_TruncInt_absK_nonneg
 -- name    : GlobalTheory.JR.TruncInt.absK_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:37:07.635582+00:00
 -- url     : https://prove2.me/theorems/077322d4-4fb5-4568-aafb-a4b2707573b4

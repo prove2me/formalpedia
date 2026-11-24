@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_aRay_mul_log
 -- name    : GlobalTheory.Hk.aRay_mul_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:36:19.50079+00:00
 -- url     : https://prove2.me/theorems/ef789983-9563-4612-9890-6f74c50aa17e

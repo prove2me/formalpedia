@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_CycleQ2_normalChart_X2_cubed_denominator_legal
 -- name    : HodgeComputer.CycleQ2.normalChart_X2_cubed_denominator_legal
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T17:01:25.728959+00:00
 -- url     : https://prove2.me/theorems/43f548f9-8510-4e4d-8aa2-205ef06a5494

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBB_K8_fourier_cont
 -- name    : Formalism.FourierDecayAlt.P.PBB.K8.fourier_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:04:34.019786+00:00
 -- url     : https://prove2.me/theorems/b0ee3ce4-d941-4c31-8d13-dbe31344e1ab

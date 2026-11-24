@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_isExt_trans
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.isExt_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:55:54.242586+00:00
 -- url     : https://prove2.me/theorems/2a616052-7265-474c-8a5a-d20839ad2049

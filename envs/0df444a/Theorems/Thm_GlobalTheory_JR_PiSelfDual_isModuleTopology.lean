@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_PiSelfDual_isModuleTopology
 -- name    : GlobalTheory.JR.PiSelfDual.isModuleTopology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:40.071803+00:00
 -- url     : https://prove2.me/theorems/33cd2d85-9303-4623-9f32-bc797f4dd92f

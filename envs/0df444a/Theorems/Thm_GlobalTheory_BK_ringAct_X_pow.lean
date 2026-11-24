@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_ringAct_X_pow
 -- name    : GlobalTheory.BK.ringAct_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:07:40.424829+00:00
 -- url     : https://prove2.me/theorems/294880a4-4189-4480-b684-6e8f9344fcba

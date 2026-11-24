@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_comp_mulN_left_of_isTangent
 -- name    : GlobalTheory.GrpTangent.comp_mulN_left_of_isTangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:51.679279+00:00
 -- url     : https://prove2.me/theorems/4013576e-d73f-493b-a890-5a85c8d4519a

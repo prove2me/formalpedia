@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_rowOf_inv
 -- name    : GlobalTheory.InertZeta.rowOf_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:48:12.575047+00:00
 -- url     : https://prove2.me/theorems/a1d1bb78-04e0-472f-9370-83b04bcf2d60

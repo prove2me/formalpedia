@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_componentPowerIdeal_of_not_mem
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_componentPowerIdeal_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:51:27.887211+00:00
 -- url     : https://prove2.me/theorems/c986dc62-6cf8-4998-b9a5-41178673fcc4

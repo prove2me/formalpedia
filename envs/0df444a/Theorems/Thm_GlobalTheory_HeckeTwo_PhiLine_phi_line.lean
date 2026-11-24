@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_PhiLine_phi_line
 -- name    : GlobalTheory.HeckeTwo.PhiLine.phi_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:57:07.624805+00:00
 -- url     : https://prove2.me/theorems/ac2ecdb3-54b8-4e18-83b6-3c62c9a001a3

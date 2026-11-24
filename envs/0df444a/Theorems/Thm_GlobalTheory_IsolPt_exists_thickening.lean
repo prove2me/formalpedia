@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsolPt_exists_thickening
 -- name    : GlobalTheory.IsolPt.exists_thickening
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:22:22.529528+00:00
 -- url     : https://prove2.me/theorems/abca4d50-5266-44af-ada7-7de3e63213bc

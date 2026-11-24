@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_hTransAB_hasDerivAt
 -- name    : GlobalTheory.HeckeTwo.hTransAB_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:12:58.908625+00:00
 -- url     : https://prove2.me/theorems/e38c0a75-80a6-4b19-ad6d-25ca6211f5d7

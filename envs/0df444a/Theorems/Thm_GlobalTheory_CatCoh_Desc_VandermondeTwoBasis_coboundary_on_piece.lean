@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_VandermondeTwoBasis_coboundary_on_piece
 -- name    : GlobalTheory.CatCoh.Desc.VandermondeTwoBasis.coboundary_on_piece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:48:18.576034+00:00
 -- url     : https://prove2.me/theorems/07636e11-9433-46e1-ac40-462b4cd0cc5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLevi_aTerm_neg
 -- name    : GlobalTheory.CompanionTheory.InertLevi.aTerm_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:03:10.733803+00:00
 -- url     : https://prove2.me/theorems/2c93a79e-ef5b-4420-971a-be00ea797374

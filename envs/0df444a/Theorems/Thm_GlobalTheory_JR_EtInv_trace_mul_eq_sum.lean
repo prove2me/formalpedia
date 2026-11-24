@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtInv_trace_mul_eq_sum
 -- name    : GlobalTheory.JR.EtInv.trace_mul_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:07.543547+00:00
 -- url     : https://prove2.me/theorems/ab768175-6023-4388-a3c3-dfa9560faaf0

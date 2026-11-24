@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertGenFun_hasSum_counts
 -- name    : GlobalTheory.CompanionTheory.InertGenFun.hasSum_counts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:01:36.396017+00:00
 -- url     : https://prove2.me/theorems/9b3986d0-6b1d-4909-97d0-c4d68a482365

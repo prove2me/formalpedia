@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_norm_char_unit_eq_one
 -- name    : GlobalTheory.HeisUnit.norm_char_unit_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:17:41.200114+00:00
 -- url     : https://prove2.me/theorems/013d9439-fe7e-4c0c-a465-a300c2570615

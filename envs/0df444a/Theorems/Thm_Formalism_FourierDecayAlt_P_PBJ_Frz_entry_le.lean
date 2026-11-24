@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_entry_le
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:05:17.933947+00:00
 -- url     : https://prove2.me/theorems/f678cdbc-ed52-4290-bbb5-218a1e58b227

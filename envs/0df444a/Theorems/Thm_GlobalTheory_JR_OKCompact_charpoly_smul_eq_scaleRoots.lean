@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OKCompact_charpoly_smul_eq_scaleRoots
 -- name    : GlobalTheory.JR.OKCompact.charpoly_smul_eq_scaleRoots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:20.368728+00:00
 -- url     : https://prove2.me/theorems/722cce91-c5aa-482e-8110-4bb16dafdeb1

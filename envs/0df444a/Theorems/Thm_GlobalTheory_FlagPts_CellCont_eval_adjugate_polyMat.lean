@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_CellCont_eval_adjugate_polyMat
 -- name    : GlobalTheory.FlagPts.CellCont.eval_adjugate_polyMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:53:24.472264+00:00
 -- url     : https://prove2.me/theorems/819fdd3e-7ce5-494c-a917-5524398cd535

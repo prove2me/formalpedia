@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasScale_exists_test_ne_zero
 -- name    : GlobalTheory.JR.MeasScale.exists_test_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:34:37.35872+00:00
 -- url     : https://prove2.me/theorems/d838b2cc-8bf4-45bd-8a38-6e9c25f768a7

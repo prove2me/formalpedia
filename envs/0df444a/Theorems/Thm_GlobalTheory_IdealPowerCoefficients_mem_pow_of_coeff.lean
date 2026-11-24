@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealPowerCoefficients_mem_pow_of_coeff
 -- name    : GlobalTheory.IdealPowerCoefficients.mem_pow_of_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:03:44.696342+00:00
 -- url     : https://prove2.me/theorems/08c72532-94f1-4ce8-ae16-d83ac60f74ac

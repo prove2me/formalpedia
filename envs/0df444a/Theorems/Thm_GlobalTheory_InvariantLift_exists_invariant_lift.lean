@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvariantLift_exists_invariant_lift
 -- name    : GlobalTheory.InvariantLift.exists_invariant_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:20:17.24343+00:00
 -- url     : https://prove2.me/theorems/2dfcbd76-629e-4fb1-abaf-088fffbbe749

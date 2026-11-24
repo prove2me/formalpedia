@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_span_singular_vectors
 -- name    : Formalism.FourierDecayAlt.P.span_singular_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:51:05.731663+00:00
 -- url     : https://prove2.me/theorems/6c2d13b2-d2b0-463c-ad48-d4db62ee69dd

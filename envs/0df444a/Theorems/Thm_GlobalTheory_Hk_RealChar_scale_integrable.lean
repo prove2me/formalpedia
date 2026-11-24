@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_scale_integrable
 -- name    : GlobalTheory.Hk.RealChar.scale_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:11.477833+00:00
 -- url     : https://prove2.me/theorems/108ec1fb-2247-40b0-9117-c1786bc25134

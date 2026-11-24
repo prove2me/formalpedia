@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertField_isField_of_inert
 -- name    : GlobalTheory.InertField.isField_of_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:08:26.973515+00:00
 -- url     : https://prove2.me/theorems/f609b2b4-ccce-419d-8eea-b0708b8f71c1

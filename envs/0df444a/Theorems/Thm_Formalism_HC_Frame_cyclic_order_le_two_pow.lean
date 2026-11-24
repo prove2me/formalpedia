@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_cyclic_order_le_two_pow
 -- name    : Formalism.HC.Frame.cyclic_order_le_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:23.244443+00:00
 -- url     : https://prove2.me/theorems/a1dcd463-779f-446d-b3a8-858c24312d00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBB_K8_ae_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.PBB.K8.ae_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:05:04.704578+00:00
 -- url     : https://prove2.me/theorems/69418479-1fef-4f6b-bc40-14537f80fe32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BorderedDeterminants_comm_last
 -- name    : Formalism.FourierDecayAlt.P.BorderedDeterminants.comm_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:43:00.800863+00:00
 -- url     : https://prove2.me/theorems/37a05611-38a0-4ce8-8ff7-39d35ae72a1b

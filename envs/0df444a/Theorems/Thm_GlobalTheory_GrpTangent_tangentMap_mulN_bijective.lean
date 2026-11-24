@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_tangentMap_mulN_bijective
 -- name    : GlobalTheory.GrpTangent.tangentMap_mulN_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:59:08.850907+00:00
 -- url     : https://prove2.me/theorems/4c9752d1-8fbf-4820-b2f7-1f951c1a68e7

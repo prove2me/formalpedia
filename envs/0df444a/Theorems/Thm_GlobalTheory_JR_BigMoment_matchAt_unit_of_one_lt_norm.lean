@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_BigMoment_matchAt_unit_of_one_lt_norm
 -- name    : GlobalTheory.JR.BigMoment.matchAt_unit_of_one_lt_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:34.511826+00:00
 -- url     : https://prove2.me/theorems/3decf0a4-864c-4de7-8cf5-804a828aa6fb

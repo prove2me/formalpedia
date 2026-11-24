@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_isUnit_det_lev
 -- name    : Formalism.FourierDecayAlt.P.B2x5.isUnit_det_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:58:23.384826+00:00
 -- url     : https://prove2.me/theorems/e5cfe6d5-6e6c-4731-8fe2-9cc5f2733181

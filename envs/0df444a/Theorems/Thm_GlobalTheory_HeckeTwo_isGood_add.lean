@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_isGood_add
 -- name    : GlobalTheory.HeckeTwo.isGood_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:12:57.251809+00:00
 -- url     : https://prove2.me/theorems/64f8144a-a6b4-4dff-8db2-3e21e9a110c5

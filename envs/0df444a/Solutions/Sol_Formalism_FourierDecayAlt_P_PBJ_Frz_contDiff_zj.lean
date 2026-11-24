@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.PBJ.Frz.contDiff_zj
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:57:35.966093+00:00
 -- url     : https://prove2.me/submissions/d892f5d1-e33b-4d77-84c1-f4b531f2ef67
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_KloostDensOfParts
 import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixMul

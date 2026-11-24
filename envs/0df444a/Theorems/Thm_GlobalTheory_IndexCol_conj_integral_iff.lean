@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexCol_conj_integral_iff
 -- name    : GlobalTheory.IndexCol.conj_integral_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:15:55.241793+00:00
 -- url     : https://prove2.me/theorems/00dca051-a8ae-469d-8a44-ca4c879169c7

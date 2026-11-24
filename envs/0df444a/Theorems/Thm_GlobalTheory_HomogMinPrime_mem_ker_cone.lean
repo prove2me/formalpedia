@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomogMinPrime_mem_ker_cone
 -- name    : GlobalTheory.HomogMinPrime.mem_ker_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:38:24.509734+00:00
 -- url     : https://prove2.me/theorems/64122b30-804c-4839-ae68-a3437a426f6b

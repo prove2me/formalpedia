@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_conjTranspose_map
 -- name    : GlobalTheory.JR.ImgSec.conjTranspose_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:33:52.534808+00:00
 -- url     : https://prove2.me/theorems/b5c8245b-78f0-4250-88e2-791bc366679e

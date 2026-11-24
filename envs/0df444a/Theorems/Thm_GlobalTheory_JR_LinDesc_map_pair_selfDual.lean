@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_map_pair_selfDual
 -- name    : GlobalTheory.JR.LinDesc.map_pair_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:35:01.860647+00:00
 -- url     : https://prove2.me/theorems/3abf32b5-0ff2-42a2-b9ba-9778fb2e074b

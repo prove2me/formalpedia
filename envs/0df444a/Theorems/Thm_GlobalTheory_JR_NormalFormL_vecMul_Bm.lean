@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_vecMul_Bm
 -- name    : GlobalTheory.JR.NormalFormL.vecMul_Bm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:26.979994+00:00
 -- url     : https://prove2.me/theorems/0d9f341f-67c3-46b8-8d53-68b877abcf53

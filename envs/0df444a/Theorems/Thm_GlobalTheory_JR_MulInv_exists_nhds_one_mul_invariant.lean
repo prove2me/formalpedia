@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MulInv_exists_nhds_one_mul_invariant
 -- name    : GlobalTheory.JR.MulInv.exists_nhds_one_mul_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:29.585822+00:00
 -- url     : https://prove2.me/theorems/fd17a662-be3c-43f5-9490-98d46c5ac975

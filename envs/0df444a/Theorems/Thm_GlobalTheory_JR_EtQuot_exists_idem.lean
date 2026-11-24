@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtQuot_exists_idem
 -- name    : GlobalTheory.JR.EtQuot.exists_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:31:14.836605+00:00
 -- url     : https://prove2.me/theorems/ce33892f-dada-4da4-968e-d5218b6b733e

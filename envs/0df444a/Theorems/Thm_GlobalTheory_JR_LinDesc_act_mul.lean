@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_act_mul
 -- name    : GlobalTheory.JR.LinDesc.act_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:09.549302+00:00
 -- url     : https://prove2.me/theorems/171f5a04-31e0-4d7f-be6a-e671febff716

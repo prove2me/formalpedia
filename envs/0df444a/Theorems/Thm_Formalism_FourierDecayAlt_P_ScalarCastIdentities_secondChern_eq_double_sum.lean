@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_secondChern_eq_double_sum
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.secondChern_eq_double_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:09:38.253532+00:00
 -- url     : https://prove2.me/theorems/d9c51161-d061-40f3-96ae-d04d07e1f47d

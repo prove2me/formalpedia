@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hadamard_re_det_gram_le_prod
 -- name    : GlobalTheory.Hadamard.re_det_gram_le_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:02:41.746722+00:00
 -- url     : https://prove2.me/theorems/907c12c9-73d5-42c6-9dfd-87d10dce16b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjectiveAlgebraMapTorsionFree_norm_le_one_of_isIntegral
 -- name    : GlobalTheory.InjectiveAlgebraMapTorsionFree.norm_le_one_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:18:52.831452+00:00
 -- url     : https://prove2.me/theorems/060a9a70-acf7-4fc1-b1bc-d31709dd8fa1

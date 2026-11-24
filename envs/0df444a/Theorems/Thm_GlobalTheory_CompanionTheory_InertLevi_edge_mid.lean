@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLevi_edge_mid
 -- name    : GlobalTheory.CompanionTheory.InertLevi.edge_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:47:41.298529+00:00
 -- url     : https://prove2.me/theorems/fd981dd3-2338-4ba4-9307-d858930aebab

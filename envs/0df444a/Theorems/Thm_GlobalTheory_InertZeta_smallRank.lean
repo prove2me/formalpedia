@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_smallRank
 -- name    : GlobalTheory.InertZeta.smallRank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:21:04.434423+00:00
 -- url     : https://prove2.me/theorems/209ff200-13de-4150-9ea6-8ce4a2230afd

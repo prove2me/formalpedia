@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_uHom_apply
 -- name    : GlobalTheory.JR.Et.uHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:02.177612+00:00
 -- url     : https://prove2.me/theorems/83045ad3-cd7d-41e1-a08d-fd6bee63cae6

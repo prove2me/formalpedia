@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLen_exp_inv_mul_le
 -- name    : GlobalTheory.CompanionTheory.InertLen.exp_inv_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:52:50.301017+00:00
 -- url     : https://prove2.me/theorems/ee991b89-edb6-422d-b5dc-1406056f0cc4

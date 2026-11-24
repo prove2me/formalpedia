@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_HeisCoord_mem_radQ_of_shape
 -- name    : GlobalTheory.InertZeta.HeisCoord.mem_radQ_of_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:28.377796+00:00
 -- url     : https://prove2.me/theorems/1ccd129c-f127-4383-81ed-5874a37b726a

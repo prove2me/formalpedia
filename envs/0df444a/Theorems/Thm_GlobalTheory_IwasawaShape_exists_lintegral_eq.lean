@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwasawaShape_exists_lintegral_eq
 -- name    : GlobalTheory.IwasawaShape.exists_lintegral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:22:25.531841+00:00
 -- url     : https://prove2.me/theorems/5d40fc25-2ae4-4314-9c17-3d764be61dee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermSmooth_contDiffOn_intT
 -- name    : GlobalTheory.HeckeTwo.TermSmooth.contDiffOn_intT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:58.598321+00:00
 -- url     : https://prove2.me/theorems/d4b0c09c-7a13-439d-a909-b7586dbf29c8

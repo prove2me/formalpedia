@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_heisenberg_fixes_isotropic_vector
 -- name    : Formalism.FourierDecayAlt.P.B2x8.heisenberg_fixes_isotropic_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:01:20.435131+00:00
 -- url     : https://prove2.me/theorems/f9bb33c9-3bba-47f9-936a-9e94baceca3e

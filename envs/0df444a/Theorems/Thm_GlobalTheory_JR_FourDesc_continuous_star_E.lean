@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_FourDesc_continuous_star_E
 -- name    : GlobalTheory.JR.FourDesc.continuous_star_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:33:10.728776+00:00
 -- url     : https://prove2.me/theorems/24994888-a2dd-4942-a708-8580d46cbef3

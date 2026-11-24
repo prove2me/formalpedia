@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dmin_star_pd
 -- name    : Formalism.FourierDecayAlt.P.dmin_star_pd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:34:25.606455+00:00
 -- url     : https://prove2.me/theorems/90579db4-e6a7-48eb-8187-fc2e428ebff0

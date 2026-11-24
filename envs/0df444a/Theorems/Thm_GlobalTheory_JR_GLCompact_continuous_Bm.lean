@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLCompact_continuous_Bm
 -- name    : GlobalTheory.JR.GLCompact.continuous_Bm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:23:34.948803+00:00
 -- url     : https://prove2.me/theorems/d525165a-2d85-4c90-869e-5694d054acc8

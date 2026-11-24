@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_sec_map
 -- name    : GlobalTheory.JR.Step.sec_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:36:57.236016+00:00
 -- url     : https://prove2.me/theorems/6bf0cb2f-29e8-48fd-ab3f-fea1035ebafa

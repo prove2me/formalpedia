@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_conjugated_generator_gl_relation
 -- name    : AAInvW.conjugated_generator_gl_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:29:19.659314+00:00
 -- url     : https://prove2.me/theorems/7df915fc-86b2-4c38-9ac2-0dd7eb70dd16

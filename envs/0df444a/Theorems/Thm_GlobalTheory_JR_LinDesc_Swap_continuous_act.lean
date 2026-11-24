@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_Swap_continuous_act
 -- name    : GlobalTheory.JR.LinDesc.Swap.continuous_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:12.11614+00:00
 -- url     : https://prove2.me/theorems/361eed7d-4741-4ef7-b041-62ccebe3d60e

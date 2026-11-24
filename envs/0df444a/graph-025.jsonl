@@ -33797,10 +33797,10 @@
 {"parent": "OAI.CanonicalQuadraticSieve.liftingPrime_norm", "child": "OAI_NumberTheory_DirichletL_GaussSum_GlobalScales", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm4_0_0_15.s2_eq_g", "child": "OAIQ098G1275", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm4_0_0_15.s2_eq_g", "child": "OAIQ098G1269", "via": ["solution", "statement"]}
-{"parent": "FairShareAlmostAll.Slack.expected_requests", "child": "FairShareAlmostAll_Slack_Buckets", "via": ["statement"]}
-{"parent": "FairShareAlmostAll.Slack.expected_requests", "child": "FairShareAlmostAll_Slack_Instance", "via": ["statement"]}
-{"parent": "FairShareAlmostAll.Slack.expected_requests", "child": "AnyPriceShare_Bidding_Basic", "via": ["statement"]}
-{"parent": "FairShareAlmostAll.Slack.expected_requests", "child": "FairShareAlmostAll_Slack_FiniteAllocation", "via": ["statement"]}
+{"parent": "FairShareAlmostAll.Slack.expected_requests", "child": "FairShareAlmostAll_Slack_Buckets", "via": ["solution", "statement"]}
+{"parent": "FairShareAlmostAll.Slack.expected_requests", "child": "FairShareAlmostAll_Slack_Instance", "via": ["solution", "statement"]}
+{"parent": "FairShareAlmostAll.Slack.expected_requests", "child": "AnyPriceShare_Bidding_Basic", "via": ["solution", "statement"]}
+{"parent": "FairShareAlmostAll.Slack.expected_requests", "child": "FairShareAlmostAll_Slack_FiniteAllocation", "via": ["solution", "statement"]}
 {"parent": "SecondBestMatch_buyerService", "child": "MatchingGFT_TightE_Market", "via": ["statement"]}
 {"parent": "SecondBestMatch_buyerService", "child": "SecondBestMatch_edgeProb", "via": ["statement"]}
 {"parent": "SecondBestMatch_edgeProb", "child": "MatchingGFT_TightE_Market", "via": ["statement"]}
@@ -40971,7 +40971,7 @@
 {"parent": "DepthOneQExp_hOp", "child": "DepthOneQExp_permToMatrix", "via": ["statement"]}
 {"parent": "DepthOneQExp_hOp", "child": "DepthOneQExp_zMat", "via": ["statement"]}
 {"parent": "DepthOneQExp_hOp", "child": "MITMSynthesis_Gate", "via": ["statement"]}
-{"parent": "ChangingCache.UpperBound.lemma_5_6", "child": "ChangingCache_UpperBound_Bank", "via": ["statement"]}
+{"parent": "ChangingCache.UpperBound.lemma_5_6", "child": "ChangingCache_UpperBound_Bank", "via": ["solution", "statement"]}
 {"parent": "HierADA_blocksMass", "child": "IsRandomnessNecessaryADA_Plain_Protocol", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.finiteRestriction_embedding_g", "child": "OAIQ098G010", "via": ["solution", "statement"]}
 {"parent": "WeldedPath_WeldedInstance", "child": "WeldedPath_parent", "via": ["statement"]}

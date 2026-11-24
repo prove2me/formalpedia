@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PT_character_transp
 -- name    : Formalism.L2.PT.character_transp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:07:43.060805+00:00
 -- url     : https://prove2.me/theorems/7b170db2-9cfb-42a4-b84a-7c9d85671a5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbProper_continuous_bm
 -- name    : GlobalTheory.JR.OrbProper.continuous_bm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:34:44.211482+00:00
 -- url     : https://prove2.me/theorems/88224842-9baf-4dcd-a119-1844c671e289

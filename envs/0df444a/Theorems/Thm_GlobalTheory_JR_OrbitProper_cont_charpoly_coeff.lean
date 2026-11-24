@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbitProper_cont_charpoly_coeff
 -- name    : GlobalTheory.JR.OrbitProper.cont_charpoly_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:34:46.765005+00:00
 -- url     : https://prove2.me/theorems/2b5698f9-86a5-4323-affe-97bfcae5eabe

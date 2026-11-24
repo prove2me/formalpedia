@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_psiK_split
 -- name    : GlobalTheory.JR.WeilProd.psiK_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:37:20.794812+00:00
 -- url     : https://prove2.me/theorems/54f2c6a7-0bad-4966-b727-3655e9ff9937

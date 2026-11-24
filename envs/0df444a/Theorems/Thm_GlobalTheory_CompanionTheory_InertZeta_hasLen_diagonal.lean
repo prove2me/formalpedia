@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_hasLen_diagonal
 -- name    : GlobalTheory.CompanionTheory.InertZeta.hasLen_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:24.064675+00:00
 -- url     : https://prove2.me/theorems/3937bb4e-379c-4696-8d07-b0bb503b8f63

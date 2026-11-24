@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_isTest_comp_homeomorph
 -- name    : GlobalTheory.JR.Hyp.isTest_comp_homeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:33:32.221711+00:00
 -- url     : https://prove2.me/theorems/111b03ac-3447-4019-aea2-00a4a83ca76c

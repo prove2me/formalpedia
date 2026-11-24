@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_EmbClosed_continuous_embHom
 -- name    : GlobalTheory.JR.Step.EmbClosed.continuous_embHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:36:15.24496+00:00
 -- url     : https://prove2.me/theorems/920a4c93-8e1c-455e-8c83-a6a409126fd7

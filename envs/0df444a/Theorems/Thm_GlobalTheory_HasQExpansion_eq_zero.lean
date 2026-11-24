@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasQExpansion_eq_zero
 -- name    : GlobalTheory.HasQExpansion.eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:15:41.08054+00:00
 -- url     : https://prove2.me/theorems/19e6de12-38b9-403b-8e7a-06762c8c7fff

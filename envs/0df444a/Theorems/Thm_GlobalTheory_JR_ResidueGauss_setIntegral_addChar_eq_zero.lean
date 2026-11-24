@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ResidueGauss_setIntegral_addChar_eq_zero
 -- name    : GlobalTheory.JR.ResidueGauss.setIntegral_addChar_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:35:57.558984+00:00
 -- url     : https://prove2.me/theorems/d4c17d44-7561-4a68-8331-689954aecd0d

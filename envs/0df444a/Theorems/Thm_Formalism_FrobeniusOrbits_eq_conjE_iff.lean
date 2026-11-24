@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_eq_conjE_iff
 -- name    : Formalism.FrobeniusOrbits.eq_conjE_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:26:45.246464+00:00
 -- url     : https://prove2.me/theorems/8036b32a-0de5-4353-8d50-f0cd78e77186

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_act_mem_Mext
 -- name    : GlobalTheory.BK.Descent.act_mem_Mext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:07:47.117876+00:00
 -- url     : https://prove2.me/theorems/8f4ffbc9-d533-40be-9789-4f630e729fc2

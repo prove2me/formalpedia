@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_LSeries_eq
 -- name    : GlobalTheory.Hk.RayCont.LSeries_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:35:41.476323+00:00
 -- url     : https://prove2.me/theorems/4169d07e-b93e-4738-8f57-f8638986715c

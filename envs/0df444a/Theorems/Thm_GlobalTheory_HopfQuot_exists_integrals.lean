@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_exists_integrals
 -- name    : GlobalTheory.HopfQuot.exists_integrals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:18:39.870906+00:00
 -- url     : https://prove2.me/theorems/311fd815-927d-4e43-8667-c951fc6283b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_mulVec_ev
 -- name    : GlobalTheory.JR.HermInv.mulVec_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:33:33.409261+00:00
 -- url     : https://prove2.me/theorems/8f2c862c-7ad3-4cd5-97ab-7d7fe434fae0

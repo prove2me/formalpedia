@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_genFun_diff_hasSum
 -- name    : GlobalTheory.InertZeta.genFun_diff_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:18:04.336805+00:00
 -- url     : https://prove2.me/theorems/9da12bf3-9bf2-4384-acd8-dbb9dc51a801

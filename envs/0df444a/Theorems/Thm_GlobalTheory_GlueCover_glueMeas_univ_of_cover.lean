@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueCover_glueMeas_univ_of_cover
 -- name    : GlobalTheory.GlueCover.glueMeas_univ_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:56:01.056802+00:00
 -- url     : https://prove2.me/theorems/e3990fac-5de6-4e09-8818-b5127da27cfc

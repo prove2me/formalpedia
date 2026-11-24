@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralMultipleClearDenominators_exists_nsmul_mem
 -- name    : GlobalTheory.IntegralMultipleClearDenominators.exists_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:43:20.3363+00:00
 -- url     : https://prove2.me/theorems/d43ff033-e30f-49b6-853f-ef136a9e2618

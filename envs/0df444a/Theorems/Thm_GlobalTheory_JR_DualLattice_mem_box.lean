@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_DualLattice_mem_box
 -- name    : GlobalTheory.JR.DualLattice.mem_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:25:38.329802+00:00
 -- url     : https://prove2.me/theorems/2e532fde-80dc-47f4-b657-42c37c81f815

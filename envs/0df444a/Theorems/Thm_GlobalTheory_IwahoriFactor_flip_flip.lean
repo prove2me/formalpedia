@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriFactor_flip_flip
 -- name    : GlobalTheory.IwahoriFactor.flip_flip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:27:13.717798+00:00
 -- url     : https://prove2.me/theorems/abdfcea9-3158-4466-99d4-33e3de73eec8

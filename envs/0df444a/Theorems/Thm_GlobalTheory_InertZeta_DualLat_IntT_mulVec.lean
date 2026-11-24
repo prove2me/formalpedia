@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_DualLat_IntT_mulVec
 -- name    : GlobalTheory.InertZeta.DualLat.IntT.mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:51:28.528557+00:00
 -- url     : https://prove2.me/theorems/5c75975d-8c1d-4015-82f7-3e28208d69ed

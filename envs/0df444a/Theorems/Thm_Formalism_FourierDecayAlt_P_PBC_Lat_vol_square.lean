@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_vol_square
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.vol_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:32:50.141804+00:00
 -- url     : https://prove2.me/theorems/465a486a-6222-452c-8baa-1caee9de2739

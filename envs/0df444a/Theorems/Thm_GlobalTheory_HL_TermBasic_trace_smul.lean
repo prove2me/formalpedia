@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TermBasic_trace_smul
 -- name    : GlobalTheory.HL.TermBasic.trace_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:01:01.779614+00:00
 -- url     : https://prove2.me/theorems/86eb2924-c032-41b6-99fb-f28ef4396c38

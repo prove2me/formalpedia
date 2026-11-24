@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LTwoLemma_u_locallyConstant
 -- name    : GlobalTheory.JR.LTwoLemma.u_locallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:34:49.083305+00:00
 -- url     : https://prove2.me/theorems/22d82b6a-9e25-40b9-9aeb-f5d019405cdd

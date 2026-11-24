@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_lt_of_blk_lt
 -- name    : GlobalTheory.InertZeta.lt_of_blk_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:18:47.247564+00:00
 -- url     : https://prove2.me/theorems/7bbed449-8da4-48e3-8460-a0052f3d55b2

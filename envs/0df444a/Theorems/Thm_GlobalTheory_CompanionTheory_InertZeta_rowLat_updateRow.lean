@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_rowLat_updateRow
 -- name    : GlobalTheory.CompanionTheory.InertZeta.rowLat_updateRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:02:57.450337+00:00
 -- url     : https://prove2.me/theorems/567bc759-4576-4f7b-ac40-b118ce87fab3

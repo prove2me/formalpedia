@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_pt_pt_eq_reflect
 -- name    : GlobalTheory.JR.Hyp.pt_pt_eq_reflect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:34:00.684015+00:00
 -- url     : https://prove2.me/theorems/e038e384-f840-4f5e-86db-321e903cb281

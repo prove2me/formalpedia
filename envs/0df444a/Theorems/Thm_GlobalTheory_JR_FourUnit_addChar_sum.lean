@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_FourUnit_addChar_sum
 -- name    : GlobalTheory.JR.FourUnit.addChar_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:23:16.80617+00:00
 -- url     : https://prove2.me/theorems/3345aa4f-7826-4da8-adb9-a591d0156922

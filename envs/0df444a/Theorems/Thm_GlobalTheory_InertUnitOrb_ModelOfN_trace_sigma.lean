@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_ModelOfN_trace_sigma
 -- name    : GlobalTheory.InertUnitOrb.ModelOfN.trace_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:54:58.079578+00:00
 -- url     : https://prove2.me/theorems/eb4d951a-2b56-46dc-a9b3-e1c62f824a9f

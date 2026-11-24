@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ReflexNormIndexIdeal_be_spec
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ReflexNormIndexIdeal.be_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:48.479873+00:00
 -- url     : https://prove2.me/theorems/a9752440-2c5b-4c82-b4e8-701e0dee1150

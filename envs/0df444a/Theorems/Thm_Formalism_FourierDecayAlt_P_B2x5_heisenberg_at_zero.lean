@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_heisenberg_at_zero
 -- name    : Formalism.FourierDecayAlt.P.B2x5.heisenberg_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:59:40.068434+00:00
 -- url     : https://prove2.me/theorems/7bfc1d63-1ff9-41a6-8947-50e8576ab613

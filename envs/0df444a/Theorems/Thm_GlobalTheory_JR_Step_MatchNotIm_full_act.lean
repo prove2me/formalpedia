@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_MatchNotIm_full_act
 -- name    : GlobalTheory.JR.Step.MatchNotIm.full_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:35:54.828935+00:00
 -- url     : https://prove2.me/theorems/13bff6d9-3a55-4065-92eb-013c70ee61f4

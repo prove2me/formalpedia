@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_gram_withRR
 -- name    : Formalism.FourierDecayAlt.P.PBA.gram_withRR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:06:21.738546+00:00
 -- url     : https://prove2.me/theorems/b77ed1c4-a9d1-46a2-935e-c68c71f3df6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HGASUndecidable_Main_validCode_computablePred
 -- name    : HGASUndecidable.Main.validCode_computablePred
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:23:17.098218+00:00
 -- url     : https://prove2.me/theorems/a0d4643a-7283-434c-9346-8df302174a27

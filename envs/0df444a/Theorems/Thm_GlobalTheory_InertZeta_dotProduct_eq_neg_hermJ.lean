@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_dotProduct_eq_neg_hermJ
 -- name    : GlobalTheory.InertZeta.dotProduct_eq_neg_hermJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:20:44.498801+00:00
 -- url     : https://prove2.me/theorems/07e60f3b-d16e-4fd4-91a0-13264cbe76d6

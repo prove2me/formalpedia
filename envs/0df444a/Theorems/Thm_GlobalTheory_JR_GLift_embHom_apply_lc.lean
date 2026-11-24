@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_embHom_apply_lc
 -- name    : GlobalTheory.JR.GLift.embHom_apply_lc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:20.382884+00:00
 -- url     : https://prove2.me/theorems/9c25f3e6-468f-4f89-ab7d-1540a331dd1b

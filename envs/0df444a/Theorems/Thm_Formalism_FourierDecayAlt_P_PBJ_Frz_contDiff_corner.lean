@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_contDiff_corner
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.contDiff_corner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:06:28.874929+00:00
 -- url     : https://prove2.me/theorems/c990a766-79c2-4612-9d60-96965590d34f

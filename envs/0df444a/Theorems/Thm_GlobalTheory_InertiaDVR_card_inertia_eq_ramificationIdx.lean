@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaDVR_card_inertia_eq_ramificationIdx
 -- name    : GlobalTheory.InertiaDVR.card_inertia_eq_ramificationIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:35.665858+00:00
 -- url     : https://prove2.me/theorems/3ec06952-28bc-4d08-97c3-17a781bcad4d

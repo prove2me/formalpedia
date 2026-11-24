@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_embHom_last_castSucc
 -- name    : GlobalTheory.JR.Step.embHom_last_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:36:43.847126+00:00
 -- url     : https://prove2.me/theorems/caeed759-e787-49bd-953e-4e80b22adfd0

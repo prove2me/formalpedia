@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_CellCont_dual_mem_polyOnCell
 -- name    : GlobalTheory.FlagPts.CellCont.dual_mem_polyOnCell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:53:32.43884+00:00
 -- url     : https://prove2.me/theorems/12a483be-f3d3-4853-8918-cadfb523e9bf

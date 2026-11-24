@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_gb_pos
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.gb_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:02:03.990542+00:00
 -- url     : https://prove2.me/theorems/a5ea1ed5-90cd-492f-90e4-7a67783d9a78

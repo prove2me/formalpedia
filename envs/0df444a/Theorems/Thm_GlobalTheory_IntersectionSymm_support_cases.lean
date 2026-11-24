@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntersectionSymm_support_cases
 -- name    : GlobalTheory.IntersectionSymm.support_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:20:39.403093+00:00
 -- url     : https://prove2.me/theorems/0ccb574c-912f-477d-b460-ff1d8260bb2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_MatchNotIm_eL_dot
 -- name    : GlobalTheory.JR.Step.MatchNotIm.eL_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:36:31.289998+00:00
 -- url     : https://prove2.me/theorems/00a543bb-83d0-4858-875a-0124ee2a39b6

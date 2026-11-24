@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SLGen_decomp
 -- name    : GlobalTheory.JR.SLGen.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:35:53.360398+00:00
 -- url     : https://prove2.me/theorems/ee855e95-8f77-4ffa-a88d-4e1b26afb5df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_continuous_mom_sec
 -- name    : GlobalTheory.JR.ImgSec.continuous_mom_sec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:39:19.991729+00:00
 -- url     : https://prove2.me/theorems/fbc3970d-24ed-4021-8efb-66c62101ab2b

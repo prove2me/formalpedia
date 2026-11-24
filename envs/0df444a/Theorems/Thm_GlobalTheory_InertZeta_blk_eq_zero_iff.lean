@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_blk_eq_zero_iff
 -- name    : GlobalTheory.InertZeta.blk_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:19:23.412724+00:00
 -- url     : https://prove2.me/theorems/d8c86abf-0cc5-4574-8db1-292df8de0fe9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_FourGUnit_integral_ball_char
 -- name    : GlobalTheory.JR.FourGUnit.integral_ball_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:23:12.291401+00:00
 -- url     : https://prove2.me/theorems/aa0489b9-dbc2-4bbb-b362-4677927ec591

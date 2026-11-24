@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_preLat_diagonal
 -- name    : GlobalTheory.InertZeta.preLat_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:02.824159+00:00
 -- url     : https://prove2.me/theorems/1597fa79-db2e-4e03-8c18-0f1065ec2948

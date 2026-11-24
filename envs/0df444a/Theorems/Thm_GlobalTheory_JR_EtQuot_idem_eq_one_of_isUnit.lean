@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtQuot_idem_eq_one_of_isUnit
 -- name    : GlobalTheory.JR.EtQuot.idem_eq_one_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:31:30.045522+00:00
 -- url     : https://prove2.me/theorems/cbe76ab4-4acc-4566-873b-ad6e8248de6e

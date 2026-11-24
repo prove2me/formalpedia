@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TheSec_theSecB_core
 -- name    : Formalism.FourierDecayAlt.P.TheSec.theSecB_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:48:02.447326+00:00
 -- url     : https://prove2.me/theorems/78fa9421-34fc-4ec2-96f9-0888630db4ad

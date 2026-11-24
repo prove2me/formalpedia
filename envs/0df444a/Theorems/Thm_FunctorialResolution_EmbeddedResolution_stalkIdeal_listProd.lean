@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_listProd
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_listProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:48:35.623957+00:00
 -- url     : https://prove2.me/theorems/b6653d5a-f977-451b-9fbe-e75bff8cd8d6

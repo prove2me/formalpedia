@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSeries_intAA_subst_of_hasSubst
 -- name    : GlobalTheory.IntSeries.intAA_subst_of_hasSubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:18:49.16445+00:00
 -- url     : https://prove2.me/theorems/158da6cb-f4b3-472e-bb2d-1c9b99f1296f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_idealSheaf_comap_map_of_stable
 -- name    : GlobalTheory.GaloisDescent.idealSheaf_comap_map_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:43:11.124903+00:00
 -- url     : https://prove2.me/theorems/90ccf4d7-e7d2-4724-85bf-2b3297a65b43

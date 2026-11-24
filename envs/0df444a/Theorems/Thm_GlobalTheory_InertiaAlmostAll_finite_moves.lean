@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaAlmostAll_finite_moves
 -- name    : GlobalTheory.InertiaAlmostAll.finite_moves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:16.267469+00:00
 -- url     : https://prove2.me/theorems/ed9b21b2-223b-4349-bfd4-e6f4e18bb727

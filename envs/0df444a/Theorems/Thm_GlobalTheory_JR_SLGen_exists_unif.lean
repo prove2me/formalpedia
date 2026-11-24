@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SLGen_exists_unif
 -- name    : GlobalTheory.JR.SLGen.exists_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:36:12.230779+00:00
 -- url     : https://prove2.me/theorems/a8e4afc8-2875-45e2-b16e-df18b61a03f2

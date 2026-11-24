@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertDoubling_cT_submatrix
 -- name    : GlobalTheory.CompanionTheory.InertDoubling.cT_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:02:13.305794+00:00
 -- url     : https://prove2.me/theorems/70576a8d-f02d-4492-8548-4d5fb9a01c37

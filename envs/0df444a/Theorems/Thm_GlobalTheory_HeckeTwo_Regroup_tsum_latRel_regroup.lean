@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_Regroup_tsum_latRel_regroup
 -- name    : GlobalTheory.HeckeTwo.Regroup.tsum_latRel_regroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:41.708188+00:00
 -- url     : https://prove2.me/theorems/5fe3e83a-af56-4904-bfa6-ab5e7872adba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SplitEt_trace_pi_apply
 -- name    : GlobalTheory.JR.SplitEt.trace_pi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:35:41.780983+00:00
 -- url     : https://prove2.me/theorems/6df33266-3ac6-42f3-9f26-759810452431

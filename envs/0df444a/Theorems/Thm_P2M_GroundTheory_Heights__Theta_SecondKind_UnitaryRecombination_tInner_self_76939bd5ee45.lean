@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_tInner_self_76939bd5ee45
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_tInner_self_76939bd5ee45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:59:31.554828+00:00
 -- url     : https://prove2.me/theorems/4171ce21-079d-43fd-af53-5c75534c7521

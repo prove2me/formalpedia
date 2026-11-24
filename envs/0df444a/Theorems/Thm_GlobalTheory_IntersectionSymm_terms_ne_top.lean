@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntersectionSymm_terms_ne_top
 -- name    : GlobalTheory.IntersectionSymm.terms_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:19:58.814685+00:00
 -- url     : https://prove2.me/theorems/9bdfdfd2-e6db-41ec-bdd5-076f252f5119

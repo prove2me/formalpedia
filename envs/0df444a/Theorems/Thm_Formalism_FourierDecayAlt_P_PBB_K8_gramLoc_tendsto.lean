@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBB_K8_gramLoc_tendsto
 -- name    : Formalism.FourierDecayAlt.P.PBB.K8.gramLoc_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:15.378197+00:00
 -- url     : https://prove2.me/theorems/fd485e8d-db1f-405d-b836-425266023dca

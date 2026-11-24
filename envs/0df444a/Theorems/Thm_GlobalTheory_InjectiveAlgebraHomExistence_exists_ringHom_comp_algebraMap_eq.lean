@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjectiveAlgebraHomExistence_exists_ringHom_comp_algebraMap_eq
 -- name    : GlobalTheory.InjectiveAlgebraHomExistence.exists_ringHom_comp_algebraMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:19.156804+00:00
 -- url     : https://prove2.me/theorems/dd9ca771-454c-4b6c-83a8-e93ce9e1e4cf

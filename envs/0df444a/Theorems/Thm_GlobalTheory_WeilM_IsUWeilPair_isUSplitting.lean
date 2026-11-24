@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_IsUWeilPair_isUSplitting
 -- name    : GlobalTheory.WeilM.IsUWeilPair.isUSplitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:59:49.147431+00:00
 -- url     : https://prove2.me/theorems/08d05576-b976-4374-8c2a-938c0c74bdf3

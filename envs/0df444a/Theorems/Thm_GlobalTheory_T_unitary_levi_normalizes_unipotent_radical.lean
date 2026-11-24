@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_levi_normalizes_unipotent_radical
 -- name    : GlobalTheory.T.unitary_levi_normalizes_unipotent_radical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:32:00.7208+00:00
 -- url     : https://prove2.me/theorems/b0bf5007-25b6-4e9d-9cf7-47dec77f3501

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_HaarUniq_exists_eq_mul_integral
 -- name    : GlobalTheory.WeilM.HaarUniq.exists_eq_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:52.477092+00:00
 -- url     : https://prove2.me/theorems/57ed7a37-04c4-4663-ba6f-40d607663e80

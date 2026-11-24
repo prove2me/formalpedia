@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx2_Tri_hsVec_zero
 -- name    : Formalism.FourierDecayAlt.P.TBBx2.Tri.hsVec_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:55:08.049023+00:00
 -- url     : https://prove2.me/theorems/32f0f23a-8466-4705-be18-670f59c5a7d8

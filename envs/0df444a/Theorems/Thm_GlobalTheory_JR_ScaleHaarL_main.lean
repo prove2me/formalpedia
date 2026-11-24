@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ScaleHaarL_main
 -- name    : GlobalTheory.JR.ScaleHaarL.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:36:15.394041+00:00
 -- url     : https://prove2.me/theorems/368b5d0c-7a32-4ea3-b428-f2d2da99a9ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_ringAct_NTot
 -- name    : GlobalTheory.BK.ringAct_NTot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:06:28.362416+00:00
 -- url     : https://prove2.me/theorems/57ac20a8-485f-4629-a591-6e975d3330fa

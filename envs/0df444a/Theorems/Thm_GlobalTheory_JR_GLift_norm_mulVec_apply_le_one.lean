@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_norm_mulVec_apply_le_one
 -- name    : GlobalTheory.JR.GLift.norm_mulVec_apply_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:37.651916+00:00
 -- url     : https://prove2.me/theorems/3a7bcd79-8ecd-4abb-875a-9c2de754de86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtProdAbs_absK_prod
 -- name    : GlobalTheory.JR.EtProdAbs.absK_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:32:01.761711+00:00
 -- url     : https://prove2.me/theorems/cae200b5-e806-4f29-af43-a2a4f9227339

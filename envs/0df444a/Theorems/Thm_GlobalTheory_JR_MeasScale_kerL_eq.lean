@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasScale_kerL_eq
 -- name    : GlobalTheory.JR.MeasScale.kerL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:34:46.060854+00:00
 -- url     : https://prove2.me/theorems/d870588b-d43c-4a20-89dc-1e0f82734be1

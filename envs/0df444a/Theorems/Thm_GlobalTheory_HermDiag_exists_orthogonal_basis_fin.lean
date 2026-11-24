@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDiag_exists_orthogonal_basis_fin
 -- name    : GlobalTheory.HermDiag.exists_orthogonal_basis_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:59.326931+00:00
 -- url     : https://prove2.me/theorems/44b54bcf-ec05-424f-8a19-bf3a072d08cf

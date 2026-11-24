@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivGaussMS_lemma_A_4
 -- name    : PrivGaussMS.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:08:54.503386+00:00
 -- url     : https://prove2.me/theorems/2f012a92-1ac6-48c1-ad4b-3271ba764db1

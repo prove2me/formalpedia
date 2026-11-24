@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GeneratorValues_psiVal_eq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GeneratorValues.psiVal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:03.768406+00:00
 -- url     : https://prove2.me/theorems/4524cf42-394f-4deb-b86f-be002f9facaa

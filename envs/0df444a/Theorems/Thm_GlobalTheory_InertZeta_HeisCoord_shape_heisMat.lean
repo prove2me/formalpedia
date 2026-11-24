@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_HeisCoord_shape_heisMat
 -- name    : GlobalTheory.InertZeta.HeisCoord.shape_heisMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:21:53.438587+00:00
 -- url     : https://prove2.me/theorems/af260529-fac4-46a0-84c9-17b2301d30f0

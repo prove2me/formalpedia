@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_FourDesc_continuous_of_isStdChar
 -- name    : GlobalTheory.JR.FourDesc.continuous_of_isStdChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:32:37.849402+00:00
 -- url     : https://prove2.me/theorems/55110548-f46b-4ee5-acb0-9ae74cf2079f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LamBound_bdd_of_loc_const
 -- name    : GlobalTheory.JR.LamBound.bdd_of_loc_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:39.391285+00:00
 -- url     : https://prove2.me/theorems/974a4917-bac0-4966-a33c-1960d306bf4d

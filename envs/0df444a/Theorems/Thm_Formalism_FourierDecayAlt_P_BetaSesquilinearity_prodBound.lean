@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_prodBound
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.prodBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:32:29.193012+00:00
 -- url     : https://prove2.me/theorems/f23a7f78-7c1c-4472-a4fd-fdf16071b6d5

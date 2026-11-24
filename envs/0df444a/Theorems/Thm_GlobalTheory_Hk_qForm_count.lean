@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_qForm_count
 -- name    : GlobalTheory.Hk.qForm_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:36:33.976192+00:00
 -- url     : https://prove2.me/theorems/53741d66-310b-41b6-be1a-71bd8ff6e0be

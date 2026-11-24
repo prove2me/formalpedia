@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdemChar_sum_coeff_idemOf_mul
 -- name    : GlobalTheory.IdemChar.sum_coeff_idemOf_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:49.597322+00:00
 -- url     : https://prove2.me/theorems/578f0e61-36b1-4d59-b78b-5a811f02d6fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_cpx_apply
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.cpx_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:02:03.397978+00:00
 -- url     : https://prove2.me/theorems/de544288-56c8-4397-9afe-c9d9d1aa3b66

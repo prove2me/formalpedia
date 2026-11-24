@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WittOrthonormalBasis_left_inv_square
 -- name    : Formalism.FourierDecayAlt.P.WittOrthonormalBasis.left_inv_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:01:50.451724+00:00
 -- url     : https://prove2.me/theorems/92896d5a-bf16-4475-8250-6ff140e56000

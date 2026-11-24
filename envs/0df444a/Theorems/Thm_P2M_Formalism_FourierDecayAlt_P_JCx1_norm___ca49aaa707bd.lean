@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_JCx1_norm___ca49aaa707bd
 -- name    : P2M_Formalism_FourierDecayAlt_P_JCx1_norm___ca49aaa707bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:02:23.599634+00:00
 -- url     : https://prove2.me/theorems/35616fb8-f97f-41bd-a62d-b0ebd164ce4e

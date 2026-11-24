@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFam_integral_theta
 -- name    : GlobalTheory.Hk.LFam.integral_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:21:31.203571+00:00
 -- url     : https://prove2.me/theorems/b3208517-3393-45ce-92e8-0d5d725ffe74

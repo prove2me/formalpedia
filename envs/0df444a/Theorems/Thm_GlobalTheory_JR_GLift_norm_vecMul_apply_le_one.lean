@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_norm_vecMul_apply_le_one
 -- name    : GlobalTheory.JR.GLift.norm_vecMul_apply_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:50.604642+00:00
 -- url     : https://prove2.me/theorems/f45d719a-3ada-4304-bbde-a2d5ca5e5579

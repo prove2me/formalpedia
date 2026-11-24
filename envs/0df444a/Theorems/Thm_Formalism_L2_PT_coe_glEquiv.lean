@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PT_coe_glEquiv
 -- name    : Formalism.L2.PT.coe_glEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:08:19.239258+00:00
 -- url     : https://prove2.me/theorems/ddd1f8ee-ab0e-4a42-8378-3c1b0f479261

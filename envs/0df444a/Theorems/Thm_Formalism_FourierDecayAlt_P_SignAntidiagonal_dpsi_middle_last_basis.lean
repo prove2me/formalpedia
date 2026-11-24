@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_dpsi_middle_last_basis
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.dpsi_middle_last_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:42.229007+00:00
 -- url     : https://prove2.me/theorems/b1076834-d772-4073-b6d3-f4e00a42e059

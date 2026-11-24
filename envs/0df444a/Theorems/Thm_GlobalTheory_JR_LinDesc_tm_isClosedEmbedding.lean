@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_tm_isClosedEmbedding
 -- name    : GlobalTheory.JR.LinDesc.tm_isClosedEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:34:23.822494+00:00
 -- url     : https://prove2.me/theorems/b4c639bb-f25e-4dfd-83dd-3597956951b2

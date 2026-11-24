@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_differentiableAt_mel
 -- name    : GlobalTheory.Hk.RayCont.differentiableAt_mel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:35:55.819686+00:00
 -- url     : https://prove2.me/theorems/a8a81c09-4f8e-4867-821a-c4bec63cda09

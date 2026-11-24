@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ResidueGauss_setIntegral_comp_mul_unit
 -- name    : GlobalTheory.JR.ResidueGauss.setIntegral_comp_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:36:56.537876+00:00
 -- url     : https://prove2.me/theorems/ee7d73bb-8385-4f5f-b341-21fb3ed9a1c3

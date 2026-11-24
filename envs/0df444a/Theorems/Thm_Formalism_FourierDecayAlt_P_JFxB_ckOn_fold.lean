@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_ckOn_fold
 -- name    : Formalism.FourierDecayAlt.P.JFxB.ckOn_fold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:10:52.428798+00:00
 -- url     : https://prove2.me/theorems/78593dc2-b2fe-4b42-a981-1e69d01d070f

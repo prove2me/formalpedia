@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_isExt_mono
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.isExt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:56:35.263179+00:00
 -- url     : https://prove2.me/theorems/4ed7c3fa-3f50-4557-bf85-e83914c9b3fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HighestWeightPolynomials_sdec_inj
 -- name    : Formalism.FourierDecayAlt.P.HighestWeightPolynomials.sdec_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:28:36.949271+00:00
 -- url     : https://prove2.me/theorems/f7f335e3-c13f-4cdc-82bd-35b087f40a59

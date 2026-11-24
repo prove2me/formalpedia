@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermSmooth_iteratedDeriv_hTrans_repr
 -- name    : GlobalTheory.HeckeTwo.TermSmooth.iteratedDeriv_hTrans_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:07:02.157901+00:00
 -- url     : https://prove2.me/theorems/631e8a88-c1a0-41b4-b602-8e804c2b47d9

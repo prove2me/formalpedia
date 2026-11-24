@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyperplaneLocBound_locally_bounded
 -- name    : GlobalTheory.HyperplaneLocBound.locally_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:13:13.216804+00:00
 -- url     : https://prove2.me/theorems/8023f4b4-bc9f-4b60-a162-6d3e01f5f41c

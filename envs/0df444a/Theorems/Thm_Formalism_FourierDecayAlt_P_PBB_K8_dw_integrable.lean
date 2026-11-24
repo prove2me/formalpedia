@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBB_K8_dw_integrable
 -- name    : Formalism.FourierDecayAlt.P.PBB.K8.dw_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:10.881788+00:00
 -- url     : https://prove2.me/theorems/32a0fcaa-fb13-46f4-878d-e7a3a7b2b634

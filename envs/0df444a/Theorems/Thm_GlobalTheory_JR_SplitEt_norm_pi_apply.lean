@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SplitEt_norm_pi_apply
 -- name    : GlobalTheory.JR.SplitEt.norm_pi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:36:40.195782+00:00
 -- url     : https://prove2.me/theorems/6eff0fe6-b553-45ca-b658-3bcddbea1063

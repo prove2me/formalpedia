@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_isLocallyConstant_of_isStdChar
 -- name    : GlobalTheory.JR.Hyp.isLocallyConstant_of_isStdChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:33:33.994811+00:00
 -- url     : https://prove2.me/theorems/6cbe6b21-a558-400e-865f-92d42fd9d81a

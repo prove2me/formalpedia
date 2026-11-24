@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_PartialInv_isTest_slice
 -- name    : GlobalTheory.JR.PartialInv.isTest_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:20.679751+00:00
 -- url     : https://prove2.me/theorems/5069174c-d8dd-4eba-a5e0-aa2efe8ab2e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_UNormal_full_ll
 -- name    : GlobalTheory.JR.Step.UNormal.full_ll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:36:10.491136+00:00
 -- url     : https://prove2.me/theorems/ca6f7d3c-e89e-4786-b456-68c85739ca85

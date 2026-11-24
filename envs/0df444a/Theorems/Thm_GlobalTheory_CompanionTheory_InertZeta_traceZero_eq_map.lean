@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_traceZero_eq_map
 -- name    : GlobalTheory.CompanionTheory.InertZeta.traceZero_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:02:43.795798+00:00
 -- url     : https://prove2.me/theorems/22a682e9-7a31-43af-9cdf-52415802e120

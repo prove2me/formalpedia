@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx2_ae_inSS
 -- name    : Formalism.FourierDecayAlt.P.TBBx2.ae_inSS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:08:23.528107+00:00
 -- url     : https://prove2.me/theorems/5dbc99ae-1984-4d48-b508-a5a7d0585fff

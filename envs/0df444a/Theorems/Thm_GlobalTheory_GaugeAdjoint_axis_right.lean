@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeAdjoint_axis_right
 -- name    : GlobalTheory.GaugeAdjoint.axis_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:49:19.224045+00:00
 -- url     : https://prove2.me/theorems/1d521a67-c824-4cf6-b206-4688b52b9645

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_dot_pow_eq_sum
 -- name    : GlobalTheory.JR.NormalFormL.dot_pow_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:38.329272+00:00
 -- url     : https://prove2.me/theorems/cb45e4f8-5b71-4bf1-ac9e-e1a63aad05f5

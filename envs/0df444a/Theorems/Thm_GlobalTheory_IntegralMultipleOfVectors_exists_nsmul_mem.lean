@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralMultipleOfVectors_exists_nsmul_mem
 -- name    : GlobalTheory.IntegralMultipleOfVectors.exists_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:20:55.455675+00:00
 -- url     : https://prove2.me/theorems/c0a5174e-d7da-48c4-960f-6fd92ac3c5e4

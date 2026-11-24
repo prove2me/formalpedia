@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HaarExist_glO_isCompact_isOpen
 -- name    : GlobalTheory.JR.HaarExist.glO_isCompact_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:31:05.403805+00:00
 -- url     : https://prove2.me/theorems/443b8241-d82a-4240-bb3b-3c4f7d2edfce

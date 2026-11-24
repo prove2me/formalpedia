@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_wHyp_wS_eq_fourB
 -- name    : GlobalTheory.JR.Hyp.wHyp_wS_eq_fourB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:34:35.593001+00:00
 -- url     : https://prove2.me/theorems/473014f0-5050-4952-a242-4baa7624d79b

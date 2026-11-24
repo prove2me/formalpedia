@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilMix_psi_isLocallyConstant
 -- name    : GlobalTheory.JR.WeilMix.psi_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:37:04.118456+00:00
 -- url     : https://prove2.me/theorems/b5f14be8-590e-459c-afbe-40a74fa41234

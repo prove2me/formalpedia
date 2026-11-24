@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_uniq_mono
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.uniq_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:51:44.740982+00:00
 -- url     : https://prove2.me/theorems/a4379dcc-897c-49b1-a901-6447dfa220d2

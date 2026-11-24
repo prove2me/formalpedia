@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_prod_exp_eq
 -- name    : GlobalTheory.InertZeta.prod_exp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:26.127632+00:00
 -- url     : https://prove2.me/theorems/46916dc0-34c8-45e9-bbe2-7c88986abcce

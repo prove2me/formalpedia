@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ReesAlgebraDim_proof_1bf2fe786d2b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ReesAlgebraDim_proof_1bf2fe786d2b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:04:15.305899+00:00
 -- url     : https://prove2.me/theorems/706ef9e6-9b2e-42da-a9c3-50525be28ff0

@@ -37204,7 +37204,7 @@
 {"parent": "OAI.CompletedGauss.completed_energy_of_exact_models", "child": "OAI_NumberTheory_DirichletL_GaussSum_BranchScaling", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density0_r2_6_eq_g", "child": "OAIQ098G388", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density0_r2_6_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
-{"parent": "MinColorPath.MinorFree.lemma_3_4", "child": "MinColorPath_MinorFree_TreeDecomposition", "via": ["statement"]}
+{"parent": "MinColorPath.MinorFree.lemma_3_4", "child": "MinColorPath_MinorFree_TreeDecomposition", "via": ["solution", "statement"]}
 {"parent": "TensorRankN2M.ThreeTwoM.lemma_12", "child": "TensorRankN2M_ThreeTwoM_Normalization", "via": ["solution", "statement"]}
 {"parent": "TensorRankN2M.ThreeTwoM.lemma_12", "child": "TensorRankN2M_ThreeTwoM_N2M", "via": ["solution", "statement"]}
 {"parent": "TensorRankN2M.ThreeTwoM.lemma_12", "child": "TensorRankN2M_ThreeTwoM_Decomposition", "via": ["solution", "statement"]}
@@ -54340,8 +54340,8 @@
 {"parent": "QEC.Coding.BDL26RandomPerturbation.supported_incoming_geometry", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_IncomingGeometry", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.supported_incoming_geometry", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_SupportGeometry", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.supported_incoming_geometry", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Sampling", "via": ["solution", "statement"]}
-{"parent": "RevRedSAT.lemma_B_4", "child": "RevRedSAT_mu", "via": ["statement"]}
-{"parent": "RevRedSAT.lemma_B_4", "child": "AlgebraicFPT_HittingSet_HittingSets", "via": ["statement"]}
+{"parent": "RevRedSAT.lemma_B_4", "child": "RevRedSAT_mu", "via": ["solution", "statement"]}
+{"parent": "RevRedSAT.lemma_B_4", "child": "AlgebraicFPT_HittingSet_HittingSets", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm33_1_0_12.s5_eq_g", "child": "OAIQ098G1154", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm33_1_0_12.s5_eq_g", "child": "OAIQ098G1158", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.column21_0_contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}

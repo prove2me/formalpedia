@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_irreducibleComponents_not_subset_support_comap
 -- name    : FunctorialResolution.EmbeddedResolution.irreducibleComponents_not_subset_support_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:06:48.154046+00:00
 -- url     : https://prove2.me/theorems/16edde60-b8a2-4f01-8b71-f0056858bd73

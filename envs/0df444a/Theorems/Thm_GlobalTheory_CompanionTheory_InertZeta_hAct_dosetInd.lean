@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_hAct_dosetInd
 -- name    : GlobalTheory.CompanionTheory.InertZeta.hAct_dosetInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:05:51.447683+00:00
 -- url     : https://prove2.me/theorems/14821860-0646-4f26-ac0f-842dc0f8bbaf

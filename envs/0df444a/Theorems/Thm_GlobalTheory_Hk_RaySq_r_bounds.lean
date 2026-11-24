@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RaySq_r_bounds
 -- name    : GlobalTheory.Hk.RaySq.r_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:37:36.606076+00:00
 -- url     : https://prove2.me/theorems/6d93558d-d24b-461f-a79f-1bea43d4ea39

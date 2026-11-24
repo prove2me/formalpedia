@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_rev_zero_eq_last
 -- name    : GlobalTheory.InertZeta.rev_zero_eq_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:55:33.178872+00:00
 -- url     : https://prove2.me/theorems/a1db69e7-77af-43d8-bfa5-48b424711fd3

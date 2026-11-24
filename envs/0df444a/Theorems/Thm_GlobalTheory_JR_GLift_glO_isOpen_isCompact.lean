@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_glO_isOpen_isCompact
 -- name    : GlobalTheory.JR.GLift.glO_isOpen_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:32:18.86386+00:00
 -- url     : https://prove2.me/theorems/7a89a8f3-bbfe-4a01-9e46-30b204825dca

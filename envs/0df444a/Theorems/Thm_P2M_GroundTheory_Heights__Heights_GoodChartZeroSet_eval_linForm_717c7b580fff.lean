@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_linForm_717c7b580fff
 -- name    : P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_linForm_717c7b580fff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:05:11.902724+00:00
 -- url     : https://prove2.me/theorems/6c0764d0-b32b-4669-bea7-3d33b70035fe

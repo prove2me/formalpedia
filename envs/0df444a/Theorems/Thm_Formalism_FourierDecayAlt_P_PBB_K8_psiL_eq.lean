@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBB_K8_psiL_eq
 -- name    : Formalism.FourierDecayAlt.P.PBB.K8.psiL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:04:13.639707+00:00
 -- url     : https://prove2.me/theorems/8a9ec9de-a06a-4d07-8dbd-177575d6cf58

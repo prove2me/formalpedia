@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WittOrthonormalBasis_mul_col
 -- name    : Formalism.FourierDecayAlt.P.WittOrthonormalBasis.mul_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:02:15.704081+00:00
 -- url     : https://prove2.me/theorems/3ced54dd-6a6c-4fcc-a6ce-7c3731779982

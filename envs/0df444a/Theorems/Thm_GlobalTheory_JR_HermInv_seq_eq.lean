@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_seq_eq
 -- name    : GlobalTheory.JR.HermInv.seq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:33:02.766324+00:00
 -- url     : https://prove2.me/theorems/6d84f47e-96d1-4cb1-bd2d-981910e46f55

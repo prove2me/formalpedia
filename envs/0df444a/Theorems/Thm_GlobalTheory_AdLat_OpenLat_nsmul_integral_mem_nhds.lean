@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_OpenLat_nsmul_integral_mem_nhds
 -- name    : GlobalTheory.AdLat.OpenLat.nsmul_integral_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:36:53.936008+00:00
 -- url     : https://prove2.me/theorems/7a82e547-caf5-4157-b728-c1b780151058

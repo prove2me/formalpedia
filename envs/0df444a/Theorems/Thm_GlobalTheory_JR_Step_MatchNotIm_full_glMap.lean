@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_MatchNotIm_full_glMap
 -- name    : GlobalTheory.JR.Step.MatchNotIm.full_glMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:36:28.015815+00:00
 -- url     : https://prove2.me/theorems/582b0ec5-efc9-4d23-b98d-c0b37028593e

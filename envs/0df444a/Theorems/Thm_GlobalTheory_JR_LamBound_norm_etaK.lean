@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LamBound_norm_etaK
 -- name    : GlobalTheory.JR.LamBound.norm_etaK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:40.012212+00:00
 -- url     : https://prove2.me/theorems/fe2122bb-4a7c-439d-aac4-4c7b1a7a525e

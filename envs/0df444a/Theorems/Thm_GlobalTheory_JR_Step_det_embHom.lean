@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_det_embHom
 -- name    : GlobalTheory.JR.Step.det_embHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:36:07.881919+00:00
 -- url     : https://prove2.me/theorems/b12a1233-1cdb-49c3-9131-69c9103ea7ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_contDiff_Zhat
 -- name    : Formalism.FourierDecayAlt.P.JCx1.contDiff_Zhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:33.993281+00:00
 -- url     : https://prove2.me/theorems/1838b9ee-c70e-420b-8535-a22815f86d40

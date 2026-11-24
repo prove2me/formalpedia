@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posDef_conjTranspose_mul_self_eq_exp_polynomial
 -- name    : GlobalTheory.posDef_conjTranspose_mul_self_eq_exp_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:59:45.5467+00:00
 -- url     : https://prove2.me/theorems/8b99da1c-0a4b-4241-bb45-0caab09e37b9

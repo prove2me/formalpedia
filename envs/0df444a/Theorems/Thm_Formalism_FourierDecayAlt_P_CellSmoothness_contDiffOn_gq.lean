@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CellSmoothness_contDiffOn_gq
 -- name    : Formalism.FourierDecayAlt.P.CellSmoothness.contDiffOn_gq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:12.607679+00:00
 -- url     : https://prove2.me/theorems/840355cf-8a0e-4911-9e3e-cb104b3041c9

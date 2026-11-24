@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_UNormal_exists_algebraMap_of_star_eq
 -- name    : GlobalTheory.JR.Step.UNormal.exists_algebraMap_of_star_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:36:06.087861+00:00
 -- url     : https://prove2.me/theorems/80e70551-853d-41a2-9bb8-e7699dd21f85

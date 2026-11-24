@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_RankOneTransfer_psi_cont
 -- name    : GlobalTheory.JR.RankOneTransfer.psi_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:38:32.036117+00:00
 -- url     : https://prove2.me/theorems/06ef5236-d485-465d-96c2-a27b460c5692

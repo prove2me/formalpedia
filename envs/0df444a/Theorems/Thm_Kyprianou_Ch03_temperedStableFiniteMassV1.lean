@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_temperedStableFiniteMassV1
 -- name    : Kyprianou.Ch03.temperedStableFiniteMassV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:49:32.350831+00:00
 -- url     : https://prove2.me/theorems/110aa392-5677-43f5-8bf0-73925168108b

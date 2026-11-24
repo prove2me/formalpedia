@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHypEquiv_integral_inv_mul
 -- name    : GlobalTheory.JHypEquiv.integral_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:45.868575+00:00
 -- url     : https://prove2.me/theorems/9d10d1f0-af08-403d-8508-bccaf7f94353

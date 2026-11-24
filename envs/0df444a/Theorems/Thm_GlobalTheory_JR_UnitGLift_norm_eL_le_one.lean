@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_UnitGLift_norm_eL_le_one
 -- name    : GlobalTheory.JR.UnitGLift.norm_eL_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:37:20.332495+00:00
 -- url     : https://prove2.me/theorems/d570792c-147c-4cd7-b6ec-53235f8e668f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_besW_le
 -- name    : GlobalTheory.Hk.RealChar.besW_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:35:55.897529+00:00
 -- url     : https://prove2.me/theorems/c8991f55-5651-40c7-b2ee-bfb365f33a23

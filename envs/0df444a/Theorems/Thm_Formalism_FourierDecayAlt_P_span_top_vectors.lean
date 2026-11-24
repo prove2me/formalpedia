@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_span_top_vectors
 -- name    : Formalism.FourierDecayAlt.P.span_top_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:53:07.831826+00:00
 -- url     : https://prove2.me/theorems/f2db18d7-6fc1-4b16-8104-faebb5cfc729

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSB_char_isLocallyConstant
 -- name    : GlobalTheory.IrredSB.char_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:20:15.729802+00:00
 -- url     : https://prove2.me/theorems/a15297af-b6dd-47d8-89eb-d8070e58d0c1

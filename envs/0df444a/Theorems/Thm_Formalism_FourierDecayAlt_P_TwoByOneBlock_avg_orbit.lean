@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_avg_orbit
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.avg_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:23:02.738145+00:00
 -- url     : https://prove2.me/theorems/fb43ba36-7a5e-46d7-b0d9-8f10f489ef45

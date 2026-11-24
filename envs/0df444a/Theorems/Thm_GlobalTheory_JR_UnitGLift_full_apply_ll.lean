@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_UnitGLift_full_apply_ll
 -- name    : GlobalTheory.JR.UnitGLift.full_apply_ll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:37:38.897397+00:00
 -- url     : https://prove2.me/theorems/d15f9484-1586-44cb-98f2-309a20d6a6f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_UnitTest_isLocallyConstant_indicator_one
 -- name    : GlobalTheory.JR.UnitTest.isLocallyConstant_indicator_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:36:44.005721+00:00
 -- url     : https://prove2.me/theorems/acab72b5-df11-4250-a5be-d3eb09e447c3

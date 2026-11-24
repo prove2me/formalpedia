@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevRedSAT_lemma_B_4
 -- name    : RevRedSAT.lemma_B_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:47:32.872958+00:00
 -- url     : https://prove2.me/theorems/daa0cdd2-37e9-4e18-93de-db3f980dea6c

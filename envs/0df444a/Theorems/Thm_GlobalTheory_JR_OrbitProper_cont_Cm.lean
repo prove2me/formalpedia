@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbitProper_cont_Cm
 -- name    : GlobalTheory.JR.OrbitProper.cont_Cm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:35:00.33205+00:00
 -- url     : https://prove2.me/theorems/448eb7f2-28a7-4044-b28d-0028bcd4abb7

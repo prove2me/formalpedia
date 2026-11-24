@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjHol_localStatement
 -- name    : GlobalTheory.InjHol.localStatement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:11:42.967463+00:00
 -- url     : https://prove2.me/theorems/2779a6cd-0ef8-41cc-b549-7b6060de8171

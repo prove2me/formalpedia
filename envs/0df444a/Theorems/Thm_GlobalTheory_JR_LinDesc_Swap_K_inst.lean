@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_Swap_K_inst
 -- name    : GlobalTheory.JR.LinDesc.Swap.K_inst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:33:58.02994+00:00
 -- url     : https://prove2.me/theorems/a3199914-6fc9-41f6-aaa1-9895a4ff7149

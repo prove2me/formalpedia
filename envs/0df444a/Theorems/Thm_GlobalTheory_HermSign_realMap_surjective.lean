@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_realMap_surjective
 -- name    : GlobalTheory.HermSign.realMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:58.260073+00:00
 -- url     : https://prove2.me/theorems/89fb1b0a-287f-41c2-a189-0c8df526be6f

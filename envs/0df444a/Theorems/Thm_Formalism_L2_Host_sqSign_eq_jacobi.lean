@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_sqSign_eq_jacobi
 -- name    : Formalism.L2.Host.sqSign_eq_jacobi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:56:16.626257+00:00
 -- url     : https://prove2.me/theorems/edd220ca-a4d8-48d7-96d0-9dcf0dccbe58

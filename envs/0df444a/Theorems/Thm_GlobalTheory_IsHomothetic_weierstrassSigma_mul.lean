@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsHomothetic_weierstrassSigma_mul
 -- name    : GlobalTheory.IsHomothetic.weierstrassSigma_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:23:39.550293+00:00
 -- url     : https://prove2.me/theorems/dfcf88dc-26b4-4db1-b9fd-efe465385c87

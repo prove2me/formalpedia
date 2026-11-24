@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasScale_kerL_swap
 -- name    : GlobalTheory.JR.MeasScale.kerL_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:34:48.752354+00:00
 -- url     : https://prove2.me/theorems/36f80587-c304-42d4-9040-876a2f480191

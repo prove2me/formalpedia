@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoConst_aPart_zero
 -- name    : GlobalTheory.HeckeTwoConst.aPart_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:14:25.989281+00:00
 -- url     : https://prove2.me/theorems/9f98084c-7512-4a11-ac5b-74e967745a1d

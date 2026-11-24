@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_hermJ_add_right
 -- name    : GlobalTheory.InertZeta.hermJ_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:30.720531+00:00
 -- url     : https://prove2.me/theorems/f75e85a4-647c-42f2-a42a-c09688f6eeff

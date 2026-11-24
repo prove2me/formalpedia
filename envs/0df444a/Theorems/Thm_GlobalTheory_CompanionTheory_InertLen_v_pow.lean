@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLen_v_pow
 -- name    : GlobalTheory.CompanionTheory.InertLen.v_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:51:54.071748+00:00
 -- url     : https://prove2.me/theorems/d8dde6c0-dd34-4a1b-a95c-3d31c8c2e5b0

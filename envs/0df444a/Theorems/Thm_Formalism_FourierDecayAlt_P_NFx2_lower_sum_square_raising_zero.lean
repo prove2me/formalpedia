@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_lower_sum_square_raising_zero
 -- name    : Formalism.FourierDecayAlt.P.NFx2.lower_sum_square_raising_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:17:22.561706+00:00
 -- url     : https://prove2.me/theorems/3202ad25-e19b-44bc-b943-0b581a921288

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_nfMat_mulVec_last
 -- name    : GlobalTheory.JR.Step.nfMat_mulVec_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:37:51.927355+00:00
 -- url     : https://prove2.me/theorems/f400605f-854e-45e4-bee3-1b594a596ae3

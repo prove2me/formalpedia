@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_isExt_finite
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.isExt_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:48.791851+00:00
 -- url     : https://prove2.me/theorems/02b8e1ae-81d7-4c98-8123-e0c10c468c7e

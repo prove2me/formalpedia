@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralPi_main
 -- name    : GlobalTheory.IntegralPi.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:50:10.196254+00:00
 -- url     : https://prove2.me/theorems/dd177d17-9eac-4d15-bee8-c2722a9770a2

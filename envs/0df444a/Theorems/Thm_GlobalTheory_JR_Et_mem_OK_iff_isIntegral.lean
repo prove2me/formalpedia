@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_mem_OK_iff_isIntegral
 -- name    : GlobalTheory.JR.Et.mem_OK_iff_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:35.502182+00:00
 -- url     : https://prove2.me/theorems/0d8fd5b1-73ca-46cc-a07a-da7e8bea3db3

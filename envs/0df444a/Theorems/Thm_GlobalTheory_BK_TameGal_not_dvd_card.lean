@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_TameGal_not_dvd_card
 -- name    : GlobalTheory.BK.TameGal.not_dvd_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:07:00.834878+00:00
 -- url     : https://prove2.me/theorems/ad77dc80-1ca0-4fcf-bb90-81bf67c70877

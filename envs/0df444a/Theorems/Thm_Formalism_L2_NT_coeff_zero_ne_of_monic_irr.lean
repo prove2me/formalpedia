@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_coeff_zero_ne_of_monic_irr
 -- name    : Formalism.L2.NT.coeff_zero_ne_of_monic_irr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:09:27.780509+00:00
 -- url     : https://prove2.me/theorems/7a91c135-f112-4a1d-948a-f3b1658be81c

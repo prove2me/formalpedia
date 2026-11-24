@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_shear_finset
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.shear_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:15:18.621564+00:00
 -- url     : https://prove2.me/theorems/e9d8c679-b9c7-4f15-9ac0-61536925a4d2

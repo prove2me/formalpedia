@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weyl_subgroup_compact
 -- name    : Formalism.FourierDecayAlt.P.weyl_subgroup_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:40:58.185845+00:00
 -- url     : https://prove2.me/theorems/951bed5b-e93b-449c-b35c-d18f08792941

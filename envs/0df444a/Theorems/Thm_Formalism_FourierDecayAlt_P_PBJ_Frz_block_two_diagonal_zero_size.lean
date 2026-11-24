@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_block_two_diagonal_zero_size
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.block_two_diagonal_zero_size
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:05:34.825891+00:00
 -- url     : https://prove2.me/theorems/42da3708-0f6d-42cc-b05e-db068181a01e

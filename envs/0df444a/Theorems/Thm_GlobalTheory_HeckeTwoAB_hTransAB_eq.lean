@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoAB_hTransAB_eq
 -- name    : GlobalTheory.HeckeTwoAB.hTransAB_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:12:41.88748+00:00
 -- url     : https://prove2.me/theorems/3141de72-1b4d-4dfb-90b7-44c8d58582b8

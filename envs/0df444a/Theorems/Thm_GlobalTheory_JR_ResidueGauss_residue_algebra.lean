@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ResidueGauss_residue_algebra
 -- name    : GlobalTheory.JR.ResidueGauss.residue_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:36:08.416831+00:00
 -- url     : https://prove2.me/theorems/12847fce-ca88-4ac2-949d-e3eb713a94f4

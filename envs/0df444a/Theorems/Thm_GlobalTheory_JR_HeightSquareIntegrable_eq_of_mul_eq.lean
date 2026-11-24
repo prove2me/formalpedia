@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HeightSquareIntegrable_eq_of_mul_eq
 -- name    : GlobalTheory.JR.HeightSquareIntegrable.eq_of_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:46:29.702661+00:00
 -- url     : https://prove2.me/theorems/285c0c2f-938e-46e1-8e93-b294a2f35ae9

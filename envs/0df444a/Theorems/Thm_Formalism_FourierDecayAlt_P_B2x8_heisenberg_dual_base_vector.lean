@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_heisenberg_dual_base_vector
 -- name    : Formalism.FourierDecayAlt.P.B2x8.heisenberg_dual_base_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:56:39.493792+00:00
 -- url     : https://prove2.me/theorems/edb6ae13-bb81-445c-80df-73900f606875

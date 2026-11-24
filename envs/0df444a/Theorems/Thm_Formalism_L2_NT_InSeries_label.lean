@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_InSeries_label
 -- name    : Formalism.L2.NT.InSeries.label
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:56:13.891941+00:00
 -- url     : https://prove2.me/theorems/f5cb9381-33d4-4f24-8276-636dd774f6dd

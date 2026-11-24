@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_iteratedDeriv_hTrans_jet
 -- name    : GlobalTheory.HeckeTwo.iteratedDeriv_hTrans_jet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:12:56.616094+00:00
 -- url     : https://prove2.me/theorems/bf8748bf-253b-47c4-9dd5-e990323822d1

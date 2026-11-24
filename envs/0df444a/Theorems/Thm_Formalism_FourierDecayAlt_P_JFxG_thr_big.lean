@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxG_thr_big
 -- name    : Formalism.FourierDecayAlt.P.JFxG.thr_big
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:59:08.88255+00:00
 -- url     : https://prove2.me/theorems/9a5d1552-6828-4b0b-a0de-2846d68df50b

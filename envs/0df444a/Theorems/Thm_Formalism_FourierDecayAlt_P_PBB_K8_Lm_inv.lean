@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBB_K8_Lm_inv
 -- name    : Formalism.FourierDecayAlt.P.PBB.K8.Lm_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:32.426269+00:00
 -- url     : https://prove2.me/theorems/20b938e8-28e1-4494-b49a-123528663c83

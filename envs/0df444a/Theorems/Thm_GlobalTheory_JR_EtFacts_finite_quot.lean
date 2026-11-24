@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtFacts_finite_quot
 -- name    : GlobalTheory.JR.EtFacts.finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:03.417976+00:00
 -- url     : https://prove2.me/theorems/e17086e6-aeba-4d0c-880f-78a519f4d48a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_pt_linear
 -- name    : GlobalTheory.JR.Hyp.pt_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:35:14.621503+00:00
 -- url     : https://prove2.me/theorems/3090be36-3e8e-4982-8ee8-62c7daee3602

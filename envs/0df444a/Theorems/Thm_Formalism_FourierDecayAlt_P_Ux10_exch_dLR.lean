@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_exch_dLR
 -- name    : Formalism.FourierDecayAlt.P.Ux10.exch_dLR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:11:33.641052+00:00
 -- url     : https://prove2.me/theorems/f0a9aa2b-9feb-4e59-bb14-a02fb050ba4e

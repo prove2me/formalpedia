@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_TameGal_norm_root
 -- name    : GlobalTheory.BK.TameGal.norm_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:06:27.512492+00:00
 -- url     : https://prove2.me/theorems/b8bff9f0-781f-450e-be18-85c60fcaa9df

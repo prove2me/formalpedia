@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_gf_sgs
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.gf_sgs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:03:27.737621+00:00
 -- url     : https://prove2.me/theorems/fcebf21d-1436-45fc-bc05-dda790948e1d

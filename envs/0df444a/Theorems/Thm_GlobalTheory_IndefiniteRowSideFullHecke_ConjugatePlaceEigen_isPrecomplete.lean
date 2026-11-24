@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ConjugatePlaceEigen_isPrecomplete
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ConjugatePlaceEigen.isPrecomplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:13:30.347166+00:00
 -- url     : https://prove2.me/theorems/db0301a9-c1b7-4f3a-877c-03d34d9f0149

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Burnside_mem_of_irred
 -- name    : GlobalTheory.CompanionTheory.Burnside.mem_of_irred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:07.913503+00:00
 -- url     : https://prove2.me/theorems/bceecec1-53f4-4f21-b2e7-09880987fbf3

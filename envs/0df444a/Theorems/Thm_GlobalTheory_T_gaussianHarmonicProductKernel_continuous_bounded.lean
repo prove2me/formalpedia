@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussianHarmonicProductKernel_continuous_bounded
 -- name    : GlobalTheory.T.gaussianHarmonicProductKernel_continuous_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:47.376243+00:00
 -- url     : https://prove2.me/theorems/eaf46c4d-bcef-4f6e-97eb-06f5ca882eac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_colOf_eq_zero
 -- name    : GlobalTheory.InertZeta.colOf_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:19:45.046065+00:00
 -- url     : https://prove2.me/theorems/8b049dc7-e5bc-45b3-a137-89cc75eada4f

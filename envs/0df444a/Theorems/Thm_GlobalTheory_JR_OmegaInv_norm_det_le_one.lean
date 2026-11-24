@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OmegaInv_norm_det_le_one
 -- name    : GlobalTheory.JR.OmegaInv.norm_det_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:35:22.570667+00:00
 -- url     : https://prove2.me/theorems/c20a0e3c-01f8-4d1d-92bc-5a6d1146376e

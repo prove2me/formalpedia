@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_eta_inv_eq
 -- name    : GlobalTheory.JR.LinDesc.eta_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:50.992376+00:00
 -- url     : https://prove2.me/theorems/ce30db0c-5ad0-4cf3-9ae0-bb4041c0e052

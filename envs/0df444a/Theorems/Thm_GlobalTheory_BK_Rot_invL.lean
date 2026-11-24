@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Rot_invL
 -- name    : GlobalTheory.BK.Rot.invL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:07:13.622812+00:00
 -- url     : https://prove2.me/theorems/77e733c5-ca4c-4de9-8be7-c9e70baec7e2

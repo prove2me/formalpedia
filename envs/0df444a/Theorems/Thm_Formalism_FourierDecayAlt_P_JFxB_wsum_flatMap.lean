@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_wsum_flatMap
 -- name    : Formalism.FourierDecayAlt.P.JFxB.wsum_flatMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:42:30.918504+00:00
 -- url     : https://prove2.me/theorems/908872b5-b271-4785-abd8-9547856ae3b8

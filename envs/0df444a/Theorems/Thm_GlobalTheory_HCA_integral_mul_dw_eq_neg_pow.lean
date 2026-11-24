@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_integral_mul_dw_eq_neg_pow
 -- name    : GlobalTheory.HCA.integral_mul_dw_eq_neg_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:59:33.782568+00:00
 -- url     : https://prove2.me/theorems/1d2722c6-d94e-4842-8eec-bb98089e041a

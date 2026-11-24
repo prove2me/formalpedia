@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpen_phDom
 -- name    : GlobalTheory.isOpen_phDom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:22.256954+00:00
 -- url     : https://prove2.me/theorems/3bf07299-f763-4409-84ab-31bb48e097e1

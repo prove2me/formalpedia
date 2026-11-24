@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbTest_eta_eq_of_norm_eq
 -- name    : GlobalTheory.JR.OrbTest.eta_eq_of_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:35:42.284074+00:00
 -- url     : https://prove2.me/theorems/6fc77fe7-02d8-49e0-b5c2-149b33cc3f82

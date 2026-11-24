@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ResidueGauss_algebraMap_continuous_isCompact_preimage
 -- name    : GlobalTheory.JR.ResidueGauss.algebraMap_continuous_isCompact_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:36:26.535659+00:00
 -- url     : https://prove2.me/theorems/b4aa8f45-fea3-489c-8f77-9cf35c428e4f

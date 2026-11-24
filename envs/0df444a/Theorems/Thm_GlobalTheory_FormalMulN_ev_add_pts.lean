@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalMulN_ev_add_pts
 -- name    : GlobalTheory.FormalMulN.ev_add_pts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:04.896818+00:00
 -- url     : https://prove2.me/theorems/93fa2bf9-4843-4f02-86ac-fd94cbe1d6ff

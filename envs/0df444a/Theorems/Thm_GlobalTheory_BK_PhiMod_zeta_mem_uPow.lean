@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_zeta_mem_uPow
 -- name    : GlobalTheory.BK.PhiMod.zeta_mem_uPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:43:28.740599+00:00
 -- url     : https://prove2.me/theorems/698f99b4-5034-4983-8efb-2705eebdb443

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_pow_r_of
 -- name    : GlobalTheory.JR.HermInv.pow_r_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:33:30.497063+00:00
 -- url     : https://prove2.me/theorems/cf42492b-bd73-4369-bf7a-66b57bdefcfe

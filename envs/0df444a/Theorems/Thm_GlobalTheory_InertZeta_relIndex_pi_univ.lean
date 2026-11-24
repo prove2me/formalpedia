@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_relIndex_pi_univ
 -- name    : GlobalTheory.InertZeta.relIndex_pi_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:42.049747+00:00
 -- url     : https://prove2.me/theorems/a87bcf5d-888d-49f8-9ba3-61ffef007dbc

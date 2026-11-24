@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_IsTeich_injective
 -- name    : Formalism.L2.NT.IsTeich.injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:56:27.539243+00:00
 -- url     : https://prove2.me/theorems/f96cdfb1-74e9-48e3-ab8c-329f412217c9

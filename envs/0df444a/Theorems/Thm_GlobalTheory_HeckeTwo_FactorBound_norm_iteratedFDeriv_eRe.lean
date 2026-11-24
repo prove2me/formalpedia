@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_FactorBound_norm_iteratedFDeriv_eRe
 -- name    : GlobalTheory.HeckeTwo.FactorBound.norm_iteratedFDeriv_eRe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:57.47103+00:00
 -- url     : https://prove2.me/theorems/3fcc8df7-91a3-4748-9a79-8283fb4d8b46

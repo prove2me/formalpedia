@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoMul_isGood_mul
 -- name    : GlobalTheory.HeckeTwoMul.isGood_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:06:49.570459+00:00
 -- url     : https://prove2.me/theorems/a049e3fe-bfe8-467a-849c-2ce42a61c968

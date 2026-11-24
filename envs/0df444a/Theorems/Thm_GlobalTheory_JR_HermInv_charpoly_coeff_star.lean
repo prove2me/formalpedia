@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_charpoly_coeff_star
 -- name    : GlobalTheory.JR.HermInv.charpoly_coeff_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:00.891889+00:00
 -- url     : https://prove2.me/theorems/140aa0d8-719e-4541-b5c9-a042f3aaaccd

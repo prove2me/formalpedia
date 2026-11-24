@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_modulus_characters_product
 -- name    : PositivityTheory.Rg.Sw.LVs.modulus_characters_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:59:48.877605+00:00
 -- url     : https://prove2.me/theorems/a69042cf-b393-4ec2-b33d-f37bcb076937

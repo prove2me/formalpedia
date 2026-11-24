@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwaFlag_exists_flag_dual
 -- name    : GlobalTheory.IwaFlag.exists_flag_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:31.595404+00:00
 -- url     : https://prove2.me/theorems/89dc0bf4-fc05-4a5b-8fd3-6c1432ad21ed

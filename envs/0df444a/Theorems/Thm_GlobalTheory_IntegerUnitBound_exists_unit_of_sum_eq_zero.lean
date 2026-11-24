@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegerUnitBound_exists_unit_of_sum_eq_zero
 -- name    : GlobalTheory.IntegerUnitBound.exists_unit_of_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:19:16.092544+00:00
 -- url     : https://prove2.me/theorems/cf233715-410b-4ba1-bf5b-31fef95811ef

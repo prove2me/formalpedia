@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SqrtNearOne_exists_sq_eq_inv_near_one
 -- name    : GlobalTheory.JR.SqrtNearOne.exists_sq_eq_inv_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:35:33.043854+00:00
 -- url     : https://prove2.me/theorems/89993272-6ad2-4d32-8bd3-de970c679d7f

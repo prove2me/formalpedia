@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_coeff_chr_of_inversion
 -- name    : GlobalTheory.FourierChainCompare.coeff_chr_of_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:55:16.848173+00:00
 -- url     : https://prove2.me/theorems/bfe34385-211e-4204-9fdc-c05e6257a30b

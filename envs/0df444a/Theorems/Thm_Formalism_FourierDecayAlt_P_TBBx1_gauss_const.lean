@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_gauss_const
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.gauss_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:47.106341+00:00
 -- url     : https://prove2.me/theorems/487e0892-c2ac-4545-97fb-34cd306ec288

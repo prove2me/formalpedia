@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_conjT_conjT
 -- name    : GlobalTheory.FrameCompletion.conjT_conjT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:05:00.610804+00:00
 -- url     : https://prove2.me/theorems/2be16743-a496-4bbc-965a-3ad971684d0e

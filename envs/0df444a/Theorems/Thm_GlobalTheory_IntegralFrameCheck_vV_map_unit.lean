@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameCheck_vV_map_unit
 -- name    : GlobalTheory.IntegralFrameCheck.vV_map_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:19:54.076272+00:00
 -- url     : https://prove2.me/theorems/658564a7-8128-4654-bbc7-c0aca4b6ebf0

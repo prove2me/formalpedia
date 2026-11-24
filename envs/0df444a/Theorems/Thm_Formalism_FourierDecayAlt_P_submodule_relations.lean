@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_submodule_relations
 -- name    : Formalism.FourierDecayAlt.P.submodule_relations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:30:37.869617+00:00
 -- url     : https://prove2.me/theorems/40a6c1de-19aa-4b37-a637-2e9f915bc773

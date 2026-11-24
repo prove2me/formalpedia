@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_pairing_derivative_locally_dominated
 -- name    : Formalism.FourierDecayAlt.P.B6.pairing_derivative_locally_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:33:24.900087+00:00
 -- url     : https://prove2.me/theorems/9ae795b3-f8dd-4db6-b76f-e8367b51793e

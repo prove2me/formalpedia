@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_PartialInv_mem_intLat
 -- name    : GlobalTheory.JR.PartialInv.mem_intLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:37.42691+00:00
 -- url     : https://prove2.me/theorems/90e21d1b-41a6-41f9-baad-28e9e94f4ef3

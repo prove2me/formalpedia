@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvariantRightInverse_exists_invariant_rightInverse_field
 -- name    : GlobalTheory.InvariantRightInverse.exists_invariant_rightInverse_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:20:04.418304+00:00
 -- url     : https://prove2.me/theorems/4868df37-6b9d-4ef2-95a5-9ad61d22eb18

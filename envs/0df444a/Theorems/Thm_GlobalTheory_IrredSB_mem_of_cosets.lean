@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSB_mem_of_cosets
 -- name    : GlobalTheory.IrredSB.mem_of_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:20:40.774826+00:00
 -- url     : https://prove2.me/theorems/7a1081d4-2edb-461d-80bb-c08009716f06

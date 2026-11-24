@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_ActEmbLift_eL_vecMul_embHom
 -- name    : GlobalTheory.JR.Step.ActEmbLift.eL_vecMul_embHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:35:29.279816+00:00
 -- url     : https://prove2.me/theorems/ff5857ac-d949-4b53-ae3f-bb77cea932b3

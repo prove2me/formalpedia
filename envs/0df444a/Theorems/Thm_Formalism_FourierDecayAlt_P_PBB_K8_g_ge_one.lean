@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBB_K8_g_ge_one
 -- name    : Formalism.FourierDecayAlt.P.PBB.K8.g_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:12.302808+00:00
 -- url     : https://prove2.me/theorems/9ecf0ad6-6f43-4505-8ae0-e74f007b0ce7

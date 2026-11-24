@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OKCompact_continuous_coeff_charpoly
 -- name    : GlobalTheory.JR.OKCompact.continuous_coeff_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:21.141653+00:00
 -- url     : https://prove2.me/theorems/abcd16c5-8c63-4609-941b-b48186b0a000

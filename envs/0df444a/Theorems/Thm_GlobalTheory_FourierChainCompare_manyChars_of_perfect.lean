@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_manyChars_of_perfect
 -- name    : GlobalTheory.FourierChainCompare.manyChars_of_perfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:55:55.987114+00:00
 -- url     : https://prove2.me/theorems/5770678f-fec6-4fca-947d-22a9be5e9672

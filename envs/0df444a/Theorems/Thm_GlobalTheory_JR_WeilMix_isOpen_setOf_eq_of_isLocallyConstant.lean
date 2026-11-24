@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilMix_isOpen_setOf_eq_of_isLocallyConstant
 -- name    : GlobalTheory.JR.WeilMix.isOpen_setOf_eq_of_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:37:16.171181+00:00
 -- url     : https://prove2.me/theorems/4c13e295-1248-430f-bc49-9bfab11c180d

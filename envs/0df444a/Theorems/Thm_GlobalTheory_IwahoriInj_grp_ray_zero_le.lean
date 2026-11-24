@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_grp_ray_zero_le
 -- name    : GlobalTheory.IwahoriInj.grp_ray_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:22:18.969504+00:00
 -- url     : https://prove2.me/theorems/83d60564-0385-4e5b-956b-bc9a3deec6b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasTransport_trForm_sepLeft
 -- name    : GlobalTheory.JR.MeasTransport.trForm_sepLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:59.30991+00:00
 -- url     : https://prove2.me/theorems/5ae28e60-9f0f-45b5-a55d-24914de2e5f3

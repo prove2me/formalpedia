@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_zVal_succ
 -- name    : GlobalTheory.InertZeta.zVal_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:37.940814+00:00
 -- url     : https://prove2.me/theorems/8b21e59c-c21b-4fd1-b7e9-19b85a7ee8b1

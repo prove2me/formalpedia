@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeAdjoint_pderiv_right
 -- name    : GlobalTheory.GaugeAdjoint.pderiv_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:49:25.918855+00:00
 -- url     : https://prove2.me/theorems/54a7ba05-38cd-41e2-9d53-155f0df2f2fa

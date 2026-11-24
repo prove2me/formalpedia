@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_chr_neg
 -- name    : GlobalTheory.FourierChainCompare.chr_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:55:06.649205+00:00
 -- url     : https://prove2.me/theorems/b16433b9-9649-45eb-ab01-fccaac168cd5

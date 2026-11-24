@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_triv_of_primary
 -- name    : GlobalTheory.HeckeCompare.triv_of_primary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:02:57.4964+00:00
 -- url     : https://prove2.me/theorems/d02875b5-aa92-4401-a9e1-2ee7582ad7d7

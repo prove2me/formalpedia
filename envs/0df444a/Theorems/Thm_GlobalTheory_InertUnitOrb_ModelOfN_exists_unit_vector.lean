@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_ModelOfN_exists_unit_vector
 -- name    : GlobalTheory.InertUnitOrb.ModelOfN.exists_unit_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:15:50.828168+00:00
 -- url     : https://prove2.me/theorems/8f3f1ae0-4361-49b7-b2fb-f1c531e80e7e

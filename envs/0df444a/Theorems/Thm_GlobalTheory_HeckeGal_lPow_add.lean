@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_lPow_add
 -- name    : GlobalTheory.HeckeGal.lPow_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:02:54.542807+00:00
 -- url     : https://prove2.me/theorems/904fb60b-f18a-4971-8ab3-85237401ec57

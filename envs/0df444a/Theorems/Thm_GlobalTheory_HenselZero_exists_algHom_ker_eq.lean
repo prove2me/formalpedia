@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HenselZero_exists_algHom_ker_eq
 -- name    : GlobalTheory.HenselZero.exists_algHom_ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:19:14.652797+00:00
 -- url     : https://prove2.me/theorems/06ffc084-5397-469b-9c98-21ef8527cd5f

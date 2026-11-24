@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise34TemperedStableDecomposition
 -- name    : Kyprianou.Ch03.exercise34TemperedStableDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:51:52.996313+00:00
 -- url     : https://prove2.me/theorems/48e9d5ac-311f-4266-802f-cb4233689e8e

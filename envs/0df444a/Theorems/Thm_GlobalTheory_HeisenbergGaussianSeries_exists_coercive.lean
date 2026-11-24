@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergGaussianSeries_exists_coercive
 -- name    : GlobalTheory.HeisenbergGaussianSeries.exists_coercive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:19:34.687101+00:00
 -- url     : https://prove2.me/theorems/aa55f88e-f0f0-478e-9b23-5072925389e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_InvMap_inv_and_Delta_map
 -- name    : GlobalTheory.JR.Step.InvMap.inv_and_Delta_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:36:01.01577+00:00
 -- url     : https://prove2.me/theorems/6bd7ea9d-6760-4982-a525-b0254f6dc435

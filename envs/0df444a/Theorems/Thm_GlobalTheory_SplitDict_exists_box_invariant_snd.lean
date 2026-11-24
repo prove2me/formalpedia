@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitDict_exists_box_invariant_snd
 -- name    : GlobalTheory.SplitDict.exists_box_invariant_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:04:17.14519+00:00
 -- url     : https://prove2.me/theorems/9f842072-4eef-43ab-a2c4-08ce259869c5

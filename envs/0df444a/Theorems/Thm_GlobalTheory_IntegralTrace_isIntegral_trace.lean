@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralTrace_isIntegral_trace
 -- name    : GlobalTheory.IntegralTrace.isIntegral_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:20:12.598867+00:00
 -- url     : https://prove2.me/theorems/ef96cc17-0120-4cbf-ab4e-69f3769e4d13

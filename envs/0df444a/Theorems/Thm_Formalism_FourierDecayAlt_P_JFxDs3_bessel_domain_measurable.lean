@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs3_bessel_domain_measurable
 -- name    : Formalism.FourierDecayAlt.P.JFxDs3.bessel_domain_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:15:14.700942+00:00
 -- url     : https://prove2.me/theorems/c61e53a1-941e-4118-8e2f-e21f63804bb6

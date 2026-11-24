@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_blockVector_middle
 -- name    : GlobalTheory.CompanionTheory.InertSpan.blockVector_middle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:51:45.07535+00:00
 -- url     : https://prove2.me/theorems/bab9c0d7-3f67-403d-9d9b-804b7ba81208

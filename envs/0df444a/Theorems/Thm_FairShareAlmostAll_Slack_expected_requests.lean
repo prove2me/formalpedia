@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairShareAlmostAll_Slack_expected_requests
 -- name    : FairShareAlmostAll.Slack.expected_requests
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:55:23.772953+00:00
 -- url     : https://prove2.me/theorems/5ff918b8-dfc0-4313-9aed-796e3ebce454

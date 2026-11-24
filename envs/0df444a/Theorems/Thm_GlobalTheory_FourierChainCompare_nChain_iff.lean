@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_nChain_iff
 -- name    : GlobalTheory.FourierChainCompare.nChain_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:55:06.072282+00:00
 -- url     : https://prove2.me/theorems/80c77b5f-c7c1-4719-ab52-9b83ab0ac0b6

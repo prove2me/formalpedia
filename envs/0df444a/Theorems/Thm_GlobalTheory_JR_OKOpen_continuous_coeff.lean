@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OKOpen_continuous_coeff
 -- name    : GlobalTheory.JR.OKOpen.continuous_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:34:39.339655+00:00
 -- url     : https://prove2.me/theorems/f194fecd-0116-427f-a15e-dc898b82c139

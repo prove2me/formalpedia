@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_Swap_swap_triple
 -- name    : GlobalTheory.JR.LinDesc.Swap.swap_triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:07.234024+00:00
 -- url     : https://prove2.me/theorems/1a340b0d-8336-40ba-a706-4055bd5112d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_intV_vecMul
 -- name    : GlobalTheory.InertZeta.intV_vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:56:36.750359+00:00
 -- url     : https://prove2.me/theorems/8a34741f-958a-4b60-a223-cf5306ba0e3c

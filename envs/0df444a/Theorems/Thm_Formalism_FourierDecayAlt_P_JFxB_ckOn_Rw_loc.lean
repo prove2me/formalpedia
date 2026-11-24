@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_ckOn_Rw_loc
 -- name    : Formalism.FourierDecayAlt.P.JFxB.ckOn_Rw_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:26:01.161599+00:00
 -- url     : https://prove2.me/theorems/cfe7f823-fe62-4cb7-824b-9d8fc38877ca

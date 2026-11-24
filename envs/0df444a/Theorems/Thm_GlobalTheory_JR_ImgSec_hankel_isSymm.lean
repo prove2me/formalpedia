@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_hankel_isSymm
 -- name    : GlobalTheory.JR.ImgSec.hankel_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:10.403356+00:00
 -- url     : https://prove2.me/theorems/90666b90-3533-482d-8516-32216d7d82ea

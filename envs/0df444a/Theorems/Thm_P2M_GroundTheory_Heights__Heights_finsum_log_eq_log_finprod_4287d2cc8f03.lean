@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finsum_log_eq_log_finprod_4287d2cc8f03
 -- name    : P2M_GroundTheory_Heights__Heights_finsum_log_eq_log_finprod_4287d2cc8f03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:05:28.111008+00:00
 -- url     : https://prove2.me/theorems/6396b7b6-efb2-44cc-8438-952e64b30e6a

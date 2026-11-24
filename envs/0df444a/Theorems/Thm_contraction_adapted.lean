@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contraction_adapted
 -- name    : contraction_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:55:31.524904+00:00
 -- url     : https://prove2.me/theorems/efb99076-0cdd-4b7e-b5d2-078a354e3367

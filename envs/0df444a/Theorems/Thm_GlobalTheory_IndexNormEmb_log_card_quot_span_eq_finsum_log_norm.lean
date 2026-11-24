@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexNormEmb_log_card_quot_span_eq_finsum_log_norm
 -- name    : GlobalTheory.IndexNormEmb.log_card_quot_span_eq_finsum_log_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:15:29.103193+00:00
 -- url     : https://prove2.me/theorems/79078b71-0f61-4901-a10c-80bed79b3f8e

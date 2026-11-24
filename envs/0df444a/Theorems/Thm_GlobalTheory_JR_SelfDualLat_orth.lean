@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SelfDualLat_orth
 -- name    : GlobalTheory.JR.SelfDualLat.orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:36:08.369794+00:00
 -- url     : https://prove2.me/theorems/fc9e8d2b-c593-45bc-a94e-c59512fe553a

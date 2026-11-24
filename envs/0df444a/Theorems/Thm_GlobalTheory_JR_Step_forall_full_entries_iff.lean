@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_forall_full_entries_iff
 -- name    : GlobalTheory.JR.Step.forall_full_entries_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:35:42.060868+00:00
 -- url     : https://prove2.me/theorems/1f06536a-dd94-4d19-841c-6ffa7927d99b

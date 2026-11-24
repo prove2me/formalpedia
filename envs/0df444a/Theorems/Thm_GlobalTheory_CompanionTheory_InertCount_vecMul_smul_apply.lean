@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCount_vecMul_smul_apply
 -- name    : GlobalTheory.CompanionTheory.InertCount.vecMul_smul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:03:07.13285+00:00
 -- url     : https://prove2.me/theorems/2defb2c0-b473-4510-96ea-7501743e9491

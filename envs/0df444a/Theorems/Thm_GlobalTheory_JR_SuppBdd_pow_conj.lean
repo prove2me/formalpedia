@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SuppBdd_pow_conj
 -- name    : GlobalTheory.JR.SuppBdd.pow_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:38:14.362578+00:00
 -- url     : https://prove2.me/theorems/4e9250c9-9ec6-483d-983e-5f53ff55057f

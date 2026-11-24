@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_inj_adjacent
 -- name    : GlobalTheory.IwahoriInj.inj_adjacent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:22:17.165348+00:00
 -- url     : https://prove2.me/theorems/f3dd9b30-d1d3-4d55-83b1-09fa7785ecdf

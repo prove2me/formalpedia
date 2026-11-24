@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_IsBasisOn_map_iso
 -- name    : GroundTheory.Arith.SchemeCoh.IsBasisOn.map_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:03:57.106797+00:00
 -- url     : https://prove2.me/theorems/3ebde5b7-f9c0-4a7c-8122-eec77ef9b714

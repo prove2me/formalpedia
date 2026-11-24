@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_isHolTo_halfCurve
 -- name    : GlobalTheory.Conv.isHolTo_halfCurve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:28:27.4918+00:00
 -- url     : https://prove2.me/theorems/8643ba90-4296-4223-b82b-e185e3a45767

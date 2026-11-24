@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_cornerA_zero
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.cornerA_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:54:34.159182+00:00
 -- url     : https://prove2.me/theorems/596239f8-7d25-4889-8e1a-7172675efe80

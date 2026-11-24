@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumInequalities_W_expand
 -- name    : Formalism.FourierDecayAlt.P.ListSumInequalities.W_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:48:48.144503+00:00
 -- url     : https://prove2.me/theorems/56269420-3340-42ba-800d-a4fc45e11573

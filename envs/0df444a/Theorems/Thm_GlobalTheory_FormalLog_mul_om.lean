@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_mul_om
 -- name    : GlobalTheory.FormalLog.mul_om
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:34.996775+00:00
 -- url     : https://prove2.me/theorems/afc2f91f-ffbe-4056-9eeb-5ed00debbad8

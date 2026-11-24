@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbTest_continuous_act
 -- name    : GlobalTheory.JR.OrbTest.continuous_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:35:30.390049+00:00
 -- url     : https://prove2.me/theorems/5f644532-4475-4315-adbf-41577e8213b7

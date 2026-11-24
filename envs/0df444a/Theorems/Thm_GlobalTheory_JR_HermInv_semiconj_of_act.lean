@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_semiconj_of_act
 -- name    : GlobalTheory.JR.HermInv.semiconj_of_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:33:29.980537+00:00
 -- url     : https://prove2.me/theorems/91f1fede-8ec7-418e-8836-14d46a0375f1

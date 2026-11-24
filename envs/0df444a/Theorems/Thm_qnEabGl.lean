@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_qnEabGl
 -- name    : qnEabGl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:13:39.41382+00:00
 -- url     : https://prove2.me/theorems/1365e794-96ce-434b-bbe3-bfdf99cc3b1f

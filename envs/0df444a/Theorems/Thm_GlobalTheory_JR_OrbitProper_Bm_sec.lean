@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbitProper_Bm_sec
 -- name    : GlobalTheory.JR.OrbitProper.Bm_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:35:08.123797+00:00
 -- url     : https://prove2.me/theorems/ef447b5e-6b4e-4245-b35e-d19bb62b1555

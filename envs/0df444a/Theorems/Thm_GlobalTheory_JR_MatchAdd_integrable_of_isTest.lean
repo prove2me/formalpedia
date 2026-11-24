@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MatchAdd_integrable_of_isTest
 -- name    : GlobalTheory.JR.MatchAdd.integrable_of_isTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:35:24.08774+00:00
 -- url     : https://prove2.me/theorems/1cd45308-35da-4093-953c-846ecd700081

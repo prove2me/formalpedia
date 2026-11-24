@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SLGen_diag_coe
 -- name    : GlobalTheory.JR.SLGen.diag_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:36:00.929506+00:00
 -- url     : https://prove2.me/theorems/93d8175d-e0ad-48ca-9ac4-5003494aeaf0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_isLocPt_toStd_iff
 -- name    : Formalism.FourierDecayAlt.P.PBD.isLocPt_toStd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:48.226506+00:00
 -- url     : https://prove2.me/theorems/c316af75-d5b1-4d96-8b9e-1270db94cd2e

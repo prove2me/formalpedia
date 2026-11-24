@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_hasDerivAt_wF
 -- name    : GlobalTheory.HeckeTwo.HDecay.hasDerivAt_wF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:01:36.58748+00:00
 -- url     : https://prove2.me/theorems/837d320f-815b-466a-9443-ca57ef45b42c

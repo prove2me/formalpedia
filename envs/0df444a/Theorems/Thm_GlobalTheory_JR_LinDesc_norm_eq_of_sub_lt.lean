@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_norm_eq_of_sub_lt
 -- name    : GlobalTheory.JR.LinDesc.norm_eq_of_sub_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:35:08.811806+00:00
 -- url     : https://prove2.me/theorems/142e72ec-112c-4fa1-b62f-9f71ca7d390b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CellSmoothness_glev0
 -- name    : Formalism.FourierDecayAlt.P.CellSmoothness.glev0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:02:31.716608+00:00
 -- url     : https://prove2.me/theorems/39ede30c-8664-4d85-b7c7-7d67177ed36d

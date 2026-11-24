@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbTest_actU_mul
 -- name    : GlobalTheory.JR.OrbTest.actU_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:36:46.152707+00:00
 -- url     : https://prove2.me/theorems/cd1278ea-6460-4988-9b0d-1929077997a9

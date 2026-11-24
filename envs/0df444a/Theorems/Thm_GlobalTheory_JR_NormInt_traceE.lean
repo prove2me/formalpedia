@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormInt_traceE
 -- name    : GlobalTheory.JR.NormInt.traceE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:48.396649+00:00
 -- url     : https://prove2.me/theorems/760c4bac-0bd6-4612-bbd4-370c9d635950

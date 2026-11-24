@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HaarExist_continuousStar_of_norm_star
 -- name    : GlobalTheory.JR.HaarExist.continuousStar_of_norm_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:51.415505+00:00
 -- url     : https://prove2.me/theorems/9d22527d-ffce-4dfe-80e3-57246c76475b

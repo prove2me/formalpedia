@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SettingConstruction_setting_exists_of_haar_normalisation
 -- name    : Formalism.FourierDecayAlt.P.SettingConstruction.setting_exists_of_haar_normalisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:23:39.031804+00:00
 -- url     : https://prove2.me/theorems/d20e62c6-2a6c-4da2-8dd4-4dd9d0b2a6f8

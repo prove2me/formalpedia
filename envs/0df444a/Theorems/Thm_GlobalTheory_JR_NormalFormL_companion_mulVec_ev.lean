@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_companion_mulVec_ev
 -- name    : GlobalTheory.JR.NormalFormL.companion_mulVec_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:33.196324+00:00
 -- url     : https://prove2.me/theorems/bc009ca6-98a7-457a-ab55-f20f0743a3d3

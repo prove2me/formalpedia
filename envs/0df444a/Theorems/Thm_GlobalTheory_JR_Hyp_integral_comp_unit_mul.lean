@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_integral_comp_unit_mul
 -- name    : GlobalTheory.JR.Hyp.integral_comp_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:04.210193+00:00
 -- url     : https://prove2.me/theorems/4e5a691e-9aac-4e23-8e99-c36d4410b673

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_tr_cosetRep_orth
 -- name    : GlobalTheory.HeisUnit.tr_cosetRep_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:17:35.145794+00:00
 -- url     : https://prove2.me/theorems/9106c9bf-dcc6-4f4d-93ac-1ea95ee61ac6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdLat_hf_decomp
 -- name    : GlobalTheory.HL.StdLat.hf_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:16:04.982351+00:00
 -- url     : https://prove2.me/theorems/2e8b379d-9d6b-43bf-812f-39ffb14df1dd

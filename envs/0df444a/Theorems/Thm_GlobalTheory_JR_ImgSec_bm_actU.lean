@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_bm_actU
 -- name    : GlobalTheory.JR.ImgSec.bm_actU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:33:57.845702+00:00
 -- url     : https://prove2.me/theorems/60aa9a77-7e20-4214-9a55-0b3b30dec570

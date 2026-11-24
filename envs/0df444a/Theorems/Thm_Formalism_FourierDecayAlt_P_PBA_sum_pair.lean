@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_sum_pair
 -- name    : Formalism.FourierDecayAlt.P.PBA.sum_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:54:05.579738+00:00
 -- url     : https://prove2.me/theorems/94f83dc4-5baf-41e6-865c-be0211042f75

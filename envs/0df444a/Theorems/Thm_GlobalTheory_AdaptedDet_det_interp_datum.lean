@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedDet_det_interp_datum
 -- name    : GlobalTheory.AdaptedDet.det_interp_datum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:17.073794+00:00
 -- url     : https://prove2.me/theorems/37dff47e-b367-43d9-a4e7-5e9f56dd35eb

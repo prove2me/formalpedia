@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_exists_emb_of_last
 -- name    : GlobalTheory.JR.GLift.exists_emb_of_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:45.732827+00:00
 -- url     : https://prove2.me/theorems/32f3c4f9-7ad6-4ecc-b2ad-15ed48ebc0b3

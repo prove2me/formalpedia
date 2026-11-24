@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PolynomialPrimeOverZeroHeight_proof_17c289546d57
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PolynomialPrimeOverZeroHeight_proof_17c289546d57
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:04:09.97036+00:00
 -- url     : https://prove2.me/theorems/e8c08591-ccb3-47c0-9639-885825c94f53

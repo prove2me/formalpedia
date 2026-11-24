@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_elementaryDivisors_exist_discretely_valued
 -- name    : GlobalTheory.InertZeta.elementaryDivisors_exist_discretely_valued
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:19:38.024734+00:00
 -- url     : https://prove2.me/theorems/a2ec7a2b-d6c5-47ac-8d0a-796b65a5ca8f

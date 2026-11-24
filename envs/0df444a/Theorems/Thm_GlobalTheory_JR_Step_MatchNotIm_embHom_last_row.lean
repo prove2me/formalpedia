@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_MatchNotIm_embHom_last_row
 -- name    : GlobalTheory.JR.Step.MatchNotIm.embHom_last_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:36:16.403968+00:00
 -- url     : https://prove2.me/theorems/48ee29d5-4bbd-4250-9ebe-9bfa1cb707aa

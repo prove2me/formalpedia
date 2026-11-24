@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtFacts_normE
 -- name    : GlobalTheory.JR.EtFacts.normE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:22:59.412538+00:00
 -- url     : https://prove2.me/theorems/f47b8120-1bcd-4af3-9650-e2d64a1ee697

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrreducibleGeneralizations_component_eq_closure
 -- name    : GlobalTheory.IrreducibleGeneralizations.component_eq_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:21:36.34821+00:00
 -- url     : https://prove2.me/theorems/4cfb4ff9-4156-49dd-8763-e1557d4c7093

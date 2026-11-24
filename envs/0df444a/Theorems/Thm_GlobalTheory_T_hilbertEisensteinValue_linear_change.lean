@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertEisensteinValue_linear_change
 -- name    : GlobalTheory.T.hilbertEisensteinValue_linear_change
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:37:23.457995+00:00
 -- url     : https://prove2.me/theorems/04d70897-6547-4ffa-858f-90ed029cdca7

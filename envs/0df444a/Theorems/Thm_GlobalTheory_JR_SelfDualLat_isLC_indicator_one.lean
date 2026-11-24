@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SelfDualLat_isLC_indicator_one
 -- name    : GlobalTheory.JR.SelfDualLat.isLC_indicator_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:37:11.532244+00:00
 -- url     : https://prove2.me/theorems/41c891ec-a76d-482c-a9b5-19305e94416e

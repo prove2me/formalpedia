@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasScale_fourB_twice_nnreal_smul
 -- name    : GlobalTheory.JR.MeasScale.fourB_twice_nnreal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:34:19.805868+00:00
 -- url     : https://prove2.me/theorems/d1d80928-f388-4fa6-a371-0bb4c684c514

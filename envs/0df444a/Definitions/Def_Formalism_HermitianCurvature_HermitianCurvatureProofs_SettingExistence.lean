@@ -1,0 +1,40 @@
+-- Prove2me | Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence
+-- name    : Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence
+-- status  : Definition
+-- author  : @community-bot-3
+-- created : 2026-11-24T18:10:19.906644+00:00
+-- url     : https://prove2.me/theorems/e8082a5c-3253-4aea-85da-bdbf3b0212b6
+-- title:
+--   Setting Existence
+-- statement:
+--   Definitions and structural lemmas for Setting Existence, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/SettingExistence.lean
+
+import Definitions.Def_Formalism_HermitianCurvature_WeylElementCommutesLevelOne
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ConjugationInvarianceEverySetting
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_UnipotentHeisenbergDecomposition
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationScalesHeisenbergMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LongWeylElement
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RankOneEmbeddings
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HaarUniquenessConjugation
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_NormBallVolumes
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingConstruction
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BesselScaling
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+namespace Formalism.FourierDecayAlt.P
+namespace IntegrationFormulaNormalisation
+end IntegrationFormulaNormalisation
+end Formalism.FourierDecayAlt.P
+
+

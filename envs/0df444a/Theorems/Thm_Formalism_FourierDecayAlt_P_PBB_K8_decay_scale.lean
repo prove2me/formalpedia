@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBB_K8_decay_scale
 -- name    : Formalism.FourierDecayAlt.P.PBB.K8.decay_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:02.502951+00:00
 -- url     : https://prove2.me/theorems/2eb56116-0a47-4391-9307-60da1fd89999

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HindsightGain_Uniform_Supplement_lemma_A_3
 -- name    : HindsightGain.Uniform.Supplement.lemma_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T19:04:36.540208+00:00
 -- url     : https://prove2.me/theorems/81569cfb-c99d-4b40-b628-831fb46aa007

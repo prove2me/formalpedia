@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_admissible_word_nil
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.admissible_word_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:55:55.482396+00:00
 -- url     : https://prove2.me/theorems/8b34ccaa-5d3f-4571-af8f-704e3d8ef5ca

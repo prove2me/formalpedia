@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FiniteSumLocalExpansion_gv_inv
 -- name    : Formalism.FourierDecayAlt.P.FiniteSumLocalExpansion.gv_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:04:18.770934+00:00
 -- url     : https://prove2.me/theorems/5c5dcc6b-8be1-4f1d-85fd-7e9092ed5748

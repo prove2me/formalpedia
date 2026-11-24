@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_levi_mul_zero
 -- name    : GlobalTheory.CompanionTheory.InertZeta.levi_mul_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:05:36.968821+00:00
 -- url     : https://prove2.me/theorems/454e1536-13d7-4071-b28e-05784f9a6fc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IterGain_step
 -- name    : GlobalTheory.IterGain.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:44.245792+00:00
 -- url     : https://prove2.me/theorems/7797f17c-70e0-4155-9533-80bd9b5747dc

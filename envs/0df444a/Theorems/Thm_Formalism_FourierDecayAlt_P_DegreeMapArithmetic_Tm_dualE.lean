@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DegreeMapArithmetic_Tm_dualE
 -- name    : Formalism.FourierDecayAlt.P.DegreeMapArithmetic.Tm_dualE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:13:07.042353+00:00
 -- url     : https://prove2.me/theorems/fc376b77-f7b7-4cc5-b1ad-d2d749ca0cd3

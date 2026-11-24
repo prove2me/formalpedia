@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_mul_starU
 -- name    : GlobalTheory.JR.HermInv.mul_starU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:33:39.088798+00:00
 -- url     : https://prove2.me/theorems/fdccbd66-db05-4cee-a551-7cf78f787cc5

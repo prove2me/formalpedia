@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_block_two_one_lower_zero
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.block_two_one_lower_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:05:57.545984+00:00
 -- url     : https://prove2.me/theorems/ff0afceb-e9ab-48a3-84ac-8f9e991b9538

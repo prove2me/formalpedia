@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SelfDualUniq_fourB_nnsmul
 -- name    : GlobalTheory.JR.SelfDualUniq.fourB_nnsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:37:23.350179+00:00
 -- url     : https://prove2.me/theorems/f714c4bc-3b26-4b55-bad5-0b8204cfb8e7

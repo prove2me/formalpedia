@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_psiK_add
 -- name    : GlobalTheory.JR.Et.psiK_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:03.552994+00:00
 -- url     : https://prove2.me/theorems/9f36abe3-2ce8-48fa-a3bf-eb08c63e576f

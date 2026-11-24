@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_galE_snd_eq_hcl_iff
 -- name    : Formalism.FrobeniusOrbits.galE_snd_eq_hcl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:22:39.90595+00:00
 -- url     : https://prove2.me/theorems/6a8b5549-bcac-4ef3-9c3d-81e31ca86ceb

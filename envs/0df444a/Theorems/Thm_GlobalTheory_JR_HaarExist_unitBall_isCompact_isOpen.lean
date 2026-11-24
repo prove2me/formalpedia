@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HaarExist_unitBall_isCompact_isOpen
 -- name    : GlobalTheory.JR.HaarExist.unitBall_isCompact_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:31:23.093793+00:00
 -- url     : https://prove2.me/theorems/24110aaf-9486-4900-b928-89ae595c91ab

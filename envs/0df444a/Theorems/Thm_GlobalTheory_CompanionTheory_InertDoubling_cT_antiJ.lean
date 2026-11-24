@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertDoubling_cT_antiJ
 -- name    : GlobalTheory.CompanionTheory.InertDoubling.cT_antiJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:01:52.72844+00:00
 -- url     : https://prove2.me/theorems/7cf51439-bc19-4e2c-87ee-72df6774b563

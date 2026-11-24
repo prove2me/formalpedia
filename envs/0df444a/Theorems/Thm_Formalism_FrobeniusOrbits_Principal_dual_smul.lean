@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_dual_smul
 -- name    : Formalism.FrobeniusOrbits.Principal.dual_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:14.432322+00:00
 -- url     : https://prove2.me/theorems/b0c1005f-e29b-4012-aa9b-df2193ee7fce

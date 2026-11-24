@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFamPos_hasSum_re
 -- name    : GlobalTheory.Hk.LFamPos.hasSum_re
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:36:48.626634+00:00
 -- url     : https://prove2.me/theorems/561965ec-fd43-4d20-ba44-197c433a4d59

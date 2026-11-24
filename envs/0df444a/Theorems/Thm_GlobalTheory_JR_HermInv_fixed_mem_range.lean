@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_fixed_mem_range
 -- name    : GlobalTheory.JR.HermInv.fixed_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:40.921444+00:00
 -- url     : https://prove2.me/theorems/a8d73e34-bf04-4b43-bdd6-1c864fe45d58

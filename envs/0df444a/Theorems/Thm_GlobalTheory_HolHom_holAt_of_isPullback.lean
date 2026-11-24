@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_holAt_of_isPullback
 -- name    : GlobalTheory.HolHom.holAt_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:18.738808+00:00
 -- url     : https://prove2.me/theorems/d06fe850-0e5a-4e74-aaeb-c2e6a6b72fe9

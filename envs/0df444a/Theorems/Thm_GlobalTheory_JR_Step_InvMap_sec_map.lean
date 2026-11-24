@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_InvMap_sec_map
 -- name    : GlobalTheory.JR.Step.InvMap.sec_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:35:46.485924+00:00
 -- url     : https://prove2.me/theorems/9e5f81c3-4726-468e-8851-9ccca80f40f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_exists_diag_of_complexStructure
 -- name    : GlobalTheory.HermSign.exists_diag_of_complexStructure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:30.189667+00:00
 -- url     : https://prove2.me/theorems/d13cb5bb-785e-4e11-9deb-68c276955a96

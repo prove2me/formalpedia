@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BorderedDeterminants_qdet_bE
 -- name    : Formalism.FourierDecayAlt.P.BorderedDeterminants.qdet_bE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:29:39.133238+00:00
 -- url     : https://prove2.me/theorems/ec68e2e1-bee6-4020-bd0d-8ae6913b5a82

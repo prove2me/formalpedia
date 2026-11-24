@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCount_v_det_smul
 -- name    : GlobalTheory.CompanionTheory.InertCount.v_det_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:01:29.395864+00:00
 -- url     : https://prove2.me/theorems/f255b7c8-3d4a-4901-a21d-d7778f0a1b0b

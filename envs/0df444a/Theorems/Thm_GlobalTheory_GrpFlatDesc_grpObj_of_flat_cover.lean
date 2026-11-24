@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpFlatDesc_grpObj_of_flat_cover
 -- name    : GlobalTheory.GrpFlatDesc.grpObj_of_flat_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:58:23.4818+00:00
 -- url     : https://prove2.me/theorems/fb2e8804-a70f-4517-b68c-2e330c7274fc

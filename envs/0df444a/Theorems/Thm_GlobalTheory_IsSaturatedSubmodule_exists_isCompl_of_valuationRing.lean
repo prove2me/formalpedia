@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSaturatedSubmodule_exists_isCompl_of_valuationRing
 -- name    : GlobalTheory.IsSaturatedSubmodule.exists_isCompl_of_valuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:22:05.893541+00:00
 -- url     : https://prove2.me/theorems/e7db71f7-515b-4a44-a731-8a230bba5c45

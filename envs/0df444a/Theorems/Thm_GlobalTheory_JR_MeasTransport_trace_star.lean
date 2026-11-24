@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasTransport_trace_star
 -- name    : GlobalTheory.JR.MeasTransport.trace_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:35:18.441693+00:00
 -- url     : https://prove2.me/theorems/956dea8a-4ebe-4604-bc90-95333f202d39

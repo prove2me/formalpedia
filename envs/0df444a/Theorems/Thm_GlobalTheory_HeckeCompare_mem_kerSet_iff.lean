@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_mem_kerSet_iff
 -- name    : GlobalTheory.HeckeCompare.mem_kerSet_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:37:36.985696+00:00
 -- url     : https://prove2.me/theorems/3677df90-b35b-4278-ae6a-143aac6ee6a2

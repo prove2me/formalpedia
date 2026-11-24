@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_ActEmbLift_embHom_mul_full_mul
 -- name    : GlobalTheory.JR.Step.ActEmbLift.embHom_mul_full_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:35:31.266071+00:00
 -- url     : https://prove2.me/theorems/90952bd3-d2f1-47ef-81e0-2bea636796a7

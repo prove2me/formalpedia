@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_InCC_opsum
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.InCC_opsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:27:50.4358+00:00
 -- url     : https://prove2.me/theorems/d55fa5e5-cabe-42ef-b507-a80065128d24

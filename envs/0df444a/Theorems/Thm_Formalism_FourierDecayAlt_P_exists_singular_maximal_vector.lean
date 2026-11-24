@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_exists_singular_maximal_vector
 -- name    : Formalism.FourierDecayAlt.P.exists_singular_maximal_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:52:47.946519+00:00
 -- url     : https://prove2.me/theorems/5e765000-cffc-4769-87fd-d6f99eeca787

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtDescent_isMonHom_of_grpPullback
 -- name    : GlobalTheory.ExtDescent.isMonHom_of_grpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:16:05.487969+00:00
 -- url     : https://prove2.me/theorems/0511a5c5-6e63-42d4-a69b-b074b94c4c47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_Swap_norm_eq_of_sub_lt
 -- name    : GlobalTheory.JR.LinDesc.Swap.norm_eq_of_sub_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:11.93935+00:00
 -- url     : https://prove2.me/theorems/648a8591-a9b9-476f-bfc4-58393613b79c

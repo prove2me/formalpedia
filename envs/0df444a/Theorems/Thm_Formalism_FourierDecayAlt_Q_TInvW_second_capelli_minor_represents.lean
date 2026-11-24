@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_second_capelli_minor_represents
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.second_capelli_minor_represents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:52:33.048813+00:00
 -- url     : https://prove2.me/theorems/4b7908d7-f0f0-4a30-8b9d-e14d74e480ba

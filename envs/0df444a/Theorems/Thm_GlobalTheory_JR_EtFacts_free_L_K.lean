@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtFacts_free_L_K
 -- name    : GlobalTheory.JR.EtFacts.free_L_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:03.307526+00:00
 -- url     : https://prove2.me/theorems/89bbd545-5506-4556-b896-3d3d4224a885

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_IsLAdicOf_ine_image
 -- name    : GlobalTheory.HeckeGal.IsLAdicOf.ine_image
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:14:10.86941+00:00
 -- url     : https://prove2.me/theorems/8ca5f839-51b1-4c7c-bf9d-25a772aa040f

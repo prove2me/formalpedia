@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_eL_vecMul_nfMat
 -- name    : GlobalTheory.JR.Step.eL_vecMul_nfMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:35:24.588976+00:00
 -- url     : https://prove2.me/theorems/59794a5d-baef-49c9-b1b8-91e1131ecce3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdditiveSeries_constantCoeff_pderiv_addOf
 -- name    : GlobalTheory.AdditiveSeries.constantCoeff_pderiv_addOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:53:25.744601+00:00
 -- url     : https://prove2.me/theorems/515826d7-b751-40b0-aed3-f46ce7f27e07

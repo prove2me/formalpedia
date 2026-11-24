@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyperplaneExt_extension_of_parts
 -- name    : GlobalTheory.HyperplaneExt.extension_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:13:38.247101+00:00
 -- url     : https://prove2.me/theorems/62722105-ab35-4f10-8586-61d6e098f607

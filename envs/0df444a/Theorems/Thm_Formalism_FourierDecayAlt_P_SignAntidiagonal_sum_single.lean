@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_sum_single
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.sum_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:05:06.870146+00:00
 -- url     : https://prove2.me/theorems/7bd0498d-f4e7-46cc-a8fd-8bb278d20aa5

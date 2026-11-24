@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_levi_ext
 -- name    : GlobalTheory.InertZeta.levi_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:19:58.60316+00:00
 -- url     : https://prove2.me/theorems/b9b383c8-5787-4c7f-a9cd-471d919f437d

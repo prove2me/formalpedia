@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_smallRank
 -- name    : GlobalTheory.CompanionTheory.InertZeta.smallRank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:03:38.595217+00:00
 -- url     : https://prove2.me/theorems/cc00d99a-696e-4a24-9891-20798db37ca5

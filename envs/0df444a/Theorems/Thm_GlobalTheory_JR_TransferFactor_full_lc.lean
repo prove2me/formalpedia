@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_TransferFactor_full_lc
 -- name    : GlobalTheory.JR.TransferFactor.full_lc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:37:12.88864+00:00
 -- url     : https://prove2.me/theorems/8a8fdb31-9970-4f0e-81d1-439bc5273bc7

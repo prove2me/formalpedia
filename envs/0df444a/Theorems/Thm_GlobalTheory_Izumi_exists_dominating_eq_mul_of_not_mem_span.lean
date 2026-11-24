@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Izumi_exists_dominating_eq_mul_of_not_mem_span
 -- name    : GlobalTheory.Izumi.exists_dominating_eq_mul_of_not_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:24:00.03259+00:00
 -- url     : https://prove2.me/theorems/264ae151-d271-4eda-a810-a464eb93ed24

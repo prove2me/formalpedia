@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_conjT_eq
 -- name    : GlobalTheory.JR.HermInv.conjT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:44.093351+00:00
 -- url     : https://prove2.me/theorems/d7549375-5e8c-468f-9e8a-d414a934d1cc

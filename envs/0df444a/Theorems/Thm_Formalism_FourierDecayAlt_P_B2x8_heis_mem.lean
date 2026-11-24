@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_heis_mem
 -- name    : Formalism.FourierDecayAlt.P.B2x8.heis_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:42:56.96082+00:00
 -- url     : https://prove2.me/theorems/7cb23843-833e-40e6-aebb-eb24befa6d02

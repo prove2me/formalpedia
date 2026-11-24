@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasTransport_map_selfDual
 -- name    : GlobalTheory.JR.MeasTransport.map_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:48.899338+00:00
 -- url     : https://prove2.me/theorems/d8f52a23-030a-4e29-93fa-04524a86bd04

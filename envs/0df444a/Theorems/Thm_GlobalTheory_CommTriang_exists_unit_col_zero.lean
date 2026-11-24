@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommTriang_exists_unit_col_zero
 -- name    : GlobalTheory.CommTriang.exists_unit_col_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:05.893695+00:00
 -- url     : https://prove2.me/theorems/c84324d1-27ee-46c2-a2a7-0beb9193854d

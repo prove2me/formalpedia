@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_TruncInt_isLocallyConstant_indicator
 -- name    : GlobalTheory.JR.TruncInt.isLocallyConstant_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:36:55.771808+00:00
 -- url     : https://prove2.me/theorems/8b3fe66c-525c-430d-a524-83c336d1cbf1

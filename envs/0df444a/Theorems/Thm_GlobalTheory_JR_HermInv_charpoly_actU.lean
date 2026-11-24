@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_charpoly_actU
 -- name    : GlobalTheory.JR.HermInv.charpoly_actU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:39.638258+00:00
 -- url     : https://prove2.me/theorems/e1d2f53a-dcc6-4415-975e-af3c2ba2b707

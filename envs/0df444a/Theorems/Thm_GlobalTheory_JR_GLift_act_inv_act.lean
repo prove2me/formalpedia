@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_act_inv_act
 -- name    : GlobalTheory.JR.GLift.act_inv_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:31:43.367801+00:00
 -- url     : https://prove2.me/theorems/617ddae0-00c0-4187-bf21-472c0bd425ff

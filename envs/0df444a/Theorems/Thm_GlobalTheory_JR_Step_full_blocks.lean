@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_full_blocks
 -- name    : GlobalTheory.JR.Step.full_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:37:55.35395+00:00
 -- url     : https://prove2.me/theorems/56f7c097-ee47-41fe-8f26-6c7b8e98c309

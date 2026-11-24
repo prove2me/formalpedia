@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_hilbertLatticeTwist_iff_lift
 -- name    : GlobalTheory.T.mem_hilbertLatticeTwist_iff_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:14:25.493447+00:00
 -- url     : https://prove2.me/theorems/47471182-7bca-45be-94a1-fdd539e793b2

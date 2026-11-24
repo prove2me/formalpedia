@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_hankel_mul_companion
 -- name    : GlobalTheory.JR.ImgSec.hankel_mul_companion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:10.398291+00:00
 -- url     : https://prove2.me/theorems/3e2164fc-5f51-4e3d-be82-4f8ddc758066

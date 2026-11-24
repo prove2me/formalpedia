@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rewrite_rho_action
 -- name    : Formalism.FourierDecayAlt.P.rewrite_rho_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:13:20.849032+00:00
 -- url     : https://prove2.me/theorems/ec4bfea2-b0dd-4c8d-8a89-01810910c3dd

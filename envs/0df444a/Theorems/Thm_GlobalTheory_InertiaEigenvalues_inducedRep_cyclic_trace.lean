@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaEigenvalues_inducedRep_cyclic_trace
 -- name    : GlobalTheory.InertiaEigenvalues.inducedRep_cyclic_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:36.959195+00:00
 -- url     : https://prove2.me/theorems/92ef8bcc-b0e6-407b-b630-6af912eff660

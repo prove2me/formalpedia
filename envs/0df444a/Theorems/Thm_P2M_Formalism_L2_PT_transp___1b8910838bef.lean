@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_PT_transp___1b8910838bef
 -- name    : P2M_Formalism_L2_PT_transp___1b8910838bef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:08:07.035848+00:00
 -- url     : https://prove2.me/theorems/ab538f13-f655-4b62-b904-b5d079f4f627

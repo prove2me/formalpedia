@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_radical_parametrisation
 -- name    : Formalism.FourierDecayAlt.P.radical_parametrisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:55:14.401799+00:00
 -- url     : https://prove2.me/theorems/3bcf1fad-17c4-40f7-9945-e80ff990516e

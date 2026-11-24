@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_mem_dual_iff
 -- name    : Formalism.FrobeniusOrbits.Principal.mem_dual_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:38:55.519735+00:00
 -- url     : https://prove2.me/theorems/329b996b-b547-4d72-a8e3-1a6efbea46a3

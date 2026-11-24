@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_FourUnit_norm_trace_le
 -- name    : GlobalTheory.JR.FourUnit.norm_trace_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:23:24.798932+00:00
 -- url     : https://prove2.me/theorems/f73f8eff-e75d-4f5f-9a67-f5a3f1779df1

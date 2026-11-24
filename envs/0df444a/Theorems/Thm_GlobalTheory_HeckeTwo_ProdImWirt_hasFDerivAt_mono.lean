@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_ProdImWirt_hasFDerivAt_mono
 -- name    : GlobalTheory.HeckeTwo.ProdImWirt.hasFDerivAt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:06:34.624799+00:00
 -- url     : https://prove2.me/theorems/990b1f6d-0e36-4ac0-9c79-d419fc588025

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoUnit_fTerm_unit_mul
 -- name    : GlobalTheory.HeckeTwoUnit.fTerm_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:15:28.246848+00:00
 -- url     : https://prove2.me/theorems/11cf5c07-245a-4e33-981c-075b7e459e14

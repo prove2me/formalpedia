@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DeterminantVectorSums_MM_apply
 -- name    : Formalism.FourierDecayAlt.P.DeterminantVectorSums.MM_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:32:56.776577+00:00
 -- url     : https://prove2.me/theorems/12386be6-721c-4a2f-b0e1-73c5523146f6

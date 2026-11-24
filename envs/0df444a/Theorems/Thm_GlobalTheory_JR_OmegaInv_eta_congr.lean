@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OmegaInv_eta_congr
 -- name    : GlobalTheory.JR.OmegaInv.eta_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:34:52.344277+00:00
 -- url     : https://prove2.me/theorems/24a9380b-ad45-49ba-881e-08ca6b8594de

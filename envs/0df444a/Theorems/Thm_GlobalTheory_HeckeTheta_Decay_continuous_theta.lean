@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_Decay_continuous_theta
 -- name    : GlobalTheory.HeckeTheta.Decay.continuous_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:12.852714+00:00
 -- url     : https://prove2.me/theorems/c6495bc5-9d90-4f9e-862f-c016ba066d3e
