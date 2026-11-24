@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_dual_smul
 -- name    : Formalism.HC.Der.kc_dual_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:10:26.561922+00:00
 -- url     : https://prove2.me/theorems/cbbc236a-7a4c-4f92-bbc8-5e8af014cc0a

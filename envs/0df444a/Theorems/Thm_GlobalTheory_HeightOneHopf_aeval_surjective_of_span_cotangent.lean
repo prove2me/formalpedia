@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightOneHopf_aeval_surjective_of_span_cotangent
 -- name    : GlobalTheory.HeightOneHopf.aeval_surjective_of_span_cotangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:16:29.489863+00:00
 -- url     : https://prove2.me/theorems/7d5550f8-7bc9-4811-be7c-62ae5e125462

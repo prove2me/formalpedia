@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_exists_pow_mem
 -- name    : GlobalTheory.UnitarySwap.exists_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:47:56.463588+00:00
 -- url     : https://prove2.me/theorems/33b4068c-9a21-485d-933e-49cda395bae8

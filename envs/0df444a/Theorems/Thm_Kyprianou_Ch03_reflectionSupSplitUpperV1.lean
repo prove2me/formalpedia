@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectionSupSplitUpperV1
 -- name    : Kyprianou.Ch03.reflectionSupSplitUpperV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T18:59:02.282969+00:00
 -- url     : https://prove2.me/theorems/dcc2cdfe-1a3d-4d3e-888b-f3509ffc7894

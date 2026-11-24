@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_posDirichlet_local
 -- name    : GlobalTheory.Mem.posDirichlet_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:25:00.079518+00:00
 -- url     : https://prove2.me/theorems/959bac10-68b4-4147-bed4-8ca31aa7ba6a

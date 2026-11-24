@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinPhaseSeminorm_norm_iteratedFDeriv_phase_le
 -- name    : GlobalTheory.LinPhaseSeminorm.norm_iteratedFDeriv_phase_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:07:21.294133+00:00
 -- url     : https://prove2.me/theorems/b149ca6e-bd76-4c79-ade8-b35cbbce751d

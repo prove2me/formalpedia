@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodExists_card_cmType
 -- name    : GlobalTheory.PeriodExists.card_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:43:40.391066+00:00
 -- url     : https://prove2.me/theorems/15c5ed93-9ceb-4c77-8eab-e4d6e2845a90

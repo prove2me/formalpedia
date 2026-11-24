@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_zero_discount_coefficient_match
 -- name    : Kyprianou.Ch08.StageB.p2m85_zero_discount_coefficient_match
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:11:27.204993+00:00
 -- url     : https://prove2.me/theorems/f1ba2ad0-aac3-4170-a1c3-bcb184b3a9c4

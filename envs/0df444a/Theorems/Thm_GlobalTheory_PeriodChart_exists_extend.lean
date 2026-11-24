@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_exists_extend
 -- name    : GlobalTheory.PeriodChart.exists_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:42:23.038555+00:00
 -- url     : https://prove2.me/theorems/c31dd613-6f6f-40ee-ba85-c0a3df89975f

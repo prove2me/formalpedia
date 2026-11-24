@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeToNormalVanishing_three_variables
 -- name    : GlobalTheory.PrimeToNormalVanishing.three_variables
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:34.260553+00:00
 -- url     : https://prove2.me/theorems/c47c59a6-b637-410e-8ef8-e66b640048c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointStepCompare_exists_eq_sum_eval
 -- name    : GlobalTheory.PointStepCompare.exists_eq_sum_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:50:34.518727+00:00
 -- url     : https://prove2.me/theorems/69d88dd2-a2df-47fc-8556-646ecf106201

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeDatum_exists_datum_of_selfDual
 -- name    : GlobalTheory.LatticeDatum.exists_datum_of_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:58:56.451884+00:00
 -- url     : https://prove2.me/theorems/61bacaaf-ce6b-4b08-b441-42966e47e47e

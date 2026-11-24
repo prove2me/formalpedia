@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pullbackAction_snd
 -- name    : GlobalTheory.pullbackAction_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:28:46.52247+00:00
 -- url     : https://prove2.me/theorems/b95da5e0-27fc-4cb5-a51f-cf1ed1a96d27

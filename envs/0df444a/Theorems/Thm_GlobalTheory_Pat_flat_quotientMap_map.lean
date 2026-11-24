@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_flat_quotientMap_map
 -- name    : GlobalTheory.Pat.flat_quotientMap_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:41:26.014397+00:00
 -- url     : https://prove2.me/theorems/75dc15ff-c75a-49d0-a3fe-87eff3de33f8

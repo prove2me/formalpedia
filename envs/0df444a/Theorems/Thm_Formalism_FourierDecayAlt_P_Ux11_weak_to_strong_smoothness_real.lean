@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux11_weak_to_strong_smoothness_real
 -- name    : Formalism.FourierDecayAlt.P.Ux11.weak_to_strong_smoothness_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:24:40.522799+00:00
 -- url     : https://prove2.me/theorems/3dd64053-a4d7-4361-b391-ece00683c5f2

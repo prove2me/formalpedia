@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitFrames_det_uMat
 -- name    : GlobalTheory.UnitFrames.det_uMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:21:22.769804+00:00
 -- url     : https://prove2.me/theorems/1efdb6f5-9305-40cb-93b6-d744377e111e

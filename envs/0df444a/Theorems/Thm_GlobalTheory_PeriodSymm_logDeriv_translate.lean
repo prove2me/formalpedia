@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodSymm_logDeriv_translate
 -- name    : GlobalTheory.PeriodSymm.logDeriv_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:45:56.263895+00:00
 -- url     : https://prove2.me/theorems/38cf1920-1dc1-4007-9738-75f64fef858c

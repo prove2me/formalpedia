@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_ptDer_iff_dualPoint
 -- name    : GlobalTheory.KS.ptDer_iff_dualPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:47.238806+00:00
 -- url     : https://prove2.me/theorems/cdac7f3d-eb75-4859-a260-b9da96dcf6d0

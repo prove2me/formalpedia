@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyNorm_gen_map
 -- name    : GlobalTheory.PolyNorm.gen_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:51:10.433009+00:00
 -- url     : https://prove2.me/theorems/d7b485b2-5199-4162-80fd-dd5a747a0aa4

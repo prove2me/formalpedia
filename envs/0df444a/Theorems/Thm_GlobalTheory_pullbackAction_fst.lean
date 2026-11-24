@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pullbackAction_fst
 -- name    : GlobalTheory.pullbackAction_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:28:10.309113+00:00
 -- url     : https://prove2.me/theorems/9335df4d-4988-49e6-acc2-3347cf33cd49

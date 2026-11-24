@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_shellSum_smul
 -- name    : GlobalTheory.SplitFlip.shellSum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:28:12.412424+00:00
 -- url     : https://prove2.me/theorems/c562b1ea-f7ec-4208-8e88-4e69a85aecff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestWeight_posDef_contract
 -- name    : GlobalTheory.LowestWeight.posDef_contract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:19:53.160355+00:00
 -- url     : https://prove2.me/theorems/847d315c-b01b-4c92-a292-236a621eb2ec

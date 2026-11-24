@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_specAction_fromSpec
 -- name    : GlobalTheory.specAction_fromSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:28:06.774806+00:00
 -- url     : https://prove2.me/theorems/e5193bcc-84ff-49d3-8d42-1da6148e1390

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PluriTaylor_taylor_two_unif
 -- name    : GlobalTheory.PluriTaylor.taylor_two_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:48:51.905006+00:00
 -- url     : https://prove2.me/theorems/92288c90-cd58-421b-901b-69375b99fdc5

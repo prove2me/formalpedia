@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCokernelInjective_relLength_map_eq_addVal_det
 -- name    : GlobalTheory.LengthCokernelInjective.relLength_map_eq_addVal_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:10.938803+00:00
 -- url     : https://prove2.me/theorems/a28001db-f6df-48d2-b6a0-b084e315ea5c

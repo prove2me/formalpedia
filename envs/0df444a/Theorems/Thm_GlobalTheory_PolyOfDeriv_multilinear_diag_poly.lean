@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyOfDeriv_multilinear_diag_poly
 -- name    : GlobalTheory.PolyOfDeriv.multilinear_diag_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:50:16.761385+00:00
 -- url     : https://prove2.me/theorems/6afc5856-300d-45eb-be32-4cfc1e245b13

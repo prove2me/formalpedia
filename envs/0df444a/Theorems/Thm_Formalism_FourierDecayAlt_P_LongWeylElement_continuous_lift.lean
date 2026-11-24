@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_continuous_lift
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.continuous_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:16:12.880263+00:00
 -- url     : https://prove2.me/theorems/6b15480d-dfe1-45a4-8a2c-934e4f9126c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_lowerBase_zeta
 -- name    : GlobalTheory.Moduli.LevelAction.lowerBase_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:25.165502+00:00
 -- url     : https://prove2.me/theorems/47a1d333-9d8f-45ef-9028-cfd13d53f865

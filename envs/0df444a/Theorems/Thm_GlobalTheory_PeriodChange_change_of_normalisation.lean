@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChange_change_of_normalisation
 -- name    : GlobalTheory.PeriodChange.change_of_normalisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:42:26.205484+00:00
 -- url     : https://prove2.me/theorems/852555a6-5eac-4981-9ffa-397b1d73281e

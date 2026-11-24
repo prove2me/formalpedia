@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitAvg_stab_le_add
 -- name    : GlobalTheory.OrbitAvg.stab_le_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:37:34.18506+00:00
 -- url     : https://prove2.me/theorems/e89750ba-4035-46e2-b8d6-9565a791c91f

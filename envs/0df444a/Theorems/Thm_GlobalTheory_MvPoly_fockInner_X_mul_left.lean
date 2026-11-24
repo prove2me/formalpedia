@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_fockInner_X_mul_left
 -- name    : GlobalTheory.MvPoly.fockInner_X_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:28:38.15961+00:00
 -- url     : https://prove2.me/theorems/57372b11-c1ca-41e2-9d68-948ebac7d948

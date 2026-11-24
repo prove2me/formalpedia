@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatBasisAt_basisAtEx
 -- name    : GlobalTheory.LatBasisAt.basisAtEx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:23.833655+00:00
 -- url     : https://prove2.me/theorems/718f2d7d-7512-4751-8525-e4276f215142

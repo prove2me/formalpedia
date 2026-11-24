@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_anti_comm_iff
 -- name    : GlobalTheory.PeriodChart.anti_comm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:42:14.838602+00:00
 -- url     : https://prove2.me/theorems/300f578f-c9d8-44f3-973a-f4040111617d

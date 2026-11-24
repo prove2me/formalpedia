@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ParabValues_ph_rat_mul_exp
 -- name    : GlobalTheory.Phase.ParabValues.ph_rat_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:43:43.758031+00:00
 -- url     : https://prove2.me/theorems/8694c25d-5eac-4455-9776-b582dddb3f14

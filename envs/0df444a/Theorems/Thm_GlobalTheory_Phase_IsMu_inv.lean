@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_IsMu_inv
 -- name    : GlobalTheory.Phase.IsMu.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:43:12.333995+00:00
 -- url     : https://prove2.me/theorems/71945896-4ec7-4f9a-8dac-f40e9ff062dc

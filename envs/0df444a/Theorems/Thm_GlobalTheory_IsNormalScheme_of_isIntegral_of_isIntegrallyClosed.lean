@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsNormalScheme_of_isIntegral_of_isIntegrallyClosed
 -- name    : GlobalTheory.IsNormalScheme.of_isIntegral_of_isIntegrallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:12:03.639832+00:00
 -- url     : https://prove2.me/theorems/4a8ae980-3bea-4023-9de0-dd1a8bdfaac0

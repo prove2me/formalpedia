@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyNorm_norm_all
 -- name    : GlobalTheory.PolyNorm.norm_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:50:55.106945+00:00
 -- url     : https://prove2.me/theorems/d21454f0-dc0e-4be5-b0b1-5c7fe01ef687

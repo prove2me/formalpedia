@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_not_inert_of_dvd
 -- name    : Formalism.BasicNotions.Host.not_inert_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:31:32.786542+00:00
 -- url     : https://prove2.me/theorems/a8f1328a-db6e-4d7c-8cb1-13d3ec6c8bc0

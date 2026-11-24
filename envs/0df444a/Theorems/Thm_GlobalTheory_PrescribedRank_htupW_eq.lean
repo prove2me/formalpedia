@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrescribedRank_htupW_eq
 -- name    : GlobalTheory.PrescribedRank.htupW_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:54:37.479925+00:00
 -- url     : https://prove2.me/theorems/806932c9-c129-489b-9df0-f0ab7cb1cb2e

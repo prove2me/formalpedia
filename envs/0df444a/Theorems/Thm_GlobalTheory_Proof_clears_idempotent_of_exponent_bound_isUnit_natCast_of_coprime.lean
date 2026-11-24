@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_clears_idempotent_of_exponent_bound_isUnit_natCast_of_coprime
 -- name    : GlobalTheory.Proof.clears_idempotent_of_exponent_bound.isUnit_natCast_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:58:00.040802+00:00
 -- url     : https://prove2.me/theorems/8787f40f-9514-4703-bbd0-72c8151465b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regularised_bracket_expansion
 -- name    : Formalism.FourierDecayAlt.P.B6.regularised_bracket_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:57:19.191959+00:00
 -- url     : https://prove2.me/theorems/15ff2793-da37-468a-b2b6-3f54037884cd

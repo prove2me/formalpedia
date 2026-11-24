@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_mom_sec_inv
 -- name    : GlobalTheory.JR.NormalFormL.mom_sec_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:12.105854+00:00
 -- url     : https://prove2.me/theorems/d2aaacd5-0c50-4639-8456-509cb748ea50

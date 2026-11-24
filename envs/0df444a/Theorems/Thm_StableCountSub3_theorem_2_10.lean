@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableCountSub3_theorem_2_10
 -- name    : StableCountSub3.theorem_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:48:33.460308+00:00
 -- url     : https://prove2.me/theorems/5094851d-c712-4c12-a7a7-204a0d820d9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_Cmpl_exists_lim_of_cauchy
 -- name    : GlobalTheory.NormEq.Cmpl.exists_lim_of_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:35:13.244356+00:00
 -- url     : https://prove2.me/theorems/d0b7b4d6-90ad-466f-87fc-2e6b28147ca3

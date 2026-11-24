@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormResidue_exists_mul_involution_add_one_mem_pow
 -- name    : GlobalTheory.NormResidue.exists_mul_involution_add_one_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:35:53.932801+00:00
 -- url     : https://prove2.me/theorems/882f56ef-cc7b-4f2d-8ecf-3f7e696a0ae7

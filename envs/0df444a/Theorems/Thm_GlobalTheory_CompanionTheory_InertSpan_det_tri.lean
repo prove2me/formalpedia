@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_det_tri
 -- name    : GlobalTheory.CompanionTheory.InertSpan.det_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:03:54.097946+00:00
 -- url     : https://prove2.me/theorems/2fbb5045-b780-4d9a-ab9c-6c6738a9bca6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosDefFT_integral_prod_nonneg
 -- name    : GlobalTheory.PosDefFT.integral_prod_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:49:48.903661+00:00
 -- url     : https://prove2.me/theorems/b51445ec-0532-436b-b2cd-9d3e4e462e09

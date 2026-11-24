@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_Hpk_Z
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.Hpk_Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:16:21.133063+00:00
 -- url     : https://prove2.me/theorems/1c891bd9-ea42-4ee6-a6af-36ae5dcc08dd

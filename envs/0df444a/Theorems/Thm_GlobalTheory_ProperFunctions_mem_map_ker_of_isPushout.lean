@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_mem_map_ker_of_isPushout
 -- name    : GlobalTheory.ProperFunctions.mem_map_ker_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:56:23.3219+00:00
 -- url     : https://prove2.me/theorems/bc9db7f0-2156-4291-a69f-21250ae64c89

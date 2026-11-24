@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_kap_kap
 -- name    : GlobalTheory.PeriodOnto.kap_kap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:44:05.503979+00:00
 -- url     : https://prove2.me/theorems/688c4b7a-016b-411f-bc02-c916aed1205f

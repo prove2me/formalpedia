@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowChange_sc_zero_comp
 -- name    : GlobalTheory.PowChange.sc_zero_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:51:49.549793+00:00
 -- url     : https://prove2.me/theorems/151f29e3-d9ab-464d-9ebc-bcabae38e474

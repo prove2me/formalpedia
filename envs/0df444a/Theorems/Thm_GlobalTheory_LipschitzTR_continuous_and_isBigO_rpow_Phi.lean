@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_continuous_and_isBigO_rpow_Phi
 -- name    : GlobalTheory.LipschitzTR.continuous_and_isBigO_rpow_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:10:50.942538+00:00
 -- url     : https://prove2.me/theorems/59fbda8c-28da-4871-ad2d-d00fd1fede27

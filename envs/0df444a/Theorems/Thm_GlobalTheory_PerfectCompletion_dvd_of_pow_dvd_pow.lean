@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectCompletion_dvd_of_pow_dvd_pow
 -- name    : GlobalTheory.PerfectCompletion.dvd_of_pow_dvd_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:41:06.709804+00:00
 -- url     : https://prove2.me/theorems/adbbdf97-cac7-4a65-a4f0-5780e0551c04

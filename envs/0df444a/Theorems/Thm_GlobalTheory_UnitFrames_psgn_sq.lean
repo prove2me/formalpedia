@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitFrames_psgn_sq
 -- name    : GlobalTheory.UnitFrames.psgn_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:20:33.333804+00:00
 -- url     : https://prove2.me/theorems/709eb3e7-a19c-4a76-92f8-b867fbc93e13

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerronKernel_hinv
 -- name    : GlobalTheory.PerronKernel.hinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:43:22.846396+00:00
 -- url     : https://prove2.me/theorems/a2a521b1-d009-4de7-9aac-08d92e1e0ef0

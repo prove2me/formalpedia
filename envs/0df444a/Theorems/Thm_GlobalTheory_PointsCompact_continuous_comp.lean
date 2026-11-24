@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointsCompact_continuous_comp
 -- name    : GlobalTheory.PointsCompact.continuous_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:51:16.302806+00:00
 -- url     : https://prove2.me/theorems/91d80182-ec28-4148-a462-f88c74d9c961

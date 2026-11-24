@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Basic_exists_chart
 -- name    : GlobalTheory.MomOne.Basic.exists_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:26:16.839281+00:00
 -- url     : https://prove2.me/theorems/4facb64f-aeb6-4ad4-a2dc-8b216055f9a0

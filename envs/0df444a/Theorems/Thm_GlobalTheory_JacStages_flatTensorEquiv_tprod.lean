@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacStages_flatTensorEquiv_tprod
 -- name    : GlobalTheory.JacStages.flatTensorEquiv_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:40:08.720246+00:00
 -- url     : https://prove2.me/theorems/70bef8e1-86f9-42c6-85ba-1c31dbce1ee4

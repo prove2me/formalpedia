@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonzeroIsotropic_exists_nonzero_isotropic
 -- name    : GlobalTheory.NonzeroIsotropic.exists_nonzero_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:35:02.310613+00:00
 -- url     : https://prove2.me/theorems/57101b73-3d04-4f75-aeb9-c705f9551b86

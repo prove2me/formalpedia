@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_re_corner_pos
 -- name    : GlobalTheory.LineCos.re_corner_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:04:07.408389+00:00
 -- url     : https://prove2.me/theorems/26d8e808-3483-4205-9c74-b9851c6d18b0

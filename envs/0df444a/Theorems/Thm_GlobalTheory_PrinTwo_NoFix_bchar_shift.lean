@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_NoFix_bchar_shift
 -- name    : GlobalTheory.PrinTwo.NoFix.bchar_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:55:43.52438+00:00
 -- url     : https://prove2.me/theorems/a3c6734d-ca54-4f5d-848a-80a939bc058a

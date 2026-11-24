@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_isTestRep_tensorRep
 -- name    : GlobalTheory.JR.WeilProd.isTestRep_tensorRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:37:19.438283+00:00
 -- url     : https://prove2.me/theorems/5f1be6cd-c32d-40ac-9c68-3ff11e7a64cc

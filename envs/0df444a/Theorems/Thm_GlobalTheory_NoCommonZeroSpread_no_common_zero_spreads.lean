@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoCommonZeroSpread_no_common_zero_spreads
 -- name    : GlobalTheory.NoCommonZeroSpread.no_common_zero_spreads
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:34:38.366466+00:00
 -- url     : https://prove2.me/theorems/652561c4-865d-4f23-8254-f90fd58457ca

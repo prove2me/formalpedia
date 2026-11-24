@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerMove_rmul_mem_GG
 -- name    : GlobalTheory.PerMove.rmul_mem_GG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:41:12.41669+00:00
 -- url     : https://prove2.me/theorems/e74eae7b-f76c-48cd-8d70-9e8e534fb44c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_gal_conj
 -- name    : Formalism.HC.Der.kc_gal_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:16:05.749529+00:00
 -- url     : https://prove2.me/theorems/40a32011-569d-459f-bf71-96859dc15712

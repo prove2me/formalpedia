@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_vanishing
 -- name    : GlobalTheory.PairOp.vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:40:47.60679+00:00
 -- url     : https://prove2.me/theorems/baff90cb-e06b-4d3e-8964-799f468438b3

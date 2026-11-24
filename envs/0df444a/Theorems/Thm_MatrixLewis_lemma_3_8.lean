@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixLewis_lemma_3_8
 -- name    : MatrixLewis.lemma_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T03:10:09.717558+00:00
 -- url     : https://prove2.me/theorems/1609089f-92c6-4959-b542-26935c01dd17

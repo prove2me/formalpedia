@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_FiveVar_val_det_le
 -- name    : GlobalTheory.LocalQuad.FiveVar.val_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:13:38.3218+00:00
 -- url     : https://prove2.me/theorems/ac5e1f1d-64d3-46b3-a96a-5dac148d8504

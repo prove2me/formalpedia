@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_exists_prime
 -- name    : Formalism.HC.Der.kc_exists_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:26:57.19934+00:00
 -- url     : https://prove2.me/theorems/bcf47e5f-06f9-400a-a767-2dc22b59eb22

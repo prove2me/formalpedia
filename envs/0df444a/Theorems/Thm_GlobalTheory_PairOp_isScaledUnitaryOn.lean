@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_isScaledUnitaryOn
 -- name    : GlobalTheory.PairOp.isScaledUnitaryOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:11.749558+00:00
 -- url     : https://prove2.me/theorems/025108ce-773a-4a01-b4d1-e81a247308d9

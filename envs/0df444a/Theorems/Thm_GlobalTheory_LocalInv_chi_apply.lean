@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_chi_apply
 -- name    : GlobalTheory.LocalInv.chi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:23:56.752459+00:00
 -- url     : https://prove2.me/theorems/de95332b-7355-4fe6-b8bb-1bef1c780ee5

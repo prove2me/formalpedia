@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.capelli_singular
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-24T19:30:53.633671+00:00
+-- url     : https://prove2.me/submissions/10a38412-61a2-4088-a8d9-af88e9dd1838
+
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CommonEigenvectors
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HighestWeightPolynomials
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CapelliAbstractCharacter
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_StarSumLemmas
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BorderedDeterminants
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BranchingSystems
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ClosureOperators
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WeightMonotonicity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_StrictBoxOrder
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_IrreducibleCapelliModules
+import Theorems.Thm_Formalism_FourierDecayAlt_P_exists_singular_maximal_vector
+import Theorems.Thm_Formalism_FourierDecayAlt_P_qr_capSing_of
+import Theorems.Thm_Formalism_FourierDecayAlt_P_singular_dominant
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Formalism.FourierDecayAlt
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Qr.CapSing := qr_capSing_of singular_dominant exists_singular_maximal_vector
+end Formalism.FourierDecayAlt.P

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_trace_eq_of_pos
 -- name    : GlobalTheory.PeriodCompare.trace_eq_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:42:38.368932+00:00
 -- url     : https://prove2.me/theorems/92e632f3-86c9-4e09-b53e-4bcfd417492b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicUnitBall_exists_norm_le_pow
 -- name    : GlobalTheory.PadicUnitBall.exists_norm_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:39:45.421101+00:00
 -- url     : https://prove2.me/theorems/dc5fee1c-bb37-400e-b378-d4658631e04f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Relab_relab_good
 -- name    : GlobalTheory.Relab.relab_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:22:01.74481+00:00
 -- url     : https://prove2.me/theorems/23ce9e0b-9b38-4c2a-b07d-23f9f9b707c8

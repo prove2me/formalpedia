@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NG_IsLabelOf_at_gen
 -- name    : Formalism.L2.NG.IsLabelOf.at_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:10:09.511565+00:00
 -- url     : https://prove2.me/theorems/b074161a-e47a-42d2-90f8-4ae0c2505578

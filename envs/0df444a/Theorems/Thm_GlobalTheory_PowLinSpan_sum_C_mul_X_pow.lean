@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowLinSpan_sum_C_mul_X_pow
 -- name    : GlobalTheory.PowLinSpan.sum_C_mul_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:52:50.053551+00:00
 -- url     : https://prove2.me/theorems/59711c51-62c0-4e5e-9f76-19eeadb4c2f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorInt_columns_integral
 -- name    : GlobalTheory.MinorInt.columns_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:25:31.082692+00:00
 -- url     : https://prove2.me/theorems/48cd00f8-1f47-427e-b8ac-74022bca3e1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KWeightMajor_norm_identity
 -- name    : GlobalTheory.CompanionTheory.KWeightMajor.norm_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:24:37.873465+00:00
 -- url     : https://prove2.me/theorems/a7b52b70-14c2-4a79-8373-3d96cb68ee3b

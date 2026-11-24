@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesNormal_dvd_of_pow_dvd
 -- name    : GlobalTheory.PowerSeriesNormal.dvd_of_pow_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:53:54.135627+00:00
 -- url     : https://prove2.me/theorems/b096e96b-2bf1-47ae-bf82-4a57557c1d41

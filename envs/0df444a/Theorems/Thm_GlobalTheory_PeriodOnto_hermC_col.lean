@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_hermC_col
 -- name    : GlobalTheory.PeriodOnto.hermC_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:42:36.121589+00:00
 -- url     : https://prove2.me/theorems/cb482ccf-63cb-47eb-a8f7-96253c07e2e5

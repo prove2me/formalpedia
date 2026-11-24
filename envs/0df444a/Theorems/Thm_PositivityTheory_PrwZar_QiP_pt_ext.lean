@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PrwZar_QiP_pt_ext
 -- name    : PositivityTheory.PrwZar.QiP.pt_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:03:19.885809+00:00
 -- url     : https://prove2.me/theorems/540f3fae-be93-4253-960f-817196f1c7d0

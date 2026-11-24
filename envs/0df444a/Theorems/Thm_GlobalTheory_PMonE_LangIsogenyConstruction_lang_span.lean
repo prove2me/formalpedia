@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LangIsogenyConstruction_lang_span
 -- name    : GlobalTheory.PMonE.LangIsogenyConstruction.lang_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:38:40.278268+00:00
 -- url     : https://prove2.me/theorems/f9cf911d-70e6-4d0e-a4de-d5d4ce841718

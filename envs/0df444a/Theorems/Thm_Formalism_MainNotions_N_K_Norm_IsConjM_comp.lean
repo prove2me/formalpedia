@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_IsConjM_comp
 -- name    : Formalism.MainNotions.N.K.Norm.IsConjM.comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:26:34.304793+00:00
 -- url     : https://prove2.me/theorems/d91164dc-694e-4232-bb99-840d3d7224ca

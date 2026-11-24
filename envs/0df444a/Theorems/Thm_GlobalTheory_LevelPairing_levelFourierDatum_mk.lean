@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_levelFourierDatum_mk
 -- name    : GlobalTheory.LevelPairing.levelFourierDatum_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:03:21.986334+00:00
 -- url     : https://prove2.me/theorems/2d1037bf-6e8b-4617-a6a5-1cb08fcbd81f

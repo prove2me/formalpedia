@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_PfB_hostEOverF
 -- name    : Formalism.HermitianLattices.StabilizerLevels.PfB.hostEOverF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:13:19.552055+00:00
 -- url     : https://prove2.me/theorems/6a9e6282-8c09-4d96-9bfc-3fdb617c519f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonoEigen_exists_vec
 -- name    : GlobalTheory.MonoEigen.exists_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:27:46.989468+00:00
 -- url     : https://prove2.me/theorems/3ed8366e-ffda-46ba-bc42-c063c8136a51

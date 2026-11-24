@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_colSub_prodMinors
 -- name    : GlobalTheory.MinorFrame.colSub_prodMinors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:26:32.919348+00:00
 -- url     : https://prove2.me/theorems/60f808fc-ca0b-4a08-ab72-2db0cd946765

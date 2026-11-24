@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyOfDeriv_taylor_of_chain
 -- name    : GlobalTheory.PolyOfDeriv.taylor_of_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:50:09.619845+00:00
 -- url     : https://prove2.me/theorems/b04e7aeb-d984-4a99-830f-34944f62206e

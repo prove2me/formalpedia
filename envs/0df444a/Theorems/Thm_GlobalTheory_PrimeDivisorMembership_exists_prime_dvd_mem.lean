@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeDivisorMembership_exists_prime_dvd_mem
 -- name    : GlobalTheory.PrimeDivisorMembership.exists_prime_dvd_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:53:47.97084+00:00
 -- url     : https://prove2.me/theorems/520e292d-d4a6-4c22-9da5-1d3a6e486643

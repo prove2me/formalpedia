@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Calc_ph_mul
 -- name    : GlobalTheory.Phase.Calc.ph_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:43:35.041668+00:00
 -- url     : https://prove2.me/theorems/06f30fed-25f7-4a1f-aa41-d15faec607d9

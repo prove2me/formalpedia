@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_Frame_l_eq_zero
 -- name    : GlobalTheory.Pat.Frame.l_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:41:33.995099+00:00
 -- url     : https://prove2.me/theorems/db7110ea-d629-4e61-938e-f86f9379d45a

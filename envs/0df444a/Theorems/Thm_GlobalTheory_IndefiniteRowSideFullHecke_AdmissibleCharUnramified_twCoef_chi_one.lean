@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AdmissibleCharUnramified_twCoef_chi_one
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AdmissibleCharUnramified.twCoef_chi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:26:35.271804+00:00
 -- url     : https://prove2.me/theorems/2a6bddc3-0158-4c8c-80a0-890e536bf242

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_mid_ge
 -- name    : GlobalTheory.CompanionTheory.InertSpan.mid_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:04:48.894511+00:00
 -- url     : https://prove2.me/theorems/6db016b4-9b7b-4d6a-bc5d-47bf4349dede

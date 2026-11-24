@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_good_mono_prod
 -- name    : CCRuleCW.good_mono_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:36:51.650827+00:00
 -- url     : https://prove2.me/theorems/a7e4f9d5-613f-41b8-950c-a48cc64ba5f1

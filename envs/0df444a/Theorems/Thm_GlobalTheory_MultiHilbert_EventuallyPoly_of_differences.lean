@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_EventuallyPoly_of_differences
 -- name    : GlobalTheory.MultiHilbert.EventuallyPoly.of_differences
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:29:04.943048+00:00
 -- url     : https://prove2.me/theorems/d168adf0-1fda-4fa2-b93f-3809a9a61e0b

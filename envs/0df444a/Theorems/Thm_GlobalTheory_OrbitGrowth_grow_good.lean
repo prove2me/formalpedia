@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitGrowth_grow_good
 -- name    : GlobalTheory.OrbitGrowth.grow_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:36:53.715478+00:00
 -- url     : https://prove2.me/theorems/bb58bbfe-ce41-411c-85fb-738f6b03b9e6

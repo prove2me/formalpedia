@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_lower_upper_block_product
 -- name    : Formalism.FourierDecayAlt.P.NFx2.lower_upper_block_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:17:27.457707+00:00
 -- url     : https://prove2.me/theorems/b5693200-7a57-4255-ab21-8c464c0bdf01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_of_cover
 -- name    : GlobalTheory.IsAffineQuotient.of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:27:18.688909+00:00
 -- url     : https://prove2.me/theorems/94db3109-0bf6-4bb7-b989-36ab6a45548d

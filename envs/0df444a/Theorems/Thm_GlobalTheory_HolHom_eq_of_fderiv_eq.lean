@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_eq_of_fderiv_eq
 -- name    : GlobalTheory.HolHom.eq_of_fderiv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:49.022623+00:00
 -- url     : https://prove2.me/theorems/f59ac768-3104-4676-bd7e-6343ca04e167

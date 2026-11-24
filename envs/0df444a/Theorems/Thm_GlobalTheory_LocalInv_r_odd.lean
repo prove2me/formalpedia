@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_r_odd
 -- name    : GlobalTheory.LocalInv.r_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:24:10.276836+00:00
 -- url     : https://prove2.me/theorems/87976bab-9d4f-4421-a0b7-21ae2eb22aab

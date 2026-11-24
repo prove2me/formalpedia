@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_norm_adjugate_le_one
 -- name    : GlobalTheory.PMonE.norm_adjugate_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:40:22.236811+00:00
 -- url     : https://prove2.me/theorems/541c5a98-c6ed-42bc-9302-7dcf49a475b0

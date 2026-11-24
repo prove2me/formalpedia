@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormLe_main
 -- name    : GlobalTheory.NormLe.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:36:36.721427+00:00
 -- url     : https://prove2.me/theorems/883a5c05-9a17-41c3-b553-3d8711d97761

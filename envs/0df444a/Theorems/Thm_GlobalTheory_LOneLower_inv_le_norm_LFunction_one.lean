@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LOneLower_inv_le_norm_LFunction_one
 -- name    : GlobalTheory.LOneLower.inv_le_norm_LFunction_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:55:54.954628+00:00
 -- url     : https://prove2.me/theorems/881a64cb-7b64-48e3-8648-2efc44906920

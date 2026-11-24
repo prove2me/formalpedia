@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDominant_fromSpecStalk_genericPoint
 -- name    : GlobalTheory.isDominant_fromSpecStalk_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:28:25.773394+00:00
 -- url     : https://prove2.me/theorems/98f1c767-8836-4f9c-a648-a889357fb9c3

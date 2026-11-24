@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ParabVirt_sum_fibres
 -- name    : GlobalTheory.ParabVirt.sum_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:41:17.879492+00:00
 -- url     : https://prove2.me/theorems/26f983a9-affc-46c7-9028-35ff6a927ddd

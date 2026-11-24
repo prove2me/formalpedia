@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevQuot_invariant_descends
 -- name    : GlobalTheory.LevQuot.invariant_descends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:03:07.431094+00:00
 -- url     : https://prove2.me/theorems/79d92e5f-45f7-4570-9cfb-6bcf951970bc

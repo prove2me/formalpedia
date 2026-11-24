@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointQuot_comp_eq_of_invariant
 -- name    : GlobalTheory.PointQuot.comp_eq_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:49:50.120507+00:00
 -- url     : https://prove2.me/theorems/ba49ab20-2d79-40cf-8a26-783fea537bb0

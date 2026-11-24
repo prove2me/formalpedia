@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesCoeffSum_coeff_X_mul_part
 -- name    : GlobalTheory.PowerSeriesCoeffSum.coeff_X_mul_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:52:24.338865+00:00
 -- url     : https://prove2.me/theorems/ba800342-6128-44e0-ac55-0fec2e44968e

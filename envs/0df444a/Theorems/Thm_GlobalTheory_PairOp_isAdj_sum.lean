@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_isAdj_sum
 -- name    : GlobalTheory.PairOp.isAdj_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:11.667194+00:00
 -- url     : https://prove2.me/theorems/5fd257f3-52d2-4e5c-a456-79b704237c9f

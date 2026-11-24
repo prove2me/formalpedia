@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_exists_matrix
 -- name    : GlobalTheory.IsLatticeEmb.exists_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:52:27.624807+00:00
 -- url     : https://prove2.me/theorems/c89d6871-0f35-43f9-82d3-0809fa88ee82

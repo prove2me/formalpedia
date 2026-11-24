@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulFinite_locallyQuasiFinite_of_cover
 -- name    : GlobalTheory.MulFinite.locallyQuasiFinite_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:14:13.185851+00:00
 -- url     : https://prove2.me/theorems/72a6222e-1adf-41e3-9f4c-1c809c8b77f1

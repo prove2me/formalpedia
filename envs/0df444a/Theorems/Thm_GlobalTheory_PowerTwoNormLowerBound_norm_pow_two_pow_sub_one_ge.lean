@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerTwoNormLowerBound_norm_pow_two_pow_sub_one_ge
 -- name    : GlobalTheory.PowerTwoNormLowerBound.norm_pow_two_pow_sub_one_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:54:03.578365+00:00
 -- url     : https://prove2.me/theorems/1d005f50-8dc5-421d-82da-b0aebd7be751

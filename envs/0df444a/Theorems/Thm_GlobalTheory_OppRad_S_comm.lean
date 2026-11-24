@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OppRad_S_comm
 -- name    : GlobalTheory.OppRad.S_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:40:05.688599+00:00
 -- url     : https://prove2.me/theorems/1eadff34-4247-4f3f-a105-f23c13240801

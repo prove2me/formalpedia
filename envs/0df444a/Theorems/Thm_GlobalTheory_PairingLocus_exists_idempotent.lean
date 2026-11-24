@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingLocus_exists_idempotent
 -- name    : GlobalTheory.PairingLocus.exists_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:41:02.501647+00:00
 -- url     : https://prove2.me/theorems/dabd2bdb-6940-4bc3-a89c-99f865115e87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_per_move
 -- name    : GlobalTheory.per_move
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:44:02.922682+00:00
 -- url     : https://prove2.me/theorems/3046c775-872b-450a-a1a8-5bb8a8d455a7

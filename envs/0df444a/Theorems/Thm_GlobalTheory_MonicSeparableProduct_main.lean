@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonicSeparableProduct_main
 -- name    : GlobalTheory.MonicSeparableProduct.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:27:44.437626+00:00
 -- url     : https://prove2.me/theorems/39fefd95-d265-4359-8334-13e1aad01ae7

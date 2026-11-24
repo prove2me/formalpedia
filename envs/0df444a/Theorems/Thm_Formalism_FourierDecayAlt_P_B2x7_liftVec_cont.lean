@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x7_liftVec_cont
 -- name    : Formalism.FourierDecayAlt.P.B2x7.liftVec_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:58:18.48368+00:00
 -- url     : https://prove2.me/theorems/32df34a7-014c-4f6f-b1e5-87075f190093

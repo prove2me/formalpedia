@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulUnramified_eq_one_of_pow_eq_one
 -- name    : GlobalTheory.MulUnramified.eq_one_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:28:33.108781+00:00
 -- url     : https://prove2.me/theorems/5413a3be-0ec4-4daa-956f-9659b370b376

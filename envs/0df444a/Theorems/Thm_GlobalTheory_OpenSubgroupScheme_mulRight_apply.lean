@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenSubgroupScheme_mulRight_apply
 -- name    : GlobalTheory.OpenSubgroupScheme.mulRight_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:40:20.301248+00:00
 -- url     : https://prove2.me/theorems/31fa521a-6da4-467c-9a42-40ac22ce4a1b

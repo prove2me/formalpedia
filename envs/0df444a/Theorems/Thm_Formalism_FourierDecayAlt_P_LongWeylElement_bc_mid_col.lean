@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_bc_mid_col
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.bc_mid_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:16:11.240713+00:00
 -- url     : https://prove2.me/theorems/94ac6ba5-2f33-4cbc-8175-df0e4943e63b

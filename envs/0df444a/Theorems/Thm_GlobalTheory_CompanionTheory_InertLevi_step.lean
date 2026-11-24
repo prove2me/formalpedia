@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLevi_step
 -- name    : GlobalTheory.CompanionTheory.InertLevi.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:04:33.935804+00:00
 -- url     : https://prove2.me/theorems/37ccb550-7389-4e8d-aea7-6395cd00d7d1

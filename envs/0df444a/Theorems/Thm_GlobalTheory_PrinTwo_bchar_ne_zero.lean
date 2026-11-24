@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_bchar_ne_zero
 -- name    : GlobalTheory.PrinTwo.bchar_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:55:26.910596+00:00
 -- url     : https://prove2.me/theorems/75f97a02-6df4-4840-a63a-d6e11fc05146

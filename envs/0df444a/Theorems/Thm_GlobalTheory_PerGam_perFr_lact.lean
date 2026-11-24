@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerGam_perFr_lact
 -- name    : GlobalTheory.PerGam.perFr_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:18:27.642805+00:00
 -- url     : https://prove2.me/theorems/de32dfa3-16e9-4156-a98d-7d868a9aea2b

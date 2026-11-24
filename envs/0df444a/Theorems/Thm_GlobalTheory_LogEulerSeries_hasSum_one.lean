@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogEulerSeries_hasSum_one
 -- name    : GlobalTheory.LogEulerSeries.hasSum_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:18:54.811791+00:00
 -- url     : https://prove2.me/theorems/9923e0d4-af16-4bb7-9216-203858739f89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrowth_norm_LFunction_le
 -- name    : GlobalTheory.LGrowth.norm_LFunction_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:55:54.275102+00:00
 -- url     : https://prove2.me/theorems/67303691-0d3d-4224-8aa7-9c399d775203

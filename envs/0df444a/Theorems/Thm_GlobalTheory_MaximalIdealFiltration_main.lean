@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaximalIdealFiltration_main
 -- name    : GlobalTheory.MaximalIdealFiltration.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:20:43.920689+00:00
 -- url     : https://prove2.me/theorems/da0fed3a-62db-48e0-81e9-2e40034667c5

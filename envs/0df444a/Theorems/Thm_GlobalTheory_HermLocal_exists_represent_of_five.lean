@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_exists_represent_of_five
 -- name    : GlobalTheory.HermLocal.exists_represent_of_five
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:57:07.670916+00:00
 -- url     : https://prove2.me/theorems/df3da836-9c23-4869-a56c-a1d049c00845

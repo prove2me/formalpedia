@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_om_zero_right
 -- name    : GlobalTheory.Phase.Doubling.om_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:14.359296+00:00
 -- url     : https://prove2.me/theorems/3d39b26e-f120-4084-88c8-83cfb3c00842

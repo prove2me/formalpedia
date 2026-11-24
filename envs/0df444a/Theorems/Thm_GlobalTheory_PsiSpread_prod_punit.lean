@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiSpread_prod_punit
 -- name    : GlobalTheory.PsiSpread.prod_punit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:57:06.33067+00:00
 -- url     : https://prove2.me/theorems/73ae7d68-25bb-4ea8-9b26-42ad1189e0e8

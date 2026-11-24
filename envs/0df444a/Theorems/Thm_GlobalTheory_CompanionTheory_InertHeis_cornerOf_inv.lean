@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_cornerOf_inv
 -- name    : GlobalTheory.CompanionTheory.InertHeis.cornerOf_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:48:44.256348+00:00
 -- url     : https://prove2.me/theorems/4a458fac-ee3c-4cee-b8f5-1b27a60ddad6

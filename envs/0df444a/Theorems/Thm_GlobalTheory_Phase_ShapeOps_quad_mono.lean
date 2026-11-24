@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ShapeOps_quad_mono
 -- name    : GlobalTheory.Phase.ShapeOps.quad_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:45:04.627742+00:00
 -- url     : https://prove2.me/theorems/d80abdd9-b9ae-4c02-a781-2cc235c117f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEig_fst_epsMul
 -- name    : GlobalTheory.DerivEig.fst_epsMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:39.180958+00:00
 -- url     : https://prove2.me/theorems/02c00583-27a0-487c-b1e1-4e8e175cbc5d

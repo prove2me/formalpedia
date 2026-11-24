@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_le_pull_iff
 -- name    : GlobalTheory.PeriodCompare.le_pull_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:43:27.513727+00:00
 -- url     : https://prove2.me/theorems/d073143d-6fbb-4e40-9a4d-e7a143ab444d

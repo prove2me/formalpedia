@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_rowM_add
 -- name    : GlobalTheory.Phase.Doubling.rowM_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:43:26.563554+00:00
 -- url     : https://prove2.me/theorems/ab774f76-d92d-411d-8382-460d76f26db9

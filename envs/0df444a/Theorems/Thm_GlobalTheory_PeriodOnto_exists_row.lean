@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_exists_row
 -- name    : GlobalTheory.PeriodOnto.exists_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:42:35.098229+00:00
 -- url     : https://prove2.me/theorems/5327134e-911e-4bd0-9e50-ed8a019d00ef

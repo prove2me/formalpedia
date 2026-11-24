@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_integral_main
 -- name    : GlobalTheory.Lin.PsiToPi.integral_main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:19.257651+00:00
 -- url     : https://prove2.me/theorems/7b4e39ff-0ba4-4328-af53-5d1e11336918

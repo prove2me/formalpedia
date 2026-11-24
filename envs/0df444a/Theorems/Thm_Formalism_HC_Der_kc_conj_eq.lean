@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_conj_eq
 -- name    : Formalism.HC.Der.kc_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:36.471995+00:00
 -- url     : https://prove2.me/theorems/655de9fb-3c32-499e-8513-a83fee56475c

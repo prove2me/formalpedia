@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeDivisorOfPolynomialValue_exists_eval_mul_ne
 -- name    : GlobalTheory.PrimeDivisorOfPolynomialValue.exists_eval_mul_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:53:44.653954+00:00
 -- url     : https://prove2.me/theorems/1744b8de-e510-4d8b-b04e-b2d6dbe91700

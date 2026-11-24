@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_lintegral_sq_eq_ofReal
 -- name    : GlobalTheory.PlancherelZero.lintegral_sq_eq_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:49:08.426331+00:00
 -- url     : https://prove2.me/theorems/6ac60632-6f49-42c8-9b05-5610e93e1e81

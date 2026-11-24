@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDominant_spMap_of_isFractionRing
 -- name    : GlobalTheory.isDominant_spMap_of_isFractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:15.403806+00:00
 -- url     : https://prove2.me/theorems/065d91e7-dcd0-49b1-8ad9-acc83de70d97

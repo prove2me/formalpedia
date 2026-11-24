@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_isOpenImmersion_generic_dvr
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.isOpenImmersion_generic_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:29:51.553233+00:00
 -- url     : https://prove2.me/theorems/6ffb7b26-0492-4bc6-abc7-9fb5b0b31101

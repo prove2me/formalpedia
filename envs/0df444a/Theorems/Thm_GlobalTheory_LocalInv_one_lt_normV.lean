@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_one_lt_normV
 -- name    : GlobalTheory.LocalInv.one_lt_normV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:23:23.808889+00:00
 -- url     : https://prove2.me/theorems/548e8f06-179b-48d4-b967-4bedd59681fb

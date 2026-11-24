@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_Inh_pull_stdLat
 -- name    : GlobalTheory.PhiGam.Inh.pull_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:44:50.730038+00:00
 -- url     : https://prove2.me/theorems/8a5acf53-ffc3-433a-884c-a5fa45e65c50

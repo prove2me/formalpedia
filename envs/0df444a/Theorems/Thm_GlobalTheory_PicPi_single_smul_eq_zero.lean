@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PicPi_single_smul_eq_zero
 -- name    : GlobalTheory.PicPi.single_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:11.418188+00:00
 -- url     : https://prove2.me/theorems/f72854f7-fc72-4dd3-999c-472e8b8d7e90

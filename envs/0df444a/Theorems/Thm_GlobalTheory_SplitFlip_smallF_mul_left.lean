@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_smallF_mul_left
 -- name    : GlobalTheory.SplitFlip.smallF_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:28:41.14782+00:00
 -- url     : https://prove2.me/theorems/9bedd92f-485e-4815-b4d9-56d48dfdeb77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_germ_res
 -- name    : GlobalTheory.PrimeSection.germ_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:03.271829+00:00
 -- url     : https://prove2.me/theorems/6b9bf84f-dfec-42d9-8355-040540092e10

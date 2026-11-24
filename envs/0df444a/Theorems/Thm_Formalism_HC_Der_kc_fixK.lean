@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_fixK
 -- name    : Formalism.HC.Der.kc_fixK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:52:19.198145+00:00
 -- url     : https://prove2.me/theorems/ebeaab24-7014-45f4-a244-be3e11c012f5

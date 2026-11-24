@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PluriTaylor_re_holomorphicLinearTaylorCoeff_sum_eq
 -- name    : GlobalTheory.PluriTaylor.re_holomorphicLinearTaylorCoeff_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:03:45.360445+00:00
 -- url     : https://prove2.me/theorems/839660ba-3c26-4410-8a63-07a90d61b099

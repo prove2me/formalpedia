@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviDesc_Krylov_krylov_conj_eq_of_charpoly_eq
 -- name    : GlobalTheory.LeviDesc.Krylov.krylov_conj_eq_of_charpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:02:27.327971+00:00
 -- url     : https://prove2.me/theorems/e67aa4f4-1280-4cc4-8360-1a50e87e1963

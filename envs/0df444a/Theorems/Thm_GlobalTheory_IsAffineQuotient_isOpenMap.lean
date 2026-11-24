@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_isOpenMap
 -- name    : GlobalTheory.IsAffineQuotient.isOpenMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:18.143971+00:00
 -- url     : https://prove2.me/theorems/9f75be38-c97b-423f-9a46-712bc422110e

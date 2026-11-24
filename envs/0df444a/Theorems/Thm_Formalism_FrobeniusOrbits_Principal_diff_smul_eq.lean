@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_diff_smul_eq
 -- name    : Formalism.FrobeniusOrbits.Principal.diff_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:39:18.584907+00:00
 -- url     : https://prove2.me/theorems/b65e7ce4-960d-4c66-b1b1-6cbea1350019

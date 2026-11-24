@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeElement_algebraMap_atPrime_injective
 -- name    : GlobalTheory.PrimeElement.algebraMap_atPrime_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:53:35.944806+00:00
 -- url     : https://prove2.me/theorems/c3740b33-7478-4316-af7b-cfb908ea3516

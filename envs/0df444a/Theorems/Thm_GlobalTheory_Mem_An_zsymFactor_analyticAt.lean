@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_zsymFactor_analyticAt
 -- name    : GlobalTheory.Mem.An.zsymFactor_analyticAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:21:38.410061+00:00
 -- url     : https://prove2.me/theorems/ccbd31b2-9ada-4fcb-afcb-4433a253aad7

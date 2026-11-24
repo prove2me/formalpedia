@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_norm_mul_apply_le_one
 -- name    : GlobalTheory.PMonE.norm_mul_apply_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:40:18.5528+00:00
 -- url     : https://prove2.me/theorems/dd78a8f8-ad6d-400d-8ae8-8c8258462fa1

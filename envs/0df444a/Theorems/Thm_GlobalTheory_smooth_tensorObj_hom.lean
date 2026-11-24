@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smooth_tensorObj_hom
 -- name    : GlobalTheory.smooth_tensorObj_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:28:38.243839+00:00
 -- url     : https://prove2.me/theorems/4dc48bb4-14d0-4081-b447-bccb4705c73e

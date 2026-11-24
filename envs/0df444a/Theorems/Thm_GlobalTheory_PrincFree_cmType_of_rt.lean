@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrincFree_cmType_of_rt
 -- name    : GlobalTheory.PrincFree.cmType_of_rt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:22:12.34671+00:00
 -- url     : https://prove2.me/theorems/f6c8708a-e32b-46bd-9dd1-c9a2efde42d1

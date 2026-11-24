@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_r_add_le
 -- name    : GlobalTheory.LocalInv.r_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:25:05.902684+00:00
 -- url     : https://prove2.me/theorems/cbcc1b40-02ac-4599-bbea-8e036abfbc90

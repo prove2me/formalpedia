@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalNorm_exists_eq_sq_add_of_notMem
 -- name    : GlobalTheory.LocalNorm.exists_eq_sq_add_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:14:21.351695+00:00
 -- url     : https://prove2.me/theorems/0e5ee460-577d-4449-85ce-bc27658fd231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_weylMatrix_mul_apply
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.weylMatrix_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:03:03.892618+00:00
 -- url     : https://prove2.me/theorems/ce7ecb31-2ee8-4760-8883-a6030a8940e5

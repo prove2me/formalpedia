@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_RowSpan_spanEq_holds
 -- name    : GlobalTheory.InertZeta.RowSpan.spanEq_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:39.865898+00:00
 -- url     : https://prove2.me/theorems/1b630466-abc2-4076-95bf-bd6e79db44f6

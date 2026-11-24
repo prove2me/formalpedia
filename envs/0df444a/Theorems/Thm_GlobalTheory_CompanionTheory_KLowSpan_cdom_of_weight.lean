@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KLowSpan_cdom_of_weight
 -- name    : GlobalTheory.CompanionTheory.KLowSpan.cdom_of_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:33.570963+00:00
 -- url     : https://prove2.me/theorems/b315b9ae-03c4-422a-90f8-d94e7c93194d

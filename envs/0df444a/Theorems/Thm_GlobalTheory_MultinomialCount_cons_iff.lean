@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultinomialCount_cons_iff
 -- name    : GlobalTheory.MultinomialCount.cons_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:29:37.073006+00:00
 -- url     : https://prove2.me/theorems/2b851b02-4c8c-4eeb-a481-b2d237cda341

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_moore_step_eq_prod
 -- name    : GlobalTheory.PMonE.moore_step_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:38.816121+00:00
 -- url     : https://prove2.me/theorems/66e1c303-c015-4f09-bf46-3f073054fce2

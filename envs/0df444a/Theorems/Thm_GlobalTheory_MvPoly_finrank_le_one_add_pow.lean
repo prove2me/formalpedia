@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_finrank_le_one_add_pow
 -- name    : GlobalTheory.MvPoly.finrank_le_one_add_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:29:15.017071+00:00
 -- url     : https://prove2.me/theorems/82e2b50a-de17-448c-95a0-ec7bf9e4b8c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerIdealSurjectivity_exists_span_sub_mem_sq
 -- name    : GlobalTheory.PowerIdealSurjectivity.exists_span_sub_mem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:52:58.360931+00:00
 -- url     : https://prove2.me/theorems/4ef7a867-a345-4c2c-af81-d043107c521b

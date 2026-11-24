@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteBirationalNear_isIso_morphismRestrict_of_isNormal
 -- name    : GlobalTheory.FiniteBirationalNear.isIso_morphismRestrict_of_isNormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:28:31.17336+00:00
 -- url     : https://prove2.me/theorems/37318c75-92ed-4900-b4b2-84ad10353405

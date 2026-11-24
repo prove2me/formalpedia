@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowChange_nonzeroLocus_constMul
 -- name    : GlobalTheory.PowChange.nonzeroLocus_constMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:51:57.181881+00:00
 -- url     : https://prove2.me/theorems/66f1a84e-6bd6-4ec2-afde-87a767008b78

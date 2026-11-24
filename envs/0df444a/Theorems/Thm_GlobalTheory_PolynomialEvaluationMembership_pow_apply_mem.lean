@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolynomialEvaluationMembership_pow_apply_mem
 -- name    : GlobalTheory.PolynomialEvaluationMembership.pow_apply_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:49:36.572966+00:00
 -- url     : https://prove2.me/theorems/3b9e8ccc-b084-4367-9c58-a36080bb50d6

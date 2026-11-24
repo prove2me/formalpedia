@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_sh_le_sh
 -- name    : GlobalTheory.PhiGam.sh_le_sh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:44:44.394271+00:00
 -- url     : https://prove2.me/theorems/d7ff1e96-515a-4ffd-bc1f-b056c1d47a53

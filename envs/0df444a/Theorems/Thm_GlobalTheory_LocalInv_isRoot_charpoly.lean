@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_isRoot_charpoly
 -- name    : GlobalTheory.LocalInv.isRoot_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:46.896205+00:00
 -- url     : https://prove2.me/theorems/2915b436-42dd-4dc6-8f8e-069067583449

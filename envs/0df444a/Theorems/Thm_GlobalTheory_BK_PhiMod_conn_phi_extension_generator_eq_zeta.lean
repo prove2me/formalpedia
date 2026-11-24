@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_conn_phi_extension_generator_eq_zeta
 -- name    : GlobalTheory.BK.PhiMod.conn_phi_extension_generator_eq_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:42:35.132215+00:00
 -- url     : https://prove2.me/theorems/c1f010a2-9900-436d-bd9e-c5feac3ed02e

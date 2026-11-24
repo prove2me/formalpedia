@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowUnif_isHolFamily_const
 -- name    : GlobalTheory.PowUnif.isHolFamily_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:53:08.180696+00:00
 -- url     : https://prove2.me/theorems/612f7e9a-2906-4374-a446-d31a7126b277

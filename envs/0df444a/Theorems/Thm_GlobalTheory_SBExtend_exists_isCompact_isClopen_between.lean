@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBExtend_exists_isCompact_isClopen_between
 -- name    : GlobalTheory.SBExtend.exists_isCompact_isClopen_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:29:07.415907+00:00
 -- url     : https://prove2.me/theorems/684dfb4e-2681-4d1f-aa7d-8f6928149555

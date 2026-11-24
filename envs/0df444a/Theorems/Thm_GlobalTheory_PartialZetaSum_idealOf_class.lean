@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialZetaSum_idealOf_class
 -- name    : GlobalTheory.PartialZetaSum.idealOf_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:41:28.425869+00:00
 -- url     : https://prove2.me/theorems/412a1904-7d91-4df5-b110-e4d4252fbf20

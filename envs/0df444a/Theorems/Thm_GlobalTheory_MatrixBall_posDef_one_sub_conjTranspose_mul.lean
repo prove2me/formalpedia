@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixBall_posDef_one_sub_conjTranspose_mul
 -- name    : GlobalTheory.MatrixBall.posDef_one_sub_conjTranspose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:20:56.939272+00:00
 -- url     : https://prove2.me/theorems/12f3aea3-798c-4300-9f77-eebaf59609fd

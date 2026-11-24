@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mum_exists_mul_eq_mul_sq_of_faithfullyFlat_of_map_isPrime
 -- name    : GlobalTheory.Mum.exists_mul_eq_mul_sq_of_faithfullyFlat_of_map_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:29:26.377194+00:00
 -- url     : https://prove2.me/theorems/ab39b8ba-a6aa-4019-a762-c4b6fe6aab54

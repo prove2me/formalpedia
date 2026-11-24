@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_bijective_of_isIso_appTop
 -- name    : GlobalTheory.ProperFunctions.bijective_of_isIso_appTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:16.245697+00:00
 -- url     : https://prove2.me/theorems/ea521e3a-48f9-4299-b3a1-9e5a8d487620

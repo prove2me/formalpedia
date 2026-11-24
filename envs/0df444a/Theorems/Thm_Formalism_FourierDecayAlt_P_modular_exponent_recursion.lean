@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_modular_exponent_recursion
 -- name    : Formalism.FourierDecayAlt.P.modular_exponent_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:40:52.552026+00:00
 -- url     : https://prove2.me/theorems/d0e1cbe4-c5dc-471b-9a3d-efa6faccba9b

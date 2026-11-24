@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingLevels_comm_eq
 -- name    : GlobalTheory.PairingLevels.comm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:41:09.219566+00:00
 -- url     : https://prove2.me/theorems/4f099759-26d8-44d4-bd5f-513599a7d9bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2b2_PfN_series_eq
 -- name    : Formalism.HermitianLattices.GL2b2.PfN.series_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:48:34.260582+00:00
 -- url     : https://prove2.me/theorems/ddf1525f-b952-46e6-b496-d1f71ce8cbb3

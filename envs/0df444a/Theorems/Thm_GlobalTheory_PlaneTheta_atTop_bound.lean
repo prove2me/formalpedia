@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaneTheta_atTop_bound
 -- name    : GlobalTheory.PlaneTheta.atTop_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:49:17.142231+00:00
 -- url     : https://prove2.me/theorems/66e2d0cc-e861-4d62-b114-e3d744365d85

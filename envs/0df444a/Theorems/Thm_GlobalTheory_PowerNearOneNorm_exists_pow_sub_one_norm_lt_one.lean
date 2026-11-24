@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerNearOneNorm_exists_pow_sub_one_norm_lt_one
 -- name    : GlobalTheory.PowerNearOneNorm.exists_pow_sub_one_norm_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:52:24.570888+00:00
 -- url     : https://prove2.me/theorems/ea71e66b-3067-4ef6-89cb-8a32125b54ac

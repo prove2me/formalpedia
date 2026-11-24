@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrdMul_coeff_mem_of_mul
 -- name    : GlobalTheory.OrdMul.coeff_mem_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:19.099472+00:00
 -- url     : https://prove2.me/theorems/59d2c4ef-ae0e-403e-8571-7f70d4bcdac3

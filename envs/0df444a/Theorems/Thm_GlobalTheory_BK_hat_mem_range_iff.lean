@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_hat_mem_range_iff
 -- name    : GlobalTheory.BK.hat_mem_range_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:10:49.26389+00:00
 -- url     : https://prove2.me/theorems/80f3ec78-cb5b-4969-900c-3be98d5ecf5b

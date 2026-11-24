@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_mem_M_of_mem_Man
 -- name    : GlobalTheory.BK.PhiMod.mem_M_of_mem_Man
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:52:34.36166+00:00
 -- url     : https://prove2.me/theorems/f22b09f7-cb91-4e3e-95ad-46548ad5c027

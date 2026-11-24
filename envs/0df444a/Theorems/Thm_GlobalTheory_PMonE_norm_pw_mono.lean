@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_norm_pw_mono
 -- name    : GlobalTheory.PMonE.norm_pw_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:40:12.176474+00:00
 -- url     : https://prove2.me/theorems/a79b99a0-e1d0-4c93-80d3-6af2d316e5aa

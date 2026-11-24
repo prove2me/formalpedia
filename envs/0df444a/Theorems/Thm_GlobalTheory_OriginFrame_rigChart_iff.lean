@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OriginFrame_rigChart_iff
 -- name    : GlobalTheory.OriginFrame.rigChart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:23.028805+00:00
 -- url     : https://prove2.me/theorems/36b4575a-c904-40f4-aecb-4ccab45b9556

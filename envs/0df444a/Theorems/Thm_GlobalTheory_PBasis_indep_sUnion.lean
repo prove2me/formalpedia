@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PBasis_indep_sUnion
 -- name    : GlobalTheory.PBasis.indep_sUnion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:38:37.156279+00:00
 -- url     : https://prove2.me/theorems/bd64d040-d216-4b23-a8e5-1b083cf42092

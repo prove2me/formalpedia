@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_iteratedOperator_smooth
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.iteratedOperator_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:34:44.435792+00:00
 -- url     : https://prove2.me/theorems/06710458-fc4b-4bc5-bdd8-207af6c78984

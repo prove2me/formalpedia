@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSections_gs_secEquiv
 -- name    : GlobalTheory.PowSections.gs_secEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:55:51.229194+00:00
 -- url     : https://prove2.me/theorems/bae2fbfd-f56b-444a-9f1b-7cc461b1ce09

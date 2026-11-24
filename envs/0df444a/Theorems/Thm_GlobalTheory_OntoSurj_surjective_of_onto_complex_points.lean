@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OntoSurj_surjective_of_onto_complex_points
 -- name    : GlobalTheory.OntoSurj.surjective_of_onto_complex_points
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:39.895082+00:00
 -- url     : https://prove2.me/theorems/fdf5fa0e-0b7f-4297-b62f-c474a7e61093

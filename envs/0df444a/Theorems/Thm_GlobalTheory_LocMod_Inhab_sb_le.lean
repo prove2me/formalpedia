@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_sb_le
 -- name    : GlobalTheory.LocMod.Inhab.sb_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:58.052847+00:00
 -- url     : https://prove2.me/theorems/208b3103-93c6-4af3-a5ea-35a8db38276d

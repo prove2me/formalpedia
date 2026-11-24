@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_addVal_det_of_injective
 -- name    : GlobalTheory.NormVal.addVal_det_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:40.216785+00:00
 -- url     : https://prove2.me/theorems/913d4fad-3fad-4f22-8e2c-c4fc99546e4c

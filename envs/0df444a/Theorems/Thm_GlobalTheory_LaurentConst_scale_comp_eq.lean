@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_scale_comp_eq
 -- name    : GlobalTheory.LaurentConst.scale_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:01:35.736979+00:00
 -- url     : https://prove2.me/theorems/79bffac7-d9a1-4b78-b668-966a81f89291

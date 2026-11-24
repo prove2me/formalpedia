@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearlyPrimitive_norm_factorial_inv_le
 -- name    : GlobalTheory.NearlyPrimitive.norm_factorial_inv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:32:07.628299+00:00
 -- url     : https://prove2.me/theorems/8729048f-abe3-4a82-878c-086b0842b1df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_conj_mul_self
 -- name    : Formalism.HC.Der.kc_conj_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:04.943885+00:00
 -- url     : https://prove2.me/theorems/e71acd40-ea97-4648-b160-452c035b794e

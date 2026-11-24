@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_subgroup_closed
 -- name    : Formalism.FourierDecayAlt.P.heisenberg_subgroup_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:43:11.492794+00:00
 -- url     : https://prove2.me/theorems/d681b228-abd3-449f-874b-925a4b377c55

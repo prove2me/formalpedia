@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PartialZeta_finite_units
 -- name    : GlobalTheory.Mem.PartialZeta.finite_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:22:51.141988+00:00
 -- url     : https://prove2.me/theorems/271005d6-9b7e-4b75-b412-6f61a6233206

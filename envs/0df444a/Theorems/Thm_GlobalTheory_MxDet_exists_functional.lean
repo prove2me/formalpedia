@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MxDet_exists_functional
 -- name    : GlobalTheory.MxDet.exists_functional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:30:19.556899+00:00
 -- url     : https://prove2.me/theorems/191881de-e127-43c3-8446-ed09b2a4ee83

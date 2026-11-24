@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChange_period_change
 -- name    : GlobalTheory.PeriodChange.period_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:42:39.432179+00:00
 -- url     : https://prove2.me/theorems/f409f597-7f96-4fdf-bb6c-d551aebdac92

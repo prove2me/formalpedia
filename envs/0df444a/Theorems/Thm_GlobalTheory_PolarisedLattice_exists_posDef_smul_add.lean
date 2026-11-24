@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolarisedLattice_exists_posDef_smul_add
 -- name    : GlobalTheory.PolarisedLattice.exists_posDef_smul_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:49:52.26524+00:00
 -- url     : https://prove2.me/theorems/7d0d4422-0370-4855-a18c-e3549e286ad4

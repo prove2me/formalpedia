@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChangingCache_UpperBound_theorem_5_1
 -- name    : ChangingCache.UpperBound.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:00:50.771089+00:00
 -- url     : https://prove2.me/theorems/6f45d03a-9785-43c4-ab1e-0df03cc86fe5

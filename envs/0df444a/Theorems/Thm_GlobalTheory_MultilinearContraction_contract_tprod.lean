@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultilinearContraction_contract_tprod
 -- name    : GlobalTheory.MultilinearContraction.contract_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:43:02.108956+00:00
 -- url     : https://prove2.me/theorems/9b66e6a7-7b53-4994-95a9-ea58182f1193

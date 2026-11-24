@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ShapeOps_intM_nsmul
 -- name    : GlobalTheory.Phase.ShapeOps.intM_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:44:38.691998+00:00
 -- url     : https://prove2.me/theorems/cf54cc3b-c041-47c4-83ca-dc7b41fbaff5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagDifferent_conj_rt
 -- name    : GlobalTheory.DiagDifferent.conj_rt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:25:12.965582+00:00
 -- url     : https://prove2.me/theorems/975b06eb-dbfb-4b6c-bdf7-adb6eba7583a

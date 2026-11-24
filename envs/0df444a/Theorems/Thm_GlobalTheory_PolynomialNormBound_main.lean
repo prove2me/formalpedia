@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolynomialNormBound_main
 -- name    : GlobalTheory.PolynomialNormBound.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:49:47.344949+00:00
 -- url     : https://prove2.me/theorems/230add42-9f7b-4dcf-9cc9-0ba3ebc229eb

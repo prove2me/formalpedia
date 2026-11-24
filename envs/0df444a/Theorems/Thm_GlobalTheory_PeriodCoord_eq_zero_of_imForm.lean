@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_eq_zero_of_imForm
 -- name    : GlobalTheory.PeriodCoord.eq_zero_of_imForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:44:13.286026+00:00
 -- url     : https://prove2.me/theorems/8f41912a-d54d-48a9-bc45-175aae472fbe

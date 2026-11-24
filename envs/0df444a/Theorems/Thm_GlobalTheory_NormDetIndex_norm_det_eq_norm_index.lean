@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormDetIndex_norm_det_eq_norm_index
 -- name    : GlobalTheory.NormDetIndex.norm_det_eq_norm_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:34:26.609272+00:00
 -- url     : https://prove2.me/theorems/7630a55e-405c-48e4-8616-a338940960c8

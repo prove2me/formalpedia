@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_cornerOf_mul
 -- name    : GlobalTheory.CompanionTheory.InertHeis.cornerOf_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:48:45.311437+00:00
 -- url     : https://prove2.me/theorems/f5472132-092b-4a40-9955-8da8b1629465

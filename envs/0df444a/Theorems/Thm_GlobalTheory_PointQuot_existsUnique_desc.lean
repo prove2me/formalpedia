@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointQuot_existsUnique_desc
 -- name    : GlobalTheory.PointQuot.existsUnique_desc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:49:58.287795+00:00
 -- url     : https://prove2.me/theorems/17b0c230-37aa-4660-b91e-4cbed280ebf5

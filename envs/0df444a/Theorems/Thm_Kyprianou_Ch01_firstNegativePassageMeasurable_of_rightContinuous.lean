@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_firstNegativePassageMeasurable_of_rightContinuous
 -- name    : Kyprianou.Ch01.firstNegativePassageMeasurable_of_rightContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T19:19:54.578082+00:00
 -- url     : https://prove2.me/theorems/00728185-0a12-4ffc-95d6-25c8c7250e7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_UnusedSlot33_HK_gen_top
 -- name    : Formalism.MainNotions.UnusedSlot33.HK.gen_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:29:59.291819+00:00
 -- url     : https://prove2.me/theorems/9afbb347-3aae-4e3c-b053-89d0937d29e5

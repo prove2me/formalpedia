@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrincipalLogDeriv_one_sub_ne_zero
 -- name    : GlobalTheory.PrincipalLogDeriv.one_sub_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:55:33.761723+00:00
 -- url     : https://prove2.me/theorems/64110216-febe-4a28-a0c8-c7a016aaf86b

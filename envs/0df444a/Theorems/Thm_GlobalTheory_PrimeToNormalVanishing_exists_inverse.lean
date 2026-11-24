@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeToNormalVanishing_exists_inverse
 -- name    : GlobalTheory.PrimeToNormalVanishing.exists_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:09.158705+00:00
 -- url     : https://prove2.me/theorems/f7eb9424-7611-4544-b352-02e73710f6ed

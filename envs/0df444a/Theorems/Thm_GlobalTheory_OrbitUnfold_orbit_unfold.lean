@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitUnfold_orbit_unfold
 -- name    : GlobalTheory.OrbitUnfold.orbit_unfold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:38:39.073796+00:00
 -- url     : https://prove2.me/theorems/d73637a3-edef-4f29-b9c9-499eb7bb640c

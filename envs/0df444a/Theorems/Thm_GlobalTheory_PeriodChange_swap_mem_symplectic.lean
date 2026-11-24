@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChange_swap_mem_symplectic
 -- name    : GlobalTheory.PeriodChange.swap_mem_symplectic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:42:49.219381+00:00
 -- url     : https://prove2.me/theorems/2cb1e8fe-9501-4be5-b62d-1b7f70cd9ba3

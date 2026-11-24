@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_exists_unit_eq_res
 -- name    : GlobalTheory.PrimeSection.exists_unit_eq_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:28:28.482829+00:00
 -- url     : https://prove2.me/theorems/671602df-f81c-43a5-a66f-d9cbb1bdf77e

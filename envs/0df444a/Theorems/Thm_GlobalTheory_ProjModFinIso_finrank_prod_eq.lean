@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjModFinIso_finrank_prod_eq
 -- name    : GlobalTheory.ProjModFinIso.finrank_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:55:04.374745+00:00
 -- url     : https://prove2.me/theorems/cc16cd0c-9bda-46ab-a00a-6bb8f537a142

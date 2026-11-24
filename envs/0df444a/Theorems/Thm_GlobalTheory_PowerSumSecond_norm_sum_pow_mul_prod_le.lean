@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSumSecond_norm_sum_pow_mul_prod_le
 -- name    : GlobalTheory.PowerSumSecond.norm_sum_pow_mul_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:54:13.310725+00:00
 -- url     : https://prove2.me/theorems/2844ecaa-4fff-4114-b644-f37978296c18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_zero_root_discount_sequence
 -- name    : Kyprianou.Ch08.StageB.p2m85_zero_root_discount_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:49.968732+00:00
 -- url     : https://prove2.me/theorems/c2d91d08-9500-4efa-84f4-f0d8c82dacf1

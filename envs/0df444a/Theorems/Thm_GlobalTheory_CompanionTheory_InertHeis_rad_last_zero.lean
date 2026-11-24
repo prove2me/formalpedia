@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_rad_last_zero
 -- name    : GlobalTheory.CompanionTheory.InertHeis.rad_last_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:50:43.999387+00:00
 -- url     : https://prove2.me/theorems/47983be5-d2fe-4411-83a8-6eeaba563d7c

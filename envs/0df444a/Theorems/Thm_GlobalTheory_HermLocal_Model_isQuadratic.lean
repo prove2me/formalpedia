@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_Model_isQuadratic
 -- name    : GlobalTheory.HermLocal.Model.isQuadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:18:01.054835+00:00
 -- url     : https://prove2.me/theorems/fdca2b20-1413-46e0-aa90-7a6672b2b98e

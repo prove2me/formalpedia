@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_blk_eq
 -- name    : GlobalTheory.Phase.Doubling.blk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:43:50.52198+00:00
 -- url     : https://prove2.me/theorems/9e81024a-972b-43d9-94ba-cd598afd8fe1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_finrank_of_lattice
 -- name    : GlobalTheory.PeriodChart.finrank_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:42:14.934512+00:00
 -- url     : https://prove2.me/theorems/71b27125-15f3-453d-835c-6892c5d8948e

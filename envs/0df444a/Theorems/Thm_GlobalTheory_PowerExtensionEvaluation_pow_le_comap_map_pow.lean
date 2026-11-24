@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerExtensionEvaluation_pow_le_comap_map_pow
 -- name    : GlobalTheory.PowerExtensionEvaluation.pow_le_comap_map_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:52:51.079012+00:00
 -- url     : https://prove2.me/theorems/71d999a6-3aa9-48ef-aa85-22b93c6017f0

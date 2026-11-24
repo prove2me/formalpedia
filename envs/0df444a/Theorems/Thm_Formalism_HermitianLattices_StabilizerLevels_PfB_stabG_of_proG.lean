@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_PfB_stabG_of_proG
 -- name    : Formalism.HermitianLattices.StabilizerLevels.PfB.stabG_of_proG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:16:09.910062+00:00
 -- url     : https://prove2.me/theorems/a4bcb7ba-e46d-4f70-8311-4881c3019b1c

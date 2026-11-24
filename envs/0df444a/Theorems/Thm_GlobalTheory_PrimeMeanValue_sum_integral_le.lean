@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeMeanValue_sum_integral_le
 -- name    : GlobalTheory.PrimeMeanValue.sum_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:56:53.625975+00:00
 -- url     : https://prove2.me/theorems/36f3c9b2-0a00-429a-91b2-b06fd1ca15fa

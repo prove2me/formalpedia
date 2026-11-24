@@ -95220,7 +95220,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.dg_mul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.dg_mul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PlusLetterFrameOfData", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.dg_mul", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
-{"parent": "CondensedComplexGeometry.ostrowski", "child": "CondensedComplexGeometry_berkovich", "via": ["statement"]}
+{"parent": "CondensedComplexGeometry.ostrowski", "child": "CondensedComplexGeometry_berkovich", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.comm2", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.comm2", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PlusLetterFrameOfData", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.comm2", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}

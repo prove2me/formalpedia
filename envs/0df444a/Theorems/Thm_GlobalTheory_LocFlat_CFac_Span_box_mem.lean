@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_CFac_Span_box_mem
 -- name    : GlobalTheory.LocFlat.CFac.Span.box_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:53:23.863189+00:00
 -- url     : https://prove2.me/theorems/cf7183c1-011a-44dd-b116-af8b673d09ca

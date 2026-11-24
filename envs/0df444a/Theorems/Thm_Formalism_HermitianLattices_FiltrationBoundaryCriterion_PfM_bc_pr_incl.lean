@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfM_bc_pr_incl
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfM.bc_pr_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:51:33.332939+00:00
 -- url     : https://prove2.me/theorems/4210f6ec-2594-4b11-9ee3-76d6ea31817f

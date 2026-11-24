@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_norm_eval_le_of_le
 -- name    : GlobalTheory.MvPoly.norm_eval_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:29:37.600285+00:00
 -- url     : https://prove2.me/theorems/5e3ee563-87a7-4117-9511-27e098befcbf

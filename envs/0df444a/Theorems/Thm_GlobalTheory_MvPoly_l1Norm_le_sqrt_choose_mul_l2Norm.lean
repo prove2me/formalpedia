@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_l1Norm_le_sqrt_choose_mul_l2Norm
 -- name    : GlobalTheory.MvPoly.l1Norm_le_sqrt_choose_mul_l2Norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:29:03.881804+00:00
 -- url     : https://prove2.me/theorems/fa3a741a-b7e5-4070-a996-0884cfed64c3

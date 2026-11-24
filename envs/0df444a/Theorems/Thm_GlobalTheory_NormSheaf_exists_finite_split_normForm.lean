@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheaf_exists_finite_split_normForm
 -- name    : GlobalTheory.NormSheaf.exists_finite_split_normForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:35:57.284812+00:00
 -- url     : https://prove2.me/theorems/176c3323-ee7b-4583-9c4c-b2ab75cdcf65

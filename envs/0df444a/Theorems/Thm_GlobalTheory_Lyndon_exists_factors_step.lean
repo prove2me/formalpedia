@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_exists_factors_step
 -- name    : GlobalTheory.Lyndon.exists_factors_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:19:41.916594+00:00
 -- url     : https://prove2.me/theorems/d1529a5b-cf5e-4d75-81e3-36b2bd392465

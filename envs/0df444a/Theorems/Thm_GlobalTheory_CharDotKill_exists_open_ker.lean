@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharDotKill_exists_open_ker
 -- name    : GlobalTheory.CharDotKill.exists_open_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:08:03.597803+00:00
 -- url     : https://prove2.me/theorems/c633621f-bf7d-49a2-b67d-fe8559f5c8a8

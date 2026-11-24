@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_eq_of_pow_eq_one
 -- name    : Formalism.HC.Der.kc_eq_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:24:07.104529+00:00
 -- url     : https://prove2.me/theorems/02f4fa6b-33cb-473c-ad29-2130b9af7ba0

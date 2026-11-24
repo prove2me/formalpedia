@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_hermitian_form_base_vector_right
 -- name    : Formalism.FourierDecayAlt.P.B2x6.hermitian_form_base_vector_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:05:05.325864+00:00
 -- url     : https://prove2.me/theorems/eb0073a5-d25f-49b2-b8ce-97cc1d93be5b

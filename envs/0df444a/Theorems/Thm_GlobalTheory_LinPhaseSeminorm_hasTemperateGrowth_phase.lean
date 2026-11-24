@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinPhaseSeminorm_hasTemperateGrowth_phase
 -- name    : GlobalTheory.LinPhaseSeminorm.hasTemperateGrowth_phase
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:08.720614+00:00
 -- url     : https://prove2.me/theorems/2bd6eb81-d8a1-468b-8fd6-a7de431a9820

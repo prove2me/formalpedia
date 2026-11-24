@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjFrac_frac_zero
 -- name    : GlobalTheory.ProjFrac.frac_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:55:12.443516+00:00
 -- url     : https://prove2.me/theorems/87d1e834-3147-46e9-ae21-52664159db51

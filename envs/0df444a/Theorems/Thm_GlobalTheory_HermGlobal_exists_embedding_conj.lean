@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermGlobal_exists_embedding_conj
 -- name    : GlobalTheory.HermGlobal.exists_embedding_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:11:32.411853+00:00
 -- url     : https://prove2.me/theorems/d3b18db5-998e-40e7-a4c4-a58d27d44ffb

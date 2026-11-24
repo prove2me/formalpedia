@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_isOpen_big_cell_set
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.isOpen_big_cell_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:29:13.043916+00:00
 -- url     : https://prove2.me/theorems/8d840b11-e73b-4324-b24e-9faf5abebeaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_comp_glueP_zero
 -- name    : GlobalTheory.Phase.Doubling.comp_glueP_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:06.64781+00:00
 -- url     : https://prove2.me/theorems/4c2c9a81-b18c-4e52-8eb5-caac49556fc0

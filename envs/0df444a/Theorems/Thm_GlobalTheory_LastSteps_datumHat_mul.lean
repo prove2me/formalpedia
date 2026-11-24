@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_datumHat_mul
 -- name    : GlobalTheory.LastSteps.datumHat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:36.674795+00:00
 -- url     : https://prove2.me/theorems/05587b31-bfbb-4c80-a853-b00d73f7057d

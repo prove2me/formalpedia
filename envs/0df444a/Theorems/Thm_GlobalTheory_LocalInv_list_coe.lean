@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_list_coe
 -- name    : GlobalTheory.LocalInv.list_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:25:18.518626+00:00
 -- url     : https://prove2.me/theorems/bdeb01a2-b831-4005-8767-746f9afd06d8

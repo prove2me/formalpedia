@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialZetaSum_exists_of_class
 -- name    : GlobalTheory.PartialZetaSum.exists_of_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:41:16.64366+00:00
 -- url     : https://prove2.me/theorems/fe58b45a-000d-47a1-9acd-db368c223cbd

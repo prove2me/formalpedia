@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_window_ineq
 -- name    : GlobalTheory.PMonE.window_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:39:59.29085+00:00
 -- url     : https://prove2.me/theorems/940d737c-da2a-4ed7-b041-549b0663bda5

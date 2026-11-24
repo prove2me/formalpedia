@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiplicativeSeries_partial_eq
 -- name    : GlobalTheory.MultiplicativeSeries.partial_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:29:32.661365+00:00
 -- url     : https://prove2.me/theorems/753e00b0-4e76-43af-a489-fe82430664d9

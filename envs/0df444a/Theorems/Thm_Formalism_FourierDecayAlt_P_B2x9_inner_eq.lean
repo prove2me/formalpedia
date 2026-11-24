@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_inner_eq
 -- name    : Formalism.FourierDecayAlt.P.B2x9.inner_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:59:46.927803+00:00
 -- url     : https://prove2.me/theorems/465cfe1d-3d2a-4ef7-9c46-4c4d2a854e8c

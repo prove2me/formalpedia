@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDatum_lattice_equiv
 -- name    : GlobalTheory.PeriodDatum.lattice_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:43:22.033268+00:00
 -- url     : https://prove2.me/theorems/138c6741-064a-4be6-8f4b-2ec66337d90e

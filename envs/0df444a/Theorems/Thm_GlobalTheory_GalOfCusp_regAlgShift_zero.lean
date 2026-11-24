@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GalOfCusp_regAlgShift_zero
 -- name    : GlobalTheory.GalOfCusp.regAlgShift_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:50:40.598592+00:00
 -- url     : https://prove2.me/theorems/cf81f8d8-4cb7-414c-b186-82aa3cc8bcf2

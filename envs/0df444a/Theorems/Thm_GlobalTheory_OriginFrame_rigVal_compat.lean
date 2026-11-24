@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OriginFrame_rigVal_compat
 -- name    : GlobalTheory.OriginFrame.rigVal_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:31.314891+00:00
 -- url     : https://prove2.me/theorems/dbc0405c-d110-4512-af95-f1593f3c5bc3

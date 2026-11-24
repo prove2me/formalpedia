@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDvd_sum_killed
 -- name    : GlobalTheory.PeriodDvd.sum_killed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:42:28.085666+00:00
 -- url     : https://prove2.me/theorems/2c52790c-1564-448f-b272-10c8c9c7accc

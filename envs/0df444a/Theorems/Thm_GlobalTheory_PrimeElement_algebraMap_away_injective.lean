@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeElement_algebraMap_away_injective
 -- name    : GlobalTheory.PrimeElement.algebraMap_away_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:53:37.188202+00:00
 -- url     : https://prove2.me/theorems/fb600553-fccc-46e6-9178-358c8a51864e

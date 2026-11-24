@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_continuousOn_fsDensity
 -- name    : GlobalTheory.LineCos.continuousOn_fsDensity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:07:57.781578+00:00
 -- url     : https://prove2.me/theorems/82e39a94-2243-4327-8870-b1f013141e74

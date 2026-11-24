@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_hiUnits_le_sqs_hiUnits
 -- name    : GlobalTheory.QNorm.hiUnits_le_sqs_hiUnits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:43:59.935101+00:00
 -- url     : https://prove2.me/theorems/2e2fd96a-bd90-448d-89c0-da51e29a6116

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_keepsFinite_mul
 -- name    : GlobalTheory.PairOp.keepsFinite_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:15.950532+00:00
 -- url     : https://prove2.me/theorems/14bd25e1-fc16-460d-8c7e-d82aa41e5062

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_langCount_card_fixed
 -- name    : GlobalTheory.PMonE.langCount_card_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:39.497802+00:00
 -- url     : https://prove2.me/theorems/302c5de7-f6dd-4c36-8e27-2b7645ef8dc9

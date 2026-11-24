@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_isOpen_convex
 -- name    : GlobalTheory.PeriodChart.isOpen_convex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:43:09.993658+00:00
 -- url     : https://prove2.me/theorems/26e41890-1496-45e8-966d-47956cde8694

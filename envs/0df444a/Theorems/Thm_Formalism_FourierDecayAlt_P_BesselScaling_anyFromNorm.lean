@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BesselScaling_anyFromNorm
 -- name    : Formalism.FourierDecayAlt.P.BesselScaling.anyFromNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:09:40.059411+00:00
 -- url     : https://prove2.me/theorems/efcb5014-777c-49a1-8aeb-56b7f90f5a03

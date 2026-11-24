@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_charpoly_companion_inv
 -- name    : GlobalTheory.JR.NormalFormL.charpoly_companion_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:35:33.473323+00:00
 -- url     : https://prove2.me/theorems/5e412f5d-2422-445a-9bf4-24af66ea0531

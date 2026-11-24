@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerronPsi_harm
 -- name    : GlobalTheory.PerronPsi.harm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:43:28.195397+00:00
 -- url     : https://prove2.me/theorems/72d96f2d-4ea1-4943-a9c4-f69b9c8bbbf1

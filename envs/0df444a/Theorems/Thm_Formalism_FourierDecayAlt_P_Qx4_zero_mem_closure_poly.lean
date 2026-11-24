@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_zero_mem_closure_poly
 -- name    : Formalism.FourierDecayAlt.P.Qx4.zero_mem_closure_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:21:46.348832+00:00
 -- url     : https://prove2.me/theorems/f030cef5-aec5-482b-9176-444a1de57d23

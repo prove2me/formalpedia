@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimTransc_exists_separable_specialization
 -- name    : GlobalTheory.PrimTransc.exists_separable_specialization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:54:37.179966+00:00
 -- url     : https://prove2.me/theorems/470fd48c-a799-4265-b1ce-910ebe29accd

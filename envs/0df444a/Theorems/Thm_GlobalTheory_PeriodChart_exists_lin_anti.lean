@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_exists_lin_anti
 -- name    : GlobalTheory.PeriodChart.exists_lin_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:42:26.720073+00:00
 -- url     : https://prove2.me/theorems/ee8d481f-a136-4d3e-94ae-bc39dae676cb

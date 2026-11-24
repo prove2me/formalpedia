@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_Repulsion_exists_erase
 -- name    : GlobalTheory.Lin.Repulsion.exists_erase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:06:30.522752+00:00
 -- url     : https://prove2.me/theorems/3d421719-172c-4578-94b3-35a8c2cad16a

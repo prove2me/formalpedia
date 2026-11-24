@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_integralNormVector_pow_sub_mulVec
 -- name    : GlobalTheory.PMonE.integralNormVector_pow_sub_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:40:31.078077+00:00
 -- url     : https://prove2.me/theorems/ac1ae10f-dcc9-49da-9c64-60417a0e7da9

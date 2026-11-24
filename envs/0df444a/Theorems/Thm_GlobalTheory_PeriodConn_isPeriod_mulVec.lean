@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodConn_isPeriod_mulVec
 -- name    : GlobalTheory.PeriodConn.isPeriod_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:42:39.23221+00:00
 -- url     : https://prove2.me/theorems/3d7abfb3-f432-45a3-83a3-67a02ece8739

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_of_isPushout_of_faithfullyFlat
 -- name    : GlobalTheory.ProperFunctions.isIso_of_isPushout_of_faithfullyFlat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:56:24.008601+00:00
 -- url     : https://prove2.me/theorems/e73ab65c-53d3-4e07-913b-f42844e8fcd9

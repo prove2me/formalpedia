@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicH2Separated_finite_cocycles_compact_ultrametric_rep
 -- name    : GlobalTheory.PadicH2Separated.finite_cocycles_compact_ultrametric_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:40:22.011044+00:00
 -- url     : https://prove2.me/theorems/13269d76-d806-44bb-a941-043ea65a199e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceCompletion_overLa_one_of_irreducible
 -- name    : GlobalTheory.PlaceCompletion.overLa_one_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:45:56.238697+00:00
 -- url     : https://prove2.me/theorems/d3fe71eb-d819-4a0d-9de4-a75a1d8f1e38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KWeightMajor_exists_pow_eq_zero
 -- name    : GlobalTheory.CompanionTheory.KWeightMajor.exists_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:11:40.653175+00:00
 -- url     : https://prove2.me/theorems/a8abf3e0-a836-4485-8d8c-14da8c9b7443

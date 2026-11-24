@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_PfB_signs
 -- name    : Formalism.HermitianLattices.StabilizerLevels.PfB.signs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:15:36.598082+00:00
 -- url     : https://prove2.me/theorems/ea9a09b9-be85-443a-aeb1-b6e137d365ff

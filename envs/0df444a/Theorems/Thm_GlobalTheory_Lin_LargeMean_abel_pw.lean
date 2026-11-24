@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_LargeMean_abel_pw
 -- name    : GlobalTheory.Lin.LargeMean.abel_pw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:04:49.883825+00:00
 -- url     : https://prove2.me/theorems/1376ad37-bb1c-4225-8f3b-0752047de2f7

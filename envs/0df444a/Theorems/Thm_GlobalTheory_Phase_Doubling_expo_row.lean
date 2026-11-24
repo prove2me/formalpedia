@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_expo_row
 -- name    : GlobalTheory.Phase.Doubling.expo_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:43:54.972207+00:00
 -- url     : https://prove2.me/theorems/bb360a8d-ffbf-4a83-8ccf-a485d52feed2

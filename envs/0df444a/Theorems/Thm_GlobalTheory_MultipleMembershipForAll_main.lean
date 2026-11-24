@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultipleMembershipForAll_main
 -- name    : GlobalTheory.MultipleMembershipForAll.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:28:58.49053+00:00
 -- url     : https://prove2.me/theorems/59f6cd68-2d80-4929-92cd-ccfeecf2afef

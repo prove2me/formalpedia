@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_filV_map_tmul
 -- name    : Formalism.MainNotions.N.K.Norm.filV_map_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:14:21.882886+00:00
 -- url     : https://prove2.me/theorems/28edc1e2-ef7a-4ea9-a51b-a03beba6f776

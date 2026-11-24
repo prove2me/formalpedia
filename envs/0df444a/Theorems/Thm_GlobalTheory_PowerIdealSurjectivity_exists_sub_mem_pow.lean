@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerIdealSurjectivity_exists_sub_mem_pow
 -- name    : GlobalTheory.PowerIdealSurjectivity.exists_sub_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:53:03.562679+00:00
 -- url     : https://prove2.me/theorems/829e5ffa-5b02-4bd6-8a4b-45f056e0a2fb

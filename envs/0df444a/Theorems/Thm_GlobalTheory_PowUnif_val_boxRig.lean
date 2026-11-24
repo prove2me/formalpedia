@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowUnif_val_boxRig
 -- name    : GlobalTheory.PowUnif.val_boxRig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:53:27.012338+00:00
 -- url     : https://prove2.me/theorems/1c367264-f5c8-4155-ae7f-f3ce6cf8ac5c

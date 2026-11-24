@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LogDeriv_logDeriv_F
 -- name    : GlobalTheory.Hk.LogDeriv.logDeriv_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:37:05.998491+00:00
 -- url     : https://prove2.me/theorems/ad9e9ff4-8828-4a51-8489-6ac1f983ad0b

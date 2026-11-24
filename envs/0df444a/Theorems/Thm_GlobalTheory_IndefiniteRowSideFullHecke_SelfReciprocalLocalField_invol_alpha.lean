@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SelfReciprocalLocalField_invol_alpha
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SelfReciprocalLocalField.invol_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:19:32.726791+00:00
 -- url     : https://prove2.me/theorems/79a22e2e-74d2-45cf-9140-99728e2bbb03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectCompletion_sModEq_iff
 -- name    : GlobalTheory.PerfectCompletion.sModEq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:41:01.978795+00:00
 -- url     : https://prove2.me/theorems/7ae0614b-dffd-4a0c-867b-dbe57a6eff3c

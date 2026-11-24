@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_coefB_norm
 -- name    : GlobalTheory.PMonE.coefB_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:41:00.268412+00:00
 -- url     : https://prove2.me/theorems/7e6ee7f0-aafe-40ab-9e9d-0c3fd9ec50b9

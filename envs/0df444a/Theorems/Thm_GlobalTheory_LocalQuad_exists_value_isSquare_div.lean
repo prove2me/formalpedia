@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_exists_value_isSquare_div
 -- name    : GlobalTheory.LocalQuad.exists_value_isSquare_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:14:11.182383+00:00
 -- url     : https://prove2.me/theorems/7f9785a7-79c7-4ef2-8a7a-9393bd002a3f

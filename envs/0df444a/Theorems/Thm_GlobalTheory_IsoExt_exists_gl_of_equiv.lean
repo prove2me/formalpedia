@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoExt_exists_gl_of_equiv
 -- name    : GlobalTheory.IsoExt.exists_gl_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:21:37.586101+00:00
 -- url     : https://prove2.me/theorems/16ebb215-e531-463e-8e53-60ebdd49753d

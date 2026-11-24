@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_inverse
 -- name    : Formalism.FourierDecayAlt.P.heisenberg_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:33:40.257426+00:00
 -- url     : https://prove2.me/theorems/30c9a672-c412-464a-8367-e21bec1cf219

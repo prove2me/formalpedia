@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolModLattice_univ_aut
 -- name    : GlobalTheory.PolModLattice.univ_aut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:50:22.708184+00:00
 -- url     : https://prove2.me/theorems/23c54311-2291-4261-833b-d99da15e3376

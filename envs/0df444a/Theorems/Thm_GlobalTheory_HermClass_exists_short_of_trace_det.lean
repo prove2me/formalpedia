@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermClass_exists_short_of_trace_det
 -- name    : GlobalTheory.HermClass.exists_short_of_trace_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:18:58.220703+00:00
 -- url     : https://prove2.me/theorems/f67e9528-12dd-43ab-8fa2-05dae27f6497

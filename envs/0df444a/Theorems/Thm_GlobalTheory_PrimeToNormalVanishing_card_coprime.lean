@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeToNormalVanishing_card_coprime
 -- name    : GlobalTheory.PrimeToNormalVanishing.card_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:18.722855+00:00
 -- url     : https://prove2.me/theorems/7c249fc2-f9a5-4eb7-85cc-95d13c0ce45c

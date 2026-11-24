@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_haar_base_case
 -- name    : Formalism.FourierDecayAlt.P.unipotent_haar_base_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:04:32.694051+00:00
 -- url     : https://prove2.me/theorems/1dd5ad9b-835e-4b9a-8cee-3d2e76f3d20d

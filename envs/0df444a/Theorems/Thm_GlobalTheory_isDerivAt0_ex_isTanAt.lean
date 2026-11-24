@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDerivAt0_ex_isTanAt
 -- name    : GlobalTheory.isDerivAt0_ex_isTanAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:22:20.235953+00:00
 -- url     : https://prove2.me/theorems/359a8112-1ceb-4ad9-8f0d-117627e4faec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormValuation_exponent_relNorm_prime
 -- name    : GlobalTheory.NormValuation.exponent_relNorm_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:36:26.832518+00:00
 -- url     : https://prove2.me/theorems/21570a98-1401-4b3b-b0f9-9e373e760548

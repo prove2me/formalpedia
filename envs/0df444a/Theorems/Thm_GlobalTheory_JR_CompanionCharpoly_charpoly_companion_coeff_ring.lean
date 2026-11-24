@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_CompanionCharpoly_charpoly_companion_coeff_ring
 -- name    : GlobalTheory.JR.CompanionCharpoly.charpoly_companion_coeff_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:23:34.07127+00:00
 -- url     : https://prove2.me/theorems/fc9aa09f-b78b-4b84-9eac-2f6669d73801

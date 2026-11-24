@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_exists_inf
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.exists_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:23:42.451288+00:00
 -- url     : https://prove2.me/theorems/87f461ea-7a7a-4768-b1e4-ec5f44933e53

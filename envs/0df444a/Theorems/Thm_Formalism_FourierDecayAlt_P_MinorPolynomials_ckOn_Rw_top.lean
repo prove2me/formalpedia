@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_ckOn_Rw_top
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.ckOn_Rw_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:11:12.078526+00:00
 -- url     : https://prove2.me/theorems/d2303cac-ec35-4f0a-a762-0faec32a6c28

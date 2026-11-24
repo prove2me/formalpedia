@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_FsLaw_lintegral_false
 -- name    : GlobalTheory.LineCos.FsLaw.lintegral_false
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:08:14.59529+00:00
 -- url     : https://prove2.me/theorems/b4f3311b-3151-4804-94f7-aa784df4b37c

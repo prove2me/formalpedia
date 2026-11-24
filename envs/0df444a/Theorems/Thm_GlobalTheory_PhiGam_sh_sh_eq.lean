@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_sh_sh_eq
 -- name    : GlobalTheory.PhiGam.sh_sh_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:44:37.99104+00:00
 -- url     : https://prove2.me/theorems/8cabd8ce-e722-46a8-bf42-6c6dbfbebe09

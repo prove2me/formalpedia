@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGLChar_character_hcRep
 -- name    : GlobalTheory.CompanionTheory.FinGLChar.character_hcRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:57:45.512802+00:00
 -- url     : https://prove2.me/theorems/13dc7cff-77c2-497e-8c6e-110cb6262093

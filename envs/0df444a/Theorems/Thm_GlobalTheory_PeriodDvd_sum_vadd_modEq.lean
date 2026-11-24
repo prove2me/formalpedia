@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDvd_sum_vadd_modEq
 -- name    : GlobalTheory.PeriodDvd.sum_vadd_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:42:14.768837+00:00
 -- url     : https://prove2.me/theorems/5603e867-89ec-46ef-9780-3d47e5f2a1ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_smul_up
 -- name    : GlobalTheory.PairOp.smul_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:41.508801+00:00
 -- url     : https://prove2.me/theorems/c81f5908-3797-4ad1-bbba-2f49d7748b79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDvd_le_card_stabilizer_killed
 -- name    : GlobalTheory.PeriodDvd.le_card_stabilizer_killed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:42:11.120985+00:00
 -- url     : https://prove2.me/theorems/c05de90e-db1f-440b-911b-06300bf70d51

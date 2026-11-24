@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_isSquare_of_isSquare_residue_odd
 -- name    : GlobalTheory.QNorm.isSquare_of_isSquare_residue_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:25:40.993085+00:00
 -- url     : https://prove2.me/theorems/13c336e3-4655-4ae3-99f4-b30d14018046

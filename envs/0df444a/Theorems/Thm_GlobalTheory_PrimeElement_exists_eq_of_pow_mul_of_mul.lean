@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeElement_exists_eq_of_pow_mul_of_mul
 -- name    : GlobalTheory.PrimeElement.exists_eq_of_pow_mul_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:55:50.330885+00:00
 -- url     : https://prove2.me/theorems/da5f306f-bde8-4473-b358-28c2754659bd

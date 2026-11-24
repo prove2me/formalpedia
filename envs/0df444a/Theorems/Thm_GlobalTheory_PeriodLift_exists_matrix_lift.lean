@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodLift_exists_matrix_lift
 -- name    : GlobalTheory.PeriodLift.exists_matrix_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:42:26.364347+00:00
 -- url     : https://prove2.me/theorems/63bdd314-3f7b-4c70-a4a6-5a27b2e9b1df

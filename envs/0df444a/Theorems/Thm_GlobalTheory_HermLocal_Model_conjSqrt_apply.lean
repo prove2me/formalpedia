@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_Model_conjSqrt_apply
 -- name    : GlobalTheory.HermLocal.Model.conjSqrt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:17:09.928904+00:00
 -- url     : https://prove2.me/theorems/efbdf2da-4069-4295-aa17-d0f492243761

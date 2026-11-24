@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_NoFix_exists_unif
 -- name    : GlobalTheory.PrinTwo.NoFix.exists_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:56:06.991256+00:00
 -- url     : https://prove2.me/theorems/e180d55b-9dc0-44a3-86df-71edc963e072

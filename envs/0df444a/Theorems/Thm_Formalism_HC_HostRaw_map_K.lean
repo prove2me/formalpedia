@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_map_K
 -- name    : Formalism.HC.HostRaw.map_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:24:55.923875+00:00
 -- url     : https://prove2.me/theorems/be07ad65-8e1f-41bc-8941-bb8bf3d55d83

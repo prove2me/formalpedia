@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_lowerOrder_normal
 -- name    : GlobalTheory.PMonE.lowerOrder_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:29.279798+00:00
 -- url     : https://prove2.me/theorems/a7418c3e-931d-4396-a67e-36fe614041ca

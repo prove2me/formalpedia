@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LLeft_norm_term_le
 -- name    : GlobalTheory.LLeft.norm_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:02:27.264832+00:00
 -- url     : https://prove2.me/theorems/5be9824a-a74c-496f-b654-96371fae6b93

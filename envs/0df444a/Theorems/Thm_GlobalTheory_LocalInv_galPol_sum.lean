@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_galPol_sum
 -- name    : GlobalTheory.LocalInv.galPol_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:24:14.035887+00:00
 -- url     : https://prove2.me/theorems/df6fdb3e-9fdd-4a29-8087-3fb11dc948a7

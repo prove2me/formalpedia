@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_LargeMean_large_mean_of_large_derivative
 -- name    : GlobalTheory.Lin.LargeMean.large_mean_of_large_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:04:55.663216+00:00
 -- url     : https://prove2.me/theorems/8f42f584-c364-42ed-b8e1-571de38f019b

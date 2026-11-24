@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_pw_pow
 -- name    : GlobalTheory.PMonE.pw_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:40:22.999987+00:00
 -- url     : https://prove2.me/theorems/5fa55462-476f-4ec6-b583-65ab5ada05db

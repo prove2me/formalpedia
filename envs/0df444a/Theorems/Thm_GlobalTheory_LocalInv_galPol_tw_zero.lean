@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_galPol_tw_zero
 -- name    : GlobalTheory.LocalInv.galPol_tw_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:24:02.717973+00:00
 -- url     : https://prove2.me/theorems/74246e7e-fd71-4982-aa0f-34ea6e19335d

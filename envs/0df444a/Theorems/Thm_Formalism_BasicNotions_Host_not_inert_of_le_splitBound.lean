@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_not_inert_of_le_splitBound
 -- name    : Formalism.BasicNotions.Host.not_inert_of_le_splitBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:46:29.603524+00:00
 -- url     : https://prove2.me/theorems/c21f5dc9-67c3-4277-b8be-6ef8e07c7933

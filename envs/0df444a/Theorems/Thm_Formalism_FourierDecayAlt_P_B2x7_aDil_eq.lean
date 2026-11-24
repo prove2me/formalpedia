@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x7_aDil_eq
 -- name    : Formalism.FourierDecayAlt.P.B2x7.aDil_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:29:38.376363+00:00
 -- url     : https://prove2.me/theorems/27126df4-3d57-4f9f-8857-840f381ae6d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_formEq_of_dv
 -- name    : GlobalTheory.MulSplit.formEq_of_dv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:29:13.322285+00:00
 -- url     : https://prove2.me/theorems/2f734470-6c62-43ca-a8bd-3e9f0d441093

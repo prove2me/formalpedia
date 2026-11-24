@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectCompletion_perfect
 -- name    : GlobalTheory.PerfectCompletion.perfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:40:57.435203+00:00
 -- url     : https://prove2.me/theorems/37af46c1-2384-4486-b7b5-ceb551912a22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEig_snd_epsMul
 -- name    : GlobalTheory.DerivEig.snd_epsMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:23.217516+00:00
 -- url     : https://prove2.me/theorems/85f07bcb-ae18-4631-8a12-45fc5ca204e3

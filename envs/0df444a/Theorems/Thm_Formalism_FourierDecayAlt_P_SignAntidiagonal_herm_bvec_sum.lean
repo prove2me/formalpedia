@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_herm_bvec_sum
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.herm_bvec_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:13:21.87982+00:00
 -- url     : https://prove2.me/theorems/7f5481c6-55b5-4a18-a15c-839fa0f501a6

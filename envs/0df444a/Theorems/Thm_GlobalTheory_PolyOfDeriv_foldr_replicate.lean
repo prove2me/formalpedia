@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyOfDeriv_foldr_replicate
 -- name    : GlobalTheory.PolyOfDeriv.foldr_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:50:22.6111+00:00
 -- url     : https://prove2.me/theorems/5e7dc62c-df51-40fc-b5ca-ad005b268cdb

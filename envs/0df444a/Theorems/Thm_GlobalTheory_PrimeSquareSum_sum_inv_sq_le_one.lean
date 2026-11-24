@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSquareSum_sum_inv_sq_le_one
 -- name    : GlobalTheory.PrimeSquareSum.sum_inv_sq_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:05.441539+00:00
 -- url     : https://prove2.me/theorems/a6bb3b6b-602c-4d06-9cf7-7f90d7fed226

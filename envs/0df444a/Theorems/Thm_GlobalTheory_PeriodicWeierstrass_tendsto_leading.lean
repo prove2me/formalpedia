@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodicWeierstrass_tendsto_leading
 -- name    : GlobalTheory.PeriodicWeierstrass.tendsto_leading
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:44:30.438521+00:00
 -- url     : https://prove2.me/theorems/1bda06dc-313b-4d1a-901c-8dadbc390275

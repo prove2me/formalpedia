@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_cWeight_rec
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.cWeight_rec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:16:32.960188+00:00
 -- url     : https://prove2.me/theorems/ce3d0e35-1f03-45c1-9aeb-126a0e87f1d6

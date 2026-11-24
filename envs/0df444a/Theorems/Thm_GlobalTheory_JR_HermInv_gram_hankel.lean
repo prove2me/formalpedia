@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_gram_hankel
 -- name    : GlobalTheory.JR.HermInv.gram_hankel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:39:04.341738+00:00
 -- url     : https://prove2.me/theorems/1751502d-b317-4a9e-8a57-4dd871e85ae0

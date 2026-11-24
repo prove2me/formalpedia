@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatFin_latFin
 -- name    : GlobalTheory.LatFin.latFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:59:00.377921+00:00
 -- url     : https://prove2.me/theorems/0eb087ad-d510-4df4-88a8-57969b9647ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerGam_exists_equiv
 -- name    : GlobalTheory.PerGam.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:19:33.523795+00:00
 -- url     : https://prove2.me/theorems/e18e99a1-b340-45ce-9e6b-6e5610de3da8

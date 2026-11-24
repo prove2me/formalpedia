@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Metaplectic_act_fromBlocks
 -- name    : GlobalTheory.Published.Metaplectic.act_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:56:17.252528+00:00
 -- url     : https://prove2.me/theorems/de81725d-c434-45bd-b2cd-5752a8ebff9c

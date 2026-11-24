@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulCocycle_exists_unit_of_faces
 -- name    : GlobalTheory.MulCocycle.exists_unit_of_faces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:18.934716+00:00
 -- url     : https://prove2.me/theorems/ed233928-d498-404b-9cde-8f2a815285b4

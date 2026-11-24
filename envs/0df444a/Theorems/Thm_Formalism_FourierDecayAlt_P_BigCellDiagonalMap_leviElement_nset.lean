@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellDiagonalMap_leviElement_nset
 -- name    : Formalism.FourierDecayAlt.P.BigCellDiagonalMap.leviElement_nset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:56:01.097544+00:00
 -- url     : https://prove2.me/theorems/c954aca1-2848-4ef7-bb4f-d4d6ba034dae

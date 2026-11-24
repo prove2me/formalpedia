@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LLeft_summable_diffPow
 -- name    : GlobalTheory.LLeft.summable_diffPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:55:41.02006+00:00
 -- url     : https://prove2.me/theorems/7c89c115-ca4f-4215-b86c-348b105572da

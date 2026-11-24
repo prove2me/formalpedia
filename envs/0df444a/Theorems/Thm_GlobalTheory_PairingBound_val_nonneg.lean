@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingBound_val_nonneg
 -- name    : GlobalTheory.PairingBound.val_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:41:15.43615+00:00
 -- url     : https://prove2.me/theorems/d345a8d6-25f4-475d-86a6-71521b5ab5f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodSymm_dbar_congr
 -- name    : GlobalTheory.PeriodSymm.dbar_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:44:02.237375+00:00
 -- url     : https://prove2.me/theorems/8f13c3f6-cc94-4906-a2c0-eaf8028e61de

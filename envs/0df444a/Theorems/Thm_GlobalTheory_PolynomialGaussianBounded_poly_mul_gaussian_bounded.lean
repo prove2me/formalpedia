@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolynomialGaussianBounded_poly_mul_gaussian_bounded
 -- name    : GlobalTheory.PolynomialGaussianBounded.poly_mul_gaussian_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:49:30.39119+00:00
 -- url     : https://prove2.me/theorems/a28e2a62-d031-4b8f-a640-f88470ce574b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_sum_family_eq_zero
 -- name    : GlobalTheory.PairOp.sum_family_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:58.316089+00:00
 -- url     : https://prove2.me/theorems/84a0bc55-0c29-42e1-a4ba-50b5c0ed4e7e

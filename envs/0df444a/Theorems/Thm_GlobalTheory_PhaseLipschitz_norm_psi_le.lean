@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhaseLipschitz_norm_psi_le
 -- name    : GlobalTheory.PhaseLipschitz.norm_psi_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:48:49.718006+00:00
 -- url     : https://prove2.me/theorems/bfcbde6b-bda7-4589-9588-2fbaf06672b1

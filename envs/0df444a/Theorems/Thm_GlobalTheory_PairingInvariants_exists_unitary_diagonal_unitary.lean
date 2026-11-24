@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingInvariants_exists_unitary_diagonal_unitary
 -- name    : GlobalTheory.PairingInvariants.exists_unitary_diagonal_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:41:29.594309+00:00
 -- url     : https://prove2.me/theorems/59f4443d-b236-4eec-9947-5970d8966b98

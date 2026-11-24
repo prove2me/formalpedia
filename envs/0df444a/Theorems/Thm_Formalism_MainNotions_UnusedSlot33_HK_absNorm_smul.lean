@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_UnusedSlot33_HK_absNorm_smul
 -- name    : Formalism.MainNotions.UnusedSlot33.HK.absNorm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:02.677734+00:00
 -- url     : https://prove2.me/theorems/9def38c6-9e3d-4499-85b9-021adb9b8735

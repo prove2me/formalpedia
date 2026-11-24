@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeStrip_heckeSeries_eq_sum_pSeries
 -- name    : GlobalTheory.HeckeStrip.heckeSeries_eq_sum_pSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:05:55.752531+00:00
 -- url     : https://prove2.me/theorems/8460934e-6c95-4697-bebd-483211143484

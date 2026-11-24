@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajorantContinuity_maj_real_smul
 -- name    : GlobalTheory.MajorantContinuity.maj_real_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:00.117467+00:00
 -- url     : https://prove2.me/theorems/f9470452-bc0b-4eb7-aa93-788debb095e2

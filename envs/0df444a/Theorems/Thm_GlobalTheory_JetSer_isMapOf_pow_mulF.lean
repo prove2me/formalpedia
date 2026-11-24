@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_isMapOf_pow_mulF
 -- name    : GlobalTheory.JetSer.isMapOf_pow_mulF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:42:09.95625+00:00
 -- url     : https://prove2.me/theorems/2f4a44f7-bb09-437b-ac4c-9fbf1af03ec4

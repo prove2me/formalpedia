@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_WinCoef_frob_inv_pow_apply
 -- name    : GlobalTheory.PMonE.WinCoef.frob_inv_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:38:51.442235+00:00
 -- url     : https://prove2.me/theorems/fe3f9728-d00c-43f2-80b4-85af2d8ade10

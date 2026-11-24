@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePrime_maximal_unique
 -- name    : GlobalTheory.OnePrime.maximal_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:30:53.874594+00:00
 -- url     : https://prove2.me/theorems/b550a74f-2987-4ee0-b84c-76acbccb25da

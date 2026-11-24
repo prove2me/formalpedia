@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSpan_sum_mul_cons
 -- name    : GlobalTheory.PowSpan.sum_mul_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:55:32.839002+00:00
 -- url     : https://prove2.me/theorems/f27966c9-8594-4380-9ce7-b21a66dc873d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_appLE_comp_appLE_of_section
 -- name    : GlobalTheory.ProperFunctions.appLE_comp_appLE_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:23.41718+00:00
 -- url     : https://prove2.me/theorems/dacae6af-5fba-4dec-ba96-996a09ae6fba

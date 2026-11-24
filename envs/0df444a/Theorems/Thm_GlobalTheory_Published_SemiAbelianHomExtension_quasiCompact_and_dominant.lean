@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_quasiCompact_and_dominant
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.quasiCompact_and_dominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:56.253135+00:00
 -- url     : https://prove2.me/theorems/54a13e56-842a-4733-b7f6-82b65cb1b629

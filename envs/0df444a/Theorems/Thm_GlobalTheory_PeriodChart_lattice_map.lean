@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_lattice_map
 -- name    : GlobalTheory.PeriodChart.lattice_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:42:18.535415+00:00
 -- url     : https://prove2.me/theorems/4e9df9e2-59cd-40b7-95f2-81979aa49f6e

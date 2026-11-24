@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulPullSec_exists_pull_sec
 -- name    : GlobalTheory.MulPullSec.exists_pull_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:27:44.342803+00:00
 -- url     : https://prove2.me/theorems/0f244771-e4fc-4ce4-a8a5-03bd82dac09c

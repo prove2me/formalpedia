@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodicWeierstrass_exists_eq_of_cube_mul_tendsto
 -- name    : GlobalTheory.PeriodicWeierstrass.exists_eq_of_cube_mul_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:44:37.040018+00:00
 -- url     : https://prove2.me/theorems/8936babb-71b0-452d-b41c-6db728661f7d

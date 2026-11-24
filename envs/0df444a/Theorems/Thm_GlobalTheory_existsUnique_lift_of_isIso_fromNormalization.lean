@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_lift_of_isIso_fromNormalization
 -- name    : GlobalTheory.existsUnique_lift_of_isIso_fromNormalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:27:40.568592+00:00
 -- url     : https://prove2.me/theorems/c2b04f07-ab5c-462d-9829-de7ffe0e98dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AllClasses_dvd_sign_add_one
 -- name    : GlobalTheory.AllClasses.dvd_sign_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:59:51.860847+00:00
 -- url     : https://prove2.me/theorems/7be212a0-9f7a-4e8f-a3ed-a551b0228fb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhaseLipschitz_continuous_finset_sup_seminorm
 -- name    : GlobalTheory.PhaseLipschitz.continuous_finset_sup_seminorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:48:36.738264+00:00
 -- url     : https://prove2.me/theorems/7f4c055b-0623-4e08-9110-6238c278a792

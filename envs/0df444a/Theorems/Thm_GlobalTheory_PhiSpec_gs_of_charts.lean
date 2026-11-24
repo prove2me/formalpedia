@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiSpec_gs_of_charts
 -- name    : GlobalTheory.PhiSpec.gs_of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:46:18.461798+00:00
 -- url     : https://prove2.me/theorems/ec2bd332-7eca-4159-9e63-f9ade09bff16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxE_hermPart_eq_self_of_mem_lie
 -- name    : Formalism.FourierDecayAlt.P.JFxE.hermPart_eq_self_of_mem_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:34:43.749511+00:00
 -- url     : https://prove2.me/theorems/8edaa74f-a662-4014-99fa-479540d6f361

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_phi_support_level_of_parts
 -- name    : Formalism.FourierDecayAlt.P.phi_support_level_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:40:47.482266+00:00
 -- url     : https://prove2.me/theorems/f0e17140-e217-4e63-9294-2927131c3727

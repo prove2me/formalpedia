@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolynomialCoeffEq_coeff_eq
 -- name    : GlobalTheory.PolynomialCoeffEq.coeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:49:35.069012+00:00
 -- url     : https://prove2.me/theorems/c4af59aa-8ac7-4eca-a1cc-7e08adc0a67c

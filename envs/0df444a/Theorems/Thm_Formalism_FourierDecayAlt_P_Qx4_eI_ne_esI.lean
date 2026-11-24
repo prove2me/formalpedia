@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_eI_ne_esI
 -- name    : Formalism.FourierDecayAlt.P.Qx4.eI_ne_esI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:42:23.54037+00:00
 -- url     : https://prove2.me/theorems/5e81cc6a-96f5-46a8-87d2-47fed7dddfa2

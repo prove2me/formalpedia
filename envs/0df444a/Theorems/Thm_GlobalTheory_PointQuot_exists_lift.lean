@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointQuot_exists_lift
 -- name    : GlobalTheory.PointQuot.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:49:25.959278+00:00
 -- url     : https://prove2.me/theorems/a9214969-05bd-449d-8330-f3f0827ad373

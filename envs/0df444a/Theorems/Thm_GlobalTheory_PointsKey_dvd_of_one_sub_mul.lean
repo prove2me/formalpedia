@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointsKey_dvd_of_one_sub_mul
 -- name    : GlobalTheory.PointsKey.dvd_of_one_sub_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:50:29.550407+00:00
 -- url     : https://prove2.me/theorems/65c78f9f-4c91-415d-9de9-0e9bb766f1cf

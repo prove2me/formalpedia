@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_component_mem_sup
 -- name    : GlobalTheory.MultiHilbert.component_mem_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:30:06.103515+00:00
 -- url     : https://prove2.me/theorems/27f32958-47d1-4dae-8d25-eef0f1ed2afc

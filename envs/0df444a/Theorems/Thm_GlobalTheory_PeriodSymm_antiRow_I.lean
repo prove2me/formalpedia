@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodSymm_antiRow_I
 -- name    : GlobalTheory.PeriodSymm.antiRow_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:43:50.707236+00:00
 -- url     : https://prove2.me/theorems/91ad9332-9fb4-4198-adb2-84c00410b320

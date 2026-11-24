@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodLift_tendsto_of_span
 -- name    : GlobalTheory.PeriodLift.tendsto_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:41:59.119373+00:00
 -- url     : https://prove2.me/theorems/48b782ee-0cf2-4e2b-b630-87671684e24b

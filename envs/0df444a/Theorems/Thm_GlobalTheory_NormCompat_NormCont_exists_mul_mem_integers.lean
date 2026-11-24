@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCompat_NormCont_exists_mul_mem_integers
 -- name    : GlobalTheory.NormCompat.NormCont.exists_mul_mem_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:34:10.317151+00:00
 -- url     : https://prove2.me/theorems/f9c82dca-1bd1-48a6-bc0b-729be7a45a8c

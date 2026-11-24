@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_locallyOfFiniteType
 -- name    : GlobalTheory.IsAffineQuotient.locallyOfFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:28:00.629449+00:00
 -- url     : https://prove2.me/theorems/dd7bfc53-b6c9-4475-a425-444318dddf47

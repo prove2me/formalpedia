@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_anti_inj
 -- name    : GlobalTheory.PeriodChart.anti_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:42:18.766916+00:00
 -- url     : https://prove2.me/theorems/efcdc3e5-ccf4-41e6-b5f4-b40d0dd62715

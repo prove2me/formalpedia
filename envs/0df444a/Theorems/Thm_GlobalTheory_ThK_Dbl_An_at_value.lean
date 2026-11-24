@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_An_at_value
 -- name    : GlobalTheory.ThK.Dbl.An.at_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:29:54.917573+00:00
 -- url     : https://prove2.me/theorems/72e94492-bffa-435c-bedc-d1d8f467c20d

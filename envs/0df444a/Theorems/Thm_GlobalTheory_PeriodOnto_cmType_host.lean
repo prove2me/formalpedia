@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_cmType_host
 -- name    : GlobalTheory.PeriodOnto.cmType_host
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:42:39.834913+00:00
 -- url     : https://prove2.me/theorems/e2f503f7-c205-4a85-aa7c-4aa129b9e066

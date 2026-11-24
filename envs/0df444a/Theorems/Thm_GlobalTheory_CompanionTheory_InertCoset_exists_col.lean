@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_exists_col
 -- name    : GlobalTheory.CompanionTheory.InertCoset.exists_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:02:31.927046+00:00
 -- url     : https://prove2.me/theorems/0153e5c3-4f2e-4ff7-ab84-aa77da4cc7be

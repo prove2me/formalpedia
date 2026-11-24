@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimUnif_ex_nsmul
 -- name    : GlobalTheory.PrimUnif.ex_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:54:03.045608+00:00
 -- url     : https://prove2.me/theorems/f13faf9b-65ce-45be-9b53-31e38e8e104b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimitiveUnitProduct_appTop_comp_apply
 -- name    : GlobalTheory.PrimitiveUnitProduct.appTop_comp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:39.873804+00:00
 -- url     : https://prove2.me/theorems/496f8b61-b24c-49bc-bf4d-06e1988b51e9

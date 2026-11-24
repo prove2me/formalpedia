@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_mem_domL
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.mem_domL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:01.416363+00:00
 -- url     : https://prove2.me/theorems/3c54601f-3562-4e71-8650-8fd7e6e526c5

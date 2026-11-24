@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MuTowerInj_mk_eq_zero_of_coboundary
 -- name    : GlobalTheory.MuTowerInj.mk_eq_zero_of_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:02.911603+00:00
 -- url     : https://prove2.me/theorems/e081a2fb-90d5-4632-aa74-a221f8644fe2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicUnitBall_norm_natCast_p
 -- name    : GlobalTheory.PadicUnitBall.norm_natCast_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:39:57.85357+00:00
 -- url     : https://prove2.me/theorems/72a86614-f8b7-4725-be8e-a183f1549d7f

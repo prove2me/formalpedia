@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimUnif_unitS_spMap
 -- name    : GlobalTheory.PrimUnif.unitS_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:53:51.014951+00:00
 -- url     : https://prove2.me/theorems/b5a27e38-6d49-495d-894c-346fe42f4e5c

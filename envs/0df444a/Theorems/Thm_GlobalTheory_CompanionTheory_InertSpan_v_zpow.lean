@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_v_zpow
 -- name    : GlobalTheory.CompanionTheory.InertSpan.v_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:51:03.045811+00:00
 -- url     : https://prove2.me/theorems/3a44c2e2-cf0e-46ef-9d59-85cae0633d02

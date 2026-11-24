@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesMaximalBound_X_mem_max
 -- name    : GlobalTheory.PowerSeriesMaximalBound.X_mem_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:35.69416+00:00
 -- url     : https://prove2.me/theorems/ece925c0-03b5-438c-a04b-8b873bc9bf27

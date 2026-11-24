@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_generators_mem_range_39ea2274794c
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_generators_mem_range_39ea2274794c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:49:07.910571+00:00
 -- url     : https://prove2.me/theorems/fe71fda6-c296-4a24-b007-16a51512deb2

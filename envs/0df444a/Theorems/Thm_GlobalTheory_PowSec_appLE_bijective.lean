@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSec_appLE_bijective
 -- name    : GlobalTheory.PowSec.appLE_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:52:50.334361+00:00
 -- url     : https://prove2.me/theorems/08a65951-b2e3-4dfd-b901-44fd0704b418

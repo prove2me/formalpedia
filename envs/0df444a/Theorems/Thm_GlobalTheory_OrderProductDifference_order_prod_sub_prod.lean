@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrderProductDifference_order_prod_sub_prod
 -- name    : GlobalTheory.OrderProductDifference.order_prod_sub_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:18.782057+00:00
 -- url     : https://prove2.me/theorems/a72733a3-8811-48c0-beb2-1b7f9a57a1e9

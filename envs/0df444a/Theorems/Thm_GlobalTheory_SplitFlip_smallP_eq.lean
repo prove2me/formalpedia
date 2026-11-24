@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_smallP_eq
 -- name    : GlobalTheory.SplitFlip.smallP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:28:40.335322+00:00
 -- url     : https://prove2.me/theorems/5fe675ff-1157-4c38-95b7-42055ea37c93

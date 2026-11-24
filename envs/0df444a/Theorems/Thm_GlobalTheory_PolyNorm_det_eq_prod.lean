@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyNorm_det_eq_prod
 -- name    : GlobalTheory.PolyNorm.det_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:50:37.144478+00:00
 -- url     : https://prove2.me/theorems/a100e4b1-3cfc-4d30-85fd-43dbe04daf11

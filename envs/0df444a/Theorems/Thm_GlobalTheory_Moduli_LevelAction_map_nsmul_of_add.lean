@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_map_nsmul_of_add
 -- name    : GlobalTheory.Moduli.LevelAction.map_nsmul_of_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:09.191059+00:00
 -- url     : https://prove2.me/theorems/f958a22a-ad61-40da-ab12-5a3b3a0896e3

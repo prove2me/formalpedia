@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_continuous_cellMap
 -- name    : GlobalTheory.FlagPts.continuous_cellMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:52:38.934602+00:00
 -- url     : https://prove2.me/theorems/448a9236-e1b3-46f0-b39d-2b2e8db6ed2f

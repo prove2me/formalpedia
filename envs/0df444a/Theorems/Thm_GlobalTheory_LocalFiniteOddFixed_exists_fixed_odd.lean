@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalFiniteOddFixed_exists_fixed_odd
 -- name    : GlobalTheory.LocalFiniteOddFixed.exists_fixed_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:14.750848+00:00
 -- url     : https://prove2.me/theorems/e24592c7-43c1-458b-a3fe-7c7ebd265a76

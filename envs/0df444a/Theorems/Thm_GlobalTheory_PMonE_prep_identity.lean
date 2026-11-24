@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_prep_identity
 -- name    : GlobalTheory.PMonE.prep_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:39:58.776163+00:00
 -- url     : https://prove2.me/theorems/19853627-994c-4a7c-a560-b560fbaa7255

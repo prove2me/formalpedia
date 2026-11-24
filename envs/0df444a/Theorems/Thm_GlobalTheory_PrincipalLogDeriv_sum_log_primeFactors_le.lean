@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrincipalLogDeriv_sum_log_primeFactors_le
 -- name    : GlobalTheory.PrincipalLogDeriv.sum_log_primeFactors_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:34.013803+00:00
 -- url     : https://prove2.me/theorems/662e8d08-3e93-4f99-879b-96f9a850392c

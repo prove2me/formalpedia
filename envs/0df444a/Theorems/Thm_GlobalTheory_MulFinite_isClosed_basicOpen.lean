@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulFinite_isClosed_basicOpen
 -- name    : GlobalTheory.MulFinite.isClosed_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:28:16.379153+00:00
 -- url     : https://prove2.me/theorems/e110cb35-16b5-4104-a3cd-3b2f1c7672eb

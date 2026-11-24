@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PicPi_exists_one_tmul
 -- name    : GlobalTheory.PicPi.exists_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:30.791613+00:00
 -- url     : https://prove2.me/theorems/61df0da5-a254-4b38-b9bc-e02244adcbac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_long_weyl_element_measurable
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.long_weyl_element_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:03:26.17363+00:00
 -- url     : https://prove2.me/theorems/0a357ced-08f1-471b-bdab-c65983295727

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrescribedRank_finClasses
 -- name    : GlobalTheory.PrescribedRank.finClasses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:55:40.822174+00:00
 -- url     : https://prove2.me/theorems/c8b93133-5d5e-4336-9141-6c0cbf5543f5

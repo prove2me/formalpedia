@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeNatCastMembership_exists_prime_natCast_mem
 -- name    : GlobalTheory.PrimeNatCastMembership.exists_prime_natCast_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:15.739166+00:00
 -- url     : https://prove2.me/theorems/aa7daf8c-fe7b-4132-9e07-02758eefb169

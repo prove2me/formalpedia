@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_lowerTri_mul
 -- name    : GlobalTheory.Frames.lowerTri_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:47.311059+00:00
 -- url     : https://prove2.me/theorems/56eac5fb-e9c2-44eb-90c6-b05d87d8720b

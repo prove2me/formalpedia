@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_dia_unitary
 -- name    : GlobalTheory.PairOp.dia_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:43:51.606318+00:00
 -- url     : https://prove2.me/theorems/1e374db2-9b44-4672-b510-336e70f98b0c

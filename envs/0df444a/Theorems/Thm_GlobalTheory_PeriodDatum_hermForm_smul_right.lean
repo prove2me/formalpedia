@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDatum_hermForm_smul_right
 -- name    : GlobalTheory.PeriodDatum.hermForm_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:44:20.642701+00:00
 -- url     : https://prove2.me/theorems/8f6322a8-2c99-4bd2-8cbc-8a04496cc8e9

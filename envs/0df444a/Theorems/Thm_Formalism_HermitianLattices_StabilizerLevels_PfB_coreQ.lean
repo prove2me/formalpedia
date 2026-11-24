@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_PfB_coreQ
 -- name    : Formalism.HermitianLattices.StabilizerLevels.PfB.coreQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:11:55.367885+00:00
 -- url     : https://prove2.me/theorems/b44cd73e-30a7-4fba-8213-9dbee048141a

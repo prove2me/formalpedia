@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formallyUnramified_mulN
 -- name    : GlobalTheory.formallyUnramified_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:15.011083+00:00
 -- url     : https://prove2.me/theorems/9a7cef88-e583-4972-a94f-9169c51308cc

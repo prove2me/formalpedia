@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesIdealPowers_coeff_mem_of_mem_pow
 -- name    : GlobalTheory.PowerSeriesIdealPowers.coeff_mem_of_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:33.262551+00:00
 -- url     : https://prove2.me/theorems/2135c76e-8c26-4be3-858f-25dd7f68178e

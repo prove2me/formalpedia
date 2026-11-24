@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_jetRel_divQuot
 -- name    : GlobalTheory.JetConj.jetRel_divQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:40.85118+00:00
 -- url     : https://prove2.me/theorems/e62c6be0-5389-4133-b860-61df11018916

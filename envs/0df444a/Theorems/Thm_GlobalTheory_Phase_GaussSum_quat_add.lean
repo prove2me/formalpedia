@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_GaussSum_quat_add
 -- name    : GlobalTheory.Phase.GaussSum.quat_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:43:20.03672+00:00
 -- url     : https://prove2.me/theorems/3f60a8b2-9a37-44cc-bee2-6925308c43b4

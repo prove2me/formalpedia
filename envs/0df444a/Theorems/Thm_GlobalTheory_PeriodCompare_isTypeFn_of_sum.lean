@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_isTypeFn_of_sum
 -- name    : GlobalTheory.PeriodCompare.isTypeFn_of_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:43:32.44285+00:00
 -- url     : https://prove2.me/theorems/323d3205-a295-4123-b694-471e4229f44c

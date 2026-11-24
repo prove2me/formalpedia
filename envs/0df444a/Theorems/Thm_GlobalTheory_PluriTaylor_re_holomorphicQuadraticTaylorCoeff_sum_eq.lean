@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PluriTaylor_re_holomorphicQuadraticTaylorCoeff_sum_eq
 -- name    : GlobalTheory.PluriTaylor.re_holomorphicQuadraticTaylorCoeff_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:48:41.472989+00:00
 -- url     : https://prove2.me/theorems/2e054bce-1410-409b-9f7f-5759c6432002

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_isSeparated
 -- name    : GlobalTheory.IsAffineQuotient.isSeparated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:27:21.962317+00:00
 -- url     : https://prove2.me/theorems/eaeb9f27-7c83-42e4-91c4-eaab4d8f1cde

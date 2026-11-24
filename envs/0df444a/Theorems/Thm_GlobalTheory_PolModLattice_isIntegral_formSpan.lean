@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolModLattice_isIntegral_formSpan
 -- name    : GlobalTheory.PolModLattice.isIntegral_formSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:49:59.341809+00:00
 -- url     : https://prove2.me/theorems/3652d2dc-8630-4cc2-9996-1a2feeb3f247

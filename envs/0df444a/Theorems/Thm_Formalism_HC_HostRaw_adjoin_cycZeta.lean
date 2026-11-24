@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_adjoin_cycZeta
 -- name    : Formalism.HC.HostRaw.adjoin_cycZeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:24:35.879878+00:00
 -- url     : https://prove2.me/theorems/953216c7-c084-4a2b-bea0-836d3962c46a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowLinSpan_degreeOf_polOf_le
 -- name    : GlobalTheory.PowLinSpan.degreeOf_polOf_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:51:29.976294+00:00
 -- url     : https://prove2.me/theorems/6e8f49e7-449f-4a17-84dc-bc8f7fd3233b

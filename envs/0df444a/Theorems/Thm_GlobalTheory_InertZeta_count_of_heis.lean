@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_count_of_heis
 -- name    : GlobalTheory.InertZeta.count_of_heis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:18:55.615079+00:00
 -- url     : https://prove2.me/theorems/2f6d939c-d4e8-4e2c-831c-14ad40ad3abf

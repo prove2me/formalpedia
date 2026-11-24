@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiLattice_trPt_inv_comp
 -- name    : GlobalTheory.PhiLattice.trPt_inv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:47:16.615793+00:00
 -- url     : https://prove2.me/theorems/2f5cd817-5c71-4d5b-b6d8-8059343afa6b

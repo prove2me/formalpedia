@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_zeros_symm_one_sub
 -- name    : GlobalTheory.Mem.An.zeros_symm_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:40:07.984793+00:00
 -- url     : https://prove2.me/theorems/18763b33-af84-4f01-b39c-7fa4d6dfa6a2

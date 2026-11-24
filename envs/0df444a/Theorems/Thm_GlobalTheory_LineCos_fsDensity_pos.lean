@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_fsDensity_pos
 -- name    : GlobalTheory.LineCos.fsDensity_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:08:04.864798+00:00
 -- url     : https://prove2.me/theorems/d4747b2b-a017-41a6-9baf-9c61618070a7

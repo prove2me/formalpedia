@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_vecMul_blockMatrix
 -- name    : GlobalTheory.CompanionTheory.InertSpan.vecMul_blockMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:05:01.408233+00:00
 -- url     : https://prove2.me/theorems/998eedde-4f73-4296-bc00-c49e558e5c49

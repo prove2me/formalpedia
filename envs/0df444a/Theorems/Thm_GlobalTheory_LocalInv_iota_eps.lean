@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_iota_eps
 -- name    : GlobalTheory.LocalInv.iota_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:24:08.80837+00:00
 -- url     : https://prove2.me/theorems/2cb0d96c-2c69-475f-91fa-aaafed7d3eeb

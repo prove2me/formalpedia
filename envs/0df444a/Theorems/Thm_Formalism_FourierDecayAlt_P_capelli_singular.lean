@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_singular
 -- name    : Formalism.FourierDecayAlt.P.capelli_singular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:17:23.931521+00:00
 -- url     : https://prove2.me/theorems/30099721-e047-474b-a232-85b6405616ba

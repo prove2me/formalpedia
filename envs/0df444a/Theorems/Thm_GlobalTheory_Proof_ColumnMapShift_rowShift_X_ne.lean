@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_ColumnMapShift_rowShift_X_ne
 -- name    : GlobalTheory.Proof.ColumnMapShift.rowShift_X_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:56:01.4247+00:00
 -- url     : https://prove2.me/theorems/2591911e-b004-4412-a550-e86b7965d612

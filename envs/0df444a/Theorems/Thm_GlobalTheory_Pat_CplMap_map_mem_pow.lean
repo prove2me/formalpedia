@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_CplMap_map_mem_pow
 -- name    : GlobalTheory.Pat.CplMap.map_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:42:03.261803+00:00
 -- url     : https://prove2.me/theorems/3810f8b0-43dd-44e9-9bd9-9da8c8bceefa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DifferentialOperatorClasses_op_supp
 -- name    : Formalism.FourierDecayAlt.P.DifferentialOperatorClasses.op_supp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:13:08.762296+00:00
 -- url     : https://prove2.me/theorems/2c2b2e80-31fe-4105-bc90-4fc3239418d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OneSpace_det_gram
 -- name    : GlobalTheory.OneSpace.det_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:38:09.030243+00:00
 -- url     : https://prove2.me/theorems/bfcd4f19-d629-4c9c-9242-518936ccc8c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvHom_invDer_along_hom
 -- name    : GlobalTheory.KS.InvHom.invDer_along_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:40:58.841513+00:00
 -- url     : https://prove2.me/theorems/ce108fea-93e1-4e66-8d62-82a79a7dd513

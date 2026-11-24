@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x7_levM_cont
 -- name    : Formalism.FourierDecayAlt.P.B2x7.levM_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:45:29.163627+00:00
 -- url     : https://prove2.me/theorems/1f6d8879-b16a-4a6b-ace9-a7569d154980

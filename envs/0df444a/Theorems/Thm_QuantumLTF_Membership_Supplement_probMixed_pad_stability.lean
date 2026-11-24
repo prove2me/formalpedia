@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_Supplement_probMixed_pad_stability
 -- name    : QuantumLTF.Membership.Supplement.probMixed_pad_stability
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-24T19:23:52.893173+00:00
 -- url     : https://prove2.me/theorems/97cc08da-cb9a-4410-868c-bec070fc43e7

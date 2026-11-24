@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingLocus_appTop_eq_one_iff
 -- name    : GlobalTheory.PairingLocus.appTop_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:41:06.663782+00:00
 -- url     : https://prove2.me/theorems/f3829db4-1c85-4c5e-a6f5-672fb29c811b

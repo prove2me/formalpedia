@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_herm_conj
 -- name    : GlobalTheory.PeriodCoord.herm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:42:54.672045+00:00
 -- url     : https://prove2.me/theorems/c8aa72de-b095-4134-a4b0-c5f39dde99ea

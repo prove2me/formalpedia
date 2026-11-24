@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodExists_exists_imaginary
 -- name    : GlobalTheory.PeriodExists.exists_imaginary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:43:53.453336+00:00
 -- url     : https://prove2.me/theorems/7bdd544d-1ba6-4d12-b8f9-2536fd01e633

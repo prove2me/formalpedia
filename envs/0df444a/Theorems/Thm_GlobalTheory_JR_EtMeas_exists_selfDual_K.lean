@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtMeas_exists_selfDual_K
 -- name    : GlobalTheory.JR.EtMeas.exists_selfDual_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:05.762397+00:00
 -- url     : https://prove2.me/theorems/e17f625e-faaa-4336-94e5-3c04cf750f08

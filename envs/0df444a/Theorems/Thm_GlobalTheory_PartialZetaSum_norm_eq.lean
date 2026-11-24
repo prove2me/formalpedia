@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialZetaSum_norm_eq
 -- name    : GlobalTheory.PartialZetaSum.norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:40:54.082275+00:00
 -- url     : https://prove2.me/theorems/1725273f-bd1a-4db6-8789-1c1f24ced9ea

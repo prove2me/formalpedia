@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairingCount_one_side
 -- name    : GlobalTheory.PerfectPairingCount.one_side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:42:18.021212+00:00
 -- url     : https://prove2.me/theorems/23b53eba-e563-421a-b3a3-9fb381e12470

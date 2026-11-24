@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerInRangeTensorRight_exists_pow_pow_mem_range_includeRight
 -- name    : GlobalTheory.PowerInRangeTensorRight.exists_pow_pow_mem_range_includeRight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:52:10.026256+00:00
 -- url     : https://prove2.me/theorems/e411154d-9018-4e74-b990-4592c4eff443

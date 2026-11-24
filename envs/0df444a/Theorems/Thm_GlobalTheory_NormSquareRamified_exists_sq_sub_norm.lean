@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSquareRamified_exists_sq_sub_norm
 -- name    : GlobalTheory.NormSquareRamified.exists_sq_sub_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:48:51.984461+00:00
 -- url     : https://prove2.me/theorems/1f0945b7-c7c4-4b60-a9ce-a962b3181cee

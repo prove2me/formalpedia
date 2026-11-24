@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicEmb_exists_embedding
 -- name    : GlobalTheory.PadicEmb.exists_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:39:39.93682+00:00
 -- url     : https://prove2.me/theorems/444ba104-9f2a-4a75-92c9-4728018bcda8

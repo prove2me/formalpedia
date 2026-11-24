@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointQuot_exists_grpObj_of_mono
 -- name    : GlobalTheory.PointQuot.exists_grpObj_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:50:05.365478+00:00
 -- url     : https://prove2.me/theorems/e0073895-644d-4b12-993a-3dbf0a9a789b

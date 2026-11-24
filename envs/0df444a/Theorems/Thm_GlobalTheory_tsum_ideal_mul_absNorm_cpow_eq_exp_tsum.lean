@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tsum_ideal_mul_absNorm_cpow_eq_exp_tsum
 -- name    : GlobalTheory.tsum_ideal_mul_absNorm_cpow_eq_exp_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:43.593226+00:00
 -- url     : https://prove2.me/theorems/fa32939d-cde9-4402-88f6-dabbe7dacb4c

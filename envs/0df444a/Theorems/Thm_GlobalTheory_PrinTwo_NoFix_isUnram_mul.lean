@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_NoFix_isUnram_mul
 -- name    : GlobalTheory.PrinTwo.NoFix.isUnram_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:56:05.784332+00:00
 -- url     : https://prove2.me/theorems/57a944f8-c8aa-46a8-ae2d-d5a772d9ac73

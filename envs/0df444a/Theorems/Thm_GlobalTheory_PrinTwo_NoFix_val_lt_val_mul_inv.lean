@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_NoFix_val_lt_val_mul_inv
 -- name    : GlobalTheory.PrinTwo.NoFix.val_lt_val_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:56:14.113739+00:00
 -- url     : https://prove2.me/theorems/582e9cc2-3962-4e5a-9362-473d6df6f9a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultinomialCount_card_mul_prod_factorial
 -- name    : GlobalTheory.MultinomialCount.card_mul_prod_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:29:37.626303+00:00
 -- url     : https://prove2.me/theorems/c122f08e-ddc6-44d4-a360-fe81c89a8597

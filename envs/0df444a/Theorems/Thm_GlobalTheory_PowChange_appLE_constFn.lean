@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowChange_appLE_constFn
 -- name    : GlobalTheory.PowChange.appLE_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:51:45.955419+00:00
 -- url     : https://prove2.me/theorems/3383e711-4e4e-447a-97ce-7906afdf9b3a

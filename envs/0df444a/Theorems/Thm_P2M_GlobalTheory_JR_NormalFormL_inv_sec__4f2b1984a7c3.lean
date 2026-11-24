@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_JR_NormalFormL_inv_sec__4f2b1984a7c3
 -- name    : P2M_GlobalTheory_JR_NormalFormL_inv_sec__4f2b1984a7c3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:40:16.945953+00:00
 -- url     : https://prove2.me/theorems/66a99d67-c58e-4a39-bd2f-4b5f1fdbbfa9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_LhsSum_exists_lower_norm
 -- name    : GlobalTheory.LipschitzTR.LhsSum.exists_lower_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:11:03.090131+00:00
 -- url     : https://prove2.me/theorems/e6e6782e-510a-45be-aa2d-9c10f6658f87

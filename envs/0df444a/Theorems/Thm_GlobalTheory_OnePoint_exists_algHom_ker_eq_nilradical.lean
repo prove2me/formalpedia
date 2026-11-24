@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_algHom_ker_eq_nilradical
 -- name    : GlobalTheory.OnePoint.exists_algHom_ker_eq_nilradical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:37:41.531847+00:00
 -- url     : https://prove2.me/theorems/1bd9fef6-521e-4faa-92dd-172a7f007d41

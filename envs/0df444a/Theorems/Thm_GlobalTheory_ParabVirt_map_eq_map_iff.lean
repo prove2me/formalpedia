@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ParabVirt_map_eq_map_iff
 -- name    : GlobalTheory.ParabVirt.map_eq_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:40:58.930307+00:00
 -- url     : https://prove2.me/theorems/8891b1ee-58de-4a5a-ace2-a44a3f0c72d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_mem_primeIdealOf_iff
 -- name    : GlobalTheory.PrimeSection.mem_primeIdealOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:29:24.645717+00:00
 -- url     : https://prove2.me/theorems/e8486038-1809-401a-a037-d18bedfc3368

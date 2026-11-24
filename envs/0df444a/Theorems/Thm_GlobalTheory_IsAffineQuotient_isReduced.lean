@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_isReduced
 -- name    : GlobalTheory.IsAffineQuotient.isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:41.655301+00:00
 -- url     : https://prove2.me/theorems/e7e0b3e7-ef7c-4a23-bba7-76744e227e91

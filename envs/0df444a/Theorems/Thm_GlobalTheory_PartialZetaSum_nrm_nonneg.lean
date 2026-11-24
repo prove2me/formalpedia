@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialZetaSum_nrm_nonneg
 -- name    : GlobalTheory.PartialZetaSum.nrm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:40:56.19892+00:00
 -- url     : https://prove2.me/theorems/0eb3789d-4beb-47d2-9d48-e442b4b6e701

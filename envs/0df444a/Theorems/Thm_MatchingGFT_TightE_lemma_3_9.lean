@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchingGFT_TightE_lemma_3_9
 -- name    : MatchingGFT.TightE.lemma_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:50:15.23986+00:00
 -- url     : https://prove2.me/theorems/8e1fbc25-bd08-472d-92b0-282b65d40a84

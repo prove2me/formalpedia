@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondensedComplexGeometry_ostrowski_algebraic
 -- name    : CondensedComplexGeometry.ostrowski_algebraic
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-23T01:41:37.044061+00:00
 -- url     : https://prove2.me/theorems/462eb92f-0480-4332-aebf-e9e39411945e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_fourierInv_iff
 -- name    : GlobalTheory.FourierChainCompare.fourierInv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:54:45.555735+00:00
 -- url     : https://prove2.me/theorems/20cd4f41-af8b-4ec0-9739-a8c176d5d508

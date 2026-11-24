@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodVol_periodMap_apply
 -- name    : GlobalTheory.PeriodVol.periodMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:45:26.087411+00:00
 -- url     : https://prove2.me/theorems/4a853a8e-ee88-42e9-8d73-bb12a76e15f5

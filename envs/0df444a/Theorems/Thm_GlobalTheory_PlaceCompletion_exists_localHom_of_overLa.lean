@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceCompletion_exists_localHom_of_overLa
 -- name    : GlobalTheory.PlaceCompletion.exists_localHom_of_overLa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:58.679829+00:00
 -- url     : https://prove2.me/theorems/31f84bd4-a9b4-4556-9c35-0c30a1279160

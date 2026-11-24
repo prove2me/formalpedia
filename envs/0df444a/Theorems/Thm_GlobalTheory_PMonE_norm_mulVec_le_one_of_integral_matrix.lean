@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_norm_mulVec_le_one_of_integral_matrix
 -- name    : GlobalTheory.PMonE.norm_mulVec_le_one_of_integral_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:40:49.85538+00:00
 -- url     : https://prove2.me/theorems/71dd3542-928d-41ee-9d34-ecdffa8df7ca

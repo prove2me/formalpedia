@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_ph_mul
 -- name    : GlobalTheory.Phase.Doubling.ph_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:43:30.077455+00:00
 -- url     : https://prove2.me/theorems/f0733b32-6d49-444d-9147-e30d807217ea

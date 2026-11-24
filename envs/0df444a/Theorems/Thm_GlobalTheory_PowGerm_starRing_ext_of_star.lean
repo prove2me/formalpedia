@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_starRing_ext_of_star
 -- name    : GlobalTheory.PowGerm.starRing_ext_of_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:52:03.375629+00:00
 -- url     : https://prove2.me/theorems/363123b8-21e4-4fbb-a801-9f56f702e0fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_summable_rowError
 -- name    : GlobalTheory.KroneckerLimit.summable_rowError
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:54:43.206708+00:00
 -- url     : https://prove2.me/theorems/a3a053bd-b9de-476b-af11-ebe907c422ad

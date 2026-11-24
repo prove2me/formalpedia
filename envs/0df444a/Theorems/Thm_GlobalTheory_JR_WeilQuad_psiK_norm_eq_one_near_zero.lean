@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_psiK_norm_eq_one_near_zero
 -- name    : GlobalTheory.JR.WeilQuad.psiK_norm_eq_one_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:38:33.948432+00:00
 -- url     : https://prove2.me/theorems/eda173f4-6858-41f7-8dd5-0712cccd91c0

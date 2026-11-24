@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_exists_fin
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.exists_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:23:31.336724+00:00
 -- url     : https://prove2.me/theorems/8d2e9734-2c8c-48bf-b702-b192eef8860f

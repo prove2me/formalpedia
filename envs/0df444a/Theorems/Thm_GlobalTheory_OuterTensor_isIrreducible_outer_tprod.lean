@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OuterTensor_isIrreducible_outer_tprod
 -- name    : GlobalTheory.OuterTensor.isIrreducible_outer_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:38:47.589302+00:00
 -- url     : https://prove2.me/theorems/d6e73e1f-19fd-4ff9-96ff-7d83039f255c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDvd_exists_eq_mul_geom
 -- name    : GlobalTheory.PeriodDvd.exists_eq_mul_geom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:42:12.254055+00:00
 -- url     : https://prove2.me/theorems/68305aa1-cafa-4484-9fa5-9bc343fa18ee

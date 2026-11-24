@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitCounting_stabilizer_smul_eq
 -- name    : GlobalTheory.OrbitCounting.stabilizer_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:37:08.479832+00:00
 -- url     : https://prove2.me/theorems/dbb847d5-de24-4285-8204-b5ec8f908657

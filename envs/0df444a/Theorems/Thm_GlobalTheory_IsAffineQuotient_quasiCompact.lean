@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_quasiCompact
 -- name    : GlobalTheory.IsAffineQuotient.quasiCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:28:46.773086+00:00
 -- url     : https://prove2.me/theorems/c3209b82-e068-4eb5-8116-c7e8965bce29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolModLattice_formSpan_le_imag
 -- name    : GlobalTheory.PolModLattice.formSpan_le_imag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:50:34.859802+00:00
 -- url     : https://prove2.me/theorems/abd8e1f1-590d-417c-908b-6da1c4467396

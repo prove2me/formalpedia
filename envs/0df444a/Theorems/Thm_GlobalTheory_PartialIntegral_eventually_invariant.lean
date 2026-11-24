@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialIntegral_eventually_invariant
 -- name    : GlobalTheory.PartialIntegral.eventually_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:41:13.480695+00:00
 -- url     : https://prove2.me/theorems/d53fb69e-c1a9-4793-9972-158c0cd84fff

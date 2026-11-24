@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodicSumShift_periodic_shift
 -- name    : GlobalTheory.PeriodicSumShift.periodic_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:43:35.049396+00:00
 -- url     : https://prove2.me/theorems/462aabfe-11d7-4903-8f94-6bacd5138392

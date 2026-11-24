@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitAvg_avg_eq
 -- name    : GlobalTheory.OrbitAvg.avg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:32:21.205264+00:00
 -- url     : https://prove2.me/theorems/f95811ff-f7bf-4f0d-92c2-6d53b125ee9a

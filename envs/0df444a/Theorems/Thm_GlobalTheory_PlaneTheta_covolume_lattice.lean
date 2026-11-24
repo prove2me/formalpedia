@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaneTheta_covolume_lattice
 -- name    : GlobalTheory.PlaneTheta.covolume_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:48:32.576606+00:00
 -- url     : https://prove2.me/theorems/cebb9024-77a1-40a7-bc36-e4970c02b8a4

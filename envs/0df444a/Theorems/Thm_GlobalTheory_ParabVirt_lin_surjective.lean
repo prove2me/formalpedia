@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ParabVirt_lin_surjective
 -- name    : GlobalTheory.ParabVirt.lin_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:41:19.471371+00:00
 -- url     : https://prove2.me/theorems/3fdabd62-183e-4d03-b822-b3d033dcc2b9

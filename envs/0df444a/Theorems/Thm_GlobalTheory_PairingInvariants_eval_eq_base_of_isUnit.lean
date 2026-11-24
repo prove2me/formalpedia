@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingInvariants_eval_eq_base_of_isUnit
 -- name    : GlobalTheory.PairingInvariants.eval_eq_base_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:41:21.799862+00:00
 -- url     : https://prove2.me/theorems/5a052b4f-aef6-4816-b49a-d31fb5cede9a

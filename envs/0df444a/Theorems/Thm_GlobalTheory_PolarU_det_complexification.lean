@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolarU_det_complexification
 -- name    : GlobalTheory.PolarU.det_complexification
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:50:04.755806+00:00
 -- url     : https://prove2.me/theorems/f53fb0e8-ec5e-47d8-a040-1682ca921ea7

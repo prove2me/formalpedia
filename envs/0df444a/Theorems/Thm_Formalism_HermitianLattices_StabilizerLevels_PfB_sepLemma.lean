@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_PfB_sepLemma
 -- name    : Formalism.HermitianLattices.StabilizerLevels.PfB.sepLemma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:13:10.038628+00:00
 -- url     : https://prove2.me/theorems/30a397ee-044a-4624-9c86-1367b7a61c4c

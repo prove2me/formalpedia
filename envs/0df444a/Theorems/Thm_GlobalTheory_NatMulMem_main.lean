@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMulMem_main
 -- name    : GlobalTheory.NatMulMem.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:32:32.254333+00:00
 -- url     : https://prove2.me/theorems/e3c179b5-b9d6-465f-8c03-b75643172c7c

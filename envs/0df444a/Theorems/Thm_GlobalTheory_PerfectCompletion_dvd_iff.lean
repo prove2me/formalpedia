@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectCompletion_dvd_iff
 -- name    : GlobalTheory.PerfectCompletion.dvd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:41:04.148042+00:00
 -- url     : https://prove2.me/theorems/08750668-d5db-44b3-9ff0-d208f7993870

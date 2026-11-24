@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceOver_isOpen_valuation_lt_one
 -- name    : GlobalTheory.PlaceOver.isOpen_valuation_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:43.591659+00:00
 -- url     : https://prove2.me/theorems/a66f813b-f8d1-4c81-b2fc-1c25820b8ed3

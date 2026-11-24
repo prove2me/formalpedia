@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_eq_of_germ_eq
 -- name    : GlobalTheory.PrimeSection.eq_of_germ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:39.577073+00:00
 -- url     : https://prove2.me/theorems/c7d5856e-b221-4d88-94a3-e8f5b3cb17e1

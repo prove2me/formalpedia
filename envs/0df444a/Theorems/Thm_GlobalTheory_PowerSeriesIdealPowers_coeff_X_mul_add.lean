@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesIdealPowers_coeff_X_mul_add
 -- name    : GlobalTheory.PowerSeriesIdealPowers.coeff_X_mul_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:34.106199+00:00
 -- url     : https://prove2.me/theorems/d5162e04-ca6a-46e7-8efa-2057a145e7b2

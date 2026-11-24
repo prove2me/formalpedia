@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxE_hpart2_eq_zero_of_inLie
 -- name    : Formalism.FourierDecayAlt.P.JFxE.hpart2_eq_zero_of_inLie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:35:42.603506+00:00
 -- url     : https://prove2.me/theorems/9ff0dd38-e4c7-4d82-a8e9-e2d5000df237

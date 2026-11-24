@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_restrict_mem_Psi
 -- name    : Formalism.HC.Der.kc_restrict_mem_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:50:05.502008+00:00
 -- url     : https://prove2.me/theorems/7cfbf219-6dbe-42cb-be1e-ae940512989a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesIdealPowers_X_mem_max
 -- name    : GlobalTheory.PowerSeriesIdealPowers.X_mem_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:18.988473+00:00
 -- url     : https://prove2.me/theorems/1031abd3-2e19-4f1e-9ac3-f7613dbfcdb9

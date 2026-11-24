@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AllClasses_dvd_sign_sq
 -- name    : GlobalTheory.AllClasses.dvd_sign_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:00:05.443308+00:00
 -- url     : https://prove2.me/theorems/105ad47f-53b1-40e9-9136-3e4ae6d08080

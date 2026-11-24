@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KLowSpan_eq_smul_of_top
 -- name    : GlobalTheory.CompanionTheory.KLowSpan.eq_smul_of_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:39.13404+00:00
 -- url     : https://prove2.me/theorems/70acbdb4-82c4-4338-8bc8-bc5617504b07

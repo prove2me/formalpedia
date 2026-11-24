@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenIdeleCongr_exists_exp_of_nhds
 -- name    : GlobalTheory.OpenIdeleCongr.exists_exp_of_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:38.069911+00:00
 -- url     : https://prove2.me/theorems/ef3724d9-a4cb-4c03-874d-e28d5e2ba950

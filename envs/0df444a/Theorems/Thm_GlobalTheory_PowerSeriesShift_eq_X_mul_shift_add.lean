@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesShift_eq_X_mul_shift_add
 -- name    : GlobalTheory.PowerSeriesShift.eq_X_mul_shift_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:53:57.087918+00:00
 -- url     : https://prove2.me/theorems/ca84211f-645e-4b2b-88ee-0e4a0681b8e4

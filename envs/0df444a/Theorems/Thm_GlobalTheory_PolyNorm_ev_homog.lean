@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyNorm_ev_homog
 -- name    : GlobalTheory.PolyNorm.ev_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:50:44.753844+00:00
 -- url     : https://prove2.me/theorems/ea8da24f-3a24-4308-a5f1-5428a8f14062

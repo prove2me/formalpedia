@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_Inh_condC_stdLat
 -- name    : GlobalTheory.PhiGam.Inh.condC_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:44:24.62594+00:00
 -- url     : https://prove2.me/theorems/03671701-42ea-494c-a49d-444404efe798

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowBasis_gs_sum
 -- name    : GlobalTheory.PowBasis.gs_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:51:18.736204+00:00
 -- url     : https://prove2.me/theorems/8c1b14f0-b831-4a37-a235-2f95a754bf78

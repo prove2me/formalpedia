@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OppRad_step
 -- name    : GlobalTheory.OppRad.step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:02.337808+00:00
 -- url     : https://prove2.me/theorems/0cdca971-e5c7-411c-8bb8-a04944cf062c

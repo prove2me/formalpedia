@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_one_add_pow_of_sq
 -- name    : Formalism.L2.G.Triv.one_add_pow_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:36.039002+00:00
 -- url     : https://prove2.me/theorems/ad4c1b62-727e-47b4-9042-594f0335cff2

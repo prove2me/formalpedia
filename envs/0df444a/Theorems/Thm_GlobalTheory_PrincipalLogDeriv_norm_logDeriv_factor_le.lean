@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrincipalLogDeriv_norm_logDeriv_factor_le
 -- name    : GlobalTheory.PrincipalLogDeriv.norm_logDeriv_factor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:56:22.150802+00:00
 -- url     : https://prove2.me/theorems/1aa675d8-a533-4410-9fb9-7c6336ad2b5e

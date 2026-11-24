@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_weyl_cell_apply_other
 -- name    : Formalism.FourierDecayAlt.P.Qx4.weyl_cell_apply_other
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:22:13.914845+00:00
 -- url     : https://prove2.me/theorems/5e9cc340-f1a1-4250-aa23-d7fa29d01d0f

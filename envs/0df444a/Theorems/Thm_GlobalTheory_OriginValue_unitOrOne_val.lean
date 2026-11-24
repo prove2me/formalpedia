@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OriginValue_unitOrOne_val
 -- name    : GlobalTheory.OriginValue.unitOrOne_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:34.459961+00:00
 -- url     : https://prove2.me/theorems/129d6fea-df04-41b1-8e73-f433d118a8f4

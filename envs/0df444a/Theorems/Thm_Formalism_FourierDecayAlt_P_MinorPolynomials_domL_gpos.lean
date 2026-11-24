@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_domL_gpos
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.domL_gpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:27:35.130281+00:00
 -- url     : https://prove2.me/theorems/1ca74b23-b2f9-48d2-85d5-2053e55865ca

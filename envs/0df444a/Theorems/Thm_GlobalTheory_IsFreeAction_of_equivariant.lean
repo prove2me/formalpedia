@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsFreeAction_of_equivariant
 -- name    : GlobalTheory.IsFreeAction.of_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:27:09.802892+00:00
 -- url     : https://prove2.me/theorems/2c62b645-94bf-4ecf-bd2e-6c9bae03a2ab

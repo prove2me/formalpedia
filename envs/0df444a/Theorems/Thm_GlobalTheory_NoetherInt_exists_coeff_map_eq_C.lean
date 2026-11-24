@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherInt_exists_coeff_map_eq_C
 -- name    : GlobalTheory.NoetherInt.exists_coeff_map_eq_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:34:55.222712+00:00
 -- url     : https://prove2.me/theorems/8e828a5c-607d-4b5b-8fe3-3bbefa594bd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingInvariants_eval_act_diagonal
 -- name    : GlobalTheory.PairingInvariants.eval_act_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:41:00.411356+00:00
 -- url     : https://prove2.me/theorems/6db9b42e-90f4-4fe7-9f0c-15226ff59e25

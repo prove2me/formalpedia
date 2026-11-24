@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_langCount_integral
 -- name    : GlobalTheory.PMonE.langCount_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:36.947267+00:00
 -- url     : https://prove2.me/theorems/a54829d7-5e82-4ed5-b5a1-03b3d84535fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimaryTorsionBlocks_mem_killedBy_iff
 -- name    : GlobalTheory.PrimaryTorsionBlocks.mem_killedBy_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:53:47.212912+00:00
 -- url     : https://prove2.me/theorems/6638685d-e691-4947-99dc-4b75ccb7ecb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_exists_large_auxiliary_prime
 -- name    : GlobalTheory.Models.exists_large_auxiliary_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:27:16.816349+00:00
 -- url     : https://prove2.me/theorems/2900d838-dd00-483f-b454-7df2bd239259

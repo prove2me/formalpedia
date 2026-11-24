@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_isPeriod_of_presents
 -- name    : GlobalTheory.PeriodCompare.isPeriod_of_presents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:43:10.076426+00:00
 -- url     : https://prove2.me/theorems/771df675-a5ee-4d38-a9aa-0570cf6f92c3

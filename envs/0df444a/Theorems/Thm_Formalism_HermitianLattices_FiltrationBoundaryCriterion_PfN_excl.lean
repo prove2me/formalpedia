@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfN_excl
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.excl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:47:41.507709+00:00
 -- url     : https://prove2.me/theorems/a3eeac3d-ef06-4b55-97a8-314436f471b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_GaussSum_isMu_norm
 -- name    : GlobalTheory.Phase.GaussSum.isMu_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:43:36.906198+00:00
 -- url     : https://prove2.me/theorems/e68c593d-0edd-46ea-87a8-dc637953a0af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_isClosed_box
 -- name    : GlobalTheory.PlancherelZero.isClosed_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:48:25.845317+00:00
 -- url     : https://prove2.me/theorems/bc36cda7-fe27-47c1-93f5-74bf7f5858c7

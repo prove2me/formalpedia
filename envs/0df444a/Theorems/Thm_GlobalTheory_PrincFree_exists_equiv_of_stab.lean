@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrincFree_exists_equiv_of_stab
 -- name    : GlobalTheory.PrincFree.exists_equiv_of_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:21:49.199599+00:00
 -- url     : https://prove2.me/theorems/080ad5fd-0519-471a-8f64-9ce61478ceb6

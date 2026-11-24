@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_prod_isPol
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.prod_isPol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:54:45.224303+00:00
 -- url     : https://prove2.me/theorems/18a96abf-db5f-4843-957d-abbbe3f3d275

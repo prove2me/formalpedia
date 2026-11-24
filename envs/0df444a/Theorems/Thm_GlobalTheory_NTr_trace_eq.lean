@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NTr_trace_eq
 -- name    : GlobalTheory.NTr.trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:38:42.018559+00:00
 -- url     : https://prove2.me/theorems/5ee7617e-f5a1-493a-8094-5bf4baf08152

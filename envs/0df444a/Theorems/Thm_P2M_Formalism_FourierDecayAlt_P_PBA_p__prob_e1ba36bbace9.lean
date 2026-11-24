@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_PBA_p__prob_e1ba36bbace9
 -- name    : P2M_Formalism_FourierDecayAlt_P_PBA_p__prob_e1ba36bbace9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:32:50.470805+00:00
 -- url     : https://prove2.me/theorems/eba481a2-1d86-41ac-bab9-1e3f8cb1c477

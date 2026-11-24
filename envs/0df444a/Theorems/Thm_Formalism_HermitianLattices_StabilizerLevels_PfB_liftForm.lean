@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_PfB_liftForm
 -- name    : Formalism.HermitianLattices.StabilizerLevels.PfB.liftForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:12:32.36254+00:00
 -- url     : https://prove2.me/theorems/83f1933a-bb83-4a57-a509-81c9a7039878

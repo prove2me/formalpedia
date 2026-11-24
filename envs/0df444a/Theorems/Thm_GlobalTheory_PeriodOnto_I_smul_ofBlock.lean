@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_I_smul_ofBlock
 -- name    : GlobalTheory.PeriodOnto.I_smul_ofBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:42:06.093063+00:00
 -- url     : https://prove2.me/theorems/c0a9ee2c-24b9-40c4-b256-0bde8f554d11

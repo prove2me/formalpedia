@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_isNormalScheme_dvr
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.isNormalScheme_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:29:32.809254+00:00
 -- url     : https://prove2.me/theorems/f804f87b-c1d3-4413-9204-113d33273e6f

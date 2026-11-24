@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capelli_highest_weight_conjugated
 -- name    : Formalism.QuantumDeterminants.capelli_highest_weight_conjugated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:00:20.561101+00:00
 -- url     : https://prove2.me/theorems/dc3fd979-255a-4f05-a3bc-82d9524c76d3

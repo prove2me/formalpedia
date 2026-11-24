@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_finrank_restrictTotalDegree
 -- name    : GlobalTheory.MvPoly.finrank_restrictTotalDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:29:09.683202+00:00
 -- url     : https://prove2.me/theorems/fd6c81cf-76a4-4693-846d-f2cad4e0b944

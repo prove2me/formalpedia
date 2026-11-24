@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowLinSpan_coeff_polOf
 -- name    : GlobalTheory.PowLinSpan.coeff_polOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:51:45.037686+00:00
 -- url     : https://prove2.me/theorems/d70ea6fc-860a-4976-b87b-9888c2f79208

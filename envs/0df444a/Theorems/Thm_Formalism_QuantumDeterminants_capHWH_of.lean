@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capHWH_of
 -- name    : Formalism.QuantumDeterminants.capHWH_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:00:40.360796+00:00
 -- url     : https://prove2.me/theorems/e44645b8-37a0-4e55-aad9-851aede64711

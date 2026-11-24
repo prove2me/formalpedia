@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_prep_pow_sub_mulVec
 -- name    : GlobalTheory.PMonE.prep_pow_sub_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:39:29.245137+00:00
 -- url     : https://prove2.me/theorems/6fc5ff7d-9f8a-482d-97fa-2073348a9a8c

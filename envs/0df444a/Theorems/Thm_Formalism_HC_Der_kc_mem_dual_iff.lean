@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_mem_dual_iff
 -- name    : Formalism.HC.Der.kc_mem_dual_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:10:20.324497+00:00
 -- url     : https://prove2.me/theorems/7018515e-7d4b-4b60-afc7-c56e67c13772

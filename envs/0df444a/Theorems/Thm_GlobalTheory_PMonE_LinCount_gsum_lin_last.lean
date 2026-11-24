@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LinCount_gsum_lin_last
 -- name    : GlobalTheory.PMonE.LinCount.gsum_lin_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:06.211221+00:00
 -- url     : https://prove2.me/theorems/c84fdf0f-f6d2-4379-80f2-e6dd4cf51d57

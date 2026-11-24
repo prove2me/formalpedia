@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Ph_inv
 -- name    : GlobalTheory.Phase.Ph.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:44:08.219466+00:00
 -- url     : https://prove2.me/theorems/44c249ec-a445-4b08-8c08-c466f0b4c093

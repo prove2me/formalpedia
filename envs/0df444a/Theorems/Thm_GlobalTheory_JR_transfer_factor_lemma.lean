@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_transfer_factor_lemma
 -- name    : GlobalTheory.JR.transfer_factor_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:11.578106+00:00
 -- url     : https://prove2.me/theorems/34acbb64-a0a1-4e39-95b3-257c3015ed76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkLaw_isLawOf_of_match
 -- name    : GlobalTheory.LinkLaw.isLawOf_of_match
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:33:31.422974+00:00
 -- url     : https://prove2.me/theorems/26507375-1d06-4653-bb68-a4debbb34763

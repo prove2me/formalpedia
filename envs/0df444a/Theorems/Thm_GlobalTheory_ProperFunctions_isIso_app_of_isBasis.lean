@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_app_of_isBasis
 -- name    : GlobalTheory.ProperFunctions.isIso_app_of_isBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:56:17.461515+00:00
 -- url     : https://prove2.me/theorems/9beae4e2-0fd4-408c-8f9b-77ea13b0ff32

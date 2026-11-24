@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FrameChange_sec_change
 -- name    : GlobalTheory.JetSer.FrameChange.sec_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:41:38.822131+00:00
 -- url     : https://prove2.me/theorems/55367c4b-e974-4ff5-853d-d292e145d14b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonUnitShift_linearIndependent_resolvent
 -- name    : GlobalTheory.NonUnitShift.linearIndependent_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:45.6248+00:00
 -- url     : https://prove2.me/theorems/5af602e7-c43f-4fb7-ae19-bde0e96c2446

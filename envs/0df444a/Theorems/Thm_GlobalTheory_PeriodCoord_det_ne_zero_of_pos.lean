@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_det_ne_zero_of_pos
 -- name    : GlobalTheory.PeriodCoord.det_ne_zero_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:42:57.315206+00:00
 -- url     : https://prove2.me/theorems/a1855daa-98af-4ffe-bc75-2b4efa56ef65

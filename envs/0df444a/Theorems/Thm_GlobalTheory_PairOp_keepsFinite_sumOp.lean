@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_keepsFinite_sumOp
 -- name    : GlobalTheory.PairOp.keepsFinite_sumOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:15.154559+00:00
 -- url     : https://prove2.me/theorems/5f5bab51-61c3-40bb-8a98-98c1acc674a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_bar_mem_of_mem
 -- name    : GlobalTheory.Models.bar_mem_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:27:11.717459+00:00
 -- url     : https://prove2.me/theorems/951c2474-5612-49de-bcf9-558d07f7df65

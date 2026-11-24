@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NotLeSqSup_main
 -- name    : GlobalTheory.NotLeSqSup.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:47.532888+00:00
 -- url     : https://prove2.me/theorems/c13db6ec-d2bd-499f-95ec-5df02d8f82f3

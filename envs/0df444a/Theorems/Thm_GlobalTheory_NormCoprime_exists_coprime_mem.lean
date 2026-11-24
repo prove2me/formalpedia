@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCoprime_exists_coprime_mem
 -- name    : GlobalTheory.NormCoprime.exists_coprime_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:34:10.163277+00:00
 -- url     : https://prove2.me/theorems/0e6b83b5-0b95-4151-b529-115f8a42f738

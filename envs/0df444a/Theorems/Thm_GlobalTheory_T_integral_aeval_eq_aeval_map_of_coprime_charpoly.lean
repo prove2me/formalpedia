@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_aeval_eq_aeval_map_of_coprime_charpoly
 -- name    : GlobalTheory.T.integral_aeval_eq_aeval_map_of_coprime_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:12:09.209347+00:00
 -- url     : https://prove2.me/theorems/cd84367e-be65-4ba2-b020-e65b2626124d

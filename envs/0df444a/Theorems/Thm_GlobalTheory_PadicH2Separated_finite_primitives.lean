@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicH2Separated_finite_primitives
 -- name    : GlobalTheory.PadicH2Separated.finite_primitives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:39:33.711776+00:00
 -- url     : https://prove2.me/theorems/1c4ed4a5-fe8d-487f-bec4-30077fd90f45

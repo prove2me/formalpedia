@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesIdealPowers_C_mem_pow
 -- name    : GlobalTheory.PowerSeriesIdealPowers.C_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:28.026207+00:00
 -- url     : https://prove2.me/theorems/fab8acd0-f2df-4c44-aa04-9d9922f6be1e

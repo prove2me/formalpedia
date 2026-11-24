@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolModLattice_exists_imag_int
 -- name    : GlobalTheory.PolModLattice.exists_imag_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:49:54.400514+00:00
 -- url     : https://prove2.me/theorems/54185e51-801b-4468-b0f9-bd48af494052

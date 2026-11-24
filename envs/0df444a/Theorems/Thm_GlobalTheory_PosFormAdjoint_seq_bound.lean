@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosFormAdjoint_seq_bound
 -- name    : GlobalTheory.PosFormAdjoint.seq_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:51:11.069161+00:00
 -- url     : https://prove2.me/theorems/d6fa6b33-188e-4549-a982-452104a6e2ff

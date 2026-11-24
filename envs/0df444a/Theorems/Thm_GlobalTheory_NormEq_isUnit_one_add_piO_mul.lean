@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_isUnit_one_add_piO_mul
 -- name    : GlobalTheory.NormEq.isUnit_one_add_piO_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:34:15.649543+00:00
 -- url     : https://prove2.me/theorems/248bbe3c-cc2e-4ba3-9596-f5da6aa632a0

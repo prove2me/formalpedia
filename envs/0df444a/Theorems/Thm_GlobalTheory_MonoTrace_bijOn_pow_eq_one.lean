@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonoTrace_bijOn_pow_eq_one
 -- name    : GlobalTheory.MonoTrace.bijOn_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:28:14.538911+00:00
 -- url     : https://prove2.me/theorems/c722982b-d5ff-4991-bd28-2c7a4d7c0bf0

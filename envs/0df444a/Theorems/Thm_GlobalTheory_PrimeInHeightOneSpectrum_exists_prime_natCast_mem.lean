@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeInHeightOneSpectrum_exists_prime_natCast_mem
 -- name    : GlobalTheory.PrimeInHeightOneSpectrum.exists_prime_natCast_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:55:43.424255+00:00
 -- url     : https://prove2.me/theorems/bd41c02c-6505-48a0-b74f-d6de13b25f03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodicPartition_exists_periodic_bump
 -- name    : GlobalTheory.PeriodicPartition.exists_periodic_bump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:43:20.565909+00:00
 -- url     : https://prove2.me/theorems/42dbc584-bb03-43b4-b855-3a17bd0221c6

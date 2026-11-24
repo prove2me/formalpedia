@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_fourier_phi1_eq_factorial_mul_zpow
 -- name    : GlobalTheory.LipschitzTR.fourier_phi1_eq_factorial_mul_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:49.207867+00:00
 -- url     : https://prove2.me/theorems/e8dbc3ea-e264-4709-8cbf-ec10d181c4c7

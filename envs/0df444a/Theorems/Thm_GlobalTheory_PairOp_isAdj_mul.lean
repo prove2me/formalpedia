@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_isAdj_mul
 -- name    : GlobalTheory.PairOp.isAdj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:07.901864+00:00
 -- url     : https://prove2.me/theorems/531bf48f-faff-4dd4-be10-76765670ae1b

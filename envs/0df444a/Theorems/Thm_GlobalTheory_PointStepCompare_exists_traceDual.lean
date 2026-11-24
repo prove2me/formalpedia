@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointStepCompare_exists_traceDual
 -- name    : GlobalTheory.PointStepCompare.exists_traceDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:50:23.208142+00:00
 -- url     : https://prove2.me/theorems/6ed7a7b3-ca92-46f7-ac31-86251763b2ac

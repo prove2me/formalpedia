@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenSubgroupScheme_exists_point
 -- name    : GlobalTheory.OpenSubgroupScheme.exists_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:40:17.026619+00:00
 -- url     : https://prove2.me/theorems/1f860d1f-7ea2-4cc3-8c6d-4326c21e312e

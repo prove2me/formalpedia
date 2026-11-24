@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_wE_mul_nU_eq
 -- name    : GlobalTheory.PrinTwo.wE_mul_nU_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:55:16.152151+00:00
 -- url     : https://prove2.me/theorems/6c53d7e3-f60d-4021-b8af-bfb63ef25115

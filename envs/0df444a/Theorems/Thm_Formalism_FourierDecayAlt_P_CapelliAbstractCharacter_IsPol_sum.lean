@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_IsPol_sum
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.IsPol.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:55:45.504718+00:00
 -- url     : https://prove2.me/theorems/69401652-524c-404d-8e93-63133c20eef5

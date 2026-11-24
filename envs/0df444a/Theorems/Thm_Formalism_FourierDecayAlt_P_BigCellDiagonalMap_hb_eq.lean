@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellDiagonalMap_hb_eq
 -- name    : Formalism.FourierDecayAlt.P.BigCellDiagonalMap.hb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:55:37.684743+00:00
 -- url     : https://prove2.me/theorems/6751a0fe-2aa8-4a11-b7d4-336d32c7ec75

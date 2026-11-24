@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrincTransv_transv_mem_princ
 -- name    : GlobalTheory.PrincTransv.transv_mem_princ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:23:31.654172+00:00
 -- url     : https://prove2.me/theorems/7a0e30e9-da2d-4f4f-8629-88bba6f1ae80

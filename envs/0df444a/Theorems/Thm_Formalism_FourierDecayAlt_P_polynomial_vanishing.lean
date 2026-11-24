@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_polynomial_vanishing
 -- name    : Formalism.FourierDecayAlt.P.polynomial_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:54:43.8765+00:00
 -- url     : https://prove2.me/theorems/a91fc694-c19d-44b1-bc5c-4124890315c6

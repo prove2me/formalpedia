@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrthogonalProjection_exists_orth_proj
 -- name    : GlobalTheory.OrthogonalProjection.exists_orth_proj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:51:02.651326+00:00
 -- url     : https://prove2.me/theorems/8eb3827d-e744-4759-b770-e855149c1690

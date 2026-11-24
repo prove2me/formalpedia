@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectCompletion_dense
 -- name    : GlobalTheory.PerfectCompletion.dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:41:05.577029+00:00
 -- url     : https://prove2.me/theorems/67d411d5-92b3-4126-bb6c-b657f9ef85de

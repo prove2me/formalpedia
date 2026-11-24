@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointsCompact_continuous_of_affine
 -- name    : GlobalTheory.PointsCompact.continuous_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:50:43.041117+00:00
 -- url     : https://prove2.me/theorems/9dfd6990-0468-4df8-af61-37125bc29ef5

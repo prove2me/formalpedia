@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_twist_twCoef
 -- name    : GlobalTheory.AdmLoc.twist_twCoef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:11:04.8148+00:00
 -- url     : https://prove2.me/theorems/03761b4d-d8c8-4fb3-9a45-11818591c7f4

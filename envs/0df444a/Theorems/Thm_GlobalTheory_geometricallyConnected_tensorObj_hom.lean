@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyConnected_tensorObj_hom
 -- name    : GlobalTheory.geometricallyConnected_tensorObj_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:52.869808+00:00
 -- url     : https://prove2.me/theorems/876bd137-8526-402d-b738-d3b274503b03

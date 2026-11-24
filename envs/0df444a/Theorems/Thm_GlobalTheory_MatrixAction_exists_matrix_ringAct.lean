@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixAction_exists_matrix_ringAct
 -- name    : GlobalTheory.MatrixAction.exists_matrix_ringAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:23:07.349039+00:00
 -- url     : https://prove2.me/theorems/1870fb7e-00c1-4bd3-ab2f-42e9aa5065f4

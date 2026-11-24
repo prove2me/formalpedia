@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowEntryCommutator_pow_entry_commutator
 -- name    : GlobalTheory.PowEntryCommutator.pow_entry_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:52:35.368073+00:00
 -- url     : https://prove2.me/theorems/e94998ad-c844-439d-a038-2e88f0938b4f

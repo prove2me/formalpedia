@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_matRep_apply
 -- name    : Formalism.MainNotions.N.K.Norm.matRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:25:19.652856+00:00
 -- url     : https://prove2.me/theorems/df596499-ed11-4010-90cb-a6da04e1e9fc

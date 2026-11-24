@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinSupport_exists_reverse_intertwiner
 -- name    : GlobalTheory.CompanionTheory.TyFinSupport.exists_reverse_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:04:28.874439+00:00
 -- url     : https://prove2.me/theorems/f5b397e4-f51f-408f-84fa-d8def568cfb6

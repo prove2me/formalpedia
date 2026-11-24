@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_l1Norm_prod_pow_le
 -- name    : GlobalTheory.MvPoly.l1Norm_prod_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:29:09.978903+00:00
 -- url     : https://prove2.me/theorems/ac851a80-b6df-4d20-9bcd-6f022a3bf244

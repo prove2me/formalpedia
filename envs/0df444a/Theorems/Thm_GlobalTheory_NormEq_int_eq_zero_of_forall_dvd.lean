@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_int_eq_zero_of_forall_dvd
 -- name    : GlobalTheory.NormEq.int_eq_zero_of_forall_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:35:31.731645+00:00
 -- url     : https://prove2.me/theorems/f6524ce2-e4c2-45b3-88f5-039b1bb3bbe3

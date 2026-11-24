@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_lamPrime_param
 -- name    : GlobalTheory.LowestKType.lamPrime_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:14:31.972025+00:00
 -- url     : https://prove2.me/theorems/a94be536-8ea3-4a11-b320-3b56c57f5cd2

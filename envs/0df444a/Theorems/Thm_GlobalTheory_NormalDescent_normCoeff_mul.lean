@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormalDescent_normCoeff_mul
 -- name    : GlobalTheory.NormalDescent.normCoeff_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:35:47.41583+00:00
 -- url     : https://prove2.me/theorems/57297d98-78db-450b-a838-0424330c15a6

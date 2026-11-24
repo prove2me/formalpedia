@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PiSimple_pp_empty
 -- name    : GlobalTheory.PiSimple.pp_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:44:16.072288+00:00
 -- url     : https://prove2.me/theorems/6e5a1bc3-261f-405e-bcfc-90bd5ee58814

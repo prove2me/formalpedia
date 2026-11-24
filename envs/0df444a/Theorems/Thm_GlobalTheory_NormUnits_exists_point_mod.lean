@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormUnits_exists_point_mod
 -- name    : GlobalTheory.NormUnits.exists_point_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:35:59.331801+00:00
 -- url     : https://prove2.me/theorems/015c87a8-430e-4eec-9b95-8e0859657a4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_exists_inv_sec_of_tame
 -- name    : GlobalTheory.LinDescent.exists_inv_sec_of_tame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:07:26.457731+00:00
 -- url     : https://prove2.me/theorems/e29343e9-0ba0-4533-9297-9f60aaef6d0e

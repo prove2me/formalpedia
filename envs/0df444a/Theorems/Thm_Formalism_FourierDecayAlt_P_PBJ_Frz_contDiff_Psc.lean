@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_contDiff_Psc
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.contDiff_Psc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:06:05.442529+00:00
 -- url     : https://prove2.me/theorems/4e06dbe7-11c0-4574-a090-911e2c39ce15

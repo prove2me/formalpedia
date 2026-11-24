@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedConj0Pf_zcoef_q
 -- name    : Formalism.L2.SG.Pf.RedConj0Pf.zcoef_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:42:47.255397+00:00
 -- url     : https://prove2.me/theorems/a6d2590a-68d9-4cb8-8b73-22685a8f3632

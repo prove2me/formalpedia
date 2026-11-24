@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_GaussSum_quat_conj
 -- name    : GlobalTheory.Phase.GaussSum.quat_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:44:03.469308+00:00
 -- url     : https://prove2.me/theorems/553f06bc-3c00-4fb3-bdae-c0186a720a7f

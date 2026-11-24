@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_lseries_eq_exp_tsum
 -- name    : GlobalTheory.Mem.RayData.lseries_eq_exp_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:40:12.646273+00:00
 -- url     : https://prove2.me/theorems/b03a3934-482f-4fd3-99f2-637576491352

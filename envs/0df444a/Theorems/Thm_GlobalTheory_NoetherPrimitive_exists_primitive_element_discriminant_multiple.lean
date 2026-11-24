@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherPrimitive_exists_primitive_element_discriminant_multiple
 -- name    : GlobalTheory.NoetherPrimitive.exists_primitive_element_discriminant_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:30.697395+00:00
 -- url     : https://prove2.me/theorems/24d3766c-8969-4463-8028-1b550eb50882

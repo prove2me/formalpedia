@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_stable_quadraticGaussIntegral
 -- name    : GlobalTheory.T.exists_stable_quadraticGaussIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:10:49.370805+00:00
 -- url     : https://prove2.me/theorems/83461c9f-9511-4adf-a44b-0b56ecd35177

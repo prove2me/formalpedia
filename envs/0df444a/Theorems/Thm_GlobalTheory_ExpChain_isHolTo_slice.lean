@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpChain_isHolTo_slice
 -- name    : GlobalTheory.ExpChain.isHolTo_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:23:31.339704+00:00
 -- url     : https://prove2.me/theorems/13d09cfe-866c-417a-8768-31b70f5fb149

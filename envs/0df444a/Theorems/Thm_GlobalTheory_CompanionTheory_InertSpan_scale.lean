@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_scale
 -- name    : GlobalTheory.CompanionTheory.InertSpan.scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:04:26.31761+00:00
 -- url     : https://prove2.me/theorems/15e2342d-07d8-43ad-a5f0-431a2dce6da4

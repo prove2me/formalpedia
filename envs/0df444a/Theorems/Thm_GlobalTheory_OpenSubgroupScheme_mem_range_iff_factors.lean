@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenSubgroupScheme_mem_range_iff_factors
 -- name    : GlobalTheory.OpenSubgroupScheme.mem_range_iff_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:39:59.889819+00:00
 -- url     : https://prove2.me/theorems/70d5c5ca-dc93-43e5-8b38-568f26d6f62e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerMove_inv_mulVec_apply
 -- name    : GlobalTheory.PerMove.inv_mulVec_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:41:11.488806+00:00
 -- url     : https://prove2.me/theorems/edeb0ff5-4151-45ef-9b93-97aa7a80173b

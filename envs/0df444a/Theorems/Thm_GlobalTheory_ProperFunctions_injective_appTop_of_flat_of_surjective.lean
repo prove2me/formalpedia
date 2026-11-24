@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_injective_appTop_of_flat_of_surjective
 -- name    : GlobalTheory.ProperFunctions.injective_appTop_of_flat_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:32.003908+00:00
 -- url     : https://prove2.me/theorems/780cd038-37c0-4a59-a81a-9f374ef06d72

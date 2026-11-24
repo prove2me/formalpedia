@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_ramificationIdx_eq_one
 -- name    : Formalism.L2.Host.ramificationIdx_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:47:49.264465+00:00
 -- url     : https://prove2.me/theorems/a01767e1-6eef-4447-873a-25076bba5915

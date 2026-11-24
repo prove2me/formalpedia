@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_bor_mem_parab
 -- name    : GlobalTheory.PrinTwo.bor_mem_parab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:55:48.056295+00:00
 -- url     : https://prove2.me/theorems/2441c8a7-ba05-485a-a964-8f6b5df8a3ca

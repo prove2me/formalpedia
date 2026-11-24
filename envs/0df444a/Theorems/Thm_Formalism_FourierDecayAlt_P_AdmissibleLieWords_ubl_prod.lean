@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_ubl_prod
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.ubl_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:25:09.730701+00:00
 -- url     : https://prove2.me/theorems/c7b545d5-9854-409c-afef-609c3927cbc5

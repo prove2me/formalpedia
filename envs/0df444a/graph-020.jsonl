@@ -74677,10 +74677,10 @@
 {"parent": "QEC_Coding_AlgebraicGeometry_Towers_Translation", "child": "QEC.Coding.AlgebraicGeometry.RatFuncDerivation.rationalDerivationEquiv_symm_apply", "via": ["statement"]}
 {"parent": "QEC_Coding_AlgebraicGeometry_Towers_Translation", "child": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.stepAuxiliaryCoordinate_artinSchreier", "via": ["statement"]}
 {"parent": "QEC_Coding_AlgebraicGeometry_Towers_Translation", "child": "QEC_Coding_AlgebraicGeometry_Towers_Step", "via": ["statement"]}
-{"parent": "MatrixLewis.lemma_3_8", "child": "MatrixLewis_Fdu", "via": ["statement"]}
-{"parent": "MatrixLewis.lemma_3_8", "child": "MatrixLewis_gapDelta", "via": ["statement"]}
-{"parent": "MatrixLewis.lemma_3_8", "child": "MatrixLewis_Assumption31", "via": ["statement"]}
-{"parent": "MatrixLewis.lemma_3_8", "child": "MatrixLewis_Fpr", "via": ["statement"]}
+{"parent": "MatrixLewis.lemma_3_8", "child": "MatrixLewis_Fdu", "via": ["solution", "statement"]}
+{"parent": "MatrixLewis.lemma_3_8", "child": "MatrixLewis_gapDelta", "via": ["solution", "statement"]}
+{"parent": "MatrixLewis.lemma_3_8", "child": "MatrixLewis_Assumption31", "via": ["solution", "statement"]}
+{"parent": "MatrixLewis.lemma_3_8", "child": "MatrixLewis_Fpr", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.secondCut_Pleft_left_probe_transport", "child": "QEC_Bounds_BPTDisentangling_ScalarCompression_Coordinates", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.secondCut_Pleft_left_probe_transport", "child": "QEC_Bounds_BPTDisentangling_ScalarCompression_LeftProbe", "via": ["solution", "statement"]}
 {"parent": "OAI.ActualEisensteinCubic.finite_actual_prime_extraction_with_constant", "child": "OAI_NumberTheory_DirichletL_GaussSum_QuadraticTrace", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrescribedRank_constMap_injective
 -- name    : GlobalTheory.PrescribedRank.constMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:54:50.359834+00:00
 -- url     : https://prove2.me/theorems/246a9177-6980-47a8-bef5-09304104d841

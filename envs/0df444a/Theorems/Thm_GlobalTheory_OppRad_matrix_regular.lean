@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OppRad_matrix_regular
 -- name    : GlobalTheory.OppRad.matrix_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:40:19.451015+00:00
 -- url     : https://prove2.me/theorems/41bbfe84-b528-483f-a676-6b8924505943

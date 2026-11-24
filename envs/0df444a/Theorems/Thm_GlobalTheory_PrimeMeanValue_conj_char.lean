@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeMeanValue_conj_char
 -- name    : GlobalTheory.PrimeMeanValue.conj_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:57:34.072147+00:00
 -- url     : https://prove2.me/theorems/d8692d39-c5d6-4cfd-9367-5b0872b04ebe

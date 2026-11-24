@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlacesOver_finite_fibre
 -- name    : GlobalTheory.PlacesOver.finite_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:44:27.973865+00:00
 -- url     : https://prove2.me/theorems/4727b8b7-d504-44c3-b9b8-79e8658dcfcf

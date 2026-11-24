@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_colOf_mul
 -- name    : GlobalTheory.CompanionTheory.InertHeis.colOf_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:49:54.488182+00:00
 -- url     : https://prove2.me/theorems/53d9e188-de7b-4ce5-a774-01b60ac9fcc7

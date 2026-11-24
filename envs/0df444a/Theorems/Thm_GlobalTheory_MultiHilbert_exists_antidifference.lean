@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_exists_antidifference
 -- name    : GlobalTheory.MultiHilbert.exists_antidifference
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:29:15.920561+00:00
 -- url     : https://prove2.me/theorems/bb210b95-addf-4ee8-a4fb-3d69bce22d75

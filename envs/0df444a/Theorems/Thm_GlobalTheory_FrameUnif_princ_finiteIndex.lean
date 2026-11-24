@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnif_princ_finiteIndex
 -- name    : GlobalTheory.FrameUnif.princ_finiteIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:19:53.149881+00:00
 -- url     : https://prove2.me/theorems/61aaef47-b8b9-45a7-98fa-dbee98e87696

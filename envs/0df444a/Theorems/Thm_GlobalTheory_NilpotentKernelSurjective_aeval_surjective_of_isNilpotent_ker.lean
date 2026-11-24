@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilpotentKernelSurjective_aeval_surjective_of_isNilpotent_ker
 -- name    : GlobalTheory.NilpotentKernelSurjective.aeval_surjective_of_isNilpotent_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:33:49.490412+00:00
 -- url     : https://prove2.me/theorems/b86677c5-a797-4122-a770-c3af0ac45a7e

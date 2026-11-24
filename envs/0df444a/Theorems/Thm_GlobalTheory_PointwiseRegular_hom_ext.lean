@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointwiseRegular_hom_ext
 -- name    : GlobalTheory.PointwiseRegular.hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:49:56.756243+00:00
 -- url     : https://prove2.me/theorems/3b8902b4-2722-48fb-bf43-66c37a127cab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ShapeOps_exists_den
 -- name    : GlobalTheory.Phase.ShapeOps.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:44:56.984042+00:00
 -- url     : https://prove2.me/theorems/427fd259-c492-44a8-a32f-c5401115c9c5

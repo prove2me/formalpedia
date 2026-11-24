@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_LargeMean_series_le
 -- name    : GlobalTheory.Lin.LargeMean.series_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:06:21.80274+00:00
 -- url     : https://prove2.me/theorems/f3af9f43-414c-4656-86e1-b6d86e55171a

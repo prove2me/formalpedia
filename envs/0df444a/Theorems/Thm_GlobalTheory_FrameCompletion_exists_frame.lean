@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_exists_frame
 -- name    : GlobalTheory.FrameCompletion.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:05:49.0184+00:00
 -- url     : https://prove2.me/theorems/57f3bab2-e1b1-4c56-b2f0-9f6a5337f3ea

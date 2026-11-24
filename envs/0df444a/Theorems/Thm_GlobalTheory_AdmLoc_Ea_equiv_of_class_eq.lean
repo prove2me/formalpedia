@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_Ea_equiv_of_class_eq
 -- name    : GlobalTheory.AdmLoc.Ea_equiv_of_class_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:13:24.440338+00:00
 -- url     : https://prove2.me/theorems/6b85069d-baf4-4be8-96e5-7954e126391d

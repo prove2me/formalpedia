@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_matEquiv_apply
 -- name    : Formalism.MainNotions.N.K.Norm.matEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:24:47.817322+00:00
 -- url     : https://prove2.me/theorems/20fbbaec-25c7-4a8e-a174-787aa629b8f1

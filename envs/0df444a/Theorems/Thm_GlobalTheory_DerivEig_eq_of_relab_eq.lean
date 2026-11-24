@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEig_eq_of_relab_eq
 -- name    : GlobalTheory.DerivEig.eq_of_relab_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:35.513898+00:00
 -- url     : https://prove2.me/theorems/d2b208e7-cd35-403b-a28e-bc5f43c83357

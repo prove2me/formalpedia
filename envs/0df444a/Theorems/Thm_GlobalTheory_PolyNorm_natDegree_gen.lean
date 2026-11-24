@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyNorm_natDegree_gen
 -- name    : GlobalTheory.PolyNorm.natDegree_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:50:29.348848+00:00
 -- url     : https://prove2.me/theorems/3daadce8-9b59-4fcf-8504-9ad81e2b3ac6

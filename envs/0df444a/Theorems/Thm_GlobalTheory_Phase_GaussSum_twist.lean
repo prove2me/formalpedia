@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_GaussSum_twist
 -- name    : GlobalTheory.Phase.GaussSum.twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:43:35.555853+00:00
 -- url     : https://prove2.me/theorems/27053e5c-d359-4b48-9cc5-ed5a58162732

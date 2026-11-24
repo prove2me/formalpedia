@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_sesq_mulVec_right
 -- name    : GlobalTheory.PeriodChart.sesq_mulVec_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:42:23.006245+00:00
 -- url     : https://prove2.me/theorems/01abbd1b-ea8e-47b3-bbb5-b1e7bc19f1b7

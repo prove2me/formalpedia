@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_eventually_comp_eq
 -- name    : GlobalTheory.WeilM.eventually_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:25:05.70648+00:00
 -- url     : https://prove2.me/theorems/50a203e4-f77e-4bb4-84e0-1af230a5093a

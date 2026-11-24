@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsNormalScheme_iff_of_iSup_eq_top
 -- name    : GlobalTheory.IsNormalScheme.iff_of_iSup_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:13:18.632799+00:00
 -- url     : https://prove2.me/theorems/cd042f51-4e65-4a0d-afc3-27c557784fa7

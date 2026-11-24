@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorInt_slice_volume
 -- name    : GlobalTheory.MinorInt.slice_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:25:47.865264+00:00
 -- url     : https://prove2.me/theorems/ffdbf02f-f2af-4354-9a1b-5e3f9d6bc7af

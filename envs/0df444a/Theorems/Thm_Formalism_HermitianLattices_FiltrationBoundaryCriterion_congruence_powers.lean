@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_congruence_powers
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.congruence_powers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:51:56.238887+00:00
 -- url     : https://prove2.me/theorems/f8543359-dc0d-464d-b0ee-98552d98e238

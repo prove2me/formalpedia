@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyNorm_monic_ev
 -- name    : GlobalTheory.PolyNorm.monic_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:50:43.884802+00:00
 -- url     : https://prove2.me/theorems/a19625a7-7c37-4907-853b-8242ef5e57c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ShapeOps_mu_inv
 -- name    : GlobalTheory.Phase.ShapeOps.mu_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:45:00.851528+00:00
 -- url     : https://prove2.me/theorems/8f6b705e-514d-421b-97be-c44ff5e22cae

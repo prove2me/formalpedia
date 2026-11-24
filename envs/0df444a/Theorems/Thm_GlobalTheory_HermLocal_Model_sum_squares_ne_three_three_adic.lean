@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_Model_sum_squares_ne_three_three_adic
 -- name    : GlobalTheory.HermLocal.Model.sum_squares_ne_three_three_adic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:51.962707+00:00
 -- url     : https://prove2.me/theorems/357b0140-b297-417c-9cd0-d2e92afca275

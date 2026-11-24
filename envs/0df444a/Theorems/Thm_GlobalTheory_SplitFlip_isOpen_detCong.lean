@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_isOpen_detCong
 -- name    : GlobalTheory.SplitFlip.isOpen_detCong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:00.913802+00:00
 -- url     : https://prove2.me/theorems/f51a9613-9d0f-4397-be95-fbeb0b91ba38

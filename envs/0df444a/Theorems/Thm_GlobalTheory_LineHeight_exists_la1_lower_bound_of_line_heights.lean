@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineHeight_exists_la1_lower_bound_of_line_heights
 -- name    : GlobalTheory.LineHeight.exists_la1_lower_bound_of_line_heights
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:12:08.028563+00:00
 -- url     : https://prove2.me/theorems/bd631deb-b517-46f8-bc85-59e507aa309e

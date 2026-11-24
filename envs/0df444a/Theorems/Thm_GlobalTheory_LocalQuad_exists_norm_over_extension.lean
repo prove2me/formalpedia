@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_exists_norm_over_extension
 -- name    : GlobalTheory.LocalQuad.exists_norm_over_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:14:35.754999+00:00
 -- url     : https://prove2.me/theorems/b2029d0a-7eda-4030-9300-ec7f15c12d61

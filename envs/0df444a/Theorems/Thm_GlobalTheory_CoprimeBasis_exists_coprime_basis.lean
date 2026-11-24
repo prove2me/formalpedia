@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoprimeBasis_exists_coprime_basis
 -- name    : GlobalTheory.CoprimeBasis.exists_coprime_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:27:19.229654+00:00
 -- url     : https://prove2.me/theorems/737413b1-379a-4238-8809-d167acc58a28

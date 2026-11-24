@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSumSecond_tendsto_inv_prod
 -- name    : GlobalTheory.PowerSumSecond.tendsto_inv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:54:05.904911+00:00
 -- url     : https://prove2.me/theorems/238ec173-5554-4605-b89e-7352c42b8088

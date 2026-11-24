@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulEtaleDvr_pullback_map_mulN
 -- name    : GlobalTheory.MulEtaleDvr.pullback_map_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:37.51844+00:00
 -- url     : https://prove2.me/theorems/e13e033e-da44-49d1-a8c0-58aad7e4bb13

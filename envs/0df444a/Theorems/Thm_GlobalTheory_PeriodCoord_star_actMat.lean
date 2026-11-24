@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_star_actMat
 -- name    : GlobalTheory.PeriodCoord.star_actMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:42:12.834724+00:00
 -- url     : https://prove2.me/theorems/f32936e4-2e90-4727-a781-4ad41d93ca30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimGood_exists_primitive
 -- name    : GlobalTheory.CompanionTheory.SW.PrimGood.exists_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:07:53.036159+00:00
 -- url     : https://prove2.me/theorems/30deb48e-a2ea-4f98-be4f-506ef22f2b31

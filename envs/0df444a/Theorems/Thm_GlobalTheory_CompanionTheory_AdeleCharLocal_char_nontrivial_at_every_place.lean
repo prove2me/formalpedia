@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_char_nontrivial_at_every_place
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.char_nontrivial_at_every_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:23:23.424999+00:00
 -- url     : https://prove2.me/theorems/5a04ef68-8af4-410a-a272-c5190f8b9e7c

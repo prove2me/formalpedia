@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_MinorPolynomials_shape_flatMap__3b9f0dcdf734
 -- name    : P2M_Formalism_FourierDecayAlt_P_MinorPolynomials_shape_flatMap__3b9f0dcdf734
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:27:48.448535+00:00
 -- url     : https://prove2.me/theorems/6a9a4991-c402-4792-b93d-4d902a18e48c

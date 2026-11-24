@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_qnEabPres
 -- name    : qnEabPres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:43:49.630622+00:00
 -- url     : https://prove2.me/theorems/9cf21111-ffe4-4899-b6fb-0222e4ce4a38

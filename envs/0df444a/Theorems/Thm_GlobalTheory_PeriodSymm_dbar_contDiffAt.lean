@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodSymm_dbar_contDiffAt
 -- name    : GlobalTheory.PeriodSymm.dbar_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:44:28.005105+00:00
 -- url     : https://prove2.me/theorems/aaee741c-e7de-4be4-b7ef-8634bc0922de

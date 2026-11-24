@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingInvariants_eval_eq_base
 -- name    : GlobalTheory.PairingInvariants.eval_eq_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:41:13.746532+00:00
 -- url     : https://prove2.me/theorems/5a57a416-8db6-41bc-82b1-e7a1715003ca

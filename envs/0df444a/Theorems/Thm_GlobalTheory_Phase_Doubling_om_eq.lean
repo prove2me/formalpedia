@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_om_eq
 -- name    : GlobalTheory.Phase.Doubling.om_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:08.168942+00:00
 -- url     : https://prove2.me/theorems/c79a6717-f98f-40df-a7c6-dff9176b2d20

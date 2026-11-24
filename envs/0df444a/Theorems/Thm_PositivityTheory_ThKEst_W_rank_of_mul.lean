@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_W_rank_of_mul
 -- name    : PositivityTheory.ThKEst.W.rank_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:29:57.81569+00:00
 -- url     : https://prove2.me/theorems/4fa8cd26-ab38-4177-b41b-2f9fab0bf1fb

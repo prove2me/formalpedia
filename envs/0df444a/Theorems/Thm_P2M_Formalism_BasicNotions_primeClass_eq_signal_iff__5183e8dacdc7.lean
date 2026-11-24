@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_primeClass_eq_signal_iff__5183e8dacdc7
 -- name    : P2M_Formalism_BasicNotions_primeClass_eq_signal_iff__5183e8dacdc7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:30:45.514368+00:00
 -- url     : https://prove2.me/theorems/4c07a380-c82c-4320-8afa-d4d4c0244826

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocWeil_DerComm_exists_generator
 -- name    : GlobalTheory.LocWeil.DerComm.exists_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:14:01.081387+00:00
 -- url     : https://prove2.me/theorems/fffe275f-68fd-428c-849e-20a8c1c2380d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_clears_idempotent_of_exponent_bound_coordAt_map
 -- name    : GlobalTheory.Proof.clears_idempotent_of_exponent_bound.coordAt_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:55:51.767217+00:00
 -- url     : https://prove2.me/theorems/796b83d3-3532-4528-bcd5-896fc781550d

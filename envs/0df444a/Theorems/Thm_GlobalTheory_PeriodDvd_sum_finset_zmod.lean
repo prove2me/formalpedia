@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDvd_sum_finset_zmod
 -- name    : GlobalTheory.PeriodDvd.sum_finset_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:42:12.605935+00:00
 -- url     : https://prove2.me/theorems/6da5e796-b2f4-4038-a115-ea38e87ce844

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesFlat_flat_pi
 -- name    : GlobalTheory.PowerSeriesFlat.flat_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:52:28.437432+00:00
 -- url     : https://prove2.me/theorems/8d4af4f1-69e2-406f-b41c-e8b4bec8c7a2

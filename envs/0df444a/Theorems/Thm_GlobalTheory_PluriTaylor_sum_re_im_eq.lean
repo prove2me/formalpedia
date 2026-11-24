@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PluriTaylor_sum_re_im_eq
 -- name    : GlobalTheory.PluriTaylor.sum_re_im_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:49:10.212153+00:00
 -- url     : https://prove2.me/theorems/669fda41-6e3c-4fe7-9a3e-f42b871e57f9

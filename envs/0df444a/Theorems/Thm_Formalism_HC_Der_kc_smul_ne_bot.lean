@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_smul_ne_bot
 -- name    : Formalism.HC.Der.kc_smul_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:23:51.223385+00:00
 -- url     : https://prove2.me/theorems/c580d64a-c8c0-4502-a628-4a47713acc7e

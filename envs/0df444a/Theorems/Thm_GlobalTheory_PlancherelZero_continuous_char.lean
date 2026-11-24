@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_continuous_char
 -- name    : GlobalTheory.PlancherelZero.continuous_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:44:45.115857+00:00
 -- url     : https://prove2.me/theorems/cea6b9fb-4dde-4363-bf7c-d770b63f4433

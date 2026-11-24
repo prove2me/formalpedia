@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_blk_siegel
 -- name    : GlobalTheory.Phase.Doubling.blk_siegel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:43:43.437432+00:00
 -- url     : https://prove2.me/theorems/0b576bbb-0e97-4097-9c43-2bb995d19ba0

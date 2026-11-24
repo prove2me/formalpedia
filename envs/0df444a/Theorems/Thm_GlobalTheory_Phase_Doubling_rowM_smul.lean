@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_rowM_smul
 -- name    : GlobalTheory.Phase.Doubling.rowM_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:43:33.929992+00:00
 -- url     : https://prove2.me/theorems/1879f820-8397-4c4e-94fa-51654198f074

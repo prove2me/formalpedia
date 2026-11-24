@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPullback_fromSpec_app
 -- name    : GlobalTheory.isPullback_fromSpec_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:27:53.901802+00:00
 -- url     : https://prove2.me/theorems/154d5d1a-8fd7-47dc-8511-a3831801b288

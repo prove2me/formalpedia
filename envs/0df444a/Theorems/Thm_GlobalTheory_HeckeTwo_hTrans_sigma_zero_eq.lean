@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_hTrans_sigma_zero_eq
 -- name    : GlobalTheory.HeckeTwo.hTrans_sigma_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:12:33.019224+00:00
 -- url     : https://prove2.me/theorems/ca4a00de-3bf2-48c3-a702-2bf3ba74aa03

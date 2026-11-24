@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfN_cm_smul
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.cm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:49:04.916086+00:00
 -- url     : https://prove2.me/theorems/d375c822-eb88-4824-b73f-232a3a0801e5

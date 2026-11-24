@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsNormalScheme_connectedComponent_eq_irreducibleComponent
 -- name    : GlobalTheory.IsNormalScheme.connectedComponent_eq_irreducibleComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:12:24.540472+00:00
 -- url     : https://prove2.me/theorems/16bb0e5e-df90-4c38-a534-62995a928938

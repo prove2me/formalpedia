@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_PhiFin_finite_cocycles
 -- name    : GlobalTheory.Pat.PhiFin.finite_cocycles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:41:21.308898+00:00
 -- url     : https://prove2.me/theorems/003c4d29-b794-4910-9ec0-f272e24b85ab

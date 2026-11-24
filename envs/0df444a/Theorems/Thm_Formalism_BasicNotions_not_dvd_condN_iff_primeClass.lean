@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_not_dvd_condN_iff_primeClass
 -- name    : Formalism.BasicNotions.not_dvd_condN_iff_primeClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:31:36.309795+00:00
 -- url     : https://prove2.me/theorems/57aef1ba-1cb2-4372-a9ec-ca18c60e4e83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_l1Norm_bind_le_sum_norm_coeff_mul_pow_degree
 -- name    : GlobalTheory.MvPoly.l1Norm_bind_le_sum_norm_coeff_mul_pow_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:28:43.18255+00:00
 -- url     : https://prove2.me/theorems/4dd5da70-4aa0-42c6-b096-ac241971f1e0

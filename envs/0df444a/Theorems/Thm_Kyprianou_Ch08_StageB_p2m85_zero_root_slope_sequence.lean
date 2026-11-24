@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_zero_root_slope_sequence
 -- name    : Kyprianou.Ch08.StageB.p2m85_zero_root_slope_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:59:35.17896+00:00
 -- url     : https://prove2.me/theorems/cfacf274-4fe8-4fc7-a8d1-588863ddf964

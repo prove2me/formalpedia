@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzCovol_covolume_latOf
 -- name    : GlobalTheory.LipschitzCovol.covolume_latOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:07:34.452251+00:00
 -- url     : https://prove2.me/theorems/ae9c0fd1-3824-47cf-a919-15091f8c27d5

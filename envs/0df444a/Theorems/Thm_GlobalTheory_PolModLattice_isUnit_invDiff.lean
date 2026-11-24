@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolModLattice_isUnit_invDiff
 -- name    : GlobalTheory.PolModLattice.isUnit_invDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:49:45.066828+00:00
 -- url     : https://prove2.me/theorems/6f5e8d1c-c447-4eb4-ada4-89f883270d8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairingCount_right_nondegenerate
 -- name    : GlobalTheory.PerfectPairingCount.right_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:43:43.081827+00:00
 -- url     : https://prove2.me/theorems/011bb3f5-00a8-40e6-aed8-c308e3a092e6

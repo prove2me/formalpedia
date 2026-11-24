@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnimod_modular_restrict
 -- name    : GlobalTheory.LevelUnimod.modular_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:03:23.88472+00:00
 -- url     : https://prove2.me/theorems/00220231-90f2-486e-a76d-4a2459956c91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicUnitBall_p_mem_maximalIdeal
 -- name    : GlobalTheory.PadicUnitBall.p_mem_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:39:26.592045+00:00
 -- url     : https://prove2.me/theorems/3a91c905-133c-45c4-8298-f921a6e7824f

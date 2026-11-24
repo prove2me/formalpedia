@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingLocus_isClosed_basicOpen
 -- name    : GlobalTheory.PairingLocus.isClosed_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:41:24.736141+00:00
 -- url     : https://prove2.me/theorems/0d3ed91e-6d2f-4f25-8a7f-0436b6f56269

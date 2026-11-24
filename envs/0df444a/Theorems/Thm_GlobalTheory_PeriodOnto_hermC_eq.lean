@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_hermC_eq
 -- name    : GlobalTheory.PeriodOnto.hermC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:44:38.389697+00:00
 -- url     : https://prove2.me/theorems/8d2fff40-2b29-4966-9919-f0d2f22c4a39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_nL_zero
 -- name    : GlobalTheory.PrinTwo.nL_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:55:34.347955+00:00
 -- url     : https://prove2.me/theorems/84064d23-7002-41dc-8419-9b280d28a2f5

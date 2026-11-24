@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodLift_hermC_emb_inv_col
 -- name    : GlobalTheory.PeriodLift.hermC_emb_inv_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:41:57.19122+00:00
 -- url     : https://prove2.me/theorems/c2bec40f-8cc3-4e21-9353-abbba954961b

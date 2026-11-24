@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoBasePoint_exists_two_points
 -- name    : GlobalTheory.NoBasePoint.exists_two_points
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:52:06.394248+00:00
 -- url     : https://prove2.me/theorems/ab35f85d-6cad-4e69-a34a-fd60b05808d5

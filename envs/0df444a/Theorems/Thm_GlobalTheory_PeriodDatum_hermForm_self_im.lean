@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDatum_hermForm_self_im
 -- name    : GlobalTheory.PeriodDatum.hermForm_self_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:43:06.995886+00:00
 -- url     : https://prove2.me/theorems/a1041505-2dde-4bd7-a880-1fb6a6aa9eb6

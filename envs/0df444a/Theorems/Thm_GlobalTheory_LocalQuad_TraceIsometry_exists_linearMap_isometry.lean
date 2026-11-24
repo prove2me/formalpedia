@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_TraceIsometry_exists_linearMap_isometry
 -- name    : GlobalTheory.LocalQuad.TraceIsometry.exists_linearMap_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:14:14.166381+00:00
 -- url     : https://prove2.me/theorems/de8cc5e0-16d3-4d97-991c-c2021c7be7e8

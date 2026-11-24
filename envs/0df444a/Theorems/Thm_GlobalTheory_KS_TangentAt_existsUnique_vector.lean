@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_TangentAt_existsUnique_vector
 -- name    : GlobalTheory.KS.TangentAt.existsUnique_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:30:59.163802+00:00
 -- url     : https://prove2.me/theorems/2f323e5d-4f16-49dc-ba72-e3d0d11a1303

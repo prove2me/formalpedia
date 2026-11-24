@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_existsUnique_comp_eq
 -- name    : GlobalTheory.IsAffineQuotient.existsUnique_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:35.16521+00:00
 -- url     : https://prove2.me/theorems/dd938d26-cdc7-43c9-966b-18acdaa3aeb3

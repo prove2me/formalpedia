@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingInvariants_eval_act_of_mul_eq_one
 -- name    : GlobalTheory.PairingInvariants.eval_act_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:40:55.641834+00:00
 -- url     : https://prove2.me/theorems/4b975b57-9d6c-4d4d-958d-319240f2f097

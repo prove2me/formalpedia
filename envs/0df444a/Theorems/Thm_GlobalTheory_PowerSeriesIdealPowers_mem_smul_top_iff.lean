@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesIdealPowers_mem_smul_top_iff
 -- name    : GlobalTheory.PowerSeriesIdealPowers.mem_smul_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:50.099387+00:00
 -- url     : https://prove2.me/theorems/c93a7ec6-a63d-4d08-9a45-a220ea998696

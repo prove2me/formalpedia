@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosSemidefShiftByScalar_posSemidef_sub_smul_one
 -- name    : GlobalTheory.PosSemidefShiftByScalar.posSemidef_sub_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:51:08.980995+00:00
 -- url     : https://prove2.me/theorems/781a858b-b343-495c-9820-ec4fa38c3549

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lift_unique_of_isDominant
 -- name    : GlobalTheory.lift_unique_of_isDominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:28:34.336823+00:00
 -- url     : https://prove2.me/theorems/46fead37-b4f6-45d2-8d58-bfbfadc2b912

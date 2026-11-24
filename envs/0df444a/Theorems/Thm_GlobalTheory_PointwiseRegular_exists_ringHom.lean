@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointwiseRegular_exists_ringHom
 -- name    : GlobalTheory.PointwiseRegular.exists_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:49:54.791425+00:00
 -- url     : https://prove2.me/theorems/110d14c8-5362-42a4-b572-3b5010edb564

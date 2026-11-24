@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_isDerivAt0_iff
 -- name    : GlobalTheory.PeriodCompare.isDerivAt0_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:43:11.469926+00:00
 -- url     : https://prove2.me/theorems/883aab1d-102f-42ca-9c5b-2a5f123e8517

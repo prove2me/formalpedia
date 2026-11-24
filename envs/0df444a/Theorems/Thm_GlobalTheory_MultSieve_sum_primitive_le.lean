@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultSieve_sum_primitive_le
 -- name    : GlobalTheory.MultSieve.sum_primitive_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:29:46.802339+00:00
 -- url     : https://prove2.me/theorems/1119f62f-e940-40bc-9f06-c0147546f9d8

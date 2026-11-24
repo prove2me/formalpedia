@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_fixedMap_injective
 -- name    : GroundTheory.Automorphic.fixedMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:21:29.076423+00:00
 -- url     : https://prove2.me/theorems/aa896da6-abf7-4c11-9e65-6641b63d04a9

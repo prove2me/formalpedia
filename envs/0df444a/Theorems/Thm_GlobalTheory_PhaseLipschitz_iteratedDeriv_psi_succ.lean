@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhaseLipschitz_iteratedDeriv_psi_succ
 -- name    : GlobalTheory.PhaseLipschitz.iteratedDeriv_psi_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:49:13.95247+00:00
 -- url     : https://prove2.me/theorems/6aa5f106-5946-4b25-9dae-31a70130a7bb

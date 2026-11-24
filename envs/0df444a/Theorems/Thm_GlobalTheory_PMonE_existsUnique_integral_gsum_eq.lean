@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_existsUnique_integral_gsum_eq
 -- name    : GlobalTheory.PMonE.existsUnique_integral_gsum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:33:22.522797+00:00
 -- url     : https://prove2.me/theorems/394ea6f0-9548-4766-89a8-cdcfb1611151

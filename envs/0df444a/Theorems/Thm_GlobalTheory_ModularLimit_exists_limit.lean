@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModularLimit_exists_limit
 -- name    : GlobalTheory.ModularLimit.exists_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:26:44.881172+00:00
 -- url     : https://prove2.me/theorems/2d63de75-7c87-4127-9440-e8987439707b

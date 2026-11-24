@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosFormAdjoint_int_cauchy_schwarz
 -- name    : GlobalTheory.PosFormAdjoint.int_cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:49:46.848241+00:00
 -- url     : https://prove2.me/theorems/092c3308-dfbe-41d0-9722-0911489fcff3

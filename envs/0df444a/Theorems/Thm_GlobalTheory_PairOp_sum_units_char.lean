@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_sum_units_char
 -- name    : GlobalTheory.PairOp.sum_units_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:26.89632+00:00
 -- url     : https://prove2.me/theorems/24991570-adae-414c-986a-0c77bb51f2fa

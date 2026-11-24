@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PoincareUnfold_unfold_poincare_fourier
 -- name    : GlobalTheory.PoincareUnfold.unfold_poincare_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:49:01.011454+00:00
 -- url     : https://prove2.me/theorems/2af2b747-7675-48a7-b55f-a2ca4dfa6290

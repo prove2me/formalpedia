@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitCounting_counting_principle
 -- name    : GlobalTheory.OrbitCounting.counting_principle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:37:37.864926+00:00
 -- url     : https://prove2.me/theorems/99e020fb-5ff2-4b09-8dc8-e7f8e91ad2de

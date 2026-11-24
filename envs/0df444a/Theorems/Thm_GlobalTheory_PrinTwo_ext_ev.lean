@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_ext_ev
 -- name    : GlobalTheory.PrinTwo.ext_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:55:17.875105+00:00
 -- url     : https://prove2.me/theorems/e1f4a468-5828-4bf8-b766-36d0404131f1

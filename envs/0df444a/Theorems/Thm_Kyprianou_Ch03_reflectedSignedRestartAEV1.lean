@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectedSignedRestartAEV1
 -- name    : Kyprianou.Ch03.reflectedSignedRestartAEV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:58:05.371025+00:00
 -- url     : https://prove2.me/theorems/70e01328-87ed-4ccd-8e96-7d9cab45c43a

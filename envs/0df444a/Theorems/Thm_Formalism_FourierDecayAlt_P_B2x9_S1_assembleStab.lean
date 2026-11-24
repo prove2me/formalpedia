@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_S1_assembleStab
 -- name    : Formalism.FourierDecayAlt.P.B2x9.S1.assembleStab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:00:16.380627+00:00
 -- url     : https://prove2.me/theorems/06fb14ff-4daf-478a-96ff-2c60d40a6c20

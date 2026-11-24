@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MapComapIso_map_comap_of_isIso
 -- name    : GlobalTheory.MapComapIso.map_comap_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:19:35.09679+00:00
 -- url     : https://prove2.me/theorems/8033f916-89cb-4302-a316-b5b670c50841

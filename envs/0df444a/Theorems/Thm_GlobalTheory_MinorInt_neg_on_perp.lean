@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorInt_neg_on_perp
 -- name    : GlobalTheory.MinorInt.neg_on_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:25:39.465421+00:00
 -- url     : https://prove2.me/theorems/d0a9292d-25b4-43ad-aa6a-052b902740fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_coefDet_pw_pow
 -- name    : GlobalTheory.PMonE.coefDet_pw_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:38:50.400301+00:00
 -- url     : https://prove2.me/theorems/d77ceb17-a9c4-4ce1-9240-506c468a14be

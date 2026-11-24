@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_mem_span_piO_of_lt
 -- name    : GlobalTheory.NormEq.mem_span_piO_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:56:59.900818+00:00
 -- url     : https://prove2.me/theorems/79914fe7-07dc-4a4b-8233-516d1f7fd199

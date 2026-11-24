@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilProper_surjective_specMap_mk
 -- name    : GlobalTheory.NilProper.surjective_specMap_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:01.922103+00:00
 -- url     : https://prove2.me/theorems/3e7b9509-956b-4f00-bc19-d9841114f1b5

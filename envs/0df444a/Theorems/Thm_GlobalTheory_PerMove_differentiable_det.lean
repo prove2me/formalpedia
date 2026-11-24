@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerMove_differentiable_det
 -- name    : GlobalTheory.PerMove.differentiable_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:40:55.204266+00:00
 -- url     : https://prove2.me/theorems/44cf2fe5-07c1-49fb-9b2c-8b763a5e37bb

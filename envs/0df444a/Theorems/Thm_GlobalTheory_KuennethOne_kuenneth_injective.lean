@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KuennethOne_kuenneth_injective
 -- name    : GlobalTheory.KuennethOne.kuenneth_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:20:59.227553+00:00
 -- url     : https://prove2.me/theorems/4c927970-8809-4238-9fea-eea843e01adb

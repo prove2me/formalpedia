@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeMeanValue_kernel_eq
 -- name    : GlobalTheory.PrimeMeanValue.kernel_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:57:43.4587+00:00
 -- url     : https://prove2.me/theorems/6e393edd-6efc-498f-944b-7460a43af8c7

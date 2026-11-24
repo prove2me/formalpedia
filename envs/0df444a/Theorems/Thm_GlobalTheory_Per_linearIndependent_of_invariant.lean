@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Per_linearIndependent_of_invariant
 -- name    : GlobalTheory.Per.linearIndependent_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:45:17.759837+00:00
 -- url     : https://prove2.me/theorems/50ecdeea-7222-46a7-950f-768a8cf07010

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpChain_isDerivAt0_comp_linear
 -- name    : GlobalTheory.ExpChain.isDerivAt0_comp_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:22:22.814332+00:00
 -- url     : https://prove2.me/theorems/e4bfce68-df3c-43e7-bfb3-bb7e5862acb2

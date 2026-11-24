@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_isCompact_box
 -- name    : GlobalTheory.PlancherelZero.isCompact_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:48:58.034012+00:00
 -- url     : https://prove2.me/theorems/66b1a2cb-63a4-4ec5-a944-b0269b1c3c06

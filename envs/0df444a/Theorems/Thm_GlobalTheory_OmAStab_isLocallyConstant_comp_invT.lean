@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OmAStab_isLocallyConstant_comp_invT
 -- name    : GlobalTheory.OmAStab.isLocallyConstant_comp_invT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:36:36.403606+00:00
 -- url     : https://prove2.me/theorems/ba4f4f70-6f1c-475b-9be3-ff654880ff9a

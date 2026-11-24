@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceModel_exists_intertwiner
 -- name    : GlobalTheory.PlaceModel.exists_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:26.357341+00:00
 -- url     : https://prove2.me/theorems/30a0b2f2-4816-4e04-83c7-0f28095284b2

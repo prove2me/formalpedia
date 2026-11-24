@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinkDiv_add_case
 -- name    : GlobalTheory.MinkDiv.add_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:25:37.121795+00:00
 -- url     : https://prove2.me/theorems/e9a7d739-c8cc-456d-a7ce-58d12a5666fa

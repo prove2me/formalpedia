@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicVal_exists_addValuation
 -- name    : GlobalTheory.PadicVal.exists_addValuation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:41:52.995578+00:00
 -- url     : https://prove2.me/theorems/d3d68782-0bc9-458a-81c8-27b103559b78

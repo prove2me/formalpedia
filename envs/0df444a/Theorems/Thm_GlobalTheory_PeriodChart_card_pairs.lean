@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_card_pairs
 -- name    : GlobalTheory.PeriodChart.card_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:42:33.936352+00:00
 -- url     : https://prove2.me/theorems/fd916a7d-57e8-4cdd-ba05-92bfcfe9863f

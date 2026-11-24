@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_primeClass_eq_inert_iff_symbols
 -- name    : Formalism.BasicNotions.primeClass_eq_inert_iff_symbols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:31:11.884703+00:00
 -- url     : https://prove2.me/theorems/c81ddf9b-054c-42c4-b6e5-79d39c33409b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_mem_range_secH_iff
 -- name    : GlobalTheory.LagSplit.mem_range_secH_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:29.286991+00:00
 -- url     : https://prove2.me/theorems/1f45eb5f-b792-46f2-afe8-8f10d146cfa5

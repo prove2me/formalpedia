@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NTr_exists_sq_close
 -- name    : GlobalTheory.NTr.exists_sq_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:30:20.911153+00:00
 -- url     : https://prove2.me/theorems/b8f26cc3-e9d5-4497-848b-948f497a2cf1

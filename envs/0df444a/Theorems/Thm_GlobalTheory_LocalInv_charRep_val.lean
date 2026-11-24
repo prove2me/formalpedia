@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_charRep_val
 -- name    : GlobalTheory.LocalInv.charRep_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:23:03.675923+00:00
 -- url     : https://prove2.me/theorems/7eeb3869-20d1-4269-a462-6e6dc6569362

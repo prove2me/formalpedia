@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhaseLipschitz_eChar_sub_one_eq
 -- name    : GlobalTheory.PhaseLipschitz.eChar_sub_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:48:41.403679+00:00
 -- url     : https://prove2.me/theorems/e1e0d89c-1652-42d4-b433-d003cc136923

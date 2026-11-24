@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_second_integrand_integrable
 -- name    : Formalism.FourierDecayAlt.P.B6.second_integrand_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:05:13.66503+00:00
 -- url     : https://prove2.me/theorems/73ecb209-62d0-4bcc-829f-42aa0f884a3c

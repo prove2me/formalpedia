@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodExists_exists_isPeriod_of_equiv
 -- name    : GlobalTheory.PeriodExists.exists_isPeriod_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:42:50.286118+00:00
 -- url     : https://prove2.me/theorems/ba4c1436-7104-4fee-a735-e81fca701ed9

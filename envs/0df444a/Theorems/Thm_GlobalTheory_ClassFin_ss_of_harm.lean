@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_ss_of_harm
 -- name    : GlobalTheory.ClassFin.ss_of_harm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:11:14.757694+00:00
 -- url     : https://prove2.me/theorems/6d92dbbb-bace-4d4c-8ef0-5a7859293305

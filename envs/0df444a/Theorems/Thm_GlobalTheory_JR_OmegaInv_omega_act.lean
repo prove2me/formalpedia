@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OmegaInv_omega_act
 -- name    : GlobalTheory.JR.OmegaInv.omega_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:35:17.124612+00:00
 -- url     : https://prove2.me/theorems/3c9da0da-ebb8-4f6d-8a3d-3c7e2483320b

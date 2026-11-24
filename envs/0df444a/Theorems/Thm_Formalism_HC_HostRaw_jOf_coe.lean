@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_jOf_coe
 -- name    : Formalism.HC.HostRaw.jOf_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:24:42.756994+00:00
 -- url     : https://prove2.me/theorems/ac5c3eda-5b81-4e02-a305-307b6a848336

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinpolyHeightCount_finite_and_ncard_integral_le
 -- name    : GlobalTheory.MinpolyHeightCount.finite_and_ncard_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:24:38.730951+00:00
 -- url     : https://prove2.me/theorems/81986ea5-6b10-44a3-a54c-b06653ebf605

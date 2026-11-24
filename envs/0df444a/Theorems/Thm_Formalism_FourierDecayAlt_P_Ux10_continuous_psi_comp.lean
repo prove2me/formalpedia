@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_continuous_psi_comp
 -- name    : Formalism.FourierDecayAlt.P.Ux10.continuous_psi_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:14:09.970803+00:00
 -- url     : https://prove2.me/theorems/56677253-f8fd-4b27-906d-1c8437c63914

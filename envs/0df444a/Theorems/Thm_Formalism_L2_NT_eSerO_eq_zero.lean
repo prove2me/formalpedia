@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_eSerO_eq_zero
 -- name    : Formalism.L2.NT.eSerO_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:09:03.91908+00:00
 -- url     : https://prove2.me/theorems/f0ef3190-7c24-42cc-8607-3ac502a40224

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_isCrys_congr
 -- name    : Formalism.MainNotions.N.K.Norm.isCrys_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:25:41.781606+00:00
 -- url     : https://prove2.me/theorems/1b1f550e-d550-4f53-a72e-8380ad059a04

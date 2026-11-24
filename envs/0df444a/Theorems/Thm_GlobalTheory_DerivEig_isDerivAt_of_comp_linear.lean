@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEig_isDerivAt_of_comp_linear
 -- name    : GlobalTheory.DerivEig.isDerivAt_of_comp_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:21:29.162802+00:00
 -- url     : https://prove2.me/theorems/ff587ed5-36a7-40e2-a868-5e08b4b605be

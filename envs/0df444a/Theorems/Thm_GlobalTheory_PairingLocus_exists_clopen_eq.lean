@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingLocus_exists_clopen_eq
 -- name    : GlobalTheory.PairingLocus.exists_clopen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:41:43.365886+00:00
 -- url     : https://prove2.me/theorems/cf062e6c-e211-4559-9114-e1f0f130abde

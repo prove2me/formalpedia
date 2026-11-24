@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_symm_contraction
 -- name    : GlobalTheory.PeriodChart.symm_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:42:55.891186+00:00
 -- url     : https://prove2.me/theorems/b13d074e-0e0a-444c-b885-4cf4d8998ee5

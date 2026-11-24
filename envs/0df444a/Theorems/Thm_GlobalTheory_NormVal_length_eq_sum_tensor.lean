@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_length_eq_sum_tensor
 -- name    : GlobalTheory.NormVal.length_eq_sum_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:58.47533+00:00
 -- url     : https://prove2.me/theorems/84f68b46-1ed6-4c9b-8b8a-ce62e4eb3dc8

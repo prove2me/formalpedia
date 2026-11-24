@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_exists_finset_of_mem_nhds
 -- name    : GlobalTheory.PeriodCoord.exists_finset_of_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:42:46.377116+00:00
 -- url     : https://prove2.me/theorems/9e11a813-3221-49dc-94b5-751f75818136

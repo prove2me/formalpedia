@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_clears_idempotent_of_exponent_bound_exists_not_mem_mul_pow_mem
 -- name    : GlobalTheory.Proof.clears_idempotent_of_exponent_bound.exists_not_mem_mul_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:58:02.279797+00:00
 -- url     : https://prove2.me/theorems/3048c600-5a28-4c16-b474-d4a7cd19d719

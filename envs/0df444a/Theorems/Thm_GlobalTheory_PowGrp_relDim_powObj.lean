@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGrp_relDim_powObj
 -- name    : GlobalTheory.PowGrp.relDim_powObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:51:53.603956+00:00
 -- url     : https://prove2.me/theorems/b5b96046-23ef-4d68-9349-8d26f3e1c586

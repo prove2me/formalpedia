@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowChange_constFn_pow
 -- name    : GlobalTheory.PowChange.constFn_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:51:24.722452+00:00
 -- url     : https://prove2.me/theorems/be19f708-de1d-404d-8ada-ee18573199c5

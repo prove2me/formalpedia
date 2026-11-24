@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AllClasses_dvd_sign_mul_sub
 -- name    : GlobalTheory.AllClasses.dvd_sign_mul_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:59:39.243248+00:00
 -- url     : https://prove2.me/theorems/31fa7596-a547-4991-a966-624156eba78f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LagFun_exists_invariant_form
 -- name    : GlobalTheory.CompanionTheory.LagFun.exists_invariant_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:23:45.735275+00:00
 -- url     : https://prove2.me/theorems/1ef06a03-6027-431a-9663-645cdcbb0816

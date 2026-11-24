@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_trace_of_presents
 -- name    : GlobalTheory.PeriodCompare.trace_of_presents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:43:23.946261+00:00
 -- url     : https://prove2.me/theorems/c247900e-a394-4fd4-849f-af5335b3e3b9

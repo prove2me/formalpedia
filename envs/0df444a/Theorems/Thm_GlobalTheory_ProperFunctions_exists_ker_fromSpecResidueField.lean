@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_exists_ker_fromSpecResidueField
 -- name    : GlobalTheory.ProperFunctions.exists_ker_fromSpecResidueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:16.164959+00:00
 -- url     : https://prove2.me/theorems/d3a48419-c6bf-4167-81e8-dc05b3e1033b

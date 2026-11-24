@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MxDet_iterD_linF_pow
 -- name    : GlobalTheory.MxDet.iterD_linF_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:30:11.791816+00:00
 -- url     : https://prove2.me/theorems/57119780-6355-42b1-9855-efe252b0c8ba

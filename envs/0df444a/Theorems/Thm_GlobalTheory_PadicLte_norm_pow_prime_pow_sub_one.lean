@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicLte_norm_pow_prime_pow_sub_one
 -- name    : GlobalTheory.PadicLte.norm_pow_prime_pow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:39:45.487627+00:00
 -- url     : https://prove2.me/theorems/683b8401-78b7-4d67-9612-53d6688ca742

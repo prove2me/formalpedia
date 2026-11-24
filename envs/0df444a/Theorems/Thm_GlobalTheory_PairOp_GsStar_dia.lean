@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_GsStar_dia
 -- name    : GlobalTheory.PairOp.GsStar_dia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:39:59.862811+00:00
 -- url     : https://prove2.me/theorems/d18ccb3c-86de-4e03-b1f9-38137fca2105

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_ordinary
 -- name    : Formalism.HC.Der.ordinary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:50:49.370884+00:00
 -- url     : https://prove2.me/theorems/7c912884-c1e8-4eba-8124-440e97693ce0

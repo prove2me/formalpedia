@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_core
 -- name    : GlobalTheory.Lin.PsiToPi.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:06:03.125986+00:00
 -- url     : https://prove2.me/theorems/bf43b605-aee8-44bc-a47f-e1df3147c4b6

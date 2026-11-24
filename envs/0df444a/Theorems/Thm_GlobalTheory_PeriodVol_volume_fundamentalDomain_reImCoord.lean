@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodVol_volume_fundamentalDomain_reImCoord
 -- name    : GlobalTheory.PeriodVol.volume_fundamentalDomain_reImCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:45:37.475994+00:00
 -- url     : https://prove2.me/theorems/e3fdb756-97b5-4387-bdb6-57f40f25a77b

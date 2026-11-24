@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_im_form_eq
 -- name    : GlobalTheory.PeriodOnto.im_form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:44:19.074994+00:00
 -- url     : https://prove2.me/theorems/0af73bef-ebc3-4967-ba23-07d797376aae

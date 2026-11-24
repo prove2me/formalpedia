@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceOver_valued_algebraMap
 -- name    : GlobalTheory.PlaceOver.valued_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:44:46.322796+00:00
 -- url     : https://prove2.me/theorems/50bbd481-0f91-4aef-90f1-89951a4e465a

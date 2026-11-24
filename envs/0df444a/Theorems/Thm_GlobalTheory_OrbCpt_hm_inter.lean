@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbCpt_hm_inter
 -- name    : GlobalTheory.OrbCpt.hm_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:37:47.678477+00:00
 -- url     : https://prove2.me/theorems/2bd0a1d7-0d3d-48a5-b068-5144f5136a42

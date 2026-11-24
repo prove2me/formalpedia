@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_good_step
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.good_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:11:54.394921+00:00
 -- url     : https://prove2.me/theorems/84eaa605-04b6-42b7-af07-b46f1f3abf63

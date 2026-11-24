@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_eventually_out
 -- name    : GlobalTheory.LocalInv.eventually_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:23:14.149915+00:00
 -- url     : https://prove2.me/theorems/1ed9d189-20a3-4f95-9059-14a202458422

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_isIntegrallyClosedIn_laurentSeries
 -- name    : GlobalTheory.OnePoint.isIntegrallyClosedIn_laurentSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:57.786268+00:00
 -- url     : https://prove2.me/theorems/187d6420-a3db-4e4d-b531-2986d8348d90

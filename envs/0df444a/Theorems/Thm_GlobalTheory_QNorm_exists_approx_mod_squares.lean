@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_approx_mod_squares
 -- name    : GlobalTheory.QNorm.exists_approx_mod_squares
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:25:02.189555+00:00
 -- url     : https://prove2.me/theorems/89b4d5a5-47d3-47d6-b2f0-65f953d0e600

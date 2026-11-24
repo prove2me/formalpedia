@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelExist_exists_stdSymp_of_pairing
 -- name    : GlobalTheory.LevelExist.exists_stdSymp_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:03:32.210535+00:00
 -- url     : https://prove2.me/theorems/d22b1760-9c15-47f2-9d51-3128970fb3fb

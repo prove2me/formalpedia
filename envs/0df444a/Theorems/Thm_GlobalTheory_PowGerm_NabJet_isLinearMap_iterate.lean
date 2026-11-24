@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_NabJet_isLinearMap_iterate
 -- name    : GlobalTheory.PowGerm.NabJet.isLinearMap_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:52:09.49474+00:00
 -- url     : https://prove2.me/theorems/ffcc4070-135d-4bb0-a46f-016c7a1fde66

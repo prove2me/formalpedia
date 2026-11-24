@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_fourB_indicator_box
 -- name    : GlobalTheory.PlancherelZero.fourB_indicator_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:44:53.319651+00:00
 -- url     : https://prove2.me/theorems/a896c84d-d83f-4ec4-8212-81f624702c97

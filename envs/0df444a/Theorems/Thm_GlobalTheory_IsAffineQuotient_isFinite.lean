@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_isFinite
 -- name    : GlobalTheory.IsAffineQuotient.isFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:28:56.113511+00:00
 -- url     : https://prove2.me/theorems/02e2179e-6d90-4712-9758-db920205d07a

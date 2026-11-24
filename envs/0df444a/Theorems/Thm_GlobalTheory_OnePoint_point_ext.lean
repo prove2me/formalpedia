@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_point_ext
 -- name    : GlobalTheory.OnePoint.point_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:54.899009+00:00
 -- url     : https://prove2.me/theorems/79102c1b-0e9b-44f1-85a8-ab94e077ce76

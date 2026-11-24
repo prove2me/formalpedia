@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSec_exists_basis_of_isField
 -- name    : GlobalTheory.PowSec.exists_basis_of_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:52:55.276645+00:00
 -- url     : https://prove2.me/theorems/418085fd-52d7-463f-bc38-e458bc8d6dcf
