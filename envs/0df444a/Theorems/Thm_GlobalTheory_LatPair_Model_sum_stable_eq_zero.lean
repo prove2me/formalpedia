@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_sum_stable_eq_zero
 -- name    : GlobalTheory.LatPair.Model.sum_stable_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:02:21.421811+00:00
 -- url     : https://prove2.me/theorems/150c0951-8d88-4e29-ada5-9f34fbdf509e

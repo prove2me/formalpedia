@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stacked_split
 -- name    : ULHC.stacked_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:26:28.58017+00:00
 -- url     : https://prove2.me/theorems/329cfce3-8bc4-4f74-ab92-f95c0fc83208

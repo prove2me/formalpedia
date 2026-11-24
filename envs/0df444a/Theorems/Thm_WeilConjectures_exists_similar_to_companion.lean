@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_similar_to_companion
 -- name    : WeilConjectures.exists_similar_to_companion
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T01:12:29.675882+00:00
 -- url     : https://prove2.me/theorems/90358a48-c246-4835-821a-33c54ff7324e

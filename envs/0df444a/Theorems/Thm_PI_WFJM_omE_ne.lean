@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_omE_ne
 -- name    : PI.WFJM.omE_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:25.663217+00:00
 -- url     : https://prove2.me/theorems/ead48d93-2d87-4bc0-90c7-584eb97c94c5

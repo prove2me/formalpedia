@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_snf_of_polynomial_matrix
 -- name    : WeilConjectures.exists_snf_of_polynomial_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T01:42:51.154987+00:00
 -- url     : https://prove2.me/theorems/f03c3514-0926-48f7-9096-a06d791d856e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_crpath_to_path
 -- name    : ULHC.crpath_to_path
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:29:17.605818+00:00
 -- url     : https://prove2.me/theorems/14743692-344d-4377-add3-bcfda41bf348

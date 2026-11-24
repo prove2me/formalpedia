@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_rename_sw_injective
 -- name    : PI.FockOneDegW.Swap.rename_sw_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:10.751492+00:00
 -- url     : https://prove2.me/theorems/2d1e9222-10ee-4f56-8e8e-ea81d370bf0b

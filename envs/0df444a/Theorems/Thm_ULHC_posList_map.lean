@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_posList_map
 -- name    : ULHC.posList_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:58:06.922506+00:00
 -- url     : https://prove2.me/theorems/e9751388-e3f5-42e4-842c-b6c85e246c7d

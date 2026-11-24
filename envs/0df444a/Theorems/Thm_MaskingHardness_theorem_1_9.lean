@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaskingHardness_theorem_1_9
 -- name    : MaskingHardness.theorem_1_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:52:27.783009+00:00
 -- url     : https://prove2.me/theorems/ca2aa4c3-28ec-4209-b9e5-72c9b7d222a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BondySimonovits_cycle_of_dense
 -- name    : BondySimonovits.cycle_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:04:04.544735+00:00
 -- url     : https://prove2.me/theorems/fade0bc0-f6c9-447f-94ae-430ddf6c8519

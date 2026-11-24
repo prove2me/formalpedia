@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdLB_scaleGenG_one
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdLB.scaleGenG_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:42.839565+00:00
 -- url     : https://prove2.me/theorems/d225473c-813b-44bf-869d-9b99206203a2

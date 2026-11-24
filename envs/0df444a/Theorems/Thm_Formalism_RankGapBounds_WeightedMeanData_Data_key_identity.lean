@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_WeightedMeanData_Data_key_identity
 -- name    : Formalism.RankGapBounds.WeightedMeanData.Data.key_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:21.046644+00:00
 -- url     : https://prove2.me/theorems/b4057f7c-e84a-4c2e-ba60-5853a51beb36

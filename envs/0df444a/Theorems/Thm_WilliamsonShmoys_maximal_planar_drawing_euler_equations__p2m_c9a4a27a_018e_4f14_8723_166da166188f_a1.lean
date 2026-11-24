@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_euler_equations__p2m_c9a4a27a_018e_4f14_8723_166da166188f_a1
 -- name    : WilliamsonShmoys.maximal_planar_drawing_euler_equations__p2m_c9a4a27a_018e_4f14_8723_166da166188f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T06:57:39.836592+00:00
 -- url     : https://prove2.me/theorems/ab3c4834-8b15-4a63-8fca-25572aaa5eac

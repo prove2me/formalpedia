@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeilConjectures.exists_similar_to_companion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T01:26:01.919819+00:00
 -- url     : https://prove2.me/submissions/6646c83b-f1c2-46e7-8ac0-53d9e00b4927
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_invariant_factors_of_matrix

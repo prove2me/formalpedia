@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BondySimonovits_layer_claim
 -- name    : BondySimonovits.layer_claim
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:09:32.556886+00:00
 -- url     : https://prove2.me/theorems/6a828125-97b8-44f5-83b2-0ae6efed2143

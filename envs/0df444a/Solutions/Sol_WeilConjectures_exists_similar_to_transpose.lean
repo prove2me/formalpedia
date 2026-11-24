@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeilConjectures.exists_similar_to_transpose
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T01:12:35.813264+00:00
 -- url     : https://prove2.me/submissions/858aaec3-069a-4366-9b7d-e99f1dc1550f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_similar_to_companion

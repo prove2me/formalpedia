@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_factor_stopped_discount_weight
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_factor_stopped_discount_weight
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T04:25:47.57818+00:00
 -- url     : https://prove2.me/theorems/abdee683-5b98-42ad-8ddb-21d1eb2a5501

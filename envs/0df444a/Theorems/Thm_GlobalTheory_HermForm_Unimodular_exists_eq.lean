@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_Unimodular_exists_eq
 -- name    : GlobalTheory.HermForm.Unimodular.exists_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:25.435678+00:00
 -- url     : https://prove2.me/theorems/de6e0676-3662-41fe-bfc1-a42f8c999620

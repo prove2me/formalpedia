@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_layerAccCost_le
 -- name    : ULHC.layerAccCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:10:42.7618+00:00
 -- url     : https://prove2.me/theorems/f96ddc60-3ff8-457c-b7d0-1fa780a989d5

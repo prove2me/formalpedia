@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_linearEquiv_conj_eq_dualTranspose
 -- name    : WeilConjectures.exists_linearEquiv_conj_eq_dualTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T00:29:39.852371+00:00
 -- url     : https://prove2.me/theorems/6721538a-4d53-4901-9b82-7eb3903bf09d

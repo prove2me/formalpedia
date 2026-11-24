@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_front1_nb_opp
 -- name    : ULHC.front1_nb_opp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:00:16.583585+00:00
 -- url     : https://prove2.me/theorems/245f9f40-2313-4214-b152-b7bb842e6c34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BondySimonovits_nbrs_eq
 -- name    : BondySimonovits.nbrs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:08:40.027831+00:00
 -- url     : https://prove2.me/theorems/59452c3e-7fc5-4a34-8339-131f37c67165

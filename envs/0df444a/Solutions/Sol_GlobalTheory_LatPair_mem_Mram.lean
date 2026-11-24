@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for GlobalTheory.LatPair.mem_Mram
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T05:24:37.972822+00:00
+-- url     : https://prove2.me/submissions/b42a4db8-a3f3-4b92-a900-bf9468fcee40
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_TwistedInnerProducts_ExistsGlOfEquiv
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_TwistedInnerProducts_HasConductorMulShift
+import Theorems.Thm_GlobalTheory_LatPair_Nm_apply
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ValuativeRel Matrix IsLocalRing
+open scoped Pointwise
+noncomputable section
+open GlobalTheory GlobalTheory.LatPair
+variable {k : Type*} [Field k] [ValuativeRel k] [TopologicalSpace k] [IsNonarchimedeanLocalField k] {n n' : Type*}
+variable {M : Type*} [AddCommGroup M] [Module ℂ M]
+variable (q : Unif k) (χ : AddChar 𝓀[k] ℂ) (φ : Form k n M)
+namespace GlobalTheory.LatPair
+theorem _root_.solution [Fintype 𝓀[k]ˣ] : φ ∈ Mram k n M ↔ ∀ P, ∑ c : 𝓀[k]ˣ, φ (c • P) = 0 := by
+  simp only [Mram, LinearMap.mem_ker, funext_iff, Nm_apply, Pi.zero_apply]
+end GlobalTheory.LatPair

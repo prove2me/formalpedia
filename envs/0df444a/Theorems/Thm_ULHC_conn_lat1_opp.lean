@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_conn_lat1_opp
 -- name    : ULHC.conn_lat1_opp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:21:56.15917+00:00
 -- url     : https://prove2.me/theorems/a952444b-8fba-46f9-8365-66d570c15617

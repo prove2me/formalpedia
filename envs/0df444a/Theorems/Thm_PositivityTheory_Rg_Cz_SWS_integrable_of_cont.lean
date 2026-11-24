@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SWS_integrable_of_cont
 -- name    : PositivityTheory.Rg.Cz.SWS.integrable_of_cont
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:46.331556+00:00
 -- url     : https://prove2.me/theorems/26ec0934-7548-4e0e-b4e2-f1cea7cca501

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_farchain_CA
 -- name    : ULHC.farchain_CA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:30:32.353675+00:00
 -- url     : https://prove2.me/theorems/5dd46da5-4164-4ec9-91b1-e14954de3b61

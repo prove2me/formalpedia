@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chainOK_far
 -- name    : ULHC.chainOK_far
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:00:56.041823+00:00
 -- url     : https://prove2.me/theorems/d781dcf9-c629-45dc-9a05-ae0ffd9d41ca

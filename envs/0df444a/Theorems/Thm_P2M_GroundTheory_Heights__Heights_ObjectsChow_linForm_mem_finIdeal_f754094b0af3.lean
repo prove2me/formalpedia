@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_linForm_mem_finIdeal_f754094b0af3
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_linForm_mem_finIdeal_f754094b0af3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:41:26.688111+00:00
 -- url     : https://prove2.me/theorems/524e0eb8-6829-4361-ad67-a5d6b91e0839

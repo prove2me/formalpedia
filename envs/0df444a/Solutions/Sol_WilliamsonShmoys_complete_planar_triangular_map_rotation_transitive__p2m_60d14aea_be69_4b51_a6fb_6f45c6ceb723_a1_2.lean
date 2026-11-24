@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for WilliamsonShmoys.complete_planar_triangular_map_rotation_transitive__p2m_60d14aea_be69_4b51_a6fb_6f45c6ceb723_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:20:57.970766+00:00
 -- url     : https://prove2.me/submissions/7245f7ed-b041-4a64-8cbe-211d34954a86
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_TriangularMap
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_ContCoeff_prod
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.ContCoeff.prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:36.916525+00:00
 -- url     : https://prove2.me/theorems/f82e7409-e900-48d2-a223-d871e62b06cf

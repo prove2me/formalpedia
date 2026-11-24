@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_sum_shift_out
 -- name    : GlobalTheory.RankChart.sum_shift_out
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:04.200284+00:00
 -- url     : https://prove2.me/theorems/ae22e9fa-d12d-43e8-841b-06b262f32c63

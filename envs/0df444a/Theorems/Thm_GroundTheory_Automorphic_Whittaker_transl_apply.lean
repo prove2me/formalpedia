@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_transl_apply
 -- name    : GroundTheory.Automorphic.Whittaker.transl_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:37.460043+00:00
 -- url     : https://prove2.me/theorems/f131d53a-01db-4031-b550-c4cb5c9cddad

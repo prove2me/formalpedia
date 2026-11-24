@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_diffStep_comm__50e9b5a46128
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_diffStep_comm__50e9b5a46128
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:30.227053+00:00
 -- url     : https://prove2.me/theorems/423b2bab-f289-48ec-984b-2e22a982b07a

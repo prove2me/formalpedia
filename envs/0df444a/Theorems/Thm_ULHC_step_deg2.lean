@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_step_deg2
 -- name    : ULHC.step_deg2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:22:27.557856+00:00
 -- url     : https://prove2.me/theorems/7932c339-8dd5-437a-ab95-7a9bd6a819f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_poly8
 -- name    : ULHC.poly8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:12:27.147028+00:00
 -- url     : https://prove2.me/theorems/c90cfc15-ca28-4553-b563-1c36f32e2941

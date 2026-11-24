@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_rev_cellJ
 -- name    : ULHC.rev_cellJ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:22:20.0418+00:00
 -- url     : https://prove2.me/theorems/6d635bcb-6f6c-437e-8807-b82fb8397222

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_face_count_euler_incidence__p2m_2b14c079_901b_4d89_85a0_5d7005f21dc0_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:05:50.730687+00:00
 -- url     : https://prove2.me/submissions/8adb31c9-bd40-440f-aca1-e86a369fdf34
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_upper_bound__p2m_877a68bf_2408_4570_9e48_0da03981c44d_a1

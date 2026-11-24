@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_tail_of_chain
 -- name    : ULHC.tail_of_chain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:59:19.148372+00:00
 -- url     : https://prove2.me/theorems/4165b339-9f9b-4394-a316-b2c2e762cb7f

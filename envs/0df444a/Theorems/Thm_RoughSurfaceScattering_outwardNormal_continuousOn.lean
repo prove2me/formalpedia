@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_outwardNormal_continuousOn
 -- name    : RoughSurfaceScattering.outwardNormal_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T05:09:26.225813+00:00
 -- url     : https://prove2.me/theorems/d0240d35-d1d2-4228-b620-ca6c5c37977b

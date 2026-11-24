@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_gR_swap
 -- name    : PI.FJMP.gR_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:48.201822+00:00
 -- url     : https://prove2.me/theorems/de23ad60-b123-405f-9ce9-0f2700a7f231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamLocality237_Testing_lemma_3_7
 -- name    : HamLocality237.Testing.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:40:15.566399+00:00
 -- url     : https://prove2.me/theorems/47d50731-d997-41f7-a139-1729da27ab55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_nOn_rev
 -- name    : ULHC.nOn_rev
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:57:41.404611+00:00
 -- url     : https://prove2.me/theorems/a28f7dbb-1875-4ad9-a260-9fda2dbbdf39

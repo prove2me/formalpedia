@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_fun_sub_fde591e95c3b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_fun_sub_fde591e95c3b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:07.272792+00:00
 -- url     : https://prove2.me/theorems/6b5508b6-a122-4b5c-a81d-be769f59623e

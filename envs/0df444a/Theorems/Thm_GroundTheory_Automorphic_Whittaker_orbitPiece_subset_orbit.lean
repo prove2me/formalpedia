@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_orbitPiece_subset_orbit
 -- name    : GroundTheory.Automorphic.Whittaker.orbitPiece_subset_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:39.59028+00:00
 -- url     : https://prove2.me/theorems/6f484530-e55d-4cda-97af-6bbd74e8749e

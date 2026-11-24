@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chainOK_besideB
 -- name    : ULHC.chainOK_besideB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:00:53.658551+00:00
 -- url     : https://prove2.me/theorems/e30298f0-8385-4319-ab19-c12bafd48ef9

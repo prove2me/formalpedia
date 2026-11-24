@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_ResProj_proportional
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.ResProj.proportional
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:38.607492+00:00
 -- url     : https://prove2.me/theorems/cc767804-ccb9-4de5-9829-419e22cbe400

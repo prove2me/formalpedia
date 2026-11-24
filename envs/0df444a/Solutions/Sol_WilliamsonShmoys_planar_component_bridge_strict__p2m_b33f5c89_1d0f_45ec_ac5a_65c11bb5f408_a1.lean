@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_component_bridge_strict__p2m_b33f5c89_1d0f_45ec_ac5a_65c11bb5f408_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:14:16.225275+00:00
 -- url     : https://prove2.me/submissions/4bba080e-05a9-4eac-ae3c-d3c8610173c2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

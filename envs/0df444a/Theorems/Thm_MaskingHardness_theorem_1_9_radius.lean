@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaskingHardness_theorem_1_9_radius
 -- name    : MaskingHardness.theorem_1_9_radius
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:52:06.383867+00:00
 -- url     : https://prove2.me/theorems/eaeb0a98-ead7-4830-8bc6-49f3d10125fe

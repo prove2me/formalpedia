@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_euler_characteristic_of_planar_drawing__p2m_7dadb7da_8b1f_4740_8afa_ded5b834878b_a2
 -- name    : WilliamsonShmoys.euler_characteristic_of_planar_drawing__p2m_7dadb7da_8b1f_4740_8afa_ded5b834878b_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:30:26.359258+00:00
 -- url     : https://prove2.me/theorems/b2c4c164-034f-445b-b0e5-31939db5e70c

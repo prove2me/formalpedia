@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_comap_C_eq_bot_of_not_mem_1f5ac74ee822
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_comap_C_eq_bot_of_not_mem_1f5ac74ee822
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:44.153027+00:00
 -- url     : https://prove2.me/theorems/c187efd4-b8a0-49aa-8fb5-70d9ac1898ec

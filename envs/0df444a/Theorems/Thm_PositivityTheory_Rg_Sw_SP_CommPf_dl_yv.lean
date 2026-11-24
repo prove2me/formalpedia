@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_CommPf_dl_yv
 -- name    : PositivityTheory.Rg.Sw.SP.CommPf.dl_yv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:43.238691+00:00
 -- url     : https://prove2.me/theorems/962439f0-fb98-4ada-abb2-8cccb2a493a6

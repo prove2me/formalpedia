@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_pMinor_eq
 -- name    : PI.OddDualWeyl.Low.pMinor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:52.354769+00:00
 -- url     : https://prove2.me/theorems/413051cc-0e39-4c75-87bc-ebca7192378f

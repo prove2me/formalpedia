@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticFamily_exists_isSymplecticBasis
 -- name    : GlobalTheory.IsSymplecticFamily.exists_isSymplecticBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:30:50.946092+00:00
 -- url     : https://prove2.me/theorems/3bdf8e33-0246-4196-8e8c-73e53d48b2ec

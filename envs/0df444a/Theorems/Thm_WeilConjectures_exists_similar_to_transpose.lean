@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_similar_to_transpose
 -- name    : WeilConjectures.exists_similar_to_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T01:07:08.383402+00:00
 -- url     : https://prove2.me/theorems/d89cd3e7-e7b9-44e9-8b89-5a78a7667f4a

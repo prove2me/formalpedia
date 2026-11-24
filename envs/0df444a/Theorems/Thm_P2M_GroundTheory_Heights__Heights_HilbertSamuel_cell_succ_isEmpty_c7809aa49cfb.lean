@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_cell_succ_isEmpty_c7809aa49cfb
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_cell_succ_isEmpty_c7809aa49cfb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:26.470033+00:00
 -- url     : https://prove2.me/theorems/09d54921-4e52-46d3-86fe-54cc957bbaff

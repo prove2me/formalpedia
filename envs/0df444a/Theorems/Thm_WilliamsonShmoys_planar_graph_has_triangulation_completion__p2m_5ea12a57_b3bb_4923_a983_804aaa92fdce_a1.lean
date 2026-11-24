@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_triangulation_completion__p2m_5ea12a57_b3bb_4923_a983_804aaa92fdce_a1
 -- name    : WilliamsonShmoys.planar_graph_has_triangulation_completion__p2m_5ea12a57_b3bb_4923_a983_804aaa92fdce_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:21:33.718363+00:00
 -- url     : https://prove2.me/theorems/af8ffdb6-a3ca-4deb-99d5-c1621ba2f570

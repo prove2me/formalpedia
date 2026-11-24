@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chain_corner_edges
 -- name    : ULHC.chain_corner_edges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:04:41.569627+00:00
 -- url     : https://prove2.me/theorems/0e7c2b73-b65a-4d62-ba5e-a7e42f7e2174

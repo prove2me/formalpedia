@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_lift_comm_eAt
 -- name    : PositivityTheory.Rg.Cz.lift_comm_eAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:22.8292+00:00
 -- url     : https://prove2.me/theorems/12ab1aae-3f48-4725-8f57-ca61c63c633b

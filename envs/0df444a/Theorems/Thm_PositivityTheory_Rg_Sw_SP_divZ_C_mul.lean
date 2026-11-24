@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_divZ_C_mul
 -- name    : PositivityTheory.Rg.Sw.SP.divZ_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:20.929409+00:00
 -- url     : https://prove2.me/theorems/9d32d073-7fe1-4a49-ac3d-d9bd928b3e4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_DiscCover_const_coord
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.DiscCover.const_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:47.829407+00:00
 -- url     : https://prove2.me/theorems/2c17e203-b4ed-4245-995a-50ddc7c30bd4

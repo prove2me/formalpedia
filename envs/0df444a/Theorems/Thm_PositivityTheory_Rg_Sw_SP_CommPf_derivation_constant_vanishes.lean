@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_CommPf_derivation_constant_vanishes
 -- name    : PositivityTheory.Rg.Sw.SP.CommPf.derivation_constant_vanishes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:27.128567+00:00
 -- url     : https://prove2.me/theorems/a0812da8-91c6-4507-b211-fc17e66fd3ce

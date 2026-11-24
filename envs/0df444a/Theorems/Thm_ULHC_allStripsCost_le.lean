@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_allStripsCost_le
 -- name    : ULHC.allStripsCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:30:27.475649+00:00
 -- url     : https://prove2.me/theorems/6ada4305-f448-48f1-9f36-13a7bea72388

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_hasConductor_mulShift
 -- name    : GlobalTheory.LatPair.hasConductor_mulShift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:53.471365+00:00
 -- url     : https://prove2.me/theorems/fcd10a2e-25c2-46d7-8579-01bd2f46715a

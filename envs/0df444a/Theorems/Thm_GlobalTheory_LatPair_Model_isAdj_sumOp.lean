@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_isAdj_sumOp
 -- name    : GlobalTheory.LatPair.Model.isAdj_sumOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:55.651414+00:00
 -- url     : https://prove2.me/theorems/635a2b53-6d83-405e-bf85-ad5fa0c7dec1

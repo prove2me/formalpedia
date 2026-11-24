@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_frontier_hausdorff_finite
 -- name    : RoughSurfaceScattering.frontier_hausdorff_finite
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T05:09:26.382866+00:00
 -- url     : https://prove2.me/theorems/046cc761-b00a-48cd-9c96-915febae135a

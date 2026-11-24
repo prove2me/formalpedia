@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_snf_diag_eq_transpose_of_unit_equiv
 -- name    : WeilConjectures.snf_diag_eq_transpose_of_unit_equiv
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T02:13:05.312916+00:00
 -- url     : https://prove2.me/theorems/2c951425-4642-4fd8-99c2-a5e515cae326

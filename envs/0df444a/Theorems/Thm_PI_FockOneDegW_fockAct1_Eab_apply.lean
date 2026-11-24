@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_fockAct1_Eab_apply
 -- name    : PI.FockOneDegW.fockAct1_Eab_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:23.313139+00:00
 -- url     : https://prove2.me/theorems/e21c3f57-99a1-4765-aa26-05cf0b5216c6

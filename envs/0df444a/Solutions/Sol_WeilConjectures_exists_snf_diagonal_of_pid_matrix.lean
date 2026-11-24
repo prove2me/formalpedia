@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeilConjectures.exists_snf_diagonal_of_pid_matrix
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T02:03:40.547506+00:00
 -- url     : https://prove2.me/submissions/f5f5fcaa-462c-4639-a10a-0e517c3411eb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_snf_diag_factorization_of_poly_matrix

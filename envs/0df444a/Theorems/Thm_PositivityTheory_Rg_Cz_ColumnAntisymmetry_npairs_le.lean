@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ColumnAntisymmetry_npairs_le
 -- name    : PositivityTheory.Rg.Cz.ColumnAntisymmetry.npairs_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:06.36326+00:00
 -- url     : https://prove2.me/theorems/44d78c48-6d48-4d42-bf00-8bec59b0a4a5

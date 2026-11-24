@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_Sm_pow
 -- name    : PI.WADVR.Sm.pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:21.67581+00:00
 -- url     : https://prove2.me/theorems/14f101c8-7eb7-4f13-bc5d-aec41980edf5

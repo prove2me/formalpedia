@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IsIwasawa_indLaw_flatSec
 -- name    : GlobalTheory.Doubling.IsIwasawa.indLaw_flatSec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:33:28.610847+00:00
 -- url     : https://prove2.me/theorems/754d6894-2b9c-4e35-89d8-1b6d09413fe8

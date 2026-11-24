@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_besideE_offB
 -- name    : ULHC.besideE_offB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:07:38.183153+00:00
 -- url     : https://prove2.me/theorems/b0cd1226-bfa0-4b05-a12b-d18db8c5191f

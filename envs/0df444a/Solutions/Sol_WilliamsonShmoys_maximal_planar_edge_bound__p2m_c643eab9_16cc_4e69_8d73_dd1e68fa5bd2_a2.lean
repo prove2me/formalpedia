@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_edge_bound__p2m_c643eab9_16cc_4e69_8d73_dd1e68fa5bd2_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:20:44.892813+00:00
 -- url     : https://prove2.me/submissions/6fef21c2-4bbc-414d-968b-3d78be4ab32b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound__p2m_710ae9cd_06e1_4ca5_a820_3c02fa6bdb35_a1
 

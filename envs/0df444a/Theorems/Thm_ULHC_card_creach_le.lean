@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_card_creach_le
 -- name    : ULHC.card_creach_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:39:13.030799+00:00
 -- url     : https://prove2.me/theorems/179e3e21-1231-490c-a429-cc9888709b5e

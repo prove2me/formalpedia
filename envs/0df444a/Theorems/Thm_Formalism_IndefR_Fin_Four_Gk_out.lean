@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_Gk_out
 -- name    : Formalism.IndefR.Fin.Four.Gk_out
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:42.2306+00:00
 -- url     : https://prove2.me/theorems/50ede3d9-8713-41be-98c3-71b4d3d46ac6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiSobBayes_lemma_A_19
 -- name    : PhiSobBayes.lemma_A_19
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:06:46.206068+00:00
 -- url     : https://prove2.me/theorems/5f4d93c5-b999-4043-86a5-6edb1d3ccbb1

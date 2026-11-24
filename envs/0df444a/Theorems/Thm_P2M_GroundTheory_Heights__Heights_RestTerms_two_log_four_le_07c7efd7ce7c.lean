@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_two_log_four_le_07c7efd7ce7c
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_two_log_four_le_07c7efd7ce7c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:04.468169+00:00
 -- url     : https://prove2.me/theorems/f53df614-527d-4881-9774-51a37eb8f404

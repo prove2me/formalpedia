@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdSy_unit__mul_51f5e9f25667
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdSy_unit__mul_51f5e9f25667
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:26.926801+00:00
 -- url     : https://prove2.me/theorems/56eeba7c-78d4-4eff-96f6-d9fb94105df3

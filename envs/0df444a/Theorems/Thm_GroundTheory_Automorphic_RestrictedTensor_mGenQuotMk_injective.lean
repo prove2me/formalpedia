@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_mGenQuotMk_injective
 -- name    : GroundTheory.Automorphic.RestrictedTensor.mGenQuotMk_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:29.882068+00:00
 -- url     : https://prove2.me/theorems/73795b01-61a6-4eed-a481-6a30e77abcf9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sub_mem_relSpan
 -- name    : GroundTheory.Automorphic.Whittaker.sub_mem_relSpan
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:53.579622+00:00
 -- url     : https://prove2.me/theorems/dfe6be58-2a7f-4d0f-88f1-6c6c5dbb5370

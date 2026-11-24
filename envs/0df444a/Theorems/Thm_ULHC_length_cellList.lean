@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_length_cellList
 -- name    : ULHC.length_cellList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:11:58.499893+00:00
 -- url     : https://prove2.me/theorems/13685b6d-9ff9-45b7-8102-3275a33ecdab

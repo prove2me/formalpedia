@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_minusPart_eq_sum
 -- name    : PI.WFJM.minusPart_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:27.666365+00:00
 -- url     : https://prove2.me/theorems/a2392256-c04b-4be9-a427-7dd316c45bf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_restrictedLift_apply_of
 -- name    : GroundTheory.Automorphic.RestrictedTensor.restrictedLift_apply_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:56.371256+00:00
 -- url     : https://prove2.me/theorems/2d907c57-a7b5-46ac-a4a9-3e0c396d8bed

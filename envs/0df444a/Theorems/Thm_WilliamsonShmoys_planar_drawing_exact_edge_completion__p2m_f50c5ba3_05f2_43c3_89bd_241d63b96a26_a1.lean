@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_exact_edge_completion__p2m_f50c5ba3_05f2_43c3_89bd_241d63b96a26_a1
 -- name    : WilliamsonShmoys.planar_drawing_exact_edge_completion__p2m_f50c5ba3_05f2_43c3_89bd_241d63b96a26_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:36:37.762381+00:00
 -- url     : https://prove2.me/theorems/258eb918-9051-4673-9031-77873604d1c1

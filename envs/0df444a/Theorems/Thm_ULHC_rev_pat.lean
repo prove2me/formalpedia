@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_rev_pat
 -- name    : ULHC.rev_pat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:57:52.767988+00:00
 -- url     : https://prove2.me/theorems/6a1f5f70-1217-49f9-afde-984154bba01c

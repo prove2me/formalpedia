@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_pow_dvd_prod
 -- name    : PositivityTheory.Rg.Sw.SP.pow_dvd_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:05.825827+00:00
 -- url     : https://prove2.me/theorems/c7ca992a-c12a-4129-8503-e496df1e94d5

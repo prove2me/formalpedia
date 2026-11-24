@@ -51086,7 +51086,7 @@
 {"parent": "QEC.Coding.BDL26FirstReplacementSparseExactness.ScaleDependent.arm_subdivision_incidence", "child": "QEC_Coding_FiniteAlternatingConstruction_SeedCohomology", "via": ["solution", "statement"]}
 {"parent": "CircTrichotomy.fact_A_5", "child": "CircTrichotomy_BigO", "via": ["statement"]}
 {"parent": "CircTrichotomy.fact_A_5", "child": "CircTrichotomy_InSizeDepth", "via": ["statement"]}
-{"parent": "HamLocality237.Testing.lemma_3_7", "child": "HamLocality237_Testing_Adversary", "via": ["statement"]}
+{"parent": "HamLocality237.Testing.lemma_3_7", "child": "HamLocality237_Testing_Adversary", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelSpectralFormOperator_isUnit_near", "child": "OAI_NumberTheory_DirichletL_Eisenstein_MeromorphicResolvent", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelSpectralFormOperator_isUnit_near", "child": "OAI_NumberTheory_DirichletL_Eisenstein_FredholmAlternative", "via": ["solution", "statement"]}
 {"parent": "CellProbeTree.Matching.lemma_3_3", "child": "CellProbeTree_Matching_Execution", "via": ["statement"]}
@@ -59327,7 +59327,7 @@
 {"parent": "SparseWalsh.Approx.proposition_D_8", "child": "SparseWalsh_Approx_Locators", "via": ["statement"]}
 {"parent": "SparseWalsh.Approx.proposition_D_8", "child": "SparseWalsh_Approx_Fourier", "via": ["statement"]}
 {"parent": "SparseWalsh.Approx.proposition_D_8", "child": "SmaleNinth_RealRAM", "via": ["statement"]}
-{"parent": "HamLocality237.Testing.theorem_3_10", "child": "HamLocality237_Testing_Adversary", "via": ["statement"]}
+{"parent": "HamLocality237.Testing.theorem_3_10", "child": "HamLocality237_Testing_Adversary", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.affineCusp_branch_fourier", "child": "OAI_NumberTheory_DirichletL_Eisenstein_AffineCuspFourier", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.affineCusp_branch_fourier", "child": "OAI_NumberTheory_DirichletL_Reciprocity_RamifiedCuspPhases", "via": ["solution", "statement"]}
 {"parent": "OAI.PackingSufficiencySupport.Hamiltonian.exists_final_surface_layer_packing_bp240", "child": "OAIQ240Bp010", "via": ["solution", "statement"]}

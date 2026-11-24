@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_decode_posList
 -- name    : ULHC.decode_posList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:37:04.437053+00:00
 -- url     : https://prove2.me/theorems/f1540e0a-627c-4746-b979-2339912ba3cf

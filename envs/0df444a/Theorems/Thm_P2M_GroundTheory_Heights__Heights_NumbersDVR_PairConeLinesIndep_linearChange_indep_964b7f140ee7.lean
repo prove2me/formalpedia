@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairConeLinesIndep_linearChange_indep_964b7f140ee7
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairConeLinesIndep_linearChange_indep_964b7f140ee7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:59.220421+00:00
 -- url     : https://prove2.me/theorems/5e5d5f2c-01ea-4a9f-bfd8-8035724c42da

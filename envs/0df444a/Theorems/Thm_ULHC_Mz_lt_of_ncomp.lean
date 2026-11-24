@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Mz_lt_of_ncomp
 -- name    : ULHC.Mz_lt_of_ncomp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:06:01.360802+00:00
 -- url     : https://prove2.me/theorems/a0a3a63b-5986-44f4-b8ce-4485daa57ce0

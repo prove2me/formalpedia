@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_augStepCost_le
 -- name    : ULHC.augStepCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:10:54.295389+00:00
 -- url     : https://prove2.me/theorems/73436dd6-8dc2-42ec-8ce3-7c38abba5d14

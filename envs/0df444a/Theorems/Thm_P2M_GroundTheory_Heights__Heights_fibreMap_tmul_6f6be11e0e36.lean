@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_fibreMap_tmul_6f6be11e0e36
 -- name    : P2M_GroundTheory_Heights__Heights_fibreMap_tmul_6f6be11e0e36
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:17.611412+00:00
 -- url     : https://prove2.me/theorems/664505a6-ec9f-4e7c-bf1f-4b04c0b1889b

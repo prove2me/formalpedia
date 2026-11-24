@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_coinvariantsTranslate_mk
 -- name    : GroundTheory.Automorphic.coinvariantsTranslate_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:10:02.582719+00:00
 -- url     : https://prove2.me/theorems/c850f8d0-da78-4fb2-b335-d502420f89cb

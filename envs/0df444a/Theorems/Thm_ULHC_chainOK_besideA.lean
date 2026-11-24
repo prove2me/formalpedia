@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chainOK_besideA
 -- name    : ULHC.chainOK_besideA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:01:02.396588+00:00
 -- url     : https://prove2.me/theorems/64dbc5a7-397f-4456-835c-b56f4b89a92a

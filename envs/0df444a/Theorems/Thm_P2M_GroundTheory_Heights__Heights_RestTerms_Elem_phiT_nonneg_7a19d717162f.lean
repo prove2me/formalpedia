@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_phiT_nonneg_7a19d717162f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_phiT_nonneg_7a19d717162f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:06.131613+00:00
 -- url     : https://prove2.me/theorems/d3fda98c-248e-4ae8-b36f-ff174d4dfa18

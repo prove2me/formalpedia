@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_card_nbr_le
 -- name    : ULHC.card_nbr_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:10:40.947916+00:00
 -- url     : https://prove2.me/theorems/f045ed78-6c6a-44c1-831c-260a8a8139b4

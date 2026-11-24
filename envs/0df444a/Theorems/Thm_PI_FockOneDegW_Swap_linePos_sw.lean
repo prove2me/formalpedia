@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_linePos_sw
 -- name    : PI.FockOneDegW.Swap.linePos_sw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:26.366323+00:00
 -- url     : https://prove2.me/theorems/daca3503-7840-4909-84ad-f56b81798f8c

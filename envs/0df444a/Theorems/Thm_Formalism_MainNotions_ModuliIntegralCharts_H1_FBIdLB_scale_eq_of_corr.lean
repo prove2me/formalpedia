@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdLB_scale_eq_of_corr
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdLB.scale_eq_of_corr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:02:10.400556+00:00
 -- url     : https://prove2.me/theorems/5a467fcc-b650-4dbd-93aa-89768e3baebd

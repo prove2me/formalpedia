@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SerreRAt_of_ringEquiv_9a6f5f5d4ec0
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SerreRAt_of_ringEquiv_9a6f5f5d4ec0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:29.549769+00:00
 -- url     : https://prove2.me/theorems/9407cb76-c4bc-41a3-991f-b0c2356abf72

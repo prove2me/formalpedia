@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_finiteEmbed_tprod
 -- name    : GroundTheory.Automorphic.RestrictedTensor.finiteEmbed_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:43.110953+00:00
 -- url     : https://prove2.me/theorems/4b26dafb-b1c7-4ec1-ac78-2159f843480e

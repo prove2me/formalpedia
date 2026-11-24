@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BondySimonovits_bfs_bound
 -- name    : BondySimonovits.bfs_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:09:13.702802+00:00
 -- url     : https://prove2.me/theorems/6b3cd142-02c8-433b-ab9d-9fc8e2046702

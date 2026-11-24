@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_far_link
 -- name    : ULHC.far_link
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:01:27.80051+00:00
 -- url     : https://prove2.me/theorems/5d1494a3-c46d-4246-a1c3-c1523546c2c1

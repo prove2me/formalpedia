@@ -64755,7 +64755,7 @@
 {"parent": "PermBlockchain_Transfers_vendorProfit", "child": "PermBlockchain_Transfers_vendorCost", "via": ["statement"]}
 {"parent": "PermBlockchain_Transfers_vendorProfit", "child": "PermBlockchain_Transfers_MType", "via": ["statement"]}
 {"parent": "PermBlockchain_Transfers_vendorProfit", "child": "PermBlockchain_Transfers_Mfr", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_connected_extension_with_more_edges__p2m_afb0646a_1b1c_43fc_91b8_89461203ac52_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_connected_extension_with_more_edges__p2m_afb0646a_1b1c_43fc_91b8_89461203ac52_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Advance50.P16.induced_positive_attainment", "child": "QAlgorithms_Papers_Independent_Advance50_P16", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P44.spectralNormLowerBound", "child": "QAlgorithms_Papers_Independent_Extend50_P44", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_connected_extension__p2m_7a1738f6_5642_467f_b376_eb6ed4a76310_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
@@ -95673,7 +95673,7 @@
 {"parent": "RBMSensitivity.corollary_2_16", "child": "RBMSensitivity_Data_IsJointFamily", "via": ["statement"]}
 {"parent": "FirstChoiceDesign_IsPivot", "child": "FirstChoiceDesign_First", "via": ["statement"]}
 {"parent": "DualTwoStageRO.lagrange_duality_refined_slater", "child": "DualTwoStageRO_IsAffineFun", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.euler_characteristic_of_planar_drawing__p2m_7dadb7da_8b1f_4740_8afa_ded5b834878b_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.euler_characteristic_of_planar_drawing__p2m_7dadb7da_8b1f_4740_8afa_ded5b834878b_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "GeomRescale.lemma_3_8", "child": "GeomRescale_width", "via": ["solution", "statement"]}
 {"parent": "GeomRescale.lemma_3_8", "child": "SchrijverSFM_Alg_Setting", "via": ["solution", "statement"]}
 {"parent": "GeomRescale.lemma_3_8", "child": "GeomRescale_enlarge", "via": ["solution", "statement"]}

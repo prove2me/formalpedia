@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chain_transfer_CA
 -- name    : ULHC.chain_transfer_CA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:36:19.132412+00:00
 -- url     : https://prove2.me/theorems/78924f5f-a4d1-4ddf-a716-c3e109e2ba50

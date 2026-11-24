@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_det_inv_eq
 -- name    : PI.OddDualWeyl.Red.det_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:01.087748+00:00
 -- url     : https://prove2.me/theorems/134c4fe7-c67f-4908-91c4-e690dbc8c5a7

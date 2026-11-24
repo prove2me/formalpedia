@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwistHomotopy_hb_conjTranspose
 -- name    : GlobalTheory.CompanionTheory.TwistHomotopy.hb_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:08.780696+00:00
 -- url     : https://prove2.me/theorems/ac828450-6b57-4d60-95e4-9d78302eff9b

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeilConjectures.exists_linearEquiv_conj_eq_dualTranspose
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T01:07:10.165808+00:00
 -- url     : https://prove2.me/submissions/c7765d6e-21aa-4fa9-a6dd-3b81661aa974
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_similar_to_transpose

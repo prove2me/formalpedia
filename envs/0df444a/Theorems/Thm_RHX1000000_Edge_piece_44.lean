@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RHX1000000_Edge_piece_44
 -- name    : RHX1000000.Edge.piece_44
--- status  : Open
+-- status  : Proved
 -- author  : @@bwdaugherty
 -- created : 2026-11-24T05:07:37.09568+00:00
 -- url     : https://prove2.me/theorems/88b2bbe0-44d8-4bd1-bd20-15f6dddbe201

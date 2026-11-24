@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for WilliamsonShmoys.maximal_drawable_connected__p2m_6bdbdb3d_755f_4cae_8333_ac9716c72254_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:08:20.621851+00:00
 -- url     : https://prove2.me/submissions/c44e7f6e-80bf-4717-9c9a-e5489d8b748a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_disconnected_drawable_extension__p2m_34e3c7ce_8936_45db_894d_7bc025c10cb3_a2

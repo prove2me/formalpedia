@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_component_bridge_extension__p2m_654d6b40_351a_4feb_9abd_94332c593474_a1
 -- name    : WilliamsonShmoys.planar_component_bridge_extension__p2m_654d6b40_351a_4feb_9abd_94332c593474_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:12:55.181869+00:00
 -- url     : https://prove2.me/theorems/afb0646a-1b1c-43fc-91b8-89461203ac52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_divCycle_eq_of_sub_mem_79374b1d92c7
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_divCycle_eq_of_sub_mem_79374b1d92c7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:46.467852+00:00
 -- url     : https://prove2.me/theorems/9db73b05-8b0e-4601-8da6-c6de6bf5078d

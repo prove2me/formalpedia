@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Mz_of_T3
 -- name    : ULHC.Mz_of_T3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:06:29.442466+00:00
 -- url     : https://prove2.me/theorems/4686939e-bc7e-4d41-807f-2b44f9de9ed1

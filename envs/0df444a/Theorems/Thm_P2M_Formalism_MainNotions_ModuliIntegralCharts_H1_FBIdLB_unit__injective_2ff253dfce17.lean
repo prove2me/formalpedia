@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdLB_unit__injective_2ff253dfce17
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdLB_unit__injective_2ff253dfce17
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:43.701844+00:00
 -- url     : https://prove2.me/theorems/5db51686-d071-4ac8-9da7-092d5b93b865

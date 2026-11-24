@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_supergraph_edge_bound__p2m_3c202fe3_e8d7_442a_bae3_52d08143dac3_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:28:38.939737+00:00
 -- url     : https://prove2.me/submissions/e4f3b34f-f55f-405d-a2be-d795282200dc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_exists_edge_maximal_planar_supergraph__p2m_37b1f122_e21a_4ccc_9539_0e6943b4c397_a1
 import Theorems.Thm_WilliamsonShmoys_edge_maximal_planar_edge_bound__p2m_37b1f122_e21a_4ccc_9539_0e6943b4c397_a1

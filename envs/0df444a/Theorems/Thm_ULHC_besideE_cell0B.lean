@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_besideE_cell0B
 -- name    : ULHC.besideE_cell0B
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:08:12.840448+00:00
 -- url     : https://prove2.me/theorems/18d78454-8af7-461b-b459-33361e8d963c

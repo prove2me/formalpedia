@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_quotOp_mk
 -- name    : GlobalTheory.TensHead.quotOp_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:30.492893+00:00
 -- url     : https://prove2.me/theorems/7da800f6-552b-4132-8118-1762ab50af7a

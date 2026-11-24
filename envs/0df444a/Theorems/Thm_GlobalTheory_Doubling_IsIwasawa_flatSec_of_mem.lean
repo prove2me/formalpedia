@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IsIwasawa_flatSec_of_mem
 -- name    : GlobalTheory.Doubling.IsIwasawa.flatSec_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:33:22.635327+00:00
 -- url     : https://prove2.me/theorems/3e7f40d4-b40d-4ac5-aba7-1d4568591630

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_lanyT_time_le
 -- name    : ULHC.T.lanyT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:11:31.332001+00:00
 -- url     : https://prove2.me/theorems/8769bcb5-7485-4c4c-850c-a7e570237998

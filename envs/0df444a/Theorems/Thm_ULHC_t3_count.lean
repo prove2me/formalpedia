@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_t3_count
 -- name    : ULHC.t3_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:06:39.866032+00:00
 -- url     : https://prove2.me/theorems/c6f8f27e-64d9-4460-88d4-1e4135773a91

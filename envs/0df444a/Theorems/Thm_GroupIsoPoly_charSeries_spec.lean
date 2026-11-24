@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupIsoPoly_charSeries_spec
 -- name    : GroupIsoPoly.charSeries_spec
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:54:23.362488+00:00
 -- url     : https://prove2.me/theorems/426f6275-7fa4-4ebb-b41b-e99172677174

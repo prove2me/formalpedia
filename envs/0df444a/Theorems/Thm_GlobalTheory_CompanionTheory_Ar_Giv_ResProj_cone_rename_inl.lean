@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_ResProj_cone_rename_inl
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.ResProj.cone_rename_inl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:27.416204+00:00
 -- url     : https://prove2.me/theorems/bdbe62d6-97e9-4710-ae5c-c50387eb1837

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_has_triangulated_edge_count__p2m_7235810a_9787_44ff_bc97_6b6cda77c472_a1
 -- name    : WilliamsonShmoys.maximal_planar_graph_has_triangulated_edge_count__p2m_7235810a_9787_44ff_bc97_6b6cda77c472_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:55:33.261169+00:00
 -- url     : https://prove2.me/theorems/d750730e-2711-4e55-8b38-5f4dbc12a87a

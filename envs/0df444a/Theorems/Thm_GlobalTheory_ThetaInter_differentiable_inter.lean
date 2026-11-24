@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_differentiable_inter
 -- name    : GlobalTheory.ThetaInter.differentiable_inter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:34.447673+00:00
 -- url     : https://prove2.me/theorems/18bd5e9e-8765-4990-a595-58a15dfee3b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PrimeGermPrimitivePresentation_exists_of_mem_holGermIdeal_6e04f02e5a02
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PrimeGermPrimitivePresentation_exists_of_mem_holGermIdeal_6e04f02e5a02
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:01.144827+00:00
 -- url     : https://prove2.me/theorems/5869096b-e16d-4099-8053-a5a469de3280

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeilConjectures.exists_snf_of_polynomial_matrix
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T01:51:31.211021+00:00
 -- url     : https://prove2.me/submissions/82473524-f988-456e-a8c4-0856f092c3b8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_snf_diagonal_of_pid_matrix

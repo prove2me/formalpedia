@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_node_len
 -- name    : ULHC.node_len
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:09:17.960624+00:00
 -- url     : https://prove2.me/theorems/980b6e9b-b294-4860-91d6-d8a0a1320852

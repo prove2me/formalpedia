@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_MP_minPathCost_mono
 -- name    : ULHC.MP.minPathCost_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:00:00.195215+00:00
 -- url     : https://prove2.me/theorems/9acc3660-b829-467a-8225-2ba3a3a4e127

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_sumOp_apply
 -- name    : GlobalTheory.LatPair.sumOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:33.560844+00:00
 -- url     : https://prove2.me/theorems/d1a29ccd-662e-46c8-aab4-40a1e3854a27

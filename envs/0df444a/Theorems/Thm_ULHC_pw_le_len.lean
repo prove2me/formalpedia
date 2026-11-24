@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_pw_le_len
 -- name    : ULHC.pw_le_len
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:05:50.000516+00:00
 -- url     : https://prove2.me/theorems/a4ee469c-881a-4b69-a1dd-881f117c54fa

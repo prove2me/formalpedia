@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_dval_le
 -- name    : ULHC.dval_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:39:02.994358+00:00
 -- url     : https://prove2.me/theorems/792d175c-8a7d-4212-be2f-f830a7bb78dc

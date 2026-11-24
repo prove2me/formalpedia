@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiSobBayes_eq_46_posterior_averaging
 -- name    : PhiSobBayes.eq_46_posterior_averaging
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:07:11.463078+00:00
 -- url     : https://prove2.me/theorems/e5972975-6b87-4ba5-97fb-e55ff31365c7

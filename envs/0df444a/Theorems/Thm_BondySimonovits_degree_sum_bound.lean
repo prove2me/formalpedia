@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BondySimonovits_degree_sum_bound
 -- name    : BondySimonovits.degree_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:09:29.125873+00:00
 -- url     : https://prove2.me/theorems/e6238332-532d-4149-a911-b93e96016b42

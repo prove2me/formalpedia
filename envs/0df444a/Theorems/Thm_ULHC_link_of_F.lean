@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_link_of_F
 -- name    : ULHC.link_of_F
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:08:20.641863+00:00
 -- url     : https://prove2.me/theorems/51618770-3061-4beb-8999-5033215e5643

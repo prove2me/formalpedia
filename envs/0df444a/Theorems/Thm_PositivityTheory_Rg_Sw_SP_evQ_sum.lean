@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_evQ_sum
 -- name    : PositivityTheory.Rg.Sw.SP.evQ_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:01.896355+00:00
 -- url     : https://prove2.me/theorems/cf6a75fb-0404-4b0a-984b-43bbbfe3ed4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_back_side0_not_mem
 -- name    : ULHC.back_side0_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:00:56.022771+00:00
 -- url     : https://prove2.me/theorems/61ee375a-f3c5-4e2b-8029-a90e6f9e6d5e

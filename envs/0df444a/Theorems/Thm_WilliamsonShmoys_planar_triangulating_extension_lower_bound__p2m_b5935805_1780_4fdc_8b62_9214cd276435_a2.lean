@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulating_extension_lower_bound__p2m_b5935805_1780_4fdc_8b62_9214cd276435_a2
 -- name    : WilliamsonShmoys.planar_triangulating_extension_lower_bound__p2m_b5935805_1780_4fdc_8b62_9214cd276435_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:56:40.741207+00:00
 -- url     : https://prove2.me/theorems/ed0fa66f-dbcb-4794-9398-c71658f4fffe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_length_layersBelow
 -- name    : ULHC.length_layersBelow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:10:22.45628+00:00
 -- url     : https://prove2.me/theorems/d27696a2-6db3-470c-894b-6d34f254658d

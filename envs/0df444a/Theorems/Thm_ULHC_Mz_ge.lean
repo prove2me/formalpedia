@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Mz_ge
 -- name    : ULHC.Mz_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:06:01.944981+00:00
 -- url     : https://prove2.me/theorems/85944c27-0bae-434f-9231-abc518a0c713

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_geoSum_succ_ee9aea6a008f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_geoSum_succ_ee9aea6a008f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:53.983137+00:00
 -- url     : https://prove2.me/theorems/4aca9cea-9a94-4d69-89c3-98fba142c607

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_coe_fixedMap_apply
 -- name    : GroundTheory.Automorphic.coe_fixedMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:34.110281+00:00
 -- url     : https://prove2.me/theorems/a05e48ff-2969-4b93-a975-f4c31975d1e2

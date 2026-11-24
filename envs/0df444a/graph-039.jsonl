@@ -13289,8 +13289,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.FlowMatrixMajorants.flow_split", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_MajorantConjugateTransfer", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.exists_eq_polynomial_weierstrassP", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_WeierstrassPAddOfNeOfDerivNeZero", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.exists_eq_polynomial_weierstrassP", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsMulEqPolynomialWeierstrassP", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Out.TLinPf.hA_act", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_WchartInlLe", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Out.TLinPf.hA_act", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_PairProp", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Out.TLinPf.hA_act", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_WchartInlLe", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Out.TLinPf.hA_act", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_PairProp", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.BoostLowerBounds.boost_lower", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_BoostLowerBounds", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.BoostLowerBounds.boost_lower", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_RankOneBoostIsometries", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.LUPf.Lm_diff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_LUStatementPfB", "via": ["solution", "statement"]}

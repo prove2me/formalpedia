@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_dualEquiv_of_conj_eq_smul_symm
 -- name    : WeilConjectures.exists_dualEquiv_of_conj_eq_smul_symm
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T00:08:12.979077+00:00
 -- url     : https://prove2.me/theorems/9785dce4-31ae-4fb4-ac27-917fe4191132

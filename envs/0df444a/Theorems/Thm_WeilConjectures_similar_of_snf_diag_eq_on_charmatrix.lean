@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_similar_of_snf_diag_eq_on_charmatrix
 -- name    : WeilConjectures.similar_of_snf_diag_eq_on_charmatrix
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T02:03:33.204993+00:00
 -- url     : https://prove2.me/theorems/0526f45b-61c7-478b-a02c-06ba6e25e33a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_bc_blkGL
 -- name    : GlobalTheory.Doubling.bc_blkGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:09.583998+00:00
 -- url     : https://prove2.me/theorems/b6b0e17d-cf72-4695-ac36-ade55b9923ad

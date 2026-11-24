@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_PCD_Good_dK
 -- name    : PositivityTheory.Rg.Sw.HSt.PCD.Good.dK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:10.896513+00:00
 -- url     : https://prove2.me/theorems/d0d4fb66-5a56-46c5-99c1-f7301957fe5c

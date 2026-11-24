@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_gw_le
 -- name    : ULHC.gw_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:05:34.593731+00:00
 -- url     : https://prove2.me/theorems/6155172a-ad54-4cca-9540-04b15257c9ce

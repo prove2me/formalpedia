@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_FFStar_ofDual
 -- name    : GlobalTheory.LatPair.FFStar_ofDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:30.550198+00:00
 -- url     : https://prove2.me/theorems/b7cd41e6-cc8a-4b86-943d-d28c56b317d3

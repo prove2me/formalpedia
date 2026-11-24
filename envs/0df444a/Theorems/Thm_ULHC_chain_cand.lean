@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chain_cand
 -- name    : ULHC.chain_cand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:58:52.379458+00:00
 -- url     : https://prove2.me/theorems/e6207eed-0c80-4b2a-8c1c-8c1e42f7df35

@@ -81688,8 +81688,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.LBIso.symm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_Splits", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.LBIso.symm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_BCTools", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.LBIso.symm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_OLinBaseChangeSt", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.GL2PrimeSums.gl2a5s_le_log", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_SmallPrimeFactorSumBound", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.GL2PrimeSums.gl2a5s_le_log", "child": "Formalism_GL3MeanSquares_SmoothedRemainderRealIntegralFormula", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.GL2PrimeSums.gl2a5s_le_log", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_SmallPrimeFactorSumBound", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.GL2PrimeSums.gl2a5s_le_log", "child": "Formalism_GL3MeanSquares_SmoothedRemainderRealIntegralFormula", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_SqfPrimeFactor", "child": "Formalism_PeriodIntegrals_SqfLab", "via": ["statement"]}
 {"parent": "RH1E6S13_D054_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Comp.CsgQ.answers_sureSafe", "child": "Comp_Iterate", "via": ["solution", "statement"]}

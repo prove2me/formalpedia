@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BondySimonovits_restrictGraph_walk_mem
 -- name    : BondySimonovits.restrictGraph_walk_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:09:18.89902+00:00
 -- url     : https://prove2.me/theorems/5f665d7b-d3d6-47d5-8dc0-32c6cd7ff9dd

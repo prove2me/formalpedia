@@ -16800,7 +16800,7 @@
 {"parent": "OAI.Laughlin.Certificate.source_gram_16_15_13_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_22_19_7_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "QseriesFormalization.PartIV.Ch17.partition_11n_plus_6_mod_11_n_one", "child": "QseriesFormalization_DefCoreQSeries", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_simple_graph_edge_upper_bound__p2m_d0cbf8fc_b126_4e9b_9c59_f16faa272cb9_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_simple_graph_edge_upper_bound__p2m_d0cbf8fc_b126_4e9b_9c59_f16faa272cb9_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P96.detection_snr_enhancement", "child": "QAlgorithms_Papers_Independent_Intakenext100_P96", "via": ["statement"]}
 {"parent": "WildeQIT.QErasure.tensorPower_antidegradable", "child": "WildeQIT_QErasure_IsAntidegradable", "via": ["statement"]}
 {"parent": "WildeQIT.QErasure.tensorPower_antidegradable", "child": "WildeQIT_Degradable_tensorPower", "via": ["statement"]}

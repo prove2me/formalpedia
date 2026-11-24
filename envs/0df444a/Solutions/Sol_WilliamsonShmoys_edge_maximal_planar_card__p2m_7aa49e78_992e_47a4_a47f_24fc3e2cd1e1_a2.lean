@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.edge_maximal_planar_card__p2m_7aa49e78_992e_47a4_a47f_24fc3e2cd1e1_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:19:59.100596+00:00
 -- url     : https://prove2.me/submissions/4c48c52a-e52b-42c8-8b41-512fb487ee72
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

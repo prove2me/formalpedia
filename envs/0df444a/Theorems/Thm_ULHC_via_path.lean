@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_via_path
 -- name    : ULHC.via_path
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:30:12.265471+00:00
 -- url     : https://prove2.me/theorems/6b8a4951-083d-41ec-94ed-9a8474fc4c2b

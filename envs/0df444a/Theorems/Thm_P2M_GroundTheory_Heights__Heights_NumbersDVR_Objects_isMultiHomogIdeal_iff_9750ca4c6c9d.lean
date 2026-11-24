@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_Objects_isMultiHomogIdeal_iff_9750ca4c6c9d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_Objects_isMultiHomogIdeal_iff_9750ca4c6c9d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:39.029683+00:00
 -- url     : https://prove2.me/theorems/9c60a73c-ee68-488f-bafb-5b899762d165

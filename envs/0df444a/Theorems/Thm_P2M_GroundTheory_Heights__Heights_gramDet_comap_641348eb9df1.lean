@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_gramDet_comap_641348eb9df1
 -- name    : P2M_GroundTheory_Heights__Heights_gramDet_comap_641348eb9df1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:44.911035+00:00
 -- url     : https://prove2.me/theorems/102f594a-32bc-441e-b280-0de66b594196

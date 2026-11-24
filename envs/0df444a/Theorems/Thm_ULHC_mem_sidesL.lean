@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_mem_sidesL
 -- name    : ULHC.mem_sidesL
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:59:28.67689+00:00
 -- url     : https://prove2.me/theorems/6b75b7a5-3bd2-4266-a89c-3c84b5295e55

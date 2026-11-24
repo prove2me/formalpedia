@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_extra_le
 -- name    : ULHC.extra_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:38:43.944805+00:00
 -- url     : https://prove2.me/theorems/284d5ce3-69d8-4d3d-8abd-d20766ac3472

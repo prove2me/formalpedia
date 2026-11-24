@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_findPath_none
 -- name    : ULHC.findPath_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:59:27.252051+00:00
 -- url     : https://prove2.me/theorems/27566a5d-9baa-49ab-8f3a-6620cdd19d3b

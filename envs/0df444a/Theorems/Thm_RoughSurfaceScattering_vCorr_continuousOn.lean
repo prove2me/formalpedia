@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_vCorr_continuousOn
 -- name    : RoughSurfaceScattering.vCorr_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T03:44:08.517143+00:00
 -- url     : https://prove2.me/theorems/c6a94625-63e4-4868-98d9-f780e160a86f

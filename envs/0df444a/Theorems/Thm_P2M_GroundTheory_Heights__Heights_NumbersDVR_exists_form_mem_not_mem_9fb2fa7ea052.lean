@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_form_mem_not_mem_9fb2fa7ea052
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_form_mem_not_mem_9fb2fa7ea052
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:44.46359+00:00
 -- url     : https://prove2.me/theorems/660afc5c-8dcb-42ce-90a3-ec5bfbdf87e4

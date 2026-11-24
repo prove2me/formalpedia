@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_gl2a5s_le_log
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.gl2a5s_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:44:03.492912+00:00
 -- url     : https://prove2.me/theorems/dc532063-a468-4d1e-bc5c-af970caa9b38

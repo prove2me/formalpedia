@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_sum_char
 -- name    : GlobalTheory.LatPair.Model.sum_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:00.800015+00:00
 -- url     : https://prove2.me/theorems/008460db-f71b-4251-8e53-874b5c6c2927

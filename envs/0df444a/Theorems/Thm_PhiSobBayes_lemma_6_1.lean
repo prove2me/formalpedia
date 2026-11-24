@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiSobBayes_lemma_6_1
 -- name    : PhiSobBayes.lemma_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:07:18.369034+00:00
 -- url     : https://prove2.me/theorems/a9347cad-1b48-45b5-aff5-fea0918ac9e1

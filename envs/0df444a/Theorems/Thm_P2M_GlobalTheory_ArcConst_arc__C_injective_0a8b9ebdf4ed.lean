@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ArcConst_arc__C_injective_0a8b9ebdf4ed
 -- name    : P2M_GlobalTheory_ArcConst_arc__C_injective_0a8b9ebdf4ed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:40.968956+00:00
 -- url     : https://prove2.me/theorems/9926503e-e612-4d91-b84f-9f14000ca970

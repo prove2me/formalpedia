@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Stallings_InverseAutomaton_membershipTest_eq_true_iff
 -- name    : Stallings.InverseAutomaton.membershipTest_eq_true_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:06:38.355957+00:00
 -- url     : https://prove2.me/theorems/ea5e2850-6682-42fa-9c2d-76b25e16d0fb

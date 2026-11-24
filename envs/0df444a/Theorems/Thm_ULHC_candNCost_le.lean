@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_candNCost_le
 -- name    : ULHC.candNCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:10:23.881744+00:00
 -- url     : https://prove2.me/theorems/f7f77b73-8016-4ad9-bbb3-a6e6fdd65cbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_snf_diagonal_of_pid_matrix
 -- name    : WeilConjectures.exists_snf_diagonal_of_pid_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T01:51:29.185356+00:00
 -- url     : https://prove2.me/theorems/a400fb19-2bae-469f-9177-5ebd83cb9c04

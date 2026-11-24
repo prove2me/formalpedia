@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_run_sound
 -- name    : ULHC.run_sound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:59:57.785493+00:00
 -- url     : https://prove2.me/theorems/c2cf8386-1ef1-4761-9ad0-723e80d946cd

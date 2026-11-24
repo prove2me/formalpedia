@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_discrete_of_selfDual
 -- name    : GlobalTheory.ThetaInter.discrete_of_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:05.675807+00:00
 -- url     : https://prove2.me/theorems/2fbf67ae-4691-45d4-b06a-dd431d6827d5

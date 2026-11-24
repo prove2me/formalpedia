@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stripScanCost_le
 -- name    : ULHC.stripScanCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:09:15.038803+00:00
 -- url     : https://prove2.me/theorems/98dbbe6f-fe8e-4bc9-8926-fab1500c5da4

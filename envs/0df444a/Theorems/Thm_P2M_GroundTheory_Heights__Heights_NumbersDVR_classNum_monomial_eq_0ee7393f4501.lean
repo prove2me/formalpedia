@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_classNum_monomial_eq_0ee7393f4501
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_classNum_monomial_eq_0ee7393f4501
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:56.120308+00:00
 -- url     : https://prove2.me/theorems/9d3067c9-6cbb-418a-9483-c5a461a6705f

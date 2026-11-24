@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_homogeneousComponent_linear_mul_3e7d2fbc49db
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_homogeneousComponent_linear_mul_3e7d2fbc49db
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:56.702676+00:00
 -- url     : https://prove2.me/theorems/abc4a013-af24-404d-aa9d-a0fa89c43c8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_isDerivAt_constVec_iff
 -- name    : GlobalTheory.HolHom.isDerivAt_constVec_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:15.748804+00:00
 -- url     : https://prove2.me/theorems/88e6611b-82e3-4d58-aca9-eb5955e8833a

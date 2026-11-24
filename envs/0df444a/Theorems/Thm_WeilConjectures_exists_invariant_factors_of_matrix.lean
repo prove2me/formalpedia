@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_invariant_factors_of_matrix
 -- name    : WeilConjectures.exists_invariant_factors_of_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T01:25:56.734437+00:00
 -- url     : https://prove2.me/theorems/eaa4c59c-735c-4c6f-b52f-d4efa2139056

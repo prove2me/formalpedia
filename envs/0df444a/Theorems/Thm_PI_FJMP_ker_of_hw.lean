@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_ker_of_hw
 -- name    : PI.FJMP.ker_of_hw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:17.173797+00:00
 -- url     : https://prove2.me/theorems/5cddf797-ddef-437c-974d-f1428c94641f

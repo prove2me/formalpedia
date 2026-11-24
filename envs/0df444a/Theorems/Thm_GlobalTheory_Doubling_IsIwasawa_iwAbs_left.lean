@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IsIwasawa_iwAbs_left
 -- name    : GlobalTheory.Doubling.IsIwasawa.iwAbs_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:38.471695+00:00
 -- url     : https://prove2.me/theorems/39121b93-22f2-4473-98b1-4dec1998e8cc

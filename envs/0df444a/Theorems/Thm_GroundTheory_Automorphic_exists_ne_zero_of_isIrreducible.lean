@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_ne_zero_of_isIrreducible
 -- name    : GroundTheory.Automorphic.exists_ne_zero_of_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:43.494701+00:00
 -- url     : https://prove2.me/theorems/dffebd70-7e75-4b42-8796-8a201b73e31c

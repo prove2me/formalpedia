@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_chartCutoff_le_one_40af82f0b80c
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_chartCutoff_le_one_40af82f0b80c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:49.724506+00:00
 -- url     : https://prove2.me/theorems/6798ca29-16fe-4ea4-8ce5-7cfbc4345ce3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_augmentation_if_below_triangulated_bound__p2m_d750730e_2711_4e55_8b38_5f4dbc12a87a_a1
 -- name    : WilliamsonShmoys.planar_edge_augmentation_if_below_triangulated_bound__p2m_d750730e_2711_4e55_8b38_5f4dbc12a87a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:59:39.004453+00:00
 -- url     : https://prove2.me/theorems/609d0ef3-f673-413c-a21e-b454ce78643f

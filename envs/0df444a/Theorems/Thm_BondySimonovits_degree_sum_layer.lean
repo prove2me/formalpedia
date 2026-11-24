@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BondySimonovits_degree_sum_layer
 -- name    : BondySimonovits.degree_sum_layer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:08:42.403269+00:00
 -- url     : https://prove2.me/theorems/75c91726-68c8-4eca-91b2-c08a83a98e1e

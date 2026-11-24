@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_mem_hwSub_iff
 -- name    : PI.FockOneDegW.Swap.mem_hwSub_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:46.733796+00:00
 -- url     : https://prove2.me/theorems/de192568-8b07-44ad-bb0b-d5e25be0494b

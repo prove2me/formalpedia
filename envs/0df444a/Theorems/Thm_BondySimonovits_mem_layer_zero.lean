@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BondySimonovits_mem_layer_zero
 -- name    : BondySimonovits.mem_layer_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:07:58.460804+00:00
 -- url     : https://prove2.me/theorems/5f8e3e2f-5f93-4e69-a21e-c9260074b2ff

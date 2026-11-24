@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGeo_val_powGen
 -- name    : GlobalTheory.FrameGeo.val_powGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:10.488797+00:00
 -- url     : https://prove2.me/theorems/8a6624d8-4c51-4af2-bc31-e8be43a22a05

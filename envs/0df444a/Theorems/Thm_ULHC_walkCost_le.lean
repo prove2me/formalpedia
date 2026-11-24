@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_walkCost_le
 -- name    : ULHC.walkCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:10:33.431802+00:00
 -- url     : https://prove2.me/theorems/08e046d5-b900-4373-8316-609428b3c5cf

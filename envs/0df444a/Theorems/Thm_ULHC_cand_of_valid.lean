@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cand_of_valid
 -- name    : ULHC.cand_of_valid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:58:36.1838+00:00
 -- url     : https://prove2.me/theorems/5860ad91-f7f7-4511-829c-baf315dd8b1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InA_mul
 -- name    : PI.InA.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:00.729796+00:00
 -- url     : https://prove2.me/theorems/52e9d693-edee-470c-9b4e-b6a82f5c390c

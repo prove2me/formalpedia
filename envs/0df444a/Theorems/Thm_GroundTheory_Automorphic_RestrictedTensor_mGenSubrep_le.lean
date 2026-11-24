@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_mGenSubrep_le
 -- name    : GroundTheory.Automorphic.RestrictedTensor.mGenSubrep_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:22.311344+00:00
 -- url     : https://prove2.me/theorems/f0c05cb0-ca54-4c07-9e98-a9c34cf38a1a

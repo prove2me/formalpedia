@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_CommPf_smul_eq
 -- name    : PositivityTheory.Rg.Sw.SP.CommPf.smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:16.300792+00:00
 -- url     : https://prove2.me/theorems/39391652-1d06-4f8b-845e-fea09b8a7cd3

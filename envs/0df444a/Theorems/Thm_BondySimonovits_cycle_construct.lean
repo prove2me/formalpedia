@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BondySimonovits_cycle_construct
 -- name    : BondySimonovits.cycle_construct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:04:05.449801+00:00
 -- url     : https://prove2.me/theorems/0866d11d-5faf-4db6-a2d1-5fbfc19355a1

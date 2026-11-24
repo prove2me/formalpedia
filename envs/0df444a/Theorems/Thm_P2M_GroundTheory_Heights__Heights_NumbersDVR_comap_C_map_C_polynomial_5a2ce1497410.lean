@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_comap_C_map_C_polynomial_5a2ce1497410
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_comap_C_map_C_polynomial_5a2ce1497410
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:17.117777+00:00
 -- url     : https://prove2.me/theorems/73efe6cf-fbcd-4325-bdfd-6e24c6cefe2f

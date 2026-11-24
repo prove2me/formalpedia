@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_Targets_Relabel_sup_span_map_0a62834bb450
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T05:12:38.013949+00:00
+-- url     : https://prove2.me/submissions/0215f471-9ce1-40a8-a74c-26e1478b6a21
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArithmeticIntersection_MultihomogeneousIdeals_ExistsUniqueStatement
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArithmeticIntersection_MultihomogeneousIdeals_MemMinimalPrimesOfMemDivSuppDivSupp
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Antisymmetric_PNefOnFibresRelabel
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_OrbitLimits_RelabelTransport
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+set_option linter.unusedSectionVars false
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.Targets GroundTheory.Heights₂.Heights.Targets.Relabel
+open MvPolynomial ReciprocityTheory.ChartRestriction.G.Geo ReciprocityTheory.ChartRestriction.G.AI.I1 GroundTheory.Heights₂.Heights
+variable {F : Type*} [Field F] {K : Type*} [Fintype K] {ι : K → Type*} [∀ k, Fintype (ι k)]
+  {K' : Type*} [Fintype K'] {ι' : K' → Type*} [∀ k, Fintype (ι' k)]
+  (e : K ≃ K') (h : ∀ k, ι k ≃ ι' (e k))
+namespace GroundTheory.Heights₂.Heights.Targets.Relabel
+theorem _root_.solution (V : Ideal (MRingOver F ι)) (f : MRingOver F ι) :
+    V.map (ringEquiv F e h) ⊔ Ideal.span {ringEquiv F e h f} =
+      (V ⊔ Ideal.span {f}).map (ringEquiv F e h) := by
+  rw [Ideal.map_sup, Ideal.map_span, Set.image_singleton]
+end GroundTheory.Heights₂.Heights.Targets.Relabel

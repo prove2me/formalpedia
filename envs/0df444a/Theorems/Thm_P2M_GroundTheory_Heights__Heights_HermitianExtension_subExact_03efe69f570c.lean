@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianExtension_subExact_03efe69f570c
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianExtension_subExact_03efe69f570c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:58.699232+00:00
 -- url     : https://prove2.me/theorems/72efc1f9-3f4e-4b60-a3e6-757f0b08d5f3

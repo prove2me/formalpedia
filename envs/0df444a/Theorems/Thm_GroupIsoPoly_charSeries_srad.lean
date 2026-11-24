@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupIsoPoly_charSeries_srad
 -- name    : GroupIsoPoly.charSeries_srad
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:54:39.287188+00:00
 -- url     : https://prove2.me/theorems/66b63559-3565-47b2-b32c-6715b226b525

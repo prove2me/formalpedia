@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Stallings_basisRose_loopSubgroup
 -- name    : Stallings.basisRose_loopSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:07:20.826475+00:00
 -- url     : https://prove2.me/theorems/6db9221f-9321-4d29-a725-9c682dca81d5

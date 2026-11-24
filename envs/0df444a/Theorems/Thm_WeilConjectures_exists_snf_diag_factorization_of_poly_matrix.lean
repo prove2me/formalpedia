@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_snf_diag_factorization_of_poly_matrix
 -- name    : WeilConjectures.exists_snf_diag_factorization_of_poly_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T02:03:34.690601+00:00
 -- url     : https://prove2.me/theorems/731581ee-379c-472f-b889-0fdd97ebde3f

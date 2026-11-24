@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_ResProj_evC_smul
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.ResProj.evC_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:30.999492+00:00
 -- url     : https://prove2.me/theorems/3db54931-9c6c-4166-ae49-49c40eb71018

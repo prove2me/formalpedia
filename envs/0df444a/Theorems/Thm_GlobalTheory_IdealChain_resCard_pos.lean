@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_resCard_pos
 -- name    : GlobalTheory.IdealChain.resCard_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:56.615179+00:00
 -- url     : https://prove2.me/theorems/42c1395f-91c3-402b-ad15-ffe2596f135b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chain_len
 -- name    : ULHC.chain_len
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:12:24.165796+00:00
 -- url     : https://prove2.me/theorems/95658cd1-8c83-4113-8760-db69c82cebb2

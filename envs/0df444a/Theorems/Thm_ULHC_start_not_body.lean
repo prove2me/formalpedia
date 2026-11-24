@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_start_not_body
 -- name    : ULHC.start_not_body
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:01:38.031186+00:00
 -- url     : https://prove2.me/theorems/b6cb74f7-b2b6-4552-b6a5-9e83acb39727

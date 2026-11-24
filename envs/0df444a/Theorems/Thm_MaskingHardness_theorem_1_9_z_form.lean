@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaskingHardness_theorem_1_9_z_form
 -- name    : MaskingHardness.theorem_1_9_z_form
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:52:00.979178+00:00
 -- url     : https://prove2.me/theorems/e0d19bb6-d3c7-4a7b-8e63-66932087e3a8

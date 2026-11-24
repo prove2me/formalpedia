@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawing_faceCount_bounds__p2m_41a70d26_a66a_4916_a2c6_308943ffd553_a1
 -- name    : WilliamsonShmoys.planarDrawing_faceCount_bounds__p2m_41a70d26_a66a_4916_a2c6_308943ffd553_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:51:15.326828+00:00
 -- url     : https://prove2.me/theorems/75c1dbe5-597b-4ab5-bcaf-dc768f4756d8

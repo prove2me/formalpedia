@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeilConjectures.exists_dualEquiv_of_conj_eq_smul_symm
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T00:29:43.566859+00:00
 -- url     : https://prove2.me/submissions/f2c303c1-2aee-4c4b-83a1-2a0d437bfc43
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_linearEquiv_conj_eq_dualTranspose

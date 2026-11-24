@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_front1_not_corner
 -- name    : ULHC.front1_not_corner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:03:58.162691+00:00
 -- url     : https://prove2.me/theorems/3a3b99bf-e124-4841-9ba8-367e6393185d
