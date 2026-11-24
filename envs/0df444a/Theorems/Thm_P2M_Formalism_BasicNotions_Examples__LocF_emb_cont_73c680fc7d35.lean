@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LocF_emb_cont_73c680fc7d35
 -- name    : P2M_Formalism_BasicNotions_Examples__LocF_emb_cont_73c680fc7d35
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:46:59.999885+00:00
 -- url     : https://prove2.me/theorems/0d5e91b4-bc79-4cea-a80a-329cf55dfb06

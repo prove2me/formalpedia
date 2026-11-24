@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x7_dilation_base_vector
 -- name    : Formalism.FourierDecayAlt.P.B2x7.dilation_base_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:58:26.268705+00:00
 -- url     : https://prove2.me/theorems/206f8a15-b6b3-461c-9b90-3a1038ab8d1a

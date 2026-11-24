@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_eq_span_of_no_root
 -- name    : GlobalTheory.QuadraticZeta.eq_span_of_no_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:12:33.722232+00:00
 -- url     : https://prove2.me/theorems/5b4d2e1c-4adb-480c-894a-f539bccf100a

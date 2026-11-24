@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_iteratedOperator_congr
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.iteratedOperator_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:54:09.080213+00:00
 -- url     : https://prove2.me/theorems/118f36c4-8911-4a4d-a7ef-41f348fb024d

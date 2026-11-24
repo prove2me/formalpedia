@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RapidFourier_term_eq
 -- name    : GlobalTheory.RapidFourier.term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:13:30.699829+00:00
 -- url     : https://prove2.me/theorems/c7c28597-c71c-4e1d-b0d0-368b89aa8398

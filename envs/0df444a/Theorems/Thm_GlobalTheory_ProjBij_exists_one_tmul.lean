@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjBij_exists_one_tmul
 -- name    : GlobalTheory.ProjBij.exists_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:55:36.460152+00:00
 -- url     : https://prove2.me/theorems/b9b2ec8d-2dc4-4b5d-8857-794e4bbba2b6

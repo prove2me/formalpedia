@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_constantCoeff_pderiv_formalSubst_two
 -- name    : GlobalTheory.QuadDeriv.constantCoeff_pderiv_formalSubst_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:08:22.929565+00:00
 -- url     : https://prove2.me/theorems/7c2dbf99-075f-4f36-bfcd-fe80e2d44be6

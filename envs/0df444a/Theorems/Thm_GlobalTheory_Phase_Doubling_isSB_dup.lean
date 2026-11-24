@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_isSB_dup
 -- name    : GlobalTheory.Phase.Doubling.isSB_dup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:16:48.046443+00:00
 -- url     : https://prove2.me/theorems/dc731eb3-a805-4905-b469-1753e9a14da5

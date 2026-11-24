@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OppRad_oppInj
 -- name    : GlobalTheory.OppRad.oppInj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:39:25.803819+00:00
 -- url     : https://prove2.me/theorems/0711185c-d299-4f6f-b717-a9f7eee45bc3

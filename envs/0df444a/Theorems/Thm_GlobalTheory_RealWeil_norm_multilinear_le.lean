@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_norm_multilinear_le
 -- name    : GlobalTheory.RealWeil.norm_multilinear_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:16:17.865942+00:00
 -- url     : https://prove2.me/theorems/23b7803d-3431-4cfc-8a72-e2ad682a1053

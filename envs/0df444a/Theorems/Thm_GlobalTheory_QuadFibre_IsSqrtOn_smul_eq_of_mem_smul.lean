@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFibre_IsSqrtOn_smul_eq_of_mem_smul
 -- name    : GlobalTheory.QuadFibre.IsSqrtOn.smul_eq_of_mem_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:08:16.372798+00:00
 -- url     : https://prove2.me/theorems/620b047f-6df1-4e27-b9e4-fa46d1195ff6

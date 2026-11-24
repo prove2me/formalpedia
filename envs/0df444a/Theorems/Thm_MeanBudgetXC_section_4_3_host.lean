@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanBudgetXC_section_4_3_host
 -- name    : MeanBudgetXC.section_4_3_host
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:44:52.480407+00:00
 -- url     : https://prove2.me/theorems/80866f98-9420-4756-a256-f59c5ce5d498

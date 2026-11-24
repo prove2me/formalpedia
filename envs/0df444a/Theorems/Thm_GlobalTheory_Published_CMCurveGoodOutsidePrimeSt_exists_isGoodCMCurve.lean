@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_CMCurveGoodOutsidePrimeSt_exists_isGoodCMCurve
 -- name    : GlobalTheory.Published.CMCurveGoodOutsidePrimeSt.exists_isGoodCMCurve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:57:10.694396+00:00
 -- url     : https://prove2.me/theorems/aa5d4f26-64ee-4b47-a16f-7f3d5b235d2c

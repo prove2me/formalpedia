@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PiTensorFixed_fixed_le_range
 -- name    : GlobalTheory.PiTensorFixed.fixed_le_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:48:52.958587+00:00
 -- url     : https://prove2.me/theorems/f66dbffc-23c7-4d88-9996-1d9bd1cf7ee7

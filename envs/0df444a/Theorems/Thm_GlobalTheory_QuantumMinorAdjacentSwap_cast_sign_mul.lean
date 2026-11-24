@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuantumMinorAdjacentSwap_cast_sign_mul
 -- name    : GlobalTheory.QuantumMinorAdjacentSwap.cast_sign_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:12:54.320824+00:00
 -- url     : https://prove2.me/theorems/567dc97f-1e56-4744-bfd4-3a821d430472

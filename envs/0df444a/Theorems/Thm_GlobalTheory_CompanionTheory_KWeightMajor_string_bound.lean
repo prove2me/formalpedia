@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KWeightMajor_string_bound
 -- name    : GlobalTheory.CompanionTheory.KWeightMajor.string_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:24:04.649217+00:00
 -- url     : https://prove2.me/theorems/63b709d3-4908-4905-a6c3-5bec30c2c528

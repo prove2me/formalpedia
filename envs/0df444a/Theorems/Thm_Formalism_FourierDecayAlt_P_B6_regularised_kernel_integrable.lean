@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regularised_kernel_integrable
 -- name    : Formalism.FourierDecayAlt.P.B6.regularised_kernel_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:08:19.723568+00:00
 -- url     : https://prove2.me/theorems/ade7464a-cb79-4f1c-9b81-9a41cac2543d

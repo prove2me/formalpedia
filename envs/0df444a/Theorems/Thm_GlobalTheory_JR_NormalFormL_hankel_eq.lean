@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_hankel_eq
 -- name    : GlobalTheory.JR.NormalFormL.hankel_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:39:49.402074+00:00
 -- url     : https://prove2.me/theorems/45905c90-a2c2-4016-a8d4-73f7b4af1b47

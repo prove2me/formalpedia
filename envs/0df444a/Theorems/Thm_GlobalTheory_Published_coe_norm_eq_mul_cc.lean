@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_coe_norm_eq_mul_cc
 -- name    : GlobalTheory.Published.coe_norm_eq_mul_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:57:57.025808+00:00
 -- url     : https://prove2.me/theorems/04db1d96-59c0-4d03-932a-862d5ae60d2d

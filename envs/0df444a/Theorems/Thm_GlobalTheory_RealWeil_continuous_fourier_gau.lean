@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_continuous_fourier_gau
 -- name    : GlobalTheory.RealWeil.continuous_fourier_gau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:16:33.219018+00:00
 -- url     : https://prove2.me/theorems/65433ea8-0e60-4888-b26d-82f758cfb102

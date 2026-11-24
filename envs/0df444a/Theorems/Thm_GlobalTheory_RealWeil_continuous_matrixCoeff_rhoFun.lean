@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_continuous_matrixCoeff_rhoFun
 -- name    : GlobalTheory.RealWeil.continuous_matrixCoeff_rhoFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:16:38.708346+00:00
 -- url     : https://prove2.me/theorems/9afa0869-7354-47a2-b073-d81d9d6e472d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Example_proposition_5_1
 -- name    : QuantumLTF.Example.proposition_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-16T17:54:35.230788+00:00
 -- url     : https://prove2.me/theorems/ecf5c09e-ab51-448a-9ec8-8eb978d26e58

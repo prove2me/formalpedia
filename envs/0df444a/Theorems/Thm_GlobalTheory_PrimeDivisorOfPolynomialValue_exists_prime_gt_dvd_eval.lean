@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeDivisorOfPolynomialValue_exists_prime_gt_dvd_eval
 -- name    : GlobalTheory.PrimeDivisorOfPolynomialValue.exists_prime_gt_dvd_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:49:34.450804+00:00
 -- url     : https://prove2.me/theorems/28f9364f-3010-4787-a851-940f90e5a94f

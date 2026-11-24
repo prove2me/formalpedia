@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_primeIdealOf_eq_span
 -- name    : GlobalTheory.PrimeSection.primeIdealOf_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:28:58.783288+00:00
 -- url     : https://prove2.me/theorems/fa2b0e4d-9cb5-4756-bdef-b7489656d3b9

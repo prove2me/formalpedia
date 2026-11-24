@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilOneMember_isHerm_dbl
 -- name    : GlobalTheory.CompanionTheory.WeilOneMember.isHerm_dbl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:38:54.131797+00:00
 -- url     : https://prove2.me/theorems/ea9453fd-f714-45c4-9f6d-3d36f969b535

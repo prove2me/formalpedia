@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormFormGauss_gauss_quotient
 -- name    : GlobalTheory.NormFormGauss.gauss_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:17:38.636221+00:00
 -- url     : https://prove2.me/theorems/163703f2-203d-4873-a57e-67c1b10a0dad

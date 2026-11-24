@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_mem_sUnits_sup_of_local_orders
 -- name    : GlobalTheory.QNorm.mem_sUnits_sup_of_local_orders
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:02:35.977199+00:00
 -- url     : https://prove2.me/theorems/e12160b4-4bd7-4ecb-bef0-952320a0796f

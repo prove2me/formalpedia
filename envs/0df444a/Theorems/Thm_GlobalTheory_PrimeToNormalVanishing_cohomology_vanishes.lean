@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeToNormalVanishing_cohomology_vanishes
 -- name    : GlobalTheory.PrimeToNormalVanishing.cohomology_vanishes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:31.852801+00:00
 -- url     : https://prove2.me/theorems/8ad8e165-a635-47d6-af52-52c4bffa7358

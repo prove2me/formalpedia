@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_exists_isCompact_of_slice
 -- name    : GlobalTheory.RankFibreKer.exists_isCompact_of_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:13:45.958338+00:00
 -- url     : https://prove2.me/theorems/bcb77738-e8f2-4086-9783-9018992e7f20

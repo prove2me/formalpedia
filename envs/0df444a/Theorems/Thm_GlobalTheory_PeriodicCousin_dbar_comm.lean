@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodicCousin_dbar_comm
 -- name    : GlobalTheory.PeriodicCousin.dbar_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:44:22.108605+00:00
 -- url     : https://prove2.me/theorems/48973c35-5918-4ccf-8c8c-08ba8414566a

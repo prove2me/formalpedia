@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodChart_exists_contraction
 -- name    : GlobalTheory.PeriodChart.exists_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:43:05.35152+00:00
 -- url     : https://prove2.me/theorems/27f84c1e-6780-4bda-bbee-2042b14134cb

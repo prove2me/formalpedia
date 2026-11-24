@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitResidue_card_eq_ncard_primesOver
 -- name    : GlobalTheory.SplitResidue.card_eq_ncard_primesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:17.977995+00:00
 -- url     : https://prove2.me/theorems/e0d9b79f-6b5d-421f-8343-24c7ba096f7c

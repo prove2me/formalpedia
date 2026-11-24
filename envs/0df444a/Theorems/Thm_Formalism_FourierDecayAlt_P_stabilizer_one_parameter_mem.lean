@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_one_parameter_mem
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_one_parameter_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:57:37.300244+00:00
 -- url     : https://prove2.me/theorems/9187e373-6d29-4812-97f9-dfdf97699d6d

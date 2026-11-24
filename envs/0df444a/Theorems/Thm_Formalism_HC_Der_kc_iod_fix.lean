@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_iod_fix
 -- name    : Formalism.HC.Der.kc_iod_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:05:26.408875+00:00
 -- url     : https://prove2.me/theorems/3aafa3e3-bb61-429a-aea8-4e2f511b20c9

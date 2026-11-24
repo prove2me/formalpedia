@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_int_mem_nhds
 -- name    : GlobalTheory.Published.SvN.int_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:58:08.86557+00:00
 -- url     : https://prove2.me/theorems/eeda3658-6a6e-4f1c-8421-3d4203f4ca46

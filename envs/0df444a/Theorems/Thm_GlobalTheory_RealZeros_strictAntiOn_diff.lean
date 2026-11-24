@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeros_strictAntiOn_diff
 -- name    : GlobalTheory.RealZeros.strictAntiOn_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:17:55.7137+00:00
 -- url     : https://prove2.me/theorems/4c54172d-8997-4267-b68f-1ffcb871b484

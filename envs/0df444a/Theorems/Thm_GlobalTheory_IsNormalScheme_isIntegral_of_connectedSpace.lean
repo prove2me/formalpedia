@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsNormalScheme_isIntegral_of_connectedSpace
 -- name    : GlobalTheory.IsNormalScheme.isIntegral_of_connectedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:12:56.311908+00:00
 -- url     : https://prove2.me/theorems/d42eff20-f054-4b57-9183-eb2ecdef3806

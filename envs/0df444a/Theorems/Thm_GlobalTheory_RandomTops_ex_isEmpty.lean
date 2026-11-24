@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_ex_isEmpty
 -- name    : GlobalTheory.RandomTops.ex_isEmpty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:14:05.251361+00:00
 -- url     : https://prove2.me/theorems/fb50db7e-0a8f-4dfb-8d0b-3536541d4189

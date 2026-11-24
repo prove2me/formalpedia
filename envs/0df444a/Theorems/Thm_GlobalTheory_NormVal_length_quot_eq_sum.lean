@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_length_quot_eq_sum
 -- name    : GlobalTheory.NormVal.length_quot_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:55.635319+00:00
 -- url     : https://prove2.me/theorems/e72ab8d9-a927-4adf-b062-a670f176646f

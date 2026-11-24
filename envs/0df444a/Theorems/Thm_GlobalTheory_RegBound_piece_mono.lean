@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_piece_mono
 -- name    : GlobalTheory.RegBound.piece_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:22.986297+00:00
 -- url     : https://prove2.me/theorems/2a6e2200-d93c-497e-8a38-f70180323c7a

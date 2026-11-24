@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightEnds_exists_pos_le_bot_top
 -- name    : GlobalTheory.HeightEnds.exists_pos_le_bot_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:17:44.54739+00:00
 -- url     : https://prove2.me/theorems/fb4c40db-d5e7-4a9e-8039-ea2751000b11

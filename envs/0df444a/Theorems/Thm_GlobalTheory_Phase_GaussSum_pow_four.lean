@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_GaussSum_pow_four
 -- name    : GlobalTheory.Phase.GaussSum.pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:43:57.476393+00:00
 -- url     : https://prove2.me/theorems/67a27244-fada-4aa7-93f1-a19a76dc7a0f

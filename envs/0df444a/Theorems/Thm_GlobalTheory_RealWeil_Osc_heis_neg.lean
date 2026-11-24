@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_heis_neg
 -- name    : GlobalTheory.RealWeil.Osc.heis_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:15:16.916616+00:00
 -- url     : https://prove2.me/theorems/04da1826-2722-48d3-8fca-589fe8e733ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QkPairing_cub_comm
 -- name    : GlobalTheory.QkPairing.cub_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:23:23.358799+00:00
 -- url     : https://prove2.me/theorems/94543b45-757d-4568-90d3-6fb15d140c43

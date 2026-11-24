@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_aut_map_one_apply
 -- name    : GlobalTheory.aut_map_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:41:49.669316+00:00
 -- url     : https://prove2.me/theorems/447bead4-79d1-4903-9aa8-3cd34f2649eb

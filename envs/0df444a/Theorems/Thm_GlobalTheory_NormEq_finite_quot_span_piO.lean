@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_finite_quot_span_piO
 -- name    : GlobalTheory.NormEq.finite_quot_span_piO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:34:56.985811+00:00
 -- url     : https://prove2.me/theorems/c0102f50-21f3-4c1b-981c-84adb9155f06

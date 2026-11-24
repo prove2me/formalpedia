@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Primitive_cech_primitive
 -- name    : GlobalTheory.KS.Primitive.cech_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:44:33.344369+00:00
 -- url     : https://prove2.me/theorems/68514ec4-27d8-4221-a144-8f888a8bfbc9

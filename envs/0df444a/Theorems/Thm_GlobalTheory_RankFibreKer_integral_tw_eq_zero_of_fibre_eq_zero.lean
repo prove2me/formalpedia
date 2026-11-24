@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_integral_tw_eq_zero_of_fibre_eq_zero
 -- name    : GlobalTheory.RankFibreKer.integral_tw_eq_zero_of_fibre_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:13:46.326337+00:00
 -- url     : https://prove2.me/theorems/2d84e8f0-7210-40bf-8d1f-d001603340f0

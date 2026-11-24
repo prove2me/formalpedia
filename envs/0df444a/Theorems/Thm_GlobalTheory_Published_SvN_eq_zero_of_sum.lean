@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_eq_zero_of_sum
 -- name    : GlobalTheory.Published.SvN.eq_zero_of_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:58:02.822645+00:00
 -- url     : https://prove2.me/theorems/df3083f8-1dcb-4353-a7ff-4a108acbbe36

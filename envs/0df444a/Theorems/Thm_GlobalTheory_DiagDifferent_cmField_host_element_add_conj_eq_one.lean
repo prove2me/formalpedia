@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagDifferent_cmField_host_element_add_conj_eq_one
 -- name    : GlobalTheory.DiagDifferent.cmField_host_element_add_conj_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:21:49.24518+00:00
 -- url     : https://prove2.me/theorems/399fc888-85c5-431b-8954-049124ffeeb6

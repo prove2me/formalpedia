@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_ex_single_even
 -- name    : GlobalTheory.RandomTops.ex_single_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:14:15.130764+00:00
 -- url     : https://prove2.me/theorems/390468e4-d8f0-4559-973b-32d68b7506a6

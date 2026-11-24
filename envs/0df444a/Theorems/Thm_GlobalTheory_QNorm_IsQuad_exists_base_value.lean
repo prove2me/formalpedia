@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_IsQuad_exists_base_value
 -- name    : GlobalTheory.QNorm.IsQuad.exists_base_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:02:32.58373+00:00
 -- url     : https://prove2.me/theorems/8f8aca65-764c-4a53-892c-e814460ad736

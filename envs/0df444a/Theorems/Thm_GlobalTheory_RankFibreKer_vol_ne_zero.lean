@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_vol_ne_zero
 -- name    : GlobalTheory.RankFibreKer.vol_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:14:57.379319+00:00
 -- url     : https://prove2.me/theorems/403a9451-8468-4972-9cd5-6b5b4a030d88

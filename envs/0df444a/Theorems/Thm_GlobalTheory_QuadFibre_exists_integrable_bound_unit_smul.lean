@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFibre_exists_integrable_bound_unit_smul
 -- name    : GlobalTheory.QuadFibre.exists_integrable_bound_unit_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:10:08.611536+00:00
 -- url     : https://prove2.me/theorems/360359b3-06d4-4bb2-a1fb-74fa9b943c2c

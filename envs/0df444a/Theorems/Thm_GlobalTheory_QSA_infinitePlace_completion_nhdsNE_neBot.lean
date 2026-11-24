@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_infinitePlace_completion_nhdsNE_neBot
 -- name    : GlobalTheory.QSA.infinitePlace_completion_nhdsNE_neBot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:03:20.90514+00:00
 -- url     : https://prove2.me/theorems/550ff84c-40e3-4955-b1e9-eac52d51a9fb

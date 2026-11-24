@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotInt_exists_avg
 -- name    : GlobalTheory.QuotInt.exists_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:11:46.385814+00:00
 -- url     : https://prove2.me/theorems/b47e0c9b-9c8b-44db-a91c-fbd6cd8555ae

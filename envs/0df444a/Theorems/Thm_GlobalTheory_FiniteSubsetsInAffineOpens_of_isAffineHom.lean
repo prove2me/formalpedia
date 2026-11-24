@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteSubsetsInAffineOpens_of_isAffineHom
 -- name    : GlobalTheory.FiniteSubsetsInAffineOpens.of_isAffineHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:44:13.217721+00:00
 -- url     : https://prove2.me/theorems/8e0cfaf5-08f0-4c0c-8827-813abf01261c

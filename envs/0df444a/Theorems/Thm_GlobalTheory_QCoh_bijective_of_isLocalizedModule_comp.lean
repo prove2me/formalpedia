@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_bijective_of_isLocalizedModule_comp
 -- name    : GlobalTheory.QCoh.bijective_of_isLocalizedModule_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:58:01.956269+00:00
 -- url     : https://prove2.me/theorems/5f618f27-4125-45c5-b4f5-a04aaa4236f4

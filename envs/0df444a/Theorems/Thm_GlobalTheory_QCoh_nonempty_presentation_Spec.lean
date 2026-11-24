@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_nonempty_presentation_Spec
 -- name    : GlobalTheory.QCoh.nonempty_presentation_Spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:58:32.700688+00:00
 -- url     : https://prove2.me/theorems/9e71e201-f6c0-43d6-9474-cd4ae6f88c35

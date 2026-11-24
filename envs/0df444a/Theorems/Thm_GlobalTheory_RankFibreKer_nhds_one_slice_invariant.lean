@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_nhds_one_slice_invariant
 -- name    : GlobalTheory.RankFibreKer.nhds_one_slice_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:20.327344+00:00
 -- url     : https://prove2.me/theorems/fd5f6a74-30ed-4ca9-9963-50c125d9cd58

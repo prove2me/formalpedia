@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjModClasses_nonempty_equiv_of_mk0_eq
 -- name    : GlobalTheory.ProjModClasses.nonempty_equiv_of_mk0_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:55:18.886083+00:00
 -- url     : https://prove2.me/theorems/2f9600bf-d26d-474e-b153-044c317c0dba

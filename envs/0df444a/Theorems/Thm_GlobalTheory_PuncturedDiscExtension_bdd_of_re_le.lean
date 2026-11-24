@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PuncturedDiscExtension_bdd_of_re_le
 -- name    : GlobalTheory.PuncturedDiscExtension.bdd_of_re_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:58:34.075703+00:00
 -- url     : https://prove2.me/theorems/1e2d1321-26df-4cc1-80b5-9d0a262f9441

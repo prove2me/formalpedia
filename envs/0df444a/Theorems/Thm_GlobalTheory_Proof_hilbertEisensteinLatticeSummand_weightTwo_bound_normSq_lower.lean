@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_hilbertEisensteinLatticeSummand_weightTwo_bound_normSq_lower
 -- name    : GlobalTheory.Proof.hilbertEisensteinLatticeSummand_weightTwo_bound.normSq_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:57:13.81812+00:00
 -- url     : https://prove2.me/theorems/5fca112f-eeab-43ef-a11b-54d6af07dbed

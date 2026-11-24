@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjFrac_ev_frac_mul_den
 -- name    : GlobalTheory.ProjFrac.ev_frac_mul_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:55:19.19281+00:00
 -- url     : https://prove2.me/theorems/27a335c2-b268-44ca-a9bf-d8d94e84a6b7

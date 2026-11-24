@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_NoFix_eq_zero_of_fixed_of
 -- name    : GlobalTheory.PrinTwo.NoFix.eq_zero_of_fixed_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:55:48.557098+00:00
 -- url     : https://prove2.me/theorems/f20c74ec-6b11-4666-bb91-43ab9dcefff9

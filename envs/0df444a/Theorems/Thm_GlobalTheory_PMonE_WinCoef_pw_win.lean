@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_WinCoef_pw_win
 -- name    : GlobalTheory.PMonE.WinCoef.pw_win
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:38:43.578079+00:00
 -- url     : https://prove2.me/theorems/ac9f34fe-a79c-46aa-8ea4-2e6539f7d95b

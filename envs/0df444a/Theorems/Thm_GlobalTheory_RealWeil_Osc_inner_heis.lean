@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_inner_heis
 -- name    : GlobalTheory.RealWeil.Osc.inner_heis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:15:15.898295+00:00
 -- url     : https://prove2.me/theorems/5f78dd42-8393-480e-b919-be09f0b99449

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_step
 -- name    : GlobalTheory.Lin.PsiToPi.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:53.984669+00:00
 -- url     : https://prove2.me/theorems/4ffec614-03b4-48f7-a090-fb4dba32f987

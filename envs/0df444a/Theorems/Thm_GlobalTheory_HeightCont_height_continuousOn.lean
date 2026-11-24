@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightCont_height_continuousOn
 -- name    : GlobalTheory.HeightCont.height_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:16:15.454726+00:00
 -- url     : https://prove2.me/theorems/55a8e1ff-9761-4c51-a50a-aa46e30ed183

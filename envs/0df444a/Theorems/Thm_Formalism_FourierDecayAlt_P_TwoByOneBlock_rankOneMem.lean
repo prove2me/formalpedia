@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_rankOneMem
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.rankOneMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:33:48.495832+00:00
 -- url     : https://prove2.me/theorems/e8db1890-e9f3-4c49-ab9e-4680c0b1d37e

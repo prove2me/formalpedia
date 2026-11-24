@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalPoint_pt_injective
 -- name    : GlobalTheory.RationalPoint.pt_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:15:33.799528+00:00
 -- url     : https://prove2.me/theorems/9843390d-df5b-45eb-bd89-91133454cbd8

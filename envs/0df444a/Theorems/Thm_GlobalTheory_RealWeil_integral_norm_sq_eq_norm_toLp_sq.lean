@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_integral_norm_sq_eq_norm_toLp_sq
 -- name    : GlobalTheory.RealWeil.integral_norm_sq_eq_norm_toLp_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:17:30.567803+00:00
 -- url     : https://prove2.me/theorems/d5d3ec85-3744-4b8f-83d4-7d71d323db44

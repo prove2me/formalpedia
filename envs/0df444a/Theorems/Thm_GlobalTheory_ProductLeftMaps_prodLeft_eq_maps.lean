@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProductLeftMaps_prodLeft_eq_maps
 -- name    : GlobalTheory.ProductLeftMaps.prodLeft_eq_maps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:55:45.960735+00:00
 -- url     : https://prove2.me/theorems/14bbdf71-809f-40f4-be89-40c91ca8a462

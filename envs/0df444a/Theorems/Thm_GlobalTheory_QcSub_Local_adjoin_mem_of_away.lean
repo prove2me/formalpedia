@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QcSub_Local_adjoin_mem_of_away
 -- name    : GlobalTheory.QcSub.Local.adjoin_mem_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:03:13.435722+00:00
 -- url     : https://prove2.me/theorems/adcefb0c-7afb-428d-a96b-0e2858d14e1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_exists_extension_of_bound
 -- name    : GlobalTheory.RealWeil.exists_extension_of_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:17:06.12705+00:00
 -- url     : https://prove2.me/theorems/39db401f-3cff-4e01-acd9-73560794a8af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_infiniteAdele_real_component
 -- name    : GlobalTheory.QNorm.exists_infiniteAdele_real_component
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:04:22.916248+00:00
 -- url     : https://prove2.me/theorems/90293392-aa15-4a54-a625-5964c3ce4099

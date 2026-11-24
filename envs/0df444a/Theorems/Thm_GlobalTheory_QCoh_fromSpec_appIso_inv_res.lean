@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_fromSpec_appIso_inv_res
 -- name    : GlobalTheory.QCoh.fromSpec_appIso_inv_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:57:47.949804+00:00
 -- url     : https://prove2.me/theorems/40c2a71f-6076-4cdd-be1e-1828bfe25343

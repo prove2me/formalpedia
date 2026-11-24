@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormBaseChange_NormsEscape_of_odd_top
 -- name    : GlobalTheory.QuadSymbol.NormBaseChange.NormsEscape.of_odd_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:12:12.276542+00:00
 -- url     : https://prove2.me/theorems/01f669c8-f973-478d-bc1b-ae39f07e30e5

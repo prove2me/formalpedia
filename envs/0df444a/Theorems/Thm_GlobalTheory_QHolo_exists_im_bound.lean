@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_exists_im_bound
 -- name    : GlobalTheory.QHolo.exists_im_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:22:22.475981+00:00
 -- url     : https://prove2.me/theorems/b2d469e3-12ca-4d1e-8cc9-579bb9f9b473

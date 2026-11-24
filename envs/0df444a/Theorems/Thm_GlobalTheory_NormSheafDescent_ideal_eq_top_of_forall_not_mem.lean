@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheafDescent_ideal_eq_top_of_forall_not_mem
 -- name    : GlobalTheory.NormSheafDescent.ideal_eq_top_of_forall_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:41:59.821404+00:00
 -- url     : https://prove2.me/theorems/6c8502d8-8ab2-4047-83ad-4264b3ec4881

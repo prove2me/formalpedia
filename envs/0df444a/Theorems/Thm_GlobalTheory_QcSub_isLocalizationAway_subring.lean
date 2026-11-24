@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QcSub_isLocalizationAway_subring
 -- name    : GlobalTheory.QcSub.isLocalizationAway_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:03:42.743883+00:00
 -- url     : https://prove2.me/theorems/f5141e48-a61e-496c-bd96-45d42126fb38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerronKernel_rect_left
 -- name    : GlobalTheory.PerronKernel.rect_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:43:41.447566+00:00
 -- url     : https://prove2.me/theorems/c999cf30-4918-4613-906b-79f304093512

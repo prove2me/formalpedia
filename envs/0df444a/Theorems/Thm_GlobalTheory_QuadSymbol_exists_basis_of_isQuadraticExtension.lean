@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_exists_basis_of_isQuadraticExtension
 -- name    : GlobalTheory.QuadSymbol.exists_basis_of_isQuadraticExtension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:14:39.55221+00:00
 -- url     : https://prove2.me/theorems/724ac28c-0d2e-43ae-b325-0eda2341c2cb

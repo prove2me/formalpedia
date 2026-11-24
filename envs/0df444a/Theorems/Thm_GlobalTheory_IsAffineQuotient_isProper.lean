@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_isProper
 -- name    : GlobalTheory.IsAffineQuotient.isProper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:12.443281+00:00
 -- url     : https://prove2.me/theorems/63f90e3e-8351-45c0-bd1f-3ca680b4e05a

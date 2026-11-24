@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_relIndex_hiUnits_succ_le
 -- name    : GlobalTheory.QNorm.relIndex_hiUnits_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:01:49.208127+00:00
 -- url     : https://prove2.me/theorems/14f84d13-ba89-4154-93c7-aa9298aec18d

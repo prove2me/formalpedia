@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspExist_linearIndependent_single_add
 -- name    : GlobalTheory.CuspExist.linearIndependent_single_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:37:05.823644+00:00
 -- url     : https://prove2.me/theorems/c36073b8-2bb8-4830-ba99-7a43ce5b6532

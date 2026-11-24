@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiUnitOfPsiOn_injective_of_isIso
 -- name    : GlobalTheory.PsiUnitOfPsiOn.injective_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:57:02.049014+00:00
 -- url     : https://prove2.me/theorems/5c765be9-1000-4b33-a5e0-7e613a901b6d

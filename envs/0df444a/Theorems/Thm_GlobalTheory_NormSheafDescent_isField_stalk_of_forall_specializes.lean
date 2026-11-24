@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheafDescent_isField_stalk_of_forall_specializes
 -- name    : GlobalTheory.NormSheafDescent.isField_stalk_of_forall_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:42:13.462187+00:00
 -- url     : https://prove2.me/theorems/6d109c8e-6a96-47da-83c9-e16e349db7e5

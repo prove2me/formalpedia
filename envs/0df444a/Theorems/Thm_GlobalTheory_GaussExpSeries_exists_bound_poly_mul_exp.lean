@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExpSeries_exists_bound_poly_mul_exp
 -- name    : GlobalTheory.GaussExpSeries.exists_bound_poly_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:51:14.274528+00:00
 -- url     : https://prove2.me/theorems/3a2b1d4d-0d70-4475-9946-9128f51bcd85

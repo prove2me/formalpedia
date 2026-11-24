@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HGASUndecidable_Main_guardedPaddingMap_computable
 -- name    : HGASUndecidable.Main.guardedPaddingMap_computable
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:25:47.410072+00:00
 -- url     : https://prove2.me/theorems/3f39c3d5-c103-46cd-9247-82abab01ccc5

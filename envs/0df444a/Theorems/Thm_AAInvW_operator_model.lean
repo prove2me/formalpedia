@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_operator_model
 -- name    : AAInvW.operator_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:34:00.142401+00:00
 -- url     : https://prove2.me/theorems/4af64777-fd6c-4308-a365-34d160649b32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitsInAffineOpens_of_invariant
 -- name    : GlobalTheory.OrbitsInAffineOpens.of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:23.0728+00:00
 -- url     : https://prove2.me/theorems/88a80d7c-ae70-4c3f-9df3-7a1fb4863c2a

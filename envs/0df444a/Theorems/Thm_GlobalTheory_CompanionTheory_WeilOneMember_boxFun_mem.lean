@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilOneMember_boxFun_mem
 -- name    : GlobalTheory.CompanionTheory.WeilOneMember.boxFun_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:38:40.887382+00:00
 -- url     : https://prove2.me/theorems/a2736049-b9bf-4029-9ca7-70d1c4026932

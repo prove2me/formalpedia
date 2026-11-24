@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFiber_nrm_nonneg
 -- name    : GlobalTheory.QFiber.nrm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:02:35.453189+00:00
 -- url     : https://prove2.me/theorems/86bde4df-83e6-4985-8b9a-8ccbc9d54476

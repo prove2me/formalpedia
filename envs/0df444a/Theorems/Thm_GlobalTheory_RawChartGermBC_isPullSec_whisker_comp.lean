@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartGermBC_isPullSec_whisker_comp
 -- name    : GlobalTheory.RawChartGermBC.isPullSec_whisker_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:15:27.777504+00:00
 -- url     : https://prove2.me/theorems/09284170-07df-4732-aa0a-9f2c1323d034

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerronKernel_far_neg
 -- name    : GlobalTheory.PerronKernel.far_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:43:42.846833+00:00
 -- url     : https://prove2.me/theorems/f272de71-1939-4780-bad2-b074d5b75d01

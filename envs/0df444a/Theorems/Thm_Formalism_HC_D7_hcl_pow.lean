@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_hcl_pow
 -- name    : Formalism.HC.D7.hcl_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:39:17.928861+00:00
 -- url     : https://prove2.me/theorems/7d41a031-f7d7-4575-beca-fb086e011b3c

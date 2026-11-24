@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_QAll_of_dvd
 -- name    : GlobalTheory.QFam.QAll.of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:59:21.444582+00:00
 -- url     : https://prove2.me/theorems/fb1eee33-09ff-4cad-9267-89e35be28fbb

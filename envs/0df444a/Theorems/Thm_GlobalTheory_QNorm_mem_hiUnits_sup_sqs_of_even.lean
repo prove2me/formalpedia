@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_mem_hiUnits_sup_sqs_of_even
 -- name    : GlobalTheory.QNorm.mem_hiUnits_sup_sqs_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:02:14.153735+00:00
 -- url     : https://prove2.me/theorems/e2b0e6e6-30ba-4f4c-b896-34bba6129230

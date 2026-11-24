@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_sum_latInd
 -- name    : GlobalTheory.LastSteps.sum_latInd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:42:11.324903+00:00
 -- url     : https://prove2.me/theorems/60f250c2-9adb-47c5-b954-a40ab61fa4ed

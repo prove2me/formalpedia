@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_ex_union
 -- name    : GlobalTheory.RandomTops.ex_union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:14:19.556333+00:00
 -- url     : https://prove2.me/theorems/666591ed-7e11-49c0-974d-cae821c996e8

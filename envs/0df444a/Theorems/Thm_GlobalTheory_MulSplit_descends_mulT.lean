@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_descends_mulT
 -- name    : GlobalTheory.MulSplit.descends_mulT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:28:18.726803+00:00
 -- url     : https://prove2.me/theorems/007b5ae7-3536-4d43-bbb0-d1d9b09ef549

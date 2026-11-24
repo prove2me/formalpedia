@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_valuation_two_eq_exp
 -- name    : GlobalTheory.QNorm.exists_valuation_two_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:03:00.133555+00:00
 -- url     : https://prove2.me/theorems/2547dcd4-12d2-4980-8263-f00769b5fa86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_mem_domain
 -- name    : GlobalTheory.PeriodCompare.mem_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:43:52.335263+00:00
 -- url     : https://prove2.me/theorems/b76d5f40-dcce-4f58-8f34-bee58f56bb78

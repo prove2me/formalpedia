@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_summable_of_fiber
 -- name    : GlobalTheory.QHolo.summable_of_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:24:27.148635+00:00
 -- url     : https://prove2.me/theorems/0e52dabf-60be-460a-a9ea-e094f33821f4

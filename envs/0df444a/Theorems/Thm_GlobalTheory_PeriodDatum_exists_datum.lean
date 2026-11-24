@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodDatum_exists_datum
 -- name    : GlobalTheory.PeriodDatum.exists_datum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:43:23.92229+00:00
 -- url     : https://prove2.me/theorems/1e58f5f7-b68d-4f0f-9e6f-78642dc39e7e

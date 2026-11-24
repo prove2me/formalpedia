@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenIdeleCongr_finiteSingle_mem_of_nhds
 -- name    : GlobalTheory.OpenIdeleCongr.finiteSingle_mem_of_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:40:01.043317+00:00
 -- url     : https://prove2.me/theorems/2315a88b-5059-4739-831a-46b6c8e3bdec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_section_mem_range
 -- name    : GlobalTheory.OnePoint.exists_section_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:37:33.044667+00:00
 -- url     : https://prove2.me/theorems/949fb113-b455-4cc4-8bfa-8bd5e6f95744

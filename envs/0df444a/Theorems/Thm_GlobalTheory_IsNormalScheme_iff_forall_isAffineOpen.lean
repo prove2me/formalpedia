@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsNormalScheme_iff_forall_isAffineOpen
 -- name    : GlobalTheory.IsNormalScheme.iff_forall_isAffineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:12:40.82689+00:00
 -- url     : https://prove2.me/theorems/5aa325a6-49e9-4357-b951-ac35e440e23d

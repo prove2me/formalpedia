@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Model_exists_finite_place
 -- name    : GlobalTheory.QuadSymbol.Model.exists_finite_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:09:40.06758+00:00
 -- url     : https://prove2.me/theorems/45ec8561-6661-44f5-bf3a-ea1cb2ef16f3

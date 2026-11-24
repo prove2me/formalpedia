@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_term_pow
 -- name    : GlobalTheory.PMonE.term_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:39:58.226834+00:00
 -- url     : https://prove2.me/theorems/3a4ef182-eed3-4ff4-82ea-37c65fcf5170

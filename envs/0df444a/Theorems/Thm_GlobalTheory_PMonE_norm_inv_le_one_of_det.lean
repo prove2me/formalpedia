@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_norm_inv_le_one_of_det
 -- name    : GlobalTheory.PMonE.norm_inv_le_one_of_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:40:34.675704+00:00
 -- url     : https://prove2.me/theorems/6cd61979-0007-4b70-a7e9-df8dc2895c8b

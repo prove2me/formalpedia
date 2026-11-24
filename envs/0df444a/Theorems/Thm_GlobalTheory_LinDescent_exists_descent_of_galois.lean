@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_exists_descent_of_galois
 -- name    : GlobalTheory.LinDescent.exists_descent_of_galois
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:39:11.292702+00:00
 -- url     : https://prove2.me/theorems/75f39855-11bb-4b93-9f0a-5d628a883fbc

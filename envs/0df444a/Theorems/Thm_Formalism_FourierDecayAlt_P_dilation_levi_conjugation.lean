@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_levi_conjugation
 -- name    : Formalism.FourierDecayAlt.P.dilation_levi_conjugation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:39:03.558313+00:00
 -- url     : https://prove2.me/theorems/456f11de-8f82-4899-97e7-d47869ecaba5

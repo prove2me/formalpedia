@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_eta_mul
 -- name    : GlobalTheory.QuadSymbol.NormIndex.eta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:12:37.65589+00:00
 -- url     : https://prove2.me/theorems/c95877ac-9858-469c-89ab-5d52d1ccc5d6

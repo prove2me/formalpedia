@@ -70151,7 +70151,7 @@
 {"parent": "DKFAsymptotics.C2", "child": "DKFAsymptotics_Assumptions", "via": ["solution", "statement"]}
 {"parent": "OddOrder_Isaacs_Ch03_SplitExtensions_CyclicExtensions", "child": "OddOrder_Isaacs_Ch03_SplitExtensions_Theorem315", "via": ["statement"]}
 {"parent": "OddOrder_Isaacs_Ch03_SplitExtensions_CyclicExtensions", "child": "OddOrder_Mathlib_SemidirectProduct", "via": ["statement"]}
-{"parent": "NovyPQZK.Main.lemma_4", "child": "NovyPQZK_Main_Binding", "via": ["statement"]}
+{"parent": "NovyPQZK.Main.lemma_4", "child": "NovyPQZK_Main_Binding", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18Parameterized.decodedRetryPoolEnoughMass_add_decodedRetryPoolShortageMass", "child": "QEC_Distillation_LowOverheadProtocol_Parameterized_DecodedInstrument", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18Parameterized.decodedRetryPoolEnoughMass_add_decodedRetryPoolShortageMass", "child": "QEC_Distillation_LowOverheadProtocol_Parameterized_RetryPool_Core", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18Parameterized.decodedRetryPoolEnoughMass_add_decodedRetryPoolShortageMass", "child": "QEC_Semantics_Instruments_TensorPower_BornMass", "via": ["solution", "statement"]}

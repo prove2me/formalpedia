@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_action_of_isPullback
 -- name    : GlobalTheory.exists_action_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:43:34.637239+00:00
 -- url     : https://prove2.me/theorems/5ae47bbb-31a9-4787-8b07-4ee2d00d357b

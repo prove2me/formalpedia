@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartGermBC_val_genPow
 -- name    : GlobalTheory.RawChartGermBC.val_genPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:15:40.998204+00:00
 -- url     : https://prove2.me/theorems/6902515c-810b-45d3-9057-fb28b73ccdc9

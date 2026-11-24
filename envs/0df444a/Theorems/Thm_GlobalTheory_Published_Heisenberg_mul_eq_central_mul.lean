@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Heisenberg_mul_eq_central_mul
 -- name    : GlobalTheory.Published.Heisenberg.mul_eq_central_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:57:09.018786+00:00
 -- url     : https://prove2.me/theorems/7bb3fea6-2356-483c-b399-73024302b177

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_good_poly
 -- name    : CCRuleCW.good_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:36:36.803193+00:00
 -- url     : https://prove2.me/theorems/c98de69a-cc02-4d0b-94df-88e24d7d1661

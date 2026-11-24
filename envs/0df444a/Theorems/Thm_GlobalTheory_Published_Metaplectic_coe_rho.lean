@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Metaplectic_coe_rho
 -- name    : GlobalTheory.Published.Metaplectic.coe_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:56:16.161183+00:00
 -- url     : https://prove2.me/theorems/ecf80b82-4ebf-4c0a-b642-9245207fb3c3

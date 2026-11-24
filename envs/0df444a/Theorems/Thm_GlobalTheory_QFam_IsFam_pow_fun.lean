@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_IsFam_pow_fun
 -- name    : GlobalTheory.QFam.IsFam.pow_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:59:02.517869+00:00
 -- url     : https://prove2.me/theorems/5a233438-5473-45cf-a24e-d8752c367aea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesMaximalBound_map_le_max
 -- name    : GlobalTheory.PowerSeriesMaximalBound.map_le_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:42.523036+00:00
 -- url     : https://prove2.me/theorems/3f5543c2-10b7-4768-b525-1d1390820fe7

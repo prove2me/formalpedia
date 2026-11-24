@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosDefFT_integral_nonneg_of_sums
 -- name    : GlobalTheory.PosDefFT.integral_nonneg_of_sums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:49:30.655117+00:00
 -- url     : https://prove2.me/theorems/89123331-0fed-4763-8efe-26be839857a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_GsStar_mul_Gs
 -- name    : GlobalTheory.PairOp.GsStar_mul_Gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:40:49.46561+00:00
 -- url     : https://prove2.me/theorems/6ee85162-1c44-40e0-9af0-e0ac924b9410

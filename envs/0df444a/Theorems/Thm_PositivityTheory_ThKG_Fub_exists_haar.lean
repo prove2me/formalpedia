@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Fub_exists_haar
 -- name    : PositivityTheory.ThKG.Fub.exists_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:43:47.717305+00:00
 -- url     : https://prove2.me/theorems/f6698600-48d1-4004-a260-f408ebe66ace

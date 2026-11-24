@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_absNorm_ker
 -- name    : GlobalTheory.QuadraticZeta.absNorm_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:12:07.373594+00:00
 -- url     : https://prove2.me/theorems/9c85445d-5f0d-4f45-81e1-1c4b854faf16

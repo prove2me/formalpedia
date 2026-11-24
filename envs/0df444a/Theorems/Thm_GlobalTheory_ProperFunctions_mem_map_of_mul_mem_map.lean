@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_mem_map_of_mul_mem_map
 -- name    : GlobalTheory.ProperFunctions.mem_map_of_mul_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:56:18.52156+00:00
 -- url     : https://prove2.me/theorems/48517d9b-1086-4a71-94b5-2709fa829422

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_isobaric_monomial_div
 -- name    : GlobalTheory.QFam.isobaric_monomial_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:01:05.197599+00:00
 -- url     : https://prove2.me/theorems/7d352e50-2689-402b-aa60-546b54598bc3

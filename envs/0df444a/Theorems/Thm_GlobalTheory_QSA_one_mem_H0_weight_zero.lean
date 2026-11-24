@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_one_mem_H0_weight_zero
 -- name    : GlobalTheory.QSA.one_mem_H0_weight_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:03:17.711045+00:00
 -- url     : https://prove2.me/theorems/7f356ba1-91be-4b10-8af3-52dc307c881e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCut_homogeneousComponent_aeval
 -- name    : GlobalTheory.ProjCut.homogeneousComponent_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:55:54.469642+00:00
 -- url     : https://prove2.me/theorems/16a00e7a-40da-4e79-bf9f-3fcc7891249e

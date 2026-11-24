@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_NormOpen_eventually_isSquare_infinite
 -- name    : GlobalTheory.QNorm.NormOpen.eventually_isSquare_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:23:39.378804+00:00
 -- url     : https://prove2.me/theorems/9f8886ef-1a42-458b-9850-adc1051ef498

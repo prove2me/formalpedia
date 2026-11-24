@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_not_mem_sq_add_sub
 -- name    : GlobalTheory.QNorm.exists_not_mem_sq_add_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:02:46.343465+00:00
 -- url     : https://prove2.me/theorems/91ab1930-18ca-4aae-9d1e-384a8709ca39

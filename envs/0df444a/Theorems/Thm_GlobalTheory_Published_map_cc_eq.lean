@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_map_cc_eq
 -- name    : GlobalTheory.Published.map_cc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:58:26.866532+00:00
 -- url     : https://prove2.me/theorems/6baf8349-96de-484c-97cc-3cb9f1ba5c83

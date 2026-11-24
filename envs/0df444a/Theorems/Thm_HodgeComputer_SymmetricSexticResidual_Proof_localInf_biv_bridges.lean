@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localInf_biv_bridges
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localInf_biv_bridges
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T19:39:50.793233+00:00
 -- url     : https://prove2.me/theorems/6086ac79-0304-429e-93f9-d0c1e8601bb7

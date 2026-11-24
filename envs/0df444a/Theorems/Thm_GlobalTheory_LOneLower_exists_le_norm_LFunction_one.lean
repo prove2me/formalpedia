@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LOneLower_exists_le_norm_LFunction_one
 -- name    : GlobalTheory.LOneLower.exists_le_norm_LFunction_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:55:49.137137+00:00
 -- url     : https://prove2.me/theorems/3bd751fb-9261-413d-a344-a425a7c99cf8

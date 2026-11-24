@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheafDescent_finiteDimensional_functionField
 -- name    : GlobalTheory.NormSheafDescent.finiteDimensional_functionField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:40:35.673597+00:00
 -- url     : https://prove2.me/theorems/8efb2343-282e-4982-8078-d26204fd59a6

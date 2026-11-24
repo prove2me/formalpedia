@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_PosDet_half_eq
 -- name    : GlobalTheory.RealWeil.PosDet.half_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:55.273807+00:00
 -- url     : https://prove2.me/theorems/6988828c-99db-49df-b0c5-dc3ab56d3471

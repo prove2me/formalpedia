@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSections_exists_equiv_pow
 -- name    : GlobalTheory.PowSections.exists_equiv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:53:21.97515+00:00
 -- url     : https://prove2.me/theorems/463f0602-861b-4d7c-b226-f1281efe5f09

@@ -77166,7 +77166,7 @@
 {"parent": "OAI.SmoothMobiusCorrection.dampedSeries_euler", "child": "OAI_NumberTheory_DirichletL_Hecke_MobiusEulerCorrection", "via": ["solution", "statement"]}
 {"parent": "OAI.SmoothMobiusCorrection.dampedSeries_euler", "child": "OAI_NumberTheory_DirichletL_Mellin_SixthPowerAverage", "via": ["solution", "statement"]}
 {"parent": "BootstrapRecolorVerify.MetricGap.theorem_1_1_metric_gap", "child": "BootstrapRecolorVerify_MetricGap_MetricLP", "via": ["statement"]}
-{"parent": "HDXNbhdPCP.Main.lemma_2_13", "child": "HDXNbhdPCP_Main_Complex", "via": ["statement"]}
+{"parent": "HDXNbhdPCP.Main.lemma_2_13", "child": "HDXNbhdPCP_Main_Complex", "via": ["solution", "statement"]}
 {"parent": "GraphSimOT.Gaps.theorem_6", "child": "GraphSimOT_Gaps_Distances", "via": ["solution", "statement"]}
 {"parent": "DynMaxMatchEC.Main.theorem_5_1", "child": "DynMaxMatchEC_Main_EdgeColoring", "via": ["statement"]}
 {"parent": "DynMaxMatchEC.Main.theorem_5_1", "child": "DynMaxMatchEC_Main_Model", "via": ["statement"]}

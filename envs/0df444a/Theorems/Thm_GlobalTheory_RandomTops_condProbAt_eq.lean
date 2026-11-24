@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_condProbAt_eq
 -- name    : GlobalTheory.RandomTops.condProbAt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:14:16.275873+00:00
 -- url     : https://prove2.me/theorems/c31f93bd-25dd-49fd-87c3-214ff8331f23

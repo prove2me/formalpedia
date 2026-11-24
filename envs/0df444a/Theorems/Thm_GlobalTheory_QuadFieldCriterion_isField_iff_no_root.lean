@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFieldCriterion_isField_iff_no_root
 -- name    : GlobalTheory.QuadFieldCriterion.isField_iff_no_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:10:09.722296+00:00
 -- url     : https://prove2.me/theorems/128f1103-f661-4557-861b-27ba2c9c1c52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_indep
 -- name    : PositivityTheory.ThK.LinAct.indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:39:15.166337+00:00
 -- url     : https://prove2.me/theorems/e3da0412-62f4-46fa-8042-9479b92c4687

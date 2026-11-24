@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_selfDual_measure_exists_unique_fourier_inversion
 -- name    : GlobalTheory.T.selfDual_measure_exists_unique_fourier_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:05.113399+00:00
 -- url     : https://prove2.me/theorems/91710886-b972-47be-bd6d-6359d19a4c85

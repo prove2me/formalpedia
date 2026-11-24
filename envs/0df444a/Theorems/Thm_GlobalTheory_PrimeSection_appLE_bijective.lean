@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_appLE_bijective
 -- name    : GlobalTheory.PrimeSection.appLE_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:43:18.532843+00:00
 -- url     : https://prove2.me/theorems/9043f8e1-045e-45c2-9e36-148b3edfef17

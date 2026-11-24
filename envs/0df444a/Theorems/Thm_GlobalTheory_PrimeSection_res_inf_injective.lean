@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_res_inf_injective
 -- name    : GlobalTheory.PrimeSection.res_inf_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:30:48.066876+00:00
 -- url     : https://prove2.me/theorems/74292e00-62ef-4ba6-a5ab-bdbbaff6ad21

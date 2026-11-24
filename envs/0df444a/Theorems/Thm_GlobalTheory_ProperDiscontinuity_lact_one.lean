@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperDiscontinuity_lact_one
 -- name    : GlobalTheory.ProperDiscontinuity.lact_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:57:11.575484+00:00
 -- url     : https://prove2.me/theorems/8c0fd5b1-036d-46a6-9596-bddd9d978137

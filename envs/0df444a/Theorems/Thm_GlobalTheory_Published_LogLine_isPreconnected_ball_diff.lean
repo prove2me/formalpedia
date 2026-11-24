@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_LogLine_isPreconnected_ball_diff
 -- name    : GlobalTheory.Published.LogLine.isPreconnected_ball_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:57:05.796998+00:00
 -- url     : https://prove2.me/theorems/a88beba0-eb5e-4309-aa12-90b5ac203b13

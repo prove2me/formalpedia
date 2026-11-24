@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Landherr_congr_of_signature
 -- name    : GlobalTheory.Published.Landherr.congr_of_signature
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:39:08.72578+00:00
 -- url     : https://prove2.me/theorems/c803d03c-5ee6-4222-83d3-2c7cfcba513d

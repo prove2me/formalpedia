@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_exists_functional
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.exists_functional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:38:44.280589+00:00
 -- url     : https://prove2.me/theorems/b0cbfae1-4ad5-41e1-8773-fb29dc5c456f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_adele_finite_component
 -- name    : GlobalTheory.QNorm.exists_adele_finite_component
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:22:20.930521+00:00
 -- url     : https://prove2.me/theorems/bdcc69f9-14b3-4a86-b15b-2a11e77a23cf

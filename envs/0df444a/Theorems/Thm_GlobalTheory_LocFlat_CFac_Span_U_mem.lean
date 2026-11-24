@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_CFac_Span_U_mem
 -- name    : GlobalTheory.LocFlat.CFac.Span.U_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:12:20.132963+00:00
 -- url     : https://prove2.me/theorems/86bc4906-2322-413a-890f-1bc0e6b196a5

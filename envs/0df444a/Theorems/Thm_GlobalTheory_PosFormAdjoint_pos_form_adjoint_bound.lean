@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosFormAdjoint_pos_form_adjoint_bound
 -- name    : GlobalTheory.PosFormAdjoint.pos_form_adjoint_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:50:43.046258+00:00
 -- url     : https://prove2.me/theorems/292c5b12-90da-47d7-9f82-8d80299a3513

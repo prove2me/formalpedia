@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuantumMinorAdjacentSwap_sum_eq_sum_perm
 -- name    : GlobalTheory.QuantumMinorAdjacentSwap.sum_eq_sum_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:12:01.745149+00:00
 -- url     : https://prove2.me/theorems/f2305011-f80b-4f02-9e35-970055657d9c

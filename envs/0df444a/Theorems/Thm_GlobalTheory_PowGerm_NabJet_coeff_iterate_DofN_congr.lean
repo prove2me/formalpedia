@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_NabJet_coeff_iterate_DofN_congr
 -- name    : GlobalTheory.PowGerm.NabJet.coeff_iterate_DofN_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:51:49.781868+00:00
 -- url     : https://prove2.me/theorems/068227ff-1fab-42fc-8d96-946d74638dff

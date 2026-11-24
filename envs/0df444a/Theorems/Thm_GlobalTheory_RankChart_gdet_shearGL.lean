@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_gdet_shearGL
 -- name    : GlobalTheory.RankChart.gdet_shearGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:13:32.750126+00:00
 -- url     : https://prove2.me/theorems/e074309b-827b-44e1-96fb-ff9d5f3057af

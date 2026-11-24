@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_ex_mul_left
 -- name    : GlobalTheory.RandomTops.ex_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:14:17.961913+00:00
 -- url     : https://prove2.me/theorems/60917267-8cae-489b-9ef2-5997d5903a6b

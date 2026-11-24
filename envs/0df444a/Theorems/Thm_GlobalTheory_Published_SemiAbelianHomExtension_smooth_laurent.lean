@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_smooth_laurent
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.smooth_laurent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:28:39.730631+00:00
 -- url     : https://prove2.me/theorems/a40e3354-6e10-45f8-8090-6c17b114d3d5

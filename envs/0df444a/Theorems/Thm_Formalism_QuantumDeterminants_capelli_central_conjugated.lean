@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capelli_central_conjugated
 -- name    : Formalism.QuantumDeterminants.capelli_central_conjugated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:00:20.887015+00:00
 -- url     : https://prove2.me/theorems/3a1464ff-46ea-4beb-92cf-1870e38eeb8d

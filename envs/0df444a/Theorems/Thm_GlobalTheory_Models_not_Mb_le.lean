@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_not_Mb_le
 -- name    : GlobalTheory.Models.not_Mb_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:27:10.985932+00:00
 -- url     : https://prove2.me/theorems/24a9ea20-9cf7-4fa0-817c-82c046049cd3

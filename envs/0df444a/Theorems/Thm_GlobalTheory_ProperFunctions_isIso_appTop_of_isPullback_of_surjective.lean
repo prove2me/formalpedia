@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_appTop_of_isPullback_of_surjective
 -- name    : GlobalTheory.ProperFunctions.isIso_appTop_of_isPullback_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:39:11.507148+00:00
 -- url     : https://prove2.me/theorems/d1441a62-4aea-4465-80a8-5f1522a31b7b

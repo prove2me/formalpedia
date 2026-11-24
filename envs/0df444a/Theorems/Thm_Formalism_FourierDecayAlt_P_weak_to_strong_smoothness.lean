@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weak_to_strong_smoothness
 -- name    : Formalism.FourierDecayAlt.P.weak_to_strong_smoothness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:24:01.752778+00:00
 -- url     : https://prove2.me/theorems/44e16e8d-132d-4312-a951-a5246130382e

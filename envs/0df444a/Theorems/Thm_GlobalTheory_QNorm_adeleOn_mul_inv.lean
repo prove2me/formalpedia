@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_adeleOn_mul_inv
 -- name    : GlobalTheory.QNorm.adeleOn_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:22:42.986959+00:00
 -- url     : https://prove2.me/theorems/7f5b8281-9742-48f4-82da-73b0e4f621e3

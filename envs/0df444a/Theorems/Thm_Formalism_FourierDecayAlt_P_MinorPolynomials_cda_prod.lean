@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_cda_prod
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.cda_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:10.816315+00:00
 -- url     : https://prove2.me/theorems/a1d86941-4be1-4670-b64c-014e9e660279

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_invariant_polynomial_eq_aeval_pairings
 -- name    : GlobalTheory.invariant_polynomial_eq_aeval_pairings
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:38:16.544505+00:00
 -- url     : https://prove2.me/theorems/505ecc4e-df50-4b1a-84c4-6d16b8ae1203

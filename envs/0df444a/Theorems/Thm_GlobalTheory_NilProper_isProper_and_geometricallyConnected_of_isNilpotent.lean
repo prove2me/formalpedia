@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilProper_isProper_and_geometricallyConnected_of_isNilpotent
 -- name    : GlobalTheory.NilProper.isProper_and_geometricallyConnected_of_isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:03.856936+00:00
 -- url     : https://prove2.me/theorems/dc19f3f2-d968-418e-aeec-cfd9444a728d

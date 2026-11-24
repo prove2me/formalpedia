@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CuspCentre_cc_sum__4ddf663c3fbe
 -- name    : P2M_GlobalTheory_CuspCentre_cc_sum__4ddf663c3fbe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:36:50.709953+00:00
 -- url     : https://prove2.me/theorems/b6ff6f1e-cdf6-4741-9c33-68c2e54fa9af

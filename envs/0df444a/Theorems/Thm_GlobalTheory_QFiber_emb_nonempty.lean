@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFiber_emb_nonempty
 -- name    : GlobalTheory.QFiber.emb_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:02:26.116266+00:00
 -- url     : https://prove2.me/theorems/c83bbba8-c777-4cb7-bf00-b5cb969a0a50

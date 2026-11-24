@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheafDescent_sections_isDomain_isFractionRing_stalk
 -- name    : GlobalTheory.NormSheafDescent.sections_isDomain_isFractionRing_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:21.010408+00:00
 -- url     : https://prove2.me/theorems/4d3c97ba-d9c9-45a7-979a-3e39abaabac3

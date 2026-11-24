@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimaryTorsionBlocks_card_killedBy_block
 -- name    : GlobalTheory.PrimaryTorsionBlocks.card_killedBy_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:53:33.09329+00:00
 -- url     : https://prove2.me/theorems/c664ad28-9eed-4b94-b3dd-daf8e6085ebe

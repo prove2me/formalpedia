@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_appTop_of_isAlgClosed
 -- name    : GlobalTheory.ProperFunctions.isIso_appTop_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:30.462512+00:00
 -- url     : https://prove2.me/theorems/85426428-2af2-47f4-9bef-1661490ca2ef

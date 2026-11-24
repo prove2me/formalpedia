@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesFlat_flat_mvPowerSeries
 -- name    : GlobalTheory.PowerSeriesFlat.flat_mvPowerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:52:12.533918+00:00
 -- url     : https://prove2.me/theorems/9156c105-2f64-4c90-a446-5bba329a8812

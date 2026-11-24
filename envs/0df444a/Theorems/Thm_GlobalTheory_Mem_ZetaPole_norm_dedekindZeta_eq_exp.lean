@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_ZetaPole_norm_dedekindZeta_eq_exp
 -- name    : GlobalTheory.Mem.ZetaPole.norm_dedekindZeta_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:54:47.228438+00:00
 -- url     : https://prove2.me/theorems/ace52d04-f7b7-4737-be3a-6d26977c0cc1

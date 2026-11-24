@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Heisenberg_isTopologicalGroup
 -- name    : GlobalTheory.Published.Heisenberg.isTopologicalGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:57:07.811437+00:00
 -- url     : https://prove2.me/theorems/0da75d97-c4c5-429c-ab7a-8ea8381f4b3b

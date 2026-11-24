@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_exists_completion_hom_real
 -- name    : GlobalTheory.QuadSymbol.exists_completion_hom_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:17:32.5026+00:00
 -- url     : https://prove2.me/theorems/3872adfe-46b4-48c2-87ce-97acaa808dec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_FormalAlgebraisation_Morphisms_existsUnique_thick
 -- name    : GlobalTheory.Published.FormalAlgebraisation.Morphisms.existsUnique_thick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:56:55.945563+00:00
 -- url     : https://prove2.me/theorems/9e21f727-eb82-4fe4-af9e-a52a39f0ce23

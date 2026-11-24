@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_linnik_iff_exists_prime
 -- name    : GlobalTheory.Published.linnik_iff_exists_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:58:39.514573+00:00
 -- url     : https://prove2.me/theorems/92ed586d-3690-4f42-91c0-e90fb18e0437

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_hasQ_mul_conv
 -- name    : GlobalTheory.QFam.hasQ_mul_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:59:31.105024+00:00
 -- url     : https://prove2.me/theorems/a520549e-40b2-4ee9-b5bc-b274dc2df904

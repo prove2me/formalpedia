@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PosDirichlet_exp_sub_one
 -- name    : GlobalTheory.Mem.PosDirichlet.exp_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:23:09.657812+00:00
 -- url     : https://prove2.me/theorems/e5a8d20d-cb5c-4883-bd00-baa54bec030e

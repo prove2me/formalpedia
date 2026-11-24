@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_pbc_lstdSum
 -- name    : Formalism.FourierDecayAlt.P.PBC.pbc_lstdSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:31:37.129708+00:00
 -- url     : https://prove2.me/theorems/550002b5-ab19-4f77-a43b-66d716047136

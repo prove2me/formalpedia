@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Principalise_effCartier_comap_of_disjoint
 -- name    : GlobalTheory.Principalise.effCartier_comap_of_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:44:26.957187+00:00
 -- url     : https://prove2.me/theorems/29ded66b-eb22-4662-bd9f-26026ecfecb8

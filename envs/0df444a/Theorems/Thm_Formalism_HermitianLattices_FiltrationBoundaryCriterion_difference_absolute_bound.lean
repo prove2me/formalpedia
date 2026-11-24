@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_difference_absolute_bound
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.difference_absolute_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:48:20.508911+00:00
 -- url     : https://prove2.me/theorems/7975cb09-8bf2-4b28-bf4e-77adf42e518f

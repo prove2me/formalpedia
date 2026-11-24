@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_QAllSubring_prod
 -- name    : GlobalTheory.QFam.QAllSubring.prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:59:04.763214+00:00
 -- url     : https://prove2.me/theorems/c84293ce-0c1d-4b4f-9762-a254b1804b78

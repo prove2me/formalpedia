@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChaChaTree_DynOpt_lemma_12
 -- name    : ChaChaTree.DynOpt.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T01:22:38.07929+00:00
 -- url     : https://prove2.me/theorems/df39886b-a4bb-420b-8356-77d0a7ff28a9

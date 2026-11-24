@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_An_diffOn_integral
 -- name    : GlobalTheory.ThK.Dbl.An.diffOn_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:38:45.046861+00:00
 -- url     : https://prove2.me/theorems/9542869f-e170-474d-af5a-8e311bb609c0

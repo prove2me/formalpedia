@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PositiveFormRecursion_main
 -- name    : GlobalTheory.PositiveFormRecursion.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:50:48.593932+00:00
 -- url     : https://prove2.me/theorems/a4c2955c-01e1-4eb3-ac08-6e47d4ae383e

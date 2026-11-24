@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_dn_eq_of_action_eq
 -- name    : GlobalTheory.Published.dn_eq_of_action_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:58:03.675239+00:00
 -- url     : https://prove2.me/theorems/edc85c1b-1612-400e-8f87-f7a62e26aa5f

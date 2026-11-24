@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_TraceOpenPi_coords_glue
 -- name    : GlobalTheory.QSA.TraceOpenPi.coords_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:03:00.008774+00:00
 -- url     : https://prove2.me/theorems/f38775ce-7dee-44eb-a2d2-fcdbd1227ea5

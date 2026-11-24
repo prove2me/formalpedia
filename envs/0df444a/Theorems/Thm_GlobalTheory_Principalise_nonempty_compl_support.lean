@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Principalise_nonempty_compl_support
 -- name    : GlobalTheory.Principalise.nonempty_compl_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:44:21.953006+00:00
 -- url     : https://prove2.me/theorems/3f5637e0-0c77-4333-9b5f-1769d8ebefde

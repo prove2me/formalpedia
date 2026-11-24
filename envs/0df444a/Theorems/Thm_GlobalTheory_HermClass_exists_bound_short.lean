@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermClass_exists_bound_short
 -- name    : GlobalTheory.HermClass.exists_bound_short
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:19:31.927795+00:00
 -- url     : https://prove2.me/theorems/2259a5d8-8289-413d-a1f4-24d1b79b1cb5

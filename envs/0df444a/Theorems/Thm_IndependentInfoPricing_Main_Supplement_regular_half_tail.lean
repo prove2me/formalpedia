@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IndependentInfoPricing_Main_Supplement_regular_half_tail
 -- name    : IndependentInfoPricing.Main.Supplement.regular_half_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T09:54:36.99529+00:00
 -- url     : https://prove2.me/theorems/ee0a4334-82ff-4a84-ad5b-48b6ba7460a9

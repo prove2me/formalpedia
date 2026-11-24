@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharDotKill_charDot_kill
 -- name    : GlobalTheory.CharDotKill.charDot_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:07:49.693923+00:00
 -- url     : https://prove2.me/theorems/cb50ed95-5171-4041-81d9-2c9f97c3fa9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_riemann_symm
 -- name    : GlobalTheory.PeriodCoord.riemann_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:42:00.51084+00:00
 -- url     : https://prove2.me/theorems/e33d4ad2-128a-495e-bd24-1c50fce941f7

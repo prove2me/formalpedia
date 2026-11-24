@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_exists_nrm_one_re_sq_ne_one
 -- name    : GlobalTheory.QSA.exists_nrm_one_re_sq_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:03:10.447072+00:00
 -- url     : https://prove2.me/theorems/98ba6a8e-efbf-4d93-bf02-47baee5e0250

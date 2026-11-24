@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_TraceMixedEmbedding_trace_mixedEmbedding
 -- name    : UpperTheory.Reformulated.B.TraceMixedEmbedding.trace_mixedEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:40.976831+00:00
 -- url     : https://prove2.me/theorems/58686330-f2f4-4983-b4ca-c6fe6d1e7b89

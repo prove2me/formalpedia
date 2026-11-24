@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiPull_units_rel
 -- name    : GlobalTheory.PhiPull.units_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:32:11.098645+00:00
 -- url     : https://prove2.me/theorems/fa8923e7-ff2b-4a4c-ae5d-91f5238f802d

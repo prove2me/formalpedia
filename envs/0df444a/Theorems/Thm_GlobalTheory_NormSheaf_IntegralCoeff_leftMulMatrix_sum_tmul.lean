@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheaf_IntegralCoeff_leftMulMatrix_sum_tmul
 -- name    : GlobalTheory.NormSheaf.IntegralCoeff.leftMulMatrix_sum_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:41:53.385487+00:00
 -- url     : https://prove2.me/theorems/4e912e00-b057-46b6-abc8-e8e1b8ee15d6

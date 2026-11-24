@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_SplitPlaceGoodSignature_isSplitPl_of_not_isConjPl
 -- name    : GlobalTheory.Proof.SplitPlaceGoodSignature.isSplitPl_of_not_isConjPl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:37:19.495922+00:00
 -- url     : https://prove2.me/theorems/878b19c6-be76-4241-adcb-c811f2355288

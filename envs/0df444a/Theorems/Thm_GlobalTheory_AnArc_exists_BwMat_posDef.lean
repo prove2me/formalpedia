@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_exists_BwMat_posDef
 -- name    : GlobalTheory.AnArc.exists_BwMat_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:40.301061+00:00
 -- url     : https://prove2.me/theorems/8f678f87-6908-40ee-ad10-88ed69b554c0

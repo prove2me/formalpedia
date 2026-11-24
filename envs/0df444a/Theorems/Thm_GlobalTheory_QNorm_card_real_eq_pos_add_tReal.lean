@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_card_real_eq_pos_add_tReal
 -- name    : GlobalTheory.QNorm.card_real_eq_pos_add_tReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:02:31.1608+00:00
 -- url     : https://prove2.me/theorems/3296ca0a-f2f2-46ef-80f7-5053083c879a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_Model_three_not_sum
 -- name    : GlobalTheory.HermLocal.Model.three_not_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:18:18.966416+00:00
 -- url     : https://prove2.me/theorems/079634fb-70c0-45c4-aa3c-6537876c025c

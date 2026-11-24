@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheaf_IntegralCoeff_isIntegral_det_of_aeval
 -- name    : GlobalTheory.NormSheaf.IntegralCoeff.isIntegral_det_of_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:42:06.358373+00:00
 -- url     : https://prove2.me/theorems/02178649-c4d9-468b-b9ec-c43dce379c77

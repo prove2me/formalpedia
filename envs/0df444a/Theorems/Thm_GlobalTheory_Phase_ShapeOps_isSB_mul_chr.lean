@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ShapeOps_isSB_mul_chr
 -- name    : GlobalTheory.Phase.ShapeOps.isSB_mul_chr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:44:58.987434+00:00
 -- url     : https://prove2.me/theorems/0c0a1e40-19a7-42c2-822b-9a69d823ae2f

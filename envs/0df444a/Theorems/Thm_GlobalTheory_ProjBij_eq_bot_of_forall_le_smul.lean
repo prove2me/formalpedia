@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjBij_eq_bot_of_forall_le_smul
 -- name    : GlobalTheory.ProjBij.eq_bot_of_forall_le_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:55:46.774734+00:00
 -- url     : https://prove2.me/theorems/f41a6779-7756-45db-addb-7484f14807a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_eps_cont
 -- name    : GlobalTheory.LocalInv.eps_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:23:34.8387+00:00
 -- url     : https://prove2.me/theorems/d06521fd-3d66-4bf6-aa14-8bb9b226f80e

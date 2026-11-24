@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolModLattice_exists_inv
 -- name    : GlobalTheory.PolModLattice.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:50:19.982632+00:00
 -- url     : https://prove2.me/theorems/d668de97-f657-470a-8d1d-47a01858f335

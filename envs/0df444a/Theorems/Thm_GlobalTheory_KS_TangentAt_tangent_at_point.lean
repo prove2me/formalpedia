@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_TangentAt_tangent_at_point
 -- name    : GlobalTheory.KS.TangentAt.tangent_at_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:45:48.198111+00:00
 -- url     : https://prove2.me/theorems/8a156771-cac6-4798-8a69-cac5a175909b

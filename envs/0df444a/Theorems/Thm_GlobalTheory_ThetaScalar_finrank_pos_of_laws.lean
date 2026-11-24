@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_finrank_pos_of_laws
 -- name    : GlobalTheory.ThetaScalar.finrank_pos_of_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:52.001817+00:00
 -- url     : https://prove2.me/theorems/e5e4261b-92a3-4003-b6ed-a25b3604902a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonUnitShift_exists_not_isUnit_sub
 -- name    : GlobalTheory.NonUnitShift.exists_not_isUnit_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:55.967252+00:00
 -- url     : https://prove2.me/theorems/0fa254d6-67e7-4633-a7ad-22439a92023c

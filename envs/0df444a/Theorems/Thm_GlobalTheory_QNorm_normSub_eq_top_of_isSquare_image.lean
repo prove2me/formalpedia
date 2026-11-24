@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_normSub_eq_top_of_isSquare_image
 -- name    : GlobalTheory.QNorm.normSub_eq_top_of_isSquare_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:03:26.877322+00:00
 -- url     : https://prove2.me/theorems/3ff1b409-7ee9-4d20-b81d-f2e609287f34

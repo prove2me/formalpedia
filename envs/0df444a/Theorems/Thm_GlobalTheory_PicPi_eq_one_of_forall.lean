@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PicPi_eq_one_of_forall
 -- name    : GlobalTheory.PicPi.eq_one_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:32.958939+00:00
 -- url     : https://prove2.me/theorems/59113ca2-9bb0-4dd3-95ea-e4f82ddb7260

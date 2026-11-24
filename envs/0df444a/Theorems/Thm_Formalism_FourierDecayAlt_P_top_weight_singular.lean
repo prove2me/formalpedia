@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_top_weight_singular
 -- name    : Formalism.FourierDecayAlt.P.top_weight_singular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:17:53.124599+00:00
 -- url     : https://prove2.me/theorems/48ecd9dd-ec54-4c04-aad7-0b35ab79b989

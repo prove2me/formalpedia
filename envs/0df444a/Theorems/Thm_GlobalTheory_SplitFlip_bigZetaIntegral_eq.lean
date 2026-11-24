@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_bigZetaIntegral_eq
 -- name    : GlobalTheory.SplitFlip.bigZetaIntegral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:29:42.029863+00:00
 -- url     : https://prove2.me/theorems/25114d93-44e0-4a6c-9f16-d9666d3a969d

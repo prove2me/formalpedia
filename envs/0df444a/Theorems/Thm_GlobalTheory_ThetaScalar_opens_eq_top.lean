@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_opens_eq_top
 -- name    : GlobalTheory.ThetaScalar.opens_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:08.146787+00:00
 -- url     : https://prove2.me/theorems/1fef30b7-bea3-4eb0-a555-13923fa29595

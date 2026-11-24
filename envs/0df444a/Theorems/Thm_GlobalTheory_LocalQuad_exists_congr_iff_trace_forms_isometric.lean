@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_exists_congr_iff_trace_forms_isometric
 -- name    : GlobalTheory.LocalQuad.exists_congr_iff_trace_forms_isometric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:14:01.154826+00:00
 -- url     : https://prove2.me/theorems/ea4375c0-dc54-4e63-bf84-4ad6230da89d

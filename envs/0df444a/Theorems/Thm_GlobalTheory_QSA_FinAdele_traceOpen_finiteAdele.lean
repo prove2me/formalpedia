@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_FinAdele_traceOpen_finiteAdele
 -- name    : GlobalTheory.QSA.FinAdele.traceOpen_finiteAdele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:03:36.29542+00:00
 -- url     : https://prove2.me/theorems/6aeec57e-caa7-4d7d-93f6-41eca03f2fcd

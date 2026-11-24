@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Fub_Sys_good_sum
 -- name    : PositivityTheory.ThKG.Fub.Sys.good_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:44:09.423265+00:00
 -- url     : https://prove2.me/theorems/59669fd1-7afb-4a1c-a2e6-bf0d1cbc835d

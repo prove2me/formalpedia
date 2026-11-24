@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_PfB_congruenceTorsion
 -- name    : Formalism.HermitianLattices.StabilizerLevels.PfB.congruenceTorsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:14:28.510946+00:00
 -- url     : https://prove2.me/theorems/02edd8b5-74be-4a74-a0b1-b7b8b4db2192

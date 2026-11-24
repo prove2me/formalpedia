@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_baer_units
 -- name    : GlobalTheory.Published.SvN.baer_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:57:54.607696+00:00
 -- url     : https://prove2.me/theorems/b28bed4e-f71a-4df9-bdcf-506bb43fd2bd

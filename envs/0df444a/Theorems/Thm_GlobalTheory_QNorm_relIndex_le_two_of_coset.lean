@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_relIndex_le_two_of_coset
 -- name    : GlobalTheory.QNorm.relIndex_le_two_of_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:01:53.567955+00:00
 -- url     : https://prove2.me/theorems/d6807d37-8f4f-4fb5-9b4c-ab43e075364c

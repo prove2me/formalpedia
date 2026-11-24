@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyConnected_square_hom
 -- name    : GlobalTheory.geometricallyConnected_square_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:27:56.057774+00:00
 -- url     : https://prove2.me/theorems/f84380c3-08e1-4b25-abfd-42f84b1c60ac

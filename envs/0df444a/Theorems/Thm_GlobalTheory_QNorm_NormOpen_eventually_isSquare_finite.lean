@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_NormOpen_eventually_isSquare_finite
 -- name    : GlobalTheory.QNorm.NormOpen.eventually_isSquare_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:03:43.520429+00:00
 -- url     : https://prove2.me/theorems/fc5aaab1-1900-420f-82d3-606cff0d80f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_exists_primitiveRoot_pow
 -- name    : GlobalTheory.Published.exists_primitiveRoot_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:59:15.906798+00:00
 -- url     : https://prove2.me/theorems/042c232f-4b17-4ee4-9adc-1598755e8ec2

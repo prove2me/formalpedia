@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_card_lagr
 -- name    : PositivityTheory.ThK.LinAct.card_lagr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:39:24.885132+00:00
 -- url     : https://prove2.me/theorems/881863bb-1f75-42af-b861-b365acd97cd3

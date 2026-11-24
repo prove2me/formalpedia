@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_hasQ_iff_hasQExpansion_mk
 -- name    : GlobalTheory.QFam.hasQ_iff_hasQExpansion_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:59:49.998613+00:00
 -- url     : https://prove2.me/theorems/ecd67acf-7fb7-4e62-af4d-9b9fa924941e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_congr_diagonal_of_five
 -- name    : GlobalTheory.HermLocal.congr_diagonal_of_five
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:53:48.037016+00:00
 -- url     : https://prove2.me/theorems/ee0405c1-8528-4411-be38-665d116a2e8b

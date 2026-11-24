@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlacesOver_places_over_finset
 -- name    : GlobalTheory.PlacesOver.places_over_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:30:03.608043+00:00
 -- url     : https://prove2.me/theorems/41a8bfe7-3d5d-4d0a-b83e-29f52512250d

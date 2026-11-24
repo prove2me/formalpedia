@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_secM_equiv
 -- name    : GlobalTheory.MulSplit.secM_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:28:37.006679+00:00
 -- url     : https://prove2.me/theorems/9bf47bc7-b142-48ff-97d5-105d2d42883d

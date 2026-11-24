@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_comm_of_realMap
 -- name    : GlobalTheory.PeriodCoord.comm_of_realMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:13.685504+00:00
 -- url     : https://prove2.me/theorems/56fe4dc1-d26c-4b3f-9651-a7842d18a154

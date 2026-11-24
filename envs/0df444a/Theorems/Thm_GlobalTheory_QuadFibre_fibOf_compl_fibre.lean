@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFibre_fibOf_compl_fibre
 -- name    : GlobalTheory.QuadFibre.fibOf_compl_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:10:58.93383+00:00
 -- url     : https://prove2.me/theorems/75ae121c-be4e-4a17-bb2e-ad3ecef44d96

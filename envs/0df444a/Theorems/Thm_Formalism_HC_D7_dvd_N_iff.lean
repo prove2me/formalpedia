@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_dvd_N_iff
 -- name    : Formalism.HC.D7.dvd_N_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:40:46.273717+00:00
 -- url     : https://prove2.me/theorems/bdc97954-7e3b-436d-b333-21d07ac2f2e7

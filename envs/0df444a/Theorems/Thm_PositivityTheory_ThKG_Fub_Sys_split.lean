@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Fub_Sys_split
 -- name    : PositivityTheory.ThKG.Fub.Sys.split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:44:04.46635+00:00
 -- url     : https://prove2.me/theorems/90107c77-f324-410a-a716-a1105cc53f87

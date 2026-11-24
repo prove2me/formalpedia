@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_laurent_point_const
 -- name    : GlobalTheory.laurent_point_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:35:14.372052+00:00
 -- url     : https://prove2.me/theorems/c357de1f-2624-47f4-9515-a22a8d2dd002

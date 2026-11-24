@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicH2Separated_mem_coboundaries_of_forall_pow
 -- name    : GlobalTheory.PadicH2Separated.mem_coboundaries_of_forall_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:39:33.767816+00:00
 -- url     : https://prove2.me/theorems/96dfa581-fb51-4717-ba84-58524b088894

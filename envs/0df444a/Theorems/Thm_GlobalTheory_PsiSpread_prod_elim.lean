@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiSpread_prod_elim
 -- name    : GlobalTheory.PsiSpread.prod_elim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:57:26.013538+00:00
 -- url     : https://prove2.me/theorems/d1294245-5802-4134-a881-e8dea0f700be

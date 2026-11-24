@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LLeft_abel_three
 -- name    : GlobalTheory.LLeft.abel_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:55:56.714244+00:00
 -- url     : https://prove2.me/theorems/7547d4e6-c7c6-4861-9d47-bc7340d86ba8

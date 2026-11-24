@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodLift_period_lift
 -- name    : GlobalTheory.PeriodLift.period_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:41:56.343519+00:00
 -- url     : https://prove2.me/theorems/9904ce3c-6ee5-4f23-98ad-6ce1771e1dbb

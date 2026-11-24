@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticValuationIndexTwo_exists_mul_conj_iff
 -- name    : GlobalTheory.QuadraticValuationIndexTwo.exists_mul_conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:15:44.414705+00:00
 -- url     : https://prove2.me/theorems/0c394b41-c1db-4955-b901-73b53c299330

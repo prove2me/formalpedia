@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjModFinIso_exists_equiv_pi
 -- name    : GlobalTheory.ProjModFinIso.exists_equiv_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:55:29.180535+00:00
 -- url     : https://prove2.me/theorems/9a9de0ec-9eae-488b-932a-4bae78e2c387

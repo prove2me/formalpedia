@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_logOf_add
 -- name    : GlobalTheory.FormalLog.logOf_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:00:59.562088+00:00
 -- url     : https://prove2.me/theorems/cf2f4e48-b5d4-463f-a478-6466ab8e2c7b

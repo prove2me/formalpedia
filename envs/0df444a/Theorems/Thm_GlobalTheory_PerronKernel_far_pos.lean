@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerronKernel_far_pos
 -- name    : GlobalTheory.PerronKernel.far_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:44:15.227204+00:00
 -- url     : https://prove2.me/theorems/7136e1b5-aab6-4a67-b8f6-69b7e1049b29

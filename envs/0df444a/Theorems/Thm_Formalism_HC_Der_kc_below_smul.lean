@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_below_smul
 -- name    : Formalism.HC.Der.kc_below_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:27:09.693304+00:00
 -- url     : https://prove2.me/theorems/c4b85860-b517-4cca-9088-07a89792019c

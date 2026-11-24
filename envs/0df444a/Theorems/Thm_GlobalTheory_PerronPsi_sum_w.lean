@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerronPsi_sum_w
 -- name    : GlobalTheory.PerronPsi.sum_w
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:38.040853+00:00
 -- url     : https://prove2.me/theorems/5ddc8100-4a91-4693-a446-c2b15eb00e58

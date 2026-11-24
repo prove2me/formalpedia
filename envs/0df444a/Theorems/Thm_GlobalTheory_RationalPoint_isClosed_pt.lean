@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalPoint_isClosed_pt
 -- name    : GlobalTheory.RationalPoint.isClosed_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:17:55.426829+00:00
 -- url     : https://prove2.me/theorems/1f5912e0-70fa-48d4-a935-b07e9e9d65b9

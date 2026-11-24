@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_IdealInvariantsOneOrbitSt_exists_algEquiv
 -- name    : GlobalTheory.Published.IdealInvariantsOneOrbitSt.exists_algEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:56:20.689468+00:00
 -- url     : https://prove2.me/theorems/de4dd5a3-e0b2-4f69-876e-6a60d307f6ff

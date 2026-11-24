@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_secVal_add
 -- name    : GlobalTheory.ThetaScalar.secVal_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:17.777528+00:00
 -- url     : https://prove2.me/theorems/fb148b7d-920f-457b-9e45-aa7037fdeda5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_LogLine_continuousOn_logPartial
 -- name    : GlobalTheory.Published.LogLine.continuousOn_logPartial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:56:42.278832+00:00
 -- url     : https://prove2.me/theorems/99ebd6e9-0ad2-487b-946c-3e25518fab6c

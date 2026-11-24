@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Split_volume_isAddHaar
 -- name    : PositivityTheory.ThKF0.Split.volume_isAddHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:50.580433+00:00
 -- url     : https://prove2.me/theorems/5d5dda21-c1a7-40b6-971e-a9811eecf9ea

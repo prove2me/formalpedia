@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuantumMinorAdjacentSwap_prod_ofFn_sum_smul
 -- name    : GlobalTheory.QuantumMinorAdjacentSwap.prod_ofFn_sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:12:39.548828+00:00
 -- url     : https://prove2.me/theorems/afa31965-7d0f-4f41-9e3a-681db96ac073

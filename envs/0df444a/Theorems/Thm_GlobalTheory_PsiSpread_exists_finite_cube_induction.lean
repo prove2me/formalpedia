@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiSpread_exists_finite_cube_induction
 -- name    : GlobalTheory.PsiSpread.exists_finite_cube_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:57:37.529798+00:00
 -- url     : https://prove2.me/theorems/9df420a1-6300-4441-8b67-9178d4d63e88

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericHom_point_comp_mul
 -- name    : GlobalTheory.GenericHom.point_comp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:32.546609+00:00
 -- url     : https://prove2.me/theorems/5ea897e2-4135-4a34-8c6e-8a2837834bac

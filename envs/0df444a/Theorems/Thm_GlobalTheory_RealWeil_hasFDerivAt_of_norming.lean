@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_hasFDerivAt_of_norming
 -- name    : GlobalTheory.RealWeil.hasFDerivAt_of_norming
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:16:32.4418+00:00
 -- url     : https://prove2.me/theorems/68aed3de-8c24-4f8a-9e00-3ab7d810cfaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_level_one_eq_embedding
 -- name    : Formalism.FourierDecayAlt.P.Qx4.level_one_eq_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:21:23.718995+00:00
 -- url     : https://prove2.me/theorems/15933beb-14aa-4cd9-88c9-8120a9fb9215

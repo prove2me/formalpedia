@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushInv_exists_secOn_pull_germ
 -- name    : GlobalTheory.PushInv.exists_secOn_pull_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:58:28.281153+00:00
 -- url     : https://prove2.me/theorems/29cad302-cfae-4f9c-91e8-25e89f0554f1

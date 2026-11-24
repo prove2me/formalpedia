@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_average
 -- name    : GlobalTheory.Published.SvN.average
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:56:16.111801+00:00
 -- url     : https://prove2.me/theorems/e35c7350-548a-4316-aeb0-2845676744c6

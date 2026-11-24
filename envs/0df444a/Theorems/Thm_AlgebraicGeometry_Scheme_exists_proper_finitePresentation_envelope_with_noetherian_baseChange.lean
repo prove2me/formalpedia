@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_proper_finitePresentation_envelope_with_noetherian_baseChange
 -- name    : AlgebraicGeometry.Scheme.exists_proper_finitePresentation_envelope_with_noetherian_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T19:49:50.610219+00:00
 -- url     : https://prove2.me/theorems/2f68adc4-3425-434d-a36b-82968956fe72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_hilbertEisensteinLatticeSummand_weightTwo_bound_bound
 -- name    : GlobalTheory.Proof.hilbertEisensteinLatticeSummand_weightTwo_bound.bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:57:06.617426+00:00
 -- url     : https://prove2.me/theorems/1ac7168f-a0f9-4f8b-ad08-4c3ccad2493b

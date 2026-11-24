@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_Alt_perp_perp_perp
 -- name    : GlobalTheory.Published.SvN.Alt.perp_perp_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:56:42.654806+00:00
 -- url     : https://prove2.me/theorems/6f59eb91-140c-43e6-9473-5da17315540f

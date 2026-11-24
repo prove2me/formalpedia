@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_lift_latInd
 -- name    : GlobalTheory.LastSteps.lift_latInd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:35.274014+00:00
 -- url     : https://prove2.me/theorems/46e54a49-b8ca-424b-83a5-57c68739f3de

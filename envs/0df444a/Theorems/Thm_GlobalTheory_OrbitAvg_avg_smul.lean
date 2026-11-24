@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitAvg_avg_smul
 -- name    : GlobalTheory.OrbitAvg.avg_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:33:19.816493+00:00
 -- url     : https://prove2.me/theorems/7f0c2674-c969-48ad-9c50-8262246bac5e

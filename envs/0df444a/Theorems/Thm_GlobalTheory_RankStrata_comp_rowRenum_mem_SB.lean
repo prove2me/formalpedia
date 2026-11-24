@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankStrata_comp_rowRenum_mem_SB
 -- name    : GlobalTheory.RankStrata.comp_rowRenum_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:14:40.759339+00:00
 -- url     : https://prove2.me/theorems/79609ef1-a2bb-4ecd-9f9e-5e7c498a5ffa

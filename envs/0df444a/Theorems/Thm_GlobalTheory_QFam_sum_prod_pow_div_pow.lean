@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_sum_prod_pow_div_pow
 -- name    : GlobalTheory.QFam.sum_prod_pow_div_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:00:55.330583+00:00
 -- url     : https://prove2.me/theorems/1bec651e-8c75-4584-8df4-f07beb1e022a

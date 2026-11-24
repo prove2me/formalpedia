@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LinCount_card_lin
 -- name    : GlobalTheory.PMonE.LinCount.card_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:38:44.15026+00:00
 -- url     : https://prove2.me/theorems/5fdf1200-fcc8-4ab4-aa48-e5ffa7e89380

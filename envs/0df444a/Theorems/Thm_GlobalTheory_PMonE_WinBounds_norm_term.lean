@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_WinBounds_norm_term
 -- name    : GlobalTheory.PMonE.WinBounds.norm_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:38:35.391858+00:00
 -- url     : https://prove2.me/theorems/828dc573-4426-4d73-829f-4d1078920d24

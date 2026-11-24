@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeMeanValue_orth
 -- name    : GlobalTheory.PrimeMeanValue.orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:34:16.657929+00:00
 -- url     : https://prove2.me/theorems/1e513264-e637-4922-bb77-748a00a0af0c

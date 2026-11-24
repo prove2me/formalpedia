@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_discr_eq
 -- name    : GlobalTheory.QuadraticZeta.discr_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:12:14.270808+00:00
 -- url     : https://prove2.me/theorems/51cf1f97-f3df-431e-b371-bcb41b82f1d4

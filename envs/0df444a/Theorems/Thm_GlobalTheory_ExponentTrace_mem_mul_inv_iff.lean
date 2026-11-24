@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExponentTrace_mem_mul_inv_iff
 -- name    : GlobalTheory.ExponentTrace.mem_mul_inv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:36:20.926107+00:00
 -- url     : https://prove2.me/theorems/826cbe75-ce24-44c1-a570-0ea81bdee723

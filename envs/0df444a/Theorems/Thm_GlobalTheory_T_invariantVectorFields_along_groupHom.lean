@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariantVectorFields_along_groupHom
 -- name    : GlobalTheory.T.invariantVectorFields_along_groupHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:01:39.969659+00:00
 -- url     : https://prove2.me/theorems/78e8177d-1d3d-44c6-9a0a-dfcdedfd6355

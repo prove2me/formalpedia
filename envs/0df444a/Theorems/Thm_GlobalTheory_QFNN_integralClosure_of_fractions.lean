@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFNN_integralClosure_of_fractions
 -- name    : GlobalTheory.QFNN.integralClosure_of_fractions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:58:48.835187+00:00
 -- url     : https://prove2.me/theorems/08e4402d-0b29-4170-9a7e-69fd3de6ba3d

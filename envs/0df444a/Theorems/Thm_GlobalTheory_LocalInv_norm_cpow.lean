@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_norm_cpow
 -- name    : GlobalTheory.LocalInv.norm_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:23:11.897138+00:00
 -- url     : https://prove2.me/theorems/122c1bd4-9063-4087-8939-9cbcb84c9116

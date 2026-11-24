@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnif_exists_letter_equiv
 -- name    : GlobalTheory.FrameUnif.exists_letter_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:36:01.226366+00:00
 -- url     : https://prove2.me/theorems/ee00b84e-aec9-4589-ad98-ff85108f1516

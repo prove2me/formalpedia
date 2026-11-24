@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_eq_ker_of_mem
 -- name    : GlobalTheory.QuadraticZeta.eq_ker_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:12:41.431401+00:00
 -- url     : https://prove2.me/theorems/c82e0d77-0c93-480a-837d-3a5f4bbf7561

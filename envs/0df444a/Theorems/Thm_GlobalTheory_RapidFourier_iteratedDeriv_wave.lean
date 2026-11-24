@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RapidFourier_iteratedDeriv_wave
 -- name    : GlobalTheory.RapidFourier.iteratedDeriv_wave
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:14:03.835058+00:00
 -- url     : https://prove2.me/theorems/b70bbfe2-1736-48c6-abde-9cb94b6a34f3

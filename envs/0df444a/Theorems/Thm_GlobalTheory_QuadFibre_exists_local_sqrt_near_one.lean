@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFibre_exists_local_sqrt_near_one
 -- name    : GlobalTheory.QuadFibre.exists_local_sqrt_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:10:53.952274+00:00
 -- url     : https://prove2.me/theorems/84ecc317-441b-4b4e-903b-da3457bcf8d8

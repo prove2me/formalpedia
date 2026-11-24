@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_LogLine_offDivisor_mono
 -- name    : GlobalTheory.Published.LogLine.offDivisor_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:56:28.879834+00:00
 -- url     : https://prove2.me/theorems/6204758c-aff3-4f02-a6e6-e8315c0c820e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_val_sub_mul_lt_one
 -- name    : GlobalTheory.QNorm.exists_val_sub_mul_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:02:41.431505+00:00
 -- url     : https://prove2.me/theorems/f18c854b-49fa-46d8-8a13-46bfe794b24c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_mem_basicOpen_of_compatible
 -- name    : GlobalTheory.PrimeSection.mem_basicOpen_of_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:28:26.237471+00:00
 -- url     : https://prove2.me/theorems/dc3447cf-4613-422d-987e-58b8c42ed7da

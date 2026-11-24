@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_mem_sqs_sUnits_iff_isSquare
 -- name    : GlobalTheory.QNorm.mem_sqs_sUnits_iff_isSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:08:23.936273+00:00
 -- url     : https://prove2.me/theorems/ecd3f9ad-bcd6-4363-8faf-ed4bc969c929

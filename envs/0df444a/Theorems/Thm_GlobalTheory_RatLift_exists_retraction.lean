@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RatLift_exists_retraction
 -- name    : GlobalTheory.RatLift.exists_retraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:14:44.623386+00:00
 -- url     : https://prove2.me/theorems/16e6d1a0-21c6-4fba-bb2a-e79209a2983a

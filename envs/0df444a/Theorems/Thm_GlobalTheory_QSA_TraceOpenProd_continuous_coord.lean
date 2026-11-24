@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_TraceOpenProd_continuous_coord
 -- name    : GlobalTheory.QSA.TraceOpenProd.continuous_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:03:41.467311+00:00
 -- url     : https://prove2.me/theorems/f790b33d-ed56-4422-9603-5311fc6edecf

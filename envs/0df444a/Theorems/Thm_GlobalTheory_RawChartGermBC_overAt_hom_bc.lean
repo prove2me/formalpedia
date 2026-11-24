@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartGermBC_overAt_hom_bc
 -- name    : GlobalTheory.RawChartGermBC.overAt_hom_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:16:06.473072+00:00
 -- url     : https://prove2.me/theorems/71df312d-cc53-4fdf-861a-81136dab124d

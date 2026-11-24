@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowChange_exists_block_basis
 -- name    : GlobalTheory.PowChange.exists_block_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:51:34.274109+00:00
 -- url     : https://prove2.me/theorems/ea7a57b2-7a17-4b3c-9d42-5d53a327c2a9

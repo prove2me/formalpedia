@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_index_double_prod
 -- name    : GlobalTheory.QNorm.index_double_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:02:07.88362+00:00
 -- url     : https://prove2.me/theorems/1c116e73-8ca3-473f-bc70-2d2a2a79bb5d

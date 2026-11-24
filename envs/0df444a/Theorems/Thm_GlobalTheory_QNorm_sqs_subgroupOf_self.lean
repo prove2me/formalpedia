@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_sqs_subgroupOf_self
 -- name    : GlobalTheory.QNorm.sqs_subgroupOf_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:03:22.036777+00:00
 -- url     : https://prove2.me/theorems/c8b3f8a7-b825-4205-937a-39d44854d646

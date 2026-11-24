@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_isSquare_mul_infinite
 -- name    : GlobalTheory.QuadSymbol.NormIndex.isSquare_mul_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:13:03.325796+00:00
 -- url     : https://prove2.me/theorems/d6d1c9f4-6811-42c7-a7de-4184a865dc1d

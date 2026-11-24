@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormUnits_norm_onto_units
 -- name    : GlobalTheory.NormUnits.norm_onto_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:36:11.815806+00:00
 -- url     : https://prove2.me/theorems/2eebdc61-c9bd-4f3d-9496-519c6bd52c52

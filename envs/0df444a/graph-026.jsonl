@@ -55685,7 +55685,7 @@
 {"parent": "RevRedSAT.lemma_6_6", "child": "RevRedSAT_IsHSCode", "via": ["statement"]}
 {"parent": "RevRedSAT.lemma_6_6", "child": "RevRedSAT_FiniteAlphabets", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U36.entry4_0_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
-{"parent": "StableCountSub3.lemma_3_8", "child": "StableCountSub3_Cones", "via": ["statement"]}
+{"parent": "StableCountSub3.lemma_3_8", "child": "StableCountSub3_Cones", "via": ["solution", "statement"]}
 {"parent": "EdgeSublinearMWIS.Main.signed_preprocessing", "child": "EdgeSublinearMWIS_Main_AlgorithmContracts", "via": ["solution", "statement"]}
 {"parent": "OAI.InitialMeanSquare.initial_harmonic_aggregation", "child": "OAI_NumberTheory_DirichletL_CubicSieve_RadialWindows", "via": ["solution", "statement"]}
 {"parent": "OAI.InitialMeanSquare.initial_harmonic_aggregation", "child": "OAI_NumberTheory_DirichletL_MeanSquare_HarmonicAggregation", "via": ["solution", "statement"]}
@@ -55788,8 +55788,8 @@
 {"parent": "OAI.CompletedGauss.finite_integral_energy_bound", "child": "OAI_NumberTheory_DirichletL_Eisenstein_DirichletForm", "via": ["solution", "statement"]}
 {"parent": "OAI.CompletedGauss.finite_integral_energy_bound", "child": "OAI_NumberTheory_DirichletL_GaussSum_ReflectedBranches", "via": ["solution", "statement"]}
 {"parent": "KnownFidelity_Rank_traceDist", "child": "WildeQIT_traceNorm", "via": ["statement"]}
-{"parent": "ChaChaTree.DynOpt.lemma_12", "child": "ChaChaTree_DynOpt_Instance", "via": ["statement"]}
-{"parent": "ChaChaTree.DynOpt.lemma_12", "child": "ChaChaTree_DynOpt_Rectangles", "via": ["statement"]}
+{"parent": "ChaChaTree.DynOpt.lemma_12", "child": "ChaChaTree_DynOpt_Instance", "via": ["solution", "statement"]}
+{"parent": "ChaChaTree.DynOpt.lemma_12", "child": "ChaChaTree_DynOpt_Rectangles", "via": ["solution", "statement"]}
 {"parent": "HypercliqueCircuits.Circuits.theorem_6", "child": "HypercliqueCircuits_Circuits_Machine", "via": ["statement"]}
 {"parent": "HypercliqueCircuits.Circuits.theorem_6", "child": "HypercliqueCircuits_Circuits_Transpose", "via": ["statement"]}
 {"parent": "HighPrecSAC1.Main.lemma_2_5", "child": "HighPrecSAC1_Main_Refinement", "via": ["statement"]}

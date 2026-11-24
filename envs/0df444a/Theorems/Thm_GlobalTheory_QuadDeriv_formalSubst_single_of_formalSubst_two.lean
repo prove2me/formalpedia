@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_formalSubst_single_of_formalSubst_two
 -- name    : GlobalTheory.QuadDeriv.formalSubst_single_of_formalSubst_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:04:29.562399+00:00
 -- url     : https://prove2.me/theorems/f614f4ee-775a-410d-8006-bb5c5c2ab164

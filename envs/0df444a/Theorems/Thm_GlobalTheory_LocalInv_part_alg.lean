@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_part_alg
 -- name    : GlobalTheory.LocalInv.part_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:24:55.47197+00:00
 -- url     : https://prove2.me/theorems/55b8f50f-7726-4d53-b058-2746945ca229

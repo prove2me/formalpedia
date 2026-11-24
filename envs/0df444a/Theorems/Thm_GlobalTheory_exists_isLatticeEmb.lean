@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isLatticeEmb
 -- name    : GlobalTheory.exists_isLatticeEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:53:19.778863+00:00
 -- url     : https://prove2.me/theorems/553b041f-92cd-4f38-9235-036141af7771

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_TernaryResidue_exists_ne_zero_sum_eq_zero
 -- name    : GlobalTheory.LocalQuad.TernaryResidue.exists_ne_zero_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:08:43.858366+00:00
 -- url     : https://prove2.me/theorems/f34bcd27-67a8-44aa-bde2-6fcb6dc3dc23

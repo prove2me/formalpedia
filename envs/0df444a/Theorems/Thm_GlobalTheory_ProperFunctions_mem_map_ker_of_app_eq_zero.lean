@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_mem_map_ker_of_app_eq_zero
 -- name    : GlobalTheory.ProperFunctions.mem_map_ker_of_app_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:41.192031+00:00
 -- url     : https://prove2.me/theorems/04ee8f19-664b-4f06-9c50-56c147917a7c

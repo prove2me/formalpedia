@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_IsFam_esymm_slash
 -- name    : GlobalTheory.QFam.IsFam.esymm_slash
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:01:26.930214+00:00
 -- url     : https://prove2.me/theorems/ea6c943d-3e0e-47e9-b7fe-4cf923ae6e0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_res_appLE
 -- name    : GlobalTheory.PrimeSection.res_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:43:10.201026+00:00
 -- url     : https://prove2.me/theorems/8a96d94e-2229-4f1c-ba57-434defb91658

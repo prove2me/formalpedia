@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalIntegralCoordinates_int_of_prime_mul_sq
 -- name    : GlobalTheory.RationalIntegralCoordinates.int_of_prime_mul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:14:58.590392+00:00
 -- url     : https://prove2.me/theorems/769ef7bb-aac1-4144-ace6-6a72e6ac9f27

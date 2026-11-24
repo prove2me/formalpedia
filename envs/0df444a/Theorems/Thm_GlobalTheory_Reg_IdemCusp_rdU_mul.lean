@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_IdemCusp_rdU_mul
 -- name    : GlobalTheory.Reg.IdemCusp.rdU_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:19:49.313993+00:00
 -- url     : https://prove2.me/theorems/a31f35a3-eeeb-4e06-837d-c4f3e401208d

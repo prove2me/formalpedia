@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalPoint_isConstructible_image_of_isClosed
 -- name    : GlobalTheory.RationalPoint.isConstructible_image_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:15:10.786462+00:00
 -- url     : https://prove2.me/theorems/659ec216-a7de-48dc-a009-10d461baec56

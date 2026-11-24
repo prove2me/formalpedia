@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartGermBC_map_psTrunc
 -- name    : GlobalTheory.RawChartGermBC.map_psTrunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:16:15.949917+00:00
 -- url     : https://prove2.me/theorems/e3bad12a-8737-4b60-bf30-bffedc02b52b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_eq_one_of_mem_slice_of_mul_mem_slice
 -- name    : GlobalTheory.RankFibreKer.eq_one_of_mem_slice_of_mul_mem_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:15:10.629227+00:00
 -- url     : https://prove2.me/theorems/58d03ffc-7274-4f8e-9177-f7e6fc1bd336

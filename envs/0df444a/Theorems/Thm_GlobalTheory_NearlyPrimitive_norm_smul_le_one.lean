@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearlyPrimitive_norm_smul_le_one
 -- name    : GlobalTheory.NearlyPrimitive.norm_smul_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:33:34.274809+00:00
 -- url     : https://prove2.me/theorems/907e0afd-9e53-4997-82a0-32f737075c6e

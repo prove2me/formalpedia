@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClopenIdealSheaf_map_comap_localization
 -- name    : GlobalTheory.ClopenIdealSheaf.map_comap_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:21.398882+00:00
 -- url     : https://prove2.me/theorems/49bebad3-fcff-4f82-a1f3-7d4b73faad34

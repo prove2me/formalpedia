@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Heisenberg_mul_ne_mul
 -- name    : GlobalTheory.Published.Heisenberg.mul_ne_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:57:11.031634+00:00
 -- url     : https://prove2.me/theorems/2194e39d-eae1-4e0a-9139-8ba087f05802

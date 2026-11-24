@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalIntegralCoordinates_exists_coords
 -- name    : GlobalTheory.RationalIntegralCoordinates.exists_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:14:50.293922+00:00
 -- url     : https://prove2.me/theorems/63813fe6-3cb5-46eb-b2aa-ac85a5f4eb1b

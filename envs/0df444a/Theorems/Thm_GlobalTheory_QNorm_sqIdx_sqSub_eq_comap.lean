@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_sqIdx_sqSub_eq_comap
 -- name    : GlobalTheory.QNorm.sqIdx_sqSub_eq_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:04:23.023278+00:00
 -- url     : https://prove2.me/theorems/b73fd9e2-d9db-49dc-8304-b57b91df6a59

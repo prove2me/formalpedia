@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjModFinIso_finrank_ideal
 -- name    : GlobalTheory.ProjModFinIso.finrank_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:54:56.342951+00:00
 -- url     : https://prove2.me/theorems/1ae12f53-d84d-4bb8-97a2-dc9ad503fffb

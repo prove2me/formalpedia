@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFiber_coe_toIdeal
 -- name    : GlobalTheory.QFiber.coe_toIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:02:30.661806+00:00
 -- url     : https://prove2.me/theorems/010280ec-7bca-41a5-9aa5-c91d07fd13d6

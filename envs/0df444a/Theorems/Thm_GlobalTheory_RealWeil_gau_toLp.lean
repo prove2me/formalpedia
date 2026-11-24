@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_gau_toLp
 -- name    : GlobalTheory.RealWeil.gau_toLp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:16:06.755832+00:00
 -- url     : https://prove2.me/theorems/481cd4f1-26a7-4f50-8cc6-26ea77843983

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_map_FI
 -- name    : Formalism.HC.HostRaw.map_FI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:25:19.94816+00:00
 -- url     : https://prove2.me/theorems/4abd85da-bc7c-4758-9d74-97e60610bf5a

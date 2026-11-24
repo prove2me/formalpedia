@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_first_row
 -- name    : GlobalTheory.CompanionTheory.InertSpan.first_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:03:39.781803+00:00
 -- url     : https://prove2.me/theorems/1a977fb2-3b80-4109-9161-16747976d8b3

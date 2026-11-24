@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_tw_mul
 -- name    : GlobalTheory.RankFibreKer.tw_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:14:08.344265+00:00
 -- url     : https://prove2.me/theorems/21671c0f-c269-4b6e-920c-15895708a1b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_Model_conjSqrt_ne_one
 -- name    : GlobalTheory.HermLocal.Model.conjSqrt_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:15.37383+00:00
 -- url     : https://prove2.me/theorems/7d1649bf-3dec-4c0d-a1a9-9c0d5e9cd240

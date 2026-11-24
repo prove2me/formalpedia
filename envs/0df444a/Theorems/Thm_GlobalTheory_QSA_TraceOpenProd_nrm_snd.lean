@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_TraceOpenProd_nrm_snd
 -- name    : GlobalTheory.QSA.TraceOpenProd.nrm_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:03:24.1558+00:00
 -- url     : https://prove2.me/theorems/e6c5f13c-cbc0-4dc5-87bc-e4776f19a75e

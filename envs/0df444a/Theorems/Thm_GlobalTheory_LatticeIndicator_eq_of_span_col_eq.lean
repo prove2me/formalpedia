@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIndicator_eq_of_span_col_eq
 -- name    : GlobalTheory.LatticeIndicator.eq_of_span_col_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:59:55.318037+00:00
 -- url     : https://prove2.me/theorems/649caffb-9b28-4072-9e51-b24d796873d4

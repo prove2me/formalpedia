@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_mem_adjoin_sqrtNegNat_iff
 -- name    : GlobalTheory.Published.mem_adjoin_sqrtNegNat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:58:50.792803+00:00
 -- url     : https://prove2.me/theorems/3ecce6d2-bdb5-46d0-aa34-ecae657e529c

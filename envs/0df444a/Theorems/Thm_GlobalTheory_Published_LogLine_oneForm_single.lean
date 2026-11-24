@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_LogLine_oneForm_single
 -- name    : GlobalTheory.Published.LogLine.oneForm_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:56:17.903998+00:00
 -- url     : https://prove2.me/theorems/bf84d088-b9ed-458b-8d02-9312b8cf495f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_gau_ne_zero
 -- name    : GlobalTheory.RealWeil.gau_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:16:30.896677+00:00
 -- url     : https://prove2.me/theorems/db7b5013-d99a-43af-ad62-bec73d5c3207

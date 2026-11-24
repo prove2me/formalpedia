@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GoodHeight_exists_bound_right
 -- name    : GlobalTheory.GoodHeight.exists_bound_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:57:08.659953+00:00
 -- url     : https://prove2.me/theorems/8af66778-e8d5-4aae-8ea0-8f0e8d1b5aba

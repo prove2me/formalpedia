@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankBundle_sec_compat
 -- name    : GlobalTheory.RankBundle.sec_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:14:02.0212+00:00
 -- url     : https://prove2.me/theorems/3c4bac2b-8384-429a-a78b-b70d8e18187c

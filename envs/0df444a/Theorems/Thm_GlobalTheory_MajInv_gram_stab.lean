@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajInv_gram_stab
 -- name    : GlobalTheory.MajInv.gram_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:22:29.893789+00:00
 -- url     : https://prove2.me/theorems/2d6e0182-98c6-4f7a-8938-8145b9067335

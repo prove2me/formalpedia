@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_dilGL_transpose_mul
 -- name    : GlobalTheory.RankChart.dilGL_transpose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:14:11.942153+00:00
 -- url     : https://prove2.me/theorems/47e8fe58-2a7e-4f6a-9821-10583e1ab96c

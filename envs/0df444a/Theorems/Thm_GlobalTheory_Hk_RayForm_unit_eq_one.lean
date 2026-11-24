@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayForm_unit_eq_one
 -- name    : GlobalTheory.Hk.RayForm.unit_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:35:06.470807+00:00
 -- url     : https://prove2.me/theorems/a3ddad88-7cb2-4530-8187-ad6e7f16014b

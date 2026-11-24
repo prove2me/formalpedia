@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_d4
 -- name    : Formalism.HC.D7.d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:41:20.159457+00:00
 -- url     : https://prove2.me/theorems/16773ee8-04aa-4516-8bc1-48db83720bc9

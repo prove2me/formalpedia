@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_eq_of_isFirstMax_of_isFirstMax
 -- name    : GlobalTheory.RankFibreKer.eq_of_isFirstMax_of_isFirstMax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:14:01.260239+00:00
 -- url     : https://prove2.me/theorems/0e2eafe3-52a1-4a34-840d-29d36de3f08d

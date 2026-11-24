@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QcSub_subIncl_injective
 -- name    : GlobalTheory.QcSub.subIncl_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:03:12.387802+00:00
 -- url     : https://prove2.me/theorems/c2089ef9-41a5-4d0c-8679-38bb40c66cf1

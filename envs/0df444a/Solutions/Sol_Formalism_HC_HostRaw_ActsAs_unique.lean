@@ -1,0 +1,48 @@
+-- Prove2me | solution 1 for Formalism.HC.HostRaw.ActsAs.unique
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T19:47:41.520366+00:00
+-- url     : https://prove2.me/submissions/41234f0b-83b6-44f2-87f0-d7bac2ae79cb
+
+import Definitions.Def_Formalism_LocalToGlobal_UnitaryNorms_PowValCast
+import Definitions.Def_Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_HostFacts
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_EqZeroOfNegEq
+import Definitions.Def_Formalism_LocalToGlobal_UnitaryNorms_AdjoinCycZeta
+import Theorems.Thm_Formalism_HC_HostRaw_jOf_coe
+import Theorems.Thm_Formalism_FrobeniusOrbits_galEquiv_apply
+import Theorems.Thm_Formalism_HC_Frame_iotaInv_iota
+import Theorems.Thm_Formalism_HC_Frame_iota_iotaInv
+import Theorems.Thm_Formalism_L2_Host_jOf_coe
+import Theorems.Thm_Formalism_L2_Host_restr_apply
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] Formalism.FrobeniusOrbits.galEquiv_apply
+attribute [local simp] Formalism.HC.Frame.iotaInv_iota
+attribute [local simp] Formalism.HC.Frame.iota_iotaInv
+attribute [local simp] Formalism.L2.Host.jOf_coe
+attribute [local simp] Formalism.L2.Host.restr_apply
+
+
+attribute [local simp] Formalism.HC.HostRaw.jOf_coe
+
+set_option autoImplicit false
+noncomputable section
+open IntermediateField NumberField
+open Formalism Formalism.HC Formalism.HC.HostRaw
+open Formalism.FrobeniusOrbits Formalism.L2.Host
+variable {φ : Frame} (H : HostRaw φ)
+variable {H}
+namespace Formalism.HC.HostRaw
+namespace ActsAs
+theorem _root_.solution {s s' : H.EQ →ₐ[ℚ] Qb} {g : φ.GG} (h : H.ActsAs s g) (h' : H.ActsAs s' g) : s = s' := by
+  obtain ⟨j⟩ := H.nonempty_emb
+  ext y
+  obtain ⟨x, rfl⟩ := (H.jOf j).surjective y
+  exact (h j x).trans (h' j x).symm
+end ActsAs
+end Formalism.HC.HostRaw

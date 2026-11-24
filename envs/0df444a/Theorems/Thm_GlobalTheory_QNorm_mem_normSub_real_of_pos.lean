@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_mem_normSub_real_of_pos
 -- name    : GlobalTheory.QNorm.mem_normSub_real_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:02:19.206617+00:00
 -- url     : https://prove2.me/theorems/dfaef301-39b5-4511-aeb9-4ba767bcf554

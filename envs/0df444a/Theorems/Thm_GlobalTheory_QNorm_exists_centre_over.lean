@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_centre_over
 -- name    : GlobalTheory.QNorm.exists_centre_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:02:23.116818+00:00
 -- url     : https://prove2.me/theorems/612a5b04-7ec1-4bec-8671-1f68cc629528

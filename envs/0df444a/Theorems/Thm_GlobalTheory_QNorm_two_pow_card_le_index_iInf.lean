@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_two_pow_card_le_index_iInf
 -- name    : GlobalTheory.QNorm.two_pow_card_le_index_iInf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:03:20.515409+00:00
 -- url     : https://prove2.me/theorems/f2de594f-b4b8-4e5b-be69-8860f70961eb

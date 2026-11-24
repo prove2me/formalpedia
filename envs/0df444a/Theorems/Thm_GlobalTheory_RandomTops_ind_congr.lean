@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_ind_congr
 -- name    : GlobalTheory.RandomTops.ind_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:14:21.315457+00:00
 -- url     : https://prove2.me/theorems/4516300d-6982-4e21-b004-72b92202065f

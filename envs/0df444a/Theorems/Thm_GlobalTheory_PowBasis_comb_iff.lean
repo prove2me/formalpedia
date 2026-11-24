@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowBasis_comb_iff
 -- name    : GlobalTheory.PowBasis.comb_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:51:21.25177+00:00
 -- url     : https://prove2.me/theorems/916ba551-7c97-4eee-a5bd-3dc195717c32

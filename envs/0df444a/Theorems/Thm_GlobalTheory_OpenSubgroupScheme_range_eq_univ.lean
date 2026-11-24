@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenSubgroupScheme_range_eq_univ
 -- name    : GlobalTheory.OpenSubgroupScheme.range_eq_univ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:57:16.52918+00:00
 -- url     : https://prove2.me/theorems/10482c78-b93f-40d9-92b5-234fab9a69a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_index_sqSub_real_dvd_two
 -- name    : GlobalTheory.QNorm.index_sqSub_real_dvd_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:02:21.920099+00:00
 -- url     : https://prove2.me/theorems/99c43b97-99c3-427b-be7a-491264bf0518

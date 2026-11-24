@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_UnusedSlot33_HK_cc_mul_cc
 -- name    : Formalism.MainNotions.UnusedSlot33.HK.cc_mul_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:29:52.578615+00:00
 -- url     : https://prove2.me/theorems/3ddd1926-1a62-413d-90c7-e4b1532dee40

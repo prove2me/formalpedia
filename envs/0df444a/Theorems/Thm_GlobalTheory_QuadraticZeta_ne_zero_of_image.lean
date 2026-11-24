@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_ne_zero_of_image
 -- name    : GlobalTheory.QuadraticZeta.ne_zero_of_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:12:14.314715+00:00
 -- url     : https://prove2.me/theorems/f2ff464b-b95b-4947-ab80-e8c6cfc63022

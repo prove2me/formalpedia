@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LocF_vcompat_8cc30d9947af
 -- name    : P2M_Formalism_BasicNotions_Examples__LocF_vcompat_8cc30d9947af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:09.191566+00:00
 -- url     : https://prove2.me/theorems/e282fa10-dd38-4a7f-8395-791e95bb3e24

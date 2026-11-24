@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_exists_sign
 -- name    : Formalism.HC.D7.exists_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:40:18.166418+00:00
 -- url     : https://prove2.me/theorems/97ccc70c-972e-4b63-945f-3ad7e88dda7f

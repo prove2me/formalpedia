@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoExt_exists_unitary_of_isometry
 -- name    : GlobalTheory.IsoExt.exists_unitary_of_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:24:55.160524+00:00
 -- url     : https://prove2.me/theorems/261d03ae-aff4-430d-b001-37a09d2402c8

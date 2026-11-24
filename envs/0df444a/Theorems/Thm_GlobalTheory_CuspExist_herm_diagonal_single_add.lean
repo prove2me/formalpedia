@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspExist_herm_diagonal_single_add
 -- name    : GlobalTheory.CuspExist.herm_diagonal_single_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:37:28.157471+00:00
 -- url     : https://prove2.me/theorems/4fc56dd0-f3a8-4282-a92b-b94168c2891e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NG_IsLabelOf_unique
 -- name    : Formalism.L2.NG.IsLabelOf.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:10:27.61968+00:00
 -- url     : https://prove2.me/theorems/d48ca9c8-618b-47e4-b91a-5c2c71029911

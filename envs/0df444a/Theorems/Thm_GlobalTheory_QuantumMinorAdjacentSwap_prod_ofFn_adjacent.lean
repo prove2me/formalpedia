@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuantumMinorAdjacentSwap_prod_ofFn_adjacent
 -- name    : GlobalTheory.QuantumMinorAdjacentSwap.prod_ofFn_adjacent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:13:30.720387+00:00
 -- url     : https://prove2.me/theorems/1b445775-6c9c-4f99-82fb-364272107630

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_haar_measure
 -- name    : Formalism.FourierDecayAlt.P.heisenberg_haar_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:43:11.245366+00:00
 -- url     : https://prove2.me/theorems/49884db4-9609-4dcf-ac96-33d9bdbdcc75

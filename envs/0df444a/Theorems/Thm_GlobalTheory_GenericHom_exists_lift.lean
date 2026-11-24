@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericHom_exists_lift
 -- name    : GlobalTheory.GenericHom.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:48.070162+00:00
 -- url     : https://prove2.me/theorems/adec8702-6d99-4a98-a88d-059c6a5d742a

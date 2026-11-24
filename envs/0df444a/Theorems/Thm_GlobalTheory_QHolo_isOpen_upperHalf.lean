@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_isOpen_upperHalf
 -- name    : GlobalTheory.QHolo.isOpen_upperHalf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:04:08.413227+00:00
 -- url     : https://prove2.me/theorems/e24b8219-433a-4abd-a661-11c0fd9e4fa8

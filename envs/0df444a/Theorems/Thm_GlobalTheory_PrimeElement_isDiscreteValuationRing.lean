@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeElement_isDiscreteValuationRing
 -- name    : GlobalTheory.PrimeElement.isDiscreteValuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:44:31.717804+00:00
 -- url     : https://prove2.me/theorems/c304bb76-b1af-4ce7-ae21-1a79d4c5f3d4

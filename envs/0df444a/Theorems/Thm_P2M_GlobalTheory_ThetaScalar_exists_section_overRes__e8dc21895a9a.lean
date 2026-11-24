@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaScalar_exists_section_overRes__e8dc21895a9a
 -- name    : P2M_GlobalTheory_ThetaScalar_exists_section_overRes__e8dc21895a9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:26.215372+00:00
 -- url     : https://prove2.me/theorems/dea36dfc-2e63-45ce-b7c0-65d5700eb9de

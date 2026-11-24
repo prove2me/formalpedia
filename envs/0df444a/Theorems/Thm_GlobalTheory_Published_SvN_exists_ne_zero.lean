@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_exists_ne_zero
 -- name    : GlobalTheory.Published.SvN.exists_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:57:46.765772+00:00
 -- url     : https://prove2.me/theorems/8bacb4a2-3c71-4ac5-a18f-6a17899e25b8

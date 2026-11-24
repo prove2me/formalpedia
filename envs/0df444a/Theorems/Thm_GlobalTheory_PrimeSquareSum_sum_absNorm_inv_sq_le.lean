@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSquareSum_sum_absNorm_inv_sq_le
 -- name    : GlobalTheory.PrimeSquareSum.sum_absNorm_inv_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:32.503306+00:00
 -- url     : https://prove2.me/theorems/d545e623-5aea-4690-9258-465dad497f08

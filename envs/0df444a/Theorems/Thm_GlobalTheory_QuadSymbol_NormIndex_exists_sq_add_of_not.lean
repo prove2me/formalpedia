@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_exists_sq_add_of_not
 -- name    : GlobalTheory.QuadSymbol.NormIndex.exists_sq_add_of_not
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:12:23.699164+00:00
 -- url     : https://prove2.me/theorems/ca5a923a-11fa-4e1c-b373-7f01272e926b

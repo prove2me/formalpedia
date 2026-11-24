@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_plus_conn_xVec_eq
 -- name    : GlobalTheory.BK.PhiMod.plus_conn_xVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:57:47.989309+00:00
 -- url     : https://prove2.me/theorems/f5775746-4de6-445f-b894-0fcb232c3461

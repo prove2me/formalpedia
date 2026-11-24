@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_div_mem_normSub
 -- name    : GlobalTheory.QNorm.div_mem_normSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:23:00.694732+00:00
 -- url     : https://prove2.me/theorems/60a64cc8-7ea0-421f-8696-37d49de2829b

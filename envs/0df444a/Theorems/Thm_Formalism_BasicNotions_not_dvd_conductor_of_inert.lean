@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_not_dvd_conductor_of_inert
 -- name    : Formalism.BasicNotions.not_dvd_conductor_of_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:31:22.931799+00:00
 -- url     : https://prove2.me/theorems/6c055119-37a3-4edb-a9d7-c0f9284afa99

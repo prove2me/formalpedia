@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_Descends_exists_mem
 -- name    : GlobalTheory.MulSplit.Descends.exists_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:28:14.279836+00:00
 -- url     : https://prove2.me/theorems/ed1cdc56-08d1-48bc-94ee-6e8bb3126f5d

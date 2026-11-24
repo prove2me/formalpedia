@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_integral_rhoFun_mul_conj
 -- name    : GlobalTheory.RealWeil.integral_rhoFun_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:16:37.549904+00:00
 -- url     : https://prove2.me/theorems/2720608f-5457-44ad-99ca-105be89b333a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticEtale_trace_surjective
 -- name    : GlobalTheory.QuadraticEtale.trace_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:12:49.782541+00:00
 -- url     : https://prove2.me/theorems/fe512cc2-7030-4ec0-8918-dfbac88834bd

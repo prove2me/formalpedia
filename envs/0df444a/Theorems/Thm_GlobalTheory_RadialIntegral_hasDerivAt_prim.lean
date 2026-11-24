@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RadialIntegral_hasDerivAt_prim
 -- name    : GlobalTheory.RadialIntegral.hasDerivAt_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:12:19.01283+00:00
 -- url     : https://prove2.me/theorems/057ab493-d743-48fe-91ba-fef8b3c93146

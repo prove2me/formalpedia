@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RadialIntegral_tendsto_prim
 -- name    : GlobalTheory.RadialIntegral.tendsto_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:14:17.289413+00:00
 -- url     : https://prove2.me/theorems/04093b2f-5104-4fc4-a3c3-1b0b1854405c

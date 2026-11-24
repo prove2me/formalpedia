@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_exists_prime_mem
 -- name    : Formalism.HC.D7.exists_prime_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:39:20.232772+00:00
 -- url     : https://prove2.me/theorems/f358e1c9-a5da-4d7e-9ba5-92822222e12d

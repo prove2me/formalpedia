@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_eq_secH_of_conj_mem_ker
 -- name    : GlobalTheory.LagSplit.eq_secH_of_conj_mem_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:57:54.98807+00:00
 -- url     : https://prove2.me/theorems/796f9a8d-390f-47bb-aaa3-5b5c905a5a61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProdSubProdBound_prod_sub_prod_le
 -- name    : GlobalTheory.ProdSubProdBound.prod_sub_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:55:40.042989+00:00
 -- url     : https://prove2.me/theorems/6a3316f7-c5a2-4984-80f9-a3eef554399c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesMaximalBound_monomial_one_mem
 -- name    : GlobalTheory.PowerSeriesMaximalBound.monomial_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:52.191459+00:00
 -- url     : https://prove2.me/theorems/bbf46822-1541-4a0e-9d7b-3e51a6aec43a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RapidFourier_hasFDerivAt_term
 -- name    : GlobalTheory.RapidFourier.hasFDerivAt_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:14:03.638715+00:00
 -- url     : https://prove2.me/theorems/3474bfea-d4ee-4818-8b06-d0c88fd1874b

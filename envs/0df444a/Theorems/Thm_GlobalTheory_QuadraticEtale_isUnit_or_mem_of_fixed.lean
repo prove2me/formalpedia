@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticEtale_isUnit_or_mem_of_fixed
 -- name    : GlobalTheory.QuadraticEtale.isUnit_or_mem_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:12:48.5829+00:00
 -- url     : https://prove2.me/theorems/f7cb6a1b-b345-4892-8e9d-1e85beaad21a

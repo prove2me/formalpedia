@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_finrank_int_eq
 -- name    : GlobalTheory.IsLatticeEmb.finrank_int_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:52:53.99742+00:00
 -- url     : https://prove2.me/theorems/dd2efd0e-d28e-41af-a08e-2e2293059697

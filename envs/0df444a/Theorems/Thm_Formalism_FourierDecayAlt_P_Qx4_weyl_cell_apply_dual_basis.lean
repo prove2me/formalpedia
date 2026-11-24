@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_weyl_cell_apply_dual_basis
 -- name    : Formalism.FourierDecayAlt.P.Qx4.weyl_cell_apply_dual_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:21:50.237446+00:00
 -- url     : https://prove2.me/theorems/2687c24a-d457-4b48-9816-556897eb046e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_roots_cases
 -- name    : GlobalTheory.QuadraticZeta.roots_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:12:55.840801+00:00
 -- url     : https://prove2.me/theorems/bdea46de-1fb2-4e33-a27d-0e2652982a0f

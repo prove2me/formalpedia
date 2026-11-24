@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_indicator_slice_orbit_isLocallyConstant
 -- name    : GlobalTheory.RankFibreKer.indicator_slice_orbit_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:13:25.842169+00:00
 -- url     : https://prove2.me/theorems/aaa08f6e-7e68-408d-b483-5e373c264575

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_evenNorms_of_unit_nonsquare
 -- name    : GlobalTheory.QNorm.evenNorms_of_unit_nonsquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:02:40.894902+00:00
 -- url     : https://prove2.me/theorems/b6f71fa8-9e4e-468e-938c-6949c80c2029

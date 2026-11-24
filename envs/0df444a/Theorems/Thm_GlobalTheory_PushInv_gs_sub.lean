@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushInv_gs_sub
 -- name    : GlobalTheory.PushInv.gs_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:58:40.318621+00:00
 -- url     : https://prove2.me/theorems/72c4bd24-b9ea-4e0d-b776-814e136e2efa

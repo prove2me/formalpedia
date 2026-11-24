@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_diffSupport
 -- name    : Formalism.HC.Der.diffSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:26:33.390939+00:00
 -- url     : https://prove2.me/theorems/10244b66-2126-444b-9825-8565e7154376

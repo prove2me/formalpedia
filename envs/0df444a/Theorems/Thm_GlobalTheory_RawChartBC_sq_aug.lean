@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartBC_sq_aug
 -- name    : GlobalTheory.RawChartBC.sq_aug
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:16:03.964399+00:00
 -- url     : https://prove2.me/theorems/8b7e96d9-6903-46d5-adb7-472dd495573b

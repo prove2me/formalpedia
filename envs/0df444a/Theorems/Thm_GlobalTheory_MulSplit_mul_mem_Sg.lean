@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_mul_mem_Sg
 -- name    : GlobalTheory.MulSplit.mul_mem_Sg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:44:47.39535+00:00
 -- url     : https://prove2.me/theorems/fbbb2f8d-2559-452d-bd44-b371629cc18f

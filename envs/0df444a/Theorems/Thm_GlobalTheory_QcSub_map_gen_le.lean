@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QcSub_map_gen_le
 -- name    : GlobalTheory.QcSub.map_gen_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:03:07.941937+00:00
 -- url     : https://prove2.me/theorems/625fb3db-8b87-4c8d-bd83-5e3a25dcde61

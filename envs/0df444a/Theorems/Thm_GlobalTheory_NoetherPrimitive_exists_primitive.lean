@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherPrimitive_exists_primitive
 -- name    : GlobalTheory.NoetherPrimitive.exists_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:35:02.448958+00:00
 -- url     : https://prove2.me/theorems/c49c1f3e-2040-463c-a02d-aad6c4b231a2

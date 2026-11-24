@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_const_pderiv_pderiv
 -- name    : GlobalTheory.QuadDeriv.const_pderiv_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:08:18.242595+00:00
 -- url     : https://prove2.me/theorems/81cf010c-8cb6-4f3e-83c1-a46437daba26

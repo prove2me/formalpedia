@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isLocalizedModule_comp_liftBaseChange
 -- name    : GlobalTheory.QCoh.isLocalizedModule_comp_liftBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:58:20.963568+00:00
 -- url     : https://prove2.me/theorems/13a3e4ea-0081-4b3e-a4a8-5328c84b30b4

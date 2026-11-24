@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_norm_qClass
 -- name    : GlobalTheory.QHolo.norm_qClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:04:16.186533+00:00
 -- url     : https://prove2.me/theorems/881816a6-c765-4b23-958d-b83f89fd22a5

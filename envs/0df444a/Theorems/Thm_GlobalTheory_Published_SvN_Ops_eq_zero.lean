@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_Ops_eq_zero
 -- name    : GlobalTheory.Published.SvN.Ops.eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:56:49.807569+00:00
 -- url     : https://prove2.me/theorems/b904005b-377c-47b0-9052-f981058117d9

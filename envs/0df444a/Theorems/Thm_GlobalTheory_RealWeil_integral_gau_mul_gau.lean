@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_integral_gau_mul_gau
 -- name    : GlobalTheory.RealWeil.integral_gau_mul_gau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:16:28.793053+00:00
 -- url     : https://prove2.me/theorems/2f8c8da9-5af9-4786-a0da-f091af122858

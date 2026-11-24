@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_isUnit_of_sub_one_mem
 -- name    : GlobalTheory.NormEq.isUnit_of_sub_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:54:52.444781+00:00
 -- url     : https://prove2.me/theorems/9d9795c1-17d9-4b3c-b789-2be41f90bebe

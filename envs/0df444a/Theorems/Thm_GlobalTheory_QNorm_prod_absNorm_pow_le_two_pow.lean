@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_prod_absNorm_pow_le_two_pow
 -- name    : GlobalTheory.QNorm.prod_absNorm_pow_le_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:02:06.444922+00:00
 -- url     : https://prove2.me/theorems/190290c9-a8fb-46a1-a456-7f47f15f07ff

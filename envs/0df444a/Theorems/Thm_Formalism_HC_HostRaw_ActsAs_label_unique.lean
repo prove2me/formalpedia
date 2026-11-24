@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_ActsAs_label_unique
 -- name    : Formalism.HC.HostRaw.ActsAs.label_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:24:32.543911+00:00
 -- url     : https://prove2.me/theorems/27923592-8dd1-48bd-8b20-20cdb2a354b3

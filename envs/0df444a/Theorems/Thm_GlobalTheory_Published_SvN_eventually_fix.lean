@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_eventually_fix
 -- name    : GlobalTheory.Published.SvN.eventually_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:57:40.419804+00:00
 -- url     : https://prove2.me/theorems/025dfea4-0015-477c-8480-d55d0b2d1b76

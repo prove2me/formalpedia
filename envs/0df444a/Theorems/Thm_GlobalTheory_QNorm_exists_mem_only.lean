@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_mem_only
 -- name    : GlobalTheory.QNorm.exists_mem_only
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:02:07.576875+00:00
 -- url     : https://prove2.me/theorems/6871d6d1-bfeb-42a1-809f-e5a19b1f63a4

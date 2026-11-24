@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilOneMember_exists_embed
 -- name    : GlobalTheory.CompanionTheory.WeilOneMember.exists_embed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:38:48.877287+00:00
 -- url     : https://prove2.me/theorems/126d450a-fd3d-41bd-9b5f-26174b0b1b9c

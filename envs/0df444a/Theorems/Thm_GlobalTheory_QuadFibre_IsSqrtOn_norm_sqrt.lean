@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFibre_IsSqrtOn_norm_sqrt
 -- name    : GlobalTheory.QuadFibre.IsSqrtOn.norm_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:08:25.546584+00:00
 -- url     : https://prove2.me/theorems/6b3cb647-4646-41f8-b629-b1ec9364e484

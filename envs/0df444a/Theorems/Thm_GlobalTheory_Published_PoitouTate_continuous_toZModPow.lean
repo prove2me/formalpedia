@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTate_continuous_toZModPow
 -- name    : GlobalTheory.Published.PoitouTate.continuous_toZModPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:56:20.715753+00:00
 -- url     : https://prove2.me/theorems/5fb48b95-51be-4779-8c3e-2808a9e97036

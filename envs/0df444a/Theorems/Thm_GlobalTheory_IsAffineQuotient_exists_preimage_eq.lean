@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_exists_preimage_eq
 -- name    : GlobalTheory.IsAffineQuotient.exists_preimage_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:29:01.195339+00:00
 -- url     : https://prove2.me/theorems/9d445e62-5c6d-47e4-a85f-e04642db6ab5

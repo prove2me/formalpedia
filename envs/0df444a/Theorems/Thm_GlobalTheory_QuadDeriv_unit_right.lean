@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_unit_right
 -- name    : GlobalTheory.QuadDeriv.unit_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:04:27.804115+00:00
 -- url     : https://prove2.me/theorems/da8dae44-0fe7-4bcf-b30b-1f8d5fecf0f6

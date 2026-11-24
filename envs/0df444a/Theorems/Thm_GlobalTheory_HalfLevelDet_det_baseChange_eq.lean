@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfLevelDet_det_baseChange_eq
 -- name    : GlobalTheory.HalfLevelDet.det_baseChange_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:36:56.461167+00:00
 -- url     : https://prove2.me/theorems/52e53ae8-e2b2-4a7c-925b-8d53eaad79dc

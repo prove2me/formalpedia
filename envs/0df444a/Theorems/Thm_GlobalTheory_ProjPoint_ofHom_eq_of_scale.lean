@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjPoint_ofHom_eq_of_scale
 -- name    : GlobalTheory.ProjPoint.ofHom_eq_of_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:55:05.205592+00:00
 -- url     : https://prove2.me/theorems/4517f527-e78a-4612-ace8-1572a475e5d7

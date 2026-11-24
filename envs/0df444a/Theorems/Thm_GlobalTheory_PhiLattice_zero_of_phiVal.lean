@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiLattice_zero_of_phiVal
 -- name    : GlobalTheory.PhiLattice.zero_of_phiVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:47:16.29493+00:00
 -- url     : https://prove2.me/theorems/05b0fa72-96e9-4c61-935e-7abd059b34cb

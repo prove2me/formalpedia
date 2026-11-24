@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RatPointConn_of_isAlgClosed
 -- name    : GlobalTheory.RatPointConn.of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:13:33.353133+00:00
 -- url     : https://prove2.me/theorems/eb3c640a-449b-4076-9c28-9153f3984cdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdTwist_eq_of_locally
 -- name    : GlobalTheory.SS.OrdTwist.eq_of_locally
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:43:35.15607+00:00
 -- url     : https://prove2.me/theorems/eec8b761-ab81-45ac-9d23-d6464ba94110

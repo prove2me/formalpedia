@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QBinomialSum_sum_eq
 -- name    : GlobalTheory.QBinomialSum.sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:58:01.457512+00:00
 -- url     : https://prove2.me/theorems/1c960e08-8e57-488c-bcdb-53aea50e8586

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_exists_selfDual
 -- name    : GlobalTheory.Published.SvN.exists_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:57:57.330798+00:00
 -- url     : https://prove2.me/theorems/30b1cf10-454c-44dc-bf58-30abe31b1c97

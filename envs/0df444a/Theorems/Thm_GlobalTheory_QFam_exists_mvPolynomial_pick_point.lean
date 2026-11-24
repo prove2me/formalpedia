@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_exists_mvPolynomial_pick_point
 -- name    : GlobalTheory.QFam.exists_mvPolynomial_pick_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:59:45.675052+00:00
 -- url     : https://prove2.me/theorems/4dd1b107-a36f-4ce9-9327-569bc6d211cc

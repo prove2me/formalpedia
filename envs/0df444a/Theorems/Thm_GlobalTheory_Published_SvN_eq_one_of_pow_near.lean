@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_eq_one_of_pow_near
 -- name    : GlobalTheory.Published.SvN.eq_one_of_pow_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:57:34.333606+00:00
 -- url     : https://prove2.me/theorems/43bb3d19-af15-40b8-b3b4-e64539430b96

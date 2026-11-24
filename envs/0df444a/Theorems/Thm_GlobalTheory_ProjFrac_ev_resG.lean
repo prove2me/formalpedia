@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjFrac_ev_resG
 -- name    : GlobalTheory.ProjFrac.ev_resG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:55:24.481486+00:00
 -- url     : https://prove2.me/theorems/6885405d-d82c-4c62-8cfe-47d6befabf84

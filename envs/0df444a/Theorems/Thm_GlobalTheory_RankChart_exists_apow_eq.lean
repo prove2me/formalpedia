@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_exists_apow_eq
 -- name    : GlobalTheory.RankChart.exists_apow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:14:12.241879+00:00
 -- url     : https://prove2.me/theorems/7ea0f8d2-4497-4301-9a48-83b9f2e92121

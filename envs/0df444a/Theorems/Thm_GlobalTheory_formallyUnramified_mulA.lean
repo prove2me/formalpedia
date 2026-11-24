@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formallyUnramified_mulA
 -- name    : GlobalTheory.formallyUnramified_mulA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:17:30.396446+00:00
 -- url     : https://prove2.me/theorems/20570844-cb29-4e73-b05c-27034277343f

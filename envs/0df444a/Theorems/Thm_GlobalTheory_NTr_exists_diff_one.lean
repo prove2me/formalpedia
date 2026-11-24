@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NTr_exists_diff_one
 -- name    : GlobalTheory.NTr.exists_diff_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:30:28.652893+00:00
 -- url     : https://prove2.me/theorems/fa611345-8f85-4169-a77e-8abf0766ca3d

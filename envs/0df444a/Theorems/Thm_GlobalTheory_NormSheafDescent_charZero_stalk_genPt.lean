@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheafDescent_charZero_stalk_genPt
 -- name    : GlobalTheory.NormSheafDescent.charZero_stalk_genPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:40.992501+00:00
 -- url     : https://prove2.me/theorems/3c5af7cd-bac2-495b-8f90-c7908f2ba5af

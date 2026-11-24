@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_Inh_nab_mem_stdLat
 -- name    : GlobalTheory.PhiGam.Inh.nab_mem_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:45:00.340287+00:00
 -- url     : https://prove2.me/theorems/e318e180-d1ad-4386-86b4-648d34e7d247

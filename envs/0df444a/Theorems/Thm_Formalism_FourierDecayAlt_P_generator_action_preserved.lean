@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_generator_action_preserved
 -- name    : Formalism.FourierDecayAlt.P.generator_action_preserved
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:52:16.97325+00:00
 -- url     : https://prove2.me/theorems/e1f7804f-d206-4f83-9679-0af99deabd30

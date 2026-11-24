@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_isFam_iff_values
 -- name    : GlobalTheory.QFam.isFam_iff_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:59:53.769725+00:00
 -- url     : https://prove2.me/theorems/d3a8eb6c-a70d-445c-9994-9f50c2b31bd8

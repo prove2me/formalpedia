@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_sum_divisors_prime_mul
 -- name    : GlobalTheory.QuadraticZeta.sum_divisors_prime_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:12:29.313395+00:00
 -- url     : https://prove2.me/theorems/31c21a02-ef18-4738-9d3c-f1d813f846e2

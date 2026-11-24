@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesShift_main
 -- name    : GlobalTheory.PowerSeriesShift.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:54:01.440449+00:00
 -- url     : https://prove2.me/theorems/0eb0271c-84cc-4a46-8f60-c93afcf2f990

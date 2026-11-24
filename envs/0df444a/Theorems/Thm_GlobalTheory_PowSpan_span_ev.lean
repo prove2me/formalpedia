@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSpan_span_ev
 -- name    : GlobalTheory.PowSpan.span_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:54:29.909073+00:00
 -- url     : https://prove2.me/theorems/a41f2c86-ed33-434f-8f43-6482526365d5

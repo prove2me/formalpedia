@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_artinMap_dyadic_eq_of_modEq
 -- name    : Formalism.HC.D7.artinMap_dyadic_eq_of_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:39:58.667231+00:00
 -- url     : https://prove2.me/theorems/1a47d1ba-a966-4083-a284-65864bd9dba5

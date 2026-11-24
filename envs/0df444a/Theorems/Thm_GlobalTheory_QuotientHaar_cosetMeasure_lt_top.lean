@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientHaar_cosetMeasure_lt_top
 -- name    : GlobalTheory.QuotientHaar.cosetMeasure_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:11:56.526056+00:00
 -- url     : https://prove2.me/theorems/fc9531bc-d07f-4d5f-9a65-59e7d27f4bb0

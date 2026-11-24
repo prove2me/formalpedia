@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_NabJet_isLinearMap_DmonN
 -- name    : GlobalTheory.PowGerm.NabJet.isLinearMap_DmonN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:12:54.199812+00:00
 -- url     : https://prove2.me/theorems/7f697388-4773-4d82-bdb6-72523ee0076b

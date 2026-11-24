@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_tendsto_tsum_rowError
 -- name    : GlobalTheory.KroneckerLimit.tendsto_tsum_rowError
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:56:06.290875+00:00
 -- url     : https://prove2.me/theorems/d208099c-489b-4a43-acfd-7e49549a72bd

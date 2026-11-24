@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartBC_basis_map
 -- name    : GlobalTheory.RawChartBC.basis_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:15:05.446258+00:00
 -- url     : https://prove2.me/theorems/7d22e927-9101-4113-8983-028d4816b756

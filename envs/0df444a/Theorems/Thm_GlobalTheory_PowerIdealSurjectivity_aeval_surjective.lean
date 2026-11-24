@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerIdealSurjectivity_aeval_surjective
 -- name    : GlobalTheory.PowerIdealSurjectivity.aeval_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:52:52.483779+00:00
 -- url     : https://prove2.me/theorems/d5546e8d-ad2e-4f72-9fb9-bc0216c81be7

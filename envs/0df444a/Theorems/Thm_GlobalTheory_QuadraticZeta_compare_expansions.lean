@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_compare_expansions
 -- name    : GlobalTheory.QuadraticZeta.compare_expansions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:12:21.916451+00:00
 -- url     : https://prove2.me/theorems/6df48a6a-4924-41b4-a1e0-10a753eed5a8

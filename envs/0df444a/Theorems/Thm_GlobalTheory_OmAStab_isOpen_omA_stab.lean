@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OmAStab_isOpen_omA_stab
 -- name    : GlobalTheory.OmAStab.isOpen_omA_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:36:52.908665+00:00
 -- url     : https://prove2.me/theorems/1e07e6d3-3800-4ab0-9efa-d013fc99e169

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RapidFourier_summable_inv_one_add_abs_sq
 -- name    : GlobalTheory.RapidFourier.summable_inv_one_add_abs_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:13:59.350815+00:00
 -- url     : https://prove2.me/theorems/3f295321-6e07-4f9d-acab-58997503007f

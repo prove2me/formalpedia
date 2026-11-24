@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_perfectPairing_orthogonal_of_card
 -- name    : GlobalTheory.perfectPairing_orthogonal_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:33.76787+00:00
 -- url     : https://prove2.me/theorems/f454733a-2481-438f-82f6-544ad0a902aa

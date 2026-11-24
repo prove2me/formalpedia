@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitAvg_avg_pair
 -- name    : GlobalTheory.OrbitAvg.avg_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:37:40.086512+00:00
 -- url     : https://prove2.me/theorems/d141f545-8dfc-4635-bae9-228bae433e8e

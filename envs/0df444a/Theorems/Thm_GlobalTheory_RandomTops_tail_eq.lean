@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_tail_eq
 -- name    : GlobalTheory.RandomTops.tail_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:13:28.699026+00:00
 -- url     : https://prove2.me/theorems/b8f01e99-bcaa-4686-b21f-957a3e2e2a64

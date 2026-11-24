@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjBij_one_tmul_eq_zero_iff
 -- name    : GlobalTheory.ProjBij.one_tmul_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:01.046467+00:00
 -- url     : https://prove2.me/theorems/e2d43530-6ad6-4102-868f-02d7fc5b8ef0

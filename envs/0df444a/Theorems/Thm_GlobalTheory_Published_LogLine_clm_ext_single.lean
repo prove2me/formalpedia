@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_LogLine_clm_ext_single
 -- name    : GlobalTheory.Published.LogLine.clm_ext_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:56:40.814857+00:00
 -- url     : https://prove2.me/theorems/c04b9038-7784-402d-9cc7-ad24029e609e

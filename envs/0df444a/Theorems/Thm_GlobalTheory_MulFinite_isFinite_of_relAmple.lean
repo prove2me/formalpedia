@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulFinite_isFinite_of_relAmple
 -- name    : GlobalTheory.MulFinite.isFinite_of_relAmple
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:41:10.127188+00:00
 -- url     : https://prove2.me/theorems/682ba2e2-f122-4175-91d1-7674ad8f86dc

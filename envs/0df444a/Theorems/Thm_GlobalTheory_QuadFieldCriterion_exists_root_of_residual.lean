@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFieldCriterion_exists_root_of_residual
 -- name    : GlobalTheory.QuadFieldCriterion.exists_root_of_residual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:09:55.059622+00:00
 -- url     : https://prove2.me/theorems/b5e6cd9c-23a5-4f86-85d3-3d2aba6ca0a8

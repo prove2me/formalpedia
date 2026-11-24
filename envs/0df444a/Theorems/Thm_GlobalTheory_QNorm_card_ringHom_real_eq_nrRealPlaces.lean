@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_card_ringHom_real_eq_nrRealPlaces
 -- name    : GlobalTheory.QNorm.card_ringHom_real_eq_nrRealPlaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:02:13.515835+00:00
 -- url     : https://prove2.me/theorems/69cbe058-4716-4bf1-965f-9f408366f67e

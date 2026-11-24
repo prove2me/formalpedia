@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_cda_invpow
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.cda_invpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:44:38.521374+00:00
 -- url     : https://prove2.me/theorems/3ac2f6e4-1bab-4593-8c94-4a502776de21

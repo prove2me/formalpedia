@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_star_gau
 -- name    : GlobalTheory.RealWeil.Osc.star_gau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:53.538802+00:00
 -- url     : https://prove2.me/theorems/0ff74277-1df9-43a4-9cce-b179beb7dbff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_intValuation_of_span_eq_mul
 -- name    : GlobalTheory.QNorm.intValuation_of_span_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:02:10.825538+00:00
 -- url     : https://prove2.me/theorems/708bd309-aba4-4fcd-841e-d533770c1032

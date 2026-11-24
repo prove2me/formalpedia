@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_rank_eq_iff_exists_minor_ne_zero
 -- name    : GlobalTheory.RankFibreKer.rank_eq_iff_exists_minor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:13:44.096026+00:00
 -- url     : https://prove2.me/theorems/c7645b18-52aa-4ea9-afac-f9ab0167ffd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExponentTrace_mem_one_iff_range
 -- name    : GlobalTheory.ExponentTrace.mem_one_iff_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:37:15.286783+00:00
 -- url     : https://prove2.me/theorems/d3546b15-bc62-4f22-ba68-87409732523f

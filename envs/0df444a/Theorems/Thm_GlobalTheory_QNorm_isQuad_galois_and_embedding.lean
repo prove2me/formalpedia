@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_isQuad_galois_and_embedding
 -- name    : GlobalTheory.QNorm.isQuad_galois_and_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:02:14.88827+00:00
 -- url     : https://prove2.me/theorems/6a7add65-7cea-4843-847f-41476a1b4ca2

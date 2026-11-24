@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosSemidefShiftByScalar_exists_pos_mem_HnGe
 -- name    : GlobalTheory.PosSemidefShiftByScalar.exists_pos_mem_HnGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:52:27.863083+00:00
 -- url     : https://prove2.me/theorems/21778b93-c134-49d8-9e50-3bd4a8e2d421

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_normal_form_of_not_isSquare
 -- name    : GlobalTheory.QNorm.exists_normal_form_of_not_isSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:02:37.348703+00:00
 -- url     : https://prove2.me/theorems/da6563d3-26f0-4780-a2ca-6a52b200e2f0

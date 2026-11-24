@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_UnusedSlot33_HK_cases_K
 -- name    : Formalism.MainNotions.UnusedSlot33.HK.cases_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:29:45.996498+00:00
 -- url     : https://prove2.me/theorems/3bbb3c4b-e93c-436c-a83e-a57868549359

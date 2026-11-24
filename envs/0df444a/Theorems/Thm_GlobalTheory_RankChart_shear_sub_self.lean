@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_shear_sub_self
 -- name    : GlobalTheory.RankChart.shear_sub_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:14:16.630807+00:00
 -- url     : https://prove2.me/theorems/7a41978a-fce5-4ec7-b7d4-6d8cb2f0efd7

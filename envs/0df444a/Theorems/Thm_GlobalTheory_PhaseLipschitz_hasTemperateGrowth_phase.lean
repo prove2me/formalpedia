@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhaseLipschitz_hasTemperateGrowth_phase
 -- name    : GlobalTheory.PhaseLipschitz.hasTemperateGrowth_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:49:23.079328+00:00
 -- url     : https://prove2.me/theorems/5ffd09e1-d98e-4d91-845a-25a9c89fe945

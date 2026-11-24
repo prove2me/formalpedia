@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_vecMul_basis
 -- name    : GlobalTheory.CompanionTheory.InertSpan.vecMul_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:08.710358+00:00
 -- url     : https://prove2.me/theorems/2702cf38-531b-4032-b05f-d3679b07fa5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_nontrivial_Gm_int
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.nontrivial_Gm_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:29:13.442811+00:00
 -- url     : https://prove2.me/theorems/1508cec1-c486-4a2b-a49b-2638cac99608

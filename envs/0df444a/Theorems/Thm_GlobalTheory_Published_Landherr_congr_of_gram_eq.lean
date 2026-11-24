@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Landherr_congr_of_gram_eq
 -- name    : GlobalTheory.Published.Landherr.congr_of_gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:56:21.407829+00:00
 -- url     : https://prove2.me/theorems/5ffc46bf-b9ca-4513-b7cc-f5bd83876067

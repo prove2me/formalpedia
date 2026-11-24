@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCut_exists_monic_minimal
 -- name    : GlobalTheory.ProjCut.exists_monic_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:45.349697+00:00
 -- url     : https://prove2.me/theorems/1fcaa68a-14fa-43a4-9924-d092b9ca1430

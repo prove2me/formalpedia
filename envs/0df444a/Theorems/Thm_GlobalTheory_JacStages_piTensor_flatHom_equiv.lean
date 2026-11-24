@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacStages_piTensor_flatHom_equiv
 -- name    : GlobalTheory.JacStages.piTensor_flatHom_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:15.94057+00:00
 -- url     : https://prove2.me/theorems/671081ad-1aba-406f-b4c8-234141f9ce41

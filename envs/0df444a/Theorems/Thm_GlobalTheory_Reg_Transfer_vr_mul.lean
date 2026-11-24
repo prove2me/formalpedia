@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_vr_mul
 -- name    : GlobalTheory.Reg.Transfer.vr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:18:00.461797+00:00
 -- url     : https://prove2.me/theorems/de4e8cfd-ea77-4fb9-a11a-df4ac051da20

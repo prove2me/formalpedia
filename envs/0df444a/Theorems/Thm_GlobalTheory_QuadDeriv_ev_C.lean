@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_ev_C
 -- name    : GlobalTheory.QuadDeriv.ev_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:08:50.142903+00:00
 -- url     : https://prove2.me/theorems/61fd46e3-a83c-461c-a8e6-cda0452992f5

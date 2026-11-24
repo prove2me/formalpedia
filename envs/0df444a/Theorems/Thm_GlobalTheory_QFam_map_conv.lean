@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_map_conv
 -- name    : GlobalTheory.QFam.map_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:59:03.850006+00:00
 -- url     : https://prove2.me/theorems/9c246593-e8b6-4e92-91e6-96014af8227c

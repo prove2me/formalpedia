@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_eq_preimage_inf
 -- name    : GlobalTheory.PrimeSection.eq_preimage_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:42:42.659646+00:00
 -- url     : https://prove2.me/theorems/fe5f171c-cb9a-4f30-a541-d7d9146fb1a4

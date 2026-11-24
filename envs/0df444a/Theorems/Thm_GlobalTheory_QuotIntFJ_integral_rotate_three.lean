@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotIntFJ_integral_rotate_three
 -- name    : GlobalTheory.QuotIntFJ.integral_rotate_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:13:20.686377+00:00
 -- url     : https://prove2.me/theorems/ec1f3e36-3601-40fe-87a4-984ef1b8f73f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheafDescent_normIdeal_top
 -- name    : GlobalTheory.NormSheafDescent.normIdeal_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:42:06.568382+00:00
 -- url     : https://prove2.me/theorems/277b7196-1d87-4449-9acb-8c9b61933198

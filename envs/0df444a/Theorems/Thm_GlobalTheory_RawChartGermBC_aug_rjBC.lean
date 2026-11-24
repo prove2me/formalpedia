@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartGermBC_aug_rjBC
 -- name    : GlobalTheory.RawChartGermBC.aug_rjBC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:17:06.149294+00:00
 -- url     : https://prove2.me/theorems/5f7f7c7b-7598-4570-b2b6-5a4a6da35298

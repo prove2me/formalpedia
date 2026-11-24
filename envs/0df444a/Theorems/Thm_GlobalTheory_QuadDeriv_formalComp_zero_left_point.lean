@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_formalComp_zero_left_point
 -- name    : GlobalTheory.QuadDeriv.formalComp_zero_left_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:08:53.028797+00:00
 -- url     : https://prove2.me/theorems/024cb740-b491-4fb1-a61b-564f744f384b

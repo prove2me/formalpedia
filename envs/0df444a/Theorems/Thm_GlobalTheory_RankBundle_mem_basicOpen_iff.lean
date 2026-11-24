@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankBundle_mem_basicOpen_iff
 -- name    : GlobalTheory.RankBundle.mem_basicOpen_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:14:13.151248+00:00
 -- url     : https://prove2.me/theorems/1fc674d1-6345-4020-81e0-78d1d8d24da5

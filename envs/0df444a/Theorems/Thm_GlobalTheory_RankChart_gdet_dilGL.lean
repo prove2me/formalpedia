@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_gdet_dilGL
 -- name    : GlobalTheory.RankChart.gdet_dilGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:14:06.206232+00:00
 -- url     : https://prove2.me/theorems/1f97a7fb-cb7a-43ec-93ed-586afee0b558

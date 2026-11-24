@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Intertw_sympl_antisymm
 -- name    : GlobalTheory.RealWeil.Intertw.sympl_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:15:32.758393+00:00
 -- url     : https://prove2.me/theorems/61d0891d-4767-4d28-9a79-b4d6a6142255

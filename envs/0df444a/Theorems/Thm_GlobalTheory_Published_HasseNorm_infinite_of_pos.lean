@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_HasseNorm_infinite_of_pos
 -- name    : GlobalTheory.Published.HasseNorm.infinite_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:56:43.257135+00:00
 -- url     : https://prove2.me/theorems/49f25441-87dc-4a8e-b901-1c4ef42a0410

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_eq_zero_of_forall_mem_piPow
 -- name    : GlobalTheory.NormEq.eq_zero_of_forall_mem_piPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:35:47.681598+00:00
 -- url     : https://prove2.me/theorems/ad636659-2123-478d-8363-2c7317c5a679

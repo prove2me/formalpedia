@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCorner_smallCorner_of_heis
 -- name    : GlobalTheory.CompanionTheory.InertCorner.smallCorner_of_heis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:01:10.040194+00:00
 -- url     : https://prove2.me/theorems/2d0a3082-2769-4638-945b-d3fd8a983bb0

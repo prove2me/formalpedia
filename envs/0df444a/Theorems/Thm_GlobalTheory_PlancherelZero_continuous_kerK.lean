@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_continuous_kerK
 -- name    : GlobalTheory.PlancherelZero.continuous_kerK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:44:52.394966+00:00
 -- url     : https://prove2.me/theorems/02191482-89bf-403b-a463-97bc0e2b6e39

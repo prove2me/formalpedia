@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientDescentTwistedOperators_desc_mk
 -- name    : GlobalTheory.QuotientDescentTwistedOperators.desc_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:11:50.796802+00:00
 -- url     : https://prove2.me/theorems/6788cab2-528d-4696-936a-789d0e2af7e4

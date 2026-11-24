@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperDiscontinuity_oneFrame_mem
 -- name    : GlobalTheory.ProperDiscontinuity.oneFrame_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:28.141633+00:00
 -- url     : https://prove2.me/theorems/fa431f80-def8-46ab-a5dc-5f8ff8172203

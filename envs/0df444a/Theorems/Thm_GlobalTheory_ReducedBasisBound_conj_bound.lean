@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ReducedBasisBound_conj_bound
 -- name    : GlobalTheory.ReducedBasisBound.conj_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:18:39.893134+00:00
 -- url     : https://prove2.me/theorems/d9c7e13f-1da3-453e-ace0-e54ff08e4365

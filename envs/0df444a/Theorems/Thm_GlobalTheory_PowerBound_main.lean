@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerBound_main
 -- name    : GlobalTheory.PowerBound.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:53:07.794249+00:00
 -- url     : https://prove2.me/theorems/6e67a5dd-b9a0-44db-a320-5c4baef28b14

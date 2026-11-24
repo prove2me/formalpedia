@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_UnitaryFiniteCovolume_exists_compact_of_definite
 -- name    : GlobalTheory.Published.UnitaryFiniteCovolume.exists_compact_of_definite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:58:44.674955+00:00
 -- url     : https://prove2.me/theorems/3cbb8df7-a000-49b5-84ed-7a7899abdf60

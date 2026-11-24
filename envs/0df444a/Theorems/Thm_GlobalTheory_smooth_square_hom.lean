@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smooth_square_hom
 -- name    : GlobalTheory.smooth_square_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:27:42.304626+00:00
 -- url     : https://prove2.me/theorems/9c38458c-4b27-4a29-9a6f-d990b657b67e

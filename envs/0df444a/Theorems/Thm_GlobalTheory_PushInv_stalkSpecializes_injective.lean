@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushInv_stalkSpecializes_injective
 -- name    : GlobalTheory.PushInv.stalkSpecializes_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:58:20.224633+00:00
 -- url     : https://prove2.me/theorems/8a0d771e-2540-4362-a6dd-2ee93721a6a5

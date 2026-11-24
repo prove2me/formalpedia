@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_continuous_nL
 -- name    : GlobalTheory.PrinTwo.continuous_nL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:55:28.492283+00:00
 -- url     : https://prove2.me/theorems/e18a08df-ba30-4dd0-89c9-6b313296a61a

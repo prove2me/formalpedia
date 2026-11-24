@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_quotientInvariantMeasure_exists_unique_unimodular_modularCharacter_eq_one
 -- name    : GlobalTheory.Proof.quotientInvariantMeasure_exists_unique_unimodular.modularCharacter_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:57:23.427968+00:00
 -- url     : https://prove2.me/theorems/93987929-fc38-4b6c-9228-0f59b3629090

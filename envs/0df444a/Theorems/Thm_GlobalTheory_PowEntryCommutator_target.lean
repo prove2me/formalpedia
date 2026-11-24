@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowEntryCommutator_target
 -- name    : GlobalTheory.PowEntryCommutator.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:51:47.042209+00:00
 -- url     : https://prove2.me/theorems/38c721c0-7c91-48c2-969f-bb01c7aafca6

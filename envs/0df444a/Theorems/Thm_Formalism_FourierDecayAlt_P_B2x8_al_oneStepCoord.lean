@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_al_oneStepCoord
 -- name    : Formalism.FourierDecayAlt.P.B2x8.al_oneStepCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:57:39.027636+00:00
 -- url     : https://prove2.me/theorems/02298326-d04a-4b5a-a336-60d8bc93f87f

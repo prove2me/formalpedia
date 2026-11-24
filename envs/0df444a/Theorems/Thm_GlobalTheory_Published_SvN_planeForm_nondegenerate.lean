@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_planeForm_nondegenerate
 -- name    : GlobalTheory.Published.SvN.planeForm_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:57:52.522309+00:00
 -- url     : https://prove2.me/theorems/a52686b3-6242-4b13-a6a0-8f085ce899c0

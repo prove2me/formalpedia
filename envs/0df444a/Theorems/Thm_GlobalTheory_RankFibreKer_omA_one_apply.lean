@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_omA_one_apply
 -- name    : GlobalTheory.RankFibreKer.omA_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:14:14.62417+00:00
 -- url     : https://prove2.me/theorems/40b2f1c2-4a7c-4356-9f2c-766e93f9b0d6

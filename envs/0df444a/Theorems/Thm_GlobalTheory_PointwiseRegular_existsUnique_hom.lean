@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointwiseRegular_existsUnique_hom
 -- name    : GlobalTheory.PointwiseRegular.existsUnique_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:50:14.005961+00:00
 -- url     : https://prove2.me/theorems/41afc317-8a6b-434d-98f5-eb2f01bde207

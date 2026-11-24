@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMulIntegerMultiple_main
 -- name    : GlobalTheory.NatMulIntegerMultiple.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:30:30.37204+00:00
 -- url     : https://prove2.me/theorems/6638e316-43b2-49d1-9949-4cc27252cac9

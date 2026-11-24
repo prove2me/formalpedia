@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_isIntegral_of_esymm_mem
 -- name    : GlobalTheory.QFam.isIntegral_of_esymm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:59:36.979452+00:00
 -- url     : https://prove2.me/theorems/7621b49b-7171-4716-8a82-76cecefc60ac

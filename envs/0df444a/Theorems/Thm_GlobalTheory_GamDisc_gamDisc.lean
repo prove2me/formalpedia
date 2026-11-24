@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GamDisc_gamDisc
 -- name    : GlobalTheory.GamDisc.gamDisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:49:05.351147+00:00
 -- url     : https://prove2.me/theorems/62bfaad4-8e20-495a-9a69-3a627183d4b8

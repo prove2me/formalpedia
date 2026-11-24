@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_exists_rep
 -- name    : Formalism.HC.D7.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:40:46.441148+00:00
 -- url     : https://prove2.me/theorems/cbc15848-da3f-45fd-8f3f-1b8de0b1de8e

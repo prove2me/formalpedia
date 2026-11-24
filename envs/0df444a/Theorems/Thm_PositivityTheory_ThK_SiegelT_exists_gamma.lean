@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SiegelT_exists_gamma
 -- name    : PositivityTheory.ThK.SiegelT.exists_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:11:18.212066+00:00
 -- url     : https://prove2.me/theorems/2463f61d-119a-4b68-81f1-063d5f4e05e8

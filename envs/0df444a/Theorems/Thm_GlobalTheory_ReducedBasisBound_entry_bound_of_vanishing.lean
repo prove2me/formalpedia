@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ReducedBasisBound_entry_bound_of_vanishing
 -- name    : GlobalTheory.ReducedBasisBound.entry_bound_of_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:18:37.493526+00:00
 -- url     : https://prove2.me/theorems/a8dee20b-a21d-49ad-b728-a257a2b03217

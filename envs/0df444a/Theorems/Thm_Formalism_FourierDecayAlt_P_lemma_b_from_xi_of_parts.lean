@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_b_from_xi_of_parts
 -- name    : Formalism.FourierDecayAlt.P.lemma_b_from_xi_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:10:07.132712+00:00
 -- url     : https://prove2.me/theorems/f354b6b4-cb08-466d-94a4-fa99dd8a39d1

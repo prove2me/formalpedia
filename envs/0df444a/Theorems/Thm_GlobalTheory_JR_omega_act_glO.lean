@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_omega_act_glO
 -- name    : GlobalTheory.JR.omega_act_glO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:41:18.557027+00:00
 -- url     : https://prove2.me/theorems/c424281e-fd14-431c-bcfc-449907768f32

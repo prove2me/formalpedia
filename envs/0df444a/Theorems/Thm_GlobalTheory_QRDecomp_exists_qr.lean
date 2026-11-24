@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QRDecomp_exists_qr
 -- name    : GlobalTheory.QRDecomp.exists_qr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:03:29.119638+00:00
 -- url     : https://prove2.me/theorems/9990eef2-4bfa-4d72-9d45-af1306c55276

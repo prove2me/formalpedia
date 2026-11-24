@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_mem_diff_iff
 -- name    : Formalism.HC.Der.kc_mem_diff_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:11:04.616319+00:00
 -- url     : https://prove2.me/theorems/17869971-56c9-481a-92d1-396016d16ed3

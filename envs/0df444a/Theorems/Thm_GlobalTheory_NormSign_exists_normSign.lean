@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSign_exists_normSign
 -- name    : GlobalTheory.NormSign.exists_normSign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:38:32.279556+00:00
 -- url     : https://prove2.me/theorems/8617830f-fc9a-4944-a4d8-29ea3daf8712

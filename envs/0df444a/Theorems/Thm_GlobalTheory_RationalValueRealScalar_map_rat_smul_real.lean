@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalValueRealScalar_map_rat_smul_real
 -- name    : GlobalTheory.RationalValueRealScalar.map_rat_smul_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:14:55.222986+00:00
 -- url     : https://prove2.me/theorems/c69c6d62-91e0-49f1-bae9-884232a179c0

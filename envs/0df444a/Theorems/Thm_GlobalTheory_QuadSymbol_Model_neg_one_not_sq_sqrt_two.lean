@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Model_neg_one_not_sq_sqrt_two
 -- name    : GlobalTheory.QuadSymbol.Model.neg_one_not_sq_sqrt_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:09:41.992232+00:00
 -- url     : https://prove2.me/theorems/448c8746-c457-4679-a823-0b36231b5330

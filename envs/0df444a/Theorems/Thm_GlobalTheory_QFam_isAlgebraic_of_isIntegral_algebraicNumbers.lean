@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_isAlgebraic_of_isIntegral_algebraicNumbers
 -- name    : GlobalTheory.QFam.isAlgebraic_of_isIntegral_algebraicNumbers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:01:35.443535+00:00
 -- url     : https://prove2.me/theorems/1748df7c-2848-4538-8f6f-7780ac11c9b0

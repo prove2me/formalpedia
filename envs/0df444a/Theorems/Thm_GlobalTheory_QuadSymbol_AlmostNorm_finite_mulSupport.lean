@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_AlmostNorm_finite_mulSupport
 -- name    : GlobalTheory.QuadSymbol.AlmostNorm.finite_mulSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:09:26.007441+00:00
 -- url     : https://prove2.me/theorems/44d8e724-95d1-4574-9b62-25c1ce3cf6d6

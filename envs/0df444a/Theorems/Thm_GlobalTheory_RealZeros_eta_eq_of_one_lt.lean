@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeros_eta_eq_of_one_lt
 -- name    : GlobalTheory.RealZeros.eta_eq_of_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:18:17.375849+00:00
 -- url     : https://prove2.me/theorems/e72c8f06-7faa-455a-b1a7-effe06ca50c3

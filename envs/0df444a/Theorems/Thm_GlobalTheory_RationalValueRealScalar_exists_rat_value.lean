@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalValueRealScalar_exists_rat_value
 -- name    : GlobalTheory.RationalValueRealScalar.exists_rat_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:15:23.78902+00:00
 -- url     : https://prove2.me/theorems/5db01584-dbf4-41d3-91c3-1f136095738b

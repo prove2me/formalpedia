@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_continuous_twist_proj
 -- name    : GlobalTheory.RealWeil.Osc.continuous_twist_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:15:20.393543+00:00
 -- url     : https://prove2.me/theorems/6f3033e9-69c5-454d-8b74-0f8b20841538

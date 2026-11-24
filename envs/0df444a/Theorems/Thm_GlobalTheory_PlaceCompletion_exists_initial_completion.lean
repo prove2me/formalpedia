@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceCompletion_exists_initial_completion
 -- name    : GlobalTheory.PlaceCompletion.exists_initial_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:24:18.985041+00:00
 -- url     : https://prove2.me/theorems/4763797a-5a9e-4988-9636-b8de44254def

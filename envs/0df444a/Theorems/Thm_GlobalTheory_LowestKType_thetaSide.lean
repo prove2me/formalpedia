@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_thetaSide
 -- name    : GlobalTheory.LowestKType.thetaSide
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:18:51.65536+00:00
 -- url     : https://prove2.me/theorems/f4217047-2ecd-4f27-bef2-15feb980a2b5

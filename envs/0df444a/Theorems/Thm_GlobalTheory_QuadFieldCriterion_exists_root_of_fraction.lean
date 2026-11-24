@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFieldCriterion_exists_root_of_fraction
 -- name    : GlobalTheory.QuadFieldCriterion.exists_root_of_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:10:01.116137+00:00
 -- url     : https://prove2.me/theorems/cd2c6757-96ea-41e7-9db5-af30839c2dcf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePrime_exists_prime_under
 -- name    : GlobalTheory.OnePrime.exists_prime_under
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:37:36.052022+00:00
 -- url     : https://prove2.me/theorems/3d4a939b-b72d-453e-bb7c-aae33335ce9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericHom_mul_four_eq_of_generic
 -- name    : GlobalTheory.GenericHom.mul_four_eq_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:00.900841+00:00
 -- url     : https://prove2.me/theorems/b0b8f5ca-80c9-4a1b-9e69-4f3666c44797

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_addVal_det
 -- name    : GlobalTheory.NormVal.addVal_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:36:28.606565+00:00
 -- url     : https://prove2.me/theorems/a6511130-779f-4593-a925-4d315c9fd217

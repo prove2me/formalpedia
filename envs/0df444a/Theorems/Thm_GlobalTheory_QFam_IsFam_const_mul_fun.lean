@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_IsFam_const_mul_fun
 -- name    : GlobalTheory.QFam.IsFam.const_mul_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:00:09.034506+00:00
 -- url     : https://prove2.me/theorems/b0b5dccc-693d-47d4-8c6a-9991319b9f47

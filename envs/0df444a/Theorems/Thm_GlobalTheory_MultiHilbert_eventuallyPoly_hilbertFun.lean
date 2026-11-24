@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_eventuallyPoly_hilbertFun
 -- name    : GlobalTheory.MultiHilbert.eventuallyPoly_hilbertFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:29:10.80282+00:00
 -- url     : https://prove2.me/theorems/6c798fb5-5ec9-43a1-a5c2-221a415a3a61

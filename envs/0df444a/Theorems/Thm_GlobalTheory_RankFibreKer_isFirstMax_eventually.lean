@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_isFirstMax_eventually
 -- name    : GlobalTheory.RankFibreKer.isFirstMax_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:13:45.037715+00:00
 -- url     : https://prove2.me/theorems/3bf1ec33-f110-4bbb-a48e-b2513fef8d5c

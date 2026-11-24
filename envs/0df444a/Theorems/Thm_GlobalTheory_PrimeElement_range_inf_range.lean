@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeElement_range_inf_range
 -- name    : GlobalTheory.PrimeElement.range_inf_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:44:28.859805+00:00
 -- url     : https://prove2.me/theorems/fb9f3f37-4e67-48f6-bb98-7ae693d2f1ad

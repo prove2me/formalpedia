@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_kcls_Psc
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.kcls_Psc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:05:00.184915+00:00
 -- url     : https://prove2.me/theorems/807f39dd-40d4-4cf2-b57b-27c4b40efeaa

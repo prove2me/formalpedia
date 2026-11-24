@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_mem_sp_of_exp_mem_symplecticGroup
 -- name    : GlobalTheory.RealWeil.mem_sp_of_exp_mem_symplecticGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:16:05.441805+00:00
 -- url     : https://prove2.me/theorems/9cda65f7-ccca-443b-95c7-ec6d5e89add2

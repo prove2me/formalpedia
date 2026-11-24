@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartBC_dualMap_epsMul
 -- name    : GlobalTheory.RawChartBC.dualMap_epsMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:15:35.836856+00:00
 -- url     : https://prove2.me/theorems/4e2fb93e-795e-4ec4-922e-1a92cdec451f

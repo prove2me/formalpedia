@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_GaussPairing_posDef_one_add
 -- name    : GlobalTheory.RealWeil.GaussPairing.posDef_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:14:50.006915+00:00
 -- url     : https://prove2.me/theorems/f5492a77-9967-4d05-91d5-cab4f39e889f

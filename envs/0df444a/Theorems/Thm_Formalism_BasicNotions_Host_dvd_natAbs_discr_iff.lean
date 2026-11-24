@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_dvd_natAbs_discr_iff
 -- name    : Formalism.BasicNotions.Host.dvd_natAbs_discr_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:31:19.92003+00:00
 -- url     : https://prove2.me/theorems/f4e4748b-f0e1-4a40-962e-7d8604efc0b5

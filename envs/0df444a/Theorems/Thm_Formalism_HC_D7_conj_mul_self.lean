@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_conj_mul_self
 -- name    : Formalism.HC.D7.conj_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:40:35.301372+00:00
 -- url     : https://prove2.me/theorems/5b14452d-3ec6-4316-985c-aca8c0668534

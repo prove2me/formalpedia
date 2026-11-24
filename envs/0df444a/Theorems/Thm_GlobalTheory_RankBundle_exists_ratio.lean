@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankBundle_exists_ratio
 -- name    : GlobalTheory.RankBundle.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:13:58.008544+00:00
 -- url     : https://prove2.me/theorems/32239b4d-f248-4be3-b07c-a162b06d15aa

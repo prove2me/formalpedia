@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperDiscontinuity_rmul_oneFrame
 -- name    : GlobalTheory.ProperDiscontinuity.rmul_oneFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:57:53.07893+00:00
 -- url     : https://prove2.me/theorems/ff5b4b7f-c5be-4a3b-9911-beb2240ccd91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProductOfFnSingle_prod_ofFn_eq_single
 -- name    : GlobalTheory.ProductOfFnSingle.prod_ofFn_eq_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:00.238524+00:00
 -- url     : https://prove2.me/theorems/71e8e459-ff53-47cf-b4d5-3e58892f4113

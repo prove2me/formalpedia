@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_translT_comp
 -- name    : GlobalTheory.ThetaScalar.translT_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:30.588509+00:00
 -- url     : https://prove2.me/theorems/4d7d3c98-9416-47d7-a193-d602daba42bf

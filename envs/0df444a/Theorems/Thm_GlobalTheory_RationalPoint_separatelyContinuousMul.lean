@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalPoint_separatelyContinuousMul
 -- name    : GlobalTheory.RationalPoint.separatelyContinuousMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:15:08.932232+00:00
 -- url     : https://prove2.me/theorems/2b4adcf4-b8d4-46d4-b596-f426db826df3

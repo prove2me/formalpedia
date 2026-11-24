@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RatCoordsAdjoin_exists_rat_add_mul_of_mem_adjoin
 -- name    : GlobalTheory.RatCoordsAdjoin.exists_rat_add_mul_of_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:13:32.654252+00:00
 -- url     : https://prove2.me/theorems/0cf92a69-093c-4eed-8f07-6b02de46a073

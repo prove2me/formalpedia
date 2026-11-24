@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_ColumnMapShift_weight_rowWt
 -- name    : GlobalTheory.Proof.ColumnMapShift.weight_rowWt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:55:56.680034+00:00
 -- url     : https://prove2.me/theorems/61d55353-3d58-45f7-8058-305955b0dc2c

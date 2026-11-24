@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_rightContinuous_of_sections
 -- name    : Kyprianou.Ch01.rightContinuous_of_sections
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T19:45:59.371222+00:00
 -- url     : https://prove2.me/theorems/4d35d1c7-31e2-4cd3-8fd8-6f4c369b4a0f

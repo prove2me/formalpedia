@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_qminor_smooth
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.qminor_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:27:29.865805+00:00
 -- url     : https://prove2.me/theorems/571f2483-05f7-4775-a862-1b31209f0598

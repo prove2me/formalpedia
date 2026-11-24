@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_qminor_isPol
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.qminor_isPol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:55:49.012174+00:00
 -- url     : https://prove2.me/theorems/eb4c9641-7901-4a39-ab64-09e08a11f0da

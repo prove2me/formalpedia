@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_fOp_nOp_fOp
 -- name    : GlobalTheory.JR.WeilQuad.fOp_nOp_fOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:41:09.050876+00:00
 -- url     : https://prove2.me/theorems/81de7842-e306-44b8-a0a9-3579b459a069

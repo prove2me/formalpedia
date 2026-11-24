@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonoEigen_finrank_eq_card
 -- name    : GlobalTheory.MonoEigen.finrank_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:27:49.121312+00:00
 -- url     : https://prove2.me/theorems/825c06b6-4674-48cc-86aa-ce452bcd42df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_GaussPairing_star_mulVec_dot
 -- name    : GlobalTheory.RealWeil.GaussPairing.star_mulVec_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:15:07.133886+00:00
 -- url     : https://prove2.me/theorems/667b6c2f-9f73-42d4-a2af-141c3b9b674c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_GaussPairing_inner_eq_dot
 -- name    : GlobalTheory.RealWeil.GaussPairing.inner_eq_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:14:33.743235+00:00
 -- url     : https://prove2.me/theorems/0231963e-18e7-4f0d-9ad5-762703f478f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_sub_sq_mem_of_two_mem
 -- name    : GlobalTheory.QNorm.exists_sub_sq_mem_of_two_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:02:36.29324+00:00
 -- url     : https://prove2.me/theorems/237b8723-3b7d-4ea4-b32e-e6e1afa358c5

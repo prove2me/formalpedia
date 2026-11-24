@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_KQ_le_EQ
 -- name    : Formalism.HC.HostRaw.KQ_le_EQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:24:37.854889+00:00
 -- url     : https://prove2.me/theorems/e08820d1-ae70-4fc7-ab7c-2ecb5dbfac4b

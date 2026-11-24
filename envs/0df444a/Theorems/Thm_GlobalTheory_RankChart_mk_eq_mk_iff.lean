@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_mk_eq_mk_iff
 -- name    : GlobalTheory.RankChart.mk_eq_mk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:14:05.061673+00:00
 -- url     : https://prove2.me/theorems/d125b406-2971-42ac-8508-98d2391227c7

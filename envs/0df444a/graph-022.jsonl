@@ -65574,7 +65574,7 @@
 {"parent": "PctDistortion.corollary_1", "child": "PctDistortion_alphaMajority", "via": ["statement"]}
 {"parent": "PctDistortion.corollary_1", "child": "PctDistortion_abcValue", "via": ["statement"]}
 {"parent": "PctDistortion.corollary_1", "child": "PctDistortion_reducedPayoff", "via": ["statement"]}
-{"parent": "OptHedgeGames.lemma_5_1", "child": "OptHedgeGames_TwoPlayerRun", "via": ["statement"]}
+{"parent": "OptHedgeGames.lemma_5_1", "child": "OptHedgeGames_TwoPlayerRun", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.WeightedConnectedSetMass.anchored_one_mass", "child": "QEC_Locality_Graph_WeightedConnectedSetMass", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.WeightedConnectedSetMass.anchored_one_mass", "child": "QEC_Locality_Graph_ConnectedSetCounting", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.residueYMinpoly_ne_X", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Arithmetic_Arithmetic", "via": ["solution", "statement"]}
@@ -79234,10 +79234,10 @@
 {"parent": "KServerConj_opt", "child": "KServerConj_workFn", "via": ["statement"]}
 {"parent": "CoDecompFO.lemma_5_78", "child": "CoDecompFO_HTh", "via": ["solution", "statement"]}
 {"parent": "CoDecompFO.lemma_5_78", "child": "CoDecompFO_Lim", "via": ["solution", "statement"]}
-{"parent": "MeanBudgetXC.section_4_3_host", "child": "MeanBudgetXC_heavyCount", "via": ["statement"]}
-{"parent": "MeanBudgetXC.section_4_3_host", "child": "MeanBudgetXC_IsCanonical", "via": ["statement"]}
-{"parent": "MeanBudgetXC.section_4_3_host", "child": "MeanBudgetXC_hostGraph", "via": ["statement"]}
-{"parent": "MeanBudgetXC.section_4_3_host", "child": "MeanBudgetXC_isEndpoint", "via": ["statement"]}
+{"parent": "MeanBudgetXC.section_4_3_host", "child": "MeanBudgetXC_heavyCount", "via": ["solution", "statement"]}
+{"parent": "MeanBudgetXC.section_4_3_host", "child": "MeanBudgetXC_IsCanonical", "via": ["solution", "statement"]}
+{"parent": "MeanBudgetXC.section_4_3_host", "child": "MeanBudgetXC_hostGraph", "via": ["solution", "statement"]}
+{"parent": "MeanBudgetXC.section_4_3_host", "child": "MeanBudgetXC_isEndpoint", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Bridge.hasDegreeLE_mul", "child": "AaronsonAmbainis_Bridge_Fourier", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Bridge.hasDegreeLE_mul", "child": "AaronsonAmbainis_Bridge_Algebra", "via": ["solution", "statement"]}
 {"parent": "IntroDelayAMDP_pFinish", "child": "IntroDelayAMDP_LayeredSpace", "via": ["statement"]}

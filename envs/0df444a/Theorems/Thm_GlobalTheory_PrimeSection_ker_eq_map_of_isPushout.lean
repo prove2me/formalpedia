@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_ker_eq_map_of_isPushout
 -- name    : GlobalTheory.PrimeSection.ker_eq_map_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:43:45.938488+00:00
 -- url     : https://prove2.me/theorems/ca27ba43-6c6b-4102-8264-6652757829d2

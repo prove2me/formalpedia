@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEig_isDerivAt_epsMul
 -- name    : GlobalTheory.DerivEig.isDerivAt_epsMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:50.891577+00:00
 -- url     : https://prove2.me/theorems/d3262717-3a37-4ec8-9855-8fff8d88312b

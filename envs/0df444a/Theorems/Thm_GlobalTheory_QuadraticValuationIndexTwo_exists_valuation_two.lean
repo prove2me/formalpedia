@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticValuationIndexTwo_exists_valuation_two
 -- name    : GlobalTheory.QuadraticValuationIndexTwo.exists_valuation_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:13:11.793617+00:00
 -- url     : https://prove2.me/theorems/81ba8f6d-9781-4343-a214-ca01c227a391

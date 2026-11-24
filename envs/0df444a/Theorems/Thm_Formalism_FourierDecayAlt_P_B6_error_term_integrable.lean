@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_error_term_integrable
 -- name    : Formalism.FourierDecayAlt.P.B6.error_term_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:02:35.462439+00:00
 -- url     : https://prove2.me/theorems/2cf0f39e-b8a5-4029-8d4b-740badfdd6ce

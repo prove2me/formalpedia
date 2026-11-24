@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_IntRep_exists_nrm_eq_one_re_eq
 -- name    : GlobalTheory.QSA.IntRep.exists_nrm_eq_one_re_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:23:00.216118+00:00
 -- url     : https://prove2.me/theorems/670f3a4f-7264-4883-a286-8455b1af674e

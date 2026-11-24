@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_ex_one_sub
 -- name    : GlobalTheory.RandomTops.ex_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:14:28.707805+00:00
 -- url     : https://prove2.me/theorems/e104e9ca-5a68-4bd0-b1cc-f1e5dfbe353a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_surjective_appTop_of_forall_finiteType
 -- name    : GlobalTheory.ProperFunctions.surjective_appTop_of_forall_finiteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:56:22.292607+00:00
 -- url     : https://prove2.me/theorems/183399e8-62f1-47a2-af1c-1d5a02eeb1d1

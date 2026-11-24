@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_clears_idempotent_of_exponent_bound_colon_sup_eq_top
 -- name    : GlobalTheory.Proof.clears_idempotent_of_exponent_bound.colon_sup_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:55:33.307969+00:00
 -- url     : https://prove2.me/theorems/42c11dfd-bcf6-4aab-8c63-ebec63df19c0

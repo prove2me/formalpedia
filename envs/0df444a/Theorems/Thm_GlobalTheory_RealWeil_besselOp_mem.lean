@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_besselOp_mem
 -- name    : GlobalTheory.RealWeil.besselOp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:16:19.74898+00:00
 -- url     : https://prove2.me/theorems/cb4e77d1-ac42-487c-9947-a373aaa3eec0

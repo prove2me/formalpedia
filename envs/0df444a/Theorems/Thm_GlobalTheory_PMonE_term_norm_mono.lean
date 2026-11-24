@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_term_norm_mono
 -- name    : GlobalTheory.PMonE.term_norm_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:39:54.201126+00:00
 -- url     : https://prove2.me/theorems/136ba886-ca6a-4218-b9e7-b28a8d684ea8

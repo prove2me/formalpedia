@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ReducedBasisBound_int_eq_zero
 -- name    : GlobalTheory.ReducedBasisBound.int_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:18:26.41424+00:00
 -- url     : https://prove2.me/theorems/31fde41b-73b4-4f41-ac95-c28af8ca2655

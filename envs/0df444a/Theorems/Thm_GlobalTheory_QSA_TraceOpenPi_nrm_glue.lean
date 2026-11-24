@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_TraceOpenPi_nrm_glue
 -- name    : GlobalTheory.QSA.TraceOpenPi.nrm_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:03:38.552275+00:00
 -- url     : https://prove2.me/theorems/5a54c5cb-fe73-41b4-a3fa-eca1f7837a7a

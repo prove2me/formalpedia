@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_not_dvd_of_splitK
 -- name    : Formalism.BasicNotions.not_dvd_of_splitK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:31:17.017895+00:00
 -- url     : https://prove2.me/theorems/cc7eae2c-20be-4f69-9972-bdf8deb9fd8e

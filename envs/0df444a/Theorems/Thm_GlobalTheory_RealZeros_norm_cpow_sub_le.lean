@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeros_norm_cpow_sub_le
 -- name    : GlobalTheory.RealZeros.norm_cpow_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:18:15.71416+00:00
 -- url     : https://prove2.me/theorems/3c258337-b1c3-405b-b6b1-55f62fdafa92

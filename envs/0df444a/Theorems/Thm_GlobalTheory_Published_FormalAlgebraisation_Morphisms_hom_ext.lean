@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_FormalAlgebraisation_Morphisms_hom_ext
 -- name    : GlobalTheory.Published.FormalAlgebraisation.Morphisms.hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:10:03.732488+00:00
 -- url     : https://prove2.me/theorems/d2875264-1306-4d29-bd89-5d0b119af2c4

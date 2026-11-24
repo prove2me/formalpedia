@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinPhaseSeminorm_seminorm_smulLeft_phase_le
 -- name    : GlobalTheory.LinPhaseSeminorm.seminorm_smulLeft_phase_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:07:34.706702+00:00
 -- url     : https://prove2.me/theorems/1a480047-71b6-4529-a6bc-d1c16f58d416

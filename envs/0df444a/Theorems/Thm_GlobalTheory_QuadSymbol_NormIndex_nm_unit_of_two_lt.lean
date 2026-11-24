@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_nm_unit_of_two_lt
 -- name    : GlobalTheory.QuadSymbol.NormIndex.nm_unit_of_two_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:13:08.990248+00:00
 -- url     : https://prove2.me/theorems/0512d8fc-1b80-4339-b06f-fb9ac41ef985

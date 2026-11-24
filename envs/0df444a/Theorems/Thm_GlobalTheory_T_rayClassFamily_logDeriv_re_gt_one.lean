@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rayClassFamily_logDeriv_re_gt_one
 -- name    : GlobalTheory.T.rayClassFamily_logDeriv_re_gt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:00.642291+00:00
 -- url     : https://prove2.me/theorems/d0a86d5e-613b-4545-b1c1-e532fdda295c

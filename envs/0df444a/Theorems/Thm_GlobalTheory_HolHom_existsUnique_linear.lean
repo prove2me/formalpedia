@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_existsUnique_linear
 -- name    : GlobalTheory.HolHom.existsUnique_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:25.505961+00:00
 -- url     : https://prove2.me/theorems/0f99efe9-aef9-4c9b-a588-18b56b0f8d11

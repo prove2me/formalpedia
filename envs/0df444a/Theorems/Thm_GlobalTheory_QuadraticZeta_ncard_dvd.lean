@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_ncard_dvd
 -- name    : GlobalTheory.QuadraticZeta.ncard_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:12:38.265585+00:00
 -- url     : https://prove2.me/theorems/d3e31872-6f60-4978-b30e-eb51c36bbee1

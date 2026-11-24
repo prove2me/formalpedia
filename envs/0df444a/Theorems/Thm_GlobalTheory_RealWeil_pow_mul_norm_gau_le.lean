@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_pow_mul_norm_gau_le
 -- name    : GlobalTheory.RealWeil.pow_mul_norm_gau_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:16:20.301241+00:00
 -- url     : https://prove2.me/theorems/788781c7-a836-4f6a-8f91-7396784dc8a8

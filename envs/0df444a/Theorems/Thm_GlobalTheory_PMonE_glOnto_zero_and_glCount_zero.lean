@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_glOnto_zero_and_glCount_zero
 -- name    : GlobalTheory.PMonE.glOnto_zero_and_glCount_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:39:49.069798+00:00
 -- url     : https://prove2.me/theorems/4d377d6a-6691-439c-8564-6b96b44b28c6

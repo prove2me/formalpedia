@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_jB_gen_dd198de4182c
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_jB_gen_dd198de4182c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:03:49.393824+00:00
 -- url     : https://prove2.me/theorems/32bf1092-a672-4322-80a8-963053d25681

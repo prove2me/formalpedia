@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_heisS_dup
 -- name    : GlobalTheory.Phase.Doubling.heisS_dup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:15.080946+00:00
 -- url     : https://prove2.me/theorems/306e144b-be19-4c05-854d-f905ba26bf61

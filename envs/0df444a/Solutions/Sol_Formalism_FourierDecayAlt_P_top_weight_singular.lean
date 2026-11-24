@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.top_weight_singular
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-24T19:51:43.260607+00:00
+-- url     : https://prove2.me/submissions/cb57a57e-57da-4341-8be6-100eda2ad2bc
+
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CommonEigenvectors
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HighestWeightPolynomials
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CapelliAbstractCharacter
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_StarSumLemmas
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BorderedDeterminants
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BranchingSystems
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ClosureOperators
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WeightMonotonicity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_StrictBoxOrder
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_IrreducibleCapelliModules
+import Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_singular
+import Theorems.Thm_Formalism_FourierDecayAlt_P_exists_singular_maximal_vector
+import Theorems.Thm_Formalism_FourierDecayAlt_P_qr_topWeightSing_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Formalism.FourierDecayAlt
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Qr.TopWeightSing := qr_topWeightSing_of exists_singular_maximal_vector capelli_singular
+end Formalism.FourierDecayAlt.P

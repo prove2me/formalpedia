@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogEulerSeries_hasSum_log_zeta_sq_mul
 -- name    : GlobalTheory.LogEulerSeries.hasSum_log_zeta_sq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:50.033694+00:00
 -- url     : https://prove2.me/theorems/5f666849-ea85-46ac-a6cd-02085c038180

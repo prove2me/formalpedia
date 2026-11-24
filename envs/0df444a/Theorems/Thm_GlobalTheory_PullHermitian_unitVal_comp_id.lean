@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullHermitian_unitVal_comp_id
 -- name    : GlobalTheory.PullHermitian.unitVal_comp_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:58:33.471851+00:00
 -- url     : https://prove2.me/theorems/94efa152-99e9-4947-8e79-b98965f5e020

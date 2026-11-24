@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_sum_eval_eq_of_sum_monomial_eq
 -- name    : GlobalTheory.QFam.sum_eval_eq_of_sum_monomial_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:59:28.643503+00:00
 -- url     : https://prove2.me/theorems/e9017170-b5bd-40d1-b4f9-06be912b7e44

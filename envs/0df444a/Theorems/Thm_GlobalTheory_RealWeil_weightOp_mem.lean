@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_weightOp_mem
 -- name    : GlobalTheory.RealWeil.weightOp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:16:42.990898+00:00
 -- url     : https://prove2.me/theorems/c1cf06dc-2142-473f-a613-342f36ec0d5a

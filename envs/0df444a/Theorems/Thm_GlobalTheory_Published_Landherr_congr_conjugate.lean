@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Landherr_congr_conjugate
 -- name    : GlobalTheory.Published.Landherr.congr_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:56:20.874164+00:00
 -- url     : https://prove2.me/theorems/672e4751-25eb-43e4-8856-633d9d60e47b

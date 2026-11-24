@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeInHeightOneSpectrum_exists_prime_mem_heightOneSpectrum
 -- name    : GlobalTheory.PrimeInHeightOneSpectrum.exists_prime_mem_heightOneSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:55:38.792862+00:00
 -- url     : https://prove2.me/theorems/03e1c04c-26ac-4918-9e67-2968a6775f22

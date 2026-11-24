@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_le_flatten_of_interleaves
 -- name    : GlobalTheory.Lyndon.le_flatten_of_interleaves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:19:46.062846+00:00
 -- url     : https://prove2.me/theorems/c9d9051b-5591-45ed-9d1e-ab10456ea84a

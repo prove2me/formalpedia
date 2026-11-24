@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalIntegralCoordinates_conj_eq_neg
 -- name    : GlobalTheory.RationalIntegralCoordinates.conj_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:13:13.495481+00:00
 -- url     : https://prove2.me/theorems/7e4fa5da-9a99-4ce9-b163-f1d9e17c8092

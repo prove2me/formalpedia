@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_heis_unitary
 -- name    : GlobalTheory.CompanionTheory.InertHeis.heis_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:50:08.147749+00:00
 -- url     : https://prove2.me/theorems/4210cd46-f37d-4a5f-8370-5a6578eb56dc

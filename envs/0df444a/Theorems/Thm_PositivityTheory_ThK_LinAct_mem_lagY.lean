@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_mem_lagY
 -- name    : PositivityTheory.ThK.LinAct.mem_lagY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:39:30.640796+00:00
 -- url     : https://prove2.me/theorems/5ce3d2a4-0ac6-42d2-a607-8642fd6ef51b

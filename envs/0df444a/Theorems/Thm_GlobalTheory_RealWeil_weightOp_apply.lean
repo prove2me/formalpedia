@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_weightOp_apply
 -- name    : GlobalTheory.RealWeil.weightOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:16:37.182702+00:00
 -- url     : https://prove2.me/theorems/bfea9cd8-acf8-4cbd-8cd2-3a2632e681cd

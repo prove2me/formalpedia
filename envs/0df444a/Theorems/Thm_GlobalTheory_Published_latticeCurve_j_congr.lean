@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_latticeCurve_j_congr
 -- name    : GlobalTheory.Published.latticeCurve_j_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:58:55.52538+00:00
 -- url     : https://prove2.me/theorems/c47f2203-6272-4de3-80ec-7b87240ed743

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSec_down_surjective
 -- name    : GlobalTheory.PowSec.down_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:53:02.116816+00:00
 -- url     : https://prove2.me/theorems/c023b578-fe94-483d-b29e-7715aea3c8a1

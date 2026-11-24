@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_integrable_pow_gau
 -- name    : GlobalTheory.RealWeil.Osc.integrable_pow_gau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:14:53.373613+00:00
 -- url     : https://prove2.me/theorems/4d4059a0-ec5a-42a6-ad96-027b50528af8

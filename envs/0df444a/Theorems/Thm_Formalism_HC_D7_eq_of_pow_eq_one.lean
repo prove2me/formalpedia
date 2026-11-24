@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_eq_of_pow_eq_one
 -- name    : Formalism.HC.D7.eq_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:39:58.495997+00:00
 -- url     : https://prove2.me/theorems/95fe51c0-1271-4247-b670-70d081db9b2e

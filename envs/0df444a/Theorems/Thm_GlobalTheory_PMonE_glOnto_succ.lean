@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_glOnto_succ
 -- name    : GlobalTheory.PMonE.glOnto_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:39:38.842556+00:00
 -- url     : https://prove2.me/theorems/9158e091-a3e2-4c8a-b892-51377c75da2e

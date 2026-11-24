@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QkPairing_tr_inv
 -- name    : GlobalTheory.QkPairing.tr_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:23:45.36438+00:00
 -- url     : https://prove2.me/theorems/6f8ea09f-0eaa-4d06-9a11-2a5dc1e50c6f

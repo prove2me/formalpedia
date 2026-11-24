@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointStepCompare_sum_pos_of_tensor_pos
 -- name    : GlobalTheory.PointStepCompare.sum_pos_of_tensor_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:50:32.250803+00:00
 -- url     : https://prove2.me/theorems/37e2558b-48ef-4b86-bc14-611702588dff

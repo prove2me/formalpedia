@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_hasQ_unique_both
 -- name    : GlobalTheory.QFam.hasQ_unique_both
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:59:22.359808+00:00
 -- url     : https://prove2.me/theorems/401587c4-4127-404c-b655-66de8e541155

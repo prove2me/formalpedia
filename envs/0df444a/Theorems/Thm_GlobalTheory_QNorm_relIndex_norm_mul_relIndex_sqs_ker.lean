@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_relIndex_norm_mul_relIndex_sqs_ker
 -- name    : GlobalTheory.QNorm.relIndex_norm_mul_relIndex_sqs_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:02:08.064804+00:00
 -- url     : https://prove2.me/theorems/bddaa543-a4ab-4e7c-8e05-5c98cd33a5e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_invariants_eq_of_periodic_solution
 -- name    : GlobalTheory.invariants_eq_of_periodic_solution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:42:06.951829+00:00
 -- url     : https://prove2.me/theorems/52e06756-94e9-4c15-99fe-aa7f88d8e4cd

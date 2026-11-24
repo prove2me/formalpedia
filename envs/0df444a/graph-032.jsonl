@@ -60139,7 +60139,7 @@
 {"parent": "ParetoNCSched_Supplement_nextCands", "child": "ParetoNCSched_Supplement_curRate", "via": ["statement"]}
 {"parent": "ParetoNCSched_Supplement_nextCands", "child": "ParetoNCSched_elapsed", "via": ["statement"]}
 {"parent": "APSCounting893.Main.Supplement.integral_iff_bounded_branches", "child": "APSCounting893_Main_Supplement_Certificates", "via": ["statement"]}
-{"parent": "IndependentInfoPricing.Main.Supplement.regular_half_tail", "child": "IndependentInfoPricing_Main_Supplement_Regularity", "via": ["statement"]}
+{"parent": "IndependentInfoPricing.Main.Supplement.regular_half_tail", "child": "IndependentInfoPricing_Main_Supplement_Regularity", "via": ["solution", "statement"]}
 {"parent": "DirKECC1549.Asm.sortPerm_mono", "child": "DirKECC1549_Impl_LayComb", "via": ["solution", "statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankArgDimLeA13", "child": "IntMul_Kappa_R8_Data_BitOppbankPnd", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankArgDimLeA13", "child": "IntMul_Kappa_R8_Data_BitOppbankSupG", "via": ["statement"]}
@@ -88063,7 +88063,7 @@
 {"parent": "SparseDisc.Supplement.theorem_8_37", "child": "SparseDisc_InstDiscLE", "via": ["statement"]}
 {"parent": "QuerySampleRev.Supplement.theorem_31", "child": "MassartDKW_Tight_EmpiricalProcess", "via": ["statement"]}
 {"parent": "QuantumLTF.Example.proposition_5_1", "child": "QuantumLTF_Membership_ltf", "via": ["statement"]}
-{"parent": "QuantumLTF.Example.proposition_5_1", "child": "QuantumLTF_Example_HermiteModel", "via": ["statement"]}
+{"parent": "QuantumLTF.Example.proposition_5_1", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
 {"parent": "N25.U25_orders_geometric", "child": "AlgebraicCurve_IsCurveOver", "via": ["solution", "statement"]}
 {"parent": "N25.U25_orders_geometric", "child": "ModularCurve.exists_ringHom_place_order_eq_mul_ord_of_qExpansion_slash", "via": ["solution", "statement"]}
 {"parent": "N25.U25_orders_geometric", "child": "N25_UnitOrders", "via": ["solution", "statement"]}

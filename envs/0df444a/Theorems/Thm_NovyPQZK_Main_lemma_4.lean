@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NovyPQZK_Main_lemma_4
 -- name    : NovyPQZK.Main.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T05:37:23.653688+00:00
 -- url     : https://prove2.me/theorems/7428734a-8bc5-4ca4-8231-01d6885319a5

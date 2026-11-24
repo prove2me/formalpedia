@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartBC_jetMap_congr_fun
 -- name    : GlobalTheory.RawChartBC.jetMap_congr_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:15:14.217873+00:00
 -- url     : https://prove2.me/theorems/24c6fd37-9273-49ec-b89c-46a8e3d2e3f7

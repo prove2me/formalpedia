@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_ColumnMapShift_aeval_weightedHomogeneous
 -- name    : GlobalTheory.Proof.ColumnMapShift.aeval_weightedHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:55:42.916311+00:00
 -- url     : https://prove2.me/theorems/7e782c79-a617-479e-9a22-354712f2cde4

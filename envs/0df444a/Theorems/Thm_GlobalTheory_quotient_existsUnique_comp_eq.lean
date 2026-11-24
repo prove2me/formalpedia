@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quotient_existsUnique_comp_eq
 -- name    : GlobalTheory.quotient_existsUnique_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:41:25.047814+00:00
 -- url     : https://prove2.me/theorems/b27a14a0-ae7d-4c82-b0cc-a0d1e3cf8e92

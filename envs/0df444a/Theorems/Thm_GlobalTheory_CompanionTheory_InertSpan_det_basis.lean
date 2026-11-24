@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_det_basis
 -- name    : GlobalTheory.CompanionTheory.InertSpan.det_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:05:13.813531+00:00
 -- url     : https://prove2.me/theorems/504bfc24-886b-428e-a88a-1cf796aa3f73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_IdemCusp_chi_zero
 -- name    : GlobalTheory.Reg.IdemCusp.chi_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:19:05.249932+00:00
 -- url     : https://prove2.me/theorems/f9727bbf-9981-4c87-9afa-4a77cf0f9d6b

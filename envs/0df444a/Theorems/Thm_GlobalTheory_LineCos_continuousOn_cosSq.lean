@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_continuousOn_cosSq
 -- name    : GlobalTheory.LineCos.continuousOn_cosSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:07:42.0017+00:00
 -- url     : https://prove2.me/theorems/68f5197e-87ea-4a61-8a4a-cfdfd0912ca4

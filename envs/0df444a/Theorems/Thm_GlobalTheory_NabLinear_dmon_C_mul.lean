@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabLinear_dmon_C_mul
 -- name    : GlobalTheory.NabLinear.dmon_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:36:52.021472+00:00
 -- url     : https://prove2.me/theorems/89c9e8c6-aa58-4b53-9936-425d113fc297

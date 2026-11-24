@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotLocInt_integrableOn_compact
 -- name    : GlobalTheory.QuotLocInt.integrableOn_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:12:25.092533+00:00
 -- url     : https://prove2.me/theorems/b28376cb-34fd-4fdf-af71-8eb4ba8fcce3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_differentiable_qClass
 -- name    : GlobalTheory.QHolo.differentiable_qClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:25:42.542197+00:00
 -- url     : https://prove2.me/theorems/2ef04ede-9a66-4592-82f1-fa050356425d

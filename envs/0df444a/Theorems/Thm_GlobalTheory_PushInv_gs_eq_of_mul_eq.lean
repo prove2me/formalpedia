@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushInv_gs_eq_of_mul_eq
 -- name    : GlobalTheory.PushInv.gs_eq_of_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:58:43.962424+00:00
 -- url     : https://prove2.me/theorems/541cfd8a-99a6-474f-b110-52fe9614c6a4

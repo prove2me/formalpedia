@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_chainInt_natCast_iff
 -- name    : GlobalTheory.FourierChainCompare.chainInt_natCast_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:54:57.445373+00:00
 -- url     : https://prove2.me/theorems/173ab81a-e4de-466e-9d4b-bbdecb478d3b

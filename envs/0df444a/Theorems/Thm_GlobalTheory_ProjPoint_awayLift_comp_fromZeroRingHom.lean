@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjPoint_awayLift_comp_fromZeroRingHom
 -- name    : GlobalTheory.ProjPoint.awayLift_comp_fromZeroRingHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:55:06.729794+00:00
 -- url     : https://prove2.me/theorems/b53c8a9b-e978-4d40-9a51-db94b0545849

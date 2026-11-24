@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_finite_quot
 -- name    : GlobalTheory.Published.SvN.finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:58:07.010205+00:00
 -- url     : https://prove2.me/theorems/de66a9e1-4261-4edd-ab65-4b108cda203e

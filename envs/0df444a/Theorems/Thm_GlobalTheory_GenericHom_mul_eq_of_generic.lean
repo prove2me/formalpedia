@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericHom_mul_eq_of_generic
 -- name    : GlobalTheory.GenericHom.mul_eq_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:36.965418+00:00
 -- url     : https://prove2.me/theorems/c3b15137-2662-4ead-b905-31cfdd0e23c6

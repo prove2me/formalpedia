@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjFrac_frac_add
 -- name    : GlobalTheory.ProjFrac.frac_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:55:22.367304+00:00
 -- url     : https://prove2.me/theorems/fb1f919b-1048-4062-8019-a4bdd758e6f3

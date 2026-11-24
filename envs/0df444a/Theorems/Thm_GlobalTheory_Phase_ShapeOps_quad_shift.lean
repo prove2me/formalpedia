@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ShapeOps_quad_shift
 -- name    : GlobalTheory.Phase.ShapeOps.quad_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:44:44.266656+00:00
 -- url     : https://prove2.me/theorems/866aacd5-42b6-46ea-b756-7dc41791c91b

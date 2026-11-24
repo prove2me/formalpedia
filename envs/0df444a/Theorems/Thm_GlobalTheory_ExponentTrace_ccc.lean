@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExponentTrace_ccc
 -- name    : GlobalTheory.ExponentTrace.ccc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:36:20.549397+00:00
 -- url     : https://prove2.me/theorems/641ea504-4c71-4a31-8f82-4ef1c00babec

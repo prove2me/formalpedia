@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_splitBound_lt_of_inert
 -- name    : Formalism.BasicNotions.Host.splitBound_lt_of_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:46:03.238068+00:00
 -- url     : https://prove2.me/theorems/f401edd7-7323-4d59-b280-cd667a94f777

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_exists_shift_form
 -- name    : GlobalTheory.RealWeil.exists_shift_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:16:03.174325+00:00
 -- url     : https://prove2.me/theorems/91ec723c-64ee-4a0c-8f1b-f9eb35d59f88

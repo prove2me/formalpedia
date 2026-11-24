@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_dRho_add
 -- name    : GlobalTheory.RealWeil.dRho_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:16:34.371272+00:00
 -- url     : https://prove2.me/theorems/c2a23717-6b4b-4778-882d-0f588e479cff

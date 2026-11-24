@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolModLattice_trace_eq
 -- name    : GlobalTheory.PolModLattice.trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:50:31.260856+00:00
 -- url     : https://prove2.me/theorems/e889250a-6a1c-4170-b4db-354ca84025af

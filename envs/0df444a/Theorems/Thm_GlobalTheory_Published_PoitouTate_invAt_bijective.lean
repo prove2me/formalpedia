@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTate_invAt_bijective
 -- name    : GlobalTheory.Published.PoitouTate.invAt_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:56:30.301095+00:00
 -- url     : https://prove2.me/theorems/3508f89a-d5a1-46e2-aabf-83d65cec1f08

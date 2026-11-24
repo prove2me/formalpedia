@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_extendByZeroOnSubset_apply_coe
 -- name    : Formalism.DimensionVariation.extendByZeroOnSubset_apply_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:47.080811+00:00
 -- url     : https://prove2.me/theorems/2bec19cd-1a22-4737-bc0b-8d05628b73ec

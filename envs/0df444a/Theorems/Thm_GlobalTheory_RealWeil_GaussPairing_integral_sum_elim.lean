@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_GaussPairing_integral_sum_elim
 -- name    : GlobalTheory.RealWeil.GaussPairing.integral_sum_elim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:15:26.637657+00:00
 -- url     : https://prove2.me/theorems/0bd5ec02-af1f-480b-94eb-d74292c543e1

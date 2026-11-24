@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFibre_IsSqrtOn_div_mem_of_mem_smul
 -- name    : GlobalTheory.QuadFibre.IsSqrtOn.div_mem_of_mem_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:05:39.920804+00:00
 -- url     : https://prove2.me/theorems/3e6497f2-373a-446b-bacd-e90351a2d73f

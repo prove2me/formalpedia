@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_intValuation_of_eq_comap
 -- name    : GlobalTheory.QNorm.intValuation_of_eq_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:02:20.403067+00:00
 -- url     : https://prove2.me/theorems/99d4ece5-61ec-47c7-8068-44979f64440e

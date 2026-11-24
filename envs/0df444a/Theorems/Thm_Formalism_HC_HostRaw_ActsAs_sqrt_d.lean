@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_ActsAs_sqrt_d
 -- name    : Formalism.HC.HostRaw.ActsAs.sqrt_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:25:00.8429+00:00
 -- url     : https://prove2.me/theorems/3d4e3fc6-84cd-4b02-97ff-8d5b3d53d7d6

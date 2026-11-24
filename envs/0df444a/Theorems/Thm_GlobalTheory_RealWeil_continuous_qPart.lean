@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_continuous_qPart
 -- name    : GlobalTheory.RealWeil.continuous_qPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:16:22.579479+00:00
 -- url     : https://prove2.me/theorems/c0da5d45-d0ad-40bb-bcfc-fc91c8bb568e

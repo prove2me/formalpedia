@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QkShift_cubN_one_mul
 -- name    : GlobalTheory.QkShift.cubN_one_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:08:30.582971+00:00
 -- url     : https://prove2.me/theorems/874c039e-32a4-4fb7-bfee-0fbf7472418a

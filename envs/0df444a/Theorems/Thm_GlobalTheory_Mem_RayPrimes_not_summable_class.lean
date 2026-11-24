@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayPrimes_not_summable_class
 -- name    : GlobalTheory.Mem.RayPrimes.not_summable_class
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:54.801652+00:00
 -- url     : https://prove2.me/theorems/1a6579b7-5c77-456a-8ce7-f718b8e8d47a

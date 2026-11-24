@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxG_W_eq_phi
 -- name    : Formalism.FourierDecayAlt.P.JFxG.W_eq_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:15:01.478806+00:00
 -- url     : https://prove2.me/theorems/070c9f85-0513-4d29-ac68-11f7b1c40135

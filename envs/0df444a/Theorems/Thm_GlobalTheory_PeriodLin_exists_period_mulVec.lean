@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodLin_exists_period_mulVec
 -- name    : GlobalTheory.PeriodLin.exists_period_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:20:37.818591+00:00
 -- url     : https://prove2.me/theorems/14b8b271-5128-4b16-b2e3-7303df2ae989

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjModClasses_exists_equiv_model
 -- name    : GlobalTheory.ProjModClasses.exists_equiv_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:55:16.073133+00:00
 -- url     : https://prove2.me/theorems/7951525f-91cb-4eee-9cca-489457c716e7

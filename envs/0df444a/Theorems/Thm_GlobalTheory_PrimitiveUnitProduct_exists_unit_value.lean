@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimitiveUnitProduct_exists_unit_value
 -- name    : GlobalTheory.PrimitiveUnitProduct.exists_unit_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:10.532303+00:00
 -- url     : https://prove2.me/theorems/c0113693-fb29-4152-b1b2-e00fc9e6a5b0

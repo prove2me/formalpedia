@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_nonempty_presentation_over_of_restrict
 -- name    : GlobalTheory.QCoh.nonempty_presentation_over_of_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:58:13.485176+00:00
 -- url     : https://prove2.me/theorems/98550fa5-4df1-45ed-837c-f768d8afb75e

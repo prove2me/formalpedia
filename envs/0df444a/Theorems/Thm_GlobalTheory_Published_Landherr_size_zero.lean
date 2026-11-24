@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Landherr_size_zero
 -- name    : GlobalTheory.Published.Landherr.size_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:56:24.023448+00:00
 -- url     : https://prove2.me/theorems/0b2b4333-300e-4718-a2df-64a704015fea

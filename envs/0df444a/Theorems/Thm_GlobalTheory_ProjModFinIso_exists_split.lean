@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjModFinIso_exists_split
 -- name    : GlobalTheory.ProjModFinIso.exists_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:55:09.846867+00:00
 -- url     : https://prove2.me/theorems/4e1590f0-8dd4-4bed-8244-b07119e9a1b6

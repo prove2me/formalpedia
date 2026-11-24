@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicUnitBall_padicInt_mem_range
 -- name    : GlobalTheory.PadicUnitBall.padicInt_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:39:46.303908+00:00
 -- url     : https://prove2.me/theorems/1341c405-1ec6-4011-8c9e-87e34deedfc0

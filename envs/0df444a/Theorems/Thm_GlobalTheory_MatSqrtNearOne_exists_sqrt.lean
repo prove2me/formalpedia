@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatSqrtNearOne_exists_sqrt
 -- name    : GlobalTheory.MatSqrtNearOne.exists_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:19:40.944104+00:00
 -- url     : https://prove2.me/theorems/cb1cec86-cc5b-47e5-b7c2-7e727c7d0a1f

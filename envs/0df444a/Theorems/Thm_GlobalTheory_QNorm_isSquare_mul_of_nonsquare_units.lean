@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_isSquare_mul_of_nonsquare_units
 -- name    : GlobalTheory.QNorm.isSquare_mul_of_nonsquare_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:25:42.656426+00:00
 -- url     : https://prove2.me/theorems/460a1e8a-a9a9-48ba-9c8f-54fea9e9a353

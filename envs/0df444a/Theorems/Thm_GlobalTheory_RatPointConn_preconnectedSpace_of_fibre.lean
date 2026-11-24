@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RatPointConn_preconnectedSpace_of_fibre
 -- name    : GlobalTheory.RatPointConn.preconnectedSpace_of_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:14:00.439957+00:00
 -- url     : https://prove2.me/theorems/5e298224-dc40-4666-8f58-8443d55ae946

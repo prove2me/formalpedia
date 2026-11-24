@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_germ_eq_mul_germ
 -- name    : GlobalTheory.PrimeSection.germ_eq_mul_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:28:52.664462+00:00
 -- url     : https://prove2.me/theorems/9b4c69ed-e90f-4367-b27e-453f5e6d7de2

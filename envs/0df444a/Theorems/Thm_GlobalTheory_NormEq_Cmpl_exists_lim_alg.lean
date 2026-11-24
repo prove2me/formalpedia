@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_Cmpl_exists_lim_alg
 -- name    : GlobalTheory.NormEq.Cmpl.exists_lim_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:34:36.648897+00:00
 -- url     : https://prove2.me/theorems/4d38f908-8ed8-4e6c-9a9c-cdbea4eeaf86

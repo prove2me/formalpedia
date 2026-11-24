@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpenImmersion_spMap_of_isDiscreteValuationRing
 -- name    : GlobalTheory.isOpenImmersion_spMap_of_isDiscreteValuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:44:15.546524+00:00
 -- url     : https://prove2.me/theorems/45bc00e5-3c1e-463f-94b0-086b39cd68ac

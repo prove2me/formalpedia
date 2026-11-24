@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadFibre_exists_map_div_eq_smul
 -- name    : GlobalTheory.QuadFibre.exists_map_div_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:10:39.177648+00:00
 -- url     : https://prove2.me/theorems/c6a30566-2473-49b0-a274-1c317660dedf

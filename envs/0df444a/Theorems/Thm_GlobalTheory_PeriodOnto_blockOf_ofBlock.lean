@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_blockOf_ofBlock
 -- name    : GlobalTheory.PeriodOnto.blockOf_ofBlock
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:52:24.058787+00:00
 -- url     : https://prove2.me/theorems/504f5d15-7d1c-4e24-ade0-339da5aacee0

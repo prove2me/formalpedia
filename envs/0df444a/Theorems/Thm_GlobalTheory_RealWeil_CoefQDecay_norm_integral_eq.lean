@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_CoefQDecay_norm_integral_eq
 -- name    : GlobalTheory.RealWeil.CoefQDecay.norm_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:15:20.073801+00:00
 -- url     : https://prove2.me/theorems/f11b953d-2e10-4274-8582-086ef2662e21

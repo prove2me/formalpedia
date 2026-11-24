@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_not_dvd_of_signal
 -- name    : Formalism.BasicNotions.not_dvd_of_signal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:31:13.178198+00:00
 -- url     : https://prove2.me/theorems/44f94baa-4e9f-4c80-9a11-66cf8c93898f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_ptSecT_translT
 -- name    : GlobalTheory.ThetaScalar.ptSecT_translT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:43:16.013798+00:00
 -- url     : https://prove2.me/theorems/e348cdc1-3fca-40eb-a8a2-fc42504ab2ca

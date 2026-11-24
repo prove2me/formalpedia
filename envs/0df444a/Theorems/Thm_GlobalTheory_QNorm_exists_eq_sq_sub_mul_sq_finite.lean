@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_eq_sq_sub_mul_sq_finite
 -- name    : GlobalTheory.QNorm.exists_eq_sq_sub_mul_sq_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:22:14.525067+00:00
 -- url     : https://prove2.me/theorems/8f6b36a0-2c01-4f68-ae96-441a9440b762

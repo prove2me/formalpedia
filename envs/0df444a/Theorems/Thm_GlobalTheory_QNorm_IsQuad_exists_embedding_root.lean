@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_IsQuad_exists_embedding_root
 -- name    : GlobalTheory.QNorm.IsQuad.exists_embedding_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:02:42.891404+00:00
 -- url     : https://prove2.me/theorems/ca22d660-e9d8-457b-86ae-feebc5634c8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowLinSpan_monomial_kill
 -- name    : GlobalTheory.PowLinSpan.monomial_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:52:39.458261+00:00
 -- url     : https://prove2.me/theorems/5f7266d6-426d-4c19-a42a-37588459be16

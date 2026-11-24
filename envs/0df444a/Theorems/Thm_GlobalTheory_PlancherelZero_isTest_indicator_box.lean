@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_isTest_indicator_box
 -- name    : GlobalTheory.PlancherelZero.isTest_indicator_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:48:16.594822+00:00
 -- url     : https://prove2.me/theorems/b70498c9-ad49-4e52-af21-423fd0d3ad91

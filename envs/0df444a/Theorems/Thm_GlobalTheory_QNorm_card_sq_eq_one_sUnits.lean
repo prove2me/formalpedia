@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_card_sq_eq_one_sUnits
 -- name    : GlobalTheory.QNorm.card_sq_eq_one_sUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:02:57.04889+00:00
 -- url     : https://prove2.me/theorems/6aff5f81-6ac7-4369-a5ad-75b4fd29455c

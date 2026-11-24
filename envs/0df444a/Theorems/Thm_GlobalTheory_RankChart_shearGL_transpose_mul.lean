@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_shearGL_transpose_mul
 -- name    : GlobalTheory.RankChart.shearGL_transpose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:14:27.196827+00:00
 -- url     : https://prove2.me/theorems/6a4ecc02-0596-4d17-9fda-6b34c674e581

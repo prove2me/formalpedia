@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_TraceOpenProd_glue_fst_snd
 -- name    : GlobalTheory.QSA.TraceOpenProd.glue_fst_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:03:33.44395+00:00
 -- url     : https://prove2.me/theorems/4f30b0bb-78b7-45cf-8151-7bf12b8a110a

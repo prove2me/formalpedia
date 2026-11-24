@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TanDeriv_derivAt_sum
 -- name    : GlobalTheory.TanDeriv.derivAt_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:38:23.038657+00:00
 -- url     : https://prove2.me/theorems/836f8c8f-97bf-4058-9ef7-45ef2b8e35e1

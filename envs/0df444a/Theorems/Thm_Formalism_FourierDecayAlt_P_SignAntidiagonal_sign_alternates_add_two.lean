@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_sign_alternates_add_two
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.sign_alternates_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:44:11.004371+00:00
 -- url     : https://prove2.me/theorems/522b2309-3b71-4af7-b894-16cfde4f3b92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_vanishing_of_components_true
 -- name    : Formalism.FourierDecayAlt.P.vanishing_of_components_true
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:40:38.193732+00:00
 -- url     : https://prove2.me/theorems/12b80801-8132-4240-8765-052865e3cb97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_MackeyCuspidal_hcFun_inv_mul
 -- name    : GlobalTheory.CompanionTheory.TyFin.MackeyCuspidal.hcFun_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:31:58.545982+00:00
 -- url     : https://prove2.me/theorems/864c1094-8dc0-493f-940f-db913679aad9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpChain_isHolTo_ex
 -- name    : GlobalTheory.ExpChain.isHolTo_ex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:23:17.258141+00:00
 -- url     : https://prove2.me/theorems/31ea2e8b-c61b-43a6-a8e8-4c8b357d8c55

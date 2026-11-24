@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_PfB_formsExact
 -- name    : Formalism.HermitianLattices.StabilizerLevels.PfB.formsExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:11:40.717743+00:00
 -- url     : https://prove2.me/theorems/e4d4f67a-9263-4e6c-a95e-46a7c624a2fb

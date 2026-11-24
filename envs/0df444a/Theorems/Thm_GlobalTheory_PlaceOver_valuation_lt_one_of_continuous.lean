@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceOver_valuation_lt_one_of_continuous
 -- name    : GlobalTheory.PlaceOver.valuation_lt_one_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:45:10.798974+00:00
 -- url     : https://prove2.me/theorems/cebd38e4-8d5e-488a-914b-0d9c83941231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_eq_C_of_isAlgebraic
 -- name    : GlobalTheory.OnePoint.exists_eq_C_of_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:27.505999+00:00
 -- url     : https://prove2.me/theorems/7c9e840f-7a71-4400-b294-db266c441e1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquetRallis_transfer_factor_krylov_det
 -- name    : GlobalTheory.T.jacquetRallis_transfer_factor_krylov_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:35.317875+00:00
 -- url     : https://prove2.me/theorems/9827e392-1ff8-4b93-99ac-d05165515010

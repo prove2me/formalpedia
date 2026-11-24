@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSquareRamified_jacobiSym_norm_eq_one
 -- name    : GlobalTheory.NormSquareRamified.jacobiSym_norm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:46:53.350924+00:00
 -- url     : https://prove2.me/theorems/578d03bd-a7cf-4e0b-b4e6-473d164977de

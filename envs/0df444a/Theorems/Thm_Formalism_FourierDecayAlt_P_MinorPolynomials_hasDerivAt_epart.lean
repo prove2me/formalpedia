@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_hasDerivAt_epart
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.hasDerivAt_epart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:12:51.805177+00:00
 -- url     : https://prove2.me/theorems/08477af3-8e90-4519-94e1-b216ba4a3ae3
