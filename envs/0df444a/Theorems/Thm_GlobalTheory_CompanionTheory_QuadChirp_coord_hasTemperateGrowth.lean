@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuadChirp_coord_hasTemperateGrowth
 -- name    : GlobalTheory.CompanionTheory.QuadChirp.coord_hasTemperateGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:56:02.253328+00:00
 -- url     : https://prove2.me/theorems/9cb23ba5-d5bb-4085-af40-919fc137089a

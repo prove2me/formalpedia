@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockForm_hypJ_succ_succ_succ_succ
 -- name    : GlobalTheory.CompanionTheory.SW.BlockForm.hypJ_succ_succ_succ_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:31.928636+00:00
 -- url     : https://prove2.me/theorems/af6e3056-ee19-4eab-8042-c5bb6880b059

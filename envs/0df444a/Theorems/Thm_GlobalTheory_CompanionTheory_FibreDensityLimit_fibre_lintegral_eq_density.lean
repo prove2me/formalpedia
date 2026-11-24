@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FibreDensityLimit_fibre_lintegral_eq_density
 -- name    : GlobalTheory.CompanionTheory.FibreDensityLimit.fibre_lintegral_eq_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:39:27.30794+00:00
 -- url     : https://prove2.me/theorems/f55e51b1-d876-411f-80e8-e775f5359de8

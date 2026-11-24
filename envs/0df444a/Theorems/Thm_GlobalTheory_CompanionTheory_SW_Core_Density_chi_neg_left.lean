@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Density_chi_neg_left
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Density.chi_neg_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:03:20.411147+00:00
 -- url     : https://prove2.me/theorems/499ffd33-8487-4350-8847-1719719a1aa5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_cutWeight_measurable_invariant
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.cutWeight_measurable_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:19:28.983617+00:00
 -- url     : https://prove2.me/theorems/ef39ad03-e1dd-4e58-bb77-35c9dc7b6262

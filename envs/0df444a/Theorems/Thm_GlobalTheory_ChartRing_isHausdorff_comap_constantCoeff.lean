@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_isHausdorff_comap_constantCoeff
 -- name    : GlobalTheory.ChartRing.isHausdorff_comap_constantCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:09:09.686554+00:00
 -- url     : https://prove2.me/theorems/37b874eb-b083-4716-9ace-9f13ef0b5c1d

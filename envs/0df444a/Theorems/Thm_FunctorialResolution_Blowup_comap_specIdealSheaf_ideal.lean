@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_comap_specIdealSheaf_ideal
 -- name    : FunctorialResolution.Blowup.comap_specIdealSheaf_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:08:57.269993+00:00
 -- url     : https://prove2.me/theorems/6ff048fc-283a-4ea0-bdd2-424b2f85d461

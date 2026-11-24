@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Averaging_bijective_pair
 -- name    : GlobalTheory.CompanionTheory.SW.Averaging.bijective_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:01:15.894821+00:00
 -- url     : https://prove2.me/theorems/0a38c8b6-4036-40ab-af46-ea918ed115fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_diagScalar_sandwich_transpose
 -- name    : Formalism.FourierDecayAlt.P.Wd11.diagScalar_sandwich_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:47:50.783952+00:00
 -- url     : https://prove2.me/theorems/4090ebbc-9a38-4915-8ec5-0a7fc95f9f11

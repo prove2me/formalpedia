@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TMv_analyticAt_line0
 -- name    : Formalism.L2.Th1.H.TMv.analyticAt_line0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:24:54.072534+00:00
 -- url     : https://prove2.me/theorems/36daf011-c59d-4caf-93e2-32c930e5f3d1

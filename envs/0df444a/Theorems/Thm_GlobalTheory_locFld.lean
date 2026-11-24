@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_locFld
 -- name    : GlobalTheory.locFld
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:19:45.791525+00:00
 -- url     : https://prove2.me/theorems/0a3f698d-5e1b-48fb-af81-3ab202cc745c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RiemannCore_measurableSet_cell
 -- name    : GlobalTheory.CompanionTheory.RiemannCore.measurableSet_cell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:01:13.450806+00:00
 -- url     : https://prove2.me/theorems/c9d8ec02-66b2-4121-9d4c-a97fb30b10b6

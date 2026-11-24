@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSVerma_glRel_abstract
 -- name    : GlobalTheory.CompanionTheory.DSVerma.glRel_abstract
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:23:11.1073+00:00
 -- url     : https://prove2.me/theorems/18d92215-9d6d-4ecd-9c02-6356714fd5d9

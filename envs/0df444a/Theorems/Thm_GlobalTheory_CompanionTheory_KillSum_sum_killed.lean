@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KillSum_sum_killed
 -- name    : GlobalTheory.CompanionTheory.KillSum.sum_killed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:50:50.281167+00:00
 -- url     : https://prove2.me/theorems/5871195b-f807-4276-b1f0-abba1f6b2372

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_d0_eq
 -- name    : Formalism.FourierDecayAlt.P.Fr9.d0_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:02:55.250303+00:00
 -- url     : https://prove2.me/theorems/31131d8e-b170-4ddb-99b8-351f8b1a59d0

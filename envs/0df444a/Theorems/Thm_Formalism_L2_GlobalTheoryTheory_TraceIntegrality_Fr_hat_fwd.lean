@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_Fr_hat_fwd
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.Fr.hat_fwd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:49:18.097396+00:00
 -- url     : https://prove2.me/theorems/17d68aa4-ce67-4472-a89e-dc1acfdc11ae

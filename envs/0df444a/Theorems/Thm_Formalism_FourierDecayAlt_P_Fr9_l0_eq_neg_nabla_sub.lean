@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_l0_eq_neg_nabla_sub
 -- name    : Formalism.FourierDecayAlt.P.Fr9.l0_eq_neg_nabla_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:03:06.884635+00:00
 -- url     : https://prove2.me/theorems/969444b6-2313-4f78-9583-db50d4d3d407

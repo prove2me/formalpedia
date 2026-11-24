@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fact_upper
 -- name    : Formalism.MainNotions.PlaneGram.fact_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:05:27.81162+00:00
 -- url     : https://prove2.me/theorems/2782245a-be15-483c-9e55-de846f808bb4

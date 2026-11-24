@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rdExt
 -- name    : Formalism.REAL.rdExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:57:07.964522+00:00
 -- url     : https://prove2.me/theorems/133f9f10-88bd-41f1-930d-a426ea427735

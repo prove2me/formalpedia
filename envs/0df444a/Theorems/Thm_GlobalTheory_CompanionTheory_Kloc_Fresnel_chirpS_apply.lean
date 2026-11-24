@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_chirpS_apply
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.chirpS_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:13:19.085304+00:00
 -- url     : https://prove2.me/theorems/af4cdea2-b2a3-4b6d-98df-cba3ba5867d3

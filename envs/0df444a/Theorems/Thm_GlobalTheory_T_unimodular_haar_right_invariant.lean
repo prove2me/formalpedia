@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unimodular_haar_right_invariant
 -- name    : GlobalTheory.T.unimodular_haar_right_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:03:01.758784+00:00
 -- url     : https://prove2.me/theorems/58e1f8e5-2262-454b-8cd3-0c62cc4ac649

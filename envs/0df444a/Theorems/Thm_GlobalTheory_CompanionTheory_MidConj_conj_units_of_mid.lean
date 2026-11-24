@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MidConj_conj_units_of_mid
 -- name    : GlobalTheory.CompanionTheory.MidConj.conj_units_of_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:53:20.381938+00:00
 -- url     : https://prove2.me/theorems/26684934-a592-42e0-9696-7cb00ecd1a38

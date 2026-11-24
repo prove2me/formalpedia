@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariant_open_chart_preimage
 -- name    : GlobalTheory.T.invariant_open_chart_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:55:41.997931+00:00
 -- url     : https://prove2.me/theorems/5d83d20e-17e6-46f1-88eb-58e9a9de8f20

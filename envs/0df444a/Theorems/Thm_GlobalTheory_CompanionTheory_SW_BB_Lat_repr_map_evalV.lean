@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_Lat_repr_map_evalV
 -- name    : GlobalTheory.CompanionTheory.SW.BB.Lat.repr_map_evalV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:00:38.85647+00:00
 -- url     : https://prove2.me/theorems/42502bba-ddc9-4b9b-8da3-38d6e617dc55

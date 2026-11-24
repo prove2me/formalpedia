@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_blockRhoColumn
 -- name    : Formalism.NG.blockRhoColumn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:16:41.732441+00:00
 -- url     : https://prove2.me/theorems/5d54c658-4a85-46b1-ae03-cf8127164556

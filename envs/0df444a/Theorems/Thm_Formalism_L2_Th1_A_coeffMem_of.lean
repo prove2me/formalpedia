@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_coeffMem_of
 -- name    : Formalism.L2.Th1.A.coeffMem_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:44.156895+00:00
 -- url     : https://prove2.me/theorems/47dad8ac-72d4-4f64-a901-3c514b63bcb7

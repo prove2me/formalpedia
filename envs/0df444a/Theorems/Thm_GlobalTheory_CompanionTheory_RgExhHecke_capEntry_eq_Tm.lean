@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_capEntry_eq_Tm
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.capEntry_eq_Tm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:00:12.19003+00:00
 -- url     : https://prove2.me/theorems/3eae2118-76bb-4c4d-bee6-c6fb570ba30b

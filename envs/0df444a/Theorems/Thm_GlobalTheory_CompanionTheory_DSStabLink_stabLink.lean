@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSStabLink_stabLink
 -- name    : GlobalTheory.CompanionTheory.DSStabLink.stabLink
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:24:45.182557+00:00
 -- url     : https://prove2.me/theorems/50f69951-8bee-43a3-9f29-a19dbef27bea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_bridgeCurve_of
 -- name    : Formalism.L2.Th1.A.bridgeCurve_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:33.754282+00:00
 -- url     : https://prove2.me/theorems/7ebd198b-37f9-443f-bf4d-3358de06f5a8

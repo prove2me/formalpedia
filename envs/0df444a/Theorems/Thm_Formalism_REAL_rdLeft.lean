@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rdLeft
 -- name    : Formalism.REAL.rdLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:00:11.353479+00:00
 -- url     : https://prove2.me/theorems/2c3b3865-9566-4ac3-a9c7-e753d14c272c

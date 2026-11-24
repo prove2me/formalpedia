@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalLattice_exists_compact_open_addSubgroup
 -- name    : GlobalTheory.CompanionTheory.LocalLattice.exists_compact_open_addSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:51:53.68709+00:00
 -- url     : https://prove2.me/theorems/39050272-6506-48f9-8c5a-882bdedbbed2

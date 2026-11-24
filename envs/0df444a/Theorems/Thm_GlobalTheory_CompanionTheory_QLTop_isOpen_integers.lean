@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLTop_isOpen_integers
 -- name    : GlobalTheory.CompanionTheory.QLTop.isOpen_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:46.994791+00:00
 -- url     : https://prove2.me/theorems/90fb875e-9257-48ca-bf28-7c3adcf6ac90

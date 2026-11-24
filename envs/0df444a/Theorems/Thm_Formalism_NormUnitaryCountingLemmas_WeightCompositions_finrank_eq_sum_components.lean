@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_WeightCompositions_finrank_eq_sum_components
 -- name    : Formalism.NormUnitaryCountingLemmas.WeightCompositions.finrank_eq_sum_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:42:42.921658+00:00
 -- url     : https://prove2.me/theorems/cf5da20a-1719-4a0c-9d52-4e0228dddd94

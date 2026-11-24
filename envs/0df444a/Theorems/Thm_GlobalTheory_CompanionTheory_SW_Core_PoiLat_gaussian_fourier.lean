@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_PoiLat_gaussian_fourier
 -- name    : GlobalTheory.CompanionTheory.SW.Core.PoiLat.gaussian_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:03:57.716257+00:00
 -- url     : https://prove2.me/theorems/25d11ee7-7787-4d4c-be00-b0667046b5e9

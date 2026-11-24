@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_continuous_chg
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.continuous_chg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:58:21.551403+00:00
 -- url     : https://prove2.me/theorems/89b0efe3-1ddd-4569-a977-2000f4939ae0

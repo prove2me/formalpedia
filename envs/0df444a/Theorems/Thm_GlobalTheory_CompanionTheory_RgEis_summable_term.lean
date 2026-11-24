@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_summable_term
 -- name    : GlobalTheory.CompanionTheory.RgEis.summable_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:57:10.798405+00:00
 -- url     : https://prove2.me/theorems/fc1710eb-ad8b-4cc0-93f2-7d81f646c855

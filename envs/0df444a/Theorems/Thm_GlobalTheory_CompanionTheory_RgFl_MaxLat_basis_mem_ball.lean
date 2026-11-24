@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_MaxLat_basis_mem_ball
 -- name    : GlobalTheory.CompanionTheory.RgFl.MaxLat.basis_mem_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:59:45.511285+00:00
 -- url     : https://prove2.me/theorems/050cf618-550e-48a8-8e99-3afb882aa97a

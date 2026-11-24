@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_lg_eq_zero
 -- name    : GlobalTheory.CompanionTheory.RgEis.lg_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:57:38.745623+00:00
 -- url     : https://prove2.me/theorems/61ce1412-0be0-4c40-b9c6-1e9e08a9e440

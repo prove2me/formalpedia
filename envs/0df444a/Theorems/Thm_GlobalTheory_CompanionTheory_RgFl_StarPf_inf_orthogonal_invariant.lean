@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_StarPf_inf_orthogonal_invariant
 -- name    : GlobalTheory.CompanionTheory.RgFl.StarPf.inf_orthogonal_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:51.612938+00:00
 -- url     : https://prove2.me/theorems/f74aac74-b9fc-492e-a714-7b9c62140692

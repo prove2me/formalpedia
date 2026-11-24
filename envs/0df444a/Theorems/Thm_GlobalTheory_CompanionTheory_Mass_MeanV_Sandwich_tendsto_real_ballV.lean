@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_Sandwich_tendsto_real_ballV
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.Sandwich.tendsto_real_ballV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:52:28.875621+00:00
 -- url     : https://prove2.me/theorems/f35fcb22-808b-468d-8e12-5db50d01fc04

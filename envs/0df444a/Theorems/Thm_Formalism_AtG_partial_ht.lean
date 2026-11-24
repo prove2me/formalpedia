@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_partial_ht
 -- name    : Formalism.AtG.partial_ht
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:42:40.360561+00:00
 -- url     : https://prove2.me/theorems/465ad250-bc94-40d1-a9cf-7fe9c279b95b

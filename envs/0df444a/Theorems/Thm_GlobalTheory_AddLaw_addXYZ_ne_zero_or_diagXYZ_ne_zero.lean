@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_addXYZ_ne_zero_or_diagXYZ_ne_zero
 -- name    : GlobalTheory.AddLaw.addXYZ_ne_zero_or_diagXYZ_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:21.203804+00:00
 -- url     : https://prove2.me/theorems/c574fa26-0d98-402c-a735-fa1d41e53522

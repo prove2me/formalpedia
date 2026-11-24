@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_measurableSet_natCast_le_encard_zeroSetIn
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.measurableSet_natCast_le_encard_zeroSetIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:39:51.543329+00:00
 -- url     : https://prove2.me/theorems/3576c8e0-0493-47e1-b815-08a4a55835ef

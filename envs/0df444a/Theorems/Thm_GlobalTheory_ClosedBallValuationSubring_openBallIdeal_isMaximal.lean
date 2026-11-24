@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedBallValuationSubring_openBallIdeal_isMaximal
 -- name    : GlobalTheory.ClosedBallValuationSubring.openBallIdeal_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:12:38.986868+00:00
 -- url     : https://prove2.me/theorems/9c9e5d9a-c4a7-4027-97b6-f24c0a2801b9

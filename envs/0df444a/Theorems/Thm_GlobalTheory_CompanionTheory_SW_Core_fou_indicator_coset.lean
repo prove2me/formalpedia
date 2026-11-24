@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_fou_indicator_coset
 -- name    : GlobalTheory.CompanionTheory.SW.Core.fou_indicator_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:22.157193+00:00
 -- url     : https://prove2.me/theorems/d60e7248-54ec-48de-bcf8-b1cc5b9f84db

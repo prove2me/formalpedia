@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolMean_GaussianFamily_main
 -- name    : GlobalTheory.CompanionTheory.HolMean.GaussianFamily.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:47:53.19768+00:00
 -- url     : https://prove2.me/theorems/131a80a7-13d5-4aaa-a8a7-adc358b1467b

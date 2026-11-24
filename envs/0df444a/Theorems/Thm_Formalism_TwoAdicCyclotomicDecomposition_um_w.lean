@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_um_w
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.um_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:59:58.617249+00:00
 -- url     : https://prove2.me/theorems/23433b42-4d64-4c69-bf51-3f3a4e2f8675

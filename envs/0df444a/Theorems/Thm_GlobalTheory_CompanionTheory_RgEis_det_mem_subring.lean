@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_det_mem_subring
 -- name    : GlobalTheory.CompanionTheory.RgEis.det_mem_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:57:00.066888+00:00
 -- url     : https://prove2.me/theorems/27d055f3-8406-4a51-9f93-f239efed0b7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_Exact_separation_step
 -- name    : QCQPTightness.Exact.separation_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:24:15.694297+00:00
 -- url     : https://prove2.me/theorems/152915be-0cc1-459b-a07c-458682e496c4

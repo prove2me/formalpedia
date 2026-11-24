@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArtinElem_matrix_ext_coord
 -- name    : GlobalTheory.CompanionTheory.SW.ArtinElem.matrix_ext_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:01:25.780193+00:00
 -- url     : https://prove2.me/theorems/3efce265-1152-4310-8fa5-74aad033e76e

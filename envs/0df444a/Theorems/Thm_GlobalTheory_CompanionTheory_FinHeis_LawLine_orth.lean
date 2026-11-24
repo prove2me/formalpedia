@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_LawLine_orth
 -- name    : GlobalTheory.CompanionTheory.FinHeis.LawLine.orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:39:36.301837+00:00
 -- url     : https://prove2.me/theorems/f32423c7-3eb2-4765-b287-545e7f6bab40

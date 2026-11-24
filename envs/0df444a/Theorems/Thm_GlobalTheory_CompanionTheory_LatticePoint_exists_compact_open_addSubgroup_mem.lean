@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LatticePoint_exists_compact_open_addSubgroup_mem
 -- name    : GlobalTheory.CompanionTheory.LatticePoint.exists_compact_open_addSubgroup_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:51:48.838002+00:00
 -- url     : https://prove2.me/theorems/a9747f8d-588b-4d09-8732-ed7e219ac5dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_laplaceEntire
 -- name    : GlobalTheory.CompanionTheory.EisTube.laplaceEntire
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:12:22.482832+00:00
 -- url     : https://prove2.me/theorems/61fb7412-af8c-4455-b4d6-31b8db8442b1

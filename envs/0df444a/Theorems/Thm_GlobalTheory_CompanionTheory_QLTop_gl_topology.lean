@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLTop_gl_topology
 -- name    : GlobalTheory.CompanionTheory.QLTop.gl_topology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:56:14.076203+00:00
 -- url     : https://prove2.me/theorems/6a8a5e16-4143-4372-b14d-1f1dcbd9e3c2

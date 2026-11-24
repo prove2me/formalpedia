@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PatGrp_patChar_mul
 -- name    : GlobalTheory.CompanionTheory.PatGrp.patChar_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:04:55.371775+00:00
 -- url     : https://prove2.me/theorems/bff59133-3f11-4160-a512-3ba9b877fdc6

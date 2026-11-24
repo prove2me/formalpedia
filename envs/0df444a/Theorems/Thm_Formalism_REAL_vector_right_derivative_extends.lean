@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_vector_right_derivative_extends
 -- name    : Formalism.REAL.vector_right_derivative_extends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:57:49.126259+00:00
 -- url     : https://prove2.me/theorems/ef5f3206-0d25-43b9-a46e-46e5fee5ef2c

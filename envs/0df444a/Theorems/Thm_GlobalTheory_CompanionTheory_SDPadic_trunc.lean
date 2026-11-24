@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SDPadic_trunc
 -- name    : GlobalTheory.CompanionTheory.SDPadic.trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:01:26.868385+00:00
 -- url     : https://prove2.me/theorems/1051f0c8-430c-4eea-a974-190b99e66052

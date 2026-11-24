@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G2_valS_pderiv
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.valS_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:41.14328+00:00
 -- url     : https://prove2.me/theorems/ae14bba4-c701-41bc-ac4a-39250d94e4ce

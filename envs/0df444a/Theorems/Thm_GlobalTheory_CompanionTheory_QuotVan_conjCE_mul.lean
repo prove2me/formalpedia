@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuotVan_conjCE_mul
 -- name    : GlobalTheory.CompanionTheory.QuotVan.conjCE_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:58:02.973417+00:00
 -- url     : https://prove2.me/theorems/3019d21d-a237-40c9-8f95-ea9e900da974

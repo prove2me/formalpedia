@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AdBridge_bridge_apply_eq_of_comp
 -- name    : Formalism.L2.SG.AdBridge.bridge_apply_eq_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:57:42.517671+00:00
 -- url     : https://prove2.me/theorems/ef4c6e3a-5f78-4a2e-a6c2-c2175af1e135

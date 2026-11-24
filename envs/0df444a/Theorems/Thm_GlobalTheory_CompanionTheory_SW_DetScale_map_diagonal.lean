@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DetScale_map_diagonal
 -- name    : GlobalTheory.CompanionTheory.SW.DetScale.map_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:03:41.632422+00:00
 -- url     : https://prove2.me/theorems/b108f76d-3590-40e5-aafc-e22d60e8be59

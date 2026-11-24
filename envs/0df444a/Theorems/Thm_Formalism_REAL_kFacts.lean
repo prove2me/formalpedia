@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kFacts
 -- name    : Formalism.REAL.kFacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:54:58.667839+00:00
 -- url     : https://prove2.me/theorems/cd70ae94-e83b-4d3c-b1b2-5f2d11c3498a

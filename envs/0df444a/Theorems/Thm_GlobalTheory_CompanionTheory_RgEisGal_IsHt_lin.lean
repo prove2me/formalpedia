@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_IsHt_lin
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.IsHt_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:57:15.736725+00:00
 -- url     : https://prove2.me/theorems/fdf4a900-7c45-4ed0-9968-60a74dfb1ee6

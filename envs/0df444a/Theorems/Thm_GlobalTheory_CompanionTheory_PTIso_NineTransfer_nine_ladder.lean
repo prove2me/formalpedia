@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_NineTransfer_nine_ladder
 -- name    : GlobalTheory.CompanionTheory.PTIso.NineTransfer.nine_ladder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:56:04.393042+00:00
 -- url     : https://prove2.me/theorems/b7d54839-9d73-489b-b39e-bc805e06dc45

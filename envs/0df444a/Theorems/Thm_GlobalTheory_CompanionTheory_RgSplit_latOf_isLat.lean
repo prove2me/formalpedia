@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgSplit_latOf_isLat
 -- name    : GlobalTheory.CompanionTheory.RgSplit.latOf_isLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:59:44.680866+00:00
 -- url     : https://prove2.me/theorems/75ae7f3d-d58d-4150-bd9d-a71d5c3c51c2

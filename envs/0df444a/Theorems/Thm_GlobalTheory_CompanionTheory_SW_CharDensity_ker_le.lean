@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharDensity_ker_le
 -- name    : GlobalTheory.CompanionTheory.SW.CharDensity.ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:02:26.488132+00:00
 -- url     : https://prove2.me/theorems/753870c0-5a99-4713-98b8-466bfbf857a5

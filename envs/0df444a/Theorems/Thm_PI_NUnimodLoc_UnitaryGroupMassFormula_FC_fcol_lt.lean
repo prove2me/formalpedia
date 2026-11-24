@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_FC_fcol_lt
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.FC.fcol_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:57:28.392843+00:00
 -- url     : https://prove2.me/theorems/94a95e3f-299a-45dc-ad94-8e26b1848334

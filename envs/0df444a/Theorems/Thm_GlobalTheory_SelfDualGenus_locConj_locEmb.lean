@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_locConj_locEmb
 -- name    : GlobalTheory.SelfDualGenus.locConj_locEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:08:56.894256+00:00
 -- url     : https://prove2.me/theorems/c123fe54-f446-4d48-b45d-d4de8bfc3137

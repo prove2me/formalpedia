@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLimit_tendsto_log_sub_sum_digamma
 -- name    : GlobalTheory.CompanionTheory.DigammaLimit.tendsto_log_sub_sum_digamma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:35:39.956636+00:00
 -- url     : https://prove2.me/theorems/1422d3a9-d4d9-43f2-b98b-190f13f86d1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BinaryFormCount_card_zero
 -- name    : GlobalTheory.BinaryFormCount.card_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:03:41.86487+00:00
 -- url     : https://prove2.me/theorems/f6d8ed98-06a6-49de-a020-7005166f290a

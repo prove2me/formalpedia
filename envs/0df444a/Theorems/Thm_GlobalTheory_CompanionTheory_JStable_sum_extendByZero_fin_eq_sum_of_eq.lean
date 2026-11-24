@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_JStable_sum_extendByZero_fin_eq_sum_of_eq
 -- name    : GlobalTheory.CompanionTheory.JStable.sum_extendByZero_fin_eq_sum_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:03:46.568252+00:00
 -- url     : https://prove2.me/theorems/68d61475-4f18-4e04-94d9-2f00604dc7bc

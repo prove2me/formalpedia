@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_slice_good
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.slice_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:58:57.898093+00:00
 -- url     : https://prove2.me/theorems/59f11a39-c130-4190-8cb4-79b95b30609e

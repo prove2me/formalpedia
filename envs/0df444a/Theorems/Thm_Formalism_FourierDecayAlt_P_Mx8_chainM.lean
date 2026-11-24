@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_chainM
 -- name    : Formalism.FourierDecayAlt.P.Mx8.chainM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:46:48.529558+00:00
 -- url     : https://prove2.me/theorems/be32418e-ed26-4b2a-9254-27417b3fe90c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_cube_two_relation
 -- name    : Formalism.L2.Th1.A.cube_two_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:21.399432+00:00
 -- url     : https://prove2.me/theorems/f780bfbf-aaea-4f21-a92d-c8df16dce177

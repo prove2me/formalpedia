@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_UpInv_map_low_eq
 -- name    : GlobalTheory.CompanionTheory.Iwahori.UpInv.map_low_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:50:01.439819+00:00
 -- url     : https://prove2.me/theorems/5e94f150-67dc-4cd3-8075-f6a2804c1a8d

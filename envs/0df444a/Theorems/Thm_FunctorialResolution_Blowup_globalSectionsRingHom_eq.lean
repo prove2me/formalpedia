@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_globalSectionsRingHom_eq
 -- name    : FunctorialResolution.Blowup.globalSectionsRingHom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:55:36.157602+00:00
 -- url     : https://prove2.me/theorems/f9bdfcaa-fb80-490e-8931-78f5ccec99df

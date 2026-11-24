@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPsiExists_UnitaryGroupMassFormula_sum_embedding_eq_trace
 -- name    : PI.ScPsiExists.UnitaryGroupMassFormula.sum_embedding_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:57:28.297894+00:00
 -- url     : https://prove2.me/theorems/d5c7273d-47c6-4700-8376-0275056da923

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentCPWeightedGeometricSumFiniteV1
 -- name    : Kyprianou.Ch03.momentCPWeightedGeometricSumFiniteV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:52:40.348823+00:00
 -- url     : https://prove2.me/theorems/19846ffd-93dc-48ad-8a3d-a6791d0db1eb

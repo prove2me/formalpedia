@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisTop_generalLinear_t2Space
 -- name    : GlobalTheory.CompanionTheory.RgEisTop.generalLinear_t2Space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:00:17.98881+00:00
 -- url     : https://prove2.me/theorems/ef3706da-7f96-4b36-a85f-ab8decf95402

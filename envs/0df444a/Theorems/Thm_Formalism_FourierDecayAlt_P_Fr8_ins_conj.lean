@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr8_ins_conj
 -- name    : Formalism.FourierDecayAlt.P.Fr8.ins_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:04:39.536153+00:00
 -- url     : https://prove2.me/theorems/0430f5b3-483b-4a96-8d56-70a6a32f8921

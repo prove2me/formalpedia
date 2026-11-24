@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_modularCharacter_eq_one_on_compact
 -- name    : Formalism.REAL.modularCharacter_eq_one_on_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:24:01.424821+00:00
 -- url     : https://prove2.me/theorems/2af1b179-3528-4022-8c7c-d9256004ff4f

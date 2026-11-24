@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Diag_exists_eq_transpose_mul_self
 -- name    : GlobalTheory.CompanionTheory.SW.Diag.exists_eq_transpose_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:38.694251+00:00
 -- url     : https://prove2.me/theorems/c18fa8a7-f04d-4148-90da-6ec82dd9e559

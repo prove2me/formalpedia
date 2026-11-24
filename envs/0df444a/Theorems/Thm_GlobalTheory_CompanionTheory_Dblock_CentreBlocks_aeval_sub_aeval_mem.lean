@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dblock_CentreBlocks_aeval_sub_aeval_mem
 -- name    : GlobalTheory.CompanionTheory.Dblock.CentreBlocks.aeval_sub_aeval_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:34:54.250834+00:00
 -- url     : https://prove2.me/theorems/a96fca6a-aec4-41c8-a220-b5ddcbb77e79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_star_mem_Cen
 -- name    : Formalism.FourierDecayAlt.P.Mx8.star_mem_Cen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:46:34.530178+00:00
 -- url     : https://prove2.me/theorems/ef49137e-90d8-43b7-8aaf-1620f49c6309

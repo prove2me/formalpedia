@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_NormalisedValue_val_mul_zpow
 -- name    : GlobalTheory.CompanionTheory.QL.NormalisedValue.val_mul_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:07:26.529296+00:00
 -- url     : https://prove2.me/theorems/fe133af9-b276-4460-a820-d5c738daebef

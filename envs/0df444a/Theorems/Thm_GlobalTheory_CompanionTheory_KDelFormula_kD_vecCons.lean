@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KDelFormula_kD_vecCons
 -- name    : GlobalTheory.CompanionTheory.KDelFormula.kD_vecCons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:49:24.817082+00:00
 -- url     : https://prove2.me/theorems/141fe842-8df8-45e8-ab0d-a6af01f40368

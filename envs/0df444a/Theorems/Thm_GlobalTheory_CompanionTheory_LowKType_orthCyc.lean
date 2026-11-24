@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LowKType_orthCyc
 -- name    : GlobalTheory.CompanionTheory.LowKType.orthCyc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:37:03.010879+00:00
 -- url     : https://prove2.me/theorems/d8198242-b95a-4c41-840a-b0cddd11fc64

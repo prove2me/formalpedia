@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_map_chartRingHom_eq_span_singleton
 -- name    : FunctorialResolution.Blowup.map_chartRingHom_eq_span_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:03.498925+00:00
 -- url     : https://prove2.me/theorems/3bd6af75-6f26-4685-9f5d-227ce6d06d45

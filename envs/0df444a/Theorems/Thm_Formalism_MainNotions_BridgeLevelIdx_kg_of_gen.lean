@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelIdx_kg_of_gen
 -- name    : Formalism.MainNotions.BridgeLevelIdx.kg_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:42:34.404802+00:00
 -- url     : https://prove2.me/theorems/067ab8e0-8cf5-4fe0-84f3-d16f10f22f65

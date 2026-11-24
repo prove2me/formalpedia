@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DetScale_map_transvection
 -- name    : GlobalTheory.CompanionTheory.SW.DetScale.map_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:03:47.645143+00:00
 -- url     : https://prove2.me/theorems/302688ad-3984-4607-a872-f92615e88710

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.indepPastFutureJoinEventExactAmbientV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T12:03:27.683377+00:00
 -- url     : https://prove2.me/submissions/bae545ae-8445-4d1c-b8ee-cadef4af6d00
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.ConditionalExpectation
 import Theorems.Thm_Kyprianou_Ch03_indepPastFutureIndicatorCondExpSetIntegralV1

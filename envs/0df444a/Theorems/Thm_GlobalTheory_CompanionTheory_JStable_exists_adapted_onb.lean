@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_JStable_exists_adapted_onb
 -- name    : GlobalTheory.CompanionTheory.JStable.exists_adapted_onb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:03:52.210586+00:00
 -- url     : https://prove2.me/theorems/db2ff0ef-9c27-444a-8f06-2277c708ecba

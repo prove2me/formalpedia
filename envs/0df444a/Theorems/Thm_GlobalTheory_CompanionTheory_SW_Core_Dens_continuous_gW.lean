@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Dens_continuous_gW
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Dens.continuous_gW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:02:51.72403+00:00
 -- url     : https://prove2.me/theorems/ee73c4b9-64b9-4c4f-b91c-9bfd59171b12

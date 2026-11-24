@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TaylorMvInj_of
 -- name    : Formalism.L2.Th1.H.TaylorMvInj_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:23:18.34975+00:00
 -- url     : https://prove2.me/theorems/02b1df4e-3e48-4edd-b4d9-b9e99134fc74

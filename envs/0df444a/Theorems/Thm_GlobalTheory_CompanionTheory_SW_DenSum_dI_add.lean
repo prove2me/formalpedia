@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DenSum_dI_add
 -- name    : GlobalTheory.CompanionTheory.SW.DenSum.dI_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:03:28.886112+00:00
 -- url     : https://prove2.me/theorems/e2b6cc19-d7ca-47f2-9ebd-f175b694a46a

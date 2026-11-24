@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FiberInt_measure_preimage_inter_eq
 -- name    : GlobalTheory.CompanionTheory.FiberInt.measure_preimage_inter_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:39:24.595125+00:00
 -- url     : https://prove2.me/theorems/bf54ff67-db07-4a2a-8520-c612d4ae0dec

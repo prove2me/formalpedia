@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_GaussReg_exists_lower_sup
 -- name    : GlobalTheory.CompanionTheory.SW.BB.GaussReg.exists_lower_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:01:24.295929+00:00
 -- url     : https://prove2.me/theorems/06576ef8-5008-41d5-9bb5-db922858e312

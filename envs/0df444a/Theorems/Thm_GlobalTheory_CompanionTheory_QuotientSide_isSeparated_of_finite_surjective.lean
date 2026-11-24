@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuotientSide_isSeparated_of_finite_surjective
 -- name    : GlobalTheory.CompanionTheory.QuotientSide.isSeparated_of_finite_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:58:08.016961+00:00
 -- url     : https://prove2.me/theorems/59284d49-b4c0-4869-99c6-12dce4377be9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_perron_formula_character
 -- name    : Formalism.ZeroFreeDirichlet.perron_formula_character
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:32:25.365886+00:00
 -- url     : https://prove2.me/theorems/f1e5d3a0-c753-40e7-b034-225a5985570f

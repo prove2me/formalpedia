@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_entire_eq
 -- name    : GlobalTheory.CompanionTheory.RgEis.entire_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:57:33.510794+00:00
 -- url     : https://prove2.me/theorems/4116d2af-ddb4-4274-bb42-251a195ff28d

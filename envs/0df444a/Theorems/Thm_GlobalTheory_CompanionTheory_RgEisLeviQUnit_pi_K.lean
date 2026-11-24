@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_pi_K
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.pi_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:59:36.59038+00:00
 -- url     : https://prove2.me/theorems/552649f4-a4d5-431f-9993-a3aae6006167

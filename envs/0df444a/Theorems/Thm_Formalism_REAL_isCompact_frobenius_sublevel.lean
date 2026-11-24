@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_isCompact_frobenius_sublevel
 -- name    : Formalism.REAL.isCompact_frobenius_sublevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:42:50.613978+00:00
 -- url     : https://prove2.me/theorems/111a2213-6bb8-4b2e-b823-21c344da1ca8

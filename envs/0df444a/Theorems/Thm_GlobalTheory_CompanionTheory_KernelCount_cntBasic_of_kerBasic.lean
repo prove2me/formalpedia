@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelCount_cntBasic_of_kerBasic
 -- name    : GlobalTheory.CompanionTheory.KernelCount.cntBasic_of_kerBasic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:24.602278+00:00
 -- url     : https://prove2.me/theorems/6485374b-961f-4cf4-be1b-3c40d330180c

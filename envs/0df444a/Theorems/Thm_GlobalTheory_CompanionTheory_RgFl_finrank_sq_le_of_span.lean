@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_finrank_sq_le_of_span
 -- name    : GlobalTheory.CompanionTheory.RgFl.finrank_sq_le_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:59:49.043424+00:00
 -- url     : https://prove2.me/theorems/ef82c252-d4f7-4f00-8d62-0e04fe24ae11

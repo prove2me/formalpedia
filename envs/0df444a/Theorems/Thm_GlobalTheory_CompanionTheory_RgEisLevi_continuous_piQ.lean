@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_continuous_piQ
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.continuous_piQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:59:00.79288+00:00
 -- url     : https://prove2.me/theorems/bc59e174-9429-41b9-9d95-1a49cf6513a7

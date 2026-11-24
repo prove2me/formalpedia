@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockForm_hypJ_one_zero
 -- name    : GlobalTheory.CompanionTheory.SW.BlockForm.hypJ_one_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:03.468825+00:00
 -- url     : https://prove2.me/theorems/2cafdfa8-0c3e-4636-b4fe-d9a2f2f56635

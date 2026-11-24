@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedEdgeColor_lemma_large_edge_rounding
 -- name    : WeightedEdgeColor.lemma_large_edge_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T06:07:36.073966+00:00
 -- url     : https://prove2.me/theorems/09755e6f-7a55-498f-8241-e843c40e7fa4

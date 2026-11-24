@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArchFibre_measurableEmbedding_hermScal
 -- name    : GlobalTheory.CompanionTheory.SW.ArchFibre.measurableEmbedding_hermScal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:01:18.580733+00:00
 -- url     : https://prove2.me/theorems/ec25d241-7342-4ef1-8f3a-eb162ded61fe

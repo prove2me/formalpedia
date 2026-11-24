@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_exists_affine_min_on
 -- name    : GlobalTheory.ClassMin.exists_affine_min_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:11:46.70898+00:00
 -- url     : https://prove2.me/theorems/4b888f81-75ac-4797-969a-7b032e13baa5

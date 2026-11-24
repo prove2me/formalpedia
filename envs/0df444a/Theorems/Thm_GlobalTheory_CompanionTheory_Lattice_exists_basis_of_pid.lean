@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Lattice_exists_basis_of_pid
 -- name    : GlobalTheory.CompanionTheory.Lattice.exists_basis_of_pid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:11.262978+00:00
 -- url     : https://prove2.me/theorems/e66ab5a6-2451-4fb9-823d-e564dead0190

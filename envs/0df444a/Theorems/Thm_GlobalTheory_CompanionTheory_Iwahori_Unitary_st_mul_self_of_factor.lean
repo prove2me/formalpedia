@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Unitary_st_mul_self_of_factor
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Unitary.st_mul_self_of_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:49:26.222345+00:00
 -- url     : https://prove2.me/theorems/ec94de01-d31b-4bb8-96e4-e069b11434f3

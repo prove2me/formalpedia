@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KModExists_kModExists
 -- name    : GlobalTheory.CompanionTheory.KModExists.kModExists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:37:03.452245+00:00
 -- url     : https://prove2.me/theorems/962e11d8-fb53-418b-a816-6ab95309df78

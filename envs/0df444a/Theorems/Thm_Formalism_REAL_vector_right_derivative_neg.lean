@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_vector_right_derivative_neg
 -- name    : Formalism.REAL.vector_right_derivative_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:57:12.920827+00:00
 -- url     : https://prove2.me/theorems/8f17b525-e136-4334-a290-6e748c5111f2

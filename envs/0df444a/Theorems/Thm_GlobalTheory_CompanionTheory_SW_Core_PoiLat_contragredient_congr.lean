@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_PoiLat_contragredient_congr
 -- name    : GlobalTheory.CompanionTheory.SW.Core.PoiLat.contragredient_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:04:09.289853+00:00
 -- url     : https://prove2.me/theorems/cb7473ab-bd1c-408f-82d6-2a4e116326b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_conv_congr
 -- name    : GlobalTheory.CompanionTheory.RgEis.conv_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:57:18.148804+00:00
 -- url     : https://prove2.me/theorems/e68853b3-9cdc-42d7-a60a-b3db51a4d8bd

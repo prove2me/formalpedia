@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr3_eeConj_abs
 -- name    : Formalism.FourierDecayAlt.P.Fr3.eeConj_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:00:41.177298+00:00
 -- url     : https://prove2.me/theorems/12081f4a-0f24-48f1-b113-1ecd20eafee8

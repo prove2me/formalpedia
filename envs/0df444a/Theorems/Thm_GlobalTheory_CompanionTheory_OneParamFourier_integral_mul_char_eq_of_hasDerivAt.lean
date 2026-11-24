@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OneParamFourier_integral_mul_char_eq_of_hasDerivAt
 -- name    : GlobalTheory.CompanionTheory.OneParamFourier.integral_mul_char_eq_of_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:53:31.464608+00:00
 -- url     : https://prove2.me/theorems/abb6b506-6a2d-467d-8300-3d26b90ea0bf

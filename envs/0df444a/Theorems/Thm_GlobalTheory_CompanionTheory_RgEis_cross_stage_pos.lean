@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_cross_stage_pos
 -- name    : GlobalTheory.CompanionTheory.RgEis.cross_stage_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:57:07.978118+00:00
 -- url     : https://prove2.me/theorems/f1d9bfe5-0617-487a-8107-ea316dbef079

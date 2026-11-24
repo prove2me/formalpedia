@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisTop_isClosed_uSub
 -- name    : GlobalTheory.CompanionTheory.RgEisTop.isClosed_uSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:59:53.507611+00:00
 -- url     : https://prove2.me/theorems/dc41b75d-5a1d-46ae-bf76-0750e321ff8c

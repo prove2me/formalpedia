@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_partial_nat
 -- name    : Formalism.AtG.partial_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:42:14.683859+00:00
 -- url     : https://prove2.me/theorems/a013fc5e-06f6-463c-804c-465c2b7b53da

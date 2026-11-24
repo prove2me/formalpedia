@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_exists_mul_pow_mem_incidenceIdeal_of_generic
 -- name    : GlobalTheory.Chow.exists_mul_pow_mem_incidenceIdeal_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:10:08.183233+00:00
 -- url     : https://prove2.me/theorems/6d908ede-37e1-4906-aa0b-7bda799c8a65

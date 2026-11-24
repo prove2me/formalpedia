@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rdSmoothV_of
 -- name    : Formalism.REAL.rdSmoothV_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:57:50.603251+00:00
 -- url     : https://prove2.me/theorems/7ed76163-2222-4a87-9d2c-95451853b0a4

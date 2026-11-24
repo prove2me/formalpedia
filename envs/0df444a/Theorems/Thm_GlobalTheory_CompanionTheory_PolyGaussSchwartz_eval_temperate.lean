@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PolyGaussSchwartz_eval_temperate
 -- name    : GlobalTheory.CompanionTheory.PolyGaussSchwartz.eval_temperate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:54:41.334198+00:00
 -- url     : https://prove2.me/theorems/5d9c128d-e953-46df-bdb8-efd36f31e2dc

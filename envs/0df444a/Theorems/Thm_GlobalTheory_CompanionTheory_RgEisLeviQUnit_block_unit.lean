@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_block_unit
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.block_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:58:46.087949+00:00
 -- url     : https://prove2.me/theorems/4d93ffe6-1ce1-4dd4-9e92-600f0ce417d2

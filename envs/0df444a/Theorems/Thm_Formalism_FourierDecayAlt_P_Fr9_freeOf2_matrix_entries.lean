@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_freeOf2_matrix_entries
 -- name    : Formalism.FourierDecayAlt.P.Fr9.freeOf2_matrix_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:03:10.129036+00:00
 -- url     : https://prove2.me/theorems/88412919-d8ee-48a7-8da8-2dcc741d0dd9

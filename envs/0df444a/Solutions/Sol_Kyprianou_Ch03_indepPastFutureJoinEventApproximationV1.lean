@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.indepPastFutureJoinEventApproximationV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T07:32:21.820879+00:00
 -- url     : https://prove2.me/submissions/4cacdb38-5509-4560-b70b-237a02f7f808
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch03_indepPastFutureJoinEventExactAmbientV1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLTop_isOpen_isCompact_integers
 -- name    : GlobalTheory.CompanionTheory.QLTop.isOpen_isCompact_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:45.23098+00:00
 -- url     : https://prove2.me/theorems/43d987d8-e789-48b0-a27e-2671f2447036

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CoordMat_hform_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.CoordMat.hform_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:02:59.70818+00:00
 -- url     : https://prove2.me/theorems/ceff29cd-ddb0-4d20-90a2-8ef00ec798bc

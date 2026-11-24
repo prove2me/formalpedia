@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LKInvLift_invLift
 -- name    : GlobalTheory.CompanionTheory.LKInvLift.invLift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:37:12.865803+00:00
 -- url     : https://prove2.me/theorems/8c1c0ff5-9b2d-40f5-a9be-7fae977d0332

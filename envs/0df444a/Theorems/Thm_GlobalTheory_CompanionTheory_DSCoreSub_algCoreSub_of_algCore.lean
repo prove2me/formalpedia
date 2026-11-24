@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSCoreSub_algCoreSub_of_algCore
 -- name    : GlobalTheory.CompanionTheory.DSCoreSub.algCoreSub_of_algCore
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:34:29.497021+00:00
 -- url     : https://prove2.me/theorems/5afc471a-54b5-49e7-941c-287d9b232abd

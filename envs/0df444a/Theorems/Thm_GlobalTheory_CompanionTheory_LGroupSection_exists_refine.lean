@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LGroupSection_exists_refine
 -- name    : GlobalTheory.CompanionTheory.LGroupSection.exists_refine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:12.518389+00:00
 -- url     : https://prove2.me/theorems/4b561b94-7c1b-4fe0-a47e-d9a10fcc0932

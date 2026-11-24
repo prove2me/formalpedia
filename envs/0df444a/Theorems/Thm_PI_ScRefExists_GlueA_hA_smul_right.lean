@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GlueA_hA_smul_right
 -- name    : PI.ScRefExists.GlueA.hA_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:56:03.986983+00:00
 -- url     : https://prove2.me/theorems/450d69b7-5fb0-4dbe-ace7-2d7129bc4830

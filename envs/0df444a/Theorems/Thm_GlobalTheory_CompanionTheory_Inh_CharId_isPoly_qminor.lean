@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CharId_isPoly_qminor
 -- name    : GlobalTheory.CompanionTheory.Inh.CharId.isPoly_qminor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:48:20.019438+00:00
 -- url     : https://prove2.me/theorems/afa98d33-e724-4e75-8b4c-aeacea292ca7

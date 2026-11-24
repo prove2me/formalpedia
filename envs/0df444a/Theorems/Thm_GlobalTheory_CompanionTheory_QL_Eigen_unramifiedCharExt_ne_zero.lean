@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Eigen_unramifiedCharExt_ne_zero
 -- name    : GlobalTheory.CompanionTheory.QL.Eigen.unramifiedCharExt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:56:38.158795+00:00
 -- url     : https://prove2.me/theorems/590a1d88-beb1-4f10-9be3-7e3765e024ad

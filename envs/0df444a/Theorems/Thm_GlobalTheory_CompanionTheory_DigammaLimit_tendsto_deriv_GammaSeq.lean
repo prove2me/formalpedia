@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLimit_tendsto_deriv_GammaSeq
 -- name    : GlobalTheory.CompanionTheory.DigammaLimit.tendsto_deriv_GammaSeq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:35:32.250801+00:00
 -- url     : https://prove2.me/theorems/e3b3735a-5457-48d2-a01c-043d66be6f74

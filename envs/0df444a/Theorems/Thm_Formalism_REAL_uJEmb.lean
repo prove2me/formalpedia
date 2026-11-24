@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_uJEmb
 -- name    : Formalism.REAL.uJEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:54:38.866824+00:00
 -- url     : https://prove2.me/theorems/ca719c36-edf8-49fe-9f3c-ecea0454a2c1

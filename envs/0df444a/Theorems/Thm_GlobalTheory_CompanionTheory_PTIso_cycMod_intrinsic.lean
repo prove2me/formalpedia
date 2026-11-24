@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_cycMod_intrinsic
 -- name    : GlobalTheory.CompanionTheory.PTIso.cycMod_intrinsic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:54:51.280983+00:00
 -- url     : https://prove2.me/theorems/a5b714af-9dc1-468e-aca5-ce740ac0f109

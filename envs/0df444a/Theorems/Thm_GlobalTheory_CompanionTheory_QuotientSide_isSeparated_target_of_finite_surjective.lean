@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuotientSide_isSeparated_target_of_finite_surjective
 -- name    : GlobalTheory.CompanionTheory.QuotientSide.isSeparated_target_of_finite_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:57:33.705691+00:00
 -- url     : https://prove2.me/theorems/56ba2fa9-a73b-4d67-9bc9-489c997ab5b1

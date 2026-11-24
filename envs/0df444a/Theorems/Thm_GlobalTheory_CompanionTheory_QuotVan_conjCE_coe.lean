@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuotVan_conjCE_coe
 -- name    : GlobalTheory.CompanionTheory.QuotVan.conjCE_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:57:51.300494+00:00
 -- url     : https://prove2.me/theorems/66f00a23-ba15-478e-b44a-e7357ad29bed

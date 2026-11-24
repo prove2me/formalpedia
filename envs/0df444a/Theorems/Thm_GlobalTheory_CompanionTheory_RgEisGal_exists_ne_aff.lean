@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_exists_ne_aff
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.exists_ne_aff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:59:04.547618+00:00
 -- url     : https://prove2.me/theorems/682dfbc5-bbd3-4820-b4bf-9c7dae5058ba

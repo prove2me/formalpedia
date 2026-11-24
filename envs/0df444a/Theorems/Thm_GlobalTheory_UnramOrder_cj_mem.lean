@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_cj_mem
 -- name    : GlobalTheory.UnramOrder.cj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:00:35.925798+00:00
 -- url     : https://prove2.me/theorems/0f7dd3c4-ec0f-4b9d-a9c6-5a1abb4b426d

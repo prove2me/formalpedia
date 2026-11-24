@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_wallQ
 -- name    : GlobalTheory.CompanionTheory.RgEis.wallQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:57:21.68516+00:00
 -- url     : https://prove2.me/theorems/947c87ac-2e1f-4705-bd84-dc95e0b3a7fe

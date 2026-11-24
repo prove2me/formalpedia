@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_PoiLat_gaussian_lattice_term
 -- name    : GlobalTheory.CompanionTheory.SW.Core.PoiLat.gaussian_lattice_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:04:11.26408+00:00
 -- url     : https://prove2.me/theorems/89bf4bf1-b107-48c9-b854-4e80c344aeb1

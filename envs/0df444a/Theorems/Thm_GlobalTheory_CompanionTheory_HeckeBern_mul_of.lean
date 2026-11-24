@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeBern_mul_of
 -- name    : GlobalTheory.CompanionTheory.HeckeBern.mul_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:45:52.028849+00:00
 -- url     : https://prove2.me/theorems/43c75bae-6b3f-4cd0-9b18-0dd277b0c731

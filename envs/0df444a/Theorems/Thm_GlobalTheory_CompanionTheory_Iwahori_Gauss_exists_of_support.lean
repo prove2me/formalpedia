@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Gauss_exists_of_support
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Gauss.exists_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:50:08.607444+00:00
 -- url     : https://prove2.me/theorems/9e18dfdd-8c5f-4bf4-b009-ef510be12473

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_RatCoord_cv_ratTup
 -- name    : GlobalTheory.CompanionTheory.SW.BB.RatCoord.cv_ratTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:01:13.561051+00:00
 -- url     : https://prove2.me/theorems/661d5de0-bf82-4dd3-8098-a1157014aa78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PRep_JacExact_mem_span_of_normal
 -- name    : GlobalTheory.CompanionTheory.PRep.JacExact.mem_span_of_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:09.912091+00:00
 -- url     : https://prove2.me/theorems/7c65485a-14be-4f34-9b42-1455a6a5e5f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Tame_det_eq_blocks
 -- name    : GlobalTheory.CompanionTheory.QL.Tame.det_eq_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:55:50.571153+00:00
 -- url     : https://prove2.me/theorems/b9556512-dc76-458d-9ecf-195c5366b1fc

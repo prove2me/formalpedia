@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolPairExists_mat_injective
 -- name    : GlobalTheory.VolPairExists.mat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:56:10.480798+00:00
 -- url     : https://prove2.me/theorems/e4096436-add4-41f8-a66a-54dfde0269ff

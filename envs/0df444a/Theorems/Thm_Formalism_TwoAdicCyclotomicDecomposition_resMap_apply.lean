@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_resMap_apply
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.resMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:59:15.806191+00:00
 -- url     : https://prove2.me/theorems/356dc2bb-91fd-48a6-9f32-9732ac0fc37b

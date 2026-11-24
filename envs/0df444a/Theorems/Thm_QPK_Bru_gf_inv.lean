@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_Bru_gf_inv
 -- name    : QPK.Bru.gf_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:55:29.195557+00:00
 -- url     : https://prove2.me/theorems/9812930a-71d7-4e81-a30f-629801bad015

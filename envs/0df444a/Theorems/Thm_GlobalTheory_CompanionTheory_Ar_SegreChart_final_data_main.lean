@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_final_data_main
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.final_data_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:22:40.570477+00:00
 -- url     : https://prove2.me/theorems/e7fc8c82-0b6d-4470-8405-7d4cfbba2a70

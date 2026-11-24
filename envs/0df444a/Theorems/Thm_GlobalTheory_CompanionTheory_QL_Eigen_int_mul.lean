@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Eigen_int_mul
 -- name    : GlobalTheory.CompanionTheory.QL.Eigen.int_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:56:45.118642+00:00
 -- url     : https://prove2.me/theorems/fa746b5e-776d-4630-9bc6-0ba008150e45

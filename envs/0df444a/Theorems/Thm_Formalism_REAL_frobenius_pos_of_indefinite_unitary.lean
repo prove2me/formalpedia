@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_frobenius_pos_of_indefinite_unitary
 -- name    : Formalism.REAL.frobenius_pos_of_indefinite_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:03.108945+00:00
 -- url     : https://prove2.me/theorems/6cec5d4c-0393-4b3e-8f02-f30ae58607a8

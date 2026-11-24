@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RootExch_patSet_mono
 -- name    : GlobalTheory.CompanionTheory.RootExch.patSet_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:00:43.047057+00:00
 -- url     : https://prove2.me/theorems/7d3d62e9-d8ba-4975-b7fc-f0cb6a3882e4

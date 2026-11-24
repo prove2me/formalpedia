@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RealPlace_eq_diagonal_of_upperTriangular_of_unitary
 -- name    : GlobalTheory.CompanionTheory.RealPlace.eq_diagonal_of_upperTriangular_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:57:20.209371+00:00
 -- url     : https://prove2.me/theorems/2333a9c9-29a4-4d37-b633-99584204882b

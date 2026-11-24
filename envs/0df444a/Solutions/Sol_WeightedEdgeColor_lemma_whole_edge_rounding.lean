@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeightedEdgeColor.lemma_whole_edge_rounding
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-24T06:07:56.320797+00:00
 -- url     : https://prove2.me/submissions/6653e00d-2048-4be5-aeb5-88443914a5aa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WeightedEdgeColor_WGraph

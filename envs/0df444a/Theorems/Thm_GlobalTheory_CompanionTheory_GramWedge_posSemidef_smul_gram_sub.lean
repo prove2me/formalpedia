@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GramWedge_posSemidef_smul_gram_sub
 -- name    : GlobalTheory.CompanionTheory.GramWedge.posSemidef_smul_gram_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:34.813872+00:00
 -- url     : https://prove2.me/theorems/78abe243-9288-4164-b650-918330bf23b6

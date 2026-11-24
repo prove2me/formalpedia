@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DualKernelLemmas_real_bound
 -- name    : Formalism.FourierDecayAlt.P.DualKernelLemmas.real_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:02:48.439882+00:00
 -- url     : https://prove2.me/theorems/1af024f1-6a13-48df-bb12-89abf28a9f95

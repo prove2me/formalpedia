@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_WeightedSlopeBounds_each_unit_bound_statement
 -- name    : Formalism.LFunctionChainParameters.WeightedSlopeBounds.each_unit_bound_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:03.723216+00:00
 -- url     : https://prove2.me/theorems/aed35deb-06cb-4af0-9ce1-f31bfb5e788b

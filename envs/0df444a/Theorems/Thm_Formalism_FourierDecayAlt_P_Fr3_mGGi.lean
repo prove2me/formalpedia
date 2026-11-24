@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr3_mGGi
 -- name    : Formalism.FourierDecayAlt.P.Fr3.mGGi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:00:27.21195+00:00
 -- url     : https://prove2.me/theorems/1f19b213-494a-43e6-8b4b-17ec20797170

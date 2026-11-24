@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_AbsUniq_continuous_orbitQuot
 -- name    : GlobalTheory.CompanionTheory.SW.AbsUniq.continuous_orbitQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:01:10.896869+00:00
 -- url     : https://prove2.me/theorems/644fce75-cc28-4ea5-a958-6221b8b0a934

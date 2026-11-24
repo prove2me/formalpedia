@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_ballFinite
 -- name    : Formalism.REAL.ballFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:55:09.136159+00:00
 -- url     : https://prove2.me/theorems/c875be48-de41-4d60-999e-c43c10c36ff6

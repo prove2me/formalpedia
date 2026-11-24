@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csGlob_lattice
 -- name    : Formalism.UG.P.csGlob_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:56:43.678426+00:00
 -- url     : https://prove2.me/theorems/4806e038-dade-4521-a1a2-682eb7a1f08b

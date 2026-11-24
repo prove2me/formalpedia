@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_ballOpen
 -- name    : Formalism.REAL.ballOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:57:45.953061+00:00
 -- url     : https://prove2.me/theorems/5afadbc8-02d2-4fbb-bbd4-228538141c54

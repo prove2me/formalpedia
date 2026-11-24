@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FourierMat_fourier_uniqueness
 -- name    : GlobalTheory.CompanionTheory.FourierMat.fourier_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:41:17.739802+00:00
 -- url     : https://prove2.me/theorems/5905e971-d31f-416a-8bff-89ffd89aadca

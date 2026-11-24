@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentCPSeriesIffFiniteV1
 -- name    : Kyprianou.Ch03.momentCPSeriesIffFiniteV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:52:34.173935+00:00
 -- url     : https://prove2.me/theorems/12cfbd6e-2373-4aa9-a901-54e548cf3855

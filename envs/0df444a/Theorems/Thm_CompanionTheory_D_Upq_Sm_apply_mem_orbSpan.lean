@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_apply_mem_orbSpan
 -- name    : CompanionTheory.D.Upq.Sm.apply_mem_orbSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:40:55.436543+00:00
 -- url     : https://prove2.me/theorems/82069fef-766b-4767-bd9c-4db1da7e3ae9

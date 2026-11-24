@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_range_specMap_algebraMap_graphAlgebraAway
 -- name    : FunctorialResolution.EmbeddedResolution.range_specMap_algebraMap_graphAlgebraAway
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:59:52.035565+00:00
 -- url     : https://prove2.me/theorems/a044d736-cc33-47c3-89df-61aebe94e72f

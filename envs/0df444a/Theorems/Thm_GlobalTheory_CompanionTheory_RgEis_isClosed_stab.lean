@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_isClosed_stab
 -- name    : GlobalTheory.CompanionTheory.RgEis.isClosed_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:57:59.907024+00:00
 -- url     : https://prove2.me/theorems/e996510a-4ae9-4f4f-9568-afc7bd149a38

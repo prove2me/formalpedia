@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_CosetTop_cosetOff_top
 -- name    : GlobalTheory.CompanionTheory.Equi.CosetTop.cosetOff_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:38:43.529105+00:00
 -- url     : https://prove2.me/theorems/d07dc3f1-cad1-4ee6-82d5-8070d419c994

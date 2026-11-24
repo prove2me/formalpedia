@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_smul_matrix2_of
 -- name    : Formalism.FourierDecayAlt.P.Fr9.smul_matrix2_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:04:43.268907+00:00
 -- url     : https://prove2.me/theorems/9b4a91b3-58ba-4e58-8801-02c0dd59ba3a

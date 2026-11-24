@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_JStable_extendByZero_restrict_eigen_projection
 -- name    : GlobalTheory.CompanionTheory.JStable.extendByZero_restrict_eigen_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:04:01.976808+00:00
 -- url     : https://prove2.me/theorems/03112a15-5e67-4d4d-a6f4-27cf60c72788

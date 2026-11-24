@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pChar
 -- name    : Formalism.REAL.pChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:57:29.190811+00:00
 -- url     : https://prove2.me/theorems/137784b8-af6f-4093-b494-56e24cb233b7

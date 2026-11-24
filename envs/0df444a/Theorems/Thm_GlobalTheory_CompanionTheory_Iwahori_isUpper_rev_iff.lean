@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_isUpper_rev_iff
 -- name    : GlobalTheory.CompanionTheory.Iwahori.isUpper_rev_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:49:46.81632+00:00
 -- url     : https://prove2.me/theorems/003cfa6d-441d-4058-b838-219ba01e42bb

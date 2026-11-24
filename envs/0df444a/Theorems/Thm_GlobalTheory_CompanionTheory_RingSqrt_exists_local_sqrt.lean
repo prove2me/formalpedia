@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RingSqrt_exists_local_sqrt
 -- name    : GlobalTheory.CompanionTheory.RingSqrt.exists_local_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:00:57.124052+00:00
 -- url     : https://prove2.me/theorems/4206d181-03c4-443e-92b4-6b12b6ca9925

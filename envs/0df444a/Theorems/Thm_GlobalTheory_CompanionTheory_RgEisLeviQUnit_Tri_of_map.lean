@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_Tri_of_map
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.Tri.of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:58:46.74588+00:00
 -- url     : https://prove2.me/theorems/d05a107d-b529-4be5-84ac-338d5decbdd2

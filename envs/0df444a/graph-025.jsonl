@@ -37389,10 +37389,10 @@
 {"parent": "DistributedMIS.LocalLowerBound.repaired_simulation", "child": "DistributedMIS_LocalLowerBound_FiniteBlowup", "via": ["statement"]}
 {"parent": "IncoherentPurity.Adaptive.adaptive_variance", "child": "IncoherentPurity_Adaptive_Analytic", "via": ["statement"]}
 {"parent": "IncoherentPurity.Adaptive.adaptive_variance", "child": "IncoherentPurity_Adaptive_Estimators", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_3_4", "child": "PunctSketch_coinProb", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_3_4", "child": "QueryDepthMIS_rank", "via": ["statement"]}
+{"parent": "QueryDepthMIS.lemma_3_4", "child": "PunctSketch_coinProb", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.lemma_3_4", "child": "QueryDepthMIS_rank", "via": ["solution", "statement"]}
 {"parent": "QueryDepthMIS.lemma_3_4", "child": "QueryDepthMIS_IsQueryPath", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_3_4", "child": "QueryDepthMIS_shortcutIdx", "via": ["statement"]}
+{"parent": "QueryDepthMIS.lemma_3_4", "child": "QueryDepthMIS_shortcutIdx", "via": ["solution", "statement"]}
 {"parent": "QMAvsQCIP_delta", "child": "QMAvsQCIP_gammaL", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U12.entry3_0_contains_g", "child": "OAIQ098G332", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U12.entry3_0_contains_g", "child": "OAIQ098G083", "via": ["statement"]}

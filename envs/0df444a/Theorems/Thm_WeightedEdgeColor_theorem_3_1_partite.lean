@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedEdgeColor_theorem_3_1_partite
 -- name    : WeightedEdgeColor.theorem_3_1_partite
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T05:47:22.746271+00:00
 -- url     : https://prove2.me/theorems/c087991d-d2bf-4fea-942f-b75923cf00f3

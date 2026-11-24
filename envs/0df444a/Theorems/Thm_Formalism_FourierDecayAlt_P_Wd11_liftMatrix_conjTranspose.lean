@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_liftMatrix_conjTranspose
 -- name    : Formalism.FourierDecayAlt.P.Wd11.liftMatrix_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:47:59.369647+00:00
 -- url     : https://prove2.me/theorems/4a5d514b-9a18-4cf7-a2b0-c00a8a07858f

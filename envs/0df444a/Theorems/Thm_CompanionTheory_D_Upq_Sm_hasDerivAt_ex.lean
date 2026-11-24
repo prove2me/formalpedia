@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_hasDerivAt_ex
 -- name    : CompanionTheory.D.Upq.Sm.hasDerivAt_ex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:41:00.957838+00:00
 -- url     : https://prove2.me/theorems/deace24e-1156-409e-8309-262e128c8fc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_BoxIndex_extendByZero_injective
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.BoxIndex.extendByZero_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:55:49.110874+00:00
 -- url     : https://prove2.me/theorems/f041c51e-1d6c-4ade-9a5e-b7521de19a7b

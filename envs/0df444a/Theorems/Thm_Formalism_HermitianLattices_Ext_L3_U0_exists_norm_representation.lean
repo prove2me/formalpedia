@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_norm_representation
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_norm_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:30.416549+00:00
 -- url     : https://prove2.me/theorems/c918e8c9-879f-4e50-83d9-c17059807587

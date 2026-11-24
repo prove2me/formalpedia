@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_exists_pflat
 -- name    : ReciprocityTheory.PGsh.exists_pflat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:23:32.33983+00:00
 -- url     : https://prove2.me/theorems/43bf9387-c235-43e5-b70d-1bf0dbd1e275

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_quotEquivAdelic_mulEquiv
 -- name    : GlobalTheory.Idele.quotEquivAdelic_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:52:45.562979+00:00
 -- url     : https://prove2.me/theorems/a4f42e98-9bdb-4fce-9ba7-9d907153c597

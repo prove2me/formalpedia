@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_AwayClosure_of_integral
 -- name    : GlobalTheory.Square.AwayClosure.of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:07:54.769994+00:00
 -- url     : https://prove2.me/theorems/d0c16ed7-28de-4286-936d-0432dfb14bb0

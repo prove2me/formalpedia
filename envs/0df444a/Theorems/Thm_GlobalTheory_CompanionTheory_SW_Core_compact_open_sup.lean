@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_compact_open_sup
 -- name    : GlobalTheory.CompanionTheory.SW.Core.compact_open_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:16.932231+00:00
 -- url     : https://prove2.me/theorems/0b0f013a-e0c6-4d1c-bb70-d39cde25c620

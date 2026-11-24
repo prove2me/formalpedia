@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_NormalisedValue_val_pi_pos
 -- name    : GlobalTheory.CompanionTheory.QL.NormalisedValue.val_pi_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:56:22.090884+00:00
 -- url     : https://prove2.me/theorems/e8109591-8a6f-468d-87c6-68db7e3093a2

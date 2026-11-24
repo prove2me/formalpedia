@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisScale_conv_twist
 -- name    : GlobalTheory.CompanionTheory.RgEisScale.conv_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:59:42.628362+00:00
 -- url     : https://prove2.me/theorems/c3b88a5c-33e4-4cd5-b154-8a0b81fcaaf9

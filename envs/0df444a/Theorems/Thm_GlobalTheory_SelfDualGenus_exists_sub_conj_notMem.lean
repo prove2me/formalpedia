@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_exists_sub_conj_notMem
 -- name    : GlobalTheory.SelfDualGenus.exists_sub_conj_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:09:15.913857+00:00
 -- url     : https://prove2.me/theorems/ee6b3a21-a693-48d0-a355-e704fe191b85

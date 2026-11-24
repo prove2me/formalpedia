@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_chartRingHom_coe_eq_chartFraction_mul
 -- name    : FunctorialResolution.Blowup.chartRingHom_coe_eq_chartFraction_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:39:22.133999+00:00
 -- url     : https://prove2.me/theorems/fa86ac52-5e96-4573-88b7-471112143ea1

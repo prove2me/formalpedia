@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_apply_eq_pow_cycMod_val
 -- name    : GlobalTheory.CompanionTheory.PTIso.apply_eq_pow_cycMod_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:54:23.431693+00:00
 -- url     : https://prove2.me/theorems/8aaa3324-b67c-4163-9a8e-9e5713675452

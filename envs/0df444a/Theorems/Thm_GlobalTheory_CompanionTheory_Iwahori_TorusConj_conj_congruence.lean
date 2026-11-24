@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_TorusConj_conj_congruence
 -- name    : GlobalTheory.CompanionTheory.Iwahori.TorusConj.conj_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:49:17.805808+00:00
 -- url     : https://prove2.me/theorems/e5a9ea53-6805-4fd9-a940-a258ce7bd498

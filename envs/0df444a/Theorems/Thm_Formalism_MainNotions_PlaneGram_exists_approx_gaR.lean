@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_exists_approx_gaR
 -- name    : Formalism.MainNotions.PlaneGram.exists_approx_gaR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:06:47.243797+00:00
 -- url     : https://prove2.me/theorems/cd6326e6-55a8-454c-b214-69dd7496f549

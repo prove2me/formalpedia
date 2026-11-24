@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_norm_one_matrix_eq_sqrt
 -- name    : Formalism.REAL.norm_one_matrix_eq_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:23:06.877707+00:00
 -- url     : https://prove2.me/theorems/771fc4d4-b909-457a-9890-8f0df3ac3371

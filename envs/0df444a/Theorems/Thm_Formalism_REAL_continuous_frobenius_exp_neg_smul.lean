@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_continuous_frobenius_exp_neg_smul
 -- name    : Formalism.REAL.continuous_frobenius_exp_neg_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:42:08.017549+00:00
 -- url     : https://prove2.me/theorems/7145c0fd-eab5-4997-a2de-5b2cd6c23150

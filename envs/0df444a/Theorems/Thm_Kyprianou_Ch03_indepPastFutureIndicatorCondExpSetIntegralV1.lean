@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_indepPastFutureIndicatorCondExpSetIntegralV1
 -- name    : Kyprianou.Ch03.indepPastFutureIndicatorCondExpSetIntegralV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T11:03:39.803435+00:00
 -- url     : https://prove2.me/theorems/6a870581-0ee4-4990-b7cb-eb140983d7c6

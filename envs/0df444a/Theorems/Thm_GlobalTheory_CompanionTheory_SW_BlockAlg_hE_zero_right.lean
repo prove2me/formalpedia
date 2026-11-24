@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockAlg_hE_zero_right
 -- name    : GlobalTheory.CompanionTheory.SW.BlockAlg.hE_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:03:02.170811+00:00
 -- url     : https://prove2.me/theorems/48af7521-9136-4846-a10e-96ce6df98fa4

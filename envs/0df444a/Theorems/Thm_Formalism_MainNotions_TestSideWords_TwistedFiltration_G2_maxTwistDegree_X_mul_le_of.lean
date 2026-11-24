@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G2_maxTwistDegree_X_mul_le_of
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.maxTwistDegree_X_mul_le_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:50.155164+00:00
 -- url     : https://prove2.me/theorems/af2b7743-3b89-46f7-b2bb-b45a0d7e5494

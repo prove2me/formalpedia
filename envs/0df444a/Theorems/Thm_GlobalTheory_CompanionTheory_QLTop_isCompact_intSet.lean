@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLTop_isCompact_intSet
 -- name    : GlobalTheory.CompanionTheory.QLTop.isCompact_intSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:31.010216+00:00
 -- url     : https://prove2.me/theorems/66ad9b8b-6451-4921-97f8-cd1f75748110

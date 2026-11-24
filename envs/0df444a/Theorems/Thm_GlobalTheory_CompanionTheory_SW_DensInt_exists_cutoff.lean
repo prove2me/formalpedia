@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DensInt_exists_cutoff
 -- name    : GlobalTheory.CompanionTheory.SW.DensInt.exists_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:04:17.221196+00:00
 -- url     : https://prove2.me/theorems/fe4f16a0-9d87-47af-a3c2-09708f80e6a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_pivot
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:38.181525+00:00
 -- url     : https://prove2.me/theorems/1f7c103e-ec92-4b02-ac2f-e2d9f96a20c6

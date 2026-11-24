@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Nibble_local_almost_perfect_matching
 -- name    : Nibble.local_almost_perfect_matching
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T12:55:10.035589+00:00
 -- url     : https://prove2.me/theorems/9ab1ec51-a300-4dc1-b374-3571a8808a87

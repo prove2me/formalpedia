@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_PoiLat_siegelGaussIntegral_congr
 -- name    : GlobalTheory.CompanionTheory.SW.Core.PoiLat.siegelGaussIntegral_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:15.717787+00:00
 -- url     : https://prove2.me/theorems/d8794060-a9c1-4118-be0e-1f07798f8a08

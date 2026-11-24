@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_JStable_eq_extendByZero_restrict_sum
 -- name    : GlobalTheory.CompanionTheory.JStable.eq_extendByZero_restrict_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:58:38.645278+00:00
 -- url     : https://prove2.me/theorems/3738981f-98a5-4c85-a66b-a65f984a9ecc

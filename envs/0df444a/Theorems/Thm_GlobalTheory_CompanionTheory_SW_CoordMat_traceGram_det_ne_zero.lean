@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CoordMat_traceGram_det_ne_zero
 -- name    : GlobalTheory.CompanionTheory.SW.CoordMat.traceGram_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:02:33.522051+00:00
 -- url     : https://prove2.me/theorems/e2c5ba36-c545-4e22-866f-c55153e2d97c

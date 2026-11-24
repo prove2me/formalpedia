@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_Final_mqDiscr
 -- name    : Formalism.HF.Final.mqDiscr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:55:43.842182+00:00
 -- url     : https://prove2.me/theorems/7246e26e-60ff-44fc-834d-fb8000fdb920

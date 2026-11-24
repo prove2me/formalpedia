@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLTop_nrm_le_one_iff
 -- name    : GlobalTheory.CompanionTheory.QLTop.nrm_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:32.112994+00:00
 -- url     : https://prove2.me/theorems/8c8c4ddc-f988-4d44-9551-c7b0ddcd9c27

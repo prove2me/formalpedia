@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PatGrp_card_patSet
 -- name    : GlobalTheory.CompanionTheory.PatGrp.card_patSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:36.543582+00:00
 -- url     : https://prove2.me/theorems/78abe1e7-e0d3-4746-a607-6e6efaa4d24a

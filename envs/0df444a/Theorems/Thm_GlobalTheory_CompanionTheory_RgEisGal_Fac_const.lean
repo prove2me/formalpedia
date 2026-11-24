@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_Fac_const
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.Fac_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:56:51.938281+00:00
 -- url     : https://prove2.me/theorems/1b89954f-c170-4211-8a13-e05b8c020a85

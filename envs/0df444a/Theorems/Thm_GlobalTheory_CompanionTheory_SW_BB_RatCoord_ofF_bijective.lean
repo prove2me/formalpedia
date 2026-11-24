@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_RatCoord_ofF_bijective
 -- name    : GlobalTheory.CompanionTheory.SW.BB.RatCoord.ofF_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:00:56.442797+00:00
 -- url     : https://prove2.me/theorems/4fd607a9-7e96-465d-b77b-4fade9f7257c

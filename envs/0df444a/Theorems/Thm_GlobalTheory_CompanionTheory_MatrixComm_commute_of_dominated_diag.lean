@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MatrixComm_commute_of_dominated_diag
 -- name    : GlobalTheory.CompanionTheory.MatrixComm.commute_of_dominated_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:53:09.308485+00:00
 -- url     : https://prove2.me/theorems/4881247e-d560-42aa-81c4-a9eab5777049

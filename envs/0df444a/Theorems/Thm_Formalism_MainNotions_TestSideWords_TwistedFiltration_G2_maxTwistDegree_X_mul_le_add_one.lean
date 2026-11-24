@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G2_maxTwistDegree_X_mul_le_add_one
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.maxTwistDegree_X_mul_le_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:12:29.999078+00:00
 -- url     : https://prove2.me/theorems/204cdc4f-118b-4e7c-96bb-dd4e8d761063

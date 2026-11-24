@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharDensity_gauss_inner
 -- name    : GlobalTheory.CompanionTheory.SW.CharDensity.gauss_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:02:13.790679+00:00
 -- url     : https://prove2.me/theorems/91330893-8593-474f-96a2-84bfddcd00b3

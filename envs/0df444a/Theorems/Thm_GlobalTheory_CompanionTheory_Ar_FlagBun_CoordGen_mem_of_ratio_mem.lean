@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagBun_CoordGen_mem_of_ratio_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagBun.CoordGen.mem_of_ratio_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:17:27.07533+00:00
 -- url     : https://prove2.me/theorems/6fba076f-fe08-4ca4-87cf-bb2a970d33ce

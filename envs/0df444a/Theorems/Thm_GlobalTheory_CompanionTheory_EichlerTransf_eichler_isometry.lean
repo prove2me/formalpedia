@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EichlerTransf_eichler_isometry
 -- name    : GlobalTheory.CompanionTheory.EichlerTransf.eichler_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:58:03.451813+00:00
 -- url     : https://prove2.me/theorems/e484e03c-1796-4a0c-a0cc-ddf23886531b

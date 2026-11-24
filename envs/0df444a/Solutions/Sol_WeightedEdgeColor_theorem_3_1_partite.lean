@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeightedEdgeColor.theorem_3_1_partite
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-24T05:57:20.736796+00:00
 -- url     : https://prove2.me/submissions/bbb69582-31b7-4f63-844d-27403951118f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WeightedEdgeColor_WGraph

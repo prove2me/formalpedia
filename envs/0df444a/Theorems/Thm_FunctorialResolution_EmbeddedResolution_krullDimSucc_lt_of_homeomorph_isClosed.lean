@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_krullDimSucc_lt_of_homeomorph_isClosed
 -- name    : FunctorialResolution.EmbeddedResolution.krullDimSucc_lt_of_homeomorph_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:17.099086+00:00
 -- url     : https://prove2.me/theorems/3027d630-8288-4762-aab4-886112d8d42a

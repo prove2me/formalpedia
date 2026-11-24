@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DenSum_fibre_bound
 -- name    : GlobalTheory.CompanionTheory.SW.DenSum.fibre_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:03:53.322019+00:00
 -- url     : https://prove2.me/theorems/ae832e7d-2c6f-4d20-b304-bf4d5bc24439

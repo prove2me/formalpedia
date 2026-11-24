@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_leftGood_of_fac
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.leftGood_of_fac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:58:25.068903+00:00
 -- url     : https://prove2.me/theorems/63fe17c4-471d-499d-900c-4f26f4e145f9

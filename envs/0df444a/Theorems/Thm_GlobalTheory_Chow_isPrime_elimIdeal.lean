@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_isPrime_elimIdeal
 -- name    : GlobalTheory.Chow.isPrime_elimIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:50:49.632909+00:00
 -- url     : https://prove2.me/theorems/c8bedb29-aca0-4dfc-af54-50b2e72c3c9f

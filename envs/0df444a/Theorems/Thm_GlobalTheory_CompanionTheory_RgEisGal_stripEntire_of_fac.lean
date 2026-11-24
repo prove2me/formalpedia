@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_stripEntire_of_fac
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.stripEntire_of_fac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:58.648506+00:00
 -- url     : https://prove2.me/theorems/055edeaa-e568-4c53-a282-3e8c684b49f8

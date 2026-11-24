@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_mem_adelicIdeal_one_iff
 -- name    : GlobalTheory.Idele.mem_adelicIdeal_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:52:20.6643+00:00
 -- url     : https://prove2.me/theorems/fd4fdeed-3d22-45ec-9f50-d8ea83f50f81

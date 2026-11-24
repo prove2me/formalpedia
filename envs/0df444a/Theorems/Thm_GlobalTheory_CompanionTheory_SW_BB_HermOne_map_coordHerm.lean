@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_HermOne_map_coordHerm
 -- name    : GlobalTheory.CompanionTheory.SW.BB.HermOne.map_coordHerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:01:45.232883+00:00
 -- url     : https://prove2.me/theorems/047181c1-d1b5-4b73-b514-e6537de06203

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_frame_perm
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.frame_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:41:16.202575+00:00
 -- url     : https://prove2.me/theorems/2ecdd610-7f0b-43fc-92cf-d9aaf1fc7bec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_standard_basis_theorem
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.standard_basis_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:21.296483+00:00
 -- url     : https://prove2.me/theorems/3e966169-1f38-4927-9792-4ed91f2928d9

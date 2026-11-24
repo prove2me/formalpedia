@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_one_ne_zero_fracIdeal
 -- name    : GlobalTheory.AdLat.one_ne_zero_fracIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:07:00.993135+00:00
 -- url     : https://prove2.me/theorems/983daadd-a4be-4386-8839-277e7fa25af7

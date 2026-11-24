@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_RT_Siegel_char_trivial_artinian
 -- name    : GlobalTheory.CompanionTheory.Ar.RT.Siegel.char_trivial_artinian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:20:34.343662+00:00
 -- url     : https://prove2.me/theorems/84ea264f-504a-4093-992b-bc991e9864e7

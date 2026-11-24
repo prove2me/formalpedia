@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharacterTrivial_eq_one_of_isFundamentalDomain
 -- name    : GlobalTheory.CompanionTheory.SW.CharacterTrivial.eq_one_of_isFundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:02:14.064801+00:00
 -- url     : https://prove2.me/theorems/19a4a70e-cbbe-4d25-87dc-f740b612b963

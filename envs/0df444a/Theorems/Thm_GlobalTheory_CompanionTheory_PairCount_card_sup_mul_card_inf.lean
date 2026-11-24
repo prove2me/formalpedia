@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PairCount_card_sup_mul_card_inf
 -- name    : GlobalTheory.CompanionTheory.PairCount.card_sup_mul_card_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:54:43.143199+00:00
 -- url     : https://prove2.me/theorems/29a16a3c-0e46-4c8b-90a8-ce996098b2f6

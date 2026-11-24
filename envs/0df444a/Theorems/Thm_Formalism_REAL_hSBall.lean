@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_hSBall
 -- name    : Formalism.REAL.hSBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:55:05.475749+00:00
 -- url     : https://prove2.me/theorems/e23cd2c3-42ae-4e15-aac6-0928440f198a

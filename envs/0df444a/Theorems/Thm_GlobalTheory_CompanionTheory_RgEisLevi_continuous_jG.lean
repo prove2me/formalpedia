@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_continuous_jG
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.continuous_jG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:58:57.300559+00:00
 -- url     : https://prove2.me/theorems/dfc977c0-4540-46dd-a4ea-56c949eee78e

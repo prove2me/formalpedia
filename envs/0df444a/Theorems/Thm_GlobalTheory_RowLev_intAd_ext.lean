@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_intAd_ext
 -- name    : GlobalTheory.RowLev.intAd_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:55:52.5571+00:00
 -- url     : https://prove2.me/theorems/9b5ce9f1-c336-4c86-8206-c5f8d4aeaa2d

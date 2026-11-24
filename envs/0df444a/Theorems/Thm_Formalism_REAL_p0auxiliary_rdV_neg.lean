@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_p0auxiliary_rdV_neg
 -- name    : Formalism.REAL.p0auxiliary_rdV_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:55:27.68157+00:00
 -- url     : https://prove2.me/theorems/2032c428-60fb-41ba-8b63-dc33b32b0165

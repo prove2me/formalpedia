@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_exists_gsIso
 -- name    : GlobalTheory.CompanionTheory.PTIso.exists_gsIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:55:12.59902+00:00
 -- url     : https://prove2.me/theorems/1a5a7485-0850-4e4a-8d42-0572dbf379f3

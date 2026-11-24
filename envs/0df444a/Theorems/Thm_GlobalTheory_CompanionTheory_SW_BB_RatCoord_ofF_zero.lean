@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_RatCoord_ofF_zero
 -- name    : GlobalTheory.CompanionTheory.SW.BB.RatCoord.ofF_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:02:50.748822+00:00
 -- url     : https://prove2.me/theorems/d3cf591a-a93d-424b-b8a6-25a982552937

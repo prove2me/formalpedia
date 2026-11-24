@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_tube_coneI_iff
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.tube_coneI_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:58:52.464848+00:00
 -- url     : https://prove2.me/theorems/7a5e9a32-308d-4cea-8dbe-02ca36ae3720

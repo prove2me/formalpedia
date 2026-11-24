@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Density_eq_of_cosets
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Density.eq_of_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:03:03.379804+00:00
 -- url     : https://prove2.me/theorems/ca71fc72-b2f7-4017-a35d-b19fe46fbc1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RiemannCore_exists_nhds_close
 -- name    : GlobalTheory.CompanionTheory.RiemannCore.exists_nhds_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:02:16.516038+00:00
 -- url     : https://prove2.me/theorems/742ac59d-722f-450c-9c43-acfd10352652

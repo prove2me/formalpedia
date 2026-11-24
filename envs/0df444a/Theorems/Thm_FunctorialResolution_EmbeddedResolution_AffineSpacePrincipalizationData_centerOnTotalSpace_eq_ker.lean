@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_centerOnTotalSpace_eq_ker
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.centerOnTotalSpace_eq_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:56:36.391833+00:00
 -- url     : https://prove2.me/theorems/c2ffb88f-6c26-4d02-87df-eaf0e40d4c7b

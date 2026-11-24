@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_MaxLat_IsLat_smul_mem
 -- name    : GlobalTheory.CompanionTheory.RgFl.MaxLat.IsLat.smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:59:51.35362+00:00
 -- url     : https://prove2.me/theorems/1beb86e9-48ff-44fb-aa1a-6521354a7067

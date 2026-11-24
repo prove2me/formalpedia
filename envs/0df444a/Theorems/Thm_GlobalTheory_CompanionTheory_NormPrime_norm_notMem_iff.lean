@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NormPrime_norm_notMem_iff
 -- name    : GlobalTheory.CompanionTheory.NormPrime.norm_notMem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:53:07.115698+00:00
 -- url     : https://prove2.me/theorems/516ae3b1-4eb9-4914-a61d-98a4a97a445d

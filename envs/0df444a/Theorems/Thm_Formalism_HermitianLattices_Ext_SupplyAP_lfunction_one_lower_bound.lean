@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_lfunction_one_lower_bound
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.lfunction_one_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:44.262175+00:00
 -- url     : https://prove2.me/theorems/7517957e-eece-4c82-82a5-d6672b9d6e68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentCompoundPoissonSubmulIffV1
 -- name    : Kyprianou.Ch03.momentCompoundPoissonSubmulIffV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:35:07.098274+00:00
 -- url     : https://prove2.me/theorems/94671c15-20af-4dbe-b8aa-987cace03fb2

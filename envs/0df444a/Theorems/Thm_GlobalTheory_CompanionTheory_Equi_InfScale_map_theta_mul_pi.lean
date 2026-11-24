@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_InfScale_map_theta_mul_pi
 -- name    : GlobalTheory.CompanionTheory.Equi.InfScale.map_theta_mul_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:38:34.336937+00:00
 -- url     : https://prove2.me/theorems/853b1024-1b67-4257-9787-ac945de93f26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_cCR
 -- name    : Formalism.REAL.cCR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:54:18.232882+00:00
 -- url     : https://prove2.me/theorems/63979ce7-d5c0-4ae1-95fd-c11b9292eea6

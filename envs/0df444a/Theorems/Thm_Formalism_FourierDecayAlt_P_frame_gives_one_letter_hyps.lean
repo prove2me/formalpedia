@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_gives_one_letter_hyps
 -- name    : Formalism.FourierDecayAlt.P.frame_gives_one_letter_hyps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:47:28.21627+00:00
 -- url     : https://prove2.me/theorems/a5d04059-d7b7-45a8-b1f9-e8fa9a21e2ed

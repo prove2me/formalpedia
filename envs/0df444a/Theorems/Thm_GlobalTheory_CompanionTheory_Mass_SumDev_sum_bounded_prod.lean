@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_SumDev_sum_bounded_prod
 -- name    : GlobalTheory.CompanionTheory.Mass.SumDev.sum_bounded_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:53:40.639127+00:00
 -- url     : https://prove2.me/theorems/975d295d-9bc0-44b5-8ec1-83b26d705adf

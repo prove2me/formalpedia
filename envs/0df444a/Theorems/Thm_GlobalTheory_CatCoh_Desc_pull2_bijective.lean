@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_pull2_bijective
 -- name    : GlobalTheory.CatCoh.Desc.pull2_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:05:49.762235+00:00
 -- url     : https://prove2.me/theorems/a3de0479-3a9b-4e04-833d-426f59b7c13e

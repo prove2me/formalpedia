@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_frobenius_eq_trace
 -- name    : Formalism.REAL.frobenius_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:57:36.92536+00:00
 -- url     : https://prove2.me/theorems/41751e8b-e27c-4735-93cd-376c56487ec1

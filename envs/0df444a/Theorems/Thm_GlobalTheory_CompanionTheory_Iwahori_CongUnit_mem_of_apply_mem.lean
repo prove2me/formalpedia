@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_CongUnit_mem_of_apply_mem
 -- name    : GlobalTheory.CompanionTheory.Iwahori.CongUnit.mem_of_apply_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:47:50.913605+00:00
 -- url     : https://prove2.me/theorems/28a7fcaf-dc88-4f41-87e0-42991a243622

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_fmat_mul_inv
 -- name    : PI.WAU.B.fmat_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:09:42.902803+00:00
 -- url     : https://prove2.me/theorems/5eec6403-e366-43e4-8eb5-0ac06377711a

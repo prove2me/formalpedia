@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuotVan_map_withDensity_eq_of_scale
 -- name    : GlobalTheory.CompanionTheory.QuotVan.map_withDensity_eq_of_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:58:02.24935+00:00
 -- url     : https://prove2.me/theorems/73f98d47-2044-4186-8f90-db191c9c8eb7

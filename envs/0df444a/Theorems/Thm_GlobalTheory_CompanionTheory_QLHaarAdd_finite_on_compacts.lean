@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLHaarAdd_finite_on_compacts
 -- name    : GlobalTheory.CompanionTheory.QLHaarAdd.finite_on_compacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:55:55.274545+00:00
 -- url     : https://prove2.me/theorems/9164155a-e44e-4d63-a0a2-fb997d5b8bf6

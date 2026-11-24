@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_genFrameSB_of_span
 -- name    : GenFrameSpan.genFrameSB_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:50:46.356747+00:00
 -- url     : https://prove2.me/theorems/ab5f68a5-8605-44de-8cd4-d5f012740bbc

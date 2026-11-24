@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_BoxIndex_matrixExtendByZero_apply
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.BoxIndex.matrixExtendByZero_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:55:57.235723+00:00
 -- url     : https://prove2.me/theorems/05a5bde8-f1cb-4099-8d2c-6ac7441abb29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgSplit_split_mem_iff
 -- name    : GlobalTheory.CompanionTheory.RgSplit.split_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:59:58.342637+00:00
 -- url     : https://prove2.me/theorems/48b5aa7e-110c-4895-a4d6-ae7d90a547c7

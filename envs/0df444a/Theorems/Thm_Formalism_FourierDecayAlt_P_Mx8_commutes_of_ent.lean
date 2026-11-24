@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_commutes_of_ent
 -- name    : Formalism.FourierDecayAlt.P.Mx8.commutes_of_ent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:47:32.093471+00:00
 -- url     : https://prove2.me/theorems/afb58cec-2a2f-4075-9f43-ca956cf4324d

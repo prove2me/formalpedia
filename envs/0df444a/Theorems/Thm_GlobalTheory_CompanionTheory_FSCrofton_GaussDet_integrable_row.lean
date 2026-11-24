@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussDet_integrable_row
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussDet.integrable_row
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:58:13.737143+00:00
 -- url     : https://prove2.me/theorems/69b2ce3b-7d1a-438d-93c4-dd3db95c85db

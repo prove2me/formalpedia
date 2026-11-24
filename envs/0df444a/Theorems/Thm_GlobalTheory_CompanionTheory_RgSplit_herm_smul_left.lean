@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgSplit_herm_smul_left
 -- name    : GlobalTheory.CompanionTheory.RgSplit.herm_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:59:30.165971+00:00
 -- url     : https://prove2.me/theorems/cca64a66-ef02-4a0a-a663-3d85abf79426

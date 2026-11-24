@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_glue_surjective
 -- name    : GlobalTheory.CompanionTheory.RgEis.glue_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:57:19.846255+00:00
 -- url     : https://prove2.me/theorems/1030e85f-1083-4428-9391-b11269f0e428

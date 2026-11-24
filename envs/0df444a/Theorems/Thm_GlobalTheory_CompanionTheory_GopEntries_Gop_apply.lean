@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GopEntries_Gop_apply
 -- name    : GlobalTheory.CompanionTheory.GopEntries.Gop_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:44:00.463915+00:00
 -- url     : https://prove2.me/theorems/c8288b08-d0cb-48d0-9b70-9a7e0e560031

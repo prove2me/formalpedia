@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Retract_constants_of_retract
 -- name    : GlobalTheory.CompanionTheory.Retract.constants_of_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:57:25.656641+00:00
 -- url     : https://prove2.me/theorems/b5359f17-3848-4fd6-a0b4-06b947752f9d

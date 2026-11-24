@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_isPrecomplete_comap_constantCoeff
 -- name    : GlobalTheory.ChartRing.isPrecomplete_comap_constantCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:09:15.475038+00:00
 -- url     : https://prove2.me/theorems/6849c375-90d0-4de0-a3fb-db782ee241eb

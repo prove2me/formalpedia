@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_idealOrder_pow
 -- name    : FunctorialResolution.EmbeddedResolution.idealOrder_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:48:03.218706+00:00
 -- url     : https://prove2.me/theorems/b402ec7a-af33-4ed6-8874-881e8f325537

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolMean_DilatedGaussian_holomorphic_integral
 -- name    : GlobalTheory.CompanionTheory.HolMean.DilatedGaussian.holomorphic_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:48:13.399589+00:00
 -- url     : https://prove2.me/theorems/3585f551-6c14-4398-8c74-8c12c3ebeb50

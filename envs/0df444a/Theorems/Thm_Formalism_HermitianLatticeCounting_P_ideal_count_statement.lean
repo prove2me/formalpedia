@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ideal_count_statement
 -- name    : Formalism.HermitianLatticeCounting.P.ideal_count_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:32.555344+00:00
 -- url     : https://prove2.me/theorems/d749372f-79e8-4fbd-861c-16ddeb596993

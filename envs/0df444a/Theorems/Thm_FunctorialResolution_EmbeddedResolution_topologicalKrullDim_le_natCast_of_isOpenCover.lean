@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_topologicalKrullDim_le_natCast_of_isOpenCover
 -- name    : FunctorialResolution.EmbeddedResolution.topologicalKrullDim_le_natCast_of_isOpenCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:04:17.087911+00:00
 -- url     : https://prove2.me/theorems/50830e53-05d4-4d78-834d-0fafc930a663

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DualKernelLemmas_normW_pos
 -- name    : Formalism.FourierDecayAlt.P.DualKernelLemmas.normW_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:02:31.076405+00:00
 -- url     : https://prove2.me/theorems/39719eab-4bf3-423c-a7f3-0efb5b305a1a

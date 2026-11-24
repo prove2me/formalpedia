@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PRep_twKer_map_closed
 -- name    : GlobalTheory.CompanionTheory.PRep.twKer_map_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:54:20.773712+00:00
 -- url     : https://prove2.me/theorems/094d0e89-7d52-477f-9986-9507e1dd8619

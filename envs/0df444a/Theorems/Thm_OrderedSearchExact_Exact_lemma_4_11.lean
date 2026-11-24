@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrderedSearchExact_Exact_lemma_4_11
 -- name    : OrderedSearchExact.Exact.lemma_4_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:04:13.005925+00:00
 -- url     : https://prove2.me/theorems/ed724974-9bc2-4160-a5b1-44cf481366a5

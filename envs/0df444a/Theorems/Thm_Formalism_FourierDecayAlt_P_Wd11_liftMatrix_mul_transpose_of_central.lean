@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_liftMatrix_mul_transpose_of_central
 -- name    : Formalism.FourierDecayAlt.P.Wd11.liftMatrix_mul_transpose_of_central
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:48:01.842422+00:00
 -- url     : https://prove2.me/theorems/8289ab9e-a3e3-43d1-89f5-8b3501e3f49a

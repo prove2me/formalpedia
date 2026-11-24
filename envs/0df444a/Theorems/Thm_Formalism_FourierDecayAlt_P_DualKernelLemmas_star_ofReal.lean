@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DualKernelLemmas_star_ofReal
 -- name    : Formalism.FourierDecayAlt.P.DualKernelLemmas.star_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:02:46.418091+00:00
 -- url     : https://prove2.me/theorems/7259b2a6-b478-4b75-b702-9949b1948564

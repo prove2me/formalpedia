@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_bdet_congr
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.bdet_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:58:49.553408+00:00
 -- url     : https://prove2.me/theorems/66a9e446-d6b8-4fc1-b82b-40d22b094466

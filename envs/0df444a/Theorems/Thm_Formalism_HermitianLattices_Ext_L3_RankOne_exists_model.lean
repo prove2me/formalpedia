@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_exists_model
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.exists_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:25:29.203847+00:00
 -- url     : https://prove2.me/theorems/63d45b12-4843-48ee-8f50-c32a1a267f07

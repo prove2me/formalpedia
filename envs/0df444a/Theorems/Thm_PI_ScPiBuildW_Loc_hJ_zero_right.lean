@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_hJ_zero_right
 -- name    : PI.ScPiBuildW.Loc.hJ_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:54:20.819043+00:00
 -- url     : https://prove2.me/theorems/a9a87fd7-aea5-48c4-b85a-b85d4d9f5561

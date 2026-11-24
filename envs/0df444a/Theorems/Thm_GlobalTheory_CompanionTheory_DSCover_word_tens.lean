@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSCover_word_tens
 -- name    : GlobalTheory.CompanionTheory.DSCover.word_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:34:48.179291+00:00
 -- url     : https://prove2.me/theorems/3cfaa279-9c04-47a0-aaef-1028b69d837c

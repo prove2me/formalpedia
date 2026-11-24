@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SequenceOfBlowups_withoutIsoBlowups_projectionToBase_eq_nontrivialIndex
 -- name    : FunctorialResolution.EmbeddedResolution.SequenceOfBlowups.withoutIsoBlowups_projectionToBase_eq_nontrivialIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:39:49.904921+00:00
 -- url     : https://prove2.me/theorems/82583c00-5866-43fd-bba6-eb1bdc956fc8

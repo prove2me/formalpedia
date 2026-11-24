@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_FC_pm_mulVec_eq_sum
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.FC.pm_mulVec_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:57:53.303118+00:00
 -- url     : https://prove2.me/theorems/9fcd8ab8-f5be-40e2-a569-376d98ff998c

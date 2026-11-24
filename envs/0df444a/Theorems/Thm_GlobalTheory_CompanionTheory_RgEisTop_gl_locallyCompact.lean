@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisTop_gl_locallyCompact
 -- name    : GlobalTheory.CompanionTheory.RgEisTop.gl_locallyCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:00:01.240914+00:00
 -- url     : https://prove2.me/theorems/8199ab79-8bd8-487d-b01d-0889bf09b05a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cmRingClassOrder_units_eq_maxRealSubfield_units
 -- name    : GlobalTheory.T.cmRingClassOrder_units_eq_maxRealSubfield_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:24:53.597949+00:00
 -- url     : https://prove2.me/theorems/f07fdcde-57e8-47d0-a4d8-f0a0ee8f9508

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_GaussianDyadic_exists_dyadic
 -- name    : GlobalTheory.CompanionTheory.SW.Core.GaussianDyadic.exists_dyadic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:02:52.836547+00:00
 -- url     : https://prove2.me/theorems/b266a4e0-f98b-482a-8a1e-5b86a0658155

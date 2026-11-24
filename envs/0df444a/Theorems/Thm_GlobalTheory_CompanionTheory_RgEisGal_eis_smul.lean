@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_eis_smul
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.eis_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:58:37.699246+00:00
 -- url     : https://prove2.me/theorems/0d859bdc-5bec-4a98-89d2-ae36f3a20252

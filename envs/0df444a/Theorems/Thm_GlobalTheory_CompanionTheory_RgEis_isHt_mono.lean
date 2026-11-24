@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_isHt_mono
 -- name    : GlobalTheory.CompanionTheory.RgEis.isHt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:57:31.210441+00:00
 -- url     : https://prove2.me/theorems/a3572a5a-a125-4209-8a0e-568a0cc8b821

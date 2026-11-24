@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Dens_one_dim_integrable
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Dens.one_dim_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:03:10.843787+00:00
 -- url     : https://prove2.me/theorems/ac675134-79b1-4d1d-8b7b-b2c70eac9e7f

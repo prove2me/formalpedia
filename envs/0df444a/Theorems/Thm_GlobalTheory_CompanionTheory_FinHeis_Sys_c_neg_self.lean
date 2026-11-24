@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Sys_c_neg_self
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Sys.c_neg_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:39:47.539776+00:00
 -- url     : https://prove2.me/theorems/df9f6e8d-d6c8-48f4-bda2-25578ca314a2

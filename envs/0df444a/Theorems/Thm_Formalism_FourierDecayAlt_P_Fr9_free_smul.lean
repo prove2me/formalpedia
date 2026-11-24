@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_free_smul
 -- name    : Formalism.FourierDecayAlt.P.Fr9.free_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:03:12.909112+00:00
 -- url     : https://prove2.me/theorems/153c865d-28e0-4368-af17-37be8f8084a9

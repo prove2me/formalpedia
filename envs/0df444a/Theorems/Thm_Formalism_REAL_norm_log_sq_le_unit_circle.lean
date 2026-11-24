@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_norm_log_sq_le_unit_circle
 -- name    : Formalism.REAL.norm_log_sq_le_unit_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:57:18.010645+00:00
 -- url     : https://prove2.me/theorems/a2d20c9f-b7f5-4e21-96f0-e5d70b666378

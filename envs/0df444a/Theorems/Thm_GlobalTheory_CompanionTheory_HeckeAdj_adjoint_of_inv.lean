@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeAdj_adjoint_of_inv
 -- name    : GlobalTheory.CompanionTheory.HeckeAdj.adjoint_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:45:36.377943+00:00
 -- url     : https://prove2.me/theorems/72387450-0ca5-48d4-ab0b-4cdd0ce3117c

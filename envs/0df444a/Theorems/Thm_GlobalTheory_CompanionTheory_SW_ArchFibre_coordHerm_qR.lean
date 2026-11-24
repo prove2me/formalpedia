@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArchFibre_coordHerm_qR
 -- name    : GlobalTheory.CompanionTheory.SW.ArchFibre.coordHerm_qR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:01:31.923803+00:00
 -- url     : https://prove2.me/theorems/6ccac070-9047-4dca-8344-5912c2a8f318

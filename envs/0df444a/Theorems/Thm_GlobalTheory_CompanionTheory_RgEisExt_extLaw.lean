@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisExt_extLaw
 -- name    : GlobalTheory.CompanionTheory.RgEisExt.extLaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:57:44.985481+00:00
 -- url     : https://prove2.me/theorems/b18078bc-d152-4865-ac76-e420753b3348

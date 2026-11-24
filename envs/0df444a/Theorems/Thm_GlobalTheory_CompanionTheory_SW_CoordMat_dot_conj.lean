@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CoordMat_dot_conj
 -- name    : GlobalTheory.CompanionTheory.SW.CoordMat.dot_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:02:40.252723+00:00
 -- url     : https://prove2.me/theorems/edad1743-5b8a-4594-b72b-03a71284cf27

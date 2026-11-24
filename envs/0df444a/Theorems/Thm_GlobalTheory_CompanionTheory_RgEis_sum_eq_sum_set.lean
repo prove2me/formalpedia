@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_sum_eq_sum_set
 -- name    : GlobalTheory.CompanionTheory.RgEis.sum_eq_sum_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:57:03.186582+00:00
 -- url     : https://prove2.me/theorems/f6956f5e-69fd-4560-b3dc-c4384d0ec800

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CoordMat_coordL_apply
 -- name    : GlobalTheory.CompanionTheory.SW.CoordMat.coordL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:03:04.662603+00:00
 -- url     : https://prove2.me/theorems/0ea409a6-65d9-4bcd-a393-2efb8f1b8bb0

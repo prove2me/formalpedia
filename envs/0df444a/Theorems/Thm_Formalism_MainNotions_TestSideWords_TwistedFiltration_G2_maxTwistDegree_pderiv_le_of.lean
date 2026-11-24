@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G2_maxTwistDegree_pderiv_le_of
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.maxTwistDegree_pderiv_le_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:12:33.173808+00:00
 -- url     : https://prove2.me/theorems/dd067f5a-389d-4836-b0a4-f96002ba6b3f

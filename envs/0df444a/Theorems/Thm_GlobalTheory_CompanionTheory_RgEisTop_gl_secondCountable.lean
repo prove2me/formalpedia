@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisTop_gl_secondCountable
 -- name    : GlobalTheory.CompanionTheory.RgEisTop.gl_secondCountable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:59:45.170431+00:00
 -- url     : https://prove2.me/theorems/ffe2dc62-afe4-48cc-b984-75e41603f0c2

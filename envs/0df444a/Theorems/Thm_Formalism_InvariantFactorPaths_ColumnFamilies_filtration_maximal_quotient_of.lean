@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_filtration_maximal_quotient_of
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.filtration_maximal_quotient_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:31:55.536385+00:00
 -- url     : https://prove2.me/theorems/402ee56a-ab81-4c67-866e-173288309616

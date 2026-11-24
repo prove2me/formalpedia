@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisCross_sec_inv
 -- name    : GlobalTheory.CompanionTheory.RgEisCross.sec_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:57:23.811604+00:00
 -- url     : https://prove2.me/theorems/ca130c69-8357-456c-92e2-7f5e982af7c4

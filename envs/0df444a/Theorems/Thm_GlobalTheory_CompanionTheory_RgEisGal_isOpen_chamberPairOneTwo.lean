@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_isOpen_chamberPairOneTwo
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.isOpen_chamberPairOneTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:58:04.002907+00:00
 -- url     : https://prove2.me/theorems/e261c4cf-a09e-4a26-ba52-57cf38c635f5

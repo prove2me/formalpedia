@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_norm_le_of_strip
 -- name    : GlobalTheory.CompanionTheory.RgEis.norm_le_of_strip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:57:39.415961+00:00
 -- url     : https://prove2.me/theorems/f175eb03-55fd-4dab-951e-a6549b72b6fe

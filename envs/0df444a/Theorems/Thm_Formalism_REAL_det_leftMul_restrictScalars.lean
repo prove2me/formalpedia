@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_det_leftMul_restrictScalars
 -- name    : Formalism.REAL.det_leftMul_restrictScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:23:44.824143+00:00
 -- url     : https://prove2.me/theorems/71884def-ec34-4557-873e-b9a89dd884b8

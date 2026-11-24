@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OrbitSection_continuousOn_orbitSection
 -- name    : GlobalTheory.CompanionTheory.OrbitSection.continuousOn_orbitSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:53:39.805821+00:00
 -- url     : https://prove2.me/theorems/435cbaa3-9018-440e-a5de-89170df902b5

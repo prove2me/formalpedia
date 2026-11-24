@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_unit_corner
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.unit_corner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:58:17.499332+00:00
 -- url     : https://prove2.me/theorems/94e277bd-01d2-49fb-b93a-7bf6d1e56b0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_one_notMem
 -- name    : GlobalTheory.SelfDualGenus.one_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:10:01.456018+00:00
 -- url     : https://prove2.me/theorems/1f7da2c1-4573-4aee-9018-1f8df670023c

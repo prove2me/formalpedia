@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_qdet_top_three_orders
 -- name    : GlobalTheory.qdet_top_three_orders
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:31:54.079907+00:00
 -- url     : https://prove2.me/theorems/ea9181d5-2c5c-40fd-b295-a6d514f9bca0

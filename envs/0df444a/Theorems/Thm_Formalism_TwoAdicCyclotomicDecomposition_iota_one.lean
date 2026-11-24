@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_iota_one
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.iota_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:59:40.91281+00:00
 -- url     : https://prove2.me/theorems/08722bff-03c3-470f-8bcc-82abc9e51f6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_exists_eq_algebraMap_add_nsmul
 -- name    : GlobalTheory.AdLat.exists_eq_algebraMap_add_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:07:25.912176+00:00
 -- url     : https://prove2.me/theorems/3c1fb6dc-6a18-460d-94b0-354ebef6722e

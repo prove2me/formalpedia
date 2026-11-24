@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLTop_localField_top
 -- name    : GlobalTheory.CompanionTheory.QLTop.localField_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:33.820644+00:00
 -- url     : https://prove2.me/theorems/4d074b19-4fd2-4a1d-84de-45a1f015c7e2

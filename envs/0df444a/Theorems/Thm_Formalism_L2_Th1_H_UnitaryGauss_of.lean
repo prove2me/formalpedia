@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_UnitaryGauss_of
 -- name    : Formalism.L2.Th1.H.UnitaryGauss_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:38:34.741543+00:00
 -- url     : https://prove2.me/theorems/ee3d0b0b-7a5d-475a-8bbf-b0852fea0778

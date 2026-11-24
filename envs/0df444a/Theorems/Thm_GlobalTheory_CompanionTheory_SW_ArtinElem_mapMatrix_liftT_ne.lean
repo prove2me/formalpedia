@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArtinElem_mapMatrix_liftT_ne
 -- name    : GlobalTheory.CompanionTheory.SW.ArtinElem.mapMatrix_liftT_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:01:29.889546+00:00
 -- url     : https://prove2.me/theorems/23ad32e9-56fc-4930-b6cc-3b73c5008f2c

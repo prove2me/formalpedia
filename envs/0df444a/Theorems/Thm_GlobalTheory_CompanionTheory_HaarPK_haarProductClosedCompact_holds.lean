@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HaarPK_haarProductClosedCompact_holds
 -- name    : GlobalTheory.CompanionTheory.HaarPK.haarProductClosedCompact_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:45:20.459542+00:00
 -- url     : https://prove2.me/theorems/e7395b0b-dde5-4391-809e-19f902bb15ac

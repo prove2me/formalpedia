@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_centerOffDetached_eq
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.centerOffDetached_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:55:04.325775+00:00
 -- url     : https://prove2.me/theorems/5172309f-df73-497d-a367-80085ee62cfc

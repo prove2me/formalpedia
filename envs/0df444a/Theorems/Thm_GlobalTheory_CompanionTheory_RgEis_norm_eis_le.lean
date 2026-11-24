@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_norm_eis_le
 -- name    : GlobalTheory.CompanionTheory.RgEis.norm_eis_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:57:45.828037+00:00
 -- url     : https://prove2.me/theorems/bd5f9aeb-9cac-4b4b-9871-c4941bc8a7e2

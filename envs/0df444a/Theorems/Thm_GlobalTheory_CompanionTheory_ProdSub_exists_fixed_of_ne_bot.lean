@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdSub_exists_fixed_of_ne_bot
 -- name    : GlobalTheory.CompanionTheory.ProdSub.exists_fixed_of_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:56:35.890059+00:00
 -- url     : https://prove2.me/theorems/8e461049-d400-4596-a861-9b9d9b533eab

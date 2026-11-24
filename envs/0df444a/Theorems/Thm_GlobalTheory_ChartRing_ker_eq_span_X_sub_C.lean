@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_ker_eq_span_X_sub_C
 -- name    : GlobalTheory.ChartRing.ker_eq_span_X_sub_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:09:29.029303+00:00
 -- url     : https://prove2.me/theorems/d93f6c5a-5fe5-46e6-afd7-dd7af971c77c

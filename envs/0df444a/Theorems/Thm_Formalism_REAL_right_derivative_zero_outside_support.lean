@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_right_derivative_zero_outside_support
 -- name    : Formalism.REAL.right_derivative_zero_outside_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:41:37.416627+00:00
 -- url     : https://prove2.me/theorems/922614f7-ae49-42a5-8c76-686921218714

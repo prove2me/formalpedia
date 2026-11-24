@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RiemannCore_tile_sum_estimate
 -- name    : GlobalTheory.CompanionTheory.RiemannCore.tile_sum_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:01:01.239237+00:00
 -- url     : https://prove2.me/theorems/0a1422d1-0c00-4c9c-8350-a82d43245082

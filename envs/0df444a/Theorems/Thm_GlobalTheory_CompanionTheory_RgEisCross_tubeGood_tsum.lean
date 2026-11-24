@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisCross_tubeGood_tsum
 -- name    : GlobalTheory.CompanionTheory.RgEisCross.tubeGood_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:57:45.323214+00:00
 -- url     : https://prove2.me/theorems/4e2351fc-7402-4af1-a641-bb70d18b5274

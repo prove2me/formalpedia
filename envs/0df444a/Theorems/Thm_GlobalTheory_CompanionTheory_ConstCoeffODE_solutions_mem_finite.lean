@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ConstCoeffODE_solutions_mem_finite
 -- name    : GlobalTheory.CompanionTheory.ConstCoeffODE.solutions_mem_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:33:06.626891+00:00
 -- url     : https://prove2.me/theorems/d0ed7a68-8600-49ec-8217-6f4e7fd0ff34

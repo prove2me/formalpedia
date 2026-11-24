@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisSec_sec_bound
 -- name    : GlobalTheory.CompanionTheory.RgEisSec.sec_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:59:49.989787+00:00
 -- url     : https://prove2.me/theorems/bf23fca6-e8b1-4592-995f-799c008fe7ea

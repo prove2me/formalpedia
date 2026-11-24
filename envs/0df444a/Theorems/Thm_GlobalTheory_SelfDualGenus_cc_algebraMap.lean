@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_cc_algebraMap
 -- name    : GlobalTheory.SelfDualGenus.cc_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:09:58.023695+00:00
 -- url     : https://prove2.me/theorems/8d40ab29-a6b1-4d6d-9a41-9c7844eb82c1

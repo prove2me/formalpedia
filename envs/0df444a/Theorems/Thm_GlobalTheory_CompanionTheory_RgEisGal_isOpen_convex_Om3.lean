@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_isOpen_convex_Om3
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.isOpen_convex_Om3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:59:03.708752+00:00
 -- url     : https://prove2.me/theorems/ccd4a34e-f1d9-4ccb-b063-c5bbceecd823

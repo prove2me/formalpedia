@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryDepthMIS_corollary_2_12
 -- name    : QueryDepthMIS.corollary_2_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:36:36.508338+00:00
 -- url     : https://prove2.me/theorems/52eb7990-1acc-4368-bf62-0e2db2b51eda

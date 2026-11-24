@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RealPlace_flag_isometry_diagonal_on_frame
 -- name    : GlobalTheory.CompanionTheory.RealPlace.flag_isometry_diagonal_on_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:57:30.813992+00:00
 -- url     : https://prove2.me/theorems/cfc8d518-e5bb-4744-a3ef-be58b71592b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeBasis_heckeOp_delta
 -- name    : GlobalTheory.CompanionTheory.HeckeBasis.heckeOp_delta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:52:26.009547+00:00
 -- url     : https://prove2.me/theorems/c2b87b3f-e7b6-4fb6-85bf-969839b32d93

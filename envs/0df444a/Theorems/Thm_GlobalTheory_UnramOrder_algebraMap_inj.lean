@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_algebraMap_inj
 -- name    : GlobalTheory.UnramOrder.algebraMap_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:00:58.446834+00:00
 -- url     : https://prove2.me/theorems/cbd88631-759d-42f3-9af9-0fee05b6cd31

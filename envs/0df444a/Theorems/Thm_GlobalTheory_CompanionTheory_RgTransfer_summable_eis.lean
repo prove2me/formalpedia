@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgTransfer_summable_eis
 -- name    : GlobalTheory.CompanionTheory.RgTransfer.summable_eis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:59:46.373742+00:00
 -- url     : https://prove2.me/theorems/15deb3f2-9305-4836-8995-fe115d56fa01

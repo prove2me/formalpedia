@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMul_hconv_biinv
 -- name    : GlobalTheory.CompanionTheory.HeckeMul.hconv_biinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:46:25.514802+00:00
 -- url     : https://prove2.me/theorems/c8a18486-1853-4ae7-aa65-60fe63e6f8cd

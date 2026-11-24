@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_RowCompletion_exists_bezout
 -- name    : GlobalTheory.CompanionTheory.SW.Core.RowCompletion.exists_bezout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:02.649977+00:00
 -- url     : https://prove2.me/theorems/83ae49f0-a192-4c7b-81a8-ef26989f202c

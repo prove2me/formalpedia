@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_MaxLat_norm_herm_ball_le_one
 -- name    : GlobalTheory.CompanionTheory.RgFl.MaxLat.norm_herm_ball_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:33.007631+00:00
 -- url     : https://prove2.me/theorems/369c23ba-ca39-4ebb-ba5f-b7db685f6bc9

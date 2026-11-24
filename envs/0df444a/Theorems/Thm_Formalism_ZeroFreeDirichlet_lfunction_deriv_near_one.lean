@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_deriv_near_one
 -- name    : Formalism.ZeroFreeDirichlet.lfunction_deriv_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:57:59.862714+00:00
 -- url     : https://prove2.me/theorems/2f4595d9-d055-456e-8f32-38007b5bc5ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_sec_left
 -- name    : GlobalTheory.CompanionTheory.RgEis.sec_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:57:09.03581+00:00
 -- url     : https://prove2.me/theorems/82bbb70f-0adb-4283-8ded-10093978c8ae

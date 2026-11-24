@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_IsChowFormInt_span_eq_radical_elimIdeal
 -- name    : GlobalTheory.ChowHt.IsChowFormInt.span_eq_radical_elimIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:09:44.796152+00:00
 -- url     : https://prove2.me/theorems/905c6054-f4af-4deb-980c-33735fc90d78

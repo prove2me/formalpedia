@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_filtration_direct_summand_of
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.filtration_direct_summand_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:13:54.231864+00:00
 -- url     : https://prove2.me/theorems/79641655-a533-4210-9ccc-69969750a72d

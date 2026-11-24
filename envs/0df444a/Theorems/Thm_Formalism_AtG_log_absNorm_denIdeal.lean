@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_log_absNorm_denIdeal
 -- name    : Formalism.AtG.log_absNorm_denIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:43:59.753205+00:00
 -- url     : https://prove2.me/theorems/f4b87a26-04d7-4b98-9a53-cf7f331cd702

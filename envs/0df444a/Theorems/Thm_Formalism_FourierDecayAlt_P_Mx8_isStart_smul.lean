@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_isStart_smul
 -- name    : Formalism.FourierDecayAlt.P.Mx8.isStart_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:46:59.346891+00:00
 -- url     : https://prove2.me/theorems/6f5e024a-366e-41a3-8342-5603668a0d07

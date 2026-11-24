@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_polar
 -- name    : Formalism.REAL.polar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:56:50.70909+00:00
 -- url     : https://prove2.me/theorems/6cd4e5fb-3017-4fb6-8375-d8cb08d13ce7

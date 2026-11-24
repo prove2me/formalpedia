@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_JStable_extendByZero_apply_of_ne
 -- name    : GlobalTheory.CompanionTheory.JStable.extendByZero_apply_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:55:16.931603+00:00
 -- url     : https://prove2.me/theorems/d53be21d-d436-4587-be3c-9573b065cf64

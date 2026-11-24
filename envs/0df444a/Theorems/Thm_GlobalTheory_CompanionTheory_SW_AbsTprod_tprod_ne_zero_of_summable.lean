@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_AbsTprod_tprod_ne_zero_of_summable
 -- name    : GlobalTheory.CompanionTheory.SW.AbsTprod.tprod_ne_zero_of_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:01:13.690508+00:00
 -- url     : https://prove2.me/theorems/c260713d-5068-4866-b770-bf7b2d6c24fe

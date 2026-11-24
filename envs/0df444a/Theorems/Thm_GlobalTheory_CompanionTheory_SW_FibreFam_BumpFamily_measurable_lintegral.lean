@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreFam_BumpFamily_measurable_lintegral
 -- name    : GlobalTheory.CompanionTheory.SW.FibreFam.BumpFamily.measurable_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:04:46.135454+00:00
 -- url     : https://prove2.me/theorems/ef46ae1b-7056-434c-bc25-0f6b15238dfe

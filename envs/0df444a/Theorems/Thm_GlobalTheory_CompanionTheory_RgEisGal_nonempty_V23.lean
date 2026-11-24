@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_nonempty_V23
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.nonempty_V23
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:16.244617+00:00
 -- url     : https://prove2.me/theorems/79e83d3b-f0d3-461d-8c50-63f0726c121a

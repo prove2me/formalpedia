@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_ShaTransfer_mem_Sha2_iff_equiv_mem
 -- name    : GlobalTheory.CompanionTheory.PTIso.ShaTransfer.mem_Sha2_iff_equiv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:55:04.06307+00:00
 -- url     : https://prove2.me/theorems/9f77d7f4-da54-4b68-b0d5-abf64d6d48d0

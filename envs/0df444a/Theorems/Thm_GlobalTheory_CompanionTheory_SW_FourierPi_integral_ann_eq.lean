@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FourierPi_integral_ann_eq
 -- name    : GlobalTheory.CompanionTheory.SW.FourierPi.integral_ann_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:05:20.57183+00:00
 -- url     : https://prove2.me/theorems/6e420772-3ce8-4516-928e-230be70d3d1f

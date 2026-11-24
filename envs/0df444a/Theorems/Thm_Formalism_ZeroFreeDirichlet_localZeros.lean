@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_localZeros
 -- name    : Formalism.ZeroFreeDirichlet.localZeros
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:12:03.703579+00:00
 -- url     : https://prove2.me/theorems/8296ac1e-62cd-4d83-afa1-dce557cc2d5d

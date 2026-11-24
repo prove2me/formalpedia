@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_MaxLat_herm_add_left
 -- name    : GlobalTheory.CompanionTheory.RgFl.MaxLat.herm_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:35.468259+00:00
 -- url     : https://prove2.me/theorems/0b04d97b-b35e-467a-b922-455bd370230c

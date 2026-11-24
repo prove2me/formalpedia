@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussLevi_gram_eq
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussLevi.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:38:25.420737+00:00
 -- url     : https://prove2.me/theorems/646e7511-fd8e-4ff4-8e4b-73bdfef0a2d1

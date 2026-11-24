@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_sum_sub_wd
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.sum_sub_wd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:53:37.975915+00:00
 -- url     : https://prove2.me/theorems/4b8e04a2-4240-434f-bcec-71422b80a489

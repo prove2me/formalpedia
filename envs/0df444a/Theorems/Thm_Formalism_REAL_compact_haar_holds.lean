@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_haar_holds
 -- name    : Formalism.REAL.compact_haar_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:54:24.235739+00:00
 -- url     : https://prove2.me/theorems/e4df0eef-2692-4282-82bd-e2e77da46ac3

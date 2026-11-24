@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_AlgSplit_split_anisotropic
 -- name    : GlobalTheory.CompanionTheory.SW.AlgSplit.split_anisotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:00:57.824747+00:00
 -- url     : https://prove2.me/theorems/91b0b248-91df-4e7c-a7ad-e5ee29aa3fd6

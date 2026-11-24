@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RootExch_lam_one
 -- name    : GlobalTheory.CompanionTheory.RootExch.lam_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:01:29.367731+00:00
 -- url     : https://prove2.me/theorems/d4c025db-455f-4bac-bd95-dde0390925dc

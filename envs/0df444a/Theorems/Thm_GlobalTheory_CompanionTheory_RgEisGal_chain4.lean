@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_chain4
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.chain4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:58:21.074405+00:00
 -- url     : https://prove2.me/theorems/ffa1f9f3-2f42-4694-9ab1-d4baa514637c

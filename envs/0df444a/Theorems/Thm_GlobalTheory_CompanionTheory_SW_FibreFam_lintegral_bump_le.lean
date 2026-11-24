@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreFam_lintegral_bump_le
 -- name    : GlobalTheory.CompanionTheory.SW.FibreFam.lintegral_bump_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:03:51.503813+00:00
 -- url     : https://prove2.me/theorems/3091aee4-1a70-4b29-ac61-f3551587209a

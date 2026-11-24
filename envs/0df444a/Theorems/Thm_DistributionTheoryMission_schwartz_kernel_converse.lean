@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistributionTheoryMission_schwartz_kernel_converse
 -- name    : DistributionTheoryMission.schwartz_kernel_converse
--- status  : Open
+-- status  : Proved
 -- author  : @liuyao
 -- created : 2026-11-16T02:07:51.428185+00:00
 -- url     : https://prove2.me/theorems/b8f7da5d-15e0-4ef8-87b1-26a6848e39be

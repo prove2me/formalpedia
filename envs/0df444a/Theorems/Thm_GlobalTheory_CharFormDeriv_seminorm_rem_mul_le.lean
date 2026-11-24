@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFormDeriv_seminorm_rem_mul_le
 -- name    : GlobalTheory.CharFormDeriv.seminorm_rem_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:21:22.831325+00:00
 -- url     : https://prove2.me/theorems/446ff91a-6ad9-41b6-879a-18b7d5a52904

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLTop_isOpen_intSet
 -- name    : GlobalTheory.CompanionTheory.QLTop.isOpen_intSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:57.042352+00:00
 -- url     : https://prove2.me/theorems/1c492c03-9398-4791-8593-2b897c60bccf

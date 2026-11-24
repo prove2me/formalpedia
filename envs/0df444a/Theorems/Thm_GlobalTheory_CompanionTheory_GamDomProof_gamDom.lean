@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GamDomProof_gamDom
 -- name    : GlobalTheory.CompanionTheory.GamDomProof.gamDom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:43:01.266857+00:00
 -- url     : https://prove2.me/theorems/80d8a308-38cf-44fc-8071-86e2562775ad

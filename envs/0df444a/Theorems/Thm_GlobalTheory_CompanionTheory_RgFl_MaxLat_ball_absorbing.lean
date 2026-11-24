@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_MaxLat_ball_absorbing
 -- name    : GlobalTheory.CompanionTheory.RgFl.MaxLat.ball_absorbing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:59:47.60546+00:00
 -- url     : https://prove2.me/theorems/f5517217-282c-4f95-a8c9-9a2e1741c4bc

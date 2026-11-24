@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_pos_nonneg
 -- name    : GlobalTheory.CompanionTheory.RgEis.pos_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:57:43.087074+00:00
 -- url     : https://prove2.me/theorems/cc337064-fc59-48ff-8005-23d4e03f51f8

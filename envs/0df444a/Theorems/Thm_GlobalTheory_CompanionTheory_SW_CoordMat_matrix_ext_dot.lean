@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CoordMat_matrix_ext_dot
 -- name    : GlobalTheory.CompanionTheory.SW.CoordMat.matrix_ext_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:03:04.379707+00:00
 -- url     : https://prove2.me/theorems/68f83376-4a74-4e7b-90aa-62f84fc05a3b

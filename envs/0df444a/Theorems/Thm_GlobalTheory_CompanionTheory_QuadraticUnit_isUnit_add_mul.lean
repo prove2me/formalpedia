@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuadraticUnit_isUnit_add_mul
 -- name    : GlobalTheory.CompanionTheory.QuadraticUnit.isUnit_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:56:11.553074+00:00
 -- url     : https://prove2.me/theorems/47f0c4fc-8ec2-47ae-9dc1-fc07216162cc

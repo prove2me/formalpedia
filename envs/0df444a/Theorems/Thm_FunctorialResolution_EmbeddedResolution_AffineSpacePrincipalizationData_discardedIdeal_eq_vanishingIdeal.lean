@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_discardedIdeal_eq_vanishingIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.discardedIdeal_eq_vanishingIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:56:43.278393+00:00
 -- url     : https://prove2.me/theorems/c735a7b7-6ba7-4fe2-ab1d-73249f560489

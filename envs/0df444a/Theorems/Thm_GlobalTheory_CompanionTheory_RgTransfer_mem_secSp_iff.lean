@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgTransfer_mem_secSp_iff
 -- name    : GlobalTheory.CompanionTheory.RgTransfer.mem_secSp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:59:26.580851+00:00
 -- url     : https://prove2.me/theorems/949f615c-acba-483e-895b-72e8f4efafe3

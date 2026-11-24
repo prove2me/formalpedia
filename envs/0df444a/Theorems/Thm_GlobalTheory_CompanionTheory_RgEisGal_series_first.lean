@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_series_first
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.series_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:00.739638+00:00
 -- url     : https://prove2.me/theorems/d2834ff2-c1b5-44c2-8377-1d95bbfc3874

@@ -54709,7 +54709,7 @@
 {"parent": "MatroidSensOracle.Supplement.theorem_4_3", "child": "OAI_MatrixMultiplication_Arithmetic_omega", "via": ["statement"]}
 {"parent": "MatroidSensOracle.Supplement.theorem_4_3", "child": "MatroidSensOracle_Supplement_GraphProblems", "via": ["statement"]}
 {"parent": "InfoLossLAR.WorstCase.RegevSketch.gap_dimension_dispatch", "child": "InfoLossLAR_RegevSketch_DGS", "via": ["statement"]}
-{"parent": "DistributionTheoryMission.schwartz_kernel_converse", "child": "liuyao_ca_fd889115_k1_Distributions_KernelTargets", "via": ["statement"]}
+{"parent": "DistributionTheoryMission.schwartz_kernel_converse", "child": "liuyao_ca_fd889115_k1_Distributions_KernelTargets", "via": ["solution", "statement"]}
 {"parent": "BLTCounting.AccuracySpace.Supplement.claim_3_11", "child": "BLTCounting_AccuracySpace_Supplement_Lattice", "via": ["statement"]}
 {"parent": "NashOrTriangle.Supplement.theorem_5_1", "child": "NashOrTriangle_Supplement_RandomizedRun", "via": ["statement"]}
 {"parent": "NashOrTriangle.Supplement.theorem_5_1", "child": "NashOrTriangle_Supplement_F2RankLE", "via": ["statement"]}

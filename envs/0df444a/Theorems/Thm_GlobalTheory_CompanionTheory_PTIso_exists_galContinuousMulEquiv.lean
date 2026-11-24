@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_exists_galContinuousMulEquiv
 -- name    : GlobalTheory.CompanionTheory.PTIso.exists_galContinuousMulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:54:37.810827+00:00
 -- url     : https://prove2.me/theorems/d0531356-9261-4209-b124-4981e251464f

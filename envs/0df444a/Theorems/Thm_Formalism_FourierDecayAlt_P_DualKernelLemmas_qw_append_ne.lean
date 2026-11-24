@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DualKernelLemmas_qw_append_ne
 -- name    : Formalism.FourierDecayAlt.P.DualKernelLemmas.qw_append_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:03:56.058718+00:00
 -- url     : https://prove2.me/theorems/21982ddf-d745-4178-873f-f82d3591deb2

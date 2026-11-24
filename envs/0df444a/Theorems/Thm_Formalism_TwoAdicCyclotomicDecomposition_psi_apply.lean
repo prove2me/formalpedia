@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_psi_apply
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.psi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:59:29.734125+00:00
 -- url     : https://prove2.me/theorems/63a20894-2a1f-4e28-bdad-cc8ee02819aa

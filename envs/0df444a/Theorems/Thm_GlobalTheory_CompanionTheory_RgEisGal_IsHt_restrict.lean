@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_IsHt_restrict
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.IsHt_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:57:27.910299+00:00
 -- url     : https://prove2.me/theorems/e17383dd-383f-4d58-87cd-d59afbe04e6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_monic_factor_coefficients_integral
 -- name    : GlobalTheory.T.monic_factor_coefficients_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:03:25.830796+00:00
 -- url     : https://prove2.me/theorems/ba41cb4a-1158-4598-8523-c7394e9b7648

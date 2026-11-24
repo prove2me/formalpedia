@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplitE_level
 -- name    : Formalism.UG.P.afsplitE_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:33:24.804635+00:00
 -- url     : https://prove2.me/theorems/11076b43-e776-4020-a38e-993fdc97af3c

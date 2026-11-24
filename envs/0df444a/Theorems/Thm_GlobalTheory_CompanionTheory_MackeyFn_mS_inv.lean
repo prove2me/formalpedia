@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MackeyFn_mS_inv
 -- name    : GlobalTheory.CompanionTheory.MackeyFn.mS_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:09:29.852326+00:00
 -- url     : https://prove2.me/theorems/c367062e-4778-4cfa-acca-5c5f4609e041

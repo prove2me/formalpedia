@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_card_GalL__249609
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.card_GalL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:59:35.098922+00:00
 -- url     : https://prove2.me/theorems/24960931-ac94-44c1-ba18-34bb2ccc370f

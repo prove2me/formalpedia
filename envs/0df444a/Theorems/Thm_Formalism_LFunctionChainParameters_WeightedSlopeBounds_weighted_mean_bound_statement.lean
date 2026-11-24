@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_WeightedSlopeBounds_weighted_mean_bound_statement
 -- name    : Formalism.LFunctionChainParameters.WeightedSlopeBounds.weighted_mean_bound_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:16.422894+00:00
 -- url     : https://prove2.me/theorems/c126de11-c4df-4916-a83b-f06ca210edd7

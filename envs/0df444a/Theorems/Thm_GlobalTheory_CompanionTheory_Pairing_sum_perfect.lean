@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Pairing_sum_perfect
 -- name    : GlobalTheory.CompanionTheory.Pairing.sum_perfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:54:31.429146+00:00
 -- url     : https://prove2.me/theorems/70cd147b-7abc-44b6-b1f5-79a93f842947

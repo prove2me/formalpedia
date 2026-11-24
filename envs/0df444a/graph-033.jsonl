@@ -88046,7 +88046,7 @@
 {"parent": "NearlyOptimalPPR.Computation.recursive_call_history", "child": "NearlyOptimalPPR_Computation_push", "via": ["solution", "statement"]}
 {"parent": "NearlyOptimalPPR.Computation.recursive_call_history", "child": "NearlyOptimalPPR_Computation_work_analysis", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch03.componentRegimes_gammaLaplace", "child": "Kyprianou_Ch03_TemperedStableMeasure", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.part_exercise8_11_i_v2", "child": "Kyprianou_Ch08_StageCFoundation_C", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.part_exercise8_11_i_v2", "child": "Kyprianou_Ch08_StageCFoundation_C", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0823", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0823", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeP9_0271", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}

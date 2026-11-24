@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdSimple_psi_apply
 -- name    : GlobalTheory.CompanionTheory.ProdSimple.psi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:10:00.006646+00:00
 -- url     : https://prove2.me/theorems/52886b4a-9888-45cc-bc3c-6fdd35ef4f67

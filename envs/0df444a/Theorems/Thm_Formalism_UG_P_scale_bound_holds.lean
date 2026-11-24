@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_scale_bound_holds
 -- name    : Formalism.UG.P.scale_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:27.539812+00:00
 -- url     : https://prove2.me/theorems/04c41ff7-d252-4559-9a19-79e59a98ab36

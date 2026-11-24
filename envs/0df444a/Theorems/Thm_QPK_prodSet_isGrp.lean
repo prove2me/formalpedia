@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_prodSet_isGrp
 -- name    : QPK.prodSet_isGrp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:56:10.776317+00:00
 -- url     : https://prove2.me/theorems/bca4b547-a4f6-4d4a-97ed-8edd4b6abae0

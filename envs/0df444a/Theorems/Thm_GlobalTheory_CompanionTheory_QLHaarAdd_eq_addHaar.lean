@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLHaarAdd_eq_addHaar
 -- name    : GlobalTheory.CompanionTheory.QLHaarAdd.eq_addHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:56:40.429892+00:00
 -- url     : https://prove2.me/theorems/ce5f74a6-2397-42ad-86b6-0b9067ead2fe

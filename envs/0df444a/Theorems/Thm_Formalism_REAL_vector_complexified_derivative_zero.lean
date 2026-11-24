@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_vector_complexified_derivative_zero
 -- name    : Formalism.REAL.vector_complexified_derivative_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:57:45.089261+00:00
 -- url     : https://prove2.me/theorems/2e7201d4-5894-458b-ba76-dad87abbd02b

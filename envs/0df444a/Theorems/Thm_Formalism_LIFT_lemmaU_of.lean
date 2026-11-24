@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_lemmaU_of
 -- name    : Formalism.LIFT.lemmaU_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:50:25.025111+00:00
 -- url     : https://prove2.me/theorems/62738b7a-15df-4c9d-9f83-1d3959d0cb3f

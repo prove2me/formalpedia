@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLTop_nonarchimedeanLocalField_secondCountable_t2Space
 -- name    : GlobalTheory.CompanionTheory.QLTop.nonarchimedeanLocalField_secondCountable_t2Space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:43.533807+00:00
 -- url     : https://prove2.me/theorems/57e6732d-d46c-4157-b59c-d04ae46a075a

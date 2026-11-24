@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_mem_stab_inl_iff
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.mem_stab_inl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:58:35.293661+00:00
 -- url     : https://prove2.me/theorems/b9b0d14e-fcae-4a19-ba2f-5bf3d411f686

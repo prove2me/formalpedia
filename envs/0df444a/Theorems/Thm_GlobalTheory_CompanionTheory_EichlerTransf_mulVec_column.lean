@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EichlerTransf_mulVec_column
 -- name    : GlobalTheory.CompanionTheory.EichlerTransf.mulVec_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:01:22.200796+00:00
 -- url     : https://prove2.me/theorems/bad69d29-9fd6-4576-aac7-e7df6c0b77a1

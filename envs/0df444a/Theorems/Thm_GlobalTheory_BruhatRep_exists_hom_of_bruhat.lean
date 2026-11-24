@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BruhatRep_exists_hom_of_bruhat
 -- name    : GlobalTheory.BruhatRep.exists_hom_of_bruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:03:27.622161+00:00
 -- url     : https://prove2.me/theorems/79a5cf91-cf9e-4d80-8b4b-09d47be16d07

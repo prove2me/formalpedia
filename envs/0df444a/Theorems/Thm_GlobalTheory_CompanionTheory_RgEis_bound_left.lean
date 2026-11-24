@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_bound_left
 -- name    : GlobalTheory.CompanionTheory.RgEis.bound_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:57:57.334504+00:00
 -- url     : https://prove2.me/theorems/98991143-d7ba-4a51-961c-8847521d8033

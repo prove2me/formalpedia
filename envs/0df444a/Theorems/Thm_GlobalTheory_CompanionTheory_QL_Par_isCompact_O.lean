@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Par_isCompact_O
 -- name    : GlobalTheory.CompanionTheory.QL.Par.isCompact_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:56:29.356262+00:00
 -- url     : https://prove2.me/theorems/e75cb3e7-2468-401f-a78b-af804c12c714

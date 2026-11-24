@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G2_valS_X_mul
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.valS_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:25.355805+00:00
 -- url     : https://prove2.me/theorems/def2e8af-deaf-4cfa-b83d-a3186ada40f8

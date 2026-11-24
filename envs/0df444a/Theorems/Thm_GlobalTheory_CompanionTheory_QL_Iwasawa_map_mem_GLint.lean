@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Iwasawa_map_mem_GLint
 -- name    : GlobalTheory.CompanionTheory.QL.Iwasawa.map_mem_GLint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:56:33.181771+00:00
 -- url     : https://prove2.me/theorems/9937659b-9b1c-40f1-aa7d-de3d3616929f

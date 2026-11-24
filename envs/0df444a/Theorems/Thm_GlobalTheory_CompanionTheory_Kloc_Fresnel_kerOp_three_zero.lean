@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_kerOp_three_zero
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.kerOp_three_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:50:40.286466+00:00
 -- url     : https://prove2.me/theorems/2792aaf0-b894-4c70-93bb-1b67d1016125

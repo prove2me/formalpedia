@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AdBridge_sigR_inclR_star
 -- name    : Formalism.L2.SG.AdBridge.sigR_inclR_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:57:00.490805+00:00
 -- url     : https://prove2.me/theorems/b167a3eb-4719-4d99-afb9-803d42a1af0b

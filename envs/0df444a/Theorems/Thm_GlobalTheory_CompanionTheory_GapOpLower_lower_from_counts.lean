@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpLower_lower_from_counts
 -- name    : GlobalTheory.CompanionTheory.GapOpLower.lower_from_counts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:43:01.685254+00:00
 -- url     : https://prove2.me/theorems/7f0897cc-83e1-4f98-a363-66d63ef69e71

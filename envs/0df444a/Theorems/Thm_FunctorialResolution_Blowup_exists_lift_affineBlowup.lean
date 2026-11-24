@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_exists_lift_affineBlowup
 -- name    : FunctorialResolution.Blowup.exists_lift_affineBlowup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:56:45.845377+00:00
 -- url     : https://prove2.me/theorems/7624f676-f9da-4342-86c8-fca2b2e724ed

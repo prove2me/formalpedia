@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CofinalDual_relIndex_ne_zero_of_isOpen
 -- name    : GlobalTheory.CompanionTheory.SW.CofinalDual.relIndex_ne_zero_of_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:02:26.390186+00:00
 -- url     : https://prove2.me/theorems/7ea7bad8-be01-4caf-ae1e-dc79d9c892c4

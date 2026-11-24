@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_globalColumn
 -- name    : Formalism.NG.globalColumn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:16:57.577043+00:00
 -- url     : https://prove2.me/theorems/8e776967-6f57-4638-bb5b-c9b26011721d

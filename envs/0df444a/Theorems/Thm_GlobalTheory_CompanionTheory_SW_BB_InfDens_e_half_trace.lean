@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_InfDens_e_half_trace
 -- name    : GlobalTheory.CompanionTheory.SW.BB.InfDens.e_half_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:02:22.871325+00:00
 -- url     : https://prove2.me/theorems/612f63da-e54e-496d-9682-e135dbe6792e

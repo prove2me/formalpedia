@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_indepPastFutureJoinEventApproximationV1
 -- name    : Kyprianou.Ch03.indepPastFutureJoinEventApproximationV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:28:05.840803+00:00
 -- url     : https://prove2.me/theorems/c6f4e98a-56cd-4b9b-9d46-ff0a78fc4188

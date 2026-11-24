@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPsiExists_UnitaryGroupMassFormula_alg_int_mem
 -- name    : PI.ScPsiExists.UnitaryGroupMassFormula.alg_int_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:56:57.804961+00:00
 -- url     : https://prove2.me/theorems/1f380414-ae6b-46ef-a24e-cd89812e541d

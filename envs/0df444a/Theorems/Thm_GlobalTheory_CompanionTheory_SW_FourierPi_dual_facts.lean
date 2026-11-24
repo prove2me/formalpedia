@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FourierPi_dual_facts
 -- name    : GlobalTheory.CompanionTheory.SW.FourierPi.dual_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:04:34.025118+00:00
 -- url     : https://prove2.me/theorems/edd9e38f-447a-4848-a8c5-f5bfe7982642

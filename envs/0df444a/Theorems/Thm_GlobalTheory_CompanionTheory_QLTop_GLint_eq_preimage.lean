@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLTop_GLint_eq_preimage
 -- name    : GlobalTheory.CompanionTheory.QLTop.GLint_eq_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:55:56.403103+00:00
 -- url     : https://prove2.me/theorems/3c6a8961-59ba-4a76-9e1e-728c9b48b99b

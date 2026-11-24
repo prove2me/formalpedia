@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_isDomain_away
 -- name    : GlobalTheory.ChartRing.isDomain_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:09:37.609899+00:00
 -- url     : https://prove2.me/theorems/1226f7db-03e7-4107-8248-b9ecc3027823

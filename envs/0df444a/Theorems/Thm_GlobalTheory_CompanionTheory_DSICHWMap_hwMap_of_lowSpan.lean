@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICHWMap_hwMap_of_lowSpan
 -- name    : GlobalTheory.CompanionTheory.DSICHWMap.hwMap_of_lowSpan
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:25:06.637777+00:00
 -- url     : https://prove2.me/theorems/01f82cf2-2566-4fd6-b09e-39d3995d1c7d

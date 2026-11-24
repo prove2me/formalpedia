@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_theorem1
 -- name    : GaussianPerimeter.theorem1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:26:30.063159+00:00
 -- url     : https://prove2.me/theorems/919eae78-d2fe-4485-9369-a101107c9a16

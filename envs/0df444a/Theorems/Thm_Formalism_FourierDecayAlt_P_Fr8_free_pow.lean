@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr8_free_pow
 -- name    : Formalism.FourierDecayAlt.P.Fr8.free_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:02:17.386265+00:00
 -- url     : https://prove2.me/theorems/7de550cc-2ef2-4051-9805-9b4b72b84254

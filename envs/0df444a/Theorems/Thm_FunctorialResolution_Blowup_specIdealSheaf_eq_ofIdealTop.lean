@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_specIdealSheaf_eq_ofIdealTop
 -- name    : FunctorialResolution.Blowup.specIdealSheaf_eq_ofIdealTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:01:25.706474+00:00
 -- url     : https://prove2.me/theorems/eba306f0-4490-4859-97c2-b4352e8141c1

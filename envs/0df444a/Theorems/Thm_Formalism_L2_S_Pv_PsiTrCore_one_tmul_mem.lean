@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_PsiTrCore_one_tmul_mem
 -- name    : Formalism.L2.S.Pv.PsiTrCore.one_tmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:57:47.767807+00:00
 -- url     : https://prove2.me/theorems/ec9ea9eb-6798-4989-8a78-7db357208f0d

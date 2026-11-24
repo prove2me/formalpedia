@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FourierPi_mean_close
 -- name    : GlobalTheory.CompanionTheory.SW.FourierPi.mean_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:05:48.352308+00:00
 -- url     : https://prove2.me/theorems/b3e9922f-3cde-4ec8-bd49-7ca8acb0f01c

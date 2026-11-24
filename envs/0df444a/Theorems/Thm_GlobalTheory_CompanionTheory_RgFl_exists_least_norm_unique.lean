@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_exists_least_norm_unique
 -- name    : GlobalTheory.CompanionTheory.RgFl.exists_least_norm_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:55.045812+00:00
 -- url     : https://prove2.me/theorems/0c31d7d2-c013-42ab-bfcd-3b65b470b679

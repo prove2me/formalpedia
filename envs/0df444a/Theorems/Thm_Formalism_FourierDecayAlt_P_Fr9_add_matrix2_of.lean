@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_add_matrix2_of
 -- name    : Formalism.FourierDecayAlt.P.Fr9.add_matrix2_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:04:11.287886+00:00
 -- url     : https://prove2.me/theorems/40419082-e7a5-4621-b9d4-12a422f20b96

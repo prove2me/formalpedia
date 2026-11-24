@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_Tj_double_coset_decomposition
 -- name    : Formalism.UG.P.Tj_double_coset_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:13:38.411848+00:00
 -- url     : https://prove2.me/theorems/1eb4129f-5c41-4c52-8f2a-941ea73f8694

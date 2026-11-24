@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_CongUnit_eq_zero_of_apply
 -- name    : GlobalTheory.CompanionTheory.Iwahori.CongUnit.eq_zero_of_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:47:52.544715+00:00
 -- url     : https://prove2.me/theorems/7e109c4b-34a0-4eb3-8687-1fdbf6359ceb

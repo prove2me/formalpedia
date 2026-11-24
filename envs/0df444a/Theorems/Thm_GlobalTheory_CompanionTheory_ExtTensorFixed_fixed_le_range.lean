@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExtTensorFixed_fixed_le_range
 -- name    : GlobalTheory.CompanionTheory.ExtTensorFixed.fixed_le_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:37:59.233372+00:00
 -- url     : https://prove2.me/theorems/02bc1137-b0b0-4825-9068-2a992887aed4

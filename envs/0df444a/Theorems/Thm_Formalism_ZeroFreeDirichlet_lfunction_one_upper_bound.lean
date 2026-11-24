@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_one_upper_bound
 -- name    : Formalism.ZeroFreeDirichlet.lfunction_one_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:07.698792+00:00
 -- url     : https://prove2.me/theorems/b77477b3-3622-43b7-904d-ac4799e4f82e

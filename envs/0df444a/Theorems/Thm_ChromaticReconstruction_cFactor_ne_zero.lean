@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_cFactor_ne_zero
 -- name    : ChromaticReconstruction.cFactor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:35:26.724245+00:00
 -- url     : https://prove2.me/theorems/f999a914-492a-45ef-bdd8-5a42094f8231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_isometry_map_ringHom
 -- name    : GlobalTheory.CompanionTheory.SW.BB.isometry_map_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:02:27.923659+00:00
 -- url     : https://prove2.me/theorems/4afc3076-0573-4e15-83d9-fab470c9bbd1

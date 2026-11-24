@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_shuffle_split
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.shuffle_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:53:29.753847+00:00
 -- url     : https://prove2.me/theorems/4d790a63-7bbe-4105-936b-002f50a3a3a9

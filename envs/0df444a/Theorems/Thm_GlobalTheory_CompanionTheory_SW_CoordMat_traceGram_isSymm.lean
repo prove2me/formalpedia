@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CoordMat_traceGram_isSymm
 -- name    : GlobalTheory.CompanionTheory.SW.CoordMat.traceGram_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:02:43.13935+00:00
 -- url     : https://prove2.me/theorems/687f9b8b-a441-4c04-a55a-4eefeb373478

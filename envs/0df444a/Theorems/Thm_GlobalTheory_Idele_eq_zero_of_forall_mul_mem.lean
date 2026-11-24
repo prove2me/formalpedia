@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_eq_zero_of_forall_mul_mem
 -- name    : GlobalTheory.Idele.eq_zero_of_forall_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:51:49.608039+00:00
 -- url     : https://prove2.me/theorems/a1a67350-cc78-41a8-8a6d-88440497f7ea

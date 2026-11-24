@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_p0auxiliary_theta_single
 -- name    : Formalism.REAL.p0auxiliary_theta_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:57:50.294317+00:00
 -- url     : https://prove2.me/theorems/85365c2d-38b3-4a47-b0bc-4a271c010ef2

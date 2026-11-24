@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_exists_field_generic_point
 -- name    : GlobalTheory.Chow.exists_field_generic_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:09:55.698396+00:00
 -- url     : https://prove2.me/theorems/c1060b48-b0a5-4452-9de8-cfcf7f66e869

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_exists_midpoint
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.exists_midpoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:58:55.54694+00:00
 -- url     : https://prove2.me/theorems/43a262e3-47b4-41dd-8b6e-9622ce257793

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_exists_isDelta
 -- name    : GlobalTheory.CompanionTheory.RgFl.exists_isDelta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:37.776441+00:00
 -- url     : https://prove2.me/theorems/2f64f493-ba23-438b-afe3-c9bc70c1fd94

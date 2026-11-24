@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_norm_of_orth
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_norm_of_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:27.35487+00:00
 -- url     : https://prove2.me/theorems/dab3f478-4729-4e20-a26d-4e7c1fc554bd

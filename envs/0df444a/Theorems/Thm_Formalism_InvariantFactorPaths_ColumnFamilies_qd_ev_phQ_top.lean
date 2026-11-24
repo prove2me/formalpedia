@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_ev_phQ_top
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_ev_phQ_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:31:26.232941+00:00
 -- url     : https://prove2.me/theorems/29d9adca-426a-4390-bdd3-42cad428e6c0

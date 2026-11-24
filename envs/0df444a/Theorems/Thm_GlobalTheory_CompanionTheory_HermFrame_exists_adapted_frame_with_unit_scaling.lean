@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermFrame_exists_adapted_frame_with_unit_scaling
 -- name    : GlobalTheory.CompanionTheory.HermFrame.exists_adapted_frame_with_unit_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:47:41.12509+00:00
 -- url     : https://prove2.me/theorems/3ee8154a-734f-4e56-a84f-d233d20fdc49

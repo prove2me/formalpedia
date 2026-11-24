@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Dens_continuous_qMap
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Dens.continuous_qMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:02:49.989423+00:00
 -- url     : https://prove2.me/theorems/33495017-0095-4aa3-baed-6c9627cab347

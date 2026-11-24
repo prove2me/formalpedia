@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_ohat_sum
 -- name    : PI.WAU.ohat_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:38:38.352277+00:00
 -- url     : https://prove2.me/theorems/41e14f61-872e-4a03-b663-97568b71839a

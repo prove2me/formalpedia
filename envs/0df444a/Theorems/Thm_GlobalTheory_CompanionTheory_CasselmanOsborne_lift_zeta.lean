@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CasselmanOsborne_lift_zeta
 -- name    : GlobalTheory.CompanionTheory.CasselmanOsborne.lift_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:31:49.438828+00:00
 -- url     : https://prove2.me/theorems/5561742d-b4a9-4720-a52b-54cb9cc96466

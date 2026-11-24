@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrimesAP_mainTerm_pos_model
 -- name    : GlobalTheory.CompanionTheory.PrimesAP.mainTerm_pos_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:55:30.576934+00:00
 -- url     : https://prove2.me/theorems/5f53cc62-ef1a-4ebd-a4a8-af6603e4179b

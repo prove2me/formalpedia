@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_RowCompletion_exists_scale
 -- name    : GlobalTheory.CompanionTheory.SW.Core.RowCompletion.exists_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:32.259154+00:00
 -- url     : https://prove2.me/theorems/0a286555-8391-4c83-bcdb-78e35da9ac80

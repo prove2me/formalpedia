@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_finrank_of_locally
 -- name    : GlobalTheory.AugCot.finrank_of_locally
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:46:20.19973+00:00
 -- url     : https://prove2.me/theorems/9029103d-f0ec-4cc8-9cda-58b88bf516f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_PC_mem_stab_of
 -- name    : Formalism.L2.Geo.Def.PC.mem_stab_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:04:28.485062+00:00
 -- url     : https://prove2.me/theorems/e6111449-0675-4eaa-8ee1-8a3f62026dc7

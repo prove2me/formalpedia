@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_core
 -- name    : GlobalTheory.CompanionTheory.DSUniq.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:37:20.480614+00:00
 -- url     : https://prove2.me/theorems/28ac5216-4f61-47b8-9e40-201c23854002

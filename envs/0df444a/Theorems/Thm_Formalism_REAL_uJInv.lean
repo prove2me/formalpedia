@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_uJInv
 -- name    : Formalism.REAL.uJInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:54:27.216318+00:00
 -- url     : https://prove2.me/theorems/047cf350-c60f-46cd-92b6-d3cbc3d64866

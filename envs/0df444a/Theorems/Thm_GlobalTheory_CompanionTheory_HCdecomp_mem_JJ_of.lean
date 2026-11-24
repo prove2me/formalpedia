@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HCdecomp_mem_JJ_of
 -- name    : GlobalTheory.CompanionTheory.HCdecomp.mem_JJ_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:44:53.077093+00:00
 -- url     : https://prove2.me/theorems/d7611c60-54cc-4482-a393-0ffc1ae100d2

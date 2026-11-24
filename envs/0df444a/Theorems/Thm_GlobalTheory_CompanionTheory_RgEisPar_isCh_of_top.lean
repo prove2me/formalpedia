@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisPar_isCh_of_top
 -- name    : GlobalTheory.CompanionTheory.RgEisPar.isCh_of_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:00:07.281117+00:00
 -- url     : https://prove2.me/theorems/97fa2d83-43b8-427e-972f-010c6b24e4a6

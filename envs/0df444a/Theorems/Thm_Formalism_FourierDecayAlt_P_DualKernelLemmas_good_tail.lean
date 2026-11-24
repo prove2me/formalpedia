@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DualKernelLemmas_good_tail
 -- name    : Formalism.FourierDecayAlt.P.DualKernelLemmas.good_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:04:21.876358+00:00
 -- url     : https://prove2.me/theorems/aadab17b-3819-4850-af6e-19245e4d08b7

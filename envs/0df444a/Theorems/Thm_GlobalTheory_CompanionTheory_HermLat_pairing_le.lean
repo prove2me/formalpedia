@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermLat_pairing_le
 -- name    : GlobalTheory.CompanionTheory.HermLat.pairing_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:48:02.340923+00:00
 -- url     : https://prove2.me/theorems/176e37cd-09c0-43b5-b2a0-a3f3f44c65d3

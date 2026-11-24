@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ResKCoords_kaehler_atPrime_of_away
 -- name    : GlobalTheory.CompanionTheory.ResKCoords.kaehler_atPrime_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:57:33.75374+00:00
 -- url     : https://prove2.me/theorems/96ca258c-ed6b-45ed-ac0c-55498c930b02

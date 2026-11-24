@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpMain_ux_map
 -- name    : GlobalTheory.CompanionTheory.GapOpMain.ux_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:15:06.99838+00:00
 -- url     : https://prove2.me/theorems/53d4da5b-b7b9-4f3b-b06a-92add26336c4

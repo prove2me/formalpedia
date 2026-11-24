@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_UnitaryConv_conv_comap
 -- name    : GlobalTheory.CompanionTheory.RgEis.UnitaryConv.conv_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:57:37.074528+00:00
 -- url     : https://prove2.me/theorems/f17598df-6cd7-432f-88a8-a720ee070ed0

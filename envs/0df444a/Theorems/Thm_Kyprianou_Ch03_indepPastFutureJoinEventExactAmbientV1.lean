@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_indepPastFutureJoinEventExactAmbientV1
 -- name    : Kyprianou.Ch03.indepPastFutureJoinEventExactAmbientV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:31:15.251623+00:00
 -- url     : https://prove2.me/theorems/26506043-35dd-48b6-a6a6-e3a4be846eae

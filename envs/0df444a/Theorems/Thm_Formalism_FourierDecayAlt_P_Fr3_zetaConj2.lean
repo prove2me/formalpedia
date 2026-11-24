@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr3_zetaConj2
 -- name    : Formalism.FourierDecayAlt.P.Fr3.zetaConj2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:04:08.165828+00:00
 -- url     : https://prove2.me/theorems/0a6d4979-358b-453c-9981-2f8cf1b976f7

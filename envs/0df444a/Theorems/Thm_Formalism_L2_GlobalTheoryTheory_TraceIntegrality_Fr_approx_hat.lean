@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_Fr_approx_hat
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.Fr.approx_hat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:28.997007+00:00
 -- url     : https://prove2.me/theorems/3ea5e4ec-e0ee-4a85-b508-16caf0f07f8b

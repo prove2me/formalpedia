@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_sectionsRingHom_restrict
 -- name    : FunctorialResolution.Blowup.sectionsRingHom_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:09:07.971888+00:00
 -- url     : https://prove2.me/theorems/8ef6c691-e484-44ce-8ff1-caa333ca8477

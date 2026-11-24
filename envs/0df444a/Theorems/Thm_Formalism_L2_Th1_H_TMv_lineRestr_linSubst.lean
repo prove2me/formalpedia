@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TMv_lineRestr_linSubst
 -- name    : Formalism.L2.Th1.H.TMv.lineRestr_linSubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:23:45.851884+00:00
 -- url     : https://prove2.me/theorems/023b370c-4add-439e-abda-cad14cf87dec

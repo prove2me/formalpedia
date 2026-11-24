@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_SphLaw_diag_ne_zero
 -- name    : GlobalTheory.CompanionTheory.QL.SphLaw.diag_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:56:04.137809+00:00
 -- url     : https://prove2.me/theorems/e9244ce8-887b-446d-b17b-da460dce24f5

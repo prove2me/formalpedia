@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_MaxLat_exists_basis_herm_le_one
 -- name    : GlobalTheory.CompanionTheory.RgFl.MaxLat.exists_basis_herm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:25.373518+00:00
 -- url     : https://prove2.me/theorems/1f1095cf-d943-46c1-80f5-30788bed1e7f

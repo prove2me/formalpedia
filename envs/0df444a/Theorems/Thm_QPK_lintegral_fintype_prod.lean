@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_lintegral_fintype_prod
 -- name    : QPK.lintegral_fintype_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:55:27.492429+00:00
 -- url     : https://prove2.me/theorems/40748b33-573d-4732-b93b-e3102fa01946

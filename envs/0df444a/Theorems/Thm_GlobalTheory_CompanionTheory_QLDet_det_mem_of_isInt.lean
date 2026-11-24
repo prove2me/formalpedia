@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLDet_det_mem_of_isInt
 -- name    : GlobalTheory.CompanionTheory.QLDet.det_mem_of_isInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:56:01.88763+00:00
 -- url     : https://prove2.me/theorems/d521668a-e593-4737-846b-1e06c13bdb72

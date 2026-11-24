@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommSplit_finrank_adjoin_le_add
 -- name    : GlobalTheory.CompanionTheory.CommSplit.finrank_adjoin_le_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:33:07.16027+00:00
 -- url     : https://prove2.me/theorems/964bf862-c414-449f-8108-9ac95cf95290

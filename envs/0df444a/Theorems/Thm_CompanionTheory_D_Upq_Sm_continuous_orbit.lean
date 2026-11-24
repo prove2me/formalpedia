@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_continuous_orbit
 -- name    : CompanionTheory.D.Upq.Sm.continuous_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:42:12.231986+00:00
 -- url     : https://prove2.me/theorems/267902ba-826f-4fd0-ad8f-80bb9125c230

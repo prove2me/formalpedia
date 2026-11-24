@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CdHaarScale_Main_tie_set
 -- name    : PI.UnitaryGroupMassFormula.CdHaarScale.Main.tie_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:37:24.550808+00:00
 -- url     : https://prove2.me/theorems/46ae685d-7220-4098-a985-2efdf88e8067

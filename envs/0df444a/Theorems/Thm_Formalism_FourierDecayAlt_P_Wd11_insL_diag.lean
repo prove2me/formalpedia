@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_insL_diag
 -- name    : Formalism.FourierDecayAlt.P.Wd11.insL_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:48:02.853276+00:00
 -- url     : https://prove2.me/theorems/bee9504c-8f0a-457c-bf8a-bb4215007e2e

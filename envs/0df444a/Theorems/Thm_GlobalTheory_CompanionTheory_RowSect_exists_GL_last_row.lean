@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RowSect_exists_GL_last_row
 -- name    : GlobalTheory.CompanionTheory.RowSect.exists_GL_last_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:01:04.232001+00:00
 -- url     : https://prove2.me/theorems/69050c27-d0d3-4fb1-b9e0-b1da4980984a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_nodup_sum_multiset_of_eq
 -- name    : GlobalTheory.eq_of_nodup_sum_multiset_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:55:20.190885+00:00
 -- url     : https://prove2.me/theorems/3e4568b8-05cf-4056-bdcc-124f2414aff1

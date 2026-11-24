@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ClosedSubgroup_eventually_exp_of_mem
 -- name    : GlobalTheory.CompanionTheory.ClosedSubgroup.eventually_exp_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:42.047023+00:00
 -- url     : https://prove2.me/theorems/800ea8cd-832d-47cb-bec3-cd717a56f6dc

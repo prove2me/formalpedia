@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_trace_eq_inner
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.trace_eq_inner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:09:33.658409+00:00
 -- url     : https://prove2.me/theorems/c0b89278-6ffd-4ae3-b00b-605391965b51

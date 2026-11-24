@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermPlane_stPlane_of_hensel_pairing
 -- name    : GlobalTheory.CompanionTheory.HermPlane.stPlane_of_hensel_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:48:35.219429+00:00
 -- url     : https://prove2.me/theorems/b04a3a45-079f-4618-9bea-04459674719f

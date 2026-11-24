@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_zetaRealNonvanish
 -- name    : Formalism.zetaRealNonvanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:05.912657+00:00
 -- url     : https://prove2.me/theorems/5b1180fc-9275-4f95-a6a5-81ebf5665dac

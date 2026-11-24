@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermLat_adjoin_integral
 -- name    : GlobalTheory.CompanionTheory.HermLat.adjoin_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:47:51.5988+00:00
 -- url     : https://prove2.me/theorems/a6e757fc-9618-4ebe-85ef-8e28c869c8a2

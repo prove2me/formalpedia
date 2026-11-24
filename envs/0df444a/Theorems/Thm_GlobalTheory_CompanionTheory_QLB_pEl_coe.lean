@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLB_pEl_coe
 -- name    : GlobalTheory.CompanionTheory.QLB.pEl_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:56:05.973331+00:00
 -- url     : https://prove2.me/theorems/d41bb379-3a5e-400b-96fc-8c4d97ebc842

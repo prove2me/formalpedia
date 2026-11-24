@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_isSiteA
 -- name    : Formalism.FourierDecayAlt.P.Mx8.isSiteA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:46:00.79331+00:00
 -- url     : https://prove2.me/theorems/bafd028a-70ce-4645-97ef-f1caaff726c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_virtualCharacter_inner_eq_int_mul_card
 -- name    : GlobalTheory.T.virtualCharacter_inner_eq_int_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:02.586083+00:00
 -- url     : https://prove2.me/theorems/993dec2b-6d01-42a2-b15d-1f4804658657

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_exists_limit
 -- name    : GlobalTheory.Idele.exists_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:52:26.869905+00:00
 -- url     : https://prove2.me/theorems/0cf0a606-88c1-41f5-b0fe-ac3f542d9fb2

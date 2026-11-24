@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_valR_ge
 -- name    : Formalism.AtG.valR_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:42:58.602093+00:00
 -- url     : https://prove2.me/theorems/1fb3f064-fc74-4b03-a5a0-232295c9ad32

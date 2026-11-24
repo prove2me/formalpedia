@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_oneParam
 -- name    : Formalism.REAL.oneParam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:54:29.773422+00:00
 -- url     : https://prove2.me/theorems/cc3462a6-9626-4cd5-aa83-1c289735202f

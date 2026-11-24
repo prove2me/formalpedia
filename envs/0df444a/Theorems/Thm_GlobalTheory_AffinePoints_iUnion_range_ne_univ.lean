@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_iUnion_range_ne_univ
 -- name    : GlobalTheory.AffinePoints.iUnion_range_ne_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:46.498538+00:00
 -- url     : https://prove2.me/theorems/3b2d8894-575e-426d-bdb6-2ec69fef57e7

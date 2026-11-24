@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_jM_star
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.jM_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:59:39.75202+00:00
 -- url     : https://prove2.me/theorems/9e94c720-328b-405c-8b36-c5f3c8117178

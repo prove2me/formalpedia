@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LKDens_rho_surj
 -- name    : GlobalTheory.CompanionTheory.LKDens.rho_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:20.581817+00:00
 -- url     : https://prove2.me/theorems/b0e1f7ff-621b-4c44-a47c-ad8c308887b7

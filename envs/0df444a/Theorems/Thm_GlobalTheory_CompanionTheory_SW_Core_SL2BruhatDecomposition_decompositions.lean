@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_SL2BruhatDecomposition_decompositions
 -- name    : GlobalTheory.CompanionTheory.SW.Core.SL2BruhatDecomposition.decompositions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:33.065439+00:00
 -- url     : https://prove2.me/theorems/7e4f74f5-495f-4ea6-bb6e-711677d7711f

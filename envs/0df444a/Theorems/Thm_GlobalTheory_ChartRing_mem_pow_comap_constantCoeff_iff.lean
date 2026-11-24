@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_mem_pow_comap_constantCoeff_iff
 -- name    : GlobalTheory.ChartRing.mem_pow_comap_constantCoeff_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:52.327901+00:00
 -- url     : https://prove2.me/theorems/5406064c-8970-41de-b367-7c8e3fc98344

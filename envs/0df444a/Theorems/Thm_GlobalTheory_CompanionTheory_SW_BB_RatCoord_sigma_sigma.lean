@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_RatCoord_sigma_sigma
 -- name    : GlobalTheory.CompanionTheory.SW.BB.RatCoord.sigma_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:03:14.580768+00:00
 -- url     : https://prove2.me/theorems/194cda1d-bdfd-42b7-8e76-52016aa160b5

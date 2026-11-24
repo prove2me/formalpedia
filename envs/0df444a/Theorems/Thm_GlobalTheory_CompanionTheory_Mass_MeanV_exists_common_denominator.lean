@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_exists_common_denominator
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.exists_common_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:53:50.963319+00:00
 -- url     : https://prove2.me/theorems/066fb0fd-a230-44e2-8783-63adee2fe411

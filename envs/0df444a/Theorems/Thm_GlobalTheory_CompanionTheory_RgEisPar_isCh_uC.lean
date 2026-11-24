@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisPar_isCh_uC
 -- name    : GlobalTheory.CompanionTheory.RgEisPar.isCh_uC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:59:26.119816+00:00
 -- url     : https://prove2.me/theorems/409f602e-4fb4-4a4f-bba6-94941ba383b4

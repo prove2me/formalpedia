@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_uH_pk
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.uH_pk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:59:41.831583+00:00
 -- url     : https://prove2.me/theorems/01218d91-1144-42c0-8cb3-f3dec5ac312e

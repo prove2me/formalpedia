@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalSplit_exists_section
 -- name    : GlobalTheory.CompanionTheory.LocalSplit.exists_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:51:48.138595+00:00
 -- url     : https://prove2.me/theorems/884ba70c-a8fa-48ec-8c04-cac28f9a11ab

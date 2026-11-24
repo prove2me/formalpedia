@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smooth_specMap_algebraMap_graphAlgebraAway
 -- name    : FunctorialResolution.EmbeddedResolution.smooth_specMap_algebraMap_graphAlgebraAway
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:59:46.803887+00:00
 -- url     : https://prove2.me/theorems/11d4ff0e-69ae-4d4b-aa4d-aabeb142d46c

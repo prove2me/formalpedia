@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgSplit_herm_restrict
 -- name    : GlobalTheory.CompanionTheory.RgSplit.herm_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:59:50.187692+00:00
 -- url     : https://prove2.me/theorems/3c6350e2-2059-4754-8af5-dbf2df3e0085

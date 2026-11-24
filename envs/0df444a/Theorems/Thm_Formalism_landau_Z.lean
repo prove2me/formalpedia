@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_landau_Z
 -- name    : Formalism.landau_Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:46:21.864437+00:00
 -- url     : https://prove2.me/theorems/0c55e439-d8fb-4675-b1af-94c8b350fb97

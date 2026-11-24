@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_AbsTprod_tprod_eq_prod_mul_tprod_compl
 -- name    : GlobalTheory.CompanionTheory.SW.AbsTprod.tprod_eq_prod_mul_tprod_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:01:06.881581+00:00
 -- url     : https://prove2.me/theorems/9491fdf5-87f0-4390-8798-02fbce04e731

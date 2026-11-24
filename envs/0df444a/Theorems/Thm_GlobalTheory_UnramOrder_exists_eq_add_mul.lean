@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_exists_eq_add_mul
 -- name    : GlobalTheory.UnramOrder.exists_eq_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:01:26.955538+00:00
 -- url     : https://prove2.me/theorems/d2d6920d-1471-40e1-a1cf-5577fd42551c

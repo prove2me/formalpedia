@@ -84943,7 +84943,7 @@
 {"parent": "QEC.Coding.BDL26HistoryErrorTelescoping.word_add_self", "child": "QEC_Coding_FiniteAlternatingConstruction_HistoryErrorTelescoping_HistorySums", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26HistoryErrorTelescoping.word_add_self", "child": "QEC_Coding_FiniteAlternatingConstruction_HistoryErrorTelescoping", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26HistoryErrorTelescoping.word_add_self", "child": "QEC_Coding_FiniteAlternatingConstruction_HistorySyndromeSensitivity", "via": ["solution", "statement"]}
-{"parent": "OrderedSearchExact.Exact.lemma_4_11", "child": "OrderedSearchExact_Exact_Laurent", "via": ["statement"]}
+{"parent": "OrderedSearchExact.Exact.lemma_4_11", "child": "OrderedSearchExact_Exact_Laurent", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_20_1_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_20_1_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "SampQueryLB_WarmSLC_Experiments", "child": "SampQueryLB_WarmSLC_HardFamily", "via": ["statement"]}

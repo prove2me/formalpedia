@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_sub_mem_of_isTaylorExpansionOn
 -- name    : FunctorialResolution.EmbeddedResolution.sub_mem_of_isTaylorExpansionOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:59:13.001006+00:00
 -- url     : https://prove2.me/theorems/70036c9d-08f8-4dc3-82f9-0850248f4123

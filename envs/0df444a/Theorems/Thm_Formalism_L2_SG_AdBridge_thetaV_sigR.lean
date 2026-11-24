@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AdBridge_thetaV_sigR
 -- name    : Formalism.L2.SG.AdBridge.thetaV_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:41:34.105287+00:00
 -- url     : https://prove2.me/theorems/19cf1a8e-97c5-4785-a50e-67db9f6f0c76

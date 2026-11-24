@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ResKCoords_finitePresentation_and_kaehler_atPrime
 -- name    : GlobalTheory.CompanionTheory.ResKCoords.finitePresentation_and_kaehler_atPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:57:58.13128+00:00
 -- url     : https://prove2.me/theorems/5302669f-e9c4-42f4-b72c-53fd6b4f98f5

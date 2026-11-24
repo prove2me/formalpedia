@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RiemannCore_tile_cover
 -- name    : GlobalTheory.CompanionTheory.RiemannCore.tile_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:00:52.574611+00:00
 -- url     : https://prove2.me/theorems/ceb407e3-81a9-4686-b13a-b4a35c3e0243

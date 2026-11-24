@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_RowCompletion_integral_of_mem
 -- name    : GlobalTheory.CompanionTheory.SW.Core.RowCompletion.integral_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:20.300832+00:00
 -- url     : https://prove2.me/theorems/a17eb3ba-e4ef-4c2a-850b-437f88677853

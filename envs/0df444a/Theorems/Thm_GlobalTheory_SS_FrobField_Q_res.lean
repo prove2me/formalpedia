@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobField_Q_res
 -- name    : GlobalTheory.SS.FrobField.Q.res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:01:26.903897+00:00
 -- url     : https://prove2.me/theorems/953ee079-db04-4aa1-8c05-f14fcd5bfc93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelColumns_vecNorm_of_vecClose
 -- name    : GlobalTheory.CompanionTheory.KernelColumns.vecNorm_of_vecClose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:24.893083+00:00
 -- url     : https://prove2.me/theorems/f0c97026-1ec6-4c24-bcad-136b2d367239

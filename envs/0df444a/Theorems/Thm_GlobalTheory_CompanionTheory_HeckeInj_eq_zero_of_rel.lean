@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeInj_eq_zero_of_rel
 -- name    : GlobalTheory.CompanionTheory.HeckeInj.eq_zero_of_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:46:20.264794+00:00
 -- url     : https://prove2.me/theorems/049a7dd1-762f-4e4b-9fca-9bd53138e9bf

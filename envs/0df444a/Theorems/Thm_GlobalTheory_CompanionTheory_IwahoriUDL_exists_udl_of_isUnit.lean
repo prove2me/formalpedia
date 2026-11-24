@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IwahoriUDL_exists_udl_of_isUnit
 -- name    : GlobalTheory.CompanionTheory.IwahoriUDL.exists_udl_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:32:46.052078+00:00
 -- url     : https://prove2.me/theorems/9f299578-057e-4805-8ed4-ec0cb57533eb

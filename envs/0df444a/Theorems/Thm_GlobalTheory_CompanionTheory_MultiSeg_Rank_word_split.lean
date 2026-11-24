@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_word_split
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.word_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:07:17.6422+00:00
 -- url     : https://prove2.me/theorems/ae44e32d-c619-4042-a94f-f1915683c125

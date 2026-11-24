@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermAniso_exists_ball
 -- name    : GlobalTheory.CompanionTheory.HermAniso.exists_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:46:11.365807+00:00
 -- url     : https://prove2.me/theorems/527d492e-0f8c-4544-8cf6-06053e90179c

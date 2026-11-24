@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OM_SchDiff_taylor_iter
 -- name    : GlobalTheory.CompanionTheory.OM.SchDiff.taylor_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:53:34.30393+00:00
 -- url     : https://prove2.me/theorems/029e9246-e3e9-4c77-83e3-61a370c39982

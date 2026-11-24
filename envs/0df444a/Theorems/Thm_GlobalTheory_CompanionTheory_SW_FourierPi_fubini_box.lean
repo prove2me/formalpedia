@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FourierPi_fubini_box
 -- name    : GlobalTheory.CompanionTheory.SW.FourierPi.fubini_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:05:15.546351+00:00
 -- url     : https://prove2.me/theorems/da3b899b-c06b-4fc0-875c-f5ea10dea5c0

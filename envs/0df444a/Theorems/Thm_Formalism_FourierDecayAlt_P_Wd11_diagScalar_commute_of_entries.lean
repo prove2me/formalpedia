@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_diagScalar_commute_of_entries
 -- name    : Formalism.FourierDecayAlt.P.Wd11.diagScalar_commute_of_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:47:55.651774+00:00
 -- url     : https://prove2.me/theorems/093dc280-7a20-4d7c-aa15-11b5b6d5fb73

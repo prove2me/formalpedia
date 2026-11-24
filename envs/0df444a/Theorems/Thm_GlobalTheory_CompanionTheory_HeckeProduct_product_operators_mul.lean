@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeProduct_product_operators_mul
 -- name    : GlobalTheory.CompanionTheory.HeckeProduct.product_operators_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:46:35.673409+00:00
 -- url     : https://prove2.me/theorems/1a2bade2-8ce3-48ee-98f5-3ed621303baa

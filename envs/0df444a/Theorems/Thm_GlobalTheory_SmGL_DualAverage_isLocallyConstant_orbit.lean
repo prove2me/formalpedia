@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_DualAverage_isLocallyConstant_orbit
 -- name    : GlobalTheory.SmGL.DualAverage.isLocallyConstant_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:00:50.972368+00:00
 -- url     : https://prove2.me/theorems/c1d1de50-e467-486d-a107-72efbf871029

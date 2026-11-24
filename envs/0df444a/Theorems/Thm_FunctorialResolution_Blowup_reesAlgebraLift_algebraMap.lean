@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_reesAlgebraLift_algebraMap
 -- name    : FunctorialResolution.Blowup.reesAlgebraLift_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:55:45.422236+00:00
 -- url     : https://prove2.me/theorems/40b0390e-e3e2-4fba-a2ea-434d225840f1

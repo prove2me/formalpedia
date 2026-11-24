@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fockAdj
 -- name    : Formalism.REAL.fockAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:57:40.813232+00:00
 -- url     : https://prove2.me/theorems/a88f70dc-d4fe-4eee-b440-3c740d1927f7

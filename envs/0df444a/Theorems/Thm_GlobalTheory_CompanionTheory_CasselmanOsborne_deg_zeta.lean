@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CasselmanOsborne_deg_zeta
 -- name    : GlobalTheory.CompanionTheory.CasselmanOsborne.deg_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:31:53.49626+00:00
 -- url     : https://prove2.me/theorems/3339dc0d-fb12-4a2f-8b8d-267b2e4dc72b

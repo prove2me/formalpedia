@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommStep_comm_step
 -- name    : GlobalTheory.CompanionTheory.CommStep.comm_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:33:25.065858+00:00
 -- url     : https://prove2.me/theorems/2db2b93b-0c8b-40ad-9c3d-ca901eb6dedd

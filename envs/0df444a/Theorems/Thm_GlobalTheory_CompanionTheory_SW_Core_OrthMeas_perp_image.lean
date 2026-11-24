@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_OrthMeas_perp_image
 -- name    : GlobalTheory.CompanionTheory.SW.Core.OrthMeas.perp_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:03:57.8818+00:00
 -- url     : https://prove2.me/theorems/b1bbe9f1-6e1b-4d56-9355-c5be8771f0a1

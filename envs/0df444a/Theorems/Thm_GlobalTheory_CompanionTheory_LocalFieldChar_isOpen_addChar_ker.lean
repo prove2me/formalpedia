@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalFieldChar_isOpen_addChar_ker
 -- name    : GlobalTheory.CompanionTheory.LocalFieldChar.isOpen_addChar_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:51:55.554592+00:00
 -- url     : https://prove2.me/theorems/9f4070a2-2f34-4986-a020-354dadbeea2f

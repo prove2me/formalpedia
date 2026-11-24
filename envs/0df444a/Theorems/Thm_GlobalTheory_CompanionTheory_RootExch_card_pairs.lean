@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RootExch_card_pairs
 -- name    : GlobalTheory.CompanionTheory.RootExch.card_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:00:55.562777+00:00
 -- url     : https://prove2.me/theorems/f2b7fdd6-4d00-48b2-8494-86d2e8d29b0d

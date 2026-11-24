@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Irred_eigen
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Irred.eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:39:18.923333+00:00
 -- url     : https://prove2.me/theorems/e2bb2eec-4254-434b-9248-221c4e06a063

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ResKCoords_finitePresentation_of_away
 -- name    : GlobalTheory.CompanionTheory.ResKCoords.finitePresentation_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:57:29.214571+00:00
 -- url     : https://prove2.me/theorems/b7fe243a-bf76-4daf-89a4-2b22ca6962a7

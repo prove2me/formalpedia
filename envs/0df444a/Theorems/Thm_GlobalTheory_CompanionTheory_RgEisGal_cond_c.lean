@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_cond_c
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.cond_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:58:41.672423+00:00
 -- url     : https://prove2.me/theorems/b82dd1b4-a437-4adc-a6d3-847ad7e98e01

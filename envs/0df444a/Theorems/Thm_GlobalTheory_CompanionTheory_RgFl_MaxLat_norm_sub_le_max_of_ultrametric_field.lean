@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_MaxLat_norm_sub_le_max_of_ultrametric_field
 -- name    : GlobalTheory.CompanionTheory.RgFl.MaxLat.norm_sub_le_max_of_ultrametric_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:28.051233+00:00
 -- url     : https://prove2.me/theorems/dcd410cc-12fe-4088-9289-5dfc8210a94c

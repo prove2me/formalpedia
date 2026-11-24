@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Inhab_exists_approx
 -- name    : GlobalTheory.RowLev.Inhab.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:40:07.653799+00:00
 -- url     : https://prove2.me/theorems/fc102cbd-654c-4537-809c-60c4aef96fb0

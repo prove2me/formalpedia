@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LinAlg_exists_joint_eigenvector_combination_ne_zero
 -- name    : GlobalTheory.CompanionTheory.LinAlg.exists_joint_eigenvector_combination_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:52:05.010331+00:00
 -- url     : https://prove2.me/theorems/b07d774b-3f76-4545-aa0c-e7d46a8f0c7c

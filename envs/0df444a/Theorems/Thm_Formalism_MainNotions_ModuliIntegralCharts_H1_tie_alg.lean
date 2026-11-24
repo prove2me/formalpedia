@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_tie_alg
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.tie_alg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:00:04.228967+00:00
 -- url     : https://prove2.me/theorems/45fccfb6-6963-40c6-8138-324c9cf9b106

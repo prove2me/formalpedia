@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_Lat_repr_natCast_mul
 -- name    : GlobalTheory.CompanionTheory.SW.BB.Lat.repr_natCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:00:42.774814+00:00
 -- url     : https://prove2.me/theorems/c844e450-9b50-4c04-99f6-60a4d219de80

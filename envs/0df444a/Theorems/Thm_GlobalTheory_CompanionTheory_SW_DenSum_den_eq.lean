@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DenSum_den_eq
 -- name    : GlobalTheory.CompanionTheory.SW.DenSum.den_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:03:49.88458+00:00
 -- url     : https://prove2.me/theorems/cab08452-12f0-4b87-a3ad-3b31340d8200

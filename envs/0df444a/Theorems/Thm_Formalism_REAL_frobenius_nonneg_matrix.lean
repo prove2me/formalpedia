@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_frobenius_nonneg_matrix
 -- name    : Formalism.REAL.frobenius_nonneg_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:57:51.293465+00:00
 -- url     : https://prove2.me/theorems/7ac44d91-bed0-45f1-9a30-15c1b8a95b19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPsiExists_UnitaryGroupMassFormula_tau_apply
 -- name    : PI.ScPsiExists.UnitaryGroupMassFormula.tau_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:14.816008+00:00
 -- url     : https://prove2.me/theorems/e458569b-fb19-481f-abd3-105ab8fcc39b

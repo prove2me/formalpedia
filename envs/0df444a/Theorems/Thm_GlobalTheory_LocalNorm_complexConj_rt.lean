@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalNorm_complexConj_rt
 -- name    : GlobalTheory.LocalNorm.complexConj_rt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:02:06.575818+00:00
 -- url     : https://prove2.me/theorems/e8731714-42d0-48dc-80c0-5aaa327c119a

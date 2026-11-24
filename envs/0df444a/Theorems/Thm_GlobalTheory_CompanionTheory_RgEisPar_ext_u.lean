@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisPar_ext_u
 -- name    : GlobalTheory.CompanionTheory.RgEisPar.ext_u
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:00:21.403034+00:00
 -- url     : https://prove2.me/theorems/da379f96-d82e-40de-8208-0b4094d19b06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_ringKrullDim_lt_top_of_finiteType
 -- name    : FunctorialResolution.EmbeddedResolution.ringKrullDim_lt_top_of_finiteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:04:24.862796+00:00
 -- url     : https://prove2.me/theorems/8618dc53-6b22-43b2-bf89-de33ea5014de

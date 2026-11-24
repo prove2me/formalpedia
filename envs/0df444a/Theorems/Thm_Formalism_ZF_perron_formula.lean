@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_perron_formula
 -- name    : Formalism.ZF.perron_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:40:52.548787+00:00
 -- url     : https://prove2.me/theorems/af59e270-378f-4365-b42c-f3b778b3f578

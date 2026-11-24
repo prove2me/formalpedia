@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csGlob_int
 -- name    : Formalism.UG.P.csGlob_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:25:39.903198+00:00
 -- url     : https://prove2.me/theorems/3eac8370-247e-4bfa-91ef-7060b53f8a48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedEdgeColor_theorem_1_1_simple_graphs
 -- name    : WeightedEdgeColor.theorem_1_1_simple_graphs
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:50:39.705198+00:00
 -- url     : https://prove2.me/theorems/7013e03c-8e6f-4b94-8478-5f4474aabf92

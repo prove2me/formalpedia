@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_isConj_of_iso
 -- name    : GlobalTheory.ClassParam.isConj_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:13:13.514502+00:00
 -- url     : https://prove2.me/theorems/07ff04fd-ef68-46ed-b40f-c77118bd20c5

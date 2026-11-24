@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_ins_sandwich
 -- name    : Formalism.FourierDecayAlt.P.Wd11.ins_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:46:34.021805+00:00
 -- url     : https://prove2.me/theorems/7be0bff8-98fa-4c78-b813-d2bfd2cd85eb

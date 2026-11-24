@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_det_sub_one
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.det_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:59:48.090228+00:00
 -- url     : https://prove2.me/theorems/2fc3fa8a-dcc6-45e3-bc65-207444270803

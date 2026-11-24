@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_Sum_add_Pw_div_mul
 -- name    : GlobalTheory.AnArc.Sum_add_Pw_div_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:57:12.593658+00:00
 -- url     : https://prove2.me/theorems/4ab6c681-b1ab-47f9-9eda-15cb5b16a5ad

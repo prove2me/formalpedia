@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PlFrame_prime
 -- name    : GlobalTheory.RowLev.PlFrame.prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:39:39.20231+00:00
 -- url     : https://prove2.me/theorems/a9ebd949-11d3-4703-943e-c60138f49437

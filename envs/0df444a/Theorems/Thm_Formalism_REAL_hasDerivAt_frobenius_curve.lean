@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_hasDerivAt_frobenius_curve
 -- name    : Formalism.REAL.hasDerivAt_frobenius_curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:42:44.481866+00:00
 -- url     : https://prove2.me/theorems/6035587d-3511-44d8-b749-405684200e0d

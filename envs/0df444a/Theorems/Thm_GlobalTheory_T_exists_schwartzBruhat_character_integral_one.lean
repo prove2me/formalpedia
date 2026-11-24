@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_schwartzBruhat_character_integral_one
 -- name    : GlobalTheory.T.exists_schwartzBruhat_character_integral_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:02:12.718249+00:00
 -- url     : https://prove2.me/theorems/11f9469d-9bc7-4823-a267-93a1d9a2c043

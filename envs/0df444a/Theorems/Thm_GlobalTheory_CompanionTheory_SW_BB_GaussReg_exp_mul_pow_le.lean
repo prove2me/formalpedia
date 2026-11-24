@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_GaussReg_exp_mul_pow_le
 -- name    : GlobalTheory.CompanionTheory.SW.BB.GaussReg.exp_mul_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:01:25.1618+00:00
 -- url     : https://prove2.me/theorems/3382bbe2-3706-46a0-a610-4377d79c6469

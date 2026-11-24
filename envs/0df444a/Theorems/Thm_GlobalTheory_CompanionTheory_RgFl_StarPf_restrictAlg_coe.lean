@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_StarPf_restrictAlg_coe
 -- name    : GlobalTheory.CompanionTheory.RgFl.StarPf.restrictAlg_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:44.123525+00:00
 -- url     : https://prove2.me/theorems/73d77747-a30d-4d3b-8cb7-169de7839629

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_letter_wave
 -- name    : Formalism.FourierDecayAlt.P.Wd11.letter_wave
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:48:11.585869+00:00
 -- url     : https://prove2.me/theorems/5795aa72-9557-4597-87f3-12a42e32cd2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreGlue_restr_family
 -- name    : GlobalTheory.CompanionTheory.SW.FibreGlue.restr_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:04:32.151808+00:00
 -- url     : https://prove2.me/theorems/491d9e30-f86e-4c73-a6fc-665a50055d2d

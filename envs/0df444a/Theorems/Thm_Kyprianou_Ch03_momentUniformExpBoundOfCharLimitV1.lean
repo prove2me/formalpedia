@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentUniformExpBoundOfCharLimitV1
 -- name    : Kyprianou.Ch03.momentUniformExpBoundOfCharLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:35:17.615802+00:00
 -- url     : https://prove2.me/theorems/97c5a9b3-1dc8-4789-a0f1-5b6b7cbf96d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_nz_eq
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.nz_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:05.228225+00:00
 -- url     : https://prove2.me/theorems/57d39266-bba8-4816-a023-b7f8db1b0c8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_corollary_chain
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.corollary_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:30:23.344058+00:00
 -- url     : https://prove2.me/theorems/6aaa2dcb-0454-44a0-852f-3e7803638b58

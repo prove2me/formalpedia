@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSSmLin_smLin
 -- name    : GlobalTheory.CompanionTheory.DSSmLin.smLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:40:57.268534+00:00
 -- url     : https://prove2.me/theorems/b03a80e2-1661-415f-add1-824f8cf0fb2d

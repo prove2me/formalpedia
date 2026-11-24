@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_GaussianDyadic_summable_wt
 -- name    : GlobalTheory.CompanionTheory.SW.Core.GaussianDyadic.summable_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:02:45.102151+00:00
 -- url     : https://prove2.me/theorems/1c0261b4-4342-446c-93f0-9fbd6bf7039e

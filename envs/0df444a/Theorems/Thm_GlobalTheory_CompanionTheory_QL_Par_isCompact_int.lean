@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Par_isCompact_int
 -- name    : GlobalTheory.CompanionTheory.QL.Par.isCompact_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:56:31.356391+00:00
 -- url     : https://prove2.me/theorems/ac384c4f-bdb6-4c26-abbb-919f8ca627b8

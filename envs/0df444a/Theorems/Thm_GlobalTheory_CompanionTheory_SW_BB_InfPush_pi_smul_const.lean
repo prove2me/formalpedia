@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_InfPush_pi_smul_const
 -- name    : GlobalTheory.CompanionTheory.SW.BB.InfPush.pi_smul_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:01:43.529402+00:00
 -- url     : https://prove2.me/theorems/126689a4-4586-4e19-a034-2e3fb34c0998

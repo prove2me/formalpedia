@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerPoint_ptEq_of
 -- name    : GlobalTheory.CompanionTheory.KerPoint.ptEq_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:50:51.194981+00:00
 -- url     : https://prove2.me/theorems/e4a87984-02d5-438f-9e69-d9f26f9a56ad

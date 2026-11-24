@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockAlg_exists_consTup_of_gramE
 -- name    : GlobalTheory.CompanionTheory.SW.BlockAlg.exists_consTup_of_gramE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:02:46.54697+00:00
 -- url     : https://prove2.me/theorems/2ddbe5c7-85c9-4916-a3a7-36733ed7334a

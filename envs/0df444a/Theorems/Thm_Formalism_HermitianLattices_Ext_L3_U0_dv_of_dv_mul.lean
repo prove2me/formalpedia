@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_dv_of_dv_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.dv_of_dv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:33.70411+00:00
 -- url     : https://prove2.me/theorems/49e2f389-c709-4725-ab96-4c42f5c40135

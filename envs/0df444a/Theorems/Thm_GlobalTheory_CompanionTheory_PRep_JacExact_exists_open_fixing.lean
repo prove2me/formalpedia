@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PRep_JacExact_exists_open_fixing
 -- name    : GlobalTheory.CompanionTheory.PRep.JacExact.exists_open_fixing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:01.864484+00:00
 -- url     : https://prove2.me/theorems/80eb8d96-f23b-439c-bb5d-7ed470c04ce3

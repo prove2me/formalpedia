@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_rep_mk
 -- name    : GlobalTheory.CompanionTheory.RgEis.rep_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:56:55.951922+00:00
 -- url     : https://prove2.me/theorems/b733ed47-dfb8-4c28-ae88-0c4d1c34462f

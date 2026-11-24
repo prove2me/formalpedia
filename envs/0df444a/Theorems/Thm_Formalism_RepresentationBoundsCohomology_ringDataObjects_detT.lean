@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_detT
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.detT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:13:01.736447+00:00
 -- url     : https://prove2.me/theorems/14ee97f4-4d57-4c34-a483-0e50f3b135ea

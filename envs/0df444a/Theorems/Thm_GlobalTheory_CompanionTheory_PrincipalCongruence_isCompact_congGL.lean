@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrincipalCongruence_isCompact_congGL
 -- name    : GlobalTheory.CompanionTheory.PrincipalCongruence.isCompact_congGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:54:53.156797+00:00
 -- url     : https://prove2.me/theorems/aa331cbc-e013-4cbc-b3d2-290a488cc762

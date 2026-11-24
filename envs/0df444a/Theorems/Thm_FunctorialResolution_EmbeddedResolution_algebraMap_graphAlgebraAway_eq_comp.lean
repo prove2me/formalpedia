@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_algebraMap_graphAlgebraAway_eq_comp
 -- name    : FunctorialResolution.EmbeddedResolution.algebraMap_graphAlgebraAway_eq_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:59:37.315018+00:00
 -- url     : https://prove2.me/theorems/b11a2d9f-881c-4f79-842f-7d7debd80480

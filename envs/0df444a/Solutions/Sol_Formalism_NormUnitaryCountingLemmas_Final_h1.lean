@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for Formalism.NormUnitaryCountingLemmas.Final.h1
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-24T12:57:44.742652+00:00
+-- url     : https://prove2.me/submissions/5cefb5ea-42ba-4990-b41a-6d59967e78f7
+
+import Definitions.Def_Formalism_NormUnitaryBounds_DetPolynomialWeights_ShearHypothesisOneHolds
+import Definitions.Def_Formalism_NormUnitaryBounds_DetPolynomialWeights_ShearHypothesisTwo
+import Definitions.Def_Formalism_NormUnitaryBounds_DetPolynomialWeights_ShearCoefficients
+import Definitions.Def_Formalism_NormUnitaryBounds_DetPolynomialWeights_LtSuccOfMemWeightCompositions
+import Definitions.Def_Formalism_NormUnitaryBounds_DetPolynomialWeights_NormUnitary
+import Definitions.Def_Formalism_NormUnitaryBounds_DetPolynomialWeights_NormMul
+import Definitions.Def_Formalism_NormUnitaryBounds_DetPolynomialWeights_ShortIndependentVectorsOfDualMinimum
+import Definitions.Def_Formalism_NormUnitaryBounds_DetPolynomialWeights_CoefficientBoundHolds
+import Definitions.Def_Formalism_NormUnitaryBounds_DetPolynomialWeights_GaussianCoefficientFactorialBound
+import Definitions.Def_Formalism_NormUnitaryBounds_NormUnitary
+import Theorems.Thm_Formalism_NormUnitaryCountingLemmas_shear_hypothesis_one_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.NormUnitaryCountingLemmas Formalism.NormUnitaryCountingLemmas.Final
+namespace Formalism.NormUnitaryCountingLemmas.Final
+theorem _root_.solution : Formalism.NormUnitaryCountingLemmas.H1 := Formalism.NormUnitaryCountingLemmas.shear_hypothesis_one_holds
+end Formalism.NormUnitaryCountingLemmas.Final

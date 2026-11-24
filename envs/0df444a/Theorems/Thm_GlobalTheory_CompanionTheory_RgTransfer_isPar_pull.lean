@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgTransfer_isPar_pull
 -- name    : GlobalTheory.CompanionTheory.RgTransfer.isPar_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:59:31.14574+00:00
 -- url     : https://prove2.me/theorems/545462ce-9f11-4c4d-97a9-1a08b234e7e7

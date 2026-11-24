@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr8_comm_inv
 -- name    : Formalism.FourierDecayAlt.P.Fr8.comm_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:03:25.432113+00:00
 -- url     : https://prove2.me/theorems/63cf9664-b286-4754-82ef-ffabae38565c

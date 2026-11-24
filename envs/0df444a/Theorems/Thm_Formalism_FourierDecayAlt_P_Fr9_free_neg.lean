@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_free_neg
 -- name    : Formalism.FourierDecayAlt.P.Fr9.free_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:04:15.899254+00:00
 -- url     : https://prove2.me/theorems/b65299da-1d2e-482b-a60a-971fb765c4be

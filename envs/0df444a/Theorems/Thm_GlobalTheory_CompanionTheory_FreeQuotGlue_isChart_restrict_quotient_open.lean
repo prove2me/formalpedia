@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_isChart_restrict_quotient_open
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.isChart_restrict_quotient_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:41:38.383207+00:00
 -- url     : https://prove2.me/theorems/c775d6f2-c39b-4cbc-a85a-48043bf68299

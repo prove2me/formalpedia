@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ideal_count_le_weighted
 -- name    : Formalism.HermitianLatticeCounting.P.ideal_count_le_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:19.254848+00:00
 -- url     : https://prove2.me/theorems/e0846f1b-3d05-4c35-a281-088272a332c6

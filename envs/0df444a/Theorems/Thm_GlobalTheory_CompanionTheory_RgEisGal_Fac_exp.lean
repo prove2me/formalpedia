@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_Fac_exp
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.Fac_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:57:12.358841+00:00
 -- url     : https://prove2.me/theorems/e189ead8-4bfa-492f-9ab4-1e041514afb0

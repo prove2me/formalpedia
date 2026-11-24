@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_det_range
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.det_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:58:52.584076+00:00
 -- url     : https://prove2.me/theorems/7053aa9f-832f-4b59-a662-b3aca7f4b8f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_PoiLat_phase_lattice
 -- name    : GlobalTheory.CompanionTheory.SW.Core.PoiLat.phase_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:27.712796+00:00
 -- url     : https://prove2.me/theorems/c5c4a9ba-a2c7-4c16-ae8f-bc878681b9b8

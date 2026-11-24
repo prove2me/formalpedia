@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_volGrowth
 -- name    : Formalism.REAL.volGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:54:52.709887+00:00
 -- url     : https://prove2.me/theorems/d6d246c4-0a88-4392-862b-40200bacb32a

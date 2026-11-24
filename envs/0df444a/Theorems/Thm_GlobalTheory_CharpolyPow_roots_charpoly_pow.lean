@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharpolyPow_roots_charpoly_pow
 -- name    : GlobalTheory.CharpolyPow.roots_charpoly_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:17:44.413482+00:00
 -- url     : https://prove2.me/theorems/30c1a722-8c87-4b01-a5c7-24e897b37006

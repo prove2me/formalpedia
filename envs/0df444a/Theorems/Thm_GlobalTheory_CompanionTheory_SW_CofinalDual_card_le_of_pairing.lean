@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CofinalDual_card_le_of_pairing
 -- name    : GlobalTheory.CompanionTheory.SW.CofinalDual.card_le_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:02:39.37309+00:00
 -- url     : https://prove2.me/theorems/ea38688a-29f8-423b-9ff1-737b7f638c43

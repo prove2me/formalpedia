@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_isOpen_coneC
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.isOpen_coneC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:58:54.010777+00:00
 -- url     : https://prove2.me/theorems/a5884fef-49db-459b-80ca-e2a7c7384ca6

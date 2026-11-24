@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_HidaSetting_exists_intw
 -- name    : GlobalTheory.ClassParam.HidaSetting.exists_intw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:13:44.391559+00:00
 -- url     : https://prove2.me/theorems/4a607974-6e11-45a6-8225-ec26e41b65c8

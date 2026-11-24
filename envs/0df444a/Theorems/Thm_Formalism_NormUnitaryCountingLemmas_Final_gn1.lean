@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_Final_gn1
 -- name    : Formalism.NormUnitaryCountingLemmas.Final.gn1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:57:07.41474+00:00
 -- url     : https://prove2.me/theorems/46a274a6-b865-4fd6-adf7-374c89d72536

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinRep_isIrr_leftRep
 -- name    : GlobalTheory.CompanionTheory.FinRep.isIrr_leftRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:41:43.854065+00:00
 -- url     : https://prove2.me/theorems/da3bfd41-fd63-408e-bbe7-eac6909f20a1

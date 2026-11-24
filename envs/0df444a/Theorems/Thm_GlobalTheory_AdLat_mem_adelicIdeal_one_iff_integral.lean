@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_mem_adelicIdeal_one_iff_integral
 -- name    : GlobalTheory.AdLat.mem_adelicIdeal_one_iff_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:07:14.927797+00:00
 -- url     : https://prove2.me/theorems/2902e016-e05f-4947-9f7d-b4c9d6ea69a3

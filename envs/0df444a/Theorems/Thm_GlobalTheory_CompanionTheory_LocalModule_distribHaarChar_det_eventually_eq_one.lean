@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalModule_distribHaarChar_det_eventually_eq_one
 -- name    : GlobalTheory.CompanionTheory.LocalModule.distribHaarChar_det_eventually_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:52:20.193992+00:00
 -- url     : https://prove2.me/theorems/e495d681-7667-4683-be2a-517e7c022f51

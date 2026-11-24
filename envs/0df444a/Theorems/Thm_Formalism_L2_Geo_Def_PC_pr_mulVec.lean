@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_PC_pr_mulVec
 -- name    : Formalism.L2.Geo.Def.PC.pr_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:01:52.13661+00:00
 -- url     : https://prove2.me/theorems/81991a10-d75c-4f0b-863e-29ad667c2890

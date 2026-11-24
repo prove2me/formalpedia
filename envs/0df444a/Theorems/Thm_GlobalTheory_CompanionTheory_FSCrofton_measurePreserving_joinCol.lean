@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_measurePreserving_joinCol
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.measurePreserving_joinCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:39:58.383719+00:00
 -- url     : https://prove2.me/theorems/39f1ec5b-4a06-4f8d-8f01-7fbedfefb6a9

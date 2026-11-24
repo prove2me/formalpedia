@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_adelstab_finite
 -- name    : Formalism.UG.P.adelstab_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:13:46.340619+00:00
 -- url     : https://prove2.me/theorems/18286acf-4dac-4cce-ad80-d4ba8229e7db
