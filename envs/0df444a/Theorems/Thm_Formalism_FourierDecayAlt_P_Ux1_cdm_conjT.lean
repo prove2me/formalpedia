@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux1_cdm_conjT
 -- name    : Formalism.FourierDecayAlt.P.Ux1.cdm_conjT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:10:44.424958+00:00
 -- url     : https://prove2.me/theorems/3e9cbf12-0fc6-4197-851c-25cdf9ed9108

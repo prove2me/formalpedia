@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_corollary_T_of_sum_form
 -- name    : Formalism.FourierDecayAlt.P.corollary_T_of_sum_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:44:39.63002+00:00
 -- url     : https://prove2.me/theorems/1650eb33-806d-41a1-87cc-5e42d13266c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_eta_neg_one_pow
 -- name    : GlobalTheory.JR.LinDesc.eta_neg_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:34:23.295077+00:00
 -- url     : https://prove2.me/theorems/99d9ff63-e86b-4e34-a939-cf3c8b723c88

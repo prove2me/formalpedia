@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KLowSpan_kwt_cons
 -- name    : GlobalTheory.CompanionTheory.KLowSpan.kwt_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:13:21.771824+00:00
 -- url     : https://prove2.me/theorems/afccf718-4efc-4b29-b60a-560b97a4c2a4

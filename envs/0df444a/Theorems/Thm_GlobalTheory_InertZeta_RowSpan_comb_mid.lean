@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_RowSpan_comb_mid
 -- name    : GlobalTheory.InertZeta.RowSpan.comb_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:49:49.479914+00:00
 -- url     : https://prove2.me/theorems/be6f5285-01f7-4c3b-92c7-97742961ad2b

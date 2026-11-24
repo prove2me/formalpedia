@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_mem_dom_coordIso
 -- name    : GlobalTheory.FlagTransport.mem_dom_coordIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:32:22.430616+00:00
 -- url     : https://prove2.me/theorems/630be6c2-54d0-4b31-bae7-a09de77dd1ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertDual_int_mulVec
 -- name    : GlobalTheory.CompanionTheory.InertDual.int_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:01:37.440926+00:00
 -- url     : https://prove2.me/theorems/9eecd8fb-4acf-4dff-952d-16295182fd71

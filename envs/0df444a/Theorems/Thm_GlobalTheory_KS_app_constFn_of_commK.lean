@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_app_constFn_of_commK
 -- name    : GlobalTheory.KS.app_constFn_of_commK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:48:08.728976+00:00
 -- url     : https://prove2.me/theorems/ddd3f118-0399-403b-8f1b-9184de26aa6d

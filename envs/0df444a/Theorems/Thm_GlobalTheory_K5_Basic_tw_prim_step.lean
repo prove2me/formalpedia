@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_tw_prim_step
 -- name    : GlobalTheory.K5.Basic.tw_prim_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:42:22.3268+00:00
 -- url     : https://prove2.me/theorems/afcb7137-bc58-48f3-9354-a0da5f2429b0

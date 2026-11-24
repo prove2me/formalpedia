@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_toJet_coe
 -- name    : GlobalTheory.JetSer.toJet_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:41:16.472137+00:00
 -- url     : https://prove2.me/theorems/3d0a41c4-f75d-4596-a7fa-d76a61e33c88

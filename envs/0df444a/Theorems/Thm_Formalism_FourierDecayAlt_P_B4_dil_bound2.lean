@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_dil_bound2
 -- name    : Formalism.FourierDecayAlt.P.B4.dil_bound2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:32:05.5502+00:00
 -- url     : https://prove2.me/theorems/7b684100-86ab-4497-aef8-6601174f8ebf

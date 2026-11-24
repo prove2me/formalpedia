@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FrameChange_eval_standard_points_three
 -- name    : GlobalTheory.JetSer.FrameChange.eval_standard_points_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:40:46.43206+00:00
 -- url     : https://prove2.me/theorems/bb969daf-4ec6-49ef-81e7-e4c21e89e83c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFam_exp_sum_bounds
 -- name    : GlobalTheory.Hk.LFam.exp_sum_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:21:22.324843+00:00
 -- url     : https://prove2.me/theorems/ab9aa55a-5ee4-45cd-a98d-489718dcef9d

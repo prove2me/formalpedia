@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_ord_le_o_mul_two_pow
 -- name    : Formalism.HC.Frame.ord_le_o_mul_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:48:50.500615+00:00
 -- url     : https://prove2.me/theorems/d5314e48-5441-4463-bc3b-22db86100f4a

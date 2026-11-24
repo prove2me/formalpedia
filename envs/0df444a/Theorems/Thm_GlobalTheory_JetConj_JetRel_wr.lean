@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_JetRel_wr
 -- name    : GlobalTheory.JetConj.JetRel.wr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:21.627007+00:00
 -- url     : https://prove2.me/theorems/4918313f-d790-4e5e-b3db-137a612d443b

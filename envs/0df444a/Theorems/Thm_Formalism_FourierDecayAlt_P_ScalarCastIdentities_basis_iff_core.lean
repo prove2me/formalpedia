@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_basis_iff_core
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.basis_iff_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:09:14.531181+00:00
 -- url     : https://prove2.me/theorems/2d4f4966-1ea0-49b5-9c5b-62a4bafb8a66

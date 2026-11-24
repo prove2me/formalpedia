@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_GaussStable_integral_indicator_char
 -- name    : GlobalTheory.JR.WeilQuad.GaussStable.integral_indicator_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:09.598798+00:00
 -- url     : https://prove2.me/theorems/95f636d7-709e-4a8d-947d-256b84bd7345

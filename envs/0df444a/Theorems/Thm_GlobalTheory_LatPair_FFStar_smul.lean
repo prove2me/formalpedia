@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_FFStar_smul
 -- name    : GlobalTheory.LatPair.FFStar_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:58:48.982806+00:00
 -- url     : https://prove2.me/theorems/9d46072b-717a-4041-88e8-8e3c5852bbff

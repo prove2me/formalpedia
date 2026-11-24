@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LOneLower_lambert
 -- name    : GlobalTheory.LOneLower.lambert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:12.365099+00:00
 -- url     : https://prove2.me/theorems/2f2d8162-465a-4dbe-92ce-db4138cb9912

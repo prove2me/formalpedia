@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_sign_swap
 -- name    : GlobalTheory.KaUnique.sign_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:46:00.332971+00:00
 -- url     : https://prove2.me/theorems/c0862511-d03c-42f0-9884-7ed44965eb5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeDatum_exists_nsmul_mem
 -- name    : GlobalTheory.LatticeDatum.exists_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:58:50.453631+00:00
 -- url     : https://prove2.me/theorems/9882f063-5506-4a49-aa6e-04723380b372

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux11_Norming_eq
 -- name    : Formalism.FourierDecayAlt.P.Ux11.Norming.eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:24:42.940849+00:00
 -- url     : https://prove2.me/theorems/f3f9ab1c-8813-4b0d-b202-eea882acbd3a

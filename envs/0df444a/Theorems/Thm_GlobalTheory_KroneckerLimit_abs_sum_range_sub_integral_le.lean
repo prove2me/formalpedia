@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_abs_sum_range_sub_integral_le
 -- name    : GlobalTheory.KroneckerLimit.abs_sum_range_sub_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:50:48.310497+00:00
 -- url     : https://prove2.me/theorems/1b01931d-be69-47d6-b256-fab8e817443a

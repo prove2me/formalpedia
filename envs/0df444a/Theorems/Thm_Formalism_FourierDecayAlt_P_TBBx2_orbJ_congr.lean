@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx2_orbJ_congr
 -- name    : Formalism.FourierDecayAlt.P.TBBx2.orbJ_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:55:12.778574+00:00
 -- url     : https://prove2.me/theorems/7b025c9a-d096-4058-9284-bc24fb04204d

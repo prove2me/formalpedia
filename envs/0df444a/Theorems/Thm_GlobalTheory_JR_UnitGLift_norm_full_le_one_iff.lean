@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_UnitGLift_norm_full_le_one_iff
 -- name    : GlobalTheory.JR.UnitGLift.norm_full_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:37:13.107376+00:00
 -- url     : https://prove2.me/theorems/b8ef559f-3b18-4f1d-9445-1d2e9e24e1b4

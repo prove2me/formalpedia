@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_exists_max_ext
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.exists_max_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:55:29.682023+00:00
 -- url     : https://prove2.me/theorems/07008ecb-44e2-4aaf-8ffc-9e698ecbd0e2

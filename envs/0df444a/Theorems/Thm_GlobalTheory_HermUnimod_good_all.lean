@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_good_all
 -- name    : GlobalTheory.HermUnimod.good_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:20:00.809288+00:00
 -- url     : https://prove2.me/theorems/7ae579eb-982f-4cae-82b4-d76a2b4a5cd1

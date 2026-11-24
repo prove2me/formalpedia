@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMorK_psi_nil
 -- name    : GlobalTheory.KS.DerMorK.psi_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:44:54.640359+00:00
 -- url     : https://prove2.me/theorems/2727c9ad-62af-4716-8308-634d8fc325f6

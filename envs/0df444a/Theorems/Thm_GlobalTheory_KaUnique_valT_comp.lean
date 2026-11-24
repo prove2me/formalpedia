@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_valT_comp
 -- name    : GlobalTheory.KaUnique.valT_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:49:07.162983+00:00
 -- url     : https://prove2.me/theorems/df3afe48-b055-4642-9384-5d35a43fe96b

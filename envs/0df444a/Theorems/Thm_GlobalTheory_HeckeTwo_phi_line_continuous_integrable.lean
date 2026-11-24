@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_phi_line_continuous_integrable
 -- name    : GlobalTheory.HeckeTwo.phi_line_continuous_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:12:58.849213+00:00
 -- url     : https://prove2.me/theorems/27a08e09-f30f-4fcb-ba26-daf7d9906fb2

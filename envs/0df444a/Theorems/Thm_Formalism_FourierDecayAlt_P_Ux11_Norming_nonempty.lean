@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux11_Norming_nonempty
 -- name    : Formalism.FourierDecayAlt.P.Ux11.Norming.nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:24:00.518819+00:00
 -- url     : https://prove2.me/theorems/a76d1a62-0176-47e6-a5f3-e73854f657fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_phase_dilation_deriv_x
 -- name    : Formalism.FourierDecayAlt.P.B6.phase_dilation_deriv_x
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:04:30.686356+00:00
 -- url     : https://prove2.me/theorems/b389474d-bd25-4f8f-af24-89192297baa3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KoszulCx_ring_eval
 -- name    : GlobalTheory.KeyKa.KoszulCx.ring_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:50:25.629924+00:00
 -- url     : https://prove2.me/theorems/262be5ef-57a3-4580-9186-81b1907c07f5

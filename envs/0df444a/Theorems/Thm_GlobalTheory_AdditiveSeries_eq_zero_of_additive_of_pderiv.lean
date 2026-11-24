@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdditiveSeries_eq_zero_of_additive_of_pderiv
 -- name    : GlobalTheory.AdditiveSeries.eq_zero_of_additive_of_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:23:31.95392+00:00
 -- url     : https://prove2.me/theorems/2e19765e-b527-404e-865c-a2d5e2a692e6

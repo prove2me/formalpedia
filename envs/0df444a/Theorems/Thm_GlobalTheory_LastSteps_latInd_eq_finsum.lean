@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_latInd_eq_finsum
 -- name    : GlobalTheory.LastSteps.latInd_eq_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:56:58.765515+00:00
 -- url     : https://prove2.me/theorems/eed276cb-5fe9-4a66-b900-6be775c66ff0

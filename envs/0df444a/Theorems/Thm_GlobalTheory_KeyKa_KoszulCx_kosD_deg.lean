@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KoszulCx_kosD_deg
 -- name    : GlobalTheory.KeyKa.KoszulCx.kosD_deg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:55:10.76647+00:00
 -- url     : https://prove2.me/theorems/1250de9d-36a8-45c6-b1d5-c4f6b3fdaf79

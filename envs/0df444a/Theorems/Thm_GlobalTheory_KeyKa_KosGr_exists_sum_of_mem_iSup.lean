@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KosGr_exists_sum_of_mem_iSup
 -- name    : GlobalTheory.KeyKa.KosGr.exists_sum_of_mem_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:47:14.662857+00:00
 -- url     : https://prove2.me/theorems/a4dd8fbc-b9fa-4394-9dbe-9ff61b0115e5

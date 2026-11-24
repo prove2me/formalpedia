@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_transfer_invariance_smooth
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.transfer_invariance_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:33:57.528424+00:00
 -- url     : https://prove2.me/theorems/96600d19-7e64-4b3f-97aa-4175bc5657b5

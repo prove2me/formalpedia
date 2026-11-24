@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeSteps_ew_mem_pfil
 -- name    : GlobalTheory.KTypeSteps.ew_mem_pfil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:46:55.854858+00:00
 -- url     : https://prove2.me/theorems/3ede3763-7792-4a32-828c-b73bbb938680

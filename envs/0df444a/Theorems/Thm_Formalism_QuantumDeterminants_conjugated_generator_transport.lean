@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_conjugated_generator_transport
 -- name    : Formalism.QuantumDeterminants.conjugated_generator_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:01:35.148543+00:00
 -- url     : https://prove2.me/theorems/8927edb9-04d5-44ce-9132-ae41faee8d3b

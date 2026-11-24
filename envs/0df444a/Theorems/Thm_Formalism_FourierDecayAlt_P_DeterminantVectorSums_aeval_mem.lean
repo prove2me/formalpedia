@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DeterminantVectorSums_aeval_mem
 -- name    : Formalism.FourierDecayAlt.P.DeterminantVectorSums.aeval_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:32:47.822799+00:00
 -- url     : https://prove2.me/theorems/3d11ff73-fbf6-4ddf-864a-5a7370651285

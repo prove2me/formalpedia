@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HaarExist_meas_nonempty
 -- name    : GlobalTheory.JR.HaarExist.meas_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:30:57.135444+00:00
 -- url     : https://prove2.me/theorems/b2194b77-6c5c-49ff-b677-bc910b866e1a

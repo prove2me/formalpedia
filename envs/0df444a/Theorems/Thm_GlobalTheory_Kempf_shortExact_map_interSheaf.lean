@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Kempf_shortExact_map_interSheaf
 -- name    : GlobalTheory.Kempf.shortExact_map_interSheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:48:31.913569+00:00
 -- url     : https://prove2.me/theorems/b45423be-4120-44e0-b6c1-fd9f81afc295

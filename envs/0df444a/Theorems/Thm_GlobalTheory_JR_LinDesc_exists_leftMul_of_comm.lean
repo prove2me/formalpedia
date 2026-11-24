@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_exists_leftMul_of_comm
 -- name    : GlobalTheory.JR.LinDesc.exists_leftMul_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:28.229251+00:00
 -- url     : https://prove2.me/theorems/14cd4703-c2f5-4fa2-b68c-db1ebdb4b110

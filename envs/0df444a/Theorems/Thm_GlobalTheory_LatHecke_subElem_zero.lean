@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatHecke_subElem_zero
 -- name    : GlobalTheory.LatHecke.subElem_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:57:05.701939+00:00
 -- url     : https://prove2.me/theorems/ecd13645-792f-45f7-ba3c-72b3df7e6815

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_herm_mulVec_eq_adj
 -- name    : GlobalTheory.LatOrb.herm_mulVec_eq_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:58:36.771579+00:00
 -- url     : https://prove2.me/theorems/bee6def0-5e7d-4c0d-adee-484130202515

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_coe_orderAlongComponent_eq_orderAt_genericPoint
 -- name    : FunctorialResolution.EmbeddedResolution.coe_orderAlongComponent_eq_orderAt_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:49:26.336266+00:00
 -- url     : https://prove2.me/theorems/7d9b9e92-bc89-4099-a6c4-1ae0d9622aca

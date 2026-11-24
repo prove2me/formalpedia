@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_mul_kosBlock_inr
 -- name    : GlobalTheory.KeyKa.mul_kosBlock_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:49:55.806244+00:00
 -- url     : https://prove2.me/theorems/e38ca93b-cff4-4c8b-a4ab-02dd89aaa557

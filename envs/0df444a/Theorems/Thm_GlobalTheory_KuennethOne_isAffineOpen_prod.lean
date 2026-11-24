@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KuennethOne_isAffineOpen_prod
 -- name    : GlobalTheory.KuennethOne.isAffineOpen_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:55:50.642509+00:00
 -- url     : https://prove2.me/theorems/333e5012-300a-41fa-8d90-dbde57083773

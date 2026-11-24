@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertFamily_differentiableAt_val
 -- name    : GlobalTheory.KS.VertFamily.differentiableAt_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:49:33.314578+00:00
 -- url     : https://prove2.me/theorems/2dd6f68c-d47f-4734-b944-c4d238102820

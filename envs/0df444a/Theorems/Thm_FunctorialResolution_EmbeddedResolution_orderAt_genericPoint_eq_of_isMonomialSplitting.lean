@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_genericPoint_eq_of_isMonomialSplitting
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_genericPoint_eq_of_isMonomialSplitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:25:18.152233+00:00
 -- url     : https://prove2.me/theorems/54b30d81-2935-4a3f-b687-99557d5f03fc

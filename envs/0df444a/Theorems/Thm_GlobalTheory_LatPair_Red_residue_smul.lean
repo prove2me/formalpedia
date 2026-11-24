@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Red_residue_smul
 -- name    : GlobalTheory.LatPair.Red.residue_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:58:46.832615+00:00
 -- url     : https://prove2.me/theorems/db3bcad3-831a-4787-a791-e110bf2e55a4

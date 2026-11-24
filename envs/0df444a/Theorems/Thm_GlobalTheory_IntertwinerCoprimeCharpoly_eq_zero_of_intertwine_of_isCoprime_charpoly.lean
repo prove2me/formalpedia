@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntertwinerCoprimeCharpoly_eq_zero_of_intertwine_of_isCoprime_charpoly
 -- name    : GlobalTheory.IntertwinerCoprimeCharpoly.eq_zero_of_intertwine_of_isCoprime_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:20:20.52658+00:00
 -- url     : https://prove2.me/theorems/7aa21f1c-55ed-4f1f-b278-8d72bf85e020

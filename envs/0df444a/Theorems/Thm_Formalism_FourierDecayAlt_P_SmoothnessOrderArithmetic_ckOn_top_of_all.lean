@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_ckOn_top_of_all
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.ckOn_top_of_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:29:26.474494+00:00
 -- url     : https://prove2.me/theorems/974bc1f9-b849-4245-a5ef-aa98651b42ce

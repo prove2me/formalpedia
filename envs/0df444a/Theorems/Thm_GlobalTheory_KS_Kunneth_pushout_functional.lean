@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Kunneth_pushout_functional
 -- name    : GlobalTheory.KS.Kunneth.pushout_functional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:45:56.614865+00:00
 -- url     : https://prove2.me/theorems/8d330302-d90f-41bc-9343-3b05699d7e3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_isTest_mOp
 -- name    : GlobalTheory.JR.WeilQuad.isTest_mOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:38:54.103987+00:00
 -- url     : https://prove2.me/theorems/04337f6b-8d97-4fd7-b671-3b461ea54d82

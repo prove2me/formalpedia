@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_isTestRep_transRep
 -- name    : GlobalTheory.JR.WeilProd.isTestRep_transRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:38:08.071386+00:00
 -- url     : https://prove2.me/theorems/27221e7f-23d0-4883-a542-a2ba6ee7265d

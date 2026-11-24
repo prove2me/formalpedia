@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaAlmostAll_finite_ramified
 -- name    : GlobalTheory.InertiaAlmostAll.finite_ramified
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:03.367968+00:00
 -- url     : https://prove2.me/theorems/108576f2-74fc-4001-9fae-3afd070dd19a

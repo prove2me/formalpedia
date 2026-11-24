@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistributionTheoryMission_wave_kernel_agreement
 -- name    : DistributionTheoryMission.wave_kernel_agreement
--- status  : Open
+-- status  : Proved
 -- author  : @liuyao
 -- created : 2026-11-16T02:08:24.483209+00:00
 -- url     : https://prove2.me/theorems/bf81060e-b62c-4a02-b88b-2832f5bcbc99

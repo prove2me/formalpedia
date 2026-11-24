@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_RedBasicsPf_mk_sum__ba6933ed2daa
 -- name    : P2M_Formalism_L2_SG_Pf_RedBasicsPf_mk_sum__ba6933ed2daa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:27:38.936929+00:00
 -- url     : https://prove2.me/theorems/749be79c-0454-43db-976f-43fda1f624a8

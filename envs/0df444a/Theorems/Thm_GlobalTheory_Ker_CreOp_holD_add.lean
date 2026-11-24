@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ker_CreOp_holD_add
 -- name    : GlobalTheory.Ker.CreOp.holD_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:47:58.398796+00:00
 -- url     : https://prove2.me/theorems/8d3af286-9372-421d-bb70-5cd8221642f6

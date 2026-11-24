@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GoodRecipPf_rev_natDegree
 -- name    : Formalism.L2.SG.Pf.GoodRecipPf.rev_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:27:51.524797+00:00
 -- url     : https://prove2.me/theorems/56787224-84be-46b1-8711-c4e4c9579b48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_inDual_of_lifts
 -- name    : GlobalTheory.LastSteps.inDual_of_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:56:40.922061+00:00
 -- url     : https://prove2.me/theorems/dfc3ab8f-6a59-4709-831c-b8350a609359

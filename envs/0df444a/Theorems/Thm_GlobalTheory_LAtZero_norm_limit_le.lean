@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LAtZero_norm_limit_le
 -- name    : GlobalTheory.LAtZero.norm_limit_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:56:09.940122+00:00
 -- url     : https://prove2.me/theorems/993d9ddc-058e-4bf1-9312-af78584b1c4c

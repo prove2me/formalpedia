@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_exists_toJet_eq
 -- name    : GlobalTheory.JetSer.exists_toJet_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:41:13.123985+00:00
 -- url     : https://prove2.me/theorems/e32dc1a1-a14c-448d-af6a-215d3906b264

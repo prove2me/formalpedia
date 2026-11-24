@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDiag_exists_orthogonal_basis_apply_eq
 -- name    : GlobalTheory.HermDiag.exists_orthogonal_basis_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:19:49.525984+00:00
 -- url     : https://prove2.me/theorems/b99b9e7f-bc89-4c0b-874f-890c9f2b5441

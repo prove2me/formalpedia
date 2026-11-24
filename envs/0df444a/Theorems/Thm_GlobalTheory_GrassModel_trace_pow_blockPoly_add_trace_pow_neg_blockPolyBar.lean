@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrassModel_trace_pow_blockPoly_add_trace_pow_neg_blockPolyBar
 -- name    : GlobalTheory.GrassModel.trace_pow_blockPoly_add_trace_pow_neg_blockPolyBar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:57:59.093411+00:00
 -- url     : https://prove2.me/theorems/89fdb7c0-f2ab-4768-a9fa-a988019f77d4

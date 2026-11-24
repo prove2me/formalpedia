@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OKCompact_continuous_coeff_lmul
 -- name    : GlobalTheory.JR.OKCompact.continuous_coeff_lmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:56.296791+00:00
 -- url     : https://prove2.me/theorems/53e96b50-fc3e-4b8d-b7be-fc1a63b113a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_isKum_mul
 -- name    : GlobalTheory.K5.Basic.isKum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:42:01.912595+00:00
 -- url     : https://prove2.me/theorems/05c1340c-aa85-4419-a74a-c1168cb62d53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_exists_nhds_zero_add_invariant_of_isTest
 -- name    : GlobalTheory.JR.exists_nhds_zero_add_invariant_of_isTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:39:08.41213+00:00
 -- url     : https://prove2.me/theorems/8a2a0d67-768d-4b0e-aa7c-15c2c00e5c4e

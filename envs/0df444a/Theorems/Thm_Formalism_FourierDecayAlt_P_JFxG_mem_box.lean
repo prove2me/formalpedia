@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxG_mem_box
 -- name    : Formalism.FourierDecayAlt.P.JFxG.mem_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:18:55.041137+00:00
 -- url     : https://prove2.me/theorems/983468e2-4243-4cfe-8dde-cafc2df1f372

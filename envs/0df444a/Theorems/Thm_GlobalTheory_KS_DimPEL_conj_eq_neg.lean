@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DimPEL_conj_eq_neg
 -- name    : GlobalTheory.KS.DimPEL.conj_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:44:18.35049+00:00
 -- url     : https://prove2.me/theorems/c629d19a-31dd-43f6-9d66-32fdd13e2473

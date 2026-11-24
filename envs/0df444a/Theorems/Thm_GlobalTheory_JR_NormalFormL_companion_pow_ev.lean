@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_companion_pow_ev
 -- name    : GlobalTheory.JR.NormalFormL.companion_pow_ev
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:38:26.948786+00:00
 -- url     : https://prove2.me/theorems/ebac6607-0031-4ff7-b893-bd3259c299e7

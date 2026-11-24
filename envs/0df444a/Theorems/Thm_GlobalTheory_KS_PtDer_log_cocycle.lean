@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_PtDer_log_cocycle
 -- name    : GlobalTheory.KS.PtDer.log_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:00:56.608985+00:00
 -- url     : https://prove2.me/theorems/15f98bec-cadf-47a6-953b-f0e8135cb305

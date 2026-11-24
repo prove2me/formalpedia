@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_rep_jetAug_comp_zero
 -- name    : GlobalTheory.JetSer.rep_jetAug_comp_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:42:28.879024+00:00
 -- url     : https://prove2.me/theorems/830a0777-84f1-4e29-bc42-e99af41580e4

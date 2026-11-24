@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IsFPt_zero_eq_one
 -- name    : GlobalTheory.JetSer.IsFPt.zero_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:41:56.620498+00:00
 -- url     : https://prove2.me/theorems/f7c479c0-6078-4b6f-9e46-5dd8780dffc0

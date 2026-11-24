@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_finrank_le
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:27:22.489376+00:00
 -- url     : https://prove2.me/theorems/17f2a2ea-12d1-47c7-a200-5ea1e3f08ebc

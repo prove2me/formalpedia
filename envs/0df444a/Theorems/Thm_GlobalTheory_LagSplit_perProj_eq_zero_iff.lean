@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_perProj_eq_zero_iff
 -- name    : GlobalTheory.LagSplit.perProj_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:57:18.105329+00:00
 -- url     : https://prove2.me/theorems/dd657ab7-e719-46e6-9b8d-3ef12d206d4d

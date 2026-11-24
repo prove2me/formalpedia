@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_ProdLift_exists_der_of_isPushout
 -- name    : GlobalTheory.KS.ProdLift.exists_der_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:45:48.441987+00:00
 -- url     : https://prove2.me/theorems/c106a605-ac21-4e2a-8602-9c87d759d2a0

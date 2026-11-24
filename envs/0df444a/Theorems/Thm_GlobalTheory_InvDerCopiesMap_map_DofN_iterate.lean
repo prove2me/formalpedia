@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDerCopiesMap_map_DofN_iterate
 -- name    : GlobalTheory.InvDerCopiesMap.map_DofN_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:20:32.953498+00:00
 -- url     : https://prove2.me/theorems/34df2ae3-9222-486d-a96d-9deef98c892e

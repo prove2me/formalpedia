@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IntTrans_nabVal_eq
 -- name    : GlobalTheory.JetSer.IntTrans.nabVal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:41:36.471276+00:00
 -- url     : https://prove2.me/theorems/200d81ad-0e4b-43cc-8548-e4058210c650

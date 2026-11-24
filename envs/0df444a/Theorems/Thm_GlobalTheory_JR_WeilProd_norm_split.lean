@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_norm_split
 -- name    : GlobalTheory.JR.WeilProd.norm_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:37:44.989157+00:00
 -- url     : https://prove2.me/theorems/d15fc8cc-501c-4063-a02f-21175ecf73be

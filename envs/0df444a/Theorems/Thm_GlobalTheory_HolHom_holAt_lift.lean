@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_holAt_lift
 -- name    : GlobalTheory.HolHom.holAt_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:29.334534+00:00
 -- url     : https://prove2.me/theorems/f4401c70-4cc6-41f6-acf0-762a1f9fc9d6

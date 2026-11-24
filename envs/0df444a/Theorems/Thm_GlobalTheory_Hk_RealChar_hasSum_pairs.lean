@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_hasSum_pairs
 -- name    : GlobalTheory.Hk.RealChar.hasSum_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:36:55.713013+00:00
 -- url     : https://prove2.me/theorems/a729d59d-9a55-493c-a815-4d4901fe2a3f

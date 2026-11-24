@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeDomain_jW_isUnit
 -- name    : GlobalTheory.HodgeDomain.jW_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:13.06194+00:00
 -- url     : https://prove2.me/theorems/242198ed-fbe4-4286-9bae-adae3ea66254

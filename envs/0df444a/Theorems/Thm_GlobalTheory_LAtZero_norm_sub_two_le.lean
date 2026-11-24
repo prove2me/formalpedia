@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LAtZero_norm_sub_two_le
 -- name    : GlobalTheory.LAtZero.norm_sub_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:56:03.624435+00:00
 -- url     : https://prove2.me/theorems/ca237e31-dab9-462b-9c73-92caad1b05fe

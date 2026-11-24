@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_sum_sc
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.sum_sc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:20:16.770796+00:00
 -- url     : https://prove2.me/theorems/ac4265fc-51f8-49f0-9bee-412778ce1816

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_card_bcParam
 -- name    : GlobalTheory.LGrp.card_bcParam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:55:33.130425+00:00
 -- url     : https://prove2.me/theorems/14e07ffc-f195-47f9-8dc3-c1c684693c75

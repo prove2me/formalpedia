@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KZ_Betti_exists_isDiam
 -- name    : GlobalTheory.KZ.Betti.exists_isDiam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:46:42.156804+00:00
 -- url     : https://prove2.me/theorems/8d498d2f-6717-4aaa-a043-2d97f49b49e8

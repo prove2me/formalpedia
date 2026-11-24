@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_riemann_hypothesis_stepanov_bound
 -- name    : riemann_hypothesis_stepanov_bound
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:23.5874+00:00
 -- url     : https://prove2.me/theorems/0d9a1826-2416-41fb-9aa3-58c3e4110331

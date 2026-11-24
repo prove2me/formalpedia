@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_eq_of_eqOn_compl_lattice
 -- name    : GlobalTheory.JetConj.eq_of_eqOn_compl_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:33.920006+00:00
 -- url     : https://prove2.me/theorems/1181232f-f417-4734-b67a-d4f15c10d6a3

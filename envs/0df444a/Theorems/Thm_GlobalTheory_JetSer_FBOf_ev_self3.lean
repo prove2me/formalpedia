@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FBOf_ev_self3
 -- name    : GlobalTheory.JetSer.FBOf.ev_self3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:40:05.883021+00:00
 -- url     : https://prove2.me/theorems/c22305a6-5566-4926-ba4d-ff372325342e

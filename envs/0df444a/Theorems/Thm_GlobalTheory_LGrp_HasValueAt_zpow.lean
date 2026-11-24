@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_HasValueAt_zpow
 -- name    : GlobalTheory.LGrp.HasValueAt.zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:11:28.95404+00:00
 -- url     : https://prove2.me/theorems/6c10c915-9b37-4f59-afc4-9225a36bfd3f

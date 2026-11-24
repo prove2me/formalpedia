@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_isConj_iff_galE
 -- name    : Formalism.FrobeniusOrbits.isConj_iff_galE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:23:32.787024+00:00
 -- url     : https://prove2.me/theorems/43f806f7-489b-4918-95ab-0c9876172484

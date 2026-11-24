@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIndicator_exists_injective_comp_eq_of_surjective
 -- name    : GlobalTheory.LatticeIndicator.exists_injective_comp_eq_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:00:15.436814+00:00
 -- url     : https://prove2.me/theorems/a4987f5b-0ba1-4be1-95a3-8589fc66676d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Endo_ptDer_push
 -- name    : GlobalTheory.KS.Endo.ptDer_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:44:51.864718+00:00
 -- url     : https://prove2.me/theorems/d6066ac0-a38e-4987-a928-f8e5b486b64a

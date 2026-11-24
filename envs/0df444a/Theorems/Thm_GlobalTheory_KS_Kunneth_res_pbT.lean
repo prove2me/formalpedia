@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Kunneth_res_pbT
 -- name    : GlobalTheory.KS.Kunneth.res_pbT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:44:52.428345+00:00
 -- url     : https://prove2.me/theorems/9749b25a-90c7-4e85-9506-57e9059944b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_top_le_preimage_of_dualFst_comp
 -- name    : GlobalTheory.KS.top_le_preimage_of_dualFst_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:46:40.205009+00:00
 -- url     : https://prove2.me/theorems/8621ee19-cac0-49b3-b2b3-4167230fb3fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_TensorTest_isTest_sum
 -- name    : GlobalTheory.JR.WeilProd.TensorTest.isTest_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:51:30.39081+00:00
 -- url     : https://prove2.me/theorems/70b39219-7d2b-4d8b-96d8-7b4f9c0ad20c

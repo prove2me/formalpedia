@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_SquareField_constFn_one
 -- name    : GlobalTheory.KS.SquareField.constFn_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:46:43.150506+00:00
 -- url     : https://prove2.me/theorems/37a63240-d772-4e23-9d69-5f60392288ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_IsLAdicOf_mul
 -- name    : GlobalTheory.HeckeGal.IsLAdicOf.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:00.928619+00:00
 -- url     : https://prove2.me/theorems/4b08d1fd-429e-48de-8639-b38e58431cfe

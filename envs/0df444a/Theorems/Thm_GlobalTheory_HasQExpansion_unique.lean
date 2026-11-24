@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasQExpansion_unique
 -- name    : GlobalTheory.HasQExpansion.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:47.158032+00:00
 -- url     : https://prove2.me/theorems/00d699df-5043-422a-b8c4-57798bd99401

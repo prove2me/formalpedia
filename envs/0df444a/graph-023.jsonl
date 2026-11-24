@@ -9148,7 +9148,7 @@
 {"parent": "CutwidthCircuitLB.lemma_2_2", "child": "CutwidthCircuitLB_ROBP_IsAcceptingPath", "via": ["statement"]}
 {"parent": "CutwidthCircuitLB.lemma_2_2", "child": "CutwidthCircuitLB_ROBP", "via": ["statement"]}
 {"parent": "CutwidthCircuitLB.lemma_2_2", "child": "CutwidthCircuitLB_ROBP_past", "via": ["statement"]}
-{"parent": "OptHedgeGames.lemma_A_2", "child": "OptHedgeGames_Notation", "via": ["statement"]}
+{"parent": "OptHedgeGames.lemma_A_2", "child": "OptHedgeGames_Notation", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Level.exists_median", "child": "AaronsonAmbainis_Level_Median", "via": ["solution", "statement"]}
 {"parent": "TwoFoldOPI_wordBits", "child": "TwoFoldOPI_elemBits", "via": ["statement"]}
 {"parent": "QEC.Coding.Why24AppendixANF.sourceCoefficient_pair", "child": "QEC_Coding_QuditQubitConversion_AppendixANF_Quadratic_PartD", "via": ["solution", "statement"]}

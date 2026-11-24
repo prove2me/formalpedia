@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_SquareField_isTangent_one
 -- name    : GlobalTheory.KS.SquareField.isTangent_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:45:36.899491+00:00
 -- url     : https://prove2.me/theorems/dab63879-36ee-427f-a80d-7b288319eb58

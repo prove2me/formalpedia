@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvHom_tan_sc
 -- name    : GlobalTheory.KS.InvHom.tan_sc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:00:41.544838+00:00
 -- url     : https://prove2.me/theorems/df8eae30-9b95-4a90-9515-bd84c02c8754

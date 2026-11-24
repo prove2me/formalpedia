@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoUnit_fTerm_unit_move
 -- name    : GlobalTheory.HeckeTwoUnit.fTerm_unit_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:15:24.230743+00:00
 -- url     : https://prove2.me/theorems/245c34b7-06e7-46e2-b270-c90724f594c6

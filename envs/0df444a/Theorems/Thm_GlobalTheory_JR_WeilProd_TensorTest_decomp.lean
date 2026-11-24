@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_TensorTest_decomp
 -- name    : GlobalTheory.JR.WeilProd.TensorTest.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:37:21.638165+00:00
 -- url     : https://prove2.me/theorems/c88ee6f4-207c-4034-98ce-8b598c416e5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertFib_top_le_of_epsPt
 -- name    : GlobalTheory.KS.VertFib.top_le_of_epsPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:48:34.807806+00:00
 -- url     : https://prove2.me/theorems/1b05cf61-69b4-4574-8f09-26a1d56bb2b7

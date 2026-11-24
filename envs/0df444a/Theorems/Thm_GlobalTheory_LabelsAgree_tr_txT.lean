@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_tr_txT
 -- name    : GlobalTheory.LabelsAgree.tr_txT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:58:13.343652+00:00
 -- url     : https://prove2.me/theorems/d404d260-c31d-4432-84da-e6a7d408852f

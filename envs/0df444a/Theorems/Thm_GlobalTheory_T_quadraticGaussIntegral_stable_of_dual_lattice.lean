@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadraticGaussIntegral_stable_of_dual_lattice
 -- name    : GlobalTheory.T.quadraticGaussIntegral_stable_of_dual_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:13:31.343445+00:00
 -- url     : https://prove2.me/theorems/877546b3-574a-4af6-8344-526b9bb9b2b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_LeviSum_core
 -- name    : GlobalTheory.InertZeta.LeviSum.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:21:35.46445+00:00
 -- url     : https://prove2.me/theorems/c8801575-8892-4064-8a86-aa621ab5bcd2

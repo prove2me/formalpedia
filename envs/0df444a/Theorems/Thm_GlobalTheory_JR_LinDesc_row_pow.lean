@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_row_pow
 -- name    : GlobalTheory.JR.LinDesc.row_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:34:45.223217+00:00
 -- url     : https://prove2.me/theorems/280ac573-e23e-4958-872e-c858e2b67e86

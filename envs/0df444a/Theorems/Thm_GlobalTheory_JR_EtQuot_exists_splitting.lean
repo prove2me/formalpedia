@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtQuot_exists_splitting
 -- name    : GlobalTheory.JR.EtQuot.exists_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:31:35.6128+00:00
 -- url     : https://prove2.me/theorems/df1a6db0-456d-414e-9059-35a8dbf7f46a

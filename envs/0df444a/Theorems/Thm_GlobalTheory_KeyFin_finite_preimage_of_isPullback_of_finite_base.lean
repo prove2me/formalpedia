@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyFin_finite_preimage_of_isPullback_of_finite_base
 -- name    : GlobalTheory.KeyFin.finite_preimage_of_isPullback_of_finite_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:03:24.889312+00:00
 -- url     : https://prove2.me/theorems/bed25643-efa8-4fba-8761-fef01f4a369e

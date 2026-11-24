@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_iteratedDeriv_mem
 -- name    : GlobalTheory.HeckeTwo.HDecay.iteratedDeriv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:01:38.272377+00:00
 -- url     : https://prove2.me/theorems/a12bf504-6c9e-4624-9341-405b7861e3d9

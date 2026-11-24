@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacobiDeriv_thetaChar_half_half
 -- name    : GlobalTheory.JacobiDeriv.thetaChar_half_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:39.739433+00:00
 -- url     : https://prove2.me/theorems/5388f83b-0539-4338-b985-dd31d0eb4447

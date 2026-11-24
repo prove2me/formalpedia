@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SuppBdd_Bm_actU
 -- name    : GlobalTheory.JR.SuppBdd.Bm_actU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:38:37.160354+00:00
 -- url     : https://prove2.me/theorems/8ddd975d-9772-4a04-9799-ab6481089075

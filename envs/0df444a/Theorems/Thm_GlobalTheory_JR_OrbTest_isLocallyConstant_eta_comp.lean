@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbTest_isLocallyConstant_eta_comp
 -- name    : GlobalTheory.JR.OrbTest.isLocallyConstant_eta_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:35:27.813545+00:00
 -- url     : https://prove2.me/theorems/eba98ca1-0601-4d31-8d95-63a87bde2c58

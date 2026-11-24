@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OM_SchDiff_temperate_exp
 -- name    : GlobalTheory.CompanionTheory.OM.SchDiff.temperate_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:19:57.789063+00:00
 -- url     : https://prove2.me/theorems/4157f4a6-9f46-4d10-91a0-81759a60c569

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_RankOneTransfer_lam_integrand_cont
 -- name    : GlobalTheory.JR.RankOneTransfer.lam_integrand_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:38:16.45779+00:00
 -- url     : https://prove2.me/theorems/bfb53ce8-3966-445d-aede-4b20f638713e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_not_isNormPow_of_not_unrAt
 -- name    : GlobalTheory.HeckeOne.not_isNormPow_of_not_unrAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:04:15.532831+00:00
 -- url     : https://prove2.me/theorems/281c2aaf-90be-4e94-9eaa-e83c028c2e24

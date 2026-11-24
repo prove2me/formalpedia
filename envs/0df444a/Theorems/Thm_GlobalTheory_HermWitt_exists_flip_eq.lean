@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_exists_flip_eq
 -- name    : GlobalTheory.HermWitt.exists_flip_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:19:58.914272+00:00
 -- url     : https://prove2.me/theorems/f6d6f53b-b782-44d5-8eab-c12acf6fc049

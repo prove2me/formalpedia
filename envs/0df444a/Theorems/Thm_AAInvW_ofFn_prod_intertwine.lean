@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ofFn_prod_intertwine
 -- name    : AAInvW.ofFn_prod_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:25:43.953202+00:00
 -- url     : https://prove2.me/theorems/d393e110-01af-442c-8f6e-24cd75cd9f60

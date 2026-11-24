@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMor_appLE_app_of_section
 -- name    : GlobalTheory.KS.DerMor.appLE_app_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:43:25.3198+00:00
 -- url     : https://prove2.me/theorems/a1cd5410-f357-40c7-9634-2376b0fb5887

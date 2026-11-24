@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_TransferFactor_vrow_succ_cast
 -- name    : GlobalTheory.JR.TransferFactor.vrow_succ_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:36:44.410325+00:00
 -- url     : https://prove2.me/theorems/1d113350-62e0-42d8-baad-9852fcb8ed1a

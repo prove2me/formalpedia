@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_coord_heis
 -- name    : Formalism.FourierDecayAlt.P.B2x5.coord_heis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:54:11.801679+00:00
 -- url     : https://prove2.me/theorems/b0a55fda-2571-4dee-9244-6b676d601880

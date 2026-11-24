@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaplaceStrip_norm_integrand
 -- name    : GlobalTheory.LaplaceStrip.norm_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:57:33.721656+00:00
 -- url     : https://prove2.me/theorems/51b276c8-17c5-4bf9-96d9-56ec0479d29f

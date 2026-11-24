@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_rep_jetAug_comp_trunc
 -- name    : GlobalTheory.JetSer.rep_jetAug_comp_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:42:34.863059+00:00
 -- url     : https://prove2.me/theorems/0b48f3df-148d-43e9-a4d1-8dde76acec50

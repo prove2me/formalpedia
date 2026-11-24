@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LLower_tsum_one_div_rpow_le
 -- name    : GlobalTheory.LLower.tsum_one_div_rpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:56:01.907799+00:00
 -- url     : https://prove2.me/theorems/a97b5a44-f236-42b9-b281-5e16c6810299

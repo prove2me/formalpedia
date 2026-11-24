@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_existsUnique_coboundary_param
 -- name    : GlobalTheory.FormalCalc.existsUnique_coboundary_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:33:54.686989+00:00
 -- url     : https://prove2.me/theorems/7e1a342b-82db-43a6-9f86-8cc1669d82b0

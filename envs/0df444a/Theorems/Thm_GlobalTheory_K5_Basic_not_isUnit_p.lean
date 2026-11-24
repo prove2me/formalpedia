@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_not_isUnit_p
 -- name    : GlobalTheory.K5.Basic.not_isUnit_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:41:49.205985+00:00
 -- url     : https://prove2.me/theorems/4435e6bb-a497-4591-991c-39d67a2dadb5

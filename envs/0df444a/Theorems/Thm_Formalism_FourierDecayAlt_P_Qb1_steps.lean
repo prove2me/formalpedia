@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qb1_steps
 -- name    : Formalism.FourierDecayAlt.P.Qb1.steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:20:45.494713+00:00
 -- url     : https://prove2.me/theorems/8b374f33-6b5c-480a-9629-a3af6abb9a9a

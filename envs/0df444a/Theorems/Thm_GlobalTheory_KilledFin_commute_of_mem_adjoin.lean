@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KilledFin_commute_of_mem_adjoin
 -- name    : GlobalTheory.KilledFin.commute_of_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:49:16.523891+00:00
 -- url     : https://prove2.me/theorems/a88a2eca-fc8f-4648-a6a6-14480ef81466

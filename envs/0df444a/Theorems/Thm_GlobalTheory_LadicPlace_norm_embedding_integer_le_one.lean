@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LadicPlace_norm_embedding_integer_le_one
 -- name    : GlobalTheory.LadicPlace.norm_embedding_integer_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:57:03.754132+00:00
 -- url     : https://prove2.me/theorems/a2ac1fcf-7279-457b-9d58-79979500b382

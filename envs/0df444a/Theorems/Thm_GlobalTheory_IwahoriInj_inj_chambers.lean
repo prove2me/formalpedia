@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_inj_chambers
 -- name    : GlobalTheory.IwahoriInj.inj_chambers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:22:36.349871+00:00
 -- url     : https://prove2.me/theorems/861201a3-9b6b-4a8c-af32-08119b37a6dd

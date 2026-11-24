@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_wsum_hasDeriv
 -- name    : Formalism.FourierDecayAlt.P.JFxB.wsum_hasDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:26:11.069516+00:00
 -- url     : https://prove2.me/theorems/5f7bbe38-3129-4f5f-ac09-3d1fe1bb12e6

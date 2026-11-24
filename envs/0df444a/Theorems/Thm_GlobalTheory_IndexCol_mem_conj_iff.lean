@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexCol_mem_conj_iff
 -- name    : GlobalTheory.IndexCol.mem_conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:15:38.573803+00:00
 -- url     : https://prove2.me/theorems/210b91cd-14f1-42b3-8076-59a39bdf2953

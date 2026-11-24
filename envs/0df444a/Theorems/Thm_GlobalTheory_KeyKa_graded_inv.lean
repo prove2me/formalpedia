@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_graded_inv
 -- name    : GlobalTheory.KeyKa.graded_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:49:32.679086+00:00
 -- url     : https://prove2.me/theorems/719a957a-3709-4928-8141-7bd03cf0cc63

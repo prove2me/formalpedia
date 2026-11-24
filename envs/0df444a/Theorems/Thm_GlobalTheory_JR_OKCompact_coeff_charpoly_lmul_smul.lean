@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OKCompact_coeff_charpoly_lmul_smul
 -- name    : GlobalTheory.JR.OKCompact.coeff_charpoly_lmul_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:30.401797+00:00
 -- url     : https://prove2.me/theorems/52146923-e0f7-41f8-891b-8c9edb198e77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Primitive_exists_split
 -- name    : GlobalTheory.KS.Primitive.exists_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:45:04.131795+00:00
 -- url     : https://prove2.me/theorems/b7fff528-043a-4b8e-a17f-ddb3a8e9203e

@@ -1,0 +1,43 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_coordinate_sizes_in_norm
+-- name    : Formalism.FourierDecayAlt.P.coordinate_sizes_in_norm
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-24T18:46:30.439921+00:00
+-- url     : https://prove2.me/theorems/50c1fa95-d084-4bc8-98ce-40b0263faf78
+-- title:
+--   P: coordinate sizes in norm
+-- statement:
+--   The P construction uses the coordinate sizes in norm property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/DerivativeBoundInBanachSpace.lean#L20-L21
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/DerivativeBoundInBanachSpace.lean#L20-L21
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementU
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactlySupportedBanachModel
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixTranspose
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixMul
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DirectionsInParabolic
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CoordinateSizesOfHypotheses
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BudgetTopConvergence
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SeminormCompletion
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CorollaryU1Truncated
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WeakToStrongSmoothnessReal
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TopCellsOfParts
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CorollaryU1Plain
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AdditiveCharacterPsi
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ChangeOfVariablesXy
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DerivativeBoundInBanachSpace
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+
+theorem Formalism.FourierDecayAlt.P.coordinate_sizes_in_norm : Formalism.FourierDecayAlt.U.SliceCoordinateSizes := by sorry

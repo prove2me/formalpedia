@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelNoTorsion_eq_of_isSchemeTheoreticallyDominant
 -- name    : GlobalTheory.KernelNoTorsion.eq_of_isSchemeTheoreticallyDominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:47:32.200612+00:00
 -- url     : https://prove2.me/theorems/4e19ddfa-6b66-4a5e-94a4-d7c3348340be

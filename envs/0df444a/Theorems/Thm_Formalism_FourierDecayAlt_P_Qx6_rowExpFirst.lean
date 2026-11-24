@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_rowExpFirst
 -- name    : Formalism.FourierDecayAlt.P.Qx6.rowExpFirst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:35:19.280535+00:00
 -- url     : https://prove2.me/theorems/08e1ecf7-064c-4e15-9a8d-4257415d613e

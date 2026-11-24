@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_smallCorner_of_heis_dual
 -- name    : GlobalTheory.InertZeta.smallCorner_of_heis_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:49.696265+00:00
 -- url     : https://prove2.me/theorems/22b69f66-4b0b-441c-a9c8-8e606f4ff92d

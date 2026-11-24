@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMor_cH_spMap
 -- name    : GlobalTheory.KS.DerMor.cH_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:42:49.745926+00:00
 -- url     : https://prove2.me/theorems/d3eab8a8-cc29-45f4-beb0-c77e14f0765f

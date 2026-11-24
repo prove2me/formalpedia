@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_emb_preimage_glO
 -- name    : GlobalTheory.JR.GLift.emb_preimage_glO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:32.9905+00:00
 -- url     : https://prove2.me/theorems/52faf071-71b5-44f6-ba50-9829fb7cd647

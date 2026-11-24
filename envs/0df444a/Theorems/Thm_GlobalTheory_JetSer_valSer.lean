@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_valSer
 -- name    : GlobalTheory.JetSer.valSer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:42:00.224223+00:00
 -- url     : https://prove2.me/theorems/b78798d1-9051-47cd-8fbb-9fb9dbaa0b23

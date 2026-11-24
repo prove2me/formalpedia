@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PT_simple_transp
 -- name    : Formalism.L2.PT.simple_transp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:09:16.411896+00:00
 -- url     : https://prove2.me/theorems/711ff483-1c46-4b65-b41a-289130e78224

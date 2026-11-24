@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IterDProd_iterD_prod
 -- name    : GlobalTheory.IterDProd.iterD_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:22:27.677247+00:00
 -- url     : https://prove2.me/theorems/02c8f00a-5eb5-43fe-9b34-729e97115610

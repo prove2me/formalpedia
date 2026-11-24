@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LOneLower_char_sum_bound
 -- name    : GlobalTheory.LOneLower.char_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:04.459801+00:00
 -- url     : https://prove2.me/theorems/88732e8a-18fc-4543-9ed7-5b10514b8f75

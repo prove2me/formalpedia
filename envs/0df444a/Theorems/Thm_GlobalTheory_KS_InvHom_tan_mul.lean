@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvHom_tan_mul
 -- name    : GlobalTheory.KS.InvHom.tan_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:45:51.770869+00:00
 -- url     : https://prove2.me/theorems/19f5b1b0-d6e7-40c1-b847-bb962dee1fe4

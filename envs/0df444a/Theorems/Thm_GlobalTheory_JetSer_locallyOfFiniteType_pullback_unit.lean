@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_locallyOfFiniteType_pullback_unit
 -- name    : GlobalTheory.JetSer.locallyOfFiniteType_pullback_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:41:46.851278+00:00
 -- url     : https://prove2.me/theorems/aba49072-3b89-4b50-905d-1c991d51e4b2

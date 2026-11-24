@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FBOf_unit_mem_cube
 -- name    : GlobalTheory.JetSer.FBOf.unit_mem_cube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:40:12.718061+00:00
 -- url     : https://prove2.me/theorems/0bced7c5-402d-4dfc-af04-4ec12be1631f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IsMapOf_twoChart_rep_of_id
 -- name    : GlobalTheory.JetSer.IsMapOf.twoChart_rep_of_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:41:53.483312+00:00
 -- url     : https://prove2.me/theorems/23ecb33a-7dbb-4311-9031-62312bf79c95

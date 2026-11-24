@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarScaling_AB_le
 -- name    : Formalism.FourierDecayAlt.P.HaarScaling.AB_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:09:57.853137+00:00
 -- url     : https://prove2.me/theorems/0dbbc5e1-3447-48be-be9a-88272ee57d27

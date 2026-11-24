@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatHecke_glMap_smul
 -- name    : GlobalTheory.LatHecke.glMap_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:57:13.94222+00:00
 -- url     : https://prove2.me/theorems/a990db56-09e3-4fd0-9273-31a55cac5ec8

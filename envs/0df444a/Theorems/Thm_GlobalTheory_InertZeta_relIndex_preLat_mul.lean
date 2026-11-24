@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_relIndex_preLat_mul
 -- name    : GlobalTheory.InertZeta.relIndex_preLat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:18.007833+00:00
 -- url     : https://prove2.me/theorems/86c0ec4f-7300-45b1-a9b6-f908ba675760

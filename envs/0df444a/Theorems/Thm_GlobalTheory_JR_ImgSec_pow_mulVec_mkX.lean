@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_pow_mulVec_mkX
 -- name    : GlobalTheory.JR.ImgSec.pow_mulVec_mkX
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:39:38.338845+00:00
 -- url     : https://prove2.me/theorems/06a15373-0bdb-4888-9c82-9dbb5cb35333

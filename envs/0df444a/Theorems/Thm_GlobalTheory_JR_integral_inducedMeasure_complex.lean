@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_integral_inducedMeasure_complex
 -- name    : GlobalTheory.JR.integral_inducedMeasure_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:38:10.938915+00:00
 -- url     : https://prove2.me/theorems/31eca97f-857d-4dc7-adb4-4a4a3b654a19

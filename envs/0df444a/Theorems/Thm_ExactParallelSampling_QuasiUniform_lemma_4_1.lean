@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactParallelSampling_QuasiUniform_lemma_4_1
 -- name    : ExactParallelSampling.QuasiUniform.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T20:49:50.114841+00:00
 -- url     : https://prove2.me/theorems/c5302b75-63b2-46d6-b09e-9ce6bfccd784

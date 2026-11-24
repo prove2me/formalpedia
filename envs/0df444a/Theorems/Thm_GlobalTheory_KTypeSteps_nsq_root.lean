@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeSteps_nsq_root
 -- name    : GlobalTheory.KTypeSteps.nsq_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:47:09.069797+00:00
 -- url     : https://prove2.me/theorems/8473be86-0ae6-4a22-8f6d-12c14ffe77e8

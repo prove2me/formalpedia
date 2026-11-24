@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_offs_add_le
 -- name    : Formalism.L2.NT.offs_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:23.745878+00:00
 -- url     : https://prove2.me/theorems/85d57d61-b5b7-4f18-ba26-df34100fbae2

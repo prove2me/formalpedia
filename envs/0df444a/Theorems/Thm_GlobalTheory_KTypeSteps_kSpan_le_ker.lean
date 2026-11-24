@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeSteps_kSpan_le_ker
 -- name    : GlobalTheory.KTypeSteps.kSpan_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:47:22.221337+00:00
 -- url     : https://prove2.me/theorems/682d6997-99f0-4394-b018-3bb32a042750

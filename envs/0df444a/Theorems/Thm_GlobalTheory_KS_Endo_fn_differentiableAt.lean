@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Endo_fn_differentiableAt
 -- name    : GlobalTheory.KS.Endo.fn_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:00:27.047437+00:00
 -- url     : https://prove2.me/theorems/6ec2d081-7c0e-4fa2-ae04-ad9ce8f6e102

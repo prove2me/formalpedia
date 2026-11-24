@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx2_Bp_const_le
 -- name    : Formalism.FourierDecayAlt.P.TBBx2.Bp.const_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:54:44.755535+00:00
 -- url     : https://prove2.me/theorems/11d72b13-e803-4416-a9bf-834b17b4c0f5

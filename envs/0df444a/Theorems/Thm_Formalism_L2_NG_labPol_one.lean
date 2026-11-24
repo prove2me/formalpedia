@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NG_labPol_one
 -- name    : Formalism.L2.NG.labPol_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:11:29.574886+00:00
 -- url     : https://prove2.me/theorems/999e2d51-b744-4033-8d6e-f229065c8a35

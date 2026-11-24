@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjTwist_exists_section_of_isLocallyFraction_zero
 -- name    : GroundTheory.Arith.SchemeCoh.ProjTwist.exists_section_of_isLocallyFraction_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:20:28.136342+00:00
 -- url     : https://prove2.me/theorems/ecd92e2e-2d2c-489f-90b6-7f5bed55fc70

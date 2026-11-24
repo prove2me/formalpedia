@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_bcParam_consParam
 -- name    : GlobalTheory.LGrp.bcParam_consParam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:55:41.013798+00:00
 -- url     : https://prove2.me/theorems/63316805-c4fc-4573-89f8-75238addcac2

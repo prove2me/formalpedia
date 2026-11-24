@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_supp_bounds
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.supp_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:53:03.523655+00:00
 -- url     : https://prove2.me/theorems/333312a0-53d3-4f19-a9f3-1e4f2e4ef468

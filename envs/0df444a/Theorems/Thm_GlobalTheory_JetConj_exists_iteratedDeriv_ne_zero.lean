@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_exists_iteratedDeriv_ne_zero
 -- name    : GlobalTheory.JetConj.exists_iteratedDeriv_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:30.689639+00:00
 -- url     : https://prove2.me/theorems/2de0e311-b104-414a-84c3-8288a4053b64

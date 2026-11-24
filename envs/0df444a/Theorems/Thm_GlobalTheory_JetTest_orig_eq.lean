@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetTest_orig_eq
 -- name    : GlobalTheory.JetTest.orig_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:40:58.5429+00:00
 -- url     : https://prove2.me/theorems/d0a84d8f-2fea-4975-b15e-25f52d2758ae

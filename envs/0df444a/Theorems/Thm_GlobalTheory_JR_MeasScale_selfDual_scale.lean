@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasScale_selfDual_scale
 -- name    : GlobalTheory.JR.MeasScale.selfDual_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:35:06.265077+00:00
 -- url     : https://prove2.me/theorems/1f900087-7552-434f-bcfe-41dcf943d64b

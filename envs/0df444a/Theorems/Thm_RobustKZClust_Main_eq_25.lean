@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustKZClust_Main_eq_25
 -- name    : RobustKZClust.Main.eq_25
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T05:11:40.627202+00:00
 -- url     : https://prove2.me/theorems/bff2ab2b-3826-4e53-bc6f-7acb6de94571

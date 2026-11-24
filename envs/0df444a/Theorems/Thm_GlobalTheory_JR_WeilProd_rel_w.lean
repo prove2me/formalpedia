@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_rel_w
 -- name    : GlobalTheory.JR.WeilProd.rel_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:39:08.311783+00:00
 -- url     : https://prove2.me/theorems/3532a00b-0e25-4644-8099-7465f9f1b8a6

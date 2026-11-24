@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_continuous_hankelShift
 -- name    : GlobalTheory.JR.ImgSec.continuous_hankelShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:00.636817+00:00
 -- url     : https://prove2.me/theorems/19b04ac9-3dc7-4781-8368-a284332bd825

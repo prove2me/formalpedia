@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_integral_qLat
 -- name    : GlobalTheory.LastSteps.integral_qLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:56:48.442094+00:00
 -- url     : https://prove2.me/theorems/ed564950-f008-430d-9898-93813b392b9b

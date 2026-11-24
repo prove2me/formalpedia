@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_normChar_zero
 -- name    : GlobalTheory.HeckeOne.normChar_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:17.029795+00:00
 -- url     : https://prove2.me/theorems/3d88cfa0-f21d-4be9-9e85-83c687b4258b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HeightSquareIntegrable_mul_prod_eq
 -- name    : GlobalTheory.JR.HeightSquareIntegrable.mul_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:32:27.047822+00:00
 -- url     : https://prove2.me/theorems/93e08a1b-3205-456b-9f93-520482e47bd7

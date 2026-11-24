@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_comm_high
 -- name    : GlobalTheory.InducedPBW.comm_high
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:16:01.33062+00:00
 -- url     : https://prove2.me/theorems/e005645d-8259-4e93-b8fb-d75226f2fadc

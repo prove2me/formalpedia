@@ -57002,7 +57002,7 @@
 {"parent": "DirKECC1549_Impl_GraphAux", "child": "DirKECC1549_Main_Alg3Cost", "via": ["statement"]}
 {"parent": "GaussDiffSVP_Supplement_DGS", "child": "CosetTreeSVP_SVP_Algo", "via": ["statement"]}
 {"parent": "SublinearChoresMMS.Disposal.Supplement.theorem_B_3", "child": "SublinearChoresMMS_Disposal_Supplement_AppendixPacking", "via": ["statement"]}
-{"parent": "DistributionTheoryMission.wave_kernel_agreement", "child": "liuyao_ca_fd889115_k1_Distributions_ForcedWaveTargets", "via": ["statement"]}
+{"parent": "DistributionTheoryMission.wave_kernel_agreement", "child": "liuyao_ca_fd889115_k1_Distributions_ForcedWaveTargets", "via": ["solution", "statement"]}
 {"parent": "FourBlockIP350.Main.Supplement.residue_convex_extensible", "child": "FourBlockIP350_Main_Decomposition", "via": ["statement"]}
 {"parent": "FourBlockIP350.Main.Supplement.residue_convex_extensible", "child": "FourBlockIP350_Main_Supplement_SeparableIP", "via": ["statement"]}
 {"parent": "QRetrieval_Adaptive_Supplement_NonAdaptiveCompressionScheme", "child": "QRetrieval_Adaptive_B", "via": ["statement"]}

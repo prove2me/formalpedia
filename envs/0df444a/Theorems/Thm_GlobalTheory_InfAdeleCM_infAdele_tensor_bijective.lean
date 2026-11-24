@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InfAdeleCM_infAdele_tensor_bijective
 -- name    : GlobalTheory.InfAdeleCM.infAdele_tensor_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:33.06312+00:00
 -- url     : https://prove2.me/theorems/d61bda0a-aa86-41b6-b967-5070a8cb0a5e

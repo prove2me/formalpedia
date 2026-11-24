@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatExpSum_summable_pi_prod
 -- name    : GlobalTheory.LatExpSum.summable_pi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:56:47.16854+00:00
 -- url     : https://prove2.me/theorems/bc70892c-1981-4010-8e4f-ec46eea9703b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_rit_law
 -- name    : PositivityTheory.Rg.Sw.LVs.rit_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:00:12.468804+00:00
 -- url     : https://prove2.me/theorems/310c2315-53aa-4cdb-a487-6c7a77818ffc

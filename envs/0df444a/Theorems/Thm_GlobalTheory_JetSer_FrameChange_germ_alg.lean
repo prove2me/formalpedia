@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FrameChange_germ_alg
 -- name    : GlobalTheory.JetSer.FrameChange.germ_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:40:57.252801+00:00
 -- url     : https://prove2.me/theorems/30d4274b-ad59-4ce1-9927-0143945bbbde

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrbGL_entries_of_matLat_le
 -- name    : GlobalTheory.LatOrbGL.entries_of_matLat_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:58:42.486551+00:00
 -- url     : https://prove2.me/theorems/3a7ad9d3-a8dd-44ee-a037-0d5b81ef97a8

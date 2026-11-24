@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_EpsBundle_overlap
 -- name    : GlobalTheory.KS.EpsBundle.overlap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:43:48.994999+00:00
 -- url     : https://prove2.me/theorems/5caf6cdb-fb45-4453-bec2-61a72b4d01ce

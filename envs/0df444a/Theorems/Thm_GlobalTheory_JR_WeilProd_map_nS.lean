@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_map_nS
 -- name    : GlobalTheory.JR.WeilProd.map_nS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:38:42.989746+00:00
 -- url     : https://prove2.me/theorems/2a8821fb-81a3-4c87-81b7-855a320073ef

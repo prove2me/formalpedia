@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_TangentAt_tr_neg_tr
 -- name    : GlobalTheory.KS.TangentAt.tr_neg_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:59:52.675558+00:00
 -- url     : https://prove2.me/theorems/a7a00313-3e0e-4fe9-abbb-3b94f7f0b66a

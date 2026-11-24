@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Sym_LocDerK_mono
 -- name    : GlobalTheory.KS.Sym.LocDerK_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:46:03.269511+00:00
 -- url     : https://prove2.me/theorems/151f8f51-c4ad-42b2-bf2a-09178e29b617

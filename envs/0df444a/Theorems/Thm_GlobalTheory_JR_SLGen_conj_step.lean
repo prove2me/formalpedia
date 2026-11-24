@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SLGen_conj_step
 -- name    : GlobalTheory.JR.SLGen.conj_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:36:56.889356+00:00
 -- url     : https://prove2.me/theorems/f3bf12e4-4e89-47cc-90c3-a52da424e112

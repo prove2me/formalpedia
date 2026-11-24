@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_corollary_s_induction
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.corollary_s_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:49.944851+00:00
 -- url     : https://prove2.me/theorems/0ce6bddb-776f-4250-a440-b69950402adf

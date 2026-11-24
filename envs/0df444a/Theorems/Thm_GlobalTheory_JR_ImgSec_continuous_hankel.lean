@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_continuous_hankel
 -- name    : GlobalTheory.JR.ImgSec.continuous_hankel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:05.210015+00:00
 -- url     : https://prove2.me/theorems/7a82ea89-6d1e-4357-9838-60503fb533d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_HeisCoord_shape_of_mem
 -- name    : GlobalTheory.InertZeta.HeisCoord.shape_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:55:46.568516+00:00
 -- url     : https://prove2.me/theorems/569477b7-accb-44c7-a0b5-f84cebce34b7

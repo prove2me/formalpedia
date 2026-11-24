@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_wS_nS_wS_eq_unit
 -- name    : GlobalTheory.JR.wS_nS_wS_eq_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:41:01.506386+00:00
 -- url     : https://prove2.me/theorems/b54e5c4c-2aac-43b8-b14e-67d084731aeb

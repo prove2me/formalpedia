@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_pair_fromRows
 -- name    : GlobalTheory.FrameCompletion.pair_fromRows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:04:58.052493+00:00
 -- url     : https://prove2.me/theorems/0290908b-beba-44eb-8887-6453a33657d5

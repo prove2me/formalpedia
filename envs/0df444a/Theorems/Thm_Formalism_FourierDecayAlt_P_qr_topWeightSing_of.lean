@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_qr_topWeightSing_of
 -- name    : Formalism.FourierDecayAlt.P.qr_topWeightSing_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:28:17.159567+00:00
 -- url     : https://prove2.me/theorems/f5cac04a-726c-42e1-934c-be774504bc2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMorK_app_constFn
 -- name    : GlobalTheory.KS.DerMorK.app_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:42:51.202871+00:00
 -- url     : https://prove2.me/theorems/2b3c23d1-4fcf-42ae-802a-d955f54af874

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLevi_hasSum_aTerm
 -- name    : GlobalTheory.CompanionTheory.InertLevi.hasSum_aTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:03:36.682096+00:00
 -- url     : https://prove2.me/theorems/e0b498fc-8f6f-41e5-9892-f7d318c94ad8

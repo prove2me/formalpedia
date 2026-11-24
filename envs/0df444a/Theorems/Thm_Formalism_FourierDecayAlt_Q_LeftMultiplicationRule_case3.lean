@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_case3
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.case3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:41:39.607209+00:00
 -- url     : https://prove2.me/theorems/e5d1544a-9245-42d7-8ed8-2a27b7dccbb5

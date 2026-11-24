@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_exists_basis_det_ne_zero_of_points
 -- name    : GlobalTheory.KeyKa.exists_basis_det_ne_zero_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:48:53.454993+00:00
 -- url     : https://prove2.me/theorems/7d104b22-ea25-4e72-b84d-35085533f449

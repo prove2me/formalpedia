@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_function_polynomial
 -- name    : Formalism.FourierDecayAlt.P.gram_function_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:13:59.643794+00:00
 -- url     : https://prove2.me/theorems/a6ae6330-3079-443f-ba38-cd59bc2bf835

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_continuous_kerL
 -- name    : GlobalTheory.JR.WeilProd.continuous_kerL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:37:57.320954+00:00
 -- url     : https://prove2.me/theorems/40e360ca-ede4-4798-9d2b-42c49a03c429

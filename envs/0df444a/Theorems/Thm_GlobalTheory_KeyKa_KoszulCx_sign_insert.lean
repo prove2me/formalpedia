@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KoszulCx_sign_insert
 -- name    : GlobalTheory.KeyKa.KoszulCx.sign_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:53:47.89796+00:00
 -- url     : https://prove2.me/theorems/eaca2bf7-82ed-4feb-ac9b-37cf68e6cced

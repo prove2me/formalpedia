@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzDiv_hasTemperateGrowth_invCut
 -- name    : GlobalTheory.SchwartzDiv.hasTemperateGrowth_invCut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:19:24.639015+00:00
 -- url     : https://prove2.me/theorems/1c84bb3e-9289-4e7d-96ca-310a56b1ac96

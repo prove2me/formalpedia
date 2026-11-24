@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IntTrans_unit_right
 -- name    : GlobalTheory.JetSer.IntTrans.unit_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:42:28.359921+00:00
 -- url     : https://prove2.me/theorems/180ddd6f-c339-484c-9925-5a12ee0fa80e

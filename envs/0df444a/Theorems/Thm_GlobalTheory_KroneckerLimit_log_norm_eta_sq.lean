@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_log_norm_eta_sq
 -- name    : GlobalTheory.KroneckerLimit.log_norm_eta_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:53:56.765136+00:00
 -- url     : https://prove2.me/theorems/fbea10f3-e022-44c3-a216-afc9fbfff490

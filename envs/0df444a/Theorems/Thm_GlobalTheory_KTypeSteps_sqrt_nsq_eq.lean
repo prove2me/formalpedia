@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeSteps_sqrt_nsq_eq
 -- name    : GlobalTheory.KTypeSteps.sqrt_nsq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:46:44.544927+00:00
 -- url     : https://prove2.me/theorems/458f5bf3-244d-4265-bb4d-c2b51cf9d089

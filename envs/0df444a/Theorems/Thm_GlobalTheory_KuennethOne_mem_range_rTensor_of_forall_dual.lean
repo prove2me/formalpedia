@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KuennethOne_mem_range_rTensor_of_forall_dual
 -- name    : GlobalTheory.KuennethOne.mem_range_rTensor_of_forall_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:56:07.573398+00:00
 -- url     : https://prove2.me/theorems/1560ae56-62df-4880-a942-287e4bdd3d36

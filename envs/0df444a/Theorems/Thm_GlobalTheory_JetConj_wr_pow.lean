@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_wr_pow
 -- name    : GlobalTheory.JetConj.wr_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:51.977312+00:00
 -- url     : https://prove2.me/theorems/b099df58-3f3b-4526-8e07-24aee818f96e

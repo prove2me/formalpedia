@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_JetRel_of_deriv_eq
 -- name    : GlobalTheory.JetConj.JetRel.of_deriv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:38.281132+00:00
 -- url     : https://prove2.me/theorems/a988d759-c858-40c0-a48a-845a09de839e

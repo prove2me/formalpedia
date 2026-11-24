@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_stableQuadraticGaussIntegral_mul_norm
 -- name    : GlobalTheory.T.stableQuadraticGaussIntegral_mul_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:16:16.173978+00:00
 -- url     : https://prove2.me/theorems/42159499-68a4-44e2-9f26-76f0e174a7c3

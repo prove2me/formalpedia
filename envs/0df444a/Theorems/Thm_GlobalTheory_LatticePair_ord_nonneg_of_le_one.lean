@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePair_ord_nonneg_of_le_one
 -- name    : GlobalTheory.LatticePair.ord_nonneg_of_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:59:52.706067+00:00
 -- url     : https://prove2.me/theorems/6705b8c4-98a4-43e7-ac3b-129e3a7aaa6a

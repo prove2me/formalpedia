@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KLowSpan_kstab_orthogonal
 -- name    : GlobalTheory.CompanionTheory.KLowSpan.kstab_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:47.579198+00:00
 -- url     : https://prove2.me/theorems/6dfe5993-ed6e-4bc6-a6d5-0f48e299e5e0

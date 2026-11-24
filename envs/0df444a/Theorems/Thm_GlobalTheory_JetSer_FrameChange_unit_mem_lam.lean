@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FrameChange_unit_mem_lam
 -- name    : GlobalTheory.JetSer.FrameChange.unit_mem_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:41:39.458381+00:00
 -- url     : https://prove2.me/theorems/4a7f08a1-176f-4e50-a911-46aa42afe787

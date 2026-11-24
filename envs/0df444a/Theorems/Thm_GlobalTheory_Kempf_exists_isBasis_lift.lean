@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Kempf_exists_isBasis_lift
 -- name    : GlobalTheory.Kempf.exists_isBasis_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:47:34.916615+00:00
 -- url     : https://prove2.me/theorems/07a1f90f-252c-48ec-aa32-57d2725052ea

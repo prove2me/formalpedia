@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_constantCoeff_dof
 -- name    : GlobalTheory.JetSer.constantCoeff_dof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:42:48.916741+00:00
 -- url     : https://prove2.me/theorems/15f0adc3-61ae-47cf-8feb-b94697d75af9

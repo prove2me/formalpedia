@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_scalar_smul_eq
 -- name    : GlobalTheory.LatPair.scalar_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:58:39.293788+00:00
 -- url     : https://prove2.me/theorems/f1e1a23a-c7db-4329-ad33-3bbc87a66944

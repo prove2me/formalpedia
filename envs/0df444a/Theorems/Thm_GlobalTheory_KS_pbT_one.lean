@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_pbT_one
 -- name    : GlobalTheory.KS.pbT_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:30.892852+00:00
 -- url     : https://prove2.me/theorems/08873d3f-f08f-4083-822d-771e492e46d8

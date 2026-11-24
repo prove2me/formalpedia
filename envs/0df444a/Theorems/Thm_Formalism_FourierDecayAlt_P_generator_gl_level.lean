@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_generator_gl_level
 -- name    : Formalism.FourierDecayAlt.P.generator_gl_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:50:24.717542+00:00
 -- url     : https://prove2.me/theorems/2e719b50-94fe-4a78-97f0-26f1902edc40

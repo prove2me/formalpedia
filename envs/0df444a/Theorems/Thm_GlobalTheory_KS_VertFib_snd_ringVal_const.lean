@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertFib_snd_ringVal_const
 -- name    : GlobalTheory.KS.VertFib.snd_ringVal_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:47:48.031976+00:00
 -- url     : https://prove2.me/theorems/2808b469-32cb-4033-b364-4e31946c23b2

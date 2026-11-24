@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsHomothetic_canonicalSigma_mul
 -- name    : GlobalTheory.IsHomothetic.canonicalSigma_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:21:19.684805+00:00
 -- url     : https://prove2.me/theorems/27f3370e-acaa-4209-a07b-825ef9c0c2bc

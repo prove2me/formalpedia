@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KZ_ES_exists_conj_of_same_trace
 -- name    : GlobalTheory.KZ.ES.exists_conj_of_same_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:46:25.167043+00:00
 -- url     : https://prove2.me/theorems/1cacbbb1-05ae-405f-aaef-790f1fe0bcb8

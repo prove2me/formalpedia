@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_IsLAdicOf_frob_unr
 -- name    : GlobalTheory.HeckeGal.IsLAdicOf.frob_unr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:00:53.353829+00:00
 -- url     : https://prove2.me/theorems/a82c86dc-f592-454d-9c1b-235932a3010e

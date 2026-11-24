@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_Swap_continuous_eta_det
 -- name    : GlobalTheory.JR.LinDesc.Swap.continuous_eta_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:27.845135+00:00
 -- url     : https://prove2.me/theorems/e08b5cff-e707-4b9e-addb-84c770e8ec51

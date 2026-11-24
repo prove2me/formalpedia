@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_ker_mem_nhds
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.ker_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:43.641535+00:00
 -- url     : https://prove2.me/theorems/94d28ccc-2ebf-48a9-a40e-d1170efae8b2

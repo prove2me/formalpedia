@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_GlueDer_pre_cover
 -- name    : GlobalTheory.KS.GlueDer.pre_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:44:30.383068+00:00
 -- url     : https://prove2.me/theorems/34c6021d-0aa6-4b63-86af-7426b91656a2

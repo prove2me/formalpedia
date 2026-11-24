@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_exists_dual_family
 -- name    : GlobalTheory.HopfQuot.exists_dual_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:37:37.874826+00:00
 -- url     : https://prove2.me/theorems/cd8ff974-e18b-4d2f-9891-7cfab489a9d6

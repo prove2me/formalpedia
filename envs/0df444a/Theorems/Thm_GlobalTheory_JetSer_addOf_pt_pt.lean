@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_addOf_pt_pt
 -- name    : GlobalTheory.JetSer.addOf_pt_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:41:09.590942+00:00
 -- url     : https://prove2.me/theorems/a87f07e4-641b-4155-9cbf-c6a84edf515d

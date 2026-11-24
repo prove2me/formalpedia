@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_isLocallyConstant_psiK_kerL
 -- name    : GlobalTheory.JR.Hyp.isLocallyConstant_psiK_kerL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:33:38.767957+00:00
 -- url     : https://prove2.me/theorems/e766b2b1-b65c-4b5c-86e1-9a0b29621a69

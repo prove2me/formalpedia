@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCorner_dv_vecMul
 -- name    : GlobalTheory.CompanionTheory.InertCorner.dv_vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:02:28.788202+00:00
 -- url     : https://prove2.me/theorems/8948bb61-94c2-44e5-a8e3-057f17a6907b

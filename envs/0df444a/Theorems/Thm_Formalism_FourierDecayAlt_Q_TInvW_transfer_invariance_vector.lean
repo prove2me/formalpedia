@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_transfer_invariance_vector
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.transfer_invariance_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:54:33.078011+00:00
 -- url     : https://prove2.me/theorems/5a72c34c-2684-4306-b6e7-ed0e1c631728

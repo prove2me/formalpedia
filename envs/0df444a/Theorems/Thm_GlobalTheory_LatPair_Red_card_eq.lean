@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Red_card_eq
 -- name    : GlobalTheory.LatPair.Red.card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:59:52.036575+00:00
 -- url     : https://prove2.me/theorems/1f1e027d-203a-4d20-9a9b-aeef8a7536e8

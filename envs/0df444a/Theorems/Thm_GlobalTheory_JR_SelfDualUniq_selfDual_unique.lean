@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SelfDualUniq_selfDual_unique
 -- name    : GlobalTheory.JR.SelfDualUniq.selfDual_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:09.088863+00:00
 -- url     : https://prove2.me/theorems/20bfa6c5-e6d4-4098-ba0f-3659647da757

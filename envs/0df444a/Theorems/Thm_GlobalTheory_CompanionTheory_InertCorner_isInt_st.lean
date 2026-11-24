@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCorner_isInt_st
 -- name    : GlobalTheory.CompanionTheory.InertCorner.isInt_st
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:02:14.54989+00:00
 -- url     : https://prove2.me/theorems/5f9957a9-c6af-4f63-a42a-c8ae8214719a

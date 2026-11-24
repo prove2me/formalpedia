@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_len_mat_mul
 -- name    : GlobalTheory.InertZeta.len_mat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:28:44.617644+00:00
 -- url     : https://prove2.me/theorems/3f982736-2d27-4cf7-9927-bf48088de655

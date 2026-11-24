@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KLowSpan_inner_eq_zero_of_weight
 -- name    : GlobalTheory.CompanionTheory.KLowSpan.inner_eq_zero_of_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:25.311867+00:00
 -- url     : https://prove2.me/theorems/bb1e8108-386e-4e1c-9e1a-6d62e2529968

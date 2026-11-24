@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_weilHyp_rg
 -- name    : GlobalTheory.JR.weilHyp_rg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:40:47.624996+00:00
 -- url     : https://prove2.me/theorems/fa58900c-be12-4dd1-83db-d8e8ff6c0aa2

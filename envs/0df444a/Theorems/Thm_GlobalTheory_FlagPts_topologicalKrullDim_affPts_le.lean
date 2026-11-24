@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_topologicalKrullDim_affPts_le
 -- name    : GlobalTheory.FlagPts.topologicalKrullDim_affPts_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:29:11.575772+00:00
 -- url     : https://prove2.me/theorems/dcc23787-2838-4216-a29e-511b1c67315a

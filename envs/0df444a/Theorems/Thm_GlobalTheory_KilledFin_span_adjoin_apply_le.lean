@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KilledFin_span_adjoin_apply_le
 -- name    : GlobalTheory.KilledFin.span_adjoin_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:48:43.59405+00:00
 -- url     : https://prove2.me/theorems/9e3b899d-2640-4fc0-b391-72e903e544fa

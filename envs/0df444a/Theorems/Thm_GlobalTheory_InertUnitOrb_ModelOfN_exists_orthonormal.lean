@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_ModelOfN_exists_orthonormal
 -- name    : GlobalTheory.InertUnitOrb.ModelOfN.exists_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:55:05.360909+00:00
 -- url     : https://prove2.me/theorems/f0d85f31-be86-40df-b545-308511adaa01

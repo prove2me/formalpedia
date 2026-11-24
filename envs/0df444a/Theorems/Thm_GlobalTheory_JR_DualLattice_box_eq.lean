@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_DualLattice_box_eq
 -- name    : GlobalTheory.JR.DualLattice.box_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:00.083239+00:00
 -- url     : https://prove2.me/theorems/aaa83ba6-1c8a-4546-bef5-0ed78aac1c93

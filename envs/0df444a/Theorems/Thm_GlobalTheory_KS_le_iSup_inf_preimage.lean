@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_le_iSup_inf_preimage
 -- name    : GlobalTheory.KS.le_iSup_inf_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:03.14054+00:00
 -- url     : https://prove2.me/theorems/bb72372c-e701-4270-9726-3129bb8a61fa

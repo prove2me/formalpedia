@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Pair_ofDual_red
 -- name    : GlobalTheory.LatPair.Pair.ofDual_red
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:58:40.807694+00:00
 -- url     : https://prove2.me/theorems/3d6d9226-69d2-4d9f-a90e-b94628452389

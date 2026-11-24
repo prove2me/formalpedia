@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacStages_relJacD_piTensor_equiv
 -- name    : GlobalTheory.JacStages.relJacD_piTensor_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:14.077534+00:00
 -- url     : https://prove2.me/theorems/f0b41940-101b-402d-907e-c3599d0a19fa

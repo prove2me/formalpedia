@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_twoChart_addOf_pt_pt
 -- name    : GlobalTheory.JetSer.twoChart_addOf_pt_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:42:13.751739+00:00
 -- url     : https://prove2.me/theorems/8ec829da-8d48-4d38-af0e-d1819f5c8951

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinColorPath_MinorFree_lemma_3_4
 -- name    : MinColorPath.MinorFree.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T04:12:26.361877+00:00
 -- url     : https://prove2.me/theorems/251c54f6-692b-4530-b66a-4e8e2311f634

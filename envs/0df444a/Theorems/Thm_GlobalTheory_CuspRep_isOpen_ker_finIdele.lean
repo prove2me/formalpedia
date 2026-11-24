@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspRep_isOpen_ker_finIdele
 -- name    : GlobalTheory.CuspRep.isOpen_ker_finIdele
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:52:16.817231+00:00
 -- url     : https://prove2.me/theorems/af7cd2a4-2aad-440f-b235-3666c17a85d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_SquareField_isLieComb_one
 -- name    : GlobalTheory.KS.SquareField.isLieComb_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:44:37.405009+00:00
 -- url     : https://prove2.me/theorems/cd8bc846-42dd-4720-8dfb-f0e7ea10481c

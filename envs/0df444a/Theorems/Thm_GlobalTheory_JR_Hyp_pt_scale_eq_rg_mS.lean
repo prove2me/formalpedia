@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_pt_scale_eq_rg_mS
 -- name    : GlobalTheory.JR.Hyp.pt_scale_eq_rg_mS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:33:58.577263+00:00
 -- url     : https://prove2.me/theorems/ea98820c-b70f-4d51-a9c7-176e09ae3ae4

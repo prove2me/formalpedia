@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_apply_add_intCast_vec_of_unit_periods
 -- name    : GlobalTheory.apply_add_intCast_vec_of_unit_periods
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:19.667424+00:00
 -- url     : https://prove2.me/theorems/3b9acae4-5c81-4252-8c03-6ddc65c1b071

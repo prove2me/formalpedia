@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_isIntegral_of_mapsTo_lattice
 -- name    : GlobalTheory.LatOrb.isIntegral_of_mapsTo_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:58:55.262972+00:00
 -- url     : https://prove2.me/theorems/fed8983a-cc84-4cbc-837e-1fef7ea9eafc

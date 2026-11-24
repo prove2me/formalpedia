@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_charpoly_companion_separable
 -- name    : GlobalTheory.JR.LinDesc.charpoly_companion_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:07.444826+00:00
 -- url     : https://prove2.me/theorems/f412777f-6c95-4d71-9e5c-da4b88279425

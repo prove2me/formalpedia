@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_conjT_smul
 -- name    : GlobalTheory.FrameCompletion.conjT_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:52:15.977862+00:00
 -- url     : https://prove2.me/theorems/dfcbbffe-0e53-4a08-87e3-c32eb85b62bf

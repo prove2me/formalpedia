@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_FourUnit_fourU_unitU
 -- name    : GlobalTheory.JR.FourUnit.fourU_unitU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:23:05.408794+00:00
 -- url     : https://prove2.me/theorems/3d17d71b-3e5e-4912-85c7-a0b3f2822836

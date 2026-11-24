@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertCompletion_exists_ringEquiv_completion
 -- name    : GlobalTheory.InertCompletion.exists_ringEquiv_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:18:33.846284+00:00
 -- url     : https://prove2.me/theorems/5534d73b-c462-41b3-bc9e-2997aba5df04

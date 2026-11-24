@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedConj0Pf_comb
 -- name    : Formalism.L2.SG.Pf.RedConj0Pf.comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:28:15.121799+00:00
 -- url     : https://prove2.me/theorems/211380d0-176e-4d1a-8bc4-b7b05fe08d2b

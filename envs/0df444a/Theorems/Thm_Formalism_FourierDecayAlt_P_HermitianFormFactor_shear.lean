@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_shear
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:15:32.780807+00:00
 -- url     : https://prove2.me/theorems/b177f9f4-97ba-4a91-8e68-e47c1811996f

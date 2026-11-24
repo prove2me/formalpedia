@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_exists_selfDual_of_dual_subgroups
 -- name    : GlobalTheory.JR.exists_selfDual_of_dual_subgroups
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:38:16.818408+00:00
 -- url     : https://prove2.me/theorems/14f273a6-136b-48ea-93b1-ce5c064979e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_RankOneTransfer_inI_zero
 -- name    : GlobalTheory.JR.RankOneTransfer.inI_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:38:07.924834+00:00
 -- url     : https://prove2.me/theorems/508be35f-961f-455a-b596-39a92803a949

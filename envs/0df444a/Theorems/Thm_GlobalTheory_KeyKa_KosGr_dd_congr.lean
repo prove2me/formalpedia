@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KosGr_dd_congr
 -- name    : GlobalTheory.KeyKa.KosGr.dd_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:47:25.644422+00:00
 -- url     : https://prove2.me/theorems/5d2990e6-615c-4316-8d36-c216db07cffb

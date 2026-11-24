@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSInh_ex_add_period
 -- name    : GlobalTheory.KSInh.ex_add_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:46:43.080843+00:00
 -- url     : https://prove2.me/theorems/6f977229-fa2d-42f4-8671-fb08c9e6fb0d

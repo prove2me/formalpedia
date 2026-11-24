@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qj12_exists_prime_of_different_le
 -- name    : UpperTheory.Reformulated.B.Qj12.exists_prime_of_different_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:28:45.354481+00:00
 -- url     : https://prove2.me/theorems/98a93352-e368-48a0-b5b0-1402612150c1

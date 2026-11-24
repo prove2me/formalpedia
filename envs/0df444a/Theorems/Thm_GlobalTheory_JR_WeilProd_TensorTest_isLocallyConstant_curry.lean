@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_TensorTest_isLocallyConstant_curry
 -- name    : GlobalTheory.JR.WeilProd.TensorTest.isLocallyConstant_curry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:37:23.577744+00:00
 -- url     : https://prove2.me/theorems/2abc5d96-a195-47d1-9af8-f2f99ad2bc79

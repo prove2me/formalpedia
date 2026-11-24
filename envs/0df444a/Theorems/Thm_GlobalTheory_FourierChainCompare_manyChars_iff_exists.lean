@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_manyChars_iff_exists
 -- name    : GlobalTheory.FourierChainCompare.manyChars_iff_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:55:13.991185+00:00
 -- url     : https://prove2.me/theorems/625ccf3f-7741-4300-98d4-2d011800d74a

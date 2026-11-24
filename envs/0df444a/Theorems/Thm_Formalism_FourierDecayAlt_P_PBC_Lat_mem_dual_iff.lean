@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_mem_dual_iff
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.mem_dual_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:31:05.800799+00:00
 -- url     : https://prove2.me/theorems/572e97c8-af26-4e44-8299-dea72f1342da

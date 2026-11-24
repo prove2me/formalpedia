@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Uniq_mem_dom_add_lattice
 -- name    : GlobalTheory.KS.Uniq.mem_dom_add_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:48:45.494121+00:00
 -- url     : https://prove2.me/theorems/732fe79f-db0a-4435-bcb4-aa5fafc2c27f

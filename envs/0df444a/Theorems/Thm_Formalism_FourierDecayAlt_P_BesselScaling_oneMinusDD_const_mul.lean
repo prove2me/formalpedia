@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BesselScaling_oneMinusDD_const_mul
 -- name    : Formalism.FourierDecayAlt.P.BesselScaling.oneMinusDD_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:09:52.951526+00:00
 -- url     : https://prove2.me/theorems/19a3f9e3-dc84-47d6-b6d2-80a7909f626b

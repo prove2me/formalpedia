@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_integrable_hmon_gauss
 -- name    : GlobalTheory.HeckePoisson.integrable_hmon_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:05:09.650626+00:00
 -- url     : https://prove2.me/theorems/7f5a99f7-3543-4716-b080-7df9a39f32c7

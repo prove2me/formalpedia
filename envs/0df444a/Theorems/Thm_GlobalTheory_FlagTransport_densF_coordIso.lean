@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_densF_coordIso
 -- name    : GlobalTheory.FlagTransport.densF_coordIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:31:37.80633+00:00
 -- url     : https://prove2.me/theorems/5b7f6269-0def-4da3-a422-9174fcf31899

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx2_Tri_hsVec_sum
 -- name    : Formalism.FourierDecayAlt.P.TBBx2.Tri.hsVec_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:54:47.073076+00:00
 -- url     : https://prove2.me/theorems/2208fcfd-ac58-4d0e-8814-1613cdad497e

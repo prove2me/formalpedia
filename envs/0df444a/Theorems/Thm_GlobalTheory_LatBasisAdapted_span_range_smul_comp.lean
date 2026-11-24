@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatBasisAdapted_span_range_smul_comp
 -- name    : GlobalTheory.LatBasisAdapted.span_range_smul_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:57:29.941398+00:00
 -- url     : https://prove2.me/theorems/f65c6a1b-ed0b-4709-87d0-0c76261a7d93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordUnip_transport
 -- name    : GlobalTheory.HL.CoordUnip.transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:01:09.946253+00:00
 -- url     : https://prove2.me/theorems/dcccf2c3-3bb7-441b-bc79-5bf8708c036e

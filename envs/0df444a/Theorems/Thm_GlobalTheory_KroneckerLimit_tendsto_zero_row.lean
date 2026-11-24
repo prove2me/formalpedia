@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_tendsto_zero_row
 -- name    : GlobalTheory.KroneckerLimit.tendsto_zero_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:56:27.543465+00:00
 -- url     : https://prove2.me/theorems/614ad6f9-176c-4389-be44-074f1b562a24

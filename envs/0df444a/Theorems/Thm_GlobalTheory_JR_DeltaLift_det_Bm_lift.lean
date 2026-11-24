@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_DeltaLift_det_Bm_lift
 -- name    : GlobalTheory.JR.DeltaLift.det_Bm_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:23:23.483065+00:00
 -- url     : https://prove2.me/theorems/4359cc5b-bcdc-4fce-9342-63dcf34d0ed0

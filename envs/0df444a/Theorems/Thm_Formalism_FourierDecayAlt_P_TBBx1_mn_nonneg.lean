@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_mn_nonneg
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.mn_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:56:24.690724+00:00
 -- url     : https://prove2.me/theorems/6caf1b39-6370-457f-8701-5cee2c38091e

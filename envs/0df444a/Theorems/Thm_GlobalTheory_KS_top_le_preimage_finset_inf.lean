@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_top_le_preimage_finset_inf
 -- name    : GlobalTheory.KS.top_le_preimage_finset_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:47:50.837507+00:00
 -- url     : https://prove2.me/theorems/f7845d70-710a-4ce5-81b1-6964eaa09042

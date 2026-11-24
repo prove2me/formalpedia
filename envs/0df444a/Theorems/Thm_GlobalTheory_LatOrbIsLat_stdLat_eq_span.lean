@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrbIsLat_stdLat_eq_span
 -- name    : GlobalTheory.LatOrbIsLat.stdLat_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:59:08.297033+00:00
 -- url     : https://prove2.me/theorems/51860a79-8165-4b91-99c6-32b6d8c26fd4

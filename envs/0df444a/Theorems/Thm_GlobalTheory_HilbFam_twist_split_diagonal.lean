@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_twist_split_diagonal
 -- name    : GlobalTheory.HilbFam.twist_split_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:21:51.30582+00:00
 -- url     : https://prove2.me/theorems/802442b9-c057-4086-9e52-436069d1d0b9

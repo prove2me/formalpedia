@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_wSpan_deriv
 -- name    : GlobalTheory.HeckeTwo.HDecay.wSpan_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:01:43.844875+00:00
 -- url     : https://prove2.me/theorems/30583444-bb9a-4537-863b-4e3d68e3ae3d

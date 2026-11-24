@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_gen_ext_val
 -- name    : GlobalTheory.JetSer.gen_ext_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:42:09.834858+00:00
 -- url     : https://prove2.me/theorems/3a5e4918-7c7e-4931-9799-4e88c9366eb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux11_lip_ball
 -- name    : Formalism.FourierDecayAlt.P.Ux11.lip_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:24:22.719913+00:00
 -- url     : https://prove2.me/theorems/57df9338-785a-4c3f-ab74-005d3ffb1154

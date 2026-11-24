@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCorner_H_add
 -- name    : GlobalTheory.CompanionTheory.InertCorner.H_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:00:04.224837+00:00
 -- url     : https://prove2.me/theorems/7c5c4f65-a7af-4481-ba56-a99df05a1164

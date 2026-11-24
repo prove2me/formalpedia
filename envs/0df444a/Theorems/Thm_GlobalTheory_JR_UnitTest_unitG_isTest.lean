@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_UnitTest_unitG_isTest
 -- name    : GlobalTheory.JR.UnitTest.unitG_isTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:36:45.504398+00:00
 -- url     : https://prove2.me/theorems/f916721e-86a6-47b1-93ec-696564887109

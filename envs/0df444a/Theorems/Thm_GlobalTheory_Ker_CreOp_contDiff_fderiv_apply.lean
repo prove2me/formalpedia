@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ker_CreOp_contDiff_fderiv_apply
 -- name    : GlobalTheory.Ker.CreOp.contDiff_fderiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:48:06.771626+00:00
 -- url     : https://prove2.me/theorems/a012bede-f317-424c-9051-d3c52059c79f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_exists_haar_quotient_integral_formula
 -- name    : GlobalTheory.JR.exists_haar_quotient_integral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:38:17.884297+00:00
 -- url     : https://prove2.me/theorems/9ad0ea3f-7621-4e67-b189-ff553d4e0420

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_charRep_unitarisable
 -- name    : GlobalTheory.LGrp.charRep_unitarisable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:55:52.083318+00:00
 -- url     : https://prove2.me/theorems/d4f86223-f6be-4867-baa4-6c3b2d0ce1e8

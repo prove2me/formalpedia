@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx2_Tri_RR_top
 -- name    : Formalism.FourierDecayAlt.P.TBBx2.Tri.RR_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:07:27.509417+00:00
 -- url     : https://prove2.me/theorems/d0d477f2-8312-4143-9bc9-c724eae37ee6

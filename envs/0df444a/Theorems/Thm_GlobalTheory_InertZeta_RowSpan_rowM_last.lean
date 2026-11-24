@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_RowSpan_rowM_last
 -- name    : GlobalTheory.InertZeta.RowSpan.rowM_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:50:20.0388+00:00
 -- url     : https://prove2.me/theorems/4b2204f5-1513-4b12-89c7-127d01a78c81

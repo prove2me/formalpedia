@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_hf_sub_right
 -- name    : GlobalTheory.CompanionTheory.InertCoset.hf_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:04:59.737664+00:00
 -- url     : https://prove2.me/theorems/d56b1f05-216e-4259-8330-09734739fec4

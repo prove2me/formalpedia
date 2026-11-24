@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux11_norm_apply_le
 -- name    : Formalism.FourierDecayAlt.P.Ux11.norm_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:24:57.121327+00:00
 -- url     : https://prove2.me/theorems/de9e85f1-a02e-4c39-8274-00260eb37fc6

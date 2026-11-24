@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_isSmooth_charRep
 -- name    : GlobalTheory.LGrp.isSmooth_charRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:58:00.630562+00:00
 -- url     : https://prove2.me/theorems/ccdbc09a-fb42-4e1b-a6a3-efc18e9a5865

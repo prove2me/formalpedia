@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LLeft_hasDerivAt_diffPow
 -- name    : GlobalTheory.LLeft.hasDerivAt_diffPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:55:49.200747+00:00
 -- url     : https://prove2.me/theorems/d8a4ef77-c33f-46f5-9487-0d20505ad6dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_isUnit_qO
 -- name    : GlobalTheory.K5.Basic.isUnit_qO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:41:54.392713+00:00
 -- url     : https://prove2.me/theorems/fed12f8d-91ce-4a71-a9bc-17743fa520c4

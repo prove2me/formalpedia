@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_volume_fundamentalDomain_standard_basis
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.volume_fundamentalDomain_standard_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:32:13.532871+00:00
 -- url     : https://prove2.me/theorems/1d343b6a-571b-4929-b877-06528dff91c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Jet_polyDeriv_eq_sum_monomial
 -- name    : GlobalTheory.Jet.polyDeriv_eq_sum_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:32.947098+00:00
 -- url     : https://prove2.me/theorems/9f078364-c91d-4e32-a449-1b83bfd2455a

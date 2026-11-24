@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_cosetIntegral_holds
 -- name    : GlobalTheory.InertZeta.cosetIntegral_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:18:14.657925+00:00
 -- url     : https://prove2.me/theorems/4bd08a64-99d7-4dc0-ba74-4107a5d14095

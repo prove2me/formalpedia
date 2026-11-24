@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_tendsto_zeta_two_mul_sub_one
 -- name    : GlobalTheory.KroneckerLimit.tendsto_zeta_two_mul_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:55:15.52666+00:00
 -- url     : https://prove2.me/theorems/03927531-9b9b-4f20-9caa-a20aa2c91eb0

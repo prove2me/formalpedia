@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinTransport_chi_artin_transport
 -- name    : GlobalTheory.ArtinTransport.chi_artin_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:58:01.42585+00:00
 -- url     : https://prove2.me/theorems/8711ff13-048b-46d1-b84a-c6cfec06dd38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalMulN_add_comm_pt
 -- name    : GlobalTheory.FormalMulN.add_comm_pt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:25.762513+00:00
 -- url     : https://prove2.me/theorems/24f22497-0dc4-40da-acb8-3e29e8b0e029

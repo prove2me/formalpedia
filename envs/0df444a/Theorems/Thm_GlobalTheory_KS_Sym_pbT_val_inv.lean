@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Sym_pbT_val_inv
 -- name    : GlobalTheory.KS.Sym.pbT_val_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:45:23.334227+00:00
 -- url     : https://prove2.me/theorems/26d29966-a516-4382-bb20-9da4eeb3e2a7

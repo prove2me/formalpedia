@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IsFPt_mul
 -- name    : GlobalTheory.JetSer.IsFPt.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:42:24.555284+00:00
 -- url     : https://prove2.me/theorems/6e5398d6-582f-4254-a882-607addbdb512

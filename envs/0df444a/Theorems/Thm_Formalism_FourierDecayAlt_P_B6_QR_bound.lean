@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_QR_bound
 -- name    : Formalism.FourierDecayAlt.P.B6.QR_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:21:38.433309+00:00
 -- url     : https://prove2.me/theorems/8ba3547b-34fe-4419-9611-16380c25eca8

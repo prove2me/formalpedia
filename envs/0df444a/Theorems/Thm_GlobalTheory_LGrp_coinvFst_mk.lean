@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_coinvFst_mk
 -- name    : GlobalTheory.LGrp.coinvFst_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:55:45.541515+00:00
 -- url     : https://prove2.me/theorems/80919732-68b0-4553-8c3f-8b31613fa3da

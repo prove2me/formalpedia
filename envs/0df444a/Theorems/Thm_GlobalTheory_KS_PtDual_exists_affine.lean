@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_PtDual_exists_affine
 -- name    : GlobalTheory.KS.PtDual.exists_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:59:56.163787+00:00
 -- url     : https://prove2.me/theorems/c13279c3-451b-4970-bde8-d168999e531c

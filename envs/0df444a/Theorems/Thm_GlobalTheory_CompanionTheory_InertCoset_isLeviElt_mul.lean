@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_isLeviElt_mul
 -- name    : GlobalTheory.CompanionTheory.InertCoset.isLeviElt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:02:22.897926+00:00
 -- url     : https://prove2.me/theorems/1f890057-94ce-4f5a-989f-15f6303091da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_integral_eq_zero_of_shift_mul
 -- name    : GlobalTheory.JR.integral_eq_zero_of_shift_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:38:22.009728+00:00
 -- url     : https://prove2.me/theorems/e506cdba-874f-4f38-b87d-0ad0cedec7c2

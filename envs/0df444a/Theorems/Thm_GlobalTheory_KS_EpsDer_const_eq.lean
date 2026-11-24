@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_EpsDer_const_eq
 -- name    : GlobalTheory.KS.EpsDer.const_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:44:29.42228+00:00
 -- url     : https://prove2.me/theorems/cc7c5265-49d3-430f-99d6-d7c5f2519dfe

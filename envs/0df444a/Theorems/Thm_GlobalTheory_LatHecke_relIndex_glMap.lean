@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatHecke_relIndex_glMap
 -- name    : GlobalTheory.LatHecke.relIndex_glMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:57:29.916313+00:00
 -- url     : https://prove2.me/theorems/a6305c4f-6a2c-4edf-ad32-eaa2a35ec0b1

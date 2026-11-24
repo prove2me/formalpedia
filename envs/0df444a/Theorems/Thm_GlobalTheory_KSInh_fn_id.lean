@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSInh_fn_id
 -- name    : GlobalTheory.KSInh.fn_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:46:48.577909+00:00
 -- url     : https://prove2.me/theorems/4f9700f5-835f-4736-86fb-496ac71b3418

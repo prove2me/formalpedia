@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__spaces_signature_eq_b068484ac5cc
 -- name    : P2M_Formalism_BasicNotions_Examples__spaces_signature_eq_b068484ac5cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:20:56.51713+00:00
 -- url     : https://prove2.me/theorems/5bdf3a67-fb29-4acc-a2d0-86778afee1d2

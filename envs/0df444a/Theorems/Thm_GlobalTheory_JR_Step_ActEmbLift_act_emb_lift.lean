@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_ActEmbLift_act_emb_lift
 -- name    : GlobalTheory.JR.Step.ActEmbLift.act_emb_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:35:40.671064+00:00
 -- url     : https://prove2.me/theorems/a01981f1-d6f5-428c-94bf-670d9c3a7d83

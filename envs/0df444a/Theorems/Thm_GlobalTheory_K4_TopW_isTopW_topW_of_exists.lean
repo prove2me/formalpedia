@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K4_TopW_isTopW_topW_of_exists
 -- name    : GlobalTheory.K4.TopW.isTopW_topW_of_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:41:25.98091+00:00
 -- url     : https://prove2.me/theorems/f894a253-b847-48db-932d-c0063ba4c7c6

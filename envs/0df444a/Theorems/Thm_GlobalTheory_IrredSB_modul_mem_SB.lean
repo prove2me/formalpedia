@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSB_modul_mem_SB
 -- name    : GlobalTheory.IrredSB.modul_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:20:52.71604+00:00
 -- url     : https://prove2.me/theorems/46c7bb94-f315-4c6f-983d-f46a8882f195

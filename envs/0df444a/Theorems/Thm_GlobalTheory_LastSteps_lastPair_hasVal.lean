@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_lastPair_hasVal
 -- name    : GlobalTheory.LastSteps.lastPair_hasVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:57:32.435523+00:00
 -- url     : https://prove2.me/theorems/5bd76770-a537-4c4c-a038-78ba74c6371a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_eq_prod_of_isMonomialOnOpen
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_eq_prod_of_isMonomialOnOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:26:15.225036+00:00
 -- url     : https://prove2.me/theorems/35a3c7ec-c0b6-4034-ba28-80bc93e68916

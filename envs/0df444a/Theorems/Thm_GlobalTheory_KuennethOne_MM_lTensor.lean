@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KuennethOne_MM_lTensor
 -- name    : GlobalTheory.KuennethOne.MM_lTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:55:32.234499+00:00
 -- url     : https://prove2.me/theorems/71cd580d-8ae7-43bd-a0bc-b1bb7865f3ff

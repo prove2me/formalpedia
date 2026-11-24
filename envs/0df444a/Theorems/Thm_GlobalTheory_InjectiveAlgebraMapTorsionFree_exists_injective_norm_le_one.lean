@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjectiveAlgebraMapTorsionFree_exists_injective_norm_le_one
 -- name    : GlobalTheory.InjectiveAlgebraMapTorsionFree.exists_injective_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:10.141842+00:00
 -- url     : https://prove2.me/theorems/c5dc5a03-8d2f-443e-9282-371aed984a53

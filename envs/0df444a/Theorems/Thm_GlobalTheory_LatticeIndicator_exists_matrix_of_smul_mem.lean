@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIndicator_exists_matrix_of_smul_mem
 -- name    : GlobalTheory.LatticeIndicator.exists_matrix_of_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:59:58.151857+00:00
 -- url     : https://prove2.me/theorems/b733f5a8-d3bc-4226-a3bf-1dd6950908b4

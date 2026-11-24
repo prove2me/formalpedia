@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_weilAt_of_subsingleton
 -- name    : GlobalTheory.JR.weilAt_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:40:10.812817+00:00
 -- url     : https://prove2.me/theorems/fc1bc73f-1ea6-48b8-8fb8-db30733c6ddf

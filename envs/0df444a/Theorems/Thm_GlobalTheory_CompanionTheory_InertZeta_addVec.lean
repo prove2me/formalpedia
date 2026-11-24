@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_addVec
 -- name    : GlobalTheory.CompanionTheory.InertZeta.addVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:15.233207+00:00
 -- url     : https://prove2.me/theorems/e910d95e-f3c7-45ff-830b-5ac51c8fb5f7

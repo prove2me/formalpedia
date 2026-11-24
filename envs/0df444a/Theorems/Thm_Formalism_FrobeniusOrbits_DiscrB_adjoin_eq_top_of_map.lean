@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_DiscrB_adjoin_eq_top_of_map
 -- name    : Formalism.FrobeniusOrbits.DiscrB.adjoin_eq_top_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:57:59.048774+00:00
 -- url     : https://prove2.me/theorems/9c01d5f1-dae2-432a-8aa0-a3d30a95d0b5

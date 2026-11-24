@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_PtDual_exists_ptDer
 -- name    : GlobalTheory.KS.PtDual.exists_ptDer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:45:35.722526+00:00
 -- url     : https://prove2.me/theorems/cd2487bf-7d67-42fe-b249-467700110fb4

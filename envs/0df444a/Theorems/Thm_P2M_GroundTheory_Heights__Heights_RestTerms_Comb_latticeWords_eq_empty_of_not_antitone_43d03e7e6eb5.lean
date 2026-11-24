@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_latticeWords_eq_empty_of_not_antitone_43d03e7e6eb5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_latticeWords_eq_empty_of_not_antitone_43d03e7e6eb5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:23:58.026853+00:00
 -- url     : https://prove2.me/theorems/b8d8afb2-93e2-43b7-a53b-c1649c280a06

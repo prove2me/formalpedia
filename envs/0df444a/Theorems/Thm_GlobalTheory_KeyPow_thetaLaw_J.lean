@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_thetaLaw_J
 -- name    : GlobalTheory.KeyPow.thetaLaw_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:49:48.205845+00:00
 -- url     : https://prove2.me/theorems/9bf07889-30bf-48b1-9c21-15421eafcbd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjTwist_isLocallyFraction_mul
 -- name    : GroundTheory.Arith.SchemeCoh.ProjTwist.isLocallyFraction_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:20:23.293208+00:00
 -- url     : https://prove2.me/theorems/6e45a6d1-f937-41b8-8733-8813555e6d1e

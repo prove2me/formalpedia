@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelEigen_sval_act
 -- name    : GlobalTheory.KernelEigen.sval_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:49:34.465847+00:00
 -- url     : https://prove2.me/theorems/f43afadd-5462-4e02-b7fc-5ed9ba645a2b

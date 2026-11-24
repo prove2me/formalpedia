@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_mem_diff_iff
 -- name    : Formalism.FrobeniusOrbits.Principal.mem_diff_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:31.234528+00:00
 -- url     : https://prove2.me/theorems/fad6fe2f-4fd0-4a2c-a6b9-8d5a23a66beb

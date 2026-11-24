@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_tw_exists_root_chain
 -- name    : GlobalTheory.K5.Basic.tw_exists_root_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:41:59.58689+00:00
 -- url     : https://prove2.me/theorems/0f79641c-47fa-43d8-9b7d-882f6e913bf9

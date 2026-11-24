@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OKOpen_isOpen_OK
 -- name    : GlobalTheory.JR.OKOpen.isOpen_OK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:34:39.505471+00:00
 -- url     : https://prove2.me/theorems/5b36c0e8-a7ef-4f3c-a926-8e0fcb3fb410

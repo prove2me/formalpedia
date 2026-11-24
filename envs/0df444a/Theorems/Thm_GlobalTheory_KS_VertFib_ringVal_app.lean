@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertFib_ringVal_app
 -- name    : GlobalTheory.KS.VertFib.ringVal_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:02:32.828416+00:00
 -- url     : https://prove2.me/theorems/1f1546d2-41ca-4e2e-b9ad-27ce08f24998

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_PtDual_ev_ext
 -- name    : GlobalTheory.KS.PtDual.ev_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:46:37.57721+00:00
 -- url     : https://prove2.me/theorems/682d5681-c6a3-4f3f-b6d6-49a67df72d25

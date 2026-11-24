@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_cf_zsmul_84a2d79b925d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_cf_zsmul_84a2d79b925d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:19:37.890672+00:00
 -- url     : https://prove2.me/theorems/5a0a29fd-ffe1-48ea-9ecb-05f747c3ac5c

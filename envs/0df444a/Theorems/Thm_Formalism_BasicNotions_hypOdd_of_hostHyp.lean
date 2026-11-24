@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_hypOdd_of_hostHyp
 -- name    : Formalism.BasicNotions.hypOdd_of_hostHyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:12:16.095864+00:00
 -- url     : https://prove2.me/theorems/df81716e-3b8d-45a2-8fa1-b3c74fb82084

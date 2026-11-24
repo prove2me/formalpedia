@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMor_res_app
 -- name    : GlobalTheory.KS.DerMor.res_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:42:53.217019+00:00
 -- url     : https://prove2.me/theorems/1e89be56-2d2e-440e-b815-14bb125eb5f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_isTest_ops
 -- name    : GlobalTheory.JR.Hyp.isTest_ops
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:33:41.174736+00:00
 -- url     : https://prove2.me/theorems/73fba61c-e5b0-45c9-ac61-2e97fa2a49c3

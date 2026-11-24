@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatHecke_gl_transitive_lattices
 -- name    : GlobalTheory.LatHecke.gl_transitive_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:57:12.341176+00:00
 -- url     : https://prove2.me/theorems/581d8bd7-bfa9-4a95-8b17-31bab00f69f7

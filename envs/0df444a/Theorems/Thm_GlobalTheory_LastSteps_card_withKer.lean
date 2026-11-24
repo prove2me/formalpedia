@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_card_withKer
 -- name    : GlobalTheory.LastSteps.card_withKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:57:11.444987+00:00
 -- url     : https://prove2.me/theorems/21b33bd9-c3e1-434d-9b39-0ec378210d5e

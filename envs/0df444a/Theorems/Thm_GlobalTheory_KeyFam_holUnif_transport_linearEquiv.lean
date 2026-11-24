@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyFam_holUnif_transport_linearEquiv
 -- name    : GlobalTheory.KeyFam.holUnif_transport_linearEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:04:42.653294+00:00
 -- url     : https://prove2.me/theorems/b4e3bc4d-ee65-4011-aaaa-74285cabae93

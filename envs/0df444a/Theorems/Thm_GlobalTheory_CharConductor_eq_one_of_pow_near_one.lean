@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharConductor_eq_one_of_pow_near_one
 -- name    : GlobalTheory.CharConductor.eq_one_of_pow_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:22.220416+00:00
 -- url     : https://prove2.me/theorems/4fa1cc84-1b1b-4f65-aced-0ad3d028d841

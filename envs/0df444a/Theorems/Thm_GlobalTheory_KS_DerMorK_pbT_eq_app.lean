@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMorK_pbT_eq_app
 -- name    : GlobalTheory.KS.DerMorK.pbT_eq_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:44:54.098837+00:00
 -- url     : https://prove2.me/theorems/3c543873-0c83-4e3f-b2c0-be7e9c1f17d2

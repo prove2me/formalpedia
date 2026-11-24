@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_ProdLift_appLE_constFn
 -- name    : GlobalTheory.KS.ProdLift.appLE_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:45:15.159825+00:00
 -- url     : https://prove2.me/theorems/57ad37c5-15b6-482c-bfcb-9c2ee00fc992

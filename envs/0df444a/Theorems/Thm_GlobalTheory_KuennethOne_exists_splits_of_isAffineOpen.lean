@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KuennethOne_exists_splits_of_isAffineOpen
 -- name    : GlobalTheory.KuennethOne.exists_splits_of_isAffineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:55:52.672706+00:00
 -- url     : https://prove2.me/theorems/42446797-b38b-40dd-9e75-8ef86ec1cf81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarScaling_oneMinusDD_const_mul
 -- name    : Formalism.FourierDecayAlt.P.HaarScaling.oneMinusDD_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:10:12.479716+00:00
 -- url     : https://prove2.me/theorems/3f9b7f24-1899-42b3-92f6-26314a78103a

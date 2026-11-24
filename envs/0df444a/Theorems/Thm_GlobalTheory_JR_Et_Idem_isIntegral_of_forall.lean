@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_Idem_isIntegral_of_forall
 -- name    : GlobalTheory.JR.Et.Idem.isIntegral_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:27:12.603481+00:00
 -- url     : https://prove2.me/theorems/74e0f744-39c9-4c2a-ab57-43247588bf6b

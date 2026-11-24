@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SilverRateSC_lemma_B_4
 -- name    : SilverRateSC.lemma_B_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T03:45:48.982814+00:00
 -- url     : https://prove2.me/theorems/b0cbdcfe-c64e-4e8c-9d4b-d311f4fd2736

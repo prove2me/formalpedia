@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_ProdLift_der_eq_of_isPushout
 -- name    : GlobalTheory.KS.ProdLift.der_eq_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:00:48.771946+00:00
 -- url     : https://prove2.me/theorems/bea2855e-5e23-4d8e-a67b-2e7ab2fb2403

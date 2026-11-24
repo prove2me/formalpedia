@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NG_pow_level_mul
 -- name    : Formalism.L2.NG.pow_level_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:11:02.227216+00:00
 -- url     : https://prove2.me/theorems/402d1c13-2ec3-4e95-bf8e-145df7efd085

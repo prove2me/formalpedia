@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Twist_schwartz_logDeriv_linear_gaussian
 -- name    : GlobalTheory.CompanionTheory.Twist.schwartz_logDeriv_linear_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:27:05.274114+00:00
 -- url     : https://prove2.me/theorems/7693bd38-10e5-4f22-9122-27a23d06a4c1

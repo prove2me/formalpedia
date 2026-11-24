@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_uniq_key
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.uniq_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:53:28.882802+00:00
 -- url     : https://prove2.me/theorems/0ff3cfff-547b-4ae8-817a-beca0a1a392a

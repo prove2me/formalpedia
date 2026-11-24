@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_leftMul_tau
 -- name    : GlobalTheory.JR.LinDesc.leftMul_tau
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:50:22.420458+00:00
 -- url     : https://prove2.me/theorems/5c4b2520-b5b5-4cd0-b941-673e0f0f0f20

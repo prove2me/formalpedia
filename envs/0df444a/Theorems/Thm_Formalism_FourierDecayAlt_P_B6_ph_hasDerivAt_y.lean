@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_ph_hasDerivAt_y
 -- name    : Formalism.FourierDecayAlt.P.B6.ph_hasDerivAt_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:03:50.493447+00:00
 -- url     : https://prove2.me/theorems/9080ea60-681f-4420-a923-5c2bfb79e94c

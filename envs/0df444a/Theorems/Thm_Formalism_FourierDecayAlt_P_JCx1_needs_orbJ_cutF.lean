@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_orbJ_cutF
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.orbJ_cutF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:44:26.263798+00:00
 -- url     : https://prove2.me/theorems/7faea724-888d-4bbc-945f-8b8494c8ab85

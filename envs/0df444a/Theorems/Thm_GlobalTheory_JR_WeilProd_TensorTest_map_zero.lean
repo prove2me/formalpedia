@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_TensorTest_map_zero
 -- name    : GlobalTheory.JR.WeilProd.TensorTest.map_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:37:30.600202+00:00
 -- url     : https://prove2.me/theorems/4e1985a3-8e61-4074-9c96-66076df1f71d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KoszulCx_ring_coords
 -- name    : GlobalTheory.KeyKa.KoszulCx.ring_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:54:24.766403+00:00
 -- url     : https://prove2.me/theorems/2bff370a-c547-409b-9f45-a0e04a8611be

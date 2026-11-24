@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_unitG_act
 -- name    : GlobalTheory.JR.GLift.unitG_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:50.62377+00:00
 -- url     : https://prove2.me/theorems/621da7bd-8e14-4469-893c-769e3546b2a6

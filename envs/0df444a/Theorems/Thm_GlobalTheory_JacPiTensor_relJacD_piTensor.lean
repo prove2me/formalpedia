@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacPiTensor_relJacD_piTensor
 -- name    : GlobalTheory.JacPiTensor.relJacD_piTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:39:57.823324+00:00
 -- url     : https://prove2.me/theorems/b74e4436-59b9-4240-bcc4-77ad3b03fe33

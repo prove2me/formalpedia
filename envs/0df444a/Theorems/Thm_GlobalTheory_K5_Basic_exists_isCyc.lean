@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_exists_isCyc
 -- name    : GlobalTheory.K5.Basic.exists_isCyc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:42:10.142128+00:00
 -- url     : https://prove2.me/theorems/229cac74-2fe4-4969-a1cf-d86d87268869

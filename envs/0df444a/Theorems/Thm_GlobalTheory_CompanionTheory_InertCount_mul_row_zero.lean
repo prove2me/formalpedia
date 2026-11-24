@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCount_mul_row_zero
 -- name    : GlobalTheory.CompanionTheory.InertCount.mul_row_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:55:42.568596+00:00
 -- url     : https://prove2.me/theorems/95240a5a-24eb-457c-bc30-0d0f8aac6652

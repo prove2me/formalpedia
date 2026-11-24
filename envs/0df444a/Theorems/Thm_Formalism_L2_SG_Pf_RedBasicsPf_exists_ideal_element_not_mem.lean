@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_exists_ideal_element_not_mem
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.exists_ideal_element_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:27:00.576937+00:00
 -- url     : https://prove2.me/theorems/475b22d7-f7c5-4838-8fdd-68a755a55856

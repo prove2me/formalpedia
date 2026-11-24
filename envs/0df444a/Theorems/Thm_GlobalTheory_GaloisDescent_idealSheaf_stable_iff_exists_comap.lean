@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_idealSheaf_stable_iff_exists_comap
 -- name    : GlobalTheory.GaloisDescent.idealSheaf_stable_iff_exists_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:47:51.390727+00:00
 -- url     : https://prove2.me/theorems/42e7deec-b245-4e9b-8da6-d7b1060f4454

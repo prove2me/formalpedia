@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsotypicOrth_nonempty_equiv_of_pair
 -- name    : GlobalTheory.IsotypicOrth.nonempty_equiv_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:21:09.527128+00:00
 -- url     : https://prove2.me/theorems/e1bfcb4c-ebac-41b2-bc49-835aaee9d879

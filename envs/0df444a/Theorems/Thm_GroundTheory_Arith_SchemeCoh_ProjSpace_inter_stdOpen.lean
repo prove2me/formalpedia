@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_inter_stdOpen
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.inter_stdOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:23:45.243367+00:00
 -- url     : https://prove2.me/theorems/7262f1a9-c82b-43ac-bba7-0d654299619f

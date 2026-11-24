@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_jetRel_of_weierstrass_system
 -- name    : GlobalTheory.JetConj.jetRel_of_weierstrass_system
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:21.107632+00:00
 -- url     : https://prove2.me/theorems/86cbd68f-1676-405b-b7cf-12f54f42c20f

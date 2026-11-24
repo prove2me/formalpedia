@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_norm_sub_notMem_of_not_norm
 -- name    : GlobalTheory.JR.norm_sub_notMem_of_not_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:39:57.052477+00:00
 -- url     : https://prove2.me/theorems/c4706d63-9248-4239-baf3-4c24fa53c829

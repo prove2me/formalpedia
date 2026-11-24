@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralMultipleClearDenominators_exists_nsmul_mulVec_mem
 -- name    : GlobalTheory.IntegralMultipleClearDenominators.exists_nsmul_mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:37:04.884701+00:00
 -- url     : https://prove2.me/theorems/002dfe68-685f-4251-ab67-87e25b2263b9

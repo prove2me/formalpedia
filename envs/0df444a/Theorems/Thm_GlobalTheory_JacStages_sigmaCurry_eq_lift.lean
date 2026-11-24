@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacStages_sigmaCurry_eq_lift
 -- name    : GlobalTheory.JacStages.sigmaCurry_eq_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:39:56.32534+00:00
 -- url     : https://prove2.me/theorems/a9da09a4-8ae9-45cb-8f48-49de3f6abe56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_norm_inclPlus
 -- name    : GlobalTheory.ClassParam.norm_inclPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:13:26.168251+00:00
 -- url     : https://prove2.me/theorems/d1e7ef0f-fee3-4ffd-9816-6dd048f73036

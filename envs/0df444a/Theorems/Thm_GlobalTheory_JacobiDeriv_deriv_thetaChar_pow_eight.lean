@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacobiDeriv_deriv_thetaChar_pow_eight
 -- name    : GlobalTheory.JacobiDeriv.deriv_thetaChar_pow_eight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:39:49.45997+00:00
 -- url     : https://prove2.me/theorems/d7bdfd89-db3c-4a70-8bc2-d51e7327ee42

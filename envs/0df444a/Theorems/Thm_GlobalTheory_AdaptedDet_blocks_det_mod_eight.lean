@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedDet_blocks_det_mod_eight
 -- name    : GlobalTheory.AdaptedDet.blocks_det_mod_eight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:55:00.651834+00:00
 -- url     : https://prove2.me/theorems/f40b1d4f-4c01-4e7f-b0f2-a4f67fc92f90

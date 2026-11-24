@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMorK_hom_ext_appLE
 -- name    : GlobalTheory.KS.DerMorK.hom_ext_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:44:01.773999+00:00
 -- url     : https://prove2.me/theorems/e870608d-5dda-4be8-9f23-693c3245cce2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabLie_exp_hpart1_mem
 -- name    : Formalism.FourierDecayAlt.Q.EabLie.exp_hpart1_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:41:20.68012+00:00
 -- url     : https://prove2.me/theorems/1ceb49c1-76f2-48cf-883c-6049abf77280

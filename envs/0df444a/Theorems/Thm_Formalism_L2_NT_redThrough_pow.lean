@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_redThrough_pow
 -- name    : Formalism.L2.NT.redThrough_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:55:48.187029+00:00
 -- url     : https://prove2.me/theorems/ac2d839b-826f-4d1c-a4f9-aba704dee205

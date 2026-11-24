@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_contDiff_gI
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.contDiff_gI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:53:54.421052+00:00
 -- url     : https://prove2.me/theorems/9808db16-4078-4fb9-9317-bdbdcbafbfa4

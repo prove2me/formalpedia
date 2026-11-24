@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_SphericalEisensteinCover_mem_spanFrom_update
 -- name    : GlobalTheory.FlagPts.SphericalEisensteinCover.mem_spanFrom_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:54:45.064251+00:00
 -- url     : https://prove2.me/theorems/f3f58481-3da2-4148-b1c2-bac4aeb259bd

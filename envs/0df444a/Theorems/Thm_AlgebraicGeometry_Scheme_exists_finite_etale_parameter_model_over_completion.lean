@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_finite_etale_parameter_model_over_completion
 -- name    : AlgebraicGeometry.Scheme.exists_finite_etale_parameter_model_over_completion
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T09:21:45.548716+00:00
 -- url     : https://prove2.me/theorems/e6a9dae9-7057-4080-9929-0b2dee86bd15

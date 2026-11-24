@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_Nst_eq
 -- name    : Formalism.FourierDecayAlt.P.PBA.Nst_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:53:37.479002+00:00
 -- url     : https://prove2.me/theorems/34cb38bd-c5ab-4a3d-bbce-1cc1a6cc0a76

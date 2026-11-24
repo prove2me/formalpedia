@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_exists_lifts
 -- name    : GlobalTheory.LastSteps.exists_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:56:44.638072+00:00
 -- url     : https://prove2.me/theorems/1b171f57-d10d-4f6b-add3-cbc21adfb4d4

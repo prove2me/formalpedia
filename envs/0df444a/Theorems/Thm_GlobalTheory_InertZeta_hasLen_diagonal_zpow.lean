@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_hasLen_diagonal_zpow
 -- name    : GlobalTheory.InertZeta.hasLen_diagonal_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:18:54.418799+00:00
 -- url     : https://prove2.me/theorems/41ef8875-7607-4c41-837b-ec44517e3283

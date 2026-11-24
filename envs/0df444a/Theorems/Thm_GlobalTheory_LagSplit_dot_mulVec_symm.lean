@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_dot_mulVec_symm
 -- name    : GlobalTheory.LagSplit.dot_mulVec_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:57:12.532446+00:00
 -- url     : https://prove2.me/theorems/8c922542-8e8b-429f-ad61-d8acc08f8e5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LLocal_analyticOrderNatAt_comp_const_add
 -- name    : GlobalTheory.LLocal.analyticOrderNatAt_comp_const_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:55:46.005976+00:00
 -- url     : https://prove2.me/theorems/d13ad5db-5350-4cf0-8c81-125f2a6e4a62

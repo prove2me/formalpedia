@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DimPEL_theta_mem
 -- name    : GlobalTheory.KS.DimPEL.theta_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:45:04.710524+00:00
 -- url     : https://prove2.me/theorems/8f6ba05e-8c53-44f6-8edf-fc2bb56fe24e

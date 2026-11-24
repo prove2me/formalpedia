@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NearZero_finite_F_L
 -- name    : GlobalTheory.JR.WeilQuad.NearZero.finite_F_L
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:41:24.768314+00:00
 -- url     : https://prove2.me/theorems/ec14c9d8-8e7b-47fa-b652-a1c7e5ad9d45

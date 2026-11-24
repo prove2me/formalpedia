@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_TwistMul_twist_twist
 -- name    : GlobalTheory.HilbFam.TwistMul.twist_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:39:07.959992+00:00
 -- url     : https://prove2.me/theorems/68919a08-830b-4e51-8acb-3a8ae4c4f813

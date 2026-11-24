@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_cellMap_injective
 -- name    : GlobalTheory.FlagPts.cellMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:54:53.214412+00:00
 -- url     : https://prove2.me/theorems/55b4e03e-bb25-40f2-8684-7a73b6986088

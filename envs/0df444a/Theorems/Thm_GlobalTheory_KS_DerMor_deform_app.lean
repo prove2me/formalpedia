@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMor_deform_app
 -- name    : GlobalTheory.KS.DerMor.deform_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:42:51.550894+00:00
 -- url     : https://prove2.me/theorems/54bf7dc7-a5fe-44f3-8cbc-48d0cb29c75b

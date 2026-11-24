@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_algDet_of_core
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.algDet_of_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:11:01.592314+00:00
 -- url     : https://prove2.me/theorems/96838dff-807b-4eeb-a8f6-c8e92bf02d1b

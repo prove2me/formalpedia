@@ -56673,7 +56673,7 @@
 {"parent": "OAI.CubicEisenstein.kernelLevel_character_continuous_representative", "child": "OAI_NumberTheory_DirichletL_Eisenstein_OppositeCusp", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelLevel_character_continuous_representative", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ScatteringResidues", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelLevel_character_continuous_representative", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ResidualFourierExpansion", "via": ["solution", "statement"]}
-{"parent": "L1ResistanceCount.Counting.lemma_2_2", "child": "L1ResistanceCount_Counting_Obstacle", "via": ["statement"]}
+{"parent": "L1ResistanceCount.Counting.lemma_2_2", "child": "L1ResistanceCount_Counting_Obstacle", "via": ["solution", "statement"]}
 {"parent": "FullForesight_Randomized_Model", "child": "SubsamplingSM_Offline_IsMonotoneSetFn", "via": ["statement"]}
 {"parent": "FullForesight_Randomized_Model", "child": "SubsamplingSM_Offline_IsSubmodular", "via": ["statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalPooled_mass_le_parent", "child": "OAI_NumberTheory_DirichletL_MeanSquare_CanonicalTailBounds", "via": ["solution", "statement"]}
@@ -76800,7 +76800,7 @@
 {"parent": "ShortestPlanarDisjoint_Main_Embedding", "child": "ShortestPlanarDisjoint_Main_Computation", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SL3Certificate.gram_row_17_ca", "child": "OAIQ229C004", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SL3Certificate.gram_row_17_ca", "child": "OAIQ229C005", "via": ["solution", "statement"]}
-{"parent": "RobustKZClust.Main.eq_25", "child": "RobustKZClust_Main_Spline", "via": ["statement"]}
+{"parent": "RobustKZClust.Main.eq_25", "child": "RobustKZClust_Main_Spline", "via": ["solution", "statement"]}
 {"parent": "DQIShattered.coupling_markov", "child": "DQIShattered_Decoding", "via": ["statement"]}
 {"parent": "DQIShattered.coupling_markov", "child": "DQIShattered_Thresholds", "via": ["statement"]}
 {"parent": "DQIShattered.coupling_markov", "child": "DQIShattered_Ensemble", "via": ["statement"]}

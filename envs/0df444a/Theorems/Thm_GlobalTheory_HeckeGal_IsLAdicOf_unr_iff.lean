@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_IsLAdicOf_unr_iff
 -- name    : GlobalTheory.HeckeGal.IsLAdicOf.unr_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:58:23.143618+00:00
 -- url     : https://prove2.me/theorems/eeb17c9c-f1a2-415d-9ebc-0bb32ff88006

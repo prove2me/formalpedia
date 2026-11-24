@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertField_isOpen_dom_and_differentiableOn_fn
 -- name    : GlobalTheory.KS.VertField.isOpen_dom_and_differentiableOn_fn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:02:59.801992+00:00
 -- url     : https://prove2.me/theorems/10f9a4f3-4200-4cc5-83ef-61655e302887

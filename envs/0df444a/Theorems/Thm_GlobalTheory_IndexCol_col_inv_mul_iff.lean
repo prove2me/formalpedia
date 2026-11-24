@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexCol_col_inv_mul_iff
 -- name    : GlobalTheory.IndexCol.col_inv_mul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:15:33.508742+00:00
 -- url     : https://prove2.me/theorems/9e8432b8-e9cb-4a1b-9577-5f25438d2d7e

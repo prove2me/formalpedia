@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_tw_exists_prim_p
 -- name    : GlobalTheory.K5.Basic.tw_exists_prim_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:42:03.511507+00:00
 -- url     : https://prove2.me/theorems/af567b71-5333-4e79-8dde-b36d2ff0c8be

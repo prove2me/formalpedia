@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_derivation_extend_of_formallySmooth
 -- name    : GlobalTheory.KS.exists_derivation_extend_of_formallySmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:47:06.98679+00:00
 -- url     : https://prove2.me/theorems/fc30db3c-64db-4eff-ab9c-1bbc84136afd

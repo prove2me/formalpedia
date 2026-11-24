@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarScaling_iteratedDeriv_two_const_mul
 -- name    : Formalism.FourierDecayAlt.P.HaarScaling.iteratedDeriv_two_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:09:54.379871+00:00
 -- url     : https://prove2.me/theorems/4581fcd9-0ba4-4876-aeb3-5035a01fe904

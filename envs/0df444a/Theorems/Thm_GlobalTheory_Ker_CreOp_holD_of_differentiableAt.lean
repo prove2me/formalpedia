@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ker_CreOp_holD_of_differentiableAt
 -- name    : GlobalTheory.Ker.CreOp.holD_of_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:48:04.969149+00:00
 -- url     : https://prove2.me/theorems/592dad29-4bff-4d27-be7d-c7b48ed8fec7

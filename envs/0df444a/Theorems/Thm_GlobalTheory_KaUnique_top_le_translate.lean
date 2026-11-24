@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_top_le_translate
 -- name    : GlobalTheory.KaUnique.top_le_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:01:57.932368+00:00
 -- url     : https://prove2.me/theorems/43348ee1-bb69-4d54-9f8d-8d2f5bb788bb

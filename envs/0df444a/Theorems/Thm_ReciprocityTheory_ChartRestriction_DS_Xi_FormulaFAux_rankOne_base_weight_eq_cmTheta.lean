@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_FormulaFAux_rankOne_base_weight_eq_cmTheta
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.FormulaFAux.rankOne_base_weight_eq_cmTheta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:53:37.146635+00:00
 -- url     : https://prove2.me/theorems/c55d6d4f-b8e2-4c1e-bcc8-191ad2125003

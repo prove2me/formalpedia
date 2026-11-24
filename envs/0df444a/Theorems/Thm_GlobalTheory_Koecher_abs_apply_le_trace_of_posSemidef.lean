@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Koecher_abs_apply_le_trace_of_posSemidef
 -- name    : GlobalTheory.Koecher.abs_apply_le_trace_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:49:23.135804+00:00
 -- url     : https://prove2.me/theorems/183504aa-d4f4-445f-8c55-1c5cdf7cdd24

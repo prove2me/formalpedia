@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_isCyc_mul
 -- name    : GlobalTheory.K5.Basic.isCyc_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:42:21.547672+00:00
 -- url     : https://prove2.me/theorems/38d0dcb0-ca6c-4378-bfe7-753958b6121f

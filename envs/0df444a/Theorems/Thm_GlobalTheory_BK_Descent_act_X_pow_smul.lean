@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_act_X_pow_smul
 -- name    : GlobalTheory.BK.Descent.act_X_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:07:26.072515+00:00
 -- url     : https://prove2.me/theorems/6a6f4c2a-1094-4c7c-9452-ea3abb205c1a

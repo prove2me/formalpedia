@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrowth_measurable_summatory
 -- name    : GlobalTheory.LGrowth.measurable_summatory
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:55:50.095267+00:00
 -- url     : https://prove2.me/theorems/038a94f2-8517-40c4-af27-63c125c7c9ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCompare_substJ_zR
 -- name    : GlobalTheory.TorsionCompare.substJ_zR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:28:32.039917+00:00
 -- url     : https://prove2.me/theorems/da6089fa-84bd-48dc-af55-d14afe70fa64

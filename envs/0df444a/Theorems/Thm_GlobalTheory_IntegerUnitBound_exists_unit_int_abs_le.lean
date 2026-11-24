@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegerUnitBound_exists_unit_int_abs_le
 -- name    : GlobalTheory.IntegerUnitBound.exists_unit_int_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:28.155033+00:00
 -- url     : https://prove2.me/theorems/f4d5d21b-1985-4f92-ba48-0de9391d141b

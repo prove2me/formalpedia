@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BesselScaling_AB_pos
 -- name    : Formalism.FourierDecayAlt.P.BesselScaling.AB_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:09:49.422121+00:00
 -- url     : https://prove2.me/theorems/c3aeba89-b2b1-464b-852b-2cf67cfa7f7b

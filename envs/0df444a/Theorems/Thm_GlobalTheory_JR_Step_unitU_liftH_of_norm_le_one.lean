@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_unitU_liftH_of_norm_le_one
 -- name    : GlobalTheory.JR.Step.unitU_liftH_of_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:37:20.783195+00:00
 -- url     : https://prove2.me/theorems/f363ab76-aa18-48ab-9596-2510e36e4700

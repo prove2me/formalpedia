@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_re_real_sum
 -- name    : Formalism.FourierDecayAlt.P.PBA.re_real_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:08:49.025149+00:00
 -- url     : https://prove2.me/theorems/bfc11a31-542b-4345-ade7-de5b58530531

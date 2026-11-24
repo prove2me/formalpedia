@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_generators_mem_range_39ea2274794c
+-- name    : P2M_Formalism_BasicNotions_Examples__NZ_generators_mem_range_39ea2274794c
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-24T18:49:07.910571+00:00
+-- url     : https://prove2.me/theorems/fe71fda6-c296-4a24-b007-16a51512deb2
+-- title:
+--   P2 M Formalism Basic Notions Examples  NZ generators mem range 39ea2274794c: P2 M Formalism Basic Notions Examples  NZ generators mem range 39ea2274794c
+-- statement:
+--   The P2 M Formalism Basic Notions Examples  NZ generators mem range 39ea2274794c construction uses the P2 M Formalism Basic Notions Examples  NZ generators mem range 39ea2274794c property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalRingCardinality/SpanPowerMembership/NZRowA.lean#L114-L117
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalRingCardinality/SpanPowerMembership/NZRowA.lean#L114-L117
+
+import Definitions.Def_Formalism_LocalRingCardinality_DataRows
+import Definitions.Def_Formalism_LocalRingCardinality_DataForms
+import Definitions.Def_Formalism_LocalRingCardinality_SpanPowerMembership_NZRowA
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Formalism Formalism.BasicNotions Formalism.BasicNotions.Examples₂ Formalism.BasicNotions.Examples₂.NZ
+open NumberField IsDedekindDomain Formalism.BasicNotions
+variable {K : Type} [Field K] (σ : K →+* ℂ) {n : ℕ}
+  {V : Type} [NormedAddCommGroup V] [InnerProductSpace ℂ V] (b : OrthonormalBasis (Fin n) ℂ V)
+
+theorem P2M_Formalism_BasicNotions_Examples__NZ_generators_mem_range_39ea2274794c : ∀ v ∈ genB b, v ∈ Set.range (jB σ b) := by sorry
+
+alias «Formalism».«BasicNotions».«Examples₂».«NZ».«generators_mem_range» := P2M_Formalism_BasicNotions_Examples__NZ_generators_mem_range_39ea2274794c

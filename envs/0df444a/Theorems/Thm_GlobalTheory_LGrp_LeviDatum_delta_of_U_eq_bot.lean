@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_LeviDatum_delta_of_U_eq_bot
 -- name    : GlobalTheory.LGrp.LeviDatum.delta_of_U_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:56:08.04387+00:00
 -- url     : https://prove2.me/theorems/c6ddc96c-d7d1-4a52-a8c3-ba6c36d7f422

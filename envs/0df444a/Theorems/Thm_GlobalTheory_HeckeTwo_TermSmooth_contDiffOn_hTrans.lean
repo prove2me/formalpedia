@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermSmooth_contDiffOn_hTrans
 -- name    : GlobalTheory.HeckeTwo.TermSmooth.contDiffOn_hTrans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:51:53.559796+00:00
 -- url     : https://prove2.me/theorems/e13f6423-2957-4c45-9bd8-6241a18ff1c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_HNeZero_ne_one
 -- name    : Formalism.BasicNotions.HNeZero.ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:11:33.740547+00:00
 -- url     : https://prove2.me/theorems/29a8cc91-1064-4557-8b39-8cdf301abc04

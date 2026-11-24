@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_int_surj
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.int_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:28:22.421519+00:00
 -- url     : https://prove2.me/theorems/3ba91691-3ed8-47a8-9601-da7b4e963f83

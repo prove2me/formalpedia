@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_quadrant_function_continuous_on
 -- name    : Formalism.FourierDecayAlt.P.B6.quadrant_function_continuous_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:04:00.404571+00:00
 -- url     : https://prove2.me/theorems/e90ec2b5-39e5-4a6e-8a78-56148296f61d

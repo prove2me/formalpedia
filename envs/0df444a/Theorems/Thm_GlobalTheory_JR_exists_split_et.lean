@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_exists_split_et
 -- name    : GlobalTheory.JR.exists_split_et
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:38:47.269009+00:00
 -- url     : https://prove2.me/theorems/303a307c-2e34-4223-8a50-2536706c9072

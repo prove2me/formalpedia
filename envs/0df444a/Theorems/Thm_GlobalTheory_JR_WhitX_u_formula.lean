@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WhitX_u_formula
 -- name    : GlobalTheory.JR.WhitX.u_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:40:29.187068+00:00
 -- url     : https://prove2.me/theorems/92e1e25b-e0ad-4ac9-9755-1b50b8d38c5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_eq_embHom_of_last
 -- name    : GlobalTheory.JR.Step.eq_embHom_of_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:36:51.87728+00:00
 -- url     : https://prove2.me/theorems/22e40f07-767e-4a46-8758-b5807b8d3ebd

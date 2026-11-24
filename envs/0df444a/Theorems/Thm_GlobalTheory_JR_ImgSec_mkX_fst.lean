@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_mkX_fst
 -- name    : GlobalTheory.JR.ImgSec.mkX_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:50:18.695818+00:00
 -- url     : https://prove2.me/theorems/757af6e5-88ee-4511-af84-e159581784b3

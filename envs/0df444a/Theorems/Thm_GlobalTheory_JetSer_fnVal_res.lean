@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_fnVal_res
 -- name    : GlobalTheory.JetSer.fnVal_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:41:48.452053+00:00
 -- url     : https://prove2.me/theorems/5e0cc854-9d8b-4b36-a311-0ddec6329714

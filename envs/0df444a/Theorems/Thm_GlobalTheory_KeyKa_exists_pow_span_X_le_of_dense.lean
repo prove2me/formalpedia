@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_exists_pow_span_X_le_of_dense
 -- name    : GlobalTheory.KeyKa.exists_pow_span_X_le_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:49:08.783375+00:00
 -- url     : https://prove2.me/theorems/bb992678-5f7f-40d4-82d1-cf663d559169

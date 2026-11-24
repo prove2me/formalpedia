@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_transl_rowEmb
 -- name    : GlobalTheory.KeyKa.transl_rowEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:50:55.634525+00:00
 -- url     : https://prove2.me/theorems/8a67feb1-9199-4be7-a2e6-c292a65ae760

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_conjugation_invariance_every_setting
 -- name    : Formalism.FourierDecayAlt.P.conjugation_invariance_every_setting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:25:57.878878+00:00
 -- url     : https://prove2.me/theorems/9c50cf10-4492-499d-ad76-abe484ec3d4c

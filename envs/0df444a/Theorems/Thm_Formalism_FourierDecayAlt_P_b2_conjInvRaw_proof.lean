@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_b2_conjInvRaw_proof
 -- name    : Formalism.FourierDecayAlt.P.b2_conjInvRaw_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:25:43.3108+00:00
 -- url     : https://prove2.me/theorems/0e48072a-75d4-4a94-bfc8-ad783f51c7b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_qr_irredCap_of
 -- name    : Formalism.FourierDecayAlt.P.qr_irredCap_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:52:17.983606+00:00
 -- url     : https://prove2.me/theorems/6055a333-f780-4db5-9665-c7858bfd0ac7

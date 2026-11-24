@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilMix_isTest_partialFourier
 -- name    : GlobalTheory.JR.WeilMix.isTest_partialFourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:36:58.038507+00:00
 -- url     : https://prove2.me/theorems/78c76f9e-6334-454d-b472-cf58defa387b

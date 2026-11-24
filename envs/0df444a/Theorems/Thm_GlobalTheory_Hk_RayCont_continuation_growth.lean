@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_continuation_growth
 -- name    : GlobalTheory.Hk.RayCont.continuation_growth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:18:11.662798+00:00
 -- url     : https://prove2.me/theorems/8de629b0-20b5-46f0-9bbb-bee3c275032d

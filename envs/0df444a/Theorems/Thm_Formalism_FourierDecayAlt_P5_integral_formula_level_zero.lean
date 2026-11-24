@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_integral_formula_level_zero
 -- name    : Formalism.FourierDecayAlt.P5.integral_formula_level_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:40:46.802893+00:00
 -- url     : https://prove2.me/theorems/eee5d887-4985-4b8b-9faa-e16ed1776d76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvHom_constFn_zero
 -- name    : GlobalTheory.KS.InvHom.constFn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:44:27.641462+00:00
 -- url     : https://prove2.me/theorems/f81c9a14-a87f-408a-9bcf-33afdffff211

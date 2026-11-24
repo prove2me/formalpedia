@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KuennethOne_rs_MM
 -- name    : GlobalTheory.KuennethOne.rs_MM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:55:27.040978+00:00
 -- url     : https://prove2.me/theorems/26e3ff5d-1777-42df-bd8a-e336ebb40c7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_MatchNotIm_conj_last
 -- name    : GlobalTheory.JR.Step.MatchNotIm.conj_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:36:09.17783+00:00
 -- url     : https://prove2.me/theorems/4d787faf-a53a-4ef6-8b44-16d079fe6bc5

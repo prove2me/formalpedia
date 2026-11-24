@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isLocallyConstantCompactSupport_idempotentCoordinates_iff
 -- name    : GlobalTheory.T.isLocallyConstantCompactSupport_idempotentCoordinates_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:09.56465+00:00
 -- url     : https://prove2.me/theorems/525475d1-3a01-450b-9202-c99a9a20e5e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertTrans_isUnipU_of_radQ
 -- name    : GlobalTheory.CompanionTheory.InertTrans.isUnipU_of_radQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:12.230751+00:00
 -- url     : https://prove2.me/theorems/7cc85ee0-5808-4171-b447-c638b76a4382

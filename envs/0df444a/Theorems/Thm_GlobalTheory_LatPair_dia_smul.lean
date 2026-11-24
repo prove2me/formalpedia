@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_dia_smul
 -- name    : GlobalTheory.LatPair.dia_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:59:20.622141+00:00
 -- url     : https://prove2.me/theorems/d1e4a65b-4c29-4f3a-aaf0-7544766f73b2

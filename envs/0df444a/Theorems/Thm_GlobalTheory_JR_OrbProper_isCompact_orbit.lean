@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbProper_isCompact_orbit
 -- name    : GlobalTheory.JR.OrbProper.isCompact_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:43.505789+00:00
 -- url     : https://prove2.me/theorems/deb185df-0635-4b00-9df5-45838b7ad6b6

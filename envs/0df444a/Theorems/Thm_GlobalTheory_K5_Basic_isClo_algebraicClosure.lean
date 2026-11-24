@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_isClo_algebraicClosure
 -- name    : GlobalTheory.K5.Basic.isClo_algebraicClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:42:04.145027+00:00
 -- url     : https://prove2.me/theorems/0b378a4f-1616-4641-851a-859b63a9cb62

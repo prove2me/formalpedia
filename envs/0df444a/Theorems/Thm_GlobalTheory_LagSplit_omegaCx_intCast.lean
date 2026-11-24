@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_omegaCx_intCast
 -- name    : GlobalTheory.LagSplit.omegaCx_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:57:11.821209+00:00
 -- url     : https://prove2.me/theorems/b01f74f4-062e-4107-adc2-120e85cc392a

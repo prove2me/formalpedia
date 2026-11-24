@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermBound_factorSmooth
 -- name    : GlobalTheory.HeckeTwo.TermBound.factorSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:07:12.381829+00:00
 -- url     : https://prove2.me/theorems/ffdcbf73-29a3-4654-a708-98a8c51a81b5

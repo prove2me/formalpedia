@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_full_injective
 -- name    : GlobalTheory.JR.Step.full_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:37:40.402381+00:00
 -- url     : https://prove2.me/theorems/6812271e-9f42-4fee-9a4c-3114137ea953

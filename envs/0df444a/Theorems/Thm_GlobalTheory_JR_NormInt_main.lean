@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormInt_main
 -- name    : GlobalTheory.JR.NormInt.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:38.976263+00:00
 -- url     : https://prove2.me/theorems/07403f54-9750-40f3-bbaf-82b45d115029

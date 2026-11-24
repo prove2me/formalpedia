@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLen_mem_int_iff
 -- name    : GlobalTheory.CompanionTheory.InertLen.mem_int_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:03:56.281372+00:00
 -- url     : https://prove2.me/theorems/ac93d0e0-d0ab-4243-b882-e7952d65195d

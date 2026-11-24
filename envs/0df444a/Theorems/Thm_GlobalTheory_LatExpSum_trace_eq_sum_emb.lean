@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatExpSum_trace_eq_sum_emb
 -- name    : GlobalTheory.LatExpSum.trace_eq_sum_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:56:44.214273+00:00
 -- url     : https://prove2.me/theorems/3f6136c7-ac76-47ab-a98b-0bee72931351

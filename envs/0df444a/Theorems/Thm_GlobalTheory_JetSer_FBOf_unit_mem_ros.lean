@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FBOf_unit_mem_ros
 -- name    : GlobalTheory.JetSer.FBOf.unit_mem_ros
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:39:54.254241+00:00
 -- url     : https://prove2.me/theorems/5ded59e7-430d-42e5-8375-d92b7d6c48e3

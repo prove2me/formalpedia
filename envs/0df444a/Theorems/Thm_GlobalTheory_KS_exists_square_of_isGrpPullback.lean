@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_square_of_isGrpPullback
 -- name    : GlobalTheory.KS.exists_square_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:21.799326+00:00
 -- url     : https://prove2.me/theorems/365bee37-44cb-4895-998a-7adf0498967f

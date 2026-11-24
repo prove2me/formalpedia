@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DegreeMapArithmetic_dm_qminorRow
 -- name    : Formalism.FourierDecayAlt.P.DegreeMapArithmetic.dm_qminorRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:13:15.804782+00:00
 -- url     : https://prove2.me/theorems/8395b18b-c3a8-4bf2-8835-378e4dd756c5

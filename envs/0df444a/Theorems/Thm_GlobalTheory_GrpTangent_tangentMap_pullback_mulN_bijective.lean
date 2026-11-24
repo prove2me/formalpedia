@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_tangentMap_pullback_mulN_bijective
 -- name    : GlobalTheory.GrpTangent.tangentMap_pullback_mulN_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:32.953289+00:00
 -- url     : https://prove2.me/theorems/1de5a5fb-6903-4e58-8c1e-23d78e1acd4f

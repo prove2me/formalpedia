@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitDict_pf_mem_SB
 -- name    : GlobalTheory.SplitDict.pf_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:54:45.018807+00:00
 -- url     : https://prove2.me/theorems/22235dbd-29a3-4d7e-8512-0332fdf11e5d

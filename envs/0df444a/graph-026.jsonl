@@ -35073,7 +35073,7 @@
 {"parent": "IntegerSumAmplification_Main_Residuals", "child": "IntegerSumAmplification_Main_CoordinateProjections", "via": ["statement"]}
 {"parent": "IntegerSumAmplification_Main_Residuals", "child": "IntegerSumAmplification_Main_Words", "via": ["statement"]}
 {"parent": "SFLOracleLowerBound.Hardness.split_penalty", "child": "SFLOracleLowerBound_Hardness_Replication", "via": ["statement"]}
-{"parent": "StableCountSub3.lemma_5_13", "child": "StableCountSub3_Credits", "via": ["statement"]}
+{"parent": "StableCountSub3.lemma_5_13", "child": "StableCountSub3_Credits", "via": ["solution", "statement"]}
 {"parent": "CNFLearnMQ.lemma_5_13", "child": "CNFLearnMQ_Success", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U73.entry3_0_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.cm48_3_1_1.contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}
@@ -46677,7 +46677,7 @@
 {"parent": "LocalLemmaHierarchy.Completeness.lemma_3_6", "child": "LocalLemmaHierarchy_Completeness_Histories", "via": ["solution", "statement"]}
 {"parent": "LocalLemmaHierarchy.Completeness.lemma_3_6", "child": "LocalLemmaHierarchy_Completeness_Memory", "via": ["solution", "statement"]}
 {"parent": "BhangaleHypergraph.Main.relational_completeness", "child": "BhangaleHypergraph_Main_Relational", "via": ["solution", "statement"]}
-{"parent": "RevRedSAT.lemma_B_5", "child": "RevRedSAT_mu", "via": ["statement"]}
+{"parent": "RevRedSAT.lemma_B_5", "child": "RevRedSAT_mu", "via": ["solution", "statement"]}
 {"parent": "GeoRobustLearn_DangerInterval", "child": "GeoRobustLearn_OffsetLift", "via": ["statement"]}
 {"parent": "OAI.SecondPassArithmetic.multiplicityRow_support", "child": "OAI_NumberTheory_DirichletL_CubicSieve_QuantitativePassage", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.multiplicityRow_support", "child": "OAI_NumberTheory_DirichletL_CubicSieve_DyadicKernel", "via": ["solution", "statement"]}
@@ -48417,7 +48417,7 @@
 {"parent": "OAI.InitialMeanSquare.poolProduct_admissible", "child": "OAI_NumberTheory_DirichletL_MeanSquare_InputEnergy", "via": ["solution", "statement"]}
 {"parent": "BMPV1173.Verification.lemma_4_10", "child": "BMPV1173_Verification_Preprocessing", "via": ["statement"]}
 {"parent": "AlmostLinSubsetSum_Main_Geometry", "child": "AlmostLinSubsetSum_Main_Basic", "via": ["statement"]}
-{"parent": "UnaryQuadraticKKT.Hardness.combined_projection", "child": "UnaryQuadraticKKT_Hardness_Combined", "via": ["statement"]}
+{"parent": "UnaryQuadraticKKT.Hardness.combined_projection", "child": "UnaryQuadraticKKT_Hardness_Combined", "via": ["solution", "statement"]}
 {"parent": "AdaptiveRLDC.LowerBound.claim_5_10", "child": "AdaptiveRLDC_LowerBound_Construction", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r4_12_eq_g", "child": "OAIQ098G404", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r4_12_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
@@ -48761,7 +48761,7 @@
 {"parent": "QEC.Coding.BDL26CSSDaviesLocality.coupling_ne_zero", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_Incidence", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CSSDaviesLocality.coupling_ne_zero", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_Gibbs", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CSSDaviesLocality.coupling_ne_zero", "child": "QEC_Coding_CSS_DaviesLocality", "via": ["solution", "statement"]}
-{"parent": "StableCountSub3.lemma_5_14", "child": "StableCountSub3_Credits", "via": ["statement"]}
+{"parent": "StableCountSub3.lemma_5_14", "child": "StableCountSub3_Credits", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_ProbabilisticConstruction_Resampling_HistoryWitness", "child": "QEC.Coding.ProbabilisticConstruction.avoid_insert", "via": ["statement"]}
 {"parent": "QEC_Coding_ProbabilisticConstruction_Resampling_HistoryWitness", "child": "QEC.Coding.ProbabilisticConstruction.Resampling.mem_closedNeighbors", "via": ["statement"]}
 {"parent": "QEC_Coding_ProbabilisticConstruction_Resampling_HistoryWitness", "child": "QEC_Coding_ProbabilisticConstruction_Resampling_WitnessTrees", "via": ["statement"]}
@@ -48859,7 +48859,7 @@
 {"parent": "QEC.Coding.BDL26ReplacementCochainMaps.rxMap_delta1_canonicalBasis", "child": "QEC_Coding_FiniteAlternatingConstruction_RXLocalReplacement", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementCochainMaps.rxMap_delta1_canonicalBasis", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementCochainMaps", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementCochainMaps.rxMap_delta1_canonicalBasis", "child": "QEC_Coding_FiniteAlternatingConstruction_RZCoordinateBridge", "via": ["solution", "statement"]}
-{"parent": "OptRobustCD.lemma_4_10", "child": "OptRobustCD_BP", "via": ["statement"]}
+{"parent": "OptRobustCD.lemma_4_10", "child": "OptRobustCD_BP", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalFirstColumnMass_zero_off_support", "child": "OAI_NumberTheory_DirichletL_CubicSieve_DivisorTargets", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalFirstColumnMass_zero_off_support", "child": "OAI_NumberTheory_DirichletL_CubicSieve_NormalizedMass", "via": ["solution", "statement"]}
 {"parent": "MaxIsoVertexCuts.Shredders.lemma_1_7", "child": "MaxIsoVertexCuts_Shredders_CollectionTargets", "via": ["statement"]}
@@ -52069,7 +52069,7 @@
 {"parent": "AlmostLinSubsetSum.Main.lemma_5_A", "child": "AlmostLinSubsetSum_Main_Geometry", "via": ["statement"]}
 {"parent": "AlmostLinSubsetSum.Main.lemma_5_A", "child": "AlmostLinSubsetSum_Main_Basic", "via": ["statement"]}
 {"parent": "UnconditionalKLS.Dunkl.lemma_3_1", "child": "UnconditionalKLS_Dunkl_Domains", "via": ["statement"]}
-{"parent": "ExactParallelSampling.QuasiUniform.lemma_4_1", "child": "ExactParallelSampling_QuasiUniform_Distributions", "via": ["statement"]}
+{"parent": "ExactParallelSampling.QuasiUniform.lemma_4_1", "child": "ExactParallelSampling_QuasiUniform_Distributions", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U75.entry1_0_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "BorderDiffEq_IsEpsApprox", "child": "BorderDiffEq_eps", "via": ["statement"]}
 {"parent": "KnownFidelity_Rank_PsiAvg", "child": "KnownFidelity_Rank_psiVec", "via": ["statement"]}

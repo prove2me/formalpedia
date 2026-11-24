@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LOneLower_wt_antitoneOn
 -- name    : GlobalTheory.LOneLower.wt_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:01.000256+00:00
 -- url     : https://prove2.me/theorems/52b332d9-14e4-4e09-971b-5c5d385d696f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatFibre_unit_eq_one_of_mul
 -- name    : GlobalTheory.LatFibre.unit_eq_one_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:57:03.94788+00:00
 -- url     : https://prove2.me/theorems/5f93eed5-4316-4b35-b19f-666045f1481c

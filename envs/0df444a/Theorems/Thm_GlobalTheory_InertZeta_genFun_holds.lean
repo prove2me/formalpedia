@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_genFun_holds
 -- name    : GlobalTheory.InertZeta.genFun_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:18:58.36767+00:00
 -- url     : https://prove2.me/theorems/c386b094-954e-40cd-b5c7-224e0fa355e7

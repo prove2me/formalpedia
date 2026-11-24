@@ -89913,7 +89913,7 @@
 {"parent": "AvramDividend.Classical.avram_sweep17_vcstar_finite_barrier_boundary_nonneg", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_sweep17_vcstar_finite_barrier_boundary_nonneg", "child": "AvramDividend.Classical.barrier_zero_boundary_value_nonneg", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_sweep17_vcstar_finite_barrier_boundary_nonneg", "child": "AvramDividend.Classical.scaleDeriv_nonneg", "via": ["solution", "statement"]}
-{"parent": "SilverRateSC.lemma_B_4", "child": "SilverRateSC_pOf", "via": ["statement"]}
+{"parent": "SilverRateSC.lemma_B_4", "child": "SilverRateSC_pOf", "via": ["solution", "statement"]}
 {"parent": "pp_deriv", "child": "PrimeNumberTheoremAnd_SmoothExistence", "via": ["solution", "statement"]}
 {"parent": "pp_deriv", "child": "PrimeNumberTheoremAnd_Wiener", "via": ["solution", "statement"]}
 {"parent": "pp_deriv", "child": "PrimeNumberTheoremAnd_Fourier", "via": ["solution", "statement"]}

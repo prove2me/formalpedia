@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_liftConstHom_apply
 -- name    : GlobalTheory.KS.liftConstHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:23.117848+00:00
 -- url     : https://prove2.me/theorems/c1270d9e-c122-49d1-b98b-4fbce629de2b

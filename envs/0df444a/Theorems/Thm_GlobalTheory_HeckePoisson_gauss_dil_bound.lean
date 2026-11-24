@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_gauss_dil_bound
 -- name    : GlobalTheory.HeckePoisson.gauss_dil_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:15.855799+00:00
 -- url     : https://prove2.me/theorems/9ad445bb-f306-4294-becb-569e522fa2c2

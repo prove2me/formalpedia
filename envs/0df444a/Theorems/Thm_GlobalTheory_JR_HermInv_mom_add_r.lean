@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_mom_add_r
 -- name    : GlobalTheory.JR.HermInv.mom_add_r
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:38:50.399684+00:00
 -- url     : https://prove2.me/theorems/167c3222-6a75-4430-ba79-a7500b15138d

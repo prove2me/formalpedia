@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_SumGood_wirtWord_tsum
 -- name    : GlobalTheory.HeckeTwo.SumGood.wirtWord_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:41.418879+00:00
 -- url     : https://prove2.me/theorems/cae6fda4-b490-4882-8b5a-670553bedd6a

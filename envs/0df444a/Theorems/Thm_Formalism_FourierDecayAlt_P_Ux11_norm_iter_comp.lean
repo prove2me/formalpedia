@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux11_norm_iter_comp
 -- name    : Formalism.FourierDecayAlt.P.Ux11.norm_iter_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:24:13.045176+00:00
 -- url     : https://prove2.me/theorems/93cb959a-2225-4f7f-b48b-b66a17b17610

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_X_mem
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.X_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:24:20.094385+00:00
 -- url     : https://prove2.me/theorems/e83bf6c3-a503-4a4e-a994-9897b736e51b

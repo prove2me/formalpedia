@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertFamily_fn_eq
 -- name    : GlobalTheory.KS.VertFamily.fn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:48:01.442823+00:00
 -- url     : https://prove2.me/theorems/96460fc1-89c5-446f-a833-b2d3e21eee6a

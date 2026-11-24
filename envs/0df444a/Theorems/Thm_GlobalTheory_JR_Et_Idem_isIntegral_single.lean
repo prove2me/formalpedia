@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_Idem_isIntegral_single
 -- name    : GlobalTheory.JR.Et.Idem.isIntegral_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:26:51.199307+00:00
 -- url     : https://prove2.me/theorems/10993073-ed07-477e-9a5a-896b83bc6a3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacStages_sigmaCurry_tprod
 -- name    : GlobalTheory.JacStages.sigmaCurry_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:09.102231+00:00
 -- url     : https://prove2.me/theorems/796565e8-7320-4235-b567-34ea93edff3c

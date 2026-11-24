@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_cf_monomial_c1481e7819e6
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_cf_monomial_c1481e7819e6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:19:28.032344+00:00
 -- url     : https://prove2.me/theorems/51560df0-4ec7-4ebc-9d63-3b9f906b9825

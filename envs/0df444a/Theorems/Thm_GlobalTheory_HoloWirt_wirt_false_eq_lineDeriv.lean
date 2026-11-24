@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HoloWirt_wirt_false_eq_lineDeriv
 -- name    : GlobalTheory.HoloWirt.wirt_false_eq_lineDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:38:38.430431+00:00
 -- url     : https://prove2.me/theorems/843a5eb2-a049-4bb6-aa8a-bf1c31f87633

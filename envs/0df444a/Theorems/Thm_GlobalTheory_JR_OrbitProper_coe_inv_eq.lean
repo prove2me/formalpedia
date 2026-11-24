@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbitProper_coe_inv_eq
 -- name    : GlobalTheory.JR.OrbitProper.coe_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:35:12.638563+00:00
 -- url     : https://prove2.me/theorems/bb354f1e-a57f-4607-ad17-4ef7524d6ca9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasTransport_trForm_symm
 -- name    : GlobalTheory.JR.MeasTransport.trForm_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:00:28.13906+00:00
 -- url     : https://prove2.me/theorems/16d4e2d9-a010-4bca-845b-b82b897d288f

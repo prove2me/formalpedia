@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FrameChange_toJet_pow
 -- name    : GlobalTheory.JetSer.FrameChange.toJet_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:41:56.614091+00:00
 -- url     : https://prove2.me/theorems/3ecc8c53-5147-4d74-8fb3-7bb8d3d8db64

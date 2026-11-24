@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx2_Gf_sgs
 -- name    : Formalism.FourierDecayAlt.P.TBBx2.Gf_sgs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:55:23.475275+00:00
 -- url     : https://prove2.me/theorems/8f3b2a65-0c02-4f60-8682-48dc143cd1ee

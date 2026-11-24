@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_nfMat_injective
 -- name    : GlobalTheory.JR.Step.nfMat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:37:48.063975+00:00
 -- url     : https://prove2.me/theorems/0ebc40d1-8506-444a-a671-74a966eabcf5

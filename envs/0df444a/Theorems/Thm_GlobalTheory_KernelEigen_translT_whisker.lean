@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelEigen_translT_whisker
 -- name    : GlobalTheory.KernelEigen.translT_whisker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:04:19.404055+00:00
 -- url     : https://prove2.me/theorems/42abbf5e-7b50-48c9-af20-7059af6ab5a7

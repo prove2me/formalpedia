@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_volQ_pos
 -- name    : GlobalTheory.LastSteps.volQ_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:57:12.454707+00:00
 -- url     : https://prove2.me/theorems/fbd975c1-052a-4444-8a14-7b9ca3f56ea8

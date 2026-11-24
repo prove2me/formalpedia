@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LOneLower_one_le_zetaMul_sq
 -- name    : GlobalTheory.LOneLower.one_le_zetaMul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:12.75907+00:00
 -- url     : https://prove2.me/theorems/92ea55fd-8b85-44a1-864e-e8aeaef63e33

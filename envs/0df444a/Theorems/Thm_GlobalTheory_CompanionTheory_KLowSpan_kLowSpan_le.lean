@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KLowSpan_kLowSpan_le
 -- name    : GlobalTheory.CompanionTheory.KLowSpan.kLowSpan_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:52.743536+00:00
 -- url     : https://prove2.me/theorems/4a080564-8484-4ae1-b77a-2bf5b44f3086

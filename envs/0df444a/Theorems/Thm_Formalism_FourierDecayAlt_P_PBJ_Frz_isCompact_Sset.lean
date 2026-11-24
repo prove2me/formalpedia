@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_isCompact_Sset
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.isCompact_Sset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:05:31.72525+00:00
 -- url     : https://prove2.me/theorems/c6322a63-ea4c-4c01-b75d-e7908ab3b25a

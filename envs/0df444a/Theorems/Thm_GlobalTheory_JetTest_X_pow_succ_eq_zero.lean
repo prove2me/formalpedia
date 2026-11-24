@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetTest_X_pow_succ_eq_zero
 -- name    : GlobalTheory.JetTest.X_pow_succ_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:41:03.386829+00:00
 -- url     : https://prove2.me/theorems/c4441909-d747-423e-a180-2f9486f57e57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NL_smul
 -- name    : GlobalTheory.JR.WeilQuad.NL_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:41:25.250406+00:00
 -- url     : https://prove2.me/theorems/3c4da1b7-dc40-419c-9d7c-8975ed05af78

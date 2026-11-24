@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_gaussInt_stable_of_dual
 -- name    : GlobalTheory.JR.WeilQuad.gaussInt_stable_of_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:38:19.290931+00:00
 -- url     : https://prove2.me/theorems/cdc0e6ef-f20b-444d-8992-af7b1306c086

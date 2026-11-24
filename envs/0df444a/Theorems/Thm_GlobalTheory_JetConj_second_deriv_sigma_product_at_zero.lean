@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_second_deriv_sigma_product_at_zero
 -- name    : GlobalTheory.JetConj.second_deriv_sigma_product_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:48.427554+00:00
 -- url     : https://prove2.me/theorems/85feda88-9887-4e39-99af-eeb111c4e427

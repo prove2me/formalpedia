@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_int_mem_iff
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.int_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:27:52.177032+00:00
 -- url     : https://prove2.me/theorems/f72ba873-5aa8-41c5-8c21-fbe766bc38fd

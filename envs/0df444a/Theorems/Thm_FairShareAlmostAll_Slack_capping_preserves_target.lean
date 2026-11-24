@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairShareAlmostAll_Slack_capping_preserves_target
 -- name    : FairShareAlmostAll.Slack.capping_preserves_target
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:54:54.064604+00:00
 -- url     : https://prove2.me/theorems/db642358-ca8e-47a8-82dc-cc1338148929

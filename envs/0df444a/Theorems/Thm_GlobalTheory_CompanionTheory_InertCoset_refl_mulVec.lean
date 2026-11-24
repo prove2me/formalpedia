@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_refl_mulVec
 -- name    : GlobalTheory.CompanionTheory.InertCoset.refl_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:02:37.757388+00:00
 -- url     : https://prove2.me/theorems/2201add2-2c59-4cfe-82f7-50257b487774

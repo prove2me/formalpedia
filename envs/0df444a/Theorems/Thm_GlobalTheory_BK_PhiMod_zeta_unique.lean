@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_zeta_unique
 -- name    : GlobalTheory.BK.PhiMod.zeta_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:42:27.39761+00:00
 -- url     : https://prove2.me/theorems/c618dfae-daa8-4210-ada0-2614b8be46d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_Fnf_exists_big
 -- name    : GlobalTheory.JR.WeilQuad.Fnf.exists_big
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:40:13.497472+00:00
 -- url     : https://prove2.me/theorems/f7a50528-65bc-4fcc-a6ed-ee11ec05c9e3

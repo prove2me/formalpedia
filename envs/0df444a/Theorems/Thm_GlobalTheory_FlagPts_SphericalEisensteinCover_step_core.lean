@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_SphericalEisensteinCover_step_core
 -- name    : GlobalTheory.FlagPts.SphericalEisensteinCover.step_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:55:18.800793+00:00
 -- url     : https://prove2.me/theorems/be9e25c5-9bc0-4f8c-b30e-052ce09f258c

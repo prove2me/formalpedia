@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_gram_tendsto
 -- name    : Formalism.FourierDecayAlt.P.PBA.gram_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:05:21.596079+00:00
 -- url     : https://prove2.me/theorems/193fd2ee-3326-4c69-9d49-cd4236770864

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Koecher_sum_mul_nonneg_of_posSemidef
 -- name    : GlobalTheory.Koecher.sum_mul_nonneg_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:06:21.683073+00:00
 -- url     : https://prove2.me/theorems/8b1a88c1-5d1d-47d3-b9d7-cd2b32e8ddff

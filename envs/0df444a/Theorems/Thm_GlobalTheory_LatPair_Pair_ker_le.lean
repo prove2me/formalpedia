@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Pair_ker_le
 -- name    : GlobalTheory.LatPair.Pair.ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:58:43.622327+00:00
 -- url     : https://prove2.me/theorems/260bd8ba-1064-4cd4-9a4c-7554c07ed316

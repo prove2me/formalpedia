@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isLocallyConstant_etaleTraceAddChar_hermitianKernel
 -- name    : GlobalTheory.T.isLocallyConstant_etaleTraceAddChar_hermitianKernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:51.865402+00:00
 -- url     : https://prove2.me/theorems/9077ca46-e2b1-49e9-a861-9dd567eddf92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_EpsDer_spec_pull
 -- name    : GlobalTheory.KS.EpsDer.spec_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:43:22.32103+00:00
 -- url     : https://prove2.me/theorems/2cda7dbe-060b-42cd-8b9a-039fc5ff54c1

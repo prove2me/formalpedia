@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagGramRestriction_Rst_rho
 -- name    : Formalism.FourierDecayAlt.P.FlagGramRestriction.Rst_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:45:05.103413+00:00
 -- url     : https://prove2.me/theorems/67589b39-1109-48d3-976c-8fbbcedccaaf

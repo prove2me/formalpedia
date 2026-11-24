@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_Bm_sec
 -- name    : GlobalTheory.JR.HermInv.Bm_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:35:51.547355+00:00
 -- url     : https://prove2.me/theorems/c123bae7-9239-4843-8132-2c79895b695a

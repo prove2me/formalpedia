@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_wSpan_integrable
 -- name    : GlobalTheory.HeckeTwo.HDecay.wSpan_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:05:19.414634+00:00
 -- url     : https://prove2.me/theorems/8d3fd3b7-5b57-453a-b407-12e8642dd555

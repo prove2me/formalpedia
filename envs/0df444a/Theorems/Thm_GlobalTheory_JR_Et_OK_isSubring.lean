@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_OK_isSubring
 -- name    : GlobalTheory.JR.Et.OK_isSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:26:21.373971+00:00
 -- url     : https://prove2.me/theorems/f0d94781-fade-49ea-9295-70b8c1814dd4

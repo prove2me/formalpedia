@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedConj0Pf_indep
 -- name    : Formalism.L2.SG.Pf.RedConj0Pf.indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:29:08.74482+00:00
 -- url     : https://prove2.me/theorems/613ae704-cf4f-4e86-92fd-39966881eb39

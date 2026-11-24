@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_tameQuot_mem
 -- name    : Formalism.L2.NT.tameQuot_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:54:37.629559+00:00
 -- url     : https://prove2.me/theorems/dba83b72-26ef-4fee-8574-a640eda3656d

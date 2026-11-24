@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_existsUnique_adele_of_linearMap
 -- name    : GlobalTheory.Idele.existsUnique_adele_of_linearMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:03:49.434988+00:00
 -- url     : https://prove2.me/theorems/625f5187-0286-4888-83ce-714cff424ff4

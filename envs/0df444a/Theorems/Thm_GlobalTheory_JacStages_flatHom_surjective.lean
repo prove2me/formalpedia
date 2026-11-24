@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacStages_flatHom_surjective
 -- name    : GlobalTheory.JacStages.flatHom_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:39:40.822555+00:00
 -- url     : https://prove2.me/theorems/5c6c2474-c1b4-4723-86f0-90e609bf85ef

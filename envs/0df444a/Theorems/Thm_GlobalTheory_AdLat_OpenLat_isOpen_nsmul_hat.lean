@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_OpenLat_isOpen_nsmul_hat
 -- name    : GlobalTheory.AdLat.OpenLat.isOpen_nsmul_hat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:42:58.313733+00:00
 -- url     : https://prove2.me/theorems/170f94e1-df54-43cd-bd2b-f555cbcef04f

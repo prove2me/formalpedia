@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_Fnf_isCompact_finset_sup
 -- name    : GlobalTheory.JR.WeilQuad.Fnf.isCompact_finset_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:38:52.279741+00:00
 -- url     : https://prove2.me/theorems/eacb2d33-8a3c-4de4-b57a-08dc18833321

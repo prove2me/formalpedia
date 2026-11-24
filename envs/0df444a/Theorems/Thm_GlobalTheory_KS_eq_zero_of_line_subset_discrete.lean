@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_eq_zero_of_line_subset_discrete
 -- name    : GlobalTheory.KS.eq_zero_of_line_subset_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:47:10.894876+00:00
 -- url     : https://prove2.me/theorems/dc5a56f0-6040-48dc-8f18-f6a536e5eac4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPerp_nil_eq_zero
 -- name    : GlobalTheory.KerPerp.nil_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:49:14.644194+00:00
 -- url     : https://prove2.me/theorems/eec40ea2-7f91-49ac-bf0c-4a4de06ac842

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumInequalities_rule_A2_of_word_expansion
 -- name    : Formalism.FourierDecayAlt.P.ListSumInequalities.rule_A2_of_word_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:51:37.482883+00:00
 -- url     : https://prove2.me/theorems/e3968565-6921-43bf-b1e9-c5ab91e3a3cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LamBiext_nest_isGen
 -- name    : GlobalTheory.LamBiext.nest_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:58:03.80481+00:00
 -- url     : https://prove2.me/theorems/084bf9aa-9b7d-4375-9f71-6d21ebc68c95

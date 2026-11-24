@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegerScalarIntegral_main
 -- name    : GlobalTheory.IntegerScalarIntegral.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:15.986184+00:00
 -- url     : https://prove2.me/theorems/ddc01919-49b0-4684-8bd0-677016e04bd9

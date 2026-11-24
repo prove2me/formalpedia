@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCompare_psJet_eq_jetOfSeries
 -- name    : GlobalTheory.TorsionCompare.psJet_eq_jetOfSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:28:00.718857+00:00
 -- url     : https://prove2.me/theorems/3487799d-cc1a-4cd6-85a7-313559e9d457

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDerMap_map_Dof_iterate
 -- name    : GlobalTheory.InvDerMap.map_Dof_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:20:04.134855+00:00
 -- url     : https://prove2.me/theorems/cfcc8338-e661-4f31-9a91-a3ace265dae7

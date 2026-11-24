@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KilledFin_pow_mem_powSpan
 -- name    : GlobalTheory.KilledFin.pow_mem_powSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:48:51.523797+00:00
 -- url     : https://prove2.me/theorems/e3c69a65-6ba7-451c-8554-b4e8b7fca384

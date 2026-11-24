@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertField_differentiableAt_det
 -- name    : GlobalTheory.KS.VertField.differentiableAt_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:48:10.310827+00:00
 -- url     : https://prove2.me/theorems/a1930110-a142-4942-8393-97d9932f48df

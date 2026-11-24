@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_pcnt_snoc_last_895168a820dd
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_pcnt_snoc_last_895168a820dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:23:37.04192+00:00
 -- url     : https://prove2.me/theorems/58850fb9-a0ad-4e27-b16c-9ebd6e26a5d9

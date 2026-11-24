@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_lamAf_mono
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.lamAf_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:27:33.229002+00:00
 -- url     : https://prove2.me/theorems/ef25c7ef-44a0-478f-845b-09a70eae409b

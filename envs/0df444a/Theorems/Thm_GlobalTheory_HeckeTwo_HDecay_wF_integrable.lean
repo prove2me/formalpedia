@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_wF_integrable
 -- name    : GlobalTheory.HeckeTwo.HDecay.wF_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:05:31.510064+00:00
 -- url     : https://prove2.me/theorems/fe4456f9-6293-4bed-813c-2b69b49695f9

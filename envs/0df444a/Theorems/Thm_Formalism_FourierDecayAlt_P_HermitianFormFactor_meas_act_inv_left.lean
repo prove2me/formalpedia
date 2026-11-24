@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_meas_act_inv_left
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.meas_act_inv_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:16:40.441735+00:00
 -- url     : https://prove2.me/theorems/8862cd33-60ed-4849-84c5-d5a84c7c0c49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FrameChange_evH_pull
 -- name    : GlobalTheory.JetSer.FrameChange.evH_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:41:00.346267+00:00
 -- url     : https://prove2.me/theorems/3992dc7c-0039-4408-814c-1ac2e2ccd170

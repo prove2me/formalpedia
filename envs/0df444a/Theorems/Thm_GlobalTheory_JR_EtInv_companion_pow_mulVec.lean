@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtInv_companion_pow_mulVec
 -- name    : GlobalTheory.JR.EtInv.companion_pow_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:22:58.788383+00:00
 -- url     : https://prove2.me/theorems/47f3efcd-3cda-44b1-8e2b-8a4bf7b127a5

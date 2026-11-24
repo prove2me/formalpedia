@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_SquareField_isTangent_lift
 -- name    : GlobalTheory.KS.SquareField.isTangent_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:46:10.760163+00:00
 -- url     : https://prove2.me/theorems/7e2ac50d-36bc-4c57-a46f-75cf30171ed1

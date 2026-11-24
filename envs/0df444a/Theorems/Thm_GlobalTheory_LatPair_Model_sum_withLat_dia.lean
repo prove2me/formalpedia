@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_sum_withLat_dia
 -- name    : GlobalTheory.LatPair.Model.sum_withLat_dia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:58:35.961013+00:00
 -- url     : https://prove2.me/theorems/a22a1cdd-87a7-4aa2-9475-7366112efb4e

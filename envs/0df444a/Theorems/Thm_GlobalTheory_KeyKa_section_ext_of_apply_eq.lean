@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_section_ext_of_apply_eq
 -- name    : GlobalTheory.KeyKa.section_ext_of_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:50:07.149901+00:00
 -- url     : https://prove2.me/theorems/0fcac00f-d095-411e-82ab-941778695173

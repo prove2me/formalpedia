@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PT_hasCuspLabel_transp
 -- name    : Formalism.L2.PT.hasCuspLabel_transp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:08:05.355799+00:00
 -- url     : https://prove2.me/theorems/37016ab9-9ffa-4a05-8692-69e956a82ef1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Koecher_posSemidef_of_rat_nonneg
 -- name    : GlobalTheory.Koecher.posSemidef_of_rat_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:53:25.317078+00:00
 -- url     : https://prove2.me/theorems/4a8bb899-60ff-4c1e-b41a-030c2c47ff04

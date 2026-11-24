@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyLemmaTwo_key
 -- name    : GlobalTheory.KeyLemmaTwo.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:49:01.032518+00:00
 -- url     : https://prove2.me/theorems/b53807c1-5a08-4b94-92f3-6abb71d974e0

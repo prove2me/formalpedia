@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_det_ne_zero_of_common_ker
 -- name    : GlobalTheory.KS.exists_det_ne_zero_of_common_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:47:08.644798+00:00
 -- url     : https://prove2.me/theorems/079048bf-5451-4626-88ba-18de43ec8a12

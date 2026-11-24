@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_aestronglyMeasurable_dilation_pair_integrand
 -- name    : Formalism.FourierDecayAlt.P.B6.aestronglyMeasurable_dilation_pair_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:01:30.686373+00:00
 -- url     : https://prove2.me/theorems/3c99b388-0d49-4068-806c-9db859fedb28

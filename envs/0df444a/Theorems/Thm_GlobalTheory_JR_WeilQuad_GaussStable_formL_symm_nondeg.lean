@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_GaussStable_formL_symm_nondeg
 -- name    : GlobalTheory.JR.WeilQuad.GaussStable.formL_symm_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:11.602355+00:00
 -- url     : https://prove2.me/theorems/636d17f8-e65d-4061-81bb-c8bdd43f443b

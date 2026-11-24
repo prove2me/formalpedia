@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrowth_norm_mellin_summatory_le
 -- name    : GlobalTheory.LGrowth.norm_mellin_summatory_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:55:53.548227+00:00
 -- url     : https://prove2.me/theorems/543b0c9c-514f-453d-907a-e1c22a4659bd

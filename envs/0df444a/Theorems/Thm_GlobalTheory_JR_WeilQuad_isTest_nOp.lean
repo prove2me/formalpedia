@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_isTest_nOp
 -- name    : GlobalTheory.JR.WeilQuad.isTest_nOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:38:30.760926+00:00
 -- url     : https://prove2.me/theorems/0e1db789-99c3-47a4-9d4b-03779453f848

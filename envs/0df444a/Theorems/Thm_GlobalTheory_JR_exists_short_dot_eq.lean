@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_exists_short_dot_eq
 -- name    : GlobalTheory.JR.exists_short_dot_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:38:53.750847+00:00
 -- url     : https://prove2.me/theorems/ab6889eb-7612-4255-a743-8ace2e2e8244

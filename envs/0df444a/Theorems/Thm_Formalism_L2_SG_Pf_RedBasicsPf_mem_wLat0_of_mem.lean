@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_mem_wLat0_of_mem
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.mem_wLat0_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:27:52.061209+00:00
 -- url     : https://prove2.me/theorems/c9fa6c18-ba9c-4ed5-ad57-21fe623f9e5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_isHolFamily_ex_comp
 -- name    : GlobalTheory.KS.isHolFamily_ex_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:47:21.336489+00:00
 -- url     : https://prove2.me/theorems/67a1e9e4-5f77-4e8e-88d6-d5623e44cae6

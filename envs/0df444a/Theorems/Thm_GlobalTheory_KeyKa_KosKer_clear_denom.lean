@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KosKer_clear_denom
 -- name    : GlobalTheory.KeyKa.KosKer.clear_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:47:37.373581+00:00
 -- url     : https://prove2.me/theorems/b96a448e-f2d9-488c-bc2e-cc10641444c3

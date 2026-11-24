@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_Swap_eta_eventually
 -- name    : GlobalTheory.JR.LinDesc.Swap.eta_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:40.716375+00:00
 -- url     : https://prove2.me/theorems/9d39d3bc-2167-44e5-9f3e-9c568880369b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PT_mem_unip_glEquiv
 -- name    : Formalism.L2.PT.mem_unip_glEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:07:48.45644+00:00
 -- url     : https://prove2.me/theorems/a5745747-4386-43ae-b3eb-1b814807ff85

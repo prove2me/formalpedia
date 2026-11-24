@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrreducibleGeneralizations_main
 -- name    : GlobalTheory.IrreducibleGeneralizations.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:42:40.701421+00:00
 -- url     : https://prove2.me/theorems/0abcd04b-d822-4a92-ab1c-bebe22002d39

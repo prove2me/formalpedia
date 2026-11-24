@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_EpsDer_dual_decomp
 -- name    : GlobalTheory.KS.EpsDer.dual_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:44:41.618738+00:00
 -- url     : https://prove2.me/theorems/17d182fd-f377-4a7b-abb8-f793eda5d6a5

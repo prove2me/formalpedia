@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_jetTruncR_surjective
 -- name    : GlobalTheory.JetSer.jetTruncR_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:41:39.817215+00:00
 -- url     : https://prove2.me/theorems/c7441901-7d29-4144-8dfb-90a5e40ea04d

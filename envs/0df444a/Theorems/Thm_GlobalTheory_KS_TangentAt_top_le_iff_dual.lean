@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_TangentAt_top_le_iff_dual
 -- name    : GlobalTheory.KS.TangentAt.top_le_iff_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:45:37.109173+00:00
 -- url     : https://prove2.me/theorems/5d9c214c-0ad9-4689-ad3a-4c560671a430

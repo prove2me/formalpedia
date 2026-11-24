@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Endo_app_top_constFn
 -- name    : GlobalTheory.KS.Endo.app_top_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:45:21.095201+00:00
 -- url     : https://prove2.me/theorems/e4ba648b-b67d-4beb-89ca-241ede10cd98

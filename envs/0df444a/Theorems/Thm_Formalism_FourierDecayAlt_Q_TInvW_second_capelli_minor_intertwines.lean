@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_second_capelli_minor_intertwines
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.second_capelli_minor_intertwines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:52:22.019977+00:00
 -- url     : https://prove2.me/theorems/758a3bb2-560c-4018-8cd0-75a5202b2b1f

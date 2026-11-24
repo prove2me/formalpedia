@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_isIntegral_act
 -- name    : GlobalTheory.JR.GLift.isIntegral_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:36.625694+00:00
 -- url     : https://prove2.me/theorems/3c9beb8c-f220-4a7c-8c77-237500c1d2dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_dual_family_mod_subspace
 -- name    : GlobalTheory.KS.exists_dual_family_mod_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:47:02.416032+00:00
 -- url     : https://prove2.me/theorems/10399e39-57a7-407f-9e7b-6c822aea7e7f

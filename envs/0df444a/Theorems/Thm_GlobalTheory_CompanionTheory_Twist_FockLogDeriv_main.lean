@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Twist_FockLogDeriv_main
 -- name    : GlobalTheory.CompanionTheory.Twist.FockLogDeriv.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:26:47.467635+00:00
 -- url     : https://prove2.me/theorems/c8be82bd-8140-41ef-adf8-8e71d195ad03

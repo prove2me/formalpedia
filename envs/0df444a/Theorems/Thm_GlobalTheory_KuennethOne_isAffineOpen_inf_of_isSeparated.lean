@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KuennethOne_isAffineOpen_inf_of_isSeparated
 -- name    : GlobalTheory.KuennethOne.isAffineOpen_inf_of_isSeparated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:57:21.479614+00:00
 -- url     : https://prove2.me/theorems/20343b73-d9b8-43d6-b4f6-b7cef3e17d06

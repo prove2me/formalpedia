@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_section_ext
 -- name    : GlobalTheory.KaUnique.section_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:48:32.218415+00:00
 -- url     : https://prove2.me/theorems/d5ead934-ef0d-45f2-a298-3529917e62eb

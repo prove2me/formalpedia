@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_upper_left_tail_projection
 -- name    : Formalism.FourierDecayAlt.P.NFx2.upper_left_tail_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:39:05.063802+00:00
 -- url     : https://prove2.me/theorems/f5cf5cd6-b6ea-4a9d-9c99-eb396507c090

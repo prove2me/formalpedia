@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Eta_cases
 -- name    : Formalism.FrobeniusOrbits.Eta.cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:06.805187+00:00
 -- url     : https://prove2.me/theorems/3e3f191b-f97d-41dd-ace1-a410727a7589

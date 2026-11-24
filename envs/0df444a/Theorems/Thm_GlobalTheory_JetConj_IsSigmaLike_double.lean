@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_IsSigmaLike_double
 -- name    : GlobalTheory.JetConj.IsSigmaLike.double
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:40:10.229478+00:00
 -- url     : https://prove2.me/theorems/1740ea4f-de09-4549-ad83-941e5dcf2c4c

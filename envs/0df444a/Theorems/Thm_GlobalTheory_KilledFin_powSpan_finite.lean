@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KilledFin_powSpan_finite
 -- name    : GlobalTheory.KilledFin.powSpan_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:49:18.141204+00:00
 -- url     : https://prove2.me/theorems/7e54d19e-5ea7-4d5e-9578-844021cf3765

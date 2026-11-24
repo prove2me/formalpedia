@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_GaussTrans_main
 -- name    : GlobalTheory.JR.WeilQuad.GaussTrans.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:41:08.146255+00:00
 -- url     : https://prove2.me/theorems/1c5882ea-7a29-4ac4-a1cb-249de0dec4fe

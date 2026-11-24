@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_eta_det_isLocallyConstant
 -- name    : GlobalTheory.JR.LinDesc.eta_det_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:29.808062+00:00
 -- url     : https://prove2.me/theorems/38c0f51a-feb3-4094-86bd-00bea6959c91

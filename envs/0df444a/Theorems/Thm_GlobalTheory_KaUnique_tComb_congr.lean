@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_tComb_congr
 -- name    : GlobalTheory.KaUnique.tComb_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:52:35.534547+00:00
 -- url     : https://prove2.me/theorems/0a181131-fe00-41c0-8d1f-c85af7bc99ae

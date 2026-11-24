@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hyperbolicPartialFourier_twice_eq_reflection
 -- name    : GlobalTheory.T.hyperbolicPartialFourier_twice_eq_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:13.011807+00:00
 -- url     : https://prove2.me/theorems/45a23cc0-2883-420b-a9df-64d408633673

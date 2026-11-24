@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_SignAntidiagonal_neg_one_sq__ee10da71c303
 -- name    : P2M_Formalism_FourierDecayAlt_P_SignAntidiagonal_neg_one_sq__ee10da71c303
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:25:23.230462+00:00
 -- url     : https://prove2.me/theorems/7d362940-52e3-4afd-95f5-16be13629b98

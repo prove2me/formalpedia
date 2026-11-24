@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoConst_constant_term
 -- name    : GlobalTheory.HeckeTwoConst.constant_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:14:40.565057+00:00
 -- url     : https://prove2.me/theorems/b9798cdd-6e93-4ef7-8066-0a2aa1ede52f

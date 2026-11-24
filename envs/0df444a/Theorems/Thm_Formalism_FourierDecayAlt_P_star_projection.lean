@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_star_projection
 -- name    : Formalism.FourierDecayAlt.P.star_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:39:53.491064+00:00
 -- url     : https://prove2.me/theorems/1d91aee9-39e9-41ab-a4f2-cd7fd47478cb

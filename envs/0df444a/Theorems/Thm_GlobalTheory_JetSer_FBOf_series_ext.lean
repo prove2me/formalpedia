@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FBOf_series_ext
 -- name    : GlobalTheory.JetSer.FBOf.series_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:40:47.169777+00:00
 -- url     : https://prove2.me/theorems/75fe83f1-7e9a-4020-8bfd-f2f5ff6278cc

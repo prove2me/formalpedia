@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalMulN_formalGroupLaw_comp_mulN_succ
 -- name    : GlobalTheory.FormalMulN.formalGroupLaw_comp_mulN_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:36:37.743027+00:00
 -- url     : https://prove2.me/theorems/caf438e9-89e1-4747-9e73-fd1472db3c5f

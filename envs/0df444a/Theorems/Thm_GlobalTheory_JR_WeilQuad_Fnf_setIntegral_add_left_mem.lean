@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_Fnf_setIntegral_add_left_mem
 -- name    : GlobalTheory.JR.WeilQuad.Fnf.setIntegral_add_left_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:12.073624+00:00
 -- url     : https://prove2.me/theorems/fa0ac313-22ea-46b8-8fdc-bacfb7e7d06a

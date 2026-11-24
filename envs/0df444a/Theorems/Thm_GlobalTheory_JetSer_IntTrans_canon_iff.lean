@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IntTrans_canon_iff
 -- name    : GlobalTheory.JetSer.IntTrans.canon_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:42:59.866596+00:00
 -- url     : https://prove2.me/theorems/880be239-b17c-4a68-a254-e87fd85d45b6

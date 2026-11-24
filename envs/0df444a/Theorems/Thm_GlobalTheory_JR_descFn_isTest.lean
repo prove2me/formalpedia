@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_descFn_isTest
 -- name    : GlobalTheory.JR.descFn_isTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:38:18.967407+00:00
 -- url     : https://prove2.me/theorems/8d44b032-66d1-47b0-bce0-64f205028e6b

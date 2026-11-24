@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_isNilpotent_of_mem_ker_jetTruncR
 -- name    : GlobalTheory.JetSer.isNilpotent_of_mem_ker_jetTruncR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:41:23.109153+00:00
 -- url     : https://prove2.me/theorems/68142505-d3cd-498a-9ccd-6590ba72cbc9

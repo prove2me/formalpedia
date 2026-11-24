@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_Fnf_psiK_add
 -- name    : GlobalTheory.JR.WeilQuad.Fnf.psiK_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:07.892547+00:00
 -- url     : https://prove2.me/theorems/0bd77573-e10c-4cd1-89e6-2c3d9ece272f

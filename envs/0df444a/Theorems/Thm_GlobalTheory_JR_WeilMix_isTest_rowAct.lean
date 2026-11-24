@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilMix_isTest_rowAct
 -- name    : GlobalTheory.JR.WeilMix.isTest_rowAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:37:48.617665+00:00
 -- url     : https://prove2.me/theorems/43a4ca98-d3f9-4cb1-8eaf-9992b9df3cf2

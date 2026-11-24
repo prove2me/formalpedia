@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NG_exists_level_elt
 -- name    : Formalism.L2.NG.exists_level_elt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:11:36.864799+00:00
 -- url     : https://prove2.me/theorems/016d5b73-4ae6-4c62-9f65-e2ec4dc13211

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_submatrix_mul_of_support
 -- name    : GlobalTheory.KeyKa.submatrix_mul_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:49:30.478237+00:00
 -- url     : https://prove2.me/theorems/115288b4-e480-4172-8b9c-94cc3f247d6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KosGr_card_le_of_lt
 -- name    : GlobalTheory.KeyKa.KosGr.card_le_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:47:22.664267+00:00
 -- url     : https://prove2.me/theorems/89ac8a6d-7590-4c8c-8db9-c4929db39073

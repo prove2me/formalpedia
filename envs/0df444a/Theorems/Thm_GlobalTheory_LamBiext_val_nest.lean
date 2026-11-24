@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LamBiext_val_nest
 -- name    : GlobalTheory.LamBiext.val_nest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:58:11.100868+00:00
 -- url     : https://prove2.me/theorems/1c217c03-c1a9-424f-a26d-9f8e55166518

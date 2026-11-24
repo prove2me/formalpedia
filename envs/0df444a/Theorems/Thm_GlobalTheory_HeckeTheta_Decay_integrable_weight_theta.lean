@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_Decay_integrable_weight_theta
 -- name    : GlobalTheory.HeckeTheta.Decay.integrable_weight_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:09.112732+00:00
 -- url     : https://prove2.me/theorems/ba6e1141-441a-46e6-ab44-ea9a6aaa9e13

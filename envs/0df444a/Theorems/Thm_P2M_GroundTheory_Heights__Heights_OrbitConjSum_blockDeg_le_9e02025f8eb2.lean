@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitConjSum_blockDeg_le_9e02025f8eb2
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitConjSum_blockDeg_le_9e02025f8eb2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:24:34.87348+00:00
 -- url     : https://prove2.me/theorems/d4adf91c-524e-490a-af96-91dac98e622b

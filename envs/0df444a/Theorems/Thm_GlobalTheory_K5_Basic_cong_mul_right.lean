@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_cong_mul_right
 -- name    : GlobalTheory.K5.Basic.cong_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:42:49.697818+00:00
 -- url     : https://prove2.me/theorems/2b42a556-8894-4c65-bc22-c9364666fe9a

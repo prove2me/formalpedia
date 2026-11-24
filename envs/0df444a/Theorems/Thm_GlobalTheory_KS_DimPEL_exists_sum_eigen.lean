@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DimPEL_exists_sum_eigen
 -- name    : GlobalTheory.KS.DimPEL.exists_sum_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:44:37.610416+00:00
 -- url     : https://prove2.me/theorems/bbac8a61-d3d9-422d-adb9-8ec82fc4a520

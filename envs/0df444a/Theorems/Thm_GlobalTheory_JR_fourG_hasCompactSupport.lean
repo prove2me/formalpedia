@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_fourG_hasCompactSupport
 -- name    : GlobalTheory.JR.fourG_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:29.396674+00:00
 -- url     : https://prove2.me/theorems/f2aa0a2e-4135-46f8-a2e4-7afc7d83bfd6

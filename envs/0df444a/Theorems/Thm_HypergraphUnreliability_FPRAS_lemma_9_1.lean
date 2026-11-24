@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HypergraphUnreliability_FPRAS_lemma_9_1
 -- name    : HypergraphUnreliability.FPRAS.lemma_9_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:50:59.33101+00:00
 -- url     : https://prove2.me/theorems/9c26aceb-c078-4460-ab58-b3eaea7d946b

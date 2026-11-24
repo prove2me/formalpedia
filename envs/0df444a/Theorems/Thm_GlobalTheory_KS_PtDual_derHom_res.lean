@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_PtDual_derHom_res
 -- name    : GlobalTheory.KS.PtDual.derHom_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:45:20.350024+00:00
 -- url     : https://prove2.me/theorems/bc36de21-0c6d-4ed3-a2ec-41b7c3dd8f6f

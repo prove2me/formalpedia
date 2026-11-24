@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_TangentAt_fst_dval
 -- name    : GlobalTheory.KS.TangentAt.fst_dval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:45:30.62244+00:00
 -- url     : https://prove2.me/theorems/fa2c26bc-b038-4433-bb32-fb6028f73bb9

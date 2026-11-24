@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertIndex_mem_boxLat
 -- name    : GlobalTheory.CompanionTheory.InertIndex.mem_boxLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:46:26.177409+00:00
 -- url     : https://prove2.me/theorems/8af7b791-e264-4a1d-b74d-625cf3368c35

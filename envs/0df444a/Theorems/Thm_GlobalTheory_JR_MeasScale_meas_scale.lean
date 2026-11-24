@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasScale_meas_scale
 -- name    : GlobalTheory.JR.MeasScale.meas_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:34:34.896165+00:00
 -- url     : https://prove2.me/theorems/f1f11ee1-12f3-47ca-ae8a-e465f34e4d60

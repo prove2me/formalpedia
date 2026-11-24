@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_GlueDer_app_const
 -- name    : GlobalTheory.KS.GlueDer.app_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:44:24.063798+00:00
 -- url     : https://prove2.me/theorems/87d1f43e-3785-4a53-a4ce-2c4f6bf5d158

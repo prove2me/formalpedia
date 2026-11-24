@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_GaussStable_NL_add
 -- name    : GlobalTheory.JR.WeilQuad.GaussStable.NL_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:00.025802+00:00
 -- url     : https://prove2.me/theorems/d5cfed20-0681-498f-a561-f9ba52ac82bd

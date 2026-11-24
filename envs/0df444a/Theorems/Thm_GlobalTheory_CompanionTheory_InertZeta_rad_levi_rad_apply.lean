@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_rad_levi_rad_apply
 -- name    : GlobalTheory.CompanionTheory.InertZeta.rad_levi_rad_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:03:23.494798+00:00
 -- url     : https://prove2.me/theorems/b4bc2e79-5de1-4eea-a9a3-c3e026e8f502

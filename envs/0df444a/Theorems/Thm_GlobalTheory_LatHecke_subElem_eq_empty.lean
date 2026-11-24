@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatHecke_subElem_eq_empty
 -- name    : GlobalTheory.LatHecke.subElem_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:57:13.922804+00:00
 -- url     : https://prove2.me/theorems/88975857-d79a-4be1-b4bb-027627687731

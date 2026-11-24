@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_ringAct_E
 -- name    : GlobalTheory.BK.ringAct_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:08:08.434976+00:00
 -- url     : https://prove2.me/theorems/66bb1d38-4a5c-42fd-a18a-53f8f9b8ae5f

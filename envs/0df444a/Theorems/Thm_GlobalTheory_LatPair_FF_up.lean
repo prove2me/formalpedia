@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_FF_up
 -- name    : GlobalTheory.LatPair.FF_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:58:56.102155+00:00
 -- url     : https://prove2.me/theorems/08e2d38f-f200-46eb-aecf-470877887cad

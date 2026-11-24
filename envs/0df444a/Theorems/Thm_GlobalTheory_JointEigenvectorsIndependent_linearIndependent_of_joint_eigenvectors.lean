@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JointEigenvectorsIndependent_linearIndependent_of_joint_eigenvectors
 -- name    : GlobalTheory.JointEigenvectorsIndependent.linearIndependent_of_joint_eigenvectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:40:50.978431+00:00
 -- url     : https://prove2.me/theorems/7be149dc-9799-47c3-a9ac-aeb6e80fc0a7

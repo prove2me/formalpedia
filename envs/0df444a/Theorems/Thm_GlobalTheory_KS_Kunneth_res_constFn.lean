@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Kunneth_res_constFn
 -- name    : GlobalTheory.KS.Kunneth.res_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:28.310481+00:00
 -- url     : https://prove2.me/theorems/3f19c4af-f7b0-48e5-bd3b-03a77afd599b

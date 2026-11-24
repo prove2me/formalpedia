@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Jpq_zero_left_eq_neg_one
 -- name    : GlobalTheory.Jpq_zero_left_eq_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:42:19.833074+00:00
 -- url     : https://prove2.me/theorems/dc8c46d8-77cd-4e19-9ffe-ea9b3d990e3a

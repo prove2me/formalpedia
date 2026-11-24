@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_exists_zpow_unit
 -- name    : GlobalTheory.CompanionTheory.InertCoset.exists_zpow_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:02:38.987181+00:00
 -- url     : https://prove2.me/theorems/7c260e38-99da-4c3d-8cca-e4eb8a02532e

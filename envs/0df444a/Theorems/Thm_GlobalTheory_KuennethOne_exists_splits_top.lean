@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KuennethOne_exists_splits_top
 -- name    : GlobalTheory.KuennethOne.exists_splits_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:57:38.244974+00:00
 -- url     : https://prove2.me/theorems/275444ab-dc97-4843-9509-cbca9b37fd6b

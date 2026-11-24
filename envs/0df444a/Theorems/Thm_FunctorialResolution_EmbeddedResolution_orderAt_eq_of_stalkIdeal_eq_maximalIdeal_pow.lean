@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_eq_of_stalkIdeal_eq_maximalIdeal_pow
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_eq_of_stalkIdeal_eq_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:25:29.113062+00:00
 -- url     : https://prove2.me/theorems/5403ae8a-5bae-47cc-b805-eb9cb451d6ec

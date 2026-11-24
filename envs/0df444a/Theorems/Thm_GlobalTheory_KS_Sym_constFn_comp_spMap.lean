@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Sym_constFn_comp_spMap
 -- name    : GlobalTheory.KS.Sym.constFn_comp_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:45:16.796862+00:00
 -- url     : https://prove2.me/theorems/74269491-4d85-4a98-b602-515aea5aece5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvHom_constFn_spMap
 -- name    : GlobalTheory.KS.InvHom.constFn_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:43:30.338812+00:00
 -- url     : https://prove2.me/theorems/a841ccbe-7b69-41d0-9bb1-19e38fda5410

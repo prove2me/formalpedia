@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommTriang_exists_triangular
 -- name    : GlobalTheory.CommTriang.exists_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:58:58.0876+00:00
 -- url     : https://prove2.me/theorems/ef0f4512-f455-488c-bc87-0177c97c8ca1

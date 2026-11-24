@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_sdata_self
 -- name    : Formalism.FourierDecayAlt.P.Qx6.sdata_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:34:13.634642+00:00
 -- url     : https://prove2.me/theorems/783243d6-92bd-4558-9688-cc4d591cf417

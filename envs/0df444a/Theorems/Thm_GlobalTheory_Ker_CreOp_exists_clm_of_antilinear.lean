@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ker_CreOp_exists_clm_of_antilinear
 -- name    : GlobalTheory.Ker.CreOp.exists_clm_of_antilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:48:25.533221+00:00
 -- url     : https://prove2.me/theorems/2957429e-ec33-4cd9-ba5f-6e77a1777f88

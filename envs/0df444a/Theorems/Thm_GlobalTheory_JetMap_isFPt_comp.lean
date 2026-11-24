@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetMap_isFPt_comp
 -- name    : GlobalTheory.JetMap.isFPt_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:40:50.569886+00:00
 -- url     : https://prove2.me/theorems/65b21663-86b9-42f5-a2d4-d4d396acea9a

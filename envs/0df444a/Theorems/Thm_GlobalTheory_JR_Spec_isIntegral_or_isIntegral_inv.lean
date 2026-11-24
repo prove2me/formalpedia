@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Spec_isIntegral_or_isIntegral_inv
 -- name    : GlobalTheory.JR.Spec.isIntegral_or_isIntegral_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:36:17.43147+00:00
 -- url     : https://prove2.me/theorems/e21e36a5-a59d-4695-b593-d6b11078b5bb

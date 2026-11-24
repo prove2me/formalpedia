@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_rowOf_inv_mul
 -- name    : GlobalTheory.InertZeta.rowOf_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:52.822024+00:00
 -- url     : https://prove2.me/theorems/fd81125d-ffbb-466b-acc7-d5c92d390527

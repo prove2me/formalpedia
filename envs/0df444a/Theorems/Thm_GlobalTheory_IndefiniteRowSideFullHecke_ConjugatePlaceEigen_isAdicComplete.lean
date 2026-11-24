@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ConjugatePlaceEigen_isAdicComplete
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ConjugatePlaceEigen.isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:13:13.516447+00:00
 -- url     : https://prove2.me/theorems/40c85395-d42b-4239-a791-e731573fe45e

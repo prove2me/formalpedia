@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_isLeviElt_unique
 -- name    : GlobalTheory.CompanionTheory.InertCoset.isLeviElt_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:02:40.587801+00:00
 -- url     : https://prove2.me/theorems/a39a11b9-90e6-4eb0-8a28-4a1a29a5a37e

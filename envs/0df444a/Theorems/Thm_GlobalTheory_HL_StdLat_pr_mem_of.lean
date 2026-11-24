@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdLat_pr_mem_of
 -- name    : GlobalTheory.HL.StdLat.pr_mem_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:00:12.794529+00:00
 -- url     : https://prove2.me/theorems/0cd5c733-ed8c-46a9-9b16-bbc05e420e2a

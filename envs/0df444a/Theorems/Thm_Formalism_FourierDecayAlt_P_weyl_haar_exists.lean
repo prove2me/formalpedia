@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weyl_haar_exists
 -- name    : Formalism.FourierDecayAlt.P.weyl_haar_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:40:54.038131+00:00
 -- url     : https://prove2.me/theorems/408d4d86-3f1b-4724-9f08-13089fe28e8b

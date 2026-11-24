@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NG_eq_of_rootsBar_eq
 -- name    : Formalism.L2.NG.eq_of_rootsBar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:09:51.600808+00:00
 -- url     : https://prove2.me/theorems/c57607f1-e704-4013-82c7-8c761a2df70b

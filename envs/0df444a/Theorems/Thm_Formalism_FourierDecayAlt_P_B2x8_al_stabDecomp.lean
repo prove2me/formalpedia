@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_al_stabDecomp
 -- name    : Formalism.FourierDecayAlt.P.B2x8.al_stabDecomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:59:39.197067+00:00
 -- url     : https://prove2.me/theorems/9dab13f2-2d44-4884-a2eb-7ea7b2194886

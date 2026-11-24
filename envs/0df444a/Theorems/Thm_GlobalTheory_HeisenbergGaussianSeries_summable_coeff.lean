@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergGaussianSeries_summable_coeff
 -- name    : GlobalTheory.HeisenbergGaussianSeries.summable_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:19:12.947905+00:00
 -- url     : https://prove2.me/theorems/c8fd93ee-4559-4e83-933b-9a8d0fac5b2f

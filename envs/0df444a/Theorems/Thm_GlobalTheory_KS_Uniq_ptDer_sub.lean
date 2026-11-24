@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Uniq_ptDer_sub
 -- name    : GlobalTheory.KS.Uniq.ptDer_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:50:20.723208+00:00
 -- url     : https://prove2.me/theorems/80f85c26-3ace-409d-b472-0b4353657726

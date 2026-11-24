@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Endo_fderiv_fn_add_lattice
 -- name    : GlobalTheory.KS.Endo.fderiv_fn_add_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:46:05.083781+00:00
 -- url     : https://prove2.me/theorems/e8976a45-93c4-4623-9004-31ad517bda7e

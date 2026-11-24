@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacobiDeriv_norm_term_eq
 -- name    : GlobalTheory.JacobiDeriv.norm_term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:18.314703+00:00
 -- url     : https://prove2.me/theorems/8a4bf13f-5d9d-4f16-b573-956fe0b4b114

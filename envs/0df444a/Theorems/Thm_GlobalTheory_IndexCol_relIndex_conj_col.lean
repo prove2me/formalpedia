@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexCol_relIndex_conj_col
 -- name    : GlobalTheory.IndexCol.relIndex_conj_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:15:36.370951+00:00
 -- url     : https://prove2.me/theorems/115d90c2-c2ea-4ffc-83f3-aa84288666d0

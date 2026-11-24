@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_exists_isEmb
 -- name    : GlobalTheory.K5.Basic.exists_isEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:42:06.096861+00:00
 -- url     : https://prove2.me/theorems/77d4d2bd-1668-4f0b-ad2b-7ea6a50fe76f

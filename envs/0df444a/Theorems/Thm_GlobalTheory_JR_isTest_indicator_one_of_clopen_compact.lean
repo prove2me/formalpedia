@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_isTest_indicator_one_of_clopen_compact
 -- name    : GlobalTheory.JR.isTest_indicator_one_of_clopen_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:38:23.7528+00:00
 -- url     : https://prove2.me/theorems/0bf8259f-ba71-4a74-a0ec-9a306ac6310e

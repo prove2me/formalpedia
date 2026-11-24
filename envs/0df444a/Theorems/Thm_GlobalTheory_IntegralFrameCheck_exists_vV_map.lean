@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameCheck_exists_vV_map
 -- name    : GlobalTheory.IntegralFrameCheck.exists_vV_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:19:30.61814+00:00
 -- url     : https://prove2.me/theorems/ba1349b2-db86-4e89-92fc-6ef6dc565f63

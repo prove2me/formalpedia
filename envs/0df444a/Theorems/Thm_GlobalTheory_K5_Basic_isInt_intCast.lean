@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_isInt_intCast
 -- name    : GlobalTheory.K5.Basic.isInt_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:42:13.880342+00:00
 -- url     : https://prove2.me/theorems/ed51071e-a9a0-4b55-9230-d26d929bd36e

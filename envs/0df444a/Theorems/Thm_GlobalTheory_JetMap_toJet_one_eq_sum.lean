@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetMap_toJet_one_eq_sum
 -- name    : GlobalTheory.JetMap.toJet_one_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:39:28.369713+00:00
 -- url     : https://prove2.me/theorems/46e2e7c7-c8b1-4fa4-8c2c-ec08d3643ed5

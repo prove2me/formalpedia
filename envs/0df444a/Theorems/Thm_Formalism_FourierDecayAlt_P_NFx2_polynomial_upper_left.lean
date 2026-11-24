@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_polynomial_upper_left
 -- name    : Formalism.FourierDecayAlt.P.NFx2.polynomial_upper_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:16:53.680636+00:00
 -- url     : https://prove2.me/theorems/33ec755c-a2aa-4a08-8a4f-fa81e3a03247

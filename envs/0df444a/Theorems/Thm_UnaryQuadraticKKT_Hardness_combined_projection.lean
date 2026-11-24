@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnaryQuadraticKKT_Hardness_combined_projection
 -- name    : UnaryQuadraticKKT.Hardness.combined_projection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T15:46:28.703301+00:00
 -- url     : https://prove2.me/theorems/7b8e0a66-7e10-44b9-92fa-3493f54876c5

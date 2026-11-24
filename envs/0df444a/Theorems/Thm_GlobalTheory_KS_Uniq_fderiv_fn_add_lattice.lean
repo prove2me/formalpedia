@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Uniq_fderiv_fn_add_lattice
 -- name    : GlobalTheory.KS.Uniq.fderiv_fn_add_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:45:32.584836+00:00
 -- url     : https://prove2.me/theorems/0efc67ec-eee5-4758-be26-179b417d477d

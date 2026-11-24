@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_Fnf_continuous_std
 -- name    : GlobalTheory.JR.WeilQuad.Fnf.continuous_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:38:55.354165+00:00
 -- url     : https://prove2.me/theorems/efdb26b7-5fc0-4dea-ad37-234d4c7a639b

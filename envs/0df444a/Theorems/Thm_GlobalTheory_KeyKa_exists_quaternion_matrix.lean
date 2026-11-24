@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_exists_quaternion_matrix
 -- name    : GlobalTheory.KeyKa.exists_quaternion_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:50:05.414412+00:00
 -- url     : https://prove2.me/theorems/8d0979af-cf71-4fff-874f-eb6174afe4d4

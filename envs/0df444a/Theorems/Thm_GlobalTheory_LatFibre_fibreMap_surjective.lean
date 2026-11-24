@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatFibre_fibreMap_surjective
 -- name    : GlobalTheory.LatFibre.fibreMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:57:06.302739+00:00
 -- url     : https://prove2.me/theorems/a0d6670c-e487-404f-82c2-fe71a034facf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_herm_mul_bvec
 -- name    : AAInvW.herm_mul_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:26:04.765802+00:00
 -- url     : https://prove2.me/theorems/238ce951-be76-465d-b754-a83145c5ed9c

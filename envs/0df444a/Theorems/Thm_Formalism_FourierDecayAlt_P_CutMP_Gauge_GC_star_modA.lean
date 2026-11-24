@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_star_modA
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.star_modA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:11:56.466704+00:00
 -- url     : https://prove2.me/theorems/62936e41-b33a-45e0-a53e-44bf62f8956b

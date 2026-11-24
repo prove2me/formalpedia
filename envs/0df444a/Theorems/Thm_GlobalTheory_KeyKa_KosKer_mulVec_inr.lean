@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KosKer_mulVec_inr
 -- name    : GlobalTheory.KeyKa.KosKer.mulVec_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:54:43.943498+00:00
 -- url     : https://prove2.me/theorems/a2c62900-cf89-4092-bef4-cba0c49f2e62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_isUnit_of_inUH
 -- name    : AAInvW.isUnit_of_inUH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:28:55.168417+00:00
 -- url     : https://prove2.me/theorems/ccefb0af-23a1-44a4-8b93-7600819f72c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_ModelOfN_exists_model
 -- name    : GlobalTheory.InertUnitOrb.ModelOfN.exists_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:15:47.56085+00:00
 -- url     : https://prove2.me/theorems/7c4a02d4-de03-4abe-a305-90f563664ed7

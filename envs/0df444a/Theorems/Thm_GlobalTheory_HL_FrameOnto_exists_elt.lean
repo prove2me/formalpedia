@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameOnto_exists_elt
 -- name    : GlobalTheory.HL.FrameOnto.exists_elt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:01:05.889345+00:00
 -- url     : https://prove2.me/theorems/13c0f727-337a-4d55-9fab-8f214a1b3cf6

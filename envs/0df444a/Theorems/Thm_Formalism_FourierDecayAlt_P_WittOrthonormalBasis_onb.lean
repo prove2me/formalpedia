@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WittOrthonormalBasis_onb
 -- name    : Formalism.FourierDecayAlt.P.WittOrthonormalBasis.onb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:02:09.599466+00:00
 -- url     : https://prove2.me/theorems/d4fd9bc4-89d8-4f5a-89c4-1216bbcb0202

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FrameChange_prod_lam
 -- name    : GlobalTheory.JetSer.FrameChange.prod_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:40:17.156085+00:00
 -- url     : https://prove2.me/theorems/a29c6063-a1c9-4804-9aa6-4312b8e11adb

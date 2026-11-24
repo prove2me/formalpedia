@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_defect_e
 -- name    : GlobalTheory.InducedPBW.defect_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:15:08.943661+00:00
 -- url     : https://prove2.me/theorems/d1f885c1-e745-49be-813d-87292d7fb784

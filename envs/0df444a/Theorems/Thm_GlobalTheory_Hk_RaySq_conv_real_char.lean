@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RaySq_conv_real_char
 -- name    : GlobalTheory.Hk.RaySq.conv_real_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:37:30.665883+00:00
 -- url     : https://prove2.me/theorems/a05b6d82-22fe-4fd3-9218-d97e0831c270

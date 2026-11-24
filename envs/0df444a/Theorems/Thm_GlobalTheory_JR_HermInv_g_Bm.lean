@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_g_Bm
 -- name    : GlobalTheory.JR.HermInv.g_Bm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:44.725796+00:00
 -- url     : https://prove2.me/theorems/5d0cc0c5-367c-43ec-a744-442c15c1f581

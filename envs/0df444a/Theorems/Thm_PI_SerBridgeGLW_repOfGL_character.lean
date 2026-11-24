@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_repOfGL_character
 -- name    : PI.SerBridgeGLW.repOfGL_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:29:38.265799+00:00
 -- url     : https://prove2.me/theorems/e026c3ab-1048-4f68-a7dd-57f0f8129f6c

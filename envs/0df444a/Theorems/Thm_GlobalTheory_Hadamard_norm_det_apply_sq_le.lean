@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hadamard_norm_det_apply_sq_le
 -- name    : GlobalTheory.Hadamard.norm_det_apply_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:02:26.632013+00:00
 -- url     : https://prove2.me/theorems/3cd6aef2-1544-4790-bff4-9dcc929e36c9

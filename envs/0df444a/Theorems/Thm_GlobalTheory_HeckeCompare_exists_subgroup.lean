@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_exists_subgroup
 -- name    : GlobalTheory.HeckeCompare.exists_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:03:18.759452+00:00
 -- url     : https://prove2.me/theorems/76cbf4ab-81a3-48b2-b4d6-58bf6e714c89

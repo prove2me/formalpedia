@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SLGen_eq_top_of
 -- name    : GlobalTheory.JR.SLGen.eq_top_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:37:00.334798+00:00
 -- url     : https://prove2.me/theorems/13a73606-8b8d-4352-91e1-182aa7ade1eb

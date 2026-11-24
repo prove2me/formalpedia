@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_ProdImWirt_wirt_mono
 -- name    : GlobalTheory.HeckeTwo.ProdImWirt.wirt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:06:46.735791+00:00
 -- url     : https://prove2.me/theorems/eea598fc-6102-4e8d-975b-84b2587b0903

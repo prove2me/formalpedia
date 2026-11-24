@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_wr_affine
 -- name    : GlobalTheory.JetConj.wr_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:39:51.026641+00:00
 -- url     : https://prove2.me/theorems/7044f770-e9a8-421f-9ab4-77da99c677bc

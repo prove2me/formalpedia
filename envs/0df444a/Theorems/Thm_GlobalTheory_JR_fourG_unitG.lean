@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_fourG_unitG
 -- name    : GlobalTheory.JR.fourG_unitG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:38:26.430922+00:00
 -- url     : https://prove2.me/theorems/e4bff85e-af1f-4cc2-9d86-21f4dac050a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_card_filter_sgn_pos
 -- name    : GlobalTheory.Inertia.card_filter_sgn_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:37:31.742883+00:00
 -- url     : https://prove2.me/theorems/b89f72a8-4649-41bc-a95f-4bb494b8f0c0

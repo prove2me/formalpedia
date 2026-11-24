@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Eta_card_gal
 -- name    : Formalism.FrobeniusOrbits.Eta.card_gal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:22.615744+00:00
 -- url     : https://prove2.me/theorems/77f31c76-1c64-4cbe-88eb-7b4081c7d9f2

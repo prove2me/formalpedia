@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_exists_gl_isometry_comp_eq_of_nondegenerate
 -- name    : GlobalTheory.HermWitt.exists_gl_isometry_comp_eq_of_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:04.875809+00:00
 -- url     : https://prove2.me/theorems/5b4a2e85-4eed-433d-9dbe-aa8bab0b1456

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_fiber_compare
 -- name    : GlobalTheory.CompanionTheory.InertZeta.fiber_compare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:05:59.442729+00:00
 -- url     : https://prove2.me/theorems/2ad6498a-f84a-4d94-81be-d647c32cd2c2

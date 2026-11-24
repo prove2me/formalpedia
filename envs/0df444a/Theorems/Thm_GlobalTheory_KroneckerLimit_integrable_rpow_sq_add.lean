@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_integrable_rpow_sq_add
 -- name    : GlobalTheory.KroneckerLimit.integrable_rpow_sq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:51:05.169894+00:00
 -- url     : https://prove2.me/theorems/b034d116-6320-437d-90f0-c651ffa67f4b

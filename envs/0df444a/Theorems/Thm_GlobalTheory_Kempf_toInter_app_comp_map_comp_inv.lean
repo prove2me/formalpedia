@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Kempf_toInter_app_comp_map_comp_inv
 -- name    : GlobalTheory.Kempf.toInter_app_comp_map_comp_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:47:48.555592+00:00
 -- url     : https://prove2.me/theorems/808cd0f0-cfd8-407f-9f47-b2be241278cf

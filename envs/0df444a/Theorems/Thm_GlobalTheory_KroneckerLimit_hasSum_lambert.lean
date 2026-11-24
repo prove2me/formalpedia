@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_hasSum_lambert
 -- name    : GlobalTheory.KroneckerLimit.hasSum_lambert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:50:42.08105+00:00
 -- url     : https://prove2.me/theorems/fb44d012-7dc6-412c-80ab-52663fca6baf

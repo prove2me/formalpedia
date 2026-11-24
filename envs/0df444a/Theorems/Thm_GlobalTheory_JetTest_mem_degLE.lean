@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetTest_mem_degLE
 -- name    : GlobalTheory.JetTest.mem_degLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:40:51.984708+00:00
 -- url     : https://prove2.me/theorems/a98327a1-6af8-414c-869b-b4c58aea8e8d

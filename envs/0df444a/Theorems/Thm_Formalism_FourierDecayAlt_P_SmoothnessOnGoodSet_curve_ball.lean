@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOnGoodSet_curve_ball
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOnGoodSet.curve_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:06:06.151216+00:00
 -- url     : https://prove2.me/theorems/b33acaad-c055-4d39-a206-3f2fc388f045

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptRobustCD_lemma_4_10
 -- name    : OptRobustCD.lemma_4_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T23:52:33.348194+00:00
 -- url     : https://prove2.me/theorems/9d401eed-6e96-42ad-b02e-5cfa0973d29f

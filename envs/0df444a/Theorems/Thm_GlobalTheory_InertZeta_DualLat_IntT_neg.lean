@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_DualLat_IntT_neg
 -- name    : GlobalTheory.InertZeta.DualLat.IntT.neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:52:19.110296+00:00
 -- url     : https://prove2.me/theorems/e74e4d03-1aec-4c35-886b-c2a9301c8b88

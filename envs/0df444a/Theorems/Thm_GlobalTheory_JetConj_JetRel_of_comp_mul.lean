@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_JetRel_of_comp_mul
 -- name    : GlobalTheory.JetConj.JetRel.of_comp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:49.1898+00:00
 -- url     : https://prove2.me/theorems/90c2d94c-f102-43db-b544-93a6e6bd6def

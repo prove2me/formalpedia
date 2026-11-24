@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndivisibleSection_exists_generator_of_basis
 -- name    : GlobalTheory.IndivisibleSection.exists_generator_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:16:29.444676+00:00
 -- url     : https://prove2.me/theorems/1724e879-9b6d-4067-aa23-118349b86a2e

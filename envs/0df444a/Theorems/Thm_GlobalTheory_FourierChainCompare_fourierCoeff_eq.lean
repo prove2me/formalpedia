@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_fourierCoeff_eq
 -- name    : GlobalTheory.FourierChainCompare.fourierCoeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:55:32.182172+00:00
 -- url     : https://prove2.me/theorems/3a902f81-cfb5-496c-860b-8240fe941773

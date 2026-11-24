@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KuennethOne_apply_lid_rTensor
 -- name    : GlobalTheory.KuennethOne.apply_lid_rTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:55:48.7868+00:00
 -- url     : https://prove2.me/theorems/9f97121f-fa56-40b2-908f-793093452e87

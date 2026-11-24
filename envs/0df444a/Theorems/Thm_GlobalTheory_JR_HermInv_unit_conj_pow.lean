@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_unit_conj_pow
 -- name    : GlobalTheory.JR.HermInv.unit_conj_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:33:06.106451+00:00
 -- url     : https://prove2.me/theorems/9512db8c-11da-4c8d-9454-f92030a545e4

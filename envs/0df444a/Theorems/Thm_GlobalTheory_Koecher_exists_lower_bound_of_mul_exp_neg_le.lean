@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Koecher_exists_lower_bound_of_mul_exp_neg_le
 -- name    : GlobalTheory.Koecher.exists_lower_bound_of_mul_exp_neg_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:48:54.083797+00:00
 -- url     : https://prove2.me/theorems/c2ea396c-e520-4bbb-be92-4aa2ea16afa6

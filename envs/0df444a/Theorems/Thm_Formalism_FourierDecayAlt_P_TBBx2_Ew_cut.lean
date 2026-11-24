@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx2_Ew_cut
 -- name    : Formalism.FourierDecayAlt.P.TBBx2.Ew_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:05:02.244812+00:00
 -- url     : https://prove2.me/theorems/03fca343-0172-463e-a0bb-f846059786bf

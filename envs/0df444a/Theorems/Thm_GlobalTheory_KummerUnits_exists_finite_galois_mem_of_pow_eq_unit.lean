@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KummerUnits_exists_finite_galois_mem_of_pow_eq_unit
 -- name    : GlobalTheory.KummerUnits.exists_finite_galois_mem_of_pow_eq_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:56:03.561796+00:00
 -- url     : https://prove2.me/theorems/1296d632-9299-4033-8225-1ffdbed06946

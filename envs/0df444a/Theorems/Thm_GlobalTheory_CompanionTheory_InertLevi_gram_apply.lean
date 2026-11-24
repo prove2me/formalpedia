@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLevi_gram_apply
 -- name    : GlobalTheory.CompanionTheory.InertLevi.gram_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:03:31.147976+00:00
 -- url     : https://prove2.me/theorems/d06ba71a-4d70-4ecd-89cd-c708bfae275c

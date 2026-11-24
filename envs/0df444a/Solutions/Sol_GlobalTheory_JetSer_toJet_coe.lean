@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for GlobalTheory.JetSer.toJet_coe
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-24T18:24:51.837255+00:00
+-- url     : https://prove2.me/submissions/0dcd64cc-f533-41fb-8f51-138f7e3c9237
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_TwoChartAtlas_TwoChartSt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ChartChg
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_ExistsToJetEq
+import Theorems.Thm_GlobalTheory_JetSer_toJet_eq_mk_iff
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open MvPowerSeries ReciprocityTheory.ChartRestriction.G.Chart
+open GlobalTheory GlobalTheory.JetSer
+variable {R : Type} [CommRing R] {κ : Type}
+variable [Finite κ]
+namespace GlobalTheory.JetSer
+theorem _root_.solution (m : ℕ) (Q : MvPolynomial κ R) :
+    toJet m (Q : MvPowerSeries κ R) = Ideal.Quotient.mk _ Q :=
+  (toJet_eq_mk_iff m _ Q).2 fun e _ => MvPolynomial.coeff_coe Q e
+end GlobalTheory.JetSer

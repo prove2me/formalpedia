@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_liftConstHomK_smooth
 -- name    : GlobalTheory.KS.liftConstHomK_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:52.003841+00:00
 -- url     : https://prove2.me/theorems/a421bdbb-b161-4505-8b8d-4169381104ff

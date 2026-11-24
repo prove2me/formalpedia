@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_DiscrB_odd_of_mod
 -- name    : Formalism.FrobeniusOrbits.DiscrB.odd_of_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:57:48.631409+00:00
 -- url     : https://prove2.me/theorems/a4139afd-3993-4ec1-a3c3-40898b87d9b9

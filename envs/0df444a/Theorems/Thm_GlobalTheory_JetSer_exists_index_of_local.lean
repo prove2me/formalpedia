@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_exists_index_of_local
 -- name    : GlobalTheory.JetSer.exists_index_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:41:55.638812+00:00
 -- url     : https://prove2.me/theorems/e39196f4-641a-4618-81fe-c04220cb3832

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KosKer_mulVec_inl_map
 -- name    : GlobalTheory.KeyKa.KosKer.mulVec_inl_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:54:50.58354+00:00
 -- url     : https://prove2.me/theorems/94c085ca-8684-4d92-a8b9-8969d94f9b11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_clause_of_regularized_limit
 -- name    : Formalism.FourierDecayAlt.P.clause_of_regularized_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:29:14.875998+00:00
 -- url     : https://prove2.me/theorems/ffb718cd-3e40-4530-bc8c-b75d3040d0db

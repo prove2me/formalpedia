@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_smul_split
 -- name    : GlobalTheory.JR.WeilProd.smul_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:37:23.697311+00:00
 -- url     : https://prove2.me/theorems/2800eaa8-754e-473c-933d-1433d2392ca1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_fourB_prod_iterated
 -- name    : GlobalTheory.JR.fourB_prod_iterated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:38:26.239085+00:00
 -- url     : https://prove2.me/theorems/ce18e65c-dc62-4e18-bff0-129e216bed24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_galE_restrict_mem_Psi
 -- name    : Formalism.FrobeniusOrbits.Principal.galE_restrict_mem_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:39:06.441107+00:00
 -- url     : https://prove2.me/theorems/8e480e6f-4e5f-43e0-bc7b-39f1aafd8e68

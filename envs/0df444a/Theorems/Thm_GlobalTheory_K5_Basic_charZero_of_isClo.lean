@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_charZero_of_isClo
 -- name    : GlobalTheory.K5.Basic.charZero_of_isClo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:41:15.419804+00:00
 -- url     : https://prove2.me/theorems/7d2207e8-34b0-4d2a-a468-8a691af46716

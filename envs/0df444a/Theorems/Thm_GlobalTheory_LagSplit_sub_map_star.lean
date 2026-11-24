@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_sub_map_star
 -- name    : GlobalTheory.LagSplit.sub_map_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:57:20.722816+00:00
 -- url     : https://prove2.me/theorems/4b847afa-15e9-4667-a7de-5a023f257ab0

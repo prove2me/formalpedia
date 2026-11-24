@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_HasLen_len_eq
 -- name    : GlobalTheory.InertZeta.HasLen.len_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:55:16.577677+00:00
 -- url     : https://prove2.me/theorems/5b4f6a93-7f5c-4c8e-8a18-a6cef08de040

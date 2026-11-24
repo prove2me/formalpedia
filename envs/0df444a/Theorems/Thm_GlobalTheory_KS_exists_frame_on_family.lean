@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_frame_on_family
 -- name    : GlobalTheory.KS.exists_frame_on_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:47:51.587012+00:00
 -- url     : https://prove2.me/theorems/c9ad386f-805a-4b09-8e0f-e944131f5df2

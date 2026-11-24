@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_rowSum_neg
 -- name    : GlobalTheory.KroneckerLimit.rowSum_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:53:52.781207+00:00
 -- url     : https://prove2.me/theorems/c892e003-d21a-4ca7-99f9-8d95f1cd4a1a

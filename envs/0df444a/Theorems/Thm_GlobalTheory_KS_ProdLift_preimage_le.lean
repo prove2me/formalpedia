@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_ProdLift_preimage_le
 -- name    : GlobalTheory.KS.ProdLift.preimage_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:47:26.352851+00:00
 -- url     : https://prove2.me/theorems/3f5a49e5-b484-4894-a186-1a5fdf111036

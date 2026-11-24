@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilMix_continuous_rowMap
 -- name    : GlobalTheory.JR.WeilMix.continuous_rowMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:37:32.938484+00:00
 -- url     : https://prove2.me/theorems/10ac71d6-cc9c-47e0-9443-4f7f61a7487f
