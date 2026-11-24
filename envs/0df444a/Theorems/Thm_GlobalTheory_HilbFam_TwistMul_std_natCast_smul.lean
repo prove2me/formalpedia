@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_TwistMul_std_natCast_smul
 -- name    : GlobalTheory.HilbFam.TwistMul.std_natCast_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:20:54.85988+00:00
 -- url     : https://prove2.me/theorems/8df4882a-6a31-499e-a116-5c6c2d3d6af8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_eq_of_re_form
 -- name    : GlobalTheory.HermSign.eq_of_re_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:18:43.614276+00:00
 -- url     : https://prove2.me/theorems/abc35b2a-eb2e-4646-a0f0-a7a24fe2d9dd

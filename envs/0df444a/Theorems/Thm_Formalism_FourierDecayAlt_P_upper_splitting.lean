@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_upper_splitting
 -- name    : Formalism.FourierDecayAlt.P.upper_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:40:11.246345+00:00
 -- url     : https://prove2.me/theorems/aea907ef-1d34-4d61-bc7f-d1bd36133ffb

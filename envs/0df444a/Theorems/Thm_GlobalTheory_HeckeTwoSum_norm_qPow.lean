@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoSum_norm_qPow
 -- name    : GlobalTheory.HeckeTwoSum.norm_qPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:15:11.9548+00:00
 -- url     : https://prove2.me/theorems/3ad523be-3685-4b78-9e20-077a4af21e59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_quotMap_mul_orthLift
 -- name    : GlobalTheory.HermFrame.quotMap_mul_orthLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:19:21.036811+00:00
 -- url     : https://prove2.me/theorems/160229af-fb39-4d1b-b065-552fd3ec5eba

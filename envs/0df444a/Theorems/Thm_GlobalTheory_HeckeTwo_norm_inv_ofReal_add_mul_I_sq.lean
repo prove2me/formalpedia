@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_norm_inv_ofReal_add_mul_I_sq
 -- name    : GlobalTheory.HeckeTwo.norm_inv_ofReal_add_mul_I_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:13:14.720799+00:00
 -- url     : https://prove2.me/theorems/d41bfd9d-2e15-4912-903c-9c596da5d550

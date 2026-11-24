@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_oneForms_cocycle_restrict_sub_coboundary
 -- name    : GlobalTheory.T.exists_oneForms_cocycle_restrict_sub_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:00.413422+00:00
 -- url     : https://prove2.me/theorems/d8296c30-90a4-40cf-9360-5bfe93d579ee

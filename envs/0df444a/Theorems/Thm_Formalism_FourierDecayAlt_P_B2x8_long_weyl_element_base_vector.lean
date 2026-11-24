@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_long_weyl_element_base_vector
 -- name    : Formalism.FourierDecayAlt.P.B2x8.long_weyl_element_base_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:56:15.037926+00:00
 -- url     : https://prove2.me/theorems/6427a96f-727a-4faf-b497-846b9ce92010

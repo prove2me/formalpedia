@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_intInd_apply
 -- name    : GlobalTheory.HeisUnit.intInd_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:18:11.852548+00:00
 -- url     : https://prove2.me/theorems/fd1b7f86-07ee-4555-aff4-21a62ed7bf46

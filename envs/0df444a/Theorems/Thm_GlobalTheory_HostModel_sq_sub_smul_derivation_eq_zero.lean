@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_sq_sub_smul_derivation_eq_zero
 -- name    : GlobalTheory.HostModel.sq_sub_smul_derivation_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:37:45.959382+00:00
 -- url     : https://prove2.me/theorems/e3f09c09-2901-4e32-b7bd-0962466aea4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_norm_admissible_of_double_translate_le
 -- name    : Formalism.FourierDecayAlt.P.B6.norm_admissible_of_double_translate_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:04:49.885942+00:00
 -- url     : https://prove2.me/theorems/12707a34-c097-4d16-a96c-b2bb4ed3dbcd

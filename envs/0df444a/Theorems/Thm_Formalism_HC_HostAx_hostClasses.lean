@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_hostClasses
 -- name    : Formalism.HC.HostAx.hostClasses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:22:03.361439+00:00
 -- url     : https://prove2.me/theorems/acd0980d-dac7-4b70-ade1-16e5dd6562ce

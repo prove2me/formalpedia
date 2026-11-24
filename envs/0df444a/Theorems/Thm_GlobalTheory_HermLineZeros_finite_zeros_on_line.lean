@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLineZeros_finite_zeros_on_line
 -- name    : GlobalTheory.HermLineZeros.finite_zeros_on_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:19:44.664094+00:00
 -- url     : https://prove2.me/theorems/cd7419b5-caad-4a72-beac-bccda56d42a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermSmooth_sum_pushforward_eval
 -- name    : GlobalTheory.HeckeTwo.TermSmooth.sum_pushforward_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:07:07.240161+00:00
 -- url     : https://prove2.me/theorems/625c8807-f4ed-449e-a13b-9050039c5f21

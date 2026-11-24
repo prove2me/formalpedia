@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_real_inputs_concrete_holds
 -- name    : Formalism.FourierDecayAlt.P.real_inputs_concrete_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:28:23.987278+00:00
 -- url     : https://prove2.me/theorems/f3f51736-934f-4313-940e-b4f417cf6972

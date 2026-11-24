@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_norm_eq_signed_coeff_pow
 -- name    : PaleyWeil.norm_eq_signed_coeff_pow
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:19:14.402511+00:00
 -- url     : https://prove2.me/theorems/f6302362-3bef-4006-8166-2e59db5f4eea

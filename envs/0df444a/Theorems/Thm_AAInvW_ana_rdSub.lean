@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ana_rdSub
 -- name    : AAInvW.ana_rdSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:50:44.118799+00:00
 -- url     : https://prove2.me/theorems/0046790e-aba5-40df-8fb4-a316eb0c4e8f

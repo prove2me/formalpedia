@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x4_chain
 -- name    : Formalism.FourierDecayAlt.P.C2x4.chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:12:01.561677+00:00
 -- url     : https://prove2.me/theorems/70db5218-a366-4104-a292-aeb1bbde247c

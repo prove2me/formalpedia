@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_exists_adjoint
 -- name    : GlobalTheory.HeckeTate.exists_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:05:56.734351+00:00
 -- url     : https://prove2.me/theorems/3158f9b0-9f2e-4d60-ae1f-b60c143e03bc

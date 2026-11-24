@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGB_extE_isom
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGB.extE_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:20.070805+00:00
 -- url     : https://prove2.me/theorems/c6ac07f6-7fa3-4228-8cef-44ac04224d5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordUnip_mem_X
 -- name    : GlobalTheory.HL.CoordUnip.mem_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:02:04.695067+00:00
 -- url     : https://prove2.me/theorems/a758c1ed-3447-450c-80b7-1e2b3eb00da1

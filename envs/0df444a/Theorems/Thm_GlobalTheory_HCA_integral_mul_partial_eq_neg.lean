@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_integral_mul_partial_eq_neg
 -- name    : GlobalTheory.HCA.integral_mul_partial_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:00:29.627608+00:00
 -- url     : https://prove2.me/theorems/2a3c84ad-b4e9-4f0a-b15b-74bfbbf03b06

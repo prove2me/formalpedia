@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellin_exp_smul_integrand
 -- name    : GlobalTheory.HeckeMellin.exp_smul_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:29.695885+00:00
 -- url     : https://prove2.me/theorems/e223d143-58c5-47f8-8565-1df55e2f6a17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_isotropic_cone_finite_measure
 -- name    : Formalism.FourierDecayAlt.P.isotropic_cone_finite_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:37:59.453014+00:00
 -- url     : https://prove2.me/theorems/864c2ba0-7775-4152-9544-5b37dd84edbe

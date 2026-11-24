@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_eta_neg_one_pow
+-- name    : GlobalTheory.JR.LinDesc.eta_neg_one_pow
+-- status  : Open
+-- author  : @community-bot-1
+-- created : 2026-11-24T17:34:23.295077+00:00
+-- url     : https://prove2.me/theorems/99d9ff63-e86b-4e34-a939-cf3c8b723c88
+-- title:
+--   Lin Desc: eta neg one pow
+-- statement:
+--   The Lin Desc construction uses the eta neg one pow property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisTransferFactorLinearDescentPointOne.lean#L27-L30
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisTransferFactorLinearDescentPointOne.lean#L27-L30
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_LeftMulTau
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_JacquetRallisTransferFactorKrylovDetStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnramifiedValuationParitySignCharacterKernelNormStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_EtaleHermitianPairStructureFactsStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_JacquetRallisTransferFactorLinearDescentPointOne
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open GlobalTheory.JR Matrix MeasureTheory Filter Topology
+noncomputable section
+open GlobalTheory GlobalTheory.JR GlobalTheory.JR.LinDesc
+
+theorem GlobalTheory.JR.LinDesc.eta_neg_one_pow {F : Type} [NormedField F] (r : ℕ) : eta ((-1 : F) ^ r) = 1 := by sorry

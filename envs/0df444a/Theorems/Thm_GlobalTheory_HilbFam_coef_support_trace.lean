@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_coef_support_trace
 -- name    : GlobalTheory.HilbFam.coef_support_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:20:51.315671+00:00
 -- url     : https://prove2.me/theorems/80d4eb9d-29cd-4521-b60d-d9dd2c7206e4

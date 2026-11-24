@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_mem_mulMat_smul_one_iff
 -- name    : GlobalTheory.HilbFam.mem_mulMat_smul_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:22:00.725617+00:00
 -- url     : https://prove2.me/theorems/0c984e6d-2aa7-40c6-a78b-d417f9ccaa3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_UHb_det
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.UHb_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:24:17.309917+00:00
 -- url     : https://prove2.me/theorems/3c78bbe7-1473-4d2f-9462-4adf71c5fbf8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_nsum_le
 -- name    : GlobalTheory.HermUnimod.nsum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:20:18.376882+00:00
 -- url     : https://prove2.me/theorems/d86c4a28-3db6-4e93-ae0d-66f360326b14

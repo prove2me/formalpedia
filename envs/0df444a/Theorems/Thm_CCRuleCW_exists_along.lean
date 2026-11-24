@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_exists_along
 -- name    : CCRuleCW.exists_along
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:17:19.624965+00:00
 -- url     : https://prove2.me/theorems/c55fed36-ecc4-4246-a4aa-8943d6f1f7d1

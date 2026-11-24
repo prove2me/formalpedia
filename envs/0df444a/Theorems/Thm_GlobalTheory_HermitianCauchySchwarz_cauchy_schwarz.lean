@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermitianCauchySchwarz_cauchy_schwarz
 -- name    : GlobalTheory.HermitianCauchySchwarz.cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:21.330972+00:00
 -- url     : https://prove2.me/theorems/eb3369f0-429d-4bf9-9657-404db471ba63

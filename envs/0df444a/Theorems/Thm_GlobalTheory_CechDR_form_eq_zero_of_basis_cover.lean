@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_form_eq_zero_of_basis_cover
 -- name    : GlobalTheory.CechDR.form_eq_zero_of_basis_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:15:09.121418+00:00
 -- url     : https://prove2.me/theorems/203d3fe3-29e5-4bf0-9f04-00fa7f1a5f62

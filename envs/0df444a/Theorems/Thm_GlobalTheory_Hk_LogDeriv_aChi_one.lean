@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LogDeriv_aChi_one
 -- name    : GlobalTheory.Hk.LogDeriv.aChi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:34:58.219675+00:00
 -- url     : https://prove2.me/theorems/f118f153-adaf-41b7-933d-537a6a08cc36

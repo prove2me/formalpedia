@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_gauss_unit
 -- name    : GlobalTheory.HeckePoisson.gauss_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:05:02.873972+00:00
 -- url     : https://prove2.me/theorems/96ad098a-7e66-4e55-bdcc-5cb75ac838ef

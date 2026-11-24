@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_norm_hilbertSchmidt_rho_pointwise_le
 -- name    : Formalism.FourierDecayAlt.P.B6.norm_hilbertSchmidt_rho_pointwise_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:04:37.066494+00:00
 -- url     : https://prove2.me/theorems/504705e5-bbf8-4cf1-92b3-3c22250cb948

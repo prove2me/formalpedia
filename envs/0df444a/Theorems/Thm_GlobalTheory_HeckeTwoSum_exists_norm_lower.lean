@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoSum_exists_norm_lower
 -- name    : GlobalTheory.HeckeTwoSum.exists_norm_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:15:21.459373+00:00
 -- url     : https://prove2.me/theorems/e33ccf89-75ee-4f7a-acd2-158836f89279

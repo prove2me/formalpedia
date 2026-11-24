@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ClosureOperators_mono_zero
 -- name    : Formalism.FourierDecayAlt.P.ClosureOperators.mono_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:51:02.065959+00:00
 -- url     : https://prove2.me/theorems/3c4c59d8-dfa5-4c6a-89cd-a2d3a22f5f0d

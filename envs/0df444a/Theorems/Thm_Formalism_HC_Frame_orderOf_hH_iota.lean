@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_orderOf_hH_iota
 -- name    : Formalism.HC.Frame.orderOf_hH_iota
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:53:33.890802+00:00
 -- url     : https://prove2.me/theorems/10ffccd8-aa85-4505-b309-bf508b37bc7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_phase_function_adjoint
 -- name    : Formalism.FourierDecayAlt.P.phase_function_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:56:32.565807+00:00
 -- url     : https://prove2.me/theorems/53da5a33-7d24-48fe-81eb-79d99b3ae3d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_exists_isPart
 -- name    : GlobalTheory.HeckeTate.exists_isPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:06:05.270111+00:00
 -- url     : https://prove2.me/theorems/49929911-b947-491f-967a-1c108a7f4f4e

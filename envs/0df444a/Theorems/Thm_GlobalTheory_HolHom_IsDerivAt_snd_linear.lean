@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_IsDerivAt_snd_linear
 -- name    : GlobalTheory.HolHom.IsDerivAt.snd_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:36:17.21712+00:00
 -- url     : https://prove2.me/theorems/d6ad6e39-b6c9-443a-bddc-4c0cd061028c

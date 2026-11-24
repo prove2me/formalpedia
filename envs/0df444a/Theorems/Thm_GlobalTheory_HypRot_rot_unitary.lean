@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HypRot_rot_unitary
 -- name    : GlobalTheory.HypRot.rot_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:12:42.678047+00:00
 -- url     : https://prove2.me/theorems/f19bdb1b-5f26-45c9-86d6-0d68f3b8ce41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertSamuelPS_firstIdx_eq
 -- name    : GlobalTheory.HilbertSamuelPS.firstIdx_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:21:21.629804+00:00
 -- url     : https://prove2.me/theorems/8e9366fa-b26d-47d3-a217-c7e9dc9c2b24

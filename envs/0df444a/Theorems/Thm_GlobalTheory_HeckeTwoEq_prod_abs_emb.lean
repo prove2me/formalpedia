@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoEq_prod_abs_emb
 -- name    : GlobalTheory.HeckeTwoEq.prod_abs_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:16:26.952351+00:00
 -- url     : https://prove2.me/theorems/cfc16bab-45ae-426a-83a7-be18e375a314

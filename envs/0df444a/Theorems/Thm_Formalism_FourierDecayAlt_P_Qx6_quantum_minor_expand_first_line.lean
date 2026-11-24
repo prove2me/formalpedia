@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_quantum_minor_expand_first_line
 -- name    : Formalism.FourierDecayAlt.P.Qx6.quantum_minor_expand_first_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:35:55.04499+00:00
 -- url     : https://prove2.me/theorems/f51bb700-5948-414d-a13b-abc03597f923

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermDecay_integral_rpow_sq_add_sq
 -- name    : GlobalTheory.HeckeTwo.TermDecay.integral_rpow_sq_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:07:12.853159+00:00
 -- url     : https://prove2.me/theorems/e98df82d-4c61-4d61-90a0-40a2182f097c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_APart_rpow_le_add
 -- name    : GlobalTheory.HeckeTwo.APart.rpow_le_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:47.373796+00:00
 -- url     : https://prove2.me/theorems/41d8f686-e6e3-494d-92eb-917e0d6f5fe8

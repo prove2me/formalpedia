@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericValue_exists_value
 -- name    : GlobalTheory.GenericValue.exists_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:55:07.477034+00:00
 -- url     : https://prove2.me/theorems/cfeccc7b-731d-4f30-accd-dd9d6de11935

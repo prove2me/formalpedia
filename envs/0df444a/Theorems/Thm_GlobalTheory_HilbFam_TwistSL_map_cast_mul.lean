@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_TwistSL_map_cast_mul
 -- name    : GlobalTheory.HilbFam.TwistSL.map_cast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:20:41.233437+00:00
 -- url     : https://prove2.me/theorems/a68c44bd-0559-4b0e-a00d-14348291e804

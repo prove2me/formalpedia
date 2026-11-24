@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hostOrbitsPlaces
 -- name    : Formalism.HC.Frame.hostOrbitsPlaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:54:33.6288+00:00
 -- url     : https://prove2.me/theorems/6220cba2-0f56-4ef2-8d30-f9ee2d26820f

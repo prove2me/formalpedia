@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_fixed_mem
 -- name    : GlobalTheory.HermUnimod.fixed_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:20:12.186193+00:00
 -- url     : https://prove2.me/theorems/c680ee65-435d-4853-a034-59bd5246e7d3

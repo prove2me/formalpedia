@@ -46300,7 +46300,7 @@
 {"parent": "TransparencyTeamContracts_Submodular_Supplement_Mixed", "child": "NonmonotoneSubmod_Shared_F", "via": ["statement"]}
 {"parent": "InducedMinorDeletion1657_Main_Supplement_Approximation", "child": "InducedMinorDeletion1657_Main_Execution", "via": ["statement"]}
 {"parent": "InducedMinorDeletion1657_Main_Supplement_Approximation", "child": "FatFlat_Hereditary_Basic", "via": ["statement"]}
-{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.theorem_4_1", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Classes", "via": ["statement"]}
+{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.theorem_4_1", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Classes", "via": ["solution", "statement"]}
 {"parent": "MeanBudgetXC.Supplement.theorem_5_7", "child": "ExtensionComplexity_TSP_extensionComplexity", "via": ["statement"]}
 {"parent": "MeanBudgetXC.Supplement.theorem_5_7", "child": "MeanBudgetXC_pairBody", "via": ["statement"]}
 {"parent": "MeanBudgetXC.Supplement.theorem_5_7", "child": "MeanBudgetXC_Supplement_capValue", "via": ["statement"]}
@@ -48082,7 +48082,7 @@
 {"parent": "OddPermSum.Evaluation.Supplement.lemma_5_3", "child": "OddPermSum_Evaluation_Supplement_ringAlgorithmInterfaces", "via": ["statement"]}
 {"parent": "OddPermSum.Evaluation.Supplement.lemma_5_3", "child": "OddPermSum_Evaluation_Supplement_bilinearMultiplier", "via": ["statement"]}
 {"parent": "MaxCutSample2027.Coreset.Supplement.theorem_4_1", "child": "MaxCutSample2027_Coreset_Supplement_sampling", "via": ["statement"]}
-{"parent": "DistributionTheoryMission.schwartz_kernel_uniqueness", "child": "liuyao_ca_fd889115_k1_Distributions_KernelTargets", "via": ["statement"]}
+{"parent": "DistributionTheoryMission.schwartz_kernel_uniqueness", "child": "liuyao_ca_fd889115_k1_Distributions_KernelTargets", "via": ["solution", "statement"]}
 {"parent": "WeightedEdgeColor.Supplement.theorem_E_4", "child": "TimeSpaceMA_RAM", "via": ["statement"]}
 {"parent": "WeightedEdgeColor.Supplement.theorem_E_4", "child": "WeightedEdgeColor_Supplement_RatGraph", "via": ["statement"]}
 {"parent": "WeightedEdgeColor.Supplement.theorem_E_4", "child": "WeightedEdgeColor_Supplement_hInf", "via": ["statement"]}
@@ -57009,7 +57009,7 @@
 {"parent": "QRetrieval_Adaptive_Supplement_NonAdaptiveCompressionScheme", "child": "QAlgorithms_Defs_Query", "via": ["statement"]}
 {"parent": "QRetrieval_Adaptive_Supplement_NonAdaptiveCompressionScheme", "child": "QRetrieval_Adaptive_Supplement_productPhaseOracle", "via": ["statement"]}
 {"parent": "RankCutFacility.Shifted.Supplement.zero_start_later_request", "child": "RankCutFacility_Shifted_Supplement_Runs", "via": ["statement"]}
-{"parent": "DistributionTheoryMission.schwartz_kernel_existence", "child": "liuyao_ca_fd889115_k1_Distributions_KernelTargets", "via": ["statement"]}
+{"parent": "DistributionTheoryMission.schwartz_kernel_existence", "child": "liuyao_ca_fd889115_k1_Distributions_KernelTargets", "via": ["solution", "statement"]}
 {"parent": "RSSubspaceDesign.Supplement.theorem_7_1", "child": "RSSubspaceDesign_IsCoeffList", "via": ["statement"]}
 {"parent": "RSSubspaceDesign.Supplement.theorem_7_1", "child": "HMBinPacking_OutputsWithin", "via": ["statement"]}
 {"parent": "RSSubspaceDesign.Supplement.theorem_7_1", "child": "RSSubspaceDesign_decPoly", "via": ["statement"]}

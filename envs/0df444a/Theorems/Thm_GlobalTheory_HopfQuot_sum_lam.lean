@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_sum_lam
 -- name    : GlobalTheory.HopfQuot.sum_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:37:46.949115+00:00
 -- url     : https://prove2.me/theorems/c938e9e2-063f-42fe-a815-5cd4a065377e

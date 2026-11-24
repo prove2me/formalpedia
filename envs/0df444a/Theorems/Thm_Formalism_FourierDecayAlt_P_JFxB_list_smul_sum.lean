@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_list_smul_sum
 -- name    : Formalism.FourierDecayAlt.P.JFxB.list_smul_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:25:53.584427+00:00
 -- url     : https://prove2.me/theorems/61e3701c-616a-4546-b617-a2a024065576

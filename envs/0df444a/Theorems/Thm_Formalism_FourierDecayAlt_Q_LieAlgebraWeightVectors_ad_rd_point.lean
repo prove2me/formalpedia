@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_ad_rd_point
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.ad_rd_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:45:18.909385+00:00
 -- url     : https://prove2.me/theorems/94afd740-2cba-4a6f-b75e-0c187a870548

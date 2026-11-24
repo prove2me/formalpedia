@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsIrreducibleComponentOfSupport_genericPoint_specializes
 -- name    : FunctorialResolution.EmbeddedResolution.IsIrreducibleComponentOfSupport.genericPoint_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:58:12.591931+00:00
 -- url     : https://prove2.me/theorems/d51d12ee-b36a-4f8c-9df6-a11cd4385a82

@@ -37833,8 +37833,8 @@
 {"parent": "QEC.Coding.BDL26RandomPerturbation.fullCenterQuery_value", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_EventQuery", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.fullCenterQuery_value", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_AnchorQuery", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.fullCenterQuery_value", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_SnapshotQuery", "via": ["solution", "statement"]}
-{"parent": "RevRedSAT.lemma_B_8", "child": "RevRedSAT_frequency", "via": ["statement"]}
-{"parent": "RevRedSAT.lemma_B_8", "child": "RevRedSAT_mu", "via": ["statement"]}
+{"parent": "RevRedSAT.lemma_B_8", "child": "RevRedSAT_frequency", "via": ["solution", "statement"]}
+{"parent": "RevRedSAT.lemma_B_8", "child": "RevRedSAT_mu", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tableTerm93_contains_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
 {"parent": "OtterAMM.TwoSided.fact_25", "child": "OtterAMM_TwoSided_Properties", "via": ["statement"]}
 {"parent": "OtterAMM.TwoSided.fact_25", "child": "OtterAMM_TwoSided_Model", "via": ["statement"]}
@@ -41734,7 +41734,7 @@
 {"parent": "QEC.Coding.BDL26CSSHamiltonian.zero_projector_range_labelledCode", "child": "QEC_Coding_FiniteAlternatingConstruction_FiniteCohomology", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CSSHamiltonian.zero_projector_range_labelledCode", "child": "QEC_Coding_Stabilizer_FiniteFieldPauli", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CSSHamiltonian.zero_projector_range_labelledCode", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_Gibbs", "via": ["solution", "statement"]}
-{"parent": "IntegerMatrixMortality.FixedImage.congruence_test_module", "child": "IntegerMatrixMortality_FixedImage_ScanInterfaces", "via": ["statement"]}
+{"parent": "IntegerMatrixMortality.FixedImage.congruence_test_module", "child": "IntegerMatrixMortality_FixedImage_ScanInterfaces", "via": ["solution", "statement"]}
 {"parent": "AlmostLinSubsetSum.Main.lemma_5_3", "child": "AlmostLinSubsetSum_Main_Geometry", "via": ["statement"]}
 {"parent": "AlmostLinSubsetSum.Main.lemma_5_3", "child": "AlmostLinSubsetSum_Main_Basic", "via": ["statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.ballQuadraticEnergy_mono", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_AnnularLifting", "via": ["solution", "statement"]}
@@ -44564,7 +44564,7 @@
 {"parent": "FengLiYangMatching_General_Local", "child": "FengLiYangMatching_General_Process", "via": ["statement"]}
 {"parent": "LemonsPoA.TwoSided.lemma_3_4", "child": "LemonsPoA_TwoSided_Monopoly", "via": ["statement"]}
 {"parent": "LemonsPoA.TwoSided.lemma_3_4", "child": "LogConcaveOn", "via": ["statement"]}
-{"parent": "OptRobustCD.lemma_4_12", "child": "OptRobustCD_BP", "via": ["statement"]}
+{"parent": "OptRobustCD.lemma_4_12", "child": "OptRobustCD_BP", "via": ["solution", "statement"]}
 {"parent": "ChoiSemiHonestMPC_OTUpper_Security", "child": "ChoiSemiHonestMPC_OTUpper_Network", "via": ["statement"]}
 {"parent": "WeightedSetCoverWorstCase.Dynamic.lemma_8_8", "child": "WeightedSetCoverWorstCase_Dynamic_Algorithm", "via": ["statement"]}
 {"parent": "WeightedSetCoverWorstCase.Dynamic.lemma_8_8", "child": "WeightedSetCoverWorstCase_Dynamic_Problem", "via": ["statement"]}
@@ -48146,7 +48146,7 @@
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.rx_constructed_localMap_rounded", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbeddingCoordinates", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.rx_constructed_localMap_rounded", "child": "QEC_Coding_FiniteAlternatingConstruction_QuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.rx_constructed_localMap_rounded", "child": "QEC_Coding_FiniteAlternatingConstruction_BoundedValenceSuccessors", "via": ["solution", "statement"]}
-{"parent": "PrivGaussMS.lemma_A_1", "child": "FoundationsRL_DECLower_tvDist", "via": ["statement"]}
+{"parent": "PrivGaussMS.lemma_A_1", "child": "FoundationsRL_DECLower_tvDist", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPhysicalLocality.qubitHits_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbeddingCoordinates", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPhysicalLocality.qubitHits_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_DaviesLocality", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPhysicalLocality.qubitHits_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_PhysicalLocality", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoDY_two_y_div
 -- name    : GlobalTheory.HeckeTwoDY.two_y_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:15:06.939003+00:00
 -- url     : https://prove2.me/theorems/79e03ce1-4578-424f-884b-ccf31a5bc896

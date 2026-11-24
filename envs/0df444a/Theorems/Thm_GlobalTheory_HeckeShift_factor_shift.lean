@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeShift_factor_shift
 -- name    : GlobalTheory.HeckeShift.factor_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:04:22.639794+00:00
 -- url     : https://prove2.me/theorems/ffbefe24-cb30-47ab-9d97-c8048dc74b29

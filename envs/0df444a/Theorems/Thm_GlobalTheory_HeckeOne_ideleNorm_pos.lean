@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_ideleNorm_pos
 -- name    : GlobalTheory.HeckeOne.ideleNorm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:04:58.424587+00:00
 -- url     : https://prove2.me/theorems/de4eab04-9c3e-42ff-9510-db7a4d91d6e1

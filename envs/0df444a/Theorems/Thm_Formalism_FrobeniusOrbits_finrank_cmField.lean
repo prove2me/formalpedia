@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_finrank_cmField
 -- name    : Formalism.FrobeniusOrbits.finrank_cmField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:07.801934+00:00
 -- url     : https://prove2.me/theorems/ccc9469c-4337-4042-8df3-5dd541407a3a

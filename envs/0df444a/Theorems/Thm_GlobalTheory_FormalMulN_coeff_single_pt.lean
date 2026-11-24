@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalMulN_coeff_single_pt
 -- name    : GlobalTheory.FormalMulN.coeff_single_pt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:18.937315+00:00
 -- url     : https://prove2.me/theorems/81ecfc48-7082-405e-8ff2-c6c58ca42d57

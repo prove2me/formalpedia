@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoPoisson_fourier_prod
 -- name    : GlobalTheory.HeckeTwoPoisson.fourier_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:15:15.653409+00:00
 -- url     : https://prove2.me/theorems/849deaa2-f3f1-4e5b-85d2-6e29022fa06a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_SignAntidiagonal_smul_mem__5661bbd89423
 -- name    : P2M_Formalism_FourierDecayAlt_P_SignAntidiagonal_smul_mem__5661bbd89423
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:15:16.842403+00:00
 -- url     : https://prove2.me/theorems/ae09dc1d-e8ef-4736-8f5b-f9e6a58f84b1

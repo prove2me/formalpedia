@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_QuantumMinorExpansion_eps_sq
 -- name    : Formalism.FourierDecayAlt.P.QuantumMinorExpansion.eps_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:11:19.833494+00:00
 -- url     : https://prove2.me/theorems/de97e289-410b-4d72-878d-9fd893ceb7f5

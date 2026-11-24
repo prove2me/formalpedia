@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_norm_integral_le
 -- name    : GlobalTheory.Hk.RayCont.norm_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:35:05.729216+00:00
 -- url     : https://prove2.me/theorems/81e15c5c-0f48-4437-b257-7066b1708364

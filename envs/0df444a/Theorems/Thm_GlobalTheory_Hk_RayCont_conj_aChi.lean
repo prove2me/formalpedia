@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_conj_aChi
 -- name    : GlobalTheory.Hk.RayCont.conj_aChi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:35:24.476878+00:00
 -- url     : https://prove2.me/theorems/1c644d32-10d2-43f2-b631-71cac924c5fa

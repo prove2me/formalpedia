@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_le_basicOpen_iff
 -- name    : GlobalTheory.HolHom.le_basicOpen_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:38:29.775811+00:00
 -- url     : https://prove2.me/theorems/db638205-7767-447b-b912-785733c8b874

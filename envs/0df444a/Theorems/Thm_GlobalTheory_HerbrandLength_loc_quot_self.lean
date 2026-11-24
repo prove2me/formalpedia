@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HerbrandLength_loc_quot_self
 -- name    : GlobalTheory.HerbrandLength.loc_quot_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:19:37.488944+00:00
 -- url     : https://prove2.me/theorems/05692869-0ea5-4ae4-80c3-bc97997cd929

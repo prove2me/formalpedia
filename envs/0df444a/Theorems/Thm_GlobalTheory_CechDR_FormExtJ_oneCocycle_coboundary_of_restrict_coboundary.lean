@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExtJ_oneCocycle_coboundary_of_restrict_coboundary
 -- name    : GlobalTheory.CechDR.FormExtJ.oneCocycle_coboundary_of_restrict_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:59:28.400751+00:00
 -- url     : https://prove2.me/theorems/81aec8dc-ef43-4260-9ff6-b722c6f1ec1c

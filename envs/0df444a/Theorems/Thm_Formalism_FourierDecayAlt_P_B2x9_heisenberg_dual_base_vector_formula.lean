@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_heisenberg_dual_base_vector_formula
 -- name    : Formalism.FourierDecayAlt.P.B2x9.heisenberg_dual_base_vector_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:59:59.845642+00:00
 -- url     : https://prove2.me/theorems/b1184b79-8057-4cfe-aec7-518b85ca1bad

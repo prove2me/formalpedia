@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ana_rdSmooth
 -- name    : AAInvW.ana_rdSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:50:36.77334+00:00
 -- url     : https://prove2.me/theorems/0044020f-d3e3-4ffb-bc7d-7dbf4319c537

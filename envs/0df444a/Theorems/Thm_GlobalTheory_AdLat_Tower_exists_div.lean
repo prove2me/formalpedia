@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Tower_exists_div
 -- name    : GlobalTheory.AdLat.Tower.exists_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:35:46.500999+00:00
 -- url     : https://prove2.me/theorems/e0e4f9d4-f2ba-42c1-9db2-223304b8b81d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftToRightConversion_inv_eq_iota
 -- name    : Formalism.FourierDecayAlt.P.LeftToRightConversion.inv_eq_iota
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:25:39.053592+00:00
 -- url     : https://prove2.me/theorems/156db83e-ccdb-4a59-b9da-e26ff93f98cd

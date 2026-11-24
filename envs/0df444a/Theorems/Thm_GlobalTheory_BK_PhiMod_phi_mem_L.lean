@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_phi_mem_L
 -- name    : GlobalTheory.BK.PhiMod.phi_mem_L
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:30:35.411061+00:00
 -- url     : https://prove2.me/theorems/b79543d6-3717-4d3b-85e9-2eb6bc0911e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_DifferentConjugateDefects_span_natCast_ne_bot
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.DifferentConjugateDefects.span_natCast_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:15:05.664137+00:00
 -- url     : https://prove2.me/theorems/ebf58130-aec9-418a-8b19-85b5a2feeaca

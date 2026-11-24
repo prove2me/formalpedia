@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_exists_of_dosetOf_eq
 -- name    : GlobalTheory.InertZeta.exists_of_dosetOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:52:06.931645+00:00
 -- url     : https://prove2.me/theorems/50f0a5e2-7360-417c-83bc-e1d72685bcfe

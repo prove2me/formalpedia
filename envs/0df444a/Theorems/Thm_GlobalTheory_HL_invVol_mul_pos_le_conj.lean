@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_invVol_mul_pos_le_conj
 -- name    : GlobalTheory.HL.invVol_mul_pos_le_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:00:46.251431+00:00
 -- url     : https://prove2.me/theorems/b989fe14-83e9-4c93-9489-98f959c88250

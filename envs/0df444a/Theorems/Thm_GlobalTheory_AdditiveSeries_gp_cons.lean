@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdditiveSeries_gp_cons
 -- name    : GlobalTheory.AdditiveSeries.gp_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:54:01.409057+00:00
 -- url     : https://prove2.me/theorems/0e9c6ed9-1b20-4667-977e-25dde7eed604

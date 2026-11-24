@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StrictBoxOrder_box_indep
 -- name    : Formalism.FourierDecayAlt.P.StrictBoxOrder.box_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:52:39.332956+00:00
 -- url     : https://prove2.me/theorems/47f434d8-fbc7-4d50-8c30-ceb2aac998fc

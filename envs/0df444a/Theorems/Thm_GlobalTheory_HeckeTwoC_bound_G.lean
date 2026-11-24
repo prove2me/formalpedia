@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoC_bound_G
 -- name    : GlobalTheory.HeckeTwoC.bound_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:15:32.800376+00:00
 -- url     : https://prove2.me/theorems/51ccf4ac-ba7d-413b-8f73-f3112f5fc074

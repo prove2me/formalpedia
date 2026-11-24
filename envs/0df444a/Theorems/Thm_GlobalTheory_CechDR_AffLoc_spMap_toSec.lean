@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_AffLoc_spMap_toSec
 -- name    : GlobalTheory.CechDR.AffLoc.spMap_toSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:14:51.200567+00:00
 -- url     : https://prove2.me/theorems/9a4a577a-cf0e-4cb8-b0aa-de5d2e5b280a

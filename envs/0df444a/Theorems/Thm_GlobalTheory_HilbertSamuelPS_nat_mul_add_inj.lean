@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertSamuelPS_nat_mul_add_inj
 -- name    : GlobalTheory.HilbertSamuelPS.nat_mul_add_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:21:34.860521+00:00
 -- url     : https://prove2.me/theorems/27b80e81-8051-47fa-8d69-d94aeece04f8

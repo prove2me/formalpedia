@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoPoisson_remb_inj
 -- name    : GlobalTheory.HeckeTwoPoisson.remb_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:15:34.689823+00:00
 -- url     : https://prove2.me/theorems/45b4de41-0082-42b1-a0c2-a3908312061a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_dig_injOn
 -- name    : Formalism.HC.Frame.dig_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:09.337146+00:00
 -- url     : https://prove2.me/theorems/f196804d-a8de-4a56-a44e-d8773e148f29

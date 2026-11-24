@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_splits_plane
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.splits_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:57:56.83937+00:00
 -- url     : https://prove2.me/theorems/a0e2f3d4-3f63-42ba-bc38-8ac9f9fa2f45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_mixedIdele_mixedEmbedding
 -- name    : GlobalTheory.HeckeOne.mixedIdele_mixedEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:04:46.792423+00:00
 -- url     : https://prove2.me/theorems/86eee237-ad45-4f08-880e-7902230fa5ae

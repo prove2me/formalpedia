@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_LagDeriv_iteratedDeriv_zero_eq_lag
 -- name    : GlobalTheory.HilbFam.LagDeriv.iteratedDeriv_zero_eq_lag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:20:31.079426+00:00
 -- url     : https://prove2.me/theorems/84bd6a3e-2def-4d3a-9bb0-f66aecfd3d7a

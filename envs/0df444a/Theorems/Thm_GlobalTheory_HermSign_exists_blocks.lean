@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_exists_blocks
 -- name    : GlobalTheory.HermSign.exists_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:12.839114+00:00
 -- url     : https://prove2.me/theorems/576d9540-c663-47ab-9f1c-920dc38f3f68

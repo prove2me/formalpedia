@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_weight_integrability_holds
 -- name    : Formalism.FourierDecayAlt.P.Ux6.weight_integrability_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:53:02.728307+00:00
 -- url     : https://prove2.me/theorems/69366811-b6d5-4e14-a8d0-8eec10f5810c

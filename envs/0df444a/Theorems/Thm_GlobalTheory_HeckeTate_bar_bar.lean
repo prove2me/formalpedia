@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_bar_bar
 -- name    : GlobalTheory.HeckeTate.bar_bar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:06:13.420263+00:00
 -- url     : https://prove2.me/theorems/6a6c866e-5a51-4de7-b644-df37a9b0ecb8

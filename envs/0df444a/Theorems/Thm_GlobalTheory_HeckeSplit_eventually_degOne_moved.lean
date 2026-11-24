@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplit_eventually_degOne_moved
 -- name    : GlobalTheory.HeckeSplit.eventually_degOne_moved
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:04:33.610819+00:00
 -- url     : https://prove2.me/theorems/c482c5f1-c2d5-4497-a35c-b37922cc2d16

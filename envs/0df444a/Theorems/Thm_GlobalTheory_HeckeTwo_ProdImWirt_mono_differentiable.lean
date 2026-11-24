@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_ProdImWirt_mono_differentiable
 -- name    : GlobalTheory.HeckeTwo.ProdImWirt.mono_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:06:54.826273+00:00
 -- url     : https://prove2.me/theorems/9383c142-8c22-414e-802c-605b4227d54d

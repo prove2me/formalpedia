@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_smodEq_l_pow_S_iff
 -- name    : GlobalTheory.BK.smodEq_l_pow_S_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:34:59.478938+00:00
 -- url     : https://prove2.me/theorems/fdd82fc4-5540-406f-9a90-271136f00d41

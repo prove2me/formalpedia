@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__diag_congr_3bcbdc2a3fa9
 -- name    : P2M_Formalism_BasicNotions_Examples__diag_congr_3bcbdc2a3fa9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:27:33.409345+00:00
 -- url     : https://prove2.me/theorems/7582f5d4-e13a-40a0-a0b2-4987c3cb9439

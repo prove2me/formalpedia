@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_coeff_subst_kill
 -- name    : GlobalTheory.FormalCalc.coeff_subst_kill
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:56:41.456006+00:00
 -- url     : https://prove2.me/theorems/d2898651-21a9-44b4-9e00-048b63473307

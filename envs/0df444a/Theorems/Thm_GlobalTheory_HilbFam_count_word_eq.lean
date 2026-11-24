@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_count_word_eq
 -- name    : GlobalTheory.HilbFam.count_word_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:20:50.743367+00:00
 -- url     : https://prove2.me/theorems/121ae6dc-e58e-4d74-8648-2fc43eed6bc8

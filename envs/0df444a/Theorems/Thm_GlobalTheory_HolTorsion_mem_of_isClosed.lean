@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolTorsion_mem_of_isClosed
 -- name    : GlobalTheory.HolTorsion.mem_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:38:20.531624+00:00
 -- url     : https://prove2.me/theorems/975fa863-4528-4230-8c39-0a41d9d382ff

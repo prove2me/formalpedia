@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_prim_of_sub_mem
 -- name    : GlobalTheory.GramCount.prim_of_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:56:05.64164+00:00
 -- url     : https://prove2.me/theorems/4ae8656a-da80-4b7e-9e52-c905cd1da214

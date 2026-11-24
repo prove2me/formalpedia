@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_autEmb_injective
 -- name    : GlobalTheory.HilbFam.autEmb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:20:55.212844+00:00
 -- url     : https://prove2.me/theorems/3a638c26-7580-4033-a37d-832558cf700e

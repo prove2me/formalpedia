@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_Dilation_fourier_comp_dil
 -- name    : GlobalTheory.HeckePoisson.Dilation.fourier_comp_dil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:04:26.217943+00:00
 -- url     : https://prove2.me/theorems/b0389ee8-2b24-4a5f-a0bc-ddce91b5bfbc

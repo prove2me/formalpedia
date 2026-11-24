@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_lintegral_nu
 -- name    : Formalism.FourierDecayAlt.P.B2x9.lintegral_nu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:43:15.905715+00:00
 -- url     : https://prove2.me/theorems/fe04e206-1947-4d83-b62e-ac9c73511909

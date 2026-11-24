@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_summable_th
 -- name    : GlobalTheory.Hk.RealChar.summable_th
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:01.941235+00:00
 -- url     : https://prove2.me/theorems/6ba83442-3cb1-47bc-a55b-b515080bb794

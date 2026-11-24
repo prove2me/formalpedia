@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermDecay_le_div_one_add_pow_succ_of_mul_le
 -- name    : GlobalTheory.HeckeTwo.TermDecay.le_div_one_add_pow_succ_of_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:07:47.378876+00:00
 -- url     : https://prove2.me/theorems/1074c59c-bf17-4c85-bc64-a88fa0d06884

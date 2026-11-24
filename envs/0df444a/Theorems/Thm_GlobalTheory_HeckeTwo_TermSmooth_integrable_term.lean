@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermSmooth_integrable_term
 -- name    : GlobalTheory.HeckeTwo.TermSmooth.integrable_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:07:58.021206+00:00
 -- url     : https://prove2.me/theorems/2a5a59cd-31f9-4ad4-9bf8-a435719913f7

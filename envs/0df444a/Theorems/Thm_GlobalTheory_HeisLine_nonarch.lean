@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisLine_nonarch
 -- name    : GlobalTheory.HeisLine.nonarch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:18:56.009574+00:00
 -- url     : https://prove2.me/theorems/d8c58157-5deb-40b1-8c41-36103843352c

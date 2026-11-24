@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_row_count
 -- name    : GlobalTheory.Hk.row_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:36:34.593152+00:00
 -- url     : https://prove2.me/theorems/9e0df148-9302-4ebc-bab6-261589cfd7ef

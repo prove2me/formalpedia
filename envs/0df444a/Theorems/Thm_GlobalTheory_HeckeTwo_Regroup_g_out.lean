@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_Regroup_g_out
 -- name    : GlobalTheory.HeckeTwo.Regroup.g_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:06:42.471661+00:00
 -- url     : https://prove2.me/theorems/bc380c9c-69d0-45b9-b6f2-07184e2e6ecf

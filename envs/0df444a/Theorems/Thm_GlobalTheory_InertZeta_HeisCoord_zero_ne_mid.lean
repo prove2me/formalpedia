@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_HeisCoord_zero_ne_mid
 -- name    : GlobalTheory.InertZeta.HeisCoord.zero_ne_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:55:59.097869+00:00
 -- url     : https://prove2.me/theorems/6698c982-1a98-4aa2-97c9-1738113d3bf9

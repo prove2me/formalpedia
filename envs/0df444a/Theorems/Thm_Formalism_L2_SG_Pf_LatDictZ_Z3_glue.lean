@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_glue
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:36:38.032562+00:00
 -- url     : https://prove2.me/theorems/54b16603-788e-476b-b34e-5ff066ea3e65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_CC_Surj_wal_delta
 -- name    : Formalism.MainNotions.Gaps.CC.Surj.wal_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:01.167848+00:00
 -- url     : https://prove2.me/theorems/41168a9a-4471-46f2-a31e-e0ceb2f16350

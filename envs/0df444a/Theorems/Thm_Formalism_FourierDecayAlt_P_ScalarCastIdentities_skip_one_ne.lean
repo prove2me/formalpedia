@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_skip_one_ne
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.skip_one_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:12:26.28169+00:00
 -- url     : https://prove2.me/theorems/3909b86f-3645-4502-b512-16f944ccbdeb

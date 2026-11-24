@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_gN_pos
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.gN_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:29:33.404365+00:00
 -- url     : https://prove2.me/theorems/a55941c3-85cd-4303-a9d0-1bab7a62158f

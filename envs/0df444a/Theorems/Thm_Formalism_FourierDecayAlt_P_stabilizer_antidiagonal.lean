@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_antidiagonal
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_antidiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:39:25.357919+00:00
 -- url     : https://prove2.me/theorems/c994cd3f-3461-4386-a06a-e3e044c048cd

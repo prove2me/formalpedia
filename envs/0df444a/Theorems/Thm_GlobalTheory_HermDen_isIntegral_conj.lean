@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDen_isIntegral_conj
 -- name    : GlobalTheory.HermDen.isIntegral_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:19:09.815948+00:00
 -- url     : https://prove2.me/theorems/f098cc73-4dc8-490c-b686-4820dacc2acc

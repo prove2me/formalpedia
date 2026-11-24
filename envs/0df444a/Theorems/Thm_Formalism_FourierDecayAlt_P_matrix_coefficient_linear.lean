@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_matrix_coefficient_linear
 -- name    : Formalism.FourierDecayAlt.P.matrix_coefficient_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:26:57.248115+00:00
 -- url     : https://prove2.me/theorems/34bf6901-88b4-4117-95ae-aab2f58c8559

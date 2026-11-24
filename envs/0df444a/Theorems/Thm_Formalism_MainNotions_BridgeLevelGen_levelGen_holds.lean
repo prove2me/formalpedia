@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelGen_levelGen_holds
 -- name    : Formalism.MainNotions.BridgeLevelGen.levelGen_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:59:35.561741+00:00
 -- url     : https://prove2.me/theorems/aa8381e2-a538-4ec2-84bc-73967c853181

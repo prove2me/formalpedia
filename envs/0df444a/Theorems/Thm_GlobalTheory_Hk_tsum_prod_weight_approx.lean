@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_tsum_prod_weight_approx
 -- name    : GlobalTheory.Hk.tsum_prod_weight_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:36:35.440723+00:00
 -- url     : https://prove2.me/theorems/d0644a85-7118-4791-bbc7-e5b1bdaf4716

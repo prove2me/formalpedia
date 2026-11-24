@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_le_pow_of_support_subset_orderAtLeastLocus_of_coordIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.le_pow_of_support_subset_orderAtLeastLocus_of_coordIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:57:37.343461+00:00
 -- url     : https://prove2.me/theorems/d449c078-cdc1-4e33-8234-4b3d0ff4c8b6

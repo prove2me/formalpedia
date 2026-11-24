@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BranchingSystems_Sys_box
 -- name    : Formalism.FourierDecayAlt.P.BranchingSystems.Sys.box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:52:26.100915+00:00
 -- url     : https://prove2.me/theorems/d1c88221-035b-45c2-b5a5-7ef57bcad715

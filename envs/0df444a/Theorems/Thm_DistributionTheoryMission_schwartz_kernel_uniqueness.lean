@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistributionTheoryMission_schwartz_kernel_uniqueness
 -- name    : DistributionTheoryMission.schwartz_kernel_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @liuyao
 -- created : 2026-11-16T02:07:40.44956+00:00
 -- url     : https://prove2.me/theorems/0749a3d8-c91d-426b-a447-05796f9371ac

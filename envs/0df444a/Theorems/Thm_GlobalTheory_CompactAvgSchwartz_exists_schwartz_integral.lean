@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactAvgSchwartz_exists_schwartz_integral
 -- name    : GlobalTheory.CompactAvgSchwartz.exists_schwartz_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:59:23.024163+00:00
 -- url     : https://prove2.me/theorems/29af83f4-6dd1-42ef-ba91-406d5b1d315b

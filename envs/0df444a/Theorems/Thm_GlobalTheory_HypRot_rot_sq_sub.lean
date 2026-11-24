@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HypRot_rot_sq_sub
 -- name    : GlobalTheory.HypRot.rot_sq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:12:57.555801+00:00
 -- url     : https://prove2.me/theorems/648399b9-bb93-4f46-9bf3-bea8e8a9acdc

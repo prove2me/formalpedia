@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermitianGauss_card_pts
 -- name    : GlobalTheory.HermitianGauss.card_pts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:20:15.648796+00:00
 -- url     : https://prove2.me/theorems/b9d6dfaa-24cb-4f6b-8b86-30c4e57821b7

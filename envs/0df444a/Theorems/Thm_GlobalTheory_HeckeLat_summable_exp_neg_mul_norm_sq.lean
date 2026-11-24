@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLat_summable_exp_neg_mul_norm_sq
 -- name    : GlobalTheory.HeckeLat.summable_exp_neg_mul_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:04:21.101483+00:00
 -- url     : https://prove2.me/theorems/ff9a02d6-fac9-4093-a1be-dbab119a82c2

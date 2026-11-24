@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_dHatE_algebraMap
 -- name    : GlobalTheory.BK.dHatE_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:02:45.800645+00:00
 -- url     : https://prove2.me/theorems/16f5d6de-df16-41bd-8217-da13bfe26aa5

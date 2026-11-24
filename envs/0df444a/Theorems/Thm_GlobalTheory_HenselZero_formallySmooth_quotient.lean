@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HenselZero_formallySmooth_quotient
 -- name    : GlobalTheory.HenselZero.formallySmooth_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:20:34.189817+00:00
 -- url     : https://prove2.me/theorems/ccca8f8f-d14a-49c9-aedd-af4798e335c2

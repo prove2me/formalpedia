@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoSum_pow_mul_exp_neg_le
 -- name    : GlobalTheory.HeckeTwoSum.pow_mul_exp_neg_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:15:32.105869+00:00
 -- url     : https://prove2.me/theorems/f8761e18-149c-4ade-9869-b8ac203725e0

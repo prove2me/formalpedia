@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IdentityTesting39_ExactRadius_eq_7_tv_branches
 -- name    : IdentityTesting39.ExactRadius.eq_7_tv_branches
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:53:45.484858+00:00
 -- url     : https://prove2.me/theorems/86acd08d-5216-46b1-b623-132b365cc7cd

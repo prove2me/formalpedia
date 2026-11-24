@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_mulEquiv_unitEmbedding_mk
 -- name    : GlobalTheory.Idele.mulEquiv_unitEmbedding_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:05:02.478+00:00
 -- url     : https://prove2.me/theorems/3ee879ed-2a5c-46d2-897a-f8497b5aeee2

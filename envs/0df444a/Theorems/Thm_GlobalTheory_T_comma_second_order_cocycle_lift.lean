@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_comma_second_order_cocycle_lift
 -- name    : GlobalTheory.T.comma_second_order_cocycle_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:25:56.278582+00:00
 -- url     : https://prove2.me/theorems/3200d909-f888-4897-84c9-7a0789757ef8

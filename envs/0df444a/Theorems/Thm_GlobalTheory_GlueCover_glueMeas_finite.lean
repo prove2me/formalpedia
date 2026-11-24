@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueCover_glueMeas_finite
 -- name    : GlobalTheory.GlueCover.glueMeas_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:55:21.418361+00:00
 -- url     : https://prove2.me/theorems/b1a277e3-9c92-44d6-8c58-289f2636c5bf

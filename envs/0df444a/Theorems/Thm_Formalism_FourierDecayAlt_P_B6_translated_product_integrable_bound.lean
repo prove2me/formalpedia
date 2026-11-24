@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_translated_product_integrable_bound
 -- name    : Formalism.FourierDecayAlt.P.B6.translated_product_integrable_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:59:29.673101+00:00
 -- url     : https://prove2.me/theorems/98d05aae-66d5-436e-811f-758aa869d10a

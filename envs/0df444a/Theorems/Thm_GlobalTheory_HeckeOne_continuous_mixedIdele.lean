@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_continuous_mixedIdele
 -- name    : GlobalTheory.HeckeOne.continuous_mixedIdele
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:15:45.069072+00:00
 -- url     : https://prove2.me/theorems/34916f49-ebaf-4ed4-ab06-f7fe0e90fa5b

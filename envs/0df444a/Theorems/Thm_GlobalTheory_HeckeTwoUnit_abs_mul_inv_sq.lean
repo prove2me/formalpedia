@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoUnit_abs_mul_inv_sq
 -- name    : GlobalTheory.HeckeTwoUnit.abs_mul_inv_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:14:51.669645+00:00
 -- url     : https://prove2.me/theorems/cad646e9-728f-4908-b6a0-33af62519ebd

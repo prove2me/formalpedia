@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_Decay_sum_ge
 -- name    : GlobalTheory.HeckeTheta.Decay.sum_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:03.788395+00:00
 -- url     : https://prove2.me/theorems/a34046c7-eb12-4a45-a548-5602c9344445

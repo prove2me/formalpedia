@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyperplaneExt_norm_le_of_off_hyperplane
 -- name    : GlobalTheory.HyperplaneExt.norm_le_of_off_hyperplane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:13:51.968023+00:00
 -- url     : https://prove2.me/theorems/692dc17d-32e0-4580-9c7a-1740e65891ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_exists_idealOf_eq
 -- name    : GlobalTheory.Idele.exists_idealOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:04:05.905809+00:00
 -- url     : https://prove2.me/theorems/4c9864ba-b8e3-48c2-88f9-d207d6366e39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HullClasses_mulLat_le_mul
 -- name    : GlobalTheory.HullClasses.mulLat_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:34.424622+00:00
 -- url     : https://prove2.me/theorems/40bc0b9a-4519-4db1-bf74-d7449f89bfb5

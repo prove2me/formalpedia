@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntegerMatrixMortality_FixedImage_congruence_test_module
 -- name    : IntegerMatrixMortality.FixedImage.congruence_test_module
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:34:17.417112+00:00
 -- url     : https://prove2.me/theorems/2ccc24a4-cade-4734-b7ef-38291bcb9b7e

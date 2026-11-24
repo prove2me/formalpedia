@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightSubmodular_div_mul_div_le
 -- name    : GlobalTheory.HeightSubmodular.div_mul_div_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:17:49.333533+00:00
 -- url     : https://prove2.me/theorems/bb5c8608-6b5a-4c3d-9a59-5ada3676764f

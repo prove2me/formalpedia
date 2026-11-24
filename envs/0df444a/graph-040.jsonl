@@ -7419,9 +7419,9 @@
 {"parent": "Formalism.FourierDecayAlt.P.choice_of_constants", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LevelGrowthBounds", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.choice_of_constants", "child": "Formalism_HermitianCurvature_LevelRecursionCondNeeded", "via": ["solution", "statement"]}
 {"parent": "DeletedPrimes.card_window_dvd_le", "child": "DeletedPrimes_Rigidity", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.HCA.solSet_closed_submodule", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_AestronglyMeasurableExtendByZeroOffSubset", "via": ["statement"]}
-{"parent": "GlobalTheory.HCA.solSet_closed_submodule", "child": "Formalism_UnipotentAdelicQuotients_EllRegCheck", "via": ["statement"]}
-{"parent": "GlobalTheory.HCA.solSet_closed_submodule", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_ZeroMemSolSet", "via": ["statement"]}
+{"parent": "GlobalTheory.HCA.solSet_closed_submodule", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_AestronglyMeasurableExtendByZeroOffSubset", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HCA.solSet_closed_submodule", "child": "Formalism_UnipotentAdelicQuotients_EllRegCheck", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HCA.solSet_closed_submodule", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_ZeroMemSolSet", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.lattice_average_lemma_from_parts", "child": "Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_LowUniMulVecELast", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.lattice_average_lemma_from_parts", "child": "Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_MulInvBlockDiagApplySameBlock", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.lattice_average_lemma_from_parts", "child": "Formalism_HermitianCurvature_BlockKernelPropertiesOfSteps", "via": ["solution", "statement"]}
@@ -22432,8 +22432,8 @@
 {"parent": "RHX1000000.Run.E08.blk9", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E08.blk9", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsFormsThroughPoint", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsIncidenceZeroLocus", "via": ["statement"]}
-{"parent": "GlobalTheory.GrassModel.SuperTrace.msg_mul", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_TracePowGrassmannBlockCurvatureSupertraceZero", "via": ["statement"]}
-{"parent": "GlobalTheory.GrassModel.SuperTrace.msg_mul", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_VecMulVecComm", "via": ["statement"]}
+{"parent": "GlobalTheory.GrassModel.SuperTrace.msg_mul", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_TracePowGrassmannBlockCurvatureSupertraceZero", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GrassModel.SuperTrace.msg_mul", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_VecMulVecComm", "via": ["solution", "statement"]}
 {"parent": "ULHC.stepFlow_ne_zero", "child": "ULHC_Planar", "via": ["solution", "statement"]}
 {"parent": "ULHC.stepFlow_ne_zero", "child": "ULHC_Conn", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.isPullback_reindex_of_sumEquiv", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_AffineSpaceCoordinates", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermitianGauss_quad_add
 -- name    : GlobalTheory.HermitianGauss.quad_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:20:11.974818+00:00
 -- url     : https://prove2.me/theorems/b17f8369-c9a2-4ee0-86f3-6b3f3d497e41

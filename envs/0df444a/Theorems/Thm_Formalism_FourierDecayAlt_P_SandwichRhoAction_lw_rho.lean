@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SandwichRhoAction_lw_rho
 -- name    : Formalism.FourierDecayAlt.P.SandwichRhoAction.lw_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:21:33.696803+00:00
 -- url     : https://prove2.me/theorems/8110a724-a700-4f04-b904-343a127c23ed

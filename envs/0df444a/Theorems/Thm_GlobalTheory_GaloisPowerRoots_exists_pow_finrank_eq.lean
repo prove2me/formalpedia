@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisPowerRoots_exists_pow_finrank_eq
 -- name    : GlobalTheory.GaloisPowerRoots.exists_pow_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:48:47.152994+00:00
 -- url     : https://prove2.me/theorems/7e3ee93d-4c65-4309-8ad5-d751287a3bd1

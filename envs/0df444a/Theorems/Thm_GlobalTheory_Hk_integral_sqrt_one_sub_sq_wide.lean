@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_integral_sqrt_one_sub_sq_wide
 -- name    : GlobalTheory.Hk.integral_sqrt_one_sub_sq_wide
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:36:17.441991+00:00
 -- url     : https://prove2.me/theorems/1e69a39d-3d2d-457c-a760-b1b17e39bcff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HullClasses_sigma_algebraMap
 -- name    : GlobalTheory.HullClasses.sigma_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:29.594824+00:00
 -- url     : https://prove2.me/theorems/9a2ae0a6-8065-428c-bd77-bfdfcd0e8f0d

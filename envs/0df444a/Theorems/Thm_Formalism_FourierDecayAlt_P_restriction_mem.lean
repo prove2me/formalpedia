@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_restriction_mem
 -- name    : Formalism.FourierDecayAlt.P.restriction_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:24:23.71616+00:00
 -- url     : https://prove2.me/theorems/dcb31904-1c9a-4757-aaea-8acb5d9507f5

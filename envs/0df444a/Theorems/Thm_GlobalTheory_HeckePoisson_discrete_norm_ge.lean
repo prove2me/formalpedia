@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_discrete_norm_ge
 -- name    : GlobalTheory.HeckePoisson.discrete_norm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:06:03.522893+00:00
 -- url     : https://prove2.me/theorems/e34b9822-e36f-4e10-aa3e-c40f7527d4c9

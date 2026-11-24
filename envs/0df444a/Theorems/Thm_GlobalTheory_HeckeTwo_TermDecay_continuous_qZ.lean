@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermDecay_continuous_qZ
 -- name    : GlobalTheory.HeckeTwo.TermDecay.continuous_qZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:07:42.133808+00:00
 -- url     : https://prove2.me/theorems/1a10a5c5-c9a3-4b1d-8736-14377591ff7e

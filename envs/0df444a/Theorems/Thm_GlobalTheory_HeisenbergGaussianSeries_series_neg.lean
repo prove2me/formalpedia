@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergGaussianSeries_series_neg
 -- name    : GlobalTheory.HeisenbergGaussianSeries.series_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:19:07.909937+00:00
 -- url     : https://prove2.me/theorems/47acc86a-fbdf-4d43-83ba-ad35eb4745c6

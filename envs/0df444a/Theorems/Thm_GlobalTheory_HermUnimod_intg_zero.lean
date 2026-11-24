@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_intg_zero
 -- name    : GlobalTheory.HermUnimod.intg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:20:07.30354+00:00
 -- url     : https://prove2.me/theorems/14264c22-8015-4eb8-9fd4-dd4893a7b427

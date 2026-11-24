@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_opNorm_le_of_selfAdjoint
 -- name    : GlobalTheory.HermFrame.opNorm_le_of_selfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:19:38.486689+00:00
 -- url     : https://prove2.me/theorems/9dae1dfb-c420-4d26-8b03-646f73b1c101

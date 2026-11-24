@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_Pr_leib
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.Pr.leib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:30:58.116562+00:00
 -- url     : https://prove2.me/theorems/840cfa8b-2300-402f-a50e-20e283e4feeb

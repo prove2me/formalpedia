@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeAdjoint_const_axis
 -- name    : GlobalTheory.GaugeAdjoint.const_axis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:35:14.868596+00:00
 -- url     : https://prove2.me/theorems/f96837f1-e122-444d-8635-b8bc7fe38fca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergGaussianSeries_contDiff_bilin
 -- name    : GlobalTheory.HeisenbergGaussianSeries.contDiff_bilin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:19:06.881997+00:00
 -- url     : https://prove2.me/theorems/ab216fc2-ea06-4ba9-bb74-e9d2a943453a

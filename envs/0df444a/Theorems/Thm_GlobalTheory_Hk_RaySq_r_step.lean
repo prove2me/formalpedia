@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RaySq_r_step
 -- name    : GlobalTheory.Hk.RaySq.r_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:37:56.351932+00:00
 -- url     : https://prove2.me/theorems/59c51373-63fc-4d2c-8e0c-660d3e7b5d0c

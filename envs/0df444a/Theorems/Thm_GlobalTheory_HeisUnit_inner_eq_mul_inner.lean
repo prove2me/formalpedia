@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_inner_eq_mul_inner
 -- name    : GlobalTheory.HeisUnit.inner_eq_mul_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:18:09.659805+00:00
 -- url     : https://prove2.me/theorems/21c725b5-9faf-430a-9a35-2a8a41f4bd74

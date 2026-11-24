@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdditiveSeries_zero_addOf
 -- name    : GlobalTheory.AdditiveSeries.zero_addOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:58:49.80777+00:00
 -- url     : https://prove2.me/theorems/d2e2ed62-c967-48a3-88df-ae4609256241

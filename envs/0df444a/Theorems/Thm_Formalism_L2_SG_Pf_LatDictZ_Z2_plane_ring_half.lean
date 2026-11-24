@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z2_plane_ring_half
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z2.plane_ring_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:58:17.12883+00:00
 -- url     : https://prove2.me/theorems/643db0f9-401e-4243-8a43-56cfad81a1d7

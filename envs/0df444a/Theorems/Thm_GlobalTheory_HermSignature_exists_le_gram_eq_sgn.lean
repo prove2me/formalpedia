@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSignature_exists_le_gram_eq_sgn
 -- name    : GlobalTheory.HermSignature.exists_le_gram_eq_sgn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:20:23.020016+00:00
 -- url     : https://prove2.me/theorems/f764bb3a-b26a-43c7-90f1-3e53caf94a1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_galE_mem_Psi_iff
 -- name    : Formalism.FrobeniusOrbits.galE_mem_Psi_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:22:43.033987+00:00
 -- url     : https://prove2.me/theorems/45b369d5-d917-4eca-ba68-9ba5595d7993

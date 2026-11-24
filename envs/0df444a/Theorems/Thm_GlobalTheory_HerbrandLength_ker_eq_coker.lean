@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HerbrandLength_ker_eq_coker
 -- name    : GlobalTheory.HerbrandLength.ker_eq_coker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:19:55.140797+00:00
 -- url     : https://prove2.me/theorems/1fb4f13f-0449-45f2-ad17-8da88e270e83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_gI_add_hI
 -- name    : GlobalTheory.HeckeTwo.HDecay.gI_add_hI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:05:38.833283+00:00
 -- url     : https://prove2.me/theorems/18aa4f6a-2993-462b-8828-3de556fed558

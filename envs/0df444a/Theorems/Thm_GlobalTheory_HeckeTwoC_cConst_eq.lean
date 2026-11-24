@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoC_cConst_eq
 -- name    : GlobalTheory.HeckeTwoC.cConst_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:16:40.572811+00:00
 -- url     : https://prove2.me/theorems/d4f9cf9a-cd8c-4127-8ffd-1ee05a736524

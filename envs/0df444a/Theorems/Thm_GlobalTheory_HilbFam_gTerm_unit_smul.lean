@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_gTerm_unit_smul
 -- name    : GlobalTheory.HilbFam.gTerm_unit_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:22:40.727072+00:00
 -- url     : https://prove2.me/theorems/0a4dbd07-86f9-4665-9aaa-fa20b5ab0e36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_mulEquiv_mk_mul
 -- name    : GlobalTheory.Idele.mulEquiv_mk_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:05:12.932494+00:00
 -- url     : https://prove2.me/theorems/722813a3-d602-4317-816d-552f199cee27

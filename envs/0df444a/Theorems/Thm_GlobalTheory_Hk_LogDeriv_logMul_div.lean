@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LogDeriv_logMul_div
 -- name    : GlobalTheory.Hk.LogDeriv.logMul_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:35:14.130462+00:00
 -- url     : https://prove2.me/theorems/e2c6cdbb-67ea-411a-a09b-3ced907760e5

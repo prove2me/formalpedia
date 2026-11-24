@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_orderOf_cc
 -- name    : Formalism.HC.Frame.orderOf_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:53:08.371869+00:00
 -- url     : https://prove2.me/theorems/be414c5a-095f-4d97-b025-f0995325583b

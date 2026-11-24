@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumSplittings_W_lin
 -- name    : Formalism.FourierDecayAlt.P.ListSumSplittings.W_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:10:02.965921+00:00
 -- url     : https://prove2.me/theorems/11a29682-3a31-417b-8944-85ad1e0d3af8

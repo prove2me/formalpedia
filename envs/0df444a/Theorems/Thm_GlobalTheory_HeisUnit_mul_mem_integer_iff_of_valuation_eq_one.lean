@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_mul_mem_integer_iff_of_valuation_eq_one
 -- name    : GlobalTheory.HeisUnit.mul_mem_integer_iff_of_valuation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:17:42.731921+00:00
 -- url     : https://prove2.me/theorems/f0714147-3ea5-49ec-9571-1991b4fa9448

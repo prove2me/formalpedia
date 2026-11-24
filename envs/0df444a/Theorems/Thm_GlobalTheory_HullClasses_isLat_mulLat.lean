@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HullClasses_isLat_mulLat
 -- name    : GlobalTheory.HullClasses.isLat_mulLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:12:51.492113+00:00
 -- url     : https://prove2.me/theorems/4cec079d-b22d-4c21-a3ec-4680623bf6ee

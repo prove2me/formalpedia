@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BranchingSystems_shf_up
 -- name    : Formalism.FourierDecayAlt.P.BranchingSystems.shf_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:52:04.347804+00:00
 -- url     : https://prove2.me/theorems/538987fc-8d73-4dc1-b029-3ab977dabfa9

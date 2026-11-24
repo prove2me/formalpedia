@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoublingSeries_ratFun_cpow
 -- name    : GlobalTheory.DoublingSeries.ratFun_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:13:52.28547+00:00
 -- url     : https://prove2.me/theorems/a217ce45-f912-4cb1-9aa4-ea591a4ae04c

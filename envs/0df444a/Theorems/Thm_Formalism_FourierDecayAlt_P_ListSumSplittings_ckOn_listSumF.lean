@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumSplittings_ckOn_listSumF
 -- name    : Formalism.FourierDecayAlt.P.ListSumSplittings.ckOn_listSumF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:09:40.932427+00:00
 -- url     : https://prove2.me/theorems/af329bd6-9eb5-4018-8eae-b876ff68ac4a

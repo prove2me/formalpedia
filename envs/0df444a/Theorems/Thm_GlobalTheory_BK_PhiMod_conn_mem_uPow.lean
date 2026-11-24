@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_conn_mem_uPow
 -- name    : GlobalTheory.BK.PhiMod.conn_mem_uPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:43:05.113907+00:00
 -- url     : https://prove2.me/theorems/36e9d189-fcf3-40a7-a186-db9b88342e4c

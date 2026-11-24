@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_Basis_oneCocycle_invertibleLocus_isCoboundary
 -- name    : GlobalTheory.CatCoh.Desc.Basis.oneCocycle_invertibleLocus_isCoboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:11:29.488909+00:00
 -- url     : https://prove2.me/theorems/95bf330f-b8e1-48b4-b053-0cafe0023545

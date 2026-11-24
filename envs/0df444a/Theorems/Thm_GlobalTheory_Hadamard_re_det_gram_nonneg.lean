@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hadamard_re_det_gram_nonneg
 -- name    : GlobalTheory.Hadamard.re_det_gram_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:02:31.566798+00:00
 -- url     : https://prove2.me/theorems/546a493f-c785-451f-abab-75e0b170cc6d

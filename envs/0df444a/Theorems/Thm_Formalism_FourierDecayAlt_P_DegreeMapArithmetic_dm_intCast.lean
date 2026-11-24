@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DegreeMapArithmetic_dm_intCast
 -- name    : Formalism.FourierDecayAlt.P.DegreeMapArithmetic.dm_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:12:54.523806+00:00
 -- url     : https://prove2.me/theorems/daadf8ca-b4d4-4991-8f94-2c75657c2f77

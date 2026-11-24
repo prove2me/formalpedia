@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasQExpansion_exists_analytic
 -- name    : GlobalTheory.HasQExpansion.exists_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:20:02.462858+00:00
 -- url     : https://prove2.me/theorems/116fed9b-16fe-4779-95b7-c5030d2df33c

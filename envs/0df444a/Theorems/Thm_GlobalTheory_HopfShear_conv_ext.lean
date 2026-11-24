@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfShear_conv_ext
 -- name    : GlobalTheory.HopfShear.conv_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:37:39.086792+00:00
 -- url     : https://prove2.me/theorems/54b212eb-5339-47cd-bd4c-22c11d1cb3b8

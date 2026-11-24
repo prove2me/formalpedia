@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupAlg_etale_of_isUnit_card
 -- name    : GlobalTheory.GroupAlg.etale_of_isUnit_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:57:35.96286+00:00
 -- url     : https://prove2.me/theorems/24ff3365-7179-41d1-9f16-23903727e42e

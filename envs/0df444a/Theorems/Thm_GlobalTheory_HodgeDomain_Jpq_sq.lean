@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeDomain_Jpq_sq
 -- name    : GlobalTheory.HodgeDomain.Jpq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:37:21.778516+00:00
 -- url     : https://prove2.me/theorems/b8a7ae03-e512-42f3-838b-71cf8c379924

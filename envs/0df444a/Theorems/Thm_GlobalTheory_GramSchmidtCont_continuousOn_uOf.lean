@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramSchmidtCont_continuousOn_uOf
 -- name    : GlobalTheory.GramSchmidtCont.continuousOn_uOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:34:22.543849+00:00
 -- url     : https://prove2.me/theorems/b29d16e3-ea90-40a0-b10c-36ced37406b1

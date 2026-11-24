@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_two_pow_le_ord
 -- name    : Formalism.HC.Frame.two_pow_le_ord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:54:05.358419+00:00
 -- url     : https://prove2.me/theorems/e2fa0b3f-5493-466f-bf35-3668c5e87345

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_hmon_zero
 -- name    : GlobalTheory.HeckeTheta.hmon_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:19.086963+00:00
 -- url     : https://prove2.me/theorems/aca278db-93be-460d-b0fc-bea1b9f037af

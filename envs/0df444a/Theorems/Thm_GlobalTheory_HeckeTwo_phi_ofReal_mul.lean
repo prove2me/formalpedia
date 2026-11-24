@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_phi_ofReal_mul
 -- name    : GlobalTheory.HeckeTwo.phi_ofReal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:13:19.250693+00:00
 -- url     : https://prove2.me/theorems/77772e4f-d56d-41f6-9f56-b4ae1ba1c00b

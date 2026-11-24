@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_FactorBound_contDiff_eChar
 -- name    : GlobalTheory.HeckeTwo.FactorBound.contDiff_eChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:53.536824+00:00
 -- url     : https://prove2.me/theorems/d3f64dd6-a072-4f3d-8ddf-6ebcbd44dfa7

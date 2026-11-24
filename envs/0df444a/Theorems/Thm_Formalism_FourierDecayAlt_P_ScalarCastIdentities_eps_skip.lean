@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_eps_skip
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.eps_skip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:12:06.181838+00:00
 -- url     : https://prove2.me/theorems/a5c9c5d4-62f4-4c50-8dff-b76576b5db24

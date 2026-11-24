@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermModel_eq_zero_of_herm_eq_zero
 -- name    : GlobalTheory.HermModel.eq_zero_of_herm_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:19:34.167081+00:00
 -- url     : https://prove2.me/theorems/fab3a61d-d2f6-4d04-afe2-56fb4325565c

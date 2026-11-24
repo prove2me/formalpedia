@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_mem_minpoly_image_iff
 -- name    : PaleyWeil.mem_minpoly_image_iff
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:15.464076+00:00
 -- url     : https://prove2.me/theorems/6476cfd2-6ba6-46f7-9c6c-08f54d3ab9fe

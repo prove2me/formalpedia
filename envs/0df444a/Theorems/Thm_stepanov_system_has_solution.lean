@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stepanov_system_has_solution
 -- name    : stepanov_system_has_solution
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:35:50.139583+00:00
 -- url     : https://prove2.me/theorems/2b2c410b-600b-425c-b6cf-ea6042c45afc

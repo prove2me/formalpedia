@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_card_minpoly_fiber
 -- name    : PaleyWeil.card_minpoly_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:35:39.763845+00:00
 -- url     : https://prove2.me/theorems/f034f260-7901-459d-a96e-19403c889f0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_cont_skewOf
 -- name    : Formalism.FourierDecayAlt.P.Ux10.cont_skewOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:25:50.945746+00:00
 -- url     : https://prove2.me/theorems/bf05dd9d-5709-4742-8fbc-8160ce2752bc

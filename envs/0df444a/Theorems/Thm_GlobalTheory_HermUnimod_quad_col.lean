@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_quad_col
 -- name    : GlobalTheory.HermUnimod.quad_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:19:55.703962+00:00
 -- url     : https://prove2.me/theorems/6586303e-e451-420c-87fa-cc629813c1c8

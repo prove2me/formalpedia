@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealPowerCoefficients_pick_eq
 -- name    : GlobalTheory.IdealPowerCoefficients.pick_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:03:50.076804+00:00
 -- url     : https://prove2.me/theorems/9230e80e-3ae6-48e8-b259-1983a7cbb57d

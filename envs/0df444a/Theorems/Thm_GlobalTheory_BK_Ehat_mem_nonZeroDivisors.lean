@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Ehat_mem_nonZeroDivisors
 -- name    : GlobalTheory.BK.Ehat_mem_nonZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:57:59.83432+00:00
 -- url     : https://prove2.me/theorems/f381d551-c408-4dc6-9438-7749d86a607a

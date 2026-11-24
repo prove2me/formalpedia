@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_Decay_integrable_exp_neg_abs_one
 -- name    : GlobalTheory.HeckeTheta.Decay.integrable_exp_neg_abs_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:05:49.822003+00:00
 -- url     : https://prove2.me/theorems/5d2644bc-e854-484b-9395-ef642c3d2d4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_exists_eq_split_of_hasLevel
 -- name    : GlobalTheory.HilbFam.exists_eq_split_of_hasLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:20:32.810505+00:00
 -- url     : https://prove2.me/theorems/f0bbb73e-98f7-44aa-ae81-87f6752be8b4

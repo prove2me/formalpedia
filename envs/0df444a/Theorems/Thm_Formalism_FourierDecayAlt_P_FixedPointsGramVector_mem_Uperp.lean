@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FixedPointsGramVector_mem_Uperp
 -- name    : Formalism.FourierDecayAlt.P.FixedPointsGramVector.mem_Uperp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:11:29.999772+00:00
 -- url     : https://prove2.me/theorems/52d62048-2cba-41f1-9637-69c2be2b9d5c

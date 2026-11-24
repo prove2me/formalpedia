@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stepanov_form
 -- name    : stepanov_form
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:20.796401+00:00
 -- url     : https://prove2.me/theorems/aff5dafd-aa43-474a-ae50-7eaab581de7c

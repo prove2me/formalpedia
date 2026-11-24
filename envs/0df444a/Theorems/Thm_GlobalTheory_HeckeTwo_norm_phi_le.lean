@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_norm_phi_le
 -- name    : GlobalTheory.HeckeTwo.norm_phi_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:13:43.185568+00:00
 -- url     : https://prove2.me/theorems/e5e7d0cd-832d-4719-9e79-41c25850cba9

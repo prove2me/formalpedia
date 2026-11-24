@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_exists_isometry_of_orthogonal
 -- name    : GlobalTheory.HermWitt.exists_isometry_of_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:11.239868+00:00
 -- url     : https://prove2.me/theorems/0f3e8bfb-34be-43ea-924b-9de07ba7e7ec

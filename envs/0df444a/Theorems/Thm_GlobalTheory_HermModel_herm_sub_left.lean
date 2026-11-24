@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermModel_herm_sub_left
 -- name    : GlobalTheory.HermModel.herm_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:06.750309+00:00
 -- url     : https://prove2.me/theorems/f0adcad6-8f90-47cf-9040-d82996da38df

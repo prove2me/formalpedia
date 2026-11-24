@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_RowSpan_vecOf_mid
 -- name    : GlobalTheory.InertZeta.RowSpan.vecOf_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:50:31.214934+00:00
 -- url     : https://prove2.me/theorems/0d894049-dec0-4d17-8d28-a36d0070e27e

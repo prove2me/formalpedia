@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFamPos_pm_one
 -- name    : GlobalTheory.Hk.LFamPos.pm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:21:35.327805+00:00
 -- url     : https://prove2.me/theorems/b31aba45-6abf-4bd5-bf91-64b908a07b07

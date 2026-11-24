@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_dw_perm
 -- name    : GlobalTheory.HCA.dw_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:00:09.539039+00:00
 -- url     : https://prove2.me/theorems/c3dffc2f-3d32-48a2-a13e-be6e139615ac

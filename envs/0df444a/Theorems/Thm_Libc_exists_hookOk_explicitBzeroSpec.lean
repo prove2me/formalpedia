@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Libc_exists_hookOk_explicitBzeroSpec
 -- name    : Libc.exists_hookOk_explicitBzeroSpec
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T17:23:30.958551+00:00
 -- url     : https://prove2.me/theorems/b0568888-23ef-4056-9fcd-58e4cb7e3812

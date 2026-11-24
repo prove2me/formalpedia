@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_form_apply
 -- name    : GlobalTheory.HeckeTate.form_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:05:59.09726+00:00
 -- url     : https://prove2.me/theorems/7c275874-d454-4ed7-9a97-f024aebe17dd

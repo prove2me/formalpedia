@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_BZeroGood_card_emb_totReal
 -- name    : GlobalTheory.HeckeTwo.BZeroGood.card_emb_totReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:06:39.407397+00:00
 -- url     : https://prove2.me/theorems/fa434fac-6e77-4dba-81f1-047902e1e39c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_opNorm_smul_le
 -- name    : GlobalTheory.HermFrame.opNorm_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:20:28.386281+00:00
 -- url     : https://prove2.me/theorems/bf1dce88-d305-4d0f-949e-1614bcdd49f0

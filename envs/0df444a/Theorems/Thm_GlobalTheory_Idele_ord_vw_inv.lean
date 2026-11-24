@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_ord_vw_inv
 -- name    : GlobalTheory.Idele.ord_vw_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:11.426487+00:00
 -- url     : https://prove2.me/theorems/ed81ef93-8d01-4876-bfc0-718f243c6767

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealSum_finite_support_dilate
 -- name    : GlobalTheory.IdealSum.finite_support_dilate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:04:01.901219+00:00
 -- url     : https://prove2.me/theorems/19955602-c066-4d9a-a58a-429f40c6a0d4

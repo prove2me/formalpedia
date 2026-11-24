@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplitAll_Approx_exists_int_near
 -- name    : GlobalTheory.HeckeSplitAll.Approx.exists_int_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:05:20.094308+00:00
 -- url     : https://prove2.me/theorems/c2cbf928-4dca-4317-a901-92d6d6359712

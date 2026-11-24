@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_SumGood_goodFam_fderiv
 -- name    : GlobalTheory.HeckeTwo.SumGood.goodFam_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:07:00.930406+00:00
 -- url     : https://prove2.me/theorems/041faf4b-6b3f-47f4-afb2-dacd5a829648

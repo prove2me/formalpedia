@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_inflationCochains_comp_cochainsComplex__38875cb65454
 -- name    : P2M_GroundTheory_ProfCoh_inflationCochains_comp_cochainsComplex__38875cb65454
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:16:42.982104+00:00
 -- url     : https://prove2.me/theorems/352535a3-c6df-47d1-8512-801a369f4dbc

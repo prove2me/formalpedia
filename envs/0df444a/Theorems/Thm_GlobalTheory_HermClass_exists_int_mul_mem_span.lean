@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermClass_exists_int_mul_mem_span
 -- name    : GlobalTheory.HermClass.exists_int_mul_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:19:16.46437+00:00
 -- url     : https://prove2.me/theorems/5612e303-c3d2-4888-aee1-e42227fa00a6

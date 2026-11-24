@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LogDeriv_conv_chi
 -- name    : GlobalTheory.Hk.LogDeriv.conv_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:35:05.450474+00:00
 -- url     : https://prove2.me/theorems/55861398-2b64-4457-9d6c-4feaf74dd3ac

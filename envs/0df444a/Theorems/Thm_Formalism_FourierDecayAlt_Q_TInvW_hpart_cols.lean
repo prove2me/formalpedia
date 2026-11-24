@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_hpart_cols
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.hpart_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:33:48.166711+00:00
 -- url     : https://prove2.me/theorems/4178b2e2-b300-4a36-882f-82706dd0d7ad

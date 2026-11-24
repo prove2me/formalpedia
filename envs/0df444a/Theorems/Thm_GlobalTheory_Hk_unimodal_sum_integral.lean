@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_unimodal_sum_integral
 -- name    : GlobalTheory.Hk.unimodal_sum_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:37:35.784791+00:00
 -- url     : https://prove2.me/theorems/8086be81-bdc2-499f-80a5-bb64bf312007

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_standard_flag_property
 -- name    : Formalism.FourierDecayAlt.P.standard_flag_property
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:26:29.108945+00:00
 -- url     : https://prove2.me/theorems/9e4bd667-767e-49d8-b54f-c7030299c9c1

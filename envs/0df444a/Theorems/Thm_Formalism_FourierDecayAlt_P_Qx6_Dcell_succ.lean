@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_Dcell_succ
 -- name    : Formalism.FourierDecayAlt.P.Qx6.Dcell_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:35:15.252833+00:00
 -- url     : https://prove2.me/theorems/970d66cf-6052-4c07-9baf-a5a43ace05a3

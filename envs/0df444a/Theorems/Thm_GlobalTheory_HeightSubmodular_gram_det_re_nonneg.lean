@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightSubmodular_gram_det_re_nonneg
 -- name    : GlobalTheory.HeightSubmodular.gram_det_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:16:42.065811+00:00
 -- url     : https://prove2.me/theorems/dc08af14-3c0d-4a6a-abb3-5f6f12be90ff

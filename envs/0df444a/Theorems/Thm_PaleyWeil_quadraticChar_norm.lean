@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_quadraticChar_norm
 -- name    : PaleyWeil.quadraticChar_norm
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:15.518586+00:00
 -- url     : https://prove2.me/theorems/96e75bd1-4ca5-4b57-811b-fcc8cc5c8cf7

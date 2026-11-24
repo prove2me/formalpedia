@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_form_isUnimod
 -- name    : GlobalTheory.HeckeTate.form_isUnimod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:26.984795+00:00
 -- url     : https://prove2.me/theorems/2f3a19c5-1cc5-424d-8dd4-2f3ff039d69c

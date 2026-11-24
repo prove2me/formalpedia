@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_UnipotentHaarMeasurability_aez
 -- name    : Formalism.FourierDecayAlt.P.UnipotentHaarMeasurability.aez
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:29:04.270253+00:00
 -- url     : https://prove2.me/theorems/891c5977-9903-4aab-bfa6-9b695a1e86bd

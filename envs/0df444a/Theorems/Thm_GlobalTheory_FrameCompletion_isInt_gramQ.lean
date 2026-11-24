@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_isInt_gramQ
 -- name    : GlobalTheory.FrameCompletion.isInt_gramQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:51:48.33244+00:00
 -- url     : https://prove2.me/theorems/0de52516-f983-4556-ba86-add4f0453cad

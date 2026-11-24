@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_locPow_of_notMem
 -- name    : GlobalTheory.HeckeGal.locPow_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:14:28.281647+00:00
 -- url     : https://prove2.me/theorems/46066f68-6547-4f37-ae9b-d1499bd2cc52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoExp_dF_pos
 -- name    : GlobalTheory.HeckeTwoExp.dF_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:14:14.352479+00:00
 -- url     : https://prove2.me/theorems/a1c10477-ca39-49b7-b692-176a66df5661

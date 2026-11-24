@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrassModel_SuperTrace_msg_mul
 -- name    : GlobalTheory.GrassModel.SuperTrace.msg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:49:06.655385+00:00
 -- url     : https://prove2.me/theorems/3e909835-e800-4ec8-94cb-8e67a6e6b95a

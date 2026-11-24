@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayConv_lamIdeal_pow
 -- name    : GlobalTheory.Hk.RayConv.lamIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:34:22.400318+00:00
 -- url     : https://prove2.me/theorems/8f360619-7c65-4ca1-a12b-41330423fc6f

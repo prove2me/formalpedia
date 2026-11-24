@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFam_half_lt_re_of_region
 -- name    : GlobalTheory.Hk.LFam.half_lt_re_of_region
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:21:18.77142+00:00
 -- url     : https://prove2.me/theorems/96b8a919-f061-49b3-84a0-d9189c15159f

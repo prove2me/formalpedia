@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_Kf_meas
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.Kf_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:53:06.452095+00:00
 -- url     : https://prove2.me/theorems/f6de4e40-c987-4da8-a427-4a47c3bf4c86

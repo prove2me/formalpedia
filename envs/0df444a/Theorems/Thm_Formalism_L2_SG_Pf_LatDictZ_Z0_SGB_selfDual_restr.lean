@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGB_selfDual_restr
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGB.selfDual_restr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:18:11.265425+00:00
 -- url     : https://prove2.me/theorems/b2940db8-9517-470a-bc70-d6252b44d59a

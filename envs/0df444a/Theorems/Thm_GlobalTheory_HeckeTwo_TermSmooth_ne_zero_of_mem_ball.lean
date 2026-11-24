@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermSmooth_ne_zero_of_mem_ball
 -- name    : GlobalTheory.HeckeTwo.TermSmooth.ne_zero_of_mem_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:07:12.530156+00:00
 -- url     : https://prove2.me/theorems/4d495af9-6c39-4d16-8d38-5f44c5d4e9f3

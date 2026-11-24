@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermitianGauss_card_perp
 -- name    : GlobalTheory.HermitianGauss.card_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:19:49.670801+00:00
 -- url     : https://prove2.me/theorems/9b3aba61-0f29-4aa7-bf78-3fb4af4c7f04

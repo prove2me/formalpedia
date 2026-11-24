@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenEigenFinOrbit_exists_common_kernel
 -- name    : GlobalTheory.GenEigenFinOrbit.exists_common_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:53:50.545462+00:00
 -- url     : https://prove2.me/theorems/77d0fd0c-0b8c-483c-9f23-d5716f7cd0fe

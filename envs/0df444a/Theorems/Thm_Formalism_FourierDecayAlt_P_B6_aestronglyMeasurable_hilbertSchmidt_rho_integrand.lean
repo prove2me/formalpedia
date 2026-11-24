@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_aestronglyMeasurable_hilbertSchmidt_rho_integrand
 -- name    : Formalism.FourierDecayAlt.P.B6.aestronglyMeasurable_hilbertSchmidt_rho_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:01:56.231249+00:00
 -- url     : https://prove2.me/theorems/e2d0f190-a38a-4d36-857a-8485952d6db2

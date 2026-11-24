@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GallagherLemma_gallagher
 -- name    : GlobalTheory.GallagherLemma.gallagher
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:43:12.704932+00:00
 -- url     : https://prove2.me/theorems/b57bb295-bc8c-49a4-9b72-7fd0fc55ded6

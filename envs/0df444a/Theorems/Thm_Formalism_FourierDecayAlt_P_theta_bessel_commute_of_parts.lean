@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_theta_bessel_commute_of_parts
 -- name    : Formalism.FourierDecayAlt.P.theta_bessel_commute_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:34:09.591498+00:00
 -- url     : https://prove2.me/theorems/7d2934bf-3da0-495b-8ec0-ced01578bf28

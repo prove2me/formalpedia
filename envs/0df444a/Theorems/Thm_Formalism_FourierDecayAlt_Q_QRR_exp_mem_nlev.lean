@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_exp_mem_nlev
 -- name    : Formalism.FourierDecayAlt.Q.QRR.exp_mem_nlev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:46:16.513981+00:00
 -- url     : https://prove2.me/theorems/6f2c0af6-a9ea-47bd-a918-a84020668230

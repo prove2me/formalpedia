@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_split_monic_sum_eq_zero
 -- name    : PaleyWeil.split_monic_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:22.876111+00:00
 -- url     : https://prove2.me/theorems/bab82bb4-2fd2-4d6e-ad6d-a6026ae7ca0b

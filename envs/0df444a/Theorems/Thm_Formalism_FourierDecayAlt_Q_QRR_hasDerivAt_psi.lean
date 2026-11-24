@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_hasDerivAt_psi
 -- name    : Formalism.FourierDecayAlt.Q.QRR.hasDerivAt_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:46:45.284869+00:00
 -- url     : https://prove2.me/theorems/04d15c53-2a18-4599-beb2-68d0f3599752

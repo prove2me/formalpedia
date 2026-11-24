@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtDiv_pG_app_eq_zero_iff
 -- name    : GlobalTheory.ExtDiv.pG_app_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:15:13.554844+00:00
 -- url     : https://prove2.me/theorems/4fc70a64-d130-4234-b106-e2c04b6e043d

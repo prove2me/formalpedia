@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_hasFDerivAt_factor
 -- name    : GlobalTheory.HeckeTwo.hasFDerivAt_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:13:18.928498+00:00
 -- url     : https://prove2.me/theorems/780fdce9-7d40-418b-b7a3-ac796241c139

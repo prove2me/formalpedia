@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qb1_top_coeff
 -- name    : Formalism.FourierDecayAlt.P.Qb1.top_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:20:42.379584+00:00
 -- url     : https://prove2.me/theorems/52f07bbf-ecc1-4ab5-8fec-80591097ef23

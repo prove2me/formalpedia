@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_Basis_oneCocycle_vanishing_comma_of_basis
 -- name    : GlobalTheory.CatCoh.Desc.Basis.oneCocycle_vanishing_comma_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:15:23.213106+00:00
 -- url     : https://prove2.me/theorems/79d43009-bde3-46a7-8b1c-3129323413f2

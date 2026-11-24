@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoEq_split_zero
 -- name    : GlobalTheory.HeckeTwoEq.split_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:15:28.730935+00:00
 -- url     : https://prove2.me/theorems/60cb9e1b-e85c-4b81-86d4-6e1b5ffc4aae

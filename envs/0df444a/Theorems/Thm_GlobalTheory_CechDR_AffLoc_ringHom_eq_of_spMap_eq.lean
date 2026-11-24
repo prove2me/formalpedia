@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_AffLoc_ringHom_eq_of_spMap_eq
 -- name    : GlobalTheory.CechDR.AffLoc.ringHom_eq_of_spMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:14:44.127275+00:00
 -- url     : https://prove2.me/theorems/264bd06e-318b-48ec-b513-7e0ae03dd68c

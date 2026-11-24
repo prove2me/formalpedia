@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_jetHom_res
 -- name    : GlobalTheory.HolHom.jetHom_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:38:26.717362+00:00
 -- url     : https://prove2.me/theorems/86d44451-8480-4a2e-94ed-38dfd27f937b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_Nondegenerate_eq_zero_right
 -- name    : GlobalTheory.HermForm.Nondegenerate.eq_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:18:57.738053+00:00
 -- url     : https://prove2.me/theorems/df87275b-e6c0-416a-bb6f-9099e197aef2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_phi_eq_wF
 -- name    : GlobalTheory.HeckeTwo.HDecay.phi_eq_wF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:05:54.355307+00:00
 -- url     : https://prove2.me/theorems/a3cabe1a-19f7-4c01-8d47-9b80510e2094

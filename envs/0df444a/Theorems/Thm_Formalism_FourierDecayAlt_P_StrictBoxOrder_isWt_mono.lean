@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StrictBoxOrder_isWt_mono
 -- name    : Formalism.FourierDecayAlt.P.StrictBoxOrder.isWt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:53:08.286443+00:00
 -- url     : https://prove2.me/theorems/42bf1bc0-db54-4362-94b4-72244dd3e6fd

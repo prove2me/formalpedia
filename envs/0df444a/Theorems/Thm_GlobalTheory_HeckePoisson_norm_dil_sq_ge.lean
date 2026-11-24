@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_norm_dil_sq_ge
 -- name    : GlobalTheory.HeckePoisson.norm_dil_sq_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:06:20.361366+00:00
 -- url     : https://prove2.me/theorems/f2fc3f9a-b9e6-4cd6-b05e-6a23535ab74e

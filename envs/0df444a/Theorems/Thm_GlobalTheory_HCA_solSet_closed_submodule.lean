@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_solSet_closed_submodule
 -- name    : GlobalTheory.HCA.solSet_closed_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:54:32.198921+00:00
 -- url     : https://prove2.me/theorems/9312f2ef-83cb-4c91-8f46-e79d8b799272

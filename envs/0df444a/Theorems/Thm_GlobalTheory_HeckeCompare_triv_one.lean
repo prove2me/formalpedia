@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_triv_one
 -- name    : GlobalTheory.HeckeCompare.triv_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:58.249162+00:00
 -- url     : https://prove2.me/theorems/ed8048be-7bf0-4e7d-98c8-0cf9c83d4599

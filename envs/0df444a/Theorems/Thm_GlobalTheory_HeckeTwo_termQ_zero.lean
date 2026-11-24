@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_termQ_zero
 -- name    : GlobalTheory.HeckeTwo.termQ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:12:54.01586+00:00
 -- url     : https://prove2.me/theorems/88f217fd-9842-4cc9-8e8a-3577e70929ac

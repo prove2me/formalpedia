@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdditiveSeries_pderiv_pt
 -- name    : GlobalTheory.AdditiveSeries.pderiv_pt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:58:27.452674+00:00
 -- url     : https://prove2.me/theorems/a766d793-0705-484c-a81b-b89e3a98b7af

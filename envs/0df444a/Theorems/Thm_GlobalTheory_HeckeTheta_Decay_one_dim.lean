@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_Decay_one_dim
 -- name    : GlobalTheory.HeckeTheta.Decay.one_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:09.567444+00:00
 -- url     : https://prove2.me/theorems/c84d9064-df93-41b3-81cf-ff0ffb6545d3

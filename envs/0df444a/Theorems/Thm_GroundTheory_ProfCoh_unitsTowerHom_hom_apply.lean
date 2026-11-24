@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_unitsTowerHom_hom_apply
 -- name    : GroundTheory.ProfCoh.unitsTowerHom_hom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:16:50.984023+00:00
 -- url     : https://prove2.me/theorems/673b7cef-9614-4265-895f-4ebbdd22db7d

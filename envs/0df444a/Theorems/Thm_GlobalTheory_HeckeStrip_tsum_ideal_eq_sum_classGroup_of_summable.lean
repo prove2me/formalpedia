@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeStrip_tsum_ideal_eq_sum_classGroup_of_summable
 -- name    : GlobalTheory.HeckeStrip.tsum_ideal_eq_sum_classGroup_of_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:05:51.586966+00:00
 -- url     : https://prove2.me/theorems/94455dce-85b1-47f5-9c30-e10be4b8a670

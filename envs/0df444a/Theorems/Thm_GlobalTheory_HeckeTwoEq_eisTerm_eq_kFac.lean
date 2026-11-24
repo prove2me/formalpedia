@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoEq_eisTerm_eq_kFac
 -- name    : GlobalTheory.HeckeTwoEq.eisTerm_eq_kFac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:52:08.971359+00:00
 -- url     : https://prove2.me/theorems/d3d64c01-de49-4056-a9ae-b07427f256d5

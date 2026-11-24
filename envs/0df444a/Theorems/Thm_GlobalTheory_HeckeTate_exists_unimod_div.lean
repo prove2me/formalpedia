@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_exists_unimod_div
 -- name    : GlobalTheory.HeckeTate.exists_unimod_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:05:50.253738+00:00
 -- url     : https://prove2.me/theorems/74450b14-a099-4276-9ede-df52d715ecb6

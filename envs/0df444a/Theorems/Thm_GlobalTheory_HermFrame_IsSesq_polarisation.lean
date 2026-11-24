@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_IsSesq_polarisation
 -- name    : GlobalTheory.HermFrame.IsSesq.polarisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:20:46.7866+00:00
 -- url     : https://prove2.me/theorems/60d6969f-5e68-4a09-ab3e-f9d701a93355

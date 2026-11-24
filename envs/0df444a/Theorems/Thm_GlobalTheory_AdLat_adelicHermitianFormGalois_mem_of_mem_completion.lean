@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_adelicHermitianFormGalois_mem_of_mem_completion
 -- name    : GlobalTheory.AdLat.adelicHermitianFormGalois_mem_of_mem_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:35:51.245064+00:00
 -- url     : https://prove2.me/theorems/04abc9b8-7eec-4b65-bdff-f36d8288baaa

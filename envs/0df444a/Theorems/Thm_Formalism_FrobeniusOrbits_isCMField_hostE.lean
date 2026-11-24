@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_isCMField_hostE
 -- name    : Formalism.FrobeniusOrbits.isCMField_hostE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:22:52.298118+00:00
 -- url     : https://prove2.me/theorems/f5c8b34d-355c-4571-a367-6806fed057b1

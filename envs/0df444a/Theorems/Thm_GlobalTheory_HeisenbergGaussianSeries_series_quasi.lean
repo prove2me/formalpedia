@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergGaussianSeries_series_quasi
 -- name    : GlobalTheory.HeisenbergGaussianSeries.series_quasi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:19:10.073456+00:00
 -- url     : https://prove2.me/theorems/b0e7ab20-fd11-4272-a87b-7bcf3360b184

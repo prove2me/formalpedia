@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_form_eq_zero_of_pair
 -- name    : GlobalTheory.CechDR.form_eq_zero_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:01:38.075838+00:00
 -- url     : https://prove2.me/theorems/37b2b7a5-5773-436c-b3d9-a34e7ec994d9

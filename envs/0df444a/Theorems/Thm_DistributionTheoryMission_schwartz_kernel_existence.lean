@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistributionTheoryMission_schwartz_kernel_existence
 -- name    : DistributionTheoryMission.schwartz_kernel_existence
--- status  : Open
+-- status  : Disproved
 -- author  : @liuyao
 -- created : 2026-11-16T02:07:39.585977+00:00
 -- url     : https://prove2.me/theorems/c39c0d83-8a68-4b50-9110-13625ff7eb92

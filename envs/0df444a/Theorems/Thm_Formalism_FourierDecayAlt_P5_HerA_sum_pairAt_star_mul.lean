@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerA_sum_pairAt_star_mul
 -- name    : Formalism.FourierDecayAlt.P5.HerA.sum_pairAt_star_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:40:57.493799+00:00
 -- url     : https://prove2.me/theorems/cee1a464-5868-4f17-8240-884f022d03fb

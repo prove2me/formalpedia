@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_measurable_kerW
 -- name    : GlobalTheory.Hk.RealChar.measurable_kerW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:36:55.815022+00:00
 -- url     : https://prove2.me/theorems/9279d0cb-fce0-47ac-9615-105e471c4a08

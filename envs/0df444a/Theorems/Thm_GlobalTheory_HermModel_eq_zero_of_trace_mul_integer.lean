@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermModel_eq_zero_of_trace_mul_integer
 -- name    : GlobalTheory.HermModel.eq_zero_of_trace_mul_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:19:38.432043+00:00
 -- url     : https://prove2.me/theorems/5fcede20-eb42-4a52-ae75-6e80050c57e4

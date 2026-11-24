@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftFrame_cval_pull
 -- name    : GlobalTheory.SymLiftFrame.cval_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:55:40.034138+00:00
 -- url     : https://prove2.me/theorems/8b9ff295-bfba-4e38-93d9-9e762c75bfb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_ofReal_add_ofReal_mul_I_ne_zero
 -- name    : GlobalTheory.HeckeTwo.ofReal_add_ofReal_mul_I_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:14:15.718796+00:00
 -- url     : https://prove2.me/theorems/0a8b1442-8da2-4f49-9346-5a5083b8a42b

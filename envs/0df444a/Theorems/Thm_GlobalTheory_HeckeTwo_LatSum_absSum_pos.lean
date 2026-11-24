@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_LatSum_absSum_pos
 -- name    : GlobalTheory.HeckeTwo.LatSum.absSum_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:05:26.584985+00:00
 -- url     : https://prove2.me/theorems/5663088a-c7ac-4354-bc79-979ba8cdac06

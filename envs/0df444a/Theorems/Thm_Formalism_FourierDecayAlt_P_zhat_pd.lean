@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_zhat_pd
 -- name    : Formalism.FourierDecayAlt.P.zhat_pd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:23:40.820216+00:00
 -- url     : https://prove2.me/theorems/0635d787-59eb-400a-8174-fa4fb0c63484

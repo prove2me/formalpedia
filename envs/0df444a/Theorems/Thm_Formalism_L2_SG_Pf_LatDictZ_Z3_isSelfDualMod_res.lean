@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_isSelfDualMod_res
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.isSelfDualMod_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:37:28.889517+00:00
 -- url     : https://prove2.me/theorems/4c78e0d8-9287-4cb6-bc50-6539521e160a

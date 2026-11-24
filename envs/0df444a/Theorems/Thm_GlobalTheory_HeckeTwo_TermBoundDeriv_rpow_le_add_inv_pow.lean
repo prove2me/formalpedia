@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermBoundDeriv_rpow_le_add_inv_pow
 -- name    : GlobalTheory.HeckeTwo.TermBoundDeriv.rpow_le_add_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:08:18.661547+00:00
 -- url     : https://prove2.me/theorems/a0a02985-7618-4fee-9c68-73f6b4dc8595

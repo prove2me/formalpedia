@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__star_isIntegral_8bceb60418dc
 -- name    : P2M_Formalism_BasicNotions_Examples__star_isIntegral_8bceb60418dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:27:25.941938+00:00
 -- url     : https://prove2.me/theorems/a1e15e77-ac24-4661-b97e-67087fbfcb5c

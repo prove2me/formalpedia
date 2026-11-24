@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_levi_fixes_last_basis
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.levi_fixes_last_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:30:38.93789+00:00
 -- url     : https://prove2.me/theorems/e97bae8d-43a2-44d4-b32d-ac21aaa1d31f

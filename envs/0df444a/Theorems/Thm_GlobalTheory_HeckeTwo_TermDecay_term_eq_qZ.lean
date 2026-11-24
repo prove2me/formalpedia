@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermDecay_term_eq_qZ
 -- name    : GlobalTheory.HeckeTwo.TermDecay.term_eq_qZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:07:10.775252+00:00
 -- url     : https://prove2.me/theorems/3ddc413e-e7cd-436d-87b5-0b792d694cdf

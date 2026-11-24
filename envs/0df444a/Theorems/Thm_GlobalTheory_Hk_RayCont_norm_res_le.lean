@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_norm_res_le
 -- name    : GlobalTheory.Hk.RayCont.norm_res_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:34:48.443576+00:00
 -- url     : https://prove2.me/theorems/bc6747f0-2488-4f2f-adff-c8b1bffcb556

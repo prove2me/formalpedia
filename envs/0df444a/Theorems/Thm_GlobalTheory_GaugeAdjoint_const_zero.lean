@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeAdjoint_const_zero
 -- name    : GlobalTheory.GaugeAdjoint.const_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:14:53.883363+00:00
 -- url     : https://prove2.me/theorems/5fe071b6-b6ee-47ee-9acc-b25f738bac86

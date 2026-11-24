@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbTensorExists_exists_complete_dense
 -- name    : GlobalTheory.HilbTensorExists.exists_complete_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:21:33.095877+00:00
 -- url     : https://prove2.me/theorems/55be885c-59e3-4878-a397-729dfa8b189c

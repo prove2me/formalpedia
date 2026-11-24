@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoAB_integrable_bound
 -- name    : GlobalTheory.HeckeTwoAB.integrable_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:15:36.836995+00:00
 -- url     : https://prove2.me/theorems/02742e08-717f-4866-8f1c-6a5570ccc7ad

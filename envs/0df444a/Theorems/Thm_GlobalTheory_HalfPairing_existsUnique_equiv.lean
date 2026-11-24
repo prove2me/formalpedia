@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfPairing_existsUnique_equiv
 -- name    : GlobalTheory.HalfPairing.existsUnique_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:02:32.242705+00:00
 -- url     : https://prove2.me/theorems/6e27b422-4614-4588-a7ae-22c0fe8e29f8

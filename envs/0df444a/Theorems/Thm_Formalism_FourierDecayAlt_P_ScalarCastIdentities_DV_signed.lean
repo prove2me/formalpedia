@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_DV_signed
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.DV_signed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:12:40.341561+00:00
 -- url     : https://prove2.me/theorems/3ca88bc1-f20b-4b9d-a61b-6b997e0a6a21

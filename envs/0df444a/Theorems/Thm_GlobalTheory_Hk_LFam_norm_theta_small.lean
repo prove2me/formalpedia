@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFam_norm_theta_small
 -- name    : GlobalTheory.Hk.LFam.norm_theta_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:21:33.438837+00:00
 -- url     : https://prove2.me/theorems/c79a83dc-19e5-49f2-8278-012b88c869f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_OneCosetProof_step_form
 -- name    : GlobalTheory.FunObj.OneCosetProof.step_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:40:25.080803+00:00
 -- url     : https://prove2.me/theorems/423673f5-0b5d-42d1-9482-af5ed8d14bb4

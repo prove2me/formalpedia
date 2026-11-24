@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoAB_wt_ne
 -- name    : GlobalTheory.HeckeTwoAB.wt_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:15:27.866843+00:00
 -- url     : https://prove2.me/theorems/23274680-5cf9-4d43-be2c-7e438147fdca

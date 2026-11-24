@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_intInd_zero
 -- name    : GlobalTheory.HeisUnit.intInd_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:17:32.693476+00:00
 -- url     : https://prove2.me/theorems/ee199425-2f56-440a-976b-7f6ff40c341f

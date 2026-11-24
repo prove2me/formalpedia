@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisLine_form_eq_ell
 -- name    : GlobalTheory.HeisLine.form_eq_ell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:18:14.114348+00:00
 -- url     : https://prove2.me/theorems/ac3ac1b6-aca1-49ae-b763-d9593046fe7b

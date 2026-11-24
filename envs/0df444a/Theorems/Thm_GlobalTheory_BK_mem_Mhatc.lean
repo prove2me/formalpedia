@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_mem_Mhatc
 -- name    : GlobalTheory.BK.mem_Mhatc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:59:14.376699+00:00
 -- url     : https://prove2.me/theorems/66ca2670-25fe-4ecb-a0af-dddde98347e3

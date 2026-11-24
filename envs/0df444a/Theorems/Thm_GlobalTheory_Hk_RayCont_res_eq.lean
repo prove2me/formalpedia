@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_res_eq
 -- name    : GlobalTheory.Hk.RayCont.res_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:34:47.551649+00:00
 -- url     : https://prove2.me/theorems/09838603-7e92-4b51-ba74-9e97ab5ad195

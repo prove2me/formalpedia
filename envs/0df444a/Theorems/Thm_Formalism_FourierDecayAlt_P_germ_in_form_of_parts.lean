@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_germ_in_form_of_parts
 -- name    : Formalism.FourierDecayAlt.P.germ_in_form_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:40:10.552346+00:00
 -- url     : https://prove2.me/theorems/8cfbc228-29f4-4bfb-84e6-6f4cc3ee4501

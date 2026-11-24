@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_Bt_eq
 -- name    : Formalism.FourierDecayAlt.P.B6.Bt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:48:59.2873+00:00
 -- url     : https://prove2.me/theorems/ad03b20e-a067-4fe2-a192-023b714d064c

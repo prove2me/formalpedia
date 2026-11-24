@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeStrip_classUnitPart_eq_of_inv
 -- name    : GlobalTheory.HeckeStrip.classUnitPart_eq_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:04:21.151444+00:00
 -- url     : https://prove2.me/theorems/b0c9b998-4e50-455d-bae4-67ab2438efb5

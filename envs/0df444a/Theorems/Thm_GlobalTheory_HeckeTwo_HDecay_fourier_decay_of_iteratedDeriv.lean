@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_fourier_decay_of_iteratedDeriv
 -- name    : GlobalTheory.HeckeTwo.HDecay.fourier_decay_of_iteratedDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:05:24.342205+00:00
 -- url     : https://prove2.me/theorems/59c880e7-3518-43ca-9932-20df184e34c5

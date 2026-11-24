@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_Decay_norm_dil_sq
 -- name    : GlobalTheory.HeckeTheta.Decay.norm_dil_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:05:55.838802+00:00
 -- url     : https://prove2.me/theorems/40e09182-4aa5-4d01-8068-59db00f44acb

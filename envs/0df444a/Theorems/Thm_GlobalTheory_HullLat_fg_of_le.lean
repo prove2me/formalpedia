@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HullLat_fg_of_le
 -- name    : GlobalTheory.HullLat.fg_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:37.433234+00:00
 -- url     : https://prove2.me/theorems/5765651e-d9fc-4510-a515-7d0e9a40d561

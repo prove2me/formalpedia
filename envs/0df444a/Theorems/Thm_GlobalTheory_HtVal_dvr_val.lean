@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HtVal_dvr_val
 -- name    : GlobalTheory.HtVal.dvr_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:03:26.628877+00:00
 -- url     : https://prove2.me/theorems/1bcad535-df63-4217-b045-a15f3bf84444

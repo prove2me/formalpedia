@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayForm_range_comb
 -- name    : GlobalTheory.Hk.RayForm.range_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:34:52.253907+00:00
 -- url     : https://prove2.me/theorems/c24a076b-4f7e-40d9-af18-3fda5e63a903

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergGaussianSeries_series_inv
 -- name    : GlobalTheory.HeisenbergGaussianSeries.series_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:18:49.177799+00:00
 -- url     : https://prove2.me/theorems/58429cf8-1edb-48ad-8ef3-cfd3dc69bf85

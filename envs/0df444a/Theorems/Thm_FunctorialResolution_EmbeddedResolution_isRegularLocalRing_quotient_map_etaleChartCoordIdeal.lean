@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isRegularLocalRing_quotient_map_etaleChartCoordIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.isRegularLocalRing_quotient_map_etaleChartCoordIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:34:56.309181+00:00
 -- url     : https://prove2.me/theorems/b179cc2a-ad5a-4816-b7a5-805cc0c7caea

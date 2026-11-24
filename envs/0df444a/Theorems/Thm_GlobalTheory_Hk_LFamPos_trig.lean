@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFamPos_trig
 -- name    : GlobalTheory.Hk.LFamPos.trig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:21:31.333709+00:00
 -- url     : https://prove2.me/theorems/ac610057-e6aa-4318-b138-b8da516b8a43

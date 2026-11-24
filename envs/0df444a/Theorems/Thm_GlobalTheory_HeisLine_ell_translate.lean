@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisLine_ell_translate
 -- name    : GlobalTheory.HeisLine.ell_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:18:23.935335+00:00
 -- url     : https://prove2.me/theorems/576d59b2-82f9-4026-b73c-ba42d8be0348

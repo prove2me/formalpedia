@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameOnto_exists_matrix
 -- name    : GlobalTheory.HL.FrameOnto.exists_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:16.364562+00:00
 -- url     : https://prove2.me/theorems/5b0e89f7-85e2-422a-b8b6-a92a826a0e98

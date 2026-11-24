@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_zhat_equivalence
 -- name    : Formalism.FourierDecayAlt.P.zhat_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:33:57.792473+00:00
 -- url     : https://prove2.me/theorems/ad11b28c-16ff-4012-a6cf-addd09e985a2

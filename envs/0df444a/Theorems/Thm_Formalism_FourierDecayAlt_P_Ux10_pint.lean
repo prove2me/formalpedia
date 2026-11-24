@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_pint
 -- name    : Formalism.FourierDecayAlt.P.Ux10.pint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:24:59.049669+00:00
 -- url     : https://prove2.me/theorems/64ef3d8b-318f-41b6-b28e-af98c5d5a4e9

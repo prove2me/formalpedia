@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_Regroup_unit_eq_one
 -- name    : GlobalTheory.HeckeTwo.Regroup.unit_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:40.54017+00:00
 -- url     : https://prove2.me/theorems/15df1318-4b99-42c7-bef5-de409a9cd0bf

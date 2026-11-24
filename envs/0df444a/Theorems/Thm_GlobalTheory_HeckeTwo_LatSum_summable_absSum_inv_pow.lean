@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_LatSum_summable_absSum_inv_pow
 -- name    : GlobalTheory.HeckeTwo.LatSum.summable_absSum_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:05:43.869652+00:00
 -- url     : https://prove2.me/theorems/cdbb4d5f-afd5-42cf-a93f-ad2f112dc18e

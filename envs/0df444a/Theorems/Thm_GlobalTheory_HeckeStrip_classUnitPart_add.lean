@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeStrip_classUnitPart_add
 -- name    : GlobalTheory.HeckeStrip.classUnitPart_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:04:17.622447+00:00
 -- url     : https://prove2.me/theorems/ec292915-52f9-4dbc-8d31-d85721278dcf

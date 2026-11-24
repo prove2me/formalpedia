@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussContentLinearForms_span_coeff_prod_linear
 -- name    : GlobalTheory.GaussContentLinearForms.span_coeff_prod_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:48:48.33752+00:00
 -- url     : https://prove2.me/theorems/ee0fe12d-d93e-4584-9295-7d94ba17d4d4

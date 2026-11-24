@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeShift_sph_borel_mul
 -- name    : GlobalTheory.HeckeShift.sph_borel_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:04:53.475992+00:00
 -- url     : https://prove2.me/theorems/7a29f2ca-5328-4595-9140-4b0be339350f

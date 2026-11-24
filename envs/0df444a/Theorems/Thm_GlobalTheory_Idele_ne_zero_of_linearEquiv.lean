@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_ne_zero_of_linearEquiv
 -- name    : GlobalTheory.Idele.ne_zero_of_linearEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:15.052824+00:00
 -- url     : https://prove2.me/theorems/dcc44875-9b48-4131-b454-542fe3de2535

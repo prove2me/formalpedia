@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoExp_kFac_zero_mul
 -- name    : GlobalTheory.HeckeTwoExp.kFac_zero_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:14:30.785239+00:00
 -- url     : https://prove2.me/theorems/4cf24031-7879-44b2-b7fe-fb69f59a8b00

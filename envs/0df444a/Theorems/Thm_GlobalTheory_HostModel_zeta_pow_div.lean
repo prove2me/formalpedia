@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_zeta_pow_div
 -- name    : GlobalTheory.HostModel.zeta_pow_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:38:25.318099+00:00
 -- url     : https://prove2.me/theorems/85b60eea-f719-4ea7-9720-74a2d18f1609

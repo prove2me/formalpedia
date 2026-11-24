@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coe_unitsOfLE_hom_apply
 -- name    : GroundTheory.ProfCoh.coe_unitsOfLE_hom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:17:25.686254+00:00
 -- url     : https://prove2.me/theorems/a7278e71-5002-4023-b83b-2409dd126778

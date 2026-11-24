@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_subset_inverse_column
 -- name    : AAInvW.subset_inverse_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:54:45.429317+00:00
 -- url     : https://prove2.me/theorems/ba957747-a124-456a-9306-751a6f450fdd

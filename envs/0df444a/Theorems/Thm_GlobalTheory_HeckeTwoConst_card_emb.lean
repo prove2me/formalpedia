@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoConst_card_emb
 -- name    : GlobalTheory.HeckeTwoConst.card_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:14:34.138051+00:00
 -- url     : https://prove2.me/theorems/48fdae7b-0081-4935-95c6-e5382506faae

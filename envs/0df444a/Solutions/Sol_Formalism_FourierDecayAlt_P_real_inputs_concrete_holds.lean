@@ -1,0 +1,47 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.real_inputs_concrete_holds
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-24T17:19:19.614694+00:00
+-- url     : https://prove2.me/submissions/fe243010-1fe6-4d95-a961-842b454249fa
+
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstNormRealNonneg
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RecursionWithDensities
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PoissonSummationDecay
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LevelSizesJointMean
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DualCovolumeChangeOfVariables
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PoissonJointFirstReduction
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalConditionsAndQuotientSplitting
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ConcreteBoundOfRecursion
+import Theorems.Thm_Formalism_FourierDecayAlt_P_real_inputs_by_parts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_block_estimate_of_base
+import Theorems.Thm_Formalism_FourierDecayAlt_P_cutoff_of_parts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_embedding_facts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_euclidean_frame
+import Theorems.Thm_Formalism_FourierDecayAlt_P_gram_positive_semidefinite
+import Theorems.Thm_Formalism_FourierDecayAlt_P_lattice_facts_general
+import Theorems.Thm_Formalism_FourierDecayAlt_P_level_zero_estimate_product
+import Theorems.Thm_Formalism_FourierDecayAlt_P_lift_estimate_of_base
+import Theorems.Thm_Formalism_FourierDecayAlt_P_poisson_input_of_parts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_trace_dual_alt
+import Theorems.Thm_Formalism_FourierDecayAlt_P_wave_estimate_of_integral
+import Theorems.Thm_Formalism_FourierDecayAlt_P_words_pos_of_parts
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Finset Formalism.FourierDecayAlt Formalism.FourierDecayAlt.C
+noncomputable section
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : C.RealInputsConcrete :=
+  real_inputs_by_parts embedding_facts euclidean_frame trace_dual_alt
+    lattice_facts_general gram_positive_semidefinite words_pos_of_parts wave_estimate_of_integral
+    poisson_input_of_parts lift_estimate_of_base block_estimate_of_base level_zero_estimate_product
+    cutoff_of_parts
+end Formalism.FourierDecayAlt.P

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_comp_sub_mem
 -- name    : GlobalTheory.HeckeTate.comp_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:05:59.051141+00:00
 -- url     : https://prove2.me/theorems/2da2a163-88d9-4f0f-9224-fab9c19912bb

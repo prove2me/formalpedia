@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LogDerivHalf_exists_bound_LSeries
 -- name    : GlobalTheory.Hk.LogDerivHalf.exists_bound_LSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:35:05.811545+00:00
 -- url     : https://prove2.me/theorems/14d53209-c168-4b83-8562-263805c28049

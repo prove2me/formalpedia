@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_TwistMem_exists_lift_diff
 -- name    : GlobalTheory.HilbFam.TwistMem.exists_lift_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:20:38.115516+00:00
 -- url     : https://prove2.me/theorems/26b4de5c-e968-47ea-b5c5-bd51fe3925d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_ideleNorm_localIdele
 -- name    : GlobalTheory.HeckeOne.ideleNorm_localIdele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:04:57.632748+00:00
 -- url     : https://prove2.me/theorems/684e7266-aef7-4fa3-a7dd-020765b5767a

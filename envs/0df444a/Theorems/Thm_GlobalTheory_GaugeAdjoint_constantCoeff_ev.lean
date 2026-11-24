@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeAdjoint_constantCoeff_ev
 -- name    : GlobalTheory.GaugeAdjoint.constantCoeff_ev
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:33.897504+00:00
 -- url     : https://prove2.me/theorems/6b80ae81-db32-4523-b05f-32482e844f75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_norm_qPow_eq_exp
 -- name    : GlobalTheory.HilbFam.norm_qPow_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:22:00.378065+00:00
 -- url     : https://prove2.me/theorems/098bd270-aaaf-4d22-97dd-7b4528a4832f

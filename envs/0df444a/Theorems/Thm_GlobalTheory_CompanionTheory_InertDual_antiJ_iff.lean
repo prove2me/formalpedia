@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertDual_antiJ_iff
 -- name    : GlobalTheory.CompanionTheory.InertDual.antiJ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:53:51.326177+00:00
 -- url     : https://prove2.me/theorems/4bb770b6-806a-4931-b02c-5214e081895f

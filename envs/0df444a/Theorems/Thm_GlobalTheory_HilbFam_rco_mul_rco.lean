@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_rco_mul_rco
 -- name    : GlobalTheory.HilbFam.rco_mul_rco
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:22:03.119816+00:00
 -- url     : https://prove2.me/theorems/10afe7f3-fc1e-4230-85c8-03fc68dcc103

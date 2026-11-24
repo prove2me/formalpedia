@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLocInt_inv_mul_int_of_left_congr
 -- name    : GlobalTheory.HeckeLocInt.inv_mul_int_of_left_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:26.316067+00:00
 -- url     : https://prove2.me/theorems/3f038ac2-ff08-4525-92db-909a42c2da6c

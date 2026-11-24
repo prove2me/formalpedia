@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_TwistMul_std_vecMul_int
 -- name    : GlobalTheory.HilbFam.TwistMul.std_vecMul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:20:56.053802+00:00
 -- url     : https://prove2.me/theorems/0afa412c-003e-44ac-a9ab-e0535d021837

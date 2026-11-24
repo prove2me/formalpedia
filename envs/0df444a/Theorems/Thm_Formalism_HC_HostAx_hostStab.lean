@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_hostStab
 -- name    : Formalism.HC.HostAx.hostStab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:50.675972+00:00
 -- url     : https://prove2.me/theorems/983a00c2-5934-47cf-863d-cb7f502db87a

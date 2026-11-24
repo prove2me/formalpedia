@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_dw_smooth_local_linear
 -- name    : GlobalTheory.HCA.dw_smooth_local_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:59:17.092726+00:00
 -- url     : https://prove2.me/theorems/d27a2b4e-4616-4df2-a9ab-dc077ed60743

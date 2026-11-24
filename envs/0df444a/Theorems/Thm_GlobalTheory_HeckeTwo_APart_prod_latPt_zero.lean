@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_APart_prod_latPt_zero
 -- name    : GlobalTheory.HeckeTwo.APart.prod_latPt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:46.311472+00:00
 -- url     : https://prove2.me/theorems/10b69269-faa8-44b2-81a1-55b4dc2e9cec

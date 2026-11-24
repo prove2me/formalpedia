@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HypRot_rot_det
 -- name    : GlobalTheory.HypRot.rot_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:38.418768+00:00
 -- url     : https://prove2.me/theorems/14175ac0-70e7-4965-8bb0-c4fad09f54f0

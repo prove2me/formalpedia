@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_long_weyl_sends_base_to_dual
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.long_weyl_sends_base_to_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:55:29.147536+00:00
 -- url     : https://prove2.me/theorems/08677bd5-9062-4aa0-8463-e7de1933c171

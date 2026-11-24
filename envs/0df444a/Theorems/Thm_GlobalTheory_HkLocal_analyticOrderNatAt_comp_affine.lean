@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HkLocal_analyticOrderNatAt_comp_affine
 -- name    : GlobalTheory.HkLocal.analyticOrderNatAt_comp_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:36:34.190138+00:00
 -- url     : https://prove2.me/theorems/1e9fc307-34f6-419c-a5cd-bd007c89e99b

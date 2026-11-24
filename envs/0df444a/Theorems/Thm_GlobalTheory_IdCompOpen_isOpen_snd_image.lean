@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdCompOpen_isOpen_snd_image
 -- name    : GlobalTheory.IdCompOpen.isOpen_snd_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:11:57.185898+00:00
 -- url     : https://prove2.me/theorems/0f5cf708-a6ae-438a-8df2-79b35815be5a

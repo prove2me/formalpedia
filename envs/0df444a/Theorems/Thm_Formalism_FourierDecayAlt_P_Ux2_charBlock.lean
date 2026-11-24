@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_charBlock
 -- name    : Formalism.FourierDecayAlt.P.Ux2.charBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:24:24.844872+00:00
 -- url     : https://prove2.me/theorems/afc8e91e-4b66-4b6f-917d-6e5d09038dd2

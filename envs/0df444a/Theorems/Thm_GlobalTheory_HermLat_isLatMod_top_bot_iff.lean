@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLat_isLatMod_top_bot_iff
 -- name    : GlobalTheory.HermLat.isLatMod_top_bot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:20:25.574934+00:00
 -- url     : https://prove2.me/theorems/bd3520bc-9290-485c-8942-4e455384ca15

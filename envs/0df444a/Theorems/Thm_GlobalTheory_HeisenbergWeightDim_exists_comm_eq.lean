@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergWeightDim_exists_comm_eq
 -- name    : GlobalTheory.HeisenbergWeightDim.exists_comm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:19:26.960072+00:00
 -- url     : https://prove2.me/theorems/3ce14018-6c89-4ea7-801e-2c5850acebb8

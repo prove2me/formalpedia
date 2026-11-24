@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_cycIso_apply
 -- name    : Formalism.HC.cycIso_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:55:27.414959+00:00
 -- url     : https://prove2.me/theorems/ea0adc84-ae44-4eae-9fc4-4d073c204703

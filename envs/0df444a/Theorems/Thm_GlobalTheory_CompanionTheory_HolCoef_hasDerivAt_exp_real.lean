@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolCoef_hasDerivAt_exp_real
 -- name    : GlobalTheory.CompanionTheory.HolCoef.hasDerivAt_exp_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:42.037095+00:00
 -- url     : https://prove2.me/theorems/d473b516-0f1c-49cf-aada-a443d8872aea

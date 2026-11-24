@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_VMonicMonicShiftEvaluation_vAB_eval
 -- name    : Formalism.FourierDecayAlt.Q.VMonicMonicShiftEvaluation.vAB_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:00.889059+00:00
 -- url     : https://prove2.me/theorems/ce913e92-a2d6-4873-b977-cc97a02cb39e

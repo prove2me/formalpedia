@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfShear_pre_apply
 -- name    : GlobalTheory.HopfShear.pre_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:37:40.523159+00:00
 -- url     : https://prove2.me/theorems/3ec7a75a-20bd-4e7a-85e6-da6bbcd838e5

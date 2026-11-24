@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightGen_exists_const
 -- name    : GlobalTheory.WeightGen.exists_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:48.632919+00:00
 -- url     : https://prove2.me/theorems/ae55e59d-fb9d-42d4-8af3-ec69d7c7ef32

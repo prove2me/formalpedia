@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_rationalFirstNegativePassageMeasurable
 -- name    : Kyprianou.Ch01.rationalFirstNegativePassageMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T16:58:36.082855+00:00
 -- url     : https://prove2.me/theorems/f5b81f26-bf40-4a0e-912a-05607f8dcdd1

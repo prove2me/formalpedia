@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_exists_perm_sgn
 -- name    : GlobalTheory.HermSign.exists_perm_sgn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:06.627526+00:00
 -- url     : https://prove2.me/theorems/a9493b8f-26f3-4763-acc4-a9b952634c17

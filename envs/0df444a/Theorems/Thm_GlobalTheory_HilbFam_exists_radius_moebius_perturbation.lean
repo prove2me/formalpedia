@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_exists_radius_moebius_perturbation
 -- name    : GlobalTheory.HilbFam.exists_radius_moebius_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:20:38.457751+00:00
 -- url     : https://prove2.me/theorems/a2d84bcd-b335-4c34-87ec-f26cd9029004

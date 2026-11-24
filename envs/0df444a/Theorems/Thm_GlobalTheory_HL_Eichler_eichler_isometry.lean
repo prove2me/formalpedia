@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Eichler_eichler_isometry
 -- name    : GlobalTheory.HL.Eichler.eichler_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:00:06.72952+00:00
 -- url     : https://prove2.me/theorems/9ee16ec6-d8b0-4849-ba42-c67cdd9a7521

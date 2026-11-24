@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HerbrandLength_loc_exact
 -- name    : GlobalTheory.HerbrandLength.loc_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:19:44.957052+00:00
 -- url     : https://prove2.me/theorems/66e19307-e1cd-4187-8d28-1100145623bd

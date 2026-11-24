@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_LatSum_prod_abs_emb
 -- name    : GlobalTheory.HeckeTwo.LatSum.prod_abs_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:05:53.619117+00:00
 -- url     : https://prove2.me/theorems/d31929fe-32fb-44e2-ac12-c4c92002a8d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoDY_cpow_eq
 -- name    : GlobalTheory.HeckeTwoDY.cpow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:15:29.211059+00:00
 -- url     : https://prove2.me/theorems/6c3dc922-b6b2-4c60-924b-f5c5bf8c4d47

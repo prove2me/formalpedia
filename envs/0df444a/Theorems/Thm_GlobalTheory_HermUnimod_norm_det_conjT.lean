@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_norm_det_conjT
 -- name    : GlobalTheory.HermUnimod.norm_det_conjT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:20:21.975276+00:00
 -- url     : https://prove2.me/theorems/f33e2c8f-ad15-42a8-b31b-996cf494685a

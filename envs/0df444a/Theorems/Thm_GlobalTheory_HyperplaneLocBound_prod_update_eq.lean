@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyperplaneLocBound_prod_update_eq
 -- name    : GlobalTheory.HyperplaneLocBound.prod_update_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:13:06.885348+00:00
 -- url     : https://prove2.me/theorems/44cda571-90a8-4d3e-8bd7-68c664e3563b

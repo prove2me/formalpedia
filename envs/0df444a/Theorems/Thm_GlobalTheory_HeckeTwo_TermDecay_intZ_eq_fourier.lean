@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermDecay_intZ_eq_fourier
 -- name    : GlobalTheory.HeckeTwo.TermDecay.intZ_eq_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:07:38.866847+00:00
 -- url     : https://prove2.me/theorems/6fadcf09-eac9-452d-b30f-c148beb0b259

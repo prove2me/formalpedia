@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_AffLoc_pt_comp
 -- name    : GlobalTheory.CechDR.AffLoc.pt_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:14:46.911329+00:00
 -- url     : https://prove2.me/theorems/e4713308-9ba3-42bc-b9c4-b2cc40d5115d

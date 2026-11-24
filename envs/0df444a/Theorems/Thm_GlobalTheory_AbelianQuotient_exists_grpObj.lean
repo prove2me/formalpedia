@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianQuotient_exists_grpObj
 -- name    : GlobalTheory.AbelianQuotient.exists_grpObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:52:14.284593+00:00
 -- url     : https://prove2.me/theorems/ccb64f63-112f-4b6c-a718-2bf668323983

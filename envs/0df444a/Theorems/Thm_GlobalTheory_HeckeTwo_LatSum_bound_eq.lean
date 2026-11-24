@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_LatSum_bound_eq
 -- name    : GlobalTheory.HeckeTwo.LatSum.bound_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:05:40.711061+00:00
 -- url     : https://prove2.me/theorems/9700bc09-f3ad-423f-893c-2685bd0e801c

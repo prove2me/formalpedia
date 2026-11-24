@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_aChi_eq
 -- name    : GlobalTheory.Hk.RealChar.aChi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:37:41.316261+00:00
 -- url     : https://prove2.me/theorems/22daa33f-5ff9-4438-bcf7-dc1711e555b6

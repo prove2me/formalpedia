@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_place_eq_of_contEmb_comp_eq
 -- name    : GlobalTheory.HeckeGal.place_eq_of_contEmb_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:02:56.839339+00:00
 -- url     : https://prove2.me/theorems/d23eedbf-4ed6-477d-af12-98e19cf0c4fc

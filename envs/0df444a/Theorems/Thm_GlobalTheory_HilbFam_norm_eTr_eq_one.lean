@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_norm_eTr_eq_one
 -- name    : GlobalTheory.HilbFam.norm_eTr_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:22:23.266913+00:00
 -- url     : https://prove2.me/theorems/2007b2cd-5703-4c0b-aa6d-b3faadce6688

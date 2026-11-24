@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergGaussianSeries_exists_exponent
 -- name    : GlobalTheory.HeisenbergGaussianSeries.exists_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:18:56.720953+00:00
 -- url     : https://prove2.me/theorems/61159c09-5b3a-4592-9fe3-74b9432020f9

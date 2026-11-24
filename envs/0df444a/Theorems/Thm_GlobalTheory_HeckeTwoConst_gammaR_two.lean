@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoConst_gammaR_two
 -- name    : GlobalTheory.HeckeTwoConst.gammaR_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:14:33.383023+00:00
 -- url     : https://prove2.me/theorems/f884a41d-82d2-449e-b109-5c51d00ba513

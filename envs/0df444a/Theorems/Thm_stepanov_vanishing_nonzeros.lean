@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stepanov_vanishing_nonzeros
 -- name    : stepanov_vanishing_nonzeros
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:35:48.981183+00:00
 -- url     : https://prove2.me/theorems/e1e6b9f1-b290-4785-9b4a-d516b6d0a0db

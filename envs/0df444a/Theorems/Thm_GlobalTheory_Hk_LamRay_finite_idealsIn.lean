@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LamRay_finite_idealsIn
 -- name    : GlobalTheory.Hk.LamRay.finite_idealsIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:22:06.902117+00:00
 -- url     : https://prove2.me/theorems/9748cdea-f6cf-43c0-8ae6-b9a872ac746d

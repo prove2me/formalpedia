@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_BR_selfDualMod_loc
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.BR.selfDualMod_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:38:32.417804+00:00
 -- url     : https://prove2.me/theorems/e3ef0049-2102-42f0-a49f-9210508a09d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_exists_roots
 -- name    : GlobalTheory.HostModel.exists_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:39:24.245802+00:00
 -- url     : https://prove2.me/theorems/62602a8a-6f7d-4c04-adcf-0e9e28aa06af

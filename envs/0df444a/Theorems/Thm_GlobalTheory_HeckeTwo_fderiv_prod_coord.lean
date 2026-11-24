@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_fderiv_prod_coord
 -- name    : GlobalTheory.HeckeTwo.fderiv_prod_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:13:12.340891+00:00
 -- url     : https://prove2.me/theorems/e9be406f-6a5d-4a31-aebe-2cec95b015d4

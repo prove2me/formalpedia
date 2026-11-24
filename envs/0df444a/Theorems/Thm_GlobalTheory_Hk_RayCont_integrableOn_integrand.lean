@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_integrableOn_integrand
 -- name    : GlobalTheory.Hk.RayCont.integrableOn_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:35:56.423607+00:00
 -- url     : https://prove2.me/theorems/42fe033e-c8ae-4e7f-ac52-bbb09745772d

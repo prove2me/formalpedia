@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_psd_iff_qf
 -- name    : Formalism.FourierDecayAlt.P.PBA.psd_iff_qf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:14:16.479268+00:00
 -- url     : https://prove2.me/theorems/4e2cdf17-0524-45bd-bff1-7970684c787f

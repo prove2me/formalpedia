@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_ginv_eq
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.ginv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:45:11.609807+00:00
 -- url     : https://prove2.me/theorems/e1f816af-fbf3-4f6c-b1a4-efe78a3eaea1

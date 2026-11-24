@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLat_summable_exp_emb
 -- name    : GlobalTheory.HeckeLat.summable_exp_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:03:48.901359+00:00
 -- url     : https://prove2.me/theorems/6b4f8807-a0c7-4878-a2eb-d903eb3fcb8c

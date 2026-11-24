@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hostCharSum
 -- name    : Formalism.HC.Frame.hostCharSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:32.038078+00:00
 -- url     : https://prove2.me/theorems/7aecfc1e-9563-4bbc-9e9d-fdabb4ec0984

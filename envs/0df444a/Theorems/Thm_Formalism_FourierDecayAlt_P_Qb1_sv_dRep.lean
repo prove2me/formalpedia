@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qb1_sv_dRep
 -- name    : Formalism.FourierDecayAlt.P.Qb1.sv_dRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:20:23.547103+00:00
 -- url     : https://prove2.me/theorems/8bf3ac78-8141-4fd9-9cad-e4ce7d21ed2b

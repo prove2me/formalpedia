@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_jm_map_cc
 -- name    : GlobalTheory.FormalLog.jm_map_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:16.094184+00:00
 -- url     : https://prove2.me/theorems/d0d16d83-b9b3-40b9-9e32-eb57de526960

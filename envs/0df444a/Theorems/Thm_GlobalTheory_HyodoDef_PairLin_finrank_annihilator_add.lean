@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyodoDef_PairLin_finrank_annihilator_add
 -- name    : GlobalTheory.HyodoDef.PairLin.finrank_annihilator_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:46.173844+00:00
 -- url     : https://prove2.me/theorems/d65c938c-a979-4f27-9784-93484e005882

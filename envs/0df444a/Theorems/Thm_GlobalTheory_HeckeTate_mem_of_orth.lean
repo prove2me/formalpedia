@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_mem_of_orth
 -- name    : GlobalTheory.HeckeTate.mem_of_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:05:39.852637+00:00
 -- url     : https://prove2.me/theorems/ccaf0027-29fc-4345-a06f-999e1b626fe4

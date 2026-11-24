@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolPeriods_exists_differentiableOn_transfer
 -- name    : GlobalTheory.HolPeriods.exists_differentiableOn_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:39:02.029207+00:00
 -- url     : https://prove2.me/theorems/ceb7c9b2-92a2-44be-b6b4-043c74bd3a70

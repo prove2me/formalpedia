@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HenselianNorm_exists_mem_add_mul_sq_eq
 -- name    : GlobalTheory.HenselianNorm.exists_mem_add_mul_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:19:39.8896+00:00
 -- url     : https://prove2.me/theorems/fffa3610-106b-4f18-8894-5136b9b15494

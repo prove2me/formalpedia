@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_sliceMem
 -- name    : Formalism.FourierDecayAlt.P.Ux2.sliceMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:26:19.867953+00:00
 -- url     : https://prove2.me/theorems/da499623-e65f-4f30-a1de-eda0bdc2fafe

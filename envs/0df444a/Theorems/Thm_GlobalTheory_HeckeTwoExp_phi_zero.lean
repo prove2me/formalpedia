@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoExp_phi_zero
 -- name    : GlobalTheory.HeckeTwoExp.phi_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:14:40.874913+00:00
 -- url     : https://prove2.me/theorems/fa002a7c-028d-4e55-b624-4a9d1d911ac4

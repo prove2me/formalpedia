@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_hser_coeff_isAlgebraic
 -- name    : GlobalTheory.HilbFam.hser_coeff_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:20:48.353798+00:00
 -- url     : https://prove2.me/theorems/f3940b00-a945-4353-871e-99252f5f923f

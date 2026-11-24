@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergGaussianSeries_series_expand
 -- name    : GlobalTheory.HeisenbergGaussianSeries.series_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:19:07.696799+00:00
 -- url     : https://prove2.me/theorems/8b0fb808-92e8-4be6-a6d5-ccd6e47a5942

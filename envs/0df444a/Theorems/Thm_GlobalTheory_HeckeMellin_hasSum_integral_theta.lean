@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellin_hasSum_integral_theta
 -- name    : GlobalTheory.HeckeMellin.hasSum_integral_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:45.631031+00:00
 -- url     : https://prove2.me/theorems/eaffa073-ae15-4cd8-8e73-e265844c1d69

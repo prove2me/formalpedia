@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayConv_finite_idealsIn
 -- name    : GlobalTheory.Hk.RayConv.finite_idealsIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:34:58.107791+00:00
 -- url     : https://prove2.me/theorems/d16fa598-0791-46a4-9f40-703506133c06

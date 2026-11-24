@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_tangent_ext
 -- name    : GlobalTheory.HolHom.tangent_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:38:22.862594+00:00
 -- url     : https://prove2.me/theorems/9d04ec78-a2b6-403b-9cb6-5a97fdef6644

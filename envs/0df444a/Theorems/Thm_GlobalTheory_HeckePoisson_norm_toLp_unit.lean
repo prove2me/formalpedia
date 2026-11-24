@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_norm_toLp_unit
 -- name    : GlobalTheory.HeckePoisson.norm_toLp_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:06:44.458063+00:00
 -- url     : https://prove2.me/theorems/63954123-39d0-4f2e-a644-9f816a235e7f

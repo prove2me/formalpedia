@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_ne_top_of_nonzeroOnComponents
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_ne_top_of_nonzeroOnComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:55:16.722055+00:00
 -- url     : https://prove2.me/theorems/954a4186-0b46-4f3d-b2a0-a6483f445345

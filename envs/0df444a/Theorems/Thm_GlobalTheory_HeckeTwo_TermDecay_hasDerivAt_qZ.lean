@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermDecay_hasDerivAt_qZ
 -- name    : GlobalTheory.HeckeTwo.TermDecay.hasDerivAt_qZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:07:29.055337+00:00
 -- url     : https://prove2.me/theorems/e7685e6a-e612-43f7-9d97-c1f4dd4808e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_span_integers_eq_top
 -- name    : GlobalTheory.HermSign.span_integers_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:56.912805+00:00
 -- url     : https://prove2.me/theorems/1ac236ed-6405-4fc7-8d72-518f96fdf5f4

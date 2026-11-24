@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_galE_injective
 -- name    : Formalism.FrobeniusOrbits.galE_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:26:31.559369+00:00
 -- url     : https://prove2.me/theorems/a72d4f30-5443-419b-8c41-c61491b2997e

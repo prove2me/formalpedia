@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoDY_integrable_igE
 -- name    : GlobalTheory.HeckeTwoDY.integrable_igE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:14:49.352582+00:00
 -- url     : https://prove2.me/theorems/f2092d60-d1d3-49cc-b02c-ac6680ec36c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_mem_unipotent
 -- name    : Formalism.FourierDecayAlt.P.heisenberg_mem_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:38:12.974342+00:00
 -- url     : https://prove2.me/theorems/b81bec1c-0d6e-44d3-a49f-09ff25f99508

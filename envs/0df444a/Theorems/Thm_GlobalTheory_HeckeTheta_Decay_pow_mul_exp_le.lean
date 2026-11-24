@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_Decay_pow_mul_exp_le
 -- name    : GlobalTheory.HeckeTheta.Decay.pow_mul_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:16.786842+00:00
 -- url     : https://prove2.me/theorems/cc38e603-3249-4ace-be41-b308bc3c81aa

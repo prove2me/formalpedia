@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertSamuelPS_evalAt_of_not_lt
 -- name    : GlobalTheory.HilbertSamuelPS.evalAt_of_not_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:21:49.665135+00:00
 -- url     : https://prove2.me/theorems/f4507dce-d4cd-4eab-886d-7aa4a20ca6f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_dw_continuousFunctional
 -- name    : GlobalTheory.HCA.dw_continuousFunctional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:59:02.143261+00:00
 -- url     : https://prove2.me/theorems/8b898d21-48fb-4fe0-aedf-0b415118d575

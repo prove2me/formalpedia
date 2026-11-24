@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_rpow_mono_G
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.rpow_mono_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:29:46.933169+00:00
 -- url     : https://prove2.me/theorems/89882079-8342-4ba7-a79e-bc657fc5c08e

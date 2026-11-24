@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealPowerCoefficients_le_coeffIdeal_one
 -- name    : GlobalTheory.IdealPowerCoefficients.le_coeffIdeal_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:05:20.117227+00:00
 -- url     : https://prove2.me/theorems/8e87e0f1-bea8-4e26-9cdf-111bc0328072

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_mem_plane
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.mem_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:57:26.828279+00:00
 -- url     : https://prove2.me/theorems/e582da5e-8a05-4c22-ad0c-ada87ba2d9fc

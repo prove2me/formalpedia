@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_exists_normalized_linear_factors
 -- name    : PaleyWeil.exists_normalized_linear_factors
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:19:13.256583+00:00
 -- url     : https://prove2.me/theorems/d52b92db-68fe-40e8-8a57-77baeffbe610

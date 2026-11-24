@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_pair_glue
 -- name    : GlobalTheory.CechDR.pair_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:59:28.365859+00:00
 -- url     : https://prove2.me/theorems/9c15e3fa-3251-475e-bc28-24282f38d349

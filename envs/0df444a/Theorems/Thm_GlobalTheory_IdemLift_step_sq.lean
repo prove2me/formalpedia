@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdemLift_step_sq
 -- name    : GlobalTheory.IdemLift.step_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:12:53.51889+00:00
 -- url     : https://prove2.me/theorems/ccb6faad-89a4-4611-9b0c-30af4d65edbb

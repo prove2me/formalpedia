@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BranchingSystems_Sys_noDown
 -- name    : Formalism.FourierDecayAlt.P.BranchingSystems.Sys.noDown
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:51:01.368572+00:00
 -- url     : https://prove2.me/theorems/581de722-c20a-4680-bdc8-bdaa83c3e535

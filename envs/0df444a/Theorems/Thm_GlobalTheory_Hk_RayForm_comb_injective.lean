@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayForm_comb_injective
 -- name    : GlobalTheory.Hk.RayForm.comb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:34:29.914499+00:00
 -- url     : https://prove2.me/theorems/626630ab-f653-4384-a48b-bd16c10a194d

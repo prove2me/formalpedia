@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_min_le_sqrt
 -- name    : GlobalTheory.Hk.RealChar.min_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:36:59.52126+00:00
 -- url     : https://prove2.me/theorems/412b70f0-bc4f-46e1-b318-ffbb3ad375e6

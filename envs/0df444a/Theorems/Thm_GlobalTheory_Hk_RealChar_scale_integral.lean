@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_scale_integral
 -- name    : GlobalTheory.Hk.RealChar.scale_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:22.337292+00:00
 -- url     : https://prove2.me/theorems/4fe93bd5-d5b4-46f9-93b4-c7261b7b8c0c

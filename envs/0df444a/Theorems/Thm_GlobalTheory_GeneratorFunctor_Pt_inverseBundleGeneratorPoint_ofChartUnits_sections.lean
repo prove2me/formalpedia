@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorFunctor_Pt_inverseBundleGeneratorPoint_ofChartUnits_sections
 -- name    : GlobalTheory.GeneratorFunctor.Pt.inverseBundleGeneratorPoint_ofChartUnits_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:53:45.707458+00:00
 -- url     : https://prove2.me/theorems/0b930d60-a51d-44af-b989-cf59872a4b56

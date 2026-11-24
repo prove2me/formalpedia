@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellinOne_hmon_eq_mul
 -- name    : GlobalTheory.HeckeMellinOne.hmon_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:07:00.515797+00:00
 -- url     : https://prove2.me/theorems/d42f43b8-e221-44f8-a0e6-f95fe9daa88b

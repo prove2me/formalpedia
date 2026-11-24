@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_coeff_finite_weightedEuler
 -- name    : PaleyWeil.coeff_finite_weightedEuler
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:19:17.00622+00:00
 -- url     : https://prove2.me/theorems/2c841432-c7f4-4d90-8d5b-a36591d43b61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeShift_diag_mul_upper
 -- name    : GlobalTheory.HeckeShift.diag_mul_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:04:44.20392+00:00
 -- url     : https://prove2.me/theorems/20d72225-4ba4-43fb-8a26-46fa002098d9

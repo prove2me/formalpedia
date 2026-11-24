@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_hermitian_three_block
 -- name    : Formalism.FourierDecayAlt.P.B2x8.hermitian_three_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:40:23.552585+00:00
 -- url     : https://prove2.me/theorems/5f79c344-01d2-4bb4-b70a-7c116c4c5863

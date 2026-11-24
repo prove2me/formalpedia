@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoAB_hasDerivAt_F
 -- name    : GlobalTheory.HeckeTwoAB.hasDerivAt_F
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:13:12.699916+00:00
 -- url     : https://prove2.me/theorems/bf66ac3e-4401-4b93-9280-c76ca5feaffa

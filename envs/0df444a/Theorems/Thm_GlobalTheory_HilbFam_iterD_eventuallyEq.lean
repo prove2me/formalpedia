@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_iterD_eventuallyEq
 -- name    : GlobalTheory.HilbFam.iterD_eventuallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:20:57.524433+00:00
 -- url     : https://prove2.me/theorems/390fae9f-0b0e-4800-b231-570f1949812f

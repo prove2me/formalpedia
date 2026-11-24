@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_DSIC_map_qminor
 -- name    : CompanionTheory.D.DSIC.map_qminor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:09:58.506911+00:00
 -- url     : https://prove2.me/theorems/f0e5c915-8f50-4e78-9662-073a61bc4b86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoExp_tsum_qClass_eq
 -- name    : GlobalTheory.HeckeTwoExp.tsum_qClass_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:14:28.217748+00:00
 -- url     : https://prove2.me/theorems/1b7a5e9b-272f-416d-b1b4-d6b3572fcf91

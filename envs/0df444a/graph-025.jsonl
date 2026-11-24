@@ -36449,7 +36449,7 @@
 {"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_cnotU", "via": ["solution", "statement"]}
 {"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_gamma", "via": ["solution", "statement"]}
 {"parent": "SkipListConc_dMor", "child": "SkipListConc_morris", "via": ["statement"]}
-{"parent": "IdentityTesting39.ExactRadius.eq_7_tv_branches", "child": "IdentityTesting39_ExactRadius_MomentPrograms", "via": ["statement"]}
+{"parent": "IdentityTesting39.ExactRadius.eq_7_tv_branches", "child": "IdentityTesting39_ExactRadius_MomentPrograms", "via": ["solution", "statement"]}
 {"parent": "MatroidOptGame.lemma_4", "child": "MatroidOptGame_OutputsBasePair", "via": ["statement"]}
 {"parent": "MatroidOptGame.lemma_4", "child": "MatroidOptGame_ComputesWithin", "via": ["statement"]}
 {"parent": "MatroidOptGame.lemma_4", "child": "MatroidOptGame_HasTwoDisjointBases", "via": ["statement"]}
@@ -40760,7 +40760,7 @@
 {"parent": "MomentAmbiguitySecretary_Secretary_Separator", "child": "MomentAmbiguitySecretary_Secretary_Laws", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm0_60_1.sums_eq_g", "child": "OAIQ098G1513", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm0_60_1.sums_eq_g", "child": "OAIQ098G1529", "via": ["solution", "statement"]}
-{"parent": "ChangingCache.UpperBound.lemma_5_2", "child": "ChangingCache_UpperBound_NormalForm", "via": ["statement"]}
+{"parent": "ChangingCache.UpperBound.lemma_5_2", "child": "ChangingCache_UpperBound_NormalForm", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalPooled_target_bounds", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ScaleCaps", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalPooled_target_bounds", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CommonMasks", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalPooled_target_bounds", "child": "OAI_NumberTheory_DirichletL_Eisenstein_QuotientTopology", "via": ["solution", "statement"]}

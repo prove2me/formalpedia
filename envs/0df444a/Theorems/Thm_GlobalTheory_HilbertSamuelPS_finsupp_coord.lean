@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertSamuelPS_finsupp_coord
 -- name    : GlobalTheory.HilbertSamuelPS.finsupp_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:21:41.743926+00:00
 -- url     : https://prove2.me/theorems/224f8cb0-161e-41be-b66d-120e3f47a754

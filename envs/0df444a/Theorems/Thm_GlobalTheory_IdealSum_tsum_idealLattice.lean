@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealSum_tsum_idealLattice
 -- name    : GlobalTheory.IdealSum.tsum_idealLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:04:49.132507+00:00
 -- url     : https://prove2.me/theorems/7772b6e5-3df1-4a2f-9f7a-6dba53579fc4

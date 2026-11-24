@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_LF_lat_denom
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.LF.lat_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:53.626433+00:00
 -- url     : https://prove2.me/theorems/0fcd9ee6-6669-436b-81e9-bc0c1867ec89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_rayCountTheta_fibre_count
 -- name    : GlobalTheory.Hk.rayCountTheta_fibre_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:36:57.035807+00:00
 -- url     : https://prove2.me/theorems/4a76460a-e16d-45e3-93f9-4a619a9b57ca

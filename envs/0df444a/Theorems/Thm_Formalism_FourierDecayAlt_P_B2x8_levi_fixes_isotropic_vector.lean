@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_levi_fixes_isotropic_vector
 -- name    : Formalism.FourierDecayAlt.P.B2x8.levi_fixes_isotropic_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:01:35.144882+00:00
 -- url     : https://prove2.me/theorems/7668ff93-8711-4efe-ad90-06b035cce9a2

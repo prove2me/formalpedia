@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayForm_exists_qForm
 -- name    : GlobalTheory.Hk.RayForm.exists_qForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:35:20.509796+00:00
 -- url     : https://prove2.me/theorems/ed082a7b-71ac-4129-81a2-164be8a26596

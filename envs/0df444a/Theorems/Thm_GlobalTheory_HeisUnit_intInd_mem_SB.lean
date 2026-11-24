@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_intInd_mem_SB
 -- name    : GlobalTheory.HeisUnit.intInd_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:17:54.023787+00:00
 -- url     : https://prove2.me/theorems/ca5a1c13-a652-4aa6-9344-41f13ea1cf7f

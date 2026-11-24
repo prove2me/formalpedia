@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolPeriods_isDerivAt0_comp_equiv
 -- name    : GlobalTheory.HolPeriods.isDerivAt0_comp_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:38:15.550808+00:00
 -- url     : https://prove2.me/theorems/f3d65849-7bc8-4929-8976-6be020b0e40d

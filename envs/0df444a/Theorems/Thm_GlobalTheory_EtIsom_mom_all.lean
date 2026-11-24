@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_mom_all
 -- name    : GlobalTheory.EtIsom.mom_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:37:53.802078+00:00
 -- url     : https://prove2.me/theorems/344c1a32-ad1d-4216-8175-beea1cad9c1e

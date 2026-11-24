@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_norm_half_sq
 -- name    : GlobalTheory.HeckePoisson.norm_half_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:05:15.501833+00:00
 -- url     : https://prove2.me/theorems/78c51b52-73e5-4923-808d-691d06dbc576

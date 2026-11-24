@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFamPos_norm_lamChi_le
 -- name    : GlobalTheory.Hk.LFamPos.norm_lamChi_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:21:37.345801+00:00
 -- url     : https://prove2.me/theorems/61544f21-7ffe-4f7d-885a-9de4966ce4c1

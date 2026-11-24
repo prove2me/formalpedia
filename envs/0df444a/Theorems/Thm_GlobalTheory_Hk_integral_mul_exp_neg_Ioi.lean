@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_integral_mul_exp_neg_Ioi
 -- name    : GlobalTheory.Hk.integral_mul_exp_neg_Ioi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:36:19.686835+00:00
 -- url     : https://prove2.me/theorems/41f8641e-ab94-4366-8b68-b0e885ebe259

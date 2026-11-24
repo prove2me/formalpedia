@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_exists_int_mul_trace_of_hasLevel
 -- name    : GlobalTheory.HilbFam.exists_int_mul_trace_of_hasLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:20:32.422251+00:00
 -- url     : https://prove2.me/theorems/697abeff-3915-4337-bb36-6c50dbedd94d

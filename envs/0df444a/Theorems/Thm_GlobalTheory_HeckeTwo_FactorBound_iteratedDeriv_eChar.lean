@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_FactorBound_iteratedDeriv_eChar
 -- name    : GlobalTheory.HeckeTwo.FactorBound.iteratedDeriv_eChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:06:11.996795+00:00
 -- url     : https://prove2.me/theorems/e2472b3a-32a1-4a0a-8986-8294019743e5

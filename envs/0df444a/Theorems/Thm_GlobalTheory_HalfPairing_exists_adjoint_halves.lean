@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfPairing_exists_adjoint_halves
 -- name    : GlobalTheory.HalfPairing.exists_adjoint_halves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:02:44.468673+00:00
 -- url     : https://prove2.me/theorems/ddf35d06-dc17-468e-856e-6678eda19cc0

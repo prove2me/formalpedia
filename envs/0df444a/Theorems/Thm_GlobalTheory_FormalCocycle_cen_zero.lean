@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCocycle_cen_zero
 -- name    : GlobalTheory.FormalCocycle.cen_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:56:46.661804+00:00
 -- url     : https://prove2.me/theorems/85c8bb09-92e4-4f11-9dde-4658776e0d7e

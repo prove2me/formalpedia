@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFam_norm_sum_aChi_sub_le
 -- name    : GlobalTheory.Hk.LFam.norm_sum_aChi_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:21:21.348854+00:00
 -- url     : https://prove2.me/theorems/755fc796-fc2d-420a-92a3-ff35e66840a9

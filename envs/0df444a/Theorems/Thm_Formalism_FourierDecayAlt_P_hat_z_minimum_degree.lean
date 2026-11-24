@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_hat_z_minimum_degree
 -- name    : Formalism.FourierDecayAlt.P.hat_z_minimum_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:38:37.285702+00:00
 -- url     : https://prove2.me/theorems/4493f80d-cf70-477c-8e31-89a8146ea2ec

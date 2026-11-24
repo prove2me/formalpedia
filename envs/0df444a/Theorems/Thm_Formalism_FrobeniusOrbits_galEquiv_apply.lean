@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_galEquiv_apply
 -- name    : Formalism.FrobeniusOrbits.galEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:22:46.303804+00:00
 -- url     : https://prove2.me/theorems/df7f0dde-eabf-4950-9175-9c673af7028f

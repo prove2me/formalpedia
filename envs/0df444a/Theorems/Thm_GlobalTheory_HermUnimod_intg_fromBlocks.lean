@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_intg_fromBlocks
 -- name    : GlobalTheory.HermUnimod.intg_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:59.850292+00:00
 -- url     : https://prove2.me/theorems/c78ad682-c42b-4a87-8260-6404a38b77b8

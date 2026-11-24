@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_BZeroGood_halfPlane_mem_nhds_zero
 -- name    : GlobalTheory.HeckeTwo.BZeroGood.halfPlane_mem_nhds_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:06:32.986025+00:00
 -- url     : https://prove2.me/theorems/56360bf1-fb11-41e9-8fef-2f92f40305ba

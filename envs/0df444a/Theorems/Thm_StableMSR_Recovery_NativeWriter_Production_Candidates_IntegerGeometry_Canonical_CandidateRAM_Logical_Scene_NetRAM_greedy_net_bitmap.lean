@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_Scene_NetRAM_greedy_net_bitmap
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.NetRAM.greedy_net_bitmap
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-24T17:26:54.407341+00:00
 -- url     : https://prove2.me/theorems/6bdcd85c-419f-4fbf-939a-5b5e2e7862f7

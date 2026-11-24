@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_blockQS_eq
 -- name    : GlobalTheory.HermFrame.blockQS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:19:15.369832+00:00
 -- url     : https://prove2.me/theorems/76e54bb0-e321-4dda-9121-9c01b0cb3151

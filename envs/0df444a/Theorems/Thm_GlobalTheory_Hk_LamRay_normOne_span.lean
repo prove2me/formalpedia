@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LamRay_normOne_span
 -- name    : GlobalTheory.Hk.LamRay.normOne_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:22:05.289309+00:00
 -- url     : https://prove2.me/theorems/32d8bb3f-b6df-41a6-94e2-6d3179d78475

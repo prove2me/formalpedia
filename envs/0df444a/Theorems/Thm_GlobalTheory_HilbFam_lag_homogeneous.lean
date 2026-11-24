@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_lag_homogeneous
 -- name    : GlobalTheory.HilbFam.lag_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:21:58.407984+00:00
 -- url     : https://prove2.me/theorems/24d86f61-2377-4c0f-a16c-a35038c7da9f

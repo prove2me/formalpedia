@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_PhiLine_line_ne_zero
 -- name    : GlobalTheory.HeckeTwo.PhiLine.line_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:05:34.044915+00:00
 -- url     : https://prove2.me/theorems/32d4409c-09c9-407f-9c7f-28898c2dfc5f

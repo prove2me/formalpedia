@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_exists_gen_descent
 -- name    : GlobalTheory.ToSplit.exists_gen_descent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:43:50.361051+00:00
 -- url     : https://prove2.me/theorems/61d3a6a6-1a2d-4692-8b2c-b2e92246dbdd

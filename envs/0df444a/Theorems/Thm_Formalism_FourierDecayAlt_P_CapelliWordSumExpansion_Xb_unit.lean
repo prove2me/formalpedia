@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliWordSumExpansion_Xb_unit
 -- name    : Formalism.FourierDecayAlt.P.CapelliWordSumExpansion.Xb_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:33:41.088578+00:00
 -- url     : https://prove2.me/theorems/6e7ac75c-a412-4cd8-b1bf-0ab7cff8dd19

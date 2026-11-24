@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_dosetOf_eq_iff
 -- name    : GlobalTheory.CompanionTheory.InertZeta.dosetOf_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:53:57.513858+00:00
 -- url     : https://prove2.me/theorems/ef0a0896-7a08-465c-bdf2-ec5ab64000db

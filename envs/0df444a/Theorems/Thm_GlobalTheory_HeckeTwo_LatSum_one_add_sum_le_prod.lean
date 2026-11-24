@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_LatSum_one_add_sum_le_prod
 -- name    : GlobalTheory.HeckeTwo.LatSum.one_add_sum_le_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:05:47.689424+00:00
 -- url     : https://prove2.me/theorems/f4e117c7-98c6-4cd5-8bdb-9a66f8a038d6

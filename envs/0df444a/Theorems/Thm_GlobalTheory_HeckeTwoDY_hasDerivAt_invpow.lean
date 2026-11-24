@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoDY_hasDerivAt_invpow
 -- name    : GlobalTheory.HeckeTwoDY.hasDerivAt_invpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:14:38.10488+00:00
 -- url     : https://prove2.me/theorems/86497c07-1e7a-4f99-a92a-5420d96837ac

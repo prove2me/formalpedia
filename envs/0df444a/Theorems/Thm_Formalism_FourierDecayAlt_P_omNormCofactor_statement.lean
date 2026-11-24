@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_omNormCofactor_statement
 -- name    : Formalism.FourierDecayAlt.P.omNormCofactor_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:56:39.248969+00:00
 -- url     : https://prove2.me/theorems/367cf796-dd54-4891-a451-b4a69d86c52d

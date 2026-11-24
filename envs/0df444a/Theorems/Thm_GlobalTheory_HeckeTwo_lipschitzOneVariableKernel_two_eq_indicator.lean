@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_lipschitzOneVariableKernel_two_eq_indicator
 -- name    : GlobalTheory.HeckeTwo.lipschitzOneVariableKernel_two_eq_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:14:25.203668+00:00
 -- url     : https://prove2.me/theorems/90d9436d-b3c9-4dfe-aa8b-21bf9cc4a9b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LamRay_lamIdeal_nonneg
 -- name    : GlobalTheory.Hk.LamRay.lamIdeal_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:22:13.598325+00:00
 -- url     : https://prove2.me/theorems/043ef452-615d-4b2a-b352-c1e56be95bd2

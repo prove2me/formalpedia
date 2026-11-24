@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_APart_inv_natPow_rpow_neg_half_even_eq_pow
 -- name    : GlobalTheory.HeckeTwo.APart.inv_natPow_rpow_neg_half_even_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:58.577818+00:00
 -- url     : https://prove2.me/theorems/6c260da6-4161-4586-9ca6-d44f8fb58da5

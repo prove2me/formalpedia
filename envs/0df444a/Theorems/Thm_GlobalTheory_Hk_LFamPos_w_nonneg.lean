@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFamPos_w_nonneg
 -- name    : GlobalTheory.Hk.LFamPos.w_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:21:28.048945+00:00
 -- url     : https://prove2.me/theorems/75c062bd-f654-4e25-9f66-1fc490706e90

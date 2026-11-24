@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_exact_all
 -- name    : Formalism.HC.HostAx.exact_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:56:10.538844+00:00
 -- url     : https://prove2.me/theorems/f10b3bd8-7a62-4c4c-b90c-d12eed273b5a

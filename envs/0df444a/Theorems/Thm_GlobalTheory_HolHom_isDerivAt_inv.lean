@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_isDerivAt_inv
 -- name    : GlobalTheory.HolHom.isDerivAt_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:36:17.943736+00:00
 -- url     : https://prove2.me/theorems/7f1b9964-5a39-45c9-85a8-42630d7963b7

@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.orderAt_ne_top_of_nonzeroOnComponents
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T17:21:52.205109+00:00
+-- url     : https://prove2.me/submissions/e341a7c7-d704-45e7-a70a-07307ecd0a57
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_BlowupProperties
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_ClopenRestriction
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_CoordinateDivisorSmoothness
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_ChartRing
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleChartExistence
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_PowerContainmentAndOrderLocus
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderAtGenericPoint
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealSheafOrder
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IrreducibleComponentsOfSupport
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_ne_bot_of_nonzeroOnComponents
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_ne_top_of_stalkIdeal_ne_bot
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open CategoryTheory Opposite AlgebraicGeometry TopologicalSpace
+noncomputable section
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+namespace FunctorialResolution.EmbeddedResolution
+theorem _root_.solution {X : Scheme.{u}} [IsLocallyNoetherian X]
+    (I : X.IdealSheafData) (hI : NonzeroOnComponents I) (x : X) : orderAt I x ≠ ⊤ :=
+  orderAt_ne_top_of_stalkIdeal_ne_bot I x (stalkIdeal_ne_bot_of_nonzeroOnComponents I hI x)
+end FunctorialResolution.EmbeddedResolution

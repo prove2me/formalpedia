@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_hasDerivAt_neg_inv_ofReal_add_I
 -- name    : GlobalTheory.HeckeTwo.hasDerivAt_neg_inv_ofReal_add_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:12:51.203628+00:00
 -- url     : https://prove2.me/theorems/9c149fcb-4580-4aae-84ea-cc81a44fa58f

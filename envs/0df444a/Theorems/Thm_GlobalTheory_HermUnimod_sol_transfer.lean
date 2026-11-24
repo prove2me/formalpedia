@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_sol_transfer
 -- name    : GlobalTheory.HermUnimod.sol_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:22.561479+00:00
 -- url     : https://prove2.me/theorems/43fd349a-74ce-4821-955f-db25880788a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Raises_eq_zero
 -- name    : GlobalTheory.BK.Raises.eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:42:57.51503+00:00
 -- url     : https://prove2.me/theorems/ef029ae6-86d9-487e-8591-852f31e4ed9b

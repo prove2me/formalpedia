@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_hasDerivAt_hI
 -- name    : GlobalTheory.HeckeTwo.HDecay.hasDerivAt_hI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:05:35.419783+00:00
 -- url     : https://prove2.me/theorems/a484d261-1cb2-45e6-8d91-b438081a24df

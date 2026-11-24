@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_J_smoothVec
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.J_smoothVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:45:38.133021+00:00
 -- url     : https://prove2.me/theorems/204a88b2-015c-4dc7-928c-6b23559f283a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolTorsion_pow_eq_one_of_weilIs
 -- name    : GlobalTheory.HolTorsion.pow_eq_one_of_weilIs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:38:35.680194+00:00
 -- url     : https://prove2.me/theorems/1a3a8376-bb3f-4deb-bc69-07d0d18934c3

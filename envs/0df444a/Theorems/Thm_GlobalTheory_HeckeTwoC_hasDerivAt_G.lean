@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoC_hasDerivAt_G
 -- name    : GlobalTheory.HeckeTwoC.hasDerivAt_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:16:01.875828+00:00
 -- url     : https://prove2.me/theorems/a19d0d8e-bedf-4f30-807d-5d9fb14ea848

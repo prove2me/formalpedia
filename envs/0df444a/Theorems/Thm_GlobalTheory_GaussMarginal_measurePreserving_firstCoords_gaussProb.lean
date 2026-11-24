@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussMarginal_measurePreserving_firstCoords_gaussProb
 -- name    : GlobalTheory.GaussMarginal.measurePreserving_firstCoords_gaussProb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:54:24.837561+00:00
 -- url     : https://prove2.me/theorems/2b117d48-3157-4275-a0bd-b676278c1b74

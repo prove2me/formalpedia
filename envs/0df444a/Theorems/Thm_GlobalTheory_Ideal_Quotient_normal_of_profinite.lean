@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ideal_Quotient_normal_of_profinite
 -- name    : GlobalTheory.Ideal.Quotient.normal_of_profinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:12:03.168271+00:00
 -- url     : https://prove2.me/theorems/ee4c6750-edf9-45fa-b404-ddca86a800f7

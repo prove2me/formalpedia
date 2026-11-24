@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermGram_reForm_symm
 -- name    : GlobalTheory.HermGram.reForm_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:19:30.933632+00:00
 -- url     : https://prove2.me/theorems/49a25dd0-bbd6-4790-9df7-fe8c8c721b46

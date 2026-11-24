@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_two_pow_dvd_ord
 -- name    : Formalism.HC.Frame.two_pow_dvd_ord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:10:03.957121+00:00
 -- url     : https://prove2.me/theorems/0ad85df2-83a0-471d-b776-d25b9cdd6fec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoUnit_phi_smul
 -- name    : GlobalTheory.HeckeTwoUnit.phi_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:15:56.436053+00:00
 -- url     : https://prove2.me/theorems/153aa89e-020d-40c3-91a1-a41ed264246e

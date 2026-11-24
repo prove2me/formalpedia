@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OperatorRepresentations_good_neg
 -- name    : Formalism.FourierDecayAlt.P.OperatorRepresentations.good_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:08:12.278995+00:00
 -- url     : https://prove2.me/theorems/64247a57-2052-4da9-a008-4acd142658d4

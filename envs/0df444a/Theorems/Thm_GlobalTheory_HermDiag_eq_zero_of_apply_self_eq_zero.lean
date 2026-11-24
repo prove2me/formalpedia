@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDiag_eq_zero_of_apply_self_eq_zero
 -- name    : GlobalTheory.HermDiag.eq_zero_of_apply_self_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:19:00.811223+00:00
 -- url     : https://prove2.me/theorems/f4a7dde1-c329-4270-8365-9f4f9326d4db

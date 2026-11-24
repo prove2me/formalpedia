@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_lat_eq_comap
 -- name    : GlobalTheory.HeckePoisson.lat_eq_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:07:28.679152+00:00
 -- url     : https://prove2.me/theorems/e640fcd9-419e-4d2c-99c1-d2d9db7fb86f

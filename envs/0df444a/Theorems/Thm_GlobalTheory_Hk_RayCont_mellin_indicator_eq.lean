@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_mellin_indicator_eq
 -- name    : GlobalTheory.Hk.RayCont.mellin_indicator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:34:50.546248+00:00
 -- url     : https://prove2.me/theorems/c6feea76-2d0c-4ca1-926d-9c9ae249a56f

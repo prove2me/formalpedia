@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_comma_descent_injective
 -- name    : GlobalTheory.T.comma_descent_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:14:57.703226+00:00
 -- url     : https://prove2.me/theorems/ffa6bca4-35be-46ad-a0cb-26e777ec9b29

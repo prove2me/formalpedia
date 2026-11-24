@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_exists_cut
 -- name    : GlobalTheory.Lyndon.exists_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:21:50.712036+00:00
 -- url     : https://prove2.me/theorems/e5b384cf-eb3a-46c5-b9a0-0ffe8c60c120

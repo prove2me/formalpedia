@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_mu_tr_eq_smul
 -- name    : GlobalTheory.HeisUnit.mu_tr_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:18:10.657745+00:00
 -- url     : https://prove2.me/theorems/5d0b865e-136e-41b6-aa27-feef73084d61

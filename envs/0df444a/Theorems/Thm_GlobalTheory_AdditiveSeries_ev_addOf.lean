@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdditiveSeries_ev_addOf
 -- name    : GlobalTheory.AdditiveSeries.ev_addOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:58:41.273388+00:00
 -- url     : https://prove2.me/theorems/6063b639-3386-4dd6-a9c8-37633d58249e

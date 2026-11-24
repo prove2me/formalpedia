@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_integration_formula_of_parts
 -- name    : Formalism.FourierDecayAlt.P.integration_formula_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:37:57.404964+00:00
 -- url     : https://prove2.me/theorems/f7e48531-ba46-4db7-8c71-18706d44b35d

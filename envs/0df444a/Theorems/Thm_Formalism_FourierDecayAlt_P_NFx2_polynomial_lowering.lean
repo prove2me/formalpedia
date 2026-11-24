@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_polynomial_lowering
 -- name    : Formalism.FourierDecayAlt.P.NFx2.polynomial_lowering
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:16:59.930055+00:00
 -- url     : https://prove2.me/theorems/91749388-e4e9-4445-a13e-285e530ff6d5

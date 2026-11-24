@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_hermMatrix_last_basis
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.hermMatrix_last_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:53:47.549946+00:00
 -- url     : https://prove2.me/theorems/31e6b8e3-eee0-406e-8deb-7fc7f2e65820

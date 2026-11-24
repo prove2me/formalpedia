@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux13_topCellsOfParts
 -- name    : Formalism.FourierDecayAlt.P.Ux13.topCellsOfParts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:24:09.713373+00:00
 -- url     : https://prove2.me/theorems/8a04a6c8-4d59-4473-83b5-5128f3f0e2ea

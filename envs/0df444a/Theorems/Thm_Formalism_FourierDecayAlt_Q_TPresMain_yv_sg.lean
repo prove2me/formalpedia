@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_yv_sg
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.yv_sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:54:29.947747+00:00
 -- url     : https://prove2.me/theorems/569cc18a-70a5-4423-9076-cb17b6c6867f

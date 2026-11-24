@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExt_coboundary_of_restrict_forms
 -- name    : GlobalTheory.CechDR.FormExt.coboundary_of_restrict_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:59:37.325229+00:00
 -- url     : https://prove2.me/theorems/764ea2ac-c589-409e-9ffc-1b31e18700e4

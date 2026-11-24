@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpDense_hom_ext_of_points
 -- name    : GlobalTheory.GrpDense.hom_ext_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:45:40.033683+00:00
 -- url     : https://prove2.me/theorems/ecf00640-3c6a-4848-b57e-b511a4b83517

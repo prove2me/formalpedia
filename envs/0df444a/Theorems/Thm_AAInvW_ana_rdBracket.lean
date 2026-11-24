@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ana_rdBracket
 -- name    : AAInvW.ana_rdBracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:29:36.443699+00:00
 -- url     : https://prove2.me/theorems/c2b2031d-8a6c-400e-a3e8-70ffdd662e57

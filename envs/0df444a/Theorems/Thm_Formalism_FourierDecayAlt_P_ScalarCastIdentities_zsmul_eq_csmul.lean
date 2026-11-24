@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_zsmul_eq_csmul
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.zsmul_eq_csmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:12:53.067887+00:00
 -- url     : https://prove2.me/theorems/faca3ad5-0e08-445d-8ee7-6da8f0d79526

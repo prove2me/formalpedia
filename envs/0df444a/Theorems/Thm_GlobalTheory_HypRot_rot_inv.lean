@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HypRot_rot_inv
 -- name    : GlobalTheory.HypRot.rot_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:12:55.824858+00:00
 -- url     : https://prove2.me/theorems/a3bf5843-e043-4f04-a19e-e4291e25d3ca

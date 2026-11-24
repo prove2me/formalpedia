@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_schur_conj
 -- name    : GlobalTheory.HermUnimod.schur_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:11.834303+00:00
 -- url     : https://prove2.me/theorems/afa8210a-bd8b-409f-9b2f-fb5cba8485b3

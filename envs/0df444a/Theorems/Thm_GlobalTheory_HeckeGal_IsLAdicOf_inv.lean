@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_IsLAdicOf_inv
 -- name    : GlobalTheory.HeckeGal.IsLAdicOf.inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:14:22.283013+00:00
 -- url     : https://prove2.me/theorems/d1e77f71-36e2-4817-8f72-29a2b08025b0

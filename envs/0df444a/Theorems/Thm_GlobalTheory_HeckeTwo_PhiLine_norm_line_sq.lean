@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_PhiLine_norm_line_sq
 -- name    : GlobalTheory.HeckeTwo.PhiLine.norm_line_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:07:51.83685+00:00
 -- url     : https://prove2.me/theorems/5c2a919d-cb2d-4141-b67f-ea5e3712db5f

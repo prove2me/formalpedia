@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_norm_form_mulVec_le
 -- name    : GlobalTheory.HermFrame.norm_form_mulVec_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:19:14.903819+00:00
 -- url     : https://prove2.me/theorems/655a2737-9f79-4d34-9304-1956aca0dcea

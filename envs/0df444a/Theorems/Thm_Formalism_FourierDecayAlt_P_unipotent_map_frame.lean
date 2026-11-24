@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_map_frame
 -- name    : Formalism.FourierDecayAlt.P.unipotent_map_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:48:58.284174+00:00
 -- url     : https://prove2.me/theorems/fba55b89-c319-4133-ac82-133eec152d52

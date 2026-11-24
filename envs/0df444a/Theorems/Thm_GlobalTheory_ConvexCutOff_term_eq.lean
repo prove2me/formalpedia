@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvexCutOff_term_eq
 -- name    : GlobalTheory.ConvexCutOff.term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:49.523464+00:00
 -- url     : https://prove2.me/theorems/6ffded8f-657c-44d8-a6e5-0d156e2ba1e6

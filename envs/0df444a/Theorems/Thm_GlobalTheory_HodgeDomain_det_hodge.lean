@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeDomain_det_hodge
 -- name    : GlobalTheory.HodgeDomain.det_hodge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:37:06.563807+00:00
 -- url     : https://prove2.me/theorems/57298283-eed7-462f-aabc-0bf43a501546

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_hermC_eq
 -- name    : GlobalTheory.HermSign.hermC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:11.886183+00:00
 -- url     : https://prove2.me/theorems/da64136e-7b41-4fd7-89e5-91036c5f7ae4

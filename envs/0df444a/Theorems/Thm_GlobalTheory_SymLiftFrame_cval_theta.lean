@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftFrame_cval_theta
 -- name    : GlobalTheory.SymLiftFrame.cval_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:55:59.657183+00:00
 -- url     : https://prove2.me/theorems/ea9869c8-dfcc-426b-a978-05e8cd8f6252

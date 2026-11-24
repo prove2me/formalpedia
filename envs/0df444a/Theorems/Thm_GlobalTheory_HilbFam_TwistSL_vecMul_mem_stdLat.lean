@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_TwistSL_vecMul_mem_stdLat
 -- name    : GlobalTheory.HilbFam.TwistSL.vecMul_mem_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:20:55.240979+00:00
 -- url     : https://prove2.me/theorems/35b317ca-fb87-4859-835e-e1b2762ed692

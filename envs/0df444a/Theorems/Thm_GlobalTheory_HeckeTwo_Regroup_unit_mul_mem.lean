@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_Regroup_unit_mul_mem
 -- name    : GlobalTheory.HeckeTwo.Regroup.unit_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:43.581952+00:00
 -- url     : https://prove2.me/theorems/804aab75-ed17-4168-9e61-db8405b43eee

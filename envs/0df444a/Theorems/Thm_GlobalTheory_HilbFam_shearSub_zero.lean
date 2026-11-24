@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_shearSub_zero
 -- name    : GlobalTheory.HilbFam.shearSub_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:22:39.205886+00:00
 -- url     : https://prove2.me/theorems/a0be7bdd-9b70-42c8-b621-cdfd84f3ead9

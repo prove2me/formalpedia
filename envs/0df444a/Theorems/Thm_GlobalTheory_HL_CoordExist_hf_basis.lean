@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordExist_hf_basis
 -- name    : GlobalTheory.HL.CoordExist.hf_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:59:05.932186+00:00
 -- url     : https://prove2.me/theorems/0ba3bfa6-3288-40c7-a8f2-fbab0ef7e307

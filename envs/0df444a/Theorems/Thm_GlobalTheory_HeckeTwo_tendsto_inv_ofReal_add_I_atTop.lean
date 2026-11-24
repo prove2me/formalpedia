@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_tendsto_inv_ofReal_add_I_atTop
 -- name    : GlobalTheory.HeckeTwo.tendsto_inv_ofReal_add_I_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:12:41.209847+00:00
 -- url     : https://prove2.me/theorems/e2f65130-65be-424c-91b7-12e99e4c8688

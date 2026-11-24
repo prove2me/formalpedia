@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_ProdImWirt_hasFDerivAt_logIm
 -- name    : GlobalTheory.HeckeTwo.ProdImWirt.hasFDerivAt_logIm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:06:44.659236+00:00
 -- url     : https://prove2.me/theorems/3fa61209-d0ce-4dba-b0f6-6c74787bf66f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadRing_quad_ring
 -- name    : GlobalTheory.CompanionTheory.SW.QuadRing.quad_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:03:12.230859+00:00
 -- url     : https://prove2.me/theorems/439fcb35-d47d-463f-8cc8-c413cf3dc93c

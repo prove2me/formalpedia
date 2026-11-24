@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RaySq_chi_one
 -- name    : GlobalTheory.Hk.RaySq.chi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:37:46.461844+00:00
 -- url     : https://prove2.me/theorems/86cb8dcb-4208-41c6-a6a9-0a172dd1de66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_exists_unit_coord
 -- name    : GlobalTheory.CompanionTheory.InertCoset.exists_unit_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:02:01.017515+00:00
 -- url     : https://prove2.me/theorems/79959dbd-6b7c-4a65-a5c7-087e9d01c925

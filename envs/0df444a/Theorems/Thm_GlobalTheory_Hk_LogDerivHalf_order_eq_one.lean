@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LogDerivHalf_order_eq_one
 -- name    : GlobalTheory.Hk.LogDerivHalf.order_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:35:14.174334+00:00
 -- url     : https://prove2.me/theorems/2f2ff736-1a3e-4303-818b-e61766413b01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_integrableOn_wt
 -- name    : GlobalTheory.Hk.RealChar.integrableOn_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:52.579632+00:00
 -- url     : https://prove2.me/theorems/101ebdd4-b14f-4914-bda3-00f3bf246fa5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_mem_KU_iff
 -- name    : GlobalTheory.SatakeWeyl.mem_KU_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:12:26.056147+00:00
 -- url     : https://prove2.me/theorems/e1b5c0ed-901f-4d8e-9116-a86308b9cbad

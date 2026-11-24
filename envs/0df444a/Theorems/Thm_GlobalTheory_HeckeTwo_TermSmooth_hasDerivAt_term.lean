@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermSmooth_hasDerivAt_term
 -- name    : GlobalTheory.HeckeTwo.TermSmooth.hasDerivAt_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:54.647486+00:00
 -- url     : https://prove2.me/theorems/63927765-f228-4e2a-bb6b-90ba6384c2e9

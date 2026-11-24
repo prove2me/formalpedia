@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_Dw_add
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.Dw_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:25:14.127086+00:00
 -- url     : https://prove2.me/theorems/89d1e45e-295e-4e3b-9973-db8d2949974e

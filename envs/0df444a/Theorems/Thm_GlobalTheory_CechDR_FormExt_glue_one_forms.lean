@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExt_glue_one_forms
 -- name    : GlobalTheory.CechDR.FormExt.glue_one_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:36:21.388854+00:00
 -- url     : https://prove2.me/theorems/858e25ff-570b-4ff6-b06f-872aad2eab32

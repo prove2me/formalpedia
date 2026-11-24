@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_not_mem_int_of_ne
 -- name    : GlobalTheory.HeisUnit.not_mem_int_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:17:48.118811+00:00
 -- url     : https://prove2.me/theorems/e2a83308-145a-4a39-b0b9-f0ad295045d5

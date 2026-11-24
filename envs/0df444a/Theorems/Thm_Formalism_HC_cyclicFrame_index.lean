@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_cyclicFrame_index
 -- name    : Formalism.HC.cyclicFrame_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:50:27.825352+00:00
 -- url     : https://prove2.me/theorems/b6fc8bc5-88e9-411b-8754-89cfb3d06611

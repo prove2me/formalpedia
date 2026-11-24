@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoUnit_prod_abs_unit_cpow
 -- name    : GlobalTheory.HeckeTwoUnit.prod_abs_unit_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:16:25.554534+00:00
 -- url     : https://prove2.me/theorems/a9230e07-29ea-4a29-9223-dcaa126a2e7d

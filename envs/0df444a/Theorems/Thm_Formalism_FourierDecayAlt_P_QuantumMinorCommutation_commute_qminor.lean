@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_QuantumMinorCommutation_commute_qminor
 -- name    : Formalism.FourierDecayAlt.P.QuantumMinorCommutation.commute_qminor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:09:37.042385+00:00
 -- url     : https://prove2.me/theorems/eb358365-4c92-482c-be65-9d3d1a08765d
