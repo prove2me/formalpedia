@@ -417,7 +417,7 @@
 {"parent": "SmoothedNash.theorem_2_2", "child": "SmoothedNash_runTime", "via": ["statement"]}
 {"parent": "QPSpinParisi_Dctrl", "child": "QPSpinParisi_BrownianNoise_filt", "via": ["statement"]}
 {"parent": "QPSpinParisi_Dctrl", "child": "QPSpinParisi_E3", "via": ["statement"]}
-{"parent": "PackingLPAccel.lemma_5_12", "child": "PackingLPAccel_Proxy", "via": ["statement"]}
+{"parent": "PackingLPAccel.lemma_5_12", "child": "PackingLPAccel_Proxy", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HypergraphProduct.wordTensorEquiv_tmul_apply", "child": "QEC_Coding_HypergraphProduct_Dimension_Coordinates", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HypergraphProduct.wordTensorEquiv_tmul_apply", "child": "QEC_Coding_ChainComplex_Duality", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HypergraphProduct.wordTensorEquiv_tmul_apply", "child": "QEC_Coding_HypergraphProduct_Dimension_Realization", "via": ["solution", "statement"]}

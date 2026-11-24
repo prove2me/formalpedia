@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatThickenings_flat_of_flat_quotient
 -- name    : GlobalTheory.FlatThickenings.flat_of_flat_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:33:01.974095+00:00
 -- url     : https://prove2.me/theorems/b18bb131-bc08-419a-9fc6-d91e16558773

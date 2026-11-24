@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_etaleChartCoordIdeal_le
 -- name    : FunctorialResolution.EmbeddedResolution.etaleChartCoordIdeal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:35:25.315968+00:00
 -- url     : https://prove2.me/theorems/46a222c0-f828-40f4-9923-d705e4a85383

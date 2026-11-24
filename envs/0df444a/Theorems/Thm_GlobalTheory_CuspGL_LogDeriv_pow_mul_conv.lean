@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_LogDeriv_pow_mul_conv
 -- name    : GlobalTheory.CuspGL.LogDeriv.pow_mul_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:30.624028+00:00
 -- url     : https://prove2.me/theorems/ff33e54c-791a-4309-adce-8e30c4bdc8b9

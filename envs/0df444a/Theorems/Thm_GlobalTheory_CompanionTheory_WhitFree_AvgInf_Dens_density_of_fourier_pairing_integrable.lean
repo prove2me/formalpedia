@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WhitFree_AvgInf_Dens_density_of_fourier_pairing_integrable
 -- name    : GlobalTheory.CompanionTheory.WhitFree.AvgInf.Dens.density_of_fourier_pairing_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:24:19.265513+00:00
 -- url     : https://prove2.me/theorems/4bd178c8-c1d1-4751-9f51-63c0afeba4e0

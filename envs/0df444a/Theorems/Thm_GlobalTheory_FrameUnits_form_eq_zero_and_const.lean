@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnits_form_eq_zero_and_const
 -- name    : GlobalTheory.FrameUnits.form_eq_zero_and_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:36:24.61962+00:00
 -- url     : https://prove2.me/theorems/2bc47a09-4ce0-415b-8cc0-57ac6439ae47

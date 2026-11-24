@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs3_cont_sum
 -- name    : Formalism.FourierDecayAlt.P.JFxDs3.cont_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:32:24.030097+00:00
 -- url     : https://prove2.me/theorems/a33b3374-ac88-4772-9380-8284e5bbaf9f

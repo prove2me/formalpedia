@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_isExtension_pullOver
 -- name    : GlobalTheory.FieldBaseChange.isExtension_pullOver
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:15:58.851738+00:00
 -- url     : https://prove2.me/theorems/2351e291-3d8d-4925-a62d-550f3d5a6be0

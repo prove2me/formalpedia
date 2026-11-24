@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_coeff_subst_sumFamily_mem
 -- name    : GlobalTheory.FormalInv.coeff_subst_sumFamily_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:34:33.190742+00:00
 -- url     : https://prove2.me/theorems/be9b7b5b-0894-42f2-a26b-1212a1106004

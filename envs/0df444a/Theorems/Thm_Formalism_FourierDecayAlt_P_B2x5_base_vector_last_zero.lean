@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_base_vector_last_zero
 -- name    : Formalism.FourierDecayAlt.P.B2x5.base_vector_last_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:59:47.515074+00:00
 -- url     : https://prove2.me/theorems/55b902c5-f8de-4e43-9f36-a0581a2058d7

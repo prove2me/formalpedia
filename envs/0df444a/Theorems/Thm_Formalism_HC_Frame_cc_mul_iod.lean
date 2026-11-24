@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_cc_mul_iod
 -- name    : Formalism.HC.Frame.cc_mul_iod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:33:58.853978+00:00
 -- url     : https://prove2.me/theorems/d6e0b743-f6dd-4722-8093-031958102d69

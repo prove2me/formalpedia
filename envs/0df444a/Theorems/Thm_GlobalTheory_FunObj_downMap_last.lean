@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_downMap_last
 -- name    : GlobalTheory.FunObj.downMap_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:42:18.749658+00:00
 -- url     : https://prove2.me/theorems/70e25114-d629-4875-b97b-a942a241d5ca

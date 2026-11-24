@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_eT_compl_mul
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.eT_compl_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:35:59.764556+00:00
 -- url     : https://prove2.me/theorems/1a82ecb2-2711-4ac9-8e1e-c4151865d8fa

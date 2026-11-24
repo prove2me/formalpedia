@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLFirstColumn_wt_cancel
 -- name    : GlobalTheory.GLFirstColumn.wt_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:27.63426+00:00
 -- url     : https://prove2.me/theorems/0d7affa0-2f53-4d66-bd27-161b905abb68

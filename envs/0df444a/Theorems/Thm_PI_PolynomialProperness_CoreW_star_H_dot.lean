@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_star_H_dot
 -- name    : PI.PolynomialProperness.CoreW.star_H_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:38:51.396645+00:00
 -- url     : https://prove2.me/theorems/493a280f-7467-4511-b839-57a0a611bcb8

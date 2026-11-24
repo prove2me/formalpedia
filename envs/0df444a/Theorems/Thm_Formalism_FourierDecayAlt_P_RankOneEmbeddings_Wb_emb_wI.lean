@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_Wb_emb_wI
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.Wb.emb_wI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:47:43.320718+00:00
 -- url     : https://prove2.me/theorems/0f73a1e4-1bfc-4379-b6b7-7cba1d9b1e67

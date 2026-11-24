@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_exp_convolution_limit
 -- name    : Kyprianou.Ch08.StageB.p2m85_exp_convolution_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T15:13:32.834675+00:00
 -- url     : https://prove2.me/theorems/9b7ec1ae-c985-49a8-9fa9-6f7e98c9a0ee

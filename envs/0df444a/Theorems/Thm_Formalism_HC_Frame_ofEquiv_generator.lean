@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_ofEquiv_generator
 -- name    : Formalism.HC.Frame.ofEquiv_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:49:50.410867+00:00
 -- url     : https://prove2.me/theorems/66cfae12-0fdd-4859-8c1d-a396c338ae60

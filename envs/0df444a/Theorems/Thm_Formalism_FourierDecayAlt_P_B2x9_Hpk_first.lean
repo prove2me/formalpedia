@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_Hpk_first
 -- name    : Formalism.FourierDecayAlt.P.B2x9.Hpk_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:44:35.836012+00:00
 -- url     : https://prove2.me/theorems/d81e8ff8-dd9c-464a-8315-3482792fbe4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_good_zero
 -- name    : Formalism.FourierDecayAlt.P.Qx2.good_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:09:40.746479+00:00
 -- url     : https://prove2.me/theorems/21a095fb-536f-4d7c-b8bf-fed387209fe1

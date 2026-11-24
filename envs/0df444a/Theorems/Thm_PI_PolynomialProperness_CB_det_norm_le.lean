@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CB_det_norm_le
 -- name    : PI.PolynomialProperness.CB.det_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:39:05.420132+00:00
 -- url     : https://prove2.me/theorems/9c2e6947-8eef-4a0e-bb84-c0af0b6e5f4b

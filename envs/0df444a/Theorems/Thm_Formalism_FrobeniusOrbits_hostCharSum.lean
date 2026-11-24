@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hostCharSum
 -- name    : Formalism.FrobeniusOrbits.hostCharSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:11:17.846807+00:00
 -- url     : https://prove2.me/theorems/3814019d-2f0b-48f4-b30e-2477c997d4d5

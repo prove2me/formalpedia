@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_existsUnique_comb_matrix
 -- name    : GlobalTheory.Frames.existsUnique_comb_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:39:42.161982+00:00
 -- url     : https://prove2.me/theorems/200baadf-bbc8-434f-b526-eca135abb52b

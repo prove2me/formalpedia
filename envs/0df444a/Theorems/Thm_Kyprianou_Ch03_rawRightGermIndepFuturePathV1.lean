@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_rawRightGermIndepFuturePathV1
 -- name    : Kyprianou.Ch03.rawRightGermIndepFuturePathV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:24:59.740933+00:00
 -- url     : https://prove2.me/theorems/187ee402-4a86-494d-b6e1-72f4be49e0e0

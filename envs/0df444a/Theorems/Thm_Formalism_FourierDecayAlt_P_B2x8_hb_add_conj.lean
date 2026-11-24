@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_hb_add_conj
 -- name    : Formalism.FourierDecayAlt.P.B2x8.hb_add_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:57:09.794824+00:00
 -- url     : https://prove2.me/theorems/39fd1e72-9520-451c-9dd1-9e6fe9d7fa0c

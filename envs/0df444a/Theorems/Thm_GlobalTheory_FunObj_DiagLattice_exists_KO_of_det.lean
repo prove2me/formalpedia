@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_DiagLattice_exists_KO_of_det
 -- name    : GlobalTheory.FunObj.DiagLattice.exists_KO_of_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:20.447409+00:00
 -- url     : https://prove2.me/theorems/e46356ed-fa45-4c44-b334-d0d5b2270391

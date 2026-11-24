@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_JFxDs3_unit_lr__0fb147390fef
 -- name    : P2M_Formalism_FourierDecayAlt_P_JFxDs3_unit_lr__0fb147390fef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:37:51.379576+00:00
 -- url     : https://prove2.me/theorems/06bb3931-867f-4c0b-90e3-9bce39822316

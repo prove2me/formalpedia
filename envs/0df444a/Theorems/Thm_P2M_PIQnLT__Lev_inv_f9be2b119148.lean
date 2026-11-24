@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PIQnLT__Lev_inv_f9be2b119148
 -- name    : P2M_PIQnLT__Lev_inv_f9be2b119148
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:39:19.326543+00:00
 -- url     : https://prove2.me/theorems/6ce50e5d-72fa-41c1-8413-34b7aef71781

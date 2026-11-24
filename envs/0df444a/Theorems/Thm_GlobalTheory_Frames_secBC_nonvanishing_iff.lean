@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_secBC_nonvanishing_iff
 -- name    : GlobalTheory.Frames.secBC_nonvanishing_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:32.122807+00:00
 -- url     : https://prove2.me/theorems/a50a18d7-fa48-4585-b827-fc3ea15c6a9a

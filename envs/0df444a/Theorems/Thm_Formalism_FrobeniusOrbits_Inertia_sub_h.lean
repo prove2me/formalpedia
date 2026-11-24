@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Inertia_sub_h
 -- name    : Formalism.FrobeniusOrbits.Inertia.sub_h
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:11:36.924026+00:00
 -- url     : https://prove2.me/theorems/c47a09eb-fe58-4ed0-b814-369af8d98a0a

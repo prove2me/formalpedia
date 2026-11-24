@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_L_mulVec
 -- name    : PI.StabSplit.L_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:47:06.952696+00:00
 -- url     : https://prove2.me/theorems/9fb737aa-eb1e-4a8d-bbcf-c064b3bd77c1

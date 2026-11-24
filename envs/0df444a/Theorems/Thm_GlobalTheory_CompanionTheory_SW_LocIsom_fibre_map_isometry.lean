@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocIsom_fibre_map_isometry
 -- name    : GlobalTheory.CompanionTheory.SW.LocIsom.fibre_map_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:07:42.994804+00:00
 -- url     : https://prove2.me/theorems/c76038bc-c03c-4287-8185-10f24e847ae7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePull_ev_comp1
 -- name    : GlobalTheory.FramePull.ev_comp1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:55:39.404573+00:00
 -- url     : https://prove2.me/theorems/48317c99-923f-42f3-8ba1-1b90b6791b3c

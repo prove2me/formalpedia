@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalSeries_existsUnique_fixedPoint
 -- name    : GlobalTheory.FormalSeries.existsUnique_fixedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:36:02.996629+00:00
 -- url     : https://prove2.me/theorems/996dd12c-8e14-4de5-bbfc-2a87a37e5a8c

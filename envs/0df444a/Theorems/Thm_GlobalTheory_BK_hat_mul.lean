@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_hat_mul
 -- name    : GlobalTheory.BK.hat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:31:30.511011+00:00
 -- url     : https://prove2.me/theorems/7e3b4fa7-dcae-4a6e-8d03-b19d0daae051

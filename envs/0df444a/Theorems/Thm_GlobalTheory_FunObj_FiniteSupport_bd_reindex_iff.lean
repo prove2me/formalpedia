@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_bd_reindex_iff
 -- name    : GlobalTheory.FunObj.FiniteSupport.bd_reindex_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:40:54.314748+00:00
 -- url     : https://prove2.me/theorems/d77c41fa-8b6c-42f1-9e5f-5db3d6178948

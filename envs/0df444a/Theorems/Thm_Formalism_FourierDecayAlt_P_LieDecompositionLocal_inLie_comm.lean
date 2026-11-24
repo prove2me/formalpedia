@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LieDecompositionLocal_inLie_comm
 -- name    : Formalism.FourierDecayAlt.P.LieDecompositionLocal.inLie_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:47:16.31244+00:00
 -- url     : https://prove2.me/theorems/ee6c5a6d-92db-4447-8ccb-9ccb33b1df65

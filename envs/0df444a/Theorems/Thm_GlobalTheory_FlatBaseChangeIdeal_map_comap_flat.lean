@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatBaseChangeIdeal_map_comap_flat
 -- name    : GlobalTheory.FlatBaseChangeIdeal.map_comap_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:31:21.813799+00:00
 -- url     : https://prove2.me/theorems/817fdb5b-b51e-45de-a85c-90ee73b0924a

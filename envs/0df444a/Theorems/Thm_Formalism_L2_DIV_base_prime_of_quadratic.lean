@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_base_prime_of_quadratic
 -- name    : Formalism.L2.DIV.base_prime_of_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:22:10.860402+00:00
 -- url     : https://prove2.me/theorems/16ae10b8-8518-4d43-8177-131c5eeee1cb

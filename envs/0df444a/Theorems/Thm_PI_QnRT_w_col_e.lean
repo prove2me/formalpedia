@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_w_col_e
 -- name    : PI.QnRT.w_col_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:40:44.947178+00:00
 -- url     : https://prove2.me/theorems/8678c9d3-4905-43e9-8713-b7b4db534a94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_placeOf_snd
 -- name    : Formalism.HC.Frame.placeOf_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:35:28.098827+00:00
 -- url     : https://prove2.me/theorems/50bd4b45-3294-42e3-9243-cd70cd7b1d59

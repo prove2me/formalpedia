@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_conjInv
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.conjInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:05:45.671984+00:00
 -- url     : https://prove2.me/theorems/28ab145d-c241-4a3a-ba18-67c02e1ef42f

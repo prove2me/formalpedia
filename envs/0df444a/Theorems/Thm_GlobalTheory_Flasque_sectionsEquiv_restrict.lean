@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Flasque_sectionsEquiv_restrict
 -- name    : GlobalTheory.Flasque.sectionsEquiv_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:31:13.60653+00:00
 -- url     : https://prove2.me/theorems/9411d9f5-c51a-4aa3-b1d1-f26f80a15063

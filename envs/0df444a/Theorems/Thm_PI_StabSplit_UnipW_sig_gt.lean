@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_UnipW_sig_gt
 -- name    : PI.StabSplit.UnipW.sig_gt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:47:07.234249+00:00
 -- url     : https://prove2.me/theorems/ef3ea755-5175-4a6c-9015-081263d08b21

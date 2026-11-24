@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_mem_perp
 -- name    : GlobalTheory.UnitarySwap.mem_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:46:59.315721+00:00
 -- url     : https://prove2.me/theorems/c64f6eb8-fb2a-4396-90fd-656477417a1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_midLev_lt_of_symLev_lt
 -- name    : GlobalTheory.FunObj.FiniteSupport.midLev_lt_of_symLev_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:43:05.954177+00:00
 -- url     : https://prove2.me/theorems/feb17160-07f8-4b37-b081-1456010303ec

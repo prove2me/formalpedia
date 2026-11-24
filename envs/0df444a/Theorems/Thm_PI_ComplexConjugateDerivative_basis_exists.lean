@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_basis_exists
 -- name    : PI.ComplexConjugateDerivative.basis_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:38:17.201173+00:00
 -- url     : https://prove2.me/theorems/8d1211fc-bb18-4afb-a38e-7cb3395935cc

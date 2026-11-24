@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_deg_cmul
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.deg_cmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:30:49.496847+00:00
 -- url     : https://prove2.me/theorems/edfbedeb-3a84-4515-b72a-f65b0cc8f99e

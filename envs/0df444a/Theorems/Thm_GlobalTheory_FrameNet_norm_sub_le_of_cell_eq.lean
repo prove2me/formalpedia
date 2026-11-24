@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_norm_sub_le_of_cell_eq
 -- name    : GlobalTheory.FrameNet.norm_sub_le_of_cell_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:37:36.915929+00:00
 -- url     : https://prove2.me/theorems/cfb0e6d3-56f9-47fd-af09-d5e7b90835fa

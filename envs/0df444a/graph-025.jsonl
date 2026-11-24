@@ -28277,7 +28277,7 @@
 {"parent": "AvramDividend.Classical.avram_ubv_finite13_original_stopped_gaussian_increment_second_moment_difference", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "TestingEstimation.Dense.penalized_minimum", "child": "TestingEstimation_Dense_Objective", "via": ["statement"]}
 {"parent": "QStateSearch_bitsBefore", "child": "QStateSearch_Step", "via": ["statement"]}
-{"parent": "AlmostKing.Query.lemma_14", "child": "AlmostKing_Query_Regularity", "via": ["statement"]}
+{"parent": "AlmostKing.Query.lemma_14", "child": "AlmostKing_Query_Regularity", "via": ["solution", "statement"]}
 {"parent": "CorrelatedAuctionComplexity.Main.singleton_payoff_difference", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.mpower0_3_r4_eq_g", "child": "OAIQ098G1464", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.mpower0_3_r4_eq_g", "child": "OAIQ098G431", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_closedHitApproximationAELimitV1
 -- name    : Kyprianou.Ch03.closedHitApproximationAELimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:08:31.101031+00:00
 -- url     : https://prove2.me/theorems/dcfd123c-ffbd-46b9-aae7-87cfae8c104d

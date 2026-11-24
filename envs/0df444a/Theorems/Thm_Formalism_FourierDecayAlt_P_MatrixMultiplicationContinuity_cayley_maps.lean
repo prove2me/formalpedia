@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_cayley_maps
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.cayley_maps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:49:30.268346+00:00
 -- url     : https://prove2.me/theorems/80628ae6-dbf4-4808-9bf4-93002d7dc9cf

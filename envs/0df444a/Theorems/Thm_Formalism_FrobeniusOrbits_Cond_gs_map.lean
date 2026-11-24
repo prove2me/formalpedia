@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_gs_map
 -- name    : Formalism.FrobeniusOrbits.Cond.gs_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:11:46.229798+00:00
 -- url     : https://prove2.me/theorems/bd2589da-7cb5-4c39-af0b-e9672b71a2d2

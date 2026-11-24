@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_eT_orth
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.eT_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:34:51.697605+00:00
 -- url     : https://prove2.me/theorems/f670a1ef-2069-4a30-98d7-126741698b80

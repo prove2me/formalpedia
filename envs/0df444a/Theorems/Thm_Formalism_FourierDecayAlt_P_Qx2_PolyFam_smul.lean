@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_PolyFam_smul
 -- name    : Formalism.FourierDecayAlt.P.Qx2.PolyFam.smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:09:52.704434+00:00
 -- url     : https://prove2.me/theorems/dadba773-6a0a-442f-b98c-f018f14b6da7

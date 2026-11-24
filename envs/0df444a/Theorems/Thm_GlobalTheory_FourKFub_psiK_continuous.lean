@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourKFub_psiK_continuous
 -- name    : GlobalTheory.FourKFub.psiK_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:51:40.437816+00:00
 -- url     : https://prove2.me/theorems/82ad611f-7150-4a56-b3d2-3ad7c016124e

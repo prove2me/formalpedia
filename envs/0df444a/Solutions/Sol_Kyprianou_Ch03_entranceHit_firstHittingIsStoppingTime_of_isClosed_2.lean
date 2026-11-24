@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime_of_isClosed
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T10:49:57.07644+00:00
 -- url     : https://prove2.me/submissions/6bc5cf63-4253-4cde-a71d-eb0f59685b7e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

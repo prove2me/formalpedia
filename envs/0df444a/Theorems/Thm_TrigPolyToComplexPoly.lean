@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TrigPolyToComplexPoly
 -- name    : TrigPolyToComplexPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:14:51.603114+00:00
 -- url     : https://prove2.me/theorems/2c0cdee1-8765-4f5c-b332-efcccce1dc49

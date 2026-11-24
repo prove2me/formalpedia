@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_continuous_phase
 -- name    : GlobalTheory.FunObj.continuous_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:42:03.555796+00:00
 -- url     : https://prove2.me/theorems/cc0df6c8-91b9-494a-bac9-51708ba273b8

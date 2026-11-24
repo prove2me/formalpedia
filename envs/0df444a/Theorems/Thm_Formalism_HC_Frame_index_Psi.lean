@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_index_Psi
 -- name    : Formalism.HC.Frame.index_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:34:25.830799+00:00
 -- url     : https://prove2.me/theorems/92cbf6c7-5efc-44f1-89e4-7c2a200d777c

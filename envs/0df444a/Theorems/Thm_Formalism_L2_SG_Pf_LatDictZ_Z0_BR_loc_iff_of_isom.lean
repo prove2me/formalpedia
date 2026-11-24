@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_BR_loc_iff_of_isom
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.BR.loc_iff_of_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:37:10.909625+00:00
 -- url     : https://prove2.me/theorems/ea17332b-3eb4-4a0b-8b11-ab66afe6105b

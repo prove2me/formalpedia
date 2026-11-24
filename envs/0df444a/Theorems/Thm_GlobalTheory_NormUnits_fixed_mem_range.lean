@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormUnits_fixed_mem_range
 -- name    : GlobalTheory.NormUnits.fixed_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:36:42.271145+00:00
 -- url     : https://prove2.me/theorems/1550fdc5-b7af-436a-89c9-daeedbe3f0f1

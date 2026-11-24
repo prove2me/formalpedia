@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_mem_sq_of_dvd_QS
 -- name    : Formalism.HC.HostAx.mem_sq_of_dvd_QS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:28:56.113752+00:00
 -- url     : https://prove2.me/theorems/1430d246-3733-4798-a26f-040b08e9a21c

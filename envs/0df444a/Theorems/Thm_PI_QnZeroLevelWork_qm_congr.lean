@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnZeroLevelWork_qm_congr
 -- name    : PI.QnZeroLevelWork.qm_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:47:46.27429+00:00
 -- url     : https://prove2.me/theorems/d03ebf4e-222f-4de8-b86c-db94ed1fec5b

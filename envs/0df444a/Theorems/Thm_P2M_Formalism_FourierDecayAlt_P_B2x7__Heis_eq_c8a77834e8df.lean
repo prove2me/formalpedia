@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B2x7__Heis_eq_c8a77834e8df
 -- name    : P2M_Formalism_FourierDecayAlt_P_B2x7__Heis_eq_c8a77834e8df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:38:38.497605+00:00
 -- url     : https://prove2.me/theorems/1978f747-8c16-405a-ace6-2473c4fd3e43

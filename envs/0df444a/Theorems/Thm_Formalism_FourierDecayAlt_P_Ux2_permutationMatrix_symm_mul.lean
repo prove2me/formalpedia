@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_permutationMatrix_symm_mul
 -- name    : Formalism.FourierDecayAlt.P.Ux2.permutationMatrix_symm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:51:10.753269+00:00
 -- url     : https://prove2.me/theorems/64060e3e-ed21-4fd9-80ec-021019449f12

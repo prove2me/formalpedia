@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux4_ux_zjAffine
 -- name    : Formalism.FourierDecayAlt.P.Ux4.ux_zjAffine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:53:04.519062+00:00
 -- url     : https://prove2.me/theorems/8e72690b-44b4-4b66-92f5-94a8c4b0e732

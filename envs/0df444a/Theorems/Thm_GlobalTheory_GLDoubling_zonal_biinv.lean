@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_zonal_biinv
 -- name    : GlobalTheory.GLDoubling.zonal_biinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:48:13.571155+00:00
 -- url     : https://prove2.me/theorems/f3b5cc7c-ed26-490b-a048-c36d46a9d8ef

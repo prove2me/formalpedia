@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_oneStep_eq
 -- name    : Formalism.FourierDecayAlt.P.B2x9.oneStep_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:43:07.005841+00:00
 -- url     : https://prove2.me/theorems/75ead635-a2a3-43d0-9e44-e17c0530b581

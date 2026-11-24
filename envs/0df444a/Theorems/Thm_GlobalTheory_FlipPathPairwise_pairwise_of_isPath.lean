@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlipPathPairwise_pairwise_of_isPath
 -- name    : GlobalTheory.FlipPathPairwise.pairwise_of_isPath
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:32:44.868781+00:00
 -- url     : https://prove2.me/theorems/e258ce50-ceae-4ebf-803a-410b1e40f829

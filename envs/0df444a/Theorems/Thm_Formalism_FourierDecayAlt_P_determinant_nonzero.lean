@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_determinant_nonzero
 -- name    : Formalism.FourierDecayAlt.P.determinant_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:33:27.462344+00:00
 -- url     : https://prove2.me/theorems/9c9ed86a-02d7-454a-8f5f-a975b4585a69

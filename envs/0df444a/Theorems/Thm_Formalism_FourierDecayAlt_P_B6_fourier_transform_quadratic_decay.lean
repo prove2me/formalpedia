@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_fourier_transform_quadratic_decay
 -- name    : Formalism.FourierDecayAlt.P.B6.fourier_transform_quadratic_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:05:45.499987+00:00
 -- url     : https://prove2.me/theorems/67bc2920-11a7-4b40-b2bb-48e8a5a77efb

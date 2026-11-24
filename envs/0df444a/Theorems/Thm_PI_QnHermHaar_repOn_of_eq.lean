@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_repOn_of_eq
 -- name    : PI.QnHermHaar.repOn_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:49:28.766291+00:00
 -- url     : https://prove2.me/theorems/3a903521-3f35-4d93-b210-ed94c082b1d4

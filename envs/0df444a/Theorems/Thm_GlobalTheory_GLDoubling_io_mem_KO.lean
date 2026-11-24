@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_io_mem_KO
 -- name    : GlobalTheory.GLDoubling.io_mem_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:44:11.701233+00:00
 -- url     : https://prove2.me/theorems/5820aad4-8021-4959-859c-f454940ad5ea

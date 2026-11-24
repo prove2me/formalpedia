@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_cyclic_order_le_exponent
 -- name    : Formalism.HC.Frame.cyclic_order_le_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:53:12.443814+00:00
 -- url     : https://prove2.me/theorems/0f066a75-71ed-47b6-9e55-05f6d74a83ba

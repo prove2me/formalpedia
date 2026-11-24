@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_QStr_ker_struct
 -- name    : GlobalTheory.Ex.QStr.ker_struct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:05:58.76333+00:00
 -- url     : https://prove2.me/theorems/374b302f-d008-4f08-a635-a12aba42ad4f

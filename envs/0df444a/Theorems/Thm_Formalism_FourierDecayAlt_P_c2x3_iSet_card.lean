@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c2x3_iSet_card
 -- name    : Formalism.FourierDecayAlt.P.c2x3_iSet_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:14:39.946029+00:00
 -- url     : https://prove2.me/theorems/e60a4a20-e6a5-49e1-a761-5b82f2f2ae0c

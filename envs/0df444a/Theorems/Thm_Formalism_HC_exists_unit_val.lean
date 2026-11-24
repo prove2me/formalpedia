@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_exists_unit_val
 -- name    : Formalism.HC.exists_unit_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:35:25.363168+00:00
 -- url     : https://prove2.me/theorems/068031ba-4524-4964-bdbe-e0f970dd1c4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_cell_mem
 -- name    : GlobalTheory.FrameNet.cell_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:37:38.493257+00:00
 -- url     : https://prove2.me/theorems/f444a050-b18e-49a0-8e16-2a1d327e50e8

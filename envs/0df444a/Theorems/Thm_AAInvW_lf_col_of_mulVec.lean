@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_col_of_mulVec
 -- name    : AAInvW.lf_col_of_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:46:00.403877+00:00
 -- url     : https://prove2.me/theorems/174f38cf-678a-4ece-b0c6-e5a602decaa5

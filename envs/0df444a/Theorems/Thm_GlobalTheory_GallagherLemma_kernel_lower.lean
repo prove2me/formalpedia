@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GallagherLemma_kernel_lower
 -- name    : GlobalTheory.GallagherLemma.kernel_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:43:09.922331+00:00
 -- url     : https://prove2.me/theorems/92aba655-6502-42e2-8615-c57e206f61bb

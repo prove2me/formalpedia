@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TranslationBesselVanishing_smooth_add
 -- name    : Formalism.FourierDecayAlt.P.TranslationBesselVanishing.smooth_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:34:48.349797+00:00
 -- url     : https://prove2.me/theorems/f1dcd8f9-e8c7-434f-8108-f21adbffd190

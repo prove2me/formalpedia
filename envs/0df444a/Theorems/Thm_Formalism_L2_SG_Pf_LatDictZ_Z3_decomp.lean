@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_decomp
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:37:21.947952+00:00
 -- url     : https://prove2.me/theorems/36b55e8c-9888-4815-961c-d75be619537f

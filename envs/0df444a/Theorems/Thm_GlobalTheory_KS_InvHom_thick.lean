@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvHom_thick
 -- name    : GlobalTheory.KS.InvHom.thick
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:38:02.426303+00:00
 -- url     : https://prove2.me/theorems/178c95b2-7254-42c0-998f-44ae9c8872d3

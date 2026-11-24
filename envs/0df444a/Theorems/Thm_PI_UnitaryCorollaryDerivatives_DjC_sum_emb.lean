@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_DjC_sum_emb
 -- name    : PI.UnitaryCorollaryDerivatives.DjC.sum_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:46:34.298072+00:00
 -- url     : https://prove2.me/theorems/4e1e9422-2978-424e-9763-4fcbb4d46c02

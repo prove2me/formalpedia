@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_levyRightGermPastEventApproximationV1
 -- name    : Kyprianou.Ch03.levyRightGermPastEventApproximationV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:07:10.481812+00:00
 -- url     : https://prove2.me/theorems/dc6deda8-897b-4e0f-b4f3-f2428ced614a

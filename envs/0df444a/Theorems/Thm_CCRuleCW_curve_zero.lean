@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_curve_zero
 -- name    : CCRuleCW.curve_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:14:12.780598+00:00
 -- url     : https://prove2.me/theorems/0ddeae08-4c38-4c62-855d-8f90b682a8f7

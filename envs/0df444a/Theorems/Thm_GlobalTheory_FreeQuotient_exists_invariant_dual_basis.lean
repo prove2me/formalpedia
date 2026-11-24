@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_exists_invariant_dual_basis
 -- name    : GlobalTheory.FreeQuotient.exists_invariant_dual_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:57.534212+00:00
 -- url     : https://prove2.me/theorems/0b9bb74f-4d68-4c59-aeb7-1378c50c889b

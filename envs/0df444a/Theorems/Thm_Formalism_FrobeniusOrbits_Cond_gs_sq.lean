@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_gs_sq
 -- name    : Formalism.FrobeniusOrbits.Cond.gs_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:11:21.75787+00:00
 -- url     : https://prove2.me/theorems/3c9ac421-9dcf-4cea-86ab-1678c3b75071

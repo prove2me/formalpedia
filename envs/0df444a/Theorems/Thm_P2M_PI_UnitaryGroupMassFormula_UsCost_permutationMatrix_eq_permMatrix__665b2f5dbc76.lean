@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_UsCost_permutationMatrix_eq_permMatrix__665b2f5dbc76
 -- name    : P2M_PI_UnitaryGroupMassFormula_UsCost_permutationMatrix_eq_permMatrix__665b2f5dbc76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:38:05.79638+00:00
 -- url     : https://prove2.me/theorems/41f8bf83-430e-459c-84c7-1cd01ff86e4b

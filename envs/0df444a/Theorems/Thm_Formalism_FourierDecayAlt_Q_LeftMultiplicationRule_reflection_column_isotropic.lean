@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_reflection_column_isotropic
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.reflection_column_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:24:26.612729+00:00
 -- url     : https://prove2.me/theorems/2d5e8fb0-3591-4913-ae58-121a3e242a4a

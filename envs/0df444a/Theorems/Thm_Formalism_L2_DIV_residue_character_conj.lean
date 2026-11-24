@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_residue_character_conj
 -- name    : Formalism.L2.DIV.residue_character_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:21:50.67971+00:00
 -- url     : https://prove2.me/theorems/556f92bc-dac0-473c-87ba-38cf9b8cb6ac

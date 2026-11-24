@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_zsmul_generator_eq_zero_iff
 -- name    : Formalism.HC.Frame.zsmul_generator_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:34:55.08311+00:00
 -- url     : https://prove2.me/theorems/df72bd37-a97b-4ac9-8e05-826ff058b6b2

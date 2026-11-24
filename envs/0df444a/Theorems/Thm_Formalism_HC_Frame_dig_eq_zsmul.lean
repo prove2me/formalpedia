@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_dig_eq_zsmul
 -- name    : Formalism.HC.Frame.dig_eq_zsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:34:01.325076+00:00
 -- url     : https://prove2.me/theorems/673cad41-91fd-4f53-8581-303abd55a31a

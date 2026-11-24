@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_residue_character_ramified_of_quadratic
 -- name    : Formalism.L2.DIV.residue_character_ramified_of_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:26:24.099801+00:00
 -- url     : https://prove2.me/theorems/2f1f8731-284f-46d1-8422-e06a7d35a385

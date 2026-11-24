@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_conj_diagGL_InN
 -- name    : GlobalTheory.FunObj.conj_diagGL_InN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:40:21.689935+00:00
 -- url     : https://prove2.me/theorems/47e1f308-049b-49da-baae-431d4ca878f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finsum_psi_le
 -- name    : GlobalTheory.CuspGL.finsum_psi_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:32:46.41668+00:00
 -- url     : https://prove2.me/theorems/8cfc0fd6-eaa9-459a-a2fe-958b1b4e181d

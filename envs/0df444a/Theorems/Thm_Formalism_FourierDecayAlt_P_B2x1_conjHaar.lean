@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x1_conjHaar
 -- name    : Formalism.FourierDecayAlt.P.B2x1.conjHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:06:17.937564+00:00
 -- url     : https://prove2.me/theorems/e2c70c37-6bd3-48df-aee4-69b2dd68d7f8

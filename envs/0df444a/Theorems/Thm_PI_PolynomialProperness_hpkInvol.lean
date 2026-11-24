@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_hpkInvol
 -- name    : PI.PolynomialProperness.hpkInvol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:38:27.347972+00:00
 -- url     : https://prove2.me/theorems/c7173b86-b0a0-428a-a5a0-aa7ca94d2684

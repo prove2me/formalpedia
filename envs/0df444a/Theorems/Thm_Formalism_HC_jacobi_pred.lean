@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_jacobi_pred
 -- name    : Formalism.HC.jacobi_pred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:35:32.074394+00:00
 -- url     : https://prove2.me/theorems/4b845774-81eb-4cd4-a75b-211d2bac848c

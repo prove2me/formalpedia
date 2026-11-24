@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePull_hL_eq
 -- name    : GlobalTheory.FramePull.hL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:55:53.925046+00:00
 -- url     : https://prove2.me/theorems/8530b5a4-5fe8-449b-92d0-c67b06b2df47

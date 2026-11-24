@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_symN_even
 -- name    : GlobalTheory.FunObj.symN_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:44:00.501952+00:00
 -- url     : https://prove2.me/theorems/0b5890b2-8523-45d6-9bf1-9c362d11c7e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x6_E_cast
 -- name    : Formalism.FourierDecayAlt.P.C2x6.E_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:49:45.000633+00:00
 -- url     : https://prove2.me/theorems/07364c34-a137-42e8-b5d5-82d62b49cd8e

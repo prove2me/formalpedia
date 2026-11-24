@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_ArcForm_hasSum_arcTx
 -- name    : GlobalTheory.Ex.ArcForm.hasSum_arcTx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:08:12.810148+00:00
 -- url     : https://prove2.me/theorems/2b7b8132-01b1-4927-b825-404b1dbe46f4

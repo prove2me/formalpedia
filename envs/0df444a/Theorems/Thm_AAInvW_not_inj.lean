@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_not_inj
 -- name    : AAInvW.not_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:45:15.823951+00:00
 -- url     : https://prove2.me/theorems/e2cc1a02-9255-4744-99e5-3600a6b91990

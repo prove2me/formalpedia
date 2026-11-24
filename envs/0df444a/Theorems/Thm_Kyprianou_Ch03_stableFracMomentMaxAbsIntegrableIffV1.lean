@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableFracMomentMaxAbsIntegrableIffV1
 -- name    : Kyprianou.Ch03.stableFracMomentMaxAbsIntegrableIffV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T15:10:17.107376+00:00
 -- url     : https://prove2.me/theorems/824af0f1-1d42-432e-b2e6-e403efe9960c

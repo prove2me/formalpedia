@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_bvec_apply
 -- name    : AAInvW.lf_bvec_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:45:55.232442+00:00
 -- url     : https://prove2.me/theorems/f41827f8-360e-4f61-9562-8da084e1c872

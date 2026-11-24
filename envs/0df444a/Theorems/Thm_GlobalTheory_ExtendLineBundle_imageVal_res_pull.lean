@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendLineBundle_imageVal_res_pull
 -- name    : GlobalTheory.ExtendLineBundle.imageVal_res_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:17:34.530574+00:00
 -- url     : https://prove2.me/theorems/216e8762-2ca7-4162-97ac-3dd449f35bee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_FixW_herm_entry
 -- name    : PI.StabSplit.FixW.herm_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:47:53.226091+00:00
 -- url     : https://prove2.me/theorems/e3dc2408-eeab-4eb5-bdee-18dc6e3621e3

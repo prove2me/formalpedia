@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBasic_lead_unit
 -- name    : GlobalTheory.FrameBasic.lead_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:36:22.813822+00:00
 -- url     : https://prove2.me/theorems/7f4f4984-0cad-409f-9892-af62d40e56b2

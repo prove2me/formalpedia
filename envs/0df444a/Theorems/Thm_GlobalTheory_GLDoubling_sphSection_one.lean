@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_sphSection_one
 -- name    : GlobalTheory.GLDoubling.sphSection_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:47:41.7354+00:00
 -- url     : https://prove2.me/theorems/39e99dbd-c6f9-4f93-9a88-082fdcd2c550

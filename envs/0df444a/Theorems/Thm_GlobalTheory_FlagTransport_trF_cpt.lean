@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_trF_cpt
 -- name    : GlobalTheory.FlagTransport.trF_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:31:49.053038+00:00
 -- url     : https://prove2.me/theorems/fa256d24-1386-48de-9dce-c9cbbdea0bd8

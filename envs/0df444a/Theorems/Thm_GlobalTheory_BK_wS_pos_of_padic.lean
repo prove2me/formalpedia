@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_wS_pos_of_padic
 -- name    : GlobalTheory.BK.wS_pos_of_padic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:35:12.994169+00:00
 -- url     : https://prove2.me/theorems/01374866-5b46-4752-9580-2451d4085bce

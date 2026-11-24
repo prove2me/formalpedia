@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_invE_le_RpiE
 -- name    : GlobalTheory.BK.invE_le_RpiE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:35:55.666263+00:00
 -- url     : https://prove2.me/theorems/70cf1daf-a44b-458e-8f3c-2f9d346057c8

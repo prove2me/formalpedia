@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_cayley
 -- name    : GlobalTheory.EtIsom.cayley
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:37:37.127138+00:00
 -- url     : https://prove2.me/theorems/4f5b6cd2-8af9-46fe-9c37-cf12671e9757

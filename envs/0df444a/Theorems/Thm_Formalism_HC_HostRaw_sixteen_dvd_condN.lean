@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_sixteen_dvd_condN
 -- name    : Formalism.HC.HostRaw.sixteen_dvd_condN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:35:06.605487+00:00
 -- url     : https://prove2.me/theorems/a5476c80-b8b8-43b2-9df4-6aedbc2301b6

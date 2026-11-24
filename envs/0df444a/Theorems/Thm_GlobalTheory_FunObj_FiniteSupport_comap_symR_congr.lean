@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_comap_symR_congr
 -- name    : GlobalTheory.FunObj.FiniteSupport.comap_symR_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:08.438586+00:00
 -- url     : https://prove2.me/theorems/a22ebeb0-8e9b-4c42-b732-0c855037181a

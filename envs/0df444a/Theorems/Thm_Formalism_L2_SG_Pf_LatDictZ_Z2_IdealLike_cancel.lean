@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z2_IdealLike_cancel
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z2.IdealLike.cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:37:55.979898+00:00
 -- url     : https://prove2.me/theorems/772a7892-9ef8-4d5b-8126-fbbbc5179157

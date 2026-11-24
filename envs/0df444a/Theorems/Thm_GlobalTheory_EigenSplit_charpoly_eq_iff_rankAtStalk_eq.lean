@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_charpoly_eq_iff_rankAtStalk_eq
 -- name    : GlobalTheory.EigenSplit.charpoly_eq_iff_rankAtStalk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:22.194437+00:00
 -- url     : https://prove2.me/theorems/69a64b4e-9024-4686-8df0-56bbcea34a8c

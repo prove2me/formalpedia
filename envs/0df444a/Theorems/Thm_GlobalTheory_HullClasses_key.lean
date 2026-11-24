@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HullClasses_key
 -- name    : GlobalTheory.HullClasses.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:36:33.080942+00:00
 -- url     : https://prove2.me/theorems/60f1076b-7ef5-4fc1-b739-09ebca2b7aff

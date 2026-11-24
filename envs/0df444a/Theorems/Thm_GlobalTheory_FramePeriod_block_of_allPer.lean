@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_block_of_allPer
 -- name    : GlobalTheory.FramePeriod.block_of_allPer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:58:04.936288+00:00
 -- url     : https://prove2.me/theorems/26b9b2df-f72d-47ec-9b94-cb74da269412

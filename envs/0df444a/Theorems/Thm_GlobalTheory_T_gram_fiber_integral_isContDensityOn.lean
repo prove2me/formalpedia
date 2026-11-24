@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_integral_isContDensityOn
 -- name    : GlobalTheory.T.gram_fiber_integral_isContDensityOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:24.144032+00:00
 -- url     : https://prove2.me/theorems/221a6c24-8b1b-40bd-a1ec-72a59a867d11

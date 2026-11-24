@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_conj_part
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.conj_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:34:38.886922+00:00
 -- url     : https://prove2.me/theorems/97d73450-beda-4ead-b201-c56f887e72e3

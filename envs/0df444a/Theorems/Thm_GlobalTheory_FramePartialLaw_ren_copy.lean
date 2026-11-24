@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePartialLaw_ren_copy
 -- name    : GlobalTheory.FramePartialLaw.ren_copy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:37:46.55403+00:00
 -- url     : https://prove2.me/theorems/aacb3720-0fa9-4f37-a738-d7d150682637

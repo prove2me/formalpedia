@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_keptRow_eq
 -- name    : GlobalTheory.FunObj.keptRow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:41:15.115661+00:00
 -- url     : https://prove2.me/theorems/b3cae836-388e-4536-bb43-97cba30d94ec

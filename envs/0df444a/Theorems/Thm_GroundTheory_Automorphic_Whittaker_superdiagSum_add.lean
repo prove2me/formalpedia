@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_superdiagSum_add
 -- name    : GroundTheory.Automorphic.Whittaker.superdiagSum_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:36:52.69081+00:00
 -- url     : https://prove2.me/theorems/6c95d195-081c-4ca8-b0eb-f2869ed6ba73

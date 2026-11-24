@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_antiJ_mul_self
 -- name    : GlobalTheory.UnitarySwap.antiJ_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:46:59.786912+00:00
 -- url     : https://prove2.me/theorems/e47a61e4-9a67-48d4-9443-4ba8b422cd7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_smM_contDiffOn
 -- name    : Formalism.FourierDecayAlt.P.Qx4.smM_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:42:25.459593+00:00
 -- url     : https://prove2.me/theorems/587c1edc-91c5-49b8-b6f5-fd3a39050f92

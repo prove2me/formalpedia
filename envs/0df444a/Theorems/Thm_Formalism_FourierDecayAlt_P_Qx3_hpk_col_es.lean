@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_hpk_col_es
 -- name    : Formalism.FourierDecayAlt.P.Qx3.hpk_col_es
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:21:06.052845+00:00
 -- url     : https://prove2.me/theorems/6f229b13-6c41-4fae-bfda-07844f391675

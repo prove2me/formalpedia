@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrobeniusProduct_exists_adic_limit
 -- name    : GlobalTheory.FrobeniusProduct.exists_adic_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:30.754347+00:00
 -- url     : https://prove2.me/theorems/689dc608-8acf-413b-a231-1b2bda7d723f

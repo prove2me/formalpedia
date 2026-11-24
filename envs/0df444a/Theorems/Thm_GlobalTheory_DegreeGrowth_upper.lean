@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeGrowth_upper
 -- name    : GlobalTheory.DegreeGrowth.upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:00:44.064976+00:00
 -- url     : https://prove2.me/theorems/b3c4b4dd-9afd-4ab4-805b-1efc168eb392

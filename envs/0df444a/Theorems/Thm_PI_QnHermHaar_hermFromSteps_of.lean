@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_hermFromSteps_of
 -- name    : PI.QnHermHaar.hermFromSteps_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:40:14.218937+00:00
 -- url     : https://prove2.me/theorems/a1111e17-2db6-4396-9106-187925a92ec4

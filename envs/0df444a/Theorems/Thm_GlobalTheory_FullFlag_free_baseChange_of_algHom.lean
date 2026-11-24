@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_free_baseChange_of_algHom
 -- name    : GlobalTheory.FullFlag.free_baseChange_of_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:32.56827+00:00
 -- url     : https://prove2.me/theorems/33da2779-e26f-4636-82ab-a92e367a66f2

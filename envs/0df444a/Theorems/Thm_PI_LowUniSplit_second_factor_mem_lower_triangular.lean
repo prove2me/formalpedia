@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowUniSplit_second_factor_mem_lower_triangular
 -- name    : PI.LowUniSplit.second_factor_mem_lower_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:37:59.64836+00:00
 -- url     : https://prove2.me/theorems/42ff45b0-bd2e-4596-9bea-735c141ba0ef

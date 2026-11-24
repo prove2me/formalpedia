@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_smooth_lin_sum
 -- name    : Formalism.FourierDecayAlt.P.Qx2.smooth_lin_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:21:58.089003+00:00
 -- url     : https://prove2.me/theorems/ee00e5b8-088c-4fc6-84cc-acac38720013

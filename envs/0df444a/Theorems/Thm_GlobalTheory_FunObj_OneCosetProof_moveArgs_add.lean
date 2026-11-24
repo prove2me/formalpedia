@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_OneCosetProof_moveArgs_add
 -- name    : GlobalTheory.FunObj.OneCosetProof.moveArgs_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:42:53.442899+00:00
 -- url     : https://prove2.me/theorems/4b53148d-9a9c-488c-af47-3dcc9918fbac

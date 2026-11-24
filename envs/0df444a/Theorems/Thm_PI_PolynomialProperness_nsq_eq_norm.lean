@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_nsq_eq_norm
 -- name    : PI.PolynomialProperness.nsq_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:38:11.707484+00:00
 -- url     : https://prove2.me/theorems/e1c4e7c1-4a02-4c2f-bd27-3491452c1607

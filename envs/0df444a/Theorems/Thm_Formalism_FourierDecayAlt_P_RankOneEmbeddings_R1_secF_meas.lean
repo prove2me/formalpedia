@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_R1_secF_meas
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.R1.secF_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:21:09.090846+00:00
 -- url     : https://prove2.me/theorems/b99dc809-4f50-4b0d-b3d4-4f400f34162f

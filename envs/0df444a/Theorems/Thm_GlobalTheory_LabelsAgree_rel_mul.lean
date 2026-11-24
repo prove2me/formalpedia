@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_rel_mul
 -- name    : GlobalTheory.LabelsAgree.rel_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:21.092255+00:00
 -- url     : https://prove2.me/theorems/f0d18d18-720f-4cd8-b404-3754f92edabd

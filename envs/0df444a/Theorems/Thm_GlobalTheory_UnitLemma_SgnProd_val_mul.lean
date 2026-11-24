@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnProd_val_mul
 -- name    : GlobalTheory.UnitLemma.SgnProd.val_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:36:31.470573+00:00
 -- url     : https://prove2.me/theorems/5246ec68-5807-42df-a50f-4641372b2f88

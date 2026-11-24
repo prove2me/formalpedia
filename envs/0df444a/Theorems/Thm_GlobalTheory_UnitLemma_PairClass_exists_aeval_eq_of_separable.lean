@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PairClass_exists_aeval_eq_of_separable
 -- name    : GlobalTheory.UnitLemma.PairClass.exists_aeval_eq_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:36:48.32179+00:00
 -- url     : https://prove2.me/theorems/077ae209-fb75-4897-91c6-f07a5acfe83c

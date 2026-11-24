@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_OneCosetProof_mem_rowR
 -- name    : GlobalTheory.FunObj.OneCosetProof.mem_rowR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:42:35.836599+00:00
 -- url     : https://prove2.me/theorems/5992a61b-157e-4f98-b5af-22d8d9731fb0

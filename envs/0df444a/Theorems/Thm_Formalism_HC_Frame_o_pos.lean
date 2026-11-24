@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_o_pos
 -- name    : Formalism.HC.Frame.o_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:02:26.627298+00:00
 -- url     : https://prove2.me/theorems/9fb744af-5244-4f0b-8c08-82e65e31ef39

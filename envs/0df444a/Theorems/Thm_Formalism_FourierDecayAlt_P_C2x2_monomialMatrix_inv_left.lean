@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x2_monomialMatrix_inv_left
 -- name    : Formalism.FourierDecayAlt.P.C2x2.monomialMatrix_inv_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:18:55.635074+00:00
 -- url     : https://prove2.me/theorems/68fa3dac-29e8-4e51-9cd7-9dd2a9f79e1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabLie_rdV_ext
 -- name    : Formalism.FourierDecayAlt.Q.EabLie.rdV_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:58:50.121683+00:00
 -- url     : https://prove2.me/theorems/99bdf80c-845b-4ab1-b6bb-87070ef21ec4

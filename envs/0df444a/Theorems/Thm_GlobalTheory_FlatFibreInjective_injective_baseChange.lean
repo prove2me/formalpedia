@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFibreInjective_injective_baseChange
 -- name    : GlobalTheory.FlatFibreInjective.injective_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:34:02.500764+00:00
 -- url     : https://prove2.me/theorems/4cf0ceb4-69e3-4329-b7d7-8720da4ba7bc

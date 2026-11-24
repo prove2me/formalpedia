@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_bijective_toInvariants
 -- name    : GlobalTheory.FlatDescent.bijective_toInvariants
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:01:23.138964+00:00
 -- url     : https://prove2.me/theorems/c09ac579-59b9-4ad9-aa4e-a61063be7f82

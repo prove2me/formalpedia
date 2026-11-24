@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_existsUnique_factor
 -- name    : GlobalTheory.FixedPoint.existsUnique_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:33.016789+00:00
 -- url     : https://prove2.me/theorems/6d8ddcf5-a761-4244-a673-4d09ac5ad75f

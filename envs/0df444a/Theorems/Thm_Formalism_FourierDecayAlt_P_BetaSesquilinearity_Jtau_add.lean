@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_Jtau_add
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.Jtau_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:30:25.057404+00:00
 -- url     : https://prove2.me/theorems/b7889883-ef82-48fe-b1bd-a176ef200540

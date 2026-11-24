@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_monotone
 -- name    : GlobalTheory.FullFlag.monotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:36.954817+00:00
 -- url     : https://prove2.me/theorems/03c32dbe-edbc-4b39-870b-4b9053df7240

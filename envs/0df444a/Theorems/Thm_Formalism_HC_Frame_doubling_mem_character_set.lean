@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_doubling_mem_character_set
 -- name    : Formalism.HC.Frame.doubling_mem_character_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:34:05.747749+00:00
 -- url     : https://prove2.me/theorems/44237995-6bb7-43f2-97cb-e8bd8356c6b8

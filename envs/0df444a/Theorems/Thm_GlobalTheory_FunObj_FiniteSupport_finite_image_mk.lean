@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_finite_image_mk
 -- name    : GlobalTheory.FunObj.FiniteSupport.finite_image_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:42:53.476167+00:00
 -- url     : https://prove2.me/theorems/ff8c1979-831d-4ce2-a079-3a16a55f6006

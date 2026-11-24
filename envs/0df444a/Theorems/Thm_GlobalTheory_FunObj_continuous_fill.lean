@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_continuous_fill
 -- name    : GlobalTheory.FunObj.continuous_fill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:42:04.68578+00:00
 -- url     : https://prove2.me/theorems/1f692aa4-1140-4496-b295-a1cec85bea84

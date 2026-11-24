@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mem_span_coord_of_coord_mul_mem
 -- name    : FunctorialResolution.EmbeddedResolution.mem_span_coord_of_coord_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:34:58.084947+00:00
 -- url     : https://prove2.me/theorems/58f2dfbd-53af-4fa4-a156-afee12f73f21

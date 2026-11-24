@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CapelliEig_coef_smoothOnGV
 -- name    : PI.UnitaryGroupMassFormula.CapelliEig.coef_smoothOnGV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:49:01.529554+00:00
 -- url     : https://prove2.me/theorems/43829f67-1909-4bc1-9212-0c3814c97769

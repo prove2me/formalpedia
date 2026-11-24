@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_sumOp_sumOp_eq_idx_smul
 -- name    : GlobalTheory.FinWeil.sumOp_sumOp_eq_idx_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:14:00.495681+00:00
 -- url     : https://prove2.me/theorems/0e1198f2-09c9-45ea-89d8-ea004dbb4ea5

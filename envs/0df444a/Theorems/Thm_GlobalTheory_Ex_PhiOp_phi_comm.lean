@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_PhiOp_phi_comm
 -- name    : GlobalTheory.Ex.PhiOp.phi_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:34:59.869202+00:00
 -- url     : https://prove2.me/theorems/187f0f84-6426-433b-953d-d07f7535250e

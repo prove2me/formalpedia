@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_form_apply
 -- name    : GlobalTheory.UnitarySwap.form_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:46:52.115022+00:00
 -- url     : https://prove2.me/theorems/d1fd328b-f09d-4aac-832e-60434f5b4f56

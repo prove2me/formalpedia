@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_projection_mul_coordinate
 -- name    : Formalism.FourierDecayAlt.P.NFx2.projection_mul_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:19:30.031536+00:00
 -- url     : https://prove2.me/theorems/b7da319a-f2f8-45c1-8dbc-ca70dcccf417

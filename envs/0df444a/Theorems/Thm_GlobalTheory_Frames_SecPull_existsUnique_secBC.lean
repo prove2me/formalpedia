@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_SecPull_existsUnique_secBC
 -- name    : GlobalTheory.Frames.SecPull.existsUnique_secBC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:38:56.686051+00:00
 -- url     : https://prove2.me/theorems/114667d4-f29b-4c00-b227-0c97a722725b

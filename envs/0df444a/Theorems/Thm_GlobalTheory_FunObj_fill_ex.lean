@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_fill_ex
 -- name    : GlobalTheory.FunObj.fill_ex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:42:03.991188+00:00
 -- url     : https://prove2.me/theorems/3ebc71a6-758c-4026-9337-88e53a24ccbb

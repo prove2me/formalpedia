@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingLPAccel_lemma_5_12
 -- name    : PackingLPAccel.lemma_5_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:43:56.961453+00:00
 -- url     : https://prove2.me/theorems/c2833d0f-7810-4084-aa82-b60f8277c1e1

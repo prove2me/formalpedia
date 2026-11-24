@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_measurePreserving_elim
 -- name    : GlobalTheory.FunObj.measurePreserving_elim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:41:32.596369+00:00
 -- url     : https://prove2.me/theorems/c85f12ab-2ab3-4c44-a517-fbd56e6f2f04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_cB_unitLie
 -- name    : PI.UnitaryCorollaryDerivatives.cB_unitLie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:49:21.047397+00:00
 -- url     : https://prove2.me/theorems/660a6790-d5f1-4917-a1ff-9797787f74bc

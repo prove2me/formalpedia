@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_G_conjPeriods
 -- name    : GlobalTheory.G_conjPeriods
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:43:05.86061+00:00
 -- url     : https://prove2.me/theorems/a5c48f9c-bb51-414d-b30b-eabf7752226a

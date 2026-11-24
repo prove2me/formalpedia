@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_sum_bound
 -- name    : CCRuleCW.sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:33:13.466239+00:00
 -- url     : https://prove2.me/theorems/6e6ccd18-a6f8-4bad-b95a-873be27c8321

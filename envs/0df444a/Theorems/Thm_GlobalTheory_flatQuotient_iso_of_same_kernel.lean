@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flatQuotient_iso_of_same_kernel
 -- name    : GlobalTheory.flatQuotient_iso_of_same_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:24.171718+00:00
 -- url     : https://prove2.me/theorems/f5c1efa0-9a18-4e98-af62-69e1999d4bb6

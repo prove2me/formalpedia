@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_first_ne_last
 -- name    : Formalism.FourierDecayAlt.P.B2x9.first_ne_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:43:56.664809+00:00
 -- url     : https://prove2.me/theorems/69d9dd97-0542-4496-9906-1c3931dc019e

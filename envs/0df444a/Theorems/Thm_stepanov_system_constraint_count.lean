@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stepanov_system_constraint_count
 -- name    : stepanov_system_constraint_count
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:35:34.37657+00:00
 -- url     : https://prove2.me/theorems/d6c37c69-b192-4b95-80a4-cbe1a9c19df2

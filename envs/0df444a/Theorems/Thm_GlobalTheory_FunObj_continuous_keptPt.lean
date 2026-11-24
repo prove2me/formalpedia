@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_continuous_keptPt
 -- name    : GlobalTheory.FunObj.continuous_keptPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:41:41.233192+00:00
 -- url     : https://prove2.me/theorems/1381e4ea-0eb5-415d-86a6-c19abd28bb7e

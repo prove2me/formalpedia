@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_bsum_nonneg
 -- name    : PI.ComplexConjugateDerivative.bsum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:38:28.565837+00:00
 -- url     : https://prove2.me/theorems/495c68bb-d77a-4d6f-bc0d-5a0d92c161cf

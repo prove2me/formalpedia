@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBasic_solve_zero
 -- name    : GlobalTheory.FrameBasic.solve_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:36:30.701287+00:00
 -- url     : https://prove2.me/theorems/25c757c2-bf6e-4dc2-93be-eb1a0192afae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_skip_one_ne
 -- name    : Formalism.FourierDecayAlt.P.Qx2.skip_one_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:17:33.489119+00:00
 -- url     : https://prove2.me/theorems/9c302afe-1740-47c7-9cf5-543ea48a5c9b

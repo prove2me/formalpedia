@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_etaleChart_coord_mem_primeIdealOf
 -- name    : FunctorialResolution.EmbeddedResolution.exists_etaleChart_coord_mem_primeIdealOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:36:32.671203+00:00
 -- url     : https://prove2.me/theorems/5cf764c5-75af-4f20-9b30-7b917beb7e39

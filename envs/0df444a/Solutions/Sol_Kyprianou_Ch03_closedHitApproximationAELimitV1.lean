@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.closedHitApproximationAELimitV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T12:35:06.625939+00:00
 -- url     : https://prove2.me/submissions/dbe0a3d0-5684-40ce-a1cd-ce64fe5a9beb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch03_positiveHitInfDelayedClosedV1
 import Theorems.Thm_Kyprianou_Ch03_delayedClosedHitFixedApproxV1

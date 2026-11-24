@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FubiniStudyHessian_normSq_eq_sum
 -- name    : GlobalTheory.FubiniStudyHessian.normSq_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:13.480327+00:00
 -- url     : https://prove2.me/theorems/cc2b8691-06dd-489e-9f36-d7779af1932e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_adjF_cont
 -- name    : Formalism.FourierDecayAlt.P.B2x9.adjF_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:43:29.881517+00:00
 -- url     : https://prove2.me/theorems/e95cf492-3502-4b78-896f-d1c344a12c6a

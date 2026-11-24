@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_wMat_sq_assoc
 -- name    : Formalism.FourierDecayAlt.P.Ux2.wMat_sq_assoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:50:42.367241+00:00
 -- url     : https://prove2.me/theorems/753bcda1-d463-4a5d-accd-202afeed0078

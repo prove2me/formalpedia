@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendLineBundle_exists_equations
 -- name    : GlobalTheory.ExtendLineBundle.exists_equations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:17:23.001818+00:00
 -- url     : https://prove2.me/theorems/dc7d4da0-2353-40bd-8366-06cacd98a4aa

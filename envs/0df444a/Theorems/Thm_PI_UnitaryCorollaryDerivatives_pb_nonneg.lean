@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_pb_nonneg
 -- name    : PI.UnitaryCorollaryDerivatives.pb_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:48:12.120147+00:00
 -- url     : https://prove2.me/theorems/20b52a8e-2a89-4c3a-9ffe-177904f7976b

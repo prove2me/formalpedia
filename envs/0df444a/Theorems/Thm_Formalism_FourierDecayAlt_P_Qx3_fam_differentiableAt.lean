@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_fam_differentiableAt
 -- name    : Formalism.FourierDecayAlt.P.Qx3.fam_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:16:09.785416+00:00
 -- url     : https://prove2.me/theorems/13289dc2-cfaa-4c68-b443-a7a6f7453fd2

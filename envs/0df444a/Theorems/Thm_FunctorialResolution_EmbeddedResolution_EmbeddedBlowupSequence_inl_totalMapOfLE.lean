@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_inl_totalMapOfLE
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.inl_totalMapOfLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:29:25.042716+00:00
 -- url     : https://prove2.me/theorems/7f968af1-df4b-4972-8967-cc8f9018567e

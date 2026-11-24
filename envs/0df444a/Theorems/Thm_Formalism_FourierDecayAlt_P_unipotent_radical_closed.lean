@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_radical_closed
 -- name    : Formalism.FourierDecayAlt.P.unipotent_radical_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:41:41.519955+00:00
 -- url     : https://prove2.me/theorems/dfdce29e-689d-4c9e-9f6a-c4b87f299d69

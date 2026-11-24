@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_y_esI_zero
 -- name    : NFOne.y_esI_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:47:27.464444+00:00
 -- url     : https://prove2.me/theorems/841d0f5b-73a6-4c7f-b794-e41892fbc538

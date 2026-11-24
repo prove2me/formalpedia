@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_mem_splits
 -- name    : CCRuleCW.mem_splits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:48:33.440889+00:00
 -- url     : https://prove2.me/theorems/fa077afd-fb91-4c7c-af98-ead2fa9b97a4

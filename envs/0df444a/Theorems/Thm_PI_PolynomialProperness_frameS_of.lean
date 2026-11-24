@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_frameS_of
 -- name    : PI.PolynomialProperness.frameS_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:38:20.464799+00:00
 -- url     : https://prove2.me/theorems/9fe150b6-c6e9-4f9c-ac6c-27f7757f3971

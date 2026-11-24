@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_norm_emb_det_gramMat
 -- name    : GlobalTheory.FrameNet.norm_emb_det_gramMat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:00.415966+00:00
 -- url     : https://prove2.me/theorems/c78de080-b3ec-4fe9-9b56-d69b9c358fe6

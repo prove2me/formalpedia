@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_posL_inj
 -- name    : PI.QnHermHaar.posL_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:40:23.640241+00:00
 -- url     : https://prove2.me/theorems/c44c2905-7e16-4dbe-8838-7200b8261801

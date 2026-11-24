@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_quantum_determinant_relation
 -- name    : Formalism.FourierDecayAlt.P.NFx2.quantum_determinant_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:19:15.605865+00:00
 -- url     : https://prove2.me/theorems/4dfc0404-a3ec-49ee-ac8d-2d16e0349440

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_long_weyl_family_measurable
 -- name    : Formalism.FourierDecayAlt.P.B2x9.long_weyl_family_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:43:33.47254+00:00
 -- url     : https://prove2.me/theorems/29cbd1cd-def3-43dc-b0a3-c2c6e4d24158

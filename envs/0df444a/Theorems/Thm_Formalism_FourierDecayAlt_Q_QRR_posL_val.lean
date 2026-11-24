@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_posL_val
 -- name    : Formalism.FourierDecayAlt.Q.QRR.posL_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:34:33.376984+00:00
 -- url     : https://prove2.me/theorems/c49092ce-82d2-4dd0-86d8-1ba21eeb49e1

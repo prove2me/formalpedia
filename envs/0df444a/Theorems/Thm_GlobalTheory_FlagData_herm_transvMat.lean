@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagData_herm_transvMat
 -- name    : GlobalTheory.FlagData.herm_transvMat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:57:56.210783+00:00
 -- url     : https://prove2.me/theorems/ac6f54ce-cdd3-41db-be50-caefe2d9ec5b

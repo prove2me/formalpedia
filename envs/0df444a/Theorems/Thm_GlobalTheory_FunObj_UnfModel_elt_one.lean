@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_UnfModel_elt_one
 -- name    : GlobalTheory.FunObj.UnfModel.elt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:40:28.948366+00:00
 -- url     : https://prove2.me/theorems/46b49812-26a6-43df-ba2c-ad3f4f6ee078

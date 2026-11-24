@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_contract_smul_left
 -- name    : GlobalTheory.GaloisDescent.contract_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:43:15.474651+00:00
 -- url     : https://prove2.me/theorems/7899be96-ebb8-4276-9ee3-59b3d1b514cd

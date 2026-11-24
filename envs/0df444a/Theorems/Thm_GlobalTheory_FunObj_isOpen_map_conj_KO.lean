@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_isOpen_map_conj_KO
 -- name    : GlobalTheory.FunObj.isOpen_map_conj_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:41:09.498746+00:00
 -- url     : https://prove2.me/theorems/905754fe-cf8a-4a40-9515-371a662702c4

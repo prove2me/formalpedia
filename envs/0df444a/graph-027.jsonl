@@ -82161,7 +82161,7 @@
 {"parent": "FlexRigidity.theorem_5_5", "child": "QAlgorithms_Papers_Independent_Dependency50_P35", "via": ["statement"]}
 {"parent": "FlexRigidity.theorem_5_5", "child": "FlexRigidity_freq", "via": ["statement"]}
 {"parent": "ComplexityUnpred.Catalytic.lemma_4_6", "child": "ComplexityUnpred_Catalytic_WeakExcess", "via": ["statement"]}
-{"parent": "TightPQRepetition.Main.theorem_3_9", "child": "TightPQRepetition_Main_Jordan", "via": ["statement"]}
+{"parent": "TightPQRepetition.Main.theorem_3_9", "child": "TightPQRepetition_Main_Jordan", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZPhysicalXStarTransport.lower_gradient_coordinates", "child": "QEC_Coding_FiniteAlternatingConstruction_HistorySyndromeSensitivity_Snapshots", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZPhysicalXStarTransport.lower_gradient_coordinates", "child": "QEC_Coding_FiniteAlternatingConstruction_RXPhysicalStarTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZPhysicalXStarTransport.lower_gradient_coordinates", "child": "QEC_Coding_FiniteAlternatingConstruction_RZPhysicalStarTransport", "via": ["solution", "statement"]}

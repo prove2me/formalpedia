@@ -60161,7 +60161,7 @@
 {"parent": "GoldreichAffine_Exponential_Supplement_Modular", "child": "GoldreichAffine_Exponential_BooleanCore", "via": ["statement"]}
 {"parent": "OnlineBinCover.Supplement.theorem_1_2", "child": "OnlineBinCover_Supplement_OrderOblivious", "via": ["statement"]}
 {"parent": "MetricMSO_Supplement_Interpretation", "child": "MetricMSO_Supplement_XSat", "via": ["statement"]}
-{"parent": "MomentAmbiguitySecretary.Secretary.Supplement.limiting_weights", "child": "MomentAmbiguitySecretary_Secretary_Supplement_Binary", "via": ["statement"]}
+{"parent": "MomentAmbiguitySecretary.Secretary.Supplement.limiting_weights", "child": "MomentAmbiguitySecretary_Secretary_Supplement_Binary", "via": ["solution", "statement"]}
 {"parent": "PrivPACLower.ICP.Supplement.theorem_5", "child": "PrivateUniformGen_Characterization_Privacy", "via": ["statement"]}
 {"parent": "PrivPACLower.ICP.Supplement.theorem_5", "child": "PrivPACLower_ICP_Learning", "via": ["statement"]}
 {"parent": "PrivPACLower.ICP.Supplement.theorem_5", "child": "PrivPACLower_ICP_Packing", "via": ["statement"]}

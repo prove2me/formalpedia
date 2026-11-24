@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGB_mem_iff_split
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGB.mem_iff_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:37:41.149141+00:00
 -- url     : https://prove2.me/theorems/cd013795-bceb-4139-84d6-6ade48fdc9fd

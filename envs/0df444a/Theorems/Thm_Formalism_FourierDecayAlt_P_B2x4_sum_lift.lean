@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x4_sum_lift
 -- name    : Formalism.FourierDecayAlt.P.B2x4.sum_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:28:38.431483+00:00
 -- url     : https://prove2.me/theorems/71bbb264-7548-4899-a3a7-28bbad987462

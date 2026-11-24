@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_Bd_mono
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.Bd.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:33:03.949856+00:00
 -- url     : https://prove2.me/theorems/6902b542-cb5f-446a-b664-f17aa6a73ade

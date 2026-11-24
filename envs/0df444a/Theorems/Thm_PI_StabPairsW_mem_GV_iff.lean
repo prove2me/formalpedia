@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_mem_GV_iff
 -- name    : PI.StabPairsW.mem_GV_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:28:56.332861+00:00
 -- url     : https://prove2.me/theorems/f3684349-0a0a-4ae4-b828-e27144d66740

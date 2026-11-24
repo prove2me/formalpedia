@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs2_sL_mem
 -- name    : Formalism.FourierDecayAlt.P.JFxDs2.sL_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:29:29.2788+00:00
 -- url     : https://prove2.me/theorems/82d67a32-9102-42d3-8922-7af7eab78d13

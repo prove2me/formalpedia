@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_inert_order_residue_of_quadratic
 -- name    : Formalism.L2.DIV.inert_order_residue_of_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:26:09.519393+00:00
 -- url     : https://prove2.me/theorems/21e68573-ea7b-4507-9e62-3edea2694853

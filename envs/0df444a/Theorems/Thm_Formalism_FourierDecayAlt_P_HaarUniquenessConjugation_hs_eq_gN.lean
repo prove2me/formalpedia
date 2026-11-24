@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_hs_eq_gN
 -- name    : Formalism.FourierDecayAlt.P.HaarUniquenessConjugation.hs_eq_gN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:20:46.324825+00:00
 -- url     : https://prove2.me/theorems/486f28bf-3830-43dc-9c1f-ed74ae169741

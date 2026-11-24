@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_Formalism_FourierDecayAlt_P5_contDiff_fsv_96a9e73be49d280f
 -- name    : P2M_RH_Formalism_FourierDecayAlt_P5_contDiff_fsv_96a9e73be49d280f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:38:09.347134+00:00
 -- url     : https://prove2.me/theorems/8894d395-2007-444e-bac1-860fe9037435

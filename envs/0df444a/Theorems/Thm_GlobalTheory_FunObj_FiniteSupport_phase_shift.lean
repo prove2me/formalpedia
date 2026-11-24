@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_phase_shift
 -- name    : GlobalTheory.FunObj.FiniteSupport.phase_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:43:27.113043+00:00
 -- url     : https://prove2.me/theorems/04e9b453-9b89-4f55-9e82-58ba7cae4e64

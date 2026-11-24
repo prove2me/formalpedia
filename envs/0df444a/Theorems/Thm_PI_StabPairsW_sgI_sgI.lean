@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_sgI_sgI
 -- name    : PI.StabPairsW.sgI_sgI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:46:51.104449+00:00
 -- url     : https://prove2.me/theorems/b96f3185-33c5-401f-836a-0640224ee5c5

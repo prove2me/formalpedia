@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_norm_of_isSquare_mul
 -- name    : GlobalTheory.QNorm.norm_of_isSquare_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:37:35.657817+00:00
 -- url     : https://prove2.me/theorems/e4349486-9970-46b5-960e-64c383b1092f

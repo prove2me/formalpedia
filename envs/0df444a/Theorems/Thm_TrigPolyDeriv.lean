@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TrigPolyDeriv
 -- name    : TrigPolyDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:27:33.466796+00:00
 -- url     : https://prove2.me/theorems/6453f53e-45a2-4238-b940-086c9a3ecdfe

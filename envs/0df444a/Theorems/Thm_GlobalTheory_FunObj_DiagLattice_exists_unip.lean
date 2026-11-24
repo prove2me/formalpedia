@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_DiagLattice_exists_unip
 -- name    : GlobalTheory.FunObj.DiagLattice.exists_unip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:40:35.293234+00:00
 -- url     : https://prove2.me/theorems/aefbf411-2a49-4909-b017-3e24d8b5f5b8

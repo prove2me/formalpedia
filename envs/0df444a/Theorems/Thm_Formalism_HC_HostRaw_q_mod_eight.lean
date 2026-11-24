@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_q_mod_eight
 -- name    : Formalism.HC.HostRaw.q_mod_eight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:15:01.008934+00:00
 -- url     : https://prove2.me/theorems/96e7e79f-8c47-44dc-beca-da8cc2d379bc

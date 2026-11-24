@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finsum_comp_eq_finsum_natCard_fiber_mul
 -- name    : GlobalTheory.finsum_comp_eq_finsum_natCard_fiber_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:36:29.993014+00:00
 -- url     : https://prove2.me/theorems/de00279e-99dd-4893-8a94-b7078a68da06

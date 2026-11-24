@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_eq_of_rblocks
 -- name    : Formalism.FourierDecayAlt.P.NFx2.eq_of_rblocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:16:32.839804+00:00
 -- url     : https://prove2.me/theorems/06298e4a-dacb-4753-bfda-30c2ad43906f

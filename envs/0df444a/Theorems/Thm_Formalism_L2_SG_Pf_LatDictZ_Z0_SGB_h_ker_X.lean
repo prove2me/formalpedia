@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGB_h_ker_X
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGB.h_ker_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:38:59.353877+00:00
 -- url     : https://prove2.me/theorems/e48c493c-8ac4-4dc9-b4f1-0b59f310121f

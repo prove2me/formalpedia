@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherDensityMartingaleRightContinuousV1
 -- name    : Kyprianou.Ch03.esscherDensityMartingaleRightContinuousV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T15:13:46.632779+00:00
 -- url     : https://prove2.me/theorems/7ba9c068-98f7-4ef1-acb8-aafbf1f7c8c0

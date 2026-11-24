@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_dvd_condN_iff_small
 -- name    : Formalism.HC.HostRaw.dvd_condN_iff_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:35:25.884805+00:00
 -- url     : https://prove2.me/theorems/c998f89e-1468-4b94-b1bb-60d61dbc0725

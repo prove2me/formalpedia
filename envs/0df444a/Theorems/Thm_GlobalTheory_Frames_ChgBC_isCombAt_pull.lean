@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_ChgBC_isCombAt_pull
 -- name    : GlobalTheory.Frames.ChgBC.isCombAt_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:39:50.06111+00:00
 -- url     : https://prove2.me/theorems/d1599d86-c401-433b-9b2c-713a59b1e2d0

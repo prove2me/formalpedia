@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GalDiff_mem_differentIdeal_iff_one
 -- name    : GlobalTheory.GalDiff.mem_differentIdeal_iff_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:42:02.783865+00:00
 -- url     : https://prove2.me/theorems/537b8e43-4995-44af-afb9-dee54cf6ba80

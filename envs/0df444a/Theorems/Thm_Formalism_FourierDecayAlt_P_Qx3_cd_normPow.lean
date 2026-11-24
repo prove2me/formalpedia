@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_cd_normPow
 -- name    : Formalism.FourierDecayAlt.P.Qx3.cd_normPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:15:16.256591+00:00
 -- url     : https://prove2.me/theorems/940fa5f9-3a11-4241-8bfa-a46dfcc67385

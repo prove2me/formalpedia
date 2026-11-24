@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePotential_factor_rmul
 -- name    : GlobalTheory.FramePotential.factor_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:03.053893+00:00
 -- url     : https://prove2.me/theorems/d6794cd2-7637-439f-a3d3-bb5b3f6ae8f6

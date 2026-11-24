@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_exists_adj_selfDual_step
 -- name    : GlobalTheory.FinWeil.exists_adj_selfDual_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:25:20.092164+00:00
 -- url     : https://prove2.me/theorems/c00f30f2-08d0-401a-8819-ba8cdee9bf15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_eN_sq
 -- name    : PI.PolynomialProperness.CoreW.eN_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:28:38.414099+00:00
 -- url     : https://prove2.me/theorems/abf0b3f3-18b8-44be-a557-3e40e8764b33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_relIndex_inf_ne_zero
 -- name    : GlobalTheory.FunObj.relIndex_inf_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:48:17.926506+00:00
 -- url     : https://prove2.me/theorems/58b0df2f-8388-485b-8022-15968fb2b150

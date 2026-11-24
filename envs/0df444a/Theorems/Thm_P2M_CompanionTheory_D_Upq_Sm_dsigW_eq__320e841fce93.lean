@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_D_Upq_Sm_dsigW_eq__320e841fce93
 -- name    : P2M_CompanionTheory_D_Upq_Sm_dsigW_eq__320e841fce93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:49:07.308567+00:00
 -- url     : https://prove2.me/theorems/6322e2cb-408d-452f-8076-a6c2f0754172

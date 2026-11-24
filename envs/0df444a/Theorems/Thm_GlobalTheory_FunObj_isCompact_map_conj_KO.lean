@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_isCompact_map_conj_KO
 -- name    : GlobalTheory.FunObj.isCompact_map_conj_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:41:06.712743+00:00
 -- url     : https://prove2.me/theorems/8316f9f8-211c-47e9-96be-3a49942edb81

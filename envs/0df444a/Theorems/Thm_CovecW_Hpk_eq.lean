@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovecW_Hpk_eq
 -- name    : CovecW.Hpk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:06:24.872801+00:00
 -- url     : https://prove2.me/theorems/1543eac8-0d5a-4a78-bffb-565e036db978

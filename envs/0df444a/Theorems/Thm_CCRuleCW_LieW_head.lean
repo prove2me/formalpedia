@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_LieW_head
 -- name    : CCRuleCW.LieW.head
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:31:03.01581+00:00
 -- url     : https://prove2.me/theorems/cdecc429-2104-4ebc-8cd5-17697368e638

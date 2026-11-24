@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_valSuccAbove
 -- name    : PI.QnHermHaar.valSuccAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:16:23.492075+00:00
 -- url     : https://prove2.me/theorems/15504811-6d93-4247-acbd-cfa4bdf1f161

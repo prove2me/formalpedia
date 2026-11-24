@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameSymmetry_pt_sub
 -- name    : GlobalTheory.FrameSymmetry.pt_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:10:23.8488+00:00
 -- url     : https://prove2.me/theorems/dcc31e77-e76e-4a52-a4cb-05542e09d97f

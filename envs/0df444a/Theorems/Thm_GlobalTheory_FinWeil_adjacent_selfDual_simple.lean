@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_adjacent_selfDual_simple
 -- name    : GlobalTheory.FinWeil.adjacent_selfDual_simple
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:52:57.763368+00:00
 -- url     : https://prove2.me/theorems/fbfb4c58-1aed-4bb7-a7af-28d78a563e15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_toFrame_stair
 -- name    : GlobalTheory.FunObj.toFrame_stair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:43:58.571531+00:00
 -- url     : https://prove2.me/theorems/49a1109e-9723-4e8d-8161-e851ae13ec6a

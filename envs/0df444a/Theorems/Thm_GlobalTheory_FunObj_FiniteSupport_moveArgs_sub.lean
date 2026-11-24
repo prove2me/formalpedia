@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_moveArgs_sub
 -- name    : GlobalTheory.FunObj.FiniteSupport.moveArgs_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:43:38.22613+00:00
 -- url     : https://prove2.me/theorems/90d72f21-6dd1-4adb-87b2-346af3b215e9

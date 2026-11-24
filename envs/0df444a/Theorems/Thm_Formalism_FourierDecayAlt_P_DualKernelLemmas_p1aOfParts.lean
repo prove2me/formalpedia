@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DualKernelLemmas_p1aOfParts
 -- name    : Formalism.FourierDecayAlt.P.DualKernelLemmas.p1aOfParts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:04:04.244705+00:00
 -- url     : https://prove2.me/theorems/e7ed7f85-295d-4d38-abf1-b2f9e7cce2e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_ne_of_val_lt
 -- name    : Formalism.FourierDecayAlt.P.Qx4.ne_of_val_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:42:33.721354+00:00
 -- url     : https://prove2.me/theorems/ae4e3d30-21c3-4040-8280-4815ab607c8a

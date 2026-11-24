@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_mulVec_mem_box
 -- name    : GroundTheory.Automorphic.Measures.mulVec_mem_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:36:23.785231+00:00
 -- url     : https://prove2.me/theorems/d0324193-5608-4dbf-ad78-44ec7fd6a9c2

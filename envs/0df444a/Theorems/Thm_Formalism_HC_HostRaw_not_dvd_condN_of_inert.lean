@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_not_dvd_condN_of_inert
 -- name    : Formalism.HC.HostRaw.not_dvd_condN_of_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:35:34.033847+00:00
 -- url     : https://prove2.me/theorems/ed54f3f5-5db1-4a4f-9c72-178765370a76

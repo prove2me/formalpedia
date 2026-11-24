@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntegerMatrixMortality_FixedImage_increment_module
 -- name    : IntegerMatrixMortality.FixedImage.increment_module
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:34:11.664448+00:00
 -- url     : https://prove2.me/theorems/ac69c0cf-a66e-4ccc-81a7-e667727ad9e1

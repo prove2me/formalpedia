@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_isMu_iff
 -- name    : Formalism.HC.HostRaw.isMu_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:35:07.966073+00:00
 -- url     : https://prove2.me/theorems/2d4728b8-fe8a-4e00-aa16-75889bb605c1

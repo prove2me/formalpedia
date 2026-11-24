@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_lieBasis_iff_tanBasis
 -- name    : GlobalTheory.Frames.lieBasis_iff_tanBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:40:55.898912+00:00
 -- url     : https://prove2.me/theorems/11da8946-ab00-4eff-bb15-acc74f4b2f20

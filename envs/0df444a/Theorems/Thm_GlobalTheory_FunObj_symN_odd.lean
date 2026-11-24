@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_symN_odd
 -- name    : GlobalTheory.FunObj.symN_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:43:54.386798+00:00
 -- url     : https://prove2.me/theorems/3a210ccb-734f-43d8-b867-a8025b615bb5

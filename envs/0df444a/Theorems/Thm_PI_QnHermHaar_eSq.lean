@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_eSq
 -- name    : PI.QnHermHaar.eSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:41:34.484586+00:00
 -- url     : https://prove2.me/theorems/045047a0-4e69-420d-b6c6-69cb1b983e20

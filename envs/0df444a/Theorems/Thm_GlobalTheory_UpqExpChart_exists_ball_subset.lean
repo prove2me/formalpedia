@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqExpChart_exists_ball_subset
 -- name    : GlobalTheory.UpqExpChart.exists_ball_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:46:51.550963+00:00
 -- url     : https://prove2.me/theorems/377f0ea2-82fe-495d-8943-c56fb83efc82

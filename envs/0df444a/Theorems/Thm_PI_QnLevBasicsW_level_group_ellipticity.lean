@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_level_group_ellipticity
 -- name    : PI.QnLevBasicsW.level_group_ellipticity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:29:23.098889+00:00
 -- url     : https://prove2.me/theorems/c076dff7-8df6-420d-9d90-e8f87a65e8b7

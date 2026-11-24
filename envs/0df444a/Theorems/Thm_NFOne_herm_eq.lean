@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_herm_eq
 -- name    : NFOne.herm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:36:53.950789+00:00
 -- url     : https://prove2.me/theorems/5faf0743-3ec2-4c2f-8c08-6534020e77cb

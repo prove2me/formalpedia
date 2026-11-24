@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_stepPt_col
 -- name    : GlobalTheory.FunObj.stepPt_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:04:34.464138+00:00
 -- url     : https://prove2.me/theorems/b77b3859-a77d-4ab5-92e0-05bc62228b8b

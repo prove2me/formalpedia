@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_Fm_eq
 -- name    : PI.StabPairsW.Fm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:46:43.126013+00:00
 -- url     : https://prove2.me/theorems/1ca0951e-0ee4-4af4-a6f7-8850c2d6ddcc

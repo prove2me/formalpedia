@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TorusPts_tt_swap
 -- name    : GlobalTheory.UnitLemma.TorusPts.tt_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:36:30.082919+00:00
 -- url     : https://prove2.me/theorems/0b3710e8-f7d9-42b5-bcb6-77e266a84d2a

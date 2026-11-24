@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_kapSum_eq_zero_and_stSum_mul_eq_zero_of_not_isIntegral
 -- name    : GlobalTheory.UnitLemma.kapSum_eq_zero_and_stSum_mul_eq_zero_of_not_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:36:14.916023+00:00
 -- url     : https://prove2.me/theorems/34ed74c5-6245-47e9-b227-39b47682950f

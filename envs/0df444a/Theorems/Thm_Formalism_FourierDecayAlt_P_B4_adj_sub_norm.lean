@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_adj_sub_norm
 -- name    : Formalism.FourierDecayAlt.P.B4.adj_sub_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:30:02.722872+00:00
 -- url     : https://prove2.me/theorems/34033463-58e9-4c62-80cb-50a28be36c8f

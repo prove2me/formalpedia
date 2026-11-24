@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_character_exists_alt
 -- name    : Formalism.FourierDecayAlt.P.character_exists_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:33:48.966044+00:00
 -- url     : https://prove2.me/theorems/4162fca6-2b90-4363-a774-1c6c482f4560

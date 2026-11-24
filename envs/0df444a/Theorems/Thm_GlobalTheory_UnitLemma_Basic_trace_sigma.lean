@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Basic_trace_sigma
 -- name    : GlobalTheory.UnitLemma.Basic.trace_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:36:44.745799+00:00
 -- url     : https://prove2.me/theorems/41f0781f-cf8e-4677-a605-fd4ee301914c

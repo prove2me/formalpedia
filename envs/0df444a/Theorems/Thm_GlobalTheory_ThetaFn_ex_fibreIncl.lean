@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_ex_fibreIncl
 -- name    : GlobalTheory.ThetaFn.ex_fibreIncl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:36:48.092802+00:00
 -- url     : https://prove2.me/theorems/b75981ff-a757-432e-90b3-3b0de1984ebe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_iota_injective
 -- name    : Formalism.HC.Frame.iota_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:36:11.756403+00:00
 -- url     : https://prove2.me/theorems/5b1faae7-e463-4078-8fd9-905a1a12a31b

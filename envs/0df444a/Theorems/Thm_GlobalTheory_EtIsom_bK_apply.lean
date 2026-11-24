@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_bK_apply
 -- name    : GlobalTheory.EtIsom.bK_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:37:45.86833+00:00
 -- url     : https://prove2.me/theorems/a80b9fb8-7b47-4d28-bd59-7eb09d786a39

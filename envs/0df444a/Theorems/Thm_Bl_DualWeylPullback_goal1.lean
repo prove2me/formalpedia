@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bl_DualWeylPullback_goal1
 -- name    : Bl.DualWeylPullback.goal1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:19:30.642451+00:00
 -- url     : https://prove2.me/theorems/9625152d-9d63-48c6-a44c-1f7f224fb3f4

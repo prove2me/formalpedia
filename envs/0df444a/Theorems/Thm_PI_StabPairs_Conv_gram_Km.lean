@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_gram_Km
 -- name    : PI.StabPairs.Conv.gram_Km
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:47:31.122896+00:00
 -- url     : https://prove2.me/theorems/ceec1f54-095f-4a1c-88a9-bd69f71dcc55

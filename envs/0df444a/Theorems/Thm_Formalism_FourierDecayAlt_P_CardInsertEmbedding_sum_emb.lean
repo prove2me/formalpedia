@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CardInsertEmbedding_sum_emb
 -- name    : Formalism.FourierDecayAlt.P.CardInsertEmbedding.sum_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:33:49.348801+00:00
 -- url     : https://prove2.me/theorems/3d6cac5c-9c8c-4c60-b603-12c74166f3c8

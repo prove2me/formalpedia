@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_WeakApprox_skewPart_smul
 -- name    : GlobalTheory.UnRep.WeakApprox.skewPart_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:37:06.512271+00:00
 -- url     : https://prove2.me/theorems/e12d0fea-5c2e-4565-b488-683857cbb9c2

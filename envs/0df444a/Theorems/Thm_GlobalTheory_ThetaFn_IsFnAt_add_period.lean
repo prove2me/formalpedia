@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_IsFnAt_add_period
 -- name    : GlobalTheory.ThetaFn.IsFnAt.add_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:36:29.034265+00:00
 -- url     : https://prove2.me/theorems/ac6366eb-f2fd-4a8b-ae77-606ad15107ea

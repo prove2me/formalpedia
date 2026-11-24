@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowUniSplit_xs_eq
 -- name    : PI.LowUniSplit.xs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:38:33.216149+00:00
 -- url     : https://prove2.me/theorems/bbc9f107-b136-424a-9002-9556253a2fa1

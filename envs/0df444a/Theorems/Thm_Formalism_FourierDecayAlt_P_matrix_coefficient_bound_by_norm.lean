@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_matrix_coefficient_bound_by_norm
 -- name    : Formalism.FourierDecayAlt.P.matrix_coefficient_bound_by_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:06:08.580009+00:00
 -- url     : https://prove2.me/theorems/1d1f4762-3955-41f3-9f7a-74218911b60a

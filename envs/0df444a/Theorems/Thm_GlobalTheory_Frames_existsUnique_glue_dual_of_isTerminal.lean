@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_existsUnique_glue_dual_of_isTerminal
 -- name    : GlobalTheory.Frames.existsUnique_glue_dual_of_isTerminal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:40:13.686599+00:00
 -- url     : https://prove2.me/theorems/e3f6e844-c7fa-4e40-9940-7f427f6c8419

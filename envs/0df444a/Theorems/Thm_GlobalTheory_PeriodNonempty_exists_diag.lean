@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodNonempty_exists_diag
 -- name    : GlobalTheory.PeriodNonempty.exists_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:24.172288+00:00
 -- url     : https://prove2.me/theorems/b4cca4ef-b262-4333-8fd5-20a84bc9c3d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_levy_natFiltr_rightGerm_le_completed
 -- name    : Kyprianou.Ch03.levy_natFiltr_rightGerm_le_completed
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T04:00:03.605415+00:00
 -- url     : https://prove2.me/theorems/f0666111-850e-44c9-8630-c8093e5f3095

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_exp_log_ratio
 -- name    : Formalism.FourierDecayAlt.P.B6.exp_log_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:01:19.234135+00:00
 -- url     : https://prove2.me/theorems/ee66dc35-7832-46ab-af63-a8f422b17ae5

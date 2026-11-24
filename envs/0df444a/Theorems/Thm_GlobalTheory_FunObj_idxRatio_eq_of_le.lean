@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_idxRatio_eq_of_le
 -- name    : GlobalTheory.FunObj.idxRatio_eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:28.935551+00:00
 -- url     : https://prove2.me/theorems/701e6e65-0481-469d-960e-335bf27d7a3f

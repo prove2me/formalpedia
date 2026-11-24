@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypCount_exists_code
 -- name    : GlobalTheory.FinTypCount.exists_code
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:26:03.35306+00:00
 -- url     : https://prove2.me/theorems/f9970898-08ab-4357-a27a-70a711be0686

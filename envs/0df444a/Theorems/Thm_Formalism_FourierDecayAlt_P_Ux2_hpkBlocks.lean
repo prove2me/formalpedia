@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_hpkBlocks
 -- name    : Formalism.FourierDecayAlt.P.Ux2.hpkBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:49:12.541722+00:00
 -- url     : https://prove2.me/theorems/2fd7d876-385e-4759-a7bc-002196f15147

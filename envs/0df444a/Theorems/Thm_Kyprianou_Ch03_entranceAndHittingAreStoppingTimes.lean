@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_entranceAndHittingAreStoppingTimes
 -- name    : Kyprianou.Ch03.entranceAndHittingAreStoppingTimes
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:38:08.699387+00:00
 -- url     : https://prove2.me/theorems/77d46683-a47a-432c-a1bc-c5e41701dd17

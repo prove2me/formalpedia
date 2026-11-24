@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_exists_unit_bd
 -- name    : GlobalTheory.FunObj.FiniteSupport.exists_unit_bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:40:52.98361+00:00
 -- url     : https://prove2.me/theorems/676a8842-0b0c-47e0-b59a-e7d6523010b8

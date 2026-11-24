@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_gv_inv
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.gv_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:24:37.221487+00:00
 -- url     : https://prove2.me/theorems/84597683-d975-434f-a7db-63641bc900b0

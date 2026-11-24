@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_differentiable_genVal
 -- name    : GlobalTheory.FrameValue.differentiable_genVal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:32:49.305464+00:00
 -- url     : https://prove2.me/theorems/831d052c-b8c7-428b-86b4-4a0c252d382d

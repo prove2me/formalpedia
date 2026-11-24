@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_sum_mid
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.sum_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:26:16.378851+00:00
 -- url     : https://prove2.me/theorems/8043d593-a476-4dcd-ba0d-911ecaa4858c

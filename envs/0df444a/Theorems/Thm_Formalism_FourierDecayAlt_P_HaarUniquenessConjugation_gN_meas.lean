@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gN_meas
 -- name    : Formalism.FourierDecayAlt.P.HaarUniquenessConjugation.gN_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:11:54.296874+00:00
 -- url     : https://prove2.me/theorems/576431dd-5967-4005-a9fc-518ef2c1d429

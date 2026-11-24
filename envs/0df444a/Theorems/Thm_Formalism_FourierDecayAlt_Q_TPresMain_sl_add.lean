@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_sl_add
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.sl_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:34:46.532483+00:00
 -- url     : https://prove2.me/theorems/307add0e-cc5b-4856-a7dd-61107a1152a3

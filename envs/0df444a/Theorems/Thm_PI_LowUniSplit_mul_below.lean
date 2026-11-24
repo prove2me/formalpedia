@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowUniSplit_mul_below
 -- name    : PI.LowUniSplit.mul_below
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:39:25.01731+00:00
 -- url     : https://prove2.me/theorems/cbf5b395-4acc-4411-9fd3-b262aa8d388d

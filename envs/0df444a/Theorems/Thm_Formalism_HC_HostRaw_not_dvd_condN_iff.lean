@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_not_dvd_condN_iff
 -- name    : Formalism.HC.HostRaw.not_dvd_condN_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:12:26.960833+00:00
 -- url     : https://prove2.me/theorems/11d21c26-d6c9-47e2-9a3d-68c45d15a361

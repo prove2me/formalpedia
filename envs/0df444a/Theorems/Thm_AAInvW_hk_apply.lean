@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_hk_apply
 -- name    : AAInvW.hk_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:27:38.492354+00:00
 -- url     : https://prove2.me/theorems/85bef986-1f30-4670-bd10-8d9f6f08ece3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_downMap_shift
 -- name    : GlobalTheory.FunObj.FiniteSupport.downMap_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:05.364851+00:00
 -- url     : https://prove2.me/theorems/a3ae774a-5cdf-4158-8d2c-1ee9269e6803

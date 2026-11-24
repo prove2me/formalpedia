@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_single_conj
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.single_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:45:17.658793+00:00
 -- url     : https://prove2.me/theorems/6ca2c5f9-3af0-4bba-b99f-63e1ea030137

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_mul_stepPt_apply
 -- name    : GlobalTheory.FunObj.FiniteSupport.mul_stepPt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:43:00.305031+00:00
 -- url     : https://prove2.me/theorems/50660876-2e09-4eb2-bcbb-3b6b089069fb

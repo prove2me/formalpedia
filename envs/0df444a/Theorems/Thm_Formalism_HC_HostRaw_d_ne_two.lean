@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_d_ne_two
 -- name    : Formalism.HC.HostRaw.d_ne_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:12:46.237314+00:00
 -- url     : https://prove2.me/theorems/104d32b3-4923-49a8-bca4-43a982c44b3a

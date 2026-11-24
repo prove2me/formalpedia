@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagHook_Degree_multinomial_permExp
 -- name    : GlobalTheory.FlagHook.Degree.multinomial_permExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:31:43.574695+00:00
 -- url     : https://prove2.me/theorems/7496623f-38b0-40b1-a3a3-01d9cab336d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_two_le_absNorm_of_prime
 -- name    : GroundTheory.Global.two_le_absNorm_of_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:36:26.857809+00:00
 -- url     : https://prove2.me/theorems/6c02ef3d-72f7-4ba1-bbb9-bfa3ea46ea9e

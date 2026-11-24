@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightPQRepetition_Main_theorem_3_9
 -- name    : TightPQRepetition.Main.theorem_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T23:34:26.467988+00:00
 -- url     : https://prove2.me/theorems/f9f8befe-a67f-4fc9-b735-e086a465f453

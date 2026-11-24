@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_mem_hostE_iff
 -- name    : Formalism.FrobeniusOrbits.Galois.mem_hostE_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:52:51.159851+00:00
 -- url     : https://prove2.me/theorems/208ce720-2e44-403a-b5ab-21728796b194

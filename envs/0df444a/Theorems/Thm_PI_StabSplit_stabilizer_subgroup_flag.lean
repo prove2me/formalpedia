@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_stabilizer_subgroup_flag
 -- name    : PI.StabSplit.stabilizer_subgroup_flag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:47:06.018138+00:00
 -- url     : https://prove2.me/theorems/0b956d2e-f651-49bb-9f61-7aff30fdd0f4

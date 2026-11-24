@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldUnitsQuotFG_fg_units_quot
 -- name    : GlobalTheory.FieldUnitsQuotFG.fg_units_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:44.485804+00:00
 -- url     : https://prove2.me/theorems/16a7d49a-def3-4fb4-bbfa-8446ba541396

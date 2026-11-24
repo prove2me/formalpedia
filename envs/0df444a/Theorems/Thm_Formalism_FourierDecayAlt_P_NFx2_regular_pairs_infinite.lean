@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_regular_pairs_infinite
 -- name    : Formalism.FourierDecayAlt.P.NFx2.regular_pairs_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:19:31.669089+00:00
 -- url     : https://prove2.me/theorems/d7f5a471-6400-4aee-8e9e-e7aaba90eff9

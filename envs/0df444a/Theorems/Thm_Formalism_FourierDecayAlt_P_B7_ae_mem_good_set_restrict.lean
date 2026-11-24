@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_ae_mem_good_set_restrict
 -- name    : Formalism.FourierDecayAlt.P.B7.ae_mem_good_set_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:00:15.407971+00:00
 -- url     : https://prove2.me/theorems/97ec127d-536c-480c-aafa-4653a54adfa5

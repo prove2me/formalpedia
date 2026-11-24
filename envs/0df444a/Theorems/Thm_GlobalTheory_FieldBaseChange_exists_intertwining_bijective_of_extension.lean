@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_exists_intertwining_bijective_of_extension
 -- name    : GlobalTheory.FieldBaseChange.exists_intertwining_bijective_of_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:24:32.372044+00:00
 -- url     : https://prove2.me/theorems/bbdca463-dca0-448b-bb2f-8585a77a1b01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_existsUnique_equivariant_extension
 -- name    : GlobalTheory.FreeQuotient.existsUnique_equivariant_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:41:02.469797+00:00
 -- url     : https://prove2.me/theorems/276c68ad-b4db-4bb9-a1aa-f48b06953d07

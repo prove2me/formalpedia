@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_totalMapOfLE_succ
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.totalMapOfLE_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:28:20.529749+00:00
 -- url     : https://prove2.me/theorems/ecc2a30c-4b32-42cc-95e3-0a5904819552

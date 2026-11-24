@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_isPF_add
 -- name    : Formalism.FourierDecayAlt.P.NFx2.isPF_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:13:50.417355+00:00
 -- url     : https://prove2.me/theorems/da886016-cbda-426e-bf24-05876522b5c1

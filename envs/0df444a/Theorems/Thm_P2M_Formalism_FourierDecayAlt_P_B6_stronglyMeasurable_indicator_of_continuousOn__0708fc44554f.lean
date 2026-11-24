@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B6_stronglyMeasurable_indicator_of_continuousOn__0708fc44554f
 -- name    : P2M_Formalism_FourierDecayAlt_P_B6_stronglyMeasurable_indicator_of_continuousOn__0708fc44554f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:38:46.262865+00:00
 -- url     : https://prove2.me/theorems/10896dc4-270a-4e1b-8051-19a80195c525

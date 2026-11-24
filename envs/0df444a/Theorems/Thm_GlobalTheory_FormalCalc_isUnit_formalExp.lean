@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_isUnit_formalExp
 -- name    : GlobalTheory.FormalCalc.isUnit_formalExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:34:01.912779+00:00
 -- url     : https://prove2.me/theorems/619980a6-c8b8-46f4-be81-0febb615a455

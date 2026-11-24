@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Tower_fv_sub
 -- name    : GlobalTheory.AdLat.Tower.fv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:35:43.301623+00:00
 -- url     : https://prove2.me/theorems/932da96e-d76a-45e3-9261-3dd580156031

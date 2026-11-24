@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleChart_restrictToSubscheme_coordIdeal_singleton
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleChart.restrictToSubscheme_coordIdeal_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:35:25.04849+00:00
 -- url     : https://prove2.me/theorems/7344c1f4-7145-4b5d-8ab6-dd7edf9beb08

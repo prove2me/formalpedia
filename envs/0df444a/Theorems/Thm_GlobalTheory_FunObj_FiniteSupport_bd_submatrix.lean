@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_bd_submatrix
 -- name    : GlobalTheory.FunObj.FiniteSupport.bd_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:40:24.125125+00:00
 -- url     : https://prove2.me/theorems/3cd2c369-7b94-4fc2-9f55-4abebf444115

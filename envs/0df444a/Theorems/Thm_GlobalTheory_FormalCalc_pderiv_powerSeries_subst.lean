@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_pderiv_powerSeries_subst
 -- name    : GlobalTheory.FormalCalc.pderiv_powerSeries_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:45:48.845146+00:00
 -- url     : https://prove2.me/theorems/0e468960-84b9-4554-88d8-a0c1c9438035

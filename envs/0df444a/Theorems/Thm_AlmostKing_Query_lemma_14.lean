@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlmostKing_Query_lemma_14
 -- name    : AlmostKing.Query.lemma_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:52:06.057202+00:00
 -- url     : https://prove2.me/theorems/44969d09-b904-45e1-a2cf-9a38e3640cdb

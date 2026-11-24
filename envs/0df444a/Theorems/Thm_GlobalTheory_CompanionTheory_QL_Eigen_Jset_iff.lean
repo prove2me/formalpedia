@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Eigen_Jset_iff
 -- name    : GlobalTheory.CompanionTheory.QL.Eigen.Jset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:28:53.501884+00:00
 -- url     : https://prove2.me/theorems/6a6ea5fb-5a75-4d60-b830-90b0edc87d69

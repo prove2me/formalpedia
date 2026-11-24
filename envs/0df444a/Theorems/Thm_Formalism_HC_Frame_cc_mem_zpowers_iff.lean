@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_cc_mem_zpowers_iff
 -- name    : Formalism.HC.Frame.cc_mem_zpowers_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:33:47.296262+00:00
 -- url     : https://prove2.me/theorems/570f5d8c-9cd5-46c7-ba87-9a2b1d34f88b

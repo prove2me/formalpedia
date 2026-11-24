@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__lt_inv_ad263186a75e
 -- name    : P2M_PI_MirrorSection__lt_inv_ad263186a75e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:59:57.18538+00:00
 -- url     : https://prove2.me/theorems/7488114a-7416-4171-93ac-c7da4d4487c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_descent_of_invariant_dual_basis
 -- name    : GlobalTheory.FreeQuotient.descent_of_invariant_dual_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:39.670619+00:00
 -- url     : https://prove2.me/theorems/ea253e6a-3b8b-4cb0-bff3-a12daabcd990

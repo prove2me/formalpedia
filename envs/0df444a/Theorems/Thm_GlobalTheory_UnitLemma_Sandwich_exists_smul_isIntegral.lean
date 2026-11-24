@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Sandwich_exists_smul_isIntegral
 -- name    : GlobalTheory.UnitLemma.Sandwich.exists_smul_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:37:18.061027+00:00
 -- url     : https://prove2.me/theorems/22e1abda-233f-4f18-adb2-699cb7f7ee37

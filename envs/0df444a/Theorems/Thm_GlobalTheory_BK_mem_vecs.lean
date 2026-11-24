@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_mem_vecs
 -- name    : GlobalTheory.BK.mem_vecs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:36:10.915594+00:00
 -- url     : https://prove2.me/theorems/e9910b0f-9857-463b-bb08-9506c8a5fe48

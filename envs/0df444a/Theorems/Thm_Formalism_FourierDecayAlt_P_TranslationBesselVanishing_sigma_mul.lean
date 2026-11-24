@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TranslationBesselVanishing_sigma_mul
 -- name    : Formalism.FourierDecayAlt.P.TranslationBesselVanishing.sigma_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:30:26.635598+00:00
 -- url     : https://prove2.me/theorems/a84c0bae-bf65-4367-a968-eb7b0a6d24b6

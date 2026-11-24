@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_cutoff_square_product_continuous
 -- name    : Formalism.FourierDecayAlt.P.B6.cutoff_square_product_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:01:00.907001+00:00
 -- url     : https://prove2.me/theorems/35eaab97-48d0-4e29-a839-0596996c7954

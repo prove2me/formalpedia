@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_stepPt_joinVars
 -- name    : GlobalTheory.FunObj.stepPt_joinVars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:44:06.047981+00:00
 -- url     : https://prove2.me/theorems/826d5560-1f74-44ab-bcba-237f13a13097

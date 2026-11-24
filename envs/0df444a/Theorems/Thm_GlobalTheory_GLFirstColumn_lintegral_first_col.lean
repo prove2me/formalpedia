@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLFirstColumn_lintegral_first_col
 -- name    : GlobalTheory.GLFirstColumn.lintegral_first_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:24.72612+00:00
 -- url     : https://prove2.me/theorems/dd491057-e28f-4209-a71b-002934eb0ae9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_vecV_nsmul
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.vecV_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:48:42.719011+00:00
 -- url     : https://prove2.me/theorems/e0ee44bd-d566-4241-b9b4-2b520dadb956

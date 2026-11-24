@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_sgI_eq_iff
 -- name    : PI.StabPairsW.sgI_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:46:57.925804+00:00
 -- url     : https://prove2.me/theorems/3bfa571d-8ce6-4d36-a3f7-df2436cf516d

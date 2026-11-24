@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stepanovHasseQuotMap_mul
 -- name    : stepanovHasseQuotMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:35:46.947581+00:00
 -- url     : https://prove2.me/theorems/adb70e80-83cc-4381-931b-81b10dc2370e

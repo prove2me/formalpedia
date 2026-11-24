@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_BK_eval__toHat_eq_iff_7e88105c9732
 -- name    : P2M_GlobalTheory_BK_eval__toHat_eq_iff_7e88105c9732
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:38:07.642481+00:00
 -- url     : https://prove2.me/theorems/1390b119-c468-4eb4-9f8b-0241c7021960

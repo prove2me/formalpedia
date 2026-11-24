@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_span_translates_vacua
 -- name    : GlobalTheory.FinWeil.span_translates_vacua
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:30:30.7428+00:00
 -- url     : https://prove2.me/theorems/8b80a58d-ac70-4e29-ad59-38c6dcee1440

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePull_ev_point_fun
 -- name    : GlobalTheory.FramePull.ev_point_fun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:55:15.784446+00:00
 -- url     : https://prove2.me/theorems/47f2bd11-1d7e-41c1-b5e5-6134b6f5f7b0

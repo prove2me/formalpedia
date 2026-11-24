@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBaseChange_copy_square
 -- name    : GlobalTheory.FrameBaseChange.copy_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:36:06.071892+00:00
 -- url     : https://prove2.me/theorems/02082328-0d62-48b6-b934-f980b38ec49d

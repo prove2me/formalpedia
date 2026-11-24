@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnProd_exists_basis_lat
 -- name    : GlobalTheory.UnitLemma.SgnProd.exists_basis_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:37:13.813961+00:00
 -- url     : https://prove2.me/theorems/c7ea2e85-d649-4b26-a401-f268e7d9ab71

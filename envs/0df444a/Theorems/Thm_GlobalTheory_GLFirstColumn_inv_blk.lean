@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLFirstColumn_inv_blk
 -- name    : GlobalTheory.GLFirstColumn.inv_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:24.832793+00:00
 -- url     : https://prove2.me/theorems/c04ce59e-2a86-447a-9c03-62759a145d97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_UPosW_cols_conjTranspose
 -- name    : PI.FrameInd.UPosW.cols_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:39:36.875811+00:00
 -- url     : https://prove2.me/theorems/48c8fedb-453c-4053-b1db-c1954429b87c

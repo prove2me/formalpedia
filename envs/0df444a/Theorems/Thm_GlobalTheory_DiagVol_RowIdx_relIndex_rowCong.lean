@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_RowIdx_relIndex_rowCong
 -- name    : GlobalTheory.DiagVol.RowIdx.relIndex_rowCong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:38.990822+00:00
 -- url     : https://prove2.me/theorems/44646352-4452-4bda-8b0b-6a60a0406d92

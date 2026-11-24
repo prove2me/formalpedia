@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_idxRatio_map
 -- name    : GlobalTheory.FunObj.idxRatio_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:39.532679+00:00
 -- url     : https://prove2.me/theorems/b0144d8b-12c7-43d0-ac33-61bc14eceb68

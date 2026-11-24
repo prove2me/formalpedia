@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_mxInv_mem
 -- name    : GlobalTheory.BK.PhiMod.mxInv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:34:49.934022+00:00
 -- url     : https://prove2.me/theorems/57424198-84e7-4f0e-b7c0-e24a80ab2343

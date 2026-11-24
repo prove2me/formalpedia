@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsThick_comb_surjective
 -- name    : GlobalTheory.EpsThick.comb_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:58:23.640513+00:00
 -- url     : https://prove2.me/theorems/152391d2-7faa-4d05-8c8c-6110aecffe17

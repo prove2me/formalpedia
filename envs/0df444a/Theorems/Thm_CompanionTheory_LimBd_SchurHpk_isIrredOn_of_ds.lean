@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_SchurHpk_isIrredOn_of_ds
 -- name    : CompanionTheory.LimBd.SchurHpk.isIrredOn_of_ds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:28:10.586352+00:00
 -- url     : https://prove2.me/theorems/d4ea9d27-0bfa-4449-8efd-f35378c9fbed

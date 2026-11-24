@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_IsToricSum_unique
 -- name    : GlobalTheory.CMVal.IsToricSum.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:16:47.932748+00:00
 -- url     : https://prove2.me/theorems/f31c1df4-c47a-402e-a95c-876aacd34aed

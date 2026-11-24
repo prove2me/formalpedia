@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GallagherLemma_continuous_fourier
 -- name    : GlobalTheory.GallagherLemma.continuous_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:41:26.214246+00:00
 -- url     : https://prove2.me/theorems/c32cbf25-0fcc-4e9b-b542-f7ee0bf94491

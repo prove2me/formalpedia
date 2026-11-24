@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_isAdapted_iff
 -- name    : GlobalTheory.FullFlag.isAdapted_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:07.830985+00:00
 -- url     : https://prove2.me/theorems/7cdfea41-9ba2-4257-a404-1cd9712caeac

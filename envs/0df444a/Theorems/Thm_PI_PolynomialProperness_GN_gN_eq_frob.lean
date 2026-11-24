@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_gN_eq_frob
 -- name    : PI.PolynomialProperness.GN.gN_eq_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:38:59.309604+00:00
 -- url     : https://prove2.me/theorems/b958e787-83f0-44b8-b9a6-8f10fe395394

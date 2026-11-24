@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_finrank_cmField
 -- name    : Formalism.FrobeniusOrbits.Galois.finrank_cmField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:53:32.485797+00:00
 -- url     : https://prove2.me/theorems/6bcbb13c-9fbf-425b-98d5-35722fa1a9d2

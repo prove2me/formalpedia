@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_OneCosetProof_mem_KO_of_frameGL
 -- name    : GlobalTheory.FunObj.OneCosetProof.mem_KO_of_frameGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:42:49.655825+00:00
 -- url     : https://prove2.me/theorems/e1db5e93-fd6c-4eb1-8ad3-37963e63d26f

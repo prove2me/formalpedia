@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_bsum_mul
 -- name    : PI.ComplexConjugateDerivative.bsum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:38:55.294055+00:00
 -- url     : https://prove2.me/theorems/7fce4c73-e28a-4446-b464-bebba75442f6

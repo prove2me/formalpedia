@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirichletTail_LFunction_eq_tsum
 -- name    : GlobalTheory.DirichletTail.LFunction_eq_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:46.722396+00:00
 -- url     : https://prove2.me/theorems/d5cd25a3-6089-4d0e-abe5-9d83b4e801ff

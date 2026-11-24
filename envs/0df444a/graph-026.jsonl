@@ -39386,7 +39386,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.density1_r0_14_eq_g", "child": "OAIQ098G393", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r0_14_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U45.entry5_1_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
-{"parent": "StableCountSub3.lemma_B_5", "child": "StableCountSub3_Savings", "via": ["statement"]}
+{"parent": "StableCountSub3.lemma_B_5", "child": "StableCountSub3_Savings", "via": ["solution", "statement"]}
 {"parent": "OnlineDiscUniv.proposition_2_1", "child": "OnlineDiscUniv_Ralpha", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.BoundaryUnit.reverse", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbedding", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.BoundaryUnit.reverse", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbeddingCoordinates", "via": ["solution", "statement"]}
@@ -49689,7 +49689,7 @@
 {"parent": "ChoiSemiHonestMPC.OTUpper.lemma_4_5", "child": "ChoiSemiHonestMPC_OTUpper_AdaptiveQueries", "via": ["statement"]}
 {"parent": "OAI.SecondPassArithmetic.cubeParityKey_ne_zero", "child": "OAI_NumberTheory_DirichletL_CubicSieve_RowCaps", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.cubeParityKey_ne_zero", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SmoothTests", "via": ["solution", "statement"]}
-{"parent": "IntegerMatrixMortality.FixedImage.increment_module", "child": "IntegerMatrixMortality_FixedImage_ScanInterfaces", "via": ["statement"]}
+{"parent": "IntegerMatrixMortality.FixedImage.increment_module", "child": "IntegerMatrixMortality_FixedImage_ScanInterfaces", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXLocalReplacement.rxPresentation_boundary1_local_eq_one_iff", "child": "QEC_Coding_FiniteAlternatingConstruction_RXLocalReplacement", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXLocalReplacement.rxPresentation_boundary1_local_eq_one_iff", "child": "QEC_Coding_FiniteAlternatingConstruction_RXPresentationCochain", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXLocalReplacement.rxPresentation_boundary1_local_eq_one_iff", "child": "QEC_Coding_FiniteAlternatingConstruction_RZCoordinateBridge", "via": ["solution", "statement"]}
@@ -54569,7 +54569,7 @@
 {"parent": "DistancePreserver934.Exact.lemma_25", "child": "DistancePreserver934_Exact_Preservers", "via": ["statement"]}
 {"parent": "DistancePreserver934.Exact.lemma_25", "child": "DistancePreserver934_Exact_Essential", "via": ["statement"]}
 {"parent": "DistancePreserver934.Exact.lemma_25", "child": "DistancePreserver934_Exact_Removal", "via": ["statement"]}
-{"parent": "UnaryQuadraticKKT.Hardness.chain_interior", "child": "UnaryQuadraticKKT_Hardness_Chain", "via": ["statement"]}
+{"parent": "UnaryQuadraticKKT.Hardness.chain_interior", "child": "UnaryQuadraticKKT_Hardness_Chain", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm36_1_0_11.s4_eq_g", "child": "OAIQ098G1157", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm36_1_0_11.s4_eq_g", "child": "OAIQ098G1165", "via": ["solution", "statement"]}
 {"parent": "LocalLemmaHierarchy.Completeness.proposition_3_4", "child": "LocalLemmaHierarchy_Completeness_Representation", "via": ["solution", "statement"]}

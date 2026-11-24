@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_natCard_cyclic_subgroup
 -- name    : Formalism.HC.Frame.natCard_cyclic_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:35:04.255165+00:00
 -- url     : https://prove2.me/theorems/b98bc5c1-7cd1-4a55-8fcf-aa4baa0e86c8

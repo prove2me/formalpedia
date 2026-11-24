@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_bsum_mono
 -- name    : PI.ComplexConjugateDerivative.bsum_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:39:25.743555+00:00
 -- url     : https://prove2.me/theorems/c7042c7c-a682-4347-99de-260286b42c76

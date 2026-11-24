@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_herm_Hpk_of_inWb_eq_sum_wI
 -- name    : NFOne.herm_Hpk_of_inWb_eq_sum_wI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:47:10.614848+00:00
 -- url     : https://prove2.me/theorems/8e73bc51-4bc0-4e3f-bd7b-964118a4ed0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdelicMatLat_exists_lattice_integral
 -- name    : GlobalTheory.AdelicMatLat.exists_lattice_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:01:54.908558+00:00
 -- url     : https://prove2.me/theorems/33e4f151-f667-44b8-940a-63dac6907549

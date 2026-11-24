@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteBirationalNear_main
 -- name    : GlobalTheory.FiniteBirationalNear.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:50.823025+00:00
 -- url     : https://prove2.me/theorems/e17c8967-b9d6-4b29-ac2a-f05e393e3697

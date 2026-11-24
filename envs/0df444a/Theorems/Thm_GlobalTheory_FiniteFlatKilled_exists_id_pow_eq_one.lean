@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFlatKilled_exists_id_pow_eq_one
 -- name    : GlobalTheory.FiniteFlatKilled.exists_id_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:21.816427+00:00
 -- url     : https://prove2.me/theorems/bb929bd5-b1f6-4abd-ba09-2a408f08edda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_SandwichRhoAction_sgs_eq__593e24e4c7f7
 -- name    : P2M_Formalism_FourierDecayAlt_P_SandwichRhoAction_sgs_eq__593e24e4c7f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:37:58.691033+00:00
 -- url     : https://prove2.me/theorems/4b9a1db2-9301-4455-abf8-5d077ab2685b

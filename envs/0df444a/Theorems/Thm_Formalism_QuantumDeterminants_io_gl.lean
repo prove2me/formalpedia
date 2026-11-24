@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_io_gl
 -- name    : Formalism.QuantumDeterminants.io_gl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:34:52.099202+00:00
 -- url     : https://prove2.me/theorems/09848b85-0f54-481d-b5f4-e8cd8516707b

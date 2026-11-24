@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_herm_comb
 -- name    : NFOne.herm_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:48:07.51339+00:00
 -- url     : https://prove2.me/theorems/b040f71b-d356-4572-82f0-7d243ee4ea65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_isTypeFn
 -- name    : GlobalTheory.FramePeriod.isTypeFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:39:11.403146+00:00
 -- url     : https://prove2.me/theorems/e2e6b377-11db-4ccc-a8c3-5f5ad74959bf

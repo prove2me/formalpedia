@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_valSkip2
 -- name    : PI.QnHermHaar.valSkip2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:40:25.060807+00:00
 -- url     : https://prove2.me/theorems/fda82c93-30d4-438a-8f20-bbb0ec28f6ab

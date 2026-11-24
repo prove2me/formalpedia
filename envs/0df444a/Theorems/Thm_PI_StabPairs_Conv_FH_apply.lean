@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_FH_apply
 -- name    : PI.StabPairs.Conv.FH_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:47:43.285331+00:00
 -- url     : https://prove2.me/theorems/348f5f6f-b929-477b-9826-2f07f58b2636

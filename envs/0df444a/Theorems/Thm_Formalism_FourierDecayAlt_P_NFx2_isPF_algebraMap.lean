@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_isPF_algebraMap
 -- name    : Formalism.FourierDecayAlt.P.NFx2.isPF_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:19:04.567513+00:00
 -- url     : https://prove2.me/theorems/c6a30070-28b5-4fc3-9168-b4a7d1fd258a

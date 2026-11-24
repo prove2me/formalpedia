@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_herm_star
 -- name    : Formalism.FourierDecayAlt.P.Qx2.herm_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:10:14.810442+00:00
 -- url     : https://prove2.me/theorems/93628362-cb84-4248-bb01-7bd0a47b67f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormUnits_exists_far_unit
 -- name    : GlobalTheory.NormUnits.exists_far_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:36:08.466744+00:00
 -- url     : https://prove2.me/theorems/f2a2c428-ebf8-42fb-b759-25d9288b355e

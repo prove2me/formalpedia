@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime_of_isClosed
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T10:49:47.932106+00:00
 -- url     : https://prove2.me/submissions/7b1ef2db-77c4-425f-ae44-c0e74a5478fa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch03_completedStoppingInfSupAEEqV1
 import Theorems.Thm_Kyprianou_Ch03_closedHitApproximationAELimitV1

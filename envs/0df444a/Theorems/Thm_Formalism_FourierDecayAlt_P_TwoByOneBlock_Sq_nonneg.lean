@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_Sq_nonneg
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.Sq_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:33:00.462623+00:00
 -- url     : https://prove2.me/theorems/76d517c1-7e1e-4af7-bc66-33d70d9ea9f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_herm_mulVec
 -- name    : PI.PolynomialProperness.GN.herm_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:38:29.163735+00:00
 -- url     : https://prove2.me/theorems/9533d54d-8ba4-43f5-b088-e970cb6186b2

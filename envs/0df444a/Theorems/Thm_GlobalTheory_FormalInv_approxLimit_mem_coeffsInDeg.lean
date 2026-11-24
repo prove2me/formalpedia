@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_approxLimit_mem_coeffsInDeg
 -- name    : GlobalTheory.FormalInv.approxLimit_mem_coeffsInDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:35:07.914877+00:00
 -- url     : https://prove2.me/theorems/edd13dea-95a0-458e-a538-1c977b5b2160

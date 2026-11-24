@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integrable_lie_derivative_weighted
 -- name    : Formalism.REAL.integrable_lie_derivative_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:13:56.200967+00:00
 -- url     : https://prove2.me/theorems/1493e501-31ea-45ea-aca6-1e07bb4b5503

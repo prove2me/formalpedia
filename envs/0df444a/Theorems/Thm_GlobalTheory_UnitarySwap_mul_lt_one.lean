@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_mul_lt_one
 -- name    : GlobalTheory.UnitarySwap.mul_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:46:03.536958+00:00
 -- url     : https://prove2.me/theorems/eae2b545-850e-4aa0-8f74-623d2f2085b2

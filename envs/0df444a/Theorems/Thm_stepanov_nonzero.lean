@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stepanov_nonzero
 -- name    : stepanov_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:19.786911+00:00
 -- url     : https://prove2.me/theorems/c8b12d93-6cea-4f75-a69a-66a9923bbc65

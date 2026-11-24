@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_qrefl_mem
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.qrefl_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:26:17.386239+00:00
 -- url     : https://prove2.me/theorems/0d797ca5-96d0-444e-ab23-74c894542a23

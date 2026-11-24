@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GallagherLemma_integral_norm_sq_Lp
 -- name    : GlobalTheory.GallagherLemma.integral_norm_sq_Lp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:43:14.155132+00:00
 -- url     : https://prove2.me/theorems/8312e76a-06fa-468a-9641-7c0df9dd0299

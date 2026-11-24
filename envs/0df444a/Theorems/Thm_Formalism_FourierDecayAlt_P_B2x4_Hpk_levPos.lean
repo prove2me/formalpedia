@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x4_Hpk_levPos
 -- name    : Formalism.FourierDecayAlt.P.B2x4.Hpk_levPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:26:07.372959+00:00
 -- url     : https://prove2.me/theorems/0646e8e4-bf5d-419e-afd0-9e98cc1148d8

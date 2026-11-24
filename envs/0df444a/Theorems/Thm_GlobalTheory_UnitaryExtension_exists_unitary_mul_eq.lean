@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryExtension_exists_unitary_mul_eq
 -- name    : GlobalTheory.UnitaryExtension.exists_unitary_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:38:11.311821+00:00
 -- url     : https://prove2.me/theorems/03dc8768-c674-4bc8-8882-32310608e89e

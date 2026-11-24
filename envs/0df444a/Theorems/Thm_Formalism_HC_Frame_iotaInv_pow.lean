@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_iotaInv_pow
 -- name    : Formalism.HC.Frame.iotaInv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:35:08.717183+00:00
 -- url     : https://prove2.me/theorems/a05fca6a-5850-42b2-a92c-e3d3bfbe28bb

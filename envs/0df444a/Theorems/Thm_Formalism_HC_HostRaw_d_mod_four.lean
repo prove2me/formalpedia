@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_d_mod_four
 -- name    : Formalism.HC.HostRaw.d_mod_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:09:54.238792+00:00
 -- url     : https://prove2.me/theorems/e650acd4-ac4a-41a0-8f79-a92317c4fbb5

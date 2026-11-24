@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovecW_sig_esI
 -- name    : CovecW.sig_esI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:06:53.727511+00:00
 -- url     : https://prove2.me/theorems/0f87c94b-3444-4cac-b0b5-d0775de5ec77

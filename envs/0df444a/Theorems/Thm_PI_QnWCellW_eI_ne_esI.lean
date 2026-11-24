@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnWCellW_eI_ne_esI
 -- name    : PI.QnWCellW.eI_ne_esI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:44:36.650321+00:00
 -- url     : https://prove2.me/theorems/cc082660-5c7c-4646-9db6-736b9ba4c93c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch03.closedHitApproximationAELimitV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T12:39:16.72256+00:00
 -- url     : https://prove2.me/submissions/95e96f24-3578-4de9-98d5-5d01362d6a4e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

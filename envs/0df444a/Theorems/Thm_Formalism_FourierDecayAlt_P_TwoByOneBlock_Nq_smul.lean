@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_Nq_smul
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.Nq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:48:22.929811+00:00
 -- url     : https://prove2.me/theorems/f1966eee-e296-4c66-9111-69e42df97ac3

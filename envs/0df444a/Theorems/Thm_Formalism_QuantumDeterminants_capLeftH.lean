@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capLeftH
 -- name    : Formalism.QuantumDeterminants.capLeftH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:35:54.75283+00:00
 -- url     : https://prove2.me/theorems/b68cdd51-f775-4fb7-93f1-ec1c93c4de99

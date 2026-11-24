@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalSeries_jacobian_subst
 -- name    : GlobalTheory.FormalSeries.jacobian_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:36:24.295796+00:00
 -- url     : https://prove2.me/theorems/16a5076c-913d-4b02-919b-dc250bbcce02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_digit_mem_cyclic_subgroup
 -- name    : Formalism.HC.Frame.digit_mem_cyclic_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:34:09.341135+00:00
 -- url     : https://prove2.me/theorems/424094c1-882e-45f7-9275-e5fb4a0a06cc

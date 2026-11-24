@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_phi_measurable
 -- name    : Formalism.FourierDecayAlt.P.HaarUniquenessConjugation.phi_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:58:31.985279+00:00
 -- url     : https://prove2.me/theorems/c1a3f748-18af-44c6-bd06-201727292428

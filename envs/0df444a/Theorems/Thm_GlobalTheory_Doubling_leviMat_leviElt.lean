@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_leviMat_leviElt
 -- name    : GlobalTheory.Doubling.leviMat_leviElt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:34.457672+00:00
 -- url     : https://prove2.me/theorems/e5fbfe3f-03e9-46c2-8c23-3f7d309663a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_isClosedEmbedding_stepPt
 -- name    : GlobalTheory.FunObj.isClosedEmbedding_stepPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:41:07.148288+00:00
 -- url     : https://prove2.me/theorems/f57228a3-20a4-4efa-9c61-14c1a06fd9d1

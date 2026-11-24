@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_entry_hasDerivAt
 -- name    : CCRuleCW.entry_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:17:32.846856+00:00
 -- url     : https://prove2.me/theorems/af1f40b2-6fd0-4519-b26e-c4e0be5e9fba

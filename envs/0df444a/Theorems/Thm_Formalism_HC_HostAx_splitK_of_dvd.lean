@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_splitK_of_dvd
 -- name    : Formalism.HC.HostAx.splitK_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:35:30.065831+00:00
 -- url     : https://prove2.me/theorems/38ed5b91-5ee0-4f55-9f25-3719048232b6

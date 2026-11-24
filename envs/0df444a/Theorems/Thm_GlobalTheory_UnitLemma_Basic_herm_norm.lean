@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Basic_herm_norm
 -- name    : GlobalTheory.UnitLemma.Basic.herm_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:36:39.145916+00:00
 -- url     : https://prove2.me/theorems/a01b7866-95ec-49e1-a6bc-3da1ee3f2080

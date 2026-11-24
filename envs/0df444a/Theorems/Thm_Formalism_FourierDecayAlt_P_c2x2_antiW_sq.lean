@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c2x2_antiW_sq
 -- name    : Formalism.FourierDecayAlt.P.c2x2_antiW_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:22:29.382797+00:00
 -- url     : https://prove2.me/theorems/0ac53c58-4851-48f4-9e9a-f4305fd38945

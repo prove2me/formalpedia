@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_nsq_ofReal
 -- name    : PI.PolynomialProperness.CoreW.nsq_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:39:27.774483+00:00
 -- url     : https://prove2.me/theorems/4060e3d8-227c-4a85-8e62-8a6a8c9640f0

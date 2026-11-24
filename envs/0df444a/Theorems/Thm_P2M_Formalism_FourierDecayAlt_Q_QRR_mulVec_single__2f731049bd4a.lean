@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_Q_QRR_mulVec_single__2f731049bd4a
 -- name    : P2M_Formalism_FourierDecayAlt_Q_QRR_mulVec_single__2f731049bd4a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:37:32.031664+00:00
 -- url     : https://prove2.me/theorems/77f870ee-4559-4da0-8b89-17c57760617f

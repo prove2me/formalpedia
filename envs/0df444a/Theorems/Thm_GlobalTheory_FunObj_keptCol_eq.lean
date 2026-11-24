@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_keptCol_eq
 -- name    : GlobalTheory.FunObj.keptCol_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:41:30.345808+00:00
 -- url     : https://prove2.me/theorems/99643360-d7cc-48aa-9e5f-a361a37da603

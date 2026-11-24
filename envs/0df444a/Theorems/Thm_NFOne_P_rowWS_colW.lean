@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_P_rowWS_colW
 -- name    : NFOne.P_rowWS_colW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:06:23.139115+00:00
 -- url     : https://prove2.me/theorems/cd315cdf-e440-4c59-a207-5e4751c579d4

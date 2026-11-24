@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_aDil_gN_bound
 -- name    : Formalism.FourierDecayAlt.P.B6.aDil_gN_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:56:47.963854+00:00
 -- url     : https://prove2.me/theorems/dee1f402-2d92-4b90-a64e-8b4ac23be990

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_LogDeriv_eq_zero_of_rec
 -- name    : GlobalTheory.CuspGL.LogDeriv.eq_zero_of_rec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:29:50.074365+00:00
 -- url     : https://prove2.me/theorems/a4d8d40f-c1d4-4337-a2e9-8280b2c78b1b

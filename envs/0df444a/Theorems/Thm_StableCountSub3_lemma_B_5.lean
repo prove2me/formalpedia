@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableCountSub3_lemma_B_5
 -- name    : StableCountSub3.lemma_B_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:51:43.94681+00:00
 -- url     : https://prove2.me/theorems/097a9778-341b-404b-bb8c-63d8f9becee8

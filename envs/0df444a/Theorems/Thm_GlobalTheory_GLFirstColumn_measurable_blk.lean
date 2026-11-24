@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLFirstColumn_measurable_blk
 -- name    : GlobalTheory.GLFirstColumn.measurable_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:35.903818+00:00
 -- url     : https://prove2.me/theorems/90fd5581-9541-44bb-976a-193ab098b981

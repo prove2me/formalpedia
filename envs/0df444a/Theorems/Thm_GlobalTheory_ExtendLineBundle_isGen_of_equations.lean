@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendLineBundle_isGen_of_equations
 -- name    : GlobalTheory.ExtendLineBundle.isGen_of_equations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:18:01.120875+00:00
 -- url     : https://prove2.me/theorems/ffd57b29-a6dd-401a-b1a6-c090e709d06a

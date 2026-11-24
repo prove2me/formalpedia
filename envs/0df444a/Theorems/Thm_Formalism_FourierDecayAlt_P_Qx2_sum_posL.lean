@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_sum_posL
 -- name    : Formalism.FourierDecayAlt.P.Qx2.sum_posL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:21:08.303123+00:00
 -- url     : https://prove2.me/theorems/61aa6174-456a-48bb-ac14-b367ed8cc9d8

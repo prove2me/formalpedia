@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableFracMomentMaxAbsLocallyBoundedV1
 -- name    : Kyprianou.Ch03.stableFracMomentMaxAbsLocallyBoundedV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T15:10:12.366301+00:00
 -- url     : https://prove2.me/theorems/b7d6fcf5-5b49-4b30-9f5c-ae2b7688c903

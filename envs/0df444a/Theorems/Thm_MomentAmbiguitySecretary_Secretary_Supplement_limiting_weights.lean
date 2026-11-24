@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentAmbiguitySecretary_Secretary_Supplement_limiting_weights
 -- name    : MomentAmbiguitySecretary.Secretary.Supplement.limiting_weights
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:49:57.389994+00:00
 -- url     : https://prove2.me/theorems/ee382d72-ffad-48ba-80c4-783d8ea1ee92

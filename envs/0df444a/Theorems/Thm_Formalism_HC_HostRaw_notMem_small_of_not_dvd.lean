@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_notMem_small_of_not_dvd
 -- name    : Formalism.HC.HostRaw.notMem_small_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:35:28.553245+00:00
 -- url     : https://prove2.me/theorems/06f0368c-cb27-4ab4-b7c1-c9c7f9f899ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_eT_sum
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.eT_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:35:22.765047+00:00
 -- url     : https://prove2.me/theorems/88a4bbb3-c18e-4c58-b76d-4956e531c6d9

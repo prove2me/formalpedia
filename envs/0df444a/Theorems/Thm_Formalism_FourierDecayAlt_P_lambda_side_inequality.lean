@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lambda_side_inequality
 -- name    : Formalism.FourierDecayAlt.P.lambda_side_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:33:54.151836+00:00
 -- url     : https://prove2.me/theorems/0eb74462-f487-42e2-97cc-58d2b72eefe9

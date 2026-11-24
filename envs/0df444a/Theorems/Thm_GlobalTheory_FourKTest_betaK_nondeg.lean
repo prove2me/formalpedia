@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourKTest_betaK_nondeg
 -- name    : GlobalTheory.FourKTest.betaK_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:35:48.990826+00:00
 -- url     : https://prove2.me/theorems/499a2be1-0ad9-4157-844e-37269fb07433

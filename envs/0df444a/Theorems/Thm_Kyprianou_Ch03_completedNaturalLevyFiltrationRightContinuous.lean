@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_completedNaturalLevyFiltrationRightContinuous
 -- name    : Kyprianou.Ch03.completedNaturalLevyFiltrationRightContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:36:42.860598+00:00
 -- url     : https://prove2.me/theorems/c428a15c-6267-46ca-ac3c-73270db83e41

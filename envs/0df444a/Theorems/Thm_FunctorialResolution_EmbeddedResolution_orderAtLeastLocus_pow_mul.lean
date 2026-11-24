@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAtLeastLocus_pow_mul
 -- name    : FunctorialResolution.EmbeddedResolution.orderAtLeastLocus_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:32:49.908547+00:00
 -- url     : https://prove2.me/theorems/1e46bbdf-7131-4a57-8d76-bc2cfad8a752

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_frMap_unique_refl_iff
 -- name    : GlobalTheory.Frames.frMap_unique_refl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:43.757577+00:00
 -- url     : https://prove2.me/theorems/e852f51b-6802-4d7e-93ee-febb91fe2baf

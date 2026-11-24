@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_mx_lowerStart_of
 -- name    : Formalism.FourierDecayAlt.P.mx_lowerStart_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:48:10.56065+00:00
 -- url     : https://prove2.me/theorems/dd12189f-8595-4ba8-ab9e-bd7985c437a3

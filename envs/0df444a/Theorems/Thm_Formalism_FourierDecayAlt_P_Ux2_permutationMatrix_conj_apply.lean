@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_permutationMatrix_conj_apply
 -- name    : Formalism.FourierDecayAlt.P.Ux2.permutationMatrix_conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:22:44.368843+00:00
 -- url     : https://prove2.me/theorems/4ae43391-f713-477d-9c6d-193c91b2fe78

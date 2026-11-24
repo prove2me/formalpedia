@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_cb_eval_xPoly
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.cb_eval_xPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:48:34.216996+00:00
 -- url     : https://prove2.me/theorems/6ece1547-7eec-4378-bd3c-206880179e8d

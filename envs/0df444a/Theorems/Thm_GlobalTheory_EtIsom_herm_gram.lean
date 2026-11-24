@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_herm_gram
 -- name    : GlobalTheory.EtIsom.herm_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:36:57.3588+00:00
 -- url     : https://prove2.me/theorems/4ca003c9-dca6-4564-8286-259b2242e7ac

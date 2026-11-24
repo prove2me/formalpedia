@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_two_mem_small
 -- name    : Formalism.HC.HostRaw.two_mem_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:09:49.79317+00:00
 -- url     : https://prove2.me/theorems/a15f5bac-90cf-4433-b64c-23987f06ebb3

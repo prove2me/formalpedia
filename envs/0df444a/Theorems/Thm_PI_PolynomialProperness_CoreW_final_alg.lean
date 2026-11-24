@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_final_alg
 -- name    : PI.PolynomialProperness.CoreW.final_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:38:54.442846+00:00
 -- url     : https://prove2.me/theorems/895b654d-14a6-443a-8fb8-807f564520e1

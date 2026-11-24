@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_hpk_mulVec
 -- name    : PI.StabPairsW.hpk_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:47:24.757539+00:00
 -- url     : https://prove2.me/theorems/7f3e0ce9-7902-4bd7-ba4c-9ddac44900ea

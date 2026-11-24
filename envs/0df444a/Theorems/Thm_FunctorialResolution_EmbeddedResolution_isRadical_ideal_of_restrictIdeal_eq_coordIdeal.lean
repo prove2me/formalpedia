@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isRadical_ideal_of_restrictIdeal_eq_coordIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.isRadical_ideal_of_restrictIdeal_eq_coordIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:35:49.180679+00:00
 -- url     : https://prove2.me/theorems/18600e76-a408-4fc7-ad1b-495a50ba8cbc

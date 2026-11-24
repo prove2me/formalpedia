@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_z_esI
 -- name    : PI.StabPairsW.z_esI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:46:36.902866+00:00
 -- url     : https://prove2.me/theorems/e9315d8b-e71c-4335-b310-1b7632fdb6bf

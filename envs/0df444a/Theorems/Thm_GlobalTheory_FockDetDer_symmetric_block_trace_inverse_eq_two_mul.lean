@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockDetDer_symmetric_block_trace_inverse_eq_two_mul
 -- name    : GlobalTheory.FockDetDer.symmetric_block_trace_inverse_eq_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:19.858897+00:00
 -- url     : https://prove2.me/theorems/f0af46a8-be96-486f-af8a-a4cc78cc30e4

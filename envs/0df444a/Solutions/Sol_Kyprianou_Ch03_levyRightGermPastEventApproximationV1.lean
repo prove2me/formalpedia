@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.levyRightGermPastEventApproximationV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T07:28:57.038977+00:00
 -- url     : https://prove2.me/submissions/11492501-6427-4967-9ba9-edd2383503f2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

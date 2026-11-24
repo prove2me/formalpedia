@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_IsDescentDatum_isBaseChange
 -- name    : GlobalTheory.FlatDescent.IsDescentDatum.isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:01:14.419442+00:00
 -- url     : https://prove2.me/theorems/77c29e4f-854a-4c8e-bc93-07653f18854c

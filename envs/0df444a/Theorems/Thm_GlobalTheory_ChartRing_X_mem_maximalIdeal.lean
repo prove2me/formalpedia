@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_X_mem_maximalIdeal
 -- name    : GlobalTheory.ChartRing.X_mem_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:38:03.056846+00:00
 -- url     : https://prove2.me/theorems/126bc7ad-384d-448c-85e7-edc4b0a3b9aa

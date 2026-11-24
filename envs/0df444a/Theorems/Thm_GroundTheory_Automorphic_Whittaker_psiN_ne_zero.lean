@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_psiN_ne_zero
 -- name    : GroundTheory.Automorphic.Whittaker.psiN_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:37:22.856152+00:00
 -- url     : https://prove2.me/theorems/8113e601-052a-4487-80b1-d4fb55f2f20a

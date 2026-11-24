@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invertibleEndInnerProduct_rootPowerSum_eq_torusSum
 -- name    : GlobalTheory.T.invertibleEndInnerProduct_rootPowerSum_eq_torusSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:20:55.121651+00:00
 -- url     : https://prove2.me/theorems/11d54702-98a7-4977-a914-10989c580fd8

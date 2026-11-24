@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteQuotientComap_finite_quotient_comap
 -- name    : GlobalTheory.FiniteQuotientComap.finite_quotient_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:32.745675+00:00
 -- url     : https://prove2.me/theorems/f00a9773-c11f-4056-b18e-3c9a5dbde719

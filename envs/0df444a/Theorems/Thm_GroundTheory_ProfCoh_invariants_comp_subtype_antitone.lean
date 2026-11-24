@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_invariants_comp_subtype_antitone
 -- name    : GroundTheory.ProfCoh.invariants_comp_subtype_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:36:54.193263+00:00
 -- url     : https://prove2.me/theorems/5f4b9818-8c3e-43fb-9daf-fe26ae6da0df

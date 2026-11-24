@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_adj_cont
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.adj_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:19:53.020751+00:00
 -- url     : https://prove2.me/theorems/783f63d9-e67c-4064-8fd2-61406ce931db

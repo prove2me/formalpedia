@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_det_transpose_apply
 -- name    : AAInvW.det_transpose_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:45:02.75178+00:00
 -- url     : https://prove2.me/theorems/3bf2c00e-110a-45b9-a74e-4168264a4237

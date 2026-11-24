@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_relIndex_congr_inf
 -- name    : GlobalTheory.FunObj.relIndex_congr_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:04:02.693805+00:00
 -- url     : https://prove2.me/theorems/e8d74c83-9d9c-45f8-b912-5acdd6e53947

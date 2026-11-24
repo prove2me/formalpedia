@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_isLocallyConstant_of_isTensor
 -- name    : GlobalTheory.FunObj.isLocallyConstant_of_isTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:41:16.072428+00:00
 -- url     : https://prove2.me/theorems/7d67fa44-b07f-4b6b-827d-0f99159b12a4

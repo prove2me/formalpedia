@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_flatTensor_vacuum
 -- name    : GlobalTheory.FunObj.flatTensor_vacuum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:39.058439+00:00
 -- url     : https://prove2.me/theorems/0ca6ceb3-fa45-4616-89ca-972d315998ea

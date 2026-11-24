@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentCompoundPoissonCharFunV1
 -- name    : Kyprianou.Ch03.momentCompoundPoissonCharFunV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:35:14.895666+00:00
 -- url     : https://prove2.me/theorems/4e65cfd0-5116-4661-a0d3-feb0fbfc13eb

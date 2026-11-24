@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_OrbitSg_emb_injective
 -- name    : Formalism.FrobeniusOrbits.OrbitSg.emb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:27:13.654378+00:00
 -- url     : https://prove2.me/theorems/a89305cd-0e77-4401-8c11-497f8b1912a1

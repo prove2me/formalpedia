@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_exists_finset_inertia
 -- name    : GlobalTheory.FreeQuotient.exists_finset_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:37.194914+00:00
 -- url     : https://prove2.me/theorems/d98a2d6f-09b2-4334-a0e3-a9ddc5b89dac

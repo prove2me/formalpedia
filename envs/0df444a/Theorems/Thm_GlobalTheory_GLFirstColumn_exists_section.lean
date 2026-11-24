@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLFirstColumn_exists_section
 -- name    : GlobalTheory.GLFirstColumn.exists_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:15.806593+00:00
 -- url     : https://prove2.me/theorems/bfeab9c9-83b4-4eed-8396-753865249428

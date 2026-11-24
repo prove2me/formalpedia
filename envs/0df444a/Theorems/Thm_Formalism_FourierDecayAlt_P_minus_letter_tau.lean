@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_minus_letter_tau
 -- name    : Formalism.FourierDecayAlt.P.minus_letter_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:04:04.885882+00:00
 -- url     : https://prove2.me/theorems/8b8b22bc-ac4e-434d-9db5-7e22ddc43ea3

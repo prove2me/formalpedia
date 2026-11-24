@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresLie_glev_mul
 -- name    : Formalism.FourierDecayAlt.Q.TPresLie.glev_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:35:21.531942+00:00
 -- url     : https://prove2.me/theorems/2eb87aa5-8e11-4fa0-971f-5db0df077ef3

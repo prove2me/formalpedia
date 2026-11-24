@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_exists_isCompact_of_mul_mem
 -- name    : GlobalTheory.FunObj.exists_isCompact_of_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:41:51.013212+00:00
 -- url     : https://prove2.me/theorems/a65c9679-8daf-4120-a451-911fe3b22087

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_hasInv_parts
 -- name    : GlobalTheory.EtIsom.hasInv_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:37:48.190932+00:00
 -- url     : https://prove2.me/theorems/e68a1aa8-78af-429d-b540-292f617c4d4c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.entranceAndHittingAreStoppingTimes
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T14:58:33.265761+00:00
 -- url     : https://prove2.me/submissions/e26f786b-bd7d-4c16-9d41-e7f0dd7c57c7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

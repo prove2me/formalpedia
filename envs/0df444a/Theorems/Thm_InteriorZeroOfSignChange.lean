@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteriorZeroOfSignChange
 -- name    : InteriorZeroOfSignChange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:15:26.175847+00:00
 -- url     : https://prove2.me/theorems/7aa5ca65-95a6-45e7-9c84-a203811600e7

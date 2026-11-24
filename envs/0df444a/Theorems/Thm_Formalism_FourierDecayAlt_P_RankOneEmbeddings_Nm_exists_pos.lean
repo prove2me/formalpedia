@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_Nm_exists_pos
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.Nm.exists_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:21:14.144898+00:00
 -- url     : https://prove2.me/theorems/43680e9a-1b5b-4243-afa0-26382853e7b0

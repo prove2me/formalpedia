@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_log_rd_sum
 -- name    : UpperTheory.HF.log_rd_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:43:25.194917+00:00
 -- url     : https://prove2.me/theorems/0637b7cd-f66f-43c7-9a1c-158c8cded553

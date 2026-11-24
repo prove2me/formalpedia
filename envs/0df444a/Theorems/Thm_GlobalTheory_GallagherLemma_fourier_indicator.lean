@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GallagherLemma_fourier_indicator
 -- name    : GlobalTheory.GallagherLemma.fourier_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:42:55.941742+00:00
 -- url     : https://prove2.me/theorems/74a0e472-dfe3-4a4d-94a7-947c25668cec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SmGL_det_emb__b005fdd5e485
 -- name    : P2M_GlobalTheory_SmGL_det_emb__b005fdd5e485
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:36:54.384953+00:00
 -- url     : https://prove2.me/theorems/825c9e06-8020-4dd1-9c7e-0f3cb65790db

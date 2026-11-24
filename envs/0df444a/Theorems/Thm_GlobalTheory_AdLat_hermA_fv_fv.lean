@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_hermA_fv_fv
 -- name    : GlobalTheory.AdLat.hermA_fv_fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:35:09.09644+00:00
 -- url     : https://prove2.me/theorems/b4361822-da95-439c-9364-83287040513f

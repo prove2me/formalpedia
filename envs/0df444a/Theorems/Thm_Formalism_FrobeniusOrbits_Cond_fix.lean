@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_fix
 -- name    : Formalism.FrobeniusOrbits.Cond.fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:11:11.799231+00:00
 -- url     : https://prove2.me/theorems/d84a3969-d932-4786-8d2b-c513fdc2c8b4

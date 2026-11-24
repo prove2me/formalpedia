@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_gramM_eq
 -- name    : PI.StabPairsW.gramM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:48:12.453096+00:00
 -- url     : https://prove2.me/theorems/943ba681-5f25-43b2-82eb-966c9ddce2c7

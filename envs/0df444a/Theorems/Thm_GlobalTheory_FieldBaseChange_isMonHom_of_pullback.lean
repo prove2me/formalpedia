@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_isMonHom_of_pullback
 -- name    : GlobalTheory.FieldBaseChange.isMonHom_of_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:25:12.202893+00:00
 -- url     : https://prove2.me/theorems/cb94dc41-6791-4d71-b727-c19dd8bf68f4

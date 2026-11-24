@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_mx_mem
 -- name    : GlobalTheory.BK.PhiMod.mx_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:31:28.669065+00:00
 -- url     : https://prove2.me/theorems/320defaf-89e8-4f29-ba5d-130d284d4e3d

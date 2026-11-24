@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_entranceHit_firstHittingIsStoppingTime_of_isClosed
 -- name    : Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T03:32:58.124165+00:00
 -- url     : https://prove2.me/theorems/567fb35e-7763-499a-b65a-6ab9d41e8485

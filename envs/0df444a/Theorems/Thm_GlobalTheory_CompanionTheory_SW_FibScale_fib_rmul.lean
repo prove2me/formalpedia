@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibScale_fib_rmul
 -- name    : GlobalTheory.CompanionTheory.SW.FibScale.fib_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:03:42.680805+00:00
 -- url     : https://prove2.me/theorems/5558cdfb-7f42-4050-9858-b5905516d7d3

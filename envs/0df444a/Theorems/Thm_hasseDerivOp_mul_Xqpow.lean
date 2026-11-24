@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasseDerivOp_mul_Xqpow
 -- name    : hasseDerivOp_mul_Xqpow
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:27.495966+00:00
 -- url     : https://prove2.me/theorems/9b931c34-49e4-4721-ac3f-103590879b7a
