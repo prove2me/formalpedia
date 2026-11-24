@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_tupleSupportT_card_le_eight
 -- name    : InverseZeroSum.Candidate3.tupleSupportT_card_le_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:34.921384+00:00
 -- url     : https://prove2.me/theorems/b30e5da3-0d07-4998-9c37-129d829bc558

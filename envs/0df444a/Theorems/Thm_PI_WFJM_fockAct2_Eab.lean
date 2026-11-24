@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_fockAct2_Eab
 -- name    : PI.WFJM.fockAct2_Eab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:55.399849+00:00
 -- url     : https://prove2.me/theorems/cbe9b868-669d-4d75-8af6-3658853e0fc7

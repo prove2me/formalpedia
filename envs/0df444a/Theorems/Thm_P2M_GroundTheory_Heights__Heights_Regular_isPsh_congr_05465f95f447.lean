@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_isPsh_congr_05465f95f447
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_isPsh_congr_05465f95f447
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:24.161794+00:00
 -- url     : https://prove2.me/theorems/3da1f0c7-8d70-4f1c-80e5-fa9e38152c4e

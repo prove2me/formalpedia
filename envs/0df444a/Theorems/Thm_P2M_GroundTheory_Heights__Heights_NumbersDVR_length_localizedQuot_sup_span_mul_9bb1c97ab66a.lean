@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_length_localizedQuot_sup_span_mul_9bb1c97ab66a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_length_localizedQuot_sup_span_mul_9bb1c97ab66a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:34.634464+00:00
 -- url     : https://prove2.me/theorems/b55d33db-91a5-42cb-8287-cce1a89bc03e

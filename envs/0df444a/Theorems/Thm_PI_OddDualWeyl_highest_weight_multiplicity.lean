@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_PI_OddDualWeyl_highest_weight_multiplicity
+-- name    : PI.OddDualWeyl.highest_weight_multiplicity
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T05:43:58.358653+00:00
+-- url     : https://prove2.me/theorems/76346a88-ba01-4130-8dd2-dc2a57b8a2c0
+-- title:
+--   Odd Dual Weyl: highest weight multiplicity
+-- statement:
+--   The Odd Dual Weyl construction uses the highest weight multiplicity property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/OddDualWeylJacobian/HighestWeightMultiplicity.lean#L229-L232
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/OddDualWeylJacobian/HighestWeightMultiplicity.lean#L229-L232
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_HighestWeightMultiplicity
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MvPolynomial Matrix
+noncomputable section
+open PI PI.OddDualWeyl
+open Hom
+
+theorem PI.OddDualWeyl.highest_weight_multiplicity : MHhw := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_exists_maximal_vertex_core
 -- name    : WrittenOnTheWallII.GraphConjecture84.exists_maximal_vertex_core
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:38.777827+00:00
 -- url     : https://prove2.me/theorems/8ca30ec7-b8f7-4bdc-a4be-1cd814704efd

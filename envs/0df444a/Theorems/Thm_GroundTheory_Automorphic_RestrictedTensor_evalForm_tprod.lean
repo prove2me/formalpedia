@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_evalForm_tprod
 -- name    : GroundTheory.Automorphic.RestrictedTensor.evalForm_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:38.452068+00:00
 -- url     : https://prove2.me/theorems/c0252317-31f3-4cf0-8fbe-d3eddf04397c

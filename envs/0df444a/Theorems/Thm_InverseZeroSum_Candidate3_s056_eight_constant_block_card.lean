@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s056_eight_constant_block_card
 -- name    : InverseZeroSum.Candidate3.s056_eight_constant_block_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:24:01.973824+00:00
 -- url     : https://prove2.me/theorems/e04ff247-2019-4cca-9b7c-615c168cba29

@@ -36847,7 +36847,7 @@
 {"parent": "GlobalTheory.FubiniStudyHessian.differentiableAt_coord", "child": "ReciprocityTheory_L2DbarEstimates_LeviForms_EventuallyDifferentiableAtOfContDiffAt", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Parabolic.mem_unipotentRadical", "child": "GroundTheory_AutomorphicForms_Iwasawa", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Parabolic.mem_unipotentRadical", "child": "GroundTheory_AutomorphicForms_InductionParabolicGroups", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.HermForm.IsometryEquiv.unimodular", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MemUnitaryGroupIffIsIsometry", "via": ["statement"]}
+{"parent": "GlobalTheory.HermForm.IsometryEquiv.unimodular", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MemUnitaryGroupIffIsIsometry", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FubiniStudyHessian.wd_normSq", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ComplexHessianLogOneAddNormSq", "via": ["statement"]}
 {"parent": "GlobalTheory.FubiniStudyHessian.wd_normSq", "child": "ReciprocityTheory_L2DbarEstimates_LeviForms_EventuallyDifferentiableAtOfContDiffAt", "via": ["statement"]}
 {"parent": "GlobalTheory.RealWeil.weylAlg_induction", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IteratedLineDerivMemWeylAlg", "via": ["solution", "statement"]}
@@ -76481,8 +76481,8 @@
 {"parent": "GlobalTheory.CompanionTheory.RgEisGal.continuous_aff", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_DifferentiableAffLine", "via": ["solution", "statement"]}
 {"parent": "ContentStyle.invertible_encoder_block_identifies", "child": "ContentStyle_Basic", "via": ["statement"]}
 {"parent": "OODLearnable.prior_unknown_learnability_equivalence", "child": "OODLearnable_Basic", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.CK.analyticAt_determinant_power_zero_int", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_AnalyticAtDeterminantPowerZeroInt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.CK.analyticAt_determinant_power_zero_int", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_FderivDeterminantPowerCornerInt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.CK.analyticAt_determinant_power_zero_int", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_AnalyticAtDeterminantPowerZeroInt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.CK.analyticAt_determinant_power_zero_int", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_FderivDeterminantPowerCornerInt", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_MultiplicityReductionDiagonalProd", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_UnramifiedQuotientCardStatement", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_MultiplicityReductionDiagonalProd", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_UnitarySchrodingerModel_LocalDefs", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_MultiplicityReductionDiagonalProd", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["statement"]}
@@ -76931,8 +76931,8 @@
 {"parent": "GlobalTheory.CompanionTheory.RgEisGal.slice_mem_tube", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_StripEntire", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RgEisGal.slice_mem_tube", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ChamberPairThreeFour", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RgEisGal.slice_mem_tube", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_DifferentiableAffLine", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.CK.analyticAt_H", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_AnalyticAtDet", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.CK.analyticAt_H", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_CayleyA", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.CK.analyticAt_H", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_AnalyticAtDet", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.CK.analyticAt_H", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_CayleyA", "via": ["solution", "statement"]}
 {"parent": "X25519Dalek.fnOk_projectivePoint_as_affine_v2", "child": "X25519Dalek_Spec", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ContinuousSeminormDiffSLe", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SecondCountableHermC", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_TorRes", "child": "ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_NormEqOfNormSubLt", "via": ["statement"]}
@@ -92167,8 +92167,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.ProductFactorBounds.factor_bounds", "child": "Formalism_HermitianCurvature_LevelRecursionCondNeeded", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.RuleSS.I_mul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RuleSS", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.RuleSS.I_mul", "child": "Formalism_HermitianCurvature_StatementR", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch02.levyBVForcesFirstJumpMomentV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch02.levyBVForcesFirstJumpMomentV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
+{"parent": "Kyprianou.Ch02.levyBVForcesFirstJumpMomentV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch02.levyBVForcesFirstJumpMomentV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.T0.FiniteAlgebraLocalCompletion.exists_idempotent_henselian", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_IsPrecompleteFiniteModule", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.T0.FiniteAlgebraLocalCompletion.exists_idempotent_henselian", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_FiniteAlgebraLocalCompletion", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CutOff.exists_cutoff", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_IsTestRep", "via": ["statement"]}

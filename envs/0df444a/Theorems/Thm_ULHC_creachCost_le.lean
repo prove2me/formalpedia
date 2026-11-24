@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_creachCost_le
 -- name    : ULHC.creachCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:10:22.04089+00:00
 -- url     : https://prove2.me/theorems/08290cd2-2c45-4653-b24a-41128c4421d7

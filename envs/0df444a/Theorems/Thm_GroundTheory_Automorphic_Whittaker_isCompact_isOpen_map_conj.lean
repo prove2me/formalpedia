@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isCompact_isOpen_map_conj
 -- name    : GroundTheory.Automorphic.Whittaker.isCompact_isOpen_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:21.679059+00:00
 -- url     : https://prove2.me/theorems/72c4c2ca-3f03-4855-afbd-0540a27076a1

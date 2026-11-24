@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_threeTerm19Input
 -- name    : InverseZeroSum.Candidate3.threeTerm19Input
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:28:42.505335+00:00
 -- url     : https://prove2.me/theorems/47670c38-6286-46c7-86d4-fa8261210023

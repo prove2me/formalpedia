@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_genM_map
 -- name    : PI.OddDualWeyl.Red.genM_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:36.796859+00:00
 -- url     : https://prove2.me/theorems/78cca4e5-9896-4a1f-b99a-b2275ebbe286

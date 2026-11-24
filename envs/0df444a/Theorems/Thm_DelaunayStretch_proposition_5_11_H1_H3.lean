@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_proposition_5_11_H1_H3
 -- name    : DelaunayStretch.proposition_5_11_H1_H3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T03:06:41.819063+00:00
 -- url     : https://prove2.me/theorems/5c17ce90-154c-46fe-9788-a09c6b67af27

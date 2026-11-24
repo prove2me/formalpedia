@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_shortZero_subset_eq
 -- name    : InverseZeroSum.Candidate3.shortZero_subset_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:25:23.18809+00:00
 -- url     : https://prove2.me/theorems/204d5a8c-e19c-42c8-88cb-2ab8f91a0b35

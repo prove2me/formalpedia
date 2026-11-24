@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.chapterTwoMainResultsV5
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T11:49:15.426018+00:00
 -- url     : https://prove2.me/submissions/98dd369a-068a-407a-b2cc-054920472601
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_poissonRandomMeasureExists

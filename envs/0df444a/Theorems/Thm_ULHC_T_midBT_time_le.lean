@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_midBT_time_le
 -- name    : ULHC.T.midBT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:14:23.430777+00:00
 -- url     : https://prove2.me/theorems/9277fddd-cf09-4e78-82e3-dea1da1232a6

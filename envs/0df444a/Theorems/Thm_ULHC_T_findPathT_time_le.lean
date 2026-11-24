@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_findPathT_time_le
 -- name    : ULHC.T.findPathT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:17:45.113348+00:00
 -- url     : https://prove2.me/theorems/6ffd218b-6eb8-4eed-a84f-ee162f20e821

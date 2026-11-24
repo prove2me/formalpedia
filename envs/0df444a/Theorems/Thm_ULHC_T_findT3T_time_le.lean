@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_findT3T_time_le
 -- name    : ULHC.T.findT3T_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:17:17.462693+00:00
 -- url     : https://prove2.me/theorems/74cca5be-53b1-429f-bf1e-f219a7885270

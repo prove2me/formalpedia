@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_aeval_monomial_one_537b40e9e860
 -- name    : P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_aeval_monomial_one_537b40e9e860
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:08.720262+00:00
 -- url     : https://prove2.me/theorems/7b6d3135-99a7-4d72-ac09-89960988f36e

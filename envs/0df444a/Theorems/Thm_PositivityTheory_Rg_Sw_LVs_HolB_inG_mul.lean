@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_HolB_inG_mul
 -- name    : PositivityTheory.Rg.Sw.LVs.HolB.inG_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:59.809255+00:00
 -- url     : https://prove2.me/theorems/c3d4d465-c12d-4959-8426-eecdca326c81

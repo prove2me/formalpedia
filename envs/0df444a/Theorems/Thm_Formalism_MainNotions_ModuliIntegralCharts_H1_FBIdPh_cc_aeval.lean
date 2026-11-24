@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdPh_cc_aeval
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdPh.cc_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:31.880346+00:00
 -- url     : https://prove2.me/theorems/b3ea6fb0-69d8-4dbe-a42d-0d89dd9ac495

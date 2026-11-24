@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_stepT_time_le
 -- name    : ULHC.T.stepT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:15:16.508147+00:00
 -- url     : https://prove2.me/theorems/80d21c29-b24d-47bd-8227-d569a5113945

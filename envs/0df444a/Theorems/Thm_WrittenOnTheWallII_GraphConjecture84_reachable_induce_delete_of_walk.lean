@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_reachable_induce_delete_of_walk
 -- name    : WrittenOnTheWallII.GraphConjecture84.reachable_induce_delete_of_walk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:35.964892+00:00
 -- url     : https://prove2.me/theorems/e1a83a7e-f971-4c10-96f5-2a6f2a0c6b08

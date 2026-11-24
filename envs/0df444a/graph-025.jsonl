@@ -27559,10 +27559,10 @@
 {"parent": "BookProof.FullQuadratic.fqTerm_hermiteMv", "child": "ChapterGaussCoreQuadBounds", "via": ["statement"]}
 {"parent": "BookProof.FullQuadratic.fqTerm_hermiteMv", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
 {"parent": "BookProof.FullQuadratic.fqTerm_hermiteMv", "child": "ChapterHermiteProductCore", "via": ["solution", "statement"]}
-{"parent": "DepthOneQExp.gamma_cnot_and_range", "child": "MITMSynthesis_Gate", "via": ["statement"]}
-{"parent": "DepthOneQExp.gamma_cnot_and_range", "child": "DepthOneQExp_gamma", "via": ["statement"]}
-{"parent": "DepthOneQExp.gamma_cnot_and_range", "child": "DepthOneQExp_cnotPerm", "via": ["statement"]}
-{"parent": "DepthOneQExp.gamma_cnot_and_range", "child": "DepthOneQExp_cnotGroup", "via": ["statement"]}
+{"parent": "DepthOneQExp.gamma_cnot_and_range", "child": "MITMSynthesis_Gate", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.gamma_cnot_and_range", "child": "DepthOneQExp_gamma", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.gamma_cnot_and_range", "child": "DepthOneQExp_cnotPerm", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.gamma_cnot_and_range", "child": "DepthOneQExp_cnotGroup", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.gcdRaySupport_proper", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CuspCoercivity", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.gcdRaySupport_proper", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CommonMasks", "via": ["solution", "statement"]}
 {"parent": "MWCSherali_MWCHardOn", "child": "MWCSherali_MWCInst_IsTerminalLabeling", "via": ["statement"]}
@@ -33925,9 +33925,9 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm25_1_0_3.s5_eq_g", "child": "OAIQ098G1067", "via": ["solution", "statement"]}
 {"parent": "AbelianCayleyHDX_IsTranslationInvariant", "child": "ReplParity_Vec", "via": ["statement"]}
 {"parent": "AutobidSPPE_alloc", "child": "AutobidSPPE_winner", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.theorem_1_1_simple_graphs", "child": "WeightedEdgeColor_WGraph", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.theorem_1_1_simple_graphs", "child": "WeightedEdgeColor_WGraph_bp", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.theorem_1_1_simple_graphs", "child": "WeightedEdgeColor_WGraph_IsProperColoring", "via": ["statement"]}
+{"parent": "WeightedEdgeColor.theorem_1_1_simple_graphs", "child": "WeightedEdgeColor_WGraph", "via": ["solution", "statement"]}
+{"parent": "WeightedEdgeColor.theorem_1_1_simple_graphs", "child": "WeightedEdgeColor_WGraph_bp", "via": ["solution", "statement"]}
+{"parent": "WeightedEdgeColor.theorem_1_1_simple_graphs", "child": "WeightedEdgeColor_WGraph_IsProperColoring", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm0_1_0.atomContains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm0_1_0.atomContains_g", "child": "OAIQ098G1680", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm0_1_0.atomContains_g", "child": "OAIQ098G1456", "via": ["solution", "statement"]}
@@ -35495,13 +35495,13 @@
 {"parent": "LinearChoresCLS_ChoresSearch", "child": "NetworkEquilibriumCLS_LinearNash_Encoding", "via": ["statement"]}
 {"parent": "FiniteSampleDependence.Rigidity.nonnegativity_permutation_invariance", "child": "FiniteSampleDependence_Rigidity_Model", "via": ["solution", "statement"]}
 {"parent": "DetSupportRank.DeterminantSupport.proposition_5_18", "child": "DetSupportRank_DeterminantSupport_InitialModules", "via": ["statement"]}
-{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_IsOpenInterval", "via": ["statement"]}
-{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_posterior", "via": ["statement"]}
-{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_bayesRisk", "via": ["statement"]}
-{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_gamJoint", "via": ["statement"]}
-{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_gamObs", "via": ["statement"]}
-{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_phiEnt", "via": ["statement"]}
-{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_bregman", "via": ["statement"]}
+{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_IsOpenInterval", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_posterior", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_bayesRisk", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_gamJoint", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_gamObs", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_phiEnt", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.lemma_6_2", "child": "PhiSobBayes_bregman", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_0_17.s4_eq_g", "child": "OAIQ098G977", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_0_17.s4_eq_g", "child": "OAIQ098G975", "via": ["solution", "statement"]}
 {"parent": "LinMaxLoad.lemma_7", "child": "LinMaxLoad_cosetSum", "via": ["solution", "statement"]}
@@ -35814,9 +35814,9 @@
 {"parent": "BookProof.FullQuadratic.crossTerm_stone_flow", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
 {"parent": "BookProof.FullQuadratic.crossTerm_stone_flow", "child": "ChapterHermiteProductCore", "via": ["solution", "statement"]}
 {"parent": "PulseSyncLowerBound.Pulse.theorem_9", "child": "PulseSyncLowerBound_Pulse_Views", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_3", "child": "DepthOneQExp_cnotU", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_3", "child": "DepthOneQExp_cnotGroup", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_3", "child": "ConstGapCircuits_spectralGap", "via": ["statement"]}
+{"parent": "DepthOneQExp.theorem_2_3", "child": "DepthOneQExp_cnotU", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.theorem_2_3", "child": "DepthOneQExp_cnotGroup", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.theorem_2_3", "child": "ConstGapCircuits_spectralGap", "via": ["solution", "statement"]}
 {"parent": "HopRamsey.claim_1", "child": "ARTreeCover_WGraph", "via": ["statement"]}
 {"parent": "HopRamsey.claim_1", "child": "HopRamsey_CallInv", "via": ["statement"]}
 {"parent": "HopRamsey.claim_1", "child": "HopRamsey_hopDist", "via": ["statement"]}
@@ -39893,9 +39893,9 @@
 {"parent": "CEPolytopeHard_encodeDist", "child": "CorrelatedAuctionComplexity_Main_BinaryCodec", "via": ["statement"]}
 {"parent": "CEPolytopeHard_encodeDist", "child": "CEPolytopeHard_lenList", "via": ["statement"]}
 {"parent": "CEPolytopeHard_encodeDist", "child": "CEPolytopeHard_MLGame", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.theorem_3_1", "child": "WeightedEdgeColor_WGraph", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.theorem_3_1", "child": "WeightedEdgeColor_WGraph_IsFeasiblePartialColoring", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.theorem_3_1", "child": "WeightedEdgeColor_IsAvgOfFeasibleSets", "via": ["statement"]}
+{"parent": "WeightedEdgeColor.theorem_3_1", "child": "WeightedEdgeColor_WGraph", "via": ["solution", "statement"]}
+{"parent": "WeightedEdgeColor.theorem_3_1", "child": "WeightedEdgeColor_WGraph_IsFeasiblePartialColoring", "via": ["solution", "statement"]}
+{"parent": "WeightedEdgeColor.theorem_3_1", "child": "WeightedEdgeColor_IsAvgOfFeasibleSets", "via": ["solution", "statement"]}
 {"parent": "BipHamCount.Deterministic.proposition_4_2", "child": "BipHamCount_Deterministic_Programs", "via": ["statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecondOfBlock_admissible", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ScaleCaps", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecondOfBlock_admissible", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CommonMasks", "via": ["solution", "statement"]}
@@ -42422,8 +42422,8 @@
 {"parent": "BatchedFacilityLocation.Nonuniform.claim_4_7", "child": "BatchedFacilityLocation_Nonuniform_Certificates", "via": ["statement"]}
 {"parent": "DirTeleMC.schedule_arborescence", "child": "DirTeleMC_Schedule", "via": ["statement"]}
 {"parent": "DirTeleMC.schedule_arborescence", "child": "DirTeleMC_Arb", "via": ["statement"]}
-{"parent": "GroupIsoPoly.theorem_1_1", "child": "GroupIsoPoly_encPair", "via": ["statement"]}
-{"parent": "GroupIsoPoly.theorem_1_1", "child": "HMBinPacking_OutputsWithin", "via": ["statement"]}
+{"parent": "GroupIsoPoly.theorem_1_1", "child": "GroupIsoPoly_encPair", "via": ["solution", "statement"]}
+{"parent": "GroupIsoPoly.theorem_1_1", "child": "HMBinPacking_OutputsWithin", "via": ["solution", "statement"]}
 {"parent": "TreeEquivalenceHORS_Equivalence_Semantics", "child": "TreeEquivalenceHORS_Equivalence_Syntax", "via": ["statement"]}
 {"parent": "RecoveryStorage3SUM.Adaptive.lemma_2_1", "child": "MatroidSensOracle_WordRAM", "via": ["statement"]}
 {"parent": "RecoveryStorage3SUM.Adaptive.lemma_2_1", "child": "RecoveryStorage3SUM_Adaptive_Protocol", "via": ["statement"]}
@@ -45595,8 +45595,8 @@
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedTermEval373_e", "child": "OAIQ106E139", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedTermEval373_e", "child": "OAIQ106E137", "via": ["solution", "statement"]}
 {"parent": "SuperactivatedCheating_StateConversion_QuantumGames", "child": "QAlgorithms_Defs_Channel", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.lemma_A_1", "child": "WeightedEdgeColor_WGraph", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.lemma_A_1", "child": "WeightedEdgeColor_WGraph_IsProperColoring", "via": ["statement"]}
+{"parent": "WeightedEdgeColor.lemma_A_1", "child": "WeightedEdgeColor_WGraph", "via": ["solution", "statement"]}
+{"parent": "WeightedEdgeColor.lemma_A_1", "child": "WeightedEdgeColor_WGraph_IsProperColoring", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_0_0_3.s5_eq_g", "child": "OAIQ098G1219", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_0_0_3.s5_eq_g", "child": "OAIQ098G1209", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.euclideanWeylAction_preserves_hyperbolicVolume", "child": "OAI_NumberTheory_DirichletL_Eisenstein_HyperbolicVolume", "via": ["solution", "statement"]}

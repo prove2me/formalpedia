@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_planePointT_sum_zero_of_coord
 -- name    : InverseZeroSum.Candidate3.planePointT_sum_zero_of_coord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:27:21.337654+00:00
 -- url     : https://prove2.me/theorems/866a704d-a550-415f-9484-6a7685bac82b

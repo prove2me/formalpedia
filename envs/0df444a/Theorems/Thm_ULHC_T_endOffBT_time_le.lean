@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_endOffBT_time_le
 -- name    : ULHC.T.endOffBT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:14:25.197349+00:00
 -- url     : https://prove2.me/theorems/f39a175a-d3a1-4a48-a0d7-6b8354d380d1

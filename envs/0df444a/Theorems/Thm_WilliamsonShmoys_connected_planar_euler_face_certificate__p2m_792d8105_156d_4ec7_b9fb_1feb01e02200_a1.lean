@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_euler_face_certificate__p2m_792d8105_156d_4ec7_b9fb_1feb01e02200_a1
 -- name    : WilliamsonShmoys.connected_planar_euler_face_certificate__p2m_792d8105_156d_4ec7_b9fb_1feb01e02200_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:39:10.509449+00:00
 -- url     : https://prove2.me/theorems/5594ab01-5507-4608-93d6-8bce1469fe90

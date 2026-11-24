@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_VerticalDivisorsCommuting_redEval_divO_27c775010d0b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_VerticalDivisorsCommuting_redEval_divO_27c775010d0b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:38:17.025545+00:00
 -- url     : https://prove2.me/theorems/0bdf4d6c-3c78-466a-aa58-c027f3a78493

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_isWeightedHomogeneous_form_fb02de19c0fa
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_isWeightedHomogeneous_form_fb02de19c0fa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:29:43.88652+00:00
 -- url     : https://prove2.me/theorems/820896d3-a11c-498e-ac96-214d5a09955a

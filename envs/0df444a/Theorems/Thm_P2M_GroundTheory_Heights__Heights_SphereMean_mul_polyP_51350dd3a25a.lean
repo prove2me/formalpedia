@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_mul_polyP_51350dd3a25a
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_mul_polyP_51350dd3a25a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:52.758443+00:00
 -- url     : https://prove2.me/theorems/6986917e-2148-4f4b-9e50-3ec4e26a1680

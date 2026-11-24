@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_unit_equiv_of_snf_diag_eq
 -- name    : WeilConjectures.exists_unit_equiv_of_snf_diag_eq
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T05:24:19.25783+00:00
 -- url     : https://prove2.me/theorems/4cb5f2d7-b29d-4478-9e1c-d8a5933517ed

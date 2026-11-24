@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SmallSections_evalCone_aeval_8800237edca7
 -- name    : P2M_GroundTheory_Heights__Heights_SmallSections_evalCone_aeval_8800237edca7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:14:09.614808+00:00
 -- url     : https://prove2.me/theorems/fd7b3c8f-cd89-4843-b115-5a1ddd08088a

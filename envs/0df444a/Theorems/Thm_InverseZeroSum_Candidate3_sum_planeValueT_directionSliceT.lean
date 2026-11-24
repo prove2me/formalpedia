@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_sum_planeValueT_directionSliceT
 -- name    : InverseZeroSum.Candidate3.sum_planeValueT_directionSliceT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:44.09028+00:00
 -- url     : https://prove2.me/theorems/7dffe658-0161-4885-8a14-494a2329060c

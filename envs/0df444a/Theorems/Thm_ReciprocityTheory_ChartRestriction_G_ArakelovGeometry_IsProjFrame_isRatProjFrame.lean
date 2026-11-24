@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_IsProjFrame_isRatProjFrame
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.IsProjFrame.isRatProjFrame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:50.871574+00:00
 -- url     : https://prove2.me/theorems/6bd33b4a-581c-410e-b13e-90b036411e7a

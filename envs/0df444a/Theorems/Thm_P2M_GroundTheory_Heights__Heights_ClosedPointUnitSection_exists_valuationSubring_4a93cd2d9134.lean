@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointUnitSection_exists_valuationSubring_4a93cd2d9134
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointUnitSection_exists_valuationSubring_4a93cd2d9134
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:14.380832+00:00
 -- url     : https://prove2.me/theorems/cfdb2561-c46a-4acb-8289-dae257c7f39e

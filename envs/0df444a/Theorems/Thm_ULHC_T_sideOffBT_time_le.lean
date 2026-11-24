@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_sideOffBT_time_le
 -- name    : ULHC.T.sideOffBT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:14:19.55062+00:00
 -- url     : https://prove2.me/theorems/92baa14e-8af9-49be-b4ff-f2e9f50a07a3

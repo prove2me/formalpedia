@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isSmooth_genSubrep
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isSmooth_genSubrep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:46.673837+00:00
 -- url     : https://prove2.me/theorems/a69c2f96-9372-4dc0-84f2-0991be254709

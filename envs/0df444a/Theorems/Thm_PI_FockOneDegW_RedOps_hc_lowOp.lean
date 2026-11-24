@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_RedOps_hc_lowOp
 -- name    : PI.FockOneDegW.RedOps.hc_lowOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:02.307324+00:00
 -- url     : https://prove2.me/theorems/a24f50b2-9403-4d22-8827-2339352559a2

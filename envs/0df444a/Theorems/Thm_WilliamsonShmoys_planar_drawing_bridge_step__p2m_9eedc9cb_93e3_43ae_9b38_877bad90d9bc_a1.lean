@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_bridge_step__p2m_9eedc9cb_93e3_43ae_9b38_877bad90d9bc_a1
 -- name    : WilliamsonShmoys.planar_drawing_bridge_step__p2m_9eedc9cb_93e3_43ae_9b38_877bad90d9bc_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:07:24.402745+00:00
 -- url     : https://prove2.me/theorems/94f9dee3-44c3-4c29-a91e-073301a1623a

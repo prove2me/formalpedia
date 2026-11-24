@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_created_iff
 -- name    : ULHC.created_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:56:57.166836+00:00
 -- url     : https://prove2.me/theorems/40fd69c4-74d4-49fa-a1e6-14e5a1fea7c9

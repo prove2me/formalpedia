@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_isHalfPow_mul
 -- name    : GlobalTheory.IdealChain.isHalfPow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:52.600102+00:00
 -- url     : https://prove2.me/theorems/f0e2520b-3469-48f0-808a-b39fd4dcf549

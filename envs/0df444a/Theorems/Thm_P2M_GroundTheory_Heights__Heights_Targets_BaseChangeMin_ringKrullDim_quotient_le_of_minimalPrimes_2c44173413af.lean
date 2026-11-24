@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_BaseChangeMin_ringKrullDim_quotient_le_of_minimalPrimes_2c44173413af
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_BaseChangeMin_ringKrullDim_quotient_le_of_minimalPrimes_2c44173413af
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:38.069045+00:00
 -- url     : https://prove2.me/theorems/57c1e277-ba85-49b6-9298-d81d28afc037

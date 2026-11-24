@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnfold_glue_mem_gluedS
 -- name    : GlobalTheory.LevelUnfold.glue_mem_gluedS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:37.617046+00:00
 -- url     : https://prove2.me/theorems/408ea238-a069-4516-a861-bbf18e3ed82f

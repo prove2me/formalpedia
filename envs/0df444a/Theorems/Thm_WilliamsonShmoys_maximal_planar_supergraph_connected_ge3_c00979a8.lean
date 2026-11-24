@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_supergraph_connected_ge3_c00979a8
 -- name    : WilliamsonShmoys.maximal_planar_supergraph_connected_ge3_c00979a8
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:20:03.848985+00:00
 -- url     : https://prove2.me/theorems/c25e728a-0d43-4046-b81c-c920af6e6eb3

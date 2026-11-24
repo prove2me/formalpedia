@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_analyticAt_determinant_power_zero_int
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.analyticAt_determinant_power_zero_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:00.143577+00:00
 -- url     : https://prove2.me/theorems/a5f80afe-9d30-4abb-8e9b-a0832a5759f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_geodesic_branches_bound
 -- name    : WrittenOnTheWallII.GraphConjecture84.geodesic_branches_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:08.137238+00:00
 -- url     : https://prove2.me/theorems/668643bc-7d76-4b91-956b-d9a05a5d5b76

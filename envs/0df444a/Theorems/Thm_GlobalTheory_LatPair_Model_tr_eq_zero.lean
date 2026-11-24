@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_tr_eq_zero
 -- name    : GlobalTheory.LatPair.Model.tr_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:56.617425+00:00
 -- url     : https://prove2.me/theorems/bd708744-9b80-47ac-8bef-f4d2f1d6db9e

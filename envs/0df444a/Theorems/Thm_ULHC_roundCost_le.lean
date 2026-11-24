@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_roundCost_le
 -- name    : ULHC.roundCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:13:02.88803+00:00
 -- url     : https://prove2.me/theorems/a3f893a4-5ec8-4a31-aa4a-ae2fdcfbde13

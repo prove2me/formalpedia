@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_tupleSupportT_no_pair
 -- name    : InverseZeroSum.Candidate3.tupleSupportT_no_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:19.534007+00:00
 -- url     : https://prove2.me/theorems/aaa86a14-1e87-49c4-bb8b-5c781b460544

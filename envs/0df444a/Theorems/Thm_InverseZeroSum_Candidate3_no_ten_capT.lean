@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_no_ten_capT
 -- name    : InverseZeroSum.Candidate3.no_ten_capT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:28:24.32683+00:00
 -- url     : https://prove2.me/theorems/3285a9d5-5842-44a5-979a-9b24e58b9825

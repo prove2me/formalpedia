@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_path_support_subset_maximal_core
 -- name    : WrittenOnTheWallII.GraphConjecture84.path_support_subset_maximal_core
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:57.927802+00:00
 -- url     : https://prove2.me/theorems/79cfa15d-afae-4d27-a1c5-0ec67f5c2f53

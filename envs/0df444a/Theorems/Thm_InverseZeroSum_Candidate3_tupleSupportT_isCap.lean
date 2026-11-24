@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_tupleSupportT_isCap
 -- name    : InverseZeroSum.Candidate3.tupleSupportT_isCap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:31.025804+00:00
 -- url     : https://prove2.me/theorems/5c24d529-73a4-4b09-819a-0135f6c5db46

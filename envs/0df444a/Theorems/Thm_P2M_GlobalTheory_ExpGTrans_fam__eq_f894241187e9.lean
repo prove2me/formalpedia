@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ExpGTrans_fam__eq_f894241187e9
 -- name    : P2M_GlobalTheory_ExpGTrans_fam__eq_f894241187e9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:10.813569+00:00
 -- url     : https://prove2.me/theorems/6145fd38-918f-4a85-80cd-2a8e7a64b546

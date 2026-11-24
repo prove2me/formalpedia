@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodPointBranch_consZero_apply_zero_f8796c3b106b
 -- name    : P2M_GroundTheory_Heights__Heights_GoodPointBranch_consZero_apply_zero_f8796c3b106b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:20.362113+00:00
 -- url     : https://prove2.me/theorems/1ae56d15-8595-49ed-956e-e35bd54bacd6

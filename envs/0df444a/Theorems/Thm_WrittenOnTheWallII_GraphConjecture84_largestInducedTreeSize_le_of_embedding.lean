@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_largestInducedTreeSize_le_of_embedding
 -- name    : WrittenOnTheWallII.GraphConjecture84.largestInducedTreeSize_le_of_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:27:26.921829+00:00
 -- url     : https://prove2.me/theorems/4646a0e3-f14a-4156-b2fe-f137d95f95ff

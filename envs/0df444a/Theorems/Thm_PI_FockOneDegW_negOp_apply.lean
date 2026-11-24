@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_negOp_apply
 -- name    : PI.FockOneDegW.negOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:31.382807+00:00
 -- url     : https://prove2.me/theorems/574677fa-14dc-4bdc-a673-0df00a7e83a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_card_le_eighteen_of_threeTerm19
 -- name    : InverseZeroSum.Candidate3.card_le_eighteen_of_threeTerm19
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:17.509131+00:00
 -- url     : https://prove2.me/theorems/af98e599-825f-4084-90c4-dcfbf1ec552e

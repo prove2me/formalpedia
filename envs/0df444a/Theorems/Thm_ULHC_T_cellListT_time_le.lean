@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_cellListT_time_le
 -- name    : ULHC.T.cellListT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:17:36.537034+00:00
 -- url     : https://prove2.me/theorems/ddc23a87-5912-4fe2-94b8-db1acbc3ed88

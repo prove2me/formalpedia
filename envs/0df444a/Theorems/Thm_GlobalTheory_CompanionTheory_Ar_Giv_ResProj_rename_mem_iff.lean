@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_ResProj_rename_mem_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.ResProj.rename_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:52.706799+00:00
 -- url     : https://prove2.me/theorems/fbddbee2-279f-41b2-b2df-61998b6114ab

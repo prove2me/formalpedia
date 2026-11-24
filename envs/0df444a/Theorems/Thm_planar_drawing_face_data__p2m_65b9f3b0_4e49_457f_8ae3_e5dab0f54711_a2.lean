@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_drawing_face_data__p2m_65b9f3b0_4e49_457f_8ae3_e5dab0f54711_a2
 -- name    : planar_drawing_face_data__p2m_65b9f3b0_4e49_457f_8ae3_e5dab0f54711_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T08:11:40.280933+00:00
 -- url     : https://prove2.me/theorems/f8223507-a638-4eae-a764-723ee2646df7

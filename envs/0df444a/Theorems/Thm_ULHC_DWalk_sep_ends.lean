@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_DWalk_sep_ends
 -- name    : ULHC.DWalk.sep_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:44:36.005637+00:00
 -- url     : https://prove2.me/theorems/02214edc-c487-40a7-b874-c04ba5070d45

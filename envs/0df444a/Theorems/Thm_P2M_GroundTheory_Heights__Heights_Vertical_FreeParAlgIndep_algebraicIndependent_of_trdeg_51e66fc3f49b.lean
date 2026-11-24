@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_FreeParAlgIndep_algebraicIndependent_of_trdeg_51e66fc3f49b
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_FreeParAlgIndep_algebraicIndependent_of_trdeg_51e66fc3f49b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:50.896253+00:00
 -- url     : https://prove2.me/theorems/c10637a9-c270-44ee-be19-d619eced0735

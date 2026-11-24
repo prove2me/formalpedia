@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_planeValueT_sum
 -- name    : InverseZeroSum.Candidate3.planeValueT_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:52.433674+00:00
 -- url     : https://prove2.me/theorems/135a653f-6eee-46d5-9b37-6b6677332b12

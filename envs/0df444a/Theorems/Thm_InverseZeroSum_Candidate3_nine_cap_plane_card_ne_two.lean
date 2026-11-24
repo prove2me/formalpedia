@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_nine_cap_plane_card_ne_two
 -- name    : InverseZeroSum.Candidate3.nine_cap_plane_card_ne_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:27.551163+00:00
 -- url     : https://prove2.me/theorems/6e833362-9f52-4dae-9941-6ab2dc17839c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_connected_induce_cutSide
 -- name    : WrittenOnTheWallII.GraphConjecture84.connected_induce_cutSide
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:24:38.88826+00:00
 -- url     : https://prove2.me/theorems/35cbfb4f-3111-44a2-ac20-ae9d07e82de6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_pickSrcT_time_le
 -- name    : ULHC.T.pickSrcT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:15:39.299707+00:00
 -- url     : https://prove2.me/theorems/35882762-c212-475f-a38a-502ce0743827

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_isUnit_invT
 -- name    : PI.OddDualWeyl.isUnit_invT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:07.704638+00:00
 -- url     : https://prove2.me/theorems/1ac18734-2eae-41c1-b50a-d3a197d92894

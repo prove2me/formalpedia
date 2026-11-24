@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_bwdT_time
 -- name    : ULHC.T.bwdT_time
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:16:23.966871+00:00
 -- url     : https://prove2.me/theorems/96f18980-27ac-4d89-b0ed-c0411f7dc7a7

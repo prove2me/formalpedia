@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_relSpan_le_supportedIn
 -- name    : GroundTheory.Automorphic.Whittaker.relSpan_le_supportedIn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:10:03.138504+00:00
 -- url     : https://prove2.me/theorems/2a6c80fe-5093-4cec-9a29-8e8d5df3de4b

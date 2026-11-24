@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_exists_expansion_8e7a532e1b86
 -- name    : P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_exists_expansion_8e7a532e1b86
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:33.812101+00:00
 -- url     : https://prove2.me/theorems/b3529880-2fea-45fc-9d4e-ca946f9eb7e4

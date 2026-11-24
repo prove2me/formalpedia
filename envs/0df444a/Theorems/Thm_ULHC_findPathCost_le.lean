@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_findPathCost_le
 -- name    : ULHC.findPathCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:12:40.973793+00:00
 -- url     : https://prove2.me/theorems/ad667acc-50c9-4501-b54c-56e14dc32486

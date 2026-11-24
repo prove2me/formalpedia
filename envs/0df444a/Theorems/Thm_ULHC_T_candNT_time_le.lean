@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_candNT_time_le
 -- name    : ULHC.T.candNT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:15:02.057624+00:00
 -- url     : https://prove2.me/theorems/7bc5f8ef-9ab3-41ef-9e60-e2b412ff5402

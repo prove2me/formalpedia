@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_latInd_mem_SB
 -- name    : GlobalTheory.LatPair.latInd_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:20.504849+00:00
 -- url     : https://prove2.me/theorems/1820354b-fe9c-40f1-8263-d93c8c9429a4

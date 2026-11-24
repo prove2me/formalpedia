@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_exists_cut_vertex_of_minDegree_eq_one
 -- name    : WrittenOnTheWallII.GraphConjecture84.exists_cut_vertex_of_minDegree_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:27:25.28479+00:00
 -- url     : https://prove2.me/theorems/eb36bd30-8eb6-4a8f-9a2f-3f6b95e78222

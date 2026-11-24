@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_continuous_l2Norm_de9fc54faefe
 -- name    : P2M_GroundTheory_Heights__Heights_continuous_l2Norm_de9fc54faefe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:29:16.835108+00:00
 -- url     : https://prove2.me/theorems/d972d79b-e29b-4205-8812-2842de7c02fc

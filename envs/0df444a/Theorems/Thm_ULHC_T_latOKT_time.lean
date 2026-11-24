@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_latOKT_time
 -- name    : ULHC.T.latOKT_time
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:13:43.892028+00:00
 -- url     : https://prove2.me/theorems/4847972d-e1f9-4508-b893-a51fbd80de27

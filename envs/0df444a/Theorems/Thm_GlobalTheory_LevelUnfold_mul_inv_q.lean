@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnfold_mul_inv_q
 -- name    : GlobalTheory.LevelUnfold.mul_inv_q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:21.940796+00:00
 -- url     : https://prove2.me/theorems/c91ee9fc-decf-476a-be60-713e762b8868

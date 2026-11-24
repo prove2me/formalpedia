@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_component_ne_zero_of_mem_31fa3e9616ec
 -- name    : P2M_GroundTheory_Heights__Heights_component_ne_zero_of_mem_31fa3e9616ec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:05.74668+00:00
 -- url     : https://prove2.me/theorems/87864711-60cc-4506-bd94-fa81c73999b9

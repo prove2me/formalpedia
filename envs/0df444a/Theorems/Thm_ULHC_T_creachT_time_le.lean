@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_creachT_time_le
 -- name    : ULHC.T.creachT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:13:40.001673+00:00
 -- url     : https://prove2.me/theorems/5458e078-5535-4626-93c4-a8a8bcaea132

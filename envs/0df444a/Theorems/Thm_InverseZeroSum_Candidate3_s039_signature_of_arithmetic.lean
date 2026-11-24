@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s039_signature_of_arithmetic
 -- name    : InverseZeroSum.Candidate3.s039_signature_of_arithmetic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:24:10.296556+00:00
 -- url     : https://prove2.me/theorems/a6eb6fcc-2f9c-4c2c-bb3f-1a6b6a4236e2

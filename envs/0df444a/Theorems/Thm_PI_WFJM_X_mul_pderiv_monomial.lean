@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_X_mul_pderiv_monomial
 -- name    : PI.WFJM.X_mul_pderiv_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:48.695138+00:00
 -- url     : https://prove2.me/theorems/2694b13b-4bc9-4a35-91dd-488629ad700b

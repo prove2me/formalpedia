@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_boundedVariationCriterionCh02
 -- name    : Kyprianou.boundedVariationCriterionCh02
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:21:19.986025+00:00
 -- url     : https://prove2.me/theorems/8f6e226b-6e3a-40da-9917-e0af2d8ae3f3

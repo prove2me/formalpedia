@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_euler__p2m_58d8e6f3_93b9_4006_85ea_c7e3275fd746_a5
 -- name    : WilliamsonShmoys.maximal_planar_euler__p2m_58d8e6f3_93b9_4006_85ea_c7e3275fd746_a5
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T08:00:12.40791+00:00
 -- url     : https://prove2.me/theorems/d40a2e36-a36d-4b2e-986d-2d20df82bdb3

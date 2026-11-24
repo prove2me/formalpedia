@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_cut_vertex_two_side_reduction
 -- name    : WrittenOnTheWallII.GraphConjecture84.cut_vertex_two_side_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:25.064549+00:00
 -- url     : https://prove2.me/theorems/269cf029-aff6-446d-abb5-422fa764304d

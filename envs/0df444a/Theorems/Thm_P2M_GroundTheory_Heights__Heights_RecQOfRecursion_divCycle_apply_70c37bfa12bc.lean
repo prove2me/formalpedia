@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RecQOfRecursion_divCycle_apply_70c37bfa12bc
 -- name    : P2M_GroundTheory_Heights__Heights_RecQOfRecursion_divCycle_apply_70c37bfa12bc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:52.084747+00:00
 -- url     : https://prove2.me/theorems/e9296a4c-9731-4bbc-9894-e7ba9b40b07e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_augLoopT_time_le
 -- name    : ULHC.T.augLoopT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:16:48.749603+00:00
 -- url     : https://prove2.me/theorems/94da557e-94e5-427f-81bc-64e7fffd0a72

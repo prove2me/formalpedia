@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_map_psumC
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.map_psumC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:07.225949+00:00
 -- url     : https://prove2.me/theorems/6bb9b9b4-c901-4bca-8d2c-6b8e86406498

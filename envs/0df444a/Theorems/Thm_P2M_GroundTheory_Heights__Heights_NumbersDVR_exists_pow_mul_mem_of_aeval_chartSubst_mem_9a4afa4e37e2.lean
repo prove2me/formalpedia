@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_pow_mul_mem_of_aeval_chartSubst_mem_9a4afa4e37e2
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_pow_mul_mem_of_aeval_chartSubst_mem_9a4afa4e37e2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:41.042031+00:00
 -- url     : https://prove2.me/theorems/e7b60cfa-50da-4f75-9663-848ee87a4f26

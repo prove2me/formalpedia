@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_nine_cap_direction_slice_pattern
 -- name    : InverseZeroSum.Candidate3.nine_cap_direction_slice_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:36.733458+00:00
 -- url     : https://prove2.me/theorems/c8e9373e-5805-42a2-b6d5-62ecd9a0f095

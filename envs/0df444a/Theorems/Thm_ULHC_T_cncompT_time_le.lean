@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_cncompT_time_le
 -- name    : ULHC.T.cncompT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:13:32.700098+00:00
 -- url     : https://prove2.me/theorems/3bb0406a-33c7-4b98-9b62-c951ab2aa89a

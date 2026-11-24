@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_secLin_eq_sum_d55a0de1d322
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_secLin_eq_sum_d55a0de1d322
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:40.279422+00:00
 -- url     : https://prove2.me/theorems/4279d002-14f7-41a4-aa0d-775b0db70dc8

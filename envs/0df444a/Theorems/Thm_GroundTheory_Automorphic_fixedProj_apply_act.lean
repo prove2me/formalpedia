@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_fixedProj_apply_act
 -- name    : GroundTheory.Automorphic.fixedProj_apply_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:37.751694+00:00
 -- url     : https://prove2.me/theorems/b3fa1f69-c9cd-47b9-9927-0f7d83ddb550

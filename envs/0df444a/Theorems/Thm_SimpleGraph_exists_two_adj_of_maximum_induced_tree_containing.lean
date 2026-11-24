@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_exists_two_adj_of_maximum_induced_tree_containing
 -- name    : SimpleGraph.exists_two_adj_of_maximum_induced_tree_containing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:22:52.360485+00:00
 -- url     : https://prove2.me/theorems/5d0f928f-6c42-42ef-bcd5-b43946bc9948

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DepthOneQExp_gamma_cnot_and_range
 -- name    : DepthOneQExp.gamma_cnot_and_range
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:50:32.664464+00:00
 -- url     : https://prove2.me/theorems/3286144f-8658-41a2-81f7-a6efa604276c

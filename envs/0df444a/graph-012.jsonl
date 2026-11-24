@@ -47911,7 +47911,7 @@
 {"parent": "D1Bound5.PairLightPrepared12.right_signatures_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_SmallPairPureClosureData6VerticesChunk02_Definitions", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["statement"]}
 {"parent": "OAI.Kadison.CentralSpectral.scalar_indicator_commutes", "child": "OAIQ039C054", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_euler_certificate_repair4_917de119", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_euler_certificate_repair4_917de119", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.levy_increment_two_horizon_exponential_factorisation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairMask_1_8_11_valid", "child": "D1Bound5_SmallPairSieve_1_8_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairMask_1_8_11_valid", "child": "D1Bound5_FastSquareTest_Definitions", "via": ["solution", "statement"]}

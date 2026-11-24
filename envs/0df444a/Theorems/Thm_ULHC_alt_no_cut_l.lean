@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_alt_no_cut_l
 -- name    : ULHC.alt_no_cut_l
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:18:27.959513+00:00
 -- url     : https://prove2.me/theorems/392dfb84-a744-4b52-8fbf-db341759c01a

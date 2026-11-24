@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_BaseChangeMin_flat_mvPolynomial_map_770f1c9d3b57
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_BaseChangeMin_flat_mvPolynomial_map_770f1c9d3b57
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:04.327037+00:00
 -- url     : https://prove2.me/theorems/b69b9693-46f8-4116-be83-2f57e9be2502

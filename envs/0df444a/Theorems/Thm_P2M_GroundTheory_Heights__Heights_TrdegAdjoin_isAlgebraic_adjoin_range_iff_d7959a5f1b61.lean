@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TrdegAdjoin_isAlgebraic_adjoin_range_iff_d7959a5f1b61
 -- name    : P2M_GroundTheory_Heights__Heights_TrdegAdjoin_isAlgebraic_adjoin_range_iff_d7959a5f1b61
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:09.142787+00:00
 -- url     : https://prove2.me/theorems/3650a2b8-8e55-43a0-800e-aa50a70f6d06

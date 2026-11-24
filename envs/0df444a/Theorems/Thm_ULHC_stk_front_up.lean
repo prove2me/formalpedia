@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stk_front_up
 -- name    : ULHC.stk_front_up
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:06:01.088576+00:00
 -- url     : https://prove2.me/theorems/17744984-cf8c-413f-949c-17c8e5fa4ded

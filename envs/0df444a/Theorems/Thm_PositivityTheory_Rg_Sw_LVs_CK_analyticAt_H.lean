@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_analyticAt_H
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.analyticAt_H
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:14:52.440177+00:00
 -- url     : https://prove2.me/theorems/9c0dd498-37a8-42fe-bcfa-4903f166f381

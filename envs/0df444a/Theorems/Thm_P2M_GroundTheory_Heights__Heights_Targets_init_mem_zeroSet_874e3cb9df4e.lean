@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_init_mem_zeroSet_874e3cb9df4e
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_init_mem_zeroSet_874e3cb9df4e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:51.951549+00:00
 -- url     : https://prove2.me/theorems/ad665d4a-de6d-4d6a-86df-f81a386873c9

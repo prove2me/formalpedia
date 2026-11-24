@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_bI_dec
 -- name    : ULHC.bI_dec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:23:10.309163+00:00
 -- url     : https://prove2.me/theorems/74872930-9a4a-4c31-a9d5-abe9eb4a4039

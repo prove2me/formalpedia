@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionHyperplaneAvoid_linFormMap_apply_3c216662ca9b
 -- name    : P2M_GroundTheory_Heights__Heights_SectionHyperplaneAvoid_linFormMap_apply_3c216662ca9b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:24.652173+00:00
 -- url     : https://prove2.me/theorems/17d6d06a-b6d7-45b1-aa3e-2ffbf17a5244

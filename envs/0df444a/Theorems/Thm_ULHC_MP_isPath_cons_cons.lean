@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_MP_isPath_cons_cons
 -- name    : ULHC.MP.isPath_cons_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:37.741523+00:00
 -- url     : https://prove2.me/theorems/8b1aa5ca-989a-4468-b345-b463e45f52de

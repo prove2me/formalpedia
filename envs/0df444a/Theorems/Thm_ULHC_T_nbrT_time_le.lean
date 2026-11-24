@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_nbrT_time_le
 -- name    : ULHC.T.nbrT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:16:08.285309+00:00
 -- url     : https://prove2.me/theorems/056e67a0-cb5c-497a-a86c-fed13b35e151

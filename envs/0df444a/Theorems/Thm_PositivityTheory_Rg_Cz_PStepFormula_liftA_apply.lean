@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_PStepFormula_liftA_apply
 -- name    : PositivityTheory.Rg.Cz.PStepFormula.liftA_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:02.391835+00:00
 -- url     : https://prove2.me/theorems/637cdae5-24bd-47da-be66-e87cbb4318df

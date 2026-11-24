@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RecQOfRecursion_exists_C_mul_of_isChowForm_6628fc869e62
 -- name    : P2M_GroundTheory_Heights__Heights_RecQOfRecursion_exists_C_mul_of_isChowForm_6628fc869e62
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:10:03.540272+00:00
 -- url     : https://prove2.me/theorems/02198c09-bc3c-40a7-8209-6bfd1b4cb6c3

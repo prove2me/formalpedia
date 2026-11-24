@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_invT_invT
 -- name    : PI.OddDualWeyl.invT_invT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:12.538487+00:00
 -- url     : https://prove2.me/theorems/2eb2c500-27e5-4d0d-b237-ec24bff4cd32

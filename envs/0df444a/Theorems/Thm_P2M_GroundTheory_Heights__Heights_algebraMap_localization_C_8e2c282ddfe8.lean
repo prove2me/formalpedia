@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_algebraMap_localization_C_8e2c282ddfe8
 -- name    : P2M_GroundTheory_Heights__Heights_algebraMap_localization_C_8e2c282ddfe8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:47.475794+00:00
 -- url     : https://prove2.me/theorems/f393244b-52ee-4d59-83c1-49461325baa6

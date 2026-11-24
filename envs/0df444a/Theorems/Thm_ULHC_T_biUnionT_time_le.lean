@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_biUnionT_time_le
 -- name    : ULHC.T.biUnionT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:27:47.806223+00:00
 -- url     : https://prove2.me/theorems/f8a7e7b8-baf0-425d-b8ec-6126535b19ba

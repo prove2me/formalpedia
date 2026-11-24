@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_geodesic_branches_bound_of_not_reachable
 -- name    : WrittenOnTheWallII.GraphConjecture84.geodesic_branches_bound_of_not_reachable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:09.277253+00:00
 -- url     : https://prove2.me/theorems/8e703253-d99d-4a76-89ba-575fa956cc7f

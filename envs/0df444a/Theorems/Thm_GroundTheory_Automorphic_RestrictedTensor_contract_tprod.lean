@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_contract_tprod
 -- name    : GroundTheory.Automorphic.RestrictedTensor.contract_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:29:16.889361+00:00
 -- url     : https://prove2.me/theorems/256b0c4c-7068-41a7-ad05-9b684364a3bf

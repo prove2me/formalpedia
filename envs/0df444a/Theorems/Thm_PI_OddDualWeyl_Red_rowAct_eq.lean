@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_rowAct_eq
 -- name    : PI.OddDualWeyl.Red.rowAct_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:01.370965+00:00
 -- url     : https://prove2.me/theorems/8740361b-60c5-49b1-8ab0-790c2f6d625c

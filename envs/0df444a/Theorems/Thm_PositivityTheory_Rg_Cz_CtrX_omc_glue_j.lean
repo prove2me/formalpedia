@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CtrX_omc_glue_j
 -- name    : PositivityTheory.Rg.Cz.CtrX.omc_glue_j
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:02.772144+00:00
 -- url     : https://prove2.me/theorems/194fef19-0aed-40a7-b702-630a782fc08b

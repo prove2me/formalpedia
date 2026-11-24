@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_length_localizedModule_quotient_eq_77bc8143a94c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_length_localizedModule_quotient_eq_77bc8143a94c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:08.680251+00:00
 -- url     : https://prove2.me/theorems/f6ade1b3-0678-4512-b508-7d352101b596

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_directionSliceT_card_le_four
 -- name    : InverseZeroSum.Candidate3.directionSliceT_card_le_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:35.952317+00:00
 -- url     : https://prove2.me/theorems/3c293d22-892f-4249-af3a-e966a102f6a5

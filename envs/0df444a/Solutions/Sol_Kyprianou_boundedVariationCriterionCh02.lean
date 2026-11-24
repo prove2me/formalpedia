@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.boundedVariationCriterionCh02
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T19:55:02.045349+00:00
 -- url     : https://prove2.me/submissions/f05b750a-ce4b-4160-99a8-7c05fd248f42
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

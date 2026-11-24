@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_fixedProj_eq_iff
 -- name    : GroundTheory.Automorphic.fixedProj_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:46.039808+00:00
 -- url     : https://prove2.me/theorems/36235cc1-343b-424f-9eec-7c7be43799c8

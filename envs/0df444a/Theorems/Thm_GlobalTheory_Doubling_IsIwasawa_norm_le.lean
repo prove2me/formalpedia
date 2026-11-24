@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IsIwasawa_norm_le
 -- name    : GlobalTheory.Doubling.IsIwasawa.norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:17.403494+00:00
 -- url     : https://prove2.me/theorems/a0572242-fe5c-4d05-abe5-aecbbdb9cbf7

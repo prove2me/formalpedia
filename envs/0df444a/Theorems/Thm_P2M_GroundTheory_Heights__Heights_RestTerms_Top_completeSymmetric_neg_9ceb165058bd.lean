@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_completeSymmetric_neg_9ceb165058bd
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_completeSymmetric_neg_9ceb165058bd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:08.178806+00:00
 -- url     : https://prove2.me/theorems/9f9ef36b-fdab-418f-acfb-b6797992d8b3

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.subordinatorMarginalNecessityV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T22:36:05.559571+00:00
 -- url     : https://prove2.me/submissions/53d64e0c-3ee7-468c-a5ae-54f1a646878c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

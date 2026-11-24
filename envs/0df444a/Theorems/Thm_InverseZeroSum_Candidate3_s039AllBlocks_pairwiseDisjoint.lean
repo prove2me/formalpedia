@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s039AllBlocks_pairwiseDisjoint
 -- name    : InverseZeroSum.Candidate3.s039AllBlocks_pairwiseDisjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:25:42.20665+00:00
 -- url     : https://prove2.me/theorems/ef469eb9-d4eb-4d80-8868-91ee5e486317

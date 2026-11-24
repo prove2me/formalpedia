@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_largestInducedTreeSize_eq_card_of_isTree
 -- name    : WrittenOnTheWallII.GraphConjecture84.largestInducedTreeSize_eq_card_of_isTree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:27:54.292005+00:00
 -- url     : https://prove2.me/theorems/a6a20326-a15a-465a-a5f4-d70034108e27

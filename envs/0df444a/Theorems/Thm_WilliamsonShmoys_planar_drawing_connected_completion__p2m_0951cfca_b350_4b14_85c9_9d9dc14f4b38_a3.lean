@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_completion__p2m_0951cfca_b350_4b14_85c9_9d9dc14f4b38_a3
 -- name    : WilliamsonShmoys.planar_drawing_connected_completion__p2m_0951cfca_b350_4b14_85c9_9d9dc14f4b38_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:25:56.843145+00:00
 -- url     : https://prove2.me/theorems/3b9c1b25-36f2-49fb-9760-e5ee7be0caf4

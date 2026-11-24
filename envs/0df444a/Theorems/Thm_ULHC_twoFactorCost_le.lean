@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_twoFactorCost_le
 -- name    : ULHC.twoFactorCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:11:17.187426+00:00
 -- url     : https://prove2.me/theorems/727a87de-a796-44b0-9b0f-6ba3dcd4b2b2

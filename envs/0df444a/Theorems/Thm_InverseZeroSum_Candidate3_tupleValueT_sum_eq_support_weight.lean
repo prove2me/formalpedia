@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_tupleValueT_sum_eq_support_weight
 -- name    : InverseZeroSum.Candidate3.tupleValueT_sum_eq_support_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:52.817773+00:00
 -- url     : https://prove2.me/theorems/cd1fcd0a-4114-4fd2-adc0-2d74d2affc00

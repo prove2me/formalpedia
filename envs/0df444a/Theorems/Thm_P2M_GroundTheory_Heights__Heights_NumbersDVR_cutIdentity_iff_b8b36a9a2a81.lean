@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_cutIdentity_iff_b8b36a9a2a81
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_cutIdentity_iff_b8b36a9a2a81
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:39.119873+00:00
 -- url     : https://prove2.me/theorems/27dc4bc1-9239-4cf8-9494-b46683ff7b47

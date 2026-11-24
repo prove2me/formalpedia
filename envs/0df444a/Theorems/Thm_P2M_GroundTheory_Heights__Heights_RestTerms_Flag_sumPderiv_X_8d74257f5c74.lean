@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_sumPderiv_X_8d74257f5c74
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_sumPderiv_X_8d74257f5c74
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:48.698421+00:00
 -- url     : https://prove2.me/theorems/1e534c24-c4ff-4fff-a241-8ae6a60633e1

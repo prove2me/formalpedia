@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_isCompact_unitSphereDot_855e9264b529
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_isCompact_unitSphereDot_855e9264b529
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:13.730266+00:00
 -- url     : https://prove2.me/theorems/25df3d2d-8454-4673-966f-fdbdf6737934

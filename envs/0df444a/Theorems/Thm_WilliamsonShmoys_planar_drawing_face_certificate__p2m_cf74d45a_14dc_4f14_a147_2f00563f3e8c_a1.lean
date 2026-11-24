@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_certificate__p2m_cf74d45a_14dc_4f14_a147_2f00563f3e8c_a1
 -- name    : WilliamsonShmoys.planar_drawing_face_certificate__p2m_cf74d45a_14dc_4f14_a147_2f00563f3e8c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:26:04.297959+00:00
 -- url     : https://prove2.me/theorems/426c7029-5872-47cb-8c49-aeaec1cc7a04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_gedgeT_time_le
 -- name    : ULHC.T.gedgeT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:14:50.811188+00:00
 -- url     : https://prove2.me/theorems/7560a27c-15e9-4254-9fca-3223fd4b3c85

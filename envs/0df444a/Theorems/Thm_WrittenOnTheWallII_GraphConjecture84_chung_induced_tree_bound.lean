@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_chung_induced_tree_bound
 -- name    : WrittenOnTheWallII.GraphConjecture84.chung_induced_tree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:28:35.879237+00:00
 -- url     : https://prove2.me/theorems/1151604c-1c8a-44b2-8fae-bde26362c752

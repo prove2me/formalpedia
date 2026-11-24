@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_card_quot_span_eq_relIndex_7d79e126b957
 -- name    : P2M_GroundTheory_Heights__Heights_card_quot_span_eq_relIndex_7d79e126b957
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:54.562048+00:00
 -- url     : https://prove2.me/theorems/4e8404ac-4d4a-47fd-97c9-8fedbcd4aa59

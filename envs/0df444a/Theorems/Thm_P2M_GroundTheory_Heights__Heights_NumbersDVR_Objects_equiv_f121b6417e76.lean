@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_Objects_equiv_f121b6417e76
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_Objects_equiv_f121b6417e76
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:46.360742+00:00
 -- url     : https://prove2.me/theorems/8477bc4e-5a28-40c6-ac84-afccecc81ea3

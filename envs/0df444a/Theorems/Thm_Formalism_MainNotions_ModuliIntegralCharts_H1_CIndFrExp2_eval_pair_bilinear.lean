@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp2_eval_pair_bilinear
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2.eval_pair_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:51.461275+00:00
 -- url     : https://prove2.me/theorems/4ba16c04-55fc-4436-974c-758b12d3c87c

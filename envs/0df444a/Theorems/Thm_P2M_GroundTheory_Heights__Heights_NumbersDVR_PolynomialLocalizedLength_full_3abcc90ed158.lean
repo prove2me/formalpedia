@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PolynomialLocalizedLength_full_3abcc90ed158
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PolynomialLocalizedLength_full_3abcc90ed158
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:29.789326+00:00
 -- url     : https://prove2.me/theorems/e608b472-a74d-45b8-a098-c2512bf900d3

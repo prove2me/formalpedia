@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_stripLenT_time_le
 -- name    : ULHC.T.stripLenT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:13:43.295289+00:00
 -- url     : https://prove2.me/theorems/1608110d-2e9c-4d36-a36b-4aca01b59888

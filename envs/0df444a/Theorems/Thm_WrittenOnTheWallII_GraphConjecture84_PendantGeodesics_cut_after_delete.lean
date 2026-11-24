@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_PendantGeodesics_cut_after_delete
 -- name    : WrittenOnTheWallII.GraphConjecture84.PendantGeodesics.cut_after_delete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:26:12.100815+00:00
 -- url     : https://prove2.me/theorems/577e3770-e00b-4a4c-b141-515f8a954ae9

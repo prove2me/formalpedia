@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TrdegAdjoin_map_C_int_cc39e8a8b312
 -- name    : P2M_GroundTheory_Heights__Heights_TrdegAdjoin_map_C_int_cc39e8a8b312
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:42.465876+00:00
 -- url     : https://prove2.me/theorems/09b39134-8702-4a2b-8d2b-5743367ac341

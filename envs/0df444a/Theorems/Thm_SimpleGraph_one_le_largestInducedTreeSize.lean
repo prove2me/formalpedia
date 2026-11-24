@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_one_le_largestInducedTreeSize
 -- name    : SimpleGraph.one_le_largestInducedTreeSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:22:52.804111+00:00
 -- url     : https://prove2.me/theorems/4892095e-b0c3-468d-9b45-ab9d437e523e

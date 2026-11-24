@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_similar_of_charmatrix_unit_equiv
 -- name    : WeilConjectures.similar_of_charmatrix_unit_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T05:24:19.754809+00:00
 -- url     : https://prove2.me/theorems/fde782ed-36c8-42e3-a89b-1bc2d05e88c4

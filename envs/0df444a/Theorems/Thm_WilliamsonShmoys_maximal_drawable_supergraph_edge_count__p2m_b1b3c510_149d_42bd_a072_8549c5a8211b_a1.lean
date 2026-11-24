@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_supergraph_edge_count__p2m_b1b3c510_149d_42bd_a072_8549c5a8211b_a1
 -- name    : WilliamsonShmoys.maximal_drawable_supergraph_edge_count__p2m_b1b3c510_149d_42bd_a072_8549c5a8211b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:00:00.366871+00:00
 -- url     : https://prove2.me/theorems/055d45fa-a44d-4012-991d-80fcbbc5becb

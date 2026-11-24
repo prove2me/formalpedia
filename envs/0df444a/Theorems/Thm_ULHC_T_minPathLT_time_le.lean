@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_minPathLT_time_le
 -- name    : ULHC.T.minPathLT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:15:51.966985+00:00
 -- url     : https://prove2.me/theorems/c58d0bc7-a366-4e4f-a8dc-254ca4e7891e

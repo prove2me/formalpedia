@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_dist_on_geodesic_tail
 -- name    : WrittenOnTheWallII.GraphConjecture84.dist_on_geodesic_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:28:35.835278+00:00
 -- url     : https://prove2.me/theorems/9a80fd6e-2936-494e-a6d9-6f99a6f49db3

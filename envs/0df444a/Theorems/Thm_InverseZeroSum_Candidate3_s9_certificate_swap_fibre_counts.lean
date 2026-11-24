@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s9_certificate_swap_fibre_counts
 -- name    : InverseZeroSum.Candidate3.s9_certificate_swap_fibre_counts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:53.960512+00:00
 -- url     : https://prove2.me/theorems/dd118302-6583-4d38-9ec1-61bf70c0539b

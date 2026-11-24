@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveAffineCharts_mem_integer_of_mem_chartRingZ_a503b6b08454
 -- name    : P2M_GroundTheory_Heights__Heights_CurveAffineCharts_mem_integer_of_mem_chartRingZ_a503b6b08454
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:36.461136+00:00
 -- url     : https://prove2.me/theorems/91221d38-cdde-4d1d-b673-a114e8b713d4

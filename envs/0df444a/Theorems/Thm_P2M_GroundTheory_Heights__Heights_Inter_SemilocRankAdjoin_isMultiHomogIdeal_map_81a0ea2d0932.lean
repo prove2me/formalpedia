@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocRankAdjoin_isMultiHomogIdeal_map_81a0ea2d0932
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocRankAdjoin_isMultiHomogIdeal_map_81a0ea2d0932
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:23.027688+00:00
 -- url     : https://prove2.me/theorems/bb26bd85-24bf-416e-ba05-b7eb6afd0d8e

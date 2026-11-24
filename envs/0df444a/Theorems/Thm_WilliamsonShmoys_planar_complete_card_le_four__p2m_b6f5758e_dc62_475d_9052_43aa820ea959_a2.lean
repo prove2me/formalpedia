@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_complete_card_le_four__p2m_b6f5758e_dc62_475d_9052_43aa820ea959_a2
 -- name    : WilliamsonShmoys.planar_complete_card_le_four__p2m_b6f5758e_dc62_475d_9052_43aa820ea959_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:20:26.249187+00:00
 -- url     : https://prove2.me/theorems/5e2c5d47-5385-4c28-8f25-877ce4670fc9

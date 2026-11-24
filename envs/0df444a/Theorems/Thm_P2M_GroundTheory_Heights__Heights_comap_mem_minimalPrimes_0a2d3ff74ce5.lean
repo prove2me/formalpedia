@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_comap_mem_minimalPrimes_0a2d3ff74ce5
 -- name    : P2M_GroundTheory_Heights__Heights_comap_mem_minimalPrimes_0a2d3ff74ce5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:29:18.190701+00:00
 -- url     : https://prove2.me/theorems/101f4345-788c-4bd5-9507-d8fe035e95b3

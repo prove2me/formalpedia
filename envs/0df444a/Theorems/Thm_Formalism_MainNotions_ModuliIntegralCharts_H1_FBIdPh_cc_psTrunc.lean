@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdPh_cc_psTrunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdPh.cc_psTrunc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:51.191103+00:00
 -- url     : https://prove2.me/theorems/086f6a55-9752-436a-aac7-0a70635fb6d5

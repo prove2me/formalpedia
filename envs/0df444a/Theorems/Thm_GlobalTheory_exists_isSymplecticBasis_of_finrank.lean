@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isSymplecticBasis_of_finrank
 -- name    : GlobalTheory.exists_isSymplecticBasis_of_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:10:40.291083+00:00
 -- url     : https://prove2.me/theorems/034addde-fb69-4023-9cd5-fe02b3baee42

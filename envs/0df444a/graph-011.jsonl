@@ -65158,7 +65158,7 @@
 {"parent": "Sensitivity213981Formal_Endpoint22EnvelopeData", "child": "SensitivityCampaign", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Endpoint22EnvelopeData", "child": "Sensitivity213981Formal_Namespaces", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Endpoint22EnvelopeData", "child": "Sensitivity213981Formal_RankCoefficientDominance", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_euler_faces_certificate", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_euler_faces_certificate", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "FunctionalInequalities.Analysis.BakryEmery.taylorTensor_add_readable", "child": "KLSModular_FunctionalInequalities_Analysis_BakryEmery_Tilt_SquareIntegrable", "via": ["solution", "statement"]}
 {"parent": "KLSModular_FunctionalInequalities_Energy_Relaxation_LinearPMap", "child": "KLSModular_FunctionalInequalities_Energy_Form_QuadraticPreEnergy", "via": ["statement"]}
 {"parent": "KLSModular_FunctionalInequalities_Energy_Relaxation_LinearPMap", "child": "KLSModular_FunctionalInequalities_Energy_Relaxation_Basic", "via": ["statement"]}

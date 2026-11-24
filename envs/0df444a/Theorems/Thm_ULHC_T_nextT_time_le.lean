@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_nextT_time_le
 -- name    : ULHC.T.nextT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:15:13.762303+00:00
 -- url     : https://prove2.me/theorems/5732d312-7a0d-40c1-a6f9-e3bc92357eb3

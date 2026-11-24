@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Uniq_mul_P
 -- name    : PI.OddDualWeyl.Uniq.mul_P
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:48.059555+00:00
 -- url     : https://prove2.me/theorems/fa02efe7-36e2-46ec-9c11-e53b0f666ce1

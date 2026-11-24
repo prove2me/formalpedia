@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceLelongError_deriv_smoothTransition_eq_zero_da03c9a154fd
 -- name    : P2M_GroundTheory_Heights__Heights_SliceLelongError_deriv_smoothTransition_eq_zero_da03c9a154fd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:14:28.986838+00:00
 -- url     : https://prove2.me/theorems/bb76854b-ab2c-4cd7-b690-3f29855caea3

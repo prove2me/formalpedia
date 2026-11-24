@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_chung_bound_of_unique_farthest
 -- name    : WrittenOnTheWallII.GraphConjecture84.chung_bound_of_unique_farthest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:28:27.870984+00:00
 -- url     : https://prove2.me/theorems/7c514c0b-6984-4f5b-80ab-555b8aed3cbf

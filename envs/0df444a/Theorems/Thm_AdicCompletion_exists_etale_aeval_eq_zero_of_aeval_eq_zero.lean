@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdicCompletion_exists_etale_aeval_eq_zero_of_aeval_eq_zero
 -- name    : AdicCompletion.exists_etale_aeval_eq_zero_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-24T05:18:40.995555+00:00
 -- url     : https://prove2.me/theorems/23469a94-c9e1-4c35-b927-130d7faeed3f

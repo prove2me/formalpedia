@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ker_map_residue_eq_span_e09000dfab17
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ker_map_residue_eq_span_e09000dfab17
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:45.306263+00:00
 -- url     : https://prove2.me/theorems/5ade4d42-1650-47d0-8b5b-d43d895d5160

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_two_mul_radius_le_largestInducedTreeSize_of_isTree
 -- name    : WrittenOnTheWallII.GraphConjecture84.two_mul_radius_le_largestInducedTreeSize_of_isTree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:24:34.168778+00:00
 -- url     : https://prove2.me/theorems/cf632ba6-9671-4076-bd50-a71a1e2f2130

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_chainOKBT_time_le
 -- name    : ULHC.T.chainOKBT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:14:27.748489+00:00
 -- url     : https://prove2.me/theorems/1e476022-55d9-4883-9918-5f5b25536bf9

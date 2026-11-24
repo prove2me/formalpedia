@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_walkT_time_le
 -- name    : ULHC.T.walkT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:16:34.89997+00:00
 -- url     : https://prove2.me/theorems/f25e4e3c-af47-495b-9660-6f147a9306d9

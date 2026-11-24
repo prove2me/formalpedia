@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_genIndex_eq_div_of_le_aa8fc90600a1
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_genIndex_eq_div_of_le_aa8fc90600a1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:51.290793+00:00
 -- url     : https://prove2.me/theorems/23f6db3a-6a20-4b00-843d-c1bbfc266f15

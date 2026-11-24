@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_largestInducedTreeSize_induce_le
 -- name    : WrittenOnTheWallII.GraphConjecture84.largestInducedTreeSize_induce_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:33.272412+00:00
 -- url     : https://prove2.me/theorems/da6e3bce-24f6-4108-bd84-53c8e0e49266

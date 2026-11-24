@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_map_mk_isPrime_117a21e5f9cd
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_map_mk_isPrime_117a21e5f9cd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:40.150807+00:00
 -- url     : https://prove2.me/theorems/69a3c5a0-9b24-467d-a669-222825574ae4

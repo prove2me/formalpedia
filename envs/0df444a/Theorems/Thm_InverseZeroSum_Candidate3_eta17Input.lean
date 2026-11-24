@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_eta17Input
 -- name    : InverseZeroSum.Candidate3.eta17Input
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:10.016569+00:00
 -- url     : https://prove2.me/theorems/44a0f48b-6cd4-4068-9917-9329971fe591

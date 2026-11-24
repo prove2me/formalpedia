@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_card_le_sixteen_of_eta17
 -- name    : InverseZeroSum.Candidate3.card_le_sixteen_of_eta17
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:17.238058+00:00
 -- url     : https://prove2.me/theorems/b3fbb555-91b8-490a-aa03-baf8f2bd2178

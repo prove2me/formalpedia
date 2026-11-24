@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DelaunayStretch.proposition_5_11_H1_H3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-24T03:14:53.994968+00:00
 -- url     : https://prove2.me/submissions/2c27b7f6-2d63-43e6-b028-cadea2d0fcd1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_DelaunayStretch_lemma_5_8_reduction_H1
 import Theorems.Thm_DelaunayStretch_lemma_5_9_reduction_H2

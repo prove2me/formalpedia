@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_card_eq_sum_horizontalSliceT
 -- name    : InverseZeroSum.Candidate3.card_eq_sum_horizontalSliceT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:28:17.875038+00:00
 -- url     : https://prove2.me/theorems/e5bd7fee-bbbc-4f3b-848e-a8ad6dba653e

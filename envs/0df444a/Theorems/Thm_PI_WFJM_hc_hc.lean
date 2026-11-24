@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_hc_hc
 -- name    : PI.WFJM.hc_hc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:32.72049+00:00
 -- url     : https://prove2.me/theorems/4b75135f-7915-4ef5-a97f-49cc79f2e563

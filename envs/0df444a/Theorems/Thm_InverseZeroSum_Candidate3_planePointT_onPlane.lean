@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_planePointT_onPlane
 -- name    : InverseZeroSum.Candidate3.planePointT_onPlane
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:27:13.853132+00:00
 -- url     : https://prove2.me/theorems/11ae9262-d004-4cd7-896d-1d43c030a537

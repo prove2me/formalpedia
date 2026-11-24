@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_horizontalSliceT_eq_inter
 -- name    : InverseZeroSum.Candidate3.horizontalSliceT_eq_inter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:17.80848+00:00
 -- url     : https://prove2.me/theorems/d1f11137-bb84-469f-bd62-29e2e981272d

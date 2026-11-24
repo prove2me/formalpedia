@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdPh_relabel_jpt
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdPh.relabel_jpt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:47.576308+00:00
 -- url     : https://prove2.me/theorems/04e5afb9-b9ee-4382-b0e0-98b09ce9b024

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_TwoCasesDerivatives_sumPderivReal_apply_fbdf56144058
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_TwoCasesDerivatives_sumPderivReal_apply_fbdf56144058
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:40.206382+00:00
 -- url     : https://prove2.me/theorems/ec1c6d9f-678e-4a43-bc4f-c484ceeb5f16

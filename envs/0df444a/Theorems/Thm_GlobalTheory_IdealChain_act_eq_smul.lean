@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_act_eq_smul
 -- name    : GlobalTheory.IdealChain.act_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:29.802952+00:00
 -- url     : https://prove2.me/theorems/3ababa8a-2f1b-488c-817f-aa38d95eb172

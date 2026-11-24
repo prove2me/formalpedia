@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_decodeCost_le
 -- name    : ULHC.decodeCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:12:10.973556+00:00
 -- url     : https://prove2.me/theorems/bc6d6adb-ce70-4dbb-a234-9a9a63cfa387

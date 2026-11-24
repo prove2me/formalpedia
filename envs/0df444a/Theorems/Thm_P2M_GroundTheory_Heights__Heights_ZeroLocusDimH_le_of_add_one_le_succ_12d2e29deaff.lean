@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_le_of_add_one_le_succ_12d2e29deaff
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_le_of_add_one_le_succ_12d2e29deaff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:28.226812+00:00
 -- url     : https://prove2.me/theorems/bc17600f-14af-4799-a941-2e4374d62b51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_cr2BT_time_le
 -- name    : ULHC.T.cr2BT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:14:31.301412+00:00
 -- url     : https://prove2.me/theorems/59a04ab5-0eb4-462c-8e2b-84669627d4a0

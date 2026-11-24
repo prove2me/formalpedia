@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPartGauss_finIdeal_isPrime_530e89cd1eaf
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPartGauss_finIdeal_isPrime_530e89cd1eaf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:39.759864+00:00
 -- url     : https://prove2.me/theorems/82b34a7a-b382-45ce-9e2f-6d266821855e

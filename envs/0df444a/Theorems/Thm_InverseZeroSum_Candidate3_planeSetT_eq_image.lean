@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_planeSetT_eq_image
 -- name    : InverseZeroSum.Candidate3.planeSetT_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:29.428318+00:00
 -- url     : https://prove2.me/theorems/06dd2f27-6a21-4cf1-ada0-a99863e0dddd

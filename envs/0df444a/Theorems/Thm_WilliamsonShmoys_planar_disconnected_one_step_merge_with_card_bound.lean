@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_disconnected_one_step_merge_with_card_bound
 -- name    : WilliamsonShmoys.planar_disconnected_one_step_merge_with_card_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T08:25:35.882834+00:00
 -- url     : https://prove2.me/theorems/bbe51f7a-de77-464f-9208-024da03a3910

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_exists_tupleFiberT_card_eq_one_length15
 -- name    : InverseZeroSum.Candidate3.exists_tupleFiberT_card_eq_one_length15
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:41.513928+00:00
 -- url     : https://prove2.me/theorems/006d3504-f9fe-4e8d-9aa3-0396a22536ea

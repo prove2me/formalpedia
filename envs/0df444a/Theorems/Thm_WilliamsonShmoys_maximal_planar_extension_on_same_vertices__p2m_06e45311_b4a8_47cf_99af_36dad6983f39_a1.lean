@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_extension_on_same_vertices__p2m_06e45311_b4a8_47cf_99af_36dad6983f39_a1
 -- name    : WilliamsonShmoys.maximal_planar_extension_on_same_vertices__p2m_06e45311_b4a8_47cf_99af_36dad6983f39_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:21:45.240599+00:00
 -- url     : https://prove2.me/theorems/7762f2e5-af20-4909-9894-1de106545d78

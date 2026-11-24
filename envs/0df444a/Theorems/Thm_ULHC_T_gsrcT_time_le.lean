@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_gsrcT_time_le
 -- name    : ULHC.T.gsrcT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:14:33.389959+00:00
 -- url     : https://prove2.me/theorems/846524f1-dbf6-4f28-b247-4a97cd038bfe

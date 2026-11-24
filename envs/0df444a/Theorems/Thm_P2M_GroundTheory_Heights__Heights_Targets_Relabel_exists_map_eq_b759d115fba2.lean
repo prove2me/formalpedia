@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_exists_map_eq_b759d115fba2
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_exists_map_eq_b759d115fba2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:56.105647+00:00
 -- url     : https://prove2.me/theorems/7dc88fbc-0923-47de-a834-f71ffb555337

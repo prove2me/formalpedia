@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_extension_from_bridge_step__p2m_93892d71_84f1_4ed6_a896_c06ddcff432e_a2
 -- name    : WilliamsonShmoys.planar_drawing_connected_extension_from_bridge_step__p2m_93892d71_84f1_4ed6_a896_c06ddcff432e_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:33:41.46735+00:00
 -- url     : https://prove2.me/theorems/fe1c41f8-8086-4f84-bd8f-45d16a4fd3f9

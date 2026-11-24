@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetSumMeasurable_measurable_maDens_fedcbcd77e6d
 -- name    : P2M_GroundTheory_Heights__Heights_SheetSumMeasurable_measurable_maDens_fedcbcd77e6d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:51.688795+00:00
 -- url     : https://prove2.me/theorems/096fc935-d729-40e0-8b85-45a1ba3c55d3

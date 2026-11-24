@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_cclsT_time_le
 -- name    : ULHC.T.cclsT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:39:59.874802+00:00
 -- url     : https://prove2.me/theorems/428df3a6-f52a-4520-82ef-3ccf9905531c

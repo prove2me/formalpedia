@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_layerAccT_time_le
 -- name    : ULHC.T.layerAccT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:16:14.159374+00:00
 -- url     : https://prove2.me/theorems/fca49dba-3c7a-4e85-9293-eb8e10b74c28

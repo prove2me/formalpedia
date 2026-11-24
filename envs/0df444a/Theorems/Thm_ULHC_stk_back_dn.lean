@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stk_back_dn
 -- name    : ULHC.stk_back_dn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:06:37.68002+00:00
 -- url     : https://prove2.me/theorems/c323f0ea-e8c7-4656-be5e-500d97b15397

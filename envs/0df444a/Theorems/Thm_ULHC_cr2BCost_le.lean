@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cr2BCost_le
 -- name    : ULHC.cr2BCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:09:30.310806+00:00
 -- url     : https://prove2.me/theorems/74bb5c29-63c9-4eb9-85ec-060be89c8a6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_end_not_mem_takeUntil
 -- name    : WrittenOnTheWallII.GraphConjecture84.end_not_mem_takeUntil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:26.716878+00:00
 -- url     : https://prove2.me/theorems/490095de-040f-40b5-9e61-0d5ecd70bb9b

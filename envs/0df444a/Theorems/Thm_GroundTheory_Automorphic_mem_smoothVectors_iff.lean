@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_smoothVectors_iff
 -- name    : GroundTheory.Automorphic.mem_smoothVectors_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:25:35.471219+00:00
 -- url     : https://prove2.me/theorems/4e72984a-6c38-4445-9bba-24d1ed6c2f5b

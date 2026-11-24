@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_runCost_le
 -- name    : ULHC.runCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:13:15.637806+00:00
 -- url     : https://prove2.me/theorems/facb21d9-71e0-45a6-b5ea-ea3fd8b26bbc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isSmooth_iff_forall_exists
 -- name    : GroundTheory.Automorphic.isSmooth_iff_forall_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:44.996217+00:00
 -- url     : https://prove2.me/theorems/a6fc66b7-ca54-48cc-8b3d-f43e71e88394

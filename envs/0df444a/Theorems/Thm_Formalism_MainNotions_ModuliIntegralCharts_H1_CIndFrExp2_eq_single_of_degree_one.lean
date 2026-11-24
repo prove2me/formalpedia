@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp2_eq_single_of_degree_one
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2.eq_single_of_degree_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:17.459076+00:00
 -- url     : https://prove2.me/theorems/524ffdb0-ba62-44c6-9e6f-2fbfb3e76626

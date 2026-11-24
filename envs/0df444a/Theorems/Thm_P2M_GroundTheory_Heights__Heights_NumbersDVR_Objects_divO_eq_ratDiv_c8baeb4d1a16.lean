@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_Objects_divO_eq_ratDiv_c8baeb4d1a16
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_Objects_divO_eq_ratDiv_c8baeb4d1a16
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:30.867713+00:00
 -- url     : https://prove2.me/theorems/62900e35-9751-4636-9608-b9c7d44479af

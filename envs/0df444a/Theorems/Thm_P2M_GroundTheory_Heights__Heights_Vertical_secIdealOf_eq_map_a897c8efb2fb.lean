@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_secIdealOf_eq_map_a897c8efb2fb
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_secIdealOf_eq_map_a897c8efb2fb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:24.058879+00:00
 -- url     : https://prove2.me/theorems/af176e4c-3e98-4a8b-998e-e00d1cbcdfbe

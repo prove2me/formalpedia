@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_cycle_support_delete_connected
 -- name    : WrittenOnTheWallII.GraphConjecture84.cycle_support_delete_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:41.257494+00:00
 -- url     : https://prove2.me/theorems/ba75b74a-aab3-46f7-ab7d-ad58485ebd09

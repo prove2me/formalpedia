@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyBVForcesFirstJumpMomentV1
 -- name    : Kyprianou.Ch02.levyBVForcesFirstJumpMomentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:37:57.395617+00:00
 -- url     : https://prove2.me/theorems/6f36bcff-749c-404f-a595-c1ef43134b1e

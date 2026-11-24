@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_liftOld_chartMonomial_mem_primeCompl_232337c8b957
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_liftOld_chartMonomial_mem_primeCompl_232337c8b957
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:11.59033+00:00
 -- url     : https://prove2.me/theorems/11869c2b-b5d8-4291-b193-091cc88a908b

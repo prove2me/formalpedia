@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_triangulation_counts__p2m_0c45b479_8ae4_466e_b4e0_c546b42868e7_a2
 -- name    : WilliamsonShmoys.maximal_planar_triangulation_counts__p2m_0c45b479_8ae4_466e_b4e0_c546b42868e7_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:15:54.154575+00:00
 -- url     : https://prove2.me/theorems/3b0cc7ba-e438-41c2-b251-7b0cfc52f510

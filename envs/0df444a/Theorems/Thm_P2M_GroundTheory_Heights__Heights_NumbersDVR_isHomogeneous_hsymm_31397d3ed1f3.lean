@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isHomogeneous_hsymm_31397d3ed1f3
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isHomogeneous_hsymm_31397d3ed1f3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:26.72286+00:00
 -- url     : https://prove2.me/theorems/d0c769e3-2925-4272-acbb-94f426baa260

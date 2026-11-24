@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_le_tmax_639e995f5930
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_le_tmax_639e995f5930
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:01.292672+00:00
 -- url     : https://prove2.me/theorems/fb326856-c61c-4468-9550-ab2f97bc7971

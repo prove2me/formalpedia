@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_allStripsT_time_le
 -- name    : ULHC.T.allStripsT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:31:11.343526+00:00
 -- url     : https://prove2.me/theorems/981d1818-237c-4434-8a33-3c7b00860756

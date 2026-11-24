@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_cone_metric_weight_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.cone_metric_weight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:26.87044+00:00
 -- url     : https://prove2.me/theorems/8dadcdee-3b7e-4211-9fc2-ebff90908e22

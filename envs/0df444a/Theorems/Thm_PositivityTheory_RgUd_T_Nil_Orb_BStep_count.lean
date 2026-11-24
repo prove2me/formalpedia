@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BStep_count
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BStep.count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:48.461904+00:00
 -- url     : https://prove2.me/theorems/e4697e85-8533-4607-80e4-5ad0f114fbc8

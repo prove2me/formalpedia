@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp2_formal_group_linear_second
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2.formal_group_linear_second
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:21.743515+00:00
 -- url     : https://prove2.me/theorems/1e07b732-804f-48ee-b7e9-fdd247ff834b

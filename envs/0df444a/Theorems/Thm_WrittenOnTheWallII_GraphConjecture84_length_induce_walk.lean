@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_length_induce_walk
 -- name    : WrittenOnTheWallII.GraphConjecture84.length_induce_walk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:19.389244+00:00
 -- url     : https://prove2.me/theorems/602bef91-6925-407e-9571-a13793e74cb2

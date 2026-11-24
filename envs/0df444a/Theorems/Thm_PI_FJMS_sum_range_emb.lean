@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_sum_range_emb
 -- name    : PI.FJMS.sum_range_emb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:49.038801+00:00
 -- url     : https://prove2.me/theorems/6387c83f-b6d2-4523-8103-2fac34207491

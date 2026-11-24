@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_lat1_beyond_not_mem
 -- name    : ULHC.lat1_beyond_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:32:02.402177+00:00
 -- url     : https://prove2.me/theorems/0ff68f88-309e-4377-bc88-8df4957991af

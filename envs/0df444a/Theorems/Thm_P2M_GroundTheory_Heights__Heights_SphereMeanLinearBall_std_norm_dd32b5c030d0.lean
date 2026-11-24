@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMeanLinearBall_std_norm_dd32b5c030d0
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMeanLinearBall_std_norm_dd32b5c030d0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:44.313771+00:00
 -- url     : https://prove2.me/theorems/e8a8869a-0bc9-4333-8cee-9ce7ed97a156

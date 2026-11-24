@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s056_packed_representatives_shortFree
 -- name    : InverseZeroSum.Candidate3.s056_packed_representatives_shortFree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:24:02.818802+00:00
 -- url     : https://prove2.me/theorems/2f58ad4c-bd15-4b4f-a180-491f6bc6c952

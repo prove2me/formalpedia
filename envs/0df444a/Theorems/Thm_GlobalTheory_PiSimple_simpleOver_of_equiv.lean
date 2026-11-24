@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PiSimple_simpleOver_of_equiv
 -- name    : GlobalTheory.PiSimple.simpleOver_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:29:16.760053+00:00
 -- url     : https://prove2.me/theorems/499bd55a-e5ba-43c5-8c6c-fad309123d9c

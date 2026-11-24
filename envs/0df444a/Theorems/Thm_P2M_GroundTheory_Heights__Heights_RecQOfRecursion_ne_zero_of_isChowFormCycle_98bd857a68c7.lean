@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RecQOfRecursion_ne_zero_of_isChowFormCycle_98bd857a68c7
 -- name    : P2M_GroundTheory_Heights__Heights_RecQOfRecursion_ne_zero_of_isChowFormCycle_98bd857a68c7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:57.693257+00:00
 -- url     : https://prove2.me/theorems/0acdeea3-8e74-4d7d-8307-f3454a992b71

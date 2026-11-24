@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_connected__p2m_e017d5db_f58c_45b7_b9c4_b8d059edab95_a2
 -- name    : WilliamsonShmoys.maximal_planar_graph_connected__p2m_e017d5db_f58c_45b7_b9c4_b8d059edab95_a2
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:48:09.830901+00:00
 -- url     : https://prove2.me/theorems/34185d2c-6d62-41c0-8a17-2791b9e1cd5d

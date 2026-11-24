@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_relative_plane_directionT
 -- name    : InverseZeroSum.Candidate3.relative_plane_directionT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:28:12.48481+00:00
 -- url     : https://prove2.me/theorems/4cb876a4-ab7e-4ed2-9c2b-d3ca48cd843a

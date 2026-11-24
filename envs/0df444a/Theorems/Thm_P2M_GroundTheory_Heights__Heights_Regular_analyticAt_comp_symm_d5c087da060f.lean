@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_analyticAt_comp_symm_d5c087da060f
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_analyticAt_comp_symm_d5c087da060f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:00.298379+00:00
 -- url     : https://prove2.me/theorems/32f74d28-578c-4b05-af1b-ee5dbf1cfb31

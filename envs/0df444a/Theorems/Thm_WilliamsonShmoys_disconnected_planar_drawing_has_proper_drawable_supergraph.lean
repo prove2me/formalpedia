@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_disconnected_planar_drawing_has_proper_drawable_supergraph
 -- name    : WilliamsonShmoys.disconnected_planar_drawing_has_proper_drawable_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:35:24.738012+00:00
 -- url     : https://prove2.me/theorems/f76a5656-9fe3-456c-919d-4433e1731ba3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_antisymmetrize_add_c1cef20a7e70
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_antisymmetrize_add_c1cef20a7e70
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:56.835062+00:00
 -- url     : https://prove2.me/theorems/0285d73a-d5c2-4c5e-9376-2009a5508b7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_tupleFiberT_card_eq_two_off_singleton_length15
 -- name    : InverseZeroSum.Candidate3.tupleFiberT_card_eq_two_off_singleton_length15
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:14.525802+00:00
 -- url     : https://prove2.me/theorems/24def9af-390a-4eba-b86a-900aa26ea5a1

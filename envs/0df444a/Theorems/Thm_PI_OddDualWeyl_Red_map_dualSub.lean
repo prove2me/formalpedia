@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_map_dualSub
 -- name    : PI.OddDualWeyl.Red.map_dualSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:57.925794+00:00
 -- url     : https://prove2.me/theorems/26dbb0cc-e29b-4d50-bea4-7ace93643e95

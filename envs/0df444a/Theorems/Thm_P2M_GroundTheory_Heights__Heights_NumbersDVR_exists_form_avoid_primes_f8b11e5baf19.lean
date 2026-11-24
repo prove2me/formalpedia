@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_form_avoid_primes_f8b11e5baf19
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_form_avoid_primes_f8b11e5baf19
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:47:32.801124+00:00
 -- url     : https://prove2.me/theorems/7345b645-bc49-406c-a322-29a04c845831

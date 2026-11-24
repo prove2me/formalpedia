@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_sub_fixedProj_mem_span
 -- name    : GroundTheory.Automorphic.RestrictedTensor.sub_fixedProj_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:05.855797+00:00
 -- url     : https://prove2.me/theorems/a1ae1a42-602f-48b2-abcb-1bf6d37ffb6b

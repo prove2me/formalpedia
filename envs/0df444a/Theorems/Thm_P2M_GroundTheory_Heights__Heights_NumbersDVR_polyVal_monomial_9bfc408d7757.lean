@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_monomial_9bfc408d7757
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_monomial_9bfc408d7757
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:08.672068+00:00
 -- url     : https://prove2.me/theorems/18c48b79-3fb7-4b1f-bc70-db5508e1e7a5

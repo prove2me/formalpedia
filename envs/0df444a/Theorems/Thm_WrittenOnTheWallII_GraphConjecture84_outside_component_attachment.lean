@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_outside_component_attachment
 -- name    : WrittenOnTheWallII.GraphConjecture84.outside_component_attachment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:30:01.062591+00:00
 -- url     : https://prove2.me/theorems/9342041b-c831-4795-85dc-b647a72c7813

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedEdgeColor_lemma_A_1
 -- name    : WeightedEdgeColor.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:48:46.068215+00:00
 -- url     : https://prove2.me/theorems/fc43daa5-d6ac-401e-afef-1f79166721e1

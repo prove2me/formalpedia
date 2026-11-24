@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_mem_ram
 -- name    : GlobalTheory.PairOp.mem_ram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:56.601659+00:00
 -- url     : https://prove2.me/theorems/36f43636-b298-497a-b183-c730b94719c9

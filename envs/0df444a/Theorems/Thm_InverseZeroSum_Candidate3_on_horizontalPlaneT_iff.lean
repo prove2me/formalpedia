@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_on_horizontalPlaneT_iff
 -- name    : InverseZeroSum.Candidate3.on_horizontalPlaneT_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:27:28.790796+00:00
 -- url     : https://prove2.me/theorems/d1e4d456-3bfa-4638-803d-e20b6444ce87

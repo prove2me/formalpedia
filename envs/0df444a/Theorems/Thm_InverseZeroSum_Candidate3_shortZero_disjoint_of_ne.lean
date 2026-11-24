@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_shortZero_disjoint_of_ne
 -- name    : InverseZeroSum.Candidate3.shortZero_disjoint_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:22:33.55015+00:00
 -- url     : https://prove2.me/theorems/982de58b-a56b-449c-8c08-69e32bc6be51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_planeCoord_cap_le_four
 -- name    : InverseZeroSum.Candidate3.planeCoord_cap_le_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:27:09.617511+00:00
 -- url     : https://prove2.me/theorems/e621600d-1642-45d9-86fc-138769ff456a

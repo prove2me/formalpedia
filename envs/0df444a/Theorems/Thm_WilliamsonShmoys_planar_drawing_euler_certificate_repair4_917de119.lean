@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_euler_certificate_repair4_917de119
 -- name    : WilliamsonShmoys.planar_drawing_euler_certificate_repair4_917de119
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:40:54.60087+00:00
 -- url     : https://prove2.me/theorems/d9379f81-7765-45ea-8965-6ac13da482e0

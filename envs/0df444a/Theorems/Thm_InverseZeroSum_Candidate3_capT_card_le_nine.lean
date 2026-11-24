@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_capT_card_le_nine
 -- name    : InverseZeroSum.Candidate3.capT_card_le_nine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:02.540565+00:00
 -- url     : https://prove2.me/theorems/c37792c3-7125-44c0-95ad-b308f8835f2a

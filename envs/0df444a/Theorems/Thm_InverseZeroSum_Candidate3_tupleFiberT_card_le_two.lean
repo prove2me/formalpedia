@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_tupleFiberT_card_le_two
 -- name    : InverseZeroSum.Candidate3.tupleFiberT_card_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:22:23.068952+00:00
 -- url     : https://prove2.me/theorems/94a4e78c-a07d-45d2-b944-d27aa327bce9

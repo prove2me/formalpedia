@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_eight_nonzero_cap_sum_zero
 -- name    : InverseZeroSum.Candidate3.eight_nonzero_cap_sum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:02.185151+00:00
 -- url     : https://prove2.me/theorems/150dcaa2-0dc2-469e-970c-93dc63158a10

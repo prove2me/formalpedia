@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_DiscCover_line_dist
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.DiscCover.line_dist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:10.20693+00:00
 -- url     : https://prove2.me/theorems/702df139-af5b-427f-8d1f-df8887773694

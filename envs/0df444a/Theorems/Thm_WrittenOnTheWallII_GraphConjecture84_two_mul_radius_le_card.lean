@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_two_mul_radius_le_card
 -- name    : WrittenOnTheWallII.GraphConjecture84.two_mul_radius_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:27:48.784802+00:00
 -- url     : https://prove2.me/theorems/bfedd375-28c6-492f-a1f6-58b8a09b8492

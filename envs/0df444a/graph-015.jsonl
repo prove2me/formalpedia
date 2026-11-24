@@ -20694,7 +20694,7 @@
 {"parent": "MVBlossoms_maxLevel", "child": "MVBlossoms_oddLevel", "via": ["statement"]}
 {"parent": "QseriesFormalization.Ch01.partitionCount_eighteen", "child": "QseriesFormalization_DefCoreQSeries", "via": ["statement"]}
 {"parent": "ExploreLQMFG_FortetMourier", "child": "ExploreLQMFG_Model", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planarDrawingOn_eulerFaceCertificate__p2m_266245c2_b2f6_423f_b90e_ce482fe57e00_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planarDrawingOn_eulerFaceCertificate__p2m_266245c2_b2f6_423f_b90e_ce482fe57e00_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_23_17_13_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "NonstatNV_Model_NoiseMGFBound", "child": "NonstatNV_Model", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P95.three_qutrit_code_and_four_qutrit_perfect_state", "child": "QAlgorithms_Papers_Independent_Intakenext100_P95", "via": ["statement"]}
@@ -24768,7 +24768,7 @@
 {"parent": "OAI.Laughlin.Certificate.source_error_19_5_9_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_21_15_9_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_maximal_supergraph_exists__p2m_05876c00_4f7e_4d9e_b91e_0da976d19dc6_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_extension_on_same_vertices__p2m_06e45311_b4a8_47cf_99af_36dad6983f39_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_extension_on_same_vertices__p2m_06e45311_b4a8_47cf_99af_36dad6983f39_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QseriesFormalization.Pending.Ch11RRCFConvergent.rrcf_A_three", "child": "QseriesFormalization_Pending_Chapter11_RRCF_Convergent", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_edge_count_lower_bound__p2m_8b804cdd_68ca_48da_bde7_dd4a5c81f51a_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_drawable_supergraph_exists__p2m_e6f2f448_1eb8_42c3_a63b_d113f4e2074c_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
@@ -28104,7 +28104,7 @@
 {"parent": "OAI.Laughlin.Certificate.computeLDL_17_6_5_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_17_6_5_s50", "child": "OAIQ050L002", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_17_6_5_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_induced_edge_bound__p2m_e7b88b3e_57d2_4e16_879b_dc797a764fee_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_induced_edge_bound__p2m_e7b88b3e_57d2_4e16_879b_dc797a764fee_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_19_7_3_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "TwoSidedPI.lemma_4_ineq_5", "child": "TwoSidedPI_Algorithm1", "via": ["statement"]}
 {"parent": "TwoSidedPI.lemma_4_ineq_5", "child": "TwoSidedPI_Prices", "via": ["statement"]}
@@ -29115,7 +29115,7 @@
 {"parent": "ParetoIneff.claim_4", "child": "ParetoIneff_IsWellBehaved", "via": ["statement"]}
 {"parent": "ParetoIneff.claim_4", "child": "ParetoIneff_IsDummyList", "via": ["statement"]}
 {"parent": "ParetoIneff.claim_4", "child": "ParetoIneff_Mech_PoA", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_edge_count__p2m_60570168_fc59_4828_82d8_84f6b859c6a0_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_edge_count__p2m_60570168_fc59_4828_82d8_84f6b859c6a0_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.PositiveEinsteinFour.HighestHessian.general_weighted_trace_subtraction", "child": "OAIQ091C015", "via": ["statement"]}
 {"parent": "ProcessingNetworks.PathCompact.lemma_A_10_pointwise", "child": "RBMSensitivity_IsRCLL", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.PathCompact.lemma_A_10_pointwise", "child": "ProcessingNetworks_PathCompact_ConvergesUOC", "via": ["solution", "statement"]}
@@ -29592,7 +29592,7 @@
 {"parent": "OAI.Laughlin.Certificate.computeLDL_13_2_1_s50", "child": "OAIQ050L001", "via": ["solution", "statement"]}
 {"parent": "QseriesFormalization.PartIII.Ch14.crank_partitionFourThreeOne", "child": "QseriesFormalization_Chapter14", "via": ["solution", "statement"]}
 {"parent": "QseriesFormalization.PartIII.Ch14.crank_partitionFourThreeOne", "child": "QseriesFormalization_Chapter14_CrankN4", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.inclusion_maximal_planar_has_maximum_edges__p2m_78cb0e01_1105_4561_a4db_7810010c8df8_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.inclusion_maximal_planar_has_maximum_edges__p2m_78cb0e01_1105_4561_a4db_7810010c8df8_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_9_10_s50", "child": "OAIQ050L004", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_9_10_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_9_10_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
@@ -33241,7 +33241,7 @@
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_5_8_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_5_8_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_5_8_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_drawable_graph_edge_count__p2m_2d721275_eabe_421b_ae9b_fc6b7bdcfafc_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_drawable_graph_edge_count__p2m_2d721275_eabe_421b_ae9b_fc6b7bdcfafc_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Spin.physicalFourBodyHaar_retained_sum_s50", "child": "OAIQ050L024", "via": ["solution", "statement"]}
 {"parent": "WeakSignalBandit.marginal_convergence", "child": "WeakSignalBandit_DiffusionLaw", "via": ["solution", "statement"]}
 {"parent": "SimpleMenus_natureValue", "child": "SimpleMenus_rev", "via": ["statement"]}
@@ -33852,7 +33852,7 @@
 {"parent": "SquashedKey.eq_33", "child": "QAlgorithms_Papers_Independent_Frontier18_P08", "via": ["statement"]}
 {"parent": "WildeQIT.ErasureClassical.holevoChi_erasure_uniform", "child": "WildeQIT_ErasureClassical_erasureChannel", "via": ["statement"]}
 {"parent": "WildeQIT.ErasureClassical.holevoChi_erasure_uniform", "child": "HolevoCQ_holevoChi", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_bound__p2m_a49ca777_83c4_4524_a92f_84ff8c99b9bc_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_bound__p2m_a49ca777_83c4_4524_a92f_84ff8c99b9bc_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_17_7_11_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
 {"parent": "DilatableEntropy_maxLogActions", "child": "DilatableEntropy_SeqDecisionProblem", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_15_13_13_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
@@ -43320,7 +43320,7 @@
 {"parent": "FKZAvg.WStar.lemma_2_fullW", "child": "FeinbergLiang_ACOE_MDP", "via": ["solution", "statement"]}
 {"parent": "FKZAvg.WStar.lemma_2_fullW", "child": "FKZAvg_WStar_Assumptions", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.exists_max_drawable_extension_by_arc_count__p2m_c50204fa_335d_4575_bac2_23cf83d1b5e4_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys_planar_connected_extension_iter__p2m_1d8ffaac_75df_4ce0_8b03_9887c94b1bf3_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys_planar_connected_extension_iter__p2m_1d8ffaac_75df_4ce0_8b03_9887c94b1bf3_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess_V3HRepair_MeasurableKernelIntegral", "child": "MarkovProcess_V3H_Kernel_Operator_8b41d3bf", "via": ["statement"]}
 {"parent": "MarkovProcess_V3HRepair_MeasurableKernelIntegral", "child": "MarkovProcess_V3HRepair_StronglyMeasurableKernelIntegral", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P20.open_dual_ideal_quasipoint_alternative", "child": "QAlgorithms_Papers_Independent_Intakethird100_P20", "via": ["solution", "statement"]}
@@ -46378,7 +46378,7 @@
 {"parent": "AvramDividend.Classical.avram_wave5_05_ubv_original_predictable_cap_contact_weighted_atomless_zero", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_05_ubv_original_predictable_cap_contact_weighted_atomless_zero", "child": "AvramDividend.Classical.avram_wave5_05_original_prejump_equals_book_reserve_atomless_nnreal_clock", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_05_ubv_original_predictable_cap_contact_weighted_atomless_zero", "child": "AvramDividend.Classical.avram_wave4_04_ubv_same_source_sigma_finite_cap_occupation", "via": ["solution", "statement"]}
-{"parent": "planar_drawing_face_data__p2m_65b9f3b0_4e49_457f_8ae3_e5dab0f54711_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "planar_drawing_face_data__p2m_65b9f3b0_4e49_457f_8ae3_e5dab0f54711_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_simple_graph_edge_upper_bound__p2m_2a34f2f7_4575_4fc5_979a_579be47b545a_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P50.quantumCapacity_polynomialDegradability", "child": "QAlgorithms_Papers_Independent_Intakethird100_P50", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_05_ubv_predictable_generator_hjb_countable_clocks_admissible_only", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -46918,7 +46918,7 @@
 {"parent": "AvramDividend.Classical.avram_wave5_01_bv_actual_intrinsic_borel_mark_band_expected_count_le_finite_total_rate", "child": "AvramDividend.Classical.avram_wave5_01_bv_actual_intrinsic_total_count_lintegral_equals_source_levy_rate", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planarMaximalEdgeCount_to_PlanarMapData__p2m_b3eca2bb_f78b_4222_b8fc_fe99bf34c163_a1", "child": "PlanarMapData__p2m_b23772a1_7f55_4be6_b745_ebb5a4e685d3_a3", "via": ["statement"]}
 {"parent": "FriedmannCunningham.mdp_valid", "child": "friedmann_cunningham", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_connected_extension_from_bridge_step__p2m_93892d71_84f1_4ed6_a896_c06ddcff432e_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_connected_extension_from_bridge_step__p2m_93892d71_84f1_4ed6_a896_c06ddcff432e_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAIQ106D193", "child": "MUBSix", "via": ["statement"]}
 {"parent": "OAIQ106D193", "child": "OAIQ106D140", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_03_joint_discounted_gaussian_jump_predictable_L2", "child": "AvramDividend.Classical.avram_wave4_04b_controlled_prejump_gradient_compact_band_L2_energy", "via": ["solution", "statement"]}

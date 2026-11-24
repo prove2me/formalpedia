@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_findT3Cost_le
 -- name    : ULHC.findT3Cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:12:06.028205+00:00
 -- url     : https://prove2.me/theorems/9c8fe411-e12b-4392-ad98-3ded032766a0

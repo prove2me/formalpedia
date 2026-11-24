@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_gsrcCost_le
 -- name    : ULHC.gsrcCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:10:04.238525+00:00
 -- url     : https://prove2.me/theorems/810c4e57-acdd-43c9-b651-294f0297b681

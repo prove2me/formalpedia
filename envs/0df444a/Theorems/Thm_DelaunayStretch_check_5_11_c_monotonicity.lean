@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_check_5_11_c_monotonicity
 -- name    : DelaunayStretch.check_5_11_c_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T03:14:36.344933+00:00
 -- url     : https://prove2.me/theorems/16001d64-492f-43a1-ae83-22bc76144890

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_component_partition_edge_bounds__p2m_fd05939c_3060_4687_b686_08bcaa4f6cdd_a1
 -- name    : WilliamsonShmoys.planar_drawing_component_partition_edge_bounds__p2m_fd05939c_3060_4687_b686_08bcaa4f6cdd_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:11:54.395322+00:00
 -- url     : https://prove2.me/theorems/e7b88b3e-57d2-4e16-879b-dc797a764fee

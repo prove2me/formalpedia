@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s039PackingInput_of_thresholds
 -- name    : InverseZeroSum.Candidate3.s039PackingInput_of_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:19.437518+00:00
 -- url     : https://prove2.me/theorems/57e9604e-cbb7-4968-85fa-cc8869572642

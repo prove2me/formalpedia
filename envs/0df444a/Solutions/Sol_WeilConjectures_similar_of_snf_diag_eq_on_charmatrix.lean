@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeilConjectures.similar_of_snf_diag_eq_on_charmatrix
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T05:24:25.938095+00:00
 -- url     : https://prove2.me/submissions/7282b1b1-f546-486a-aa8e-e8fe6ef10b06
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_unit_equiv_of_snf_diag_eq

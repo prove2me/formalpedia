@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_IsometryEquiv_unimodular
 -- name    : GlobalTheory.HermForm.IsometryEquiv.unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:07.574685+00:00
 -- url     : https://prove2.me/theorems/5b16dba7-19c0-4518-983e-74cd9797fe52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_radius_le_radius_induce_of_dominated
 -- name    : WrittenOnTheWallII.GraphConjecture84.radius_le_radius_induce_of_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:15.019004+00:00
 -- url     : https://prove2.me/theorems/028ca625-05d6-48e7-82e3-f62658d7ff5a

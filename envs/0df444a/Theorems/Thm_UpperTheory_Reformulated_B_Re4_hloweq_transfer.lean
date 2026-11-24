@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Re4_hloweq_transfer
 -- name    : UpperTheory.Reformulated.B.Re4.hloweq_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:55.903366+00:00
 -- url     : https://prove2.me/theorems/3c4d818f-93fb-4d5b-9258-f11b1e9e3666

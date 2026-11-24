@@ -65733,7 +65733,7 @@
 {"parent": "PI.ProdFormulaE.Frac.den_eq_one_of_norm_le_one", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProductFormulaHaar_DenEqOneOfForallPadicNormLeOne", "via": ["solution", "statement"]}
 {"parent": "LinearSetReconciliation327_Main_HintPlacedBinaryTree20261120", "child": "LinearSetReconciliation327_Main_Bundle51_14", "via": ["statement"]}
 {"parent": "LinearSetReconciliation327_Main_HintPlacedBinaryTree20261120", "child": "LinearSetReconciliation327_Main_Bundle51_15", "via": ["statement"]}
-{"parent": "GlobalTheory.exists_isSymplecticBasis", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DualRestrictSurjectiveOfIsTorsionFreeQuotient", "via": ["statement"]}
+{"parent": "GlobalTheory.exists_isSymplecticBasis", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DualRestrictSurjectiveOfIsTorsionFreeQuotient", "via": ["solution", "statement"]}
 {"parent": "PI.QuotSetU.UnitaryGroupMassFormula.SW.uw_col_out", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_NilpotentSubgroup", "via": ["solution", "statement"]}
 {"parent": "PI.QuotSetU.UnitaryGroupMassFormula.SW.uw_col_out", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_MulVecBvecApply", "via": ["solution", "statement"]}
 {"parent": "PI.OrbShared.Tri.ord_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OrbitPowerSeriesCoefficients_SolvableEquivalenceOfBaseChange", "via": ["solution", "statement"]}
@@ -90333,7 +90333,7 @@
 {"parent": "GlobalTheory.FamPull.famFE_iff", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_TauBimultOfIsPullDeg", "via": ["statement"]}
 {"parent": "GlobalTheory.FamPull.famFE_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsMonHomOfMul", "via": ["statement"]}
 {"parent": "GlobalTheory.FamPull.famFE_iff", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_ExistsFamOfIsPullDeg", "via": ["statement"]}
-{"parent": "GlobalTheory.exists_isSymplecticBasis_of_finrank", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DualRestrictSurjectiveOfIsTorsionFreeQuotient", "via": ["statement"]}
+{"parent": "GlobalTheory.exists_isSymplecticBasis_of_finrank", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DualRestrictSurjectiveOfIsTorsionFreeQuotient", "via": ["solution", "statement"]}
 {"parent": "RH1E6S15_D060_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "NoHair.regular_static_euclidean_lapse_flux_limit", "child": "NoHair_staticInvertedEndMetric", "via": ["statement"]}
 {"parent": "GlobalTheory.isHomogeneous_colon_singleton", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_LeadingCoeffNonnegOfEventuallyEvalNat", "via": ["solution", "statement"]}
@@ -98971,10 +98971,10 @@
 {"parent": "GlobalTheory.realExtBilin_tmul", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsBimultiplicativeOfSecondQuotConst", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CubeLift.rd_eq_zero", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_IsNilpotentOfRd", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CubeLift.lin_um", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_IsNilpotentOfRd", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.HolHom.isDerivAt_const", "child": "Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_HolomorphicHomDetermined", "via": ["statement"]}
-{"parent": "GlobalTheory.HolHom.isDerivAt_const", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DifferentiableOnOfTendstoLocallyUniformlyOn", "via": ["statement"]}
-{"parent": "GlobalTheory.HolHom.isDerivAt_const", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HasArcDataIff", "via": ["statement"]}
-{"parent": "GlobalTheory.HolHom.isDerivAt_const", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_ExistsUniquePointOfRingHom", "via": ["statement"]}
+{"parent": "GlobalTheory.HolHom.isDerivAt_const", "child": "Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_HolomorphicHomDetermined", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HolHom.isDerivAt_const", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DifferentiableOnOfTendstoLocallyUniformlyOn", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HolHom.isDerivAt_const", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HasArcDataIff", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HolHom.isDerivAt_const", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_ExistsUniquePointOfRingHom", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.QCoh.Qcqs.baseRingHom_algebraMap", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_ExistsSmulEqMapOfIsCompactOfIsQuasiSeparated", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.QCoh.Qcqs.baseRingHom_algebraMap", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_IsAffineHomOfIsPullbackSpecMap", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SegreCoord.box_killed", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer", "via": ["statement"]}

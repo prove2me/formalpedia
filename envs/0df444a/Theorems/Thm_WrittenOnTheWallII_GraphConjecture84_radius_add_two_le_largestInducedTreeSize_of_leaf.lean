@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_radius_add_two_le_largestInducedTreeSize_of_leaf
 -- name    : WrittenOnTheWallII.GraphConjecture84.radius_add_two_le_largestInducedTreeSize_of_leaf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:28:13.974968+00:00
 -- url     : https://prove2.me/theorems/2c9b9e51-1bb2-4b74-90af-e6c113396450

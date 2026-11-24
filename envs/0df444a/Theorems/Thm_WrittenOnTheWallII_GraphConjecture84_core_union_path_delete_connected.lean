@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_core_union_path_delete_connected
 -- name    : WrittenOnTheWallII.GraphConjecture84.core_union_path_delete_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:34.88781+00:00
 -- url     : https://prove2.me/theorems/459ee64f-0891-438b-b2bc-b96a5cb4f5f0

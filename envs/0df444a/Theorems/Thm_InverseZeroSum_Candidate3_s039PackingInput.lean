@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s039PackingInput
 -- name    : InverseZeroSum.Candidate3.s039PackingInput
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:18.665424+00:00
 -- url     : https://prove2.me/theorems/1db4eb67-fd57-4a02-9236-6f9fa343a5b7

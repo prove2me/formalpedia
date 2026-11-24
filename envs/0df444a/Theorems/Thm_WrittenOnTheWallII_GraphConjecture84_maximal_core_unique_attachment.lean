@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrittenOnTheWallII_GraphConjecture84_maximal_core_unique_attachment
 -- name    : WrittenOnTheWallII.GraphConjecture84.maximal_core_unique_attachment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:50.311506+00:00
 -- url     : https://prove2.me/theorems/3bcbdc84-ae5f-47a9-8832-a8a4d4cbf80e

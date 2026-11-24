@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_pair_planes_coverT
 -- name    : InverseZeroSum.Candidate3.pair_planes_coverT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:27.677457+00:00
 -- url     : https://prove2.me/theorems/9eadd8d3-6e9a-485a-a29a-d7cea4ce59f6

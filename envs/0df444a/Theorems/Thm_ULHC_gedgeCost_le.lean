@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_gedgeCost_le
 -- name    : ULHC.gedgeCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:09:48.786256+00:00
 -- url     : https://prove2.me/theorems/cf8f00a7-f790-4d11-8956-64f3f664a7b1

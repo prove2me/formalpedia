@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_IsTree_girth_add_one_le_card_of_two_leaves_of_two_adj
 -- name    : SimpleGraph.IsTree.girth_add_one_le_card_of_two_leaves_of_two_adj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:22:53.469787+00:00
 -- url     : https://prove2.me/theorems/23e26ea2-282d-47df-a7e5-775510892f9e

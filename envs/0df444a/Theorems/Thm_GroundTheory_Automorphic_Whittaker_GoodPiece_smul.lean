@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_GoodPiece_smul
 -- name    : GroundTheory.Automorphic.Whittaker.GoodPiece.smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:27.68306+00:00
 -- url     : https://prove2.me/theorems/07c4bf64-af2e-4310-bbe3-1e064b0808e5

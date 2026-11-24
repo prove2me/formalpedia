@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_nine_cap_sum_zero
 -- name    : InverseZeroSum.Candidate3.nine_cap_sum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:29:57.334843+00:00
 -- url     : https://prove2.me/theorems/309ec4c1-410e-40b7-b0a5-d665646a000d

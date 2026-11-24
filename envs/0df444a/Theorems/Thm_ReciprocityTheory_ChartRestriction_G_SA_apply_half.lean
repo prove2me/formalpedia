@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_apply_half
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.apply_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:57.383599+00:00
 -- url     : https://prove2.me/theorems/682d3887-d238-4c15-9e1b-e7a2b94641a2

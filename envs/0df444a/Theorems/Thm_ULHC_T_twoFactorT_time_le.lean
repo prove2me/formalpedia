@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_twoFactorT_time_le
 -- name    : ULHC.T.twoFactorT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:16:52.214224+00:00
 -- url     : https://prove2.me/theorems/ffd41962-7074-4b16-9f6b-39218de87a73

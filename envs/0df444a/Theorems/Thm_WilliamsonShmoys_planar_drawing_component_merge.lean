@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_component_merge
 -- name    : WilliamsonShmoys.planar_drawing_component_merge
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:40:29.708146+00:00
 -- url     : https://prove2.me/theorems/4c0ffef1-df07-4b75-a606-88ee2ca13553

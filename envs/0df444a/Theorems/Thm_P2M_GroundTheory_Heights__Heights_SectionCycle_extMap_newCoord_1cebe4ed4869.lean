@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_extMap_newCoord_1cebe4ed4869
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_extMap_newCoord_1cebe4ed4869
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:35.856391+00:00
 -- url     : https://prove2.me/theorems/29568552-2799-49f3-90ea-d289c02dd7ef
