@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_signedCasimir_quotient_mk
 -- name    : Formalism.REAL.signedCasimir_quotient_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:16:08.903476+00:00
 -- url     : https://prove2.me/theorems/78c9ed2a-66ec-4388-bee3-c6d371568513

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_UnitBalance_balance_by_units
 -- name    : GlobalTheory.CompanionTheory.SW.UnitBalance.balance_by_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:11:03.94448+00:00
 -- url     : https://prove2.me/theorems/1114f177-dd91-4ecb-b82b-2ff80521f4d0

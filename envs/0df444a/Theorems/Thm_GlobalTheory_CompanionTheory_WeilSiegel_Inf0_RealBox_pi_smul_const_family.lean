@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_Inf0_RealBox_pi_smul_const_family
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.Inf0.RealBox.pi_smul_const_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:22:53.385359+00:00
 -- url     : https://prove2.me/theorems/3d41428a-56c1-4639-a037-d255a83c2a64

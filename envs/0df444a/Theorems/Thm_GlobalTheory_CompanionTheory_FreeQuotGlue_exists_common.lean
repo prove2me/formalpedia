@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_exists_common
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.exists_common
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:41:32.474923+00:00
 -- url     : https://prove2.me/theorems/b98380b5-8903-4e31-b26e-1b9023f80fab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_wh_one_eq
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.wh_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:41.530811+00:00
 -- url     : https://prove2.me/theorems/2b4c0fa4-06aa-4486-82da-b49e47e84df1

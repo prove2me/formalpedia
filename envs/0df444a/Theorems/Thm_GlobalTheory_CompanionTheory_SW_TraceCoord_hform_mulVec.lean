@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TraceCoord_hform_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.TraceCoord.hform_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:11:28.965362+00:00
 -- url     : https://prove2.me/theorems/5da384cb-a3ef-4c3d-97e0-4467a3ff8960

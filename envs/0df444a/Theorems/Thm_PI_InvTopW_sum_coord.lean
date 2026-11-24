@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_sum_coord
 -- name    : PI.InvTopW.sum_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:30:07.458443+00:00
 -- url     : https://prove2.me/theorems/8f7e5858-bf27-465d-9dd3-60c0102c5f68

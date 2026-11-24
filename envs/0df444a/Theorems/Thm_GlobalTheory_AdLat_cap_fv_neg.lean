@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_cap_fv_neg
 -- name    : GlobalTheory.AdLat.cap_fv_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:12.487806+00:00
 -- url     : https://prove2.me/theorems/702dd2ab-45f8-4c52-bbe6-353b18c42c24

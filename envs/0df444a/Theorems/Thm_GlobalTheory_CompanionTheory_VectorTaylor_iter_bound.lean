@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VectorTaylor_iter_bound
 -- name    : GlobalTheory.CompanionTheory.VectorTaylor.iter_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:21:35.596894+00:00
 -- url     : https://prove2.me/theorems/e0769a35-c1bf-4526-bbe8-b0faa0184a54

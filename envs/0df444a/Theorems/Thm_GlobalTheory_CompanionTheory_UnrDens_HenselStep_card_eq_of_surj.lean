@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_HenselStep_card_eq_of_surj
 -- name    : GlobalTheory.CompanionTheory.UnrDens.HenselStep.card_eq_of_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:20:53.455805+00:00
 -- url     : https://prove2.me/theorems/5b31ab4b-7453-4186-b8e2-6de289b7cd7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Density_coset_isCompact
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Density.coset_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:39.507791+00:00
 -- url     : https://prove2.me/theorems/08c12b04-43b8-4893-b815-1a3695706794

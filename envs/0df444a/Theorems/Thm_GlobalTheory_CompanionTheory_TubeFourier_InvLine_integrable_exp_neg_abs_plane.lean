@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_InvLine_integrable_exp_neg_abs_plane
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.InvLine.integrable_exp_neg_abs_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:44.817303+00:00
 -- url     : https://prove2.me/theorems/b1b655ef-4e1e-40ad-ac35-1a8798843239

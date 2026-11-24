@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_connectedSpace_primeSpectrum_away
 -- name    : GlobalTheory.ChartRing.connectedSpace_primeSpectrum_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:14:51.064106+00:00
 -- url     : https://prove2.me/theorems/9a21318b-fc1b-4c11-a2b0-a828aa343d8f

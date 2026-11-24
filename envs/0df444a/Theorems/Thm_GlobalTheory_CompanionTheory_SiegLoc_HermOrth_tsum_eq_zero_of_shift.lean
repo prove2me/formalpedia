@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_HermOrth_tsum_eq_zero_of_shift
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.HermOrth.tsum_eq_zero_of_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:13:24.900862+00:00
 -- url     : https://prove2.me/theorems/c34dc35b-53b4-43f1-8b72-e0a1c5876518

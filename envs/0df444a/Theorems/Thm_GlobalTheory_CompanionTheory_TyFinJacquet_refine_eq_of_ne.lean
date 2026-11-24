@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinJacquet_refine_eq_of_ne
 -- name    : GlobalTheory.CompanionTheory.TyFinJacquet.refine_eq_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:18:20.688932+00:00
 -- url     : https://prove2.me/theorems/2743b9a5-1710-4011-9536-6879c5a7b0bf

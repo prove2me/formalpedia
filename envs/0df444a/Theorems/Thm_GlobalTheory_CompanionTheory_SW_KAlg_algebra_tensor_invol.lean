@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_KAlg_algebra_tensor_invol
 -- name    : GlobalTheory.CompanionTheory.SW.KAlg.algebra_tensor_invol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:36:40.219036+00:00
 -- url     : https://prove2.me/theorems/df2575f3-da4f-43eb-bc93-b4ea41e7282f

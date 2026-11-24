@@ -30105,7 +30105,7 @@
 {"parent": "CSPSubsample.lemma_3_2", "child": "CSPSubsample_Instance", "via": ["statement"]}
 {"parent": "CSPSubsample.lemma_3_2", "child": "CSPSubsample_avgSub", "via": ["statement"]}
 {"parent": "CSPSubsample.lemma_3_2", "child": "CSPSubsample_valOn", "via": ["statement"]}
-{"parent": "KSPolySign.lemma_4_3", "child": "AgnosticTNS_opNorm", "via": ["statement"]}
+{"parent": "KSPolySign.lemma_4_3", "child": "AgnosticTNS_opNorm", "via": ["solution", "statement"]}
 {"parent": "DeletionHash.MixedEdit.mixed_edit_codes", "child": "DeletionHash_MixedEdit_Redundancy", "via": ["statement"]}
 {"parent": "DeletionHash.MixedEdit.mixed_edit_codes", "child": "DeletionHash_MixedEdit_Channel", "via": ["solution", "statement"]}
 {"parent": "MultiNashRepair_Generation", "child": "MultiNashRepair_Regret", "via": ["statement"]}
@@ -34113,7 +34113,7 @@
 {"parent": "OAI.SharpPlanar.IntegerCompact.roots9_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "UnaryParityLifting_Exact_affineIndicators", "child": "UnaryParityLifting_Exact_certificateSyntax", "via": ["statement"]}
 {"parent": "CaiZhuInfo.Matrix.bilinear_prediction", "child": "CaiZhuInfo_Matrix_matrixProduct", "via": ["statement"]}
-{"parent": "KSPolySign.lemma_A_1", "child": "KSPolySign_bernsteinCoeff", "via": ["statement"]}
+{"parent": "KSPolySign.lemma_A_1", "child": "KSPolySign_bernsteinCoeff", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.kernel33_1_contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.kernel33_1_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.kernel33_1_contains_g", "child": "OAIQ098G1415", "via": ["statement"]}
@@ -36725,8 +36725,8 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm25_1_0_9.contains_g", "child": "OAIQ098G1060", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm25_1_0_9.contains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "QMAvsQCIP_multEnc", "child": "QMAvsQCIP_Sym", "via": ["statement"]}
-{"parent": "KSPolySign.lemma_3_10", "child": "KSPolySign_IsOptimal", "via": ["statement"]}
-{"parent": "KSPolySign.lemma_3_10", "child": "KSPolySign_IsInstance", "via": ["statement"]}
+{"parent": "KSPolySign.lemma_3_10", "child": "KSPolySign_IsOptimal", "via": ["solution", "statement"]}
+{"parent": "KSPolySign.lemma_3_10", "child": "KSPolySign_IsInstance", "via": ["solution", "statement"]}
 {"parent": "QuadraticProbe717.Insertion.shift_intersection", "child": "QuadraticProbe717_Insertion_arithmetic", "via": ["statement"]}
 {"parent": "HighConfRobust.fact_3_3_iii", "child": "HighConfRobust_renyiDivergence", "via": ["solution", "statement"]}
 {"parent": "ForestPersuasion.Symmetric.recursion_7", "child": "ForestPersuasion_Symmetric_DP", "via": ["statement"]}
@@ -36739,7 +36739,7 @@
 {"parent": "OAI.SharpPlanar.IntegerCompact.roots18_contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerCompact.roots18_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerCompact.roots18_contains_g", "child": "OAIQ098G064", "via": ["statement"]}
-{"parent": "KSPolySign.lemma_3_1", "child": "AgnosticTNS_opNorm", "via": ["statement"]}
+{"parent": "KSPolySign.lemma_3_1", "child": "AgnosticTNS_opNorm", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecondOfBlock_injective", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ScaleCaps", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecondOfBlock_injective", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CommonMasks", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecondOfBlock_injective", "child": "OAI_NumberTheory_DirichletL_Eisenstein_QuotientTopology", "via": ["solution", "statement"]}
@@ -45247,7 +45247,7 @@
 {"parent": "LocalProbeMIS871.Greedy.lemma_3_2", "child": "LocalProbeMIS871_Greedy_Elimination", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm12_1_1_3.sums_eq_g", "child": "OAIQ098G820", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm12_1_1_3.sums_eq_g", "child": "OAIQ098G813", "via": ["solution", "statement"]}
-{"parent": "KSPolySign.lemma_4_8", "child": "AgnosticTNS_opNorm", "via": ["statement"]}
+{"parent": "KSPolySign.lemma_4_8", "child": "AgnosticTNS_opNorm", "via": ["solution", "statement"]}
 {"parent": "OAI.QRH_b83dbbd.CanonicalQuadraticSieve.centeredRetainedDual_sum_bound", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ScaleCaps", "via": ["solution", "statement"]}
 {"parent": "OAI.QRH_b83dbbd.CanonicalQuadraticSieve.centeredRetainedDual_sum_bound", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_PoissonComparison", "via": ["solution", "statement"]}
 {"parent": "ModLatSVP_encModule", "child": "ExponomialAssortment_FPTAS_Machine", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_vanishing_outside_right_derivative
 -- name    : Formalism.REAL.vanishing_outside_right_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:12:57.038726+00:00
 -- url     : https://prove2.me/theorems/49231e13-0a00-48fd-b431-14aca112a49c

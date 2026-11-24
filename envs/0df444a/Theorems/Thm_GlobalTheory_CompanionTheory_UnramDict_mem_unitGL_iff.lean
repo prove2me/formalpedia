@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnramDict_mem_unitGL_iff
 -- name    : GlobalTheory.CompanionTheory.UnramDict.mem_unitGL_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:20:53.615977+00:00
 -- url     : https://prove2.me/theorems/cba63be9-3872-46c0-91ab-61163994829c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_exists_nat_den
 -- name    : PI.InvTopW.exists_nat_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:48.7389+00:00
 -- url     : https://prove2.me/theorems/020734cb-322b-43a0-a4ff-055e5b0f0445

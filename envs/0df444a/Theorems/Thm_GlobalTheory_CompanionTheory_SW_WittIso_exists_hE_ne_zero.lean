@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittIso_exists_hE_ne_zero
 -- name    : GlobalTheory.CompanionTheory.SW.WittIso.exists_hE_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:12:58.086536+00:00
 -- url     : https://prove2.me/theorems/13fe38d0-0018-4fff-a98b-843bf4cfdac6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteDiscreteValuationRing_exists_chart
 -- name    : GlobalTheory.CompleteDiscreteValuationRing.exists_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:24:25.402794+00:00
 -- url     : https://prove2.me/theorems/98e3e0bf-a79e-4ef6-a2aa-689bf4badd66

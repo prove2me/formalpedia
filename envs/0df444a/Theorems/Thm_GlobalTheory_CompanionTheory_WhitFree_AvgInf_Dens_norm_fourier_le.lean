@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WhitFree_AvgInf_Dens_norm_fourier_le
 -- name    : GlobalTheory.CompanionTheory.WhitFree.AvgInf.Dens.norm_fourier_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:24:45.541615+00:00
 -- url     : https://prove2.me/theorems/c988be2c-7bdd-4efd-a018-2108de97a5a0

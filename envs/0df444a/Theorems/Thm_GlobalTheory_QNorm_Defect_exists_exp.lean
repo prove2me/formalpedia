@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_Defect_exists_exp
 -- name    : GlobalTheory.QNorm.Defect.exists_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:43:18.57928+00:00
 -- url     : https://prove2.me/theorems/ca89d655-3044-4f0e-a94d-411526a0c0fd

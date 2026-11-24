@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThetaUD_form_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.ThetaUD.form_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:11:13.960565+00:00
 -- url     : https://prove2.me/theorems/b6fd2279-97ec-41bc-961e-a496f3c7fd3a

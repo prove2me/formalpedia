@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelKlingen_exists_unique_minimal_translate
 -- name    : GlobalTheory.CompanionTheory.SiegelKlingen.exists_unique_minimal_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:13:56.042562+00:00
 -- url     : https://prove2.me/theorems/0d5e0a30-3ba8-40d2-9888-1a4a7046a8ba

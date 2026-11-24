@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_Cpt_mulVec_mem_Lf
 -- name    : PI.WAU.Cpt.mulVec_mem_Lf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:36:42.835309+00:00
 -- url     : https://prove2.me/theorems/2f5babff-34ae-4411-9c32-2a33ea8ca8f5

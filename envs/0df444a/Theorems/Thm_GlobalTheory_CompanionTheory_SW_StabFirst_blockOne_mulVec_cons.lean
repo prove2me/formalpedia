@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_blockOne_mulVec_cons
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.blockOne_mulVec_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:09:51.791745+00:00
 -- url     : https://prove2.me/theorems/9f3481c3-cc2d-4c9a-9917-bce784a7d96a

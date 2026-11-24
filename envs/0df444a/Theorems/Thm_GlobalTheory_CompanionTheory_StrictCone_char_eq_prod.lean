@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_StrictCone_char_eq_prod
 -- name    : GlobalTheory.CompanionTheory.StrictCone.char_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:15:07.115874+00:00
 -- url     : https://prove2.me/theorems/7e18d32f-8a96-4cfe-8dd7-7f35dcdedac0

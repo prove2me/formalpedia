@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_freeOf_transfer_word_matrix
 -- name    : Formalism.FourierDecayAlt.P.Wd11.freeOf_transfer_word_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:46:43.730728+00:00
 -- url     : https://prove2.me/theorems/3ad87132-c278-44d3-b32e-598be794d44c

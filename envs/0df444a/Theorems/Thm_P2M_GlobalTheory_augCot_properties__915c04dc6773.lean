@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_augCot_properties__915c04dc6773
 -- name    : P2M_GlobalTheory_augCot_properties__915c04dc6773
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:32.859804+00:00
 -- url     : https://prove2.me/theorems/2b6f4d51-96bf-4749-953a-c3836936fe64

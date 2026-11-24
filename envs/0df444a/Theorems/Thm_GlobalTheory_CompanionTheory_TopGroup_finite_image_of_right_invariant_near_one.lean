@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TopGroup_finite_image_of_right_invariant_near_one
 -- name    : GlobalTheory.CompanionTheory.TopGroup.finite_image_of_right_invariant_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:16:26.374919+00:00
 -- url     : https://prove2.me/theorems/d5482f0c-1fda-4776-98b0-eaae89ae9104

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_colGeSplit_bijective
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.colGeSplit_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:12.545831+00:00
 -- url     : https://prove2.me/theorems/dc0ffe2e-3d9d-4d56-91cc-73551849ea56

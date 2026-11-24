@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EichlerTransf_eichler_transformation
 -- name    : GlobalTheory.CompanionTheory.EichlerTransf.eichler_transformation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:58:24.385369+00:00
 -- url     : https://prove2.me/theorems/116e5733-ceea-464b-8b49-9518e21843f1

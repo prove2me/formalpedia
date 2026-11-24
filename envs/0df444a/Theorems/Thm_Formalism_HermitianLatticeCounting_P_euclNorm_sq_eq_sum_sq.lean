@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_euclNorm_sq_eq_sum_sq
 -- name    : Formalism.HermitianLatticeCounting.P.euclNorm_sq_eq_sum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:29:34.865798+00:00
 -- url     : https://prove2.me/theorems/4ef02b88-adf5-4db4-acad-00acf6509ca1

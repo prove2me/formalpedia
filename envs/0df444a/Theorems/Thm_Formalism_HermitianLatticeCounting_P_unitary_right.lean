@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_unitary_right
 -- name    : Formalism.HermitianLatticeCounting.P.unitary_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:29:41.749116+00:00
 -- url     : https://prove2.me/theorems/3a52c588-fd70-410e-8efd-4fe11aff133e

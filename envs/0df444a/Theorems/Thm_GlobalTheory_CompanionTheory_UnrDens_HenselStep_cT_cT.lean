@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_HenselStep_cT_cT
 -- name    : GlobalTheory.CompanionTheory.UnrDens.HenselStep.cT_cT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:19:42.128647+00:00
 -- url     : https://prove2.me/theorems/926d3b5f-a9de-4f1b-90f2-a94f267358bb

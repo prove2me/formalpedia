@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimInf_exists_equiv
 -- name    : GlobalTheory.CompanionTheory.SW.PrimInf.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:08:38.379044+00:00
 -- url     : https://prove2.me/theorems/4eba92b1-9943-49f4-a8ca-cd47d9ef14d0

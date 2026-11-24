@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_int_add
 -- name    : GlobalTheory.CompanionTheory.Wedge.int_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:21:24.854391+00:00
 -- url     : https://prove2.me/theorems/a6beddab-5ee8-48de-b1f8-d9fe1a28e9e3

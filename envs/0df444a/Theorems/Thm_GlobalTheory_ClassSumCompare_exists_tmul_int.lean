@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassSumCompare_exists_tmul_int
 -- name    : GlobalTheory.ClassSumCompare.exists_tmul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:26:04.240608+00:00
 -- url     : https://prove2.me/theorems/24d57b1e-9753-4079-a64d-a0d7c94b33a1

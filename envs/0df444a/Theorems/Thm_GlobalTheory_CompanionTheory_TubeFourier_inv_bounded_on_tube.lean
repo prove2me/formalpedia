@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_inv_bounded_on_tube
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.inv_bounded_on_tube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:15:55.022821+00:00
 -- url     : https://prove2.me/theorems/dadd036c-c50e-4e51-8ec1-a64079824737

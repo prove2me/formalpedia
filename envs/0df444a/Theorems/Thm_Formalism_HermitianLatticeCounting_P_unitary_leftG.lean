@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_unitary_leftG
 -- name    : Formalism.HermitianLatticeCounting.P.unitary_leftG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:29:29.113027+00:00
 -- url     : https://prove2.me/theorems/08edb91e-017b-4bea-b04b-0087c2fd0229

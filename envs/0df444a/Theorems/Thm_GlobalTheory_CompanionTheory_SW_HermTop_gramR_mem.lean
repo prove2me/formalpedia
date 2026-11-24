@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HermTop_gramR_mem
 -- name    : GlobalTheory.CompanionTheory.SW.HermTop.gramR_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:56.809089+00:00
 -- url     : https://prove2.me/theorems/9ad6e799-868f-4871-9dd1-28dfab917fbf

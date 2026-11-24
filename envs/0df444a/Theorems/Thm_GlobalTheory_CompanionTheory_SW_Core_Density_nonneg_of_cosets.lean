@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Density_nonneg_of_cosets
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Density.nonneg_of_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:03:26.82978+00:00
 -- url     : https://prove2.me/theorems/eda92ff5-52fa-4bcd-b26d-eec489ff1d01

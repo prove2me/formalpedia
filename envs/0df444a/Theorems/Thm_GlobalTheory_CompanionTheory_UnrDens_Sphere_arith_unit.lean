@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_Sphere_arith_unit
 -- name    : GlobalTheory.CompanionTheory.UnrDens.Sphere.arith_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:32.104335+00:00
 -- url     : https://prove2.me/theorems/f43c48ac-4d05-487e-a716-b3436fd2bf5e

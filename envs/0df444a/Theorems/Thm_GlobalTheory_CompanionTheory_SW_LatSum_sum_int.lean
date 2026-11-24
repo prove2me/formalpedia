@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatSum_sum_int
 -- name    : GlobalTheory.CompanionTheory.SW.LatSum.sum_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:06:18.977036+00:00
 -- url     : https://prove2.me/theorems/66b419be-a431-4cb6-9e87-2183476b6cb6

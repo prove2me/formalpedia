@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mobius_action_upper_half_plane
 -- name    : GlobalTheory.T.mobius_action_upper_half_plane
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:44:55.105808+00:00
 -- url     : https://prove2.me/theorems/d430c4dc-1f78-4618-8fab-5079b69eeb62

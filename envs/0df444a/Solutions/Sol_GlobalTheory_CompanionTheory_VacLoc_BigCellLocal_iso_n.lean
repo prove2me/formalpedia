@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for GlobalTheory.CompanionTheory.VacLoc.BigCellLocal.iso_n
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-24T13:53:20.027926+00:00
+-- url     : https://prove2.me/submissions/67952732-0361-4d50-9095-a12896576397
+
+import Mathlib
+import Definitions.Def_Development_AutomorphicSpectrum_Definitions_MembershipCriteria_GoodChar
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_MembershipProofs_ExistsSkewOfDiagonal
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_MembershipProofs_BigCellLocal
+import Theorems.Thm_P2M_GlobalTheory_CompanionTheory_VacLoc_BigCellLocal_map_one__0ae7550c3513
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open GlobalTheory.CompanionTheory.VacLoc GlobalTheory.CompanionTheory.FinHeis GlobalTheory.WeilM MeasureTheory Matrix
+open GlobalTheory GlobalTheory.CompanionTheory GlobalTheory.CompanionTheory.VacLoc GlobalTheory.CompanionTheory.VacLoc.BigCellLocal
+variable {A : Type} [CommRing A] {σ : A →+* A} {β : Type} [Fintype β] [DecidableEq β]
+namespace GlobalTheory.CompanionTheory.VacLoc.BigCellLocal
+theorem _root_.solution {s : Matrix β β A} (hs : s.map σ = -sᵀ) : Iso σ (Wm A β) (Wm A β) (fromBlocks 1 s 0 1) := by
+  simp [Iso, Wm, fromBlocks_multiply, fromBlocks_transpose, fromBlocks_map, map_one', hs]
+end GlobalTheory.CompanionTheory.VacLoc.BigCellLocal

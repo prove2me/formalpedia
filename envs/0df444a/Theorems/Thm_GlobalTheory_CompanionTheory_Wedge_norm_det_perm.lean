@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_norm_det_perm
 -- name    : GlobalTheory.CompanionTheory.Wedge.norm_det_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:21:43.325902+00:00
 -- url     : https://prove2.me/theorems/d26502a3-0b85-4675-aaea-0290a5b37932

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HypSplit_selfDualLattice_projection_mem_of_unit_length
 -- name    : GlobalTheory.CompanionTheory.SW.HypSplit.selfDualLattice_projection_mem_of_unit_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:06:46.283866+00:00
 -- url     : https://prove2.me/theorems/3e048c07-b4ba-41ad-99f3-8b3e72bd957a

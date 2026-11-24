@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_GaussOne_card_filter_norm
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.GaussOne.card_filter_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:13:35.59402+00:00
 -- url     : https://prove2.me/theorems/a9197062-fc90-4fe7-bb55-5760dccc7f2b

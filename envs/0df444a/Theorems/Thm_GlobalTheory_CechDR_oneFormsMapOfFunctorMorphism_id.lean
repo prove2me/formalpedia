@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_oneFormsMapOfFunctorMorphism_id
 -- name    : GlobalTheory.CechDR.oneFormsMapOfFunctorMorphism_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:36:33.171938+00:00
 -- url     : https://prove2.me/theorems/9844aa93-64f0-41d2-a01d-69536b769479

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeMinor_nF_square
 -- name    : GlobalTheory.CompanionTheory.WedgeMinor.nF_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:17.26955+00:00
 -- url     : https://prove2.me/theorems/1def74c9-f672-4aa3-811c-998aea8905a5

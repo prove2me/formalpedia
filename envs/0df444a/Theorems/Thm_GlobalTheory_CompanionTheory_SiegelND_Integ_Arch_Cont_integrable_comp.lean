@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_Cont_integrable_comp
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.Cont.integrable_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:14:01.107149+00:00
 -- url     : https://prove2.me/theorems/d3828fda-8db8-4413-b845-974aa5b6a437

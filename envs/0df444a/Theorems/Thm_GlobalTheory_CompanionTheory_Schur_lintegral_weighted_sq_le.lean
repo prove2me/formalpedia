@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Schur_lintegral_weighted_sq_le
 -- name    : GlobalTheory.CompanionTheory.Schur.lintegral_weighted_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:12:14.845801+00:00
 -- url     : https://prove2.me/theorems/fa7c0208-1cbe-414f-a968-1ecbb9d6f555

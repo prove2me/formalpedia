@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TopH_isClosed_HR
 -- name    : GlobalTheory.CompanionTheory.SW.TopH.isClosed_HR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:12:03.743314+00:00
 -- url     : https://prove2.me/theorems/75eaf49f-2f06-4a4a-8d94-68481c4906a2

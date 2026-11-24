@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_glRel_of_bracket
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.glRel_of_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:14:54.374899+00:00
 -- url     : https://prove2.me/theorems/6060134f-a342-49a4-a625-c95dae04f2fe

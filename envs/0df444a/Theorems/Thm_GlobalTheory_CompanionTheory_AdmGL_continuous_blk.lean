@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdmGL_continuous_blk
 -- name    : GlobalTheory.CompanionTheory.AdmGL.continuous_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:15:57.613171+00:00
 -- url     : https://prove2.me/theorems/f7b59e6d-0073-40d1-9ab6-bdfbdcce3c8f

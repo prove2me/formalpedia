@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_hJ_sub_right
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.hJ_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:31:53.855217+00:00
 -- url     : https://prove2.me/theorems/7e85c57d-2e17-4949-b48a-19a935eae750

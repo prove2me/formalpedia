@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgTransfer_hOf_eq
 -- name    : GlobalTheory.CompanionTheory.RgTransfer.hOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:30:05.936047+00:00
 -- url     : https://prove2.me/theorems/04119cbf-5f04-4690-bda5-88898089b33a

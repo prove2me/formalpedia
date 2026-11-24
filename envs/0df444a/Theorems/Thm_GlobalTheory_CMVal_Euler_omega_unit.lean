@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_omega_unit
 -- name    : GlobalTheory.CMVal.Euler.omega_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:19:28.836807+00:00
 -- url     : https://prove2.me/theorems/4742ba24-a597-49f0-8229-5993a9c12efb

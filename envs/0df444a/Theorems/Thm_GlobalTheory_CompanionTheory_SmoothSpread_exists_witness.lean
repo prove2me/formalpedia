@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothSpread_exists_witness
 -- name    : GlobalTheory.CompanionTheory.SmoothSpread.exists_witness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:28.233965+00:00
 -- url     : https://prove2.me/theorems/1b08baad-d94e-4916-abfa-6ff3ce24be87

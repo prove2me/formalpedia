@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_imaginary_part_single_swap
 -- name    : Formalism.REAL.imaginary_part_single_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:13:10.042821+00:00
 -- url     : https://prove2.me/theorems/3cc0a33b-22de-45f3-812c-377197fc7839

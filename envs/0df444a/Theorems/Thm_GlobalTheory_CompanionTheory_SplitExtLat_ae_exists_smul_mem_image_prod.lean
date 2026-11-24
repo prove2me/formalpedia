@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitExtLat_ae_exists_smul_mem_image_prod
 -- name    : GlobalTheory.CompanionTheory.SplitExtLat.ae_exists_smul_mem_image_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:49.15825+00:00
 -- url     : https://prove2.me/theorems/c2a4545c-ee46-4137-8a49-c00dd56213dc

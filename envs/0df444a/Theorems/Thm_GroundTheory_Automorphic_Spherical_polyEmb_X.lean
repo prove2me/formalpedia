@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_polyEmb_X
 -- name    : GroundTheory.Automorphic.Spherical.polyEmb_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:38:50.074016+00:00
 -- url     : https://prove2.me/theorems/5fd8e4e3-d8ea-432a-965f-5a83b82c4f6b

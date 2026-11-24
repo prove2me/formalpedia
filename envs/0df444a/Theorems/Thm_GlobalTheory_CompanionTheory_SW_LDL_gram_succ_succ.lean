@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LDL_gram_succ_succ
 -- name    : GlobalTheory.CompanionTheory.SW.LDL.gram_succ_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:06:40.627033+00:00
 -- url     : https://prove2.me/theorems/64ba4ca8-d2b8-4f7f-b7b3-f77aa1da38c2

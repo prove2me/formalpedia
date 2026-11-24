@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_chain_top_bound
 -- name    : Formalism.LFunctionChainParameters.LChain.chain_top_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:31:11.204234+00:00
 -- url     : https://prove2.me/theorems/1e31b6bc-1800-4330-997a-7841b6cd9f8b

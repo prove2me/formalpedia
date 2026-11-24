@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussDet_integrable_prod_rowF
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussDet.integrable_prod_rowF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:58:34.148517+00:00
 -- url     : https://prove2.me/theorems/6ed42413-0a01-42e9-82ce-e16965481e0c

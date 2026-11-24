@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AdCpctDenWork_mem_intAd
 -- name    : PI.AdCpctDenWork.mem_intAd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:36:08.311927+00:00
 -- url     : https://prove2.me/theorems/30bf1324-27ad-4cc0-8337-4e6cf9bc5ff2

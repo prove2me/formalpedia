@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Mirrors_injective_of_squarefree_prod
 -- name    : GlobalTheory.CompanionTheory.TyFin.Mirrors.injective_of_squarefree_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:13.215963+00:00
 -- url     : https://prove2.me/theorems/1b443900-121d-491e-bf95-2383d85c4ce9

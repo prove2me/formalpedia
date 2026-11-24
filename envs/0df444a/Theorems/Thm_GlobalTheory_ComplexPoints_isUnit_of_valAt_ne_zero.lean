@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPoints_isUnit_of_valAt_ne_zero
 -- name    : GlobalTheory.ComplexPoints.isUnit_of_valAt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:25:29.382091+00:00
 -- url     : https://prove2.me/theorems/d96e4278-4393-44f0-aeb3-5c7b7c56db54

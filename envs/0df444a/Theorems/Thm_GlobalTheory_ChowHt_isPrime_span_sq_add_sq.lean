@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_isPrime_span_sq_add_sq
 -- name    : GlobalTheory.ChowHt.isPrime_span_sq_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:16:11.26505+00:00
 -- url     : https://prove2.me/theorems/bb6ab3df-4aeb-4d01-9392-9a23a1698b2e

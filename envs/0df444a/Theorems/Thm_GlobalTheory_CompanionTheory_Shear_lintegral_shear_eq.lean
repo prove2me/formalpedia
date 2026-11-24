@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Shear_lintegral_shear_eq
 -- name    : GlobalTheory.CompanionTheory.Shear.lintegral_shear_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:13:47.292849+00:00
 -- url     : https://prove2.me/theorems/d4e02184-87ab-4819-861a-e5037f7f8f6c

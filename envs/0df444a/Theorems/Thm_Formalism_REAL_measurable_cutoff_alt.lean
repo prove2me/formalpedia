@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_measurable_cutoff_alt
 -- name    : Formalism.REAL.measurable_cutoff_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:15:24.231339+00:00
 -- url     : https://prove2.me/theorems/e1bd56d8-0ecf-4b7c-9db4-31a75c46395f

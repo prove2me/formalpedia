@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_finiteType_lvl
 -- name    : GlobalTheory.CompanionTheory.Ultra.finiteType_lvl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:12.80181+00:00
 -- url     : https://prove2.me/theorems/c862baf7-03d4-460b-9f21-13d1d73208c3

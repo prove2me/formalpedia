@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_Scaled_mul_mem_lev_iff
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.Scaled.mul_mem_lev_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:13:42.637672+00:00
 -- url     : https://prove2.me/theorems/eeb06e0a-c6fa-4e25-9752-4537a71fecef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_isLocR_Ainf
 -- name    : GlobalTheory.CompanionTheory.SW.isLocR_Ainf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:23:42.262805+00:00
 -- url     : https://prove2.me/theorems/468128c6-7e51-4762-8384-22d631f8bccf

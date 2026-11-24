@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityProfileCycle_bounded_period_215_iff_single
 -- name    : SensitivityProfileCycle.bounded_period_215_iff_single
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-24T13:41:05.547594+00:00
 -- url     : https://prove2.me/theorems/f6083780-4473-4a57-b3f6-8d78b8ed4506

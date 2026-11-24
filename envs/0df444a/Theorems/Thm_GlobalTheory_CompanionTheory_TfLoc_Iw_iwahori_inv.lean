@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_iwahori_inv
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.iwahori_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:15:56.144541+00:00
 -- url     : https://prove2.me/theorems/60e01ff5-0ca7-4e8b-8145-de5c2396f3a9

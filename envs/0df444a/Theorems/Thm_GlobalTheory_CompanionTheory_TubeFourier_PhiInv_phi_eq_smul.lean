@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_PhiInv_phi_eq_smul
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.PhiInv.phi_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:16:04.752283+00:00
 -- url     : https://prove2.me/theorems/a9869c75-aedb-4aef-8c5f-d74dc90cd6d5

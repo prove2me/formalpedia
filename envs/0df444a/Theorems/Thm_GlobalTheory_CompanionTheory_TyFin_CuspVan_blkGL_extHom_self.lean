@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspVan_blkGL_extHom_self
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspVan.blkGL_extHom_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:17:18.176538+00:00
 -- url     : https://prove2.me/theorems/85ad200b-27d8-48a1-8722-2ffe7046c51c

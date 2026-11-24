@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Tri_conj_case
 -- name    : GlobalTheory.CompanionTheory.SW.Tri.conj_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:11:32.698645+00:00
 -- url     : https://prove2.me/theorems/be9f61b8-1724-44ed-baeb-8d565ab082f3

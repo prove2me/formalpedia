@@ -6052,7 +6052,7 @@
 {"parent": "ModuleRank.rank_int_le_card_of_span_eq_top_of_torsion_notMem", "child": "MilnorWolf_Growth", "via": ["solution"]}
 {"parent": "MomentDRO.Conf.corollary_1", "child": "MomentDRO_Conf_Setting", "via": ["solution", "statement"]}
 {"parent": "MomentDRO.Conf.corollary_2", "child": "MomentDRO_Conf_Setting", "via": ["solution", "statement"]}
-{"parent": "MomentDRO.Conf.lemma_2", "child": "MomentDRO_Conf_Setting", "via": ["statement"]}
+{"parent": "MomentDRO.Conf.lemma_2", "child": "MomentDRO_Conf_Setting", "via": ["solution", "statement"]}
 {"parent": "MomentDRO.Conf.lemma_3", "child": "MomentDRO_Conf_Setting", "via": ["statement"]}
 {"parent": "MomentDRO.Conf.outer_le_of_quadForm_le", "child": "MomentDRO_Conf_Setting", "via": ["solution", "statement"]}
 {"parent": "MomentDRO.Conf.theorem_2", "child": "MomentDRO.Conf.corollary_1", "via": ["solution"]}

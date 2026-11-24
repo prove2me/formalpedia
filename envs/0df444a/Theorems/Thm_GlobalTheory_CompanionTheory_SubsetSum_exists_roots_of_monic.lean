@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubsetSum_exists_roots_of_monic
 -- name    : GlobalTheory.CompanionTheory.SubsetSum.exists_roots_of_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:16:01.593534+00:00
 -- url     : https://prove2.me/theorems/af449873-f5e0-48a4-b552-60e48b3e1b21

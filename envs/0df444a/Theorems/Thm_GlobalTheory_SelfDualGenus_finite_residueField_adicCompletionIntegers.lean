@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_finite_residueField_adicCompletionIntegers
 -- name    : GlobalTheory.SelfDualGenus.finite_residueField_adicCompletionIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:12:47.680772+00:00
 -- url     : https://prove2.me/theorems/9037a242-8db2-453e-b8e6-8b45f9259380

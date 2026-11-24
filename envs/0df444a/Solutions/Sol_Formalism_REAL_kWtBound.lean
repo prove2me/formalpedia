@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.REAL.kWtBound
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-24T13:36:14.499489+00:00
+-- url     : https://prove2.me/submissions/4790ce12-ae3d-40a4-9b6d-b724568c3cb1
+
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CompactHaarRightInvariantInst
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CompactExponentialSurjective
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_LieOperatorConjHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_VectorComplexifiedDerivativeCommutator
+import Definitions.Def_Formalism_RealPlaceAnalysis_IsRightTranslationIsometric
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_ModularCharacterEqOneOnExpHermitian
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CompactCasimirHighestWeight
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_IsCompactInvariantCompactSpan
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_IsCompactInvariantOrthogonalInf
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_NoncompactGeneratorRaisesPfil
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_NoncompactArrFiniteDimensional
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_FirstSlotSliceSlotMixedCasimirZero
+import Definitions.Def_Formalism_RealPlaceAnalysis_QuotientSettingHolds
+import Theorems.Thm_Formalism_REAL_kCasSpan
+import Theorems.Thm_Formalism_REAL_kWtBound_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.REAL
+namespace Formalism.REAL
+theorem _root_.solution : KWtBound := kWtBound_of kCasSpan
+end Formalism.REAL

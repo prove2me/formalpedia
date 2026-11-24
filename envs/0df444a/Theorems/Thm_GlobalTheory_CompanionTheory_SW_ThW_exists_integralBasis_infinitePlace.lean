@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_exists_integralBasis_infinitePlace
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.exists_integralBasis_infinitePlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:30.636566+00:00
 -- url     : https://prove2.me/theorems/272afa29-0a21-4317-8333-90e143f8858d

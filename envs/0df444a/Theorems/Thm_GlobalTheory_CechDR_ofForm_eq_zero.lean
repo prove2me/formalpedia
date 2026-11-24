@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_ofForm_eq_zero
 -- name    : GlobalTheory.CechDR.ofForm_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:36:23.68071+00:00
 -- url     : https://prove2.me/theorems/519ae192-0a39-4c0d-acc1-53baf64dcdf9

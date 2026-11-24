@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_Inf0_RealBox_boxR_one_eq
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.Inf0.RealBox.boxR_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:21.263263+00:00
 -- url     : https://prove2.me/theorems/21958365-3b8f-4b85-a1c1-ad9079d457c4

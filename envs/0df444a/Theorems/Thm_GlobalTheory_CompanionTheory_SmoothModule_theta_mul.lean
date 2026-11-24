@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_theta_mul
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.theta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:14:44.370769+00:00
 -- url     : https://prove2.me/theorems/4cb7364a-1e00-49da-9635-174ba97d0918

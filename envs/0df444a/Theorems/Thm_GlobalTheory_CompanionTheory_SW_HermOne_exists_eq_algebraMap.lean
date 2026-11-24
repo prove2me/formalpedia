@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HermOne_exists_eq_algebraMap
 -- name    : GlobalTheory.CompanionTheory.SW.HermOne.exists_eq_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:07:07.653032+00:00
 -- url     : https://prove2.me/theorems/e2afd2ad-0c78-4720-8b02-98c9a1ba931e

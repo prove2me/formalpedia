@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_polyRep_apply
 -- name    : Formalism.UG.polyRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:32:46.917513+00:00
 -- url     : https://prove2.me/theorems/d49fb8a4-e3e7-411a-b571-853b6d25d75c

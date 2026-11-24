@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TraceCoord_mat_ext
 -- name    : GlobalTheory.CompanionTheory.SW.TraceCoord.mat_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:11:28.622538+00:00
 -- url     : https://prove2.me/theorems/c12ea014-c745-4c5b-be27-f375b9bc2393

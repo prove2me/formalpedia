@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_exists_isCompact_superset_infDomain
 -- name    : GlobalTheory.CompanionTheory.Equi.exists_isCompact_superset_infDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:38:09.604444+00:00
 -- url     : https://prove2.me/theorems/a027a73d-c83d-4801-bac6-10f1374470a6

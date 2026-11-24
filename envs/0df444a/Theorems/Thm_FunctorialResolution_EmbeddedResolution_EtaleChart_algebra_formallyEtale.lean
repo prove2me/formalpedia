@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleChart_algebra_formallyEtale
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleChart.algebra_formallyEtale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:15:43.843194+00:00
 -- url     : https://prove2.me/theorems/255c3f35-c909-4a93-b9ca-0d9532dcf40e

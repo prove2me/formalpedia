@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_HenselStep_red_diff
 -- name    : GlobalTheory.CompanionTheory.UnrDens.HenselStep.red_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:19:57.107098+00:00
 -- url     : https://prove2.me/theorems/c14f5b08-ebea-4d32-a950-f29f50461836

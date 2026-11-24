@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormUnit_tauU_tauU
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormUnit.tauU_tauU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:20:39.343203+00:00
 -- url     : https://prove2.me/theorems/c2c4f514-96b7-40a3-8a09-374f45d1b8f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_iterSup
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.iterSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:48:03.07183+00:00
 -- url     : https://prove2.me/theorems/c50c72ca-41fd-46ae-8d20-72edd226e7a0

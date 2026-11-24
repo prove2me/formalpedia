@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HermRep_exists_repr
 -- name    : GlobalTheory.CompanionTheory.SW.HermRep.exists_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:06:33.889885+00:00
 -- url     : https://prove2.me/theorems/5945ccfb-6cb4-4df2-a96d-9381e03fd580

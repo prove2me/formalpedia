@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_measurable_term
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.measurable_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:13:38.4818+00:00
 -- url     : https://prove2.me/theorems/bdb2745c-b5ed-44dc-8312-8bd67817cd8c

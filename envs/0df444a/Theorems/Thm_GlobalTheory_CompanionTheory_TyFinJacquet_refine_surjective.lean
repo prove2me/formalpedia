@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinJacquet_refine_surjective
 -- name    : GlobalTheory.CompanionTheory.TyFinJacquet.refine_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:18:38.075422+00:00
 -- url     : https://prove2.me/theorems/f2010e7f-5b2b-4355-8ec5-bdc32259df40

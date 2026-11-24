@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_PsiTrCore_psiTrCore_holds
 -- name    : Formalism.L2.S.Pv.PsiTrCore.psiTrCore_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:56:52.793628+00:00
 -- url     : https://prove2.me/theorems/39e6367f-cd70-460c-878b-4cb5244ef6ee

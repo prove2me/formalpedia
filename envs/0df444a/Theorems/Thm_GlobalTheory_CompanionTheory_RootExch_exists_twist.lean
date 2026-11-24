@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RootExch_exists_twist
 -- name    : GlobalTheory.CompanionTheory.RootExch.exists_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:01:09.285727+00:00
 -- url     : https://prove2.me/theorems/ffdf31f5-5d44-47a8-9cc8-a43e870045e1

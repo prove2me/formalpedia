@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_emb_dotProduct_DM
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.emb_dotProduct_DM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:08.456783+00:00
 -- url     : https://prove2.me/theorems/45ee4c35-18ce-4c5e-9faa-78ca524d808e

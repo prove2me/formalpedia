@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_vge_coeff_GM
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.vge_coeff_GM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:06:15.838918+00:00
 -- url     : https://prove2.me/theorems/2190659c-ece7-4d15-a856-8c96991109b1

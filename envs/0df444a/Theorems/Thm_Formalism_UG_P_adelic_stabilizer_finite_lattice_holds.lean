@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_adelic_stabilizer_finite_lattice_holds
 -- name    : Formalism.UG.P.adelic_stabilizer_finite_lattice_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:30:14.724165+00:00
 -- url     : https://prove2.me/theorems/fe577cba-62bd-48b4-9f3a-2afb8b072bcd

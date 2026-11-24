@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TopH_hform_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.TopH.hform_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:11:14.265392+00:00
 -- url     : https://prove2.me/theorems/dc1adce6-2b67-4e2b-9d13-72b3ba9cb67a

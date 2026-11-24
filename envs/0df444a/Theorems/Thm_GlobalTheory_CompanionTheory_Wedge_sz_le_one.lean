@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_sz_le_one
 -- name    : GlobalTheory.CompanionTheory.Wedge.sz_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:21:33.308019+00:00
 -- url     : https://prove2.me/theorems/1dd0934b-2cc7-49fe-bf6a-c85e22aee50f

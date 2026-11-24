@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_t2_tensor_product
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.t2_tensor_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:10:44.265057+00:00
 -- url     : https://prove2.me/theorems/71dc1ba5-4f13-4670-9ccf-0ffee5a2a268

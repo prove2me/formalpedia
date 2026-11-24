@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_Defect_not_isSquare_mul_sq
 -- name    : GlobalTheory.QNorm.Defect.not_isSquare_mul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:43:18.055269+00:00
 -- url     : https://prove2.me/theorems/c39b1650-b8ea-44d9-bf3e-0bd3b6ee5d26

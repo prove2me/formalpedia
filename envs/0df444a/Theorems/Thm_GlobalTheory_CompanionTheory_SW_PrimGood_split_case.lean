@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimGood_split_case
 -- name    : GlobalTheory.CompanionTheory.SW.PrimGood.split_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:08:40.148299+00:00
 -- url     : https://prove2.me/theorems/88e538d6-6556-4189-8c50-a3b18ca6366d

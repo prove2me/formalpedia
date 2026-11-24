@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Schur_eLpNorm_two_sq
 -- name    : GlobalTheory.CompanionTheory.Schur.eLpNorm_two_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:11:58.700267+00:00
 -- url     : https://prove2.me/theorems/b64269f2-397f-47e7-8108-67b21e02075e

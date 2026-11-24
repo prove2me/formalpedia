@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_continuous_mapTup
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.continuous_mapTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:07:59.159558+00:00
 -- url     : https://prove2.me/theorems/dda84181-e6c2-4718-a36d-8a16f8413ab5

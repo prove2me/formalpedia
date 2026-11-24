@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_real_part_single_swap
 -- name    : Formalism.REAL.real_part_single_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:14:30.300062+00:00
 -- url     : https://prove2.me/theorems/6a67c563-a8ed-490c-9fe2-098e56848ec1

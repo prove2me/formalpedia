@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinSamePart_avg_of_surjective
 -- name    : GlobalTheory.CompanionTheory.TyFinSamePart.avg_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:18:14.222396+00:00
 -- url     : https://prove2.me/theorems/8cf5bc66-60a2-40fd-9a6e-564818846ee1

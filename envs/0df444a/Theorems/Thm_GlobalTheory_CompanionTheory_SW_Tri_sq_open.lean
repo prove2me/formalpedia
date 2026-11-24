@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Tri_sq_open
 -- name    : GlobalTheory.CompanionTheory.SW.Tri.sq_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:11:39.826698+00:00
 -- url     : https://prove2.me/theorems/b1e68edb-2cfb-42c0-9a37-cf20b52d4e39

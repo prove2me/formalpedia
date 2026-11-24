@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeInt_continuous_ainfEquiv_symm
 -- name    : GlobalTheory.CompanionTheory.SW.SizeInt.continuous_ainfEquiv_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:09:15.413475+00:00
 -- url     : https://prove2.me/theorems/5bf49150-8ff1-4a34-b877-44b09fe6c34b

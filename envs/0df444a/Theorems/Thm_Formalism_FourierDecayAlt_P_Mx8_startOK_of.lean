@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_startOK_of
 -- name    : Formalism.FourierDecayAlt.P.Mx8.startOK_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:47:34.786034+00:00
 -- url     : https://prove2.me/theorems/9ea2ce53-8159-4661-962e-1afeecdbf730

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Transv_toMatrix_mulVec_apply
 -- name    : GlobalTheory.CompanionTheory.SW.Transv.toMatrix_mulVec_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:11:09.584518+00:00
 -- url     : https://prove2.me/theorems/0e2dfc30-5f93-4492-98c4-2c36c64f0d85

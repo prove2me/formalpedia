@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_detW_eq_normSq_det_one_add_I_smul
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.detW_eq_normSq_det_one_add_I_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:13:28.6029+00:00
 -- url     : https://prove2.me/theorems/a6f5097f-20f4-41e6-8ec9-5f43eac8c810

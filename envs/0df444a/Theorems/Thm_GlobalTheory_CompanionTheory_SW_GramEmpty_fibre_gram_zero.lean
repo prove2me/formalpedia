@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramEmpty_fibre_gram_zero
 -- name    : GlobalTheory.CompanionTheory.SW.GramEmpty.fibre_gram_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:06:22.63712+00:00
 -- url     : https://prove2.me/theorems/e6cc8629-5887-4db4-813a-046c84c49ae8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casArr
 -- name    : Formalism.REAL.casArr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:09.779751+00:00
 -- url     : https://prove2.me/theorems/9dd73019-bf35-48f8-94d3-11cbce7bc755

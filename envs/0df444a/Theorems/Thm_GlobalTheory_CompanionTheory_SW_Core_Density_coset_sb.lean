@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Density_coset_sb
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Density.coset_sb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:02:58.503982+00:00
 -- url     : https://prove2.me/theorems/9c7a37cb-12ac-4ad5-928f-dba93c2c1511

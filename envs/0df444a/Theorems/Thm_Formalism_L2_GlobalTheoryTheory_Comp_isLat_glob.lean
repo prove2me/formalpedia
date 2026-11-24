@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_isLat_glob
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:46:59.759086+00:00
 -- url     : https://prove2.me/theorems/3a1b75f8-3435-4531-8486-a448f73815bf

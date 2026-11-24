@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_BR_add_right
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.BR_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:38:31.57745+00:00
 -- url     : https://prove2.me/theorems/f5a50b38-f137-4dbb-b1d1-9169c0ddb1e0

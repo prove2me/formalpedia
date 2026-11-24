@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_exists_limit_of_compatible
 -- name    : GlobalTheory.AdLat.exists_limit_of_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:14:53.980638+00:00
 -- url     : https://prove2.me/theorems/0da2efdc-61ef-478c-b17f-95cbe07f0a6d

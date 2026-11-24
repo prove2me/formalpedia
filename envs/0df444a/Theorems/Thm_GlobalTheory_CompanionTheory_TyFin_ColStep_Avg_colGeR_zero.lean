@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Avg_colGeR_zero
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Avg.colGeR_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:17:47.669566+00:00
 -- url     : https://prove2.me/theorems/b71e296a-4861-4471-bd08-ee68e180b3b6

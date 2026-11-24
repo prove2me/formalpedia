@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinSamePart_dGL_mem
 -- name    : GlobalTheory.CompanionTheory.TyFinSamePart.dGL_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:18:16.043169+00:00
 -- url     : https://prove2.me/theorems/d0f3c67d-df88-47a0-b672-51fc94680a39

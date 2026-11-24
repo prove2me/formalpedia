@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_IsInv_swap
 -- name    : CompanionTheory.D.gk.Poul.IsInv.swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:33:39.505549+00:00
 -- url     : https://prove2.me/theorems/de2bb036-d8ef-43e9-a439-c1026e6dcffc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_mul_mem_MS_iff
 -- name    : GlobalTheory.CMVal.Euler.mul_mem_MS_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:20:00.424698+00:00
 -- url     : https://prove2.me/theorems/53006842-317a-4465-909d-8ffef2c69c8c

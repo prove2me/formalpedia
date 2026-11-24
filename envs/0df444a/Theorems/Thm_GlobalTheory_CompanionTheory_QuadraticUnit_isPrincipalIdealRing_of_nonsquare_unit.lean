@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuadraticUnit_isPrincipalIdealRing_of_nonsquare_unit
 -- name    : GlobalTheory.CompanionTheory.QuadraticUnit.isPrincipalIdealRing_of_nonsquare_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:56:13.917801+00:00
 -- url     : https://prove2.me/theorems/8283efc8-5ac9-42d7-ad7f-bef59f228839

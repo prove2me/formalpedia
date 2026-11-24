@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarScale_conj_mem
 -- name    : GlobalTheory.CompanionTheory.SW.HaarScale.conj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:06:29.902316+00:00
 -- url     : https://prove2.me/theorems/5cb33ac0-950c-42dd-b52b-81db477bf2f9

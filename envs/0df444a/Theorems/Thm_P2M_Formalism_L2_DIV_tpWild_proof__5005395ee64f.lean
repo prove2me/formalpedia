@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_DIV_tpWild_proof__5005395ee64f
 -- name    : P2M_Formalism_L2_DIV_tpWild_proof__5005395ee64f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:22:18.913996+00:00
 -- url     : https://prove2.me/theorems/d0ca55d5-e5fa-4593-ae51-33d59a842ace

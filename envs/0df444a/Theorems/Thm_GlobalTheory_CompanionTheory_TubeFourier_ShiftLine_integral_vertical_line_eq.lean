@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_ShiftLine_integral_vertical_line_eq
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.ShiftLine.integral_vertical_line_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:16:41.94495+00:00
 -- url     : https://prove2.me/theorems/1ae524e5-346f-4b29-9cfd-43ffe41ae9c5

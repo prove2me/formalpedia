@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Weyl_seminorm_diffS_le
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Weyl.seminorm_diffS_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:15:48.279859+00:00
 -- url     : https://prove2.me/theorems/53bb134f-1510-4596-9436-159d2757203d

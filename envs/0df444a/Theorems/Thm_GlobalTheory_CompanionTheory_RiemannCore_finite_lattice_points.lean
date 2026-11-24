@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RiemannCore_finite_lattice_points
 -- name    : GlobalTheory.CompanionTheory.RiemannCore.finite_lattice_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:01:04.762938+00:00
 -- url     : https://prove2.me/theorems/d0a0c41a-f353-423a-af86-af43cf57c200

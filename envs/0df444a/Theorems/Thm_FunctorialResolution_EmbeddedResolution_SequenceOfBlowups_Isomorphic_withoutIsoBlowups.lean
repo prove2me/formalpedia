@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SequenceOfBlowups_Isomorphic_withoutIsoBlowups
 -- name    : FunctorialResolution.EmbeddedResolution.SequenceOfBlowups.Isomorphic.withoutIsoBlowups
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:48:18.251985+00:00
 -- url     : https://prove2.me/theorems/ae715353-f385-46cb-b7bf-a07f7ffafd5a

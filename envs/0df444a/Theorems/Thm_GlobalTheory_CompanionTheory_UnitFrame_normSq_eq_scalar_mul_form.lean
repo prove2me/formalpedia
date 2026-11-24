@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnitFrame_normSq_eq_scalar_mul_form
 -- name    : GlobalTheory.CompanionTheory.UnitFrame.normSq_eq_scalar_mul_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:48.28368+00:00
 -- url     : https://prove2.me/theorems/400ad93a-e6d7-4fb3-97a8-d6a1ebc76b54

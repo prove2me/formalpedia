@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_gapPigeonhole
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.gapPigeonhole
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:49:02.790825+00:00
 -- url     : https://prove2.me/theorems/7103271e-b060-4176-bff2-63e061c7cb9e

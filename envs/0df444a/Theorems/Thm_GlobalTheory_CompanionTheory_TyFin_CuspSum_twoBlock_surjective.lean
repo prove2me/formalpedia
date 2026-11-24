@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspSum_twoBlock_surjective
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspSum.twoBlock_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:17:19.265567+00:00
 -- url     : https://prove2.me/theorems/ad8ed37c-d56c-4a64-bde2-fb45061ac4e8

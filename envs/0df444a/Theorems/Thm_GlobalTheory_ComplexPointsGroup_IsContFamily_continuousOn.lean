@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPointsGroup_IsContFamily_continuousOn
 -- name    : GlobalTheory.ComplexPointsGroup.IsContFamily.continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:25:38.330802+00:00
 -- url     : https://prove2.me/theorems/40e9ac00-018f-4a91-981e-b80004ddf409

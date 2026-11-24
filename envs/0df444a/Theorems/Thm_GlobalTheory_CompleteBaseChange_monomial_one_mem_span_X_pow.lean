@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteBaseChange_monomial_one_mem_span_X_pow
 -- name    : GlobalTheory.CompleteBaseChange.monomial_one_mem_span_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:24:08.59136+00:00
 -- url     : https://prove2.me/theorems/0ad0fc88-e5a8-486e-91c1-0854e22a1e90

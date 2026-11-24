@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Mirrors_fiber_nonempty
 -- name    : GlobalTheory.CompanionTheory.TyFin.Mirrors.fiber_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:18:45.59197+00:00
 -- url     : https://prove2.me/theorems/8bf653e2-bf59-461d-8ade-ab0d0ef1510c

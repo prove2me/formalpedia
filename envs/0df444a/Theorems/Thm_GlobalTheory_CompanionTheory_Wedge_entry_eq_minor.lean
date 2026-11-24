@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_entry_eq_minor
 -- name    : GlobalTheory.CompanionTheory.Wedge.entry_eq_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:21:08.931308+00:00
 -- url     : https://prove2.me/theorems/c14485cf-8bdf-426c-b343-181b93b868dd

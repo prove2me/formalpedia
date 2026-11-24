@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_orth_ker_iff_exists
 -- name    : GlobalTheory.AnArc.orth_ker_iff_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:28:58.214237+00:00
 -- url     : https://prove2.me/theorems/5bd71326-a935-4631-bb5a-7b6ec96b5f64

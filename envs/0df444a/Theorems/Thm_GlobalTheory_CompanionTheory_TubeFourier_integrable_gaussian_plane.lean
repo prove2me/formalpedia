@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_integrable_gaussian_plane
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.integrable_gaussian_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:16:30.81588+00:00
 -- url     : https://prove2.me/theorems/b1de27d8-d3c9-4c7e-9fba-ca1de461e344

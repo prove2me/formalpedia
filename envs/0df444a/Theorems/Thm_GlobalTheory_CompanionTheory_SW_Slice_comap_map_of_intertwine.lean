@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Slice_comap_map_of_intertwine
 -- name    : GlobalTheory.CompanionTheory.SW.Slice.comap_map_of_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:10:36.457518+00:00
 -- url     : https://prove2.me/theorems/a1b41bca-1606-4afd-8927-73f446d70d37

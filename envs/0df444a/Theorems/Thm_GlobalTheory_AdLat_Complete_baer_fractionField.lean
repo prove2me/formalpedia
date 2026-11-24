@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Complete_baer_fractionField
 -- name    : GlobalTheory.AdLat.Complete.baer_fractionField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:38:36.146353+00:00
 -- url     : https://prove2.me/theorems/6473eef6-e639-4bcb-ac48-17d751f2503e

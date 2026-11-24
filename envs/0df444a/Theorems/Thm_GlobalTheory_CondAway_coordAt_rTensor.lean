@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CondAway_coordAt_rTensor
 -- name    : GlobalTheory.CondAway.coordAt_rTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:40:19.861449+00:00
 -- url     : https://prove2.me/theorems/0f32f484-8c0c-4d97-b6a0-4ad9ff5142ee

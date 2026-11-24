@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspIff_pm_conj
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspIff.pm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:55.887049+00:00
 -- url     : https://prove2.me/theorems/c2c9e769-3289-42dd-b8e9-ee6157088e02

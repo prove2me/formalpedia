@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Avg_unip_subset_patSet
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Avg.unip_subset_patSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:17:14.42289+00:00
 -- url     : https://prove2.me/theorems/b544f6f6-7acb-4e38-99b7-33258cfec76d

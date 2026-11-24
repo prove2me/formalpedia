@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VacLoc_GoodInh_goodChar_of_hasConductor
 -- name    : GlobalTheory.CompanionTheory.VacLoc.GoodInh.goodChar_of_hasConductor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:22:27.917369+00:00
 -- url     : https://prove2.me/theorems/1774cea1-f94b-4679-9d5b-5774842c84b5

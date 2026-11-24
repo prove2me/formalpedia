@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_det_EM_sq
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.det_EM_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:24.526297+00:00
 -- url     : https://prove2.me/theorems/cc9bb0fe-fd9b-44b8-89e5-f77aeec52bac

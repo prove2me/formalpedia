@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwContraction_continuous_of_val
 -- name    : GlobalTheory.CompanionTheory.TwContraction.continuous_of_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:17:43.670781+00:00
 -- url     : https://prove2.me/theorems/52b0841c-b984-4bfc-a492-ebe71e2fb631

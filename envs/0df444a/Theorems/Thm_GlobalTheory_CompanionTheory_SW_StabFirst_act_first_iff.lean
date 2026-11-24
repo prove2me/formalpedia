@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_act_first_iff
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.act_first_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:09:40.039973+00:00
 -- url     : https://prove2.me/theorems/947cab24-73ca-49af-ae48-10792358c9e3

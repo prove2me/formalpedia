@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_exists_int_of_fixed
 -- name    : GlobalTheory.UnramOrder.exists_int_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:04:55.243298+00:00
 -- url     : https://prove2.me/theorems/98494c8d-7e9c-462d-a42c-2592ee41c5e4

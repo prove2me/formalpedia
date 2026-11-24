@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RingDiag_schur_step
 -- name    : GlobalTheory.CompanionTheory.SW.RingDiag.schur_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:09:47.974796+00:00
 -- url     : https://prove2.me/theorems/7b696c11-a5ef-48c1-867b-b2c2259e0916

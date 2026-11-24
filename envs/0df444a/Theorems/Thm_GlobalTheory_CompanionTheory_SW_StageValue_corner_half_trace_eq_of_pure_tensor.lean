@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StageValue_corner_half_trace_eq_of_pure_tensor
 -- name    : GlobalTheory.CompanionTheory.SW.StageValue.corner_half_trace_eq_of_pure_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:09:39.715112+00:00
 -- url     : https://prove2.me/theorems/cd9012dd-6482-41a8-a6f6-5a22fbc0542c

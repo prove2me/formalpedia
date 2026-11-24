@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussOne_norm_half
 -- name    : GlobalTheory.CompanionTheory.SW.GaussOne.norm_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:20.569484+00:00
 -- url     : https://prove2.me/theorems/2fb8942a-9715-489d-b07a-87102b2ae8da

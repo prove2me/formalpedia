@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Avg_sum_eq_zero_of_translates
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Avg.sum_eq_zero_of_translates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:17:16.818562+00:00
 -- url     : https://prove2.me/theorems/35027825-ac64-408a-a50e-a53447271662

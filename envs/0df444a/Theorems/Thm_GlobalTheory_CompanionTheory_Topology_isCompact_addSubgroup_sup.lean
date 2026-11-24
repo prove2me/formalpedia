@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Topology_isCompact_addSubgroup_sup
 -- name    : GlobalTheory.CompanionTheory.Topology.isCompact_addSubgroup_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:16:27.135874+00:00
 -- url     : https://prove2.me/theorems/e9a927bf-e138-4005-8aef-c0bb3e3375a6

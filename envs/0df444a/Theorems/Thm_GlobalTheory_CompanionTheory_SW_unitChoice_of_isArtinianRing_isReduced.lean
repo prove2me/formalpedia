@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_unitChoice_of_isArtinianRing_isReduced
 -- name    : GlobalTheory.CompanionTheory.SW.unitChoice_of_isArtinianRing_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:12:01.622979+00:00
 -- url     : https://prove2.me/theorems/c9a718ef-144f-4e6e-b0cc-e21852b19e07

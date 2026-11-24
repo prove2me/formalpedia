@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hsG_eq_norm
 -- name    : Formalism.HermitianLatticeCounting.P.hsG_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:29:02.481336+00:00
 -- url     : https://prove2.me/theorems/bad8ea8e-399d-4e96-bc43-b34e8e6a8cd9

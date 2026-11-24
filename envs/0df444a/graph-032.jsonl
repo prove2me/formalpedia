@@ -53583,7 +53583,7 @@
 {"parent": "DetStreamClique.MaxClique.Supplement.theorem_1_2", "child": "DetStreamClique_MaxClique_Supplement_IndepSet", "via": ["statement"]}
 {"parent": "QuantumSepPoly_Frobenius_Supplement_Registers", "child": "QuantumSepPoly_Frobenius_SeparableStates", "via": ["statement"]}
 {"parent": "QuantumSepPoly_Frobenius_Supplement_Registers", "child": "QuantumSepPoly_Frobenius_Supplement_SparseCSP", "via": ["statement"]}
-{"parent": "CatalyticTreeEval.Main.Supplement.lemma_3_20", "child": "CatalyticTreeEval_Main_Decoder", "via": ["statement"]}
+{"parent": "CatalyticTreeEval.Main.Supplement.lemma_3_20", "child": "CatalyticTreeEval_Main_Decoder", "via": ["solution", "statement"]}
 {"parent": "QVolTransducer.Supplement.theorem_2_12", "child": "QVolTransducer_transductionComplexity", "via": ["statement"]}
 {"parent": "QVolTransducer.Supplement.theorem_2_12", "child": "QVolTransducer_Supplement_IsBiAdvSolution", "via": ["statement"]}
 {"parent": "QVolTransducer.Supplement.theorem_2_12", "child": "QVolTransducer_Supplement_UniCanonical", "via": ["statement"]}

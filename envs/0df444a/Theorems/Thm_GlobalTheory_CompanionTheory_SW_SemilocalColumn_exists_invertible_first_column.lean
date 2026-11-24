@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SemilocalColumn_exists_invertible_first_column
 -- name    : GlobalTheory.CompanionTheory.SW.SemilocalColumn.exists_invertible_first_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:11:04.973631+00:00
 -- url     : https://prove2.me/theorems/5a0a9f48-a8f5-496b-80a4-4ccd112ea3e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_uq_kRel_map
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.uq_kRel_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:33:27.936331+00:00
 -- url     : https://prove2.me/theorems/5d78778c-4c3d-47e0-b7f1-528c0488e74e

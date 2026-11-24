@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_continuous_inv_entry
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.continuous_inv_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:16:32.39713+00:00
 -- url     : https://prove2.me/theorems/7bd551c7-1d41-40a8-aa19-fcbfdd808df2

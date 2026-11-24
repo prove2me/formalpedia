@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_Fr_frames_core
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.Fr.frames_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:47:40.701+00:00
 -- url     : https://prove2.me/theorems/fc8d0ad5-d4ac-4529-ae8d-76fbcec4851d

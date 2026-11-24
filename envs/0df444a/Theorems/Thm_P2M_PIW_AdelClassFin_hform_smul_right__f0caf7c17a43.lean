@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PIW_AdelClassFin_hform_smul_right__f0caf7c17a43
 -- name    : P2M_PIW_AdelClassFin_hform_smul_right__f0caf7c17a43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:06.606882+00:00
 -- url     : https://prove2.me/theorems/70db49aa-d9e8-46d0-8616-b2db095cba12

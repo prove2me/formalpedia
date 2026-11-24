@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussFou_sqrt_norm_det
 -- name    : GlobalTheory.CompanionTheory.SW.GaussFou.sqrt_norm_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:05:26.247801+00:00
 -- url     : https://prove2.me/theorems/6d1f4540-fbc5-4a91-8ec6-81711bf36099

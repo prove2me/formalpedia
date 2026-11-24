@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwistedAverage_twOrbit_add
 -- name    : GlobalTheory.CompanionTheory.TwistedAverage.twOrbit_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:17:35.846268+00:00
 -- url     : https://prove2.me/theorems/b512abc2-5dea-476a-8ee8-e8e65716bf2b

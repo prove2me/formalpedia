@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Maschke_injective_of_irr
 -- name    : GlobalTheory.CompanionTheory.TyFin.Maschke.injective_of_irr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:18:47.535057+00:00
 -- url     : https://prove2.me/theorems/100e6980-c370-43aa-80bf-fac08d61c444

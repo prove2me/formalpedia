@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinJacquet_killSub_eq_bot
 -- name    : GlobalTheory.CompanionTheory.TyFinJacquet.killSub_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:18:44.473159+00:00
 -- url     : https://prove2.me/theorems/b2e71d9f-2b64-4902-96b1-a1205938e7b0

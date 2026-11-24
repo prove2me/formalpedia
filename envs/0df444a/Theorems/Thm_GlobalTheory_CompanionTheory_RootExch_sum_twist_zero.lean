@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RootExch_sum_twist_zero
 -- name    : GlobalTheory.CompanionTheory.RootExch.sum_twist_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:01:18.48382+00:00
 -- url     : https://prove2.me/theorems/c227dc94-cf68-4b68-97d0-b9ebc0e25b74

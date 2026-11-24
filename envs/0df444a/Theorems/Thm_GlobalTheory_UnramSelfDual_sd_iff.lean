@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_sd_iff
 -- name    : GlobalTheory.UnramSelfDual.sd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:40:50.395076+00:00
 -- url     : https://prove2.me/theorems/e4e5c447-08e2-4b6c-8f05-cac7b39e796d

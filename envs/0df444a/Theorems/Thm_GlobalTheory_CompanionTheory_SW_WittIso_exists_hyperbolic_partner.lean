@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittIso_exists_hyperbolic_partner
 -- name    : GlobalTheory.CompanionTheory.SW.WittIso.exists_hyperbolic_partner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:12:47.149157+00:00
 -- url     : https://prove2.me/theorems/d7f4ab2f-ea06-4459-8f4e-d51930c07d22

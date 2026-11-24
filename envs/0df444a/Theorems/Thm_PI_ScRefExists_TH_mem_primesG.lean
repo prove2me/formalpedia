@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_TH_mem_primesG
 -- name    : PI.ScRefExists.TH.mem_primesG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:30:47.746823+00:00
 -- url     : https://prove2.me/theorems/9754169c-dff4-419e-95af-eb2e060dcfde

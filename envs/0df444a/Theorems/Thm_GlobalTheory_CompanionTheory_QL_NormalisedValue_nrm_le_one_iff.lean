@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_NormalisedValue_nrm_le_one_iff
 -- name    : GlobalTheory.CompanionTheory.QL.NormalisedValue.nrm_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:07:22.206239+00:00
 -- url     : https://prove2.me/theorems/8a1d5054-695d-420a-8ae8-e95fbe0cfb7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_exists_proj
 -- name    : GlobalTheory.CompanionTheory.Wedge.exists_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:21:17.552809+00:00
 -- url     : https://prove2.me/theorems/4c566e31-4aa8-4e5b-be16-9ae82a4b007c

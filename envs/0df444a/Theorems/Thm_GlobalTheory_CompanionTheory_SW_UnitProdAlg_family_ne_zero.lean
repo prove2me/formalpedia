@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_UnitProdAlg_family_ne_zero
 -- name    : GlobalTheory.CompanionTheory.SW.UnitProdAlg.family_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:11:51.097519+00:00
 -- url     : https://prove2.me/theorems/3260b0ac-c457-4d1f-96dd-fa969f7613dc

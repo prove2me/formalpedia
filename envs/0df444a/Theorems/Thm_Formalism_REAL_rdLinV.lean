@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rdLinV
 -- name    : Formalism.REAL.rdLinV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:14:18.523459+00:00
 -- url     : https://prove2.me/theorems/895658c4-3101-43b9-90e8-18cf5068e8a9

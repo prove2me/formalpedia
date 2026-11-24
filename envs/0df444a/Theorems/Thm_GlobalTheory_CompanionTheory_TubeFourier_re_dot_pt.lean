@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_re_dot_pt
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.re_dot_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:18:10.006448+00:00
 -- url     : https://prove2.me/theorems/0ab1741a-ede8-4dae-aef8-821929fba843

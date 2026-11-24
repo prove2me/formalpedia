@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_Hyp1_mk_surjective
 -- name    : GlobalTheory.CechDR.Hyp1.mk_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:35:22.595595+00:00
 -- url     : https://prove2.me/theorems/3a53d3b9-6952-4ec8-8111-9e2faa1d800b

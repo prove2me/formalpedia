@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_pOm_comp
 -- name    : GlobalTheory.CechDR.pOm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:36:24.844366+00:00
 -- url     : https://prove2.me/theorems/1e3190af-1f30-407d-b60c-42da163cce74

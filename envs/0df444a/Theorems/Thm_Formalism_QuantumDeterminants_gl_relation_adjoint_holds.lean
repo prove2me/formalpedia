@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gl_relation_adjoint_holds
 -- name    : Formalism.QuantumDeterminants.gl_relation_adjoint_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:48:25.977434+00:00
 -- url     : https://prove2.me/theorems/2fe15091-2532-428b-a8c5-de9f94608195

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_cap_exists_denom
 -- name    : GlobalTheory.AdLat.cap_exists_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:43:40.7948+00:00
 -- url     : https://prove2.me/theorems/7ae982ee-797d-464b-a144-f97f354c2694

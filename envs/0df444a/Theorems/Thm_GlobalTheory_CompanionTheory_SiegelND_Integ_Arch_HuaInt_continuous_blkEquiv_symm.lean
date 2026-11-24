@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_continuous_blkEquiv_symm
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.continuous_blkEquiv_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:13:50.719924+00:00
 -- url     : https://prove2.me/theorems/2d15228b-8393-4d80-8885-b511a67f37d5

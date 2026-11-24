@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Slice_theta_isOpenEmbedding
 -- name    : GlobalTheory.CompanionTheory.SW.Slice.theta_isOpenEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:30:55.231466+00:00
 -- url     : https://prove2.me/theorems/09c3834b-d7ac-49e9-8968-986b4ce74328

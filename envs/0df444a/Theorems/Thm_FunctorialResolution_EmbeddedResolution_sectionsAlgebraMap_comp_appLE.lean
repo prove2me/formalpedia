@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_sectionsAlgebraMap_comp_appLE
 -- name    : FunctorialResolution.EmbeddedResolution.sectionsAlgebraMap_comp_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:32:28.892461+00:00
 -- url     : https://prove2.me/theorems/a434f843-cecb-4d7c-8014-c84ea4e2f39c

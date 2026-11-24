@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_Inf0_RealBox_continuous_gaussR
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.Inf0.RealBox.continuous_gaussR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:22.410183+00:00
 -- url     : https://prove2.me/theorems/52827229-5d9e-41e3-97b7-fa5de2de4e9b

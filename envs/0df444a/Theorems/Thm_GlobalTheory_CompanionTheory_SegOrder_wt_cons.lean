@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SegOrder_wt_cons
 -- name    : GlobalTheory.CompanionTheory.SegOrder.wt_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:12:47.540478+00:00
 -- url     : https://prove2.me/theorems/f2c82b1e-223f-4e8d-b587-be7a7122bdfd

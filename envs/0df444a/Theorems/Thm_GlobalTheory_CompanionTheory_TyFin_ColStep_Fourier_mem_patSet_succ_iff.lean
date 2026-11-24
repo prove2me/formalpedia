@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Fourier_mem_patSet_succ_iff
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Fourier.mem_patSet_succ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:17:17.148354+00:00
 -- url     : https://prove2.me/theorems/f52c528e-8d63-4880-95f8-33ea9ef804d7

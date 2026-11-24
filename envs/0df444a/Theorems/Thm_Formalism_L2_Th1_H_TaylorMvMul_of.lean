@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TaylorMvMul_of
 -- name    : Formalism.L2.Th1.H.TaylorMvMul_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:24:14.500727+00:00
 -- url     : https://prove2.me/theorems/12581f6b-ad14-4e53-ac37-763bdfdedfb3

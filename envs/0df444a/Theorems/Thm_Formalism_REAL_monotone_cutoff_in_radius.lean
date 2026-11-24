@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_monotone_cutoff_in_radius
 -- name    : Formalism.REAL.monotone_cutoff_in_radius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:14:27.902403+00:00
 -- url     : https://prove2.me/theorems/131bd0ee-4cfd-4476-b437-f866ffef0cc0

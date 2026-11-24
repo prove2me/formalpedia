@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictGen_iv_nsmul
 -- name    : PIW.AdelClassFin.DictGen.iv_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:40.165851+00:00
 -- url     : https://prove2.me/theorems/7e23010d-a0d1-4413-9244-d5bcf132a907

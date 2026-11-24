@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_Tj_of_spherical_cosets
 -- name    : Formalism.UG.P.satake_Tj_of_spherical_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:32:46.912648+00:00
 -- url     : https://prove2.me/theorems/01537bf7-831f-4152-b183-8224c58f22d3

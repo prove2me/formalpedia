@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_weight_profile_le_exp
 -- name    : Formalism.REAL.weight_profile_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:13:34.122173+00:00
 -- url     : https://prove2.me/theorems/90d88822-a20b-43c5-80ac-30fe6d2fd894

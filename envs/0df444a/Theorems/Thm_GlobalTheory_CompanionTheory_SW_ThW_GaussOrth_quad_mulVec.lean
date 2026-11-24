@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_GaussOrth_quad_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.GaussOrth.quad_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:10:50.013798+00:00
 -- url     : https://prove2.me/theorems/5c33f099-b66c-4b2b-8c0a-63972e1788cb

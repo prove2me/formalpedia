@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_chainUnion_isPat
 -- name    : GlobalTheory.CompanionTheory.TyFin.chainUnion_isPat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:47.176473+00:00
 -- url     : https://prove2.me/theorems/28e342a9-9c0c-44a2-abab-086022d4a4bd

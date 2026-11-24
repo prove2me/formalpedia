@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Maschke_surjective_of_irr
 -- name    : GlobalTheory.CompanionTheory.TyFin.Maschke.surjective_of_irr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:18:56.25187+00:00
 -- url     : https://prove2.me/theorems/5f1b9951-3906-41ae-aadc-b099d8d2e709

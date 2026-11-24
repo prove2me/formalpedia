@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_wallLaw_of_secLaw
 -- name    : GlobalTheory.CompanionTheory.RgEis.wallLaw_of_secLaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:57:12.336822+00:00
 -- url     : https://prove2.me/theorems/36d99810-cd9e-4744-89fa-2c2bb49c2230

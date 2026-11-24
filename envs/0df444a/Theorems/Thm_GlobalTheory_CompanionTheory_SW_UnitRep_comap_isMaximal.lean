@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_UnitRep_comap_isMaximal
 -- name    : GlobalTheory.CompanionTheory.SW.UnitRep.comap_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:10:42.445528+00:00
 -- url     : https://prove2.me/theorems/a0c1a109-829d-4638-9a6e-27ec0b33cf75

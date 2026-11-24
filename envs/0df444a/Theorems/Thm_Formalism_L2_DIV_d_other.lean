@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_d_other
 -- name    : Formalism.L2.DIV.d_other
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:22:06.442105+00:00
 -- url     : https://prove2.me/theorems/51fec8bc-fd2d-43fd-b8e1-bf98ed4384ac

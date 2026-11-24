@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_projCoeff
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.projCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:49:33.255425+00:00
 -- url     : https://prove2.me/theorems/34cbde9c-ad3e-4da6-96da-f4c75fe2ff87

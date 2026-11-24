@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_ZM_map_im
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.ZM_map_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:10:57.496992+00:00
 -- url     : https://prove2.me/theorems/bb7425a2-0e3e-47da-9a1e-a8d9f1f117ca

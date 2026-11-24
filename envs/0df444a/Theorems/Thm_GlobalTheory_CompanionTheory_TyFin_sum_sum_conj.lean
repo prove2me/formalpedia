@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_sum_sum_conj
 -- name    : GlobalTheory.CompanionTheory.TyFin.sum_sum_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:18:59.519528+00:00
 -- url     : https://prove2.me/theorems/740fdc5b-e83d-4c6d-a98c-0a7849b8943f

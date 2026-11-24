@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TermBasic_smul_eq_map
 -- name    : GlobalTheory.HL.TermBasic.smul_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:30:42.611581+00:00
 -- url     : https://prove2.me/theorems/df38d257-8253-41c6-8775-a5e00c0664f4

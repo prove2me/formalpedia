@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_AdIndexEq_map_conj_one__c177881babcc
 -- name    : P2M_PI_UnitaryGroupMassFormula_AdIndexEq_map_conj_one__c177881babcc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:49:43.980814+00:00
 -- url     : https://prove2.me/theorems/d0f400f1-9e94-46d0-a4f5-12ffe89a0c2a

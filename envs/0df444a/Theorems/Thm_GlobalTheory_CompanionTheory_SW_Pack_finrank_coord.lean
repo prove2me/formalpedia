@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Pack_finrank_coord
 -- name    : GlobalTheory.CompanionTheory.SW.Pack.finrank_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:08:10.1784+00:00
 -- url     : https://prove2.me/theorems/ad0ae37c-d0de-45e9-8a0c-beb066957d45

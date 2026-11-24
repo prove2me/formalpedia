@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittE_formB_conj
 -- name    : GlobalTheory.CompanionTheory.SW.WittE.formB_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:12:58.238588+00:00
 -- url     : https://prove2.me/theorems/7a48fa89-8f80-4fcb-ac5c-4c364da13be1

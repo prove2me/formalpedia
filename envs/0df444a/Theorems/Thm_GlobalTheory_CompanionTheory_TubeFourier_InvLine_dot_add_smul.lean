@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_InvLine_dot_add_smul
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.InvLine.dot_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:58.637912+00:00
 -- url     : https://prove2.me/theorems/88cf1da5-fcf0-4779-827d-792cad0182a8

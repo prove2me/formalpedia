@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_abs_deriv_cutoff_le
 -- name    : Formalism.REAL.abs_deriv_cutoff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:12:33.310809+00:00
 -- url     : https://prove2.me/theorems/6e2b78f4-2af3-4558-9f8f-2f5b567283c3

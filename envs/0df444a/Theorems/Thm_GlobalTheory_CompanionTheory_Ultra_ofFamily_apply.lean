@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_ofFamily_apply
 -- name    : GlobalTheory.CompanionTheory.Ultra.ofFamily_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:34.272285+00:00
 -- url     : https://prove2.me/theorems/1660add9-37dc-46cb-90eb-d929a4d866fe

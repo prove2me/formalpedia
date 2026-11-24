@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_IsChowFormCycle_nsmul
 -- name    : GlobalTheory.ChowHt.IsChowFormCycle.nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:14:49.550584+00:00
 -- url     : https://prove2.me/theorems/6cf14152-78ab-439c-a6c2-c466903e071f

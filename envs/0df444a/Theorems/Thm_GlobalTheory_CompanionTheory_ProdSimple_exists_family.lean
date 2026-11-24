@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdSimple_exists_family
 -- name    : GlobalTheory.CompanionTheory.ProdSimple.exists_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:56:30.906265+00:00
 -- url     : https://prove2.me/theorems/eef2da92-1038-49d1-b274-2eb6558a6114

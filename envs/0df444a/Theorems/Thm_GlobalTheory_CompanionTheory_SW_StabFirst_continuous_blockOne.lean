@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_continuous_blockOne
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.continuous_blockOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:10:06.774797+00:00
 -- url     : https://prove2.me/theorems/b30c5459-7b46-470f-b3d8-058794672062

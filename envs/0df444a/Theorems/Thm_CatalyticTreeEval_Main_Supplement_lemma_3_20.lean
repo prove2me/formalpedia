@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CatalyticTreeEval_Main_Supplement_lemma_3_20
 -- name    : CatalyticTreeEval.Main.Supplement.lemma_3_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T19:37:21.541908+00:00
 -- url     : https://prove2.me/theorems/8707797e-3d94-4d76-84d0-a0c2dfc912f6

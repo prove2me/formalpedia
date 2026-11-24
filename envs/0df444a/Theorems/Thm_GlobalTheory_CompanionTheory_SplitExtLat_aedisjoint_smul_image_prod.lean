@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitExtLat_aedisjoint_smul_image_prod
 -- name    : GlobalTheory.CompanionTheory.SplitExtLat.aedisjoint_smul_image_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:15:02.55782+00:00
 -- url     : https://prove2.me/theorems/7de91e80-650e-4bfe-976a-0877ccb9a4fd

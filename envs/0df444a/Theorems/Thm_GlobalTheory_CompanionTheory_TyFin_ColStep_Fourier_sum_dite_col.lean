@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Fourier_sum_dite_col
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Fourier.sum_dite_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:00.441126+00:00
 -- url     : https://prove2.me/theorems/98d28e50-70b6-4e38-9271-8a5c872a10f1

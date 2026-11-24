@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormUnit_sq_sub_one
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormUnit.sq_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:20:22.101822+00:00
 -- url     : https://prove2.me/theorems/598785ae-5fd5-45df-aa00-ad91f6c30f7a

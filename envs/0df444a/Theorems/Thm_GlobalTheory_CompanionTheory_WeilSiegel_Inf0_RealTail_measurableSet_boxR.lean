@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_Inf0_RealTail_measurableSet_boxR
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.Inf0.RealTail.measurableSet_boxR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:23:22.22999+00:00
 -- url     : https://prove2.me/theorems/15026a95-dd97-4b72-a734-1a22361ee951

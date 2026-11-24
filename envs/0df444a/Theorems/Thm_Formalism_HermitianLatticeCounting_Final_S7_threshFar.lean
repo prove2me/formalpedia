@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_threshFar
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.threshFar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:47:57.999893+00:00
 -- url     : https://prove2.me/theorems/3614d497-ec20-43c6-83e5-80f0a84e2e37

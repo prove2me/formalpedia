@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightContinualCounting_LowerBounds_lemma_4
 -- name    : TightContinualCounting.LowerBounds.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:04:11.463464+00:00
 -- url     : https://prove2.me/theorems/683b7c66-7fcb-4afa-a61d-67dd84f1934f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Slice_exists_compact_fib
 -- name    : GlobalTheory.CompanionTheory.SW.Slice.exists_compact_fib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:10:44.484796+00:00
 -- url     : https://prove2.me/theorems/dbf3d2ee-f2ab-4e1b-9472-1bcd97fd8d0a

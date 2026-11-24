@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TraceFormGram_expand
 -- name    : GlobalTheory.CompanionTheory.SW.TraceFormGram.expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:10:42.929313+00:00
 -- url     : https://prove2.me/theorems/397f6a54-7aca-482a-977d-b6fb5e6b7e9d

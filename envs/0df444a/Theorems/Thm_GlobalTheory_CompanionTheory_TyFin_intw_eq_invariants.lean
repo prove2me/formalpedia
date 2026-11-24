@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_intw_eq_invariants
 -- name    : GlobalTheory.CompanionTheory.TyFin.intw_eq_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:19:40.364897+00:00
 -- url     : https://prove2.me/theorems/771be157-0dd8-40e1-b9b5-7bcf2f0032d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StageValue_schurM_block
 -- name    : GlobalTheory.CompanionTheory.SW.StageValue.schurM_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:09:40.668406+00:00
 -- url     : https://prove2.me/theorems/6d7d738d-f18d-4943-ae1c-52bf2e1245fa

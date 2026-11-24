@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SchrLaw_goodChar_isLocallyConstant
 -- name    : GlobalTheory.CompanionTheory.SchrLaw.goodChar_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:11:55.826317+00:00
 -- url     : https://prove2.me/theorems/ce04aa36-da47-4e07-b6bc-c2a369ab7d31

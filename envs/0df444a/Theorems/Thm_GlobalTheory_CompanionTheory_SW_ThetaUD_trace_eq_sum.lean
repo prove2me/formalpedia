@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThetaUD_trace_eq_sum
 -- name    : GlobalTheory.CompanionTheory.SW.ThetaUD.trace_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:11:24.12617+00:00
 -- url     : https://prove2.me/theorems/59d0260f-cdd7-4110-8248-b70492429664

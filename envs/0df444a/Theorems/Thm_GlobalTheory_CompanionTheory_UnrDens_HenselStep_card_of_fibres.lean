@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_HenselStep_card_of_fibres
 -- name    : GlobalTheory.CompanionTheory.UnrDens.HenselStep.card_of_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:19:40.280849+00:00
 -- url     : https://prove2.me/theorems/91ede2d5-e50f-469a-92a2-b122be23ed06

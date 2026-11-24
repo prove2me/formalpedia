@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bernstein_stComm
 -- name    : GlobalTheory.CompanionTheory.Bernstein.stComm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:21:22.708593+00:00
 -- url     : https://prove2.me/theorems/0a7cf7fe-ad29-4f39-b234-91f5eed3ddc9

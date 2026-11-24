@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionEmbed_exists_pow_le_span
 -- name    : GlobalTheory.CompletionEmbed.exists_pow_le_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:25:54.718798+00:00
 -- url     : https://prove2.me/theorems/e641caec-acc1-4e41-a3df-8b1d2328d65c

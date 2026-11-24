@@ -48205,7 +48205,7 @@
 {"parent": "StochMatchQuery.Union.claim_7_6", "child": "StochMatchQuery_Union_Round", "via": ["statement"]}
 {"parent": "StochMatchQuery.Union.claim_7_6", "child": "StochMatchQuery_Union_Thresholds", "via": ["statement"]}
 {"parent": "ReLUSynth.Boolean.lemma_4_9", "child": "ReLUSynth_Boolean_Calibrated", "via": ["statement"]}
-{"parent": "L1ResistanceCount.Counting.lemma_4_2", "child": "L1ResistanceCount_Counting_Obstacle", "via": ["statement"]}
+{"parent": "L1ResistanceCount.Counting.lemma_4_2", "child": "L1ResistanceCount_Counting_Obstacle", "via": ["solution", "statement"]}
 {"parent": "UnitaryQIPPSPACE.theorem_3_1", "child": "UnitaryQIPPSPACE_SpaceUniform", "via": ["statement"]}
 {"parent": "UnitaryQIPPSPACE.theorem_3_1", "child": "UnitaryQIPPSPACE_TimeUniformVerifiers", "via": ["statement"]}
 {"parent": "UnitaryQIPPSPACE.theorem_3_1", "child": "UnitaryQIPPSPACE_run", "via": ["statement"]}
@@ -58533,8 +58533,8 @@
 {"parent": "OAI.MUB6.Certificate.GramRows.rowEval8147_e", "child": "OAIQ106E018", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramRows.rowEval8147_e", "child": "OAIQ106E044", "via": ["solution", "statement"]}
 {"parent": "PlanarMetricElections.Peer.adjacent_center", "child": "PlanarMetricElections_Peer_QuartileGrid", "via": ["solution", "statement"]}
-{"parent": "DynLZ77.Main.lemma_8_8", "child": "DynLZ77_Main_Structure", "via": ["statement"]}
-{"parent": "DynLZ77.Main.lemma_8_8", "child": "DynLZ77_Main_Strings", "via": ["statement"]}
+{"parent": "DynLZ77.Main.lemma_8_8", "child": "DynLZ77_Main_Structure", "via": ["solution", "statement"]}
+{"parent": "DynLZ77.Main.lemma_8_8", "child": "DynLZ77_Main_Strings", "via": ["solution", "statement"]}
 {"parent": "ConservativeVCSP.Treewidth.theorem_6_20", "child": "ConservativeVCSP_Treewidth_Blocks", "via": ["statement"]}
 {"parent": "ConservativeVCSP.Treewidth.theorem_6_20", "child": "ConservativeVCSP_Treewidth_LocalNecessity", "via": ["statement"]}
 {"parent": "KramersHubbard_PartitionFunction_Counting", "child": "KramersHubbard_PartitionFunction_Green", "via": ["statement"]}
@@ -67823,7 +67823,7 @@
 {"parent": "QEC.Coding.BDL26RZPhysicalStarTransport.add_localized", "child": "QEC_Coding_FiniteAlternatingConstruction_RZFiniteBlockTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeTriangleKeys.seed_codes", "child": "QEC_Coding_FiniteAlternatingConstruction_NativePresentationGenerator", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeTriangleKeys.seed_codes", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeTriangleKeys", "via": ["solution", "statement"]}
-{"parent": "TightContinualCounting.LowerBounds.lemma_4", "child": "TightContinualCounting_LowerBounds_probes", "via": ["statement"]}
+{"parent": "TightContinualCounting.LowerBounds.lemma_4", "child": "TightContinualCounting_LowerBounds_probes", "via": ["solution", "statement"]}
 {"parent": "UnitalMIP.theorem_5_3", "child": "UnitalMIP_omegaInf", "via": ["statement"]}
 {"parent": "UnitalMIP.theorem_5_3", "child": "UnitalMIP_canonicalState", "via": ["statement"]}
 {"parent": "UnitalMIP.theorem_5_3", "child": "ShorEBAdditivity_tensorChannel", "via": ["statement"]}

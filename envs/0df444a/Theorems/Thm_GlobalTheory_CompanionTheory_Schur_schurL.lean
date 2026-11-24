@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Schur_schurL
 -- name    : GlobalTheory.CompanionTheory.Schur.schurL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:11:50.616358+00:00
 -- url     : https://prove2.me/theorems/460733fd-b54d-44c0-9ffa-261995d2134c

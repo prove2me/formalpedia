@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_c_decomp
 -- name    : Formalism.L2.DIV.c_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:22:39.749452+00:00
 -- url     : https://prove2.me/theorems/ded71dc9-a5dc-46d1-a6a4-34f6dfa6d99b

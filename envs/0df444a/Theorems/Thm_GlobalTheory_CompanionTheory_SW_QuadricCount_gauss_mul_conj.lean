@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadricCount_gauss_mul_conj
 -- name    : GlobalTheory.CompanionTheory.SW.QuadricCount.gauss_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:07:36.24442+00:00
 -- url     : https://prove2.me/theorems/5b9d42d0-5c19-4369-b762-f7b812dbc1f5

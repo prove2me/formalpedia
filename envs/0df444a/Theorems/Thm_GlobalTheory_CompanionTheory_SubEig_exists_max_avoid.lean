@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubEig_exists_max_avoid
 -- name    : GlobalTheory.CompanionTheory.SubEig.exists_max_avoid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:15:22.935009+00:00
 -- url     : https://prove2.me/theorems/757364dd-3ef8-456a-9dc4-00bd5b7089f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SimpleDensity_exists_smul_eq_on_finset
 -- name    : GlobalTheory.CompanionTheory.SimpleDensity.exists_smul_eq_on_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:04.588263+00:00
 -- url     : https://prove2.me/theorems/5feaa63b-6109-4192-b4fc-a5ef891a35ce

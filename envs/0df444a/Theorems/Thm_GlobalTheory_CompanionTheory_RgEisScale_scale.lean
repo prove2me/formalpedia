@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisScale_scale
 -- name    : GlobalTheory.CompanionTheory.RgEisScale.scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:59:25.586738+00:00
 -- url     : https://prove2.me/theorems/4ec672b4-3d31-44e1-baf3-ce5410e9828d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Mobius_main
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Mobius.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:03:49.865591+00:00
 -- url     : https://prove2.me/theorems/37fd5382-9a8f-4449-8d1d-7d9228edbfb7

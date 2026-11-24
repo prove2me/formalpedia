@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_hilbert90_quadratic_field
 -- name    : Formalism.L2.DIV.hilbert90_quadratic_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:25:51.567032+00:00
 -- url     : https://prove2.me/theorems/122fb250-60a3-4636-aab2-f794df1d13aa

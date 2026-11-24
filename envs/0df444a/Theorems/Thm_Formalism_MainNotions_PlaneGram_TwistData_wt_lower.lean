@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_wt_lower
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.wt_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:05:37.324605+00:00
 -- url     : https://prove2.me/theorems/11f7252d-b8c5-4090-852e-5014ec5677b6

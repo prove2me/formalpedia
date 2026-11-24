@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_infinite_product_multipliable
 -- name    : GlobalTheory.T.infinite_product_multipliable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:58.992579+00:00
 -- url     : https://prove2.me/theorems/d63b46bf-7bff-495c-848c-84b91e0d15da

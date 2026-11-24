@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_intAf_approx_inter_unit_conj
 -- name    : GlobalTheory.RowLev.intAf_approx_inter_unit_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:54:26.269811+00:00
 -- url     : https://prove2.me/theorems/bc8778ce-75d2-46e2-a760-5537861cdff4

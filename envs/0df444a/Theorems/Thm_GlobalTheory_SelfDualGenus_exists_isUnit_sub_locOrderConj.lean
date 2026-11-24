@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_exists_isUnit_sub_locOrderConj
 -- name    : GlobalTheory.SelfDualGenus.exists_isUnit_sub_locOrderConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:09:21.588002+00:00
 -- url     : https://prove2.me/theorems/323c0270-0da3-45fd-a940-718e9db1491c

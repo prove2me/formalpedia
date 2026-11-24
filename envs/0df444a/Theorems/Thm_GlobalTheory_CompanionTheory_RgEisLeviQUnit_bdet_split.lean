@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_bdet_split
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.bdet_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:59:00.222818+00:00
 -- url     : https://prove2.me/theorems/eedd6970-af61-46b5-9d1a-bb076b298ad2

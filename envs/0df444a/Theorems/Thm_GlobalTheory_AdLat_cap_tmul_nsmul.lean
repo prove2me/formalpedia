@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_cap_tmul_nsmul
 -- name    : GlobalTheory.AdLat.cap_tmul_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:21.31853+00:00
 -- url     : https://prove2.me/theorems/37a75daf-6d29-40b0-80a6-6b83ec09c577

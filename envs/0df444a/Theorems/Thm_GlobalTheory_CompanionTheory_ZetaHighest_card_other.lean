@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZetaHighest_card_other
 -- name    : GlobalTheory.CompanionTheory.ZetaHighest.card_other
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:24:46.895272+00:00
 -- url     : https://prove2.me/theorems/768dd1fb-9574-45bf-9537-012b1b89f48a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuadChirp_exists_schwartz_chirp_mul
 -- name    : GlobalTheory.CompanionTheory.QuadChirp.exists_schwartz_chirp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:55:54.313971+00:00
 -- url     : https://prove2.me/theorems/81cf747f-3d33-44ba-a989-34dd939822d6

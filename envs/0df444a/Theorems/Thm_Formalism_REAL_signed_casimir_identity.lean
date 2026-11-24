@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_signed_casimir_identity
 -- name    : Formalism.REAL.signed_casimir_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:38.939047+00:00
 -- url     : https://prove2.me/theorems/82dd7431-9eb5-49ec-bbf5-268cea60f661

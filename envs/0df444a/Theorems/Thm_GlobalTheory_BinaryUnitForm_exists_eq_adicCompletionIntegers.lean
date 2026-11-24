@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BinaryUnitForm_exists_eq_adicCompletionIntegers
 -- name    : GlobalTheory.BinaryUnitForm.exists_eq_adicCompletionIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:28:43.835397+00:00
 -- url     : https://prove2.me/theorems/0613d266-8db8-4f33-928c-4e469ad5d6d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_dotProduct_blockDiagonal_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.dotProduct_blockDiagonal_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:11.990815+00:00
 -- url     : https://prove2.me/theorems/1bedb599-c7b4-4be9-9069-7c96b22f3c66

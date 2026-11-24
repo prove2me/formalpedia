@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CapelliCasimir_sq_sub_cas
 -- name    : GlobalTheory.CompanionTheory.Inh.CapelliCasimir.sq_sub_cas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:30:28.917872+00:00
 -- url     : https://prove2.me/theorems/679d4f03-b3b7-4a40-8fcc-c809aec4e15e

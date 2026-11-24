@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_phi_eq
 -- name    : PI.UnitaryGroupMassFormula.LCG.phi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:28:39.897117+00:00
 -- url     : https://prove2.me/theorems/6c069f6c-e890-4ce5-a746-ba1bbdd9e9bf

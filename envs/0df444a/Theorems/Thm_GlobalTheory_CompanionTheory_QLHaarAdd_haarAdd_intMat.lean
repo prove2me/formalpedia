@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLHaarAdd_haarAdd_intMat
 -- name    : GlobalTheory.CompanionTheory.QLHaarAdd.haarAdd_intMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:56:24.441664+00:00
 -- url     : https://prove2.me/theorems/7991917b-5fc4-45be-89cc-e6517ba7ba55

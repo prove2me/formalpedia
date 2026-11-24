@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_isClopen_lt_one
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.isClopen_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:15:46.397454+00:00
 -- url     : https://prove2.me/theorems/e1f18eab-10ac-4771-bf2b-5194375166fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_GaussOrth_abs_det_eq_one
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.GaussOrth.abs_det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:10:50.662435+00:00
 -- url     : https://prove2.me/theorems/909299ae-ebff-48ad-bc24-17a9c1762910

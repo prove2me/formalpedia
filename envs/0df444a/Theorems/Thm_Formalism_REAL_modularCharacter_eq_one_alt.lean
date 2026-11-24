@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_modularCharacter_eq_one_alt
 -- name    : Formalism.REAL.modularCharacter_eq_one_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:22:43.7657+00:00
 -- url     : https://prove2.me/theorems/1a276730-59a1-46b5-a8b6-f1db4d13cf22

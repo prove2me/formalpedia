@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_cext_of_inG
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.cext_of_inG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:14:41.852804+00:00
 -- url     : https://prove2.me/theorems/8404b0cb-b72e-490f-bf95-9120aa431a32

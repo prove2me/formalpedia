@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_p0auxiliary_ecV_I
 -- name    : Formalism.REAL.p0auxiliary_ecV_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:57:20.347454+00:00
 -- url     : https://prove2.me/theorems/17188135-725a-4280-8d37-a5b745deda97

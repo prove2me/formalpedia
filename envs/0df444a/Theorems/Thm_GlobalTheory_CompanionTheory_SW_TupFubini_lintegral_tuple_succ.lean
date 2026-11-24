@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TupFubini_lintegral_tuple_succ
 -- name    : GlobalTheory.CompanionTheory.SW.TupFubini.lintegral_tuple_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:12:00.560158+00:00
 -- url     : https://prove2.me/theorems/87003341-2ddc-4436-9165-4f6162e83479

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitExtLat_continuous_conj
 -- name    : GlobalTheory.CompanionTheory.SplitExtLat.continuous_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:15:04.404541+00:00
 -- url     : https://prove2.me/theorems/965fa30c-158c-4281-86ba-dca1eba88eaa

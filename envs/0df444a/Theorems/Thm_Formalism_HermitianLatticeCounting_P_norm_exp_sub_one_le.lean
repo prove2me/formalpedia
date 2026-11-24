@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_norm_exp_sub_one_le
 -- name    : Formalism.HermitianLatticeCounting.P.norm_exp_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:26:53.139925+00:00
 -- url     : https://prove2.me/theorems/41ba6b27-ad8c-44e8-b5a8-ae30b876edd6

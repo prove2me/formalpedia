@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubEig_smooth_sub
 -- name    : GlobalTheory.CompanionTheory.SubEig.smooth_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:14:40.638651+00:00
 -- url     : https://prove2.me/theorems/19bc2f9c-27ae-4f4f-b60b-da735f606cde

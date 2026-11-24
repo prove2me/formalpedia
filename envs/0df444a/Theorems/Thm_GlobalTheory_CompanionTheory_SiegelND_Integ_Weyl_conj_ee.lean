@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Weyl_conj_ee
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Weyl.conj_ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:21.200697+00:00
 -- url     : https://prove2.me/theorems/63a3189a-886d-4377-a61a-6b2d261e901f

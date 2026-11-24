@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FourierPi_integral_box
 -- name    : GlobalTheory.CompanionTheory.SW.FourierPi.integral_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:05:13.588833+00:00
 -- url     : https://prove2.me/theorems/37e72594-f72c-40c8-aaf2-21411ef46256

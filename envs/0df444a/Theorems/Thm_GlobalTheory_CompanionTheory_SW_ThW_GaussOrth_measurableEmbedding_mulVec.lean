@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_GaussOrth_measurableEmbedding_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.GaussOrth.measurableEmbedding_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:10:58.766833+00:00
 -- url     : https://prove2.me/theorems/b32c8843-3ead-4423-bc28-9422693574c5

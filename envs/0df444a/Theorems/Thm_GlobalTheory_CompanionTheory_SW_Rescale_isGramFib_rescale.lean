@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Rescale_isGramFib_rescale
 -- name    : GlobalTheory.CompanionTheory.SW.Rescale.isGramFib_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:09:56.723585+00:00
 -- url     : https://prove2.me/theorems/afbece8d-2b19-4fa8-9aa5-a7b5b71abbdc

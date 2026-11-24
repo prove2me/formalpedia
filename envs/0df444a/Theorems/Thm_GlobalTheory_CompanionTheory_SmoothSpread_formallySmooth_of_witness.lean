@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothSpread_formallySmooth_of_witness
 -- name    : GlobalTheory.CompanionTheory.SmoothSpread.formallySmooth_of_witness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:34.944434+00:00
 -- url     : https://prove2.me/theorems/f8cbf36a-236a-41c3-a29f-0ca22e72b11b

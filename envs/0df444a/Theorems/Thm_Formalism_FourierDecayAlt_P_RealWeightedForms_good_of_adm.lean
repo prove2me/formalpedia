@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RealWeightedForms_good_of_adm
 -- name    : Formalism.FourierDecayAlt.P.RealWeightedForms.good_of_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:18:44.60272+00:00
 -- url     : https://prove2.me/theorems/51f9ec1c-a4fe-4a67-89b8-28dfa905f9e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_comap_specIdealSheaf_ideal_eq_span
 -- name    : FunctorialResolution.Blowup.comap_specIdealSheaf_ideal_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:08:45.44773+00:00
 -- url     : https://prove2.me/theorems/88eb29ed-5307-49d9-92a2-3cb0a8763183

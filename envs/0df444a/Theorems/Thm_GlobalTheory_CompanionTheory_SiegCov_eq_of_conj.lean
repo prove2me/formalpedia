@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegCov_eq_of_conj
 -- name    : GlobalTheory.CompanionTheory.SiegCov.eq_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:13:45.709632+00:00
 -- url     : https://prove2.me/theorems/674f42e0-05be-433f-ab66-a012c581f370

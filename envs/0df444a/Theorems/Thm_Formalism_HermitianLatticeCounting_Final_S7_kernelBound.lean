@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_kernelBound
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.kernelBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:48:07.998973+00:00
 -- url     : https://prove2.me/theorems/1ae1992f-4751-4682-904d-5e44a225f615

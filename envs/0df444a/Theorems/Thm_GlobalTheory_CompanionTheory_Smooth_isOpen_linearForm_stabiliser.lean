@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Smooth_isOpen_linearForm_stabiliser
 -- name    : GlobalTheory.CompanionTheory.Smooth.isOpen_linearForm_stabiliser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:28.998068+00:00
 -- url     : https://prove2.me/theorems/7c133b9b-e6aa-4cd2-844d-ee036e78fc6f

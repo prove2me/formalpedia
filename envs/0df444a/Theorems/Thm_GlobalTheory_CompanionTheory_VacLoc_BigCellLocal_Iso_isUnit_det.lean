@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VacLoc_BigCellLocal_Iso_isUnit_det
 -- name    : GlobalTheory.CompanionTheory.VacLoc.BigCellLocal.Iso.isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:21:29.157732+00:00
 -- url     : https://prove2.me/theorems/e90d1d21-661d-4a0b-a7bd-b102bcde7fe1

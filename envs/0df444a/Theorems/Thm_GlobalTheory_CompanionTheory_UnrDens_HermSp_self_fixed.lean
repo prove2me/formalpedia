@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_HermSp_self_fixed
 -- name    : GlobalTheory.CompanionTheory.UnrDens.HermSp.self_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:21:02.409298+00:00
 -- url     : https://prove2.me/theorems/ac515cee-bd20-45d4-8e3f-639c41e36ced

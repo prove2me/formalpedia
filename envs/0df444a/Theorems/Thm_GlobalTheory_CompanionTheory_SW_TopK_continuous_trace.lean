@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TopK_continuous_trace
 -- name    : GlobalTheory.CompanionTheory.SW.TopK.continuous_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:12:08.84463+00:00
 -- url     : https://prove2.me/theorems/eb688959-df0d-464d-952c-08ba8038ed6b

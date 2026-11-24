@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictGen_natSmul_mem
 -- name    : PIW.AdelClassFin.DictGen.natSmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:28:35.329498+00:00
 -- url     : https://prove2.me/theorems/9ed9a4dc-ab93-4a30-8f91-22f8967bccbd

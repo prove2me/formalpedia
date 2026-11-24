@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitQuadratic_isPrincipalIdealRing_of_sq_eq_sq
 -- name    : GlobalTheory.CompanionTheory.SplitQuadratic.isPrincipalIdealRing_of_sq_eq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:15:05.405082+00:00
 -- url     : https://prove2.me/theorems/ca927031-9fad-4cca-9659-7f65300309f8

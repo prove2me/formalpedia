@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_mem_locLattice_of_smul_mem
 -- name    : GlobalTheory.SelfDualGenus.mem_locLattice_of_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:09:03.488478+00:00
 -- url     : https://prove2.me/theorems/b422172b-c31c-4e87-a5e9-080ea2c636ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HProj_projV_projFin
 -- name    : GlobalTheory.CompanionTheory.SW.HProj.projV_projFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:05:21.211233+00:00
 -- url     : https://prove2.me/theorems/099ca9a2-eaae-4390-ab29-576f2c7eda0e

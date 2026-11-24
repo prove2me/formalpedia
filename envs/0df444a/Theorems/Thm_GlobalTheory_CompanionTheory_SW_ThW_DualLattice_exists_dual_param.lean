@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_DualLattice_exists_dual_param
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.DualLattice.exists_dual_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:11:59.615608+00:00
 -- url     : https://prove2.me/theorems/79339280-2c0f-498a-8deb-d6eef4020fc6

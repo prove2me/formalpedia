@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormZero_nontrivial_of_resAlg
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormZero.nontrivial_of_resAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:19:54.51985+00:00
 -- url     : https://prove2.me/theorems/afd60d32-8de1-41dd-8a38-aa2a2d5aa10a

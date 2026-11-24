@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hs_sq_trace
 -- name    : Formalism.HermitianLatticeCounting.P.hs_sq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:28:40.518262+00:00
 -- url     : https://prove2.me/theorems/3679265e-3071-4922-a8c7-4ac84a909d66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NormOneHaar_map_mul_eq_of_norm_one
 -- name    : GlobalTheory.CompanionTheory.SW.NormOneHaar.map_mul_eq_of_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:10:18.642046+00:00
 -- url     : https://prove2.me/theorems/07ecb194-abe3-4210-a287-7121d757b62c

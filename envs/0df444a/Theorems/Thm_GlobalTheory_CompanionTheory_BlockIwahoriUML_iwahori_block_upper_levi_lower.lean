@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BlockIwahoriUML_iwahori_block_upper_levi_lower
 -- name    : GlobalTheory.CompanionTheory.BlockIwahoriUML.iwahori_block_upper_levi_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:31:11.536992+00:00
 -- url     : https://prove2.me/theorems/7af22df9-12ac-4934-99f8-ea9b6efa73d3

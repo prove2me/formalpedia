@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitUnique_hTens_eq
 -- name    : GlobalTheory.CompanionTheory.SplitUnique.hTens_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:15:16.214796+00:00
 -- url     : https://prove2.me/theorems/3ce1c7bd-011f-4f66-b3cf-71c3f8488fb1

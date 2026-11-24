@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_blockRhoLat
 -- name    : Formalism.NG.blockRhoLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:16:22.465842+00:00
 -- url     : https://prove2.me/theorems/ce56466b-c01e-42e5-b363-fc606d6d6f9a

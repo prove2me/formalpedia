@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr3_l0_constant_part_commute
 -- name    : Formalism.FourierDecayAlt.P.Fr3.l0_constant_part_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:01:33.555816+00:00
 -- url     : https://prove2.me/theorems/1ebd71f1-4c93-4fc1-9b8c-a32fa68dfd1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothSpread_span_range_sq
 -- name    : GlobalTheory.CompanionTheory.SmoothSpread.span_range_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:28.841843+00:00
 -- url     : https://prove2.me/theorems/691b6fe9-4974-484d-af8a-79f2d20dd575

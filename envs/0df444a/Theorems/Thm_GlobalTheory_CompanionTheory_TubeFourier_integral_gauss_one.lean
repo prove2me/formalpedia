@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_integral_gauss_one
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.integral_gauss_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:16:43.058847+00:00
 -- url     : https://prove2.me/theorems/a55ed6f9-a3f5-4c6e-9750-c9f4156b38f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_other_of_split
 -- name    : Formalism.L2.DIV.b_other_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:22:24.654068+00:00
 -- url     : https://prove2.me/theorems/86719457-88e0-4d42-bee0-f8b5e4e2dd1c

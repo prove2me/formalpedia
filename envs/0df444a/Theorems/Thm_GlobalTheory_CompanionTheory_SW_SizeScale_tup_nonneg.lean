@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeScale_tup_nonneg
 -- name    : GlobalTheory.CompanionTheory.SW.SizeScale.tup_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:11:54.045586+00:00
 -- url     : https://prove2.me/theorems/a0c924d1-b2aa-45df-be44-e4481ad0f9a9

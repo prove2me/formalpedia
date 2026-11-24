@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_operators_gl_relations
 -- name    : Formalism.REAL.lie_operators_gl_relations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:12:25.304805+00:00
 -- url     : https://prove2.me/theorems/a0b30586-5236-4a47-962c-cc63eb9f09cb

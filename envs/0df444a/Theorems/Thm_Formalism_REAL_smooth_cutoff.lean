@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_smooth_cutoff
 -- name    : Formalism.REAL.smooth_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:50.703536+00:00
 -- url     : https://prove2.me/theorems/75aa64ef-57b9-4790-b00e-71b5373cf9b5

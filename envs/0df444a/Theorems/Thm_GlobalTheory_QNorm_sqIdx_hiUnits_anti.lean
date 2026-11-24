@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_sqIdx_hiUnits_anti
 -- name    : GlobalTheory.QNorm.sqIdx_hiUnits_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:43:11.88008+00:00
 -- url     : https://prove2.me/theorems/c400cf76-1dec-44c6-bc84-f95b506f00e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_IsChowForm_isChowFormInt
 -- name    : GlobalTheory.ChowHt.IsChowForm.isChowFormInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:09:30.836522+00:00
 -- url     : https://prove2.me/theorems/ffe2ccd2-c1f0-4c37-aa13-374ad642384a

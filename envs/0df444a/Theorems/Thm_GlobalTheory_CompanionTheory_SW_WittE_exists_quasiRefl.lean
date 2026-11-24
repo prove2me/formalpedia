@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittE_exists_quasiRefl
 -- name    : GlobalTheory.CompanionTheory.SW.WittE.exists_quasiRefl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:12:36.459849+00:00
 -- url     : https://prove2.me/theorems/6c4e7a26-a604-4368-b4d1-336c0c07a007

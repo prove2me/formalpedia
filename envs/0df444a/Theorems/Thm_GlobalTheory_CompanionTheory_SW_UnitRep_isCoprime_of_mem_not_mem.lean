@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_UnitRep_isCoprime_of_mem_not_mem
 -- name    : GlobalTheory.CompanionTheory.SW.UnitRep.isCoprime_of_mem_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:12:11.095294+00:00
 -- url     : https://prove2.me/theorems/bed1293e-6012-4363-863a-478e598d81b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_sqLen_eq
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.sqLen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:53:39.024893+00:00
 -- url     : https://prove2.me/theorems/c9dbb3a0-a9b4-4c7d-8005-958a060ac692

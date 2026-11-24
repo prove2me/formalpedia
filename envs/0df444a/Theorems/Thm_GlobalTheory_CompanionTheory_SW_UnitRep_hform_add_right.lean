@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_UnitRep_hform_add_right
 -- name    : GlobalTheory.CompanionTheory.SW.UnitRep.hform_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:10:53.543542+00:00
 -- url     : https://prove2.me/theorems/87049b6c-addc-41ff-9fe6-23c390f330c2

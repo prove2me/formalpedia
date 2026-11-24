@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinJacquet_unip_trivial
 -- name    : GlobalTheory.CompanionTheory.TyFinJacquet.unip_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:18:26.169809+00:00
 -- url     : https://prove2.me/theorems/0a973c7d-82a3-4204-9df6-f05af7721d97

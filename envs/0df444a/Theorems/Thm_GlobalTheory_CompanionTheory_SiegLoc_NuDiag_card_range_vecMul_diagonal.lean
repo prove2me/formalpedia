@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_NuDiag_card_range_vecMul_diagonal
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.NuDiag.card_range_vecMul_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:13:06.119586+00:00
 -- url     : https://prove2.me/theorems/f60a8208-dba8-4a00-995c-caab9b839438

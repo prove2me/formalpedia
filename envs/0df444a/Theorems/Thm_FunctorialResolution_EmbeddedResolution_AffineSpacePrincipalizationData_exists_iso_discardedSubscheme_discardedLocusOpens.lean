@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_exists_iso_discardedSubscheme_discardedLocusOpens
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.exists_iso_discardedSubscheme_discardedLocusOpens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:15:25.126873+00:00
 -- url     : https://prove2.me/theorems/457bdf91-b584-4a29-bc02-746bddc1721a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnramDict_exists_value_eq_zpow
 -- name    : GlobalTheory.CompanionTheory.UnramDict.exists_value_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:21:59.423368+00:00
 -- url     : https://prove2.me/theorems/e8074c16-8f71-4869-ad98-5233da7cdb63

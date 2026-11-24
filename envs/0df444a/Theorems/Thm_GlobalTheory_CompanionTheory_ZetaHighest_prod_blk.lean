@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZetaHighest_prod_blk
 -- name    : GlobalTheory.CompanionTheory.ZetaHighest.prod_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:24:55.664575+00:00
 -- url     : https://prove2.me/theorems/eb01bb22-d039-49cc-8f13-dfcc3f526603

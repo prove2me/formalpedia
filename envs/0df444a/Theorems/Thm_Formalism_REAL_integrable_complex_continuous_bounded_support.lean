@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integrable_complex_continuous_bounded_support
 -- name    : Formalism.REAL.integrable_complex_continuous_bounded_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:14:32.491274+00:00
 -- url     : https://prove2.me/theorems/722487cf-e546-4018-ab45-a2fc0fa46a9e

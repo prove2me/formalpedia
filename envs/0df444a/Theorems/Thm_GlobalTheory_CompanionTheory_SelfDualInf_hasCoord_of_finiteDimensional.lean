@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_hasCoord_of_finiteDimensional
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.hasCoord_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:38:07.134625+00:00
 -- url     : https://prove2.me/theorems/2ce329d4-9de9-4348-8f2f-fc71154bf482

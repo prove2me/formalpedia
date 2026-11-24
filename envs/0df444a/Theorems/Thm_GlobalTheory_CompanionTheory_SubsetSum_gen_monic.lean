@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubsetSum_gen_monic
 -- name    : GlobalTheory.CompanionTheory.SubsetSum.gen_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:15:59.487741+00:00
 -- url     : https://prove2.me/theorems/6813080c-dfaa-461a-9bb2-c2fb0b80aaf1

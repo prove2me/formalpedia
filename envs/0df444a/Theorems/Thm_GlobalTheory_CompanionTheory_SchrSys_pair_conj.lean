@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SchrSys_pair_conj
 -- name    : GlobalTheory.CompanionTheory.SchrSys.pair_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:11:59.661128+00:00
 -- url     : https://prove2.me/theorems/b49fa43d-fd66-4711-9b99-7a3a78104e27

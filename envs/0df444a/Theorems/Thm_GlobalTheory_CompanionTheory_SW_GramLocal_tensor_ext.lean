@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramLocal_tensor_ext
 -- name    : GlobalTheory.CompanionTheory.SW.GramLocal.tensor_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:05:42.493076+00:00
 -- url     : https://prove2.me/theorems/10c7d568-a122-458b-b545-dfa1cb6a9396

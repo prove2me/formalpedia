@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_dotProduct_block_ofReal
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.dotProduct_block_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:06.755796+00:00
 -- url     : https://prove2.me/theorems/babe5c7a-327e-4376-b16d-a455df0a4386

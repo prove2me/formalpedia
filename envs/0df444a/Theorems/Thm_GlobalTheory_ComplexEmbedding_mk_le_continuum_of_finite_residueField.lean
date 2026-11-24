@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexEmbedding_mk_le_continuum_of_finite_residueField
 -- name    : GlobalTheory.ComplexEmbedding.mk_le_continuum_of_finite_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:25:32.032172+00:00
 -- url     : https://prove2.me/theorems/cb0c8d8a-ac0f-49be-a0bb-6febb4aa1469

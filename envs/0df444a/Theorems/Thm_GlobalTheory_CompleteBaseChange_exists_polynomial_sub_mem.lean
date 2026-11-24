@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteBaseChange_exists_polynomial_sub_mem
 -- name    : GlobalTheory.CompleteBaseChange.exists_polynomial_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:24:11.081703+00:00
 -- url     : https://prove2.me/theorems/09c86896-05eb-4073-a953-1ae21199bda0

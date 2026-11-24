@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_exists_riesz
 -- name    : CompanionTheory.D.gk.Poul.exists_riesz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:31.557093+00:00
 -- url     : https://prove2.me/theorems/b73fb7dc-b026-48e5-8bfc-998d9c14b79e

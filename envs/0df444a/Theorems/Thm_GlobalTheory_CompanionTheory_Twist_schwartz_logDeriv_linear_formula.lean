@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Twist_schwartz_logDeriv_linear_formula
 -- name    : GlobalTheory.CompanionTheory.Twist.schwartz_logDeriv_linear_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:17:39.411904+00:00
 -- url     : https://prove2.me/theorems/04b34c79-9382-4fe4-b3d8-e6a477d92856

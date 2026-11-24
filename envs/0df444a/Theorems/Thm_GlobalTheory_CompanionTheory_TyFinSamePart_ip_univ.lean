@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinSamePart_ip_univ
 -- name    : GlobalTheory.CompanionTheory.TyFinSamePart.ip_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:18:26.779725+00:00
 -- url     : https://prove2.me/theorems/63d42767-e121-46cc-be98-8d6bb6e24593

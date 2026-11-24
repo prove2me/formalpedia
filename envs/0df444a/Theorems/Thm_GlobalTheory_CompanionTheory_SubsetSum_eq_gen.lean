@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubsetSum_eq_gen
 -- name    : GlobalTheory.CompanionTheory.SubsetSum.eq_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:14:33.55889+00:00
 -- url     : https://prove2.me/theorems/7121b3e8-534d-4f25-be52-61517512cbd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_AbsUniq_measurableEmbedding_orbitQuot
 -- name    : GlobalTheory.CompanionTheory.SW.AbsUniq.measurableEmbedding_orbitQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:01:26.249158+00:00
 -- url     : https://prove2.me/theorems/748bdb0f-6cd1-4311-9d93-7c3636a8754f

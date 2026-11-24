@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OneSpace_rt_ne
 -- name    : GlobalTheory.OneSpace.rt_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:17:49.552172+00:00
 -- url     : https://prove2.me/theorems/dfd801f1-723d-4b49-be0c-0b440d23f8fd

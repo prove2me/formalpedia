@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_exists_posDef_majorant_of_isSymm
 -- name    : GlobalTheory.CompanionTheory.SW.exists_posDef_majorant_of_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:12:32.385136+00:00
 -- url     : https://prove2.me/theorems/ba13bc35-62dd-453e-97f2-5ef729e79011

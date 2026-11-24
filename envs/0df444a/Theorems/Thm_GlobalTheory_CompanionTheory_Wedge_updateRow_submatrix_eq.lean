@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_updateRow_submatrix_eq
 -- name    : GlobalTheory.CompanionTheory.Wedge.updateRow_submatrix_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:21:46.580673+00:00
 -- url     : https://prove2.me/theorems/85c3c51f-4944-4805-91f5-fa66e21da7d2

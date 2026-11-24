@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContraRefl_mem_of_annihilator_eq_bot
 -- name    : GlobalTheory.ContraRefl.mem_of_annihilator_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:25:50.173864+00:00
 -- url     : https://prove2.me/theorems/c2ad7a64-0358-454f-9a71-0e8a4ca8e0f8

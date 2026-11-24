@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SchwartzBaire_cauchy_weighted
 -- name    : GlobalTheory.CompanionTheory.SchwartzBaire.cauchy_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:11:54.29223+00:00
 -- url     : https://prove2.me/theorems/1be005cb-911e-4ec8-bddb-9242b5ceff60

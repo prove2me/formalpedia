@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwistedAverage_twOrbit_smul
 -- name    : GlobalTheory.CompanionTheory.TwistedAverage.twOrbit_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:17:41.129652+00:00
 -- url     : https://prove2.me/theorems/319c8736-62de-4421-8c00-55c111d58a91

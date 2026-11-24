@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_StrictCone_IsStrict_add
 -- name    : GlobalTheory.CompanionTheory.StrictCone.IsStrict.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:14:45.654906+00:00
 -- url     : https://prove2.me/theorems/9edb8c91-39c1-48c6-acae-6178c6622836

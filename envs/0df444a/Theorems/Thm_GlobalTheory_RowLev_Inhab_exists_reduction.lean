@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Inhab_exists_reduction
 -- name    : GlobalTheory.RowLev.Inhab.exists_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:39:31.28474+00:00
 -- url     : https://prove2.me/theorems/31ea8478-299b-4ace-877e-b3a0c6ea8059

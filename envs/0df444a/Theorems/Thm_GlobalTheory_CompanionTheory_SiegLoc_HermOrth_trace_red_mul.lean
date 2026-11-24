@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_HermOrth_trace_red_mul
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.HermOrth.trace_red_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:13:34.680973+00:00
 -- url     : https://prove2.me/theorems/08e53e61-f8ff-4274-a1a1-f92bcd054cb6

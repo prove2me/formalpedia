@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramAlg_gramR_eq
 -- name    : GlobalTheory.CompanionTheory.SW.GramAlg.gramR_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:05:13.739133+00:00
 -- url     : https://prove2.me/theorems/92811749-6ad2-441d-b2a9-0a83959560c5

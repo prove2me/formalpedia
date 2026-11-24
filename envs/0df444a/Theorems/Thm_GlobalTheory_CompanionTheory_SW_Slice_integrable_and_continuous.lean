@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Slice_integrable_and_continuous
 -- name    : GlobalTheory.CompanionTheory.SW.Slice.integrable_and_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:09:52.896946+00:00
 -- url     : https://prove2.me/theorems/cba0e429-0bde-4526-9ddb-5337ab3def88

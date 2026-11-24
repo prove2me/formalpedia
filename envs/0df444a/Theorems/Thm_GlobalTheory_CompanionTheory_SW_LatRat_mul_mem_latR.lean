@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatRat_mul_mem_latR
 -- name    : GlobalTheory.CompanionTheory.SW.LatRat.mul_mem_latR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:12.055818+00:00
 -- url     : https://prove2.me/theorems/622d93c9-b7fe-47c0-9332-e18e641df336

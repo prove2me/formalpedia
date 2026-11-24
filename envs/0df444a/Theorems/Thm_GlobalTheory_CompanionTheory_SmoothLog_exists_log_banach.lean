@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothLog_exists_log_banach
 -- name    : GlobalTheory.CompanionTheory.SmoothLog.exists_log_banach
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:57.211838+00:00
 -- url     : https://prove2.me/theorems/51c8c2f6-d4c6-49d9-9fd7-5b3a9164fab8

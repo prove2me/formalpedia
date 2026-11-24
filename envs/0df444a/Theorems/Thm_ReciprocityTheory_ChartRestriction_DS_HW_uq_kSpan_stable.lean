@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_uq_kSpan_stable
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.uq_kSpan_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:33:52.806466+00:00
 -- url     : https://prove2.me/theorems/54eb208d-8eb1-455d-9751-cb4be02971ac

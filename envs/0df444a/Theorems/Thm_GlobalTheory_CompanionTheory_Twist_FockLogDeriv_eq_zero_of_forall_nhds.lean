@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Twist_FockLogDeriv_eq_zero_of_forall_nhds
 -- name    : GlobalTheory.CompanionTheory.Twist.FockLogDeriv.eq_zero_of_forall_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:17:33.945066+00:00
 -- url     : https://prove2.me/theorems/7f2d2da5-03b2-4ca9-ab07-f3699adc9710

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Slice_withDensity_map_of_scale
 -- name    : GlobalTheory.CompanionTheory.SW.Slice.withDensity_map_of_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:09:57.123936+00:00
 -- url     : https://prove2.me/theorems/35677022-f888-4aaf-84b9-13f1ed9e1e0c

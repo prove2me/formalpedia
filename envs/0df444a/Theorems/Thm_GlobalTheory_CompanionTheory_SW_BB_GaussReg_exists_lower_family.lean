@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_GaussReg_exists_lower_family
 -- name    : GlobalTheory.CompanionTheory.SW.BB.GaussReg.exists_lower_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:02:14.174363+00:00
 -- url     : https://prove2.me/theorems/8eeb8752-bce8-4517-ab5b-fd4dafbbd4b6

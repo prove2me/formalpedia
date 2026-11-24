@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_isCompact_integral
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.isCompact_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:15:56.277808+00:00
 -- url     : https://prove2.me/theorems/8962d565-3787-45b1-8aaa-2a83d6da982f

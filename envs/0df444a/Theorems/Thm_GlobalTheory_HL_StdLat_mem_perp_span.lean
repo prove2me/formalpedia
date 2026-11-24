@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdLat_mem_perp_span
 -- name    : GlobalTheory.HL.StdLat.mem_perp_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:16:58.34461+00:00
 -- url     : https://prove2.me/theorems/4d6bae80-f01f-4b4c-870e-9d356384aa17

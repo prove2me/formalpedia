@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_LabelUniq_gen_ne_zero
 -- name    : GlobalTheory.CompanionTheory.TyFin.LabelUniq.gen_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:20:33.108855+00:00
 -- url     : https://prove2.me/theorems/d3b14672-e525-4385-9797-d04b4a2b2a9a

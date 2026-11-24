@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_norm_omega
 -- name    : GlobalTheory.CMVal.Euler.norm_omega
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:18:55.915941+00:00
 -- url     : https://prove2.me/theorems/4ef8f61d-c515-49af-81c8-6332fb5fdc80

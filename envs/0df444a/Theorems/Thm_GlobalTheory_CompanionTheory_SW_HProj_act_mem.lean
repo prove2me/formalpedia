@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HProj_act_mem
 -- name    : GlobalTheory.CompanionTheory.SW.HProj.act_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:04:45.386292+00:00
 -- url     : https://prove2.me/theorems/6a54456a-7ca5-49b9-bc57-35f45f67bafd

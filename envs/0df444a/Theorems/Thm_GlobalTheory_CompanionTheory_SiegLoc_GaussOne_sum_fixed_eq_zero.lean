@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_GaussOne_sum_fixed_eq_zero
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.GaussOne.sum_fixed_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:13:42.063918+00:00
 -- url     : https://prove2.me/theorems/53da8666-d811-4b9a-9fe6-490ef7527e02

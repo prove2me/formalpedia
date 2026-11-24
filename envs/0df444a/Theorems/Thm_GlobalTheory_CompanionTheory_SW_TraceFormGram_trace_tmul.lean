@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TraceFormGram_trace_tmul
 -- name    : GlobalTheory.CompanionTheory.SW.TraceFormGram.trace_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:10:41.86598+00:00
 -- url     : https://prove2.me/theorems/36009fab-9e5b-42f9-9428-2f420fb8f7cb

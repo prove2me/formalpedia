@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_UJ_isUnit
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.UJ_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:08.213831+00:00
 -- url     : https://prove2.me/theorems/7a21bc93-dc4d-446a-9597-66a662592552

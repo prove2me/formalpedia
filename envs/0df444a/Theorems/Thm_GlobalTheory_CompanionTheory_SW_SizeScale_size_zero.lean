@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeScale_size_zero
 -- name    : GlobalTheory.CompanionTheory.SW.SizeScale.size_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:10:46.26148+00:00
 -- url     : https://prove2.me/theorems/0c6a74d9-ba80-4c5d-b3f5-bd06e72667ae

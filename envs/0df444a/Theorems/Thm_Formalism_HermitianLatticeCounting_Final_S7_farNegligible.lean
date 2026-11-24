@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_farNegligible
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.farNegligible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:49:05.903935+00:00
 -- url     : https://prove2.me/theorems/1bf60e15-5482-4282-80f6-862f1b2aeadf

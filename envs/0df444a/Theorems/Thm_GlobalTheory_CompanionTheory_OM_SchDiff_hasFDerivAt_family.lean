@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OM_SchDiff_hasFDerivAt_family
 -- name    : GlobalTheory.CompanionTheory.OM.SchDiff.hasFDerivAt_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:53:03.917924+00:00
 -- url     : https://prove2.me/theorems/932659cc-3239-4a8a-9ed6-a5d42d5e06ed

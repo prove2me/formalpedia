@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPoints_surjective_specMap_field
 -- name    : GlobalTheory.ComplexPoints.surjective_specMap_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:25:29.748772+00:00
 -- url     : https://prove2.me/theorems/f3d5bab3-3fe2-4cbb-93f4-7f36963e982e

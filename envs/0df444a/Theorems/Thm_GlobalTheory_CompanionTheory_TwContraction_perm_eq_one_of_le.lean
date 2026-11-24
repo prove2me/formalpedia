@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwContraction_perm_eq_one_of_le
 -- name    : GlobalTheory.CompanionTheory.TwContraction.perm_eq_one_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:17:36.933316+00:00
 -- url     : https://prove2.me/theorems/52f73459-642b-4677-87c7-f875166f7d3c

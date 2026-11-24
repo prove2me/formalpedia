@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwContraction_continuous_map_gl
 -- name    : GlobalTheory.CompanionTheory.TwContraction.continuous_map_gl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:18:11.742922+00:00
 -- url     : https://prove2.me/theorems/3805a7a9-734a-4605-8b1b-2aa3ae37ffb3

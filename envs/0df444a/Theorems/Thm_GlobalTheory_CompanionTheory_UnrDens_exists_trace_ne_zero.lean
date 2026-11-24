@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_exists_trace_ne_zero
 -- name    : GlobalTheory.CompanionTheory.UnrDens.exists_trace_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:19:39.937795+00:00
 -- url     : https://prove2.me/theorems/dbbf3342-afae-4f3f-b6b6-8ffa44a84262

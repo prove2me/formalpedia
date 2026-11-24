@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_pairHerm_add_right
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.pairHerm_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:38:14.32295+00:00
 -- url     : https://prove2.me/theorems/96609c01-2678-4060-9842-81d02059ec45

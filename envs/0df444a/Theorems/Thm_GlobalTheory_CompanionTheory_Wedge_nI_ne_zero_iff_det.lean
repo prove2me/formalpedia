@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_nI_ne_zero_iff_det
 -- name    : GlobalTheory.CompanionTheory.Wedge.nI_ne_zero_iff_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:21:30.090992+00:00
 -- url     : https://prove2.me/theorems/b2141671-4e5d-4538-9f02-21282b644138

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_InfDens_gramR_mem
 -- name    : GlobalTheory.CompanionTheory.SW.BB.InfDens.gramR_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:01:58.83103+00:00
 -- url     : https://prove2.me/theorems/bab4cc7e-20e4-4fdf-8bfd-821eb804c2c0

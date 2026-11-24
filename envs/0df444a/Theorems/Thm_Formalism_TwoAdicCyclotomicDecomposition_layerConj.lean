@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_layerConj
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.layerConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:33:31.63142+00:00
 -- url     : https://prove2.me/theorems/7f93e66a-a475-4fe0-a030-326f489fb962

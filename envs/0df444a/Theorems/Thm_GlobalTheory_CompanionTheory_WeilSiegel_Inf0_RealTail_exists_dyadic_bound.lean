@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_Inf0_RealTail_exists_dyadic_bound
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.Inf0.RealTail.exists_dyadic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:23:40.381076+00:00
 -- url     : https://prove2.me/theorems/a16a5a2c-2660-4304-a3e9-c57a1e2bb14e

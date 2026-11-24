@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Unitary_wirtinger_combination_ne_zero
 -- name    : GlobalTheory.CompanionTheory.Unitary.wirtinger_combination_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:36.207945+00:00
 -- url     : https://prove2.me/theorems/2abbcae0-ee2b-4fb5-8499-54cf6322781e

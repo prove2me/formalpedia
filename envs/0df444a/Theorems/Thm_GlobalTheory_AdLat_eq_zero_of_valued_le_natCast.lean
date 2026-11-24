@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_eq_zero_of_valued_le_natCast
 -- name    : GlobalTheory.AdLat.eq_zero_of_valued_le_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:14:22.312363+00:00
 -- url     : https://prove2.me/theorems/19e47c83-f8b8-4ad1-b314-1abf4a3027c5

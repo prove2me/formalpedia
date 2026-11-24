@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictGen_lf_eq
 -- name    : PIW.AdelClassFin.DictGen.lf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:29:36.449806+00:00
 -- url     : https://prove2.me/theorems/a9e09347-da9b-48ed-8ed3-05a77d094929

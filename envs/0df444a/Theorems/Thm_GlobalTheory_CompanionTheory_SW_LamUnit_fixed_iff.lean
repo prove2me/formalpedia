@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LamUnit_fixed_iff
 -- name    : GlobalTheory.CompanionTheory.SW.LamUnit.fixed_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:06:47.385478+00:00
 -- url     : https://prove2.me/theorems/0cfe205b-52ae-4e32-8c46-c48f1d245eb3

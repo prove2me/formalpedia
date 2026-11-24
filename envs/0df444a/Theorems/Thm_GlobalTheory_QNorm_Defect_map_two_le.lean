@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_Defect_map_two_le
 -- name    : GlobalTheory.QNorm.Defect.map_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:43:28.955802+00:00
 -- url     : https://prove2.me/theorems/32a851ff-a8fb-4020-9981-86ef60aff980

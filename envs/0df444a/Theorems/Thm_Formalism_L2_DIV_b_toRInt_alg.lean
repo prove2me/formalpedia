@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_toRInt_alg
 -- name    : Formalism.L2.DIV.b_toRInt_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:22:12.403265+00:00
 -- url     : https://prove2.me/theorems/660ad0b0-bc8f-4fb1-ad36-72def775f81b

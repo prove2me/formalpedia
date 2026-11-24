@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_fourier_comp_planeCoord
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.fourier_comp_planeCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:16:27.321045+00:00
 -- url     : https://prove2.me/theorems/1c283bd0-a3d2-4a09-bba0-279e0c00c0ec

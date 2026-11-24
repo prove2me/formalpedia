@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleChart_ideal_eq_span_coord
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleChart.ideal_eq_span_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:16:16.055953+00:00
 -- url     : https://prove2.me/theorems/7d4b4be6-b980-4cee-a66d-0c139d7bd1a7

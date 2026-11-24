@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockAlg_block_alg
 -- name    : GlobalTheory.CompanionTheory.SW.BlockAlg.block_alg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:51:01.744027+00:00
 -- url     : https://prove2.me/theorems/3a44aff5-cd95-421f-93c7-1465c8bf31bf

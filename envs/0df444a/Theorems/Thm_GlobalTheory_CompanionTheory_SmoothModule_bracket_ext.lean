@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_bracket_ext
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.bracket_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:14:41.894303+00:00
 -- url     : https://prove2.me/theorems/6ef9ff71-fae4-4b02-9a36-52426064deac

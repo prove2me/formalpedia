@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WhitFree_AvgInf_Dens_pairC_apply
 -- name    : GlobalTheory.CompanionTheory.WhitFree.AvgInf.Dens.pairC_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:24:22.437842+00:00
 -- url     : https://prove2.me/theorems/e938a933-b9bd-4ad1-96ae-9ece01cb2b48

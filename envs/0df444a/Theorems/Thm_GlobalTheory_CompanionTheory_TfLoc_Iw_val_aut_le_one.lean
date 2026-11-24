@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_val_aut_le_one
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.val_aut_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:35.851795+00:00
 -- url     : https://prove2.me/theorems/dd413aa9-738e-4dc6-9b9e-ced5c04529f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_not_lt_of_setLIntegral_compact_eq
 -- name    : GlobalTheory.CompanionTheory.SW.not_lt_of_setLIntegral_compact_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:12:34.008921+00:00
 -- url     : https://prove2.me/theorems/fcebc7b0-e688-4e7f-b034-75963bb8eca9

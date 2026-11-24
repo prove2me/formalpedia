@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_Hyp2_mk_eq_mk
 -- name    : GlobalTheory.CechDR.Hyp2.mk_eq_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:35:34.475618+00:00
 -- url     : https://prove2.me/theorems/0388d508-3a46-4558-90c8-1f73673d2ad3

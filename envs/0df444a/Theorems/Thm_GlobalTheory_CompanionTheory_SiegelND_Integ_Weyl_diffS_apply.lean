@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Weyl_diffS_apply
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Weyl.diffS_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:13:46.409539+00:00
 -- url     : https://prove2.me/theorems/e57194d2-72bd-41e7-9831-1af1e209f288

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_MaxLat_stExists_of_stSandwich
 -- name    : GlobalTheory.CompanionTheory.RgFl.MaxLat.stExists_of_stSandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:40.33607+00:00
 -- url     : https://prove2.me/theorems/df293760-0cab-425d-a5de-120409627f8e

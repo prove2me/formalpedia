@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_isLocallyGeneratedByNonZeroDivisor_comap_toSpec
 -- name    : FunctorialResolution.Blowup.isLocallyGeneratedByNonZeroDivisor_comap_toSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:53:40.349856+00:00
 -- url     : https://prove2.me/theorems/030c6843-0894-4f67-bc9a-aba6bf84cb67

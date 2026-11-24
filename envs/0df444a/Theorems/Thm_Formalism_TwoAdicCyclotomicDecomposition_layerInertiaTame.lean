@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_layerInertiaTame
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.layerInertiaTame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:32:36.921331+00:00
 -- url     : https://prove2.me/theorems/8fb5f474-3e91-43a9-9047-29624aafd28c

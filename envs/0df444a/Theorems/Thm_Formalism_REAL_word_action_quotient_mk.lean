@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_word_action_quotient_mk
 -- name    : Formalism.REAL.word_action_quotient_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:15:19.81854+00:00
 -- url     : https://prove2.me/theorems/aee1063f-c667-4d7f-91e8-39ed0850ee5a

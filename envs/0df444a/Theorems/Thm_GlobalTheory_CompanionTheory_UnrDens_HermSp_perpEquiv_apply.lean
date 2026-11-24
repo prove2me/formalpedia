@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_HermSp_perpEquiv_apply
 -- name    : GlobalTheory.CompanionTheory.UnrDens.HermSp.perpEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:19:55.923789+00:00
 -- url     : https://prove2.me/theorems/8a34f9c7-ba83-4cd9-ae2b-d8f85f7d66f2

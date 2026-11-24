@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_hform_mulVec
 -- name    : PIW.AdelClassFin.hform_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:29:52.457478+00:00
 -- url     : https://prove2.me/theorems/7159a2ca-49a7-4bf6-abc7-9173fdfb5e9b

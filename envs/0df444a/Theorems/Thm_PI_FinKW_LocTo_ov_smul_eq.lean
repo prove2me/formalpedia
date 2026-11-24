@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_LocTo_ov_smul_eq
 -- name    : PI.FinKW.LocTo.ov_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:32:58.7689+00:00
 -- url     : https://prove2.me/theorems/81441812-8599-4276-8e9c-18dc722787e3

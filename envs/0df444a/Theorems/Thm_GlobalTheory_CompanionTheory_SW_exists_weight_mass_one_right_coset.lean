@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_exists_weight_mass_one_right_coset
 -- name    : GlobalTheory.CompanionTheory.SW.exists_weight_mass_one_right_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:51.519866+00:00
 -- url     : https://prove2.me/theorems/d085fcf9-4646-42d6-bd64-ebb3a77c5d3f

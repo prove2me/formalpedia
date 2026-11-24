@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TraceFormGram_trGram_isSymm
 -- name    : GlobalTheory.CompanionTheory.SW.TraceFormGram.trGram_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:10:46.767191+00:00
 -- url     : https://prove2.me/theorems/77c2e1c6-55f3-4f5b-a8b0-2c7b4f83cbad

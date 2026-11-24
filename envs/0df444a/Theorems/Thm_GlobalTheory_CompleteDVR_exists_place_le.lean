@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteDVR_exists_place_le
 -- name    : GlobalTheory.CompleteDVR.exists_place_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:24:41.579684+00:00
 -- url     : https://prove2.me/theorems/bf26da41-0966-4b0b-b3bc-09f0b4fc84cd

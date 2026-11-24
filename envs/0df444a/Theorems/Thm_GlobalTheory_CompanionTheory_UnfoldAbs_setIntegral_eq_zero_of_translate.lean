@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnfoldAbs_setIntegral_eq_zero_of_translate
 -- name    : GlobalTheory.CompanionTheory.UnfoldAbs.setIntegral_eq_zero_of_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:29.827436+00:00
 -- url     : https://prove2.me/theorems/ee27b56a-23a7-4ebd-91c3-dcd2b6556281

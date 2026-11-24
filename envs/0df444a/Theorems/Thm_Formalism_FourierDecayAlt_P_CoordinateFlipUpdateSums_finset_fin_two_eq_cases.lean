@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CoordinateFlipUpdateSums_finset_fin_two_eq_cases
 -- name    : Formalism.FourierDecayAlt.P.CoordinateFlipUpdateSums.finset_fin_two_eq_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:35:41.82998+00:00
 -- url     : https://prove2.me/theorems/69488c9e-f530-42c4-8e43-48f8af694aff

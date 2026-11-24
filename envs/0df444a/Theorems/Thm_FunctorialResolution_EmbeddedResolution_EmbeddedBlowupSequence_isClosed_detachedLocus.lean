@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_isClosed_detachedLocus
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.isClosed_detachedLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:15:57.75002+00:00
 -- url     : https://prove2.me/theorems/07b81ba2-1e11-4cec-8e5a-5d0cba6b8b4d

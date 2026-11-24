@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_PhiInv_integrable_gaussian_prod
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.PhiInv.integrable_gaussian_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:16:11.083447+00:00
 -- url     : https://prove2.me/theorems/41971a09-9454-4678-b38e-8571fd19230b

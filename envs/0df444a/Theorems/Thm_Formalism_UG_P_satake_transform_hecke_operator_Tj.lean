@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_transform_hecke_operator_Tj
 -- name    : Formalism.UG.P.satake_transform_hecke_operator_Tj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:34:55.310645+00:00
 -- url     : https://prove2.me/theorems/a43ae4a5-1b71-40f5-9356-ffc8c8d1daf0

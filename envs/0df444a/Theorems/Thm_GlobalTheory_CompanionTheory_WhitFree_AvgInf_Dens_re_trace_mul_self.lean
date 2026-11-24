@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WhitFree_AvgInf_Dens_re_trace_mul_self
 -- name    : GlobalTheory.CompanionTheory.WhitFree.AvgInf.Dens.re_trace_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:24:37.616969+00:00
 -- url     : https://prove2.me/theorems/e9f36b49-d07a-4bbc-95be-11da78b22c2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_iwa_inf
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.iwa_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:58:27.490424+00:00
 -- url     : https://prove2.me/theorems/073d7155-3504-47ab-879d-fb09b3278884

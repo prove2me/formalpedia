@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPointsGroup_isContFamily_of_affine
 -- name    : GlobalTheory.ComplexPointsGroup.isContFamily_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:25:57.692794+00:00
 -- url     : https://prove2.me/theorems/45c5284b-80ca-4730-a226-9b2035a86f98

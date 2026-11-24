@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubEig_cyc_gen
 -- name    : GlobalTheory.CompanionTheory.SubEig.cyc_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:15:18.08714+00:00
 -- url     : https://prove2.me/theorems/891ed8e2-de74-4465-870e-3b671b5c5a88

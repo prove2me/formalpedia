@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_fixed_nondeg
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.fixed_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:13:42.514832+00:00
 -- url     : https://prove2.me/theorems/22712e9a-7149-46ef-ac7f-8f6dc0f19090

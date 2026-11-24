@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictRing_comp_algebraMap
 -- name    : PIW.AdelClassFin.DictRing.comp_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:30:07.16526+00:00
 -- url     : https://prove2.me/theorems/26a71460-996d-49fc-98a6-65cb19ed08b9

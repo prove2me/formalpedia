@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_vector_complexified_derivative_sub
 -- name    : Formalism.REAL.vector_complexified_derivative_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:58:05.671798+00:00
 -- url     : https://prove2.me/theorems/3dc099cf-63ae-4375-a48d-7e22149a423a

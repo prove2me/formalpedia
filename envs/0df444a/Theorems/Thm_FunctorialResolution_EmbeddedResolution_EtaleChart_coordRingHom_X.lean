@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleChart_coordRingHom_X
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleChart.coordRingHom_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:16:24.093046+00:00
 -- url     : https://prove2.me/theorems/6082b4de-bf24-4605-8f7b-647c02a67e18

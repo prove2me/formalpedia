@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnfoldAbs_hasSum_integral_of_norm_bound
 -- name    : GlobalTheory.CompanionTheory.UnfoldAbs.hasSum_integral_of_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:40.563856+00:00
 -- url     : https://prove2.me/theorems/45eac43d-692e-44a2-8d23-9319e2c55eb0

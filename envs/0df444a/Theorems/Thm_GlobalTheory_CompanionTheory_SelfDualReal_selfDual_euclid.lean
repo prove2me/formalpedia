@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualReal_selfDual_euclid
 -- name    : GlobalTheory.CompanionTheory.SelfDualReal.selfDual_euclid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:12:29.562231+00:00
 -- url     : https://prove2.me/theorems/b26727b3-75ca-4784-814d-7facd8703ed2

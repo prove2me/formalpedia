@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Par_parJ_compact_open
 -- name    : GlobalTheory.CompanionTheory.QL.Par.parJ_compact_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:56:09.833611+00:00
 -- url     : https://prove2.me/theorems/6ae588fb-8ab3-4f40-9a52-b959645fc1ed

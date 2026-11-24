@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Pm_isBlockUT_glEquiv
 -- name    : GlobalTheory.CompanionTheory.TyFin.Pm.isBlockUT_glEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:02.451729+00:00
 -- url     : https://prove2.me/theorems/37397329-6022-47be-b9a6-5354bfe73a46

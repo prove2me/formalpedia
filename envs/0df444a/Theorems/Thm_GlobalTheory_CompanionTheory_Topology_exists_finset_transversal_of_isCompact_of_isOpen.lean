@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Topology_exists_finset_transversal_of_isCompact_of_isOpen
 -- name    : GlobalTheory.CompanionTheory.Topology.exists_finset_transversal_of_isCompact_of_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:16:28.463774+00:00
 -- url     : https://prove2.me/theorems/3c5f6704-8eb1-4409-a0f2-da728af6a9ee

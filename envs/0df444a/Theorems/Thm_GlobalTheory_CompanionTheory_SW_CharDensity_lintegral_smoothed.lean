@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharDensity_lintegral_smoothed
 -- name    : GlobalTheory.CompanionTheory.SW.CharDensity.lintegral_smoothed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:02:10.03263+00:00
 -- url     : https://prove2.me/theorems/d6bc66e0-3b49-4063-a002-9a21abe24663

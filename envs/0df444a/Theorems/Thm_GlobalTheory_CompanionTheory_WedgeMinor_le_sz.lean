@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeMinor_le_sz
 -- name    : GlobalTheory.CompanionTheory.WedgeMinor.le_sz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:21:47.566257+00:00
 -- url     : https://prove2.me/theorems/554dc171-af4a-40be-a5ca-c3c4d875f24c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SchurKernel_schurInt_of_schurL
 -- name    : GlobalTheory.CompanionTheory.SchurKernel.schurInt_of_schurL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:11:57.595023+00:00
 -- url     : https://prove2.me/theorems/35bcae12-7a9f-4b43-a2f1-6c5c4a517ce4

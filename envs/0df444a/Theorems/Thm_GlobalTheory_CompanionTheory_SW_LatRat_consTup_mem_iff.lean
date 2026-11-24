@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatRat_consTup_mem_iff
 -- name    : GlobalTheory.CompanionTheory.SW.LatRat.consTup_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:06:29.294875+00:00
 -- url     : https://prove2.me/theorems/37e09c50-8a1b-4d32-ac21-78da85c29b07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassFin_nat_mult
 -- name    : PI.UnitaryGroupMassFormula.UJClassFin.nat_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:49:15.715809+00:00
 -- url     : https://prove2.me/theorems/d8f758de-92f0-45a1-a03a-16e2a6735db4

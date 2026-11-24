@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Segments_shufcomb
 -- name    : GlobalTheory.CompanionTheory.Segments.shufcomb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:12:24.82944+00:00
 -- url     : https://prove2.me/theorems/4cc567d4-3f86-4cd6-a0af-8e8533f8a13f

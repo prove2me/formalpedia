@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_integrable_exp_neg_sq_prod
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.integrable_exp_neg_sq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:16:26.879577+00:00
 -- url     : https://prove2.me/theorems/cc71db36-c9ab-4e44-9f3f-bce94dc0d58e

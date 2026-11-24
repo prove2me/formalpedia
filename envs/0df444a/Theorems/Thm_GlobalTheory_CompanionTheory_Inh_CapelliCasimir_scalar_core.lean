@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CapelliCasimir_scalar_core
 -- name    : GlobalTheory.CompanionTheory.Inh.CapelliCasimir.scalar_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:30:21.177429+00:00
 -- url     : https://prove2.me/theorems/e8ac83f1-407e-41e7-8282-9e4949ae6746

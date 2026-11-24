@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionHomContinuous_continuous_of_valuation_eq_pow
 -- name    : GlobalTheory.CompletionHomContinuous.continuous_of_valuation_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:25:18.228862+00:00
 -- url     : https://prove2.me/theorems/ade44882-3400-4834-ad39-3381d191f3e8

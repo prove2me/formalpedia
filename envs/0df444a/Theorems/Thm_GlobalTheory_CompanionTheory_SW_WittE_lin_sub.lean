@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittE_lin_sub
 -- name    : GlobalTheory.CompanionTheory.SW.WittE.lin_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:13:10.258745+00:00
 -- url     : https://prove2.me/theorems/0d582275-376d-42a1-8282-9b42a6fe1372

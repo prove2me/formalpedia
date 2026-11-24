@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TermBasic_sub_mem
 -- name    : GlobalTheory.HL.TermBasic.sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:49.188662+00:00
 -- url     : https://prove2.me/theorems/4c988bf6-f415-45bc-8896-2b0b318a2ef7

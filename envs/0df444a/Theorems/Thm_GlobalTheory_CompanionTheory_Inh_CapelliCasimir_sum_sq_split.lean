@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CapelliCasimir_sum_sq_split
 -- name    : GlobalTheory.CompanionTheory.Inh.CapelliCasimir.sum_sq_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:30:50.897149+00:00
 -- url     : https://prove2.me/theorems/ad8d2f62-4228-4109-87f9-546a127940ec

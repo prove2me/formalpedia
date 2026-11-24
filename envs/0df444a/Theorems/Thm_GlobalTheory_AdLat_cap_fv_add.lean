@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_cap_fv_add
 -- name    : GlobalTheory.AdLat.cap_fv_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:43:34.264076+00:00
 -- url     : https://prove2.me/theorems/a8959a8a-d691-488c-abbd-7c7fda1ea6e4

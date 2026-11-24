@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_deltaSmall
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.deltaSmall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:48:34.415099+00:00
 -- url     : https://prove2.me/theorems/691f6028-dc57-4dbe-badc-06f1ef12d576

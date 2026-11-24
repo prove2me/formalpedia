@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_quad_real
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.quad_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:13:24.580515+00:00
 -- url     : https://prove2.me/theorems/123c2221-dbf0-48ac-aec0-c7548e5c5d13

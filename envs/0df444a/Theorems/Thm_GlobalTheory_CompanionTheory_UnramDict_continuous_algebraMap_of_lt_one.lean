@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnramDict_continuous_algebraMap_of_lt_one
 -- name    : GlobalTheory.CompanionTheory.UnramDict.continuous_algebraMap_of_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:19:55.826225+00:00
 -- url     : https://prove2.me/theorems/de7c0948-11dc-470f-8b49-d3a8a78b5732

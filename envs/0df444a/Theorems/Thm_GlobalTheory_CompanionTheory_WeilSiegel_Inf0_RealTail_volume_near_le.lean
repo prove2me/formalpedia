@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_Inf0_RealTail_volume_near_le
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.Inf0.RealTail.volume_near_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:24:17.998533+00:00
 -- url     : https://prove2.me/theorems/4e21a467-fe3a-484e-af25-1719529f4a1b

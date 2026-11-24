@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Maschke_comp_mem
 -- name    : GlobalTheory.CompanionTheory.TyFin.Maschke.comp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:18:37.994483+00:00
 -- url     : https://prove2.me/theorems/45aa60c3-9888-4598-a201-d527d67f074e

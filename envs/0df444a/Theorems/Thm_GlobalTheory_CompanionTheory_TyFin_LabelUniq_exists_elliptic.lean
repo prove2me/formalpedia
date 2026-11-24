@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_LabelUniq_exists_elliptic
 -- name    : GlobalTheory.CompanionTheory.TyFin.LabelUniq.exists_elliptic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:18:53.993551+00:00
 -- url     : https://prove2.me/theorems/d793dd66-269c-4f93-bb10-4e1dc42ddfb9

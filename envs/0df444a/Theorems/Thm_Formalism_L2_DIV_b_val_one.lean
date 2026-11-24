@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_val_one
 -- name    : Formalism.L2.DIV.b_val_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:22:33.786367+00:00
 -- url     : https://prove2.me/theorems/7b9564be-9214-4ba5-af49-9d00e93f390b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Conj_sum_colGeR
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Conj.sum_colGeR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:17:32.564923+00:00
 -- url     : https://prove2.me/theorems/7a22ab3d-4bba-4ad4-b149-5048640fdddf

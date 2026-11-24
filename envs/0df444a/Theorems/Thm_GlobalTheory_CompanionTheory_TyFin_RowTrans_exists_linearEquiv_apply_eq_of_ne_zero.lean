@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_RowTrans_exists_linearEquiv_apply_eq_of_ne_zero
 -- name    : GlobalTheory.CompanionTheory.TyFin.RowTrans.exists_linearEquiv_apply_eq_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:18:58.979568+00:00
 -- url     : https://prove2.me/theorems/e2609781-d2ca-4449-9710-25d12d72777e

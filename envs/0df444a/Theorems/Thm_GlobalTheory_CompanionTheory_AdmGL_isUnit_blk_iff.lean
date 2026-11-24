@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdmGL_isUnit_blk_iff
 -- name    : GlobalTheory.CompanionTheory.AdmGL.isUnit_blk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:14:07.847103+00:00
 -- url     : https://prove2.me/theorems/a259afc7-721c-4289-9cb8-06226e1388ae

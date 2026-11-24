@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_vge_Lam_monomial
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.vge_Lam_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:06:22.016241+00:00
 -- url     : https://prove2.me/theorems/01ed15d4-983e-4547-8ec0-38aff03ca627

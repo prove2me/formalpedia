@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubsetSum_exists_fin_enum
 -- name    : GlobalTheory.CompanionTheory.SubsetSum.exists_fin_enum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:14:37.513944+00:00
 -- url     : https://prove2.me/theorems/91f33287-40a4-4c52-a6ed-62391fda8028

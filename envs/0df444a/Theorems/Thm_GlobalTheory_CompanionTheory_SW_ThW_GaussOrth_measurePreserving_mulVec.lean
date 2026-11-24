@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_GaussOrth_measurePreserving_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.GaussOrth.measurePreserving_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:11:05.402431+00:00
 -- url     : https://prove2.me/theorems/d7e41f1d-9ae0-4faf-8372-8a8bf2112b94

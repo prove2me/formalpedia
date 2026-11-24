@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_IsChart_exists_isOpenImmersion
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.IsChart.exists_isOpenImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:41:22.219232+00:00
 -- url     : https://prove2.me/theorems/67173fa2-d47d-4848-81e1-451627baa808

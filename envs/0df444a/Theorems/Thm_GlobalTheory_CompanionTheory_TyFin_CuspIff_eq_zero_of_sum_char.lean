@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspIff_eq_zero_of_sum_char
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspIff.eq_zero_of_sum_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:46.310893+00:00
 -- url     : https://prove2.me/theorems/f4e04f21-3be8-470b-8a4f-25eb02acd15a

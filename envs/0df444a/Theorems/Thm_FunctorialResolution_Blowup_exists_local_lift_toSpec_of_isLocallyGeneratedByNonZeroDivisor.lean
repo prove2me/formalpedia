@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_exists_local_lift_toSpec_of_isLocallyGeneratedByNonZeroDivisor
 -- name    : FunctorialResolution.Blowup.exists_local_lift_toSpec_of_isLocallyGeneratedByNonZeroDivisor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:25:17.982987+00:00
 -- url     : https://prove2.me/theorems/0333d60c-e039-428c-89a2-74cd7ddd3ce2

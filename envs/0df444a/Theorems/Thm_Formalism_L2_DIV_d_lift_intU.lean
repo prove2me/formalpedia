@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_d_lift_intU
 -- name    : Formalism.L2.DIV.d_lift_intU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:22:13.54197+00:00
 -- url     : https://prove2.me/theorems/d82a3591-5a74-4eed-a68a-580f324611c6

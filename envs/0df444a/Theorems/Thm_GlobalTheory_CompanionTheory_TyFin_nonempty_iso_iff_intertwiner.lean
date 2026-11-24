@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_nonempty_iso_iff_intertwiner
 -- name    : GlobalTheory.CompanionTheory.TyFin.nonempty_iso_iff_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:18:52.69298+00:00
 -- url     : https://prove2.me/theorems/5c5b2b5e-272f-43e2-9b9b-8bf3887a593f

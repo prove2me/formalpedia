@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_qdetEq
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.qdetEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:15.673536+00:00
 -- url     : https://prove2.me/theorems/19729b98-5005-4b7d-ac12-1f1f6db0de2b

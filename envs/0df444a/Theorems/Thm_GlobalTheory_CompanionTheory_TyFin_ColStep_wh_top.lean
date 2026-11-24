@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_wh_top
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.wh_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:40.977667+00:00
 -- url     : https://prove2.me/theorems/f6c5e5bc-1c75-4003-94da-77071937599a

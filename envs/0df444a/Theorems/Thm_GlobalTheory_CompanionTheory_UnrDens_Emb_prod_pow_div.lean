@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_Emb_prod_pow_div
 -- name    : GlobalTheory.CompanionTheory.UnrDens.Emb.prod_pow_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:19:38.377575+00:00
 -- url     : https://prove2.me/theorems/a3ef6c44-5928-4360-ae68-e7c5aa7c9608

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_adele_trace_from_base
 -- name    : Formalism.L2.DIV.adele_trace_from_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:08.235819+00:00
 -- url     : https://prove2.me/theorems/8917bf59-3c72-4d66-9cd9-856d6e93088e

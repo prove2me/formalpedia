@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_continuous_mk_im_shiftSnd
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.continuous_mk_im_shiftSnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:16:31.227876+00:00
 -- url     : https://prove2.me/theorems/ced878de-ef48-4406-bd66-55df5a154a91

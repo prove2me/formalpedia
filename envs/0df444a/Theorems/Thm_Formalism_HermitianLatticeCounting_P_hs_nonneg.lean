@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hs_nonneg
 -- name    : Formalism.HermitianLatticeCounting.P.hs_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:27:26.648018+00:00
 -- url     : https://prove2.me/theorems/2bcd8616-e2ae-45fe-94a6-f1cfec559b8a

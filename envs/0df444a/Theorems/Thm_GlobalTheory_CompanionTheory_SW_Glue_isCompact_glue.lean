@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Glue_isCompact_glue
 -- name    : GlobalTheory.CompanionTheory.SW.Glue.isCompact_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:13.793514+00:00
 -- url     : https://prove2.me/theorems/9539b902-efe2-4a2e-89e3-dfb185cf69a6

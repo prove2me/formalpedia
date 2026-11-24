@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_loc_upper
 -- name    : Formalism.L2.G.Triv.loc_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:20:35.723248+00:00
 -- url     : https://prove2.me/theorems/f24b19a2-47b9-4fcb-b799-f1e486deeabe

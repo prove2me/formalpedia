@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_one_le_exponential_weight
 -- name    : Formalism.REAL.one_le_exponential_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:28:49.94903+00:00
 -- url     : https://prove2.me/theorems/351a265b-dfa6-4dc2-8b0f-1571bca984c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThetaUD_form_map
 -- name    : GlobalTheory.CompanionTheory.SW.ThetaUD.form_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:11:16.774108+00:00
 -- url     : https://prove2.me/theorems/8e758be4-4eb6-4913-9146-5901115a86b0

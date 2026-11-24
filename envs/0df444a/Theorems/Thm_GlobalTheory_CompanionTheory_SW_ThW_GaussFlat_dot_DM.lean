@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_GaussFlat_dot_DM
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.GaussFlat.dot_DM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:10:42.635276+00:00
 -- url     : https://prove2.me/theorems/9ca20f1c-70b5-4242-8a07-604d36a5ab21

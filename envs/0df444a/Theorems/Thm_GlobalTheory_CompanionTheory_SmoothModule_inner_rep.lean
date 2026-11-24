@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_inner_rep
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.inner_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:14:56.750396+00:00
 -- url     : https://prove2.me/theorems/f036ba62-47d4-40a2-8da9-e22cb09aa11e

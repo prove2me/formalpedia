@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockForm_blockForms_isHermND
 -- name    : GlobalTheory.CompanionTheory.SW.BlockForm.blockForms_isHermND
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:19.281516+00:00
 -- url     : https://prove2.me/theorems/b602ea48-d209-43ff-903d-f3adf9b60ab0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_adele_conjugation_involutive
 -- name    : Formalism.L2.DIV.adele_conjugation_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:22:51.413229+00:00
 -- url     : https://prove2.me/theorems/043d001c-c21d-4526-9718-c87e55ed3af6

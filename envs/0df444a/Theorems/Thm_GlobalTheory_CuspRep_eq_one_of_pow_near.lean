@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspRep_eq_one_of_pow_near
 -- name    : GlobalTheory.CuspRep.eq_one_of_pow_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:33:31.60115+00:00
 -- url     : https://prove2.me/theorems/187b45bb-6cd6-4936-bcc5-73a5130e20c8

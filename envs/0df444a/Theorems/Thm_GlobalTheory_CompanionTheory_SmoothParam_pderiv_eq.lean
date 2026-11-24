@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothParam_pderiv_eq
 -- name    : GlobalTheory.CompanionTheory.SmoothParam.pderiv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:27.645009+00:00
 -- url     : https://prove2.me/theorems/632ce3e2-09de-484e-9cb4-36ac2387e9eb

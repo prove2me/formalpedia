@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_GramDiff_exists_trace_one
 -- name    : GlobalTheory.CompanionTheory.UnrDens.GramDiff.exists_trace_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:20:12.893908+00:00
 -- url     : https://prove2.me/theorems/997b2c46-76e4-4fee-aec7-0a71c948ee81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormZero_card_axes
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormZero.card_axes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:21:44.885149+00:00
 -- url     : https://prove2.me/theorems/382fb584-7656-480f-aa62-9fd298d9ca2a

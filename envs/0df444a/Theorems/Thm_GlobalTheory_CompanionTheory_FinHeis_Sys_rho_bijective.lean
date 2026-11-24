@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Sys_rho_bijective
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Sys.rho_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:40:58.57602+00:00
 -- url     : https://prove2.me/theorems/bab2accf-f0a1-444b-b8f7-1658acc49e5c

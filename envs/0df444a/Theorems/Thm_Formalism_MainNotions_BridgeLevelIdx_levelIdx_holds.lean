@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelIdx_levelIdx_holds
 -- name    : Formalism.MainNotions.BridgeLevelIdx.levelIdx_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:42:26.072418+00:00
 -- url     : https://prove2.me/theorems/8114bd2b-eee4-4bf1-a215-2a7f0c7ab01f

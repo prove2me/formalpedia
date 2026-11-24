@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Bruhat_conj_diag_mem_borel
 -- name    : GlobalTheory.CompanionTheory.TyFin.Bruhat.conj_diag_mem_borel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:17:53.180896+00:00
 -- url     : https://prove2.me/theorems/c58d9e9c-9377-4e6e-b881-dabd0a1e7af2

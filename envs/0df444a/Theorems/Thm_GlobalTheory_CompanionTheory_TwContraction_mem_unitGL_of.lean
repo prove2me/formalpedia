@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwContraction_mem_unitGL_of
 -- name    : GlobalTheory.CompanionTheory.TwContraction.mem_unitGL_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:17:54.1437+00:00
 -- url     : https://prove2.me/theorems/409e2d30-7467-4c70-b218-a6b7ce972f85

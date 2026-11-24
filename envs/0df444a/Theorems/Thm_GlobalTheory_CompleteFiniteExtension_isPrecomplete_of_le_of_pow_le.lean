@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteFiniteExtension_isPrecomplete_of_le_of_pow_le
 -- name    : GlobalTheory.CompleteFiniteExtension.isPrecomplete_of_le_of_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:38:57.880806+00:00
 -- url     : https://prove2.me/theorems/fd77a42b-48d7-4eb7-ba71-1360c67f9fe5

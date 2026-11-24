@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeScale_exists_size_mul_le
 -- name    : GlobalTheory.CompanionTheory.SW.SizeScale.exists_size_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:10:23.65756+00:00
 -- url     : https://prove2.me/theorems/f1c87001-efdb-4448-84df-312050507985

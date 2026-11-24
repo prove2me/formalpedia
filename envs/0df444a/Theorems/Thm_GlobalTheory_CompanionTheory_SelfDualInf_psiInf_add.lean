@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_psiInf_add
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.psiInf_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:37:59.159106+00:00
 -- url     : https://prove2.me/theorems/680a090e-eb75-4c32-b556-463d14ee41d7

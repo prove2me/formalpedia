@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueBoxVolume_exists_residue_eq_zero_iff
 -- name    : GlobalTheory.ResidueBoxVolume.exists_residue_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:27:57.834801+00:00
 -- url     : https://prove2.me/theorems/30f6b819-2a32-4d6f-bcf5-718062bc677f

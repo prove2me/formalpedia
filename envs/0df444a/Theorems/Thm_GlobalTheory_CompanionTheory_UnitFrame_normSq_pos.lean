@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnitFrame_normSq_pos
 -- name    : GlobalTheory.CompanionTheory.UnitFrame.normSq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:48.862988+00:00
 -- url     : https://prove2.me/theorems/7b4c665c-4443-470c-a320-4e849895962c

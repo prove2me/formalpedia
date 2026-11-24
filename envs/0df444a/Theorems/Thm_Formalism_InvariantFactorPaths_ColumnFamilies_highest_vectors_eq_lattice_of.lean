@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_highest_vectors_eq_lattice_of
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.highest_vectors_eq_lattice_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:16:06.052526+00:00
 -- url     : https://prove2.me/theorems/fbb5ff65-c8b0-4cc6-acfa-26d368996798

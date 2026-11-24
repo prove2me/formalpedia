@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothSpread_smooth_iff_of_isPullback
 -- name    : GlobalTheory.CompanionTheory.SmoothSpread.smooth_iff_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:44.299647+00:00
 -- url     : https://prove2.me/theorems/0a6541bd-e249-4cbf-a3fb-a8499b8e5264

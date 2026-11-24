@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegCov_cT_cT
 -- name    : GlobalTheory.CompanionTheory.SiegCov.cT_cT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:13:58.118334+00:00
 -- url     : https://prove2.me/theorems/04808099-cdab-4bc2-b53c-4c949dd612e9

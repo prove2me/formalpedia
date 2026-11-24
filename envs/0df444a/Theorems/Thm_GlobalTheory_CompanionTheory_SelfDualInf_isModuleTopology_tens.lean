@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_isModuleTopology_tens
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.isModuleTopology_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:38:29.375707+00:00
 -- url     : https://prove2.me/theorems/ba126e24-a461-49b1-8c7b-656215c0ae5f

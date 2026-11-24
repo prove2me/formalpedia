@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_InvLine_norm_dot_le
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.InvLine.norm_dot_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:54.036824+00:00
 -- url     : https://prove2.me/theorems/a562206f-c9a9-4a8e-be4a-1766bc402c04

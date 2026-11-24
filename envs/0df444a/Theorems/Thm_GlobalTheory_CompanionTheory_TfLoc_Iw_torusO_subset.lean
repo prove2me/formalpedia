@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_torusO_subset
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.torusO_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:16:18.22759+00:00
 -- url     : https://prove2.me/theorems/dd9b4131-f3dc-45ab-af5f-50fb162c9f58

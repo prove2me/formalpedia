@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TraceCoord_trace_one_tmul
 -- name    : GlobalTheory.CompanionTheory.SW.TraceCoord.trace_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:11:34.704603+00:00
 -- url     : https://prove2.me/theorems/9e9bf23f-f121-41c2-b78e-95abb6c226a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_norm_cexp_dot
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.norm_cexp_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:16:03.214627+00:00
 -- url     : https://prove2.me/theorems/b33a56d6-0f06-4e9d-b9a5-c59cd7505b3f

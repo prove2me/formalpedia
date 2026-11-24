@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_BlockEmbeddingGL_sum_fin_of_ge_zero
 -- name    : GlobalTheory.CompanionTheory.TyFin.BlockEmbeddingGL.sum_fin_of_ge_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:17:40.041485+00:00
 -- url     : https://prove2.me/theorems/b369ac2a-2251-4be5-9cc4-9b1f74a350a6

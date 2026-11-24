@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CoordinateFlipUpdateSums_freeOf_mul
 -- name    : Formalism.FourierDecayAlt.P.CoordinateFlipUpdateSums.freeOf_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:35:27.056126+00:00
 -- url     : https://prove2.me/theorems/0a2c0f8f-fb9c-424f-b42d-6c1bc271adc0

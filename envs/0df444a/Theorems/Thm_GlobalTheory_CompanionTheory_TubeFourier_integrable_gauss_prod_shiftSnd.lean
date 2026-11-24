@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_integrable_gauss_prod_shiftSnd
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.integrable_gauss_prod_shiftSnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:16:50.667804+00:00
 -- url     : https://prove2.me/theorems/d8e70a9e-4f65-454d-b26b-000a7761528f

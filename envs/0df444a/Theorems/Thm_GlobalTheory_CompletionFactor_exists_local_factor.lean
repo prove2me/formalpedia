@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionFactor_exists_local_factor
 -- name    : GlobalTheory.CompletionFactor.exists_local_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:54.062812+00:00
 -- url     : https://prove2.me/theorems/9f82dee8-696d-4550-8cf4-c262272211a9

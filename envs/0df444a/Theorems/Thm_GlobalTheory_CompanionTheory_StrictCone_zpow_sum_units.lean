@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_StrictCone_zpow_sum_units
 -- name    : GlobalTheory.CompanionTheory.StrictCone.zpow_sum_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:14:49.013722+00:00
 -- url     : https://prove2.me/theorems/4937dc41-d996-478a-97c2-02413ddfd4dc

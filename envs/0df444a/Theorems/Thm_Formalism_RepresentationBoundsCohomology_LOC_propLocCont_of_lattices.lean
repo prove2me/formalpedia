@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_propLocCont_of_lattices
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.propLocCont_of_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:28:58.988803+00:00
 -- url     : https://prove2.me/theorems/7381340c-e2a7-418f-89cd-28af83604959

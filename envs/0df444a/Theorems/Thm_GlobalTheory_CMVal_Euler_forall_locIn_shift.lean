@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_forall_locIn_shift
 -- name    : GlobalTheory.CMVal.Euler.forall_locIn_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:19:49.457017+00:00
 -- url     : https://prove2.me/theorems/d1735465-10b4-4703-811d-d6171839eaa8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FinKW_ratV_add__0cc5b55a46e7
 -- name    : P2M_PI_FinKW_ratV_add__0cc5b55a46e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:31:34.959019+00:00
 -- url     : https://prove2.me/theorems/ded27e60-cf68-4f21-af9b-1f2d4b847951

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_totalSpaceZeroIso_spec
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.totalSpaceZeroIso_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:25:32.773248+00:00
 -- url     : https://prove2.me/theorems/155a9fc9-6dde-4f5e-a4dc-f81b41b61d9f

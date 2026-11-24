@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnramDict_tendsto_pow_zero
 -- name    : GlobalTheory.CompanionTheory.UnramDict.tendsto_pow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:21:06.547711+00:00
 -- url     : https://prove2.me/theorems/beb26e64-c9b7-4d5b-92c9-5c1c7186db2d

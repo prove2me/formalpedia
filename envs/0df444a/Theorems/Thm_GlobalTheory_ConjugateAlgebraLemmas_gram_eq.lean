@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjugateAlgebraLemmas_gram_eq
 -- name    : GlobalTheory.ConjugateAlgebraLemmas.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:24.389809+00:00
 -- url     : https://prove2.me/theorems/69597671-5732-46b5-ab76-40b441c02fb2

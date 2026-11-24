@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SchrLaw_schr_law
 -- name    : GlobalTheory.CompanionTheory.SchrLaw.schr_law
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:26.847718+00:00
 -- url     : https://prove2.me/theorems/12e453e1-bf66-4118-b37f-8d3810e5ef70

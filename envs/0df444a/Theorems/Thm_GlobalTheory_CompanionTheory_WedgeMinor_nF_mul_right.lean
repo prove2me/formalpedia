@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeMinor_nF_mul_right
 -- name    : GlobalTheory.CompanionTheory.WedgeMinor.nF_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:16.925794+00:00
 -- url     : https://prove2.me/theorems/14d5e737-cb13-4adc-a63a-fa03bafb4a39

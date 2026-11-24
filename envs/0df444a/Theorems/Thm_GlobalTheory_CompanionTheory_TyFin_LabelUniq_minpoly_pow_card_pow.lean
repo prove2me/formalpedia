@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_LabelUniq_minpoly_pow_card_pow
 -- name    : GlobalTheory.CompanionTheory.TyFin.LabelUniq.minpoly_pow_card_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:19:32.472614+00:00
 -- url     : https://prove2.me/theorems/7256d3b0-60fa-4f8a-be18-7057f32df29c

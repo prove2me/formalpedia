@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Irred_irreducible
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Irred.irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:39:18.712082+00:00
 -- url     : https://prove2.me/theorems/942bee25-fb57-40dd-a13f-e25f4de67798

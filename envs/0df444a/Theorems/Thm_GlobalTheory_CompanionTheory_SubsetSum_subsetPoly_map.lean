@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubsetSum_subsetPoly_map
 -- name    : GlobalTheory.CompanionTheory.SubsetSum.subsetPoly_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:16:23.319682+00:00
 -- url     : https://prove2.me/theorems/85138886-27ce-4eec-a764-b29ee5787c30

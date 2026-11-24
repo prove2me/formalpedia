@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnitaryBlock_block_diagonal_of_keeps_frame
 -- name    : GlobalTheory.CompanionTheory.UnitaryBlock.block_diagonal_of_keeps_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:52.466935+00:00
 -- url     : https://prove2.me/theorems/db031749-9580-4e3d-83ce-39243a116d11

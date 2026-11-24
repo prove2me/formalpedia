@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittE_cT_mul_mul_apply
 -- name    : GlobalTheory.CompanionTheory.SW.WittE.cT_mul_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:12:23.385742+00:00
 -- url     : https://prove2.me/theorems/35f5c9c1-b012-483a-a1ad-3307aadc859e

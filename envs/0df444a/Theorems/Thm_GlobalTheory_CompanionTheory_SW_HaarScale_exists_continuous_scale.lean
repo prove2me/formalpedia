@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarScale_exists_continuous_scale
 -- name    : GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:33:42.022228+00:00
 -- url     : https://prove2.me/theorems/80f21d54-406f-4607-81be-ced800c8c617

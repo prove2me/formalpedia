@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_global_lattice_one_holds
 -- name    : Formalism.UG.P.global_lattice_one_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:45:09.16645+00:00
 -- url     : https://prove2.me/theorems/d75d2e86-0eab-4fbd-a310-f2a0dbf11c95

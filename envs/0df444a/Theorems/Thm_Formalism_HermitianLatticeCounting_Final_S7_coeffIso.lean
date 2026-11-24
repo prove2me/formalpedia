@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_coeffIso
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.coeffIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:44:21.377093+00:00
 -- url     : https://prove2.me/theorems/78212488-b146-4652-a6cb-53a043009f2e

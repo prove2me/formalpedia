@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionEmbed_algebraMap_injective
 -- name    : GlobalTheory.CompletionEmbed.algebraMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:24:51.927004+00:00
 -- url     : https://prove2.me/theorems/7ea1c452-d2ed-4b18-853c-075456ab8e46

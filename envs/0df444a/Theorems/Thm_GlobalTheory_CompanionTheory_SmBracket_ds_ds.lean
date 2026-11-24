@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmBracket_ds_ds
 -- name    : GlobalTheory.CompanionTheory.SmBracket.ds_ds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:43:39.569821+00:00
 -- url     : https://prove2.me/theorems/b3845c4f-8508-4f5c-8ad4-359d8a3b79a2

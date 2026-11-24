@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_support_finite
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.support_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:37:55.710808+00:00
 -- url     : https://prove2.me/theorems/a6db80b2-7a06-4e03-adf8-3514e387b93d

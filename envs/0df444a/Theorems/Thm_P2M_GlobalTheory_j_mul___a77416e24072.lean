@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_j_mul___a77416e24072
 -- name    : P2M_GlobalTheory_j_mul___a77416e24072
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:39:05.128747+00:00
 -- url     : https://prove2.me/theorems/f6c765a3-6bed-49ee-a81c-b592115a21c0

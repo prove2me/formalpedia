@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_OrthMeas_orth_meas
 -- name    : GlobalTheory.CompanionTheory.SW.Core.OrthMeas.orth_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:03:45.361012+00:00
 -- url     : https://prove2.me/theorems/16b87b7e-31a4-48ed-a6c5-161d7284156d

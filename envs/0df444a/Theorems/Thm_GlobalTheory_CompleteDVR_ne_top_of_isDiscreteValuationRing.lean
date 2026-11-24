@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteDVR_ne_top_of_isDiscreteValuationRing
 -- name    : GlobalTheory.CompleteDVR.ne_top_of_isDiscreteValuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:24:39.107905+00:00
 -- url     : https://prove2.me/theorems/bba87277-a974-4eb2-8f74-0d95f2ba28b3

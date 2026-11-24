@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Sesquilinear_eq_zero_of_diag_eq_zero
 -- name    : GlobalTheory.CompanionTheory.Sesquilinear.eq_zero_of_diag_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:12:37.559581+00:00
 -- url     : https://prove2.me/theorems/6a799802-14e0-4172-b91c-8dce500345df

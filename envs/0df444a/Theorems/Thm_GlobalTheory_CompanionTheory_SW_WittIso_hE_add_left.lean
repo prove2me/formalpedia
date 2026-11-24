@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittIso_hE_add_left
 -- name    : GlobalTheory.CompanionTheory.SW.WittIso.hE_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:12:50.444695+00:00
 -- url     : https://prove2.me/theorems/44f8367d-b143-4519-85b8-b13c750df70d

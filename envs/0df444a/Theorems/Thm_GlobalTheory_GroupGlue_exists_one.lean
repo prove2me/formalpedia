@@ -1,0 +1,41 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_GroupGlue_exists_one
+-- name    : GlobalTheory.GroupGlue.exists_one
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-24T13:57:53.032912+00:00
+-- url     : https://prove2.me/theorems/75f41c7c-5b0a-40d3-a5ea-6d29fcf2095b
+-- title:
+--   Group Glue: exists one
+-- statement:
+--   The Group Glue construction uses the exists one property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/ModuliProofs/IsSemiAbelianOfCharts.lean#L147-L169
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/ModuliProofs/IsSemiAbelianOfCharts.lean#L147-L169
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_BCTools
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_SABBaseChangeSt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_SabPull
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ModuliProofs_IsSemiAbelianOfCharts
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
+open scoped CategoryTheory.Obj
+noncomputable section
+open GlobalTheory GlobalTheory.GroupGlue
+variable {X : Scheme.{0}} (𝒰 : X.OpenCover.{0})
+variable {𝒰} {G : Over X} {H : ∀ i, Over (𝒰.X i)} {ψ : ∀ i, (H i).left ⟶ G.left}
+variable [∀ i, GrpObj (H i)]
+
+theorem GlobalTheory.GroupGlue.exists_one (hm : MulCompat ψ) (hψ : ∀ i, IsPullback (ψ i) (H i).hom G.hom (𝒰.f i)) :
+    ∃ e : 𝟙_ (Over X) ⟶ G, ∀ (i : 𝒰.I₀) (S : Scheme.{0}) (u : S ⟶ 𝒰.X i) (T : Over X)
+      (g : S ⟶ T.left), u ≫ 𝒰.f i = g ≫ T.hom →
+        (1 : Over.mk u ⟶ H i).left ≫ ψ i = g ≫ (toUnit T ≫ e).left := by sorry

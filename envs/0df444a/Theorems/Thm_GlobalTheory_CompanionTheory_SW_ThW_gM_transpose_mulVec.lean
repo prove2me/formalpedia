@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_gM_transpose_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.gM_transpose_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:16.960062+00:00
 -- url     : https://prove2.me/theorems/90e6fc94-c949-4817-aa2b-b33f44173fe2

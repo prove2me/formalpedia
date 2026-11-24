@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Mirrors_exists_factor_eq
 -- name    : GlobalTheory.CompanionTheory.TyFin.Mirrors.exists_factor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:23.145807+00:00
 -- url     : https://prove2.me/theorems/04962466-c0b9-4c24-8f2d-fbd5e0d0ca3d

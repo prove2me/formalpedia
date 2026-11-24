@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Slice_continuous_theta
 -- name    : GlobalTheory.CompanionTheory.SW.Slice.continuous_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:11:00.545467+00:00
 -- url     : https://prove2.me/theorems/b615f5e9-067e-4d7c-8365-de3e59ed80f0

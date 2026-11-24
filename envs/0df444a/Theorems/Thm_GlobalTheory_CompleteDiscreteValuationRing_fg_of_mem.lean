@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteDiscreteValuationRing_fg_of_mem
 -- name    : GlobalTheory.CompleteDiscreteValuationRing.fg_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:24:55.191021+00:00
 -- url     : https://prove2.me/theorems/03a055d6-1dfb-4a4f-9c7c-4da89f696933

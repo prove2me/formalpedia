@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_Scaled_fixed_decomp
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.Scaled.fixed_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:13:35.6728+00:00
 -- url     : https://prove2.me/theorems/354986fd-daed-40db-9f60-e441dbdec637

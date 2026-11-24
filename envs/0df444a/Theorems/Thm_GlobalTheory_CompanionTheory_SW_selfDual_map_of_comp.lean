@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_selfDual_map_of_comp
 -- name    : GlobalTheory.CompanionTheory.SW.selfDual_map_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:12:19.842002+00:00
 -- url     : https://prove2.me/theorems/cc93be35-ecef-4176-8e99-a88cbdbac7c0

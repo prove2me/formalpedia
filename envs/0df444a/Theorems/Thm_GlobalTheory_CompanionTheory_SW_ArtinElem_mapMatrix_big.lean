@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArtinElem_mapMatrix_big
 -- name    : GlobalTheory.CompanionTheory.SW.ArtinElem.mapMatrix_big
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:01:19.334131+00:00
 -- url     : https://prove2.me/theorems/6816a271-98f5-4ed2-839a-731b74d77c13

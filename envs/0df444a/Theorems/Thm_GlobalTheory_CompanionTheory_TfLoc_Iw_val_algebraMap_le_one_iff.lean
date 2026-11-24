@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_val_algebraMap_le_one_iff
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.val_algebraMap_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:16:53.638956+00:00
 -- url     : https://prove2.me/theorems/4b6dcd1f-6b40-47a9-be1d-1156b874288a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeAlg_hk_alg
 -- name    : GlobalTheory.CompanionTheory.HeckeAlg.hk_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:45:31.139207+00:00
 -- url     : https://prove2.me/theorems/51c66cfa-2969-4259-a011-a79d1fa94414

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisTwist_wall_twist
 -- name    : GlobalTheory.CompanionTheory.RgEisTwist.wall_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:00:13.096327+00:00
 -- url     : https://prove2.me/theorems/7cc49293-fec7-45a2-bc0c-8b31b2e3eb19

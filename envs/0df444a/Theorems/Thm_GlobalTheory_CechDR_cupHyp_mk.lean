@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_cupHyp_mk
 -- name    : GlobalTheory.CechDR.cupHyp_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:35:21.445853+00:00
 -- url     : https://prove2.me/theorems/8590ca44-4813-45b0-8350-b8052b6f76e0

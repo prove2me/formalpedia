@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ModDet_pi_map_diag
 -- name    : GlobalTheory.CompanionTheory.SW.ModDet.pi_map_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:08:24.856232+00:00
 -- url     : https://prove2.me/theorems/b723ad73-a574-42b8-8fcd-fb0afaca435b

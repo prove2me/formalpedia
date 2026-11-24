@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitPlace_not_isField_of_split
 -- name    : GlobalTheory.SplitPlace.not_isField_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:26:04.884456+00:00
 -- url     : https://prove2.me/theorems/ad81ec60-7853-4582-8632-9373143374c4

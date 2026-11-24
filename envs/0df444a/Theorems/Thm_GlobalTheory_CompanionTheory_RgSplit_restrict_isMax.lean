@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgSplit_restrict_isMax
 -- name    : GlobalTheory.CompanionTheory.RgSplit.restrict_isMax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:59:58.646042+00:00
 -- url     : https://prove2.me/theorems/70f292f4-b087-47ff-9c63-08686e3cddb0

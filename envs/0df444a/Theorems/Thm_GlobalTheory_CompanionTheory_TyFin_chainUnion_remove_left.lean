@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_chainUnion_remove_left
 -- name    : GlobalTheory.CompanionTheory.TyFin.chainUnion_remove_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:31.917152+00:00
 -- url     : https://prove2.me/theorems/bf0a577e-3a50-42d7-b57b-25921c14ea48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitRow_IdxV_relIndex_ball
 -- name    : GlobalTheory.CompanionTheory.SplitRow.IdxV.relIndex_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:15:13.962785+00:00
 -- url     : https://prove2.me/theorems/534465e1-4c19-488c-8ab3-e366f72884ff

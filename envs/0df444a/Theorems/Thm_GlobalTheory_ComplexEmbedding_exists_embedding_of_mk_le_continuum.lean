@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexEmbedding_exists_embedding_of_mk_le_continuum
 -- name    : GlobalTheory.ComplexEmbedding.exists_embedding_of_mk_le_continuum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:25:24.591559+00:00
 -- url     : https://prove2.me/theorems/a0976fc8-4731-4cf8-bec4-023e17b30f12

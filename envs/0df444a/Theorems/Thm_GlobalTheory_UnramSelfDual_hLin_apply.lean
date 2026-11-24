@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_hLin_apply
 -- name    : GlobalTheory.UnramSelfDual.hLin_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:40:07.70264+00:00
 -- url     : https://prove2.me/theorems/313aa023-e45e-4f60-8817-f51fc2c78774

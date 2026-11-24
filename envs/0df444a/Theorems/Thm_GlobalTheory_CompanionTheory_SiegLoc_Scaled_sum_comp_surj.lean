@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_Scaled_sum_comp_surj
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.Scaled.sum_comp_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:13:53.538482+00:00
 -- url     : https://prove2.me/theorems/52f844b4-07d0-4aa9-9333-b54a39052bf7

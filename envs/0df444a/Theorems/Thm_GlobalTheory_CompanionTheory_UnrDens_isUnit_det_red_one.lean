@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_isUnit_det_red_one
 -- name    : GlobalTheory.CompanionTheory.UnrDens.isUnit_det_red_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:20:33.425351+00:00
 -- url     : https://prove2.me/theorems/2edd2eb3-6bb5-4fc0-baf7-8bf9bebfad93

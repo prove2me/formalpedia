@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_GaussFlat_swapCurry_measurePreserving
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.GaussFlat.swapCurry_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:11:05.587551+00:00
 -- url     : https://prove2.me/theorems/2f25745f-c3a0-4f6b-8f42-b28718287a8c

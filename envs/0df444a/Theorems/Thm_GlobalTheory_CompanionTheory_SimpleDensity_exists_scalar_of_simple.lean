@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SimpleDensity_exists_scalar_of_simple
 -- name    : GlobalTheory.CompanionTheory.SimpleDensity.exists_scalar_of_simple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:14:58.532546+00:00
 -- url     : https://prove2.me/theorems/a025111f-2a59-42a0-bd35-55f805099574

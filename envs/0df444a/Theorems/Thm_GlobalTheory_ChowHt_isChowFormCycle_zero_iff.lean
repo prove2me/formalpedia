@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_isChowFormCycle_zero_iff
 -- name    : GlobalTheory.ChowHt.isChowFormCycle_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:30:19.462945+00:00
 -- url     : https://prove2.me/theorems/5b5688f2-058f-4b4c-b640-254ecbce1237

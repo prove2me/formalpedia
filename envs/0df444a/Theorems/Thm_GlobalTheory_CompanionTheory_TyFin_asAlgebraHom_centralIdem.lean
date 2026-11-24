@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_asAlgebraHom_centralIdem
 -- name    : GlobalTheory.CompanionTheory.TyFin.asAlgebraHom_centralIdem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:18:53.60465+00:00
 -- url     : https://prove2.me/theorems/fde01287-6666-4609-a52d-779a350b3eda

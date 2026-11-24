@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_inv_int
 -- name    : Formalism.L2.DIV.b_inv_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:22:36.825793+00:00
 -- url     : https://prove2.me/theorems/cafe1ccd-2a01-4da6-9801-47cc8ef1f632

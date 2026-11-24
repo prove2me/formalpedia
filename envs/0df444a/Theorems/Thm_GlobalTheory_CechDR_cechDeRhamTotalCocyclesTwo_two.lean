@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_cechDeRhamTotalCocyclesTwo_two
 -- name    : GlobalTheory.CechDR.cechDeRhamTotalCocyclesTwo.two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:35:29.90323+00:00
 -- url     : https://prove2.me/theorems/b579ae47-cb78-4e6b-9b0a-fc2c2993c280

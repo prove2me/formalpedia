@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_nI_submatrix
 -- name    : GlobalTheory.CompanionTheory.Wedge.nI_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:21:36.057146+00:00
 -- url     : https://prove2.me/theorems/fc56dab7-6f38-4630-9481-f40afc1b97a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_lintegral_one_add_normSq_rpow_ne_top
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.lintegral_one_add_normSq_rpow_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:13:06.645012+00:00
 -- url     : https://prove2.me/theorems/d937cc30-f2e0-4f0f-b9fd-05ad3a505cb3

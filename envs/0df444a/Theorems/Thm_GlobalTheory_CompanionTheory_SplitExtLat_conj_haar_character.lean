@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitExtLat_conj_haar_character
 -- name    : GlobalTheory.CompanionTheory.SplitExtLat.conj_haar_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:53.209575+00:00
 -- url     : https://prove2.me/theorems/45dd9eca-287e-4e18-bc1a-6c2f77c06bcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DetScale_map_mulVec_eq_smul
 -- name    : GlobalTheory.CompanionTheory.SW.DetScale.map_mulVec_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:03:39.68648+00:00
 -- url     : https://prove2.me/theorems/12c65dad-2a0b-4772-87e2-28cc6cb4b8a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_euclNorm_eq_euclideanSpace_norm
 -- name    : Formalism.HermitianLatticeCounting.P.euclNorm_eq_euclideanSpace_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:29:30.714842+00:00
 -- url     : https://prove2.me/theorems/355de7b3-d053-407f-8d6a-505f159c4867

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_hVCoeff
 -- name    : Formalism.REAL.hVCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:13:50.7108+00:00
 -- url     : https://prove2.me/theorems/36225fb2-573b-4645-ac0f-594a3fd9b855

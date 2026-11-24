@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_exists_unit_mul_eq_abs
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.exists_unit_mul_eq_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:16:13.794944+00:00
 -- url     : https://prove2.me/theorems/c52e487c-a6b9-472a-ac23-91c11e05f00e

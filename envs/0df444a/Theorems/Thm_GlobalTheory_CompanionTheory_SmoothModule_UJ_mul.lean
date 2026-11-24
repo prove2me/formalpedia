@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_UJ_mul
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.UJ_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:21.467005+00:00
 -- url     : https://prove2.me/theorems/65c92871-5cfe-4784-95ff-b6fe5e880291

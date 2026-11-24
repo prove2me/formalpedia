@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_omega_unifAt
 -- name    : GlobalTheory.CMVal.Euler.omega_unifAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:18:50.952847+00:00
 -- url     : https://prove2.me/theorems/5d153617-4eb4-4b16-ad8a-1c6c544d9108

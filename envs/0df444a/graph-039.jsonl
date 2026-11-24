@@ -16332,9 +16332,9 @@
 {"parent": "ReciprocityTheory.L2DbarEstimates.F.closIneq_lint_ip_le", "child": "ReciprocityTheory_L2DbarEstimates_Localization_UnweightBackStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.L2DbarEstimates.F.closIneq_lint_ip_le", "child": "ReciprocityTheory.L2DbarEstimates.CkR.ofReal", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.L2DbarEstimates.F.closIneq_lint_ip_le", "child": "ReciprocityTheory_L2DbarEstimates_Localization_Closure", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.PGsh.Ainf.theta_xi", "child": "ReciprocityTheory_DualLattices_ATowerInh", "via": ["statement"]}
-{"parent": "ReciprocityTheory.PGsh.Ainf.theta_xi", "child": "ReciprocityTheory_DualLattices_Imports", "via": ["statement"]}
-{"parent": "ReciprocityTheory.PGsh.Ainf.theta_xi", "child": "ReciprocityTheory_DualLattices_AinfFacts", "via": ["statement"]}
+{"parent": "ReciprocityTheory.PGsh.Ainf.theta_xi", "child": "ReciprocityTheory_DualLattices_ATowerInh", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.PGsh.Ainf.theta_xi", "child": "ReciprocityTheory_DualLattices_Imports", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.PGsh.Ainf.theta_xi", "child": "ReciprocityTheory_DualLattices_AinfFacts", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.dimPol_ratio", "child": "Formalism_PolynomialDimension_MultinomialDepth_HarmonicLevelCountRec", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.dimPol_ratio", "child": "Formalism_PolynomialDimension_DigitClassSize", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.borderedMatrix_castSucc", "child": "Formalism_PolynomialDimension_FrameSum", "via": ["solution", "statement"]}
@@ -75368,8 +75368,8 @@
 {"parent": "GlobalTheory.CompanionTheory.Equi.CosetStep.exists_mem_pow_not_mem", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CosetOff", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Equi.CosetStep.exists_mem_pow_not_mem", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CosetCongruenceRefinement", "via": ["solution", "statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_TorsionTranslationPowers_StatementU", "child": "Formalism_LocalToGlobal_TorsionIntegrality_TorsionTranslationPowers_IsTransSys", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.isLocR_Ainf", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_InfiniteAdelesLocalRingTotallyReal", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.isLocR_Ainf", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.isLocR_Ainf", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_InfiniteAdelesLocalRingTotallyReal", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.isLocR_Ainf", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.UnrDens.NormUnit.nontrivial_of_resAlg", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_NormFibreCardNonzero", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.UnrDens.NormUnit.nontrivial_of_resAlg", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["solution", "statement"]}
 {"parent": "MultiViewRedundancy.general_direct_embedding", "child": "MultiViewRedundancy_Basic", "via": ["statement"]}
@@ -79308,8 +79308,8 @@
 {"parent": "GroundTheory.Automorphic.L2Kernel.kernelOp_toLp_apply_ae", "child": "GroundTheory_AutomorphicForms_HilbertSchmidtKernel", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.L2Kernel.kernelOp_toLp_apply_ae", "child": "GroundTheory_AutomorphicForms_HilbertSchmidt", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsDerivationsDualToFamilyOfNilpotentAugStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsDerivationsDualToFamilyOfNilpotentAug", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.RgTransfer.hOf_eq", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_StripEntire", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.RgTransfer.hOf_eq", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CorrESymmCoe", "via": ["statement"]}
+{"parent": "GlobalTheory.CompanionTheory.RgTransfer.hOf_eq", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_StripEntire", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.RgTransfer.hOf_eq", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CorrESymmCoe", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SplitFlip.CondLE.mul", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_RankEqCardIffExistsFrameMatrixFirstColumnBlock", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SplitFlip.CondLE.mul", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_T2SpaceGeneralLinearGroup", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ThK.Dbl.An.BC.comp", "child": "Development_WeilBound_ThetaLifts_LatticeBasics_FarRight", "via": ["solution", "statement"]}
@@ -80167,13 +80167,13 @@
 {"parent": "PositivityTheory.Rg.Sw.LC.Basic.DegLT.smul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.UnrDens.NormZero.finite_of_resAlg", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.UnrDens.NormZero.finite_of_resAlg", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_NormFibreCardZero", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_TensorLocallyCompactRing", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_TensorLocallyCompactRingStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_HermitianMatricesLocallyCompactBorel", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ExistsContinuousScale", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_UnitsOpenEmbeddingLocalTensorStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_UnitsOpenEmbeddingLocalTensor", "via": ["statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_TensorLocallyCompactRing", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_TensorLocallyCompactRingStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_HermitianMatricesLocallyCompactBorel", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ExistsContinuousScale", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_UnitsOpenEmbeddingLocalTensorStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.HaarScale.exists_continuous_scale", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_UnitsOpenEmbeddingLocalTensor", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.inG_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.inG_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.inG_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["solution", "statement"]}
@@ -80551,9 +80551,9 @@
 {"parent": "RH1E6S17.group_001", "child": "ArdaRS_Config64", "via": ["statement"]}
 {"parent": "RH1E6S17.group_001", "child": "ArdaRS_Arithmetic", "via": ["statement"]}
 {"parent": "RH1E6S17.group_001", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.Mass.MeanV.support_finite", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TsumNeZeroEqSum", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.Mass.MeanV.support_finite", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ExistsIntegralMultipleBoundedPlacesStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.Mass.MeanV.support_finite", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TruncSum", "via": ["statement"]}
+{"parent": "GlobalTheory.CompanionTheory.Mass.MeanV.support_finite", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TsumNeZeroEqSum", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.Mass.MeanV.support_finite", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ExistsIntegralMultipleBoundedPlacesStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.Mass.MeanV.support_finite", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TruncSum", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.contDiff_evUV", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundB", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.contDiff_evUV", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBound", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.CK.ipeel0", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_DetDFin", "via": ["solution", "statement"]}
@@ -84419,8 +84419,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.FrameLevelIndices.first_congruence_eq_reduction_comap", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ReductionSurjective", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.FrameLevelIndices.first_congruence_eq_reduction_comap", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LduDecompositionExists", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.FrameLevelIndices.first_congruence_eq_reduction_comap", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FrameLevelIndices", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.CompanionTheory.QL.NormalisedValue.nrm_le_one_iff", "child": "Development_AutomorphicSpectrum_Definitions_GlobalGeometry_InstBorelGL", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.QL.NormalisedValue.nrm_le_one_iff", "child": "Development_AutomorphicSpectrum_Proofs_GlobalProofs_LocalFieldUniformizerNormProperties", "via": ["statement"]}
+{"parent": "GlobalTheory.CompanionTheory.QL.NormalisedValue.nrm_le_one_iff", "child": "Development_AutomorphicSpectrum_Definitions_GlobalGeometry_InstBorelGL", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.QL.NormalisedValue.nrm_le_one_iff", "child": "Development_AutomorphicSpectrum_Proofs_GlobalProofs_LocalFieldUniformizerNormProperties", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_LeftColumnsMulVecInjectiveOfRankEqCardStatement", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_LeftColumnsMulVecInjectiveOfRankEqCard", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_LeftColumnsMulVecInjectiveOfRankEqCardStatement", "child": "Development_AbelianVarietyTheory_BlockTheory_TwistedDiscreteSeries_OpenClosedSequences", "via": ["statement"]}
 {"parent": "RH1E6S17.group_011", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
@@ -87946,7 +87946,7 @@
 {"parent": "PI.AlgValsFin.W.inv_mem_UFin", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AlgebraicValuesFinite_ClassSame", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Jx5.thrP_norm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SupremumAIsMajorant", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Jx5.thrP_norm", "child": "Formalism_HermitianCurvature_StatementJ", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.CompanionTheory.AdmGL.isUnit_blk_iff", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_BlkConjTranspose", "via": ["statement"]}
+{"parent": "GlobalTheory.CompanionTheory.AdmGL.isUnit_blk_iff", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_BlkConjTranspose", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.MeanBoundsLimits.lim_of_tendsto", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_MeanBoundsLimits", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.MeanBoundsLimits.lim_of_tendsto", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_MiddleThirdEstimate", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.MeanBoundsLimits.lim_of_tendsto", "child": "Formalism_HermitianCurvature_LatticeHerglotzBound", "via": ["solution", "statement"]}
@@ -89252,8 +89252,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.LEx1.norm_add_sq_le", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LemmaEprimeFromSteps", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.InverseBoundedFixedPoint.Adic.sqrt_symm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SubmoduleMultiplication", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.InverseBoundedFixedPoint.Adic.sqrt_symm", "child": "Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.T.digamma_log_bound_right_half_plane", "child": "Development_AutomorphicSpectrum_Proofs_GlobalProofs_DigammaLogBoundRightHalfPlane", "via": ["statement"]}
-{"parent": "GlobalTheory.T.digamma_log_bound_right_half_plane", "child": "Development_AutomorphicSpectrum_Proofs_GlobalProofs_DigammaLogBoundRightHalfPlaneStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.T.digamma_log_bound_right_half_plane", "child": "Development_AutomorphicSpectrum_Proofs_GlobalProofs_DigammaLogBoundRightHalfPlane", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.digamma_log_bound_right_half_plane", "child": "Development_AutomorphicSpectrum_Proofs_GlobalProofs_DigammaLogBoundRightHalfPlaneStatement", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.LevelGrowthBounds.one_le_Pp", "child": "Formalism_HermitianCurvature_LevelRecursionCondNeeded", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.LevelGrowthBounds.one_le_Pp", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LevelGrowthBounds", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.OrbitalIntegralReduction.tk_bx_eq_S", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralReduction", "via": ["solution", "statement"]}
@@ -99091,8 +99091,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnitTraceUnramifiedExtensionStatement", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_OverExtAlgebraMap", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnitTraceUnramifiedExtensionStatement", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_MemRangeOfValNonneg", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnitTraceUnramifiedExtensionStatement", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnitTraceUnramifiedExtension", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.Schur.schurL", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LintegralWeightedSqLe", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.Schur.schurL", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_ThetaCellCovers_KernelL2RowsColumns", "via": ["statement"]}
+{"parent": "GlobalTheory.CompanionTheory.Schur.schurL", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LintegralWeightedSqLe", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.Schur.schurL", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_ThetaCellCovers_KernelL2RowsColumns", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17.part_030_2", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S17.part_030_2", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S17.part_030_2", "child": "ArdaRH65K_RS_B2", "via": ["statement"]}

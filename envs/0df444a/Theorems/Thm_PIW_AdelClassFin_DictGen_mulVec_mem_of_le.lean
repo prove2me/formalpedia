@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictGen_mulVec_mem_of_le
 -- name    : PIW.AdelClassFin.DictGen.mulVec_mem_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:29:33.566806+00:00
 -- url     : https://prove2.me/theorems/c3e9bf40-c5ea-408a-a782-47d2b1654264

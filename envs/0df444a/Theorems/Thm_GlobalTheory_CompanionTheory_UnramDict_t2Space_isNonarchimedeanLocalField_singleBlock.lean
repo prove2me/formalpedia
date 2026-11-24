@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnramDict_t2Space_isNonarchimedeanLocalField_singleBlock
 -- name    : GlobalTheory.CompanionTheory.UnramDict.t2Space_isNonarchimedeanLocalField_singleBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:21:02.13682+00:00
 -- url     : https://prove2.me/theorems/054ee867-d82d-497c-9f17-196a6c5fa3b5

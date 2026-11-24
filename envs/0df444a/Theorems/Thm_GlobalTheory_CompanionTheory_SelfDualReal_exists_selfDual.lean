@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualReal_exists_selfDual
 -- name    : GlobalTheory.CompanionTheory.SelfDualReal.exists_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:15:46.842189+00:00
 -- url     : https://prove2.me/theorems/e64d9107-4302-49a9-b5f9-e02794e6b318

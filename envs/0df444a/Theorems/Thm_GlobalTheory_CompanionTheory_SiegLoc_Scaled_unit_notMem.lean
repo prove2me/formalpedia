@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_Scaled_unit_notMem
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.Scaled.unit_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:13:59.178847+00:00
 -- url     : https://prove2.me/theorems/f82b7c64-24f5-4cde-92a0-8297468c527a

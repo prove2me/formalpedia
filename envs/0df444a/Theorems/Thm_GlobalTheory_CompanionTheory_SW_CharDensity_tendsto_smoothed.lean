@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharDensity_tendsto_smoothed
 -- name    : GlobalTheory.CompanionTheory.SW.CharDensity.tendsto_smoothed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:59:54.104974+00:00
 -- url     : https://prove2.me/theorems/e32eca05-59d1-438a-937c-53c02455cbd2

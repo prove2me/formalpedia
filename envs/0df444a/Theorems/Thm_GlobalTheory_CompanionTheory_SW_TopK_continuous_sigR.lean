@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TopK_continuous_sigR
 -- name    : GlobalTheory.CompanionTheory.SW.TopK.continuous_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:11:14.155425+00:00
 -- url     : https://prove2.me/theorems/8d15d42a-4807-4646-a6ca-b04b09859a42

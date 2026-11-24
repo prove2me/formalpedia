@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_measurable_zeroCnt
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.measurable_zeroCnt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:40:08.827804+00:00
 -- url     : https://prove2.me/theorems/5cfccf78-b2b3-4a40-a6bb-251f8d1bcd77

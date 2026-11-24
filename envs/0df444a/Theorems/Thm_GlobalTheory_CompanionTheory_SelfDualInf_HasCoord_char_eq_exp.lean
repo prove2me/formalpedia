@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_HasCoord_char_eq_exp
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.HasCoord.char_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:38:37.15012+00:00
 -- url     : https://prove2.me/theorems/e61a2708-3909-40ee-a1d2-6f6e6a74a4af

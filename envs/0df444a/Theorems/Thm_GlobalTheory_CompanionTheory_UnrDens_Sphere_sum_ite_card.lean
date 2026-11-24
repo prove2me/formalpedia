@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_Sphere_sum_ite_card
 -- name    : GlobalTheory.CompanionTheory.UnrDens.Sphere.sum_ite_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:20.041873+00:00
 -- url     : https://prove2.me/theorems/9b8ad0fb-0312-46d6-b10b-8d3bba6c8909

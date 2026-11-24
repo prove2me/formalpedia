@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeNorm_wedge_fromCols_le
 -- name    : GlobalTheory.CompanionTheory.WedgeNorm.wedge_fromCols_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:20.386633+00:00
 -- url     : https://prove2.me/theorems/87f9352d-225e-496c-a156-3d1646e5f446

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_red_surj_one
 -- name    : GlobalTheory.CompanionTheory.UnrDens.red_surj_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:22:13.761409+00:00
 -- url     : https://prove2.me/theorems/1975487c-3415-402c-8823-53f94d27414c

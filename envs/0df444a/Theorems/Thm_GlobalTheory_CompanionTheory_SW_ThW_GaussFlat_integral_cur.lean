@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_GaussFlat_integral_cur
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.GaussFlat.integral_cur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:10:54.622461+00:00
 -- url     : https://prove2.me/theorems/9c1b3046-e33e-42bf-a15a-5644b3af34e9

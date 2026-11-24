@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_HenselStep_red_surjective
 -- name    : GlobalTheory.CompanionTheory.UnrDens.HenselStep.red_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:20:55.487721+00:00
 -- url     : https://prove2.me/theorems/071b463e-7495-44f8-9e09-467218500d67

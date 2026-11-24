@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubsetSum_esymm_one_eq_sum
 -- name    : GlobalTheory.CompanionTheory.SubsetSum.esymm_one_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:14:32.221935+00:00
 -- url     : https://prove2.me/theorems/facb918b-4eeb-45a9-b5b8-5c48431b1c2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Tri_aMat_gram
 -- name    : GlobalTheory.CompanionTheory.SW.Tri.aMat_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:10:53.565634+00:00
 -- url     : https://prove2.me/theorems/86a8acf7-fbcd-4132-9fbe-ce0ea5efccf8

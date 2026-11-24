@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Transversal_sum_add_eq_sum
 -- name    : GlobalTheory.CompanionTheory.Transversal.sum_add_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:16:19.333016+00:00
 -- url     : https://prove2.me/theorems/ba55802e-4909-4d5e-92c4-2caa45c72b59

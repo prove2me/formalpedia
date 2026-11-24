@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_sigR_algebraMap
 -- name    : GlobalTheory.UnramSelfDual.sigR_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:08.44993+00:00
 -- url     : https://prove2.me/theorems/833133bd-0a9d-44d3-ac9d-707e9f1adb81

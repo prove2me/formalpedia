@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_weight_vectors_stable
 -- name    : Formalism.REAL.weight_vectors_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:15:27.705805+00:00
 -- url     : https://prove2.me/theorems/23487aa8-8b8a-4524-b375-1300c559b6f8

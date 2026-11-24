@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinSamePart_ip_coe
 -- name    : GlobalTheory.CompanionTheory.TyFinSamePart.ip_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:18:35.092855+00:00
 -- url     : https://prove2.me/theorems/a2e6be96-4a4f-4425-97f8-74ecabb74461

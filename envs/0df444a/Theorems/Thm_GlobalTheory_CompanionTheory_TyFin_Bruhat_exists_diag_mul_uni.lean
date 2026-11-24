@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Bruhat_exists_diag_mul_uni
 -- name    : GlobalTheory.CompanionTheory.TyFin.Bruhat.exists_diag_mul_uni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:18:05.754101+00:00
 -- url     : https://prove2.me/theorems/93cdf1f0-a02c-460e-8279-29581b5d7b30

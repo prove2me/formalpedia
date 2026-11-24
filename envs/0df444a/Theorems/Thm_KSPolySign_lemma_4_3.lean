@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KSPolySign_lemma_4_3
 -- name    : KSPolySign.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:34:03.466198+00:00
 -- url     : https://prove2.me/theorems/18dd1b96-dec5-4a53-a2c7-bf57097eb3fa

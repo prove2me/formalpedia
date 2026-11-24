@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_StdLattice_psi_dot
 -- name    : GlobalTheory.CompanionTheory.StdLattice.psi_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:14:35.149852+00:00
 -- url     : https://prove2.me/theorems/defd4390-66ea-42d1-a539-f73982bb0bde

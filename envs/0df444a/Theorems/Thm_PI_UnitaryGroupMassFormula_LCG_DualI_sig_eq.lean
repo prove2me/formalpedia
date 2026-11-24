@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DualI_sig_eq
 -- name    : PI.UnitaryGroupMassFormula.LCG.DualI.sig_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:49:52.271818+00:00
 -- url     : https://prove2.me/theorems/42ab804f-a721-4e91-a5a4-d9bc37e27b27

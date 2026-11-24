@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Avg_mul_entry
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Avg.mul_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:17:00.260787+00:00
 -- url     : https://prove2.me/theorems/a9677f57-2406-4376-9d92-3f8cfc3207a9

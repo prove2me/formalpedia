@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kOrth
 -- name    : Formalism.REAL.kOrth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:14:21.9138+00:00
 -- url     : https://prove2.me/theorems/a3f56875-e4b9-4adb-b2aa-8fe6febe54b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_HasCoord_secondCountable
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.HasCoord.secondCountable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:38:43.078806+00:00
 -- url     : https://prove2.me/theorems/a8e9ce32-df20-4eaf-afac-e0caf38766bd

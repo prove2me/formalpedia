@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_toA_dotProduct_Bf
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.toA_dotProduct_Bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:11:01.084672+00:00
 -- url     : https://prove2.me/theorems/1d0dbb2b-b97b-478d-a0a7-4570f9b04323

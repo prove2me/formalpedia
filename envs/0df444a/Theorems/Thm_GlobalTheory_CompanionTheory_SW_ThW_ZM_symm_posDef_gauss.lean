@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_ZM_symm_posDef_gauss
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.ZM_symm_posDef_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:14.016214+00:00
 -- url     : https://prove2.me/theorems/8e4eccbc-9d4a-498f-a6be-9a7434460af1

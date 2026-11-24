@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_inG_conj
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.inG_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:14:47.589785+00:00
 -- url     : https://prove2.me/theorems/dacee004-5836-4821-a6e4-08ee54f91c95

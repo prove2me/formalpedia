@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_GramDiff_card_fibre_mul
 -- name    : GlobalTheory.CompanionTheory.UnrDens.GramDiff.card_fibre_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:19:32.021211+00:00
 -- url     : https://prove2.me/theorems/457e8b76-26ab-47a0-aeda-67bce5fb2336

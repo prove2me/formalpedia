@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_exponential_surjective
 -- name    : Formalism.REAL.compact_exponential_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:55:28.416827+00:00
 -- url     : https://prove2.me/theorems/56f281f3-8e2b-4827-94e0-13dd74f3ab5e

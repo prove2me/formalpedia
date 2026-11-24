@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Transversal_card_eq_relIndex
 -- name    : GlobalTheory.CompanionTheory.Transversal.card_eq_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:16:18.702945+00:00
 -- url     : https://prove2.me/theorems/4c44395d-bbca-42e7-b631-d92026f7d1d1

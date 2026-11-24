@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TraceCoord_sigR_smul
 -- name    : GlobalTheory.CompanionTheory.SW.TraceCoord.sigR_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:12:15.149979+00:00
 -- url     : https://prove2.me/theorems/d7b7ab21-9b5d-4bfd-9428-58d0cae5683b

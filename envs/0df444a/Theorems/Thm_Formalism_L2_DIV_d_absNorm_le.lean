@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_d_absNorm_le
 -- name    : Formalism.L2.DIV.d_absNorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:22:51.360797+00:00
 -- url     : https://prove2.me/theorems/c5f27a1d-24fa-45cb-a0a6-867ae30f1309

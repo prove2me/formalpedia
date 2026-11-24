@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StageValue_isUnit_det_map
 -- name    : GlobalTheory.CompanionTheory.SW.StageValue.isUnit_det_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:09:59.303365+00:00
 -- url     : https://prove2.me/theorems/e060ec92-95ea-420a-abbb-291a29aa3b0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinSamePart_blkGL_ren
 -- name    : GlobalTheory.CompanionTheory.TyFinSamePart.blkGL_ren
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:18:22.60984+00:00
 -- url     : https://prove2.me/theorems/dc365527-2550-474b-a77e-c0bc7c49092f

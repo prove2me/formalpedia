@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_RatCoord_ofF_gram_iff
 -- name    : GlobalTheory.CompanionTheory.SW.BB.RatCoord.ofF_gram_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:00:47.186884+00:00
 -- url     : https://prove2.me/theorems/d348a52d-0b79-4df2-a259-a233e0a796ea

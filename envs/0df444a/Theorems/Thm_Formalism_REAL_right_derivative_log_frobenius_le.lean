@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_right_derivative_log_frobenius_le
 -- name    : Formalism.REAL.right_derivative_log_frobenius_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:41:41.272881+00:00
 -- url     : https://prove2.me/theorems/dd37e3be-797a-4ce7-b6f8-56932c51cba7

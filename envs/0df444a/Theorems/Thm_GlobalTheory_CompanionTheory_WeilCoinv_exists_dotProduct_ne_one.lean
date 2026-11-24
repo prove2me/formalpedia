@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilCoinv_exists_dotProduct_ne_one
 -- name    : GlobalTheory.CompanionTheory.WeilCoinv.exists_dotProduct_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:24.754258+00:00
 -- url     : https://prove2.me/theorems/b2624e8f-6ea0-44b5-8081-4f2ebf251d64

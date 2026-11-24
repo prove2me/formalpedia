@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_Emb_cT_one_sq
 -- name    : GlobalTheory.CompanionTheory.UnrDens.Emb.cT_one_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:20:59.173979+00:00
 -- url     : https://prove2.me/theorems/e46cd703-2b1e-49eb-a565-9af44fe8b057

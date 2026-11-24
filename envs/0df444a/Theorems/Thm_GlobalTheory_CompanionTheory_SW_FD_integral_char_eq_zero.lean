@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FD_integral_char_eq_zero
 -- name    : GlobalTheory.CompanionTheory.SW.FD.integral_char_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:27.592456+00:00
 -- url     : https://prove2.me/theorems/7f50c8d7-639a-4ec2-a6a9-c29224154de9

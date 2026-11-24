@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_embeddedInducedBlowupsWithoutIso_eq
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.embeddedInducedBlowupsWithoutIso_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:15:14.929078+00:00
 -- url     : https://prove2.me/theorems/f0f0164b-1619-4f6b-9d50-2779f8a7c51b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_algebraMap_eq_pairA
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.algebraMap_eq_pairA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:23:20.342342+00:00
 -- url     : https://prove2.me/theorems/86049e09-bcad-4bc0-877e-ffc807e71819

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ScRefExists_GlueA_inclE_mem__77a822732bed
 -- name    : P2M_PI_ScRefExists_GlueA_inclE_mem__77a822732bed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:55:44.673018+00:00
 -- url     : https://prove2.me/theorems/b0ec02ac-5ca0-4301-b0f3-bd59001a389e

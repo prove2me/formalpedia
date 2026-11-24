@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_digamma_log_bound_right_half_plane
 -- name    : GlobalTheory.T.digamma_log_bound_right_half_plane
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:27:38.028394+00:00
 -- url     : https://prove2.me/theorems/faa5df0f-0d1d-4113-a8c4-2675b65d165f

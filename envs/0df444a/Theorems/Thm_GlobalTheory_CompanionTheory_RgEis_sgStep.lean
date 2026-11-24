@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_sgStep
 -- name    : GlobalTheory.CompanionTheory.RgEis.sgStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:57:04.155387+00:00
 -- url     : https://prove2.me/theorems/7c1d7521-ace1-4a08-aff6-17ede3ef4180

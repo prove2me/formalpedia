@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_cge_Pj_monomial
 -- name    : Formalism.MainNotions.PlaneGram.cge_Pj_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:06:00.662927+00:00
 -- url     : https://prove2.me/theorems/6487fd74-acd3-46a7-b022-a7dca6a4c5c4

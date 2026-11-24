@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubEig_quot_irred
 -- name    : GlobalTheory.CompanionTheory.SubEig.quot_irred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:14:24.393279+00:00
 -- url     : https://prove2.me/theorems/6e39f7d8-4762-4c7e-a8ff-efcc574d5dc9

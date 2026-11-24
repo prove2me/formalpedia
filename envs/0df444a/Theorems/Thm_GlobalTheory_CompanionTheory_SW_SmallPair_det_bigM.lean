@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SmallPair_det_bigM
 -- name    : GlobalTheory.CompanionTheory.SW.SmallPair.det_bigM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:09:54.0218+00:00
 -- url     : https://prove2.me/theorems/ca2d1c77-30ce-4282-928d-378451360165

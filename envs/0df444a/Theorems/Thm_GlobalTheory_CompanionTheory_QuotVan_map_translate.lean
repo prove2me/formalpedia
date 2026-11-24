@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuotVan_map_translate
 -- name    : GlobalTheory.CompanionTheory.QuotVan.map_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:58:09.222567+00:00
 -- url     : https://prove2.me/theorems/01cb8845-fb36-4681-a28e-3993099ed069

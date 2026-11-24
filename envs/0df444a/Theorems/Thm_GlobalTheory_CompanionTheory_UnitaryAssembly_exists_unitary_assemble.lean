@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnitaryAssembly_exists_unitary_assemble
 -- name    : GlobalTheory.CompanionTheory.UnitaryAssembly.exists_unitary_assemble
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:35.923059+00:00
 -- url     : https://prove2.me/theorems/d4a62040-8a0b-4921-bf34-a6d48270a89e

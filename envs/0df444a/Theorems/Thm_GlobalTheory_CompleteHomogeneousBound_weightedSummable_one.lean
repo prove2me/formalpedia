@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteHomogeneousBound_weightedSummable_one
 -- name    : GlobalTheory.CompleteHomogeneousBound.weightedSummable_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:24:49.722012+00:00
 -- url     : https://prove2.me/theorems/a8c1c40e-f0e0-4c14-9175-b061019a14eb

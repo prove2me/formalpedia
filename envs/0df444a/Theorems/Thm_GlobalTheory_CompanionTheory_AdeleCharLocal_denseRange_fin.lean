@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_denseRange_fin
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.denseRange_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:24:03.015331+00:00
 -- url     : https://prove2.me/theorems/7e19bde3-8cab-41ad-8659-8cfeede7ae28

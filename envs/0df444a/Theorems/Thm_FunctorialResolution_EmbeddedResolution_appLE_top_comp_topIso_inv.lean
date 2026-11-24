@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_appLE_top_comp_topIso_inv
 -- name    : FunctorialResolution.EmbeddedResolution.appLE_top_comp_topIso_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:16:46.76113+00:00
 -- url     : https://prove2.me/theorems/57642706-ff3a-46e3-84d2-cee4932a09b1

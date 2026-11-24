@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Bruhat_isBlockUT_conj
 -- name    : GlobalTheory.CompanionTheory.TyFin.Bruhat.isBlockUT_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:17:53.515025+00:00
 -- url     : https://prove2.me/theorems/cba6f071-9e3d-4a06-a00a-b7baeea103c3

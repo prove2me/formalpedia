@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_topologicalKrullDim_spec_lt_top
 -- name    : FunctorialResolution.EmbeddedResolution.topologicalKrullDim_spec_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:04:54.843232+00:00
 -- url     : https://prove2.me/theorems/11004d70-07e9-4414-8f21-dac8c6bb1916

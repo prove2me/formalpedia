@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr8_star_GGi
 -- name    : Formalism.FourierDecayAlt.P.Fr8.star_GGi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:04:15.658933+00:00
 -- url     : https://prove2.me/theorems/a20139d3-f79b-4e00-85bf-c950208dafa0

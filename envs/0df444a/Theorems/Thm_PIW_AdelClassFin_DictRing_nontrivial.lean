@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictRing_nontrivial
 -- name    : PIW.AdelClassFin.DictRing.nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:29:59.811964+00:00
 -- url     : https://prove2.me/theorems/ae6088ac-e8f3-478b-be3d-b314c2ac181f

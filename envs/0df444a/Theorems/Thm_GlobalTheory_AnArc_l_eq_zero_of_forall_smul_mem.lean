@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_l_eq_zero_of_forall_smul_mem
 -- name    : GlobalTheory.AnArc.l_eq_zero_of_forall_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:28:54.804868+00:00
 -- url     : https://prove2.me/theorems/c645455e-0fcf-4d19-9869-20c847931013

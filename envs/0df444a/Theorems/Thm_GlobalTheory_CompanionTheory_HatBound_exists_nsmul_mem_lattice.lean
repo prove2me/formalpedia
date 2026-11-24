@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HatBound_exists_nsmul_mem_lattice
 -- name    : GlobalTheory.CompanionTheory.HatBound.exists_nsmul_mem_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:23:33.256803+00:00
 -- url     : https://prove2.me/theorems/85481223-47a6-4a0b-8794-9c91708be99a

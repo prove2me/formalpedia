@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SchurChar_char_locConst
 -- name    : GlobalTheory.CompanionTheory.SW.SchurChar.char_locConst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:09:25.274794+00:00
 -- url     : https://prove2.me/theorems/8e68bd18-d6a3-4479-bc17-4b4554a289f4

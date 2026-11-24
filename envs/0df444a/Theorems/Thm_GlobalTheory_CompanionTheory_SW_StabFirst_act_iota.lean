@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_act_iota
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.act_iota
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:09:51.241816+00:00
 -- url     : https://prove2.me/theorems/51ab4f87-fda8-4fa2-b30d-b31029cc6fb6

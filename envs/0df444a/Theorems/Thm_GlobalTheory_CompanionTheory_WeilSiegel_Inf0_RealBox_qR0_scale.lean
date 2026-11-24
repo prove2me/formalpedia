@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_Inf0_RealBox_qR0_scale
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.Inf0.RealBox.qR0_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:22:59.877738+00:00
 -- url     : https://prove2.me/theorems/e7f2c317-fc76-412f-a4e9-e5e91a0d69a8

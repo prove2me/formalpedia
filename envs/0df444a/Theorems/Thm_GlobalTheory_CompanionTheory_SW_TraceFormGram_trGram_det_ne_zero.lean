@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TraceFormGram_trGram_det_ne_zero
 -- name    : GlobalTheory.CompanionTheory.SW.TraceFormGram.trGram_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:10:40.06406+00:00
 -- url     : https://prove2.me/theorems/e52d360d-c56f-4f05-99d0-0131ce6b0c3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_Cont_continuous_phaseM_X
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.Cont.continuous_phaseM_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:13:55.502617+00:00
 -- url     : https://prove2.me/theorems/f00ac531-f7c0-4ee7-83e6-1a244681a899

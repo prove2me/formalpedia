@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kWtBound
 -- name    : Formalism.REAL.kWtBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:14:22.9178+00:00
 -- url     : https://prove2.me/theorems/93917a36-e0d6-4144-931f-f4da36abded7

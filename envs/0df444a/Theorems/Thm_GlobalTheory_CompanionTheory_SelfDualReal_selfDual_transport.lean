@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualReal_selfDual_transport
 -- name    : GlobalTheory.CompanionTheory.SelfDualReal.selfDual_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:12:41.27409+00:00
 -- url     : https://prove2.me/theorems/76ff4108-9461-433f-a006-7ce143b382a9

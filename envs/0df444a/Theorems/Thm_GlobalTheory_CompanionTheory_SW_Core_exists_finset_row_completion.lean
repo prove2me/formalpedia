@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_exists_finset_row_completion
 -- name    : GlobalTheory.CompanionTheory.SW.Core.exists_finset_row_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:24.795363+00:00
 -- url     : https://prove2.me/theorems/194de0a8-f5c6-48be-bd0a-5329dd23dcf2

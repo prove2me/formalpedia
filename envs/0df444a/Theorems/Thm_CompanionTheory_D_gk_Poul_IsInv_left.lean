@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_IsInv_left
 -- name    : CompanionTheory.D.gk.Poul.IsInv.left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:33:20.009378+00:00
 -- url     : https://prove2.me/theorems/68cc4ba1-3b39-49c0-abfc-0c52a9daf24a

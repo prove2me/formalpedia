@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_tsum_translate
 -- name    : GlobalTheory.CMVal.Euler.tsum_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:19:21.17347+00:00
 -- url     : https://prove2.me/theorems/83160b4e-b1a5-4736-abf4-f39b15f2337c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ResKCoords_stalk_to_localization
 -- name    : GlobalTheory.CompanionTheory.ResKCoords.stalk_to_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:57:47.249828+00:00
 -- url     : https://prove2.me/theorems/dd14fd86-79d5-43a3-a4d9-1283fc72aaf2

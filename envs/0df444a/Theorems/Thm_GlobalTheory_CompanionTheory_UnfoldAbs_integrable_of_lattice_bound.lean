@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnfoldAbs_integrable_of_lattice_bound
 -- name    : GlobalTheory.CompanionTheory.UnfoldAbs.integrable_of_lattice_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:43.514805+00:00
 -- url     : https://prove2.me/theorems/73675b74-6087-4db7-8e88-bfd25dbd128f

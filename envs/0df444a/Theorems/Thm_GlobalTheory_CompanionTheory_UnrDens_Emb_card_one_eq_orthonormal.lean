@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_Emb_card_one_eq_orthonormal
 -- name    : GlobalTheory.CompanionTheory.UnrDens.Emb.card_one_eq_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:19:38.892463+00:00
 -- url     : https://prove2.me/theorems/8ddacced-bb4f-483b-8193-8b7b2e64934e

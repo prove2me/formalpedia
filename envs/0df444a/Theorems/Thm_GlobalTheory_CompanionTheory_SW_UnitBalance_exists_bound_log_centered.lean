@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_UnitBalance_exists_bound_log_centered
 -- name    : GlobalTheory.CompanionTheory.SW.UnitBalance.exists_bound_log_centered
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:10:48.935841+00:00
 -- url     : https://prove2.me/theorems/f93b72d8-fea5-41f0-9423-c9f2e42325fc

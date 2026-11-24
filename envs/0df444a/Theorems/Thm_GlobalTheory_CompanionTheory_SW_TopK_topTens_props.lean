@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TopK_topTens_props
 -- name    : GlobalTheory.CompanionTheory.SW.TopK.topTens_props
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:23:21.812919+00:00
 -- url     : https://prove2.me/theorems/862a04e4-4fba-44eb-b54c-25b1293487cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_Emb_cT_mul_rect
 -- name    : GlobalTheory.CompanionTheory.UnrDens.Emb.cT_mul_rect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:21:07.803826+00:00
 -- url     : https://prove2.me/theorems/8e4260d7-d4b7-40bc-93d2-3b108c626225

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitExtLat_setLIntegral_splitHomeo_image_prod
 -- name    : GlobalTheory.CompanionTheory.SplitExtLat.setLIntegral_splitHomeo_image_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:14:59.561939+00:00
 -- url     : https://prove2.me/theorems/4d4c4e78-27e3-46c9-8805-196b484af197

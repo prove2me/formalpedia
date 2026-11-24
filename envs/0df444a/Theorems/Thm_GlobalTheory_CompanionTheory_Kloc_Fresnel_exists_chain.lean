@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_exists_chain
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.exists_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:50:21.178663+00:00
 -- url     : https://prove2.me/theorems/9503543a-efa8-47f4-91cc-31a687600ad3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_tendsto_integral_cutoff
 -- name    : Formalism.REAL.tendsto_integral_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:43.819823+00:00
 -- url     : https://prove2.me/theorems/a744a21d-b73f-4f64-9e0f-4c1241fc961a

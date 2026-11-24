@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SmallPair_bigM_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.SmallPair.bigM_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:09:44.900982+00:00
 -- url     : https://prove2.me/theorems/13a98e9f-046a-4154-af5f-ea49495a7231

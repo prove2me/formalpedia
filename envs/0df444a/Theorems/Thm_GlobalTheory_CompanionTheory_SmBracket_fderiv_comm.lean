@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmBracket_fderiv_comm
 -- name    : GlobalTheory.CompanionTheory.SmBracket.fderiv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:43:31.448502+00:00
 -- url     : https://prove2.me/theorems/4b1a6b30-3eab-43f2-8907-82cfb776bbe9

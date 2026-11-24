@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_fp_sections
 -- name    : GlobalTheory.CompanionTheory.Ultra.fp_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:17.580825+00:00
 -- url     : https://prove2.me/theorems/e23930d7-d11d-4dd8-8859-4c02ca721976

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnramSelfDual_smul_mem__cfd5fc8f3c8d
 -- name    : P2M_GlobalTheory_UnramSelfDual_smul_mem__cfd5fc8f3c8d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:32.645091+00:00
 -- url     : https://prove2.me/theorems/e72ff239-a872-4142-9f6b-ddc69d78b29c

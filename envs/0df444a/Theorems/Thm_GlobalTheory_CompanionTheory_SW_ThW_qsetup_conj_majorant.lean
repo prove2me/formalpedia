@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_qsetup_conj_majorant
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.qsetup_conj_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:11:12.741571+00:00
 -- url     : https://prove2.me/theorems/fd6fd98f-d993-4657-909c-4a1c6562105c

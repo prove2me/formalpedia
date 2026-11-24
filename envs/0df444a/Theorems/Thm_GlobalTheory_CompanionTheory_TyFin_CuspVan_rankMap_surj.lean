@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspVan_rankMap_surj
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspVan.rankMap_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:17:01.223988+00:00
 -- url     : https://prove2.me/theorems/2e4048c8-d879-4313-af7d-2c5ead0e04e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_LocTo_psiV_tmul
 -- name    : PI.FinKW.LocTo.psiV_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:33:27.552814+00:00
 -- url     : https://prove2.me/theorems/58827966-e3f5-46e1-a599-b69322611b1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelChar_char_trivial
 -- name    : GlobalTheory.CompanionTheory.SiegelChar.char_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:13:57.711125+00:00
 -- url     : https://prove2.me/theorems/f792c624-6148-4925-a7a9-64d8845583c5

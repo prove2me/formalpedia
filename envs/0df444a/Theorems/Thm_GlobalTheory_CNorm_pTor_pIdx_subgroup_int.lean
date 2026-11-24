@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_pTor_pIdx_subgroup_int
 -- name    : GlobalTheory.CNorm.pTor_pIdx_subgroup_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:29:34.951898+00:00
 -- url     : https://prove2.me/theorems/71e42c13-127a-4787-ba74-08a766d96a12

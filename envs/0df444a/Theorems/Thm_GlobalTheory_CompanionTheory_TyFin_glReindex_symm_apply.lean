@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_glReindex_symm_apply
 -- name    : GlobalTheory.CompanionTheory.TyFin.glReindex_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:18:48.343068+00:00
 -- url     : https://prove2.me/theorems/ea6e9b65-3ece-42cc-bb52-41707ab39a54

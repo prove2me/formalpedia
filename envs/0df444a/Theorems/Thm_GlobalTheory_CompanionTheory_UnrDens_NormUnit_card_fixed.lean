@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormUnit_card_fixed
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormUnit.card_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:21:09.325903+00:00
 -- url     : https://prove2.me/theorems/fcc3d5b0-0bb0-4125-a6ec-e97c20423bd4

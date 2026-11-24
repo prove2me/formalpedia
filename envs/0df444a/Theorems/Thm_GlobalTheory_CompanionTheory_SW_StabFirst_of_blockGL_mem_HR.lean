@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_of_blockGL_mem_HR
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.of_blockGL_mem_HR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:09:08.862346+00:00
 -- url     : https://prove2.me/theorems/c041e61f-2a55-4e75-974a-fdc1f4573468

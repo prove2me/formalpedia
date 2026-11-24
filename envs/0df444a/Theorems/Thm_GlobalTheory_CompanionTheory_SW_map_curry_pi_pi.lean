@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_map_curry_pi_pi
 -- name    : GlobalTheory.CompanionTheory.SW.map_curry_pi_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:12:17.509906+00:00
 -- url     : https://prove2.me/theorems/0a427bc6-de3f-483e-957b-20b7dd1b52b4

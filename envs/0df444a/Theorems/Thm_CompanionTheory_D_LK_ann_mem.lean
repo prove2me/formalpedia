@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_ann_mem
 -- name    : CompanionTheory.D.LK.ann_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:35:17.152051+00:00
 -- url     : https://prove2.me/theorems/54c53916-deba-4636-8752-995edb8563b6

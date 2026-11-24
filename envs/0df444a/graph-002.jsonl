@@ -51686,7 +51686,7 @@
 {"parent": "LambdaCoalescent_CoagFrag_Setting", "child": "LambdaCoalescent_Rates_Setting", "via": ["statement"]}
 {"parent": "LambdaCoalescent_Rates_Setting", "child": "LambdaCoalescent_Rates_FiniteChain", "via": ["statement"]}
 {"parent": "LandauFunction.ford_prime_counting_error", "child": "LandauFunction_logIntegral", "via": ["solution", "statement"]}
-{"parent": "LandauFunction.landau_constant_on_long_runs", "child": "LandauFunction_landau", "via": ["statement"]}
+{"parent": "LandauFunction.landau_constant_on_long_runs", "child": "LandauFunction_landau", "via": ["solution", "statement"]}
 {"parent": "LandauFunction.landau_eq_sup_partition_lcm", "child": "LandauFunction_landau", "via": ["solution", "statement"]}
 {"parent": "LandauFunction.landau_initial_values", "child": "LandauFunction_landau", "via": ["solution", "statement"]}
 {"parent": "LandauFunction.landau_le_exp_div_e", "child": "LandauFunction_landau", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VectorTaylor_factorial_add_le
 -- name    : GlobalTheory.CompanionTheory.VectorTaylor.factorial_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:21:36.72109+00:00
 -- url     : https://prove2.me/theorems/a76554db-770a-47fc-81ca-e0219408add2

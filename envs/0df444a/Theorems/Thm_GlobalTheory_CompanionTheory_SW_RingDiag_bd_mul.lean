@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RingDiag_bd_mul
 -- name    : GlobalTheory.CompanionTheory.SW.RingDiag.bd_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:10:05.041386+00:00
 -- url     : https://prove2.me/theorems/3449afbc-69fd-43a7-b741-b33467cce0db

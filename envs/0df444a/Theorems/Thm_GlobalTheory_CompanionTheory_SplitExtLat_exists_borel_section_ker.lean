@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitExtLat_exists_borel_section_ker
 -- name    : GlobalTheory.CompanionTheory.SplitExtLat.exists_borel_section_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:15:11.616683+00:00
 -- url     : https://prove2.me/theorems/76680bd6-e92d-4bc5-973d-fa0f768d48c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_StdLattice_exists_nhds_invariant
 -- name    : GlobalTheory.CompanionTheory.StdLattice.exists_nhds_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:14:25.366498+00:00
 -- url     : https://prove2.me/theorems/1067c98c-3a1f-4751-b6d7-6b701d238f52

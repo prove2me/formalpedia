@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_restriction
 -- name    : Formalism.CyclotomicNorms.restriction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:36:52.295269+00:00
 -- url     : https://prove2.me/theorems/5ec19411-f4f4-421f-b294-8a64401a469b

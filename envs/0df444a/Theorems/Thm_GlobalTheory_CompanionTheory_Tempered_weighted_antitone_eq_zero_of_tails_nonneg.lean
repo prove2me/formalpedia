@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Tempered_weighted_antitone_eq_zero_of_tails_nonneg
 -- name    : GlobalTheory.CompanionTheory.Tempered.weighted_antitone_eq_zero_of_tails_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:16:28.288321+00:00
 -- url     : https://prove2.me/theorems/b16efd4e-c929-40b2-ba94-7f168e56e528

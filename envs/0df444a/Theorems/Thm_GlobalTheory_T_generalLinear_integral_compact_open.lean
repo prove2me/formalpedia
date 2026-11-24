@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_generalLinear_integral_compact_open
 -- name    : GlobalTheory.T.generalLinear_integral_compact_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:47:36.244165+00:00
 -- url     : https://prove2.me/theorems/d4ae821e-6a45-4c0d-90e7-da2c554562d5

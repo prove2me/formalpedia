@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LenFib_isUnit_det_gramR
 -- name    : GlobalTheory.CompanionTheory.SW.LenFib.isUnit_det_gramR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:06:41.675328+00:00
 -- url     : https://prove2.me/theorems/639c20be-8c82-4996-a1bb-4ffbb5f7699d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SimDiag_exists_unitary_isDiag
 -- name    : GlobalTheory.CompanionTheory.SimDiag.exists_unitary_isDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:15:58.636442+00:00
 -- url     : https://prove2.me/theorems/12d6930f-cf84-4143-b7c0-980e8f30a88e

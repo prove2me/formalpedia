@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PRep_TwExact_twMap_range_eq_ker
 -- name    : GlobalTheory.CompanionTheory.PRep.TwExact.twMap_range_eq_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:04.471202+00:00
 -- url     : https://prove2.me/theorems/59affc73-90bb-49a3-b474-8bcc4c428f73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_InvLine_le_two_div_mul_exp
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.InvLine.le_two_div_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:58.898197+00:00
 -- url     : https://prove2.me/theorems/48f3ce7f-8e5a-46b0-9dd0-4a5362b494e5

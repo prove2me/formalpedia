@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_UJ_inv_mem
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.UJ_inv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:30.0881+00:00
 -- url     : https://prove2.me/theorems/ab9e45e1-66dd-40e6-8fb8-be6659c4353c

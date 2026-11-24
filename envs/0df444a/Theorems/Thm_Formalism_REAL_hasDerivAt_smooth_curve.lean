@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_hasDerivAt_smooth_curve
 -- name    : Formalism.REAL.hasDerivAt_smooth_curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:13:45.457672+00:00
 -- url     : https://prove2.me/theorems/372c9219-530c-4b14-83f6-a84270f06d2f

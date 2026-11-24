@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CoordinateFlipUpdateSums_flipA_invol
 -- name    : Formalism.FourierDecayAlt.P.CoordinateFlipUpdateSums.flipA_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:58.434083+00:00
 -- url     : https://prove2.me/theorems/c94dd356-f259-4f23-a088-d32bc1fe0e16

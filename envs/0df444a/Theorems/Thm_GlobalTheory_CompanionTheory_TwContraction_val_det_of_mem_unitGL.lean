@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwContraction_val_det_of_mem_unitGL
 -- name    : GlobalTheory.CompanionTheory.TwContraction.val_det_of_mem_unitGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:17:49.689521+00:00
 -- url     : https://prove2.me/theorems/2d9e6755-6cdc-4126-9b74-00a4a39dc9d1

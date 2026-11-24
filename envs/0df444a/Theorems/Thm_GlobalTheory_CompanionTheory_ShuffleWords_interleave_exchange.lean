@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ShuffleWords_interleave_exchange
 -- name    : GlobalTheory.CompanionTheory.ShuffleWords.interleave_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:13:32.225255+00:00
 -- url     : https://prove2.me/theorems/518d47ea-2654-4026-b8d9-5811076ad95c

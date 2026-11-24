@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_WeightCompositions_count
 -- name    : Formalism.NormUnitaryCountingLemmas.WeightCompositions.count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:42:06.515233+00:00
 -- url     : https://prove2.me/theorems/03439592-f79c-47bc-8fbd-34dc6c81df79

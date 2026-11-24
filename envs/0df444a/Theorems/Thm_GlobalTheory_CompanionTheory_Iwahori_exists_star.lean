@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_exists_star
 -- name    : GlobalTheory.CompanionTheory.Iwahori.exists_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:49:59.125167+00:00
 -- url     : https://prove2.me/theorems/8773a86e-6b05-47f2-b24b-d33095a8eef5

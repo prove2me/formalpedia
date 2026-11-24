@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_map_addHaar_addEquiv_eq_smul_and_eq_of_compact_open
 -- name    : GlobalTheory.T.map_addHaar_addEquiv_eq_smul_and_eq_of_compact_open
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:15.138334+00:00
 -- url     : https://prove2.me/theorems/af529e6f-a20e-4f6e-bb6a-19cff7dfd5c5

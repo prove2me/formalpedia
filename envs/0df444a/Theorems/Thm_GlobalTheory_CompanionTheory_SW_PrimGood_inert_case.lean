@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimGood_inert_case
 -- name    : GlobalTheory.CompanionTheory.SW.PrimGood.inert_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:09:59.78314+00:00
 -- url     : https://prove2.me/theorems/4545967c-0b1f-4d96-8ec4-855da2d0bfb8

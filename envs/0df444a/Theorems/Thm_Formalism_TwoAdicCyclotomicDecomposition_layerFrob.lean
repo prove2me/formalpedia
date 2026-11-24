@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_layerFrob
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.layerFrob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:33:45.071014+00:00
 -- url     : https://prove2.me/theorems/cb80fadf-58a8-44bd-ad02-799fdfd42ab6

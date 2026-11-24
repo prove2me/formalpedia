@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_abs_det_gM
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.abs_det_gM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:26.754522+00:00
 -- url     : https://prove2.me/theorems/d0b09329-e896-4d8f-9f42-7de1a4bc60b4

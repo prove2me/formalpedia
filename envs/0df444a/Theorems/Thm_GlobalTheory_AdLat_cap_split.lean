@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_cap_split
 -- name    : GlobalTheory.AdLat.cap_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:40:53.612813+00:00
 -- url     : https://prove2.me/theorems/ad5af481-9302-4eb0-8dfa-4228db3b25f9

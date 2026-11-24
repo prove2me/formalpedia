@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_UpInv_isUpper_inv
 -- name    : GlobalTheory.CompanionTheory.Iwahori.UpInv.isUpper_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:49:40.132802+00:00
 -- url     : https://prove2.me/theorems/696bad1e-562a-4b08-b0ff-03668368e5c0

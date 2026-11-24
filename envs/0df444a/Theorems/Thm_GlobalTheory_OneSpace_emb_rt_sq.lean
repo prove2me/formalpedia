@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OneSpace_emb_rt_sq
 -- name    : GlobalTheory.OneSpace.emb_rt_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:17:28.874354+00:00
 -- url     : https://prove2.me/theorems/6ebd7d76-f361-4044-880a-a90343ba4d1b

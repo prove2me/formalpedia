@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspVan_rankMap_eq
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspVan.rankMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:17:12.732076+00:00
 -- url     : https://prove2.me/theorems/d3655298-9124-4a82-a088-5b7cce44ef68

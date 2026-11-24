@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_adj_ext
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.adj_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:26.744778+00:00
 -- url     : https://prove2.me/theorems/f58f3740-6275-448d-85bc-7b8caa0f8f1d

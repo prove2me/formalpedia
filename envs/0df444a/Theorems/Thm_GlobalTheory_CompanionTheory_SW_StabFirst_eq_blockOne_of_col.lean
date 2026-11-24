@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_eq_blockOne_of_col
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.eq_blockOne_of_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:09:19.849286+00:00
 -- url     : https://prove2.me/theorems/664b894c-be94-42e6-887b-739fa1fd6301

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Maschke_irr_of_finrank_one
 -- name    : GlobalTheory.CompanionTheory.TyFin.Maschke.irr_of_finrank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:18:38.925896+00:00
 -- url     : https://prove2.me/theorems/d6a31a6f-2086-448b-b519-c3706431951e

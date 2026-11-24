@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_embeddedResolutionRuleOfPrincipalization_affineSpaceEmbeddingDatum
 -- name    : FunctorialResolution.EmbeddedResolution.embeddedResolutionRuleOfPrincipalization_affineSpaceEmbeddingDatum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:14:43.45331+00:00
 -- url     : https://prove2.me/theorems/b26c67ab-5ec9-4fe8-9028-ba515cb1f19b

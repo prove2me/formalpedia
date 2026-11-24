@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_exists_isBump
 -- name    : CompanionTheory.D.gk.Poul.exists_isBump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:33:10.699672+00:00
 -- url     : https://prove2.me/theorems/14aded5d-7348-47f1-81ac-2e1f2795f884

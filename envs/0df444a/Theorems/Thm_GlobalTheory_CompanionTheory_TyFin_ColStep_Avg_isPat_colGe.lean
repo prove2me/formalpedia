@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Avg_isPat_colGe
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Avg.isPat_colGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:17:48.307901+00:00
 -- url     : https://prove2.me/theorems/ca701cef-2445-43c9-a38f-6ade35f68497

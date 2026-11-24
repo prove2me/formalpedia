@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspVan_levi_mul
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspVan.levi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:16:59.026799+00:00
 -- url     : https://prove2.me/theorems/34812b6d-dfe6-42e1-8321-61962f744f44

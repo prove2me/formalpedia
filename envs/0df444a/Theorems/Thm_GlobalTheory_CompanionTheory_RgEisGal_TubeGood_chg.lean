@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisGal_TubeGood_chg
 -- name    : GlobalTheory.CompanionTheory.RgEisGal.TubeGood_chg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:57:08.553947+00:00
 -- url     : https://prove2.me/theorems/bb17888b-d343-4fc5-9900-205e2c80d01c

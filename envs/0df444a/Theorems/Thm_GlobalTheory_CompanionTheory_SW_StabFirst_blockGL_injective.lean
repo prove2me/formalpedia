@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_blockGL_injective
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.blockGL_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:10:46.202111+00:00
 -- url     : https://prove2.me/theorems/b1020f18-7ce6-46a1-a140-dcc706f679e7

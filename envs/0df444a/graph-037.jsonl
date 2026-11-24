@@ -72562,11 +72562,11 @@
 {"parent": "Formalism.L2.Col.lenUW_mul_eW", "child": "Formalism_SizeWindowBrackets_SlopesHypothesisFinitePlaces", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.GelfandTsetlinBases.minorMap", "child": "Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_ActFormContract", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.GelfandTsetlinBases.minorMap", "child": "Formalism_ThetaLogCoordinates_JacobiPathWeights_StatementC", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsSpan", "via": ["statement"]}
-{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlob", "via": ["statement"]}
-{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsDual", "via": ["statement"]}
-{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob", "child": "Formalism_LocalToGlobal_GlobalTheory_EqGlobOfHat", "via": ["statement"]}
-{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob", "child": "Formalism_LocalRingCardinality_DataLevel", "via": ["statement"]}
+{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsSpan", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlob", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob", "child": "Formalism_LocalToGlobal_GlobalTheory_EqGlobOfHat", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.isLat_glob", "child": "Formalism_LocalRingCardinality_DataLevel", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Pj.evI_add", "child": "Formalism_LocalToGlobal_ProjectiveLattices_VAtVNeBot", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Pj.evI_add", "child": "Formalism_LocalToGlobal_ProjectiveLattices_IsCombAt", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Pj.evI_add", "child": "Formalism_LocalToGlobal_ProjectiveLattices_OneLtAbsNormReal", "via": ["solution", "statement"]}
@@ -96705,10 +96705,10 @@
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_HermLatFin", "child": "Formalism_PeriodIntegrals_HermLatFin", "via": ["statement"]}
 {"parent": "Mdp.DiscountedMDP.valueIteration_error", "child": "Mdp_ValueIteration", "via": ["solution", "statement"]}
 {"parent": "Mdp.DiscountedMDP.valueIteration_error", "child": "Mdp_ValueIterationAlgorithm", "via": ["solution", "statement"]}
-{"parent": "Formalism.UG.P.global_lattice_one_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlob", "via": ["statement"]}
-{"parent": "Formalism.UG.P.global_lattice_one_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["statement"]}
-{"parent": "Formalism.UG.P.global_lattice_one_holds", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["statement"]}
-{"parent": "Formalism.UG.P.global_lattice_one_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlobApprox", "via": ["statement"]}
+{"parent": "Formalism.UG.P.global_lattice_one_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlob", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.global_lattice_one_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.global_lattice_one_holds", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.global_lattice_one_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlobApprox", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_ArchPosHolds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LBSubm", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_ArchPosHolds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensPos", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_ArchPosHolds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensInfSS", "via": ["statement"]}

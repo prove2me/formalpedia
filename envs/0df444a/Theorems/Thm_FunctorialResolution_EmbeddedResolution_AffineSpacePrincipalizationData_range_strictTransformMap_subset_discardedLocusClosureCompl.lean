@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_range_strictTransformMap_subset_discardedLocusClosureCompl
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.range_strictTransformMap_subset_discardedLocusClosureCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:15:18.848007+00:00
 -- url     : https://prove2.me/theorems/04acc85b-173b-4808-aade-dd1e8f3a390d

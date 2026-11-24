@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_det_one_add_sq_eq_prod_eigenvalues
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.det_one_add_sq_eq_prod_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:13:24.673799+00:00
 -- url     : https://prove2.me/theorems/64ba7e4a-2997-4675-bc0e-968e089a92d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_measure_eq_haar_prod_of_left_invariant
 -- name    : GlobalTheory.CompanionTheory.SW.measure_eq_haar_prod_of_left_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:12:24.868415+00:00
 -- url     : https://prove2.me/theorems/8e746b43-d3c4-4f1a-9c96-863e7914f8a5

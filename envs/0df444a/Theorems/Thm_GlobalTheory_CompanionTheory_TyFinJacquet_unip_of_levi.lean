@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinJacquet_unip_of_levi
 -- name    : GlobalTheory.CompanionTheory.TyFinJacquet.unip_of_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:18:45.623971+00:00
 -- url     : https://prove2.me/theorems/c8c8b305-0d46-43b8-9835-2d1ad6e66409
