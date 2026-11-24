@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteBirationalNear_exists_isIntegral_nhds
 -- name    : GlobalTheory.FiniteBirationalNear.exists_isIntegral_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:29:52.710318+00:00
 -- url     : https://prove2.me/theorems/71746f40-a4ca-4b6d-96de-1e6a8771ba59

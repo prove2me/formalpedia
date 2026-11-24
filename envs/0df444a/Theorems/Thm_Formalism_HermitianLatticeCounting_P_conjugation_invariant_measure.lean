@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_conjugation_invariant_measure
 -- name    : Formalism.HermitianLatticeCounting.P.conjugation_invariant_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:43:47.985152+00:00
 -- url     : https://prove2.me/theorems/32eeed91-c8f3-4a5d-ba32-71589ea94ae7

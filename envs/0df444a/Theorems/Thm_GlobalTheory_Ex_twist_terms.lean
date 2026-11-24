@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_twist_terms
 -- name    : GlobalTheory.Ex.twist_terms
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:04.076723+00:00
 -- url     : https://prove2.me/theorems/140a6a2b-da25-47ff-bf5b-c3fa6356bc82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_apply_charpoly_eq_finsum_psi_invariant_submodules
 -- name    : GlobalTheory.T.apply_charpoly_eq_finsum_psi_invariant_submodules
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:14:47.311998+00:00
 -- url     : https://prove2.me/theorems/828ed949-9537-4b8a-be3e-38d1dfed3c30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePartialLaw_subst_psIn
 -- name    : GlobalTheory.FramePartialLaw.subst_psIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:37:46.046245+00:00
 -- url     : https://prove2.me/theorems/4a9be2f1-0d25-4448-82d5-2042aa14e14c

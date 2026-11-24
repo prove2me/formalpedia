@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_UH_inv
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.UH_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:52:30.874807+00:00
 -- url     : https://prove2.me/theorems/3f78195d-e357-497a-9c0f-dbe95973a54d

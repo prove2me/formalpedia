@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_ChgBC_can_exists
 -- name    : GlobalTheory.Frames.ChgBC.can_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:16.816572+00:00
 -- url     : https://prove2.me/theorems/51dc6987-b8f2-40f7-aa61-d01ca7b93883

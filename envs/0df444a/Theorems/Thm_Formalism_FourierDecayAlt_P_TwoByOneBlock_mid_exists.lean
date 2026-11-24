@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_mid_exists
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.mid_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:26:19.934801+00:00
 -- url     : https://prove2.me/theorems/f9daeb9a-54cc-4321-b193-182c4a049024

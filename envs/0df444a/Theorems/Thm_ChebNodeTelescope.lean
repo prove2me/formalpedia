@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChebNodeTelescope
 -- name    : ChebNodeTelescope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:13:36.732457+00:00
 -- url     : https://prove2.me/theorems/d529f96f-ddda-4066-86be-323aaab95aa3

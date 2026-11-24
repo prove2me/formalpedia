@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_coordinate_shift_product
 -- name    : Formalism.FourierDecayAlt.P.NFx2.coordinate_shift_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:16:04.548802+00:00
 -- url     : https://prove2.me/theorems/6fa0eed7-dc24-440b-ac6d-8ba6530f34f8

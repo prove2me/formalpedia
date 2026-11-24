@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_PolyAt_neg
 -- name    : Formalism.FourierDecayAlt.P.Qx2.PolyAt.neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:25:41.929357+00:00
 -- url     : https://prove2.me/theorems/8e868e9e-6fa5-4c61-8306-058fae1e3c01

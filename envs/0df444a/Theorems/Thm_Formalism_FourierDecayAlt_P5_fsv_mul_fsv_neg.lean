@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_fsv_mul_fsv_neg
 -- name    : Formalism.FourierDecayAlt.P5.fsv_mul_fsv_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:25:07.086401+00:00
 -- url     : https://prove2.me/theorems/c9164b9c-8f3f-4460-9d82-73a34e3d3a39

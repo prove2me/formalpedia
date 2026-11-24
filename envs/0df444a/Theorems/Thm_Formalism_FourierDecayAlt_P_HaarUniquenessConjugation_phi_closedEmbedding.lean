@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_phi_closedEmbedding
 -- name    : Formalism.FourierDecayAlt.P.HaarUniquenessConjugation.phi_closedEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:44:31.744074+00:00
 -- url     : https://prove2.me/theorems/3adee378-75b4-4ce4-b9eb-13431fef397c

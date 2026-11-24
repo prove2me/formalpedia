@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBaseChange_val_scale
 -- name    : GlobalTheory.FrameBaseChange.val_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:36:09.815799+00:00
 -- url     : https://prove2.me/theorems/a71647c6-2620-4c46-93e4-5602e5aad789

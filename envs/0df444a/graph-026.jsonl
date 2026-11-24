@@ -55973,7 +55973,7 @@
 {"parent": "QEC.Coding.BDL26RXCohomology.normalized_word", "child": "QEC_Coding_FiniteAlternatingConstruction_RXPresentationCochain", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXCohomology.normalized_word", "child": "QEC_Coding_FiniteAlternatingConstruction_RZCohomology_Representatives", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXCohomology.normalized_word", "child": "QEC_Coding_FiniteAlternatingConstruction_RXCohomology_Geometry", "via": ["solution", "statement"]}
-{"parent": "UnaryQuadraticKKT.Hardness.chain_exact", "child": "UnaryQuadraticKKT_Hardness_Chain", "via": ["statement"]}
+{"parent": "UnaryQuadraticKKT.Hardness.chain_exact", "child": "UnaryQuadraticKKT_Hardness_Chain", "via": ["solution", "statement"]}
 {"parent": "EllipticRootFinding.Online.proposition_5_6", "child": "EllipticRootFinding_Online_Machine", "via": ["statement"]}
 {"parent": "EllipticRootFinding.Online.proposition_5_6", "child": "EllipticRootFinding_Online_Complexity", "via": ["statement"]}
 {"parent": "EllipticRootFinding.Online.proposition_5_6", "child": "EllipticRootFinding_Online_Curves", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_UH_mul
 -- name    : CCRuleCW.UH_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:28:09.813053+00:00
 -- url     : https://prove2.me/theorems/e8a180f6-8e27-4a3b-9ea4-5fbf12efec5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalSeries_le_order_sum
 -- name    : GlobalTheory.FormalSeries.le_order_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:36:14.339596+00:00
 -- url     : https://prove2.me/theorems/a9f09a59-7ce8-477f-9e8c-41d1d9f9a479

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinrankGrowthBounds_finrank_eq_mul
 -- name    : GlobalTheory.FinrankGrowthBounds.finrank_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:40.751664+00:00
 -- url     : https://prove2.me/theorems/949f8b7d-b984-46f8-b685-478fa1e7e997

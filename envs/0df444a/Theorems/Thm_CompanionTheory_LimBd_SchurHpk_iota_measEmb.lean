@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_SchurHpk_iota_measEmb
 -- name    : CompanionTheory.LimBd.SchurHpk.iota_measEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:28:27.539964+00:00
 -- url     : https://prove2.me/theorems/f6f4a8e0-ff89-4db1-b5c6-3c0093e7f292

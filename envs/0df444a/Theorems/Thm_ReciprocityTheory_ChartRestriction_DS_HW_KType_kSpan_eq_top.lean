@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_KType_kSpan_eq_top
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.KType.kSpan_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:12:01.236647+00:00
 -- url     : https://prove2.me/theorems/6739eb9c-eff6-4a7b-8948-fc81a8711a5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyCosSecondDeriv
 -- name    : PolyCosSecondDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:13:45.005171+00:00
 -- url     : https://prove2.me/theorems/32c79e7b-4cd8-4fdd-8217-cfc36479ff1c

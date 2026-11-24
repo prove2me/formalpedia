@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagVolume_lintegral_complex_inv_pow
 -- name    : GlobalTheory.FlagVolume.lintegral_complex_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:03.134199+00:00
 -- url     : https://prove2.me/theorems/1812a0d8-c3e5-4116-97a4-24803a2b3d22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_trace_re
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.trace_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:19:30.213374+00:00
 -- url     : https://prove2.me/theorems/16da6faa-f4a8-4e90-974e-f1af719d3b8b

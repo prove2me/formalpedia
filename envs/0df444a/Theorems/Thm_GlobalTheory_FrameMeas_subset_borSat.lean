@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameMeas_subset_borSat
 -- name    : GlobalTheory.FrameMeas.subset_borSat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:38:22.249395+00:00
 -- url     : https://prove2.me/theorems/345a1a60-ebf1-432d-9409-fe15f9c50d0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_norm_mul_inv_sub_one_le
 -- name    : GlobalTheory.FrameNet.norm_mul_inv_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:37:43.943252+00:00
 -- url     : https://prove2.me/theorems/ca65865c-ab0e-4e0f-a4fc-0e73d5d47bd1

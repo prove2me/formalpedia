@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_hpk_isUnit_det
 -- name    : PI.PolynomialProperness.GN.hpk_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:54:27.842806+00:00
 -- url     : https://prove2.me/theorems/fd6f3cf6-1fbb-44b8-b7af-0c153de70f48

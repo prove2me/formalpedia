@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumCoverAdjoint_datum_adjoint
 -- name    : GlobalTheory.DatumCoverAdjoint.datum_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:35:32.20209+00:00
 -- url     : https://prove2.me/theorems/0aadf7b4-c3cd-411a-a038-65e351cb1948

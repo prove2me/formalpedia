@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SettingConstruction_nu_mulVec
 -- name    : Formalism.FourierDecayAlt.P.SettingConstruction.nu_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:22:27.811854+00:00
 -- url     : https://prove2.me/theorems/761e33df-80ba-4503-98bd-7576653d4cca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_ahFactor_add
 -- name    : GlobalTheory.FrameValue.ahFactor_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:33.466204+00:00
 -- url     : https://prove2.me/theorems/401959c6-7e48-4319-b07c-2aa7d0aca9d1

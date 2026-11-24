@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordKeyIdentity_glev0
 -- name    : Formalism.FourierDecayAlt.P.WordKeyIdentity.glev0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:12:22.364066+00:00
 -- url     : https://prove2.me/theorems/2c863ac9-0d36-4caa-9a80-d96140e8f86e

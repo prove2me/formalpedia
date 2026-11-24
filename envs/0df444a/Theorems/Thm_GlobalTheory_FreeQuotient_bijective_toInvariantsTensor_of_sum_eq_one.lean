@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_bijective_toInvariantsTensor_of_sum_eq_one
 -- name    : GlobalTheory.FreeQuotient.bijective_toInvariantsTensor_of_sum_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:21.672858+00:00
 -- url     : https://prove2.me/theorems/3f3ae295-0ee6-46b0-abcc-e99e6b9f5cb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_coeff_single_law_add
 -- name    : GlobalTheory.FormalCalc.coeff_single_law_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:34:29.890946+00:00
 -- url     : https://prove2.me/theorems/208dcea0-6030-44e8-9b66-5f2e30ce912e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_evT_apply
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.evT_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:28:08.452876+00:00
 -- url     : https://prove2.me/theorems/4ab88113-7be6-42fe-90aa-85e69470f4bf

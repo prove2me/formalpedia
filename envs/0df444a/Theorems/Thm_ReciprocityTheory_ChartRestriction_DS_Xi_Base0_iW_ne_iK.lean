@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_iW_ne_iK
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.iW_ne_iK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:12:45.453572+00:00
 -- url     : https://prove2.me/theorems/545d1753-8933-4fd6-9898-6ead2ec640fc

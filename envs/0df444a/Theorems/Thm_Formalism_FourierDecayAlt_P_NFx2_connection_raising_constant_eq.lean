@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_connection_raising_constant_eq
 -- name    : Formalism.FourierDecayAlt.P.NFx2.connection_raising_constant_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:13:36.500795+00:00
 -- url     : https://prove2.me/theorems/b3efbc4b-6965-4a3e-a72f-de535f628195

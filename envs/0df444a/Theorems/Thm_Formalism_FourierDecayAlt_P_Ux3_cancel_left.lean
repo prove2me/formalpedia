@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_cancel_left
 -- name    : Formalism.FourierDecayAlt.P.Ux3.cancel_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:23:18.23896+00:00
 -- url     : https://prove2.me/theorems/f6411096-ded6-413f-ab8e-d5d2cbc404f9

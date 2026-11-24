@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_reflection_off_support_row
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.reflection_off_support_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:24:18.01008+00:00
 -- url     : https://prove2.me/theorems/a7a527c4-a432-45f3-9589-a0a3438583b7

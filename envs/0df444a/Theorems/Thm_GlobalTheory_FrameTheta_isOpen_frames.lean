@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameTheta_isOpen_frames
 -- name    : GlobalTheory.FrameTheta.isOpen_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:39:32.877211+00:00
 -- url     : https://prove2.me/theorems/2d6a9a96-7868-420f-989e-56ca4abc931d

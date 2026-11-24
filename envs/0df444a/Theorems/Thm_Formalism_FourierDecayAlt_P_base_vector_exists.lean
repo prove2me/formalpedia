@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_base_vector_exists
 -- name    : Formalism.FourierDecayAlt.P.base_vector_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:55:48.750155+00:00
 -- url     : https://prove2.me/theorems/8ef4036f-0349-451b-8488-44e1d3c21c02

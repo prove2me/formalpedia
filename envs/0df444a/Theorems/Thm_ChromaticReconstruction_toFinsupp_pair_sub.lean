@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_toFinsupp_pair_sub
 -- name    : ChromaticReconstruction.toFinsupp_pair_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:20:18.105292+00:00
 -- url     : https://prove2.me/theorems/f7ca66d4-babb-4cb5-b60f-c269ae02419b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockAdj_fockQ_applyWord
 -- name    : GlobalTheory.FockAdj.fockQ_applyWord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:32:56.904442+00:00
 -- url     : https://prove2.me/theorems/3a49e59e-2ba0-46d0-b3d0-5e4a4117512f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_orth_symm
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.orth_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:59:35.661563+00:00
 -- url     : https://prove2.me/theorems/7ee70eb0-9735-49c0-b5c3-7689e1e6dc19

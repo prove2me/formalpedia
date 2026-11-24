@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_connection_lowering_eq_nabla
 -- name    : Formalism.FourierDecayAlt.P.NFx2.connection_lowering_eq_nabla
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:18:18.497313+00:00
 -- url     : https://prove2.me/theorems/aa194889-0f4d-46bf-9133-c1a2bd537985

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBaseChange_jetMap_congr
 -- name    : GlobalTheory.FrameBaseChange.jetMap_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:36:03.935931+00:00
 -- url     : https://prove2.me/theorems/0a386e93-f58e-42e5-aaa9-584767ab84ae

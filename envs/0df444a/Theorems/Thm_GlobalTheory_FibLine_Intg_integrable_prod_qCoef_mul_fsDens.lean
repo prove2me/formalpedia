@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_Intg_integrable_prod_qCoef_mul_fsDens
 -- name    : GlobalTheory.FibLine.Intg.integrable_prod_qCoef_mul_fsDens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:23:23.898748+00:00
 -- url     : https://prove2.me/theorems/4822278c-9d41-4f06-8292-21be8599e800

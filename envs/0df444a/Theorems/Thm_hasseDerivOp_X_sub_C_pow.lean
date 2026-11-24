@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasseDerivOp_X_sub_C_pow
 -- name    : hasseDerivOp_X_sub_C_pow
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:19:22.005425+00:00
 -- url     : https://prove2.me/theorems/8d927277-b446-4747-90e2-5b7181847543

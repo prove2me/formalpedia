@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_finrank_fun
 -- name    : Formalism.FourierDecayAlt.P.Ux6.finrank_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:23:09.099504+00:00
 -- url     : https://prove2.me/theorems/da0eb2d3-8d73-4c66-bdbb-3ccd67716072

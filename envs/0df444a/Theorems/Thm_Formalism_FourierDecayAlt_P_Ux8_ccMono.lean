@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux8_ccMono
 -- name    : Formalism.FourierDecayAlt.P.Ux8.ccMono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:22:54.26651+00:00
 -- url     : https://prove2.me/theorems/63ee8a13-7648-4b8d-819e-615f5074b279

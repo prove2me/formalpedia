@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_frBor_iff_frChg
 -- name    : GlobalTheory.Frames.frBor_iff_frChg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:42:17.202602+00:00
 -- url     : https://prove2.me/theorems/f7ad90eb-b85b-44b4-bf29-de8a8622daf0

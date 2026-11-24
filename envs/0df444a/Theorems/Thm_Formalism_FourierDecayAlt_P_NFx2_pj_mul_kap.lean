@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_pj_mul_kap
 -- name    : Formalism.FourierDecayAlt.P.NFx2.pj_mul_kap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:10:48.552418+00:00
 -- url     : https://prove2.me/theorems/9b2e0a13-95ae-4d1f-a13a-d7064a0dc9c8

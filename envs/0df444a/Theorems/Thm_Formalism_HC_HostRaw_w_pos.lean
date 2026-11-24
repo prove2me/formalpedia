@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_w_pos
 -- name    : Formalism.HC.HostRaw.w_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:26:33.067255+00:00
 -- url     : https://prove2.me/theorems/64b4d6e4-128d-4ae1-a4d5-fb5805c07d85

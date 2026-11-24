@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_invertible_of_isBaseChange
 -- name    : GlobalTheory.FlatDescent.invertible_of_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:01:15.774588+00:00
 -- url     : https://prove2.me/theorems/cd366cfb-aeaf-48f4-a8b8-75ddf2c2a18b

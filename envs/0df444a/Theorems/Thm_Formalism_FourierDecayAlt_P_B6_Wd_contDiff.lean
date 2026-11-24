@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_Wd_contDiff
 -- name    : Formalism.FourierDecayAlt.P.B6.Wd_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:48:16.549491+00:00
 -- url     : https://prove2.me/theorems/821f37e0-96c7-43a9-b183-1e0c216d08df

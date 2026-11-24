@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnRep_WeakApprox_map_smul___9facef897ec7
 -- name    : P2M_GlobalTheory_UnRep_WeakApprox_map_smul___9facef897ec7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:21:31.324271+00:00
 -- url     : https://prove2.me/theorems/9d032f1f-1182-4a23-bbab-dcf692dd4bbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finsum_psi_transversal
 -- name    : GlobalTheory.CuspGL.finsum_psi_transversal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:32:47.934516+00:00
 -- url     : https://prove2.me/theorems/988a7425-c1be-470f-9dbc-c63e149f8786

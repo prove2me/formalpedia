@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_pow_congr_of
 -- name    : Formalism.FrobeniusOrbits.Cond.pow_congr_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:11:18.680334+00:00
 -- url     : https://prove2.me/theorems/639356cf-17db-4d5a-8cdb-08f8f12c56f8

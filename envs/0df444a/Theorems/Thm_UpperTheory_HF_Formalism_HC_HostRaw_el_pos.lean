@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostRaw_el_pos
 -- name    : UpperTheory.HF.Formalism.HC.HostRaw.el_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:26:50.562958+00:00
 -- url     : https://prove2.me/theorems/4947fee1-7c6d-4cf5-bb84-df0f2310bf5f

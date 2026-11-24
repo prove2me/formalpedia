@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hom_transport_alt
 -- name    : GlobalTheory.T.hom_transport_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:53:24.484658+00:00
 -- url     : https://prove2.me/theorems/0c624261-d80b-49cb-9c0d-c23f9026fdd5

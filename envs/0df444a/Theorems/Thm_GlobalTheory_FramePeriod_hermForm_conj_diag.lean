@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_hermForm_conj_diag
 -- name    : GlobalTheory.FramePeriod.hermForm_conj_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:39:11.050809+00:00
 -- url     : https://prove2.me/theorems/225f1202-892a-4184-bcf2-98f214439331

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_gram_basisMat
 -- name    : GlobalTheory.FrameNet.gram_basisMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:37:44.860806+00:00
 -- url     : https://prove2.me/theorems/b5f30a5c-3fd4-4b3b-af50-9a8c7b50e559

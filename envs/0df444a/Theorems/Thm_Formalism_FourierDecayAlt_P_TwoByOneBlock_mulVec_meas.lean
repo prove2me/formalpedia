@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_mulVec_meas
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.mulVec_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:26:08.364148+00:00
 -- url     : https://prove2.me/theorems/16604006-ee23-4460-a2d2-755ea545b18e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Cx1_psd_pullback
 -- name    : Formalism.FourierDecayAlt.P.Cx1.psd_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:19:32.646623+00:00
 -- url     : https://prove2.me/theorems/67ce738a-1b46-4685-9a65-e1de1d81effe

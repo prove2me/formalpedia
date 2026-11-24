@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_weightMS_ge_two
 -- name    : ChromaticReconstruction.weightMS_ge_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:21:51.220802+00:00
 -- url     : https://prove2.me/theorems/2cecbb75-b1d5-4924-92d4-e3964f5bcff6

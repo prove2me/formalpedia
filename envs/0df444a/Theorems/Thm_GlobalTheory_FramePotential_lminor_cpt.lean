@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePotential_lminor_cpt
 -- name    : GlobalTheory.FramePotential.lminor_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:40:27.836802+00:00
 -- url     : https://prove2.me/theorems/7bf1ef26-0a61-428d-9eec-9268f34226b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_two_le_order_substInv_sub_X
 -- name    : GlobalTheory.FormalInv.two_le_order_substInv_sub_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:34:42.896803+00:00
 -- url     : https://prove2.me/theorems/287cd1aa-1c7a-481a-9d44-31834c0763f7

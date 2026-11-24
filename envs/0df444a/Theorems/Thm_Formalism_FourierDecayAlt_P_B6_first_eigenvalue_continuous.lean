@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_first_eigenvalue_continuous
 -- name    : Formalism.FourierDecayAlt.P.B6.first_eigenvalue_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:01:49.622948+00:00
 -- url     : https://prove2.me/theorems/e4770aea-6f2a-4eca-aa27-5501816877e8

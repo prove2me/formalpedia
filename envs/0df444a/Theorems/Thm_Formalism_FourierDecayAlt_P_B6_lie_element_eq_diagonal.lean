@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_lie_element_eq_diagonal
 -- name    : Formalism.FourierDecayAlt.P.B6.lie_element_eq_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:16:59.566329+00:00
 -- url     : https://prove2.me/theorems/7819d9fd-7663-46cb-b69d-9e562d51078c

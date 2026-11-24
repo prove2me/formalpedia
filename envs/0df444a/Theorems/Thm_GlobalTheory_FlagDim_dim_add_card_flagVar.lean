@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagDim_dim_add_card_flagVar
 -- name    : GlobalTheory.FlagDim.dim_add_card_flagVar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:28:40.040399+00:00
 -- url     : https://prove2.me/theorems/fef4fa30-b661-4ade-aafb-12e28f752246

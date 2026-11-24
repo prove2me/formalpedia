@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBasic_cramer_last
 -- name    : GlobalTheory.FrameBasic.cramer_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:36:11.122553+00:00
 -- url     : https://prove2.me/theorems/28dafe17-be41-408e-a199-5fdf69134e2d

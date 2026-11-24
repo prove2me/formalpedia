@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_perfect_pairing_quotients
 -- name    : GlobalTheory.FinWeil.perfect_pairing_quotients
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:49:57.245781+00:00
 -- url     : https://prove2.me/theorems/d325e19d-18d4-4313-8f42-15d69c7c5a45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_glev_one
 -- name    : Formalism.FourierDecayAlt.P.Qx3.glev_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:21:21.202879+00:00
 -- url     : https://prove2.me/theorems/dff320a9-770a-4725-aea4-1438c3fc6bd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_sw_o
 -- name    : PI.IsotropicReflections.sw_o
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:53:07.623081+00:00
 -- url     : https://prove2.me/theorems/5f20b108-9c56-4926-bac9-d0b2857c9ed8

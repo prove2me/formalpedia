@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAdjSeries_ren_copy
 -- name    : GlobalTheory.FrameAdjSeries.ren_copy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:36:52.821164+00:00
 -- url     : https://prove2.me/theorems/005eb872-f793-4d87-8fc7-81b20f618e10

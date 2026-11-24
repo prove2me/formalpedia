@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_isUnit_det_of_UH
 -- name    : PIQnLT.isUnit_det_of_UH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:17:19.174957+00:00
 -- url     : https://prove2.me/theorems/4ccf5b4c-7c04-4ae0-9617-b84e625c0ba6

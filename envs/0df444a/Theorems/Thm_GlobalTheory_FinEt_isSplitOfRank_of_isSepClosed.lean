@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_isSplitOfRank_of_isSepClosed
 -- name    : GlobalTheory.FinEt.isSplitOfRank_of_isSepClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:10:26.811314+00:00
 -- url     : https://prove2.me/theorems/e305ca3d-a5be-41ea-bc2c-a184dad70409

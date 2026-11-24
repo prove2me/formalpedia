@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TrigPolyEvenPart
 -- name    : TrigPolyEvenPart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:13:33.497253+00:00
 -- url     : https://prove2.me/theorems/64cebea3-c8bf-4d37-b07b-1941ee26efec

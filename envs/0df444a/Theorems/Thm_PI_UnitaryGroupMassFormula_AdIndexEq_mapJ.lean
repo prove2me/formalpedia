@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_mapJ
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.mapJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:16:45.079823+00:00
 -- url     : https://prove2.me/theorems/f4e8dd94-eab2-4757-af6a-e593f636ce10

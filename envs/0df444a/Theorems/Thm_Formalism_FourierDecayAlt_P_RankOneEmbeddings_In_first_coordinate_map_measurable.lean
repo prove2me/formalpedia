@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_In_first_coordinate_map_measurable
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.In.first_coordinate_map_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:20:44.096119+00:00
 -- url     : https://prove2.me/theorems/c8df4344-b5b6-462e-811c-e899d56fef9e

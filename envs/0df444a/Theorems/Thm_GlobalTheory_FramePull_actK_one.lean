@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePull_actK_one
 -- name    : GlobalTheory.FramePull.actK_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:39:23.952733+00:00
 -- url     : https://prove2.me/theorems/8b8bfa14-79a9-40d1-ae7a-406d62db9294

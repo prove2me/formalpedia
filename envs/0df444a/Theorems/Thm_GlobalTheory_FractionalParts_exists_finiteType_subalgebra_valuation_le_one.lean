@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FractionalParts_exists_finiteType_subalgebra_valuation_le_one
 -- name    : GlobalTheory.FractionalParts.exists_finiteType_subalgebra_valuation_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:35:44.292601+00:00
 -- url     : https://prove2.me/theorems/196b4ef3-3e01-49c0-9ea9-f6d173a40231

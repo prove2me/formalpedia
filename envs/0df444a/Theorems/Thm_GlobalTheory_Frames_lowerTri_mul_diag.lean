@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_lowerTri_mul_diag
 -- name    : GlobalTheory.Frames.lowerTri_mul_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:42:19.050295+00:00
 -- url     : https://prove2.me/theorems/4fb2701b-7169-4342-acd6-b2ff585994ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_isClosed_UWset
 -- name    : Formalism.FourierDecayAlt.P.B6.isClosed_UWset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:56:35.683171+00:00
 -- url     : https://prove2.me/theorems/c234f570-8bce-42fe-8152-334f289745bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGeo_series_ext_one
 -- name    : GlobalTheory.FrameGeo.series_ext_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:38:05.388385+00:00
 -- url     : https://prove2.me/theorems/ce2a8c6f-0da7-4f7b-b10d-f731d40af0f5

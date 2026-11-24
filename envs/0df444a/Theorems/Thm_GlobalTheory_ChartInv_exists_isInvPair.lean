@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartInv_exists_isInvPair
 -- name    : GlobalTheory.ChartInv.exists_isInvPair
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:24:07.812536+00:00
 -- url     : https://prove2.me/theorems/3c09c4ab-39b8-49ad-83e9-ecd6c0e7a41e

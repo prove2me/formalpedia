@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatPoints_finite_algHom
 -- name    : GlobalTheory.FlatPoints.finite_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:33:20.107802+00:00
 -- url     : https://prove2.me/theorems/4520d284-47fc-487d-bd25-7ad5944373c3

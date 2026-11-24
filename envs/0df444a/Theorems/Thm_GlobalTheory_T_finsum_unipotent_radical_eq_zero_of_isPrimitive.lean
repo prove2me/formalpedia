@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finsum_unipotent_radical_eq_zero_of_isPrimitive
 -- name    : GlobalTheory.T.finsum_unipotent_radical_eq_zero_of_isPrimitive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:55:02.823176+00:00
 -- url     : https://prove2.me/theorems/dfed6a10-be2c-4411-8b0b-630256c85c49

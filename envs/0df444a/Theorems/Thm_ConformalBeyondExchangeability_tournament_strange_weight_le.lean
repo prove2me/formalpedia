@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalBeyondExchangeability_tournament_strange_weight_le
 -- name    : ConformalBeyondExchangeability.tournament_strange_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:51:33.429481+00:00
 -- url     : https://prove2.me/theorems/743d9784-c641-4832-aad0-3646385ce082

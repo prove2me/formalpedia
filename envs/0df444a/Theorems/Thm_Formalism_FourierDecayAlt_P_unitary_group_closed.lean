@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unitary_group_closed
 -- name    : Formalism.FourierDecayAlt.P.unitary_group_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:41:13.808892+00:00
 -- url     : https://prove2.me/theorems/6e4b7d71-3476-4af1-8354-c62365e2b11f

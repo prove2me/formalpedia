@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_comp_one_eq_ex_zero
 -- name    : GlobalTheory.ThetaFn.comp_one_eq_ex_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:22:44.462151+00:00
 -- url     : https://prove2.me/theorems/003060e9-7837-4c66-b2d3-44545bf52bfc

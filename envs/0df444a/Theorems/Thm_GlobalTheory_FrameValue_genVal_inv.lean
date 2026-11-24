@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_genVal_inv
 -- name    : GlobalTheory.FrameValue.genVal_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:50.351465+00:00
 -- url     : https://prove2.me/theorems/6803729a-df60-40a2-ac74-b28ad7266941

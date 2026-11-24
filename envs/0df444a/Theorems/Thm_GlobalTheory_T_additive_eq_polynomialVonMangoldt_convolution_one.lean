@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additive_eq_polynomialVonMangoldt_convolution_one
 -- name    : GlobalTheory.T.additive_eq_polynomialVonMangoldt_convolution_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:17:49.065422+00:00
 -- url     : https://prove2.me/theorems/a0cfc7ac-c57d-4186-b387-8fd2a949cbdb

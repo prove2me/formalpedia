@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_herm_sum_left
 -- name    : PI.StabPairsW.herm_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:28:14.906009+00:00
 -- url     : https://prove2.me/theorems/e5d2bd32-2bf2-4044-a0e5-66b634571adf

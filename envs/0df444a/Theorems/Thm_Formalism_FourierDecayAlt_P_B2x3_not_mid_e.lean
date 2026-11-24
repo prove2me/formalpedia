@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_not_mid_e
 -- name    : Formalism.FourierDecayAlt.P.B2x3.not_mid_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:13:52.733122+00:00
 -- url     : https://prove2.me/theorems/6327ef88-9380-46e3-b4ec-f4278f3dbeca

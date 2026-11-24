@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnits_primLin_apply
 -- name    : GlobalTheory.FrameUnits.primLin_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:31.783215+00:00
 -- url     : https://prove2.me/theorems/4d512b02-5577-4b6b-8b6c-9fc56925dd81

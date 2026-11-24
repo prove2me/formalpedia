@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_upK_unit
 -- name    : Formalism.FourierDecayAlt.P.Ux2.upK_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:22:07.890488+00:00
 -- url     : https://prove2.me/theorems/3b1b95c4-c7ca-4cbe-9b5f-1f259d245522

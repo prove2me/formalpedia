@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x4_liftVec_last
 -- name    : Formalism.FourierDecayAlt.P.B2x4.liftVec_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:26:02.815879+00:00
 -- url     : https://prove2.me/theorems/c547f8f5-8613-437f-a52d-19bcbb4d1351

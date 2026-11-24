@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_SecPull_lbSec_ext
 -- name    : GlobalTheory.Frames.SecPull.lbSec_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:38:58.513911+00:00
 -- url     : https://prove2.me/theorems/3e3c7a33-a14d-4b83-ae08-dcee3d7edba6

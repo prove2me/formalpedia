@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockAdj_map_rowAct
 -- name    : GlobalTheory.FockAdj.map_rowAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:21.486318+00:00
 -- url     : https://prove2.me/theorems/958588df-3507-4bb3-9a8f-2f712fdaf0bb

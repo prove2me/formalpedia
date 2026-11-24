@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteEndFlat_exists_open_flat
 -- name    : GlobalTheory.FiniteEndFlat.exists_open_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:30:36.751791+00:00
 -- url     : https://prove2.me/theorems/f26359c2-8e42-4ab7-9adf-98dbd4068837

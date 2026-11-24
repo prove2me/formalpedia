@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SettingConstruction_herm_add_right
 -- name    : Formalism.FourierDecayAlt.P.SettingConstruction.herm_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:22:28.630323+00:00
 -- url     : https://prove2.me/theorems/09bf8a7a-17a5-4737-af3c-7b116dfcf06f

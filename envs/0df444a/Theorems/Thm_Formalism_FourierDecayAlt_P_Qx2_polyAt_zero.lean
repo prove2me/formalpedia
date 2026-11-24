@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_polyAt_zero
 -- name    : Formalism.FourierDecayAlt.P.Qx2.polyAt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:20:47.647885+00:00
 -- url     : https://prove2.me/theorems/fd62bcf7-babd-46b8-9cad-3e35b2e63095

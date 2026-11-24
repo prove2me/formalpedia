@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_Adapted_mulVec_col
 -- name    : Formalism.FourierDecayAlt.Q.Adapted.mulVec_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:23:55.271804+00:00
 -- url     : https://prove2.me/theorems/4c3489e5-f889-457a-8de8-b57882a41e22

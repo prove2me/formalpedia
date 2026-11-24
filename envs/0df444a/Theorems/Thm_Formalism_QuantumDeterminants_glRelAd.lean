@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_glRelAd
 -- name    : Formalism.QuantumDeterminants.glRelAd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:13:31.391373+00:00
 -- url     : https://prove2.me/theorems/28cef325-4452-41e8-925a-70a50bba5773

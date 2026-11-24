@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_invariants_comp_subtype_iff
 -- name    : GroundTheory.ProfCoh.mem_invariants_comp_subtype_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:14:45.981282+00:00
 -- url     : https://prove2.me/theorems/57152594-e15a-4e3f-8b18-2913a7b93483

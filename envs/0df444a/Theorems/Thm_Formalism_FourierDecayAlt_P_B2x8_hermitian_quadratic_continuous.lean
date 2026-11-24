@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_hermitian_quadratic_continuous
 -- name    : Formalism.FourierDecayAlt.P.B2x8.hermitian_quadratic_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:21:06.004556+00:00
 -- url     : https://prove2.me/theorems/66c08f4f-de69-478b-8040-68c955e218ff

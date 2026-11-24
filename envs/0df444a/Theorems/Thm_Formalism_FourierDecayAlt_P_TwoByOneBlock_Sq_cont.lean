@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_Sq_cont
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.Sq_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:26:34.990103+00:00
 -- url     : https://prove2.me/theorems/7fb6aa4e-e689-4976-8dd7-5dcc190cbe27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_exists_finset_meeting_fibres
 -- name    : GlobalTheory.FrameNet.exists_finset_meeting_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:38:34.821791+00:00
 -- url     : https://prove2.me/theorems/de8a7445-8e79-437c-81ae-640bf1417f6f

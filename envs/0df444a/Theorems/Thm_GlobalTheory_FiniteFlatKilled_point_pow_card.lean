@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFlatKilled_point_pow_card
 -- name    : GlobalTheory.FiniteFlatKilled.point_pow_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:15.481902+00:00
 -- url     : https://prove2.me/theorems/1afba68b-2ed3-4fcf-8607-1f7c73d4a8c3

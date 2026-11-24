@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalSeries_coeff_single_subst
 -- name    : GlobalTheory.FormalSeries.coeff_single_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:36:19.133617+00:00
 -- url     : https://prove2.me/theorems/b274a7f3-4f5c-4519-8eaa-7ee41fffc94f

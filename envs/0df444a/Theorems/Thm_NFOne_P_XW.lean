@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_P_XW
 -- name    : NFOne.P_XW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:07:01.475795+00:00
 -- url     : https://prove2.me/theorems/00508afb-256f-4b57-bf15-26dee35dd3c6

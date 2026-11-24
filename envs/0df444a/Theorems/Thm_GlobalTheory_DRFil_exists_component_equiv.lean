@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_exists_component_equiv
 -- name    : GlobalTheory.DRFil.exists_component_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:36:34.409204+00:00
 -- url     : https://prove2.me/theorems/56b93e93-6219-4c04-9716-77025a582088

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FoldIntegral_fold
 -- name    : GlobalTheory.FoldIntegral.fold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:33:55.146708+00:00
 -- url     : https://prove2.me/theorems/520f617e-b723-440c-81b4-eb9859bf6679

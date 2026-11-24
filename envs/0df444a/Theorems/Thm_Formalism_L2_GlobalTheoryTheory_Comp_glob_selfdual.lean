@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_glob_selfdual
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.glob_selfdual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:35.94007+00:00
 -- url     : https://prove2.me/theorems/637c0f0e-4820-4216-aa6f-c90fc53195a0

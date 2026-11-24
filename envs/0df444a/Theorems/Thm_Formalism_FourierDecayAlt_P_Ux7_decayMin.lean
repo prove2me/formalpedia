@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux7_decayMin
 -- name    : Formalism.FourierDecayAlt.P.Ux7.decayMin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:23:46.441556+00:00
 -- url     : https://prove2.me/theorems/668fc185-af5b-4b48-92dc-bc441a4fd7db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBasic_det_mono_unit
 -- name    : GlobalTheory.FrameBasic.det_mono_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:36:21.621229+00:00
 -- url     : https://prove2.me/theorems/0379910b-79f8-405a-ac75-9331d8c18b9a

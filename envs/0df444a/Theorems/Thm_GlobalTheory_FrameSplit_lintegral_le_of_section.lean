@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameSplit_lintegral_le_of_section
 -- name    : GlobalTheory.FrameSplit.lintegral_le_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:39:00.325726+00:00
 -- url     : https://prove2.me/theorems/27192042-a1df-497a-a999-004bb6135c61

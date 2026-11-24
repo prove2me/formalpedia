@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_d_mod_sixteen
 -- name    : Formalism.HC.HostRaw.d_mod_sixteen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:10:54.767617+00:00
 -- url     : https://prove2.me/theorems/72281292-264b-4930-a676-1a6844857504

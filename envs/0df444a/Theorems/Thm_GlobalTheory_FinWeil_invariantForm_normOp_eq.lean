@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_invariantForm_normOp_eq
 -- name    : GlobalTheory.FinWeil.invariantForm_normOp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:30:09.39686+00:00
 -- url     : https://prove2.me/theorems/0087cf8f-5a87-42a2-9165-f8544f1ad089

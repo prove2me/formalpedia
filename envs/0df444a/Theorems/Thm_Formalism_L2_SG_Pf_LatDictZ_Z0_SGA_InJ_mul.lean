@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGA_InJ_mul
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGA.InJ.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:20:25.40759+00:00
 -- url     : https://prove2.me/theorems/42813613-62b6-486e-ba9c-f6e01aaa1f88

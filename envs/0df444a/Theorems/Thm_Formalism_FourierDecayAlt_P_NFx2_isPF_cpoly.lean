@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_isPF_cpoly
 -- name    : Formalism.FourierDecayAlt.P.NFx2.isPF_cpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:10:39.833962+00:00
 -- url     : https://prove2.me/theorems/3362df90-0b8e-4bc3-b952-a6782182cc7f

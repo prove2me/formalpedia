@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_phase_continuous
 -- name    : Formalism.FourierDecayAlt.P.B6.phase_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:56:53.307862+00:00
 -- url     : https://prove2.me/theorems/037a75f0-9753-4e9a-b474-11f2fa18cc6e

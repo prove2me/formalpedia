@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsThick_comb_injective
 -- name    : GlobalTheory.EpsThick.comb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:23:00.144616+00:00
 -- url     : https://prove2.me/theorems/7c2c88d1-e269-48e7-a7f3-03c2b624b7b6

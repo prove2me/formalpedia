@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnits_weight_nonneg_of_periodic
 -- name    : GlobalTheory.FrameUnits.weight_nonneg_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:21.859169+00:00
 -- url     : https://prove2.me/theorems/33e8506c-b07a-446d-9426-9e891df24902

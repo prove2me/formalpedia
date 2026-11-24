@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinProjComplete_isAdicComplete_pi
 -- name    : GlobalTheory.FinProjComplete.isAdicComplete_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:24:41.849661+00:00
 -- url     : https://prove2.me/theorems/a8a30051-937f-421d-b765-b88ea0588f8a

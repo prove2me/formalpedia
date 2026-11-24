@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothExtensionClosedSet_exists_smoothExt
 -- name    : Formalism.FourierDecayAlt.P.SmoothExtensionClosedSet.exists_smoothExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:36:09.591311+00:00
 -- url     : https://prove2.me/theorems/f2c0ec2a-f37e-4178-9d27-30be5f8bdf30

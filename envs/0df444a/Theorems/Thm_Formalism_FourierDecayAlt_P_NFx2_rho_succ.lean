@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_rho_succ
 -- name    : Formalism.FourierDecayAlt.P.NFx2.rho_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:20:00.149652+00:00
 -- url     : https://prove2.me/theorems/75f1eea4-a9dd-4c78-b4af-de64847f97ca

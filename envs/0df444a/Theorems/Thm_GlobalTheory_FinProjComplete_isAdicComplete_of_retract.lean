@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinProjComplete_isAdicComplete_of_retract
 -- name    : GlobalTheory.FinProjComplete.isAdicComplete_of_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:24:34.038285+00:00
 -- url     : https://prove2.me/theorems/6fa4e67e-af1c-46a5-9764-e95027437580

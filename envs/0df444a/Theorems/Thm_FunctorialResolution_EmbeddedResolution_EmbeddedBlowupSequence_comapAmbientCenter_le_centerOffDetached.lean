@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_comapAmbientCenter_le_centerOffDetached
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.comapAmbientCenter_le_centerOffDetached
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:14:09.971006+00:00
 -- url     : https://prove2.me/theorems/5eb2eded-3678-49b0-a4fa-7a0fde7b2521

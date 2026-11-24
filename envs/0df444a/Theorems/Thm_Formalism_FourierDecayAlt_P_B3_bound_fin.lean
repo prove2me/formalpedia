@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_bound_fin
 -- name    : Formalism.FourierDecayAlt.P.B3.bound_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:28:33.860106+00:00
 -- url     : https://prove2.me/theorems/c4c3e896-04fb-4fad-813a-3f2524c314ce

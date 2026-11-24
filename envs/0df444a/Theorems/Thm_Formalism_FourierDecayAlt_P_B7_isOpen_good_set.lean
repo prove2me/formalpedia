@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_isOpen_good_set
 -- name    : Formalism.FourierDecayAlt.P.B7.isOpen_good_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:18:53.347189+00:00
 -- url     : https://prove2.me/theorems/a3a902e5-5746-4265-8777-585fd08f7266

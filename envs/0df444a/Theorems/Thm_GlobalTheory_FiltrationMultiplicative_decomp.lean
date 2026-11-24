@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiltrationMultiplicative_decomp
 -- name    : GlobalTheory.FiltrationMultiplicative.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:33.975807+00:00
 -- url     : https://prove2.me/theorems/eb8581f7-f49c-4b02-9463-b000bdb1ba7b

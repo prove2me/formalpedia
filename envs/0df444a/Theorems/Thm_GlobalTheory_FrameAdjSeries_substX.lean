@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAdjSeries_substX
 -- name    : GlobalTheory.FrameAdjSeries.substX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:36:34.053089+00:00
 -- url     : https://prove2.me/theorems/01d71ea3-88ee-45ba-992c-818cddb8289c

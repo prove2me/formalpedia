@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirichletTail_LFunction_eq_tsum_of_one_lt
 -- name    : GlobalTheory.DirichletTail.LFunction_eq_tsum_of_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:38.932835+00:00
 -- url     : https://prove2.me/theorems/96054ccc-fcdc-4699-9b1b-2f151cc229e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_card_Icc_floor_le
 -- name    : GlobalTheory.FrameNet.card_Icc_floor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:38:00.682749+00:00
 -- url     : https://prove2.me/theorems/24c127a5-2287-446e-b7b1-8d4e7af7dfab

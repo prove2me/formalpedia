@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_fibre_card_nonzero
 -- name    : GlobalTheory.T.norm_fibre_card_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:36:12.129139+00:00
 -- url     : https://prove2.me/theorems/33e1f5c5-c782-4139-ba4a-ff7873fbb40d

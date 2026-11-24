@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_chartsAgreeAt_of_coord_eq_of_germ_mem
 -- name    : FunctorialResolution.EmbeddedResolution.chartsAgreeAt_of_coord_eq_of_germ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:13:16.143066+00:00
 -- url     : https://prove2.me/theorems/cb7d0adc-2814-431c-b3d9-d94add37ca35

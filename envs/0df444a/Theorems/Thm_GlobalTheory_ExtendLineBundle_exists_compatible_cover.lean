@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendLineBundle_exists_compatible_cover
 -- name    : GlobalTheory.ExtendLineBundle.exists_compatible_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:21:39.504722+00:00
 -- url     : https://prove2.me/theorems/171bd417-a118-423b-b617-0ff2f090fea7

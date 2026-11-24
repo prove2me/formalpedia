@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_wI_inj
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.wI_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:27:37.686085+00:00
 -- url     : https://prove2.me/theorems/3fee1e52-75b4-47ba-be15-204b0fc1a974

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_permutationMatrix_inv
 -- name    : Formalism.FourierDecayAlt.P.Ux2.permutationMatrix_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:49:30.379114+00:00
 -- url     : https://prove2.me/theorems/aebc97ce-b14d-449c-a6b6-8ae2dc2bfe06

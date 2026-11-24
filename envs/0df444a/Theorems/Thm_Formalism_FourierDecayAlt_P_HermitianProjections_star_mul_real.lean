@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianProjections_star_mul_real
 -- name    : Formalism.FourierDecayAlt.P.HermitianProjections.star_mul_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:19:31.499502+00:00
 -- url     : https://prove2.me/theorems/bd9cac9d-66dc-48a1-9444-cc2c62f76f57

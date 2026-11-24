@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_weylSum_inj
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.weylSum_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:19:04.556193+00:00
 -- url     : https://prove2.me/theorems/a36396e3-702d-4a8f-94f5-ddb710e0129e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_exists_factor_openImmersion
 -- name    : GlobalTheory.Frames.exists_factor_openImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:39:38.504868+00:00
 -- url     : https://prove2.me/theorems/297965ae-46c1-44fd-8584-99761dad778a

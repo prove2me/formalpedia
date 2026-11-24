@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_degree_eq_sum
 -- name    : GlobalTheory.FormalLog.degree_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:34:33.061467+00:00
 -- url     : https://prove2.me/theorems/a629d692-a9b6-4ed6-91e3-10bc5a050dd6

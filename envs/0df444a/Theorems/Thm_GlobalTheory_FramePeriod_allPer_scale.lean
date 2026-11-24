@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_allPer_scale
 -- name    : GlobalTheory.FramePeriod.allPer_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:37:38.92+00:00
 -- url     : https://prove2.me/theorems/f4e38130-5c89-469c-9ed3-e80be6c1d3b7

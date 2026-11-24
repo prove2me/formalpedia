@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_spMap_epsScaleR_comp
 -- name    : GlobalTheory.Frames.spMap_epsScaleR_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:33.443331+00:00
 -- url     : https://prove2.me/theorems/cc640216-f1a9-4125-a579-353bef23589e

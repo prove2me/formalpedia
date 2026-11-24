@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_pullback_map_injective
 -- name    : GlobalTheory.FieldBaseChange.pullback_map_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:26:19.447863+00:00
 -- url     : https://prove2.me/theorems/12809a19-97b3-41a1-a4f9-3de584adcd46

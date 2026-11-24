@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_hasDerivAt_log_difference_scaled
 -- name    : Formalism.FourierDecayAlt.P.B6.hasDerivAt_log_difference_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:17:42.334644+00:00
 -- url     : https://prove2.me/theorems/8e1b0c63-cf28-47c7-8c0d-27c333473d5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_map_ev_mul
 -- name    : GlobalTheory.FormalLog.map_ev_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:35:11.945058+00:00
 -- url     : https://prove2.me/theorems/07d6d8e9-82d3-4b81-9788-3e78c7f245e2

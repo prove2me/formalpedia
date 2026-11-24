@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_pos_comp
 -- name    : PIQnLT.pos_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:17:20.319793+00:00
 -- url     : https://prove2.me/theorems/f084d04e-4da6-4298-9f03-5f7bdefae7c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_isAddHaarMeasure_matrix_volume
 -- name    : Formalism.FourierDecayAlt.P.Ux6.isAddHaarMeasure_matrix_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:23:05.126697+00:00
 -- url     : https://prove2.me/theorems/9862dbaa-dba9-4968-aae4-3bac4d210cfb

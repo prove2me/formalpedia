@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdelicMatLat_isLattice_lat
 -- name    : GlobalTheory.AdelicMatLat.isLattice_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:01:57.5763+00:00
 -- url     : https://prove2.me/theorems/d91f9e80-95fb-4a2e-afd2-6d6175c7ddff

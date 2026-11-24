@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capelli_left_holds
 -- name    : Formalism.QuantumDeterminants.capelli_left_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:49:01.809847+00:00
 -- url     : https://prove2.me/theorems/d7aef323-9405-4f75-9555-d10acb71eac1

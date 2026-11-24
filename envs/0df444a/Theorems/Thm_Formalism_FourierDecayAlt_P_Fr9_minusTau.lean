@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_minusTau
 -- name    : Formalism.FourierDecayAlt.P.Fr9.minusTau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:04:25.422797+00:00
 -- url     : https://prove2.me/theorems/671a90c0-a672-4a1b-89c1-dcf838362298

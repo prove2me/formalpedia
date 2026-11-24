@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCoverGrowth_exists_norm_root_le
 -- name    : GlobalTheory.FiniteCoverGrowth.exists_norm_root_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:29:29.692435+00:00
 -- url     : https://prove2.me/theorems/bdd95924-7c2c-4cd5-93ff-43348b1cd893

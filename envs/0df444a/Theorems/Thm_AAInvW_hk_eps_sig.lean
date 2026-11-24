@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_hk_eps_sig
 -- name    : AAInvW.hk_eps_sig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:27:19.593837+00:00
 -- url     : https://prove2.me/theorems/eb67ebd2-907a-4d72-9111-8b80900f085f

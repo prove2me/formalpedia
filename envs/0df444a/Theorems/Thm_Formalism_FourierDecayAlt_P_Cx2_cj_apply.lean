@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Cx2_cj_apply
 -- name    : Formalism.FourierDecayAlt.P.Cx2.cj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:08:37.746093+00:00
 -- url     : https://prove2.me/theorems/dd20e060-7275-4094-a543-6b4651bddfc2

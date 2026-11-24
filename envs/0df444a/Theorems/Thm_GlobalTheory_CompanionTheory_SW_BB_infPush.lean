@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_infPush
 -- name    : GlobalTheory.CompanionTheory.SW.BB.infPush
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:02:48.308799+00:00
 -- url     : https://prove2.me/theorems/e2eeee3c-e420-4620-a997-8dde68575a32

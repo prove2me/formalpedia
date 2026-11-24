@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePotential_lminor_mul_upper
 -- name    : GlobalTheory.FramePotential.lminor_mul_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:40:17.260626+00:00
 -- url     : https://prove2.me/theorems/f7440878-c3a9-49bb-ae58-b8db03213f28

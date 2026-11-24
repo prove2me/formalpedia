@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_lower_sum_block_entry
 -- name    : Formalism.FourierDecayAlt.P.NFx2.lower_sum_block_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:19:42.364988+00:00
 -- url     : https://prove2.me/theorems/b6a36717-97d5-4f1b-946b-fcd7d72d870a

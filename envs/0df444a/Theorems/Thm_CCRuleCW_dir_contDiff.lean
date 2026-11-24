@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_dir_contDiff
 -- name    : CCRuleCW.dir_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:17:04.746271+00:00
 -- url     : https://prove2.me/theorems/e7f88bec-3688-470a-aa3b-e118242f772a

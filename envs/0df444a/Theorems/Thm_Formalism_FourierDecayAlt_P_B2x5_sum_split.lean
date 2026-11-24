@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_sum_split
 -- name    : Formalism.FourierDecayAlt.P.B2x5.sum_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:42:39.814976+00:00
 -- url     : https://prove2.me/theorems/767d4e97-8b35-4bda-bc93-e489af83f0b9

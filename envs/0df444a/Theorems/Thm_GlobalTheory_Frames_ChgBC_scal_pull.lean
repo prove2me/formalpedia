@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_ChgBC_scal_pull
 -- name    : GlobalTheory.Frames.ChgBC.scal_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:42:52.34597+00:00
 -- url     : https://prove2.me/theorems/04000fc6-ecce-4002-b61a-ec7dd8f415a4

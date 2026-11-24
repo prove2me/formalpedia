@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_wp_mul_left
 -- name    : GlobalTheory.LabelsAgree.wp_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:01:31.103205+00:00
 -- url     : https://prove2.me/theorems/11043666-4afa-4d9a-b474-cf95b2ac79e1

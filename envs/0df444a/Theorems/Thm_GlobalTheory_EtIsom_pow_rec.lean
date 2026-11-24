@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_pow_rec
 -- name    : GlobalTheory.EtIsom.pow_rec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:17:11.843553+00:00
 -- url     : https://prove2.me/theorems/0941826b-5501-4554-bebf-52256920bd4f

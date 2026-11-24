@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnWCellW_Wm_range_apply
 -- name    : PI.QnWCellW.Wm_range_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:01:16.485484+00:00
 -- url     : https://prove2.me/theorems/526e7ff9-16d6-455d-89b9-c139b4cf017c

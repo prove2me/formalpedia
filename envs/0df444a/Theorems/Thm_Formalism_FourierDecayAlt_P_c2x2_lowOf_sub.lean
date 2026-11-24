@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c2x2_lowOf_sub
 -- name    : Formalism.FourierDecayAlt.P.c2x2_lowOf_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:22:39.902097+00:00
 -- url     : https://prove2.me/theorems/fa35e8cd-92d2-4be6-b933-dee6e9d0260d

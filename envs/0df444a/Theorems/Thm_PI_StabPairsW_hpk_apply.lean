@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_hpk_apply
 -- name    : PI.StabPairsW.hpk_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:28:54.099946+00:00
 -- url     : https://prove2.me/theorems/80840542-313a-433a-ae13-1b423c3af9ad

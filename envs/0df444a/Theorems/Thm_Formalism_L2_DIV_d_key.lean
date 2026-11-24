@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_d_key
 -- name    : Formalism.L2.DIV.d_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:22:13.86506+00:00
 -- url     : https://prove2.me/theorems/43bb09d0-3140-482a-877f-292f86b38033

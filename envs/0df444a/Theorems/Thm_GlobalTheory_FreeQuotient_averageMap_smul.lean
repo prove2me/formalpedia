@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_averageMap_smul
 -- name    : GlobalTheory.FreeQuotient.averageMap_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:14.769852+00:00
 -- url     : https://prove2.me/theorems/fb67c11d-8e87-4ff3-8115-9fa3ec04023a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_ChgBC_isCombAt_unique
 -- name    : GlobalTheory.Frames.ChgBC.isCombAt_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:42:23.109892+00:00
 -- url     : https://prove2.me/theorems/4341c854-677e-4d2f-8656-0a209068be13

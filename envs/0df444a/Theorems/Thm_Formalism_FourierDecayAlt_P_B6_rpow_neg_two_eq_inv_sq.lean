@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_rpow_neg_two_eq_inv_sq
 -- name    : Formalism.FourierDecayAlt.P.B6.rpow_neg_two_eq_inv_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:18:14.58261+00:00
 -- url     : https://prove2.me/theorems/284b8a94-a26f-436f-8aee-12c58e1149af

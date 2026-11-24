@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameSymmetry_ofMul_eq
 -- name    : GlobalTheory.FrameSymmetry.ofMul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:39:35.124505+00:00
 -- url     : https://prove2.me/theorems/df689ea4-2dc5-4f29-b018-7e6b16bdc1fe

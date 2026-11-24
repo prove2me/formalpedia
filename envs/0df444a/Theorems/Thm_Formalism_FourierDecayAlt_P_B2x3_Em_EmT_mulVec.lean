@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_Em_EmT_mulVec
 -- name    : Formalism.FourierDecayAlt.P.B2x3.Em_EmT_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:42:44.922059+00:00
 -- url     : https://prove2.me/theorems/f6cf99c3-4184-45ce-9656-4806e05cf659

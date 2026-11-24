@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlipPathPairwise_srcDiff_of_join
 -- name    : GlobalTheory.FlipPathPairwise.srcDiff_of_join
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:32:53.432919+00:00
 -- url     : https://prove2.me/theorems/38dd533c-c291-4a30-a6c4-cbbdb6ce0ce4

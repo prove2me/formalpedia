@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibrePowerProper_isProper_eighth_fibre_power
 -- name    : GlobalTheory.FibrePowerProper.isProper_eighth_fibre_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:30.886342+00:00
 -- url     : https://prove2.me/theorems/1f1878ba-fbc2-4e56-87d6-0cbeedeca531

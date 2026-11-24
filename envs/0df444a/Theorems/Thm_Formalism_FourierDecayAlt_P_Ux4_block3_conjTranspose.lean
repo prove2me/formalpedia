@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux4_block3_conjTranspose
 -- name    : Formalism.FourierDecayAlt.P.Ux4.block3_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:58:03.292796+00:00
 -- url     : https://prove2.me/theorems/01e8e24a-cc0e-43bf-9c2b-312368b4dc18

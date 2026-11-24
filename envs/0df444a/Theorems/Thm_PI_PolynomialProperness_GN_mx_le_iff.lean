@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_mx_le_iff
 -- name    : PI.PolynomialProperness.GN.mx_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:28:57.063159+00:00
 -- url     : https://prove2.me/theorems/a402254d-01e6-42b2-9f4a-7b32a310da12

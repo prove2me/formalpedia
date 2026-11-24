@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalMulN_const_three
 -- name    : GlobalTheory.FormalMulN.const_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:36:43.723533+00:00
 -- url     : https://prove2.me/theorems/fba18a4b-51d9-4066-a9ea-dc6edf2027ff

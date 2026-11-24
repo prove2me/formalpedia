@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_exists_viol_of_not_kDom
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.exists_viol_of_not_kDom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:00:33.023335+00:00
 -- url     : https://prove2.me/theorems/749ed9ba-dfe3-4c78-ac9f-ed854492e0e9

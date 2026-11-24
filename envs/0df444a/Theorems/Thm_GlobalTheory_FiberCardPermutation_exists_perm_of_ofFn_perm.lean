@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiberCardPermutation_exists_perm_of_ofFn_perm
 -- name    : GlobalTheory.FiberCardPermutation.exists_perm_of_ofFn_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:58.466525+00:00
 -- url     : https://prove2.me/theorems/52f27777-84d4-47b5-acdd-464423ac57aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B6_sigmaFinite__SS_1f0045a81b6a
 -- name    : P2M_Formalism_FourierDecayAlt_P_B6_sigmaFinite__SS_1f0045a81b6a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:54:32.358142+00:00
 -- url     : https://prove2.me/theorems/1216cfbe-2eac-45d0-8992-e1588067bed4

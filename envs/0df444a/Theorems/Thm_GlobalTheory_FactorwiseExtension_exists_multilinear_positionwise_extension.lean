@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FactorwiseExtension_exists_multilinear_positionwise_extension
 -- name    : GlobalTheory.FactorwiseExtension.exists_multilinear_positionwise_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:17:54.851942+00:00
 -- url     : https://prove2.me/theorems/67deb8bf-6e59-4ff8-af2f-da04f9fee565

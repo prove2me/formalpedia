@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_grouping
 -- name    : AAInvW.grouping
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:27:11.400038+00:00
 -- url     : https://prove2.me/theorems/08c5fef3-444c-445f-9aab-d14a61c2247e

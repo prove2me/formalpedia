@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_isSquare_of_near
 -- name    : GlobalTheory.QuadSymbol.NormIndex.isSquare_of_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:02:49.397007+00:00
 -- url     : https://prove2.me/theorems/481109d7-0bb0-4ed6-9a31-7224ccae976b

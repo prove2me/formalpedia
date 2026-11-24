@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_IsLatSum_unique
 -- name    : GlobalTheory.CMVal.IsLatSum.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:50:04.760525+00:00
 -- url     : https://prove2.me/theorems/bf2a6344-d877-4dda-adea-7db4da8d39ea

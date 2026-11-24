@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatPoints_section_eq_zero_of_cover
 -- name    : GlobalTheory.FlatPoints.section_eq_zero_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:33:02.333318+00:00
 -- url     : https://prove2.me/theorems/583fd0b3-1ff4-4882-9fe4-f3e6bd40d4a1

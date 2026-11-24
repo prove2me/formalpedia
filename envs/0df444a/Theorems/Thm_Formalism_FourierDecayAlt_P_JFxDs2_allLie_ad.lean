@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs2_allLie_ad
 -- name    : Formalism.FourierDecayAlt.P.JFxDs2.allLie_ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:20:11.738722+00:00
 -- url     : https://prove2.me/theorems/9061444d-2de9-4800-ab84-ae7206f95819

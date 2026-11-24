@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_twist_exists_unit
 -- name    : Formalism.L2.DIV.twist_exists_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:22:52.61783+00:00
 -- url     : https://prove2.me/theorems/ba74fd5f-eec6-4c8e-8382-3d9caa9fc09e

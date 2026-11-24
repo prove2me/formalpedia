@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__ut_inv_c3f594f8935a
 -- name    : P2M_PI_MirrorSection__ut_inv_c3f594f8935a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:00:06.853362+00:00
 -- url     : https://prove2.me/theorems/cdc00109-1c4c-42c6-86e7-720ffe6bb0bd

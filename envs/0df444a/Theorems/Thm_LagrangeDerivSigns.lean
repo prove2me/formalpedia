@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LagrangeDerivSigns
 -- name    : LagrangeDerivSigns
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:13:36.020918+00:00
 -- url     : https://prove2.me/theorems/5400e5fb-a577-4efb-aef4-5bd2d8b612be

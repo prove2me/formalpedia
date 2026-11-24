@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpandsLinear_secScal_comb
 -- name    : GlobalTheory.ExpandsLinear.secScal_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:46:13.101605+00:00
 -- url     : https://prove2.me/theorems/e95d15a8-9d25-4f79-94cf-15a4fb103aba

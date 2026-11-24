@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiltrationMultiplicative_pow_le_filt
 -- name    : GlobalTheory.FiltrationMultiplicative.pow_le_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:23:55.384767+00:00
 -- url     : https://prove2.me/theorems/8da02c2a-c5fc-4c4d-a324-142928ac4837

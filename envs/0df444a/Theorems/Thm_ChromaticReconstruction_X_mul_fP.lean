@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_X_mul_fP
 -- name    : ChromaticReconstruction.X_mul_fP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:49:55.074913+00:00
 -- url     : https://prove2.me/theorems/a79ced15-c29e-4445-9357-2104f59ab388

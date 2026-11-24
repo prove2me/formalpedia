@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_eq_C_of_pderiv_zero
 -- name    : GlobalTheory.FormalLog.eq_C_of_pderiv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:34:32.55842+00:00
 -- url     : https://prove2.me/theorems/14a1724a-f44a-4e18-bc6f-a7aceea764d1

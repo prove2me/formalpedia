@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePotential_norm_dmin_of_isOrth
 -- name    : GlobalTheory.FramePotential.norm_dmin_of_isOrth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:39:55.941661+00:00
 -- url     : https://prove2.me/theorems/a1bd7f37-4d3f-406c-a316-d097c613a625

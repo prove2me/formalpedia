@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_intCastMul
 -- name    : PI.QnHermHaar.intCastMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:16:46.708906+00:00
 -- url     : https://prove2.me/theorems/df2e6bf7-98e7-4ee4-9b69-45bc9b5cc6c2

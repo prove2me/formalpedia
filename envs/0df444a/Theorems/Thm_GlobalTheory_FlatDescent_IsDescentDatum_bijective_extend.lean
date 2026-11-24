@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_IsDescentDatum_bijective_extend
 -- name    : GlobalTheory.FlatDescent.IsDescentDatum.bijective_extend
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:01:38.939161+00:00
 -- url     : https://prove2.me/theorems/dc182be3-afe2-4fd4-b5c3-a6ec0a96ca23

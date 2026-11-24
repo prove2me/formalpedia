@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_gramM_eq
 -- name    : PI.FrameInd.gramM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:18:11.726285+00:00
 -- url     : https://prove2.me/theorems/ee6349ed-7718-45a5-a19b-5274148aad58

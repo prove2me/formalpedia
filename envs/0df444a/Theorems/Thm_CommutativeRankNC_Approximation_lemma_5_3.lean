@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommutativeRankNC_Approximation_lemma_5_3
 -- name    : CommutativeRankNC.Approximation.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:50:34.459558+00:00
 -- url     : https://prove2.me/theorems/ffc61ae1-c244-4909-8794-d644ab65ef51

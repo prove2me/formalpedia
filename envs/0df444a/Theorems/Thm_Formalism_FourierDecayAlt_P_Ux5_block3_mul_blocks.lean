@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_block3_mul_blocks
 -- name    : Formalism.FourierDecayAlt.P.Ux5.block3_mul_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:23:00.404434+00:00
 -- url     : https://prove2.me/theorems/b4b7cdbd-bcb9-4b45-9b3b-a0fb7b9a2aa5

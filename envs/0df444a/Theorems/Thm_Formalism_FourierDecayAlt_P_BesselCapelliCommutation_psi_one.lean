@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BesselCapelliCommutation_psi_one
 -- name    : Formalism.FourierDecayAlt.P.BesselCapelliCommutation.psi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:19:01.828636+00:00
 -- url     : https://prove2.me/theorems/9451d22d-ed68-4dc7-9c10-b16f167843e7

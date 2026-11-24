@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_log_le_of_card_le
 -- name    : GlobalTheory.FrameNet.log_le_of_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:37:18.451894+00:00
 -- url     : https://prove2.me/theorems/17b6821f-cd11-4d9c-857c-7e29fbdb3937

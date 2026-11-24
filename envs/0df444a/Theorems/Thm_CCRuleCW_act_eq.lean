@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_act_eq
 -- name    : CCRuleCW.act_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:12:14.408824+00:00
 -- url     : https://prove2.me/theorems/b256959e-dd02-4365-bacc-464f3dbc7b62

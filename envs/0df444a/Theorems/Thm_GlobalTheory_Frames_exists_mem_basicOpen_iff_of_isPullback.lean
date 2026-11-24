@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_exists_mem_basicOpen_iff_of_isPullback
 -- name    : GlobalTheory.Frames.exists_mem_basicOpen_iff_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:42:45.914836+00:00
 -- url     : https://prove2.me/theorems/8dd7fd84-bddd-4a77-8668-e36161d65384

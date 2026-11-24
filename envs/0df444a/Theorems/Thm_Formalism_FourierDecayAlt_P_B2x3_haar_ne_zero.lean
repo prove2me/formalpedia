@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_haar_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.B2x3.haar_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:54:45.39291+00:00
 -- url     : https://prove2.me/theorems/2f75f6d7-974f-43c9-a7db-f240be3048bd

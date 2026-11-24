@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_det_rel
 -- name    : GlobalTheory.Frames.Model.det_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:39:39.069343+00:00
 -- url     : https://prove2.me/theorems/90e0f4c5-9b92-44cd-b23a-a350064ad734

@@ -48071,7 +48071,7 @@
 {"parent": "EliasGlobalClock_LowerBound_contentionModel", "child": "EliasGlobalClock_LowerBound_latencyModel", "via": ["statement"]}
 {"parent": "OAI.CubicEisenstein.unitCuspFrequency_lift", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspDilation", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.unitCuspFrequency_lift", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ArbitraryCuspPullback", "via": ["solution", "statement"]}
-{"parent": "SeedRecyclingDL.Codes.corollary_4_2", "child": "SeedRecyclingDL_Codes_Execution", "via": ["statement"]}
+{"parent": "SeedRecyclingDL.Codes.corollary_4_2", "child": "SeedRecyclingDL_Codes_Execution", "via": ["solution", "statement"]}
 {"parent": "RandomColorMix269.Mixing.lemma_5_14", "child": "RandomColorMix269_Mixing_Parameters", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26CanonicalRootWitnessCounterexample.actual_base_input", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_CanonicalHistoryMarks", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CanonicalRootWitnessCounterexample.actual_base_input", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_CanonicalRootWitnessCounterexample", "via": ["solution", "statement"]}
@@ -76104,7 +76104,7 @@
 {"parent": "LargeSupplyFPA.Asymptotic.lemma_3", "child": "LargeSupplyFPA_Asymptotic_Thresholds", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXQBlockTransport.incoming_one_q", "child": "QEC_Coding_FiniteAlternatingConstruction_RXQBlockTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXQBlockTransport.incoming_one_q", "child": "QEC_Coding_FiniteAlternatingConstruction_RXErrorPullback", "via": ["solution", "statement"]}
-{"parent": "TightPQRepetition.Main.lemma_5_7", "child": "TightPQRepetition_Main_Reduction", "via": ["statement"]}
+{"parent": "TightPQRepetition.Main.lemma_5_7", "child": "TightPQRepetition_Main_Reduction", "via": ["solution", "statement"]}
 {"parent": "ArbLindbladLearn_permOp3", "child": "LindbladTolerant_Testing_lindblad_model", "via": ["statement"]}
 {"parent": "OAI.SecondPassArithmetic.exists_polynomial_cutoff_order", "child": "OAI_NumberTheory_DirichletL_CubicSieve_CutoffOrders", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.exists_polynomial_cutoff_order", "child": "OAI_NumberTheory_DirichletL_Eisenstein_BarrierPotential", "via": ["solution", "statement"]}

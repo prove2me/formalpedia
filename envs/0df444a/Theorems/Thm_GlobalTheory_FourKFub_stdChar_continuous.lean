@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourKFub_stdChar_continuous
 -- name    : GlobalTheory.FourKFub.stdChar_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:35:51.158861+00:00
 -- url     : https://prove2.me/theorems/054ab092-412a-4759-9f18-c18f96e11338

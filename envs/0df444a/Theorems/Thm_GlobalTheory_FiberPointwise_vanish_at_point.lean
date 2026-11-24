@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiberPointwise_vanish_at_point
 -- name    : GlobalTheory.FiberPointwise.vanish_at_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:24:06.383452+00:00
 -- url     : https://prove2.me/theorems/875c5e74-eb4a-42f5-a264-44c2819a4e69

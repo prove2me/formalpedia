@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_det_permutationMatrix_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.Ux5.det_permutationMatrix_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:22:40.15157+00:00
 -- url     : https://prove2.me/theorems/c234800a-3bad-4b7b-b2d3-97e06189f488

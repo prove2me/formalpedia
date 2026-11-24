@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_hsInner_norm_le
 -- name    : Formalism.FourierDecayAlt.P.B6.hsInner_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:17:23.192193+00:00
 -- url     : https://prove2.me/theorems/cf6349dd-a851-4909-846c-8989faf1f434

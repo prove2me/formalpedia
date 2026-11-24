@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SandwichRhoAction_deriv_comp_of_leftInv
 -- name    : Formalism.FourierDecayAlt.P.SandwichRhoAction.deriv_comp_of_leftInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:21:45.715625+00:00
 -- url     : https://prove2.me/theorems/3a0e984a-2aeb-4e73-bdb0-2cdf3d387edf

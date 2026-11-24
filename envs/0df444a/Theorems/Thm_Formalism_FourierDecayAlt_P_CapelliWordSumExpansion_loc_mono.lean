@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliWordSumExpansion_loc_mono
 -- name    : Formalism.FourierDecayAlt.P.CapelliWordSumExpansion.loc_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:28:30.391874+00:00
 -- url     : https://prove2.me/theorems/080d46f4-918b-4049-9b52-f7a1860147f8

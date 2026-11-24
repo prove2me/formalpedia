@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivPowLPrime_dividedPowers_lPrime
 -- name    : GlobalTheory.DivPowLPrime.dividedPowers_lPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:50:32.654798+00:00
 -- url     : https://prove2.me/theorems/1a97fa24-5721-4f28-9ed6-50bfbc454877

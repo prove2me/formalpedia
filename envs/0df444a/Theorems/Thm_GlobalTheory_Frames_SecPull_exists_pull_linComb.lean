@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_SecPull_exists_pull_linComb
 -- name    : GlobalTheory.Frames.SecPull.exists_pull_linComb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:38:53.744399+00:00
 -- url     : https://prove2.me/theorems/008c91f0-88ce-4b07-8dfd-f3493930e018

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_isClosed_GV
 -- name    : Formalism.FourierDecayAlt.P.B7.isClosed_GV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:58:54.370627+00:00
 -- url     : https://prove2.me/theorems/17fe8e93-c2c7-4b09-8805-0c568d10ffda

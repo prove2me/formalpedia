@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_SecPull_ppx_chart_le
 -- name    : GlobalTheory.Frames.SecPull.ppx_chart_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:38:51.835971+00:00
 -- url     : https://prove2.me/theorems/ac1b7363-0557-479e-863f-dc68dc366ec9

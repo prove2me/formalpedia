@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodNonempty_exists_equiv_of_sum_eq
 -- name    : GlobalTheory.PeriodNonempty.exists_equiv_of_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:43:22.750666+00:00
 -- url     : https://prove2.me/theorems/695c3344-f02b-4ea5-86a1-64c436ce85f9

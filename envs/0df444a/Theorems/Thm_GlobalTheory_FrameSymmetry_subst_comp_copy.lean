@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameSymmetry_subst_comp_copy
 -- name    : GlobalTheory.FrameSymmetry.subst_comp_copy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:20.549829+00:00
 -- url     : https://prove2.me/theorems/715d7c6a-c5e0-4f54-8dd4-e7f8ee9b5f29

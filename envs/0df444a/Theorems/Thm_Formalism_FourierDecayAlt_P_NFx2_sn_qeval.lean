@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_sn_qeval
 -- name    : Formalism.FourierDecayAlt.P.NFx2.sn_qeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:21:22.226808+00:00
 -- url     : https://prove2.me/theorems/a0ebffd8-b62e-435e-be88-509a801c6504

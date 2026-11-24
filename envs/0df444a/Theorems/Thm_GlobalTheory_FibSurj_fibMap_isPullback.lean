@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibSurj_fibMap_isPullback
 -- name    : GlobalTheory.FibSurj.fibMap_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:23:24.086858+00:00
 -- url     : https://prove2.me/theorems/8dde3d65-cf65-4b74-ac55-93a53d3eeac1

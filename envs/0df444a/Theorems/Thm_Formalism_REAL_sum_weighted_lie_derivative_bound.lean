@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sum_weighted_lie_derivative_bound
 -- name    : Formalism.REAL.sum_weighted_lie_derivative_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:44.337017+00:00
 -- url     : https://prove2.me/theorems/76897ae6-9d23-47fe-a3cb-9866e46cb99b

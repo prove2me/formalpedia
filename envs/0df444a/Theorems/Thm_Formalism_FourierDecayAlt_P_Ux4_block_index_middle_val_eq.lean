@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux4_block_index_middle_val_eq
 -- name    : Formalism.FourierDecayAlt.P.Ux4.block_index_middle_val_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:22:49.874808+00:00
 -- url     : https://prove2.me/theorems/5809e8ee-5431-4bc8-845d-1c37ef5bc59a

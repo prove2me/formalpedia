@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_mul_hpk_apply
 -- name    : Formalism.FourierDecayAlt.Q.QRR.mul_hpk_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:23:58.898113+00:00
 -- url     : https://prove2.me/theorems/448cf739-6038-444d-9b1b-a9b1c6576b79

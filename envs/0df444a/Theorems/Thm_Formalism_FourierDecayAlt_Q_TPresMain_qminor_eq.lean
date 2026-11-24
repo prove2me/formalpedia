@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_qminor_eq
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.qminor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:24:53.97801+00:00
 -- url     : https://prove2.me/theorems/f117d0c2-ecb5-4451-ba27-41025c846f53

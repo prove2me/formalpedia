@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualCrit_clearsIdem_top_of_dual
 -- name    : GlobalTheory.DualCrit.clearsIdem_top_of_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:52:12.855797+00:00
 -- url     : https://prove2.me/theorems/b5999a65-e410-4c6d-ba6a-161bb3f4861b

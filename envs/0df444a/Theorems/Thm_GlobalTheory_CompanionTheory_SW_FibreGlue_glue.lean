@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreGlue_glue
 -- name    : GlobalTheory.CompanionTheory.SW.FibreGlue.glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:04:08.290896+00:00
 -- url     : https://prove2.me/theorems/431da969-5bf5-4435-94e4-6c7d9251e37b

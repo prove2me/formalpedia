@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteEndFlat_apply_genericPoint
 -- name    : GlobalTheory.FiniteEndFlat.apply_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:30:16.326065+00:00
 -- url     : https://prove2.me/theorems/215768e8-42c9-4199-8ad0-c44e667b7277

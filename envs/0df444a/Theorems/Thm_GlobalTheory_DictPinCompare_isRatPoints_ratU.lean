@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_isRatPoints_ratU
 -- name    : GlobalTheory.DictPinCompare.isRatPoints_ratU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:19:14.95817+00:00
 -- url     : https://prove2.me/theorems/01b89146-d26b-41c9-a1fb-d7654e2e60fc

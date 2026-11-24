@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_af_one_apply
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.af_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:28:48.522111+00:00
 -- url     : https://prove2.me/theorems/a6643d94-dd62-40f1-a88e-7d1fddf34715

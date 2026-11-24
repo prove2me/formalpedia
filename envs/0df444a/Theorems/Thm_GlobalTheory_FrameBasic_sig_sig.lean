@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBasic_sig_sig
 -- name    : GlobalTheory.FrameBasic.sig_sig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:36:29.909289+00:00
 -- url     : https://prove2.me/theorems/161cfc12-2cb9-44ad-9f6f-acf66769f965

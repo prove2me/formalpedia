@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_bijective_liftBaseChange_of_isBaseChange
 -- name    : GlobalTheory.FreeQuotient.bijective_liftBaseChange_of_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:26.378561+00:00
 -- url     : https://prove2.me/theorems/dba6ca13-b625-48e1-ba6d-0a7b40ae0ee4

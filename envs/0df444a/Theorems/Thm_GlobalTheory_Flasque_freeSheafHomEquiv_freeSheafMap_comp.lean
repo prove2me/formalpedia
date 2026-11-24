@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Flasque_freeSheafHomEquiv_freeSheafMap_comp
 -- name    : GlobalTheory.Flasque.freeSheafHomEquiv_freeSheafMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:31:30.15255+00:00
 -- url     : https://prove2.me/theorems/98360f10-6b0e-45a7-80e7-f28ff310afc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AlmostTrace_trace_almost_onto_of_levels
 -- name    : GlobalTheory.Cyc.AlmostTrace.trace_almost_onto_of_levels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:54.146351+00:00
 -- url     : https://prove2.me/theorems/98bc6fbd-4d36-4346-9920-3c2b91f87b02

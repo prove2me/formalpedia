@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B5_exp_add__1cbc0b4eea1f
 -- name    : P2M_Formalism_FourierDecayAlt_P_B5_exp_add__1cbc0b4eea1f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:16:04.756698+00:00
 -- url     : https://prove2.me/theorems/43981d4e-a260-4e70-a224-7d68681cc8e4

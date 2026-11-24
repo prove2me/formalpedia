@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux4_wMat_conjTranspose
 -- name    : Formalism.FourierDecayAlt.P.Ux4.wMat_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:19:39.185804+00:00
 -- url     : https://prove2.me/theorems/aa52df0e-8fd5-41d5-a41b-7853095d673d

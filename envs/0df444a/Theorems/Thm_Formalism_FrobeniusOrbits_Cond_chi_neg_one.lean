@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_chi_neg_one
 -- name    : Formalism.FrobeniusOrbits.Cond.chi_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:10:15.710809+00:00
 -- url     : https://prove2.me/theorems/baa02e9b-9551-491b-b005-3d7a5ba334fd

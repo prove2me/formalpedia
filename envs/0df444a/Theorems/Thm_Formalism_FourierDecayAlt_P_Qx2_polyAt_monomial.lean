@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_polyAt_monomial
 -- name    : Formalism.FourierDecayAlt.P.Qx2.polyAt_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:20:56.604822+00:00
 -- url     : https://prove2.me/theorems/b6169595-706a-4f20-944e-97d07df02f6c

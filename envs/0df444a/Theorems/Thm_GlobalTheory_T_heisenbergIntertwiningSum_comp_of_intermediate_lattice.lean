@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heisenbergIntertwiningSum_comp_of_intermediate_lattice
 -- name    : GlobalTheory.T.heisenbergIntertwiningSum_comp_of_intermediate_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:54:33.688835+00:00
 -- url     : https://prove2.me/theorems/584f5463-cb52-4621-babe-4ab5051c1541

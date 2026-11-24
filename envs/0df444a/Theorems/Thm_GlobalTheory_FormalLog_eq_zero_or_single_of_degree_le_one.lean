@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_eq_zero_or_single_of_degree_le_one
 -- name    : GlobalTheory.FormalLog.eq_zero_or_single_of_degree_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:36:10.504862+00:00
 -- url     : https://prove2.me/theorems/56a4a70d-6bc6-475a-841d-1340a355e5cd

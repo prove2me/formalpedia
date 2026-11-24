@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsDescent_coord_mul_rs
 -- name    : GlobalTheory.SectionsDescent.coord_mul_rs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:54:35.129591+00:00
 -- url     : https://prove2.me/theorems/4de0fbdc-387e-4016-82a1-18f9186498d2

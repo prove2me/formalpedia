@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_chain_step
 -- name    : GlobalTheory.CompanionTheory.TyFin.chain_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:15.901357+00:00
 -- url     : https://prove2.me/theorems/2f447861-5791-45a7-8f7d-fecffee27835

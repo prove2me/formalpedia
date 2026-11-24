@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_constantCoeff_formalExp
 -- name    : GlobalTheory.FormalCalc.constantCoeff_formalExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:28.349481+00:00
 -- url     : https://prove2.me/theorems/3bda2ce0-8489-4114-85f3-2d5a4cea6ed6

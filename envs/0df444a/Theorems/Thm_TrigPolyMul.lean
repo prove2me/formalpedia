@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TrigPolyMul
 -- name    : TrigPolyMul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:13:32.069995+00:00
 -- url     : https://prove2.me/theorems/f5b839a1-1ab2-4523-a2c2-859b055cec1e

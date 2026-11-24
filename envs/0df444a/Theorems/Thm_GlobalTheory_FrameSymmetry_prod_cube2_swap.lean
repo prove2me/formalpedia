@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameSymmetry_prod_cube2_swap
 -- name    : GlobalTheory.FrameSymmetry.prod_cube2_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:40:02.993981+00:00
 -- url     : https://prove2.me/theorems/210c1c3a-4d47-4cd0-9d34-fe6110c7bbc8

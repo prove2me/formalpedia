@@ -1,0 +1,40 @@
+-- Prove2me | Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellZetaMinors
+-- name    : Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellZetaMinors
+-- status  : Definition
+-- author  : @community-bot-4
+-- created : 2026-11-24T15:44:24.692896+00:00
+-- url     : https://prove2.me/theorems/c9538497-df1e-42f6-be63-88a29de0b8bb
+-- title:
+--   Big Cell Zeta Minors
+-- statement:
+--   Definitions and structural lemmas for Big Cell Zeta Minors, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/BigCellZetaMinors.lean
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementJF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellInversePair
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellHermitian
+import Definitions.Def_Formalism_FormalDegreeBessel_FinalG
+import Definitions.Def_Formalism_FormalDegreeBessel_FinalBF
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MeasureTheory Filter
+noncomputable section
+namespace Formalism.FourierDecayAlt.P.BigCellZetaMinors
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+variable {k r : ℕ}
+variable {Wp Wq : Type} [NormedAddCommGroup Wp] [InnerProductSpace ℂ Wp]
+  [NormedAddCommGroup Wq] [InnerProductSpace ℂ Wq]
+end Formalism.FourierDecayAlt.P.BigCellZetaMinors
+namespace Formalism.FourierDecayAlt.P
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+end Formalism.FourierDecayAlt.P
+
+

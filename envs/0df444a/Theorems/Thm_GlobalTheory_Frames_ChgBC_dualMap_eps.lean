@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_ChgBC_dualMap_eps
 -- name    : GlobalTheory.Frames.ChgBC.dualMap_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:39:37.039813+00:00
 -- url     : https://prove2.me/theorems/40308436-75ce-4bc3-856a-5115f21ada95

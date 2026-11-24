@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_lintegral_test_restrict
 -- name    : Formalism.FourierDecayAlt.P.B3.lintegral_test_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:29:24.96306+00:00
 -- url     : https://prove2.me/theorems/f777ced2-f06f-4e2d-b19c-7fdfca91376b

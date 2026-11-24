@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_mem_ptChart_iff
 -- name    : GlobalTheory.ThetaFn.mem_ptChart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:21:46.69338+00:00
 -- url     : https://prove2.me/theorems/53dd3d52-4e29-4c05-bd2a-d13b0705bbd8

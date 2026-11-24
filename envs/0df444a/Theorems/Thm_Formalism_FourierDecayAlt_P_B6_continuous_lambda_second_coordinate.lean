@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuous_lambda_second_coordinate
 -- name    : Formalism.FourierDecayAlt.P.B6.continuous_lambda_second_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:01:49.899404+00:00
 -- url     : https://prove2.me/theorems/d3c441f1-896f-4566-92a3-4aa669339516

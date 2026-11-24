@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LatitudeMaximizer
 -- name    : LatitudeMaximizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:58:39.218792+00:00
 -- url     : https://prove2.me/theorems/8267ff75-36a4-4404-b3b7-a409eb21a748

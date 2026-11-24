@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourKTest_secondCountable
 -- name    : GlobalTheory.FourKTest.secondCountable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:35:59.885785+00:00
 -- url     : https://prove2.me/theorems/ae7c0cb5-a696-48dc-b832-1b2a0fa771ba

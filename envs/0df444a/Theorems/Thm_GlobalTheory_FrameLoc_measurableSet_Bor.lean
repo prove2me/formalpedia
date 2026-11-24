@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameLoc_measurableSet_Bor
 -- name    : GlobalTheory.FrameLoc.measurableSet_Bor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:42.135399+00:00
 -- url     : https://prove2.me/theorems/5c5bea4c-3c86-451a-8a0c-ec80417932c6

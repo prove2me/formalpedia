@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnaryQuadraticKKT_Hardness_chain_exact
 -- name    : UnaryQuadraticKKT.Hardness.chain_exact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T15:44:18.814226+00:00
 -- url     : https://prove2.me/theorems/fbdea933-a4e4-4895-83dd-214ed52a902e

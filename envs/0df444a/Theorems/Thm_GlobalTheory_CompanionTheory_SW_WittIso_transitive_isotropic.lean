@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittIso_transitive_isotropic
 -- name    : GlobalTheory.CompanionTheory.SW.WittIso.transitive_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:12:39.688468+00:00
 -- url     : https://prove2.me/theorems/7dbd0e00-8f77-44f1-b71e-81253f00bd0a

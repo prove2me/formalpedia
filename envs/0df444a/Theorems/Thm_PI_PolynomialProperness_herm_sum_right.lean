@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_herm_sum_right
 -- name    : PI.PolynomialProperness.herm_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:18:02.119621+00:00
 -- url     : https://prove2.me/theorems/04f657a2-3cb0-41a0-82cf-153c5c36edcd

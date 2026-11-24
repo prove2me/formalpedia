@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteBirationalNear_exists_isIso_of_isIntegral
 -- name    : GlobalTheory.FiniteBirationalNear.exists_isIso_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:29:52.785542+00:00
 -- url     : https://prove2.me/theorems/69cd1a15-398b-47be-8e47-b2e0ee5ce2d1

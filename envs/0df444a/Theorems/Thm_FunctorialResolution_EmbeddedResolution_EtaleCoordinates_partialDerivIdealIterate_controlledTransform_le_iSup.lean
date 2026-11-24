@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_partialDerivIdealIterate_controlledTransform_le_iSup
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.partialDerivIdealIterate_controlledTransform_le_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:16:03.947882+00:00
 -- url     : https://prove2.me/theorems/2e79307e-02f5-449f-a940-aa458d0c2bc0

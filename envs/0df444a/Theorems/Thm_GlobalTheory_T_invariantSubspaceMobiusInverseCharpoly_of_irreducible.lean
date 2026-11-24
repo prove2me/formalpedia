@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariantSubspaceMobiusInverseCharpoly_of_irreducible
 -- name    : GlobalTheory.T.invariantSubspaceMobiusInverseCharpoly_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:54:42.62261+00:00
 -- url     : https://prove2.me/theorems/63f891f4-9734-4d58-b962-8758bb45980d

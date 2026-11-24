@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_spMap_dualMap_left
 -- name    : GlobalTheory.Frames.spMap_dualMap_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:37.039799+00:00
 -- url     : https://prove2.me/theorems/be5d2cb6-e065-4c72-bb52-44e79514d21f

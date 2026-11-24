@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_word_le_order
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.word_le_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:29:09.807042+00:00
 -- url     : https://prove2.me/theorems/d65a34b9-2081-4f18-b6c5-f1790af391fa

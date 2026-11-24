@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_edgeFinset_nonempty_of_connected
 -- name    : ChromaticReconstruction.edgeFinset_nonempty_of_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:20:35.633817+00:00
 -- url     : https://prove2.me/theorems/0f1190a9-2898-4b99-8933-08407214f11f

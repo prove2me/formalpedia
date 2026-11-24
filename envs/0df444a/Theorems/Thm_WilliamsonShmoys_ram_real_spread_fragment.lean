@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_ram_real_spread_fragment
 -- name    : WilliamsonShmoys.ram_real_spread_fragment
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T15:28:54.212518+00:00
 -- url     : https://prove2.me/theorems/b6cbf3f2-5e91-49ff-bf1b-2b08498d5936

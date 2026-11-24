@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_summable_vt_QT
 -- name    : GlobalTheory.Ex.summable_vt_QT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:42:38.2108+00:00
 -- url     : https://prove2.me/theorems/2a50858b-4907-4ef8-baec-34c3c9026122

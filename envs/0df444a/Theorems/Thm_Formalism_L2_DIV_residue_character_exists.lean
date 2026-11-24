@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_residue_character_exists
 -- name    : Formalism.L2.DIV.residue_character_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:22:29.676037+00:00
 -- url     : https://prove2.me/theorems/28277bf8-072e-49df-9e18-c9ac53a24b6b

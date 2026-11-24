@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameLoc_continuous_upPart
 -- name    : GlobalTheory.FrameLoc.continuous_upPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:38:10.533477+00:00
 -- url     : https://prove2.me/theorems/3b344153-0fb1-464a-8e76-2a100151440b

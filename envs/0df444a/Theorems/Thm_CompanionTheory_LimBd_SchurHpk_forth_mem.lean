@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_SchurHpk_forth_mem
 -- name    : CompanionTheory.LimBd.SchurHpk.forth_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:27:46.791857+00:00
 -- url     : https://prove2.me/theorems/79de5e73-3edd-416e-87b9-8eccc77c1649

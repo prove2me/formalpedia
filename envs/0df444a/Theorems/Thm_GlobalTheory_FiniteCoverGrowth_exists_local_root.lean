@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCoverGrowth_exists_local_root
 -- name    : GlobalTheory.FiniteCoverGrowth.exists_local_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:29:27.45113+00:00
 -- url     : https://prove2.me/theorems/de5bdfcb-d831-442a-8c72-19691e80bf46

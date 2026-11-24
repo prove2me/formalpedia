@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameLoc_lowPart_glue
 -- name    : GlobalTheory.FrameLoc.lowPart_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:27.787682+00:00
 -- url     : https://prove2.me/theorems/70e2984c-36b1-42ec-bb5d-06d4dd005088

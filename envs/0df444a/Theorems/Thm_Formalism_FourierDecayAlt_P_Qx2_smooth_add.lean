@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_smooth_add
 -- name    : Formalism.FourierDecayAlt.P.Qx2.smooth_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:14:40.928347+00:00
 -- url     : https://prove2.me/theorems/357f2c38-d0b9-4185-b828-0e56ca91d495

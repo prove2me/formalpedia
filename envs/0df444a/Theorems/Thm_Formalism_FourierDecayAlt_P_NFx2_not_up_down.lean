@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_not_up_down
 -- name    : Formalism.FourierDecayAlt.P.NFx2.not_up_down
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:19:34.358195+00:00
 -- url     : https://prove2.me/theorems/ab2b8448-0d28-4412-9b6b-d066d51701b3

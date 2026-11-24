@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_measurableSet_Qset
 -- name    : Formalism.FourierDecayAlt.P.B7.measurableSet_Qset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:53:12.945829+00:00
 -- url     : https://prove2.me/theorems/b59b5591-b69a-4f01-bb8a-202944ac26c3

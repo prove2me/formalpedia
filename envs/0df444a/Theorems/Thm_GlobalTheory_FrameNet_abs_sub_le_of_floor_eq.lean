@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_abs_sub_le_of_floor_eq
 -- name    : GlobalTheory.FrameNet.abs_sub_le_of_floor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:38:13.783163+00:00
 -- url     : https://prove2.me/theorems/8d9a5b24-7f65-44cf-962b-773ed633e5b3

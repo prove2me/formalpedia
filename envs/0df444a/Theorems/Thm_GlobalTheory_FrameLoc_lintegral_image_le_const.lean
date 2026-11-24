@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameLoc_lintegral_image_le_const
 -- name    : GlobalTheory.FrameLoc.lintegral_image_le_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:40:06.658984+00:00
 -- url     : https://prove2.me/theorems/bbd72576-c458-4227-8bc5-60cb506e6418

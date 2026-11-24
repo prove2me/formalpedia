@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_fam_hasFDerivAt
 -- name    : Formalism.FourierDecayAlt.P.Qx3.fam_hasFDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:15:31.953656+00:00
 -- url     : https://prove2.me/theorems/4360efee-7581-4db2-a53d-76796f2a05f2

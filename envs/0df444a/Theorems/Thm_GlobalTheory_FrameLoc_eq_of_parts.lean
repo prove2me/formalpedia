@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameLoc_eq_of_parts
 -- name    : GlobalTheory.FrameLoc.eq_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:58:50.97293+00:00
 -- url     : https://prove2.me/theorems/6734b8bf-b043-42dc-997f-b099322c5f04

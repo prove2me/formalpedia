@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_appLE_id_apply
 -- name    : GlobalTheory.Frames.Model.appLE_id_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:39:25.216265+00:00
 -- url     : https://prove2.me/theorems/6ae3726b-7a71-48bd-b55c-b1ac9aa04744

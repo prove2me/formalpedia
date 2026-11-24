@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_box_bound
 -- name    : Formalism.FourierDecayAlt.P.B3.box_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:29:53.27419+00:00
 -- url     : https://prove2.me/theorems/ef8cd7eb-ea1b-4b6a-a6ed-80dee3bf0fc5

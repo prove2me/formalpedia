@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_exists_sumsAt_halfCurve
 -- name    : GlobalTheory.Conv.exists_sumsAt_halfCurve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:27:13.791991+00:00
 -- url     : https://prove2.me/theorems/80385844-c638-4cce-b011-b74c295daeb4

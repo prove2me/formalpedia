@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBasic_basis_of_isCompl
 -- name    : GlobalTheory.FrameBasic.basis_of_isCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:35:44.929501+00:00
 -- url     : https://prove2.me/theorems/52c3a2db-45f5-41fa-a078-9343e4edee14

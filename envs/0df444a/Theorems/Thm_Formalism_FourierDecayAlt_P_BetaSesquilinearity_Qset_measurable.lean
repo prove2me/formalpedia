@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_Qset_measurable
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.Qset_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:30:45.954667+00:00
 -- url     : https://prove2.me/theorems/7b212a0d-9b60-45f4-ad5f-0eb84b51cbb4

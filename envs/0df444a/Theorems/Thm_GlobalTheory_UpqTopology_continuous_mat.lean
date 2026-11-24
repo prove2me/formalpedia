@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqTopology_continuous_mat
 -- name    : GlobalTheory.UpqTopology.continuous_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:20:18.488684+00:00
 -- url     : https://prove2.me/theorems/47be3591-710e-4524-b297-da9679f5e036

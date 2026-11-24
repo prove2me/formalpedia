@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCocycle_subst_mapAt
 -- name    : GlobalTheory.FormalCocycle.subst_mapAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:53:37.057865+00:00
 -- url     : https://prove2.me/theorems/1466d6eb-e16c-4d1a-b26c-f2df282ecdb9

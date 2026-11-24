@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCovolume_measurableSet_cellOver
 -- name    : GlobalTheory.FiniteCovolume.measurableSet_cellOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:30:43.501367+00:00
 -- url     : https://prove2.me/theorems/83ac1dc1-7861-4a93-987d-bab6711cac59

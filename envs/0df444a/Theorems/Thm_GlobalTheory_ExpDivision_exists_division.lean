@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpDivision_exists_division
 -- name    : GlobalTheory.ExpDivision.exists_division
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:07:15.862775+00:00
 -- url     : https://prove2.me/theorems/31f4b740-047c-4fae-bf72-ce239f8d0c2f

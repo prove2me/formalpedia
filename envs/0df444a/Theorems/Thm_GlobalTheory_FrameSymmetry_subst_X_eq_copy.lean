@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameSymmetry_subst_X_eq_copy
 -- name    : GlobalTheory.FrameSymmetry.subst_X_eq_copy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:39:31.150807+00:00
 -- url     : https://prove2.me/theorems/3697d2ef-6983-4ce6-b9cb-d6110409520f

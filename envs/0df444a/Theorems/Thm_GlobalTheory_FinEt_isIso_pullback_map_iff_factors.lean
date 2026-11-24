@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_isIso_pullback_map_iff_factors
 -- name    : GlobalTheory.FinEt.isIso_pullback_map_iff_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:24:07.421801+00:00
 -- url     : https://prove2.me/theorems/b1cb0d80-d42f-4941-99f2-8c5dc2a4db48

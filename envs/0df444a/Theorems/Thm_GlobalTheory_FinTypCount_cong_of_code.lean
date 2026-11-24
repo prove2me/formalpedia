@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypCount_cong_of_code
 -- name    : GlobalTheory.FinTypCount.cong_of_code
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:26:01.121018+00:00
 -- url     : https://prove2.me/theorems/5875f58a-1936-4135-8657-71c1c016aca3

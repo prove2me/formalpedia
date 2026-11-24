@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_SecPull_gxMap_fst
 -- name    : GlobalTheory.Frames.SecPull.gxMap_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:39:25.346459+00:00
 -- url     : https://prove2.me/theorems/e01b282d-08a9-4441-9ffa-4a5bc43212bc

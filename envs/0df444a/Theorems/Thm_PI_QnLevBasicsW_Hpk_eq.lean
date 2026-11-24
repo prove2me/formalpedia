@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_Hpk_eq
 -- name    : PI.QnLevBasicsW.Hpk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:08:20.750036+00:00
 -- url     : https://prove2.me/theorems/011e19f9-16a4-494b-949f-835c90bf37f4

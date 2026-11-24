@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_natCast_lt_inf
 -- name    : Formalism.IndefR.Eqv.natCast_lt_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:23:20.233774+00:00
 -- url     : https://prove2.me/theorems/7fe0dbd1-dddb-4fed-bbe1-f7836e957ff1

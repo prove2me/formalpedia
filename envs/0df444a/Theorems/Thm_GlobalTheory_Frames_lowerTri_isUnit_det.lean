@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_lowerTri_isUnit_det
 -- name    : GlobalTheory.Frames.lowerTri_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:36.476416+00:00
 -- url     : https://prove2.me/theorems/bb72927f-35e5-4cb3-a82f-9fe320d53a3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePull_germ_ev_ev_single_point_comp
 -- name    : GlobalTheory.FramePull.germ_ev_ev_single_point_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:38:50.052815+00:00
 -- url     : https://prove2.me/theorems/1cf1dc64-34c9-478e-84a8-23d2a3122d24

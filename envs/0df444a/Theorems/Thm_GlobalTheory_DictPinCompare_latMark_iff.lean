@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_latMark_iff
 -- name    : GlobalTheory.DictPinCompare.latMark_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:19:18.7178+00:00
 -- url     : https://prove2.me/theorems/84219d1b-c04e-4344-a81b-898e04190205

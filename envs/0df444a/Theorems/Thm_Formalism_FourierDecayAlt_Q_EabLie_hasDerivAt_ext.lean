@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabLie_hasDerivAt_ext
 -- name    : Formalism.FourierDecayAlt.Q.EabLie.hasDerivAt_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:23:59.045607+00:00
 -- url     : https://prove2.me/theorems/cab5d25d-4d39-43ea-91fb-e58040556f47

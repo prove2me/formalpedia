@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_eT_of_mem
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.eT_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:23:29.574859+00:00
 -- url     : https://prove2.me/theorems/a44c17cc-625f-468f-993c-79a95210bec1

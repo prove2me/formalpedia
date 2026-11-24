@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_lift_mem
 -- name    : GlobalTheory.FrameValue.lift_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:00.747859+00:00
 -- url     : https://prove2.me/theorems/160050cb-11cb-413d-871f-08d015c5af31

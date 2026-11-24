@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_genValIn_eq
 -- name    : GlobalTheory.FrameValue.genValIn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:02.885675+00:00
 -- url     : https://prove2.me/theorems/077ab7ff-07e9-4190-b71d-46727a1e6a9f

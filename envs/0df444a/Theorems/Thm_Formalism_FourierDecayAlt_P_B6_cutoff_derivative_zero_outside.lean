@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_cutoff_derivative_zero_outside
 -- name    : Formalism.FourierDecayAlt.P.B6.cutoff_derivative_zero_outside
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:57:11.404438+00:00
 -- url     : https://prove2.me/theorems/53d3bc7a-0458-4831-869d-5d074f352083

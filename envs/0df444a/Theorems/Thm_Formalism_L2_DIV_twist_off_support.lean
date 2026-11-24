@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_twist_off_support
 -- name    : Formalism.L2.DIV.twist_off_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:22:23.114382+00:00
 -- url     : https://prove2.me/theorems/c96982c1-c870-4a56-874d-1a479a3757d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_chromSymm_iso
 -- name    : ChromaticReconstruction.chromSymm_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:57:54.428092+00:00
 -- url     : https://prove2.me/theorems/68dcd9ac-8e5a-49cd-b61e-a204fd5fb67b

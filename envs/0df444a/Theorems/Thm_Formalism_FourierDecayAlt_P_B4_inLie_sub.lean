@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_inLie_sub
 -- name    : Formalism.FourierDecayAlt.P.B4.inLie_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:27:43.832538+00:00
 -- url     : https://prove2.me/theorems/dba2be1e-29d3-4776-a1b1-400fda1525fe

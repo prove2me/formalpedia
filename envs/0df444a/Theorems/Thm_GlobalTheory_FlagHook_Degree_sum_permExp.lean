@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagHook_Degree_sum_permExp
 -- name    : GlobalTheory.FlagHook.Degree.sum_permExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:41.687609+00:00
 -- url     : https://prove2.me/theorems/b280c52a-2ae0-47a3-bf89-ccf172c043cc

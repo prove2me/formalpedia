@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_formalGroupLaw_ev_y_zero
 -- name    : GlobalTheory.FormalLog.formalGroupLaw_ev_y_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:35:19.881046+00:00
 -- url     : https://prove2.me/theorems/d3793804-03e0-48ee-8840-6445f1adb1cd

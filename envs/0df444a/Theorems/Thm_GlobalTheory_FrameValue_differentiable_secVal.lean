@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_differentiable_secVal
 -- name    : GlobalTheory.FrameValue.differentiable_secVal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:26:49.2931+00:00
 -- url     : https://prove2.me/theorems/b2a0940d-b56a-4599-b971-9988a6004510

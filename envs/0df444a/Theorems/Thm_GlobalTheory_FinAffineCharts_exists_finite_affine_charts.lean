@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinAffineCharts_exists_finite_affine_charts
 -- name    : GlobalTheory.FinAffineCharts.exists_finite_affine_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:24:12.233535+00:00
 -- url     : https://prove2.me/theorems/ac8858a8-4051-412b-a4e1-4679ff1d194f

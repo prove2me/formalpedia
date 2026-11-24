@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_rename_mem_weightGe
 -- name    : GlobalTheory.FormalInv.rename_mem_weightGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:34:56.276725+00:00
 -- url     : https://prove2.me/theorems/1d1a2006-1bc8-4477-8e7e-b1ecc5a0e83e

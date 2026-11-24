@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_isDR_of_isCrys
 -- name    : GlobalTheory.DRFil.isDR_of_isCrys
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:33:14.757554+00:00
 -- url     : https://prove2.me/theorems/d523271e-41ab-4bc2-8566-11efe33ed6c7

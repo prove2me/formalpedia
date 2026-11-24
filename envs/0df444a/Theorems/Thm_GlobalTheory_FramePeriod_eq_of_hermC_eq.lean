@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_eq_of_hermC_eq
 -- name    : GlobalTheory.FramePeriod.eq_of_hermC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:38:54.167922+00:00
 -- url     : https://prove2.me/theorems/65a1f1cb-a828-4eb1-93a0-af7a51329e76

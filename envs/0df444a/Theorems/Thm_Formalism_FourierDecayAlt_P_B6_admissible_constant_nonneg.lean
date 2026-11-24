@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_admissible_constant_nonneg
 -- name    : Formalism.FourierDecayAlt.P.B6.admissible_constant_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:47:58.773363+00:00
 -- url     : https://prove2.me/theorems/941e7370-5d2d-4c75-a184-b66170f55fab

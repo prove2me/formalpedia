@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnits_prod_zpow_eq_zpow_sum
 -- name    : GlobalTheory.FrameUnits.prod_zpow_eq_zpow_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:06.323768+00:00
 -- url     : https://prove2.me/theorems/e6775210-2373-4625-b083-8abc0b3ee1f3

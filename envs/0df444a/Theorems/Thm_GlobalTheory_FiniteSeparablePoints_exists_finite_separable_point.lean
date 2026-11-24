@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteSeparablePoints_exists_finite_separable_point
 -- name    : GlobalTheory.FiniteSeparablePoints.exists_finite_separable_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:31.638539+00:00
 -- url     : https://prove2.me/theorems/45e343a2-3165-4652-8360-b5d9301fc38f

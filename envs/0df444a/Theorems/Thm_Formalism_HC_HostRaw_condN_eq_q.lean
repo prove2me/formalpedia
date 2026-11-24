@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_condN_eq_q
 -- name    : Formalism.HC.HostRaw.condN_eq_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:27:15.864876+00:00
 -- url     : https://prove2.me/theorems/47deeca2-c8a9-4075-9010-20673b0dacf4

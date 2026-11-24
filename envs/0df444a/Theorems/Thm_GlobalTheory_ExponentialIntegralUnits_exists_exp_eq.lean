@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExponentialIntegralUnits_exists_exp_eq
 -- name    : GlobalTheory.ExponentialIntegralUnits.exists_exp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:07:12.224572+00:00
 -- url     : https://prove2.me/theorems/b3884802-0bfc-45d4-901f-4049aa08134d

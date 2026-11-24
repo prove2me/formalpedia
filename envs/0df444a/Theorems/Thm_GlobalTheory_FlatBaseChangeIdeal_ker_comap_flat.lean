@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatBaseChangeIdeal_ker_comap_flat
 -- name    : GlobalTheory.FlatBaseChangeIdeal.ker_comap_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:31:06.29319+00:00
 -- url     : https://prove2.me/theorems/2fbd401a-c733-49b7-86cd-c50c5ab979f3

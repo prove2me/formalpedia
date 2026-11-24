@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_card_fibre
 -- name    : GlobalTheory.FramePeriod.card_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:39:05.190181+00:00
 -- url     : https://prove2.me/theorems/040cb96b-8214-4b36-ad02-a95a298477dd

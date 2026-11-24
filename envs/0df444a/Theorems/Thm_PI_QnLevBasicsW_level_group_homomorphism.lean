@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_level_group_homomorphism
 -- name    : PI.QnLevBasicsW.level_group_homomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:25:57.715794+00:00
 -- url     : https://prove2.me/theorems/2f838d96-5589-4973-a9a9-f45195226e72

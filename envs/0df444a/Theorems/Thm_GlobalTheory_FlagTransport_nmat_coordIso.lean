@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_nmat_coordIso
 -- name    : GlobalTheory.FlagTransport.nmat_coordIso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:18.3788+00:00
 -- url     : https://prove2.me/theorems/f16deaf2-57f6-4779-8880-322c0d7ae783

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_qMinorLeft
 -- name    : Formalism.QuantumDeterminants.qMinorLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:15:57.96762+00:00
 -- url     : https://prove2.me/theorems/4ec7f9b6-8023-4bf9-aa4e-b7b06a79a68b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_CCA_Dw_snoc
 -- name    : PI.UnitaryCorollaryDerivatives.CCA.Dw_snoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:17:48.746349+00:00
 -- url     : https://prove2.me/theorems/16b77e95-177e-4c60-ba27-af9764b2b10d

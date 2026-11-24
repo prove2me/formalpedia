@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_sgs_eq
 -- name    : Formalism.FourierDecayAlt.P.B6.sgs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:11:55.750223+00:00
 -- url     : https://prove2.me/theorems/f1afeb81-b7f5-41ec-b9d4-76779f301070

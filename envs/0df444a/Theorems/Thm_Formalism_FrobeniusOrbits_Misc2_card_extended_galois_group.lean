@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Misc2_card_extended_galois_group
 -- name    : Formalism.FrobeniusOrbits.Misc2.card_extended_galois_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:12:02.38481+00:00
 -- url     : https://prove2.me/theorems/aa99dfa9-4b2d-4998-9bf0-034d485179ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_ChgBC_spMap_comp_ring
 -- name    : GlobalTheory.Frames.ChgBC.spMap_comp_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:39:25.374885+00:00
 -- url     : https://prove2.me/theorems/5ffa3772-a9f0-4f3c-8d49-20987e197aff

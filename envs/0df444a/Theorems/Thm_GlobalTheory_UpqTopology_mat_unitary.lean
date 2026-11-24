@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqTopology_mat_unitary
 -- name    : GlobalTheory.UpqTopology.mat_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:20:13.503497+00:00
 -- url     : https://prove2.me/theorems/cb316061-d06b-43ff-aaf2-1b0e53637871

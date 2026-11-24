@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_finrank_pi_pi_complex
 -- name    : Formalism.FourierDecayAlt.P.Ux6.finrank_pi_pi_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:22:58.23209+00:00
 -- url     : https://prove2.me/theorems/1ce725ea-ca96-4a00-ab12-af56ff9eeca4

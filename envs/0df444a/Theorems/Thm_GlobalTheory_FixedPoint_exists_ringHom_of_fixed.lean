@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_exists_ringHom_of_fixed
 -- name    : GlobalTheory.FixedPoint.exists_ringHom_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:20.967808+00:00
 -- url     : https://prove2.me/theorems/1706b78b-c8fd-4256-a28d-f0a1b16fc720

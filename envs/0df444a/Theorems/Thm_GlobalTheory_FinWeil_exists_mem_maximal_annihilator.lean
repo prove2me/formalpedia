@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_exists_mem_maximal_annihilator
 -- name    : GlobalTheory.FinWeil.exists_mem_maximal_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:25:47.129004+00:00
 -- url     : https://prove2.me/theorems/c1faa7c5-f3f4-4df5-8472-589766d233da

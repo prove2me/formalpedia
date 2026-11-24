@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_SecCalc_pm_exists
 -- name    : GlobalTheory.Frames.SecCalc.pm_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:26.917591+00:00
 -- url     : https://prove2.me/theorems/9e00f26e-a9d1-483f-a152-3419a7ea2dd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_mat_mulVec
 -- name    : GlobalTheory.EtIsom.mat_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:14:58.755219+00:00
 -- url     : https://prove2.me/theorems/9591af87-bfc2-490c-b08a-44d36a6d2395

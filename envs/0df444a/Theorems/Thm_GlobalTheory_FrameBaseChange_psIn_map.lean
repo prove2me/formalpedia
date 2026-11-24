@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBaseChange_psIn_map
 -- name    : GlobalTheory.FrameBaseChange.psIn_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:35:55.038721+00:00
 -- url     : https://prove2.me/theorems/d01944b6-ecad-476c-afc1-c2cada2b4b88

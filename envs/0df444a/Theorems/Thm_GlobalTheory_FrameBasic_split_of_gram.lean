@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBasic_split_of_gram
 -- name    : GlobalTheory.FrameBasic.split_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:37:05.87205+00:00
 -- url     : https://prove2.me/theorems/3c4997ce-2afc-43fd-840c-deb496bef3e3

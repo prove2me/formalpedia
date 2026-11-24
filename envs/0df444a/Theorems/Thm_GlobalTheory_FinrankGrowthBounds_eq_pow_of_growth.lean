@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinrankGrowthBounds_eq_pow_of_growth
 -- name    : GlobalTheory.FinrankGrowthBounds.eq_pow_of_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:42.379621+00:00
 -- url     : https://prove2.me/theorems/216d5667-6a73-4822-8a97-05308ee7c096

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IwasawaOf_spherical_mem
 -- name    : GlobalTheory.Doubling.IwasawaOf.spherical_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:08.054449+00:00
 -- url     : https://prove2.me/theorems/5037efa5-ffec-4c3c-bbc7-aefb6ef15929

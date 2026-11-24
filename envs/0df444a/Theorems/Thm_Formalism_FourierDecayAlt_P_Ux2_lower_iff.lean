@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_lower_iff
 -- name    : Formalism.FourierDecayAlt.P.Ux2.lower_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:50:59.372799+00:00
 -- url     : https://prove2.me/theorems/bac7446c-1b4f-495a-be59-8c8c9bb772ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePartialLaw_jetPt_trunc
 -- name    : GlobalTheory.FramePartialLaw.jetPt_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:38:15.102023+00:00
 -- url     : https://prove2.me/theorems/8635b870-87fd-4886-928e-8d21533ca109

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EpAlgSmul
 -- name    : EpAlgSmul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:58:42.559683+00:00
 -- url     : https://prove2.me/theorems/5dcb2abd-6a74-4900-a6ff-99582d8a7a61

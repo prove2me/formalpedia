@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_jc_ae_FM
 -- name    : Formalism.FourierDecayAlt.P.B7.jc_ae_FM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:18:06.655066+00:00
 -- url     : https://prove2.me/theorems/3cfc2535-ec39-4135-b642-d9744cf93030

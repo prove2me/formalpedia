@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Basic_herm_smul_right
 -- name    : GlobalTheory.UnitLemma.Basic.herm_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:15:36.945798+00:00
 -- url     : https://prove2.me/theorems/4997f33a-2b99-47c6-ad55-b113f1283168

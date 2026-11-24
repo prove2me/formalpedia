@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightPQRepetition_Main_lemma_5_7
 -- name    : TightPQRepetition.Main.lemma_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T23:44:36.232618+00:00
 -- url     : https://prove2.me/theorems/d181a7c3-3fe1-4a8b-9165-61c7bbc9db01

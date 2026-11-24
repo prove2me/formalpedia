@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_map_ev_one
 -- name    : GlobalTheory.FormalLog.map_ev_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:34:57.217461+00:00
 -- url     : https://prove2.me/theorems/e0cb98d2-930a-4fc2-b305-1ebd44f2bf30

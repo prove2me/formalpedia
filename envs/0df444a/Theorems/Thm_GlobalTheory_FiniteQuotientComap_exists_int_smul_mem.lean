@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteQuotientComap_exists_int_smul_mem
 -- name    : GlobalTheory.FiniteQuotientComap.exists_int_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:22.594038+00:00
 -- url     : https://prove2.me/theorems/cbb5ddc4-7431-4393-9224-e5125c18c0f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstThickening_structure_dualNumber
 -- name    : GlobalTheory.ConstThickening.structure_dualNumber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:32:32.712924+00:00
 -- url     : https://prove2.me/theorems/04b3e731-66c2-4c92-83a8-d459a11a7013

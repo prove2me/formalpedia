@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_integral_affine_pow_eq_hPoly
 -- name    : GlobalTheory.FibLine.integral_affine_pow_eq_hPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:23.925304+00:00
 -- url     : https://prove2.me/theorems/32825454-1b65-49bd-9061-acfed55cb098

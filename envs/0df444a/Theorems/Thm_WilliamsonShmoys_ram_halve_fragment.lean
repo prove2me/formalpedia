@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_ram_halve_fragment
 -- name    : WilliamsonShmoys.ram_halve_fragment
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T15:24:42.865913+00:00
 -- url     : https://prove2.me/theorems/3decf909-29a7-4058-9fdf-9fc79318a254

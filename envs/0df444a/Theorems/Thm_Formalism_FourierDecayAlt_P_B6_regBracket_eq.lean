@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regBracket_eq
 -- name    : Formalism.FourierDecayAlt.P.B6.regBracket_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:51:15.096798+00:00
 -- url     : https://prove2.me/theorems/4449362a-b78c-4f59-8f16-0c46bac2989c

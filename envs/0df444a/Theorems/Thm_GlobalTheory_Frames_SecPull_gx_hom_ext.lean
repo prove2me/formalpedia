@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_SecPull_gx_hom_ext
 -- name    : GlobalTheory.Frames.SecPull.gx_hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:39:12.22482+00:00
 -- url     : https://prove2.me/theorems/81814fdc-556d-4915-8471-297c8708b411

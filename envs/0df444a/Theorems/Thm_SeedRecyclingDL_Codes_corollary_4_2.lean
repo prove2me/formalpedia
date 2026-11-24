@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeedRecyclingDL_Codes_corollary_4_2
 -- name    : SeedRecyclingDL.Codes.corollary_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:08:10.541232+00:00
 -- url     : https://prove2.me/theorems/0395a0c5-3c55-4fcf-b0a2-bcd88620e480

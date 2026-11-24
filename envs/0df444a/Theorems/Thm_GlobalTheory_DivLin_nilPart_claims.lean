@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivLin_nilPart_claims
 -- name    : GlobalTheory.DivLin.nilPart_claims
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:55.427285+00:00
 -- url     : https://prove2.me/theorems/a299ea4b-08a5-4cee-8970-ade1543fcedb

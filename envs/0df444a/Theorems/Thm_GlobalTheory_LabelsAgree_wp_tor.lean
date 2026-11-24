@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_wp_tor
 -- name    : GlobalTheory.LabelsAgree.wp_tor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:06:13.013147+00:00
 -- url     : https://prove2.me/theorems/37e419a6-2987-4a19-a6d4-13e795048e2d

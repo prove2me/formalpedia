@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameRing_of_algEquiv
 -- name    : GlobalTheory.FrameRing_of_algEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:12.142546+00:00
 -- url     : https://prove2.me/theorems/89b90191-367f-41ae-98a4-7ddab0d0e765

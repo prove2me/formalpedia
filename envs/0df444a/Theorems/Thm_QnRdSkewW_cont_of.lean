@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_cont_of
 -- name    : QnRdSkewW.cont_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:24:04.458175+00:00
 -- url     : https://prove2.me/theorems/f069c617-0fea-4a22-8dc5-6848a5e84800

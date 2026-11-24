@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Int_norm_txT
 -- name    : GlobalTheory.Ex.NumD.Int.norm_txT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:06:33.753845+00:00
 -- url     : https://prove2.me/theorems/b30b089d-4536-4524-b4ba-f03dc2b3a42b

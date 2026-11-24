@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_ut_last
 -- name    : PI.StabPairs.Conv.ut_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:18:39.384276+00:00
 -- url     : https://prove2.me/theorems/77eeb1a8-3a10-4020-b714-8097a8bd9f06

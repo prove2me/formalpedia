@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_sumFamily_X
 -- name    : GlobalTheory.FormalInv.sumFamily_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:34:35.230314+00:00
 -- url     : https://prove2.me/theorems/c9b82a11-1abb-4c51-a26a-d9b2596d0f06

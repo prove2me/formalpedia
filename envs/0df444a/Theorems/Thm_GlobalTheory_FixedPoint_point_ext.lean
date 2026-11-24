@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_point_ext
 -- name    : GlobalTheory.FixedPoint.point_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:30.49323+00:00
 -- url     : https://prove2.me/theorems/2534b424-1231-4982-a95f-35d13adf2360

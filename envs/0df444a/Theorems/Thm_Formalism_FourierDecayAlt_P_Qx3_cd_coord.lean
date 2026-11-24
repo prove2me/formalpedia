@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_cd_coord
 -- name    : Formalism.FourierDecayAlt.P.Qx3.cd_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:10:28.067354+00:00
 -- url     : https://prove2.me/theorems/9bca3d07-b488-4e22-a897-e0af882ab1f7

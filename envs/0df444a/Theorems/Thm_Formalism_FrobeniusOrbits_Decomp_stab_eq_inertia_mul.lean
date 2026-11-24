@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Decomp_stab_eq_inertia_mul
 -- name    : Formalism.FrobeniusOrbits.Decomp.stab_eq_inertia_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:10:08.884558+00:00
 -- url     : https://prove2.me/theorems/06ebc7c4-7fac-412b-abea-70dd4146df31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_add_sub_cancel_gen
 -- name    : ChromaticReconstruction.add_sub_cancel_gen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:53:37.287831+00:00
 -- url     : https://prove2.me/theorems/94ec5f9b-77f0-4ff4-95fb-66b9516e66d5

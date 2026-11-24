@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_bvec_lev
 -- name    : PIQnLT.bvec_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:17:21.272997+00:00
 -- url     : https://prove2.me/theorems/0b6c829d-2907-4122-bcd3-3f6a637dc19d

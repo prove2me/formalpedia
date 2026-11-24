@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_Gl_not_mem_of_coprime
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.Gl.not_mem_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:18:59.226139+00:00
 -- url     : https://prove2.me/theorems/690743b9-32fc-4366-a105-b18604c7dd62

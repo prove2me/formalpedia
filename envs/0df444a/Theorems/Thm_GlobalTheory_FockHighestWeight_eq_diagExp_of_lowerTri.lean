@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockHighestWeight_eq_diagExp_of_lowerTri
 -- name    : GlobalTheory.FockHighestWeight.eq_diagExp_of_lowerTri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:28.0138+00:00
 -- url     : https://prove2.me/theorems/3a0ca0e7-891e-42e7-86f8-0c5087a3f38a

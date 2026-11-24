@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_QStr_root_over
 -- name    : GlobalTheory.Ex.QStr.root_over
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:51:44.071313+00:00
 -- url     : https://prove2.me/theorems/bf3cd8a9-648d-4a77-b14d-8ffabcf767d2

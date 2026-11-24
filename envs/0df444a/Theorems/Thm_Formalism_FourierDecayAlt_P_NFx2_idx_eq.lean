@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_idx_eq
 -- name    : Formalism.FourierDecayAlt.P.NFx2.idx_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:19:25.103333+00:00
 -- url     : https://prove2.me/theorems/0dd3a0a7-19f5-4d55-913c-74849a3e5d61

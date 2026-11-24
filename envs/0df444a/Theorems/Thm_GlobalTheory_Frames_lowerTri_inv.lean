@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_lowerTri_inv
 -- name    : GlobalTheory.Frames.lowerTri_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:42:04.888741+00:00
 -- url     : https://prove2.me/theorems/40cc0dbd-9530-491b-a09c-cab77852a99b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinrankGrowthBounds_mulSec_injective
 -- name    : GlobalTheory.FinrankGrowthBounds.mulSec_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:31:07.224918+00:00
 -- url     : https://prove2.me/theorems/37a524a8-fbb5-46d6-969e-097f42c4094e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_scaled_operator_norm
 -- name    : Formalism.FourierDecayAlt.P.B6.scaled_operator_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:17:36.785828+00:00
 -- url     : https://prove2.me/theorems/a92d18dc-d7ef-44ad-94d3-d23fbcb35641

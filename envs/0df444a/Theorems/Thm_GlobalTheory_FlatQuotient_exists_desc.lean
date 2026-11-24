@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatQuotient_exists_desc
 -- name    : GlobalTheory.FlatQuotient.exists_desc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:51.359043+00:00
 -- url     : https://prove2.me/theorems/85e504a5-d1b8-42b8-a583-a95ed2ef56df

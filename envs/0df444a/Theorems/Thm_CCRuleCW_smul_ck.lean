@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_smul_ck
 -- name    : CCRuleCW.smul_ck
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:19:00.178003+00:00
 -- url     : https://prove2.me/theorems/4e9d671a-20b6-4610-b989-4f5f3c05dd84

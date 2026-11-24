@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_ChgBC_gx_ext
 -- name    : GlobalTheory.Frames.ChgBC.gx_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:10.171488+00:00
 -- url     : https://prove2.me/theorems/81cad3ed-1f2a-4dc2-ae9f-6685a389db5e

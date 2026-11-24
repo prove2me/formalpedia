@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_mono_cubeFaceSequence___iff_45ee17f4c004
 -- name    : P2M_GlobalTheory_mono_cubeFaceSequence___iff_45ee17f4c004
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:56.253634+00:00
 -- url     : https://prove2.me/theorems/d7b85ce5-b376-4b17-ab15-63af190d3c78

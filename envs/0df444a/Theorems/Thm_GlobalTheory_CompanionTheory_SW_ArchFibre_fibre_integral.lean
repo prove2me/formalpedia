@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArchFibre_fibre_integral
 -- name    : GlobalTheory.CompanionTheory.SW.ArchFibre.fibre_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:01:32.528745+00:00
 -- url     : https://prove2.me/theorems/4ef2bde2-2e77-4a2c-9863-92bbc8978905

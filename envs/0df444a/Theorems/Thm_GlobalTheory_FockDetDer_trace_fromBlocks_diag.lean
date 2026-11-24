@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockDetDer_trace_fromBlocks_diag
 -- name    : GlobalTheory.FockDetDer.trace_fromBlocks_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:05.24972+00:00
 -- url     : https://prove2.me/theorems/eb4fd7da-cda5-4cd2-904f-307eb3c6597d

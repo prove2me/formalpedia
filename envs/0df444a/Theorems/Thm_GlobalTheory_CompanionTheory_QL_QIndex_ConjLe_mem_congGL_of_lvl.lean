@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_ConjLe_mem_congGL_of_lvl
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.ConjLe.mem_congGL_of_lvl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:55:56.698574+00:00
 -- url     : https://prove2.me/theorems/8fdd2c24-5768-4c9d-b6df-de4383897d6c

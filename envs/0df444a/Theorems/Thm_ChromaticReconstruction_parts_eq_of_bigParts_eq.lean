@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_parts_eq_of_bigParts_eq
 -- name    : ChromaticReconstruction.parts_eq_of_bigParts_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:12:03.921807+00:00
 -- url     : https://prove2.me/theorems/880e3d4a-629b-41d1-a7ea-aff44239c117

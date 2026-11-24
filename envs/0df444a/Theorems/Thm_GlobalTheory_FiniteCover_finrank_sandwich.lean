@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCover_finrank_sandwich
 -- name    : GlobalTheory.FiniteCover.finrank_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:29:31.516817+00:00
 -- url     : https://prove2.me/theorems/767995a9-c5ab-4ab2-b295-8cefab921097

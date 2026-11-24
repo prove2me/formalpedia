@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_isSplitting_of_isDomain
 -- name    : GlobalTheory.EigenSplit.isSplitting_of_isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:06:05.49234+00:00
 -- url     : https://prove2.me/theorems/f3912a5b-723e-4737-b97c-f88587cb1ae0

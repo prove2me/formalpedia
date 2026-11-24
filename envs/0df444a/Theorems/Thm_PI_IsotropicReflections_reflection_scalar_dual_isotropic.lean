@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_reflection_scalar_dual_isotropic
 -- name    : PI.IsotropicReflections.reflection_scalar_dual_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:00:02.763606+00:00
 -- url     : https://prove2.me/theorems/dd140997-e4b5-4202-9859-aa2a9f6aa19b

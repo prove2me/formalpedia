@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_sgs_eq
 -- name    : Formalism.FourierDecayAlt.P.B5.sgs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:53:59.835185+00:00
 -- url     : https://prove2.me/theorems/36198e18-de13-42aa-934d-83a4b3709303

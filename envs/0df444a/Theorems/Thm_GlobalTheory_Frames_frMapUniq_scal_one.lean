@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_frMapUniq_scal_one
 -- name    : GlobalTheory.Frames.frMapUniq_scal_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:43:15.756099+00:00
 -- url     : https://prove2.me/theorems/80d838c7-75b8-4d0c-be8c-76e919c05157

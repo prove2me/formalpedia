@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c6_budgetArith_proof
 -- name    : Formalism.FourierDecayAlt.P.c6_budgetArith_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:23:32.444893+00:00
 -- url     : https://prove2.me/theorems/2b2869a6-35c2-444c-989f-b49fdff4570c

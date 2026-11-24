@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_LogDeriv_conv_eq_sum
 -- name    : GlobalTheory.CuspGL.LogDeriv.conv_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:22:01.675894+00:00
 -- url     : https://prove2.me/theorems/829afcf5-9e29-462a-8fd1-f7a969b031ae

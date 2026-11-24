@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IwasawaOf_flatOf_mem
 -- name    : GlobalTheory.Doubling.IwasawaOf.flatOf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:03.748234+00:00
 -- url     : https://prove2.me/theorems/6d39d395-e3bb-415b-ba10-5803efc706a4

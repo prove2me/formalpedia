@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaFn_valAt__appLE__46c54dbc5e3c
 -- name    : P2M_GlobalTheory_ThetaFn_valAt__appLE__46c54dbc5e3c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:21:51.590943+00:00
 -- url     : https://prove2.me/theorems/8b1e41a8-d565-4f70-8e32-0c3efbe7e40b

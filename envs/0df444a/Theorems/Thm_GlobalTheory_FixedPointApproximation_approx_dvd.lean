@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPointApproximation_approx_dvd
 -- name    : GlobalTheory.FixedPointApproximation.approx_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:31:26.455662+00:00
 -- url     : https://prove2.me/theorems/21440cfb-f386-41c4-a263-bea7d55dce81

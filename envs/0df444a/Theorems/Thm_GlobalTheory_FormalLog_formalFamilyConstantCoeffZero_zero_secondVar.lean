@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_formalFamilyConstantCoeffZero_zero_secondVar
 -- name    : GlobalTheory.FormalLog.formalFamilyConstantCoeffZero_zero_secondVar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:35:08.911073+00:00
 -- url     : https://prove2.me/theorems/239225f4-0298-4a22-a719-dd22c0ba71f1

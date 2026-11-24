@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBaseChange_gm_unit_map
 -- name    : GlobalTheory.FrameBaseChange.gm_unit_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:36:10.784995+00:00
 -- url     : https://prove2.me/theorems/e6f36c1f-f84d-44cc-8cd6-d057e4c9b35d

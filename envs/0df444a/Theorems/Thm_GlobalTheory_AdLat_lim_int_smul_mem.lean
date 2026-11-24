@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_lim_int_smul_mem
 -- name    : GlobalTheory.AdLat.lim_int_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:20:31.277447+00:00
 -- url     : https://prove2.me/theorems/4651ca01-6315-4555-8c10-6c4d7b3a9569

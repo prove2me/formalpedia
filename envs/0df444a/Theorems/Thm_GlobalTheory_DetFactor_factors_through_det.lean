@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetFactor_factors_through_det
 -- name    : GlobalTheory.DetFactor.factors_through_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:04.710941+00:00
 -- url     : https://prove2.me/theorems/7f217648-8119-41cd-99ec-2ef3a2e79ad7

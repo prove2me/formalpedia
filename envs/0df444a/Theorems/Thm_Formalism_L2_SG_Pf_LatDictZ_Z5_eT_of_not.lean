@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_eT_of_not
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.eT_of_not
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:23:21.327792+00:00
 -- url     : https://prove2.me/theorems/32425cbc-8f2d-4402-958b-1f5a41a5d709

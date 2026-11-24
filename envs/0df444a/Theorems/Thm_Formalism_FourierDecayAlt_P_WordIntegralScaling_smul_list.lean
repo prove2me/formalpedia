@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordIntegralScaling_smul_list
 -- name    : Formalism.FourierDecayAlt.P.WordIntegralScaling.smul_list
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:29:36.235143+00:00
 -- url     : https://prove2.me/theorems/6b20cc24-0c76-432b-853a-442d8ec3872b

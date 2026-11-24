@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_etaleChartCoord_injective
 -- name    : FunctorialResolution.EmbeddedResolution.etaleChartCoord_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:28:51.193106+00:00
 -- url     : https://prove2.me/theorems/daa96ee2-3792-494d-98eb-3dc5b5c851df

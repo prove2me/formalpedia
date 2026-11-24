@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_resChar_spec
 -- name    : Formalism.L2.DIV.b_resChar_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:22:30.669811+00:00
 -- url     : https://prove2.me/theorems/4991f6c3-d302-4bef-ad5e-ed16436d0dd5

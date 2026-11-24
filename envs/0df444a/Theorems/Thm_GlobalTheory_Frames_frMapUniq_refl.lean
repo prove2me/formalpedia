@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_frMapUniq_refl
 -- name    : GlobalTheory.Frames.frMapUniq_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:07.160531+00:00
 -- url     : https://prove2.me/theorems/8c13960d-c68a-4c6e-8ab9-822b93ae4998

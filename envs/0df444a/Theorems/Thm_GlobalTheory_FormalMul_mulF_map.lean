@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalMul_mulF_map
 -- name    : GlobalTheory.FormalMul.mulF_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:37:10.368144+00:00
 -- url     : https://prove2.me/theorems/4f118af8-9517-47ac-baa6-c349287ed0aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P5_mkPair_snd__1d131e24d74e
 -- name    : P2M_Formalism_FourierDecayAlt_P5_mkPair_snd__1d131e24d74e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:27:44.92629+00:00
 -- url     : https://prove2.me/theorems/bd298ae8-883c-48ce-a643-1aa6089e0faa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_rset_sub_nset
 -- name    : Formalism.FourierDecayAlt.P.Ux2.rset_sub_nset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:23:23.661207+00:00
 -- url     : https://prove2.me/theorems/107f49e7-84fb-4d18-894b-4a528df1d12c

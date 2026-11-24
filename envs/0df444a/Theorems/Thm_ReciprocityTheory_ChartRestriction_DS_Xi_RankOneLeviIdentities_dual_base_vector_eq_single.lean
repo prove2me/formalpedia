@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_dual_base_vector_eq_single
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RankOneLeviIdentities.dual_base_vector_eq_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:19:11.037415+00:00
 -- url     : https://prove2.me/theorems/df2ab83d-7f66-43cf-a939-e099c8d8e57d

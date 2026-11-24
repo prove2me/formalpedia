@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_ipGL_rootSum_eq_sum_torus
 -- name    : GlobalTheory.CuspGL.ipGL_rootSum_eq_sum_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:34:06.067804+00:00
 -- url     : https://prove2.me/theorems/94e6507e-ee9b-41ca-9d62-be07b0f8f16a

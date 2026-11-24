@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_H_poly
 -- name    : Formalism.FourierDecayAlt.P.NFx2.H_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:16:23.912937+00:00
 -- url     : https://prove2.me/theorems/5f254589-790a-4920-8d18-50bbe47f8cea
